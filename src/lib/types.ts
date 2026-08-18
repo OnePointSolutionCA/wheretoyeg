@@ -42,6 +42,15 @@ export type Business = {
   active: boolean;
   date_listed: string;
   reviews?: Review[];
+  /**
+   * Per-platform delivery info.
+   * For each platform: omit / false → don't show button.
+   * true → show button with a search-by-name link.
+   * string (URL) → show button that opens that direct link.
+   */
+  uber_eats?: boolean | string;
+  doordash?: boolean | string;
+  skipthedishes?: boolean | string;
 };
 
 export type Subcategory = {
