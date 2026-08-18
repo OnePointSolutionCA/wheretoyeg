@@ -61,17 +61,30 @@ export function BusinessGallery({
     );
   }
   const [hero, ...rest] = photos;
-  return (
-    <div className="grid gap-2 sm:grid-cols-4 sm:grid-rows-2">
+
+  // Single photo → full-width hero at a comfortable aspect ratio
+  if (rest.length === 0) {
+    return (
       <div
-        className="photo-tile sm:col-span-2 sm:row-span-2 aspect-[4/3] sm:aspect-auto rounded-2xl"
+        className="photo-tile aspect-[16/7] w-full rounded-2xl"
+        style={{ backgroundImage: `url(${hero})` }}
+        aria-label={`${name} main photo`}
+      />
+    );
+  }
+
+  // Multiple photos → hero + thumbnail grid
+  return (
+    <div className="grid gap-2 sm:grid-cols-4 sm:grid-rows-2 sm:aspect-[16/7]">
+      <div
+        className="photo-tile aspect-[4/3] rounded-2xl sm:col-span-2 sm:row-span-2 sm:aspect-auto"
         style={{ backgroundImage: `url(${hero})` }}
         aria-label={`${name} main photo`}
       />
       {rest.slice(0, 4).map((p, i) => (
         <div
           key={p + i}
-          className="photo-tile aspect-square rounded-xl"
+          className="photo-tile aspect-square rounded-xl sm:aspect-auto"
           style={{ backgroundImage: `url(${p})` }}
           aria-hidden="true"
         />
