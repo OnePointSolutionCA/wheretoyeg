@@ -69,6 +69,30 @@ export function getFeaturedBusinesses(limit = 8): Business[] {
     .slice(0, limit);
 }
 
+export function getDiverseFeatured(limit = 12): Business[] {
+  const all = getBusinesses()
+    .filter((b) => b.tier !== "basic" && b.rating > 0)
+    .sort(rankBusinesses);
+  const picked: Business[] = [];
+  const usedCats = new Set<string>();
+  for (const b of all) {
+    if (!usedCats.has(b.category)) {
+      picked.push(b);
+      usedCats.add(b.category);
+    }
+    if (picked.length >= limit) break;
+  }
+  if (picked.length < limit) {
+    for (const b of all) {
+      if (!picked.includes(b)) {
+        picked.push(b);
+        if (picked.length >= limit) break;
+      }
+    }
+  }
+  return picked;
+}
+
 export function getRecentReviews(limit = 4) {
   const all = getBusinesses().flatMap((b) =>
     (b.reviews ?? []).map((r) => ({ ...r, business: b })),

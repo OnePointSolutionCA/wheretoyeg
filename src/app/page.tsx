@@ -2,11 +2,11 @@ import Link from "next/link";
 import { HeroSearch, type SearchIndexItem } from "@/components/HeroSearch";
 import { HeroVideo } from "@/components/HeroVideo";
 import { CategoryGrid } from "@/components/CategoryGrid";
-import { BusinessCard } from "@/components/BusinessCard";
+import { FeaturedCarousel } from "@/components/FeaturedCarousel";
 import { ReviewCard } from "@/components/ReviewCard";
 import { SITE } from "@/lib/site";
 import {
-  getFeaturedBusinesses,
+  getDiverseFeatured,
   getRecentReviews,
   getCategories,
   getBusinesses,
@@ -16,7 +16,7 @@ import { getBlogPosts } from "@/lib/blog";
 function toSlug(s: string) { return s.toLowerCase().replace(/\s+/g, "-"); }
 
 export default function HomePage() {
-  const featured = getFeaturedBusinesses(6);
+  const featured = getDiverseFeatured(12);
   const recent = getRecentReviews(4);
   const cats = getCategories();
   const catBySlug = Object.fromEntries(cats.map((c) => [c.slug, c.name]));
@@ -113,10 +113,8 @@ export default function HomePage() {
               <h2 className="section-title mt-1">Local spots worth checking out.</h2>
             </div>
           </div>
-          <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-            {featured.map((b) => (
-              <BusinessCard key={b.slug} business={b} categoryName={catBySlug[b.category]} />
-            ))}
+          <div className="mt-8">
+            <FeaturedCarousel businesses={featured} categoryNames={catBySlug} />
           </div>
         </section>
       )}

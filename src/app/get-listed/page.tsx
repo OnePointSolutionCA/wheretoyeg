@@ -33,7 +33,7 @@ const TIERS = [
       '"Featured" badge on your card',
     ],
     cta: "Go featured",
-    highlight: true,
+    highlight: false,
   },
   {
     name: "Premium",
@@ -44,10 +44,26 @@ const TIERS = [
       "Full dedicated business page",
       "Unlimited photos, 500-word description",
       "Embedded map + full contact info",
-      "Homepage rotation",
+      "Homepage carousel rotation",
     ],
     cta: "Go premium",
     highlight: false,
+  },
+  {
+    name: "Premium + SEO",
+    price: "$300",
+    yearly: "$2,700/yr",
+    features: [
+      "Everything in Premium",
+      "Monthly SEO blog post written for your business",
+      "Google Business Profile optimization",
+      "Local backlink building (citations & directories)",
+      "Keyword-targeted landing page on WhereToYEG",
+      "Monthly performance report",
+      "Priority homepage placement",
+    ],
+    cta: "Go Premium + SEO",
+    highlight: true,
   },
 ];
 
@@ -67,7 +83,7 @@ export default function GetListedPage() {
       </section>
 
       <section className="container-page mt-12" data-reveal="up">
-        <div className="grid gap-6 md:grid-cols-3">
+        <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">
           {TIERS.map((t) => (
             <div
               key={t.name}
