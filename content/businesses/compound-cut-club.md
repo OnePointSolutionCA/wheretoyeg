@@ -29,4 +29,35 @@ amenities:
   - "Hot Towel Shaves"
 tags: ["barber", "fades", "haircut", "westmount", "hot towel"]
 active: true
+reviews:
+  - name: "Phil Mon"
+    rating: 5
+    date: "2026-04-24"
+    comment: |
+      Wilson at Compound Cut Club is hands down one of the best barbers I’ve been to. He’s professional, detail-oriented, and really takes the time to understand exactly what you want. The haircut was clean, precise, and exceeded my expectations. You can tell he takes pride in his craft and makes sure every client leaves looking sharp. On top of that, he’s easy to talk to and creates a great atmosphere during the appointment. Highly recommend booking with Wilson if you want a top-tier cut and excellent service.
+  - name: "Chris Mok"
+    rating: 5
+    date: "2026-05-24"
+    comment: |
+      Absolutely top-notch haircut skills.
+      Took the time to truly understand exactly what I wanted.
+      The entire experience was smooth, professional, and comfortable from start to finish.
+      Outstanding attitude and customer service.
+      Highly recommended for anyone looking for a premium barber experience.
+      Definitely worth every dollar.
+  - name: "Raneem"
+    rating: 5
+    date: "2026-01-29"
+    comment: |
+      Me and my friends had an amazing experience with Hussein! He’s very professional and amazing at what he does. He communicated so well throughout my time there and ensured I was satisfied every step of the way. He’s very efficient and delivered exactly what I was looking for, will definitely be coming back! I’ve personally recommended him and Compound Cut Club to everyone I know :)
+  - name: "Guillermo Arroyo"
+    rating: 5
+    date: "2025-12-17"
+    comment: |
+      This place is awesome! The vibe is great and all staff is amazing! Wilson is a very talented young man! He is passionated about his profession and very skilled. The conversation was delightful. You can tell this guy really loves his job. A real professional.
+  - name: "Judy"
+    rating: 5
+    date: "2025-12-16"
+    comment: |
+      Compound Barbershop did an amazing job. My son is very picky, and this was his first time here—but he was so happy with the haircut. The staff are all friendly, patient, and skilled, which made the experience stress-free. We will definitely be coming back.
 ---

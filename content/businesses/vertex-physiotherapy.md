@@ -27,4 +27,20 @@ amenities:
 tags: ["physiotherapy", "sports-injury", "rehab"]
 active: true
 date_listed: "2026-08-18"
+reviews:
+  - name: "Stenia Trusilo"
+    rating: 5
+    date: "2025-03-22"
+    comment: |
+      I like the staff and the facility! I see Radha and she’s very knowledgeable. Radha heard my issues and explained how we can work to get my mobility back. Thanks, Radha!
+  - name: "Chris Kennedy"
+    rating: 5
+    date: "2025-07-16"
+    comment: |
+      Excellent treatment here at Vertex Physiotherapy. Everyone is really nice. Radha and Dawn were great at relieving my pain!
+  - name: "35lyndsay"
+    rating: 5
+    date: "2025-02-28"
+    comment: |
+      Very welcoming environment,  staff we have met this far have been fantastic. Glad to find something so close to home for us!
 ---

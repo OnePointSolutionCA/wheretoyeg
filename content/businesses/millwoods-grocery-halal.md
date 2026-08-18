@@ -27,4 +27,41 @@ amenities:
   - "Free Parking"
 tags: ["grocery", "halal", "butcher", "south asian", "millwoods"]
 active: true
+reviews:
+  - name: "Swapnil"
+    rating: 4
+    date: "2025-04-26"
+    comment: |
+      Went on friend’s recommendation to get goat meat. The meat was good, clean and fresh. Prices may be bit on the higher side, but goat meat is generally a premium item in Edmonton.
+      
+      There are other south  Asian, Bangladeshi and Pakistani products too. Some of standard brands.  Have not tried their food.
+      
+      Yes, the owners/ staff in the bills are indifferent and don’t smile or make any effort to make eye contact- I can live with that !!
+  - name: "Lhs Laho"
+    rating: 5
+    date: "2025-12-17"
+    comment: |
+      Peace, mercy, and blessings of God be upon you. I have been a customer for five years. You have a wide variety of clean and high-quality meats and products.
+      
+      I would like to comment on the cashier. I think he is not the right person to be welcoming and hospitable to customers.
+      
+      He doesn't know how to smile or even return a greeting.
+  - name: "Omneya Khamis"
+    rating: 5
+    date: "2026-05-31"
+    comment: |
+      The best beef I ever got in Edmonton. Owner is honest helpful and very responsive. Would recommend to anyone looking for quality beef and excellent customer service.
+  - name: "Fartab Ahmed"
+    rating: 3
+    date: "2021-10-03"
+    comment: |
+      Nice place. Haven't tried their restaurant nor did I validate their Halal authenticity. Have gone there usually for the lavash bakery tandoori roti.
+      Very good collection
+  - name: "Lamia Ninos"
+    rating: 5
+    date: "2025-11-22"
+    comment: |
+      Really friendly owners and workers,good selection of meat with affordable prices.
+      Great takeout pizza.
+      Recommend it to everyone.
 ---

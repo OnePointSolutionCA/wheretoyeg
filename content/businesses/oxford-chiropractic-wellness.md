@@ -36,4 +36,41 @@ longitude: -113.5720
 featured: true
 active: true
 date_listed: "2026-08-17"
+reviews:
+  - name: "Saba G"
+    rating: 5
+    date: "2026-06-17"
+    comment: |
+      Great chiropractor with a clean, professional clinic. Dr Ahmed is kind, patient, respectful and takes the time to make you feel comfortable. Highly recommend!
+  - name: "Mohamad Omar"
+    rating: 5
+    date: "2026-07-05"
+    comment: |
+      ⭐⭐⭐⭐⭐
+      
+      I had a great experience at Oxford Chiropractic & Wellness. I was visiting from out of town and needed an adjustment, and Ahmed was able to fit me in on very short notice, which I really appreciated.
+      
+      He was professional, personable, and made me feel comfortable throughout the appointment. The adjustment was excellent, and the entire facility was clean, welcoming, and well-maintained.
+      
+      If you're looking for quality chiropractic care with friendly, accommodating service, I would definitely recommend Oxford Chiropractic & Wellness. Thanks again, Ahmed!
+  - name: "H F"
+    rating: 5
+    date: "2026-03-21"
+    comment: |
+      I had an amazing experience at Oxford Chiropractic, especially with Dr. Ahmed. From the moment I walked in, the staff were welcoming and professional. Dr. Ahmed took the time to really listen to my concerns and explained everything clearly before starting treatment.
+      
+      After just a few visits, I noticed a big improvement in my pain and mobility. He’s knowledgeable, patient, and genuinely cares about his patients’ well-being.
+      
+      The clinic is clean, organized, and runs very smoothly. I highly recommend Dr. Ahmed to anyone looking for a trustworthy chiropractor in Edmonton — you’ll be in great hands! 👌
+  - name: "Mustafa Demlehi"
+    rating: 5
+    date: "2026-05-05"
+    comment: |
+      Excellent experience at Oxford Chiropractic & Wellness, very professional and well-organized clinic.
+      Dr. Ahmed is highly skilled and respectful — I highly recommend him.”
+  - name: "Nick S"
+    rating: 5
+    date: "2026-07-15"
+    comment: |
+      Dr. Fayad is a fantastic doctor with  excellent staff. I’ve visited many doctors, but he truly listens to what you need to be corrected. Highly recommended!
 ---

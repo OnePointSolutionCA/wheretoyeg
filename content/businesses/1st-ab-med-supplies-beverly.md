@@ -34,4 +34,10 @@ longitude: -113.4030
 featured: true
 active: true
 date_listed: "2026-08-17"
+reviews:
+  - name: "Yasmeen EA"
+    rating: 5
+    date: "2026-08-12"
+    comment: |
+      Bushra is great help! She’s always willing to go above and beyond to assist and make sure I get the right product for my needs
 ---

@@ -35,4 +35,31 @@ longitude: -113.4030
 featured: true
 active: true
 date_listed: "2026-08-17"
+reviews:
+  - name: "Jammy Teff"
+    rating: 4
+    date: "2026-03-28"
+    comment: |
+      Great staff doctors are a little slow. Pharmacy is great friendly staff
+  - name: "Erin Petersmeyer"
+    rating: 5
+    date: "2025-09-07"
+    comment: |
+      Yasmeen & the rest of the staff at the pharmacy are the best! Always kind, quick & knowledgable.
+      I’ve only seen Dr. Jurni twice but I’m incredibly happy with him so far. Glad I came here!
+  - name: "Laurie Little"
+    rating: 4
+    date: "2026-06-01"
+    comment: |
+      Went as a walk-in. Waited less than an hour to get in. Very professional staff, and very clean. I'll be coming back, for sure!
+  - name: "Anoochi Rossi"
+    rating: 5
+    date: "2024-03-19"
+    comment: |
+      Had an amazing experience at this location. The clinic staff was extremely kind and very organized. I loved the Dr I saw as well. My favorite part was the pharmacy. They were extremely quick and very personable. I will definitely be coming back here for all of my medical and medication needs.
+  - name: "Moe Zoobi"
+    rating: 5
+    date: "2024-03-19"
+    comment: |
+      Great service and very friendly people! Clinic is great and the pharmacy was amazing. Easy going doctors and will help you out with anything you need. I was helped by Mohamad in the pharmacy and he was great. Payed close attention to details and answered all of my questions. Would highly recommend this place.
 ---

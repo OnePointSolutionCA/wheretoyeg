@@ -24,7 +24,6 @@ export function CategoryGrid() {
               </span>
               <span className="mt-0.5 block text-xs text-teal-500">
                 {info?.count ? `${info.count} listing${info.count === 1 ? "" : "s"}` : "New category"}
-                {info?.avg ? ` · ★ ${info.avg}` : ""}
               </span>
             </span>
             <ArrowIcon />

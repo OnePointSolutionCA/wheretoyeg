@@ -35,4 +35,30 @@ longitude: -113.6106
 featured: true
 active: true
 date_listed: "2026-08-17"
+reviews:
+  - name: "Nicci Koughan"
+    rating: 5
+    date: "2026-07-25"
+    comment: |
+      Great company to work with! Moe is professional, responsive, and easy to deal with. Highly recommend!
+  - name: "Moe"
+    rating: 5
+    date: "2026-07-22"
+    comment: |
+      Moe did a fantastic job on my site both renewing the look of it and optimizing the SEO for it ! I highly recommend his service
+  - name: "Ahmad Rahme"
+    rating: 5
+    date: "2026-07-23"
+    comment: |
+      Easy to work  with 10/10 product highly recommended
+  - name: "Ali Najmeddine"
+    rating: 5
+    date: "2026-07-21"
+    comment: |
+      Moe is easily the best person to deal with and helpful!
+  - name: "Maha Shawar"
+    rating: 5
+    date: "2026-07-22"
+    comment: |
+      Highly recommend!
 ---
