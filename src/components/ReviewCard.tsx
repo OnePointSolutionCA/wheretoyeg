@@ -51,7 +51,7 @@ export function ReviewCard({ review }: { review: Review }) {
             <span className="text-xs text-teal-300">{formatDate(review.date)}</span>
           </div>
           <div className="mt-1">
-            <StarRating value={review.rating} compact size={13} />
+            <StarRating value={review.rating} count={1} compact size={13} />
           </div>
         </div>
       </div>
