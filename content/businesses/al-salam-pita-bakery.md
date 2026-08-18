@@ -1,9 +1,10 @@
 ---
 name: "Al Salam Bakery & Restaurant"
 slug: "al-salam-pita-bakery"
-category: "halal-restaurants"
+category: "restaurants"
 subcategory: "lebanese"
 tier: "featured"
+logo: "/logos/al-salam-pita-bakery.png"
 description: "Millwoods institution serving fresh-baked pita, shawarma, zaatar manakish, falafel, hummus, and fattoush. Over 1,600 Google reviews and still a daily lineup. Open seven days."
 address: "10141 34 Avenue NW, Edmonton, AB T6E 6J8"
 neighborhood: "Mill Woods"

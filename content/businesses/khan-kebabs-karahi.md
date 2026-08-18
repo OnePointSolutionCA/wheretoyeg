@@ -1,9 +1,10 @@
 ---
 name: "Khan Kebabs & Karahi"
 slug: "khan-kebabs-karahi"
-category: "halal-restaurants"
+category: "restaurants"
 subcategory: "pakistani"
 tier: "featured"
+logo: "/logos/khan-kebabs-karahi.png"
 description: "Authentic Pakistani BBQ and karahi house on 106 Street. Shinwari karahi, Lahori karahi, chapli kebab, chicken tikka, and biryani — all 100% halal. A go-to for Edmonton's Pakistani food lovers."
 address: "3927 106 Street, Edmonton, AB T6J 2S3"
 neighborhood: "Pleasantview"

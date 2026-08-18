@@ -1,9 +1,10 @@
 ---
 name: "KohSaar Grill"
 slug: "kohsaar-grill"
-category: "halal-restaurants"
+category: "restaurants"
 subcategory: "pakistani"
 tier: "premium"
+logo: "/logos/kohsaar-grill.png"
 description: "Upscale halal Pakistani and Turkish dining on Gateway Boulevard. Elegant decor, refined karahi, kebabs, biryani, and fresh naan. Featured in Edify magazine as one of Edmonton's new notables."
 address: "3535 Gateway Boulevard NW, Edmonton, AB T6E 6C8"
 neighborhood: "Strathcona"

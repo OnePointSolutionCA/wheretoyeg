@@ -1,9 +1,10 @@
 ---
 name: "Afghan Chopan Kebab"
 slug: "afghan-chopan-kebab"
-category: "halal-restaurants"
+category: "restaurants"
 subcategory: "afghan"
 tier: "featured"
+logo: "/logos/afghan-chopan-kebab.png"
 description: "Traditional Afghan clay-oven kebabs, Qabeli Pallaw rice, Mantu dumplings, and bolani in south Edmonton. Halal-certified with generous portions and authentic flavours."
 address: "381 Parsons Road SW, Edmonton, AB"
 neighborhood: "Heritage Valley"

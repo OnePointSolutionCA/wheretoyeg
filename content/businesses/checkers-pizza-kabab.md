@@ -1,9 +1,10 @@
 ---
 name: "Checkers Pizza & Kabab"
 slug: "checkers-pizza-kabab"
-category: "halal-restaurants"
+category: "restaurants"
 subcategory: "halal-pizza"
 tier: "featured"
+logo: "/logos/checkers-pizza-kabab.png"
 description: "Edmonton's original halal pizzeria on Whyte Ave, serving the neighbourhood for over 16 years. Hand-tossed pizza by the slice or whole, plus kababs, biryani, donairs, and wings. All 100% halal."
 address: "10658 Whyte Ave NW, Edmonton, AB"
 neighborhood: "Old Strathcona"

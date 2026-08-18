@@ -1,9 +1,10 @@
 ---
 name: "Captain Shawarma Donairs & Falafel"
 slug: "captain-shawarma"
-category: "halal-restaurants"
+category: "restaurants"
 subcategory: "shawarma"
 tier: "featured"
+logo: "/logos/captain-shawarma.png"
 description: "Massive-portion shawarma and donairs in west Edmonton. Customers regularly call it the best donair in the city. Falafel, platters, and wraps round out a tight halal menu."
 address: "15831 87 Ave NW, Edmonton, AB"
 neighborhood: "Meadowlark"

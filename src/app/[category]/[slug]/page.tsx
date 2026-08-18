@@ -21,6 +21,7 @@ import { BusinessCard } from "@/components/BusinessCard";
 import { FilterableList } from "@/components/FilterBar";
 import { SubcategoryPills } from "@/components/SubcategoryPills";
 import { businessSchema } from "@/lib/schema";
+import { deliveryLinks } from "@/lib/delivery";
 import { SITE } from "@/lib/site";
 
 /**
@@ -334,6 +335,26 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
               </a>
             )}
           </div>
+          {deliveryLinks(b).length > 0 && (
+            <div className="rounded-2xl border border-line bg-white p-5">
+              <h3 className="font-display text-lg font-bold text-teal">Order delivery</h3>
+              <div className="mt-3 flex flex-col gap-2">
+                {deliveryLinks(b).map((d) => (
+                  <a
+                    key={d.label}
+                    href={d.href}
+                    target="_blank"
+                    rel="noreferrer"
+                    className={"flex items-center justify-between rounded-xl px-4 py-2.5 text-sm font-bold transition " + d.brandClass}
+                  >
+                    {d.label}
+                    <span aria-hidden>→</span>
+                  </a>
+                ))}
+              </div>
+              <p className="mt-2 text-xs text-teal-500">Opens a search on the delivery app. Availability varies.</p>
+            </div>
+          )}
           <div className="rounded-2xl border border-line bg-white p-5">
             <h3 className="font-display text-lg font-bold text-teal">Contact</h3>
             <ul className="mt-2 space-y-1.5 text-sm">

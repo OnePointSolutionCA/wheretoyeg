@@ -1,9 +1,10 @@
 ---
 name: "Jerusalem Shawarma"
 slug: "jerusalem-shawarma"
-category: "halal-restaurants"
+category: "restaurants"
 subcategory: "shawarma"
 tier: "featured"
+logo: "/logos/jerusalem-shawarma.png"
 description: "Edmonton's most-loved shawarma spot with multiple locations across the city. Juicy chicken and beef shawarma wraps, donairs, kebabs, and platters. Every dine-in gets complimentary baklava and tea."
 address: "2213 101 St NW, Edmonton, AB T6N 1K1"
 neighborhood: "South Edmonton Common"

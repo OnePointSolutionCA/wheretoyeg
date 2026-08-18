@@ -1,9 +1,10 @@
 ---
 name: "Fatima Karahi Corner"
 slug: "fatima-karahi-corner"
-category: "halal-restaurants"
+category: "restaurants"
 subcategory: "pakistani"
 tier: "featured"
+logo: "/logos/fatima-karahi-corner.png"
 description: "Family-owned Pakistani karahi house in Ellerslie, trending hard on Edmonton's halal food scene. Signature chicken karahi, beef karahi, biryani, nihari, and chapli kebab. Open late on weekends."
 address: "10680 Ellerslie Rd SW, Edmonton, AB"
 neighborhood: "Ellerslie"

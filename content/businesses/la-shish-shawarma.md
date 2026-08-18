@@ -1,7 +1,7 @@
 ---
 name: "La Shish Shawarma"
 slug: "la-shish-shawarma"
-category: "halal-restaurants"
+category: "restaurants"
 subcategory: "shawarma"
 tier: "featured"
 description: "Edmonton's late-night shawarma institution since the 1990s. Open until 3 AM on weekends. Shawarma platters, donairs, falafel wraps, and taouk that keep regulars coming back for decades."

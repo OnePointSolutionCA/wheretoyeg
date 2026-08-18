@@ -3,16 +3,23 @@ name: "Restaurants"
 slug: "restaurants"
 description: "Edmonton's dining scene, from patio brunch on Whyte to late-night eats downtown."
 icon: "utensils"
-seo_title: "Best Restaurants in Edmonton | WhereToYEG"
-seo_description: "Find the best restaurants in Edmonton. Local favourites for burgers, sushi, mediterranean, pizza, brunch and more across YEG."
+seo_title: "Best Restaurants in Edmonton — Halal, Sushi, Pizza & More | WhereToYEG"
+seo_description: "Find the best restaurants in Edmonton. Halal, shawarma, burgers, sushi, mediterranean, pizza, brunch, biryani and more across YEG. Filter by cuisine, neighborhood, and price."
 seo_keywords:
   - "best restaurants Edmonton"
   - "restaurants near me Edmonton"
   - "where to eat Edmonton"
+  - "halal restaurants Edmonton"
+  - "shawarma Edmonton"
   - "Edmonton dining"
 order: 1
 active: true
 subcategories:
+  - { name: "Halal", slug: "halal" }
+  - { name: "Shawarma", slug: "shawarma" }
+  - { name: "Pakistani", slug: "pakistani" }
+  - { name: "Lebanese", slug: "lebanese" }
+  - { name: "Afghan", slug: "afghan" }
   - { name: "Burgers", slug: "burgers" }
   - { name: "Sushi", slug: "sushi" }
   - { name: "Mediterranean", slug: "mediterranean" }

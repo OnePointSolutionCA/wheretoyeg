@@ -1,9 +1,10 @@
 ---
 name: "Paramount Fine Foods"
 slug: "paramount-fine-foods"
-category: "halal-restaurants"
+category: "restaurants"
 subcategory: "lebanese"
 tier: "featured"
+logo: "/logos/paramount-fine-foods.png"
 description: "Premium halal Lebanese chain in north Edmonton. Charcoal-grilled meats, chicken and beef shawarma, shish taouk, kafta, fresh baklava, and flatbreads. Weekend brunch available."
 address: "12922 167 Ave NW, Edmonton, AB T6V 1J6"
 neighborhood: "Rapperswill"

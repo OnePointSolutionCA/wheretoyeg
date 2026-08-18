@@ -27,7 +27,7 @@ export const SITE = {
     "Beaumont",
   ],
   popularSearches: [
-    { label: "Halal Food", href: "/halal-restaurants" },
+    { label: "Halal Food", href: "/restaurants?amenity=Halal" },
     { label: "Barbers", href: "/barbers" },
     { label: "Lash Techs", href: "/lash-techs" },
     { label: "Coffee Shops", href: "/cafes-coffee-shops" },
