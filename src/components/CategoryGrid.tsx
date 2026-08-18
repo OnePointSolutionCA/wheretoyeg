@@ -13,9 +13,9 @@ export function CategoryGrid() {
           <Link
             key={c.slug}
             href={`/${c.slug}`}
-            className="group flex items-center gap-4 rounded-2xl border border-line bg-white p-4 transition hover:border-teal-300 hover:shadow-card"
+            className="cat-card group flex items-center gap-4 rounded-2xl border border-line bg-white p-4 transition-all duration-300 hover:-translate-y-1 hover:border-teal-300 hover:shadow-lift"
           >
-            <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-mist text-teal transition group-hover:bg-coral/10 group-hover:text-coral">
+            <span className="cat-icon flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-mist text-teal transition-all duration-300 group-hover:scale-110 group-hover:bg-coral/10 group-hover:text-coral">
               <CategoryIcon name={c.icon} />
             </span>
             <span className="min-w-0 flex-1">

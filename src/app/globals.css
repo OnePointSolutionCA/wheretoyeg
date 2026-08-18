@@ -141,6 +141,45 @@ body { font-feature-settings: "cv11", "ss01"; }
 }
 .glow-pulse { animation: glow-pulse 6s ease-in-out infinite; }
 
+/* ---------- Category card 3D lift ---------- */
+.cat-card {
+  transform: translateZ(0);
+  will-change: transform, box-shadow;
+}
+.cat-card .cat-icon {
+  transform: translateZ(0);
+}
+.cat-card:hover .cat-icon {
+  transform: translateZ(15px) scale(1.1) rotate(-4deg);
+}
+
+/* ---------- Marquee-style pill hover ---------- */
+.pill-3d {
+  transition: transform .25s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+.pill-3d:hover { transform: translateY(-3px) scale(1.03); }
+
+/* ---------- Gradient text shimmer ---------- */
+@keyframes shimmer {
+  0% { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+.shimmer {
+  background: linear-gradient(90deg, var(--coral) 0%, #FFB08A 50%, var(--coral) 100%);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: shimmer 4s linear infinite;
+}
+
+/* ---------- Section title 3D depth on hover ---------- */
+.section-title { transition: text-shadow .4s ease-out; }
+.section-title:hover {
+  text-shadow: 2px 2px 0 rgba(217, 123, 43, 0.08), 4px 4px 0 rgba(217, 123, 43, 0.04);
+}
+
 @media (prefers-reduced-motion: reduce) {
-  .orb, .orb-2, .orb-3, .glow-pulse { animation: none; }
+  .orb, .orb-2, .orb-3, .glow-pulse, .shimmer { animation: none; }
+  .cat-card:hover .cat-icon, .pill-3d:hover { transform: none; }
 }

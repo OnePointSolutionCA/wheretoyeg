@@ -3,33 +3,39 @@
 import { useRef, useCallback } from "react";
 
 export function Card3D({ children, className = "" }: { children: React.ReactNode; className?: string }) {
-  const ref = useRef<HTMLDivElement>(null);
+  const wrapRef = useRef<HTMLDivElement>(null);
+  const innerRef = useRef<HTMLDivElement>(null);
+  const rafRef = useRef<number | null>(null);
 
   const onMove = useCallback((e: React.MouseEvent<HTMLDivElement>) => {
-    const el = ref.current;
-    if (!el) return;
-    const rect = el.getBoundingClientRect();
+    const wrap = wrapRef.current;
+    const inner = innerRef.current;
+    if (!wrap || !inner) return;
+    const rect = wrap.getBoundingClientRect();
     const x = (e.clientX - rect.left) / rect.width - 0.5;
     const y = (e.clientY - rect.top) / rect.height - 0.5;
-    el.style.transform = `rotateY(${x * 8}deg) rotateX(${-y * 8}deg) scale(1.02)`;
-    el.style.boxShadow = `${-x * 20}px ${y * 20}px 40px rgba(5,63,82,0.12)`;
+    if (rafRef.current) cancelAnimationFrame(rafRef.current);
+    rafRef.current = requestAnimationFrame(() => {
+      inner.style.transform = `perspective(1000px) rotateY(${x * 5}deg) rotateX(${-y * 5}deg) translateZ(6px)`;
+    });
   }, []);
 
   const onLeave = useCallback(() => {
-    const el = ref.current;
-    if (!el) return;
-    el.style.transform = "";
-    el.style.boxShadow = "";
+    if (rafRef.current) cancelAnimationFrame(rafRef.current);
+    const inner = innerRef.current;
+    if (!inner) return;
+    inner.style.transform = "";
   }, []);
 
   return (
-    <div className={"card-3d " + className}>
-      <div
-        ref={ref}
-        className="card-3d-inner"
-        onMouseMove={onMove}
-        onMouseLeave={onLeave}
-      >
+    <div
+      ref={wrapRef}
+      className={"card-3d " + className}
+      onMouseMove={onMove}
+      onMouseLeave={onLeave}
+      style={{ perspective: "1000px" }}
+    >
+      <div ref={innerRef} className="card-3d-inner" style={{ transformStyle: "preserve-3d", transition: "transform 200ms ease-out", pointerEvents: "auto" }}>
         {children}
       </div>
     </div>

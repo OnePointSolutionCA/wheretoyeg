@@ -3,6 +3,8 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
+import { ScrollOrbs } from "@/components/ScrollOrbs";
+import { getCategories } from "@/lib/content";
 import { SITE } from "@/lib/site";
 
 const inter = Inter({
@@ -72,6 +74,7 @@ export const viewport: Viewport = {
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
+  const navCategories = getCategories().map((c) => ({ name: c.name, slug: c.slug }));
   return (
     <html lang="en" className={inter.variable}>
       <body className="font-sans antialiased">
@@ -81,7 +84,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         >
           Skip to content
         </a>
-        <Navbar />
+        <ScrollOrbs />
+        <Navbar categories={navCategories} />
         <main id="main">{children}</main>
         <Footer />
         <script
