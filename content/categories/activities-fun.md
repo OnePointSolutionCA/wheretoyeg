@@ -13,7 +13,7 @@ seo_keywords:
   - "climbing gym Edmonton"
   - "padel Edmonton"
   - "board game cafe Edmonton"
-order: 15
+order: 5
 active: true
 subcategories:
   - { name: "Climbing Gyms", slug: "climbing" }

@@ -23,6 +23,10 @@ export default function HomePage() {
   const cats = getCategories();
   const catBySlug = Object.fromEntries(cats.map((c) => [c.slug, c.name]));
   const blog = getBlogPosts().slice(0, 3);
+  const activities = getBusinesses()
+    .filter((b) => b.category === "activities-fun")
+    .sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0) || (b.review_count ?? 0) - (a.review_count ?? 0))
+    .slice(0, 6);
 
   // Build search index for the smart hero search
   const index: SearchIndexItem[] = [
@@ -128,6 +132,54 @@ export default function HomePage() {
       )}
 
       <FloatingCube />
+
+      {/* THINGS TO DO */}
+      {activities.length > 0 && (
+        <section className="container-page mt-16 sm:mt-20" data-reveal="right">
+          <div className="flex items-end justify-between gap-6">
+            <div>
+              <p className="eyebrow">🎯 Things to do</p>
+              <h2 className="section-title mt-1">Bored? Not for long.</h2>
+              <p className="mt-2 max-w-xl text-teal-500">
+                Climbing gyms, escape rooms, padel courts, arcades, and karting. Edmonton's rainy-day and date-night activity scene, ranked.
+              </p>
+            </div>
+            <Link href="/activities-fun" className="hidden text-sm font-semibold text-coral hover:underline sm:block">
+              All activities →
+            </Link>
+          </div>
+          <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            {activities.map((b) => (
+              <Link
+                key={b.slug}
+                href={`/${b.category}/${b.slug}`}
+                className="activity-tile group relative flex aspect-[4/3] flex-col justify-end overflow-hidden rounded-2xl bg-teal shadow-card transition-all duration-300 hover:-translate-y-1 hover:shadow-lift"
+              >
+                {b.photos?.[0] && (
+                  <div
+                    className="absolute inset-0 bg-cover bg-center transition-transform duration-700 group-hover:scale-110"
+                    style={{ backgroundImage: `url(${b.photos[0]})` }}
+                    aria-hidden="true"
+                  />
+                )}
+                {/* Dark gradient overlay for text legibility */}
+                <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/40 to-transparent" />
+                <div className="relative z-10 p-5 text-white">
+                  <div className="mb-2 inline-flex items-center gap-1 rounded-full bg-white/15 px-2.5 py-0.5 text-[10px] font-bold uppercase tracking-wider backdrop-blur-sm">
+                    ★ {b.rating.toFixed(1)}
+                    <span className="font-normal text-white/80">({b.review_count})</span>
+                  </div>
+                  <div className="font-display text-2xl font-extrabold leading-tight drop-shadow-lg">{b.name}</div>
+                  <div className="mt-1 text-sm text-white/85">{b.neighborhood}</div>
+                  <div className="mt-3 inline-flex items-center gap-1 text-xs font-bold uppercase tracking-wider text-coral">
+                    Book it <span className="transition-transform group-hover:translate-x-1">→</span>
+                  </div>
+                </div>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
 
       {/* CURATED COLLECTIONS */}
       <section className="container-page mt-16 sm:mt-20" data-reveal="left">
