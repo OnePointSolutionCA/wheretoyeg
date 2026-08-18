@@ -43,8 +43,22 @@ export function Navbar({ categories = [] }: { categories?: NavCategory[] }) {
                 Categories <span className="text-xs">▾</span>
               </button>
               {openMenu === "categories" && (
-                <div className="absolute left-1/2 top-full z-50 mt-3 w-[520px] -translate-x-1/2 rounded-2xl border border-line bg-white p-3 shadow-lift">
-                  <div className="grid grid-cols-2 gap-1">
+                <div className="dropdown-anim absolute left-1/2 top-full z-50 mt-3 w-[520px] -translate-x-1/2 overflow-hidden rounded-2xl border border-line bg-white shadow-lift">
+                  <Link
+                    href="/#categories"
+                    onClick={(e) => {
+                      setOpenMenu(null);
+                      if (pathname === "/") {
+                        e.preventDefault();
+                        document.getElementById("categories")?.scrollIntoView({ behavior: "smooth" });
+                      }
+                    }}
+                    className="flex items-center justify-between border-b border-line bg-mist/60 px-4 py-3 text-sm font-bold text-coral transition hover:bg-mist"
+                  >
+                    <span>See all categories</span>
+                    <span aria-hidden>→</span>
+                  </Link>
+                  <div className="grid grid-cols-2 gap-1 p-3">
                     {categories.map((c) => (
                       <Link
                         key={c.slug}
