@@ -5,6 +5,7 @@ import { CategoryGrid } from "@/components/CategoryGrid";
 import { FeaturedCarousel } from "@/components/FeaturedCarousel";
 import { ReviewCard } from "@/components/ReviewCard";
 import { FloatingCube } from "@/components/FloatingCube";
+import { CollectionTiles } from "@/components/CollectionTiles";
 import { SITE } from "@/lib/site";
 import {
   getDiverseFeatured,
@@ -127,6 +128,22 @@ export default function HomePage() {
       )}
 
       <FloatingCube />
+
+      {/* CURATED COLLECTIONS */}
+      <section className="container-page mt-16 sm:mt-20" data-reveal="left">
+        <div className="flex items-end justify-between gap-6">
+          <div>
+            <p className="eyebrow">Perfect for…</p>
+            <h2 className="section-title mt-1">Curated for the vibe.</h2>
+          </div>
+          <Link href="/collections" className="hidden text-sm font-semibold text-coral hover:underline sm:block">
+            All collections →
+          </Link>
+        </div>
+        <div className="mt-8">
+          <CollectionTiles limit={8} />
+        </div>
+      </section>
 
       {/* BLOG */}
       {blog.length > 0 && (

@@ -72,6 +72,7 @@ export function Navbar({ categories = [] }: { categories?: NavCategory[] }) {
           >
             Browse
           </a>
+          <Link href="/collections" className="text-sm font-semibold text-teal transition hover:text-coral">Vibes</Link>
           <Link href="/neighborhoods" className="text-sm font-semibold text-teal transition hover:text-coral">Neighborhoods</Link>
           <Link href="/search" className="text-sm font-semibold text-teal transition hover:text-coral">Search</Link>
           <Link href="/blog" className="text-sm font-semibold text-teal transition hover:text-coral">Blog</Link>
