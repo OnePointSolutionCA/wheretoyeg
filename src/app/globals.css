@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --teal: #053F52;
+  --teal-700: #032A38;
+  --coral: #F1664C;
+  --ink: #0E1E28;
+  --mist: #F6F8F9;
+  --line: #E4EAED;
+}
+
+html, body { background: #ffffff; color: var(--ink); }
+body { font-feature-settings: "cv11", "ss01"; }
+
+/* ---------- Animated OnePoint-style nav logo ---------- */
+.oplogo {
+  position: relative;
+  display: inline-block;
+  height: var(--oplogo-h, 42px);
+  aspect-ratio: 1093 / 450;
+  line-height: 0;
+}
+.oplogo img {
+  position: absolute; inset: 0;
+  height: 100%; width: 100%;
+  object-fit: contain; display: block;
+}
+.oplogo__mark {
+  clip-path: inset(0 67.6% 0 0);
+  transform-origin: 15.6% 52%;
+  animation: opmark 15s ease-out infinite;
+}
+.oplogo__text {
+  clip-path: inset(0 0 0 32.4%);
+  animation: optext 15s cubic-bezier(.22,.61,.36,1) infinite;
+}
+.oplogo__shine {
+  position: absolute; inset: 0; pointer-events: none;
+  -webkit-mask: url(/logo-horizontal-alpha.png) center / contain no-repeat;
+          mask: url(/logo-horizontal-alpha.png) center / contain no-repeat;
+  background: linear-gradient(100deg, transparent 44%, rgba(241,102,76,.85) 50%, transparent 56%);
+  background-size: 250% 100%;
+  background-position: 160% 0;
+  animation: opshine 15s ease-in-out infinite;
+}
+@keyframes opmark {
+  0%   { transform: rotate(-175deg) scale(.28); opacity: 0; }
+  7%   { opacity: 1; }
+  12%  { transform: rotate(0) scale(1); opacity: 1; }
+  100% { transform: rotate(0) scale(1); opacity: 1; }
+}
+@keyframes optext {
+  0%,4% { clip-path: inset(0 100% 0 32.4%); opacity: 0; }
+  17%   { clip-path: inset(0 0 0 32.4%); opacity: 1; }
+  100%  { clip-path: inset(0 0 0 32.4%); opacity: 1; }
+}
+@keyframes opshine {
+  0%,19% { background-position: 160% 0; }
+  34%    { background-position: -60% 0; }
+  100%   { background-position: -60% 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .oplogo__mark, .oplogo__text { animation: none; }
+  .oplogo__shine { display: none; }
+}
+
+/* ---------- utility classes ---------- */
+.container-page { @apply mx-auto max-w-page px-5 sm:px-6 lg:px-8; }
+.btn-primary { @apply inline-flex items-center justify-center rounded-full bg-coral px-5 py-2.5 font-semibold text-white transition hover:bg-coral-500 active:translate-y-px; }
+.btn-ghost { @apply inline-flex items-center justify-center rounded-full border border-line bg-white px-5 py-2.5 font-semibold text-teal transition hover:border-teal-300 hover:bg-mist; }
+.chip { @apply inline-flex items-center gap-1.5 rounded-full border border-line bg-white px-3 py-1.5 text-sm font-medium text-teal transition hover:border-teal-300 hover:bg-mist; }
+.chip--active { @apply border-teal bg-teal text-white hover:bg-teal-600 hover:border-teal-600; }
+.pill { @apply inline-flex items-center gap-1 rounded-full bg-mist px-2.5 py-1 text-xs font-medium text-teal-500; }
+.badge-featured { @apply inline-flex items-center gap-1 rounded-full bg-coral/10 px-2.5 py-1 text-[11px] font-bold uppercase tracking-wide text-coral; }
+.badge-premium { @apply inline-flex items-center gap-1 rounded-full bg-teal px-2.5 py-1 text-[11px] font-bold uppercase tracking-wide text-white; }
+.section-title { @apply font-display text-3xl font-bold tracking-tight text-teal sm:text-4xl; }
+.eyebrow { @apply text-xs font-bold uppercase tracking-[0.18em] text-coral; }
+
+/* subtle fade-in for content sections */
+@keyframes rise {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.rise { animation: rise .6s ease-out both; }
+.rise-2 { animation: rise .6s ease-out .1s both; }
+.rise-3 { animation: rise .6s ease-out .2s both; }
+
+/* Focus */
+:focus-visible { outline: 2px solid var(--coral); outline-offset: 2px; border-radius: 6px; }
+
+/* card grid photo */
+.photo-tile {
+  background-color: var(--teal);
+  background-size: cover;
+  background-position: center;
+}

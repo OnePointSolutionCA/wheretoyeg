@@ -1,0 +1,36 @@
+---
+name: "Medicine Place Walk-In Clinic (Downtown 105 St)"
+slug: "medicine-place-walk-in-clinic-downtown"
+category: "medical"
+subcategory: "walk-in-clinics"
+tier: "premium"
+description: "Downtown Edmonton walk-in medical clinic on 105 Street. Family physicians for minor illness, injuries, prescriptions, and physicals. Same-day walk-in visits welcome."
+address: "10660 105 St NW"
+neighborhood: "Downtown"
+phone: "780-784-0475"
+website: "https://medicineplace.ca"
+google_maps_url: "https://maps.google.com/?q=10660+105+St+NW+Edmonton"
+hours:
+  monday: "9:00 AM - 5:00 PM"
+  tuesday: "9:00 AM - 5:00 PM"
+  wednesday: "9:00 AM - 5:00 PM"
+  thursday: "9:00 AM - 5:00 PM"
+  friday: "9:00 AM - 5:00 PM"
+  saturday: "Closed"
+  sunday: "Closed"
+photos: []
+rating: 3.1
+review_count: 152
+price_range: "$"
+amenities:
+  - "Walk-ins Welcome"
+  - "Wheelchair Accessible"
+  - "Pharmacy On-Site"
+  - "Transit Accessible"
+tags: ["walk-in clinic", "downtown", "family medicine"]
+latitude: 53.5464
+longitude: -113.5023
+featured: true
+active: true
+date_listed: "2026-08-17"
+---
