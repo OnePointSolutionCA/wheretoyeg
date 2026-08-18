@@ -271,32 +271,55 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
             </div>
           )}
 
-          {b.reviews?.length ? (
-            <div className="mt-10">
-              <div className="flex items-end justify-between">
-                <h2 className="font-display text-xl font-bold text-teal">Reviews</h2>
+          <div className="mt-10">
+            <div className="flex items-end justify-between">
+              <h2 className="font-display text-xl font-bold text-teal">Reviews</h2>
+              <a
+                href={reviewFormLink(b.name)}
+                target="_blank"
+                rel="noreferrer"
+                className="text-sm font-semibold text-coral hover:underline"
+              >
+                Write a review →
+              </a>
+            </div>
+
+            {/* Aggregate summary — always shown */}
+            <div className="mt-4 flex flex-col gap-4 rounded-2xl border border-line bg-white p-6 shadow-card sm:flex-row sm:items-center sm:justify-between">
+              <div className="flex items-center gap-4">
+                <div className="text-center">
+                  <div className="font-display text-4xl font-extrabold text-teal">{b.rating > 0 ? b.rating.toFixed(1) : "—"}</div>
+                  <StarRating value={b.rating} count={0} />
+                </div>
+                <div className="border-l border-line pl-4">
+                  <div className="text-sm font-semibold text-teal">
+                    {b.review_count > 0 ? `Based on ${b.review_count} Google review${b.review_count === 1 ? "" : "s"}` : "No reviews yet"}
+                  </div>
+                  <div className="mt-1 text-xs text-teal-500">
+                    Ratings aggregated from Google Maps. Read the individual reviews below or on Google.
+                  </div>
+                </div>
+              </div>
+              {b.google_maps_url && (
                 <a
-                  href={reviewFormLink(b.name)}
+                  href={b.google_maps_url}
                   target="_blank"
                   rel="noreferrer"
-                  className="text-sm font-semibold text-coral hover:underline"
+                  className="btn-primary shrink-0 text-sm"
                 >
-                  Write a review →
+                  Read on Google →
                 </a>
-              </div>
+              )}
+            </div>
+
+            {b.reviews?.length ? (
               <div className="mt-4 grid gap-4 sm:grid-cols-2">
                 {b.reviews.map((r, i) => (
                   <ReviewCard key={i} review={r} />
                 ))}
               </div>
-            </div>
-          ) : (
-            <div className="mt-10 rounded-2xl border border-dashed border-line bg-mist p-6 text-center text-teal-500">
-              Be the first to review {b.name}.{" "}
-              <a href={reviewFormLink(b.name)} target="_blank" rel="noreferrer" className="font-semibold text-coral hover:underline">
-                Write a review
-              </a>
-            </div>
+            ) : null}
+          </div>
           )}
         </div>
 
