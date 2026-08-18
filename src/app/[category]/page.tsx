@@ -45,7 +45,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
   return (
     <>
       <section className="border-b border-line bg-mist">
-        <div className="container-page py-12">
+        <div className="container-page py-12" data-reveal="left">
           <nav className="text-xs text-teal-500">
             <Link href="/" className="hover:text-coral">Home</Link> <span className="px-1">›</span>{" "}
             <span className="font-semibold text-teal">{c.name}</span>
@@ -67,7 +67,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
         </div>
       </section>
 
-      <section className="container-page py-10">
+      <section className="container-page py-10" data-reveal="right">
         {businesses.length > 0 ? (
           <FilterableList
             businesses={businesses}
@@ -80,7 +80,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
         )}
       </section>
 
-      <section className="container-page">
+      <section className="container-page" data-reveal="left">
         <div className="rounded-2xl border border-line bg-mist p-6">
           <p className="eyebrow">Also on WhereToYEG</p>
           <div className="mt-3 flex flex-wrap gap-2">

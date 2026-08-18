@@ -27,7 +27,7 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
 
   return (
     <>
-      <article className="container-page py-14">
+      <article className="container-page py-14" data-reveal="left">
         <nav className="text-xs text-teal-500">
           <Link href="/blog" className="hover:text-coral">Blog</Link> <span className="px-1">›</span>{" "}
           <span className="font-semibold text-teal">{p.title}</span>
@@ -52,7 +52,7 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
       </article>
 
       {others.length > 0 && (
-        <section className="container-page pb-20">
+        <section className="container-page pb-20" data-reveal="right">
           <h2 className="section-title">More from the blog</h2>
           <div className="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {others.map((o) => (

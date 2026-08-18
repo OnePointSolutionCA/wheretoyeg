@@ -120,7 +120,7 @@ function SubcategoryView({ category: c, sub }: { category: ReturnType<typeof get
   return (
     <>
       <section className="border-b border-line bg-mist">
-        <div className="container-page py-12">
+        <div className="container-page py-12" data-reveal="left">
           <nav className="text-xs text-teal-500">
             <Link href="/" className="hover:text-coral">Home</Link> <span className="px-1">›</span>{" "}
             <Link href={`/${c.slug}`} className="hover:text-coral">{c.name}</Link>{" "}
@@ -239,11 +239,11 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
         </div>
       </section>
 
-      <section className="container-page mt-8">
+      <section className="container-page mt-8" data-reveal="left">
         <BusinessGallery photos={b.photos} name={b.name} />
       </section>
 
-      <section className="container-page mt-10 grid gap-10 lg:grid-cols-3">
+      <section className="container-page mt-10 grid gap-10 lg:grid-cols-3" data-reveal="right">
         <div className="lg:col-span-2">
           <h2 className="font-display text-xl font-bold text-teal">About {b.name}</h2>
           <p className="mt-3 whitespace-pre-line text-teal-500">{b.description}</p>
@@ -349,7 +349,7 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
       </section>
 
       {similar.length > 0 && (
-        <section className="container-page mt-20">
+        <section className="container-page mt-20" data-reveal="up">
           <h2 className="section-title">You might also like</h2>
           <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
             {similar.map((s) => (

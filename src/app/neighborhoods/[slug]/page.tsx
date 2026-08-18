@@ -29,7 +29,7 @@ export default function NeighborhoodPage({ params }: { params: { slug: string } 
   return (
     <>
       <section className="border-b border-line bg-mist">
-        <div className="container-page py-12">
+        <div className="container-page py-12" data-reveal="left">
           <nav className="text-xs text-teal-500">
             <Link href="/neighborhoods" className="hover:text-coral">Neighborhoods</Link>{" "}
             <span className="px-1">›</span>{" "}
@@ -45,7 +45,7 @@ export default function NeighborhoodPage({ params }: { params: { slug: string } 
           </p>
         </div>
       </section>
-      <section className="container-page py-10">
+      <section className="container-page py-10" data-reveal="right">
         {businesses.length > 0 ? (
           <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
             {businesses.map((b) => (

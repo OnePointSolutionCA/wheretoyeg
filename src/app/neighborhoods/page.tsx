@@ -12,7 +12,7 @@ export const metadata: Metadata = {
 export default function NeighborhoodsPage() {
   const businesses = getBusinesses();
   return (
-    <section className="container-page py-16">
+    <section className="container-page py-16" data-reveal="left">
       <p className="eyebrow">Neighborhoods</p>
       <h1 className="mt-2 font-display text-4xl font-extrabold tracking-tight text-teal sm:text-5xl">
         Edmonton, by where you are.

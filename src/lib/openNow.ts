@@ -16,6 +16,7 @@ function parseTime(s: string): number | null {
 
 function parseRange(range: string): [number, number] | null {
   if (!range || /closed/i.test(range)) return null;
+  if (/24\s*hours?|always\s*open/i.test(range)) return [0, 1440];
   const parts = range.split(/[-–]/);
   if (parts.length !== 2) return null;
   const a = parseTime(parts[0]);

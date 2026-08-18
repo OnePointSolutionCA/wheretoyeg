@@ -22,11 +22,12 @@ rating: 4.7
 review_count: 188
 price_range: "$$"
 amenities:
+  - "Halal"
   - "Dine-In"
   - "Takeout"
   - "Family Friendly"
   - "Free Parking"
-tags: ["burgers", "smash burger", "casual dining", "north edmonton"]
+tags: ["burgers", "smash burger", "halal", "casual dining", "north edmonton"]
 latitude: 53.6047
 longitude: -113.5563
 featured: true

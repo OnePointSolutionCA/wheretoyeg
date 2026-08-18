@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
+import { ScrollRevealProvider } from "@/components/ScrollReveal";
 import { SITE } from "@/lib/site";
 
 const inter = Inter({
@@ -84,6 +85,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Navbar />
         <main id="main">{children}</main>
         <Footer />
+        <ScrollRevealProvider />
         {/* Scroll to top on refresh / hard navigation. Runs early to avoid a visible jump. */}
         <script
           dangerouslySetInnerHTML={{

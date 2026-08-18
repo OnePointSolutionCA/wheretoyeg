@@ -23,7 +23,7 @@ export default function BlogIndex() {
           </p>
         </div>
       </section>
-      <section className="container-page py-12">
+      <section className="container-page py-12" data-reveal="right">
         {posts.length === 0 ? (
           <div className="rounded-2xl border border-dashed border-line bg-mist p-12 text-center text-teal-500">
             First posts landing soon.

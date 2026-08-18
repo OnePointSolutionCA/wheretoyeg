@@ -66,7 +66,7 @@ export default function GetListedPage() {
         </div>
       </section>
 
-      <section className="container-page mt-12">
+      <section className="container-page mt-12" data-reveal="up">
         <div className="grid gap-6 md:grid-cols-3">
           {TIERS.map((t) => (
             <div
@@ -110,7 +110,7 @@ export default function GetListedPage() {
         </div>
       </section>
 
-      <section id="apply" className="container-page mt-16">
+      <section id="apply" className="container-page mt-16" data-reveal="left">
         <div className="rounded-3xl border border-line bg-mist p-8 sm:p-12">
           <p className="eyebrow">Apply</p>
           <h2 className="mt-2 font-display text-3xl font-extrabold text-teal">

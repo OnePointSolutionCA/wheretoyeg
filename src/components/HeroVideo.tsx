@@ -5,25 +5,46 @@ import { useEffect, useRef } from "react";
 export function HeroVideo() {
   const videoRef = useRef<HTMLVideoElement>(null);
 
-  // Force play on mount + on visibility change.
-  // Some iOS versions block declarative `autoplay` on cellular even when muted.
   useEffect(() => {
     const v = videoRef.current;
     if (!v) return;
     v.muted = true;
     v.playsInline = true;
-    // Legacy iOS attributes — set imperatively so TS doesn't complain in JSX.
     v.setAttribute("webkit-playsinline", "true");
     v.setAttribute("x5-playsinline", "true");
-    const tryPlay = () => v.play().catch(() => {});
+    v.setAttribute("x5-video-player-type", "h5");
+    v.setAttribute("disableRemotePlayback", "true");
+
+    const tryPlay = () => {
+      if (v.paused) {
+        v.muted = true;
+        v.play().catch(() => {});
+      }
+    };
+
     tryPlay();
+
+    const retries = [100, 300, 800, 2000];
+    const timers = retries.map((ms) => setTimeout(tryPlay, ms));
+
     document.addEventListener("visibilitychange", tryPlay);
-    // Also try on any first user interaction as a fallback
-    const onFirstTouch = () => { tryPlay(); document.removeEventListener("touchstart", onFirstTouch); };
-    document.addEventListener("touchstart", onFirstTouch, { once: true, passive: true });
+
+    const onInteract = () => { tryPlay(); cleanup(); };
+    const cleanup = () => {
+      document.removeEventListener("touchstart", onInteract);
+      document.removeEventListener("touchend", onInteract);
+      document.removeEventListener("click", onInteract);
+      document.removeEventListener("scroll", onInteract);
+    };
+    document.addEventListener("touchstart", onInteract, { once: true, passive: true });
+    document.addEventListener("touchend", onInteract, { once: true, passive: true });
+    document.addEventListener("click", onInteract, { once: true, passive: true });
+    document.addEventListener("scroll", onInteract, { once: true, passive: true });
+
     return () => {
+      timers.forEach(clearTimeout);
       document.removeEventListener("visibilitychange", tryPlay);
-      document.removeEventListener("touchstart", onFirstTouch);
+      cleanup();
     };
   }, []);
 

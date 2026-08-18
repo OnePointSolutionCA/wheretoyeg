@@ -89,7 +89,7 @@ export default function HomePage() {
       </section>
 
       {/* CATEGORIES */}
-      <section className="container-page mt-16 sm:mt-24">
+      <section className="container-page mt-16 sm:mt-24" data-reveal="left">
         <div className="flex items-end justify-between gap-6">
           <div>
             <p className="eyebrow">Browse</p>
@@ -106,7 +106,7 @@ export default function HomePage() {
 
       {/* FEATURED */}
       {featured.length > 0 && (
-        <section className="container-page mt-20">
+        <section className="container-page mt-20" data-reveal="right">
           <div className="flex items-end justify-between gap-6">
             <div>
               <p className="eyebrow">Featured this week</p>
@@ -123,7 +123,7 @@ export default function HomePage() {
 
       {/* BLOG */}
       {blog.length > 0 && (
-        <section className="container-page mt-20">
+        <section className="container-page mt-20" data-reveal="left">
           <div className="flex items-end justify-between gap-6">
             <div>
               <p className="eyebrow">From the blog</p>
@@ -154,7 +154,7 @@ export default function HomePage() {
 
       {/* RECENT REVIEWS */}
       {recent.length > 0 && (
-        <section className="container-page mt-20">
+        <section className="container-page mt-20" data-reveal="right">
           <div className="flex items-end justify-between gap-6">
             <div>
               <p className="eyebrow">Community</p>
@@ -178,7 +178,7 @@ export default function HomePage() {
       )}
 
       {/* NEIGHBORHOODS */}
-      <section className="container-page mt-20">
+      <section className="container-page mt-20" data-reveal="left">
         <div className="flex items-end justify-between gap-6">
           <div>
             <p className="eyebrow">Neighborhoods</p>
@@ -203,7 +203,7 @@ export default function HomePage() {
       </section>
 
       {/* GET LISTED CTA */}
-      <section className="container-page mt-20 sm:mt-24">
+      <section className="container-page mt-20 sm:mt-24" data-reveal="up">
         <div className="relative overflow-hidden rounded-3xl bg-teal p-10 text-white sm:p-14">
           <div className="pointer-events-none absolute inset-0 overflow-hidden">
             <div className="absolute -top-24 -left-16 h-72 w-72 rounded-full bg-coral/30 blur-3xl" />
