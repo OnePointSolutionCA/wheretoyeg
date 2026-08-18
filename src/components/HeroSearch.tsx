@@ -103,7 +103,7 @@ export function HeroSearch({
           aria-expanded={open && suggestions.length > 0}
         />
         {open && suggestions.length > 0 && (
-          <ul className="absolute left-0 right-0 top-full z-20 mt-2 max-h-[70vh] overflow-y-auto rounded-xl border border-line bg-white shadow-lift">
+          <ul className="absolute left-0 right-0 top-full z-50 mt-2 max-h-[70vh] overflow-y-auto rounded-xl border border-line bg-white shadow-lift">
             {suggestions.map((s, i) => (
               <li key={s.href}>
                 <button

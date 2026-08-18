@@ -56,7 +56,7 @@ export default function HomePage() {
   return (
     <>
       {/* HERO */}
-      <section className="relative overflow-hidden text-white">
+      <section className="relative text-white">
         <HeroVideo />
         {/* Floating 3D orbs */}
         <div className="pointer-events-none absolute inset-0 overflow-hidden" aria-hidden="true">
