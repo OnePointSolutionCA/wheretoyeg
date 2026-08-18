@@ -87,21 +87,20 @@ body { font-feature-settings: "cv11", "ss01"; }
 .rise-2 { animation: rise .6s ease-out .1s both; }
 .rise-3 { animation: rise .6s ease-out .2s both; }
 
-/* ---------- Scroll reveal animations ---------- */
+/* ---------- Scroll reveal (disabled) ----------
+   Animations were causing content to get stuck invisible on client-side
+   navigation. Content is now always visible. */
 [data-reveal] {
-  opacity: 0;
-  transition: opacity .7s ease-out, transform .7s ease-out;
-}
-[data-reveal="left"]  { transform: translateX(-48px); }
-[data-reveal="right"] { transform: translateX(48px); }
-[data-reveal="up"]    { transform: translateY(32px); }
-[data-reveal].revealed {
   opacity: 1;
-  transform: translate(0);
+  transform: none;
 }
-@media (prefers-reduced-motion: reduce) {
-  [data-reveal] { opacity: 1; transform: none; transition: none; }
-}
+
+/* Hide native video play button on mobile */
+.hero-video::-webkit-media-controls-panel,
+.hero-video::-webkit-media-controls-play-button,
+.hero-video::-webkit-media-controls-start-playback-button,
+.hero-video::-webkit-media-controls { display: none !important; -webkit-appearance: none; }
+.hero-video { object-fit: cover; }
 
 /* Focus */
 :focus-visible { outline: 2px solid var(--coral); outline-offset: 2px; border-radius: 6px; }
@@ -111,4 +110,37 @@ body { font-feature-settings: "cv11", "ss01"; }
   background-color: var(--teal);
   background-size: cover;
   background-position: center;
+}
+
+/* ---------- 3D card tilt ---------- */
+.card-3d {
+  perspective: 800px;
+  transform-style: preserve-3d;
+}
+.card-3d-inner {
+  transition: transform .15s ease-out, box-shadow .15s ease-out;
+  transform-style: preserve-3d;
+  will-change: transform;
+}
+
+/* ---------- Floating orbs ---------- */
+@keyframes float-orb {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  25% { transform: translate(30px, -20px) scale(1.05); }
+  50% { transform: translate(-15px, 15px) scale(0.95); }
+  75% { transform: translate(20px, 10px) scale(1.02); }
+}
+.orb { animation: float-orb 12s ease-in-out infinite; }
+.orb-2 { animation: float-orb 16s ease-in-out infinite reverse; }
+.orb-3 { animation: float-orb 20s ease-in-out infinite 4s; }
+
+/* ---------- Glow pulse ---------- */
+@keyframes glow-pulse {
+  0%, 100% { opacity: 0.4; transform: scale(1); }
+  50% { opacity: 0.7; transform: scale(1.15); }
+}
+.glow-pulse { animation: glow-pulse 6s ease-in-out infinite; }
+
+@media (prefers-reduced-motion: reduce) {
+  .orb, .orb-2, .orb-3, .glow-pulse { animation: none; }
 }

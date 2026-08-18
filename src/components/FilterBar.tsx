@@ -3,6 +3,7 @@
 import { useMemo, useState } from "react";
 import type { Business } from "@/lib/types";
 import { BusinessCard } from "./BusinessCard";
+import { Card3D } from "./Card3D";
 import { openStatus } from "@/lib/openNow";
 
 const PRICES = ["$", "$$", "$$$", "$$$$"] as const;
@@ -130,7 +131,9 @@ export function FilterableList({
       </div>
       <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
         {filtered.map((b) => (
-          <BusinessCard key={b.slug} business={b} categoryName={categoryName} />
+          <Card3D key={b.slug}>
+            <BusinessCard business={b} categoryName={categoryName} />
+          </Card3D>
         ))}
       </div>
       {filtered.length === 0 && (

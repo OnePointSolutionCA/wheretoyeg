@@ -4,6 +4,7 @@ import { HeroVideo } from "@/components/HeroVideo";
 import { CategoryGrid } from "@/components/CategoryGrid";
 import { FeaturedCarousel } from "@/components/FeaturedCarousel";
 import { ReviewCard } from "@/components/ReviewCard";
+import { FloatingCube } from "@/components/FloatingCube";
 import { SITE } from "@/lib/site";
 import {
   getDiverseFeatured,
@@ -57,10 +58,16 @@ export default function HomePage() {
       {/* HERO */}
       <section className="relative overflow-hidden text-white">
         <HeroVideo />
+        {/* Floating 3D orbs */}
+        <div className="pointer-events-none absolute inset-0 overflow-hidden" aria-hidden="true">
+          <div className="orb absolute top-16 right-[10%] h-32 w-32 rounded-full bg-coral/20 blur-2xl sm:h-48 sm:w-48" />
+          <div className="orb-2 absolute bottom-20 left-[5%] h-40 w-40 rounded-full bg-teal-300/15 blur-2xl sm:h-56 sm:w-56" />
+          <div className="orb-3 absolute top-1/2 left-1/2 h-24 w-24 -translate-x-1/2 -translate-y-1/2 rounded-full bg-white/10 blur-xl sm:h-36 sm:w-36" />
+        </div>
         <div className="container-page relative py-24 sm:py-32">
           <div className="mx-auto max-w-3xl text-center">
             <span className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/10 px-3 py-1 text-xs font-semibold uppercase tracking-wider text-white/90 backdrop-blur rise">
-              <span className="inline-block h-1.5 w-1.5 rounded-full bg-coral" />
+              <span className="glow-pulse inline-block h-1.5 w-1.5 rounded-full bg-coral" />
               Edmonton · Alberta
             </span>
             <h1 className="mt-5 font-display text-4xl font-extrabold leading-tight tracking-tight sm:text-6xl rise-2">
@@ -89,7 +96,7 @@ export default function HomePage() {
       </section>
 
       {/* CATEGORIES */}
-      <section className="container-page mt-16 sm:mt-24" data-reveal="left">
+      <section id="categories" className="container-page mt-16 sm:mt-24 scroll-mt-24" data-reveal="left">
         <div className="flex items-end justify-between gap-6">
           <div>
             <p className="eyebrow">Browse</p>
@@ -118,6 +125,8 @@ export default function HomePage() {
           </div>
         </section>
       )}
+
+      <FloatingCube />
 
       {/* BLOG */}
       {blog.length > 0 && (

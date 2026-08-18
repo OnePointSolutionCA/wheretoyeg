@@ -14,6 +14,7 @@ export function HeroVideo() {
     v.setAttribute("x5-playsinline", "true");
     v.setAttribute("x5-video-player-type", "h5");
     v.setAttribute("disableRemotePlayback", "true");
+    v.removeAttribute("controls");
 
     const tryPlay = () => {
       if (v.paused) {
@@ -24,25 +25,35 @@ export function HeroVideo() {
 
     tryPlay();
 
-    const retries = [100, 300, 800, 2000];
-    const timers = retries.map((ms) => setTimeout(tryPlay, ms));
+    const timers = [50, 150, 400, 800, 1500, 3000].map((ms) => setTimeout(tryPlay, ms));
+
+    let raf: number;
+    let attempts = 0;
+    const rafLoop = () => {
+      if (v.paused && attempts < 60) {
+        attempts++;
+        v.muted = true;
+        v.play().catch(() => {});
+        raf = requestAnimationFrame(rafLoop);
+      }
+    };
+    raf = requestAnimationFrame(rafLoop);
 
     document.addEventListener("visibilitychange", tryPlay);
 
     const onInteract = () => { tryPlay(); cleanup(); };
     const cleanup = () => {
-      document.removeEventListener("touchstart", onInteract);
-      document.removeEventListener("touchend", onInteract);
-      document.removeEventListener("click", onInteract);
-      document.removeEventListener("scroll", onInteract);
+      ["touchstart", "touchend", "click", "scroll"].forEach((e) =>
+        document.removeEventListener(e, onInteract)
+      );
     };
-    document.addEventListener("touchstart", onInteract, { once: true, passive: true });
-    document.addEventListener("touchend", onInteract, { once: true, passive: true });
-    document.addEventListener("click", onInteract, { once: true, passive: true });
-    document.addEventListener("scroll", onInteract, { once: true, passive: true });
+    ["touchstart", "touchend", "click", "scroll"].forEach((e) =>
+      document.addEventListener(e, onInteract, { once: true, passive: true })
+    );
 
     return () => {
       timers.forEach(clearTimeout);
+      cancelAnimationFrame(raf);
       document.removeEventListener("visibilitychange", tryPlay);
       cleanup();
     };
@@ -53,13 +64,12 @@ export function HeroVideo() {
       <div className="absolute inset-0 bg-gradient-to-br from-teal via-teal-700 to-teal-900" />
       <video
         ref={videoRef}
-        className="absolute inset-0 h-full w-full object-cover opacity-70"
+        className="hero-video absolute inset-0 h-full w-full object-cover opacity-70"
         autoPlay
         muted
         loop
         playsInline
         preload="auto"
-        poster="/hero-poster.jpg"
         aria-hidden="true"
       >
         <source src="/hero-edmonton.mp4" type="video/mp4" />

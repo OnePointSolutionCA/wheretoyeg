@@ -28,8 +28,8 @@ export function BusinessCard({ business, categoryName }: { business: Business; c
             </div>
           )}
           {!photo && !b.logo && (
-            <div className="flex h-full items-center justify-center text-white/60">
-              <span className="font-display text-4xl font-bold opacity-40">
+            <div className="flex h-full items-center justify-center bg-gradient-to-br from-teal to-teal-700">
+              <span className="font-display text-5xl font-extrabold text-white/30">
                 {b.name.slice(0, 1)}
               </span>
             </div>

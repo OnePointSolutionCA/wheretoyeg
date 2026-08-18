@@ -55,8 +55,8 @@ export function HeroSearch({
     });
     return scored
       .sort((a, b) => a.score - b.score)
-      .filter((r) => r.score <= 0.4)
-      .slice(0, 7)
+      .filter((r) => r.score <= 0.55)
+      .slice(0, 12)
       .map((r) => r.item);
   }, [q, fuse]);
 
@@ -103,7 +103,7 @@ export function HeroSearch({
           aria-expanded={open && suggestions.length > 0}
         />
         {open && suggestions.length > 0 && (
-          <ul className="absolute left-0 right-0 top-full z-20 mt-2 overflow-hidden rounded-xl border border-line bg-white shadow-lift">
+          <ul className="absolute left-0 right-0 top-full z-20 mt-2 max-h-[70vh] overflow-y-auto rounded-xl border border-line bg-white shadow-lift">
             {suggestions.map((s, i) => (
               <li key={s.href}>
                 <button
@@ -124,6 +124,15 @@ export function HeroSearch({
                 </button>
               </li>
             ))}
+            <li>
+              <button
+                type="button"
+                onClick={() => { setOpen(false); submit(); }}
+                className="flex w-full items-center justify-center gap-2 border-t border-line px-4 py-3 text-sm font-semibold text-coral transition hover:bg-mist"
+              >
+                See all results for &ldquo;{q}&rdquo; →
+              </button>
+            </li>
           </ul>
         )}
       </div>

@@ -4,6 +4,7 @@ import Fuse from "fuse.js";
 import { useMemo, useState, useEffect } from "react";
 import type { Business } from "@/lib/types";
 import { BusinessCard } from "@/components/BusinessCard";
+import { Card3D } from "@/components/Card3D";
 import { useSearchParams } from "next/navigation";
 
 export function SearchClient({
@@ -85,7 +86,9 @@ export function SearchClient({
       </p>
       <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
         {results.map((b) => (
-          <BusinessCard key={b.slug} business={b} categoryName={categoryNames[b.category]} />
+          <Card3D key={b.slug}>
+            <BusinessCard business={b} categoryName={categoryNames[b.category]} />
+          </Card3D>
         ))}
       </div>
       {results.length === 0 && (
