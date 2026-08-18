@@ -40,9 +40,9 @@ export async function generateStaticParams() {
       params.push({ category: c.slug, slug: s.slug });
     }
   }
-  // Premium business URLs
+  // Business detail URLs (every business, not just premium)
   for (const b of getBusinesses()) {
-    if (b.tier === "premium") params.push({ category: b.category, slug: b.slug });
+    params.push({ category: b.category, slug: b.slug });
   }
   return params;
 }
@@ -241,7 +241,7 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
       </section>
 
       <section className="container-page mt-8" data-reveal="left">
-        <BusinessGallery photos={b.photos} name={b.name} />
+        <BusinessGallery photos={b.photos} name={b.name} logo={b.logo} categoryName={cat.name} slug={b.slug} />
       </section>
 
       <section className="container-page mt-10 grid gap-10 lg:grid-cols-3" data-reveal="right">

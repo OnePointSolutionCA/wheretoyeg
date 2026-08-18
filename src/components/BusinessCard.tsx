@@ -20,7 +20,7 @@ function hashPick<T>(arr: T[], key: string): T {
 
 export function BusinessCard({ business, categoryName }: { business: Business; categoryName?: string }) {
   const b = business;
-  const href = b.tier === "premium" ? `/${b.category}/${b.slug}` : `/${b.category}#${b.slug}`;
+  const href = `/${b.category}/${b.slug}`;
   const photo = b.photos?.[0];
   const gradient = hashPick(GRADIENTS, b.slug);
 

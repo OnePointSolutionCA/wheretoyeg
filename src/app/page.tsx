@@ -42,7 +42,7 @@ export default function HomePage() {
     ...getBusinesses().map((b) => ({
       kind: "business" as const,
       name: b.name,
-      href: b.tier === "premium" ? `/${b.category}/${b.slug}` : `/${b.category}#${b.slug}`,
+      href: `/${b.category}/${b.slug}`,
       hint: `${catBySlug[b.category] ?? b.category} · ${b.neighborhood}`,
     })),
     ...SITE.neighborhoods.map((n) => ({
