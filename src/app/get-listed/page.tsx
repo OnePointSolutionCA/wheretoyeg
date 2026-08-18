@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type { Metadata } from "next";
+import { GetListedForm } from "@/components/GetListedForm";
 
 export const metadata: Metadata = {
   title: "Get your Edmonton business listed",
@@ -133,24 +134,11 @@ export default function GetListedPage() {
             Tell us about your business.
           </h2>
           <p className="mt-2 max-w-xl text-teal-500">
-            Send us your details. We'll confirm, take payment (e-transfer or Stripe link), and get your listing live within a few days.
+            Send us your details. We&apos;ll reply within 1 business day, take payment (e-transfer or Stripe link), and get your listing live within a few days.
           </p>
-          <div className="mt-6 flex flex-wrap gap-3">
-            <a
-              href="https://docs.google.com/forms/d/e/FORM_ID/viewform"
-              target="_blank"
-              rel="noreferrer"
-              className="btn-primary"
-            >
-              Open the form →
-            </a>
-            <Link href="/contact" className="btn-ghost">
-              Prefer to email? Contact us
-            </Link>
+          <div className="mt-8 rounded-2xl bg-white p-6 shadow-card sm:p-8">
+            <GetListedForm />
           </div>
-          <p className="mt-4 text-xs text-teal-300">
-            Replace <code>FORM_ID</code> with your Google Form ID before launch.
-          </p>
         </div>
       </section>
     </>
