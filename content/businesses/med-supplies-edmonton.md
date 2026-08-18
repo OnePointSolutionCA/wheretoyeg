@@ -17,7 +17,7 @@ hours:
   friday: "8:30 AM - 5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/_stock/clinic.jpg"]
+photos: ["/photos/med-supplies-edmonton-1.jpg", "/photos/med-supplies-edmonton-2.jpg", "/photos/med-supplies-edmonton-3.jpg"]
 rating: 4.8
 review_count: 224
 price_range: "$$"

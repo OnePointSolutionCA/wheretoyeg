@@ -16,7 +16,7 @@ hours:
   friday: "9:00 AM - 6:00 PM"
   saturday: "9:00 AM - 5:00 PM"
   sunday: "Closed"
-photos: ["/photos/_stock/office.jpg"]
+photos: ["/photos/edmonton-notary-services-1.jpg", "/photos/edmonton-notary-services-2.jpg", "/photos/edmonton-notary-services-3.jpg"]
 rating: 4.8
 review_count: 145
 price_range: "$"

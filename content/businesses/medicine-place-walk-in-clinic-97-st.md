@@ -19,7 +19,7 @@ hours:
   friday: "9:00 AM - 5:00 PM"
   saturday: "9:00 AM - 2:00 PM"
   sunday: "Closed"
-photos: ["/photos/medicine-place-walk-in-clinic-97-st.jpg"]
+photos: ["/photos/medicine-place-walk-in-clinic-97-st-1.jpg", "/photos/medicine-place-walk-in-clinic-97-st-2.jpg", "/photos/medicine-place-walk-in-clinic-97-st-3.jpg"]
 rating: 4.0
 review_count: 236
 price_range: "$"

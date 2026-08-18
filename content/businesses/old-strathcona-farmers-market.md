@@ -16,7 +16,7 @@ hours:
   friday: "Closed"
   saturday: "8:00 AM - 3:00 PM"
   sunday: "Closed"
-photos: ["/photos/_stock/grocery.jpg"]
+photos: ["/photos/old-strathcona-farmers-market-1.jpg", "/photos/old-strathcona-farmers-market-2.jpg", "/photos/old-strathcona-farmers-market-3.jpg"]
 rating: 4.8
 review_count: 620
 price_range: "$$"

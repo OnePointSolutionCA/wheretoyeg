@@ -19,7 +19,7 @@ hours:
   friday: "3:00 PM - 10:00 PM"
   saturday: "3:00 PM - 10:00 PM"
   sunday: "3:00 PM - 10:00 PM"
-photos: ["/photos/dream-tea-house.png"]
+photos: ["/photos/dream-tea-house-1.jpg", "/photos/dream-tea-house-2.jpg", "/photos/dream-tea-house-3.jpg"]
 rating: 4.1
 review_count: 200
 price_range: "$"

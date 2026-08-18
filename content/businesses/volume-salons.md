@@ -19,7 +19,7 @@ hours:
   friday: "10:00 AM - 8:00 PM"
   saturday: "9:00 AM - 5:00 PM"
   sunday: "Closed"
-photos: ["/photos/volume-salons.png"]
+photos: ["/photos/volume-salons-1.jpg", "/photos/volume-salons-2.jpg", "/photos/volume-salons-3.jpg"]
 rating: 4.6
 review_count: 24
 price_range: "$$$"

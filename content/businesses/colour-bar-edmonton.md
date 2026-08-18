@@ -16,7 +16,7 @@ hours:
   friday: "9:00 AM - 6:00 PM"
   saturday: "9:00 AM - 5:00 PM"
   sunday: "Closed"
-photos: ["/photos/_stock/salon.jpg"]
+photos: ["/photos/colour-bar-edmonton-1.jpg", "/photos/colour-bar-edmonton-2.jpg", "/photos/colour-bar-edmonton-3.jpg"]
 rating: 4.8
 review_count: 175
 price_range: "$$$"

@@ -16,7 +16,7 @@ hours:
   friday: "11:00 AM - 11:00 PM"
   saturday: "11:00 AM - 11:00 PM"
   sunday: "11:00 AM - 9:00 PM"
-photos: ["/photos/_stock/restaurant.jpg"]
+photos: ["/photos/sushi-ai-edmonton-1.jpg", "/photos/sushi-ai-edmonton-2.jpg", "/photos/sushi-ai-edmonton-3.jpg"]
 rating: 4.4
 review_count: 85
 price_range: "$$"

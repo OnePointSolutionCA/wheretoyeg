@@ -17,7 +17,7 @@ hours:
   friday: "7:00 AM - 1:00 AM"
   saturday: "7:00 AM - 1:00 AM"
   sunday: "7:00 AM - 12:00 AM"
-photos: ["/photos/_stock/cafe.jpg"]
+photos: ["/photos/mokha-coffee-house-1.jpg", "/photos/mokha-coffee-house-2.jpg", "/photos/mokha-coffee-house-3.jpg"]
 rating: 4.6
 review_count: 180
 price_range: "$$"

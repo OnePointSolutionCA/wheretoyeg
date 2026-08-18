@@ -17,7 +17,7 @@ hours:
   friday: "10:00 AM - 8:00 PM"
   saturday: "10:00 AM - 8:00 PM"
   sunday: "11:00 AM - 6:00 PM"
-photos: ["/photos/_stock/grocery.jpg"]
+photos: ["/photos/millwoods-grocery-halal-1.jpg", "/photos/millwoods-grocery-halal-2.jpg", "/photos/millwoods-grocery-halal-3.jpg"]
 rating: 4.2
 review_count: 231
 price_range: "$"

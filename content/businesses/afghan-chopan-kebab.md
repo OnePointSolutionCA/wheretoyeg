@@ -19,7 +19,7 @@ hours:
   friday: "11:00 AM - 11:00 PM"
   saturday: "11:00 AM - 11:00 PM"
   sunday: "11:00 AM - 11:00 PM"
-photos: ["/photos/_stock/restaurant.jpg"]
+photos: ["/photos/afghan-chopan-kebab-1.jpg", "/photos/afghan-chopan-kebab-2.jpg", "/photos/afghan-chopan-kebab-3.jpg"]
 rating: 4.2
 review_count: 130
 price_range: "$$"

@@ -20,7 +20,7 @@ hours:
   friday: "8:00 AM - 5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/fix-auto-sherwood-north.jpg"]
+photos: ["/photos/fix-auto-sherwood-north-1.jpg", "/photos/fix-auto-sherwood-north-2.jpg", "/photos/fix-auto-sherwood-north-3.jpg"]
 rating: 0
 review_count: 0
 price_range: "$$$"

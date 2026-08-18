@@ -19,7 +19,7 @@ hours:
   friday: "11:00 AM - 7:00 PM"
   saturday: "11:00 AM - 5:00 PM"
   sunday: "11:00 AM - 5:00 PM"
-photos: ["/photos/compound-cut-club.jpg"]
+photos: ["/photos/compound-cut-club-1.jpg", "/photos/compound-cut-club-2.jpg", "/photos/compound-cut-club-3.jpg"]
 rating: 4.9
 review_count: 1353
 price_range: "$$"

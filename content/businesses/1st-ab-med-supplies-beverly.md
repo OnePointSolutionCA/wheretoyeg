@@ -19,7 +19,7 @@ hours:
   friday: "9:00 AM - 5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/1st-ab-med-supplies-beverly.png"]
+photos: ["/photos/1st-ab-med-supplies-beverly-1.jpg"]
 rating: 0
 review_count: 0
 price_range: "$$"

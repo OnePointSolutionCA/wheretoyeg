@@ -17,7 +17,7 @@ hours:
   friday: "11:00 AM - 3:00 AM"
   saturday: "11:00 AM - 3:00 AM"
   sunday: "12:00 PM - 12:00 AM"
-photos: ["/photos/_stock/restaurant.jpg"]
+photos: ["/photos/la-shish-shawarma-1.jpg", "/photos/la-shish-shawarma-2.jpg", "/photos/la-shish-shawarma-3.jpg"]
 rating: 4.2
 review_count: 1500
 price_range: "$"

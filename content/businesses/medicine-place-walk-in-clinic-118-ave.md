@@ -19,7 +19,7 @@ hours:
   friday: "9:00 AM - 5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/medicine-place-walk-in-clinic-118-ave.jpg"]
+photos: ["/photos/medicine-place-walk-in-clinic-118-ave-1.jpg", "/photos/medicine-place-walk-in-clinic-118-ave-2.jpg", "/photos/medicine-place-walk-in-clinic-118-ave-3.jpg"]
 rating: 4.0
 review_count: 116
 price_range: "$"

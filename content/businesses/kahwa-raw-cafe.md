@@ -16,7 +16,7 @@ hours:
   friday: "5:00 PM - 12:00 AM"
   saturday: "5:00 PM - 12:00 AM"
   sunday: "5:00 PM - 12:00 AM"
-photos: ["/photos/_stock/cafe.jpg"]
+photos: ["/photos/kahwa-raw-cafe-1.jpg", "/photos/kahwa-raw-cafe-2.jpg", "/photos/kahwa-raw-cafe-3.jpg"]
 rating: 4.7
 review_count: 95
 price_range: "$$"

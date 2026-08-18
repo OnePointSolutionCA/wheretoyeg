@@ -19,7 +19,7 @@ hours:
   friday: "11:00 AM - 1:00 AM"
   saturday: "11:00 AM - 1:00 AM"
   sunday: "11:00 AM - 11:00 PM"
-photos: ["/photos/fatima-karahi-corner.jpg"]
+photos: ["/photos/fatima-karahi-corner-1.jpg", "/photos/fatima-karahi-corner-2.jpg"]
 rating: 4.5
 review_count: 85
 price_range: "$$"

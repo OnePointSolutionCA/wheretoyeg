@@ -15,7 +15,7 @@ hours:
   friday: "9:00 AM - 8:00 PM"
   saturday: "9:00 AM - 6:00 PM"
   sunday: "10:00 AM - 5:00 PM"
-photos: ["/photos/_stock/spa.jpg"]
+photos: ["/photos/body-polish-day-spa-1.jpg", "/photos/body-polish-day-spa-2.jpg", "/photos/body-polish-day-spa-3.jpg"]
 rating: 4.8
 review_count: 220
 price_range: "$$"

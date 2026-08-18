@@ -18,7 +18,7 @@ hours:
   friday: "Open 24 hours"
   saturday: "Open 24 hours"
   sunday: "Open 24 hours"
-photos: ["/photos/mr-rooter-plumbing-edmonton.jpg"]
+photos: ["/photos/mr-rooter-plumbing-edmonton-1.jpg", "/photos/mr-rooter-plumbing-edmonton-2.jpg", "/photos/mr-rooter-plumbing-edmonton-3.jpg"]
 rating: 4.5
 review_count: 340
 price_range: "$$"

@@ -19,7 +19,7 @@ hours:
   friday: "8:00 AM - 4:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/city-orthodontics-south.jpg"]
+photos: ["/photos/city-orthodontics-south-1.jpg", "/photos/city-orthodontics-south-2.jpg", "/photos/city-orthodontics-south-3.jpg"]
 rating: 4.5
 review_count: 307
 price_range: "$$$"

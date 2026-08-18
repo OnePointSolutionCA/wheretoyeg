@@ -19,7 +19,7 @@ hours:
   friday: "8:00 AM - 8:00 PM"
   saturday: "8:00 AM - 8:00 PM"
   sunday: "8:00 AM - 7:00 PM"
-photos: ["/photos/sunbake-pita-bakery.jpg"]
+photos: ["/photos/sunbake-pita-bakery-1.jpg", "/photos/sunbake-pita-bakery-2.jpg", "/photos/sunbake-pita-bakery-3.jpg"]
 rating: 4.6
 review_count: 2114
 price_range: "$"

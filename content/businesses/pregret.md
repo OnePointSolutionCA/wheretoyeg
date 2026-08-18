@@ -18,7 +18,7 @@ hours:
   friday: "Open 24 hours"
   saturday: "Open 24 hours"
   sunday: "Open 24 hours"
-photos: ["/photos/pregret.png"]
+photos: ["/photos/_stock/office.jpg"]
 rating: 0
 review_count: 0
 price_range: "$"

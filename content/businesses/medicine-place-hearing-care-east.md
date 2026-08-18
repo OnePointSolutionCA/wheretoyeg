@@ -19,7 +19,7 @@ hours:
   friday: "9:00 AM - 5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/medicine-place-hearing-care-east.png"]
+photos: ["/photos/medicine-place-hearing-care-east-1.jpg", "/photos/medicine-place-hearing-care-east-2.jpg"]
 rating: 0
 review_count: 0
 price_range: "$$"

@@ -19,7 +19,7 @@ hours:
   friday: "9:00 AM - 6:00 PM"
   saturday: "10:00 AM - 4:00 PM"
   sunday: "Closed"
-photos: ["/photos/_stock/clinic.jpg"]
+photos: ["/photos/acme-drug-mart-1.jpg", "/photos/acme-drug-mart-2.jpg", "/photos/acme-drug-mart-3.jpg"]
 rating: 0
 review_count: 0
 price_range: "$"

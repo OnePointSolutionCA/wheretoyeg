@@ -19,7 +19,7 @@ hours:
   friday: "11:00 AM - 2:00 AM"
   saturday: "11:00 AM - 2:00 AM"
   sunday: "11:00 AM - 12:00 AM"
-photos: ["/photos/checkers-pizza-kabab.webp"]
+photos: ["/photos/checkers-pizza-kabab-1.jpg", "/photos/checkers-pizza-kabab-2.jpg", "/photos/checkers-pizza-kabab-3.jpg"]
 rating: 4.3
 review_count: 290
 price_range: "$"

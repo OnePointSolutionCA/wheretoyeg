@@ -19,7 +19,7 @@ hours:
   friday: "9:00 AM - 8:00 PM"
   saturday: "10:00 AM - 5:00 PM"
   sunday: "Closed"
-photos: ["/photos/bizou-lash-studio.jpg"]
+photos: ["/photos/bizou-lash-studio-1.jpg", "/photos/bizou-lash-studio-2.jpg", "/photos/bizou-lash-studio-3.jpg"]
 rating: 4.9
 review_count: 96
 price_range: "$$"

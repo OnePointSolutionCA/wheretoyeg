@@ -18,7 +18,7 @@ hours:
   friday: "7:00 AM - 6:00 PM"
   saturday: "8:00 AM - 4:00 PM"
   sunday: "Closed"
-photos: ["/photos/mr-electric-edmonton.jpg"]
+photos: ["/photos/mr-electric-edmonton-1.jpg", "/photos/mr-electric-edmonton-2.jpg", "/photos/mr-electric-edmonton-3.jpg"]
 rating: 4.6
 review_count: 210
 price_range: "$$"

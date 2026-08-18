@@ -18,7 +18,7 @@ hours:
   friday: "11:00 AM - 10:00 PM"
   saturday: "11:00 AM - 10:00 PM"
   sunday: "11:00 AM - 9:00 PM"
-photos: ["/photos/_stock/restaurant.jpg"]
+photos: ["/photos/middle-child-burger-1.jpg", "/photos/middle-child-burger-2.jpg", "/photos/middle-child-burger-3.jpg"]
 rating: 4.7
 review_count: 188
 price_range: "$$"

@@ -16,7 +16,7 @@ hours:
   friday: "9:00 AM - 9:00 PM"
   saturday: "10:00 AM - 8:00 PM"
   sunday: "10:00 AM - 6:00 PM"
-photos: ["/photos/_stock/gym.jpg"]
+photos: ["/photos/crossfit-terminus-1.jpg", "/photos/crossfit-terminus-2.jpg", "/photos/crossfit-terminus-3.jpg"]
 rating: 4.8
 review_count: 110
 price_range: "$$$"

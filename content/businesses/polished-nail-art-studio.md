@@ -16,7 +16,7 @@ hours:
   friday: "9:00 AM - 9:00 PM"
   saturday: "10:00 AM - 8:00 PM"
   sunday: "10:00 AM - 6:00 PM"
-photos: ["/photos/_stock/nails.jpg"]
+photos: ["/photos/polished-nail-art-studio-1.jpg", "/photos/polished-nail-art-studio-2.jpg", "/photos/polished-nail-art-studio-3.jpg"]
 rating: 4.7
 review_count: 165
 price_range: "$$"

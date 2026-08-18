@@ -16,7 +16,7 @@ hours:
   friday: "9:00 AM - 9:00 PM"
   saturday: "10:00 AM - 8:00 PM"
   sunday: "10:00 AM - 6:00 PM"
-photos: ["/photos/_stock/auto.jpg"]
+photos: ["/photos/mr-lube-edmonton-1.jpg", "/photos/mr-lube-edmonton-2.jpg", "/photos/mr-lube-edmonton-3.jpg"]
 rating: 4.4
 review_count: 280
 price_range: "$"

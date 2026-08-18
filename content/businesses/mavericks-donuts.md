@@ -19,7 +19,7 @@ hours:
   friday: "9:00 AM - 6:00 PM"
   saturday: "9:00 AM - 6:00 PM"
   sunday: "10:00 AM - 5:00 PM"
-photos: ["/photos/mavericks-donuts.png"]
+photos: ["/photos/mavericks-donuts-1.jpg", "/photos/mavericks-donuts-2.jpg", "/photos/mavericks-donuts-3.jpg"]
 rating: 4.3
 review_count: 95
 price_range: "$$"

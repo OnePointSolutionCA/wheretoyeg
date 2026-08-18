@@ -19,7 +19,7 @@ hours:
   friday: "9:00 AM - 5:00 PM"
   saturday: "9:00 AM - 2:00 PM"
   sunday: "Closed"
-photos: ["/photos/medicine-place-pharmacy-beverly.jpg"]
+photos: ["/photos/medicine-place-pharmacy-beverly-1.jpg", "/photos/medicine-place-pharmacy-beverly-2.jpg", "/photos/medicine-place-pharmacy-beverly-3.jpg"]
 rating: 4.5
 review_count: 22
 price_range: "$"

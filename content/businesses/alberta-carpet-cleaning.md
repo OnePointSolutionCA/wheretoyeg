@@ -16,7 +16,7 @@ hours:
   friday: "9:00 AM - 9:00 PM"
   saturday: "10:00 AM - 8:00 PM"
   sunday: "10:00 AM - 6:00 PM"
-photos: ["/photos/_stock/cleaning.jpg"]
+photos: ["/photos/alberta-carpet-cleaning-1.jpg", "/photos/alberta-carpet-cleaning-2.jpg", "/photos/alberta-carpet-cleaning-3.jpg"]
 rating: 4.6
 review_count: 210
 price_range: "$$"

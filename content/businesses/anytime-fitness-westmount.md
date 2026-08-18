@@ -19,7 +19,7 @@ hours:
   friday: "Open 24 Hours"
   saturday: "Open 24 Hours"
   sunday: "Open 24 Hours"
-photos: ["/photos/_stock/gym.jpg"]
+photos: ["/photos/anytime-fitness-westmount-1.jpg", "/photos/anytime-fitness-westmount-2.jpg", "/photos/anytime-fitness-westmount-3.jpg"]
 rating: 4.3
 review_count: 181
 price_range: "$$"

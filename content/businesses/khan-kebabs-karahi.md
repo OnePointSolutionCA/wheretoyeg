@@ -19,7 +19,7 @@ hours:
   friday: "11:00 AM - 10:00 PM"
   saturday: "11:00 AM - 10:00 PM"
   sunday: "11:00 AM - 10:00 PM"
-photos: ["/photos/khan-kebabs-karahi.webp"]
+photos: ["/photos/khan-kebabs-karahi-1.jpg", "/photos/khan-kebabs-karahi-2.jpg", "/photos/khan-kebabs-karahi-3.jpg"]
 rating: 4.6
 review_count: 311
 price_range: "$$"

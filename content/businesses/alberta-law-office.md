@@ -18,7 +18,7 @@ hours:
   friday: "8:30 AM - 5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/alberta-law-office.jpg"]
+photos: ["/photos/alberta-law-office-1.jpg", "/photos/alberta-law-office-2.jpg", "/photos/alberta-law-office-3.jpg"]
 rating: 4.9
 review_count: 135
 price_range: "$$$"

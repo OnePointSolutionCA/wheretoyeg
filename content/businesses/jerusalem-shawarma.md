@@ -19,7 +19,7 @@ hours:
   friday: "11:00 AM - 10:00 PM"
   saturday: "10:00 AM - 11:00 PM"
   sunday: "10:00 AM - 10:00 PM"
-photos: ["/photos/jerusalem-shawarma.png"]
+photos: ["/photos/jerusalem-shawarma-1.jpg", "/photos/jerusalem-shawarma-2.jpg", "/photos/jerusalem-shawarma-3.jpg"]
 rating: 4.9
 review_count: 1000
 price_range: "$$"

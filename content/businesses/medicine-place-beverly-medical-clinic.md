@@ -19,7 +19,7 @@ hours:
   friday: "9:00 AM - 5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/medicine-place-beverly-medical-clinic.jpg"]
+photos: ["/photos/medicine-place-beverly-medical-clinic-1.jpg", "/photos/medicine-place-beverly-medical-clinic-2.jpg", "/photos/medicine-place-beverly-medical-clinic-3.jpg"]
 rating: 3.7
 review_count: 18
 price_range: "$"

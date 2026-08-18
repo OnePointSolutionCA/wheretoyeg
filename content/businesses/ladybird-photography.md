@@ -19,7 +19,7 @@ hours:
   friday: "By Appointment"
   saturday: "By Appointment"
   sunday: "By Appointment"
-photos: ["/photos/ladybird-photography.jpg"]
+photos: ["/photos/ladybird-photography-1.jpg", "/photos/ladybird-photography-2.jpg", "/photos/ladybird-photography-3.jpg"]
 rating: 5.0
 review_count: 50
 price_range: "$$$"

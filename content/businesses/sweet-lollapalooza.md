@@ -16,7 +16,7 @@ hours:
   friday: "9:00 AM - 6:00 PM"
   saturday: "9:00 AM - 5:00 PM"
   sunday: "Closed"
-photos: ["/photos/_stock/bakery.jpg"]
+photos: ["/photos/sweet-lollapalooza-1.jpg", "/photos/sweet-lollapalooza-2.jpg", "/photos/sweet-lollapalooza-3.jpg"]
 rating: 4.8
 review_count: 120
 price_range: "$$$"

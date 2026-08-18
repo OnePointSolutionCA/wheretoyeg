@@ -16,7 +16,7 @@ hours:
   friday: "9:00 AM - 9:00 PM"
   saturday: "10:00 AM - 8:00 PM"
   sunday: "10:00 AM - 6:00 PM"
-photos: ["/photos/_stock/gym.jpg"]
+photos: ["/photos/panther-gym-boxing-1.jpg", "/photos/panther-gym-boxing-2.jpg", "/photos/panther-gym-boxing-3.jpg"]
 rating: 4.6
 review_count: 95
 price_range: "$$"

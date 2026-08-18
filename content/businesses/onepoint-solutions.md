@@ -21,7 +21,7 @@ hours:
   friday: "9:00 AM - 5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/onepoint-solutions.png"]
+photos: ["/photos/onepoint-solutions-1.jpg", "/photos/onepoint-solutions-2.jpg", "/photos/onepoint-solutions-3.jpg"]
 rating: 0
 review_count: 0
 price_range: "$$"

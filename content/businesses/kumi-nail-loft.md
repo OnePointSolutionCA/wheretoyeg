@@ -19,7 +19,7 @@ hours:
   friday: "11:00 AM - 7:00 PM"
   saturday: "10:00 AM - 4:30 PM"
   sunday: "Closed"
-photos: ["/photos/kumi-nail-loft.png"]
+photos: ["/photos/kumi-nail-loft-1.jpg", "/photos/kumi-nail-loft-2.jpg", "/photos/kumi-nail-loft-3.jpg"]
 rating: 4.4
 review_count: 96
 price_range: "$$"

@@ -19,7 +19,7 @@ hours:
   friday: "9:00 AM - 8:30 PM"
   saturday: "9:00 AM - 8:30 PM"
   sunday: "9:00 AM - 8:30 PM"
-photos: ["/photos/al-salam-pita-bakery.jpg"]
+photos: ["/photos/al-salam-pita-bakery-1.jpg", "/photos/al-salam-pita-bakery-2.jpg", "/photos/al-salam-pita-bakery-3.jpg"]
 rating: 4.2
 review_count: 1664
 price_range: "$"

@@ -16,7 +16,7 @@ hours:
   friday: "11:00 AM - 11:00 PM"
   saturday: "11:00 AM - 11:00 PM"
   sunday: "11:00 AM - 9:00 PM"
-photos: ["/photos/_stock/restaurant.jpg"]
+photos: ["/photos/namaste-diner-1.jpg", "/photos/namaste-diner-2.jpg", "/photos/namaste-diner-3.jpg"]
 rating: 4.6
 review_count: 240
 price_range: "$$"

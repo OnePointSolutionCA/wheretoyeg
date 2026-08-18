@@ -15,7 +15,7 @@ hours:
   friday: "10:00 AM - 8:00 PM"
   saturday: "9:00 AM - 6:00 PM"
   sunday: "Closed"
-photos: ["/photos/_stock/spa.jpg"]
+photos: ["/photos/si-salon-and-spa-1.jpg", "/photos/si-salon-and-spa-2.jpg", "/photos/si-salon-and-spa-3.jpg"]
 rating: 4.9
 review_count: 271
 price_range: "$$"

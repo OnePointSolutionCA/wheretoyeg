@@ -16,7 +16,7 @@ hours:
   friday: "9:00 AM - 9:00 PM"
   saturday: "10:00 AM - 8:00 PM"
   sunday: "10:00 AM - 6:00 PM"
-photos: ["/photos/_stock/grocery.jpg"]
+photos: ["/photos/tt-supermarket-edmonton-1.jpg", "/photos/tt-supermarket-edmonton-2.jpg", "/photos/tt-supermarket-edmonton-3.jpg"]
 rating: 4.5
 review_count: 890
 price_range: "$$"

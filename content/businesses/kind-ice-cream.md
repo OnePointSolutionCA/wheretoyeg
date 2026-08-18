@@ -19,7 +19,7 @@ hours:
   friday: "12:00 PM - 9:00 PM"
   saturday: "12:00 PM - 9:00 PM"
   sunday: "12:00 PM - 9:00 PM"
-photos: ["/photos/_stock/cafe.jpg"]
+photos: ["/photos/kind-ice-cream-1.jpg", "/photos/kind-ice-cream-2.jpg", "/photos/kind-ice-cream-3.jpg"]
 rating: 4.8
 review_count: 150
 price_range: "$$"

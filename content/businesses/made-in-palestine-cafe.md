@@ -18,7 +18,7 @@ hours:
   friday: "11:00 AM - 7:00 PM"
   saturday: "11:00 AM - 7:00 PM"
   sunday: "11:00 AM - 7:00 PM"
-photos: ["/photos/_stock/cafe.jpg"]
+photos: ["/photos/made-in-palestine-cafe-1.jpg", "/photos/made-in-palestine-cafe-2.jpg", "/photos/made-in-palestine-cafe-3.jpg"]
 rating: 4.9
 review_count: 65
 price_range: "$$"

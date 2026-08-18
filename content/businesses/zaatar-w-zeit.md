@@ -16,7 +16,7 @@ hours:
   friday: "11:00 AM - 11:00 PM"
   saturday: "11:00 AM - 11:00 PM"
   sunday: "11:00 AM - 9:00 PM"
-photos: ["/photos/_stock/restaurant.jpg"]
+photos: ["/photos/zaatar-w-zeit-1.jpg", "/photos/zaatar-w-zeit-2.jpg", "/photos/zaatar-w-zeit-3.jpg"]
 rating: 4.5
 review_count: 165
 price_range: "$$"

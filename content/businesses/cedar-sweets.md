@@ -19,7 +19,7 @@ hours:
   friday: "9:00 AM - 9:00 PM"
   saturday: "8:00 AM - 9:00 PM"
   sunday: "9:00 AM - 8:00 PM"
-photos: ["/photos/cedar-sweets.png"]
+photos: ["/photos/cedar-sweets-1.jpg", "/photos/cedar-sweets-2.jpg", "/photos/cedar-sweets-3.jpg"]
 rating: 4.6
 review_count: 543
 price_range: "$"

@@ -15,7 +15,7 @@ hours:
   friday: "10:00 AM - 11:00 PM"
   saturday: "10:00 AM - 11:00 PM"
   sunday: "10:00 AM - 10:00 PM"
-photos: ["/photos/_stock/cafe.jpg"]
+photos: ["/photos/arya-cafe-1.jpg", "/photos/arya-cafe-2.jpg", "/photos/arya-cafe-3.jpg"]
 rating: 4.5
 review_count: 30
 price_range: "$$"

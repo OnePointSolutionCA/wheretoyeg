@@ -20,7 +20,7 @@ hours:
   friday: "9:00 AM - 5:00 PM"
   saturday: "10:00 AM - 2:00 PM"
   sunday: "Closed"
-photos: ["/photos/_stock/clinic.jpg"]
+photos: ["/photos/oxford-chiropractic-wellness-1.jpg", "/photos/oxford-chiropractic-wellness-2.jpg", "/photos/oxford-chiropractic-wellness-3.jpg"]
 rating: 0
 review_count: 0
 price_range: "$$"

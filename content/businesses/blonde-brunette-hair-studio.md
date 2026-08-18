@@ -19,7 +19,7 @@ hours:
   friday: "10:00 AM - 8:00 PM"
   saturday: "10:00 AM - 4:00 PM"
   sunday: "Closed"
-photos: ["/photos/blonde-brunette-hair-studio.png"]
+photos: ["/photos/blonde-brunette-hair-studio-1.jpg", "/photos/blonde-brunette-hair-studio-2.jpg", "/photos/blonde-brunette-hair-studio-3.jpg"]
 rating: 4.8
 review_count: 85
 price_range: "$$$"
