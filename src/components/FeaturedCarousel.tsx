@@ -103,36 +103,6 @@ export function FeaturedCarousel({
         ))}
       </div>
 
-      {/* Dots */}
-      <div className="mt-5 flex items-center justify-center gap-2">
-        <button
-          onClick={() => { setIdx((i) => (i - 1 + total) % total); resetTimer(); }}
-          className="flex h-8 w-8 items-center justify-center rounded-full border border-line bg-white text-teal transition hover:border-teal-300 hover:text-coral"
-          aria-label="Previous"
-        >
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M15 18l-6-6 6-6"/></svg>
-        </button>
-        <div className="flex gap-1.5">
-          {businesses.map((_, i) => (
-            <button
-              key={i}
-              onClick={() => { setIdx(i); resetTimer(); }}
-              className={
-                "h-2 rounded-full transition-all " +
-                (i === idx ? "w-6 bg-coral" : "w-2 bg-teal-200 hover:bg-teal-300")
-              }
-              aria-label={`Go to slide ${i + 1}`}
-            />
-          ))}
-        </div>
-        <button
-          onClick={() => { setIdx((i) => (i + 1) % total); resetTimer(); }}
-          className="flex h-8 w-8 items-center justify-center rounded-full border border-line bg-white text-teal transition hover:border-teal-300 hover:text-coral"
-          aria-label="Next"
-        >
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M9 18l6-6-6-6"/></svg>
-        </button>
-      </div>
     </div>
   );
 }
