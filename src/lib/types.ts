@@ -18,6 +18,7 @@ export type Business = {
   category: string;
   subcategory?: string;
   tier: Tier;
+  logo?: string;
   description: string;
   address: string;
   neighborhood: string;

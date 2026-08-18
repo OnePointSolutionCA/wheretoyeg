@@ -178,7 +178,13 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
             <span className="font-semibold text-teal">{b.name}</span>
           </nav>
           <div className="mt-3 flex flex-wrap items-start justify-between gap-4">
-            <div className="min-w-0">
+            <div className="flex min-w-0 items-start gap-4">
+              {b.logo && (
+                <div className="flex h-16 w-16 shrink-0 items-center justify-center overflow-hidden rounded-2xl border border-line bg-white p-2 shadow-card sm:h-20 sm:w-20">
+                  <img src={b.logo} alt="" className="max-h-full max-w-full object-contain" />
+                </div>
+              )}
+              <div className="min-w-0">
               <div className="mb-2 flex items-center gap-2">
                 {b.tier === "premium" && <span className="badge-premium">Premium</span>}
                 {b.tier === "featured" && <span className="badge-featured">Featured</span>}
@@ -202,6 +208,7 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
                 <span>{b.neighborhood}</span>
                 <span aria-hidden>·</span>
                 <OpenNowBadge hours={b.hours} />
+              </div>
               </div>
             </div>
             <QuickActions b={b} />

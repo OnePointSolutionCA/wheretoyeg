@@ -10,15 +10,24 @@ export function BusinessCard({ business, categoryName }: { business: Business; c
   return (
     <article
       id={b.slug}
-      className="group flex flex-col overflow-hidden rounded-2xl border border-line bg-white shadow-card transition hover:-translate-y-0.5 hover:shadow-lift"
+      className="group relative flex flex-col overflow-hidden rounded-2xl border border-line bg-white shadow-card transition hover:-translate-y-0.5 hover:shadow-lift"
     >
       <Link href={href} className="block">
         <div
-          className="photo-tile aspect-[16/10] w-full"
+          className="photo-tile relative aspect-[16/10] w-full"
           style={photo ? { backgroundImage: `url(${photo})` } : undefined}
           aria-hidden="true"
         >
-          {!photo && (
+          {!photo && b.logo && (
+            <div className="absolute inset-0 flex items-center justify-center bg-white p-8">
+              <img
+                src={b.logo}
+                alt=""
+                className="max-h-full max-w-full object-contain"
+              />
+            </div>
+          )}
+          {!photo && !b.logo && (
             <div className="flex h-full items-center justify-center text-white/60">
               <span className="font-display text-4xl font-bold opacity-40">
                 {b.name.slice(0, 1)}
@@ -27,6 +36,12 @@ export function BusinessCard({ business, categoryName }: { business: Business; c
           )}
         </div>
       </Link>
+      {/* Logo badge — only shown when there IS a photo, so the logo sits over it like Yelp */}
+      {photo && b.logo && (
+        <div className="absolute left-4 top-4 flex h-12 w-12 items-center justify-center overflow-hidden rounded-xl border border-white/70 bg-white p-1.5 shadow-card">
+          <img src={b.logo} alt="" className="max-h-full max-w-full object-contain" />
+        </div>
+      )}
       <div className="flex flex-1 flex-col gap-2 p-5">
         <div className="flex items-start justify-between gap-3">
           <div className="min-w-0">
