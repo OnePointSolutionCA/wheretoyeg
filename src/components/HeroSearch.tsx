@@ -103,7 +103,10 @@ export function HeroSearch({
           aria-expanded={open && suggestions.length > 0}
         />
         {open && suggestions.length > 0 && (
-          <ul className="absolute left-0 right-0 top-full z-50 mt-2 max-h-[70vh] overflow-y-auto rounded-xl border border-line bg-white shadow-lift">
+          <ul className="dropdown-anim absolute left-0 right-0 top-full z-50 mt-3 overflow-hidden rounded-2xl border border-line bg-white shadow-lift">
+            <li className="px-4 py-2 text-[10px] font-bold uppercase tracking-wider text-teal-300">
+              Suggestions
+            </li>
             {suggestions.map((s, i) => (
               <li key={s.href}>
                 <button
@@ -111,16 +114,16 @@ export function HeroSearch({
                   onMouseEnter={() => setActive(i)}
                   onClick={() => { router.push(s.href); setOpen(false); }}
                   className={
-                    "flex w-full items-center gap-3 px-4 py-3 text-left transition " +
+                    "flex w-full items-center gap-3 px-4 py-2.5 text-left transition-colors " +
                     (i === active ? "bg-mist" : "hover:bg-mist")
                   }
                 >
-                  <KindBadge kind={s.kind} />
-                  <span className="flex-1">
-                    <span className="block text-sm font-semibold text-teal">{s.name}</span>
-                    {s.hint && <span className="block text-xs text-teal-500">{s.hint}</span>}
+                  <SuggestionIcon kind={s.kind} />
+                  <span className="min-w-0 flex-1">
+                    <span className="block truncate text-sm font-semibold text-teal">{s.name}</span>
+                    {s.hint && <span className="block truncate text-xs text-teal-500">{s.hint}</span>}
                   </span>
-                  <span className="text-xs text-teal-300">↵</span>
+                  <KindBadge kind={s.kind} />
                 </button>
               </li>
             ))}
@@ -128,9 +131,9 @@ export function HeroSearch({
               <button
                 type="button"
                 onClick={() => { setOpen(false); submit(); }}
-                className="flex w-full items-center justify-center gap-2 border-t border-line px-4 py-3 text-sm font-semibold text-coral transition hover:bg-mist"
+                className="flex w-full items-center justify-center gap-2 border-t border-line bg-mist/50 px-4 py-3 text-sm font-semibold text-coral transition hover:bg-mist"
               >
-                See all results for &ldquo;{q}&rdquo; →
+                See all results for &ldquo;{q}&rdquo; <span aria-hidden>→</span>
               </button>
             </li>
           </ul>
@@ -167,8 +170,27 @@ function KindBadge({ kind }: { kind: SearchIndexItem["kind"] }) {
       ? "bg-teal/10 text-teal"
       : "bg-emerald-50 text-emerald-700";
   return (
-    <span className={"inline-flex rounded-full px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider " + cls}>
+    <span className={"inline-flex shrink-0 rounded-full px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider " + cls}>
       {label}
+    </span>
+  );
+}
+function SuggestionIcon({ kind }: { kind: SearchIndexItem["kind"] }) {
+  const bg =
+    kind === "business" ? "bg-coral/10 text-coral"
+    : kind === "category" ? "bg-teal/10 text-teal"
+    : "bg-emerald-50 text-emerald-700";
+  const icon =
+    kind === "business" ? (
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"><path d="M3 21h18M5 21V7l7-4 7 4v14M9 9h.01M9 13h.01M9 17h.01M15 9h.01M15 13h.01M15 17h.01"/></svg>
+    ) : kind === "category" ? (
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg>
+    ) : (
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"><path d="M12 21s-7-6.5-7-12a7 7 0 1 1 14 0c0 5.5-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/></svg>
+    );
+  return (
+    <span className={"flex h-8 w-8 shrink-0 items-center justify-center rounded-lg " + bg}>
+      {icon}
     </span>
   );
 }
