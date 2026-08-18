@@ -320,7 +320,6 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
               </div>
             ) : null}
           </div>
-          )}
         </div>
 
         <aside className="space-y-6">
