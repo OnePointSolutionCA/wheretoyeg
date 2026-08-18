@@ -18,10 +18,19 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: { params: { category: string } }): Promise<Metadata> {
   const c = getCategoryBySlug(params.category);
   if (!c) return {};
+  const title = c.seo_title || `Best ${c.name} in Edmonton | ${c.name} near me`;
+  const desc = c.seo_description || `${c.description} Find the best ${c.name.toLowerCase()} across Edmonton — hours, addresses, ratings and directions.`;
   return {
-    title: c.seo_title || `Best ${c.name} in Edmonton`,
-    description: c.seo_description || c.description,
+    title,
+    description: desc,
+    keywords: [
+      ...(c.seo_keywords || []),
+      `best ${c.name.toLowerCase()} Edmonton`,
+      `${c.name.toLowerCase()} near me`,
+      `${c.name.toLowerCase()} YEG`,
+    ],
     alternates: { canonical: `${SITE.url}/${c.slug}` },
+    openGraph: { title, description: desc, images: ["/og.png"] },
   };
 }
 

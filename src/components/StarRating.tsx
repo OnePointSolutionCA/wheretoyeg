@@ -12,9 +12,20 @@ export function StarRating({
   compact?: boolean;
 }) {
   const baseId = useId();
+
+  // No reviews yet — show a neutral badge instead of empty stars + 0.0
+  if (!value || !count) {
+    return (
+      <span className="inline-flex items-center gap-1.5 rounded-full bg-mist px-2 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-teal-500 align-middle">
+        <span className="inline-block h-1.5 w-1.5 rounded-full bg-coral" />
+        New listing
+      </span>
+    );
+  }
+
   const stars = Array.from({ length: 5 }, (_, i) => Math.max(0, Math.min(1, value - i)));
   return (
-    <span className="inline-flex items-center gap-1.5 align-middle" aria-label={`${value} out of 5`}>
+    <span className="inline-flex items-center gap-1.5 align-middle" aria-label={`${value} out of 5, ${count} reviews`}>
       <span className="inline-flex">
         {stars.map((f, i) => (
           <Star key={i} id={`${baseId}-${i}`} fill={f} size={size} />
@@ -23,9 +34,7 @@ export function StarRating({
       {!compact && (
         <span className="text-sm font-semibold text-teal">
           {value.toFixed(1)}
-          {typeof count === "number" && (
-            <span className="ml-1 font-normal text-teal-500">({count})</span>
-          )}
+          <span className="ml-1 font-normal text-teal-500">({count})</span>
         </span>
       )}
     </span>

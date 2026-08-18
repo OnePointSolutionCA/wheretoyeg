@@ -20,8 +20,8 @@ hours:
   saturday: "Closed"
   sunday: "Closed"
 photos: []
-rating: 5.0
-review_count: 5
+rating: 0
+review_count: 0
 price_range: "$$"
 amenities:
   - "Free Hearing Test"

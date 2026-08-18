@@ -20,7 +20,7 @@ hours:
   saturday: "10:00 AM - 4:00 PM"
   sunday: "Closed"
 photos: []
-rating: 4.7
+rating: 0
 review_count: 0
 price_range: "$"
 amenities:

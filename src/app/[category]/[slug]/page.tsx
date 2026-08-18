@@ -51,22 +51,45 @@ export async function generateMetadata({ params }: { params: { category: string;
   if (!cat) return {};
   const sub = getSubcategory(params.category, params.slug);
   if (sub) {
+    const title = `Best ${sub.name} in Edmonton | ${sub.name} near me`;
+    const desc = `Find the best ${sub.name.toLowerCase()} in Edmonton. Local, hand-picked ${cat.name.toLowerCase()} listings — hours, addresses, ratings and directions.`;
     return {
-      title: `Best ${sub.name} in Edmonton`,
-      description: `${sub.name} across Edmonton — hand-picked ${cat.name.toLowerCase()} listings on WhereToYEG.`,
+      title,
+      description: desc,
+      keywords: [
+        `best ${sub.name.toLowerCase()} Edmonton`,
+        `${sub.name.toLowerCase()} near me Edmonton`,
+        `${sub.name.toLowerCase()} YEG`,
+        `top ${sub.name.toLowerCase()} Edmonton`,
+      ],
       alternates: { canonical: `${SITE.url}/${cat.slug}/${sub.slug}` },
+      openGraph: { title, description: desc, images: ["/og.png"] },
     };
   }
   const b = getBusiness(params.slug);
   if (!b) return {};
+  const subName = b.subcategory
+    ? cat.subcategories?.find((s) => s.slug === b.subcategory)?.name
+    : undefined;
+  const service = subName || cat.name;
+  const title = `${b.name} — ${service} in ${b.neighborhood}, Edmonton`;
+  const desc = `${b.name}: ${service.toLowerCase()} in ${b.neighborhood}, Edmonton. ${b.description}`.slice(0, 158);
   return {
-    title: `${b.name} — ${cat.name} in Edmonton`,
-    description: b.description.slice(0, 158),
+    title,
+    description: desc,
+    keywords: [
+      `${b.name} Edmonton`,
+      `${service} Edmonton`,
+      `${service} near me`,
+      `best ${service.toLowerCase()} Edmonton`,
+      `${b.neighborhood} ${service.toLowerCase()}`,
+    ],
     alternates: { canonical: `${SITE.url}/${b.category}/${b.slug}` },
     openGraph: {
-      title: b.name,
-      description: b.description.slice(0, 158),
-      images: b.photos?.[0] ? [b.photos[0]] : [],
+      title,
+      description: desc,
+      type: "website",
+      images: b.photos?.[0] ? [b.photos[0]] : b.logo ? [b.logo] : ["/og.png"],
     },
   };
 }

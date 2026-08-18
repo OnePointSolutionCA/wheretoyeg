@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import { Navbar } from "@/components/Navbar";
@@ -12,30 +12,63 @@ const inter = Inter({
   display: "swap",
 });
 
+const OG = "/og.png";
+
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
   title: {
-    default: `${SITE.name} · ${SITE.tagline}`,
+    default: `${SITE.name} — Find the best local businesses in Edmonton`,
     template: `%s · ${SITE.name}`,
   },
   description: SITE.description,
+  keywords: [
+    "Edmonton businesses",
+    "Edmonton directory",
+    "best restaurants Edmonton",
+    "halal food Edmonton",
+    "barber Edmonton",
+    "walk-in clinic Edmonton",
+    "hearing care Edmonton",
+    "eye care Edmonton",
+    "YEG local",
+  ],
+  authors: [{ name: SITE.name, url: SITE.url }],
+  creator: SITE.name,
+  publisher: SITE.name,
   openGraph: {
-    title: `${SITE.name} · ${SITE.tagline}`,
+    title: `${SITE.name} — Find the best local businesses in Edmonton`,
     description: SITE.description,
     url: SITE.url,
     siteName: SITE.name,
     type: "website",
     locale: "en_CA",
+    images: [
+      {
+        url: OG,
+        width: 1200,
+        height: 630,
+        alt: `${SITE.name} — ${SITE.tagline}`,
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
-    title: SITE.name,
+    title: `${SITE.name} — Find the best local businesses in Edmonton`,
     description: SITE.description,
+    images: [OG],
   },
   icons: {
     icon: "/logo-mark.png",
     apple: "/logo-mark.png",
   },
+  formatDetection: { telephone: true, address: true, email: true },
+};
+
+export const viewport: Viewport = {
+  themeColor: "#053F52",
+  colorScheme: "light",
+  width: "device-width",
+  initialScale: 1,
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -51,6 +84,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Navbar />
         <main id="main">{children}</main>
         <Footer />
+        {/* Scroll to top on refresh / hard navigation. Runs early to avoid a visible jump. */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `if ('scrollRestoration' in history) { history.scrollRestoration = 'manual'; } window.addEventListener('beforeunload', () => window.scrollTo(0, 0));`,
+          }}
+        />
       </body>
     </html>
   );
