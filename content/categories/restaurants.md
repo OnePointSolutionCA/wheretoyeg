@@ -15,7 +15,6 @@ seo_keywords:
 order: 1
 active: true
 subcategories:
-  - { name: "Halal", slug: "halal" }
   - { name: "Shawarma", slug: "shawarma" }
   - { name: "Pakistani", slug: "pakistani" }
   - { name: "Lebanese", slug: "lebanese" }

@@ -64,6 +64,17 @@ export default function CategoryPage({ params }: { params: { category: string } 
               />
             </div>
           )}
+          {c.slug === "restaurants" && (
+            <div className="mt-3">
+              <Link
+                href="/restaurants?amenity=Halal"
+                className="inline-flex items-center gap-2 rounded-full border border-coral bg-coral/10 px-4 py-2 text-sm font-bold text-coral transition hover:bg-coral hover:text-white"
+              >
+                <span aria-hidden>🥩</span>
+                Halal-only ({businesses.filter((b) => b.amenities?.includes("Halal")).length})
+              </Link>
+            </div>
+          )}
         </div>
       </section>
 

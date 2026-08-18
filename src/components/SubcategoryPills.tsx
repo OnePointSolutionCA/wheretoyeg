@@ -22,7 +22,7 @@ export function SubcategoryPills({
         >
           All
         </Link>
-        {subcategories.map((s) => {
+        {subcategories.filter((s) => (counts?.[s.slug] ?? 0) > 0 || activeSlug === s.slug).map((s) => {
           const c = counts?.[s.slug];
           const active = activeSlug === s.slug;
           return (
