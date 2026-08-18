@@ -17,7 +17,7 @@ hours:
   friday: "8:30 AM - 5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: []
+photos: ["/photos/_stock/clinic.jpg"]
 rating: 4.8
 review_count: 224
 price_range: "$$"

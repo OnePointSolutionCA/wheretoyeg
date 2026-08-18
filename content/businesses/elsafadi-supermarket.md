@@ -19,7 +19,7 @@ hours:
   friday: "9:00 AM - 9:00 PM"
   saturday: "9:00 AM - 9:00 PM"
   sunday: "10:00 AM - 7:00 PM"
-photos: []
+photos: ["/photos/_stock/grocery.jpg"]
 rating: 4.4
 review_count: 1208
 price_range: "$$"

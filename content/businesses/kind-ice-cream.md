@@ -19,7 +19,7 @@ hours:
   friday: "12:00 PM - 9:00 PM"
   saturday: "12:00 PM - 9:00 PM"
   sunday: "12:00 PM - 9:00 PM"
-photos: []
+photos: ["/photos/_stock/cafe.jpg"]
 rating: 4.8
 review_count: 150
 price_range: "$$"
