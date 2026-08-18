@@ -19,7 +19,7 @@ hours:
   friday: "12:00 PM - 9:00 PM"
   saturday: "12:00 PM - 9:00 PM"
   sunday: "9:00 AM - 12:30 PM"
-photos: []
+photos: ["/photos/kohsaar-grill.jpg"]
 rating: 5.0
 review_count: 45
 price_range: "$$$"

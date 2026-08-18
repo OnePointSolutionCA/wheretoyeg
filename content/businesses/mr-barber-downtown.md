@@ -19,7 +19,7 @@ hours:
   friday: "9:00 AM - 7:00 PM"
   saturday: "9:00 AM - 5:00 PM"
   sunday: "11:00 AM - 5:00 PM"
-photos: []
+photos: ["/photos/mr-barber-downtown.png"]
 rating: 4.9
 review_count: 895
 price_range: "$$"

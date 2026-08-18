@@ -19,7 +19,7 @@ hours:
   friday: "8:00 AM - 6:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: []
+photos: ["/photos/tichi-auto-repair.png"]
 rating: 4.7
 review_count: 100
 price_range: "$$"

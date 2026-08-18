@@ -19,7 +19,7 @@ hours:
   friday: "10:00 AM - 6:00 PM"
   saturday: "10:00 AM - 6:00 PM"
   sunday: "12:00 PM - 5:00 PM"
-photos: []
+photos: ["/photos/frilly-lilly.jpg"]
 rating: 4.7
 review_count: 28
 price_range: "$$"

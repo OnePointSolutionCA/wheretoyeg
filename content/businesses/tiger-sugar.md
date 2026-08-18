@@ -19,7 +19,7 @@ hours:
   friday: "11:30 AM - 12:00 AM"
   saturday: "11:30 AM - 12:00 AM"
   sunday: "11:30 AM - 11:00 PM"
-photos: []
+photos: ["/photos/tiger-sugar.jpg"]
 rating: 4.3
 review_count: 180
 price_range: "$"

@@ -19,7 +19,7 @@ hours:
   friday: "7:00 AM - 6:00 PM"
   saturday: "8:00 AM - 5:00 PM"
   sunday: "9:00 AM - 4:00 PM"
-photos: []
+photos: ["/photos/credo-coffee.jpg"]
 rating: 4.5
 review_count: 163
 price_range: "$$"

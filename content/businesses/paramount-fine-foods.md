@@ -19,7 +19,7 @@ hours:
   friday: "11:00 AM - 11:00 PM"
   saturday: "9:00 AM - 11:00 PM"
   sunday: "9:00 AM - 10:00 PM"
-photos: []
+photos: ["/photos/paramount-fine-foods.png"]
 rating: 4.4
 review_count: 288
 price_range: "$$"

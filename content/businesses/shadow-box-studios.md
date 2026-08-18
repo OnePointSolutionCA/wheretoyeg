@@ -19,7 +19,7 @@ hours:
   friday: "9:00 AM - 9:00 PM"
   saturday: "9:00 AM - 9:00 PM"
   sunday: "9:00 AM - 9:00 PM"
-photos: []
+photos: ["/photos/shadow-box-studios.jpg"]
 rating: 5.0
 review_count: 180
 price_range: "$$$"

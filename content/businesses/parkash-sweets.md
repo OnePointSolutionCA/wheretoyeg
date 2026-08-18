@@ -19,7 +19,7 @@ hours:
   friday: "9:00 AM - 9:00 PM"
   saturday: "9:00 AM - 9:00 PM"
   sunday: "9:00 AM - 9:00 PM"
-photos: []
+photos: ["/photos/parkash-sweets.webp"]
 rating: 4.3
 review_count: 120
 price_range: "$"

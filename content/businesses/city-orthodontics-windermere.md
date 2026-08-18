@@ -19,7 +19,7 @@ hours:
   friday: "8:00 AM - 4:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: []
+photos: ["/photos/city-orthodontics-windermere.jpg"]
 rating: 4.6
 review_count: 145
 price_range: "$$$"

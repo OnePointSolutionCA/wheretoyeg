@@ -19,7 +19,7 @@ hours:
   friday: "6:00 AM - 9:00 PM"
   saturday: "6:00 AM - 9:00 PM"
   sunday: "8:00 AM - 3:00 PM"
-photos: []
+photos: ["/photos/svpt-fitness.jpg"]
 rating: 5.0
 review_count: 73
 price_range: "$$$"

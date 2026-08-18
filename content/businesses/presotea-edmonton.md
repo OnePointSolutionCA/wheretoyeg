@@ -19,7 +19,7 @@ hours:
   friday: "10:00 AM - 8:00 PM"
   saturday: "10:00 AM - 7:00 PM"
   sunday: "11:00 AM - 6:00 PM"
-photos: []
+photos: ["/photos/presotea-edmonton.png"]
 rating: 4.7
 review_count: 40
 price_range: "$"

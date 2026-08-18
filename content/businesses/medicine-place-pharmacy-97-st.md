@@ -19,7 +19,7 @@ hours:
   friday: "9:00 AM - 5:00 PM"
   saturday: "9:00 AM - 2:00 PM"
   sunday: "Closed"
-photos: []
+photos: ["/photos/medicine-place-pharmacy-97-st.jpg"]
 rating: 4.1
 review_count: 14
 price_range: "$"

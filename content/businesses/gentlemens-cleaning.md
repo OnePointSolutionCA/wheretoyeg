@@ -19,7 +19,7 @@ hours:
   friday: "8:00 AM - 6:00 PM"
   saturday: "9:00 AM - 4:00 PM"
   sunday: "Closed"
-photos: []
+photos: ["/photos/gentlemens-cleaning.jpg"]
 rating: 4.9
 review_count: 300
 price_range: "$$"

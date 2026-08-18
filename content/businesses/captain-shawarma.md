@@ -19,7 +19,7 @@ hours:
   friday: "11:00 AM - 10:00 PM"
   saturday: "12:00 PM - 10:00 PM"
   sunday: "12:00 PM - 10:00 PM"
-photos: []
+photos: ["/photos/captain-shawarma.webp"]
 rating: 4.5
 review_count: 171
 price_range: "$"

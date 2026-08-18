@@ -19,7 +19,7 @@ hours:
   friday: "8:00 AM - 10:00 PM"
   saturday: "8:00 AM - 10:00 PM"
   sunday: "8:00 AM - 10:00 PM"
-photos: []
+photos: ["/photos/henna-by-ashiyana.jpg"]
 rating: 4.9
 review_count: 50
 price_range: "$$"

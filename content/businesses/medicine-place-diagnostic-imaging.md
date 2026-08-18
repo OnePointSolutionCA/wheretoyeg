@@ -19,7 +19,7 @@ hours:
   friday: "9:00 AM - 5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: []
+photos: ["/photos/medicine-place-diagnostic-imaging.jpg"]
 rating: 3.8
 review_count: 6
 price_range: "$"

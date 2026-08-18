@@ -19,7 +19,7 @@ hours:
   friday: "9:00 AM - 5:00 PM"
   saturday: "9:00 AM - 4:00 PM"
   sunday: "Closed"
-photos: []
+photos: ["/photos/rogue-wave-coffee.png"]
 rating: 4.8
 review_count: 255
 price_range: "$$"

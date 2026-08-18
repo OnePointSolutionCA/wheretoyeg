@@ -19,7 +19,7 @@ hours:
   friday: "10:00 AM - 5:00 PM"
   saturday: "10:00 AM - 5:00 PM"
   sunday: "10:00 AM - 4:00 PM"
-photos: []
+photos: ["/photos/duchess-bake-shop.jpg"]
 rating: 4.6
 review_count: 2900
 price_range: "$$$"

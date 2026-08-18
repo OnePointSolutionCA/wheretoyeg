@@ -19,7 +19,7 @@ hours:
   friday: "9:00 AM - 5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: []
+photos: ["/photos/medicine-place-hearing-care-97-north.png"]
 rating: 5.0
 review_count: 28
 price_range: "$$"

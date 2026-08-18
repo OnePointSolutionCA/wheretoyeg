@@ -19,7 +19,7 @@ hours:
   friday: "9:00 AM - 5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: []
+photos: ["/photos/medicine-place-walk-in-clinic-downtown.jpg"]
 rating: 3.1
 review_count: 152
 price_range: "$"

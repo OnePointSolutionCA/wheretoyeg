@@ -19,7 +19,7 @@ hours:
   friday: "6:00 AM - 6:00 PM"
   saturday: "7:00 AM - 12:00 PM"
   sunday: "8:00 AM - 12:00 PM"
-photos: []
+photos: ["/photos/club-pilates-meadowlark.jpg"]
 rating: 4.5
 review_count: 20
 price_range: "$$"

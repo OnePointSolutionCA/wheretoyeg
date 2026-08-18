@@ -19,7 +19,7 @@ hours:
   friday: "5:30 AM - 8:00 PM"
   saturday: "7:30 AM - 1:30 PM"
   sunday: "7:30 AM - 1:30 PM"
-photos: []
+photos: ["/photos/yeg-cycle.png"]
 rating: 4.7
 review_count: 100
 price_range: "$$"

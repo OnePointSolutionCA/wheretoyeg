@@ -19,7 +19,7 @@ hours:
   friday: "9:00 AM - 5:00 PM"
   saturday: "9:00 AM - 2:00 PM"
   sunday: "Closed"
-photos: []
+photos: ["/photos/medicine-place-pharmacy-118-ave.jpg"]
 rating: 4.4
 review_count: 19
 price_range: "$"

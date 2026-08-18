@@ -19,7 +19,7 @@ hours:
   friday: "8:30 AM - 5:30 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: []
+photos: ["/photos/good-news-auto.webp"]
 rating: 4.5
 review_count: 556
 price_range: "$$"

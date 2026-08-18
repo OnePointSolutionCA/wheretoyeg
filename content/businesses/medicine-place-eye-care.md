@@ -19,7 +19,7 @@ hours:
   friday: "9:00 AM - 5:00 PM"
   saturday: "9:00 AM - 2:00 PM"
   sunday: "Closed"
-photos: []
+photos: ["/photos/medicine-place-eye-care.jpg"]
 rating: 5.0
 review_count: 30
 price_range: "$$"

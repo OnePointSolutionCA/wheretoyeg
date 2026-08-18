@@ -19,7 +19,7 @@ hours:
   friday: "8:00 AM - 4:30 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: []
+photos: ["/photos/sparkle-and-sheen.png"]
 rating: 4.8
 review_count: 457
 price_range: "$$"

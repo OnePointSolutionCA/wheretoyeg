@@ -19,7 +19,7 @@ hours:
   friday: "10:00 AM - 7:00 PM"
   saturday: "10:00 AM - 5:00 PM"
   sunday: "11:00 AM - 5:00 PM"
-photos: []
+photos: ["/photos/barber-squad.jpeg"]
 rating: 4.8
 review_count: 623
 price_range: "$$"

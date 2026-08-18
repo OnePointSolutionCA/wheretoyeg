@@ -19,7 +19,7 @@ hours:
   friday: "10:00 AM - 7:00 PM"
   saturday: "10:00 AM - 7:00 PM"
   sunday: "Closed"
-photos: []
+photos: ["/photos/v5-nails-salon.jpg"]
 rating: 4.8
 review_count: 520
 price_range: "$$"
