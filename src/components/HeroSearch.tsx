@@ -56,7 +56,7 @@ export function HeroSearch({
     return scored
       .sort((a, b) => a.score - b.score)
       .filter((r) => r.score <= 0.55)
-      .slice(0, 12)
+      .slice(0, 5)
       .map((r) => r.item);
   }, [q, fuse]);
 
