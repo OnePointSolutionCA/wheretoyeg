@@ -24,7 +24,7 @@ export default function ContactPage() {
             <div>
               <span className="eyebrow text-teal-500">Email us directly</span>
               <div className="mt-1">
-                <a href={`mailto:${SITE.email}`} className="font-display text-xl font-bold text-teal hover:text-coral">
+                <a href={`mailto:${SITE.deliveryEmail}?subject=${encodeURIComponent("Hey WhereToYEG")}`} className="font-display text-xl font-bold text-teal hover:text-coral">
                   {SITE.email}
                 </a>
               </div>

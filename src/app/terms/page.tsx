@@ -18,7 +18,7 @@ export default function TermsPage() {
         <h2 className="font-display text-xl font-bold text-teal">Content accuracy</h2>
         <p>Business information (hours, prices, addresses) is provided by the business or best-effort by our team and may change. Confirm details directly with the business before visiting.</p>
         <h2 className="font-display text-xl font-bold text-teal">Contact</h2>
-        <p>Questions? Email <a href={`mailto:${SITE.email}`} className="text-coral hover:underline">{SITE.email}</a>.</p>
+        <p>Questions? Email <a href={`mailto:${SITE.deliveryEmail}`} className="text-coral hover:underline">{SITE.email}</a>.</p>
       </div>
     </section>
   );

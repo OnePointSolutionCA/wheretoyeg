@@ -5,7 +5,10 @@ export const SITE = {
   tagline: "Find the good stuff.",
   description:
     "Edmonton's local business directory. Discover the best restaurants, barbers, cafes, and hidden gems across YEG.",
-  email: "info@onepointsolutionsca.com",
+  /** Shown to visitors as our contact address. */
+  email: "hello@wheretoyeg.ca",
+  /** Where mail actually delivers — form submissions + mailto links land here. */
+  deliveryEmail: "info@onepointsolutionsca.com",
   social: {
     instagram: "https://instagram.com/wheretoyeg",
     tiktok: "https://tiktok.com/@wheretoyeg",

@@ -17,7 +17,7 @@ export default function PrivacyPage() {
         <h2 className="font-display text-xl font-bold text-teal">What we don't do</h2>
         <p>We don't sell your data. We don't run behavioural ad tracking beyond what your browser sends by default. We don't attach cookies to identify you across sites.</p>
         <h2 className="font-display text-xl font-bold text-teal">Contact</h2>
-        <p>Questions about privacy? Email <a href={`mailto:${SITE.email}`} className="text-coral hover:underline">{SITE.email}</a>.</p>
+        <p>Questions about privacy? Email <a href={`mailto:${SITE.deliveryEmail}`} className="text-coral hover:underline">{SITE.email}</a>.</p>
       </div>
     </section>
   );

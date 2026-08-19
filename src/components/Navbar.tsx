@@ -91,6 +91,7 @@ export function Navbar({ categories = [] }: { categories?: NavCategory[] }) {
           <Link href="/search" className="text-sm font-semibold text-teal transition hover:text-coral">Search</Link>
           <Link href="/blog" className="text-sm font-semibold text-teal transition hover:text-coral">Blog</Link>
           <Link href="/about" className="text-sm font-semibold text-teal transition hover:text-coral">About</Link>
+          <Link href="/contact" className="text-sm font-semibold text-teal transition hover:text-coral">Contact</Link>
         </nav>
         <div className="justify-self-end">
           <Link href="/get-listed" className="btn-primary text-sm">
