@@ -42,27 +42,60 @@ export default function CategoryPage({ params }: { params: { category: string } 
   const neighborhoods = Array.from(new Set(businesses.map((b) => b.neighborhood))).filter(Boolean).sort();
   const amenities = Array.from(new Set(businesses.flatMap((b) => b.amenities ?? []))).sort();
 
+  // Pick a hero photo from the highest-rated business in this category.
+  const ranked = [...businesses]
+    .filter((b) => b.photos?.[0])
+    .sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0) || (b.review_count ?? 0) - (a.review_count ?? 0));
+  const heroPhoto = ranked[0]?.photos?.[0];
+  const heroCredit = ranked[0]?.name;
+
   return (
     <>
-      <section className="border-b border-line bg-mist">
-        <div className="container-page py-12" data-reveal="left">
-          <nav className="text-xs text-teal-500">
-            <Link href="/" className="hover:text-coral">Home</Link> <span className="px-1">›</span>{" "}
-            <span className="font-semibold text-teal">{c.name}</span>
+      {/* Photo hero */}
+      <section className="relative overflow-hidden text-white">
+        {heroPhoto ? (
+          <div
+            className="absolute inset-0 bg-cover bg-center"
+            style={{ backgroundImage: `url(${heroPhoto})` }}
+            aria-hidden="true"
+          />
+        ) : (
+          <div className="absolute inset-0 bg-gradient-to-br from-teal to-teal-900" aria-hidden="true" />
+        )}
+        {/* Dark overlay for text legibility */}
+        <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/60 to-black/40" />
+        {/* Ambient orbs */}
+        <div className="pointer-events-none absolute -top-24 -right-24 h-96 w-96 rounded-full bg-coral/20 blur-3xl" />
+        <div className="pointer-events-none absolute -bottom-32 -left-16 h-96 w-96 rounded-full bg-teal-300/15 blur-3xl" />
+
+        <div className="container-page relative py-16 sm:py-24" data-reveal="left">
+          <nav className="text-xs text-white/70">
+            <Link href="/" className="transition hover:text-white">Home</Link> <span className="px-1">›</span>{" "}
+            <span className="font-semibold text-white">{c.name}</span>
           </nav>
-          <h1 className="mt-3 font-display text-4xl font-extrabold tracking-tight text-teal sm:text-5xl">
-            Best {c.name} in Edmonton
+          <h1 className="mt-3 font-display text-4xl font-extrabold tracking-tight drop-shadow-lg sm:text-6xl">
+            Best {c.name}<br className="hidden sm:block" /> <span className="text-coral">in Edmonton</span>
           </h1>
-          <p className="mt-3 max-w-2xl text-teal-500">{c.description}</p>
-          {c.intro && <p className="mt-4 max-w-2xl text-teal-500">{c.intro}</p>}
+          <p className="mt-4 max-w-2xl text-white/85 sm:text-lg">{c.description}</p>
+          <div className="mt-4 inline-flex items-center gap-2 rounded-full bg-white/15 px-3 py-1 text-xs font-bold uppercase tracking-wider backdrop-blur">
+            {businesses.length} {businesses.length === 1 ? "spot" : "spots"} listed
+          </div>
+          {heroCredit && (
+            <p className="mt-4 text-xs text-white/50">Cover photo: {heroCredit}</p>
+          )}
+        </div>
+      </section>
+
+      {/* Subcategory chips + intro */}
+      <section className="border-b border-line bg-mist">
+        <div className="container-page py-6">
+          {c.intro && <p className="mb-4 max-w-2xl text-teal-500">{c.intro}</p>}
           {c.subcategories && c.subcategories.length > 0 && (
-            <div className="mt-6">
-              <SubcategoryPills
-                categorySlug={c.slug}
-                subcategories={c.subcategories}
-                counts={subCounts}
-              />
-            </div>
+            <SubcategoryPills
+              categorySlug={c.slug}
+              subcategories={c.subcategories}
+              counts={subCounts}
+            />
           )}
           {c.slug === "restaurants" && (
             <div className="mt-3">
