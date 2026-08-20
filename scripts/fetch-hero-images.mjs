@@ -23,7 +23,7 @@ const HEROES = {
   "nail-salons":         "photo-1604654894610-df63bc536371", // nails clean shot
   "lash-techs":          "photo-1583241800698-e8ab01830a07", // lash treatment
   "spas-esthetics":      "photo-1544161515-4ab6ce6db874",    // spa stones
-  "medical":             "photo-1587351021355-a479a299d2f9", // stethoscope clean
+  "medical":             "photo-1666214280557-f1b5022eb634", // clinic corridor clean
   "gyms-fitness":        "photo-1534438327276-14e5300c3a48", // gym weights
   "auto-repair":         "photo-1486262715619-67b85e0b08d3", // mechanic engine
   "cleaning-services":   "photo-1581578731548-c64695cc6952", // clean bathroom
