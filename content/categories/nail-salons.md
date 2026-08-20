@@ -2,7 +2,7 @@
 name: "Nail Salons"
 slug: "nail-salons"
 description: "Gel, acrylic, dip, nail art — Edmonton nail salons worth booking."
-icon: "hand"
+icon: "nail"
 seo_title: "Best Nail Salons in Edmonton | WhereToYEG"
 seo_description: "Top-rated nail salons in Edmonton for gel, acrylic, dip, nail art and pedicures."
 seo_keywords:
