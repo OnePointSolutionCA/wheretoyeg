@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getCategories, countByCategory, getBusinessesByCategory } from "@/lib/content";
+import { getCategories, countByCategory } from "@/lib/content";
 import { CategoryIcon } from "./CategoryIcon";
 
 // Categories that get the big hero-photo treatment on the homepage.
@@ -31,10 +31,9 @@ export function CategoryGrid() {
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
         {heroCats.map((c) => {
           const info = counts[c.slug];
-          const businesses = getBusinessesByCategory(c.slug)
-            .filter((b) => b.photos?.[0])
-            .sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0) || (b.review_count ?? 0) - (a.review_count ?? 0));
-          const photo = businesses[0]?.photos?.[0];
+          // Prefer the curated editorial hero image for the category over
+          // the top business's photo.
+          const photo = `/photos/_hero/${c.slug}.jpg`;
 
           return (
             <Link

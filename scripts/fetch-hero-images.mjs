@@ -18,12 +18,12 @@ const HEROES = {
   "cafes-coffee-shops":  "photo-1495474472287-4d71bcdd2085", // latte art overhead
   "bakeries":            "photo-1509440159596-0249088772ff", // pastries display
   "grocery-markets":     "photo-1542838132-92c53300491e",    // colourful produce
-  "barbers":             "photo-1503951914875-452162b0f3f1", // barbershop haircut
-  "hair-salons":         "photo-1522337360788-8b13dee7a37e", // hair colour smock
-  "nail-salons":         "photo-1610992015732-2449b76344bc", // manicure closeup
-  "lash-techs":          "photo-1594736797933-d0501ba2fe65", // lash extensions
-  "spas-esthetics":      "photo-1600334129128-685c5582fd35", // spa candles
-  "medical":             "photo-1519494026892-80bbd2d6fd0d", // clean clinic
+  "barbers":             "photo-1622286342621-4bd786c2447c", // barber tools closeup
+  "hair-salons":         "photo-1560066984-138dadb4c035",    // hair salon chair
+  "nail-salons":         "photo-1604654894610-df63bc536371", // nails clean shot
+  "lash-techs":          "photo-1583241800698-e8ab01830a07", // lash treatment
+  "spas-esthetics":      "photo-1544161515-4ab6ce6db874",    // spa stones
+  "medical":             "photo-1587351021355-a479a299d2f9", // stethoscope clean
   "gyms-fitness":        "photo-1534438327276-14e5300c3a48", // gym weights
   "auto-repair":         "photo-1486262715619-67b85e0b08d3", // mechanic engine
   "cleaning-services":   "photo-1581578731548-c64695cc6952", // clean bathroom
@@ -77,7 +77,7 @@ async function main() {
   let ok = 0, fail = 0;
   for (const [slug, unsplashId] of Object.entries(HEROES)) {
     const disk = path.join(OUT_DIR, `${slug}.jpg`);
-    const url = `https://images.unsplash.com/${unsplashId}?w=1600&h=900&fit=crop&auto=format&q=80`;
+    const url = `https://images.unsplash.com/${unsplashId}?w=2000&h=1000&fit=crop&auto=format&q=80`;
     let buf = await fetchBinary(url);
     let source = "unsplash";
     if (!buf) {
