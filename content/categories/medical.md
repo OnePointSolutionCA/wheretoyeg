@@ -2,7 +2,7 @@
 name: "Medical Care"
 slug: "medical"
 description: "Doctors, dentists, pharmacies, eye care, hearing care, and medical supplies across Edmonton."
-icon: "stethoscope"
+icon: "medkit"
 seo_title: "Medical Clinics & Health Services in Edmonton | WhereToYEG"
 seo_description: "Find walk-in clinics, dentists, pharmacies, eye care, hearing care, physiotherapy and medical supplies across Edmonton."
 seo_keywords:

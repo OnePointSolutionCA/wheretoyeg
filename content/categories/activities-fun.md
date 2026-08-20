@@ -2,7 +2,7 @@
 name: "Activities & Fun"
 slug: "activities-fun"
 description: "Edmonton's best rainy-day and date-night activities — climbing gyms, escape rooms, arcades, padel courts, bowling, and board game cafes."
-icon: "puzzle"
+icon: "gamepad"
 seo_title: "Best Activities in Edmonton — Fun Things To Do | WhereToYEG"
 seo_description: "Fun things to do in Edmonton — climbing gyms, escape rooms, padel courts, arcades, bowling, karting, trampoline parks, axe throwing, and board game cafes."
 seo_keywords:
