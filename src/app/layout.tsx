@@ -4,7 +4,9 @@ import "./globals.css";
 import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
 import { ScrollOrbs } from "@/components/ScrollOrbs";
+import { Analytics } from "@/components/Analytics";
 import { getCategories } from "@/lib/content";
+import { organizationSchema, siteSearchSchema, JsonLd } from "@/lib/schema-extra";
 import { SITE } from "@/lib/site";
 
 const inter = Inter({
@@ -64,6 +66,16 @@ export const metadata: Metadata = {
     apple: "/logo-mark.png",
   },
   formatDetection: { telephone: true, address: true, email: true },
+  verification: {
+    ...(process.env.NEXT_PUBLIC_GSC_VERIFICATION
+      ? { google: process.env.NEXT_PUBLIC_GSC_VERIFICATION }
+      : {}),
+    other: {
+      ...(process.env.NEXT_PUBLIC_BING_VERIFICATION
+        ? { "msvalidate.01": process.env.NEXT_PUBLIC_BING_VERIFICATION }
+        : {}),
+    },
+  },
 };
 
 export const viewport: Viewport = {
@@ -84,6 +96,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         >
           Skip to content
         </a>
+        <Analytics />
+        <JsonLd data={organizationSchema()} />
+        <JsonLd data={siteSearchSchema()} />
         <ScrollOrbs />
         <Navbar categories={navCategories} />
         <main id="main">{children}</main>

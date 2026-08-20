@@ -6,6 +6,7 @@ import { FeaturedCarousel } from "@/components/FeaturedCarousel";
 import { ReviewCard } from "@/components/ReviewCard";
 import { FloatingCube } from "@/components/FloatingCube";
 import { CollectionTiles } from "@/components/CollectionTiles";
+import { faqSchema, JsonLd } from "@/lib/schema-extra";
 import { SITE } from "@/lib/site";
 import {
   getDiverseFeatured,
@@ -58,8 +59,17 @@ export default function HomePage() {
     })),
   ];
 
+  const faq = faqSchema([
+    { q: "How do I get my Edmonton business listed on WhereToYEG?", a: "Head to /get-listed and submit the form. Plans start at $25/month and get you on the site within a few days. No contracts." },
+    { q: "Is WhereToYEG free for visitors?", a: "Yes. Browsing categories, businesses, reviews, and blog guides is completely free. Business listings are what fund the site." },
+    { q: "How do you pick which businesses appear?", a: "Every listing is a real Edmonton business we've verified. Ratings and reviews are pulled from Google Maps so they match what you'd see there." },
+    { q: "Do you cover halal businesses?", a: "Yes — filter any category by the Halal amenity, or visit /collections/halal-foodie-tour for a curated list. We have restaurants, cafes, bakeries, meat markets, and catering." },
+    { q: "Which Edmonton neighborhoods does the site cover?", a: "All of them — Downtown, Whyte Ave, 124 Street, West Edmonton, South Edmonton, North Edmonton, Sherwood Park and everywhere in between. Browse by neighborhood at /neighborhoods." },
+  ]);
+
   return (
     <>
+      <JsonLd data={faq} />
       {/* HERO */}
       <section className="relative text-white">
         <HeroVideo />
