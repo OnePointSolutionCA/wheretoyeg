@@ -94,10 +94,33 @@ export function getDiverseFeatured(limit = 12): Business[] {
 }
 
 export function getRecentReviews(limit = 4) {
-  const all = getBusinesses().flatMap((b) =>
-    (b.reviews ?? []).map((r) => ({ ...r, business: b })),
-  );
-  return all.sort((a, b) => b.date.localeCompare(a.date)).slice(0, limit);
+  // For each business, take its single most recent review — this way one
+  // business can't dominate the whole "latest reviews" strip.
+  const perBusiness = getBusinesses()
+    .flatMap((b) => {
+      const reviews = (b.reviews ?? [])
+        .filter((r) => (r.comment ?? "").length > 40)
+        .sort((a, b) => b.date.localeCompare(a.date));
+      return reviews[0] ? [{ ...reviews[0], business: b }] : [];
+    })
+    .sort((a, b) => b.date.localeCompare(a.date));
+  // Prefer a variety of categories in the first N picks
+  const picked: typeof perBusiness = [];
+  const seenCats = new Set<string>();
+  for (const r of perBusiness) {
+    if (seenCats.has(r.business.category)) continue;
+    picked.push(r);
+    seenCats.add(r.business.category);
+    if (picked.length >= limit) break;
+  }
+  if (picked.length < limit) {
+    for (const r of perBusiness) {
+      if (picked.includes(r)) continue;
+      picked.push(r);
+      if (picked.length >= limit) break;
+    }
+  }
+  return picked;
 }
 
 export function getNeighborhoods(): Neighborhood[] {
