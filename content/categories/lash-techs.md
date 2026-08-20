@@ -2,7 +2,7 @@
 name: "Lash Techs"
 slug: "lash-techs"
 description: "Classic, hybrid, volume and mega volume lash extensions — Edmonton lash artists."
-icon: "sparkle"
+icon: "eye"
 seo_title: "Best Lash Techs in Edmonton | WhereToYEG"
 seo_description: "Edmonton's top lash technicians for classic, hybrid, volume, mega volume extensions, and lash lifts."
 seo_keywords:

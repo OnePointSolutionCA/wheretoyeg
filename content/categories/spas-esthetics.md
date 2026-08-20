@@ -2,7 +2,7 @@
 name: "Spas & Esthetics"
 slug: "spas-esthetics"
 description: "Facials, waxing, laser, massage and full-service spas in Edmonton."
-icon: "sparkle"
+icon: "leaf"
 seo_title: "Best Spas & Esthetics in Edmonton | WhereToYEG"
 seo_description: "Edmonton spas and esthetics — facials, waxing, laser hair removal, hydrafacials, and full-service treatments."
 seo_keywords:

@@ -2,7 +2,7 @@
 name: "Professional Services"
 slug: "professional-services"
 description: "Lawyers, accountants, marketing agencies, notaries and other Edmonton professional services."
-icon: "sparkle"
+icon: "briefcase"
 seo_title: "Professional Services in Edmonton | WhereToYEG"
 seo_description: "Edmonton lawyers, accountants, marketing agencies, notaries, immigration consultants and financial advisors."
 seo_keywords:

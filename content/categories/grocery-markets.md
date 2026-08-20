@@ -2,7 +2,7 @@
 name: "Grocery & Markets"
 slug: "grocery-markets"
 description: "Grocery stores, halal meat markets, international markets, and specialty food shops in Edmonton."
-icon: "home"
+icon: "cart"
 seo_title: "Best Grocery Stores & Markets in Edmonton | WhereToYEG"
 seo_description: "Halal butchers, international grocery stores, farmers markets and specialty food shops across Edmonton."
 seo_keywords:
