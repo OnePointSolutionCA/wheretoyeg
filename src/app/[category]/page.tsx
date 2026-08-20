@@ -42,12 +42,9 @@ export default function CategoryPage({ params }: { params: { category: string } 
   const neighborhoods = Array.from(new Set(businesses.map((b) => b.neighborhood))).filter(Boolean).sort();
   const amenities = Array.from(new Set(businesses.flatMap((b) => b.amenities ?? []))).sort();
 
-  // Pick a hero photo from the highest-rated business in this category.
-  const ranked = [...businesses]
-    .filter((b) => b.photos?.[0])
-    .sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0) || (b.review_count ?? 0) - (a.review_count ?? 0));
-  const heroPhoto = ranked[0]?.photos?.[0];
-  const heroCredit = ranked[0]?.name;
+  // Prefer the curated editorial hero image for the category over any
+  // individual business's storefront shot.
+  const heroPhoto = `/photos/_hero/${c.slug}.jpg`;
 
   return (
     <>
@@ -80,9 +77,6 @@ export default function CategoryPage({ params }: { params: { category: string } 
           <div className="mt-4 inline-flex items-center gap-2 rounded-full bg-white/15 px-3 py-1 text-xs font-bold uppercase tracking-wider backdrop-blur">
             {businesses.length} {businesses.length === 1 ? "spot" : "spots"} listed
           </div>
-          {heroCredit && (
-            <p className="mt-4 text-xs text-white/50">Cover photo: {heroCredit}</p>
-          )}
         </div>
       </section>
 

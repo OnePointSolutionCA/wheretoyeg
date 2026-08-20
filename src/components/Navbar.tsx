@@ -4,10 +4,12 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import { NavLogo } from "./NavLogo";
+import { NavSearch } from "./NavSearch";
+import type { SearchIndexItem } from "./HeroSearch";
 
 type NavCategory = { name: string; slug: string };
 
-export function Navbar({ categories = [] }: { categories?: NavCategory[] }) {
+export function Navbar({ categories = [], searchIndex = [] }: { categories?: NavCategory[]; searchIndex?: SearchIndexItem[] }) {
   const pathname = usePathname();
   const [openMenu, setOpenMenu] = useState<"categories" | null>(null);
 
@@ -93,25 +95,9 @@ export function Navbar({ categories = [] }: { categories?: NavCategory[] }) {
           <Link href="/about" className="text-sm font-semibold text-teal transition hover:text-coral">About</Link>
           <Link href="/contact" className="text-sm font-semibold text-teal transition hover:text-coral">Contact</Link>
         </nav>
-        <div className="flex items-center gap-2 justify-self-end">
-          <form
-            action="/search"
-            method="GET"
-            className="hidden items-center rounded-full border border-line bg-white px-3 py-1.5 shadow-sm transition focus-within:border-coral focus-within:ring-2 focus-within:ring-coral/20 md:flex"
-          >
-            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" className="mr-1.5 text-teal-300">
-              <circle cx="11" cy="11" r="7" />
-              <path d="m20 20-3.5-3.5" />
-            </svg>
-            <input
-              type="search"
-              name="q"
-              placeholder="Search Edmonton…"
-              className="w-40 bg-transparent text-sm text-teal placeholder:text-teal-300 focus:outline-none lg:w-52"
-              aria-label="Search Edmonton businesses"
-            />
-          </form>
-          <Link href="/get-listed" className="btn-primary text-sm">
+        <div className="flex items-center gap-3 justify-self-end">
+          <NavSearch index={searchIndex} />
+          <Link href="/get-listed" className="btn-primary shrink-0 whitespace-nowrap text-sm">
             Get Listed
           </Link>
         </div>
