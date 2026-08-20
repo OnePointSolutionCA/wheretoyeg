@@ -24,7 +24,7 @@ const HEROES = {
   "lash-techs":          "photo-1583241800698-e8ab01830a07", // lash treatment
   "spas-esthetics":      "photo-1544161515-4ab6ce6db874",    // spa stones
   "medical":             "photo-1666214280557-f1b5022eb634", // clinic corridor clean
-  "gyms-fitness":        "photo-1534438327276-14e5300c3a48", // gym weights
+  "gyms-fitness":        "photo-1583454110551-21f2fa2afe61", // dumbbell rack, equipment only
   "auto-repair":         "photo-1486262715619-67b85e0b08d3", // mechanic engine
   "cleaning-services":   "photo-1581578731548-c64695cc6952", // clean bathroom
   "photographers":       "photo-1516035069371-29a1b244cc32", // camera bokeh
