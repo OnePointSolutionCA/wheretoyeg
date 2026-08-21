@@ -123,6 +123,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en" className={inter.variable}>
       <body className="font-sans antialiased">
+        {/* Sync page-mark so page-home CSS applies BEFORE body paints —
+            avoids a flash where the hero renders visible for a frame,
+            then jumps hidden after hydration adds the class. */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `if(location.pathname==='/')document.documentElement.classList.add('page-home');`,
+          }}
+        />
         <a
           href="#main"
           className="sr-only focus:not-sr-only focus:absolute focus:left-3 focus:top-3 focus:z-50 focus:rounded-lg focus:bg-teal focus:px-3 focus:py-2 focus:text-white"
