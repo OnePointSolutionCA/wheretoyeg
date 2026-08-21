@@ -15,7 +15,7 @@ export function HomeIntro() {
 
     const t = setTimeout(() => {
       document.querySelector(".hero")?.classList.add("is-ready");
-    }, 1050);
+    }, 200);
 
     return () => {
       clearTimeout(t);
