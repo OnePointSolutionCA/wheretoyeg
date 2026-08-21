@@ -13,9 +13,10 @@ export function HomeIntro() {
     const html = document.documentElement;
     html.classList.add("page-home");
 
+    // Wait for the nav slide-in to mostly finish before the hero words start.
     const t = setTimeout(() => {
       document.querySelector(".hero")?.classList.add("is-ready");
-    }, 200);
+    }, 700);
 
     return () => {
       clearTimeout(t);

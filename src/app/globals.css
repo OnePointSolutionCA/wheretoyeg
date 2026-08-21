@@ -92,7 +92,7 @@ body { font-feature-settings: "cv11", "ss01"; }
 html.page-home .nav-header {
   opacity: 0;
   transform: translateY(-110%);
-  animation: intro-nav-in 0.5s cubic-bezier(.34, 1.56, .64, 1) 0s forwards;
+  animation: intro-nav-in 0.8s cubic-bezier(.34, 1.56, .64, 1) 0s forwards;
 }
 @keyframes intro-nav-in {
   to { opacity: 1; transform: translateY(0); }
@@ -107,9 +107,9 @@ html.page-home .hero .hero-sub {
   transform: translateY(16px);
   animation: none;
 }
-html.page-home .hero.is-ready .hero-eyebrow { animation: intro-hero-line 0.5s cubic-bezier(.22,1,.36,1) 0.00s forwards; }
-html.page-home .hero.is-ready .hero-h1      { animation: intro-hero-line 0.5s cubic-bezier(.22,1,.36,1) 0.10s forwards; }
-html.page-home .hero.is-ready .hero-sub     { animation: intro-hero-line 0.5s cubic-bezier(.22,1,.36,1) 0.20s forwards; }
+html.page-home .hero.is-ready .hero-eyebrow { animation: intro-hero-line 0.7s cubic-bezier(.22,1,.36,1) 0.00s forwards; }
+html.page-home .hero.is-ready .hero-h1      { animation: intro-hero-line 0.7s cubic-bezier(.22,1,.36,1) 0.18s forwards; }
+html.page-home .hero.is-ready .hero-sub     { animation: intro-hero-line 0.7s cubic-bezier(.22,1,.36,1) 0.36s forwards; }
 @keyframes intro-hero-line {
   to { opacity: 1; transform: translateY(0); }
 }
