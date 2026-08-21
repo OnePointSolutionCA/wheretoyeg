@@ -60,7 +60,7 @@ export function HeroVideo() {
   }, []);
 
   return (
-    <div className="pointer-events-none absolute inset-0 overflow-hidden">
+    <div className="hero-media pointer-events-none absolute inset-0 overflow-hidden">
       <div className="absolute inset-0 bg-gradient-to-br from-teal via-teal-700 to-teal-900" />
       <video
         ref={videoRef}

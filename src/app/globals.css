@@ -87,6 +87,78 @@ body { font-feature-settings: "cv11", "ss01"; }
 .rise-2 { animation: rise .6s ease-out .1s both; }
 .rise-3 { animation: rise .6s ease-out .2s both; }
 
+/* ---------- Cinematic homepage intro (page-home only) ---------- */
+/* Full-screen black curtain fades out over the hero */
+html.page-home::before {
+  content: "";
+  position: fixed; inset: 0; z-index: 200;
+  background: #000;
+  pointer-events: none;
+  animation: intro-curtain 0.7s cubic-bezier(.22,1,.36,1) 0s forwards;
+}
+@keyframes intro-curtain {
+  0%   { opacity: 1; }
+  100% { opacity: 0; visibility: hidden; }
+}
+
+/* Top nav slides in with a subtle overshoot */
+html.page-home .nav-header {
+  opacity: 0;
+  transform: translateY(-110%);
+  animation: intro-nav-in 0.7s cubic-bezier(.34, 1.56, .64, 1) 0.35s forwards;
+}
+@keyframes intro-nav-in {
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Video/image subtly zooms during the intro */
+html.page-home .hero-media {
+  animation: intro-media-zoom 2.6s cubic-bezier(.22,1,.36,1) 0s forwards;
+  transform-origin: center center;
+  will-change: transform;
+}
+@keyframes intro-media-zoom {
+  0%   { transform: scale(1.06); }
+  100% { transform: scale(1.00); }
+}
+
+/* Hero copy — hide until .is-ready, then per-child staggered fade + rise + blur clear.
+   Override the existing .rise / .rise-2 / .rise-3 fades on the homepage. */
+html.page-home .hero .hero-copy > *,
+html.page-home .hero .rise,
+html.page-home .hero .rise-2,
+html.page-home .hero .rise-3 {
+  opacity: 0;
+  transform: translateY(28px);
+  filter: blur(6px);
+  animation: none;
+}
+html.page-home .hero.is-ready .hero-eyebrow  { animation: intro-hero-line 0.85s cubic-bezier(.22,1,.36,1) 0.00s forwards; }
+html.page-home .hero.is-ready .hero-h1       { animation: intro-hero-line 0.85s cubic-bezier(.22,1,.36,1) 0.20s forwards; }
+html.page-home .hero.is-ready .hero-sub      { animation: intro-hero-line 0.85s cubic-bezier(.22,1,.36,1) 0.40s forwards; }
+html.page-home .hero.is-ready .hero-foot     { animation: intro-hero-line 0.85s cubic-bezier(.22,1,.36,1) 0.55s forwards; }
+html.page-home .hero.is-ready .hero-pills    { animation: intro-hero-line 0.85s cubic-bezier(.22,1,.36,1) 0.70s forwards; }
+@keyframes intro-hero-line {
+  to { opacity: 1; transform: translateY(0); filter: blur(0); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html.page-home::before { display: none; }
+  html.page-home .nav-header,
+  html.page-home .hero-media,
+  html.page-home .hero .hero-copy > *,
+  html.page-home .hero .rise,
+  html.page-home .hero .rise-2,
+  html.page-home .hero .rise-3,
+  html.page-home .hero.is-ready .hero-eyebrow,
+  html.page-home .hero.is-ready .hero-h1,
+  html.page-home .hero.is-ready .hero-sub,
+  html.page-home .hero.is-ready .hero-foot,
+  html.page-home .hero.is-ready .hero-pills {
+    opacity: 1; transform: none; filter: none; animation: none;
+  }
+}
+
 /* ---------- Scroll reveal (disabled) ----------
    Animations were causing content to get stuck invisible on client-side
    navigation. Content is now always visible. */

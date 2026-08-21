@@ -27,7 +27,7 @@ export function Navbar({ categories = [], searchIndex = [] }: { categories?: Nav
   }, [openMenu]);
 
   return (
-    <header className="sticky top-0 z-40 border-b border-line/70 bg-white/85 backdrop-blur">
+    <header className="nav-header sticky top-0 z-40 border-b border-line/70 bg-white/85 backdrop-blur">
       <div className="container-page grid h-20 grid-cols-[auto_1fr_auto] items-center gap-6">
         <Link href="/" className="flex items-center justify-self-start" aria-label="WhereToYEG home">
           <NavLogo height={56} />

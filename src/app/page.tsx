@@ -6,6 +6,7 @@ import { FeaturedCarousel } from "@/components/FeaturedCarousel";
 import { ReviewCard } from "@/components/ReviewCard";
 import { FloatingCube } from "@/components/FloatingCube";
 import { CollectionTiles } from "@/components/CollectionTiles";
+import { HomeIntro } from "@/components/HomeIntro";
 import { faqSchema, JsonLd } from "@/lib/schema-extra";
 import { SITE } from "@/lib/site";
 import {
@@ -70,8 +71,9 @@ export default function HomePage() {
   return (
     <>
       <JsonLd data={faq} />
+      <HomeIntro />
       {/* HERO */}
-      <section className="relative text-white">
+      <section className="hero relative text-white">
         <HeroVideo />
         {/* Floating 3D orbs */}
         <div className="pointer-events-none absolute inset-0 overflow-hidden" aria-hidden="true">
@@ -80,22 +82,22 @@ export default function HomePage() {
           <div className="orb-3 absolute top-1/2 left-1/2 h-24 w-24 -translate-x-1/2 -translate-y-1/2 rounded-full bg-white/10 blur-xl sm:h-36 sm:w-36" />
         </div>
         <div className="container-page relative py-24 sm:py-32">
-          <div className="mx-auto max-w-3xl text-center">
-            <span className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/10 px-3 py-1 text-xs font-semibold uppercase tracking-wider text-white/90 backdrop-blur rise">
+          <div className="hero-copy mx-auto max-w-3xl text-center">
+            <span className="hero-eyebrow inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/10 px-3 py-1 text-xs font-semibold uppercase tracking-wider text-white/90 backdrop-blur rise">
               <span className="glow-pulse inline-block h-1.5 w-1.5 rounded-full bg-coral" />
               Edmonton · Alberta
             </span>
-            <h1 className="mt-5 font-display text-4xl font-extrabold leading-tight tracking-tight sm:text-6xl rise-2">
+            <h1 className="hero-h1 mt-5 font-display text-4xl font-extrabold leading-tight tracking-tight sm:text-6xl rise-2">
               Find the best local <br className="hidden sm:block" />
               businesses in <span className="text-coral">Edmonton</span>.
             </h1>
-            <p className="mx-auto mt-4 max-w-xl text-white/85 sm:text-lg rise-3">
+            <p className="hero-sub mx-auto mt-4 max-w-xl text-white/85 sm:text-lg rise-3">
               Your trusted shortcut to the shops, restaurants, and services worth checking out.
             </p>
-            <div className="rise-3">
+            <div className="hero-foot rise-3">
               <HeroSearch neighborhoods={SITE.neighborhoods} index={index} />
             </div>
-            <div className="mt-5 flex flex-wrap justify-center gap-2 rise-3">
+            <div className="hero-pills mt-5 flex flex-wrap justify-center gap-2 rise-3">
               {SITE.popularSearches.slice(0, 6).map((p) => (
                 <Link
                   key={p.href}
