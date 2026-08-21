@@ -25,10 +25,27 @@ export default function HomePage() {
   const cats = getCategories();
   const catBySlug = Object.fromEntries(cats.map((c) => [c.slug, c.name]));
   const blog = getBlogPosts().slice(0, 3);
-  const activities = getBusinesses()
-    .filter((b) => b.category === "activities-fun")
-    .sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0) || (b.review_count ?? 0) - (a.review_count ?? 0))
-    .slice(0, 6);
+  // Diverse activity picks: one per subcategory (top-rated in each), max 6.
+  const rankedActivities = getBusinesses()
+    .filter((b) => b.category === "activities-fun" && (b.photos?.length ?? 0) > 0)
+    .sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0) || (b.review_count ?? 0) - (a.review_count ?? 0));
+  const activities: typeof rankedActivities = [];
+  const seenSubs = new Set<string>();
+  for (const b of rankedActivities) {
+    const sub = b.subcategory ?? "other";
+    if (seenSubs.has(sub)) continue;
+    activities.push(b);
+    seenSubs.add(sub);
+    if (activities.length >= 6) break;
+  }
+  // Fill remaining slots with the next highest-rated regardless of sub
+  if (activities.length < 6) {
+    for (const b of rankedActivities) {
+      if (activities.includes(b)) continue;
+      activities.push(b);
+      if (activities.length >= 6) break;
+    }
+  }
 
   // Build search index for the smart hero search
   const index: SearchIndexItem[] = [

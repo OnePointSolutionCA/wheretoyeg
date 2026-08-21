@@ -16,7 +16,7 @@ hours:
   friday: "Open 24 hours"
   saturday: "Open 24 hours"
   sunday: "Open 24 hours"
-photos: []
+photos: ["/photos/elk-island-national-park-1.jpg", "/photos/elk-island-national-park-2.jpg", "/photos/elk-island-national-park-3.jpg"]
 rating: 4.8
 review_count: 2900
 price_range: "$$"
