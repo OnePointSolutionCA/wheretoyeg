@@ -141,7 +141,7 @@ function EmptyState({ categoryName }: { categoryName: string }) {
         We're adding {categoryName} to the map.
       </p>
       <p className="mt-2 text-teal-500">
-        Know a spot worth listing? Tell us — or list your own for $25/month.
+        Know a spot worth listing? Tell us — listings are free.
       </p>
       <div className="mt-5 flex justify-center gap-3">
         <Link href="/get-listed" className="btn-primary">Get listed</Link>

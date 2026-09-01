@@ -19,30 +19,59 @@ if (!KEY) { console.error("Missing GOOGLE_PLACES_API_KEY"); process.exit(1); }
 
 // (query, category, subcategory, howMany, extraAmenities)
 const QUERIES = [
-  ["halal shawarma edmonton", "restaurants", "shawarma", 6, ["Halal"]],
-  ["halal pakistani restaurant edmonton", "restaurants", "pakistani", 5, ["Halal"]],
-  ["halal indian restaurant edmonton", "restaurants", "indian", 5, ["Halal"]],
-  ["vietnamese pho restaurant edmonton", "restaurants", "vietnamese", 5, []],
-  ["thai restaurant edmonton", "restaurants", "thai", 3, []],
-  ["korean restaurant edmonton", "restaurants", "sushi", 3, []],
-  ["ethiopian restaurant edmonton", "restaurants", "ethiopian", 3, []],
-  ["halal pizza edmonton", "restaurants", "pizza", 3, ["Halal"]],
-  ["halal burger edmonton", "restaurants", "burgers", 3, ["Halal"]],
-  ["bubble tea edmonton", "cafes-coffee-shops", "boba-bubble-tea", 5, []],
-  ["coffee roaster edmonton", "cafes-coffee-shops", "roasters", 3, []],
-  ["dessert cafe edmonton", "cafes-coffee-shops", "dessert-cafes", 4, []],
-  ["halal bakery edmonton", "bakeries", "halal-bakeries", 4, ["Halal"]],
-  ["halal grocery edmonton", "grocery-markets", "halal-meat", 5, ["Halal"]],
-  ["south asian grocery edmonton", "grocery-markets", "south-asian", 4, []],
-  ["barber shop edmonton", "barbers", "fades", 5, []],
-  ["hair salon edmonton", "hair-salons", "cuts-styling", 4, []],
-  ["nail salon edmonton", "nail-salons", "gel", 4, []],
-  ["dental clinic edmonton", "medical", "dentists", 5, []],
-  ["physiotherapy clinic edmonton", "medical", "physiotherapy", 4, []],
-  ["chiropractor edmonton", "medical", "chiropractors", 3, []],
-  ["walk in clinic edmonton", "medical", "walk-in-clinics", 3, []],
-  ["auto repair shop edmonton", "auto-repair", "mechanics", 4, []],
-  ["escape room edmonton", "activities-fun", "escape-rooms", 3, []],
+  // Spas & Esthetics (currently 2)
+  ["spa edmonton", "spas-esthetics", "day-spas", 5, []],
+  ["massage therapy edmonton", "spas-esthetics", "massage", 5, []],
+  ["facial treatment edmonton", "spas-esthetics", "facials", 4, []],
+
+  // Lash Techs (currently 1)
+  ["lash extensions edmonton", "lash-techs", "lash-extensions", 6, []],
+  ["eyelash studio edmonton", "lash-techs", "lash-extensions", 4, []],
+
+  // Barbers (currently 8)
+  ["barber shop edmonton", "barbers", "fades", 6, []],
+  ["mens haircut edmonton", "barbers", "classic-cuts", 4, []],
+
+  // Nail Salons (currently 9)
+  ["nail salon edmonton", "nail-salons", "gel", 5, []],
+  ["manicure pedicure edmonton", "nail-salons", "mani-pedi", 4, []],
+
+  // Gyms & Fitness (currently 9)
+  ["gym edmonton", "gyms-fitness", "gyms", 5, []],
+  ["crossfit edmonton", "gyms-fitness", "crossfit", 3, []],
+  ["yoga studio edmonton", "gyms-fitness", "yoga", 4, []],
+  ["boxing gym edmonton", "gyms-fitness", "boxing", 3, []],
+
+  // Hair Salons (currently 7)
+  ["hair salon edmonton", "hair-salons", "cuts-styling", 5, []],
+  ["hair color specialist edmonton", "hair-salons", "color", 4, []],
+
+  // Electricians (currently 1)
+  ["electrician edmonton", "electricians", "residential", 6, []],
+  ["electrical contractor edmonton", "electricians", "commercial", 3, []],
+
+  // Plumbers (currently 1)
+  ["plumber edmonton", "plumbers", "residential", 6, []],
+  ["plumbing company edmonton", "plumbers", "emergency", 3, []],
+
+  // Cleaning Services (currently 4)
+  ["house cleaning service edmonton", "cleaning-services", "residential", 5, []],
+  ["commercial cleaning edmonton", "cleaning-services", "commercial", 3, []],
+
+  // Photographers (currently 3)
+  ["wedding photographer edmonton", "photographers", "wedding", 4, []],
+  ["portrait photographer edmonton", "photographers", "portrait", 3, []],
+  ["real estate photographer edmonton", "photographers", "real-estate", 3, []],
+
+  // Professional Services (currently 5)
+  ["accountant edmonton", "professional-services", "accounting", 4, []],
+  ["lawyer edmonton", "professional-services", "legal", 4, []],
+  ["real estate agent edmonton", "professional-services", "real-estate", 3, []],
+  ["insurance broker edmonton", "professional-services", "insurance", 3, []],
+
+  // Catering (currently 0 listed above — let's check)
+  ["catering service edmonton", "catering", "event-catering", 5, []],
+  ["halal catering edmonton", "catering", "halal-catering", 3, ["Halal"]],
 ];
 
 const HOURS_DEFAULT = {

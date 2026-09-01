@@ -78,8 +78,8 @@ export default function HomePage() {
   ];
 
   const faq = faqSchema([
-    { q: "How do I get my Edmonton business listed on WhereToYEG?", a: "Head to /get-listed and submit the form. Plans start at $25/month and get you on the site within a few days. No contracts." },
-    { q: "Is WhereToYEG free for visitors?", a: "Yes. Browsing categories, businesses, reviews, and blog guides is completely free. Business listings are what fund the site." },
+    { q: "How do I get my Edmonton business listed on WhereToYEG?", a: "Head to /get-listed and submit the form. Listings are completely free — we'll get you live within a few days." },
+    { q: "Is WhereToYEG free?", a: "Yes. Browsing and listing are both free. We're building the most complete Edmonton business directory — the more businesses, the more useful the site." },
     { q: "How do you pick which businesses appear?", a: "Every listing is a real Edmonton business we've verified. Ratings and reviews are pulled from Google Maps so they match what you'd see there." },
     { q: "Do you cover halal businesses?", a: "Yes — filter any category by the Halal amenity, or visit /collections/halal-foodie-tour for a curated list. We have restaurants, cafes, bakeries, meat markets, and catering." },
     { q: "Which Edmonton neighborhoods does the site cover?", a: "All of them — Downtown, Whyte Ave, 124 Street, West Edmonton, South Edmonton, North Edmonton, Sherwood Park and everywhere in between. Browse by neighborhood at /neighborhoods." },
@@ -321,7 +321,7 @@ export default function HomePage() {
                 Own a spot in Edmonton?<br /> Get it in front of locals.
               </h3>
               <p className="mt-3 max-w-xl text-white/80">
-                Listings start at $25/month. No contracts, no dashboards to learn. We handle it — you show up.
+                List your business for free. No contracts, no dashboards. We handle it — you show up.
               </p>
             </div>
             <Link href="/get-listed" className="btn-primary shrink-0 bg-white text-teal hover:bg-white/90">
