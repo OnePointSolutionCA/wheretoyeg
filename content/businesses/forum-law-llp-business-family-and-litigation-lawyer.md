@@ -30,12 +30,10 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Tanya Antoine"
     rating: 5
-    date: "2026-03-05"
     comment: |
       Cannot express how grateful I am for Jennifer Bou-yazbek, Forum Law, and their exceptional work! Had an amazing experience when purchasing our home. Jennifer took the time to explain every step of the process clearly, which made what could have been a stressful experience feel smooth and manageable. She was kind, professional, and always quick to respond to any questions we had. Everything was handled in a timely manner, and all deadlines were met without any issues. The attention to detail and commitment to their clients is what truly stood out. I would highly recommend Forum Law to anyone looking for a reliable and knowledgeable real estate lawyer and all your lawyer needs! Thank you again.
   - name: "Angelica Gutierrez"
     rating: 5
-    date: "2026-03-05"
     comment: |
       I have been a client with this law office for almost two years and have had a great experience working with their team. I first worked with Sharif Issawi for my real estate transaction when I purchased my home. He made the entire process simple and stress-free, taking the time to explain everything clearly and ensuring that everything went smoothly from start to finish.
       
@@ -46,12 +44,10 @@ reviews:
       Overall, I’m very grateful for the support and professionalism I’ve received from this office. I would highly recommend them to anyone needing assistance with real estate or family law matters.
   - name: "Red Chair Property Management"
     rating: 5
-    date: "2026-06-05"
     comment: |
       Forum Law has helped me so much with my personal situations and business needs. I've texted and emailed late at night with situations and I received quick response the next morning.  Not only is my lawyer a good one but his support staff have been remarkable and easy to work with.  Nothing worse than needing a lawyer but you can count that the team at Forum Law will help you through the entire situation you are facing.  I have used them for 3 years and will continue in all of my future needs.  Thanks!
   - name: "Panda Cub House"
     rating: 5
-    date: "2026-04-08"
     comment: |
       ⭐⭐⭐⭐⭐ Exceptional Legal Expertise – Highly Recommended
       
@@ -66,7 +62,6 @@ reviews:
       We highly recommend Jennifer Bou Yazbek to anyone looking for a top-tier commercial lawyer who delivers results with integrity, precision, detailed analysis and transparency.
   - name: "Ashley Halabi"
     rating: 5
-    date: "2026-03-05"
     comment: |
       My husband and I worked with Muhammed-Ali Yassin to create our will, and the experience was excellent. He and his team were incredibly helpful in guiding us through the decisions we needed to make. They were knowledgeable, informative, and made the entire process clear and straightforward. Everything was handled efficiently and with great attention to detail. We highly recommend!
 ---

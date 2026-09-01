@@ -30,24 +30,20 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Coralie Monpontet (Coralie Monpontet)"
     rating: 5
-    date: "2026-07-24"
     comment: |
       Nancee is the best beautician I have experienced in Edmonton. She is very nice, the experience is as painless as it can be, it’s beautiful, clean and last a long time. Discovered her downtown and followed her in her new location because I can’t find anyone better. Good prices and the best customer care. Recommanding 100%
   - name: "Kyla Sherman"
     rating: 5
-    date: "2026-06-27"
     comment: |
       This was my second time seeing Nancee, and she is absolutely excellent! I’ve been getting waxed for over 15 years, and I even told her this was the most painless wax I’ve ever had. She is so kind, gentle, and efficient, making the entire experience comfortable from start to finish. I highly recommend her and will definitely be back!
   - name: "Derek W"
     rating: 5
-    date: "2026-05-07"
     comment: |
       Really great experience overall. The esthetician was professional, easy to talk to, and made the whole appointment feel comfortable and relaxed. We ended up having a genuinely good conversation during the treatment, which made the time go by a lot quicker than I expected.
       
       You can tell there’s a lot of skill and professionalism involved in this kind of work, and it definitely gave me a new appreciation for what they do. I’d absolutely recommend this clinic to anyone thinking about booking an appointment.
   - name: "Blanca Marroquin"
     rating: 5
-    date: "2026-05-01"
     comment: |
       I came to Wax Land for my first Brazilian wax ever. Maria created such a comfortable environment where I felt at ease and immediately knew I chose the right place to go to. She was very honest about what to expect so that nothing came as a surprise. I also got my brows done and they look amazing!
       
@@ -56,7 +52,6 @@ reviews:
       Will definitely be coming back for my waxing needs.
   - name: "Kelly Hughes"
     rating: 5
-    date: "2026-05-21"
     comment: |
       Nancee did a fabulous job!  She was kind, welcoming and helped put any nerves aside. I’ll definitely be going back for my waxing needs.
 ---

@@ -33,12 +33,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Aaron Turpin"
     rating: 4
-    date: "2026-06-03"
     comment: |
       Lots of selection for every type of fish and seafood. The hot takeaway could use some improvement in facilities. “Seating” is quite limited with a few very small tables, and washrooms are not great condition. If there’s an option to eat on site, it should be more suitable. However, our fish and chips were high quality and very tasty.
   - name: "Eatingmyfeelingsinyeg"
     rating: 5
-    date: "2026-05-11"
     comment: |
       Best and freshest seafood market in edmonton! The seafood is not just fresh its super fresh! The seafood is really fresh. So fresh it tastes like the ocean. Sushi made fresh hourly. The freshest salmon in yeg. Poke tuna and salmon is top notch.
       
@@ -53,17 +51,14 @@ reviews:
       A must stop for any special occassions to get your seafood needs.
   - name: "Chelsea McDougall"
     rating: 5
-    date: "2026-07-14"
     comment: |
       Love this place. They have a great selection of fresh and frozen seafood and a bunch of items to go with it. My favorite is the sushi. They have a great selection of ready-made options (made fresh that day, of course!) but they will also make other menu items for you if what you are craving isn't there. It's better sushi than at most restaurants in the city, and you can take it home and eat it in your pajamas. Staff is always friendly and helpful. Great place!
   - name: "Ingrid Homeniuk"
     rating: 5
-    date: "2026-02-22"
     comment: |
       Amazing customer service and incredible selection! All farmed fish confirmed organic and none of the beef is cloned meat. I'm about to be a regular! Oh and fresh sushi bar with tastiest rolls and poke bowls!! Available for pick-up too! Just wow!
   - name: "Abigail Harness"
     rating: 5
-    date: "2026-07-04"
     comment: |
       My husband and I visited on Canada day- the staff were all kind and attentive! A person in rose/purple tinted glasses welcomed us as first time customers and made sure we had a flyer. Another employee helped get our oysters- they showed us how to verify they were good, showed us shucking accessories at different price points and gave us a demo. Very clean and great selection.
 ---

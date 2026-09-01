@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Alysia Hammell"
     rating: 2
-    date: "2024-04-29"
     comment: |
       The doctors are nice. Great personalities. Have been going here for 18 years. Unfortuanately its lost its glory. It's great if you need a check up.
       
@@ -41,12 +40,10 @@ reviews:
       Causing patients to really take they're own care into their hands.
   - name: "Shelly B"
     rating: 5
-    date: "2023-02-09"
     comment: |
       Dr. Khera is absolutely amazing! She has been my doctor for nearly 20 years. Never once have I felt unheard or dismissed or like my problems are not important. She always listens carefully and if she does not know the answer or is unsure she will consult with colleagues or refers me to a specialist who does. This ability is so rare these days and is one of the most important and needed! No one has all the answers but having the ability to find out or find someone who does is phenomenal!!
   - name: "Mr. Costello"
     rating: 1
-    date: "2024-03-14"
     comment: |
       I have been given nothing but disrespect in the past years by the receptionists and nurses in this clinic. I used to feel extremely comfortable with this clinic but things and people have changed, and it no longer treats it’s patients with the care and respect that is deserved.
       I have appointments rescheduled on me, nurses making unwarranted comments about my situation/reasons for visiting, I am constantly misgendered regardless of recieving my HRT treatment there for over 2 years.
@@ -54,12 +51,10 @@ reviews:
       They do not care for their patients time or privacy. I will not be visiting this family medicine centre and I advise any person with self respect to also stay far away.
   - name: "Tristan W."
     rating: 5
-    date: "2023-02-02"
     comment: |
       After almost two years of being without a family doctor for myself or my kids, the Family Medicine Centre took us on. So far the staff are wonderful and kind, the residents are professional and personable and the quality of care from the physicians is excellent.
   - name: "R PM"
     rating: 5
-    date: "2023-10-03"
     comment: |
       I’ve been a patient of Dr. Woudstra for over 5 years. He really takes the time to listen to his patients getting to the root of the problem. I’m so thankful when my Dr retired I had an opportunity to have Dr Woudstra as my family doctor. Thank you for everything.
 ---

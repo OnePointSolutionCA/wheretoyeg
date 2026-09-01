@@ -31,7 +31,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Cheryl E"
     rating: 4
-    date: "2026-06-22"
     comment: |
       I was ecstatic to try this bakery.
       Ordered breakfast for dine in.
@@ -55,7 +54,6 @@ reviews:
       Would still recommend this store as long as you make a note of other stuff in this review.
   - name: "Local resident"
     rating: 5
-    date: "2026-02-07"
     comment: |
       First time here today, the quality and quantity of different types of baked goods is amazing.
       
@@ -75,13 +73,11 @@ reviews:
       Thanks !
   - name: "Ashley Howard"
     rating: 5
-    date: "2026-08-06"
     comment: |
       The Better Baker is my favorite bakeries for and every single time I order, they remind me why I keep coming back.Everything is always fresh, delicious, and made with so much care. You can truly taste the quality, and it's obvious they take a lot of pride in what they do. I haven't had a single thing I didn't love!What really sets them apart, though, is the people behind the business. They're such a kind, genuine family-owned bakery, and they always make you feel appreciated as a customer. Great customer service seems hard to find these days, but they absolutely nail it they went above and beyond today in was i dont think many businesses would have.It totally made my day!!
       It's no surprise they're so busy! Businesses like this deserve all the support they get. If you haven't tried The Better Baker yet, you're seriously missing out. I'll definitely be back again... and again! ❤️🥯🥐
   - name: "Alison"
     rating: 5
-    date: "2026-06-27"
     comment: |
       What a hidden gem! Their sourdough loaf is perfectly crispy on the outside and light and fluffy on the inside. We will always go out of our way to get this bread!
       
@@ -90,7 +86,6 @@ reviews:
       Staff is always friendly and helpful too! One of our fave bakery’s we have found so far!
   - name: "Emma Doell"
     rating: 5
-    date: "2026-07-04"
     comment: |
       Incredible place! A must try if you’re in the area! The staff were so incredibly friendly and the food was amazing. It’s so refreshing to come somewhere with good quality ingredients! The atmosphere was relaxing and so cute!
 ---

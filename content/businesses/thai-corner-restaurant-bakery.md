@@ -32,22 +32,18 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Cernan"
     rating: 5
-    date: "2026-02-15"
     comment: |
       Good ambiance, simple and welcoming. Greeted really well and staff were very attentive. We didn't have a reservation and it's valentine's day but still managed tp accommodate us provided we finish within 2 hours which is fine with us. All the food were very delicious and spiciness level was just spot on. Food came out very fast too. Lots of parking spaces. Overall I recommend this restaurant and will be back again soon
   - name: "Charles C"
     rating: 4
-    date: "2025-12-07"
     comment: |
       This place is one of the better Thai restaurants I have been to in the city. It features the various varieties of curry and other typical dishes like Pad Thai. We had the soup which I found great; it had the balance of sweet and spicy.  Each main dish has no shortage of protein which was very nice. I forgot to try the Thai iced tea but that's what next time is for.
   - name: "sh hamil"
     rating: 4
-    date: "2026-06-04"
     comment: |
       Yup I saw this place on good old tiktok so why not have a lunch experience here.  They were not lying the food was so good and that green milk drink so earthy so delish.. bought takeaways for fam but they were too lazy to eat so I had theirs too 😆.
   - name: "The Local Nibbler"
     rating: 5
-    date: "2026-05-31"
     comment: |
       Wonderful experience. The dishes were delicious! Probably the best Thai food in Edmonton in my opinion. Service was excellent as well. Friendly and thoughtful. When the menu listed the 🌶️ 🌶️🌶️ mark. They are truly spicy.
       
@@ -60,7 +56,6 @@ reviews:
       Visited again to try the chicken dish. Was not as impressive as the first visit. But still pretty good.
   - name: "Bennis Lam"
     rating: 4
-    date: "2026-03-27"
     comment: |
       The food tastes good and is close to the original style. The Pad Thai tastes a bit strong for my liking. The staff are nice as well.
 ---

@@ -30,27 +30,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "FEEK H"
     rating: 5
-    date: "2026-07-27"
     comment: |
       One of the best experiences I’ve have with any counselor. I’m beyond happy for the strides we have made together.
   - name: "Mazen Bou Diab"
     rating: 5
-    date: "2026-07-27"
     comment: |
       Highly recommended.
   - name: "Dylan Thomas"
     rating: 5
-    date: "2026-08-14"
     comment: |
       They have an amazing team .
   - name: "Natasha Alame"
     rating: 5
-    date: "2026-08-14"
     comment: |
       Amazing mental health support great staff 👍
   - name: "Sebastian Paz"
     rating: 5
-    date: "2026-08-13"
     comment: |
       I was nervous about starting therapy but the whole process was really easy — booking was simple and they had evening slots which was huge for me since I work during the day. My therapist made me feel comfortable right away, no judgment, just genuinely listened and helped me actually work through things instead of just nodding along. It's the kind of place where you can tell they actually care. Would recommend to anyone looking for a therapist.
 ---

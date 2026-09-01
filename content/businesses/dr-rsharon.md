@@ -30,17 +30,14 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Tom Saba"
     rating: 5
-    date: "2026-04-18"
     comment: |
       Dr Sharon was the best doctor for my kids.  He tried to help an all ways to get the best result from his patents
   - name: "Jessica Kozlov"
     rating: 5
-    date: "2024-09-26"
     comment: |
       The 1-2 star reviews on here make no sense. Dr Sharon is not condescending or dismissive. He’s incredibly passionate and knowledgeable. I have never seen his twitter and don’t wish to. He has never pushed anything controversial or unnecessary and has always been straight forward and upfront. His staff is wonderful. He’s VERY busy. I’m grateful for his service and compassionate care with my children. Great experiences over the past 4-5 years.
   - name: "Anonymous 1979"
     rating: 1
-    date: "2024-11-28"
     comment: |
       5 Stars for Dr. Sharon ⭐️⭐️⭐️⭐️⭐️
       Dr Sharon is absolutely amazing
@@ -49,13 +46,11 @@ reviews:
       As for her I give only 1 star.⭐️
   - name: "Katrina Jurisic"
     rating: 5
-    date: "2025-02-05"
     comment: |
       Grateful for the whole team of wonderful humans who take care of our most important humans!
       Dr Champagne and Dr Catena have both provided care for our littles and have both always been wonderful. The front end staff are always lovely and courteous. Thank you so much for the consistent, outstanding care.
   - name: "Lacey"
     rating: 5
-    date: "2022-09-06"
     comment: |
       I've been taking my children to see Dr.Sharon for years! He is really incredible, always listens to my concerns, is extremely attentive during in person or phone appointments, reassures me as necessary and is always so quick to get us in or call back. He gives the best possible care to all of his patients, and I couldn't be happier with him and the team.
 ---

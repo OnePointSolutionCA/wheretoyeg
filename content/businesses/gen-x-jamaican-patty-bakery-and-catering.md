@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Skye Travels"
     rating: 3
-    date: "2026-06-14"
     comment: |
       I visited this located while visiting from Toronto.
       
@@ -43,7 +42,6 @@ reviews:
       Gen X  has potential, but improving the recipe, consistency, and value would make a big difference.
   - name: "Roger Poon"
     rating: 5
-    date: "2026-03-28"
     comment: |
       Tried the Oxtail special, Jerk Chicken special, Jerk Chicken and Cheese Patty, and Beef Patty. All of them were absolutely delicious.
       
@@ -52,18 +50,15 @@ reviews:
       The portions were massive for the specials, each box is fully loaded. I was surprised with the generous amount of Oxtail that was given for the price.
   - name: "Vincent Parnell"
     rating: 5
-    date: "2026-07-21"
     comment: |
       I was craving authentic Jamaican Patties, my daughter discovered this gem on 118st (west of Kingsway). They also sell fresh (unbaked) frozen, so I could stock my freezer with these tasty meat filled pastries for quick flavourful lunches that I throw in the air fryer and bake. Small location, perfect order and go, Service was A+++
   - name: "Lo Abno"
     rating: 5
-    date: "2026-01-07"
     comment: |
       I've been on the search for really good beef patties for years (years....). Ever since I went to TO while ago (2008).
       I came in with my sister today because I saw a foodie review and was highly recommended. I bought 3 kinds of the fresh/hot and 6 of the frozen. For the fresh/hot I bought beef, curry chicken, and jerk chicken. My sister had the beef. I am telling you it's amazing. O.m.g                I'm coming back.
   - name: "Dalkeith McDonald"
     rating: 5
-    date: "2026-06-07"
     comment: |
       It was my first time visiting, and I was genuinely impressed. I ordered the cheesy beef patty and the curry goat patty with coco bread, and both were outstanding! Everything tasted fresh, perfectly baked, and full of flavor. I thoroughly enjoyed every bite. The customer service was excellent, friendly, welcoming, and attentive. Overall, it was a great experience.
 ---

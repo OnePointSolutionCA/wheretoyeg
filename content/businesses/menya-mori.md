@@ -31,12 +31,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Mike Kehl"
     rating: 5
-    date: "2026-07-15"
     comment: |
       I rarely give 5 stars but this is a standout. The ramen is probably one of the best I’ve had in Canada. It’s better than the Michelin recommended places I have been to in MTL and Toronto and on par with some of the ramen I have had in Japan. Definitely try the fried chicken, the texture and flavour are perfect and it is delicious. I will come back every time I visit Edmonton.
   - name: "Zl"
     rating: 5
-    date: "2026-04-03"
     comment: |
       I love this place , the ramen is fresh made , good texture like in Japan.
       
@@ -49,17 +47,14 @@ reviews:
       We are lucky ! We went there late with no line -up.
   - name: "Google Google"
     rating: 4
-    date: "2026-08-01"
     comment: |
       We came here because of the high ratings.  We like the service and atmosphere.  The food is mostly good.  The ramen and chasui are very good.  The braised beef is way too salty.
   - name: "Colin Boras"
     rating: 5
-    date: "2026-06-13"
     comment: |
       Hands down the best ramen I've ever had! I was surprised at the small menu, but that's because the quality of those dishes are so amazing that they don't need anything else! We will absolutely be back next time we're in town!
   - name: "Wes Inaba"
     rating: 5
-    date: "2026-07-09"
     comment: |
       Menya Mori is a relatively new ramen establishment in Edmonton.  Its a bit difficult to find as you head down a set of stairs off 124 Street into their cozy space.
       

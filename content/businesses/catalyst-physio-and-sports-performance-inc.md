@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Ed Mah"
     rating: 5
-    date: "2026-06-25"
     comment: |
       After a rear-end car accident, I decided to see Vincent at Catalyst Physio, and I’m really glad I made that choice. Right from the start, he listened to what I was going through and created a treatment plan that fit my injuries and recovery goals.
       
@@ -41,7 +40,6 @@ reviews:
       I highly recommend Vincent and Catalyst Physio to anyone recovering from an injury or looking for personal, high-quality physiotherapy care.
   - name: "Bliss Winik"
     rating: 5
-    date: "2026-05-27"
     comment: |
       I’ve worked with several physiotherapists over the years as a former military member, and Vince stands out as one of the best. I initially came in with an MCL injury, and from the first appointment I experienced noticeable relief. Within a relatively short period of time, he had me back to near-normal function.
       
@@ -51,17 +49,14 @@ reviews:
       .
   - name: "Calvin B-Burns"
     rating: 5
-    date: "2026-04-25"
     comment: |
       As an older athletically engaged person, Vincent has been instrumental in helping me navigate my way through several sport related injuries and in desling with the reslities of remaining active throughout the aging process.  He is knowledgeable, thoughtful and very engaged in his practice.  If you are looking for a physiotherapist that strives for a higher standard I highly recommend going to see Vince.
   - name: "Randy Tsen"
     rating: 5
-    date: "2026-05-05"
     comment: |
       Vince at Catalyst was excellent with my daughter after her volleyball injury. He genuinely cared about her recovery and gave her effective exercises that helped her get back to full strength. He goes beyond basic treatments; he’s not someone who just relies on a TENS machine, but really focuses on proper rehab and long-term results. I would recommend him to anyone needing treatment.
   - name: "Mariam Tashkandi"
     rating: 5
-    date: "2026-02-22"
     comment: |
       I started physiotherapy here following knee surgery, and the experience has been outstanding. The initial assessment was thorough, and my recovery plan was clearly explained and structured around my goals. The sessions were hands-on, progressive, and evidence-based. I’ve regained strength, mobility, and confidence in my knee much faster than I expected. I truly felt supported every step of the way. Highly recommend for post-surgical rehab. Plus having the gym right there was so beneficial for my training.
 ---

@@ -30,17 +30,14 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Kinan Haj"
     rating: 5
-    date: "2026-04-07"
     comment: |
       Amazing results with laser hair removal .best laser hair removal,coolsculpting was a great experience at platinum medical spa. I also loved the halo laser resurfacing. They have the most advanced machines in the market
   - name: "Noor Neyamati"
     rating: 5
-    date: "2026-04-18"
     comment: |
       If you are looking for a safe space spa make sure to check them out.They never dissapoint with their service🙌🙌 all the girls are so lovely especially Ayah. She is amazing, I love coming here she makes the appointments so comfortable for me. I trust her with my whole life. ☺️
   - name: "Sajid Mohammed"
     rating: 5
-    date: "2026-04-09"
     comment: |
       I had an excellent experience at Platinum Medical Spa. I recently did ProFractional and PRP treatments, and I’m really happy with the results so far.
       Cutera performed the treatment, and I have to say her expertise and professionalism really stood out. She explained everything clearly, made me feel comfortable throughout the process, and handled the procedure with great care and precision. You can tell she’s very experienced and knows exactly what she’s doing.
@@ -49,7 +46,6 @@ reviews:
       Highly recommend Platinum Medical Spa and especially Hana for anyone considering advanced skin treatments 👍
   - name: "Ingrid Leibel"
     rating: 5
-    date: "2026-04-18"
     comment: |
       I’ve been going to Platinum Medical Spa for years and I can honestly say I always receive the absolute best care from Hana and her entire team. Not only are their prices the best in Edmonton, but their affordability has allowed me to try a variety of different treatments over time.
       
@@ -58,7 +54,6 @@ reviews:
       The staff are always friendly, knowledgeable, and incredibly accommodating when it comes to booking appointments. Every visit is a great experience, and I wouldn’t trust anyone else with my treatments. Highly recommend!
   - name: "Michelle."
     rating: 5
-    date: "2026-04-22"
     comment: |
       The new clinic is absolutely beautiful—modern, inviting, and thoughtfully designed. From the moment you walk in, the staff greet you with warm, genuine smiles that instantly make you feel welcome. Their sincerity really stands out—you can tell they truly care about your comfort and overall experience. The rooms are spotless, well-maintained, and clearly sanitized to a high standard, which adds so much trust and peace of mind.
       

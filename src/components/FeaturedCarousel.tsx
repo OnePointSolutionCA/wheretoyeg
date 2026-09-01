@@ -1,5 +1,6 @@
 "use client";
 
+import { useRef, useEffect, useCallback } from "react";
 import type { Business } from "@/lib/types";
 import { BusinessCard } from "./BusinessCard";
 import { Card3D } from "./Card3D";
@@ -11,10 +12,36 @@ export function FeaturedCarousel({
   businesses: Business[];
   categoryNames: Record<string, string>;
 }) {
+  const ref = useRef<HTMLDivElement>(null);
+  const paused = useRef(false);
+
+  const scroll = useCallback(() => {
+    const el = ref.current;
+    if (!el || paused.current) return;
+    const max = el.scrollWidth - el.clientWidth;
+    if (el.scrollLeft >= max - 2) {
+      el.scrollTo({ left: 0, behavior: "smooth" });
+    } else {
+      el.scrollBy({ left: 320, behavior: "smooth" });
+    }
+  }, []);
+
+  useEffect(() => {
+    const mq = window.matchMedia("(prefers-reduced-motion: reduce)");
+    if (mq.matches) return;
+    const id = setInterval(scroll, 4000);
+    return () => clearInterval(id);
+  }, [scroll]);
+
   return (
-    <div className="relative">
+    <div
+      className="relative"
+      onMouseEnter={() => { paused.current = true; }}
+      onMouseLeave={() => { paused.current = false; }}
+    >
       <div
-        className="flex gap-5 overflow-x-auto scroll-smooth snap-x snap-mandatory pb-2"
+        ref={ref}
+        className="featured-track flex gap-5 overflow-x-auto scroll-smooth snap-x snap-mandatory pb-2"
         style={{ scrollbarWidth: "none", msOverflowStyle: "none", WebkitOverflowScrolling: "touch" }}
       >
         <style>{`.featured-track::-webkit-scrollbar { display: none; }`}</style>

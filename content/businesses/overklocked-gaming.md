@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Rob C"
     rating: 5
-    date: "2026-03-19"
     comment: |
       I had a great experience at Overclock Gaming Cafe. The two guys running the place, Kevin and Clarence (apologies if I misspelled that), were awesome.
       
@@ -43,7 +42,6 @@ reviews:
       It’s a great spot if you’re looking to relax, game in peace, and get set up quickly without any hassle. Highly recommend checking this place out.
   - name: "mohmad Dourzi"
     rating: 5
-    date: "2026-03-22"
     comment: |
       Great gaming spot! 🎮
       
@@ -54,17 +52,14 @@ reviews:
       Overall, a top-tier place to game. Definitely coming back again!
   - name: "Denny Howell"
     rating: 5
-    date: "2026-03-22"
     comment: |
       Overklocked Gaming is the best Gaming LAN center in Edmonton with more then 60 gaming PC's and a extremely huge amount of games to play! They even host tournaments as well and have PS5's and Nintendo Switch 2's! The Drinks Selections as well as snacks is a very good selection! Every time I come to Overklocked, it feels like home and the staff there is extremely friendly and always happy to help whenever you need anything! I recommend Overklocked Gaming for casual, competitive and new gamers who wants to get into gaming!
   - name: "Sarah Holmes"
     rating: 5
-    date: "2026-05-16"
     comment: |
       Just had our son’s 12th birthday here. I can’t recommend this place enough. It was fantastic! My son and his friends all said it was the best birthday party ever!
   - name: "Leah Song"
     rating: 5
-    date: "2026-04-01"
     comment: |
       I am really not knowledgeable about games but wanted to check the cafe out with my brother. I was very nervous about everything but the service was so great from the guy with the flannel.  My brother really enjoyed playing Fortnight here. Thank you Overklockd!
 ---

@@ -33,12 +33,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Abdikadir Abdi"
     rating: 5
-    date: "2025-12-03"
     comment: |
       I ordered via Uber Foods and was pleasantly surprised with both the quality and the generous portions. I ordered Beef Samosa and Mandazi, plus Somali Tea. The Samosa was fried on order and the Mandazi was also freshly prepared. The former was filled with generous amounts of spicy beef while the latter had was not doughy (Mandazi is preferred with no dough on the inside) which was delightfully delicious. The Somali tea was made to order and it was not overly sweet. The meal was delivered promptly with cutlery and sufficient paper towels. Overall, the meal was delicious and the service provided was exceptional. Do yourself a favour and order from this restaurant. You will be provided an excellent meal and extraordinary service. 5 stars all around.
   - name: "Tristan KNIGHT"
     rating: 5
-    date: "2023-04-08"
     comment: |
       Very good!!
       
@@ -52,7 +50,6 @@ reviews:
       I can't wait to be back for more! :)
   - name: "Sherwood Wongus"
     rating: 3
-    date: "2022-08-27"
     comment: |
       I went to this place with my cousin as he heard many good things about it. Upon arriving I looked at the front of the restaurant and couldn't find words to describe this sign, I legit thought he made a mistake based on the neighbours floating around the area but looks can be deceiving......kind of.
       
@@ -69,12 +66,10 @@ reviews:
       I will go back to try another dish but until then, I can't recommend this place to the chickens scared to cross that downtown barrier. If you're just trying to get full for cheap prices though, you may want to come get this.
   - name: "Adina Ashraf"
     rating: 5
-    date: "2022-06-12"
     comment: |
       Really amazing place. Big portions, delicious, well cooked, soft meat. We had multiple chicken and beef dishes, all extremely satisfactory. The BBQ chicken was super juicy and soft. The beef sugar/stew was flavourful.The chicken steak was so nice and juicy and the chicken stew was lemony and salty and very good. The service was also very good. They gave us free soup, traditional hot sauce, and drinks with free refills throughout. We got there late, which meant some things had run out but they went above and beyond to give us recommendations that were delicious, and remained cordial and polite throughout. The food also came really fast! Definietly recommend, and will be coming back!
   - name: "Joyce Infantia"
     rating: 5
-    date: "2024-03-10"
     comment: |
       The best food ever! The taste was absolutely amazing! My son loved their food and also we did! Their meat was very well cook and was full of flavors! I would love to go there again!!!
 ---

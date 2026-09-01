@@ -30,17 +30,14 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Damilotun Awoyale"
     rating: 5
-    date: "2026-08-08"
     comment: |
       They provide holistic care in this clinic.
   - name: "Ignite Innovations Inc."
     rating: 5
-    date: "2026-08-09"
     comment: |
       This is my family clinic. I’ve had 2 docs before coming here and I get exactly the kind of care that I need here for the first time!
   - name: "favour amachukwu"
     rating: 5
-    date: "2026-08-06"
     comment: |
       Dr Nwankpa is an excellent doctor. She listens and pays attention to her patients and she is very empathetic. I highly recommend!
 ---

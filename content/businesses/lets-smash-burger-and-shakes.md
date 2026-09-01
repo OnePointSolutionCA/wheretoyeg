@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Gigi Reviews — YEG • AB • Beyond"
     rating: 5
-    date: "2026-04-19"
     comment: |
       Seriously fresh and satisfying — BFF Smash and Triple Double Smash were right on the money—beautifully toasted buns, perfectly grilled patties with just the right crisp edge, house-made Moroccan-style bacon that deserves top billing, and fries cooked to perfection. We even wanted to buy the bacon on its own, but it is for in-house use only.
       
@@ -58,12 +57,10 @@ reviews:
       * Strong return-worthy spot on Jasper Avenue / 109 Street
   - name: "Juma Amisi"
     rating: 3
-    date: "2026-05-10"
     comment: |
       I’ve tried Let’s Smash Burger and Shakes three times now, and I really wanted to like it more than I did. The shop itself was clean and well maintained, and the staff was friendly, which I appreciated. Unfortunately, the burger was pretty bland each time, and nothing about it really stood out to me. It wasn’t bad, but it also wasn’t memorable or something I’d go out of my way to have again. Overall, it’s a decent spot if you’re in the area, but for me it didn’t quite live up to the hype.
   - name: "Greyson Averill"
     rating: 5
-    date: "2026-05-13"
     comment: |
       Feras and his team take pleasure in serving up the absolute best burgers in the city.  I stop every time I’m in town.   Not only are they amazing food, but an amazing deal! Please do yourself a favor and stop by Let’s Smash today. You won’t be let down.
       
@@ -71,12 +68,10 @@ reviews:
       -Red deer AB
   - name: "Jumin Tachibana"
     rating: 5
-    date: "2026-04-21"
     comment: |
       I came to let’s smash a little while ago after craving it for a few months. Needless to say, it was well worth the trip! Yahya was an absolute gem, and provided great food and an even greater conversation with his bright personality. Definitely a place I’ll frequent more often! Thanks for making my day Yahya :))
   - name: "Danielle Libunao"
     rating: 5
-    date: "2026-03-08"
     comment: |
       It was our first time coming here, Hamza, who took our orders who was able to predict what each of us were getting which was the fun experience. Amazing customer service, and one of the best smash burgers in town. Atmosphere is enjoyable and clean. We got our burgers within minutes of ordering. Also got a complimentary biscoff cookie and ferrero rocher. We came here for dinner, but I think it would be a great place to come for lunch. Will definitely be returning!! 10/10
 ---

@@ -30,29 +30,24 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Abigail Christina"
     rating: 5
-    date: "2026-07-24"
     comment: |
       Mikayla was absolutely wonderful. She was super knowledgeable, helpful, understanding and funny. She also did an amazing job on my dysport and lips, they were basically painless. Super excited to see the healed result but I couldn’t recommend going to see Mikayla more!
   - name: "Michelle Michaud"
     rating: 5
-    date: "2026-07-23"
     comment: |
       I’ve had Botox a few times but it was my first time at beauty rewind with Adriana. She was so personable and knowledgeable and didn’t push me to do more than I was comfortable with. I felt zero pain and wish I lived in town to go back!  It was also less expensive than other places I’ve been.
   - name: "Shelbi Stang"
     rating: 5
-    date: "2026-07-04"
     comment: |
       I had an amazing experience with Madison! She did both my PRP microneedling and hair PRP treatments, and I couldn’t have asked for better care. She made me feel so comfortable, safe, and took the time to explain everything and check in with me along the way.
       
       These treatments can be a little intimidating, but Madison’s professionalism, kindness, and gentle approach made the experience so much better than I expected. I truly felt like I was in great hands. I highly recommend Nurse Madison!
   - name: "Вікторія Киця"
     rating: 5
-    date: "2026-02-25"
     comment: |
       I recommend Mila as a good master. My eyebrows have become wonderful. The shape and color suit me. The master is very friendly and attentive to the client. My mother is also satisfied with Mila's services. Now we are her fans. Come to a professional master to get an aesthetic look!
   - name: "Catherine Guijarno"
     rating: 5
-    date: "2026-04-15"
     comment: |
       I’ve been to a few different places and seen several nurses for my filler and Botox over the years, but for the past couple of years, I’ve been completely loyal to Reichelle at Beauty Rewind. I truly wouldn’t trust anyone else!
       

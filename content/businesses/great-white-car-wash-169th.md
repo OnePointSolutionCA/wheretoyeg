@@ -30,29 +30,24 @@ date_listed: "2026-08-30"
 reviews:
   - name: "S S"
     rating: 5
-    date: "2026-05-21"
     comment: |
       Dallas and Wole are amazing in assisting. My first time here and they provided exceptional service as the automatic was shut down. They were informative on how things work. As I have been to different car washes. This is an different experience. Thank you and look forward to returning cause of the great service. Oh let's not forget the undercarriage wash through self serve!
   - name: "Alexander Menelik"
     rating: 1
-    date: "2026-06-05"
     comment: |
       I’ve come to this car wash multiple times, and the track is either broken or the wash takes way too long to get through. It feels like half the time there’s some kind of issue, and the other half you’re stuck waiting much longer than expected. For the price and convenience people expect from an automatic car wash, the experience has been frustrating and unreliable. I hope management fixes the equipment and improves the speed of service because this location could be much better.
   - name: "Kit Abuan"
     rating: 5
-    date: "2026-04-01"
     comment: |
       Overall a great place to wash your car. During the winter always check the website to make sure it the automated wash is working. Considering how many cars go through I’ve only seen it down for a day or two. And the attendants are friendly, want to give a shout out to Rebecca. Definitely worth the monthly membership.
   - name: "Jojo Mitchell"
     rating: 5
-    date: "2026-02-11"
     comment: |
       A very good car wash place. It is so worth it with the unlimited plan especially when the roads are messy. Great concept with amazing plans.
       
       Griffin was helpful to us.
   - name: "Tai 780"
     rating: 5
-    date: "2026-03-27"
     comment: |
       Been a member since day one when Great White opened and I’ve been on the monthly plan ever since.
       

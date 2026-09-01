@@ -30,7 +30,6 @@ date_listed: "2026-08-26"
 reviews:
   - name: "Lan Nguyen"
     rating: 5
-    date: "2024-07-25"
     comment: |
       I should say that before my experience today, Biera was already my favourite Edmonton restaurant.
       
@@ -49,24 +48,20 @@ reviews:
       Thank you Biera, for every amazing experience I've had (I've had my birthday, anniversary there), for respecting what you do, and for being incredibly considerate. I will continue telling everyone about Biera and celebrate my special occasions there!
   - name: "Megan Demian"
     rating: 5
-    date: "2024-08-21"
     comment: |
       I have to admit, when my husband took me here for dinner I was like "really, bar food?", but that cannot be further from what this gem is! I was so pleasantly surprised by this place! I can't even describe all the flavors happening in my mouth here, it was truly magical. Let's start with my drink. I don't usually venture off and order cocktails, but the server recommended it so I thought I would try. I believe it was called bikini bottom? So good, I had 2. It almost tasted like an old fashion but sweeter and with gin (go figure). Amazing. Let's move on to the cucumber salad, also recommended by our server. I think this was my favorite part of our meal. I could have drank the sauce on it. Again, it's hard to describe so just try it and thank me later. It was amazing. So many flavors and textures. Brilliant. For our meals we had the chicken and pork and both were amazing. Will definitely be back.
   - name: "Paula Le"
     rating: 5
-    date: "2018-04-03"
     comment: |
       Beautiful space in Ritchie market. Every single dish ordered was so rich in flavor and unique. The service was excellent and great selections of local beer. I would highly recommend this place for date night with your significant other or a small group of friends as the plates are meant to be shared! The charcoal pork was delicious and by far my favorite of the 5 dishes ordered that night. I will definitely be back soon!
   - name: "Alicia Ng"
     rating: 4
-    date: "2024-09-23"
     comment: |
       Food was delicious. Would recommend sharing multiple plates. Portion sizes are a bit smaller and took a while to come out after ordering. Beer was also good and brewed in house. Move atmosphere.
       
       Update: went for brunch this time on Sunday. The food is different from your classic Brunch but still delicious.
   - name: "Spencer Bevans"
     rating: 5
-    date: "2024-04-04"
     comment: |
       Beira was truly a unique experience, the food and drinks are truly unlike anything you will experience at a standard fancy restaurant.
       

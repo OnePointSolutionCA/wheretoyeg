@@ -32,14 +32,12 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Fairuz Adiba"
     rating: 5
-    date: "2026-08-07"
     comment: |
       This place is pretty good! I think they’re fairly new, but honestly, I was pleasantly surprised by the food. The portions are pretty decent for the prices and you definitely get a good amount of food for what you’re paying. Everything tasted fresh and flavorful, and the overall experience was pretty nice.
       
       The only thing we wished they would do is include rice with the curry at no extra cost. But honestly that’s not a big factor and definitely wouldn’t stop us from coming back. Overall, it’s a pretty good spot with decent portions reasonable prices and good food. Definitely worth checking out!
   - name: "Gary Chan"
     rating: 5
-    date: "2026-06-24"
     comment: |
       If you're looking for a delightful dining experience, you have to check out Zaab Thai! I recently went there for lunch with two of my co-workers, we couldn’t resist ordering a bit of everything because there were so many tempting options on the menu!
       
@@ -50,17 +48,14 @@ reviews:
       The restaurant has a cozy vibe since it’s on the smaller side, which I think makes it feel boutiquey. I’d recommend swinging by before it gets too crowded—trust me, once word gets out about this place, it’ll be a popular spot!
   - name: "Dillon Frolek"
     rating: 5
-    date: "2026-07-06"
     comment: |
       Great to have a Thai restaurant on the south side. Food, service and seating area were all 5/5. We tried the drunken noodles based on other reviews - which exceeded expectations - along with the basil stir fry and the roti dessert - which reminded us exactly of the ones we tried in Thailand. Looking forward to our next visit!
   - name: "Tran Thuong"
     rating: 5
-    date: "2026-06-10"
     comment: |
       The food was delicious and full of authentic Thai flavors. Excellent service and beautiful atmosphere.
   - name: "Preeya"
     rating: 5
-    date: "2026-06-18"
     comment: |
       The food was very tasty. I got a beef drunken noodle today it was delicious and the beef was very tender.
 ---

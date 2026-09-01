@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Danielle Logue"
     rating: 5
-    date: "2026-01-14"
     comment: |
       We love the Factory!
       
@@ -50,22 +49,18 @@ reviews:
       I can’t say enough about how much we love this place. Highly recommend for the whole family, including your pet! Thank you for making this space available. We love it!
   - name: "Zachary Tymo"
     rating: 5
-    date: "2026-07-01"
     comment: |
       Staff was really great at getting me and my son started and showing us around. We will definitely make this one of our usual things to do
   - name: "Steven Baryluk"
     rating: 5
-    date: "2024-07-22"
     comment: |
       This was a great spot to go with my son. The staff were very friendly and helpful explaining everything and going through the facility. While there definitely some serious climbers here, it wasn’t intimidating for us novices at all. Everyone there was friendly and even helpful with suggestions in some cases. Great spot to go for a day pass, or even sign up for a membership. Just be ready for some sore fingers and forearms if you aren’t used to it!
   - name: "8JE 8JE"
     rating: 5
-    date: "2026-04-14"
     comment: |
       One of my favourite rock climbing gym. The atmosphere is amazing here from the staff to the people that climb, everyone is friendly and you are bound to get a compliment or two lol. The route that are set up are nice and it is refreshed fairly often so there is always a good variety.
   - name: "Lauren"
     rating: 5
-    date: "2026-06-06"
     comment: |
       Great place. The only thing i dont like is that there are pride flags year round and no Canadian flags. The people here are great though. Love the climbing walls.
 ---

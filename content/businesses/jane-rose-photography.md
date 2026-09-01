@@ -30,13 +30,11 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Arianne Hopkins"
     rating: 5
-    date: "2026-05-05"
     comment: |
       Sara created such a warm and safe experience. We had so much fun and felt at ease bringing our newborn in- she was so patient and allowed time for me to nurse and change the little one to ensure no fussiness.
       We are in love with our album! Thank you Sara!
   - name: "Taryn Ebertz"
     rating: 5
-    date: "2026-03-29"
     comment: |
       Absolutely outstanding newborn photography!
       
@@ -45,17 +43,14 @@ reviews:
       Communication was clear and timely, and the final edits were delivered quickly without compromising quality. If you're looking for someone who truly understands how to bring life’s greatest moments to life, she is the one to choose. Can’t not recommend Sara anymore and will be referring her to all of our friends and family ♥️
   - name: "A L"
     rating: 5
-    date: "2026-07-17"
     comment: |
       Sara took our maternity/family photos, and they turned out beautifully! I love her style and philosophy behind her business. She is communicative, accommodating, and I appreciate how she helped our toddler feel comfortable during the shoot (despite all the mosquitoes). Her client closet is quite large, and I liked that there were also options for my toddler as well. Would highly recommend!
   - name: "Heather Heath"
     rating: 5
-    date: "2026-06-29"
     comment: |
       I did Maternity and Newborn photos with Sara. We couldn't have asked for a better photographer! She captured such beautiful photos, and our galleries exceeded every expectation. The quality, editing, and attention to detail are incredible. The photos are absolutely stunning. Thank you so so so much for this experience.
   - name: "Jamie McCrary"
     rating: 5
-    date: "2026-04-13"
     comment: |
       I had the absolute pleasure of having Sara take our newborn photos, and I truly couldn’t be happier with my decision. From start to finish, the entire experience felt seamless, calm, and incredibly reassuring.
       

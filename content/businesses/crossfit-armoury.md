@@ -30,17 +30,14 @@ date_listed: "2026-08-20"
 reviews:
   - name: "David Wahlgren"
     rating: 5
-    date: "2024-05-24"
     comment: |
       Dropped in to a class while spending time in Edmonton for my daughter’s Volleyball Nationals. Great community and coach Jason was very welcoming and knowledgeable. Would highly recommend this gym to regulars in the area or visitors from out of town. Thanks again Jason.
   - name: "Alex Beattie"
     rating: 5
-    date: "2023-11-01"
     comment: |
       I've been going here awhile now, and still love it. Great group of people, well run, great community. Really enjoy working out here. Coaches are all friendly and helpful. If you're wanting to try CrossFit it's an excellent gym to try it out at. Highly recommend this gym.
   - name: "Stephen Chase"
     rating: 5
-    date: "2022-11-20"
     comment: |
       Great community, great programming variety, and a spacious well stocked gym!
       
@@ -49,12 +46,10 @@ reviews:
       If you are on the fence about trying crossfit, take a intro class and see what it's all about!
   - name: "Simon R"
     rating: 5
-    date: "2018-03-28"
     comment: |
       Without a doubt the best CrossFit gym in the Edmonton. The coaches are personable and welcoming to visitors and people of all skill levels or ages. They have a lot of high level athletes but no egos. Great community feel. Would definitely recommend for visitors looking to do a drop in or for anyone looking for a new gym or to try CrossFit
   - name: "Tristan Meade"
     rating: 5
-    date: "2019-01-15"
     comment: |
       Amazing place!   Great trainers, great facility and great people.  Hit a new PR by 45lbs on my front squat on my first visit!  Form and function is everything,  combine that with knowledgeable trainers, a fun community and your are garenteed to be hooked.  I will be going back every time I'm in town.   The only downside to this gym is that it is not in my town.
 ---

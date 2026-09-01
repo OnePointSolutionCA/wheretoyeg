@@ -30,12 +30,10 @@ date_listed: "2026-08-20"
 reviews:
   - name: "K. B."
     rating: 5
-    date: "2024-03-16"
     comment: |
       Trista is an excellent facilitator and plans life changing retreats. She really knows the local areas and schedules amazing excursions (cenotes, swimming with manatees, snorkelling, etc). She is familiar with local restaurants, has great recommendations and has gotten us delicious meals. The yoga, breath work, women’s circles all fantastic. 10/10, exceeded my expectations
   - name: "Lori Miller"
     rating: 5
-    date: "2024-03-18"
     comment: |
       I've been taking classes with Above Average for  a couple of years now. I was doing drop in when I came to town and then added a virtual membership. I love the classes. Each instructor is unique but they all give options for accommodations if a pose might be challenging.
       
@@ -44,14 +42,12 @@ reviews:
       I'd highly recommend both the classes and any of the workshops or retreats. They're professionally done while also being curated experiences.
   - name: "Kristine Fabish"
     rating: 5
-    date: "2023-06-05"
     comment: |
       This is not your average yoga studio. Of course they have amazing yoga classes however this place is completely inclusive. They are a no judgement, safe place for everyone of all shapes, sizes, and backgrounds to practice yoga and heal from the inside out.
       They have amazing workshops like Restorative Yoga with Reiki & Sound Healing, Art Journaling, and Breathwork to name a few. Check them out on Facebook and download their app to see all their offerings.
       They also do retreats that are absolutely transformative! The pictures are from their most recent local retreat.
   - name: "Dajana Fabjanovic"
     rating: 5
-    date: "2023-03-11"
     comment: |
       Gem heaven! The variety of gems, minerals and stones is amazing. Give yourself lots of time to browse!
       
@@ -60,7 +56,6 @@ reviews:
       ETA: I came back two more times within the same week. The entire staff and owner are lovely and helpful. 😊
   - name: "Rachel Davies"
     rating: 5
-    date: "2023-10-28"
     comment: |
       Popped into the shop to have a browse. What a lovely place for gifts, crystals and yoga supplies. Staff were really helpful and friendly, didn't crowd me either - I love a good browse around. Knowledgeable and answered the questions I had about some crystals. Lovely shopping experience, highly recommended.
 ---

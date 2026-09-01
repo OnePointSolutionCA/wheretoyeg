@@ -33,7 +33,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Ava Kolz"
     rating: 5
-    date: "2026-02-16"
     comment: |
       Bahubali truly lives up to its name as a 'Culinary Kingdom.' From the moment we stepped inside, the atmosphere felt elevated and intentional, but what truly made our evening unforgettable was the incredible hospitality.
       
@@ -48,12 +47,10 @@ reviews:
       5/5 Stars!
   - name: "Daman Mann"
     rating: 5
-    date: "2026-07-08"
     comment: |
       First time visiting Bahubali and it was a great experience! We tried the Malai Kofta, Methi Chaman, and Paneer Butter Masala—all of which came with complimentary naan (which you can also swap for rice). The restaurant is incredibly clean and well-kept, and the menu is impressive, featuring plenty of South Indian options as well. Friendly service and a great overall atmosphere. Highly recommend!
   - name: "Venita Gonsalves"
     rating: 5
-    date: "2026-06-22"
     comment: |
       The huge party of 4 masala dosa was amazing however we had to ask for bowls for the sambar since it was very messy eating the sambar in a plate (Not biggie but flavor and taste was seriously so good)
       They offered free Tre leche cake for the 2 dads for fathers Day. That was an amazing suprise for us and a huge bonus, it was also delicious.
@@ -61,12 +58,10 @@ reviews:
       Thank you.
   - name: "Totam"
     rating: 5
-    date: "2026-06-28"
     comment: |
       I loved the ambience. Food was very tasty. Very fast service..Our server Komal gave an excellent service. I will come back again as there is food for everyone. The drink black magic was very refreshing. Thank you to the bartender Inder. Great place to eat.
   - name: "James MacPherson"
     rating: 5
-    date: "2026-01-24"
     comment: |
       This new restaurant in Edmonton has been one of the best South Indian restaurants I have tried in Canada - food and atmosphere were both fantastic. (It can be spicy, which I like, but be aware! Delicious).. Jashan our server was very friendly and the staff in general were great and made solid recommendations. Mysore Masala Dosa and chicken 65 were fantastic! (Everything was)
 ---

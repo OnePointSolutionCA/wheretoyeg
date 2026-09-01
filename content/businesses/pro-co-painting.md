@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Giselle Friesen"
     rating: 5
-    date: "2026-05-28"
     comment: |
       I get that there are many options for painters offered out there but this company is;
       professional - proper communications and detailed quotes that include commitments to their service.
@@ -40,7 +39,6 @@ reviews:
       We love our new colour on our house. We went with a dark grey and everything worked out so very well.
   - name: "Chris Liddle"
     rating: 5
-    date: "2025-07-21"
     comment: |
       The condo board I serve on recently had the pleasure of working with the team at Pro Co Painting, and the experience exceeded every expectation.
       
@@ -53,13 +51,11 @@ reviews:
       Highly recommend Pro Co Painting you’ll be in great hands.
   - name: "Armstrong Clann"
     rating: 5
-    date: "2025-12-09"
     comment: |
       The crew from Pro Co did a great job. Very professional and hard working. They completed our entire first floor and primary bedroom in less than four days, including all walls and trim. The house looks brand new again. We don't even want to hang pictures back on the wall and spoil the look of the fresh new paint.
       Thank you Joelene and team.
   - name: "Laura Beatson"
     rating: 5
-    date: "2025-11-21"
     comment: |
       We have had Pro Co Painting Company paint most of our house at this point. They are a great crew, that work efficiently and professionally.
       The communication is clear, quick and frequent. The crew shows up on time, and works hard to complete the job on time. Daily communication with leadership about what was completed and what is left to be done is very much appreciated.
@@ -67,7 +63,6 @@ reviews:
       I would recommend Pro Co Painting and Joelene to anyone looking for a painter.
   - name: "Des Hay"
     rating: 5
-    date: "2026-02-02"
     comment: |
       We couldn’t be happier with our experience with Pro Co Painting. They were professional from start to finish and offered the best pricing we found. The quality of work was excellent, with great attention to detail, and they finished a full day ahead of schedule.
       

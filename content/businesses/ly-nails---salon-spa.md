@@ -30,17 +30,14 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Chef Boyardee"
     rating: 4
-    date: "2026-08-03"
     comment: |
       Jenny did my nails and brought my dream custom design to life! The staff was very upfront and honest about the pricing and informing me of extra charges before any additional add ons. Which I found to be helpful since it was my first time time getting my nails done and I didnt want to be surprised with a huge bill i was unaware of. Its a pretty chill place to get your nails done. pricy yes, the designs are cute and impressive the scalping aspect could have been a little more tinkered with the shaving down the acrylic underneath the nails which was forgotten about.
   - name: "Miki de Leon"
     rating: 5
-    date: "2026-06-09"
     comment: |
       I've been to see Amy a couple times now. I am not usually able to schedule an appointment ahead but she was able to bring my vision to life in like an hour! These are probably the cutest nails I've ever had. 🧸💖 Thank you so much, Amy!
   - name: "Vixen Insert meme here"
     rating: 5
-    date: "2026-06-07"
     comment: |
       I honestly really liked the attention to detail the staff serving me had— I was really worried at first because I’ve had subpar experiences at other salons in the mall. However, this place really exceeded my expectations. They took a lot of time making sure the nails were as even as possible, and I really really appreciate that.
       
@@ -49,14 +46,12 @@ reviews:
       I will absolutely be returning! 🤍
   - name: "Kelsie Kelly"
     rating: 5
-    date: "2026-05-27"
     comment: |
       I had such a great experience with Vi at Ly Nails! I showed up about 25 minutes before closing with a total nail emergency, and she welcomed me so kindly without making me feel rushed at all. She stayed late to make sure everything was perfect, and my nails turned out absolutely beautiful!
       
       Vi was so friendly, personable, and genuinely caring the entire appointment. I really appreciated her time, patience, and attention to detail. Highly recommend her if you’re looking for someone talented and incredibly kind!
   - name: "Mehak Dhindsa"
     rating: 5
-    date: "2026-04-06"
     comment: |
       I had such an amazing experience with Kim! She did my nail extensions and I’m honestly obsessed 😍 I can’t stop looking at them—they’re absolutely beautiful and exactly what I wanted.
       

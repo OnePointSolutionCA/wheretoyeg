@@ -31,17 +31,14 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Eli Irvine"
     rating: 1
-    date: "2016-09-26"
     comment: |
       There is nothing here. It's an empty store.
   - name: "Addis SIKA"
     rating: 5
-    date: "2020-01-17"
     comment: |
       The best capuchon in town
   - name: "Hassan mzalendo"
     rating: 3
-    date: "2019-03-23"
     comment: |
       Cool place to hang
 ---

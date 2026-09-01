@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "DFX"
     rating: 5
-    date: "2025-10-20"
     comment: |
       Loved the gym, one of the most considerate gym I have been to with a huge workout area, large Kilter board, and towels for shower if needed. The facility is very modern and clean.
       
@@ -41,7 +40,6 @@ reviews:
       First time climbers can get a one week trial pass for $31.5 with chalk and shoe rentals included.
   - name: "Daniel Tran"
     rating: 5
-    date: "2025-07-30"
     comment: |
       Niche (and all rock jungle gyms) have very friendly and fun staff, who are always willing to help. You can go to them for issues with your account, or to even ask them for beta on a problem if you're stuck! They're always really happy and I get along with all of them really well. I love how bright the gym is and the amount of natural lighting there is. The problems set here are good, and I can feel the quality of the setting increase overtime. This gym has become one of my main gyms!
       
@@ -52,12 +50,10 @@ reviews:
       Photos and videos from February 11, 2024
   - name: "Sam Torres"
     rating: 5
-    date: "2026-04-06"
     comment: |
       Great atmosphere and really helpful staff. Always enjoy coming to this place. The setup is really nice to be able to go from area to the next. The bathrooms and sinks are also a great for everyone to access. A top notch gym to attend.
   - name: "Kine Patty"
     rating: 5
-    date: "2024-02-18"
     comment: |
       Great climbing gym! It's actually pretty big  and they have individual change rooms. It's a really nice space in a great location. I did find it kinda pricey compared to other gyms. I wouldn't mind climbing here from time to time but probably won't transfer quite yet (:
       
@@ -66,7 +62,6 @@ reviews:
       Lots of parking in the back in the alley in the fenced up area!!
   - name: "David Grotman"
     rating: 5
-    date: "2025-07-31"
     comment: |
       Easily my favourite climbing gym in the city! Friendly staff, great parking availability, and of course amazing climbs. Amenities are also top notch with lots of washrooms, change rooms, merch, snacks, beverages, and not one but TWO areas to clean the feets after a day of climbing. Would recommend this gym to any experienced or new climbers!
 ---

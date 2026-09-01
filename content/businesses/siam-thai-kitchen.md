@@ -32,29 +32,24 @@ date_listed: "2026-08-20"
 reviews:
   - name: "James D.A McCormick"
     rating: 5
-    date: "2025-10-18"
     comment: |
       My wife and I just had the best Thai food ever! Got seated right away Abby’s out in minutes. Best cake I’ve had in town the curry and the stirfry was incredible. Perfect spice., The Best creamy yellow curry,!
       
       Our server Christoff Must have overheard that it was my birthday and surprised us with a dessert roti which I’ve never had before maybe my new favourite dessert, better than cake! Thank you you highly recommend!
   - name: "M N"
     rating: 5
-    date: "2026-06-18"
     comment: |
       Wish there was a little bit more of intimate tables for two guests, however the food is so good. The kitchen is busy with lots of takeaway so the food is so fresh.
   - name: "Anuja Verma"
     rating: 4
-    date: "2024-11-13"
     comment: |
       We tried the tamarind chicken, red curry with roti, rice noodles with tofu in red sauce. Everything was perfect and portion size was good for the price. Also the service and ambience was pretty good as well.
   - name: "Phat Boy"
     rating: 4
-    date: "2025-03-09"
     comment: |
       One of our go-to Thai restaurants in the west end. Although the food always tastes great, the dishes flavours will differ slightly(but noticeable) depending on who’s cooking. Paid Thai, Drunken Noodles, Yellow curry, Penang curry and Basil Fried rice are always awesome options. I do not recommend the beef protein option for any dish because it’s always tough/chewy or dry. The restaurant is cozy with a cool vibe, but the bathroom(men’s) could use an update and always has an unpleasant smell. Overall, it’s a great place for Thai food and recommend trying it out!
   - name: "Bert Jager"
     rating: 5
-    date: "2025-08-15"
     comment: |
       This small restaurant opened during COVID...June 2020 .  It not only survived the pandemic but it still going strong .
       When we walked in , the place was already getting busy .

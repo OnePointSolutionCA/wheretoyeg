@@ -30,13 +30,11 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Cyprus Eagle Rib"
     rating: 5
-    date: "2026-08-05"
     comment: |
       I had a great experience with Brandi! I got a brow sculpt and tint, and she made sure I was happy with everything before she started.
       She was super friendly, thorough, and checked in throughout the whole process. My brows turned out great, and I’m very happy with the result. I definitely recommend her! I will definitely be returning.
   - name: "Kayla Marie"
     rating: 5
-    date: "2026-06-14"
     comment: |
       I can't recommend Reanne enough! As a fellow lash artist, I'm very particular about my lash extensions, and she gives me the best sets I've ever had. Her work is beautiful, comfortable, and always looks amazing from day one until my fill appointment.
       
@@ -45,17 +43,14 @@ reviews:
       If you're looking for a lash artist who delivers stunning lashes with amazing retention, Reanne is the one to see. Highly, highly recommend! ❤️✨
   - name: "Chewy"
     rating: 1
-    date: "2026-06-15"
     comment: |
       Mediocre service at best. When I arrived one lady was busy with a client she looked at me but did not acknowledge me. I said hello and was ignored, while I waited to be checked in at the front desk there were two girls giggling on the side having a non-work related conversation. They peaked over and saw me at the desk and kept chatting. Finally my technician checked me in and had me sign the forms so we could begin the appointment. I explained I wanted a tint and wax but she said she didn't feel comfortable with the tint as I expressed I sometimes have sensitive skin. I was disappointed as the choice should have been mine since I am the one paying for the service. Ironically, she had to process my brows a second time since my hair is so thick, however, due to this my eyebrows are also now extremely coarse. When she waxed my brows she barely took any hair off and my eyebrows were not shaped properly. The service overall felt unorganized and messy.  I paid for the service and tipped but I left feeling uncared for. Overall not a pleasant experience or a location I would revisit.
   - name: "Malvina Kielar"
     rating: 5
-    date: "2026-03-17"
     comment: |
       Very happy with the service! I got the wet lash full set done by Leah and I’m very happy with the results! I had a comfortable experience chatting with Leah and being in the salon itself 😊
   - name: "Jennifer Larson"
     rating: 1
-    date: "2026-06-25"
     comment: |
       Really disappointed with my service.
       

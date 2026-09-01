@@ -29,22 +29,18 @@ date_listed: "2026-08-30"
 reviews:
   - name: "BASIL GEORGE ITTERA"
     rating: 5
-    date: "2023-12-05"
     comment: |
       Well managed South Indian store where you can find all South Indian products under one roof . Snacks,frozen fish , vegetables and frozen wide range of ready to eat products . They keep best quality with best price .
   - name: "NITHIN RAJ"
     rating: 1
-    date: "2025-12-24"
     comment: |
       I did visit yesterday and it was not open. It says in website and store hours written as opening 11 am on Tuesdays. But when i reached there at 11.20 , it was still closed. I called the number and none answered. So bad. It was -25 yesterday and I had to walk down all the place for nothing. Worst experience. They dont know the value of time and effort. Never recommended.
   - name: "christo k b"
     rating: 5
-    date: "2026-07-16"
     comment: |
       Best indian store in Edmonton ❤️‍🔥 friendly customer service 💯⚡️
   - name: "shardul soni"
     rating: 1
-    date: "2024-03-31"
     comment: |
       Manager should look what employee are doing.
       Today is 30th march time: 7:51
@@ -52,7 +48,6 @@ reviews:
       Even in the picture you can see it says that they are open until 8PM
   - name: "noble newt"
     rating: 5
-    date: "2024-07-07"
     comment: |
       Great selection of healthy ingredients!
       

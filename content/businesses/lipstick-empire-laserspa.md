@@ -30,17 +30,14 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Lauren Toma"
     rating: 5
-    date: "2026-01-23"
     comment: |
       The best! My go-to medispa for facials. I go to Lindsay and she’s always so warm and welcoming and knows exactly what my skin needs - not to mention, she does the BEST facial + arm massage if there’s down time during a service. And if I’m ever unable to get in with Lindsay, Kortney is incredible too :) Lipstick Empire is all around a great place to feel pampered - highly recommend!
   - name: "Marisa Scarbeau"
     rating: 5
-    date: "2025-01-01"
     comment: |
       I came to Lipstick Empire for the first time this summer - my facial experience was a birthday gift from my sister-in-law. I found the atmosphere inviting and calm. After filling out some paperwork, they offered me a cute pair of slippers to wear. My room had a robe for me to wear, and the treatment table had some warm blankets to lay under.  My facial was lovely and quite relaxing. I broke out in the week after the facial (a typical skin purge), and then my face was glowing. They offered a few recommended products for purchase at the end of the appointment, but they weren't too pushy about making a sale. The downside to the spa is definitely the parking. If it's busy, then you have to park and walk a few blocks.
   - name: "Thao Tran"
     rating: 1
-    date: "2026-07-27"
     comment: |
       Price increase without notice to customer. Only find out after review credit card statement.
       When I try to end my subscription because pf the price increase, the front desk try to pursuate me to push it on hold and told me they will give me a call when the hold period is close to confirm if I want to cancel the prescription in case I change my mind.
@@ -48,7 +45,6 @@ reviews:
       Will never come back here again or recommend anyone here.
   - name: "Kateryna Kuznetsova"
     rating: 5
-    date: "2026-01-23"
     comment: |
       I’ve been coming to Lipstick Empire for about five years now, and everyone there is wonderful. For the last two years, I’ve been seeing Lindsay every month, and she’s been amazing.
       
@@ -57,7 +53,6 @@ reviews:
       She’s professional, knowledgeable, and genuinely cares about her clients. Her facials are incredibly relaxing, and her face massages are amazing. I always leave feeling calm, refreshed, and really well taken care of. Whether you feel like chatting or just fully relaxing, both feel completely comfortable. I’ve always been so happy with my experience and highly recommend her.
   - name: "stephanie p"
     rating: 5
-    date: "2026-02-25"
     comment: |
       If I could give more than 5 stars, I absolutely would!
       

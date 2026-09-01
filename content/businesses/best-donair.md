@@ -35,27 +35,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Isaac Day"
     rating: 5
-    date: "2026-05-01"
     comment: |
       The name fits perfectly. I’ve been coming here for years, it’s the best prices, best bang for your buck, and best service when it comes to donairs in Edmonton. They also due burger combos, shawarma, falafel, poutine, kids meals and have whatever drink you would want. Love this place.
   - name: "xLT Gunny"
     rating: 5
-    date: "2026-07-20"
     comment: |
       Spent mylunch there . The double cheese burger and fries combo was 10/10 love the owner very friendly🤌
   - name: "Layla Cléroux Gannon"
     rating: 5
-    date: "2025-05-16"
     comment: |
       One of the best chicken shawarma’s I’ve ever had! My fiancé & I eat here regularly. We come here at least once a week. We used to live right behind Best which is what intrigued us to try it, now, we travel to Jasper Gates just to get their yummy shawarmas. We usually get our shawarmas with tzatziki, garlic & sweet sauce. Thee BEST! Outstanding quick service and yummy food. Nice seating area for dining in. I highly recommend.
   - name: "Rae Laboucane"
     rating: 1
-    date: "2026-06-22"
     comment: |
       I paid five extra dollars on the jumbo Donair for extra meat a few times now and I’ve noticed they’re gradually getting smaller and smaller and tonight this is what I received for $22..
   - name: "G H (Gabby)"
     rating: 5
-    date: "2026-06-15"
     comment: |
       Amazing local business with such a welcoming atmosphere. They stayed open a little later to take our order and were incredibly kind and friendly the whole time. The customer service was genuinely above and beyond, and the food was absolutely delicious. 🔥🌟
 ---

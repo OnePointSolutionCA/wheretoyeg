@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Ami Batac"
     rating: 1
-    date: "2026-05-29"
     comment: |
       I have never experienced such disappointing and unacceptable service from a business, and if zero stars were an option, that is what I would give.
       
@@ -62,7 +61,6 @@ reviews:
       You clearly have posted this response to protect your own butt in the matter. Regardless, you are the business who sent us home on a tire we asked you to check and assured us that it was fine to which it was completely unsafe and this in its own is poor business practice.
   - name: "Bob Star"
     rating: 5
-    date: "2026-08-01"
     comment: |
       I stopped by to get new tires for my Jeep, and the shop was super clean with a team that was incredibly friendly and helpful.
       
@@ -77,7 +75,6 @@ reviews:
       —Leland
   - name: "Gautam Naib"
     rating: 2
-    date: "2026-06-24"
     comment: |
       I’ve purchased tires from this shop over the last six years. Last year they sold me 14 year old winter tires. When I purchased them,
       I was told that they were roughly three year old tires, and so, I did not think to double check. I was disappointed to learn the age from a local mechanic when I had the tires removed this season. I called Nothing But Tires and they stated that all tires are tested (+safe) and they do sell tires beyond the age of what’s recommended; a Google search revealed it is not illegal to sell 14 year old tires but extremely unsafe. I called management and was only offered a $50 credit for future tires. As much as I liked this shop in the past, I will not purchase from them again. Sad to see they treat loyal customers like this.
@@ -87,12 +84,10 @@ reviews:
       “ Was shopping around for tires + rims for weeks and couldn’t find anything for a good price. Every shop was $3K+. Called NBT and the first quote I got was amazing and it wasn’t a ripoff like every other shop. The agent, who was very kind and helpful, also assisted me in exploring all the other options I had and we came to a great set for an amazing price. It’s good to see there’s at least one shop who knows customer service is key to attaining and keeping business. Most auto shops and dealers treat customers poorly but the whole time I was at NBT, it was respect and kindness from employees. Will highly recommend this shop to anyone and they will be my tire shop going forward.”
   - name: "Davinder singh"
     rating: 1
-    date: "2026-06-01"
     comment: |
       Extremely disappointing experience with Nothing But Tires. I purchased a tire from them, and it developed a bump, indicating a defect. When I returned for a replacement, instead of standing behind the product and helping resolve the issue fairly, I was asked to pay an additional $90 for the replacement and installation. Customer service and warranty support were not what I expected. I chose this business hoping for reliable products and support, but this experience left me frustrated and dissatisfied. I would not recommend them based on how this situation was handled.
   - name: "Catherine Crocker"
     rating: 5
-    date: "2026-04-24"
     comment: |
       They literally are the best I can not say it enough.  Have been going to them for years and super happy for them and their new location.  If you live Northern and are coming out check in with them.  Thanks again for another great buy for the new to us 2002 Astro Van. #yukongirlnwtadventurer
       We will be back next trip to get winter tires for our new rig.

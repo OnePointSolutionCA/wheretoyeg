@@ -32,7 +32,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Ashraf Elsayed"
     rating: 5
-    date: "2026-03-01"
     comment: |
       Amazing coffee and an excellent experience!
       
@@ -41,23 +40,19 @@ reviews:
       Great atmosphere, high-quality coffee, and outstanding service. I highly recommend this place to anyone who appreciates good coffee!
   - name: "Expert in experiences"
     rating: 5
-    date: "2025-01-03"
     comment: |
       I finally got a new Breville espresso coffee machine and I’m dying to use it.  Have been looking for a fresh roasted coffee bean place, and I finally found it on google.  The lady is very friendly and knowledgeable, and my knowledge on coffee beans is very limited, and she explained well.  I bought two bags to try it. One of them is Columbia Exocelso and the other bag is Blond yellow Catuai.    Would definitely come back.
   - name: "Rebecca P"
     rating: 5
-    date: "2023-10-05"
     comment: |
       I just bought an espresso machine and am definitely a novice when it comes to coffee as I’m more of a tea person - however my husband loves coffee and I really wanted to make him the best coffees. I came to NXT after trying grocery store beans (yikes) and from the smile on my husband’s face after taking a sip, NXT definitely has the best coffee beans!
       The lady who helped me was really kind and showed me where they roasted the beans and allowed me to smell the different types (I purchased a bag of Honduras beans). The owner offered some good advice on how to pull the shot and clearly knows his stuff. I’ll definitely be back. This is a gem of a small business that has honed their craft to the T.
   - name: "Mike Rinaldi"
     rating: 5
-    date: "2023-09-16"
     comment: |
       We were tired of commercial grade subpar grocery store coffee (always buying big cheap bags from Costco). Finally we tried NXT, and the coffee is awesome. $10 for a small bag which lasts is 1-2 weeks for GOOD coffee. Honestly it almost seems as if your coffee is slightly oily from how fresh the beans have been roasted. Can’t wait to try all of the different blends they have!
   - name: "Donovan Jang"
     rating: 5
-    date: "2021-10-31"
     comment: |
       What a gem this spot is! Inconspicuous spot tucked behind the Home Depot on 68 Ave connecting Gateway and Calgary Trail, but totally legitimate and the real deal.
       

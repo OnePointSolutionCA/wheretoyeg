@@ -31,7 +31,6 @@ date_listed: "2026-08-18"
 reviews:
   - name: "Daniel Tran"
     rating: 5
-    date: "2026-05-21"
     comment: |
       Visit: April 2026
       
@@ -40,24 +39,20 @@ reviews:
       The interior was also really cute and cozy. I wish I got the chance to dine in, but will save that for next time
   - name: "Merla Kreuger"
     rating: 5
-    date: "2026-06-24"
     comment: |
       This was a gem of a cafe to find.  Much more than a cafe .  The food was so good!   I had the beef brisket cheddar bagel with a spinach salad .  Great service and atmosphere .  So quaint . The area is lovely .  You won't be disappointed trying this place out.  Highly recommend.  Yummy 😋
   - name: "M B"
     rating: 5
-    date: "2026-05-10"
     comment: |
       Always love this place.   The food looks and tastes homemade.  Its the perfect comfort place.   The desserts are obviously the highlight here. But the shep pie and BBQ and salmon.... I cant choose what my favorite is.  I love it all here.
       
       Update.   I got the key lime pie.. and im in heaven
   - name: "Kristina Moyor"
     rating: 5
-    date: "2026-07-12"
     comment: |
       I love pie, and Vi's delivers in all the ways that matter. Delectable pie options, great atmosphere, and excellent service. We had the white chocolate raspberry cheesecake and the peanut butter mousse pie... 🤤
   - name: "Ira Zuñiga"
     rating: 5
-    date: "2025-12-23"
     comment: |
       Always a fan of this place. Food was nice, hearty and comforting and the desserts were unbeatable.
       

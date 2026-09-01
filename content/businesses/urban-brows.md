@@ -30,29 +30,24 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Kerby Manalo"
     rating: 5
-    date: "2026-06-29"
     comment: |
       Mittal did an amazing job with my brows! I wanted a specific shape, and even though my brows are a bit difficult to work with, she got them exactly how I wanted. She was careful, didn’t take off too much, and they turned out so clean. I’m really happy with them and will definitely be back!
   - name: "Dominique Deschenes"
     rating: 5
-    date: "2026-05-05"
     comment: |
       It’s my second time seeing Mittal for eyebrow threading and tinting. I am very satisfied with her service. I am so happy that they opened a location on the west end. I used to drive to millgrove just to go to urban brows. These ladies know their brows!  My husband has also been to this west end location and his brows looked great. He also had his first nose wax which he really enjoyed.
   - name: "Gursiffat Kaur"
     rating: 5
-    date: "2026-07-08"
     comment: |
       Highly recommend Mittal! She always does an amazing job with my eyebrows- perfect shape, great attention to detail, and such a lovely person. I always leave happy! And can’t trust anyone else .
   - name: "Angela F"
     rating: 2
-    date: "2026-07-02"
     comment: |
       This was my first visit and first time having threading done. I was quite disappointed in the service. First there was no record of my appointment even though I received a confirmation and reminder. There was absolutely zero consultation or discussion before she started on my brows which is what I'm most disappointed about. As she was starting I said I just wanted them cleaned up. My brows ended up being quite a bit smaller than I like and I'm very undecided about how I feel about them. I may try here again with someone different but unsure about going back right now.
       
       Added - the next morning there is irritation under the left brow. Looking at my brows more closely they aren't even, the left is smaller than the right. I will be waiting for them to grow back and returning to my regular waxing spot
   - name: "Tanmeet Kaur"
     rating: 5
-    date: "2026-06-14"
     comment: |
       Sheron did an amazing job with my eyebrows! She is so sweet, professional, and pays great attention to detail. Highly recommend!🙂
 ---

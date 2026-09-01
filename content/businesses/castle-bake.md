@@ -34,7 +34,6 @@ date_listed: "2026-08-18"
 reviews:
   - name: "A E"
     rating: 5
-    date: "2026-06-26"
     comment: |
       A real treat for a yummy middle eastern food. The fresh pita and pies are phenomenal 😋
       
@@ -43,7 +42,6 @@ reviews:
       The staff are friendly and pleasant but the place is rather dirty. The floors, the tables and the washrooms should be cleaned more frequently.
   - name: "Rob’s Hidden Gems"
     rating: 5
-    date: "2026-06-02"
     comment: |
       Still, and always, the undefeated champion of authentic Lebanese breakfast in Edmonton.
       
@@ -54,7 +52,6 @@ reviews:
       If you’re looking for a breakfast that will keep you full all day, have you talking about it all week, and won’t break the bank, head to Castle Bake. Highly recommended.
   - name: "Khandy Sr."
     rating: 5
-    date: "2026-01-27"
     comment: |
       We had breakfast at Castle Bake Pita in Edmonton and it was a wonderful experience. The food was fresh, warm, and absolutely delicious — perfect for a morning meal.
       
@@ -63,12 +60,10 @@ reviews:
       Great food, great service, and a very warm atmosphere. We will definitely be coming back and highly recommend this place for breakfast!
   - name: "Tariq Almaashi"
     rating: 5
-    date: "2026-05-24"
     comment: |
       Perfect place for a Sunday brunch. Their flat bread manoushes are excellent. try the garlic Akawi one.
   - name: "A Aubaid"
     rating: 3
-    date: "2026-07-26"
     comment: |
       Although the service is great and the food was amazing, I was disappointed by the pricing. The prices listed online and on Google—including their website—are completely outdated and don't match what you are actually charged in-store, with no prior notice. Just a heads-up to double-check before you order!
 ---

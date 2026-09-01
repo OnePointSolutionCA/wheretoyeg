@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Maël Zoukou Bahi"
     rating: 5
-    date: "2025-12-16"
     comment: |
       What an amazing cafe!! I ended up going there because I was making a school project on Caribbean food, and let me just say it was the best discovery! The vibe is so warm and welcoming, the chef is the nicest and the food is great! The chef helped me a lot for my project, she even offered me a Doubles, a traditional street food from Trinidad and Tobago that it also vegetarian! I will definitely comeback to try other food and thank you again for your precious help!
       (I ended up with a A because of you!)
@@ -40,22 +39,18 @@ reviews:
       Other customers were very happy of their meals, I attached some pictures of it, one is braised pork and the other is chicken curry
   - name: "L E"
     rating: 5
-    date: "2026-07-18"
     comment: |
       Came here out of curiosity and was not disappointed. The staff recommended we try doubles and it was delicious, it was our first time trying this type of cuisine. Service was fantastic. So friendly and welcoming! The sorrel was refreshing and sweet. Will definitely return to try some of the other dishes and drinks. Thanks again!!
   - name: "Joel Routledge"
     rating: 5
-    date: "2025-12-13"
     comment: |
       We heard about this cafe after attending a screening of an independent film which focused on local cuisine. The food looked  amazing and the co-owners were charming and funny so we wanted to check it out! We were not disappointed. You can literally taste the love and care that is put into every perfectly seasoned bite. We had their famous meat pie, the curried beef roti and doubles. Delicious! Can't wait to come back in the summer to enjoy the patio.
   - name: "Olivia"
     rating: 5
-    date: "2025-10-14"
     comment: |
       The place has a cozy vibe. The owners are delightful. The food was good, we have never had a curry with a hint of sweetness, the other curries we had tried in the past was all savoury. This was a good change. Thank you again for a a taste of Trinidad!
   - name: "Chicocares Aguilar"
     rating: 4
-    date: "2023-05-25"
     comment: |
       So exited to taste this amazing food. The drive from Deep South was worth it to be honest.
       

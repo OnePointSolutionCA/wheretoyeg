@@ -30,12 +30,10 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Bernadette Logozar"
     rating: 5
-    date: "2026-08-02"
     comment: |
       Amazing experience from when I first opened the door until I left.  Thank you to the kind, considerate and accommodating staff at Integrated Therapies Massage.  I would highly recommend them.  I was suffering from significant muscle tightness, deep and clustered muscle knots from pretty much head to toe.  Christina was amazing at working as many knots out as she could and working around my physical challenges.  I will definitely be returning to get the rest of me straightened out in the future.
   - name: "Nabila Acra"
     rating: 5
-    date: "2026-05-16"
     comment: |
       I’ve had an amazing experience at Integrated Therapies. I highly recommend Dr. Yangyang Xu for acupuncture. She helped me with hormone regulation related to PCOS and improved my digestion. Her care has made such a noticeable difference for me!
       
@@ -44,17 +42,14 @@ reviews:
       Plus, Shannon at the front desk is soooo nice and helpful!!
   - name: "Miya Ferreira"
     rating: 5
-    date: "2026-04-09"
     comment: |
       I’ve had many deep tissue massages because of my line of work, WOW was my massage therapist May AMAZING. I haven’t felt this good in years. I will definitely be coming back!
   - name: "Mohit Rathod"
     rating: 5
-    date: "2025-10-23"
     comment: |
       My deep tissue massage was absolutely perfect. Thaiwan expertly targeted the tension in my shoulders and back. The room was so calm and relaxing, which put me completely at ease. I walked out feeling significantly looser and more relaxed. I will definitely be booking another session very soon with Thaiwan...
   - name: "Munish Kumar"
     rating: 5
-    date: "2026-02-19"
     comment: |
       I had an amazing experience with cupping therapy from Noemi. She is very professional, kind, and made me feel comfortable throughout the session. The treatment was very relaxing, and I could feel the tension in my muscles reducing right away. After the session, my body felt lighter and much more relaxed. She also explained the process clearly and made sure everything was safe and comfortable. I highly recommend Noemi to anyone looking for effective and professional cupping therapy. Thank you for such a wonderful experience!
 ---

@@ -33,14 +33,12 @@ active: true
 reviews:
   - name: "Chantelle"
     rating: 5
-    date: "2026-07-21"
     comment: |
       Had a lovely experience here with Tima! She didn't rush but still finished with sufficient timing, she made sure to check my nail health, and ensured that with every step of the process, I was happy with each part (the shape, length, ensuring the design was good, etc). She even offered a drink and some snacks at the beginning, which was lovely!
       
       The salon was also super cute and I loved how welcoming it felt. Everyone there was super friendly and overall, I had a great time with my visit. I do not live close, but I will make the drive to come back after a great first experience. :)
   - name: "Kelly Thompson"
     rating: 5
-    date: "2025-04-23"
     comment: |
       If you’re looking for exceptional service, a fun environment, and a convenient location, Kumi Nails is for you.
       
@@ -51,17 +49,14 @@ reviews:
       Always look forward to my time here. You will, too!
   - name: "Erin"
     rating: 5
-    date: "2026-07-01"
     comment: |
       Wow! This was my first time to this establishment and I had the pleasure of meeting Tima as my nail tech. Tima was super welcoming, friendly, and easy to talk to. Her work is also impeccable and she paid attention to every little detail during our appointment. This was a fantastic experience!
   - name: "sighhjess"
     rating: 5
-    date: "2020-03-17"
     comment: |
       I've been going to this salon for over a year now, and I've had an amazing experience every single time. I usually see Amy, but I've had appointments with Shay and Chantal as well. Amy is a fabulous artist and does the most amazing designs - she also so great to talk to! I once broke a nail due to getting it stuck in my oven door and Amy was able to fit me in the next day to fix it for me! This is hands down the best nail salon I've ever been to. All nails in photos are mine done by Amy.
   - name: "Avery Rachel"
     rating: 3
-    date: "2026-03-28"
     comment: |
       Mixed feelings
       

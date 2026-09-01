@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Liam Grant"
     rating: 5
-    date: "2026-07-14"
     comment: |
       Had such a great experience with Benchmark Mortgages! From start to finish, they made the whole first time home buying process feel easy and stress free. They were always helpful, quick to respond, and took the time to explain everything along the way.
       
@@ -39,7 +38,6 @@ reviews:
       Would highly recommend Benchmark Mortgages to anyone looking for a mortgage team that truly cares about their clients!
   - name: "Aleksandr Yakubenko"
     rating: 5
-    date: "2026-05-27"
     comment: |
       We had a great experience working with Hayley, Jackie, and the entire Benchmark Mortgage team during the purchase of our first home.
       
@@ -50,7 +48,6 @@ reviews:
       Thank you again for helping our family buy our first home in Canada!
   - name: "Julianna"
     rating: 5
-    date: "2026-07-02"
     comment: |
       The human element made all the difference throughout my mortgage process. Jackie was phenomenal—kind, attentive, patient, and always available to answer my questions and guide me every step of the way.
       
@@ -59,7 +56,6 @@ reviews:
       I can’t recommend Jackie, Hayley  and their team enough. Their professionalism, organization, and genuine care made this an outstanding experience.
   - name: "Anastasiya Giancola"
     rating: 5
-    date: "2026-05-29"
     comment: |
       After a few pretty frustrating experiences with mortgage brokers in the past, working with Hayley and Jackie was such a breath of fresh air.
       
@@ -70,7 +66,6 @@ reviews:
       If you’re looking for a mortgage broker who actually does what they say they’re going to do - Hayley and her team are it. Highly recommend.
   - name: "Chris Klok"
     rating: 5
-    date: "2026-05-21"
     comment: |
       Hayley, Jackie, and the entire Benchmark team are excellent and a pleasure to work with. They found me a great rate, are highly responsive, and clearly explain next steps. Overall, they made the entire mortgage application process straightforward and efficient. I am very grateful for their help. I would highly recommend using Benchmark.
 ---

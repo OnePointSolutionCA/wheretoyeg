@@ -30,12 +30,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Inclusive Life Solutions Team"
     rating: 5
-    date: "2026-04-25"
     comment: |
       The team at Rejuvaderm are so wonderful. I’ve been coming here for 3 years and it has been the same staff and th same great experience every time. I’ve done Botox with Kelsey, Dr. Wong and Cassidy. Also had Microneedling with Sandra and Christy before. You can trust any one of them and you’ll be a the best hands every visit.  You really feel cared for at this place and part of something. It’s hard to explain on a review, but go there and you will know what I mean. I’ve added some photos I’ve taken over the years.
   - name: "Leia Ornit Zaif"
     rating: 5
-    date: "2026-06-04"
     comment: |
       I’ve been coming here for a little over 3 years and have always had an amazing experience. Christie is wonderful to work with— makes me feel comfortable every single time, never rushes, and pays close attention to the little details.
       
@@ -46,12 +44,10 @@ reviews:
       The entire team is professional, welcoming, and dedicated to providing exceptional care. Highly recommend! ⭐⭐⭐⭐⭐
   - name: "Kaela McCoy"
     rating: 5
-    date: "2026-07-04"
     comment: |
       Nurse Ally A is amazing! She is so professional, kind, positive and makes you feel incredible while you’re there. She’s done numerous treatments on me and every time knocks it out of the park. She truly listens to what you want and knows just how to get you the best results. Love, love, love, nurse Ally!!
   - name: "Chris Anderson"
     rating: 5
-    date: "2026-06-10"
     comment: |
       I can’t say enough great things about Christie at RejuvaDERM. She is truly exceptional at what she does. From the moment you walk in, she makes you feel comfortable, informed, and completely taken care of.
       Christie is incredibly knowledgeable and takes the time to explain every treatment, tailoring everything to your specific skin concerns and goals. You can tell she genuinely cares about achieving the best results, not just performing a service.
@@ -59,7 +55,6 @@ reviews:
       If you’re considering any laser or aesthetic treatments, I highly recommend booking with Christie. She’s the kind of practitioner you trust long-term, and she consistently delivers.
   - name: "Gunel Abbasova"
     rating: 5
-    date: "2026-06-11"
     comment: |
       I had a wonderful experience at Rejuvaderm Glenora with Christie. She is incredibly kind, professional, and made me feel comfortable throughout the entire process.
       

@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Tamara Beaudry"
     rating: 5
-    date: "2026-07-11"
     comment: |
       From start to finish, my experience with Edmonton Law Office was absolutely outstanding!
       My first interaction was with Melonia, who took the time to answer all of my initial questions before I had even officially become a client. As a first time home buyer I had a lot of questions, and she was incredibly kind, patient, understanding, and quick to respond. She made me feel comfortable right from the beginning and quoted me a really great price for the costs associated with purchasing my new condo. There were no surprises, and I really appreciated how upfront and honest the entire process was.
@@ -40,7 +39,6 @@ reviews:
       I will be recommending Belal, Melonia, and everyone at Edmonton Law Office to all of my friends and family. Thank you for going above and beyond to make my first home purchase such a positive experience. I truly couldn't have asked for better representation!
   - name: "Kamy"
     rating: 5
-    date: "2026-07-20"
     comment: |
       Great experience working with Gurpreet and the team at Edmonton Law Office. Gurpreet was professional, knowledgeable, and always took the time to explain every step of the legal process clearly. Communication was prompt, and I always felt supported .
       
@@ -49,19 +47,16 @@ reviews:
       I highly recommend Gurpreet and Edmonton Law Office to anyone looking for reliable, honest, and dedicated legal representation. Thank you for your excellent service!
   - name: "rick rick"
     rating: 5
-    date: "2026-07-22"
     comment: |
       I had a fantastic experience with Atty. Jessette Apao for my estate planning. She was incredibly professional, knowledgeable, and took the time to explain every detail of my will clearly. Her guidance made a complex process feel seamless and reassuring. I highly recommend her services to anyone needing estate planning support.
   - name: "Sheryl Villarosa"
     rating: 5
-    date: "2026-06-13"
     comment: |
       I highly recommend Jessette Apao for her outstanding legal services. She assisted me and my family with our legal needs in a professional, knowledgeable, and efficient manner. Throughout the process, she was kind, friendly, accommodating, and always willing to answer my questions.
       
       Jessette made us feel comfortable and well-supported every step of the way. Her excellent communication, attention to detail, and genuine care for her clients made the entire experience smooth and stress-free. Thank you, Jessette, for your exceptional service.
   - name: "Anna Ramos"
     rating: 5
-    date: "2026-06-13"
     comment: |
       I am very grateful to Attorney Jessette Apao for helping me with the requirements for my mom's Permanent Residency (PR) application. She was knowledgeable, professional, and very patient throughout the process. She explained everything clearly and made sure all the documents and requirements were completed properly.
       

@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Tatyana Kadyrova"
     rating: 5
-    date: "2026-07-24"
     comment: |
       I recently started training at The Vault, and I couldn’t be happier with my experience. The gym is absolutely amazing! Everything is brand new, the equipment is top quality, and there’s a great variety of machines for every type of workout. The facility is clean, modern, and has an incredible atmosphere that keeps you motivated every time you walk in.
       
@@ -39,22 +38,18 @@ reviews:
       I highly recommend Vault to anyone looking for a high-quality gym with an inspiring environment and an excellent team. Definitely a 5-star experience!
   - name: "Sarah Parker"
     rating: 5
-    date: "2026-07-21"
     comment: |
       Beautiful gym!! So clean, vibes are amazing and everyone is so so kind!!!! 10/10 best gym I’ve been to in Edmonton! (Also love the cold essential oil towels lol)
   - name: "Isabella Glasel (isabella happy)"
     rating: 5
-    date: "2026-04-21"
     comment: |
       This gym is such an Inspiring place! The community and staff are really just so kind! I bumped into this worker, Madison and honestly had a lovely conversation with her! Honestly, the staff here and the community is lovely! The place is really Clean too! Great place would recommend
   - name: "yuliastal"
     rating: 5
-    date: "2026-08-07"
     comment: |
       Beautiful gym and best equipment in the city by far. Also Madie at the front desk is one of the sweetest humans I've ever met and makes my day whenever I come in! 10/10
   - name: "Ryan Short"
     rating: 5
-    date: "2026-05-25"
     comment: |
       Great spot! Everyone from staff to members are so nice and helpful. The vault really built a nice community of people who come in to work/ workout that just want to see everyone succeed. Saw others asking each other about how their contest and competitions went. Just a get overall atmosphere to be in.
 ---

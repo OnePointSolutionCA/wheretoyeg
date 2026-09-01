@@ -30,12 +30,10 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Wyatt Thiessen"
     rating: 5
-    date: "2026-07-23"
     comment: |
       Been here twice now and both experiences have been top notch. Both times I have gotten my hair cut by a "new talent" barber, first by Maddison and the 2nd time by Zac, and in both experience they were very friendly, easy to talk to and clearly well trained/practiced and I have been very happy with my haircut both times. I have longer hair and wasn't interested in a fade cut, and they handled it perfectly.
   - name: "Alinka Bortnyk"
     rating: 2
-    date: "2026-02-15"
     comment: |
       We recently visited this hair salon to get haircuts for my two sons (6 and 5 years old), and unfortunately, our experience was very disappointing.
       
@@ -53,12 +51,10 @@ reviews:
       I hope the salon takes this feedback seriously and improves the quality of their work.
   - name: "Don & Cris Myhre"
     rating: 5
-    date: "2026-08-01"
     comment: |
       Just happened upon Parlour Barba in Highstreet and was in bad need of a cut. Booking online was super easy - even for this old man and the atmosphere, bar service and barber talent was top notch. Isobel was awesome and knows what she is doing. Highly recommended!
   - name: "Stephen Carrigan"
     rating: 5
-    date: "2026-03-15"
     comment: |
       So i have traveled far and wide for the right haircut / fade during my life so I hope this carries some weight for someone sincerely looking for quality service.
       
@@ -73,7 +69,6 @@ reviews:
       Thanks for reading 📚
   - name: "Alisa Zilbershtein"
     rating: 5
-    date: "2026-05-05"
     comment: |
       I come to Parlour Barba for about 2 years now and I absolutely love it. Connor is always doing an amazing job. He is very attentive to my needs, professional and I totally trust his skills. I am very happy each time I leave and would confidently recommend his service to anyone. Thank you, Connor!
 ---

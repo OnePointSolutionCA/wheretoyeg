@@ -33,12 +33,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "arrianne daryl Querubin"
     rating: 5
-    date: "2026-04-27"
     comment: |
       Five stars! This place is incredibly authentic. Having lived in the Middle East for nearly 11 years, we have high standards for this cuisine, and this restaurant absolutely delivered. The flavors took us right back. We love the food and the atmosphere—highly recommend!
   - name: "Ola Koussa"
     rating: 5
-    date: "2026-02-02"
     comment: |
       Loved this place. Cozy and comfortable.
       No one can make rice better than Yemenis mashallah.
@@ -47,7 +45,6 @@ reviews:
       Very recommended!
   - name: "Mridul Krishnan"
     rating: 5
-    date: "2026-04-27"
     comment: |
       Tried this Yemeni restaurant for the first time and had a great dine-in experience. The service was friendly and attentive, and the overall ambience was really nice and comfortable.
       
@@ -56,12 +53,10 @@ reviews:
       Overall, a solid spot if you’re looking to try Yemeni cuisine. Would definitely come back!
   - name: "Hiba Dakouri"
     rating: 5
-    date: "2026-01-28"
     comment: |
       I absolutely loved it! The food is incredibly delicious, and the prices are very fair compared to other restaurants. Honestly, it’s one of the cheapest and tastiest places I’ve tried. The portions are huge—I was completely stuffed, and we didn’t even finish the meal
   - name: "Lillia"
     rating: 5
-    date: "2026-03-13"
     comment: |
       My friends and I had a wonderful experience at the restaurant. The service was friendly and helpful. We got so much food for what we paid for so it was definitely great value. Food was very delicious and well made.
 ---

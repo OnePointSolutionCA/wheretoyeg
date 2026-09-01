@@ -30,29 +30,24 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Khaibar Rahemi"
     rating: 5
-    date: "2026-04-11"
     comment: |
       Roma bubble tea and waffles are really good
       and i will definitely come back.
   - name: "Amanullah Abbasi"
     rating: 5
-    date: "2026-07-26"
     comment: |
       best quality bubble tea great customer service
       Very friendly,
   - name: "Brad Armstrong"
     rating: 5
-    date: "2026-07-23"
     comment: |
       Food was delicious and the serving was more than enough. The prices are very good, I would recommend checking this place out.
   - name: "Ricky Sommerfeld"
     rating: 5
-    date: "2026-07-24"
     comment: |
       Best place for dirty soda’s in town!
   - name: "tahera yonusi"
     rating: 5
-    date: "2026-06-23"
     comment: |
       One of the best in town !
 ---

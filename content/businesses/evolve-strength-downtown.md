@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Conan Ma"
     rating: 5
-    date: "2026-05-15"
     comment: |
       Facility has a wide variety of equipment suitable for advanced powerlifters, Olympic lifters, or anyone just starting on their fitness journey.
       
@@ -43,7 +42,6 @@ reviews:
       Although I don't use them, the facility also had several personal trainers, physio clinic, barber, and other services.
   - name: "Ayden Schroh"
     rating: 5
-    date: "2026-02-26"
     comment: |
       I have been a member at Evolve totaling 5+ years. I value evolve highly as a "third space" outside of home and work - it has a great atmosphere, great people, and is somewhere I look forward to spending time.
       
@@ -52,17 +50,14 @@ reviews:
       The staff and trainers are friendly, kind, and considerate which always helps to get a session started off on the right track - shoutout to Nora for always making sure I have what I need, as well as the other staff at the front!
   - name: "Lianna Wanjiru Ngara"
     rating: 5
-    date: "2026-08-04"
     comment: |
       I have been a member of this gym for 2 months now and I can wholeheartedly say it’s my favorite gym that I’ve ever been to. The community is so welcoming and everyone is super super nice! The equipment is also amazing, I would definitely recommend!! 10/10
   - name: "jordan quiring"
     rating: 5
-    date: "2026-05-08"
     comment: |
       Evolve Strength has been a great find. The equipment is top-notch and well-maintained, the space doesn't feel overcrowded, and the atmosphere is serious without being intimidating. If you're someone who takes their training seriously and want a gym that matches that energy, this is it. Highly recommend.
   - name: "Mehsheed Ahmed"
     rating: 5
-    date: "2026-07-24"
     comment: |
       Really like Evolve Downtown. Emily was great, super friendly and helpful whenever I had questions. The gym has a good variety of equipment, nice amenities, and everything is well maintained. Overall, I’ve had a really good experience here and would definitely recommend it
 ---

@@ -30,24 +30,20 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Kyle Swystun"
     rating: 5
-    date: "2026-07-22"
     comment: |
       We worked with Sara and Ferdinand for over a year in our search for the perfect home, and we couldn't be happier with the experience. They were always available, incredibly responsive, and consistently provided sound advice throughout the entire process. Their market knowledge, negotiation skills, and strategic guidance saved us tens of thousands of dollars. It was a long journey, but thanks to their kindness, patience, professionalism, and dedication, we found that perfect home. We highly recommend Sara and Ferdinand to anyone looking for exceptional real estate agents.
   - name: "Kim Bandeen"
     rating: 5
-    date: "2026-01-01"
     comment: |
       We had an absolutely incredible experience working with Sara during our move from Ontario to Edmonton. From start to finish, she went above and beyond—not only helping us find our dream home, but also guiding us through every step of the process, including inspections, closing, and all the details that can feel overwhelming with a long-distance move.
       Sara has an exceptional eye for detail and is refreshingly honest, which made us trust her completely. She quickly understood us as buyers—our needs, wants, and non-negotiables—and never wasted our time showing us homes that didn’t truly align with what we were looking for. That level of care and understanding made the entire experience smooth and stress-free.
       We truly couldn’t recommend Sara enough. She is professional, knowledgeable, and genuinely invested in her clients. We look forward to working with her again in the future and would recommend her without hesitation to anyone buying or selling a home.
   - name: "Mathew DeGraaf"
     rating: 5
-    date: "2026-07-30"
     comment: |
       I’ve had the pleasure of working with Sara and Ferdinand on 2 occasions now. They were some of the first people I met when I moved to Edmonton 4 years ago. They made a great impression and supported me with the purchase of my first home at that time- a fantastic experience! Years later, circumstances of life happened and they supported with the sale of that same home. Their knowledge, expertise and action helped  yet again. With 4 offers and an acceptance much over asking within 2 days, they made another big life moment a lot easier. I’m very greatful for their supports, and I would highly recommend them to anyone for any of your real estate needs!
   - name: "J Brown"
     rating: 5
-    date: "2026-05-02"
     comment: |
       I have recently closed a sale with Sara and the experience could not have gone any smoother.
       I was completely absent from the Edmonton area from start to finish leaving everything associated with the sale in Sara’s trusted hands.
@@ -57,7 +53,6 @@ reviews:
       Jim
   - name: "Tony Higgins"
     rating: 5
-    date: "2026-04-03"
     comment: |
       Sara & Ferdinand were excellent to work with.  Patient and accomodating while we narrowed down the search - and kept changing our minds along the way.  They provided expert and practical guidance and tips throughout the process, until we ultimately landed in a home we love in a location that's perfect for us.  I highly recommend their services and we intend to work with them again should we ever move.
 ---

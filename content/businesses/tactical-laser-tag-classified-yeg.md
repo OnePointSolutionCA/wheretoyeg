@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Jana Karaja"
     rating: 5
-    date: "2026-07-04"
     comment: |
       ⭐⭐⭐⭐⭐
       
@@ -39,22 +38,18 @@ reviews:
       You can really tell they care about the guests and love what they do. They made our experience unforgettable, and we’ll definitely be coming back. Thank you, Christina, Lisa, and Acacia, for being so awesome!
   - name: "Chesca D"
     rating: 5
-    date: "2026-07-28"
     comment: |
       we always go here since last year. the people are so amazing and they take care of everyone especially the beginners. ryder, christina, and acacia helped us today. Lisa is also the best manager ever!! see you every month:D
   - name: "Reagan Ochoco"
     rating: 5
-    date: "2026-03-15"
     comment: |
       This place deserves 5 stars. Amazing staff you got there, they brought with a good attitude. The vibe was so immaculate and so awesome. Its a good place to book a session with group of friends, if you want to play IRL with laser hyper realistic looking guns. But overall, i can’t say much of expression, this is the best review I can give.
   - name: "vinay gupta"
     rating: 5
-    date: "2026-07-21"
     comment: |
       Had a fantastic time at Classified! The setup and arena layout are awesome, making for a super fun experience. A huge shoutout to our group leader, Sam—they were amazing, super enthusiastic, and really knowledgeable. Sam made the whole session so much fun. Highly recommend!
   - name: "Oliver McCoy"
     rating: 5
-    date: "2026-06-23"
     comment: |
       even was very great and helped our team a lot I meant to put five star, but I accidentally pressed one star it was the best laser tag experience of my entire life Eben was the best person I’ve ever met. Service was amazing and I really enjoyed it and it was really great and I had a lot of fun, but the gun was kind of heavy, but it was still really good. i WILL be coming back
 ---

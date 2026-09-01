@@ -33,29 +33,24 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Chris Quinn"
     rating: 3
-    date: "2026-05-17"
     comment: |
       I gave this place a try because the reviews were good and they open early on Sundays. The staff were nice but they couldn't make an ice coffee but had iced lattes on the menu. I will never get that one. I got my wife and Americano and she said it was average.
       
       Other reviews mentioned the donuts. They only had plain, literally just the donut with no glaze or anything. Just plain dough, so I didn't try one.
   - name: "Nigel Hopkinson"
     rating: 4
-    date: "2025-09-24"
     comment: |
       Had the Fata and an OJ for breakfast. Portions are very good and the food and service as well. A bit disappointed with value though. The Fata was $17 and is seasoned chunks of bread with a little tomato, onion and hot pepper chopped on top. Thought it was pricey for what you get, $17 for seasoned bread chunks, but a nice experience with the food and service. I will return again to try other dishes.
   - name: "Russ Bennett"
     rating: 5
-    date: "2025-07-12"
     comment: |
       Very friendly and non-intrusive staff. Delicious food, but I had to wait 40 minutes for my meal. I recommend the scrambled eggs with tuna - it was great.
   - name: "Sarah F"
     rating: 5
-    date: "2024-02-11"
     comment: |
       I had an amazing breakfast here, so glad I decided to pop in! I just got the atlas breakfast and a dirty chai. The eggs were delicious, still runny but had a crispy bottom and lots of flavour. I got so much fresh delicious bread!! The service was great and the space is so sweet and cozy. The chai latte was so amazing, I will have to come back for that especially!!  I forgot to snap a photo of my food before my first bite :D
   - name: "Jolie and Troy Camps-Pombert"
     rating: 5
-    date: "2024-01-24"
     comment: |
       The food was delicious, and the server was a joy, explaining the different menu options and teaching us how to eat the dishes we chose to try. The Chai tea latte was one of the best I've ever had- I ordered one to go after our meal. Nice hidden gem, even the smell of the spices entering the intimate dining room was welcoming- we will be back!
 ---

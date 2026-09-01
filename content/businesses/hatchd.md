@@ -32,17 +32,14 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Henry Du"
     rating: 4
-    date: "2026-08-10"
     comment: |
       The sandwiches here are fantastic especially if you're a fan of eggs.  The waffle fries are also quite tasty.  If there is a caveat is that it's not cheap.  A family of 3 will set you back nearly $50 for 3 sandwiches, drinks, and some fries.  Parking can also be a challenge given the area.
   - name: "Jehdi Aizon"
     rating: 5
-    date: "2026-05-31"
     comment: |
       Very clean, great for a quick bite or to stay a bit work and study. There's only one outlet by the tall tables. The quality of the food was great it tasted great and service was amazing and friendly. It's a nice quiet space near health science to stop by.
   - name: "Swapnil"
     rating: 4
-    date: "2026-01-11"
     comment: |
       New place close to U of A and Hospital. Fairly standard fast food type decor. Service was quick and professional.
       
@@ -51,7 +48,6 @@ reviews:
       Surely worth visiting for a quick bite !
   - name: "wendy yu"
     rating: 3
-    date: "2026-03-02"
     comment: |
       Hatch’d is conveniently located near the UofA campus and has a cozy atmosphere with comfortable seating. We ordered the Bacon Sando and the Bac’n Me Crazy Poutine — the sandwich was flavourful and satisfying, but I probably wouldn’t order the poutine again. The portions were also small for the price.
       
@@ -60,7 +56,6 @@ reviews:
       Overall, I still enjoyed my meal and would return if I were in the area.
   - name: "Daniel Tran"
     rating: 4
-    date: "2026-05-21"
     comment: |
       Visit: April 2026
       

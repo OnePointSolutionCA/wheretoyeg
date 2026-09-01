@@ -32,27 +32,22 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Phat Boy"
     rating: 3
-    date: "2026-03-25"
     comment: |
       Based off Instagram posts, I was super excited to try this joint out! Unfortunately, I really felt it was average at best. The service was excellent and the joint is clean, bright and inviting! I didn’t have much time for lunch and decided to just grab a sandwich, shake and a doughnut. There was only 1 person ahead of me and it still took almost 20 min to get my order. I figured the wait was because everything must be fresh to order, but the chicken was warm and dry. The bun was awesome, but the Gochujang was too sweet and the amount used overwhelmed the entire sandwich….couldn’t taste anything but sauce. The sandwich was only $10, but the chicken strips were very small. The twisted doughnut was very dry too. The shake was great and I will probably come back in a few weeks to try other menu items when they find their groove. I’ll update the review when I’ve tried their other options.
   - name: "Tyrone Herbert Cole"
     rating: 5
-    date: "2026-07-08"
     comment: |
       Saw this place driving to work.  Nice little surprise.  The chicken tenders were on special and the fries are crisp and tasty.  And plastic straws.  Great place for a quick, inexpensive and tasty bite.
   - name: "Len M Lagman"
     rating: 5
-    date: "2026-04-26"
     comment: |
       We tried a new Crispy fried chicken & fries in the city. It was tasty. We had large tenders with a sweet and spicy sauce (korean flavor) and we both liked. We will come back for the chicken leg. The cashier was very welcoming. Thanks for the free corn. It's worth the wait.
   - name: "jackson wong"
     rating: 4
-    date: "2026-07-04"
     comment: |
       Reasonably priced and generous portion of heaping fries / onion rings . Love my dirty soda beverage
   - name: "Claire Anne San Pedro"
     rating: 5
-    date: "2026-05-06"
     comment: |
       It was my first time ordering from BonChon through UberEats.
       

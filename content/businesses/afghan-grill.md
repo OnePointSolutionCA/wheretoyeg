@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "arif mohammady"
     rating: 1
-    date: "2026-07-04"
     comment: |
       I was very disappointed with this restaurant. The prices are very high, but the food quality does not match the cost.
       The Afghan hamburger was mostly potatoes inside a bun, with almost no meat, and it cost about $9. The ayran was also overpriced at around $4.50.
@@ -41,22 +40,18 @@ reviews:
       I don’t recommend this restaurant. In my opinion, it is not worth the money. Save your money and choose another place.
   - name: "Maricris R."
     rating: 5
-    date: "2026-07-03"
     comment: |
       I ordered the lamb. It was delicious. I love the green sauce it complemented everything. The service was friendly. I will definitely come back again.
   - name: "Eckybloke"
     rating: 5
-    date: "2026-07-18"
     comment: |
       We had the simple lamb kebab and the beef kebab. Really really tasty and the green sauce that came with it was delicious. Potentially my go to place in WEM
   - name: "Alex Yeoh"
     rating: 5
-    date: "2026-07-05"
     comment: |
       I ordered the lamb and okra with plain rice and it was very delicious. Highly recommended. This is the first time I've tried Afghan food and I really like it. The lamb sauce is very meaty flavoured and the okra sauce is also very tasty but I don't know how they made it. Lovers of Asian food will love this food as it is easy to transition to. A++
   - name: "Noor Rezai"
     rating: 4
-    date: "2026-07-09"
     comment: |
       The food tasted good overall, and the service was enjoyable. However, I felt the prices were a bit high for the portion sizes. The Kabuli Palau was flavorful, but it was slightly too oily. Overall, a decent experience, with some room for improvement.
 ---

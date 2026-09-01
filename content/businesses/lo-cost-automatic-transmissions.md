@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Advance Courier"
     rating: 5
-    date: "2026-03-04"
     comment: |
       If you’re looking for honest transmission repair in Edmonton, I highly recommend Lo-Cost Transmission at 7124 82 Avenue NW.
       
@@ -45,23 +44,19 @@ reviews:
       Highly recommend.
   - name: "Dustin Banks"
     rating: 5
-    date: "2026-04-28"
     comment: |
       Possibly the most instantly trustworthy crew I have ever had the pleasure to deal with and the only time I've left a repair shop worried that I hadn't paid *enough*. Great communication, honest rates. I can't recommend them enough.
   - name: "art wilson"
     rating: 5
-    date: "2026-05-16"
     comment: |
       Took my hot rod to Jason and crew for a transmission service. They did their inspections and suggested NOT to change the transmission oil, because it was not required. NO upselling here folks, very refreshing!!!
   - name: "Andre Lacroix"
     rating: 5
-    date: "2026-02-24"
     comment: |
       I have a 2013 GMC Sierra, the transmission was slipping when shifting, Jason and his crew diagnosed the problem and repaired it. They did a great job, these guys are real pros. I recommend this shop if you’re having problems with your transmissions
       Thanks
   - name: "Levi Caswell-Everts"
     rating: 5
-    date: "2025-11-01"
     comment: |
       Had my transmission rebuilt in my truck last year by a different shop and experienced nothing but problems since, and it took them three weeks to get my vehicle back ontop of it all. Brought my truck in to Jason at LoCost on recommendation from a coworker and could not be more pleased. Jason was very communicative and efficient, and had found that the previous shop performed a faulty repair on my vehicle. He fixed everything up for me and gave me a break in price because of my situation. Got my truck back and it drives better than it ever has! Very honest shop with fair pricing.
 ---

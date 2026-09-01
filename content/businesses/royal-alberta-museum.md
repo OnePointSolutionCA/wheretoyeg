@@ -31,7 +31,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Jaya Chauhan"
     rating: 5
-    date: "2026-06-08"
     comment: |
       I visited the Royal Alberta Museum today after someone on the bus mentioned it was Seniors Week — the last day for free entry. I’m glad I went, though the experience stirred mixed feelings.
       I knew the previous RAM well through my work with Dreamspeakers, and I was once invited to observe the Indigenous artifacts held in their collection (1992). That older space carried a sense of intimacy, community, and lived history that hasn’t fully transferred to the new building.
@@ -40,7 +39,6 @@ reviews:
       A worthwhile visit, especially if you haven’t seen the new location, but those who knew the old RAM will feel the shift.
   - name: "Royal"
     rating: 4
-    date: "2026-06-26"
     comment: |
       We spent a few hours at the museum before it closed. The first floor of the museum leads you to the history of Alberta. Although this museum exhibit and artifacts are nicely displayed and seems to be of significance, the museum flow was haphazard and didn’t guide you towards a narrative or chronology, which is kind of jarring. The descriptions throughout the museum themselves don’t really dive deep and maybe seems more like it’s geared towards school-age children. Had I just seen this part of the museum, I would’ve disliked the museum overall.
       
@@ -53,12 +51,10 @@ reviews:
       I also like the Francophone exhibit, especially the audio exhibit. Overall, I enjoyed the majority of the exhibits and thought the museum was worth visiting.
   - name: "Colin Nilsen"
     rating: 5
-    date: "2026-07-08"
     comment: |
       You have to see this amazing museum when in Edmonton.  We were fortunate enough that our hotel was just a 5 minute walk away.  The natural history floor is absolutely stunning, so be prepared to be totally amazed.  The displays are magnificent so make certain you allow plenty of time to take it all in.  This is definitely NOT just another museum.  It would be the best we have ever experienced in many countries we have visited.  Put it on your "to-do" list when you visit Edmonton.
   - name: "Melissa St-Jacques"
     rating: 4
-    date: "2026-06-30"
     comment: |
       Took my husband's Dad here for Father's Day.  We thoroughly enjoyed it and learned some new things along the way!
       
@@ -67,7 +63,6 @@ reviews:
       Other than that, it was a great way to spend the day!
   - name: "Renee C"
     rating: 4
-    date: "2026-03-30"
     comment: |
       Spent the morning at the museum. The feature gallery was the best exhibit. I attended during Death, Life's Greatest Mystery and it was very well done!
       Overall, the museum felt small. I have been to the Royal Ontario Museum and I could spend all day there. The RAM however, I was in and out in 1.5hrs, while stopping to read most things.

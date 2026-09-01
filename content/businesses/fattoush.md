@@ -32,27 +32,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "d t"
     rating: 5
-    date: "2026-05-23"
     comment: |
       Amazingly comforting fresh food packed full of flavor. Good price point for generous portion sizes. I ordered the mixed veggie platter and my friend had the falafel platter. My favorite part of the meal was the mujaddara.🤌😙💯 There was no room for dessert but I will definitely be returning soon to try out other savory and sweet items on the menu. If you haven't eaten here before, give it a try. You won't regret it!
   - name: "Tristan S. Harrison"
     rating: 5
-    date: "2026-07-14"
     comment: |
       The food here is so delicious with great prices for the serving sizes! It's presented elegantly and made for a satisfying lunch. I've always been drawn to the colouful baklava on display and I'm glad I finally stopped in for lunch. The woman behind the counter is so pleasant. I highly recommed Fattoush.
   - name: "Pj Aguda"
     rating: 5
-    date: "2026-04-15"
     comment: |
       The food was great, me and my cousin we're looking for the most authentic shawarma in Edmonton ... especially my cousin who worked before in Middle East tried those authentic style shawarma..... It brings back memories to him , great balance of savory taste in every bite... and the garlic dip was so good.... and Rhonda( I hope I spelled it correctly)  also gave some free taste of dates dessert which was also good as well. It was a very good meal. We're not even from Edmonton area, driving straight from Wetaskiwin just to find a good authentic Shawarma.  I ll surely comeback again
   - name: "Clarissa R"
     rating: 5
-    date: "2026-04-10"
     comment: |
       I have been curious about this place and decided to call for a pick up order as I had a couple questions, the wonderful woman who answered was so kind! I ordered a shawarma platter for pickup to try with my husband, upon entering the aroma smelt amazing in there and walking into all the baked goods I looked and spotted they also sell meat pies(my fav) I added one to my order which she gave me two and told us to enjoy. That was so friendly! We were already sold! When we got home i opened the container it smelled amazing the portions were perfect to share and everything tasted fresh and amazing from the salad to the rice to the meat potato’s and sauces! Sucha outstanding meal def our new favourite! Can’t wait to try more of the pies, wraps and different platters and baked goods! Also it was a beautiful clean store front and everything looked organized!
   - name: "Lucas T"
     rating: 5
-    date: "2026-05-04"
     comment: |
       We held a birthday party at Fattoush and Sam and Randa were extremely accommodating especially considering they don’t normally open on Sunday at this time of year. They were attentive, friendly, and served us with great care. They let us bring in cake and use their fridge to store it.
       

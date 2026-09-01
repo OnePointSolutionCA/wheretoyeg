@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Gisurere Hima"
     rating: 5
-    date: "2026-04-19"
     comment: |
       I recently had to visit Azarko Family Dental for an emergency, and I was incredibly impressed by the level of care I received. It is a huge advantage that they operate seven days a week, making weekend care accessible when you need it most. From the moment I walked in, the front staff was professional and friendly, taking the time to answer all of our questions and making the direct billing process seamless.
       
@@ -39,12 +38,10 @@ reviews:
       The hygienist also took the time to clearly explain post-op care, including what to do, what to avoid, and the proper way to take my medications. Their professional and thorough approach has me seriously considering transferring my permanent files to this clinic. I would highly recommend them to anyone looking for a team that truly prioritizes patient comfort and clear communication.
   - name: "Terrance Laboucan"
     rating: 1
-    date: "2026-06-05"
     comment: |
       I called in because I told them I’m gonna be half hour late, they said to me I have missed to many of my appointments already. Those days are not actually what I missed, I moved those days to another date. I can say the date and time this happened but I won’t, she sounded rude. I told her I was sorry. She still sounded rude. I called in 2 days before my appointment is scheduled and I always asked them before is it okay if I move my appointment to another date. They say to me yeah sure! not a problem what date would you like to move it. But this one here she sounded like someone that you can’t not get along with. You can tell which one it would be cause she would be and sound rude to you. It’s her way or the highway as they say.
   - name: "Rebecca Brassor"
     rating: 5
-    date: "2026-01-16"
     comment: |
       I must start off by saying that I have a very high pain tolerance... I had scheduled my appointment 2 weeks prior and for starters on the phone they are just as amazing as they are in real life. Anyways I ended up coming in a day early in massive distress because my tooth had been broken in half and the pain was excruciating... I ended up calling and pleading to come in a day before my appointment and thank God they had time.
       
@@ -53,7 +50,6 @@ reviews:
       Highly recommend this dentistry and the team there. They were so patient with me and making the process as comfortable as they could.
   - name: "Mike Janosi"
     rating: 5
-    date: "2025-10-25"
     comment: |
       I am a long distance truck driver that does multiple deliveries across Canada from Ontario to British Columbia.
       I broke my tooth in Saskatoon Saskatchewan and arranged an appointment the following Sunday so it corresponded to my route back East.
@@ -66,7 +62,6 @@ reviews:
       NOTE: The parking lot is tiny so if you are driving a big rig like me, do NOT bring the trailer.  Bobtail os OK but tight at certain times
   - name: "Wall Spaceplan"
     rating: 5
-    date: "2025-04-03"
     comment: |
       I had my tooth extraction today . Tania ,dentist assistant, was so great and Dr. Amit did great job without any pain. I love the way they look after thier clients. Very nice facility with lots of Dr. around. Easy to make an appointment when emergency.  Thanks Tania , again for your kindness
 ---

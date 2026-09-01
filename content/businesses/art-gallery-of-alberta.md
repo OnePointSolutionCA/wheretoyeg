@@ -31,29 +31,24 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Tanya James"
     rating: 5
-    date: "2026-05-03"
     comment: |
       I visited here today...several exhibits...absolutely worth it.  Go for the John Hill exhibit...and Tammy Salzl...my favorites.  John Hill...witty, funny, thought provoking.  The building itself is architecturally worth seeing.  The exhibits are smaller and only takes an hour.  If your downtown Edmonton and like the arts...go.
   - name: "Katie Hoang"
     rating: 5
-    date: "2026-07-21"
     comment: |
       I came here on a Sunday, so there was a food festival with a free live band. The atmosphere was lively, vibrant, and a lot of fun. 🤩
   - name: "Laura Maroon"
     rating: 5
-    date: "2026-07-10"
     comment: |
       Excellent. Picasso collection is excellent. Building beautiful and current exhibitions lovely.
   - name: "Ksenia Koetilova"
     rating: 4
-    date: "2025-05-06"
     comment: |
       It is a great Modern Art gallery and it has definitely an impressive architectural design of the building. The variety of the pieces and themes is interesting and intriguing.
       The total amount of exposition halls inside was a bit smaller than expected and the total visit including buying the tickets and the lovely gift shop with local crafts took about two hours.
       Definitely a good visit if you love to combine a few activities in one day, but for me it was a bit too short.
   - name: "Desmond Eng"
     rating: 4
-    date: "2026-06-21"
     comment: |
       It's an okay museum, kind of underwhelming and not very thought provoking in my opinion, there was an exhibition on sports and then wallpaper. This museum could use a better curator to really give it a more immersive experience. The giant sports cup was pretty cool, and I'm not talking about the Stanley Cup. This might be Stanley's cup though 😅.
 ---

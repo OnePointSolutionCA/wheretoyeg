@@ -30,12 +30,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Jane Dadson"
     rating: 5
-    date: "2026-06-24"
     comment: |
       Awesome place to have my car worked on.  Mike and crew are exceptional, professional and put the needs of the customer first above all else.  Definitely the best place to have my car repaired and I will never go anywhere else.  Thank you Dot for all you do!  Bless you! :)
   - name: "Shannon Iannone"
     rating: 5
-    date: "2025-11-04"
     comment: |
       My transmission went on my 2006 duramax while I was traveling home, and I chose DOT Transmission, they were only 1.5 kms away luckily! I’m from Grande Prairie, 480 km away from home, and they went above and beyond to help me out. They towed my truck to their shop, helped me store my trailer, and even let me ship some of my own parts for the repair.
       
@@ -44,7 +42,6 @@ reviews:
       Everyone there was friendly, professional, and genuinely caring — they never made me feel like a burden, even though I was stranded far from home. I’m so grateful for their honesty and help. I’d highly recommend DOT Transmission to anyone needing transmission work or a trustworthy mechanic in Edmonton!
   - name: "Nelson - MSO"
     rating: 5
-    date: "2025-08-02"
     comment: |
       I had a great experience with Dot Transmissions. Boris and his team were professional, honest, and efficient from start to finish. They quickly diagnosed the issue with my vehicle, explained everything in a clear and respectful way, and gave a fair quote with no hidden costs.
       
@@ -53,7 +50,6 @@ reviews:
       If you're looking for trustworthy transmission experts, I highly recommend Boris and his team at Dot Transmissions. Five stars well deserved!
   - name: "Grace Spa"
     rating: 5
-    date: "2025-08-02"
     comment: |
       Dot Transmissions delivered exactly what every car owner hopes for — honest advice, fair pricing, and excellent workmanship. I came in thinking the issue might be serious, but they did a full check and only recommended what was truly needed.
       
@@ -62,7 +58,6 @@ reviews:
       I really appreciate businesses like this that put the customer first. Highly recommended if you're looking for reliable transmission service!
   - name: "Sean Lucas"
     rating: 2
-    date: "2025-12-21"
     comment: |
       I have a 2011 Mazda3 which had very serious damage to the transmission last year in December. I spent $4000 to get it repaired and I learn that Dots Transmission does not even give a 1 year warranty for repairs. This year in November of 2025, which is within one year there was a transmission fluid leak and they still charged me $400 for repairs. I will never take my used car to be repaired here because to not even provide a 1 year warranty for their work is terrible.
 ---

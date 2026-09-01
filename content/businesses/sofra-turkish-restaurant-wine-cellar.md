@@ -33,7 +33,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "John Kroetch"
     rating: 4
-    date: "2025-12-31"
     comment: |
       This was a nice change of pace. We made reservations here for before our hockey game. Table for 2 - it was a really cold night so we asked to not be seated by the window. We were told that all the tables were booked but they found another table for is anyway.
       
@@ -46,17 +45,14 @@ reviews:
       It was an enjoyable experience. For the price I don’t think I’d be back though.
   - name: "Connie Thompson"
     rating: 5
-    date: "2026-03-27"
     comment: |
       Our first visit during dining week and we absolutely loved it. The quaint decor caught me immediately as we sat upstairs. Loved the quiet. Our server, sorry I forgot her name was amazing and so fun. Then there was the food. The pitas and dips were incredible, the duck was great and the baclava and Turkish coffee rounded out our evening perfectly.
   - name: "Andy L"
     rating: 4
-    date: "2025-12-31"
     comment: |
       I stopped by Sofra in Edmonton recently and tried their Sultan’s Sofrasi for two. The pita bread was the biggest highlight. Both the dessert and the meat were quite good—the dessert for its crispiness and flavour, and the meat for the portion size and how well it was cooked. That said, the meat still tasted different compared to similar dishes I’ve had in Europe. The hummus was a bit too sour and not as thick as I prefer. Overall, I’d give it 8/10.
   - name: "Henry Fung"
     rating: 5
-    date: "2025-10-13"
     comment: |
       Amazing flavours and good!!
       You will feel the taste of the fire and heat used to cook and grill the food. The flavours are beyond what you would want at any grill. Everything was so juicy and flavourful and the Bulgur wheat pilaf is full of depth and comfort in each bite. What a feast.
@@ -64,7 +60,6 @@ reviews:
       We ordered The Sultan’s sofrani for two of us and highly recommend it. You’ll have leftovers for at least another meal. The Pide was also incredible. Bread there is a MUST.
   - name: "Sans Sanz"
     rating: 3
-    date: "2025-08-04"
     comment: |
       This place was my favourite Turkish place to go to in the past. The food was always cooked to perfection, however this time it was not like
       The previous times. The owner is no longer there and the food is not cooked as it was in the past.

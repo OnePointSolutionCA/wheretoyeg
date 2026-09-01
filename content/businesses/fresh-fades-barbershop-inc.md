@@ -29,7 +29,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Carrie stoddart"
     rating: 1
-    date: "2026-06-25"
     comment: |
       I drove to this place on a Wednesday afternoon. When I walked in there was a gentleman sprawled on one of the couches, on his phone, vape in hand. I wasn't sure if he was one of the barbers or not since he didn't really greet me. He Just kind of mumbled a hello.
       I asked if I could get a fade for my undercut and he said he didn't do fades and there was no one there today that could do a fade.
@@ -44,23 +43,19 @@ reviews:
       The barbershop down the street that did a wonderful fade on my hair, also laughed with me at your expense.
   - name: "Jaime Gomez"
     rating: 1
-    date: "2026-06-14"
     comment: |
       If you want a fade haircut… don’t go there. I was there in a Saturday and the place was empty, I shouldn’t have entered. They don’t know how to make a proper fade. I had to go somewhere else so they could fix my hair.
   - name: "M-Nazem Alnassr"
     rating: 5
-    date: "2025-10-08"
     comment: |
       Mike is the perfect barber!
       I’ve been to many barbers, but none compare to Mike’s professionalism, skill, and attention to detail. He takes the time to understand exactly what you want and always delivers a flawless cut every single time. The fade is always sharp, the styling is on point, and he makes sure you leave looking your absolute best. On top of that, he’s friendly, punctual, and keeps his station clean and welcoming. If you’re looking for someone who truly cares about his craft, Mike is the one. Highly recommended! 💈✂️
   - name: "Maram Hobi"
     rating: 5
-    date: "2026-06-24"
     comment: |
       Best Berber he did the best skin fade and Beard highly recommend it 10 / 10
   - name: "cassandra N"
     rating: 5
-    date: "2025-08-26"
     comment: |
       This guy does the best fades and hair cuts! I always take my son here and they do a perfect job everytime. I highly recommend going here if you need a good barber! You will not be disappointed! 5 Stars!
 ---

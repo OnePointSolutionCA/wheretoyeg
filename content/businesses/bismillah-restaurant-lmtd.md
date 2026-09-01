@@ -33,7 +33,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "AZAAD AAA"
     rating: 4
-    date: "2026-06-09"
     comment: |
       We visited this Somali halal restaurant for lunch and had a great experience. The atmosphere was warm and welcoming, the staff were friendly, and the food arrived fresh and hot.
       
@@ -56,12 +55,10 @@ reviews:
       The service was quick, and the staff were attentive throughout our visit. Overall, a great place to dine, and I would highly recommend it to anyone looking for authentic Somali halal food.
   - name: "Bill Lucas"
     rating: 5
-    date: "2026-05-22"
     comment: |
       First time eating Somali food but definitely not the last. All the reviews that state the lamb is amazing are true.
   - name: "Amir Taghinia"
     rating: 5
-    date: "2025-11-20"
     comment: |
       This restaurant offers the best Lamb Shank in town, by far! Unless I come across a better one!
       Homemade food with very friendly staff. They treat you like their family.
@@ -70,7 +67,6 @@ reviews:
       Thanks Abdul!
   - name: "zakaria bulqaas"
     rating: 5
-    date: "2026-06-28"
     comment: |
       I had an excellent experience at Bismillah Restaurant! The food was fresh, flavorful, and served in generous portions. Everything tasted authentic and was prepared with care. The restaurant was clean, welcoming, and had a great atmosphere.
       
@@ -79,7 +75,6 @@ reviews:
       I highly recommend Bismillah Restaurant to anyone looking for delicious food and exceptional hospitality. I will definitely be coming back!
   - name: "abdishukri said"
     rating: 5
-    date: "2026-07-06"
     comment: |
       Bismillahi Restaurant is one of my favorite places to eat and relax. I often come here on Sundays to chill with my friends, and the experience is always excellent.
       

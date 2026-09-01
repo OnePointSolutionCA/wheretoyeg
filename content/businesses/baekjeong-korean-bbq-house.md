@@ -32,22 +32,18 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Trinh"
     rating: 5
-    date: "2026-06-24"
     comment: |
       Everyone was really nice and welcoming here. We got the fried tentacles and the premium beef small combo. It was very filling for us. We're a family of 5, 2 adults and 3 kids. We also got an order of the japchae, and that was probably the best tasting japchae. The noodles were perfectly chewy and seasoned very well! Definitely will come back whenever I am back in Canada.
   - name: "Yan Z"
     rating: 5
-    date: "2026-07-11"
     comment: |
       Went on Friday evening for dinner, we took the beef combo. It comes with free refill sides and kimchi, rice, soup, and BBQ ready multiple cuts. Beef was very fresh/tender and sauce very flavorful. There were many other choices and a la carte.  Overall very tasty and fulfilling.
   - name: "Wenjun Liu"
     rating: 5
-    date: "2026-06-29"
     comment: |
       The food was very fresh, and the combo meals offer excellent value for the price. The portions were satisfying, and the overall quality was impressive. It would be even better if some of the items in the combo could be customized to suit individual preferences. I understand that very few restaurants offer customizable combo deals, so this is just a suggestion rather than a criticism. Overall, it’s a great place with good food and excellent value.
   - name: "Daniel Tran"
     rating: 5
-    date: "2026-02-02"
     comment: |
       Visit: January 2026
       
@@ -60,7 +56,6 @@ reviews:
       The space was clean and well layed out. It was spacious and very aesthetic
   - name: "Mothermaiden #"
     rating: 5
-    date: "2026-04-15"
     comment: |
       From the moment we walked in, the smells made my mouth water! What an awesome experience! Our first time and definitely not our last. Service was beyond excellent! We ordered the Premium Beef Combo and every cut was perfect! Unlimited sides as well! Great atmosphere!
 ---

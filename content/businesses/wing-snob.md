@@ -32,14 +32,12 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Tara Gauthier"
     rating: 5
-    date: "2026-05-21"
     comment: |
       These were hands down the best wings I’ve ever had.  Worth every penny.  The owner here was super friendly and really made our experience.  He even brought us out extra to try a new flavour.  The place is very clean and well cared for.
       
       Highly recommend trying this location
   - name: "Mrad TekleMicheal"
     rating: 5
-    date: "2026-03-07"
     comment: |
       I had a great experience at Wing Snob. The wait time was less than 15 minutes and the food came out hot and fresh.
       I ordered the boneless lemon pepper wings with garlic parmesan fries, and my friend got the traditional honey garlic wings with Cajun fries. The wings were zesty and tangy with a hint of sweetness, just how they should be, and the fries were perfectly cooked and seasoned. Overall, the food was easily 5 stars.
@@ -49,7 +47,6 @@ reviews:
       I hope to see them again the next time I visit! ⭐️⭐️⭐️⭐️⭐️
   - name: "Khanh Phương"
     rating: 5
-    date: "2026-01-09"
     comment: |
       First time here and I instantly loved the vibe. The menu has so many flavors and dips to choose from. Mira at the front desk was super friendly and helpful, she recommended two popular flavors and the sauces were AWESOME (this is also the name of the sauce lol)😍.
       
@@ -58,14 +55,12 @@ reviews:
       The place was very clean (even in winter!). I felt bad because I tracked in some snow 😅 but that just shows how well they keep the place. Overall, such a great first experience. Big thanks to Mira for the amazing service!
   - name: "Emman Espino"
     rating: 5
-    date: "2026-05-08"
     comment: |
       ⭐⭐⭐⭐⭐
       
       Excellent service at WingSnob Northgate Mall. The staff were friendly, fast, and very accommodating. The food was fresh, flavorful, and served hot. Great atmosphere and overall experience. Definitely one of the best places for wings — highly recommended and will absolutely come back again!
   - name: "Brian Lim"
     rating: 4
-    date: "2026-03-03"
     comment: |
       Wings are not bad but I wouldn't say they are great though I've had worse. I got boneless with awesome sauce, Parmesan cheese and a couple of sliders. Personally I found it a bit pricey for what it is but I imagine inflation is taking its toll. They have a lot of flavors which is nice. Staff is very nice and friendly.
 ---

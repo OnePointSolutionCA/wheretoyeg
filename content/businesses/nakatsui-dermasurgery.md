@@ -30,14 +30,12 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Fraser Betkowski"
     rating: 5
-    date: "2026-06-01"
     comment: |
       I had a fantastic experience with Katie at Nakatsui DermaSurgery. She is incredibly skilled, professional, and has such an excellent manner that immediately puts you at ease. She took the time to thoroughly explain the procedure, answered all of my questions thoughtfully, and made sure I felt comfortable and informed every step of the way.
       
       The entire experience was positive from start to finish, including the wonderful front staff, who were welcoming, friendly, and organized. You can really tell this clinic values both expertise and patient care. Highly recommend Katie and the whole team!
   - name: "Jerry Dolynchuk"
     rating: 5
-    date: "2026-06-12"
     comment: |
       ⭐⭐⭐⭐⭐ An Absolutely Outstanding Experience – Exceptional Honesty and Unmatched Professionalism!
       I recently went into the Nakatsui clinic for a comprehensive one-hour consultation, and I am so incredibly impressed by the level of service that I felt compelled to write this review before my actual sessions even begin. If you are looking for a clinic you can genuinely trust with your care, look no further.
@@ -49,19 +47,16 @@ reviews:
       Gordon Dolynchuk
   - name: "Julie"
     rating: 5
-    date: "2026-08-08"
     comment: |
       I got a free Face Analysis at Nakatsui DermaSurgery. The face scan didn't take long to do. My appointment was professional and Ashley went through my results and gave me a lot of information with advice from Dr.
       Nakatsui, so I can decide on how to improve my look. Lot's of information with no pressure!
       Ashley did an excellent job at explaining and answering my questions. Thank you!
   - name: "Joanne Borwick"
     rating: 4
-    date: "2026-07-28"
     comment: |
       Dr Waquar  was kind professional patient and explained my procedure extremely well.   However the admin assistant did not match my referral to why I was there. Even this survey is titled "acne treatment " and that is not even correct!  I was there for biopsy on abnormal moles. Hence... the physicians are amazing but admin was a hot mess for my visit. Sorry guys
   - name: "Clint W"
     rating: 5
-    date: "2026-04-15"
     comment: |
       I have been back to see Dr. Nakatsui a few times for minor procedures as well as one larger cosmetic procedure. The clinic is clean, and the staff are all polite and professional lead by Dr Nakatsui he is very hands on.  I wouldn’t hesitate to recommend them in the future.
 ---

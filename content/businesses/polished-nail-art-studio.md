@@ -31,12 +31,10 @@ date_listed: "2026-08-18"
 reviews:
   - name: "Brooke Hunker"
     rating: 5
-    date: "2026-06-06"
     comment: |
       I’ve been going to Vicky for my nails for almost a year now and I can’t recommend her enough! She does amazing work and is always excited to try any ideas I have for my nails. She is extremely gentle when working on my nails and takes care not to damage the natural nail or cuticle bed. I drive from the Southside of Edmonton and even followed her from her previous studio in Leduc. The drive is well worth it and I recommend her to anyone wanting an exceptional nail artist! (Chrome nails below are not my nails as it’s the one set I forgot to take a photo of but they looked exactly like the picture!).
   - name: "Cari Gray"
     rating: 1
-    date: "2026-05-21"
     comment: |
       I enjoyed Nail Nerd when I first went. I liked the way the nails looked, although, I never had a set where I didn't have at least 1 nail break. I figured it was not a big deal, because the nails looked good and I enjoyed the tech I had.
       The last time I went, I had 6 nails break. The first two broke within 3 days, through no fault of my own. I just noticed they were broken. I didnt bang them or hook them on anything.
@@ -53,19 +51,16 @@ reviews:
       Credit to the manager who tried to fix a very real problem.
   - name: "Victoria B"
     rating: 5
-    date: "2026-05-13"
     comment: |
       Irene is exceptional!! I’ve been coming here for a couple of months now and she kills it every time! Her talent and attention to detail is spectacular. My first time coming here I booked online and chose “anyone” and I got her but now I will continue to book with her every time! Highly recommended this place.
   - name: "Axiana"
     rating: 5
-    date: "2026-05-29"
     comment: |
       Another set of nails these ones by Irene and they are beautiful!! The holo butterfly nails are stunning. I brought her a video and she made my nails 100% exactly the same!!!
       
       Absolutely amazing!! They are so friendly, and are great at doing nails, I may have weird shaped toes but at least my nails look great, they even took time on my pink toe that barely has a nail 🤣 I will definitely go back
   - name: "Kailee (Kiwi)"
     rating: 5
-    date: "2026-04-03"
     comment: |
       Ivy is honestly the best nail tech I’ve ever had. She is always up for whatever crazy design I come in with ,spooky, anime themed, witchy, or anything in between and she executes it phenomenally every single time. Her attention to detail and creativity are unmatched.
       I've also never had a singular issues with any of my nails popping off or not lasting longer than 4+ weeks

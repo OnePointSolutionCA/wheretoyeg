@@ -30,17 +30,14 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Sandra"
     rating: 5
-    date: "2026-07-07"
     comment: |
       Star Nails South Common is the most relaxing place i have been to! Quiet music, plus my nails look great! Thank you for your great service! Prices are fair too! Highly recommend !  A great choice when the family is busy shopping or when you need some relaxing self care  The massage chairs are really nice too.
   - name: "Mary Thomas"
     rating: 5
-    date: "2026-07-19"
     comment: |
       Love the calm, no pressure for gel or shellac nails environment. I've been here a couple of times and the rates are competitive. Great in my budget 😃 Thanks to Stars 😁 for your 5 ⭐ treatment. 🥂
   - name: "Dawn Taylor"
     rating: 5
-    date: "2026-06-23"
     comment: |
       ⭐⭐⭐⭐⭐
       
@@ -55,7 +52,6 @@ reviews:
       I'll absolutely be coming back, and I'll recommend Star Nails & Spa to anyone looking for beautiful nails and a little slice of relaxation. Five stars all the way!
   - name: "Rosabella Lacroix"
     rating: 5
-    date: "2026-07-17"
     comment: |
       This was my first time visiting Star Nails & Spa, and I was absolutely blown away by how welcoming and friendly everyone was. I came in with a painful ingrown toenail, and Jenny went above and beyond to take care of it. She was gentle, knowledgeable, and made me feel so comfortable. What a relief,I can't thank you enough, Jenny!
       I also want to thank the other nail technician (I didn't catch her name) who was so kind and thoughtful. She recognized that Jenny had the expertise to help with my ingrown toenail and made sure I was in the best hands.
@@ -63,7 +59,6 @@ reviews:
       Thank you all so much for the exceptional service and for making my first visit such a positive experience. I highly recommend Star Nails & Spa!
   - name: "Shauna O'Dell"
     rating: 5
-    date: "2026-07-30"
     comment: |
       The service was so welcoming and friendly and the shop is beautiful and extremely clean. I can honestly say the whole experience from beginning to end was top notch. My friend and I both had mani/pedis with shellac and the price was competitive especially for it being in the "big" city.
 ---

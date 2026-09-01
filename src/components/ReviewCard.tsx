@@ -48,7 +48,7 @@ export function ReviewCard({ review }: { review: Review }) {
         <div className="min-w-0 flex-1">
           <div className="flex flex-wrap items-baseline justify-between gap-2">
             <span className="truncate font-semibold text-teal">{review.name}</span>
-            <span className="text-xs text-teal-300">{formatDate(review.date)}</span>
+            {review.date && <span className="text-xs text-teal-300">{formatDate(review.date)}</span>}
           </div>
           <div className="mt-1">
             <StarRating value={review.rating} count={1} compact size={13} />

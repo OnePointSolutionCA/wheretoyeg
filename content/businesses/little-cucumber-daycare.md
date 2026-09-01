@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "TL"
     rating: 5
-    date: "2026-07-21"
     comment: |
       We are so excited that Amy has opened her own daycare!
       
@@ -42,23 +41,19 @@ reviews:
       ⭐⭐⭐⭐⭐
   - name: "Eun Jung Kim"
     rating: 5
-    date: "2026-07-12"
     comment: |
       Amy took care of my child with even more care and attention than I could as a mother. She is truly an amazing teacher whom I could trust completely with my child. Congratulations on opening your new daycare! I wholeheartedly recommend her to any parent looking for a caring and trustworthy childcare provider.
   - name: "Chris K Lee"
     rating: 5
-    date: "2026-07-12"
     comment: |
       My daughter attended her dayhome for two years, and she has been an incredible caregiver and teacher. I honestly can't compare her to any other childcare facility—she provided such a loving, nurturing, and supportive environment.
       I'm so happy to see her open her own daycare. Congratulations on this amazing achievement! Wishing you continued success and all the best in this exciting new chapter!
   - name: "Sylvia Bae"
     rating: 5
-    date: "2026-07-21"
     comment: |
       I'm so happy to see her open her own daycare! I had an amazing experience with her in the past. She is professional, caring, and wonderful with kids.Safe, loving, and highly recommended!
   - name: "Lydia"
     rating: 5
-    date: "2026-07-22"
     comment: |
       Amy, the daycare owner is an amazing caregiver. Pays attention to children needs and creates a responsive environment.
 ---

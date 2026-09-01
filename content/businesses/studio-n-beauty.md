@@ -30,29 +30,24 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Esther via lov3stia"
     rating: 5
-    date: "2026-04-23"
     comment: |
       Sophia is an amazing, knowledgeable and professional at all that she does at studio N! She’s the only one I trust with my brows! The studio itself is cute, chic and clean! I highly recommend services at Studio N!!
   - name: "Gisela"
     rating: 5
-    date: "2026-04-27"
     comment: |
       I've been seeing Sophia for my lash extensions and she does a fantastic job. Also, I have really appreciated the focus she has on my lash health. Overall, I've had a great experience at Studio N Beauty from everyone working there. Cheers!
   - name: "Ting Ting and David"
     rating: 5
-    date: "2026-04-23"
     comment: |
       Professional, knowledgeable, attentive, and incredibly patient! The studio is clean and calming with thoughtful details like heated blankets. Natalia is so friendly and caring. I would recommend definitely Studio N Beauty to anyone looking for permanent makeup and tattooing!
   - name: "Lynn Duong"
     rating: 5
-    date: "2026-04-23"
     comment: |
       Always enjoy my time at Studio N.
       Gina always provides an exceptional experience even though my stubborn lashes give her a tough time.
       Facials leave me glowing and skin looking flawless. Along with a lash lift that makes my eyes glisten.
   - name: "Nikki Badun"
     rating: 5
-    date: "2026-05-22"
     comment: |
       Great studio! I’ve been seeing Megan for my lash lift and tint for 10 years and I would never cheat on her! Lol. Lovely space as well, nice and relaxing!
 ---

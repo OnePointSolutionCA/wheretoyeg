@@ -32,27 +32,22 @@ date_listed: "2026-08-20"
 reviews:
   - name: "phasan Perumal"
     rating: 5
-    date: "2026-01-12"
     comment: |
       I had a wonderful experience with Mercer’s Catering! I dealt with Lu and Jyoshna, who were both incredibly accommodating with all my changes and made the whole process so easy. The staff who handled the delivery were kind, professional, and efficient. The food was absolutely delicious, and the selection was just perfect for our event. Everything ran smoothly from start to finish. Thank you so much for the excellent service — highly recommend Mercer’s Catering!
   - name: "Dr. Joshua Konu"
     rating: 5
-    date: "2026-06-29"
     comment: |
       Jay and Morgan from Mercer’s Catering were absolutely fantastic! From start to finish, they were professional, friendly, and went above and beyond to make sure everything ran smoothly. Their attention to detail, positive attitude, and exceptional service made the entire experience stress-free and enjoyable. I wouldn’t hesitate to recommend Jay, Morgan, and the Mercer’s Catering team to anyone looking for outstanding catering. Five stars all the way!
   - name: "Madison F"
     rating: 5
-    date: "2024-01-12"
     comment: |
       We had our wedding catered by Mercer's and I would highly recommend them! I honestly was feeling nervous after our tasting was cancelled and we picked up a "to go" order of samples- but we trusted the process, and everything was beyond amazing for our big day. Jyoshna and her staff were so professional and attentive. The food was both beautifully displayed, and delicious!
   - name: "catherine gramlich"
     rating: 5
-    date: "2024-08-26"
     comment: |
       Customer service , delivery , and all the food was beyond what I expected! From the moment I contacted this company they made sure to take care of our wedding needs and maintain a high level of quality. Extremely reliable and great communication between departments. All of our guests absolutely loved the drop catering option , covered all the basis , perfectly made - really appreciate they have something for all budgets! They laid out everything for service and our guests had no issues diving in. More than enough food for estimated guests. Everyone was delighted with the selection of food and how well made it was. Felt like a premium dinning experience in our backyard.
   - name: "Jessika Fitzsimmons"
     rating: 5
-    date: "2025-12-06"
     comment: |
       Working with Jay & Mercer Catering was phenomenal from beginning to end. Their team was organized, responsive, and incredibly professional, and the food was exceptional. Guests raved about the quality and presentation all evening. Every interaction with their staff was attentive and kind, and their ability to execute flawlessly under wedding-day timelines is something I truly appreciate as a planner. Mercer is always a top choice for a reason, and I’m already looking forward to working with them again.
 ---

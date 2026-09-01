@@ -30,13 +30,11 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Catherine Mondragon"
     rating: 5
-    date: "2025-08-20"
     comment: |
       Astounding views of the city. A wonderful place to have an in the city beach experience. The water is very murky and dubious downtown. But it's much nicer where the rocks are. Bring river shoes. You can buy at the dollat store! We always come down with chairs and a picnic. Watching the sunset is spectacular. We often see,
       The river boat going past.
   - name: "Sithira Amaradasa"
     rating: 5
-    date: "2023-08-14"
     comment: |
       I recently had the pleasure of visiting Accidental Beach in Edmonton with my family, and I must say, it was an incredible experience! As soon as we arrived, we were greeted by stunning views, and a sense of adventure.
       
@@ -53,12 +51,10 @@ reviews:
       In conclusion, Accidental Beach in Edmonton is a must-visit destination for families seeking a delightful outdoor adventure. The kids-friendly access and shallow water make it an excellent choice, ensuring a worry-free experience for parents while little ones have a splashing good time. Don't miss out on this hidden gem — it's a perfect spot for creating lasting memories.
   - name: "Shell Jamieson"
     rating: 3
-    date: "2026-06-26"
     comment: |
       Accidental Beach is gone! Because of river is high level and cover it
   - name: "Ricardo Borquez"
     rating: 2
-    date: "2021-07-20"
     comment: |
       Right off the get go this place has no signs from the main road. Once you find the one way street parking is limited. No signs to get to the actual beach area. There is a steep ish hill to get to the beach (ropes in place to help ascend/descend). I would say a cool place to bring your furry friends and get some sun but nothing else. Not even porta-potties and definitely no swimming.
       
@@ -67,7 +63,6 @@ reviews:
       Honesty it’s pretty bad imo.
   - name: "Henry Le"
     rating: 5
-    date: "2017-09-09"
     comment: |
       It was beautiful out there which is also a wonderful for taking photos. Unfortunately, i came there alone so i didn't take any portrait photos. I'm absolutely going to come back someday soon. I would recommend you to ride a bus to get there as there is no parking lot, and the spots on the street are filled up quickly. Enjoy it !!
 ---

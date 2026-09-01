@@ -30,22 +30,18 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Brendon Jones"
     rating: 5
-    date: "2026-05-12"
     comment: |
       Rayacom was extremely accommodating with a last minute request we had after missing an issue with our proof (pretty much on us). They were top notch.
   - name: "Lucas Bennett"
     rating: 5
-    date: "2025-12-25"
     comment: |
       I’ve used Rayacom for several print jobs now, and they’ve been consistently excellent. From business cards to brochures, the colour accuracy and paper quality are spot on. You can tell they care about details, and turnaround times are always reliable.
   - name: "Brandon Fraser"
     rating: 5
-    date: "2025-12-25"
     comment: |
       Ordered custom stickers and labels for my product packaging, and I’m genuinely impressed. The vinyl feels durable, the cuts are clean, and the adhesive holds perfectly. Customer service was friendly and easy to work with—very smooth experience overall.
   - name: "Tara Singh"
     rating: 5
-    date: "2025-09-30"
     comment: |
       Rayacom Edmonton is hands down one of the best print shops.
       
@@ -56,7 +52,6 @@ reviews:
       They’ve made printing for my business easy and stress-free. Highly recommend them to anyone looking for reliable printing services in Edmonton!
   - name: "Liam Anderson"
     rating: 5
-    date: "2025-12-13"
     comment: |
       Absolutely loved my custom packaging from Rayacom. The product boxes look premium and the structural design is solid. It made my small business feel
       large and well polished.

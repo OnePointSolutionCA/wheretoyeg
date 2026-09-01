@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "tanvi mahajan"
     rating: 5
-    date: "2026-06-13"
     comment: |
       I had a wonderful experience at Japonais! The food was fresh, beautifully presented, and atmosphere of the restaurant is modern. The sushi was exceptionally fresh and delicious.
       
@@ -41,7 +40,6 @@ reviews:
       Overall, great food, excellent service, and a wonderful atmosphere. We will definitely be back and highly recommend it to anyone looking for quality cuisine in Windermere!
   - name: "lisa m"
     rating: 5
-    date: "2026-06-16"
     comment: |
       I love this place and honestly find myself coming back for most special occasions.
       
@@ -52,12 +50,10 @@ reviews:
       Service has always been good overall. There have been a few occasions where things were a bit slow during rush hours, but that’s understandable given how busy it can get.
   - name: "Suzanna Wong-Nash"
     rating: 4
-    date: "2026-06-26"
     comment: |
       Delicious food, but such slow service! It was busy on a Sunday for lunch, but it took awhile for a server to even acknowledge us and get drinks ordered. Also, our appetizer came out last...? Which we didn't care, but kind of odd. The food amazing though. Highly recommend the pressed sushi! I'd still go back!
   - name: "Val_ P"
     rating: 5
-    date: "2026-06-07"
     comment: |
       One of my favorite restaurants in Edmonton.
       Great Japanese food for a very affordable price.
@@ -67,7 +63,6 @@ reviews:
       I would love to come back to try out more food from their menu.
   - name: "Jazzent Rubite"
     rating: 2
-    date: "2026-06-23"
     comment: |
       We visited Japonais Japanese Restaurant for Father's Day around dinner time. The restaurant was quite busy, but overall we had a good experience.
       

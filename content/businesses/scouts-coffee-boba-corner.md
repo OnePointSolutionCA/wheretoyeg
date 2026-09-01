@@ -31,7 +31,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "melissa espino"
     rating: 5
-    date: "2026-06-29"
     comment: |
       As a matcha lover, I’m always on the hunt for a good matcha spot, and I’m so glad I discovered Scout’s Coffee and Boba Corner! Truly a hidden gem in the Woodcroft area. 🍵✨
       
@@ -40,22 +39,18 @@ reviews:
       If you’re a fellow matcha enthusiast or just looking to support a local spot, this place is definitely worth checking out. So happy to have found this little gem right in the neighborhood! 💚
   - name: "Aristica"
     rating: 5
-    date: "2026-03-10"
     comment: |
       Delicious matcha!! Came here with a friend and the barista was so friendly and knowledgeable. My friend got the Ube matcha and I got the Pandan matcha with additional cold foam. Rich matcha flavour, good balance of matcha and the additional flavourings. The price was also comparatively cheap to a lot of other matcha places in the city, so it was an easy 5/5, will come again.
   - name: "Maria Ana"
     rating: 5
-    date: "2026-07-23"
     comment: |
       Ube Matcha with Soy milk is so good! Service is good and doesn't rush you to decide. 😊
   - name: "Syrelle Padua"
     rating: 5
-    date: "2026-02-27"
     comment: |
       Their drinks are really good, especially the matcha, its a great place to relax and unwind
   - name: "Teresa McKernan"
     rating: 5
-    date: "2026-01-11"
     comment: |
       I had a delicious Oreo matcha latte and my husband got the Spanish latte which was also really good! Really friendly and kind service :)
 ---

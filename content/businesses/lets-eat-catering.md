@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "David W."
     rating: 5
-    date: "2026-07-10"
     comment: |
       Absolutely Unbelievable! If you are looking for excellence in food service, you have to book Let’s Eat Catering!
       
@@ -55,7 +54,6 @@ reviews:
       David W.
   - name: "Tessa S"
     rating: 5
-    date: "2025-10-04"
     comment: |
       Where do I begin with Let’s Eat Catering??
       Honestly, at first I didn’t even know they existed! I hadn’t heard of them before I spoke with someone who lived in New Sarepta and said they catered larger events. I looked at a few different options based on recommendations from other people who had weddings catered through other companies.
@@ -74,12 +72,10 @@ reviews:
       Susie, I cannot thank you enough for everything you did for our wedding. Your generosity and making us feel like family is deeply appreciated and did not go unnoticed. Thank you for helping create one of the easiest aspects of our wedding to plan & execute.
   - name: "Madison Shawaga"
     rating: 5
-    date: "2026-05-20"
     comment: |
       We had Let’s Eat cater our wedding and they provided the most delicious food and amazing experience! I can’t rave enough about how fantastic both the food and customer service was! My guests are still talking about how great everything was! I will definitely be booking them for future gatherings, and recommend them to anyone looking for a similar experience!
   - name: "JRO Artistry"
     rating: 5
-    date: "2024-10-31"
     comment: |
       You will not be disappointed with Lets eat catering! Susie and her Husband are a dynamic Duo who work amazing together for your catering needs! we Hired her last minute for my personal wedding of 80 people after our original catering company conned us and she saved the day! My bridesman James Greenaway highly recommended them as his Auntie works for them and loves her job, Everyone is always smiling and easy going!
       
@@ -92,7 +88,6 @@ reviews:
       JRO Artistry
   - name: "Sara Prentice"
     rating: 5
-    date: "2026-01-22"
     comment: |
       Our catering experience for our wedding was phenomenal. The food was absolutely incredible and everything ran smoothly and on time. We have heard nothing but amazing things from our guests and received so many compliments on the food throughout the night and afterward.
       

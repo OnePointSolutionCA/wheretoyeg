@@ -30,27 +30,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Karan Singh"
     rating: 5
-    date: "2026-07-20"
     comment: |
       Had really good experience of haircut and beard. Must visit.
   - name: "Thiara Prabh"
     rating: 5
-    date: "2026-05-16"
     comment: |
       Amazing experience! The haircut was exactly how I wanted it — clean fade, sharp detailing, and great attention to detail. Really professional service and friendly atmosphere.
   - name: "Surinder bajwa"
     rating: 5
-    date: "2026-06-12"
     comment: |
       Visited this barber shop for the first time and had a great experience. Balraj is very friendly, professional, and highly skilled. He took his time and gave me an excellent haircut exactly the way I wanted. The shop is clean, welcoming, and provides great customer service. I would definitely recommend Balraj and will be coming back again.
   - name: "saganpreet singh"
     rating: 5
-    date: "2026-05-17"
     comment: |
       Today I came all the way from bonnyville for the haircut and I had a excellent experience really good service really appreciated must come and visit guys
   - name: "Akshdeep Singh"
     rating: 5
-    date: "2026-02-27"
     comment: |
       “I had a great experience at this salon. The barber understood exactly what I wanted and gave me a clean, sharp cut. The place was hygienic and the staff were very professional. Definitely coming back!”
 ---

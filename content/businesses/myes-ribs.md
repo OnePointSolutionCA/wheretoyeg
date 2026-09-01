@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Winna Damasco"
     rating: 5
-    date: "2026-07-23"
     comment: |
       We had dinner here today and it was such a great experience! We ordered the Crispy Kare-Kare and Beef Pares, and both were absolutely delicious. The crispy kare-kare had amazing flavor and texture, while the beef pares was rich, tender, and definitely a must-try.
       
@@ -49,22 +48,18 @@ reviews:
       If you're craving authentic Filipino food, Mye's Ribs is definitely the place to go. Highly recommended—we'll definitely be back!
   - name: "Unice Mingoa"
     rating: 5
-    date: "2026-04-15"
     comment: |
       Lutong-bahay vibes all the way! We ordered the pork sisig and it came out freshly made, hot, flavorful, and the serving was very generous. The Batangas lomi was packed with a variety of ingredients, rich and satisfying. Even the interior had a great ambiance. Definitely a 5-star experience!
   - name: "MJE Y"
     rating: 5
-    date: "2026-07-01"
     comment: |
       Our family’s expectations were consistently met at Mye’s Ribs- with excellent food, impeccable service, and a warm, clean atmosphere. The dining experience always evokes fond memories of home. The server, Dwayne, demonstrates professionalism and extensive knowledge. We consistently return to this Filipino restaurant- savouring a truly gastronomic experience! Mabuhay to the owners, management, and staff!
   - name: "Phat Boy"
     rating: 5
-    date: "2026-02-17"
     comment: |
       I love Filipino food and this place hit the mark! The friend chicken had the perfect crisp, the pancit wasn’t too salty and the pork skewer was perfectly cooked and sauced with an amazing bbq sauce…I’d come back just for a bunch of pork skewers. Server was super friendly, the joint was newly built and looked great and the food was delicious! I will definitely be back on a Sunday to try their buffet for under $20!
   - name: "Chris Zetazate"
     rating: 5
-    date: "2026-02-13"
     comment: |
       Brand new Filipino Restaurant on 156 St and 118 ave.  Just off Yellowhead. Amazing and tasty food.
       

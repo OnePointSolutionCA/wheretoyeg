@@ -30,14 +30,12 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Rachele"
     rating: 5
-    date: "2026-07-27"
     comment: |
       Elements Hair Spa is absolutely worth it if you’re looking for a high-end salon experience. The service was exceptional from start to finish, and my hair has never felt this smooth, healthy, and refreshed. I’ve been to many salons in Toronto, and the results here were honestly better than anywhere I’ve tried.
       
       I especially loved the mini facial and the massage—they were such a relaxing touch. I was so comfortable that I actually fell asleep! The attention to detail, professionalism, and quality of the products really set this place apart. I left feeling amazing and will definitely be coming back. Highly recommend!
   - name: "Tamizan Kherani"
     rating: 5
-    date: "2026-01-22"
     comment: |
       I had an absolutely incredible experience with Quyen at Luxury Japanese Head Spa. From the moment I arrived, everything felt calm, clean, and beautifully curated — the cozy atmosphere alone immediately helped me relax.
       
@@ -48,7 +46,6 @@ reviews:
       Quyen is warm, attentive, and genuinely talented. If you’re considering a Japanese head spa, don’t hesitate — this is worth every penny, and I’m already looking forward to coming back.
   - name: "Julia"
     rating: 5
-    date: "2026-06-11"
     comment: |
       I recently had a Japanese Head Spa treatment with Christine, and it was such a wonderful experience. This service was gifted to me, and I’m so glad I had the opportunity to try it!
       
@@ -57,13 +54,11 @@ reviews:
       She was also very soft-spoken and calming, which made the entire experience feel even more relaxing. The treatment itself was amazing, and my scalp feels so fresh, clean, and rejuvenated.
   - name: "Holly Francese"
     rating: 5
-    date: "2026-07-23"
     comment: |
       Amazing experience 100% recommend Quyen and Grace.  Took my daughter and I for a little scalp self care love today the studio is very clean and organized and both Quyen and Grace were welcoming. The service itself is AMAZING. !!! I can’t decide what my favourite part was of the whole service so I’ll just say GO, RUN and enjoy!!!
       Thank you Quyen. We will be back
   - name: "Cristin Abbott"
     rating: 5
-    date: "2026-01-29"
     comment: |
       What an amazing experience! I learned so much about my own hair/scalp and how to take care of it. Quyen was extremely knowledgeable and a wonderful person.  She ensured that the temperatures of everything were where they needed to be for my preference and that the massage bed was comfortable for my needs. Overall, the Sakura Bliss spa package over exceeded my expectations. I feel so rejuvenated afterwards.  Truly a whole body refresh. I will definitely be back!
 ---

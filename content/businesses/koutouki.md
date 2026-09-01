@@ -32,27 +32,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Eren Granger"
     rating: 5
-    date: "2026-04-12"
     comment: |
       Very lovely restaurant. Service was amazing and the food was delicious, will definitely be going again. Its a bit pricey but the food is worth the price. Very well decorated. It was a bit noisy but I wouldn't expect anything else considering there were lots of families and couples enjoying delicious food. I think seeing a full restaurant is definitely a good sign
   - name: "Maade Okai"
     rating: 5
-    date: "2026-05-10"
     comment: |
       I came here for dinner and we had such a fun time! The feast is a great way to try all the different food that they have to offer. We also got to see the belly dancer?!? That was a very fun and exciting surprise!
   - name: "Expert in experiences"
     rating: 5
-    date: "2025-09-05"
     comment: |
       I’m so excited to share that I just had my first time at this restaurant, and it was for a friend’s birthday! The food was absolutely delicious, and we enjoyed it family style. The service was fantastic, and they even went above and beyond with our food and drinks. We tried a variety of dishes, but the Greek salad was truly one of the best I’ve ever had. Plus, the meat was incredibly tender and flavorful. I can’t recommend this place enough!
   - name: "Kenneth Tonseth"
     rating: 5
-    date: "2026-05-16"
     comment: |
       The food was great, swordfish with rice, and mixed vegetables always good. The ravani is a very sweet but amazing desert. The staff is friendly and welcoming. Good atmosphere would recommend.
   - name: "Justin W"
     rating: 5
-    date: "2024-07-20"
     comment: |
       My goodness. Everything from the service to the food was a 10/10. We ordered the feast and it was so much food - I consider myself and my partner to have high appetites. Everything was so fresh and tasted amazing. Matteo was friendly, efficient and most of all genuine. The food came out in multiple courses and was perfectly spread out timing wise. We will absolutely be back, we were beyond impressed from start to finish!
 ---

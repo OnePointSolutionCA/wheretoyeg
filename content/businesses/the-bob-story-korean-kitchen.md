@@ -32,7 +32,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Fabiha Bushra"
     rating: 5
-    date: "2026-07-09"
     comment: |
       My friend and I stopped by this place on a whim, and wow—it turned out to be some of the best food I’ve had in a long time. Plenty of restaurants claim their food is spicy, but it usually isn’t. This place actually delivers on the heat, and the flavors are fantastic.
       
@@ -43,22 +42,18 @@ reviews:
       I highly recommend coming with a group so you can order a variety of dishes and share. Great food, generous portions, and excellent service—I’ll definitely be back!
   - name: "JUNG MIN KIM"
     rating: 5
-    date: "2026-05-01"
     comment: |
       I had a great meal here! The menu is huge, and the portions are really generous. Everything was so tasty, but the Fried Chili Shrimp and Cheese Buldak were definitely the highlights. The owner and the staff are super friendly, too. I'll be back for sure!
   - name: "Elaine W"
     rating: 5
-    date: "2026-07-09"
     comment: |
       WOOOWWW this is acc the BEST korean restaurant in Edmonton!!! me and my friend has never ever ever nonstop complimented the food for two hrs straight. The owner and employee were so nice. The food was extremely affordable and the portion sizes were humungous. The jjamppong had crabs in it, which was never advertised, and it was such a surprise. The tteokbokki and dak-galbi were fragrant and rich. The kitchen is right beside you as well and you can see that everything was freshly prepared and cooked. Even the takeout experience was top-notch. they had I would dare say the best paper bags I’ve seen. They were so durable and they even wrapped your takeout box in saran wrap. They were also kind in giving instructions on how to better microwave the food. I genuinely cannot believe that there is so little reviews on this job. This shop is absolutely amazing. This is becoming a stable for me and my friends and we are planning to bring off our friends here as well. I am so excited to try their full menu in the coming months!!!!!
   - name: "Geraldine Melzi"
     rating: 5
-    date: "2026-04-26"
     comment: |
       What a cute little find. We decided to dine in and share the Jjajangmeong set. It was absolutely delicious as were their $5 dumplings. The service was excellent. Because we had so much sauce leftover, they threw in a bowl of rice free of charge. Everything was hot and fresh. Excited to go back and try other items on the menu!
   - name: "Belsibeth"
     rating: 5
-    date: "2026-04-26"
     comment: |
       Super good! Very glad we stopped in to try this place. We got the Tteok-kkochi, the Bibimbap, and the Ttukbaegi Bulgogi. All of it was excellent! Will definitely be coming here again! ☺️
 ---

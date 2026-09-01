@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Natasha N"
     rating: 5
-    date: "2026-06-06"
     comment: |
       Before finding Black Tusk Athletics, I was struggling with the most basic daily tasks. Getting up off the floor was painful and nearly impossible. I couldn't do a sit-up. Stairs had to be taken one step at a time due to foot and knee pain, and cleaning my house had become so exhausting that I simply couldn't manage it anymore.
       I tried so hard on my own — online trainers, different workout programs — but nothing worked. I kept pulling muscles or ending up in more pain than before. I was exhausted and had started to accept that this was just going to be my life.
@@ -41,7 +40,6 @@ reviews:
       Thank you to Alara for giving me my life back. To owners Anne & Jason, the community you have built is inspiring, and to everyone at Black Tusk Athletics. You are truly amazing. 🖤
   - name: "Rose Park"
     rating: 5
-    date: "2025-12-04"
     comment: |
       I can’t say enough good things about Black Tusk!  The team take the time to get to know you, celebrate your progress, and help you push toward your goals in a way that feels encouraging rather than intimidating.
       
@@ -50,19 +48,16 @@ reviews:
       If you’re looking for a gym that values community and fosters real connections, this is the place. I feel stronger, more confident, and have made some life long friends here at BT!  Highly recommend whether you’re a beginner or looking to join a gym with some cool people!
   - name: "Diana Dabrowa"
     rating: 5
-    date: "2026-07-10"
     comment: |
       Black Tusk Athletics provides group classes, personal training sessions and fitness events. It's a lovely community of individuals that are supportive and inspiring!
   - name: "Danny Wilson"
     rating: 5
-    date: "2025-11-27"
     comment: |
       My workout this morning at Black Tusk Athletics was challenging and good. The routine pushed me with a mix of strength and cardio exercises that kept my heart rate up but never felt overwhelming. Laine is great - he takes the time to explain each movement clearly, breaking down the form so I understood exactly what to do.
       
       Throughout the workout, he gave feedback by watching my technique closely and helped me adjust when needed, making sure I was doing the exercises safely and effectively. He is also very encouraging and supportive, offering motivating words that kept me going even when the sets got tough. That combination of clear guidance and positive energy made the whole session rewarding and something I look forward to coming back for.
   - name: "Trish Turner"
     rating: 5
-    date: "2024-12-18"
     comment: |
       I can't say enough good things about Black Tusk. When I first joined, I was looking for a gym with strong sense of community and I definitely found that here.
       

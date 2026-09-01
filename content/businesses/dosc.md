@@ -31,7 +31,6 @@ date_listed: "2026-08-26"
 reviews:
   - name: "Jenny O"
     rating: 5
-    date: "2026-05-27"
     comment: |
       Let us start with food, which by the way was absolutely delicious. From the Brussel sprouts to my pasta all was very good. The table shared the Oxtail Poutine, and Brussel Sprouts(they are a show stopper), and I enjoyed the Truffle Tagliatelle and added a protein of Duck Confit. Everything was very nicely paired with a glass of white wine.
       
@@ -44,7 +43,6 @@ reviews:
       I hope construction finishes soon, as this gem should be enjoyed by all.
   - name: "Daria M"
     rating: 3
-    date: "2026-03-09"
     comment: |
       The food was nothing special. In fact, the meat portions were a bit small for the price. I wouldn’t come here again specifically for a steak, as there are better places for meat in our city. It’s fine to try once, but I wouldn’t necessarily return for the food.
       
@@ -59,17 +57,14 @@ reviews:
       The restaurant itself is quite cozy and the atmosphere is pleasant, but in my opinion it is unnecessarily expensive for what it offers.
   - name: "Nessa Gomez"
     rating: 5
-    date: "2026-02-02"
     comment: |
       Came here for a birthday celebration, they have an option to include flowers with the reservation which i’ve never seem before, so thats really cool ! The server had good cocktail recommendations and was knowledgeable. We had the kale caeser salad, poutine, and 2 steaks. Everything was yummy, some room for improvement as the poutine was lacking cheese and the gravy was a little watery as well as the steaks were very chewy for our liking. Other than that the inside is beautiful, very romantic and elevated!
   - name: "Roanne Lillico"
     rating: 5
-    date: "2026-04-15"
     comment: |
       Love the atmosphere! The lighting is dim and it’s like a romantic wooden industrial vibe. Brydan was our server and did such a fabulous job describing everything on the menu to us and making perfect recommendations. He was very charismatic and comfortable. Food was excellent. We came here for my birthday dinner and I will be recommending it to friends for special nights out.
   - name: "Diana P"
     rating: 5
-    date: "2026-03-15"
     comment: |
       Loved the vibes of this place! Definitely pricey but you get what you pay for, I was impressed by the cocktails they were top tier. The highlight of the night was the incredible service, Shaquille was an amazing server, he really blew us away!!
 ---

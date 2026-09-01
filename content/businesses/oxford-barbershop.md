@@ -30,27 +30,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Angela Aspden"
     rating: 5
-    date: "2026-03-02"
     comment: |
       These guys are very friendly....good prices ...do awsome designs...very pleased with their servic e  again a amazing job by Oxford
   - name: "YourPinoyMechanic"
     rating: 1
-    date: "2026-07-24"
     comment: |
       I use to go here but this happened today, and the hair cut is worse, i don’t know guy who cut my hair is new ,
   - name: "Angel Aspden"
     rating: 5
-    date: "2026-03-02"
     comment: |
       Love this place. My boy has major sensory sensitivities but has done amazing for his haircut here. They are patience and understanding. Plus do awesome designs for the boys
   - name: "Damien Austin"
     rating: 5
-    date: "2025-11-10"
     comment: |
       I came in this morning for a haircut, mustache cleanup, nose wax, and hair wash, and the experience was fantastic. I didn’t catch the name of the barber who helped me, but he did an outstanding job. If you’re looking for a great barber shop, I highly recommend checking this place out. The prices are excellent, and the service is top-notch. This will definitely be my go-to spot from now on.
   - name: "Ryan W"
     rating: 5
-    date: "2026-01-20"
     comment: |
       Very good barber shop. The barbers here do great work, and I always leave with a nice cut.
 ---

@@ -22,8 +22,8 @@ hours:
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/onepoint-solutions-1.jpg", "/photos/onepoint-solutions-2.jpg", "/photos/onepoint-solutions-3.jpg"]
-rating: 0
-review_count: 0
+rating: 5
+review_count: 26
 price_range: "$$"
 amenities:
   - "Free Consultation"
@@ -38,27 +38,22 @@ date_listed: "2026-08-17"
 reviews:
   - name: "Nicci Koughan"
     rating: 5
-    date: "2026-07-25"
     comment: |
       Great company to work with! Moe is professional, responsive, and easy to deal with. Highly recommend!
   - name: "Moe"
     rating: 5
-    date: "2026-07-22"
     comment: |
       Moe did a fantastic job on my site both renewing the look of it and optimizing the SEO for it ! I highly recommend his service
   - name: "Ahmad Rahme"
     rating: 5
-    date: "2026-07-23"
     comment: |
       Easy to work  with 10/10 product highly recommended
   - name: "Ali Najmeddine"
     rating: 5
-    date: "2026-07-21"
     comment: |
       Moe is easily the best person to deal with and helpful!
   - name: "Maha Shawar"
     rating: 5
-    date: "2026-07-22"
     comment: |
       Highly recommend!
 ---

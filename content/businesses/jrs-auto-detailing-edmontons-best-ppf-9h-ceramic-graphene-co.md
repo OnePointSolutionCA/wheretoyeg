@@ -30,12 +30,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Mike Morton"
     rating: 5
-    date: "2026-03-07"
     comment: |
       Absolutely stunning! Just had my vehicle in for graphene ceramic coating (Gold package), and PPF on the front bumper and door sills. JR's did an amazing job, and I'll definitely be back to take advantage of their other services in the future. Shout out to Zay who answered all my questions promptly (I had quite a few!), and to Vanessa and the folks at the South location. My vehicle was ready when promised and the entire process was seamless. Overall awesome experience! I highly recommend JR's for anyone who wants their vehicle to look great.
   - name: "Andy Tye Chan"
     rating: 5
-    date: "2026-06-11"
     comment: |
       Just picked up my car on Monday Jun 8 from JRs.
       
@@ -44,7 +42,6 @@ reviews:
       If you are contemplating getting ppf or wrapping done and unsure who to consider, please pay them a visit. JR is approachable and friendly.
   - name: "Logan Irvine"
     rating: 5
-    date: "2026-07-31"
     comment: |
       I recently had my 2026 Ford Explorer ceramic coated at JR’s Auto Detailing, and I’m extremely impressed with the results. The team was professional, knowledgeable, and took the time to explain the coating process and aftercare.
       
@@ -53,7 +50,6 @@ reviews:
       If you’re considering ceramic coating or detailing services, I highly recommend JR’s Auto Detailing. Great service, excellent results, and a fantastic experience from start to finish!
   - name: "Rence Balaccua"
     rating: 5
-    date: "2026-05-22"
     comment: |
       I recently took my brand new 2026 Toyota Sienna to JR'S for a full front PPF package (with added rockers, headlights, door edges/cups) and front window tinting. From the very beginning, their customer service was exceptional.
       
@@ -62,7 +58,6 @@ reviews:
       The installation itself is flawless—edges are beautifully wrapped, the ceramic tint matches the factory rear glass perfectly, and they even kept the vehicle safely stored indoors overnight to let the film properly cure. If you want high-quality work and a team that actually treats you like a valued customer from the first email to final pickup, go to JR'S. Highly recommended!
   - name: "Aman Al"
     rating: 5
-    date: "2026-06-12"
     comment: |
       I had my PPF and ceramic coating done, JR and his crew not only did a phenomenal job but also exceeded my expectation. Their level of workmanship and professionalism is truly impressive. Once again, thank you for doing such an amazing job.
 ---

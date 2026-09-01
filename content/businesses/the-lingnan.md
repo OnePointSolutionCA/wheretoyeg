@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Shelby M"
     rating: 5
-    date: "2026-05-02"
     comment: |
       I had an absolutely incredible experience at Lingnan in Edmonton—hands down one of the best Chinese dining experiences I’ve ever had.
       
@@ -48,7 +47,6 @@ reviews:
       ⭐️⭐️⭐️⭐️⭐️
   - name: "Herb Betschart"
     rating: 4
-    date: "2026-06-01"
     comment: |
       PROS:
       * Plenty of free parking
@@ -65,17 +63,14 @@ reviews:
       * I will definitely visit this establishment again.
   - name: "Hachiko"
     rating: 1
-    date: "2026-06-02"
     comment: |
       Painfully mediocre. The "Dry Spicy Chicken" was once upon a time maybe better than it is now, but this is just extremely disappointing. The chicken is literally frozen chicken balls, with awful meat and barely any to begin with. There's more batter than chicken, and it's barely spicy. It's so sloppily made, and frankly embarrassing. The packaging they use too for the fries additionally cause it to arrive soggy and with a lot of moisture in the boxes. Tanjiang's dry spicy chicken is consistently better, though they have their own issues, and frequently decline orders. I don't plan on ever re-ordering. I just want some dry spicy chicken, man... for shame.
   - name: "Phat Boy"
     rating: 5
-    date: "2026-01-14"
     comment: |
       I have to start off by saying the service here is probably the best of any Chinese restaurant in the city…super friendly, welcoming, polite and attentive! The joint itself is really fun to be in with all its decorations and colors…reminds me of Rush Hour with Jackie Chan haha! I have been coming to this place for years and only recently decided to try the buffet. The food wasn’t as fresh, hot and crispy as ordering off the menu but it still tasted good. I only mention this for people to be careful, but the only disappointment for me was biting into a hard chicken bone in the chicken balls…at least you know it’s real chicken! I still recommend this place but suggest ordering off menu and eating in or picking up. Will definitely be returning in the near future!
   - name: "Brandon Plaizier"
     rating: 5
-    date: "2026-01-20"
     comment: |
       I just held my company holiday party there this past weekend. The Quon family and their entire team are so welcoming and amazing hosts. The food is so tasty my whole team raved about it. They truly know what they are doing. I would whole heartedly recommend The Lingnan for any function.  (the $30-40 is because I did buffet and drinks for everyone)
 ---

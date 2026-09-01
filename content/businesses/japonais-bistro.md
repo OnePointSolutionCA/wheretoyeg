@@ -31,27 +31,22 @@ date_listed: "2026-08-26"
 reviews:
   - name: "Twitchy"
     rating: 5
-    date: "2026-06-27"
     comment: |
       It’s been a while since I’ve eaten at their downtown location and I was not disappointed. I was here for a weekday lunch and my traditional bento box was very good just like I remember. The fish was fresh and the tempura nicely cooked. 2 thumbs up. Service was also very good. There’s a lot of construction happening on the road out front so traffic and parking is a bit of a challenge right now.
   - name: "Jordin Y (MojoJojo88)"
     rating: 5
-    date: "2026-07-04"
     comment: |
       Having come here for a few occasions, this is one of the best mainstream Asian restaurants you can go too in Edmonton. Big fan of Chicken Karaage myself, it's my favorite in the city. Would recommend booking a table in advance. The staff are always friendly. Any restaurants you can see the chefs working is a bonus.
   - name: "Jenah McPherson"
     rating: 4
-    date: "2026-02-28"
     comment: |
       Went here for a date night and was not disappointed. The food was amazing, our waiter was helpful, and its the kind of nice restaurant that doesnt feel stuffy. The tuna nigiri was the best I've ever had. Can't wait to go back and try more menu items.
   - name: "Manal G"
     rating: 4
-    date: "2026-07-14"
     comment: |
       The food was fine, but would've enjoyed it so much better if each roll wasn't drowning in sauce. That was not enjoyable and if I go back I'd either tell them to put the sauces on the side or order items without it. The service was good. The place isn't anything special or charming on the inside.
   - name: "Stephen Carter"
     rating: 5
-    date: "2026-06-27"
     comment: |
       What a fantastic find on Jasper Avenue. Everything we ordered was incredibly fresh and presented beautifully on the plates.
       

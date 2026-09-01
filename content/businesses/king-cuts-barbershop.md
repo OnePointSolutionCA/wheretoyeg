@@ -30,29 +30,24 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Hassan Najem"
     rating: 4
-    date: "2026-07-31"
     comment: |
       There is a Barber over there. His name is Amir he is so  good. He cut my hair real good for one of the best prices. I asked him for a style and he got it perfectly
   - name: "Amanda Yehya"
     rating: 5
-    date: "2026-06-10"
     comment: |
       My son always has an amazing experience at this barbershop! From the moment we walk in, we are welcomed with great customer service. They really take the time to understand exactly what he wants and deliver a haircut that exceeded our expectations. Highly recommend to anyone looking for a top-quality haircut and exceptional service!
   - name: "Amal Badr"
     rating: 5
-    date: "2026-08-01"
     comment: |
       My siblings have done their hair couple times with Amir, he’s really great with kids and does what ever hair cut your interested in.
       He believe he started working in this shop about a month ago
       But he has back home experience for over 13 years of experience.
   - name: "Elias Saca"
     rating: 2
-    date: "2026-06-09"
     comment: |
       I can only comment on the guy who cut my hair, not the other barbers working here. My haircut took about 5 minutes and felt very rushed and lacked attention to detail. I paid $25, but the result was barely noticeable and didn't feel worth the price. Maybe the other barbers provide a different experience, but based on my visit, I left disappointed.
   - name: "Mustafa Badr"
     rating: 5
-    date: "2026-08-07"
     comment: |
       Highly recommend Amir, he’s great at storytelling,
       I have done my hair couple times with him and I was super happy with the finished result.

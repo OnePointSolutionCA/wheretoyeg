@@ -32,12 +32,10 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Erica Evangelista"
     rating: 5
-    date: "2026-07-10"
     comment: |
       The food here is amazing!! The atmosphere is really nice and relaxing, and the robot servers are such a fun touch. The staff were friendly, and the service was fast. Ended up ordering extra takeout because i enjoyed the food so much. Definitely try the thai chicken bites, they are so good! Thai milk tea wasn't overly sweet which was perfect for my taste. will definitely be coming back!!
   - name: "Arsalan Kaleemi"
     rating: 5
-    date: "2026-03-19"
     comment: |
       Absolutely fantastic experience at Siam Thai! From the moment we walked in, we were warmly welcomed by our wonderful host, Sonia, who made the entire evening feel special. Her attentiveness, friendliness, and genuine care for guests truly stood out.
       
@@ -46,12 +44,10 @@ reviews:
       Between the outstanding service from Sonia and the incredible quality of the food, this was easily a five-star experience. Highly recommend, and we’ll definitely be coming back!
   - name: "Vlad Kovryga"
     rating: 4
-    date: "2026-06-15"
     comment: |
       I had the deep-fried cauliflower and the pad thai. The cauliflower is breaded and it wasn't bad, but it could certainly be better in terms of flavor. The pad thai was okay, because the prawns and the chicken were just flavorless. The sauce on the outside doesn't help much because you bite into the meat and there is nothing. Service was great!
   - name: "Baba Jaka"
     rating: 5
-    date: "2026-03-20"
     comment: |
       Siam Thai is a great spot for anyone looking for authentic Thai cuisine with peace of mind—they clearly state that all their menu items are halal, which is a big plus.
       
@@ -62,7 +58,6 @@ reviews:
       Note: they said only the St. Albert Trail branch is halal.
   - name: "jr harv"
     rating: 2
-    date: "2026-07-06"
     comment: |
       Ordered from Uber Eats. Not sure why a lot of restaurants recently think it’s okay to send out food that is literally 80% noodles and 20% the actual meat and veggies. Also was under the impression that stir fry would come with rice, but instead it’s allllll noodles. Sure, the food was tasty, but my mom hates noodles which is why we decided to go for the stir fry anyways. Dont get me started on how rice is $5!!!! Separately from the curry!!!! what is that???? unimpressed with how i paid $20 for half of a meal basically. pic attached is my mom picking out the meat and veggies vs whats noodles.
 ---

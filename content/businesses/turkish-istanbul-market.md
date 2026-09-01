@@ -32,27 +32,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Dilek Demir"
     rating: 5
-    date: "2026-07-06"
     comment: |
       I love it so much! I definitely recommend it to everyone. I bought more this time because I was almost out. Just giving you a heads-up!🙂👍
   - name: "Brigitte Sideroff"
     rating: 5
-    date: "2026-07-25"
     comment: |
       Very friendly and a nice variety of items authentically Turkish. Pemba makes delicious simit! Will definitely be back for more and looking forward to seeing the new items that are brought in.
   - name: "Penbe Cetin"
     rating: 5
-    date: "2026-07-06"
     comment: |
       I bought turkish  yufka it's soo good
   - name: "Umm Huraira"
     rating: 5
-    date: "2026-07-23"
     comment: |
       I was in here yesterday and the people are so kind, the food is delicious and the prices are amazing! I havent tried all the food yet, but what I have tried so far is delicious 😋
   - name: "Mike Hammill"
     rating: 5
-    date: "2026-08-08"
     comment: |
       Very clean store, good selection and friendly service.
 ---

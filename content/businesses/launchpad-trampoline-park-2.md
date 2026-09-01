@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Miranda Rehaume"
     rating: 5
-    date: "2026-02-14"
     comment: |
       Had a great experience here!!
       We were a last minute booking (2 days)
@@ -47,24 +46,20 @@ reviews:
       Give that man a raise !!
   - name: "Irma Trottier"
     rating: 5
-    date: "2026-06-20"
     comment: |
       This place is great for birthday parties. It is so easy to manage the kids if you label their shirts as to which birthday party they belong to. The individual party room helps because the kids come back to the room to have quiet while they eat their food
       It gives them the opportunity to visit with one another. They have a blast using the facility and time goes by fast.
       My grandson's birthday party was a great success!😊
   - name: "Sleepyjane"
     rating: 5
-    date: "2026-03-01"
     comment: |
       Went in on a wed the kids had a great time.  It was a deal day 3hr for the price of 1 and it was under 20 dollars. We had to buy socks i was thinking they would cost too much but under 5 dollars. They have a party area,  trampolines, little kid area and a couple claw games.  Great afternoon out with kids. Staff super friendly.
   - name: "Amanda Falls"
     rating: 5
-    date: "2026-03-28"
     comment: |
       My kids love the glow jumping! Always a blast! The new yarn structure is super  fun! Don't forget to wear white or bright!
   - name: "Grap Fard"
     rating: 5
-    date: "2026-07-05"
     comment: |
       We had a great time at launchpad. It started off with amazing check-in service at the front desk. The place is clean and organized for all ages to enjoy time together.
 ---

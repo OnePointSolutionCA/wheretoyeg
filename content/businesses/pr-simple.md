@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Mughal Foods"
     rating: 5
-    date: "2026-06-20"
     comment: |
       We had a wonderful breakfast dining experience. Caroline was absolutely amazing, attentive, and made us feel very welcome from start to finish.
       
@@ -40,22 +39,18 @@ reviews:
       We like the interior very clean and inviting, will definitely be back there again.
   - name: "Ashley St. Jean"
     rating: 4
-    date: "2026-06-12"
     comment: |
       The food we ordered was delicious. Grateful for the sampled OJ we got, it’s been so long since we’ve had fresh squeezed. We arrived on a Tuesday morning around 9:30, wasn’t busy at all. We were seated somewhere more secluded. The waitresses were so friendly with my friends daughter and new born. They brought the toddler stickers, and treated her with so much care. We really enjoyed the food, service and atmosphere. But giving 4 stars because there’s no change table in the bathroom and my friend had to put her baby on the floor to change is diaper.
   - name: "Megs Muzza"
     rating: 5
-    date: "2026-07-04"
     comment: |
       Absolutely refreshing, clean, open and welcoming atmosphere. Staff were extremely welcoming & joyful. The vanilla cap was delicious,  espresso chocolate pancakes arrived with steam coming off the pancakes when cutting into them (the espresso creme was mouth watering delightfulness), and the avocado toast with salmon was perfection, some added bacon on the side. Will definitely be back.
   - name: "Jace Lefler"
     rating: 5
-    date: "2026-06-08"
     comment: |
       First time visiting this restaurant. It is conveniently located in the Kingsway Mall with its own Separate entrance. The decor is upbeat And is exceptionally clean. The host Was very friendly And courteous to ensure My stay was pleasant I thoroughly enjoyed the vegetarian omelette That I ordered. The menu Has many wholesome Foods to choose from, I highly suggest Give it a try, If you're in the area.
   - name: "Calista Williams"
     rating: 3
-    date: "2026-05-14"
     comment: |
       Our breakfast experience was a bit mixed. There were definitely some highlights — the French toast was excellent, and the breakfast bowl I ordered was really good as well. The smoothies and juices were also fresh and tasted great. Unfortunately, there were a few issues with the food. One order of potatoes came out noticeably undercooked, almost half cooked, which was disappointing. The eggs also weren’t prepared as requested , the poached eggs ordered medium weren’t cooked properly, and the scrambled eggs had a very slimy texture that wasn’t enjoyable. Another downside was the service after the food arrived. Our server was pleasant overall and funny but once our meals were brought out, no one came back to check on us, which made it difficult to mention the issues. There were some strong points, but consistency and follow-up could definitely improve the overall experience.
 ---

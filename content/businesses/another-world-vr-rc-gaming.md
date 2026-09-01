@@ -30,13 +30,11 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Mary"
     rating: 5
-    date: "2026-08-06"
     comment: |
       This place was so much fun!! My husband and I went for a date night and we both loved it. Highly recommend for your next date night, girls night or guys night out!
       Also the RC construction zone was so cool!!
   - name: "Genevieve Tejada"
     rating: 5
-    date: "2026-08-07"
     comment: |
       We had such an amazing time at Another World VR! From the moment we arrived, the staff were welcoming, friendly, and took the time to explain everything clearly. The VR experience itself was incredible—immersive, exciting, and unlike anything we had done before.
       
@@ -45,17 +43,14 @@ reviews:
       If you're looking for a unique date night, family outing, or activity with friends, I highly recommend Another World VR. We'll definitely be back!
   - name: "Ashir Fazal"
     rating: 5
-    date: "2026-08-31"
     comment: |
       The VR experience was too good!
   - name: "Somto Obiekwe"
     rating: 5
-    date: "2026-08-30"
     comment: |
       Amazing experience! Had so much fun and Rutvik was really helpful. Totally recommend!
   - name: "karampreet singh"
     rating: 5
-    date: "2026-08-30"
     comment: |
       Great experience
 ---

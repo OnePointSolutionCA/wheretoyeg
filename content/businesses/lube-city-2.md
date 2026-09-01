@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Scott C"
     rating: 5
-    date: "2026-06-16"
     comment: |
       I had a positive experience regarding the oil change service I recently received at this location.
       
@@ -41,23 +40,19 @@ reviews:
       Thanks, Sheldon, Ryan and team!
   - name: "N B"
     rating: 5
-    date: "2026-04-23"
     comment: |
       I had a great experience getting my oil changed—Ringo did an excellent job! He was professional, efficient, and clearly knew what he was doing. Everything was handled smoothly, and I really appreciated the attention to detail. It’s not always easy to find someone you can trust with your car, but Gringo definitely delivered. Highly recommend his service!
   - name: "Kerry MacQueen"
     rating: 5
-    date: "2026-05-10"
     comment: |
       They were great did my oil change and tires, very friendly fast and just all around great, 🥰
       Ringo, Mariya, Ryan they were all amazing, thanks so much 4 everything
   - name: "angie santillan"
     rating: 5
-    date: "2026-07-14"
     comment: |
       Staff Ringo provided excellent service. He was friendly, professional, and efficient. My oil change was completed quickly, and the entire experience was smooth and hassle-free. Thank you, Ringo, for the great service!
   - name: "Brandy Chamzuk"
     rating: 5
-    date: "2026-08-02"
     comment: |
       Absolutely incredible service both in the actual vehicle, and the customer service area!  Sheldon made my experience worry free, and really enjoyable! Can’t say enough about this lube city location.
 ---

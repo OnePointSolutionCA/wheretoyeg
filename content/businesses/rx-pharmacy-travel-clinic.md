@@ -30,27 +30,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Pearl Motkoski"
     rating: 5
-    date: "2026-03-03"
     comment: |
       Amazing travel vaccine experience! Peter was able to identify which travel vaccines I needed, check insurance and schedule appointments all through email. Sara administered our vaccines and it was painless. She has a technique that helps you barely notice the needle prick. It’s been a seamless process and I would highly recommend it to anyone needing vaccines for travel.
   - name: "Saidy Abdullah"
     rating: 5
-    date: "2026-04-15"
     comment: |
       We came for our traveling vaccines, no consult fees, no hidden or extra fees, Peter was very knowledgeable and caring with all of us. We definitely recommend coming here for any travel vaccines or any pharmacy needs. Very affordable and good service. Thank you.
   - name: "carly dunajtschik"
     rating: 5
-    date: "2025-12-29"
     comment: |
       Excellent service and communication, I can not recommend this travel clinic enough! Peter, the pharmacist, offered a complimentary consultation via email and was easily accessible by phone to answer any questions. He is kind, personable and handled my fear of needles with grace. Direct billing was seamless. Thank you for the comfortable and enjoyable service!
   - name: "Noemie Laganiere"
     rating: 5
-    date: "2026-02-21"
     comment: |
       I contacted Rx Pharmacy about vaccination requirements for an upcoming trip and I am so happy with the service we received! Peter contacted me right away with tons of information and made booking an appointment extremely easy. The appointment itself was super quick and Peter answered all of our questions. Would definitely recommend this pharmacy to anyone!
   - name: "OJ"
     rating: 5
-    date: "2025-12-07"
     comment: |
       We first visited this travel clinic in 2023 before a trip outside Canada, and we had a good experience then, though I can’t recall the pharmacist’s name. When we returned recently, we were assisted by Peter, and he was excellent.
       

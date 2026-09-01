@@ -32,27 +32,22 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Mridul Krishnan"
     rating: 5
-    date: "2026-02-19"
     comment: |
       visited Awash Ethiopian Restaurant for the first time and had a great experience. The food was delicious, flavorful, and authentic. Everything tasted fresh and well-prepared. The service was also very good -friendly, attentive, and welcoming. Highly recommend if you’re looking to try Ethiopian food!
   - name: "Kevin Quach"
     rating: 4
-    date: "2026-04-18"
     comment: |
       Exact opening hours may vary, we went at 12:30PM on a Saturday but looked close. Luckily stuck around a bit and a worker said the crew was on the way. Got the veggie platter with injera (a spongy, slightly sour flat bread) and zilzil tibs (charred rib eye) with rice. Injera was really good would recommend over the rice. Ethiopian coffee as an after meal was good too.
   - name: "Punk Monk"
     rating: 5
-    date: "2026-08-08"
     comment: |
       Great veggie platter! Friendly service. I love the atmosphere except they had a TV on. Other than that, absolutely lovely and will definitely be back!
   - name: "Patrick Tsang"
     rating: 5
-    date: "2025-01-03"
     comment: |
       Awash is a fantastic spot for authentic Ethiopian cuisine! The injera is perfectly tangy and pairs beautifully with their rich and flavorful stews. The vegetarian platter is a standout, offering a variety of vibrant and delicious dishes. The warm, welcoming atmosphere and attentive service make it a great place to enjoy a communal and satisfying meal.
   - name: "AJ asmine"
     rating: 5
-    date: "2024-06-26"
     comment: |
       Went on an Oilers game night and although it was empty, the atmosphere was uncluttered and inviting. Waitress made sure we were comfortable and the food was delicious as it was something we had never tried before!
       

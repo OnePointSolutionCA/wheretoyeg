@@ -33,27 +33,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Samet Celik"
     rating: 5
-    date: "2025-01-02"
     comment: |
       Amazing place with Turkish Baklava 🙏🏻
   - name: "peridem abletnur"
     rating: 5
-    date: "2024-10-29"
     comment: |
       I love it. It's really great, and teaches us Uyghur culture and language, as well as Islamic knowledge.
   - name: "RAFE SHAFQUAT"
     rating: 5
-    date: "2024-10-31"
     comment: |
       It is very cordial for the youth and dedicated to developing society through a decent manner. Social organization.
   - name: "Sukru B."
     rating: 5
-    date: "2023-12-14"
     comment: |
       I love my brothers
   - name: "Ali Pasha"
     rating: 1
-    date: "2018-01-11"
     comment: |
       Always close
 ---

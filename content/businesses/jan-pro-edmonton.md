@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Petra Lucas"
     rating: 5
-    date: "2026-06-23"
     comment: |
       We have been very pleased with the janitorial services provided at our property in Spruce Grove. Their team is reliable, professional, and consistently maintains a high standard of cleanliness throughout the building. Common areas are always well cared for, and any special requests are handled promptly and efficiently.
       
@@ -39,12 +38,10 @@ reviews:
       I would highly recommend their services to any property manager or business looking for a dependable and thorough cleaning company.
   - name: "Alexandra Kulak"
     rating: 5
-    date: "2026-06-01"
     comment: |
       Warren is the JanPro cleaning professional for our very busy gym. Warren is thorough, quick and efficient. He is here early on the weekends to make sure everything is sanitary for our weekend gym-goers, always ready with a smile and Hello.  He is a valued member of our AF Stony Plain Team!!
   - name: "Gail G"
     rating: 1
-    date: "2026-04-24"
     comment: |
       Zero stars! Terrible company. It’s a franchise, so there is no accountability. The level of unprofessionalism was shocking from start to finish. Staff were clearly uninterested in doing their jobs, cutting corners and acting lazy instead of providing even basic service. On top of that, the overall quality was absolutely filthy, it felt like cleanliness and standards were completely ignored.
       
@@ -53,12 +50,10 @@ reviews:
       I would not recommend this place to anyone. Save your time, money, and frustration, and go somewhere that actually values its customers and takes pride in what they do.
   - name: "Monica Sienkiewicz"
     rating: 5
-    date: "2026-02-04"
     comment: |
       We hired Jan-Pro to clean our office and they did a fantastic job. Shawn was amazing to deal with when providing a quote and helping us figure out what we needed for our move. Anagel and Rogie , were rockstars on the day of, they both did a fantastic job with the space and in amazing time. Highly recommend!
   - name: "Jodi Schott"
     rating: 5
-    date: "2026-05-13"
     comment: |
       We have been using Morad at Jan-Pro for a few months now and are quick happy with the service provided!
 ---

@@ -31,12 +31,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Bibi Valieva"
     rating: 5
-    date: "2026-05-07"
     comment: |
       Best Jamaican food i have had in the city! Tried the oxtail and went back next day to try the jerk chicken. Phenomenal service as well and the banana pudding is a great treat. Would recommend for a quick lunch or a dinner with family!
   - name: "Kuwandika Matowe"
     rating: 5
-    date: "2026-07-04"
     comment: |
       If I could give more than 5 stars, I absolutely would.
       Iland Vybes Jamaican Cafe is hands down my favorite restaurant in Edmonton—not just my favorite Caribbean restaurant, but my favorite restaurant, period. Every single time I eat here, I'm blown away. The portions are incredibly generous for the price, the quality is consistently outstanding, and the flavor is on another level. You can genuinely taste the love and authenticity in every bite.
@@ -44,7 +42,6 @@ reviews:
       The atmosphere is warm, and the food keeps me coming back again and again. If you've never been here, you're seriously missing out. Do yourself a favor and experience it for yourself—you won't regret it.
   - name: "Bryanna"
     rating: 4
-    date: "2026-06-30"
     comment: |
       Happy to see a Jamaican place downtown Edmonton. I got the Jerk wrap and it was great! The mix of greens on the wrap and the flavour of the sauce is perfectly complimentary to the jerk chicken.
       
@@ -60,12 +57,10 @@ reviews:
       Happy to support this family business and will be coming back for oxtail, jerk chicken, goat curry and plantain. 👏🏽
   - name: "Makayla J"
     rating: 5
-    date: "2026-07-21"
     comment: |
       I have been dying to try a new Jamaican restaurant, as my favourite one closed. I have to say this is my new favourite place and I can’t wait to bring my family here!! The meat is so flavourful and tender, rices and peas are cooked perfectly, and the slaw had a great ratio! Thank youuu Iland Vybes!!❤️
   - name: "Vanessa"
     rating: 1
-    date: "2026-06-20"
     comment: |
       3 weeks ago I ordered Oxtail and it was completely soft and mashed out nothing to chew. Literally melted every bit of structured was gone. I have had there oxtail before and it was never like that so I went back lastnight and ordered stew pork. HONESTLY APPAULED FOR $28 and 4 big skin and about 3 meat. WHEN I SAY NEVER AGAIN!
 ---

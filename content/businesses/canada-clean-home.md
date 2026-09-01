@@ -30,28 +30,23 @@ date_listed: "2026-08-30"
 reviews:
   - name: "hasi"
     rating: 5
-    date: "2026-07-02"
     comment: |
       I called them at the absolute last minute and they were able to fit me in right away. They did a fantastic job cleaning my carpets and everything looks completely great. They were very fast, professional, and the carpets dried quickly so I could get my rooms put back together the same day. Highly recommend their service!
   - name: "DSM MOTIVATIONAL"
     rating: 1
-    date: "2026-06-20"
     comment: |
       A very bad Company for cleaning. They sent one man who doesn't know how to clean Matress. He cleaned less than 10 minutes then he left. See what their job looks like.
       I believe they don't have products to use when they are cleaning. I don't recommend anyone for this Company unless you want bad job go for them.
   - name: "Liliya Poltoratskaya"
     rating: 5
-    date: "2026-07-31"
     comment: |
       Amazing experience! The carpets came out spotless and smell so fresh. The team was friendly, professional, and efficient. Highly recommend this company!
   - name: "Scott Novak"
     rating: 5
-    date: "2026-02-19"
     comment: |
       Absolutely fantastic carpet steam cleaning service! Our carpets were heavily stained and dull, but they now look and smell brand new. The team arrived on time, worked efficiently, and paid close attention to every detail. They removed stubborn spots we thought were permanent. Professional, friendly, and reasonably priced. We’ll definitely use them again and highly recommend their service!
   - name: "Kris Murphy"
     rating: 5
-    date: "2026-03-20"
     comment: |
       Had Canada Clean Home out to Steam clean my carpets prior to moving in to our home. They did an excellent job!. Carpets look fresh and new. Online booking and estimate was simple to do. Pricing was very reasonable and worth the investment. Floors were protected and wall corners protected prior to starting.  Friendly and knowledgeable technician who arrived on time. Would highly recommend this company. Thank you!
 ---

@@ -30,12 +30,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Chris Arvin"
     rating: 5
-    date: "2026-04-13"
     comment: |
       April 13, 2026 - I had been wearing my glasses for two years when the temple tip broke. I randomly went to Helio to check if they could repair it. Ray assisted me and provided multiple options, and I was pleasantly surprised that the repair ended up costing me nothing. He truly went above and beyond. Thank you for your excellent service and support! everyone there was very professional.
   - name: "Alanna D'Souza"
     rating: 5
-    date: "2026-06-12"
     comment: |
       We had a really great experience wit Dr McKenzie! They treated us all with 5 star service. Everything was quick and efficient! The staff was kind and helpful. Dr McKenzie was attentive, thorough, super friendly and personable!
       
@@ -44,12 +42,10 @@ reviews:
       Thank you to all of the team! It makes a world of a difference as a parent to come to appointments and see that your little is treated with the same importance as an adult!
   - name: "Ekansh Agarwal"
     rating: 5
-    date: "2026-06-09"
     comment: |
       Amazing environment; very friendly, patient, and accommodative. Dr. Ross is very knowledgeable, listens patiently to all the questions, and clears all the doubts. Staff including Ray and Holly are cheerful and helpful. Good selection of glass frames as well. Recommend them!
   - name: "Shaylee Cardinal"
     rating: 5
-    date: "2026-04-01"
     comment: |
       I had an excellent experience at Helio Optometrist. From the moment I walked in, the entire team made me feel welcomed and cared for.
       
@@ -62,7 +58,6 @@ reviews:
       Overall, I highly recommend this clinic to anyone looking for top-quality eye care and exceptional customer service!
   - name: "Nataliya Rudyk"
     rating: 5
-    date: "2026-06-20"
     comment: |
       I have nothing but positive reviews for the following clinic. Yesterday, I was accepted for an emergency appointment without scheduling. The service and the doctor (Mackenzie) did  an outstanding job. Highly recommended.
 ---

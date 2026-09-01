@@ -30,17 +30,14 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Vicky Chen"
     rating: 5
-    date: "2022-12-20"
     comment: |
       The food is very tasty and flavorful! I love their fried chicken and soju. The portion is very generous compared to other Korean restaurant in town. The boss here is very thoughtful and welcoming. He turned on the external heater for us and offered us a side dish for free when we visited the place in a bleak winter night. Strongly recommend!!
   - name: "genfunk"
     rating: 4
-    date: "2025-09-25"
     comment: |
       Near campus, decent Korean food at generally affordable price. Pictured is their beef bibimbap. There is seating area, things are cooked up in kitchen and they call your number for food pickup. It's definitely more of an affordable food option in the area which I appreciate.
   - name: "Martin Ly"
     rating: 4
-    date: "2023-11-12"
     comment: |
       Checked it out for the first time. Was surprised to see it in H-mart tucked away. In fact there's multiple places to eat.
       
@@ -62,12 +59,10 @@ reviews:
       Overall good experience. Just wished for a few small improvements.
   - name: "Minchang Kim"
     rating: 5
-    date: "2025-11-20"
     comment: |
       One of two stores in Edmonton selling Korean ingredients and food, this store is located right next to (UOA)Alberta University. It is easy to purchase a variety of Korean fresh vegetables and food. The staff is friendly and the service is very good.
   - name: "jen"
     rating: 1
-    date: "2025-09-08"
     comment: |
       i got the mango bingsoo for $12. this is how its advertised and how we received it… 7 peices of mango… for $12? not worth your money. i would rather pay more to receive what i purchased
 ---

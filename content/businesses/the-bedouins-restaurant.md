@@ -33,17 +33,14 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Nadezhda Vasilieva"
     rating: 5
-    date: "2026-05-14"
     comment: |
       Amazing! Truly one of the best food experiences we've had in Edmonton. Very delicious, huge portions. Lots of items on the menu to choose from. Beautiful clay plates and bowls. Complimentary tea. Nice interior design. We were seated right away without a reservation. The service was friendly and fast. We don't often go to the same place twice as we like to try new things but this restaurant is on our list to visit again.
   - name: "Talwinder Maan"
     rating: 5
-    date: "2026-03-28"
     comment: |
       The food was really good, everything tasted fresh and well-prepared. The place itself was very hygienic and clean, which made the dining experience even better. The staff were extremely friendly and welcoming, making us feel comfortable throughout. Definitely a spot worth visiting!
   - name: "Ghazal Lotfi"
     rating: 5
-    date: "2025-10-05"
     comment: |
       We celebrated my dad’s birthday at The Bedouins Restaurant  and had a great experience. The food was delicious. The soup was amazing. The hummus, muhammara, and fresh pita were also amazing.
       
@@ -52,7 +49,6 @@ reviews:
       Overall, a great spot for Middle Eastern food and a relaxed, family-friendly vibe. We’ll definitely be back!
   - name: "Yo Yo"
     rating: 5
-    date: "2025-08-03"
     comment: |
       Tucked away in the North Side, The Bedouins Restaurant serves up a bold selection of North African meat dishes — fish, chicken, beef, lamb, you name it.
       
@@ -72,7 +68,6 @@ reviews:
       Overall, it was a delightful brunch with my buddies — hearty food, great company, and a cozy vibe.
   - name: "Hussein Abdi"
     rating: 5
-    date: "2026-07-19"
     comment: |
       I have been coming here for years now and the service has always been top notch. The lamb haneeth is awesome and the cafe side has the best milkshakes.
       

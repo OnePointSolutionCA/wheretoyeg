@@ -32,7 +32,6 @@ date_listed: "2026-08-18"
 reviews:
   - name: "Rayne-Anne Latchford Oosterveld"
     rating: 3
-    date: "2026-07-28"
     comment: |
       The waterpark is truly so fun.
       But it is too expensive. If you have the extra money to enjoy it like we were able to it makes for a great few hours.
@@ -41,18 +40,15 @@ reviews:
       We did also rent a Cabana and I would do that again everytime if taking kids. They have private storage that is quite large to put your things. There's also a separate Cabana entrance so you don't have to go through the main pool entrance if you pre-buy. And then there's also a bathroom close by that's got a code for only people who have rented the Cabana. So for us it was really great. Because the kids were able to go change and all of our stuff was close by and not in the locker room. And then we had a place to chill and have food and hang out when we wanted to take breaks. The Cabana is surprisingly, we're not astronomically priced. But in conjunction with the amount of costs you're already putting out to be there and have food, it ends up being far too much still.
   - name: "Bon Kramer"
     rating: 4
-    date: "2026-05-22"
     comment: |
       It was a beautiful 3rd birthday for my grandbaby last 5/17/26 the wavepool was so fun and had a great time with the whole family.
       Staff are nice and they try to maintain cleanliness 👍 and very watchful lifeguards and attentive!
   - name: "JPA Par"
     rating: 5
-    date: "2026-03-26"
     comment: |
       Was awed by the size of this place! It's enormous! The wave pool and water slides were amazing, and was an epic experience. Edmonton is now one of my favorite vacation destinations in North America.
   - name: "Jerry"
     rating: 1
-    date: "2026-07-24"
     comment: |
       The Waterpark is a money grab. It cost my daughter and I around $150 to get entry into the wterpark. Then $15 for a small locker that barely contained her and my bag.
       
@@ -63,7 +59,6 @@ reviews:
       Unless you want to just blow some money, I would suggest people start boycotting the Waterpark, until the owners can bring it up to a more professional level and the prices down. I won't be going back.
   - name: "Tetiana Khovkhun"
     rating: 1
-    date: "2026-03-22"
     comment: |
       In my personal opinion, this is nothing but a money grab.
       We paid around $200 for two adults and one 5-year-old child. Naturally, you expect that for this price you’ll get a decent level of service and an enjoyable experience. But in reality, it’s just a regular pool with nothing “wow” about it.

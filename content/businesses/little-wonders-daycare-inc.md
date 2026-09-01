@@ -30,14 +30,12 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Betsy Patty"
     rating: 5
-    date: "2026-04-14"
     comment: |
       I highly recommend this place if you are looking for a safe learning space for your little ones. I don’t think I’ll ever fully be able to put into words what this daycare has meant to me and my family.
       
       They showed up for us in ways I’ll never forget. They cared and continue to care for our boys with so much patience and understanding. They are incredibly accommodating and understanding. Thanks LWD for all that you do ❤️
   - name: "Dianne Betsy"
     rating: 5
-    date: "2026-04-14"
     comment: |
       I honestly don’t know how I would have made it through this past season of my life without this daycare.
       
@@ -48,14 +46,12 @@ reviews:
       Leaving your kids anywhere can be hard, but here, I feel at peace knowing they’re safe, cared for, and in good hands. I’m beyond grateful for everything they’ve done for our family. ❤️ -ThePasma's
   - name: "Lindsay Senko"
     rating: 5
-    date: "2025-08-09"
     comment: |
       Both of my kids have attended this daycare. My daughter started in 2021 and she absolutely loved it! They took such good care of her. She doesn't anymore as she is going into Grade 2 and we have out of school care with my mom.
       
       But my son is 4 years old and he still goes to this daycare! He loves going and he loves all the teachers there. He has built a special bond with Teacher Harjot. I know when I drop him off in the mornings, that he is getting the best care and this makes my life so much easier knowing that I can trust them completely. Thank you Little Wonders Daycare for treating my babies like your own!
   - name: "KUSHAL KUSHAL"
     rating: 5
-    date: "2025-05-01"
     comment: |
       We had the most wonderful experience with this daycare!
       From the very first day, the staff made us feel like family. My toddler was in the toddler room and absolutely thrived in the warm, caring, and playful environment. Each day was filled with learning, laughter, and love.
@@ -65,7 +61,6 @@ reviews:
       I truly couldn’t have asked for a better place for my little one. Highly recommend to any parent looking for a loving and supportive daycare!
   - name: "Pam P"
     rating: 5
-    date: "2025-09-22"
     comment: |
       Little Wonders has been amazing with our toddler. The staff are so kind and caring. Special thanks to Teacher Simmi and Teacher Myra — you’ve made a big difference. Our child always wants to go to daycare and comes home happy. Thank you!
 ---

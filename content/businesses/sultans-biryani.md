@@ -33,7 +33,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Parm K"
     rating: 5
-    date: "2026-06-18"
     comment: |
       so i've been searching for authentic biryani for a while now
       and this place  first time  trying it blew my mind.
@@ -46,12 +45,10 @@ reviews:
       he deserves a lot of credit.
   - name: "Sanav Chopra"
     rating: 5
-    date: "2026-03-26"
     comment: |
       ONE OF THE BEST BIRYANI IN TOWN!! Don’t think twice you will not be disappointed, portion size so big that one biryani is good for two… met the sultan bhai he was so welcoming and knowledgeable about what he’s doing there and trust me he’s doing it right just a suggestion if you could add one more piece in your 1111g biryanis that would be great.
   - name: "Adwaith Din (Din)"
     rating: 4
-    date: "2025-12-12"
     comment: |
       Saw this in google map and came for the 15$ biriyani. As a south Indian my taste of biriyani is totally different. May be that’s why I’m giving 4 ⭐️. Apart from that the food, atmosphere, service everything is good. Keep going guys.
       
@@ -60,7 +57,6 @@ reviews:
       The girls who did the serving was also good 😊.
   - name: "harpreet singh"
     rating: 5
-    date: "2026-06-03"
     comment: |
       If anyone knows how to make biryani, it's Sultan's Biryani! Our absolute favorite is the lamb biryani, it's always flavorful, juicy, and cooked perfectly.
       
@@ -71,7 +67,6 @@ reviews:
       Delicious, authentic, and consistently amazing. Sultan really knows how to do biryani right. Highly recommended! ⭐⭐⭐⭐⭐
   - name: "Cherry Chen"
     rating: 5
-    date: "2025-11-29"
     comment: |
       Delicious fragrant biryani. Took only 45 minutes from ordering to delivered piping hot (in awful snowy weather conditions, too.)
       Portions are generous and Iqbal is very friendly. Delivery was only $4 (to Northside) and they took eTransfer payment. Very fast, good value, and filling. Would order again for sure.

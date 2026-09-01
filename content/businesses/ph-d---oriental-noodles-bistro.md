@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Patrick Lam"
     rating: 5
-    date: "2026-06-26"
     comment: |
       If anyone asks me where to get the best pho in Edmonton, this is probably the one place I hesitate to recommend... simply because I don't want it to become even busier than it already is!
       
@@ -47,7 +46,6 @@ reviews:
       Hopefully this little secret doesn't become too popular... because I'd still like to be able to grab a bowl without waiting forever!
   - name: "Patrick Lam"
     rating: 5
-    date: "2026-04-25"
     comment: |
       Pho Du is, without question, one of the best pho places in town.
       
@@ -62,7 +60,6 @@ reviews:
       Honestly, if you’re looking for the best value pho in town, Pho Du is very hard to beat.
   - name: "Carly"
     rating: 5
-    date: "2026-04-08"
     comment: |
       If you love pho, you need to try Pho Du! 🫶🏻
       
@@ -77,7 +74,6 @@ reviews:
       Hands down one of the best spots in town.
   - name: "S&M Crossman"
     rating: 5
-    date: "2026-01-26"
     comment: |
       We are repeat customers - our boys love the spicy soup!
       
@@ -90,7 +86,6 @@ reviews:
       food: always fresh and flavourful. Pho is not greasy and great flavour. Great portion sizes. Spring rolls fresh & crispy. Salad rolls fresh and full.
   - name: "Fovea Wong"
     rating: 5
-    date: "2026-04-12"
     comment: |
       After trying quite a few pho spots around the city, I can honestly say Pho Du is one of those places that quietly earns your respect.
       

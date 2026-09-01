@@ -32,27 +32,22 @@ date_listed: "2026-08-20"
 reviews:
   - name: "abukar mohamud"
     rating: 5
-    date: "2026-08-03"
     comment: |
       Great halal grocery store Fresh meat, friendly staff and excellent service. Highly recommend
   - name: "Abdi Noor"
     rating: 5
-    date: "2026-06-19"
     comment: |
       Fantastic East African grocery store Great variety of meat rice pasta and spices Friendly staff and fair prices. Five stars all the way
   - name: "Fahab Babs"
     rating: 5
-    date: "2026-04-26"
     comment: |
       This is a very good store everything is clean, well-organized, and easy to find. The staff are friendly and helpful, making the shopping experience even better. I would definitely recommend this place to others
   - name: "Guled Adan Abdi"
     rating: 5
-    date: "2026-04-19"
     comment: |
       Fresh halal meat, clean store, and great service. The staff are always friendly, and the prices are fair. Definitely one of the best halal stores in Edmonton. I’ll definitely be coming back.
   - name: "Liban Abdilahi"
     rating: 5
-    date: "2026-08-03"
     comment: |
       Good customer service and such a nice people
 ---

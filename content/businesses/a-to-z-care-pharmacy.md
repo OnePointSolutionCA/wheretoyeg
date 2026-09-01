@@ -30,29 +30,24 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Wanderlust Gorgeous"
     rating: 5
-    date: "2026-01-27"
     comment: |
       The best pharmacy in the city! Deepak the pharmacist takes his time answering any concerns and addresses immediately.  He is truly the best! Thank you!
   - name: "Oliver Mills"
     rating: 5
-    date: "2026-01-17"
     comment: |
       Knowledgeable, friendly pharmacist here! Dipak has been amazingly helpful as I've navigated insurance changes and various treatments. Highly recommend anyone in the area to switch over.
   - name: "Tim Atrazhev"
     rating: 5
-    date: "2025-01-14"
     comment: |
       Great pharmacy , staff is very friendly and helpful. They helped me get the right medication quickly. Highly recommend it here.
       
       Also there are no lines like typical pharmacies
   - name: "Corrie Melloy"
     rating: 5
-    date: "2025-07-03"
     comment: |
       Dipak is amazing!! He's truly very knowledgeable, kind, caring, sincere, professional & a very efficient pharmacist. He always goes about and beyond to be helpful and of service. Highly recommend this pharmacy!!
   - name: "Benoit Roy"
     rating: 5
-    date: "2026-04-24"
     comment: |
       Amazing pharmacy, the pharmacist is very knowledgeable and friendly. Amazing service with care each time.
 ---

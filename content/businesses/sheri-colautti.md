@@ -30,29 +30,24 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Claudia Scanga"
     rating: 5
-    date: "2026-06-24"
     comment: |
       We could not have asked for a better photographer! From the moment the day began, everything flowed seamlessly. Sheri’s professionalism, warm personality, and incredible eye for detail made everyone feel comfortable and at ease.
       
       Sheri has a true talent for understanding light, angles, and timing, always finding the perfect shot without ever making things feel forced. Sheri captured every special moment beautifully, from our family photos to the candid moments. We are so grateful for the memories Sheri captured and would highly recommend Sheri to anyone looking for an exceptional photographer.
   - name: "Kailey Genereux"
     rating: 5
-    date: "2026-06-09"
     comment: |
       Sheri did the photos for our engagement and wedding day last August. I truly believe she was the best person for the job. The photos for both sessions came out beautifully. We received both sessions back in a very timely manner. Both my husband and I are a bit awkward behind the camera and Sheri made both of us feel so natural and comfortable. If you are considering moving forward with Sheri I would highly recommend her services. She is absolutely fantastic.
   - name: "Suzanna Wong-Nash"
     rating: 5
-    date: "2026-05-06"
     comment: |
       Sheri did branding photos for my Physiotherapy clinic. She made everyone feel so comfortable and captured awesome pictures of our staff and clinic space. I use the photos for our website and social media pages. They are a perfect blend of professional, but show our personality and fun side. I would definitely recommend Sheri for business/branding photography!
   - name: "Baylee Dawes"
     rating: 5
-    date: "2026-05-05"
     comment: |
       Sheri is absolutely wonderful to work with. We have been lucky enough to have Sheri capture our family sessions, our engagement photos and now our wedding day and we will continue to utilize her for capturing all of our memories going forward. Her ability to make you feel at ease throughout the photos and capture your memories so beautifully is truly so special. We could not recommended Sheri enough to capture all of your important moments and have the most incredible photos to cherish forever.
   - name: "Cassidy Davey"
     rating: 5
-    date: "2026-05-06"
     comment: |
       We truly couldn’t have asked for a better photographer than Sheri for our wedding and engagement photos. From the very beginning, she made us feel completely comfortable and at ease, which really shows in every single image she captured.
       Sheri has an incredible talent for capturing moments - She managed to document all the big, emotional moments while also catching the small, in-between details that made our day so special. Looking through our photos feels like reliving the entire day from start to finish.

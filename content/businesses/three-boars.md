@@ -30,22 +30,18 @@ date_listed: "2026-08-26"
 reviews:
   - name: "Kelsey Chow"
     rating: 5
-    date: "2018-07-25"
     comment: |
       Delicious fresh food with a farm to table concept. Lots of delicious things to try but you need to come in a group and share the food to get the best experience. The menu changes up quickly so you can come back and enjoy over and over! Drink menu is tasty with lots of local breweries and innovative cocktails
   - name: "Joy C"
     rating: 5
-    date: "2019-09-07"
     comment: |
       The food was delicious!! We tried the charcuterie board and bread, endive salad, hot sauce Korea wings, brussel sprouts, the pork and chicken liver bomb. All so good! The only thing that wasn't that good were the cabbage rolls. I guess I was the traditional tomato sauce cabbage rolls. Everything else I would order again. The food is more for sharing be cause of the smaller plates. I enjoyed it and would recommend Three Boars Eatery to anyone!! Happy hour is from 5pm to 6pm!!
   - name: "Christopher Semenuk"
     rating: 4
-    date: "2018-05-01"
     comment: |
       Great space in Edmonton. Awesome atmosphere snd great service. Bar will whip up anything to your hearts content while using premium and local spirits. Food is well portioned and quite good. Mushroom egg toast is amazing! Nice place for small pates anda few drinks. Resonably priced but check for specials
   - name: "Ley Tran"
     rating: 4
-    date: "2018-01-23"
     comment: |
       My first time coming here was a year ago, and I came back this past weekend to celebrate my anniversary because we remembered it being such a lovely food and date experience.
       
@@ -70,7 +66,6 @@ reviews:
       Who knows though, maybe I'll come back next year and try again.
   - name: "Lyndsey Barton"
     rating: 4
-    date: "2017-12-19"
     comment: |
       Awesome staff, good food, amazing cocktails. Menu changes frequently, highlighting seasonality. Sat upstairs and loved the atmosphere - intimate but lively, and
       great deco amplifying the theme of the restaurant. Food highlights were the Panzenella salad and PB&J wings! A couple dishes, the pork pancake in particular, were a little heavy.

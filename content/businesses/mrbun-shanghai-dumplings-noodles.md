@@ -31,7 +31,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "ACA"
     rating: 4
-    date: "2026-05-03"
     comment: |
       Food was amazing! Up to par with DTF. The xlbs were juicy and soft. You can see Mr. Bun make xlbs fresh infront of the tables! We recommend the pork xlbs and the red oil wontons. Packed with umami flavor!
       
@@ -40,19 +39,16 @@ reviews:
       Overall really good and highly recommend! Would come back again :)
   - name: "Tim"
     rating: 4
-    date: "2026-02-26"
     comment: |
       All of the food selection was exceptional.  More than half my party thought these were the best dumplings they have had and the other half thought they were the second best - but all you need to know is the food was great.  I personally thought the “spicy” food was not very spicy despite the waitress concern for the spice heat.    You will not regret enjoying a meal here.  Good for large groups or just you and a friend.
   - name: "Lena Bou"
     rating: 5
-    date: "2026-03-16"
     comment: |
       Soup dumplings - chicken truffle: Amazing flavor! The red chili oil Wonton dish was so hot but so delicious. They can do the sauce in the side so do that if you can't handle the heat.
       
       The service was delightful, very attentive staff. Definitely going back soon!
   - name: "lisa m"
     rating: 3
-    date: "2026-06-16"
     comment: |
       I’m a bit confused by this restaurant experience overall.
       
@@ -65,7 +61,6 @@ reviews:
       We also noticed the table felt slightly sticky upon seating, which added to the experience. After leaving, we were still a bit confused, as many tables remained empty throughout our visit, making the initial wait time estimate feel unclear.
   - name: "Andrew Woo"
     rating: 5
-    date: "2026-04-19"
     comment: |
       Everything was delicious! As others have said their spice levels were on point as nothing was too spicy. Suggest truffle chicken bao, chocolate bao, sesame balls for dessert. Will definitely go back to try the other items.
 ---

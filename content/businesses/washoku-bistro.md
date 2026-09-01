@@ -32,24 +32,20 @@ date_listed: "2026-08-30"
 reviews:
   - name: "St. Joseph Pryma"
     rating: 5
-    date: "2026-05-25"
     comment: |
       First time here and it was fabulous!!  We started with the calamari and it came lightly battered with a great dipping sauce.  Absolutely lovely.  Not overpowering like at many other chain restaurants.  We ordered sushi specifically the Crisp Crunch, the Victoria’s, Tigers Eye and Aburi Salmon.  Each was magnificently crafted and just beautifully made presented.  Each had such a unique flavour.  Absolutely delicious!!!  Highly recommend!!
   - name: "Jeremy Florindo"
     rating: 5
-    date: "2026-05-03"
     comment: |
       It was our first visit to Washoku, and we were thoroughly impressed with the overall experience. The service was exceptional, and the quality of the food was consistently excellent. The server was courteous, attentive, and highly accommodating throughout our visit. In addition, the ambiance was both inviting and enjoyable, contributing to a pleasant dining atmosphere. Overall, this restaurant is highly recommended.
       
       @CHEFJ'S.COM
   - name: "Kkaaattiiieee"
     rating: 5
-    date: "2026-04-20"
     comment: |
       Got a take out order, the lady who was putting my order in the bag showed me what everything was. She was so very kind! But the sushi and sides were amazing!! The proper ratio of rice to fillings. And so delicious and fresh ♡
   - name: "Stephen Carter"
     rating: 5
-    date: "2026-06-26"
     comment: |
       Everything I ordered was incredibly fresh and flavorful. It was the perfect meal for a relaxing night in.
       
@@ -58,7 +54,6 @@ reviews:
       I am so happy I decided to order from here. It is definitely my new go-to spot for sushi in the neighbourhood.
   - name: "Alisa Presakarchuk"
     rating: 5
-    date: "2026-06-01"
     comment: |
       The server is always friendly and nice and the music in the background makes for a relaxing, homey feeling. The rolls are delicious and a generous size and they have free miso soup! They let you take your time and visit, you don’t feel rushed. Love going here with friends and family!
 ---

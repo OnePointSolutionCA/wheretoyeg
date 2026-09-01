@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Kel Shaw"
     rating: 5
-    date: "2026-06-14"
     comment: |
       Absolutely delicious ice cream. Came here with our grandson. The girls working were awesome. You can have samples. Their flavors are delicious
       
@@ -42,7 +41,6 @@ reviews:
       So creamy
   - name: "Uvindu Imash"
     rating: 5
-    date: "2026-04-12"
     comment: |
       The place has such a warm and inviting atmosphere, and it’s set in a calm, relaxing environment not too busy so you can really sit back and enjoy your time.
       
@@ -53,17 +51,14 @@ reviews:
       Highly recommend this place to anyone looking for amazing ice cream, great service, and a peaceful spot to enjoy it. I’ll definitely be coming back!
   - name: "Miss Kimchi"
     rating: 5
-    date: "2026-05-04"
     comment: |
       I come here a lot since i live close by, for very delicious ice cream and cozy atmosphere. I've tried loys of flavours and Its hard to pic a favourite. Only one i disliked was the mint chocole but i personally hate mint chocolate ice creams. Definitely recommend
   - name: "Roxanne deVries"
     rating: 5
-    date: "2026-05-30"
     comment: |
       Amazing ice cream shop! The flavors are always interesting, never sickly sweet, and so much care is put into quality ingredients. If you catch it on a beautiful evening when the entire Westmount soccer program descends on it at the same time, it can take a bit to get in, but it's well worth the wait.
   - name: "Abdulrahman Alawadhi"
     rating: 5
-    date: "2025-12-13"
     comment: |
       Tried the pistachio and Biscoff ice cream at Twice Cream and it was excellent. Both flavors were rich, well-balanced, and clearly high quality — the pistachio was nutty and smooth, and the Biscoff had that perfect caramelized depth without being overpowering.
       

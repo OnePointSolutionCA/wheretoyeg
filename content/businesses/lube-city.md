@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "John Leenheer"
     rating: 5
-    date: "2026-03-24"
     comment: |
       Knowledgeable, friendly staff, efficient drive-through service, and a clean, well-kept customer area make this Lube City in Edmonton’s NW an easy and practical stop for an oil change. Quick, convenient, and solid value.
       
@@ -53,7 +52,6 @@ reviews:
       The stay-in-vehicle service model makes this naturally more accessible for many guests. The customer service area is also clean and straightforward to navigate if needed.
   - name: "Gigi Reviews — YEG • AB • Beyond"
     rating: 5
-    date: "2026-03-10"
     comment: |
       Knowledgeable, friendly team with an efficient drive-through flow — a clean, well-maintained customer service area, quick service that lets you stay in your car, and solid value for the price.
       
@@ -77,18 +75,15 @@ reviews:
       Since most of the service happens from your vehicle, it’s naturally more accessible than many traditional shops; indoor office access is simple and clean if needed.
   - name: "Dlysh Foto"
     rating: 1
-    date: "2026-06-15"
     comment: |
       After having a couple oil changes at this location my engine started to knock, after further diagnosis at an independent shop it was determined as catastrophic lower bearing failure. The shop took out the oil filter and found it deformed and poorly fitted into the oil filter housing because it wasn't a Toyota brand filter causing erratic oil pressure. Prior to these oil changes my 2012 sienna was serviced at a Toyota dealership using  Toyota brand synthetic oil and Toyota filter every 8,000km. The Toyota 3.5L engine has no known history of failures like this and is used in may Lexus / Toyota vehicles all over the world. The Quality of materials used in may Quick Lube shops is not the same as having OEM products installed in your engine, they say filters and oil is to manufactures spec yes, but may times they use recycled oil and low quality filters in order to make higher profit margins. Be mindful when taking your vehicle to a quicky lube, their technicians are not certified red seal technicians, best to take it to your manufacturers dealer and have the heart beat of your vehicle last.
       Attached are photos of the filter that came out of the vehicle
   - name: "Heather Kuzyk"
     rating: 5
-    date: "2026-05-24"
     comment: |
       Excellent service! I arrived 20 minutes before close and was welcomed in. My attendant Henry was very friendly and polite. He was eager to clean the windshields/windows, check the tire pressure and lubricate the doors. He explained the cost and was very open to questions. He asked about specific maintenance but was not pushy and didn’t pressure me to do any unnecessary work which I had experienced before. I had a great experience with Henry and would highly recommend the 111Ave Edmonton location
   - name: "Manny Gregorio"
     rating: 5
-    date: "2026-07-22"
     comment: |
       The staff members were very customer-centric and thorough with every aspect of my oil and filter change.  Thanks to my AMA membership, the pricing was exceedingly competitive compared Jiffy Lube and others.  GREAT work!
 ---

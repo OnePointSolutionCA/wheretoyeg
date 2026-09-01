@@ -30,17 +30,14 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Krizalid"
     rating: 5
-    date: "2026-08-08"
     comment: |
       I absolutely love this place! They have a great variety of vegan products and plenty of options to choose from. Definitely a great spot to check out!
   - name: "La Lalena (Lalena)"
     rating: 5
-    date: "2026-03-26"
     comment: |
       I discovered this place just walking by and it is full of interesting asian style vegetarian products. They have tempeh and seitan proteins as well. Treats and veggie comfort food. The lady I encountered was very knowledgeable, helpful and pointed out details I would have missed without her. Worth a visit in store and they deliver too!
   - name: "Heather Mah"
     rating: 5
-    date: "2025-06-29"
     comment: |
       Lots of selections! Even their snack aisle is a little piece of vegan heaven. I highly recommend the following three items (see pictures):
       1) Black Sesame Brown Rice Wafer - if you like wafers and black sesame, I highly recommend this. It comes in packets of twos so perfect for traveling.
@@ -48,12 +45,10 @@ reviews:
       3) BBQ Sauce Soybean Slices - I love the beef jerky-like texture, plus it’s got a tinge of spiciness that makes it perfect!
   - name: "dweight K"
     rating: 5
-    date: "2024-08-05"
     comment: |
       Great Shop for anyone who are Vegan and Vegetarian. They have a lot of frozen and snack products.  Assistants Ladies are nice and friendly.
   - name: "Giulietta Kinahan"
     rating: 5
-    date: "2026-06-18"
     comment: |
       Amazing food and amazing staff! Super grateful for such a wonderful vegan/vegetarian store!
 ---

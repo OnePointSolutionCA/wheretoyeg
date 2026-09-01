@@ -31,7 +31,6 @@ date_listed: "2026-08-18"
 reviews:
   - name: "Amanda Hyde"
     rating: 5
-    date: "2026-03-10"
     comment: |
       I am biased because I love Ethiopian food already 🥰 but this restaurant is one of my top Ethiopian restaurants that I've been to in terms of food quality, and the amount of injera we were provided!
       We ordered the largest tray to share amongst four people and we all left full!
@@ -40,7 +39,6 @@ reviews:
       But overall, fantastic!
   - name: "Terrence Leung"
     rating: 5
-    date: "2025-05-07"
     comment: |
       It is my first time trying African food. We ordered two main and two coffee. It tastes good and appetising. The mains are like a wrap, but soft pancake version. While, luckily I ask them to offer me a fork, or it would be too messy for non Africans like me to have it by hand.
       
@@ -51,7 +49,6 @@ reviews:
       We will come over again and try something else.
   - name: "Kayleen F"
     rating: 5
-    date: "2026-04-27"
     comment: |
       Great food for lunch.
       
@@ -60,12 +57,10 @@ reviews:
       If you haven't had Ethiopian before, you can ask what's good. We had the spicy chicken and beef Tibbs and both were awesome. The tea was nice as well.
   - name: "Daniel Wollin"
     rating: 5
-    date: "2023-08-27"
     comment: |
       We had an amazing dinner here! Everything was full of flavour and delicious. We had the mix platter which was a great way to try many different tastes. There was also plenty of injera bread to go with the dishes. The coffee and tea that we finished our meal with was fantastic! Would highly recommend this spot, especially if you haven’t tried Ethiopian cuisine before!
   - name: "Safa Musa"
     rating: 5
-    date: "2026-08-02"
     comment: |
       The food was so delicious and same test of the original taste 😍
       The lady is so nice, she treats us with love and kindness. For sure will come again.

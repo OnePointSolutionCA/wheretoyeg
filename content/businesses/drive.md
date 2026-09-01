@@ -30,23 +30,19 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Ali Alnadi"
     rating: 5
-    date: "2026-03-16"
     comment: |
       Honestly it's my favorite Go Kart place in Edmonton. For the price, you're gonna have a really good experience. The go karts are pretty fast and the track is pretty cool. One thing I wished is that they would put the fastest people in the front, this way you don't have to pass all the people who are slow and don't understand to pullover to the side. I wish it was a little bit longer but when you're having that much fun, why would you want it to end lol.
   - name: "Markus G."
     rating: 5
-    date: "2026-07-21"
     comment: |
       Did a walk-in on a Monday for a two-seater go-cart together with my son. Were sitting in the go-cart not even 20min later! We had a blast, great fun!
   - name: "Angela V."
     rating: 3
-    date: "2026-03-26"
     comment: |
       Went to splatter verse, which is in the same location as drive. I recommend
       Getting tickets online as they only have one room which I thought there was multiple rooms. You can only book 1 hr timeslots, which is enough time.  There are lockers in the paint room where you gather all your supplies.  there is one person in there at all times. There's a washroom to wash off any paint. I asked my daughter if she would go again and she said, probably not.
   - name: "Tara Kerr"
     rating: 1
-    date: "2026-07-04"
     comment: |
       We recently visited Splattersverse at West Edmonton Mall as a family of four, and unfortunately, it was one of the most disappointing experiences of our trip.
       We paid approximately $35 per person for the basic experience and arrived 15 minutes before our scheduled 3:00 p.m. time slot.
@@ -70,7 +66,6 @@ reviews:
       For the price, this experience was extremely disappointing and felt like a complete waste of money. If you're visiting West Edmonton Mall, I would strongly recommend skipping Splattersverse and spending your time and money exploring one of the many other attractions instead.
   - name: "Mr Payment"
     rating: 3
-    date: "2026-08-02"
     comment: |
       I like the track, nice set up , cars not fast but quick . I got yellow flagged 2 times " bumping " and unsure why but it was good value and we had fun .
       So I switched my 3 to a 4 )

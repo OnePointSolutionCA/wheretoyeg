@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Rajinder"
     rating: 1
-    date: "2026-07-19"
     comment: |
       Very disappointing experience. The pricing is extremely high, and on top of that, parents are required to pay extra. I’ve visited many indoor playgrounds and family entertainment centers, and this is the first place where parents are expected to pay just to accompany their children.
       
@@ -41,19 +40,16 @@ reviews:
       The pictures accurately reflect what we saw. Don’t rely solely on the glowing reviews—many seem overly enthusiastic compared to the actual experience. There are better-value options available elsewhere.
   - name: "Melissa Harper"
     rating: 5
-    date: "2026-06-28"
     comment: |
       We accidentally bought tickets for the wrong location, but the manager at the North Side location was incredibly helpful and got everything sorted out for us. She made the check in process very quick and smooth. We had so much fun at the neon lights! Great service, and we’ll definitely be back.
   - name: "Candice Reagan"
     rating: 5
-    date: "2026-06-02"
     comment: |
       Loved this place! Recently hosted my niece's 11th Birthday at the New Fun Park North Edmonton and it was awesome. The place is absolutely HUGE with not just trampolines but also a play zone for the smaller kids and foam pits with obstacles AND a rock wall!! There is also laser tag underneath the giant observatory upstairs for the adults to sit and relax.
       Manpreet was absolutely amazing to deal with regarding the booking for the party 🥳
       We will definitely go back and try out the laser tag soon!
   - name: "Candice Scott"
     rating: 5
-    date: "2026-06-22"
     comment: |
       I recently booked a birthday party package at One Park on very short notice, and I was extremely impressed with the experience. The staff were incredibly accommodating, friendly, and welcoming from start to finish, making the entire process stress-free.
       
@@ -64,7 +60,6 @@ reviews:
       I would highly recommend this facility to anyone looking for a fun, family-friendly venue for parties or a day of active play.
   - name: "Elsa Ndem"
     rating: 5
-    date: "2026-07-24"
     comment: |
       Had a wonderful time there with the kids. And they have a new coffee machine that makes a whole bunch of hot and cold drinks that just adds to the atmosphere. Great staff energy and overall clean and wonderful for the kids.
 ---

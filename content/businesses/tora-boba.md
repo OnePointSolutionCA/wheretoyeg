@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Daniel Tran"
     rating: 5
-    date: "2026-05-20"
     comment: |
       Visit: May 2026
       
@@ -43,7 +42,6 @@ reviews:
       Definitely recommend!
   - name: "Dajana Fabjanovic"
     rating: 5
-    date: "2026-05-29"
     comment: |
       Cutest vibes & the most delish drinks! This was our first time trying out TORA and we all loved our drinks. We ordered a milk tea, Thai red milk tea, taro milk tea and a taronado blended drink. The drinks were the perfect sweetness and the brown sugar boba were 👌🏻.  So good!
       
@@ -52,17 +50,14 @@ reviews:
       We’ll be back to try out the desserts and more of the cool & interesting drink menu. Crème brûlée and tiramisu drinks?! Yes, please!
   - name: "Serene Swanston"
     rating: 5
-    date: "2025-11-20"
     comment: |
       First time dining and discovering this new cool bubble tea spot. I would recommend trying this out for your first time trying thid drink, or as a bubble tea connoisseur. There are many options to choose for drinks, and you can add stuff to your drink. Staff is really friendly and the decor was so cute for the winter season. Also, thr tiramusu was so delicious and smooth.
   - name: "Makayla"
     rating: 5
-    date: "2026-08-03"
     comment: |
       The best boba i have ever had. Drinks are so intricate. I got a biscoff milk matcha with brown sugar boba in it and it bas a little cheese cloud on it too. Sooo delicious and they have a cute selection of board games. Also the cups having little bear lids is adorable!!!!!!!
   - name: "NGỌC NHI MẪN NGUYỄN"
     rating: 5
-    date: "2026-04-10"
     comment: |
       Cute and cozy spot with a very aesthetic vibe. The milk coffee is well-balanced (not too sweet), and the pearls are soft and chewy. Great place to relax or study. Will definitely come backkkk
 ---

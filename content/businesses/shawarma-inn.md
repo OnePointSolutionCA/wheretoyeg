@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "VJ"
     rating: 2
-    date: "2026-07-23"
     comment: |
       I popped into Shawarma Inn for lunch today, due to the positive Google reviews.  The reviews are accurate when it comes to the portion size, as you'll see from my photo that the wrap was huge!  Although the portion size is good, the flavors were a miss.  The chicken was underseasoned as were the sauces.
       
@@ -41,22 +40,18 @@ reviews:
       Service was friendly and the restaurant is clean.  I wouldn't return here again, there are MUCH better options not too far from Shawarma Inn.
   - name: "Jen"
     rating: 5
-    date: "2025-12-07"
     comment: |
       I’ve had the chicken shawarma and it was massive and absolutely delicious. The bread tastes amazing and is easily one of the best shawarma wraps I’ve had in the city. I’ve been here a couple of times now and it has officially become my favourite. The reviews don’t lie, this place is amazing!
   - name: "Jasmine B"
     rating: 5
-    date: "2026-07-17"
     comment: |
       Top notch!! Edmonton is lucky to have this tasty & authentic Mediterranean cuisine stop!! The shawarma was fantastic, the donair meat was wonderfully spiced, and the grape leaves were homemade perfection! Definitely recommend.
   - name: "genfunk"
     rating: 5
-    date: "2025-11-17"
     comment: |
       Solid shawarma and portion sizes. Pictured is the Beef Shawarma wrap combo. Crispy texture outside, inside meat well seasoned and blended well with the sauce and other toppings. Fries were fresh. Bit out of my way but would want to come by again.
   - name: "Steven Nguyen"
     rating: 5
-    date: "2026-03-14"
     comment: |
       -hidden gem-
       Nice, calm vibe. Killer portion. Garlic sauce with the fries. Can't ask for more.

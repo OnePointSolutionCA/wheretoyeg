@@ -32,12 +32,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Medhanie Ghezehey"
     rating: 5
-    date: "2026-01-09"
     comment: |
       Delicious food,wide variety, true African cuisine and excellent staff members. I highly recommend it.
   - name: "Rasha"
     rating: 5
-    date: "2025-11-11"
     comment: |
       If you want really good pasta and excellent goat meat, this is definitely the place
       Must try

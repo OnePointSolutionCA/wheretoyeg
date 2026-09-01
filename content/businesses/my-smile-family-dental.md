@@ -30,14 +30,12 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Jaydon Curran"
     rating: 5
-    date: "2026-06-15"
     comment: |
       I had an excellent experience with Smile Family Dental. The entire team is friendly, professional, and genuinely cares about their patients. They were always available to answer my questions and made me feel comfortable throughout every visit.
       Their experience and knowledge really stand out, especially when it comes to wisdom tooth removal. The procedure was handled smoothly, and they took the time to explain everything clearly, which helped put my mind at ease. The staff was supportive, attentive, and made the whole process much easier than I expected.
       I highly recommend Smile Family Dental to anyone looking for experienced, friendly, and reliable dental care. Thank you to the entire team for providing such outstanding service!
   - name: "Sajee Sooriyaarachchi"
     rating: 5
-    date: "2026-05-05"
     comment: |
       I had a wonderful experience at my appointment today. From the moment I arrived, I felt welcomed by the friendly and professional staff. The front desk team was kind and organized, which made the check-in process smooth and stress-free.
       During my appointment, everything was clearly explained to me, and I really appreciated how patient and attentive the dental team was. They made sure I was comfortable at all times and took the time to answer my questions. Their care and professionalism helped me feel relaxed and confident throughout the visit.
@@ -45,7 +43,6 @@ reviews:
       Overall, my experience fully met my expectations, and I am very happy with the service I received. Thank you again to the entire team for your excellent care. I look forward to my next visit! Highly recommend.
   - name: "Tyler Dau"
     rating: 5
-    date: "2026-04-04"
     comment: |
       This will probably be one of the most detailed reviews I have ever had. I recently had a complicated wisdom teeth extraction, and overall, I had a very positive experience. I am just very happy and impress with the work of the dentist.
       
@@ -62,7 +59,6 @@ reviews:
       Overall, this was a smooth and reassuring experience from start to finish. If you have Dr. Tyler Halabi for an extraction, you are in very good hands.
   - name: "K Motruk"
     rating: 5
-    date: "2026-04-23"
     comment: |
       INCREDIBLE experience. The receptionist is so friendly and helpful. The Dental hygienist was very kind. She listens to all concerns, she moves slow and carefully as I have extremely sensitive teeth. She was always checking in with me to make sure I was doing okay. It was such a great cleaning and scaling experience, this woman was amazing.
       
@@ -73,7 +69,6 @@ reviews:
       They really care about the patients.
   - name: "Waqar Khan"
     rating: 5
-    date: "2026-06-26"
     comment: |
       I had a tooth extraction done recently at My Smile Family Dental and I couldn’t be happier with the experience. Dr. Tyler Halabi was very professional, calm, and clearly knows what he’s doing. He explained everything clearly, made sure I was comfortable, and gave excellent post-operative instructions along with the right pain and swelling medications.
       The whole team was friendly and caring. Everything went smoothly and I’m already feeling much better. If you need dental work, this is the place to go — I strongly recommend Dr. Tyler and My Smile Family Dental!

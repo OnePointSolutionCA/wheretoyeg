@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "RSNSHOOTER EDM"
     rating: 5
-    date: "2026-01-28"
     comment: |
       Cameron Drive Education is one of many schools in Edmonton. Obviously I could only choose one. After I got information back from friends and colleges they all recommended Cameron as the most professional Driving Education School for class 1 and 3 in the city. I started the top of Dec 2025. I'm 55 years old that hasn't been in school for 30 years so yes I was a bit intimidated. Here is some bullets point I took away after passing and receiving class 1 in late Jan 2026.
       
@@ -53,24 +52,20 @@ reviews:
       Long story short.... Go get educated at Cameron. YOU WONT REGRET IT!!!!
   - name: "Ammar Elhakim"
     rating: 5
-    date: "2026-05-30"
     comment: |
       Genuinely really good guys here. Darryl actually looks out for students and has a bunch if stories and experience to share thst actually help the imporant stuff stick. He goes through it a little fast but heavily repeats and emphasizes key details which helps immensely. My tester Harkirat was super chill and informative. Even gave me extra tips for things to watch for, like the rubbers on the airlines when connecting the trailer and newer features in modern trucks!
       
       All in all, really worth it!
   - name: "Tori Sanger"
     rating: 5
-    date: "2026-04-01"
     comment: |
       I just finished my Class 3 driving test today after the extensive course at Cameron. From the beginning they were extremely accommodating, working around my schedule and making it as easy on me as they could. I had Susan and Adam as instructors and they were just incredible from day 1. When I had doubts and was nervous they assured me I was doing alright and I always left and returned feeling confident in my skills. Overall it was an amazing experience and I would 100% recommend them to anyone.
   - name: "Colten Brockman"
     rating: 5
-    date: "2026-05-28"
     comment: |
       Wonderful experience. I recently got my class one thru Cameron. The staff was very helpful and kind. The instructors were all awesome and professional. Very top notch group highly recommended for anyone looking to get airbrakes/class 1 & 3.
   - name: "Bibin babu charuvila"
     rating: 5
-    date: "2025-03-11"
     comment: |
       Exceptional Training and Professional Instructors!
       

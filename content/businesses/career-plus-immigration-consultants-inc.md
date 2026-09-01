@@ -30,14 +30,12 @@ date_listed: "2026-08-30"
 reviews:
   - name: "kiranjot virk"
     rating: 5
-    date: "2026-05-15"
     comment: |
       We recently applied for a work permit for my father through career plus, and we had an excellent experience. The entire process was handled very efficiently from start to finish. The team was very responsive, answered all our calls and emails promptly, and kept us updated at every stage.
       They were extremely organized with the documentation and made sure everything was completed correctly and on time. We really appreciated how smooth and stress-free they made the process for us.
       We are very satisfied with their professionalism and speed, and we would highly recommend their services to anyone going through a similar immigration process.
   - name: "Zackery Markle"
     rating: 5
-    date: "2026-06-26"
     comment: |
       I had an excellent experience with CPIC Immigration. My immigration lawyer, Oumaima, was outstanding from start to finish. She took on a very challenging case due to my extensive travel history and handled everything with professionalism, expertise, and attention to detail.
       
@@ -46,17 +44,14 @@ reviews:
       I highly recommend CPIC Immigration, especially Oumaima, to anyone looking for a dedicated and experienced immigration lawyer. Thank you for making what seemed like an impossible process a success!
   - name: "LAVANYA BHASIN"
     rating: 5
-    date: "2026-05-13"
     comment: |
       I had an excellent experience with this immigration consultant company. My case became complicated because I had to file for reconsideration, but their team handled everything professionally and confidently. They carefully guided me through the process, explained every step clearly. Thanks to their knowledge, dedication, and constant support, everything was managed successfully. I truly appreciate their patience and commitment during such a stressful time. Highly recommend their services to anyone looking for trustworthy and experienced immigration consultants.
   - name: "Ashnoor Kaur"
     rating: 5
-    date: "2026-06-19"
     comment: |
       I am extremely grateful to Career Plus Immigration for their excellent support and guidance throughout my immigration journey. They helped me obtain my study permit and recently my work permit, which was approved in just 20 days. A special thanks to Kanwaljit Sir and Daljit Sir for their professionalism, timely assistance, and valuable guidance at every step. Their expertise made the entire process smooth and stress-free. I highly recommend Career Plus Immigration to anyone seeking reliable immigration services.
   - name: "Manpreet Kaur"
     rating: 5
-    date: "2026-02-10"
     comment: |
       I had an amazing experience with Career Plus Immigration. They guided me through every single step of the PR process, making what could have been a really overwhelming journey feel manageable and clear. Their expertise and support were invaluable, and I'm so grateful for their help in achieving my goal. Thanks to all the team and especially Shiella Ma’am for helping through all the process.
 ---

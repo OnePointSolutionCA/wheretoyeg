@@ -32,12 +32,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Lauren T"
     rating: 5
-    date: "2026-06-04"
     comment: |
       Lives up to the name! Truly the best Vietnamese food I've ever had. Loved that the vegan soup came with four different types of protein. I felt so spoiled! Would highly recommend this place to anyone looking for dang good food.
   - name: "Khadijah Amber Von Grat"
     rating: 5
-    date: "2025-11-20"
     comment: |
       Dang Good is truly phenomenal!
       
@@ -50,17 +48,14 @@ reviews:
       If you’re vegan or halal, highly, highly recommend. This place is a total gem! 🌱🍜✨
   - name: "Natasha Burke"
     rating: 5
-    date: "2026-05-25"
     comment: |
       Amazing VEGAN menu available. We got the vegan pho sate and the regular vegan pho. The broth for both is absolutely delicious! Best I have had in Canada. Huge portions for a GREAT price! So big and full of flavour! Closest taste to the one we had in Vietnam while still being vegan. We will definitely be back to try more food. The service was super fast and friendly, super attentive and kind. Highly recommend trying this place out especially if you are vegan/ vegetarian!
   - name: "Mohammad Asgarian"
     rating: 5
-    date: "2026-01-23"
     comment: |
       Amazing food and excellent service. The staff were super friendly and attentive. I especially loved the mango salad — fresh and full of flavor. Highly recommended!
   - name: "Matthew Davis"
     rating: 5
-    date: "2026-06-15"
     comment: |
       Long story short - the name is accurate!
       

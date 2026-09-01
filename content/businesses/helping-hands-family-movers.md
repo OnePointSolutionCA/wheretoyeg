@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Juliette Moore"
     rating: 5
-    date: "2026-07-07"
     comment: |
       A big thank you to Austine and his helper. As you can see the cabinet is 350 lbs, no problem for these guys.
       One mixer is 204 lbs, then other is 135 lbs, no problem.
@@ -39,7 +38,6 @@ reviews:
       Helping Hands you made my dream come true.. thank you ! ❤️
   - name: "Caleb Arnold"
     rating: 5
-    date: "2026-08-07"
     comment: |
       I contacted Helping Hands a few weeks prior to my move-out date. They were very clear and concise throughout the booking process, and once the deposit was made, the date and time were confirmed.
       
@@ -48,21 +46,18 @@ reviews:
       Overall, I had a great experience and would definitely use Helping Hands again if I ever need moving services in the future.
   - name: "official imaworld"
     rating: 5
-    date: "2026-07-30"
     comment: |
       Master class is who Austine is…  our move to Medicine Hat was stress less and our items well taken care of.
       Highly recommend Helping Hands Family Movers.
       I recommend Austine as well, highly knowledgeable in this job💯
   - name: "E H"
     rating: 5
-    date: "2026-04-17"
     comment: |
       Huge shoutout to Austin and the team for a stellar move. I was blown away by how they fit everything together. Their efficiency and attention to detail were next level. They treated my sisters belongings with total respect and made a stressful day feel easy. Hands down the best experience I’ve had with a moving company!
       
       *A picture is attached in the early phase to show the efficiency.
   - name: "lynn jacobs"
     rating: 5
-    date: "2026-05-11"
     comment: |
       I cannot recommend this moving company enough! Moving is usually incredibly stressful, but the team made the entire process seamless and efficient from start to finish.
       The crew arrived exactly on time and introduced themselves. They were polite, organized, and handled all of my belongings with the utmost care.

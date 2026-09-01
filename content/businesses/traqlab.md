@@ -30,12 +30,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Carson Lu"
     rating: 5
-    date: "2026-08-06"
     comment: |
       Tried their 737-8 simulator, and it was amazing. Staff was very friendly, and a great experience. The sim is very nice, feels heavy, but is realistic. I highly recommend this to anyone interested in aviation. Great value for the price
   - name: "Bruno Haje"
     rating: 5
-    date: "2026-01-17"
     comment: |
       I was looking into purchasing a simulator racing cockpit for my home, and figured this simulator arcade could steer me into the right direction. When I asked Brandon if he could share where he buys his equipment, he mentioned look no further, you can buy everything from us. I gave him my budget.
       
@@ -44,7 +42,6 @@ reviews:
       It me about 4 hours to install (but was relatively straightforward). It completely changed my gaming experience. If you’re looking for a sim racing rig for your home, this is the place to go!
   - name: "Oluwaseun Adewale"
     rating: 5
-    date: "2025-11-13"
     comment: |
       I had an incredible experience at TraqLab! Both the racing and flight simulators are on another level — especially the B737 MAX flight sim with its ultra-realistic 200° views. It genuinely feels like you're in a real cockpit.
       
@@ -55,7 +52,6 @@ reviews:
       Highly recommended!
   - name: "Bhuvan Vasudev"
     rating: 5
-    date: "2025-07-22"
     comment: |
       Realistic and Thrilling Racing Experience at Reboot Racing!
       I recently visited Reboot Racing inside West Edmonton Mall and had an amazing experience. My friend took part in the racing simulator, and I was really impressed by how realistic and professional everything felt. The simulators are high-end and designed to give you the feeling of real motorsport driving, from the detailed controls to the motion of the seats.
@@ -65,7 +61,6 @@ reviews:
       The staff was helpful, the space was clean and well-organized, and the overall vibe was exciting. Highly recommended for anyone looking to take their racing game to the next level!
   - name: "Bonnie Drozdowski"
     rating: 5
-    date: "2026-06-06"
     comment: |
       It was a thrill in the sky.  We learned a lot and enjoyed it immensely.  Our instructor was very knowledgeable.
 ---

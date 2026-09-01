@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Siti Razali"
     rating: 5
-    date: "2026-02-21"
     comment: |
       Chandan is incredibly knowledgeable and thorough. He explained several important details that we had overlooked, even though we’ve been filing taxes every year. During our meeting, he shared valuable insights that gave us a much clearer understanding of our tax situation.
       
@@ -39,19 +38,16 @@ reviews:
       Our tax return was fairly straightforward, and the process was smooth and stress-free. It’s clear that he has a proven track record and strong expertise in his field. If you’re looking for personalized, one-on-one service—especially for more complex tax returns—I highly recommend him.
   - name: "Shahzad Rasheed"
     rating: 5
-    date: "2026-04-13"
     comment: |
       It was my best experience with CN Tax Accounting Services,  Mr. CHANDAN guides well for future tax file. Maximum Tax return Services provider. Mr. CHANDAN super nice personality. Award winning Accountant in Edmonton.
   - name: "Rhea Kim"
     rating: 5
-    date: "2026-05-05"
     comment: |
       I've been doing my tax returns with Chandan for the past 4 years, and he has been absolutely amazing every single time! He is extremely knowledgeable, professional, patient, and always makes the whole process so easy and stress-free. He always makes sure I receive the maximum benefits possible, and I truly appreciate how carefully he explains everything and answers all my questions.
       
       He is honestly the best tax professional I have ever worked with. You can tell he genuinely cares about his clients and takes pride in his work. Chandan deserves all the success and recognition in his career. I highly recommend him to anyone looking for someone trustworthy, reliable, and excellent at what they do!
   - name: "Jason Rgrwa"
     rating: 5
-    date: "2026-04-10"
     comment: |
       Filed my taxes with Chandan for the first time this year. He’s definitely an expert and knows what he’s doing! He does everything according to CRA guidelines and assures you get the most of your return! Very professional and personable.
       
@@ -62,7 +58,6 @@ reviews:
       Jason
   - name: "J B"
     rating: 5
-    date: "2026-04-04"
     comment: |
       Our family of four cannot recommend CN Tax & Accounting Services highly enough. From start to finish, Mr. Chandan and his exceptional team provided us with a level of support that truly went above and beyond.
       

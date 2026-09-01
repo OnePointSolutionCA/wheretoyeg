@@ -30,29 +30,24 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Angie Garred"
     rating: 5
-    date: "2026-03-10"
     comment: |
       I started seeing Sanja about 2 years ago when I was tired of constant back and other body pains. Within a few months I could feel a difference in my overall strength, my back was feeling better for the first time in my life, and I realized the importance of strength training. I have always been very active playing sports my whole life. But Sanja quickly targeted the areas that weren’t strong and geared my workout to my personal needs and goals. She challenges me to be better today than I was yesterday. My recent gut test may be even more life changing. For decades I suffered from food sensitivities and stomach issues. The gut test told a different story and with a few changes, I’ve been able to enjoy some foods again that I never thought I would be able to ever again. I’m sleeping better, less brain fog, more energy, and I feel stronger and healthier than ever! Very grateful for having found you!
   - name: "Emily Rae"
     rating: 5
-    date: "2026-04-08"
     comment: |
       Sanja and Curtis care about you as a person, not just a client or a payment walking through the door.
       She is very educated and worth every penny.
       The results I have seen in a short period of time are unbelievable, but beyond that I feel healthy again! I also love going to the gym once again!
   - name: "Andrea Robinson"
     rating: 5
-    date: "2025-11-18"
     comment: |
       After six months of working with Sonja, I’ve seen major changes in my strength, energy, and how good I feel about my body! Her approach is research-based, she’s patient, and gives the right balance of caring but firm to get you through a tough set. Super glad I found her!
   - name: "Ange H"
     rating: 5
-    date: "2025-11-22"
     comment: |
       Sanja has been the best trainer. My husband and I started around 6 months ago. Kurtis and her are so welcoming and honestly the best decision we made was walking in their doors. Through the DNA and gut testing has helped gain more insight into our nutrition and sensitivities. this is probably the most focused I have been in working out and actually enjoying it, Sanja pushes us to limits I didn’t even think I could do or accomplish. I’m so grateful for Body in Fushion.
   - name: "Elizabeth McKoen"
     rating: 5
-    date: "2025-03-16"
     comment: |
       I’ve been training with Sanja for the past 6 years. Sanja and her husband, Kurtis, own and operate a private gym.
       

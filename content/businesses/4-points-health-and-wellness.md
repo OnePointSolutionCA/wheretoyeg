@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Charli3"
     rating: 5
-    date: "2026-07-20"
     comment: |
       From the front desk to the practitioners, I always leave my appointments feeling encouraged and supported, and I'm grateful for the care I've received from the whole team. Every practitioner I've seen has been professional, knowledgeable, and genuinely invested in helping me recover.
       
@@ -39,7 +38,6 @@ reviews:
       What I love most is how everyone works together to help their patients. Chiropractic, physiotherapy, acupuncture, and massage are all under one roof, making it a true one-stop shop. I've been searching for a clinic like this for a long time, and I'm happy I found them. I wouldn't hesitate to recommend 4 Points Health & Wellness.
   - name: "Katherine Whitbread"
     rating: 5
-    date: "2026-06-07"
     comment: |
       Yesterday, Alyssa and Brett and 4 Points held an event for men’s mental health. I think it was a tremendous success!
       
@@ -54,14 +52,12 @@ reviews:
       Yay men!!!!!! ❤️
   - name: "Ben Bate"
     rating: 5
-    date: "2026-05-16"
     comment: |
       I had an excellent experience with Dr. Jenna Griffith. From the moment I walked in, she was incredibly friendly, welcoming, and professional. She took the time to be very thorough during the assessment and explained everything clearly, which made me feel comfortable and confident in the treatment plan.
       You can tell she genuinely cares about her patients and takes pride in providing high-quality care. The treatment itself was great, and I left feeling much better and looking forward to my next appointment.
       Highly recommend Dr. Jenna Griffith to anyone looking for a knowledgeable, professional, and personable chiropractor. Five stars all the way!
   - name: "Melissa Phillipson"
     rating: 5
-    date: "2026-02-23"
     comment: |
       Dr. Cody Sieben is absolutely fantastic! He treated me, my husband, and our two kids (ages 4 and 8), and we couldn’t have had a better experience. He was incredibly patient, especially with our little ones, and made the whole visit fun and comfortable for them. His sense of humor instantly put our family at ease.
       
@@ -70,7 +66,6 @@ reviews:
       We highly recommend Dr. Cody Sieben to anyone looking for an amazing chiropractor at 4 Points Health and Wellness. Our whole family is so grateful!
   - name: "Rayelle McHargue"
     rating: 5
-    date: "2026-03-29"
     comment: |
       I had an anmazing experience with Dr. Jenna, one of the  chiropractors. From the moment I walked in, she was kind, welcoming, and incredibly professional. What really stood out to me was how thorough she was—she didn’t just focus on one issue, but took the time to assess my entire body and understand my concerns.
       

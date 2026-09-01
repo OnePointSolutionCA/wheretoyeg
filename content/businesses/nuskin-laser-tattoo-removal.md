@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Shawna Kelsch"
     rating: 1
-    date: "2026-02-05"
     comment: |
       I was mislead on the amount of hair removal sessions I would need. I was told 3 at first then the story changed.
       After paying for 3 sessions,  I was told I would get better value from a package. I paid for 2 packages.
@@ -40,24 +39,20 @@ reviews:
       Buyer beware.
   - name: "Liz Ellie"
     rating: 5
-    date: "2025-02-08"
     comment: |
       Amazing first time experience! Madeline was very professional, knowledgeable and patient with my concerns. Also down to earth and personable. Highly recommend her services to everyone. The facility is beautiful and clean. Excited to go back in 6 weeks hopefully to remove the rest of my old eyebrow tattoo.
   - name: "Shaina Seitz"
     rating: 5
-    date: "2025-03-12"
     comment: |
       I had a great experience with eyebrow tattoo removal! Madeline was so professional, kind, authentic, and down to earth. She was very knowledgeable and took her time to explain everything I needed to know and answered any questions I had. I'm so appreciative of how comfortable she made me feel during the entire process. I am excited to go back once more to finish the removal process!
   - name: "Nadiia Hunko"
     rating: 5
-    date: "2025-02-15"
     comment: |
       Amazing experience! Madeline was extremely professional and knowledgeable. In just one session, she removed the gray color completely! I had previously done the same procedure at another salon, but my brows only became slightly lighter. This time, the results were incredible!
       
       The procedure was painless (she applied a numbing cream and she gave me a cooling device that blew cold air on the eyebrows). The whole process was super comfortable. I’m beyond impressed and highly recommend Madeline’s services!
   - name: "Rola Sajim"
     rating: 5
-    date: "2025-05-18"
     comment: |
       I came in for only a consultation with Madeline, I ended up using my consultation as a treatment appointment. It was the best decision I made. She is absolutely the best! She was so patient, kind, and truly took the time to listen and understand my concerns. She never made me feel rushed or pressured, and her compassion really stood out. Madeline was incredibly thorough and detailed in explaining the treatment, making sure I felt comfortable every step of the way. I genuinely felt cared for and well-informed. Highly recommend her to anyone looking for someone who truly listens and cares! They also do tattooing and piercings so I’m def coming back for more!
 ---

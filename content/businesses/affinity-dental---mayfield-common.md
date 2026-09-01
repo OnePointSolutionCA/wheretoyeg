@@ -30,30 +30,25 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Edith Rhine"
     rating: 5
-    date: "2026-07-23"
     comment: |
       Dr. Crowell should be very pleased with his staff that represents his clinic on a daily basis. Liz, Veronica are 2 very amazing, kind and caring people making going to the dentist a pleasure( if you can say that about a dentist appt 😁) I drive 30 minutes one way just to continue attending the clinic and receiving excellent service always !! Would recommend this clinic and people any day, please keep up the amazing service !!
   - name: "Tammendra De Kauwe"
     rating: 5
-    date: "2026-06-28"
     comment: |
       I had a fantastic experience at Affinity Dental!! Friendly staff!! Dr. Southwood and Tracy are professional, gentle and they take time to explain every step of the procedure. The office is spotless, I had two cavity fillings done completely pain-free. I highly recommend this dental clinic to anyone looking for a trustworthy and compassionate dentist.
   - name: "Chase Campeau"
     rating: 5
-    date: "2026-05-25"
     comment: |
       The receptionists are very nice. Helped me with my insurance problems and were so patient despite how late I dragged my appointment. Also the assistants in the chair were so good to me and helped me breathe through the process as it has been a long time since I've gotten numbed. The dentist was friendly and did an amazing job on my teeth, I barely even notice the calculus buildup from my braces.
       
       Thanks everyone, really know how to make a native feel welcomed and appreciated.
   - name: "Lisa"
     rating: 5
-    date: "2026-05-08"
     comment: |
       Affinity dental is great. Dr. Crowell and his
       Staff are professional and very caring. I feel totally relaxed. I know my dental work will be completed and done right. Thank you
   - name: "Janet Reiniger"
     rating: 5
-    date: "2026-04-30"
     comment: |
       Thank you to Taruna and Dr Randy for your warm empathy , encouragement and professionalism .
       After taking a break from going to the dentist for “several” years, there was no judgment and I will not hesitate to go back in 6 months .

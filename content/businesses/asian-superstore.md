@@ -31,27 +31,22 @@ date_listed: "2026-08-20"
 reviews:
   - name: "MARADI MURALI KRISHNA"
     rating: 5
-    date: "2025-11-14"
     comment: |
       From  Asian super store one of the  largest Indian grocery-retail Site  “mysore sandal soap is a classic product. Feels good to have bought it. Lathers well and leaves a good fragrance.”
   - name: "Raja R"
     rating: 5
-    date: "2025-11-11"
     comment: |
       Outstanding service and also alots of variety of products are available in under one roof must visit
   - name: "Jacob Cheriyan"
     rating: 1
-    date: "2024-08-11"
     comment: |
       All rice items expired months ago, even the employee at the register know it is expired. Never removed anything even after weeks later on my next visit. Never recommend this store.
   - name: "avantika suresh"
     rating: 5
-    date: "2025-11-12"
     comment: |
       This Indian grocery store is excellent! They have a wide variety of authentic Indian products — from fresh spices and snacks to frozen foods and household essentials. Everything is well organized, clean, and easy to find. The prices are reasonable, and the staff are friendly and helpful. It’s my go-to place whenever I need real Indian ingredients and flavours!
   - name: "Gagandeep singh"
     rating: 5
-    date: "2024-03-19"
     comment: |
       Good indian supermarket, Everything is available here. Staff is very nice and polite
 ---

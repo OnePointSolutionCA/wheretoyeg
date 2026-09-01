@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Deb Per"
     rating: 5
-    date: "2026-04-27"
     comment: |
       We had a small water leak in our furnace which was only discovered during an inspection.
       
@@ -41,24 +40,20 @@ reviews:
       He was so patient and respectful and answered all my questions. Above and beyond service.
   - name: "Anmol Davis"
     rating: 5
-    date: "2026-08-05"
     comment: |
       I have had the best experience with this company. They were so professional, honest and thorough. Con and Spencer did such an excellent job with servicing my furnace and answered all my questions. Fairly priced as well. I will definitely be recommending them and hiring them for future projects. Please don’t change your standard of work. Thank you!
   - name: "Meghan Rannells"
     rating: 5
-    date: "2026-07-24"
     comment: |
       Home Trust Comfort recently replaced our furnace and installed a new AC unit for us. They did an amazing job! From quote and the initial meeting, to install and follow-up, everything went smoothly and we are so happy with our products as well. Would highly recommend!
   - name: "Jenham Wittmeier"
     rating: 5
-    date: "2026-06-23"
     comment: |
       Got a heat pump installed in my new build home. Service with the office was great and clear on what was needed to be done. They helped with the permit information as well which was nice.
       
       The installers were professional and kept everything clean while installing. The finished product looks great and they walked me through everything afterwards. Would recommend and use their services again!
   - name: "Dan Stewart"
     rating: 5
-    date: "2026-01-22"
     comment: |
       Had Trust Home Comfort install a new humidifier on the furnace in my house. Excellent service. Friendly and knowledgeable took the time to explain everything to me. Excellent rates.  I would recommend highly
 ---

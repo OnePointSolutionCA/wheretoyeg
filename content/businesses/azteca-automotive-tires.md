@@ -30,12 +30,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Moein Habibi"
     rating: 5
-    date: "2026-05-17"
     comment: |
       Called them today and they got me in the same day. Pricing was fair and right in line with the market. They’re a father-and-son shop, and I’d rather support a local small business than a big chain any day. Friendly guys, and the work was clean and fast. Would recommend.​​​​​​​​​​​​​​​​
   - name: "Ivan Tymchuk"
     rating: 5
-    date: "2026-04-13"
     comment: |
       I highly recommend Azteca Automotive & Tires!
       
@@ -48,17 +46,14 @@ reviews:
       Overall, it was a very pleasant experience. We will definitely come back again and recommend you to our friends! 🙌
   - name: "Zohal Mohibi"
     rating: 5
-    date: "2026-07-18"
     comment: |
       I had an excellent experience with this mechanic. He was honest, professional, and took the time to explain everything clearly before starting the repairs. He literally stayed opened another hour to get the job done. It's hard to find someone who is both skilled and trustworthy, but he definitely is. I highly recommend him to anyone looking for reliable, high-quality service. Thank you for the outstanding work!
   - name: "Mark Jerome Fernandez"
     rating: 5
-    date: "2026-06-21"
     comment: |
       Ricardo is an amazing guy. Very friendly and professional. He gives helpful tips on how to maintain ypur tires. Excellent and affordable service. I highly recommend this shop. You'll never regret. Kudos!
   - name: "kacie reimer"
     rating: 5
-    date: "2026-06-01"
     comment: |
       Went in to get my tires retorqued and he went above and beyond to help me out! great customer service :)
 ---

@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Enzo Vergaray"
     rating: 5
-    date: "2026-07-19"
     comment: |
       Absolutely delicious! We ordered two jerk chicken plates and three beef patties (one with cheese), and everything was fantastic. The jerk chicken was full of flavour, the patties were amazing, and the hot sauce was next level.
       
@@ -41,7 +40,6 @@ reviews:
       Highly recommend this place if you're looking for delicious Jamaican food. I can't wait to order again and visit in person!
   - name: "Quinn Forrester"
     rating: 5
-    date: "2026-03-11"
     comment: |
       Stopped in for lunch at this new Jamaican restaurant near Grant MacEwan University and it was fantastic!!!
       
@@ -52,7 +50,6 @@ reviews:
       If you’re looking for authentic Jamaican food near MacEwan or just great Caribbean flavour, this place is absolutely worth checking out. We’ll definitely be back.
   - name: "Drew Wolsey"
     rating: 5
-    date: "2026-06-01"
     comment: |
       I've been to a few Jamaican restaurants in the past and wouldn't say I love any of them. Each time the flavors were either too overwhelming or too spicy for my weak palette.
       
@@ -61,12 +58,10 @@ reviews:
       They also give us a free dessert to try. 😁
   - name: "Dee Bee"
     rating: 5
-    date: "2026-05-05"
     comment: |
       Went to Bikkles & Tings Caribbean Eatery yesterday with my 5yr old daughter and we loveddddd it! The food was so fresh and full of flavour, and the spice level was perfect because she ate most of her food. The portions are big for such a great price, the vibe was really nice, and everything was super clean. He was so friendly and accommodating and even brought the food to us, which was super nice, just overall a really good experience. I’ll definitely be going back!! Thanks for having us!
   - name: "Nicole Elkhatib"
     rating: 5
-    date: "2026-04-29"
     comment: |
       Food was delicious..  I asked for extra rice, spice level was tolerable, tangy, jerk chicken, coleslaw was good aswell. The chicken was tender. Will try curry chicken next. Need to add Rasta pasta to the menu !! My husband had 2 beef patties; they were spicy but he said very good…!
 ---

@@ -33,7 +33,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "fariba mohagheghi fariba"
     rating: 5
-    date: "2026-02-22"
     comment: |
       I’ve been coming to Jerusalem Shawarma almost every weekend for the past several months, and I’m consistently impressed. The food quality is excellent, always fresh, flavorful, and generously portioned. Whether it’s the shawarma plates, kebabs, or rice dishes, everything tastes authentic and well-prepared.
       
@@ -44,12 +43,10 @@ reviews:
       Highly recommended.
   - name: "Chad Peters"
     rating: 5
-    date: "2026-07-19"
     comment: |
       My taste buds are still saying thank you! I’ve been here now 3 times to make sure it wasn’t a one off. The servers here went above and beyond every time. Every dish I’ve tried so far is delicious. To end my meal I tried a dessert I’ve never tried before called Kunafa! I’m not sure what kind of magic is involved in making this, but WOW! Together with their top shelf coffee, this dessert surpassed my wildest expectations!
   - name: "Karen Dron"
     rating: 5
-    date: "2026-06-11"
     comment: |
       Words cannot express the love I have in my belly!
       I ordered the Chicken Shawarma Platter hoping I would have some leftover to take to lunch. I was mistaken as I have enough leftover for two meals.
@@ -59,13 +56,11 @@ reviews:
       Definitely a new favourite place to stop!
   - name: "Shamas Iqbal"
     rating: 5
-    date: "2026-08-03"
     comment: |
       Best shawarma in town!  I came to visit my Sister all the way from Surrey
       I Try today Beef Rice plate . Beef was perfectly seasoned, juicy, and packed with flavor. The fresh vegetables, creamy garlic sauce, and soft pita made every bite amazing. The portions are generous, the prices are fair, and the staff are very  friendly. Highly recommended!
   - name: "Swit Beeltah"
     rating: 5
-    date: "2026-04-28"
     comment: |
       Not just a meal here,it's a guest experience. Great service, friendly smile, and the flavors in each dish were perfectly balanced and fresh ingredients were used. We were greeted by Abo Elabd he served us baklava and tea he was very hospitable. Highly recommend 100/10. 😍😍😍
 ---

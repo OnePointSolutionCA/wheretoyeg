@@ -32,22 +32,18 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Laura Love"
     rating: 5
-    date: "2026-05-01"
     comment: |
       We ordered here last time we visited Edmonton and today as well, delicious, hot ,fast and well priced.
   - name: "Brutally honest Reviews 780"
     rating: 2
-    date: "2026-01-30"
     comment: |
       Ordered food from shzechaun castle on 111 av and I think 155 st, it was mid at best, over all 4.2 out of 10, chicken balls over cooked chicken inside was big Hardish dry piece, rice wasn’t great kind of soggy and flavour wasn’t good. Not going to mention the rest of the items I will say it was a $92 disappointment and was an embarrassment to serve to my guests.
   - name: "Ange D"
     rating: 4
-    date: "2026-07-14"
     comment: |
       Really decent buffet spots.  You aren’t going to get 100s of choices but a really good 15-25 choices.  The staples! Always well made.  Staff are always amazing and friendly.  One of the best spots in the city for the price
   - name: "Francis"
     rating: 4
-    date: "2022-12-07"
     comment: |
       This was our first time back to a buffet since the pandemic and overall it was pretty good. At $25 we thought the selection and quality of the food was worth it.
       
@@ -58,7 +54,6 @@ reviews:
       The restaurant was very clean but I will say that the chemical they use to clean the floors is very strong and was kind of off putting while eating. I know a clean floor is important but we were sitting in the corner and could smell it so I'd highly recommend that the restaurant go easier on the cleaner when guests are eating!
   - name: "Mark Stephen"
     rating: 2
-    date: "2026-06-20"
     comment: |
       Been a while since I have gone.  Used to have a decent chinese buffet.  We went right about 6 pm.  Very few people there.  The food was clearly left over from lunch buffet.
       

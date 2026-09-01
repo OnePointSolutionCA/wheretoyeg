@@ -32,27 +32,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Doodleworx Reviews!"
     rating: 5
-    date: "2026-07-18"
     comment: |
       My wife ordered takeout from Pho Hoan Pasteur and it was abodelicious. The green onion cakes were tasty and crisp and the five coloured vermicelli bowl was chock full of grilled beef, chicken, pork and shrimp with a spring roll to boot. Tasty and filling with great grilled flavour. My wife loved her spicy pho beef sate as well. Excellent Vietnamese good eats.
   - name: "RYAN H"
     rating: 5
-    date: "2026-06-02"
     comment: |
       Been coming to Pasteur since Kingsway was the OG location. This place is old reliable, honestly have never been let down here. It makes sense why they have such good reviews. Go to is the large Sate Pho, so good. Ok Peanut taste and the creamy broth makes it so good. Regular pho is good too. And they’re open on Tuesdays.
   - name: "Andy L"
     rating: 4
-    date: "2025-12-31"
     comment: |
       I had the pho special at Pho Hoan Pasteur in west Edmonton recently. It was hearty and reminded me of the kind of pho that was easy to find in Edmonton decades ago (before being overtaken by newer spots). That throwback feeling was reinforced by the incense at the front door and the older crowd dining there. A surprising highlight was the tea (barley? rice?). Overall, it’s a place I’d go for good-value pho or nostalgia, and I’d give it 8.3/10.
   - name: "Ryan Jillard"
     rating: 5
-    date: "2026-04-15"
     comment: |
       Amazing Vietnamese food. I had the Grilled Shrimp and Pork Vermicelli and Spring Rolls. The place was busy but service was friendly and quick. I eat a lot of Vietnamese and this place is great!
   - name: "Dan Yang"
     rating: 5
-    date: "2026-02-21"
     comment: |
       We have been to other Pho Hoan locations and this location was great! Service was fast and friendly. Food was delicious! We will definitely be coming back!
 ---

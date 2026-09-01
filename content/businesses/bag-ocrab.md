@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Kerry Holloway"
     rating: 3
-    date: "2026-07-22"
     comment: |
       My partner and I decided to celebrate our 19th anniversary at Bag O’ Crab, and overall, it was a decent experience.
       
@@ -44,7 +43,6 @@ reviews:
       Would I recommend trying it once? Sure. Just be prepared for a hefty bill and double-check it before you pay. 🦀
   - name: "Shawn Kirkpatrick"
     rating: 5
-    date: "2026-07-13"
     comment: |
       This is my first time visit to this establishment. I'm not a virgin when it comes to Seafood, my entire visit was made a 10 out of 10 by our incredible server. The food was delicious the price was market value so you're going to pay a little bit more for first Seafood but overall the food quality and flavors were delicious.  I would highly recommend stopping in and grabbing one of their market value Seafood, whether it be crab Lobster shrimp you name it they have it.
       
@@ -52,7 +50,6 @@ reviews:
       I would like to give a shout out to Lisa.
   - name: "Ave I"
     rating: 5
-    date: "2026-01-27"
     comment: |
       I brought my friend for her birthday at lunch time. We ordered the lunch seafood special and an order of cajun fish!
       We both enjoyed the food and the experience. Our server was excellent, and even gave my friend free dessert for her birthday (thanks, girl!)
@@ -62,14 +59,12 @@ reviews:
       Highly recommended and will definitely come back again 💕
   - name: "Gloria Wang"
     rating: 5
-    date: "2026-04-04"
     comment: |
       We ordered the lobster tail and Combo #2 (which comes with shrimp and snow crab), and everything was absolutely delicious. We chose the Atomic “On Fire” sauce, and it was perfect with the seafood—super flavorful, rich, and definitely spicy! If you love spicy food, the “On Fire” level is a must-try.
       
       The service was also excellent—staff were friendly, attentive, and made the whole experience even better. Highly recommend this place!
   - name: "Pratik G"
     rating: 5
-    date: "2026-05-20"
     comment: |
       The food here was genuinely delicious, and the entire dining experience was both fun and memorable. We ordered the Combo #3 with king crab, which came with shrimp, potatoes, and sausage in a medium spicy Cajun spice sauce. They also had a great promotion running — free shrimp fried rice with the combo order — which was a nice bonus and paired really well with the meal.
       

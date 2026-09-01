@@ -33,7 +33,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Swaze baby"
     rating: 5
-    date: "2026-06-19"
     comment: |
       Stopped in about 20 minutes before closing and was impressed by how friendly and welcoming the staff were. Even though it was near the end of the night, they were patient, helpful, and never made me feel rushed.
       
@@ -42,7 +41,6 @@ reviews:
       Great food, excellent customer service, and a clean, comfortable environment. It’s clear the owners and staff take pride in what they do. Highly recommended, and I’ll definitely be coming back!
   - name: "JonJonPoPong"
     rating: 5
-    date: "2026-03-02"
     comment: |
       I dropped in here late one night recently and had a mushroom burger with cheese and onion rings. The burger is very tasty, classic smash burger. The onion rings though not as good as the burger, it would be nice if they would make their own in house onion rings, A&W makes their own onion rings, so im sure they can too.
       The cheese on the burger isnt processed, though I personally prefer processed.
@@ -50,19 +48,16 @@ reviews:
       Ill come back and try their pizzas next time as they look good.
   - name: "Umarova Amina"
     rating: 5
-    date: "2026-03-01"
     comment: |
       I just tried Crunchyz Pizza & Donair and I am seriously impressed! The pizza was incredibly delicious🤝
       I also ordered the chicken wings, and they were the highlight of the meal. Even with the sauce, they stayed perfectly crispy on the outside and juicy on the inside. If you’re looking for a local spot that gets the basics right, this is it. Highly recommend!
   - name: "T T"
     rating: 5
-    date: "2026-07-21"
     comment: |
       Great food, service and atmosphere.
       It was my first time here and I really enjoyed their pizza. I’ll be back!
   - name: "Ali 1990"
     rating: 5
-    date: "2026-07-15"
     comment: |
       I had a great experience at Crunchyz today! The food was really good, and the service was excellent. Even though it was almost closing time, the girl working at the cashier took my order without any hesitation and was very kind and welcoming. She had such a warm and lovely smile haha. Definitely a great place!
       And yes I’ll definitely go back there 😋

@@ -31,7 +31,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Jean"
     rating: 5
-    date: "2026-03-24"
     comment: |
       I came here for dinner on a Monday night for the first time after having this restaurant recommended to me as one of the best in the city. I’m glad I listened to the recommendation, because they were absolutely right.
       
@@ -40,22 +39,18 @@ reviews:
       Can’t wait to come back again!
   - name: "Andre D'souza"
     rating: 5
-    date: "2025-08-16"
     comment: |
       At first, we were slightly hesitant about trying Ethiopian food. Our servers made it so easy to approach a novel cuisine and then truly delivered a fantastic experience both through the service we experienced and the food we tasted. We tried a couple of different things to share and were truly thoroughly impressed. I will be talking about and sharing Mesob Habesha much much more :)
   - name: "hermela awet"
     rating: 5
-    date: "2026-04-01"
     comment: |
       I had a great experience thanks to Sowit. She is a very friendly and professional waitress who made sure everything was perfect during my visit. She was attentive, polite, and always had a positive attitude. Her service made my experience enjoyable, and I would definitely recommend her to others. Thank you, Sowit, for your excellent service
   - name: "Olivia"
     rating: 5
-    date: "2022-07-17"
     comment: |
       Our first time trying Ethiopian food! The server helped us choose traditional dishes and they were both very yummy. Each dish around $20 ish, they also have big combo platters. For 2 dishes, around a 25 min wait. Also very beautiful inside!! We got takeout for a picnic :-)
   - name: "aman josi"
     rating: 1
-    date: "2026-03-19"
     comment: |
       I recently visited this restaurant and had a very disappointing experience.
       

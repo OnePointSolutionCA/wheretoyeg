@@ -70,17 +70,37 @@ export function getFeaturedBusinesses(limit = 8): Business[] {
 }
 
 export function getDiverseFeatured(limit = 12): Business[] {
+  const lifestyleCats = new Set(["restaurants", "cafes-coffee-shops", "activities-fun", "bakeries"]);
   const all = getBusinesses()
     .filter((b) => b.tier !== "basic" && b.rating > 0)
     .sort(rankBusinesses);
+  const lifestyle = all.filter((b) => lifestyleCats.has(b.category));
+  const other = all.filter((b) => !lifestyleCats.has(b.category));
   const picked: Business[] = [];
   const usedCats = new Set<string>();
-  for (const b of all) {
+  for (const b of lifestyle) {
     if (!usedCats.has(b.category)) {
       picked.push(b);
       usedCats.add(b.category);
     }
     if (picked.length >= limit) break;
+  }
+  if (picked.length < limit) {
+    for (const b of lifestyle) {
+      if (!picked.includes(b)) {
+        picked.push(b);
+        if (picked.length >= limit) break;
+      }
+    }
+  }
+  if (picked.length < limit) {
+    for (const b of other) {
+      if (!usedCats.has(b.category)) {
+        picked.push(b);
+        usedCats.add(b.category);
+      }
+      if (picked.length >= limit) break;
+    }
   }
   if (picked.length < limit) {
     for (const b of all) {
@@ -100,10 +120,10 @@ export function getRecentReviews(limit = 4) {
     .flatMap((b) => {
       const reviews = (b.reviews ?? [])
         .filter((r) => (r.comment ?? "").length > 40)
-        .sort((a, b) => b.date.localeCompare(a.date));
+        .sort((a, b) => (b.date ?? "").localeCompare(a.date ?? ""));
       return reviews[0] ? [{ ...reviews[0], business: b }] : [];
     })
-    .sort((a, b) => b.date.localeCompare(a.date));
+    .sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0));
   // Prefer a variety of categories in the first N picks
   const picked: typeof perBusiness = [];
   const seenCats = new Set<string>();

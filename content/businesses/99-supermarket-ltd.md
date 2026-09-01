@@ -30,12 +30,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Роман Букатюк"
     rating: 5
-    date: "2026-01-17"
     comment: |
       It’s a great supermarket. It has a big variety of Asian products at good prices. You can find here rare Asian fruits and vegetables, many types of noodles, sauces, pastes, spices, soup bases, tea, dumplings, frozen seafood and fresh pork
   - name: "kim ga"
     rating: 5
-    date: "2024-12-04"
     comment: |
       The Chinese style design of the shopfront is quite unique. The decor inside is more nostalgic, with colorful paper lanterns and mini dragon dance figurines as decorations.
       
@@ -44,12 +42,10 @@ reviews:
       Additionally, we found a wider selection of Japanese seasonings here compared to the others we visited that day in late autumn.
   - name: "Trenton Cloutier"
     rating: 5
-    date: "2024-07-03"
     comment: |
       I'm by no means an aficionado, but I found the prices and selection to be fantastic. We like to try different recipes, and often I can't find uncommon ingredients locally so this was a great find for us. Also, their fresh produce and frozen items are fantastic value. Can't recommend enough!
   - name: "Patrick Lam"
     rating: 1
-    date: "2024-12-08"
     comment: |
       I recently made a purchase from 99 Supermarket through Too Good To Go (TGTG), expecting a selection of grocery items that were "close to or just past the best before date" as advertised. However, what I received was far from acceptable. Every single item had passed its best before or expiry date, and not by a few days — but by months!
       
@@ -58,7 +54,6 @@ reviews:
       I cannot recommend anyone take the risk with this service. This experience felt like a complete scam, and I will not be returning. Customers deserve transparency and basic quality standards, especially when it comes to food safety.
   - name: "B. Han Ong"
     rating: 5
-    date: "2026-02-02"
     comment: |
       Great supermarket to looks for South East Asian foods.
 ---

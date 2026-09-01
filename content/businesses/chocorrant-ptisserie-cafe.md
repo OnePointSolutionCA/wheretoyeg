@@ -32,14 +32,12 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Stephen Carter"
     rating: 5
-    date: "2026-07-13"
     comment: |
       I am so glad I stopped by this spot on 124 Street. The display case is absolutely stunning and feels like a small gallery of edible art. Everything looked so fresh and meticulously crafted that I had a hard time choosing just one treat.
       
       I ended up trying a selection of their pastries, and they tasted even better than they looked. The attention to detail on the fruit-shaped entremets is incredible, right down to the tiny stem on top. You can tell that a lot of care goes into every single item they make. I will definitely be back to work my way through the rest of the menu soon.
   - name: "David Maurice"
     rating: 4
-    date: "2026-04-28"
     comment: |
       Cute place with some great options and variety of delicious desserts and croissants.
       We ordered every dessert and many different croissants to try out.
@@ -47,17 +45,14 @@ reviews:
       Croissants are great. One was a bit old tasting, but the rest were delicious.
   - name: "Ana Arciniega"
     rating: 5
-    date: "2026-02-12"
     comment: |
       I tried their creme brulee croissant and their turkey & Brie sandwich. They were both to die for. So buttery and flaky! And the flavour in the sandwich was SO amazing. We were so pleasantly surprised. We also tried a couple of their macarons (the blueberry cheesecake was SO yummy). We took a little cake to go for my partner’s mom and she loved it (she’s not a sweets kinda person). 10/10 would recommend. We will definitely be coming back to try different things.
   - name: "Ruby aleutia"
     rating: 5
-    date: "2026-06-12"
     comment: |
       Had a wonderful tasting flat white, and a creme brulee croissant. The brulee topping was great, aswell as the vanilla bean pastry cream. Great croissant! I visit patisseries all over the world and make pastry myself and this absolutely did not disappoint. Thank you 💙
   - name: "Chewy"
     rating: 5
-    date: "2026-06-03"
     comment: |
       Cute little spot, tried the croissant beef dip and it was delicious! Staff are a bit slow, but they are friendly. It’s local and baked fresh  with many drink and dessert options as well.
 ---

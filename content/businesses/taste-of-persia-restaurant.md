@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "M.Hossein Danesh"
     rating: 5
-    date: "2026-08-05"
     comment: |
       We had an amazing experience at this restaurant. The atmosphere was great, and the service was excellent. Our waitress, Ghazaleh, was very friendly, welcoming, and attentive, as always.
       
@@ -41,7 +40,6 @@ reviews:
       Thank you, Ghazaleh, for making our visit even better. I highly recommend this place.
   - name: "Rob’s Hidden Gems"
     rating: 5
-    date: "2026-06-02"
     comment: |
       I’ve been coming here regularly for over a year, and since the new ownership took over, the food has been consistently excellent. The flavors are authentic, the quality is outstanding, and the service is always warm and attentive.
       
@@ -50,13 +48,11 @@ reviews:
       If you’re looking for authentic Persian cuisine and great hospitality, this place is definitely worth a visit.
   - name: "Cassandra Tran"
     rating: 5
-    date: "2026-06-20"
     comment: |
       I went with my bf and had an amazing experience. We had the Koobideh Kabab,  Joojeh Kabab and Ash-E-Reshteh. HIGHLY RECOMMEND. The meat was tender and so tasty, the rice was soft, the mixture with onions and charred tomatoes was top notch.
       Our waitress Sophia was the loveliest. She was very welcoming and offer tea on the house. Will be coming back for other dishes 😁😁
   - name: "Dr. F.Aliyan"
     rating: 5
-    date: "2025-11-23"
     comment: |
       I live in the west and I don't know how I never noticed this place before. Don’t let the modest exterior fool you!
       I visited this charming spot for a birthday dinner with a friend, and from the moment we stepped inside, we were greeted with a warm and inviting atmosphere. The interior is surprisingly spacious, with plenty of comfortable seating that made it perfect for a relaxed evening out.
@@ -66,7 +62,6 @@ reviews:
       The food was absolutely divine, we ordered the Bakhtiyari and Vaziri, which were both bursting with authentic Persian flavors, beautifully presented, and cooked to perfection. The meat was soooo good and the pricing very decent. The meal was completed with a cup of complimentary tea. Highly recommend for anyone craving a delicious meal paired with heartfelt hospitality!
   - name: "Hamed Hamzavi"
     rating: 5
-    date: "2026-05-02"
     comment: |
       We had a wonderful experience at Taste of Persia! We ordered the Vaziri plate, and everything was absolutely delicious the koobideh was juicy and flavorful, and the chicken was perfectly grilled. The rice was fresh and fragrant, and the overall presentation was beautiful.
       

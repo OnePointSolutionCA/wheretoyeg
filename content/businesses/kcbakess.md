@@ -32,17 +32,14 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Shari Keith"
     rating: 5
-    date: "2026-06-22"
     comment: |
       The cake I ordered for my friend's 50th birthday celebration was not only beautiful and exceeded all expectations!  An amazing cake that wowed everyone and tasted delicious. Guests kept asking where it was ordered from, to which I happily shared 😊
   - name: "Petite Madame"
     rating: 5
-    date: "2026-05-18"
     comment: |
       I have been buying cakes from this place since I had my first child who is now 4. I have never been disappointed, I get exactly what I ask for each time and its so beautiful! Not only are the cakes beautiful but it tastes really good too! Moist and not too sweet! I look forward to always celebrating my kids birthdays with KC Bakes 🥰
   - name: "Mahsa & Tëma"
     rating: 4
-    date: "2025-12-25"
     comment: |
       I was looking for a Yule cake for Christmas Eve and was delighted to find a bakery that offered one with a tree-stump theme. The mocha flavor was an especially pleasant surprise, as it’s not easy to find and was very well done.
       
@@ -57,12 +54,10 @@ reviews:
       Overall, this was a great experience. The quality of the cake and the friendly service really stood out, and we will definitely return to try more pastries and order future cakes.
   - name: "Galyna Paplinska"
     rating: 5
-    date: "2026-08-01"
     comment: |
       A lovely, cozy café with a great selection of pastries and refreshing summer drinks. But the real highlight is the espresso—rich, bold, and absolutely excellent. If you’re a true espresso lover, this is the place to be!
   - name: "Lady Lou Delfin"
     rating: 5
-    date: "2026-06-18"
     comment: |
       Beautiful cake with just the right sweetness. It made my baby's baptism very special. Thank you Ten♥️♥️
 ---

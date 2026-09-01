@@ -30,17 +30,14 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Sim Kaida"
     rating: 5
-    date: "2026-05-13"
     comment: |
       Abhinav was absolutely amazing! He captured our 50th anniversary surprise party so well, the photos and video will be shared for years to come. He was easy to deal with, understood what we were looking for, and provided more than we could have hoped for. I would recommend him to capture your families special moments again and again!
   - name: "Cynthia Eseonu"
     rating: 5
-    date: "2026-05-26"
     comment: |
       photography by Abhinav covered our kid’s birthday party for the second time in a row! We could!n’t recommend them enough. Super professional and extremely patient with the children. So friendly too! We thank you guys so much and can’t wait to see the pictures & videos!!
   - name: "Markandeya Madabattula"
     rating: 5
-    date: "2026-05-10"
     comment: |
       We had an incredible experience working with our photographer for our engagement shoot. From the very beginning, he was professional, respectful, and incredibly responsive, making the entire planning process seamless and stress-free.
       
@@ -49,12 +46,10 @@ reviews:
       The final photos turned out really great, exceeding our expectations. We couldn’t be happier with the results and would definitely work with him again. Highly recommended!
   - name: "Candy khan"
     rating: 5
-    date: "2025-10-30"
     comment: |
       Abhinav is a great photographer, always flexible and professional. He is more like a family member. I recommend him for all your occasions. He is humble and approachable. I am really pleased with all the pictures he has taken for us over the years. The pictures always captures the mood. Thank you so much for your care and diligence.
   - name: "Mrudhu V G"
     rating: 5
-    date: "2025-09-23"
     comment: |
       Abhinav is a very talented photographer and we appreciate your patience and professionalism during the session. Photos look so natural and were a perfect representation of our love. We're thrilled with the results, thank you so much for all your dedication and hard work!!
 ---

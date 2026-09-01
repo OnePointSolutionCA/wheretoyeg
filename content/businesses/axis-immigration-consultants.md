@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Aniket Verma"
     rating: 5
-    date: "2026-07-22"
     comment: |
       I had an excellent experience with Axis Immigration throughout my Permanent Residence application process. From the very beginning, the entire team was professional, responsive, and always willing to address my concerns and answer my questions. They made what could have been a stressful process much smoother by providing clear guidance every step of the way.
       
@@ -41,12 +40,10 @@ reviews:
       Thank you once again for making this journey a positive and stress-free experience!
   - name: "Harsimar Kaur"
     rating: 5
-    date: "2026-07-29"
     comment: |
       I had a great experience with Navneet Kaur at Axis Immigration. She helped me with my study permit extension and made the entire process smooth and stress-free. She worked incredibly quickly and was super efficient throughout. She was professional, supportive, and always ready to answer my questions. I truly appreciate her help and highly recommend her services!
   - name: "Gladson Cjohn"
     rating: 5
-    date: "2026-06-05"
     comment: |
       I had an excellent experience with Axis.
       From the very beginning, the team was professional, knowledgeable, and always available to answer my questions. They guided me through every step of the immigration process with patience and attention to detail, making what could have been a stressful experience much easier.
@@ -56,7 +53,6 @@ reviews:
       I highly recommend this agency to anyone looking for reliable and trustworthy immigration services. Thank you for your outstanding support and excellent service!
   - name: "Khurm Shahzad"
     rating: 5
-    date: "2026-07-23"
     comment: |
       Axis immigration
       
@@ -71,7 +67,6 @@ reviews:
       Thank you, Axis Immigration, for making our dream of becoming Canadian permanent residents a reality!
   - name: "Windel Cuenca"
     rating: 5
-    date: "2026-06-29"
     comment: |
       I can't thank Axis Immigration Consultants enough for their incredible suppirt throughout my immigration journey. They helped me every step of the way - from obtaining my Visitor Visa, then my Work Permit, and finally achieving my Permanent Residency. Their expertise and guidance made what could have been a stressful process feel smooth and manageable.
       

@@ -31,27 +31,22 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Theresa Tsoukalas"
     rating: 1
-    date: "2026-07-09"
     comment: |
       I hired them to do a deep clean of my parents’ home, and I was extremely disappointed with the results. Many surfaces that were right out in the open were left dusty or untouched, and it honestly doesn’t even look like a deep cleaning was done. I expected much more attention to detail and care, especially for a service advertised as a deep clean. Unfortunately, the quality of work fell well below expectations.
   - name: "hayley simpson"
     rating: 5
-    date: "2026-04-08"
     comment: |
       Hired for a move out clean for my apartment in sherwood, and the 3 ladies did an amazing job! Couldn’t have done it myself, it was easy to call and schedule as well. I’ll use Molly Maid again for future cleaning needs!
   - name: "A Fulcher"
     rating: 5
-    date: "2022-08-11"
     comment: |
       From my first contact I was given an estimate by Michelle and they hit it right on. The Crew of Patti, Josie, and a different Michelle made it sparkle which is a must for perspective buyers.  Thanks!! WELL worth the investment! - Andrew Fulcher
   - name: "J R"
     rating: 1
-    date: "2026-07-14"
     comment: |
       Very poor and worst cleaning I ever seen. Took lots of time to do the bad work for 1 room. If there is any star below 1 I will give
   - name: "Mega Destroyer"
     rating: 5
-    date: "2026-04-14"
     comment: |
       Angela and Ashley went above and beyond and did a spectacular job on my whole house. Ill def look to request them next time.
 ---

@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Karen Hothi"
     rating: 5
-    date: "2026-06-04"
     comment: |
       We recently had work completed on our vehicle after a bird hit and broke the grill and bumper. We were recommended to them by Lexus.
       
@@ -39,19 +38,16 @@ reviews:
       The ladies at the front desk were also great !
   - name: "Wendy Larose"
     rating: 2
-    date: "2026-07-26"
     comment: |
       Staff polite but it took almost 2 months for pretty minor repair. No communication between staff or customer. I was asked to contact wreckers or look for the trim for my vehicle. Isn't that their job? I had car fixed here before and it went well. This time it was painful
       If I had a dollar for every time I heard oh sorry about that I could have pocketed a lot of money. Vehicle is finally fixed
       Glad to have it done
   - name: "Sean Clarke"
     rating: 5
-    date: "2026-07-20"
     comment: |
       Over the past few years I’ve had 3 different repairs on (3 separate vehicles) completed at CSN Herbers Autobody in Edmonton. I’ve had excellent service and quality repairs every time. I’ve found to staff to be very professional and friendly, and the quoted price was better than their competitors. In fact, on two occasions the final price was significantly less than originally quoted. I highly recommend CSN Herbers in Edmonton for autobody repairs.
   - name: "Paul Walker"
     rating: 5
-    date: "2025-10-15"
     comment: |
       ⭐⭐⭐⭐⭐ I highly recommend Herbers Autobody on 170 St and 107 Ave.
       After doing extensive research and comparing several autobody shops, I chose Herbers based on their reputation for quality workmanship and fair pricing. I brought in my 2008 Lexus IS 250, and I couldn’t be more pleased with the results.
@@ -61,7 +57,6 @@ reviews:
       The difference in service quality among autobody shops is significant, and Herbers truly stands out. I would not hesitate to trust them with any future repairs, and I strongly recommend getting an estimate from them for your autobody needs.  I give them a hands down 5 star review.
   - name: "Vasyl Bondarenko"
     rating: 1
-    date: "2025-08-23"
     comment: |
       I would like to leave a review about the Body Shop. I am extremely dissatisfied. I honestly don’t understand who gave them a license. They repaired my car for 14 days instead of the promised 4, and the job was done very poorly. The door panel was not fixed. They painted over the door seals. The silicone work was, frankly speaking, disgusting.
       

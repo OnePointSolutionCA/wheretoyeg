@@ -32,7 +32,6 @@ date_listed: "2026-08-18"
 reviews:
   - name: "Sam A"
     rating: 5
-    date: "2025-04-13"
     comment: |
       If you LOVE a good coffee, TRANSCEND nails it every time. Coffee beans are ethically sourced, unbelievably fresh, rich and perfectly roasted.
       Their mocha is my personal favourite, very smooth and well balanced flavour. You can taste the quality in each sip.
@@ -40,7 +39,6 @@ reviews:
       Transcend is one of the top coffee shops in Edmonton and I’m glad it’s in my neighbourhood. I wished I found you sooner. Their coffee is a game changer and I can’t recommend it enough!!!
   - name: "asad ilyas"
     rating: 5
-    date: "2025-09-26"
     comment: |
       To me, acquiring coffee is an experience. It’s not just hitting caffeine. It’s the people, the ambience, the flavour, the texture that makes the whole experience incredible.
       
@@ -49,7 +47,6 @@ reviews:
       Highly recommend if you’re looking for high quality coffee in Edmonton!
   - name: "Cathleen Bell"
     rating: 5
-    date: "2025-10-26"
     comment: |
       Transcend's coffee is top-notch. I love coming here for an americano. I take my coffee black so there is nothing to hide the quality of the coffee and Transcend always delivers with a perfect cup! I also enjoy treating myself to their "Gateway Blend", which has tasting notes of chocolate and nuts.
       
@@ -58,12 +55,10 @@ reviews:
       The staff are so warm and welcoming, which really nurtures a cozy atmosphere. This location was very quiet when I visited a Sunday morning whereas their Ritchie Market location always seems to be bustling.
   - name: "Ethan Lang"
     rating: 4
-    date: "2025-07-29"
     comment: |
       A great coffee shop for studying or getting some work done. Lots of people moving in and out but never felt cramped. High quality coffee although a bit more expensive than other places in the area. Not a whole lot of food options but if you are just looking for a drink thats alright. Enjoyed a lot.
   - name: "Randy B"
     rating: 4
-    date: "2026-03-17"
     comment: |
       Decent coffee shop with daytime hours only. I do love all the natural light.
       Nice non-acidic coffee.

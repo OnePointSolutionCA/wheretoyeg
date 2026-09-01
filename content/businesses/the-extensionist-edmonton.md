@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "jill critch"
     rating: 5
-    date: "2026-05-20"
     comment: |
       Shannon did my hair and wow I love it.
       She removed my old tape ins and gave lots of attention to detail to make sure all the glue was out of my hair. Then she coloured my hair a beautiful red and matched my ends to the vibrant red of the extensions. I can’t believe I waited this long to get the vogue pearl extensions. I can’t even feel them.
@@ -38,7 +37,6 @@ reviews:
       Also Megan the owner was amazing such a welcoming environment.
   - name: "Kamee Gilmore"
     rating: 5
-    date: "2026-05-11"
     comment: |
       I debated writing this review simply because this experience is very personal to me.
       
@@ -51,17 +49,14 @@ reviews:
       I am so grateful I finally took the leap after years of hesitation. Thank you again.
   - name: "Tayler"
     rating: 5
-    date: "2026-07-23"
     comment: |
       Thank you, Megan! We really appreciated your kindness, helpfulness, and respect. You made us feel comfortable and taught us a technique we still use today. Thank you for such a positive experience!
   - name: "Tanya Malthouse"
     rating: 5
-    date: "2026-03-27"
     comment: |
       So I am a salon babe and I think I’ve tried everything you can do to your hair.  Somehow I keep finding my way back to Meagan at The Extentionist. When you’ve tried all the rest but want the best this is the place. Her new patented hair weft is absolutely amazing, so many colors to choose from and her flawless install will leave you breathless! Thanks Meagan
   - name: "k2020 s"
     rating: 5
-    date: "2026-04-20"
     comment: |
       My extensions are so comfortable I don’t feel them on! Shannon did such a great job and showed so much care. So appreciative 🙏
 ---

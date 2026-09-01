@@ -33,18 +33,15 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Super Review Widget"
     rating: 5
-    date: "2026-06-28"
     comment: |
       Tried the chicken sandwich and fries and it was honestly really good. The chicken was crispy, the bun was soft, and the slaw added a nice fresh crunch without making it messy. Fries were hot and simple, exactly what you want on the side. Nothing overcomplicated, just a solid comfort food meal that hit the spot. I’d definitely order it again.
   - name: "Alex"
     rating: 5
-    date: "2026-04-12"
     comment: |
       Really good crispy chicken that is actually hot when they say its hot! Great service and halal which is a plus. My first visit I got the combo which is a good price for two people. You might be asking yourself, why is it so cheap compared to a regular combo? Turns out the combos have a smaller chicken burger. No complaints though because it's still a decent size for a really good price.
       My second visit I got the french toast sandwich and it is in fact bigger! Really fun and easy concept and another home run for their chicken.
   - name: "Jayson Candles"
     rating: 1
-    date: "2026-07-24"
     comment: |
       EDIT: Dont come here with $100 bills they will refuse service.
       Cash is money.
@@ -58,7 +55,6 @@ reviews:
       Well done chef. You will be seeing me again and again.
   - name: "S C"
     rating: 5
-    date: "2025-08-12"
     comment: |
       For those of you who don’t read the entire reviews.
       1.  Chick n Flame
@@ -88,7 +84,6 @@ reviews:
       Anyways, currently when I think of having a spicy chicken sandwich, Chick n Flames is for me.  At “medium” spice level please.
   - name: "Moiz Adamji"
     rating: 5
-    date: "2024-05-04"
     comment: |
       Chick N Flames is a culinary gem that serves up a Nashville chicken sandwich combo that is nothing short of perfection.  Bonus points for being halal.  The **Cajun fries** are a standout, boasting a crispy exterior that gives way to a fluffy interior, each fry seasoned with just the right amount of spice to tantalize the taste buds without overwhelming them.
       

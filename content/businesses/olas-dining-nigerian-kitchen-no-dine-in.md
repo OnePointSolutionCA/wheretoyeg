@@ -33,7 +33,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Nicholas"
     rating: 2
-    date: "2025-06-01"
     comment: |
       Suya $15
       Slow grilled beef seasoned with hot peanut spices served with tomatoes and onion.
@@ -62,7 +61,6 @@ reviews:
       No. Respectfully, of course.
   - name: "Joanna Dyndor (Dyndorian)"
     rating: 5
-    date: "2024-12-15"
     comment: |
       Adding a better photo to my review. I think I’ll eventually try everything on the menu! Second time here and very happy. I like the fuku and ponmo too.
       
@@ -73,17 +71,14 @@ reviews:
       I ordered the Fish Pepper and Egusi Soups, the swallows I chose were Amala and Fufu. I was happily and kindly greeted at my vehicle and I couldn’t get home fast enough to try the food. I asked for a little bit of spice and got what I wanted. The food is very flavorful and delicious.
   - name: "Anthony Jnr"
     rating: 5
-    date: "2023-07-14"
     comment: |
       The food is absolutely delicious! I love the flavors and the quality of ingredients they used. Keep up the fantastic work! Definitely going to order again!
   - name: "faith nne"
     rating: 5
-    date: "2026-05-10"
     comment: |
       Hello Ola’s dining you delivered your department and we are pleased to inform you that we want more. Definitely ordering more
   - name: "india badger"
     rating: 5
-    date: "2026-01-13"
     comment: |
       I recommend this very much this jollof spaghetti and jollof rice and plantain they’re good is the best and tasty I always love coming here !!!
 ---

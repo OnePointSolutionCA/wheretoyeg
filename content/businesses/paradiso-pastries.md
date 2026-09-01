@@ -33,27 +33,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Waleed"
     rating: 5
-    date: "2026-04-06"
     comment: |
       Awesome place, lots of selections of sweets 😋, you always find yourself coming back for more.
   - name: "Beatriz Barrientos Cabrera"
     rating: 4
-    date: "2026-04-08"
     comment: |
       I went in looking for chocolate cake and tried a couple of different options, but I didn't really enjoy them. They were too sweet and lacked a real chocolate flavor; they tasted like boxed mixes since they all tasted the same. On the other hand, the cookies were delicious and everything was fresh. Customer service could be friendlier—I only received one-word answers.
   - name: "EatYEG"
     rating: 5
-    date: "2025-10-08"
     comment: |
       Everything is delicious here. Very fresh, amazing kind people working here. Never say no when they offer free tasting samples — you’ll end up finding your favorite!
   - name: "hana hanawe"
     rating: 1
-    date: "2024-04-17"
     comment: |
       Attention , Attention .  I bought baklava for Eid, and after my family ate  some of it , the whole family got diarea . We stopped eating it to return it , and after looking carefully at it , we found bacteria growing on it . It is really disgusting and repulsive . This restaurant must hold accountable . It seems they sell expired sweets that have been made since long time . NEVER buy from this filthy lousy restaurant .
   - name: "cagatay cakir"
     rating: 4
-    date: "2026-03-13"
     comment: |
       Kerhane Tatlisi was pretty good. Shambali, tulumba and lokma were also very enjoyable. The style is a little different compared to what you find in Turkey, but considering we’re in Edmonton, it’s hard to find better Turkish desserts. Definitely worth trying.
 ---

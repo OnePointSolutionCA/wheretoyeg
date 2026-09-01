@@ -33,7 +33,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Mick M. Sahib"
     rating: 4
-    date: "2026-04-25"
     comment: |
       Overall a very good buffet. The restaurant is quite large and there are lots of places to sit so there isn’t a wait to get in.
       
@@ -42,22 +41,18 @@ reviews:
       Service was excellent, as plates were taken away quite quickly. And for $23 for a lunch buffet, you really can’t go wrong, as most single dishes at a decent restaurant is around $20 anyways. Seemed to be ample parking as well. Definitely will go back!
   - name: "Julia V"
     rating: 5
-    date: "2026-06-10"
     comment: |
       Heard about this place from my sister in law. The amount of things to choose from here is amazing! So much different food. They even have an ice cream section! The price is great for the amount of food you can get. The service is a little slow for drinks, but being able to self serve food is great! The food is always hot and they are constantly topping it off. I would recommend coming to check this place out if you like Chinese food!
   - name: "Russell Qiu"
     rating: 1
-    date: "2026-05-23"
     comment: |
       It’s a huge Chinese buffet with a ton of food options, but honestly, the hygiene and quality control aren’t great. I’ve seen kids take the communal ice cream scoop, stick it straight into their half-eaten bowls for seconds, then use that same scoop in a different flavor tub right after. Trust me, they’re not throwing out the contaminated ice cream when that happens. At most, they’ll just rinse the scoop under tap water and keep using it.
   - name: "Ishtamanu Durwin"
     rating: 5
-    date: "2025-12-22"
     comment: |
       I like the hot and sour soup i miss it the taste is same with my old favorite restaurant before (Zong) i focus on Dimsum it’s all incredible, everything is superb. Service well two thumps up good job for the service. Ambiance this is not for a date place for lovey dovey, the place is alway full packs of crowd that need to wait to be seated. Which indicate the food is so good that everyone lined up and its really true. 🫡
   - name: "Daniel Tran"
     rating: 2
-    date: "2026-01-22"
     comment: |
       Visit: January 2026
       

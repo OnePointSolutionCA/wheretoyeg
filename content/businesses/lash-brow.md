@@ -29,7 +29,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Rebecca Schulte"
     rating: 5
-    date: "2026-02-22"
     comment: |
       I cannot say enough about Yuri at Lash Brow Studio!  From the moment you walk in, you feel completely comfortable and taken care of.  Yuri is incredibly talented, meticulous, and truly an artist when it comes to lashes.  My sets are always full and customized perfectly to my eyes…and they last so well, still looking flawless weeks later!
       
@@ -38,22 +37,18 @@ reviews:
       If you’re looking for someone who consistently delivers stunning, high-quality results, Yuri at Lash Brow Studio is the one.  Highly, highly recommend!
   - name: "Norma Folgar"
     rating: 5
-    date: "2026-03-06"
     comment: |
       Hello everyone , I have been having my lashes with Yuri for more the six year, Do I need to say more ! She wonderful and very professional . I recommend  !
   - name: "Sylvia W"
     rating: 5
-    date: "2026-02-22"
     comment: |
       Yuri is a very professional lash tech. She listens to what you want and delivers! I have been very pleased with each appointment  I have had with her.
   - name: "Susan Vishnu"
     rating: 5
-    date: "2025-02-14"
     comment: |
       I arranged for a first ever lash lift as a gift for both my girls. The results were amazing!!! They enjoyed working with Yuri, she was kind and professional. We will definitely be back. We highly recommend Lash Brow and Yuri for the quality service and enjoyable experience.
   - name: "Michelle M"
     rating: 5
-    date: "2024-08-13"
     comment: |
       Yuri has been doing my lash extensions for the past year and a half! ❣️I am beyond grateful for her knowledge and expertise! Not only is she Amazing at what she does she is unbelievably kind and caring too!! I highly recommend Yuri’s services as she will work with you to find what options are best suited for you!!
 ---

@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Shanley Foerster"
     rating: 5
-    date: "2025-10-27"
     comment: |
       Albatross Roofing did an outstanding job on our son's home and garage in Beaumont two years ago, and we’re still extremely happy with the results! They replaced all the shingles on both the house and garage, and also installed new gutters on the garage. The workmanship was top-notch — everything was done efficiently, neatly, and with great attention to detail.
       
@@ -39,17 +38,14 @@ reviews:
       Two years later, everything still looks fantastic and has held up perfectly through all kinds of weather. I wouldn’t hesitate to recommend Albatross Roofing to anyone looking for reliable, high-quality roofing work in Beaumont and the greater Edmonton area.
   - name: "Joshua Boisclair"
     rating: 5
-    date: "2021-07-23"
     comment: |
       Called on Thursday morning to inquire about having the roof inspected and repaired as we had water coming down into our basement from the hot water tank exhaust vent. Dallas was great on the phone and offered to have a crew come out the same afternoon. After speaking with another roofing company prior to contacting Albatross, these guys were the real deal! The other company had told me no one could come out until fall which doesn’t do any good for a roof leak that’s happening now! Dallas had the crew out on Thursday afternoon same day of the call! Erik showed up and reviewed the issues happening on-site. I asked him to review the entire roof system and all vents and the side fascia. He was very honest and found the problem with the exhaust vent immediately and noted several other issues he saw on site which could lead to future problems (unsealed nails and screws, loose flashings etc.). I want to stop and mention that it was pouring rain outside and lightening / thunder booming overhead as he did this inspection on the roof!! He provided a temporary repair to seal the vent until a formal repair could be completed. I asked for an estimate and was going to be provided one over email. I figured I would be waiting a week or two for an estimate and repair. To my surprise Erik was calling me at 7:45am on Friday morning to come do the work!!!! I never received an estimate and he had Dallas immediately call me and discuss the very very fair pricing for the scope of work. Erik showed up ready with the materials to complete the repair on Friday morning (day after the temporary repair and inspection). This company really cares about their clients and definitely knows that roof leaks are not something that can wait! The explanation and the repairs completed were fantastic. Erik and his associate were very knowledgeable and their craftsmanship is superior. I have posted some photos below of the aftermath! The bill also didn’t break my bank account which was nice considering this was an unexpected expense out of pocket! I highly recommend you call Albatross for all of your roofing and flashing needs!!! One happy customer here! Kudos guys!!!
   - name: "Pat Humble"
     rating: 5
-    date: "2025-09-17"
     comment: |
       Great job on roof. Cleaned up after every day. Pleasant workers. When issues arose, very willing to work them out quickly and efficiently. Reasonable price. Very professional and easy to work with. I would have no problems asking Albatross Roofing to do a roof for me. I was very pleased with the outcome.
   - name: "Jared Walls"
     rating: 5
-    date: "2025-07-04"
     comment: |
       We recently had our cedar roofing replaced with asphalt shingles by Dallas and his team, and we couldn’t be more pleased with the results. From start to finish, their team was professional and easy to work with. They clearly take pride in their work—the finished roof looks fantastic, and everything was done with great attention to detail.
       
@@ -60,7 +56,6 @@ reviews:
       I highly recommend Albatross Roofing to anyone looking for quality roofing work. It’s not easy to find contractors who deliver this level of craftsmanship and customer service—these guys truly did a great job.
   - name: "Cindi Hardy (Cindi84)"
     rating: 5
-    date: "2025-07-18"
     comment: |
       We recently had our roof redone by Albatross Roofing and couldn’t be happier with the entire experience. From start to finish, Dallas and Amanda were fantastic to deal.  They were professional, responsive, and communicated clearly throughout the process.
       

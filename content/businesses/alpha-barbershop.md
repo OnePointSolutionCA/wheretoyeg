@@ -29,7 +29,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Abbas Tarabay"
     rating: 5
-    date: "2026-02-22"
     comment: |
       I can’t recommend Alpha Barbershop enough! Ramzi is truly the best barber in town. I’ve been going there with my son, and every visit is an amazing experience.
       
@@ -38,22 +37,18 @@ reviews:
       The haircuts are always clean, fresh, and exactly what we ask for. If you’re looking for quality, great energy, and top-tier service, this is the place to go. Highly recommended!
   - name: "Jamie Hewlett"
     rating: 5
-    date: "2026-07-05"
     comment: |
       Thank you Alicia for the beard trim and hair cut! The experience was by far the  most outstanding !/ with the sculp message and beard wash it was like a men’s spa treatment! Very happy with the experience! Very professional and the environment was perfect and welcoming ! I will be back you can guarantee that!!! Thank you once again 😊
   - name: "Michael"
     rating: 5
-    date: "2026-06-02"
     comment: |
       I can’t say enough great things about Alicia ! She gives the best haircuts I’ve ever received. Her attention to detail and precision are incredible she is a true perfectionist who loves what she does. Not only is she an amazing and talented barber, but she is also a sweet, beautiful, and wonderful person to talk to. 10/10 stars
   - name: "hussam adil"
     rating: 5
-    date: "2026-06-20"
     comment: |
       Ramzi is amazing. Very professional, friendly, and really takes his time to make sure everything looks perfect. The barbershop is clean, welcoming, and the service is always great. Highly recommend Ramzi to anyone looking for a fresh haircut and a great experience.
   - name: "RL Bear"
     rating: 5
-    date: "2026-06-17"
     comment: |
       Fellas, listen.. if you want your beard to look like a million bucks, whether you got a short or long beard, ask for Alicia. I know Lots of us guys are sometimes hesitant to let a lady touch our beards but Alicia is an absolutely fantastic barber and her beard cutting and shaping skills are second to none. Trust me. If you get her to work on your beard once, I guarantee you that she will become your new number 1. 🤟
       

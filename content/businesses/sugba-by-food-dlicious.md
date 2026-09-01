@@ -31,12 +31,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "CurlyWater"
     rating: 5
-    date: "2025-10-18"
     comment: |
       I visited this place with my family and friends yesterday, Friday afternoon, and I was truly amazed by both the delicious food and the excellent customer service. The staff were friendly, attentive, and made sure we had everything we needed. The dishes were flavorful, well prepared, and served fresh perfect for sharing! I highly recommend checking this place out if you’re looking for great food at an affordable price. Their portions are generous too, ideal for groups of 4–6 people, whether you’re celebrating a festival or just enjoying a nice meal together.
   - name: "Jean-Pierre Brossard"
     rating: 3
-    date: "2026-02-15"
     comment: |
       Trying this place  for the second time, this time during the Valentines Buffet. Restaurant is very clean and the staff is hospitable and kind. They did their best to accommodate us.
       
@@ -48,7 +46,6 @@ reviews:
       Potatoes were not throughly cooked either. I hope the owners take this as constructive criticism and improve the quality of their product.
   - name: "Vinze"
     rating: 5
-    date: "2026-03-15"
     comment: |
       We really had a blast for our simple gender reveal party!!
       
@@ -78,12 +75,10 @@ reviews:
       - Dinnerware & Silverware
   - name: "Jem"
     rating: 5
-    date: "2026-01-10"
     comment: |
       Great food! Super fast service and presentation was on point too. Had every classic Filipino dish you would want to try. Only recommendation is to change the music, didn’t think 2000s sad punk/rock music was fitting for early lunch dining haha
   - name: "Monica Marcelino"
     rating: 5
-    date: "2026-03-07"
     comment: |
       Went here for lunch with my cousins and we had a wonderful experience.
       

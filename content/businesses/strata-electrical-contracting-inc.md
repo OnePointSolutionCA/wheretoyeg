@@ -30,25 +30,21 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Ten Oue"
     rating: 5
-    date: "2026-07-23"
     comment: |
       Justin was great. He showed up on time and fixed the problem ASAP will definitely use this company again. Also squeezed us in the very next day which was awesome.
   - name: "Kim T"
     rating: 5
-    date: "2025-07-17"
     comment: |
       Really happy so far with Strata.  Very responsive, it was easy to book an estimate online.  Anthony was great and so helpful for getting the info for the quote, and amazingly he was able to get Daniel to start a few days later. I had been struggling to line up an electrician, so I felt like I was in good hands. Really happy with the professionalism as well - Daniel did a great job and explained things well to me.  And Anthony did a follow up call, and I thought that was such a nice touch.  We have one final step in the project, but so far, this has been awesome.
       
       One last thing as I found Strata via the good Google reviews, and I would have found this helpful  Pricing was fair.  An independent electrician, may save you a little bit of money but a good one gets too booked up. Paying for fast and efficient is worth it. I think Strata's prices are reasonable and they were honest and I saved some money once they actually started the job and saw I didn't need one part they initially anticipated.
   - name: "Tire Bee"
     rating: 5
-    date: "2023-03-06"
     comment: |
       Awesome service from Team Strata Electrical!
       Urgently needed to run 220V to our air compressor at the shop, Josh was sharp on time and had everything done in a couple hours. Looks super clean and works as expected! Much appreciated!
   - name: "Ryan Wagner"
     rating: 5
-    date: "2025-04-29"
     comment: |
       Mike G., Brody P., and their team have been absolutely great to work with. Every day they show up and give 110%.
       
@@ -57,7 +53,6 @@ reviews:
       Honestly, we couldn’t have asked for a better crew. I’d highly recommend them to anyone looking for a solid electrical team.
   - name: "Julie Leggett-Epp"
     rating: 5
-    date: "2025-07-06"
     comment: |
       Excellent work!  Our Electrician, Dustin, arrived on time and was prepared with solutions that met our specific situation. He was polite, tidy and efficient. Should we have any future projects that require electrical support, I will definitely be booking with Strata again!  Highly recommend.
 ---

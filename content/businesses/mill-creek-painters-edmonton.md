@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "M Paterson"
     rating: 5
-    date: "2026-05-26"
     comment: |
       Friendly staff with attention to detail!
       Because we had used Mill Creek Painters for a previous project, it was easy decision to use them for our kitchen project.
@@ -40,19 +39,16 @@ reviews:
       Bottom line…we highly recommend Mill Creek Painting!
   - name: "Ashley Doran"
     rating: 5
-    date: "2026-06-20"
     comment: |
       I am beyond happy with our “new” cabinets and can’t believe how much brighter and more spacious our kitchen feels. The transformation is dramatic and the quality of work exceeded expectations, especially given our 50+ year-old cabinets. Marcel was excellent with communication and setting clear expectations and resolving any concerns after re-install, William did meticulous prep and painting on-site with great attention to detail, and Lisa worked magic on the doors and drawers for a flawless finish. We opted to have the hardware holes filled in as we are changing them and the placement and the holes are basically invisible.  The whole process took just over a week to accommodate my schedule and everything was handled professionally from start to finish.
       
       There was a hiccup when an oil-based primer was used instead of the originally planned low-VOC option based on performance concerns with the cabinet doors, which did impact our plans for boarding our parrots. While inconvenient, and very stinky, I understand the decision was made to ensure the most durable finish.
   - name: "Andrew Woloshyn"
     rating: 5
-    date: "2026-02-15"
     comment: |
       I was very impressed overall with Mill Creek painters. The communication was fantastic, emails, calls, and texts with progress updates and what was happening next. Marcel was great at disassembling everything and then putting it all back together. Very personable and knowledgeable. Will did the painting at our house and worked incredibly hard. The kitchen cabinet doors and drawers are flawless. Very happy with our experience and new kitchen.
   - name: "Dylan R"
     rating: 3
-    date: "2026-03-16"
     comment: |
       I chose Mill Creek Painting to paint a ceiling based on positive online reviews. The estimate process was quick, quote was competitive, turnaround time (less than two weeks) was great, and communication about the one-day delay was appreciated.
       
@@ -65,7 +61,6 @@ reviews:
       The ceiling looks good now, but the overall attention to detail wasn’t quite what I expected. I hope this feedback is helpful.
   - name: "Tracey Wolter"
     rating: 5
-    date: "2026-03-03"
     comment: |
       Mill Creek Painters met every requirement I had and then some!  So happy with their work. From the first contact to wrapping up the job, they are professional and very customer focused.  Huge thank you to my painter Leona who did an absolutely fabulous job!  Love, love, love how my house looks now!
 ---

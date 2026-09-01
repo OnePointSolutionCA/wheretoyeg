@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Sonja H"
     rating: 4
-    date: "2026-06-16"
     comment: |
       The staff and practitioners at Manchester have been outstanding. I have been a patient for over 20 years and have always received excellent care and service.
       
@@ -41,24 +40,20 @@ reviews:
       I am grateful for the many years of excellent care and wish the entire team continued success.
   - name: "Joseph Rubay"
     rating: 5
-    date: "2026-06-23"
     comment: |
       I had an amazing experience with dental hygienist Reeshama Panju. I’ve honestly never had such exceptional treatment in my life. She was incredibly gentle, professional, and made me feel comfortable throughout the entire appointment. What really stood out was how educational she was — she took the time to explain everything clearly and gave me helpful advice on improving my oral health. You can truly tell she cares about her patients and takes pride in her work. I highly recommend Reeshama Panju to anyone looking for a knowledgeable and caring dental hygienist!
   - name: "nighat mehroze"
     rating: 5
-    date: "2026-07-03"
     comment: |
       I find Dental clinics very intimidating but my experience at Manchester dental made me feel very comfortable   The doctor gave me a feeling of being a family. Very professional , friendly and caring staff.  That’s why I go to this clinic although it’s a distance of more than twenty minutes drive while I have around four dental clinics at a five to ten  minutes walking distance from my home. My whole family goes to Manchester Dental and I will surely recommend it to others too
   - name: "chris zimmerman"
     rating: 5
-    date: "2026-05-20"
     comment: |
       One of the best professional services offices I've ever visited.  I had a sensitive and psychologically challenging procedure completed here and the staff and doctor were the height of professionalism and compassion. I never felt judged or insecure at all during the process and the end results, even at the initial stages, exceeded my wildest dreams.  Most importantly, my experience at this office has been as pain-free.  They take your comfort very seriously here.
       
       If you have dental anxiety of any kind, I highly recommend Manchester Dental.  They completely flipped my perception of the dentist and saved my smile.  Very glad I chose this clinic for my issues, and the results show every time I open my mouth!  You won't be sorry!
   - name: "T J"
     rating: 5
-    date: "2026-06-10"
     comment: |
       The hygienist & dentist explained everything well. Cleaning went very well. Front entrance door was easy to open with my walker in hand. Handicap accessible bathroom. I will be back again.
 ---

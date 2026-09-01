@@ -30,12 +30,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "MARYANNE BANAAG"
     rating: 5
-    date: "2026-07-13"
     comment: |
       The clinic truly demonstrates genuine care for their patients. Dr. Joel and his team were consistently kind and attentive. Every staff member was accommodating and clearly knowledgeable in their work. The ambiance is calm and welcoming, creating a comfortable and reassuring environment for anyone visiting the clinic. Thank you all! 😊
   - name: "Catherine Belano"
     rating: 5
-    date: "2026-06-02"
     comment: |
       During my visits, encounters were mostly with Elsa at the front desk and Dr. Lorraine Venturina.
       
@@ -46,14 +44,12 @@ reviews:
       Dr. Lorraine is very thorough and thoughtful of what care an individual needs. She even offered me a referral to a specialist in case they have any suggestions in addition to what we've been doing. She's very professional and kind. I really appreciate you and am really grateful Doc Venturina 🙏🙏🙏
   - name: "Prigith Panchaputhran"
     rating: 1
-    date: "2026-01-08"
     comment: |
       When I called to get a family doctor , They told me that a new doctor is  joining, and we booked an appointment for January 8. On January 7, we called the family clinic to confirm the appointment, and they confirmed that it was scheduled.
       
       However, we received a call from the clinic just 20 mts before the appointment and was told the doctor we were supposed to see was only temporary and that we could come only for a prescription or lab works. Since it was a working day, both my wife and I had taken leave just for this appointment, and we also kept our son home instead of sending him to school. Because of this experience, I am not able to recommend this clinic to anyone.
   - name: "Ma Cristina Largoso"
     rating: 5
-    date: "2026-02-28"
     comment: |
       Best clinic in town!! Doctors are knowledgeable and takes time to listen with all your concerns. Specially,Dr. Joel  and Dr. Lorraine
       Even with their busy days,i dont feel that the doctors rush me whenever seeing the. They will listen to every details and takes time to review your medical history,even just doing walk ins.
@@ -61,7 +57,6 @@ reviews:
       You guys are AMAZING!!!
   - name: "Joy Baculi"
     rating: 5
-    date: "2026-03-26"
     comment: |
       I had a great experience in this clinic. Dr. Joel San Agustin took time to listen and explained everything clearly. Nice and clean facility, reasonable wait times, and very friendly staff. I would highly recommend this clinic.
 ---

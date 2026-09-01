@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "haythim saghr"
     rating: 5
-    date: "2026-05-22"
     comment: |
       I’ve dealt with No Water Roofing on multiple occasions over the years, both for our business/medical clinic and for personal work at my own home, and I honestly cannot recommend them enough.
       
@@ -41,7 +40,6 @@ reviews:
       In my opinion, No Water Roofing is one of the best companies out there for any roofing related work. Highly recommended.
   - name: "Soumaya Mabrouk"
     rating: 5
-    date: "2026-03-18"
     comment: |
       I recently had the pleasure of working with No Water Roofing, and I couldn’t be more satisfied with the entire experience from start to finish.
       
@@ -58,17 +56,14 @@ reviews:
       I highly recommend No Water Roofing to anyone looking for reliable, professional, and high-quality roofing services. From their excellent customer support to their expertise and the team’s outstanding repair work, the entire process was seamless, quick and stress-free.
   - name: "Boris Djordjevic"
     rating: 5
-    date: "2026-03-05"
     comment: |
       Thomas and his team have flawlessly executed 2 residential and one commercial projects for me and my company . Thomas professional experience and knowledge makes the roof project process easy and straightforward. They are also fully automated so billing and before/ after photos and reports are unbeatable added value ! Highly recommend!!
   - name: "Oemar Rehmaan"
     rating: 5
-    date: "2024-02-13"
     comment: |
       Called them for attic rain issue in my home. It was very easy to book the inspection and Lawrence showed up on time. He did a great job explaining the issue and what fix was required. I was given a fair estimate for the work, the job was performed very well and on time with no hidden costs. Very professional and quick service. Definitely recommend them for roofing work.
   - name: "Anastassia Bennett"
     rating: 5
-    date: "2025-11-03"
     comment: |
       We’ve hired No Water Roofing twice now—first in Edmonton, and most recently in Victoria. Thomas, Mali, Lawrence, Dave and his crew made the trip out and got the job done quickly, professionally, and with the same high-quality workmanship we appreciated the first time. Reliable, efficient, and great attention to detail. Highly recommend!
 ---

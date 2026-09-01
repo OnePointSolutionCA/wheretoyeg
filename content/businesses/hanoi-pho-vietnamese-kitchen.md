@@ -31,7 +31,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Sam"
     rating: 5
-    date: "2026-06-01"
     comment: |
       I really wasn't sure about this place when I walked in. It is quite small and we were the only ones there aside from 2 people just leaving, but here I am writing this review to send appreciation to the staff and service of this amazing place!! I hope this review doesn't make this cute little gem become too big that I'll never have a table for me again lol! The food was phenomenal, I've been looking for a pho place that tastes just like my favourite spot back in BC, and finally, I've found that perfect replacement here.
       
@@ -42,26 +41,22 @@ reviews:
       Overall for a first time experience I'm so very glad I took a chance here. The staff were also super friendly and welcoming which is just great bonus points. I'll be coming back for as long as this place exists 🩷 thank you!
   - name: "Nav Ish"
     rating: 5
-    date: "2026-07-02"
     comment: |
       Restaurant under new ownership. We ordered the beef satay pho and Pho tai. Both soups were very flavorful . I prefer mildly spicy soup and the beef satay pho was just perfect. The portion size was perfect with plenty of meat and noodles. The star of the meal was the Vietnamese cold coffee. Will definitely visit again.
   - name: "Aaron Fong"
     rating: 5
-    date: "2026-07-04"
     comment: |
       Had a great experience at Hanoi Pho. I ordered the Bún Bò Huế, and it was absolutely delicious. The broth was rich and flavorful, the ingredients were fresh, and the portion was generous.
       
       If you're looking for a great bowl of Bún Bò Huế, I definitely recommend giving this place a try. I'll be back!
   - name: "RYAN H"
     rating: 5
-    date: "2026-05-14"
     comment: |
       Great food, and the owner is very kind. I come here once every other week. Love it here!
       
       Edit: came for the pho sate was not disappointed. Very different style than the original peanut sate a lot of other restaurants do. This one is a lighter creamy broth, and the meat portions are very generous with lots of rare beef, and beef balls. This place is so good.
   - name: "Pao-Chun Huang"
     rating: 5
-    date: "2026-03-01"
     comment: |
       Pho is truly comfort food especially in cold winter in Edmonton.  When I saw Tai basil and lemon, I already know this family run restaurant is good.
       

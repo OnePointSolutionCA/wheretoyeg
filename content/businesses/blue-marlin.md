@@ -32,12 +32,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Noura Alnoush"
     rating: 5
-    date: "2026-05-04"
     comment: |
       Delicious food, fresh and tasty, and a great service i felt happy after eating such food, we tried the fish kuskus and seafood pasta, we also had fish soup
   - name: "H Al Askari"
     rating: 5
-    date: "2026-04-26"
     comment: |
       Excellent seafood restaurant! The food tastes amazing, and everything was fresh with high-quality ingredients. What really stood out was their flexibility in customizing dishes to match the customer’s preferences, which made the experience even better.
       
@@ -46,7 +44,6 @@ reviews:
       Overall, a great experience and definitely worth visiting again! 👍
   - name: "Shuruk Abdurrahman"
     rating: 5
-    date: "2026-04-21"
     comment: |
       The service was excellent. The staff were very kind, friendly, and generous. The food was even better than I expected.
       
@@ -57,7 +54,6 @@ reviews:
       I wish them all the best and hope they continue, so we don’t lose this authentic Arabic taste in restaurants.
   - name: "Sean Clair"
     rating: 5
-    date: "2026-04-18"
     comment: |
       Food was delicious, restaurant was clean and nicely renovated. The staff were also very friendly and helpful in explaining the menus items and showing pictures.
       
@@ -68,7 +64,6 @@ reviews:
       Will definitely be back.
   - name: "Karim Amrani"
     rating: 5
-    date: "2026-05-25"
     comment: |
       Without exaggerating, the food was great, the host Salma was awesome! I’m definitely coming back and I highly recommend.
 ---

@@ -30,12 +30,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "josh D"
     rating: 5
-    date: "2025-12-18"
     comment: |
       Tyson loves his friends and aunties, wagging his tail at waggytails.  Comes home happy healthy and tired each visit. No problems with this daycare since switching over a year ago. The staff genuinely care about our pups and don't view them as a cash cow like the last place. Haven't had the opportunity to have a sleep over yet but that time may come soon.
   - name: "Curtis Bambury"
     rating: 1
-    date: "2026-05-29"
     comment: |
       I feel other dog owners should be aware of my experience with Waggy Tails.
       
@@ -48,17 +46,14 @@ reviews:
       Because of this experience, I have since moved my dog to another daycare. I cannot recommend Waggy Tails based on how this situation was handled.
   - name: "DavCor Vicklund"
     rating: 5
-    date: "2024-05-11"
     comment: |
       My furbaby has been going here since she was 5 months old. She turned 2 today! The whole staff is fantastic and the hours and pricing is great! She loves to go for the day and is always tired wjen picked up.
   - name: "Tanya B"
     rating: 5
-    date: "2024-03-21"
     comment: |
       Both times I have been to Waggy Tails they were awesome. My dog looked a million times better and they are very accommodating schedule wise with happy welcoming people. Definitely recommend!
   - name: "Mark Steiger"
     rating: 5
-    date: "2024-08-21"
     comment: |
       My buddy Harley stays here when his family is out of town.   He really likes it.  And why not?  The staff is amazing.  Lots of friends to play with and learn from.  It's awesome!
 ---

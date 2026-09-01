@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Jay"
     rating: 5
-    date: "2026-01-08"
     comment: |
       Jessica is an absolute rockstar and truly went above and beyond with her customer service. She should be recognized for her efforts and set the standard for the entire team.
       
@@ -43,25 +42,21 @@ reviews:
       Not trying to be rude or difficult — just honestly sharing my experience.
   - name: "Lisa Brandt"
     rating: 5
-    date: "2025-11-22"
     comment: |
       Wonderful job done repairing my front driver's side fender and replacing the left headlight and bumper (among other parts!) after a fender bender, it looks as good as new.  Highly recommended for their attention to detail, clear communication throughout the repair, and an overall positive experience.
   - name: "Abdol Hakwik"
     rating: 5
-    date: "2026-03-16"
     comment: |
       Best of the best! I absolutely love Modern Auto Body. This is the second time I’ve trusted them with repairs on my vehicle, and once again they did not disappoint. The quality of their workmanship, the outstanding customer service, and the overall experience were all top-notch.
       The staff is friendly, professional, and truly committed to delivering excellent results. I highly recommend bringing your vehicle to Modern Auto Body if you’re looking for reliable service and exceptional quality.
       Thank you to the entire team for such a great experience!
   - name: "Nelson Buaya"
     rating: 1
-    date: "2026-07-26"
     comment: |
       I reviewed this auto body shop and would advise against using their services.
       They added numerous non-original damage assessments and returned my vehicle with a dirty interior and exterior, as well as extra paint. There was also a significant amount of dust.
   - name: "fiza"
     rating: 5
-    date: "2026-04-27"
     comment: |
       I had a great experience with Modern Auto Body. Other places quoted me way higher, but they were honest here and said it was just a quick fix.
       Mo helped me out, he was super friendly and professional. Fast, fair, and reliable service. Highly recommend!

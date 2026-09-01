@@ -30,31 +30,26 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Patrick LeFort"
     rating: 5
-    date: "2026-07-27"
     comment: |
       Excellent install and paint job on my new street hunter wing. Eliot, Wyatt and the paint techs did an amazing job. They care deeply about their craft and were able to overcome obstacles to bring out a great finished product.
   - name: "Jordan Rolleston"
     rating: 5
-    date: "2026-05-25"
     comment: |
       Absolutely blown away by the work from Lucky 13 Auto Body and Paint. The quality, attention to detail, and communication throughout the whole process were top notch. They treated my vehicle like it was their own and the finished product came out way better than I expected. Paint match was perfect, the body work was clean, and everything was done professionally and on time.
       
       It’s hard to find a shop you can genuinely trust, but these guys earned it. You can tell they actually care about their work and their reputation. Highly recommend Lucky 13 to anyone looking for quality body work or paint repairs. Thanks again!
   - name: "Majid Alban"
     rating: 5
-    date: "2026-07-28"
     comment: |
       Eliot (owner) and his staff were absolutely amazing from start to finish. I had a rusted door on a newer car and everyone at lucky took care of me from start to finish no hassles, and even when i forgot my keys they dropped them off at my house. Amazing work and amazing people.
       
       Thanks Eliot!
   - name: "Prithvi Kumar"
     rating: 5
-    date: "2026-03-06"
     comment: |
       Elliot at Lucky13 was awesome! Went above and beyond the scope of my body work job and was very competitively priced. Quality of the work and final cost was borderline miraculous (Lucky13 quoted more than 50% less than other shops) considering what other standard insurance based shops were quoting me. Would highly recommend this honest and professional outfit for your car as well, see before and after pics, incredible.
   - name: "Trevor Tsoi"
     rating: 5
-    date: "2026-05-13"
     comment: |
       The Only Paint and Body Shop I Trust
       

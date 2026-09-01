@@ -29,7 +29,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Leanne Cunningham"
     rating: 5
-    date: "2026-04-07"
     comment: |
       I met Micaela in the summer of 2020—peak social distancing, with a 6-month-old at home, and a serious need to get out of the house. Finding her summer boot camp felt like winning the lottery!
       
@@ -38,22 +37,18 @@ reviews:
       Micaela has this incredible way of keeping you accountable while making workouts actually fun (and somehow convincing you to do things you’d never do on your own). I’m so grateful for her consistency, her energy, and how much she truly cares about her clients!
   - name: "Laurie"
     rating: 5
-    date: "2026-04-04"
     comment: |
       I work with Mica online as she is located in a different city but came highly recommended by a friend.  She is so good at her job, she really helped to transform my body!  She is kind and motivating. I look forward to many more years of training together!
   - name: "Christina Leeper"
     rating: 5
-    date: "2026-03-15"
     comment: |
       I had the opportunity to work with Micaela in person when she was in the Lower Mainland and continued training with her online after she moved to Edmonton. She’s such an excellent trainer and even better person! Knowledgeable, motivating, and great at tailoring workouts to my personal goals. Highly recommend!
   - name: "Ryan L"
     rating: 5
-    date: "2026-03-19"
     comment: |
       My fitness results from training with Mica have been life changing.  No matter who you are or where you come from she's always there demonstrating that consistent action leads to amazing results. Thank you Mica for improving both body and mind!
   - name: "Megan Forsberg"
     rating: 5
-    date: "2026-01-28"
     comment: |
       Micaela is so kind, and professional! Would recommend training with her to hit your 2026 goals.
 ---

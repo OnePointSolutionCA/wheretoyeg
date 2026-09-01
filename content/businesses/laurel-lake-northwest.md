@@ -29,29 +29,24 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Sabine Hohne"
     rating: 4
-    date: "2025-08-09"
     comment: |
       Debunking lake allegation. Good amount of ducks, including the classic grebes and coots. Location blocks out road sounds well. Not a lake.
   - name: "Ravi Kant Sharma"
     rating: 4
-    date: "2018-08-30"
     comment: |
       Depending upon, what time you are around this man made water body, this place is just awesome to wonderful. The people living around this are blessed!!
       The nature, light, shades, greenery, water, birds and herb scented breeze. What else you need to be in bliss of life. I shot s couple of pics on my 🍎8, and the results are awesome.
       Any home seller please 😊
   - name: "Aashish Patel"
     rating: 5
-    date: "2026-01-31"
     comment: |
       Great lake, Great views, great for walks
   - name: "Laura Ross"
     rating: 5
-    date: "2019-09-03"
     comment: |
       Beautiful and a great place to walk your pet.
   - name: "Doyle Johnson (DJ)"
     rating: 5
-    date: "2018-12-11"
     comment: |
       This lake is an excellent place, you can't go swimming or fishing in here. The scenery in this place is nearly unmatched, whether you want to go for a quiet walk after a long day, or zip your way through here on a bicycle, this lake is a place to visit, it is easy to get to and it is, if you didn't notice, very nice.
 ---

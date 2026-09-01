@@ -31,7 +31,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "IK"
     rating: 5
-    date: "2026-08-01"
     comment: |
       I recently had the pleasure of dining at Pho king viatnam restaurant in 66 street and I can't recommend it enough! The food is absolutely fantastic, and the restaurant maintains a high standard of cleanliness, which adds to the overall enjoyable experience.
       
@@ -40,7 +39,6 @@ reviews:
       If you're looking for a place with delicious food and a welcoming atmosphere, make sure to visit Pho king at 66 st edmonton I keep returning because of the amazing service from Austin and Andy. You won't be disappointed!
   - name: "Jennifer Michetti"
     rating: 5
-    date: "2026-06-28"
     comment: |
       I have never had a bad meal here. The broth is phenomenal. I get the P18 every time. It's addicting.
       Family run business. They work hard and love the business and customers.
@@ -48,12 +46,10 @@ reviews:
       Please do yourself a favour and stop by.
   - name: "T money"
     rating: 5
-    date: "2026-01-22"
     comment: |
       Great food, friendly service. Gonna be our new noodle spot on the northside
   - name: "Iwishuhvn"
     rating: 1
-    date: "2026-01-11"
     comment: |
       The lack of value at this place is unreal.
       I have been to many pho restaurants during my time here in Edmonton, and this is the least impressive one yet. The portions are very small, and basic hospitality is nonexistent. They are incredibly stingy with essentials like napkins and sauce; I was given one measly napkin with my order, and when I asked for a paper towel, the waiter gave me exactly one sheet from a roll.
@@ -69,7 +65,6 @@ reviews:
       This is a shameless establishment with subpar food and frugal practices. This was my first and LAST time visiting
   - name: "Christine Nguyen"
     rating: 5
-    date: "2025-11-01"
     comment: |
       Food was delicious! Even on opening day, my table didn’t have to wait very long to be seated and for the food! The sugarcane shrimp was sweet and savoury! Yum! Vermicelli bowl was delicious! I really liked the pork patty and the pho was really good! I would definitely come back again to try more items!
 ---

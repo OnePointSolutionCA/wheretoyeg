@@ -30,18 +30,15 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Zahra"
     rating: 5
-    date: "2026-06-03"
     comment: |
       Dr Marta is amazing doctor. She is very helpful, caring and empathetic.
       Thank you so much for all your help and support, I really appreciate.
   - name: "Anastasia MacKenzie"
     rating: 5
-    date: "2025-11-20"
     comment: |
       Dr Scott is the best doctor I ever had. She is kind and knowledgeable and really listens to you.
   - name: "Ninjanadian"
     rating: 1
-    date: "2021-09-20"
     comment: |
       My experience is very limited.
       
@@ -54,12 +51,10 @@ reviews:
       I understand doctors are extremely busy right now, due to no fault of their own.  But it shouldn't take two weeks to hear back from anybody to even notify me they were not taking new patients.  That is two more weeks where I wasn't actively pursuing another family doctor, because I assumed if they just were not taking new patients that would be a quick and easy reply.
   - name: "Therese Ngu"
     rating: 5
-    date: "2022-11-14"
     comment: |
       Dr. Andrea S.  is an amazing, helpful and down to earth person and very welcoming. I honestly love the facility layout not crowded and excellent time management. Thank you Dr. Andrea  you are a bunch of knowledge.
   - name: "Keith O"
     rating: 5
-    date: "2020-11-20"
     comment: |
       Dr. Marta is amazing always having gone above and beyond to help our family whenever she can. I can't count how many times she has squeezed us in at the last second or still made a call to us in the evening to answer our questions. Thank you so much.
 ---

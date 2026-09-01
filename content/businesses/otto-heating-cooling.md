@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Roy Ledda"
     rating: 5
-    date: "2026-05-30"
     comment: |
       Can't say enough positive things about Otto Heating & Cooling. I started this process in August 2025 and had just recently installed my heat pump this past week and I have been incredible impressed with regards of how patient and understanding the team has been.
       I had 3 other quotes for heat pumps, when I called Otto Heating & Cooling I was lucky enough to connect with Aaron. Even though I had limited knowledge with regards of the heat pump I did not feel like he was trying to "sell" me on to any product. I simply gave my restrictions and had fit me for the right heat pump.
@@ -39,12 +38,10 @@ reviews:
       Thank you Otto Heating & Cooling for a great experience and I will definitely recommend your company to my friends and family!
   - name: "George Abelev (Yuri)"
     rating: 5
-    date: "2026-05-29"
     comment: |
       Great experience with Otto Heating and Cooling. Kyle arrived even earlier than expected which is awesome, inspected the air conditioner issue and precisely pointed on the problematic item that needs to be replaced. He explained the cause and advised on possible resolution ways including prices. I picked the most convenient resolution way and Kyle kindly processed there repairing task. The air conditioning is working again, yoohoo! It was the first time I'm dealing with a company, and I already have a good experience. Will contact them again for the maintenance task this fall. Very much recommended service provider.
   - name: "J Y"
     rating: 5
-    date: "2026-07-15"
     comment: |
       Shout out to the team who did a wonderful job! Aaron was a great sales guy who was never pushy and really helped us go through our options.
       
@@ -57,12 +54,10 @@ reviews:
       If you're looking for Edmonton's best service team, these are the guys. Will be using again
   - name: "Marco Sardea"
     rating: 5
-    date: "2026-07-22"
     comment: |
       Very amazing company, explained all the process during the quote and how the system works, what do we expect, and getting us the best option for our AC installation. Their technicians were really nice too and walk us through on their finished work. They also explained to us what we should do for the unit  for a little maintenance and for our safety as well. Overall, we are very satisfied with the work.
   - name: "GT MX"
     rating: 5
-    date: "2026-06-19"
     comment: |
       I rarely leave reviews, but the service I received today was so outstanding it warrants recognition. From the start, Brent arrived on time and was incredibly meticulous. He didn't just bree through the appointment,; he carefully examined each and every part of the furnace. What truly set him apart was his communication. Brent was patient, articulate, and highly knowledgeable, taking the time to explain exactly what he was doing at every step.
       Honestly, I was completely blown away by his expertise- especially how he seamlessly related actual science concepts to his hands-on work. It's rare to see that level of passion, depth of knowledge, and complete reliability in home service today.

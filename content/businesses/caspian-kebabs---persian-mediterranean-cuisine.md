@@ -33,24 +33,20 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Inga Niehoff"
     rating: 5
-    date: "2026-07-26"
     comment: |
       Food was delicious.
       Very personable family run business, and that carries over into the atmosphere.
       It was a mom-daughter 3 generation supper date and we all enjoyed it. We shared a family platter and took home leftovers 👍🏻
   - name: "mahsa behrooz"
     rating: 5
-    date: "2026-04-28"
     comment: |
       One of the best Persian restaurants in Edmonton!!!! I went there last week with my friends and had such a great experience. Caspian Kebabs has amazing food, full of rich flavor and perfectly cooked 😋😋 The kebabs are tender and juicy, the rice is fresh and fragrant, and everything tastes so delicious. The customer service is excellent, and the atmosphere is very welcoming. I really enjoyed my experience and will definitely be coming back again!!!
   - name: "Patrisha Ruperez"
     rating: 5
-    date: "2026-03-05"
     comment: |
       Looking for delicious kebabs and shawarma in Edmonton and we found this restaurant through social media. We ate the Koobideh plate and it tasted so good. They have a Wednesday deal for only 9.99. The service was excellent and the owner even gave us complimentary tea which was very thoughtful and kind. We will surely come back again to try other menu dishes.
   - name: "Feroze Ahmed"
     rating: 5
-    date: "2026-07-13"
     comment: |
       The food was absolutely out standing. I ordered the Kobideeh Platter and every single bite was packed with fallout and cooked to perfection.
       
@@ -59,7 +55,6 @@ reviews:
       The staff is attentive, friendly and give great recommendations. Highly recommend this restaurant, I for one will definitely be back !
   - name: "H&M"
     rating: 5
-    date: "2026-02-10"
     comment: |
       We had the Vaziri Kabab at Caspian kebabs and it was absolutely delicious. The portions were generous and very satisfying, and the prices were more than reasonable for the quality. The staff were incredibly kind and attentive, creating a welcoming and friendly atmosphere. Everything felt fresh and well-prepared, from the flavors to the presentation. It’s a perfect spot for a casual meal with great food, and we’ll definitely be coming back. Highly recommended!
 ---

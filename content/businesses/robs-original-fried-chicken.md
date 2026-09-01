@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Rosaline English"
     rating: 5
-    date: "2026-06-01"
     comment: |
       The quest for Edmonton’s best chicken continues… 🍗
       
@@ -45,22 +44,18 @@ reviews:
       10/10 — we’ll definitely be back. 🍗🔥
   - name: "Merissa"
     rating: 5
-    date: "2026-06-11"
     comment: |
       Tried Rob's for the first time last week and it is hands down the best chicken I've ever had. The Jumbo chicken strips are huge, well seasoned and perfectly tender. The fries are yummy with a delicious seasoning on them. The Hollywood sauce and blackened ranch are two of the best dipping sauces I've ever tried from anywhere. I don't know what's in them but they are heavenly. Try Rob's you won't be disappointed!
   - name: "Blanca Marroquin"
     rating: 5
-    date: "2026-06-02"
     comment: |
       Delicious chicken! Always recommend Rob’s when anyone asks for the best chicken place in Edmonton. I was helped by Saidiyah in my most recent visit and she was so kind and had a great vibe!
   - name: "FQ"
     rating: 5
-    date: "2026-05-04"
     comment: |
       9.5, genuinely one of the best chicken sandwiches I’ve ever heard. Chicken was tender, portion was great. I didn’t really enjoy the flavouring in the beginning but the last few bites were amazing.
   - name: "Coastal Retreats NL"
     rating: 5
-    date: "2026-01-05"
     comment: |
       11/10!!! This is always a must go place anytime we're driving through Edmonton... It never disappoints! Love the atmosphere and the old skool music in the background. The front counter attendant Malo was fantastic and made sure we had everything needed. We'll definitely be back again ☺️
 ---

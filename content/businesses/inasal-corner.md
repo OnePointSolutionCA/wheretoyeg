@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Francis Sinday"
     rating: 5
-    date: "2026-07-23"
     comment: |
       Great ambiance and a spotlessly clean restaurant. We were warmly welcomed by the cashier as soon as we walked in, making us feel right at home.
       
@@ -43,24 +42,20 @@ reviews:
       Highly recommended for anyone looking for great Filipino food, excellent service, and a wonderful dining experience. 👍👍💯❤️
   - name: "Enrico Santos"
     rating: 5
-    date: "2026-06-30"
     comment: |
       I'm impressed with the restaurant's vibe. It's cozy and cool. Ordered the pork sisig, chicken inasal and the Halo-Halo, a bit pricey but you get what you paid for. Service is good as well. Staff is nice and accommodating. Even the washroom is clean and tidy.
   - name: "khikhoe valencia"
     rating: 5
-    date: "2026-07-18"
     comment: |
       I have seen the page of inasal corner in facebook and tried it when we went to the city. Food taste so great, service is so quick, food servings are big, unlimited drink, unlimited soup, place is so clean, staff are so attentive, courteous and care so much for customers needs. Money well spent on this place.
       
       100% highly recommended and for sure we will be back.
   - name: "Ronalyn Joy Portigo"
     rating: 5
-    date: "2026-07-16"
     comment: |
       The food was really good and the staff was kind i would love to come back again!
   - name: "C Roaquin"
     rating: 5
-    date: "2026-05-14"
     comment: |
       Very busy because it’s so yummy. There is always takeout if the tables are full. Filipino Grilled Chicken and Pork that has has been marinated for a day is full of delicious flavor. So happy to support local.
 ---

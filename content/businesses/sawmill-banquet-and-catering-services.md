@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Helen Papuha"
     rating: 5
-    date: "2026-05-10"
     comment: |
       We attended the Mother’s Day brunch at Northeast River Valley Park catered by Sawmill Banquet & Catering and it exceeded every expectation. From the moment we walked into the breathtaking timber-beam hall, it was clear this was going to be a very special event. The room was elegant yet warm and welcoming, with beautifully set tables and an atmosphere that felt relaxed and polished at the same time.
       
@@ -47,22 +46,18 @@ reviews:
       This was one of the best catered brunch events we have attended in Edmonton. Sawmill Banquet & Catering delivered excellence in food, hospitality, presentation, and organization.
   - name: "Kelly Stewart"
     rating: 5
-    date: "2026-04-06"
     comment: |
       The Easter Standard feast package with turkey, was delicious and so well organized,  easy to heat up and serve my guests from out of town! We had a busy weekend and I needed a meal for 10! Everything tasted fresh and had loads of flavour:) I will definitely choose Sawmill catering the next time, and I wouldn’t hesitate to share and recommend them to friends, family and acquaintances. Thank you so much you saved me from so much work and overwhelm! Yummy! Happy Easter 🐣
   - name: "Viktoria Wuest"
     rating: 5
-    date: "2026-07-04"
     comment: |
       Having Sawmill cater our wedding was one of the best decisions we made! Not only was the food absolutely incredible (and we had countless guests comment on how impressed they were with the food), but their incredible organization, responsiveness, and overall professionalism truly made for an exceptional experience. We felt extremely cared for and taken care of every step of the way. Not only does Sawmill have a great selection of services and foods to choose from, but they accommodated any and all requests and dietary restrictions to ensure our wedding dinner felt personalized and memorable. We truly can't say enough good things about Paul and everyone at Sawmill and can't wait to taste their delicious food again in the future, as we will be sure to work with them again for many upcoming special events!
   - name: "Ralph Mallari"
     rating: 5
-    date: "2026-06-08"
     comment: |
       Paul was amazing to deal with! He was quick to answer my emails and accommodated everything to our needs and wants! Day of wedding went smoothly and the food was excellent! We recieved many compliments about the food! I was shocked to see him stop by to make sure everything was running smoothly! His staff were really nice and welcoming no complaints whatsoever! 10/10 highly recommend them for any event! Thank Paul for everything!
   - name: "Danni Nagy-Verbeek"
     rating: 5
-    date: "2026-08-03"
     comment: |
       Dear Paul,
       

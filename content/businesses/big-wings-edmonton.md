@@ -32,27 +32,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Cory Bonneville"
     rating: 5
-    date: "2026-05-24"
     comment: |
       First time stopping at this wing restaurant it was a great idea to do so you get your moneys worth.   and we had a new worker and she did excellent job. She was by herself.  Keep up the good work. A must stop wing restaurant.
   - name: "Jacob Gauthier"
     rating: 5
-    date: "2026-06-21"
     comment: |
       The wings are big, the sauces are delicious. And the employees were attentive and very helpful with our selections and they checked in in us to make sure if we needed anything else and to see if the food was good. Will definitely come back.
   - name: "Corren Not Thomas"
     rating: 5
-    date: "2026-06-04"
     comment: |
       It was delicious! Some of the best wings I've had outside the US. Felt filling and the portions felt good for their price. I loved the atmosphere, I walked in and Immidiately knew this was going to be a good wing place from the smell and the people behind the counter were wonderful, gave us some recommendations for wings. I had the oddfather sweet heat wings
   - name: "Jessika McMann"
     rating: 5
-    date: "2026-06-11"
     comment: |
       Crispy and flavourful! Tried the Raspberry Pepper and 3 others but that one was out of this world. We’ve had a lot of wings over the years but this one we will remember for sure. Super kind and helpful staff and good prices. We will absolutely be back.
   - name: "J. ;"
     rating: 5
-    date: "2026-07-18"
     comment: |
       Amazing food. Kiss of death is my new go to wing here. So hot but flavor is great ! Few little hiccups in my order but likely just because its new and it'll just get better in time. Definitely our go to wing place from now on !
 ---

@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "J B"
     rating: 5
-    date: "2026-06-13"
     comment: |
       I’ve been going to Hala since they first opened, and it’s consistently been nothing short of an amazing experience. Aralyn has created such a beautiful, welcoming, and genuinely positive space -it’s truly a gem.
       
@@ -41,22 +40,18 @@ reviews:
       Honestly, I can’t recommend Hala enough. 🩷
   - name: "Liz Reed"
     rating: 5
-    date: "2026-04-25"
     comment: |
       Hala Salon is honestly one of the best places for hair: everyone there is so talented and welcoming. I’ve had my hair done mostly by Aralyn, and she is incredible. I completely trust her with my hair every time! I’ve also seen Mackenzie, who is not only the sweetest person but also does an amazing job. I truly trust both of them and always leave feeling so happy with the results. Highly, highly recommend Hala Salon!
   - name: "Madison Carson"
     rating: 5
-    date: "2026-05-09"
     comment: |
       The best experience! The salon is beautiful and everyone is so warm. Kaiya specifically is very talented! Came for extensions and they nailed the colour match. Very impressed!!
   - name: "Stephanie Tomuschat"
     rating: 5
-    date: "2026-06-18"
     comment: |
       Katie did an amazing job! She was knowledgeable, kind, and incredibly talented. She took the time to listen to exactly what I wanted and what I didn’t want, and she made me feel comfortable throughout the entire appointment. Hala Salon is bright, beautiful, and exceptionally clean, and all of the staff seemed super friendly and welcoming. I absolutely love my hair and will definitely be back!
   - name: "Снежана Изотова"
     rating: 5
-    date: "2026-07-09"
     comment: |
       I would like to thank everyone at this beauty salon!
       

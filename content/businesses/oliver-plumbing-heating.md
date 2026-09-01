@@ -30,28 +30,23 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Piotr Cwieklinski"
     rating: 5
-    date: "2026-07-02"
     comment: |
       Absolutely great service. We will certainly recommend this company to our friends and family members. Our service men Luc and Hassam were very professional and willing to answer all our questions. They did the work on time and clean everything after work. We are impressed with Oliver Plumbing service.
   - name: "Scott Loewen"
     rating: 5
-    date: "2026-05-08"
     comment: |
       Yes Steve and Robbie are amazing at what they do! They were willing to come fix our broken furnace after hours! Combined experience of over a decade! Highly recommend this company!
   - name: "Joce LeB"
     rating: 5
-    date: "2026-01-17"
     comment: |
       Logan is incredible. I was lucky enough to be able to talk to him when my furnace stopped working on a Friday night, he took my call, troubleshooted over the phone, told me where to go get the part, took another call after I had the part and stayed with me until it was fix. Brilliant! Couldn't be happier!
   - name: "ky lau"
     rating: 1
-    date: "2025-04-04"
     comment: |
       This company was doing a job at Rowland house apartments in Edmonton ab, as they where working; two young rookies managed to damage and put a hole in my wall plus they flooded my suite. No work was being done in my suite!
       I highly recommend using a company with more skilled employees. I patched the hole with toilet paper, and clear tape as a temporary fix , use another company my Edmontonians
   - name: "G B"
     rating: 5
-    date: "2025-10-03"
     comment: |
       THIS IS A BLESSED COMPANY, AND WILL ALWAYS BE RECOMMENDED BY ME! FULL STOP!
       

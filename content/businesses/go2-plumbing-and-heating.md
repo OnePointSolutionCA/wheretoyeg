@@ -30,29 +30,24 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Twin Turbo"
     rating: 1
-    date: "2026-01-23"
     comment: |
       Way overcharged, the guy came in less than 15 mins. as he said he was in the area and fixed the problem in less than 5 minutes, no parts were needed, was charged close to $200. I asked why the amount was so high, his explanation was for the travel cost.
       
       Go2 will definetly never be my "go to" for any future plumbing service. Their pricing is ridiculous. Might as well have charged me $1000. It feels with them if they walk in your door and see nice furniture, in their minds they pump up the price automatically and hopes the customer doesn't notice.
   - name: "Kim Mulholland"
     rating: 5
-    date: "2026-01-11"
     comment: |
       I was having problems with my furnace. This is my first home purchase and first repair as a home owner. Moe was polite and knowledgeable and prices seemed fair. I would definitely call again and recommend him to friends.
   - name: "Monica Wehby"
     rating: 5
-    date: "2025-12-17"
     comment: |
       Very satisfied with the plumbing work. The plumber was friendly, punctual, and did a thorough job. They were careful with my home and made sure everything was working perfectly before leaving. Highly recommend to anyone needing plumbing services in Edmonton.
   - name: "Abshir Abdalla"
     rating: 5
-    date: "2025-10-25"
     comment: |
       I had a great experience with Go 2 Plumbing and Heating. I highly recommend this company for anyone who needs plumbing and heating. They offer high quality work at fair prices and always get the job done efficiently. I appreciate that they are reliable and easy to reach for any emergency.
   - name: "Nick SkyShadow"
     rating: 5
-    date: "2024-11-23"
     comment: |
       I rent through a property owner. And I happened to notice I was having furnace issues during very chilly temperatures. -15 or so. My property owner had this company call me to accommodate the scheduling.
       Moe appeared the same day to inspect and replace a blower issue. But realized there was a housing issue and made a report back. It turned out well because 2 days later I received a call again for a full replacement.

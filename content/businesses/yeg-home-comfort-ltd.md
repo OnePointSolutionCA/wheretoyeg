@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Rudstunc"
     rating: 5
-    date: "2026-07-08"
     comment: |
       conditioning, so I called three different companies, and one clearly stood out from the rest. Booking the service was quick, easy, and straightforward. What really impressed me was that they were able to send a technician just three hours later on the same day, while the other companies only had next-day availability.
       
@@ -39,12 +38,10 @@ reviews:
       I’m extremely happy with the service and will definitely be using this company for all of my future HVAC needs. I highly recommend them to anyone looking for fast, dependable, and exceptional service. Thank you, Brad!
   - name: "Hemanth Bathina"
     rating: 5
-    date: "2026-05-11"
     comment: |
       We had such a great happy customer experience with the whole install of our new air conditioner for our home! Brad our HVAC expert explained the whole process to the wonderful installers Terry and Rob! Extremely impressed and happy with their professionalism. Nicole was very friendly and willing to explain and answered all our questions and concerns. They went above and beyond with the install! Extremely happy with how clean the install was, and the result looks fantastic!! Thank you all very much extremely happy with the team effort !! I would highly recommend YEG Home Comfort for anyone looking for reliable local option for their HVAC needs.
   - name: "Arlen Lorenzana"
     rating: 5
-    date: "2026-06-16"
     comment: |
       YEG Home Comfort LTD. was the first company that responded professionally to my request for replacing or repairing my air conditioning system.
       No fear mongering, no evasive answers, just facts.
@@ -54,12 +51,10 @@ reviews:
       I recommend this company for all your AIrCon needs.
   - name: "Christine Schumacher"
     rating: 5
-    date: "2026-07-28"
     comment: |
       Two technicians came within the time period agreed upon. They were informative regarding my air conditioner's status, and advised me on what they were doing to it. The AC had likely not been cleaned for years, and they did that as well as checking over other aspects of the system.  I am very pleased with the outcome and will rebook in the future as per necessity.
   - name: "Henry Anuebunwa"
     rating: 1
-    date: "2026-06-30"
     comment: |
       I have had the worst experience with this company. Nicole was the person I always spoke with on the phone, and the issue is that she never follows up.
       

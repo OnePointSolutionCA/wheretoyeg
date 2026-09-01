@@ -30,13 +30,11 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Jenny Phan"
     rating: 5
-    date: "2025-12-05"
     comment: |
       An absolutely incredible experience! I can’t recommend this place enough. Tracy truly goes above and beyond. She's genuinely cares about her clients and makes you feel so welcome. Her work is exceptional, and her friendliness and kindness make every visit a joy. Beside, the Headspa is amazing ♡♡♡
       Truly unforgettable...Thankyou♡♡♡
   - name: "Lily Wiebe"
     rating: 1
-    date: "2026-05-07"
     comment: |
       Terrible nails.
       
@@ -44,12 +42,10 @@ reviews:
       Service lasted 50 minutes and were $63.
   - name: "Cathy Gould"
     rating: 5
-    date: "2025-06-17"
     comment: |
       Came in today for the first time to get a pedicure and acrylic nail set for my University grad and felt like I was getting pampered the whole time. The ladies were very nice and did very detailed work for both my manicure and pedicure. I wasn’t sure what I wanted for my acrylic set but the recommendation given were in my best interest and made the nail design really pop! I will definitely return with friends. Thank you so much Sunkiss nails your services and giving me the perfect set of nails for my graduation!! :)
   - name: "Tyra Wright"
     rating: 1
-    date: "2026-07-04"
     comment: |
       Girlfriend and I had booked a headspa treatment for 1.5 hrs.
       Had our head "scratched" and washed for max 10-15 mins. Was expecting more of scalp massage etc.
@@ -58,7 +54,6 @@ reviews:
       Wouldn't recommend
   - name: "Dolores Irizar"
     rating: 5
-    date: "2023-08-04"
     comment: |
       This nail salon had a cozy and inviting atmosphere, making it the perfect place to unwind and relax. If you are an introvert like me a prefer a quiet space without a lot of people coming in and out this is the place! Thuỳ did an amazing job with my nails! She made sure that everything she added on my nails was exactly what I wanted. Last but not least the customer service is amazing! she gets back to you very fast and makes sure you are happy with the results. Thank you for my wedding anniversary nails! This is definitely my nail spot!
 ---

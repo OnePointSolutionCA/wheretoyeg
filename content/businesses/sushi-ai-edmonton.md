@@ -30,7 +30,6 @@ date_listed: "2026-08-18"
 reviews:
   - name: "Filipe Drumond"
     rating: 4
-    date: "2026-03-22"
     comment: |
       Very Good Experience with Great Potential
       
@@ -61,7 +60,6 @@ reviews:
       Thank you for your kindness and effort. Keep going — you’re on a good path, and we look forward to returning.
   - name: "Brenden Kunimoto"
     rating: 4
-    date: "2026-01-20"
     comment: |
       The food was pretty decent, service was reasonable and atmosphere and was fine.
       
@@ -81,17 +79,14 @@ reviews:
       -Deluxe Sashimi were overall quite generously sized and tasty.
   - name: "Charlie Lee"
     rating: 5
-    date: "2026-02-12"
     comment: |
       Very quiet and clean place to dine in. Waitress is so polite and friendly. Foods are delicious and ingredients are so fresh, especially you can taste ghe freshness of Sashimi. Value of every dish worth every penny you spent there. The location is convenient close home. Good place to take family and friends for gathering. Highly recommended.
   - name: "Vanessa Ha"
     rating: 4
-    date: "2026-07-02"
     comment: |
       The food was delicious and service was friendly. The sushi rolls had good flavour and the sashimi were thick cuts. We were, however, surprised that for 20$ they put a lot lettuce underneath the calamari to make it look like a full plate. Otherwise a very good sushi spot and would come back
   - name: "Ruskin Godwin Magat"
     rating: 5
-    date: "2026-03-27"
     comment: |
       Food is wonderful and serving is exceptional! We ordered 6pcs sashimi tuna and they gave us 7pcs.. yum yum! Thank you! Wonderful service, server is smiling and prompt in serving our ourders!🥰
 ---

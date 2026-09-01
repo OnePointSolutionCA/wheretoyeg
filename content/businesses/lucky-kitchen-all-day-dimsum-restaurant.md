@@ -31,7 +31,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Athena P"
     rating: 5
-    date: "2026-07-13"
     comment: |
       I usually come here for lunch. Their portions are always generous, and the serving sizes are more than enough. Since I usually dine alone, I rarely finish everything and almost always end up taking some home.
       
@@ -44,22 +43,18 @@ reviews:
       I believe every business deserves to be treated with fairness and appreciation. No place is perfect, but what matters most is how they treat their customers and how they respond when something doesn't go as planned. This restaurant has always done that well, and I'm happy to recommend it.
   - name: "Twitchy"
     rating: 4
-    date: "2026-06-27"
     comment: |
       Modest Chinese restaurant serving classic Cantonese dishes and all day dim sum. We had dinner on a recent Sunday evening. The food was pretty good and is decently priced. Even though the  restaurant was not very busy, the service seemed slow. Overall, we still had a pleasant meal.
   - name: "Jo Luo"
     rating: 1
-    date: "2026-05-18"
     comment: |
       Super disappointed with this place. Had high hopes before coming in when saw the 4.4 review on google. Dirty washroom to start… server was not trained to be a server but at least she was polite. She was trying to take the sauce plate away when we were still eating. Then food, don’t know where to start really… shrimp dumping smelled rotten, tasted bad and definitely not freshly made. The salty fish and chicken fried rice, tasteless and so much MSG. Didn’t even eat for one bowl. Won’t be coming in. Don’t be fooled by the review I guess.
   - name: "Adam"
     rating: 5
-    date: "2026-02-27"
     comment: |
       My new fave spot for dim sum. Cozy building with lots of sunlight, much smaller than most dim sum spots in Edmonton but don't let that fool you. The food and service quality here at lucky kitchen far exceeds those larger places. My only gripe as they don't do the carts, which I love for the nostalgia but realize how inefficient it is. Plus in my old age, I'm getting more impatient and hate waiting for my food, it really grinds my gears when the cart you want finally reaches you and it's empty. So the al la carte system here is perfect as I got exactly what I wanted and in a timely manner. Every item was freshly made, had lots of flavour and wasn't oily. To top of off, the prices here are actually reasonable. This place is a must try!
   - name: "Josephene Chong"
     rating: 4
-    date: "2026-03-19"
     comment: |
       The pumpkin cake was disappointing. The bread crumbs used are hard and the filling was  not 100% pumpkin filling . It had rice glutinous sticky cake sandwiched inside and it tasted rancid The Shanghai noodles are delicious but need to be a bit generous on the meat . Overall other Dim sim dishes are delicious .
 ---

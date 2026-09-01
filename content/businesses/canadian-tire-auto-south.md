@@ -32,12 +32,10 @@ date_listed: "2026-08-18"
 reviews:
   - name: "Sydney Ignacio"
     rating: 5
-    date: "2026-05-17"
     comment: |
       I’ve had consistently great experiences at this Canadian Tire location. The staff are friendly, knowledgeable, and always quick to help when I have questions. Special thanks to Alysha and Elemo for helping me track down a specific product. The store is clean, well organized, and easy to navigate, making it simple to find everything I need. The same level of excellent service applied to my previous online pickup experience—Raf and Justin truly went above and beyond to help. Checkout was smooth and efficient. I really appreciate the outstanding service and kindness shown by the team, including  Richard, Juvy and Mykah, and I will definitely be back.
   - name: "Gigi Reviews — YEG • AB • Beyond"
     rating: 5
-    date: "2026-03-07"
     comment: |
       Canadian Tire South Edmonton Common is a true one-stop retail + service destination — exceptionally well stocked, bright, spacious, and practical, with strong merchandising, eye-catching seasonal displays, a clean, easy-to-shop layout, and easy access to help thanks to visible push-button staff call stations throughout the store.
       
@@ -67,17 +65,14 @@ reviews:
       Step-free access, wide navigable aisles, and and elevator that work well for strollers and mobility devices, and a large-format layout that makes it easier than many busy retail environments to move around comfortably. Baby change stations in the bathrooms add another practical convenience for families.
   - name: "Deol Productions"
     rating: 5
-    date: "2026-05-25"
     comment: |
       ​"I am writing to share my appreciation for the outstanding service provided by Shyam. Working as a warehouse sales person, he seamlessly bridges the gap between managing inventory and assisting customers. Shyam is incredibly knowledgeable, always knowing exactly where items are located, and he goes out of his way to help with a positive, respectful attitude. He makes the shopping experience smooth and efficient, and he is a tremendous asset to the Canadian Tire team."
   - name: "SunnyCin Flower"
     rating: 5
-    date: "2026-03-03"
     comment: |
       Love this location for Oil Changes, been coming here for years! Today we had the pleasure of meeting Dave and Antoine. They were great guys, friendly, and helpful. Highly recommend this location!
   - name: "Gihan Wjelath"
     rating: 1
-    date: "2026-05-13"
     comment: |
       I recently had an oil change done at the South Common Canadian Tire Auto Service on a Saturday, and the experience was very disappointing. After the service, I noticed that the underguard/skid plate was left loose. Nobody informed me about it, even though I was there the whole time waiting for the vehicle.
       

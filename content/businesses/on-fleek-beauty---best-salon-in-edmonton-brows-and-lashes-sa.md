@@ -30,29 +30,24 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Sandra Amaefule"
     rating: 5
-    date: "2026-08-07"
     comment: |
       I got an awesome experience at on fleek beauty. Threaded my brows for the first time and Isha handled me really well. She did a great job and it’s a very relaxing atmosphere at the on fleek beauty!!! I recommend
   - name: "kelly dianne"
     rating: 5
-    date: "2026-05-13"
     comment: |
       I’ve been getting my brows done, as well as eyelash lifts and tinting, by Isha at Onfleek Beauty for years, and she’s truly the only person I trust. She is hands down the best in town , always so precise, professional, and consistent. I’m so happy to see her finally open her own beauty salon because she absolutely deserves it. If you’re looking for amazing brows, lash lifts, and quality service, Onfleek Beauty is definitely worth checking out!
   - name: "Rebecca May"
     rating: 5
-    date: "2026-04-30"
     comment: |
       Beautiful studio! Services are amazing! Excellent eyebrows and actually listens to how you want them done. Ive been going to Isha for about 6 months and would never go to anyone else again! You can trust this girl with your life. Amazing 👏 definitely recommend!
   - name: "Aneet Kaur"
     rating: 5
-    date: "2026-02-28"
     comment: |
       I had such a great experience at On Fleek Beauty! The staff are super welcoming, professional, and really take their time to make sure you’re happy with the results. The salon is clean, well-organized, and has a really nice vibe.
       
       They pay attention to detail and actually listen to what you want, which makes such a difference. I left feeling confident and refreshed. You can tell they genuinely care about their clients. Highly recommend this salon.
   - name: "Calista Williams"
     rating: 5
-    date: "2025-11-18"
     comment: |
       I had my brow lamination and tinting done here, and I’m really impressed with how well everything turned out. My brows look full, lifted, and perfectly shaped, exactly what I was hoping for. The technician (Isha) took her time and made sure the results suited my face beautifully.
       

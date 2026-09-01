@@ -29,27 +29,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Jes"
     rating: 5
-    date: "2026-05-17"
     comment: |
       Wow for the cheap price. Love their seafood options
   - name: "A.J. Anderson"
     rating: 5
-    date: "2026-05-24"
     comment: |
       Very friendly place. Great prices, fresh meat. Go have a look.
   - name: "jinky ann falculan"
     rating: 5
-    date: "2026-06-12"
     comment: |
       Reasonable prices, there's a lot of seafood to choose from. Variety of fresh fruit and vegetable. A must try, one stop asian grocery store. Beside it, there is also a meat shop.
   - name: "Erich Garcia"
     rating: 5
-    date: "2026-08-19"
     comment: |
       I really appreciate the accountability this establishment has when handling about a defective product as they actually deal with the situation with communication. Definitely recommend. 😇
   - name: "Marilee Edades"
     rating: 1
-    date: "2026-08-17"
     comment: |
       Bought putong bigas saturday aug.15 it says on the container best before 9.31.26 but monday morning already have molds on them.
 ---

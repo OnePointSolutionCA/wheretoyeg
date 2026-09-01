@@ -32,19 +32,16 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Jessica Torres"
     rating: 5
-    date: "2026-08-04"
     comment: |
       I was served by Astra today who did an exceptional customer service. The fries were amazing as always and the wings are hot and crunchy. I usually go there after my routine eye check up just a few stores away. Love it!
   - name: "Kelsey Neigel"
     rating: 5
-    date: "2026-06-30"
     comment: |
       Wing Snob in Edgemont is a total game-changer! The atmosphere is awesome, and the service is next-level. Astra was our server and she was absolutely fantastic—super friendly, attentive, and made us feel right at home!
       
       As for the food, I ordered the traditional wings tossed in their unique Awesome Sauce, and they were phenomenal -  Paired with their loaded buffalo fries, it was the ultimate comfort meal. Easily a 10/10 experience. —we will definitely be back
   - name: "JOJO TV"
     rating: 5
-    date: "2026-02-28"
     comment: |
       Wing Snob has absolutely delicious food! Everything was fresh, flavorful, and cooked perfectly. The wings were amazing and full of taste.
       
@@ -53,14 +50,12 @@ reviews:
       Highly recommended – I’ll definitely be coming back!
   - name: "Myra Blen"
     rating: 5
-    date: "2026-08-07"
     comment: |
       First time trying wing snob just over a month ago! I’ve come back at least 4 times already! I’m addicted! The wings and flavour selection is SO GOOD! And they have amazing Parmesan fries.
       
       I highly recommend their awesome sauce and mango harbanero flavours. I also highly recommend getting their parm dip and parm fries! Happy eating 😋
   - name: "Rayan Dwaik"
     rating: 5
-    date: "2026-07-26"
     comment: |
       An absolute 10/10 EVERY SINGLE TIME! I can’t emphasize that enough honestly. Their flavours are so good and unique. My personal favourites are the Buffalo Parm and the Teriyaki. And as for my favourite dish. The Buffalo parm chicken and fries loaded snob bowl with a drizzle of ranch dressing is to die for! It really hits perfectly every time and all the time.
       

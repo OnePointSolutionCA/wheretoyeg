@@ -30,12 +30,10 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Diamond Di Lullo"
     rating: 5
-    date: "2026-04-07"
     comment: |
       Lauren is fantastic to work with! So many amazing photos. We received 997 in total and I love every single one... I expected a few duds, but no. The assistant photographers with her were also wonderful. Having a photographer with my husband in the morning as he go ready was so great. I love being able to see that part of the day. They stayed well into the evening and got a lot of awesome dancing/ party photos. I couldn't have asked for a better experience.
   - name: "Avneet Beniwal"
     rating: 5
-    date: "2026-05-30"
     comment: |
       We truly can’t recommend Lauren (and Bruce!) enough. From the moment we first contacted Lauren to after our wedding, she was kind, patient, organized, and so easy to communicate with. She took the time to get to know us, understand our vision, and made two people who are incredibly awkward at posing, look good and actually have fun taking photos!
       
@@ -48,7 +46,6 @@ reviews:
       Their work is beyond beautiful, but what really makes them special is how much they care and how passionate they are about getting the best shot. We’re so grateful we had Lauren and Bruce with us and honestly couldn’t imagine our wedding week without them!
   - name: "Rosalyn Estoque"
     rating: 5
-    date: "2026-06-30"
     comment: |
       Lauren was our photographer for our small winter wedding (elopement) -- taking photos in -28 didn't even hold her back! We can't reccomend her enough.
       
@@ -59,7 +56,6 @@ reviews:
       ♡ - Rosalyn & Marcus
   - name: "Marc Beauchamp"
     rating: 5
-    date: "2026-01-31"
     comment: |
       Lauren should be your first and only call for your event.
       
@@ -72,7 +68,6 @@ reviews:
       Lauren and Bruce thanks for capturing our big day! It turned out just how we expected, perfect and to relive it through all the images!  Look forward to working again on future projects
   - name: "Eva"
     rating: 5
-    date: "2026-04-30"
     comment: |
       Lauren shot both our engagement photos and our wedding photos, and we couldn’t be happier with the whole experience. From the first initial meeting, Lauren made the whole process smooth and stress free for us. We loved the collaboration throughout the journey, where Lauren came with so many great ideas for shots and locations (and definitely trust her during this because she will get you amazing photos) but also made sure we got all the shots that we had specifically requested.
       

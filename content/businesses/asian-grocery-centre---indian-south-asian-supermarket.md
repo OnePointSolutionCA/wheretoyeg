@@ -32,27 +32,22 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Manpreet S Gujral"
     rating: 1
-    date: "2026-03-31"
     comment: |
       Bought Horlicks from this store for $9.90 a day before…checked the price at FreshCo century park same product for $6.99…disappointeddd
   - name: "Mr. Manjinder Singh Mann"
     rating: 5
-    date: "2026-05-22"
     comment: |
       Great place … all items are easily available.. great staff
   - name: "Daniella"
     rating: 5
-    date: "2026-04-07"
     comment: |
       Best place for western union in Edmonton!! Easy and fast and trustworthy:)
   - name: "gurpreet gill"
     rating: 1
-    date: "2026-06-15"
     comment: |
       The guy who works there most the time was super rude for no reason.
   - name: "Gurpreet Kingra"
     rating: 1
-    date: "2025-07-07"
     comment: |
       I bought a small clay handi with a lid for $35, and it was a complete disappointment. As soon as I poured food into it, the color from the handi started leaching into the food, which is extremely concerning for something meant to be food-safe. The handi itself also began to change color, and the surface started coming off, as if it wasn’t properly finished or treated. The quality was clearly poor and not safe for use.
       

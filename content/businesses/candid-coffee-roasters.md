@@ -32,22 +32,18 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Allen Lizarondo"
     rating: 5
-    date: "2026-05-31"
     comment: |
       I discovered this place when I had a dinner at Jola's as they share spaces, cafe daytime and restaurant at night. I loved the ambiance so I thought I should also try the cafe as I biked from Whyte Ave. The flat white was great and I loved the mushroom breakfast sandwich. I didn't feel guilty as I eat the sandwich cause it's so healthy. This made my morning as I read my book and enjoy people watching.
   - name: "Lexxi-Laine Perl"
     rating: 5
-    date: "2026-05-19"
     comment: |
       Excellent Quality items, Cookies are very delicious. Coffee is some of the best ive had and im new to edmonton. I highly reccomend this coffee roaster if your new in town or visiting. This is officially my new Coffee spot
   - name: "Sabrina Allen"
     rating: 5
-    date: "2026-07-04"
     comment: |
       Enjoyed an iced matcha latte and a sesame bagel with dill & caper cream cheese and my husband had an americano. The bagel was from a local bagel place (Beb’s Bagels) and was so fresh. The cream cheese was a great balance of flavours. This is a cafe that takes pride in their coffee and other drinks. The matcha was very good quality and prepared perfectly.
   - name: "Elise Lazina"
     rating: 5
-    date: "2025-12-30"
     comment: |
       Very good coffee! We tried one of their funkier espressos and their Ethiopian drip coffee.
       
@@ -58,7 +54,6 @@ reviews:
       My friend said the espresso he tried here was better than the one he had at the Colombian the day before 🫶
   - name: "Arshia Lekhi"
     rating: 4
-    date: "2025-06-15"
     comment: |
       This is their second location.
       Warm atmosphere, ample seating, incredible staff and delicious drinks and food.

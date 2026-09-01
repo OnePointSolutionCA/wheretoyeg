@@ -30,29 +30,24 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Mitchell Lapensee"
     rating: 5
-    date: "2026-06-17"
     comment: |
       Jesse is always great to deal with. I've utilized him on a few projects and he is always quick to respond, and provides very fair pricing for the quality of service delivered. He is my first choice for electrical work, and I refer him to my family and friends. Thanks again, Jesse.
   - name: "Ray Adrian"
     rating: 5
-    date: "2025-12-13"
     comment: |
       Jessie is a great guy to have on board with getting things done.
       Reside Renovations Ltd has  been using his services for several years and so appreciate what he does for us. Good clean work and always accommodating.
       Thanks Jessie.
   - name: "Stacey Thorburn"
     rating: 5
-    date: "2025-11-05"
     comment: |
       I was very impressed with Jesse years ago with a Service Panel upgrade at my son's house. You could see he takes pride in his work. I have referred Jesse to several of my clients now who have all been very happy and now they're referring him out to their family and friends. Being a Home Inspector, I'm quite picky who I hire and who I refer my clients to! Friendly, curtious and professional. If you're reading this, hire him!!
   - name: "Joyce Wilson"
     rating: 5
-    date: "2025-02-21"
     comment: |
       Highly recommended. Excellent craftsmanship and customer service provided by Jesse. Stayed true to his initial quote with no hidden costs.  Two of my neighbours have already asked for his contact details. Book him soon. Popular guy.
   - name: "Suzanne Pescod"
     rating: 5
-    date: "2026-04-22"
     comment: |
       Jesse installed pot lights in three different rooms for us and was excellent. He made decisions on placement, chose the perfect lights and it made a huge impact. I would highly recommend working with Jesse for both the quality of his work and how easy it was.
 ---

@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Michael Lee"
     rating: 4
-    date: "2026-07-16"
     comment: |
       Tried this place for dim sum lunch this past Saturday 2026-07-11. Overall it was good but not spectacular. The reviews vary widely in Google. My rating would be about 7/ 10. If size matters, you will like this place.
       
@@ -53,7 +52,6 @@ reviews:
       As a visitor, I would seek other dim sum place before coming here. There used to be better choices. Suggestions welcomed.
   - name: "Desmond Eng"
     rating: 4
-    date: "2026-06-23"
     comment: |
       Food is not bad, the green onion pancakes was not my favourite, it had a sweet coating on it and it was deep-fried, which is less preferable to it's pan fried counterpart, the rice roll with dough stick was also not bad, pretty standard, just overly deep fried on the dough stick. The preserved egg with salted pork congee was honestly pretty good, very up to par with what over had otherwise in my lifetime at other restaurants and home cooking!
       
@@ -62,7 +60,6 @@ reviews:
       I gotta say the prices are a little expensive when you compare it to the restaurants in Ontario, they should be 20-25% lower.
   - name: "Ming"
     rating: 3
-    date: "2026-02-17"
     comment: |
       It is a huge restaurant with tons of space. Parking is a bit sketchy due to the homeless issues.
       The size of the dim sum is gigantic! The shrimp dumpling is twice the size of the regular ones you get from other restaurants. Overall taste is pretty bland. Nothing to take home with.
@@ -70,12 +67,10 @@ reviews:
       We also found a plastic inside the veggie dish we ordered.
   - name: "Gordon Gordey"
     rating: 5
-    date: "2026-03-29"
     comment: |
       Number ONE Dim Sum in Edmonton. Perfectly prepared and nice portions. Parking is fine on street and you can go around the back to park underground. I’ve visited over 20 cities in China so I do have good comparison. Very friendly staff and no one rushes you. My photos are deep fried shrimp, shrimp on eggplant, and curry squid. Many meat and noodle choices.
   - name: "Johnny Walker"
     rating: 5
-    date: "2025-10-07"
     comment: |
       Had supper here on October 2/25 and the area was a little sketchy but the free parking & very clean & bright restaurant made up for that immediately. The Chinese foods was delicious & awesome & our waiter & waitress did an awesome job for a great dining experience! For the portion sizes & price & hospitality we will be back for sure. On a side note remember to call ahead dor reservations on weekends cuz they have weddings & other banquet events then I was told. But definitely check this restaurant out if u want great food at a reasonable price our meal came up to 65 bucks plus tip
 ---

@@ -33,12 +33,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Kamalesh Maram"
     rating: 5
-    date: "2026-05-08"
     comment: |
       The food was fresh, hot and just perfect. Enjoyed my Jerk Chicken bowl. Very friendly owner and staff with a great customer service. Highly recommend this place ! Very well maintained establishment.
   - name: "Siddharth Rajadhyaksh"
     rating: 5
-    date: "2026-03-08"
     comment: |
       What a great place! Loveen was incredibly friendly and welcoming, always greeting guests with a warm smile. In fact, the entire team is amazing. The owners are also fantastic and clearly make sure everything runs perfectly.
       
@@ -47,17 +45,14 @@ reviews:
       Definitely a must-visit spot if you love great shawarma!
   - name: "Rafan Chowdhury"
     rating: 5
-    date: "2026-03-21"
     comment: |
       I ordered a regular sized rice bowl with mixed chicken and beef and my experience was great. The staff were very friendly, and made the experience feel welcoming and prepared the food fresh in less than 10 minutes. The food was also very good with pretty decent portion size for the price. Overall I think it’s a great little store with friendly staff and great service as well as food.
   - name: "Derek Daraska"
     rating: 5
-    date: "2026-05-11"
     comment: |
       Great food, fast service, great value, great size and flavour options. Ate too fast for the pic, what was left of messy fries !!! Was $35 for 3 items, 2 bowls, and messy fries. Shawarma had good flavour. Thank god, needed this in my life.
   - name: "MOHAMMAD AZAM"
     rating: 4
-    date: "2026-03-23"
     comment: |
       We ordered the chicken shawarma (large) and a falafel bowl. The shawarma was very well done—the sauces, chicken, and fillings were all balanced perfectly, with flavors that really hit the mark. The falafel bowl was equally impressive; the falafel tasted freshly made and was generously topped with tahini and hummus sauces, dressing, ....making it rich and flavorful.
       

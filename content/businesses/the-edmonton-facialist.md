@@ -30,17 +30,14 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Ashley Fuller Rubin"
     rating: 5
-    date: "2026-07-27"
     comment: |
       I just had the most incredible facial! Sooo relaxing, and my skin is glowing!! I felt so taken care of through the entire process. I will be booking again with Ayesha - The Edmonton Facialist! She is so gifted!!
   - name: "Nisha Yadav"
     rating: 5
-    date: "2026-05-07"
     comment: |
       Had such a great facial experience with Ayesha 🤍 I got microdermabrasion with LED therapy and a jelly mask, and she was incredibly thorough, gentle, and attentive throughout the whole appointment. She fit both me and my friend in, made us feel so comfortable, and my skin feels amazing after. So smooth, fresh, and glowy. Highly recommend her if you’re looking to treat your skin ✨
   - name: "Deirdre Emberley"
     rating: 5
-    date: "2026-02-28"
     comment: |
       I had the most amazing experience getting my hydro diamond facial and dermaplaning done here! The location is super convenient. The clinic is spotless, beautifully maintained, and has such a calm, relaxing ambience from the moment you walk in.
       
@@ -49,12 +46,10 @@ reviews:
       Highly recommend if you want real, instant results and a peaceful, professional experience!
   - name: "Gemma Marcinkoski"
     rating: 5
-    date: "2026-02-02"
     comment: |
       Ayesha is the real deal! I first visited her for a special occasion and within a few weeks my face looked the best it had in my whole life. She thinks of everything (like a heated blanket!) and takes care to address all of your concerns even going beyond what you booked for. On my second visit she offered just the advice I needed. I look forward to seeing her on a more regular schedule to stay looking my best indefinitely!
   - name: "Beauty cozy"
     rating: 5
-    date: "2026-01-26"
     comment: |
       I had a great experience — Ayesha was very welcoming, professional, and made me feel comfortable right away. She did an excellent job with my facial, paid attention to detail, and my skin felt amazing afterward. i had microdermabrasion with extractions, led light therapy and hydro jelly. I would definitely recommend her and will be coming back.
 ---

@@ -32,27 +32,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Chewy"
     rating: 5
-    date: "2026-07-01"
     comment: |
       A local gem indeed, the place is small but simplistic. Tried the açai signature bowl with added whey protein. It was delicious yet filling. They also have other treats like gelato and smoothies, many options to try. The cashier was also super friendly and gave great suggestions.
   - name: "Tania Ruiz"
     rating: 5
-    date: "2026-05-01"
     comment: |
       REAL authentic Brazilian Açaí bowls! Definitely BEST in Edmonton… Staff and owners are extremely kind and welcoming🫶🏼 Glad to support this local business!!!
   - name: "Oriana Bryan"
     rating: 4
-    date: "2026-06-04"
     comment: |
       Authentic Açaì Bowls. Glad they have a northside location.  Berry Choco Bliss strawberry 🍓 🍌 🥥 🥭
   - name: "Michael Gerrard"
     rating: 5
-    date: "2026-07-26"
     comment: |
       The açai bowls are good and the ice cream is incredible! It was actually worth coming from the south side to try it.
   - name: "Ariel Galvani"
     rating: 5
-    date: "2026-06-07"
     comment: |
       Delicious açai. Lady working there was very kind and helpful! Will definitely come back!
 ---

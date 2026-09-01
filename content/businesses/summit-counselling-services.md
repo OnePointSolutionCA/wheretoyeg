@@ -30,12 +30,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Layla Salantos"
     rating: 5
-    date: "2026-07-13"
     comment: |
       Attended the workshop with a registered psychologist for beauty professionals she did an amazing job at  providing mental health support s and resources
   - name: "Nate Kerr"
     rating: 5
-    date: "2025-09-09"
     comment: |
       Our Paul Kane senior girls basketball team had the privilege of working with Samantha Baira from Summit Counselling, and the impact she had was incredible. She introduced our athletes to sport psychology strategies that really made a difference both on and off the court. Samantha created a supportive, positive environment where the girls felt comfortable opening up, learning how to manage pressure, build confidence, and strengthen their mental game.
       
@@ -44,17 +42,14 @@ reviews:
       I would highly recommend her to any team or athlete looking to improve their mental performance and overall well-being. She was a huge asset to our program!
   - name: "Michael Stasuik"
     rating: 5
-    date: "2025-09-08"
     comment: |
       Samantha Baira did group sessions with our youth sports team and did a fantastic job helping our athletes.
   - name: "William York"
     rating: 5
-    date: "2025-01-28"
     comment: |
       Greg Hamilton is a very good practitioner. He was professional, insightful, respectful and accommodating.
   - name: "Adam Chaban"
     rating: 5
-    date: "2017-11-18"
     comment: |
       Really helped with unique approach, very professional and friendly staff
 ---

@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Marlene Bykowski"
     rating: 5
-    date: "2026-07-21"
     comment: |
       From a phone call in the morning asking for help with our home doors and locks, Vincent was able to come out and help us in the afternoon.
       Vincent is extremely professional and knowledgable and solved our lock and door problems.  He worked hard and made sure that all of our aging locks and doors were working smoothly  before he left. It was clear to us that Vincent really enjoyed his work.
@@ -38,17 +37,14 @@ reviews:
       We would highly recommend this company and Vincent for anyone considering locksmith repairs and services.
   - name: "Nick"
     rating: 5
-    date: "2025-05-23"
     comment: |
       Action Security Locksmiths are lifesavers! Got keys cut in minutes - quick, precise and super friendly staff who go the extra mile. They made it so easy that I almost want to lose my keys just to go back. I would highly recommend this service.
   - name: "Unknown"
     rating: 5
-    date: "2026-06-26"
     comment: |
       Took motorcycle ignition in to get a key to fit, great service..works great good price.
   - name: "Joselita Pighin"
     rating: 5
-    date: "2023-03-22"
     comment: |
       My work office needed 2 extra keys and asked me to get a duplicate on my way to work. So, I went to Action Security Locksmith as this was near me and I could drop by on my way before going to work.
       
@@ -57,7 +53,6 @@ reviews:
       Davis was the one who helped me. He was very polite and knowledgeable of his craft. Thank you for your help and very efficient work!
   - name: "Water Melon"
     rating: 5
-    date: "2026-06-05"
     comment: |
       Amazing service! Timely and efficient, shout out to Vincent for being an exceptional professional 😊
 ---

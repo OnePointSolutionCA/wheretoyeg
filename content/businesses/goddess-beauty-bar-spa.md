@@ -30,27 +30,22 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Kiersten Ferguson"
     rating: 5
-    date: "2026-06-24"
     comment: |
       The facility is very clean, welcoming and beautiful. The staff are friendly and helpful. My nail artist Anna is very personable, knowledgeable and just overall amazing. My mom and I have been going to her for years and she always get the shape right, and her skills are exceptional. These are a few photos of my favourite nails over the years (that’s why there are so many). The newest one is the pearl swirly ones. :)
   - name: "Nicole Gibson"
     rating: 5
-    date: "2026-06-19"
     comment: |
       Amazing experience at goddess beauty bar and spa. All the ladies are very kind and their services are top notch. Anna always does the best nails and nu does the best lashes. 10/10 recommend!
   - name: "Elizabeth Olsen"
     rating: 5
-    date: "2026-05-26"
     comment: |
       I found Goddess Beauty Bar and decided to give it a try because it was close to home and now I’ve been coming here for almost 5 months. I see Anna for my nails and am always happy with the results! She is so friendly and kind and very good at her job.
   - name: "buse layik"
     rating: 5
-    date: "2026-07-25"
     comment: |
       I got a Korean lash lift with Isabelle, and she did an amazing job! My lashes have never looked so beautiful. She was very kind and made sure I was comfortable throughout the entire appointment. It was a 10/10 experience, and I’ll definitely be coming back!
   - name: "Nareeta S."
     rating: 5
-    date: "2026-04-07"
     comment: |
       If you’re looking for gorgeous lashes and top-tier service, I highly recommend this salon. I’ve been seeing Minh for the last 6 years and have always been impressed! She is gentle, precise, and incredibly talented—my lashes turn out perfect every time.
       

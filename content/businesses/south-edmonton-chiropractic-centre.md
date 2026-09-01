@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Jaspreet Panech"
     rating: 5
-    date: "2026-04-03"
     comment: |
       I had a very positive experience at South Edmonton Chiropractic Centre. The team is professional, welcoming, and genuinely cares about their patients.
       
@@ -41,24 +40,20 @@ reviews:
       Overall, I’m very satisfied with the chiropractic and physiotherapy services I received. The clinic is well-organized, and the staff is friendly and professional. I would definitely recommend South Edmonton Chiropractic Centre to anyone looking for quality chiropractic and physiotherapy care.
   - name: "Berleen D"
     rating: 5
-    date: "2026-05-22"
     comment: |
       I’ve had such a great experience with Dr. Basi and the team at South Edmonton Chiropractic Centre. Dr. Basi is always so patient, helpful, and kind. He really takes the time to listen to your concerns and makes you feel comfortable during every visit. You can tell he genuinely cares about his patients and wants to help them feel better. The staff are also very welcoming and friendly which makes every appointment a positive experience. Highly recommend!
   - name: "Harleen Bhui"
     rating: 5
-    date: "2026-06-12"
     comment: |
       I highly recommend South Edmonton Chiropractic Centre! From the moment you walk through the doors, you’re greeted by the friendly front desk staff who make you feel welcome and comfortable right away. Everyone at the clinic is kind, professional, and genuinely cares about their patients.
       
       What stands out most to me is how much time the chiropractors take with you. They truly listen to what’s going on instead of making you feel rushed through an appointment. They explain things in a way that’s easy to understand, answer any questions you have, and make sure you feel comfortable with your care plan. It’s clear that everyone here wants the best for their patients, and that level of care is something that can be hard to find.
   - name: "Daniel Schwalm"
     rating: 5
-    date: "2026-05-22"
     comment: |
       South Edmonton Chiropractic Centre was excellent. With the help of Cynthia, their massage therapist, and Dr. Alexus, I was able to return to work after a disc irritation injury in just three weeks. They were professional, caring, and supportive throughout my recovery. The receptionists are friendly and accommodating, and the building is always clean. Highly recommend.
   - name: "Franz Anthony Almonia"
     rating: 5
-    date: "2026-03-23"
     comment: |
       I had a great experience with South Edmonton Chiropractic Centre following my motor vehicle accident (MVA) last year. Dr. Alex has been exceptional throughout my few starting chiropractic sessions with her. She is very professional, caring, and friendly. She took the time to thoroughly examine my injury and provided amazing treatments, as well as recommending a home exercise program that overall helped me in my recovery.
       

@@ -30,28 +30,23 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Sam Night"
     rating: 5
-    date: "2026-06-23"
     comment: |
       Very nice people really awesome products for landscaping grass, rocks, decorations everything we have they’re awesome people they’re exciting to talk to and they’re funny sometimes
   - name: "Jordan McKnight"
     rating: 5
-    date: "2026-05-28"
     comment: |
       Seen their crew working and stop to ask some questions on pricing. Very knowledgeable and friendly. Can’t wait to see how they do with my yard
   - name: "VASSILI KARATAIRIS"
     rating: 5
-    date: "2026-05-13"
     comment: |
       Solid guys. Great work. I can say a lot, but it’s best said simply: they meet and exceed about every expectation. Would recommend.
   - name: "SYED I MANZOOR"
     rating: 5
-    date: "2026-06-22"
     comment: |
       They have been doing great. I hired them for my back yard and front yard landscaping.
       They did an excellent job so far.
   - name: "Shemiyah Bruno"
     rating: 5
-    date: "2026-05-13"
     comment: |
       I hired this company for my front & backyard & I don’t regret it. Very efficient, reliable & fast. Let’s not forget about the great deal too
 ---

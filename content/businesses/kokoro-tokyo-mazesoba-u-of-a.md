@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Crítica honesta"
     rating: 5
-    date: "2026-06-05"
     comment: |
       YOURE MISSING SOMETHING IF YOU DIDNT TRY THIS RESTAURANT! 🥹💕💕
       
@@ -45,22 +44,18 @@ reviews:
       Highly recommend this place, and I will definitely be coming back again. Thank you for such a wonderful dining experience! 🎉😻
   - name: "Papawadee Lohavanijaya (Bvlgar)"
     rating: 5
-    date: "2026-07-19"
     comment: |
       I tried the seasonal menu, and it was so good! They even offer free rice, which was a nice bonus. The service was excellent, and the staff member who took care of me, Ashira, was incredibly friendly and welcoming. I’ll definitely be coming back!💖
   - name: "Haoyang Zhou"
     rating: 5
-    date: "2026-03-04"
     comment: |
       Excellent service and amazing food. The staff are always friendly and welcoming, and the overall experience is very enjoyable. I go there almost every week because the quality is consistently great.
   - name: "Angel (Angel)"
     rating: 5
-    date: "2026-06-21"
     comment: |
       We had the best service here on Father’s Day! Great deal too. Amazing food!! So happy that they opened a restaurant in Edmonton. Also 5++ stars that they play Monkey Majik
   - name: "Minh Nhat Nguyen"
     rating: 5
-    date: "2026-05-18"
     comment: |
       Great atmosphere!
       The service is great. The servers took their time to take care of us.

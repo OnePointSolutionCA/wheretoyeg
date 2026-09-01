@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Lawrence Sparkes"
     rating: 5
-    date: "2026-07-29"
     comment: |
       In Step Physical Therapy is the best physiotherapy clinic I have ever used in my 49 years.  They have helped me rehabilitate my body after two surgeries on my leg and also with painful nerve impingements in my low back.
       
@@ -43,17 +42,14 @@ reviews:
       You will not find a better Physio clinic than this.
   - name: "James Varghese"
     rating: 5
-    date: "2026-05-30"
     comment: |
       I had been dealing with persistent tennis elbow pain caused by snow shovelling and finally decided to visit InStep Physical Therapy. I am incredibly glad I did. Cyprian, Laura and Roop were fantastic throughout my recovery process that is ongoing. They utilized a comprehensive treatment plan that included dry needling, shockwave therapy, IFC, and ultrasound, which completely turned things around for me. My pain is now almost entirely gone. They also provided me with a tailored home exercise routine, which is crucial to follow consistently for long-term results. For anyone hesitating to see a physiotherapist, my advice is simple: don’t wait. Visit the professionals at InStep and recover faster. Truly great service!
   - name: "heydi johanna preciado"
     rating: 5
-    date: "2026-07-09"
     comment: |
       I highly recommend my physiotherapist! They are professional, knowledgeable, and genuinely care about their patients’ recovery. From the very first session, they took the time to understand my condition and created a personalized treatment plan. I have noticed significant improvement in my pain and mobility thanks to their expertise and encouragement. The clinic is welcoming, clean, and appointments are always well organized. I truly appreciate their patience, kindness, and dedication. Thank you for helping me get back to feeling my best!
   - name: "Gerard Olviga"
     rating: 5
-    date: "2026-04-26"
     comment: |
       First off, the ladies at the front desk are a pleasant to deal with. They are very easy to communicate with and are very nice every single time I attend my sessions and even when needing to phone in for anything. This clinic is very clean and well maintained.
       
@@ -64,7 +60,6 @@ reviews:
       I definitely recommend this place! I travel all the way from Fort Saskatchewan and did not wanna switch clinic even though it’s a bit of a drive for me as I feel very comfortable and taken care of by everyone at this clinic! Very happy patient here!
   - name: "Test009"
     rating: 5
-    date: "2026-03-30"
     comment: |
       I highly recommend InStep Physio in Edmonton! They are truly amazing and treat you like family with such kindness and professionalism.
       

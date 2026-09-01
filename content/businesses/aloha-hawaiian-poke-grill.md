@@ -31,22 +31,18 @@ date_listed: "2026-08-26"
 reviews:
   - name: "John Celadena"
     rating: 5
-    date: "2026-06-23"
     comment: |
       If I could give this place a 10 stars out of 5 I would. The staff is very friendly and super nice. Very accommodating and treats you as if you are family! The food is always good and never misses. My partner and I are so grateful for every visit we make to this place. They treat us with great care and hospitality. Really.. the food is just a bonus to the rating this place the max I could, as the owners and staff of this place goes above and beyond! Thank you again Kuya and staff for always taking care of us. Always a pleasure to make a trip to Aloha! 🤙🏽
   - name: "PowPow :o"
     rating: 5
-    date: "2026-02-07"
     comment: |
       Had the soy chicken, and my girlfriend got the mini spicy tuna poke, and we had the spicy crunchy musubi to share. Very fragrant in the restaurant, and the food did not disappoint. It was delicious and reasonably priced, we did however find the musubi being too saucy, and a little too many wonton chips, but they weren’t major factors for our experience here. Service was great and there were plenty of options for food and drinks which made it hard to decide what to get. Definitely a must go if you haven’t already.
   - name: "Nikk Dacz"
     rating: 5
-    date: "2026-01-25"
     comment: |
       First time here and was looking for a good lunch near St. Albert. I ordered Loco Moco, and the food was really good, served on a skillet. Would love to visit again and try their other menu!
   - name: "D F"
     rating: 3
-    date: "2025-06-12"
     comment: |
       The food was great, although we found it a bit expensive overall, as the portion sizes were quite small.
       
@@ -57,7 +53,6 @@ reviews:
       Spam and ground beef (used for the loco moco) are inexpensive, yet they price them like luxury items. Poke, however, would be understandable.
   - name: "Jake Nathaniel Velasco"
     rating: 5
-    date: "2026-07-26"
     comment: |
       What a hidden gem! Food is great and a nice place to reminisce about our trip in Hawaii!
 ---

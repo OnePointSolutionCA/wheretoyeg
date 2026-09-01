@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Chelsey Miller"
     rating: 4
-    date: "2026-07-16"
     comment: |
       We had a mixed experience overall. The food had some really great highlights, but the service could definitely be improved.
       
@@ -43,7 +42,6 @@ reviews:
       That said, the quality of most of the food was genuinely good, and you can tell care goes into the dishes. With friendlier service, better timing, and more attention to cooking the steak as requested, this could be a really great dining experience.
   - name: "Meow moo"
     rating: 5
-    date: "2026-06-01"
     comment: |
       Between 5 people, we were SUPER IMPRESSED. Note that i rarely give 5 star reviews and I didn't even want to come here because I don't like BBQ! I am writing this review on behalf of all 5 customers. We ordered brisket, whole smoked chicken, beef back ribs, backyard burger, brisket poutine, mac & cheese, caesar salad, coleslaw salad and smoked salad.
       
@@ -68,7 +66,6 @@ reviews:
       Overall REALLY happy with this restaurant. It way exceeded our expectations which is very rare! We're almost always disappointed when going out to eat, and we have had BBQ several times before. It's worth the price, service is great and short wait time for food. Atmosphere is nice.
   - name: "Idowu Yusuf"
     rating: 5
-    date: "2026-05-20"
     comment: |
       I recently took the family out to celebrate Arsenal's Premier league win at The Backyard Smokehouse and it was honestly a great experience from start to finish.
       
@@ -81,7 +78,6 @@ reviews:
       Overall, it was a wonderful dining experience and we’ll definitely be coming back again. Highly recommend for anyone looking for good food, generous portions, and a great atmosphere in Edmonton!
   - name: "Miss Kimchi"
     rating: 4
-    date: "2026-06-03"
     comment: |
       I loved how this place has great meat and its 100% halal so literally anyone can eat here. I dare say they are among the top 3 BBQ places in Edmonton.
       We got a stake and brisket. Although the stake was well done , you could still chew it and the favour is on point. I especially liked its gravy. The side was french fries and it was crispy and not oily at all. It was just perfect.
@@ -89,7 +85,6 @@ reviews:
       The food was worth it and the service is great. I still believe its on the pricy side for the quantity but thats just my opinion,  the taste is great so its worth it to try. For us , it'll be for special occasions. One star down for the price.
   - name: "Corey Halabi"
     rating: 5
-    date: "2026-05-15"
     comment: |
       My nieces took me out for a late birthday this evening. I have always wanted to try this place out ever since it opened. The owner, Syed was very humble and recommended the three yard platter. A great server indeed. Well say no more as the platter was a hit! Portions were reasonable and the Twix milkshake was amazing! When the service and food are good, then you know it is worthy to come back again.
 ---

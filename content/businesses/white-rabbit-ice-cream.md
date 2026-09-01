@@ -32,21 +32,18 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Daniel Duke"
     rating: 5
-    date: "2026-06-15"
     comment: |
       Super delicious food and a staff that's enthusiastic about the product! Got to try a lot of different flavors and got to hear stories about how each one gets made!
       
       Ended up getting a cone of London fog and would definitely recommend trying it, they also packed up a few cookies for me to bring home and they traveled gorgeously, just had the Banana coconut with my girlfriend two days after the fact and it still tasted fantastic!
   - name: "Cherry Santos"
     rating: 5
-    date: "2026-04-02"
     comment: |
       This place always has some good flavours. I’m not a big ice cream fan myself but I always find myself buying a scoop or two from here.
       
       I also love that they sell “waffle chips” so you can dip them into your ice cream if you don’t want to commit to a cone. Just as good and a little cleaner. I tried their new Pain au Chocolate which had very large chunks of the croissant and chocolate which was sooo good. And their chocolate isn’t too sweet or bitter which is nice to add.
   - name: "Jeff"
     rating: 5
-    date: "2026-07-29"
     comment: |
       We stopped by White Rabbit Ice Cream on 110 Street, and it was such a great treat! The shop has a cozy, welcoming atmosphere, and the staff were friendly and helpful.
       
@@ -55,13 +52,11 @@ reviews:
       They also have a great selection of unique flavors, so there's something for everyone. If you're an ice cream lover or just looking to try something different, White Rabbit Ice Cream is definitely worth the visit. We'll be back soon for another scoop!
   - name: "Leah Kim"
     rating: 5
-    date: "2026-06-30"
     comment: |
       The chocolate brownie was delicious and the salted toffee was too. The waffle cones were made fresh and tasted as such. The staff member which helped us (he had a knight tattoo on his arm but I forget his name) was very very nice!! He let us try any flavor and was friendly and enthusiastic when we asked about the taste of each ice cream. He never made us feel rushed and made our experience great! The store was also nice and clean, and the little wall with merch was so cute too. Also need to add points for the free parking; very convenient.
       Will definitely be coming back!
   - name: "Andy L"
     rating: 3
-    date: "2025-12-31"
     comment: |
       I tried White Rabbit Ice Cream at their Edmonton location. The white rabbit flavour was nice but not very strong. I also tried their taro honeycomb, which was enjoyable for the first few bites but became too sweet after a while. Given the price point and what they’re supposedly famously known for, I’d give it 7.3/10.
 ---

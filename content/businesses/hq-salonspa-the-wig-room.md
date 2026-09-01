@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Hannah Langlais"
     rating: 5
-    date: "2026-08-09"
     comment: |
       Rachelle👏🏼👏🏼 11/10!
       
@@ -41,23 +40,19 @@ reviews:
       I live an hour away and will happily make the drive just to see her. She’s an amazing stylist and an even better person. Highly recommend!!!
   - name: "Beth Skepple"
     rating: 5
-    date: "2026-03-03"
     comment: |
       I can’t recommend my hair stylist enough! I see Taylor at HQ and she does an amazing job every single time. Not only is she incredibly skilled and talented, but she’s also so kind and friendly, which makes every appointment such a great experience. I always leave feeling confident and loving my hair. Highly recommend!
   - name: "Kalyn O'Neill"
     rating: 5
-    date: "2026-05-22"
     comment: |
       I just had the MOST INCREDIBLE SIGNATURE FACIAL FROM ERIN!! Magic touch! It was amazing.. calm.. soothing and couple giggles... she made me feel sooooo spoiled.. she is amazing at her job! Love this place.. whether it's getting my hair done or a lil pampering, people like Erin make u feel warm and welcome❤️
   - name: "Thomas K"
     rating: 5
-    date: "2026-07-21"
     comment: |
       As a male, HQ Salon for a reason has been my go to for 4 years now! All of the staff are not only great at taking care of my wonderful, yet what feels like finicky mid-length hair, they’re fun, professional, attentive to my needs, and Kerry works with me to  solution seek timing around my revolving schedule.
       If you’re looking for a new place, go to HQ, great rates and 5 star service every day!
   - name: "Tim Wall"
     rating: 5
-    date: "2026-04-18"
     comment: |
       I didn’t plan on getting my eyebrows trimmed when I walked into HQ Salon and Spa… but sometimes life intervenes.
       

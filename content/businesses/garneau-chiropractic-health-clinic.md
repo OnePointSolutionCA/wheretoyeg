@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Elsad Cukali"
     rating: 5
-    date: "2026-05-25"
     comment: |
       I have had an excellent experience with this clinic. I feel much better after my treatments, and I have always been treated with great care and professionalism.
       
@@ -39,22 +38,18 @@ reviews:
       I highly recommend this clinic, and especially Buthayna, to anyone looking for quality care and a positive experience.
   - name: "mahdieh aminian"
     rating: 5
-    date: "2025-06-12"
     comment: |
       I had a massage with Grace, and she was incredible. She knew exactly how to find my problem areas and release the muscle knots with great technique. The wellness center itself had a beautiful, calming atmosphere and gave off a very warm and welcoming vibe.
   - name: "Jovie Yunara"
     rating: 5
-    date: "2026-07-17"
     comment: |
       I really love this place. the staff is really helpful to arrange my appointment. the doctor is so nice and doing the treatment gently. And now I bring my wife to go there as well to get the chiropractic treatment.
   - name: "YinLong Huang"
     rating: 5
-    date: "2026-03-02"
     comment: |
       Have been using my student health care for massage in here for about two years now, always with Dr. Scott and Paige and always enjoyed it.
   - name: "Jinal Adhiya"
     rating: 5
-    date: "2026-07-03"
     comment: |
       Great experience with Dr. Robert and Grace. Both has magic in their hands. Always listen to the problem very carefully and guide the way to resolve it. Very friendly staff. Highly recommended!
 ---

@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Viresh Mistry"
     rating: 5
-    date: "2026-01-16"
     comment: |
       Boxcar Coffee Shop in Edmonton absolutely lived up to the hype. It came highly recommended, and since I’m in town for a local event, I knew I had to check it out. I’m really glad I did.
       
@@ -43,7 +42,6 @@ reviews:
       If you’re visiting Edmonton or even a local looking for a great coffee spot with amazing desserts, Boxcar Coffee Shop is a must-visit. I’ll definitely be back next time I’m in town.
   - name: "The Professional Positive Viber"
     rating: 5
-    date: "2026-05-14"
     comment: |
       When I first came here with my girlfriend, it was on a freezing cold -30 day in February. Boxcar is sort of North Edmonton so I thought it would be annoying to get to, but we drove through the cutest little neighbourhoods, pointing out adorable little houses and imagining how we’d live in a house like that like that one day. We parked and it was so quiet, we could just hear the snow squeaking under our feet and each other breathing. It felt like we were on some sort of holiday to the mountains, the way the wind was so still and how the neighbourhood felt so secluded.
       
@@ -54,19 +52,16 @@ reviews:
       I highly recommend this place, I have nothing but fond memories. I’ll definitely be coming back!
   - name: "Coffee Adventure"
     rating: 2
-    date: "2026-07-06"
     comment: |
       I love the atmosphere of this café. It’s tucked away on a quiet street, has nice outdoor seating, and the shop itself is beautiful.
       
       That said, the coffee is what matters most, and unfortunately it falls short. The cappuccino was thin and lacked the sweetness and richness you expect from properly steamed milk. I also ordered an espresso and specifically asked for it in a ceramic cup, but it still came in plastic. I could indeed smell the plastic, which made the whole experience feel cheap — and I’d rather not have microplastics in my drink.
   - name: "Susie E's favorites!"
     rating: 5
-    date: "2026-03-19"
     comment: |
       Wow!!!!!! I cant speak any more highly about this place ♡ I was greeted with such a warm hello and such great service.  I was recommended the London fog Tres Leches and one of the customers said they were ordering their second serving as we spoke! I was so excited to try it! I ordered the tres Leches, a vanilla latte and a croquet monsieur sandwich. When it came out, it had to take a picture of the cake!!! What a beautiful work of art and HOLY smokes the taste!!!! It was amazing!!!  I can't explain how they clearly understood how to get.both London fog and their tres Leches cakes to blend into this fabulous concoction, but they truly did!!! And the latte was on another level as well. I can't even describe their chipolte aioli  dip with their chips, it was probably one of the best dips I have ever had! Everything came out gorgeous and hot! I feel so lucky to have been able to stop by !!! Seriously, don't just walk here, Run♡♡♡!!!
   - name: "IG:Foodieedwin"
     rating: 5
-    date: "2026-01-04"
     comment: |
       Boxcar Cafe is one of those rare cafés where the experience matters just as much as the coffee. I love black coffee, but once a cup hits a solid seven out of ten, I start paying more attention to everything else, the service, the atmosphere, and how the space makes you feel. Boxcar gets this right. The staff are genuinely attentive and welcoming, and the café feels warm and intentional without trying too hard.
       

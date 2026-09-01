@@ -33,12 +33,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Francis"
     rating: 5
-    date: "2026-07-05"
     comment: |
       We've been twice now and every dish has been great and the staff / owner really nice and willing to explain the various dishes. We've tried the Desai butter chicken, red beef curry, bagjaar-e-baingan, and beef kheema biryani. The bagjaar dish is eggplant with peanut sauce which was really good. Never had anything quite like it before. The Biryani was also really good. Will definitely go back to try more things and would highly recommend.
   - name: "maneesh sah"
     rating: 5
-    date: "2026-05-10"
     comment: |
       Deccani Biryani completely blew us away.
       
@@ -55,12 +53,10 @@ reviews:
       Highly Recommended five stars plus 👌 👌
   - name: "Henry Du"
     rating: 4
-    date: "2026-05-09"
     comment: |
       The food here is pretty tasty. Quite enjoyed the Apollo Fish, garlic naan and Mutton Biryani. The chicken curry we tried packed quite a bit of heat (even as mild) and while it wasn't bad, was a bit too oily. Very friendly service and nice interior decor.
   - name: "Vaishnavi Rao"
     rating: 5
-    date: "2026-03-31"
     comment: |
       Tried Talawa ghosh and paneer biryani here.
       Talawa ghosh was absolutely delicious. Biryani was amazing too. Spices were right on point. Quantity is enough as well.
@@ -68,7 +64,6 @@ reviews:
       Must try place.
   - name: "Heather"
     rating: 5
-    date: "2026-06-27"
     comment: |
       We ordered Tangdi Kebab and
       Chicken Biryani. Finely crafted and  succulent with complex aromas and flavors.

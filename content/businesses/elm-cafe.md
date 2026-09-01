@@ -31,7 +31,6 @@ date_listed: "2026-08-18"
 reviews:
   - name: "Shida M"
     rating: 5
-    date: "2018-11-23"
     comment: |
       Great service! I love that the food menu changes frequently.
       The music here is always on point.
@@ -41,12 +40,10 @@ reviews:
       There is seating but if you have a big ass dont expect to be comfortable.
   - name: "Jenna Hohmann"
     rating: 5
-    date: "2017-11-30"
     comment: |
       I work from a vehicle all day and am often in the neighbourhood so I stop by for sandwiches, usually a couple of times a week. I used to only get their baked goods once every couple of months because their oatmeal cookies and chocolate orange scones are amazing but now that I'm pregnant I need to eat a little more often and don't always have time to pack a lunch, and they don't usually use deli meat (and even if they do it's heated up enough that it's safe in pregnancy) so I can enjoy most of their food. Every time I go in the staff put a smile on my face. They're always friendly and they know me by name. I love that there's variety as they change up their menu continually and it's never been disappointing. I've never had a sandwich I didn't enjoy. I also appreciate the humour they use when naming their sandwiches (a la Bob's Burgers). I like that they're local and support other local businesses. I just wanted to give a shutout to these guys because they're doing great. PS the pulled pork sandwich they have on right now is INCREDIBLE.
   - name: "Nils Jc"
     rating: 5
-    date: "2018-08-14"
     comment: |
       The most delicious sandwich I had in Edmonton so far.
       I got this one of pulled pork BBQ. The textures were so great combined, and I loved the fresh bread.
@@ -56,12 +53,10 @@ reviews:
       I will go back to try other flavors for sure.
   - name: "Calum Turner"
     rating: 5
-    date: "2018-06-10"
     comment: |
       This place has coffee and other refreshments but what I want to talk about is the sandwiches.  Every day they pull out a fleet of 2 breakfast and 3 lunch sandwiches, all of them delicious.  The offerings always included a vegetarian selection for those going meatless.  The sandwiches differ from day to day but the quality is consistent.  The only con I have ever had with this place is they make a sandwich so good your sad to see it go the next day.  The catering is also top quality!
   - name: "Wade Rossmann"
     rating: 5
-    date: "2013-07-18"
     comment: |
       I don't know where Tidings Mpofu had coffee, but it definitely was not Elm. The most pretentious thing about Elm is the occasional snooty customer. I have never seen the staff be anything but friendly and courteous to every customer regardless of if they have a complicated coffee order, or want to know the difference between a latte and a cappuccino.
       

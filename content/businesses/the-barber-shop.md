@@ -29,12 +29,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Jestin Roberge"
     rating: 1
-    date: "2026-05-31"
     comment: |
       The guy that was there Saturday May 30 did a horrible job on my kids hair. Will not be returning. Asked for a fade and a lighting in bolt like number 8 on the kids haircut menu. I can't even call his butchery a temu version of a haircut. An elephant could do a better fade. And I don't know what the hell the lightning bolt thing he shaved into my kids head is. And just wow on the bangs...Thank God kids hair grows quick. Save your money and go somewhere else.
   - name: "Laurence Houde"
     rating: 5
-    date: "2026-06-04"
     comment: |
       As a guy from Winnipeg, I feel qualified to talk about haircuts the same way a survivor is qualified to talk about natural disasters.
       
@@ -68,17 +66,14 @@ reviews:
       Thanks again, Momo. You made a Winnipegger look respectable for a wedding, and that’s no small miracle.
   - name: "Ella Venus"
     rating: 5
-    date: "2026-06-01"
     comment: |
       Amine did my son’s first hair cut when he was 3, he was very good at entertaining him while cutting his hair and we’ve been going ever since. Amine did his hair again today and as usual he did a great job! Highly recommend Amine he’s very friendly and always gives excellent service!
   - name: "ebster the horror gamer"
     rating: 5
-    date: "2026-06-11"
     comment: |
       Amazing place have been going there for awhile! And they make my hair look amazing! Would definitely recommend! And surprisingly cheap for the quality!
   - name: "Rob Mockford"
     rating: 5
-    date: "2026-06-01"
     comment: |
       Momo is an excellant barber and I recommend The Barber Shop without reservation. I am a customer since they opened and I've never been disappointed - brisk, no nonsense, efficient and very proficient. Thank you Momo!
 ---

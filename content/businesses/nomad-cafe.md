@@ -31,7 +31,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Emily"
     rating: 3
-    date: "2026-06-16"
     comment: |
       I stopped by Nomad Café for lunch after seeing the positive reviews and decided to give it a try.
       
@@ -43,24 +42,20 @@ reviews:
       While I truly appreciated the kindness of the staff, the overall food quality and value didn't meet my expectations, and I don't think I'll be returning.
   - name: "Jiyoung Seol"
     rating: 5
-    date: "2026-04-15"
     comment: |
       We dropped by in the afternoon and really enjoyed our time here. The cafe has a cozy, welcoming vibe, and the staff were so kind and attentive. The drinks were absolutely delicious too! We’ll definitely be coming back again.
   - name: "cg"
     rating: 5
-    date: "2026-06-19"
     comment: |
       An excellent medium sized cafe with a giant tv. I had a heated scone which is nothing like a "western" one. It was very soft with berries, and that puddingy softness combined with the fact that it wasn't over sweetened was a nice change of pace.
       
       Also had a black iced Americano. Delicious and not bitter (though I like those too) like some are. Smooth. Service was also great. She brought everything to my spot at the end of a very comfy couch at the back.
   - name: "Twitchy"
     rating: 4
-    date: "2026-04-26"
     comment: |
       Stopped in on a recent weekend afternoon for coffee and refreshers. Our drinks were good and the service by the single person working was ok. There was lots of parking available outside at the time of our visit.
   - name: "Alice H"
     rating: 5
-    date: "2026-03-11"
     comment: |
       Super cute and cozy caffé… I was served by Aurora and Princess, such warm & lovely ladies.
       

@@ -3,7 +3,7 @@ import { HeroSearch, type SearchIndexItem } from "@/components/HeroSearch";
 import { HeroVideo } from "@/components/HeroVideo";
 import { CategoryGrid } from "@/components/CategoryGrid";
 import { FeaturedCarousel } from "@/components/FeaturedCarousel";
-import { ReviewCard } from "@/components/ReviewCard";
+import { ReviewCarousel } from "@/components/ReviewCarousel";
 import { FloatingCube } from "@/components/FloatingCube";
 import { CollectionTiles } from "@/components/CollectionTiles";
 import { HomeIntro } from "@/components/HomeIntro";
@@ -20,8 +20,8 @@ import { getBlogPosts } from "@/lib/blog";
 function toSlug(s: string) { return s.toLowerCase().replace(/\s+/g, "-"); }
 
 export default function HomePage() {
-  const featured = getDiverseFeatured(12);
-  const recent = getRecentReviews(4);
+  const featured = getDiverseFeatured(120);
+  const recent = getRecentReviews(20);
   const cats = getCategories();
   const catBySlug = Object.fromEntries(cats.map((c) => [c.slug, c.name]));
   const blog = getBlogPosts().slice(0, 3);
@@ -262,22 +262,12 @@ export default function HomePage() {
         <section className="container-page mt-20" data-reveal="right">
           <div className="flex items-end justify-between gap-6">
             <div>
-              <p className="eyebrow">Community</p>
-              <h2 className="section-title mt-1">Latest reviews from Edmontonians.</h2>
+              <p className="eyebrow">Verified Google Reviews</p>
+              <h2 className="section-title mt-1">What Edmontonians are saying.</h2>
             </div>
           </div>
-          <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
-            {recent.map((r, i) => (
-              <div key={i}>
-                <ReviewCard review={r} />
-                <Link
-                  href={`/${r.business.category}/${r.business.slug}`}
-                  className="mt-2 block text-xs font-semibold text-coral hover:underline"
-                >
-                  About {r.business.name} →
-                </Link>
-              </div>
-            ))}
+          <div className="mt-8">
+            <ReviewCarousel reviews={recent} />
           </div>
         </section>
       )}

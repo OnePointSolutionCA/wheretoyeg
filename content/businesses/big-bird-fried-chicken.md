@@ -31,7 +31,6 @@ date_listed: "2026-08-18"
 reviews:
   - name: "Amirabbas Jalali"
     rating: 5
-    date: "2021-04-12"
     comment: |
       "The Crunchiest fried chicken has been delivered to me in Saskatoon."
       I ordered not spicy (country style), and it really tastes like a fresh chicken without any spices. Surprisingly, it doesn't smell any bad at all. If you prefer your chicken aromatic, go with spicy varieties. I will try the spicy version in my next order to check which one is the best for me, but so far, I am pleased with this country-style one.
@@ -40,22 +39,18 @@ reviews:
       Overall, I definitely recommend this restaurant, you can't go wrong.
   - name: "Ieasha Burns"
     rating: 1
-    date: "2025-07-25"
     comment: |
       Massive piece of chicken..atleast that’s what I thought but it was mostly breading, flavourless..I had gotten the Nashville hot chicken- had 0 flavour except for the white sauce they put on it. I had it remade, same thing. Super oily & greasy..30$ for fries, dumplings & this chicken sandwich..very disappointing. First & last time coming here.
   - name: "Mitchell Doran"
     rating: 1
-    date: "2024-10-05"
     comment: |
       Ordered from here tonight, parts of it were burnt, yet the batter was still wet in places, had to tell my kids not to eat the chicken cause I don’t think it was safe to eat honestly, and certainly not palatable. Used to order from this place a lot and was never disappointed. As soon as I opened the box I knew it was going to be bad, there was actually not much chicken, sometimes it was just battered bone. If you went to superstore, bought a rotisserie chicken, ate the chicken and dumped moist shake and bake on the carcass your be left with what we were given tonight. Won’t be ordering from here again, which is disappointing. First time in my life that I’ve requested a refund from skip, fries were okay though.
   - name: "Don Turgeon"
     rating: 4
-    date: "2022-10-01"
     comment: |
       It was my first time ordering this on skip. The chicken combo is $14, which is the same as the chains, just more seasoned and crunchy. The spicy is an extra dollar, so no big deal. The package is great and lined with parchment paper. It tasted great and I'd definitely order again
   - name: "Linh V"
     rating: 3
-    date: "2021-10-18"
     comment: |
       10/10 for crunchiness
       5/10 for taste

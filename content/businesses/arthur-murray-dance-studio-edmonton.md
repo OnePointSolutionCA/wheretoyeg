@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Anis Laham"
     rating: 5
-    date: "2026-05-23"
     comment: |
       As a shy beginner with zero dance experience, I was nervous to start when I first joined before Christmas in 2025. But from my very first phone call with Chelsee, I felt completely at ease. Her warm personality made me excited to come in for a trial lesson, and I loved it immediately!
       My instructor, Chantal, is absolutely amazing. She is so patient, always smiles, and happily teaches me steps again and again until I feel confident. Because of her, I am getting so much better and learning really well now! Even though I have a very busy schedule and only have one day off a week to come in, they make every moment worth it.
@@ -38,23 +37,19 @@ reviews:
       Thank you to the whole team for making me feel so happy and confident. I am so excited to keep learning here!
   - name: "Colette Hayes"
     rating: 5
-    date: "2026-04-24"
     comment: |
       Absolutely so impressed with this dance studio! Right from when you walk in the door, you will be met by a ray of sunshine named Gabby at the front desk. Overall there is  such a positive, welcoming community feel. While all of the instructors are exceptional, we were lucky enough to get Nastiia as our instructor. She is not only very skilled, but an excellent teacher—encouraging, kind, and genuinely invested in her students’ progress. The staff are always friendly and helpful, and the environment feels inclusive and supportive. They also do a great job tailoring instruction to individual interests. The facility is beautiful, and the overall experience offers excellent value for the cost.
   - name: "Stacy Dukart"
     rating: 5
-    date: "2026-04-30"
     comment: |
       My husband and I took a private Dance lesson in October as a date night. Our instructor was Daniel and he made the class fun and brought a ton of energy, so much that we signed up for more lessons taking us till the end of the year. In January we bought 10 more classes. Every single class Daniel showcased his talent, coupled with his positive energy and made every class absolutely enjoyable.
       Highly recommend Daniel as an instructor! Thank you Daniel!
   - name: "Brandon Metchooyeah"
     rating: 5
-    date: "2026-05-19"
     comment: |
       I, a middle aged man who has never danced in his entire life, can now ballroom dance. At least a little. I met my now Fiance here at Dance. And now, Thanks to Arthur Murray and their special guest, Snow Urban, they are choreographing our wedding dance. You get what you pay for. It's not cheap. But the experience is absolutely amazing.
   - name: "Kathryn Churcher"
     rating: 5
-    date: "2026-03-07"
     comment: |
       My husband and I have loved our time at Arthur Murray! Let my review be your sign to try it out even if you are new to dance, have a skeptical partner, or feel you don’t have enough time.
       

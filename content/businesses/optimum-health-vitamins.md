@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "CoachJR"
     rating: 5
-    date: "2026-03-31"
     comment: |
       I had a fantastic experience at Optimum Health Vitamins! The store is very well kept—clean, organized, and inviting, with a great selection of products.
       
@@ -39,17 +38,14 @@ reviews:
       If you're looking for quality vitamins, supplements, or health products and want excellent customer service, I highly recommend Optimum Health Vitamins. I'll definitely be back!
   - name: "Lionel Soto"
     rating: 1
-    date: "2026-06-27"
     comment: |
       Not sure where they get their degrees from but they advised my girlfriend to buy lithium which contained ethanol as a sleep aid for my two year old child. Lithium is a treatment for bipolar disorder and ethanol, well its pretty much alcohol.
   - name: "Bruce Mattia"
     rating: 5
-    date: "2025-04-15"
     comment: |
       Stopped by Optimum Health Supplements at Unity Square to pick up some iron supplements for my girlfriend.  There’s plenty of parking right out front, which made it super convenient.  We were in and out in no time.  The place always smells amazing, is spotless, and the staff are consistently friendly and professional.  Definitely a well-run and welcoming store.
   - name: "derrick Micheals"
     rating: 5
-    date: "2026-06-06"
     comment: |
       Thank you for the ATP supplements and probiotics. Been struggling with gut health after major surgery due to small intestine separation and 20 antibiotics non stop for a year. Oddly my cardio strength stamina and endurance dropped by more then  50%.  After my 3rd surgery I was sleeping 18hrs a day on average.   So I have come a long way and this final switch to something different is what I required.
       Hopefully after some more iv treatments and letting this new protocol settle i hope to get back 25% of my strength and stamina which is good enough for me.
@@ -62,7 +58,6 @@ reviews:
       Gut is the second brain.  Poor diet gut health can result in mental illness,  physical health issues,  and overall issues in life.  Certain stereotypes must be broken in society Especially by first responders,  sorry will have to call this one out .
   - name: "emilee mccloskey"
     rating: 5
-    date: "2026-05-12"
     comment: |
       Helpful, knowledgeable, and Incredibly kind staff working evening time on May 11th. These ladies helped me with all my questions and advised great products for me.
 ---

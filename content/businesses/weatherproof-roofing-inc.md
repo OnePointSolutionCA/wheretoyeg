@@ -30,12 +30,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Rayanne Dorn"
     rating: 5
-    date: "2026-07-29"
     comment: |
       We had them out to do a repair when a storm unexpectedly blew off quite a lot of our shingles.  They were quick to respond, which was greatly appreciated as we are well aware this stormy summer would have created a significant workload for them and they're likely working around the clock.  Joe promptly fixed our roof and was an absolute pleasure to deal with. It was a job well done and will definitely use them again for any of our future roofing needs.
   - name: "Michael De Castro"
     rating: 5
-    date: "2026-04-17"
     comment: |
       I had a repair done by Weatherproof Roofing and the experience was absolutely five-star from start to finish. What stood out most was their honesty. They were straightforward about what needed to be fixed and didn’t try to upsell anything unnecessary.
       
@@ -44,12 +42,10 @@ reviews:
       I highly recommend them for anyone looking for reliable and honest roofing work.
   - name: "Joshy"
     rating: 5
-    date: "2026-05-08"
     comment: |
       I had my roof repaired because of broken shingles. They did a fantastic job doing the repair and upgrading the vents. Staff is very approachable and will answer all questions. Thank you
   - name: "Spencer Ouellet"
     rating: 5
-    date: "2026-07-21"
     comment: |
       I was recently having some frustrating ventilation issues in my attic and reached out to several companies. Keaton from Weatherproof Roofing came out and completely separated himself from the competition. He provided an incredibly detailed proposal that clearly broke down exactly what was necessary to fix the problem, alongside a few optional recommendations for the long term.
       
@@ -65,7 +61,6 @@ reviews:
       To top it off, the crew was highly respectful of my property and cleaned up the entire mess before leaving. If you are looking for an honest, reliable roofing company here in Edmonton, Weatherproof Roofing is the way to go. Highly recommended!
   - name: "Ehsan Mohammad"
     rating: 5
-    date: "2025-11-29"
     comment: |
       Weatherproof Roofing helped us install new attic vents and fix up some old ductwork, and they honestly made the whole process super easy. The crew showed up when they said they would, were really friendly, and did solid work. I’d happily recommend them to anyone who just wants the job done right without any stress.
 ---

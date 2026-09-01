@@ -30,12 +30,10 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Kimber Bernard"
     rating: 5
-    date: "2026-04-10"
     comment: |
       She did an amazing job—everything was spotless, shiny, and smelled fresh. I’m very happy with their service. She arrived early and finished right on time. Thank you! Will be using them monthly.
   - name: "Your name here"
     rating: 1
-    date: "2026-02-09"
     comment: |
       If I could give zero stars, I would.
       
@@ -52,18 +50,15 @@ reviews:
       Save your money and skip these clowns.
   - name: "Dongmei Ji"
     rating: 5
-    date: "2026-05-16"
     comment: |
       Very professional, get the job done with details. Thank you so much for your service!
   - name: "njeri magda"
     rating: 5
-    date: "2026-04-28"
     comment: |
       5 stars for Diana,
       She was just a great and professional cleaner. She is a pleasant to work with. Thank you maids in pink.
   - name: "Roy Mlazgar"
     rating: 5
-    date: "2025-10-02"
     comment: |
       I was really hoping that this company Maids in pink was going to be a good company because I just moved to Edmonton and I had tried two other companies and they were a flop. But when they sent Anna over, I was really impressed with her personality to start off with she is very friendly and when she started cleaning, I was very impressed with her attention to detail and communicating with me on what I wanted done in my home she is a very good cleaning helper I do give Anna a five star and I also give the customer service that I have been dealing with a five star as well. I recommend this company at first I wasn’t sure either when they asked for a $90 deposit but they sent such a wonderful person to my house. Very happy with Anna and I’m happy that she has an agreed to be my personal. . I recommend this company at first I wasn’t sure either when they asked for a $90 deposit but they sent such a wonderful person to my house. Very happy with Anna and I’m happy that she has agreed to be my personal housekeeper.
 ---

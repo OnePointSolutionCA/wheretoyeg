@@ -31,7 +31,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Gigi Reviews — YEG • AB • Beyond"
     rating: 5
-    date: "2026-05-14"
     comment: |
       Comforting, flavour-packed chai and excellent wraps in a warm, lively café atmosphere with homemade baked goods and desserts that never seem to get old. Easy to enjoy whether staying awhile or grabbing something to go.
       
@@ -55,12 +54,10 @@ reviews:
       * Comfortable spot to relax or meet
   - name: "Darlene Johnson - DeeJay"
     rating: 5
-    date: "2026-05-25"
     comment: |
       Still quite busy even for a Sunday. Just grabbed a small coffee with a snack to go. Loved all the different varieties of sugar --> 8 in total!  I tried some "cane sugar" on this stop. [ forgot to mention the great service 😀❣️
   - name: "t jd"
     rating: 5
-    date: "2026-01-17"
     comment: |
       i love this location so much. it’s so cozy and homey feeling i hope they never update it because the sleek and modern coffee shops are so uncomfy to be in. i love the Kashmiri Chai so much it is my all time fav. i like coming here because they don’t blast music and they are genuinely a pillar of the community. i love seeing all the people the gather here :) :)
       
@@ -69,12 +66,10 @@ reviews:
       maybe this is a big ask (i don’t know beverage stocking prices, im no business owner) but i wish Remedy would try to stay a bit competitive by removing the upcharge for milk alternatives as other places in the city have.
   - name: "Aakifa"
     rating: 5
-    date: "2026-06-07"
     comment: |
       Best cafe in the city to have a delicious chai with friends, study, or just relax on your own. This location has especially delightful lighting and atmosphere! I’ve adored coming to this location across the years as a university student.
   - name: "Emanuel Bridges"
     rating: 5
-    date: "2026-05-26"
     comment: |
       Remedy Cafe has been my go-to spot for years, and I stopped in again just a couple days ago after a long morning run. The chai latte is genuinely one of the best in the city, perfectly spiced and not overly sweet the way so many places tend to make it. The staff are always friendly and seem to remember regulars, which gives the whole place a warm, neighborhood feel even when it gets busy. If you live in Edmonton and haven't made this part of your routine yet, you're really missing out.
 ---

@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Leslie C"
     rating: 5
-    date: "2026-05-26"
     comment: |
       What a great hidden gem that's open to the public.
       My husband booked me the best spa experience.
@@ -43,17 +42,14 @@ reviews:
       I certainly will not hesitate to recommend this lovely, clean and relaxing spa.
   - name: "Allison Husband"
     rating: 5
-    date: "2026-03-09"
     comment: |
       A group of three of us went for pedicures today and received amazing service from Lily, Carly, and Elizabeth! We really enjoyed the warm welcome and attention to detail from the team. Their professionalism shines through! We got the nail art and under eye mask add ons, which elevated the day and made it feel even more pampering. Thanks RG Spa team!
   - name: "Kari Enns"
     rating: 5
-    date: "2026-01-23"
     comment: |
       My 60-minute massage at RG Spa with Renata was the best massage I’ve ever had. From the moment I walked in, everything felt clean, luxurious, and welcoming. The staff was friendly, Renata is incredibly skilled and clearly very experienced. Her pressure was spot-on and her technique was thoughtful and intentional. I left feeling completely relaxed and reset. Highly recommend, and I’ll definitely be back!
   - name: "Diana McGee"
     rating: 5
-    date: "2024-07-24"
     comment: |
       A big thanks to the RG Spa crew for hosting a few of us tonight to introduce us to the space and services.
       Did you know they are open to the public?!
@@ -66,7 +62,6 @@ reviews:
       Fabulous space and excellent services 10/10
   - name: "Carl Reid"
     rating: 5
-    date: "2026-07-18"
     comment: |
       Very clean and aesthetically pleasing space, friendly & skilled staff, relaxing environment. My most recently visit with Lily was great! Hoping Kaden returns soon!
 ---

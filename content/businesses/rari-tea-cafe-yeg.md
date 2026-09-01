@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Marie L"
     rating: 5
-    date: "2026-03-23"
     comment: |
       Rari-Tea Cafe has been my favourite café ever since they first opened in Bonnyville back in 2023, so I was beyond excited to hear they’ve opened a second location in Edmonton 🥹. The space itself is beautiful, cozy, welcoming, and the perfect spot to unwind right in the middle of a busy downtown. The service is top tier!! The staff are incredibly friendly, and you can genuinely tell they love what they do. The owner was especially kind and took the time to walk me through the menu, which made the experience even more special!
       
@@ -39,13 +38,11 @@ reviews:
       Overall, I highly recommend this family-owned café! It’s such a great addition to the Edmonton café scene and definitely worth checking out!! ♥️
   - name: "Ezy sidayon"
     rating: 5
-    date: "2026-03-22"
     comment: |
       Tried Rari-Tea Cafe and it was sooo good, easy 5 😮‍💨
       Got the hoijicha strawberry, mango green tea, and the salt bread. The hoijicha tasted really authentic, nice roasted flavor. Mango green tea was super refreshing too. The salt bread was my fave tho! soft inside, perfectly salted, and crispy on the bottom. Definitely gonna keep coming back for a different flavoured drink every time! Happy to finally have them in Edmonton
   - name: "Kaye Rivera"
     rating: 5
-    date: "2026-03-26"
     comment: |
       Go-to spot for quality matcha and hojicha 🤗
       
@@ -54,12 +51,10 @@ reviews:
       Came for the drinks, stayed for the atmosphere. The space is warm and cozy, and feels like a calm reset from the outside. The staff are always friendly and clearly enjoy what they do, which just makes the whole place even more enjoyable.
   - name: "Jo Hana Garrido"
     rating: 5
-    date: "2026-04-07"
     comment: |
       I ordered matcha latte in oat milk with agave syrup. By far the best matcha I’ve ever tasted in Edmonton! The flavour of their Matcha is rich and creamy! Very well balanced and not quick to water down from the ice. I hope the quality stays the same as ill be definitely be coming back more often. so long live Rari Tea!
   - name: "Cheah Legacy"
     rating: 5
-    date: "2026-06-08"
     comment: |
       Absolutely love this matcha shop!
       Amazing milk options and smoothies and snack are so delicious!

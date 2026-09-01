@@ -30,18 +30,15 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Rajwinder Phull"
     rating: 5
-    date: "2026-07-28"
     comment: |
       Highly recommend
       I had excellent experience with Dr. Tina. She is professional and genuinely care about their patients. Dr. Tina always make me comfortable and give friendly environment. I always feel she listened me during my appointment and give good treatment.  My muscles tightness and mobility improved.
   - name: "Ryan Birchard"
     rating: 5
-    date: "2026-04-06"
     comment: |
       The Chiropractic side is fantastic and full of chiropractors who are very educated and experienced in their craft. Dr. Dawn is a perfect example of this. I have been seeing her for 11 years now and she is effective and her treatments last. The other side Melts, I have only gotten massages there by Hayley and she was polite, knowledgeable, and very effective in relaxing a very stiff and bad back shoulders and neck. As most of us I carry a lot of stress in my neck and shoulders. I use a combo of Chiropractic and massage to treat it and have been doing it this way now for 2 years. Best I've felt in years. Still need meds but far less with this business. Thanks to everyone there!
   - name: "Cassidy Komant"
     rating: 5
-    date: "2026-05-19"
     comment: |
       Dr. Nik Helfrich is fantastic! What really stands out about him is his approach to treatment. It’s not just a quick adjustment and out the door, he takes the time to do muscle work, stretching, and supportive therapies to help the adjustment actually last. He also provides exercises and stretches to do at home so you can strengthen the area and help prevent future injuries.
       
@@ -50,12 +47,10 @@ reviews:
       Thank you, Dr. Nik, I’m so grateful for your help!
   - name: "Anita Zartiga"
     rating: 5
-    date: "2026-07-05"
     comment: |
       The ambience is clean and relaxing, Jessica is accommodating and respectful my therapist Saba is nice and I felt comfortable with her, highly recommended this place in Clareview
   - name: "MRW"
     rating: 5
-    date: "2019-10-13"
     comment: |
       Every detail of this studio is so well thought out and inviting. From the entryway to the receptionist, to the waiting room, the treatment rooms and the doctors is all wonderful. I have been going here on off for about 10 years and I've seen Dr Megan and Dr Sheena both doctors seem like they genuinely care about my well-being that would highly recommend this place :) whenever I take my son in he doesn't want to leave because the waiting room has such cool toys.
 ---

@@ -30,27 +30,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "WHK"
     rating: 5
-    date: "2026-07-25"
     comment: |
       Very good,pleasant experience Service was excellent saleslady Anna very friendly and helpful.Even the biltong,droewors and chili bites were very tasty.👌👌👌
   - name: "Michaela"
     rating: 5
-    date: "2026-04-13"
     comment: |
       Stopped in on opening day and am very glad I did, the selection is fantastic and the prices are super reasonable. The staff are so friendly and welcoming, truly a little slice of home.
   - name: "Nicole Whitehorn"
     rating: 5
-    date: "2026-05-02"
     comment: |
       Great prices, lovely people, amazing service!
   - name: "Glen Twigge (Skyline Gaming Channel)"
     rating: 5
-    date: "2026-06-20"
     comment: |
       Best shop for SA goods. Dont miss it. Worth a visit.
   - name: "E J"
     rating: 5
-    date: "2026-04-15"
     comment: |
       I tried their biltong and fell in love with it! Much softer than your regular jerky and not too salty yet packed with so much flavour. Their milktert (sorry if it's misspelled) was also wonderful.
 ---

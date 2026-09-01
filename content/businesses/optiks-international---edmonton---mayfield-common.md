@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Dr. Joshua Konu"
     rating: 5
-    date: "2026-06-19"
     comment: |
       I had an amazing experience with Sunita at Optiks International! She was incredibly knowledgeable, patient, and genuinely down to earth. Shopping for glasses can sometimes feel overwhelming, but Sunita made the entire process easy, stress-free, and honestly a lot of fun.
       
@@ -39,12 +38,10 @@ reviews:
       If you're looking for new glasses, I highly recommend asking for Sunita. She made the experience a breeze from start to finish. 10/10 recommend! 👏👓
   - name: "Kari Pfeifer"
     rating: 5
-    date: "2026-07-25"
     comment: |
       Came from out of town stop in for 2 pairs of glasses adjustments, didn’t even charge me!! I will be coming back for my exams. Great location, very friendly and safe.
   - name: "Madeleine E"
     rating: 5
-    date: "2026-05-04"
     comment: |
       I had a great experience at Mayfield Optiks International for my eye exam and new glasses.
       
@@ -55,12 +52,10 @@ reviews:
       I’m super pleased with my glasses, and it’s reassuring to know I can stop by anytime for adjustments if needed.
   - name: "Lisa Kelto"
     rating: 5
-    date: "2026-05-29"
     comment: |
       Had the best interaction lately at Optiks International. I was actively looking for a new eye doctor and eye glasses, so I stopped in to get a feel for the place. Charlene was quick to greet me with such professionalism and helpfulness!  Her demeanour and kindness secured the deal! Because of Charlene, Optiks International has secured a new happy customer!
   - name: "cheryle wilson"
     rating: 5
-    date: "2026-08-06"
     comment: |
       This was my first time visiting optics international had a wonderful experience with Sunni, She was lovely and helped us a few times correct some mistakes that were made on our glasses. Lucky to have her she was fantastic.
 ---

@@ -33,7 +33,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Monica dragan georgescu"
     rating: 5
-    date: "2026-05-04"
     comment: |
       I’m a very picky person when it comes to food — I care about quality, presentation, and the overall experience. And I can honestly say this place exceeded all my expectations.
       
@@ -48,12 +47,10 @@ reviews:
       Highly, highly recommended.
   - name: "Dan Yang"
     rating: 5
-    date: "2026-07-20"
     comment: |
       We dined in for dinner. Service was friendly and service was great! The food was delicious! Beef/Chicken, Lamb Shish, & Chicken thigh platters were very delicious. The warm bread at the beginning was delicious. Tea is offered at the end and was very nice to wrap up the dining in experience.
   - name: "Kalid A"
     rating: 5
-    date: "2026-06-04"
     comment: |
       On the door it says, "Wait to be seated." Welcomed with a smile 😊 and directed to be seated.
       
@@ -64,7 +61,6 @@ reviews:
       Lastly, I got a free tea to enjoy our conversation with my friend.
   - name: "Royal"
     rating: 5
-    date: "2026-06-26"
     comment: |
       Best Kebab really does live up to its name, but my favorite was the mixed shawarma. Everything from the hummus to the shawarma, fries and salad were delicious. The Turkish coffee is traditional and perfectly brewed.
       
@@ -72,7 +68,6 @@ reviews:
       Definitely one of the best Turkish spots we’ve ever tried.
   - name: "Isis Gilzene"
     rating: 5
-    date: "2026-04-12"
     comment: |
       We had such a great experience at Best Kabab this weekend! Maya and Maria took amazing care of us during dinner—super attentive, friendly, and made us feel right at home.
       

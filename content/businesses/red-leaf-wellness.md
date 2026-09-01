@@ -30,27 +30,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "CinM"
     rating: 5
-    date: "2026-07-01"
     comment: |
       I came to Dr. Yoko Masuda for help with chronic tightness on my left side and related anxiety. I’m new to acupuncture and her Japanese-style acupuncture is remarkably gentle yet effective—I barely felt the needles, but the release was real. She thoughtfully layered in cupping, acupressure massage, and moxibustion, and her intuitive, compassionate approach made me feel seen, not just treated. After several sessions, the physical tension and mental weight have both significantly eased. I was always warmly greeted and I can't recommend her and Red Leaf Wellness enough!
   - name: "Michelle Karpenic Buck"
     rating: 5
-    date: "2026-06-10"
     comment: |
       Ive started seeing Dr. Dan Jin for accupuncture. She doesn't listen just to what I say, but to what my body seems to be telling her. She is incredibly intuitive and attuned to subtle changes in energy, tension, and overall well-being. She is knowledgeable and is able to explain the what and why in general for me to understand which I do appreciate.   In the short time of going to see Dr. Dan ive already noticed improvements and less pain in areas that have been bothering me for quite some time.
   - name: "Dacia Moore"
     rating: 5
-    date: "2026-05-28"
     comment: |
       ​The team at Red Leaf Wellness is top-notch. Dr Jason is deeply caring, attentive, and made me feel completely comfortable from start to finish. I truly appreciate his dedicated, professional care. I highly recommend his acupuncture services!
   - name: "Karina Tiggelaar"
     rating: 5
-    date: "2026-07-10"
     comment: |
       If you're looking to invest in your health, I would highly recommend Red Leaf Wellness. It is so refreshing  to have someone listen to your concerns - big or small, and really take the time to put together a plan to help you feel your best. I saw Dr. Amira Abdelaziz virtually, and was so impressed with her insight and knowledge!
   - name: "Kim van Steijn"
     rating: 5
-    date: "2026-03-25"
     comment: |
       We are so grateful to have found such an incredible naturopath, Lorraine. She has been absolutely amazing in helping my daughter navigate her health challenges. From the very beginning, she has shown genuine kindness, patience, and a truly caring approach that immediately put my teenager at ease.
       

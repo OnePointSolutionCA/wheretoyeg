@@ -32,27 +32,22 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Sabrina Haqq"
     rating: 5
-    date: "2026-01-28"
     comment: |
       Had such a great experience here with my family and the food was on point👌🏼 we ordered steaks with potatoes/poutine also a cheeseburger with poutine, it was soo juicy made with fresh beef😍 got our lasagnas to go and the meat-sauce was perfect. Great prices and great quality food I highly recommend this place. Will definitely be coming again. Staff was amazing!
   - name: "Isaac Reech"
     rating: 5
-    date: "2026-04-16"
     comment: |
       Mohamed and the rest of the staff were very nice. Food was delicious and prices are fair. I highly recommend
   - name: "Adeem Haq"
     rating: 5
-    date: "2026-03-14"
     comment: |
       Was looking for halal steak and found so much more! The steaks themselves are some of the best we've had, the soup was perfect for the cold weather, the pizza was filling and loaded with toppings and cheese! I would recommend this to everyone and will definitely be coming back.
   - name: "Hud K"
     rating: 3
-    date: "2026-07-01"
     comment: |
       I bought 2 burgers and 2 large  fries the food is heavy a chicken and a beef burger the food is quite ideally good but chicken was a bit spicy but other than that it is a good restaurant
   - name: "mahnoor ghazal"
     rating: 3
-    date: "2026-06-10"
     comment: |
       I tried their burger and pizza . Burger was juicy and good but pizza had very little chiken the chiken was in small cubes which i don’t like whereas jalepenos were in huge chunks . So the overall quality of pizza was average with little chiken.
 ---

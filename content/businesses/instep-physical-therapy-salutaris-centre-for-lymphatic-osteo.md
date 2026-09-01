@@ -30,27 +30,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Rebecca Zafrani"
     rating: 5
-    date: "2026-05-13"
     comment: |
       Roopreet is an amazing professional! I have been going there for more an a year for my chronic neck pain due to grad school and it has been good.
   - name: "Sara Cross"
     rating: 5
-    date: "2026-06-11"
     comment: |
       Have had great experiences with both Cyprian (physio) and Cam (massage). Highly recommend!!
   - name: "Rica Ko"
     rating: 5
-    date: "2026-03-17"
     comment: |
       All the staff are kind and helpful. Cyprian and Albert have been especially supportive in helping me feel better after the car accident.
   - name: "Alexander Michael Factura"
     rating: 5
-    date: "2026-01-28"
     comment: |
       Had an amazing and relaxing massage. My body pains are now better thanks to Rashmi and her helpful self-care tips
   - name: "Bill"
     rating: 5
-    date: "2025-09-17"
     comment: |
       I was treated by Rupreet for my long-term disability. I can't say enough about how thorough, kind and compassionate she was when treating me. The focus was on gentle exercises to gain my mobility back, which worked really well. I am forever grateful for her expertise and highly recommend her.
 ---

@@ -29,27 +29,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "T bell"
     rating: 5
-    date: "2026-02-09"
     comment: |
       The best pharmacy. The pharmacist is so friendly and accommodating. Never have had a problem with the service.
   - name: "Margot Diehl"
     rating: 5
-    date: "2025-11-01"
     comment: |
       Absolutely amazing service.  I work out of town and have had to call in from various provinces and obtain refills or health advice.  His staff is thorough and kind and quick to assist as well.
   - name: "Shelly"
     rating: 5
-    date: "2026-04-07"
     comment: |
       The absolute best pharmacy. Pharmacists are so kind and helpful.
   - name: "Amie Abel"
     rating: 5
-    date: "2025-01-15"
     comment: |
       Have been using this pharmacy for years, service is outstanding. The pharmacist is professional, kind, very friendly and accommodating. He knows our family by name and gets or prescriptions ready promptly with no issues. He's GREAT!!!!
   - name: "Brittney Smith"
     rating: 5
-    date: "2020-08-10"
     comment: |
       The pharmacist here is amazing. He has always been so kind, courteous and helpful. Delivery of your medication is not always reliable so I normally opt to pick it up. They can have your medication ready to pick up that day if you're willing to wait. And the prices are reasonable. I would definitely recommend if you're looking for a good pharmacy.
 ---

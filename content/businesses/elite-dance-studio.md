@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Belinda Brodziak"
     rating: 5
-    date: "2025-08-12"
     comment: |
       You know your favorite little coffee shop?
       The one where you are remembered and welcomed.
@@ -43,14 +42,12 @@ reviews:
       Elite Dance Studio quickly becomes a second home.
   - name: "Bryan M"
     rating: 5
-    date: "2025-12-11"
     comment: |
       Had a great experience taking an intro hip hop class with Ryan. His classes were lighthearted, well-paced, and educational and his obvious passion and enthusiasm for dance made the classes very enjoyable.
       
       The location was a bit out of the way and it would have been nice to have a mirror for practice but these are very minor complaints that didn't detract from the overall experience. Would highly recommend for anyone looking to get into and explore hip hop dancing.
   - name: "Kewei"
     rating: 3
-    date: "2026-02-12"
     comment: |
       I previously left a positive review earlier in my training; after completing over 2 years in the competitive ballroom dance program, my perspective has evolved after the full experience, and here are as follows below:
       
@@ -76,12 +73,10 @@ reviews:
       This review is shared to provide transparency for future competitive students so they can make informed decisions.
   - name: "Anna Groat"
     rating: 5
-    date: "2025-07-13"
     comment: |
       My husband and I took dance lessons at Elite in preparation for our wedding! We chose our song and worked with our instructor, Jim, to plan a beautiful and simple choreography. He was very flexible and communicative from first lesson to final preparation! As this was our first experience with dance lessons together, Jim offered his expertise and was patient with our awkwardness while listening to our needs and wants. Within 5 lessons we were feeling confident for the big day and had little to no need for extra practise - even with spins and a lift! We are looking forward to returning to Elite for future date nights and highly recommend them for couple’s choreography.
   - name: "Mazn Mangory"
     rating: 5
-    date: "2025-10-04"
     comment: |
       We used Elite Dance to help us with our first dance in preparation for our wedding. Jim went above and beyond for every part of our dance lessons. We selected the silver package (I believe it was called that). We don't have any dance ability lol so choosing this package helped us to get 8 practice sessions in. Jim was able to get us in shape for our first dance. The facility is nice but can get hot in the warm summer days. Thank you Jim!
 ---

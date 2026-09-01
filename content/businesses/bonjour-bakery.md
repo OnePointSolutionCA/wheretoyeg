@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Bob Singh"
     rating: 5
-    date: "2026-03-02"
     comment: |
       Very grateful that this place exists. There's not many spots like it. I can't spend big money on all food items but I do on bread. And I do that here and at the Strathcona Farmer's Market. It's delicious wellness.
       
@@ -41,22 +40,18 @@ reviews:
       They also sell a superb selection of cheeses and quality pastries. And there is an espresso machine and four seats.
   - name: "Jenni Brown"
     rating: 5
-    date: "2024-06-05"
     comment: |
       Amazing croissants, sourdough bread, and cheese!! I want to try everything, what we have  had so far was all amazing. Got some great cheeses recommended to us, and had a proper croissant that was delicious (not just a crescent shaped bun like a lot of places try to pass off as a croissant!). Yes I ate it in the car, couldn't wait to get home! And they have small loaves of sourdough which is perfect, we aren't big bread eaters (despite the love for croissants) so the smaller loaf was great for us. Aaaand now I need to go back asap.
   - name: "Adam Sweet"
     rating: 5
-    date: "2023-03-18"
     comment: |
       Great to have a bakery in the neighborhood again! We were there for opening, and the croissants weren't ready, but we're glad we waited. Delicious. A bit big for a croissant, but good flavour. The pain au chocolate was great. Haven't had the breads yet, but they smell, sound, and look great.
   - name: "Arash Mollahosseini"
     rating: 5
-    date: "2026-02-15"
     comment: |
       Perfect quality, Europe hidden smells pleasing your soul the minute you step in. Go there, go there now.
   - name: "Cindy"
     rating: 5
-    date: "2024-08-10"
     comment: |
       First time checking out Bonjour Baking and Whyte Ave. They sell all types of baguettes , sourdough and many more breads. They have a small selection of pastries. A bit disappointed that they didn’t have croissants. They also sell cheese, drinks, jams etc. A great place to buy different breads.🥖🍞
 ---

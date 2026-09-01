@@ -32,12 +32,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Kayley"
     rating: 5
-    date: "2026-07-11"
     comment: |
       I've been here twice now and loved the tonkotsu and the shoyu ramen- both big winners! The soups are so good. Also really like how you order by yourself on a kiosk as it feels like authentic Japan! Can't wait to try everything else they offer. Reyna was very lovely and helpful!
   - name: "D F"
     rating: 5
-    date: "2026-07-12"
     comment: |
       A solid escape from the WEM food court chaos
       If you're at West Edmonton Mall and want to avoid the food court — the noise, the not-so-pleasant crowd, the grimy tables and chairs — Nagaiki is a great alternative. The tables and chairs are actually kept clean, and the restaurant is nicely designed. It just feels like a proper place to sit down and eat, which is rare to find in that part of the mall.
@@ -46,7 +44,6 @@ reviews:
       Overall, this is a must-go spot if you're at WEM and want food court convenience without the food court experience.
   - name: "Doodleworx Reviews!"
     rating: 4
-    date: "2026-03-12"
     comment: |
       We were in the West Edmonton mall and we thought that we would check out Nagaiki Ramen and it was very good. You order at a kiosk, take your seat and pick up your food at the counter when you see your name on the screen (you get a text as well). Chopsticks are in a drawer on the table with chili oil, sesame oil and a powder that I wasn’t sure what it was, but it was good on my soup.
       
@@ -55,12 +52,10 @@ reviews:
       The staff were also very friendly and helpful. I liked the decor and the hand painted cranes on the wall. On a busy Saturday afternoon it was busy, but fast and efficient and we were quite happy with our lunch. An affordable, and tasty ramen spot!
   - name: "melody barrientos"
     rating: 5
-    date: "2026-07-03"
     comment: |
       t’s my second time here and I would say its worth coming for affordable ramen and sides it offers!! It’s very tasty as well and its a chill atmosphere to just eat and talk with family/friends!!
   - name: "Toshimi Iijima"
     rating: 4
-    date: "2026-06-29"
     comment: |
       The food was not warm enough but the serving size is big. Their supervisor is nice, I think her name was Toni? She told us to let them know next time if there's a problem with the food and they'll fix it for us.
 ---

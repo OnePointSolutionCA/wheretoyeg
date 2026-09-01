@@ -32,12 +32,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Sacha"
     rating: 5
-    date: "2026-05-05"
     comment: |
       First time at Fluffy Bakery, we booked High Tea for a group of 4. We requested dairy & gluten free for one of us and it looked and tasted amazing. All the bread, deserts, and sandwiches were made in house from scratch. Even the gluten and dairy free products. We couldn’t even eat all of the food, had over half left over to take home. Very friendly staff and the owner was lovely. Highly recommend and will be back.
   - name: "MOHAMMAD AZAM"
     rating: 4
-    date: "2026-04-12"
     comment: |
       We visited Fluffy Bakery last Saturday while out for a walk near the Alberta Legislature Grounds. 10 am, they had just opened their doors and welcomed us in.
       
@@ -50,12 +48,10 @@ reviews:
       Overall, a fantastic experience—we’re definitely looking forward to visiting again soon!
   - name: "Sophie Gagnon"
     rating: 5
-    date: "2026-02-06"
     comment: |
       Amazing bakery with gluten free options. Confirmed that they take all necessary precautions to prevent cross contamination and all staff are very well trained on this matter. Had a soy milk matcha and tried the gluten free croissant, the gluten free pistachio cheesecake cup. Everything was absolutely delicious! Also bought a freshly baked gluten free artisanal loaf to take home! Staff were incredible friendly and the bakery itself is extremely cozy, was able to get a little work in!  Their non gluten free options also looked amazing, highly recommend, gluten free or not!
   - name: "Michael (IG mike.slikes)"
     rating: 5
-    date: "2026-02-11"
     comment: |
       I joined their First ever Cake Decoration Class!
       Perfect for beginners!
@@ -82,7 +78,6 @@ reviews:
       $60 pp including a tower and all drinks on the menu with free refill
   - name: "Ilse Buma"
     rating: 5
-    date: "2026-07-24"
     comment: |
       Great place for coffee and cake. Plenty of Gluten free options. I tried there gf tiramisu. and paired it with their iced mocha. Very delicious. A little pricey.
       Great patio area too.

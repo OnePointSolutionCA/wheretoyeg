@@ -29,27 +29,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Taylor Grosz"
     rating: 5
-    date: "2026-04-08"
     comment: |
       This was my first time trying out a Pilates studio and I’ve had the best experience with them. The staff and instructors are seriously the sweetest and are so welcoming to everyone. Megan has killer classes and leaves u feeling so good afterwards. Highly recommend!!
   - name: "Leonard Enekegho"
     rating: 5
-    date: "2026-03-17"
     comment: |
       Amazing group of people! I got their and I have loved every single class. The instructors are great, the studio is beautiful. I felt so welcomed
   - name: "Kayla Novotny"
     rating: 5
-    date: "2026-03-30"
     comment: |
       A friend from work told me about this studio because of their free trial week and I’m OBSESSED. The classes are absolutely fantastic! I’ve been going to Madis’s classes and she’s been so kind, helpful, and encouraging—especially since this is my first time ever doing Pilates. Such a great environment, I’m already hooked!
   - name: "Tristyn Q"
     rating: 5
-    date: "2026-06-27"
     comment: |
       I absolutely love this studio, I’m a frequent more at the Sherwood park location, but I love taking reformers and hot classes when I can. Everything about this space is accessible and accommodating and the instructors are amazing and lovely. I’m just about at 100 classes and I can’t wait to achieve more.
   - name: "Julia Hesson"
     rating: 5
-    date: "2026-06-28"
     comment: |
       You absolutely MUST try. Everything about the studio is so welcoming. Every instructor is so nice and incredible at what they do. Both studios are gorgeous and the huge array of classes that they have allows everyone to have an option at flexible times to work around your schedule
 ---

@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "James G"
     rating: 5
-    date: "2026-06-16"
     comment: |
       I've trained clients at Iron 24 for a while now, and I honestly can't say enough good things about this gym. Dennis and Marti are wonderful owners who have built something special there, a welcoming, supportive community where everyone feels comfortable, no matter their experience level.
       
@@ -41,7 +40,6 @@ reviews:
       If you're looking for a clean, well-equipped gym with an amazing community and owners who truly care, Iron 24 is an easy 5-star recommendation.
   - name: "Mel"
     rating: 5
-    date: "2026-06-17"
     comment: |
       An amazing, small and cozy gym that's definitely a hidden gem. Yes, it's not as big as the big name gym franchises you hear of, but I think that's what stands out about it. It's not tiny, and it has a variety of great machines, equipment and weights. I've never had to wait for a machine and it's never felt packed or crowded even at peak evening hours, etc. I also love that it's a 24 hour gym, so I can come work out any time. A huge bonus is the added security at the door, where you need a membership and a QR code from the membership to scan and enter.
       
@@ -50,17 +48,14 @@ reviews:
       The owner is also extremely sweet, super helpful and friendly. Any time I had any questions or concerns, I sent a text and he'd get back to me super quick. Freezing my membership while I was also on vacation was a breeze, no questions asked. Basically, this gym does everyone a larger gym has never provided for me, which is why I switched to working out here full time. 💗
   - name: "Bradley Tamminga"
     rating: 4
-    date: "2026-08-04"
     comment: |
       Don’t get me wrong it’s not a massive brand name gym but for its size and location the equipment selection is pretty decent. Came through for me in a pinch when my normal gym was closed. Good spot to drop in when needed. Owners super nice.
   - name: "Jamie Crawford"
     rating: 5
-    date: "2026-07-06"
     comment: |
       This is my favourite gym. The equipment is new and there is lots of weights. It’s never busy when I’m there. Great parking and generally a helpful attitude of everyone I see working out. There is no staff on site but the owner is quick to answer questions or solve issues. Safe, friendly, clean and 24 hours.
   - name: "Ram Rowsell"
     rating: 5
-    date: "2025-12-26"
     comment: |
       This is a great gym, all the machines, all the weights, a fitness area for HIIT stretching etc!
       Red light saunas to help in recovery!

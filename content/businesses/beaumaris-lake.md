@@ -30,27 +30,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Apoorva A"
     rating: 5
-    date: "2024-05-15"
     comment: |
       The place is amaziiinggggg for an evening walk. Already went three times inspite of being far from where I stay. I love the birds which are always there and huge walking track around the lake. Good spot for sunsets! Must visit
   - name: "DJ"
     rating: 5
-    date: "2023-07-25"
     comment: |
       Lovely lake and walking trail- 2.5 km and about 40 minutes to go once around. Lots of different birds and beautiful at sunset. It’s within walking distance for me but if you’re driving park near the EPL/ Sobeys on castle downs and it’s right behind there.
   - name: "Lis Marie"
     rating: 5
-    date: "2019-04-26"
     comment: |
       Beautiful lake area right in the city! It’s a decent sized lake, close to 3km to walk all the way around. There are tons of different bird species and trees, it’s a pretty area! Very easy to access with a lot of walkways to enter and park around - great to get out and about!
   - name: "Kev P"
     rating: 5
-    date: "2018-05-13"
     comment: |
       Best place to cardio. Good one lap distance of ~2.6 km. With a nice view of the lake from all sides. Also a good place for a good 30 minute romantic walk. Peaceful and quiet area.
   - name: "Kirk Dewhurst"
     rating: 5
-    date: "2021-11-02"
     comment: |
       November 1, 2021 The renovations are done and they are amazing, there is an awesome new wide asphalt trail.  New decks facing the lake.  This is an awesome gem in the North side of Edmonton.  Always lots of waterfowl to enjoy.  The lake was frozen a bit so my wife and I got a laugh watching the geese skate on the ice
       

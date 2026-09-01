@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Shamsa Butt"
     rating: 5
-    date: "2026-04-27"
     comment: |
       I have my first visit today at Atlas medical clinic, with Dr. Salem, after trying everywhere else in the city.
       My own doctor was unavailable, in hospitals emergency had 6 hour wait, no other walk-in clinic was taking, but here I was in and out within half an hour.
@@ -41,7 +40,6 @@ reviews:
       And I’m thinking to switch my pharmacy & family doctor (I love my family doctor, but she’s not always available) as well.
   - name: "MJM"
     rating: 5
-    date: "2026-03-22"
     comment: |
       I had a great experience at this clinic. The staff were very professional, respectful, and efficient. Everything was handled quickly without long waiting times, which I really appreciated.
       
@@ -50,18 +48,15 @@ reviews:
       Overall, I highly recommend this clinic for their great service and friendly staff.
   - name: "Chloe Sybesma"
     rating: 5
-    date: "2026-04-18"
     comment: |
       Dr. Dele is the first doctor who has really listened to me and taken my concerns seriously. I am so happy to have found him. The clinic is amazing too the front desk staff are very kind and professional. Hardly any wait time before taking me into the room. Would 100% recommend this clinic
   - name: "Geeta Sharma"
     rating: 5
-    date: "2026-05-29"
     comment: |
       Excellent service, neat and tidy waiting area, waiting period for walk-ins is much less than other clinics I've been to.
       Doctor Salem, our family doctor ,is very thorough and considerate. Very polite admin staff as well. A very good place to go to.
   - name: "Gigi Reviews — YEG • AB • Beyond"
     rating: 5
-    date: "2026-04-13"
     comment: |
       A beautiful, fresh, modern clinic with a warm team, on-time appointments, an easy walk-in process, and a smooth, well-organized experience from start to finish. Prescriptions, paperwork, and next steps were handled promptly, and the location is especially convenient with easy parking, direct bus access, and a short walk from the University of Alberta and Whyte Avenue.
       

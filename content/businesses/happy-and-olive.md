@@ -32,17 +32,14 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Ghazal Lotfi"
     rating: 5
-    date: "2026-06-16"
     comment: |
       We had the brekkie sandwich, mushroom tartine, smoked salmon tartine, and the schnitzel. We also tried the cinnamon waffle sticks. Everything was good. The staff were friendly, and the prices were reasonable as well. The only downside was that there weren't a lot of brunch options on the menu. Overall, we had a great experience and would come back.
   - name: "Abrar Islam"
     rating: 5
-    date: "2026-06-12"
     comment: |
       Really well decorated restaurant with multiple good items. The hot honey chicken and crab cake were both tasty. The bread pudding was not too sweet and the crispy bread crumbs on top goes well with the soft base, definitely worth it. The portions for the appetizers and mains are a bit small but this is a slightly upscale spot so that's expected.
   - name: "Gigi Reviews — YEG • AB • Beyond"
     rating: 5
-    date: "2026-04-02"
     comment: |
       A thoroughly enjoyable, one-of-a-kind Edmonton spot with original, flavourful dishes, beautiful design, genuine owner care, and one of the most thoughtful family-friendly washroom setups in the city.
       
@@ -67,12 +64,10 @@ reviews:
       - Looking forward to return
   - name: "Isaac Day"
     rating: 5
-    date: "2026-05-02"
     comment: |
       Amazing food , very busy and maybe a little under staffed for serving; some people seemed a bit stressed out but all around great vibe, make sure to book a Reso it books up fast, the patio is also beautiful, nice bar area, okay prices 20-30$, beautiful inside and kid friendly, also great area and typically lots of parking. We loved the comfy cushion and chair and we loved the vibe in here; would come back again.
   - name: "Melissa Jensen"
     rating: 5
-    date: "2026-04-09"
     comment: |
       Family of four, we could not stop raving about everything during the entire meal. It was the highlight meal of our trip out of a stand-up line up of meals.
       

@@ -30,14 +30,12 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Amanda"
     rating: 5
-    date: "2026-04-24"
     comment: |
       ​Premium Quality & Exceptional Heart!
       ​Ben’s Meat and Deli is a rare find where high-quality meat and top-tier service truly go hand in hand. As a family-run business, they provide a premium experience that is hard to find anywhere else. The owner is amazing—professional, kind, and genuinely dedicated to taking excellent care of his customers.
       ​Beyond the incredible quality of their meats and deli, they have a fantastic selection of Ukrainian and Dutch specialties, along with a massive variety of gluten-free foods. Everything is always top-notch and made with pride. If you’re looking for premium meat, exceptional service, and a shop that actually cares about its craft, this is the place to go. Highly recommended. Five stars!!
   - name: "Sarah Williams"
     rating: 5
-    date: "2026-03-18"
     comment: |
       Ben’s meats is a gem of Edmonton. Even though they specialize in meats, they have grocery, cheeses, tons of cute Dutch trinkets, baby stuff. And I don’t know a place I’ve had a better croquette at, which I should add they can do with or without Gluten!!!
       
@@ -46,7 +44,6 @@ reviews:
       The women chatting beside me, got a sandwich & said this was the “the best gluten free bread she has ever had”.
   - name: "Ana Murphy"
     rating: 5
-    date: "2026-05-28"
     comment: |
       How can I even start this review. Honestly, I have nothing but amazing things to say of this place.
       
@@ -59,12 +56,10 @@ reviews:
       I have gone quite a few times and everyone has been always helpful and it’s gluten free heaven in general.
   - name: "Emily Kuessner"
     rating: 5
-    date: "2026-05-28"
     comment: |
       W O W ! Such amazing food, such amazing service and such kind people who are so helpful! Dave and his wife and the sweetest people ever! As a person who is celiac for 10 years this was my first experience with getting gf chicken fingers, spring rolls etc hot and ready to eat, with a sound mind knowing it’s not cross contaminated, plus they make their own delicious donair wraps that are a good price!!! Just wow, so impressed! 🤍
   - name: "Jessica C"
     rating: 5
-    date: "2025-12-30"
     comment: |
       I can’t say enough great things about this gluten free butcher shop. Not only is the quality of the food outstanding, but the kindness and care truly set it apart. Dave, the owner, was incredibly helpful and compassionate when my daughter was diagnosed with celiac disease. He took the time to answer questions, explain options, and make us feel completely safe and supported. Finding a place you can trust means everything, and this shop has been such a gift to our family. Highly recommend. We appreciate you and your lovely staff!
 ---

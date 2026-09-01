@@ -30,30 +30,25 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Esther Uwimana (Esthella keyz)"
     rating: 1
-    date: "2026-07-26"
     comment: |
       Natan is a good barber. But his other barbers don’t understand english at all.
       
       What I thought they understood after explaining for minutes, that was not done.
   - name: "Nima Abdi"
     rating: 5
-    date: "2025-07-17"
     comment: |
       Great customer service. He took his time and really made sure to give me the exact fade, haircut, and level I wanted. He didn’t rush and kept checking in to make sure I was happy before cutting more. Definitely coming back. Highly recommend🖤🖤🖤
   - name: "jamie hoflin"
     rating: 5
-    date: "2025-09-04"
     comment: |
       My grandsons loved their haircuts! Relaxing experience. Barber very experienced and good pricing.I’m giving 5 stars but google only showing 4 stars.
   - name: "American State"
     rating: 5
-    date: "2025-11-18"
     comment: |
       ⭐⭐⭐⭐⭐
       Top-notch service! The barber is skilled, professional, and always friendly. He made me feel welcome and took the time to understand exactly what I wanted. The result was perfect! The shop is clean, welcoming, and conveniently located. I highly recommend it to anyone looking for a reliable and talented barber. Don’t hesitate to go you won’t be disappointed!
   - name: "Dylan Sehn"
     rating: 5
-    date: "2025-11-15"
     comment: |
       Awesome experience. The barber so polite and relaxed. I really appreciated that they stayed open a little later. Saved my life - as I fly to a wedding early tomorrow.
       

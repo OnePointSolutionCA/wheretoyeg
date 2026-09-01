@@ -33,7 +33,6 @@ date_listed: "2026-08-18"
 reviews:
   - name: "Reggie Balcos"
     rating: 5
-    date: "2026-06-07"
     comment: |
       Curtis did an excellent job replacing our sump pump. He was professional, knowledgeable, and took the time to patiently answer all of our questions. He clearly explained what the issue was, what needed to be done, and made sure we understood our options throughout the process.
       
@@ -42,12 +41,10 @@ reviews:
       Thank you, Curtis!
   - name: "Brock"
     rating: 5
-    date: "2026-08-07"
     comment: |
       I had MR Rooter come out twice,once for a sewer line camera scope and again for line locating. Both times they sent absolute gems of technicians. Adam and Curtis went above and beyond, helping me gather all the information I needed for my project. They identified and marked every line under the foundation, gave me tips on how to move forward, and made sure nothing was rushed or overlooked. Great guys, great price, and an overall amazing experience. I’ll definitely be using MR Rooter again.
   - name: "Lady Mar Jumalon"
     rating: 5
-    date: "2026-07-04"
     comment: |
       Mr. Rooter has a very smooth process from booking an appointment until the job is finish.
       
@@ -57,12 +54,10 @@ reviews:
       Thank you again Jason! You are the best!!
   - name: "Samy Ahmed"
     rating: 5
-    date: "2026-05-26"
     comment: |
       I had a fantastic experience with Mr. Rooter Plumbing! Daryl Allen provided excellent service from start to finish. He was kind, professional, and took the time to thoroughly explain the issue and what needed to be done to fix it. It’s rare to find someone who genuinely cares about making sure you understand the problem, not just getting the job done. Highly recommend Daryl and the Mr. Rooter team!
   - name: "Cindy Dodds"
     rating: 5
-    date: "2026-07-17"
     comment: |
       We couldn’t be happier with the service we received! From the moment we called, the communication was prompt, professional, and friendly. We received different plumbing services from 2 members: Ryan Doering and Brandon Cooper.  They arrived on time for our appointments, respected our home, quickly diagnosed the issue, and explained everything clearly before starting the work.
       

@@ -32,29 +32,24 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Sarah"
     rating: 1
-    date: "2021-04-09"
     comment: |
       For the price, I was pretty disappointed when I opened the frozen bag of dumplings to find them clumped together – impossible to separate with thawing/microwaving. I tore them all apart and tried to then cook them.  Flavour is there but I will not be wasting $15 on these again.
   - name: "Matt B"
     rating: 3
-    date: "2019-02-18"
     comment: |
       Bought a package for the first time, cost me $14 I believe, and was somewhat disappointed to find there was only 10 dumplings in the bag. I'd have thought you'd get more for $14 but figured they must be really good for that cost. The cooking instructions aren't on the outside of the bag, so I was surprised when I got home that the instructions weren't as simple as boiling them. The instructions are somewhat complicated if you don't own a bamboo steamer. They didn't turn out well with their pan-fry method because you still have to steam them in a frying pan at the end and hope for the best. The filling flavours were good but the dumplings themselves weren't worth the cost. The pork ones had some cartridge bits or something in them. They're good, but definitely not worth over a dollar per dumpling.
   - name: "Jurate Motiejunaite"
     rating: 5
-    date: "2019-11-19"
     comment: |
       Love these dumplings! Herbivore variety is my fave, but I liked the chicken ones too, which, I think, were limited variety at some point. They are quick to make and taste wonderful, which saves me during busy times.
       
       I used to think having premium ingredients is not a big thing, but these are the only dumplings that my allergy prone family members can eat and not have a reaction to.
   - name: "Pritpal Gill"
     rating: 5
-    date: "2024-02-11"
     comment: |
       Top notch dumplings. The variety packs are great for when you need the little mix of flavour. Ordered 6 bags and will definitely order them again. Nice and quick too cook too
   - name: "Chris_in_YEG"
     rating: 5
-    date: "2019-10-31"
     comment: |
       I have tried these dumplings and they are delicious! The flavours are great. You can tell they are using quality ingredients and that they put a lot of time and effort in producing a quality product.  It is great to see a local food company with a delicious product! Highly recommend you check them out. I love that there are more and more places to buy them!
 ---

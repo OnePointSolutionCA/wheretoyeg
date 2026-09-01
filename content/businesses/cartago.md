@@ -31,27 +31,22 @@ date_listed: "2026-08-26"
 reviews:
   - name: "Kimberly D"
     rating: 5
-    date: "2019-07-07"
     comment: |
       Fantastic find for brunch! I would go back just for another warm pretzel - it was incredible. German eggs benny and the grilled cheese were both amazing. Great cappuccino too. No line on a late Sunday morning, and friendly staff. Will be back.
   - name: "Britney Williams"
     rating: 3
-    date: "2019-08-07"
     comment: |
       Little delayed on the review but we came here with a group of 8 and had a variety of items. Not pictured are the pretzels which we soft and pretty good. The meatballs and the sausage were okay but lacked a lot of flavour. The cucumber salad was hit and miss; half of us liked it and the other half didn’t. ¯\_(ツ)_/¯  I wouldn’t come back for the food, but I would for the drinks and excellent service.
   - name: "Mateo Gudelj"
     rating: 5
-    date: "2019-06-01"
     comment: |
       Great food and ambience! Saw this place on the news so I decided to try it out. Food did not disappoint at all, everything was amazing. Even met the manager Katy and she was really nice and introduced herself. Also, loved the great selection of beers available here. Will definitely come back again and recommend this place to friends and family!
   - name: "Don Perron"
     rating: 5
-    date: "2018-07-24"
     comment: |
       Great local pub with an earthy feel.  Huge beer selection. Small but tasty menu section. Good service in a clean up scale atmosphere.
   - name: "DA YE Choi"
     rating: 3
-    date: "2018-05-15"
     comment: |
       Espresso, cafe latte are great. My husband ordered white negroni. They made so great. He had egg benedict that was really good. I ordered Rösti. That was only one thing I didn't like. I expected real Rösti but it was small, hard, very thin and not even warm in the plate.
 ---

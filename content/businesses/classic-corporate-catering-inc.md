@@ -30,12 +30,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Boo"
     rating: 5
-    date: "2021-10-12"
     comment: |
       Such an amazing company. I am an ICU nurse at the Royal Alexandra hospital and was shocked to see homemade thanksgiving dinner all beautifully packaged individually. Thank you so much for donating to us the wonderfully made thanksgiving dinner, all the nurses and doctors are so grateful. Every one of us were so excited to be able to take a few moments to eat 🥺✨
   - name: "Monica Delorme"
     rating: 5
-    date: "2021-08-15"
     comment: |
       If you are looking for a Caterer, this is the company to hire. There are so many food options that will work for any occasion.  We ordered finger foods enough for 60 people but over 100 attended our gathering. There was food left over.
       
@@ -46,17 +44,14 @@ reviews:
       Thank you Ray and Tanya for making our family gathering a memorable one.
   - name: "Camryn Marcichiw"
     rating: 5
-    date: "2022-12-08"
     comment: |
       Amazing catering experience! The Holiday meal we got was amazing and we easily had enough food for everyone (75 ish people)! They were super easy to organize and the drop-off and pick-up were super easy, they did everything for us! Highly recommend!! Thanks again.
   - name: "ang ee"
     rating: 5
-    date: "2019-08-08"
     comment: |
       I use Classic Catering at my current job and also often ordered their catering in at my previous job.  They are wonderful to work with and I would recommend them to anyone looking for great tasting catering that won't break the budget and always arrives on time!
   - name: "Nicole"
     rating: 5
-    date: "2018-12-18"
     comment: |
       I have ordered and eaten catered lunches from Classic several times and they are consistently great and on time! Not to mention cost effective! Thanks Classic Catering!
 ---

@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Elle Tado"
     rating: 5
-    date: "2026-06-22"
     comment: |
       This was a SUPER POSITIVE EXPERIENCE!!!
       
@@ -50,7 +49,6 @@ reviews:
       While I recommend that you research your style and tattoo artist to make sure its the right fit for you, I do highly recommend that you check this place out and have a conversation with one of their many talented artists. Being that this is my third tattoo, this was by far my best experience yet!
   - name: "Daniella Savard"
     rating: 5
-    date: "2026-05-03"
     comment: |
       Kaisha is honestly unreal. From the second you sit in her chair, you feel completely comfortable—she’s calm, patient, and really takes the time to understand exactly what you want. Her attention to detail is next level, and you can tell she genuinely cares about her work and her clients.
       
@@ -59,17 +57,14 @@ reviews:
       If you’re thinking about getting a tattoo, go to Kaisha. You won’t regret it 🤍
   - name: "Christina Timleck"
     rating: 5
-    date: "2026-05-12"
     comment: |
       Kaisha was incredible to work with from start to finish. She took the time to listen to everything I wanted incorporated into my tattoo and brought the vision to life even better than I imagined. Her talent, attention to detail, and creativity truly show in her work. I couldn’t be happier with the result and will absolutely be booking with her again.
   - name: "Kristen Pelletier"
     rating: 5
-    date: "2026-01-20"
     comment: |
       This was my first time getting tattooed by Kaisha, and it was an amazing experience from start to finish. She was incredibly professional, welcoming, and made me feel completely comfortable the entire time. The atmosphere was relaxed, the process was smooth, and the quality of her work is outstanding. I absolutely love how my piece turned out and couldn’t be happier. I would highly recommend Kaisha and will definitely be back. Thank you again!
   - name: "Gillian Bird"
     rating: 5
-    date: "2026-01-09"
     comment: |
       I had a great experience at Rabbit Rabbit with artist Kaisha! The shop is comfortable, clean, and all staff were very warm and welcoming. Kaisha allowed me to take lots of breaks when I needed and was very considerate of my needs during the tattoo. I would highly recommend this tattoo studio!
 ---

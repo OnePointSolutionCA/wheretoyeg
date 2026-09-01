@@ -30,17 +30,14 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Danica Plumb"
     rating: 5
-    date: "2026-06-02"
     comment: |
       Thomas Harrington and his team at Black Sheep Realty were fantastic to work with. Thomas was professional, easy to communicate with, and always available when we needed him. His team did an excellent job, and our house sold quickly. They made the entire process smooth and stress-free. We would highly recommend Thomas and his team to anyone buying or selling a home
   - name: "Daniel Viveiros"
     rating: 5
-    date: "2026-06-29"
     comment: |
       Thomas Kube was our realtor for our first time as sellers. From our first meeting, Thomas got us an offer on our home within 3 weeks without our house ever hitting the market. Thomas gave us an extensive list of simple upgrades to improve the ease of sale and he was correct on all of them. Our house closed 6 weeks after meeting with him and no hiccups or issues ever came up. We are still in disbelief with how easy and painless Thomas made this whole process for us. We already recommended Thomas to our neighbours and will be recommending him to anyone that may ever need a realtor for purchasing or selling. Thanks Thomas!!
   - name: "I B"
     rating: 5
-    date: "2026-04-28"
     comment: |
       I used Zach to sell my mother’s home and it could not have gone smoother. At all times I knew that he represented mine and my mothers interests. Zach was able to calmly and adeptly able to deal with the multiple back and forths with the buyer. He communicated with me as needed and I definitely appreciated his advice and strategy in selling the house.
       
@@ -49,12 +46,10 @@ reviews:
       I would definitely recommend Zach and use him again!
   - name: "Lexie Toppin"
     rating: 5
-    date: "2026-05-06"
     comment: |
       As a first time home buyer I had no idea what to expect. Zach Koziak spent so much time with me easing me into the home buying process. He never discriminated against my budget and was always willing and enthusiastic about seeing the homes with me. His education in contracting helped him immensely in educating me in a houses flaws and strengths too. He was very thorough and careful when we were in the homes always making sure to be respectful of someone was living there.  As a first time home buyer I am forever grateful for Zach as he made the experience enjoyable and I learned a lot in the process!
   - name: "Hsiaoying Tsai"
     rating: 5
-    date: "2026-06-06"
     comment: |
       I highly recommend Brice Laidler at Black Sheep Realty. After interviewing several realtors, Brice stood out for his professionalism, knowledge, and dedication.
       

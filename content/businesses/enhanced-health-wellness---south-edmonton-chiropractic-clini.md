@@ -30,19 +30,16 @@ date_listed: "2026-08-30"
 reviews:
   - name: "praveen kumar Churchigundi Erappa"
     rating: 5
-    date: "2026-06-27"
     comment: |
       I had three sessions with Dan Jin, and the experience was excellent. I have seen many specialists in the past, but Dan Jin stood out because of her deep knowledge, professionalism, and ability to understand what was going on. She suggested an energy healing approach, and I appreciated how confidently and clearly she explained everything.
       
       She is kind, courteous, and genuinely cares about her clients. If you’re looking to improve your overall well-being or feel like your energy is out of balance, I highly recommend seeing Dan Jin. Her expertise and caring approach make her someone I would happily recommend to others.
   - name: "Sean Peterson"
     rating: 5
-    date: "2026-04-30"
     comment: |
       I went to clinic on 1 day notice. Body felt pretty roughed up after several yrs of quite physical & grueling work. Seen Dr. Justin Kwan. He is very thorough and asks all the right questions. Had a 45min session and ever since have felt like I'm in a new body. I feel renewed. My new go-to chiro clinic and Dr. going forward. Highly recommend to everyone. 5-STARS.🎉✨️
   - name: "Annie Schurek"
     rating: 2
-    date: "2026-04-24"
     comment: |
       Dr. Kwan is great, and I’ve had positive experiences with the care provided. However, I did run into a frustrating issue with billing.
       
@@ -57,13 +54,11 @@ reviews:
       Be very careful and confirm exactly how they are billing before proceeding.
   - name: "mustafe jama"
     rating: 5
-    date: "2026-01-08"
     comment: |
       I had a great experience at Enhanced Health & Wellness. The clinic is professional, welcoming, and clearly well-regarded by the community.
       A special shout-out to Dr. Justin Kwan. He is an exceptional chiropractor who takes the time to truly listen to his patients' concerns. His expertise and personalized approach to care made a significant difference in my recovery and overall wellness. If you are looking for a chiropractor in Edmonton who is both skilled and genuinely caring, I highly recommend booking an appointment with Dr. Kwan!
   - name: "Megan Gillam"
     rating: 5
-    date: "2026-02-11"
     comment: |
       Went here for the first time, and was extremely impressed with the experience! Definitely will go back and recommend! Elizabeth was extremely knowledgeable and easy to talk with, leading to me learning more in one massage than in years. They offer more than massage and I will explore their other services based on my experience.
 ---

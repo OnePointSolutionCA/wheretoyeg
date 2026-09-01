@@ -29,12 +29,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Glen Robbins"
     rating: 5
-    date: "2026-05-11"
     comment: |
       Absolutely amazing staff, polite and respectful. I am under the care of Dr. Adebayo Osomoto , he takes time to do a thorough check up and recommend the perfect treatment for your illness/problem. Although a bit too far from my home, I have no problem attending this clinic. It is worth the drive.
   - name: "ANURUDDA PILAPITIYA"
     rating: 1
-    date: "2026-07-29"
     comment: |
       Pharmacy Service !!
       We would like to share my disappointment regarding the service we received at the reception. The lady who was receiving the fax was very rude, arrogant, and impolite. As a regular customer, I felt extremely embarrassed and disappointed by the way I was treated.
@@ -42,12 +40,10 @@ reviews:
       This level of customer service is unacceptable. I expected to be treated with respect and professionalism, but unfortunately, my experience was the opposite. I hope this matter can be addressed soon.
   - name: "Monica Delorme"
     rating: 5
-    date: "2026-04-22"
     comment: |
       I am so grateful that there was a Centre open later than 7 pm. I really appreciated being seen within less than an hour. I felt heard and given great care. It was wonderful that a Pharmacy was attached that could get my medication, right there. The Dr, the Receptionist and the Pharmacy team were really great. Thank you!!
   - name: "L CLB"
     rating: 5
-    date: "2026-03-04"
     comment: |
       I've been coming to this clinic for a handful of years now. It started because it was by where I lived, but even after moving away by a significant distance I loyally come here.
       
@@ -61,7 +57,6 @@ reviews:
       Overall 1000/10. Definitely would recommend.
   - name: "Kaitlyn Levitt"
     rating: 1
-    date: "2026-02-27"
     comment: |
       My family doctor is located here. Been a patient here for over a year now and every time, without fail, the receptionists are incredibly rude and unprofessional and have a poor attitude. The professional way to answer a phone is "Hello Delta Medical Clinic, Please Hold" not just "HOLD" because it sounds like you are saying "hello" as you aren't clear in saying it and it is very abrupt. When talking on the phone I was hung up on (this has happened multiple times) and when I stated "you hung up on me mid sentence" the response was "no mam. I am busy." Secondary, telling me you are very busy as a client is very unprofessional. We are all busy. We all have lives. We know you are busy. Don't work at a high stress job if you can't handle it. I have seen them on their personal phones, many times, texting or talking while I was standing up front at the desk waiting to be helped. Have had a time where I had a serve cut and was bleeding quite a lot and the receptionist didn't even look up for 10mins because she was texting. Until she looked up and saw blood everywhere. I hope this is seen as constructive criticism as I believe just making small changes like this can benefit a workplace overall. I have already made the changes to switch doctor's. Needed to get this out there because I am tired of putting up with the unprofessionalism.
 ---

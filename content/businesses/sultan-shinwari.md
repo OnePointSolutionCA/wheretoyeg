@@ -33,27 +33,22 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Rayyan Rehman"
     rating: 5
-    date: "2026-02-16"
     comment: |
       Visited the restaurant with friends, and the food was amazing. Staff was extremely helpful and friendly, recommendations were amazing, service was on point and overall it was a really great dinner experience. Highly recommended.
   - name: "Saba"
     rating: 5
-    date: "2026-04-24"
     comment: |
       We had a wonderful dining experience at Sultan shinwari restaurant The mash daal, kebabs, and chicken karahi were all full of authentic flavor. The karahi was especially delicious, cooked perfectly with rich spices. Fresh naan made everything even better. Great taste, good portions, and friendly service. Highly recommended!
   - name: "Amarjeet Kaur"
     rating: 5
-    date: "2026-03-18"
     comment: |
       today first time we tried the food...we ordered lamb karahi and chicken karahi with seekh kabab .. everything was so delicious... highly recommend
   - name: "Affan Farooqi"
     rating: 5
-    date: "2026-01-11"
     comment: |
       Great food, great chef and good service. Had chicken shinwari karahi which was amazing, the seekh kabab hands down the best I've had in Edmonton and Calgary. 100% recommended.
   - name: "afaan shykh"
     rating: 5
-    date: "2026-05-18"
     comment: |
       Very good taste authentic Pakistani food very good and fast service
 ---

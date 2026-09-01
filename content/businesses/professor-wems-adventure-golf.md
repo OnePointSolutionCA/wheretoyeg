@@ -30,22 +30,18 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Yodaman Solo"
     rating: 5
-    date: "2025-08-21"
     comment: |
       The West Edmonton Mall has it all! Including this cute little mini golf course by London Drugs. I’ve never used it but you can stand there and watch people putt and have fun. It’s a very pleasant and colourful setup. 👍😎
   - name: "jackson wong"
     rating: 4
-    date: "2026-02-24"
     comment: |
       It was my very first time playing mini golf . The receptionist was helpful and informative. I had fun just being there
   - name: "Kirk Dewhurst"
     rating: 5
-    date: "2019-06-19"
     comment: |
       I have completed this course a few times over the years but have always enjoyed the experience. It’s is not just a flat course but the holes have undulations and so it is challenging to complete.  It’s very clean and well lit. It’s a lot of fun.  The decor is eclectic and adds to the fun of playing the 18 holes.
   - name: "Chelsea S."
     rating: 5
-    date: "2024-10-25"
     comment: |
       Compare to the Neon mini golf ⛳️ in the mall, this is what I think:
       
@@ -57,7 +53,6 @@ reviews:
       If you love mini golf ⛳️ highly recommend you to try both as two courses have different experiences.
   - name: "The Tasty Palate"
     rating: 5
-    date: "2023-04-03"
     comment: |
       I had a fantastic time playing mini golf at West Edmonton Mall! The indoor course was well-maintained and had a fun variety of holes to play. The theming was great too, adding to the overall fun experience.
       

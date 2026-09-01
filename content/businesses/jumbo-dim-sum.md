@@ -32,18 +32,15 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Josephene Chong"
     rating: 3
-    date: "2026-06-13"
     comment: |
       We asked for bigger table because we knew the area we sat was congested for two people and the dim sum
       Cart passing by the metal rail was loud . Hardly had peace to enjoy a good dim sum . The lady and man head waiter were very rude and refused to change for a better table . Pretending they don’t understand the language. The tea came but without our own choices of flavor . I tried to dismiss the rudeness thinking they are busy but experience got unpleasant after we tried to order our favorite dim sum and third time round the trolly cart was empty . The food server acknowledged we tried to order for the third times and it was empty and finally she ordered separately for us . Very disappointed at the steamed pork ribs, smell porky and fatty . Only good is the steam bun , fried shrimp and curry squid .
   - name: "Kymmie"
     rating: 5
-    date: "2026-06-08"
     comment: |
       We have enjoyed coming here for years!  The food is absolutely delish!! All the dishes are flavorful, fresh and authentic. The staff are all so wonderful and attentive.  The whole experience is great every visit!!  The cart service is the best to try a bunch of different dishes but you really cannot miss with anything on their menu!!  The only downside is we want too much and always over order!....  The good news is leftovers are just as tasty the next day!!  Thank you for always treating us so well when our family comes in.  Looking forward to our next dinner here already.
   - name: "Fovea Wong"
     rating: 4
-    date: "2026-05-15"
     comment: |
       ⭐ Jumbo Dim Sum – A Comforting, Classic Edmonton Favourite
       
@@ -54,12 +51,10 @@ reviews:
       Service is friendly and efficient, the atmosphere is lively without being chaotic, and the whole experience feels like a weekend tradition worth keeping. Whether you’re going with family, friends, or just craving classic dim sum comfort, Jumbo Dim Sum is one of those places that always leaves you smiling on the way out.
   - name: "Kaitlyn Beaudry"
     rating: 5
-    date: "2026-04-24"
     comment: |
       Best dim sum in all of Edmonton! My family loves it so much we have turned it into a monthly tradition. The staff are friendly and fast, everything on the menu is fresh and delicious. The cart service on weekends is unlike anywhere else, a constant flow of hot, fresh made dim sum only options. Perfect every time and a fun and unique experience!
   - name: "Susie Banico"
     rating: 5
-    date: "2026-07-21"
     comment: |
       Best Dim Sum in Town! My favourites are the Shrimp Cakes and Mango Pudding with Cream! Best time to go is before 2 when the carts are rolling around!!
 ---

@@ -29,29 +29,24 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Pam Wilkins"
     rating: 5
-    date: "2026-05-11"
     comment: |
       Awh, I love the ladies at the front reception! Always so pleasant, always a smile.
       
       Doctor Fours is amazing! Love my doctors office at Sherbrooke Medical ! What would I do without you guys! Thank you for everything you guys do for me and our community!
   - name: "Melissa Mutesi"
     rating: 1
-    date: "2026-05-22"
     comment: |
       I booked a new patient appointment a week and a half in advance. Never received a confirmation call so I called the day of, three hours before my appointment time. The receptionist confirmed my appointment for me. When I showed up, I was told I do not have an appointment and I am actually not even in their system. The lady told me I would have to wait hours if I still wanted to see a doctor. Very big waste of my time.
   - name: "Aaaa Dabest"
     rating: 4
-    date: "2026-06-11"
     comment: |
       Great place, but today was different with the receptionist I always go to the front to say I’m here for my appointments she was on the phone and I didn’t know and she said go sit down In a bad tone like I interrupted her made me uncomfortable when I went to sit down, and even being cut off by talking at the pharmacist side I always dealt with a speech impediment while I either talk too low or too fast and he told me stop talking and let him finish wouldn’t let me finish answering my question . Great nurses and drs tho especially Dr . Fours
   - name: "Alicia Hearse"
     rating: 1
-    date: "2026-03-18"
     comment: |
       A young man 39 sought treatment at this clinic while in near fatal condition about a week ago and was turned away from not having an alberta care card having just moved from BC....due to this facilities unbelieveably unethical practice he died within days of asking for their help, he died from sepsis endocarditis this thursday...stroked to death from being so severely infected...he just needed antibiotics. A father, left behind 3 young daughters. BEST believe this facility will be reported to everyplace possible, they owe our family the deepest of apologies and I hope they read this and seriously reconsider their policies and fire the admin that turned him away. Discusting and unprofessional .
   - name: "Dom G."
     rating: 2
-    date: "2025-12-06"
     comment: |
       Pros: Great for a walk in, very nice front staff.
       Cons: I explicitly stated I wanted to transition in March 2021 (after soft requests before that) & fought with Fours for a year until I got put on Testosterone hormone replacement therapy in March 2022 by a different doctor. I had to do Fours' job for him in terms of the referral form.

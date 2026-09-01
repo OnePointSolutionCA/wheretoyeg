@@ -30,28 +30,23 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Suzi Dunn"
     rating: 5
-    date: "2025-12-31"
     comment: |
       I would like to thank you Capita Pluming for their service. They went far and beyond and we are so happy choosing them. We had a problem with our tank water. They came so fast and replaced with new tank. Wow we were so happy and impressed. Dave and Dominic did an outstanding job. Friendly, professional, hardworking.They deliver so well what they know to the best level.I am so happy I choose this company and I defenetly would recommend them to working in the future. Thank you,Ryan,Dave,and Dominic you are amazing.
   - name: "Lorette Bruce"
     rating: 5
-    date: "2026-08-04"
     comment: |
       Capital was easy to connect with and helpful. Sergio, our Technician, was wonderful!! Very knowledgable,  helpful, friendly and offered options. He worked quickly and efficiently and left everything clean and tidy. We would definitely work with Sergio again.
   - name: "Priscilla Bandura"
     rating: 5
-    date: "2026-06-07"
     comment: |
       Dave was so friendly, and informational. He went above and beyond to help with our issue!! He was so friendly to not only us but my dogo ! 10/10 would recommend!! Thank you so much Dave for all you did and for helping us out we appreciate you!
   - name: "Susan Belanger"
     rating: 5
-    date: "2026-06-21"
     comment: |
       The staff are knowledgeable and friendly and Carlos is amazing he is calm and very efficient.  I’m glad we made the decision to become members with Capital Plumbing
       When the city had a lot of rain our sump pump did not work. David was able to come out and replace it. It gave me peace of mind that my home is protected from the rain but David also assured us as members Capital city will come and inspect it yearly. David is knowledgeable and very friendly. Thank you David!
   - name: "Muzna Choudhry"
     rating: 5
-    date: "2026-04-24"
     comment: |
       We had a great experience with Capital Plumbing & Heating  today. Carlos was fantastic, very knowledgeable, professional, and took the time to clearly explain what was going on with our hot water tank and other plumbing issues. I really appreciated how thorough and patient he was in answering all my questions. Highly recommend Carlos for anyone looking for honest, reliable service!
 ---

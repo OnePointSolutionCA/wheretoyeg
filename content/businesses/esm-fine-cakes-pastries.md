@@ -31,27 +31,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Kayla Mcarthur"
     rating: 5
-    date: "2026-06-28"
     comment: |
       The food was delicious!! We had an Oreo cheesecake that was fluffy and super tasty and a pistachio bar that was light and the perfect amount of sweet. The service was amazing, they even took precautions to make sure our cheesecake wouldn't fall over in its box! Definitely recommend this place if you're looking for a sweet treat :)
   - name: "Maria Politti"
     rating: 5
-    date: "2026-05-17"
     comment: |
       The birthday cake was delicious and super fresh. I loved that I could customize it and choose the size I wanted. Great customer service, very friendly and helpful. Highly recommend! I’ll definitely order again!
   - name: "Janmeet Bali"
     rating: 5
-    date: "2026-06-09"
     comment: |
       I would like to thank ESM Cakes team for making this wonderful Dinosaur theme cake for my daughter’s 2nd Birthday. Shams the owner is excellent in improvisation and would give the perfect advice. This is our family go to place now without a doubt and would highly recommend ESM Fine Cakes and Pastries. Best of luck folks
   - name: "Andrew Oliver"
     rating: 5
-    date: "2026-06-09"
     comment: |
       OMG 😳 How did we not know about this place? They made my son a BAKED CHERRY Graduation cheesecake. Our entire party said the same thing… “Best cheesecake I’ve ever had…” 💯 This has become our new go to bakery! Customer service also top notch!
   - name: "Rachel H"
     rating: 5
-    date: "2026-03-28"
     comment: |
       This bakery is so good. Went in to try the pastries saw from the window and we are so happy we did because  the sausage roll is so yummy and not greasy. I also ended up buying cakes slices. The gentleman is super nice and friendly, provide us good customer service. Will definitely come back.
 ---

@@ -29,22 +29,18 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Abul Kalam"
     rating: 5
-    date: "2025-08-15"
     comment: |
       Wonderful people serving most African delicious products, vary hard to find good African shops in edmonton however this store has a lot.. strongly recommend.
   - name: "Wilhelmina Asihene"
     rating: 5
-    date: "2025-11-23"
     comment: |
       I go here for all my African food and more
   - name: "Disere Dioh"
     rating: 4
-    date: "2025-08-20"
     comment: |
       Had lots of the things I was looking for and the price is affordable
   - name: "Ella Corry"
     rating: 5
-    date: "2026-07-29"
     comment: |
       very helpful and nice staff
 ---

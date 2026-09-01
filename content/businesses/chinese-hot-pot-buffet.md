@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Ian Carlo Medina"
     rating: 3
-    date: "2026-02-09"
     comment: |
       We tried the unlimited option at Chinese Hot Pot and the range of food options was superb — fresh, varied, and well-prepared. If you go at the right time, it’s clear they put effort into quality and selection.
       
@@ -43,7 +42,6 @@ reviews:
       Overall, the food quality is good, but I do not recommend visiting late in their hours or planning a “late-night” buffet experience. Timing is crucial here.
   - name: "Jenna Herrington"
     rating: 5
-    date: "2026-04-29"
     comment: |
       Went to an all-you-can-eat Chinese hot pot and it was honestly worth the price. The meat quality was solid across the board, and everything came out fresh and quick.
       
@@ -52,7 +50,6 @@ reviews:
       Overall, good value, good variety, and a spot I’d definitely go back to when I’m craving hot pot.
   - name: "Erin Weinzierl"
     rating: 4
-    date: "2026-06-21"
     comment: |
       This was our reward from doing a fun 5k run on a rainy day.  We never been here before but it did not disappoint!  When we arrived, the outside was a solid meh and we weren't too sure how our meal would go but we continued on.
       
@@ -63,12 +60,10 @@ reviews:
       Lots you could choose from the buffet. Pretty good labeling. The soup and sliced meat came out very quickly.  We'd definitely come back again!
   - name: "Chris Liew"
     rating: 5
-    date: "2026-04-04"
     comment: |
       We been to this hot pot place for years. The food is always fresh and very clean. I love their buffet, where there’s a lot of variety and service is always top notch! While there’s other competitors now, I feel like this place always gives you the best bang for your buck! (If you ordered lunch, sometimes they get pretty busy). Overall a place worth coming.
   - name: "Mathew"
     rating: 5
-    date: "2026-03-28"
     comment: |
       Chinese Hot Pot Buffet is my family’s go to spot of all restaurants in town. The food is always fresh and they have good sauce selection. You can build any meal you want and can stick to a diet if you’re careful! Highly recommended. If it’s busy don’t worry, they’ll always be able to get you some seats… worth the wait at all times.
 ---

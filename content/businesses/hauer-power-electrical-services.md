@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Christopher Scott"
     rating: 5
-    date: "2026-06-06"
     comment: |
       I had Hauer Power Electrical Services install baseboard heating, and I couldn’t be happier with the experience. Jordan and Travis did an outstanding job from start to finish. The installation went smoothly, they took the time to look at a few other electrical items I had questions about, and they were both incredibly professional, knowledgeable, and friendly throughout the entire process.
       
@@ -39,7 +38,6 @@ reviews:
       I would highly recommend Hauer Power Electrical Services to anyone needing electrical work done. Outstanding service and a great team!
   - name: "Guy Soehner"
     rating: 5
-    date: "2026-07-31"
     comment: |
       I recently decided to replace my main service panel in our house , had several electrical contractors come and give quotes , was very disappointed with either the quote or the contractors themselves . Which led me to Hauer Power to come and quote , met with Ryan , who was likeable , knowledgeable , and the process was great . Quote was reasonable and they could do the work soon.
       Time for job came , Jordan and AJ showed up , I was very impressed with the lead , Jordan , again very likeable , very knowledgeable , and his work was extremely impressive . Finished product was very close to how I wanted and pictured it.
@@ -47,12 +45,10 @@ reviews:
       From my experience , I would recommend Hauer Power , and these fellows to anyone , start with them and you probably will not need to go anywhere else . Thanks Hauer Power
   - name: "BRJ Contracting Inc."
     rating: 5
-    date: "2026-02-19"
     comment: |
       We want to give a huge shout-out to Ryan and the team at Hauer Power. We recently partnered on a project that required a journeyman, and Ryan’s team stepped up fast — even quicker than a few other contractors we reached out to. When the city came for inspection and flagged a couple small items, they were back out the same day — which is phenomenal service. I’ve also had the chance to connect with Ryan through BNI, and our synergy is amazing. He genuinely cares about his clients and his craft. I’m really looking forward to many more projects together.
   - name: "Gord K"
     rating: 5
-    date: "2026-03-31"
     comment: |
       March 30, 2026 We asked Hauer Power to return to our home to install a third bathroom fan and relocate a security camera that was not being utilized properly.
       Jordan and AJ arrived in the time frame promised. They got to work immediately. We reviewed the two tasks and their locations and they got started. The first trip to the door included the majority of the equipment and products required for the fan task (ladder, tools and new fan). AJ removed the old fan, modified the fan mount for the new larger AND quieter fan (Love those Panasonic Whisper Quiet fan assemblies!). They had to make a run for a flexible vent as the existing "in place" hard piping vent was not being cooperative. Jordan made that off site run and AJ continued working on the fan mount and was fully prepared when Jordan returned with the flexible tubing.
@@ -72,7 +68,6 @@ reviews:
       Edmonton
   - name: "reece Schulte"
     rating: 5
-    date: "2026-05-30"
     comment: |
       Hauer power electrical continues to shock me with their excellent service and expertise! Their timely and impressive work ethic is electric! The bill didn’t give me a jolt and I was grounded by their professionalism. They conducted themselves well and insulated me against any issues. There was never a junction where we disagreed, overall I am Amped to continue have work done by Hauer Power Electrical, sparks are flying!
 ---

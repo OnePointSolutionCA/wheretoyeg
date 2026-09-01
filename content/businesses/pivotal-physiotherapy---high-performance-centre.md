@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Cody Sherstabetoff"
     rating: 5
-    date: "2026-07-03"
     comment: |
       This was my final visit before being discharged after treatment for a WCB injury I sustained in February 2026, and I couldn’t be happier with the care I received.
       
@@ -41,23 +40,19 @@ reviews:
       One of the things I appreciate most is that I would feel completely comfortable seeing any member of the team because I know I’ll receive knowledgeable, compassionate, and high-quality care. I highly recommend Pivotal to anyone looking for excellent physiotherapy and rehabilitation.
   - name: "Kattie Jones"
     rating: 5
-    date: "2026-04-18"
     comment: |
       I recently had a running assessment here and it was a really great experience. Would highly recommend Jayden as he was thorough, knowledgeable, and took the time to explain everything in a way that was easy to understand. I left with a much better understanding of my running mechanics and gait. He also sent me a report based off his findings with clear and concise feedback, along with footwear recommendations and exercises. Highly recommend for anyone looking to improve their running or prevent injuries!
   - name: "Pat brandon"
     rating: 5
-    date: "2026-07-09"
     comment: |
       I visited Pivotal physiotherapy for the first time today.  Evan Clark was my physiotherapist.
       Evan took a great deal of time to diagnose my problem.  He was patient and understanding and provided me with exercises to practice over the week.  I was extremely happy with the care I received from Evan.
   - name: "Berlyn Avelino"
     rating: 5
-    date: "2026-07-09"
     comment: |
       Mirele is very kind, sweet, accommodating, and friendly. She took the time to clearly explain my condition, address all of my concerns, and discuss preventive care. I truly appreciated her patience and professionalism. I highly recommend Mirele to anyone looking for a compassionate and knowledgeable Physiotherapist
   - name: "cynthia Schurman"
     rating: 5
-    date: "2026-04-04"
     comment: |
       I experienced it a lower calf tear playing pickleball and was fortunate to receive treatment from Jayden Pannu. Jayden did a thorough assessment, including my intent to get back as soon as possible and developed an incredible treatment plan to get me to full recovery in 5 weeks. I’m so grateful for the incredible treatment, friendly staff and fantastic services provided at Pivotal.
 ---

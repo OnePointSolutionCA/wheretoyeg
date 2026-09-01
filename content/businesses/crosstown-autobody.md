@@ -30,22 +30,18 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Lisa McKean"
     rating: 5
-    date: "2026-04-24"
     comment: |
       Crosstown Auto Body in Edmonton ‘s west end restored my 2020 Hyundai Kona to like - new condition following a traumatic rear end collision . I’m very pleased with the customer service provided by office personnel ,  and the care the body guys took to do the work . Highly recommended .
   - name: "gladys"
     rating: 5
-    date: "2026-05-07"
     comment: |
       Highly recommend crosstown autobody for any collision repairs. We had our car repaired and the process from start to finish was great! Joey and Anita were extremely helpful and answered any questions or concerns I had with the process. They were super friendly, maintained communication as needed and also helped with coordinating with insurance.
   - name: "Matthew Hibbs"
     rating: 5
-    date: "2026-03-11"
     comment: |
       Great experience with the team. Everyone was very friendly and professional from start to finish. Nelson is extremely quick at getting quotes done and was always available to answer questions, which made the whole process smooth and simple. Communication was clear the entire time and everything was handled efficiently. You can tell they really care about their customers and the quality of their work. The name change to ACX Crosstown is definitely a great move and fits the company well. I’d highly recommend them to anyone looking for a reliable and easy company to work with.” ⭐👍
   - name: "Stephanie Weaver"
     rating: 5
-    date: "2026-05-01"
     comment: |
       I’ve unfortunately been in three not-at-fault accidents, and every time I’ve brought my vehicle here for repairs. That alone probably says a lot.
       
@@ -54,7 +50,6 @@ reviews:
       I feel completely confident leaving my vehicle in their hands. And while I’d prefer not to test this again, if I ever find myself in another accident, I wouldn’t hesitate to come back.
   - name: "Diana Yepes"
     rating: 5
-    date: "2026-06-25"
     comment: |
       Excellent service! Brought my car in to get the hatch door repaired and a new windshield installed. They did a flawless job, the turnaround time was great, and the communication was top-notch from start to finish. Highly recommend!
 ---

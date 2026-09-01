@@ -33,12 +33,10 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Jeeshan Mirza"
     rating: 5
-    date: "2026-07-15"
     comment: |
       Hidden gem in Edmonton. They have a kitchen that does a limited selection of authentic Bangladeshi food. I emphasize on the word authentic as the food reminds you of exactly what you would get in restaurants in Dhaka. They also have a wide array of groceries, meats and a smaller section of vegetables. But its the readymade food that shines.
   - name: "Wasiul Wasty"
     rating: 5
-    date: "2024-09-09"
     comment: |
       Great experience doing groceries here. Great interior design. It was really easy to walk around and find what I needed. Also some awesome customer service which was really amazing.
       
@@ -49,12 +47,10 @@ reviews:
       At least go once and see for yourself. You will like it just as I did.
   - name: "MD Robiul Hossain"
     rating: 5
-    date: "2026-04-05"
     comment: |
       This store offers a wide range of Asian products that customers are often searching for. The staff and owner are friendly, helpful, and always willing to assist customers in finding the right items.
   - name: "Musfika Rahman"
     rating: 1
-    date: "2026-04-01"
     comment: |
       I am extremely frustrated and disappointed with my repeated experiences at Daily Bazaar. The quality of their groceries is consistently unacceptable, and in some cases, outright unsafe. I have personally received koi fish that was spoiled, smelled bad, and clearly not fresh. This is not just poor service—it is a serious food safety concern.
       
@@ -68,7 +64,6 @@ reviews:
       🙏🏻😡😡
   - name: "Rajib Sikder"
     rating: 5
-    date: "2026-04-13"
     comment: |
       An excellent collection of South Asian groceries is available here, paired with great customer service. I went last month to get meat and fish, and I am very satisfied with the quality of the products. The shop is also very organized and accessible. I highly recommend going there and giving it a try!
 ---

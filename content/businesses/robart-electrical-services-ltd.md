@@ -30,17 +30,14 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Craig Richter"
     rating: 5
-    date: "2026-04-09"
     comment: |
       I would like to highly recommend Robart Electrical to anyone needing their old Federal Pacific beaker panel and mast replaced.  The crew that came to my house was fast, efficient, knowledgeable, professional and pleasant to deal with.  In one day they combined my old panel and subpanel into a single new panel.  Rectified several annoying electrical issues and replaced my old electrical mast, bringing my house up to the current electrical code.  They followed up at the end of the day to ensure the utility company turned my power back on in a timely fashion.  Truly outstanding service.
   - name: "Lorraine Forseth"
     rating: 4
-    date: "2025-11-14"
     comment: |
       We had hired Robart Electrical for 3 different jobs over the span of two weeks. Each time the electrician was on time and completed the work in a timely and efficient manner. The electrician was very pleasant and professional.  We will definitely use their services again in the future.
   - name: "Mia"
     rating: 4
-    date: "2025-10-27"
     comment: |
       Overall I believe Robart did complete the electrical work that I needed done (service upgrade and panel replacement) and do not have concerns with the safety or code of the work they did.
       
@@ -53,7 +50,6 @@ reviews:
       At the end of the day, my lights turn on and I have the electrical I need. But for 5 stars or to hire them again, I would really need to be further reassured of their professionalism through better communication.
   - name: "Billy wang"
     rating: 1
-    date: "2026-07-27"
     comment: |
       I booked an appointment with an electrician, but it was suddenly postponed by five days. Then, when the new appointment date finally arrived, nobody showed up.
       
@@ -62,7 +58,6 @@ reviews:
       This company completely wasted two days of my time, causing me to miss work. They have absolutely no credibility and are extremely unprofessional.
   - name: "Brent K"
     rating: 5
-    date: "2026-04-28"
     comment: |
       Awesome company. They went above and beyond helping me out on a few different occasions. Karen, other management there and the electricians on sight were all very professional, helpful and knowledgeable.
       

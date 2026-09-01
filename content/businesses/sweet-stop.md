@@ -32,27 +32,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Suesan"
     rating: 5
-    date: "2026-06-19"
     comment: |
       excellent customer service the staff is so sweet. prices are reasonable. The atmosphere is very nice and clean a lot of tables to sit. very organised and well maintained. Delicious desserts my favourite is the croffles… ferrocer rocher
   - name: "Taleb Hank"
     rating: 5
-    date: "2026-07-17"
     comment: |
       The best sweats I have ever had for the best price. I have never met such nice workers absolutely 100% hands down the best customer service I have ever experienced. 10/10 I recommend everyone comes here!
   - name: "asmaa kadri"
     rating: 5
-    date: "2026-06-09"
     comment: |
       Absolutely highly recommend this dessert shop!! Very tasty, soo many desserts to choose from to satisfy any dessert cravinggg. Service is very welcoming and attentive, amazing hospitality and cozy feel, Great for any occasion!
   - name: "Marylin Kour"
     rating: 5
-    date: "2026-06-18"
     comment: |
       We recently tried this place and it was amazing! The ice cream was delicious, and we especially loved the strawberry cup. Everything was fresh, flavorful, and beautifully prepared. We’ll definitely be coming back!
   - name: "Abdel"
     rating: 5
-    date: "2026-07-04"
     comment: |
       Stunning place to eat , friendly place to have desert , amazing service , a must to try !!!! If you love sweet stuff this is the place for you
 ---

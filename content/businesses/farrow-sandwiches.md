@@ -31,27 +31,22 @@ date_listed: "2026-08-18"
 reviews:
   - name: "Wes Thorpe"
     rating: 5
-    date: "2026-08-02"
     comment: |
       No-frills deliciousness. Had the featured 1000-Island Stare with Montreal-smoked pork, 1000 island dressing, pickled, saurkraut, swiss and arugula. Absolutely outstanding sandwich. Watch out for drips, folks!  Very friendly service from the woman who took my order and made my sandwich. Not sure the guy who was also there needed to be singing to himself quite so loudly, though...
   - name: "Petar Cvitanusic"
     rating: 5
-    date: "2026-04-11"
     comment: |
       Man this was one of the best sandwiches I’ve had for a long time. I had the it’s always sunny in Philadelphia and it was delicious. The bun/bread they use is just awesome. Crispy on the outside and soft on the inside. My wife had the grid middle and said the tomato jam was just awesome.
   - name: "Xena Wang"
     rating: 5
-    date: "2026-04-16"
     comment: |
       Farrow is an Edmonton staple that you cannot miss. They have a small menu of four sandwiches, which changes regularly. There is always one vegan sandwich. Their sandwiches are creative and flavorful. The drip coffee is quite good and they offer soy milk as a non-dairy milk alternative at no extra charge. Prices are reasonable, and service is efficient even during the busy lunch rush hour.
   - name: "Hill"
     rating: 5
-    date: "2026-02-18"
     comment: |
       This sandwich was on a different level than other sandwiches. I ordered their vegan special sandwich, it was flavourful, fresh and unique. Highly recommend grabbing your lunch here!
   - name: "Gabriel Saravia"
     rating: 5
-    date: "2026-03-19"
     comment: |
       I've been here for lunch a couple times throughout the week and if you only have 30mins, skip unless you can sneak a few extra minutes due to how packed it is at lunch time.
       

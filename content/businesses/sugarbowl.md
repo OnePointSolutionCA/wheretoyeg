@@ -32,12 +32,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Steve Danger"
     rating: 5
-    date: "2026-06-25"
     comment: |
       Every time we are in Edmonton we make sure to go to the Sugarbowl for breakfast/brunch. They have a fantastic menu and not a single item on it will disappoint. I highly recommend the chicken & waffles, it is prepared perfectly and the maple butter and watermelon salsa elevate it from a good dish to a great one. The huevos rancheros never disappoint. Great service and usually no more than a few minutes wait to get a seat but it can be quite busy at peak times.
   - name: "Alborz"
     rating: 4
-    date: "2026-02-13"
     comment: |
       Sugar Bowl is one of my favorite places to spend time near the University of Alberta. It’s located on a beautiful, scenic street lined with trees, which makes the atmosphere especially pleasant.
       
@@ -50,19 +48,16 @@ reviews:
       A must-visit if you’re around the university. It’s been one of my go-to places for years and never disappoints.
   - name: "Andreea Gabriela"
     rating: 5
-    date: "2026-05-11"
     comment: |
       We must have the cinnamon bun every time we visit because it's absolutely delicious. As much as I love a frosted cinnamon bun, I'd still choose the Sugarbowl one every time. The Mac&Cheese was decadent and hearty. I was full already 3/4 in but I forced myself to finish because it was THAT good. I definitely recommend this place for breakfast or brunch.
   - name: "K Miu"
     rating: 3
-    date: "2026-05-28"
     comment: |
       We went on Victoria Day for lunch and nothing in the menu expect breakfast was available. The food in the breakfast menu was not bad and the service was good.
       
       To add to our disappointment was the parking. It was hard to find parking. The few parking spaces managed by Diamond Parking charge $2.50 per hour plus a service charge of $1.55. I don’t understand why a service charge has to be imposed. That means patrons have to pay $4.05 for an one-hour lunch. That’s a bit too much.
   - name: "Tom"
     rating: 5
-    date: "2026-03-04"
     comment: |
       One of my all time favourite restaurants and patios in Edmonton.  It has a wonderful, authentic old world charm rare in Edmonton with it's history, exposed brick, hardwood floor, the vintage tables, chairs and other decor and there is always interesting and vibrant art on the walls.  The food is reasonably priced and delicious!  It also has an excellent location in the Garneau, UofA area.
       

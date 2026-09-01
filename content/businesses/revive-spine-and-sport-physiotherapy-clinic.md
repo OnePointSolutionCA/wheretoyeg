@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Clorinda Young"
     rating: 5
-    date: "2026-07-30"
     comment: |
       Siva is the most knowledgeable physiotherapist I've ever had. He explained everything in a way that was easy to understand and identified both the cause of my issues and the best solutions almost immediately. Thanks to his experience, my recovery has been much faster than I expected.
       
@@ -41,7 +40,6 @@ reviews:
       Siva has earned my trust completely. He'll be my physiotherapist from now on, and I highly recommend him to anyone looking for exceptional care.
   - name: "Mickayla Roeder"
     rating: 5
-    date: "2026-04-29"
     comment: |
       I had a wonderful experience at Revive Physiotherapy. Sivakumar was professional, knowledgeable, and genuinely cared about helping me recover. He took the time to listen to my concerns, explained everything clearly, and provided treatments that made a real difference.
       
@@ -50,7 +48,6 @@ reviews:
       The whole clinic is welcoming, professional, and clean. I highly recommend!!
   - name: "C Bozek"
     rating: 5
-    date: "2026-05-28"
     comment: |
       I highly recommend Paul as a physiotherapist. He is kind, caring, professional, and extremely knowledgeable. What really stands out is how comprehensive and thoughtful he is in his assessment. He takes the time to look at the full picture rather than just treating symptoms in isolation.
       
@@ -59,12 +56,10 @@ reviews:
       Paul’s depth of knowledge and attention to detail have given me confidence that I’m in very capable hands. I’m very grateful for his help and would not hesitate to recommend him to others.
   - name: "Kerry Lestar"
     rating: 5
-    date: "2026-04-21"
     comment: |
       Paul is an excellent therapist. Very friendly and professional. I have been to the clinic for Tennis elbow the first time. A sprained ankle with fracture the second time. He is very knowledgeable in his practice. I also really appreciate the way the clinic takes care of all the payment details including notes required for work and AHS Insurance. Paul works hard behind the scenes to put together exercise programs that are sent through via mobile device making them easy to access and use. The format is like using a personal trainer. I will continued to use them even after my treatment. The clinic is very clean and well maintained with state of the art exercise equipment. It is a very peaceful professional environment. I have also recommended Paul to My Husband and Daughter. They were very pleased with the high level of treatment they received. This will be our therapist for life.
   - name: "Arun Das"
     rating: 5
-    date: "2026-04-20"
     comment: |
       I had an excellent experience with physiotherapy sessions under Varghese Paul. He is highly skilled, professional, and genuinely dedicated to his patients’ recovery. From the very first session, he made an effort to fully understand my condition and explained the treatment plan in a clear and simple way.
       

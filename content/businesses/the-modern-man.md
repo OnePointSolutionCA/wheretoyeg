@@ -30,27 +30,22 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Alex Tetrault"
     rating: 5
-    date: "2026-07-18"
     comment: |
       As a man with longer hair, this is by far the best place to get a haircut and style. The atmosphere is great, the staff were super friendly, and Jonathan gave me the best haircut I’ve ever had. He understood immediately what I was looking for and I couldn’t be happier with how it turned out 😊 Looking forward to my next visit!
   - name: "Carolyn Hansen"
     rating: 5
-    date: "2026-04-18"
     comment: |
       OMG!  I just love my new hair style.  Hailey was super fun, professional and really took the time to understand what I was looking for.   I had grown out my hair for a couple of years due to damaging with bleaching.   I wanted a soft shag and Hailey delivered.   She also showed me how I can style it with waves for an option.   I am looking forward to the compliments I know will be forthcoming.    Thanks again Hailey!
   - name: "Z R"
     rating: 5
-    date: "2025-01-07"
     comment: |
       Kelsey is the first barber that’s consistently given the haircuts I ask for. I highly recommend her to anyone looking for a proper cut done right the first time. Reception is always friendly and helps with recommendations as well as any questions one might have. The quality control pups are always nice to see as well :)
   - name: "Czar Chan"
     rating: 5
-    date: "2026-05-22"
     comment: |
       5 stars isn’t even enough. I had an awesome experience, jonathan did a really cool job with my hair, staff are very friendly. Would highly and definitely recommend to anyone.
   - name: "Maytham"
     rating: 5
-    date: "2026-03-06"
     comment: |
       Jonathan did a great job on my haircut. He listened to exactly what I wanted and delivered a clean, natural result. Super happy with how it turned out, highly recommend him! ✂️
 ---

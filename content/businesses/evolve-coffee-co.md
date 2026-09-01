@@ -31,29 +31,24 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Bridget Isacs"
     rating: 5
-    date: "2026-08-06"
     comment: |
       Had their drip coffee while at Wednesday Mom’s group, and the barista was so welcoming. Loved that I could use oat milk for my coffee.
   - name: "Jess"
     rating: 5
-    date: "2026-07-29"
     comment: |
       such yummy coffee and the friendliest baristas!!
   - name: "Elyse Reiter"
     rating: 5
-    date: "2026-08-04"
     comment: |
       delicious coffee and friendly staff!!
   - name: "Annika W"
     rating: 5
-    date: "2026-09-01"
     comment: |
       Love this cafe! Super chill environment with lots of seating and free parking which is such a plus! Great space to study or work
       
       For anyone who is interested, for syrups they have vanilla, salted caramel, cinnamon, and sugar free vanilla! Iced or hot for all drinks!
   - name: "Julia Zantingh"
     rating: 5
-    date: "2026-08-25"
     comment: |
       The best cafe! Great team and I love their vibe. The baristas are kind and care deeply about the customers.
 ---

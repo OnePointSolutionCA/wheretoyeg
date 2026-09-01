@@ -31,7 +31,6 @@ date_listed: "2026-08-26"
 reviews:
   - name: "Michael Riehm"
     rating: 5
-    date: "2026-06-24"
     comment: |
       Visited from Toronto.
       
@@ -44,7 +43,6 @@ reviews:
       Overall great place for the food.
   - name: "Catherine Le"
     rating: 5
-    date: "2026-06-04"
     comment: |
       Annie was our server but the rest of the staff also helped to make our evening magical. We were a larger party and came to celebrate my father in law's birthday. The staff made us feel so welcomed and taken care of.
       
@@ -55,12 +53,10 @@ reviews:
       You can tell they care so much, and I can see why this is a long standing institution for downtown dining. Bustling and busy on a Wednesday evening.
   - name: "Kelley Winter"
     rating: 5
-    date: "2026-03-11"
     comment: |
       We planned a trip to Edmonton with a friend’s birthday celebration at Sabor on our to do list. Unfortunately she was not able to come, the staff still made her feel like she was there. A warm birthday card, beautiful greeting by Pamela, and exquisite desserts. With a face time our friend felt some amazing energy and love. In addition the food was plated and paired with absolutely amazing beautiful touches. The scallops in cava cream, the seafood platter, meat platter and the gorgeous lobster and mushroom risotto was prepared perfectly! We really appreciated the menu guidance, and the total package for an outstanding evening. Thank you to all the team that made it happen. We will be back again soon.
   - name: "Justin Tan"
     rating: 5
-    date: "2026-04-07"
     comment: |
       Work trip dinner with a colleague, saw Sabor showed up in a few review articles, have to come try.
       
@@ -71,7 +67,6 @@ reviews:
       Decor was great. Love the ambience
   - name: "Ana P"
     rating: 5
-    date: "2026-06-10"
     comment: |
       Came here for my birthday and the service was amazing, from receiving a birthday card to changing out our plates & cutlery after appetizers.
       

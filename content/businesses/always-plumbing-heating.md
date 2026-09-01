@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Wendy Zelmer"
     rating: 5
-    date: "2026-04-23"
     comment: |
       Thank You so much Always Plumbing & Heating
       Absolutely fantastic experience with Always Plumbing & Heating.
@@ -40,12 +39,10 @@ reviews:
       Highly recommend.
   - name: "Jeff Steil"
     rating: 5
-    date: "2026-07-11"
     comment: |
       We had Jeremy and his apprentice Christian over to replace all the Poly B pipe in our home.   They did a fantastic job with attention to detail and went above and beyond what we expected.  They were very careful  about keeping the the work  space clean as they worked. It is very obvious they take great pride in their work..  We would not hesitate to have Always Plumbing for any of our related work and if I owned a company those are they type of employees I would want working for me. It feels great to be free of worry now with all the Poly B gone from our home.  They also took time to complete the job without putting any holes in our drywall or ceiling which was actually amazing in a two storey home.   Hats off to Jeremy and Christian.  Thanks Guys for your fantastic workmanship!!!
   - name: "Franz “Fransico” Chen"
     rating: 5
-    date: "2026-06-04"
     comment: |
       Let’s start with the estimate. Always Plumbing sent a technician to our home to provide a basic hot water tank replacement estimate, and they did so with no charge. Their initial estimate was higher than the other two quotes I received, but the technician called the office and they were willing to match the lowest quote. Because of that, I decided to go with Always Plumbing.
       
@@ -54,12 +51,10 @@ reviews:
       I recommend Always Plumbing.
   - name: "Steven"
     rating: 5
-    date: "2026-07-16"
     comment: |
       Just wanted to take the time to thank my technicians Jeremy Martynuik and Christian Wade as well as severall of the Always plumbing reception staff; Danielle and Wendy on the wonderful customer service they provided over the phone. I am very impressed with this company as I have used other plumbing companies in the past and they didn’t even come close. From the appointment follow up and customer care, to the actual install the experiencewas grear. Always arrived on time when they said they would. The job Jeremy and Christian did installing my new Navien hot water heater was top notch. Jeremy went well beyond his job duties on informing me of all the plumbing options for my mechanical room in my new home. He was very knowledgeable and could instanly tell he was a well seasoned technician. Was happy to sign up for their Diamond Club servicing package as there is no need to call other plumbing competitors in the future. Always Plumbing definitely won a customer for life. Thanks again
   - name: "yusuf hakimuddin"
     rating: 1
-    date: "2026-08-07"
     comment: |
       I strongly advise avoiding Always Plumbing & Heating for any HVAC or water softener installations. While they might be an okay specialist plumbing company, they are absolutely not experts in heating, cooling, or water treatment systems. If you need these services, look for a better, specialized installer.
       I purchased a "Supreme Comfort System" heat pump and a new water softener from them, and the performance has been unacceptable. They substituted the matched Hisense coil I was explicitly quoted with an unapproved third-party West Columbia coil without my permission. As a result, the heat pump runs continuously for over 17 hours a day, yet it completely fails to cool my top floor, which stays uncomfortably hot at 23.5°C to 24°C.

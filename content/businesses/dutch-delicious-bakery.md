@@ -32,12 +32,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Kaylene Mabbitt"
     rating: 5
-    date: "2026-07-20"
     comment: |
       Randomly stopped in this bakery this morning and it definitely did not disappoint! 🥰 Everything smelled amazing as soon as I walked in, and the pastries were absolutely incredible—so fluffy, buttery, fresh, and delicious. You can really taste the quality and care that goes into what they make. Such a wonderful treat and I’ll definitely be stopping by again. Highly recommend checking them out! 🥐✨ apologies for the not so great photo, but I couldn't wait to try it lol 😆
   - name: "Eva-Joy Schönhaar"
     rating: 5
-    date: "2026-01-16"
     comment: |
       First time visiting Dutch Delicious today after hearing so much about it, and it did not disappoint!!! I was only able to stop in for a few minutes, but I'm looking forward to going back and sampling the sweet baked goods and coffee.
       
@@ -48,7 +46,6 @@ reviews:
       Highly recommend!!!!
   - name: "T-Bird"
     rating: 5
-    date: "2025-01-23"
     comment: |
       Great Spot!
       
@@ -59,7 +56,6 @@ reviews:
       The store has a great selection of bakery/bread items, and also has a very good selection of Dutch cheeses and 'European' deli food items.  Overall, it's a great spot to both have a light meal, or shop for Dutch/European bakery and deli goods.  We highly recommend Dutch Delicious.
   - name: "Richard Flierl"
     rating: 5
-    date: "2025-10-17"
     comment: |
       This review is a little late and overdue.  I visited the Dutch Delicious Bakery and Deli with my son Luke shortly after his orthodontic appointment in the professional building around the corner and across the parking lot.   I have driven by this business a few times but never stopped in...I decided that was going to change!
       
@@ -82,7 +78,6 @@ reviews:
       I know we will be back soon!!!
   - name: "Kirk Dewhurst"
     rating: 5
-    date: "2024-03-07"
     comment: |
       Cafe ☕️ plus restaurant plus retail store. This is an amazing place and my wife and I definitely recommend coming here to enjoy whatever you like.  There is something here for everyone.  There is plenty of parking outside and easy access to the store.  The store is clean and well lit. The ambiance is nice and if you stay for a coffee ☕️ or a meal 🍽️ there is nice seating. The washroom is clean.  We enjoyed our time here.  There are some great Dutch treats and products and gifts that you will enjoy.
 ---

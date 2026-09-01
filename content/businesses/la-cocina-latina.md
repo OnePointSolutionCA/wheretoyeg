@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Adriel Artelia"
     rating: 5
-    date: "2026-05-29"
     comment: |
       I LOVE this place. Amazing food, such a fun atmosphere!
       
@@ -41,12 +40,10 @@ reviews:
       I even ordered a whole De leche cake from them and they made it FRESH, and even made it look really nice aesthetically for the event I ordered it for 🤩 I love ordering out from here and eating in! When you order out there is never a comprise of flavour or quality.
   - name: "Dev VanKo"
     rating: 4
-    date: "2026-05-03"
     comment: |
       The food at La Cocina Latina is AMAZING!! Everyone in our party of 5 loved every bite! Our service wasn't perfect, we were there for about 45 minutes before we had our order taken. But even so, our waitress was pleasant and the food was definitely worth the wait.
   - name: "Sim Vig"
     rating: 5
-    date: "2026-03-29"
     comment: |
       La Cocina Latina absolutely delivers. The flavors are rich, authentic, and perfectly balanced—you can tell everything is made with care and real attention to detail. Every bite felt intentional, from the seasoning to the texture.
       
@@ -55,7 +52,6 @@ reviews:
       Easily one of the best Latin spots I’ve tried—will definitely be coming back.
   - name: "Dariq Khalid Cali"
     rating: 5
-    date: "2026-03-06"
     comment: |
       With my first time here at Smokin' Barrels Cocina Latina and trying Mexican food overall, this spot is absolutely fantastic in every way.
       
@@ -66,7 +62,6 @@ reviews:
       Overall, Smokin' Barrels Cocina Latina is a excellent Mexican Restaurant Spot that I would recommend to everyone, although I would say that it deserves a good location with more space due to its small size.
   - name: "Natalia McGill"
     rating: 5
-    date: "2026-03-22"
     comment: |
       If they tell you 30 minute wait, stick around in the line because we went down the road to kill time, and they called us less than 10 minutes later to come be seated!
       

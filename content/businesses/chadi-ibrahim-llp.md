@@ -30,21 +30,18 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Simran Kaur"
     rating: 5
-    date: "2026-02-01"
     comment: |
       I am extremely grateful for the support and dedication of Jake Chadi throughout my case. He helped me a lot during a very complicated legal process that lasted over two years. From the beginning, he was always punctual, professional, and very supportive.
       Jake took the time to answer every question clearly and patiently, making sure I fully understood each step of the procedure. His communication was excellent, and I always felt confident knowing my case was in capable hands. He remained consistent, responsive, and committed from start to finish.
       I truly appreciate his professionalism and dedication, and I highly recommend Jake Chadi to anyone looking for a reliable and knowledgeable lawyer.
   - name: "Arwinder Hundal"
     rating: 5
-    date: "2026-06-04"
     comment: |
       I had an absolutely fantastic experience with Sine Chadi and the entire team at Chadi and Company. Navigating a court case can be incredibly stressful, but Sine made the whole process so much clearer and more manageable. Their professionalism, expertise, and genuine support were evident from our very first meeting right through to the successful conclusion of my case.
       
       Sine was always incredibly responsive, patient, and took the time to explain everything in a way that was easy to understand. I felt completely informed and confident in their approach every step of the way. It’s clear they genuinely care about their clients .If you're looking for legal representation that is both highly skilled and truly compassionate, this is definitely the firm to choose. Thank you for everything!
   - name: "Rupakshi Sood"
     rating: 5
-    date: "2026-05-29"
     comment: |
       MIYA H. CUNNINGHAM  is very professional, honest, and responsive lawyer . She handled my case with great care and achieved an excellent result. I highly recommend her .I am extremely satisfied with the legal service I received. She  was professional, patient, and always available to answer my questions. Her expertise and attention to detail helped achieve a great outcome.
       Thanks so much again Miya!!!
@@ -52,7 +49,6 @@ reviews:
       You’re the Best!
   - name: "Jeremy Durant"
     rating: 5
-    date: "2026-06-11"
     comment: |
       Best law office in edmonton, hands down!
       
@@ -61,7 +57,6 @@ reviews:
       Hopefully I no longer need a lawyer but when and if I do, I will be calling this office!
   - name: "Tamer Dogan"
     rating: 5
-    date: "2026-07-11"
     comment: |
       In January 2026, I obtained a two-part charge in Lloydminister for a DUI and failing to provide a breathalyzer, at which point I decided to hire David Ibrahim as my lawyer. Six months with David proved that he’s able to provide over the top communication, frequent check-ins, up-to-date events via emails and phone calls explaining the current condition of the case. At each phase from my first court date to phone calls with prosecutors and ultimately my trial David Ibrahim provided a thorough explanation of the situation and the next steps that he was required to take.
       

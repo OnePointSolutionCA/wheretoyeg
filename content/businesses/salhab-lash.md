@@ -30,22 +30,18 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Christine Mai"
     rating: 5
-    date: "2026-08-24"
     comment: |
       Maria is amazing! She is so gentle, detailed, and takes her time to make sure your lashes turn out perfectly. The results look so natural yet lifted, and the space is super comfortable and clean. Highly recommend booking with her!
   - name: "Delaney Hawkes"
     rating: 5
-    date: "2026-08-21"
     comment: |
       I have had many great services from Maria ! She is my go to girl for lashes and brows. I get a regular classic lash set and lamination shape and tint on my eyebrows. Every time I leave so happy and so impressed with her talent. She knows what she’s doing. She pays close attention to detail and she’s able to help you decide what you want if you’re unsure and need guidance. She is also very kind and friendly. She’s willing to help you find the right appointment you need and wants her clients to be happy and comfortable. She even has coffee, drinks, and chocolates in her room for her clients during their service. She’s amazing! Can’t recommend her enough. Thank you Maria for all you do.
   - name: "Sofia Fire"
     rating: 5
-    date: "2026-08-21"
     comment: |
       ​I was a complete beginner to lash extensions, but thanks to a friend’s recommendation, I found the perfect artist. She does such delicate, beautiful work on my eyes! The lashes look so natural, feel lightweight, and last incredibly long. I absolutely loved the experience and can't wait for my next fill!
   - name: "Анастасия Цуркан"
     rating: 5
-    date: "2026-08-21"
     comment: |
       I absolutely love my new lash extensions! 😍 The lashes look so beautiful, natural, and perfectly styled. The application was very professional and comfortable, and I loved how carefully every detail was done.
       
@@ -54,7 +50,6 @@ reviews:
       I’m so happy with the result and will definitely be coming back! Highly recommend this lash artist! ❤️
   - name: "Vika Levinski"
     rating: 5
-    date: "2026-08-21"
     comment: |
       Absolutely love her Services the Places gorgeous she’s very professional her lashes last so long and she adjust the link and the style I requested perfect
 ---

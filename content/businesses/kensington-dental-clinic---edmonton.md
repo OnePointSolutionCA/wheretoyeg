@@ -30,12 +30,10 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Samiha Ibrahim"
     rating: 5
-    date: "2026-05-21"
     comment: |
       Kensington Dental Clinic is such an amazing and wonderful clinic. I’ve been bringing my family here for years. The entire staff from first point of contact, after service and the end of service is phenomenal. This group is professional, excellent communication and super warm and welcoming. Clean and very organized. This is exactly where you want your family to come if your new to YEG or have lived here for years please come on down you will not regret it. ;) 10/10 service!!!!!!!
   - name: "Aaron Kurmey"
     rating: 5
-    date: "2026-05-29"
     comment: |
       Been coming here for about 4-5 years now and I have so many good things to say:
       
@@ -48,7 +46,6 @@ reviews:
       I’ve got my whole extended family coming here now. It’s seriously the best dental practice I’ve been to.
   - name: "James Taylor"
     rating: 5
-    date: "2026-04-30"
     comment: |
       I can’t say enough great things about Kensington Dental Clinic! From the moment you walk in, you’re greeted by an incredible team of receptionists who are always warm, welcoming, and genuinely happy to help. Their friendliness and professionalism really stand out—it’s clear they truly love what they do and care about every single patient who walks through the door.
       Dr. Rani Ibadi is equally amazing. She is extremely knowledgeable, honest, and takes the time to explain everything clearly. I really appreciate that she never pushes unnecessary treatments and always provides recommendations you can trust. On top of that, she has a calm and reassuring approach that makes every visit comfortable and stress-free.
@@ -56,12 +53,10 @@ reviews:
       - James Taylor
   - name: "lana vu"
     rating: 5
-    date: "2026-06-09"
     comment: |
       I think Dr. Ibadi Rana has built an amazing team for her dental practice. The work she did on my crown was excellent and put me at ease, and her assistant was very helpful.  My dental hygienist, Erica, was incredibly gentle throughout the cleaning process.  All the ladies at the front desk are friendly, pleasant, and add a wonderful personal touch.  I truly enjoy coming here for dental needs.  Thank you to everyone at Kensington Dental Clinic!
   - name: "Marwah"
     rating: 5
-    date: "2026-07-22"
     comment: |
       This is the best dental clinic you could ever possibly go to!!! It’s super clean and the staff is extremely friendly and kind. I went here for my appointment and they welcomed us by name and just overall were SO friendly!!! I truly could not be more grateful to go here!! I would go again 1000000000 times over and over again! The hygienists were super kind too!! Over all I would give them a million stars but that’s impossible!!!
 ---

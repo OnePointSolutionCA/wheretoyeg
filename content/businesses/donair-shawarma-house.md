@@ -33,17 +33,14 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Lindsey Jimmo"
     rating: 5
-    date: "2026-04-09"
     comment: |
       This was an honest to goodness great last minute find.. we live quite a ways out of town and came in for some shopping and late night starving needing something for the ride home. The food is absolutely unbelievably delicious all home-cooked great flavors. Never tasted such good Mediterranean food like this before had the mixed bowl and the kebabs now next time coming back for the Donair every time I come into the city I will be stopping here now. Price is good, especially for the amount of food that you get. Super friendly service that is so welcoming and goes above and beyond. Love this place.
   - name: "Yeseok Oh"
     rating: 5
-    date: "2026-04-03"
     comment: |
       So good!! The food was really delicious, and the portions were huge for the price. I got the kebab and it had this amazing smoky, grilled flavor from the skewer that went so well with the sauce. Even the salad was one of the best I’ve ever had. Definitely coming back again!!
   - name: "Spence"
     rating: 5
-    date: "2025-12-30"
     comment: |
       The BEST Donair and Shawarma in Edmonton! This place is a true hidden gem!
       
@@ -56,12 +53,10 @@ reviews:
       This restaurant gets my highest possible recommendation and praise. Try the food, you won't be disappointed!
   - name: "melissa zubel"
     rating: 5
-    date: "2026-07-17"
     comment: |
       Excellent food! Had the Donair rice bowl and I was shocked at the amount of meat, it was 2 meals in 1! The workers were also friendly
   - name: "Fatima Dhooma"
     rating: 5
-    date: "2026-05-31"
     comment: |
       Fantastic shawarma spot, and excellent customer service! Fresh food - full of flavour!
       Highly recommend checking it out!

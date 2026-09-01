@@ -35,27 +35,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Avannya Jolly"
     rating: 5
-    date: "2026-07-06"
     comment: |
       Excellent food and welcoming service. Truly appreciated the Kerala flavours...
   - name: "Dona Eldhose"
     rating: 5
-    date: "2026-05-10"
     comment: |
       Had a lovely experience here — very nice Kerala food with authentic flavour and a real homely feel. The dishes were fresh, tasty, and full of traditional Kerala taste.  Everyone is warm and welcoming, which made the experience even better. Definitely a great place if you’re craving proper Kerala food. Highly recommended 😊…Love it ♥️and thank u sooo much 🥰
   - name: "Peter John Ruiz"
     rating: 5
-    date: "2026-06-06"
     comment: |
       Delicious and authentic Kerala food, excellent service, and a clean, welcoming atmosphere. A perfect place to visit and your cravings will surely leave satisfied. Highly recommended!
   - name: "Jithin Mohan"
     rating: 5
-    date: "2026-05-16"
     comment: |
       I absolutely loved the food here! 😋 Everything was so flavorful and cooked to perfection. The service was fantastic, and the atmosphere was cozy and inviting. Definitely a must-visit! ✨💯
   - name: "shajan joys"
     rating: 5
-    date: "2026-07-01"
     comment: |
       Great atmosphere. Absolutely welcoming customer service. And the best food to leave a mark for your taste buds. You wouldn’t regret coming here.
 ---

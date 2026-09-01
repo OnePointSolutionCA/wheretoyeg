@@ -30,12 +30,10 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Dalie Ramas"
     rating: 5
-    date: "2026-04-07"
     comment: |
       Went for a prenatal massage. Had a great experience with my massage therapist, Darlene. From the moment I arrived, she made me feel comfortable and was very gentle. The space was clean, calm, and professional which made the whole experience even better. Staff in the reception were also very kind and accommodating. Will definitely coming back. Highly recommended. 👍⭐️
   - name: "Sam C"
     rating: 5
-    date: "2026-06-14"
     comment: |
       I had an excellent experience with Marisol. She is incredibly professional, knowledgeable, and made me feel comfortable from the moment I arrived. She listened carefully to my concerns and tailored the massage to address areas of tension and stress.
       
@@ -44,12 +42,10 @@ reviews:
       I highly recommend Marisol to anyone looking for a skilled and caring massage therapist. I will definitely be returning for future treatments!
   - name: "Denise C"
     rating: 5
-    date: "2026-07-28"
     comment: |
       Have gone twice now within the last few weeks. Nacha is amazing. My muscles in my shoulder and neck area have been so tense and tight lately and I got the deep therapeutic massage. I come out of there feeling much more relaxed. She even recommended and showed me stretches to do. Would definitely recommend her.
   - name: "Hectic Cutz"
     rating: 5
-    date: "2026-01-28"
     comment: |
       First time visiting and I had an amazing
       
@@ -58,7 +54,6 @@ reviews:
       You can tell she genuinely cares about her clients and knows what she's doing. I'll definitely be booking with Darlene again and highly recommend her to anyone coming in for a massage
   - name: "Rajwinder KAUR"
     rating: 5
-    date: "2026-06-30"
     comment: |
       Darlene did a great job, she took her time and made me feel really relaxed. She did the massage deeply making all my pain ease away. The massage was great firm where I needed it to be and in the areas where I wanted. I was able to communicate with her and gave me the comfort I needed. All the staff is really great at what they do and respectful, deal with all customers politely. Will definitely be booking again soon.
 ---

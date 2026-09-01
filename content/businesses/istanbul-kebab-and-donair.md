@@ -33,7 +33,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Mahsa & Tëma"
     rating: 3
-    date: "2026-07-29"
     comment: |
       Updated review:
       After our previous great experience, we decided to hold a small gathering at Istanbul Kebab and Donair. Unfortunately, this visit was disappointing and not at the level we expected.
@@ -68,26 +67,22 @@ reviews:
       Overall, we truly enjoyed our experience at Istanbul Kebab and Donair in Edmonton.
   - name: "Gizem Polat"
     rating: 5
-    date: "2026-05-29"
     comment: |
       I'm new to Edmonton and I haven't been to many restaurants here but this restaurant is going to be a favourite for me. This was my second visit and it was great just like the first one. I brought my husband here and it was his first time and he really liked it too. I had lahmacun and he had adana kebab. The meat was tender and juicy and the lahmacun was very good too.
       A special thank you to Ilayda for her outstanding hospitality. She made us feel genuinely welcome throughout our visit and even treated us to baklava and tea after our meal, which was such a thoughtful touch.
       The restaurants cleanliness was over the top too!! We will definitely come back.
   - name: "Sumaya Sharif"
     rating: 5
-    date: "2026-05-18"
     comment: |
       An amazing culinary experience! Came here with family and we were not disappointed. The Turkish bread alone is worth the visit! It’s fresh out of the oven, soft and fluffy! The mixed grill platter was massive and had something for everyone, all well seasoned with a nice char on everything. We ended with the künefe and it was the perfect finish made using original ingredients from Türkiye. Generous portions and the food came out quickly. Highly recommend, will definitely be back🤍
   - name: "Yaxiang Xing"
     rating: 5
-    date: "2026-04-29"
     comment: |
       Had an amazing experience at Istanbul Kebab and Donair today! A friend brought us here and honestly, I was blown away. The food was absolutely delicious — everything was fresh, flavorful, and perfectly cooked. The meat was juicy, the portions were generous, and the sauces were incredible.
       The staff were also super friendly and welcoming, which made the whole experience even better. You can really tell they care about quality and customer experience.
       Definitely one of the best donair/kebab spots I’ve tried. Will 100% be coming back and recommending this place to everyone!
   - name: "Uzma W"
     rating: 5
-    date: "2026-07-05"
     comment: |
       You have to come here when you are in Edmonton, we ordered Family Plate for 2, you’ll have an authentic Turkish experience. The food is fresh, bursting with flavour & delicious! Highly recommended!
 ---

@@ -34,13 +34,11 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Arlene Mendes"
     rating: 5
-    date: "2026-07-30"
     comment: |
       Must try this place 😍😍 it’s awesome you will find all Indian products at a very reasonable prices and the staff too is very friendly and welcoming. They assisted us willingly and cheerfully….
       The freshly squeezed juices were delicious and refreshing to beat the heat this summer 😋😋😋😋😋
   - name: "Manav Chandy"
     rating: 5
-    date: "2026-02-17"
     comment: |
       I recently had the pleasure of dining at Rawaayt Sweets & Restaurant in Ellerslie Gate Plaza, and I can honestly say it was an outstanding experience from start to finish. My first visit was about a week after they opened, and I tried their Chaat Papadi and it was absolutely delicious, bursting with authentic flavors. I also picked up a box of sweets along with roasted cashews and roasted peanuts, all prepared perfectly and incredibly fresh.
       
@@ -51,18 +49,15 @@ reviews:
       Overall, I highly recommend Rawaayt Sweets & Restaurant to anyone looking for delicious, authentic food, excellent value, and great service. I’ll definitely be back!
   - name: "Ravi Maan"
     rating: 5
-    date: "2026-07-26"
     comment: |
       I went at Rawaayt last night with my family and ordered bunch of food. The taste was beyond our expectations. We ordered paneer khurchan and soya chaap kathi roll as recommended by some person in the reviews. He was right it was actually very amazing, never tasted this type of taste before. Loved it!!!!!
       It’s our permanent place to order now.
   - name: "Aarts V"
     rating: 5
-    date: "2026-03-11"
     comment: |
       The food is always so good! Pictured here is the paneer lababdar, saffron rice, tandoori roti, naan & veg hot & sour soup.
   - name: "Harman Sarai"
     rating: 5
-    date: "2026-07-27"
     comment: |
       Had an incredible meal here! The atmosphere was wonderful and very clean. The service was fast and professional. I highly recommend ordering the Halwa puri —it was outstanding!"
 ---

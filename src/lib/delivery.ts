@@ -20,7 +20,7 @@ const PLATFORMS: Platform[] = [
     key: "uber_eats",
     label: "Uber Eats",
     brandClass: "bg-black text-white hover:bg-neutral-800",
-    searchUrl: (name) => `https://www.ubereats.com/ca/search?q=${encodeURIComponent(name)}`,
+    searchUrl: (name) => `https://www.ubereats.com/ca/search?q=${encodeURIComponent(name)}&pl=JTdCJTIyYWRkcmVzcyUyMiUzQSUyMkVkbW9udG9uJTIyJTdE`,
   },
   {
     key: "doordash",

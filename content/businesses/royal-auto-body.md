@@ -30,12 +30,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Stephen"
     rating: 5
-    date: "2026-04-26"
     comment: |
       Got my spoiler painted and installed here on my new Lexus. Very happy with the work. The staff here are really friendly and go the extra mile for you.
   - name: "Duvane Marshall"
     rating: 5
-    date: "2025-04-18"
     comment: |
       One fateful night in winter while heading to work I hit a coyote that was running across the road. Tried to brake and turn left to the shoulder but it was too late. Think I managed to keep the damage from being worst by not hitting it head on, but the passenger side got pretty banged up. Immediately looked up a shop on Google Maps to get it repaired. After numerous searches, I've decided to give Royal Auto Body a chance after seeing the glowing reviews.
       
@@ -44,14 +42,12 @@ reviews:
       I can confidently say that Royal Auto Body deserve the glowing reviews!
   - name: "C C"
     rating: 5
-    date: "2026-04-24"
     comment: |
       We brought our 2021 Kia soul to have a ding taken out of the rear lift hatch. Royal Auto-body did a great job repairing it. At the time of picking it up we noticed that the backup camera was not working. We approached the staff at Royal about this issue immediately. They were just as surprised as we were about the problem.
       We left the car with them to try and sort it out as the camera was working when we brought the car in for repair. The sent the car to Kia to be assessed. Kia came back with a $4000.00 fix on the electrical system.
       To end this review Royal Auto-body fixed the electrical issue for us at no charge. What a great bunch of professionals these guys are. We would recommend Royal to anyone that’s looking for get quality work at a very fair price.
   - name: "ryan"
     rating: 5
-    date: "2026-06-06"
     comment: |
       Brought my truck here for some cab and bed body work. They did an excellent job on the repairs. Paint and finish looks good, will update if it doesnt hold up.
       
@@ -60,7 +56,6 @@ reviews:
       My only concern is the timeframe. I was told 2.5 weeks upon drop off of the vehicle and i did not get it back for close to 4 weeks.
   - name: "Ron M"
     rating: 5
-    date: "2026-02-20"
     comment: |
       Thank you for fixing up our Jeep, thanks for replacing my broken headlamps, you found me a gently used new pair to help me with cost savings, and thank you for replacing my broken seat belt buckle. I recommend Royal Auto Body 🙂👍🏼
 ---

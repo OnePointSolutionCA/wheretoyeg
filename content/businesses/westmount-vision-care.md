@@ -30,14 +30,12 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Noriko Hessmann"
     rating: 5
-    date: "2026-07-06"
     comment: |
       The eye care assistant was lovely and explained everything that she was doing in preparation for my appointment.
       I did have to wait almost 20 minutes for the optometrist to come in,  but I had one of the best eye appointments ever. Dr. Chan was super personable, funny, and we had a really great conversation about eye health and how to take care of my vision. She took her time with me and I will definitely be coming back.
       The staff in the front helping with frames were also really great.
   - name: "Famille Ngakam"
     rating: 5
-    date: "2026-07-10"
     comment: |
       🌟🌟🌟🌟🌟
       
@@ -48,7 +46,6 @@ reviews:
       🌟🌟🌟🌟🌟
   - name: "Ranjeet’s Youtube"
     rating: 5
-    date: "2026-04-07"
     comment: |
       I had such a great experience at this eye doctor’s office that I felt like I had to leave a review. From the moment I walked in, everything just felt organized, welcoming, and professional without being intimidating.
       
@@ -59,12 +56,10 @@ reviews:
       What stood out the most was how the whole team works together. Everyone seems on the same page, and the environment feels calm even when it’s busy. It made the whole visit stress-free.
   - name: "Marsha Nicholson-addison"
     rating: 5
-    date: "2026-04-11"
     comment: |
       I recently took my three daughters to Westmount Vision Care for their eye exams, and I couldn't be more pleased with the experience. The staff was incredibly respectful and professional, making us feel welcome right from the start. The eye doctor was thorough and provided detailed explanations, ensuring we understood everything about the exams. I also want to highlight how patient and supportive the entire team was with my children, which made the process much easier. I highly recommend Westmount Vision Care for anyone seeking quality eye care!
   - name: "Michielle Apoderado"
     rating: 5
-    date: "2026-04-15"
     comment: |
       Great experience overall! The staff were very friendly and helpful in choosing the right glasses for me. They took the time to explain everything clearly, and I never felt rushed. Really happy with both the service and my new glasses.
 ---

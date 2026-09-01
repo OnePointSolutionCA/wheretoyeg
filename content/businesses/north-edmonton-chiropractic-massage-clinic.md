@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Fatima Abdi"
     rating: 5
-    date: "2026-06-05"
     comment: |
       I can’t say enough good things about this clinic. From the moment you walk in, you’re greeted with a smile by Amanda, who is always professional, kind, and accommodating. She helps make every visit stress-free and welcoming.
       
@@ -39,22 +38,18 @@ reviews:
       The level of care and customer service here is outstanding. If you’re looking for a chiropractic clinic with a great team and a friendly atmosphere, I highly recommend giving them a visit.
   - name: "Michael Lindsay"
     rating: 5
-    date: "2026-06-05"
     comment: |
       Dr. Bryan Fitz, Chiropractor. Amazing work. Able to find the sweet spot to ease the pain. Able to accommodate  my prosthetic leg during the session. Amanda, staff, arranged my billing and schedule my appointments. Good Job.
   - name: "Angie Bradley"
     rating: 5
-    date: "2026-03-31"
     comment: |
       Dr Fitz, Amanda and Joanne are all truly amazing, they went above and beyond to help me out and I will be forever grateful for there care and attention. Thank you Dr Fitz for all your help and expertise, I appreciate all you do and have done!!!
   - name: "Amy Derksen"
     rating: 5
-    date: "2026-02-01"
     comment: |
       Dr.Fitz is amazing. My entire family sees him. He has been an important part of recovery for our family when we needed him.
   - name: "Sherry Shpeley"
     rating: 5
-    date: "2026-06-03"
     comment: |
       Dr. Fitz is amazing,  Amanda is awesome and friendly,  would highly recommend this office ❤️
 ---

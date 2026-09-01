@@ -30,17 +30,14 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Amy Rainer"
     rating: 5
-    date: "2026-03-22"
     comment: |
       All around amazing experience!  Convenient location with TONS of parking.  We were welcomed on arrival & immediately made to feel at home.  The salt room was such a cool experience.  But the most amazing part is definitely the sauna floors!  My friend and I had got the package for 2, and got to enjoy 2 hours of total relaxing girls time!  We got to sip wine, laugh, and just enjoy in a private sauna setting.  You literally get the whole floor to yourself for your visit!  There is a pool table and massage chair  and chess table as well.  We loved hitting the sauna then cold buckets after.  The steam sauna is so nice as well!  Definitely will return!
   - name: "Christine Wylde"
     rating: 5
-    date: "2026-03-28"
     comment: |
       We had a wonderful experience with the romantic package. It was very relaxing, quiet and the staff were really lovely. We’ll definitely be back
   - name: "Jake Hammell"
     rating: 5
-    date: "2026-01-20"
     comment: |
       Fantastic price for a super relaxing and private sauna experience. It's like chilling in your own private basement sauna room.
       
@@ -49,12 +46,10 @@ reviews:
       But it's an unreal experience and an absolute hidden gem. Highly recommend it!
   - name: "Matt Ceh"
     rating: 5
-    date: "2026-05-01"
     comment: |
       This place was awesome! Excellent and relaxing spa and very accommodating staff! Highly recommend if you’re going with a group and have the time to swing by! The facility was clean and had lots of space to spread out and relax with friends.
   - name: "Angel Bulosan"
     rating: 3
-    date: "2024-04-04"
     comment: |
       This place is relaxing. The concept of the place is nice with the flexibility of either chilling out in the steam room, sauna, ice bucket shower or just chilling on the massage chair. All of these are included in your own floor.
       

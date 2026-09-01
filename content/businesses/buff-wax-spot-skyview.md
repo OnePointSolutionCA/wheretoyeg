@@ -30,22 +30,18 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Ashlyn Crosby"
     rating: 5
-    date: "2026-05-15"
     comment: |
       Love coming here! Every single staff member is warm and welcoming. They have amazing products that smell nice, do what they are made for, and are quite clean ingredients wise! Jess is my go to technician and I HIGHLY recommend you see her too! She's efficient, a great yapper, very knowledgeable, and has always left me feeling confident in myself. Buff Skyview is where I'll be coming for all my waxing needs for a looooong time!!
   - name: "Anma Lambert"
     rating: 5
-    date: "2026-07-12"
     comment: |
       I have always felt welcomed when coming to Buff Wax Spot but my recent experience was unreal. The front staff was extremely knowledgable about the products and Victoria was beyond efficient.  Highly recommend! (From a  20+ year experienced client). Cheers!
   - name: "Sara Ouellette"
     rating: 5
-    date: "2026-05-02"
     comment: |
       I had the absolute pleasure of being assisted by Theo. They were lovely, efficient and kind. The place was spotless, bright and cheerful feeling. Music was bopping. They offer some really incredible merchandise as well. The go to place for Brazilian wax for me. I always buy the exfoliating gloves, my skin feels delightful for weeks after. The carrot balm is lovely. Would highly recommend and will be back for future needs.
   - name: "Lina Calha"
     rating: 5
-    date: "2026-06-25"
     comment: |
       I just love the smooth and easy way this team work.
       All kindness from the reception to the thecnicians.
@@ -58,7 +54,6 @@ reviews:
       Thank you all
   - name: "K Schneider"
     rating: 5
-    date: "2026-07-18"
     comment: |
       Came here for my first Brazilian with Victoria. She was AMAZING! Made my first time so easy and fun despite the little bit of pain lol. Already can’t wait to come back!!
 ---

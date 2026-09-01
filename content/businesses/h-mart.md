@@ -30,17 +30,14 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Phat Boy"
     rating: 5
-    date: "2025-08-12"
     comment: |
       Can’t say much for the grocery shopping as I do not shop here for groceries, but I will say that the shop floor is always clean, being stocked and has a huge variety of items. I come here for a quick and affordable lunch. The warm food here is amazing! They have a few restaurants in the food court area…including a bakery. Great place for a Korean craving fix…fast, affordable and tasty!!
   - name: "Dan Yang"
     rating: 5
-    date: "2026-07-20"
     comment: |
       Everytime we go in, H-Mart always has what we need for Korean foods, snacks, items. Their food court is pretty good too!
   - name: "Patrick Lam"
     rating: 5
-    date: "2025-06-21"
     comment: |
       ⭐️⭐️⭐️⭐️⭐️
       
@@ -55,12 +52,10 @@ reviews:
       The staff are always friendly and helpful, making every visit a pleasant one.
   - name: "mary johnson"
     rating: 4
-    date: "2026-05-09"
     comment: |
       My first time going to this store and I was impressed 👌🏾 😎 the prices made sense and let's speak about their fresh fruits omg, I live on the north side but I don't mind drinking 30 minutes there to shop 😅 🙃
   - name: "Ashok"
     rating: 5
-    date: "2026-05-27"
     comment: |
       Like the variety and quality of the Asian foods, some prices are really reasonable and they have a restaurant corner to have your meal as well. Some of the Asian items not available elsewhere
 ---

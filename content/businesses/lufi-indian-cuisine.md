@@ -33,7 +33,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Kamatis moon"
     rating: 5
-    date: "2026-07-08"
     comment: |
       I randomly came across this restaurant when I was extremely hungry and looking for the closest place with a great rating near my home. This restaurant came up with an amazing 4.9-star rating. Although it didn’t have a huge number of reviews yet, the score was so impressive that I decided to give it a try.
       
@@ -64,24 +63,20 @@ reviews:
       For my next visit, I’m planning to try Dosa, Biryani Rice, and Palak Paneer. I can’t wait to come back!
   - name: "MAYURI.R RAVICHANDRAN"
     rating: 5
-    date: "2026-08-08"
     comment: |
       Ordered their special chicken briyani and gobi manchurian the taste took be back to Chennai the authentic yummiest flavourful briyani , spice preference perfectly incorporated and the manchurian was super tasty would rate 10/10 . Tried their Andhra style chilli chicken, paneer butter masala and paneer kulcha in person last week the taste was outstanding.. must try place
   - name: "wasma ahsan"
     rating: 5
-    date: "2026-04-07"
     comment: |
       Extremely professional staff. The owners are sweet and pay attention to detail. Returned again for their masala dosa, gulqb jamun and paneer tikka. The food is extremely yummy and its a halal place. Must try
   - name: "E_wiking"
     rating: 5
-    date: "2026-07-28"
     comment: |
       A lovely restaurant with delicious food and fantastic service. I can only recommend the butter chicken curry and garlic naan as they go really well together.
       
       Also, the waitress was very friendly and engaging. On top of that she gave me some sightseeing tips, since I am on vacation in Edmonton.
   - name: "Dervin Paul"
     rating: 5
-    date: "2026-04-22"
     comment: |
       We had a wonderful dining experience at this South Indian restaurant! The food tasted truly authentic — just like homemade cooking from Kerala/Tamil Nadu. The dosas were perfectly crisp, the sambar was rich and flavorful, and the chutneys were fresh and delicious.
       

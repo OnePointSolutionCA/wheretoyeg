@@ -30,12 +30,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Валерій Шимків"
     rating: 5
-    date: "2026-05-31"
     comment: |
       I am very satisfied with the service at this tire shop! The work was completed quickly, professionally, and with great attention to detail. Special thanks to Pavlo — he was friendly, attentive, and genuinely helpful. He took the time to answer all my questions, helped me understand the issue, and recommended the best solution. It's always a pleasure dealing with people who truly care about their customers. I highly recommend this tire shop to anyone looking for quality service and a great customer experience!
   - name: "Thomas Michael"
     rating: 1
-    date: "2026-07-25"
     comment: |
       One star is too much even,
       
@@ -50,18 +48,15 @@ reviews:
       Mistakes can happen, but how a business handles them matters. Unfortunately, there was no accountability, no professionalism, and no effort to make things right. Based on my experience, I cannot recommend this shop.
   - name: "Joe Perri"
     rating: 5
-    date: "2025-11-11"
     comment: |
       Great service and great pricing. No appointment needed. They do your tires on the spot.
       Helped me find a great tire for my vehicle. Ordered it in and they were in the next day. Rob, the owner greets every customer and constantly updates and reassures on time to completion. Very centrally located with lots of parking nearby. I would not consider going anywhere else now.
   - name: "Wade Nicholson"
     rating: 5
-    date: "2026-07-06"
     comment: |
       Fast, quality repair or replacement, been here a few times. Great staff very friendly and knowledgeable. Great prices.
   - name: "Brandon Van Beek"
     rating: 4
-    date: "2026-03-17"
     comment: |
       Recently purchased a used tire from these guys and paid in CASH with no receipt. When my friend put it on the rim and put air in it unfortunately the tire hemriged. I explained the situation and they apologized and happily refunded me the money I had paid no questions asked. When returning the tire, their guys noticed my donut tire was low on air and waived me into their garage and filled it up for me free of charge. In the end they literally didn't end up making a single penny off of me. However, they clearly demonstrated to me that they're an HONEST straight shootin tire business and should I need tires or related services again in the future I'll happily trust doing business with them again. Would happily recommend their services!
 ---

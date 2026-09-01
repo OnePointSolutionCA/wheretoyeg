@@ -33,27 +33,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Shawna Grant"
     rating: 5
-    date: "2026-07-02"
     comment: |
       The BEST fries I’ve had almost ever! Perfect texture & seasoned. Cute presentation & Fun atmosphere. The menu is a breath of fresh air - unique pairings & something for everyone 👏🏼 definitely will be back
   - name: "Jeff Co"
     rating: 5
-    date: "2026-07-16"
     comment: |
       So much meat! Well worth the stop. Best packed donair I have ever had. Staff was fast, friendly and efficient. The cook looked so intense but he really looked like he enjoyed his job. Bravo! I will be back.
   - name: "AJ Ibrahim"
     rating: 5
-    date: "2026-06-19"
     comment: |
       I absolutely loved the food here! Everything was fresh, delicious, and full of flavor. The burgers and donairs were amazing, and the portions were generous. The shop is beautiful, clean, and has a modern atmosphere that makes you enjoy your meal even more. The staff were friendly and welcoming. I will definitely come back again and highly recommend this place to anyone looking for great food and an excellent dining experience! 🍔🌯✨
   - name: "Pamela Funk"
     rating: 5
-    date: "2026-03-17"
     comment: |
       Been eyeing this place for a while. Came here for a craving of burger. And saw the hot dogs! Sooo good! Not disappointed! Staff was super nice and friendly! Definitely recommend this place for a delicious authentic burger and hotdog place!
   - name: "Madi P"
     rating: 5
-    date: "2026-04-19"
     comment: |
       Absolutely DEADLY. We had the Bacon cheddar burger, the Doritos burger, and a Donaire. Even the fries and waffle fries were out of this world. Fast and efficient service, great portions, really getting your money's worth! The froot loop shake and Twix shake were fantastic!! Can't wait to go back and try a dawg!!!
 ---

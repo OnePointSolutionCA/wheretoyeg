@@ -32,12 +32,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Edmontonian"
     rating: 5
-    date: "2026-07-17"
     comment: |
       Our server was a real pro. I don't remember his name, but he was an older guy, maybe Italian. The restaurant wasn't busy while we were there. A shame, really. I had the lamb tenderloin, which was okay, but I think I'd go back to the prime rib next time, as it's always great. The others in my party really enjoyed the pork chop, lobster macaroni, and prime rib. The starters of crab stuffed mushrooms and bacon wrapped scallops were very good.
   - name: "Olivia"
     rating: 5
-    date: "2026-03-17"
     comment: |
       Delicious food and service is friendly + quick! We got the ribeye steak, escargot, and lobster mac & cheese. The prices are as expected for a steakhouse, and we thought the meal was filling and yummy :-)
       
@@ -50,12 +48,10 @@ reviews:
       Would recommend for dates and small groups :-)
   - name: "Brown Dude"
     rating: 5
-    date: "2026-07-14"
     comment: |
       AMAZING SERVICE FROM Koral. She went above and beyond to make our dining experience memorable and I absolutely loved the attentiveness and attention she gave us, such a wonderful person. Furthermore THE SMASH BURGERHOLY MACKREL THATTHING WAS delichoous absolutely scrumptious & sublime will definetly be back.
   - name: "Aaron Fong"
     rating: 5
-    date: "2026-07-02"
     comment: |
       Had a good experience at Sawmill Prime Rib & Steak House. The food was excellent, with high-quality ingredients and dishes that were cooked perfectly.
       
@@ -64,7 +60,6 @@ reviews:
       Highly recommend!
   - name: "Dale Shuya"
     rating: 4
-    date: "2026-01-12"
     comment: |
       Stopped in for a work dinner, I had been to this location about a year ago on the lounge side. This time we were in the restaurant side. I had the prime rib and my coworker had the ribeye steak. Both were very good. The prime rib was so tender. I would go again.
 ---

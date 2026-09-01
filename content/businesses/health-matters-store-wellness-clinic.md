@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "PD Moffat"
     rating: 5
-    date: "2026-06-29"
     comment: |
       I had my 1st facia!l Lise was professional, yet personable, and made the experience gentleman like.
       I think it was good 😉 I drifted in and out of sleep. The relaxation was a welcomed positive side effect of your technique and the atmosphere. I awakened refreshed and even more handsome.
@@ -40,22 +39,18 @@ reviews:
       I'll be back!
   - name: "L Wells"
     rating: 5
-    date: "2026-03-04"
     comment: |
       The staff are really friendly, helpful and knowledgeable! I’ve also seen their master herbalist, Jean, who was incredible. He was very thorough and I loved how he took the time to explain and connect things for me. I noticed immediate results with his recommendations and look forward to continuing working with him.
   - name: "Kara Murray"
     rating: 5
-    date: "2026-02-02"
     comment: |
       Love this place. Kim and her staff deliver incredible customer service and they always have such fun events. Can’t recommend enough!!!
   - name: "Cathy Foster"
     rating: 5
-    date: "2026-03-28"
     comment: |
       I popped in to Health Matters to purchase more Magnesium bi glycinate, I spoke to Paul, who was approachable and very knowledgeable, I had many questions and he answered them all…I would like to learn more about supplements…I’ll be watching for the next class!
   - name: "sybil mchale"
     rating: 4
-    date: "2026-07-25"
     comment: |
       John is very knowledgeable and will spend time with you explaining what will help and what to buy for a successful outcome
 ---

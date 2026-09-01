@@ -31,7 +31,6 @@ date_listed: "2026-08-18"
 reviews:
   - name: "Bruce Mattia"
     rating: 2
-    date: "2026-03-08"
     comment: |
       Busy spot for an impromptu dim sum.  Not so busy you can’t get food, but busy in a slightly chaotic way.  The lineup is erratic and you really have to force your way in to place an order.  Same thing when trying to ask for hot sauce.
       
@@ -42,7 +41,6 @@ reviews:
       Prices are OK, and the rest of the store is a great Asian market.  I reviewed today simply on the dining experience.
   - name: "Ginny Explores"
     rating: 5
-    date: "2026-02-17"
     comment: |
       T&T Supermarket is always a great place to shop, especially if you’re looking for a wide selection of Asian groceries and fresh seafood. The store is spacious, well stocked, and offers a good variety of fresh produce, frozen items, and ready-to-eat foods.
       
@@ -53,7 +51,6 @@ reviews:
       Overall, a reliable and well-organized supermarket that’s worth visiting whether you’re cooking at home or picking up prepared food.
   - name: "Svitlana S"
     rating: 5
-    date: "2026-04-19"
     comment: |
       The takeout food is excellent (dinner, lunch).
       It’s true—products from China are like a trip down memory lane.
@@ -61,12 +58,10 @@ reviews:
       The baked goods are a special treat; they’re unique to Europeans, but very simple and delicious.
   - name: "Andreea Gabriela"
     rating: 5
-    date: "2026-05-19"
     comment: |
       This place will be the reason why I'll weigh 500 lbs by the end of the year 🤣 The food is incredible, we had the orange chicken (ate it before I thought about taking pictures) and different kind of mochis, each one better than the other. We can't stop going back for more treats.
   - name: "Edina G."
     rating: 5
-    date: "2026-02-24"
     comment: |
       I love T&T Supermarket. Especially this location and the one in the north — they’re the two best. The soup is absolutely amazing. The food is incredible too. The pastries and bakery items are the best in all of Canada and always fresh.
       

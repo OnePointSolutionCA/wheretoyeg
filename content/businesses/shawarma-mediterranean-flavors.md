@@ -33,25 +33,21 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Efje Schmidt"
     rating: 5
-    date: "2026-05-14"
     comment: |
       The crispy chicken wrap OH MY WORD! Get it.
       So so good and so fresh! Everything was high quality and the place was so clean. Delightful family that owns this place served us with amazing hospitality. I couldn’t decide what sauce to pick since it was my first time there..  so they gave me a sampling of all 3. I really doubt you can find a shawarma place in Edmonton as good as this one. I know of one in Ardrie but now that I found this place I’ll be going as often as I can 😍😍😍
   - name: "Stephen"
     rating: 5
-    date: "2026-03-10"
     comment: |
       I work nearby at Westside Acura and seen this place on Google and the amazing reviews so I decided to check it out. I Ordered some chicken shawarmas and they were tasty and everything was fresh and delicious. The servings are huge and they have really good prices.. I also seen the making these delicious huge bowls that I must try as well! 🤩
       
       The people that run the place are really nice as well! I Will definitely be back to try the rest of the menu. 😊
   - name: "Audric Moses"
     rating: 5
-    date: "2026-06-01"
     comment: |
       Staff were really friendly, portions are big, and the food is really fresh. Restaurant was very clean when we were there. Lots of meat in the wraps and bowls, and they're very generous with the sauces (we had hummus, garlic sauce, and tahini). I had a beef shawarma wrap, and my wife had a chicken shawarma bowl. Both were excellent, and we both took some home for later. They grill press the wraps so they're tight and crisp. I'll be going back to try the donair and the chicken 🤤.
   - name: "Raeniel C"
     rating: 5
-    date: "2026-04-26"
     comment: |
       I have tried the family sized shawarma a few weeks back to take home and recently dined in to try the Donair, Beef Shawarma, and Falafel Wrap.
       
@@ -61,7 +57,6 @@ reviews:
       Will definitely come back again when I crave for Arabic/Mediterranean cuisine.
   - name: "Thilakshan Mahenthirarasa"
     rating: 5
-    date: "2026-02-14"
     comment: |
       Amazing food and incredibly friendly staff! It was my first time trying beef shawarma, and I’m so glad I did—it was delicious and very satisfying. The mixed bowl and plate portions are generous and perfect for sharing (unless you have a big appetite!). The garlic potatoes were soft, flavorful, and absolutely delicious. This is definitely a place I would highly recommend!
 ---

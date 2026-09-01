@@ -32,17 +32,14 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Ian"
     rating: 4
-    date: "2026-05-13"
     comment: |
       Service was excellent, and I really liked the toppings and flavour combination. The fries were a bit soggy and seemed slightly undercooked, and there was way too much gravy, so it felt more like poutine soup. Overall, I’ve had better poutine, but the staff were great.
   - name: "2SockZ"
     rating: 4
-    date: "2026-07-13"
     comment: |
       The food was good, it was nice and messy, especially the chili cheese dog. The BBQ rib poutine was heavy on the BBQ sauce over powered the gravy.
   - name: "Eric Thordarson"
     rating: 1
-    date: "2026-05-11"
     comment: |
       Quite possibly the worst poutine I've ever had.
       Not a single full fry in the box everyone was small.
@@ -53,7 +50,6 @@ reviews:
       Will not return.
   - name: "TrueTrueTrain"
     rating: 4
-    date: "2026-02-07"
     comment: |
       7.1/10
       I rate harshly so this is a great rating.
@@ -65,7 +61,6 @@ reviews:
       I’ll definitely be trying your hotdogs next.
   - name: "James Fletcher"
     rating: 2
-    date: "2026-06-14"
     comment: |
       I love this place but today was definitely an off day. Ran out of cheese curds, didn't have entire items on the menu (including no brand new Creole chicken gumbo poutine that is on their menu), and the server seemed confused.
       

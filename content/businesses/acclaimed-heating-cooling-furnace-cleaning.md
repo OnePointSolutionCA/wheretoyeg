@@ -30,17 +30,14 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Jack W"
     rating: 5
-    date: "2026-07-07"
     comment: |
       Acclaimed fitted an air conditioning unit 5 years ago and I had to call them due to the unit stopping working. Not only did I manage to get an appointment for a technician to come out and fix it within 3 days, the issue was resolved in less than a few hours, completely under warranty. Ed was the technician and did a superb job fixing the unit and communicating with me throughout. He is a testament for your business, and has set a new benchmark for my expectations when dealing with all trades. Thank you Acclaimed, thank you Ed - keep providing excellent customer service, fitting great products, and standing behind them when there are issues.
   - name: "Kayla Morin"
     rating: 5
-    date: "2026-06-26"
     comment: |
       Acclaimed had installed our furnace, unfortunately our A/C decided to not turn on after the fact. Ed came by to check things out and was thorough and diligent with figuring out our issue. It was a small error because a wire was not connected. Great service and super friendly! Would not recommend anyone but this company for your furnace/AC needs :)
   - name: "Zachary Bundun"
     rating: 5
-    date: "2026-07-20"
     comment: |
       Editing my previous review, as previously I had Acclaimed! install a central humidifier but now they came back to install a new water tank and heat pump.
       
@@ -57,12 +54,10 @@ reviews:
       I'm one happy repeat customer!
   - name: "Scotties 1938"
     rating: 5
-    date: "2026-07-22"
     comment: |
       Ed P is so awesome!  Took the time to explain everything to me and show me. And did a wonderful job. He even cleaned my floor floors after his shoes, tracked a little bit of dust! Appreciate having such an informed and skilled individual to help support me with my Furnace and AC needs. Acclaim hires good, Knowledgable professionals.
   - name: "Racquel Hardy"
     rating: 5
-    date: "2026-04-21"
     comment: |
       I had a great experience with Ed from Acclaimed. He came out to check my A/C unit and was very thorough, taking the time to carefully go through everything and make sure nothing was missed. He explained things clearly and in a way that was easy to understand, which I really appreciated, and made the whole experience feel smooth and stress-free.
       

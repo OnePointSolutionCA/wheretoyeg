@@ -30,24 +30,20 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Joe Lumbu-An"
     rating: 5
-    date: "2026-04-01"
     comment: |
       I highly recommend this shop specially Noor the Techncian! They’ve been incredibly patient and polite with all my questions. It only took 20 minutes, and I was able to leave the shop without any hassle. What a smooth transaction!
   - name: "Daniel Krasiński"
     rating: 5
-    date: "2026-05-20"
     comment: |
       I recently visited the car service because my oil change warning light came on. Since my car is essential for my daily commute to work and I really care about keeping it reliable, the team went above and beyond. What started as a simple oil change turned into a full service — they thoroughly checked everything.
       Noor was exceptionally helpful. He explained everything clearly and professionally, answering all my questions with great knowledge and patience. The entire crew was efficient, well-organized, and worked quickly without any rush.
       I was genuinely surprised by the level of care and professionalism. I’ve found my new go-to car service and will definitely be returning!
   - name: "shivek Sharma"
     rating: 5
-    date: "2026-08-01"
     comment: |
       I had an amazing experience at Valvoline Express Care + Tires – Edmonton, thanks to Arshdeep. He was super friendly, professional, and explained everything clearly. Great experience
   - name: "Arsh"
     rating: 5
-    date: "2026-05-04"
     comment: |
       Really impressed with the service here, Aman did an amazing job.
       He was polite, knowledgeable, and very easy to deal with.
@@ -58,7 +54,6 @@ reviews:
       Would definitely recommend Aman to anyone!
   - name: "Azeem ahmed"
     rating: 5
-    date: "2026-04-28"
     comment: |
       I had a great experience at Valvoline, thanks to Uttam. He was extremely professional and honest throughout the service. He clearly explained what work needed to be done, why certain parts required replacement, and made sure I understood everything without any pressure.
       What I really appreciated was his transparency and the way he guided me to make the right decisions for my car. On top of that, he even helped me get a better price with a discount, which shows he genuinely cares about customers.

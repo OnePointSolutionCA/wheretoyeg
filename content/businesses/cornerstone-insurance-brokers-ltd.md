@@ -30,12 +30,10 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Silvia Stantieru"
     rating: 5
-    date: "2026-06-11"
     comment: |
       We would like to extend our thanks to Kayla who went above and beyond to help us with our vehicle insurance. From all other many companies I called she was amongst the very few ones who actually answered the phone. It is almost impossible to reach an insurance broker nowadays, hold times on the phone could be more than 2 hours and it takes 48 hours for someone to return your call I found out. Kayla was amazing, exceeded our expectations in customer service, and provided us with the best deal for our insurance in a timely manner. We are very grateful for your service Kayla!
   - name: "Christopher Cabalce"
     rating: 5
-    date: "2026-05-21"
     comment: |
       First time using an insurance broker, and I struck gold. I was looking for home and auto insurance, and Jay was amazing to work with. Communication was flexible and convenient, with Jay connecting with me through whatever method worked best for my schedule, whether by phone or email.
       
@@ -44,18 +42,15 @@ reviews:
       I would 100% recommend Jay's services to anyone looking for insurance. Thank you for all your help!
   - name: "Jenwunder"
     rating: 5
-    date: "2026-06-12"
     comment: |
       I have dealt with Cornerstone and with Ann Sulaiman for many years and it has always been a pleasure. I have referred friends to Ann as well, and they have had success in their dealings with her. I look forward to having her on my file for many years to come.
       Thanks Ann!
   - name: "Joyce Glesman"
     rating: 5
-    date: "2026-06-02"
     comment: |
       We have been very impressed with the quotes we have gotten for our automobile and home insurance through Cornerstone Insurance. Ann Suliaman is very helpful, knowledgeable, and so great to speak to a “person”.  Ann also provided us with a substantial discount on our automobile insurance, thank you Ann!  Highly recommended and will definitely do business with Cornerstone in the future.
   - name: "Mike M"
     rating: 5
-    date: "2026-06-19"
     comment: |
       I recently needed to secure insurance for my corporation and came across Cornerstone Insurance. I was connected with Briana, their Commercial Lines Account Manager, and she made the entire process incredibly clear, transparent, rapid, and easy.
       

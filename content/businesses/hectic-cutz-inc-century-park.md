@@ -30,27 +30,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Janae Sante"
     rating: 5
-    date: "2026-06-11"
     comment: |
       I came back from my haircut to get highlights and wow did April nail it! I showed her my reference photo ONCE on Sunday and she remembered it three days later. April executed the highlights gorgeously and listened to what I said about blending and the colour. She exceeded my expectations and I have never felt so beautiful. April is so nice, accommodating, and passionate—and it all shows through her work. Not only that, all the staff present was kind and welcoming as well.  It's always a pleasure to be in a chair at Hectic Cutz, and I recommend this place to everyone I know!!
   - name: "Marion Denise"
     rating: 5
-    date: "2026-05-25"
     comment: |
       I just want to say, I have never been so impressed with a hair cut other than this one!!!! I have always had bad experienced with hair salons as I shared with April and now she just earned a loyal customer. So impressed with the results, literally have received so many compliments already and i just got my hair done today!!! I couldn't be so much happier with the results, thank you April. You did such an amazing job I will always keep coming back! 😍
   - name: "Jasmine Serrano"
     rating: 5
-    date: "2026-05-26"
     comment: |
       April was amazing. I asked for a specific type of foilyage and a layered haircut and she got it right on the dot. My experience with her and Hectic Cuts was unreal and one of the best hair transformations I’ve ever received. Their booking system was easy and parking was not a problem at all!! Highly recommended
   - name: "wezley daelo"
     rating: 5
-    date: "2026-03-24"
     comment: |
       I had a great experience getting my haircut and braid by April remula. She really took the time to understand what I wanted and offered helpful suggestions to make it look even better. The attention to detail was impressive, and the final result came out clean, sharp, and exactly how I pictured it. The atmosphere was relaxed and welcoming, which made the whole visit enjoyable. I’ll definitely be coming back again and would recommend this place to anyone looking for a fresh, quality cut.
   - name: "Krishna Trivedi"
     rating: 5
-    date: "2026-02-19"
     comment: |
       I just got a layered haircut from April, and she is honestly the best for layers in town! This was one of the best haircuts I’ve ever had in my life. She is incredibly skilled and so gentle — sometimes when she was working on my hair, I could barely even feel it because of how light and careful her touch was.
       

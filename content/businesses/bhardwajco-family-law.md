@@ -30,12 +30,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Shiraz Sanjad"
     rating: 5
-    date: "2026-06-25"
     comment: |
       Jesse was incredible throughout the entire process. He worked extremely hard on my case, explained everything clearly and in detail, and always took the time to answer my questions. Communication was prompt and professional, which made the process smooth and stress-free. Thanks to his dedication and expertise, he was able to settle my claim for a very fair amount. I highly recommend Jesse to anyone looking for knowledgeable and reliable representation.
   - name: "Conxeppt"
     rating: 5
-    date: "2026-06-02"
     comment: |
       Puneet Bhardwaj has been an incredible resource for both our family and real estate legal needs. What sets him apart is not only his expertise, but the team he has built around him. No matter the situation, he always seems to have the right lawyer or specialist available to ensure we're getting the best advice and support possible.
       
@@ -44,7 +42,6 @@ reviews:
       Professional, knowledgeable, trustworthy, and genuinely caring. I would highly recommend Puneet and his team to anyone looking for exceptional legal guidance.
   - name: "Marikit Mendoza"
     rating: 5
-    date: "2026-04-13"
     comment: |
       First and foremost I would like to thank Atty Claire Spicer for being a wonderful support and counsel.
       
@@ -53,14 +50,12 @@ reviews:
       Therefore I conclude, I had the best experience with Atty Spicer and I wouldn’t ask for more. Thank you so much Atty Spicer. Cheers and here’s to more wins… power on!
   - name: "Dave Chong"
     rating: 5
-    date: "2026-04-14"
     comment: |
       I am a client of Bhardwaj + Co Family Law and my lawyer is Claire Spicer.  Claire is great lawyer, she is hardworking, friendly, and has good experience.  She guided me though tough situations that were caused my a previous incompetent lawyer.  This is why it's important to get a good lawyer first if I would have started with Claire life would have easier.   Claire did what she promised she would and I believe she would do the same for you.  She is personable and understands the needs of her clients.
       
       The office of Bhardwaj + Co, is quite nice although most of my interaction with Claire was over the phone or online. I recommend this law firm.
   - name: "Blacmamba Mambablac"
     rating: 5
-    date: "2026-04-21"
     comment: |
       I had a great experience working with Bhardwaj+Co Family Law .They were professional, knowledgeable, and very responsive throughout my case. They took the time to explain everything clearly and made sure I understood each step of the process, which really helped reduce my stress.
       

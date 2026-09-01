@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "RTM Cleaning Solutions"
     rating: 5
-    date: "2026-07-27"
     comment: |
       If haircuts were an Olympic sport, Yonas would be taking home the gold every single time.
       
@@ -43,24 +42,20 @@ reviews:
       Highly recommend—10/10, five stars, and if Google let me, I’d leave six.
   - name: "daniel humberto sauceda fregoso"
     rating: 5
-    date: "2026-07-25"
     comment: |
       I highly recommend my barber, Yonas. He is professional, skilled, and always pays close attention to detail. He takes the time to understand exactly what you want, and every haircut comes out clean and precise.
       
       On top of that, he's friendly, punctual, and makes every visit a great experience. If you're looking for a barber you can trust to deliver consistently excellent results, Yonas is the one. Five stars!
   - name: "Sandra Taktak"
     rating: 5
-    date: "2026-07-21"
     comment: |
       Awet is amazing! He always does an incredible job with my boys. He’s patient, friendly, and makes them feel comfortable every time. They absolutely love getting their hair cut by him and are always excited to go back. Highly recommend him if you’re looking for a barber who’s great with kids and takes pride in his work.
   - name: "Abdinur Abdullahi"
     rating: 5
-    date: "2026-07-25"
     comment: |
       Ercan Barbershop is a great place. The shop is always clean and well maintained, and they provide excellent service. Alex always takes care of me and is a great guy—friendly, professional, and provides excellent customer service. I highly recommend Ercan Barbershop!
   - name: "Calming And Relaxing Music"
     rating: 5
-    date: "2026-07-27"
     comment: |
       Yonas has been cutting my hair the past year and he is professional, courteous and I am really glad to have him as a barber.
       

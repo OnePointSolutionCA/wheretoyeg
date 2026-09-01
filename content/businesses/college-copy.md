@@ -30,17 +30,14 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Tulika Singh"
     rating: 5
-    date: "2026-05-14"
     comment: |
       Excellent service, quick turnaround, and affordable price! College Copy made customized swag bags for me and the bags were a hit. Mark was very helpful in explaining all the details and navigating the order through its completion. I appreciated that before we finalized the order, I got a sample picture of what the finished product would look like. Thank you Mark and the College Copy team!
   - name: "Jasmin Gerwien"
     rating: 5
-    date: "2025-09-27"
     comment: |
       My sincere thanks to the owner/manager, Al and his professional team for an exceptional customer service and excellent printing quality.  I've been using College Copy services for years now and their top notch services keeps on getting better and better. keep up the great work! Wishing you all the best!
   - name: "Kasia Palkowski"
     rating: 5
-    date: "2025-06-09"
     comment: |
       I worked with Michael and he took great care of me and my needs! I was in Edmonton for a conference & needed a small handout printed. He had it ready to go within 24 hours of us speaking(excluding the weekend)!
       
@@ -51,14 +48,12 @@ reviews:
       KP
   - name: "Edmonton Bag Spa"
     rating: 5
-    date: "2023-10-14"
     comment: |
       College Copy is absolutely my go-to place for all my interior wall and floor decal needs, and I must give a huge shoutout to Ali, the manager, for his remarkable work. Ali's expertise and helpfulness are simply outstanding.
       
       If you're looking for high-quality interior decals and a manager who truly goes above and beyond, College with Ali is the place to go. ⭐️⭐️⭐️⭐️⭐️Five stars for their top-notch work and Ali's dedication to customer satisfaction!
   - name: "Olga K"
     rating: 1
-    date: "2025-04-09"
     comment: |
       I submitted my document online, gave a 3-day lead time as recommended. I received an automatic email confirming the pickup time, and that I'd be contacted if anything else was needed from me.
       When I arrived for pickup, I was told they never received my file, and was blamed for not emailing it in addition to having sent it in the form - but the confirmation email didn't ask for this. And I hadn't been contacted about any issue. The negativity from the employee through this convo didn't help.

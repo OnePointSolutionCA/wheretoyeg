@@ -31,7 +31,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "FightForSpice"
     rating: 4
-    date: "2026-07-15"
     comment: |
       Had the kebab special for 2, lots of food. Started off with bread, the ‘dips’ and this wonderful beet and lettuce salad with wonderful vinaigrette.
       
@@ -40,12 +39,10 @@ reviews:
       It a weekday and inside was busy but service was a bit slow though we were seated quickly. No bartender so imi couldn’t try the cocktails. Overall a good experience that I’m glad was recommended to me abd i do recommend it to others too.
   - name: "Arian Zare"
     rating: 5
-    date: "2026-06-03"
     comment: |
       Amazing food and a wonderful atmosphere. The kebabs were full of flavor and the place feels super cozy. Definitely coming back.
   - name: "Bassam Abdelmalek"
     rating: 5
-    date: "2026-06-08"
     comment: |
       First time to try this place and won’t be last.
       Staff are very friendly and welcoming.
@@ -53,7 +50,6 @@ reviews:
       We tried fish wasn’t the best for me , always fish is hard to get your taste might need more flavour but the side were really good, will be back to try the rest of the menu
   - name: "Arsham Sarshogh"
     rating: 4
-    date: "2026-03-29"
     comment: |
       We visited Kebab Time for lunch today.
       The food quality was exceptional.
@@ -65,7 +61,6 @@ reviews:
       Overall I would highly recommend the place for authentic Turkish food. But would suggest going at a time that is not busy.
   - name: "D F"
     rating: 5
-    date: "2026-07-12"
     comment: |
       Liked the food! I think I’ve been to most of the popular Turkish restaurants around Edmonton, and this one is definitely in my Top 5. The meats are tender and well‑seasoned. Although, I gotta be honest—I wish they served a bit more of that delicious rice it comes with. Not a fan of their garlic sauce (it’s probably not even garlic sauce to begin with; I could be wrong. It might just be different from my other fave Turkish/Middle Eastern restos), but it’s not bad overall.
       

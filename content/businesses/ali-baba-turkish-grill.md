@@ -33,7 +33,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Amit Mehta"
     rating: 5
-    date: "2026-05-10"
     comment: |
       Excellent food at Alibaba! One of the best Turkish meals I have ever had. The platters were absolutely delicious, full of flavor, and perfectly prepared. The chicken pie bread is definitely worth trying - fresh, soft, and very tasty.
       
@@ -42,23 +41,19 @@ reviews:
       Highly recommended for anyone looking to enjoy authentic Turkish cuisine with a great dining experience. Will definitely be visiting again!
   - name: "Crochet and Knit with Feride Erbaşar"
     rating: 5
-    date: "2026-06-21"
     comment: |
       It was our first time here. The service was great! I was impressed with the quality and the cleanliness. Big thanks to Zeynep👏 She kept on going cleaning swiping. The food was amazing. I ordered Iskender my husband ordered doner wrap. Thank you so much!
   - name: "Cindy"
     rating: 5
-    date: "2026-01-24"
     comment: |
       Amazing place! We always drive by here but decided to give it a shot.
       We ordered the trio kebab platter and the chicken was so juicy and tender! I usually prefer beef but this is likely the only time I will choose the chicken over beef. The serving is huge too! We also like the babaganoush but I didn’t take a picture because we were so hungry we just ate it all.
   - name: "Enrique Zenteno"
     rating: 5
-    date: "2026-03-22"
     comment: |
       The food is very tasty.  The portions are pretty good. The ratio quality/price is perfect. I totally recommend it.
   - name: "Hypresion"
     rating: 5
-    date: "2026-03-30"
     comment: |
       3rd time coming. Portions are better than competition, kind ladies who help you,and absolutely amazing food. Beef kaftan, chicken thighs and beef shawarma are peak. Their pita is also quite unique and comes with amazing hummus, flavorful baba ganoush and the toum w salad
 ---

@@ -33,7 +33,6 @@ skipthedishes: false
 reviews:
   - name: "Sana Ayesha"
     rating: 4
-    date: "2026-05-09"
     comment: |
       I was looking forward to enjoying myself at a high end cafe for quite a while now and cafe aria delivered !
       Food : This was a fully halal restaurant . We ordered roast beef eggs Benedict , maple butter pancakes, crème brûlée French toast, coffee and a raisin custard croissant.
@@ -43,24 +42,20 @@ reviews:
       Over all , awesome experience, of course overpriced like other reviews say, so definitely an occasional treat . But I will definitely be coming back.
   - name: "Oemar Rehmaan"
     rating: 4
-    date: "2026-05-09"
     comment: |
       Most of the food items were pretty good. Really liked the Eggs Benedict and Trench Toast. Pancakes were average and brewed coffee was quite underwhelming. The atmosphere is nice and service is quite good.
   - name: "Maddy Phaurest"
     rating: 3
-    date: "2026-03-11"
     comment: |
       Beautiful cafe. The pastries looked fantastic and tasted pretty good. The hot chocolate was a little mild for my taste, but was good. The prices seemed a bit steep though, for 3 croissants, 2 hot chocolates and a cappuccino we ended up paying nearly 50$.
       
       I was surprised to find out the cafe had been open for more than a month though. While the servers were friendly and kind, service was slow and seemed confused. They ran out of cups while we were there, which was pretty surprising for a cafe. I also found the booths uncomfortable and a very tight fit - if I go again I would definitely go for a table with standard chairs to get a bit more space.
   - name: "Lynde Tagle"
     rating: 5
-    date: "2026-06-23"
     comment: |
       I like the concept of the place. Those fries of theirs are amazing as it was simple yet has a kick to it because of the cheese.  I would’ve loved the hot chocolate if it was warmer or hotter though. And the staff just took away dishes without even asking if we were done, so that was not okay. Courtesy wise my friend on customers talking and still dining please.
   - name: "Hesham Elfar"
     rating: 5
-    date: "2026-02-09"
     comment: |
       European-Style Café in Edmonton
       

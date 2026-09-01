@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Mandi Timani"
     rating: 5
-    date: "2026-04-22"
     comment: |
       I can’t say enough good things about Albert as a boxing coach. From day one, he created an environment that is both motivating and supportive. He takes the time to really understand your goals and pushes you in a way that builds confidence, skill, and discipline.
       
@@ -41,26 +40,22 @@ reviews:
       If you are looking for someone who is knowledgeable, dedicated, and genuinely invested in your progress, I highly recommend Albert.
   - name: "Andrew Ho"
     rating: 5
-    date: "2026-05-16"
     comment: |
       It has been about a month of boxing with Albert and my experience with him has been awesome! He is very passionate and knowledgeable in the sport and it really shows. I am "hook"ed and looking forward to more sessions.
   - name: "Dan Chau"
     rating: 5
-    date: "2026-03-21"
     comment: |
       Coach albert understood my aspirations to cross train in my martial arts career and my limitations due to age(I am 45 years young) and schedule to craft a custom program that will help me to achieve my goals.
       
       I have studied with multiple instructors, including boxing, and Albert stands out as an educator, motivator and someone who “has been there and done that”.
   - name: "Yevhen “Eugene” Bazhenov"
     rating: 5
-    date: "2025-09-04"
     comment: |
       I've always wanted to learn boxing, and I finally found the perfect place: Azn Assassin Boxing! As a complete beginner, I couldn't ask for a better experience. Albert has an incredible way of explaining boxing techniques and knows just how to keep me motivated. I genuinely wish I had met him when I was 14! His training sessions are intense, and he really pushes me to my limits, which often leaves me completely exhausted on the floor (don’t worry, I don’t get hit at all - just working on my stamina, haha)!
       
       Those 30 minutes of one-on-one training fly by and feel like an eternity in the best way possible. I highly recommend Azn Assassin Boxing to anyone looking to learn and grow in their boxing journey!
   - name: "R Lester"
     rating: 5
-    date: "2025-08-30"
     comment: |
       Albert single handedly re ignited my love for the sport I thought I'd lost. Especially if you're disabled and a boxer or aspiring boxer in Edmonton, I would recommend you at least come meet this guy once. He's a great coach and all around great dude, who makes my day every single session
 ---

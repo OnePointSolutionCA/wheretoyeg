@@ -30,27 +30,22 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Ryan"
     rating: 5
-    date: "2026-06-07"
     comment: |
       Great place! Stan and Alex are awesome coaches, the classes push you both physically and mentally. I would highly recommend to anyone wanting to learn how to box and get in shape to check it out.
   - name: "Mihir Panchani"
     rating: 5
-    date: "2026-04-11"
     comment: |
       Had my first lesson with Stan last week and it was awesome. He’s a great coach, very patient, clear with instructions, and really makes you feel comfortable even if you’re new. The members at the club were also super supportive and helpful, which made the whole environment really welcoming. Will definitely be coming back!
   - name: "Karan"
     rating: 5
-    date: "2025-12-07"
     comment: |
       Had an awesome first experience here at the weekend bag class with Stan. I was expecting a simple cardio class, but Stan really stood out as an amazing teacher to me. Along with running the class, he takes his time walking around observing each person and providing useful feedback to correct form. You can really tell he has a deep passion and understanding for boxing, along with an open, patient & non-judgemental teaching style; a perfect combo. I live 40+ minutes away, but will gladly commit to the commute. 10/10, definitely recommend!
   - name: "E C"
     rating: 5
-    date: "2026-04-01"
     comment: |
       Awesome place to get a great workout. Stan’s an absolute pleasure to work with.
   - name: "Vietadonis"
     rating: 5
-    date: "2026-05-21"
     comment: |
       Stanley's a great boxing coach. I highly recommend this gym to anyone who's considering this sport.
 ---

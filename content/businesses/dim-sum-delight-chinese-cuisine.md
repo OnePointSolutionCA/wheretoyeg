@@ -34,7 +34,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Dirk"
     rating: 5
-    date: "2026-06-07"
     comment: |
       Best dim sum Ive had in Edmonton while here.
       
@@ -45,12 +44,10 @@ reviews:
       Recommended!
   - name: "Caroline Ecoutin"
     rating: 5
-    date: "2026-02-26"
     comment: |
       I have tried a millions differents type of dim sum restaurants BUT THIS ONE is by far the best one I've been to. The size of the potions and the quality of the food is like nothing i've seen before. I don't care it's 20 mn drive from my place. It is worth it. They have been there for over 20 years. And there is a reason. Love them
   - name: "Darren Shirley"
     rating: 5
-    date: "2024-06-10"
     comment: |
       We hadn’t been here in about 5 years and I have to say we are sure glad we came back!
       The previous owners were super nice and we always liked the food.
@@ -69,12 +66,10 @@ reviews:
       P.S. I apologize for the photos. I had already dug into the dishes before I took the pictures.
   - name: "Tarik S"
     rating: 3
-    date: "2025-04-24"
     comment: |
       Used to eat here years ago when the original owner was there. Came back to the city and thought my wife and I would go for some late lunch. Was disappointed to say the least. Saw there was a new owner and the food was mediocre at best and lacked flavour. Service was not the greatest either. The server was not very welcoming bordering on rude. Change is good when it’s for the better but in this case, not so much. We won’t be back.
   - name: "Martin Ly"
     rating: 5
-    date: "2023-10-18"
     comment: |
       Cooked well, steaming hot. Majority of the food has just the right texture. Super crispy, smooth and stretchy. They also are friendly still. The prices are still really really good! For all the food  we ordered, it only cost 60 some dollars before tip. And it was honestly more then enough food for 3 people! Still massively cheaper then most places now.
       

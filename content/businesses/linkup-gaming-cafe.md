@@ -32,22 +32,18 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Juan Paulo Tenefrancia"
     rating: 5
-    date: "2024-11-08"
     comment: |
       Went here with a couple friends and the staff was very helpful and nice setting up the room for us. Plenty of snack to choose from and very affordable! They also have birthday rooms that are very affordable! Coming back soon 😌😌
   - name: "Marjorie Carrillo"
     rating: 5
-    date: "2024-10-11"
     comment: |
       The perfect venue for small events. Had so much fun! Thank you for your great services. ❤️
   - name: "Samantha Rainville"
     rating: 5
-    date: "2025-10-12"
     comment: |
       I brought my son and a group of friends here for his birthday, and they had an absolute blast! They had a computer room all to themselves, plus access to one of the PS5 rooms, though most of the kids enjoyed the computers the most. The staff member on duty was very helpful, assisting with setup and answering any questions. Overall, it was a great experience. We would definitely come back!
   - name: "Y Elawour"
     rating: 5
-    date: "2024-10-03"
     comment: |
       Had my son birthday at linkeup cafe
       kids loved it so much
@@ -56,7 +52,6 @@ reviews:
       The kids looking forward till next birthday.
   - name: "Jake"
     rating: 4
-    date: "2026-03-22"
     comment: |
       The computers are good but the time when they open the cafe is bad I had to wait 2 hours and they still haven’t opened I have been calling them for 2 hours now and the won’t answer the phone but the service is great.
 ---

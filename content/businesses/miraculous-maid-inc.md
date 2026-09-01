@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Nicole Koopman"
     rating: 1
-    date: "2026-04-28"
     comment: |
       I am disappointed to share this, as I had high hopes, however I was left feeling frustrated and discouraged when hiring Miraculous Maids for our condo cleaning.
       
@@ -47,12 +46,10 @@ reviews:
       Lesson learned.. read the reviews closer before booking. I would not recommend this company in the future.
   - name: "Nicole Maxfield"
     rating: 5
-    date: "2026-04-30"
     comment: |
       The whole experience was wonderful. I had surgery and a great friend gave me a $200 gift card for Miraculous Maids. After getting a quote, I responded that I only have $200 and if we could work with that. The lady was more than happy to help and completely understood. I ended up getting my kitchen and main bathroom fully cleaned for $229. The ladies who showed up to do the cleaning were so nice! They didn’t mind my dog, who was friendly and very curious. It was overall a great experience.
   - name: "Glenna Swiniarski"
     rating: 1
-    date: "2025-09-14"
     comment: |
       I recently hired Miraculous Maids for a move-in clean of our new home and was very disappointed with the service. When I arrived home from work the cleaners had already left despite being told the job would take six hours. I found several areas had been missed. The basement floors were not vacuumed, the kitchen counters were dirty, the fridge was only partially cleaned, and the walls and baseboards did not appear to have been “washed” as is advertised. Additionally, the kitchen cabinets still had visible drips on the outside, and neither the interior nor exterior of the bathroom cabinets had been cleaned. The hardware in the bathroom and kitchen still had smudges and the primary ensuite shower hadn’t been touched.
       
@@ -67,12 +64,10 @@ reviews:
       Unfortunately, I will never be using this company again.
   - name: "Myrna Lynn Lindenberg"
     rating: 5
-    date: "2026-06-30"
     comment: |
       Miraculous Maids did an excellent job cleaning our 3 level house. They checked in with me when they were unsure about something and worked hard for 5 hours. They were careful and detailed. They were also friendly and cheerful. I appreciate all the work they did.
   - name: "Rachel Bergeron"
     rating: 1
-    date: "2026-02-17"
     comment: |
       We paid just over $400 for the “Little Sparkle,” a one-hour cleaning by a crew of three, which works out to roughly $130/cleaner per hour (approximately 4X the current going rate).
       

@@ -33,19 +33,16 @@ active: true
 reviews:
   - name: "Linnea Nordstrom"
     rating: 5
-    date: "2026-07-07"
     comment: |
       Just had our first deep clean with Gentlemen's Cleaning Company. We are very impressed. Communication has been quick and thorough. Scheduling is a breeze and they show up and finish the job on time. Victoria and Bunny were very kind, professional, and hard working. I'm particularly impressed with the work they did on the bathrooms and kitchens. Thanks for a great clean!
   - name: "Sir Chris"
     rating: 5
-    date: "2026-06-11"
     comment: |
       Amazing company to deal with. Really friendly and happy crew that came to my place to do a move out clean on a 2 bedroom apartment. Took about 8hrs and was $450 (including steam cleaning). Got my entire security deposit back so id say it was well worth it! The place was legitimately cleaner than when i first moved in
       
       Didn't think to take any before photos sadly. But imagine 4 years of dust and general grime added onto these.
   - name: "Meaghan Vardy"
     rating: 5
-    date: "2026-05-03"
     comment: |
       This is the second time I've used Gentlemen's Cleaning Company. The first for a regular clean and the second for a deep clean.
       
@@ -62,7 +59,6 @@ reviews:
       Highly, highly recommend to anyone who feels like they want a break or a helping hand.
   - name: "Jessica Boose"
     rating: 3
-    date: "2026-07-21"
     comment: |
       Prior to cleaning, I removed things off surfaces to allow them to do their job. I swept the floor and did a general tidy.
       
@@ -75,7 +71,6 @@ reviews:
       I will say life got ahead of me and I wasn't able to keep up on my housecleaning. This did what it's intended use was which was to get me back on track.
   - name: "Savvy Ghataura"
     rating: 1
-    date: "2026-06-05"
     comment: |
       I chose this company because of the many positive reviews and because this was my first time hiring a professional cleaning company.
       

@@ -30,30 +30,25 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Amanda Worth"
     rating: 5
-    date: "2026-03-24"
     comment: |
       Our experience was outstanding here. All of the staff was amazing with my family. They were wonderful with my daughter. They were very informative, caring and kind. yes The process takes a while but they were amazing here and it really warmed my heart and made our nervousness go down quite a bit.
   - name: "Rose Stewart"
     rating: 5
-    date: "2025-12-10"
     comment: |
       I had a great experience at this clinic with getting my hearing tested and my hearing aids revamped.  My audiologist, Ashley was so pleasant and professional.  I learned a lot and my hearing aids are working so much better.  Highly recommend.
   - name: "Pamela Stephens"
     rating: 5
-    date: "2026-01-16"
     comment: |
       My daughter is 10 and we have gone here since she was 1. Ashley has provided kind and excellent care to Madelyn consistently, and listened to a mama’s worries, especially when she was young and the concerns were huge.
       
       I was recommended Wild Rose when we moved from BC and I’d strongly recommend them for children with hearing loss.
   - name: "poorvi parmar"
     rating: 5
-    date: "2025-10-10"
     comment: |
       We had an amazing experience with audiologist Ashley Barr!My daughter was understandably nervous, but audiologist Ashley was incredibly gentle, patient, and kind. She made her feel completely comfortable from the moment we walked in. The procedure to remove the foreign body was very smooth — we couldn’t have asked for a better audiologist . Her professionalism and warmth truly stood out. Thank you, Ashley, for taking such good care of my little one!
       Highly recommended for anyone looking for an audiologist who truly cares about their patients.
   - name: "Tara Gonzalez"
     rating: 5
-    date: "2026-05-18"
     comment: |
       Excellent staff, very nice office.
 ---

@@ -29,28 +29,23 @@ date_listed: "2026-08-30"
 reviews:
   - name: "inderjit kaur"
     rating: 5
-    date: "2026-07-25"
     comment: |
       Excellent tiffin service! The food is always fresh, flavorful, and prepared with care. I enjoy the variety of meals, and the delivery is consistently on time. The packaging is neat, and the overall quality has been outstanding. Definitely one of the best tiffin services I've tried. Highly recommended!
   - name: "SPreet Brar"
     rating: 5
-    date: "2026-06-12"
     comment: |
       Delicious food and great service. Really nice family and genuine hospitality.
       Must try their food. Bahut sawad ghar da khana!
   - name: "Akanksha Sharma"
     rating: 5
-    date: "2026-07-20"
     comment: |
       "I've been taking their tiffin service  for a while now, and I'm consistently impressed! The food is always fresh, delicious, and tastes homemade. There's a good variety of dishes, and they cater to different preferences. The delivery is always on time, and the packaging is excellent. Highly recommend for anyone looking for a convenient and tasty tiffin service!"
   - name: "Raminderjit Kaur"
     rating: 5
-    date: "2026-05-31"
     comment: |
       “Authentic Punjabi home-style food at its finest! Fresh, delicious, and consistently high quality. The taste reminds me of home, and the portions are great. Reliable service and excellent value for money. Highly recommended!”
   - name: "Sunny Marar"
     rating: 5
-    date: "2026-05-26"
     comment: |
       Amazing food .delicious,delivery on time .highly recommended for busy workers .just like home and restaurant quality.just like you can’t get bored with every meal has his own essence filled with love .just like home .
       One must try .

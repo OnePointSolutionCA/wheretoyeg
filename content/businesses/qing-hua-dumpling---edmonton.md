@@ -32,22 +32,18 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Ar K"
     rating: 5
-    date: "2026-07-15"
     comment: |
       This was our first time trying this spot. Very cool that they make all their dumplings in house and you can see them working in the back ground. The dumplings were very juicy and they had lots of options to choose from. Our favourite was the lamb, which is very hard to come by at a dumpling restaurant as is. Will definitely return for these delicious dumplings. The service was great as well for how busy it was.
   - name: "Francis"
     rating: 5
-    date: "2026-06-11"
     comment: |
       Very good jiao zi with a great selection of flavours. We did the pork cabbage and pork green onions. Both were delicious but a little warmer for the brooth would have been nice. They felt a bit lukewarm. For appetizers we tried the seaweed salad, wonton soup, and spicy tofu noodle salad. The soup was great as were the spicy noodles. Seaweed salad was good but a bit too sweet for us so would skip that one next time. Overall we really enjoyed our lunch and will be back.
   - name: "Kay Liew"
     rating: 5
-    date: "2026-06-29"
     comment: |
       Let me say. I have lamented forever that Edmonton did not have a proper dumpling shop. Where the only menu items are dumplings. And here I stand happily corrected. These were some of the most authentic, flavourful, bites of pure heaven. AND EVERY DUMPLING IS SOUPY?! Wow. Not to mention there are around 4-6 varieties of vegetarian, seafood, pork, beef, chicken, and even lamb dumplings! I can tell you I am the happiest I've ever been! Thank you so much, Edmonton needed this. Now I don't have to travel elsewhere to get my fix! I'll be back to try all of them. But I'll tell you a secret, the Lamb and Coriander is the best hands down. 💜
   - name: "Eric Loo"
     rating: 4
-    date: "2026-08-03"
     comment: |
       New Chinese dumpling restaurant that had good dumplings. I was craving Chinese food but not the usual fare so I was happy I stumbled onto this place.
       
@@ -56,7 +52,6 @@ reviews:
       I would definitely consider this place again.
   - name: "Fuyao Li"
     rating: 4
-    date: "2026-07-28"
     comment: |
       The dumplings are nice, very authentic Chinese style. We ordered Shrimp Chive and Egg dumplings but ended with getting the wrong one, it also tasted good though…
       But not what we expected. 4/5 Will come again cuz my bf loves dumplings badly. Lol

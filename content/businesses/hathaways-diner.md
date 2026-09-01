@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "P Scriba"
     rating: 4
-    date: "2026-02-06"
     comment: |
       We started with a piece of their seasonal special black forest pie. Absolutely next level. As we were there for a meal we waited to finish and ordered a breakfast and lunch item. Club house on sourdough with a cup of homemade, amazing, loaded potatoe soup and the apple and cinnamon stuffed french toast. The club sandwich had fresh tomatoe, crisp bacon, mixed greens, and real white breast turkey. The processed yellow cheese fell short of being exceptional.
       The stuffed french toast was really 2 pieces stacked, lacked apple and the cinnamon didnt make it to the plate.
@@ -42,7 +41,6 @@ reviews:
       The pie slices and variety are worth every penny though and for us, worth fighting thevtraffic and driving 37 minutes. We will be back.
   - name: "K B"
     rating: 4
-    date: "2026-03-23"
     comment: |
       This place almost always hits for breakfast. I love the decorations, the staff are kind, and they have a great menu.
       
@@ -53,17 +51,14 @@ reviews:
       All in all, the restaurant delivers a pretty good experience but with all these minor food details, i do kind of feel like im being ripped off a little, especially since the prices arent cheap here and they are consistently busy (or so it seems). If the diner could address these complaints then i would say it was 100% perfect.
   - name: "E Kung"
     rating: 5
-    date: "2026-04-09"
     comment: |
       First time going to Hathaway’s Diner and it won’t be our last.  We walked in for lunch and were greeted and seated right away.  Makenna was our server and she was excellent!  Attentive from start to finish of the meal.  She made some great recommendations, to make our first visit truly memorable.  We topped it off with a slice of coconut cream pie and the pistachio pineapple pie.  The pistachio pineapple was so good we ended up taking a whole pie home with us.  If you haven’t been to Hathaway’s Diner yet, you truly need to go, you won’t regret it.
   - name: "Sheri MacNeil"
     rating: 5
-    date: "2026-04-06"
     comment: |
       We always stay nearby when we come to the city but never checked this spot out.   Worth the 7 min off the Yellowhead to get there.  We will be back.    Homemade hollandaise, great quality proteins and I can’t say enough about the service.    We had Celia and she was amazing but everyone was on point.   We are told to come back for the beef dip and the pineapple pistachio pie.   I’d made a reservation or expect a wait on a weekend.  We went Monday morning and it was still steady busy.
   - name: "Alyssa"
     rating: 5
-    date: "2026-02-03"
     comment: |
       Absolutely loved it. Excellent place for breakfast, prices were fair for the portion sizes, and the staff were great. Visiting from out of town and will recommend to anyone visiting Edmonton.
       

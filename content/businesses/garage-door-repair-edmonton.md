@@ -30,27 +30,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Norm Trottier"
     rating: 5
-    date: "2026-07-09"
     comment: |
       Very fast service, even on a weekend! The tech showed up in less than an hour and went right to work and had our door working perfectly in no time. Fixed the problem and found some defective parts and replaced them also. Then did preventative maintenance on the door. Tech was knowledgable and very friendly. Great service at a reasonable price. We were very happy.
   - name: "Alan Mantooth"
     rating: 5
-    date: "2026-07-10"
     comment: |
       Chose a door with a higher insulation rating than the standard option after the technician explained the difference it would make in our climate. Improved temperature stability through both summer and winter has confirmed the premium was worth paying. very good experience
   - name: "Dale Shuster"
     rating: 5
-    date: "2026-06-25"
     comment: |
       Installing the smart opener changed how we think about home security when travelling. Being able to verify the door is closed from anywhere and to grant temporary access to a house-sitter remotely are both features we now use regularly. The integration with our existing home setup was handled cleanly and works without ongoing issues. very satisfy with the service
   - name: "Robert Sinclair"
     rating: 5
-    date: "2026-03-01"
     comment: |
       The garage door had been getting louder every week and started shaking whenever it opened. It eventually stalled halfway and refused to move without force. After the repair, it operates smoothly again and the noise is completely gone.
   - name: "Ruthann Wisneski"
     rating: 5
-    date: "2026-02-18"
     comment: |
       The garage door started grinding loudly and would stall halfway up, so getting the car out became a daily hassle. After the repair, it opens in one smooth motion and the noise is finally gone👍
 ---

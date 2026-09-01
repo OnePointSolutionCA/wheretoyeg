@@ -29,7 +29,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "DeniseF"
     rating: 5
-    date: "2026-07-14"
     comment: |
       So glad the park has reopened and it's absolutely beautiful! We go there as much as possible and am excited to use their fireplace features where you can start the fire when it's a little chilly out🔥. Lots of Canada geese and sweet little goslings here, as well as many other species of beautiful birds. This park offers plenty of beautiful views.
       Very relaxing and serene for those of us wanting a pieceful moment in our busy days, and plenty of facilities for busy families that want spacious fun and barbecues etc. 🧺 Even the parking has improved!
@@ -38,23 +37,19 @@ reviews:
       The restaurant is great too! A little pricey but what isn't these days? 🤷🏻‍♀️
   - name: "Виктория Иванова"
     rating: 5
-    date: "2026-07-18"
     comment: |
       It's a great place to relax. I'm especially happy about "lift me up on the lake." You can relax with the whole family, enjoy good food and fresh air.
   - name: "Busani"
     rating: 5
-    date: "2026-07-05"
     comment: |
       Really nice park. Very clean. Family friendly place to have a picnic, barbecue and general friends & family meet up.
       There's a nice restaurant and boat house.
   - name: "Julie May"
     rating: 5
-    date: "2026-07-09"
     comment: |
       Beautiful summer pond. Seems better after the renovations.
   - name: "Shannon Hunter"
     rating: 5
-    date: "2026-06-06"
     comment: |
       Huge park, picnic areas, lots of grass to play on.
 ---

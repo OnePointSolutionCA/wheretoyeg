@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Afraz Ahmad"
     rating: 5
-    date: "2026-05-12"
     comment: |
       I’ve had Air Unlimited (Nick) twice now for Airbnb photography, and both experiences were absolutely flawless. The quality, professionalism, and attention to detail were outstanding every single time.
       
@@ -39,22 +38,18 @@ reviews:
       Highly recommend Air Unlimited to any realtor or Airbnb host looking for reliable, high-quality photography services!
   - name: "Bruce McNiven"
     rating: 5
-    date: "2025-04-08"
     comment: |
       I have used Air unlimited a few times and they are 5 stars in so many categories.  Price, customer service and talent.  Queen has been such an amazing help with organizing my short term rental photo shoots. Ted my preferred photographer is very talented and understands what is needed for great pictures for my short term rentals.  I have seen an increase in business. I highly recommend Air unlimited and will continue to use them.
   - name: "Tania Menicucci"
     rating: 5
-    date: "2025-08-30"
     comment: |
       I am very happy with Air  Limited. They give quality photos and they are always happy to assist in adjusting or fixing any issues overall, I would highly recommend Their services to anyone who needs photos tours floorplan anything real estate related.
   - name: "Wanda Dawe"
     rating: 5
-    date: "2025-04-15"
     comment: |
       Air Unlimited is a great company to work with, especially their back office support Team. I've had tremendous help from Pearl, Alpha, and currently Queen, as we prepare a listing for Market. Thanks to a great team, from photographers to their Service and Support, for a great experience!
   - name: "Ruthie Fojas"
     rating: 5
-    date: "2025-04-09"
     comment: |
       Queen and the team at Air Unlimited was awesome! Very accommodating to all of our requests. Highly recommended.
 ---

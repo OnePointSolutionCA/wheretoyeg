@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Lita Dabiatch"
     rating: 2
-    date: "2026-07-21"
     comment: |
       really wanted to like this gym, but unfortunately the negatives outweighed the positives.
       
@@ -49,19 +48,16 @@ reviews:
       Finally, members frequently leave weights on machines and fail to return attachments to their proper places, which adds to the overall lack of organization.  I left after a few months and I have found another gym that meets my needs.
   - name: "Craig Nadeau"
     rating: 5
-    date: "2026-06-16"
     comment: |
       It took a while but finally made it.  Great body builder gym that has a posing room.  Super staff.  And, they had an old school pull-over machine!  Close to West Edmonton Mall!
   - name: "Mitch Wickstrom"
     rating: 5
-    date: "2026-03-04"
     comment: |
       Came in for a free day to test the gym out. Overall experience was excellent. Staff are great and showed me around the gym before I got to my workout. The equipment is also just as amazing.
       
       Will definitely be getting a membership here
   - name: "Riley Pierrard"
     rating: 5
-    date: "2026-05-01"
     comment: |
       Walking in feels like walking into a large garage gym with top notch equipment. It never really too busy, and everyone is really nice and inviting.
       
@@ -72,7 +68,6 @@ reviews:
       The Den genuinely has the "it" everyone is looking for
   - name: "Wesley Peeples"
     rating: 5
-    date: "2026-06-05"
     comment: |
       The Den has an atmosphere that makes you want to train hard the moment you walk through the doors. The energy is contagious, the members are focused, and it's the kind of gym that motivates you to push for that extra rep
       

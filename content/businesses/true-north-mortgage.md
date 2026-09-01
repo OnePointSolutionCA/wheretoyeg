@@ -30,12 +30,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "T Lee"
     rating: 5
-    date: "2026-07-20"
     comment: |
       I worked with Kamlesh to obtain a mortgage. Throughout the entire process he was patient, respectful and helpful. He took the time to explain everything very clearly. There were no issues at closing and the experience was very positive. I received an email with the portal  information for True North which lets me see my mortgage balance and gives further information about additional payments. I would absolutely recommend Kam for your mortgage needs
   - name: "Michaela Parkes"
     rating: 5
-    date: "2026-03-31"
     comment: |
       Working with Verone at True North Mortgage was an absolutely amazing experience. From start to finish, he was incredibly helpful and informative, guiding me through every step of the process with patience and care. As a first-time homebuyer, I had a lot of questions, and Verone always took the time to thoroughly explain everything and make sure I fully understood what was happening.
       
@@ -44,14 +42,12 @@ reviews:
       I truly felt supported throughout the entire process, which made what could have been a very stressful experience feel smooth and manageable. I would highly recommend Verone at True North Mortgage to anyone looking for a knowledgeable, communicative, and trustworthy mortgage broker.
   - name: "Basharat Ishtiaque"
     rating: 5
-    date: "2026-01-28"
     comment: |
       I would like to share my positive experience working with MOHAMMAD Chowdhury as our mortgage advisor. From the very beginning, Mr. Chowdhury was patient, responsive, and genuinely focused on helping us make the right decision rather than rushing us through the process. As a Bangladeshi, I was not familiar with the Canadian mortgage environment at all, so the whole process felt quite overwhelming at first however Mr. Chowdhury took the time to explain everything clearly, breaking down the different bank options, interest rates, and pros and cons in a way that was easy to understand. He was very thorough and never made us feel silly for asking questions. Even late at night, he was willing to reply and follow up, which really gave us peace of mind.
       
       He helped us secure a competitive mortgage rate and guided us through all the paperwork, making what could have been a stressful experience feel smooth and manageable. I truly appreciate him dedication and professionalism. I would definitely engage Mr. Chowdhury again for remortgage in the future and have already recommended her to friends and family.
   - name: "Khadian Gooden"
     rating: 5
-    date: "2026-04-02"
     comment: |
       This was my first time going through the mortgage process, and I couldn’t have asked for a better experience. Working with Verone Rodriques was an absolute pleasure. He was professional, highly knowledgeable, and incredibly easy to work with from start to finish.
       What stood out most was how genuinely invested he was in my success. He made me feel supported every step of the way, always keeping me informed with regular updates and promptly answering any questions I had. It was clear that he was working hard behind the scenes to ensure I secured the best possible outcome.
@@ -60,7 +56,6 @@ reviews:
       Thanks again to TNM for such an outstanding experience!
   - name: "Fernando Lopez"
     rating: 5
-    date: "2026-06-30"
     comment: |
       Working with Verone was an absolute pleasure from start to finish. He is incredibly knowledgeable, professional, and took the time to clearly explain all of our options, ensuring we felt completely confident in our decisions.
       

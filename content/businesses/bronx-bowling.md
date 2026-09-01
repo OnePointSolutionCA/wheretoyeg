@@ -30,29 +30,24 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Crypto Welder"
     rating: 3
-    date: "2026-04-18"
     comment: |
       Atmosphere is fun music is good, mens restroom the urinals dont flush right and full of old urine. Needs paper towel in there not just air blower. And maybe some air fresheners. The woman's sounds like it was really decent. Bowling balls were greasy and chipped, they were hard to hang onto. There was no cleaner around or wet towel to damp the hand for a better grip. We still enjoyed it just needs few touch ups..
   - name: "Chantele"
     rating: 5
-    date: "2026-06-20"
     comment: |
       Came for a bowling birthday party, stayed for the pizza!!
       This place is my go to for my kids' birthday parties. The price is right and its always a blast!
       But let's take a minute to appreciate the pizza. They make everything fresh, dough and all. Its some of the best pizza I've had!
   - name: "Julie MacDonald"
     rating: 5
-    date: "2026-07-26"
     comment: |
       We had so much fun together as a family. Prices are great and the food we had was delicious. Great staff. Highly recommend.
   - name: "Jen Dar"
     rating: 5
-    date: "2026-06-17"
     comment: |
       Had a great time on school field trip. Music lights and music were great kids had so much fun!
   - name: "blue crisan"
     rating: 5
-    date: "2026-07-26"
     comment: |
       made a core memory at this place with my groups of friends, Sam accommodated to our groups needs and went above and boyond for customer service. This place has such a comforting and fun atmosphere, and was impressed by the customer service. 10/10 would recommend coming here !!
 ---

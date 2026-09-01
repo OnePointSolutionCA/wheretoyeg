@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Carina Crooz"
     rating: 5
-    date: "2026-06-01"
     comment: |
       SIGN UP. The instructor is knowledgeable, professional, and clearly knows what he’s teaching. He takes the time to explain properly and makes sure everyone understands what they’re doing.
       
@@ -41,7 +40,6 @@ reviews:
       I learned a lot, got a great workout, and most importantly, had a lot of fun. I highly recommend this gym to anyone interested in learning Muay Thai
   - name: "Adham Zahr"
     rating: 5
-    date: "2026-05-21"
     comment: |
       I had my first trial session here and it was an amazing experience. The training was intense, challenging, and a lot of fun at the same time. The coaches were welcoming, motivating, and made the environment comfortable for everyone regardless of experience level.
       
@@ -50,17 +48,14 @@ reviews:
       And they have there own cute dog called Sumo lol. Super friendly and a great sparring partner
   - name: "Hamza Abdullahi"
     rating: 5
-    date: "2026-05-14"
     comment: |
       I’ve had an amazing experience at this gym. The atmosphere is welcoming, motivating, and perfect for anyone looking to improve, whether you’re a beginner or more advanced. The instructors Igor and Yumi are incredible, both extremely knowledgeable, patient, and friendly. They break techniques down in a way that’s easy to understand and make sure everyone gets proper attention. You can tell they truly care about their students’ progress. Highly recommend this gym to anyone wanting to learn skills from passionate coaches.
   - name: "Jermilyn Pilapil"
     rating: 5
-    date: "2026-06-12"
     comment: |
       I highly recommend going here especially if you’re a beginner in MMA! Went in and was greeted by the sweetest and friendliest lady, Yumi, who is also one of the trainers at tr1be. Igor and Yumi are both super knowledgeable, patient and really cater to all levels of experience. I decided to continue my journey with them after my first class and they’ve been amazing at guiding me through techniques, drills as well as the rest of the class who are some of the most welcoming and kindest people you’ll ever meet! If you’re planning to start, I’d take this as your sign to visit this mma gym! You’ll not only find yourself feeling good physically, but the support and encouragement that you receive from this community, will inspire you to want to grow with the rest of the class and trainers at tr1be :)
   - name: "filip ek"
     rating: 5
-    date: "2026-07-23"
     comment: |
       Had my first class here yesterday
       and absolutely loved it. The coach was fantastic, explained everything clearly, and the combinations were both fun and challenging. Everyone was welcoming, and the atmosphere made it easy to enjoy the training. Definitely one of the best Muay Thai sessions I’ve been to. Highly recommend!

@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Christine C"
     rating: 5
-    date: "2026-06-02"
     comment: |
       Danny was fantastic to work with! He was friendly, professional, knowledgeable, and took the time to explain everything clearly. He arrived promptly, quickly diagnosed the issue, and had my kitchen sink draining perfectly again in no time. He also performed a camera inspection and provided helpful maintenance advice.
       
@@ -48,13 +47,11 @@ reviews:
       Thank you again to Danny and Beth for the excellent service and support! =)
   - name: "Emily Dinning"
     rating: 5
-    date: "2026-06-25"
     comment: |
       Mohamed S. deserves all of the praise. Our house flooded (twice) and we couldn’t find the source of the overflow. We called and by the next morning Mo was here. He went above and beyond our expectations. He showed up in the midst of chaos and offered his insight. We truly appreciate his professionalism and knowledge. We cannot thank him enough. He did a fantastic job. The gentlemen pros will be who we call whenever we are in need.
       Mo thank you again!!
   - name: "james Sydney"
     rating: 5
-    date: "2026-05-29"
     comment: |
       We've had a nightmare of an experience with a previous plumber doing a Poly B replacement,  I was reviewing Google reviews on the Gentleman Pros and reached out to Beth and see if they could help out.  From that initial contact with Beth I felt confident in this decision, she was knowledgeable and helpful with all my questions and let me know she would follow up at each step of this process to ensure my satisfaction.
       
@@ -79,12 +76,10 @@ reviews:
       James
   - name: "Nicole Morfetas"
     rating: 5
-    date: "2026-07-02"
     comment: |
       Very professional and thorough. Answered every question I had about my home. Great peace of mind.  Conrad did a fantastic job explaining everything and going above expectation with answering my questions. Also the first person I spoke to on the phone to book was very patient and kind and down to earth. Great experience with this company
   - name: "Tammy G."
     rating: 5
-    date: "2026-08-06"
     comment: |
       Riley was fantastic to work with. He was very professional , knowledgeable and friendly. He took time diagnosing and explaining his findings.  As the steam shower will need more intervention and possible total replacement, I feel confident that with his expertise I will have a very satisfactory outcome.  He deserves 5 stars.  I would absolutely recommend Riley B based on his professionalism, expertise and superior customer service.
 ---

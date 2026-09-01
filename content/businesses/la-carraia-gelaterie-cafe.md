@@ -32,27 +32,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Vince T"
     rating: 1
-    date: "2026-03-19"
     comment: |
       My wife and I visited to try their ice cream for the first time. When we mentioned it was our first visit and that we weren’t sure which flavors to choose, we were a bit surprised by how the lady responded. Her reaction felt off and not very welcoming. I’m not sure if she was the owner, but she seemed to change her attitude once she realized we were serious customers. Honestly, based on that experience, I don’t feel she deserved a tip. Not coming back.
   - name: "Karm Sekhon"
     rating: 5
-    date: "2026-06-09"
     comment: |
       Amazing experience! The staff was incredibly friendly and helpful, making our visit even better. Our Gelatos were absolutely delicious!
   - name: "Aaron Wannamaker"
     rating: 5
-    date: "2026-07-22"
     comment: |
       The gelato was incredible (specifically the Amarena Cherry flavor) and the staff were very friendly. The staff also confirmed that the ingredients were halal, so that's good for fellow Muslim visitors.
   - name: "Amrit"
     rating: 5
-    date: "2026-03-21"
     comment: |
       My group and I visited an hour before closing and the staff were super sweet, friendly, and patient. We all tried different flavours and enjoyed everything. My favourite was the orange chocolate! The gelato was so creamy and all flavours were well balanced. Will definitely be back to try more flavours!
   - name: "Patrick Tsang"
     rating: 5
-    date: "2024-03-14"
     comment: |
       La Carraia in downtown Edmonton is a gelato delight! They have an incredibly diverse array of flavours available and I have never had a bad experience here. The friendly staff and cozy vibe enhance the experience, all at an affordable price. Their pistachio flavour is one of my favourites. It's my top choice for fantastic gelato in downtown Edmonton! 🍨🌟
 ---

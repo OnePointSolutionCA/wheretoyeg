@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Saqar Saab"
     rating: 5
-    date: "2026-04-23"
     comment: |
       Takes great shots ! Very accommodating. Thank you!
 ---

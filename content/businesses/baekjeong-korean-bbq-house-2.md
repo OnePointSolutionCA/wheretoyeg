@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Tri Q Trinh"
     rating: 5
-    date: "2026-05-17"
     comment: |
       My family of 4 had a fantastic experience at Baekjeong Korean BBQ House. We ordered the BBQ combo for 4 people, and everything was absolutely delicious. The meat quality was excellent, well-marinated, fresh, and full of authentic Korean BBQ flavor. The side dishes were also very tasty and constantly refilled.
       
@@ -43,7 +42,6 @@ reviews:
       If you love Korean BBQ, this place is definitely worth visiting. We will absolutely come back again.
   - name: "Florence Haris"
     rating: 5
-    date: "2026-05-18"
     comment: |
       This place is so worth it!
       
@@ -52,7 +50,6 @@ reviews:
       The servers were very friendly and fast. Over all, one of the most worth it K-BBQ we all have been to.
   - name: "Fovea Wong"
     rating: 5
-    date: "2026-04-12"
     comment: |
       Baekjeong Korean Grill is one of those places that turns a simple meal into an experience.
       
@@ -69,12 +66,10 @@ reviews:
       A solid choice when you’re craving Korean BBQ done properly — satisfying, interactive, and worth coming back for.
   - name: "Gurleen Kaur"
     rating: 5
-    date: "2026-05-04"
     comment: |
       Wow! What an experience!! We visited here on our marriage anniversary, and we loved it. The whole experience was interactive, fun, and cozy. Loved the seating area which adds a bit of privacy. The sides were could order multiple times along with rice, kimchi, lettuce, etc. Definitely worth the try!
   - name: "Let's Eat!"
     rating: 4
-    date: "2026-01-19"
     comment: |
       One of the OG Kbbq places in the city. Consistently good quality beef that always leaves us satisfied. Some would say it is a bit pricey but tbh, beef is not cheap. They serve sterling tier beef which is about as good as it can get in Canada. Not Wagyu but that is understood. Service is fine and we enjoy Noah quite a bit. He is always attentive with regards to changing our grill when it becomes too charred. Also, the Southside location is the OG and our preferred over the west end. The same owners own BB2 but tbh Baek Jeong is simply better although there is no ayce option. Our go to is always the premium beef combo for 2. Finally, word of advice to the uninitiated, you WILL leave smelling like your meal so don't wear your Sunday's finest if the lingering smell after you leave bothers you! Overall, this is a 4.5/5 for me.
 ---

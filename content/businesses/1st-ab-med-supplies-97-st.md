@@ -20,8 +20,8 @@ hours:
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/1st-ab-med-supplies-97-st.png"]
-rating: 5.0
-review_count: 5
+rating: 5
+review_count: 11
 price_range: "$$"
 amenities:
   - "In-Store Shopping"
@@ -36,9 +36,12 @@ featured: true
 active: true
 date_listed: "2026-08-17"
 reviews:
+  - name: "Haifa Alje"
+    rating: 5
+    comment: |
+      Great place with amazing service! Bushra provided the best customer service. She was so kind and helpful!
   - name: "Yasmeen EA"
     rating: 5
-    date: "2026-08-12"
     comment: |
       Bushra is great help! She’s always willing to go above and beyond to assist and make sure I get the right product for my needs
 ---

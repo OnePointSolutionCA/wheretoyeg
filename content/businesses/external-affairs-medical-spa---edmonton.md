@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Tzad"
     rating: 5
-    date: "2026-05-01"
     comment: |
       I had such a great experience getting my lash lift done! She was incredibly friendly, kind, and professional from start to finish.
       The atmosphere was calm and relaxing, and the staff made me feel comfortable right away.
@@ -38,25 +37,21 @@ reviews:
       I’m so happy with how everything turned out definitely recommend!
   - name: "Jennifer Starko"
     rating: 5
-    date: "2026-06-29"
     comment: |
       Samia was wonderful. She was professional, knowledgeable and made me feel very comfortable. This was my first time getting filler and I was feeling quite anxious. Samia explained everything very well and she made my experience much better than anticipated. I’ll definitely be back to see her. Thanks again Samia!
   - name: "Katie M"
     rating: 5
-    date: "2026-05-09"
     comment: |
       I absolutely love going to the Edmonton location! Shelly is an amazing nurse. I know she only works Fridays, but she is one of the kindest and most knowledgeable people I’ve met.
       I also can’t say enough good things about the girls at the front desk. Joelle and Jade are so kind, welcoming, and funny. They make me feel completely comfortable, like I’m talking to my sisters. I genuinely love it there and always have such a great experience!
   - name: "Brigitte savignac"
     rating: 5
-    date: "2026-05-23"
     comment: |
       I felt I really needed to make this post today because it is rare these days that a business will refuse to do a treatment ($1250- CO2) on you because they felt like it would not be beneficial to you...... (my face was  kind of tanned... I forgot to put suntan protector). I'm also leaving the whole summer.  Diana, has been working with my skin for 10 yrs and I really trust her.
       
       The receptionist Joelle (Edmonton location) is the best... She has accommodated me so many ways. Every time I have been there, I feel welcomed and respected. The whole staff are very well trained and will NEVER OVERSELL YOU products ( I used them all-- pharmaceutical grades & well reviewed) or treatments that you don't need!! They really care!... I encourage you to try and see how beautiful they will make you... I GIVE THEM 11/10.
   - name: "Danielle Keil"
     rating: 5
-    date: "2026-07-24"
     comment: |
       Samia Taouis was absolutely amazing today! I came in after being away for a year I felt old.. the minute she turned the corner , her kindness and presence was amazing! I didn’t feel any needles she was so gentle and thorough ! I felt so comfortable and left feeling young again! Thankyou Samia!!! You made my day!!
 ---

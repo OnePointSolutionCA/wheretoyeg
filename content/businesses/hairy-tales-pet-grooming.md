@@ -30,27 +30,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Nicole Vandekamp"
     rating: 5
-    date: "2026-03-22"
     comment: |
       Cooper had his first introductory groom! And it was excellent. Was nice to get him all trimmed up and able to see out of his eyes again and for us to see his eyes better! This isn’t a full groom as it was an intro one where he gets used to being brushed, blow dried, washed, trimmed. Booking another groom soon!
   - name: "Tammy Vowel"
     rating: 5
-    date: "2026-03-29"
     comment: |
       My dog Casey came home from her grooming appointment looking beautiful, but most important, she was relaxed and happy when I picked her up. She very obviously enjoyed her time with Tatiana and the quality of the groom was exceptional.
   - name: "Alexandrea Bowes"
     rating: 5
-    date: "2026-02-08"
     comment: |
       Tetiana did such a wonderful job with my small standard poodle. She understood what I was looking for in the cut and my dog came out looking as expected. Definitely take your pup here.
   - name: "Marie-France LeBlanc"
     rating: 5
-    date: "2026-04-12"
     comment: |
       We are beyond happy with how great ours boys look after their grooming with Tatiana. Try her out!
   - name: "Sarah Komorowski"
     rating: 5
-    date: "2026-07-09"
     comment: |
       My pup usually is anxious going to the groomers but she loves it here! We call it her spa day and she looks so cute every time!
 ---

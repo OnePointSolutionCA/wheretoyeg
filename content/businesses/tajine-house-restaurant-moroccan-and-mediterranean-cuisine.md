@@ -34,7 +34,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Deeptha Trigunayat"
     rating: 5
-    date: "2026-07-25"
     comment: |
       My husband and I happened to be in the neighborhood and decided to stop into Tajine House for lunch, and we're so glad we did! Hassan and one of his coworkers welcomed us so warmly and made us feel right at home. They took the time to recommend authentic Moroccan dishes, and their suggestions were absolutely spot on.
       
@@ -43,22 +42,18 @@ reviews:
       We'll definitely be back soon and highly recommend Tajine House to anyone looking for delicious, authentic Moroccan food and exceptional service!
   - name: "Angella Levi"
     rating: 5
-    date: "2026-02-16"
     comment: |
       🥹 I LOVED! I’d been craving lamb tajine for a long time and this place did not disappoint.  The food was so so good!! Our host was lovely and accommodating. I only thought to take pictures after we’d already started eating but trust me, the presentation was amazing. I honestly have nothing bad to say. I will be back and will tell everyone I know about this place.
   - name: "Jason Wei"
     rating: 5
-    date: "2026-08-03"
     comment: |
       First time trying Moroccan cuisine, the lamb dish here  is amazing, lamb was cooked perfectly. Bread is included in the meal, tastes very good. Moroccan special mint tea is a must try, the waitress here will show her amazing tea pouring skill. Also the washroom is super clean. It was an excellent dining experience, will come back to try more dishes.
   - name: "Salma K"
     rating: 5
-    date: "2026-06-29"
     comment: |
       Very good! I had the chicken tajine  with vegetables, and it was delicious. My husband ordered the grilled platter, but we didn’t enjoy it as much. If you’re going to a Moroccan restaurant, I definitely recommend trying a Tajine. The soup was also excellent, and we loved the assortment of traditional Moroccan cookies served with the Moroccan tea. I would definitely come back!!
   - name: "Abrar Islam"
     rating: 5
-    date: "2026-04-05"
     comment: |
       This might be a underrated hidden gem. It doesn't pop up in most popular Edmonton restaurants and wasn't busy on the Saturday I came. But it's really good. Lots non-rice dishes that are super flavorful and different from the traditional Arab halal cuisines you get. The seafood pastilla and the kofta tajine were both delicious. The service did take some time but everything was served completely fresh. Definitely recommend!
 ---

@@ -33,29 +33,24 @@ active: true
 reviews:
   - name: "shayla appell"
     rating: 5
-    date: "2026-01-21"
     comment: |
       Had my first experience at Shadow Box Studios yesterday and everything was great! The studio was roomy and had tons of different "vibes" to shoot in throughout the room. I especially loved their big bean bag chair and some of the props.
       
       When I arrived, my backdrop was set up for me and the instructions to enter were super easy to follow. Will definitely be booking more shoots for my business here!
   - name: "Ines P"
     rating: 5
-    date: "2023-02-14"
     comment: |
       We booked this event studio for my daughter's baby shower. The room was clean and spacious. There was plenty of room for my 30 guests and easily would hold more. The decor was beautiful. The manager responded to all my messages quickly. Would rent this space again. Thank you so much.
   - name: "JVP"
     rating: 5
-    date: "2020-12-08"
     comment: |
       I've booked this studio twice now for family pics, it is perfect!  Viewing the calendar and booking online is easy and the owners replied to my questions right away. The space is big and bright with lots of great props and backgrounds. Big enough for the kids to play on one side while taking photos on the other side, and for group shots of all 12 of us.  There is a washroom, mini fridge, and lots of chairs, so no worries about breaks and snacks.
   - name: "John Valle"
     rating: 5
-    date: "2024-12-03"
     comment: |
       Such a great to studio with big space and furniture as props. Client had fun and was able to accommodate their families for their surprise proposal. Will definitely rent again for future shoots.
   - name: "Charlotte Roy"
     rating: 5
-    date: "2018-08-29"
     comment: |
       Could not recommend this place more!
       

@@ -34,7 +34,6 @@ active: true
 reviews:
   - name: "Esa Salahuddin"
     rating: 5
-    date: "2025-08-13"
     comment: |
       Great tasting food and a menu full of variety! Staff is very friendly and you feel welcomed.
       
@@ -43,22 +42,18 @@ reviews:
       We had a great experience and would love to go back.
   - name: "Usman Rafique"
     rating: 5
-    date: "2024-10-10"
     comment: |
       Super fresh, great taste, clean place, and quick service. On top of that there's a kids play area. Great place overall. Prices are just right for the fresh food you get, no complains on that part. We ordered Fattoush, hummus with meat, one mix grill, a flatbread manaqeesh, and we were quite full by the end of gobbling all that!
   - name: "Raisa Catunda"
     rating: 5
-    date: "2025-09-26"
     comment: |
       Kasem made our experience incredible at Paramount. He was so kind, attentive and very polite. He always made sure to check our table and offer the best dishes! I highly recommend this place!
   - name: "Ahmad Daadaa"
     rating: 5
-    date: "2023-09-03"
     comment: |
       I had a fantastic experience during my lunch visit here. The bread was freshly made, hot, and puffy, which paired perfectly with the delicious hummus. The food and customer service were beyond amazing! I wholeheartedly recommend this place. A special thanks to our table attendant, Nida, she was incredibly friendly and attentive.
   - name: "Karim Noueihed"
     rating: 2
-    date: "2023-12-18"
     comment: |
       *Food*
       

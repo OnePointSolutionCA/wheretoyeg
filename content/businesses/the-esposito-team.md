@@ -30,19 +30,16 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Charlie Xin"
     rating: 5
-    date: "2026-04-20"
     comment: |
       Five stars are simply not enough to express my gratitude for Aldo Esposito! From start to finish, Aldo demonstrated exceptional professionalism and deep industry experience. His communication skills are top-notch; he kept me informed and confident throughout the entire process. He worked hard and communicated with all parties in high efficiency. Aldo came to the table with a brilliant, clear strategy for selling my home, and the results speak for themselves. My house was sold in just 2 days! Not only was it incredibly fast, but he also managed to secure a final selling price —well above my asking price . Truly an amazing job. If you want a top-tier real estate agent who delivers spectacular results, Aldo is the one to call. Thank you, Aldo!
   - name: "Susi Mahi"
     rating: 5
-    date: "2026-05-19"
     comment: |
       We had an excellent experience working with Aldo to sell our home. From the beginning, he gave thoughtful, knowledgeable advice that helped us prepare and price our house well, and it sold in just 6 days!
       What especially stood out to us was not only his professionalism and expertise, but also how personable and supportive he was throughout the process. He handled so many details behind the scenes that made everything feel much smoother and far less stressful for us.
       We always felt informed and confident that we were in good hands. We would highly recommend him to anyone looking to buy or sell a home.
   - name: "Valerie"
     rating: 5
-    date: "2026-07-10"
     comment: |
       We had an outstanding experience working with Aldo. Since we were living in Nova Scotia and buying a home in the Edmonton area, having someone we could completely trust was incredibly important—and he exceeded all of our expectations.
       
@@ -53,7 +50,6 @@ reviews:
       We highly recommend the Esposito Team to anyone looking for a knowledgeable, professional, and genuinely caring real estate agent. Thank you for making our move from Nova Scotia to Edmonton such a positive experience!
   - name: "Kirsten Holloway"
     rating: 5
-    date: "2026-06-09"
     comment: |
       Selling a home can be overwhelming, but Aldo made the entire experience so much easier. From our first conversation to closing day, he was professional, knowledgeable, and always had our best interests at heart.
       
@@ -64,7 +60,6 @@ reviews:
       We would absolutely recommend Aldo and the Esposito Team to anyone buying or selling a home. If you're looking for a realtor who is not only knowledgeable and hardworking but also truly cares about his clients, you're in great hands.
   - name: "Janine & Marek"
     rating: 5
-    date: "2026-06-06"
     comment: |
       We had an outstanding experience working with Mirella to sell our home. From start to finish, she was professional, responsive, and incredibly detail-oriented. Every question was answered promptly, and she made what can often be a stressful process feel simple and seamless.
       

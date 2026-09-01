@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "cat bite"
     rating: 5
-    date: "2026-07-16"
     comment: |
       If you’re looking for a ballroom and Latin dance school, this is exactly the place you need!
       
@@ -41,22 +40,18 @@ reviews:
       This school is more than just a place to learn how to dance—it’s a community where confidence, discipline, and a love for dance grow together. I highly recommend it to anyone looking for high-quality dance instruction and an amazing experience!
   - name: "Borys Gorfunkel"
     rating: 5
-    date: "2026-03-05"
     comment: |
       This is one of the best Latin dance studios I’ve ever seen. The instructors are very professional and make every class exciting and fun. Highly recommend!
   - name: "Anna Mineev"
     rating: 5
-    date: "2026-03-09"
     comment: |
       Such a great experience! I recently started private dance lessons and I’m very happy with my progress. The studio is fantastic. Definitely recommend.
   - name: "Ника Кононенко"
     rating: 5
-    date: "2026-03-17"
     comment: |
       Very professional studio. Clean, organized, and teachers really care about students. Best place to learn ballroom and Latin dance.
   - name: "Cristina Budnitcaia"
     rating: 5
-    date: "2026-03-05"
     comment: |
       Great Latin dance studio! Amazing teachers and fun classes.
 ---

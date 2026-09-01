@@ -30,29 +30,24 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Osamuskwasis Roan"
     rating: 1
-    date: "2026-07-01"
     comment: |
       Usually go here for manis and pedis, but received terrible service.
       I didn’t get what I asked for, and the nail tech was rude and did a terrible job on my toes and fingers. I’m actually really disappointed because I really liked this salon when I first went.
       I had explained to the tech that I needed my toes scrubbed and cleaned as I spend a lot of time outdoors and she didn’t do any of that just painted over top of the dirt. The gel polish is also very lumpy and my nails are snagging on everything. :( paid $100 for this.
   - name: "Melanny Ramos"
     rating: 5
-    date: "2026-06-28"
     comment: |
       Called morning of and got an appointment for a pedicure easily. Jade was sweet and It was just a nice relaxing time, got me green tea which was nice since its been cold and raining. The place looks as cute and girly as it always does! Massage chairs are so relaxing and definitely needed after a long month lol. She let me finish my massage time even after she was done with my pedicure. (Also huge,  beautiful, bird of paradise in the corner!🩷)
   - name: "Olivia Benson"
     rating: 5
-    date: "2026-03-18"
     comment: |
       I switched over to gel x nails from acrylic and started coming here as my previous salon didn’t offer gel x. I’m always super happy with my results and they last forever with minimal nail damage. The price is always reasonable as well especially considering the quality and longevity. Salon always feels very clean too which is nice. Every nail tech i’ve had has done a great job and I will always come back here when i’m in town!
   - name: "Kim Zomerman"
     rating: 5
-    date: "2026-07-17"
     comment: |
       I always get the best pedis from here, the staff are sweet, and salon is always stunning. I have been coming for several months + and they have delivered consistent service each time. I have also seen many of their techs so you are in safe hands no matter who you are with. Highly recommend.
   - name: "Aimee Tschritter"
     rating: 2
-    date: "2026-07-03"
     comment: |
       The things I’m giving points for is how clean the salon is. They have dedicated custodial staff who are patrolling the salon and working to make sure everything is clean. I really appreciate that. The salon itself is also absolutely beautiful.
       

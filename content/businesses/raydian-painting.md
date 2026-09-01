@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Leanne"
     rating: 5
-    date: "2026-06-01"
     comment: |
       We recently had our entire house and kitchen painted by Raydian, and the experience was outstanding from start to finish. Their communication was excellent throughout the entire project, and they were always professional, responsive, and easy to work with.
       
@@ -41,12 +40,10 @@ reviews:
       We are so happy with the results and would highly recommend Raydian to anyone looking for a professional, reliable painting company that truly cares about delivering exceptional work!
   - name: "marilyn johnman"
     rating: 5
-    date: "2026-06-25"
     comment: |
       Absolutely thrilled with my newly painted kitchen and bathroom cabinets. From start to finish, Raydian did everything they promised and that I asked for. Sharif came to my home to explain the process, answer my questions and provide a timely quote. After meeting him, I didn’t bother asking another company to quote on my project. Sharif and his team clearly take pride in their work and ensuring customers are happy with the end results. The friendliness and professionalism of everyone I interacted with made the whole process so pleasant. The detail and care taken during the prep stage and installation stage was second to none. Great job Jorge and Oscar! The before and after was breathtaking. Without hesitation, I wholeheartedly recommend you contact Raydian for your project. You won’t be disappointed!
   - name: "Patricia Devaney"
     rating: 5
-    date: "2026-02-24"
     comment: |
       We had an outstanding experience with Raydian Painting. Our newly painted cabinets look absolutely elegant and sharp. The finish is smooth, clean, and completely transformed the space. The attention to detail truly shows in the final result.
       
@@ -55,12 +52,10 @@ reviews:
       It is refreshing to work with a company that is genuinely committed to customer satisfaction. I highly recommend Raydian Painting to anyone looking for quality workmanship and a seamless, positive experience.
   - name: "Lane Abrams"
     rating: 5
-    date: "2026-06-09"
     comment: |
       We were extremely happy with the service we received from Raydian. Their work was professional and appears to be of high quality. I have every belief that it will standup for years to come. Our kitchen looks brand new. Would highly recommend.
   - name: "Mohamad A"
     rating: 5
-    date: "2026-05-13"
     comment: |
       My kitchen never looked better!
       

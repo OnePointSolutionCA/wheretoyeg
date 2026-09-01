@@ -32,7 +32,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Dani Le"
     rating: 5
-    date: "2026-04-16"
     comment: |
       Came here to check out their menu, and it really hit the spot. The Pad Thai was perfectly cooked and had a great balance of flavors, slightly sweet, a little tangy, and not too heavy. Everything tasted fresh, and the portion size was just right.
       
@@ -41,7 +40,6 @@ reviews:
       Overall, it was a really solid experience. Nothing over-the-top fancy, but dependable and enjoyable. If you’re craving Thai food, especially pad thai, this place is definitely worth checking out. I’d come back again and try more from the menu.
   - name: "Marc D."
     rating: 5
-    date: "2026-05-17"
     comment: |
       We've been on the hunt for a new Thai restaurant and I believe we've found our new favourite spot in Thai Avenue.
       
@@ -54,12 +52,10 @@ reviews:
       It's probably a good thing we don't live nearby, otherwise I'd be coming Thai Avenue Restaurant a lot more often for all their delicious food.
   - name: "Csyra Piañar"
     rating: 5
-    date: "2026-02-24"
     comment: |
       The food was very yummy and the portions were generous. The Crispy Chicken Salt & Pepper Stiry fry was very light, crispy and flavourful. The Green Curry w/ Beef had a nice mild spice to it and was a great topping for our coconut rice. For dessert we had the Rainbow Mango (mango sticky rice with mango ice cream) and was also very yummy and not too sweet. Will definitely be back.
   - name: "Y.Kim"
     rating: 5
-    date: "2026-03-26"
     comment: |
       She had a reason for confidently recommending the Tom Yum—and She was right. The moment I tried the Tom Yum soup from the lunch set, I was genuinely surprised. It tasted just like what I had in Thailand.
       •	Even the basics like the coconut rice were perfect—the flavor and texture were so good that I could’ve enjoyed it on its own.
@@ -71,7 +67,6 @@ reviews:
       P.S. The Thai iced coffee is much sweeter than you might expect.
   - name: "Racheel Jadee"
     rating: 5
-    date: "2026-06-08"
     comment: |
       Came across this place on Instagram and decided to take my mom for the first time on Mother’s Day and I will say it did not disappoint! I drive 30 mins from the southside just for this!! I get the Khao Soi and it is probably one of the best most flavourful dishes I’ve ever had in my life!!! Hands down my new favourite place and I’ve already been back 3 times since. The staff are amazing, such sweet people and the atmosphere is so inviting. If you haven’t already been here CHECK IT OUT! You will not be disappointed. 🙌🏼❤️
 ---

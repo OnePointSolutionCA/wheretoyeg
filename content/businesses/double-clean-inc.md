@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Jaye"
     rating: 5
-    date: "2026-07-10"
     comment: |
       I've had nothing but positive experiences with Double Clean. The owner, Mona, has been a doll to work with – she always responds as soon as she's able, and is helpful and kind.
       
@@ -39,7 +38,6 @@ reviews:
       I highly recommend Double Clean.
   - name: "Culfidant"
     rating: 5
-    date: "2026-06-16"
     comment: |
       We recently had a rental property in Sherwood Park, AB where the previous tenants arranged carpet cleaning services through Double Cleaning prior to moving out. Overall, the cleaning work was completed to a high standard overall.
       
@@ -54,7 +52,6 @@ reviews:
       Sincerely, Tom from X Roar Community
   - name: "HCD Real Estate Management"
     rating: 5
-    date: "2026-07-01"
     comment: |
       Excellent service from start to finish! Communication was fantastic—Mona responded very quickly, were easy to reach, and made the entire booking process simple and stress-free. She clearly understood what I needed and scheduled the cleaning right away.
       
@@ -63,14 +60,12 @@ reviews:
       I highly recommend this company to anyone looking for reliable, professional cleaners with great communication and exceptional results. I'll definitely be using their services again!
   - name: "Ethan Duret"
     rating: 5
-    date: "2026-07-10"
     comment: |
       I had a great experience with Double Clean Inc. From the initial booking to the completed service, everything was professional and well organized. The team arrived on time, paid attention to the details, and left the space looking spotless. They were friendly, efficient, and clearly take pride in the quality of their work.
       
       It's hard to find a cleaning company that's both reliable and consistent, but Double Clean delivered exactly what they promised. I would definitely recommend them to anyone looking for residential or commercial cleaning services in Edmonton, and I'll be using them again in the future.
   - name: "Sarah Ward"
     rating: 5
-    date: "2026-07-29"
     comment: |
       We started using Double Clean after cancelling our previous service due to poor work. We could not be happier with our choice. The employees arrive on time, work quickly, charge a reasonable price, and do excellent work. It is also very easy to book and re-schedule cleaning appointments. I highly recommend this business.
 ---

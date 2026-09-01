@@ -32,12 +32,10 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Mason Yong"
     rating: 5
-    date: "2026-06-12"
     comment: |
       Had a great experience here! The service was excellent, everyone was friendly, attentive, and made us feel very welcome. The atmosphere is clean, relaxing, and very family friendly, making it a great place to enjoy a meal with loved ones. The restaurant is beautifully designed and has a warm, inviting feel. You can tell it's a family owned business that takes pride in both the food and customer experience. Highly recommend, and I'll definitely be coming back!
   - name: "Nadia Clark"
     rating: 5
-    date: "2026-05-18"
     comment: |
       Absolutely loved this restaurant! The food was incredible — every dish was fresh, flavorful, and clearly made with care. The portions were very generous, which made the experience even better.
       
@@ -48,14 +46,12 @@ reviews:
       Highly recommend — we’ll definitely be back!
   - name: "RYAN H"
     rating: 5
-    date: "2026-05-06"
     comment: |
       New Viet restaurant on the West’ish side of the city. Inside is very nice, the price is on the more expensive side but it was honestly worth it. High quality ingredients and the service was very friendly.
       
       Ordered the #12 Bo Lap Lop, #29 Pho Dac Biet, #39 Bun Bo Hue. Both soups were so good, the broth on both not too heavy and very flavourful. Thoroughly enjoyed both. Meat was tender. The beef in betel leaf appetizer (has peanuts — fyi as it’s not stated on the menu) was good with either peanut sauce or fish sauce. Food came it out abit slow, but it was their opening week. Would love to come back to try out the other options.
   - name: "Ann Nguyen"
     rating: 5
-    date: "2026-05-10"
     comment: |
       I visited Edmonton Valley Zoo and happened to discover this newly opened restaurant not too far from there. What a lovely find!
       
@@ -67,7 +63,6 @@ reviews:
       Overall, a very good experience. I would recommend this restaurant, especially if you are visiting the Edmonton Valley Zoo area and looking for a comfortable place to enjoy authentic Vietnamese food.
   - name: "Alice T"
     rating: 5
-    date: "2026-05-19"
     comment: |
       As someone who comes from a Vietnamese family who is Huế and only has a handful of Vietnamese restaurants we return to in the city, we were very impressed by the food, service, and atmosphere of Đặc Biệt.
       

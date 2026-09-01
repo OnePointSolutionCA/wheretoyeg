@@ -32,17 +32,14 @@ date_listed: "2026-08-30"
 reviews:
   - name: "R S"
     rating: 5
-    date: "2026-07-27"
     comment: |
       Really enjoyed the pasta. Loved the touch of fennel shreds in the ceaser, all dishes were lovely and the service was great! I’d definitely return. One note for the focaccia bread and oil, we ended up moving the oil and vinegar to one of our side plates instead a bowl because it wasn’t as enjoyable dipping into a bowl.
   - name: "JonJonPoPong"
     rating: 5
-    date: "2026-07-25"
     comment: |
       Vaticano is a nice little restaurant, it doesn't look like much from outside but its very nicely designed on the inside. I've been twice and had a really good experience both times. The service has been good, the food delicious and the prices fair enough. Its not super expensive, but it is 40-50 a main, bit more than a regular restaurant. The only complaint id have here is the pizza we ordered on the 2nd trip here, wasnt really good. Just not to my personal taste.
   - name: "Sarah Curtiss"
     rating: 5
-    date: "2026-04-06"
     comment: |
       Vaticano Cucina was a wonderful experience. I was really impressed with how many gluten-free options were available on the menu, which made the whole experience feel relaxed for me given my gluten allergy.
       
@@ -51,12 +48,10 @@ reviews:
       The atmosphere is beautiful and welcoming, and it genuinely reminded me of my recent trip to Italy. This place is a great place to dine whether you eat gluten free or not. Note that it is an extra $5 to upgrade to gluten free pizza or pasta, which makes the meal a bit pricier for the person with this dietary restriction.
   - name: "ACA"
     rating: 4
-    date: "2026-05-19"
     comment: |
       Really good Italian food in Edmonton! The thin crust pizza is very authentic :) Lasagna was pretty good too! Love the interior as well, highly recommend!
   - name: "Chantal Chesterman"
     rating: 5
-    date: "2025-11-30"
     comment: |
       Truly excellent experience.
       

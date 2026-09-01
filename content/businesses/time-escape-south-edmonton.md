@@ -30,27 +30,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Lisa Peterson"
     rating: 5
-    date: "2026-07-01"
     comment: |
       I've really enjoyed the escape rooms at the south location. The rooms and puzzles were challenging and very well designed! My friends and I had a blast and I highly recommend Time Escape. Shout out to Justin! He was a great game master. Thank you! I can't wait to come again!
   - name: "Mykouh Q"
     rating: 5
-    date: "2026-07-12"
     comment: |
       Yuru and Justin W made the experience absolutely amazing! The escape room itself was challenging, but very fair. The puzzles were well thought out and unique. They required more than just your basic click and solve puzzles. Thank you for the hospitality, we appreciate it greatly. - Michael
   - name: "jas fredz"
     rating: 5
-    date: "2026-05-11"
     comment: |
       Yuiu was awesome . The rooms are great and fun for the whole family . We almost passed . Best in the city .
   - name: "Kai"
     rating: 5
-    date: "2026-02-15"
     comment: |
       We had a great experience here for Valentine’s Day. The 2 boys at the front were so friendly & welcoming! Seriously shout out to them, we were so impressed. The 2055 room was tough & I wish we had an hour instead of 45 mins but the puzzles were fun and unique! Can’t wait to come back
   - name: "Keith Miller"
     rating: 5
-    date: "2026-06-25"
     comment: |
       Definitely recommend.  Our host, Justin, was super helpful and friendly. He even gave us a few extra minutes to see the puzzle to the end.
       The props were great and worked well. The puzzles (room 2055) were varied and definitely challenging but made sense.

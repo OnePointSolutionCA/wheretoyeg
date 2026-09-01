@@ -33,7 +33,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Imran Sarvaiya"
     rating: 5
-    date: "2026-08-07"
     comment: |
       Had a fantastic experience here!
       
@@ -44,23 +43,19 @@ reviews:
       If you’re craving authentic halwa puri, I definitely recommend giving this place a try. A great spot for breakfast. They also serve buffet that will try for sure.
   - name: "Malik Adeel"
     rating: 5
-    date: "2026-08-04"
     comment: |
       I had a wonderful experience at Salt & Grill, a Pakistani halal restaurant. The food was fresh, flavorful, and cooked perfectly. The Halwa Puri and Cholay Bhaturay were absolutely delicious and the buffet offered a great variety of dishes to choose from. The spices were perfectly balanced and the portions were generous. The staff were friendly and made me feel very welcome. The restaurant was clean and the overall atmosphere was reasonably inviting. If you are looking for authentic Pakistani halal food in Edmonton then give a try to Salt & Grill. i will definitely be coming back soon.
       in last the “CHAI WAS FANTASTIC”
   - name: "Binny M"
     rating: 5
-    date: "2026-08-04"
     comment: |
       Today we tried Halwa Puri, and it was absolutely delicious! 😋✨ It was their very first day of opening, and they did an amazing job. Wishing them lots of success and many happy customers. Looking forward to visiting again! 🎉🥳
   - name: "Karambir Ladhar"
     rating: 5
-    date: "2026-08-17"
     comment: |
       Tried the Chicken Karachi and Puri Chana at Salt & Grill, and both were absolutely delicious! Great flavors and very satisfying. I’ll definitely be back to try more dishes!!
   - name: "Rahim R. Moledina"
     rating: 5
-    date: "2026-08-12"
     comment: |
       Finally, I found it! The kind of authentic, delicious food I’ve been searching for. The Paya, Biryani, Haleem, and Nihari were absolutely amazing — full of flavour, perfectly cooked, and truly satisfying.
       

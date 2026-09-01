@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Tail Adventures"
     rating: 5
-    date: "2026-08-06"
     comment: |
       I had such an amazing experience at this laser studio! From the moment I walked in, everyone was so welcoming, kind, and professional. The studio is spotless, beautifully maintained, and has such a relaxing atmosphere.
       
@@ -41,23 +40,19 @@ reviews:
       - kaitlin
   - name: "Adela Delgado"
     rating: 5
-    date: "2026-04-20"
     comment: |
       Thanks to Sonya and her team for an awesome experience! My niece & I came in for a HydraFacial which left our skin glowing! Sonya was super knowledgeable, professional and took the time to review my current skincare routine and adjust how I have been using my products for maximum results. I really appreciated the time and care that she took with me!
   - name: "Anh"
     rating: 5
-    date: "2026-06-21"
     comment: |
       I had a really satisfied experience with Shelby. She patiently helped me to choose the right treatment for my acnes. She’s kind and professional, always make me feel welcomed.
   - name: "Miss Kimchi"
     rating: 5
-    date: "2026-03-26"
     comment: |
       I got a hydrafacial and peeling today with Shelby and it was amazing !
       She is lovely and veeery gentle,  explained everything very well and was incredibly nice. While it might be a bit early to judge, my skin already feels great and it had a nice glow after washing my face at home. It feels cleaner too. I will be seeing her for future events !
   - name: "Melanie W"
     rating: 5
-    date: "2026-01-26"
     comment: |
       I had a great experience at New Skin Laser Studio. I’ve been seeing Sonya since she was at her original studio downtown. The space is very clean, calming, & welcoming.  Sonya & Shelby are kind, professional, & knowledgeable. Always taking the time to explain everything so I feel comfortable & cared for. My skin felt amazing after my treatments, & love seeing the results! I would highly recommend this place to anyone looking for quality skincare & great service. Thank you ladies!
 ---

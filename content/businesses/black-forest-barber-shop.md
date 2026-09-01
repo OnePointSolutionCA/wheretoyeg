@@ -29,17 +29,14 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Ryan"
     rating: 5
-    date: "2026-04-19"
     comment: |
       I was in today for a haircut. As a first time client I was unsure of what to expect with my service. My barber made my experience one to remember and will keep me coming back as a repeat customer. The shop was clean and well maintained. I will definitely be recommending Black Forest Barber Shop to my friends who're looking for a new barber.
   - name: "Sam St. Cyr"
     rating: 5
-    date: "2026-05-28"
     comment: |
       10/10 Definitely going back. I usually avoid barbers as ive had bad luck with them. I went in yesterday with no clue what i wanted done and Seth gave me the best haircut I've ever gotten.
   - name: "Stephanie MacInnis"
     rating: 5
-    date: "2026-02-21"
     comment: |
       I booked an appointment for my fiancé with Cody and he had an amazing time!
       His hair looks great, he said the vibes were great, he loved the whiskey.
@@ -48,12 +45,10 @@ reviews:
       They go the extra mile! I’m glad he was able to get pampered & have a nice experience!
   - name: "Haylie L"
     rating: 5
-    date: "2026-03-07"
     comment: |
       Brought my teen for the first time yesterday, he's had bad luck with several other barber shops in the city. Seth listened to what he wanted, even showed him a photo on his phone to clarify, and gave him the best hair cut he's had in years. All the men that were working were super friendly to everyone, and every man that walked out while we were there looked really sharp.
   - name: "Cormac"
     rating: 5
-    date: "2026-02-05"
     comment: |
       Best Barber shop I've ever been to, the service is fantastic. My Barber Chris was amazing. Plus I absolutely loved the vibe of the shop, it feels like stepping back into the good ol' days.
 ---

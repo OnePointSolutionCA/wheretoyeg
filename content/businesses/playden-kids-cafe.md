@@ -30,27 +30,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Jeremy Chan"
     rating: 5
-    date: "2026-06-03"
     comment: |
       Good and clean play areas and even separate space for younger ones! Very reasonable drink and food prices. The owner is very nice and tries hard to make sure you have a good experience. Well done, we will be back!
   - name: "Carina Crooz"
     rating: 5
-    date: "2026-07-03"
     comment: |
       Visited today and immediately saved this place as one of my favorites! It was clean, cozy, and surprisingly peaceful for a kids’ café. I mean, it wasn’t crowded.. I loved that their French fries are baked instead of deep-fried, and the matcha was delicious too. Everyone was so kind and welcoming. We’ll definitely be back^^
   - name: "Steph M"
     rating: 5
-    date: "2026-06-01"
     comment: |
       We quickly pivoted here due to the rainy weather this past weekend and were very happy with the decision. We had a children's birthday party here (ages 3-5). The children loved the jungle gym area and the pretend play areas. It was easy to watch your child from the bright and open cafe areas. Natalya, the owner, was responsive and accommodating with the party registration and food order. The food platters and drinks were reasonably priced and had a good quantity for 12 children and 15 adults. This is a bright, clean centrally located play cafe. Highly recommend!
   - name: "Alghofaili Mooj"
     rating: 5
-    date: "2026-06-24"
     comment: |
       We love this place! My kids really enjoy it, and the staff are always kind and friendly. The food is great for kids, and they love it. They also have coffee for me to enjoy while the kids are having fun. Thank you! We’ll definitely be coming back every week!
   - name: "Aylin Guzmán"
     rating: 5
-    date: "2026-06-20"
     comment: |
       I absolutely loved this place! Very organized and clean, the areas are well-equipped, and the play areas are perfect for little ones. I noticed that the staff cleans regularly, which is very nice, and they're also very friendly! The bathrooms have diapers and wipes available if you need them. Good prices, delicious drinks—we'll definitely be back. Ideal for babies, a hidden gem!
 ---

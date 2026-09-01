@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Kat Klassen"
     rating: 5
-    date: "2026-05-13"
     comment: |
       Great experience, super friendly staff and reasonable prices!
       
@@ -39,17 +38,14 @@ reviews:
       Try the pause pedicure! Didn’t feel rushed at all, they took their time with each aspect and gave me more moisturizing and massage than any pedicure I’ve ever had in the city.
   - name: "Claire Williams"
     rating: 5
-    date: "2026-03-10"
     comment: |
       First time going. Very clean and professional environment, kind staff and amazing technique!! Will be back and will be recommending!!
   - name: "S A"
     rating: 5
-    date: "2026-03-22"
     comment: |
       They were able to accommodate my last minute walk-in and all of the staff were welcoming and friendly which made the experience that much more pleasant! The prices are comparable to other places and the location, staff, cleanliness of the place puts The Pause Nail Salon above the others. Would definitely go back here for future services!
   - name: "Delaney Mckerricher"
     rating: 5
-    date: "2026-04-25"
     comment: |
       Hands down the best nail salon I’ve ever been to. I’ve been here twice now, and both experiences were absolutely perfect. The staff are so friendly and kind, and they truly go above and beyond to make sure you’re comfortable and have everything you need.
       
@@ -58,7 +54,6 @@ reviews:
       Thank you to Kim, Mikey, and the whole team for such an exceptional experience. I’ll definitely be back!
   - name: "v mo"
     rating: 5
-    date: "2026-05-17"
     comment: |
       Great atmosphere and service!! Highly recommend. They do such a great job 👍🏽👍🏽
 ---

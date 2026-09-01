@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Sarah Van"
     rating: 5
-    date: "2026-07-27"
     comment: |
       Anejo blew my expectations out of the water! Looking at their menu online it sounded tasty 😋 and we decided to head over to Oliver Square to give them a try. Tons of parking and very little delays from the construction of the LRT.
       We were created with smiles, humour and felt like family. They recommended the patio and while the mainfloor looked comfortable,  the sunshine and cool breeze upstairs was wonderful.
@@ -45,7 +44,6 @@ reviews:
       I have already asked when we are going back. See you soon!
   - name: "Pratik G"
     rating: 5
-    date: "2026-05-20"
     comment: |
       I had been wanting to visit Anejo for quite some time after hearing great things from a friend, and yesterday we finally had the opportunity to stop by for lunch. Safe to say, it lived up to the recommendation.
       
@@ -58,7 +56,6 @@ reviews:
       Overall, we thoroughly enjoyed both the food and the setting. Anejo is definitely a must-visit spot, and it’s a place we would happily recommend to friends and family looking for great Mexican food, drinks, and a welcoming atmosphere.
   - name: "vikky"
     rating: 3
-    date: "2026-05-29"
     comment: |
       If you want good mexican food then don’t come here. The food was so mid and honestly pretty disappointing. Service was great and the location / environment are great. The drinks are good and they have a great variety. In terms of the food we ordered:
       6 tacos
@@ -83,12 +80,10 @@ reviews:
       They have a patio so you can enjoy your margs in the sun at least
   - name: "nins"
     rating: 5
-    date: "2026-03-08"
     comment: |
       Went during happy hour and the tacos and drinks were amazing. The prices were very reasonable. It was pretty busy which gave the place a really good vibe. Amanda was our server and she was so sweet and amazing the whole time!
   - name: "Chelsea E"
     rating: 5
-    date: "2026-06-24"
     comment: |
       My partner and I, spontaneously went to check out this place. 1000/10 made our night. The fella that was our server helped us find items on the menu that are celiac ( flour in the kitchen) and pescatarian safe. The ambiance of the restaurant was welcoming and perfectspot to catch up with familyor friends. Both our dishes were remarkable. Shout out to the chefs for creating a legendary menu. Out of Luna Mexican and Julio's Barrio Mexican restaurant. Añejo restaurant is the best for price, expensive and quality of items.
       Thank you for continuing to make the brewery area proud.

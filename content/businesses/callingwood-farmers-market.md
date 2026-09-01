@@ -29,7 +29,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "The Teapot Dormouse"
     rating: 4
-    date: "2026-07-27"
     comment: |
       Callingwood Farmers’ Market Review
       
@@ -59,7 +58,6 @@ reviews:
       Callingwood Farmers’ Market is one of Edmonton’s best community markets for fresh food and locally made goods. Whether you’re looking for seasonal produce, handcrafted gifts, or simply a fun weekend outing, it’s well worth a visit.
   - name: "kim ga"
     rating: 5
-    date: "2024-09-03"
     comment: |
       This farmers' market is open on Sundays during summer, with both outdoor and indoor vendors. They also open on Wednesdays, but it is a smaller version.
       
@@ -70,17 +68,14 @@ reviews:
       Although the prices might not be the lowest, the atmosphere was great.
   - name: "Matthew Aseltine"
     rating: 4
-    date: "2026-07-26"
     comment: |
       A unique collection if vendors selling everything from fresh fruit to specialty items. Definitely a good way to spend and afternoon checking out this vibrant scene.
   - name: "Stephanie B"
     rating: 5
-    date: "2026-01-19"
     comment: |
       Love the Callingwood Market! It's close to home for me so I like the convinience and it all depends what you're looking for. The kimchi place is amazing, good variety and quality for fruits and veggies and Theos has great tzatziki.
   - name: "KL"
     rating: 4
-    date: "2026-06-14"
     comment: |
       This was a nice outdoor event for the weekend . They have different local vendors selling various types of food, sauces, art , car cleaners , 3d printed ornaments and plants. It's a great way to spend your day with the family and enjoy what  local vendors have to offer.
 ---

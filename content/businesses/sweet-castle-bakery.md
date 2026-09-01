@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "khulood mousa"
     rating: 5
-    date: "2026-05-28"
     comment: |
       Sweet Castle Cafe & Bakery is an absolute gem! From the moment you walk in, you are welcomed with a warm atmosphere and outstanding customer service. The food and baked goods are always fresh, delicious, and beautifully presented.
       
@@ -41,23 +40,19 @@ reviews:
       If you’re looking for a place with great coffee, delicious treats, and exceptional service, I highly recommend Sweet Castle Cafe & Bakery. Definitely a 5-star experience, and I will be coming back again and again!
   - name: "Kiki Neko"
     rating: 5
-    date: "2026-04-14"
     comment: |
       I came here yesterday with my friends and absolutely loved every thing. The atmosphere is so cute and the food is absolutely divine!!! I ordered chocolate raspberry cake ith was so rich and fluffy and my friend ordered the spinach and feta croissant which was so buttery and flakey! ❤❤❤
       Jeslin did an amazing job helping us though out our visits and even provided us with samples of pistachio raspberry cake (which was amazing too). We'll definitely be back ❤
   - name: "Amanda Post"
     rating: 5
-    date: "2026-06-22"
     comment: |
       I recently stopped by Sweet Castle Bakery and had a delicious London Fog along with a gluten-free dessert, and both were fantastic! The atmosphere is warm and welcoming, the staff were lovely, and the owner Mahsa is incredibly friendly. It’s clear they care about their customers and take pride in what they do. I’ll definitely be back to try more of their delicious treats!
   - name: "Rosalyn Fung"
     rating: 5
-    date: "2026-06-19"
     comment: |
       I love this precious cafe! I was there for a private event, and you can tell that owner Mahsa and her team really care about people, because they have outstanding service, and the atmosphere is inviting and intimate. They pay attention to details. I love that there are gluten free options as I prefer GF, and for those that are vegan, they have that too. I had the delicious GF cheese and chocolate chip scones and GF cranberry, walnut sandwhich. I highly recommend this place for special occasions and having your coffee dates here!
   - name: "Maan Kaur"
     rating: 5
-    date: "2026-05-03"
     comment: |
       ​I cannot say enough good things about my experience at Sweet Castle Bakery! From the moment you walk in, you are met with such wonderful hospitality. Jeslin and Satinder are absolute gems—they are so generous and always welcome you with the kindest smiles. They truly make you feel like a valued guest.
       ​

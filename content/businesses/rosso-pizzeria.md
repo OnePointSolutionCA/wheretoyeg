@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Tom"
     rating: 5
-    date: "2026-04-01"
     comment: |
       A great restaurant in the Garneau/UofA area.  It has a real nice neighbourhood feel with lots of regulars.  They have a nice patio for the summer months.  Great coffee and a large freezer display case of all the different house made gelato's that they have.
       
@@ -43,17 +42,14 @@ reviews:
       Photos and review from Sunday March 29, 2026
   - name: "Isaac Day"
     rating: 5
-    date: "2026-05-23"
     comment: |
       The people were so kind and welcoming. Our server Shay was very helpful and friendly and approachable and nice. She always was helpful whenever I had requests, brought me everything I asked for with punctuality and and kindness. The outdoor patio was very nice watching cars and people go by. The menu was awesome, we came for brunch (only Saturday Sunday) and there was lots of variety. The French toast that my lady had was prob the best French toast I have ever tired. I had the Italian breakfast and it was great, not huge portions but very delicious. 17$ for each plate, OJ was $8.
   - name: "Lauren Jenkins"
     rating: 5
-    date: "2026-07-14"
     comment: |
       The cutest little pizza spot in town! The warmth and friendliness of the servers (I had Lana and Maya helping me) really elevated the experience. Definitely recommend the patio (though don’t forget bug spray). Pictured are the margarita pizza and the house cocktail.
   - name: "Paige"
     rating: 2
-    date: "2026-07-21"
     comment: |
       I have never left a negative review before, but this experience genuinely disappointed me. As a restaurant manager, I know firsthand that mistakes happen, restaurants get busy, and no service is ever perfect. I usually give a lot of grace because I've been on the other side of it. However, there is a difference between being busy and being disrespectful.
       The servers are very visible throughout the restaurant, so I would suggest that if they want to gossip or mock guests, they do it somewhere customers can't clearly see. A dirty blonde server was openly speaking negatively and making faces with my server, who was very tall with dark black hair. They were also spending time on their phones instead of paying attention to their tables, and it was uncomfortable to watch.
@@ -61,7 +57,6 @@ reviews:
       The food was genuinely amazing, which makes the poor service even more disappointing. Great food can only make up for so much when you're made to feel like an inconvenience as a guest. Unfortunately, because of the service we received, we won't be returning and wouldn't feel comfortable recommending this restaurant to others.
   - name: "Rayan Elkhoja"
     rating: 5
-    date: "2026-05-11"
     comment: |
       I always love coming to Russo for a bite to eat.
       The atmosphere is consistently warm and cozy, and the staff are incredibly welcoming.

@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Sunny Jose"
     rating: 5
-    date: "2026-02-17"
     comment: |
       Appreciate Dr. Muba Taher commitment to certify the clinic staff annual CPR certification!
       We thank you for trusting Beats and Breaths Academy for the training over many years!
@@ -39,22 +38,18 @@ reviews:
       Highly recommended!
   - name: "Elbereth Idril"
     rating: 5
-    date: "2026-03-12"
     comment: |
       Dr Okihiro may be the kindest doctor I've ever met. She was very thorough and meticulous with the exam and very kind and patient with explaining everything to us. She was also truly committed to ensure a safe and comfortable environment to accommodate a high risk patient and for this in particular we are grateful both to her and the assisting nurse.
   - name: "David Pineau"
     rating: 5
-    date: "2026-03-24"
     comment: |
       I've had several exams and treatments at Edmonton Dermatology over the past few years and have always been impressed by the friendly, attentive professionalism of the staff. Their care and vigilance give me confidence - both in early detection of potential issues and in their thoughtful support as I now work toward aging a bit more gracefully.
   - name: "Ashley Pyper"
     rating: 5
-    date: "2026-03-11"
     comment: |
       I have seen Eva for 3 Fraxel Laser sessions. She is very thorough and knowledgeable. She carefully goes through each step of the process and makes sure you are comfortable. I would recommend her for Fraxel Treatment to others ⭐️⭐️⭐️⭐️⭐️
   - name: "Ellen Cunningham"
     rating: 5
-    date: "2026-06-15"
     comment: |
       I have seen Dr Taher and Dr Okihiro and both are excellent. I have had treatments with Eva and she is very experienced, gives good advice, and is very skilled with laser treatments. I highly recommend.
 ---

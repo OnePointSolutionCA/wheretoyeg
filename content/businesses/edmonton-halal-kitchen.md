@@ -32,7 +32,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Rampup27"
     rating: 5
-    date: "2025-10-22"
     comment: |
       Good food
 ---

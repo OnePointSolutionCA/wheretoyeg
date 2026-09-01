@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Amanda MacDonald"
     rating: 5
-    date: "2026-08-07"
     comment: |
       Brent Anderson was an excellent real estate agent throughout the purchase of my first home. I first connected with Brent over a year ago to view a property that had been listed. While it wasn't the right fit for me, Brent took the time to listen to what I was looking for and understood my needs and requirements.
       
@@ -41,28 +40,24 @@ reviews:
       I'm incredibly grateful to have had Brent as my realtor and would highly recommend him to anyone looking to buy a home. I'm so excited to get my keys and move into my new place soon!
   - name: "Bernie S"
     rating: 5
-    date: "2026-05-28"
     comment: |
       We truly couldn’t have done this without Kristen Cathcart. She stayed patiently with us through every showing, every question, and every decision. Especially as first time home buyers we had a lot of questions that we needed clarity on, but she guided us through every step and made the whole process effortless.
       You can tell she genuinely care about helping people find not just a house, but a home.
       Her work ethic and commitment was incredible, and we’re thankful to have had her by our side during such an important milestone. I highly recommend her to anyone looking for a realtor in the Edmonton area.
   - name: "NHds"
     rating: 5
-    date: "2026-06-08"
     comment: |
       We recently worked with Katherine Kwan for the second time, and once again she was absolutely amazing. She helped us buy our condo back in 2021, and now she’s helped us find and purchase our forever home.
       Throughout the entire process, Katherine went above and beyond. She was always quick to answer our questions, gave honest and thoughtful advice, and her knowledge of the market really gave us confidence every step of the way. She genuinely cares about her clients and always made us feel like a priority.
       We’re so grateful to have had her by our side for two major milestones in our lives, and we wouldn’t hesitate to recommend her to anyone looking for a realtor! Thank you, Katherine, for all of your hard work and dedication :)
   - name: "V Dela Vega"
     rating: 5
-    date: "2026-06-13"
     comment: |
       Exceptional service and unmatched professionalism. Dale demonstrated deep market expertise, outstanding negotiation skills, and genuine care for our needs. His commitment to excellence exceeded our expectations in every way.
       
       Working with Dale Dela Cruz and his team was an outstanding experience from start to finish. His market knowledge, and dedication made the entire buying process smooth and stress-free. He is always available to answer questions and truly went above and beyond to ensure we found the perfect home for a quick time possession. We highly recommend them to anyone looking for a trustworthy and hardworking realtor. This is it, we finally found home, 🤩👍👍👍👍⭐️⭐️⭐️⭐️⭐️ Thank you so much Dale!
   - name: "Kevin Pereira"
     rating: 5
-    date: "2026-05-22"
     comment: |
       Brianna Wagner She is our real estate broker we have worked with her for a long time  while we searched for our very first home. From day one, she was incredibly patient, knowledgeable, and supportive through what turned out to be a long journey. Her attention to detail during the offer, process and negotiations was outstanding. Every step of the way she made sure everything went smoothly.
       Thank you Brianna in finding our perfect first home.

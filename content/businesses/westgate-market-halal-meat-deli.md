@@ -32,7 +32,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "SDS"
     rating: 1
-    date: "2025-10-03"
     comment: |
       I purchased extra lean ground beef on the same day it was packaged, but upon opening it, the meat was black on the inside. We’ve purchased ground beef from this store many times before, and this has never happened — especially not on the very day it was packaged.
       
@@ -43,22 +42,18 @@ reviews:
       This experience was disappointing and raises serious concerns about product freshness, food safety, and customer service.
   - name: "Ali K"
     rating: 5
-    date: "2026-07-05"
     comment: |
       Clean, organized and all you need deli! Also, friendly staff. Well done!!
   - name: "Alexander Robinson"
     rating: 1
-    date: "2026-07-23"
     comment: |
       I regularly shop at freshco with westgate butcher shop meat section. Ive purchased spoiled Kafka and ribeyes clearly labelled packed that day, not going to recommend their beef to anyone.
   - name: "Nina Jay"
     rating: 5
-    date: "2025-02-12"
     comment: |
       My favorite. Love their Shtoura ready food cans (Maghmour😋), my favorite. The dates are good and they have a nice favorite chocolate corner, takes me back in memory to my childhood (Tarboush and chocoprince). 🍫🍬🍭
   - name: "Ali Pasha"
     rating: 1
-    date: "2025-10-08"
     comment: |
       Do not buy this dessert from here it says pistachio but 1250 gr desert there is only 50 gr pistachio on it . Owner doesn't care about it . Im very disappointed.  Its not even $10 item they sell it $ 52.50 which is way too much rip off.
 ---

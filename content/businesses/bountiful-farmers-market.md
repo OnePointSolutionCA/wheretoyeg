@@ -30,17 +30,14 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Jenn M"
     rating: 5
-    date: "2026-07-31"
     comment: |
       Love this market! Be patient with parking because it is worth it once you get inside! Helen's Veggies and Irvings pork sausage are 2 of my favorite stops. And today, Burwood Distillery has Rhubarb gin!!
   - name: "Chito"
     rating: 5
-    date: "2026-03-08"
     comment: |
       My wife and I visited and really enjoyed our experience.  We took in the vibe and moved through the building at a relaxed pace. We enjoyed some foods from the food court and explored the many different vendors. We bought a few veggies at better prices (and larger too) than the grocery stores and also purchased some exotic meats to sample for the first time! Loved it! We'll be back!
   - name: "Christine Gagne"
     rating: 5
-    date: "2025-07-16"
     comment: |
       AMAZING Farmers Market!
       
@@ -53,7 +50,6 @@ reviews:
       You NEED to check this place out! You will LOVE it!
   - name: "Lureen Davidson"
     rating: 3
-    date: "2026-02-14"
     comment: |
       Loved it! But, my friend and I both got food poisoning from this donut shop.
       We bought wine, did whisky tasting.   I finally found rosemary chicken sausages.  Only place I could find them, was Granville island before now.
@@ -62,7 +58,6 @@ reviews:
       I will go back for the chicken sausages.
   - name: "YEGShopper"
     rating: 5
-    date: "2026-07-25"
     comment: |
       Love going here on the weekend. You can get literally anything you can imagine from fresh produce to steaming hot food. Beautiful paintings to collector pieces. Definitely a One-Stop shop. 🩷
 ---

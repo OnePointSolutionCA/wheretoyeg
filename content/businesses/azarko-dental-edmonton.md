@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Phitchaya P"
     rating: 5
-    date: "2026-04-12"
     comment: |
       I came here first time after moved to this neighborhood and impressed it. The staff at the counter is nice and helpful. Their reminder is good for someone who might forget like me.
       The hygienist is good, helping me clean my teeth. I can feel how clean of it👍
@@ -39,7 +38,6 @@ reviews:
       I understand why they got really good reviews.
   - name: "Mis"
     rating: 5
-    date: "2026-06-24"
     comment: |
       This is the first dental office that has ever truly shown me patience, kindness, and understanding.
       
@@ -52,7 +50,6 @@ reviews:
       Thank you for making such a difficult experience feel safe and manageable.
   - name: "R M"
     rating: 5
-    date: "2026-05-12"
     comment: |
       Amazing, amazing, amazing! 🤩
       
@@ -63,12 +60,10 @@ reviews:
       We are ttruly grateful to the whole team and would highly recommend this dental office.
   - name: "Comedy Gold"
     rating: 5
-    date: "2026-07-05"
     comment: |
       I had an emergency tooth extraction done on a Saturday July 4th weekend. They had me in and out of the surgery in just over an hour. I am Very thankful to all the staff and doctors. They may have saved my life and they were cooler than Clyde during the entire procedure.
   - name: "Leslie Clarke"
     rating: 5
-    date: "2026-05-18"
     comment: |
       I had a toothache, very painful. It was a long weekend on the Saturday. I called and got an appointment within an hour. We filled out paperwork and then they did a surround x-ray. They identified the tooth and the infection. I had an upcoming Endodontics appointment for follow-up after a root canal. They gave me a pain prescription and antibiotic prescription and nausea prescription.  As soon as I started the prescriptions, I felt better. This is Monday now and I feel great. I can even eat and chew on both sides. Thank goodness for this emergency dental clinic and open on the long weekend. They were wonderful!
 ---

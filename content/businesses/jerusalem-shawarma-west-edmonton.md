@@ -33,12 +33,10 @@ date_listed: "2026-08-20"
 reviews:
   - name: "ralyousuf_"
     rating: 5
-    date: "2026-06-23"
     comment: |
       I always enjoy coming to this restaurant. The food is consistently amazing, the atmosphere is welcoming, and the restaurant is always clean and well maintained. A special thank you to Rasheed for his outstanding service. He served us with a warm smile, a positive attitude, and made us feel truly welcome. His professionalism and kindness made our dining experience even more enjoyable. Highly recommended, and I will definitely keep coming back!
   - name: "Carl j. Peralta"
     rating: 5
-    date: "2026-07-03"
     comment: |
       ⭐⭐⭐⭐⭐
       
@@ -52,19 +50,16 @@ reviews:
       Thank you for making my birthday celebration so special. I’ll definitely be coming back and recommending Jerusalem Shawarma to my family and friends! 🎂🥙
   - name: "olivia sparkman"
     rating: 5
-    date: "2026-08-06"
     comment: |
       Everything's I tasted here was so delicious.  The Adana kabab plate was  massive and prepared with a lot of care and added details for each item included.The hummus was so silky and the toum was fluffy and flavorful. I was really impressed with the entire dish and  wish I had allotted time to go in a sit for a meal here. They have a lot of scrumptious looking desserts and treats in the case, and the atmosphere is inviting. There were fresh juices also for sale, and the mango was amazing! For all of that food and the high  quality, it is really an excellent value.
   - name: "Leah Cargo"
     rating: 5
-    date: "2026-03-02"
     comment: |
       It was my first time dining at Jerusalem Shawarma, and I was honestly a bit hesitant at first but I am so glad I decided to try it!
       The food was absolutely delicious, and even their coffee, I had the macchiato and it was delish, the ambience of the place was warm and inviting. The staff were incredibly kind and patient, taking the time to answer all my questions. A special thank you to Anas for his excellent service — he was friendly, attentive, and made the experience even better. I will definitely be coming back and will be bringing my family and friends next time. Highly recommend! 🌟🌟🌟🌟🌟
       P.S. Their tea is exceptional 👌
   - name: "Hun Sern Tan"
     rating: 5
-    date: "2026-04-05"
     comment: |
       A solid go to for some fresh and delicious Mediterranean food.
       

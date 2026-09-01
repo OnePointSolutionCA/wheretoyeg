@@ -34,25 +34,21 @@ active: true
 reviews:
   - name: "ff xo"
     rating: 5
-    date: "2026-07-21"
     comment: |
       The owner was incredibly kind, friendly, and super welcoming. He noticed us taking photos with our digital camera and even let us take pictures around the place and with him, which made the experience even more memorable.
       The pizza itself was fresh, cheesy, and absolutely delicious. The outstanding customer service made the whole experience even better. Definitely coming back whenever I'm in the area. Highly recommend!
   - name: "Khalid Baig"
     rating: 5
-    date: "2026-07-05"
     comment: |
       One of the best places we had Pizza in Edmonton. Not that expensive either. We got a large pizza half chicken garlic snd half beef supreme. And one cheese pizza. Excellent taste and yum yum!
       
       Thankz
   - name: "Tanzina Smita"
     rating: 1
-    date: "2025-12-10"
     comment: |
       Today I ordered the beef supreme pizza. That was my second time. Because first time, it was really good. Today I really expected that they will make it like the first time I ordered. I also put special instructions. But they made it so bad, I couldn't even eat. Just look at the toppings. It literally tasted soggy, cold, and the base was so less that it felt like I am eating just bread. Never ordering again.
   - name: "Haider Mumtaz"
     rating: 5
-    date: "2026-07-15"
     comment: |
       Excellent flavour and toppings.
       Quick, and friendly staff made the experience enjoyable. Specially saif
@@ -60,7 +56,6 @@ reviews:
       Would highly recommend for anyone seeking great pizza and service!
   - name: "nadahati"
     rating: 5
-    date: "2026-02-07"
     comment: |
       Just wanted to leave a review for this place. Been buying food from here on and off since  2010.
       

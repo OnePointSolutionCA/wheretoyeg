@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Kelsey Chow"
     rating: 5
-    date: "2026-05-12"
     comment: |
       Super tasty drinks that you don't really find elsewhere in the city.
       The drinks were very fresh and tasty. The interior space is beautiful with a modern aesthetic.
@@ -40,12 +39,10 @@ reviews:
       Yay for pup friendly places! We will be back to try more of the menu.
   - name: "tygrabix3522"
     rating: 5
-    date: "2026-05-13"
     comment: |
       Can taste yogurt on their drink.  Chose 50% sugar and ice always with my drink.  Taste never disappoint.  Not too busy when I visited on a Sunday after lunch. Bag is optional, I chose the box instead to carry my drinks. No complaints about service.   I do not mind a little wait, flavor is guaranteed fresh.
   - name: "Daniel Tran"
     rating: 4
-    date: "2026-03-18"
     comment: |
       Visit: March 2026
       
@@ -56,12 +53,10 @@ reviews:
       Only thing I don't like so much is the price. My drink came out to about $10 as free tip for the small drink
   - name: "Kin Yeung"
     rating: 1
-    date: "2026-05-17"
     comment: |
       It’s disgusting, save your money and go somewhere else! The drink is too sweet even without sugar and i don’t see them using any fresh fruits. Don’t trust the ig influencers.
   - name: "Bolu Akande"
     rating: 5
-    date: "2026-02-09"
     comment: |
       i have been here about 6 times since the opening, I can't stop going back, great drinks and great customer service!!! my personal favorite is the strawberry mochi and the Oreo mochi, which wasn't too sweet
 ---

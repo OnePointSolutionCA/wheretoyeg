@@ -30,29 +30,24 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Ray Hung"
     rating: 5
-    date: "2026-06-29"
     comment: |
       Nest Landscaping recently completed my landscaping this past month. Shaun was amazing to work with! He was quick to respond (even after hours and on the weekend), provided great suggestions, and also had very reasonably pricing. On top of that, he is also friendly and approachable.
       The fencing and deck crew completed their work efficiently. Jalal (the foreman) and the hardscaping team did a phenomenal job in the front and back yard. They worked with efficiency and precision, despite the hot weather!
       I would definitely recommend Shaun and Nest Landscaping to anyone who is looking to get landscaping completed!
   - name: "Msafiri Mhehe"
     rating: 5
-    date: "2026-07-14"
     comment: |
       Shaun and the crew did an Excellent landscaping and deck project for us in Leduc AB. Nest Landscaping is the Perfect choice. No mistake. Very friendly, professional and affordable!
   - name: "Sandi David"
     rating: 5
-    date: "2026-06-07"
     comment: |
       Shaun was great to work with. Always good communication and prompt replies to inquiries. Job was completed very well. Crew were friendly and worked hard. Love having a no maintenance yard!
   - name: "Heather Middleton"
     rating: 5
-    date: "2026-06-11"
     comment: |
       We really can’t say enough about Shawn and his crew. They did an amazing job with our landscaping including turf, patio and deck last year but what really gives them 5 plus stars is when they came back this year after drainage issues (no fault of theirs…our rough grade was not compacted enough which resulted in our yard settling and dropping) and without hesitation, went to work on fixing the grade! They removed all the rock, paver stones and grass in problem areas and redid the entire grade. The crew is amazing and the prompt attention to this (our sump pump was going on in overdrive after the heavy rain and poor drainage) really just sets them apart! We would not hesitate to recommend Nest Landscaping!!
   - name: "Dan Yang"
     rating: 5
-    date: "2025-11-06"
     comment: |
       I seen all the amazing reviews and decided to reach out. Shaun and his crew were awesome!! They finished all the work before the cold weather set in. Deck, front area, backyard, fence, concrete patio and pathway one side of the house. The crews were excellent. Everything was done perfectly and work areas were all cleaned up when they were done. I am super happy and satisfied with service provided. I highly recommend Nest Landscaping if you are looking for excellent landscaping work! Thanks Shaun!
 ---

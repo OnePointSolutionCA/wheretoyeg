@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Eddie Yumeng Wang"
     rating: 5
-    date: "2025-12-28"
     comment: |
       Amazing food and amazing service from Dee. Definitely the best meal we’ve had in Edmonton so far. Maybe worth a 3 hour drive from Calgary!
       
@@ -41,19 +40,16 @@ reviews:
       We’ll come again for sure when we’re in town!
   - name: "Avery Armstrong"
     rating: 5
-    date: "2026-02-28"
     comment: |
       I got the spiked latte, Brooklyn pizza and the Nutella calzone. Everything was delicious. Just so good. The pizza had a generous amount of cheese and a nice marinara sauce. Everything was just so good, like so so good. The servers were friendly attentive and the place was nice and clean. It's an open kitchen and we saw the owner helping out everyone on his team. We will definitely be back.
   - name: "G Fisher"
     rating: 5
-    date: "2026-04-04"
     comment: |
       I joined friends for dinner at Panini's Italian Cucina and we were not disappointed.
       Wonderful service and delicious food.
       I couldn't decide what to order as so much lovely choices, but ended up with a delectable meatball panini so flavorful and fresh.  I made my meal a combo and ordered the ceasar salad to go along with my panini. Crispy and well dressed completed my meal! But the tiramisu I received complimentary for my birthday was the ending to a wonderful meal that sealed the deal for me.  I will be going back to taste more of the menu.
   - name: "layla potter-melmoth"
     rating: 5
-    date: "2026-04-03"
     comment: |
       We came here for a taste of something fresh on our date night. The servers we interacted with were plenty friendly and helpful. I “sent back” a fork that in my opinion looked icky but it honestly could’ve just been well used- and didn’t get any attitude they just said yes of course.
       
@@ -70,7 +66,6 @@ reviews:
       Thanks for feeding us, we will be back!
   - name: "VarshaM"
     rating: 5
-    date: "2025-11-20"
     comment: |
       Absolutely one of the best restaurants in town.. their food and quality is amazing and fresh!! We would love to visit again to try other items. Chicken cutlet was top notch and so is the Semifreddo dessert... Must try 😋😋
 ---

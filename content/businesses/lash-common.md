@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Cedella Popo"
     rating: 5
-    date: "2021-08-27"
     comment: |
       Trust me when I say you should go to lash common. Besides it being clean and beautiful the service is impeccable.
       
@@ -39,12 +38,10 @@ reviews:
       Loved my experience so much I went back the next weekend to do my nails. Miranda did my nails and she was extremely nice and my nails came out looking good.
   - name: "Kimberly Brodeur"
     rating: 5
-    date: "2020-11-22"
     comment: |
       Oh my goodness. I decided to get my eyebrows cleaned for the first time in my life, and I was a bit... apprehensive... to say the least, considering all the horror stories I've heard about ruined eyebrows. After some research, I decided to go to Lash Common, partly because they are located so close to me, and mostly because I got a good vibe from the other reviews I've read. And wow! I am so, so happy with the results!! My eyebrows look amazing. But more importantly, Jessi was so welcoming and so easy to get along with. She really put me at ease and blew all my nervousness away! She made the experience one that I will, quite frankly, never forget. Super genuine woman and I'm so happy I trusted her with my eyebrows. I will never go anywhere else! Thanks so much Jessi!!!
   - name: "WhereToNYC (and beyond)"
     rating: 3
-    date: "2020-09-04"
     comment: |
       Update: from 2 to 3.5 stars
       
@@ -67,7 +64,6 @@ reviews:
       I hope today was just a mistake, bad day or misunderstanding and that I will be able to update this review to 4 or 5 stars tomorrow. I'll also upload a new picture of tomorrow's result
   - name: "Christina"
     rating: 4
-    date: "2018-03-28"
     comment: |
       My fourth visit ~ Gorgeous establishment. I love the decor here and find it easy to settle in. My techs, have always been professional and fun to chit chat with. I usually rest for half the service and chit chat in between. My lashes have always lasted as expected, and if they don't L.Lash will fix them within 4 days. I would feel very comfortable letting them know if a service required extra attention.
       
@@ -76,7 +72,6 @@ reviews:
       VERDICT: treat yourself !!!!
   - name: "Rema"
     rating: 1
-    date: "2026-06-04"
     comment: |
       Their hours say they're open at 9 am on Thursday. I got there at 9 to go in as a walk in for a no polish manicure and theyre fully closed. Wasted my time and morning.
 ---

@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Helga Helga"
     rating: 4
-    date: "2026-07-30"
     comment: |
       We were visiting Edmonton and were looking for the best place to try macarons. Based on chatgoodle reviews, Duchesse Cafe was one of the top recommendations.
       
@@ -45,7 +44,6 @@ reviews:
       We don’t want to lower the overall rating because the interior and atmosphere are genuinely outstanding, so we’re leaving 4 stars. But if we were rating the macarons alone, we’d probably give them 2 stars. We were just a little disappointed because our expectations were much higher for such price.
   - name: "Carly"
     rating: 5
-    date: "2026-06-17"
     comment: |
       Dutchess Bake Shop is such a wonderful experience from the moment you walk through the door.
       
@@ -63,7 +61,6 @@ reviews:
       Everything we tried was exceptional, and we left already talking about what we’d order on our next visit. Highly recommended! ❤️✨
   - name: "Raf"
     rating: 5
-    date: "2026-02-07"
     comment: |
       From the moment you walk in, everything feels thoughtful and elevated. The pastries are absolute perfection, flaky, buttery, and beautifully balanced. The croissant was unreal, the pistachio raspberry financier was light and flavourful, and the oatmeal milk chocolate cookie hit that perfect chewy-crisp sweet spot.
       
@@ -72,14 +69,12 @@ reviews:
       Easily one of the best bakeries in Edmonton and always worth the visit. Highly recommend if you appreciate high-quality baking done right.
   - name: "Abigail"
     rating: 5
-    date: "2026-03-10"
     comment: |
       Hands down one of the best bake shops in Edmonton! You got to try there macarons & oh my gosh their variety of small cakes, just try everything honestly. Such a good variety of yummy selections!!!
       
       I got served by such a sweetheart of a person, Jasmine - a kind smile, wonderful positive energy and just such genuine customer service. We need more humans like her in the world! Highly recommend this absolutely amazing establishment! Don’t get distracted, cause I did lol
   - name: "Ada"
     rating: 5
-    date: "2026-07-05"
     comment: |
       Beautiful decor, everything is delicate and crispy. The eclair was flaky and crispy, while filled with cream, but not overwhelmingly salty. It was perfection itself
 ---

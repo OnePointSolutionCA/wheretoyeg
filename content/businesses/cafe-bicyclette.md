@@ -31,14 +31,12 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Rodney Dickinson"
     rating: 4
-    date: "2026-04-11"
     comment: |
       Went for brunch as a group, with a reservation. Restaurant is basic, homey touches, space is very open. Staff seemed overall young and inexperienced, maybe disorganized a bit (slow to take orders on arrival, offer refills, etc).
       The food was fantastic. Every dish came out beautifully presented, big portions, and so tasty. I had eggs bennie on poutine- eggs perfectly cooked, potatoes seasoned, delicious gravy and thick cheese curds. Every bite was delicious, and everyone else said the same of their plate.
       Almost 5 stars, well worth going back for more.
   - name: "Nadia Obaid"
     rating: 5
-    date: "2026-05-03"
     comment: |
       We had such a great experience at Café Bicyclette! The atmosphere is warm and cozy.  The staff are incredibly kind and welcoming.
       
@@ -47,7 +45,6 @@ reviews:
       Definitely a spot I’ll keep coming back to. Highly recommend!
   - name: "Cathy Walsh"
     rating: 3
-    date: "2026-07-01"
     comment: |
       This used to be our go-to for great poutine. Today’s experience was just sad. Fries were less than hot, gravy just warm, cheese curds ice cold.
       
@@ -56,7 +53,6 @@ reviews:
       Review posted hoping it’s noticed to make improvements because this is a great little restaurant otherwise, with one of the nicest patios in the city.
   - name: "V “vNoCode” Picoc"
     rating: 4
-    date: "2026-03-15"
     comment: |
       Stellar food, but middling service.
       
@@ -67,7 +63,6 @@ reviews:
       My main critique is the service staff. They were not rude or anything, however I've have had better service elsewhere. So comparatively the issues were more pronounced here, mainly the speed of getting the bill as well as the speed of following up for orders. We actually had to approach them again for the bill after asking for it.
   - name: "Ricky Zhang"
     rating: 4
-    date: "2026-03-31"
     comment: |
       Went for an afternoon tea with friend. Coffee and deserts are tasty, the coffee shop is located in the basement area.
       So, when you walk into the building, you will need to walk downstairs then enter the cafe.

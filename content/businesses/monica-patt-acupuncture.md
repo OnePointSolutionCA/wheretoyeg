@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Samantha Fraser"
     rating: 5
-    date: "2026-07-23"
     comment: |
       Jenna is amazing! I’ve only seen her twice, and I honestly feel healed.
       
@@ -43,12 +42,10 @@ reviews:
       She honestly feels like a miracle worker, and I wouldn’t hesitate to recommend her to anyone dealing with pain or injuries. Thank you, Jenna!
   - name: "kathleen starling"
     rating: 5
-    date: "2026-01-14"
     comment: |
       I can’t say enough good things about my experience here. I came in during fertility treatments, which can be such an emotional and vulnerable time, and I felt truly heard and supported every step of the way. The care was incredibly thoughtful, and the women there are so kind, welcoming, and extremely knowledgeable. Monica and her team made me feel completely comfortable and safe from the very first appointment. I’m so grateful for the support I received and would highly recommend them to anyone.
   - name: "S Robertson"
     rating: 5
-    date: "2026-04-10"
     comment: |
       I can’t say enough amazing things about my experience. After being told IVF was likely our only option (low AMH numbers and thin uterine lining), I started acupuncture. I truly believe it played a huge role in helping us conceive naturally.
       
@@ -61,7 +58,6 @@ reviews:
       If you’re on a fertility journey or looking for support during pregnancy, I would highly recommend Monica. The care, warmth, and genuine investment in her patients is something really special. I feel like I gained a friend throughout the process. Thank you so much Monica.
   - name: "Melissa Gladue"
     rating: 5
-    date: "2026-02-12"
     comment: |
       I truly can’t recommend my acupuncturist enough Jenna Lang is incredible. I’ve been seeing her for a few years now and she is not only exceptionally skilled at what she does, but also so personable and easy to talk to. She creates such a calm, comfortable space and really takes the time to listen. I originally started seeing Jenna for menstrual related concerns, and the improvement I’ve experienced has been amazing. I’m so grateful for her care.
       
@@ -74,7 +70,6 @@ reviews:
       10/10 recommend them.
   - name: "Kasia Shepelevich"
     rating: 5
-    date: "2026-06-18"
     comment: |
       I have gone to a handful of acupuncturist's and thought that acupuncture was a joke and people were delusional until I went to Monica. Have gone for a handful of issues but most recently went there for sciatica that only happened when I had my period for months after having my second. It was so debilitating that I would cry and wouldn't even be able to walk. I went there for one treatment and my next period I had no pain. I was shocked. Though it was in my head. Was going to go again before I had my period again but couldn't . However, I got my period while on vacation in Japan and was able to walk and felt no pain!! Nothing!! And I didn't take any medication. So yes acupuncture (from Monica) works.
 ---

@@ -32,7 +32,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Abderrhman Zwawi"
     rating: 5
-    date: "2026-04-21"
     comment: |
       To whom seeks to Halal meat, this Lucky store has the best in the city.
       I have been dealing with Mr. Hajji since he was in downtown branch (more than 5 years).
@@ -40,25 +39,21 @@ reviews:
       Big thumbs up 👍🏻for Hajji.
   - name: "BIG G"
     rating: 5
-    date: "2026-08-02"
     comment: |
       I don't know much about Asian grocery stores but wjatcivdo jjownis the is the biggest and cleanest one I have ever seen and the food court area is all I am here to talk about. There's a Vietnamese place with absolutely killer bhan mi's and some ridiculously good spring rolls as good as the best Vietnamese restaurants in town. We didn't try the pho but there was a steady line of very satisfied people. The Chinese buffet looked like the real deal and the Chinese BBQ is spot on. We tried to fried chicken and it was just so so.
       
       Next time we go we will be getting more Bhan mi's and spring rolls for sure and will try the chinese buffet and the Japanese noodle/rice place. The prices are good. The food is good. The dining area is nice. It's all very efficient. Get there early if you want any dim sum.
   - name: "Sadi"
     rating: 5
-    date: "2026-03-19"
     comment: |
       Excellent experience of halal food items. Loved the variety of teas and yummy juices (check ingredients for halal of course).
       Give me a like if u think the same.
   - name: "Good Guy McAwesomeness"
     rating: 5
-    date: "2026-07-26"
     comment: |
       Very good selection, especially in fruit, vegetables, meats, poultry and fish. If you're looking for offal or meats like camel, goat or lamb, this is the place. They feature a surprising selection of little fast restaurants with a pleasant seating area. We've gotten some good deals at the plant shop upstairs, which has a fun selection. This store is way more super than, well, you know.
   - name: "Sean Clair"
     rating: 5
-    date: "2026-02-24"
     comment: |
       This place is amazing. Food court has some excellent options and CHEAP food. Even the bathrooms in this place are very nice and clean. Way better then the north side Lucky.
 ---

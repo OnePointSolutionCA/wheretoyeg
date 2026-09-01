@@ -32,29 +32,24 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Robell _d143"
     rating: 5
-    date: "2026-04-10"
     comment: |
       I had a great experience at this restaurant! The combination of Habesha and Middle Eastern cuisine is unique and full of flavor. Everything I tried was fresh, well-seasoned, and delicious. The blend of spices and traditional dishes really stood out. The atmosphere was welcoming, and the service was friendly. Definitely a place I would visit again and recommend to others!
   - name: "Mimi Hifintu"
     rating: 5
-    date: "2026-06-30"
     comment: |
       Wonderful cafe! From the amazing food and drinks to the inviting atmosphere, this place is amazing! Staff are so welcoming! Highly recommend
   - name: "Azmera Issac"
     rating: 5
-    date: "2026-06-29"
     comment: |
       Very good food, a clean and welcoming place, and excellent service. The food is absolutely delicious, fresh, and prepared with great care. I really love both the food and the atmosphere. I will definitely come back again and again, and I’ll be recommending this place to all my family and friends!
   - name: "AyniMusic"
     rating: 5
-    date: "2026-05-20"
     comment: |
       Wow! Amazing food with great prices and outstanding customer service 🔥👏
       Very delicious and clean food, cheap prices, and super polite staff. These people really deserve support ❤️
       Small restaurant, but the food is absolutely amazing, very delicious, and affordable 😋✨
   - name: "Awet Yohannes"
     rating: 5
-    date: "2026-04-03"
     comment: |
       Such a beautiful spot for Mediterranean food. The food was fresh, clean, and full of flavor. The hummus was excellent, and the shawarma was absolutely on point. You can tell the chef really knows what they’re doing. One of the best places for good food and great taste
 ---

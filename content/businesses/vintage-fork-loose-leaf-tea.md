@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Grazyna Twardecka"
     rating: 5
-    date: "2026-06-07"
     comment: |
       I became a big green tea lover since I discovered, thanks to my daughter, Vintage Fork tea shop with its delicious, high quality loose leaf tea blends. I also had a pleasure to visit their cozy store on site and get to know Sarah, who was very welcoming, friendly and professional in her attitude towards customers.
       What makes Vintage Fork so exceptional?
@@ -41,17 +40,14 @@ reviews:
       I highly recommend Vintage Fork tea shop in Edmonton.
   - name: "lacey cormier"
     rating: 5
-    date: "2026-07-05"
     comment: |
       Lovely little tea shop. Excellent selection of teas to try and I experienced great customer service. The sticky rice tea smells fantastic! Japanese sencha was flavourful. I purchased peach and strawberry tea for my daughter, which she has enjoyed. The butterfly pea powder (blue matcha) is magical! My fave out of the bunch has been the double cream earl grey. I find I need to steep a little more tea than the bag suggests for serving size, but this is just my personal taste. Highly recommend this shop for those searching to support a local gem.
   - name: "JANET MOFFATT"
     rating: 5
-    date: "2026-05-23"
     comment: |
       In the Alberta Avenue area of the city, at the end of a quaint tree lined street lies the historic Barlo Residence that houses the tea shop. Definitely worth the meander off the main streets.  Loved the atmosphere,  the service was great, there are wonderful unique blends. Tried the Rooibos London Fog while I was there,   would definitely recommend it if you are looking for a decaf tea. Interesting and varied selection. Will definitely be back. Go check it out.
   - name: "Jitka Storoschuk"
     rating: 5
-    date: "2025-12-12"
     comment: |
       Above-and-Beyond Service with Unbelievable Tea Quality!
       I have been a customer of Vintage Fork for three years now, and I cannot recommend them enough. The quality and taste of their loose-leaf tea are absolutely unbelievable, and their delivery is always fast.
@@ -68,7 +64,6 @@ reviews:
       Please support this amazing local Edmonton company by shopping online or visiting them in their shop. You won't be disappointed!
   - name: "Gayleen Russell"
     rating: 5
-    date: "2026-02-24"
     comment: |
       Vintage Fork is such an amazing little hidden gem.  So many delicious blends.  Knowledgeable staff able to help you through your selections.  Support small business and check them out in store or online (they deliver).  You will NOT be disappointed.
 ---

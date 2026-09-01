@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Brendon Ha"
     rating: 5
-    date: "2026-08-02"
     comment: |
       I stopped by on Jul 29 as I wanted a windshield replacement as my current one was not clear to see with at night, scratched up and I wanted to get a tint job on my car soon.
       
@@ -52,12 +51,10 @@ reviews:
       Brendon
   - name: "MRW"
     rating: 5
-    date: "2026-07-26"
     comment: |
       They were SO quick! Great customer service, every person on the phone and in person was top notch at serving efficiently, knowledgably and cheerfully. I highly recommend this as a wonderful reliable place for repairs and best of all it was done in half the time. Great job everyone 😄 (the picture attached is how I brought it in and they took the tape off and my kids said it was better than new since it didn't have fingerprints everywhere like the other side) Kid approved repair job!
   - name: "Andrea Osborne"
     rating: 5
-    date: "2026-04-15"
     comment: |
       Great experience. Fast and great customer service. The warranty they offer for 100$ is well worth it, 2 free chip repairs and 1 windshield replacement!
       
@@ -66,7 +63,6 @@ reviews:
       Thanks Denise, and shop staff for the great customer service!
   - name: "Ed M"
     rating: 5
-    date: "2026-06-10"
     comment: |
       I can't say enough good things about Windshield Surgeons Edmonton North. From the moment I walked in, I was treated with professionalism, courtesy, and genuine care. The customer service was absolutely outstanding, and the staff went above and beyond to make the entire process easy and stress-free.
       
@@ -77,7 +73,6 @@ reviews:
       Five stars all the way. Thank you for an outstanding experience! Thank you Ed
   - name: "Ramzi Belman"
     rating: 5
-    date: "2026-07-14"
     comment: |
       I had my 2018 Ford F-150 windshield replaced at Windshield Surgeons Auto Glass in Northside Edmonton, and I’m very happy with the service. The front desk staff were friendly, professional, and welcoming. The shop did an excellent job, and the quality exceeded my expectations. The price was fair, and the whole experience was smooth and hassle-free. Highly recommend!
       Thanks for the great service! 👍

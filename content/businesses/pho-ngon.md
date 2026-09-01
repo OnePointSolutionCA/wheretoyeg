@@ -32,27 +32,22 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Snake Plisken"
     rating: 5
-    date: "2026-02-21"
     comment: |
       This gem is hidden off the beaten track on the way to shopping or a medical but it is worth the stop for lunch or dinner. The food is fresh and quite tasteful. The pho broth was amazing. The service is kind and welcoming and remembered us from another location. I would think that quality might deserve a little more room however but perhaps the quaint size allows for a more unique friendly experince than most. We left satisfied.
   - name: "Juan Quintero"
     rating: 5
-    date: "2026-07-02"
     comment: |
       Great place a little hidden but best Asian food south side. Best pho best spring rolls  this time we had this grilled beef it was lovely.
   - name: "Sonia Moreira"
     rating: 5
-    date: "2026-05-24"
     comment: |
       I love that the place is well-kept and clean. It’s an amazing place! The food was delicious, and I appreciate the kids’ menu. I’ll definitely be back.
   - name: "Andre Donado"
     rating: 5
-    date: "2026-01-11"
     comment: |
       This place is a hidden gem. The food is consistently really good, everything tastes fresh, and the service is super friendly without being over the top. It’s relaxed, reliable, and honestly deserves way more hype than it gets.
   - name: "Renee Alook"
     rating: 5
-    date: "2026-06-28"
     comment: |
       We went here on a whim. Was craving some pho on a gloomy day. We got pho, banh mi, and vermicelli bowl. Everything was delicious with great flavour and portion size.
 ---

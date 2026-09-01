@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Michael Suian"
     rating: 5
-    date: "2026-06-30"
     comment: |
       ⭐⭐⭐⭐⭐
       
@@ -43,24 +42,20 @@ reviews:
       After two decades of outstanding service, I can confidently say JassAuto is the best. If you’re looking for skilled, trustworthy mechanics who stand behind their work, look no further. Highly recommend! ⭐🚘🔧 Thank you for 20 years of amazing service! 😊
   - name: "Andrew Moreland"
     rating: 5
-    date: "2026-07-17"
     comment: |
       Awesome shop with great mechanics. I brought my C5 corvette here a year ago to replace to harmonic balancer. They were able to swap that out with adding a bunch of other belts/fluids for cheaper than just the balancer at a different shop.
       
       Just brought my truck in for suspension parts and they had it all finished in a day also way cheaper than any other shop. Highly recommend!
   - name: "Jon Leighton"
     rating: 5
-    date: "2026-07-29"
     comment: |
       My family and I have been using Jass for years. They are extremely honest and professional. They make recommendations and never do work that is not authorized but never let you drive off in an unsafe vehicle. Highly recommended.
   - name: "SK"
     rating: 5
-    date: "2026-03-16"
     comment: |
       Best Shop around by far. Wouldn’t take my vehicles anywhere else!
   - name: "RJ Skinner"
     rating: 5
-    date: "2025-09-09"
     comment: |
       I've used Jass Auto a number of times for a variety of the every-day needs of a vehicle - flat repair, tire change, oil change, and or just a general evaluation of my vehicle needs, and the staff are second to none. In an industry where folks can be wary of greasy mechanics, Jass Auto will surely leave you feeling good about the service they provide. Highly recommended for your automotive service needs!
 ---

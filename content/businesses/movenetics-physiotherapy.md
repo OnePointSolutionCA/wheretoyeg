@@ -31,7 +31,6 @@ date_listed: "2026-08-26"
 reviews:
   - name: "H S"
     rating: 5
-    date: "2026-03-13"
     comment: |
       I found out about Movenetics because me and Mike Salame go way back when I first met him for physio treatment when he was still at a different clinic.
       I am happy to hear that he has finally built his own clinic. I would say it is the best in the city and I am sure a lot would agree with me. Their team is very knowledgeable, professional, and genuinely focused on helping you recover and get you to perform at your best. They offer a wide range of services including physical therapy, chiropractic care, acupuncture, massage therapy, recovery treatments, and strength/conditioning programs, which makes it really convenient to have everything in one place.
@@ -41,17 +40,14 @@ reviews:
       Whether you’re recovering from an injury, dealing with chronic pain, or looking to improve performance and prevent future injuries, I highly recommend this clinic!
   - name: "Katrina Abelardo"
     rating: 5
-    date: "2026-03-27"
     comment: |
       My partner went to see Crystal for a massage after a recommendation and has nothing but amazing things to say. Crystal was incredibly kind, welcoming, and really took the time to prioritize focus points. It made such a difference in the overall experience. I’ll definitely be booking for myself (and again for my partner) as soon as we can get in with her. Also, the clinic has one of the coolest logos I’ve ever seen! props to whoever designed it 🙌🏻
   - name: "Jodi Mulawka"
     rating: 5
-    date: "2026-06-22"
     comment: |
       Great facility, wonderful staff. Mike is a fantastic Physiotherapist. He makes you feel at ease with his friendly nature, but is extremely knowledgeable in his treatment. Brooke is an amazing Chiropractor. I like her effective, gentle approach. Can't say enough good things about her. Very easy for me to refer Movenetics on to family and friends without hesitation.
   - name: "Pavlo Hryhorash"
     rating: 5
-    date: "2026-05-02"
     comment: |
       I had a great experience at Movenetics and would highly recommend it. The team is professional, knowledgeable, and truly cares about helping you improve.
       
@@ -60,7 +56,6 @@ reviews:
       Overall, I feel much better and more confident about my recovery thanks to them. Thank you, Movenetics!
   - name: "Emily"
     rating: 5
-    date: "2026-06-16"
     comment: |
       5 stars all around. The girls at the front are so kind and helpful AND they remember who you are.
       

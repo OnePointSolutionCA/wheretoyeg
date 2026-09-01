@@ -30,12 +30,10 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Kirk Dewhurst"
     rating: 4
-    date: "2019-02-25"
     comment: |
       The Nook is a nice cafe, I know it sounds almost cliche but it’s nice. It didn’t wow me but it was good, I liked the cinnamon bun with brown sugar cream cheese icing. So I gave the cafe a 4 star because I think it is a little better than most.  Service was friendly and courteous and there is a good selection of pastries and breakfast and lunch options.  The cafe is clean and well lit.  Washrooms are clean.  It’s location is in the Quarters area in the old downtown farmers market building. It’s renovated and eclectic looking.  I will come back sometime.
   - name: "Brandon Ramberack"
     rating: 3
-    date: "2018-11-20"
     comment: |
       Visited for the first time this cafe earlier today for a business meeting. Cafe was nice, simple and clean. Very hipster oriented demographic over here which is great for the area as well for a casual meeting.
       
@@ -44,7 +42,6 @@ reviews:
       Overall the place is well maintained and the products they have to offer are good.
   - name: "Lisa"
     rating: 5
-    date: "2019-04-03"
     comment: |
       I usually come on my coffee break to grab a hot chocolate. I love the atmosphere and eclectic furniture and beautiful art. The staff are always friendly and the tall guy with glasses knows my order of by heart when he sees me!! I avoid coming here for lunch because even though the food is good, it's a hoppin place and the lunch crowd always gets here before l do!
       
@@ -53,12 +50,10 @@ reviews:
       The only real negative for me is that the cafe is so close to where I work, I constantly have cravings to go over and grab something!
   - name: "Stephen Kozma"
     rating: 5
-    date: "2019-10-17"
     comment: |
       A beautiful cafe in the heart of The Quarters in East Downtown. The incredibly kind and friendly service makes way for comforting food and beverages (the sticky cinnamon buns and varieties of grilled cheese sandwiches are especially delicious!) the environment is cozy and easy going. Conversations, even when boisterous, have that same calmness that the environment itself radiates. The Nook is a beautiful place and I’ll keep returning to its cozy corners.
   - name: "Matt C"
     rating: 4
-    date: "2019-09-15"
     comment: |
       Nice cosy cafe on the corner. Outdoor area plus plenty of seating inside - some snacks to choose on display plus a small menu of prepared food. Good prices, friendly staff and comfortable environment
 ---

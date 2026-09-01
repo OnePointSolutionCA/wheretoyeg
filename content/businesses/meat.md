@@ -31,7 +31,6 @@ date_listed: "2026-08-26"
 reviews:
   - name: "Brittany Hemmerling"
     rating: 4
-    date: "2026-05-01"
     comment: |
       We had a great night at MEAT!  They don't usually sit reservations outside, but we snagged a table and ordered some solid cocktails.
       Our spread ended up being Beef Ribs, Brisket, Andouille Sausage, the Chicken Special, Mac & Cheese, Carrot Special, and Dill Pickle Potato Salad.  We then shared the Pecan Pie which was very sweet, but excellent.
@@ -39,7 +38,6 @@ reviews:
       Service was great and speedy without rushing you out the door. 4.5/5!!!
   - name: "Trevor Steele"
     rating: 5
-    date: "2026-05-11"
     comment: |
       It has been a while since we had been to MEAT for a meal and my wife decided that this was where she wanted to go for her Mother’s Day dinner.
       
@@ -56,17 +54,14 @@ reviews:
       One thing is for sure, we will not wait so long to come back next time. Thank you to the MEAT team for the incredible meal, we will recommend you guys to anyone looking for some Barbecue and a great night out. And again to Jaime, our server, thank you again for making this such a great experience.
   - name: "Jeff Boulton"
     rating: 4
-    date: "2026-07-04"
     comment: |
       I had the brisket, burnt ends brisket, fried chicken thighs.  Dill pickle, Cajun fries with dip and gravy.  All the meats were fantastic.  The gravy was not good - bland, no flavour.  The fries were very tasty.  For dessert- pecan pie, which I recommend. Price is on the higher side.
   - name: "Dale Simmons"
     rating: 5
-    date: "2026-07-22"
     comment: |
       I just have to say, I am beyond thrilled with the customer service at this shop. They helped me get exactly what I needed—the miniature horse meat and the starfish meat—and they were so knowledgeable and kind throughout the whole process. I can already picture how this miniature horse meat will impress everyone at the family cookout, and the starfish is going to make such a unique dish. I couldn’t be happier—this place is top-notch!
   - name: "Mike Kehl"
     rating: 5
-    date: "2026-07-14"
     comment: |
       Great BBQ at very reasonable prices. Lots of perennial favourites as well as some new stuff they seem to rotate through, but all is delicious. The giant pick is definitely worth the $2 and is actually a standout. Friendly service and tons of seating. I come here every time I visit Edmonton.
 ---

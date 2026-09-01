@@ -30,18 +30,15 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Jennifer Hutton"
     rating: 5
-    date: "2026-07-17"
     comment: |
       I can’t shout loud enough how amazing this Pharmacy is. Nancy and her team always has been kind, understanding, reliable, and she has become a wonderful friend to me. I always look forward to seeing her and have moved our families pharmacy needs over to her.
       Not only is she totally knowledgeable about all of our medications, how they work she also has had some amazing recommendations and keeps up with our prescription needs even before we realize we need a refill or new prescription. She has often called to check in on us and on many occasions has delivered our meds to us when we have been short on time. To say Nancy and 360 square pharmacy is the best is a true understatement. We all feel so lucky to have met her.
   - name: "Aaaa Dabest"
     rating: 1
-    date: "2026-06-29"
     comment: |
       My partner came in this morning to get our baby medicine because he is sick, he goes to pay with his card and it got declined because I didn’t e transfer enough money I was paying for it , the receptionist woman said to him “ I don’t want serve you now after it declined once ” and kept holding onto the medication and walking around with it like he gonna steal because we are indigenous and being profiled. Even the man receptionist was being intimating to him and coming closer and closer to him and eyeing him.. the attitude and racism of them today was very unacceptable and unprofessional as a mother I am upset my baby couldn’t get his medicine he needed!!
   - name: "Jessica Wong"
     rating: 5
-    date: "2025-08-25"
     comment: |
       Nancy is super friendly and very knowledgeable. She remembered both my father and me after only 1 quick prescription drop off visit!
       
@@ -52,12 +49,10 @@ reviews:
       Highly recommend this location as well as the attached medical clinic. I'm more than happy to support local when they're this friendly and skilled!
   - name: "Geoff Berry"
     rating: 5
-    date: "2025-10-07"
     comment: |
       The pharmacist is quick, personable, and thorough. I cannot recommend this place enough.
   - name: "Kaydeen Wright"
     rating: 5
-    date: "2024-01-23"
     comment: |
       Having a pharmacist who demonstrates such high level of care and attention is amazing! Nancy is brilliant at she does! She always provides me with her professional insight. Everything she does is with care and the best quality.
       I’m grateful for such a wonderful health care provider.

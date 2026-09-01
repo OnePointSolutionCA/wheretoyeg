@@ -34,31 +34,26 @@ active: true
 reviews:
   - name: "Dennis G"
     rating: 5
-    date: "2026-06-14"
     comment: |
       An excellent restaurant on the Southside of Edmonton. There is a sit down restaurant area, a takeaway counter and a small middle Eastern grocery section. The store is immaculate and the food is excellent. The place is casual and the staff are not as polished as some places but they are very friendly.
       
       The chicken shawarma wrap was very good. A good ratio of meat to veggies, a delicious sweet sauce and fresh pita. I've tried chicken shawarma in multiple locations and restaurants throughout Edmonton and I would rank this one in the top 3. The platters were generous in portion and tasted great! Fresh bread accomplices the dips. The falafel is perfect, crop on the outside tender interior. You got to try this gem!
   - name: "Francis"
     rating: 3
-    date: "2026-07-04"
     comment: |
       We had the chicken shawarma and wrap and all though a nice portion we did find it to be a bit bland. The cheese ajeen however and fresh pita were delicious. The garlic sauce was also really good. Service was a bit inconsistent and we found the waitress a bit rude and impatient when we were putting in our order. Overall it was ok but for the price there's better.
   - name: "C.K. Lee"
     rating: 4
-    date: "2026-05-21"
     comment: |
       Just enjoyed a great lunch here. Table shared mixed kebab platter, mixed shawarma platter, kibbeh and tabouli. Fresh pita was a standout, portions would feed even an American and the chicken kebab lived up to the hype.
       
       Defo worth a return visit.
   - name: "Bee"
     rating: 5
-    date: "2026-01-11"
     comment: |
       So I am here thanks to the reviews. Jerusalem shawerma was my go to place to get shawerma but this, is just unique. Love everything about this place. It is neat. The food is yum, at least the mixed shawerma. The coffee, exquisite. Staff are very nice. Definitely coming back again. Forgot to take a photo first as I was hungry.
   - name: "Z K"
     rating: 5
-    date: "2025-11-26"
     comment: |
       What a wonderful place,
       

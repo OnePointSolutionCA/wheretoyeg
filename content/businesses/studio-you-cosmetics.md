@@ -30,14 +30,12 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Samantha Hiles"
     rating: 5
-    date: "2026-07-22"
     comment: |
       I’ve been seeing Crystal for my Botox and filler since the very beginning of her career, long before Studio You even existed. She’s truly one of the best. During her (very short!) maternity leave, I started seeing Lauren, and she’s every bit as incredible. Crystal trained her, and it absolutely shows. I trust both of them completely and recommend them without hesitation.
       
       As for skincare, Kailey is the skin queen. Don’t go in thinking you know exactly what you need—let her assess your skin and guide your treatment plan. She has an incredible eye, and your skin will thank you for it. Honestly, there isn’t another clinic in Edmonton, or even Alberta, that compares. I’ve been around, and Studio You is simply the best.
   - name: "Alexa Bain"
     rating: 5
-    date: "2026-06-18"
     comment: |
       The moment you walk in you are welcomed with such kindness and professionalism. The place itself is very welcoming and chic.
       Lauren was amazing. She was super personable, kind and professional.
@@ -45,7 +43,6 @@ reviews:
       I will absolutely be booking with Lauren again and highly recommend her and Studio You for any of your cosmetic needs.
   - name: "Laura Vey"
     rating: 5
-    date: "2026-05-07"
     comment: |
       5 star experience at Studio You Cosmetics!
       
@@ -54,14 +51,12 @@ reviews:
       Crystal is the only injector I trust with my Botox injections. Kailey is so knowledgeable and her recommendations leave me feeling confident and glowing!
   - name: "Maya H."
     rating: 5
-    date: "2026-07-07"
     comment: |
       Cannot recommend Studio You enough! The space is beautiful and so calming. Everyone there is so warm and welcoming and you feel taken care of right when you walk through the door.
       
       Crystal did an amazing job, and made me feel comfortable my entire appointment. It's clear she is extremely knowledgeable and loves what she does!
   - name: "Chelsea Richer"
     rating: 5
-    date: "2026-05-09"
     comment: |
       Crystal is amazing! She immediately makes you feel at ease with her calm and professional approach. You can tell she really knows what she’s doing, and I completely trust her recommendations and technique. I’m so happy with my results and would highly recommend her to anyone looking for a skilled injector!
 ---

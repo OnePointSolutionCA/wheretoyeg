@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Shan"
     rating: 5
-    date: "2026-06-13"
     comment: |
       One of the best burgers in the most unexpected place in Edmonton. I got the Oklahoma smash with fries. Burger was perfectly season, super juicy and the brioche bun was the perfect touch. The fries were also unexpectedly good. They were the freshly cut style fries that are either double or triple fried and perfectly crispy. They were even good the next day!
       
@@ -41,12 +40,10 @@ reviews:
       The owner is friendly and is passionate about what he does. You can really feel his great energy through his excellent customer service and his tasty burgers.
   - name: "Matt leung"
     rating: 5
-    date: "2026-05-11"
     comment: |
       Just a great quality smashburger the beef was nice and crispy and well seasoned. The sauce that they had was amazing. I had the big cheesy Burger. The bun was fresh and soft. Tasty bacon overall great burger at a good price! The staff were super friendly and just provided a great atmosphere. Just overall bunch of happy group of people and I love to see it! I will definitely come back for more!
   - name: "Kirk McDougall NeuroSpicy"
     rating: 5
-    date: "2026-01-11"
     comment: |
       A great place to try a fantastic burger. My wife and I wanted to check out Queen Mary's Market and found Rival Burger. It's the ideal spot to relax before shopping.
       The burgers are truly awesome.
@@ -55,12 +52,10 @@ reviews:
       The current location of Rival Burger is marked by an arrow on the right side of the map.
   - name: "Brian Green"
     rating: 5
-    date: "2026-01-17"
     comment: |
       Best smash burgers in the city. Good thing it's in the Queen Mary market, you'll need to walk these burgers off. The number one selling burger is the Rival. My favorite is the pb&j burger but be sure to ask about the burger of the month. The fries are the best fresh cut I have ever had.
   - name: "..Clark .."
     rating: 5
-    date: "2026-04-21"
     comment: |
       My son and I came for the burgers. This place is a diamond. One of the best burgers I’ve ever had. With Fox Burger and Flatboy in town, Rival Burger is seriously among the best in the biz. We’ll be back.
 ---

@@ -31,12 +31,10 @@ date_listed: "2026-08-18"
 reviews:
   - name: "Denis Koshelev"
     rating: 5
-    date: "2026-04-19"
     comment: |
       A great store. Big variety of Japanese and Korean products. It’s clean, and the vibe is always great.
   - name: "Miklos Magtolis"
     rating: 1
-    date: "2026-07-17"
     comment: |
       I was disappointed with my experience at BBQ Chicken in H Mart (U of A).
       
@@ -47,17 +45,14 @@ reviews:
       I’m a repeat customer, which made this experience even more disappointing. I hope management addresses this and reminds staff that treating customers with basic courtesy and respect is an important part of good service. A small interaction can leave a lasting impression, and unfortunately, this one did.
   - name: "kittybelles"
     rating: 5
-    date: "2025-10-23"
     comment: |
       H Mart is fantastic! They have an amazing selection with so many mouth-watering choices. The service was great, too—the lady at the counter was so friendly and kind. I highly recommend it!
   - name: "Kirk Dewhurst"
     rating: 5
-    date: "2025-06-07"
     comment: |
       Awesome asian food store with restaurant inside.  Not only are there grocery items but lots of personal and household goods.  Fresh produce is available. This is a one stop shop with lots of options for your needs. There is very little parking available so most of the customers walk in.
   - name: "Nahdia B"
     rating: 4
-    date: "2025-09-28"
     comment: |
       A great and diverse grocer — an absolute gem in Edmonton for Asian candy, drinks, foods, ramen, and so much more! Some products can be a bit pricey, but overall it’s worth it for the variety.
 ---

@@ -30,12 +30,10 @@ date_listed: "2026-08-30"
 reviews:
   - name: "pandalovebread"
     rating: 5
-    date: "2026-06-10"
     comment: |
       It was a great place to host the birthday party! All young kids love to jump and play. They have a good size seating area for parents. They have a few party rooms to choose from and host a large group birthday party. They have the different jump zones to play. A small area is just for small kids under 5 years old. The parking lot is free but it is difficult to find a parking if you come in late afternoon. Overall, it is a fun place for kids to play and jump at least half of day. They also have the fast food to purchase.
   - name: "İ Am KeN"
     rating: 5
-    date: "2026-05-15"
     comment: |
       My friend and I visited this place with her three kids to treat them to a fun day of games and activities. The kids were absolutely thrilled and excited the entire time.
       
@@ -50,18 +48,15 @@ reviews:
       Overall, it was a very enjoyable experience and definitely worth visiting.
   - name: "Yurii Ilin"
     rating: 5
-    date: "2026-05-23"
     comment: |
       An absolute 10 out of 10 experience! Hosted my son’s birthday party at Bouncy Planet with his friends and everyone was super excited. The indoor playground is amazing, and the selection of arcade games is very diverse. The kids had so much fun jumping around and playing — nobody was bored for even a second. The party room was spotless and very cozy. The staff was incredibly welcoming, helpful, and polite. No complaints whatsoever, just pure positive vibes. Highly recommend Bouncy Planet to all parents!
   - name: "Dylan"
     rating: 5
-    date: "2026-06-25"
     comment: |
       My 5 year old and myself had a great time.
       The entire area is pretty clean considering the amount of little ones here. Staff throughout our visit were constantly going around keeping things clean and wiping down surfaces. The Staff was very friendly and the prices are great for food/drinks and even the play area.  The different areas are awesome for different ages. Rope ladder with the air bag, dodge ball zone, trampoline zone, arcade and a playground and toddler zone
   - name: "Ann Mags"
     rating: 5
-    date: "2026-03-05"
     comment: |
       We had a wonderful experience celebrating our son’s birthday at Bouncy Planet. The place was clean, well-organized, and the kids had an amazing time on the inflatables.
       

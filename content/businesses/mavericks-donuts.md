@@ -32,7 +32,6 @@ active: true
 reviews:
   - name: "Pai"
     rating: 2
-    date: "2026-08-06"
     comment: |
       We came here last Monday (Aug. 3). Unfortunately, the lady who helped us wasn’t very friendly or approachable, and we felt rushed while trying to choose our donuts.
       
@@ -41,7 +40,6 @@ reviews:
       The service definitely needs improvement, as it had a big impact on our overall experience.
   - name: "Roderick Kinslow"
     rating: 5
-    date: "2026-06-20"
     comment: |
       I will preemptive this by saying, I absolutely suck at writing, and Use Chapt gpt to clean up the content to make it more readable, but everything written was by me, and heartfelt. Thanks hope everyone enjoys it as much as we did.
       
@@ -69,19 +67,16 @@ reviews:
       Ps: I highly recommend trying this one, it is not on the menu, but she said there boss is always looking for ideas, if you try it maybe we can make it a permenant resistant there, it is a really good donut, my kids loved it as well
   - name: "Dean Relland"
     rating: 5
-    date: "2026-07-01"
     comment: |
       I've never had a better donut.  I come by here about once a month as a snack for our family but also to try any new flavour they might have on rotation.  My fav is the cinnamon cake donut.  My wife loves teh yeast donuts, so we leave pretty content.
       
       ONE recommendation I would like to make to people buying donuts from here.  Warm the donut up in the mocrowave or air fryer for 30 seconds, and then add it to a small bowl of ice-cream.  It is legitness.  ;)
   - name: "Kali Brodbin"
     rating: 5
-    date: "2026-02-09"
     comment: |
       I have been craving donuts and was so excited to try these as I had seen them recommended on Facebook. I crushed 3 donuts in a day with bites out of the others. These were so light and fluffy with such a fun variety of flavors. Best eaten day of, but honestly hard to not eat them all instantly. The photos did not disappoint in how tasty these actually are! Highly recommend checking them out!
   - name: "Phat Boy"
     rating: 5
-    date: "2026-01-01"
     comment: |
       This is an awesome doughnut joint! The lady serving me was very friendly and welcoming! Doughnuts are really tasty but are on the heavier side…more like a cake texture, but so good! My favourites are the blueberry fritter and the cherry glaze. Will definitely be back!
 ---

@@ -32,24 +32,20 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Leonie W"
     rating: 5
-    date: "2026-07-07"
     comment: |
       Always one of the best places to celebrate or spend any special occasion. The food is always amazing, and we somehow end up ordering more than our table can fit every time.
       
       My only small wish is that when the restaurant isn’t too busy, parties of two could perhaps be seated at a slightly larger table. Our table could barely fit all the delicious food we ordered. But completely understandable since you are always so popular and busy.
   - name: "Rebecca Fleetwood"
     rating: 5
-    date: "2026-07-22"
     comment: |
       I went there to celebrate my birthday with some friends, and we all had an amazing meal. Our server was Chelsea and she gave us some solid recommendations. The calamari was the best we’ve had and the pasta all came out hot and fresh. I had the beef brisket agnolotti which was delicious. I don’t think you can go wrong with any of their pasta dishes because we were all very happy with the ones we chose.
   - name: "Amber Yost"
     rating: 5
-    date: "2026-07-24"
     comment: |
       We had such a great experience! Our server was absolutely amazing and provided 10/10 service. I didn’t catch her name but she was so kind attentive, and made our experience even better. The food was absolutely delicious, and everything was definitely worth the money. We had such a great time and would definitely recommend to others. It’s absolutely worth the hype! 😊
   - name: "sophie ohm"
     rating: 5
-    date: "2026-07-21"
     comment: |
       Came for dinner, stayed for Bryn!!
       
@@ -60,7 +56,6 @@ reviews:
       The food was good, but Bryn's amazing service is what will have us coming back. She deserves all the recognition!
   - name: "Asli Sultan"
     rating: 4
-    date: "2026-07-31"
     comment: |
       Bianco’s always has such a nice atmosphere and great vibe. The food is consistently delicious, the service is great, and it’s just a really nice place to enjoy dinner with friends/family. We’ve been here for birthdays and special occasions, but also just for a regular night out. It’s always a great experience and never disappoints!
 ---

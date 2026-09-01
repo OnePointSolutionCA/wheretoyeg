@@ -32,7 +32,6 @@ date_listed: "2026-08-18"
 reviews:
   - name: "Sheena Rogers"
     rating: 5
-    date: "2026-03-03"
     comment: |
       Great experience at TELUS World of Science. They have the most engaging rooms I have ever seen. Every hallway and room was filled with hands on learning and thinking activities. They have live demonstration, skills labs, and science labs. The have open areas with microscopes, a science lab with physics activities, and hallways with brain games.
       
@@ -41,7 +40,6 @@ reviews:
       There was also a dinosaur Jurassic Park Lego exhibit where you got to build different activities. It was fun and looked cool. Had a Lego Jeep you could sit in with a dinosaur behind you.
   - name: "Adrian Werner"
     rating: 5
-    date: "2026-07-01"
     comment: |
       We went with my toddler and found there was enough for him to do between the CuriousCITY exhibit and the race car part of the science garage.
       
@@ -50,7 +48,6 @@ reviews:
       The gift shop also had a lot of really fun toys and gifts for sale.
   - name: "L"
     rating: 5
-    date: "2026-04-13"
     comment: |
       We have been to TELUS World of Science Edmonton countless times and have always enjoyed our visits. I have been bringing my kids since they were toddlers, and now that they are tweens, we all still genuinely enjoy coming back.
       
@@ -63,12 +60,10 @@ reviews:
       Overall, it's a fun place to visit as a family.
   - name: "Rongting Luo"
     rating: 5
-    date: "2026-04-30"
     comment: |
       Our family’s first time to visit science world, loved how great the different type of activities setting indoor to show people how science work. Curious city was amazing, our kids love it so much. IMAX experienced was fantastic, we watched the rocket mountain express, music was wonderful. Staffs were super friendly and helpful.
   - name: "Lynette M"
     rating: 5
-    date: "2026-02-19"
     comment: |
       We absolutely loved it! This is a beautiful Science Centre with a full days worth of things to see and do. We brought our 3 Dinosaur loving children ages 8,10,13 to see the Jurassic World Lego display. It's AWESOME!!!! We spent about 2 hours just doing that.
       Had a nice lunch at their café. The staff is very helpful and kind.

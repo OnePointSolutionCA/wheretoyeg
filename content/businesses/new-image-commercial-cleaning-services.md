@@ -30,28 +30,23 @@ date_listed: "2026-08-20"
 reviews:
   - name: "A B"
     rating: 5
-    date: "2025-09-12"
     comment: |
       Julija and her team have been an incredibly refreshing choice for our office cleaning! We had a cleaner who was under-performing, so we had 3 quotes done and on top of being the most organized and detail-oriented, Julija's pricing was also incredibly competitive. Not to mention, she and another employee showed up at our office within 15 hours of our inquiry, and they were a highly professional crew, right from the start.
       Olga cleans our office, and she doesn't leave dirty mop streaks, she fully cleans all of the desks and surfaces, and EVERYTHING that they said would be cleaned in the contract is CONSISTENTLY cleaned. I look forward to continuing our relationship, thank you Julija!
   - name: "Moe Moudallali"
     rating: 5
-    date: "2025-03-04"
     comment: |
       New image commercial cleaning services is reliable, professional, and always leaves our space spotless. Highly recommend their cleaning services!
   - name: "Jenny Jones"
     rating: 5
-    date: "2024-06-16"
     comment: |
       If you’re needing commercial cleaning services for your office or business New Image Commercial Cleaning Services are the best around! They are professional and do an amazing job, our floors were starting to look dull and they brought new life to them! We are very impressed with their thorough office cleaning.
   - name: "Shantee St jean"
     rating: 5
-    date: "2025-04-30"
     comment: |
       Greg did a phenomenal job on steam cleaning my carpets! I never thought I'd ever see their original color again. They look brand new and smell great! 100% recommend!!
   - name: "Creative Computer Consulting"
     rating: 5
-    date: "2023-06-14"
     comment: |
       I am pleased to recommend New Image Cleaning for their exceptional office cleaning services. Our company has been using their services for the past three years, and we are consistently impressed with the quality of their work.
       

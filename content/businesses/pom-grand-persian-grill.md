@@ -32,27 +32,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Mehrdad Sarabostani"
     rating: 5
-    date: "2026-06-20"
     comment: |
       If you're craving authentic, legendary Persian food, this is the spot! The kebabs were absolutely incredible, and you can truly taste that perfect charcoal-grilled smoky flavor. Super juicy, perfectly cooked, and amazing quality. Will definitely be coming back for more! Hands down the best charcoal-grilled kebabs around! The meat was incredibly tender, juicy, and packed with flavor. If you appreciate a real grill, you need to try this place. 10/10 highly recommend! Incredible dining experience! The charcoal flavor on the kebabs gives them that genuine, traditional taste that is so hard to find. Everything was perfectly seasoned and cooked to perfection. A must-visit for any kebab lover! ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
   - name: "Morteza r.b"
     rating: 5
-    date: "2026-07-08"
     comment: |
       Excellent Persian food. The real highlight is the charcoal grill—it gives the kebabs an amazing smoky flavor that you just can't get from a regular grill. The restaurant is small, but it's clean, cozy, and well worth the visit. If you're looking for an authentic Iranian restaurant in Edmonton, this place is definitely worth a visit!
   - name: "Tarah E"
     rating: 5
-    date: "2026-06-10"
     comment: |
       This place is my go to for Persian food, meats are seasoned well and tender. The rice is nice and fluffy. You could really taste the char grilled on the koobideh and tomatoes. I would definitely recommend this place they do it right everytime.
   - name: "Mohamad Palimi"
     rating: 5
-    date: "2026-06-23"
     comment: |
       I ordered the Family Pack 32 for takeout from Pom Grand Restaurant, and it was absolutely delicious. The quality of the food was outstanding, everything was fresh, flavorful, and perfectly cooked. Honestly, it’s the best kebab I’ve had in Canada. Highly recommended, and I’ll definitely be ordering again!
   - name: "mehrdad norouzi"
     rating: 5
-    date: "2026-07-01"
     comment: |
       ⭐⭐⭐⭐⭐
       

@@ -32,17 +32,14 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Fran Johnson"
     rating: 4
-    date: "2026-06-12"
     comment: |
       Really cute little Mexican restaurant! We arrived shortly after 1pm, and most tables were full. The one server did a great job serving all her tables, and had our food to us ASAP. I really enjoyed my mole enchiladas, maybe not the best mole, but overall flavor was quite good. My friend had the tinga taco and most of the chips and guac we had ordered to share, as she didn't realize the taco was simply one single taco, and not overly filling. She did like the flavors and commented that the guac was good! This isn't an area I frequent often, so I may not be back any time soon, but the parking is plentiful, so should we be in the area I probably would come back for a quick bite.
   - name: "Nessa Gomez"
     rating: 5
-    date: "2026-04-15"
     comment: |
       Came here on taco Tuesday and was very happy with my dining experience. Its great to have free parking downtown, the restaurant itself is nicely decorated and offers a nice vibe - i look forward to their patio in the summer. The tacos were very good - the tortilla was SO soft al pastor and suadero stood out. The chips and guac were good, the chips were still warm when we got them. Would definitely come back!
   - name: "Ray Cowell"
     rating: 5
-    date: "2026-03-14"
     comment: |
       Had an incredible experience at Juana Ines in Manchester Square. Easily one of the best Mexican-inspired meals we’ve had in Edmonton.
       
@@ -55,7 +52,6 @@ reviews:
       Great atmosphere, excellent food, and drinks done right. We’ll definitely be back. ⭐⭐⭐⭐⭐
   - name: "Sharon Ling"
     rating: 1
-    date: "2026-04-19"
     comment: |
       Went for the first time and was quite excited to try them based on the positive reviews.
       
@@ -64,7 +60,6 @@ reviews:
       The Horchata was gritty (most Horchata I've had filters out the pulverized rice) , the food was very under seasoned (lack of salt and spice/flavour) and the Birria was unfortunately very mushy (missing the slightly crisp exterior that it should have). The flavours were seriously lacking and the prices were high for what it was.
   - name: "Bryan Synn"
     rating: 5
-    date: "2026-03-16"
     comment: |
       Great little place to stop in for individual tacos, crowd favorite was the chicken tinga. Margherita and the horchata latte were top quality as well. The decor is a nice change from other places as well, takes you to another place. Service was top notch and for that we will be returning
 ---

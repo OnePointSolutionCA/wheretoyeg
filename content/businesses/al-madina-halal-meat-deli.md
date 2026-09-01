@@ -30,27 +30,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Will Leo"
     rating: 5
-    date: "2026-03-11"
     comment: |
       What a beautiful little gem of a place this is! Specialty family run shop with impeccable service. Great people and fair pricing. I was totally impressed with their selections from Cornish game hens, quality meats, and I will be back for bone marrow, tallow some camel tenderloin! I would highly recommend!
   - name: "ALEJANDRA RUIZ"
     rating: 5
-    date: "2026-07-13"
     comment: |
       Shopping here feels personal in the best possible way. The staff take time to get to know their customers and remember preferences. It creates a level of trust that keeps me coming back. When I need quality products and reliable service, this is always my first choice.
   - name: "BRYAN CASTRO"
     rating: 5
-    date: "2026-04-29"
     comment: |
       I recently hosted a dinner for friends and decided to buy all my ingredients here. The meat looked incredibly fresh and the team helped me choose the best options for grilling. Everything cooked beautifully and my guests kept asking where I bought it. I will definitely be coming back before my next gathering.
   - name: "Taylor D'Amours"
     rating: 5
-    date: "2025-11-07"
     comment: |
       My husband & I, but ESPECIALLY our pups, LOVE this place. We regularly give them a call to see if they have any cuts of meat to do up for our dogs (our girl is nearly 100lbs, our boy is about 40lbs). They always make us up HUGE bags of great cuts of meat of varying sizes. My dogs take hours gnawing the meat of the bones & thoroughly enjoying them fresh or frozen, but these are easily of good enough quality to be used as soup bones! They only charge us $10 for bags that fill up 3-4 freezer bags or more and the men that work here are all so sweet, they’ll help me carry the bags to my car and care about their customers. :)
   - name: "Annisha EUGENE"
     rating: 5
-    date: "2026-07-03"
     comment: |
       I have recommended this place to several friends and family members over the years. Every single person who has visited has had positive things to say. It is rare to find a business that consistently delivers both quality products and excellent service.
 ---

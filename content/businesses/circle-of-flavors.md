@@ -33,7 +33,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Adwaith Din (Din)"
     rating: 5
-    date: "2026-07-15"
     comment: |
       🤌🏽💥 fire
       
@@ -44,18 +43,15 @@ reviews:
       Visited the store again and they’ve increased the price for almost every food from 1$ to 2.5$
   - name: "Lady V1rgo"
     rating: 5
-    date: "2026-06-26"
     comment: |
       Saw this restaurant while cruising through the 118 Ave round- a- bout. Decided to stop in and check it out. Quite a busy and hustling place as it was supper time. Decided to order the Half Rotisserie 🐔 chicken with Mandi Rice. The rice is so flavorful. I must say, more flavorful than Jollof rice. Also ordered Grenadine drink which I haven't had in years as a child, and it brought fond memories. Happy to see 3 other tables filled with other Asian peeps. 🙂 118 Ave is becoming quite a cultural avenue. I shall be returning to try the Lamb meal. Even though there was only 1 server, she got the service done.
       Update - I had to return abd try the lamb. No regrets. Saw them grilling fish. Guess I will habe to return a 3rd tine to try the fish. Waitress is super friendly. 👌 🙂
   - name: "Sama Alhuraibi"
     rating: 4
-    date: "2026-01-02"
     comment: |
       Honestly the food was good and the service was great. I would come back again and have lunch there. They need more tables though. But lovely experience overall.
   - name: "Uvindu Imash"
     rating: 5
-    date: "2026-05-15"
     comment: |
       Im a million percent honest about this review,
       
@@ -64,7 +60,6 @@ reviews:
       What amazed me even more was how affordable the prices are for the quality and portions they offer. It’s hard to find a place with food this good at such reasonable prices. The atmosphere is welcoming, the staff are friendly, and the quality of the food is consistently amazing every time. You can really tell they care about their customers and their food. Highly recommend this place to anyone looking for delicious food and a great experience!
   - name: "Tyla Blain"
     rating: 5
-    date: "2026-05-31"
     comment: |
       The food was amazing! Bursting with flavour, great sized portions. Service was great as well as it being open late, I can literally just walk there and grab a bite to eat at 1am. Love this place
 ---

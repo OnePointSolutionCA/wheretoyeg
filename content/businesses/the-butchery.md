@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Bruce Mattia"
     rating: 4
-    date: "2026-04-10"
     comment: |
       The Butchery by Rge Road seems to wear a few hats, butcher, baker, but not a candlestick maker.
       
@@ -41,7 +40,6 @@ reviews:
       Both items were very fairly priced for the quality.  Very impressed.  Glad I walked in today.  I don’t get to this part of the city often, but I’ll make a point of coming back.
   - name: "Ellie H"
     rating: 5
-    date: "2026-01-26"
     comment: |
       This is our weekly butcher shop and genuinely one of our Edmonton treasures. The meat is always the freshest, best quality — every single time. We honestly joke that if we ever moved away, we wouldn’t even know what to eat anymore.
       
@@ -52,7 +50,6 @@ reviews:
       If you care about quality and service, this place is unmatched. We’ll keep coming back
   - name: "Kevin Zhou"
     rating: 5
-    date: "2026-07-12"
     comment: |
       Came to eat at the place on the recommendation of Rge Rd serving staff.
       
@@ -63,12 +60,10 @@ reviews:
       The steak sandwich is also excellent, especially with the herbs, sauce, and olive oil combo that was drizzled on top. However, the steak is cooked close to medium well to well done. It would be of been better if it was cooked to medium rare, definitely a request worth making.
   - name: "Cara Ellis"
     rating: 5
-    date: "2026-05-30"
     comment: |
       I love the Butchery! We used to live closer, but now I have to drive across town to visit — but it's totally worth it! The staff are so friendly and knowledgeable, even when I'm asking very specific (or sometimes silly) questions. The quality of everything they sell is also amazing, and I'm always delighted. Also, whenever I go, I'm sure to pick up the dog treats too! Highly recommend!
   - name: "Daniel Krasiński"
     rating: 5
-    date: "2026-05-05"
     comment: |
       The quality of the meat here is at the absolute highest level — perfectly aged, expertly prepared, and bursting with rich, natural flavor in every single bite.Highly recommended if you appreciate truly outstanding meat. Worth every penny and every extra minute of travel.
 ---

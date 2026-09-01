@@ -32,7 +32,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Ankur Patel"
     rating: 5
-    date: "2026-08-09"
     comment: |
       Visited this cafe and here is my review.
       
@@ -45,22 +44,18 @@ reviews:
       7. Test is excellent and service as well.
   - name: "Mashal H"
     rating: 5
-    date: "2026-05-17"
     comment: |
       Some girlfriends and I went out to eat here and the food was great. Our server Azim was very nice and checked in with us frequently. The environment was fun but not super hectic.  We had a really good time; I would recommend.
   - name: "Crystal-Shawn TT"
     rating: 5
-    date: "2026-05-02"
     comment: |
       Wanted some sweets after lunch today and found this Cafe.  Liked the atmosphere and desert was good. Our server Kiran was really friendly as well. Overall great service and service.  Noticed lots of selection including lunch options on menu.  Definitely will come back again.
   - name: "Bessie Alminar"
     rating: 5
-    date: "2026-02-03"
     comment: |
       It's my first time to try Dspot dessert & cafe and I absolutely loved it. I went with my friends and we ordered caught my eye crepe, toffee butter cookie & lotus newyork cheesecake they're all superb. Not to mention our very friendly and sweet server, Kiran. I will definitely go back. Highly recommended dessert cafe! 👌🏻💕
   - name: "Manmeet Kaur"
     rating: 5
-    date: "2026-04-06"
     comment: |
       Our server, Azim, gave us a warm welcome. The service was quick and the dessert was delicious. The store was clean and looked great. We didn’t have to wait long for our food, and it tasted fantastic. I tried the Belgian milk hot chocolate, a chocolate vaccine waffle, and a pistachio milk cake. All of them were must-tries! Thanks, Azim, for such great service. I’ll definitely be back!
 ---

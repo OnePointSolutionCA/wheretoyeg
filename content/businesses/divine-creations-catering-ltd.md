@@ -32,22 +32,18 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Colette Foisy-Doll"
     rating: 5
-    date: "2025-12-16"
     comment: |
       Excellent service. Our event was booked within about 60 minutes Online.   Prompt to reply when I submitted the online booking for the Christmas turkey dinner lunch luncheon. The turkey was delicious, salad, fresh, stuffing/mashed potatoes great, I’ve been roasted vegetables excellent.  I would recommend if you were ordering mashed potatoes to allow for more than 5 ounces per person and order additional gravy.  Delivery was prompt and on time and very courteous.  I would definitely order this caterer again.
   - name: "Sheila Aaldyk"
     rating: 5
-    date: "2026-04-03"
     comment: |
       We recently chose to use Divine Creations Catering Ltd. for our Mother's Celebration of Life. Joakim was quick to reply with a response and a reasonable quote.  He directed me to the menu on their website and provided answers to all of my questions. On the day of the service, he was puntual and very efficient. The amount of food, selection of desserts and the variety and presentation of sandwiches was very appealing and very tasty.  Several of the people attending commented on the food and how good it was.  I am very pleased with our choice to go with Divine Creations Catering Ltd. and would recommend them to anyone.
   - name: "Sarah Woodland"
     rating: 5
-    date: "2026-04-24"
     comment: |
       We have used Divine on several of occasions to cater for parties at different venues (normally 80-100 people). They are great to deal with and the food choices are always excellent and you know you will always get exactly what you order. They are great to deal with in terms of building a menu and providing quotes. They provide chafers to keep the food warm and deliver exactly on time as requested. There is no pressure if you want to supply your own drinks and plates etc you are welcome to do that. I also appreciated last time that they picked up last minute I had forgotten some gluten free deserts and threw in a plate of GF cakes for free- considerate touches like this mean I will for sure use them again.
   - name: "Carolyn"
     rating: 1
-    date: "2026-03-16"
     comment: |
       I want to respond to the explanation provided by Divine Catering regarding the concerns raised about the food served at our family’s funeral reception.
       
@@ -62,7 +58,6 @@ reviews:
       Had accountability been taken for the situation, I likely would not have taken the time to write this review and would have added several more stars. When the quality of a service does not meet expectations, it can go a long way when a business acknowledges it and considers offering something like a discount or refund. In my own business, when I feel I have not met my own standards on a given day, I take responsibility and make it right for the client. That kind of accountability builds trust and prevents situations like this from turning into negative reviews.
   - name: "Sandra Mattar"
     rating: 5
-    date: "2025-12-14"
     comment: |
       Divine catering catered our Christmas meal this evening and it was outstanding! Very flavourful, tender meats, rich scalloped potatoes, very impressive. I highly recommend!
 ---

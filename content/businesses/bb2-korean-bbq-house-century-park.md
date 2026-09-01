@@ -32,7 +32,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Jordan"
     rating: 4
-    date: "2026-08-07"
     comment: |
       The service here is amazing! The staff is extremely friendly and on top of everything in terms of ordering, taking plates away and making sure your drinks are topped up.
       I would HIGHLY suggest you have a minimum of 4 people so you can have more than 2 plates of meat, and don't fill up on the sides so much. We were full after our first round. The food is pretty good and has a lot of options.
@@ -40,7 +39,6 @@ reviews:
       Will definitely be back.
   - name: "Ivan W"
     rating: 3
-    date: "2026-05-21"
     comment: |
       Food Quality: 3/5
       Service: 5/5
@@ -57,12 +55,10 @@ reviews:
       Overall, I would rate this place 3 out of 5. Unfortunately, I do not plan on coming back.
   - name: "Mochi Neko"
     rating: 4
-    date: "2026-06-09"
     comment: |
       Celebrated my Mom's birthday with some Korean BBQ at BB2 Century Park. The 50% off birthday person deal was applicable for dinner only. We went for lunch ($36.95/ person), so they did not give us the discount. The food was good, though! The gopchang (beef small intestines) had a liver pate- like, slightly gritty texture inside and a crisp exterior. It was not bad, but my Dad and I both prefer pig large intestines. The yukhoe (raw beef tartare) was tender and had a fragrant sesame oil aroma. We also enjoyed the pork belly and pork jowl. The shrimp, squid, and scallops were alright. They also had a pretty good hot food buffet section. Overall, a solid Korean BBQ spot with a lot of variety of meats!
   - name: "George Nwigwe"
     rating: 5
-    date: "2026-06-22"
     comment: |
       The staff at BBQ2 Century Park are excellent. Everyone is friendly, helpful, and attentive. A special thank you to Olivia for her great service and positive attitude throughout our visit.
       
@@ -71,7 +67,6 @@ reviews:
       The food is the highlight. There is a large selection of beef, chicken, pork, shrimp, and bulgogi, with both spicy and non-spicy options. The side bar has plenty of sauces, vegetables, sweet potato fries, fried chicken, glass noodles, rice cakes, and even ice cream for dessert. The grills are changed often, and food comes out quickly.
   - name: "Aj Blanche Abucay"
     rating: 5
-    date: "2026-06-20"
     comment: |
       Superb selection of meats with plenty of options to choose from. The quality is excellent for the price, making it a great value for an AYCE experience. The ambiance is warm and inviting, creating a pleasant dining atmosphere. Service was friendly and efficient, and everything was fresh and well-prepared.
 ---

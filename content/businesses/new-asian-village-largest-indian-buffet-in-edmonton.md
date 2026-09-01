@@ -34,7 +34,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Marly Mique"
     rating: 5
-    date: "2026-05-02"
     comment: |
       I frequently visit this restaurant with my family, and we always receive excellent service from such kind and welcoming staff. Today’s experience was especially outstanding. Our server, Aman, was incredibly attentive despite managing multiple tables. She took the time to walk us through the evening specials (including pani puri as part of the buffet), and consistently checked in to make sure everything met our expectations.
       
@@ -43,7 +42,6 @@ reviews:
       Her service was exceptional and made our dining experience even more enjoyable. Thank you, Aman, for going above and beyond we’ll definitely be back!
   - name: "Common Woman"
     rating: 1
-    date: "2026-04-09"
     comment: |
       A Disappointing Experience at a New Asian Indian Restaurant -
       My husband and I were genuinely excited to try this Asian Indian restaurant. The ambience was inviting, the seating was comfortable, and the spread at the buffet looked promising — from gol gappe and chaat to a variety of curries and desserts. Our hopes were high.
@@ -62,17 +60,14 @@ reviews:
       I'm attaching photos to give a clearer picture. I hope the team takes this in the spirit it's intended — as an opportunity to grow and truly do justice to a cuisine that deserves so much better.
   - name: "Fiaqa Farnaz"
     rating: 5
-    date: "2025-12-30"
     comment: |
       Food variety and buffet options were decent, taste was good too, and the service was amazing! All the three lovely ladies (Simran, Rida, & Aman) made sure we were constantly attended to and had everything we needed! Thank you ladies and shout out to you for your hard work 🙂
   - name: "Katmay"
     rating: 4
-    date: "2025-12-23"
     comment: |
       The food was quite good. It definitely satisfied my craving for Indian food. The Chai cart was such a cute and, nice touch. The New decor was a nice refresh. However, next time I will sit away from the windows because in the winter it was a bit cold. The service was great and, we appreciated the small extras offered to us which helped us enjoy our meal even more. I loved the Gulab jamun for desert! Thank you 🙂
   - name: "chalani amarasinghe"
     rating: 5
-    date: "2025-12-30"
     comment: |
       My first visit to New Asian Village Restaurant today for lunch buffet.
       When I entered the restaurant, I felt the atmosphere was so calm and mind-relaxing.

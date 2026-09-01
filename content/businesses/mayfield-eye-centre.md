@@ -30,27 +30,22 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Ruvilyn Gatchalian"
     rating: 5
-    date: "2026-07-10"
     comment: |
       My family has been going to Mayfield Eye Center for several years now. Our experiences are always positive. We really love how thorough Dr. Enders is with every visit. She clearly explains her findings and what the best solution is for our eye health. I highly recommend this Optometrists clinic and all around eye care centre.
   - name: "Wifey"
     rating: 5
-    date: "2026-02-27"
     comment: |
       My husband and I have been seeing Dr. Collins for years and have always been happy with her and the staff at Mayfield Eye Centre.
   - name: "Aaaa Dabest"
     rating: 5
-    date: "2026-06-29"
     comment: |
       Been coming here for years and everyone is respectful and makes you feel okay now my son comes here now been coming here since I was a teenager
   - name: "Taylor Kessir"
     rating: 5
-    date: "2025-01-10"
     comment: |
       Me & my husband went to Mayfield Eye Centre this evening to try and find some new eyeglasses. We were immediately greeted by Kim who was happy to help us out. She helped us both pick out a pair that we liked, and got us settled with insurance, payment etc. While sitting with her getting all of our paperwork sorted out she was funny, and personable. She made a boring task really fun! Thanks so much Kim, you definitely made our experience a great one.
   - name: "Lorraine Bourassa"
     rating: 5
-    date: "2026-07-30"
     comment: |
       Pleasant and helpful staff with purchase of my eye glasses.
 ---

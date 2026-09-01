@@ -30,7 +30,6 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Johannine Roque"
     rating: 5
-    date: "2026-04-02"
     comment: |
       ⭐⭐⭐⭐⭐
       
@@ -45,22 +44,18 @@ reviews:
       ~Nina
   - name: "Rayna"
     rating: 5
-    date: "2026-02-21"
     comment: |
       Came here for a massage and the whole experience was amazing. There is a relaxing lounge with high quality teas and drinks + a sauna. Mariah did my massage and it was top notch! She worked wonders and provided such a relaxing, comfortable environment. This spa has great ambiance and pays attention to the small details that results in clients leaving satisfied and zen.
   - name: "Gela"
     rating: 5
-    date: "2026-05-01"
     comment: |
       Perfect spa in edmonton. Superb staff. Clean and well maintained. They offer free snacks and drinks (decent choices). Loved the body scrub and massage w/ cupping.
   - name: "Danielle R"
     rating: 5
-    date: "2026-07-31"
     comment: |
       I've been to Ambleside Spa on multiple occasions for group bookings and I cannot recommend them enough. Melony is an absolute sweetheart and takes great pride in ensuring every guest feels welcome, comfortable and relaxed in the spa lounge. Both Christine and Shelby are extremely professional and knowledgeable, and they ensure every treatment leaves you feeling pampered. The spa itself is very clean, calming and luxurious. Thank you to the incredible team for taking such good care of us!
   - name: "Lexie M"
     rating: 5
-    date: "2026-06-23"
     comment: |
       I've been going here for quite a while now and visited again a few days ago. Melanie and Julie are so thoughtful and welcoming and are such a wonderful part of the experience. My massage therapist is honestly the best I've ever had, and the spa itself is immaculately clean with incredible attention to detail.
       I'm particular when it comes to service and cleanliness, and this place continues to impress me every time. These days, not every place can truly wow me, this place does. Highly recommend, such a great addition to the neighbourhood!

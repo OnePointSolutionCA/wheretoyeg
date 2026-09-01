@@ -30,28 +30,23 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Greg Rokicinski"
     rating: 5
-    date: "2026-03-21"
     comment: |
       I'm so glad I found Elad! I had been struggling with muscle pain, and after visiting him for acupuncture,  the relief was remarkable - my pain is completely gone! I'm now receiving treatment for a different medical condition that requires longer period of time and I can already see positive results.
       Elad is professional,  caring and truly effective. Highly recommended
   - name: "Crystal Grunling"
     rating: 5
-    date: "2026-02-01"
     comment: |
       A consult for a knee replacement with the surgeon led me to seek out other holistic options and that is when I made an appointment with Elad.  My experience has been life changing.  After the first appointment I was amazed at the lessening of pain and additional range of motion that I left the clinic with.  I continued to see Elad for 6-8 sessions thereafter and can now walk far distances, exercise and move freely without any pain.  I can’t recommend him enough.  If you have joint pain please make an appointment.
   - name: "Marek H"
     rating: 5
-    date: "2025-11-07"
     comment: |
       My experience with Dr. Shalev was excellent! After struggling with tennis elbow for over a year and trying different treatments like physiotherapy and massage without success, acupuncture with Dr. Shalev finally helped me fully recover from the pain. The results are absolutely amazing. I highly recommend everyone to try acupuncture with Dr. Shalev!
   - name: "Jim Richardson"
     rating: 5
-    date: "2025-07-08"
     comment: |
       I had several sessions of Recall Healing with Shalev. He was insightful, direct, challenging and supportive. A good combination. He is a helpful change agent. I recommend him as a therapist who can get to the root causes and help you bring them to consciousness, and work on making adjustments to improve your life.
   - name: "Sara Jesenik"
     rating: 5
-    date: "2024-07-30"
     comment: |
       What made my acupuncture experience with Elad so unique and effective was his multifaceted approach. He used his background knowledge and experience with recall healing to identify the emotional trauma/ cause behind my pain and condition. I found it really interesting that he was able to accurately pinpoint certain behavior and events that took place prior to my flareups. He used distal acupuncture (needles placed at different sites to the area of pain). After our first appointment I didn't just leave with relief from my sciatica pain but also with many valuable insights. Thank you Elad! :)
 ---

@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "M S"
     rating: 3
-    date: "2026-03-26"
     comment: |
       We turned up for our round just as they opened on a Thursday and were the first ones to play.
       
@@ -61,7 +60,6 @@ reviews:
       OK overall.
   - name: "J Roberts"
     rating: 4
-    date: "2025-12-20"
     comment: |
       This is a very family friendly (read easy) course that I'd recommend for anyone looking for a unique experience.
       The artwork is fantastic and really enhances the experience.
@@ -72,20 +70,17 @@ reviews:
       The mirror maze, while very easy, is super fun for little kids and we enjoyed our brief go through there too.
   - name: "Rayne Tatyana"
     rating: 5
-    date: "2026-07-05"
     comment: |
       Such a cool vibe! I love the theme throughout the course. Glow in the dark!
       
       They also have a mirror maze we didn't check out but definitely will be back to do so.
   - name: "Tucandroll"
     rating: 5
-    date: "2026-05-06"
     comment: |
       It's a fun mini golf. The dragon adventure theme is really cool. It's dark with the glow of black light and neon.
       If it is busy know it can take an hour to get though. Some holes have neat features that can slow the game. They are definitely fun but during busy days they become a bottle neck for groups.
   - name: "MISTER L"
     rating: 5
-    date: "2024-12-30"
     comment: |
       Great little mini golf course. The holes are generally short and a bit simplistic but the artwork and care taken to decorate and design the course is fantastic. The blacklight feature is great! The littles were thrilled with the course overall and the two holes with the elevator/plinko feature were a huge hit!!
 ---

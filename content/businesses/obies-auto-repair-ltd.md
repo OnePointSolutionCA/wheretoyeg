@@ -29,22 +29,18 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Sun of a Beach"
     rating: 5
-    date: "2026-06-30"
     comment: |
       Got my front brakes done yesterday June 26th 2026, the service was what they promised; quick, efficient, affordable and professional. I’m more than satisfied with their service. Front desk ladies are great  as the mechanic staff. Highly recommend!!!
   - name: "Paige Leslie"
     rating: 5
-    date: "2026-04-12"
     comment: |
       10/10 excellent service! I will definitely be recommending Obie to all of my friend.  Thanks to Obie I was able to get my car fixed very quickly and at a great price!
   - name: "J"
     rating: 5
-    date: "2025-08-30"
     comment: |
       I have brought several vehicles to the shop over the years.  The quality of service rendered is unmatched in the city and the quotes provided are always accurate upon services rendered. No surprises or bullshit here just, quality all around. Highly recommend supporting this small local business.
   - name: "Tiffany Routley"
     rating: 5
-    date: "2025-10-28"
     comment: |
       I had Mike replace my passenger front window and once again he did it in less time than he said it would take and it is absolutely perfect. I highly recommend him for any type of vehicle window you need
       I was surprised how nice the waiting room was and it had coffee and snacks.
@@ -52,7 +48,6 @@ reviews:
       October 2025, I went in here to have a hub replaced and to get my windshield wiper fluid thingamajigger fixed. I won't go anywhere else this auto shop is very clean knowledgeable friendly Fair probably the fairest quote that I got when I was doing my research. I will vouch for this company any day anytime anywhere. Please consider him he is so reasonably priced. I can't say enough nice things about this business.
   - name: "Areej Aboudib"
     rating: 5
-    date: "2026-05-06"
     comment: |
       Amazing experience, had an issue with my starter got it fixed the same day super fast and easy!!
 ---

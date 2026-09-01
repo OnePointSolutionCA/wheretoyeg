@@ -30,14 +30,12 @@ date_listed: "2026-08-20"
 reviews:
   - name: "Rachelle Garcia"
     rating: 5
-    date: "2026-04-25"
     comment: |
       We had such a wonderful experience with our baby’s cake smash and pre-birthday photoshoot! The photographer was very patient, creative, and made the whole session fun and comfortable for our little one. The setup and props were beautiful, and every detail was thoughtfully prepared.
       
       The photos turned out amazing—memories we will truly treasure forever. Thank you for capturing such a special milestone in our child’s life. Highly recommended for anyone looking to celebrate their little one’s birthday with beautiful photos!
   - name: "Stevie Y"
     rating: 5
-    date: "2026-07-19"
     comment: |
       We had used Setph studios for both pre-wedding and wedding photos, and glad we did. They are very kind and nice to deal with which is very important when you're planning important events.
       
@@ -46,7 +44,6 @@ reviews:
       Highly reccomend this place!!! Thanks
   - name: "Cici Go"
     rating: 5
-    date: "2026-04-07"
     comment: |
       My family and I love this photo studio. We’ve done our Christmas Mini’s with them for two years in a row and as well as milestone photoshoot for our son.
       
@@ -59,12 +56,10 @@ reviews:
       Highly recommend them!
   - name: "B L"
     rating: 5
-    date: "2026-07-28"
     comment: |
       My team and I went to Setph studio for our business photoshoot and we loved the whole experience. Ken and Raquel were very kind and professional. We were a bit awkward at first but Ken made it so fun and comfortable. Our photos turned out amazing! Def would recommend!
   - name: "Chen Nazareno"
     rating: 5
-    date: "2026-07-01"
     comment: |
       I had an amazing experience with Setph Studio! The quality of their work exceeded my expectations, and their attention to detail was outstanding. They were professional, creative, responsive, and made the entire process smooth and enjoyable.
       

@@ -30,7 +30,6 @@ date_listed: "2026-08-26"
 reviews:
   - name: "Aurelia Singh"
     rating: 5
-    date: "2026-02-02"
     comment: |
       I visited here in December 2025 with my brother and his wife, we didn’t have reservations, but was able to walk in. We were seated at the bar close to the DJ, which is really convenient. There was a coat rack to hang your jackets, if needed.
       
@@ -41,7 +40,6 @@ reviews:
       Overall experience, I would definitely come back considering it was a really good highlight to end my trip.
   - name: "Andy Chiang"
     rating: 4
-    date: "2026-03-18"
     comment: |
       Fun bar near the neon light signs and close enough to the arena to grab some nice pregame cocktails. The cocktails are fun and unique and they’re in a fun area to check out.
       
@@ -50,7 +48,6 @@ reviews:
       Overall, a fun spot to check out if you’re in the area and in the mood for cocktails.
   - name: "thefoodiebeeyqr"
     rating: 4
-    date: "2026-03-27"
     comment: |
       This is easily one of the coolest cocktail bars I’ve ever been to. It’s in a really unique area and the vibes are great. If I could describe the theme it would be Vibrant Chinese, because of the neon lights, the Chinese inspired food, the hip hop/trap music and the upscale vibe.
       
@@ -70,7 +67,6 @@ reviews:
       Update 2: the staff member from Reddit went above and beyond and talked to their manager. I sent my receipt to the email they provided and I was refunded my entire bill. I’m very relieved to discover that it was a genuine mistake due to a system update that day. Manager was very apologetic and still offered a bubbly drink next time I visit. I’m very pleased with how this was resolved !
   - name: "Alessandra Croisetiere"
     rating: 3
-    date: "2026-07-18"
     comment: |
       Food and drinks are always amazing here, which is why this experience was disappointing.
       
@@ -83,7 +79,6 @@ reviews:
       The food keeps us coming back, but I hope the service becomes more consistent because the difference between our two experiences in the same visit was night and day and would have loved to spend our entire evening here instead of just 2 hours.
   - name: "Ellie H"
     rating: 4
-    date: "2026-01-26"
     comment: |
       I really hope they bring back some of the classics — the fried chicken wings used to be incredible, and I still miss the fried chicken cutlet and the steak fried rice. Those dishes were seriously next level and OG.
       

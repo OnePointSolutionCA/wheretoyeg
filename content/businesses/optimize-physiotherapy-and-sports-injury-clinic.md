@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Kaitlin Krystyna"
     rating: 5
-    date: "2026-07-16"
     comment: |
       I can’t say enough good things about Optimize Physiotherapy. They have supported me through my entire recovery journey and have been consistently helpful, caring, and knowledgeable every step of the way. The staff truly take the time to listen and make you feel supported, and their expertise gives me confidence that I’m in the best hands.
       
@@ -39,12 +38,10 @@ reviews:
       I’m very grateful for all of their help and would highly recommend Optimize Physiotherapy to anyone looking for compassionate, skilled care.
   - name: "Emma LaRoy"
     rating: 5
-    date: "2026-07-16"
     comment: |
       Such an amazing team all around! I have been to Abbi for massages and she knows her stuff! I always feel so much better after seeing her. I was experiencing some jaw issues and she recommended that I see Steve for physio. The progress that he made with my jaw in such a short time was incredible! I am experiencing less pain and tightness on a regular basis and I can't recommend him enough.
   - name: "Jessica W"
     rating: 5
-    date: "2026-06-16"
     comment: |
       Seth at Optimize is fantastic. He has treated our son through a few sports-related injuries and has been incredible every step of the way. He takes the time to explain everything thoroughly, not only to me but also to my son, making sure he understands his injuries, treatment, and recovery process.
       
@@ -54,12 +51,10 @@ reviews:
       Highly recommend this physio it’s clean, convient and everyone is friendly and welcoming
   - name: "Megan Morison"
     rating: 5
-    date: "2026-07-14"
     comment: |
       I had a wonderful experience at Optimize Physio! Arri and his team are the best in the business. They do a thorough assessment of the  problem, identify the area of concern and provide exercises and stretches to work on at home. I couldn't be happier with my experience and I already feel better!
   - name: "Yuki Duong"
     rating: 5
-    date: "2026-07-07"
     comment: |
       I had such an awesome experience today with Steven Canduro! I would highly recommend him if you ever needed any physiotherapy! He was very thorough in his initial assessment and explained everything throughout the whole process. Not only was he thorough he was also very friendly, personable and knowledgeable! I came in with right leg issues related to excessive running and was treated with dryneedling, shockwave therapy and given exercises to do at home! I can confidently say I was in good hands!  ◡̈
 ---

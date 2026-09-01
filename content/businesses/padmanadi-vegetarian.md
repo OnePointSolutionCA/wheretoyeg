@@ -31,12 +31,10 @@ date_listed: "2026-08-18"
 reviews:
   - name: "Chloe Rachel"
     rating: 5
-    date: "2026-03-07"
     comment: |
       Came here on a trip to Edmonton and was excited for their vegan/vegetarian Asian food. It didn't disappoint! Had their Padmanadi Seafood Delight ($19.95), Rice Noodle ($16.95) and Panna Cotta ($6). The texture of the vegan seafood was bouncy and tasty, although we didn't find there to be a variety as stated - it felt more like one item resembling a fish ball. We're not fans of ginger but forgot to ask them to omit it in the dish, but it was still a solid option. The rice noodle was plentiful, simple but well executed. The panna cotta did feel a tad heavy as it is coconut milk based, but the fruit puree and berries helped elevate it. Very good service. Overall, we enjoyed the food. Not the most populated area (we walked from downtown), so may recommend driving for those with a car!
   - name: "Aidan boan"
     rating: 5
-    date: "2026-03-15"
     comment: |
       Great vegetarian food with a massive amount of options! We had the battered cauliflower as an appetizer, hot & sour soup, and Curry Chicken with a side of jasmine rice. The hot and sour soup tasted very unique and not too strong. The curry chicken was smooth and the mixed veggies and the “chicken” were cooked perfectly.
       
@@ -45,7 +43,6 @@ reviews:
       We will be coming back to try more of their delicious dishes!
   - name: "Ramakrishnan K"
     rating: 4
-    date: "2025-12-28"
     comment: |
       (August 9, 2025)
       Not wanting to miss out on this place, we visited this place in a last-ditch effort dragging our luggage on the roads after checking out of our hotel, and with a flight to catch later that night.
@@ -62,13 +59,11 @@ reviews:
       Pleasant bamboo'ey-wooden interiors. Decently priced, the above cost 40 CAD before tips.
   - name: "V. Müller"
     rating: 5
-    date: "2026-05-21"
     comment: |
       It was so delicious, fresh and fast! We really enjoyed our dinner and the staff was so friendly! We had two starters and two main dishes for three people. The portions are really huge and good to share!
       We will come back! Thank you!
   - name: "Is Vo"
     rating: 5
-    date: "2026-06-13"
     comment: |
       I have never tried vegetarian food, my wife failed to mention and only told me when we were 5 minutes away. I was furious, I always had the thought of vegetarian being flavorless and the protein alternative bring soy really didnt sit well with me.
       

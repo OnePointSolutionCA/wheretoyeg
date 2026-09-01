@@ -33,13 +33,11 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Fairuz Adiba"
     rating: 5
-    date: "2026-05-02"
     comment: |
       Obviously one of our favourite Mediterranean restaurants. The service is top notch and always feels warm and welcoming. We really appreciate the little touches like the complimentary tea the refreshing ginger mint shot
       and the baklava at the end. It makes the whole experience feel thoughtful and complete. The staff are attentive without being overwhelming and everything runs smoothly. Overall, it’s a place we genuinely enjoy coming back to for both the food and the hospitality.
   - name: "Yahaira Delgado"
     rating: 5
-    date: "2026-06-20"
     comment: |
       I love the food, the service, the music.
       All is worth it, even coming while raining or snow, just I miss they to have the delicios dessert that is like a cheesecake covered in chocolate and pistachio 🥲 bring it back.
@@ -49,17 +47,14 @@ reviews:
       Thank you all for your hard work and the love you put in food 🫶!
   - name: "Nguyn Anh"
     rating: 5
-    date: "2026-06-13"
     comment: |
       I was going to this restaurant yesterday! As a Vietnamese, this restaurant is really good! Everything from the food, services and employees is really excellent! I am not here to be flattery ! Because I am just a customer to pay my money to have a service here. However, it is really worth with your money because you will receive more what you give. I recommended Ya akhee whose name is Yaseen. He is really kind and serves me and my friends considerately! I swear you will not regret if Yaseen serves your meal in this restaurant! From Vietnam with love 🇻🇳❤️. Oh btw! You can also be served with free tea! It is really delicious and tasty ! And It is all free! So you don’t have to be worried too much !!!!
   - name: "Sadegh Pour-Ali"
     rating: 5
-    date: "2026-07-17"
     comment: |
       We had an amazing experience at Jerusalem Shawarma today! The food was delicious as always, but what made this visit unforgettable was the incredible kindness of the staff. When they found out it was my birthday, they surprised me with a complimentary cake, lit a candle, and all the staff gathered around to clap and celebrate with me. It was such a thoughtful and heartwarming gesture that turned an ordinary dinner into a beautiful memory. Thank you to the entire team for making my birthday so special. Your kindness and hospitality mean more than you know. I’ll definitely be back and highly recommend this place to everyone!
   - name: "I SAREEN"
     rating: 4
-    date: "2026-06-01"
     comment: |
       🌯🍮 My first visit to Jerusalem Shawarma was for their kebab plate, which was delicious, but what really won me over were the desserts!
       

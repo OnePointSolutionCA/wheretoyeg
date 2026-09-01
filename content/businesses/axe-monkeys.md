@@ -30,25 +30,21 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Abigail Teixeira"
     rating: 5
-    date: "2026-03-05"
     comment: |
       A friend of mine was visiting from out of town recently, and we decided to check out this place to blow off some steam as both of us have been going through some difficult life circumstances. It was so much fun. The staff was super friendly and there was lots of items that were included with our visit. I will definitely be coming back and next time saving up for the big screen TV to smash.
   - name: "Sandy Viegas"
     rating: 5
-    date: "2026-03-08"
     comment: |
       First time here, we did the rage room. This was a fun experience as a group of 3 adults & 2 teens. They take you to a room where you fill a crate with items you'd like to smash.  Items vary in prices, there is min spend which covers the cost of multiple smaller items.  There are TVs, printers etc that cost a bit more.
       Once in the rage room they talk you through the rules, gear up & smash away.
       There is an area for axe throwing as well.  Service was good, no complaints other then you cannot throw things against the walls directly.  But this is a great therapy session!  Haha
   - name: "Carissa Randell"
     rating: 5
-    date: "2026-04-18"
     comment: |
       Soooo much fun!!  We went for a birthday party, and I didn't think I would have as much fun as the boys but it was great!  We found a Groupon for an extra deal.
       There are drinks, alcoholic and non, as well as snacks you can purchase.  Very chill atmosphere.  Go try it!
   - name: "Richard York"
     rating: 5
-    date: "2026-03-10"
     comment: |
       If you want to blow some steam, I recommend rage room. You pick wide range of items to destroy. You can smash TVs, printers, plates, mugs etc. The price tag is printed on the items or sticker price. Remember each member in your party needs to buy a minimum of $25 worth of items.
       
@@ -59,7 +55,6 @@ reviews:
       I will come back again! Good thing Up 99.3 advertise this place as I would not know this exist. And cheaper than shooting guns.
   - name: "Colten Petkau"
     rating: 5
-    date: "2026-07-02"
     comment: |
       Danielle was taking care of us when we visited, I love her vibe so fun to hang around! I learned lots about thrown sharp things and had such a blast!! Highly recommend visiting!
 ---

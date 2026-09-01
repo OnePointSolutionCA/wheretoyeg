@@ -31,28 +31,23 @@ date_listed: "2026-08-26"
 reviews:
   - name: "mariam ali"
     rating: 5
-    date: "2026-04-08"
     comment: |
       I had a great experience with Dr. Rema Zewi. She is professional, knowledgeable, and genuinely cares about her patients. She took the time to listen to my concerns, clearly explained the treatment plan, and made me feel comfortable throughout each visit. I noticed real improvement and appreciated her thoughtful, patient-centred approach. I would highly recommend Dr. Zewi to anyone looking for a caring and effective chiropractor.
   - name: "Mona"
     rating: 5
-    date: "2026-05-22"
     comment: |
       I would like to say a huge thank you to Sonya who is such a pleasure to deal with. She is super friendly, accommodating and so easy to deal with. Everytime I call she makes sure I am booked and taken care of. She goes above and beyond and will always welcome you with a smile on her face.
       I would also highly recommend Dr.Lama as a chiropractor. She is super knowledgeable and actually cares to make you feel better. Not only does she just adjust you  but she makes sure to guide you with at home stretches to help relieve your pain. Thank you both for always making my visit overall amazing!
   - name: "Chris Laframboise"
     rating: 5
-    date: "2026-04-18"
     comment: |
       Dynamic Chiropractic and Massage has been amazing. The staff are friendly, professional, and genuinely care about helping you feel better. I noticed a big improvement after just a few visits. The clinic is clean, welcoming, and easy to book with. Highly recommend to anyone looking for great chiropractic or massage care!
   - name: "Rob Pinter"
     rating: 5
-    date: "2026-03-13"
     comment: |
       I have been attending the Dynamic Chiropractic and Massage for several years now, while going through aches and pains.  The staff is incredibly engaged and knowledgeable.  Dr. Lama has a great deal of experience in chiropractic and acupuncture which I strongly benefited going through shoulder and quad injuries.  Alexandria is one of the top massage therapists with an incredible knowledge in joints movement, muscular rehabilitation and injury prevention.  The establishment is very clean and very well looked after.  I strongly recommend the Dynamic to anyone nursing injuries or trying to gain better mobility.
   - name: "Z K"
     rating: 5
-    date: "2026-03-20"
     comment: |
       Our whole family has been going to Dynamic Chiro since it has opened its location and we absolutely love it!
       

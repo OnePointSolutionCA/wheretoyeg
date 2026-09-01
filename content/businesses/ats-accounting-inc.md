@@ -30,7 +30,6 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Shyrra Pinder"
     rating: 5
-    date: "2026-07-15"
     comment: |
       ​Filing taxes used to be something I absolutely dreaded, but ATS Accounting completely changed that! They made the entire process incredibly smooth and easy.
       ​From the moment I walked in, the receptionist was so welcoming and polite, and the office itself is immaculate, highly professional, and very well-maintained.
@@ -40,17 +39,14 @@ reviews:
       ​If you want a stress-free tax season with great people and great prices, I highly recommend them!
   - name: "Maria Pamela Lim"
     rating: 5
-    date: "2026-05-06"
     comment: |
       ATS team has been helping us with our business and personal taxes for years. They are highly knowledgable, professional and reliable. They communicate with their clients in a timely manner and they get things done right.  Sean is amazing and he takes time to know his clients personally. I highly recommend ATS if you are looking for business and personal tax solutions. Thanks ATS!
   - name: "Anthony"
     rating: 5
-    date: "2026-02-28"
     comment: |
       At ATS accounting I was greeted with a personable and warm team. They handled my case with professionalism and care. Abraham, Sean and the rest of the team went above and beyond in servicing my needs.  I cannot recommend this firm more. I am very satisfied with my service.
   - name: "GS"
     rating: 5
-    date: "2026-06-02"
     comment: |
       I have been using ATS Accounting in Edmonton for both my personal tax returns and independent contractor tax filings for the past 9 years. Sean Senthuran has been my accountant throughout this time, and I can confidently say he is one of the best accountants I have worked with.
       
@@ -64,7 +60,6 @@ reviews:
       – Gobinath.S
   - name: "antoun hijazzi"
     rating: 5
-    date: "2026-03-31"
     comment: |
       I had a great experience with ATS Accounting. The team was very professional, friendly, and patient throughout the whole process. They made everything easy to understand and took the time to answer all my questions without rushing me.
       

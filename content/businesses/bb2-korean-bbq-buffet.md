@@ -32,14 +32,12 @@ date_listed: "2026-08-30"
 reviews:
   - name: "Marco Luciano"
     rating: 4
-    date: "2026-07-27"
     comment: |
       B2B Korean BBQ at West Edmonton Mall is legit. Tons of meat choices with large, fresh cuts and different marinades that keep things interesting. They've also got a good selection of fresh seafood if that's your thing. My go-to at any Korean BBQ spot is always pork belly, and they did not disappoint — perfectly thick, crispy, and caramelized on the grill. The only downside? Desserts are pretty lacking. Not much to choose from. This is what I gave 4 stars. But honestly, a Melona popsicle bar at the end filled that gap just fine.
       
       It's a little pricey, but for a Saturday night out, totally worth it. The vibe is great, always packed — we waited about 20 minutes but didn't mind. Plus, being in the mall means zero parking stress. Would definitely go back. Bring an empty stomach.
   - name: "J T"
     rating: 5
-    date: "2026-04-19"
     comment: |
       I went there for the grand opening right at open and there was a huge line. It was worth the wait and I can see why it's so popular! Get here early and hungry because this location has so much different variety of food and dishes that the other location doesn't have. The location is great too because it's closer haha.
       
@@ -48,7 +46,6 @@ reviews:
       10/10 all aroubd
   - name: "Neha Walter"
     rating: 4
-    date: "2026-06-19"
     comment: |
       It was a good experience, but I don't think I'd go back again.
       
@@ -63,7 +60,6 @@ reviews:
       Overall, it was a fun experience to try once, but I don't think it's somewhere I'd return.
   - name: "Kimmy"
     rating: 5
-    date: "2026-05-07"
     comment: |
       We had such a great experience at this Korean BBQ restaurant! The food selection was amazing — there were so many choices and varieties to choose from, from different kinds of marinated meats to seafood, side dishes, and fresh vegetables. Everything tasted fresh, flavorful, and well-prepared.
       
@@ -72,7 +68,6 @@ reviews:
       If you’re looking for a place with lots of options and authentic Korean BBQ flavors, I highly recommend this spot. Definitely worth coming back to with family and friends!
   - name: "Justine Laryne"
     rating: 5
-    date: "2026-05-12"
     comment: |
       Had a great experience at there’s new location- BB2 Korean Buffet at WEM. Fresh food, a lot and great Korean BBQ meats, seafood selections. Also friendly staff. Definitely worth visiting!
 ---

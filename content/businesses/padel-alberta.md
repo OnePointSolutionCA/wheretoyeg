@@ -31,14 +31,12 @@ date_listed: "2026-08-18"
 reviews:
   - name: "Kelly Hurley"
     rating: 5
-    date: "2026-02-20"
     comment: |
       We absolutely love PADEL zone in Nisku! My 8-year-old daughter and 14-year-old son both take weekly lessons in small, age-specific groups and get great one-on-one coaching. They’ve learned so much about this new racquet sport while building hand-eye coordination, agility, and skills that transfer to any sport.
       
       It’s such a fun way to stay active during the winter, very reasonably priced, and welcoming to all abilities — even beginners (including adults!). With four PADEL courts that are available to book privately also and pickleball courts as well!  Highly recommend!
   - name: "Kayla"
     rating: 5
-    date: "2024-06-27"
     comment: |
       Had an amazing first time at Padel Zone!
       
@@ -53,12 +51,10 @@ reviews:
       5 stars!!!
   - name: "Travelling Matt"
     rating: 5
-    date: "2024-12-01"
     comment: |
       It's a really great facility in South Edmonton. Clean and new well-constructed courts with reception area, change rooms, lockers, bathrooms, a little bar and other ball sports such as table tennis. I feel like this place will grow over time and it definitely has my vote as a great place to hang out for a couple of hours. Prices are reasonable, plenty of free parking and the people that run the joint are really nice.
   - name: "Tristan KNIGHT"
     rating: 5
-    date: "2024-06-23"
     comment: |
       FANTASTIC!!!! OMG SO MUCH FUN!!!
       
@@ -73,7 +69,6 @@ reviews:
       Thanks for the tour Luciano! ⚡ 🎾🎾🎾🎾🎾👍👍👍
   - name: "Daniel Portilla Williams"
     rating: 5
-    date: "2024-06-24"
     comment: |
       So happy there’s finally a Padel club in Edmonton!!
       
