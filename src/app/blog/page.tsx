@@ -1,11 +1,13 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import { getBlogPosts } from "@/lib/blog";
+import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "The WhereToYEG Blog",
   description:
     "Neighborhood guides, best-of lists, and local Edmonton picks from the WhereToYEG team.",
+  alternates: { canonical: `${SITE.url}/blog` },
 };
 
 export default function BlogIndex() {

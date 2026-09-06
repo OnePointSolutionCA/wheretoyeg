@@ -1,11 +1,13 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import { GetListedForm } from "@/components/GetListedForm";
+import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Get your Edmonton business listed",
   description:
     "Get your business listed on WhereToYEG for free. Show up when Edmontonians search for what you do.",
+  alternates: { canonical: `${SITE.url}/get-listed` },
 };
 
 const BENEFITS = [

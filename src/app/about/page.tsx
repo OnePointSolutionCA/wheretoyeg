@@ -1,10 +1,12 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "About WhereToYEG",
   description:
     "WhereToYEG is a local discovery directory built to make Edmonton easier and more exciting to explore.",
+  alternates: { canonical: `${SITE.url}/about` },
 };
 
 export default function AboutPage() {

@@ -16,8 +16,13 @@ import {
   getBusinesses,
 } from "@/lib/content";
 import { getBlogPosts } from "@/lib/blog";
+import type { Metadata } from "next";
 
 function toSlug(s: string) { return s.toLowerCase().replace(/\s+/g, "-"); }
+
+export const metadata: Metadata = {
+  alternates: { canonical: `${SITE.url}/` },
+};
 
 export default function HomePage() {
   const featured = getDiverseFeatured(120);

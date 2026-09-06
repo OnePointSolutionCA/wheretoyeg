@@ -17,6 +17,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   return {
     title: `Best businesses in ${name}, Edmonton`,
     description: `Local businesses in ${name}, Edmonton — restaurants, cafes, barbers, salons and more on WhereToYEG.`,
+    alternates: { canonical: `${SITE.url}/neighborhoods/${params.slug}` },
   };
 }
 

@@ -6,6 +6,7 @@ import { SITE } from "@/lib/site";
 export const metadata = {
   title: "Search Edmonton businesses",
   description: `Search across every business listed on ${SITE.name}.`,
+  alternates: { canonical: `${SITE.url}/search` },
 };
 
 export default function SearchPage() {

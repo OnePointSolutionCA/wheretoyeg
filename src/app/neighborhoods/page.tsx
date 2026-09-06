@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   title: "Edmonton neighborhoods",
   description:
     "Browse Edmonton neighborhoods — Downtown, Whyte Ave, Jasper Ave, Mill Woods, Windermere and more. Find local businesses near you.",
+  alternates: { canonical: `${SITE.url}/neighborhoods` },
 };
 
 export default function NeighborhoodsPage() {

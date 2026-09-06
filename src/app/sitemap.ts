@@ -2,13 +2,14 @@ import type { MetadataRoute } from "next";
 import { SITE } from "@/lib/site";
 import { getBusinesses, getCategories } from "@/lib/content";
 import { getBlogPosts } from "@/lib/blog";
+import { COLLECTIONS } from "@/lib/collections";
 
 function toSlug(s: string) { return s.toLowerCase().replace(/\s+/g, "-"); }
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const base = SITE.url;
   const now = new Date();
-  const staticRoutes = ["", "/about", "/contact", "/get-listed", "/search", "/privacy", "/terms", "/neighborhoods", "/blog"];
+  const staticRoutes = ["", "/about", "/contact", "/get-listed", "/search", "/privacy", "/terms", "/neighborhoods", "/blog", "/collections"];
   const cats = getCategories().map((c) => `/${c.slug}`);
   const subs: string[] = [];
   for (const c of getCategories()) {
@@ -17,7 +18,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const biz = getBusinesses().filter((b) => b.tier === "premium").map((b) => `/${b.category}/${b.slug}`);
   const neighborhoods = SITE.neighborhoods.map((n) => `/neighborhoods/${toSlug(n)}`);
   const blog = getBlogPosts().map((p) => `/blog/${p.slug}`);
-  return [...staticRoutes, ...cats, ...subs, ...biz, ...neighborhoods, ...blog].map((p) => ({
+  const collections = COLLECTIONS.map((c) => `/collections/${c.slug}`);
+  return [...staticRoutes, ...cats, ...subs, ...biz, ...neighborhoods, ...blog, ...collections].map((p) => ({
     url: `${base}${p}`,
     lastModified: now,
     changeFrequency: "weekly",
