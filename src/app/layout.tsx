@@ -144,11 +144,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Navbar categories={navCategories} searchIndex={searchIndex} />
         <main id="main">{children}</main>
         <Footer />
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `if('scrollRestoration' in history){history.scrollRestoration='manual'}window.addEventListener('beforeunload',function(){window.scrollTo(0,0)});`,
-          }}
-        />
       </body>
     </html>
   );
