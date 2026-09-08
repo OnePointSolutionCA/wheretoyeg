@@ -118,7 +118,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className="font-sans antialiased">
         <script
           dangerouslySetInnerHTML={{
-            __html: `try{window.scrollTo(0,0);if(location.pathname==='/'&&!sessionStorage.getItem('intro-played'))document.documentElement.classList.add('page-home')}catch(e){}`,
+            __html: `try{if('scrollRestoration' in history)history.scrollRestoration='manual';window.scrollTo(0,0);if(location.pathname==='/'&&!sessionStorage.getItem('intro-played'))document.documentElement.classList.add('page-home')}catch(e){}`,
           }}
         />
         <a
