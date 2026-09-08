@@ -12,15 +12,15 @@ website: "http://www.frenchieshair.com/"
 google_maps_url: "https://maps.google.com/?cid=1682715000390895552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "10:00 AM - 8:00 PM"
-  wednesday: "10:00 AM - 8:00 PM"
-  thursday: "12:00 - 8:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "8:00 AM - 5:00 PM"
+  tuesday: "10:00 AM–8:00 PM"
+  wednesday: "10:00 AM–8:00 PM"
+  thursday: "12:00 PM–8:00 PM"
+  friday: "9:00 AM–5:00 PM"
+  saturday: "8:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/frenchies-hair-1.jpg", "/photos/frenchies-hair-2.jpg", "/photos/frenchies-hair-3.jpg"]
 rating: 4.9
-review_count: 168
+review_count: 167
 price_range: "$$$"
 amenities:
 

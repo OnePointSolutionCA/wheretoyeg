@@ -15,17 +15,36 @@ photos:
 reviews:
   - name: "randy manzano"
     rating: 5
-    comment: "Nice place to get your coffee. Location is at the centre of St. Albert. Your little ones will not get bored as they can play while you’re having coffee. Staff are friendly! Plenty of chairs for sitting. Lots of parking. Place looks amazing."
+    comment: |
+      Nice place to get your coffee. Location is at the centre of St. Albert. Your little ones will not get bored as they can play while you’re having coffee. Staff are friendly! Plenty of chairs for sitting. Lots of parking. Place looks amazing.
   - name: "Aaysha Shaikh"
     rating: 3
-    comment: "It’s nice considering there are only two play cafes in Edmonton.  My suggestion would be to add some more toys to the fire station and the little shop room. Last time I went there was barely anything there. Toys are broken and there are no pieces to the toy bbq they have. Most toys quite frankly need cleaning.  Stairs for the slide is dangerous for under 2 imo. Slide is steep too. Anyways that’s fine for the older kids, but I can’t stop my baby from going there which is tiresome.  Since the spac"
+    comment: |
+      It’s nice considering there are only two play cafes in Edmonton.
+      
+      My suggestion would be to add some more toys to the fire station and the little shop room. Last time I went there was barely anything there. Toys are broken and there are no pieces to the toy bbq they have. Most toys quite frankly need cleaning.
+      
+      Stairs for the slide is dangerous for under 2 imo. Slide is steep too. Anyways that’s fine for the older kids, but I can’t stop my baby from going there which is tiresome.
+      
+      Since the space is small, rotating toys would make it fun for returning kids.
   - name: "Tristan Johnston"
     rating: 5
-    comment: "Very cozy little spot, great atmosphere, super friendly staff, and great balance between calm cafe and kid friendly. Admittedly I was a bit reluctant to get work done here given the child friendly atmosphere, but I didn’t notice it one bit. Great to see a spot that allows kids to be kids while still delivering great service as a cafe with pretty reasonable prices."
+    comment: |
+      Very cozy little spot, great atmosphere, super friendly staff, and great balance between calm cafe and kid friendly. Admittedly I was a bit reluctant to get work done here given the child friendly atmosphere, but I didn’t notice it one bit. Great to see a spot that allows kids to be kids while still delivering great service as a cafe with pretty reasonable prices.
   - name: "Holly Penney"
     rating: 5
-    comment: "Every time I go into Hot Coffee, it’s always a great experience. If I host an event here, or just pop in to work, it’s always an exceptional experience. The team at Hot Coffee is top notch. And the vibe is great!! Holly & Tyler have done a great job bringing an awesome coffee shop to our community!"
+    comment: |
+      Every time I go into Hot Coffee, it’s always a great experience. If I host an event here, or just pop in to work, it’s always an exceptional experience. The team at Hot Coffee is top notch. And the vibe is great!! Holly & Tyler have done a great job bringing an awesome coffee shop to our community!
   - name: "Donna Finlayson"
     rating: 5
-    comment: "Today, while doing a Google Search, we came across this hole in the wall coffee cafe.  It was not just any ordinary hole in the wall…it was extraordinary.  The place was like a picture in a magazine.  Every table, chair, the pictures on the wall…everything was perfect.  From the time we walked in we felt the openness…a friendly greeting, inviting staff, the atmosphere, the cleanliness, the service.  Top Notch!  Having been business owners, all of this is important.  Congratulations to the owners"
+    comment: |
+      Today, while doing a Google Search, we came across this hole in the wall coffee cafe.  It was not just any ordinary hole in the wall…it was extraordinary.  The place was like a picture in a magazine.  Every table, chair, the pictures on the wall…everything was perfect.  From the time we walked in we felt the openness…a friendly greeting, inviting staff, the atmosphere, the cleanliness, the service.  Top Notch!  Having been business owners, all of this is important.  Congratulations to the owners!!  We will definitely be coming back.
+hours:
+  monday: "7:00 AM–8:00 PM"
+  tuesday: "7:00 AM–8:00 PM"
+  wednesday: "7:00 AM–8:00 PM"
+  thursday: "7:00 AM–8:00 PM"
+  friday: "7:00 AM–8:00 PM"
+  saturday: "7:00 AM–8:00 PM"
+  sunday: "7:00 AM–8:00 PM"
 ---

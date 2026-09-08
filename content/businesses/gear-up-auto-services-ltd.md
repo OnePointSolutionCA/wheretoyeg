@@ -16,17 +16,33 @@ photos:
 reviews:
   - name: "Lacey Marie"
     rating: 5
-    comment: "I have been a loyal customer of Gear Up Auto for over six years and consistently bring all of my vehicles here for service. From routine maintenance such as oil changes and seasonal tire swaps to more complex repairs, they handle everything with professionalism and care. TJ, the owner, always takes the time to clearly explain what needs attention and what can safely wait until a future visit, which I truly appreciate. He keeps a close eye on my vehicles and ensures they remain reliable and safe."
+    comment: |
+      I have been a loyal customer of Gear Up Auto for over six years and consistently bring all of my vehicles here for service. From routine maintenance such as oil changes and seasonal tire swaps to more complex repairs, they handle everything with professionalism and care. TJ, the owner, always takes the time to clearly explain what needs attention and what can safely wait until a future visit, which I truly appreciate. He keeps a close eye on my vehicles and ensures they remain reliable and safe. The entire team of mechanics is knowledgeable, courteous, and often goes above and beyond to help keep my cars on the road. I trust Gear Up Auto completely and would confidently recommend their services to anyone looking for honest, dependable automotive care.
   - name: "ClaudeCheryl Conan"
     rating: 5
-    comment: "Thanks a billion for resolving our annoying loud noise in our Mazda. I did not even want to ride in it.You fixed it after a dealership couldn't or another local independent service shop. We replaced bear bearings..through you after your diagnostic work. The Mazda CX9 has returned to awesome again. It was very frustrating to spend a lot of time and money with others guessing . My husband says the vehicle is better than it's been in 5 yrs. Sorry for the delay in writing this review. I see your out"
+    comment: |
+      Thanks a billion for resolving our annoying loud noise in our Mazda. I did not even want to ride in it.You fixed it after a dealership couldn't or another local independent service shop. We replaced bear bearings..through you after your diagnostic work. The Mazda CX9 has returned to awesome again. It was very frustrating to spend a lot of time and money with others guessing . My husband says the vehicle is better than it's been in 5 yrs. Sorry for the delay in writing this review. I see your outstanding business has many deserving stellar reviews . Your website is excellent as well. I hope others give you a chance if they are tired of dealerships.
   - name: "Christian Castro"
     rating: 5
-    comment: "TJ and his staff were amazing! They're very thorough with what needed. TJ is very friendly and knowledgeable. Price was super reasonable. Definitely coming back to his shop."
+    comment: |
+      TJ and his staff were amazing! They're very thorough with what needed.
+      TJ is very friendly and knowledgeable.
+      Price was super reasonable.
+      Definitely coming back to his shop.
   - name: "Greg Stolz"
     rating: 5
-    comment: "Had a set of tires replaced and found his prices very reasonable. Great place to check out for your automotive needs."
+    comment: |
+      Had a set of tires replaced and found his prices very reasonable. Great place to check out for your automotive needs.
   - name: "PB"
     rating: 5
-    comment: "I needed to get to get my winter tires off cause potholes were destroying them, and TJ gave me an excellent deal on tire replacement and balance... HIGHLY RECOMMEND!!"
+    comment: |
+      I needed to get to get my winter tires off cause potholes were destroying them, and TJ gave me an excellent deal on tire replacement and balance... HIGHLY RECOMMEND!!
+hours:
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
+  saturday: "9:00 AM–2:00 PM"
+  sunday: "Closed"
 ---

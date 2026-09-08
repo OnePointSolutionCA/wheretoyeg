@@ -11,16 +11,16 @@ phone: "(780) 935-0622"
 website: "https://hauerpower.ca/"
 google_maps_url: "https://maps.google.com/?cid=13989301215567322469&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "Open 24 hours"
-  tuesday: "Open 24 hours"
-  wednesday: "Open 24 hours"
-  thursday: "Open 24 hours"
-  friday: "Open 24 hours"
-  saturday: "Open 24 hours"
-  sunday: "Open 24 hours"
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/hauer-power-electrical-services-1.jpg", "/photos/hauer-power-electrical-services-2.jpg", "/photos/hauer-power-electrical-services-3.jpg"]
 rating: 4.9
-review_count: 963
+review_count: 959
 price_range: "$$"
 amenities:
 

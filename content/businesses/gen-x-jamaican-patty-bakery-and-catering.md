@@ -11,16 +11,16 @@ phone: "(587) 686-8290"
 website: "https://genxjamaicanpattybakeryandcatering.com/"
 google_maps_url: "https://maps.google.com/?cid=17516872873532249999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 7:00 PM"
-  tuesday: "11:00 AM - 7:00 PM"
-  wednesday: "11:00 AM - 7:00 PM"
-  thursday: "11:00 AM - 7:00 PM"
-  friday: "11:00 AM - 7:00 PM"
-  saturday: "11:00 AM - 7:00 PM"
+  monday: "11:00 AM–7:00 PM"
+  tuesday: "11:00 AM–7:00 PM"
+  wednesday: "11:00 AM–7:00 PM"
+  thursday: "11:00 AM–7:00 PM"
+  friday: "11:00 AM–7:00 PM"
+  saturday: "11:00 AM–7:00 PM"
   sunday: "Closed"
 photos: ["/photos/gen-x-jamaican-patty-bakery-and-catering-1.jpg", "/photos/gen-x-jamaican-patty-bakery-and-catering-2.jpg", "/photos/gen-x-jamaican-patty-bakery-and-catering-3.jpg"]
 rating: 4.7
-review_count: 150
+review_count: 151
 price_range: "$"
 amenities:
   - "Dine-In"

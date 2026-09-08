@@ -14,17 +14,32 @@ photos:
 reviews:
   - name: "Brooke Forrester"
     rating: 5
-    comment: "I had been looking forever for a new Family Doctor. I have to say that Dr. Binette is truly amazing. He is patient, and kind and honest and more than anything listens and provides solutions and explanations and options. I have been to so many doctors over the past 25 years alone with severe migraines - no one ever took it seriously. Dr. Binette did - and we found a solution that has made them manageable. On top of this, every diagnosis comes with a group of options and well thought out solutions"
+    comment: |
+      I had been looking forever for a new Family Doctor. I have to say that Dr. Binette is truly amazing. He is patient, and kind and honest and more than anything listens and provides solutions and explanations and options. I have been to so many doctors over the past 25 years alone with severe migraines - no one ever took it seriously. Dr. Binette did - and we found a solution that has made them manageable. On top of this, every diagnosis comes with a group of options and well thought out solutions. He knows and remembers previous conversations and keeps great notes on every appointment. I have never felt comfortable with a doctor until now. I would highly recommend Dr. Binette every single time. Feeling like you are being heard is the most important thing when seeing a doctor. Thank you Dr. Binette for EVERYTHING.
   - name: "Linda Bart"
     rating: 5
-    comment: "Highly professional knowledgeable and very caring. Dr Gordillo always knows exactly what to do and say for many years and refers me to Excellent Specialists when required. I highly recommend Dr Gordillo for all of your medical needs The entire staff & nurses are always friendly and supportive & quick to help you Thank you"
+    comment: |
+      Highly professional knowledgeable and very caring. Dr Gordillo always knows exactly what to do and say for many years and refers me to Excellent Specialists when required. I highly recommend Dr Gordillo for all of your medical needs
+      The entire staff & nurses are always friendly and supportive & quick to help you
+      Thank you
   - name: "Sharon Beckett"
     rating: 5
-    comment: "Dr binette is a rare bird. I’ve never had a Family physician that is more Caring and efficient. His staff are also very efficient and kind. Spruce Grove is lucky to have him."
+    comment: |
+      Dr binette is a rare bird. I’ve never had a Family physician that is more Caring and efficient. His staff are also very efficient and kind. Spruce Grove is lucky to have him.
   - name: "Jesse Verkland"
     rating: 3
-    comment: "Dr. Morrison is a wonderful doctor, and the only reason I still come to this clinic. I can not say the same for the receptionists here. Short, rude and unwilling to help with small issues. It's a pain to deal with anyone but my doctor here."
+    comment: |
+      Dr. Morrison is a wonderful doctor, and the only reason I still come to this clinic. I can not say the same for the receptionists here. Short, rude and unwilling to help with small issues. It's a pain to deal with anyone but my doctor here.
   - name: "Lil’ Pistol"
     rating: 5
-    comment: "My family doctor is amazing. Don’t believe they are accepting new patients. Clean, hospitality is great too. Busy at times"
+    comment: |
+      My family doctor is amazing. Don’t believe they are accepting new patients. Clean, hospitality is great too. Busy at times
+hours:
+  monday: "7:00 AM–5:00 PM"
+  tuesday: "7:00 AM–5:00 PM"
+  wednesday: "7:00 AM–5:00 PM"
+  thursday: "7:00 AM–5:00 PM"
+  friday: "7:00 AM–5:00 PM"
+  saturday: "7:00 AM–5:00 PM"
+  sunday: "Closed"
 ---

@@ -11,16 +11,16 @@ phone: "(780) 218-5550"
 website: "https://www.helpinghandsfamilymovers.com/?utm_source=google&utm_medium=organic&utm_campaign=GMBwebsite"
 google_maps_url: "https://maps.google.com/?cid=6661750404488579180&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 7:00 PM"
-  tuesday: "8:00 AM - 7:00 PM"
-  wednesday: "8:00 AM - 7:00 PM"
-  thursday: "8:00 AM - 7:00 PM"
-  friday: "8:00 AM - 7:00 PM"
-  saturday: "8:00 AM - 7:00 PM"
-  sunday: "9:00 AM - 5:30 PM"
+  monday: "8:00 AM–7:00 PM"
+  tuesday: "8:00 AM–7:00 PM"
+  wednesday: "8:00 AM–7:00 PM"
+  thursday: "8:00 AM–7:00 PM"
+  friday: "8:00 AM–7:00 PM"
+  saturday: "8:00 AM–7:00 PM"
+  sunday: "9:00 AM–5:30 PM"
 photos: ["/photos/helping-hands-family-movers-1.jpg", "/photos/helping-hands-family-movers-2.jpg", "/photos/helping-hands-family-movers-3.jpg"]
 rating: 4.8
-review_count: 432
+review_count: 435
 price_range: "$$$$"
 amenities:
 

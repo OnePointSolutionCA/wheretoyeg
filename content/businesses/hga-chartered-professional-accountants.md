@@ -11,16 +11,16 @@ phone: "(780) 489-9750"
 website: "http://www.hgacpa.com/"
 google_maps_url: "https://maps.google.com/?cid=2937153951551300323&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 5:00 PM"
-  tuesday: "8:00 AM - 5:00 PM"
-  wednesday: "8:00 AM - 5:00 PM"
-  thursday: "8:00 AM - 5:00 PM"
-  friday: "8:00 AM - 5:00 PM"
+  monday: "8:00 AM–5:00 PM"
+  tuesday: "8:00 AM–5:00 PM"
+  wednesday: "8:00 AM–5:00 PM"
+  thursday: "8:00 AM–5:00 PM"
+  friday: "8:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/hga-chartered-professional-accountants-1.jpg", "/photos/hga-chartered-professional-accountants-2.jpg", "/photos/hga-chartered-professional-accountants-3.jpg"]
 rating: 4.8
-review_count: 79
+review_count: 80
 price_range: "$$"
 amenities:
 

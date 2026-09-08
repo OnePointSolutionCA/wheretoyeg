@@ -11,12 +11,12 @@ phone: "(780) 937-4388"
 website: "https://detailingedmonton.ca/?gad_source=1&gad_campaignid=22785710811&gbraid=0AAAAAqHcRTiCPL2a07CQg7sNAUmXC1OzW&gclid=EAIaIQobChMIoryUoLfzkwMV1tTCBB3wRxRqEAAYASAMEgJsDvD_BwE"
 google_maps_url: "https://maps.google.com/?cid=15183625613268416521&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:30 PM"
-  tuesday: "9:00 AM - 5:30 PM"
-  wednesday: "9:00 AM - 5:30 PM"
-  thursday: "9:00 AM - 5:30 PM"
-  friday: "9:00 AM - 5:30 PM"
-  saturday: "9:00 AM - 5:30 PM"
+  monday: "9:00 AM–5:30 PM"
+  tuesday: "9:00 AM–5:30 PM"
+  wednesday: "9:00 AM–5:30 PM"
+  thursday: "9:00 AM–5:30 PM"
+  friday: "9:00 AM–5:30 PM"
+  saturday: "9:00 AM–5:30 PM"
   sunday: "Closed"
 photos: ["/photos/extreme-auto-detailing-best-in-edmonton-ceramic-coating-powe-1.jpg", "/photos/extreme-auto-detailing-best-in-edmonton-ceramic-coating-powe-2.jpg", "/photos/extreme-auto-detailing-best-in-edmonton-ceramic-coating-powe-3.jpg"]
 rating: 5

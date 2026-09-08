@@ -11,16 +11,16 @@ phone: "(866) 496-8056"
 website: "https://hathawaysdiner.com/"
 google_maps_url: "https://maps.google.com/?cid=18303632479147316219&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 3:00 PM"
-  tuesday: "8:00 AM - 3:00 PM"
-  wednesday: "8:00 AM - 3:00 PM"
-  thursday: "8:00 AM - 3:00 PM"
-  friday: "8:00 AM - 3:00 PM"
-  saturday: "8:00 AM - 3:00 PM"
-  sunday: "8:00 AM - 3:00 PM"
+  monday: "8:00 AM–3:00 PM"
+  tuesday: "8:00 AM–3:00 PM"
+  wednesday: "8:00 AM–3:00 PM"
+  thursday: "8:00 AM–3:00 PM"
+  friday: "8:00 AM–3:00 PM"
+  saturday: "8:00 AM–3:00 PM"
+  sunday: "8:00 AM–3:00 PM"
 photos: ["/photos/hathaways-diner---downtown-edmonton-1.jpg", "/photos/hathaways-diner---downtown-edmonton-2.jpg", "/photos/hathaways-diner---downtown-edmonton-3.jpg"]
-rating: 4.7
-review_count: 265
+rating: 4.6
+review_count: 276
 price_range: "$$"
 amenities:
   - "Dine-In"

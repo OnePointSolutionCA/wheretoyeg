@@ -11,16 +11,16 @@ phone: "(587) 415-0804"
 website: "https://www.edmontonrealestatepro.ca/"
 google_maps_url: "https://maps.google.com/?cid=743001660624076235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 9:00 PM"
-  tuesday: "8:00 AM - 9:00 PM"
-  wednesday: "8:00 AM - 9:00 PM"
-  thursday: "8:00 AM - 9:00 PM"
-  friday: "8:00 AM - 9:00 PM"
-  saturday: "8:00 AM - 9:00 PM"
-  sunday: "8:00 AM - 9:00 PM"
+  monday: "8:00 AM–9:00 PM"
+  tuesday: "8:00 AM–9:00 PM"
+  wednesday: "8:00 AM–9:00 PM"
+  thursday: "8:00 AM–9:00 PM"
+  friday: "8:00 AM–9:00 PM"
+  saturday: "8:00 AM–9:00 PM"
+  sunday: "8:00 AM–9:00 PM"
 photos: ["/photos/elevate-realty-group-1.jpg", "/photos/elevate-realty-group-2.jpg", "/photos/elevate-realty-group-3.jpg"]
 rating: 5
-review_count: 337
+review_count: 340
 price_range: "$$"
 amenities:
 

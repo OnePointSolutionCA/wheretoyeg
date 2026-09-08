@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 475-4909"
 google_maps_url: "https://maps.google.com/?cid=17466489357343078393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 9:00 PM"
-  tuesday: "9:00 AM - 9:00 PM"
-  wednesday: "9:00 AM - 9:00 PM"
-  thursday: "9:00 AM - 9:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 9:00 PM"
-  sunday: "10:00 AM - 9:00 PM"
+  monday: "9:00 AM–9:00 PM"
+  tuesday: "9:00 AM–9:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
+  saturday: "10:00 AM–9:00 PM"
+  sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/elsafadi-mediterranean-supermarket-1.jpg", "/photos/elsafadi-mediterranean-supermarket-2.jpg", "/photos/elsafadi-mediterranean-supermarket-3.jpg"]
 rating: 4.4
-review_count: 1279
+review_count: 1283
 price_range: "$$"
 amenities:
   - "Halal"

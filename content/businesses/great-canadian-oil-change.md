@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "Multiple locations"
 google_maps_url: "https://maps.google.com/?q=Great%20Canadian%20Oil%20Change%20Edmonton"
 hours:
-  monday: "11:00 AM - 9:00 PM"
-  tuesday: "11:00 AM - 9:00 PM"
-  wednesday: "11:00 AM - 9:00 PM"
-  thursday: "11:00 AM - 9:00 PM"
-  friday: "11:00 AM - 10:00 PM"
-  saturday: "11:00 AM - 10:00 PM"
-  sunday: "11:00 AM - 9:00 PM"
+  monday: "Closed"
+  tuesday: "8:00 AM–6:00 PM"
+  wednesday: "8:00 AM–7:00 PM"
+  thursday: "8:00 AM–7:00 PM"
+  friday: "8:00 AM–7:00 PM"
+  saturday: "9:00 AM–5:00 PM"
+  sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/great-canadian-oil-change-1.jpg", "/photos/great-canadian-oil-change-2.jpg", "/photos/great-canadian-oil-change-3.jpg"]
-rating: 4.5
-review_count: 480
+rating: 4.4
+review_count: 25
 price_range: "$"
 amenities:
   - "Walk-Ins"

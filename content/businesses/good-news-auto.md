@@ -12,16 +12,16 @@ phone: "(780) 485-1993"
 website: "https://goodnewsauto.ca"
 google_maps_url: "https://maps.google.com/?q=Good+News+Auto+Edmonton"
 hours:
-  monday: "8:30 AM - 5:30 PM"
-  tuesday: "8:30 AM - 5:30 PM"
-  wednesday: "8:30 AM - 5:30 PM"
-  thursday: "8:30 AM - 5:30 PM"
-  friday: "8:30 AM - 5:30 PM"
+  monday: "8:30 AM–5:30 PM"
+  tuesday: "8:30 AM–5:30 PM"
+  wednesday: "8:30 AM–5:30 PM"
+  thursday: "8:30 AM–5:30 PM"
+  friday: "8:30 AM–5:30 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/good-news-auto-1.jpg", "/photos/good-news-auto-2.jpg", "/photos/good-news-auto-3.jpg"]
 rating: 4.5
-review_count: 556
+review_count: 604
 price_range: "$$"
 amenities:
   - "General Repair"

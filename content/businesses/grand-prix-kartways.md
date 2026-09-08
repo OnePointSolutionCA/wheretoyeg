@@ -9,16 +9,16 @@ address: "10120 178 St NW"
 neighborhood: "West Edmonton"
 google_maps_url: "https://maps.google.com/?q=Grand%20Prix%20Kartways%20Edmonton"
 hours:
-  monday: "12:00 PM - 10:00 PM"
-  tuesday: "12:00 PM - 10:00 PM"
-  wednesday: "12:00 PM - 10:00 PM"
-  thursday: "12:00 PM - 10:00 PM"
-  friday: "11:00 AM - 11:00 PM"
-  saturday: "10:00 AM - 11:00 PM"
-  sunday: "10:00 AM - 10:00 PM"
+  monday: "4:00 PM–9:00 PM"
+  tuesday: "4:00 PM–9:00 PM"
+  wednesday: "4:00 PM–9:00 PM"
+  thursday: "4:00 PM–9:00 PM"
+  friday: "1:00 PM–9:00 PM"
+  saturday: "1:00 PM–9:00 PM"
+  sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/grand-prix-kartways-1.jpg", "/photos/grand-prix-kartways-2.jpg", "/photos/grand-prix-kartways-3.jpg"]
-rating: 4.5
-review_count: 890
+rating: 3.3
+review_count: 384
 price_range: "$$$"
 amenities:
   - "Indoor Karting"

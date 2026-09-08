@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 628-1371"
 google_maps_url: "https://maps.google.com/?cid=13820539776801947303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:30 AM - 10:00 PM"
-  tuesday: "9:30 AM - 10:00 PM"
-  wednesday: "9:30 AM - 10:00 PM"
-  thursday: "9:30 AM - 10:00 PM"
-  friday: "9:30 AM - 10:00 PM"
-  saturday: "9:30 AM - 10:00 PM"
-  sunday: "9:30 AM - 10:00 PM"
+  monday: "9:30 AM–10:00 PM"
+  tuesday: "9:30 AM–10:00 PM"
+  wednesday: "9:30 AM–10:00 PM"
+  thursday: "9:30 AM–10:00 PM"
+  friday: "9:30 AM–10:00 PM"
+  saturday: "9:30 AM–10:00 PM"
+  sunday: "9:30 AM–10:00 PM"
 photos: ["/photos/five-star-halal-meat-grocery-store-inc-1.jpg", "/photos/five-star-halal-meat-grocery-store-inc-2.jpg", "/photos/five-star-halal-meat-grocery-store-inc-3.jpg"]
 rating: 5
-review_count: 28
+review_count: 39
 price_range: "$$"
 amenities:
   - "Halal"

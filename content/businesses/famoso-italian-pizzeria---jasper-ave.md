@@ -11,16 +11,16 @@ phone: "(780) 732-0700"
 website: "https://famoso.ca/"
 google_maps_url: "https://maps.google.com/?cid=340585235085046645&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 10:00 PM"
-  tuesday: "11:00 AM - 10:00 PM"
-  wednesday: "11:00 AM - 10:00 PM"
-  thursday: "11:00 AM - 10:00 PM"
-  friday: "11:00 AM - 11:00 PM"
-  saturday: "11:00 AM - 11:00 PM"
-  sunday: "11:00 AM - 10:00 PM"
+  monday: "11:00 AM–10:00 PM"
+  tuesday: "11:00 AM–10:00 PM"
+  wednesday: "11:00 AM–10:00 PM"
+  thursday: "11:00 AM–10:00 PM"
+  friday: "11:00 AM–11:00 PM"
+  saturday: "11:00 AM–11:00 PM"
+  sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/famoso-italian-pizzeria---jasper-ave-1.jpg", "/photos/famoso-italian-pizzeria---jasper-ave-2.jpg", "/photos/famoso-italian-pizzeria---jasper-ave-3.jpg"]
 rating: 4.5
-review_count: 1326
+review_count: 1325
 price_range: "$$"
 amenities:
   - "Delivery"

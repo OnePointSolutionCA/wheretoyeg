@@ -11,16 +11,16 @@ phone: "(780) 244-9588"
 website: "https://ericanbarbershop.com/"
 google_maps_url: "https://maps.google.com/?cid=18156970520762202076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 9:00 PM"
-  tuesday: "9:00 AM - 9:00 PM"
-  wednesday: "9:00 AM - 9:00 PM"
-  thursday: "9:00 AM - 9:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "9:00 AM - 9:00 PM"
-  sunday: "11:00 AM - 7:00 PM"
+  monday: "9:00 AM–9:00 PM"
+  tuesday: "9:00 AM–9:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
+  saturday: "9:00 AM–9:00 PM"
+  sunday: "11:00 AM–7:00 PM"
 photos: ["/photos/erican-barbershop-124st-1.jpg", "/photos/erican-barbershop-124st-2.jpg", "/photos/erican-barbershop-124st-3.jpg"]
 rating: 4.9
-review_count: 744
+review_count: 753
 price_range: "$$"
 amenities:
 
@@ -46,7 +46,7 @@ reviews:
       I highly recommend my barber, Yonas. He is professional, skilled, and always pays close attention to detail. He takes the time to understand exactly what you want, and every haircut comes out clean and precise.
       
       On top of that, he's friendly, punctual, and makes every visit a great experience. If you're looking for a barber you can trust to deliver consistently excellent results, Yonas is the one. Five stars!
-  - name: "Sandra Taktak"
+  - name: "A Google User"
     rating: 5
     comment: |
       Awet is amazing! He always does an incredible job with my boys. He’s patient, friendly, and makes them feel comfortable every time. They absolutely love getting their hair cut by him and are always excited to go back. Highly recommend him if you’re looking for a barber who’s great with kids and takes pride in his work.

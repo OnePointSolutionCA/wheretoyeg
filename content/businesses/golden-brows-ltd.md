@@ -11,16 +11,16 @@ phone: "(780) 200-5480"
 website: "https://goldenbrowsyeg.square.site/"
 google_maps_url: "https://maps.google.com/?cid=8555400410711875049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 7:00 PM"
-  tuesday: "11:00 AM - 7:00 PM"
-  wednesday: "11:00 AM - 7:00 PM"
-  thursday: "10:00 AM - 7:00 PM"
-  friday: "10:00 AM - 7:00 PM"
-  saturday: "10:00 AM - 6:00 PM"
+  monday: "11:00 AM–7:00 PM"
+  tuesday: "11:00 AM–7:00 PM"
+  wednesday: "11:00 AM–7:00 PM"
+  thursday: "10:00 AM–7:00 PM"
+  friday: "10:00 AM–7:00 PM"
+  saturday: "10:00 AM–6:00 PM"
   sunday: "Closed"
 photos: ["/photos/golden-brows-ltd-1.jpg", "/photos/golden-brows-ltd-2.jpg", "/photos/golden-brows-ltd-3.jpg"]
 rating: 4.9
-review_count: 322
+review_count: 323
 price_range: "$$"
 amenities:
 

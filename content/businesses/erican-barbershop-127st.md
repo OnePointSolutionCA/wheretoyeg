@@ -11,16 +11,16 @@ phone: "(780) 473-6582"
 website: "https://ericanbarbershop.com/"
 google_maps_url: "https://maps.google.com/?cid=691486648879185556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 6:00 PM"
-  tuesday: "9:30 AM - 5:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:30 AM - 8:00 PM"
-  friday: "9:30 AM - 8:00 PM"
-  saturday: "9:30 AM - 8:00 PM"
-  sunday: "11:00 AM - 5:00 PM"
+  monday: "10:00 AM–6:00 PM"
+  tuesday: "Closed"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:30 AM–8:00 PM"
+  friday: "9:30 AM–8:00 PM"
+  saturday: "9:30 AM–8:00 PM"
+  sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/erican-barbershop-127st-1.jpg", "/photos/erican-barbershop-127st-2.jpg", "/photos/erican-barbershop-127st-3.jpg"]
 rating: 5
-review_count: 152
+review_count: 154
 price_range: "$$"
 amenities:
 

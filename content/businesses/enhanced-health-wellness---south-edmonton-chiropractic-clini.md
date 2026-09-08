@@ -11,12 +11,12 @@ phone: "(780) 431-1201"
 website: "https://enhancedwellnessclinic.com/?utm_source=GBP&utm_medium=organic"
 google_maps_url: "https://maps.google.com/?cid=2350846901775410764&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 7:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 7:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "9:00 AM - 2:00 PM"
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–7:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "9:00 AM–7:00 PM"
+  friday: "9:00 AM–6:00 PM"
+  saturday: "9:00 AM–2:00 PM"
   sunday: "Closed"
 photos: ["/photos/enhanced-health-wellness---south-edmonton-chiropractic-clini-1.jpg", "/photos/enhanced-health-wellness---south-edmonton-chiropractic-clini-2.jpg", "/photos/enhanced-health-wellness---south-edmonton-chiropractic-clini-3.jpg"]
 rating: 4.9

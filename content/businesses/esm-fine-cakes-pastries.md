@@ -11,15 +11,15 @@ phone: "(780) 477-3987"
 google_maps_url: "https://maps.google.com/?cid=2935815250744888388&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "10:30 AM - 5:30 PM"
-  wednesday: "10:30 AM - 5:30 PM"
-  thursday: "10:30 AM - 6:00 PM"
-  friday: "10:30 AM - 6:00 PM"
-  saturday: "10:30 AM - 6:00 PM"
+  tuesday: "10:30 AM–5:30 PM"
+  wednesday: "10:30 AM–5:30 PM"
+  thursday: "10:30 AM–6:00 PM"
+  friday: "10:30 AM–6:00 PM"
+  saturday: "10:30 AM–6:00 PM"
   sunday: "Closed"
 photos: ["/photos/esm-fine-cakes-pastries-1.jpg", "/photos/esm-fine-cakes-pastries-2.jpg", "/photos/esm-fine-cakes-pastries-3.jpg"]
 rating: 4.8
-review_count: 816
+review_count: 818
 price_range: "$$"
 amenities:
   - "Dine-In"

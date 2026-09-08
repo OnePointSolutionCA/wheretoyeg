@@ -12,16 +12,16 @@ phone: "(780) 757-0071"
 website: "https://frillylilly.ca"
 google_maps_url: "https://maps.google.com/?q=Frilly+Lilly+Windermere+Edmonton"
 hours:
-  monday: "10:00 AM - 6:00 PM"
-  tuesday: "10:00 AM - 6:00 PM"
-  wednesday: "10:00 AM - 8:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 6:00 PM"
-  sunday: "12:00 PM - 5:00 PM"
+  monday: "10:00 AM–6:00 PM"
+  tuesday: "10:00 AM–6:00 PM"
+  wednesday: "10:00 AM–8:00 PM"
+  thursday: "10:00 AM–8:00 PM"
+  friday: "10:00 AM–6:00 PM"
+  saturday: "10:00 AM–6:00 PM"
+  sunday: "12:00 PM–5:00 PM"
 photos: ["/photos/frilly-lilly-1.jpg", "/photos/frilly-lilly-2.jpg", "/photos/frilly-lilly-3.jpg"]
-rating: 4.7
-review_count: 28
+rating: 4.4
+review_count: 154
 price_range: "$$"
 amenities:
   - "Gel Nails"

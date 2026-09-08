@@ -11,16 +11,16 @@ phone: "(780) 454-2075"
 website: "http://gymvmt.com/"
 google_maps_url: "https://maps.google.com/?cid=15847467299487449812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "5:00 AM - 11:00 PM"
-  tuesday: "5:00 AM - 11:00 PM"
-  wednesday: "5:00 AM - 11:00 PM"
-  thursday: "5:00 AM - 11:00 PM"
-  friday: "5:00 AM - 10:00 PM"
-  saturday: "8:00 AM - 8:00 PM"
-  sunday: "8:00 AM - 8:00 PM"
+  monday: "5:00 AM–11:00 PM"
+  tuesday: "5:00 AM–11:00 PM"
+  wednesday: "5:00 AM–11:00 PM"
+  thursday: "5:00 AM–11:00 PM"
+  friday: "5:00 AM–10:00 PM"
+  saturday: "8:00 AM–8:00 PM"
+  sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/gymvmt-fitness-club---westmount-mall-1.jpg", "/photos/gymvmt-fitness-club---westmount-mall-2.jpg", "/photos/gymvmt-fitness-club---westmount-mall-3.jpg"]
 rating: 4.2
-review_count: 196
+review_count: 200
 price_range: "$$"
 amenities:
 

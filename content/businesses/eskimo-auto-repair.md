@@ -14,14 +14,30 @@ google_maps: "https://maps.google.com/?cid=6923592453149668205&g_mp=Cidnb29nbGUu
 reviews:
   - name: "Tanveer Sidhu"
     rating: 5
-    comment: "I have a BMW N20. It started to have time timing noises due to the timing guides being broken. The dealer wanted over 10k to do the job. Eskimo did it for a fraction of the price with OEM quality parts. They walked me three the whole process showing me the difference in offshore parts and quality BMW parts. Thank guys it ls been over 1 year and still is running amazing."
+    comment: |
+      I have a BMW N20. It started to have time timing noises due to the timing guides being broken. The dealer wanted over 10k to do the job. Eskimo did it for a fraction of the price with OEM quality parts. They walked me three the whole process showing me the difference in offshore parts and quality BMW parts. Thank guys it ls been over 1 year and still is running amazing.
+  - name: "DONALD Thunder"
+    rating: 5
+    comment: |
+      Good
   - name: "Kurt Pretzlaw"
     rating: 5
-    comment: "Excellent job servicing my Honda Civic SIR. Would recommend"
+    comment: |
+      Excellent job servicing my Honda Civic SIR. Would recommend
   - name: "Lokpreet Sidhu"
     rating: 5
-    comment: "Excellent experience. They repaired the lifters, camshaft and high volume oil pump on my Dodge Ram 1500 5.7L its running better than ever and price was fair Thanks boys"
+    comment: |
+      Excellent experience. They repaired the lifters, camshaft and high volume oil pump on my Dodge Ram 1500 5.7L its running better than ever and price was fair Thanks boys
   - name: "Marlene Kneller"
     rating: 5
-    comment: "Excellent service repairing my sun roof glass on my Toyota 4Runner"
+    comment: |
+      Excellent service repairing my sun roof glass on my Toyota 4Runner
+hours:
+  monday: "8:30 AM–5:00 PM"
+  tuesday: "8:30 AM–5:00 PM"
+  wednesday: "8:30 AM–5:00 PM"
+  thursday: "8:30 AM–5:00 PM"
+  friday: "8:30 AM–5:00 PM"
+  saturday: "10:00 AM–2:00 PM"
+  sunday: "Closed"
 ---

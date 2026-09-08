@@ -11,12 +11,12 @@ phone: "(587) 689-2198"
 website: "https://glassandskin.com/"
 google_maps_url: "https://maps.google.com/?cid=12961745053111453437&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 7:00 PM"
-  tuesday: "10:00 AM - 7:00 PM"
-  wednesday: "10:00 AM - 7:00 PM"
-  thursday: "10:00 AM - 7:00 PM"
-  friday: "10:00 AM - 7:00 PM"
-  saturday: "10:00 AM - 6:00 PM"
+  monday: "10:00 AM–7:00 PM"
+  tuesday: "10:00 AM–7:00 PM"
+  wednesday: "10:00 AM–7:00 PM"
+  thursday: "10:00 AM–7:00 PM"
+  friday: "10:00 AM–7:00 PM"
+  saturday: "10:00 AM–6:00 PM"
   sunday: "Closed"
 photos: ["/photos/glass-skin-1.jpg", "/photos/glass-skin-2.jpg", "/photos/glass-skin-3.jpg"]
 rating: 5

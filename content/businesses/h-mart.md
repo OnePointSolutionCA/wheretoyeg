@@ -11,16 +11,16 @@ phone: "(780) 758-5577"
 website: "http://ab.hmart.ca/"
 google_maps_url: "https://maps.google.com/?cid=16098205704280289918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 9:30 PM"
-  tuesday: "9:00 AM - 9:30 PM"
-  wednesday: "9:00 AM - 9:30 PM"
-  thursday: "9:00 AM - 9:30 PM"
-  friday: "9:00 AM - 9:30 PM"
-  saturday: "9:00 AM - 9:30 PM"
-  sunday: "9:00 AM - 9:30 PM"
+  monday: "9:00 AM–9:30 PM"
+  tuesday: "9:00 AM–9:30 PM"
+  wednesday: "9:00 AM–9:30 PM"
+  thursday: "9:00 AM–9:30 PM"
+  friday: "9:00 AM–9:30 PM"
+  saturday: "9:00 AM–9:30 PM"
+  sunday: "9:00 AM–9:30 PM"
 photos: ["/photos/h-mart-1.jpg", "/photos/h-mart-2.jpg", "/photos/h-mart-3.jpg"]
 rating: 4.3
-review_count: 2235
+review_count: 2240
 price_range: "$$"
 amenities:
 

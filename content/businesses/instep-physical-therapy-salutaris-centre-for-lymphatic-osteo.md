@@ -11,12 +11,12 @@ phone: "(587) 409-1754"
 website: "https://instepphysio.ca/lymphatic-therapy-edmonton/"
 google_maps_url: "https://maps.google.com/?cid=11314805957412376958&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 8:00 PM"
-  tuesday: "8:00 AM - 8:00 PM"
-  wednesday: "8:00 AM - 8:00 PM"
-  thursday: "8:00 AM - 8:00 PM"
-  friday: "8:00 AM - 8:00 PM"
-  saturday: "8:30 AM - 4:00 PM"
+  monday: "8:00 AM–8:00 PM"
+  tuesday: "8:00 AM–8:00 PM"
+  wednesday: "8:00 AM–8:00 PM"
+  thursday: "8:00 AM–8:00 PM"
+  friday: "8:00 AM–8:00 PM"
+  saturday: "8:30 AM–4:00 PM"
   sunday: "Closed"
 photos: ["/photos/instep-physical-therapy-salutaris-centre-for-lymphatic-osteo-1.jpg", "/photos/instep-physical-therapy-salutaris-centre-for-lymphatic-osteo-2.jpg", "/photos/instep-physical-therapy-salutaris-centre-for-lymphatic-osteo-3.jpg"]
 rating: 4.8

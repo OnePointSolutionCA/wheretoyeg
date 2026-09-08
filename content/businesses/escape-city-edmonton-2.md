@@ -11,16 +11,16 @@ phone: "(780) 761-2489"
 website: "https://escapecity.ca/location/edmonton/"
 google_maps_url: "https://maps.google.com/?cid=18280013270614793297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "2:30 - 10:00 PM"
-  tuesday: "2:30 - 10:00 PM"
-  wednesday: "2:30 - 10:00 PM"
-  thursday: "2:30 - 10:00 PM"
-  friday: "2:30 PM - 12:00 AM"
-  saturday: "10:30 AM - 12:00 AM"
-  sunday: "10:30 AM - 10:00 PM"
+  monday: "2:30 PM–10:00 PM"
+  tuesday: "2:30 PM–10:00 PM"
+  wednesday: "2:30 PM–10:00 PM"
+  thursday: "2:30 PM–10:00 PM"
+  friday: "2:30 PM–12:00 AM"
+  saturday: "10:30 AM–12:00 AM"
+  sunday: "10:30 AM–10:00 PM"
 photos: ["/photos/escape-city-edmonton-2-1.jpg", "/photos/escape-city-edmonton-2-2.jpg", "/photos/escape-city-edmonton-2-3.jpg"]
 rating: 4.7
-review_count: 1068
+review_count: 1069
 price_range: "$$"
 amenities:
 

@@ -11,13 +11,13 @@ phone: "(403) 813-6691"
 website: "http://www.hothairextensions.ca/"
 google_maps_url: "https://maps.google.com/?cid=922424153909534120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 8:00 PM"
-  tuesday: "8:00 AM - 8:00 PM"
-  wednesday: "8:00 AM - 8:00 PM"
-  thursday: "8:00 AM - 8:00 PM"
-  friday: "8:00 AM - 8:00 PM"
-  saturday: "8:00 AM - 8:00 PM"
-  sunday: "8:00 AM - 8:00 PM"
+  monday: "8:00 AM–8:00 PM"
+  tuesday: "8:00 AM–8:00 PM"
+  wednesday: "8:00 AM–8:00 PM"
+  thursday: "8:00 AM–8:00 PM"
+  friday: "8:00 AM–8:00 PM"
+  saturday: "8:00 AM–8:00 PM"
+  sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/hot-hair-extensions-edmonton-1.jpg", "/photos/hot-hair-extensions-edmonton-2.jpg", "/photos/hot-hair-extensions-edmonton-3.jpg"]
 rating: 4.7
 review_count: 198

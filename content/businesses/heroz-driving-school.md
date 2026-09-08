@@ -11,16 +11,16 @@ phone: "(780) 807-2693"
 website: "http://www.herozdrivingschool.com/"
 google_maps_url: "https://maps.google.com/?cid=10926989744401450480&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/heroz-driving-school-1.jpg", "/photos/heroz-driving-school-2.jpg", "/photos/heroz-driving-school-3.jpg"]
 rating: 4.9
-review_count: 614
+review_count: 617
 price_range: "$$"
 amenities:
 

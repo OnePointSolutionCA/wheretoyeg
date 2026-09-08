@@ -11,16 +11,16 @@ phone: "(780) 425-0601"
 website: "http://www.fluffybakery.ca/"
 google_maps_url: "https://maps.google.com/?cid=17014781297073040293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 7:00 PM"
-  tuesday: "7:00 AM - 7:00 PM"
-  wednesday: "7:00 AM - 7:00 PM"
-  thursday: "7:00 AM - 7:00 PM"
-  friday: "7:00 AM - 7:00 PM"
-  saturday: "8:00 AM - 7:00 PM"
-  sunday: "8:00 AM - 7:00 PM"
+  monday: "7:00 AM–7:00 PM"
+  tuesday: "7:00 AM–7:00 PM"
+  wednesday: "7:00 AM–7:00 PM"
+  thursday: "7:00 AM–7:00 PM"
+  friday: "7:00 AM–7:00 PM"
+  saturday: "8:00 AM–7:00 PM"
+  sunday: "8:00 AM–7:00 PM"
 photos: ["/photos/fluffy-bakery-1.jpg", "/photos/fluffy-bakery-2.jpg", "/photos/fluffy-bakery-3.jpg"]
-rating: 4.6
-review_count: 148
+rating: 4.7
+review_count: 155
 price_range: "$"
 amenities:
   - "Dine-In"

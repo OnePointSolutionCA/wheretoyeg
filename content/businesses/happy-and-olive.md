@@ -11,16 +11,16 @@ phone: "(825) 401-4958"
 website: "http://happyandolive.ca/"
 google_maps_url: "https://maps.google.com/?cid=7185565819672878370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 10:00 PM"
-  tuesday: "8:00 AM - 10:00 PM"
-  wednesday: "8:00 AM - 10:00 PM"
-  thursday: "8:00 AM - 10:00 PM"
-  friday: "8:00 AM - 10:00 PM"
-  saturday: "9:00 AM - 10:00 PM"
-  sunday: "9:00 AM - 10:00 PM"
+  monday: "8:00 AM–10:00 PM"
+  tuesday: "8:00 AM–10:00 PM"
+  wednesday: "8:00 AM–10:00 PM"
+  thursday: "8:00 AM–10:00 PM"
+  friday: "8:00 AM–10:00 PM"
+  saturday: "9:00 AM–10:00 PM"
+  sunday: "9:00 AM–10:00 PM"
 photos: ["/photos/happy-and-olive-1.jpg", "/photos/happy-and-olive-2.jpg", "/photos/happy-and-olive-3.jpg"]
 rating: 4.6
-review_count: 479
+review_count: 478
 price_range: "$$"
 amenities:
   - "Dine-In"

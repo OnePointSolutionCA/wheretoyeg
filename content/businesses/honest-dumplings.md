@@ -11,12 +11,12 @@ phone: "(877) 361-6039"
 website: "http://www.honestdumplings.ca/"
 google_maps_url: "https://maps.google.com/?cid=8050294047618844664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 4:00 PM"
-  tuesday: "9:00 AM - 4:00 PM"
-  wednesday: "9:00 AM - 4:00 PM"
-  thursday: "9:00 AM - 4:00 PM"
-  friday: "9:00 AM - 4:00 PM"
-  saturday: "10:00 AM - 4:00 PM"
+  monday: "9:00 AM–4:00 PM"
+  tuesday: "9:00 AM–4:00 PM"
+  wednesday: "9:00 AM–4:00 PM"
+  thursday: "9:00 AM–4:00 PM"
+  friday: "9:00 AM–4:00 PM"
+  saturday: "10:00 AM–4:00 PM"
   sunday: "Closed"
 photos: ["/photos/honest-dumplings-1.jpg", "/photos/honest-dumplings-2.jpg"]
 rating: 4.5

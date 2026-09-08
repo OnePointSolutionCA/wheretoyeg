@@ -16,17 +16,39 @@ photos:
 reviews:
   - name: "Monica Fillmore"
     rating: 5
-    comment: "Grove Dental is the very best place! All staff make you feel like family! Been in this clinic for years, would never go anywhere else. So caring, understanding and everyone goes above & beyond to make it a comfortable experience! You all Rock. Thank you for everything you do!"
+    comment: |
+      Grove Dental is the very best place!
+      All staff make you feel like family!
+      Been in this clinic for years, would never go anywhere else. So caring, understanding and everyone goes above & beyond to make it a comfortable experience!
+      You all Rock. Thank you for everything you do!
   - name: "Jag Pandher"
     rating: 5
-    comment: "Called in to get a regular check up and I was received by nothing but the best hospitality and service. My 'regular' check up was everything I thought plus more! The front end staff and waiting area are knowledgeable and inviting. My hygienist was most welcoming with me (being a first time patient) and helped me understand the process. Dr.Amirie took the time to go over my scans and got to know me (and my cavities :() but he sent me on my way with a healthy and clean smile.  I will definitely be"
+    comment: |
+      Called in to get a regular check up and I was received by nothing but the best hospitality and service. My 'regular' check up was everything I thought plus more! The front end staff and waiting area are knowledgeable and inviting. My hygienist was most welcoming with me (being a first time patient) and helped me understand the process. Dr.Amirie took the time to go over my scans and got to know me (and my cavities :() but he sent me on my way with a healthy and clean smile.
+      
+      I will definitely be back in the future!
+      
+      Great location and tons of parking.
   - name: "Becky Williams"
     rating: 5
-    comment: "Honestly this place makes me feel at home! The receptionists are beyond kind & friendly easing all my worries with prompt communication and providing me with details about costs and appointments. The hygienists are kind and caring! The dentist is great and patient.  Very great dental office."
+    comment: |
+      Honestly this place makes me feel at home! The receptionists are beyond kind & friendly easing all my worries with prompt communication and providing me with details about costs and appointments. The hygienists are kind and caring! The dentist is great and patient.  Very great dental office.
   - name: "Karen Fisher"
     rating: 5
-    comment: "I spend a lot of time with Dr. Amirie, June and Nicole at Grove Dental. I am so fortunate they are such a wonderfully kind and caring team. June and Nicole go above and beyond to make life easier for me and are genuinely thoughtful.  Dr. Amirie is a fabulous dentist. He is very knowledgeable and takes great care to explain the issues I have with my teeth. ( I have a lot of issues with my teeth.) He is meticulous and explains what he is doing step by step. Dr. Amirie has a sense of humour and mak"
+    comment: |
+      I spend a lot of time with Dr. Amirie, June and Nicole at Grove Dental. I am so fortunate they are such a wonderfully kind and caring team. June and Nicole go above and beyond to make life easier for me and are genuinely thoughtful.
+      
+      Dr. Amirie is a fabulous dentist. He is very knowledgeable and takes great care to explain the issues I have with my teeth. ( I have a lot of issues with my teeth.) He is meticulous and explains what he is doing step by step. Dr. Amirie has a sense of humour and makes me feel well cared for. He takes his job very seriously and is doing his best to help me protect my teeth as I get older.
   - name: "ahaydar522"
     rating: 5
-    comment: "Hands down best Dental office in Alberta.  The staff are so kind, patient and helpful.   Dr. Ameen is amazing at his job, very thorough and respectful.   I used to have alot of anxiety about going to the dentist but ever since I found this office I have never felt more safe and calm going to my appointments.  The dental assistants and hygenists are amazing! Everything is just 👌👌"
+    comment: |
+      Hands down best Dental office in Alberta.  The staff are so kind, patient and helpful.   Dr. Ameen is amazing at his job, very thorough and respectful.   I used to have alot of anxiety about going to the dentist but ever since I found this office I have never felt more safe and calm going to my appointments.  The dental assistants and hygenists are amazing! Everything is just 👌👌
+hours:
+  monday: "8:30 AM–7:00 PM"
+  tuesday: "8:30 AM–6:00 PM"
+  wednesday: "8:00 AM–5:00 PM"
+  thursday: "8:00 AM–5:00 PM"
+  friday: "8:00 AM–3:30 PM"
+  saturday: "Closed"
+  sunday: "Closed"
 ---

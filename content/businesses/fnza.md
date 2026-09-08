@@ -12,12 +12,12 @@ website: "https://fnza.wtf/"
 google_maps_url: "https://maps.google.com/?cid=15599589262030742009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "11:00 AM - 11:00 PM"
-  wednesday: "11:00 AM - 11:00 PM"
-  thursday: "11:00 AM - 11:00 PM"
-  friday: "11:00 AM - 11:00 PM"
-  saturday: "11:00 AM - 11:00 PM"
-  sunday: "11:00 AM - 11:00 PM"
+  tuesday: "11:00 AM–11:00 PM"
+  wednesday: "11:00 AM–11:00 PM"
+  thursday: "11:00 AM–11:00 PM"
+  friday: "11:00 AM–11:00 PM"
+  saturday: "11:00 AM–11:00 PM"
+  sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/fnza-1.jpg", "/photos/fnza-2.jpg", "/photos/fnza-3.jpg"]
 rating: 4.8
 review_count: 248

@@ -12,15 +12,15 @@ website: "http://www.halasalon.ca/"
 google_maps_url: "https://maps.google.com/?cid=6970094189100237851&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "10:00 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 4:00 PM"
+  tuesday: "10:00 AM–8:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–6:00 PM"
+  saturday: "10:00 AM–4:00 PM"
   sunday: "Closed"
 photos: ["/photos/hala-salon-1.jpg", "/photos/hala-salon-2.jpg", "/photos/hala-salon-3.jpg"]
 rating: 5
-review_count: 465
+review_count: 477
 price_range: "$$"
 amenities:
 

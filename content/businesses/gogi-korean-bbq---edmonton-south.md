@@ -11,16 +11,16 @@ phone: "(780) 328-7710"
 website: "https://gogikoreanbbq.ca/"
 google_maps_url: "https://maps.google.com/?cid=4666972274292791978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "3:00 - 10:00 PM"
-  tuesday: "3:00 - 10:00 PM"
-  wednesday: "3:00 - 10:00 PM"
-  thursday: "3:00 - 10:00 PM"
-  friday: "11:30 AM - 10:00 PM"
-  saturday: "11:30 AM - 10:00 PM"
-  sunday: "11:30 AM - 10:00 PM"
+  monday: "3:00 PM–10:00 PM"
+  tuesday: "3:00 PM–10:00 PM"
+  wednesday: "3:00 PM–10:00 PM"
+  thursday: "3:00 PM–10:00 PM"
+  friday: "11:30 AM–10:00 PM"
+  saturday: "11:30 AM–10:00 PM"
+  sunday: "11:30 AM–10:00 PM"
 photos: ["/photos/gogi-korean-bbq---edmonton-south-1.jpg", "/photos/gogi-korean-bbq---edmonton-south-2.jpg", "/photos/gogi-korean-bbq---edmonton-south-3.jpg"]
 rating: 4.8
-review_count: 1115
+review_count: 1112
 price_range: "$$"
 amenities:
   - "Dine-In"

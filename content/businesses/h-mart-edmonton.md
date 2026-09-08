@@ -9,16 +9,16 @@ address: "10 Bulyea Rd NW"
 neighborhood: "South Edmonton"
 google_maps_url: "https://maps.google.com/?q=H%20Mart%20Edmonton%20Edmonton"
 hours:
-  monday: "9:00 AM - 9:00 PM"
-  tuesday: "9:00 AM - 9:00 PM"
-  wednesday: "9:00 AM - 9:00 PM"
-  thursday: "9:00 AM - 9:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "9:00 AM - 9:00 PM"
-  sunday: "9:00 AM - 9:00 PM"
+  monday: "9:00 AM–9:30 PM"
+  tuesday: "9:00 AM–9:30 PM"
+  wednesday: "9:00 AM–9:30 PM"
+  thursday: "9:00 AM–9:30 PM"
+  friday: "9:00 AM–9:30 PM"
+  saturday: "9:00 AM–9:30 PM"
+  sunday: "9:00 AM–9:30 PM"
 photos: ["/photos/h-mart-edmonton-1.jpg", "/photos/h-mart-edmonton-2.jpg", "/photos/h-mart-edmonton-3.jpg"]
-rating: 4.6
-review_count: 620
+rating: 4.2
+review_count: 478
 price_range: "$$"
 amenities:
   - "Fresh Seafood"

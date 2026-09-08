@@ -11,16 +11,16 @@ phone: "(780) 652-0112"
 website: "https://www.hatchd.ca/"
 google_maps_url: "https://maps.google.com/?cid=14614950325686437851&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 6:00 PM"
-  tuesday: "7:00 AM - 6:00 PM"
-  wednesday: "7:00 AM - 6:00 PM"
-  thursday: "7:00 AM - 6:00 PM"
-  friday: "7:00 AM - 6:00 PM"
-  saturday: "8:00 AM - 6:00 PM"
-  sunday: "8:00 AM - 6:00 PM"
+  monday: "7:00 AM–6:00 PM"
+  tuesday: "7:00 AM–6:00 PM"
+  wednesday: "7:00 AM–6:00 PM"
+  thursday: "7:00 AM–6:00 PM"
+  friday: "7:00 AM–6:00 PM"
+  saturday: "8:00 AM–6:00 PM"
+  sunday: "8:00 AM–6:00 PM"
 photos: ["/photos/hatchd-1.jpg", "/photos/hatchd-2.jpg", "/photos/hatchd-3.jpg"]
 rating: 4.5
-review_count: 117
+review_count: 118
 price_range: "$$"
 amenities:
   - "Dine-In"

@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 244-4880"
 google_maps_url: "https://maps.google.com/?cid=18065979978776499649&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 9:00 PM"
-  tuesday: "11:00 AM - 9:00 PM"
-  wednesday: "11:00 AM - 9:00 PM"
-  thursday: "11:00 AM - 10:00 PM"
-  friday: "11:00 AM - 10:00 PM"
-  saturday: "11:00 AM - 10:00 PM"
-  sunday: "12:00 - 10:00 PM"
+  monday: "11:00 AM–9:00 PM"
+  tuesday: "11:00 AM–9:00 PM"
+  wednesday: "11:00 AM–9:00 PM"
+  thursday: "11:00 AM–10:00 PM"
+  friday: "11:00 AM–10:00 PM"
+  saturday: "11:00 AM–10:00 PM"
+  sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/habesha-cravings-1.jpg", "/photos/habesha-cravings-2.jpg", "/photos/habesha-cravings-3.jpg"]
 rating: 4.7
-review_count: 303
+review_count: 312
 price_range: "$$"
 amenities:
   - "Dine-In"

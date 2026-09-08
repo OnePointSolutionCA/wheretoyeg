@@ -11,16 +11,16 @@ phone: "(780) 757-2288"
 website: "https://emperorspalacetogo.com/"
 google_maps_url: "https://maps.google.com/?cid=1284830547401897291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:30 AM - 8:00 PM"
-  tuesday: "10:30 AM - 8:00 PM"
-  wednesday: "10:30 AM - 8:00 PM"
-  thursday: "10:30 AM - 8:00 PM"
-  friday: "10:30 AM - 8:00 PM"
-  saturday: "10:00 AM - 8:00 PM"
-  sunday: "10:00 AM - 8:00 PM"
+  monday: "10:30 AM–8:00 PM"
+  tuesday: "10:30 AM–8:00 PM"
+  wednesday: "10:30 AM–8:00 PM"
+  thursday: "10:30 AM–8:00 PM"
+  friday: "10:30 AM–8:00 PM"
+  saturday: "10:00 AM–8:00 PM"
+  sunday: "10:00 AM–8:00 PM"
 photos: ["/photos/emperors-palace-chinese-cuisine-1.jpg", "/photos/emperors-palace-chinese-cuisine-2.jpg", "/photos/emperors-palace-chinese-cuisine-3.jpg"]
 rating: 4.1
-review_count: 973
+review_count: 975
 price_range: "$$"
 amenities:
   - "Dine-In"

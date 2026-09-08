@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 website: "https://evolvecoffee.co/"
 google_maps_url: "https://maps.google.com/?cid=11542975110155553573&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 5:00 PM"
-  tuesday: "7:00 AM - 5:00 PM"
-  wednesday: "7:00 AM - 5:00 PM"
-  thursday: "7:00 AM - 5:00 PM"
-  friday: "7:00 AM - 5:00 PM"
+  monday: "7:00 AM–5:00 PM"
+  tuesday: "7:00 AM–5:00 PM"
+  wednesday: "7:00 AM–5:00 PM"
+  thursday: "7:00 AM–5:00 PM"
+  friday: "7:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/evolve-coffee-co-1.jpg", "/photos/evolve-coffee-co-2.jpg", "/photos/evolve-coffee-co-3.jpg"]
 rating: 5
-review_count: 20
+review_count: 24
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -41,14 +41,12 @@ reviews:
     rating: 5
     comment: |
       delicious coffee and friendly staff!!
-  - name: "Annika W"
+  - name: "Jonathon Brozny"
     rating: 5
     comment: |
-      Love this cafe! Super chill environment with lots of seating and free parking which is such a plus! Great space to study or work
-      
-      For anyone who is interested, for syrups they have vanilla, salted caramel, cinnamon, and sugar free vanilla! Iced or hot for all drinks!
-  - name: "Julia Zantingh"
+      Great little shop in the research park. Definitely worth checking out!
+  - name: "Bonnie Fehr"
     rating: 5
     comment: |
-      The best cafe! Great team and I love their vibe. The baristas are kind and care deeply about the customers.
+      super cozy!  not a ton of selection (coffee, muffins, cookies and scones) but what they have is super tasty!   And the service is very friendly. I had a drip coffee and delicious strawberry rhubarb muffin.  I took it out onto their little patio to enjoy a perfect summer morning!
 ---

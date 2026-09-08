@@ -11,16 +11,16 @@ phone: "(780) 443-0250"
 website: "https://forumlaw.ca/"
 google_maps_url: "https://maps.google.com/?cid=8144245475403768905&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:30 AM - 5:00 PM"
-  tuesday: "8:30 AM - 5:00 PM"
-  wednesday: "8:30 AM - 5:00 PM"
-  thursday: "8:30 AM - 5:00 PM"
-  friday: "8:30 AM - 5:00 PM"
+  monday: "8:30 AM–5:00 PM"
+  tuesday: "8:30 AM–5:00 PM"
+  wednesday: "8:30 AM–5:00 PM"
+  thursday: "8:30 AM–5:00 PM"
+  friday: "8:30 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/forum-law-llp-business-family-and-litigation-lawyer-1.jpg", "/photos/forum-law-llp-business-family-and-litigation-lawyer-2.jpg", "/photos/forum-law-llp-business-family-and-litigation-lawyer-3.jpg"]
 rating: 4.8
-review_count: 221
+review_count: 225
 price_range: "$$"
 amenities:
 

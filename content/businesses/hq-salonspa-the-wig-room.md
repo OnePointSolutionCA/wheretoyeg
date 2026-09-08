@@ -11,12 +11,12 @@ phone: "(780) 464-4247"
 website: "http://www.hqsalonspa.ca/"
 google_maps_url: "https://maps.google.com/?cid=10321652512669335491&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 5:00 PM"
-  tuesday: "8:00 AM - 9:00 PM"
-  wednesday: "8:00 AM - 9:00 PM"
-  thursday: "8:00 AM - 9:00 PM"
-  friday: "8:00 AM - 5:00 PM"
-  saturday: "8:00 AM - 5:00 PM"
+  monday: "8:00 AM–5:00 PM"
+  tuesday: "8:00 AM–9:00 PM"
+  wednesday: "8:00 AM–9:00 PM"
+  thursday: "8:00 AM–9:00 PM"
+  friday: "8:00 AM–5:00 PM"
+  saturday: "8:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/hq-salonspa-the-wig-room-1.jpg", "/photos/hq-salonspa-the-wig-room-2.jpg", "/photos/hq-salonspa-the-wig-room-3.jpg"]
 rating: 4.7

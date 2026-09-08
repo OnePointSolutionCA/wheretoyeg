@@ -10,13 +10,13 @@ neighborhood: "Edmonton"
 phone: "(780) 496-9020"
 google_maps_url: "https://maps.google.com/?cid=995854868184768157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 10:00 PM"
-  tuesday: "8:00 AM - 10:00 PM"
-  wednesday: "8:00 AM - 10:00 PM"
-  thursday: "8:00 AM - 10:00 PM"
-  friday: "8:00 AM - 10:00 PM"
-  saturday: "8:00 AM - 10:00 PM"
-  sunday: "8:00 AM - 10:00 PM"
+  monday: "8:00 AM–10:00 PM"
+  tuesday: "8:00 AM–10:00 PM"
+  wednesday: "8:00 AM–10:00 PM"
+  thursday: "8:00 AM–10:00 PM"
+  friday: "8:00 AM–10:00 PM"
+  saturday: "8:00 AM–10:00 PM"
+  sunday: "8:00 AM–10:00 PM"
 photos: ["/photos/hotshot-touchless-auto-wash-1.jpg", "/photos/hotshot-touchless-auto-wash-2.jpg", "/photos/hotshot-touchless-auto-wash-3.jpg"]
 rating: 4.3
 review_count: 292

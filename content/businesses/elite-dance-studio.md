@@ -11,12 +11,12 @@ phone: "(780) 953-0041"
 website: "https://www.elitedancestudio.net/"
 google_maps_url: "https://maps.google.com/?cid=13490952938826590510&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "4:30 - 9:30 PM"
-  tuesday: "4:30 - 9:30 PM"
-  wednesday: "4:30 - 9:30 PM"
-  thursday: "4:30 - 9:30 PM"
-  friday: "4:30 - 9:30 PM"
-  saturday: "9:00 AM - 2:00 PM"
+  monday: "4:30 PM–9:30 PM"
+  tuesday: "4:30 PM–9:30 PM"
+  wednesday: "4:30 PM–9:30 PM"
+  thursday: "4:30 PM–9:30 PM"
+  friday: "4:30 PM–9:30 PM"
+  saturday: "9:00 AM–2:00 PM"
   sunday: "Closed"
 photos: ["/photos/elite-dance-studio-1.jpg", "/photos/elite-dance-studio-2.jpg", "/photos/elite-dance-studio-3.jpg"]
 rating: 4.8

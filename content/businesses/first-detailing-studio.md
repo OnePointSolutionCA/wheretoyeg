@@ -11,16 +11,16 @@ phone: "(780) 540-0111"
 website: "https://firstdetailing.ca/"
 google_maps_url: "https://maps.google.com/?cid=5374609798819244719&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "9:00 AM - 3:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
+  saturday: "9:00 AM–3:00 PM"
   sunday: "Closed"
 photos: ["/photos/first-detailing-studio-1.jpg", "/photos/first-detailing-studio-2.jpg", "/photos/first-detailing-studio-3.jpg"]
 rating: 4.9
-review_count: 548
+review_count: 550
 price_range: "$$"
 amenities:
 

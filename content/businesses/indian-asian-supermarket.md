@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 440-3655"
 google_maps_url: "https://maps.google.com/?cid=9049590278281611671&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 9:30 PM"
-  tuesday: "9:00 AM - 9:30 PM"
-  wednesday: "9:00 AM - 9:30 PM"
-  thursday: "9:00 AM - 9:30 PM"
-  friday: "9:00 AM - 9:30 PM"
-  saturday: "9:30 AM - 9:30 PM"
-  sunday: "9:30 AM - 9:30 PM"
+  monday: "9:00 AM–9:30 PM"
+  tuesday: "9:00 AM–9:30 PM"
+  wednesday: "9:00 AM–9:30 PM"
+  thursday: "9:00 AM–9:30 PM"
+  friday: "9:00 AM–9:30 PM"
+  saturday: "9:30 AM–9:00 PM"
+  sunday: "9:30 AM–9:00 PM"
 photos: ["/photos/indian-asian-supermarket-1.jpg", "/photos/indian-asian-supermarket-2.jpg", "/photos/indian-asian-supermarket-3.jpg"]
 rating: 4.7
-review_count: 349
+review_count: 353
 price_range: "$$"
 amenities:
   - "Dine-In"

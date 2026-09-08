@@ -11,16 +11,16 @@ phone: "(780) 454-7625"
 website: "https://www.rockjungleclimbing.ca/factory-1"
 google_maps_url: "https://maps.google.com/?cid=9839800574184600715&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 11:00 PM"
-  tuesday: "11:00 AM - 11:00 PM"
-  wednesday: "11:00 AM - 11:00 PM"
-  thursday: "11:00 AM - 11:00 PM"
-  friday: "11:00 AM - 11:00 PM"
-  saturday: "9:00 AM - 9:00 PM"
-  sunday: "9:00 AM - 9:00 PM"
+  monday: "11:00 AM–11:00 PM"
+  tuesday: "11:00 AM–11:00 PM"
+  wednesday: "11:00 AM–11:00 PM"
+  thursday: "11:00 AM–11:00 PM"
+  friday: "11:00 AM–11:00 PM"
+  saturday: "9:00 AM–9:00 PM"
+  sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/factory-climbing-1.jpg", "/photos/factory-climbing-2.jpg", "/photos/factory-climbing-3.jpg"]
 rating: 4.8
-review_count: 307
+review_count: 308
 price_range: "$$"
 amenities:
 

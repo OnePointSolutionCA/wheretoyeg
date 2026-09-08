@@ -11,13 +11,13 @@ phone: "(368) 885-1613"
 website: "https://www.houseoflagree.com/"
 google_maps_url: "https://maps.google.com/?cid=7981649700934311734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "5:30 AM - 12:00 PM, 4:00 - 8:00 PM"
-  tuesday: "5:30 AM - 12:00 PM, 4:00 - 8:00 PM"
-  wednesday: "5:30 AM - 12:00 PM, 4:00 - 8:00 PM"
-  thursday: "5:30 AM - 12:00 PM, 4:00 - 8:00 PM"
-  friday: "5:30 AM - 12:00 PM, 3:00 - 8:00 PM"
-  saturday: "7:00 AM - 1:00 PM"
-  sunday: "7:30 AM - 2:00 PM"
+  monday: "5:30 AM–12:00 PM"
+  tuesday: "5:30 AM–12:00 PM"
+  wednesday: "5:30 AM–12:00 PM"
+  thursday: "5:30 AM–12:00 PM"
+  friday: "5:30 AM–12:00 PM"
+  saturday: "7:00 AM–1:00 PM"
+  sunday: "7:30 AM–2:00 PM"
 photos: ["/photos/house-of-lagree---central-1.jpg", "/photos/house-of-lagree---central-2.jpg", "/photos/house-of-lagree---central-3.jpg"]
 rating: 5
 review_count: 161

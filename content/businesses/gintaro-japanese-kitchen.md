@@ -11,16 +11,16 @@ phone: "(780) 473-8300"
 website: "http://www.gintarokitchen.com/"
 google_maps_url: "https://maps.google.com/?cid=11048814412998273788&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:30 AM - 9:00 PM"
-  tuesday: "11:30 AM - 9:00 PM"
+  monday: "11:30 AM–9:00 PM"
+  tuesday: "11:30 AM–9:00 PM"
   wednesday: "Closed"
-  thursday: "11:30 AM - 9:00 PM"
-  friday: "11:30 AM - 9:00 PM"
-  saturday: "11:30 AM - 9:00 PM"
-  sunday: "11:30 AM - 9:00 PM"
+  thursday: "11:30 AM–9:00 PM"
+  friday: "11:30 AM–9:00 PM"
+  saturday: "11:30 AM–9:00 PM"
+  sunday: "11:30 AM–9:00 PM"
 photos: ["/photos/gintaro-japanese-kitchen-1.jpg", "/photos/gintaro-japanese-kitchen-2.jpg", "/photos/gintaro-japanese-kitchen-3.jpg"]
 rating: 4.6
-review_count: 656
+review_count: 659
 price_range: "$$"
 amenities:
   - "Dine-In"

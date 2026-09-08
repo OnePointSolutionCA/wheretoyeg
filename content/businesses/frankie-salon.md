@@ -11,16 +11,16 @@ phone: "(587) 713-8006"
 website: "https://frankiesalon.com/?utm_source=Google+Business+Profiles&utm_medium=GMB&utm_campaign=Google+My+Business"
 google_maps_url: "https://maps.google.com/?cid=5332172930758767127&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 5:00 PM"
-  tuesday: "8:00 AM - 8:00 PM"
-  wednesday: "8:00 AM - 8:00 PM"
-  thursday: "8:00 AM - 8:00 PM"
-  friday: "8:00 AM - 6:00 PM"
-  saturday: "8:00 AM - 4:00 PM"
+  monday: "8:00 AM–5:00 PM"
+  tuesday: "8:00 AM–8:00 PM"
+  wednesday: "8:00 AM–8:00 PM"
+  thursday: "8:00 AM–8:00 PM"
+  friday: "8:00 AM–6:00 PM"
+  saturday: "8:00 AM–4:00 PM"
   sunday: "Closed"
 photos: ["/photos/frankie-salon-1.jpg", "/photos/frankie-salon-2.jpg", "/photos/frankie-salon-3.jpg"]
 rating: 4.9
-review_count: 1004
+review_count: 1009
 price_range: "$$$$"
 amenities:
 

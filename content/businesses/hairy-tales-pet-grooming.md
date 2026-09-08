@@ -11,13 +11,13 @@ phone: "(587) 597-2206"
 website: "https://hairytales.ca/"
 google_maps_url: "https://maps.google.com/?cid=5369219915880975416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:30 AM - 3:30 PM"
-  tuesday: "9:30 AM - 3:30 PM"
-  wednesday: "9:30 AM - 3:30 PM"
-  thursday: "3:00 - 8:00 PM"
-  friday: "3:00 - 8:00 PM"
+  monday: "10:00 AM–3:00 PM"
+  tuesday: "10:00 AM–3:00 PM"
+  wednesday: "10:00 AM–3:00 PM"
+  thursday: "5:00 PM–8:00 PM"
+  friday: "Closed"
   saturday: "Closed"
-  sunday: "8:00 AM - 12:30 PM"
+  sunday: "8:00 AM–12:00 PM"
 photos: ["/photos/hairy-tales-pet-grooming-1.jpg", "/photos/hairy-tales-pet-grooming-2.jpg", "/photos/hairy-tales-pet-grooming-3.jpg"]
 rating: 5
 review_count: 39

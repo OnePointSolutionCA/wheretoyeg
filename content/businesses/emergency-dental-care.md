@@ -11,13 +11,13 @@ phone: "(587) 410-3520"
 website: "https://www.emergencydentalclinics.ca/site/home?utm_source=G&utm_medium=LPM&utm_campaign=DentalCorp"
 google_maps_url: "https://maps.google.com/?cid=4769553038726363762&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 8:00 PM"
-  tuesday: "8:00 AM - 8:00 PM"
-  wednesday: "8:00 AM - 8:00 PM"
-  thursday: "8:00 AM - 6:00 PM"
-  friday: "8:00 AM - 4:00 PM"
-  saturday: "8:00 AM - 4:00 PM"
-  sunday: "9:00 AM - 4:00 PM"
+  monday: "8:00 AM–8:00 PM"
+  tuesday: "8:00 AM–8:00 PM"
+  wednesday: "8:00 AM–8:00 PM"
+  thursday: "8:00 AM–6:00 PM"
+  friday: "8:00 AM–4:00 PM"
+  saturday: "8:00 AM–4:00 PM"
+  sunday: "9:00 AM–4:00 PM"
 photos: ["/photos/emergency-dental-care-1.jpg", "/photos/emergency-dental-care-2.jpg", "/photos/emergency-dental-care-3.jpg"]
 rating: 4.9
 review_count: 616

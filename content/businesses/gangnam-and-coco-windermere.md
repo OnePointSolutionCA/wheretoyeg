@@ -16,17 +16,40 @@ photos:
 reviews:
   - name: "Yana Davydenko"
     rating: 5
-    comment: "We tried the chicken with rice – it was incredibly delicious! And the corn dogs were super tasty too! The food is definitely 10/10. The girl at the counter was a bit hard to understand, but I think that’s more on me than the place itself. Overall, great experience!"
+    comment: |
+      We tried the chicken with rice – it was incredibly delicious! And the corn dogs were super tasty too! The food is definitely 10/10. The girl at the counter was a bit hard to understand, but I think that’s more on me than the place itself. Overall, great experience!
   - name: "Clarisse Carreon"
     rating: 3
-    comment: "The food was great. I don’t have any complaints about that. However, the service could have been better. We ate in tonight and had some leftovers to take home, so my husband went up to the counter to ask for 2 take-out boxes. We were told that it would 25 cents per box, which was fine as I understand some restaurants charge for that. However, we didn’t have the exact cash needed. My son had a quarter in his pocket, and I only had 2 dimes in my purse.  So my husband asked if it’s ok that we were "
+    comment: |
+      The food was great. I don’t have any complaints about that. However, the service could have been better. We ate in tonight and had some leftovers to take home, so my husband went up to the counter to ask for 2 take-out boxes. We were told that it would 25 cents per box, which was fine as I understand some restaurants charge for that. However, we didn’t have the exact cash needed. My son had a quarter in his pocket, and I only had 2 dimes in my purse.
+      
+      So my husband asked if it’s ok that we were short 5cents. The lady at the counter refused. She gave us one proper box, and only a half box without a lid (see picture), but still took our 45cents. We had no choice but to take it. And since it was a really snowy night, we ended up running out to our car with  snow falling on our uncovered box of food.
+      
+      It just really left a sour taste in my mouth. I don’t think being short 5cents would have hurt their business, just to be able to offer their customer a proper takeout box to safely take home our food.
   - name: "Sheniah Ronn Baoidan"
     rating: 2
-    comment: "Seriously. I just woke up from a nap, wanted ramen the soup, but look there’s barely any in here. Why would I dump the soup and take a picture? I’m not that crazy. I also PAID additional for some kimchi but there’s no kimchi :) .  Gurl just wanted the soup and kimchi but you didn’t provide  Ordered from uber, 9:00pm Feb.11"
+    comment: |
+      Seriously. I just woke up from a nap, wanted ramen the soup, but look there’s barely any in here. Why would I dump the soup and take a picture? I’m not that crazy. I also PAID additional for some kimchi but there’s no kimchi :) .
+      
+      Gurl just wanted the soup and kimchi but you didn’t provide
+      
+      Ordered from uber, 9:00pm Feb.11
   - name: "snowboarderdude"
     rating: 1
-    comment: "Been eating here a long time.  The chicken is nice but be ready to argue for dipping sauces here (not talking about soya sauces either).  I will continue to order from here but I agree with Jeff Careon, the lady with glasses is not nice.  More customer service training required.  Been back recently, the chicken is nice.  Didn’t bother fighting for the regular sauce that went with the with the appetizer.  I decided to put my over all rating lower because this."
+    comment: |
+      Been eating here a long time.  The chicken is nice but be ready to argue for dipping sauces here (not talking about soya sauces either).  I will continue to order from here but I agree with Jeff Careon, the lady with glasses is not nice.  More customer service training required.
+      
+      Been back recently, the chicken is nice.  Didn’t bother fighting for the regular sauce that went with the with the appetizer.  I decided to put my over all rating lower because this.
   - name: "Dale Shuya"
     rating: 4
-    comment: "I stopped in as I had work in the area and tried the Yang Yum chicken bites. It was mention that it was sweet and spicy. It was sweet but not too spicy. This was my first visit and I would like to try a few other items in the menu, next time."
+    comment: |
+      I stopped in as I had work in the area and tried the Yang Yum chicken bites. It was mention that it was sweet and spicy. It was sweet but not too spicy. This was my first visit and I would like to try a few other items in the menu, next time.
+hours:
+  monday: "11:30 AM–10:00 PM"
+  tuesday: "11:30 AM–10:00 PM"
+  wednesday: "11:30 AM–10:00 PM"
+  thursday: "11:30 AM–10:00 PM"
+  friday: "11:30 AM–10:00 PM"
+  saturday: "11:30 AM–10:00 PM"
+  sunday: "11:30 AM–9:00 PM"
 ---

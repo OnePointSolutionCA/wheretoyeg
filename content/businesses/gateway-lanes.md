@@ -9,16 +9,16 @@ address: "Gateway Blvd, Edmonton"
 neighborhood: "South Edmonton"
 google_maps_url: "https://maps.google.com/?q=Gateway%20Lanes%20Edmonton"
 hours:
-  monday: "12:00 PM - 10:00 PM"
-  tuesday: "12:00 PM - 10:00 PM"
-  wednesday: "12:00 PM - 10:00 PM"
-  thursday: "12:00 PM - 10:00 PM"
-  friday: "11:00 AM - 11:00 PM"
-  saturday: "10:00 AM - 11:00 PM"
-  sunday: "10:00 AM - 10:00 PM"
+  monday: "4:00 PM–11:00 PM"
+  tuesday: "4:00 PM–11:00 PM"
+  wednesday: "4:00 PM–11:00 PM"
+  thursday: "4:00 PM–11:00 PM"
+  friday: "4:00 PM–12:00 AM"
+  saturday: "11:00 AM–12:00 AM"
+  sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/gateway-lanes-1.jpg", "/photos/gateway-lanes-2.jpg", "/photos/gateway-lanes-3.jpg"]
-rating: 4.4
-review_count: 380
+rating: 3.8
+review_count: 46
 price_range: "$$"
 amenities:
   - "Birthday Parties"

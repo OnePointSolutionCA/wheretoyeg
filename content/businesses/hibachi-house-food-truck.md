@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(587) 982-2998"
 google_maps_url: "https://maps.google.com/?cid=532876611062170195&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 9:30 PM"
-  tuesday: "12:00 - 9:30 PM"
-  wednesday: "12:00 - 9:30 PM"
-  thursday: "12:00 - 9:30 PM"
-  friday: "12:00 - 9:30 PM"
-  saturday: "12:00 - 9:30 PM"
-  sunday: "12:00 - 9:30 PM"
+  monday: "12:00 PM–9:30 PM"
+  tuesday: "12:00 PM–9:30 PM"
+  wednesday: "12:00 PM–9:30 PM"
+  thursday: "12:00 PM–9:30 PM"
+  friday: "12:00 PM–9:30 PM"
+  saturday: "12:00 PM–9:30 PM"
+  sunday: "12:00 PM–9:30 PM"
 photos: ["/photos/hibachi-house-food-truck-1.jpg", "/photos/hibachi-house-food-truck-2.jpg", "/photos/hibachi-house-food-truck-3.jpg"]
 rating: 4.9
-review_count: 35
+review_count: 42
 price_range: "$"
 amenities:
   - "Halal"

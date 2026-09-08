@@ -11,16 +11,16 @@ phone: "(587) 520-5563"
 website: "https://www.infinityautospa.ca/"
 google_maps_url: "https://maps.google.com/?cid=10510084194892074826&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 6:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "9:00 AM - 6:00 PM"
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–6:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "9:00 AM–6:00 PM"
+  friday: "9:00 AM–6:00 PM"
+  saturday: "9:00 AM–6:00 PM"
   sunday: "Closed"
 photos: ["/photos/infinity-auto-spa-detailing-1.jpg", "/photos/infinity-auto-spa-detailing-2.jpg", "/photos/infinity-auto-spa-detailing-3.jpg"]
 rating: 4.9
-review_count: 369
+review_count: 368
 price_range: "$$"
 amenities:
 

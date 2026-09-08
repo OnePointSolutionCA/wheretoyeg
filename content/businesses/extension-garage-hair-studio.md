@@ -11,16 +11,16 @@ phone: "(587) 984-6242"
 website: "https://extensiongarage.com/"
 google_maps_url: "https://maps.google.com/?cid=10903340575168242545&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 9:00 PM"
-  tuesday: "9:00 AM - 9:00 PM"
-  wednesday: "9:00 AM - 9:00 PM"
-  thursday: "9:00 AM - 9:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "9:00 AM - 9:00 PM"
+  monday: "9:00 AM–9:00 PM"
+  tuesday: "9:00 AM–9:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
+  saturday: "9:00 AM–9:00 PM"
   sunday: "Closed"
 photos: ["/photos/extension-garage-hair-studio-1.jpg", "/photos/extension-garage-hair-studio-2.jpg", "/photos/extension-garage-hair-studio-3.jpg"]
 rating: 4.9
-review_count: 54
+review_count: 55
 price_range: "$$"
 amenities:
 

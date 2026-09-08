@@ -12,16 +12,16 @@ phone: "(780) 475-4909"
 website: "https://elsafadisupermarket.ca"
 google_maps_url: "https://maps.google.com/?q=Elsafadi+Supermarket+Edmonton"
 hours:
-  monday: "9:00 AM - 9:00 PM"
-  tuesday: "9:00 AM - 9:00 PM"
-  wednesday: "9:00 AM - 9:00 PM"
-  thursday: "9:00 AM - 9:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "9:00 AM - 9:00 PM"
-  sunday: "10:00 AM - 7:00 PM"
+  monday: "9:00 AM–9:00 PM"
+  tuesday: "9:00 AM–9:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
+  saturday: "10:00 AM–9:00 PM"
+  sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/elsafadi-supermarket-1.jpg", "/photos/elsafadi-supermarket-2.jpg", "/photos/elsafadi-supermarket-3.jpg"]
 rating: 4.4
-review_count: 1208
+review_count: 1283
 price_range: "$$"
 amenities:
   - "Halal Meat"

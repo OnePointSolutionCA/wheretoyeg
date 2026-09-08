@@ -11,13 +11,13 @@ phone: "(780) 756-6777"
 website: "https://www.instagram.com/hmart_ua"
 google_maps_url: "https://maps.google.com/?cid=12686666960035758166&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:30 AM - 7:00 PM"
-  tuesday: "11:30 AM - 7:00 PM"
-  wednesday: "11:30 AM - 7:00 PM"
-  thursday: "11:30 AM - 7:00 PM"
-  friday: "11:30 AM - 7:00 PM"
-  saturday: "11:30 AM - 5:30 PM"
-  sunday: "11:30 AM - 7:00 PM"
+  monday: "11:30 AM–7:00 PM"
+  tuesday: "11:30 AM–7:00 PM"
+  wednesday: "11:30 AM–7:00 PM"
+  thursday: "11:30 AM–7:00 PM"
+  friday: "11:30 AM–7:00 PM"
+  saturday: "11:30 AM–5:30 PM"
+  sunday: "11:30 AM–7:00 PM"
 photos: ["/photos/h-mart-ua-hkitchen-1.jpg", "/photos/h-mart-ua-hkitchen-2.jpg", "/photos/h-mart-ua-hkitchen-3.jpg"]
 rating: 4.2
 review_count: 44

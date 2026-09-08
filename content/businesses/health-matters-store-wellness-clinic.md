@@ -11,13 +11,13 @@ phone: "(780) 443-3335"
 website: "http://www.healthmattersstore.ca/"
 google_maps_url: "https://maps.google.com/?cid=2402562093696175707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 7:00 PM"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 7:00 PM"
-  saturday: "10:00 AM - 6:00 PM"
-  sunday: "11:00 AM - 4:00 PM"
+  monday: "9:00 AM–7:00 PM"
+  tuesday: "9:00 AM–8:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–7:00 PM"
+  saturday: "10:00 AM–6:00 PM"
+  sunday: "11:00 AM–4:00 PM"
 photos: ["/photos/health-matters-store-wellness-clinic-1.jpg", "/photos/health-matters-store-wellness-clinic-2.jpg", "/photos/health-matters-store-wellness-clinic-3.jpg"]
 rating: 4.6
 review_count: 133

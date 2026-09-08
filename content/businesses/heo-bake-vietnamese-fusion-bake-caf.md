@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 993-9992"
 google_maps_url: "https://maps.google.com/?cid=13535157655179677291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 6:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "9:00 AM - 7:00 PM"
-  sunday: "10:00 AM - 5:00 PM"
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–6:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "9:00 AM–6:00 PM"
+  friday: "9:00 AM–6:00 PM"
+  saturday: "9:00 AM–7:00 PM"
+  sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/heo-bake-vietnamese-fusion-bake-caf-1.jpg", "/photos/heo-bake-vietnamese-fusion-bake-caf-2.jpg", "/photos/heo-bake-vietnamese-fusion-bake-caf-3.jpg"]
 rating: 4.9
-review_count: 58
+review_count: 66
 price_range: "$"
 amenities:
   - "Dine-In"

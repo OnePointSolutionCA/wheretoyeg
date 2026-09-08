@@ -9,16 +9,16 @@ address: "10088 102 Ave NW"
 neighborhood: "Downtown"
 google_maps_url: "https://maps.google.com/?q=GoodLife%20Fitness%20Downtown%20Edmonton"
 hours:
-  monday: "5:00 AM - 11:00 PM"
-  tuesday: "5:00 AM - 11:00 PM"
-  wednesday: "5:00 AM - 11:00 PM"
-  thursday: "5:00 AM - 11:00 PM"
-  friday: "5:00 AM - 10:00 PM"
-  saturday: "7:00 AM - 8:00 PM"
-  sunday: "7:00 AM - 8:00 PM"
+  monday: "5:30 AM–10:00 PM"
+  tuesday: "5:30 AM–10:00 PM"
+  wednesday: "5:30 AM–10:00 PM"
+  thursday: "5:30 AM–10:00 PM"
+  friday: "5:30 AM–10:00 PM"
+  saturday: "8:00 AM–8:00 PM"
+  sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/goodlife-fitness-downtown-1.jpg", "/photos/goodlife-fitness-downtown-2.jpg", "/photos/goodlife-fitness-downtown-3.jpg"]
-rating: 4.2
-review_count: 480
+rating: 4.4
+review_count: 231
 price_range: "$$"
 amenities:
   - "Cardio"

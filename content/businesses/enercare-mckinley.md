@@ -11,16 +11,16 @@ phone: "(780) 474-1481"
 website: "http://mckinleyheating.com/?utm_source=google-business-profile&utm_medium=organic&utm_campaign=business-listing&utm_content=edmonton"
 google_maps_url: "https://maps.google.com/?cid=16852070242335482522&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "Open 24 hours"
-  tuesday: "Open 24 hours"
-  wednesday: "Open 24 hours"
-  thursday: "Open 24 hours"
-  friday: "Open 24 hours"
-  saturday: "Open 24 hours"
-  sunday: "Open 24 hours"
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/enercare-mckinley-1.jpg", "/photos/enercare-mckinley-2.jpg", "/photos/enercare-mckinley-3.jpg"]
 rating: 4.9
-review_count: 2625
+review_count: 2634
 price_range: "$$$$"
 amenities:
 

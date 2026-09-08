@@ -9,16 +9,16 @@ address: "7000 143 St NW"
 neighborhood: "West Edmonton"
 google_maps_url: "https://maps.google.com/?q=Fort%20Edmonton%20Park%20Edmonton"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
-  sunday: "10:00 AM - 5:00 PM"
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "10:00 AM–5:00 PM"
+  thursday: "10:00 AM–5:00 PM"
+  friday: "10:00 AM–5:00 PM"
+  saturday: "10:00 AM–5:00 PM"
+  sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/fort-edmonton-park-1.jpg", "/photos/fort-edmonton-park-2.jpg", "/photos/fort-edmonton-park-3.jpg"]
-rating: 4.7
-review_count: 4200
+rating: 4.5
+review_count: 5336
 price_range: "$$"
 amenities:
   - "Family Friendly"

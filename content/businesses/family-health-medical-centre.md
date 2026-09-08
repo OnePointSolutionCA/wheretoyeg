@@ -11,12 +11,12 @@ phone: "(780) 757-0088"
 website: "https://www.familyhealthmedicalcentre.ca/"
 google_maps_url: "https://maps.google.com/?cid=18042072325897393893&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "10:00 AM - 3:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
+  saturday: "10:00 AM–3:00 PM"
   sunday: "Closed"
 photos: ["/photos/family-health-medical-centre-1.jpg", "/photos/family-health-medical-centre-2.jpg", "/photos/family-health-medical-centre-3.jpg"]
 rating: 4.9

@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "Ellerslie"
 google_maps_url: "https://maps.google.com/?q=Ellerslie%20Dental%20Edmonton"
 hours:
-  monday: "8:00 AM - 8:00 PM"
-  tuesday: "8:00 AM - 8:00 PM"
-  wednesday: "8:00 AM - 8:00 PM"
-  thursday: "8:00 AM - 8:00 PM"
-  friday: "8:00 AM - 8:00 PM"
-  saturday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–7:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–3:00 PM"
+  saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/ellerslie-dental-1.jpg", "/photos/ellerslie-dental-2.jpg", "/photos/ellerslie-dental-3.jpg"]
-rating: 4.7
-review_count: 620
+rating: 4.8
+review_count: 185
 price_range: "$$"
 amenities:
   - "Direct Billing"

@@ -11,12 +11,12 @@ phone: "(780) 413-4600"
 website: "http://www.garneauchiropractic.ca/"
 google_maps_url: "https://maps.google.com/?cid=8204350476253720598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 8:00 PM"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 8:00 PM"
-  saturday: "10:00 AM - 4:00 PM"
+  monday: "9:00 AM–8:00 PM"
+  tuesday: "9:00 AM–8:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–8:00 PM"
+  saturday: "10:00 AM–4:00 PM"
   sunday: "Closed"
 photos: ["/photos/garneau-chiropractic-health-clinic-1.jpg", "/photos/garneau-chiropractic-health-clinic-2.jpg", "/photos/garneau-chiropractic-health-clinic-3.jpg"]
 rating: 4.9

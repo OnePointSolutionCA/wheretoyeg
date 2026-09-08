@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 213-9098"
 google_maps_url: "https://maps.google.com/?cid=18124352109126181657&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 8:00 PM"
+  monday: "11:00 AM–8:00 PM"
   tuesday: "Closed"
-  wednesday: "11:00 AM - 8:00 PM"
-  thursday: "11:00 AM - 8:00 PM"
-  friday: "11:00 AM - 8:00 PM"
-  saturday: "11:00 AM - 8:00 PM"
-  sunday: "11:00 AM - 8:00 PM"
+  wednesday: "11:00 AM–8:00 PM"
+  thursday: "11:00 AM–8:00 PM"
+  friday: "11:00 AM–8:00 PM"
+  saturday: "11:00 AM–8:00 PM"
+  sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/hanoi-pho-vietnamese-kitchen-1.jpg", "/photos/hanoi-pho-vietnamese-kitchen-2.jpg", "/photos/hanoi-pho-vietnamese-kitchen-3.jpg"]
 rating: 4.9
-review_count: 180
+review_count: 185
 price_range: "$"
 amenities:
   - "Dine-In"

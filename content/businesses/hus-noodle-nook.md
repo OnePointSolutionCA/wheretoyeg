@@ -12,15 +12,15 @@ website: "https://husnoodlenook.ca/"
 google_maps_url: "https://maps.google.com/?cid=10417413336061729906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "11:30 AM - 8:00 PM"
-  wednesday: "11:30 AM - 8:00 PM"
-  thursday: "11:30 AM - 8:00 PM"
-  friday: "11:30 AM - 8:00 PM"
-  saturday: "12:00 - 8:00 PM"
-  sunday: "11:30 AM - 7:00 PM"
+  tuesday: "11:30 AM–8:00 PM"
+  wednesday: "11:30 AM–8:00 PM"
+  thursday: "11:30 AM–8:00 PM"
+  friday: "11:30 AM–8:00 PM"
+  saturday: "12:00 PM–8:00 PM"
+  sunday: "11:30 AM–7:00 PM"
 photos: ["/photos/hus-noodle-nook-1.jpg", "/photos/hus-noodle-nook-2.jpg", "/photos/hus-noodle-nook-3.jpg"]
 rating: 4.7
-review_count: 421
+review_count: 424
 price_range: "$"
 amenities:
   - "Dine-In"

@@ -11,16 +11,16 @@ phone: "(780) 488-5989"
 website: "http://hathawaysdiner.com/"
 google_maps_url: "https://maps.google.com/?cid=11372953583514501153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 3:00 PM"
-  tuesday: "8:00 AM - 3:00 PM"
-  wednesday: "8:00 AM - 3:00 PM"
-  thursday: "8:00 AM - 3:00 PM"
-  friday: "8:00 AM - 3:00 PM"
-  saturday: "8:00 AM - 3:00 PM"
-  sunday: "8:00 AM - 3:00 PM"
+  monday: "8:00 AM–3:00 PM"
+  tuesday: "8:00 AM–3:00 PM"
+  wednesday: "8:00 AM–3:00 PM"
+  thursday: "8:00 AM–3:00 PM"
+  friday: "8:00 AM–3:00 PM"
+  saturday: "8:00 AM–3:00 PM"
+  sunday: "8:00 AM–3:00 PM"
 photos: ["/photos/hathaways-diner-1.jpg", "/photos/hathaways-diner-2.jpg", "/photos/hathaways-diner-3.jpg"]
 rating: 4.7
-review_count: 2264
+review_count: 2267
 price_range: "$$"
 amenities:
   - "Dine-In"

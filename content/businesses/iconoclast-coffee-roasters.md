@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 website: "http://www.iconoclastcoffee.com/"
 google_maps_url: "https://maps.google.com/?cid=1790895959182752919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 6:00 PM"
-  tuesday: "8:00 AM - 6:00 PM"
-  wednesday: "8:00 AM - 6:00 PM"
-  thursday: "8:00 AM - 6:00 PM"
-  friday: "8:00 AM - 6:00 PM"
-  saturday: "8:00 AM - 6:00 PM"
-  sunday: "8:00 AM - 6:00 PM"
+  monday: "8:00 AM–6:00 PM"
+  tuesday: "8:00 AM–6:00 PM"
+  wednesday: "8:00 AM–6:00 PM"
+  thursday: "8:00 AM–6:00 PM"
+  friday: "8:00 AM–6:00 PM"
+  saturday: "8:00 AM–6:00 PM"
+  sunday: "8:00 AM–6:00 PM"
 photos: ["/photos/iconoclast-coffee-roasters-1.jpg", "/photos/iconoclast-coffee-roasters-2.jpg", "/photos/iconoclast-coffee-roasters-3.jpg"]
 rating: 4.6
-review_count: 770
+review_count: 773
 price_range: "$$"
 amenities:
   - "Dine-In"

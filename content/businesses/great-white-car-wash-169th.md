@@ -11,16 +11,16 @@ phone: "(587) 315-0900"
 website: "https://www.greatwhitewash.com/"
 google_maps_url: "https://maps.google.com/?cid=6202038538265492763&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 9:00 PM"
-  tuesday: "7:00 AM - 9:00 PM"
-  wednesday: "7:00 AM - 9:00 PM"
-  thursday: "7:00 AM - 9:00 PM"
-  friday: "7:00 AM - 9:00 PM"
-  saturday: "7:00 AM - 9:00 PM"
-  sunday: "8:00 AM - 9:00 PM"
+  monday: "7:00 AM–9:00 PM"
+  tuesday: "7:00 AM–9:00 PM"
+  wednesday: "7:00 AM–9:00 PM"
+  thursday: "7:00 AM–9:00 PM"
+  friday: "7:00 AM–9:00 PM"
+  saturday: "7:00 AM–9:00 PM"
+  sunday: "8:00 AM–9:00 PM"
 photos: ["/photos/great-white-car-wash-169th-1.jpg", "/photos/great-white-car-wash-169th-2.jpg", "/photos/great-white-car-wash-169th-3.jpg"]
 rating: 4.1
-review_count: 464
+review_count: 468
 price_range: "$$"
 amenities:
 

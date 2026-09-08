@@ -11,13 +11,13 @@ phone: "(780) 851-2326"
 website: "https://www.garage-repairs-edmonton.ca/"
 google_maps_url: "https://maps.google.com/?cid=739904062179343955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 8:00 PM"
-  tuesday: "7:00 AM - 8:30 PM"
-  wednesday: "7:00 AM - 8:30 PM"
-  thursday: "7:00 AM - 8:30 PM"
-  friday: "7:00 AM - 8:00 PM"
-  saturday: "7:00 AM - 8:00 PM"
-  sunday: "7:00 AM - 7:30 PM"
+  monday: "7:00 AM–8:00 PM"
+  tuesday: "7:00 AM–8:30 PM"
+  wednesday: "7:00 AM–8:30 PM"
+  thursday: "7:00 AM–8:30 PM"
+  friday: "7:00 AM–8:00 PM"
+  saturday: "7:00 AM–8:00 PM"
+  sunday: "7:00 AM–7:30 PM"
 photos: ["/photos/garage-door-repair-edmonton-1.jpg", "/photos/garage-door-repair-edmonton-2.jpg", "/photos/garage-door-repair-edmonton-3.jpg"]
 rating: 4.8
 review_count: 110

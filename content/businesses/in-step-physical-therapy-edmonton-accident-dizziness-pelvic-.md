@@ -11,16 +11,16 @@ phone: "(587) 409-1754"
 website: "https://instepphysio.ca/"
 google_maps_url: "https://maps.google.com/?cid=15111890204235958808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 8:00 PM"
-  tuesday: "8:00 AM - 8:00 PM"
-  wednesday: "8:00 AM - 8:00 PM"
-  thursday: "8:00 AM - 8:00 PM"
-  friday: "8:00 AM - 8:00 PM"
-  saturday: "8:00 AM - 4:00 PM"
+  monday: "8:00 AM–8:00 PM"
+  tuesday: "8:00 AM–8:00 PM"
+  wednesday: "8:00 AM–8:00 PM"
+  thursday: "8:00 AM–8:00 PM"
+  friday: "8:00 AM–8:00 PM"
+  saturday: "8:00 AM–4:00 PM"
   sunday: "Closed"
 photos: ["/photos/in-step-physical-therapy-edmonton-accident-dizziness-pelvic--1.jpg", "/photos/in-step-physical-therapy-edmonton-accident-dizziness-pelvic--2.jpg", "/photos/in-step-physical-therapy-edmonton-accident-dizziness-pelvic--3.jpg"]
 rating: 4.9
-review_count: 868
+review_count: 873
 price_range: "$$"
 amenities:
 

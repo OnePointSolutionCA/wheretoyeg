@@ -11,16 +11,16 @@ phone: "(780) 901-5888"
 website: "http://escapehour.ca/"
 google_maps_url: "https://maps.google.com/?cid=11750796471470461642&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "3:00 - 10:00 PM"
-  tuesday: "12:00 - 11:30 PM"
-  wednesday: "12:00 - 11:30 PM"
-  thursday: "12:00 - 11:30 PM"
-  friday: "12:00 - 11:15 PM"
-  saturday: "10:00 AM - 11:45 PM"
-  sunday: "10:00 AM - 11:45 PM"
+  monday: "3:00 PM–10:00 PM"
+  tuesday: "12:00 PM–11:30 PM"
+  wednesday: "12:00 PM–11:30 PM"
+  thursday: "12:00 PM–11:30 PM"
+  friday: "12:00 PM–11:15 PM"
+  saturday: "10:00 AM–11:45 PM"
+  sunday: "10:00 AM–11:45 PM"
 photos: ["/photos/escape-hour-edmonton-1.jpg", "/photos/escape-hour-edmonton-2.jpg", "/photos/escape-hour-edmonton-3.jpg"]
 rating: 4.9
-review_count: 1814
+review_count: 1842
 price_range: "$$"
 amenities:
 

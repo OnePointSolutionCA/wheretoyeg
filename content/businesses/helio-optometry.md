@@ -11,16 +11,16 @@ phone: "(780) 628-6855"
 website: "https://heliooptometry.ca/"
 google_maps_url: "https://maps.google.com/?cid=13177228111447370743&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:30 PM"
-  tuesday: "9:00 AM - 7:30 PM"
-  wednesday: "9:00 AM - 5:30 PM"
-  thursday: "9:00 AM - 7:30 PM"
-  friday: "9:00 AM - 5:30 PM"
+  monday: "9:00 AM–5:30 PM"
+  tuesday: "9:00 AM–7:30 PM"
+  wednesday: "9:00 AM–5:30 PM"
+  thursday: "9:00 AM–7:30 PM"
+  friday: "9:00 AM–5:30 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/helio-optometry-1.jpg", "/photos/helio-optometry-2.jpg", "/photos/helio-optometry-3.jpg"]
 rating: 5
-review_count: 139
+review_count: 140
 price_range: "$$"
 amenities:
 

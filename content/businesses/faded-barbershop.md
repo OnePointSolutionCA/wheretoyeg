@@ -10,13 +10,13 @@ neighborhood: "Edmonton"
 phone: "(780) 665-6465"
 google_maps_url: "https://maps.google.com/?cid=12978201946188250774&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:30 AM - 7:00 PM"
-  tuesday: "9:30 AM - 7:00 PM"
-  wednesday: "9:30 AM - 7:00 PM"
-  thursday: "9:00 AM - 7:00 PM"
-  friday: "9:00 AM - 7:00 PM"
-  saturday: "9:00 AM - 6:00 PM"
-  sunday: "10:00 AM - 5:00 PM"
+  monday: "9:30 AM–7:00 PM"
+  tuesday: "9:30 AM–7:00 PM"
+  wednesday: "9:30 AM–7:00 PM"
+  thursday: "9:00 AM–7:00 PM"
+  friday: "9:00 AM–7:00 PM"
+  saturday: "9:00 AM–6:00 PM"
+  sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/faded-barbershop-1.jpg", "/photos/faded-barbershop-2.jpg", "/photos/faded-barbershop-3.jpg"]
 rating: 4.6
 review_count: 442

@@ -11,16 +11,16 @@ phone: "(780) 680-8588"
 website: "http://www.goddessbeauty.ca/"
 google_maps_url: "https://maps.google.com/?cid=5200471593101703479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 7:00 PM"
-  tuesday: "10:00 AM - 7:00 PM"
-  wednesday: "10:00 AM - 7:00 PM"
-  thursday: "10:00 AM - 7:00 PM"
-  friday: "10:00 AM - 7:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
-  sunday: "12:00 - 5:00 PM"
+  monday: "10:00 AM–7:00 PM"
+  tuesday: "10:00 AM–7:00 PM"
+  wednesday: "10:00 AM–7:00 PM"
+  thursday: "10:00 AM–7:00 PM"
+  friday: "10:00 AM–7:00 PM"
+  saturday: "10:00 AM–5:00 PM"
+  sunday: "12:00 PM–5:00 PM"
 photos: ["/photos/goddess-beauty-bar-spa-1.jpg", "/photos/goddess-beauty-bar-spa-2.jpg", "/photos/goddess-beauty-bar-spa-3.jpg"]
-rating: 5
-review_count: 184
+rating: 4.9
+review_count: 192
 price_range: "$$"
 amenities:
 

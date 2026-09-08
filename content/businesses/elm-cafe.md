@@ -18,7 +18,7 @@ hours:
   sunday: "8:00 AM - 6:00 PM"
 photos: ["/photos/elm-cafe-1.jpg", "/photos/elm-cafe-2.jpg", "/photos/elm-cafe-3.jpg"]
 rating: 4.6
-review_count: 480
+review_count: 182
 price_range: "$$"
 amenities:
   - "Sandwiches"

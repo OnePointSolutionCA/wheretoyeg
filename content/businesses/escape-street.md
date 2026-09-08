@@ -11,16 +11,16 @@ phone: "(825) 966-2025"
 website: "https://www.escapestreet.ca/"
 google_maps_url: "https://maps.google.com/?cid=10502679555763179526&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 10:00 PM"
-  tuesday: "10:00 AM - 10:00 PM"
-  wednesday: "10:00 AM - 10:00 PM"
-  thursday: "10:00 AM - 10:00 PM"
-  friday: "10:00 AM - 11:00 PM"
-  saturday: "10:00 AM - 11:00 PM"
-  sunday: "10:00 AM - 11:00 PM"
+  monday: "10:00 AM–10:00 PM"
+  tuesday: "10:00 AM–10:00 PM"
+  wednesday: "10:00 AM–10:00 PM"
+  thursday: "10:00 AM–10:00 PM"
+  friday: "10:00 AM–11:00 PM"
+  saturday: "10:00 AM–11:00 PM"
+  sunday: "10:00 AM–11:00 PM"
 photos: ["/photos/escape-street-1.jpg", "/photos/escape-street-2.jpg", "/photos/escape-street-3.jpg"]
 rating: 5
-review_count: 754
+review_count: 1099
 price_range: "$$"
 amenities:
 

@@ -11,16 +11,16 @@ phone: "(587) 287-6243"
 website: "https://hellamaid.ca/house-cleaning-services-edmonton/?utm_source=gmb"
 google_maps_url: "https://maps.google.com/?cid=17893121770109818042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 7:00 PM"
-  tuesday: "7:00 AM - 7:00 PM"
-  wednesday: "7:00 AM - 7:00 PM"
-  thursday: "7:00 AM - 7:00 PM"
-  friday: "7:00 AM - 7:00 PM"
-  saturday: "7:00 AM - 7:00 PM"
-  sunday: "7:00 AM - 7:00 PM"
+  monday: "7:00 AM–7:00 PM"
+  tuesday: "7:00 AM–7:00 PM"
+  wednesday: "7:00 AM–7:00 PM"
+  thursday: "7:00 AM–7:00 PM"
+  friday: "7:00 AM–7:00 PM"
+  saturday: "7:00 AM–7:00 PM"
+  sunday: "7:00 AM–7:00 PM"
 photos: ["/photos/hellamaid-cleaning-services-edmonton-1.jpg", "/photos/hellamaid-cleaning-services-edmonton-2.jpg", "/photos/hellamaid-cleaning-services-edmonton-3.jpg"]
 rating: 4.8
-review_count: 210
+review_count: 212
 price_range: "$$"
 amenities:
 

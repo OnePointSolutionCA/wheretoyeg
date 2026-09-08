@@ -11,16 +11,16 @@ phone: "(587) 557-1755"
 website: "https://groatvetcentre.ca/"
 google_maps_url: "https://maps.google.com/?cid=8920220677585763431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 7:00 PM"
-  tuesday: "8:00 AM - 7:00 PM"
-  wednesday: "8:00 AM - 7:00 PM"
-  thursday: "8:00 AM - 7:00 PM"
-  friday: "8:00 AM - 7:00 PM"
-  saturday: "9:00 AM - 4:00 PM"
+  monday: "8:00 AM–7:00 PM"
+  tuesday: "8:00 AM–7:00 PM"
+  wednesday: "8:00 AM–7:00 PM"
+  thursday: "8:00 AM–7:00 PM"
+  friday: "8:00 AM–7:00 PM"
+  saturday: "9:00 AM–4:00 PM"
   sunday: "Closed"
 photos: ["/photos/groat-veterinary-centre-1.jpg", "/photos/groat-veterinary-centre-2.jpg", "/photos/groat-veterinary-centre-3.jpg"]
 rating: 4.8
-review_count: 87
+review_count: 91
 price_range: "$$"
 amenities:
 

@@ -11,12 +11,12 @@ phone: "(780) 424-5665"
 website: "https://www.familycaremedicalcenter.ca/"
 google_maps_url: "https://maps.google.com/?cid=9100683435808944732&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 6:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "9:30 AM - 5:00 PM"
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–6:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "9:00 AM–6:00 PM"
+  friday: "9:00 AM–6:00 PM"
+  saturday: "9:30 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/family-care-medical-center-1.jpg", "/photos/family-care-medical-center-2.jpg", "/photos/family-care-medical-center-3.jpg"]
 rating: 2.9

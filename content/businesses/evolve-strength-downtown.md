@@ -11,16 +11,16 @@ phone: "(780) 784-2675"
 website: "https://evolvestrength.ca/locations/edmonton-downtown"
 google_maps_url: "https://maps.google.com/?cid=14887260671110731552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "5:00 AM - 11:00 PM"
-  tuesday: "5:00 AM - 11:00 PM"
-  wednesday: "5:00 AM - 11:00 PM"
-  thursday: "5:00 AM - 11:00 PM"
-  friday: "5:00 AM - 11:00 PM"
-  saturday: "7:00 AM - 8:00 PM"
-  sunday: "7:00 AM - 8:00 PM"
+  monday: "5:00 AM–11:00 PM"
+  tuesday: "5:00 AM–11:00 PM"
+  wednesday: "5:00 AM–11:00 PM"
+  thursday: "5:00 AM–11:00 PM"
+  friday: "5:00 AM–11:00 PM"
+  saturday: "7:00 AM–8:00 PM"
+  sunday: "7:00 AM–8:00 PM"
 photos: ["/photos/evolve-strength-downtown-1.jpg", "/photos/evolve-strength-downtown-2.jpg", "/photos/evolve-strength-downtown-3.jpg"]
 rating: 4.6
-review_count: 495
+review_count: 498
 price_range: "$$"
 amenities:
 

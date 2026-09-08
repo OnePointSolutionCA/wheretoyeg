@@ -11,16 +11,16 @@ phone: "(825) 203-6701"
 website: "https://gentlemensbarbershop.ca/"
 google_maps_url: "https://maps.google.com/?cid=8280474997339231651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 7:00 PM"
-  tuesday: "10:00 AM - 7:00 PM"
-  wednesday: "10:00 AM - 7:00 PM"
-  thursday: "10:00 AM - 7:00 PM"
-  friday: "10:00 AM - 7:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
-  sunday: "11:00 AM - 5:00 PM"
+  monday: "10:00 AM–7:00 PM"
+  tuesday: "10:00 AM–7:00 PM"
+  wednesday: "10:00 AM–7:00 PM"
+  thursday: "10:00 AM–7:00 PM"
+  friday: "10:00 AM–7:00 PM"
+  saturday: "10:00 AM–5:00 PM"
+  sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/gentlemens-barbershop-1.jpg", "/photos/gentlemens-barbershop-2.jpg", "/photos/gentlemens-barbershop-3.jpg"]
 rating: 5
-review_count: 15
+review_count: 9
 price_range: "$$"
 amenities:
 
@@ -32,20 +32,26 @@ reviews:
     rating: 5
     comment: |
       Took our boys to get their hair cut. JR did an amazing job. Very patient with the kids.  Clearly experienced. Very friendly, great atmosphere and professional! We’re from out of town but I will be stopping here anytime I need a cut if I’m in the area!
-  - name: "Micheal Li"
+  - name: "Jay Aboughoushe"
     rating: 5
     comment: |
-      Great new barbershop on 124st! Clean shop, friendly staff, and an awesome haircut. They pay attention to the details and make sure you leave looking your best. Definitely recommend checking them out!
-  - name: "Shane D"
+      Went in day before a big event and Ryan lined me up perfect. All the staff were professional, welcoming, and very friendly. This will definitely be the only shop I’m cutting at from now on !
+  - name: "Tim Leshuk"
     rating: 5
     comment: |
-      Had a great experience at this new barbershop! The shop is clean, welcoming, and the staff are friendly and professional. You can really tell they care about their work I highly recommend checking them out if you’re looking for a quality cut.
-  - name: "Moe H"
+      Great haircut and beard touch up from JR! Found my new barber shop, thanks
+  - name: "Ak"
     rating: 5
     comment: |
-      Great atmosphere at gentlemen’s barbershop! Such a vibrant and clean space and the guys never disappoint! Best place in the city to get a fresh cut. Highly recommend!
-  - name: "sy chehade"
+      Had a great experience at Gentleman’s Barbershop! The shop is still pretty new, but you can already tell they’re putting a lot of effort into creating a great atmosphere and giving customers a quality experience.
+      
+      J.R. did an amazing job on my haircut. He took his time, paid attention to the details, and actually listened to what I wanted. You can tell he's very passionate takes pride in his work and genuinely cares about making sure you leave looking your best.
+      
+      Definitely recommend checking out Gentleman’s Barbershop. J.R. is a great barber and I’ll definitely be coming back!
+  - name: "Joel B."
     rating: 5
     comment: |
-      Just stopped by and had an amazing experience with Ryan! He did a fantastic job, and the service was excellent. I’ll definitely be coming back and highly recommend checking this place out!
+      I got a great cut here from Ryan today.
+      
+      Online booking for a same day appointment. Very reasonable price point. Relaxed atmosphere. Think I've found my new spot!
 ---

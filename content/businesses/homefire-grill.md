@@ -11,16 +11,16 @@ phone: "(780) 489-8086"
 website: "https://www.homefiregrill.ca/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing"
 google_maps_url: "https://maps.google.com/?cid=12028059777263637345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 9:00 PM"
-  tuesday: "11:00 AM - 9:00 PM"
-  wednesday: "11:00 AM - 9:00 PM"
-  thursday: "11:00 AM - 9:00 PM"
-  friday: "11:00 AM - 10:00 PM"
-  saturday: "11:00 AM - 10:00 PM"
-  sunday: "11:00 AM - 9:00 PM"
+  monday: "11:00 AM–9:00 PM"
+  tuesday: "11:00 AM–9:00 PM"
+  wednesday: "11:00 AM–9:00 PM"
+  thursday: "11:00 AM–9:00 PM"
+  friday: "11:00 AM–10:00 PM"
+  saturday: "11:00 AM–10:00 PM"
+  sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/homefire-grill-1.jpg", "/photos/homefire-grill-2.jpg", "/photos/homefire-grill-3.jpg"]
 rating: 4.6
-review_count: 1774
+review_count: 1777
 price_range: "$$"
 amenities:
   - "Dine-In"

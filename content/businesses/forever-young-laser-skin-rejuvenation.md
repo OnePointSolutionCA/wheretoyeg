@@ -11,16 +11,16 @@ phone: "(780) 758-7727"
 website: "http://foreveryoungedmonton.com/"
 google_maps_url: "https://maps.google.com/?cid=2017091686550119709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 8:00 PM"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 8:00 PM"
-  saturday: "9:00 AM - 7:00 PM"
-  sunday: "9:00 AM - 6:00 PM"
+  monday: "9:00 AM–8:00 PM"
+  tuesday: "9:00 AM–8:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–8:00 PM"
+  saturday: "9:00 AM–7:00 PM"
+  sunday: "9:00 AM–6:00 PM"
 photos: ["/photos/forever-young-laser-skin-rejuvenation-1.jpg", "/photos/forever-young-laser-skin-rejuvenation-2.jpg", "/photos/forever-young-laser-skin-rejuvenation-3.jpg"]
 rating: 4.8
-review_count: 1660
+review_count: 1662
 price_range: "$$"
 amenities:
 

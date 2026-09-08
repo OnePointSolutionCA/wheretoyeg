@@ -15,14 +15,38 @@ photos:
 reviews:
   - name: "Natasha Lee"
     rating: 5
-    comment: "I went in to ask if they can fix the nose pads for my favourite pair of sunglasses I got years ago, which I didn't even purchase from the store. I was helped right away, and my sunglasses were fixed in a few minutes. I asked how much the fix would cost, and the employee said it was free of charge.  I truly appreciated the wonderful service. It was really refreshing to have a good experience like that from a store."
+    comment: |
+      I went in to ask if they can fix the nose pads for my favourite pair of sunglasses I got years ago, which I didn't even purchase from the store. I was helped right away, and my sunglasses were fixed in a few minutes. I asked how much the fix would cost, and the employee said it was free of charge.
+      
+      I truly appreciated the wonderful service. It was really refreshing to have a good experience like that from a store.
   - name: "Jowela guevarra"
     rating: 5
-    comment: "Janelle did an amazing job fixing my eyeglasses! She was super helpful, patient, and made sure everything fit perfectly before I left. The whole process was quick and stress-free. My glasses feel as good as new now. I really appreciate her great service and would definitely recommend her to anyone needing repairs!"
+    comment: |
+      Janelle did an amazing job fixing my eyeglasses! She was super helpful, patient, and made sure everything fit perfectly before I left. The whole process was quick and stress-free. My glasses feel as good as new now. I really appreciate her great service and would definitely recommend her to anyone needing repairs!
   - name: "Harmony Hunter"
     rating: 5
-    comment: "I just had the BEST experience at For Eyes by Clearly, in West Edmonton Mall. The Store Manager, Svitlana, was incredibly kind, helpful, funny, and picked the most beautiful glasses for me! She made the whole process seamless and enjoyable. For my eye exam, Dr. Frankie Ho, from Asgarpour Optometry, was so lovely and patient and funny and made my eye exam experience easy and comfortable and we had some laughs! All in all a wonderful experience! I can’t wait for my new glasses to be ready. This is"
+    comment: |
+      I just had the BEST experience at For Eyes by Clearly, in West Edmonton Mall. The Store Manager, Svitlana, was incredibly kind, helpful, funny, and picked the most beautiful glasses for me! She made the whole process seamless and enjoyable. For my eye exam, Dr. Frankie Ho, from Asgarpour Optometry, was so lovely and patient and funny and made my eye exam experience easy and comfortable and we had some laughs! All in all a wonderful experience! I can’t wait for my new glasses to be ready. This is my second time at this store and I will definitely be back. Thank you so much! 😊 😎🤓✨
   - name: "Христина Бодрухіна"
     rating: 5
-    comment: "We had a great experience at this store! We purchased two pairs of glasses and were very satisfied with both the quality and the service. The staff gave us helpful advice and made the whole process easy and pleasant.  We especially appreciate that they repaired my son’s glasses for free after he broke them at school — that meant a lot to us.  A big thank you to Anmol, who was incredibly kind, helpful, and professional. She made our visit even better!  Highly recommend this place!"
+    comment: |
+      We had a great experience at this store! We purchased two pairs of glasses and were very satisfied with both the quality and the service. The staff gave us helpful advice and made the whole process easy and pleasant.
+      
+      We especially appreciate that they repaired my son’s glasses for free after he broke them at school — that meant a lot to us.
+      
+      A big thank you to Anmol, who was incredibly kind, helpful, and professional. She made our visit even better!
+      
+      Highly recommend this place!
+  - name: "Katie Raimondi"
+    rating: 5
+    comment: |
+      We were recently in this store and my husband purchased 2 pairs of fabulous frames and ordered prescription lenses for both.  Svitlana, the store Manager, helped us find both of these frames by making some really great recommendations that were based both on quality and price point.  The total cost of 2 pairs of glasses with lenses was extremely reasonable.   The time, service and care that we received from Svitlana was bar none the best that anyone could hope for!
+hours:
+  monday: "10:00 AM–9:00 PM"
+  tuesday: "10:00 AM–9:00 PM"
+  wednesday: "10:00 AM–9:00 PM"
+  thursday: "10:00 AM–9:00 PM"
+  friday: "10:00 AM–9:00 PM"
+  saturday: "10:00 AM–9:00 PM"
+  sunday: "11:00 AM–6:00 PM"
 ---

@@ -11,16 +11,16 @@ phone: "(780) 705-5000"
 website: "https://fatimakarahicorner.com/"
 google_maps_url: "https://maps.google.com/?cid=16903464883500552953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "1:00 - 11:00 PM"
-  tuesday: "1:00 - 11:00 PM"
-  wednesday: "1:00 - 11:00 PM"
-  thursday: "1:00 - 11:00 PM"
-  friday: "1:00 - 11:00 PM"
-  saturday: "11:00 AM - 11:00 PM"
-  sunday: "11:00 AM - 11:00 PM"
+  monday: "1:00 PM–11:00 PM"
+  tuesday: "1:00 PM–11:00 PM"
+  wednesday: "1:00 PM–11:00 PM"
+  thursday: "1:00 PM–11:00 PM"
+  friday: "1:00 PM–11:00 PM"
+  saturday: "11:00 AM–11:00 PM"
+  sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/fatima-karahi-1.jpg", "/photos/fatima-karahi-2.jpg", "/photos/fatima-karahi-3.jpg"]
 rating: 4.4
-review_count: 1204
+review_count: 1266
 price_range: "$$"
 amenities:
   - "Halal"

@@ -11,16 +11,16 @@ phone: "(780) 540-4836"
 website: "http://www.letsgtfo.ca/"
 google_maps_url: "https://maps.google.com/?cid=5689007126333790026&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "5:00 - 10:00 PM"
-  tuesday: "5:00 - 10:00 PM"
-  wednesday: "5:00 - 10:00 PM"
-  thursday: "5:00 - 10:00 PM"
-  friday: "12:00 PM - 12:00 AM"
-  saturday: "12:00 PM - 12:00 AM"
-  sunday: "12:00 - 10:00 PM"
+  monday: "5:00 PM–10:00 PM"
+  tuesday: "5:00 PM–10:00 PM"
+  wednesday: "5:00 PM–10:00 PM"
+  thursday: "5:00 PM–10:00 PM"
+  friday: "12:00 PM–12:00 AM"
+  saturday: "12:00 PM–12:00 AM"
+  sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/gtfo-escape-entertainment-1.jpg", "/photos/gtfo-escape-entertainment-2.jpg", "/photos/gtfo-escape-entertainment-3.jpg"]
 rating: 4.8
-review_count: 1347
+review_count: 1357
 price_range: "$$"
 amenities:
 

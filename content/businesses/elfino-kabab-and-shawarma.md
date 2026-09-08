@@ -11,16 +11,16 @@ phone: "(780) 760-0120"
 website: "https://el-fino.ca/"
 google_maps_url: "https://maps.google.com/?cid=571810901499055009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 11:00 PM"
-  tuesday: "11:00 AM - 11:00 PM"
-  wednesday: "11:00 AM - 11:00 PM"
-  thursday: "11:00 AM - 11:00 PM"
-  friday: "11:00 AM - 11:00 PM"
-  saturday: "11:00 AM - 11:00 PM"
-  sunday: "11:00 AM - 11:00 PM"
+  monday: "11:00 AM–11:00 PM"
+  tuesday: "11:00 AM–11:00 PM"
+  wednesday: "11:00 AM–11:00 PM"
+  thursday: "11:00 AM–11:00 PM"
+  friday: "11:00 AM–11:00 PM"
+  saturday: "11:00 AM–11:00 PM"
+  sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/elfino-kabab-and-shawarma-1.jpg", "/photos/elfino-kabab-and-shawarma-2.jpg", "/photos/elfino-kabab-and-shawarma-3.jpg"]
 rating: 4.7
-review_count: 1398
+review_count: 1401
 price_range: "$"
 amenities:
   - "Halal"

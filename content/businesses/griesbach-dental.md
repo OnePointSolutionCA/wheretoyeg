@@ -16,17 +16,47 @@ photos:
 reviews:
   - name: "Dima Abou baker"
     rating: 5
-    comment: "This was my first visit, and I had a great experience. Everyone was friendly and welcoming, and Dr. Hadi was very professional. Roaa was especially wonderful—she was very kind, helpful, and made me feel comfortable throughout my visit. I highly recommend this clinic."
+    comment: |
+      This was my first visit, and I had a great experience. Everyone was friendly and welcoming, and Dr. Hadi was very professional. Roaa was especially wonderful—she was very kind, helpful, and made me feel comfortable throughout my visit. I highly recommend this clinic.
   - name: "Hussein Darwish"
     rating: 5
-    comment: "I had a wonderful experience with Dr. Hadi and the entire team. The office is clean, modern, and welcoming. Dr. Hadi is incredibly professional, gentle, and took the time to explain everything clearly. Highly recommend to anyone looking for a great dentist!"
+    comment: |
+      I had a wonderful experience with Dr. Hadi and the entire team. The office is clean, modern, and welcoming. Dr. Hadi is incredibly professional, gentle, and took the time to explain everything clearly. Highly recommend to anyone looking for a great dentist!
   - name: "Lolo Lolo"
     rating: 5
-    comment: "Dr. Hadi is amazing! He worked so well with my son and showed incredible patience throughout the visit. He made the appointment smooth and comfortable, and his friendly attitude made a big difference. We truly appreciate his dedication and excellent dental care. Highly recommended!"
+    comment: |
+      Dr. Hadi is amazing! He worked so well with my son and showed incredible patience throughout the visit. He made the appointment smooth and comfortable, and his friendly attitude made a big difference. We truly appreciate his dedication and excellent dental care. Highly recommended!
   - name: "Buthina Akel"
     rating: 5
-    comment: "I have been coming to this dental clinic for a long time, and this was my first appointment with Miliana. She is a dental hygienist, and she did an amazing job.  Miliana was professional, friendly and kind . She made me feel comfortable and explained everything clearly. I highly recommend Miliana to anyone looking for excellent dental care. She is a wonderful addition to the clinic, and I look forward to seeing her again for my future appointments."
+    comment: |
+      I have been coming to this dental clinic for a long time, and this was my first appointment with Miliana. She is a dental hygienist, and she did an amazing job.
+      
+      Miliana was professional, friendly and kind . She made me feel comfortable and explained everything clearly.
+      I highly recommend Miliana to anyone looking for excellent dental care. She is a wonderful addition to the clinic, and I look forward to seeing her again for my future appointments.
   - name: "Ana Beattie"
     rating: 5
-    comment: "The first time I came here, it had been nine years since my prior visit to a dentist. I had extreme anxiety, but every member of staff treated me with the sort of care and kindness that only a family could give.  Every visit since then has been nothing short of incredible. The hygienists are gentle and supportive, the receptionists are warm and so lovely, and the dentists are friendly and thorough.  They always work on me with full transparency and willingness to work according to my insurance ("
+    comment: |
+      The first time I came here, it had been nine years since my prior visit to a dentist. I had extreme anxiety, but every member of staff treated me with the sort of care and kindness that only a family could give.
+      
+      Every visit since then has been nothing short of incredible. The hygienists are gentle and supportive, the receptionists are warm and so lovely, and the dentists are friendly and thorough.
+      
+      They always work on me with full transparency and willingness to work according to my insurance (or lack thereof), and accommodate my anxieties during treatment.
+      
+      I initially came here terrified, but now I feel calm during visits, I fully trust this team.
+      
+      I have become emotional due to their compassion and attention on more than one occasion ❤️
+      
+      If you are looking for a dental team that genuinely cares about you and goes above and beyond to ensure your comfort and care, this is it.
+      
+      Griesbach Dental for life!
+      
+      Shout out to my hygienist Roaa and my receptionist Jakii-Lidya for yet another awesome experience today! 🙏
+hours:
+  monday: "8:00 AM–6:00 PM"
+  tuesday: "8:00 AM–6:00 PM"
+  wednesday: "8:00 AM–6:00 PM"
+  thursday: "8:00 AM–8:00 PM"
+  friday: "8:00 AM–8:00 PM"
+  saturday: "9:00 AM–5:00 PM"
+  sunday: "Closed"
 ---

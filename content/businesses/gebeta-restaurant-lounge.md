@@ -11,16 +11,16 @@ phone: "(825) 202-3528"
 website: "http://www.gebetaeats.ca/?utm_source=GMBlisting&utm_medium=organic"
 google_maps_url: "https://maps.google.com/?cid=4342732409387758498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 10:00 PM"
-  tuesday: "12:00 - 10:00 PM"
-  wednesday: "12:00 - 10:00 PM"
-  thursday: "12:00 - 10:00 PM"
-  friday: "12:00 PM - 2:00 AM"
-  saturday: "12:00 PM - 2:00 AM"
-  sunday: "12:00 - 11:00 PM"
+  monday: "12:00 PM–10:00 PM"
+  tuesday: "12:00 PM–10:00 PM"
+  wednesday: "12:00 PM–10:00 PM"
+  thursday: "12:00 PM–10:00 PM"
+  friday: "12:00 PM–2:00 AM"
+  saturday: "12:00 PM–2:00 AM"
+  sunday: "12:00 PM–11:00 PM"
 photos: ["/photos/gebeta-restaurant-lounge-1.jpg", "/photos/gebeta-restaurant-lounge-2.jpg", "/photos/gebeta-restaurant-lounge-3.jpg"]
 rating: 4.6
-review_count: 250
+review_count: 254
 price_range: "$$"
 amenities:
   - "Dine-In"

@@ -11,13 +11,13 @@ phone: "(780) 451-3700"
 website: "http://handwproduce.com/"
 google_maps_url: "https://maps.google.com/?cid=644812926187657850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 8:00 PM"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 8:00 PM"
-  saturday: "9:00 AM - 8:00 PM"
-  sunday: "10:00 AM - 6:00 PM"
+  monday: "9:00 AM–8:00 PM"
+  tuesday: "9:00 AM–8:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–8:00 PM"
+  saturday: "9:00 AM–8:00 PM"
+  sunday: "10:00 AM–6:00 PM"
 photos: ["/photos/hw-produce-1.jpg", "/photos/hw-produce-2.jpg", "/photos/hw-produce-3.jpg"]
 rating: 4.4
 review_count: 910

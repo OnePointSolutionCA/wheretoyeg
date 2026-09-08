@@ -9,16 +9,16 @@ address: "10032 106 St NW"
 neighborhood: "Downtown"
 google_maps_url: "https://maps.google.com/?q=Farrow%20Sandwiches%20Edmonton"
 hours:
-  monday: "7:00 AM - 6:00 PM"
-  tuesday: "7:00 AM - 6:00 PM"
-  wednesday: "7:00 AM - 6:00 PM"
-  thursday: "7:00 AM - 6:00 PM"
-  friday: "7:00 AM - 7:00 PM"
-  saturday: "8:00 AM - 7:00 PM"
-  sunday: "8:00 AM - 6:00 PM"
+  monday: "8:00 AM–3:00 PM"
+  tuesday: "8:00 AM–3:00 PM"
+  wednesday: "8:00 AM–3:00 PM"
+  thursday: "8:00 AM–3:00 PM"
+  friday: "8:00 AM–3:00 PM"
+  saturday: "9:00 AM–3:00 PM"
+  sunday: "9:00 AM–3:00 PM"
 photos: ["/photos/farrow-sandwiches-1.jpg", "/photos/farrow-sandwiches-2.jpg", "/photos/farrow-sandwiches-3.jpg"]
-rating: 4.6
-review_count: 1400
+rating: 4.7
+review_count: 222
 price_range: "$$"
 amenities:
   - "Breakfast"

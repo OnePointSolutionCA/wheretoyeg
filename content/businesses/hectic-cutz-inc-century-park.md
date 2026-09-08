@@ -11,16 +11,16 @@ phone: "(877) 418-2581"
 website: "http://www.hectic-cutz.ca/"
 google_maps_url: "https://maps.google.com/?cid=7767741393799031730&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:15 AM - 8:00 PM"
-  tuesday: "8:15 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "8:15 AM - 8:00 PM"
-  friday: "8:15 AM - 8:00 PM"
-  saturday: "9:00 AM - 6:00 PM"
-  sunday: "9:15 AM - 6:00 PM"
+  monday: "8:15 AM–8:00 PM"
+  tuesday: "8:15 AM–8:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "8:15 AM–8:00 PM"
+  friday: "8:15 AM–8:00 PM"
+  saturday: "9:00 AM–6:00 PM"
+  sunday: "9:15 AM–6:00 PM"
 photos: ["/photos/hectic-cutz-inc-century-park-1.jpg", "/photos/hectic-cutz-inc-century-park-2.jpg", "/photos/hectic-cutz-inc-century-park-3.jpg"]
 rating: 4.9
-review_count: 980
+review_count: 984
 price_range: "$$"
 amenities:
 

@@ -11,16 +11,16 @@ phone: "(780) 435-0961"
 website: "https://www.healwellness.ca/"
 google_maps_url: "https://maps.google.com/?cid=2742061152325308619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 9:00 PM"
-  tuesday: "7:00 AM - 9:00 PM"
-  wednesday: "7:00 AM - 9:00 PM"
-  thursday: "7:00 AM - 9:00 PM"
-  friday: "7:00 AM - 9:00 PM"
-  saturday: "7:00 AM - 9:00 PM"
-  sunday: "8:00 AM - 8:00 PM"
+  monday: "7:00 AM–9:00 PM"
+  tuesday: "7:00 AM–9:00 PM"
+  wednesday: "7:00 AM–9:00 PM"
+  thursday: "7:00 AM–9:00 PM"
+  friday: "7:00 AM–9:00 PM"
+  saturday: "7:00 AM–9:00 PM"
+  sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/heal-wellness-1.jpg", "/photos/heal-wellness-2.jpg", "/photos/heal-wellness-3.jpg"]
 rating: 4.5
-review_count: 152
+review_count: 157
 price_range: "$"
 amenities:
   - "Dine-In"

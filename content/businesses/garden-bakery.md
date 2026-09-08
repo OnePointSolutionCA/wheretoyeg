@@ -11,13 +11,13 @@ phone: "(587) 401-3440"
 website: "https://www.gardenbakery.ca/"
 google_maps_url: "https://maps.google.com/?cid=8855745096758404999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 7:00 PM"
-  tuesday: "11:00 AM - 7:00 PM"
-  wednesday: "11:00 AM - 7:00 PM"
-  thursday: "11:00 AM - 7:00 PM"
-  friday: "11:00 AM - 7:00 PM"
-  saturday: "10:00 AM - 7:00 PM"
-  sunday: "10:00 AM - 7:00 PM"
+  monday: "11:00 AM–7:00 PM"
+  tuesday: "11:00 AM–7:00 PM"
+  wednesday: "11:00 AM–7:00 PM"
+  thursday: "11:00 AM–7:00 PM"
+  friday: "11:00 AM–7:00 PM"
+  saturday: "10:00 AM–7:00 PM"
+  sunday: "10:00 AM–7:00 PM"
 photos: ["/photos/garden-bakery-1.jpg", "/photos/garden-bakery-2.jpg", "/photos/garden-bakery-3.jpg"]
 rating: 4.8
 review_count: 348

@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 website: "http://www.edmonton.ca/skating"
 google_maps_url: "https://maps.google.com/?cid=8861676858790820472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "5:00 AM - 10:00 PM"
-  tuesday: "5:00 AM - 10:00 PM"
-  wednesday: "5:00 AM - 10:00 PM"
-  thursday: "5:00 AM - 10:00 PM"
-  friday: "5:00 AM - 10:00 PM"
-  saturday: "5:00 AM - 10:00 PM"
-  sunday: "5:00 AM - 10:00 PM"
+  monday: "5:00 AM–10:00 PM"
+  tuesday: "5:00 AM–10:00 PM"
+  wednesday: "5:00 AM–10:00 PM"
+  thursday: "5:00 AM–10:00 PM"
+  friday: "5:00 AM–10:00 PM"
+  saturday: "5:00 AM–10:00 PM"
+  sunday: "5:00 AM–10:00 PM"
 photos: ["/photos/hawrelak-park-pond-ice-1.jpg", "/photos/hawrelak-park-pond-ice-2.jpg", "/photos/hawrelak-park-pond-ice-3.jpg"]
 rating: 4.6
-review_count: 1049
+review_count: 1051
 price_range: "$$"
 amenities:
 

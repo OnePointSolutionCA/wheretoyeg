@@ -11,12 +11,12 @@ phone: "(877) 359-3535"
 website: "https://eyesonoptometry.ca/"
 google_maps_url: "https://maps.google.com/?cid=4712559768736288408&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 5:00 PM"
-  tuesday: "10:00 AM - 5:00 PM"
-  wednesday: "10:00 AM - 5:00 PM"
-  thursday: "10:00 AM - 5:00 PM"
-  friday: "10:00 AM - 5:00 PM"
-  saturday: "10:00 AM - 4:00 PM"
+  monday: "10:00 AM–5:00 PM"
+  tuesday: "10:00 AM–5:00 PM"
+  wednesday: "10:00 AM–5:00 PM"
+  thursday: "10:00 AM–5:00 PM"
+  friday: "10:00 AM–5:00 PM"
+  saturday: "10:00 AM–4:00 PM"
   sunday: "Closed"
 photos: ["/photos/eyes-on-white-oaks-1.jpg", "/photos/eyes-on-white-oaks-2.jpg", "/photos/eyes-on-white-oaks-3.jpg"]
 rating: 5

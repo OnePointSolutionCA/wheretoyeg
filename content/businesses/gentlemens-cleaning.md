@@ -12,16 +12,16 @@ phone: "(825) 925-7115"
 website: "https://gentlemenscleaning.ca"
 google_maps_url: "https://maps.google.com/?q=Gentlemens+Cleaning+Company+Edmonton"
 hours:
-  monday: "8:00 AM - 6:00 PM"
-  tuesday: "8:00 AM - 6:00 PM"
-  wednesday: "8:00 AM - 6:00 PM"
-  thursday: "8:00 AM - 6:00 PM"
-  friday: "8:00 AM - 6:00 PM"
-  saturday: "9:00 AM - 4:00 PM"
-  sunday: "Closed"
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/gentlemens-cleaning-1.jpg", "/photos/gentlemens-cleaning-2.jpg", "/photos/gentlemens-cleaning-3.jpg"]
 rating: 4.9
-review_count: 300
+review_count: 410
 price_range: "$$"
 amenities:
   - "Recurring Cleans"

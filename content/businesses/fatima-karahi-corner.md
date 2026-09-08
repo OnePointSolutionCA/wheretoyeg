@@ -12,16 +12,16 @@ phone: "(780) 705-5000"
 website: "https://fatimakarahicorner.com"
 google_maps_url: "https://maps.google.com/?q=Fatima+Karahi+Corner+Edmonton"
 hours:
-  monday: "11:00 AM - 11:00 PM"
-  tuesday: "11:00 AM - 11:00 PM"
-  wednesday: "11:00 AM - 11:00 PM"
-  thursday: "11:00 AM - 11:00 PM"
-  friday: "11:00 AM - 1:00 AM"
-  saturday: "11:00 AM - 1:00 AM"
-  sunday: "11:00 AM - 11:00 PM"
+  monday: "1:00 PM–11:00 PM"
+  tuesday: "1:00 PM–11:00 PM"
+  wednesday: "1:00 PM–11:00 PM"
+  thursday: "1:00 PM–11:00 PM"
+  friday: "1:00 PM–11:00 PM"
+  saturday: "11:00 AM–11:00 PM"
+  sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/fatima-karahi-corner-1.jpg", "/photos/fatima-karahi-corner-2.jpg"]
-rating: 4.5
-review_count: 85
+rating: 4.4
+review_count: 1266
 price_range: "$$"
 amenities:
   - "Halal"

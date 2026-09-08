@@ -14,17 +14,31 @@ photos:
 reviews:
   - name: "Sana Alabidi"
     rating: 5
-    comment: "I will give them five stars my kids love the service and their hair cuts."
+    comment: |
+      I will give them five stars my kids love the service and their hair cuts.
   - name: "Tom C. Henstridge"
     rating: 5
-    comment: "Hands down the best barber shop I have been to and I’ve been going there for a few years now Fanar is the main guy I like to get my haircut from. He knows exactly what to do every time!"
+    comment: |
+      Hands down the best barber shop I have been to and I’ve been going there for a few years now
+      Fanar is the main guy I like to get my haircut from. He knows exactly what to do every time!
   - name: "Mahlet Msghna"
     rating: 1
-    comment: "I visited this store after reading a positive review, but the owner of the barber shop was extremely rude to me. I'm a black lady from East Africa. He promised me he is going to give me a good cut for my wedding i asked him \"its okay i can wait for the lady\" he rushed and told me to wait for the process when i told him he is not doing it well and made me paid $50 the most awful thing in my experience was he laughed when i paid i saw him on the mirror, such unethical behavior."
+    comment: |
+      I visited this store after reading a positive review, but the owner of the barber shop was extremely rude to me. I'm a black lady from East Africa. He promised me he is going to give me a good cut for my wedding i asked him "its okay i can wait for the lady" he rushed and told me to wait for the process when i told him he is not doing it well and made me paid $50 the most awful thing in my experience was he laughed when i paid i saw him on the mirror, such unethical behavior.
   - name: "James Nabilyoon"
     rating: 5
-    comment: "“Hands down, the best barber I’ve ever been to! With years of experience, [Evan&Fanar] know exactly how to deliver a sharp, clean, and stylish cut every time. Their attention to detail is unmatched, and they truly take the time to make sure every client leaves looking and feeling their best. The atmosphere is welcoming, the service is top-notch, and the professionalism is second to none. If you’re looking for a master barber who consistently delivers excellence, look no further!”"
+    comment: |
+      “Hands down, the best barber I’ve ever been to! With years of experience, [Evan&Fanar] know exactly how to deliver a sharp, clean, and stylish cut every time. Their attention to detail is unmatched, and they truly take the time to make sure every client leaves looking and feeling their best. The atmosphere is welcoming, the service is top-notch, and the professionalism is second to none. If you’re looking for a master barber who consistently delivers excellence, look no further!”
   - name: "Shawn Parchoma"
     rating: 5
-    comment: "I have been going to this barber shop for 8 years and Evan and the staff are always top notch - friendly, professional, and care about their clients!"
+    comment: |
+      I have been going to this barber shop for 8 years and Evan and the staff are always top notch - friendly, professional, and care about their clients!
+hours:
+  monday: "8:30 AM–7:00 PM"
+  tuesday: "8:30 AM–7:00 PM"
+  wednesday: "8:30 AM–7:00 PM"
+  thursday: "8:30 AM–7:00 PM"
+  friday: "8:30 AM–7:00 PM"
+  saturday: "8:30 AM–7:00 PM"
+  sunday: "11:00 AM–5:00 PM"
 ---

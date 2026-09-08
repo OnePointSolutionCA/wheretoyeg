@@ -11,16 +11,16 @@ phone: "(587) 414-1107"
 website: "https://forumpilates.ca/"
 google_maps_url: "https://maps.google.com/?cid=5721257466614479656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "6:00 AM - 8:00 PM"
-  tuesday: "6:00 AM - 8:00 PM"
-  wednesday: "6:00 AM - 8:00 PM"
-  thursday: "6:00 AM - 9:00 PM"
-  friday: "6:00 AM - 8:00 PM"
-  saturday: "9:00 AM - 2:00 PM"
-  sunday: "9:00 AM - 2:00 PM"
+  monday: "6:00 AM–8:00 PM"
+  tuesday: "6:00 AM–8:00 PM"
+  wednesday: "6:00 AM–8:00 PM"
+  thursday: "6:00 AM–9:00 PM"
+  friday: "6:00 AM–8:00 PM"
+  saturday: "9:00 AM–2:00 PM"
+  sunday: "9:00 AM–2:00 PM"
 photos: ["/photos/forum-pilates-1.jpg", "/photos/forum-pilates-2.jpg", "/photos/forum-pilates-3.jpg"]
 rating: 4.7
-review_count: 72
+review_count: 73
 price_range: "$$"
 amenities:
 

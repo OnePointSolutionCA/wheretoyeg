@@ -15,14 +15,33 @@ photos:
 reviews:
   - name: "A M"
     rating: 5
-    comment: "What a great place! Food came out incredibly fast even though the place was busy. Waitress was awesome, great service"
+    comment: |
+      What a great place! Food came out incredibly fast even though the place was busy. Waitress was awesome, great service
   - name: "Melanie"
     rating: 5
-    comment: "Great food and my server was amazing! Loved the new eggs Benny (salmon dill eggs benny). Always enjoyed having lunch here! Dishwasher came out to visit me!"
+    comment: |
+      Great food and my server was amazing! Loved the new eggs Benny (salmon dill eggs benny). Always enjoyed having lunch here! Dishwasher came out to visit me!
+  - name: "Brad R"
+    rating: 5
+    comment: |
+      Hap's is consistently great!
+      The servers are very attentive, polite and friendly. The restaurant is bright and cheery. And the food is delicious, utilizing the freshest ingredients.
+      Today I had the breakfast special with 2 eggs over easy, 3 pork sausages, hash browns, and whole wheat toast.
+      The food was cooked perfectly, it was delicious, a generous portion was provided...I couldn't have asked for more!
   - name: "Expert in experiences"
     rating: 4
-    comment: "This place is bustling, and the staff are super friendly and quick! They’re always making sure you have coffee, water, and drinks. The food was fantastic—I had the hungriest breakfast, which included an omelette and a patty melt. Everything was excellent, except my patty melt didn’t quite live up to my expectations. It was basically just a slice of cheese on a patty. But, hey, technically, a patty melt should be more substantial, like a tuna melt. Other than that, everything was wonderful."
+    comment: |
+      This place is bustling, and the staff are super friendly and quick! They’re always making sure you have coffee, water, and drinks. The food was fantastic—I had the hungriest breakfast, which included an omelette and a patty melt. Everything was excellent, except my patty melt didn’t quite live up to my expectations. It was basically just a slice of cheese on a patty. But, hey, technically, a patty melt should be more substantial, like a tuna melt. Other than that, everything was wonderful.
   - name: "brad boyd"
     rating: 5
-    comment: "Great brunch!  Mexican style omelette with hash browns & toast.  My server Leigh made the shake & ya that metal spoon is standing in the thick strawberry goodness."
+    comment: |
+      Great brunch!  Mexican style omelette with hash browns & toast.  My server Leigh made the shake & ya that metal spoon is standing in the thick strawberry goodness.
+hours:
+  monday: "Closed"
+  tuesday: "7:00 AM–2:30 PM"
+  wednesday: "7:00 AM–2:30 PM"
+  thursday: "7:00 AM–2:30 PM"
+  friday: "7:00 AM–2:30 PM"
+  saturday: "7:00 AM–2:30 PM"
+  sunday: "8:00 AM–2:30 PM"
 ---

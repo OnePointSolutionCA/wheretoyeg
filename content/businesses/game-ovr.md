@@ -11,16 +11,16 @@ phone: "(780) 953-4263"
 website: "http://gameovr.ca/"
 google_maps_url: "https://maps.google.com/?cid=15020767462583294398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "1:30 - 8:45 PM"
-  tuesday: "1:30 - 8:45 PM"
+  monday: "1:30 PM–8:45 PM"
+  tuesday: "1:30 PM–8:45 PM"
   wednesday: "Closed"
-  thursday: "1:30 - 8:45 PM"
-  friday: "1:30 - 8:45 PM"
-  saturday: "11:00 AM - 10:00 PM"
-  sunday: "11:00 AM - 6:30 PM"
+  thursday: "1:30 PM–8:45 PM"
+  friday: "1:30 PM–8:45 PM"
+  saturday: "11:00 AM–10:00 PM"
+  sunday: "11:00 AM–6:30 PM"
 photos: ["/photos/game-ovr-1.jpg", "/photos/game-ovr-2.jpg", "/photos/game-ovr-3.jpg"]
 rating: 4.8
-review_count: 595
+review_count: 596
 price_range: "$$"
 amenities:
 

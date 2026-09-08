@@ -13,16 +13,16 @@ email: "sherwoodnorth@fixauto.com"
 website: "https://fixauto.com/en-ca/locations/sherwood-north"
 google_maps_url: "https://maps.google.com/?q=167+Provincial+Ave+Sherwood+Park"
 hours:
-  monday: "8:00 AM - 5:00 PM"
-  tuesday: "8:00 AM - 5:00 PM"
-  wednesday: "8:00 AM - 5:00 PM"
-  thursday: "8:00 AM - 5:00 PM"
-  friday: "8:00 AM - 5:00 PM"
+  monday: "8:00 AM–5:00 PM"
+  tuesday: "8:00 AM–5:00 PM"
+  wednesday: "8:00 AM–5:00 PM"
+  thursday: "8:00 AM–5:00 PM"
+  friday: "8:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/fix-auto-sherwood-north-1.jpg", "/photos/fix-auto-sherwood-north-2.jpg", "/photos/fix-auto-sherwood-north-3.jpg"]
 rating: 4.8
-review_count: 115
+review_count: 116
 price_range: "$$$"
 amenities:
   - "Insurance Approved"
