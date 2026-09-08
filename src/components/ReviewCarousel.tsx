@@ -39,8 +39,8 @@ export function ReviewCarousel({ reviews }: { reviews: ReviewWithBusiness[] }) {
     >
       <div
         ref={ref}
-        className="review-track flex gap-5 overflow-x-auto scroll-smooth snap-x snap-mandatory pb-2"
-        style={{ scrollbarWidth: "none", msOverflowStyle: "none", WebkitOverflowScrolling: "touch" }}
+        className="review-track flex gap-5 overflow-x-auto overscroll-x-contain touch-pan-x scroll-smooth snap-x snap-mandatory pb-2"
+        style={{ scrollbarWidth: "none", msOverflowStyle: "none" }}
       >
         <style>{`.review-track::-webkit-scrollbar { display: none; }`}</style>
         {reviews.map((r, i) => (

@@ -14,7 +14,7 @@ export function SubcategoryPills({
 }) {
   if (!subcategories?.length) return null;
   return (
-    <div className="-mx-5 overflow-x-auto px-5 sm:mx-0 sm:px-0">
+    <div className="-mx-5 overflow-x-auto overscroll-x-contain touch-pan-x px-5 sm:mx-0 sm:px-0">
       <div className="flex min-w-max items-center gap-2">
         <Link
           href={`/${categorySlug}`}

@@ -103,7 +103,7 @@ export function Navbar({ categories = [], searchIndex = [] }: { categories?: Nav
       </div>
 
       {/* Mobile nav strip — always visible, horizontally scrollable */}
-      <nav className="flex items-center gap-1 overflow-x-auto border-t border-line/50 px-4 py-2 md:hidden" style={{ WebkitOverflowScrolling: "touch", scrollbarWidth: "none" }}>
+      <nav className="flex items-center gap-1 overflow-x-auto overscroll-x-contain touch-pan-x border-t border-line/50 px-4 py-2 md:hidden" style={{ scrollbarWidth: "none" }}>
         <Link href="/#categories" className={mobilePill(false)}>Categories</Link>
         <Link href="/collections" className={mobilePill(pathname === "/collections")}>Vibes</Link>
         <Link href="/neighborhoods" className={mobilePill(pathname === "/neighborhoods")}>Areas</Link>

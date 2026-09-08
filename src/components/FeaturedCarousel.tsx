@@ -41,8 +41,8 @@ export function FeaturedCarousel({
     >
       <div
         ref={ref}
-        className="featured-track flex gap-5 overflow-x-auto scroll-smooth snap-x snap-mandatory pb-2"
-        style={{ scrollbarWidth: "none", msOverflowStyle: "none", WebkitOverflowScrolling: "touch" }}
+        className="featured-track flex gap-5 overflow-x-auto overscroll-x-contain touch-pan-x scroll-smooth snap-x snap-mandatory pb-2"
+        style={{ scrollbarWidth: "none", msOverflowStyle: "none" }}
       >
         <style>{`.featured-track::-webkit-scrollbar { display: none; }`}</style>
         {businesses.map((b) => (
