@@ -18,8 +18,8 @@ hours:
   saturday: "9:00 AM–7:00 PM"
   sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/heo-bake-vietnamese-fusion-bake-caf-1.jpg", "/photos/heo-bake-vietnamese-fusion-bake-caf-2.jpg", "/photos/heo-bake-vietnamese-fusion-bake-caf-3.jpg"]
-rating: 4.9
-review_count: 66
+rating: 5
+review_count: 65
 price_range: "$"
 amenities:
   - "Dine-In"

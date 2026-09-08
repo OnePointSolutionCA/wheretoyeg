@@ -6,7 +6,7 @@ subcategory: "chinese"
 neighborhood: "Mill Woods"
 address: "Next To Canadian Tire, 2331 66 St NW Unit 270, Edmonton, AB T6K 4B4"
 rating: 4.4
-review_count: 2502
+review_count: 2501
 tier: "featured"
 phone: "(780) 757-9166"
 website: "https://himalayanvillage.ca/"

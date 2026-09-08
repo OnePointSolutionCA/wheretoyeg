@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/el-mero-mero-taqueria-1.jpg", "/photos/el-mero-mero-taqueria-2.jpg", "/photos/el-mero-mero-taqueria-3.jpg"]
 rating: 4.4
-review_count: 1353
+review_count: 1354
 price_range: "$$"
 amenities:
   - "Dine-In"

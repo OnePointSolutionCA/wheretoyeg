@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–3:00 PM"
 photos: ["/photos/hathaways-diner-1.jpg", "/photos/hathaways-diner-2.jpg", "/photos/hathaways-diner-3.jpg"]
 rating: 4.7
-review_count: 2267
+review_count: 2266
 price_range: "$$"
 amenities:
   - "Dine-In"

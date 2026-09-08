@@ -19,7 +19,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/esm-fine-cakes-pastries-1.jpg", "/photos/esm-fine-cakes-pastries-2.jpg", "/photos/esm-fine-cakes-pastries-3.jpg"]
 rating: 4.8
-review_count: 818
+review_count: 819
 price_range: "$$"
 amenities:
   - "Dine-In"

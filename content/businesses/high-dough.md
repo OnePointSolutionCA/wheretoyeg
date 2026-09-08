@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "7341 104 Street NW, Edmonton, AB T6E 4B9"
 rating: 4.5
-review_count: 375
+review_count: 376
 tier: "featured"
 phone: "(780) 757-4460"
 website: "http://www.thehighdough.ca/"

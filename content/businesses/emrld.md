@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Windermere"
 address: "11026 Jasper Ave, Edmonton, AB T5K 2N8"
 rating: 4.7
-review_count: 213
+review_count: 215
 tier: "featured"
 phone: "(587) 523-6753"
 website: "http://emrld.ca/"

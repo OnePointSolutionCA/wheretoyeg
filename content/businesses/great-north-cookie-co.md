@@ -5,7 +5,7 @@ category: "bakeries"
 neighborhood: "Spruce Grove"
 address: "20 McLeod Ave #1, Spruce Grove, AB T7X 3Y1"
 rating: 4.8
-review_count: 290
+review_count: 289
 tier: "featured"
 phone: "(780) 571-0112"
 website: "http://www.greatnorthcookieco.com/"

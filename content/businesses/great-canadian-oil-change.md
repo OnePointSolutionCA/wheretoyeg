@@ -10,15 +10,15 @@ neighborhood: "Multiple locations"
 google_maps_url: "https://maps.google.com/?q=Great%20Canadian%20Oil%20Change%20Edmonton"
 hours:
   monday: "Closed"
-  tuesday: "8:00 AM–6:00 PM"
+  tuesday: "8:00 AM–7:00 PM"
   wednesday: "8:00 AM–7:00 PM"
   thursday: "8:00 AM–7:00 PM"
   friday: "8:00 AM–7:00 PM"
-  saturday: "9:00 AM–5:00 PM"
-  sunday: "9:00 AM–5:00 PM"
+  saturday: "8:00 AM–6:00 PM"
+  sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/great-canadian-oil-change-1.jpg", "/photos/great-canadian-oil-change-2.jpg", "/photos/great-canadian-oil-change-3.jpg"]
 rating: 4.4
-review_count: 25
+review_count: 242
 price_range: "$"
 amenities:
   - "Walk-Ins"
@@ -28,24 +28,29 @@ tags: ["oil-change", "quick-service", "drive-through"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Alexandr Shad"
+  - name: "the narrator"
     rating: 5
     comment: |
-      I had my oil changed here today, and the whole process took only about 15 minutes. I didn’t even have to get out of my car. They also replaced my filters, offered a few additional services, and clearly explained what they were for without any pressure. I’m very happy with the service and will definitely be coming back for future maintenance.
-  - name: "Dean"
-    rating: 2
-    comment: |
-      Kinda disappointed. I was going to give them a try but won’t be doing so. I called them to ask how much for an oil change bringing my own oil and filter. They quoted me $70.00. That’s pretty steep for 15 minutes of labor. That amounts to $280.00 per hour. That’s pure gouging. I will go to EMs on 99 street. They are $60.00. When businesses charge way too much for a short period of time of labor that’s not value to me and I don’t go there. So are they any better off for that? I could have been a regular customer but now they get nothing from me. Be reasonable and you get my business. Try to charge excessively and I’m gone. PS: the reply below from them is the most ignorant self serving stupid thing i have ever heard
-  - name: "Cruz Mooney"
+      A few months ago I have switched to Great Canadian Oil Change, I’ve taken 3 different vehicles here on multiple occasions and genuinely, these are wonderful people. Every time I come here, they are very clear and helpful when I have questions about recommendations or the maintenance of my cars. They are very knowledgeable about their work and they are always very kind especially Galen! I think I see him almost every time and you can tell he’s a great person! I couldn’t recommend them enough! Thank you to all of the staff, you are very appreciated!!
+  - name: "Shawn Liu"
     rating: 5
     comment: |
-      Amazing Service, had to run out while the guys were doing an oil change and they stayed late to give me my car back. Jas had incredible hospitality and was very honest. Will be coming back.
-  - name: "Sarah"
+      This was my first time getting my oil changed here, as I normally go to the dealer. This place was super efficient, and no appointment was needed. On top of the oil change, they also inspected my other fluid levels, like brake fluid and coolant, and they also checked my tire pressure. It was essentially a comprehensive inspection for the price of an oil change! The best part was that the whole process took about 20 minutes, which is unheard of if you bring it to a dealer. 5 stars!
+  - name: "Guy Terkelsen"
     rating: 5
     comment: |
-      This place is extremely helpful!! Thank you to Austin and Jehan for taking the time to explain what was going on with my car! I was having issues with my tires and they helped me fix it. They also gave me a free top up on my fluids after! I highly recommend this place.
-  - name: "Daisy Stevens"
+      Staff are very friendly and helpful. They check the safety of your car in places you would not think to check yourself. Great Canadian service. Thanks for your time and help.
+  - name: "David Han"
     rating: 5
     comment: |
-      Staff here was very friendly. Unfortunately they had a small mishap which could have been hidden, but they were honest about it and rectified it in a very quick and caring manner. I will definitely be back 🙂
+      Quickly came in right before the shop was closing because my left rear tire was punctured and had lost a lot of pressure. Adam, Dalton, and Galen all worked together to temporarily fix it so I could safely take it to a tire shop the next day. They really went out of their way to help me, and they did it free of charge. Definitely would recommend and will come back again.
+  - name: "Keith Perkins"
+    rating: 5
+    comment: |
+      Shout-out to Jess, Rick and the rest of the crew.
+      Came in for a oil change the team had me in and out less than half n hour.
+      Very friendly staff, Good Pricing, Thorough checks list through the entire process.
+      
+      Will be coming back for my next one.
+      Keep it up guys.
 ---

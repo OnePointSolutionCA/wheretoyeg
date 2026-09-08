@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/gtfo-escape-entertainment-1.jpg", "/photos/gtfo-escape-entertainment-2.jpg", "/photos/gtfo-escape-entertainment-3.jpg"]
 rating: 4.8
-review_count: 1357
+review_count: 1358
 price_range: "$$"
 amenities:
 
