@@ -197,7 +197,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
         <div className="relative overflow-hidden rounded-2xl border border-coral/20 bg-gradient-to-r from-coral/5 via-white to-teal/5 p-6 sm:p-8">
           <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
             <div>
-              <p className="text-sm font-bold text-teal">Own a {c.name.toLowerCase().replace(/s$/, "")} business in Edmonton?</p>
+              <p className="text-sm font-bold text-teal">Own a local business in Edmonton?</p>
               <p className="mt-1 text-xs text-teal-500">Get listed for free — or let <strong className="text-coral">OnePoint Solutions</strong> handle your SEO, social media, and Google Business Profile. $149/mo, no contracts.</p>
             </div>
             <div className="flex shrink-0 gap-2">
