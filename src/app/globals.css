@@ -11,7 +11,7 @@
   --line: #E4EAED;
 }
 
-html, body { background: #ffffff; color: var(--ink); }
+html, body { background: #ffffff; color: var(--ink); overflow-x: hidden; }
 body { font-feature-settings: "cv11", "ss01"; }
 
 /* ---------- Animated OnePoint-style nav logo ---------- */
