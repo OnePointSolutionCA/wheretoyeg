@@ -22,7 +22,8 @@ export function FeaturedCarousel({
     if (el.scrollLeft >= max - 2) {
       el.scrollTo({ left: 0, behavior: "smooth" });
     } else {
-      el.scrollBy({ left: 320, behavior: "smooth" });
+      const card = el.querySelector<HTMLElement>("[data-card]");
+      el.scrollBy({ left: card ? card.offsetWidth + 16 : 320, behavior: "smooth" });
     }
   }, []);
 
@@ -41,20 +42,23 @@ export function FeaturedCarousel({
     >
       <div
         ref={ref}
-        className="featured-track flex gap-5 overflow-x-auto overscroll-x-contain touch-pan-x scroll-smooth snap-x snap-mandatory pb-2"
+        className="featured-track flex gap-4 overflow-x-auto overscroll-x-contain touch-pan-x scroll-smooth snap-x snap-mandatory pb-2 sm:gap-5"
         style={{ scrollbarWidth: "none", msOverflowStyle: "none" }}
       >
         <style>{`.featured-track::-webkit-scrollbar { display: none; }`}</style>
+        <div className="w-[calc(7.5%-1rem)] shrink-0 sm:hidden" aria-hidden="true" />
         {businesses.map((b) => (
           <div
             key={b.slug}
-            className="w-full shrink-0 snap-start sm:w-[calc(50%-10px)] lg:w-[calc(33.333%-14px)]"
+            data-card
+            className="w-[85%] shrink-0 snap-center sm:w-[calc(50%-10px)] sm:snap-start lg:w-[calc(33.333%-14px)]"
           >
             <Card3D>
               <BusinessCard business={b} categoryName={categoryNames[b.category]} />
             </Card3D>
           </div>
         ))}
+        <div className="w-[calc(7.5%-1rem)] shrink-0 sm:hidden" aria-hidden="true" />
       </div>
     </div>
   );
