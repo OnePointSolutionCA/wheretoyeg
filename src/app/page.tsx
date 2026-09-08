@@ -119,17 +119,6 @@ export default function HomePage() {
             <div className="hero-foot rise-3">
               <HeroSearch neighborhoods={SITE.neighborhoods} index={index} />
             </div>
-            <div className="hero-pills mt-5 flex flex-wrap justify-center gap-2 rise-3">
-              {SITE.popularSearches.slice(0, 6).map((p) => (
-                <Link
-                  key={p.href}
-                  href={p.href}
-                  className="rounded-full border border-white/15 bg-white/10 px-3 py-1.5 text-sm font-medium text-white/90 backdrop-blur transition hover:bg-white/15"
-                >
-                  {p.label}
-                </Link>
-              ))}
-            </div>
           </div>
         </div>
       </section>
