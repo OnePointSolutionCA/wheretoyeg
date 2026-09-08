@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
+  reactStrictMode: false,
   images: {
     formats: ["image/webp"],
     deviceSizes: [640, 828, 1080, 1200],
