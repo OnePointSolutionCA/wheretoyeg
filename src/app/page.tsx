@@ -302,6 +302,63 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* ONEPOINT SOLUTIONS — MARKETING PARTNER */}
+      <section className="container-page mt-20" data-reveal="left">
+        <div className="relative overflow-hidden rounded-3xl border border-line bg-gradient-to-br from-white via-mist to-white p-8 sm:p-12">
+          <div className="pointer-events-none absolute -top-20 -right-20 h-64 w-64 rounded-full bg-coral/10 blur-3xl" />
+          <div className="pointer-events-none absolute -bottom-16 -left-16 h-48 w-48 rounded-full bg-teal-300/10 blur-3xl" />
+          <div className="relative flex flex-col gap-8 sm:flex-row sm:items-center">
+            <div className="flex-1">
+              <p className="eyebrow text-coral">Who built this?</p>
+              <h3 className="mt-2 font-display text-2xl font-extrabold text-teal sm:text-3xl">
+                WhereToYEG is powered by<br />
+                <span className="text-coral">OnePoint Solutions</span>
+              </h3>
+              <p className="mt-3 max-w-lg text-sm leading-relaxed text-teal-500">
+                Edmonton&apos;s all-in-one marketing agency for local businesses. SEO, Google Business Profile, social media, and websites — <strong className="text-teal">$149/month</strong>, no contracts, everything included. If your business needs more customers, OnePoint makes it happen.
+              </p>
+              <div className="mt-4 flex flex-wrap gap-2">
+                <span className="rounded-full bg-teal/10 px-3 py-1 text-xs font-semibold text-teal">SEO</span>
+                <span className="rounded-full bg-teal/10 px-3 py-1 text-xs font-semibold text-teal">Google Business</span>
+                <span className="rounded-full bg-teal/10 px-3 py-1 text-xs font-semibold text-teal">Social Media</span>
+                <span className="rounded-full bg-teal/10 px-3 py-1 text-xs font-semibold text-teal">Websites</span>
+                <span className="rounded-full bg-coral/10 px-3 py-1 text-xs font-semibold text-coral">$149/mo</span>
+              </div>
+              <div className="mt-6 flex flex-wrap gap-3">
+                <a
+                  href="https://onepointsolution.ca"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="inline-flex items-center gap-2 rounded-full bg-coral px-5 py-2.5 text-sm font-bold text-white transition hover:bg-coral-500"
+                >
+                  Visit OnePoint Solutions <span aria-hidden>↗</span>
+                </a>
+                <a
+                  href="https://onepointsolution.ca/free-seo-audit/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="inline-flex items-center gap-2 rounded-full border border-teal bg-white px-5 py-2.5 text-sm font-bold text-teal transition hover:bg-mist"
+                >
+                  Free SEO Audit
+                </a>
+              </div>
+            </div>
+            <div className="flex shrink-0 flex-col items-center gap-3 sm:w-48">
+              <div className="flex h-20 w-20 items-center justify-center rounded-2xl bg-teal shadow-card">
+                <span className="font-display text-3xl font-extrabold text-white">1P</span>
+              </div>
+              <div className="text-center">
+                <div className="font-display text-lg font-bold text-teal">OnePoint Solutions</div>
+                <div className="text-xs text-teal-500">Marketing Agency · Edmonton</div>
+                <div className="mt-1 flex items-center justify-center gap-1 text-xs font-bold text-coral">
+                  ★ 5.0 <span className="font-normal text-teal-500">(26 reviews)</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* GET LISTED CTA */}
       <section className="container-page mt-20 sm:mt-24" data-reveal="up">
         <div className="relative overflow-hidden rounded-3xl bg-teal p-10 text-white sm:p-14">

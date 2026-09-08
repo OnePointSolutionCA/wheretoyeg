@@ -18,7 +18,7 @@ hours:
   friday: "9:00 AM - 4:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/photography-by-dawn-weir-1.jpg", "/photos/photography-by-dawn-weir-2.jpg", "/photos/photography-by-dawn-weir-3.jpg"]
+photos: ["/photos/photography-by-dawn-weir-2.jpg", "/photos/photography-by-dawn-weir-3.jpg"]
 rating: 5
 review_count: 121
 price_range: "$$"
