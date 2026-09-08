@@ -304,14 +304,14 @@ export default function HomePage() {
                 <span className="text-coral">OnePoint Solutions</span>
               </h3>
               <p className="mt-3 max-w-lg text-sm leading-relaxed text-teal-500">
-                Edmonton&apos;s all-in-one marketing agency for local businesses. SEO, Google Business Profile, social media, and websites — <strong className="text-teal">$149/month</strong>, no contracts, everything included. If your business needs more customers, OnePoint makes it happen.
+                Canadian marketing agency, Edmonton-based, serving businesses of every size across Canada. Websites with SEO and AEO built in, social media management, and ongoing SEO — Canada-wide. Portable billboard signage in Edmonton and surrounding areas.
               </p>
               <div className="mt-4 flex flex-wrap gap-2">
-                <span className="rounded-full bg-teal/10 px-3 py-1 text-xs font-semibold text-teal">SEO</span>
-                <span className="rounded-full bg-teal/10 px-3 py-1 text-xs font-semibold text-teal">Google Business</span>
-                <span className="rounded-full bg-teal/10 px-3 py-1 text-xs font-semibold text-teal">Social Media</span>
                 <span className="rounded-full bg-teal/10 px-3 py-1 text-xs font-semibold text-teal">Websites</span>
-                <span className="rounded-full bg-coral/10 px-3 py-1 text-xs font-semibold text-coral">$149/mo</span>
+                <span className="rounded-full bg-teal/10 px-3 py-1 text-xs font-semibold text-teal">SEO</span>
+                <span className="rounded-full bg-teal/10 px-3 py-1 text-xs font-semibold text-teal">Social Media</span>
+                <span className="rounded-full bg-teal/10 px-3 py-1 text-xs font-semibold text-teal">Signage</span>
+                <span className="rounded-full bg-coral/10 px-3 py-1 text-xs font-semibold text-coral">Canada-wide</span>
               </div>
               <div className="mt-6 flex flex-wrap gap-3">
                 <a
@@ -332,16 +332,14 @@ export default function HomePage() {
                 </a>
               </div>
             </div>
-            <div className="flex shrink-0 flex-col items-center gap-3 sm:w-48">
-              <div className="flex h-20 w-20 items-center justify-center rounded-2xl bg-teal shadow-card">
-                <span className="font-display text-3xl font-extrabold text-white">1P</span>
-              </div>
-              <div className="text-center">
-                <div className="font-display text-lg font-bold text-teal">OnePoint Solutions</div>
-                <div className="text-xs text-teal-500">Marketing Agency · Edmonton</div>
-                <div className="mt-1 flex items-center justify-center gap-1 text-xs font-bold text-coral">
-                  ★ 5.0 <span className="font-normal text-teal-500">(26 reviews)</span>
-                </div>
+            <div className="flex shrink-0 flex-col items-center gap-3 sm:w-56">
+              <img
+                src="/logos/onepoint-horizontal.png"
+                alt="OnePoint Solutions Marketing Agency"
+                className="w-48 sm:w-56"
+              />
+              <div className="mt-1 flex items-center justify-center gap-1 text-xs font-bold text-coral">
+                ★ 5.0 <span className="font-normal text-teal-500">(26 reviews)</span>
               </div>
             </div>
           </div>
