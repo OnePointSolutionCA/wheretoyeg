@@ -12,11 +12,9 @@ type NavCategory = { name: string; slug: string };
 export function Navbar({ categories = [], searchIndex = [] }: { categories?: NavCategory[]; searchIndex?: SearchIndexItem[] }) {
   const pathname = usePathname();
   const [openMenu, setOpenMenu] = useState<"categories" | null>(null);
-  const [mobileOpen, setMobileOpen] = useState(false);
 
   useEffect(() => {
     setOpenMenu(null);
-    setMobileOpen(false);
   }, [pathname]);
 
   useEffect(() => {
@@ -27,12 +25,6 @@ export function Navbar({ categories = [], searchIndex = [] }: { categories?: Nav
     document.addEventListener("click", close);
     return () => document.removeEventListener("click", close);
   }, [openMenu]);
-
-  useEffect(() => {
-    if (mobileOpen) document.body.style.overflow = "hidden";
-    else document.body.style.overflow = "";
-    return () => { document.body.style.overflow = ""; };
-  }, [mobileOpen]);
 
   return (
     <header className="nav-header sticky top-0 z-40 border-b border-line/70 bg-white/85 backdrop-blur">
@@ -108,50 +100,25 @@ export function Navbar({ categories = [], searchIndex = [] }: { categories?: Nav
           <Link href="/get-listed" className="hidden shrink-0 whitespace-nowrap rounded-full bg-coral px-5 py-2.5 text-sm font-semibold text-white transition hover:bg-coral-500 md:inline-flex">
             Get Listed
           </Link>
-          <button
-            type="button"
-            onClick={() => setMobileOpen(!mobileOpen)}
-            className="flex h-10 w-10 items-center justify-center rounded-xl text-teal transition hover:bg-mist md:hidden"
-            aria-label={mobileOpen ? "Close menu" : "Open menu"}
-          >
-            {mobileOpen ? (
-              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round"><path d="M18 6 6 18M6 6l12 12"/></svg>
-            ) : (
-              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
-            )}
-          </button>
         </div>
       </div>
 
-      {/* Mobile drawer */}
-      {mobileOpen && (
-        <div className="fixed inset-0 top-16 z-50 overflow-y-auto bg-white md:hidden">
-          <nav className="container-page flex flex-col gap-1 py-4">
-            <Link href="/search" className="rounded-xl px-4 py-3 text-base font-semibold text-teal transition hover:bg-mist hover:text-coral">Search</Link>
-            <Link href="/#categories" className="rounded-xl px-4 py-3 text-base font-semibold text-teal transition hover:bg-mist hover:text-coral">Browse</Link>
-            <Link href="/collections" className="rounded-xl px-4 py-3 text-base font-semibold text-teal transition hover:bg-mist hover:text-coral">Vibes</Link>
-            <Link href="/neighborhoods" className="rounded-xl px-4 py-3 text-base font-semibold text-teal transition hover:bg-mist hover:text-coral">Neighborhoods</Link>
-            <Link href="/blog" className="rounded-xl px-4 py-3 text-base font-semibold text-teal transition hover:bg-mist hover:text-coral">Blog</Link>
-            <Link href="/about" className="rounded-xl px-4 py-3 text-base font-semibold text-teal transition hover:bg-mist hover:text-coral">About</Link>
-            <Link href="/contact" className="rounded-xl px-4 py-3 text-base font-semibold text-teal transition hover:bg-mist hover:text-coral">Contact</Link>
-            <div className="my-2 border-t border-line" />
-            <p className="px-4 py-2 text-xs font-bold uppercase tracking-wider text-teal-300">Categories</p>
-            {categories.map((c) => (
-              <Link
-                key={c.slug}
-                href={`/${c.slug}`}
-                className="rounded-xl px-4 py-2.5 text-sm font-medium text-teal-500 transition hover:bg-mist hover:text-coral"
-              >
-                {c.name}
-              </Link>
-            ))}
-            <div className="my-2 border-t border-line" />
-            <Link href="/get-listed" className="btn-primary mx-4 mt-2 text-center text-sm">
-              Get Listed
-            </Link>
-          </nav>
-        </div>
-      )}
+      {/* Mobile nav strip — always visible, horizontally scrollable */}
+      <nav className="flex items-center gap-1 overflow-x-auto border-t border-line/50 px-4 py-2 md:hidden" style={{ WebkitOverflowScrolling: "touch", scrollbarWidth: "none" }}>
+        <Link href="/search" className={mobilePill(pathname === "/search")}>Search</Link>
+        <Link href="/#categories" className={mobilePill(false)}>Categories</Link>
+        <Link href="/collections" className={mobilePill(pathname === "/collections")}>Vibes</Link>
+        <Link href="/neighborhoods" className={mobilePill(pathname === "/neighborhoods")}>Areas</Link>
+        <Link href="/blog" className={mobilePill(pathname === "/blog")}>Blog</Link>
+        <Link href="/about" className={mobilePill(pathname === "/about")}>About</Link>
+        <Link href="/contact" className={mobilePill(pathname === "/contact")}>Contact</Link>
+        <Link href="/get-listed" className="shrink-0 whitespace-nowrap rounded-full bg-coral px-3 py-1.5 text-xs font-bold text-white">Get Listed</Link>
+      </nav>
     </header>
   );
+}
+
+function mobilePill(active: boolean) {
+  return "shrink-0 whitespace-nowrap rounded-full px-3 py-1.5 text-xs font-semibold transition " +
+    (active ? "bg-teal text-white" : "bg-mist text-teal hover:bg-teal-100");
 }
