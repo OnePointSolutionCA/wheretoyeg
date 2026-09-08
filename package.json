@@ -6,7 +6,8 @@
     "dev": "next dev -p 4200",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "refresh": "node scripts/refresh-listings.mjs"
   },
   "dependencies": {
     "fuse.js": "^7.0.0",
