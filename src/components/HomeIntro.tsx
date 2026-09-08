@@ -2,18 +2,18 @@
 
 import { useEffect } from "react";
 
-/**
- * Cinematic homepage intro trigger.
- * - Adds `page-home` to <html> so scoped intro CSS kicks in.
- * - After 1050ms, marks the hero as `is-ready` so hero copy staggers in.
- * - Cleans everything up on unmount so navigating away doesn't leak the class.
- */
 export function HomeIntro() {
   useEffect(() => {
+    try {
+      if (sessionStorage.getItem("intro-played")) return;
+      sessionStorage.setItem("intro-played", "1");
+    } catch {
+      return;
+    }
+
     const html = document.documentElement;
     html.classList.add("page-home");
 
-    // Wait for the nav to land + a dramatic beat before the hero words start.
     const t = setTimeout(() => {
       document.querySelector(".hero")?.classList.add("is-ready");
     }, 1500);

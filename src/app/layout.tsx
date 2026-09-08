@@ -123,12 +123,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en" className={inter.variable}>
       <body className="font-sans antialiased">
-        {/* Sync page-mark so page-home CSS applies BEFORE body paints —
-            avoids a flash where the hero renders visible for a frame,
-            then jumps hidden after hydration adds the class. */}
         <script
           dangerouslySetInnerHTML={{
-            __html: `if(location.pathname==='/')document.documentElement.classList.add('page-home');`,
+            __html: `try{if(location.pathname==='/'&&!sessionStorage.getItem('intro-played'))document.documentElement.classList.add('page-home')}catch(e){}`,
           }}
         />
         <a
