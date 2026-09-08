@@ -7,6 +7,8 @@ import {
   getBusinessesByCategory,
   countBySubcategory,
 } from "@/lib/content";
+import { BusinessCard } from "@/components/BusinessCard";
+import { Card3D } from "@/components/Card3D";
 import { FilterableList } from "@/components/FilterBar";
 import { SubcategoryPills } from "@/components/SubcategoryPills";
 import { SITE } from "@/lib/site";
@@ -34,6 +36,33 @@ export async function generateMetadata({ params }: { params: { category: string 
   };
 }
 
+const FOOD_CATS = new Set(["restaurants", "cafes-coffee-shops", "bakeries", "catering"]);
+const MOOD_SECTIONS: Record<string, { title: string; filter: (b: any) => boolean }[]> = {
+  restaurants: [
+    { title: "Craving something quick?", filter: (b) => b.amenities?.includes("Takeout") || b.subcategory === "burgers" || b.subcategory === "pizza" },
+    { title: "Date night worthy", filter: (b) => b.amenities?.includes("Dine-In") && (b.rating ?? 0) >= 4.5 },
+    { title: "Family friendly picks", filter: (b) => b.amenities?.includes("Family Friendly") },
+  ],
+  "cafes-coffee-shops": [
+    { title: "Perfect for working", filter: (b) => b.amenities?.includes("Wi-Fi") || b.amenities?.includes("Laptop Friendly") },
+    { title: "Cozy vibes", filter: (b) => (b.rating ?? 0) >= 4.5 },
+  ],
+  bakeries: [
+    { title: "Sweet tooth?", filter: (b) => (b.rating ?? 0) >= 4.3 },
+  ],
+};
+
+function seededShuffle<T>(arr: T[], seed: number): T[] {
+  const a = [...arr];
+  let s = seed;
+  for (let i = a.length - 1; i > 0; i--) {
+    s = (s * 1103515245 + 12345) & 0x7fffffff;
+    const j = s % (i + 1);
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
 export default function CategoryPage({ params }: { params: { category: string } }) {
   const c = getCategoryBySlug(params.category);
   if (!c) notFound();
@@ -42,8 +71,23 @@ export default function CategoryPage({ params }: { params: { category: string } 
   const neighborhoods = Array.from(new Set(businesses.map((b) => b.neighborhood))).filter(Boolean).sort();
   const amenities = Array.from(new Set(businesses.flatMap((b) => b.amenities ?? []))).sort();
 
-  // Prefer the curated editorial hero image for the category over any
-  // individual business's storefront shot.
+  const day = Math.floor(Date.now() / 86_400_000);
+
+  // Top Picks: 6 highest-rated, rotated daily
+  const topPicks = seededShuffle(
+    businesses.filter((b) => (b.rating ?? 0) >= 4.3 && (b.review_count ?? 0) >= 10),
+    day
+  ).slice(0, 6);
+
+  // Mood sections (food categories only)
+  const moods = (MOOD_SECTIONS[c.slug] ?? []).map((m) => {
+    const matching = seededShuffle(businesses.filter(m.filter), day + m.title.length);
+    return { title: m.title, businesses: matching.slice(0, 4) };
+  }).filter((m) => m.businesses.length >= 2);
+
+  // Rotated main listing
+  const rotatedBusinesses = seededShuffle(businesses, day + 999);
+
   const heroPhoto = `/photos/_hero/${c.slug}.jpg`;
 
   return (
@@ -59,9 +103,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
         ) : (
           <div className="absolute inset-0 bg-gradient-to-br from-teal to-teal-900" aria-hidden="true" />
         )}
-        {/* Dark overlay for text legibility */}
         <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/60 to-black/40" />
-        {/* Ambient orbs */}
         <div className="pointer-events-none absolute -top-24 -right-24 h-96 w-96 rounded-full bg-coral/20 blur-3xl" />
         <div className="pointer-events-none absolute -bottom-32 -left-16 h-96 w-96 rounded-full bg-teal-300/15 blur-3xl" />
 
@@ -105,10 +147,54 @@ export default function CategoryPage({ params }: { params: { category: string } 
         </div>
       </section>
 
+      {/* Top Picks — rotates daily */}
+      {topPicks.length >= 3 && (
+        <section className="container-page mt-10" data-reveal="right">
+          <div className="flex items-end justify-between gap-4">
+            <div>
+              <p className="eyebrow">Today&apos;s top picks</p>
+              <h2 className="section-title mt-1">Worth checking out right now</h2>
+            </div>
+          </div>
+          <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            {topPicks.map((b) => (
+              <Card3D key={b.slug}>
+                <BusinessCard business={b} categoryName={c.name} />
+              </Card3D>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* Mood-based sections (food categories) */}
+      {moods.map((m) => (
+        <section key={m.title} className="container-page mt-10" data-reveal="left">
+          <h2 className="font-display text-xl font-bold text-teal">{m.title}</h2>
+          <div className="mt-4 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+            {m.businesses.map((b) => (
+              <Card3D key={b.slug}>
+                <BusinessCard business={b} categoryName={c.name} />
+              </Card3D>
+            ))}
+          </div>
+        </section>
+      ))}
+
+      {/* Divider */}
+      {(topPicks.length >= 3 || moods.length > 0) && (
+        <div className="container-page mt-10">
+          <div className="flex items-center gap-4">
+            <div className="h-px flex-1 bg-line" />
+            <span className="text-xs font-bold uppercase tracking-wider text-teal-300">All {c.name}</span>
+            <div className="h-px flex-1 bg-line" />
+          </div>
+        </div>
+      )}
+
       <section className="container-page py-10" data-reveal="right">
-        {businesses.length > 0 ? (
+        {rotatedBusinesses.length > 0 ? (
           <FilterableList
-            businesses={businesses}
+            businesses={rotatedBusinesses}
             categoryName={c.name}
             neighborhoods={neighborhoods}
             amenities={amenities}
@@ -138,7 +224,7 @@ function EmptyState({ categoryName }: { categoryName: string }) {
   return (
     <div className="rounded-2xl border border-dashed border-line bg-mist p-12 text-center">
       <p className="font-display text-2xl font-bold text-teal">
-        We're adding {categoryName} to the map.
+        We&apos;re adding {categoryName} to the map.
       </p>
       <p className="mt-2 text-teal-500">
         Know a spot worth listing? Tell us — listings are free.
