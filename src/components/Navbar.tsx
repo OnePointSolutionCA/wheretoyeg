@@ -96,7 +96,7 @@ export function Navbar({ categories = [], searchIndex = [] }: { categories?: Nav
         </nav>
         <div className="flex items-center gap-3 justify-self-end">
           <NavSearch index={searchIndex} />
-          <Link href="/get-listed" className="hidden shrink-0 whitespace-nowrap rounded-full bg-coral px-5 py-2.5 text-sm font-semibold text-white transition hover:bg-coral-500 md:inline-flex">
+          <Link href="/get-listed" className="shrink-0 whitespace-nowrap rounded-full bg-coral px-3 py-1.5 text-xs font-semibold text-white transition hover:bg-coral-500 md:px-5 md:py-2.5 md:text-sm">
             Get Listed
           </Link>
         </div>
@@ -110,7 +110,6 @@ export function Navbar({ categories = [], searchIndex = [] }: { categories?: Nav
         <Link href="/blog" className={mobilePill(pathname === "/blog")}>Blog</Link>
         <Link href="/about" className={mobilePill(pathname === "/about")}>About</Link>
         <Link href="/contact" className={mobilePill(pathname === "/contact")}>Contact</Link>
-        <Link href="/get-listed" className="shrink-0 whitespace-nowrap rounded-full bg-coral px-3 py-1.5 text-xs font-bold text-white">Get Listed</Link>
       </nav>
     </header>
   );

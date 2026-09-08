@@ -221,7 +221,7 @@ export function FilterableList({
           Showing {filtered.length} of {businesses.length}
         </div>
       </div>
-      <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+      <div className="mt-6 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
         {filtered.slice(0, visible).map((b) => (
           <Card3D key={b.slug}>
             <BusinessCard business={b} categoryName={categoryName} />

@@ -158,7 +158,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
               <h2 className="section-title mt-1">Worth checking out right now</h2>
             </div>
           </div>
-          <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="mt-6 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
             {topPicks.map((b) => (
               <Card3D key={b.slug}>
                 <BusinessCard business={b} categoryName={c.name} />
