@@ -1,7 +1,7 @@
 ---
 name: "Cafe Amore Bistro"
 slug: "cafe-amore-bistro"
-category: "restaurants"
+category: "cafes-coffee-shops"
 subcategory: "italian"
 tier: "featured"
 description: "Cafe Amore Bistro — italian in Edmonton, Edmonton. 2213 Google reviews, 4.6★."

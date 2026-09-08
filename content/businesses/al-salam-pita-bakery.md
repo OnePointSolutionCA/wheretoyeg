@@ -1,7 +1,7 @@
 ---
 name: "Al Salam Bakery & Restaurant"
 slug: "al-salam-pita-bakery"
-category: "restaurants"
+category: "bakeries"
 subcategory: "lebanese"
 tier: "featured"
 logo: "/logos/al-salam-pita-bakery.png"

@@ -1,7 +1,7 @@
 ---
 name: "Heo Bake Vietnamese Fusion Bake & Café"
 slug: "heo-bake-vietnamese-fusion-bake-caf"
-category: "restaurants"
+category: "cafes-coffee-shops"
 subcategory: "pho"
 tier: "featured"
 description: "Heo Bake Vietnamese Fusion Bake & Café — pho in Edmonton, Edmonton. 58 Google reviews, 4.9★."

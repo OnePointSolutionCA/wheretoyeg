@@ -1,7 +1,7 @@
 ---
 name: "Catalyst Physio and Sports Performance Inc."
 slug: "catalyst-physio-and-sports-performance-inc"
-category: "medical"
+category: "gyms-fitness"
 subcategory: "physiotherapy"
 tier: "featured"
 description: "Catalyst Physio and Sports Performance Inc. — physiotherapy in Edmonton, Edmonton. 165 Google reviews, 5.0★."

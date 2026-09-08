@@ -24,6 +24,8 @@ import { businessSchema } from "@/lib/schema";
 import { deliveryLinks } from "@/lib/delivery";
 import { SITE } from "@/lib/site";
 
+const FOOD_CATEGORIES = new Set(["restaurants", "cafes-coffee-shops", "bakeries", "catering", "grocery-markets"]);
+
 /**
  * The [category]/[slug] route serves two things:
  *   1. Subcategory listing pages, e.g. /medical/pharmacies or /restaurants/burgers
@@ -248,6 +250,12 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
         <div className="lg:col-span-2">
           <h2 className="font-display text-xl font-bold text-teal">About {b.name}</h2>
           <p className="mt-3 whitespace-pre-line text-teal-500">{b.description}</p>
+
+          {FOOD_CATEGORIES.has(b.category) && (
+            <div className="mt-4 rounded-xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-800">
+              <strong>Heads up:</strong> Before visiting, we recommend calling ahead to confirm ingredients and preparation — especially if you have dietary restrictions or allergies (e.g. alcohol in cooking, pork, nuts, gluten). Menu items can change without notice.
+            </div>
+          )}
 
           {b.tags?.length > 0 && (
             <div className="mt-4 flex flex-wrap gap-1.5">

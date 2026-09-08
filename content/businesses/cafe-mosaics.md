@@ -1,7 +1,7 @@
 ---
 name: "Cafe Mosaics"
 slug: "cafe-mosaics"
-category: "restaurants"
+category: "cafes-coffee-shops"
 subcategory: "vegan"
 tier: "featured"
 description: "Cafe Mosaics — vegan in Whyte Ave, Edmonton. 1341 Google reviews, 4.4★."

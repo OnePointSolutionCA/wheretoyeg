@@ -1,7 +1,7 @@
 ---
 name: "Thai Corner Restaurant & Bakery"
 slug: "thai-corner-restaurant-bakery"
-category: "restaurants"
+category: "bakeries"
 subcategory: "thai"
 tier: "featured"
 description: "Thai Corner Restaurant & Bakery — thai in Edmonton, Edmonton. 704 Google reviews, 4.8★."

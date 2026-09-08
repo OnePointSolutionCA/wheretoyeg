@@ -1,7 +1,7 @@
 ---
 name: "Mareeg Cafe & Restaurant"
 slug: "mareeg-cafe-restaurant"
-category: "restaurants"
+category: "cafes-coffee-shops"
 subcategory: "somali"
 tier: "featured"
 description: "Mareeg Cafe & Restaurant — somali in Edmonton, Edmonton. Halal-certified. 319 Google reviews, 4.3★."

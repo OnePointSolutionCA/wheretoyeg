@@ -1,7 +1,7 @@
 ---
 name: "Massawa Cafe"
 slug: "massawa-cafe"
-category: "restaurants"
+category: "cafes-coffee-shops"
 subcategory: "eritrean"
 tier: "featured"
 description: "Massawa Cafe — eritrean in Edmonton, Edmonton. 85 Google reviews, 4.5★."

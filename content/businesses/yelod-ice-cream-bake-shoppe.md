@@ -1,7 +1,7 @@
 ---
 name: "Yelo'd Ice Cream & Bake Shoppe"
 slug: "yelod-ice-cream-bake-shoppe"
-category: "restaurants"
+category: "bakeries"
 subcategory: "ice-cream"
 tier: "featured"
 description: "Yelo'd Ice Cream & Bake Shoppe — ice cream in Edmonton, Edmonton. 284 Google reviews, 4.9★."

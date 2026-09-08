@@ -70,71 +70,77 @@ export function getFeaturedBusinesses(limit = 8): Business[] {
 }
 
 export function getDiverseFeatured(limit = 12): Business[] {
-  const lifestyleCats = new Set(["restaurants", "cafes-coffee-shops", "activities-fun", "bakeries"]);
+  const day = Math.floor(Date.now() / 86_400_000);
+  const seed = day;
+
   const all = getBusinesses()
-    .filter((b) => b.tier !== "basic" && b.rating > 0)
-    .sort(rankBusinesses);
-  const lifestyle = all.filter((b) => lifestyleCats.has(b.category));
-  const other = all.filter((b) => !lifestyleCats.has(b.category));
+    .filter((b) => b.tier !== "basic" && b.rating > 0);
+
+  // Seeded shuffle so the order changes daily but stays stable within one day
+  function seededShuffle<T>(arr: T[]): T[] {
+    const a = [...arr];
+    let s = seed;
+    for (let i = a.length - 1; i > 0; i--) {
+      s = (s * 1103515245 + 12345) & 0x7fffffff;
+      const j = s % (i + 1);
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  }
+
+  const shuffled = seededShuffle(all);
   const picked: Business[] = [];
   const usedCats = new Set<string>();
-  for (const b of lifestyle) {
-    if (!usedCats.has(b.category)) {
-      picked.push(b);
-      usedCats.add(b.category);
-    }
+
+  // First pass: one per category for diversity
+  for (const b of shuffled) {
+    if (usedCats.has(b.category)) continue;
+    picked.push(b);
+    usedCats.add(b.category);
     if (picked.length >= limit) break;
   }
+
+  // Fill remaining slots
   if (picked.length < limit) {
-    for (const b of lifestyle) {
-      if (!picked.includes(b)) {
-        picked.push(b);
-        if (picked.length >= limit) break;
-      }
-    }
-  }
-  if (picked.length < limit) {
-    for (const b of other) {
-      if (!usedCats.has(b.category)) {
-        picked.push(b);
-        usedCats.add(b.category);
-      }
+    for (const b of shuffled) {
+      if (picked.includes(b)) continue;
+      picked.push(b);
       if (picked.length >= limit) break;
     }
   }
-  if (picked.length < limit) {
-    for (const b of all) {
-      if (!picked.includes(b)) {
-        picked.push(b);
-        if (picked.length >= limit) break;
-      }
-    }
-  }
+
   return picked;
 }
 
 export function getRecentReviews(limit = 4) {
-  // For each business, take its single most recent review — this way one
-  // business can't dominate the whole "latest reviews" strip.
+  const day = Math.floor(Date.now() / 86_400_000);
+  let s = day;
   const perBusiness = getBusinesses()
     .flatMap((b) => {
       const reviews = (b.reviews ?? [])
-        .filter((r) => (r.comment ?? "").length > 40)
-        .sort((a, b) => (b.date ?? "").localeCompare(a.date ?? ""));
+        .filter((r) => (r.comment ?? "").length > 40);
       return reviews[0] ? [{ ...reviews[0], business: b }] : [];
     })
-    .sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0));
-  // Prefer a variety of categories in the first N picks
+    .filter((r) => (r.rating ?? 0) >= 4);
+
+  // Seeded shuffle for daily rotation
+  const arr = [...perBusiness];
+  for (let i = arr.length - 1; i > 0; i--) {
+    s = (s * 1103515245 + 12345) & 0x7fffffff;
+    const j = s % (i + 1);
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+
   const picked: typeof perBusiness = [];
   const seenCats = new Set<string>();
-  for (const r of perBusiness) {
+  for (const r of arr) {
     if (seenCats.has(r.business.category)) continue;
     picked.push(r);
     seenCats.add(r.business.category);
     if (picked.length >= limit) break;
   }
   if (picked.length < limit) {
-    for (const r of perBusiness) {
+    for (const r of arr) {
       if (picked.includes(r)) continue;
       picked.push(r);
       if (picked.length >= limit) break;

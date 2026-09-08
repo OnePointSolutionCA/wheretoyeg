@@ -1,7 +1,7 @@
 ---
 name: "Gen-X Jamaican Patty Bakery and Catering"
 slug: "gen-x-jamaican-patty-bakery-and-catering"
-category: "restaurants"
+category: "bakeries"
 subcategory: "jamaican"
 tier: "featured"
 description: "Gen-X Jamaican Patty Bakery and Catering — jamaican in Edmonton, Edmonton. 150 Google reviews, 4.7★."

@@ -1,7 +1,7 @@
 ---
 name: "Pivotal Physiotherapy - High Performance Centre"
 slug: "pivotal-physiotherapy---high-performance-centre"
-category: "medical"
+category: "gyms-fitness"
 subcategory: "physiotherapy"
 tier: "featured"
 description: "Pivotal Physiotherapy - High Performance Centre — physiotherapy in Edmonton, Edmonton. 495 Google reviews, 4.9★."

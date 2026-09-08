@@ -22,7 +22,7 @@ export function BusinessCard({ business, categoryName }: { business: Business; c
   const b = business;
   const href = `/${b.category}/${b.slug}`;
   const photo = b.photos?.[0];
-  const gradient = hashPick(GRADIENTS, b.slug);
+  const gradient = hashPick(GRADIENTS, b.slug ?? b.name ?? "x");
 
   return (
     <article

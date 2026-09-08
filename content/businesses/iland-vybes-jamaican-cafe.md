@@ -1,7 +1,7 @@
 ---
 name: "iland Vybes Jamaican cafe"
 slug: "iland-vybes-jamaican-cafe"
-category: "restaurants"
+category: "cafes-coffee-shops"
 subcategory: "jamaican"
 tier: "featured"
 description: "iland Vybes Jamaican cafe — jamaican in Downtown, Edmonton. 197 Google reviews, 4.8★."

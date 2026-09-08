@@ -1,7 +1,7 @@
 ---
 name: "The Moth Cafe"
 slug: "the-moth-cafe"
-category: "restaurants"
+category: "cafes-coffee-shops"
 subcategory: "vegan"
 tier: "featured"
 description: "The Moth Cafe — vegan in Downtown, Edmonton. 1471 Google reviews, 4.5★."

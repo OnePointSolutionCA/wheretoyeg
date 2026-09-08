@@ -1,7 +1,7 @@
 ---
 name: "Cafe Caribbean"
 slug: "cafe-caribbean"
-category: "restaurants"
+category: "cafes-coffee-shops"
 subcategory: "caribbean"
 tier: "featured"
 description: "Cafe Caribbean — caribbean in Edmonton, Edmonton. 175 Google reviews, 4.8★."

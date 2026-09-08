@@ -1,7 +1,7 @@
 ---
 name: "One stop halal and cafe"
 slug: "one-stop-halal-and-cafe"
-category: "restaurants"
+category: "cafes-coffee-shops"
 subcategory: "halal-chicken"
 tier: "featured"
 description: "One stop halal and cafe — halal chicken in Edmonton, Edmonton. Halal-certified. 32 Google reviews, 4.8★."
