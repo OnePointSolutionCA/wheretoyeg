@@ -6,7 +6,7 @@ import { Footer } from "@/components/Footer";
 import { ScrollOrbs } from "@/components/ScrollOrbs";
 import { Analytics } from "@/components/Analytics";
 import type { SearchIndexItem } from "@/components/HeroSearch";
-import { getCategories, getBusinesses } from "@/lib/content";
+import { getCategories } from "@/lib/content";
 import { organizationSchema, siteSearchSchema, JsonLd } from "@/lib/schema-extra";
 import { SITE } from "@/lib/site";
 
@@ -91,7 +91,6 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   const cats = getCategories();
   const navCategories = cats.map((c) => ({ name: c.name, slug: c.slug }));
-  const catBySlug = Object.fromEntries(cats.map((c) => [c.slug, c.name]));
   const searchIndex: SearchIndexItem[] = [
     ...cats.map((c) => ({
       kind: "category" as const,
@@ -107,12 +106,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         hint: `${c.name} · in Edmonton`,
       })),
     ),
-    ...getBusinesses().map((b) => ({
-      kind: "business" as const,
-      name: b.name,
-      href: `/${b.category}/${b.slug}`,
-      hint: `${catBySlug[b.category] ?? b.category} · ${b.neighborhood}`,
-    })),
     ...SITE.neighborhoods.map((n) => ({
       kind: "neighborhood" as const,
       name: n,
@@ -125,7 +118,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className="font-sans antialiased">
         <script
           dangerouslySetInnerHTML={{
-            __html: `try{if(location.pathname==='/'&&!sessionStorage.getItem('intro-played'))document.documentElement.classList.add('page-home')}catch(e){}`,
+            __html: `try{window.scrollTo(0,0);if(location.pathname==='/'&&!sessionStorage.getItem('intro-played'))document.documentElement.classList.add('page-home')}catch(e){}`,
           }}
         />
         <a

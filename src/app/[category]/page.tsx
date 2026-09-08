@@ -36,21 +36,6 @@ export async function generateMetadata({ params }: { params: { category: string 
   };
 }
 
-const FOOD_CATS = new Set(["restaurants", "cafes-coffee-shops", "bakeries", "catering"]);
-const MOOD_SECTIONS: Record<string, { title: string; filter: (b: any) => boolean }[]> = {
-  restaurants: [
-    { title: "Craving something quick?", filter: (b) => b.amenities?.includes("Takeout") || b.subcategory === "burgers" || b.subcategory === "pizza" },
-    { title: "Date night worthy", filter: (b) => b.amenities?.includes("Dine-In") && (b.rating ?? 0) >= 4.5 },
-    { title: "Family friendly picks", filter: (b) => b.amenities?.includes("Family Friendly") },
-  ],
-  "cafes-coffee-shops": [
-    { title: "Perfect for working", filter: (b) => b.amenities?.includes("Wi-Fi") || b.amenities?.includes("Laptop Friendly") },
-    { title: "Cozy vibes", filter: (b) => (b.rating ?? 0) >= 4.5 },
-  ],
-  bakeries: [
-    { title: "Sweet tooth?", filter: (b) => (b.rating ?? 0) >= 4.3 },
-  ],
-};
 
 function seededShuffle<T>(arr: T[], seed: number): T[] {
   const a = [...arr];
@@ -61,6 +46,29 @@ function seededShuffle<T>(arr: T[], seed: number): T[] {
     [a[i], a[j]] = [a[j], a[i]];
   }
   return a;
+}
+
+function slimForCard(b: any): any {
+  return {
+    name: b.name,
+    slug: b.slug,
+    category: b.category,
+    subcategory: b.subcategory,
+    tier: b.tier,
+    logo: b.logo,
+    description: b.description,
+    neighborhood: b.neighborhood,
+    hours: b.hours,
+    photos: b.photos?.slice(0, 1) ?? [],
+    rating: b.rating,
+    review_count: b.review_count,
+    price_range: b.price_range,
+    amenities: b.amenities,
+    date_listed: b.date_listed,
+    address: "",
+    tags: [],
+    active: true,
+  };
 }
 
 export default function CategoryPage({ params }: { params: { category: string } }) {
@@ -79,14 +87,8 @@ export default function CategoryPage({ params }: { params: { category: string } 
     day
   ).slice(0, 6);
 
-  // Mood sections (food categories only)
-  const moods = (MOOD_SECTIONS[c.slug] ?? []).map((m) => {
-    const matching = seededShuffle(businesses.filter(m.filter), day + m.title.length);
-    return { title: m.title, businesses: matching.slice(0, 4) };
-  }).filter((m) => m.businesses.length >= 2);
-
-  // Rotated main listing
-  const rotatedBusinesses = seededShuffle(businesses, day + 999);
+  // Rotated main listing — slimmed to only card-visible fields to cut page weight
+  const rotatedBusinesses = seededShuffle(businesses, day + 999).map(slimForCard);
 
   const heroPhoto = `/photos/_hero/${c.slug}.jpg`;
 
@@ -166,22 +168,8 @@ export default function CategoryPage({ params }: { params: { category: string } 
         </section>
       )}
 
-      {/* Mood-based sections (food categories) */}
-      {moods.map((m) => (
-        <section key={m.title} className="container-page mt-10" data-reveal="left">
-          <h2 className="font-display text-xl font-bold text-teal">{m.title}</h2>
-          <div className="mt-4 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
-            {m.businesses.map((b) => (
-              <Card3D key={b.slug}>
-                <BusinessCard business={b} categoryName={c.name} />
-              </Card3D>
-            ))}
-          </div>
-        </section>
-      ))}
-
       {/* Divider */}
-      {(topPicks.length >= 3 || moods.length > 0) && (
+      {topPicks.length >= 3 && (
         <div className="container-page mt-10">
           <div className="flex items-center gap-4">
             <div className="h-px flex-1 bg-line" />

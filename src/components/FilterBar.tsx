@@ -30,6 +30,7 @@ export function FilterableList({
   const [selAmenities, setSelAmenities] = useState<string[]>([]);
   const [sort, setSort] = useState<"recommended" | "rating" | "reviews" | "newest">("recommended");
   const [openMenu, setOpenMenu] = useState<"neighborhoods" | "amenities" | null>(null);
+  const [visible, setVisible] = useState(24);
 
   // Read initial filter state from URL (?amenity=Halal&neighborhood=...)
   useEffect(() => {
@@ -65,6 +66,8 @@ export function FilterableList({
     else if (sort === "newest") out.sort((a, b) => b.date_listed.localeCompare(a.date_listed));
     return out;
   }, [businesses, prices, rating, openNow, selNeighborhoods, selAmenities, sort]);
+
+  useEffect(() => { setVisible(24); }, [prices, rating, openNow, selNeighborhoods, selAmenities, sort]);
 
   const activeCount =
     prices.length + selNeighborhoods.length + selAmenities.length + (rating ? 1 : 0) + (openNow ? 1 : 0);
@@ -219,12 +222,22 @@ export function FilterableList({
         </div>
       </div>
       <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-        {filtered.map((b) => (
+        {filtered.slice(0, visible).map((b) => (
           <Card3D key={b.slug}>
             <BusinessCard business={b} categoryName={categoryName} />
           </Card3D>
         ))}
       </div>
+      {visible < filtered.length && (
+        <div className="mt-8 text-center">
+          <button
+            onClick={() => setVisible((v) => v + 24)}
+            className="rounded-full border border-teal bg-white px-8 py-3 text-sm font-bold text-teal transition hover:bg-teal hover:text-white"
+          >
+            Show more ({filtered.length - visible} remaining)
+          </button>
+        </div>
+      )}
       {filtered.length === 0 && (
         <div className="mt-10 rounded-2xl border border-dashed border-line bg-mist p-10 text-center">
           <p className="font-semibold text-teal">Nothing matches those filters.</p>

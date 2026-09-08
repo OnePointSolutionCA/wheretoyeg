@@ -25,8 +25,8 @@ export const metadata: Metadata = {
 };
 
 export default function HomePage() {
-  const featured = getDiverseFeatured(120);
-  const recent = getRecentReviews(20);
+  const featured = getDiverseFeatured(20);
+  const recent = getRecentReviews(8);
   const cats = getCategories();
   const catBySlug = Object.fromEntries(cats.map((c) => [c.slug, c.name]));
   const blog = getBlogPosts().slice(0, 3);
@@ -52,7 +52,8 @@ export default function HomePage() {
     }
   }
 
-  // Build search index for the smart hero search
+  // Build search index — categories + subcategories + neighborhoods only
+  // Full business search happens on /search page
   const index: SearchIndexItem[] = [
     ...cats.map((c) => ({
       kind: "category" as const,
@@ -68,12 +69,6 @@ export default function HomePage() {
         hint: `${c.name} · in Edmonton`,
       })),
     ),
-    ...getBusinesses().map((b) => ({
-      kind: "business" as const,
-      name: b.name,
-      href: `/${b.category}/${b.slug}`,
-      hint: `${catBySlug[b.category] ?? b.category} · ${b.neighborhood}`,
-    })),
     ...SITE.neighborhoods.map((n) => ({
       kind: "neighborhood" as const,
       name: n,
