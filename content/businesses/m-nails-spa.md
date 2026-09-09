@@ -10,16 +10,16 @@ neighborhood: "West Edmonton"
 phone: "(780) 756-8818"
 google_maps_url: "https://maps.google.com/?cid=17756147177967810644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 9:00 PM"
-  tuesday: "10:00 AM - 9:00 PM"
-  wednesday: "10:00 AM - 9:00 PM"
-  thursday: "10:00 AM - 9:00 PM"
-  friday: "10:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 9:00 PM"
-  sunday: "11:00 AM - 6:00 PM"
+  monday: "10:00 AM–9:00 PM"
+  tuesday: "10:00 AM–9:00 PM"
+  wednesday: "10:00 AM–9:00 PM"
+  thursday: "10:00 AM–9:00 PM"
+  friday: "10:00 AM–9:00 PM"
+  saturday: "10:00 AM–9:00 PM"
+  sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/m-nails-spa-1.jpg", "/photos/m-nails-spa-2.jpg", "/photos/m-nails-spa-3.jpg"]
 rating: 4.2
-review_count: 589
+review_count: 594
 price_range: "$$"
 amenities:
 
@@ -35,7 +35,7 @@ reviews:
     rating: 5
     comment: |
       One of the best French manicures I have got from thu today. I want my manicures from her now on. I get regular pedicures and manicures here and all the girls are just amazing.
-  - name: "Zee .101"
+  - name: "Zahira .H"
     rating: 5
     comment: |
       Prettiest nails I’ve ever had done! Only $85

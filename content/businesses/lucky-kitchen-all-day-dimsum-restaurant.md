@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 435-0757"
 google_maps_url: "https://maps.google.com/?cid=12019750853297481050&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 9:00 PM"
-  tuesday: "11:00 AM - 9:00 PM"
+  monday: "11:00 AM–9:00 PM"
+  tuesday: "11:00 AM–9:00 PM"
   wednesday: "Closed"
-  thursday: "11:00 AM - 9:00 PM"
-  friday: "11:00 AM - 9:30 PM"
-  saturday: "10:30 AM - 9:30 PM"
-  sunday: "10:30 AM - 9:00 PM"
+  thursday: "11:00 AM–9:00 PM"
+  friday: "11:00 AM–9:30 PM"
+  saturday: "10:30 AM–9:30 PM"
+  sunday: "10:30 AM–9:00 PM"
 photos: ["/photos/lucky-kitchen-all-day-dimsum-restaurant-1.jpg", "/photos/lucky-kitchen-all-day-dimsum-restaurant-2.jpg", "/photos/lucky-kitchen-all-day-dimsum-restaurant-3.jpg"]
-rating: 4.4
-review_count: 314
+rating: 4.3
+review_count: 318
 price_range: "$$"
 amenities:
   - "Dine-In"

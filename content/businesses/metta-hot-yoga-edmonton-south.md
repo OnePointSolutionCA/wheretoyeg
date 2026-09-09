@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/metta-hot-yoga-edmonton-south-1.jpg", "/photos/metta-hot-yoga-edmonton-south-2.jpg", "/photos/metta-hot-yoga-edmonton-south-3.jpg"]
 rating: 4.5
-review_count: 124
+review_count: 125
 price_range: "$$"
 amenities:
 

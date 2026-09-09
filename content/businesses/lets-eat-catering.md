@@ -11,16 +11,16 @@ phone: "(780) 915-7366"
 website: "https://www.letseatcatering.ca/"
 google_maps_url: "https://maps.google.com/?cid=17823051360950212530&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "9:00 AM - 5:00 PM"
-  sunday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
+  saturday: "9:00 AM–5:00 PM"
+  sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/lets-eat-catering-1.jpg", "/photos/lets-eat-catering-2.jpg", "/photos/lets-eat-catering-3.jpg"]
 rating: 5
-review_count: 34
+review_count: 36
 price_range: "$$"
 amenities:
 

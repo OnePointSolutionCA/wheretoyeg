@@ -11,12 +11,12 @@ phone: "(780) 425-8096"
 website: "http://www.mikadorestaurant.com/"
 google_maps_url: "https://maps.google.com/?cid=5883278477197413388&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:30 AM - 9:00 PM"
-  tuesday: "11:30 AM - 9:00 PM"
-  wednesday: "11:30 AM - 9:00 PM"
-  thursday: "11:30 AM - 9:00 PM"
-  friday: "11:30 AM - 9:00 PM"
-  saturday: "12:00 - 9:00 PM"
+  monday: "11:30 AM–9:00 PM"
+  tuesday: "11:30 AM–9:00 PM"
+  wednesday: "11:30 AM–9:00 PM"
+  thursday: "11:30 AM–9:00 PM"
+  friday: "11:30 AM–9:00 PM"
+  saturday: "12:00 PM–9:00 PM"
   sunday: "Closed"
 photos: ["/photos/mikado-downtown-1.jpg", "/photos/mikado-downtown-2.jpg", "/photos/mikado-downtown-3.jpg"]
 rating: 4.4

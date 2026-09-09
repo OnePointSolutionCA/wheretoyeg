@@ -11,13 +11,13 @@ phone: "(780) 442-5311"
 website: "https://www.edmonton.ca/activities_parks_recreation/jasper-place"
 google_maps_url: "https://maps.google.com/?cid=67230126677086711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "6:00 AM - 9:45 PM"
-  tuesday: "6:00 AM - 9:45 PM"
-  wednesday: "6:00 AM - 9:45 PM"
-  thursday: "6:00 AM - 9:45 PM"
-  friday: "6:00 AM - 9:45 PM"
-  saturday: "7:00 AM - 8:45 PM"
-  sunday: "7:00 AM - 6:45 PM"
+  monday: "6:00 AM–9:45 PM"
+  tuesday: "6:00 AM–9:45 PM"
+  wednesday: "6:00 AM–9:45 PM"
+  thursday: "6:00 AM–9:45 PM"
+  friday: "6:00 AM–9:45 PM"
+  saturday: "7:00 AM–8:45 PM"
+  sunday: "7:00 AM–6:45 PM"
 photos: ["/photos/jasper-place-leisure-centre-1.jpg", "/photos/jasper-place-leisure-centre-2.jpg", "/photos/jasper-place-leisure-centre-3.jpg"]
 rating: 4.1
 review_count: 302

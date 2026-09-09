@@ -11,16 +11,16 @@ phone: "(780) 466-5638"
 website: "http://www.loftthaieatery.com/"
 google_maps_url: "https://maps.google.com/?cid=10103163340626543334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:30 AM - 8:30 PM"
-  tuesday: "11:30 AM - 8:30 PM"
-  wednesday: "11:30 AM - 8:30 PM"
-  thursday: "11:30 AM - 8:30 PM"
-  friday: "11:30 AM - 8:30 PM"
-  saturday: "11:30 AM - 8:30 PM"
+  monday: "11:30 AM–8:30 PM"
+  tuesday: "11:30 AM–8:30 PM"
+  wednesday: "11:30 AM–8:30 PM"
+  thursday: "11:30 AM–8:30 PM"
+  friday: "11:30 AM–8:30 PM"
+  saturday: "11:30 AM–8:30 PM"
   sunday: "Closed"
 photos: ["/photos/loft-thai-eatery-1.jpg", "/photos/loft-thai-eatery-2.jpg", "/photos/loft-thai-eatery-3.jpg"]
 rating: 4.4
-review_count: 467
+review_count: 466
 price_range: "$$"
 amenities:
   - "Dine-In"

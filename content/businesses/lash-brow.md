@@ -11,11 +11,11 @@ phone: "(825) 925-8800"
 google_maps_url: "https://maps.google.com/?cid=6710019187095298328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "10:00 AM - 6:00 PM"
-  wednesday: "10:00 AM - 6:00 PM"
-  thursday: "10:00 AM - 6:00 PM"
-  friday: "10:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 3:00 PM"
+  tuesday: "10:00 AM–6:00 PM"
+  wednesday: "10:00 AM–6:00 PM"
+  thursday: "10:00 AM–6:00 PM"
+  friday: "10:00 AM–6:00 PM"
+  saturday: "10:00 AM–3:00 PM"
   sunday: "Closed"
 photos: ["/photos/lash-brow-1.jpg", "/photos/lash-brow-2.jpg", "/photos/lash-brow-3.jpg"]
 rating: 5

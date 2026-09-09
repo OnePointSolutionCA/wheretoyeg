@@ -11,16 +11,16 @@ phone: "(780) 444-4978"
 website: "https://lovelynailsedmonton.com/"
 google_maps_url: "https://maps.google.com/?cid=1758559660903549718&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 8:00 PM"
-  tuesday: "10:00 AM - 8:00 PM"
-  wednesday: "10:00 AM - 8:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 8:00 PM"
-  saturday: "10:00 AM - 6:00 PM"
-  sunday: "11:00 AM - 5:00 PM"
+  monday: "10:00 AM–8:00 PM"
+  tuesday: "10:00 AM–8:00 PM"
+  wednesday: "10:00 AM–9:00 PM"
+  thursday: "10:00 AM–9:00 PM"
+  friday: "10:00 AM–9:00 PM"
+  saturday: "10:00 AM–6:00 PM"
+  sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/lovely-nails-1.jpg", "/photos/lovely-nails-2.jpg", "/photos/lovely-nails-3.jpg"]
 rating: 4.8
-review_count: 919
+review_count: 937
 price_range: "$$$"
 amenities:
 

@@ -11,16 +11,16 @@ phone: "(780) 488-3761"
 website: "https://larres-barber-shop.square.site/"
 google_maps_url: "https://maps.google.com/?cid=5133966136522638357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 6:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "9:00 AM - 6:00 PM"
-  sunday: "10:00 AM - 5:00 PM"
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–6:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "9:00 AM–6:00 PM"
+  friday: "9:00 AM–6:00 PM"
+  saturday: "9:00 AM–6:00 PM"
+  sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/larres-barber-shop-1.jpg", "/photos/larres-barber-shop-2.jpg", "/photos/larres-barber-shop-3.jpg"]
 rating: 4.9
-review_count: 622
+review_count: 620
 price_range: "$$"
 amenities:
 

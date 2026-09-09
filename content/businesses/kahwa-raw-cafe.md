@@ -9,16 +9,16 @@ neighborhood: "North Edmonton"
 google_maps_url: "https://maps.google.com/?q=Kahwa+Raw+Cafe+Edmonton"
 instagram: "https://www.instagram.com/kahwa.raw.cafe/"
 hours:
-  monday: "5:00 PM - 12:00 AM"
-  tuesday: "5:00 PM - 12:00 AM"
-  wednesday: "5:00 PM - 12:00 AM"
-  thursday: "5:00 PM - 12:00 AM"
-  friday: "5:00 PM - 12:00 AM"
-  saturday: "5:00 PM - 12:00 AM"
-  sunday: "5:00 PM - 12:00 AM"
+  monday: "8:00 AM–12:00 AM"
+  tuesday: "8:00 AM–12:00 AM"
+  wednesday: "8:00 AM–12:00 AM"
+  thursday: "8:00 AM–12:30 AM"
+  friday: "8:00 AM–1:00 AM"
+  saturday: "8:00 AM–1:00 AM"
+  sunday: "8:00 AM–12:00 AM"
 photos: ["/photos/kahwa-raw-cafe-1.jpg", "/photos/kahwa-raw-cafe-2.jpg", "/photos/kahwa-raw-cafe-3.jpg"]
 rating: 4.7
-review_count: 95
+review_count: 511
 price_range: "$$"
 amenities:
   - "Halal"

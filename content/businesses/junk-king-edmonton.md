@@ -11,16 +11,16 @@ phone: "(587) 742-8234"
 website: "https://www.junk-king.ca/locations/edmonton?cid=LSTL_JKG-US000187&utm_source=gmb&utm_campaign=local&utm_medium=organic"
 google_maps_url: "https://maps.google.com/?cid=779618808246056218&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "5:00 AM - 10:00 PM"
-  tuesday: "5:00 AM - 10:00 PM"
-  wednesday: "5:00 AM - 10:00 PM"
-  thursday: "5:00 AM - 10:00 PM"
-  friday: "5:00 AM - 10:00 PM"
-  saturday: "5:00 AM - 10:00 PM"
-  sunday: "5:00 AM - 10:00 PM"
+  monday: "5:00 AM–10:00 PM"
+  tuesday: "5:00 AM–10:00 PM"
+  wednesday: "5:00 AM–10:00 PM"
+  thursday: "5:00 AM–10:00 PM"
+  friday: "5:00 AM–10:00 PM"
+  saturday: "5:00 AM–10:00 PM"
+  sunday: "5:00 AM–10:00 PM"
 photos: ["/photos/junk-king-edmonton-1.jpg", "/photos/junk-king-edmonton-2.jpg", "/photos/junk-king-edmonton-3.jpg"]
 rating: 5
-review_count: 138
+review_count: 143
 price_range: "$$"
 amenities:
 

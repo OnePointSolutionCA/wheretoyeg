@@ -11,16 +11,16 @@ phone: "(780) 481-3838"
 website: "http://jumbodimsum.ca/"
 google_maps_url: "https://maps.google.com/?cid=17948886219291627766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 8:30 PM"
+  monday: "11:00 AM–8:30 PM"
   tuesday: "Closed"
-  wednesday: "11:00 AM - 8:30 PM"
-  thursday: "11:00 AM - 8:30 PM"
-  friday: "11:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 9:00 PM"
-  sunday: "10:00 AM - 9:00 PM"
+  wednesday: "11:00 AM–8:30 PM"
+  thursday: "11:00 AM–8:30 PM"
+  friday: "11:00 AM–9:00 PM"
+  saturday: "10:00 AM–9:00 PM"
+  sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/jumbo-dim-sum-1.jpg", "/photos/jumbo-dim-sum-2.jpg", "/photos/jumbo-dim-sum-3.jpg"]
 rating: 4.3
-review_count: 1856
+review_count: 1864
 price_range: "$$"
 amenities:
   - "Dine-In"

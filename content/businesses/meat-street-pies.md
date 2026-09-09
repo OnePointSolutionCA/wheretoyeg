@@ -9,16 +9,16 @@ address: "10102 79 Ave NW"
 neighborhood: "Old Strathcona"
 google_maps_url: "https://maps.google.com/?q=Meat%20Street%20Pies%20Edmonton"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
-  sunday: "10:00 AM - 5:00 PM"
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "8:00 AM–3:00 PM"
+  sunday: "11:00 AM–3:00 PM"
 photos: ["/photos/meat-street-pies-1.jpg", "/photos/meat-street-pies-2.jpg", "/photos/meat-street-pies-3.jpg"]
-rating: 4.7
-review_count: 560
+rating: 4.5
+review_count: 57
 price_range: "$$"
 amenities:
   - "Takeout"

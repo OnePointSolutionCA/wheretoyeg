@@ -11,13 +11,13 @@ phone: "(780) 932-1536"
 website: "https://www.maxhvac.ca/"
 google_maps_url: "https://maps.google.com/?cid=16207866707509538925&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "Open 24 hours"
-  tuesday: "Open 24 hours"
-  wednesday: "Open 24 hours"
-  thursday: "Open 24 hours"
-  friday: "Open 24 hours"
-  saturday: "Open 24 hours"
-  sunday: "Open 24 hours"
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/max-heating-and-air-conditioning-1.jpg", "/photos/max-heating-and-air-conditioning-2.jpg", "/photos/max-heating-and-air-conditioning-3.jpg"]
 rating: 4.8
 review_count: 332

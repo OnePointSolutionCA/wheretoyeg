@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "South Edmonton"
 google_maps_url: "https://maps.google.com/?q=Kal%20Tire%20South%20Edmonton%20Edmonton"
 hours:
-  monday: "9:00 AM - 8:00 PM"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 8:00 PM"
-  sunday: "10:00 AM - 6:00 PM"
+  monday: "7:30 AM–6:00 PM"
+  tuesday: "7:30 AM–6:00 PM"
+  wednesday: "7:30 AM–6:00 PM"
+  thursday: "7:30 AM–6:00 PM"
+  friday: "7:30 AM–6:00 PM"
+  saturday: "8:00 AM–5:00 PM"
+  sunday: "Closed"
 photos: ["/photos/kal-tire-south-edmonton-1.jpg", "/photos/kal-tire-south-edmonton-2.jpg", "/photos/kal-tire-south-edmonton-3.jpg"]
-rating: 4.5
-review_count: 320
+rating: 4.2
+review_count: 410
 price_range: "$$"
 amenities:
   - "Free Estimates"

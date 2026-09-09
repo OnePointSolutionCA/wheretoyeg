@@ -11,16 +11,16 @@ phone: "(780) 431-0972"
 website: "http://www.mercerscatering.com/"
 google_maps_url: "https://maps.google.com/?cid=17268285730525185216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/mercers-catering-1.jpg", "/photos/mercers-catering-2.jpg", "/photos/mercers-catering-3.jpg"]
-rating: 4.6
-review_count: 89
+rating: 4.5
+review_count: 88
 price_range: "$$"
 amenities:
   - "Dine-In"

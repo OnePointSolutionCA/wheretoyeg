@@ -11,16 +11,16 @@ phone: "(780) 334-1717"
 website: "http://japonais.ca/"
 google_maps_url: "https://maps.google.com/?cid=13728574491065981395&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:30 AM - 10:00 PM"
-  tuesday: "11:30 AM - 10:00 PM"
-  wednesday: "11:30 AM - 10:00 PM"
-  thursday: "11:30 AM - 10:00 PM"
-  friday: "11:30 AM - 11:00 PM"
-  saturday: "11:30 AM - 11:00 PM"
-  sunday: "11:30 AM - 10:00 PM"
+  monday: "11:30 AM–10:00 PM"
+  tuesday: "11:30 AM–10:00 PM"
+  wednesday: "11:30 AM–10:00 PM"
+  thursday: "11:30 AM–10:00 PM"
+  friday: "11:30 AM–11:00 PM"
+  saturday: "11:30 AM–11:00 PM"
+  sunday: "11:30 AM–10:00 PM"
 photos: ["/photos/japonais-windermere-1.jpg", "/photos/japonais-windermere-2.jpg", "/photos/japonais-windermere-3.jpg"]
 rating: 4.5
-review_count: 962
+review_count: 966
 price_range: "$$"
 amenities:
   - "Dine-In"

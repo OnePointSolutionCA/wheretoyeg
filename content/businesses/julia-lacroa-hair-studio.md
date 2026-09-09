@@ -15,17 +15,30 @@ photos:
 reviews:
   - name: "Raynna Matheson"
     rating: 5
-    comment: "I have been seeing Julia to get my hair done for a couple of years now, she is absolutely incredible, my hair has never been so long and so healthy! She takes her time, and makes your hair goals and visions come to life! I have recommended her to friends who have also gone to see her and been so happy with their hair! if you're looking for a stylist who listens, cares and creates beautiful hair, Julia is 10000% your girl!"
+    comment: |
+      I have been seeing Julia to get my hair done for a couple of years now, she is absolutely incredible, my hair has never been so long and so healthy! She takes her time, and makes your hair goals and visions come to life! I have recommended her to friends who have also gone to see her and been so happy with their hair! if you're looking for a stylist who listens, cares and creates beautiful hair, Julia is 10000% your girl!
   - name: "Alanna Patterson"
     rating: 5
-    comment: "Julia has been doing my hair since 2021 and I can’t say enough good things about her! She’s amazing at what she does, always listens to what I want, and my hair turns out perfect every time. She’s so easy to talk to, has the best energy, and every appointment is just good vibes all around. I always leave feeling confident and happy. Highly recommend Julia to anyone looking for a stylist who truly cares about her clients! 💛"
+    comment: |
+      Julia has been doing my hair since 2021 and I can’t say enough good things about her! She’s amazing at what she does, always listens to what I want, and my hair turns out perfect every time. She’s so easy to talk to, has the best energy, and every appointment is just good vibes all around. I always leave feeling confident and happy. Highly recommend Julia to anyone looking for a stylist who truly cares about her clients! 💛
   - name: "Emily Neely"
     rating: 5
-    comment: "Julia is an awesome stylist, if you're a blonde you'll be in good hands with her!"
+    comment: |
+      Julia is an awesome stylist, if you're a blonde you'll be in good hands with her!
   - name: "Ashley Pinchin"
     rating: 5
-    comment: "Julia has been doing my hair for about a year now and she never disappoints! She has an amazing vibe, listens to what I would like done and my hair always turns out amazing! Always have a great time while sitting in her chair chatting away."
+    comment: |
+      Julia has been doing my hair for about a year now and she never disappoints! She has an amazing vibe, listens to what I would like done and my hair always turns out amazing! Always have a great time while sitting in her chair chatting away.
   - name: "Sairyn Hewlett"
     rating: 5
-    comment: "I’ve had my hair done by Julia for as long as I can remember, since about 2018 and she has always done an outstanding job. She has done everything from platinum blonde all the way to a beautiful chocolate brown, making me feel so good about myself at each stage. She has always prioritized my hair health while ensuring I still leave feeling refreshed and beautiful. In addition to Julia being an incredible hair stylist she creates a relaxing experience for you to unwind in her chair paired with gr"
+    comment: |
+      I’ve had my hair done by Julia for as long as I can remember, since about 2018 and she has always done an outstanding job. She has done everything from platinum blonde all the way to a beautiful chocolate brown, making me feel so good about myself at each stage. She has always prioritized my hair health while ensuring I still leave feeling refreshed and beautiful. In addition to Julia being an incredible hair stylist she creates a relaxing experience for you to unwind in her chair paired with great conversation, it sounds like the best salon service any gal could ask for. I highly recommend Julia!
+hours:
+  monday: "9:00 AM–4:00 PM"
+  tuesday: "11:00 AM–7:00 PM"
+  wednesday: "11:00 AM–7:00 PM"
+  thursday: "9:00 AM–4:00 PM"
+  friday: "9:00 AM–4:00 PM"
+  saturday: "9:00 AM–4:00 PM"
+  sunday: "Closed"
 ---

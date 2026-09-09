@@ -12,16 +12,16 @@ phone: "(825) 401-8014"
 website: "https://kohsaargrill.ca"
 google_maps_url: "https://maps.google.com/?q=KohSaar+Grill+Edmonton"
 hours:
-  monday: "12:00 PM - 9:00 PM"
+  monday: "4:00 PM–11:00 PM"
   tuesday: "Closed"
-  wednesday: "12:00 PM - 9:00 PM"
-  thursday: "12:00 PM - 9:00 PM"
-  friday: "12:00 PM - 9:00 PM"
-  saturday: "12:00 PM - 9:00 PM"
-  sunday: "9:00 AM - 12:30 PM"
+  wednesday: "4:00 PM–11:00 PM"
+  thursday: "4:00 PM–11:00 PM"
+  friday: "4:00 PM–12:00 AM"
+  saturday: "10:30 AM–12:00 AM"
+  sunday: "10:30 AM–11:00 PM"
 photos: ["/photos/kohsaar-grill-1.jpg", "/photos/kohsaar-grill-2.jpg", "/photos/kohsaar-grill-3.jpg"]
-rating: 5.0
-review_count: 45
+rating: 4.5
+review_count: 734
 price_range: "$$$"
 amenities:
   - "Halal"

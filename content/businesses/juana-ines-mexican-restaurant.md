@@ -12,15 +12,15 @@ website: "https://juana-ines.ca/"
 google_maps_url: "https://maps.google.com/?cid=13529314454292825101&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "12:00 - 9:00 PM"
-  wednesday: "12:00 - 9:00 PM"
-  thursday: "12:00 - 9:00 PM"
-  friday: "12:00 - 10:00 PM"
-  saturday: "12:00 - 10:00 PM"
-  sunday: "12:00 - 8:00 PM"
+  tuesday: "12:00 PM–9:00 PM"
+  wednesday: "12:00 PM–9:00 PM"
+  thursday: "12:00 PM–9:00 PM"
+  friday: "12:00 PM–10:00 PM"
+  saturday: "12:00 PM–10:00 PM"
+  sunday: "12:00 PM–8:00 PM"
 photos: ["/photos/juana-ines-mexican-restaurant-1.jpg", "/photos/juana-ines-mexican-restaurant-2.jpg", "/photos/juana-ines-mexican-restaurant-3.jpg"]
 rating: 4.5
-review_count: 228
+review_count: 229
 price_range: "$$"
 amenities:
   - "Dine-In"

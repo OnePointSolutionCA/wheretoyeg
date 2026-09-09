@@ -11,16 +11,16 @@ phone: "(587) 600-0612"
 website: "https://www.landscapingedmontonab.com/"
 google_maps_url: "https://maps.google.com/?cid=14492648594844494321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 7:00 PM"
-  tuesday: "7:00 AM - 7:00 PM"
-  wednesday: "7:00 AM - 7:00 PM"
-  thursday: "7:00 AM - 7:00 PM"
-  friday: "7:00 AM - 7:00 PM"
-  saturday: "7:00 AM - 7:00 PM"
-  sunday: "7:00 AM - 7:00 PM"
+  monday: "7:00 AM–7:00 PM"
+  tuesday: "7:00 AM–7:00 PM"
+  wednesday: "7:00 AM–7:00 PM"
+  thursday: "7:00 AM–7:00 PM"
+  friday: "7:00 AM–7:00 PM"
+  saturday: "7:00 AM–7:00 PM"
+  sunday: "7:00 AM–7:00 PM"
 photos: ["/photos/landscaping-charm-experts-edmonton-1.jpg", "/photos/landscaping-charm-experts-edmonton-2.jpg", "/photos/landscaping-charm-experts-edmonton-3.jpg"]
 rating: 4.8
-review_count: 64
+review_count: 65
 price_range: "$$"
 amenities:
 

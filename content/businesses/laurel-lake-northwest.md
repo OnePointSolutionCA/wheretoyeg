@@ -10,13 +10,13 @@ neighborhood: "Edmonton"
 website: "https://www.edmonton.ca/"
 google_maps_url: "https://maps.google.com/?cid=16072151104091718236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "Open 24 hours"
-  tuesday: "Open 24 hours"
-  wednesday: "Open 24 hours"
-  thursday: "Open 24 hours"
-  friday: "Open 24 hours"
-  saturday: "Open 24 hours"
-  sunday: "Open 24 hours"
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/laurel-lake-northwest-1.jpg", "/photos/laurel-lake-northwest-2.jpg", "/photos/laurel-lake-northwest-3.jpg"]
 rating: 4.4
 review_count: 58

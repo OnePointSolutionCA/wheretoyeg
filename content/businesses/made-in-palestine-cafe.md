@@ -11,16 +11,16 @@ google_maps_url: "https://maps.google.com/?q=Made+in+Palestine+Culture+Cafe+Edmo
 instagram: "https://www.instagram.com/madeinpalestine.ca/"
 facebook: "https://www.facebook.com/bessanhome/"
 hours:
-  monday: "Closed"
-  tuesday: "1:00 PM - 7:00 PM"
-  wednesday: "1:00 PM - 7:00 PM"
-  thursday: "1:00 PM - 7:00 PM"
-  friday: "11:00 AM - 7:00 PM"
-  saturday: "11:00 AM - 7:00 PM"
-  sunday: "11:00 AM - 7:00 PM"
+  monday: "9:00 AM–10:00 PM"
+  tuesday: "9:00 AM–10:00 PM"
+  wednesday: "9:00 AM–10:00 PM"
+  thursday: "9:00 AM–10:00 PM"
+  friday: "9:00 AM–10:00 PM"
+  saturday: "9:00 AM–10:00 PM"
+  sunday: "9:00 AM–10:00 PM"
 photos: ["/photos/made-in-palestine-cafe-1.jpg", "/photos/made-in-palestine-cafe-2.jpg", "/photos/made-in-palestine-cafe-3.jpg"]
-rating: 4.9
-review_count: 65
+rating: 4.8
+review_count: 209
 price_range: "$$"
 amenities:
   - "Halal"

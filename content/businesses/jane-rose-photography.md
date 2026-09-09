@@ -11,16 +11,16 @@ phone: "(587) 988-2293"
 website: "http://www.janerosephotography.ca/"
 google_maps_url: "https://maps.google.com/?cid=13231648027521152048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 6:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
-  sunday: "10:00 AM - 5:00 PM"
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–6:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "9:00 AM–6:00 PM"
+  friday: "9:00 AM–6:00 PM"
+  saturday: "10:00 AM–5:00 PM"
+  sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/jane-rose-photography-1.jpg", "/photos/jane-rose-photography-2.jpg", "/photos/jane-rose-photography-3.jpg"]
 rating: 5
-review_count: 84
+review_count: 85
 price_range: "$$"
 amenities:
 

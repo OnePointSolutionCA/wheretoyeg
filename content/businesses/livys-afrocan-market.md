@@ -10,13 +10,13 @@ neighborhood: "Edmonton"
 phone: "(780) 940-7596"
 google_maps_url: "https://maps.google.com/?cid=18201607291056555523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 8:00 PM"
-  tuesday: "10:00 AM - 8:00 PM"
-  wednesday: "10:00 AM - 8:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 8:00 PM"
-  saturday: "10:00 AM - 8:00 PM"
-  sunday: "12:00 - 5:30 PM"
+  monday: "10:00 AM–8:00 PM"
+  tuesday: "10:00 AM–8:00 PM"
+  wednesday: "10:00 AM–8:00 PM"
+  thursday: "10:00 AM–8:00 PM"
+  friday: "10:00 AM–8:00 PM"
+  saturday: "10:00 AM–8:00 PM"
+  sunday: "12:00 PM–5:30 PM"
 photos: ["/photos/livys-afrocan-market-1.jpg"]
 rating: 4.2
 review_count: 6

@@ -11,16 +11,16 @@ phone: "(825) 203-6206"
 website: "http://www.keralarestaurantyeg.ca/"
 google_maps_url: "https://maps.google.com/?cid=16268348566525899378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:30 AM - 9:00 PM"
-  tuesday: "11:30 AM - 9:00 PM"
+  monday: "11:30 AM–9:00 PM"
+  tuesday: "11:30 AM–9:00 PM"
   wednesday: "Closed"
-  thursday: "11:30 AM - 9:00 PM"
-  friday: "11:30 AM - 10:00 PM"
-  saturday: "11:30 AM - 10:00 PM"
-  sunday: "11:30 AM - 9:00 PM"
+  thursday: "11:30 AM–9:00 PM"
+  friday: "11:30 AM–10:00 PM"
+  saturday: "Closed"
+  sunday: "11:30 AM–9:00 PM"
 photos: ["/photos/kerala-restaurant-authentic-south-indian-indo-chinese-cuisin-1.jpg", "/photos/kerala-restaurant-authentic-south-indian-indo-chinese-cuisin-2.jpg", "/photos/kerala-restaurant-authentic-south-indian-indo-chinese-cuisin-3.jpg"]
 rating: 4.8
-review_count: 83
+review_count: 86
 price_range: "$$"
 amenities:
   - "Halal"

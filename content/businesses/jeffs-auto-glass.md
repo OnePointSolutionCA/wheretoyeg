@@ -11,16 +11,16 @@ phone: "(780) 451-5727"
 website: "https://jeffsautoglass.ca/?utm_source=GMB&utm_medium=organic"
 google_maps_url: "https://maps.google.com/?cid=9380654217300896909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:30 AM - 5:00 PM"
-  tuesday: "8:30 AM - 5:00 PM"
-  wednesday: "8:30 AM - 5:00 PM"
-  thursday: "8:30 AM - 5:00 PM"
-  friday: "8:30 AM - 5:00 PM"
+  monday: "8:30 AM–5:00 PM"
+  tuesday: "8:30 AM–5:00 PM"
+  wednesday: "8:30 AM–5:00 PM"
+  thursday: "8:30 AM–5:00 PM"
+  friday: "8:30 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/jeffs-auto-glass-1.jpg", "/photos/jeffs-auto-glass-2.jpg", "/photos/jeffs-auto-glass-3.jpg"]
 rating: 4.8
-review_count: 468
+review_count: 471
 price_range: "$$"
 amenities:
 

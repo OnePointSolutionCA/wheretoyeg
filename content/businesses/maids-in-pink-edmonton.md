@@ -11,13 +11,13 @@ phone: "(587) 200-7728"
 website: "https://maidsinpink.ca/cleaning-services-edmonton-ab/?utm_source=google&utm_medium=organic&utm_campaign=gbp_edmonton"
 google_maps_url: "https://maps.google.com/?cid=9914123902838105484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 8:00 PM"
-  tuesday: "7:00 AM - 8:00 PM"
-  wednesday: "7:00 AM - 8:00 PM"
-  thursday: "7:00 AM - 8:00 PM"
-  friday: "7:00 AM - 8:00 PM"
-  saturday: "8:00 AM - 8:00 PM"
-  sunday: "8:00 AM - 8:00 PM"
+  monday: "7:00 AM–8:00 PM"
+  tuesday: "7:00 AM–8:00 PM"
+  wednesday: "7:00 AM–8:00 PM"
+  thursday: "7:00 AM–8:00 PM"
+  friday: "7:00 AM–8:00 PM"
+  saturday: "8:00 AM–8:00 PM"
+  sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/maids-in-pink-edmonton-1.jpg", "/photos/maids-in-pink-edmonton-2.jpg", "/photos/maids-in-pink-edmonton-3.jpg"]
 rating: 4.8
 review_count: 48

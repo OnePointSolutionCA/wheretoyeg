@@ -11,13 +11,13 @@ phone: "(780) 424-8011"
 website: "http://www.luckysupermarket.ca/"
 google_maps_url: "https://maps.google.com/?cid=11330113124109896334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 9:00 PM"
-  tuesday: "9:00 AM - 9:00 PM"
-  wednesday: "9:00 AM - 9:00 PM"
-  thursday: "9:00 AM - 9:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "9:00 AM - 9:00 PM"
-  sunday: "9:00 AM - 9:00 PM"
+  monday: "9:00 AM–9:00 PM"
+  tuesday: "9:00 AM–9:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
+  saturday: "9:00 AM–9:00 PM"
+  sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/lucky-supermarket-3-1.jpg", "/photos/lucky-supermarket-3-2.jpg", "/photos/lucky-supermarket-3-3.jpg"]
 rating: 4.1
 review_count: 3082

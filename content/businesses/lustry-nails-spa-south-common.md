@@ -11,16 +11,16 @@ phone: "(825) 888-1586"
 website: "http://lustrynail.com/"
 google_maps_url: "https://maps.google.com/?cid=8236259271801520837&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 10:00 PM"
-  tuesday: "10:00 AM - 10:00 PM"
-  wednesday: "10:00 AM - 10:00 PM"
-  thursday: "10:00 AM - 10:00 PM"
-  friday: "10:00 AM - 10:00 PM"
-  saturday: "10:00 AM - 9:00 PM"
-  sunday: "10:00 AM - 7:00 PM"
+  monday: "10:00 AM–10:00 PM"
+  tuesday: "10:00 AM–10:00 PM"
+  wednesday: "10:00 AM–10:00 PM"
+  thursday: "10:00 AM–10:00 PM"
+  friday: "10:00 AM–10:00 PM"
+  saturday: "10:00 AM–9:00 PM"
+  sunday: "10:00 AM–7:00 PM"
 photos: ["/photos/lustry-nails-spa-south-common-1.jpg", "/photos/lustry-nails-spa-south-common-2.jpg", "/photos/lustry-nails-spa-south-common-3.jpg"]
 rating: 4.7
-review_count: 378
+review_count: 385
 price_range: "$$"
 amenities:
 

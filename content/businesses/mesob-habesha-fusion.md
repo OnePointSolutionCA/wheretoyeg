@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 250-0999"
 google_maps_url: "https://maps.google.com/?cid=244220409663843251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 11:00 PM"
-  tuesday: "11:00 AM - 11:00 PM"
-  wednesday: "11:00 AM - 11:00 PM"
-  thursday: "11:00 AM - 11:00 PM"
-  friday: "11:00 AM - 11:00 PM"
-  saturday: "11:00 AM - 11:00 PM"
-  sunday: "11:00 AM - 11:00 PM"
+  monday: "11:00 AM–11:00 PM"
+  tuesday: "11:00 AM–11:00 PM"
+  wednesday: "11:00 AM–11:00 PM"
+  thursday: "11:00 AM–11:00 PM"
+  friday: "11:00 AM–11:00 PM"
+  saturday: "11:00 AM–11:00 PM"
+  sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/mesob-habesha-fusion-1.jpg", "/photos/mesob-habesha-fusion-2.jpg", "/photos/mesob-habesha-fusion-3.jpg"]
 rating: 4.1
-review_count: 318
+review_count: 322
 price_range: "$$"
 amenities:
   - "Dine-In"

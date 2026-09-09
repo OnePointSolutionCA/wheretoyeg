@@ -10,16 +10,16 @@ neighborhood: "Oliver"
 phone: "(780) 452-1333"
 google_maps_url: "https://maps.google.com/?q=La+Shish+Shawarma+Edmonton"
 hours:
-  monday: "11:00 AM - 12:00 AM"
-  tuesday: "11:00 AM - 12:00 AM"
-  wednesday: "11:00 AM - 12:00 AM"
-  thursday: "11:00 AM - 3:00 AM"
-  friday: "11:00 AM - 3:00 AM"
-  saturday: "11:00 AM - 3:00 AM"
-  sunday: "12:00 PM - 12:00 AM"
+  monday: "11:00 AM–1:00 AM"
+  tuesday: "11:00 AM–1:00 AM"
+  wednesday: "11:00 AM–1:00 AM"
+  thursday: "11:00 AM–3:00 AM"
+  friday: "11:00 AM–3:00 AM"
+  saturday: "11:00 AM–3:00 AM"
+  sunday: "11:00 AM–1:00 AM"
 photos: ["/photos/la-shish-shawarma-1.jpg", "/photos/la-shish-shawarma-2.jpg", "/photos/la-shish-shawarma-3.jpg"]
 rating: 4.2
-review_count: 1500
+review_count: 1381
 price_range: "$"
 amenities:
   - "Halal"

@@ -11,16 +11,16 @@ phone: "(780) 486-8655"
 website: "http://www.livrealestate.ca/"
 google_maps_url: "https://maps.google.com/?cid=11543237971382908078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/liv-real-estate-1.jpg", "/photos/liv-real-estate-2.jpg", "/photos/liv-real-estate-3.jpg"]
 rating: 4.9
-review_count: 520
+review_count: 527
 price_range: "$$"
 amenities:
 

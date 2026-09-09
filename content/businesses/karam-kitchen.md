@@ -11,13 +11,13 @@ phone: "(780) 761-3463"
 website: "https://karamkitchen.ca/"
 google_maps_url: "https://maps.google.com/?cid=11845118939074100097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 8:00 PM"
-  tuesday: "10:00 AM - 8:00 PM"
-  wednesday: "10:00 AM - 8:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 8:00 PM"
-  saturday: "10:00 AM - 8:00 PM"
-  sunday: "10:00 AM - 8:00 PM"
+  monday: "2:00 PM–8:00 PM"
+  tuesday: "2:00 PM–8:00 PM"
+  wednesday: "2:00 PM–8:00 PM"
+  thursday: "2:00 PM–8:00 PM"
+  friday: "2:00 PM–8:00 PM"
+  saturday: "2:00 PM–8:00 PM"
+  sunday: "2:00 PM–8:00 PM"
 photos: ["/photos/karam-kitchen-1.jpg", "/photos/karam-kitchen-2.jpg", "/photos/karam-kitchen-3.jpg"]
 rating: 4.3
 review_count: 15

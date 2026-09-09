@@ -11,16 +11,16 @@ phone: "(780) 448-9243"
 website: "https://www.locksurgeon.com/edmonton/locksmith-door-repair-edmonton.php"
 google_maps_url: "https://maps.google.com/?cid=8803476958221535929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:30 AM - 9:30 PM"
-  tuesday: "7:30 AM - 9:30 PM"
-  wednesday: "7:30 AM - 9:30 PM"
-  thursday: "7:30 AM - 9:30 PM"
-  friday: "7:30 AM - 9:30 PM"
-  saturday: "7:30 AM - 7:00 PM"
-  sunday: "7:30 AM - 7:00 PM"
+  monday: "7:30 AM–9:30 PM"
+  tuesday: "7:30 AM–9:30 PM"
+  wednesday: "7:30 AM–9:30 PM"
+  thursday: "7:30 AM–9:30 PM"
+  friday: "7:30 AM–9:30 PM"
+  saturday: "7:30 AM–7:00 PM"
+  sunday: "7:30 AM–7:00 PM"
 photos: ["/photos/lock-surgeon-1.jpg", "/photos/lock-surgeon-2.jpg", "/photos/lock-surgeon-3.jpg"]
 rating: 4.2
-review_count: 1261
+review_count: 1268
 price_range: "$$"
 amenities:
 

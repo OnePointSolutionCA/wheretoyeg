@@ -15,17 +15,30 @@ photos:
 reviews:
   - name: "Christian Biglete"
     rating: 5
-    comment: "very Professional and did a very good job cleaning the carpet,  would definitely recommend him."
+    comment: |
+      very Professional and did a very good job cleaning the carpet,  would definitely recommend him.
   - name: "tonsi sadk"
     rating: 5
-    comment: "Khalid is professional Carpet cleaner I highly recommend him"
+    comment: |
+      Khalid is professional Carpet cleaner I highly recommend him
   - name: "KRISNA GURIAH"
     rating: 5
-    comment: "Khalid came through for us on very short notice and delivered excellent, affordable carpet cleaning. His service is a great value and highly recommended. 👏"
+    comment: |
+      Khalid came through for us on very short notice and delivered excellent, affordable carpet cleaning. His service is a great value and highly recommended. 👏
   - name: "Jordana"
     rating: 5
-    comment: "Khalid was very easy to book, arrived on time, was very nice and courteous, and did a great job on my carpets. Charged exactly what he quoted which was super reasonable. Would definitely book again!"
+    comment: |
+      Khalid was very easy to book, arrived on time, was very nice and courteous, and did a great job on my carpets. Charged exactly what he quoted which was super reasonable. Would definitely book again!
   - name: "Eddy Muha"
     rating: 5
-    comment: "Very good man , professionally cleaned my house , reasonably priced"
+    comment: |
+      Very good man , professionally cleaned my house , reasonably priced
+hours:
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 ---

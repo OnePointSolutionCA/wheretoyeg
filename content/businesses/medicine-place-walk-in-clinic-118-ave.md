@@ -12,16 +12,16 @@ phone: "780-784-3282"
 website: "https://medicineplace.ca"
 google_maps_url: "https://maps.google.com/?q=5809+118+Ave+NW+Edmonton"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "Closed"
-  sunday: "Closed"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
+  saturday: "10:00 AM–4:00 PM"
+  sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/medicine-place-walk-in-clinic-118-ave-1.jpg", "/photos/medicine-place-walk-in-clinic-118-ave-2.jpg", "/photos/medicine-place-walk-in-clinic-118-ave-3.jpg"]
 rating: 4.0
-review_count: 116
+review_count: 115
 price_range: "$"
 amenities:
   - "Walk-ins Welcome"

@@ -11,13 +11,13 @@ phone: "(587) 521-5933"
 website: "http://www.lubetechz.com/"
 google_maps_url: "https://maps.google.com/?cid=5434152564256424787&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 4:30 PM"
-  tuesday: "8:00 AM - 4:30 PM"
-  wednesday: "8:00 AM - 4:30 PM"
-  thursday: "8:00 AM - 4:30 PM"
-  friday: "8:00 AM - 4:30 PM"
-  saturday: "9:00 AM - 4:30 PM"
-  sunday: "10:00 AM - 4:30 PM"
+  monday: "8:00 AM–4:30 PM"
+  tuesday: "8:00 AM–4:30 PM"
+  wednesday: "8:00 AM–4:30 PM"
+  thursday: "8:00 AM–4:30 PM"
+  friday: "8:00 AM–4:30 PM"
+  saturday: "9:00 AM–4:30 PM"
+  sunday: "10:00 AM–4:30 PM"
 photos: ["/photos/lube-techz-edmonton-oil-change-tire-services-1.jpg", "/photos/lube-techz-edmonton-oil-change-tire-services-2.jpg", "/photos/lube-techz-edmonton-oil-change-tire-services-3.jpg"]
 rating: 4.3
 review_count: 225

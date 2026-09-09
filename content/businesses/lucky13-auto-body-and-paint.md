@@ -11,16 +11,16 @@ phone: "(780) 245-6896"
 website: "https://lucky13paintshop.com/"
 google_maps_url: "https://maps.google.com/?cid=11105477943118560125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/lucky13-auto-body-and-paint-1.jpg", "/photos/lucky13-auto-body-and-paint-2.jpg", "/photos/lucky13-auto-body-and-paint-3.jpg"]
 rating: 4.9
-review_count: 149
+review_count: 150
 price_range: "$$"
 amenities:
 

@@ -9,16 +9,16 @@ address: "10706 124 St NW"
 neighborhood: "124 Street"
 google_maps_url: "https://maps.google.com/?q=Meuwly's%20Artisan%20Food%20Market%20Edmonton"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
-  sunday: "Closed"
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "11:00 AM–4:00 PM"
+  sunday: "11:00 AM–3:00 PM"
 photos: ["/photos/meuwlys-artisan-1.jpg", "/photos/meuwlys-artisan-2.jpg", "/photos/meuwlys-artisan-3.jpg"]
-rating: 4.7
-review_count: 380
+rating: 4.8
+review_count: 310
 price_range: "$$$"
 amenities:
   - "Takeout"

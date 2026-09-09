@@ -11,16 +11,16 @@ phone: "(780) 471-1177"
 website: "http://kasoatropicalfood.com/"
 google_maps_url: "https://maps.google.com/?cid=4541242679169029176&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 8:00 PM"
-  tuesday: "10:00 AM - 8:00 PM"
-  wednesday: "10:00 AM - 8:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 8:00 PM"
-  saturday: "9:30 AM - 8:00 PM"
-  sunday: "12:00 - 6:00 PM"
+  monday: "10:00 AM–8:00 PM"
+  tuesday: "10:00 AM–8:00 PM"
+  wednesday: "10:00 AM–8:00 PM"
+  thursday: "10:00 AM–8:00 PM"
+  friday: "10:00 AM–8:00 PM"
+  saturday: "9:30 AM–8:00 PM"
+  sunday: "12:00 PM–6:00 PM"
 photos: ["/photos/kasoa-tropical-food-market-1.jpg", "/photos/kasoa-tropical-food-market-2.jpg", "/photos/kasoa-tropical-food-market-3.jpg"]
 rating: 4.2
-review_count: 523
+review_count: 524
 price_range: "$$"
 amenities:
 

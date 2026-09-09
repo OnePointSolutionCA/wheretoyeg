@@ -11,16 +11,16 @@ phone: "(780) 468-3161"
 website: "http://launchpadtrampoline.com/"
 google_maps_url: "https://maps.google.com/?cid=18350767869562644584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 9:30 PM"
-  tuesday: "12:00 - 9:30 PM"
-  wednesday: "12:00 - 9:30 PM"
-  thursday: "12:00 - 9:30 PM"
-  friday: "10:00 AM - 10:30 PM"
-  saturday: "10:00 AM - 10:30 PM"
-  sunday: "11:30 AM - 5:30 PM"
+  monday: "12:00 PM–9:30 PM"
+  tuesday: "12:00 PM–9:30 PM"
+  wednesday: "12:00 PM–9:30 PM"
+  thursday: "12:00 PM–9:30 PM"
+  friday: "10:00 AM–10:30 PM"
+  saturday: "10:00 AM–10:30 PM"
+  sunday: "11:30 AM–5:30 PM"
 photos: ["/photos/launchpad-trampoline-park-3-1.jpg", "/photos/launchpad-trampoline-park-3-2.jpg", "/photos/launchpad-trampoline-park-3-3.jpg"]
 rating: 4.5
-review_count: 2275
+review_count: 2276
 price_range: "$$"
 amenities:
 

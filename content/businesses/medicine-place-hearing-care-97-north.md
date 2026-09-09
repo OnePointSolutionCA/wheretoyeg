@@ -12,16 +12,16 @@ phone: "780-229-8492"
 website: "https://medicineplacehearing.ca"
 google_maps_url: "https://maps.google.com/?q=13514+97+St+NW+Edmonton"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "Closed"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
+  saturday: "9:00 AM–3:00 PM"
   sunday: "Closed"
 photos: ["/photos/medicine-place-hearing-care-97-north-1.jpg", "/photos/medicine-place-hearing-care-97-north-2.jpg", "/photos/medicine-place-hearing-care-97-north-3.jpg"]
 rating: 5.0
-review_count: 28
+review_count: 32
 price_range: "$$"
 amenities:
   - "Free Hearing Test"

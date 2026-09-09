@@ -10,13 +10,13 @@ neighborhood: "Edmonton"
 phone: "(780) 757-2223"
 google_maps_url: "https://maps.google.com/?cid=6558709053600057517&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 10:30 PM"
-  tuesday: "9:00 AM - 10:30 PM"
-  wednesday: "9:00 AM - 10:30 PM"
-  thursday: "9:00 AM - 10:30 PM"
-  friday: "9:00 AM - 10:30 PM"
-  saturday: "9:00 AM - 10:30 PM"
-  sunday: "9:00 AM - 10:30 PM"
+  monday: "9:00 AM–10:30 PM"
+  tuesday: "9:00 AM–10:30 PM"
+  wednesday: "9:00 AM–10:30 PM"
+  thursday: "9:00 AM–10:30 PM"
+  friday: "9:00 AM–10:30 PM"
+  saturday: "9:00 AM–10:30 PM"
+  sunday: "9:00 AM–10:30 PM"
 photos: ["/photos/mareeg-cafe-restaurant-1.jpg", "/photos/mareeg-cafe-restaurant-2.jpg", "/photos/mareeg-cafe-restaurant-3.jpg"]
 rating: 4.3
 review_count: 319

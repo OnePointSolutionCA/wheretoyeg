@@ -11,16 +11,16 @@ phone: "(780) 450-9100"
 website: "http://www.khankebabs.ca/"
 google_maps_url: "https://maps.google.com/?cid=4881614941362680264&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 9:30 PM"
-  tuesday: "11:00 AM - 9:30 PM"
-  wednesday: "11:00 AM - 9:30 PM"
-  thursday: "11:00 AM - 9:30 PM"
-  friday: "11:00 AM - 10:00 PM"
-  saturday: "11:00 AM - 10:00 PM"
-  sunday: "11:00 AM - 10:00 PM"
+  monday: "11:00 AM–9:30 PM"
+  tuesday: "11:00 AM–9:30 PM"
+  wednesday: "11:00 AM–9:30 PM"
+  thursday: "11:00 AM–9:30 PM"
+  friday: "11:00 AM–10:00 PM"
+  saturday: "11:00 AM–10:00 PM"
+  sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/khan-kebabs-karahi-halal---authentic-pakistani-afghani-cuisi-1.jpg", "/photos/khan-kebabs-karahi-halal---authentic-pakistani-afghani-cuisi-2.jpg", "/photos/khan-kebabs-karahi-halal---authentic-pakistani-afghani-cuisi-3.jpg"]
 rating: 4.6
-review_count: 2041
+review_count: 2064
 price_range: "$$"
 amenities:
   - "Halal"

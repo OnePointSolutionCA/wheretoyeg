@@ -11,16 +11,16 @@ phone: "(780) 680-8109"
 website: "https://www.instagram.com/lamorenita.canada?igsh=MW9vMWN6M3gyd2I1bg=="
 google_maps_url: "https://maps.google.com/?cid=5467132280642202253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 7:00 PM"
-  tuesday: "9:00 AM - 7:00 PM"
-  wednesday: "9:00 AM - 7:00 PM"
-  thursday: "9:00 AM - 9:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "9:00 AM - 9:00 PM"
-  sunday: "10:00 AM - 8:00 PM"
+  monday: "10:00 AM–7:00 PM"
+  tuesday: "9:00 AM–7:00 PM"
+  wednesday: "9:00 AM–7:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
+  saturday: "9:00 AM–9:00 PM"
+  sunday: "10:00 AM–8:00 PM"
 photos: ["/photos/la-morenita-1.jpg", "/photos/la-morenita-2.jpg", "/photos/la-morenita-3.jpg"]
 rating: 4.7
-review_count: 702
+review_count: 703
 price_range: "$"
 amenities:
   - "Dine-In"

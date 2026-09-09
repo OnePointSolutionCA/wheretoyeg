@@ -11,13 +11,13 @@ phone: "(780) 540-1715"
 website: "http://www.massawacafe.ca/"
 google_maps_url: "https://maps.google.com/?cid=12794868349637035478&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:30 AM - 11:00 PM"
-  tuesday: "9:30 AM - 11:00 PM"
-  wednesday: "9:30 AM - 11:00 PM"
-  thursday: "9:30 AM - 11:00 PM"
-  friday: "9:30 AM - 11:00 PM"
-  saturday: "9:30 AM - 11:00 PM"
-  sunday: "9:30 AM - 11:00 PM"
+  monday: "9:30 AM–11:00 PM"
+  tuesday: "9:30 AM–11:00 PM"
+  wednesday: "9:30 AM–11:00 PM"
+  thursday: "9:30 AM–11:00 PM"
+  friday: "9:30 AM–11:00 PM"
+  saturday: "9:30 AM–11:00 PM"
+  sunday: "9:30 AM–11:00 PM"
 photos: ["/photos/massawa-cafe-1.jpg", "/photos/massawa-cafe-2.jpg", "/photos/massawa-cafe-3.jpg"]
 rating: 4.5
 review_count: 85

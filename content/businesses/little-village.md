@@ -11,16 +11,16 @@ phone: "(780) 244-0885"
 website: "http://www.littlevillage.ca/"
 google_maps_url: "https://maps.google.com/?cid=11864777511100935011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 8:00 PM"
-  tuesday: "11:00 AM - 8:00 PM"
-  wednesday: "11:00 AM - 8:00 PM"
-  thursday: "11:00 AM - 8:00 PM"
-  friday: "11:00 AM - 8:00 PM"
-  saturday: "11:00 AM - 8:00 PM"
+  monday: "11:00 AM–8:00 PM"
+  tuesday: "11:00 AM–8:00 PM"
+  wednesday: "11:00 AM–8:00 PM"
+  thursday: "11:00 AM–8:00 PM"
+  friday: "11:00 AM–8:00 PM"
+  saturday: "11:00 AM–8:00 PM"
   sunday: "Closed"
 photos: ["/photos/little-village-1.jpg", "/photos/little-village-2.jpg", "/photos/little-village-3.jpg"]
 rating: 4.8
-review_count: 319
+review_count: 322
 price_range: "$$"
 amenities:
   - "Dine-In"

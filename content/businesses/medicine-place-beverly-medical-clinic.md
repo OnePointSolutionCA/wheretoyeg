@@ -12,16 +12,16 @@ phone: "825-401-3782"
 website: "https://medicineplace.ca"
 google_maps_url: "https://maps.google.com/?q=4243+118+Ave+NW+Edmonton"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "Closed"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
+  saturday: "10:00 AM–2:00 PM"
   sunday: "Closed"
 photos: ["/photos/medicine-place-beverly-medical-clinic-1.jpg", "/photos/medicine-place-beverly-medical-clinic-2.jpg", "/photos/medicine-place-beverly-medical-clinic-3.jpg"]
-rating: 3.7
-review_count: 18
+rating: 3.3
+review_count: 21
 price_range: "$"
 amenities:
   - "Walk-ins Welcome"

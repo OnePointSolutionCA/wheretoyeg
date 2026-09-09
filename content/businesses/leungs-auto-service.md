@@ -11,16 +11,16 @@ phone: "(780) 452-0134"
 website: "http://www.leungsauto.ca/"
 google_maps_url: "https://maps.google.com/?cid=14962517244082835890&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:30 AM - 6:00 PM"
-  tuesday: "8:30 AM - 6:00 PM"
-  wednesday: "8:30 AM - 6:00 PM"
-  thursday: "8:30 AM - 6:00 PM"
-  friday: "8:30 AM - 6:00 PM"
+  monday: "8:30 AM–6:00 PM"
+  tuesday: "8:30 AM–6:00 PM"
+  wednesday: "8:30 AM–6:00 PM"
+  thursday: "8:30 AM–6:00 PM"
+  friday: "8:30 AM–6:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/leungs-auto-service-1.jpg", "/photos/leungs-auto-service-2.jpg", "/photos/leungs-auto-service-3.jpg"]
 rating: 4.6
-review_count: 214
+review_count: 216
 price_range: "$$"
 amenities:
 

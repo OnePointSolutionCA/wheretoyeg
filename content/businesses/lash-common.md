@@ -11,12 +11,12 @@ phone: "(587) 986-9733"
 website: "http://www.lashcommon.ca/"
 google_maps_url: "https://maps.google.com/?cid=3301157795993603537&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 5:30 PM"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "10:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "10:00 AM - 6:30 PM"
-  saturday: "10:00 AM - 4:00 PM"
+  monday: "10:00 AM–5:30 PM"
+  tuesday: "9:00 AM–8:00 PM"
+  wednesday: "10:00 AM–6:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "10:00 AM–6:30 PM"
+  saturday: "10:00 AM–4:00 PM"
   sunday: "Closed"
 photos: ["/photos/lash-common-1.jpg", "/photos/lash-common-2.jpg", "/photos/lash-common-3.jpg"]
 rating: 4.4

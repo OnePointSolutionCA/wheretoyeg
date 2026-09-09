@@ -11,16 +11,16 @@ phone: "(587) 635-1841"
 website: "https://menyakokoro.com/"
 google_maps_url: "https://maps.google.com/?cid=10480808291367471392&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:30 AM - 11:00 PM"
-  tuesday: "11:30 AM - 11:00 PM"
-  wednesday: "11:30 AM - 11:00 PM"
-  thursday: "11:30 AM - 11:00 PM"
-  friday: "11:30 AM - 11:00 PM"
-  saturday: "11:30 AM - 11:00 PM"
-  sunday: "11:30 AM - 11:00 PM"
+  monday: "11:30 AM–11:00 PM"
+  tuesday: "11:30 AM–11:00 PM"
+  wednesday: "11:30 AM–11:00 PM"
+  thursday: "11:30 AM–11:00 PM"
+  friday: "11:30 AM–11:00 PM"
+  saturday: "11:30 AM–11:00 PM"
+  sunday: "11:30 AM–11:00 PM"
 photos: ["/photos/kokoro-tokyo-mazesoba-u-of-a-1.jpg", "/photos/kokoro-tokyo-mazesoba-u-of-a-2.jpg", "/photos/kokoro-tokyo-mazesoba-u-of-a-3.jpg"]
 rating: 4.8
-review_count: 390
+review_count: 422
 price_range: "$$"
 amenities:
   - "Dine-In"

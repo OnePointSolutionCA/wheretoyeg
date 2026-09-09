@@ -11,16 +11,16 @@ phone: "(780) 244-5007"
 website: "https://www.luckysupermarket.ca/pages/south"
 google_maps_url: "https://maps.google.com/?cid=5531182174860525511&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 9:00 PM"
-  tuesday: "9:00 AM - 9:00 PM"
-  wednesday: "9:00 AM - 9:00 PM"
-  thursday: "9:00 AM - 9:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "9:00 AM - 9:00 PM"
-  sunday: "9:00 AM - 9:00 PM"
+  monday: "9:00 AM–9:00 PM"
+  tuesday: "9:00 AM–9:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
+  saturday: "9:00 AM–9:00 PM"
+  sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/lucky-supermarket-1.jpg", "/photos/lucky-supermarket-2.jpg", "/photos/lucky-supermarket-3.jpg"]
 rating: 4.4
-review_count: 830
+review_count: 850
 price_range: "$$"
 amenities:
   - "Dine-In"

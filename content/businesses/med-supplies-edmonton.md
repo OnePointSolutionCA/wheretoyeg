@@ -10,16 +10,16 @@ neighborhood: "North Edmonton"
 phone: "780-409-1509"
 google_maps_url: "https://maps.google.com/?q=10134+111+Ave+NW+Edmonton"
 hours:
-  monday: "8:30 AM - 5:00 PM"
-  tuesday: "8:30 AM - 5:00 PM"
-  wednesday: "8:30 AM - 5:00 PM"
-  thursday: "8:30 AM - 5:00 PM"
-  friday: "8:30 AM - 5:00 PM"
-  saturday: "Closed"
-  sunday: "Closed"
+  monday: "8:30 AM–5:00 PM"
+  tuesday: "8:30 AM–5:00 PM"
+  wednesday: "8:30 AM–5:00 PM"
+  thursday: "8:30 AM–5:00 PM"
+  friday: "8:30 AM–5:00 PM"
+  saturday: "10:00 AM–3:00 PM"
+  sunday: "10:00 AM–1:00 PM"
 photos: ["/photos/med-supplies-edmonton-1.jpg", "/photos/med-supplies-edmonton-2.jpg", "/photos/med-supplies-edmonton-3.jpg"]
 rating: 4.8
-review_count: 224
+review_count: 233
 price_range: "$$"
 amenities:
   - "In-Store Shopping"

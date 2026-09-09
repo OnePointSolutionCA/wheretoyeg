@@ -15,17 +15,36 @@ photos:
 reviews:
   - name: "path2discover"
     rating: 5
-    comment: "Healthy drinks and food in Sherwood Park. I come here once in a while over the years and I must say, the girl working this morning, May 15th, made me and my sisters drinks really good. I got the Coco-Bean and she got the Cookies and Cream. We normally get the same drinks and this is the best it’s tasted. Kudos 👏"
+    comment: |
+      Healthy drinks and food in Sherwood Park. I come here once in a while over the years and I must say, the girl working this morning, May 15th, made me and my sisters drinks really good. I got the Coco-Bean and she got the Cookies and Cream. We normally get the same drinks and this is the best it’s tasted. Kudos 👏
   - name: "Kim Reimnitz"
     rating: 1
-    comment: "I love KB & Co generally - excellent food and good nourishment. My regular Kb & Co is Windemere and the staff make Windemere exceptional. Always genuinely warm and happy to serve you - they enjoy their work and meet you with so much genuine enthusiasm. I love my trips there as much for the staff as the food. My second regular Kb & Co is  St Albert - Also excellent staff that are genuine and always a pleasure serving you - a real joy to visit. I have been to Sherwood park on a few occasions and I"
+    comment: |
+      I love KB & Co generally - excellent food and good nourishment.
+      My regular Kb & Co is Windemere and the staff make Windemere exceptional. Always genuinely warm and happy to serve you - they enjoy their work and meet you with so much genuine enthusiasm. I love my trips there as much for the staff as the food.
+      My second regular Kb & Co is  St Albert - Also excellent staff that are genuine and always a pleasure serving you - a real joy to visit.
+      I have been to Sherwood park on a few occasions and I cannot same to the two young ladies that were working there. It is so noticeable when people love their place of work and so noticeable when they don’t. My experience last week was that the two young ladies were ready to go home or they were just not enjoying their work. I will try Sherwood Park location again and see if it was just a one off day.
+      It is a difference of night and Day, to be genuinely welcomed - or to be served with an attitude.
   - name: "Logan Perry"
     rating: 5
-    comment: "Went to kb and co for my first time today and I could not of been more happy with how good the service and food was. The ladies working were very polite and helpful and made it a great experience. I would highly recommend going to kb and co for good quality meals and smoothies made by very friendly staff!!"
+    comment: |
+      Went to kb and co for my first time today and I could not of been more happy with how good the service and food was. The ladies working were very polite and helpful and made it a great experience. I would highly recommend going to kb and co for
+      good quality meals and smoothies made by very friendly staff!!
   - name: "Chad Andress (Chad)"
     rating: 5
-    comment: "I got the PB smoothie and avocado and mushroom toast and it was amazing! I'm someone who usually always has some kind of meat with my meals but here that didn't matter. I love the promotion of healthy food and it being actually healthy not like some of those restaurants that claim to be but aren't actually. I would want to come back but unfortunately I live in Ontario and there doesn't seem to be in locations outside of Alberta."
+    comment: |
+      I got the PB smoothie and avocado and mushroom toast and it was amazing! I'm someone who usually always has some kind of meat with my meals but here that didn't matter. I love the promotion of healthy food and it being actually healthy not like some of those restaurants that claim to be but aren't actually. I would want to come back but unfortunately I live in Ontario and there doesn't seem to be in locations outside of Alberta.
   - name: "Justin Evans"
     rating: 5
-    comment: "This is my absolute go-to for healthy eats in Sherwood Park! I couldn't be more kale-ated to have a spot like this nearby—the smoothies are awesome and the fresh food is truly un-beet-able. I find myself eating here all the time because they make it so peas-y to stay on track. Huge shoutout to the staff who are always so kind, and the music/vibes are consistently on point. So proud to see a local business doing such big things—you’re really raising the root for healthy food in town!"
+    comment: |
+      This is my absolute go-to for healthy eats in Sherwood Park! I couldn't be more kale-ated to have a spot like this nearby—the smoothies are awesome and the fresh food is truly un-beet-able.
+      I find myself eating here all the time because they make it so peas-y to stay on track. Huge shoutout to the staff who are always so kind, and the music/vibes are consistently on point. So proud to see a local business doing such big things—you’re really raising the root for healthy food in town!
+hours:
+  monday: "9:00 AM–7:00 PM"
+  tuesday: "9:00 AM–7:00 PM"
+  wednesday: "9:00 AM–7:00 PM"
+  thursday: "9:00 AM–7:00 PM"
+  friday: "9:00 AM–7:00 PM"
+  saturday: "10:00 AM–4:00 PM"
+  sunday: "10:00 AM–4:00 PM"
 ---

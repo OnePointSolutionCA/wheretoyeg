@@ -12,15 +12,15 @@ website: "https://istanbulkebabdonair.com/"
 google_maps_url: "https://maps.google.com/?cid=13592432898025121539&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "11:00 AM - 9:00 PM"
-  wednesday: "11:00 AM - 9:00 PM"
-  thursday: "11:00 AM - 9:00 PM"
-  friday: "11:00 AM - 10:00 PM"
-  saturday: "11:00 AM - 10:00 PM"
-  sunday: "11:00 AM - 9:00 PM"
+  tuesday: "11:00 AM–9:00 PM"
+  wednesday: "11:00 AM–9:00 PM"
+  thursday: "11:00 AM–9:00 PM"
+  friday: "11:00 AM–10:00 PM"
+  saturday: "11:00 AM–10:00 PM"
+  sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/istanbul-kebab-and-donair-1.jpg", "/photos/istanbul-kebab-and-donair-2.jpg", "/photos/istanbul-kebab-and-donair-3.jpg"]
 rating: 4.8
-review_count: 2290
+review_count: 2311
 price_range: "$$"
 amenities:
   - "Halal"

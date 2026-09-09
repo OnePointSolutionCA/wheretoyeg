@@ -12,16 +12,16 @@ phone: "(587) 990-8144"
 website: "https://ladybird-photography.com"
 google_maps_url: "https://maps.google.com/?q=Ladybird+Photography+Edmonton"
 hours:
-  monday: "By Appointment"
-  tuesday: "By Appointment"
-  wednesday: "By Appointment"
-  thursday: "By Appointment"
-  friday: "By Appointment"
-  saturday: "By Appointment"
-  sunday: "By Appointment"
+  monday: "10:00 AM–3:00 AM"
+  tuesday: "10:00 AM–3:00 PM"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "10:00 AM–3:00 PM"
+  sunday: "10:00 AM–8:00 PM"
 photos: ["/photos/ladybird-photography-1.jpg", "/photos/ladybird-photography-2.jpg", "/photos/ladybird-photography-3.jpg"]
 rating: 5.0
-review_count: 50
+review_count: 66
 price_range: "$$$"
 amenities:
   - "By Appointment"

@@ -11,13 +11,13 @@ phone: "(587) 817-0339"
 website: "https://lacocinalatina.online/"
 google_maps_url: "https://maps.google.com/?cid=1169509540644176400&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 9:00 PM"
-  tuesday: "11:00 AM - 9:00 PM"
-  wednesday: "11:00 AM - 9:00 PM"
-  thursday: "11:00 AM - 9:00 PM"
-  friday: "11:00 AM - 10:00 PM"
-  saturday: "11:00 AM - 10:00 PM"
-  sunday: "11:00 AM - 8:00 PM"
+  monday: "11:00 AM–9:00 PM"
+  tuesday: "11:00 AM–9:00 PM"
+  wednesday: "11:00 AM–9:00 PM"
+  thursday: "11:00 AM–9:00 PM"
+  friday: "11:00 AM–10:00 PM"
+  saturday: "11:00 AM–10:00 PM"
+  sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/la-cocina-latina-1.jpg", "/photos/la-cocina-latina-2.jpg", "/photos/la-cocina-latina-3.jpg"]
 rating: 4.4
 review_count: 1280

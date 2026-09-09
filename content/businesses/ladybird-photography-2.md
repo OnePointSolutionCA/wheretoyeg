@@ -11,13 +11,13 @@ phone: "(587) 990-8144"
 website: "http://www.ladybird-photography.com/"
 google_maps_url: "https://maps.google.com/?cid=14091908709812593897&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 3:00 AM"
-  tuesday: "10:00 AM - 3:00 PM"
+  monday: "10:00 AM–3:00 AM"
+  tuesday: "10:00 AM–3:00 PM"
   wednesday: "Closed"
   thursday: "Closed"
   friday: "Closed"
-  saturday: "10:00 AM - 3:00 PM"
-  sunday: "10:00 AM - 8:00 PM"
+  saturday: "10:00 AM–3:00 PM"
+  sunday: "10:00 AM–8:00 PM"
 photos: ["/photos/ladybird-photography-2-1.jpg", "/photos/ladybird-photography-2-2.jpg", "/photos/ladybird-photography-2-3.jpg"]
 rating: 5
 review_count: 66

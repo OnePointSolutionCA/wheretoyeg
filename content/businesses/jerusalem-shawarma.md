@@ -12,16 +12,16 @@ phone: "(780) 450-0660"
 website: "https://jerusalemedmonton.com"
 google_maps_url: "https://maps.google.com/?q=Jerusalem+Shawarma+South+Edmonton+Common"
 hours:
-  monday: "11:00 AM - 10:00 PM"
-  tuesday: "11:00 AM - 10:00 PM"
-  wednesday: "11:00 AM - 10:00 PM"
-  thursday: "11:00 AM - 10:00 PM"
-  friday: "11:00 AM - 10:00 PM"
-  saturday: "10:00 AM - 11:00 PM"
-  sunday: "10:00 AM - 10:00 PM"
+  monday: "11:00 AM–10:00 PM"
+  tuesday: "11:00 AM–10:00 PM"
+  wednesday: "11:00 AM–10:00 PM"
+  thursday: "11:00 AM–10:00 PM"
+  friday: "11:00 AM–12:00 AM"
+  saturday: "10:00 AM–12:00 AM"
+  sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/jerusalem-shawarma-1.jpg", "/photos/jerusalem-shawarma-2.jpg", "/photos/jerusalem-shawarma-3.jpg"]
 rating: 4.9
-review_count: 1000
+review_count: 22281
 price_range: "$$"
 amenities:
   - "Halal"
@@ -32,16 +32,6 @@ amenities:
 tags: ["shawarma", "halal", "donair", "kebabs", "middle eastern", "south edmonton"]
 active: true
 reviews:
-  - name: "Chariz Jarlego"
-    rating: 5
-    comment: |
-      Such a wonderful experience at Jerusalem Shawarma! The staff were incredibly friendly, welcoming, and professional. They were quick and efficient, but you could still tell they genuinely cared about their customers. And the food was absolutely top-notch—fresh, flavorful, and delicious!
-      
-      What really stood out to me was how welcoming the atmosphere felt. You truly feel at home while eating here. They even came around and offered us complimentary chai tea, which was such a thoughtful touch.
-      
-      Julia was especially lovely! She stopped by and kindly gave my kids complimentary baklava on the house. Such a sweet gesture, and my kids were so happy! ❤️
-      
-      Overall, an amazing experience from start to finish. Great food, wonderful service, and such a warm atmosphere. We’ll definitely be coming back! Highly recommend! 🌟
   - name: "Abde Ben"
     rating: 5
     comment: |
@@ -68,4 +58,8 @@ reviews:
       The service was excellent. The server was very polite, friendly, and nice. We even got complimentary tea, mint lemonade, and more baklava. Our cups were refilled whenever we finished the tea.
       
       The tables could be a little more clean but over the place is very well kept.
+  - name: "Sena Sezer Syed"
+    rating: 5
+    comment: |
+      Great place, great food, great vibes :) Especially anything with lamb kebab is delicious, be it wrap or plate. The staff is always welcoming, the place is always clean. Kamal is always so helpful and kind! The first picture attached is from today, after we were done with our food I asked him if we could have two more small cups of tea, he said he would bring it to our table. He came back with a plate of two cups of tea, two cups of the green citrus ginger drink (I don’t know the name but it is absolutely delicious) and two pieces of baklava! One thing about me is I will certainly keep coming back to a restaurant that seeks abundance through generosity. :)
 ---

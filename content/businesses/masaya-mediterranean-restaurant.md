@@ -11,16 +11,16 @@ phone: "(780) 456-1133"
 website: "https://www.masaya.ca/"
 google_maps_url: "https://maps.google.com/?cid=5523355542488406820&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 11:30 PM"
-  tuesday: "11:00 AM - 11:30 PM"
-  wednesday: "11:00 AM - 11:30 PM"
-  thursday: "11:00 AM - 11:30 PM"
-  friday: "11:00 AM - 11:30 PM"
-  saturday: "11:00 AM - 11:30 PM"
-  sunday: "11:00 AM - 11:30 PM"
+  monday: "11:00 AM–11:30 PM"
+  tuesday: "11:00 AM–11:30 PM"
+  wednesday: "11:00 AM–11:30 PM"
+  thursday: "11:00 AM–11:30 PM"
+  friday: "11:00 AM–11:30 PM"
+  saturday: "11:00 AM–11:30 PM"
+  sunday: "11:00 AM–11:30 PM"
 photos: ["/photos/masaya-mediterranean-restaurant-1.jpg", "/photos/masaya-mediterranean-restaurant-2.jpg", "/photos/masaya-mediterranean-restaurant-3.jpg"]
-rating: 4.6
-review_count: 113
+rating: 4.5
+review_count: 115
 price_range: "$$"
 amenities:
   - "Dine-In"

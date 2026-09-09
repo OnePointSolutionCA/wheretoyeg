@@ -11,16 +11,16 @@ phone: "(587) 855-8587"
 website: "https://www.kandrplumbingandheating.ca/"
 google_maps_url: "https://maps.google.com/?cid=14229438181280117155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 8:00 PM"
-  tuesday: "8:00 AM - 8:00 PM"
-  wednesday: "8:00 AM - 8:00 PM"
-  thursday: "8:00 AM - 8:00 PM"
-  friday: "8:00 AM - 8:00 PM"
-  saturday: "8:00 AM - 8:00 PM"
-  sunday: "8:00 AM - 8:00 PM"
+  monday: "8:00 AM–8:00 PM"
+  tuesday: "8:00 AM–8:00 PM"
+  wednesday: "8:00 AM–8:00 PM"
+  thursday: "8:00 AM–8:00 PM"
+  friday: "8:00 AM–8:00 PM"
+  saturday: "8:00 AM–8:00 PM"
+  sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/k-r-plumbing-and-heating-1.jpg", "/photos/k-r-plumbing-and-heating-2.jpg", "/photos/k-r-plumbing-and-heating-3.jpg"]
 rating: 5
-review_count: 212
+review_count: 214
 price_range: "$$"
 amenities:
 

@@ -11,13 +11,13 @@ phone: "(780) 202-6848"
 website: "https://www.instagram.com/linkup.gaming.ca?igsh=MWl4Z2E5bG92YWltYg==&utm_source=qr"
 google_maps_url: "https://maps.google.com/?cid=7980642749096972126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "3:00 PM - 12:00 AM"
-  tuesday: "3:00 PM - 12:00 AM"
-  wednesday: "3:00 PM - 12:00 AM"
-  thursday: "3:00 PM - 12:00 AM"
-  friday: "3:00 PM - 2:00 AM"
-  saturday: "1:00 PM - 2:00 AM"
-  sunday: "1:00 PM - 12:00 AM"
+  monday: "3:00 PM–12:00 AM"
+  tuesday: "3:00 PM–12:00 AM"
+  wednesday: "3:00 PM–12:00 AM"
+  thursday: "3:00 PM–12:00 AM"
+  friday: "3:00 PM–2:00 AM"
+  saturday: "1:00 PM–2:00 AM"
+  sunday: "1:00 PM–12:00 AM"
 photos: ["/photos/linkup-gaming-cafe-1.jpg", "/photos/linkup-gaming-cafe-2.jpg", "/photos/linkup-gaming-cafe-3.jpg"]
 rating: 4.9
 review_count: 54

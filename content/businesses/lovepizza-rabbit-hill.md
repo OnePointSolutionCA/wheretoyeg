@@ -16,14 +16,31 @@ photos:
 reviews:
   - name: "Joyce Selwans"
     rating: 5
-    comment: "Got the Holy Shiitake with basil instead of argula, and it was so good. Everything is really fresh and high quality. I didn’t get her name, but the girl that was working tonight was so kind and helpful - thank you!"
+    comment: |
+      Got the Holy Shiitake with basil instead of argula, and it was so good. Everything is really fresh and high quality.
+      I didn’t get her name, but the girl that was working tonight was so kind and helpful - thank you!
+  - name: "Karl Driver"
+    rating: 5
+    comment: |
+      This place left me surprised. My wife decided she wanted pizza on her way home and stopped by here. She had the Prosciutto and I had the Double Pepperoni. We ordered the individual size for both, and were pleasantly surprised with the size and the flavour. Decent amount of toppings and has now become our Go To due to its proximity to our home.
   - name: "Meghan Diniz"
     rating: 1
-    comment: "Me and my husband have been ordering from love pizza for a couple years now but recently the quality has gone way down hill… almost tastes like the dough had been frozen and reheated prior. Over all really bad pizza unfortunately."
+    comment: |
+      Me and my husband have been ordering from love pizza for a couple years now but recently the quality has gone way down hill… almost tastes like the dough had been frozen and reheated prior. Over all really bad pizza unfortunately.
   - name: "Bobbi K"
     rating: 5
-    comment: "My son and I came to enjoy the lunch specials today and as always it was such a great experience! Gagan was helpful and friendly and put so much care into making our delicious pizzas! He was also extra careful preparing a gluten free one for me. The staff here are always amazing and the pizza ingredients are always so fresh! We’ll be back :)"
+    comment: |
+      My son and I came to enjoy the lunch specials today and as always it was such a great experience! Gagan was helpful and friendly and put so much care into making our delicious pizzas! He was also extra careful preparing a gluten free one for me. The staff here are always amazing and the pizza ingredients are always so fresh! We’ll be back :)
   - name: "B&L Enterprises Ltd."
     rating: 3
-    comment: "Encouraged by friends, we ordered a vegetarian pizza, plain cheese, and tater tots from LovePizza. Sadly, the ingredients were uniformly bland and lacked any real taste. Based on this order, it was more 'loathe' than 'Love'."
+    comment: |
+      Encouraged by friends, we ordered a vegetarian pizza, plain cheese, and tater tots from LovePizza. Sadly, the ingredients were uniformly bland and lacked any real taste. Based on this order, it was more 'loathe' than 'Love'.
+hours:
+  monday: "10:00 AM–9:00 PM"
+  tuesday: "10:00 AM–9:00 PM"
+  wednesday: "10:00 AM–9:00 PM"
+  thursday: "10:00 AM–9:00 PM"
+  friday: "10:00 AM–11:00 PM"
+  saturday: "10:00 AM–11:00 PM"
+  sunday: "10:00 AM–9:00 PM"
 ---

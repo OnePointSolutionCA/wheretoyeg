@@ -12,15 +12,15 @@ website: "http://www.lashup.ca/"
 google_maps_url: "https://maps.google.com/?cid=10612768143653616043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 8:00 PM"
-  saturday: "9:00 AM - 6:00 PM"
+  tuesday: "9:00 AM–8:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–8:00 PM"
+  saturday: "9:00 AM–6:00 PM"
   sunday: "Closed"
 photos: ["/photos/lash-up-1.jpg", "/photos/lash-up-2.jpg", "/photos/lash-up-3.jpg"]
 rating: 4.4
-review_count: 398
+review_count: 399
 price_range: "$$"
 amenities:
 

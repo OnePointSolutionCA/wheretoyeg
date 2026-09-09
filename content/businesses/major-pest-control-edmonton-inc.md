@@ -11,16 +11,16 @@ phone: "(780) 906-0911"
 website: "https://majorpestcontrol.ca/"
 google_maps_url: "https://maps.google.com/?cid=6457175842881002173&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 11:00 PM"
-  tuesday: "7:00 AM - 11:00 PM"
-  wednesday: "7:00 AM - 11:00 PM"
-  thursday: "7:00 AM - 11:00 PM"
-  friday: "7:00 AM - 11:00 PM"
-  saturday: "7:00 AM - 11:00 PM"
-  sunday: "7:00 AM - 11:00 PM"
+  monday: "7:00 AM–11:00 PM"
+  tuesday: "7:00 AM–11:00 PM"
+  wednesday: "7:00 AM–11:00 PM"
+  thursday: "7:00 AM–11:00 PM"
+  friday: "7:00 AM–11:00 PM"
+  saturday: "7:00 AM–11:00 PM"
+  sunday: "7:00 AM–11:00 PM"
 photos: ["/photos/major-pest-control-edmonton-inc-1.jpg", "/photos/major-pest-control-edmonton-inc-2.jpg", "/photos/major-pest-control-edmonton-inc-3.jpg"]
 rating: 4.9
-review_count: 3907
+review_count: 3913
 price_range: "$$$$"
 amenities:
 

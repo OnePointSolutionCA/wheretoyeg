@@ -11,16 +11,16 @@ phone: "(587) 612-5100"
 website: "https://jrsautodetailing.ca/"
 google_maps_url: "https://maps.google.com/?cid=18018175267762825844&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:30 AM - 5:30 PM"
-  tuesday: "8:30 AM - 5:30 PM"
-  wednesday: "8:30 AM - 5:30 PM"
-  thursday: "8:30 AM - 5:30 PM"
-  friday: "8:30 AM - 5:30 PM"
+  monday: "8:30 AM–5:30 PM"
+  tuesday: "8:30 AM–5:30 PM"
+  wednesday: "8:30 AM–5:30 PM"
+  thursday: "8:30 AM–5:30 PM"
+  friday: "8:30 AM–5:30 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/jrs-auto-detailing-edmontons-best-ppf-9h-ceramic-graphene-co-1.jpg", "/photos/jrs-auto-detailing-edmontons-best-ppf-9h-ceramic-graphene-co-2.jpg", "/photos/jrs-auto-detailing-edmontons-best-ppf-9h-ceramic-graphene-co-3.jpg"]
 rating: 4.9
-review_count: 1157
+review_count: 1160
 price_range: "$$"
 amenities:
 

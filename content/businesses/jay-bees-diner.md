@@ -16,14 +16,33 @@ photos:
 reviews:
   - name: "Rose"
     rating: 5
-    comment: "our server amanda was very nice. the husband ordered cowboy breakfast and strawberry milkshake and I ordered my usual liver and onion. and we both liked the food. Will definitely coming back."
+    comment: |
+      our server amanda was very nice.
+      the husband ordered cowboy breakfast and strawberry milkshake and I ordered my usual liver and onion. and we both liked the food. Will definitely coming back.
   - name: "M Har"
     rating: 5
-    comment: "We visited tonight and ordered the fish and chips and the fish was fresh and hand coated in a thin batter with crispy fries. Also ordered the lasagna off the senior menu and it was a nice small portion full of a flavorful sauce and cheese. All food was delicious and the service was excellent!"
+    comment: |
+      We visited tonight and ordered the fish and chips and the fish was fresh and hand coated in a thin batter with crispy fries. Also ordered the lasagna off the senior menu and it was a nice small portion full of a flavorful sauce and cheese. All food was delicious and the service was excellent!
   - name: "Yvon Blanchette"
     rating: 4
-    comment: "Nice family type restaurant. The food presentation is great the service right up there! My steak was perfectly cooked. The quality of the meat was mediocre probably matching the relatively low cost. I would pay more for a triple AAA versus what was likely not graded meat."
+    comment: |
+      Nice family type restaurant. The food presentation is great the service right up there! My steak was perfectly cooked. The quality of the meat was mediocre probably matching the relatively low cost. I would pay more for a triple AAA versus what was likely not graded meat.
+  - name: "brad boyd"
+    rating: 5
+    comment: |
+      The wife had liver & onions while I had the cowboy breakfast.  You better have a good appetite as this breakfast is big.  Ham, bacon & sausage is the difference.  Fresh cubed potatoe hash browns nicely seasoned with fresh eggs & brown toast.  My usual strawberry shake to drink was thick & I recommend Jay get some parfait spoons.  Our server Amanda was awesome.
   - name: "Simon Muise"
     rating: 1
-    comment: "Very disappointing dining experience with family on March 15th, 2026. Ordered steak, medium well. Received order, waited additional 5 minutes until  server brought butter for baked potato and HP sauce. Tried the steak to discover it prepared blue rare. I expressed this to the server, whom told me it's well done. As you can see from the photo it is clearly blue rare. I refused to eat the meal and didn't want a replacement as I felt no confidence in the restaurant service. Ultimately we were force"
+    comment: |
+      Very disappointing dining experience with family on March 15th, 2026.
+      Ordered steak, medium well.
+      Received order, waited additional 5 minutes until  server brought butter for baked potato and HP sauce. Tried the steak to discover it prepared blue rare. I expressed this to the server, whom told me it's well done. As you can see from the photo it is clearly blue rare. I refused to eat the meal and didn't want a replacement as I felt no confidence in the restaurant service. Ultimately we were forced to pay for a meal that I did not consume. Additional note: requested to go box, for daughters leftovers and received a glass of water lol. We have dined there numerous occasions and will not return.
+hours:
+  monday: "8:00 AM–9:00 PM"
+  tuesday: "8:00 AM–9:00 PM"
+  wednesday: "8:00 AM–9:00 PM"
+  thursday: "8:00 AM–9:00 PM"
+  friday: "8:00 AM–10:00 PM"
+  saturday: "8:00 AM–10:00 PM"
+  sunday: "8:00 AM–8:00 PM"
 ---

@@ -11,16 +11,16 @@ phone: "(780) 758-2273"
 website: "http://www.kindercaremedical.com/"
 google_maps_url: "https://maps.google.com/?cid=10917454367922661828&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/kinder-care-medical-clinic-1.jpg", "/photos/kinder-care-medical-clinic-2.jpg", "/photos/kinder-care-medical-clinic-3.jpg"]
 rating: 3.6
-review_count: 95
+review_count: 96
 price_range: "$$"
 amenities:
 

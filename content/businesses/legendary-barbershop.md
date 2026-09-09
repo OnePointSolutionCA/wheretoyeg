@@ -11,12 +11,12 @@ phone: "(780) 757-8499"
 website: "http://www.legendarybarbers.com/"
 google_maps_url: "https://maps.google.com/?cid=14099632134540087511&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 7:00 PM"
-  tuesday: "10:00 AM - 7:00 PM"
-  wednesday: "10:00 AM - 7:00 PM"
-  thursday: "10:00 AM - 7:00 PM"
-  friday: "10:00 AM - 7:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
+  monday: "10:00 AM–7:00 PM"
+  tuesday: "10:00 AM–7:00 PM"
+  wednesday: "10:00 AM–7:00 PM"
+  thursday: "10:00 AM–7:00 PM"
+  friday: "10:00 AM–7:00 PM"
+  saturday: "10:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/legendary-barbershop-1.jpg", "/photos/legendary-barbershop-2.jpg", "/photos/legendary-barbershop-3.jpg"]
 rating: 4.8

@@ -16,14 +16,36 @@ photos:
 reviews:
   - name: "Olha Oreletska"
     rating: 5
-    comment: "Here’s that moment when the dish looks exactly like the photo on the menu. That rarely happens at most places. The photo looks appetizing, but what you actually get bears no resemblance to what you see—especially when you order delivery.  But at Love Pizza, it’s different. Everything here is perfect—the presentation, the taste, and the atmosphere. My family and I had lunch there. We really enjoyed it, so we even took some pizza home 🥰 I highly recommend it—the pizza here is incredibly delicious"
+    comment: |
+      Here’s that moment when the dish looks exactly like the photo on the menu. That rarely happens at most places. The photo looks appetizing, but what you actually get bears no resemblance to what you see—especially when you order delivery.
+      
+      But at Love Pizza, it’s different. Everything here is perfect—the presentation, the taste, and the atmosphere.
+      My family and I had lunch there. We really enjoyed it, so we even took some pizza home 🥰
+      I highly recommend it—the pizza here is incredibly delicious, and the owner is very friendly.
   - name: "Landon Ribar"
     rating: 5
-    comment: "Owner was genuinely so kind and funny to me and my friend. Food was beautiful and delicious too, me and my friend devoured it all. And the atmosphere was great and the tables were super clean, practically everything was super clean. 100% would come back."
+    comment: |
+      Owner was genuinely so kind and funny to me and my friend. Food was beautiful and delicious too, me and my friend devoured it all. And the atmosphere was great and the tables were super clean, practically everything was super clean. 100% would come back.
   - name: "Apoorva Andrew"
     rating: 4
-    comment: "This is such a good place to go especially with children. It’s a nice location and pleasant ambience. They had Tumbling Blocks on each table so we played the game while we waited for the food. The food/pizzas are fresh and great quality. Not heavy, Not Greasy at all. The service was excellent and the owner of the franchise is a sweet man."
+    comment: |
+      This is such a good place to go especially with children. It’s a nice location and pleasant ambience. They had Tumbling Blocks on each table so we played the game while we waited for the food. The food/pizzas are fresh and great quality. Not heavy, Not Greasy at all. The service was excellent and the owner of the franchise is a sweet man.
+  - name: "Elijah Fitzgerald"
+    rating: 5
+    comment: |
+      I am a loyal customer of Love Pizza. This time I wanted to make a difference and try their Heritage Valley location. Honestly it was an extremely pleasing and comfortable experience. The workers’ attention was amazing, they asked two times if we needed anything and if we have any recommendations for them. It was very refreshing to hear from a shop that they are willing to hear their customer’s suggestions, nowadays it’s rare to see this kind of attention in this generation, and I am saying this as a 67 year-old man who came here with my grandchildren. Kudos to them!!! 👏👏👏
+      
+      Normally I buy their classic Sausage Basil Honey however in my recent visit I tried their Big Love Greek Goddess. The pizza doesn’t leave you with the need to chug a whole bottle of water, it doesn’t have that unhealthy salty aftertaste like you always have from other pizza shops. Overall their pizza tasted and looked wonderful, their eating area was clean and you can play Jenga while waiting, their staff is also very friendly. I highly suggest this place to anyone who visits this area!
   - name: "Shevchenko D"
     rating: 5
-    comment: "Very nice and quite place. Pizza here is not greasy, I felt alright after eating the whole big pizza, without a feeling of a dying stomach. Restaurant is clean and well maintained. Nice music playlist(no rap or Indian music). They have jenga on the table, and gave us ice cream when one of us won. After all, I can say that this place is better than 90% of pizza restaurants I have been to. Humble workers is another big plus"
+    comment: |
+      Very nice and quite place. Pizza here is not greasy, I felt alright after eating the whole big pizza, without a feeling of a dying stomach. Restaurant is clean and well maintained. Nice music playlist(no rap or Indian music). They have jenga on the table, and gave us ice cream when one of us won. After all, I can say that this place is better than 90% of pizza restaurants I have been to. Humble workers is another big plus
+hours:
+  monday: "10:00 AM–11:00 PM"
+  tuesday: "10:00 AM–11:00 PM"
+  wednesday: "10:00 AM–11:00 PM"
+  thursday: "10:00 AM–11:00 PM"
+  friday: "10:00 AM–12:00 AM"
+  saturday: "10:00 AM–12:00 AM"
+  sunday: "10:00 AM–11:00 PM"
 ---

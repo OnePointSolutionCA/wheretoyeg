@@ -11,16 +11,16 @@ phone: "(587) 568-0972"
 website: "https://www.fresha.com/book-now/lashes-by-snc-j63xakr2/all-offer?pId=837477"
 google_maps_url: "https://maps.google.com/?cid=5187494137066154924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 9:00 PM"
-  tuesday: "8:00 AM - 10:00 PM"
-  wednesday: "8:00 AM - 10:00 PM"
-  thursday: "8:00 AM - 10:00 PM"
-  friday: "8:00 AM - 10:00 PM"
-  saturday: "9:00 AM - 7:00 PM"
-  sunday: "7:00 AM - 9:00 PM"
+  monday: "9:00 AM–9:00 PM"
+  tuesday: "8:00 AM–10:00 PM"
+  wednesday: "8:00 AM–10:00 PM"
+  thursday: "8:00 AM–10:00 PM"
+  friday: "8:00 AM–10:00 PM"
+  saturday: "9:00 AM–7:00 PM"
+  sunday: "7:00 AM–9:00 PM"
 photos: ["/photos/lashes-by-snc-studio-and-academy-1.jpg", "/photos/lashes-by-snc-studio-and-academy-2.jpg", "/photos/lashes-by-snc-studio-and-academy-3.jpg"]
 rating: 5
-review_count: 78
+review_count: 79
 price_range: "$$$$"
 amenities:
 

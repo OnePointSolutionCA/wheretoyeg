@@ -12,12 +12,12 @@ phone: "780-540-7715"
 website: "https://medicineplace.ca"
 google_maps_url: "https://maps.google.com/?q=13514+97+St+NW+Edmonton"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "Closed"
+  monday: "8:00 AM–5:00 PM"
+  tuesday: "8:00 AM–5:00 PM"
+  wednesday: "8:00 AM–5:00 PM"
+  thursday: "8:00 AM–5:00 PM"
+  friday: "8:00 AM–5:00 PM"
+  saturday: "9:00 AM–4:00 PM"
   sunday: "Closed"
 photos: ["/photos/medicine-place-diagnostic-imaging.jpg"]
 rating: 3.8

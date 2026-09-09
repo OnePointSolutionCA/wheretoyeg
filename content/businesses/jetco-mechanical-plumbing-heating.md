@@ -11,16 +11,16 @@ phone: "(780) 451-2732"
 website: "https://jetcomechanical.com/hot-water-tank-replacement-edmonton/?utm_source=GBPlisting&utm_medium=organic"
 google_maps_url: "https://maps.google.com/?cid=8133262733175854144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "Open 24 hours"
-  tuesday: "Open 24 hours"
-  wednesday: "Open 24 hours"
-  thursday: "Open 24 hours"
-  friday: "Open 24 hours"
-  saturday: "Open 24 hours"
-  sunday: "Open 24 hours"
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/jetco-mechanical-plumbing-heating-1.jpg", "/photos/jetco-mechanical-plumbing-heating-2.jpg", "/photos/jetco-mechanical-plumbing-heating-3.jpg"]
 rating: 4.9
-review_count: 230
+review_count: 231
 price_range: "$$"
 amenities:
 

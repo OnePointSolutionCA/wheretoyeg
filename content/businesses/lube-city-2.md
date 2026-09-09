@@ -11,16 +11,16 @@ phone: "(780) 475-0329"
 website: "https://www.lubecity.ca/"
 google_maps_url: "https://maps.google.com/?cid=7348962994179293164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 6:00 PM"
-  tuesday: "8:00 AM - 6:00 PM"
-  wednesday: "8:00 AM - 6:00 PM"
-  thursday: "8:00 AM - 6:00 PM"
-  friday: "8:00 AM - 6:00 PM"
-  saturday: "8:00 AM - 6:00 PM"
-  sunday: "10:00 AM - 5:00 PM"
+  monday: "8:00 AM–6:00 PM"
+  tuesday: "8:00 AM–6:00 PM"
+  wednesday: "8:00 AM–6:00 PM"
+  thursday: "8:00 AM–6:00 PM"
+  friday: "8:00 AM–6:00 PM"
+  saturday: "8:00 AM–6:00 PM"
+  sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/lube-city-2-1.jpg", "/photos/lube-city-2-2.jpg", "/photos/lube-city-2-3.jpg"]
 rating: 4.6
-review_count: 587
+review_count: 590
 price_range: "$$"
 amenities:
 

@@ -11,16 +11,16 @@ phone: "(780) 489-1717"
 website: "http://kcbakess.com/"
 google_maps_url: "https://maps.google.com/?cid=13778068984419997479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 7:00 PM"
-  tuesday: "11:00 AM - 7:00 PM"
-  wednesday: "11:00 AM - 7:00 PM"
-  thursday: "11:00 AM - 7:00 PM"
-  friday: "11:00 AM - 8:00 PM"
-  saturday: "11:00 AM - 8:00 PM"
-  sunday: "12:00 - 6:00 PM"
+  monday: "11:00 AM–7:00 PM"
+  tuesday: "11:00 AM–7:00 PM"
+  wednesday: "11:00 AM–7:00 PM"
+  thursday: "11:00 AM–7:00 PM"
+  friday: "11:00 AM–8:00 PM"
+  saturday: "11:00 AM–8:00 PM"
+  sunday: "12:00 PM–6:00 PM"
 photos: ["/photos/kcbakess-1.jpg", "/photos/kcbakess-2.jpg", "/photos/kcbakess-3.jpg"]
 rating: 4.7
-review_count: 150
+review_count: 151
 price_range: "$$"
 amenities:
   - "Dine-In"

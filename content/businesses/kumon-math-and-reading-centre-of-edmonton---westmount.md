@@ -11,12 +11,12 @@ phone: "(587) 405-1500"
 website: "https://www.kumon.com/edmonton-westmount?utm_source=local&utm_medium=gmb&utm_campaign=googlelisting"
 google_maps_url: "https://maps.google.com/?cid=13776473209678944464&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 3:00 PM"
-  tuesday: "10:00 AM - 7:00 PM"
-  wednesday: "10:00 AM - 7:00 PM"
-  thursday: "10:00 AM - 7:00 PM"
-  friday: "10:00 AM - 7:00 PM"
-  saturday: "10:00 AM - 2:00 PM"
+  monday: "10:00 AM–3:00 PM"
+  tuesday: "10:00 AM–7:00 PM"
+  wednesday: "10:00 AM–7:00 PM"
+  thursday: "10:00 AM–7:00 PM"
+  friday: "10:00 AM–7:00 PM"
+  saturday: "10:00 AM–2:00 PM"
   sunday: "Closed"
 photos: ["/photos/kumon-math-and-reading-centre-of-edmonton---westmount-1.jpg", "/photos/kumon-math-and-reading-centre-of-edmonton---westmount-2.jpg", "/photos/kumon-math-and-reading-centre-of-edmonton---westmount-3.jpg"]
 rating: 5

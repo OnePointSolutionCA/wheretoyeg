@@ -11,15 +11,15 @@ website: "https://www.menyamori.com/"
 google_maps_url: "https://maps.google.com/?cid=12988107718640845314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "11:00 AM - 2:00 PM, 4:00 - 8:30 PM"
-  wednesday: "11:00 AM - 2:00 PM, 4:00 - 8:30 PM"
-  thursday: "11:00 AM - 2:00 PM, 4:00 - 8:30 PM"
-  friday: "11:00 AM - 2:00 PM, 4:00 - 8:30 PM"
-  saturday: "11:00 AM - 2:00 PM, 4:00 - 8:30 PM"
-  sunday: "11:00 AM - 2:00 PM, 4:00 - 8:30 PM"
+  tuesday: "11:00 AM–2:00 PM"
+  wednesday: "11:00 AM–2:00 PM"
+  thursday: "11:00 AM–2:00 PM"
+  friday: "11:00 AM–2:00 PM"
+  saturday: "11:00 AM–2:00 PM"
+  sunday: "11:00 AM–2:00 PM"
 photos: ["/photos/menya-mori-1.jpg", "/photos/menya-mori-2.jpg", "/photos/menya-mori-3.jpg"]
 rating: 4.7
-review_count: 656
+review_count: 659
 price_range: "$$"
 amenities:
   - "Dine-In"

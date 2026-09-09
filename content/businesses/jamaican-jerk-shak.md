@@ -11,16 +11,16 @@ phone: "(780) 250-5375"
 website: "https://www.instagram.com/jamaicanjerkshak876/"
 google_maps_url: "https://maps.google.com/?cid=8064606995876031623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 9:30 PM"
-  tuesday: "11:00 AM - 9:30 PM"
-  wednesday: "11:00 AM - 9:30 PM"
-  thursday: "11:00 AM - 9:30 PM"
-  friday: "11:00 AM - 9:30 PM"
-  saturday: "11:00 AM - 9:30 PM"
-  sunday: "11:00 AM - 6:30 PM"
+  monday: "11:00 AM–9:30 PM"
+  tuesday: "11:00 AM–9:30 PM"
+  wednesday: "11:00 AM–9:30 PM"
+  thursday: "11:00 AM–9:30 PM"
+  friday: "11:00 AM–9:30 PM"
+  saturday: "11:00 AM–9:30 PM"
+  sunday: "11:00 AM–6:30 PM"
 photos: ["/photos/jamaican-jerk-shak-1.jpg", "/photos/jamaican-jerk-shak-2.jpg", "/photos/jamaican-jerk-shak-3.jpg"]
 rating: 4.7
-review_count: 370
+review_count: 374
 price_range: "$"
 amenities:
   - "Dine-In"

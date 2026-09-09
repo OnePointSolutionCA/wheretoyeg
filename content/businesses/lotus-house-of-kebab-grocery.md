@@ -11,16 +11,16 @@ phone: "(438) 990-9380"
 website: "https://lotus-gallery.com/cafe"
 google_maps_url: "https://maps.google.com/?cid=15060439549032525622&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 8:00 PM"
-  tuesday: "11:30 AM - 8:00 PM"
-  wednesday: "11:30 AM - 10:00 PM"
-  thursday: "11:30 AM - 10:00 PM"
-  friday: "11:30 AM - 10:00 PM"
-  saturday: "9:00 AM - 10:00 PM"
-  sunday: "9:00 AM - 10:00 PM"
+  monday: "12:00 PM–8:00 PM"
+  tuesday: "11:30 AM–8:00 PM"
+  wednesday: "11:30 AM–10:00 PM"
+  thursday: "11:30 AM–10:00 PM"
+  friday: "11:30 AM–10:00 PM"
+  saturday: "9:00 AM–10:00 PM"
+  sunday: "9:00 AM–10:00 PM"
 photos: ["/photos/lotus-house-of-kebab-grocery-1.jpg", "/photos/lotus-house-of-kebab-grocery-2.jpg", "/photos/lotus-house-of-kebab-grocery-3.jpg"]
 rating: 4.7
-review_count: 505
+review_count: 508
 price_range: "$$"
 amenities:
   - "Dine-In"

@@ -11,16 +11,16 @@ phone: "(587) 414-5336"
 website: "https://luficuisine.ca/"
 google_maps_url: "https://maps.google.com/?cid=14229207388490021096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 12:00 AM"
-  tuesday: "11:00 AM - 12:00 AM"
-  wednesday: "11:00 AM - 12:00 AM"
-  thursday: "11:00 AM - 12:00 AM"
-  friday: "11:00 AM - 12:00 AM"
-  saturday: "11:00 AM - 12:00 AM"
-  sunday: "11:00 AM - 12:00 AM"
+  monday: "11:00 AM–12:00 AM"
+  tuesday: "11:00 AM–12:00 AM"
+  wednesday: "11:00 AM–12:00 AM"
+  thursday: "11:00 AM–12:00 AM"
+  friday: "11:00 AM–12:00 AM"
+  saturday: "11:00 AM–12:00 AM"
+  sunday: "11:00 AM–12:00 AM"
 photos: ["/photos/lufi-indian-cuisine-1.jpg", "/photos/lufi-indian-cuisine-2.jpg", "/photos/lufi-indian-cuisine-3.jpg"]
-rating: 4.9
-review_count: 308
+rating: 4.8
+review_count: 316
 price_range: "$$"
 amenities:
   - "Halal"

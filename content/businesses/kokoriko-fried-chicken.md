@@ -11,16 +11,16 @@ phone: "(780) 244-5692"
 website: "https://order.online/business/kokoriko-fried-chicken127st-lucky-14189957"
 google_maps_url: "https://maps.google.com/?cid=2073553857698764620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 7:00 PM"
-  tuesday: "11:00 AM - 7:00 PM"
-  wednesday: "11:00 AM - 7:00 PM"
-  thursday: "11:00 AM - 7:00 PM"
-  friday: "11:00 AM - 8:00 PM"
-  saturday: "11:00 AM - 8:00 PM"
-  sunday: "11:00 AM - 7:30 PM"
+  monday: "11:00 AM–7:00 PM"
+  tuesday: "11:00 AM–7:00 PM"
+  wednesday: "11:00 AM–7:00 PM"
+  thursday: "11:00 AM–7:00 PM"
+  friday: "11:00 AM–8:00 PM"
+  saturday: "11:00 AM–8:00 PM"
+  sunday: "11:00 AM–7:30 PM"
 photos: ["/photos/kokoriko-fried-chicken-1.jpg", "/photos/kokoriko-fried-chicken-2.jpg", "/photos/kokoriko-fried-chicken-3.jpg"]
 rating: 5
-review_count: 22
+review_count: 24
 price_range: "$"
 amenities:
   - "Dine-In"

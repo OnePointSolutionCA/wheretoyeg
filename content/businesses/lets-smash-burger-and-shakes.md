@@ -11,16 +11,16 @@ phone: "(780) 244-6969"
 website: "http://letssmashburgers.com/"
 google_maps_url: "https://maps.google.com/?cid=17839182221411772132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 2:00 AM"
-  tuesday: "11:00 AM - 2:00 AM"
-  wednesday: "11:00 AM - 2:00 AM"
-  thursday: "11:00 AM - 2:00 AM"
-  friday: "11:00 AM - 4:00 AM"
-  saturday: "11:00 AM - 4:00 AM"
-  sunday: "11:00 AM - 12:00 AM"
+  monday: "11:00 AM–2:00 AM"
+  tuesday: "11:00 AM–2:00 AM"
+  wednesday: "11:00 AM–2:00 AM"
+  thursday: "11:00 AM–2:00 AM"
+  friday: "11:00 AM–4:00 AM"
+  saturday: "11:00 AM–4:00 AM"
+  sunday: "11:00 AM–12:00 AM"
 photos: ["/photos/lets-smash-burger-and-shakes-1.jpg", "/photos/lets-smash-burger-and-shakes-2.jpg", "/photos/lets-smash-burger-and-shakes-3.jpg"]
 rating: 4.7
-review_count: 948
+review_count: 953
 price_range: "$"
 amenities:
   - "Dine-In"

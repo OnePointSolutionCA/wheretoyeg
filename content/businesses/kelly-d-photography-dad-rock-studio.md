@@ -11,16 +11,16 @@ phone: "(587) 991-4301"
 website: "http://www.dadrockstudio.ca/"
 google_maps_url: "https://maps.google.com/?cid=3060454546987305485&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 9:00 PM"
-  tuesday: "8:00 AM - 9:00 PM"
-  wednesday: "8:00 AM - 9:00 PM"
-  thursday: "8:00 AM - 9:00 PM"
-  friday: "8:00 AM - 9:00 PM"
-  saturday: "8:00 AM - 9:00 PM"
-  sunday: "8:00 AM - 9:00 PM"
+  monday: "8:00 AM–9:00 PM"
+  tuesday: "8:00 AM–9:00 PM"
+  wednesday: "8:00 AM–9:00 PM"
+  thursday: "8:00 AM–9:00 PM"
+  friday: "8:00 AM–9:00 PM"
+  saturday: "8:00 AM–9:00 PM"
+  sunday: "8:00 AM–9:00 PM"
 photos: ["/photos/kelly-d-photography-dad-rock-studio-1.jpg", "/photos/kelly-d-photography-dad-rock-studio-2.jpg", "/photos/kelly-d-photography-dad-rock-studio-3.jpg"]
-rating: 4.9
-review_count: 23
+rating: 4.7
+review_count: 24
 price_range: "$$"
 amenities:
 

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/joannes-food-truck-catering-1.jpg", "/photos/joannes-food-truck-catering-2.jpg", "/photos/joannes-food-truck-catering-3.jpg"]
 rating: 4.5
-review_count: 222
+review_count: 223
 price_range: "$$"
 amenities:
 

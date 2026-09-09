@@ -11,16 +11,16 @@ phone: "(780) 447-4331"
 website: "https://www.jddoors.ca/"
 google_maps_url: "https://maps.google.com/?cid=17315250786675883927&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 5:00 PM"
-  tuesday: "8:00 AM - 5:00 PM"
-  wednesday: "8:00 AM - 5:00 PM"
-  thursday: "8:00 AM - 5:00 PM"
-  friday: "8:00 AM - 4:00 PM"
+  monday: "8:00 AM–5:00 PM"
+  tuesday: "8:00 AM–5:00 PM"
+  wednesday: "8:00 AM–5:00 PM"
+  thursday: "8:00 AM–5:00 PM"
+  friday: "8:00 AM–4:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/jd-doors-inc-1.jpg", "/photos/jd-doors-inc-2.jpg", "/photos/jd-doors-inc-3.jpg"]
 rating: 4.8
-review_count: 184
+review_count: 183
 price_range: "$$"
 amenities:
 

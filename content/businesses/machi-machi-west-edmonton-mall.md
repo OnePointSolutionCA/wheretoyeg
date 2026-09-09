@@ -11,16 +11,16 @@ phone: "(587) 487-4765"
 website: "https://www.machimachi.ca/"
 google_maps_url: "https://maps.google.com/?cid=6347465061328685621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 9:00 PM"
-  tuesday: "10:00 AM - 9:00 PM"
-  wednesday: "10:00 AM - 9:00 PM"
-  thursday: "10:00 AM - 9:00 PM"
-  friday: "10:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 9:00 PM"
-  sunday: "11:00 AM - 6:00 PM"
+  monday: "10:00 AM–9:00 PM"
+  tuesday: "10:00 AM–9:00 PM"
+  wednesday: "10:00 AM–9:00 PM"
+  thursday: "10:00 AM–9:00 PM"
+  friday: "10:00 AM–9:00 PM"
+  saturday: "10:00 AM–9:00 PM"
+  sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/machi-machi-west-edmonton-mall-1.jpg", "/photos/machi-machi-west-edmonton-mall-2.jpg", "/photos/machi-machi-west-edmonton-mall-3.jpg"]
-rating: 4.6
-review_count: 37
+rating: 4.5
+review_count: 36
 price_range: "$$"
 amenities:
 

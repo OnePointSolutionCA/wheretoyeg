@@ -11,16 +11,16 @@ phone: "(780) 425-2226"
 website: "http://www.marcosfamous.net/"
 google_maps_url: "https://maps.google.com/?cid=317616977656673953&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 12:00 AM"
-  tuesday: "11:00 AM - 12:00 AM"
-  wednesday: "11:00 AM - 12:00 AM"
-  thursday: "11:00 AM - 3:00 AM"
-  friday: "11:00 AM - 3:00 AM"
-  saturday: "11:00 AM - 3:00 AM"
-  sunday: "11:00 AM - 12:00 AM"
+  monday: "11:00 AM–12:00 AM"
+  tuesday: "11:00 AM–12:00 AM"
+  wednesday: "11:00 AM–12:00 AM"
+  thursday: "11:00 AM–3:00 AM"
+  friday: "11:00 AM–3:00 AM"
+  saturday: "11:00 AM–3:00 AM"
+  sunday: "11:00 AM–12:00 AM"
 photos: ["/photos/marcos-famous-1.jpg", "/photos/marcos-famous-2.jpg", "/photos/marcos-famous-3.jpg"]
 rating: 4.6
-review_count: 1680
+review_count: 1688
 price_range: "$"
 amenities:
   - "Halal"

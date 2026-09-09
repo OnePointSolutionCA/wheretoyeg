@@ -11,16 +11,16 @@ phone: "(780) 478-7977"
 website: "https://bit.ly/luvie-nails-online-booking"
 google_maps_url: "https://maps.google.com/?cid=17552919905681264119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 7:00 PM"
-  tuesday: "10:00 AM - 7:00 PM"
-  wednesday: "10:00 AM - 7:00 PM"
-  thursday: "10:00 AM - 7:00 PM"
-  friday: "10:00 AM - 7:00 PM"
-  saturday: "10:00 AM - 6:00 PM"
+  monday: "10:00 AM–7:00 PM"
+  tuesday: "10:00 AM–7:00 PM"
+  wednesday: "10:00 AM–7:00 PM"
+  thursday: "10:00 AM–7:00 PM"
+  friday: "10:00 AM–7:00 PM"
+  saturday: "10:00 AM–6:00 PM"
   sunday: "Closed"
 photos: ["/photos/luvie-nails-spa-1.jpg", "/photos/luvie-nails-spa-2.jpg", "/photos/luvie-nails-spa-3.jpg"]
 rating: 4.9
-review_count: 518
+review_count: 522
 price_range: "$$$"
 amenities:
 

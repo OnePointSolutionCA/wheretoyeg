@@ -15,14 +15,26 @@ photos:
 reviews:
   - name: "Corissa L"
     rating: 5
-    comment: "Highly recommend! She does a fantastic job and is fast! I am always impressed with how my hair turns out exactly how I was wanting it, if not even better!  😊  I have always struggled to find a good hair dresser. Kaity is my go to person."
+    comment: |
+      Highly recommend! She does a fantastic job and is fast! I am always impressed with how my hair turns out exactly how I was wanting it, if not even better!  😊
+      
+      I have always struggled to find a good hair dresser. Kaity is my go to person.
   - name: "Paige Gielen"
     rating: 5
-    comment: "Kaity is THE GIRL! I’ve been going for almost a year now, and she has slayed every nail set i have had! I have never broken a nail! EVER! As someone who is very rough, I have been able to have nice, beautiful long nails! She is the bestest!"
+    comment: |
+      Kaity is THE GIRL! I’ve been going for almost a year now, and she has slayed every nail set i have had! I have never broken a nail! EVER! As someone who is very rough, I have been able to have nice, beautiful long nails! She is the bestest!
   - name: "Kendall Franklin"
     rating: 5
-    comment: "Had a wonderful experience getting my hair done! So friendly, welcoming and great transparent pricing! Definitely recommend!"
+    comment: |
+      Had a wonderful experience getting my hair done! So friendly, welcoming and great transparent pricing! Definitely recommend!
+  - name: "Cersten Lyons"
+    rating: 5
+    comment: |
+      Katie is your girl!! Just absolutely love the trust we have built up, she is so helpful in communicating the process for colouring. I’ve had my hair botched before by “hair dressers”. She is so easy to get along with, and fun! Now even a coffee bar set up which is amazing! Just love seeing her and getting my hair done!
   - name: "Charleen Rooney"
     rating: 5
-    comment: "Very lovely young woman! She is very knowledgeable and helped me figure out how to style my hair after years of wearing it up for work. I will certainly be going to see her anytime I need a trim, and will be taking my daughter to her from now on as well."
+    comment: |
+      Very lovely young woman!
+      She is very knowledgeable and helped me figure out how to style my hair after years of wearing it up for work.
+      I will certainly be going to see her anytime I need a trim, and will be taking my daughter to her from now on as well.
 ---

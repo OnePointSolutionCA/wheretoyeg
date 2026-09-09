@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "Multiple locations"
 google_maps_url: "https://maps.google.com/?q=Liberty%20Tax%20Edmonton%20Edmonton"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
+  monday: "9:00 AM–4:00 PM"
+  tuesday: "9:00 AM–4:00 PM"
+  wednesday: "9:00 AM–4:00 PM"
+  thursday: "9:00 AM–4:00 PM"
+  friday: "9:00 AM–4:00 PM"
+  saturday: "10:00 AM–2:00 PM"
   sunday: "Closed"
 photos: ["/photos/liberty-tax-edmonton-1.jpg", "/photos/liberty-tax-edmonton-2.jpg", "/photos/liberty-tax-edmonton-3.jpg"]
-rating: 4.4
-review_count: 220
+rating: 4.7
+review_count: 129
 price_range: "$$"
 amenities:
   - "Walk-Ins"

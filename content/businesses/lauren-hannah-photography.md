@@ -11,13 +11,13 @@ phone: "(587) 709-1447"
 website: "https://www.laurenhannahphoto.com/"
 google_maps_url: "https://maps.google.com/?cid=7702355310357600410&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 9:00 PM"
-  tuesday: "10:00 AM - 9:00 PM"
-  wednesday: "10:00 AM - 9:00 PM"
-  thursday: "10:00 AM - 9:00 PM"
-  friday: "10:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 9:00 PM"
-  sunday: "10:00 AM - 5:00 PM"
+  monday: "10:00 AM–9:00 PM"
+  tuesday: "10:00 AM–9:00 PM"
+  wednesday: "10:00 AM–9:00 PM"
+  thursday: "10:00 AM–9:00 PM"
+  friday: "10:00 AM–9:00 PM"
+  saturday: "10:00 AM–9:00 PM"
+  sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/lauren-hannah-photography-1.jpg", "/photos/lauren-hannah-photography-2.jpg", "/photos/lauren-hannah-photography-3.jpg"]
 rating: 5
 review_count: 79

@@ -11,13 +11,13 @@ phone: "(825) 223-0381"
 website: "http://stalbertmacao2025.com/"
 google_maps_url: "https://maps.google.com/?cid=1235084335493409233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 9:00 PM"
-  tuesday: "11:00 AM - 9:00 PM"
-  wednesday: "11:00 AM - 9:00 PM"
-  thursday: "11:00 AM - 9:00 PM"
-  friday: "11:00 AM - 9:00 PM"
-  saturday: "11:00 AM - 9:00 PM"
-  sunday: "11:00 AM - 9:00 PM"
+  monday: "11:00 AM–9:00 PM"
+  tuesday: "11:00 AM–9:00 PM"
+  wednesday: "11:00 AM–9:00 PM"
+  thursday: "11:00 AM–9:00 PM"
+  friday: "11:00 AM–9:00 PM"
+  saturday: "11:00 AM–9:00 PM"
+  sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/macao-imperial-tea-st-albert-1.jpg", "/photos/macao-imperial-tea-st-albert-2.jpg", "/photos/macao-imperial-tea-st-albert-3.jpg"]
 rating: 4.9
 review_count: 86

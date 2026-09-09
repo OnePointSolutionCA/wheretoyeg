@@ -11,13 +11,13 @@ phone: "(780) 406-0433"
 website: "http://kingcutsbarber.square.site/"
 google_maps_url: "https://maps.google.com/?cid=9988160920314737171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 7:00 PM"
-  tuesday: "9:00 AM - 7:00 PM"
-  wednesday: "10:00 AM - 7:00 PM"
-  thursday: "9:00 AM - 7:00 PM"
-  friday: "9:00 AM - 7:00 PM"
-  saturday: "9:00 AM - 6:00 PM"
-  sunday: "11:00 AM - 5:00 PM"
+  monday: "9:00 AM–7:00 PM"
+  tuesday: "9:00 AM–7:00 PM"
+  wednesday: "10:00 AM–7:00 PM"
+  thursday: "9:00 AM–7:00 PM"
+  friday: "9:00 AM–7:00 PM"
+  saturday: "9:00 AM–6:00 PM"
+  sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/king-cuts-barbershop-1.jpg", "/photos/king-cuts-barbershop-2.jpg", "/photos/king-cuts-barbershop-3.jpg"]
 rating: 4.9
 review_count: 425

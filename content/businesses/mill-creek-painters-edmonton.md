@@ -11,16 +11,16 @@ phone: "(587) 400-1475"
 website: "https://www.millcreekpainters.com/edmonton-painters/"
 google_maps_url: "https://maps.google.com/?cid=6498592588365938001&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 5:00 PM"
-  tuesday: "8:00 AM - 5:00 PM"
-  wednesday: "8:00 AM - 5:00 PM"
-  thursday: "8:00 AM - 5:00 PM"
-  friday: "8:00 AM - 5:00 PM"
-  saturday: "8:00 AM - 5:00 PM"
+  monday: "8:00 AM–5:00 PM"
+  tuesday: "8:00 AM–5:00 PM"
+  wednesday: "8:00 AM–5:00 PM"
+  thursday: "8:00 AM–5:00 PM"
+  friday: "8:00 AM–5:00 PM"
+  saturday: "8:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/mill-creek-painters-edmonton-1.jpg", "/photos/mill-creek-painters-edmonton-2.jpg", "/photos/mill-creek-painters-edmonton-3.jpg"]
-rating: 4.8
-review_count: 206
+rating: 4.7
+review_count: 200
 price_range: "$$"
 amenities:
 

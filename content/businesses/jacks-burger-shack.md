@@ -11,16 +11,16 @@ phone: "(587) 525-4889"
 website: "http://jacksburgershack.ca/"
 google_maps_url: "https://maps.google.com/?cid=10590745016979848297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 7:00 PM"
-  tuesday: "11:00 AM - 7:00 PM"
-  wednesday: "11:00 AM - 7:00 PM"
-  thursday: "11:00 AM - 7:00 PM"
-  friday: "11:00 AM - 7:00 PM"
+  monday: "11:00 AM–7:00 PM"
+  tuesday: "11:00 AM–7:00 PM"
+  wednesday: "11:00 AM–7:00 PM"
+  thursday: "11:00 AM–7:00 PM"
+  friday: "11:00 AM–7:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/jacks-burger-shack-1.jpg", "/photos/jacks-burger-shack-2.jpg", "/photos/jacks-burger-shack-3.jpg"]
 rating: 4.6
-review_count: 338
+review_count: 340
 price_range: "$"
 amenities:
   - "Dine-In"

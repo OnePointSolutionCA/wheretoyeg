@@ -13,15 +13,15 @@ website: "https://www.kuminailbeautybar.com"
 google_maps_url: "https://maps.google.com/?q=Kumi+Nail+Loft+Edmonton"
 hours:
   monday: "Closed"
-  tuesday: "12:00 PM - 8:00 PM"
-  wednesday: "12:00 PM - 8:00 PM"
-  thursday: "12:00 PM - 8:00 PM"
-  friday: "11:00 AM - 7:00 PM"
-  saturday: "10:00 AM - 4:30 PM"
+  tuesday: "12:00 PM–8:00 PM"
+  wednesday: "12:00 PM–8:00 PM"
+  thursday: "12:00 PM–8:00 PM"
+  friday: "11:00 AM–7:00 PM"
+  saturday: "10:00 AM–4:30 PM"
   sunday: "Closed"
 photos: ["/photos/kumi-nail-loft-1.jpg", "/photos/kumi-nail-loft-2.jpg", "/photos/kumi-nail-loft-3.jpg"]
-rating: 4.4
-review_count: 96
+rating: 4.5
+review_count: 97
 price_range: "$$"
 amenities:
   - "Gel Nails"

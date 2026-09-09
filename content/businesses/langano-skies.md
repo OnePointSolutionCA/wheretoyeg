@@ -17,8 +17,8 @@ hours:
   saturday: "11:00 AM - 11:00 PM"
   sunday: "11:00 AM - 9:00 PM"
 photos: ["/photos/langano-skies-1.jpg", "/photos/langano-skies-2.jpg", "/photos/langano-skies-3.jpg"]
-rating: 4.6
-review_count: 195
+rating: 4.5
+review_count: 374
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -29,40 +29,41 @@ tags: ["ethiopian", "vegan-friendly", "communal"]
 active: true
 date_listed: "2026-08-18"
 reviews:
-  - name: "Amanda Hyde"
+  - name: "Jetset Bless"
     rating: 5
     comment: |
-      I am biased because I love Ethiopian food already 🥰 but this restaurant is one of my top Ethiopian restaurants that I've been to in terms of food quality, and the amount of injera we were provided!
-      We ordered the largest tray to share amongst four people and we all left full!
-      All the included dishes were savory and delicious with a nice mix of both high/low spice and veg/meat. If I lived in Edmonton I would like to go there once a week 😁
-      I gave lower stars for atmosphere only because they were playing some type of new age music that was making us sleepy, and I would much rather have heard some traditional Ethiopian music or related genre.
-      But overall, fantastic!
-  - name: "Terrence Leung"
+      Langano Skies is a true culinary gem. This was my first time trying Ethiopian cuisine, and I was pleasantly surprised—every dish was bold, authentic, and thoughtfully crafted. From the perfectly spiced stews to the traditional injera, each bite was rich, satisfying, and unforgettable.
+      
+      The atmosphere strikes a perfect balance between welcoming and elevated, with attentive staff who make the dining experience smooth and memorable. Whether you’re new to Ethiopian food or a longtime fan, Langano Skies delivers a meal that feels both indulgent and culturally immersive. 🍽️
+  - name: "Morgan"
     rating: 5
     comment: |
-      It is my first time trying African food. We ordered two main and two coffee. It tastes good and appetising. The mains are like a wrap, but soft pancake version. While, luckily I ask them to offer me a fork, or it would be too messy for non Africans like me to have it by hand.
+      The service we had here was absolutely phenomenal. Gave great explanations, recommendations and was keen on our needs.
+      The food itself was delicious! I've had Ethiopian food before but only at festivals. Communal eating and eating with your hands is pretty dang fun.
       
-      I really recommend you to order the coffee, as it comes with a burning spice , which has a sense of ritual.
-      
-      The environment is decent and the owner is so nice !
-      
-      We will come over again and try something else.
-  - name: "Kayleen F"
+      Overall I'd recommend to come here with a group to get the full experience. Highly recommended!
+  - name: "Harikrishna Rao Mohan Rao"
     rating: 5
     comment: |
-      Great food for lunch.
-      
-      The restaurant is friendly and clean and has nice African music playing.
-      
-      If you haven't had Ethiopian before, you can ask what's good. We had the spicy chicken and beef Tibbs and both were awesome. The tea was nice as well.
-  - name: "Daniel Wollin"
+      5/5. One of my greatest discoveries for food!!!
+      A quiet place with good ambience, very friendly staff! Food is exquisite (extra star if you are fond of spicy food), generous in quantity (portions), and reasonable price for all the above combined! It is definitely an experience. Friday night combo (vegetarian) is a must try! Ethiopian Coffee and KATEGNA is highly recommended. They patiently and passionately walk you through menu, and explain what to expect- Extra star for the service.
+  - name: "Moon Jama"
     rating: 5
     comment: |
-      We had an amazing dinner here! Everything was full of flavour and delicious. We had the mix platter which was a great way to try many different tastes. There was also plenty of injera bread to go with the dishes. The coffee and tea that we finished our meal with was fantastic! Would highly recommend this spot, especially if you haven’t tried Ethiopian cuisine before!
-  - name: "Safa Musa"
+      Sooo! We found this beautiful family owned restaurant at the food truck at Folk Festival 2024. My fiancée and I fell in love and kept going to their food truck during the 4 day festival 🩷
+      
+      Today we ate in and brought our other family members. They only do dine in the 3rd Friday of every month; worth reserving the table! They still offer take out and pick up during the operating hours.
+      
+      It’s rare to find such customer service and the owners are hands on and they are amazing. Thank you all so much!!
+      
+      Simon was our server; he was so personable and attentive
+      And Amsale the owner always has a mothers touch and love to the food she makes
+      
+      This will be our family get together every month
+      
+      Thank you all!
+  - name: "John Andrawous"
     rating: 5
     comment: |
-      The food was so delicious and same test of the original taste 😍
-      The lady is so nice, she treats us with love and kindness. For sure will come again.
-      Highly recommended.
+      This place is a hidden gem! We reserved a table in-advance, and upon arrival we found out that they normally just do orders for delivery. The chef was very kind  to having us dine-in because we called. We started with a couple of sambusas, followed by a lamb dish and a spicy red lentils dish. We also had their special tea, and mango beverage. Everything was wonderful. The chef (I wish I got her name!) was super friendly and approachable, and frequently stopped by our table to check-in and socialize. She's amazing! Will happily come again!
 ---

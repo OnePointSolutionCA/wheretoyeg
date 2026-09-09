@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "South Edmonton"
 google_maps_url: "https://maps.google.com/?q=LaunchPad%20Trampoline%20Park%20Edmonton"
 hours:
-  monday: "12:00 PM - 10:00 PM"
-  tuesday: "12:00 PM - 10:00 PM"
-  wednesday: "12:00 PM - 10:00 PM"
-  thursday: "12:00 PM - 10:00 PM"
-  friday: "11:00 AM - 11:00 PM"
-  saturday: "10:00 AM - 11:00 PM"
-  sunday: "10:00 AM - 10:00 PM"
+  monday: "12:00 PM–9:30 PM"
+  tuesday: "12:00 PM–9:30 PM"
+  wednesday: "12:00 PM–9:30 PM"
+  thursday: "12:00 PM–9:30 PM"
+  friday: "10:00 AM–10:30 PM"
+  saturday: "10:00 AM–10:30 PM"
+  sunday: "11:30 AM–5:30 PM"
 photos: ["/photos/launchpad-trampoline-park-1.jpg", "/photos/launchpad-trampoline-park-2.jpg", "/photos/launchpad-trampoline-park-3.jpg"]
-rating: 4.4
-review_count: 720
+rating: 4.5
+review_count: 2276
 price_range: "$$"
 amenities:
   - "Toddler Zone"
@@ -29,38 +29,34 @@ tags: ["trampoline", "kids", "birthday-parties"]
 active: true
 date_listed: "2026-08-18"
 reviews:
-  - name: "Miranda Rehaume"
-    rating: 5
+  - name: "MaryBrian Gorner"
+    rating: 1
     comment: |
-      Had a great experience here!!
-      We were a last minute booking (2 days)
-      The team here was super accommodating, friendly and super easy to deal with.
-      Had no issues we me extending jump time (for a fee)
-      When booking a party space they provided the drinks apart plates and forks ..
-      tables and table cloth.
-      We ordered our pizza from their partner (pizza hut) and it came really fast !!
+      I’m so so disappointed! We absolutely love launch pad, because it’s always been one of the screen-free indoor play places in Edmonton (most of the other ones have arcades and such), where your kids can just jump and play and aren’t staring at a screen. However when my sister & I took our kids here yesterday, we were really disappointed to see they had installed some screens with games, and in the toddler area no less. You do have to bike to make the game work, so they’re at least getting some exercise, (however my 5 year old cut his foot on the pedal and was sobbing hysterically & wouldn’t jump the rest of the time).
       
-      We were allowed to bring in our own drinks, food and decorations  and they offered a fridge to store items until party time :)
+      My 7-year-old son has ADHD and I always loved that at launchpad I didn’t have to worry about him being distracted by a screen the whole time, (as we really limit his screen time/exposure at home), but this time I was constantly reminding him to go jump and play, and to stop playing the screen games.
       
-      The staff at this location are amazing !!
-      And a HUGE shout out to the assistant  manager -Tyler who made this experience so easy!!
-      Give that man a raise !!
-  - name: "Irma Trottier"
+      I think there is a time and place for screens, but this is an indoor trampoline park, not an arcade! Please consider taking the screens out!!
+  - name: "Keysha Buckley-Anderson"
     rating: 5
     comment: |
-      This place is great for birthday parties. It is so easy to manage the kids if you label their shirts as to which birthday party they belong to. The individual party room helps because the kids come back to the room to have quiet while they eat their food
-      It gives them the opportunity to visit with one another. They have a blast using the facility and time goes by fast.
-      My grandson's birthday party was a great success!😊
-  - name: "Sleepyjane"
-    rating: 5
+      Its great. The kids always have a fun time there.
+  - name: "Brian Snidal"
+    rating: 2
     comment: |
-      Went in on a wed the kids had a great time.  It was a deal day 3hr for the price of 1 and it was under 20 dollars. We had to buy socks i was thinking they would cost too much but under 5 dollars. They have a party area,  trampolines, little kid area and a couple claw games.  Great afternoon out with kids. Staff super friendly.
-  - name: "Amanda Falls"
-    rating: 5
+      We had our son’s ninth birthday at the west end location ( for some reason it nuts the review on this location) on a Thursday evening and it was so much fun for the kids. The location is great and lots of parking as well , the play area is tons of fun’s as well. We had a fair bit of issues with our “ VIP” package though. No “skipping the line” as promised and every item we signed up for had to be chased down and delayed everything along the way. The staff were very kind but you could tell they were not given a sufficient amount of support and had not been trained on most things. The room was cool, I did just clean it myself after though because I felt bad for the staff 🤷🏾‍♂️ fun place though, worth checking out. Oh and bring extra money if you want to sit down😂
+  - name: "Raya G"
+    rating: 4
     comment: |
-      My kids love the glow jumping! Always a blast! The new yarn structure is super  fun! Don't forget to wear white or bright!
-  - name: "Grap Fard"
-    rating: 5
+      I’ve been here many times and let me start with it is great! Very clean! Not a huge space so easy to keep track of ur kids. I do get a bit scared when my younger niece (4) goes in the squishy jump pad thing cause of the sides of it has got me stuck a few times.
+      
+      Fun to play for maybe a hour or a bit more but then it gets boring. Not much to do besides jump around.
+      A bit busy, kids knocking over kids quite a bit.
+      I will say the pictures on the website is not up to date. They have changed the place quite a bit.
+      
+      Despite all this, definitely recommend if ur kids like trampolines!
+  - name: "Candice Smiley"
+    rating: 4
     comment: |
-      We had a great time at launchpad. It started off with amazing check-in service at the front desk. The place is clean and organized for all ages to enjoy time together.
+      Highly recommend. The west end location has never foam - this one had small bits of foam coming off - so we won’t rerun until they replace the foam. The layout of this location is great.  Kids had fun.
 ---

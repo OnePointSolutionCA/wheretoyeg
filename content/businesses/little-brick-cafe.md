@@ -9,16 +9,16 @@ address: "10004 90 St NW"
 neighborhood: "Riverdale"
 google_maps_url: "https://maps.google.com/?q=Little%20Brick%20Cafe%20%26%20General%20Store%20Edmonton"
 hours:
-  monday: "7:00 AM - 6:00 PM"
-  tuesday: "7:00 AM - 6:00 PM"
-  wednesday: "7:00 AM - 6:00 PM"
-  thursday: "7:00 AM - 6:00 PM"
-  friday: "7:00 AM - 7:00 PM"
-  saturday: "8:00 AM - 7:00 PM"
-  sunday: "8:00 AM - 6:00 PM"
+  monday: "8:00 AM–2:00 PM"
+  tuesday: "8:00 AM–2:00 PM"
+  wednesday: "8:00 AM–2:00 PM"
+  thursday: "8:00 AM–2:00 PM"
+  friday: "8:00 AM–2:00 PM"
+  saturday: "8:00 AM–2:00 PM"
+  sunday: "8:00 AM–2:00 PM"
 photos: ["/photos/little-brick-cafe-1.jpg", "/photos/little-brick-cafe-2.jpg", "/photos/little-brick-cafe-3.jpg"]
-rating: 4.6
-review_count: 1600
+rating: 4.5
+review_count: 1492
 price_range: "$$"
 amenities:
   - "Brunch"

@@ -11,16 +11,16 @@ phone: "(780) 990-1820"
 website: "https://medigroup.ca/clinics/kensington-medical-clinic-and-pharmacy/"
 google_maps_url: "https://maps.google.com/?cid=17940717879139633438&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 7:00 PM"
-  tuesday: "9:00 AM - 7:00 PM"
-  wednesday: "9:00 AM - 7:00 PM"
-  thursday: "9:00 AM - 7:00 PM"
-  friday: "9:00 AM - 7:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
+  monday: "9:00 AM–7:00 PM"
+  tuesday: "9:00 AM–7:00 PM"
+  wednesday: "9:00 AM–7:00 PM"
+  thursday: "9:00 AM–7:00 PM"
+  friday: "9:00 AM–7:00 PM"
+  saturday: "10:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/kensington-medical-clinic-1.jpg", "/photos/kensington-medical-clinic-2.jpg", "/photos/kensington-medical-clinic-3.jpg"]
 rating: 2.9
-review_count: 680
+review_count: 684
 price_range: "$$"
 amenities:
 

@@ -11,16 +11,16 @@ phone: "(780) 455-6537"
 website: "http://www.ladybeas.ca/"
 google_maps_url: "https://maps.google.com/?cid=6488760880771690943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 4:00 PM"
+  monday: "11:00 AM–4:00 PM"
   tuesday: "Closed"
-  wednesday: "11:00 AM - 4:00 PM"
-  thursday: "11:00 AM - 4:00 PM"
-  friday: "11:00 AM - 4:00 PM"
-  saturday: "9:00 AM - 4:00 PM"
-  sunday: "9:00 AM - 4:00 PM"
+  wednesday: "11:00 AM–4:00 PM"
+  thursday: "11:00 AM–4:00 PM"
+  friday: "11:00 AM–4:00 PM"
+  saturday: "9:00 AM–4:00 PM"
+  sunday: "9:00 AM–4:00 PM"
 photos: ["/photos/lady-beas-english-tea-house-1.jpg", "/photos/lady-beas-english-tea-house-2.jpg", "/photos/lady-beas-english-tea-house-3.jpg"]
 rating: 4.5
-review_count: 553
+review_count: 556
 price_range: "$$"
 amenities:
   - "Dine-In"

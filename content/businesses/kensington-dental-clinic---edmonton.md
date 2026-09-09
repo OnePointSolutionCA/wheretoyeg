@@ -12,15 +12,15 @@ website: "https://kensingtondentalclinic.ca/?utm_source=GMB&utm_medium=seo&utm_c
 google_maps_url: "https://maps.google.com/?cid=10671656649904313720&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "11:00 AM - 7:00 PM"
-  thursday: "11:00 AM - 7:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "9:00 AM - 4:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "11:00 AM–7:00 PM"
+  thursday: "11:00 AM–7:00 PM"
+  friday: "9:00 AM–5:00 PM"
+  saturday: "9:00 AM–4:00 PM"
   sunday: "Closed"
 photos: ["/photos/kensington-dental-clinic---edmonton-1.jpg", "/photos/kensington-dental-clinic---edmonton-2.jpg", "/photos/kensington-dental-clinic---edmonton-3.jpg"]
 rating: 4.9
-review_count: 507
+review_count: 510
 price_range: "$$"
 amenities:
 

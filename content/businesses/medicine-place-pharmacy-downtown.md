@@ -12,13 +12,13 @@ phone: "780-784-2045"
 website: "https://medicineplace.ca"
 google_maps_url: "https://maps.google.com/?q=10660+105+St+NW+Edmonton"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "Closed"
-  sunday: "Closed"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
+  saturday: "10:00 AM–4:00 PM"
+  sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/medicine-place-pharmacy-downtown.jpg"]
 rating: 3.1
 review_count: 8
