@@ -9,16 +9,16 @@ address: "10009 108 St NW"
 neighborhood: "Downtown"
 google_maps_url: "https://maps.google.com/?q=Nomad%20Cafe%20Edmonton"
 hours:
-  monday: "7:00 AM - 6:00 PM"
-  tuesday: "7:00 AM - 6:00 PM"
-  wednesday: "7:00 AM - 6:00 PM"
-  thursday: "7:00 AM - 6:00 PM"
-  friday: "7:00 AM - 7:00 PM"
-  saturday: "8:00 AM - 7:00 PM"
-  sunday: "8:00 AM - 6:00 PM"
+  monday: "7:00 AM–4:00 PM"
+  tuesday: "7:00 AM–4:00 PM"
+  wednesday: "7:00 AM–4:00 PM"
+  thursday: "7:00 AM–7:00 PM"
+  friday: "7:00 AM–8:00 PM"
+  saturday: "8:00 AM–8:00 PM"
+  sunday: "8:00 AM–4:00 PM"
 photos: ["/photos/nomad-cafe-1.jpg", "/photos/nomad-cafe-2.jpg", "/photos/nomad-cafe-3.jpg"]
-rating: 4.5
-review_count: 380
+rating: 4.7
+review_count: 281
 price_range: "$$"
 amenities:
   - "Espresso"
@@ -29,35 +29,25 @@ tags: ["cafe", "coffee", "lunch", "laptop-friendly"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Emily"
-    rating: 3
-    comment: |
-      I stopped by Nomad Café for lunch after seeing the positive reviews and decided to give it a try.
-      
-      The biggest highlight of my visit was the staff. Everyone was incredibly kind and welcoming, and I witnessed a genuinely heartwarming moment while I was there. A young girl came in to purchase something but was about $0.70 short when paying cash. The employee working the register quietly covered the difference out of her own pocket so the girl could get what she wanted. It was a small gesture that spoke volumes about the kindness of the team.
-      
-      Unfortunately, the food itself left me disappointed. We ordered two club sandwiches and two refreshers, which came to approximately $58. At $18.50 per sandwich, I was expecting something a little more substantial and fresh. Instead, the bread was only lightly toasted and became soggy, the chicken was quite chewy, the bacon was softly cooked, and the tomato was mushy. The sandwiches were also served with plain Ruffles chips placed in a separate takeout container, which felt underwhelming considering the price point.
-      It's unfortunate because there are several local sandwich shops that offer fresher, more impressive sandwiches for less money.
-      
-      While I truly appreciated the kindness of the staff, the overall food quality and value didn't meet my expectations, and I don't think I'll be returning.
-  - name: "Jiyoung Seol"
-    rating: 5
-    comment: |
-      We dropped by in the afternoon and really enjoyed our time here. The cafe has a cozy, welcoming vibe, and the staff were so kind and attentive. The drinks were absolutely delicious too! We’ll definitely be coming back again.
-  - name: "cg"
-    rating: 5
-    comment: |
-      An excellent medium sized cafe with a giant tv. I had a heated scone which is nothing like a "western" one. It was very soft with berries, and that puddingy softness combined with the fact that it wasn't over sweetened was a nice change of pace.
-      
-      Also had a black iced Americano. Delicious and not bitter (though I like those too) like some are. Smooth. Service was also great. She brought everything to my spot at the end of a very comfy couch at the back.
-  - name: "Twitchy"
+  - name: "Jean Pierre Kathoefer"
     rating: 4
     comment: |
-      Stopped in on a recent weekend afternoon for coffee and refreshers. Our drinks were good and the service by the single person working was ok. There was lots of parking available outside at the time of our visit.
-  - name: "Alice H"
+      Nice neighborhood coffee spot with a friendly staff and a welcoming vibe. The coffee was really good and exactly what you want from a solid local café. It has that typical coffee shop atmosphere where most tables are filled with people working on their laptops, which makes it feel lively but still relaxed. A good place to grab a coffee and spend some time.
+  - name: "K D"
+    rating: 4
+    comment: |
+      Great breakfast and coffee option in the Ridgewood,Queens area
+      We have the egg and cheese croissant and the coffee .The ambience is relaxing and Highly recommended
+  - name: "Sierraf234"
     rating: 5
     comment: |
-      Super cute and cozy caffé… I was served by Aurora and Princess, such warm & lovely ladies.
-      
-      Definitely recommend this spot🥰
+      I absolutely love this coffee shop! My fiancé & I come here all the time and the staff are always so friendly and welcoming. The coffee and food are consistently delicious. It’s become one of our favorite spots to come to. One of the things that makes this place extra special is how kind they are to our dogs, they always greet them and even give them a little turkey treat, which they absolutely love. Highly recommend!
+  - name: "Luisanaandrea"
+    rating: 5
+    comment: |
+      Stopped by for breakfast with my daughter, the atmosphere is beautiful and inviting, the menu was straight forward. My daughter had the peach matcha with an everything bagel and cream cheese. I had the cheddar smash browns which was the perfect blend of cheese, egg, potatoes, caramelized onion, siracha and chives. The service was welcoming and helpful as it was my first time there and I had questions on what was recommended. I’ve been back twice after and will be visiting more often.
+  - name: "Naile Ruiz"
+    rating: 5
+    comment: |
+      Great breakfast spot! It's not too cold yet so the outside seating was greatly appreciated. The worker there was super sweet and got my group everything we needed.
 ---

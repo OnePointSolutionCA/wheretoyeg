@@ -11,13 +11,13 @@ phone: "(780) 501-7809"
 website: "http://www.nestlandscaping.com/"
 google_maps_url: "https://maps.google.com/?cid=10851620389569340531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 10:00 PM"
-  tuesday: "8:00 AM - 10:00 PM"
-  wednesday: "8:00 AM - 10:00 PM"
-  thursday: "8:00 AM - 10:00 PM"
-  friday: "8:00 AM - 10:00 PM"
-  saturday: "8:00 AM - 10:00 PM"
-  sunday: "8:00 AM - 10:00 PM"
+  monday: "8:00 AM–10:00 PM"
+  tuesday: "8:00 AM–10:00 PM"
+  wednesday: "8:00 AM–10:00 PM"
+  thursday: "8:00 AM–10:00 PM"
+  friday: "8:00 AM–10:00 PM"
+  saturday: "8:00 AM–10:00 PM"
+  sunday: "8:00 AM–10:00 PM"
 photos: ["/photos/nest-landscaping-ltd-1.jpg", "/photos/nest-landscaping-ltd-2.jpg", "/photos/nest-landscaping-ltd-3.jpg"]
 rating: 4.9
 review_count: 125

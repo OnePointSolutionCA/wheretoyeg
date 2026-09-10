@@ -11,16 +11,16 @@ phone: "(587) 410-4105"
 website: "https://www.overklocked.com/"
 google_maps_url: "https://maps.google.com/?cid=13766871791961806138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 PM - 1:00 AM"
-  tuesday: "12:00 PM - 1:00 AM"
-  wednesday: "12:00 PM - 1:00 AM"
-  thursday: "12:00 PM - 1:00 AM"
-  friday: "12:00 PM - 3:00 AM"
-  saturday: "11:00 AM - 3:00 AM"
-  sunday: "11:00 AM - 1:00 AM"
+  monday: "12:00 PM–1:00 AM"
+  tuesday: "12:00 PM–1:00 AM"
+  wednesday: "12:00 PM–1:00 AM"
+  thursday: "12:00 PM–1:00 AM"
+  friday: "12:00 PM–3:00 AM"
+  saturday: "11:00 AM–3:00 AM"
+  sunday: "11:00 AM–1:00 AM"
 photos: ["/photos/overklocked-gaming-1.jpg", "/photos/overklocked-gaming-2.jpg", "/photos/overklocked-gaming-3.jpg"]
 rating: 4.6
-review_count: 449
+review_count: 451
 price_range: "$$"
 amenities:
   - "Dine-In"

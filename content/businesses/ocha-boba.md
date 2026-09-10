@@ -11,13 +11,13 @@ phone: "(780) 760-9940"
 website: "https://www.instagram.com/ochabobacanada"
 google_maps_url: "https://maps.google.com/?cid=951903581660081890&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 10:00 PM"
-  tuesday: "12:00 - 10:00 PM"
-  wednesday: "12:00 - 10:00 PM"
-  thursday: "12:00 - 10:00 PM"
-  friday: "12:00 - 10:00 PM"
-  saturday: "12:00 - 10:00 PM"
-  sunday: "12:00 - 9:00 PM"
+  monday: "12:00 PM–10:00 PM"
+  tuesday: "12:00 PM–10:00 PM"
+  wednesday: "12:00 PM–10:00 PM"
+  thursday: "12:00 PM–10:00 PM"
+  friday: "12:00 PM–10:00 PM"
+  saturday: "12:00 PM–10:00 PM"
+  sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/ocha-boba-1.jpg", "/photos/ocha-boba-2.jpg", "/photos/ocha-boba-3.jpg"]
 rating: 4.4
 review_count: 583

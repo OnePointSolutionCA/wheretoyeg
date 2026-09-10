@@ -11,16 +11,16 @@ phone: "(825) 402-5996"
 website: "https://instagram.com/oxfordbarbershop.yeg?igshid=ZDdkNTZiNTM="
 google_maps_url: "https://maps.google.com/?cid=1005105463799446916&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:30 AM - 7:30 PM"
-  tuesday: "9:30 AM - 7:30 PM"
-  wednesday: "9:30 AM - 7:30 PM"
-  thursday: "9:30 AM - 7:30 PM"
-  friday: "9:30 AM - 7:30 PM"
-  saturday: "9:30 AM - 6:30 PM"
-  sunday: "11:00 AM - 5:00 PM"
+  monday: "9:30 AM–7:30 PM"
+  tuesday: "9:30 AM–7:30 PM"
+  wednesday: "9:30 AM–7:30 PM"
+  thursday: "9:30 AM–7:30 PM"
+  friday: "9:30 AM–7:30 PM"
+  saturday: "9:30 AM–6:30 PM"
+  sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/oxford-barbershop-1.jpg", "/photos/oxford-barbershop-2.jpg", "/photos/oxford-barbershop-3.jpg"]
 rating: 4.8
-review_count: 237
+review_count: 238
 price_range: "$$"
 amenities:
 

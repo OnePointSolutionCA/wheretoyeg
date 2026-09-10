@@ -11,13 +11,13 @@ phone: "(780) 444-5300"
 website: "https://www.wem.ca/play/attractions/professor-wems-adventure-golf"
 google_maps_url: "https://maps.google.com/?cid=14680954257439847438&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 9:00 PM"
-  tuesday: "12:00 - 9:00 PM"
-  wednesday: "12:00 - 9:00 PM"
-  thursday: "12:00 - 9:00 PM"
-  friday: "12:00 - 9:00 PM"
-  saturday: "10:00 AM - 9:00 PM"
-  sunday: "11:00 AM - 6:00 PM"
+  monday: "12:00 PM–9:00 PM"
+  tuesday: "12:00 PM–9:00 PM"
+  wednesday: "12:00 PM–9:00 PM"
+  thursday: "12:00 PM–9:00 PM"
+  friday: "12:00 PM–9:00 PM"
+  saturday: "10:00 AM–9:00 PM"
+  sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/professor-wems-adventure-golf-1.jpg", "/photos/professor-wems-adventure-golf-2.jpg", "/photos/professor-wems-adventure-golf-3.jpg"]
 rating: 4.3
 review_count: 281

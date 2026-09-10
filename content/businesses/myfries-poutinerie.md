@@ -11,12 +11,12 @@ phone: "(780) 487-4873"
 website: "http://www.myfries.ca/"
 google_maps_url: "https://maps.google.com/?cid=9568500981732178314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 8:00 PM"
-  tuesday: "11:00 AM - 8:00 PM"
-  wednesday: "11:00 AM - 8:00 PM"
-  thursday: "11:00 AM - 8:00 PM"
-  friday: "11:00 AM - 8:00 PM"
-  saturday: "11:00 AM - 8:00 PM"
+  monday: "11:00 AM–8:00 PM"
+  tuesday: "11:00 AM–8:00 PM"
+  wednesday: "11:00 AM–8:00 PM"
+  thursday: "11:00 AM–8:00 PM"
+  friday: "11:00 AM–8:00 PM"
+  saturday: "11:00 AM–8:00 PM"
   sunday: "Closed"
 photos: ["/photos/myfries-poutinerie-1.jpg", "/photos/myfries-poutinerie-2.jpg", "/photos/myfries-poutinerie-3.jpg"]
 rating: 4.6

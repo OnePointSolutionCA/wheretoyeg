@@ -11,16 +11,16 @@ phone: "(780) 435-0008"
 website: "https://phongonedmonton.com/"
 google_maps_url: "https://maps.google.com/?cid=7740925553667867806&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 8:30 PM"
-  tuesday: "9:00 AM - 8:30 PM"
-  wednesday: "9:00 AM - 8:30 PM"
-  thursday: "9:00 AM - 8:30 PM"
-  friday: "9:00 AM - 8:30 PM"
-  saturday: "11:00 AM - 8:30 PM"
-  sunday: "12:00 - 7:00 PM"
+  monday: "9:00 AM–8:30 PM"
+  tuesday: "9:00 AM–8:30 PM"
+  wednesday: "9:00 AM–8:30 PM"
+  thursday: "9:00 AM–8:30 PM"
+  friday: "9:00 AM–8:30 PM"
+  saturday: "11:00 AM–8:30 PM"
+  sunday: "12:00 PM–7:00 PM"
 photos: ["/photos/pho-ngon-1.jpg", "/photos/pho-ngon-2.jpg", "/photos/pho-ngon-3.jpg"]
 rating: 4.6
-review_count: 109
+review_count: 117
 price_range: "$"
 amenities:
   - "Dine-In"

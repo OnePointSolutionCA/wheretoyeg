@@ -12,16 +12,16 @@ phone: "(780) 761-8888"
 website: "https://www.parkashsweets.com"
 google_maps_url: "https://maps.google.com/?q=Parkash+Sweets+Edmonton"
 hours:
-  monday: "9:00 AM - 9:00 PM"
-  tuesday: "9:00 AM - 9:00 PM"
-  wednesday: "9:00 AM - 9:00 PM"
-  thursday: "9:00 AM - 9:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "9:00 AM - 9:00 PM"
-  sunday: "9:00 AM - 9:00 PM"
+  monday: "9:00 AM–9:00 PM"
+  tuesday: "9:00 AM–9:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
+  saturday: "9:00 AM–9:00 PM"
+  sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/parkash-sweets-1.jpg", "/photos/parkash-sweets-2.jpg", "/photos/parkash-sweets-3.jpg"]
-rating: 4.3
-review_count: 120
+rating: 4.4
+review_count: 1531
 price_range: "$"
 amenities:
   - "Vegetarian"

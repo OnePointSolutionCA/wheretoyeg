@@ -12,15 +12,15 @@ website: "http://www.padmanadi.com/"
 google_maps_url: "https://maps.google.com/?cid=2065064290325235484&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "11:00 AM - 2:00 PM, 4:00 - 9:00 PM"
-  wednesday: "11:00 AM - 2:00 PM, 4:00 - 9:00 PM"
-  thursday: "11:00 AM - 2:00 PM, 4:00 - 9:00 PM"
-  friday: "11:00 AM - 9:00 PM"
-  saturday: "11:00 AM - 9:00 PM"
-  sunday: "11:00 AM - 9:00 PM"
+  tuesday: "11:00 AM–2:00 PM"
+  wednesday: "11:00 AM–2:00 PM"
+  thursday: "11:00 AM–2:00 PM"
+  friday: "11:00 AM–9:00 PM"
+  saturday: "11:00 AM–9:00 PM"
+  sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/padmanadi-1.jpg", "/photos/padmanadi-2.jpg", "/photos/padmanadi-3.jpg"]
 rating: 4.7
-review_count: 2663
+review_count: 2667
 price_range: "$$"
 amenities:
   - "Dine-In"

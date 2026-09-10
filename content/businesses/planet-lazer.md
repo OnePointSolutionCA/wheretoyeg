@@ -11,16 +11,16 @@ phone: "(780) 454-1888"
 website: "http://www.planetlazer.net/"
 google_maps_url: "https://maps.google.com/?cid=12292419447801534476&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:30 AM - 10:00 PM"
-  tuesday: "3:00 - 10:00 PM"
-  wednesday: "3:00 - 10:00 PM"
-  thursday: "3:00 - 10:00 PM"
-  friday: "3:00 - 10:00 PM"
-  saturday: "10:30 AM - 10:00 PM"
-  sunday: "10:30 AM - 10:00 PM"
+  monday: "3:00 PM–10:00 PM"
+  tuesday: "3:00 PM–10:00 PM"
+  wednesday: "3:00 PM–10:00 PM"
+  thursday: "3:00 PM–10:00 PM"
+  friday: "3:00 PM–10:00 PM"
+  saturday: "10:30 AM–10:00 PM"
+  sunday: "10:30 AM–10:00 PM"
 photos: ["/photos/planet-lazer-1.jpg", "/photos/planet-lazer-2.jpg", "/photos/planet-lazer-3.jpg"]
 rating: 4.3
-review_count: 320
+review_count: 322
 price_range: "$$"
 amenities:
 

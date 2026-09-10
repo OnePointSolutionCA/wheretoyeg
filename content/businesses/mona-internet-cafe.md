@@ -10,13 +10,13 @@ neighborhood: "Edmonton"
 phone: "(587) 778-4927"
 google_maps_url: "https://maps.google.com/?cid=789608059810659145&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 11:00 PM"
-  tuesday: "9:00 AM - 11:00 PM"
-  wednesday: "9:00 AM - 11:00 PM"
-  thursday: "9:00 AM - 11:00 PM"
-  friday: "9:00 AM - 11:00 PM"
-  saturday: "9:00 AM - 11:00 PM"
-  sunday: "9:00 AM - 11:00 PM"
+  monday: "9:00 AM–11:00 PM"
+  tuesday: "9:00 AM–11:00 PM"
+  wednesday: "9:00 AM–11:00 PM"
+  thursday: "9:00 AM–11:00 PM"
+  friday: "9:00 AM–11:00 PM"
+  saturday: "9:00 AM–11:00 PM"
+  sunday: "9:00 AM–11:00 PM"
 photos: ["/photos/mona-internet-cafe-1.jpg", "/photos/mona-internet-cafe-2.jpg", "/photos/mona-internet-cafe-3.jpg"]
 rating: 3.5
 review_count: 4

@@ -9,16 +9,16 @@ address: "10406 118 Ave NW"
 neighborhood: "Central Edmonton"
 google_maps_url: "https://maps.google.com/?q=Pho%20Anh%20Huyen%20Edmonton"
 hours:
-  monday: "11:00 AM - 9:00 PM"
-  tuesday: "11:00 AM - 9:00 PM"
-  wednesday: "11:00 AM - 9:00 PM"
-  thursday: "11:00 AM - 9:00 PM"
-  friday: "11:00 AM - 10:00 PM"
-  saturday: "11:00 AM - 10:00 PM"
-  sunday: "11:00 AM - 9:00 PM"
+  monday: "10:00 AM–8:30 PM"
+  tuesday: "10:00 AM–8:30 PM"
+  wednesday: "10:00 AM–8:30 PM"
+  thursday: "10:00 AM–8:30 PM"
+  friday: "10:00 AM–10:00 PM"
+  saturday: "10:00 AM–10:00 PM"
+  sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/pho-anh-huyen-1.jpg", "/photos/pho-anh-huyen-2.jpg", "/photos/pho-anh-huyen-3.jpg"]
-rating: 4.4
-review_count: 780
+rating: 4.6
+review_count: 228
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -28,24 +28,40 @@ tags: ["vietnamese", "pho", "banh-mi"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Arshbir Thind"
-    rating: 5
-    comment: |
-      Was feeling something fresh and springy with the weather warming up and the Lemongrass Vermicelli definitely absolutely hit the spot. Would reccomend getting extra protein (I did not). Will have to come back on a chilly day to try the Pho!
-  - name: "kayley amber"
+  - name: "Christina Jain"
     rating: 3
     comment: |
-      I wanted to love it and I was pretty disappointed with the amount of food I got in my take out container!! Ordered the curry chicken soup and took it home to warm it up and I got 1 carrot and maybe 2 small pieces of potato in the entire container of soup. Not worth the money for take out at least
-  - name: "Break it To You"
-    rating: 4
-    comment: |
-      I’ve tried a handful of vietnamese places in the city that makes better viet food. Service is excellent tho
-  - name: "Blitz"
+      Very generous portions of meat, especially the Pho House Special. Really clean and nice looking inside too - my kids kept commenting on the chandeliers. My family didn't like the flavors of the noodle soups as they are on the rich side and the chicken noodle soup had too much fish sauce, but the rice plate was okay.
+      
+      Note: if you get the plum soda, do not expect a soda xi muoi. It's more like a Mexican lemonade with a few dried plums.
+  - name: "Djuki Muliawan"
     rating: 5
     comment: |
-      I had a great dinner experience at Pho Anh. So much Flavor in the pho and comes with some fresh beans. And the best part is that without the drink it’s only 13$ a great and fulfilling meal. 100% recommended.
-  - name: "Jess Wiebe"
+      Grilled Shrimp, Pork & EggRoll Vermicelli - Great. The pork and eggroll were delicious, but the grilled shrimps were tasteless.  Also, I would have liked it better with more peanut topping.
+      
+      Iced Vietnamese Coffee - Excellent
+      
+      Chili sauce in a jar on each table - this is the STAR of my lunch there! Delicious!
+  - name: "Super M"
     rating: 5
     comment: |
-      This is possibly the best phơ I've had in edmonton. Delicious, hearty, and fragrant. A small, comfortable place, with soft music and a peacuful atmosphere. I appreciated the sense of calm and competence.
+      This solid Vietnamese restaurant appears to be family-owned. We ordered Bun Bo Hue and vermicelli. The portions were generous, and we had enough leftovers for dinner.
+      
+      Bun Bo Hue $20- It was good but personally preference for more lemongrass.
+      
+      Grilled pork / egg roll vermicelli $18 - Fresh and tasty.
+      
+      Gorgeous modern decor. Clean and inviting!
+  - name: "Alistair Tofts"
+    rating: 5
+    comment: |
+      AMAZING PHO!! Banh Mi was mid… fresh and tasty, but the meat could have been more tender. The rare steak in the Pho could have been a little better too, BUT, the broth was FANTASTIC!! I understand what goes into making pho broth, and these guys have it nailed down. So flavorful and “clean”. Absolute stunner. Staff was 10/10!!
+  - name: "Rosina Su"
+    rating: 5
+    comment: |
+      This is a newly opened pho restaurant with a bright and clean interior, creating a very welcoming dining environment.
+      
+      We ordered the beef pho noodle soup — the broth was light and not greasy, a solid and decent bowl overall. It wasn’t the best we’ve had, but still enjoyable.
+      
+      I especially liked the dry vermicelli bowl. The peanuts were extra fragrant, as if they’d been toasted or pan-fried for added flavor. There were plenty of fresh vegetables, and the grilled pork was thicker than usual, cooked just right — tender and not dry. The vermicelli portion was just right, and when mixed with the veggies, the balance was perfect. Definitely a dish I’d come back for.
 ---

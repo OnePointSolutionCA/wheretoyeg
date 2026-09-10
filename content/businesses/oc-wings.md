@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Spruce Grove"
 address: "280 Pioneer Rd #216, Spruce Grove, AB T7X 2W3"
 rating: 4.8
-review_count: 220
+review_count: 221
 tier: "featured"
 phone: "(780) 571-1065"
 website: "http://www.ocwings.ca/"
@@ -15,17 +15,30 @@ photos:
 reviews:
   - name: "Mary Angellee Villafuerte"
     rating: 5
-    comment: "Service and food is top notch!! We’ve had the wings, calamari and fish & chips here and they are veryyyy good! They deliver quickly around the area and they even once brought the food I ordered for pick up to the parking because my little one was sleeping in the car. Highly recommended :)"
+    comment: |
+      Service and food is top notch!! We’ve had the wings, calamari and fish & chips here and they are veryyyy good! They deliver quickly around the area and they even once brought the food I ordered for pick up to the parking because my little one was sleeping in the car. Highly recommended :)
   - name: "Anupreet Kaur"
     rating: 5
-    comment: "Tried OC Wings today and it was such a great experience! We ordered the samosa poutine, mozzarella sticks, and wings - everything was absolutely delicious. The wings were simply amazing, perfectly cooked and super flavorful. What really stood out was the impeccable service — the staff truly went above and beyond and even gave us extra sauce. Great food + great service = definitely coming back! 🙌"
+    comment: |
+      Tried OC Wings today and it was such a great experience! We ordered the samosa poutine, mozzarella sticks, and wings - everything was absolutely delicious. The wings were simply amazing, perfectly cooked and super flavorful. What really stood out was the impeccable service — the staff truly went above and beyond and even gave us extra sauce. Great food + great service = definitely coming back! 🙌
   - name: "Christopher Paul (Christopher Paul)"
     rating: 5
-    comment: "The wings are nice and fresh, we have ordered here multiple times now and its good to know that there is a good local place for game day. Don't skip this place"
+    comment: |
+      The wings are nice and fresh, we have ordered here multiple times now and its good to know that there is a good local place for game day. Don't skip this place
   - name: "Arshdeep Kaur"
     rating: 5
-    comment: "The nachos were crunchy and flavorful, the wings were juicy and well-seasoned, and the tenders were crispy and delicious. Overall, a very tasty meal!"
+    comment: |
+      The nachos were crunchy and flavorful, the wings were juicy and well-seasoned, and the tenders were crispy and delicious. Overall, a very tasty meal!
   - name: "Mason L"
     rating: 5
-    comment: "The food was delicious and the guy serving us was really nice and on to it. Overall great experience"
+    comment: |
+      The food was delicious and the guy serving us was really nice and on to it. Overall great experience
+hours:
+  monday: "11:00 AM–11:00 PM"
+  tuesday: "11:00 AM–11:00 PM"
+  wednesday: "11:00 AM–11:00 PM"
+  thursday: "11:00 AM–11:00 PM"
+  friday: "11:00 AM–11:00 PM"
+  saturday: "11:00 AM–11:00 PM"
+  sunday: "11:00 AM–11:00 PM"
 ---

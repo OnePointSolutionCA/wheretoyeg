@@ -11,16 +11,16 @@ phone: "(780) 250-6801"
 website: "http://www.rayyanrestaurant.com/"
 google_maps_url: "https://maps.google.com/?cid=4064928741497002159&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 10:00 PM"
-  tuesday: "8:00 AM - 10:00 PM"
-  wednesday: "8:00 AM - 10:00 PM"
-  thursday: "8:00 AM - 10:00 PM"
-  friday: "8:00 AM - 10:00 PM"
-  saturday: "8:00 AM - 10:00 PM"
-  sunday: "8:00 AM - 10:00 PM"
+  monday: "8:00 AM–10:00 PM"
+  tuesday: "8:00 AM–10:00 PM"
+  wednesday: "8:00 AM–10:00 PM"
+  thursday: "8:00 AM–10:00 PM"
+  friday: "8:00 AM–10:00 PM"
+  saturday: "8:00 AM–10:00 PM"
+  sunday: "8:00 AM–10:00 PM"
 photos: ["/photos/rayyan-restaurant-1.jpg", "/photos/rayyan-restaurant-2.jpg", "/photos/rayyan-restaurant-3.jpg"]
 rating: 4.8
-review_count: 1014
+review_count: 1015
 price_range: "$"
 amenities:
   - "Halal"

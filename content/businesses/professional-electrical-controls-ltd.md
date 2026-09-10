@@ -11,13 +11,13 @@ phone: "(780) 476-1413"
 website: "https://professionalelectrical.ca/"
 google_maps_url: "https://maps.google.com/?cid=1578131702072878312&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "Open 24 hours"
-  tuesday: "Open 24 hours"
-  wednesday: "Open 24 hours"
-  thursday: "Open 24 hours"
-  friday: "Open 24 hours"
-  saturday: "Open 24 hours"
-  sunday: "Open 24 hours"
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/professional-electrical-controls-ltd-1.jpg", "/photos/professional-electrical-controls-ltd-2.jpg", "/photos/professional-electrical-controls-ltd-3.jpg"]
 rating: 4.7
 review_count: 224

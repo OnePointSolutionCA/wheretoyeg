@@ -15,17 +15,30 @@ photos:
 reviews:
   - name: "Aria cooper"
     rating: 5
-    comment: "Amazing place! Everyone was super kind and welcoming. I got my grad hair done by Sunni and had such a great experience. I wasn’t exactly sure what I wanted at first, but she helped me figure out a style that worked best for my hair while still matching what I had in mind. She was easy to talk to and made me feel comfortable the whole time, which I really appreciated since I’m pretty introverted. She also paid attention to all the little details and made sure I was happy with everything before I "
+    comment: |
+      Amazing place! Everyone was super kind and welcoming. I got my grad hair done by Sunni and had such a great experience. I wasn’t exactly sure what I wanted at first, but she helped me figure out a style that worked best for my hair while still matching what I had in mind. She was easy to talk to and made me feel comfortable the whole time, which I really appreciated since I’m pretty introverted. She also paid attention to all the little details and made sure I was happy with everything before I left. My hair lasted all day even in strong wind conditions, and honestly still looked good the next morning! I also got sooo many compliments on it. I would definitely recommend Sunni to anyone looking for a hairstylist. She did an amazing job and helped make my grad feel even more special!
   - name: "Shannon Weatherby"
     rating: 5
-    comment: "I can’t say enough wonderful things about Isabella! She did my daughter’s hair for her graduation, and it turned out absolutely perfect. Isabella was professional, talented, and paid attention to every detail, making sure everything looked exactly right. My daughter felt confident, beautiful, and so special on her big day. We received so many compliments, and we couldn’t have been happier with the final result. Thank you, Isabella, for helping make such an important milestone even more memorable"
+    comment: |
+      I can’t say enough wonderful things about Isabella! She did my daughter’s hair for her graduation, and it turned out absolutely perfect. Isabella was professional, talented, and paid attention to every detail, making sure everything looked exactly right. My daughter felt confident, beautiful, and so special on her big day. We received so many compliments, and we couldn’t have been happier with the final result. Thank you, Isabella, for helping make such an important milestone even more memorable!
   - name: "Tasnim"
     rating: 5
-    comment: "The best beauty haus! Nancy gave me a color correction 8 years ago that completely changed my life. She’s a very talented educator that instinctually knows what tones look best, and has a kind approach to ensure you achieve your dream hair! The integrity of my hair has always been treated with true care (dense, curly, dark and gone blonde). And Ive had the best experience with the other staff & stylists there too. Ive purchased the best products that have helped me through many seasons. It’s jus"
+    comment: |
+      The best beauty haus! Nancy gave me a color correction 8 years ago that completely changed my life. She’s a very talented educator that instinctually knows what tones look best, and has a kind approach to ensure you achieve your dream hair! The integrity of my hair has always been treated with true care (dense, curly, dark and gone blonde). And Ive had the best experience with the other staff & stylists there too. Ive purchased the best products that have helped me through many seasons. It’s just a treat to visit this salon… a calm and positive experience unlike other salons that can be loud, rushed & chaotic. I look forward to my appointment always, but make sure to book ahead cause this place is booked up (for good reason).
   - name: "Kiara Silvea"
     rating: 5
-    comment: "If I could give more than 5 stars I would! Ken gave me a beautiful bixie cut. He was thorough and taught me techniques for styling with the tools I have at home. I have never had short hair and he helped tremendously with the transition. Definetly your go to for all hair tips, tricks, cuts, extensions and more. I know who I will be going to for anymore spontaneous hair appointments!! Thankyou Ken!!"
+    comment: |
+      If I could give more than 5 stars I would! Ken gave me a beautiful bixie cut. He was thorough and taught me techniques for styling with the tools I have at home. I have never had short hair and he helped tremendously with the transition. Definetly your go to for all hair tips, tricks, cuts, extensions and more. I know who I will be going to for anymore spontaneous hair appointments!! Thankyou Ken!!
   - name: "Sohnwoo22"
     rating: 5
-    comment: "I had an incredible experience at this salon. I'm no stranger to haircuts and colours, but I'm always a bit cautious when going to new places. However, Ken did such a wonderful job on my hair that I definitely will continue going to this location as long as he's here. After not having a proper haircut for quite a few years and really letting it grow out, I left the salon feeling more like myself again. So incredibly thankful for the care and kindness."
+    comment: |
+      I had an incredible experience at this salon. I'm no stranger to haircuts and colours, but I'm always a bit cautious when going to new places. However, Ken did such a wonderful job on my hair that I definitely will continue going to this location as long as he's here. After not having a proper haircut for quite a few years and really letting it grow out, I left the salon feeling more like myself again. So incredibly thankful for the care and kindness.
+hours:
+  monday: "Closed"
+  tuesday: "9:00 AM–8:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–8:00 PM"
+  saturday: "10:00 AM–5:00 PM"
+  sunday: "Closed"
 ---

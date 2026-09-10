@@ -11,16 +11,16 @@ phone: "(825) 777-7313"
 website: "https://www.rawaaytrestaurantbanquet.ca/"
 google_maps_url: "https://maps.google.com/?cid=15176317817506490342&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 12:00 AM"
-  tuesday: "9:00 AM - 12:00 AM"
-  wednesday: "9:00 AM - 12:00 AM"
-  thursday: "9:00 AM - 12:00 AM"
-  friday: "9:00 AM - 12:00 AM"
-  saturday: "9:00 AM - 12:00 AM"
-  sunday: "9:00 AM - 12:00 AM"
+  monday: "9:00 AM–12:00 AM"
+  tuesday: "9:00 AM–12:00 AM"
+  wednesday: "9:00 AM–12:00 AM"
+  thursday: "9:00 AM–12:00 AM"
+  friday: "9:00 AM–12:00 AM"
+  saturday: "9:00 AM–12:00 AM"
+  sunday: "9:00 AM–12:00 AM"
 photos: ["/photos/rawaayt-sweets-and-restaurant-plus-banquet-1.jpg", "/photos/rawaayt-sweets-and-restaurant-plus-banquet-2.jpg", "/photos/rawaayt-sweets-and-restaurant-plus-banquet-3.jpg"]
-rating: 4.6
-review_count: 74
+rating: 4.5
+review_count: 76
 price_range: "$"
 amenities:
   - "Halal"

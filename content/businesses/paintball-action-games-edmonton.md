@@ -11,16 +11,16 @@ phone: "(780) 469-0882"
 website: "https://www.gotopaintballactiongames.com/"
 google_maps_url: "https://maps.google.com/?cid=12760419845444358033&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 9:00 PM"
-  tuesday: "10:00 AM - 9:00 PM"
-  wednesday: "10:00 AM - 9:00 PM"
-  thursday: "10:00 AM - 9:00 PM"
-  friday: "10:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 9:00 PM"
-  sunday: "9:00 AM - 7:00 PM"
+  monday: "10:00 AM–9:00 PM"
+  tuesday: "10:00 AM–9:00 PM"
+  wednesday: "10:00 AM–9:00 PM"
+  thursday: "10:00 AM–9:00 PM"
+  friday: "10:00 AM–9:00 PM"
+  saturday: "10:00 AM–9:00 PM"
+  sunday: "9:00 AM–7:00 PM"
 photos: ["/photos/paintball-action-games-edmonton-1.jpg", "/photos/paintball-action-games-edmonton-2.jpg", "/photos/paintball-action-games-edmonton-3.jpg"]
 rating: 4.3
-review_count: 309
+review_count: 311
 price_range: "$$"
 amenities:
 

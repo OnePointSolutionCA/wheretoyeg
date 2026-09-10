@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "Edmonton (city-wide)"
 google_maps_url: "https://maps.google.com/?q=Molly%20Maid%20Edmonton%20Edmonton"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
-  sunday: "Closed"
+  monday: "8:00 AM–8:00 PM"
+  tuesday: "8:00 AM–8:00 PM"
+  wednesday: "8:00 AM–8:00 PM"
+  thursday: "8:00 AM–8:00 PM"
+  friday: "8:00 AM–8:00 PM"
+  saturday: "10:00 AM–5:00 PM"
+  sunday: "12:00 PM–4:00 PM"
 photos: ["/photos/molly-maid-edmonton-1.jpg", "/photos/molly-maid-edmonton-2.jpg", "/photos/molly-maid-edmonton-3.jpg"]
-rating: 4.5
-review_count: 340
+rating: 4
+review_count: 60
 price_range: "$$"
 amenities:
   - "Weekly Service"

@@ -11,16 +11,16 @@ phone: "(587) 990-7663"
 website: "https://nowaterroofing.ca/?utm_source=local&utm_medium=organic&utm_campaign=gbp"
 google_maps_url: "https://maps.google.com/?cid=17728734445740901863&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 4:00 PM"
-  tuesday: "7:00 AM - 4:00 PM"
-  wednesday: "7:00 AM - 4:00 PM"
-  thursday: "7:00 AM - 4:00 PM"
-  friday: "7:00 AM - 4:00 PM"
+  monday: "7:00 AM–4:00 PM"
+  tuesday: "7:00 AM–4:00 PM"
+  wednesday: "7:00 AM–4:00 PM"
+  thursday: "7:00 AM–4:00 PM"
+  friday: "7:00 AM–4:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/no-water-roofing-1.jpg", "/photos/no-water-roofing-2.jpg", "/photos/no-water-roofing-3.jpg"]
 rating: 4.9
-review_count: 138
+review_count: 136
 price_range: "$$"
 amenities:
 

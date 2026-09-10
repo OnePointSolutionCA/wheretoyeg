@@ -11,16 +11,16 @@ phone: "(780) 238-2245"
 website: "https://onsdrivingschool.ca/"
 google_maps_url: "https://maps.google.com/?cid=12001134362426356806&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 8:00 PM"
-  tuesday: "8:00 AM - 8:00 PM"
-  wednesday: "8:00 AM - 8:00 PM"
-  thursday: "8:00 AM - 8:00 PM"
-  friday: "8:00 AM - 8:00 PM"
-  saturday: "8:00 AM - 8:00 PM"
-  sunday: "8:00 AM - 8:00 PM"
+  monday: "8:00 AM–8:00 PM"
+  tuesday: "8:00 AM–8:00 PM"
+  wednesday: "8:00 AM–8:00 PM"
+  thursday: "8:00 AM–8:00 PM"
+  friday: "8:00 AM–8:00 PM"
+  saturday: "8:00 AM–8:00 PM"
+  sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/ons-driving-school-1.jpg", "/photos/ons-driving-school-2.jpg", "/photos/ons-driving-school-3.jpg"]
 rating: 4.8
-review_count: 2750
+review_count: 2754
 price_range: "$$"
 amenities:
 

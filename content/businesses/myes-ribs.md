@@ -11,16 +11,16 @@ phone: "(825) 401-9132"
 website: "http://www.myesribs.com/"
 google_maps_url: "https://maps.google.com/?cid=13172244479258109385&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 9:00 PM"
-  tuesday: "10:00 AM - 9:00 PM"
-  wednesday: "10:00 AM - 9:00 PM"
-  thursday: "10:00 AM - 9:00 PM"
-  friday: "10:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 9:00 PM"
-  sunday: "10:00 AM - 7:00 PM"
+  monday: "10:00 AM–9:00 PM"
+  tuesday: "10:00 AM–9:00 PM"
+  wednesday: "10:00 AM–9:00 PM"
+  thursday: "10:00 AM–9:00 PM"
+  friday: "10:00 AM–9:00 PM"
+  saturday: "10:00 AM–9:00 PM"
+  sunday: "10:00 AM–7:00 PM"
 photos: ["/photos/myes-ribs-1.jpg", "/photos/myes-ribs-2.jpg", "/photos/myes-ribs-3.jpg"]
 rating: 4.3
-review_count: 249
+review_count: 257
 price_range: "$"
 amenities:
   - "Dine-In"

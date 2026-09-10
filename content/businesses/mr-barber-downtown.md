@@ -12,16 +12,16 @@ phone: "(780) 426-0037"
 website: "https://mrbarber.ca/downtown"
 google_maps_url: "https://maps.google.com/?q=Mr+Barber+Downtown+Edmonton"
 hours:
-  monday: "9:00 AM - 7:00 PM"
-  tuesday: "9:00 AM - 7:00 PM"
-  wednesday: "9:00 AM - 7:00 PM"
-  thursday: "9:00 AM - 7:00 PM"
-  friday: "9:00 AM - 7:00 PM"
-  saturday: "9:00 AM - 5:00 PM"
-  sunday: "11:00 AM - 5:00 PM"
+  monday: "9:00 AM–7:00 PM"
+  tuesday: "9:00 AM–7:00 PM"
+  wednesday: "9:00 AM–7:00 PM"
+  thursday: "9:00 AM–7:00 PM"
+  friday: "9:00 AM–7:00 PM"
+  saturday: "9:00 AM–5:00 PM"
+  sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/mr-barber-downtown.png"]
 rating: 4.9
-review_count: 895
+review_count: 874
 price_range: "$$"
 amenities:
   - "Walk-Ins Welcome"

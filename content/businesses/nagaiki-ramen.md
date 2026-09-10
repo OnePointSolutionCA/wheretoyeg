@@ -11,16 +11,16 @@ phone: "(780) 665-6868"
 website: "https://nagaikiramen.ca/"
 google_maps_url: "https://maps.google.com/?cid=4785992989073456335&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 10:00 PM"
-  tuesday: "11:00 AM - 10:00 PM"
-  wednesday: "11:00 AM - 10:00 PM"
-  thursday: "11:00 AM - 10:00 PM"
-  friday: "11:00 AM - 10:00 PM"
-  saturday: "11:00 AM - 10:00 PM"
-  sunday: "11:00 AM - 7:00 PM"
+  monday: "11:00 AM–10:00 PM"
+  tuesday: "11:00 AM–10:00 PM"
+  wednesday: "11:00 AM–10:00 PM"
+  thursday: "11:00 AM–10:00 PM"
+  friday: "11:00 AM–10:00 PM"
+  saturday: "11:00 AM–10:00 PM"
+  sunday: "11:00 AM–7:00 PM"
 photos: ["/photos/nagaiki-ramen-1.jpg", "/photos/nagaiki-ramen-2.jpg", "/photos/nagaiki-ramen-3.jpg"]
-rating: 3.8
-review_count: 188
+rating: 3.7
+review_count: 193
 price_range: "$"
 amenities:
   - "Dine-In"

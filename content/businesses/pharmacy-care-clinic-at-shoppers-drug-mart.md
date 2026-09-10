@@ -15,17 +15,35 @@ photos:
 reviews:
   - name: "Monica Fillmore"
     rating: 5
-    comment: "Awesome what can I say! Everyone so friendly and helpful. Love this store! Great service! Katie exceptional service! Igor, Brenda, Obi, Michelle, Martina all go out of there way to help. Awesome crew!"
+    comment: |
+      Awesome what can I say!
+      Everyone so friendly and helpful.
+      Love this store! Great service!
+      Katie exceptional service!
+      Igor, Brenda, Obi, Michelle, Martina all go out of there way to help. Awesome crew!
   - name: "Kiana Towpich"
     rating: 5
-    comment: "Katie and Paulise were incredibly informational and helpful throughout the entire process. They explained everything clearly, answered all questions, and made sure I understood every detail."
+    comment: |
+      Katie and Paulise were incredibly informational and helpful throughout the entire process. They explained everything clearly, answered all questions, and made sure I understood every detail.
   - name: "Rodney Royce"
     rating: 5
-    comment: "Absolutely amazing people! Martina and her crew are always helpful and passionate about helping people. I'd offer 10 stars if that was an option! 🌟 🌟 🌟🌟🌟🌟🌟🌟🌟🌟"
+    comment: |
+      Absolutely amazing people! Martina and her crew are always helpful and passionate about helping people. I'd offer 10 stars if that was an option!
+      🌟 🌟 🌟🌟🌟🌟🌟🌟🌟🌟
   - name: "Hannah Fink"
     rating: 5
-    comment: "Katie is the backbone of this shoppers. She is so kind and knowledgeable; helpful every time i need to come in. Thank you Katie for taking such care"
+    comment: |
+      Katie is the backbone of this shoppers. She is so kind and knowledgeable; helpful every time i need to come in. Thank you Katie for taking such care
   - name: "paige beck"
     rating: 5
-    comment: "Katie was so kind and personable. Igor the pharmacist helped me out a lot too!"
+    comment: |
+      Katie was so kind and personable. Igor the pharmacist helped me out a lot too!
+hours:
+  monday: "8:00 AM–10:00 PM"
+  tuesday: "8:00 AM–10:00 PM"
+  wednesday: "8:00 AM–10:00 PM"
+  thursday: "8:00 AM–10:00 PM"
+  friday: "8:00 AM–10:00 PM"
+  saturday: "8:00 AM–10:00 PM"
+  sunday: "8:00 AM–10:00 PM"
 ---

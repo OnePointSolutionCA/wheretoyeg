@@ -11,16 +11,16 @@ phone: "(780) 424-3129"
 website: "https://www.queendonairjasperave.com/"
 google_maps_url: "https://maps.google.com/?cid=11745347345188842798&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 3:30 AM"
-  tuesday: "10:00 AM - 3:30 AM"
-  wednesday: "10:00 AM - 3:30 AM"
-  thursday: "10:00 AM - 3:30 AM"
-  friday: "10:00 AM - 4:30 AM"
-  saturday: "10:00 AM - 4:30 AM"
-  sunday: "10:00 AM - 3:30 AM"
+  monday: "10:00 AM–3:30 AM"
+  tuesday: "10:00 AM–3:30 AM"
+  wednesday: "10:00 AM–3:30 AM"
+  thursday: "10:00 AM–3:30 AM"
+  friday: "10:00 AM–4:30 AM"
+  saturday: "10:00 AM–4:30 AM"
+  sunday: "10:00 AM–3:30 AM"
 photos: ["/photos/queen-donair-jasper-avenue-1.jpg", "/photos/queen-donair-jasper-avenue-2.jpg", "/photos/queen-donair-jasper-avenue-3.jpg"]
 rating: 4.8
-review_count: 4522
+review_count: 4536
 price_range: "$"
 amenities:
   - "Halal"

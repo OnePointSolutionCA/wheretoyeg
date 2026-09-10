@@ -11,16 +11,16 @@ phone: "(780) 818-8053"
 website: "https://bellebooking.com/center/queen-nails-spa-bar-10175-186st"
 google_maps_url: "https://maps.google.com/?cid=665479145139404722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:30 AM - 8:00 PM"
-  tuesday: "9:30 AM - 8:00 PM"
-  wednesday: "9:30 AM - 8:00 PM"
-  thursday: "9:30 AM - 8:00 PM"
-  friday: "9:30 AM - 8:00 PM"
-  saturday: "9:30 AM - 8:00 PM"
-  sunday: "10:00 AM - 8:00 PM"
+  monday: "9:30 AM–8:00 PM"
+  tuesday: "9:30 AM–8:00 PM"
+  wednesday: "9:30 AM–8:00 PM"
+  thursday: "9:30 AM–8:00 PM"
+  friday: "9:30 AM–8:00 PM"
+  saturday: "9:30 AM–8:00 PM"
+  sunday: "10:00 AM–8:00 PM"
 photos: ["/photos/queen-nails-salon-bar-west-edmonton-1.jpg", "/photos/queen-nails-salon-bar-west-edmonton-2.jpg", "/photos/queen-nails-salon-bar-west-edmonton-3.jpg"]
 rating: 4.8
-review_count: 186
+review_count: 196
 price_range: "$$"
 amenities:
 

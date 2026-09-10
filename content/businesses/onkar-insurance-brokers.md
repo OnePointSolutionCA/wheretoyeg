@@ -11,16 +11,16 @@ phone: "(780) 716-1516"
 website: "http://www.onkarinsurance.ca/"
 google_maps_url: "https://maps.google.com/?cid=4455072716573124257&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 6:00 PM"
-  tuesday: "10:00 AM - 6:00 PM"
-  wednesday: "10:00 AM - 6:00 PM"
-  thursday: "10:00 AM - 6:00 PM"
-  friday: "10:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
+  monday: "10:00 AM–6:00 PM"
+  tuesday: "10:00 AM–6:00 PM"
+  wednesday: "10:00 AM–6:00 PM"
+  thursday: "10:00 AM–6:00 PM"
+  friday: "10:00 AM–6:00 PM"
+  saturday: "10:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/onkar-insurance-brokers-1.jpg", "/photos/onkar-insurance-brokers-2.jpg", "/photos/onkar-insurance-brokers-3.jpg"]
 rating: 4.9
-review_count: 599
+review_count: 598
 price_range: "$$"
 amenities:
 

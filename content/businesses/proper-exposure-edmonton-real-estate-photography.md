@@ -11,16 +11,16 @@ phone: "(587) 442-2865"
 website: "https://www.airunlimitedcorp.com/edmonton"
 google_maps_url: "https://maps.google.com/?cid=7739134561681374404&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 9:00 PM"
-  tuesday: "9:00 AM - 9:00 PM"
-  wednesday: "9:00 AM - 9:00 PM"
-  thursday: "9:00 AM - 9:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "9:00 AM - 9:00 PM"
-  sunday: "9:00 AM - 9:00 PM"
+  monday: "9:00 AM–9:00 PM"
+  tuesday: "9:00 AM–9:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
+  saturday: "9:00 AM–9:00 PM"
+  sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/proper-exposure-edmonton-real-estate-photography-1.jpg", "/photos/proper-exposure-edmonton-real-estate-photography-2.jpg", "/photos/proper-exposure-edmonton-real-estate-photography-3.jpg"]
 rating: 5
-review_count: 27
+review_count: 21
 price_range: "$$"
 amenities:
 

@@ -12,12 +12,12 @@ website: "http://oriivegan.com/"
 google_maps_url: "https://maps.google.com/?cid=3046328220485735980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "10:30 AM - 5:00 PM"
-  wednesday: "10:30 AM - 5:00 PM"
-  thursday: "10:30 AM - 5:00 PM"
-  friday: "10:30 AM - 5:00 PM"
-  saturday: "10:30 AM - 5:00 PM"
-  sunday: "10:30 AM - 5:00 PM"
+  tuesday: "10:30 AM–5:00 PM"
+  wednesday: "10:30 AM–5:00 PM"
+  thursday: "10:30 AM–5:00 PM"
+  friday: "10:30 AM–5:00 PM"
+  saturday: "10:30 AM–5:00 PM"
+  sunday: "10:30 AM–5:00 PM"
 photos: ["/photos/orii-vegan-vegetarian-market-1.jpg", "/photos/orii-vegan-vegetarian-market-2.jpg", "/photos/orii-vegan-vegetarian-market-3.jpg"]
 rating: 4.7
 review_count: 113

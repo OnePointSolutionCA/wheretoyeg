@@ -11,16 +11,16 @@ phone: "(825) 203-0223"
 website: "https://www.qinghuadumpling.com/"
 google_maps_url: "https://maps.google.com/?cid=1042964494565868548&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:30 AM - 8:30 PM"
-  tuesday: "11:30 AM - 8:30 PM"
-  wednesday: "11:30 AM - 8:30 PM"
-  thursday: "11:30 AM - 8:30 PM"
-  friday: "11:30 AM - 9:00 PM"
-  saturday: "11:30 AM - 9:00 PM"
-  sunday: "11:30 AM - 8:30 PM"
+  monday: "11:30 AM–8:30 PM"
+  tuesday: "11:30 AM–8:30 PM"
+  wednesday: "11:30 AM–8:30 PM"
+  thursday: "11:30 AM–8:30 PM"
+  friday: "11:30 AM–9:00 PM"
+  saturday: "11:30 AM–9:00 PM"
+  sunday: "11:30 AM–8:30 PM"
 photos: ["/photos/qing-hua-dumpling---edmonton-1.jpg", "/photos/qing-hua-dumpling---edmonton-2.jpg", "/photos/qing-hua-dumpling---edmonton-3.jpg"]
 rating: 4.6
-review_count: 84
+review_count: 88
 price_range: "$"
 amenities:
   - "Dine-In"

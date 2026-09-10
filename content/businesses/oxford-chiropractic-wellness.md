@@ -13,16 +13,16 @@ email: "info@oxfordchiro.ca"
 website: "https://oxfordchiro.ca"
 google_maps_url: "https://maps.google.com/?q=15152+127+St+NW+Edmonton"
 hours:
-  monday: "9:00 AM - 7:00 PM"
-  tuesday: "9:00 AM - 7:00 PM"
-  wednesday: "9:00 AM - 7:00 PM"
-  thursday: "9:00 AM - 7:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "10:00 AM - 2:00 PM"
+  monday: "10:00 AM–6:30 PM"
+  tuesday: "10:00 AM–6:30 PM"
+  wednesday: "10:00 AM–1:30 PM"
+  thursday: "10:00 AM–6:30 PM"
+  friday: "3:00 PM–6:30 PM"
+  saturday: "10:00 AM–1:30 PM"
   sunday: "Closed"
 photos: ["/photos/oxford-chiropractic-wellness-1.jpg", "/photos/oxford-chiropractic-wellness-2.jpg", "/photos/oxford-chiropractic-wellness-3.jpg"]
 rating: 5
-review_count: 17
+review_count: 18
 price_range: "$$"
 amenities:
   - "Direct Billing"

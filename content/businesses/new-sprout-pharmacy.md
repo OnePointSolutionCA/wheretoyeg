@@ -10,13 +10,13 @@ neighborhood: "Edmonton"
 phone: "(780) 540-9215"
 google_maps_url: "https://maps.google.com/?cid=15745200091605486040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 6:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 4:00 PM"
-  sunday: "10:00 AM - 4:00 PM"
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–6:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "9:00 AM–6:00 PM"
+  friday: "9:00 AM–6:00 PM"
+  saturday: "10:00 AM–4:00 PM"
+  sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/new-sprout-pharmacy-1.jpg", "/photos/new-sprout-pharmacy-2.jpg", "/photos/new-sprout-pharmacy-3.jpg"]
 rating: 5
 review_count: 16

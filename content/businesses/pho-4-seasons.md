@@ -11,16 +11,16 @@ phone: "(780) 757-8677"
 website: "https://skipthedishes.com/pho-4-seasons-142nd-street"
 google_maps_url: "https://maps.google.com/?cid=10874958431153830131&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 8:00 PM"
-  tuesday: "10:00 AM - 8:00 PM"
-  wednesday: "10:00 AM - 8:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 8:00 PM"
-  saturday: "12:00 - 7:30 PM"
+  monday: "10:00 AM–8:00 PM"
+  tuesday: "10:00 AM–8:00 PM"
+  wednesday: "10:00 AM–8:00 PM"
+  thursday: "10:00 AM–8:00 PM"
+  friday: "10:00 AM–8:00 PM"
+  saturday: "12:00 PM–7:30 PM"
   sunday: "Closed"
 photos: ["/photos/pho-4-seasons-1.jpg", "/photos/pho-4-seasons-2.jpg", "/photos/pho-4-seasons-3.jpg"]
 rating: 4.7
-review_count: 228
+review_count: 231
 price_range: "$"
 amenities:
   - "Dine-In"

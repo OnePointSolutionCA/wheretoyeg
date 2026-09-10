@@ -11,12 +11,12 @@ phone: "(780) 476-1777"
 website: "https://www.printzoneexpress.com/"
 google_maps_url: "https://maps.google.com/?cid=17055254929359030666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:30 AM - 5:00 PM"
-  tuesday: "10:30 AM - 5:00 PM"
-  wednesday: "10:30 AM - 5:00 PM"
-  thursday: "10:30 AM - 5:00 PM"
-  friday: "10:30 AM - 5:00 PM"
-  saturday: "1:00 - 5:00 PM"
+  monday: "10:30 AM–5:00 PM"
+  tuesday: "10:30 AM–5:00 PM"
+  wednesday: "10:30 AM–5:00 PM"
+  thursday: "10:30 AM–5:00 PM"
+  friday: "10:30 AM–5:00 PM"
+  saturday: "1:00 PM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/print-zone-express-1.jpg", "/photos/print-zone-express-2.jpg", "/photos/print-zone-express-3.jpg"]
 rating: 4.8

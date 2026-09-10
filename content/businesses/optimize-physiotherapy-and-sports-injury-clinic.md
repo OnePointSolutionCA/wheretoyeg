@@ -11,16 +11,16 @@ phone: "(780) 455-5068"
 website: "https://optimizephysio.com/"
 google_maps_url: "https://maps.google.com/?cid=5286719984287105466&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 7:00 PM"
-  tuesday: "7:00 AM - 7:00 PM"
-  wednesday: "7:00 AM - 7:00 PM"
-  thursday: "7:00 AM - 7:00 PM"
-  friday: "7:00 AM - 6:00 PM"
-  saturday: "8:00 AM - 1:00 PM"
+  monday: "7:00 AM–7:00 PM"
+  tuesday: "7:00 AM–7:00 PM"
+  wednesday: "7:00 AM–7:00 PM"
+  thursday: "7:00 AM–7:00 PM"
+  friday: "7:00 AM–6:00 PM"
+  saturday: "8:00 AM–1:00 PM"
   sunday: "Closed"
 photos: ["/photos/optimize-physiotherapy-and-sports-injury-clinic-1.jpg", "/photos/optimize-physiotherapy-and-sports-injury-clinic-2.jpg", "/photos/optimize-physiotherapy-and-sports-injury-clinic-3.jpg"]
 rating: 4.9
-review_count: 483
+review_count: 484
 price_range: "$$"
 amenities:
 

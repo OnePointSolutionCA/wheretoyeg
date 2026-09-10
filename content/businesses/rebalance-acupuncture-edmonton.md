@@ -11,12 +11,12 @@ phone: "(780) 801-1667"
 website: "http://www.acupunctureedmonton.com/"
 google_maps_url: "https://maps.google.com/?cid=3581703113869802317&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 10:00 PM"
-  tuesday: "8:00 AM - 10:00 PM"
-  wednesday: "8:00 AM - 10:00 PM"
-  thursday: "8:00 AM - 10:00 PM"
-  friday: "8:00 AM - 10:00 PM"
-  saturday: "8:00 AM - 10:00 PM"
+  monday: "8:00 AM–10:00 PM"
+  tuesday: "8:00 AM–10:00 PM"
+  wednesday: "8:00 AM–10:00 PM"
+  thursday: "8:00 AM–10:00 PM"
+  friday: "8:00 AM–10:00 PM"
+  saturday: "8:00 AM–10:00 PM"
   sunday: "Closed"
 photos: ["/photos/rebalance-acupuncture-edmonton-1.jpg", "/photos/rebalance-acupuncture-edmonton-2.jpg", "/photos/rebalance-acupuncture-edmonton-3.jpg"]
 rating: 5

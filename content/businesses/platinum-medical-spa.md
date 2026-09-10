@@ -11,16 +11,16 @@ phone: "(780) 710-6424"
 website: "http://www.platinummedicalspa.ca/"
 google_maps_url: "https://maps.google.com/?cid=14299587659189171835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 7:00 PM"
-  tuesday: "9:00 AM - 7:00 PM"
-  wednesday: "9:00 AM - 7:00 PM"
-  thursday: "9:00 AM - 7:00 PM"
-  friday: "9:00 AM - 7:00 PM"
-  saturday: "9:00 AM - 7:00 PM"
+  monday: "9:00 AM–7:00 PM"
+  tuesday: "9:00 AM–7:00 PM"
+  wednesday: "9:00 AM–7:00 PM"
+  thursday: "9:00 AM–7:00 PM"
+  friday: "9:00 AM–7:00 PM"
+  saturday: "9:00 AM–7:00 PM"
   sunday: "Closed"
 photos: ["/photos/platinum-medical-spa-1.jpg", "/photos/platinum-medical-spa-2.jpg", "/photos/platinum-medical-spa-3.jpg"]
 rating: 4.8
-review_count: 767
+review_count: 768
 price_range: "$$"
 amenities:
 
@@ -28,10 +28,6 @@ tags: ["edmonton", "medspa"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Kinan Haj"
-    rating: 5
-    comment: |
-      Amazing results with laser hair removal .best laser hair removal,coolsculpting was a great experience at platinum medical spa. I also loved the halo laser resurfacing. They have the most advanced machines in the market
   - name: "Noor Neyamati"
     rating: 5
     comment: |
@@ -60,4 +56,12 @@ reviews:
       The treatment itself was exceptional—very gentle, precise, and clearly tailored to your needs. They take the time to explain each step beforehand and check in with you throughout, ensuring you feel comfortable and informed. You never feel rushed, and their attention to detail shows in both the process and the results.
       
       The refreshment area is a lovely touch, and parking is decent with a location that’s easy to find. Overall, the entire experience feels elevated and truly makes every penny worth it.
+  - name: "Esraa Alaa"
+    rating: 5
+    comment: |
+      I had an amazing laser treatment at Platinum Medical Spa! The place is clean, modern, and so relaxing. The staff were professional and explained every step of the process, which made me feel completely comfortable.
+      
+      The results were fantastic — my skin felt smooth and I noticed improvement from the very first session. They really pay attention to detail and ensure your comfort throughout the treatment.
+      
+      I highly recommend Platinum Medical Spa for anyone looking for professional laser services. I’ll definitely be coming back!
 ---

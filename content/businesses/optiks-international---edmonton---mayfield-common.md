@@ -11,12 +11,12 @@ phone: "(780) 481-8245"
 website: "http://optiksinternational.ca/"
 google_maps_url: "https://maps.google.com/?cid=4716783862975589787&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 6:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–6:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "9:00 AM–6:00 PM"
+  friday: "9:00 AM–6:00 PM"
+  saturday: "9:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/optiks-international---edmonton---mayfield-common-1.jpg", "/photos/optiks-international---edmonton---mayfield-common-2.jpg", "/photos/optiks-international---edmonton---mayfield-common-3.jpg"]
 rating: 4.6

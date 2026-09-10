@@ -17,8 +17,8 @@ hours:
   saturday: "8:00 AM - 7:00 PM"
   sunday: "8:00 AM - 6:00 PM"
 photos: ["/photos/nook-cafe-1.jpg", "/photos/nook-cafe-2.jpg", "/photos/nook-cafe-3.jpg"]
-rating: 4.6
-review_count: 620
+rating: 4.5
+review_count: 331
 price_range: "$$"
 amenities:
   - "Brunch"

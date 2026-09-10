@@ -11,16 +11,16 @@ phone: "(780) 784-3352"
 website: "https://www.fresha.com/book-now/mr-barber-xgfv3es7/services?lid=2916440&share=true&pId=1345428"
 google_maps_url: "https://maps.google.com/?cid=8657403876497811883&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 7:00 PM"
-  tuesday: "9:00 AM - 7:00 PM"
-  wednesday: "9:00 AM - 7:00 PM"
-  thursday: "9:00 AM - 7:00 PM"
-  friday: "9:00 AM - 7:00 PM"
-  saturday: "9:00 AM - 5:00 PM"
-  sunday: "10:00 AM - 5:00 PM"
+  monday: "9:00 AM–7:00 PM"
+  tuesday: "9:00 AM–7:00 PM"
+  wednesday: "9:00 AM–7:00 PM"
+  thursday: "9:00 AM–7:00 PM"
+  friday: "9:00 AM–7:00 PM"
+  saturday: "9:00 AM–5:00 PM"
+  sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/mr-barber-jasper-gates-1.jpg", "/photos/mr-barber-jasper-gates-2.jpg", "/photos/mr-barber-jasper-gates-3.jpg"]
 rating: 4.9
-review_count: 117
+review_count: 128
 price_range: "$$"
 amenities:
 

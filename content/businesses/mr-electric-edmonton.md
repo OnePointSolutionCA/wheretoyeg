@@ -11,16 +11,16 @@ website: "https://mrelectric.com/edmonton"
 phone: "780-244-4776"
 google_maps_url: "https://maps.google.com/?q=Mr+Electric+Edmonton"
 hours:
-  monday: "7:00 AM - 6:00 PM"
-  tuesday: "7:00 AM - 6:00 PM"
-  wednesday: "7:00 AM - 6:00 PM"
-  thursday: "7:00 AM - 6:00 PM"
-  friday: "7:00 AM - 6:00 PM"
-  saturday: "8:00 AM - 4:00 PM"
-  sunday: "Closed"
+  monday: "7:00 AM–9:00 PM"
+  tuesday: "7:00 AM–9:00 PM"
+  wednesday: "7:00 AM–9:00 PM"
+  thursday: "7:00 AM–9:00 PM"
+  friday: "7:00 AM–9:00 PM"
+  saturday: "7:00 AM–9:00 PM"
+  sunday: "7:00 AM–9:00 PM"
 photos: ["/photos/mr-electric-edmonton-1.jpg", "/photos/mr-electric-edmonton-2.jpg", "/photos/mr-electric-edmonton-3.jpg"]
-rating: 4.6
-review_count: 210
+rating: 4.9
+review_count: 638
 price_range: "$$"
 amenities:
   - "Licensed"

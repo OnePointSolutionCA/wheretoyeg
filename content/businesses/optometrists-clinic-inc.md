@@ -11,16 +11,16 @@ phone: "(780) 488-0944"
 website: "https://www.optometristsclinic.com/jasper-ave-eye-centre?utm_source=google&utm_medium=organic&utm_campaign=GMB_Jasper"
 google_maps_url: "https://maps.google.com/?cid=16139562218380317804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:30 AM - 5:00 PM"
-  tuesday: "8:30 AM - 7:00 PM"
-  wednesday: "8:30 AM - 5:00 PM"
-  thursday: "8:30 AM - 7:00 PM"
-  friday: "8:30 AM - 5:00 PM"
-  saturday: "9:00 AM - 2:30 PM"
+  monday: "8:30 AM–5:00 PM"
+  tuesday: "8:30 AM–7:00 PM"
+  wednesday: "8:30 AM–5:00 PM"
+  thursday: "8:30 AM–7:00 PM"
+  friday: "8:30 AM–5:00 PM"
+  saturday: "9:00 AM–2:30 PM"
   sunday: "Closed"
 photos: ["/photos/optometrists-clinic-inc-1.jpg", "/photos/optometrists-clinic-inc-2.jpg", "/photos/optometrists-clinic-inc-3.jpg"]
 rating: 4.6
-review_count: 71
+review_count: 72
 price_range: "$$"
 amenities:
 

@@ -10,16 +10,16 @@ neighborhood: "Mill Woods"
 phone: "(780) 485-3504"
 google_maps_url: "https://maps.google.com/?q=Millwoods+Grocery+Halal+Meat+Edmonton"
 hours:
-  monday: "10:00 AM - 6:00 PM"
+  monday: "10:00 AM–6:00 PM"
   tuesday: "Closed"
-  wednesday: "10:00 AM - 8:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 8:00 PM"
-  saturday: "10:00 AM - 8:00 PM"
-  sunday: "11:00 AM - 6:00 PM"
+  wednesday: "10:00 AM–8:00 PM"
+  thursday: "10:00 AM–8:00 PM"
+  friday: "10:00 AM–8:00 PM"
+  saturday: "10:00 AM–8:00 PM"
+  sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/millwoods-grocery-halal-1.jpg", "/photos/millwoods-grocery-halal-2.jpg", "/photos/millwoods-grocery-halal-3.jpg"]
 rating: 4.2
-review_count: 231
+review_count: 237
 price_range: "$"
 amenities:
   - "Halal Meat"

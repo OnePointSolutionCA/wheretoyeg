@@ -11,16 +11,16 @@ phone: "(780) 244-6896"
 website: "http://ouzotaverna.ca/"
 google_maps_url: "https://maps.google.com/?cid=10409000385670495334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 9:00 PM"
-  tuesday: "11:00 AM - 9:00 PM"
-  wednesday: "11:00 AM - 9:00 PM"
-  thursday: "11:00 AM - 9:00 PM"
-  friday: "11:00 AM - 9:00 PM"
-  saturday: "11:00 AM - 9:00 PM"
-  sunday: "11:00 AM - 9:00 PM"
+  monday: "11:00 AM–9:00 PM"
+  tuesday: "11:00 AM–9:00 PM"
+  wednesday: "11:00 AM–9:00 PM"
+  thursday: "11:00 AM–9:00 PM"
+  friday: "11:00 AM–9:00 PM"
+  saturday: "11:00 AM–9:00 PM"
+  sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/ouzo-taverna-1.jpg", "/photos/ouzo-taverna-2.jpg", "/photos/ouzo-taverna-3.jpg"]
 rating: 4.9
-review_count: 537
+review_count: 544
 price_range: "$$"
 amenities:
   - "Dine-In"

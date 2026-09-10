@@ -11,16 +11,16 @@ phone: "(825) 480-1998"
 website: "https://www.rockjungleclimbing.ca/niche-1"
 google_maps_url: "https://maps.google.com/?cid=5933389002129854623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 11:00 PM"
-  tuesday: "11:00 AM - 11:00 PM"
-  wednesday: "11:00 AM - 11:00 PM"
-  thursday: "11:00 AM - 11:00 PM"
-  friday: "11:00 AM - 11:00 PM"
-  saturday: "9:00 AM - 9:00 PM"
-  sunday: "9:00 AM - 9:00 PM"
+  monday: "11:00 AM–11:00 PM"
+  tuesday: "11:00 AM–11:00 PM"
+  wednesday: "11:00 AM–11:00 PM"
+  thursday: "11:00 AM–11:00 PM"
+  friday: "11:00 AM–11:00 PM"
+  saturday: "9:00 AM–9:00 PM"
+  sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/niche-climbing-1.jpg", "/photos/niche-climbing-2.jpg", "/photos/niche-climbing-3.jpg"]
-rating: 4.9
-review_count: 161
+rating: 4.8
+review_count: 163
 price_range: "$$"
 amenities:
 

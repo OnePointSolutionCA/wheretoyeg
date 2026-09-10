@@ -12,11 +12,11 @@ website: "https://nxtroasters.com/"
 google_maps_url: "https://maps.google.com/?cid=14079106132467862202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "8:00 AM - 5:30 PM"
-  wednesday: "8:00 AM - 5:30 PM"
-  thursday: "8:00 AM - 5:30 PM"
-  friday: "8:00 AM - 5:30 PM"
-  saturday: "8:00 AM - 5:30 PM"
+  tuesday: "8:00 AM–5:30 PM"
+  wednesday: "8:00 AM–5:30 PM"
+  thursday: "8:00 AM–5:30 PM"
+  friday: "8:00 AM–5:30 PM"
+  saturday: "8:00 AM–5:30 PM"
   sunday: "Closed"
 photos: ["/photos/nxt-roasters---freshly-roasted-coffee-1.jpg", "/photos/nxt-roasters---freshly-roasted-coffee-2.jpg", "/photos/nxt-roasters---freshly-roasted-coffee-3.jpg"]
 rating: 4.9

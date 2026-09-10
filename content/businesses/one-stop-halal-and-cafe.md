@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 244-8882"
 google_maps_url: "https://maps.google.com/?cid=7071944433984070202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 9:00 PM"
-  tuesday: "10:00 AM - 9:00 PM"
-  wednesday: "10:00 AM - 9:00 PM"
-  thursday: "10:00 AM - 9:00 PM"
-  friday: "10:00 AM - 10:00 PM"
-  saturday: "10:00 AM - 10:00 PM"
-  sunday: "10:00 AM - 9:00 PM"
+  monday: "10:00 AM–9:00 PM"
+  tuesday: "10:00 AM–9:00 PM"
+  wednesday: "10:00 AM–9:00 PM"
+  thursday: "10:00 AM–9:00 PM"
+  friday: "10:00 AM–10:00 PM"
+  saturday: "10:00 AM–10:00 PM"
+  sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/one-stop-halal-and-cafe-1.jpg", "/photos/one-stop-halal-and-cafe-2.jpg", "/photos/one-stop-halal-and-cafe-3.jpg"]
 rating: 4.8
-review_count: 32
+review_count: 33
 price_range: "$$"
 amenities:
   - "Halal"

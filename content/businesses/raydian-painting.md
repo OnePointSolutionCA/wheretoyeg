@@ -11,16 +11,16 @@ phone: "(587) 416-5943"
 website: "https://raydianpainting.com/"
 google_maps_url: "https://maps.google.com/?cid=9048941565409326271&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/raydian-painting-1.jpg", "/photos/raydian-painting-2.jpg", "/photos/raydian-painting-3.jpg"]
 rating: 5
-review_count: 162
+review_count: 165
 price_range: "$$"
 amenities:
 

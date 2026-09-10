@@ -11,16 +11,16 @@ phone: "(780) 244-4456"
 website: "https://natanbarbershop.com/"
 google_maps_url: "https://maps.google.com/?cid=12897540312163238722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 9:00 PM"
-  tuesday: "9:00 AM - 9:00 PM"
-  wednesday: "9:00 AM - 9:00 PM"
-  thursday: "9:00 AM - 9:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "9:00 AM - 9:00 PM"
-  sunday: "9:00 AM - 9:00 PM"
+  monday: "9:00 AM–9:00 PM"
+  tuesday: "9:00 AM–9:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
+  saturday: "9:00 AM–9:00 PM"
+  sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/natan-barber-shop-1.jpg", "/photos/natan-barber-shop-2.jpg", "/photos/natan-barber-shop-3.jpg"]
 rating: 4.9
-review_count: 309
+review_count: 311
 price_range: "$$"
 amenities:
 

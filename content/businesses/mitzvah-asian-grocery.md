@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 716-2427"
 google_maps_url: "https://maps.google.com/?cid=11212789383116214582&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 7:00 PM"
-  tuesday: "9:00 AM - 7:00 PM"
-  wednesday: "9:00 AM - 7:00 PM"
-  thursday: "9:00 AM - 7:00 PM"
-  friday: "9:00 AM - 7:00 PM"
-  saturday: "9:00 AM - 7:00 PM"
-  sunday: "11:00 AM - 6:00 PM"
+  monday: "9:00 AM–7:00 PM"
+  tuesday: "9:00 AM–7:00 PM"
+  wednesday: "9:00 AM–7:00 PM"
+  thursday: "9:00 AM–7:00 PM"
+  friday: "9:00 AM–7:00 PM"
+  saturday: "9:00 AM–7:00 PM"
+  sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/mitzvah-asian-grocery-1.jpg", "/photos/mitzvah-asian-grocery-2.jpg", "/photos/mitzvah-asian-grocery-3.jpg"]
-rating: 4.3
-review_count: 6
+rating: 4.4
+review_count: 7
 price_range: "$$"
 amenities:
 

@@ -16,17 +16,32 @@ photos:
 reviews:
   - name: "Becky Ng"
     rating: 5
-    comment: "This is probably my third time ordering and today the guy who helped me on the phone was very kind ! He took my order even tho they close in 15 min I really appreciate it !! And they make the pizza and wings amazing !!"
+    comment: |
+      This is probably my third time ordering and today the guy who helped me on the phone was very kind !
+      He took my order even tho they close in 15 min I really appreciate it !!
+      And they make the pizza and wings amazing !!
   - name: "Ray R"
     rating: 1
-    comment: "The worst pizza that my family ever consumed. They may as well sell the dough for $40. They are trying to boost their profit margins by skimping on everything that goes on a pizza. By doing that, customers are leaving in droves."
+    comment: |
+      The worst pizza that my family ever consumed. They may as well sell the dough for $40. They are trying to boost their profit margins by skimping on everything that goes on a pizza. By doing that, customers are leaving in droves.
   - name: "Alex B"
     rating: 5
-    comment: "Literally love this place. I’ve been through all the pizza chains throughout the years and have officially settled here every Saturday. The consistency is unmatched and the workers are fantastic, the girl that works there on Saturday's will remember me and my order without even telling her most of the time. Just a sooooolid spot!"
+    comment: |
+      Literally love this place. I’ve been through all the pizza chains throughout the years and have officially settled here every Saturday. The consistency is unmatched and the workers are fantastic, the girl that works there on Saturday's will remember me and my order without even telling her most of the time. Just a sooooolid spot!
   - name: "North 360"
     rating: 1
-    comment: "Ordered pizzas with 1-topping and extra cheese and they barely had any cheese or the meat topping on them.  Sent in a complaint but the reply provided no resolution to the issue.  I’ve had pizzas from here before and this will be the last time.  There are many other places to get pizza in town so this place has lost me as their customer."
+    comment: |
+      Ordered pizzas with 1-topping and extra cheese and they barely had any cheese or the meat topping on them.  Sent in a complaint but the reply provided no resolution to the issue.  I’ve had pizzas from here before and this will be the last time.  There are many other places to get pizza in town so this place has lost me as their customer.
   - name: "Alex Hare"
     rating: 5
-    comment: "Food was delicious, the counter worker aided me in the correct sizes of pizzas i needed for the amount I was needed and offered great conversation while waiting for the pizzas to bake."
+    comment: |
+      Food was delicious, the counter worker aided me in the correct sizes of pizzas i needed for the amount I was needed and offered great conversation while waiting for the pizzas to bake.
+hours:
+  monday: "11:00 AM–11:00 PM"
+  tuesday: "11:00 AM–11:00 PM"
+  wednesday: "11:00 AM–11:00 PM"
+  thursday: "11:00 AM–11:00 PM"
+  friday: "11:00 AM–11:00 PM"
+  saturday: "11:00 AM–11:00 PM"
+  sunday: "11:00 AM–11:00 PM"
 ---

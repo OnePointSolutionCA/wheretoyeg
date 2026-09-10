@@ -11,16 +11,16 @@ phone: "(587) 400-6816"
 website: "https://perfectautoyeg.ca/"
 google_maps_url: "https://maps.google.com/?cid=14301808989157146314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:30 AM - 5:00 PM"
-  tuesday: "8:30 AM - 5:00 PM"
-  wednesday: "8:30 AM - 5:00 PM"
-  thursday: "8:30 AM - 5:00 PM"
-  friday: "8:30 AM - 5:00 PM"
-  saturday: "8:30 AM - 1:00 PM"
+  monday: "8:30 AM–5:00 PM"
+  tuesday: "8:30 AM–5:00 PM"
+  wednesday: "8:30 AM–5:00 PM"
+  thursday: "8:30 AM–5:00 PM"
+  friday: "8:30 AM–5:00 PM"
+  saturday: "8:30 AM–1:00 PM"
   sunday: "Closed"
 photos: ["/photos/perfect-auto-glass-1.jpg", "/photos/perfect-auto-glass-2.jpg", "/photos/perfect-auto-glass-3.jpg"]
 rating: 4.9
-review_count: 329
+review_count: 331
 price_range: "$$"
 amenities:
 

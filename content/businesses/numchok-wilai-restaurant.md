@@ -12,15 +12,15 @@ website: "http://numchokwilai.ca/"
 google_maps_url: "https://maps.google.com/?cid=17630090976304938885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "5:00 - 9:00 PM"
-  wednesday: "12:00 - 2:00 PM, 5:00 - 9:00 PM"
-  thursday: "12:00 - 2:00 PM, 5:00 - 9:00 PM"
-  friday: "12:00 - 2:00 PM, 5:00 - 9:00 PM"
-  saturday: "5:00 - 9:00 PM"
-  sunday: "5:00 - 9:00 PM"
+  tuesday: "5:00 PM–9:00 PM"
+  wednesday: "12:00 PM–2:00 PM"
+  thursday: "12:00 PM–2:00 PM"
+  friday: "12:00 PM–2:00 PM"
+  saturday: "5:00 PM–9:00 PM"
+  sunday: "5:00 PM–9:00 PM"
 photos: ["/photos/numchok-wilai-restaurant-1.jpg", "/photos/numchok-wilai-restaurant-2.jpg", "/photos/numchok-wilai-restaurant-3.jpg"]
 rating: 4.6
-review_count: 370
+review_count: 372
 price_range: "$$"
 amenities:
   - "Dine-In"

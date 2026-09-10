@@ -9,16 +9,16 @@ address: "9626 96A St NW"
 neighborhood: "Central Edmonton"
 google_maps_url: "https://maps.google.com/?q=Muttart%20Conservatory%20Edmonton"
 hours:
-  monday: "Closed"
-  tuesday: "10:00 AM - 5:00 PM"
-  wednesday: "10:00 AM - 5:00 PM"
-  thursday: "10:00 AM - 9:00 PM"
-  friday: "10:00 AM - 5:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
-  sunday: "10:00 AM - 5:00 PM"
+  monday: "10:00 AM–5:00 PM"
+  tuesday: "10:00 AM–5:00 PM"
+  wednesday: "10:00 AM–9:00 PM"
+  thursday: "10:00 AM–9:00 PM"
+  friday: "10:00 AM–5:00 PM"
+  saturday: "10:00 AM–5:00 PM"
+  sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/muttart-conservatory-1.jpg", "/photos/muttart-conservatory-2.jpg", "/photos/muttart-conservatory-3.jpg"]
 rating: 4.7
-review_count: 3600
+review_count: 2499
 price_range: "$$"
 amenities:
   - "Family Friendly"

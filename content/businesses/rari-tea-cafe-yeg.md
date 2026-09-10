@@ -11,16 +11,16 @@ phone: "(780) 826-0388"
 website: "https://www.instagram.com/raritea.cafe/"
 google_maps_url: "https://maps.google.com/?cid=16432573395446146776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 9:00 PM"
-  tuesday: "11:00 AM - 9:00 PM"
-  wednesday: "11:00 AM - 9:00 PM"
-  thursday: "11:00 AM - 9:00 PM"
-  friday: "12:00 - 10:00 PM"
-  saturday: "12:00 - 10:00 PM"
+  monday: "11:00 AM–9:00 PM"
+  tuesday: "11:00 AM–9:00 PM"
+  wednesday: "11:00 AM–9:00 PM"
+  thursday: "11:00 AM–9:00 PM"
+  friday: "12:00 PM–10:00 PM"
+  saturday: "12:00 PM–10:00 PM"
   sunday: "Closed"
 photos: ["/photos/rari-tea-cafe-yeg-1.jpg", "/photos/rari-tea-cafe-yeg-2.jpg", "/photos/rari-tea-cafe-yeg-3.jpg"]
 rating: 4.8
-review_count: 95
+review_count: 101
 price_range: "$$"
 amenities:
 

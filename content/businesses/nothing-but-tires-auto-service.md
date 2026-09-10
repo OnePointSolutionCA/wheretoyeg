@@ -11,16 +11,16 @@ phone: "(780) 454-1300"
 website: "https://nothingbuttires.com/"
 google_maps_url: "https://maps.google.com/?cid=10735402893399259508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:30 AM - 5:00 PM"
-  tuesday: "8:30 AM - 5:00 PM"
-  wednesday: "8:30 AM - 5:00 PM"
-  thursday: "8:30 AM - 5:00 PM"
-  friday: "8:30 AM - 5:00 PM"
-  saturday: "10:00 AM - 3:00 PM"
+  monday: "8:30 AM–5:00 PM"
+  tuesday: "8:30 AM–5:00 PM"
+  wednesday: "8:30 AM–5:00 PM"
+  thursday: "8:30 AM–5:00 PM"
+  friday: "8:30 AM–5:00 PM"
+  saturday: "10:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/nothing-but-tires-auto-service-1.jpg", "/photos/nothing-but-tires-auto-service-2.jpg", "/photos/nothing-but-tires-auto-service-3.jpg"]
 rating: 4.8
-review_count: 3578
+review_count: 3584
 price_range: "$$"
 amenities:
 

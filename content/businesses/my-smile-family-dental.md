@@ -11,16 +11,16 @@ phone: "(780) 455-6806"
 website: "https://www.mysmilefamilydental.com/?utm_source=GBP&utm_medium=button&utm_campaign=Home"
 google_maps_url: "https://maps.google.com/?cid=14023221368316661679&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 8:00 PM"
-  tuesday: "8:00 AM - 8:00 PM"
-  wednesday: "8:00 AM - 8:00 PM"
-  thursday: "8:00 AM - 8:00 PM"
-  friday: "8:00 AM - 5:00 PM"
-  saturday: "8:00 AM - 3:00 PM"
-  sunday: "10:00 AM - 4:00 PM"
+  monday: "8:00 AM–8:00 PM"
+  tuesday: "8:00 AM–8:00 PM"
+  wednesday: "8:00 AM–8:00 PM"
+  thursday: "8:00 AM–8:00 PM"
+  friday: "8:00 AM–5:00 PM"
+  saturday: "8:00 AM–3:00 PM"
+  sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/my-smile-family-dental-1.jpg", "/photos/my-smile-family-dental-2.jpg", "/photos/my-smile-family-dental-3.jpg"]
 rating: 4.7
-review_count: 1286
+review_count: 1293
 price_range: "$$"
 amenities:
 

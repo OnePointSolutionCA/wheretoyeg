@@ -11,13 +11,13 @@ phone: "(780) 299-4510"
 website: "http://www.photographybyabhinav.com/"
 google_maps_url: "https://maps.google.com/?cid=1500149943259633883&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:30 AM - 11:45 PM"
-  tuesday: "7:30 AM - 11:45 PM"
-  wednesday: "7:30 AM - 11:45 PM"
-  thursday: "7:30 AM - 11:45 PM"
-  friday: "7:30 AM - 11:45 PM"
-  saturday: "7:30 AM - 11:30 PM"
-  sunday: "7:30 AM - 11:30 PM"
+  monday: "7:30 AM–11:45 PM"
+  tuesday: "7:30 AM–11:45 PM"
+  wednesday: "7:30 AM–11:45 PM"
+  thursday: "7:30 AM–11:45 PM"
+  friday: "7:30 AM–11:45 PM"
+  saturday: "7:30 AM–11:30 PM"
+  sunday: "7:30 AM–11:30 PM"
 photos: ["/photos/photography-by-abhinav-1.jpg", "/photos/photography-by-abhinav-2.jpg", "/photos/photography-by-abhinav-3.jpg"]
 rating: 4.9
 review_count: 145

@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "North Edmonton"
 google_maps_url: "https://maps.google.com/?q=Panther%20Gym%20Boxing%20Edmonton"
 hours:
-  monday: "9:00 AM - 8:00 PM"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 8:00 PM"
-  sunday: "10:00 AM - 6:00 PM"
+  monday: "4:00 PM–8:30 PM"
+  tuesday: "6:00 AM–8:30 AM"
+  wednesday: "6:00 AM–8:30 AM"
+  thursday: "6:00 AM–8:30 AM"
+  friday: "6:00 AM–8:30 AM"
+  saturday: "10:30 AM–3:00 PM"
+  sunday: "Closed"
 photos: ["/photos/panther-gym-boxing-1.jpg", "/photos/panther-gym-boxing-2.jpg", "/photos/panther-gym-boxing-3.jpg"]
-rating: 4.6
-review_count: 95
+rating: 4.8
+review_count: 111
 price_range: "$$"
 amenities:
   - "Coached Classes"
@@ -28,7 +28,7 @@ tags: ["boxing", "kickboxing", "combat-sports"]
 active: true
 date_listed: "2026-08-18"
 reviews:
-  - name: "Kristopher Manabo"
+  - name: "Kristopher Joriz Realon Manabo"
     rating: 5
     comment: |
       The best boxing gym in Edmonton. I owe this place a lot of gratitude, I’m very much grateful to have this place be a part of my health journey, the coach and the community behind this gym is unbelievable. This place changed me for the best, physically, mentally and emotionally- I’m on my way to becoming the best version of myself. The facility has everything you need: Change room, steam room, individual showers, yoga room, equipment and rings - they have everything you need to train, get fit and definitely for fighters looking for a place to train. They currently offer HOT YOGA and SMOOTHIE BAR. Such an amazing place to train. I’m very grateful to everyone that comes here, thanks for including me in the family. I cannot wait to see how much I change within a year of being here. BEST PLACE TO START YOUR FITNESS JOURNEY - LEARN HOW TO BOX HERE! Highly recommended. Thank you Panther Gym!

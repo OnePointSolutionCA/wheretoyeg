@@ -11,16 +11,16 @@ phone: "(780) 463-9997"
 website: "https://www.newasianvillage.com/"
 google_maps_url: "https://maps.google.com/?cid=12152973492684485501&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:30 AM - 12:00 AM"
-  tuesday: "11:30 AM - 12:00 AM"
-  wednesday: "11:30 AM - 12:00 AM"
-  thursday: "11:30 AM - 12:00 AM"
-  friday: "11:30 AM - 12:00 AM"
-  saturday: "12:00 PM - 12:00 AM"
-  sunday: "12:00 PM - 12:00 AM"
+  monday: "11:30 AM–12:00 AM"
+  tuesday: "11:30 AM–12:00 AM"
+  wednesday: "11:30 AM–12:00 AM"
+  thursday: "11:30 AM–12:00 AM"
+  friday: "11:30 AM–12:00 AM"
+  saturday: "12:00 PM–12:00 AM"
+  sunday: "12:00 PM–12:00 AM"
 photos: ["/photos/new-asian-village-largest-indian-buffet-in-edmonton-1.jpg", "/photos/new-asian-village-largest-indian-buffet-in-edmonton-2.jpg", "/photos/new-asian-village-largest-indian-buffet-in-edmonton-3.jpg"]
 rating: 4.5
-review_count: 2925
+review_count: 2937
 price_range: "$$"
 amenities:
   - "Delivery"

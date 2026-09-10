@@ -10,16 +10,16 @@ neighborhood: "West Edmonton"
 website: "https://www.mokhacoffeehouse.com"
 google_maps_url: "https://maps.google.com/?q=Mokha+Coffee+House+Edmonton"
 hours:
-  monday: "7:00 AM - 12:00 AM"
-  tuesday: "7:00 AM - 12:00 AM"
-  wednesday: "7:00 AM - 12:00 AM"
-  thursday: "7:00 AM - 12:00 AM"
-  friday: "7:00 AM - 1:00 AM"
-  saturday: "7:00 AM - 1:00 AM"
-  sunday: "7:00 AM - 12:00 AM"
+  monday: "7:00 AM–12:00 AM"
+  tuesday: "7:00 AM–12:00 AM"
+  wednesday: "7:00 AM–12:00 AM"
+  thursday: "7:00 AM–12:00 AM"
+  friday: "7:00 AM–1:00 AM"
+  saturday: "7:00 AM–1:00 AM"
+  sunday: "7:00 AM–12:00 AM"
 photos: ["/photos/mokha-coffee-house-1.jpg", "/photos/mokha-coffee-house-2.jpg", "/photos/mokha-coffee-house-3.jpg"]
-rating: 4.6
-review_count: 180
+rating: 4.7
+review_count: 2124
 price_range: "$$"
 amenities:
   - "Halal"

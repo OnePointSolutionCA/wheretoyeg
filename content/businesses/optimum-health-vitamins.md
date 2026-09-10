@@ -11,12 +11,12 @@ phone: "(780) 452-5705"
 website: "http://www.optimumhealth.ca/"
 google_maps_url: "https://maps.google.com/?cid=16381312532999760583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:30 AM - 7:00 PM"
-  tuesday: "9:30 AM - 7:00 PM"
-  wednesday: "9:30 AM - 7:00 PM"
-  thursday: "9:30 AM - 7:00 PM"
-  friday: "9:30 AM - 7:00 PM"
-  saturday: "9:30 AM - 5:30 PM"
+  monday: "9:30 AM–7:00 PM"
+  tuesday: "9:30 AM–7:00 PM"
+  wednesday: "9:30 AM–7:00 PM"
+  thursday: "9:30 AM–7:00 PM"
+  friday: "9:30 AM–7:00 PM"
+  saturday: "9:30 AM–5:30 PM"
   sunday: "Closed"
 photos: ["/photos/optimum-health-vitamins-1.jpg", "/photos/optimum-health-vitamins-2.jpg", "/photos/optimum-health-vitamins-3.jpg"]
 rating: 4.5
@@ -28,7 +28,7 @@ tags: ["edmonton", "health-food"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "CoachJR"
+  - name: "Truth Bomb"
     rating: 5
     comment: |
       I had a fantastic experience at Optimum Health Vitamins! The store is very well kept—clean, organized, and inviting, with a great selection of products.

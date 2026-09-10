@@ -15,17 +15,32 @@ photos:
 reviews:
   - name: "Kayle"
     rating: 5
-    comment: "The first time I went in, I happened to go in on customer appreciation day and save a really good amount on my vitamins and supplements.  The lady who helped me at the checkout was very friendly and I will be moving my prescriptions to their location."
+    comment: |
+      The first time I went in, I happened to go in on customer appreciation day and save a really good amount on my vitamins and supplements.
+      
+      The lady who helped me at the checkout was very friendly and I will be moving my prescriptions to their location.
   - name: "Vanessa Foley"
     rating: 5
-    comment: "Went in for my COVID shot and left with hope of feeling better overall. As a health care professional, I am incredibly impressed by the pharmacist and admin. Highly recommended."
+    comment: |
+      Went in for my COVID shot and left with hope of feeling better overall. As a health care professional, I am incredibly impressed by the pharmacist and admin. Highly recommended.
   - name: "GardenPaw"
     rating: 5
-    comment: "The first pharmacy I’ve been to where the pharmacist actually cares what prescriptions you are managing and provides helpful support/additional information.   You are not rushed out for trying to ask questions.    Highly recommend this pharmacy."
+    comment: |
+      The first pharmacy I’ve been to where the pharmacist actually cares what prescriptions you are managing and provides helpful support/additional information.   You are not rushed out for trying to ask questions.    Highly recommend this pharmacy.
   - name: "Chad Wagner"
     rating: 1
-    comment: "Not good at supporting their patients."
+    comment: |
+      Not good at supporting their patients.
   - name: "Skylar Murphy"
     rating: 5
-    comment: "Friendly, professional and efficient service."
+    comment: |
+      Friendly, professional and efficient service.
+hours:
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–6:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "9:00 AM–6:00 PM"
+  friday: "9:00 AM–6:00 PM"
+  saturday: "10:00 AM–2:00 PM"
+  sunday: "Closed"
 ---

@@ -11,16 +11,16 @@ phone: "(780) 486-2744"
 website: "https://parklandscaping.ca/"
 google_maps_url: "https://maps.google.com/?cid=3871318335365939504&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 6:00 PM"
-  tuesday: "8:00 AM - 6:00 PM"
-  wednesday: "8:00 AM - 6:00 PM"
-  thursday: "8:00 AM - 6:00 PM"
-  friday: "8:00 AM - 6:00 PM"
+  monday: "8:00 AM–6:00 PM"
+  tuesday: "8:00 AM–6:00 PM"
+  wednesday: "8:00 AM–6:00 PM"
+  thursday: "8:00 AM–6:00 PM"
+  friday: "8:00 AM–6:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/park-landscaping-1.jpg", "/photos/park-landscaping-2.jpg", "/photos/park-landscaping-3.jpg"]
 rating: 4.4
-review_count: 229
+review_count: 228
 price_range: "$$"
 amenities:
 

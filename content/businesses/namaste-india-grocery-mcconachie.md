@@ -11,13 +11,13 @@ phone: "(780) 244-2277"
 website: "http://namasteindiagrocery.ca/"
 google_maps_url: "https://maps.google.com/?cid=5584406988974558252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:30 AM - 10:00 PM"
-  tuesday: "9:30 AM - 10:00 PM"
-  wednesday: "9:30 AM - 10:00 PM"
-  thursday: "9:30 AM - 10:00 PM"
-  friday: "9:30 AM - 10:00 PM"
-  saturday: "9:30 AM - 10:00 PM"
-  sunday: "10:00 AM - 10:00 PM"
+  monday: "9:30 AM–10:00 PM"
+  tuesday: "9:30 AM–10:00 PM"
+  wednesday: "9:30 AM–10:00 PM"
+  thursday: "9:30 AM–10:00 PM"
+  friday: "9:30 AM–10:00 PM"
+  saturday: "9:30 AM–10:00 PM"
+  sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/namaste-india-grocery-mcconachie-1.jpg", "/photos/namaste-india-grocery-mcconachie-2.jpg", "/photos/namaste-india-grocery-mcconachie-3.jpg"]
 rating: 4.4
 review_count: 74

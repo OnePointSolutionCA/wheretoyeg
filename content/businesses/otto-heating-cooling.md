@@ -11,16 +11,16 @@ phone: "(780) 641-4103"
 website: "https://ottohc.com/?utm_source=GMBlisting&utm_medium=organic"
 google_maps_url: "https://maps.google.com/?cid=16544696286995775341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "Open 24 hours"
-  tuesday: "Open 24 hours"
-  wednesday: "Open 24 hours"
-  thursday: "Open 24 hours"
-  friday: "Open 24 hours"
-  saturday: "Open 24 hours"
-  sunday: "Open 24 hours"
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/otto-heating-cooling-1.jpg", "/photos/otto-heating-cooling-2.jpg", "/photos/otto-heating-cooling-3.jpg"]
 rating: 4.9
-review_count: 672
+review_count: 678
 price_range: "$$"
 amenities:
 

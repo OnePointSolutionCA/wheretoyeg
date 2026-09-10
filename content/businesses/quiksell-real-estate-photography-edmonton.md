@@ -11,16 +11,16 @@ phone: "(780) 900-6324"
 website: "http://quiksellyeg.ca/"
 google_maps_url: "https://maps.google.com/?cid=13129924577848672758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 6:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "9:00 AM - 6:00 PM"
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–6:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "9:00 AM–6:00 PM"
+  friday: "9:00 AM–6:00 PM"
+  saturday: "9:00 AM–6:00 PM"
   sunday: "Closed"
 photos: ["/photos/quiksell-real-estate-photography-edmonton-1.jpg", "/photos/quiksell-real-estate-photography-edmonton-2.jpg", "/photos/quiksell-real-estate-photography-edmonton-3.jpg"]
 rating: 5
-review_count: 80
+review_count: 81
 price_range: "$$"
 amenities:
 

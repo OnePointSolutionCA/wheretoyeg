@@ -11,16 +11,16 @@ phone: "(780) 655-1797"
 website: "https://www.ohmydogspa.ca/"
 google_maps_url: "https://maps.google.com/?cid=1814747963338971322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 6:00 PM"
-  tuesday: "8:00 AM - 6:00 PM"
-  wednesday: "8:00 AM - 6:00 PM"
-  thursday: "8:00 AM - 6:00 PM"
-  friday: "8:00 AM - 6:00 PM"
-  saturday: "8:00 AM - 4:00 PM"
+  monday: "8:00 AM–6:00 PM"
+  tuesday: "8:00 AM–6:00 PM"
+  wednesday: "8:00 AM–6:00 PM"
+  thursday: "8:00 AM–6:00 PM"
+  friday: "8:00 AM–6:00 PM"
+  saturday: "8:00 AM–4:00 PM"
   sunday: "Closed"
 photos: ["/photos/oh-my-dog-spa-and-grooming-1.jpg", "/photos/oh-my-dog-spa-and-grooming-2.jpg", "/photos/oh-my-dog-spa-and-grooming-3.jpg"]
 rating: 4.9
-review_count: 635
+review_count: 638
 price_range: "$$"
 amenities:
 

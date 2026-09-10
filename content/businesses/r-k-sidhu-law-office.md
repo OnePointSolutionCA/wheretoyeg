@@ -15,17 +15,30 @@ photos:
 reviews:
   - name: "Joan Valladares"
     rating: 5
-    comment: "We made our will with Ms Sidhu. She was very knowledgeable and answered all of our questions. And Matisha was super helpful too! Thank you!"
+    comment: |
+      We made our will with Ms Sidhu. She was very knowledgeable and answered all of our questions. And Matisha was super helpful too! Thank you!
   - name: "Sabrina"
     rating: 5
-    comment: "I highly recommend this law office for any of your real estate transactions. Sonia is a great lawyer with fair pricing."
+    comment: |
+      I highly recommend this law office for any of your real estate transactions. Sonia is a great lawyer with fair pricing.
   - name: "Andrea Bridges"
     rating: 5
-    comment: "Sonia did a great job on the legal transaction for our recent condo purchase.  Her price was very reasonable, and her efficiency and communication were excellent.  We were purchasing 'remotely', from out-of-province, so were a little anxious about the geographical challenge.  Although we never actually met Sonia in person, she made everything so easy - we were even able to sign all the papers via a Zoom meeting so she could witness our signatures.  That was the only time we have actually 'met' h"
+    comment: |
+      Sonia did a great job on the legal transaction for our recent condo purchase.  Her price was very reasonable, and her efficiency and communication were excellent.  We were purchasing 'remotely', from out-of-province, so were a little anxious about the geographical challenge.  Although we never actually met Sonia in person, she made everything so easy - we were even able to sign all the papers via a Zoom meeting so she could witness our signatures.  That was the only time we have actually 'met' her yet, and what an absolutely delightful lady she is.  Sonia, we look forward to meeting you in person once we move in, and will not hesitate to hire you again for any future legal needs.  Thank you!
   - name: "Natural Choice Dentures"
     rating: 5
-    comment: "Very good service, very friendly, very professional, not pushy, and excellent value. The whole experience was very pleasant. We even laughed a bit about our family business', which was a nice treat when dealing with the seriousness of wills, personal directives, and power of attorney's. Thank you Sonia and team."
+    comment: |
+      Very good service, very friendly, very professional, not pushy, and excellent value. The whole experience was very pleasant. We even laughed a bit about our family business', which was a nice treat when dealing with the seriousness of wills, personal directives, and power of attorney's. Thank you Sonia and team.
   - name: "Gangaben Patel"
     rating: 5
-    comment: "Excellent service! Girl at front is very nice"
+    comment: |
+      Excellent service! Girl at front is very nice
+hours:
+  monday: "8:30 AM–5:00 PM"
+  tuesday: "8:30 AM–5:00 PM"
+  wednesday: "8:30 AM–5:00 PM"
+  thursday: "8:30 AM–5:00 PM"
+  friday: "8:30 AM–5:00 PM"
+  saturday: "Closed"
+  sunday: "Closed"
 ---

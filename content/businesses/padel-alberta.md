@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "South Edmonton"
 google_maps_url: "https://maps.google.com/?q=Padel%20Alberta%20Edmonton"
 hours:
-  monday: "6:00 AM - 10:00 PM"
-  tuesday: "6:00 AM - 10:00 PM"
-  wednesday: "6:00 AM - 10:00 PM"
-  thursday: "6:00 AM - 10:00 PM"
-  friday: "6:00 AM - 10:00 PM"
-  saturday: "9:00 AM - 9:00 PM"
-  sunday: "9:00 AM - 9:00 PM"
+  monday: "8:00 AM–10:00 PM"
+  tuesday: "8:00 AM–10:00 PM"
+  wednesday: "8:00 AM–10:00 PM"
+  thursday: "8:00 AM–10:00 PM"
+  friday: "8:00 AM–10:00 PM"
+  saturday: "8:00 AM–10:00 PM"
+  sunday: "8:00 AM–10:00 PM"
 photos: ["/photos/padel-alberta-1.jpg", "/photos/padel-alberta-2.jpg", "/photos/padel-alberta-3.jpg"]
 rating: 4.8
-review_count: 85
+review_count: 109
 price_range: "$$$"
 amenities:
   - "Court Rentals"

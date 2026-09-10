@@ -11,16 +11,16 @@ phone: "(587) 853-5164"
 website: "https://www.oliverparkdental.ca/site/home?utm_source=G&utm_medium=LPM&utm_campaign=DentalCorp"
 google_maps_url: "https://maps.google.com/?cid=9957029255587543477&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 8:00 PM"
-  tuesday: "10:00 AM - 6:00 PM"
-  wednesday: "8:00 AM - 8:00 PM"
-  thursday: "10:00 AM - 6:00 PM"
-  friday: "9:00 AM - 4:00 PM"
-  saturday: "9:00 AM - 3:00 PM"
+  monday: "8:00 AM–8:00 PM"
+  tuesday: "10:00 AM–6:00 PM"
+  wednesday: "8:00 AM–8:00 PM"
+  thursday: "10:00 AM–6:00 PM"
+  friday: "9:00 AM–4:00 PM"
+  saturday: "9:00 AM–3:00 PM"
   sunday: "Closed"
 photos: ["/photos/oliver-park-dental-1.jpg", "/photos/oliver-park-dental-2.jpg", "/photos/oliver-park-dental-3.jpg"]
 rating: 4.7
-review_count: 605
+review_count: 606
 price_range: "$$"
 amenities:
 

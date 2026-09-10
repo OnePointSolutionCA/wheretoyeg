@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 455-1749"
 google_maps_url: "https://maps.google.com/?cid=3494757921874382362&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "10:00 AM - 3:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
+  saturday: "10:00 AM–3:00 PM"
   sunday: "Closed"
 photos: ["/photos/obies-auto-repair-ltd-1.jpg", "/photos/obies-auto-repair-ltd-2.jpg", "/photos/obies-auto-repair-ltd-3.jpg"]
 rating: 4.6
-review_count: 81
+review_count: 85
 price_range: "$$"
 amenities:
 

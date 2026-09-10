@@ -11,16 +11,16 @@ phone: "(780) 760-4747"
 website: "http://www.pipyeg.com/"
 google_maps_url: "https://maps.google.com/?cid=2324831590070707317&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 10:00 PM"
-  tuesday: "9:00 AM - 10:00 PM"
-  wednesday: "9:00 AM - 10:00 PM"
-  thursday: "9:00 AM - 10:00 PM"
-  friday: "9:00 AM - 11:00 PM"
-  saturday: "9:00 AM - 11:00 PM"
-  sunday: "9:00 AM - 10:00 PM"
+  monday: "9:00 AM–10:00 PM"
+  tuesday: "9:00 AM–10:00 PM"
+  wednesday: "9:00 AM–10:00 PM"
+  thursday: "9:00 AM–10:00 PM"
+  friday: "9:00 AM–11:00 PM"
+  saturday: "9:00 AM–11:00 PM"
+  sunday: "9:00 AM–10:00 PM"
 photos: ["/photos/pip-1.jpg", "/photos/pip-2.jpg", "/photos/pip-3.jpg"]
 rating: 4.6
-review_count: 1753
+review_count: 1758
 price_range: "$$"
 amenities:
   - "Dine-In"

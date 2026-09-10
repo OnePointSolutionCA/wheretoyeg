@@ -11,16 +11,16 @@ phone: "(587) 524-2222"
 website: "http://www.pomgrand.com/"
 google_maps_url: "https://maps.google.com/?cid=10871770703858008053&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:30 AM - 9:00 PM"
-  tuesday: "11:30 AM - 9:00 PM"
-  wednesday: "11:30 AM - 9:00 PM"
-  thursday: "11:30 AM - 9:00 PM"
-  friday: "11:30 AM - 10:00 PM"
-  saturday: "11:30 AM - 10:00 PM"
-  sunday: "11:30 AM - 10:00 PM"
+  monday: "11:30 AM–9:00 PM"
+  tuesday: "11:30 AM–9:00 PM"
+  wednesday: "11:30 AM–9:00 PM"
+  thursday: "11:30 AM–9:00 PM"
+  friday: "11:30 AM–10:00 PM"
+  saturday: "11:30 AM–10:00 PM"
+  sunday: "11:30 AM–10:00 PM"
 photos: ["/photos/pom-grand-persian-grill-1.jpg", "/photos/pom-grand-persian-grill-2.jpg", "/photos/pom-grand-persian-grill-3.jpg"]
 rating: 4.5
-review_count: 752
+review_count: 755
 price_range: "$$"
 amenities:
   - "Dine-In"

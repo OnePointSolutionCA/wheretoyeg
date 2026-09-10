@@ -11,16 +11,16 @@ phone: "(780) 489-1868"
 website: "https://localappointments.me/booking/8646B14"
 google_maps_url: "https://maps.google.com/?cid=18421218915013965861&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 9:00 PM"
-  tuesday: "10:00 AM - 9:00 PM"
-  wednesday: "10:00 AM - 9:00 PM"
-  thursday: "10:00 AM - 9:00 PM"
-  friday: "10:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 9:00 PM"
-  sunday: "11:00 AM - 6:00 PM"
+  monday: "10:00 AM–9:00 PM"
+  tuesday: "10:00 AM–9:00 PM"
+  wednesday: "10:00 AM–9:00 PM"
+  thursday: "10:00 AM–9:00 PM"
+  friday: "10:00 AM–9:00 PM"
+  saturday: "10:00 AM–9:00 PM"
+  sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/pro-nails-spa-1.jpg", "/photos/pro-nails-spa-2.jpg", "/photos/pro-nails-spa-3.jpg"]
 rating: 4.4
-review_count: 1083
+review_count: 1092
 price_range: "$$"
 amenities:
 

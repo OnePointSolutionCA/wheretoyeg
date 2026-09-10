@@ -11,16 +11,16 @@ phone: "(780) 888-5865"
 website: "http://www.orchidskintherapy.com/"
 google_maps_url: "https://maps.google.com/?cid=8862561664392547655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 7:00 PM"
-  tuesday: "10:00 AM - 7:00 PM"
-  wednesday: "10:00 AM - 7:00 PM"
-  thursday: "10:00 AM - 7:00 PM"
-  friday: "10:00 AM - 7:00 PM"
-  saturday: "10:00 AM - 6:00 PM"
-  sunday: "11:00 AM - 6:00 PM"
+  monday: "10:00 AM–7:00 PM"
+  tuesday: "10:00 AM–7:00 PM"
+  wednesday: "10:00 AM–7:00 PM"
+  thursday: "10:00 AM–7:00 PM"
+  friday: "10:00 AM–7:00 PM"
+  saturday: "10:00 AM–6:00 PM"
+  sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/orchid-skin-therapy-1.jpg", "/photos/orchid-skin-therapy-2.jpg", "/photos/orchid-skin-therapy-3.jpg"]
 rating: 5
-review_count: 162
+review_count: 163
 price_range: "$$"
 amenities:
 

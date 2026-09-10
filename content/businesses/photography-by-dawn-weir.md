@@ -11,16 +11,16 @@ phone: "(780) 458-4715"
 website: "https://www.photographybydawn.ca/"
 google_maps_url: "https://maps.google.com/?cid=12412775863914547397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 4:00 PM"
-  tuesday: "9:00 AM - 4:00 PM"
-  wednesday: "9:00 AM - 4:00 PM"
-  thursday: "9:00 AM - 4:00 PM"
-  friday: "9:00 AM - 4:00 PM"
+  monday: "9:00 AM–4:00 PM"
+  tuesday: "9:00 AM–4:00 PM"
+  wednesday: "9:00 AM–4:00 PM"
+  thursday: "9:00 AM–4:00 PM"
+  friday: "9:00 AM–4:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/photography-by-dawn-weir-2.jpg", "/photos/photography-by-dawn-weir-3.jpg"]
 rating: 5
-review_count: 121
+review_count: 122
 price_range: "$$"
 amenities:
 

@@ -11,16 +11,16 @@ phone: "(780) 756-5533"
 website: "https://monsterminigolf.com/locations/ca/al/edmonton/"
 google_maps_url: "https://maps.google.com/?cid=12380863833904854993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 9:00 PM"
-  tuesday: "12:00 - 9:00 PM"
-  wednesday: "12:00 - 9:00 PM"
-  thursday: "12:00 - 9:00 PM"
-  friday: "12:00 - 10:00 PM"
-  saturday: "12:00 - 10:00 PM"
-  sunday: "12:00 - 8:00 PM"
+  monday: "12:00 PM–9:00 PM"
+  tuesday: "12:00 PM–9:00 PM"
+  wednesday: "12:00 PM–9:00 PM"
+  thursday: "12:00 PM–9:00 PM"
+  friday: "12:00 PM–10:00 PM"
+  saturday: "12:00 PM–10:00 PM"
+  sunday: "12:00 PM–8:00 PM"
 photos: ["/photos/monster-mini-golf-edmonton-1.jpg", "/photos/monster-mini-golf-edmonton-2.jpg", "/photos/monster-mini-golf-edmonton-3.jpg"]
 rating: 4.4
-review_count: 1162
+review_count: 1166
 price_range: "$$"
 amenities:
 

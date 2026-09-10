@@ -11,16 +11,16 @@ phone: "(780) 482-1414"
 website: "https://nakatsuiderm.com/"
 google_maps_url: "https://maps.google.com/?cid=8801372371188283222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:30 AM - 5:30 PM"
-  tuesday: "8:30 AM - 5:30 PM"
-  wednesday: "8:30 AM - 5:30 PM"
-  thursday: "8:30 AM - 7:00 PM"
-  friday: "8:30 AM - 5:30 PM"
-  saturday: "9:00 AM - 4:00 PM"
+  monday: "8:30 AM–5:30 PM"
+  tuesday: "8:30 AM–5:30 PM"
+  wednesday: "8:30 AM–5:30 PM"
+  thursday: "8:30 AM–7:00 PM"
+  friday: "8:30 AM–5:30 PM"
+  saturday: "9:00 AM–4:00 PM"
   sunday: "Closed"
 photos: ["/photos/nakatsui-dermasurgery-1.jpg", "/photos/nakatsui-dermasurgery-2.jpg", "/photos/nakatsui-dermasurgery-3.jpg"]
 rating: 4.7
-review_count: 345
+review_count: 348
 price_range: "$$"
 amenities:
 

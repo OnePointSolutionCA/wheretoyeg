@@ -14,16 +14,16 @@ website: "https://onepointsolution.ca"
 instagram: "https://instagram.com/onepointsolutionsyeg"
 google_maps_url: "https://maps.google.com/?q=15020+116+Ave+NW+Edmonton"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/onepoint-solutions-1.jpg", "/photos/onepoint-solutions-2.jpg", "/photos/onepoint-solutions-3.jpg"]
 rating: 5
-review_count: 26
+review_count: 27
 price_range: "$$"
 amenities:
   - "Free Consultation"

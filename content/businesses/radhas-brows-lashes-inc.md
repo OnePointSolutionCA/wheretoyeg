@@ -11,13 +11,13 @@ phone: "(587) 334-4243"
 website: "https://radhasbrowslashes.ca/"
 google_maps_url: "https://maps.google.com/?cid=8606898497501094444&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 6:00 PM"
+  monday: "12:00 PM–6:00 PM"
   tuesday: "Closed"
-  wednesday: "10:00 AM - 6:00 PM"
-  thursday: "10:00 AM - 6:00 PM"
-  friday: "10:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 6:00 PM"
-  sunday: "11:00 AM - 5:00 PM"
+  wednesday: "10:00 AM–6:00 PM"
+  thursday: "10:00 AM–6:00 PM"
+  friday: "10:00 AM–6:00 PM"
+  saturday: "10:00 AM–6:00 PM"
+  sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/radhas-brows-lashes-inc-1.jpg", "/photos/radhas-brows-lashes-inc-2.jpg", "/photos/radhas-brows-lashes-inc-3.jpg"]
 rating: 5
 review_count: 200

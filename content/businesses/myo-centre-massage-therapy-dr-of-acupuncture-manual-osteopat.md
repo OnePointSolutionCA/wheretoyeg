@@ -11,13 +11,13 @@ phone: "(780) 451-9290"
 website: "http://www.myocentremassagetherapy.com/"
 google_maps_url: "https://maps.google.com/?cid=2964888667015985144&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 9:00 PM"
-  tuesday: "8:00 AM - 9:00 PM"
-  wednesday: "8:00 AM - 9:00 PM"
-  thursday: "8:00 AM - 9:00 PM"
-  friday: "8:00 AM - 9:00 PM"
-  saturday: "8:00 AM - 9:00 PM"
-  sunday: "8:00 AM - 9:00 PM"
+  monday: "8:00 AM–9:00 PM"
+  tuesday: "8:00 AM–9:00 PM"
+  wednesday: "8:00 AM–9:00 PM"
+  thursday: "8:00 AM–9:00 PM"
+  friday: "8:00 AM–9:00 PM"
+  saturday: "8:00 AM–9:00 PM"
+  sunday: "8:00 AM–9:00 PM"
 photos: ["/photos/myo-centre-massage-therapy-dr-of-acupuncture-manual-osteopat-1.jpg", "/photos/myo-centre-massage-therapy-dr-of-acupuncture-manual-osteopat-2.jpg", "/photos/myo-centre-massage-therapy-dr-of-acupuncture-manual-osteopat-3.jpg"]
 rating: 4.8
 review_count: 169

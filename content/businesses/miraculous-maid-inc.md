@@ -11,16 +11,16 @@ phone: "(780) 702-5387"
 website: "https://www.miraculousmaids.ca/?utm_source=google&utm_medium=cpc&utm_campaign=mm_gmb"
 google_maps_url: "https://maps.google.com/?cid=16014052399534588745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/miraculous-maid-inc-1.jpg", "/photos/miraculous-maid-inc-2.jpg", "/photos/miraculous-maid-inc-3.jpg"]
 rating: 4.6
-review_count: 508
+review_count: 512
 price_range: "$$"
 amenities:
 

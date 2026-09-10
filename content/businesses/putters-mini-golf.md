@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "South Edmonton"
 google_maps_url: "https://maps.google.com/?q=Putters%20Mini%20Golf%20Edmonton"
 hours:
-  monday: "12:00 PM - 10:00 PM"
-  tuesday: "12:00 PM - 10:00 PM"
-  wednesday: "12:00 PM - 10:00 PM"
-  thursday: "12:00 PM - 10:00 PM"
-  friday: "11:00 AM - 11:00 PM"
-  saturday: "10:00 AM - 11:00 PM"
-  sunday: "10:00 AM - 10:00 PM"
+  monday: "12:00 PM–9:00 PM"
+  tuesday: "12:00 PM–9:00 PM"
+  wednesday: "12:00 PM–9:00 PM"
+  thursday: "12:00 PM–9:00 PM"
+  friday: "12:00 PM–10:00 PM"
+  saturday: "12:00 PM–10:00 PM"
+  sunday: "12:00 PM–8:00 PM"
 photos: ["/photos/putters-mini-golf-1.jpg", "/photos/putters-mini-golf-2.jpg", "/photos/putters-mini-golf-3.jpg"]
-rating: 4.5
-review_count: 165
+rating: 4.4
+review_count: 1166
 price_range: "$"
 amenities:
   - "Indoor"

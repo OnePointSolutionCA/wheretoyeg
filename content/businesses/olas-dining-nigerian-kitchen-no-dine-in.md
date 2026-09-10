@@ -11,12 +11,12 @@ phone: "(587) 741-1104"
 website: "http://www.olasdining.com/"
 google_maps_url: "https://maps.google.com/?cid=5611350681106685511&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 8:00 PM"
-  tuesday: "10:00 AM - 8:00 PM"
-  wednesday: "10:00 AM - 8:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 8:00 PM"
-  saturday: "12:00 - 8:00 PM"
+  monday: "10:00 AM–8:00 PM"
+  tuesday: "10:00 AM–8:00 PM"
+  wednesday: "10:00 AM–8:00 PM"
+  thursday: "10:00 AM–8:00 PM"
+  friday: "10:00 AM–8:00 PM"
+  saturday: "12:00 PM–8:00 PM"
   sunday: "Closed"
 photos: ["/photos/olas-dining-nigerian-kitchen-no-dine-in-1.jpg", "/photos/olas-dining-nigerian-kitchen-no-dine-in-2.jpg", "/photos/olas-dining-nigerian-kitchen-no-dine-in-3.jpg"]
 rating: 4.6

@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "South Edmonton"
 google_maps_url: "https://maps.google.com/?q=Polished%20Nail%20Art%20Studio%20Edmonton"
 hours:
-  monday: "9:00 AM - 8:00 PM"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 8:00 PM"
-  sunday: "10:00 AM - 6:00 PM"
+  monday: "10:00 AM–7:00 PM"
+  tuesday: "10:00 AM–7:00 PM"
+  wednesday: "10:00 AM–7:00 PM"
+  thursday: "10:00 AM–7:00 PM"
+  friday: "10:00 AM–7:00 PM"
+  saturday: "10:00 AM–6:00 PM"
+  sunday: "Closed"
 photos: ["/photos/polished-nail-art-studio-1.jpg", "/photos/polished-nail-art-studio-2.jpg", "/photos/polished-nail-art-studio-3.jpg"]
-rating: 4.7
-review_count: 165
+rating: 4.4
+review_count: 231
 price_range: "$$"
 amenities:
   - "Nail Art"
@@ -29,42 +29,30 @@ tags: ["nail-art", "gel", "acrylic", "dip"]
 active: true
 date_listed: "2026-08-18"
 reviews:
-  - name: "Brooke Hunker"
+  - name: "Rayne Tatyana"
     rating: 5
     comment: |
-      I’ve been going to Vicky for my nails for almost a year now and I can’t recommend her enough! She does amazing work and is always excited to try any ideas I have for my nails. She is extremely gentle when working on my nails and takes care not to damage the natural nail or cuticle bed. I drive from the Southside of Edmonton and even followed her from her previous studio in Leduc. The drive is well worth it and I recommend her to anyone wanting an exceptional nail artist! (Chrome nails below are not my nails as it’s the one set I forgot to take a photo of but they looked exactly like the picture!).
-  - name: "Cari Gray"
+      My moms and I go-to nail place! Absolutely lovely ladies and I am always incredibly happy with my sets! Quinn did my nails today. She did an amazing job!
+  - name: "Kloie Ladouceur"
+    rating: 5
+    comment: |
+      They have been doing my nails since I was 17, my friend recommended this place to me a long time ago and they always do such a amazing job on my nails.
+  - name: "Meheret"
+    rating: 5
+    comment: |
+      I’ve been getting my nails done here for years and everyone is amazing at pink polish! I have always seen Jojo and she is my absolute favourite person to get my nails done by - our appointments are always full of laughs and she does an amazing job of making sure im getting exactly what i want each time. :)
+      
+      I’ve also been helped by everyone else here at some point over the years, and I’ve never been let down. While Jojo was away visiting family, Vee stepped in and kindly took care of me with any minor repair, fills, etc. He takes his time, doesn’t rush, and made my nails look fantastic!
+      
+      Pink polish is my number 1 favourite place for a mani/pedi in Edmonton - prices are very fair and the staff is so patient and kind. Can’t wait to see you all again soon :)
+      
+      -Meezy
+  - name: "Andrea"
+    rating: 5
+    comment: |
+      Love love love my nails. She did exactly what I wanted (I posted the inspo and my actual nails with this review.) It took a bit longer than usual (between waiting and then doing the nails I was in there for 1.5 hour) but the nails are perfect. No flaws. Much more precise job than other places I have been to. I paid $65 plus tax for acrylic nails. They accept credit card which not all the nail salons do. I don’t live in Edmonton but if I did I would definitely be back!
+  - name: "Guay Kennedy"
     rating: 1
     comment: |
-      I enjoyed Nail Nerd when I first went. I liked the way the nails looked, although, I never had a set where I didn't have at least 1 nail break. I figured it was not a big deal, because the nails looked good and I enjoyed the tech I had.
-      The last time I went, I had 6 nails break. The first two broke within 3 days, through no fault of my own. I just noticed they were broken. I didnt bang them or hook them on anything.
-      I went in and had them repaired and paid for the repair. Over the next two weeks, 4 more nails broke. Same thing, I just noticed they were broken and there was no damage to them beforehand.
-      I called Nail Nerd because at this point, 60% of my nails had broken off. I do not have the time for that many repairs. Initially, the manager offered to have me come in to repair the 4 that were broken. I told him I would like a new set. I figured the product was defective or something and if I got the broken ones repaired, the remaining 4 nails would break at some point.
-      He agreed and said I could come in for a new set. He assured me that my nails would be removed and I would be given a new set.
-      This is where it gets bad. I would not be writing this review at all if I had gone in and gotten a new set. I would have considered that good customer service and that would be that.
-      I went in for my new set and the tech I had was the same one I had every time I had been there. She was always chatty and cheerful. She did not talk to me at all. She made it incredibly clear that she was pissed. I assume because I complained. There was no hint of professionalism. It was the most awkward 45 minutes I've ever had and I could not wait to get out.
-      I did not get a new set, I got a fill and I am calling them my "spite nails." They are terrible. I will include a picture. I know she can do a nice job. I've seen it. She purposefully gave me thick, thick, nails. I guess they won't break....
-      There is a smudge on one, multiple nails are crooked.
-      It feels so personal and so spiteful.
-      I gave her a 10 dollar tip before I looked at the nails. I had no ill will towards her and did  not want her wasting her time. She tried very hard to refuse the  tip, (really the only time she spoke to me), and I hope it's because she felt a little guilty for the garbage nails she gave me.
-      I will, obviously, never return. The lack of professionalism was hard to believe.
-      Credit to the manager who tried to fix a very real problem.
-  - name: "Victoria B"
-    rating: 5
-    comment: |
-      Irene is exceptional!! I’ve been coming here for a couple of months now and she kills it every time! Her talent and attention to detail is spectacular. My first time coming here I booked online and chose “anyone” and I got her but now I will continue to book with her every time! Highly recommended this place.
-  - name: "Axiana"
-    rating: 5
-    comment: |
-      Another set of nails these ones by Irene and they are beautiful!! The holo butterfly nails are stunning. I brought her a video and she made my nails 100% exactly the same!!!
-      
-      Absolutely amazing!! They are so friendly, and are great at doing nails, I may have weird shaped toes but at least my nails look great, they even took time on my pink toe that barely has a nail 🤣 I will definitely go back
-  - name: "Kailee (Kiwi)"
-    rating: 5
-    comment: |
-      Ivy is honestly the best nail tech I’ve ever had. She is always up for whatever crazy design I come in with ,spooky, anime themed, witchy, or anything in between and she executes it phenomenally every single time. Her attention to detail and creativity are unmatched.
-      I've also never had a singular issues with any of my nails popping off or not lasting longer than 4+ weeks
-      On top of her talent, Ivy is such a wonderful person to sit with during appointments. She never expects you to be more than what you are that day. Whether you feel like chatting or just sitting quietly, she makes the space feel comfortable, safe, and judgment-free. Every appointment feels relaxed, creative, and genuinely enjoyable. I couldn’t recommend her more. 🖤✨
-      
-      *Edit to add photo , seriously Ivy is PHENOMENAL
+      Lisa Frank inspired gel nails that destroyed my natural nails after only a couple of days. I have never had my nails break like this and am devastated about the damage to my hands. I really wanted this to be my favourite set because the design was really pretty but the gel was way too thick on the ends of my nails which snapped 6 and the remaining 4 needed to be completely filed off-which I was charged extra for. I had been growing out my nails for months and am now in a lot of pain because of how badly this manicure was applied.
 ---

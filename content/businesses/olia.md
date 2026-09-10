@@ -11,16 +11,16 @@ phone: "(780) 244-5156"
 website: "http://www.olia-ristorante.ca/"
 google_maps_url: "https://maps.google.com/?cid=17492423713794843430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "5:00 - 10:00 PM"
-  tuesday: "5:00 - 10:00 PM"
-  wednesday: "5:00 - 10:00 PM"
-  thursday: "5:00 - 10:00 PM"
-  friday: "5:00 - 10:00 PM"
-  saturday: "5:00 - 10:00 PM"
-  sunday: "5:00 - 10:00 PM"
+  monday: "5:00 PM–10:00 PM"
+  tuesday: "5:00 PM–10:00 PM"
+  wednesday: "5:00 PM–10:00 PM"
+  thursday: "5:00 PM–10:00 PM"
+  friday: "5:00 PM–10:00 PM"
+  saturday: "5:00 PM–10:00 PM"
+  sunday: "5:00 PM–10:00 PM"
 photos: ["/photos/olia-1.jpg", "/photos/olia-2.jpg", "/photos/olia-3.jpg"]
 rating: 4.4
-review_count: 476
+review_count: 477
 price_range: "$$$$"
 amenities:
   - "Dine-In"

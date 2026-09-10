@@ -11,16 +11,16 @@ phone: "(877) 749-8066"
 website: "https://www.paninisitalian.com/"
 google_maps_url: "https://maps.google.com/?cid=9488132850826198327&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 11:00 PM"
-  tuesday: "11:00 AM - 11:00 PM"
-  wednesday: "11:00 AM - 11:00 PM"
-  thursday: "11:00 AM - 11:00 PM"
-  friday: "11:00 AM - 11:00 PM"
-  saturday: "11:00 AM - 11:00 PM"
-  sunday: "11:00 AM - 11:00 PM"
+  monday: "11:00 AM–11:00 PM"
+  tuesday: "11:00 AM–11:00 PM"
+  wednesday: "11:00 AM–11:00 PM"
+  thursday: "11:00 AM–11:00 PM"
+  friday: "11:00 AM–11:00 PM"
+  saturday: "11:00 AM–11:00 PM"
+  sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/paninis-italian-cucina-149-street-1.jpg", "/photos/paninis-italian-cucina-149-street-2.jpg", "/photos/paninis-italian-cucina-149-street-3.jpg"]
 rating: 4.7
-review_count: 771
+review_count: 774
 price_range: "$$"
 amenities:
   - "Dine-In"

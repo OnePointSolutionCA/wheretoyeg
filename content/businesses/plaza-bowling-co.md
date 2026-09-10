@@ -12,15 +12,15 @@ website: "http://plazabowlingco.ca/"
 google_maps_url: "https://maps.google.com/?cid=7022768283852201133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "1:00 - 10:00 PM"
-  wednesday: "1:00 - 10:00 PM"
-  thursday: "1:00 - 10:00 PM"
-  friday: "1:00 - 11:00 PM"
-  saturday: "12:00 - 11:00 PM"
-  sunday: "1:00 - 7:00 PM"
+  tuesday: "1:00 PM–10:00 PM"
+  wednesday: "1:00 PM–10:00 PM"
+  thursday: "1:00 PM–10:00 PM"
+  friday: "1:00 PM–11:00 PM"
+  saturday: "12:00 PM–11:00 PM"
+  sunday: "1:00 PM–7:00 PM"
 photos: ["/photos/plaza-bowling-co-1.jpg", "/photos/plaza-bowling-co-2.jpg", "/photos/plaza-bowling-co-3.jpg"]
 rating: 4.7
-review_count: 870
+review_count: 871
 price_range: "$$"
 amenities:
 

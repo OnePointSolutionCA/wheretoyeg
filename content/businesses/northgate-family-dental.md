@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "North Edmonton"
 google_maps_url: "https://maps.google.com/?q=Northgate%20Family%20Dental%20Edmonton"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
+  monday: "8:30 AM–5:30 PM"
+  tuesday: "9:30 AM–5:30 PM"
+  wednesday: "8:30 AM–5:30 PM"
+  thursday: "8:30 AM–5:30 PM"
+  friday: "8:30 AM–1:00 PM"
+  saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/northgate-family-dental-1.jpg", "/photos/northgate-family-dental-2.jpg", "/photos/northgate-family-dental-3.jpg"]
-rating: 4.7
-review_count: 480
+rating: 4.5
+review_count: 614
 price_range: "$$"
 amenities:
   - "Direct Billing"
@@ -28,30 +28,31 @@ tags: ["dentist", "family-dentistry", "invisalign", "kids"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "robert kaniski"
-    rating: 1
+  - name: "Breanna Mills"
+    rating: 5
     comment: |
-      I have been customer for years here but looks like they don't know to replace filling without x ray.
-      People x rays are not healthy and they try to do it every time when you try to fix tooth ,because money on benefits. This company treats people like numbers not like patients.
-      I'm bringing my business somewhere else.
-  - name: "Madhavi"
-    rating: 4
+      After putting off going to the dentist for quite a while, I couldn’t have asked for a better experience at Northgate Family Dental. The entire team was so welcoming and made me feel comfortable from start to finish.
+      
+      My hygienist was incredibly personable and took the time to explain everything - from my new patient scans to what my treatment plan could look like. Making sure I understood every step of the process, treating me with genuine care, and even adjusting his schedule to get my treatment started the same day.
+      
+      Dr. Kauser was just as wonderful, taking the time to thoroughly review my scans, answer all of my questions, and made me feel completely at ease.
+      
+      I highly recommend Northgate Family Dental to anyone looking for a dental office that truly cares about its patients. Their team makes what can feel like a daunting experience so much easier!
+  - name: "Marilyn Jordan"
+    rating: 5
     comment: |
-      Dr Shawn, Kiran and Sarah were exceptional. I don't ever have to worry going to this place. This is my second time needing dental work. And I know I am cared well.
-      Doc Shawn even called to follow up and see if I'm fine. That's incredibly sweet of him to do so esp when I have no support system at home.
-      Members at the reception are always busy but never rude. Such personanble client/ patient service is rare now a days.
-      I sincerely thank the whole team for putting up such exceptional service with skills
-      Thank you
-  - name: "Mando McKool"
-    rating: 1
+      My experience was wonderful.  All staff are caring and professional.  Dr. Is wonderful.  I live across the street and the receptionist watched to be sure I safely crossed the busy street.  Highly recommend Northgate Family Dental.  So happy I chose them.  They all are angels.
+  - name: "Karina Schenone"
+    rating: 5
     comment: |
-      I set up an appointment at this Dental office, that means we called ahead asking if he accepted Alberta Works. He said "yes we do". I go out of my way to drop my baby off at moms and work a schedule around this man Only to be stereotyped and told he cant do it. He was to lazy to go into the system and confirm the Alberta works number. I think he was racist. None the less it was  an awful experience full of anger, and stress. He was working by himself had no dental assistants, The place in a mall is pretty much empty perhaps for a reason. We went downstairs  "The Dentist at Northgate" in which in less then 5 minutes we were confirmed. It says a lot. I recommend you go to this this place. If I could rate this with no stars I would.
-  - name: "Lucy Poshtar"
-    rating: 2
+      I had the best experience. The receptionist was so nice, no wait for my appointment, they explained what needed to be done in detail. I was so lucky to have Kyle; he is very kind, professional, and had a lot of patience answering all my questions 😊
+  - name: "Zenobia Burns"
+    rating: 5
     comment: |
-      Went there a couple of years ago, at that time the one doctor was rude about his work, and talked about the other dentists work and not in a nice way. At that time he didn't believe that my normal bite was right, so pushed in my lower bite, almost choking me and loosening my bottom teeth, so the two bottom teeth doesn't quite look normal color (pinkish color now)
-  - name: "Matthew Ivan"
-    rating: 4
+      I visited Northgate Family Dental for the first time yesterday and was very impressed and pleased. They were very thorough and knowledgeable. I felt at home. I will definitely be returning and I highly recommend them. Kyle was awesome!
+  - name: "Crystal Cazares"
+    rating: 5
     comment: |
-      Would have gave 5 stars. Dr Mah, Awesome dentist. To the point and tell you  the truth. The lady on the phone though, she might had a tough day. I will only use this guy to touch my teeth
+      Really good experience - Kyle is a kind, knowledgeable professional (and quite patient too!) who answered my little guy’s many questions about teeth, how many more we are losing and the many tooth fairy tales he wanted to share  :-)
+      All around such a great visit that my son is already excited for his next cleaning. Thanks Kyle and Doc!
 ---

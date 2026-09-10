@@ -11,13 +11,13 @@ phone: "(780) 803-4005"
 website: "https://ontopbarbershop.lovable.app/"
 google_maps_url: "https://maps.google.com/?cid=9938807936133380405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 8:00 PM"
-  tuesday: "9:00 AM - 7:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 7:00 PM"
-  friday: "9:00 AM - 8:00 PM"
-  saturday: "9:00 AM - 8:00 PM"
-  sunday: "9:00 AM - 8:00 PM"
+  monday: "9:00 AM–8:00 PM"
+  tuesday: "9:00 AM–7:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:00 AM–7:00 PM"
+  friday: "9:00 AM–8:00 PM"
+  saturday: "9:00 AM–8:00 PM"
+  sunday: "9:00 AM–8:00 PM"
 photos: ["/photos/on-top-barbershop-1.jpg", "/photos/on-top-barbershop-2.jpg", "/photos/on-top-barbershop-3.jpg"]
 rating: 4.9
 review_count: 150

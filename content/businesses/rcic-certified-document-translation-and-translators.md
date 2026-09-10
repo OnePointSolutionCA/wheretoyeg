@@ -15,17 +15,32 @@ photos:
 reviews:
   - name: "Sami Mohammed"
     rating: 5
-    comment: "I had a great experience with this translation service. The turnaround was fast, the pricing was affordable. They translated my documents from Arabic to English with excellent accuracy and professionalism. I highly recommend their services to anyone looking for reliable certified document translation."
+    comment: |
+      I had a great experience with this translation service. The turnaround was fast, the pricing was affordable. They translated my documents from Arabic to English with excellent accuracy and professionalism. I highly recommend their services to anyone looking for reliable certified document translation.
   - name: "Lili Seto"
     rating: 5
-    comment: "Every pleasant experience. The service was fast and my emails and phone calls were answered promptly. I would use RCIC again!"
+    comment: |
+      Every pleasant experience. The service was fast and my emails and phone calls were answered promptly. I would use RCIC again!
   - name: "Susan Hal"
     rating: 5
-    comment: "Zul was very patient with me and very helpful Definitely will use his services again"
+    comment: |
+      Zul was very patient with me and very helpful
+      Definitely will use his services again
   - name: "Holly Ulrich"
     rating: 5
-    comment: "Fast service, affordable and certified documents translated from German. Zul at RCIC really helped me out in a pinch ! I appreciated his prompt responses and professional awareness to meet my needs . Definitely 5 stars! ⭐️ ⭐️⭐️⭐️⭐️"
+    comment: |
+      Fast service, affordable and certified documents translated from German.
+      Zul at RCIC really helped me out in a pinch ! I appreciated his prompt responses and professional awareness to meet my needs . Definitely 5 stars! ⭐️ ⭐️⭐️⭐️⭐️
   - name: "Lisa Almonte"
     rating: 5
-    comment: "Super fast service, affordable and certified documents translated  from  Spanish to English. Accuracy 100%"
+    comment: |
+      Super fast service, affordable and certified documents translated  from  Spanish to English. Accuracy 100%
+hours:
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
+  saturday: "Closed"
+  sunday: "Closed"
 ---

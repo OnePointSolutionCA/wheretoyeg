@@ -11,16 +11,16 @@ phone: "(587) 521-5873"
 website: "https://onfleekbeautybar.com/"
 google_maps_url: "https://maps.google.com/?cid=10583466431961254655&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 8:00 PM"
-  tuesday: "10:00 AM - 8:00 PM"
-  wednesday: "10:00 AM - 8:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 8:00 PM"
-  saturday: "10:00 AM - 7:00 PM"
-  sunday: "11:00 AM - 6:00 PM"
+  monday: "10:00 AM–8:00 PM"
+  tuesday: "10:00 AM–8:00 PM"
+  wednesday: "10:00 AM–8:00 PM"
+  thursday: "10:00 AM–8:00 PM"
+  friday: "10:00 AM–8:00 PM"
+  saturday: "10:00 AM–7:00 PM"
+  sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/on-fleek-beauty---best-salon-in-edmonton-brows-and-lashes-sa-1.jpg", "/photos/on-fleek-beauty---best-salon-in-edmonton-brows-and-lashes-sa-2.jpg", "/photos/on-fleek-beauty---best-salon-in-edmonton-brows-and-lashes-sa-3.jpg"]
 rating: 4.9
-review_count: 270
+review_count: 272
 price_range: "$$$"
 amenities:
 

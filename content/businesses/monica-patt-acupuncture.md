@@ -11,12 +11,12 @@ phone: "(780) 705-0444"
 website: "http://monicapattacupuncture.ca/"
 google_maps_url: "https://maps.google.com/?cid=3649477588574530825&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 6:00 PM"
-  tuesday: "10:30 AM - 6:30 PM"
-  wednesday: "10:00 AM - 6:00 PM"
-  thursday: "10:00 AM - 6:00 PM"
-  friday: "9:30 AM - 5:00 PM"
-  saturday: "9:00 AM - 3:00 PM"
+  monday: "12:00 PM–6:00 PM"
+  tuesday: "10:30 AM–6:30 PM"
+  wednesday: "10:00 AM–6:00 PM"
+  thursday: "10:00 AM–6:00 PM"
+  friday: "9:30 AM–5:00 PM"
+  saturday: "9:00 AM–3:00 PM"
   sunday: "Closed"
 photos: ["/photos/monica-patt-acupuncture-1.jpg", "/photos/monica-patt-acupuncture-2.jpg", "/photos/monica-patt-acupuncture-3.jpg"]
 rating: 4.9

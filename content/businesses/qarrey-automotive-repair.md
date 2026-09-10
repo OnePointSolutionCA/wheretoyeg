@@ -16,17 +16,48 @@ photos:
 reviews:
   - name: "Oyuki San (私の殺人的な胸)"
     rating: 5
-    comment: "FYI this is the  original \"OSMAN TIRE\", so if you see permeantly closed, the address is the same just a new name. Friend told me about them last year and I was like no I go here, well I regret not listening to her.  Honestly, couldn't of been happier.Got a great price to get my tires put on, everywhere I looked was not in my budget, or closed on the Holiday or wanted me to leave the car for hours.  Open late as well! I was so worried I wouldn't be able to get my son to school, the owner and staf"
+    comment: |
+      FYI this is the  original "OSMAN TIRE", so if you see permeantly closed, the address is the same just a new name.
+      Friend told me about them last year and I was like no I go here, well I regret not listening to her.
+      
+      Honestly, couldn't of been happier.Got a great price to get my tires put on, everywhere I looked was not in my budget, or closed on the Holiday or wanted me to leave the car for hours.
+      
+      Open late as well! I was so worried I wouldn't be able to get my son to school, the owner and staff were all super friendly.
+      And boy do they giver' lol.
+      
+      Seen vehicles go in and out.
+      I will be going here from now on!
+      
+      May not be your uppety ok tire or fountain tire but I'd trade their gross coffee for guys that work hardand know what their doing to get you back on the road safely.
+      
+      Not a b3ep be33p b0op btw, just am grateful for Osm....I mean Quarry automotive repair.
+      
+      Very impressed.
+      Would recommend.
   - name: "Mohanad Azid"
     rating: 5
-    comment: "Really good experience here. My car had issues and they took care of it quick without making things complicated. Super respectful people and fair prices too. Glad I came here."
+    comment: |
+      Really good experience here. My car had issues and they took care of it quick without making things complicated. Super respectful people and fair prices too. Glad I came here.
   - name: "Salah Isa"
     rating: 5
-    comment: "Mashallah, very beautiful and excellent work. We sincerely thank the great bic boss Othman and all the workers: Jamal, Kamal El Din, Mohed, and all the young men working at the shop. For the second time, thank you very much, and we wish you continued success in the future. Salahco"
+    comment: |
+      Mashallah, very beautiful and excellent work. We sincerely thank the great bic boss Othman and all the workers: Jamal, Kamal El Din, Mohed, and all the young men working at the shop.
+      For the second time, thank you very much, and we wish you continued success in the future.
+      Salahco
   - name: "Chips a hoy"
     rating: 5
-    comment: "These guys are the REAL DEAL! Been coming here since 2004. They'll diagnose and fix just about ANYTHING for a AFFORDABLE price! The staff here are super  RESPECTFUL and HELPFUL at finding certain options for tires and or parts you may need for your visit HERE. I am actually trying to become an mechanic so just being there watching them work and show me the tricks is much appreciated. They have a solid foundation based on just TRUST & HONOR! 🎖 🥇 🤲"
+    comment: |
+      These guys are the REAL DEAL! Been coming here since 2004. They'll diagnose and fix just about ANYTHING for a AFFORDABLE price! The staff here are super  RESPECTFUL and HELPFUL at finding certain options for tires and or parts you may need for your visit HERE. I am actually trying to become an mechanic so just being there watching them work and show me the tricks is much appreciated. They have a solid foundation based on just TRUST & HONOR! 🎖 🥇 🤲
   - name: "Zioxq"
     rating: 1
-    comment: "Didn’t properly install my tires caused a lot of damages to my vehicle and made my vehicle unsafe to drive also refused to own up to the full amount of damages after trying to lie to me about the extent of what happened to my car. Complete negligence, improper practices and endangering acts on their part."
+    comment: |
+      Didn’t properly install my tires caused a lot of damages to my vehicle and made my vehicle unsafe to drive also refused to own up to the full amount of damages after trying to lie to me about the extent of what happened to my car. Complete negligence, improper practices and endangering acts on their part.
+hours:
+  monday: "9:00 AM–8:00 PM"
+  tuesday: "9:00 AM–8:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–8:00 PM"
+  saturday: "9:00 AM–6:00 PM"
+  sunday: "11:00 AM–6:00 PM"
 ---

@@ -11,12 +11,12 @@ phone: "(780) 809-3450"
 website: "http://www.pivotalphysio.com/"
 google_maps_url: "https://maps.google.com/?cid=5150408899009907488&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 7:00 PM"
-  tuesday: "7:00 AM - 7:00 PM"
-  wednesday: "7:00 AM - 7:00 PM"
-  thursday: "7:00 AM - 7:00 PM"
-  friday: "7:00 AM - 7:00 PM"
-  saturday: "8:00 AM - 1:00 PM"
+  monday: "9:00 AM–7:00 PM"
+  tuesday: "7:00 AM–7:00 PM"
+  wednesday: "7:00 AM–7:00 PM"
+  thursday: "7:00 AM–7:00 PM"
+  friday: "7:00 AM–7:00 PM"
+  saturday: "8:00 AM–1:00 PM"
   sunday: "Closed"
 photos: ["/photos/pivotal-physiotherapy---high-performance-centre-1.jpg", "/photos/pivotal-physiotherapy---high-performance-centre-2.jpg", "/photos/pivotal-physiotherapy---high-performance-centre-3.jpg"]
 rating: 4.9

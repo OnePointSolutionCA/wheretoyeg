@@ -10,16 +10,16 @@ neighborhood: "Whyte Ave"
 phone: "(780) 761-2720"
 google_maps_url: "https://maps.google.com/?cid=13573276750767896342&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:30 AM - 8:00 PM"
-  tuesday: "11:30 AM - 8:00 PM"
-  wednesday: "11:30 AM - 8:00 PM"
-  thursday: "11:30 AM - 8:00 PM"
-  friday: "11:30 AM - 8:00 PM"
-  saturday: "11:30 AM - 8:00 PM"
-  sunday: "11:30 AM - 8:00 PM"
+  monday: "11:30 AM–8:00 PM"
+  tuesday: "11:30 AM–8:00 PM"
+  wednesday: "11:30 AM–8:00 PM"
+  thursday: "11:30 AM–8:00 PM"
+  friday: "11:30 AM–8:00 PM"
+  saturday: "11:30 AM–8:00 PM"
+  sunday: "11:30 AM–8:00 PM"
 photos: ["/photos/mrbun-shanghai-dumplings-noodles-1.jpg", "/photos/mrbun-shanghai-dumplings-noodles-2.jpg", "/photos/mrbun-shanghai-dumplings-noodles-3.jpg"]
 rating: 4.3
-review_count: 371
+review_count: 374
 price_range: "$$"
 amenities:
   - "Dine-In"

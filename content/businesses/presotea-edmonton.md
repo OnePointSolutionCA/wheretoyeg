@@ -12,16 +12,16 @@ phone: "(780) 700-3940"
 website: "https://presotea-ab.ca"
 google_maps_url: "https://maps.google.com/?q=Presotea+Kingsway+Edmonton"
 hours:
-  monday: "10:00 AM - 8:00 PM"
-  tuesday: "10:00 AM - 8:00 PM"
-  wednesday: "10:00 AM - 8:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 8:00 PM"
-  saturday: "10:00 AM - 7:00 PM"
-  sunday: "11:00 AM - 6:00 PM"
+  monday: "10:00 AM–8:00 PM"
+  tuesday: "10:00 AM–8:00 PM"
+  wednesday: "10:00 AM–8:00 PM"
+  thursday: "10:00 AM–8:00 PM"
+  friday: "10:00 AM–8:00 PM"
+  saturday: "10:00 AM–7:00 PM"
+  sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/presotea-edmonton-1.jpg", "/photos/presotea-edmonton-2.jpg", "/photos/presotea-edmonton-3.jpg"]
-rating: 4.7
-review_count: 40
+rating: 4.6
+review_count: 149
 price_range: "$"
 amenities:
   - "Bubble Tea"

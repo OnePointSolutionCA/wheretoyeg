@@ -11,16 +11,16 @@ phone: "(780) 452-6527"
 website: "http://www.pawsvethospital.ca/?utm_source=gbp&utm_medium=organic"
 google_maps_url: "https://maps.google.com/?cid=3804110344929368069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:30 AM - 5:00 PM"
-  tuesday: "7:30 AM - 5:00 PM"
-  wednesday: "7:30 AM - 5:00 PM"
-  thursday: "7:30 AM - 5:00 PM"
-  friday: "7:30 AM - 5:00 PM"
+  monday: "7:30 AM–5:00 PM"
+  tuesday: "7:30 AM–5:00 PM"
+  wednesday: "7:30 AM–5:00 PM"
+  thursday: "7:30 AM–5:00 PM"
+  friday: "7:30 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/paws-veterinary-hospital-1.jpg", "/photos/paws-veterinary-hospital-2.jpg", "/photos/paws-veterinary-hospital-3.jpg"]
 rating: 4.8
-review_count: 95
+review_count: 96
 price_range: "$$"
 amenities:
 

@@ -13,17 +13,31 @@ google_maps: "https://maps.google.com/?cid=9695394320271309211&g_mp=Cidnb29nbGUu
 reviews:
   - name: "Khuspreet Kaur"
     rating: 5
-    comment: "Great service. I came without any scheduled appointment, still welcomed me and helped me by notarizing my document. Highly recommended place . Genuine price."
+    comment: |
+      Great service. I came without any scheduled appointment, still welcomed me and helped me by notarizing my document. Highly recommended place . Genuine price.
   - name: "AUDI RS"
     rating: 5
-    comment: "Highly recommended. Fair pricing and met with me in the evening which was a huge plus! I will be back."
+    comment: |
+      Highly recommended. Fair pricing and met with me in the evening which was a huge plus! I will be back.
   - name: "Nam Pham"
     rating: 5
-    comment: "Outstanding service!  Everything was explained clearly, and the documents were completed quickly without any pressure. I will definitely return and recommend to others."
+    comment: |
+      Outstanding service!  Everything was explained clearly, and the documents were completed quickly without any pressure. I will definitely return and recommend to others.
   - name: "Lori G"
     rating: 5
-    comment: "Phillip is awesome! Helped me understand something I was unsure of. Highly recommended him for any documents needing signing."
+    comment: |
+      Phillip is awesome!
+      Helped me understand something I was unsure of. Highly recommended him for any documents needing signing.
   - name: "Wehbe Youssef"
     rating: 5
-    comment: "Phillip was amazing and fast. Needed rush document’s Notarized and fast reply fast service. His pricing is really competitive and he does a great job.  Thanks Phillip im sure I will be using your services again."
+    comment: |
+      Phillip was amazing and fast. Needed rush document’s Notarized and fast reply fast service. His pricing is really competitive and he does a great job.  Thanks Phillip im sure I will be using your services again.
+hours:
+  monday: "9:30 AM–6:00 PM"
+  tuesday: "9:30 AM–6:00 PM"
+  wednesday: "9:30 AM–6:00 PM"
+  thursday: "9:30 AM–6:00 PM"
+  friday: "9:30 AM–6:00 PM"
+  saturday: "11:00 AM–5:00 PM"
+  sunday: "Closed"
 ---

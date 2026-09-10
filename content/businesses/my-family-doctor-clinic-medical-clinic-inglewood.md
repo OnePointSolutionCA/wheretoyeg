@@ -10,13 +10,13 @@ neighborhood: "Edmonton"
 phone: "(780) 452-1354"
 google_maps_url: "https://maps.google.com/?cid=9376496617869797941&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:30 PM"
-  tuesday: "9:00 AM - 5:30 PM"
-  wednesday: "9:00 AM - 5:30 PM"
-  thursday: "9:00 AM - 5:30 PM"
-  friday: "9:00 AM - 5:30 PM"
-  saturday: "10:00 AM - 3:00 PM"
-  sunday: "10:00 AM - 3:00 PM"
+  monday: "9:00 AM–5:30 PM"
+  tuesday: "9:00 AM–5:30 PM"
+  wednesday: "9:00 AM–5:30 PM"
+  thursday: "9:00 AM–5:30 PM"
+  friday: "9:00 AM–5:30 PM"
+  saturday: "10:00 AM–3:00 PM"
+  sunday: "10:00 AM–3:00 PM"
 photos: ["/photos/my-family-doctor-clinic-medical-clinic-inglewood-1.jpg", "/photos/my-family-doctor-clinic-medical-clinic-inglewood-2.jpg", "/photos/my-family-doctor-clinic-medical-clinic-inglewood-3.jpg"]
 rating: 3.3
 review_count: 46
@@ -34,7 +34,7 @@ reviews:
       
       We are incredibly grateful for Dr. McDonald and his super amazing, very helpful medical office assistants (Emmie, Monica, and Leja). These three incredible ladies are always welcoming and accommodating. Whether it’s booking appointments, answering questions, or helping me with paperwork (especially Emmie! 😊), they make everything easy, and stress-free. Visiting the clinic honestly feels less like an appointment and more like being cared for by people who truly want to help. And not to forget Nurse Donna, who went above and beyond to make sure I was able to meet my referrals to the dietician and gynecologist.
       Highly recommended to anyone looking for a caring, attentive, and professional family doctor. This clinic truly deserves more than five stars ⭐️
-  - name: "M"
+  - name: "Cassie"
     rating: 1
     comment: |
       I took my 8 month old here for an ear infection as my local clinic was closed. He didn’t wear gloves or wash his hands, he was very aggressive pulling my baby’s ears as she was crying and telling her to stop. He then asked me “do you want antibiotics? It’s a mild infection”. I got antibiotics for her but when we left I noticed her ear was twice as red. Never bring children here. He has no patience.

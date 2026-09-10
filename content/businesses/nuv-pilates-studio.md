@@ -11,13 +11,13 @@ phone: "(587) 784-3865"
 website: "https://www.fresha.com/book-now/nuve-pilates-studio-uy1mykf0/all-offer?share=true&pId=3020064"
 google_maps_url: "https://maps.google.com/?cid=9670834070099715986&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 8:30 PM"
-  tuesday: "9:00 AM - 8:30 PM"
-  wednesday: "9:00 AM - 8:30 PM"
-  thursday: "9:00 AM - 8:30 PM"
-  friday: "5:15 - 8:30 PM"
-  saturday: "10:00 AM - 4:00 PM"
-  sunday: "10:00 AM - 4:00 PM"
+  monday: "9:00 AM–8:30 PM"
+  tuesday: "9:00 AM–8:30 PM"
+  wednesday: "9:00 AM–8:30 PM"
+  thursday: "9:00 AM–8:30 PM"
+  friday: "5:15 PM–8:30 PM"
+  saturday: "10:00 AM–4:00 PM"
+  sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/nuv-pilates-studio-1.jpg", "/photos/nuv-pilates-studio-2.jpg", "/photos/nuv-pilates-studio-3.jpg"]
 rating: 5
 review_count: 19

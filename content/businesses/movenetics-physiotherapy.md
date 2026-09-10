@@ -11,16 +11,16 @@ phone: "(780) 297-1111"
 website: "https://movenetics.com/"
 google_maps_url: "https://maps.google.com/?cid=4643811878742495724&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 7:00 PM"
-  tuesday: "7:00 AM - 7:00 PM"
-  wednesday: "7:00 AM - 7:00 PM"
-  thursday: "7:00 AM - 7:00 PM"
-  friday: "7:00 AM - 7:00 PM"
-  saturday: "8:00 AM - 1:00 PM"
-  sunday: "8:00 AM - 1:00 PM"
+  monday: "7:00 AM–7:00 PM"
+  tuesday: "7:00 AM–7:00 PM"
+  wednesday: "7:00 AM–7:00 PM"
+  thursday: "7:00 AM–7:00 PM"
+  friday: "7:00 AM–7:00 PM"
+  saturday: "8:00 AM–1:00 PM"
+  sunday: "8:00 AM–1:00 PM"
 photos: ["/photos/movenetics-physiotherapy-1.jpg", "/photos/movenetics-physiotherapy-2.jpg", "/photos/movenetics-physiotherapy-3.jpg"]
 rating: 5
-review_count: 309
+review_count: 322
 price_range: "$$"
 amenities:
   - "Dine-In"

@@ -11,16 +11,16 @@ phone: "(825) 480-3977"
 website: "https://opaofgreece.com/"
 google_maps_url: "https://maps.google.com/?cid=5998839314672076914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 10:00 PM"
-  tuesday: "11:00 AM - 10:00 PM"
-  wednesday: "11:00 AM - 10:00 PM"
-  thursday: "11:00 AM - 10:00 PM"
-  friday: "11:00 AM - 10:00 PM"
-  saturday: "11:00 AM - 10:00 PM"
-  sunday: "11:00 AM - 9:00 PM"
+  monday: "11:00 AM–10:00 PM"
+  tuesday: "11:00 AM–10:00 PM"
+  wednesday: "11:00 AM–10:00 PM"
+  thursday: "11:00 AM–10:00 PM"
+  friday: "11:00 AM–10:00 PM"
+  saturday: "11:00 AM–10:00 PM"
+  sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/opa-of-greece-west-granville-centre-1.jpg"]
-rating: 4.4
-review_count: 44
+rating: 4.3
+review_count: 45
 price_range: "$"
 amenities:
   - "Dine-In"

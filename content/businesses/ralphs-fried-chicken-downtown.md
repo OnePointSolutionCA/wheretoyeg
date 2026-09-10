@@ -11,16 +11,16 @@ phone: "(587) 855-0403"
 website: "http://www.ralphsfriedchicken.com/"
 google_maps_url: "https://maps.google.com/?cid=15217149639175468589&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 9:00 PM"
-  tuesday: "9:00 AM - 9:00 PM"
-  wednesday: "9:00 AM - 9:00 PM"
-  thursday: "9:00 AM - 9:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 9:00 PM"
-  sunday: "10:00 AM - 9:00 PM"
+  monday: "9:00 AM–9:00 PM"
+  tuesday: "9:00 AM–9:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
+  saturday: "10:00 AM–9:00 PM"
+  sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/ralphs-fried-chicken-downtown-1.jpg", "/photos/ralphs-fried-chicken-downtown-2.jpg", "/photos/ralphs-fried-chicken-downtown-3.jpg"]
 rating: 4.9
-review_count: 288
+review_count: 290
 price_range: "$"
 amenities:
   - "Takeout"
