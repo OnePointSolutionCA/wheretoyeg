@@ -9,16 +9,16 @@ address: "9130 34 Ave NW"
 neighborhood: "Mill Woods"
 google_maps_url: "https://maps.google.com/?q=Rock%20Jungle%20Fitness%20Edmonton"
 hours:
-  monday: "6:00 AM - 10:00 PM"
-  tuesday: "6:00 AM - 10:00 PM"
-  wednesday: "6:00 AM - 10:00 PM"
-  thursday: "6:00 AM - 10:00 PM"
-  friday: "6:00 AM - 10:00 PM"
-  saturday: "9:00 AM - 9:00 PM"
-  sunday: "9:00 AM - 9:00 PM"
+  monday: "11:00 AM–11:00 PM"
+  tuesday: "11:00 AM–11:00 PM"
+  wednesday: "11:00 AM–11:00 PM"
+  thursday: "11:00 AM–11:00 PM"
+  friday: "11:00 AM–11:00 PM"
+  saturday: "9:00 AM–9:00 PM"
+  sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/rock-jungle-fitness-1.jpg", "/photos/rock-jungle-fitness-2.jpg", "/photos/rock-jungle-fitness-3.jpg"]
-rating: 4.6
-review_count: 220
+rating: 4.8
+review_count: 308
 price_range: "$$"
 amenities:
   - "Beginner Friendly"

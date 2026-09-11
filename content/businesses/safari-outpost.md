@@ -11,16 +11,16 @@ phone: "(780) 244-0498"
 website: "https://safari-outpost.com/"
 google_maps_url: "https://maps.google.com/?cid=9111504308258774002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:30 AM - 6:00 PM"
-  tuesday: "10:30 AM - 6:00 PM"
-  wednesday: "10:30 AM - 6:00 PM"
-  thursday: "10:30 AM - 6:00 PM"
-  friday: "10:30 AM - 6:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
-  sunday: "10:00 AM - 4:00 PM"
+  monday: "10:30 AM–6:00 PM"
+  tuesday: "10:30 AM–6:00 PM"
+  wednesday: "10:30 AM–6:00 PM"
+  thursday: "10:30 AM–6:00 PM"
+  friday: "10:30 AM–6:00 PM"
+  saturday: "10:00 AM–5:00 PM"
+  sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/safari-outpost-1.jpg", "/photos/safari-outpost-2.jpg", "/photos/safari-outpost-3.jpg"]
 rating: 4.8
-review_count: 24
+review_count: 26
 price_range: "$$"
 amenities:
 

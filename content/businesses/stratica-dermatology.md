@@ -11,16 +11,16 @@ phone: "(780) 428-5554"
 website: "http://www.straticamedical.ca/"
 google_maps_url: "https://maps.google.com/?cid=4763313256748099529&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 5:00 PM"
-  tuesday: "8:00 AM - 5:00 PM"
-  wednesday: "8:00 AM - 7:00 PM"
-  thursday: "8:00 AM - 7:00 PM"
-  friday: "8:00 AM - 5:00 PM"
-  saturday: "8:00 AM - 2:00 PM"
+  monday: "8:00 AM–5:00 PM"
+  tuesday: "8:00 AM–5:00 PM"
+  wednesday: "8:00 AM–7:00 PM"
+  thursday: "8:00 AM–7:00 PM"
+  friday: "8:00 AM–5:00 PM"
+  saturday: "8:00 AM–2:00 PM"
   sunday: "Closed"
 photos: ["/photos/stratica-dermatology-1.jpg", "/photos/stratica-dermatology-2.jpg", "/photos/stratica-dermatology-3.jpg"]
 rating: 4.7
-review_count: 3255
+review_count: 3271
 price_range: "$$"
 amenities:
 

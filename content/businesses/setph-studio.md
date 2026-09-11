@@ -11,16 +11,16 @@ phone: "(825) 925-2434"
 website: "https://www.honeybook.com/widget/setph_studio_297025/cf_id/6a0668b05395b78a0209c0dd"
 google_maps_url: "https://maps.google.com/?cid=1370854488031438393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 6:00 PM"
-  tuesday: "10:00 AM - 6:00 PM"
-  wednesday: "10:00 AM - 6:00 PM"
-  thursday: "10:00 AM - 6:00 PM"
-  friday: "10:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 6:00 PM"
+  monday: "10:00 AM–6:00 PM"
+  tuesday: "10:00 AM–6:00 PM"
+  wednesday: "10:00 AM–6:00 PM"
+  thursday: "10:00 AM–6:00 PM"
+  friday: "10:00 AM–6:00 PM"
+  saturday: "10:00 AM–6:00 PM"
   sunday: "Closed"
 photos: ["/photos/setph-studio-1.jpg", "/photos/setph-studio-2.jpg", "/photos/setph-studio-3.jpg"]
 rating: 5
-review_count: 142
+review_count: 143
 price_range: "$$"
 amenities:
 

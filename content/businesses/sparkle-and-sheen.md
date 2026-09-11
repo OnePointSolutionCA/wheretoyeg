@@ -12,16 +12,16 @@ phone: "(825) 512-1277"
 website: "https://sparkleandsheen.ca"
 google_maps_url: "https://maps.google.com/?q=Sparkle+Sheen+Cleaning+Edmonton"
 hours:
-  monday: "8:00 AM - 4:30 PM"
-  tuesday: "8:00 AM - 4:30 PM"
-  wednesday: "8:00 AM - 4:30 PM"
-  thursday: "8:00 AM - 4:30 PM"
-  friday: "8:00 AM - 4:30 PM"
+  monday: "8:00 AM–4:30 PM"
+  tuesday: "8:00 AM–4:30 PM"
+  wednesday: "8:00 AM–4:30 PM"
+  thursday: "8:00 AM–4:30 PM"
+  friday: "8:00 AM–4:30 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/sparkle-and-sheen-1.jpg", "/photos/sparkle-and-sheen-2.jpg", "/photos/sparkle-and-sheen-3.jpg"]
-rating: 4.8
-review_count: 457
+rating: 4.7
+review_count: 481
 price_range: "$$"
 amenities:
   - "Residential Cleaning"

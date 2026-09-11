@@ -11,16 +11,16 @@ neighborhood: "North Edmonton"
 phone: "780-457-4444"
 google_maps_url: "https://maps.google.com/?q=6873+Ad+Astra+Blvd+NW+Edmonton"
 hours:
-  monday: "9:00 AM - 8:00 PM"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 8:00 PM"
-  saturday: "9:00 AM - 8:00 PM"
-  sunday: "10:00 AM - 6:00 PM"
+  monday: "9:00 AM–8:00 PM"
+  tuesday: "9:00 AM–8:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–8:00 PM"
+  saturday: "9:00 AM–8:00 PM"
+  sunday: "9:00 AM–7:00 PM"
 photos: ["/photos/tarboosh-halal-meat-market-1.jpg", "/photos/tarboosh-halal-meat-market-2.jpg", "/photos/tarboosh-halal-meat-market-3.jpg"]
 rating: 4.9
-review_count: 269
+review_count: 279
 price_range: "$$"
 amenities:
   - "Halal Certified"

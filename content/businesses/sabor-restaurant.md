@@ -11,16 +11,16 @@ phone: "(780) 757-1114"
 website: "http://sabor.ca/"
 google_maps_url: "https://maps.google.com/?cid=14646383035106517726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "4:00 - 10:00 PM"
-  tuesday: "4:00 - 10:00 PM"
-  wednesday: "4:00 - 10:00 PM"
-  thursday: "4:00 - 10:00 PM"
-  friday: "4:00 - 11:00 PM"
-  saturday: "4:00 - 11:00 PM"
+  monday: "4:00 PM–10:00 PM"
+  tuesday: "4:00 PM–10:00 PM"
+  wednesday: "4:00 PM–10:00 PM"
+  thursday: "4:00 PM–10:00 PM"
+  friday: "4:00 PM–11:00 PM"
+  saturday: "4:00 PM–11:00 PM"
   sunday: "Closed"
 photos: ["/photos/sabor-restaurant-1.jpg", "/photos/sabor-restaurant-2.jpg", "/photos/sabor-restaurant-3.jpg"]
 rating: 4.6
-review_count: 2930
+review_count: 2941
 price_range: "$$"
 amenities:
   - "Dine-In"

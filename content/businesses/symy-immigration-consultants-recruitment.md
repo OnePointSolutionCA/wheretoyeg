@@ -11,16 +11,16 @@ phone: "(780) 761-1836"
 website: "http://symyimmigration.com/contact/"
 google_maps_url: "https://maps.google.com/?cid=14945330783431019458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:30 AM - 5:00 PM"
-  tuesday: "8:30 AM - 5:00 PM"
-  wednesday: "8:30 AM - 5:00 PM"
-  thursday: "8:30 AM - 5:00 PM"
-  friday: "8:30 AM - 5:00 PM"
+  monday: "8:30 AM–5:00 PM"
+  tuesday: "8:30 AM–5:00 PM"
+  wednesday: "8:30 AM–5:00 PM"
+  thursday: "8:30 AM–5:00 PM"
+  friday: "8:30 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/symy-immigration-consultants-recruitment-1.jpg", "/photos/symy-immigration-consultants-recruitment-2.jpg", "/photos/symy-immigration-consultants-recruitment-3.jpg"]
 rating: 4.7
-review_count: 1178
+review_count: 1180
 price_range: "$$"
 amenities:
 

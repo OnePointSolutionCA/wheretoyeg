@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "Old Strathcona"
 google_maps_url: "https://maps.google.com/?q=Table%20Top%20Cafe%20Edmonton%20Edmonton"
 hours:
-  monday: "12:00 PM - 10:00 PM"
-  tuesday: "12:00 PM - 10:00 PM"
-  wednesday: "12:00 PM - 10:00 PM"
-  thursday: "12:00 PM - 10:00 PM"
-  friday: "11:00 AM - 11:00 PM"
-  saturday: "10:00 AM - 11:00 PM"
-  sunday: "10:00 AM - 10:00 PM"
+  monday: "Closed"
+  tuesday: "12:00 PM–11:00 PM"
+  wednesday: "12:00 PM–11:00 PM"
+  thursday: "12:00 PM–11:00 PM"
+  friday: "12:00 PM–1:00 AM"
+  saturday: "11:00 AM–1:00 AM"
+  sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/table-top-cafe-edmonton-1.jpg", "/photos/table-top-cafe-edmonton-2.jpg", "/photos/table-top-cafe-edmonton-3.jpg"]
-rating: 4.6
-review_count: 210
+rating: 4.7
+review_count: 1003
 price_range: "$$"
 amenities:
   - "500+ Games"

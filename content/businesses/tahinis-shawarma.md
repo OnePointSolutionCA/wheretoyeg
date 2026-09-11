@@ -11,16 +11,16 @@ phone: "(587) 686-9282"
 website: "https://www.tahinis.com/"
 google_maps_url: "https://maps.google.com/?cid=2835335839762270038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 2:00 AM"
-  tuesday: "11:00 AM - 2:00 AM"
-  wednesday: "11:00 AM - 2:00 AM"
-  thursday: "11:00 AM - 2:00 AM"
-  friday: "11:00 AM - 2:00 AM"
-  saturday: "11:00 AM - 2:00 AM"
-  sunday: "11:00 AM - 2:00 AM"
+  monday: "11:00 AM–2:00 AM"
+  tuesday: "11:00 AM–2:00 AM"
+  wednesday: "11:00 AM–2:00 AM"
+  thursday: "11:00 AM–2:00 AM"
+  friday: "11:00 AM–2:00 AM"
+  saturday: "11:00 AM–2:00 AM"
+  sunday: "11:00 AM–2:00 AM"
 photos: ["/photos/tahinis-shawarma-1.jpg", "/photos/tahinis-shawarma-2.jpg", "/photos/tahinis-shawarma-3.jpg"]
 rating: 4.7
-review_count: 735
+review_count: 792
 price_range: "$"
 amenities:
   - "Halal"

@@ -11,16 +11,16 @@ phone: "(780) 472-8405"
 website: "http://sunbakepita.ca/"
 google_maps_url: "https://maps.google.com/?cid=11814902555936948735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 8:00 PM"
-  tuesday: "8:00 AM - 8:00 PM"
-  wednesday: "8:00 AM - 8:00 PM"
-  thursday: "8:00 AM - 8:00 PM"
-  friday: "8:00 AM - 8:00 PM"
-  saturday: "8:00 AM - 8:00 PM"
-  sunday: "8:00 AM - 7:00 PM"
+  monday: "8:00 AM–8:00 PM"
+  tuesday: "8:00 AM–8:00 PM"
+  wednesday: "8:00 AM–8:00 PM"
+  thursday: "8:00 AM–8:00 PM"
+  friday: "8:00 AM–8:00 PM"
+  saturday: "8:00 AM–8:00 PM"
+  sunday: "8:00 AM–7:00 PM"
 photos: ["/photos/sunbake-pita-bakery-2-1.jpg", "/photos/sunbake-pita-bakery-2-2.jpg", "/photos/sunbake-pita-bakery-2-3.jpg"]
 rating: 4.7
-review_count: 2168
+review_count: 2178
 price_range: "$$"
 amenities:
   - "Halal"

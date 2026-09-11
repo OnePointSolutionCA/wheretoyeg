@@ -11,16 +11,16 @@ phone: "(825) 404-5343"
 website: "https://shawarmamedflavors.com/"
 google_maps_url: "https://maps.google.com/?cid=17996110122195822505&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 9:00 PM"
-  tuesday: "11:00 AM - 9:00 PM"
-  wednesday: "11:00 AM - 9:00 PM"
-  thursday: "11:00 AM - 9:00 PM"
-  friday: "11:00 AM - 9:00 PM"
-  saturday: "11:00 AM - 9:00 PM"
-  sunday: "11:00 AM - 8:00 PM"
+  monday: "11:00 AM–9:00 PM"
+  tuesday: "11:00 AM–9:00 PM"
+  wednesday: "11:00 AM–9:00 PM"
+  thursday: "11:00 AM–9:00 PM"
+  friday: "11:00 AM–9:00 PM"
+  saturday: "11:00 AM–9:00 PM"
+  sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/shawarma-mediterranean-flavors-1.jpg", "/photos/shawarma-mediterranean-flavors-2.jpg", "/photos/shawarma-mediterranean-flavors-3.jpg"]
 rating: 4.9
-review_count: 259
+review_count: 276
 price_range: "$"
 amenities:
   - "Halal"

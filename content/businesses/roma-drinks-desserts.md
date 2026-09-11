@@ -11,13 +11,13 @@ phone: "(780) 444-1227"
 website: "http://romabubbletea.com/"
 google_maps_url: "https://maps.google.com/?cid=16148906278837254760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 11:00 PM"
-  tuesday: "11:00 AM - 11:00 PM"
-  wednesday: "11:00 AM - 11:00 PM"
-  thursday: "11:00 AM - 11:00 PM"
-  friday: "11:00 AM - 12:00 AM"
-  saturday: "11:00 AM - 12:00 AM"
-  sunday: "11:00 AM - 10:00 PM"
+  monday: "11:00 AM–11:00 PM"
+  tuesday: "11:00 AM–11:00 PM"
+  wednesday: "11:00 AM–11:00 PM"
+  thursday: "11:00 AM–11:00 PM"
+  friday: "11:00 AM–12:00 AM"
+  saturday: "11:00 AM–12:00 AM"
+  sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/roma-drinks-desserts-1.jpg", "/photos/roma-drinks-desserts-2.jpg", "/photos/roma-drinks-desserts-3.jpg"]
 rating: 5
 review_count: 8

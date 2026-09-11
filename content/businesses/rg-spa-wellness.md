@@ -11,16 +11,16 @@ phone: "(780) 761-0511"
 website: "http://www.rgspa.ca/"
 google_maps_url: "https://maps.google.com/?cid=531511839778012918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 6:00 PM"
-  tuesday: "10:00 AM - 8:00 PM"
-  wednesday: "10:00 AM - 6:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 8:00 PM"
-  saturday: "11:00 AM - 7:00 PM"
-  sunday: "10:00 AM - 5:00 PM"
+  monday: "10:00 AM–6:00 PM"
+  tuesday: "10:00 AM–8:00 PM"
+  wednesday: "10:00 AM–6:00 PM"
+  thursday: "10:00 AM–8:00 PM"
+  friday: "10:00 AM–8:00 PM"
+  saturday: "11:00 AM–7:00 PM"
+  sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/rg-spa-wellness-1.jpg", "/photos/rg-spa-wellness-2.jpg", "/photos/rg-spa-wellness-3.jpg"]
 rating: 5
-review_count: 94
+review_count: 95
 price_range: "$$"
 amenities:
 

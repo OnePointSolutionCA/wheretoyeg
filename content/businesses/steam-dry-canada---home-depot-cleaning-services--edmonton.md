@@ -11,13 +11,13 @@ phone: "(780) 705-7322"
 website: "https://steamdrycanada.com/franchise/edmonton/?utm_source=google&utm_medium=organic&utm_campaign=gmb"
 google_maps_url: "https://maps.google.com/?cid=4300342226350466820&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "Open 24 hours"
-  wednesday: "Open 24 hours"
-  thursday: "Open 24 hours"
-  friday: "Open 24 hours"
-  saturday: "Open 24 hours"
-  sunday: "Open 24 hours"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "12:00 AM–12:00 AM"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "Closed"
 photos: ["/photos/steam-dry-canada---home-depot-cleaning-services--edmonton-1.jpg", "/photos/steam-dry-canada---home-depot-cleaning-services--edmonton-2.jpg", "/photos/steam-dry-canada---home-depot-cleaning-services--edmonton-3.jpg"]
 rating: 4.7
 review_count: 582

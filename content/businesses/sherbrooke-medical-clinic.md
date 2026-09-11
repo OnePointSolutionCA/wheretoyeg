@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 488-0123"
 google_maps_url: "https://maps.google.com/?cid=3892709310557805417&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 6:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 3:00 PM"
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–6:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "9:00 AM–6:00 PM"
+  friday: "9:00 AM–6:00 PM"
+  saturday: "10:00 AM–3:00 PM"
   sunday: "Closed"
 photos: ["/photos/sherbrooke-medical-clinic-1.jpg", "/photos/sherbrooke-medical-clinic-2.jpg", "/photos/sherbrooke-medical-clinic-3.jpg"]
 rating: 2.8
-review_count: 170
+review_count: 171
 price_range: "$$"
 amenities:
 

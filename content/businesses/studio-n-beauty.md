@@ -11,12 +11,12 @@ phone: "(587) 689-2198"
 website: "https://www.studionbeauty.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=548571349887228428"
 google_maps_url: "https://maps.google.com/?cid=15400781742588896461&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 7:00 PM"
-  tuesday: "11:00 AM - 7:00 PM"
-  wednesday: "11:00 AM - 7:00 PM"
-  thursday: "11:00 AM - 7:00 PM"
-  friday: "11:00 AM - 7:00 PM"
-  saturday: "11:00 AM - 7:00 PM"
+  monday: "11:00 AM–7:00 PM"
+  tuesday: "11:00 AM–7:00 PM"
+  wednesday: "11:00 AM–7:00 PM"
+  thursday: "11:00 AM–7:00 PM"
+  friday: "11:00 AM–7:00 PM"
+  saturday: "11:00 AM–7:00 PM"
   sunday: "Closed"
 photos: ["/photos/studio-n-beauty-1.jpg", "/photos/studio-n-beauty-2.jpg", "/photos/studio-n-beauty-3.jpg"]
 rating: 5

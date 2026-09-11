@@ -15,17 +15,30 @@ photos:
 reviews:
   - name: "mtk 09"
     rating: 5
-    comment: "Mariana is the best photographer!! She is so kind, welcoming and just so humble!! She did my daughters 1st birthday cake smash and we were so happy with the pictures. I was so overwhelmed arranging my daughters birthday party and still in post partum hormones and just couldn’t go pick up the pictures she insisted I have them for her big day and she drove to my house and delivered them herself we watched the slide show and were so emotional she did an amazing job! And last minute I called her to "
+    comment: |
+      Mariana is the best photographer!! She is so kind, welcoming and just so humble!! She did my daughters 1st birthday cake smash and we were so happy with the pictures. I was so overwhelmed arranging my daughters birthday party and still in post partum hormones and just couldn’t go pick up the pictures she insisted I have them for her big day and she drove to my house and delivered them herself we watched the slide show and were so emotional she did an amazing job! And last minute I called her to arrange my sons cake smash since we were going to be visiting Edmonton and she got me in and again the results were amazing !!! She is the best don’t think just book her she makes everything so seamless and easy exactly what you need when you have little ones
   - name: "April Cardinal"
     rating: 5
-    comment: "Had an absolutely wonderful experience with Mariana. Excellent communication, beautiful studio and a warm and comfortable person to be around for the experience. Only took her a week to get the photos back to me and I love the pictures I received. I 10/10 recommend her if you’re looking to create some everlasting memories."
+    comment: |
+      Had an absolutely wonderful experience with Mariana. Excellent communication, beautiful studio and a warm and comfortable person to be around for the experience. Only took her a week to get the photos back to me and I love the pictures I received. I 10/10 recommend her if you’re looking to create some everlasting memories.
   - name: "Rebecca Mattson"
     rating: 5
-    comment: "This is my first pregnancy, and I knew I wanted to mark the occasion with high-quality photos. It was truly like playing dress-up for an hour! Marina has plenty of amazing outfits to choose from, and they are all unique and accommodating to every style. From boho, to elegant, to fashionista, to casual. Marina paid close attention to the angles and shots I most wanted, and was very supportive in helping my partner and I to narrow down our favourite pictures. Marina has an amazing personality with"
+    comment: |
+      This is my first pregnancy, and I knew I wanted to mark the occasion with high-quality photos. It was truly like playing dress-up for an hour! Marina has plenty of amazing outfits to choose from, and they are all unique and accommodating to every style. From boho, to elegant, to fashionista, to casual. Marina paid close attention to the angles and shots I most wanted, and was very supportive in helping my partner and I to narrow down our favourite pictures. Marina has an amazing personality with tons of stories to share! She brings a high-energy vibe to get you excited, comfortable, and happy to celebrate your moment. Overall, this was a lovely experience and I would 10/10 recommend it for anyone who is interested in a high-quality, curated vibe just for you!
   - name: "Gurpreet Sidhu"
     rating: 5
-    comment: "We had a great experience at sweethugs photography studio. Usually, everybody asked to make an appointment 3-4 weeks ahead.  Luckily, we contacted Mariana 5 days before our daughter’s birthday, she gave us an appointment. Her greeting skills are so good, she is very friendly. Everything was organized in the studio. Our family and friends liked the cake-smash photography and videos. Thank you Mariana to make my daughter’s day more special. Definitely, we will go there for future occasion’s photog"
+    comment: |
+      We had a great experience at sweethugs photography studio. Usually, everybody asked to make an appointment 3-4 weeks ahead.  Luckily, we contacted Mariana 5 days before our daughter’s birthday, she gave us an appointment. Her greeting skills are so good, she is very friendly. Everything was organized in the studio. Our family and friends liked the cake-smash photography and videos. Thank you Mariana to make my daughter’s day more special. Definitely, we will go there for future occasion’s photography.
   - name: "HanneanH"
     rating: 5
-    comment: "I was looking for a newborn photographer for my baby girl so I went on google since it is my first child and I had no idea about newborn photography and after looking at a few websites I was a little discouraged because a lot of photographers only do newborns until 14 days old. I had to have an emergency c-section and was pretty immobile for a couple of weeks so my daughter was 24 days old when I went looking for a photographer. I decided to email Mariana since she had amazing reviews and I’m so"
+    comment: |
+      I was looking for a newborn photographer for my baby girl so I went on google since it is my first child and I had no idea about newborn photography and after looking at a few websites I was a little discouraged because a lot of photographers only do newborns until 14 days old. I had to have an emergency c-section and was pretty immobile for a couple of weeks so my daughter was 24 days old when I went looking for a photographer. I decided to email Mariana since she had amazing reviews and I’m so glad I did. Mariana was so gentle and very patient with my daughter and so kind towards my husband and I. Mariana made us feel so welcome and relaxed in her studio. Mariana went above and beyond for us by coming in even though she took the week off to be with her kids. Lastly the photos turned out so amazing and I received them in a timely manner. Overall I highly recommend Mariana for all photography involving your children she is simply the best.
+hours:
+  monday: "9:00 AM–3:00 PM"
+  tuesday: "9:00 AM–3:00 PM"
+  wednesday: "9:00 AM–3:00 PM"
+  thursday: "9:00 AM–1:00 PM"
+  friday: "9:00 AM–3:00 PM"
+  saturday: "Closed"
+  sunday: "Closed"
 ---

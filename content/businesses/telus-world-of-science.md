@@ -17,8 +17,8 @@ hours:
   saturday: "10:00 AM - 9:00 PM"
   sunday: "10:00 AM - 5:00 PM"
 photos: ["/photos/telus-world-of-science-1.jpg", "/photos/telus-world-of-science-2.jpg", "/photos/telus-world-of-science-3.jpg"]
-rating: 4.6
-review_count: 5800
+rating: 4.5
+review_count: 2322
 price_range: "$$"
 amenities:
   - "Family Friendly"

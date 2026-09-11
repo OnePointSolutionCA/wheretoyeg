@@ -15,17 +15,33 @@ photos:
 reviews:
   - name: "John Lavapie (raellovepie)"
     rating: 5
-    comment: "We ordered the BF Pares and Sisig Pizza. The Pares was so good. The pares was sweet and savoury. The sisig pizza was also really good. It’s not oily. It’s crunchy and you can really taste the sisig. Highly recommend it!"
+    comment: |
+      We ordered the BF Pares and Sisig Pizza. The Pares was so good. The pares was sweet and savoury. The sisig pizza was also really good. It’s not oily. It’s crunchy and you can really taste the sisig. Highly recommend it!
   - name: "Mariposa Danta"
     rating: 5
-    comment: "Found this Filipino resto here in Beaumont and it's awesome! No need to order from a far when you have cravings. We really love the dubai chewy chocolate! The owner is very accommodating. Highly reco"
+    comment: |
+      Found this Filipino resto here in Beaumont and it's awesome! No need to order from a far when you have cravings. We really love the dubai chewy chocolate! The owner is very accommodating. Highly reco
   - name: "Roland Ocampo"
     rating: 5
-    comment: "It has been our habit in the family that every time we picked up somebody at the Edmonton Airport, we would eat out before going home. Normally it would be in Edmonton. Today we did something different by trying Soul Fuel - Pizza 43 in Beaumont. We ordered their Combo #3 - large pizza with 15-pc Chicken. The Sisig pizza is just the right flavor and crust is soft. The chicken is crispy on the outside, yet juicy on the inside. It's tasty, but not salty. And the portions are big! The staff are very"
+    comment: |
+      It has been our habit in the family that every time we picked up somebody at the Edmonton Airport, we would eat out before going home. Normally it would be in Edmonton.
+      Today we did something different by trying Soul Fuel - Pizza 43 in Beaumont. We ordered their Combo #3 - large pizza with 15-pc Chicken. The Sisig pizza is just the right flavor and crust is soft. The chicken is crispy on the outside, yet juicy on the inside. It's tasty, but not salty. And the portions are big!
+      The staff are very friendly. Next time around, we'll try the other options in their menu.
+      A little bit far from north Edmonton, but it was worth the drive 😍
   - name: "Yaoming Guo"
     rating: 5
-    comment: "This place is a hidden gems. Good food with a warm atmosphere, staffs are very friendly."
+    comment: |
+      This place is a hidden gems. Good food with a warm atmosphere, staffs are very friendly.
   - name: "Jennifer Elloran"
     rating: 5
-    comment: "The sisilog and mango matcha latte were so yummy! Highly recommend!"
+    comment: |
+      The sisilog and mango matcha latte were so yummy! Highly recommend!
+hours:
+  monday: "11:00 AM–8:00 PM"
+  tuesday: "11:00 AM–8:00 PM"
+  wednesday: "11:00 AM–8:00 PM"
+  thursday: "11:00 AM–8:30 PM"
+  friday: "11:00 AM–8:30 PM"
+  saturday: "11:00 AM–8:30 PM"
+  sunday: "Closed"
 ---

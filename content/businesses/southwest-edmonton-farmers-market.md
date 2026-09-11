@@ -13,14 +13,14 @@ google_maps_url: "https://maps.google.com/?cid=14454863064914694249&g_mp=Cidnb29
 hours:
   monday: "Closed"
   tuesday: "Closed"
-  wednesday: "3:30 - 7:30 PM"
+  wednesday: "3:30 PM–7:30 PM"
   thursday: "Closed"
   friday: "Closed"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/southwest-edmonton-farmers-market-1.jpg", "/photos/southwest-edmonton-farmers-market-2.jpg", "/photos/southwest-edmonton-farmers-market-3.jpg"]
 rating: 4.6
-review_count: 150
+review_count: 151
 price_range: "$$"
 amenities:
 

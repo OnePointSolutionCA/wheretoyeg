@@ -11,16 +11,16 @@ phone: "(780) 428-1455"
 website: "https://simplicitycc.com/auto-collision-center-locations/simplicity-edmonton-north/"
 google_maps_url: "https://maps.google.com/?cid=17574099545860209559&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 5:00 PM"
-  tuesday: "8:00 AM - 5:00 PM"
-  wednesday: "8:00 AM - 5:00 PM"
-  thursday: "8:00 AM - 5:00 PM"
-  friday: "8:00 AM - 5:00 PM"
+  monday: "8:00 AM–5:00 PM"
+  tuesday: "8:00 AM–5:00 PM"
+  wednesday: "8:00 AM–5:00 PM"
+  thursday: "8:00 AM–5:00 PM"
+  friday: "8:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/simplicity-car-care-edmonton-north-1.jpg", "/photos/simplicity-car-care-edmonton-north-2.jpg", "/photos/simplicity-car-care-edmonton-north-3.jpg"]
 rating: 4.8
-review_count: 163
+review_count: 164
 price_range: "$$"
 amenities:
 

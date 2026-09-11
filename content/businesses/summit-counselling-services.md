@@ -11,16 +11,16 @@ phone: "(780) 217-4665"
 website: "https://www.summitcs.ca/?utm_source=google&utm_medium=gbp&utm_campaign=website_link_edmonton"
 google_maps_url: "https://maps.google.com/?cid=4574349355803472417&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:30 AM - 9:00 PM"
-  tuesday: "8:30 AM - 9:00 PM"
-  wednesday: "8:30 AM - 9:00 PM"
-  thursday: "8:30 AM - 9:00 PM"
-  friday: "8:30 AM - 9:00 PM"
-  saturday: "9:00 AM - 5:00 PM"
+  monday: "8:30 AM–9:00 PM"
+  tuesday: "8:30 AM–9:00 PM"
+  wednesday: "8:30 AM–9:00 PM"
+  thursday: "8:30 AM–9:00 PM"
+  friday: "8:30 AM–9:00 PM"
+  saturday: "9:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/summit-counselling-services-1.jpg", "/photos/summit-counselling-services-2.jpg", "/photos/summit-counselling-services-3.jpg"]
 rating: 4.4
-review_count: 25
+review_count: 26
 price_range: "$$"
 amenities:
 

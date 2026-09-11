@@ -11,16 +11,16 @@ phone: "(780) 633-7538"
 website: "https://redleafwellness.ca/"
 google_maps_url: "https://maps.google.com/?cid=18432701418925322567&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 5:00 PM"
-  tuesday: "10:00 AM - 5:00 PM"
-  wednesday: "10:00 AM - 5:00 PM"
-  thursday: "10:00 AM - 5:00 PM"
-  friday: "10:00 AM - 5:00 PM"
-  saturday: "10:00 AM - 3:00 PM"
+  monday: "10:00 AM–5:00 PM"
+  tuesday: "10:00 AM–5:00 PM"
+  wednesday: "10:00 AM–5:00 PM"
+  thursday: "10:00 AM–5:00 PM"
+  friday: "10:00 AM–5:00 PM"
+  saturday: "10:00 AM–3:00 PM"
   sunday: "Closed"
 photos: ["/photos/red-leaf-wellness-1.jpg", "/photos/red-leaf-wellness-2.jpg", "/photos/red-leaf-wellness-3.jpg"]
 rating: 5
-review_count: 271
+review_count: 275
 price_range: "$$"
 amenities:
 

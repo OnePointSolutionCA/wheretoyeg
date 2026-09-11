@@ -12,15 +12,15 @@ website: "https://siamthaikitchen.ca/location/116ave/"
 google_maps_url: "https://maps.google.com/?cid=12263001543312316970&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "11:00 AM - 2:30 PM, 4:00 - 8:30 PM"
-  wednesday: "11:00 AM - 2:30 PM, 4:00 - 8:30 PM"
-  thursday: "11:00 AM - 2:30 PM, 4:00 - 8:30 PM"
-  friday: "11:00 AM - 2:30 PM, 4:00 - 9:00 PM"
-  saturday: "4:00 - 9:00 PM"
-  sunday: "4:00 - 9:00 PM"
+  tuesday: "11:00 AM–2:30 PM"
+  wednesday: "11:00 AM–2:30 PM"
+  thursday: "11:00 AM–2:30 PM"
+  friday: "11:00 AM–2:30 PM"
+  saturday: "4:00 PM–9:00 PM"
+  sunday: "4:00 PM–9:00 PM"
 photos: ["/photos/siam-thai-kitchen-1.jpg", "/photos/siam-thai-kitchen-2.jpg", "/photos/siam-thai-kitchen-3.jpg"]
 rating: 4.7
-review_count: 531
+review_count: 541
 price_range: "$$"
 amenities:
   - "Dine-In"

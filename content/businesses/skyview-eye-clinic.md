@@ -15,17 +15,31 @@ photos:
 reviews:
   - name: "James Hooper"
     rating: 5
-    comment: "Dr. El-Mustapha and the team at Skyview Eye Clinic work extremely well together.  It was evident to me  in my first appointment with them a few weeks ago.  Attentive and helpful front end staff.  On time appointments with a doctor who is happy and willing to discuss your eye health questions and concerns.   Received my glasses in three weeks.  Very pleased."
+    comment: |
+      Dr. El-Mustapha and the team at Skyview Eye Clinic work extremely well together.  It was evident to me  in my first appointment with them a few weeks ago.  Attentive and helpful front end staff.  On time appointments with a doctor who is happy and willing to discuss your
+      eye health questions and concerns.   Received my glasses in three weeks.  Very pleased.
   - name: "Susan Vader"
     rating: 5
-    comment: "Wonderful experience (Sam) at the front desk with his genuine smile taking you through the pre screening prior to when the Dr comes in to conduct the exam.  Thorough, explaining each process along the way.  Great pricing on prescription lenses.  Highly recommend!!"
+    comment: |
+      Wonderful experience (Sam) at the front desk with his genuine smile taking you through the pre screening prior to when the Dr comes in to conduct the exam.  Thorough, explaining each process along the way.  Great pricing on prescription lenses.  Highly recommend!!
   - name: "Bishnu Thapaliya"
     rating: 5
-    comment: "Sam was fantastic. Despite how busy the clinic was, I was in and out in just five minutes. He was efficient, professional, and still made sure everything was handled properly without feeling rushed. Really appreciate the smooth experience - highly recommend Sam for anyone looking for quick and reliable service."
+    comment: |
+      Sam was fantastic. Despite how busy the clinic was, I was in and out in just five minutes. He was efficient, professional, and still made sure everything was handled properly without feeling rushed. Really appreciate the smooth experience - highly recommend Sam for anyone looking for quick and reliable service.
   - name: "Darul Ilm Masjid"
     rating: 5
-    comment: "I had a great experience at Skyview Eye Clinic. The service was professional, and the clinic was very welcoming. The gentleman Sam at the front desk was especially outstanding—friendly, respectful, and very helpful from the moment I arrived."
+    comment: |
+      I had a great experience at Skyview Eye Clinic. The service was professional, and the clinic was very welcoming. The gentleman Sam at the front desk was especially outstanding—friendly, respectful, and very helpful from the moment I arrived.
   - name: "Nga Jones"
     rating: 5
-    comment: "Had a great experience at this clinic. The staff were friendly and welcoming, and the eye exam was very thorough. The doctor explained everything clearly and made me feel comfortable. Highly recommend!"
+    comment: |
+      Had a great experience at this clinic. The staff were friendly and welcoming, and the eye exam was very thorough. The doctor explained everything clearly and made me feel comfortable. Highly recommend!
+hours:
+  monday: "10:00 AM–6:00 PM"
+  tuesday: "10:00 AM–6:00 PM"
+  wednesday: "10:00 AM–6:00 PM"
+  thursday: "10:00 AM–6:00 PM"
+  friday: "10:00 AM–6:00 PM"
+  saturday: "10:00 AM–2:00 PM"
+  sunday: "Closed"
 ---

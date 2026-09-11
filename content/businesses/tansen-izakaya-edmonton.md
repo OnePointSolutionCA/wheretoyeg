@@ -11,16 +11,16 @@ phone: "(780) 249-8889"
 website: "https://tansen-izakaya-edmonton.vercel.app/"
 google_maps_url: "https://maps.google.com/?cid=16040264875128552424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:30 AM - 10:00 PM"
-  tuesday: "11:30 AM - 10:00 PM"
-  wednesday: "11:30 AM - 10:00 PM"
-  thursday: "11:30 AM - 10:00 PM"
-  friday: "11:30 AM - 12:00 AM"
-  saturday: "11:30 AM - 12:00 AM"
-  sunday: "11:30 AM - 10:00 PM"
+  monday: "11:30 AM–10:00 PM"
+  tuesday: "11:30 AM–10:00 PM"
+  wednesday: "11:30 AM–10:00 PM"
+  thursday: "11:30 AM–10:00 PM"
+  friday: "11:30 AM–12:00 AM"
+  saturday: "11:30 AM–12:00 AM"
+  sunday: "11:30 AM–10:00 PM"
 photos: ["/photos/tansen-izakaya-edmonton-1.jpg", "/photos/tansen-izakaya-edmonton-2.jpg", "/photos/tansen-izakaya-edmonton-3.jpg"]
 rating: 4.6
-review_count: 1072
+review_count: 1120
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -54,7 +54,7 @@ reviews:
     rating: 5
     comment: |
       Delicious authentic Izakaya fare. Fresh made from scratch,  excellent presentation, flavors that compliment but not over power food. All around well executed. Add to that a very friendly and attentive wait staff and makes for a great experience,  not just a meal. A+
-  - name: "B"
+  - name: "Keith"
     rating: 2
     comment: |
       Real unfiltered honest review. Food was way overly salty and not to standard aside from sushi. This place is getting way too much praise here.

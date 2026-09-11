@@ -11,13 +11,13 @@ phone: "(780) 249-4913"
 website: "https://www.sunningfamilyrestaurant.ca/"
 google_maps_url: "https://maps.google.com/?cid=12878942030704954066&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "Closed"
-  tuesday: "11:00 AM - 10:00 PM"
-  wednesday: "11:00 AM - 10:00 PM"
-  thursday: "11:00 AM - 10:00 PM"
-  friday: "11:00 AM - 10:00 PM"
-  saturday: "11:00 AM - 10:00 PM"
-  sunday: "11:00 AM - 10:00 PM"
+  monday: "11:00 AM–10:00 PM"
+  tuesday: "11:00 AM–10:00 PM"
+  wednesday: "11:00 AM–10:00 PM"
+  thursday: "11:00 AM–10:00 PM"
+  friday: "11:00 AM–10:00 PM"
+  saturday: "11:00 AM–10:00 PM"
+  sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/sunning-family-restaurant-dim-sum-chinese-food-1.jpg", "/photos/sunning-family-restaurant-dim-sum-chinese-food-2.jpg", "/photos/sunning-family-restaurant-dim-sum-chinese-food-3.jpg"]
 rating: 4.7
 review_count: 218

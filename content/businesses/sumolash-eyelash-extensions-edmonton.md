@@ -11,16 +11,16 @@ phone: "(587) 985-1357"
 website: "https://sumolash.ca/services/?utm_source=GBPlisting&utm_medium=organic"
 google_maps_url: "https://maps.google.com/?cid=887243245256576188&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "10:00 AM - 8:00 PM"
-  wednesday: "10:00 AM - 8:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 8:00 PM"
-  saturday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "10:00 AM–8:00 PM"
+  wednesday: "10:00 AM–8:00 PM"
+  thursday: "10:00 AM–8:00 PM"
+  friday: "10:00 AM–8:00 PM"
+  saturday: "9:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/sumolash-eyelash-extensions-edmonton-1.jpg", "/photos/sumolash-eyelash-extensions-edmonton-2.jpg", "/photos/sumolash-eyelash-extensions-edmonton-3.jpg"]
 rating: 5
-review_count: 172
+review_count: 173
 price_range: "$$"
 amenities:
 

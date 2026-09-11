@@ -12,15 +12,15 @@ website: "http://redstarpub.ca/"
 google_maps_url: "https://maps.google.com/?cid=2226771936841135775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "5:00 PM - 12:00 AM"
-  wednesday: "5:00 PM - 12:00 AM"
-  thursday: "5:00 PM - 1:00 AM"
-  friday: "5:00 PM - 1:00 AM"
-  saturday: "6:00 PM - 1:00 AM"
+  tuesday: "5:00 PM–12:00 AM"
+  wednesday: "5:00 PM–12:00 AM"
+  thursday: "5:00 PM–1:00 AM"
+  friday: "5:00 PM–1:00 AM"
+  saturday: "6:00 PM–1:00 AM"
   sunday: "Closed"
 photos: ["/photos/red-star-bar-1.jpg", "/photos/red-star-bar-2.jpg", "/photos/red-star-bar-3.jpg"]
 rating: 4.5
-review_count: 457
+review_count: 458
 price_range: "$$"
 amenities:
   - "Dine-In"

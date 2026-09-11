@@ -12,15 +12,15 @@ website: "http://seitans.com/"
 google_maps_url: "https://maps.google.com/?cid=12588711162201217077&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "11:00 AM - 9:00 PM"
-  wednesday: "11:00 AM - 9:00 PM"
-  thursday: "11:00 AM - 9:00 PM"
-  friday: "11:00 AM - 10:00 PM"
-  saturday: "11:00 AM - 10:00 PM"
-  sunday: "11:00 AM - 9:00 PM"
+  tuesday: "11:00 AM–9:00 PM"
+  wednesday: "11:00 AM–9:00 PM"
+  thursday: "11:00 AM–9:00 PM"
+  friday: "11:00 AM–10:00 PM"
+  saturday: "11:00 AM–10:00 PM"
+  sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/seitans-formerly-die-pie-1.jpg", "/photos/seitans-formerly-die-pie-2.jpg", "/photos/seitans-formerly-die-pie-3.jpg"]
 rating: 4.5
-review_count: 1053
+review_count: 1054
 price_range: "$$"
 amenities:
   - "Delivery"

@@ -11,13 +11,13 @@ phone: "(587) 727-1118"
 website: "https://riseandshinepsychology.org/"
 google_maps_url: "https://maps.google.com/?cid=8992787666906124573&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 9:00 PM"
-  tuesday: "9:00 AM - 9:00 PM"
-  wednesday: "9:00 AM - 9:00 PM"
-  thursday: "9:00 AM - 9:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "9:00 AM - 9:00 PM"
-  sunday: "9:00 AM - 9:00 PM"
+  monday: "9:00 AM–9:00 PM"
+  tuesday: "9:00 AM–9:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
+  saturday: "9:00 AM–9:00 PM"
+  sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/rise-and-shine-psychology-and-counseling-1.jpg", "/photos/rise-and-shine-psychology-and-counseling-2.jpg", "/photos/rise-and-shine-psychology-and-counseling-3.jpg"]
 rating: 5
 review_count: 13
@@ -28,7 +28,7 @@ tags: ["edmonton", "counselling"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "FEEK H"
+  - name: "ReviewWorld"
     rating: 5
     comment: |
       One of the best experiences I’ve have with any counselor. I’m beyond happy for the strides we have made together.

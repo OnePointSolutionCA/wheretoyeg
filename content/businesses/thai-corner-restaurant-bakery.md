@@ -12,15 +12,15 @@ website: "https://thaicorneryeg.com/"
 google_maps_url: "https://maps.google.com/?cid=8389957251438219143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "11:00 AM - 2:30 PM, 4:00 - 8:30 PM"
-  wednesday: "11:00 AM - 2:30 PM, 4:00 - 8:30 PM"
-  thursday: "11:00 AM - 2:30 PM, 4:00 - 8:30 PM"
-  friday: "11:00 AM - 2:30 PM, 4:00 - 9:00 PM"
-  saturday: "11:00 AM - 2:30 PM, 4:00 - 9:00 PM"
-  sunday: "11:00 AM - 2:30 PM, 4:00 - 8:30 PM"
+  tuesday: "11:00 AM–2:30 PM"
+  wednesday: "11:00 AM–2:30 PM"
+  thursday: "11:00 AM–2:30 PM"
+  friday: "11:00 AM–2:30 PM"
+  saturday: "11:00 AM–2:30 PM"
+  sunday: "11:00 AM–2:30 PM"
 photos: ["/photos/thai-corner-restaurant-bakery-1.jpg", "/photos/thai-corner-restaurant-bakery-2.jpg", "/photos/thai-corner-restaurant-bakery-3.jpg"]
 rating: 4.8
-review_count: 704
+review_count: 710
 price_range: "$$"
 amenities:
   - "Dine-In"

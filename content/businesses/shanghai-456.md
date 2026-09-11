@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 451-8333"
 google_maps_url: "https://maps.google.com/?cid=683628871271983733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 8:00 PM"
-  tuesday: "11:00 AM - 8:00 PM"
+  monday: "11:00 AM–8:00 PM"
+  tuesday: "11:00 AM–8:00 PM"
   wednesday: "Closed"
-  thursday: "11:00 AM - 8:00 PM"
-  friday: "11:00 AM - 8:00 PM"
-  saturday: "11:00 AM - 8:00 PM"
-  sunday: "11:00 AM - 8:00 PM"
+  thursday: "11:00 AM–8:00 PM"
+  friday: "11:00 AM–8:00 PM"
+  saturday: "11:00 AM–8:00 PM"
+  sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/shanghai-456-1.jpg", "/photos/shanghai-456-2.jpg", "/photos/shanghai-456-3.jpg"]
 rating: 4.2
-review_count: 662
+review_count: 663
 price_range: "$$"
 amenities:
   - "Delivery"

@@ -15,17 +15,32 @@ photos:
 reviews:
   - name: "Sujata Bhatnagar"
     rating: 5
-    comment: "I had an amazing experience with Ricardo! I called him to clean the carpets because of some stubborn stains. I was blown away by how much better the carpets look—they honestly look brand new! The price was exactly what was quoted with no hidden fees. I highly recommend his services and will definitely be using him again!"
+    comment: |
+      I had an amazing experience with Ricardo! I called him to clean the carpets because of some stubborn stains. I was blown away by how much better the carpets look—they honestly look brand new! The price was exactly what was quoted with no hidden fees. I highly recommend his services and will definitely be using him again!
   - name: "Michaela C"
     rating: 5
-    comment: "I had lost all hope with my 18 year old carpet. I tried everything to get my stairs cleaned. Nothing worked. I was in the process of getting quotes for new carpet when I decided one last attempt at saving them by hiring professionals. I now have new carpet and it didn’t cost $5K! They were so professional and kind! They explained everything and went through all stains to see what they were so they could treat appropriately. Thank you Ricardo’s!!"
+    comment: |
+      I had lost all hope with my 18 year old carpet. I tried everything to get my stairs cleaned. Nothing worked. I was in the process of getting quotes for new carpet when I decided one last attempt at saving them by hiring professionals. I now have new carpet and it didn’t cost $5K! They were so professional and kind! They explained everything and went through all stains to see what they were so they could treat appropriately. Thank you Ricardo’s!!
   - name: "Alex Pushkar"
     rating: 5
-    comment: "Absolutely 100% recommend! Attention to detail, fast, thorough, great communication—it's all about them. Riccardo and Antonio did an amazing job and now my carpet is spotless and looks like new again! I will recommend this company to everyone looking for a great carpet cleaning service."
+    comment: |
+      Absolutely 100% recommend!
+      Attention to detail, fast, thorough, great communication—it's all about them.
+      Riccardo and Antonio did an amazing job and now my carpet is spotless and looks like new again! I will recommend this company to everyone looking for a great carpet cleaning service.
   - name: "Dan Toews"
     rating: 5
-    comment: "I don’t usually post reviews unless my experience is really bad or really good… Riccardo definitely falls into the latter category! I cannot recommend him highly enough and I would give more than 5 stars if it was possible. He was on time, polite, courteous and professional and didn’t try to up-sell me a bunch of extras, like the bigger companies typically do. When he was done he gave me some great advice for future care and maintenance of our area rug, which was really appreciated. His price wa"
+    comment: |
+      I don’t usually post reviews unless my experience is really bad or really good… Riccardo definitely falls into the latter category! I cannot recommend him highly enough and I would give more than 5 stars if it was possible. He was on time, polite, courteous and professional and didn’t try to up-sell me a bunch of extras, like the bigger companies typically do. When he was done he gave me some great advice for future care and maintenance of our area rug, which was really appreciated. His price was also the lowest (my wife phoned around for a bunch of quotes), which I’m always sceptical of, but was very pleasantly surprised with how great the entire experience was. Riccardo is an hard working, old-school guy that gets the job done quickly and to a high standard. Don’t bother shopping around…
   - name: "Alison Kowalchuk"
     rating: 5
-    comment: "We could not be happier with the service and fantastic carpet cleaning we received today from Ricardo’s Carpet Cleaning LTD. They were prompt, proficient and professional. They charged what was quoted. I highly recommend this family run business! Katherine was extremely accommodating, Riccardo and Antonio were amazing, skilled and take pride in their work."
+    comment: |
+      We could not be happier with the service and fantastic carpet cleaning we received today from Ricardo’s Carpet Cleaning LTD. They were prompt, proficient and professional. They charged what was quoted. I highly recommend this family run business! Katherine was extremely accommodating, Riccardo and Antonio were amazing, skilled and take pride in their work.
+hours:
+  monday: "9:00 AM–5:30 PM"
+  tuesday: "9:00 AM–5:30 PM"
+  wednesday: "9:00 AM–5:30 PM"
+  thursday: "9:00 AM–5:30 PM"
+  friday: "9:00 AM–5:30 PM"
+  saturday: "9:00 AM–4:00 PM"
+  sunday: "Closed"
 ---

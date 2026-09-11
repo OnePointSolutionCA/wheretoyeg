@@ -11,13 +11,13 @@ phone: "(780) 280-0705"
 website: "https://www.fresha.com/ru/p/mariia-abou-salhab-6328992?fbclid=PAdGRleATnU5VwZG9mAmZkaWQWUMRGxJEk233R5hUHTXl4rCaS-618emV4dG4DYWVtAjExAHNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp3TLVP7gX3yhRAlz8CaZRVPauWdDgm6hlMAGf8t4oIINvjpgL7j1QEAWdWj__aem_pEAQjWXwBvsxqNRqubZ4-w&pId=2883513&utm_id=97760_v0_s00_e0_tv3&share=true&utm_medium=social&utm_source=ig&utm_content=link_in_bio"
 google_maps_url: "https://maps.google.com/?cid=15498619641945601883&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 5:00 PM"
-  tuesday: "10:00 AM - 5:00 PM"
-  wednesday: "10:00 AM - 5:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 8:00 PM"
-  saturday: "12:00 - 6:00 PM"
-  sunday: "10:00 AM - 5:00 PM"
+  monday: "10:00 AM–5:00 PM"
+  tuesday: "10:00 AM–5:00 PM"
+  wednesday: "10:00 AM–5:00 PM"
+  thursday: "10:00 AM–8:00 PM"
+  friday: "10:00 AM–8:00 PM"
+  saturday: "12:00 PM–6:00 PM"
+  sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/salhab-lash-1.jpg", "/photos/salhab-lash-2.jpg", "/photos/salhab-lash-3.jpg"]
 rating: 5
 review_count: 8

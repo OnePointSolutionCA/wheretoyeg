@@ -11,12 +11,12 @@ phone: "(780) 447-0099"
 website: "https://royalab.ca/"
 google_maps_url: "https://maps.google.com/?cid=7844198420666805220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:30 AM - 6:00 PM"
-  tuesday: "8:30 AM - 6:00 PM"
-  wednesday: "8:30 AM - 6:00 PM"
-  thursday: "8:30 AM - 6:00 PM"
-  friday: "8:30 AM - 6:00 PM"
-  saturday: "10:00 AM - 4:00 PM"
+  monday: "8:30 AM–6:00 PM"
+  tuesday: "8:30 AM–6:00 PM"
+  wednesday: "8:30 AM–6:00 PM"
+  thursday: "8:30 AM–6:00 PM"
+  friday: "8:30 AM–6:00 PM"
+  saturday: "10:00 AM–4:00 PM"
   sunday: "Closed"
 photos: ["/photos/royal-auto-body-1.jpg", "/photos/royal-auto-body-2.jpg", "/photos/royal-auto-body-3.jpg"]
 rating: 4.8

@@ -12,15 +12,15 @@ website: "https://szechuancastleedmonton.com/"
 google_maps_url: "https://maps.google.com/?cid=2307155385012878222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "11:00 AM - 10:00 PM"
-  wednesday: "11:00 AM - 10:00 PM"
-  thursday: "11:00 AM - 10:00 PM"
-  friday: "11:00 AM - 10:00 PM"
-  saturday: "3:00 - 10:00 PM"
-  sunday: "3:00 - 10:00 PM"
+  tuesday: "11:00 AM–10:00 PM"
+  wednesday: "11:00 AM–10:00 PM"
+  thursday: "11:00 AM–10:00 PM"
+  friday: "11:00 AM–10:00 PM"
+  saturday: "3:00 PM–10:00 PM"
+  sunday: "3:00 PM–10:00 PM"
 photos: ["/photos/szechuan-castle-1.jpg", "/photos/szechuan-castle-2.jpg", "/photos/szechuan-castle-3.jpg"]
 rating: 3.9
-review_count: 1127
+review_count: 1128
 price_range: "$$"
 amenities:
   - "Dine-In"

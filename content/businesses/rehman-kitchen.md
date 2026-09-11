@@ -11,16 +11,16 @@ phone: "(780) 249-4786"
 website: "https://rehmankitchen.ca/"
 google_maps_url: "https://maps.google.com/?cid=2568258669728422521&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 10:00 PM"
-  tuesday: "11:00 AM - 10:00 PM"
-  wednesday: "11:00 AM - 10:00 PM"
-  thursday: "11:00 AM - 10:00 PM"
-  friday: "11:00 AM - 12:00 AM"
-  saturday: "12:00 PM - 12:00 AM"
-  sunday: "1:00 - 8:00 PM"
+  monday: "11:00 AM–10:00 PM"
+  tuesday: "11:00 AM–10:00 PM"
+  wednesday: "11:00 AM–10:00 PM"
+  thursday: "11:00 AM–10:00 PM"
+  friday: "11:00 AM–12:00 AM"
+  saturday: "12:00 PM–12:00 AM"
+  sunday: "1:00 PM–8:00 PM"
 photos: ["/photos/rehman-kitchen-1.jpg", "/photos/rehman-kitchen-2.jpg", "/photos/rehman-kitchen-3.jpg"]
 rating: 4.6
-review_count: 157
+review_count: 165
 price_range: "$"
 amenities:
   - "Halal"

@@ -11,16 +11,16 @@ phone: "(780) 761-3616"
 website: "http://seoulfried.com/"
 google_maps_url: "https://maps.google.com/?cid=6926151310528257241&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:30 AM - 10:00 PM"
-  tuesday: "11:30 AM - 10:00 PM"
-  wednesday: "11:30 AM - 10:00 PM"
-  thursday: "11:30 AM - 10:00 PM"
-  friday: "11:30 AM - 10:00 PM"
-  saturday: "11:30 AM - 10:00 PM"
-  sunday: "12:00 - 8:00 PM"
+  monday: "11:30 AM–10:00 PM"
+  tuesday: "11:30 AM–10:00 PM"
+  wednesday: "11:30 AM–10:00 PM"
+  thursday: "11:30 AM–10:00 PM"
+  friday: "11:30 AM–10:00 PM"
+  saturday: "11:30 AM–10:00 PM"
+  sunday: "12:00 PM–8:00 PM"
 photos: ["/photos/sfc-seoul-fried-chicken-1.jpg", "/photos/sfc-seoul-fried-chicken-2.jpg", "/photos/sfc-seoul-fried-chicken-3.jpg"]
 rating: 4.5
-review_count: 3134
+review_count: 3138
 price_range: "$$"
 amenities:
   - "Dine-In"

@@ -12,15 +12,15 @@ website: "http://www.thaiavenueyeg.ca/"
 google_maps_url: "https://maps.google.com/?cid=6605507346807335004&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "11:00 AM - 9:00 PM"
-  wednesday: "11:00 AM - 9:00 PM"
-  thursday: "11:00 AM - 9:00 PM"
-  friday: "11:00 AM - 9:00 PM"
-  saturday: "11:30 AM - 9:00 PM"
-  sunday: "11:30 AM - 9:00 PM"
+  tuesday: "11:00 AM–9:00 PM"
+  wednesday: "11:00 AM–9:00 PM"
+  thursday: "11:00 AM–9:00 PM"
+  friday: "11:00 AM–9:00 PM"
+  saturday: "11:30 AM–9:00 PM"
+  sunday: "11:30 AM–9:00 PM"
 photos: ["/photos/thai-avenue-restaurant-1.jpg", "/photos/thai-avenue-restaurant-2.jpg", "/photos/thai-avenue-restaurant-3.jpg"]
 rating: 4.7
-review_count: 586
+review_count: 595
 price_range: "$$"
 amenities:
   - "Dine-In"

@@ -10,13 +10,13 @@ neighborhood: "Edmonton"
 phone: "(780) 893-5276"
 google_maps_url: "https://maps.google.com/?cid=2727290703415364858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 10:00 PM"
-  tuesday: "7:00 AM - 10:00 PM"
-  wednesday: "7:00 AM - 10:00 PM"
-  thursday: "7:00 AM - 10:00 PM"
-  friday: "7:00 AM - 10:00 PM"
+  monday: "7:00 AM–10:00 PM"
+  tuesday: "7:00 AM–10:00 PM"
+  wednesday: "7:00 AM–10:00 PM"
+  thursday: "7:00 AM–10:00 PM"
+  friday: "7:00 AM–10:00 PM"
   saturday: "Closed"
-  sunday: "7:00 AM - 10:00 PM"
+  sunday: "7:00 AM–10:00 PM"
 photos: ["/photos/stukalo-boxing-academy-inc-1.jpg", "/photos/stukalo-boxing-academy-inc-2.jpg", "/photos/stukalo-boxing-academy-inc-3.jpg"]
 rating: 5
 review_count: 33

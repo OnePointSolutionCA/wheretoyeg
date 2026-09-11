@@ -12,15 +12,15 @@ website: "https://sultansbiryani.com/"
 google_maps_url: "https://maps.google.com/?cid=2261367785363877587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "Closed"
-  wednesday: "3:00 - 11:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "9:00 AM - 5:00 PM"
-  sunday: "2:00 - 11:00 PM"
+  tuesday: "2:00 PM–8:30 PM"
+  wednesday: "2:00 PM–11:00 PM"
+  thursday: "5:00 PM–11:00 PM"
+  friday: "5:00 PM–11:00 PM"
+  saturday: "2:00 PM–11:00 PM"
+  sunday: "2:00 PM–11:00 PM"
 photos: ["/photos/sultans-biryani-1.jpg", "/photos/sultans-biryani-2.jpg", "/photos/sultans-biryani-3.jpg"]
 rating: 4.9
-review_count: 170
+review_count: 172
 price_range: "$"
 amenities:
   - "Halal"

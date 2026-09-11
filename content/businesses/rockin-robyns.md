@@ -11,16 +11,16 @@ phone: "(780) 756-5656"
 website: "http://www.rockinrobyns.com/"
 google_maps_url: "https://maps.google.com/?cid=8074217832137329583&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 4:00 PM"
+  monday: "7:00 AM–4:00 PM"
   tuesday: "Closed"
-  wednesday: "7:00 AM - 4:00 PM"
-  thursday: "7:00 AM - 4:00 PM"
-  friday: "7:00 AM - 8:00 PM"
-  saturday: "7:00 AM - 8:00 PM"
-  sunday: "7:00 AM - 4:00 PM"
+  wednesday: "7:00 AM–4:00 PM"
+  thursday: "7:00 AM–4:00 PM"
+  friday: "7:00 AM–8:00 PM"
+  saturday: "7:00 AM–8:00 PM"
+  sunday: "7:00 AM–4:00 PM"
 photos: ["/photos/rockin-robyns-1.jpg", "/photos/rockin-robyns-2.jpg", "/photos/rockin-robyns-3.jpg"]
 rating: 4.7
-review_count: 3386
+review_count: 3402
 price_range: "$$"
 amenities:
   - "Dine-In"

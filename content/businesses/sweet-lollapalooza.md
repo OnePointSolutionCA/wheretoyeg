@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "South Edmonton"
 google_maps_url: "https://maps.google.com/?q=Sweet%20Lollapalooza%20Custom%20Cakes%20Edmonton"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "9:00 AM - 5:00 PM"
+  monday: "10:00 AM–5:00 PM"
+  tuesday: "10:00 AM–5:00 PM"
+  wednesday: "10:00 AM–5:00 PM"
+  thursday: "10:00 AM–5:00 PM"
+  friday: "10:00 AM–5:00 PM"
+  saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/sweet-lollapalooza-1.jpg", "/photos/sweet-lollapalooza-2.jpg", "/photos/sweet-lollapalooza-3.jpg"]
-rating: 4.8
-review_count: 120
+rating: 4.4
+review_count: 81
 price_range: "$$$"
 amenities:
   - "Custom Orders"

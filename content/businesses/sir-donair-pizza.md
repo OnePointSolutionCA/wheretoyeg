@@ -11,16 +11,16 @@ phone: "(780) 488-2777"
 website: "http://www.sirdonair.ca/"
 google_maps_url: "https://maps.google.com/?cid=12327976062166612554&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 9:00 PM"
-  tuesday: "10:00 AM - 9:00 PM"
-  wednesday: "10:00 AM - 9:00 PM"
-  thursday: "10:00 AM - 9:00 PM"
-  friday: "10:00 AM - 9:00 PM"
-  saturday: "11:00 AM - 7:00 PM"
+  monday: "10:00 AM–9:00 PM"
+  tuesday: "10:00 AM–9:00 PM"
+  wednesday: "10:00 AM–9:00 PM"
+  thursday: "10:00 AM–9:00 PM"
+  friday: "10:00 AM–9:00 PM"
+  saturday: "11:00 AM–7:00 PM"
   sunday: "Closed"
 photos: ["/photos/sir-donair-pizza-1.jpg", "/photos/sir-donair-pizza-2.jpg", "/photos/sir-donair-pizza-3.jpg"]
 rating: 4.6
-review_count: 507
+review_count: 510
 price_range: "$"
 amenities:
   - "Halal"

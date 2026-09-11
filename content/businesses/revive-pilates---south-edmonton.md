@@ -10,13 +10,13 @@ neighborhood: "Edmonton"
 website: "https://revivepilatesstudios.ca/"
 google_maps_url: "https://maps.google.com/?cid=9199256633109776754&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "6:00 AM - 8:00 PM"
-  tuesday: "6:00 AM - 8:00 PM"
-  wednesday: "6:00 AM - 8:00 PM"
-  thursday: "6:00 AM - 8:00 PM"
-  friday: "6:00 AM - 6:30 PM"
-  saturday: "8:00 AM - 1:00 PM"
-  sunday: "8:00 AM - 8:00 PM"
+  monday: "6:00 AM–8:00 PM"
+  tuesday: "6:00 AM–8:00 PM"
+  wednesday: "6:00 AM–8:00 PM"
+  thursday: "6:00 AM–8:00 PM"
+  friday: "6:00 AM–6:30 PM"
+  saturday: "8:00 AM–1:00 PM"
+  sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/revive-pilates---south-edmonton-1.jpg", "/photos/revive-pilates---south-edmonton-2.jpg", "/photos/revive-pilates---south-edmonton-3.jpg"]
 rating: 4.9
 review_count: 61

@@ -11,16 +11,16 @@ phone: "(780) 204-1187"
 website: "http://www.tarrkahouse.ca/"
 google_maps_url: "https://maps.google.com/?cid=1356912528220962758&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:30 AM - 9:00 PM"
+  monday: "11:30 AM–9:00 PM"
   tuesday: "Closed"
-  wednesday: "11:30 AM - 9:00 PM"
-  thursday: "11:30 AM - 9:00 PM"
-  friday: "10:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 9:00 PM"
-  sunday: "10:00 AM - 9:00 PM"
+  wednesday: "11:30 AM–9:00 PM"
+  thursday: "11:30 AM–9:00 PM"
+  friday: "10:00 AM–9:00 PM"
+  saturday: "10:00 AM–9:00 PM"
+  sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/tarrka-house-by-sareng-restauranthalal-1.jpg", "/photos/tarrka-house-by-sareng-restauranthalal-2.jpg", "/photos/tarrka-house-by-sareng-restauranthalal-3.jpg"]
 rating: 4.5
-review_count: 325
+review_count: 332
 price_range: "$"
 amenities:
   - "Halal"

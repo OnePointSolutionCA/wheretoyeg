@@ -16,8 +16,22 @@ photos:
 reviews:
   - name: "Emily Miguel"
     rating: 5
-    comment: "An honest business owner. Does not just want to rip you off. Very pleasant to deal with and very fair pricing."
+    comment: |
+      An honest business owner. Does not just want to rip you off. Very pleasant to deal with and very fair pricing.
   - name: "Teegan Milton"
     rating: 5
-    comment: "Phoned about a split wheel stud, got a response within the hour. Then got the work done and returned within an hour. It was speedy and professional. Would recommend."
+    comment: |
+      Phoned about a split wheel stud, got a response within the hour. Then got the work done and returned within an hour. It was speedy and professional. Would recommend.
+  - name: "Gary Bagga"
+    rating: 5
+    comment: |
+      Best service in Town
+hours:
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "9:00 AM–5:00 PM"
+  saturday: "9:00 AM–5:00 PM"
+  sunday: "9:00 AM–5:00 PM"
 ---

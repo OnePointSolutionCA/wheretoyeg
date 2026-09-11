@@ -11,16 +11,16 @@ phone: "(780) 710-7669"
 website: "http://www.sarakalke.com/"
 google_maps_url: "https://maps.google.com/?cid=7466377678125209739&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 9:00 PM"
-  tuesday: "9:00 AM - 9:00 PM"
-  wednesday: "9:00 AM - 9:00 PM"
-  thursday: "9:00 AM - 9:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "9:00 AM - 9:00 PM"
-  sunday: "9:00 AM - 9:00 PM"
+  monday: "9:00 AM–9:00 PM"
+  tuesday: "9:00 AM–9:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
+  saturday: "9:00 AM–9:00 PM"
+  sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/sara-kalke-realtor-remax-real-estate-1.jpg", "/photos/sara-kalke-realtor-remax-real-estate-2.jpg", "/photos/sara-kalke-realtor-remax-real-estate-3.jpg"]
 rating: 4.8
-review_count: 190
+review_count: 191
 price_range: "$$"
 amenities:
 

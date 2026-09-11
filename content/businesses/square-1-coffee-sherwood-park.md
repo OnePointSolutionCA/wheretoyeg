@@ -15,17 +15,46 @@ photos:
 reviews:
   - name: "Maria Villarama"
     rating: 5
-    comment: "I’ve always been a big fan of Square One since high school—it’s been my go-to spot for studying and coffee dates for years (I feel old now).  This location opened up about 10 minutes from me, which I’m so happy about! The only downside is the parking—it’s pretty limited, and once it gets busy, it gets really busy. But I totally get why people stay for hours to study; it’s such a good atmosphere. Really good music too (it matters!)  Their hot chocolate syrup is the perfect level of sweetness, and"
+    comment: |
+      I’ve always been a big fan of Square One since high school—it’s been my go-to spot for studying and coffee dates for years (I feel old now).
+      
+      This location opened up about 10 minutes from me, which I’m so happy about! The only downside is the parking—it’s pretty limited, and once it gets busy, it gets really busy. But I totally get why people stay for hours to study; it’s such a good atmosphere. Really good music too (it matters!)
+      
+      Their hot chocolate syrup is the perfect level of sweetness, and I’ll forever be a fan of their beans. The service is always super friendly, too.
+      
+      I even came here on my birthday (Dec 24), and one of the baristas—sorry, I forget his name!—made me a snowman latte art. It was such a cute and thoughtful touch ⛄️
+      
+      I’ll definitely be back!
   - name: "Chelsey"
     rating: 5
-    comment: "This might be my favourite coffee shop I’ve ever visited! From the moment you walk in, you’re greeted by beautiful botanical details- lush plants, stunning wall features, and thoughtfully curated art from local artist. The soaring ceilings create such a warm, inviting atmosphere. Even the bathrooms are clearly well thought out and just as beautiful as the rest of the space. The staff (Scott) were incredibly friendly and knowledgeable, helping us choose the perfect beans to take home. I also love"
+    comment: |
+      This might be my favourite coffee shop I’ve ever visited! From the moment you walk in, you’re greeted by beautiful botanical details- lush plants, stunning wall features, and thoughtfully curated art from local artist. The soaring ceilings create such a warm, inviting atmosphere. Even the bathrooms are clearly well thought out and just as beautiful as the rest of the space. The staff (Scott) were incredibly friendly and knowledgeable, helping us choose the perfect beans to take home. I also loved that they make their own chai concentrate. Even my partner, a self-proclaimed coffee snob, was impressed by their in-house roasted coffee. An absolute gem and a perfect stop on our way back south!
   - name: "Daniel Moreno"
     rating: 5
-    comment: "I don't know who was working July 1st in the afternoon, but they just crushed my coffee order in less than 5 min and I heard no complaints from the people who drank them. I think that most people would like it here if they're into specialty coffee. I've had coffee from here a few times before and it's always very good. 10/10 lattes and cappuccino"
+    comment: |
+      I don't know who was working July 1st in the afternoon, but they just crushed my coffee order in less than 5 min and I heard no complaints from the people who drank them. I think that most people would like it here if they're into specialty coffee. I've had coffee from here a few times before and it's always very good. 10/10 lattes and cappuccino
   - name: "Riley Feenan"
     rating: 5
-    comment: "Very nice little coffee shop that my girlfriend and I tried today! She was really excited about the opening and it just so happens to be within walking distance from my house.  Plenty accessible for parking in that complex, as well as street parking.  Coffee was very good! Highly recommend - however you drink it, great quality! Atmosphere was very nice and easy to find a quiet corner and have a conversation. Will definitely be trying the pasties and a cookie the next time we visit!  Customer ser"
+    comment: |
+      Very nice little coffee shop that my girlfriend and I tried today! She was really excited about the opening and it just so happens to be within walking distance from my house.
+      
+      Plenty accessible for parking in that complex, as well as street parking.
+      
+      Coffee was very good! Highly recommend - however you drink it, great quality! Atmosphere was very nice and easy to find a quiet corner and have a conversation. Will definitely be trying the pasties and a cookie the next time we visit!
+      
+      Customer service was great and the ladies behind the counter were super welcoming and friendly! Easy in and out order and on our way to run errands. Great little shop and will be coming by more often for quality coffee!
   - name: "The Professional Positive Viber"
     rating: 4
-    comment: "vibes are not quite where they should be. banger drinks and kind staff, but i think the problem that i have with this place is it feels too corporate - too much like a chain. i couldn’t have a nice conversation with the barista because they were too deep into business mode, which i totally get and respect, i could just sense that they’ve been battered by the public. it didn’t feel as homely as it could’ve been, i couldn’t see myself becoming a regular here. the building itself is lovely, lots of"
+    comment: |
+      vibes are not quite where they should be. banger drinks and kind staff, but i think the problem that i have with this place is it feels too corporate - too much like a chain. i couldn’t have a nice conversation with the barista because they were too deep into business mode, which i totally get and respect, i could just sense that they’ve been battered by the public. it didn’t feel as homely as it could’ve been, i couldn’t see myself becoming a regular here. the building itself is lovely, lots of natural light.
+      
+      tl;dr: if you’re coming in for a quick to go drink and then leaving, then this place would be great. but if you want a nice homely sit down this wouldn’t be the first place that i’d choose. overall though, pretty solid cafe.
+hours:
+  monday: "7:00 AM–9:30 PM"
+  tuesday: "7:00 AM–9:30 PM"
+  wednesday: "7:00 AM–9:30 PM"
+  thursday: "7:00 AM–9:30 PM"
+  friday: "7:00 AM–9:30 PM"
+  saturday: "8:00 AM–9:30 PM"
+  sunday: "8:00 AM–5:00 PM"
 ---

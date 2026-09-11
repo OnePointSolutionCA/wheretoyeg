@@ -11,16 +11,16 @@ phone: "(780) 665-4949"
 website: "https://www.spurrell.ca/"
 google_maps_url: "https://maps.google.com/?cid=17199952939007213112&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 7:00 PM"
-  tuesday: "8:00 AM - 7:00 PM"
-  wednesday: "8:00 AM - 7:00 PM"
-  thursday: "8:00 AM - 7:00 PM"
-  friday: "8:00 AM - 7:00 PM"
-  saturday: "8:00 AM - 4:00 PM"
+  monday: "8:00 AM–7:00 PM"
+  tuesday: "8:00 AM–7:00 PM"
+  wednesday: "8:00 AM–7:00 PM"
+  thursday: "8:00 AM–7:00 PM"
+  friday: "8:00 AM–7:00 PM"
+  saturday: "8:00 AM–4:00 PM"
   sunday: "Closed"
 photos: ["/photos/spurrell-associates-cpa-business-consultant-cfo-services-1.jpg", "/photos/spurrell-associates-cpa-business-consultant-cfo-services-2.jpg", "/photos/spurrell-associates-cpa-business-consultant-cfo-services-3.jpg"]
 rating: 4.9
-review_count: 749
+review_count: 750
 price_range: "$$"
 amenities:
 

@@ -11,16 +11,16 @@ phone: "(780) 399-3371"
 website: "https://sunkiss-nail.square.site/"
 google_maps_url: "https://maps.google.com/?cid=194996704436220672&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 7:00 PM"
-  tuesday: "10:00 AM - 7:00 PM"
-  wednesday: "10:00 AM - 7:00 PM"
-  thursday: "10:00 AM - 7:00 PM"
-  friday: "10:00 AM - 7:00 PM"
-  saturday: "10:00 AM - 7:00 PM"
-  sunday: "11:00 AM - 5:00 PM"
+  monday: "10:00 AM–7:00 PM"
+  tuesday: "10:00 AM–7:00 PM"
+  wednesday: "10:00 AM–7:00 PM"
+  thursday: "10:00 AM–7:00 PM"
+  friday: "10:00 AM–7:00 PM"
+  saturday: "10:00 AM–7:00 PM"
+  sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/sunkiss-luxury-nail-headspa-sculpt-body-lounge-1.jpg", "/photos/sunkiss-luxury-nail-headspa-sculpt-body-lounge-2.jpg", "/photos/sunkiss-luxury-nail-headspa-sculpt-body-lounge-3.jpg"]
 rating: 4.7
-review_count: 89
+review_count: 90
 price_range: "$$"
 amenities:
 

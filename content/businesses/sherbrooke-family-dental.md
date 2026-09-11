@@ -11,12 +11,12 @@ phone: "(780) 455-8124"
 website: "https://www.sherbrookedental.com/"
 google_maps_url: "https://maps.google.com/?cid=9107872399427478352&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "11:00 AM - 7:00 PM"
-  wednesday: "10:00 AM - 7:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "8:00 AM - 4:00 PM"
-  saturday: "8:00 AM - 2:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "11:00 AM–7:00 PM"
+  wednesday: "10:00 AM–7:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "8:00 AM–4:00 PM"
+  saturday: "8:00 AM–2:00 PM"
   sunday: "Closed"
 photos: ["/photos/sherbrooke-family-dental-1.jpg", "/photos/sherbrooke-family-dental-2.jpg", "/photos/sherbrooke-family-dental-3.jpg"]
 rating: 4.6

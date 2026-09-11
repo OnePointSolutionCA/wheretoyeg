@@ -11,16 +11,16 @@ phone: "(780) 244-3445"
 website: "https://castlebakery.ca/"
 google_maps_url: "https://maps.google.com/?cid=15327522090496392535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 AM - 5:30 PM"
-  tuesday: "8:30 AM - 5:30 PM"
-  wednesday: "8:30 AM - 5:30 PM"
-  thursday: "8:30 AM - 5:30 PM"
-  friday: "8:30 AM - 8:00 PM"
-  saturday: "10:30 AM - 8:00 PM"
-  sunday: "11:00 AM - 6:30 PM"
+  monday: "8:30 AM–5:30 PM"
+  tuesday: "8:30 AM–5:30 PM"
+  wednesday: "8:30 AM–5:30 PM"
+  thursday: "8:30 AM–5:30 PM"
+  friday: "8:30 AM–8:00 PM"
+  saturday: "10:30 AM–8:00 PM"
+  sunday: "11:00 AM–6:30 PM"
 photos: ["/photos/sweet-castle-bakery-1.jpg", "/photos/sweet-castle-bakery-2.jpg", "/photos/sweet-castle-bakery-3.jpg"]
 rating: 4.8
-review_count: 1005
+review_count: 1015
 price_range: "$$"
 amenities:
   - "Dine-In"

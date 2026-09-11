@@ -11,16 +11,16 @@ phone: "(780) 437-5616"
 website: "http://www.sawmill.ca/"
 google_maps_url: "https://maps.google.com/?cid=884648292411527897&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:30 AM - 10:00 PM"
-  tuesday: "11:30 AM - 10:00 PM"
-  wednesday: "11:30 AM - 10:00 PM"
-  thursday: "11:30 AM - 11:00 PM"
-  friday: "11:30 AM - 11:00 PM"
-  saturday: "11:30 AM - 11:00 PM"
-  sunday: "10:30 AM - 10:00 PM"
+  monday: "11:30 AM–10:00 PM"
+  tuesday: "11:30 AM–10:00 PM"
+  wednesday: "11:30 AM–10:00 PM"
+  thursday: "11:30 AM–11:00 PM"
+  friday: "11:30 AM–11:00 PM"
+  saturday: "11:30 AM–11:00 PM"
+  sunday: "10:30 AM–10:00 PM"
 photos: ["/photos/sawmill-prime-rib-steak-house-1.jpg", "/photos/sawmill-prime-rib-steak-house-2.jpg", "/photos/sawmill-prime-rib-steak-house-3.jpg"]
 rating: 4.2
-review_count: 2351
+review_count: 2356
 price_range: "$$$"
 amenities:
   - "Dine-In"

@@ -11,16 +11,16 @@ phone: "(780) 200-5959"
 website: "https://www.royalspayeg.com/"
 google_maps_url: "https://maps.google.com/?cid=4941362336294431096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 7:00 PM"
-  tuesday: "10:00 AM - 7:00 PM"
-  wednesday: "10:00 AM - 7:00 PM"
-  thursday: "10:00 AM - 7:00 PM"
-  friday: "10:00 AM - 7:00 PM"
-  saturday: "10:00 AM - 6:00 PM"
-  sunday: "11:00 AM - 4:00 PM"
+  monday: "10:00 AM–7:00 PM"
+  tuesday: "10:00 AM–7:00 PM"
+  wednesday: "10:00 AM–7:00 PM"
+  thursday: "10:00 AM–7:00 PM"
+  friday: "10:00 AM–7:00 PM"
+  saturday: "10:00 AM–6:00 PM"
+  sunday: "11:00 AM–4:00 PM"
 photos: ["/photos/royal-spa-nails-lashes-1.jpg", "/photos/royal-spa-nails-lashes-2.jpg", "/photos/royal-spa-nails-lashes-3.jpg"]
 rating: 4.6
-review_count: 435
+review_count: 440
 price_range: "$$"
 amenities:
 

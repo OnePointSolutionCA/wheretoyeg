@@ -11,16 +11,16 @@ phone: "(780) 425-1212"
 website: "https://edmonton.rejuv.ca/edmonton-downtown"
 google_maps_url: "https://maps.google.com/?cid=12828353165068566126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 6:00 PM"
-  tuesday: "7:00 AM - 6:00 PM"
-  wednesday: "7:00 AM - 6:00 PM"
-  thursday: "7:00 AM - 6:00 PM"
-  friday: "7:00 AM - 6:00 PM"
+  monday: "7:00 AM–6:00 PM"
+  tuesday: "7:00 AM–6:00 PM"
+  wednesday: "7:00 AM–6:00 PM"
+  thursday: "7:00 AM–6:00 PM"
+  friday: "7:00 AM–6:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/rejuvenation-dermatology-clinic---downtown-1.jpg", "/photos/rejuvenation-dermatology-clinic---downtown-2.jpg"]
 rating: 4.8
-review_count: 1517
+review_count: 1516
 price_range: "$$"
 amenities:
 

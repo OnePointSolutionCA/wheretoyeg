@@ -11,12 +11,12 @@ phone: "(780) 705-0044"
 website: "http://www.revivept.ca/"
 google_maps_url: "https://maps.google.com/?cid=16394802226930198157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:30 AM - 8:00 PM"
-  tuesday: "8:00 AM - 8:00 PM"
-  wednesday: "8:30 AM - 8:00 PM"
-  thursday: "8:00 AM - 8:00 PM"
-  friday: "8:30 AM - 8:00 PM"
-  saturday: "8:00 AM - 5:00 PM"
+  monday: "8:30 AM–8:00 PM"
+  tuesday: "8:00 AM–8:00 PM"
+  wednesday: "8:30 AM–8:00 PM"
+  thursday: "8:00 AM–8:00 PM"
+  friday: "8:30 AM–8:00 PM"
+  saturday: "8:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/revive-spine-and-sport-physiotherapy-clinic-1.jpg", "/photos/revive-spine-and-sport-physiotherapy-clinic-2.jpg", "/photos/revive-spine-and-sport-physiotherapy-clinic-3.jpg"]
 rating: 4.9

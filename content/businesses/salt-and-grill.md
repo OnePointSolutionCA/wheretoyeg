@@ -11,16 +11,16 @@ phone: "(587) 982-8949"
 website: "https://saltandgrill.ca/"
 google_maps_url: "https://maps.google.com/?cid=9312215195676639570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 9:00 PM"
-  tuesday: "10:00 AM - 9:00 PM"
-  wednesday: "10:00 AM - 9:00 PM"
-  thursday: "10:00 AM - 9:00 PM"
-  friday: "10:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 10:00 PM"
-  sunday: "10:00 AM - 10:00 PM"
+  monday: "10:00 AM–9:00 PM"
+  tuesday: "10:00 AM–9:00 PM"
+  wednesday: "10:00 AM–9:00 PM"
+  thursday: "10:00 AM–9:00 PM"
+  friday: "10:00 AM–9:00 PM"
+  saturday: "10:00 AM–10:00 PM"
+  sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/salt-and-grill-1.jpg", "/photos/salt-and-grill-2.jpg", "/photos/salt-and-grill-3.jpg"]
-rating: 4.7
-review_count: 12
+rating: 4.6
+review_count: 20
 price_range: "$"
 amenities:
   - "Halal"
@@ -50,14 +50,12 @@ reviews:
     rating: 5
     comment: |
       Today we tried Halwa Puri, and it was absolutely delicious! 😋✨ It was their very first day of opening, and they did an amazing job. Wishing them lots of success and many happy customers. Looking forward to visiting again! 🎉🥳
-  - name: "Karambir Ladhar"
+  - name: "Saleema Rahim"
     rating: 5
     comment: |
-      Tried the Chicken Karachi and Puri Chana at Salt & Grill, and both were absolutely delicious! Great flavors and very satisfying. I’ll definitely be back to try more dishes!!
-  - name: "Rahim R. Moledina"
-    rating: 5
+      loved the food and service i am coming back again
+  - name: "Shawn Griggs"
+    rating: 4
     comment: |
-      Finally, I found it! The kind of authentic, delicious food I’ve been searching for. The Paya, Biryani, Haleem, and Nihari were absolutely amazing — full of flavour, perfectly cooked, and truly satisfying.
-      
-      One of the best places I’ve tried! I highly recommend giving Salt & Grill a try. Just taste it once, and I’m sure you’ll understand what I mean. Unbelievable taste! 😍🔥
+      Was greeted right away and staff were very nice. They answered my questions about the menu. Food was fresh and would come here again.
 ---

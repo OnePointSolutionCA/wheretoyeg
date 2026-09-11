@@ -11,16 +11,16 @@ phone: "(780) 802-9855"
 website: "https://www.classifiedyeg.com/?utm_source=Google&utm_medium=GPB&utm_campaign=Edmonton"
 google_maps_url: "https://maps.google.com/?cid=7421001418471935839&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "4:30 - 11:00 PM"
-  tuesday: "4:30 - 11:00 PM"
-  wednesday: "4:30 - 11:00 PM"
-  thursday: "4:30 PM - 12:30 AM"
-  friday: "4:30 PM - 12:30 AM"
-  saturday: "10:30 AM - 12:30 AM"
-  sunday: "1:30 - 11:00 PM"
+  monday: "6:00 PM–9:30 PM"
+  tuesday: "6:00 PM–9:30 PM"
+  wednesday: "4:30 PM–11:00 PM"
+  thursday: "6:00 PM–11:00 PM"
+  friday: "4:30 PM–12:30 AM"
+  saturday: "7:30 AM–12:30 AM"
+  sunday: "12:00 PM–12:30 AM"
 photos: ["/photos/tactical-laser-tag-classified-yeg-1.jpg", "/photos/tactical-laser-tag-classified-yeg-2.jpg", "/photos/tactical-laser-tag-classified-yeg-3.jpg"]
 rating: 4.9
-review_count: 1015
+review_count: 1043
 price_range: "$$"
 amenities:
 

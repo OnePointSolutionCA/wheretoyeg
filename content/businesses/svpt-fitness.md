@@ -12,16 +12,16 @@ phone: "(780) 989-0017"
 website: "https://svptfitness.com"
 google_maps_url: "https://maps.google.com/?q=SVPT+Fitness+Athletics+Edmonton"
 hours:
-  monday: "6:00 AM - 9:00 PM"
-  tuesday: "6:00 AM - 9:00 PM"
-  wednesday: "6:00 AM - 9:00 PM"
-  thursday: "6:00 AM - 9:00 PM"
-  friday: "6:00 AM - 9:00 PM"
-  saturday: "6:00 AM - 9:00 PM"
-  sunday: "8:00 AM - 3:00 PM"
+  monday: "6:00 AM–9:00 PM"
+  tuesday: "6:00 AM–9:00 PM"
+  wednesday: "6:00 AM–9:00 PM"
+  thursday: "6:00 AM–9:00 PM"
+  friday: "6:00 AM–9:00 PM"
+  saturday: "6:00 AM–9:00 PM"
+  sunday: "8:00 AM–3:00 PM"
 photos: ["/photos/svpt-fitness-1.jpg", "/photos/svpt-fitness-2.jpg", "/photos/svpt-fitness-3.jpg"]
 rating: 5.0
-review_count: 73
+review_count: 116
 price_range: "$$$"
 amenities:
   - "Personal Training"

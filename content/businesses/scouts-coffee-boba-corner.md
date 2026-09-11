@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 761-8321"
 google_maps_url: "https://maps.google.com/?cid=10581322442419822526&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 8:00 PM"
-  tuesday: "12:00 - 8:00 PM"
-  wednesday: "12:00 - 8:00 PM"
-  thursday: "12:00 - 8:00 PM"
-  friday: "11:00 AM - 9:00 PM"
-  saturday: "11:00 AM - 9:00 PM"
-  sunday: "11:00 AM - 9:00 PM"
+  monday: "12:00 PM–8:00 PM"
+  tuesday: "12:00 PM–8:00 PM"
+  wednesday: "12:00 PM–8:00 PM"
+  thursday: "12:00 PM–8:00 PM"
+  friday: "11:00 AM–9:00 PM"
+  saturday: "11:00 AM–9:00 PM"
+  sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/scouts-coffee-boba-corner-1.jpg", "/photos/scouts-coffee-boba-corner-2.jpg", "/photos/scouts-coffee-boba-corner-3.jpg"]
 rating: 4.8
-review_count: 57
+review_count: 61
 price_range: "$"
 amenities:
   - "Dine-In"

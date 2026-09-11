@@ -15,17 +15,33 @@ photos:
 reviews:
   - name: "Emily Denning"
     rating: 5
-    comment: "I have been a customer to this beautiful -unique country home decor store now for over a decade and I have never been disappointed! Especially at Christmas time … talk about winter wonderland! I always look forward to making my appointment to shop for the holiday! 🎄 They have the most real looking & feeling florals, a huge variety of vases, sweet resin figurines, and more! I really like the fact that they have such a curated selection of locally made items as well. Spruce Park Ranch is a true t"
+    comment: |
+      I have been a customer to this beautiful -unique country home decor store now for over a decade and I have never been disappointed! Especially at Christmas time … talk about winter wonderland! I always look forward to making my appointment to shop for the holiday! 🎄
+      They have the most real looking & feeling florals, a huge variety of vases, sweet resin figurines, and more! I really like the fact that they have such a curated selection of locally made items as well.
+      Spruce Park Ranch is a true treasure! 😍
   - name: "bigwhite54"
     rating: 1
-    comment: "Well, I made a mistake. Bought a print and after getting home, determined it was too small. Phoned Spruce Park Ranch and asked if they would consider exchanging the print for a larger size. Was treated horribly on the phone by the sales associate. No exchanges, final sale. Too bad for you. So I will keep the print, no choice, and they have lost a customer. The artist in question would have received a larger sale today and Spruce Park would have received my further loyalty. But it was not to be. "
+    comment: |
+      Well, I made a mistake. Bought a print and after getting home, determined it was too small. Phoned Spruce Park Ranch and asked if they would consider exchanging the print for a larger size. Was treated horribly on the phone by the sales associate. No exchanges, final sale. Too bad for you. So I will keep the print, no choice, and they have lost a customer. The artist in question would have received a larger sale today and Spruce Park would have received my further loyalty. But it was not to be. (After reading through a few reviews, I see that sales associates seem to be a problem at this store; perhaps some changes should be made. I will now go elsewhere.)
   - name: "ANDREW MIDDLETON"
     rating: 1
-    comment: "Rude workers, telling us we were supposed to make an appointment before coming because they are so busy, there was 1 other person in the store. Bought a beautiful christmas decoration and asked them to remove the tag before wrapping because it was a gift, they didnt bother to remove it.....At walmart today and found the exact same decoration that we bought for $3.49 and it was a size bigger then the one they sold for almost $25. What a scam buying cheap decorations from walmart to sell in your s"
+    comment: |
+      Rude workers, telling us we were supposed to make an appointment before coming because they are so busy, there was 1 other person in the store. Bought a beautiful christmas decoration and asked them to remove the tag before wrapping because it was a gift, they didnt bother to remove it.....At walmart today and found the exact same decoration that we bought for $3.49 and it was a size bigger then the one they sold for almost $25. What a scam buying cheap decorations from walmart to sell in your store lol.
+      Posting picture from walmart today, and one i just found on their website they were brazen enough to show their marked up walmart bulbs on. Merry christmas!!
   - name: "Carolin Bouchard"
     rating: 5
-    comment: "Was introduced to this hidden gem yesterday by Wendy (a very good customer). Blown away by its beauty and charm. Love that you make a reservation to shop. No fighting crowds and distractions. It was magical. I highly recommend it and will happily return to be inspired for all of our Four Seasons. 💗💗💗💗"
+    comment: |
+      Was introduced to this hidden gem yesterday by Wendy (a very good customer). Blown away by its beauty and charm. Love that you make a reservation to shop. No fighting crowds and distractions. It was magical. I highly recommend it and will happily return to be inspired for all of our Four Seasons. 💗💗💗💗
   - name: "Amber DeMaere"
     rating: 5
-    comment: "Beautiful little store!!! So many things to choose from, decor, homemade jams, syrups, farm eggs, candles, wax melts and sooooo much more!! Staff were very friendly and they even have some animals!! Awesome experience here, we’ll be back!!"
+    comment: |
+      Beautiful little store!!! So many things to choose from, decor, homemade jams, syrups, farm eggs, candles, wax melts and sooooo much more!! Staff were very friendly and they even have some animals!! Awesome experience here, we’ll be back!!
+hours:
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "10:00 AM–5:00 PM"
+  thursday: "10:00 AM–5:00 PM"
+  friday: "10:00 AM–5:00 PM"
+  saturday: "10:00 AM–4:00 PM"
+  sunday: "12:00 PM–4:00 PM"
 ---

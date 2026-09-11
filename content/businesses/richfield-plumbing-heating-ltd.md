@@ -11,16 +11,16 @@ phone: "(780) 462-7321"
 website: "http://www.richfieldplumbing.ca/"
 google_maps_url: "https://maps.google.com/?cid=214672903051781377&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:30 AM - 4:30 PM"
-  tuesday: "7:30 AM - 4:30 PM"
-  wednesday: "7:30 AM - 4:30 PM"
-  thursday: "7:30 AM - 4:30 PM"
-  friday: "7:30 AM - 4:30 PM"
+  monday: "7:30 AM–4:30 PM"
+  tuesday: "7:30 AM–4:30 PM"
+  wednesday: "7:30 AM–4:30 PM"
+  thursday: "7:30 AM–4:30 PM"
+  friday: "7:30 AM–4:30 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/richfield-plumbing-heating-ltd-1.jpg", "/photos/richfield-plumbing-heating-ltd-2.jpg", "/photos/richfield-plumbing-heating-ltd-3.jpg"]
 rating: 4.9
-review_count: 511
+review_count: 514
 price_range: "$$"
 amenities:
 

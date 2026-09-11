@@ -11,16 +11,16 @@ phone: "(780) 433-8369"
 website: "http://thesugarbowl.org/"
 google_maps_url: "https://maps.google.com/?cid=18167528786045064918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 11:00 PM"
-  tuesday: "9:00 AM - 11:00 PM"
-  wednesday: "9:00 AM - 11:00 PM"
-  thursday: "9:00 AM - 11:00 PM"
-  friday: "9:00 AM - 12:00 AM"
-  saturday: "9:00 AM - 12:00 AM"
-  sunday: "9:00 AM - 11:00 PM"
+  monday: "9:00 AM–11:00 PM"
+  tuesday: "9:00 AM–11:00 PM"
+  wednesday: "9:00 AM–11:00 PM"
+  thursday: "9:00 AM–11:00 PM"
+  friday: "9:00 AM–12:00 AM"
+  saturday: "9:00 AM–12:00 AM"
+  sunday: "9:00 AM–11:00 PM"
 photos: ["/photos/sugarbowl-1.jpg", "/photos/sugarbowl-2.jpg", "/photos/sugarbowl-3.jpg"]
 rating: 4.5
-review_count: 3003
+review_count: 3010
 price_range: "$$"
 amenities:
   - "Dine-In"

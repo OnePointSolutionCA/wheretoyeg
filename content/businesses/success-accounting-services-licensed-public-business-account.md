@@ -11,16 +11,16 @@ phone: "(780) 249-2020"
 website: "http://www.sastax.ca/"
 google_maps_url: "https://maps.google.com/?cid=4592593486992701134&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 6:00 PM"
-  friday: "9:00 AM - 6:00 PM"
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–6:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "9:00 AM–6:00 PM"
+  friday: "9:00 AM–6:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/success-accounting-services-licensed-public-business-account-1.jpg", "/photos/success-accounting-services-licensed-public-business-account-2.jpg", "/photos/success-accounting-services-licensed-public-business-account-3.jpg"]
 rating: 4.9
-review_count: 627
+review_count: 625
 price_range: "$$"
 amenities:
 

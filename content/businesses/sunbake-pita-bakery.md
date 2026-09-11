@@ -12,16 +12,16 @@ phone: "(780) 472-8405"
 website: "https://www.sunbakepita.ca"
 google_maps_url: "https://maps.google.com/?q=Sunbake+Pita+Bakery+Edmonton"
 hours:
-  monday: "8:00 AM - 8:00 PM"
-  tuesday: "8:00 AM - 8:00 PM"
-  wednesday: "8:00 AM - 8:00 PM"
-  thursday: "8:00 AM - 8:00 PM"
-  friday: "8:00 AM - 8:00 PM"
-  saturday: "8:00 AM - 8:00 PM"
-  sunday: "8:00 AM - 7:00 PM"
+  monday: "8:00 AM–8:00 PM"
+  tuesday: "8:00 AM–8:00 PM"
+  wednesday: "8:00 AM–8:00 PM"
+  thursday: "8:00 AM–8:00 PM"
+  friday: "8:00 AM–8:00 PM"
+  saturday: "8:00 AM–8:00 PM"
+  sunday: "8:00 AM–7:00 PM"
 photos: ["/photos/sunbake-pita-bakery-1.jpg", "/photos/sunbake-pita-bakery-2.jpg", "/photos/sunbake-pita-bakery-3.jpg"]
-rating: 4.6
-review_count: 2114
+rating: 4.7
+review_count: 2178
 price_range: "$"
 amenities:
   - "Halal"

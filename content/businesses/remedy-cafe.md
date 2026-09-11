@@ -9,16 +9,16 @@ address: "8631 109 St NW"
 neighborhood: "Garneau"
 google_maps_url: "https://maps.google.com/?q=Remedy%20Cafe%20Edmonton"
 hours:
-  monday: "7:00 AM - 12:00 AM"
-  tuesday: "7:00 AM - 12:00 AM"
-  wednesday: "7:00 AM - 12:00 AM"
-  thursday: "7:00 AM - 12:00 AM"
-  friday: "7:00 AM - 12:00 AM"
-  saturday: "8:00 AM - 12:00 AM"
-  sunday: "8:00 AM - 12:00 AM"
+  monday: "8:00 AM–10:00 PM"
+  tuesday: "8:00 AM–10:00 PM"
+  wednesday: "8:00 AM–10:00 PM"
+  thursday: "8:00 AM–10:00 PM"
+  friday: "8:00 AM–10:00 PM"
+  saturday: "8:00 AM–10:00 PM"
+  sunday: "8:00 AM–10:00 PM"
 photos: ["/photos/remedy-cafe-1.jpg", "/photos/remedy-cafe-2.jpg", "/photos/remedy-cafe-3.jpg"]
 rating: 4.4
-review_count: 1200
+review_count: 2279
 price_range: "$$"
 amenities:
   - "Halal Options"

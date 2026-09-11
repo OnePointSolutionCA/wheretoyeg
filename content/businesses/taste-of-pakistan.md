@@ -11,16 +11,16 @@ phone: "(587) 498-9423"
 website: "https://tasteofpakistan.online/"
 google_maps_url: "https://maps.google.com/?cid=11383675527852522409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 10:00 PM"
-  tuesday: "10:00 AM - 10:00 PM"
-  wednesday: "10:00 AM - 10:00 PM"
-  thursday: "10:00 AM - 10:00 PM"
-  friday: "10:00 AM - 11:00 PM"
-  saturday: "9:00 AM - 11:00 PM"
-  sunday: "9:00 AM - 10:00 PM"
+  monday: "10:00 AM–10:00 PM"
+  tuesday: "10:00 AM–10:00 PM"
+  wednesday: "10:00 AM–10:00 PM"
+  thursday: "10:00 AM–10:00 PM"
+  friday: "10:00 AM–11:00 PM"
+  saturday: "9:00 AM–11:00 PM"
+  sunday: "9:00 AM–10:00 PM"
 photos: ["/photos/taste-of-pakistan-1.jpg", "/photos/taste-of-pakistan-2.jpg", "/photos/taste-of-pakistan-3.jpg"]
-rating: 4.7
-review_count: 917
+rating: 4.8
+review_count: 968
 price_range: "$"
 amenities:
   - "Halal"

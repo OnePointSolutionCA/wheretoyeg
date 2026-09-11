@@ -16,17 +16,35 @@ photos:
 reviews:
   - name: "Rimona Chehayeb"
     rating: 5
-    comment: "Highly recommend!!! Came in with dental anxiety the whole visit was very smooth. The staff were welcoming and Dr Zeineddine was thorough and gentle. Fully satisfied with the care and results."
+    comment: |
+      Highly recommend!!! Came in with dental anxiety the whole visit was very smooth. The staff were welcoming and Dr Zeineddine was thorough and gentle. Fully satisfied with the care and results.
   - name: "Barbara Kreamer"
     rating: 5
-    comment: "After my last visit with the hygienist, I was apprehensive about returning. I have been a patient for many years and had never had a bad experience until then, so I was relieved when today’s appointment was such a positive one.  The hygienist I saw today was amazing — kind, professional, gentle, and very reassuring throughout the appointment. She made me feel comfortable again, and I truly appreciated the care she provided. I made a point of thanking her personally, as well as letting reception "
+    comment: |
+      After my last visit with the hygienist, I was apprehensive about returning. I have been a patient for many years and had never had a bad experience until then, so I was relieved when today’s appointment was such a positive one.
+      
+      The hygienist I saw today was amazing — kind, professional, gentle, and very reassuring throughout the appointment. She made me feel comfortable again, and I truly appreciated the care she provided. I made a point of thanking her personally, as well as letting reception know how much I appreciated her excellent care and compassion.
   - name: "Tammy Dunnett"
     rating: 5
-    comment: "I walked away from today’s session feeling more capable and confident in my ability to manage my ‘anxiety’ with being in the dentist office.  I took the time to talk to my dental team about the parts of the process that create stress for me and felt heard and valued for sharing.  I had my usual sweater and music for aids and found that the most useful part was being vulnerable enough to tell them what makes me nervous.  They were sooooo good and very supportive. It is the first time in a long ti"
+    comment: |
+      I walked away from today’s session feeling more capable and confident in my ability to manage my ‘anxiety’ with being in the dentist office.  I took the time to talk to my dental team about the parts of the process that create stress for me and felt heard and valued for sharing.
+      
+      I had my usual sweater and music for aids and found that the most useful part was being vulnerable enough to tell them what makes me nervous.  They were sooooo good and very supportive. It is the first time in a long time that I felt calm during the treatment
   - name: "Nabeel Hussein"
     rating: 5
-    comment: "Went in for root canal, Dr Ezzidine was excellent.  His assistant was amazing. 45 minutes later I walked out of there without pain and very happy with the job they did. Simply awesome 👌"
+    comment: |
+      Went in for root canal, Dr Ezzidine was excellent.  His assistant was amazing.
+      45 minutes later I walked out of there without pain and very happy with the job they did. Simply awesome 👌
   - name: "Taylor Nguyen"
     rating: 5
-    comment: "I freaking love this place. Their clinic makes me look forward to going to the dentist. Dr. Z has been so wonderful; my 16 month old son has been receiving the best care from him, furthermore, the team of hygienists and receptionists are absolutely remarkable."
+    comment: |
+      I freaking love this place. Their clinic makes me look forward to going to the dentist. Dr. Z has been so wonderful; my 16 month old son has been receiving the best care from him, furthermore, the team of hygienists and receptionists are absolutely remarkable.
+hours:
+  monday: "7:30 AM–5:30 PM"
+  tuesday: "8:00 AM–7:00 PM"
+  wednesday: "8:00 AM–7:00 PM"
+  thursday: "7:30 AM–7:00 PM"
+  friday: "7:30 AM–2:30 PM"
+  saturday: "Closed"
+  sunday: "Closed"
 ---

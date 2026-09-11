@@ -11,16 +11,16 @@ phone: "(780) 250-3330"
 website: "https://www.rxpharmacytravelclinic.ca/"
 google_maps_url: "https://maps.google.com/?cid=13783666456358348670&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 6:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 3:00 PM"
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–6:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "9:00 AM–6:00 PM"
+  friday: "9:00 AM–6:00 PM"
+  saturday: "10:00 AM–3:00 PM"
   sunday: "Closed"
 photos: ["/photos/rx-pharmacy-travel-clinic-1.jpg", "/photos/rx-pharmacy-travel-clinic-2.jpg", "/photos/rx-pharmacy-travel-clinic-3.jpg"]
 rating: 5
-review_count: 291
+review_count: 293
 price_range: "$$"
 amenities:
 

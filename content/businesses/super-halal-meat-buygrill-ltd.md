@@ -10,13 +10,13 @@ neighborhood: "Edmonton"
 phone: "(587) 401-6766"
 google_maps_url: "https://maps.google.com/?cid=2461065139946059081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 7:00 PM"
-  tuesday: "9:00 AM - 7:00 PM"
-  wednesday: "9:00 AM - 7:00 PM"
-  thursday: "9:00 AM - 7:00 PM"
-  friday: "9:00 AM - 7:00 PM"
-  saturday: "9:00 AM - 7:00 PM"
-  sunday: "9:00 AM - 7:00 PM"
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–6:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "9:00 AM–6:00 PM"
+  friday: "9:00 AM–6:00 PM"
+  saturday: "9:00 AM–6:00 PM"
+  sunday: "9:00 AM–6:00 PM"
 photos: ["/photos/super-halal-meat-buygrill-ltd-1.jpg", "/photos/super-halal-meat-buygrill-ltd-2.jpg", "/photos/super-halal-meat-buygrill-ltd-3.jpg"]
 rating: 4.7
 review_count: 27

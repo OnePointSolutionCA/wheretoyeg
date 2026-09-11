@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Beaumont"
 address: "5005 50 St unit 101, Beaumont, AB T4X 1J9"
 rating: 4.5
-review_count: 176
+review_count: 178
 tier: "featured"
 phone: "(780) 665-1146"
 website: "https://redswanpizza.ca/"
@@ -15,17 +15,32 @@ photos:
 reviews:
   - name: "Sanskriti Vadhera"
     rating: 1
-    comment: "We ordered 5 pizzas, and it was a really disappointing experience. We placed our order at 7:20 p.m., and it was supposed to be ready by 7:40 p.m. We ended up waiting at the restaurant until 8:10 p.m. before we finally got our food. After waiting that long, we expected it to at least be made properly, but every single pizza was overcooked. The cheese and crust were burnt, and the paneer on the paneer pizza was burnt too. They all had a burnt taste, making them really hard to enjoy. We called the "
+    comment: |
+      We ordered 5 pizzas, and it was a really disappointing experience. We placed our order at 7:20 p.m., and it was supposed to be ready by 7:40 p.m. We ended up waiting at the restaurant until 8:10 p.m. before we finally got our food. After waiting that long, we expected it to at least be made properly, but every single pizza was overcooked. The cheese and crust were burnt, and the paneer on the paneer pizza was burnt too. They all had a burnt taste, making them really hard to enjoy.
+      We called the restaurant right away to let them know and asked if it would be possible to have the pizzas remade, as no one wants to eat pizza that tastes burnt. The employee said they would check with someone and call us back. It’s now been 2 days, and we’ve never received a call back or any follow-up.
+      We understand that mistakes happen, but waiting 30 minutes longer than the promised pickup time only to receive burnt pizzas, and then getting no follow-up at all, is really frustrating. We were hoping they’d make it right, but the lack of customer service was just as disappointing as the food. Unfortunately, we won’t be ordering from here again.
   - name: "Matt potter"
     rating: 1
-    comment: "On Halloween evening, we ordered red swan to make it easy before all the trick or treaters come. The salad we ordered came brown and old looking. As seen in the pictures it looks gross didn’t eat it. To note this is the second time we ordered a salad and it came brow and gross. The pizza was very underwhelming which was unfortunate because red swan has always had great pizza. We tried to call numerous times that evening but no one answered. I get Halloween night is a busy night, so hire more sta"
+    comment: |
+      On Halloween evening, we ordered red swan to make it easy before all the trick or treaters come. The salad we ordered came brown and old looking. As seen in the pictures it looks gross didn’t eat it. To note this is the second time we ordered a salad and it came brow and gross. The pizza was very underwhelming which was unfortunate because red swan has always had great pizza. We tried to call numerous times that evening but no one answered. I get Halloween night is a busy night, so hire more staff to fulfill the need. So for this evening customer service sucked. Very disappointing for a shop in a small town.
   - name: "Harsimrat Pandher"
     rating: 5
-    comment: "Ordered wings and a pizza for takeaway, and the food was great — but what really stood out was the service. Ashmeen was super helpful and friendly while I waited, made sure my order was packed properly, and just made the whole pickup experience smooth and pleasant. Small things like that make a big difference. Will be ordering again!"
+    comment: |
+      Ordered wings and a pizza for takeaway, and the food was great — but what really stood out was the service. Ashmeen was super helpful and friendly while I waited, made sure my order was packed properly, and just made the whole pickup experience smooth and pleasant. Small things like that make a big difference. Will be ordering again!
   - name: "Daya Kiran kumar Bai"
     rating: 5
-    comment: "Tried Tandoori Chicken & Honey Garlic chicken pizza..absolutely delicious..The crust was crispy and flavorful, topped with sesame seeds that add Red Swan’s signature touch and made the last bites of each slice extra special. The tandoori side had just the right amount of spice, while the honey garlic balanced it with a sweet, savory flavor. Every slice was satisfying – definitely one of the best pizzas I had in a long time."
+    comment: |
+      Tried Tandoori Chicken & Honey Garlic chicken pizza..absolutely delicious..The crust was crispy and flavorful, topped with sesame seeds that add Red Swan’s signature touch and made the last bites of each slice extra special. The tandoori side had just the right amount of spice, while the honey garlic balanced it with a sweet, savory flavor. Every slice was satisfying – definitely one of the best pizzas I had in a long time.
   - name: "Raman Preet"
     rating: 5
-    comment: "Really enjoyed the Indian style pizza from Red Swan. Great flavor, good balance of spices, and the crust was perfectly done. Definitely ordering again."
+    comment: |
+      Really enjoyed the Indian style pizza from Red Swan. Great flavor, good balance of spices, and the crust was perfectly done. Definitely ordering again.
+hours:
+  monday: "11:00 AM–11:00 PM"
+  tuesday: "11:00 AM–11:00 PM"
+  wednesday: "11:00 AM–11:00 PM"
+  thursday: "11:00 AM–11:00 PM"
+  friday: "11:00 AM–11:00 PM"
+  saturday: "11:00 AM–11:00 PM"
+  sunday: "11:00 AM–11:00 PM"
 ---

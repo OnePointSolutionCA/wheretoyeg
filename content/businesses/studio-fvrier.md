@@ -10,13 +10,13 @@ neighborhood: "124 Street"
 website: "https://mariyavovchukphotography.mypixieset.com/about"
 google_maps_url: "https://maps.google.com/?cid=11661728692710490014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 8:00 PM"
-  tuesday: "8:00 AM - 8:00 PM"
-  wednesday: "8:00 AM - 8:00 PM"
-  thursday: "8:00 AM - 8:00 PM"
-  friday: "8:00 AM - 8:00 PM"
-  saturday: "8:00 AM - 8:00 PM"
-  sunday: "9:00 AM - 8:00 PM"
+  monday: "9:00 AM–8:00 PM"
+  tuesday: "8:00 AM–8:00 PM"
+  wednesday: "8:00 AM–8:00 PM"
+  thursday: "8:00 AM–8:00 PM"
+  friday: "8:00 AM–8:00 PM"
+  saturday: "8:00 AM–8:00 PM"
+  sunday: "9:00 AM–8:00 PM"
 photos: ["/photos/studio-fvrier-1.jpg", "/photos/studio-fvrier-2.jpg", "/photos/studio-fvrier-3.jpg"]
 rating: 5
 review_count: 18

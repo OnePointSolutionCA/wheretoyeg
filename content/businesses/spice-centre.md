@@ -11,16 +11,16 @@ phone: "(780) 440-3334"
 website: "http://www.thespicecentre.com/"
 google_maps_url: "https://maps.google.com/?cid=3844408714167471078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 8:00 PM"
-  tuesday: "10:00 AM - 8:00 PM"
-  wednesday: "10:00 AM - 8:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 8:00 PM"
-  saturday: "10:00 AM - 8:00 PM"
-  sunday: "10:30 AM - 7:00 PM"
+  monday: "10:00 AM–8:00 PM"
+  tuesday: "10:00 AM–8:00 PM"
+  wednesday: "10:00 AM–8:00 PM"
+  thursday: "10:00 AM–8:00 PM"
+  friday: "10:00 AM–8:00 PM"
+  saturday: "10:00 AM–8:00 PM"
+  sunday: "10:30 AM–7:00 PM"
 photos: ["/photos/spice-centre-1.jpg", "/photos/spice-centre-2.jpg", "/photos/spice-centre-3.jpg"]
 rating: 4.3
-review_count: 1177
+review_count: 1179
 price_range: "$$"
 amenities:
 

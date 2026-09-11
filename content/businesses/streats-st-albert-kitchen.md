@@ -16,17 +16,36 @@ photos:
 reviews:
   - name: "Darlene Jeannotte"
     rating: 5
-    comment: "Amazing burrito and the fries are the BEST! Great service, friendly environment, thoroughly enjoyed our dinner..a huge portion, definitely shareable!"
+    comment: |
+      Amazing burrito and the fries are the BEST! Great service, friendly environment, thoroughly enjoyed our dinner..a huge portion, definitely shareable!
   - name: "Laura Kuschmierz"
     rating: 5
-    comment: "The reviews check out—excellent tacos! Mango shrimp and baja fish were my pick. Also got the Mexican poutine which just missed the mark. More cheese and a little more gravy and it would have been as tasty as the tacos.  Server was very friendly and I really liked their music playlist."
+    comment: |
+      The reviews check out—excellent tacos! Mango shrimp and baja fish were my pick. Also got the Mexican poutine which just missed the mark. More cheese and a little more gravy and it would have been as tasty as the tacos.
+      
+      Server was very friendly and I really liked their music playlist.
   - name: "Chelsey St Onge"
     rating: 5
-    comment: "What a fabulous spot! Can't believe we hadn't been here before! We will be regulars now for sure! Customer service is awesome and food is high quality with attention to the little details. Every single thing was delicious! The place was spotless and the booths are super comfy."
+    comment: |
+      What a fabulous spot! Can't believe we hadn't been here before! We will be regulars now for sure! Customer service is awesome and food is high quality with attention to the little details. Every single thing was delicious! The place was spotless and the booths are super comfy.
   - name: "Cindy"
     rating: 5
-    comment: "First time visiting this place. Love the inside with graffiti on the wall. The food is different from every where else, which is nice. I had the fish and chips, so far the best fish I’ve ever had and we also got the Jerk chicken burrito. It was ginormous, but delicious. Your choice in tacos, burritos, French fry bowls, hamburgers, fish & chips and so much more. We will definitely be back. If u need a drink they have Sap Suckers. Love the lime 🍋‍🟩"
+    comment: |
+      First time visiting this place. Love the inside with graffiti on the wall. The food is different from every where else, which is nice. I had the fish and chips, so far the best fish I’ve ever had and we also got the Jerk chicken burrito. It was ginormous, but delicious. Your choice in tacos, burritos, French fry bowls, hamburgers, fish & chips and so much more. We will definitely be back. If u need a drink they have Sap Suckers. Love the lime 🍋‍🟩
   - name: "Adam SL"
     rating: 2
-    comment: "I keep seeing strEATS locations and have never been in until last night...I will not be going back.  The service was quite good and the staff seemed friendly and the store appeared to be clean but that's where the positives  end. All of our orders had French fries as sides or part of the meal and they for the most part were completely inedible. They were over cooked and stale. The smashburger was dry and had almost no toppings (only a small amount of cheese and a house sauce). The kids chicken f"
+    comment: |
+      I keep seeing strEATS locations and have never been in until last night...I will not be going back.
+      
+      The service was quite good and the staff seemed friendly and the store appeared to be clean but that's where the positives  end. All of our orders had French fries as sides or part of the meal and they for the most part were completely inedible. They were over cooked and stale. The smashburger was dry and had almost no toppings (only a small amount of cheese and a house sauce). The kids chicken fingers seemed ok and the fish was ok. The price was VERY high as well for the quality.
+      
+      I was seriously disappointed by this because I had high hopes for this chain.
+hours:
+  monday: "11:00 AM–8:00 PM"
+  tuesday: "11:00 AM–8:00 PM"
+  wednesday: "11:00 AM–8:00 PM"
+  thursday: "11:00 AM–8:00 PM"
+  friday: "11:00 AM–8:00 PM"
+  saturday: "11:00 AM–8:00 PM"
+  sunday: "11:00 AM–8:00 PM"
 ---

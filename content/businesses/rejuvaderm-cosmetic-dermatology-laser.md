@@ -11,16 +11,16 @@ phone: "(780) 665-4646"
 website: "https://www.rejuvaderm.ca/"
 google_maps_url: "https://maps.google.com/?cid=13289110919282182132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 7:00 PM"
-  thursday: "9:00 AM - 7:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "10:00 AM - 3:00 PM"
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–7:00 PM"
+  thursday: "9:00 AM–7:00 PM"
+  friday: "9:00 AM–5:00 PM"
+  saturday: "10:00 AM–3:00 PM"
   sunday: "Closed"
 photos: ["/photos/rejuvaderm-cosmetic-dermatology-laser-1.jpg", "/photos/rejuvaderm-cosmetic-dermatology-laser-2.jpg", "/photos/rejuvaderm-cosmetic-dermatology-laser-3.jpg"]
 rating: 4.9
-review_count: 364
+review_count: 367
 price_range: "$$"
 amenities:
 

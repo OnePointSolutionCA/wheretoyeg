@@ -15,11 +15,24 @@ photos:
 reviews:
   - name: "Gurnoor Randhawa"
     rating: 5
-    comment: "Awesome experience, fixed my tire very fast and worked late Friday evening. Would recommend."
+    comment: |
+      Awesome experience, fixed my tire very fast and worked late Friday evening. Would recommend.
   - name: "S Faizi"
     rating: 5
-    comment: "Great service for tire repair. Prompt responses and arrived at the specified time.  Definitely recommended!"
+    comment: |
+      Great service for tire repair. Prompt responses and arrived at the specified time.
+      
+      Definitely recommended!
   - name: "Victor Huezo"
     rating: 1
-    comment: "Super disrespectful.. look elsewhere"
+    comment: |
+      Super disrespectful.. look elsewhere
+hours:
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 ---

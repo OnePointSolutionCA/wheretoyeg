@@ -11,15 +11,15 @@ phone: "(780) 452-1979"
 google_maps_url: "https://maps.google.com/?cid=3630268661726246398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "11:00 AM - 8:00 PM"
-  wednesday: "11:00 AM - 8:00 PM"
-  thursday: "11:00 AM - 8:00 PM"
-  friday: "11:00 AM - 8:00 PM"
-  saturday: "11:00 AM - 8:00 PM"
-  sunday: "10:00 AM - 7:00 PM"
+  tuesday: "11:00 AM–8:00 PM"
+  wednesday: "11:00 AM–8:00 PM"
+  thursday: "11:00 AM–8:00 PM"
+  friday: "11:00 AM–8:00 PM"
+  saturday: "11:00 AM–8:00 PM"
+  sunday: "10:00 AM–7:00 PM"
 photos: ["/photos/sugba-by-food-dlicious-1.jpg", "/photos/sugba-by-food-dlicious-2.jpg", "/photos/sugba-by-food-dlicious-3.jpg"]
 rating: 4.5
-review_count: 144
+review_count: 146
 price_range: "$$"
 amenities:
   - "Dine-In"

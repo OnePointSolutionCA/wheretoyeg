@@ -11,14 +11,14 @@ google_maps_url: "https://maps.google.com/?q=Royal%20Alberta%20Museum%20Edmonton
 hours:
   monday: "Closed"
   tuesday: "Closed"
-  wednesday: "10:00 AM - 4:00 PM"
-  thursday: "10:00 AM - 4:00 PM"
-  friday: "10:00 AM - 4:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
-  sunday: "10:00 AM - 5:00 PM"
+  wednesday: "10:00 AM–4:00 PM"
+  thursday: "10:00 AM–8:00 PM"
+  friday: "10:00 AM–4:00 PM"
+  saturday: "10:00 AM–4:00 PM"
+  sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/royal-alberta-museum-1.jpg", "/photos/royal-alberta-museum-2.jpg", "/photos/royal-alberta-museum-3.jpg"]
-rating: 4.7
-review_count: 3200
+rating: 4.6
+review_count: 5005
 price_range: "$$"
 amenities:
   - "Family Friendly"

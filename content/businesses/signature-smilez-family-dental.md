@@ -16,17 +16,31 @@ photos:
 reviews:
   - name: "Michelle prodaniuk"
     rating: 5
-    comment: "I had a great experience with Dr. Jessie Jacob and her team during my wisdom tooth extraction. Dr. Jacob was kind, supportive, and reassuring, and she was able to see me right away. The entire team was friendly, professional, and made me feel comfortable throughout the process. I’m very grateful for the excellent care I received and would highly recommend this clinic."
+    comment: |
+      I had a great experience with Dr. Jessie Jacob and her team during my wisdom tooth extraction. Dr. Jacob was kind, supportive, and reassuring, and she was able to see me right away. The entire team was friendly, professional, and made me feel comfortable throughout the process. I’m very grateful for the excellent care I received and would highly recommend this clinic.
   - name: "Keith Welch"
     rating: 5
-    comment: "Fantastic dental office no pressure to buy any extra whitening or other products, very informative front and back staff and super friendly for an all around very comfortable experience! Moved from a downtown clinic to here and I definitely made the right choice! Thanks again signature smilez team."
+    comment: |
+      Fantastic dental office no pressure to buy any extra whitening or other products, very informative front and back staff and super friendly for an all around very comfortable experience! Moved from a downtown clinic to here and I definitely made the right choice! Thanks again signature smilez team.
   - name: "Jer Lyna"
     rating: 5
-    comment: "If I could give 20 stars, I absolutely would! Divya and Dr. Rashida make the best team I have ever encountered for my dental procedures, including tooth filling, extraction, and root canal treatments. As someone with an anxiety disorder, I tend to be a handful, needing plenty of reassurance to avoid feeling scared and having a panic attack in the dentist's chair. For years, I was advised to undergo a root canal due to a persistent tooth infection, and they wanted to ensure I wouldn’t lose anothe"
+    comment: |
+      If I could give 20 stars, I absolutely would! Divya and Dr. Rashida make the best team I have ever encountered for my dental procedures, including tooth filling, extraction, and root canal treatments. As someone with an anxiety disorder, I tend to be a handful, needing plenty of reassurance to avoid feeling scared and having a panic attack in the dentist's chair. For years, I was advised to undergo a root canal due to a persistent tooth infection, and they wanted to ensure I wouldn’t lose another tooth. After having my root canal yesterday, I’ve already scheduled another one for next month. I truly feel safe and well cared for by these wonderful women. I am definitely a repeat client! ⭐️⭐️⭐️⭐️⭐️
   - name: "k l"
     rating: 5
-    comment: "Finding Dr. Jacob has truly changed my dental journey. After going through extensive and complicated treatment with other dentists over the years, I carried a lot of uncertainty about my dental health. Dr. Jacob took the time to sit with me, listen carefully, and walk me through everything with patience, clarity, and kindness. For the first time, I felt a sense of relief and confidence knowing I had a thoughtful, well-considered plan moving forward. Her level of care goes far beyond what you exp"
+    comment: |
+      Finding Dr. Jacob has truly changed my dental journey. After going through extensive and complicated treatment with other dentists over the years, I carried a lot of uncertainty about my dental health. Dr. Jacob took the time to sit with me, listen carefully, and walk me through everything with patience, clarity, and kindness. For the first time, I felt a sense of relief and confidence knowing I had a thoughtful, well-considered plan moving forward.
+      Her level of care goes far beyond what you expect from a dentist - she is meticulous, compassionate, and genuinely invested in her patients’ well-being. She is always willing to go the extra mile, offer reassurance, and provide a second opinion when it’s needed most. Dr. Jacob has an incredible way of calming worries while delivering exceptional, high-quality care. I am deeply grateful for her expertise and for the trust she inspires.
   - name: "Linda Smith"
     rating: 5
-    comment: "Professional, knowledgeable, clean and wonderful staff. Everything is explained in detail, you are never wondering what is going on. Very understanding about my fear of dentists. I felt safe at all times. Highly recommended."
+    comment: |
+      Professional, knowledgeable, clean and wonderful staff. Everything is explained in detail, you are never wondering what is going on. Very understanding about my fear of dentists. I felt safe at all times. Highly recommended.
+hours:
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–7:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–6:00 PM"
+  friday: "9:00 AM–3:00 PM"
+  saturday: "9:00 AM–3:00 PM"
+  sunday: "Closed"
 ---

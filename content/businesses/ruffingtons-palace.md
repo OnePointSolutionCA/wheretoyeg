@@ -11,11 +11,11 @@ phone: "(780) 448-1821"
 google_maps_url: "https://maps.google.com/?cid=16138799948611849667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "9:30 AM - 5:30 PM"
-  wednesday: "9:30 AM - 5:30 PM"
-  thursday: "9:30 AM - 5:30 PM"
-  friday: "9:30 AM - 5:30 PM"
-  saturday: "9:30 AM - 5:30 PM"
+  tuesday: "9:30 AM–5:30 PM"
+  wednesday: "9:30 AM–5:30 PM"
+  thursday: "9:30 AM–5:30 PM"
+  friday: "9:30 AM–5:30 PM"
+  saturday: "9:30 AM–5:30 PM"
   sunday: "Closed"
 photos: ["/photos/ruffingtons-palace-1.jpg", "/photos/ruffingtons-palace-2.jpg", "/photos/ruffingtons-palace-3.jpg"]
 rating: 4.9

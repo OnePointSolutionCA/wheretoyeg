@@ -12,16 +12,16 @@ phone: "(587) 987-0867"
 website: "https://shadowboxstudios.ca"
 google_maps_url: "https://maps.google.com/?q=Shadow+Box+Studios+Edmonton"
 hours:
-  monday: "9:00 AM - 9:00 PM"
-  tuesday: "9:00 AM - 9:00 PM"
-  wednesday: "9:00 AM - 9:00 PM"
-  thursday: "9:00 AM - 9:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "9:00 AM - 9:00 PM"
-  sunday: "9:00 AM - 9:00 PM"
+  monday: "9:00 AM–9:00 PM"
+  tuesday: "9:00 AM–9:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
+  saturday: "9:00 AM–9:00 PM"
+  sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/shadow-box-studios-1.jpg", "/photos/shadow-box-studios-2.jpg", "/photos/shadow-box-studios-3.jpg"]
 rating: 5.0
-review_count: 180
+review_count: 188
 price_range: "$$$"
 amenities:
   - "Studio Rental"

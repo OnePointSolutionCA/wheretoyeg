@@ -11,16 +11,16 @@ phone: "(825) 201-3274"
 website: "https://www.sawaiikitchen.com/"
 google_maps_url: "https://maps.google.com/?cid=6772610806492541471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 2:00 AM"
-  tuesday: "11:00 AM - 2:00 AM"
-  wednesday: "11:00 AM - 2:00 AM"
-  thursday: "11:00 AM - 2:00 AM"
-  friday: "11:00 AM - 2:00 AM"
-  saturday: "11:00 AM - 2:00 AM"
-  sunday: "11:00 AM - 2:00 AM"
+  monday: "11:00 AM–2:00 AM"
+  tuesday: "11:00 AM–2:00 AM"
+  wednesday: "11:00 AM–2:00 AM"
+  thursday: "11:00 AM–2:00 AM"
+  friday: "11:00 AM–2:00 AM"
+  saturday: "11:00 AM–2:00 AM"
+  sunday: "11:00 AM–2:00 AM"
 photos: ["/photos/sawaii-hyderabadi-biryani-indian-kitchen-1.jpg", "/photos/sawaii-hyderabadi-biryani-indian-kitchen-2.jpg", "/photos/sawaii-hyderabadi-biryani-indian-kitchen-3.jpg"]
 rating: 4.6
-review_count: 288
+review_count: 293
 price_range: "$"
 amenities:
   - "Halal"

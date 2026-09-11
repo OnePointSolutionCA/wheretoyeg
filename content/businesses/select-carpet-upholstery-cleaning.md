@@ -11,13 +11,13 @@ phone: "(587) 290-2439"
 website: "https://selectcarpetcleaner.com/"
 google_maps_url: "https://maps.google.com/?cid=4664666752168929413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 6:00 PM"
-  tuesday: "8:00 AM - 6:00 PM"
-  wednesday: "8:00 AM - 6:00 PM"
-  thursday: "8:00 AM - 6:00 PM"
-  friday: "8:00 AM - 6:00 PM"
-  saturday: "8:00 AM - 12:00 PM"
-  sunday: "8:00 AM - 12:00 PM"
+  monday: "8:00 AM–6:00 PM"
+  tuesday: "8:00 AM–6:00 PM"
+  wednesday: "8:00 AM–6:00 PM"
+  thursday: "8:00 AM–6:00 PM"
+  friday: "8:00 AM–6:00 PM"
+  saturday: "8:00 AM–12:00 PM"
+  sunday: "8:00 AM–12:00 PM"
 photos: ["/photos/select-carpet-upholstery-cleaning-1.jpg", "/photos/select-carpet-upholstery-cleaning-2.jpg", "/photos/select-carpet-upholstery-cleaning-3.jpg"]
 rating: 4.7
 review_count: 135

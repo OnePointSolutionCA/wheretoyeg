@@ -12,15 +12,15 @@ website: "https://sofrarestaurant.ca/"
 google_maps_url: "https://maps.google.com/?cid=14173330841998328791&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "5:00 - 9:00 PM"
-  wednesday: "5:00 - 9:00 PM"
-  thursday: "5:00 - 9:00 PM"
-  friday: "5:00 - 9:30 PM"
-  saturday: "5:00 - 9:30 PM"
-  sunday: "5:00 - 9:00 PM"
+  tuesday: "5:00 PM–9:00 PM"
+  wednesday: "5:00 PM–9:00 PM"
+  thursday: "5:00 PM–9:00 PM"
+  friday: "5:00 PM–9:30 PM"
+  saturday: "5:00 PM–9:30 PM"
+  sunday: "5:00 PM–9:00 PM"
 photos: ["/photos/sofra-turkish-restaurant-wine-cellar-1.jpg", "/photos/sofra-turkish-restaurant-wine-cellar-2.jpg", "/photos/sofra-turkish-restaurant-wine-cellar-3.jpg"]
 rating: 4.5
-review_count: 860
+review_count: 868
 price_range: "$$"
 amenities:
   - "Halal"

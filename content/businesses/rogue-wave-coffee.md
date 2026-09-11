@@ -12,16 +12,16 @@ phone: "(780) 245-3774"
 website: "https://roguewavecoffee.ca"
 google_maps_url: "https://maps.google.com/?q=Rogue+Wave+Coffee+Edmonton"
 hours:
-  monday: "9:00 AM - 4:00 PM"
-  tuesday: "9:00 AM - 4:00 PM"
-  wednesday: "9:00 AM - 4:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "9:00 AM - 4:00 PM"
+  monday: "9:00 AM–4:00 PM"
+  tuesday: "9:00 AM–4:00 PM"
+  wednesday: "9:00 AM–4:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
+  saturday: "9:00 AM–4:00 PM"
   sunday: "Closed"
 photos: ["/photos/rogue-wave-coffee-1.jpg", "/photos/rogue-wave-coffee-2.jpg", "/photos/rogue-wave-coffee-3.jpg"]
 rating: 4.8
-review_count: 255
+review_count: 585
 price_range: "$$"
 amenities:
   - "Specialty Coffee"

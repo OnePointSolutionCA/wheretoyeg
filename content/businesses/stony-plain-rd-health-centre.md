@@ -11,16 +11,16 @@ phone: "(780) 784-8823"
 website: "https://sprhc.ca/"
 google_maps_url: "https://maps.google.com/?cid=9006338805245390590&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:30 AM - 7:00 PM"
-  tuesday: "8:30 AM - 7:00 PM"
-  wednesday: "8:30 AM - 7:00 PM"
-  thursday: "8:30 AM - 7:00 PM"
-  friday: "8:30 AM - 7:00 PM"
-  saturday: "11:00 AM - 6:00 PM"
-  sunday: "10:00 AM - 4:00 PM"
+  monday: "8:30 AM–7:00 PM"
+  tuesday: "8:30 AM–7:00 PM"
+  wednesday: "8:30 AM–7:00 PM"
+  thursday: "8:30 AM–7:00 PM"
+  friday: "8:30 AM–7:00 PM"
+  saturday: "11:00 AM–6:00 PM"
+  sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/stony-plain-rd-health-centre-1.jpg", "/photos/stony-plain-rd-health-centre-2.jpg", "/photos/stony-plain-rd-health-centre-3.jpg"]
-rating: 4.6
-review_count: 22
+rating: 4.7
+review_count: 23
 price_range: "$$"
 amenities:
 

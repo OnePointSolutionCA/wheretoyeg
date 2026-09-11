@@ -11,16 +11,16 @@ phone: "(780) 613-1875"
 website: "https://siamthaikitchen.ca/location/albert_trail/"
 google_maps_url: "https://maps.google.com/?cid=1606184699363942007&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 2:30 PM, 4:00 - 8:30 PM"
-  tuesday: "11:00 AM - 2:30 PM, 4:00 - 8:30 PM"
-  wednesday: "11:00 AM - 2:30 PM, 4:00 - 8:30 PM"
-  thursday: "11:00 AM - 2:30 PM, 4:00 - 8:30 PM"
-  friday: "11:00 AM - 2:30 PM, 4:00 - 9:00 PM"
-  saturday: "3:00 - 9:00 PM"
-  sunday: "12:00 - 9:00 PM"
+  monday: "11:00 AM–2:30 PM"
+  tuesday: "11:00 AM–2:30 PM"
+  wednesday: "11:00 AM–2:30 PM"
+  thursday: "11:00 AM–2:30 PM"
+  friday: "11:00 AM–2:30 PM"
+  saturday: "3:00 PM–9:00 PM"
+  sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/siam-thai-kitchen-st-albert-trail-1.jpg", "/photos/siam-thai-kitchen-st-albert-trail-2.jpg", "/photos/siam-thai-kitchen-st-albert-trail-3.jpg"]
 rating: 4.8
-review_count: 591
+review_count: 610
 price_range: "$$"
 amenities:
   - "Dine-In"

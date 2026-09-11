@@ -11,16 +11,16 @@ phone: "(780) 669-1251"
 website: "https://www.ryanparkerphotography.com/"
 google_maps_url: "https://maps.google.com/?cid=2441710307138017685&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "5:00 AM - 12:00 AM"
-  tuesday: "5:00 AM - 12:00 AM"
-  wednesday: "5:00 AM - 12:00 AM"
-  thursday: "5:00 AM - 12:00 AM"
-  friday: "5:00 AM - 12:00 AM"
-  saturday: "5:00 AM - 12:00 AM"
-  sunday: "5:00 AM - 12:00 AM"
+  monday: "5:00 AM–12:00 AM"
+  tuesday: "5:00 AM–12:00 AM"
+  wednesday: "5:00 AM–12:00 AM"
+  thursday: "5:00 AM–12:00 AM"
+  friday: "5:00 AM–12:00 AM"
+  saturday: "5:00 AM–12:00 AM"
+  sunday: "5:00 AM–12:00 AM"
 photos: ["/photos/ryan-parker-photography-1.jpg", "/photos/ryan-parker-photography-2.jpg", "/photos/ryan-parker-photography-3.jpg"]
 rating: 5
-review_count: 292
+review_count: 293
 price_range: "$$"
 amenities:
 

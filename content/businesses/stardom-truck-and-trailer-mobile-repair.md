@@ -15,8 +15,26 @@ photos:
 reviews:
   - name: "Anhad Biyan"
     rating: 5
-    comment: "Great guy! Really helpful did an amazing job"
+    comment: |
+      Great guy! Really helpful did an amazing job
+  - name: "Pranav Sharma"
+    rating: 5
+    comment: |
+      Great service!!!!
+  - name: "Dharamvir Singh"
+    rating: 5
+    comment: |
+      Xcelent service
   - name: "Jeevanjeet Singh"
     rating: 5
-    comment: "Great service and affordable prices."
+    comment: |
+      Great service and affordable prices.
+hours:
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 ---

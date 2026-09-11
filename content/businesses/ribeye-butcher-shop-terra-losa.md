@@ -11,16 +11,16 @@ phone: "(780) 705-8252"
 website: "https://ribeyebutcher.ca/pages/locations"
 google_maps_url: "https://maps.google.com/?cid=9122007245705103864&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 7:00 PM"
-  tuesday: "10:00 AM - 7:00 PM"
-  wednesday: "10:00 AM - 7:00 PM"
-  thursday: "10:00 AM - 7:00 PM"
-  friday: "10:00 AM - 7:00 PM"
-  saturday: "10:00 AM - 7:00 PM"
-  sunday: "10:00 AM - 7:00 PM"
+  monday: "10:00 AM–7:00 PM"
+  tuesday: "10:00 AM–7:00 PM"
+  wednesday: "10:00 AM–7:00 PM"
+  thursday: "10:00 AM–7:00 PM"
+  friday: "10:00 AM–7:00 PM"
+  saturday: "10:00 AM–7:00 PM"
+  sunday: "10:00 AM–7:00 PM"
 photos: ["/photos/ribeye-butcher-shop-terra-losa-1.jpg", "/photos/ribeye-butcher-shop-terra-losa-2.jpg", "/photos/ribeye-butcher-shop-terra-losa-3.jpg"]
 rating: 4.8
-review_count: 295
+review_count: 296
 price_range: "$$"
 amenities:
 

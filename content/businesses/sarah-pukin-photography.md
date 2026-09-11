@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "Edmonton (city-wide)"
 google_maps_url: "https://maps.google.com/?q=Sarah%20Pukin%20Photography%20Edmonton"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
-  sunday: "Closed"
+  monday: "10:00 AM–6:00 PM"
+  tuesday: "10:00 AM–6:00 PM"
+  wednesday: "10:00 AM–6:00 PM"
+  thursday: "10:00 AM–6:00 PM"
+  friday: "10:00 AM–6:00 PM"
+  saturday: "9:00 AM–5:00 PM"
+  sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/sarah-pukin-photography-1.jpg", "/photos/sarah-pukin-photography-2.jpg", "/photos/sarah-pukin-photography-3.jpg"]
-rating: 4.9
-review_count: 120
+rating: 5
+review_count: 67
 price_range: "$$$"
 amenities:
   - "Wedding"

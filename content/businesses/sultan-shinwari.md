@@ -12,15 +12,15 @@ website: "https://sultanshinwari.com/"
 google_maps_url: "https://maps.google.com/?cid=16357327787147199232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "2:00 - 11:00 PM"
-  wednesday: "2:00 - 11:00 PM"
-  thursday: "2:00 - 11:00 PM"
-  friday: "2:00 PM - 12:00 AM"
-  saturday: "2:00 PM - 12:00 AM"
-  sunday: "2:00 - 11:00 PM"
+  tuesday: "2:00 PM–11:00 PM"
+  wednesday: "2:00 PM–11:00 PM"
+  thursday: "2:00 PM–11:00 PM"
+  friday: "2:00 PM–12:00 AM"
+  saturday: "2:00 PM–12:00 AM"
+  sunday: "2:00 PM–11:00 PM"
 photos: ["/photos/sultan-shinwari-1.jpg", "/photos/sultan-shinwari-2.jpg", "/photos/sultan-shinwari-3.jpg"]
 rating: 4.7
-review_count: 201
+review_count: 222
 price_range: "$$"
 amenities:
   - "Halal"

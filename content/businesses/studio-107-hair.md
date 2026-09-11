@@ -12,11 +12,11 @@ website: "http://www.studio107.ca/"
 google_maps_url: "https://maps.google.com/?cid=526602152070479724&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "1:00 - 9:00 PM"
-  wednesday: "1:00 - 9:00 PM"
-  thursday: "9:00 AM - 6:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "9:00 AM - 2:00 PM"
+  tuesday: "1:00 PM–9:00 PM"
+  wednesday: "1:00 PM–9:00 PM"
+  thursday: "9:00 AM–6:00 PM"
+  friday: "9:00 AM–5:00 PM"
+  saturday: "9:00 AM–2:00 PM"
   sunday: "Closed"
 photos: ["/photos/studio-107-hair-1.jpg", "/photos/studio-107-hair-2.jpg", "/photos/studio-107-hair-3.jpg"]
 rating: 4.9

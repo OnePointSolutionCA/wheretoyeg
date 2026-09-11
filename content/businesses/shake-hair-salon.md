@@ -11,16 +11,16 @@ phone: "(780) 249-5501"
 website: "http://shakehairsalon.com/"
 google_maps_url: "https://maps.google.com/?cid=6523932026009338761&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 9:00 PM"
-  tuesday: "10:00 AM - 9:00 PM"
-  wednesday: "10:00 AM - 9:00 PM"
-  thursday: "10:00 AM - 9:00 PM"
-  friday: "10:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 9:00 PM"
-  sunday: "11:00 AM - 6:00 PM"
+  monday: "10:00 AM–9:00 PM"
+  tuesday: "10:00 AM–9:00 PM"
+  wednesday: "10:00 AM–9:00 PM"
+  thursday: "10:00 AM–9:00 PM"
+  friday: "10:00 AM–9:00 PM"
+  saturday: "10:00 AM–9:00 PM"
+  sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/shake-hair-salon-1.jpg", "/photos/shake-hair-salon-2.jpg", "/photos/shake-hair-salon-3.jpg"]
 rating: 4.8
-review_count: 1326
+review_count: 1342
 price_range: "$$"
 amenities:
 

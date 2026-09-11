@@ -12,16 +12,16 @@ phone: "780-406-2200"
 website: "https://rootofbeirut.gotoeat.net"
 google_maps_url: "https://maps.google.com/?q=Root+of+Beirut+Edmonton"
 hours:
-  monday: "8:00 AM - 11:00 PM"
-  tuesday: "8:00 AM - 11:00 PM"
-  wednesday: "8:00 AM - 11:00 PM"
-  thursday: "8:00 AM - 11:00 PM"
-  friday: "8:00 AM - 11:00 PM"
-  saturday: "8:00 AM - 11:00 PM"
-  sunday: "8:00 AM - 11:00 PM"
+  monday: "8:00 AM–9:00 PM"
+  tuesday: "8:00 AM–9:00 PM"
+  wednesday: "8:00 AM–9:00 PM"
+  thursday: "8:00 AM–9:00 PM"
+  friday: "8:00 AM–9:00 PM"
+  saturday: "8:00 AM–10:00 PM"
+  sunday: "8:00 AM–4:01 PM"
 photos: ["/photos/root-of-beirut-1.jpg", "/photos/root-of-beirut-2.jpg", "/photos/root-of-beirut-3.jpg"]
 rating: 4.4
-review_count: 376
+review_count: 1327
 price_range: "$$"
 amenities:
   - "Halal"

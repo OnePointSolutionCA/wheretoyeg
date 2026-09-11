@@ -8,16 +8,16 @@ address: "7225 Winterburn Rd NW"
 neighborhood: "West Edmonton"
 google_maps_url: "https://maps.google.com/?q=Si+Salon+Spa+Edmonton"
 hours:
-  monday: "10:00 AM - 7:00 PM"
-  tuesday: "10:00 AM - 7:00 PM"
-  wednesday: "10:00 AM - 7:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 8:00 PM"
-  saturday: "9:00 AM - 6:00 PM"
-  sunday: "Closed"
+  monday: "12:00 PM–5:00 PM"
+  tuesday: "12:00 PM–5:00 PM"
+  wednesday: "10:00 AM–6:30 PM"
+  thursday: "10:00 AM–5:00 PM"
+  friday: "10:00 AM–6:30 PM"
+  saturday: "10:00 AM–5:00 PM"
+  sunday: "12:00 PM–5:00 PM"
 photos: ["/photos/si-salon-and-spa-1.jpg", "/photos/si-salon-and-spa-2.jpg", "/photos/si-salon-and-spa-3.jpg"]
-rating: 4.9
-review_count: 271
+rating: 4.4
+review_count: 151
 price_range: "$$"
 amenities:
   - "Facials"

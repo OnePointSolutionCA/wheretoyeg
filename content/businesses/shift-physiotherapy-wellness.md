@@ -11,16 +11,16 @@ phone: "(587) 442-3111"
 website: "http://shiftptwellness.com/"
 google_maps_url: "https://maps.google.com/?cid=12353169149123847347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 8:00 PM"
-  tuesday: "7:00 AM - 8:00 PM"
-  wednesday: "7:00 AM - 8:00 PM"
-  thursday: "8:00 AM - 8:00 PM"
-  friday: "7:00 AM - 7:00 PM"
-  saturday: "8:00 AM - 1:00 PM"
+  monday: "7:00 AM–8:00 PM"
+  tuesday: "7:00 AM–8:00 PM"
+  wednesday: "7:00 AM–8:00 PM"
+  thursday: "8:00 AM–8:00 PM"
+  friday: "7:00 AM–7:00 PM"
+  saturday: "8:00 AM–1:00 PM"
   sunday: "Closed"
 photos: ["/photos/shift-physiotherapy-wellness-1.jpg", "/photos/shift-physiotherapy-wellness-2.jpg", "/photos/shift-physiotherapy-wellness-3.jpg"]
 rating: 5
-review_count: 229
+review_count: 232
 price_range: "$$"
 amenities:
 
