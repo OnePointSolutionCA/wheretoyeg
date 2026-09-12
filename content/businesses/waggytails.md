@@ -11,12 +11,12 @@ phone: "(780) 486-6222"
 website: "https://waggytails.ca/"
 google_maps_url: "https://maps.google.com/?cid=13440345325343286323&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "6:30 AM - 7:00 PM"
-  tuesday: "6:30 AM - 7:00 PM"
-  wednesday: "6:30 AM - 7:00 PM"
-  thursday: "6:30 AM - 7:00 PM"
-  friday: "6:30 AM - 7:00 PM"
-  saturday: "8:00 AM - 5:00 PM"
+  monday: "6:30 AM–7:00 PM"
+  tuesday: "6:30 AM–7:00 PM"
+  wednesday: "6:30 AM–7:00 PM"
+  thursday: "6:30 AM–7:00 PM"
+  friday: "6:30 AM–7:00 PM"
+  saturday: "8:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/waggytails-1.jpg", "/photos/waggytails-2.jpg", "/photos/waggytails-3.jpg"]
 rating: 4.6

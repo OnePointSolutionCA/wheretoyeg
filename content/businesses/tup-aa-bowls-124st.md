@@ -11,16 +11,16 @@ phone: "(587) 405-9734"
 website: "https://www.tupibowls.ca/"
 google_maps_url: "https://maps.google.com/?cid=2031721661591132232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 8:00 PM"
-  tuesday: "10:00 AM - 8:00 PM"
-  wednesday: "10:00 AM - 8:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 8:00 PM"
-  saturday: "10:00 AM - 8:00 PM"
-  sunday: "10:00 AM - 8:00 PM"
+  monday: "10:00 AM–8:00 PM"
+  tuesday: "10:00 AM–8:00 PM"
+  wednesday: "10:00 AM–8:00 PM"
+  thursday: "10:00 AM–8:00 PM"
+  friday: "10:00 AM–8:00 PM"
+  saturday: "10:00 AM–8:00 PM"
+  sunday: "10:00 AM–8:00 PM"
 photos: ["/photos/tup-aa-bowls-124st-1.jpg", "/photos/tup-aa-bowls-124st-2.jpg", "/photos/tup-aa-bowls-124st-3.jpg"]
 rating: 4.9
-review_count: 36
+review_count: 38
 price_range: "$"
 amenities:
   - "Dine-In"

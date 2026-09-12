@@ -11,16 +11,16 @@ phone: "(780) 707-3937"
 website: "https://sdeyecare.ca/locations/westmount"
 google_maps_url: "https://maps.google.com/?cid=13224697186033195168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 6:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–6:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "9:00 AM–6:00 PM"
+  friday: "9:00 AM–6:00 PM"
+  saturday: "9:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/westmount-vision-care-1.jpg", "/photos/westmount-vision-care-2.jpg", "/photos/westmount-vision-care-3.jpg"]
 rating: 4.9
-review_count: 443
+review_count: 445
 price_range: "$$"
 amenities:
 

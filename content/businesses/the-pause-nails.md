@@ -11,16 +11,16 @@ phone: "(780) 758-1689"
 website: "https://thepausenails.com/"
 google_maps_url: "https://maps.google.com/?cid=15581583963821180097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:30 AM - 7:00 PM"
-  tuesday: "9:30 AM - 7:00 PM"
-  wednesday: "9:30 AM - 7:00 PM"
-  thursday: "9:30 AM - 7:00 PM"
-  friday: "9:30 AM - 7:00 PM"
-  saturday: "9:30 AM - 6:00 PM"
-  sunday: "11:30 AM - 5:00 PM"
+  monday: "9:30 AM–7:00 PM"
+  tuesday: "9:30 AM–7:00 PM"
+  wednesday: "9:30 AM–7:00 PM"
+  thursday: "9:30 AM–7:00 PM"
+  friday: "9:30 AM–7:00 PM"
+  saturday: "9:30 AM–6:00 PM"
+  sunday: "11:30 AM–5:00 PM"
 photos: ["/photos/the-pause-nails-1.jpg", "/photos/the-pause-nails-2.jpg", "/photos/the-pause-nails-3.jpg"]
 rating: 4.9
-review_count: 113
+review_count: 124
 price_range: "$$$"
 amenities:
 

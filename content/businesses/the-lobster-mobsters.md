@@ -12,15 +12,15 @@ website: "https://www.thelobstermobsters.com/"
 google_maps_url: "https://maps.google.com/?cid=3643205602954394004&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "11:00 AM - 6:00 PM"
-  wednesday: "11:00 AM - 6:00 PM"
-  thursday: "11:00 AM - 6:00 PM"
-  friday: "11:00 AM - 6:00 PM"
-  saturday: "11:00 AM - 6:00 PM"
+  tuesday: "11:00 AM–6:00 PM"
+  wednesday: "11:00 AM–6:00 PM"
+  thursday: "11:00 AM–6:00 PM"
+  friday: "11:00 AM–6:00 PM"
+  saturday: "11:00 AM–6:00 PM"
   sunday: "Closed"
 photos: ["/photos/the-lobster-mobsters-1.jpg", "/photos/the-lobster-mobsters-2.jpg", "/photos/the-lobster-mobsters-3.jpg"]
 rating: 4.6
-review_count: 182
+review_count: 184
 price_range: "$$"
 amenities:
   - "Dine-In"

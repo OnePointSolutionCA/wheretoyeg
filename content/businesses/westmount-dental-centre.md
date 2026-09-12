@@ -11,16 +11,16 @@ phone: "(587) 407-3178"
 website: "https://www.westmountdental.ca/site/home?utm_source=G&utm_medium=LPM&utm_campaign=DentalCorp"
 google_maps_url: "https://maps.google.com/?cid=5198372525703766931&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 9:00 PM"
-  tuesday: "7:00 AM - 9:00 PM"
-  wednesday: "7:00 AM - 9:00 PM"
-  thursday: "7:00 AM - 9:00 PM"
-  friday: "7:00 AM - 9:00 PM"
-  saturday: "9:00 AM - 4:00 PM"
-  sunday: "9:00 AM - 4:00 PM"
+  monday: "7:00 AM–9:00 PM"
+  tuesday: "7:00 AM–9:00 PM"
+  wednesday: "7:00 AM–9:00 PM"
+  thursday: "7:00 AM–9:00 PM"
+  friday: "7:00 AM–9:00 PM"
+  saturday: "9:00 AM–4:00 PM"
+  sunday: "9:00 AM–4:00 PM"
 photos: ["/photos/westmount-dental-centre-1.jpg", "/photos/westmount-dental-centre-2.jpg", "/photos/westmount-dental-centre-3.jpg"]
 rating: 4.6
-review_count: 741
+review_count: 761
 price_range: "$$"
 amenities:
 

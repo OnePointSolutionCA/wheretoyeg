@@ -11,16 +11,16 @@ phone: "(780) 477-0990"
 website: "http://www.feelbetteredmonton.com/"
 google_maps_url: "https://maps.google.com/?cid=18064645744256991527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 7:00 PM"
-  tuesday: "10:00 AM - 7:00 PM"
-  wednesday: "10:00 AM - 7:00 PM"
-  thursday: "10:00 AM - 7:00 PM"
-  friday: "10:00 AM - 7:00 PM"
-  saturday: "9:00 AM - 3:00 PM"
-  sunday: "10:00 AM - 4:00 PM"
+  monday: "10:00 AM–7:00 PM"
+  tuesday: "10:00 AM–7:00 PM"
+  wednesday: "10:00 AM–7:00 PM"
+  thursday: "10:00 AM–7:00 PM"
+  friday: "10:00 AM–7:00 PM"
+  saturday: "9:00 AM–3:00 PM"
+  sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/the-chiropractic-wellness-studio-1.jpg", "/photos/the-chiropractic-wellness-studio-2.jpg", "/photos/the-chiropractic-wellness-studio-3.jpg"]
 rating: 4.8
-review_count: 258
+review_count: 259
 price_range: "$$"
 amenities:
 

@@ -9,16 +9,16 @@ address: "12417 66 St NW"
 neighborhood: "North Edmonton"
 google_maps_url: "https://maps.google.com/?q=Vi's%20for%20Pies%20Edmonton"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
-  sunday: "10:00 AM - 5:00 PM"
+  monday: "Closed"
+  tuesday: "10:00 AM–10:00 PM"
+  wednesday: "10:00 AM–10:00 PM"
+  thursday: "10:00 AM–10:00 PM"
+  friday: "10:00 AM–10:00 PM"
+  saturday: "10:00 AM–10:00 PM"
+  sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/vis-for-pies-1.jpg", "/photos/vis-for-pies-2.jpg", "/photos/vis-for-pies-3.jpg"]
-rating: 4.7
-review_count: 780
+rating: 4.5
+review_count: 1397
 price_range: "$$"
 amenities:
   - "Custom Orders"

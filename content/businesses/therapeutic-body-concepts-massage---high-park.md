@@ -11,16 +11,16 @@ phone: "(780) 456-1868"
 website: "https://www.therapeuticbodyconcepts.ca/"
 google_maps_url: "https://maps.google.com/?cid=16825462906256784002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 9:00 PM"
-  tuesday: "8:00 AM - 9:00 PM"
-  wednesday: "8:00 AM - 9:00 PM"
-  thursday: "8:00 AM - 9:00 PM"
-  friday: "8:00 AM - 9:00 PM"
-  saturday: "8:00 AM - 8:00 PM"
-  sunday: "8:00 AM - 5:00 PM"
+  monday: "8:00 AM–9:00 PM"
+  tuesday: "8:00 AM–9:00 PM"
+  wednesday: "8:00 AM–9:00 PM"
+  thursday: "8:00 AM–9:00 PM"
+  friday: "8:00 AM–9:00 PM"
+  saturday: "8:00 AM–8:00 PM"
+  sunday: "8:00 AM–5:00 PM"
 photos: ["/photos/therapeutic-body-concepts-massage---high-park-1.jpg", "/photos/therapeutic-body-concepts-massage---high-park-2.jpg", "/photos/therapeutic-body-concepts-massage---high-park-3.jpg"]
 rating: 4.9
-review_count: 1116
+review_count: 1119
 price_range: "$$"
 amenities:
 

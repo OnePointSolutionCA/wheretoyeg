@@ -12,15 +12,15 @@ website: "http://www.vintagefork.ca/"
 google_maps_url: "https://maps.google.com/?cid=11631479765484044731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "10:00 AM - 4:00 PM"
-  wednesday: "10:00 AM - 6:00 PM"
-  thursday: "10:00 AM - 6:00 PM"
-  friday: "10:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
+  tuesday: "10:00 AM–4:00 PM"
+  wednesday: "10:00 AM–6:00 PM"
+  thursday: "10:00 AM–6:00 PM"
+  friday: "10:00 AM–6:00 PM"
+  saturday: "10:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/vintage-fork-loose-leaf-tea-1.jpg", "/photos/vintage-fork-loose-leaf-tea-2.jpg", "/photos/vintage-fork-loose-leaf-tea-3.jpg"]
 rating: 5
-review_count: 252
+review_count: 255
 price_range: "$$"
 amenities:
   - "Dine-In"

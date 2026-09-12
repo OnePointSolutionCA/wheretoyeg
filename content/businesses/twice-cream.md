@@ -11,16 +11,16 @@ phone: "(587) 520-5505"
 website: "https://twicecream.ca/"
 google_maps_url: "https://maps.google.com/?cid=3871628936212687985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 9:00 PM"
-  tuesday: "12:00 - 9:00 PM"
-  wednesday: "12:00 - 9:00 PM"
-  thursday: "12:00 - 9:00 PM"
-  friday: "12:00 - 11:00 PM"
-  saturday: "12:00 - 11:00 PM"
-  sunday: "12:00 - 9:00 PM"
+  monday: "12:00 PM–9:00 PM"
+  tuesday: "12:00 PM–9:00 PM"
+  wednesday: "12:00 PM–9:00 PM"
+  thursday: "12:00 PM–9:00 PM"
+  friday: "12:00 PM–11:00 PM"
+  saturday: "12:00 PM–11:00 PM"
+  sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/twice-cream-1.jpg", "/photos/twice-cream-2.jpg", "/photos/twice-cream-3.jpg"]
 rating: 4.7
-review_count: 505
+review_count: 506
 price_range: "$$"
 amenities:
   - "Dine-In"

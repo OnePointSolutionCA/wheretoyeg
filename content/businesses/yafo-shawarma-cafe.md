@@ -10,13 +10,13 @@ neighborhood: "Edmonton"
 phone: "(368) 882-4965"
 google_maps_url: "https://maps.google.com/?cid=5039759088773643822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 12:30 AM"
-  tuesday: "7:00 AM - 12:30 AM"
-  wednesday: "7:00 AM - 12:30 AM"
-  thursday: "7:00 AM - 12:30 AM"
-  friday: "7:00 AM - 12:30 AM"
-  saturday: "7:00 AM - 12:30 AM"
-  sunday: "7:00 AM - 12:00 AM"
+  monday: "7:00 AM–12:30 AM"
+  tuesday: "7:00 AM–12:30 AM"
+  wednesday: "7:00 AM–12:30 AM"
+  thursday: "7:00 AM–12:30 AM"
+  friday: "7:00 AM–12:30 AM"
+  saturday: "7:00 AM–12:30 AM"
+  sunday: "7:00 AM–12:00 AM"
 photos: ["/photos/yafo-shawarma-cafe-1.jpg", "/photos/yafo-shawarma-cafe-2.jpg", "/photos/yafo-shawarma-cafe-3.jpg"]
 rating: 5
 review_count: 19
@@ -48,8 +48,9 @@ reviews:
       Wow! Amazing food with great prices and outstanding customer service 🔥👏
       Very delicious and clean food, cheap prices, and super polite staff. These people really deserve support ❤️
       Small restaurant, but the food is absolutely amazing, very delicious, and affordable 😋✨
-  - name: "Awet Yohannes"
+  - name: "Pashan Fernando"
     rating: 5
     comment: |
-      Such a beautiful spot for Mediterranean food. The food was fresh, clean, and full of flavor. The hummus was excellent, and the shawarma was absolutely on point. You can tell the chef really knows what they’re doing. One of the best places for good food and great taste
+      A small narrow café style restaurant, I wasn't sure what to expect when I went in. Ordered the chicken kebab platter and was quite impressed.
+      Generous portion size and reminded me of a hearty home cooked meal.
 ---

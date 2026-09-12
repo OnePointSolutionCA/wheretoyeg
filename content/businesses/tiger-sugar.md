@@ -12,16 +12,16 @@ phone: "(587) 988-9488"
 website: "https://tigersugaralberta.com"
 google_maps_url: "https://maps.google.com/?q=Tiger+Sugar+Edmonton"
 hours:
-  monday: "11:30 AM - 11:00 PM"
-  tuesday: "11:30 AM - 11:00 PM"
-  wednesday: "11:30 AM - 11:00 PM"
-  thursday: "11:30 AM - 11:00 PM"
-  friday: "11:30 AM - 12:00 AM"
-  saturday: "11:30 AM - 12:00 AM"
-  sunday: "11:30 AM - 11:00 PM"
+  monday: "12:00 PM–10:00 PM"
+  tuesday: "12:00 PM–10:00 PM"
+  wednesday: "12:00 PM–10:00 PM"
+  thursday: "12:00 PM–10:00 PM"
+  friday: "12:00 PM–11:00 PM"
+  saturday: "12:00 PM–11:00 PM"
+  sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/tiger-sugar-1.jpg", "/photos/tiger-sugar-2.jpg", "/photos/tiger-sugar-3.jpg"]
-rating: 4.3
-review_count: 180
+rating: 4
+review_count: 148
 price_range: "$"
 amenities:
   - "Bubble Tea"

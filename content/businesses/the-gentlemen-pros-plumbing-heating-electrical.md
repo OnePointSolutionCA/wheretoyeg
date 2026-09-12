@@ -11,16 +11,16 @@ phone: "(780) 701-9965"
 website: "https://www.thegentlemenpros.com/edmonton/"
 google_maps_url: "https://maps.google.com/?cid=8636849997926914782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "Open 24 hours"
-  tuesday: "Open 24 hours"
-  wednesday: "Open 24 hours"
-  thursday: "Open 24 hours"
-  friday: "Open 24 hours"
-  saturday: "Open 24 hours"
-  sunday: "Open 24 hours"
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/the-gentlemen-pros-plumbing-heating-electrical-1.jpg", "/photos/the-gentlemen-pros-plumbing-heating-electrical-2.jpg", "/photos/the-gentlemen-pros-plumbing-heating-electrical-3.jpg"]
 rating: 4.9
-review_count: 3794
+review_count: 3811
 price_range: "$$"
 amenities:
 

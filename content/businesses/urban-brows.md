@@ -11,16 +11,16 @@ phone: "(587) 407-3211"
 website: "https://www.urbanbrows.com/locations/west-edmonton?utm_source=google&utm_medium=organic&utm_campaign=gbp-west-edmonton"
 google_maps_url: "https://maps.google.com/?cid=2029392370064064048&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 6:00 PM"
-  tuesday: "11:00 AM - 6:00 PM"
-  wednesday: "11:00 AM - 6:00 PM"
-  thursday: "11:00 AM - 6:00 PM"
-  friday: "11:00 AM - 6:00 PM"
-  saturday: "11:00 AM - 6:00 PM"
-  sunday: "12:00 - 5:00 PM"
+  monday: "11:00 AM–6:00 PM"
+  tuesday: "11:00 AM–6:00 PM"
+  wednesday: "11:00 AM–6:00 PM"
+  thursday: "11:00 AM–6:00 PM"
+  friday: "11:00 AM–6:00 PM"
+  saturday: "11:00 AM–6:00 PM"
+  sunday: "12:00 PM–5:00 PM"
 photos: ["/photos/urban-brows-1.jpg", "/photos/urban-brows-2.jpg", "/photos/urban-brows-3.jpg"]
 rating: 4.7
-review_count: 54
+review_count: 57
 price_range: "$$"
 amenities:
 

@@ -11,16 +11,16 @@ phone: "(780) 757-4338"
 website: "https://the-hair-loft-yeg.square.site/"
 google_maps_url: "https://maps.google.com/?cid=3344538256379646644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 7:00 PM"
-  tuesday: "10:00 AM - 7:00 PM"
-  wednesday: "10:00 AM - 7:00 PM"
-  thursday: "10:00 AM - 7:00 PM"
-  friday: "10:00 AM - 7:00 PM"
-  saturday: "11:00 AM - 5:00 PM"
-  sunday: "11:00 AM - 5:00 PM"
+  monday: "10:00 AM–7:00 PM"
+  tuesday: "10:00 AM–7:00 PM"
+  wednesday: "10:00 AM–7:00 PM"
+  thursday: "10:00 AM–7:00 PM"
+  friday: "10:00 AM–7:00 PM"
+  saturday: "11:00 AM–5:00 PM"
+  sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/the-hair-loft-yeg-1.jpg", "/photos/the-hair-loft-yeg-2.jpg", "/photos/the-hair-loft-yeg-3.jpg"]
 rating: 4.8
-review_count: 311
+review_count: 312
 price_range: "$$"
 amenities:
 
@@ -46,8 +46,8 @@ reviews:
     rating: 5
     comment: |
       My first time coming here and I had Hannah do my hair. I went to see her photos on instagram before coming in and already knew she would do a great job. She did amazing and beyond my expectations, it was a quick and easy service, and she was really nice and knew what she was doing. Also very affordable. Honestly, the best haircut and styling i’ve ever had done! I would 10/10 recommend if youre looking for something in a good price range and if you’re new to Edmonton! Im in love 😇
-  - name: "Jana"
+  - name: "Ivoria Miller"
     rating: 5
     comment: |
-      Medina is so incredibly talented. She delivers results like no other. Whether it's cut, colour, hair treatments, or styling, I can recommend her with 100% certainty that she'll give you exactly what you want. Her practice is flawless. Her skills are also super versatile and she can do absolutely everything with perfection. She's also super charismatic and attentive!! Highly recommend getting your hair done at this salon and working with Medina.
+      Mimzy is an actual cosmetology MAGICIAN!! Their work is so amazing. They're incredible, stunning, delicious work is affordable and makes for a day of fun. Not only do they do your hair perfectly, they also teach you and walk you through each step they make to achieve the finished product. Whether it's styling, cutting, or coloring, you are informed every step of the way. They're super super kind, making everyone feel welcome, have a ton of fun, make sure everyone is comfortable. I look forward and enjoy every single appointment I have with Mimzy and can't wait for the next one. If you are going to see any hairstylist—let it be them 🙏🙏
 ---

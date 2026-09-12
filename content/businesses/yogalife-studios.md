@@ -11,13 +11,13 @@ phone: "(780) 328-3927"
 website: "https://www.yogalifestudios.ca/south-edmonton-yoga-studio/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_location=south"
 google_maps_url: "https://maps.google.com/?cid=9897942733862655909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 12:00 PM, 5:00 - 8:00 PM"
-  tuesday: "9:00 AM - 12:00 PM, 5:00 - 8:00 PM"
-  wednesday: "9:00 AM - 12:00 PM, 5:00 - 8:00 PM"
-  thursday: "9:00 AM - 12:00 PM, 5:00 - 8:00 PM"
-  friday: "9:00 AM - 12:00 PM, 5:00 - 7:30 PM"
-  saturday: "8:00 AM - 2:00 PM"
-  sunday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–12:00 PM"
+  tuesday: "9:00 AM–12:00 PM"
+  wednesday: "9:00 AM–12:00 PM"
+  thursday: "9:00 AM–12:00 PM"
+  friday: "9:00 AM–12:00 PM"
+  saturday: "8:00 AM–2:00 PM"
+  sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/yogalife-studios-1.jpg", "/photos/yogalife-studios-2.jpg", "/photos/yogalife-studios-3.jpg"]
 rating: 4.6
 review_count: 212

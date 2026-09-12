@@ -11,16 +11,16 @@ phone: "(780) 452-0281"
 website: "https://www.medicentres.com/medicentre-locations/westgrove-medicentre/?utm_source=G&utm_medium=lpm&utm_campaign=medicentres"
 google_maps_url: "https://maps.google.com/?cid=1854968775279642328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 9:00 PM"
-  tuesday: "9:00 AM - 9:00 PM"
-  wednesday: "9:00 AM - 9:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–9:00 PM"
+  tuesday: "9:00 AM–9:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/westgrove-medicentres-family-care-clinics-1.jpg", "/photos/westgrove-medicentres-family-care-clinics-2.jpg", "/photos/westgrove-medicentres-family-care-clinics-3.jpg"]
 rating: 4.2
-review_count: 300
+review_count: 303
 price_range: "$$"
 amenities:
 

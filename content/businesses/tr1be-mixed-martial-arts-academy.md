@@ -11,16 +11,16 @@ phone: "(780) 716-5420"
 website: "https://tr1be.ca/"
 google_maps_url: "https://maps.google.com/?cid=11490535104892366145&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:45 - 9:00 PM"
+  monday: "7:45 PM–9:00 PM"
   tuesday: "Closed"
-  wednesday: "7:45 - 9:00 PM"
-  thursday: "7:45 - 9:00 PM"
-  friday: "7:45 - 9:00 PM"
-  saturday: "1:45 - 5:00 PM"
-  sunday: "2:30 - 5:00 PM"
+  wednesday: "7:45 PM–9:00 PM"
+  thursday: "7:45 PM–9:00 PM"
+  friday: "7:45 PM–9:00 PM"
+  saturday: "1:45 PM–5:00 PM"
+  sunday: "2:30 PM–5:00 PM"
 photos: ["/photos/tr1be-mixed-martial-arts-academy-1.jpg", "/photos/tr1be-mixed-martial-arts-academy-2.jpg", "/photos/tr1be-mixed-martial-arts-academy-3.jpg"]
 rating: 5
-review_count: 50
+review_count: 51
 price_range: "$$"
 amenities:
 

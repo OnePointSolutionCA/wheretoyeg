@@ -12,15 +12,15 @@ website: "http://www.theartofcake.ca/"
 google_maps_url: "https://maps.google.com/?cid=12163525646204582877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "10:00 AM - 6:00 PM"
-  wednesday: "10:00 AM - 6:00 PM"
-  thursday: "10:00 AM - 6:00 PM"
-  friday: "10:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 9:00 PM"
-  sunday: "10:00 AM - 5:00 PM"
+  tuesday: "10:00 AM–6:00 PM"
+  wednesday: "10:00 AM–6:00 PM"
+  thursday: "10:00 AM–6:00 PM"
+  friday: "10:00 AM–9:00 PM"
+  saturday: "10:00 AM–9:00 PM"
+  sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/the-art-of-cake-1.jpg", "/photos/the-art-of-cake-2.jpg", "/photos/the-art-of-cake-3.jpg"]
 rating: 4.7
-review_count: 700
+review_count: 701
 price_range: "$"
 amenities:
   - "Dine-In"

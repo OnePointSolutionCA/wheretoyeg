@@ -11,16 +11,16 @@ phone: "(587) 635-0792"
 website: "https://www.wingsnob.ca/"
 google_maps_url: "https://maps.google.com/?cid=6189966573485822987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 11:00 PM"
-  tuesday: "11:00 AM - 11:00 PM"
-  wednesday: "11:00 AM - 11:00 PM"
-  thursday: "11:00 AM - 11:00 PM"
-  friday: "11:00 AM - 12:00 AM"
-  saturday: "11:00 AM - 12:00 AM"
-  sunday: "11:00 AM - 10:00 PM"
+  monday: "11:00 AM–11:00 PM"
+  tuesday: "11:00 AM–11:00 PM"
+  wednesday: "11:00 AM–11:00 PM"
+  thursday: "11:00 AM–11:00 PM"
+  friday: "11:00 AM–12:00 AM"
+  saturday: "11:00 AM–12:00 AM"
+  sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/wing-snob-3-1.jpg", "/photos/wing-snob-3-2.jpg", "/photos/wing-snob-3-3.jpg"]
 rating: 4.7
-review_count: 493
+review_count: 492
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -42,10 +42,6 @@ reviews:
     rating: 5
     comment: |
       Hands down the best place to satisfy your wing craving but nothing compares to their specialty fries. They are the best I've ever had! EVER!
-  - name: "BLACKVELVET IN YOUR AREA"
-    rating: 5
-    comment: |
-      Garlic parm fries were so good. The cashier was super nice which is much appreciated and the restaurant and washrooms are clean.
   - name: "meeka triska"
     rating: 5
     comment: |
@@ -54,4 +50,8 @@ reviews:
     rating: 5
     comment: |
       My wife and I ordered Buffalo, Lemon Pepper and Garlic Parmesan wings.    As well as the Garlic Parmesan fries.  Everything was absolutely delicious.  Some of the best, if not the best, wings we’ve had yet.  Flavour wise and chicken wing quality.  The fries were insanely delicious too.  This place exceeded our expectations and we will definitely be back soon.  The staff was very nice, helpful and upbeat.  The restaurant was clean and decorated nicely.  We have nothing but good things to say.
+  - name: "jc"
+    rating: 5
+    comment: |
+      Navjot greeted us with as soon as we walked in. She was very welcoming and super sweet. She helped us decide on the menu and even gave us some recommendations. We took her advice with getting a creamy parm dip with our chicken and it was amazing! She knows her stuff. The food and dip complimented each other very well. I came with my boyfriend and my best friend, we all enjoyed it a lot. I would definitely go to this location more often.
 ---

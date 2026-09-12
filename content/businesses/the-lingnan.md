@@ -11,16 +11,16 @@ phone: "(780) 426-3975"
 website: "http://thelingnan.com/"
 google_maps_url: "https://maps.google.com/?cid=18314965062384308613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "4:30 - 9:00 PM"
+  monday: "4:30 PM–9:00 PM"
   tuesday: "Closed"
-  wednesday: "4:30 - 9:00 PM"
-  thursday: "4:30 - 9:00 PM"
-  friday: "4:30 - 10:00 PM"
-  saturday: "4:30 - 10:00 PM"
-  sunday: "3:30 - 8:00 PM"
+  wednesday: "4:30 PM–9:00 PM"
+  thursday: "4:30 PM–9:00 PM"
+  friday: "4:30 PM–10:00 PM"
+  saturday: "4:30 PM–10:00 PM"
+  sunday: "3:30 PM–8:00 PM"
 photos: ["/photos/the-lingnan-1.jpg", "/photos/the-lingnan-2.jpg", "/photos/the-lingnan-3.jpg"]
 rating: 4.6
-review_count: 1834
+review_count: 1840
 price_range: "$$"
 amenities:
   - "Dine-In"

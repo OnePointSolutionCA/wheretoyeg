@@ -11,16 +11,16 @@ phone: "(780) 784-5237"
 website: "https://thevaultfitness.ca/"
 google_maps_url: "https://maps.google.com/?cid=11876115730610323405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "5:00 AM - 11:00 PM"
-  tuesday: "5:00 AM - 11:00 PM"
-  wednesday: "5:00 AM - 11:00 PM"
-  thursday: "5:00 AM - 11:00 PM"
-  friday: "5:00 AM - 11:00 PM"
-  saturday: "6:00 AM - 10:00 PM"
-  sunday: "6:00 AM - 10:00 PM"
+  monday: "5:00 AM–11:00 PM"
+  tuesday: "5:00 AM–11:00 PM"
+  wednesday: "5:00 AM–11:00 PM"
+  thursday: "5:00 AM–11:00 PM"
+  friday: "5:00 AM–11:00 PM"
+  saturday: "6:00 AM–10:00 PM"
+  sunday: "6:00 AM–10:00 PM"
 photos: ["/photos/the-vault-1.jpg", "/photos/the-vault-2.jpg", "/photos/the-vault-3.jpg"]
 rating: 4.9
-review_count: 84
+review_count: 85
 price_range: "$$"
 amenities:
 

@@ -12,15 +12,15 @@ website: "http://www.tommiesalon.com/"
 google_maps_url: "https://maps.google.com/?cid=18421404183758380304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "10:00 AM - 6:00 PM"
-  wednesday: "10:00 AM - 8:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 6:00 PM"
-  saturday: "9:00 AM - 5:00 PM"
+  tuesday: "10:00 AM–6:00 PM"
+  wednesday: "10:00 AM–8:00 PM"
+  thursday: "10:00 AM–8:00 PM"
+  friday: "10:00 AM–6:00 PM"
+  saturday: "9:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/tommie-salon-1.jpg", "/photos/tommie-salon-2.jpg", "/photos/tommie-salon-3.jpg"]
 rating: 4.9
-review_count: 235
+review_count: 236
 price_range: "$$"
 amenities:
 

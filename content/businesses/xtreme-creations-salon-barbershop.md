@@ -11,16 +11,16 @@ phone: "(780) 458-3141"
 website: "http://www.xtremecreationshair.com/"
 google_maps_url: "https://maps.google.com/?cid=9772952670165393483&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 7:00 PM"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 7:00 PM"
-  saturday: "9:00 AM - 6:00 PM"
-  sunday: "11:00 AM - 4:00 PM"
+  monday: "10:00 AM–7:00 PM"
+  tuesday: "9:00 AM–8:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–7:00 PM"
+  saturday: "9:00 AM–6:00 PM"
+  sunday: "11:00 AM–4:00 PM"
 photos: ["/photos/xtreme-creations-salon-barbershop-1.jpg", "/photos/xtreme-creations-salon-barbershop-2.jpg", "/photos/xtreme-creations-salon-barbershop-3.jpg"]
 rating: 5
-review_count: 334
+review_count: 327
 price_range: "$$"
 amenities:
 

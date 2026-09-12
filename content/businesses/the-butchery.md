@@ -12,11 +12,11 @@ website: "https://www.thebutcheryyeg.ca/"
 google_maps_url: "https://maps.google.com/?cid=15914684663256806455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "10:00 AM - 5:30 PM"
-  wednesday: "10:00 AM - 5:30 PM"
-  thursday: "10:00 AM - 7:30 PM"
-  friday: "10:00 AM - 5:30 PM"
-  saturday: "10:00 AM - 4:30 PM"
+  tuesday: "10:00 AM–5:30 PM"
+  wednesday: "10:00 AM–5:30 PM"
+  thursday: "10:00 AM–7:30 PM"
+  friday: "10:00 AM–5:30 PM"
+  saturday: "10:00 AM–4:30 PM"
   sunday: "Closed"
 photos: ["/photos/the-butchery-1.jpg", "/photos/the-butchery-2.jpg", "/photos/the-butchery-3.jpg"]
 rating: 4.4

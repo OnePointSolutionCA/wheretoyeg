@@ -11,16 +11,16 @@ phone: "(780) 705-5550"
 website: "https://thepizzaspot.ca/the-pizza-spot-wem-edmonton"
 google_maps_url: "https://maps.google.com/?cid=8649753558499147478&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 12:00 AM"
-  tuesday: "11:00 AM - 12:00 AM"
-  wednesday: "11:00 AM - 12:00 AM"
-  thursday: "11:00 AM - 12:00 AM"
-  friday: "11:00 AM - 1:00 AM"
-  saturday: "11:00 AM - 1:00 AM"
-  sunday: "11:00 AM - 12:00 AM"
+  monday: "11:00 AM–11:00 PM"
+  tuesday: "11:00 AM–11:00 PM"
+  wednesday: "11:00 AM–11:00 PM"
+  thursday: "11:00 AM–11:00 PM"
+  friday: "11:00 AM–12:00 AM"
+  saturday: "11:00 AM–12:00 AM"
+  sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/the-pizza-spot-1.jpg", "/photos/the-pizza-spot-2.jpg", "/photos/the-pizza-spot-3.jpg"]
 rating: 4.7
-review_count: 186
+review_count: 197
 price_range: "$$"
 amenities:
   - "Delivery"

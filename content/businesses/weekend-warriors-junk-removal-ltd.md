@@ -11,16 +11,16 @@ phone: "(780) 245-3234"
 website: "http://weekendwarriorsjunk.com/"
 google_maps_url: "https://maps.google.com/?cid=11777548775995034710&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "Open 24 hours"
-  tuesday: "Open 24 hours"
-  wednesday: "Open 24 hours"
-  thursday: "Open 24 hours"
-  friday: "Open 24 hours"
-  saturday: "Open 24 hours"
-  sunday: "Open 24 hours"
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/weekend-warriors-junk-removal-ltd-1.jpg", "/photos/weekend-warriors-junk-removal-ltd-2.jpg", "/photos/weekend-warriors-junk-removal-ltd-3.jpg"]
 rating: 5
-review_count: 405
+review_count: 410
 price_range: "$$"
 amenities:
 

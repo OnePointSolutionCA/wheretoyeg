@@ -11,13 +11,13 @@ phone: "(780) 442-5311"
 website: "http://edmonton.ca/skating"
 google_maps_url: "https://maps.google.com/?cid=1256494176834157417&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 10:00 PM"
-  tuesday: "10:00 AM - 10:00 PM"
-  wednesday: "10:00 AM - 10:00 PM"
-  thursday: "10:00 AM - 10:00 PM"
-  friday: "10:00 AM - 10:00 PM"
-  saturday: "10:00 AM - 10:00 PM"
-  sunday: "10:00 AM - 10:00 PM"
+  monday: "10:00 AM–10:00 PM"
+  tuesday: "10:00 AM–10:00 PM"
+  wednesday: "10:00 AM–10:00 PM"
+  thursday: "10:00 AM–10:00 PM"
+  friday: "10:00 AM–10:00 PM"
+  saturday: "10:00 AM–10:00 PM"
+  sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/victoria-iceway-skating-trail-1.jpg", "/photos/victoria-iceway-skating-trail-2.jpg", "/photos/victoria-iceway-skating-trail-3.jpg"]
 rating: 4.6
 review_count: 120

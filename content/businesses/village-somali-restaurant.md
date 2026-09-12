@@ -11,16 +11,16 @@ phone: "(780) 424-5244"
 website: "https://www.eastafricanvillage.ca/"
 google_maps_url: "https://maps.google.com/?cid=1465547745839827310&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 9:30 PM"
-  tuesday: "11:00 AM - 9:30 PM"
-  wednesday: "11:00 AM - 9:30 PM"
-  thursday: "11:00 AM - 9:30 PM"
-  friday: "11:00 AM - 1:00 PM, 2:00 - 9:30 PM"
-  saturday: "11:00 AM - 9:30 PM"
-  sunday: "11:00 AM - 9:30 PM"
+  monday: "11:00 AM–9:30 PM"
+  tuesday: "11:00 AM–9:30 PM"
+  wednesday: "11:00 AM–9:30 PM"
+  thursday: "11:00 AM–9:30 PM"
+  friday: "11:00 AM–1:00 PM"
+  saturday: "11:00 AM–9:30 PM"
+  sunday: "11:00 AM–9:30 PM"
 photos: ["/photos/village-somali-restaurant-1.jpg", "/photos/village-somali-restaurant-2.jpg", "/photos/village-somali-restaurant-3.jpg"]
 rating: 4.6
-review_count: 206
+review_count: 207
 price_range: "$"
 amenities:
   - "Halal"

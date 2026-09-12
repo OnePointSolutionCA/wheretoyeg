@@ -11,16 +11,16 @@ phone: "(780) 761-8432"
 website: "https://vidadermatology.com/"
 google_maps_url: "https://maps.google.com/?cid=8897834358231396316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:30 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 6:00 PM"
-  friday: "12:00 - 6:00 PM"
-  saturday: "10:00 AM - 2:00 PM"
+  monday: "7:30 AM–6:00 PM"
+  tuesday: "9:00 AM–6:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "9:00 AM–6:00 PM"
+  friday: "12:00 PM–6:00 PM"
+  saturday: "10:00 AM–2:00 PM"
   sunday: "Closed"
 photos: ["/photos/vida-dermatology---west-edmonton-dermatologist-1.jpg", "/photos/vida-dermatology---west-edmonton-dermatologist-2.jpg", "/photos/vida-dermatology---west-edmonton-dermatologist-3.jpg"]
-rating: 4.3
-review_count: 69
+rating: 4.2
+review_count: 73
 price_range: "$$"
 amenities:
 

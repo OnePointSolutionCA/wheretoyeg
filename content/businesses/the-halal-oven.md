@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 700-0202"
 google_maps_url: "https://maps.google.com/?cid=6989100765295410326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "2:30 - 10:30 PM"
-  tuesday: "2:30 - 10:30 PM"
-  wednesday: "2:30 - 10:30 PM"
-  thursday: "2:30 - 10:30 PM"
-  friday: "2:00 - 11:00 PM"
-  saturday: "2:00 - 11:00 PM"
-  sunday: "2:00 - 11:00 PM"
+  monday: "2:30 PM–10:30 PM"
+  tuesday: "2:30 PM–10:30 PM"
+  wednesday: "2:30 PM–10:30 PM"
+  thursday: "2:30 PM–10:30 PM"
+  friday: "2:00 PM–11:00 PM"
+  saturday: "2:00 PM–11:00 PM"
+  sunday: "2:00 PM–11:00 PM"
 photos: ["/photos/the-halal-oven-1.jpg", "/photos/the-halal-oven-2.jpg", "/photos/the-halal-oven-3.jpg"]
 rating: 4.5
-review_count: 97
+review_count: 106
 price_range: "$$"
 amenities:
   - "Halal"

@@ -11,16 +11,16 @@ phone: "(825) 401-3300"
 website: "https://thefaceinstitute.com/"
 google_maps_url: "https://maps.google.com/?cid=13749182449123096589&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "Closed"
-  tuesday: "9:00 AM - 7:00 PM"
-  wednesday: "9:00 AM - 7:00 PM"
-  thursday: "9:00 AM - 7:00 PM"
-  friday: "9:00 AM - 7:00 PM"
+  monday: "10:00 AM–6:00 PM"
+  tuesday: "10:00 AM–6:00 PM"
+  wednesday: "10:00 AM–6:00 PM"
+  thursday: "10:00 AM–6:00 PM"
+  friday: "10:00 AM–6:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/the-face-institute-1.jpg", "/photos/the-face-institute-2.jpg", "/photos/the-face-institute-3.jpg"]
 rating: 5
-review_count: 491
+review_count: 495
 price_range: "$$"
 amenities:
 

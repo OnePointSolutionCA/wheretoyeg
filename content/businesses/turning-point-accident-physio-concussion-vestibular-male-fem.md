@@ -11,16 +11,16 @@ phone: "(587) 412-1626"
 website: "https://www.turningpointphysio.ca/"
 google_maps_url: "https://maps.google.com/?cid=16619943994965225897&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 7:00 PM"
-  tuesday: "9:00 AM - 7:00 PM"
-  wednesday: "9:00 AM - 7:00 PM"
-  thursday: "9:00 AM - 7:00 PM"
-  friday: "9:00 AM - 7:00 PM"
-  saturday: "9:00 AM - 2:00 PM"
+  monday: "9:00 AM–7:00 PM"
+  tuesday: "9:00 AM–7:00 PM"
+  wednesday: "9:00 AM–7:00 PM"
+  thursday: "9:00 AM–7:00 PM"
+  friday: "9:00 AM–7:00 PM"
+  saturday: "9:00 AM–2:00 PM"
   sunday: "Closed"
 photos: ["/photos/turning-point-accident-physio-concussion-vestibular-male-fem-1.jpg", "/photos/turning-point-accident-physio-concussion-vestibular-male-fem-2.jpg", "/photos/turning-point-accident-physio-concussion-vestibular-male-fem-3.jpg"]
 rating: 4.9
-review_count: 178
+review_count: 185
 price_range: "$$"
 amenities:
 
@@ -41,18 +41,12 @@ reviews:
     rating: 5
     comment: |
       Great experienced to this clinic. Cam is an excellent massage therapist who genuinely cares about his patients. He made me feel comfortable right away and focused on the areas that needed the most attention. I felt so much relief after the session. Highly recommended.
-  - name: "Ronna Masongsong"
-    rating: 5
-    comment: |
-      My husband visited this clinic for the first time because it's been really difficult to book an appointment near our home. He told me that Shen and Prasanna were both kind, accommodating, and professional during his visit.
-      
-      Because of his experience, I decided to give it a try for my arm, wrist, and foot pain-and I'm so glad I did. They're not just good, they're amazing!
-      
-      Even after my very first appointment, I already felt relief from the pain. Prasanna sent some exercise video which helped a lot. You can also feel how caring Shen to all of their clients which is an additional factor why I came back to this clinic.
-      
-      Thank you Shen and Prasanna!
   - name: "Amanda Carter"
     rating: 5
     comment: |
       Treatments are very effective. Staff is amazing. Couldn’t be happier. Came here after being hit by a car and spending 3 months in the hospital. They completely understood my need to have my pain relieved as well as providing strength training exercises to get me on the road to recovery.
+  - name: "cynthia champagne"
+    rating: 5
+    comment: |
+      Professional, heartwarming, courteous, knowledgeable which is very uncommon to find. Jay the physiotherapist is a “Magic Man.” I will not ever have any other one person taking care of my body. He advises you of the steps that is needed and warranted. He gives the ultimate best for you every visit!! I definitely recommend any patient to see him otherwise you are losing out in his expertise in helping you heal your body!!!
 ---

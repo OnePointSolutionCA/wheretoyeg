@@ -11,16 +11,16 @@ phone: "(780) 761-1488"
 website: "https://www.trusthomecomfort.com/"
 google_maps_url: "https://maps.google.com/?cid=5548703788265112597&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 7:00 PM"
-  tuesday: "8:00 AM - 7:00 PM"
-  wednesday: "8:00 AM - 7:00 PM"
-  thursday: "8:00 AM - 7:00 PM"
-  friday: "8:00 AM - 7:00 PM"
-  saturday: "8:00 AM - 7:00 PM"
+  monday: "8:00 AM–7:00 PM"
+  tuesday: "8:00 AM–7:00 PM"
+  wednesday: "8:00 AM–7:00 PM"
+  thursday: "8:00 AM–7:00 PM"
+  friday: "8:00 AM–7:00 PM"
+  saturday: "8:00 AM–7:00 PM"
   sunday: "Closed"
 photos: ["/photos/trust-home-comfort-1.jpg", "/photos/trust-home-comfort-2.jpg", "/photos/trust-home-comfort-3.jpg"]
 rating: 5
-review_count: 795
+review_count: 800
 price_range: "$$"
 amenities:
 

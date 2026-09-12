@@ -12,15 +12,15 @@ website: "https://theinjectionist.ca/?utm_source=Google&utm_medium=GMB"
 google_maps_url: "https://maps.google.com/?cid=183288418448632878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "10:00 AM - 6:00 PM"
-  wednesday: "10:00 AM - 6:00 PM"
-  thursday: "10:00 AM - 6:00 PM"
-  friday: "10:00 AM - 6:00 PM"
-  saturday: "9:00 AM - 5:00 PM"
+  tuesday: "10:00 AM–6:00 PM"
+  wednesday: "10:00 AM–6:00 PM"
+  thursday: "10:00 AM–6:00 PM"
+  friday: "10:00 AM–6:00 PM"
+  saturday: "9:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/the-injectionist-aesthetics-1.jpg", "/photos/the-injectionist-aesthetics-2.jpg", "/photos/the-injectionist-aesthetics-3.jpg"]
 rating: 4.7
-review_count: 278
+review_count: 280
 price_range: "$$"
 amenities:
 

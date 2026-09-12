@@ -9,16 +9,16 @@ address: "11510 153 Ave NW"
 neighborhood: "Castle Downs"
 google_maps_url: "https://maps.google.com/?q=YMCA%20of%20Northern%20Alberta%20-%20Castle%20Downs%20Edmonton"
 hours:
-  monday: "6:00 AM - 10:00 PM"
-  tuesday: "6:00 AM - 10:00 PM"
-  wednesday: "6:00 AM - 10:00 PM"
-  thursday: "6:00 AM - 10:00 PM"
-  friday: "6:00 AM - 10:00 PM"
-  saturday: "9:00 AM - 9:00 PM"
-  sunday: "9:00 AM - 9:00 PM"
+  monday: "6:00 AM–10:00 PM"
+  tuesday: "6:00 AM–10:00 PM"
+  wednesday: "6:00 AM–10:00 PM"
+  thursday: "6:00 AM–10:00 PM"
+  friday: "6:00 AM–10:00 PM"
+  saturday: "7:00 AM–8:00 PM"
+  sunday: "7:00 AM–8:00 PM"
 photos: ["/photos/ymca-castle-downs-1.jpg", "/photos/ymca-castle-downs-2.jpg", "/photos/ymca-castle-downs-3.jpg"]
-rating: 4.5
-review_count: 720
+rating: 4.2
+review_count: 246
 price_range: "$$"
 amenities:
   - "Pool"

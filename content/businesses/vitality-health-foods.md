@@ -11,13 +11,13 @@ phone: "(780) 484-2380"
 website: "http://vitalityhealthfoods.ca/"
 google_maps_url: "https://maps.google.com/?cid=1240764584226840107&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 6:00 PM"
-  tuesday: "10:00 AM - 6:00 PM"
-  wednesday: "10:00 AM - 6:00 PM"
-  thursday: "10:00 AM - 6:00 PM"
-  friday: "10:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 5:30 PM"
-  sunday: "12:00 - 5:00 PM"
+  monday: "10:00 AM–6:00 PM"
+  tuesday: "10:00 AM–6:00 PM"
+  wednesday: "10:00 AM–6:00 PM"
+  thursday: "10:00 AM–6:00 PM"
+  friday: "10:00 AM–6:00 PM"
+  saturday: "10:00 AM–5:30 PM"
+  sunday: "12:00 PM–5:00 PM"
 photos: ["/photos/vitality-health-foods-1.jpg", "/photos/vitality-health-foods-2.jpg", "/photos/vitality-health-foods-3.jpg"]
 rating: 4.6
 review_count: 27

@@ -11,16 +11,16 @@ phone: "(780) 807-8778"
 website: "https://winducks.com/edmonton-alberta/"
 google_maps_url: "https://maps.google.com/?cid=7449033337182165694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
+  saturday: "9:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/winducks-gutter-window-cleaning-edmonton-1.jpg", "/photos/winducks-gutter-window-cleaning-edmonton-2.jpg", "/photos/winducks-gutter-window-cleaning-edmonton-3.jpg"]
 rating: 5
-review_count: 161
+review_count: 163
 price_range: "$$"
 amenities:
 

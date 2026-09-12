@@ -17,8 +17,8 @@ hours:
   saturday: "10:00 AM - 11:00 PM"
   sunday: "10:00 AM - 10:00 PM"
 photos: ["/photos/waypoint-esports-lounge-1.jpg", "/photos/waypoint-esports-lounge-2.jpg", "/photos/waypoint-esports-lounge-3.jpg"]
-rating: 4.7
-review_count: 130
+rating: 4.6
+review_count: 166
 price_range: "$$"
 amenities:
   - "Gaming PCs"

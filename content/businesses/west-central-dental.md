@@ -11,16 +11,16 @@ phone: "(587) 206-3118"
 website: "https://www.westcentraldental.ca/site/home?utm_source=G&utm_medium=LPM&utm_campaign=DentalCorp"
 google_maps_url: "https://maps.google.com/?cid=12253984224734786782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:30 AM - 4:00 PM"
-  tuesday: "7:30 AM - 4:00 PM"
-  wednesday: "7:30 AM - 4:00 PM"
-  thursday: "7:30 AM - 4:00 PM"
-  friday: "7:30 AM - 3:00 PM"
+  monday: "7:00 AM–4:00 PM"
+  tuesday: "7:00 AM–4:00 PM"
+  wednesday: "7:00 AM–4:00 PM"
+  thursday: "7:00 AM–4:30 PM"
+  friday: "7:00 AM–3:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/west-central-dental-1.jpg", "/photos/west-central-dental-2.jpg", "/photos/west-central-dental-3.jpg"]
 rating: 4.9
-review_count: 386
+review_count: 387
 price_range: "$$"
 amenities:
 

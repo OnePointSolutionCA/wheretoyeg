@@ -12,11 +12,11 @@ website: "https://www.thenaturalbrowbar.com/"
 google_maps_url: "https://maps.google.com/?cid=13888772868946478615&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "12:00 - 8:00 PM"
-  wednesday: "10:00 AM - 6:00 PM"
-  thursday: "10:00 AM - 6:30 PM"
-  friday: "10:00 AM - 6:00 PM"
-  saturday: "9:00 AM - 3:00 PM"
+  tuesday: "12:00 PM–8:00 PM"
+  wednesday: "10:00 AM–6:00 PM"
+  thursday: "10:00 AM–6:30 PM"
+  friday: "10:00 AM–6:00 PM"
+  saturday: "9:00 AM–3:00 PM"
   sunday: "Closed"
 photos: ["/photos/the-natural-brow-1.jpg", "/photos/the-natural-brow-2.jpg", "/photos/the-natural-brow-3.jpg"]
 rating: 4.9

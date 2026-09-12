@@ -11,16 +11,16 @@ phone: "(780) 483-6638"
 website: "https://www.tntsupermarket.com/"
 google_maps_url: "https://maps.google.com/?cid=17379310190200939551&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 9:30 PM"
-  tuesday: "9:00 AM - 9:30 PM"
-  wednesday: "9:00 AM - 9:30 PM"
-  thursday: "9:00 AM - 9:30 PM"
-  friday: "9:00 AM - 9:30 PM"
-  saturday: "9:00 AM - 9:30 PM"
-  sunday: "9:00 AM - 9:00 PM"
+  monday: "9:00 AM–9:30 PM"
+  tuesday: "9:00 AM–9:30 PM"
+  wednesday: "9:00 AM–9:30 PM"
+  thursday: "9:00 AM–9:30 PM"
+  friday: "9:00 AM–9:30 PM"
+  saturday: "9:00 AM–9:30 PM"
+  sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/tt-supermarket-edmonton-store-1.jpg", "/photos/tt-supermarket-edmonton-store-2.jpg", "/photos/tt-supermarket-edmonton-store-3.jpg"]
 rating: 4.3
-review_count: 4182
+review_count: 4197
 price_range: "$$"
 amenities:
 

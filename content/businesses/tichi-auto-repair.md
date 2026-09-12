@@ -12,16 +12,16 @@ phone: "(780) 456-7844"
 website: "https://tichiautomotive.ca"
 google_maps_url: "https://maps.google.com/?q=Tichi+Auto+Repair+Edmonton"
 hours:
-  monday: "8:00 AM - 6:00 PM"
-  tuesday: "8:00 AM - 6:00 PM"
-  wednesday: "8:00 AM - 6:00 PM"
-  thursday: "8:00 AM - 6:00 PM"
-  friday: "8:00 AM - 6:00 PM"
+  monday: "8:00 AM–6:00 PM"
+  tuesday: "8:00 AM–6:00 PM"
+  wednesday: "8:00 AM–6:00 PM"
+  thursday: "8:00 AM–6:00 PM"
+  friday: "8:00 AM–6:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/tichi-auto-repair-1.jpg", "/photos/tichi-auto-repair-2.jpg", "/photos/tichi-auto-repair-3.jpg"]
-rating: 4.7
-review_count: 100
+rating: 4.6
+review_count: 590
 price_range: "$$"
 amenities:
   - "General Repair"

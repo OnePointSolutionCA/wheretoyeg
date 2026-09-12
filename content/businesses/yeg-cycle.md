@@ -21,7 +21,7 @@ hours:
   sunday: "7:30 AM - 1:30 PM"
 photos: ["/photos/yeg-cycle-1.jpg", "/photos/yeg-cycle-2.jpg", "/photos/yeg-cycle-3.jpg"]
 rating: 4.7
-review_count: 100
+review_count: 132
 price_range: "$$"
 amenities:
   - "Class-Based"

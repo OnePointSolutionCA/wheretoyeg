@@ -11,16 +11,16 @@ phone: "(780) 450-2468"
 website: "http://www.trapped.com/"
 google_maps_url: "https://maps.google.com/?cid=14679872132096418923&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "4:00 - 10:00 PM"
-  tuesday: "4:00 - 10:00 PM"
-  wednesday: "4:00 - 10:00 PM"
-  thursday: "4:00 - 10:00 PM"
-  friday: "4:00 PM - 12:00 AM"
-  saturday: "12:00 PM - 12:00 AM"
-  sunday: "12:00 - 9:00 PM"
+  monday: "4:00 PM–10:00 PM"
+  tuesday: "4:00 PM–10:00 PM"
+  wednesday: "4:00 PM–10:00 PM"
+  thursday: "4:00 PM–10:00 PM"
+  friday: "4:00 PM–12:00 AM"
+  saturday: "12:00 PM–12:00 AM"
+  sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/trapped-escape-room-edmonton-1.jpg", "/photos/trapped-escape-room-edmonton-2.jpg", "/photos/trapped-escape-room-edmonton-3.jpg"]
 rating: 4.8
-review_count: 583
+review_count: 586
 price_range: "$$"
 amenities:
 

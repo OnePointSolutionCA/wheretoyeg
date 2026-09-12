@@ -11,16 +11,16 @@ phone: "(780) 220-0344"
 website: "https://www.trueaestheticsyeg.com/"
 google_maps_url: "https://maps.google.com/?cid=2142581754999234864&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 6:00 PM"
-  tuesday: "10:00 AM - 6:00 PM"
-  wednesday: "10:00 AM - 6:00 PM"
-  thursday: "10:00 AM - 6:00 PM"
-  friday: "10:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
+  monday: "10:00 AM–6:00 PM"
+  tuesday: "10:00 AM–6:00 PM"
+  wednesday: "10:00 AM–6:00 PM"
+  thursday: "10:00 AM–6:00 PM"
+  friday: "10:00 AM–6:00 PM"
+  saturday: "10:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/true-aesthetics-1.jpg", "/photos/true-aesthetics-2.jpg", "/photos/true-aesthetics-3.jpg"]
 rating: 5
-review_count: 615
+review_count: 616
 price_range: "$$"
 amenities:
 
@@ -47,18 +47,14 @@ reviews:
     rating: 5
     comment: |
       I had a great appointment. Shai was so nice and did an amazing job. She was very cautious and made sure I was doing ok with the needles. Truly top tier service and very nice people working at true aesthetics. I 100% recommend to anyone looking at services here. And the new location is very nicely designed and has the perfect aesthetic
-  - name: "K Abilmona"
-    rating: 5
-    comment: |
-      I had a wonderful experience at True Aesthetics during my Botox appointment. From the moment I arrived, everyone was friendly, welcoming, and professional.
-      
-      I'm not very good with needles, and I became lightheaded during the treatment. The esthetician immediately recognized what was happening and handled the situation with incredible professionalism and care. She stayed calm, acted quickly, and made sure I was comfortable and well looked after. It was obvious that she is highly skilled, knowledgeable, and well-trained.
-      
-      Once I was feeling better, the rest of my Botox treatment went smoothly, and I felt completely at ease. I was very impressed by the level of care, expertise, and compassion I received throughout my visit.
-      
-      I highly recommend True Aesthetics to anyone considering Botox or other aesthetic treatments. The team is amazing, and I felt genuinely cared for from start to finish.
   - name: "Mckelvey Kelly"
     rating: 5
     comment: |
       The facility was very clean, quiet, and no strong smells. The front staff was very friendly and easy to access. I got botox with Molly and she was amazing! She has been the best injector I have had to date. She was extremely thorough with her explanations and answered all my questions. She did not try to push services on me and was honest about what she thought might benefit my skin and what would not. I was offered to talk wth the surgeon before receiving any treatments (though I did not take this offer because I trust Molly and her thorough knowledge of injections as an RN). Molly was also very gentle with her injections and really put my needle anxieties at ease. I highly recommend this facility and Molly.
+  - name: "Natalia K"
+    rating: 5
+    comment: |
+      I had a wonderful Hydrafacial at True Aesthetic! The staff was welcoming, professional, and made me feel comfortable from the moment I arrived. My aesthetician  Josh explained every step of the treatment and tailored it to my skin's needs.
+      My skin felt incredibly clean, hydrated, and refreshed right after the facial, with a healthy glow that lasted for days. The clinic was spotless, relaxing, and beautifully maintained.
+      I highly recommend Josh to anyone looking for a professional Hydrafacial and excellent customer service. I'll definitely be coming back!
 ---

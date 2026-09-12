@@ -10,16 +10,16 @@ neighborhood: "Sherwood Park"
 website: "https://www.wizradbarbershop.ca/"
 google_maps_url: "https://maps.google.com/?cid=7839566251733440732&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 8:00 PM"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 8:00 PM"
-  saturday: "9:00 AM - 8:00 PM"
+  monday: "9:00 AM–8:00 PM"
+  tuesday: "9:00 AM–8:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–8:00 PM"
+  saturday: "9:00 AM–8:00 PM"
   sunday: "Closed"
 photos: ["/photos/wizard-barbershop-1.jpg", "/photos/wizard-barbershop-2.jpg", "/photos/wizard-barbershop-3.jpg"]
 rating: 5
-review_count: 40
+review_count: 44
 price_range: "$$"
 amenities:
 
@@ -36,6 +36,10 @@ reviews:
     rating: 5
     comment: |
       Shawn is the best, he cut me so right and perfectly as I wanted and spent so much time and care on my haircut. ABSOLUTELY worth it. If your looking for a barber that does a perfect job, go get a cut by Shawn, he is THE best, not even exaggerating.
+  - name: "aeroll acera"
+    rating: 5
+    comment: |
+      I came in from a small town and stopped by before a concert for a quick haircut. Shawn gave me one of the best haircut I’ve ever had. The service was top tier from start to finish, and I couldn’t be happier with the result. I’ll definitely be making the trip back to see Shawn again. Highly recommend!
   - name: "Clayton Williams"
     rating: 5
     comment: |
@@ -44,8 +48,4 @@ reviews:
     rating: 5
     comment: |
       Best barber I’ve found. I’ve been seeing Shawn for years, and he always takes the time to get the cut exactly right. The results are consistently great, and his attention to detail really shows. Professional, friendly, and easy to book with. I leave happy every time. Highly recommend Shawn to anyone looking for a skilled barber who takes pride in his work.
-  - name: "Darrel Derendorf"
-    rating: 5
-    comment: |
-      Most excellent,  talented barber. Takes his time and does a great job. I highly recommend Shawn. You will not be disappointed.
 ---

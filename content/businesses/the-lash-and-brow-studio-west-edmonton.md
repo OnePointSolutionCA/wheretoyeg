@@ -11,12 +11,12 @@ phone: "(780) 989-7664"
 website: "http://www.lashandbrowstudio.ca/"
 google_maps_url: "https://maps.google.com/?cid=3351568005683799371&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "10:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 4:00 PM"
+  monday: "10:00 AM–6:00 PM"
+  tuesday: "9:00 AM–8:00 PM"
+  wednesday: "10:00 AM–6:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–6:00 PM"
+  saturday: "10:00 AM–4:00 PM"
   sunday: "Closed"
 photos: ["/photos/the-lash-and-brow-studio-west-edmonton-1.jpg", "/photos/the-lash-and-brow-studio-west-edmonton-2.jpg", "/photos/the-lash-and-brow-studio-west-edmonton-3.jpg"]
 rating: 4.6

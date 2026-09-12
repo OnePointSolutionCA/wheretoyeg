@@ -13,13 +13,13 @@ hours:
   monday: "Closed"
   tuesday: "Closed"
   wednesday: "Closed"
-  thursday: "10:00 AM - 4:00 PM"
-  friday: "10:00 AM - 4:00 PM"
-  saturday: "9:00 AM - 4:00 PM"
-  sunday: "10:00 AM - 4:00 PM"
+  thursday: "10:00 AM–4:00 PM"
+  friday: "10:00 AM–4:00 PM"
+  saturday: "9:00 AM–4:00 PM"
+  sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/the-better-baker-1.jpg", "/photos/the-better-baker-2.jpg", "/photos/the-better-baker-3.jpg"]
 rating: 4.6
-review_count: 234
+review_count: 233
 price_range: "$$"
 amenities:
   - "Dine-In"

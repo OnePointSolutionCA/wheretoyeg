@@ -11,13 +11,13 @@ phone: "(780) 450-9642"
 website: "https://yogawithin.ca/"
 google_maps_url: "https://maps.google.com/?cid=5954759955539340587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:30 - 9:30 AM, 5:00 - 7:30 PM"
-  tuesday: "8:30 - 9:30 AM, 10:30 - 11:00 AM, 5:00 - 7:30 PM"
-  wednesday: "8:30 - 9:30 AM, 10:30 - 11:00 AM, 5:00 - 7:30 PM"
-  thursday: "8:30 - 9:30 AM, 10:30 - 11:00 AM, 12:30 - 1:00 PM, 5:00 - 8:00 PM"
-  friday: "8:30 - 9:30 AM"
-  saturday: "9:00 AM - 1:00 PM"
-  sunday: "9:30 AM - 12:00 PM"
+  monday: "8:30 AM–9:30 AM"
+  tuesday: "8:30 AM–9:30 AM"
+  wednesday: "8:30 AM–9:30 AM"
+  thursday: "8:30 AM–9:30 AM"
+  friday: "8:30 AM–9:30 AM"
+  saturday: "9:00 AM–1:00 PM"
+  sunday: "9:30 AM–12:00 PM"
 photos: ["/photos/yoga-within-1.jpg", "/photos/yoga-within-2.jpg", "/photos/yoga-within-3.jpg"]
 rating: 4.9
 review_count: 48

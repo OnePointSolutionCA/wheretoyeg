@@ -11,16 +11,16 @@ phone: "(825) 480-1666"
 website: "https://www.thebiryanibox.ca/edmonton"
 google_maps_url: "https://maps.google.com/?cid=12787959490764309539&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 9:00 PM"
+  monday: "12:00 PM–9:00 PM"
   tuesday: "Closed"
-  wednesday: "12:00 - 9:00 PM"
-  thursday: "12:00 - 9:00 PM"
-  friday: "12:00 - 10:00 PM"
-  saturday: "12:00 - 10:00 PM"
-  sunday: "12:00 - 9:00 PM"
+  wednesday: "12:00 PM–9:00 PM"
+  thursday: "12:00 PM–9:00 PM"
+  friday: "12:00 PM–10:00 PM"
+  saturday: "12:00 PM–10:00 PM"
+  sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/the-biryani-box-edmonton-1.jpg", "/photos/the-biryani-box-edmonton-2.jpg", "/photos/the-biryani-box-edmonton-3.jpg"]
 rating: 4.4
-review_count: 408
+review_count: 423
 price_range: "$$"
 amenities:
   - "Halal"

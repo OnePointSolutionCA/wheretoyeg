@@ -11,16 +11,16 @@ phone: "(780) 484-4203"
 website: "https://locations.chatters.ca/ab-edmonton-ABCH12"
 google_maps_url: "https://maps.google.com/?cid=12180648690905184937&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 8:00 PM"
-  tuesday: "10:00 AM - 8:00 PM"
-  wednesday: "10:00 AM - 8:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 8:00 PM"
-  saturday: "11:00 AM - 6:00 PM"
-  sunday: "11:00 AM - 6:00 PM"
+  monday: "10:00 AM–8:00 PM"
+  tuesday: "10:00 AM–8:00 PM"
+  wednesday: "10:00 AM–8:00 PM"
+  thursday: "10:00 AM–8:00 PM"
+  friday: "10:00 AM–8:00 PM"
+  saturday: "11:00 AM–6:00 PM"
+  sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/the-mensroom-in-mayfield-chatters-1.jpg", "/photos/the-mensroom-in-mayfield-chatters-2.jpg", "/photos/the-mensroom-in-mayfield-chatters-3.jpg"]
 rating: 4.5
-review_count: 231
+review_count: 230
 price_range: "$$"
 amenities:
 

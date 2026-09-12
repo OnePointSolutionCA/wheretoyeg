@@ -11,16 +11,16 @@ phone: "(780) 454-7771"
 website: "https://www.worldsfinestdonair.ca/"
 google_maps_url: "https://maps.google.com/?cid=1033711900222714728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 12:00 AM"
-  tuesday: "11:00 AM - 12:00 AM"
-  wednesday: "11:00 AM - 12:00 AM"
-  thursday: "11:00 AM - 12:00 AM"
-  friday: "11:00 AM - 3:00 AM"
-  saturday: "11:00 AM - 3:00 AM"
-  sunday: "12:00 PM - 12:00 AM"
+  monday: "11:00 AM–12:00 AM"
+  tuesday: "11:00 AM–12:00 AM"
+  wednesday: "11:00 AM–12:00 AM"
+  thursday: "11:00 AM–12:00 AM"
+  friday: "11:00 AM–3:00 AM"
+  saturday: "11:00 AM–3:00 AM"
+  sunday: "12:00 PM–12:00 AM"
 photos: ["/photos/worlds-finest-donair-1.jpg", "/photos/worlds-finest-donair-2.jpg", "/photos/worlds-finest-donair-3.jpg"]
 rating: 4.4
-review_count: 593
+review_count: 596
 price_range: "$"
 amenities:
   - "Halal"

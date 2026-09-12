@@ -11,16 +11,16 @@ phone: "(587) 990-3330"
 website: "https://wecleanpestcontrol.ca/?utm_campaign=gmb"
 google_maps_url: "https://maps.google.com/?cid=2706077006813752072&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 8:00 PM"
-  tuesday: "7:00 AM - 8:00 PM"
-  wednesday: "7:00 AM - 8:00 PM"
-  thursday: "7:00 AM - 8:00 PM"
-  friday: "7:00 AM - 8:00 PM"
-  saturday: "8:00 AM - 5:00 PM"
-  sunday: "8:00 AM - 5:00 PM"
+  monday: "7:00 AM–8:00 PM"
+  tuesday: "7:00 AM–8:00 PM"
+  wednesday: "7:00 AM–8:00 PM"
+  thursday: "7:00 AM–8:00 PM"
+  friday: "7:00 AM–8:00 PM"
+  saturday: "8:00 AM–5:00 PM"
+  sunday: "8:00 AM–5:00 PM"
 photos: ["/photos/we-clean-pest-control-edmonton-1.jpg", "/photos/we-clean-pest-control-edmonton-2.jpg", "/photos/we-clean-pest-control-edmonton-3.jpg"]
 rating: 4.8
-review_count: 857
+review_count: 864
 price_range: "$$$$"
 amenities:
 

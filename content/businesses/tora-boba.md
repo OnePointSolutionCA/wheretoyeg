@@ -11,16 +11,16 @@ phone: "(587) 600-8677"
 website: "http://toraboba.ca/"
 google_maps_url: "https://maps.google.com/?cid=1681277229314999644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 10:00 PM"
-  tuesday: "10:00 AM - 10:00 PM"
-  wednesday: "10:00 AM - 10:00 PM"
-  thursday: "10:00 AM - 10:00 PM"
-  friday: "10:00 AM - 10:00 PM"
-  saturday: "10:00 AM - 10:00 PM"
-  sunday: "10:00 AM - 10:00 PM"
+  monday: "10:00 AM–10:00 PM"
+  tuesday: "10:00 AM–10:00 PM"
+  wednesday: "10:00 AM–10:00 PM"
+  thursday: "10:00 AM–10:00 PM"
+  friday: "10:00 AM–10:00 PM"
+  saturday: "10:00 AM–10:00 PM"
+  sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/tora-boba-1.jpg", "/photos/tora-boba-2.jpg", "/photos/tora-boba-3.jpg"]
 rating: 4.7
-review_count: 184
+review_count: 187
 price_range: "$$"
 amenities:
 

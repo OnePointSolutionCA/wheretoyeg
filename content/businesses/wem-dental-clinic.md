@@ -9,16 +9,16 @@ address: "8882 170 St NW"
 neighborhood: "West Edmonton"
 google_maps_url: "https://maps.google.com/?q=West%20Edmonton%20Mall%20Dental%20Clinic%20Edmonton"
 hours:
-  monday: "9:00 AM - 9:00 PM"
-  tuesday: "9:00 AM - 9:00 PM"
-  wednesday: "9:00 AM - 9:00 PM"
-  thursday: "9:00 AM - 9:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "9:00 AM - 6:00 PM"
-  sunday: "11:00 AM - 5:00 PM"
+  monday: "8:00 AM–6:00 PM"
+  tuesday: "8:00 AM–8:00 PM"
+  wednesday: "8:00 AM–8:00 PM"
+  thursday: "8:00 AM–8:00 PM"
+  friday: "8:00 AM–4:00 PM"
+  saturday: "9:00 AM–3:00 PM"
+  sunday: "Closed"
 photos: ["/photos/wem-dental-clinic-1.jpg", "/photos/wem-dental-clinic-2.jpg", "/photos/wem-dental-clinic-3.jpg"]
-rating: 4.5
-review_count: 720
+rating: 4.9
+review_count: 558
 price_range: "$$"
 amenities:
   - "Direct Billing"

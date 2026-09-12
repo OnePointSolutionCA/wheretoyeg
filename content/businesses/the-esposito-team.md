@@ -11,16 +11,16 @@ phone: "(780) 900-5000"
 website: "http://www.espo.ca/"
 google_maps_url: "https://maps.google.com/?cid=1030299575078570731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "Open 24 hours"
-  tuesday: "Open 24 hours"
-  wednesday: "Open 24 hours"
-  thursday: "Open 24 hours"
-  friday: "Open 24 hours"
-  saturday: "Open 24 hours"
-  sunday: "Open 24 hours"
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/the-esposito-team-1.jpg", "/photos/the-esposito-team-2.jpg", "/photos/the-esposito-team-3.jpg"]
 rating: 5
-review_count: 415
+review_count: 416
 price_range: "$$"
 amenities:
 

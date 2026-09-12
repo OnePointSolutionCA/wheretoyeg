@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 444-8997"
 google_maps_url: "https://maps.google.com/?cid=12609767608880300660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 8:00 PM"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 8:00 PM"
-  saturday: "9:00 AM - 8:00 PM"
-  sunday: "9:00 AM - 7:00 PM"
+  monday: "9:00 AM–8:00 PM"
+  tuesday: "9:00 AM–8:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–8:00 PM"
+  saturday: "9:00 AM–8:00 PM"
+  sunday: "9:00 AM–7:00 PM"
 photos: ["/photos/westgate-halal-meat-deli-mediterranean-foods-1.jpg", "/photos/westgate-halal-meat-deli-mediterranean-foods-2.jpg", "/photos/westgate-halal-meat-deli-mediterranean-foods-3.jpg"]
 rating: 4.3
-review_count: 438
+review_count: 451
 price_range: "$$"
 amenities:
   - "Halal"
@@ -38,7 +38,7 @@ reviews:
     rating: 5
     comment: |
       I had a wonderful experience with their meat section, especially with Alaa. She is amazing and extremely helpful. I regularly order chicken and beef, and they always cut them exactly the way I request. I have also ordered marinated chicken and kafta, and everything was prepared beautifully and with great care from Alaa.. The quality and service are consistently excellent. Highly recommended!
-  - name: "frage aboklaish"
+  - name: "Faraj Lhadi"
     rating: 3
     comment: |
       Please be cautious when shopping at this store. I strongly recommend always monitoring your purchases at the cashier, carefully checking the scanned prices, and making sure to take your receipt every time. Never leave without reviewing it.

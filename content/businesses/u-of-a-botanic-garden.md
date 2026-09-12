@@ -9,16 +9,16 @@ address: "51227 AB-60"
 neighborhood: "West Edmonton"
 google_maps_url: "https://maps.google.com/?q=U%20of%20A%20Botanic%20Garden%20Edmonton"
 hours:
-  monday: "10:00 AM - 5:00 PM"
-  tuesday: "10:00 AM - 5:00 PM"
-  wednesday: "10:00 AM - 5:00 PM"
-  thursday: "10:00 AM - 5:00 PM"
-  friday: "10:00 AM - 5:00 PM"
-  saturday: "10:00 AM - 6:00 PM"
-  sunday: "10:00 AM - 6:00 PM"
+  monday: "10:00 AM–7:00 PM"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "10:00 AM–7:00 PM"
+  saturday: "10:00 AM–7:00 PM"
+  sunday: "10:00 AM–7:00 PM"
 photos: ["/photos/u-of-a-botanic-garden-1.jpg", "/photos/u-of-a-botanic-garden-2.jpg", "/photos/u-of-a-botanic-garden-3.jpg"]
-rating: 4.7
-review_count: 2100
+rating: 4.6
+review_count: 3308
 price_range: "$$"
 amenities:
   - "Family Friendly"

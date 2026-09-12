@@ -9,16 +9,16 @@ address: "8882 170 St NW"
 neighborhood: "West Edmonton"
 google_maps_url: "https://maps.google.com/?q=World%20Waterpark%20Edmonton"
 hours:
-  monday: "10:00 AM - 9:00 PM"
-  tuesday: "10:00 AM - 9:00 PM"
-  wednesday: "10:00 AM - 9:00 PM"
-  thursday: "10:00 AM - 9:00 PM"
-  friday: "10:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 9:00 PM"
-  sunday: "10:00 AM - 9:00 PM"
+  monday: "11:00 AM–4:00 PM"
+  tuesday: "11:00 AM–4:00 PM"
+  wednesday: "11:00 AM–4:00 PM"
+  thursday: "11:00 AM–4:00 PM"
+  friday: "11:00 AM–5:00 PM"
+  saturday: "11:00 AM–6:00 PM"
+  sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/world-waterpark-1.jpg", "/photos/world-waterpark-2.jpg", "/photos/world-waterpark-3.jpg"]
-rating: 4.4
-review_count: 4700
+rating: 4.3
+review_count: 4582
 price_range: "$$$"
 amenities:
   - "Family Friendly"

@@ -15,17 +15,32 @@ photos:
 reviews:
   - name: "AJ Luketa"
     rating: 5
-    comment: "This barber is really good. I really consider you to go there and they really cooked with my haircut. They only opened for 2 months and they already cooked You should really come here if you’re looking forward to get a haircut! 💈💈💈"
+    comment: |
+      This barber is really good. I really consider you to go there and they really cooked with my haircut. They only opened for 2 months and they already cooked You should really come here if you’re looking forward to get a haircut! 💈💈💈
   - name: "Brian Cairn-duff"
     rating: 5
-    comment: "If I could give Mike a 6th star I would, super friendly, fast and very clean"
+    comment: |
+      If I could give Mike a 6th star I would, super friendly, fast and very clean
   - name: "Marc Andrew MANA-AY"
     rating: 5
-    comment: "I’ve been getting my haircuts from Mike since he was still working at his previous barbershop, and I always made sure to go to him because no one cuts my hair like he does. I’ve tried other barbers before, but I was never truly satisfied unless it was Mike’s masterpiece. He’s very consistent, detailed, and always makes sure the haircut is exactly how I want it.  I’m really glad to have found him again here at Top Tier Barbershop. Thanks for the great cuts as always, Mike! Congratulations on the "
+    comment: |
+      I’ve been getting my haircuts from Mike since he was still working at his previous barbershop, and I always made sure to go to him because no one cuts my hair like he does. I’ve tried other barbers before, but I was never truly satisfied unless it was Mike’s masterpiece. He’s very consistent, detailed, and always makes sure the haircut is exactly how I want it.
+      
+      I’m really glad to have found him again here at Top Tier Barbershop. Thanks for the great cuts as always, Mike! Congratulations on the new barbershop and wishing you continued success! Highly recommend him if you want a top-quality haircut.
   - name: "Kaylee MacEachern"
     rating: 5
-    comment: "What a great experience bringing my sensory-sensitive preschooler in for his first big haircut. Mike was amazing!! Welcoming, kind, & patient – it's evident he's experienced and comfortable giving quality cuts to squirmy little boys. My kiddo warmed up so quickly to Mike and the entire shop had similar vibes. It's exceptionally clean and bright in there which makes for a great space. We will absolutely be back :)"
+    comment: |
+      What a great experience bringing my sensory-sensitive preschooler in for his first big haircut. Mike was amazing!! Welcoming, kind, & patient – it's evident he's experienced and comfortable giving quality cuts to squirmy little boys. My kiddo warmed up so quickly to Mike and the entire shop had similar vibes. It's exceptionally clean and bright in there which makes for a great space. We will absolutely be back :)
   - name: "Corbin Bathgate"
     rating: 5
-    comment: "This barber shop is genuinely amazing. the manager there is super nice and the staff are amazing I've only been here once and I can tell that is it now my main barbershop I can not forget I showed manager what haircut I wanted and he perfectly replicated it! Very good barber shop"
+    comment: |
+      This barber shop is genuinely amazing. the manager there is super nice and the staff are amazing I've only been here once and I can tell that is it now my main barbershop I can not forget I showed manager what haircut I wanted and he perfectly replicated it! Very good barber shop
+hours:
+  monday: "9:00 AM–8:00 PM"
+  tuesday: "9:00 AM–8:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–8:00 PM"
+  saturday: "9:00 AM–6:00 PM"
+  sunday: "10:00 AM–5:00 PM"
 ---

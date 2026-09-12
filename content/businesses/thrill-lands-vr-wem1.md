@@ -11,16 +11,16 @@ phone: "(403) 605-1292"
 website: "http://www.thrilllands.com/"
 google_maps_url: "https://maps.google.com/?cid=17272363922198909321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 9:00 PM"
-  tuesday: "10:00 AM - 9:00 PM"
-  wednesday: "10:00 AM - 9:00 PM"
-  thursday: "10:00 AM - 9:00 PM"
-  friday: "10:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 9:00 PM"
-  sunday: "11:00 AM - 6:00 PM"
+  monday: "10:00 AM–9:00 PM"
+  tuesday: "10:00 AM–9:00 PM"
+  wednesday: "10:00 AM–9:00 PM"
+  thursday: "10:00 AM–9:00 PM"
+  friday: "10:00 AM–9:00 PM"
+  saturday: "10:00 AM–9:00 PM"
+  sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/thrill-lands-vr-wem1-1.jpg", "/photos/thrill-lands-vr-wem1-2.jpg", "/photos/thrill-lands-vr-wem1-3.jpg"]
 rating: 4.9
-review_count: 269
+review_count: 266
 price_range: "$$"
 amenities:
 
@@ -33,10 +33,6 @@ reviews:
     comment: |
       Amazing experience at Thrill Land!
       I had such a great time here. The place is fun, clean, and very well organized. I want to give a special shout out to SEENA 💞 She is incredibly kind, patient, and helpful. Her customer service truly made the experience even better. Highly recommend.
-  - name: "Nova Winters"
-    rating: 5
-    comment: |
-      My kids had a great time! They really enjoyed the experience, and we’ll definitely be back.
   - name: "Manjot Sran"
     rating: 5
     comment: |
@@ -49,4 +45,8 @@ reviews:
     rating: 5
     comment: |
       Thrill Lands VR was a great experience for my daughter. The staff was nice enough to let her try on the ride again after she said she didn’t see anything. Great experience overall. Thank you so much.
+  - name: "Christine Houghton"
+    rating: 5
+    comment: |
+      We had a great time here! We've been back several times and tried quite a few of the rides. They're fun and have a wide variety of options.
 ---

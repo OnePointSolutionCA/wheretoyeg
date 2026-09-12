@@ -9,16 +9,16 @@ address: "8523 Argyll Rd NW"
 neighborhood: "South Edmonton"
 google_maps_url: "https://maps.google.com/?q=Vertically%20Inclined%20Rock%20Gym%20Edmonton"
 hours:
-  monday: "6:00 AM - 10:00 PM"
-  tuesday: "6:00 AM - 10:00 PM"
-  wednesday: "6:00 AM - 10:00 PM"
-  thursday: "6:00 AM - 10:00 PM"
-  friday: "6:00 AM - 10:00 PM"
-  saturday: "9:00 AM - 9:00 PM"
-  sunday: "9:00 AM - 9:00 PM"
+  monday: "12:00 PM–10:00 PM"
+  tuesday: "6:00 AM–10:00 PM"
+  wednesday: "12:00 PM–10:00 PM"
+  thursday: "6:00 AM–10:00 PM"
+  friday: "12:00 PM–10:00 PM"
+  saturday: "10:00 AM–10:00 PM"
+  sunday: "12:00 PM–8:00 PM"
 photos: ["/photos/vertically-inclined-rock-gym-1.jpg", "/photos/vertically-inclined-rock-gym-2.jpg", "/photos/vertically-inclined-rock-gym-3.jpg"]
-rating: 4.7
-review_count: 620
+rating: 4.6
+review_count: 462
 price_range: "$$"
 amenities:
   - "Beginner Friendly"

@@ -11,16 +11,16 @@ phone: "(780) 456-6447"
 website: "https://www.thecaptainsboil.com/"
 google_maps_url: "https://maps.google.com/?cid=4255375179839468386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 9:00 PM"
-  tuesday: "12:00 - 9:00 PM"
-  wednesday: "12:00 - 9:00 PM"
-  thursday: "12:00 - 9:00 PM"
-  friday: "12:00 - 10:30 PM"
-  saturday: "11:00 AM - 10:30 PM"
-  sunday: "11:00 AM - 9:00 PM"
+  monday: "12:00 PM–9:00 PM"
+  tuesday: "12:00 PM–9:00 PM"
+  wednesday: "12:00 PM–9:00 PM"
+  thursday: "12:00 PM–9:00 PM"
+  friday: "12:00 PM–10:30 PM"
+  saturday: "11:00 AM–10:30 PM"
+  sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/the-captains-boil-1.jpg", "/photos/the-captains-boil-2.jpg", "/photos/the-captains-boil-3.jpg"]
 rating: 4.2
-review_count: 787
+review_count: 794
 price_range: "$$"
 amenities:
   - "Dine-In"

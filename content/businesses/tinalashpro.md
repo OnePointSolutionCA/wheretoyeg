@@ -10,13 +10,13 @@ neighborhood: "Edmonton"
 phone: "(780) 716-4568"
 google_maps_url: "https://maps.google.com/?cid=4852150489421351962&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "6:00 AM - 9:00 PM"
-  tuesday: "6:00 AM - 9:00 PM"
-  wednesday: "6:00 AM - 9:00 PM"
-  thursday: "6:00 AM - 9:00 PM"
-  friday: "6:00 AM - 9:00 PM"
-  saturday: "6:00 AM - 9:00 PM"
-  sunday: "9:00 AM - 10:00 PM"
+  monday: "6:00 AM–9:00 PM"
+  tuesday: "6:00 AM–9:00 PM"
+  wednesday: "6:00 AM–9:00 PM"
+  thursday: "6:00 AM–9:00 PM"
+  friday: "6:00 AM–9:00 PM"
+  saturday: "6:00 AM–9:00 PM"
+  sunday: "9:00 AM–10:00 PM"
 photos: ["/photos/tinalashpro-1.jpg", "/photos/tinalashpro-2.jpg", "/photos/tinalashpro-3.jpg"]
 rating: 4.8
 review_count: 138

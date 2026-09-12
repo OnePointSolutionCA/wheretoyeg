@@ -19,7 +19,7 @@ hours:
   sunday: "11:00 AM - 9:00 PM"
 photos: ["/photos/three-boars-1.jpg", "/photos/three-boars-2.jpg", "/photos/three-boars-3.jpg"]
 rating: 4.5
-review_count: 348
+review_count: 347
 price_range: "$$"
 amenities:
   - "Dine-In"

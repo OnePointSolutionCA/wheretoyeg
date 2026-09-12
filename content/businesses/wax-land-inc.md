@@ -12,15 +12,15 @@ website: "https://waxingland.com/"
 google_maps_url: "https://maps.google.com/?cid=18017660739010816515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "10:00 AM - 8:00 PM"
-  wednesday: "10:00 AM - 8:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 8:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
+  tuesday: "10:00 AM–8:00 PM"
+  wednesday: "10:00 AM–8:00 PM"
+  thursday: "10:00 AM–8:00 PM"
+  friday: "10:00 AM–8:00 PM"
+  saturday: "10:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/wax-land-inc-1.jpg", "/photos/wax-land-inc-2.jpg", "/photos/wax-land-inc-3.jpg"]
 rating: 5
-review_count: 425
+review_count: 426
 price_range: "$$"
 amenities:
 

@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "West Edmonton"
 google_maps_url: "https://maps.google.com/?q=Ultrazone%20Laser%20Tag%20Edmonton%20Edmonton"
 hours:
-  monday: "12:00 PM - 10:00 PM"
-  tuesday: "12:00 PM - 10:00 PM"
-  wednesday: "12:00 PM - 10:00 PM"
-  thursday: "12:00 PM - 10:00 PM"
-  friday: "11:00 AM - 11:00 PM"
-  saturday: "10:00 AM - 11:00 PM"
-  sunday: "10:00 AM - 10:00 PM"
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "4:30 PM–9:00 PM"
+  thursday: "4:30 PM–9:00 PM"
+  friday: "4:30 PM–10:30 PM"
+  saturday: "10:00 AM–10:30 PM"
+  sunday: "11:00 AM–7:00 PM"
 photos: ["/photos/ultrazone-laser-tag-1.jpg", "/photos/ultrazone-laser-tag-2.jpg", "/photos/ultrazone-laser-tag-3.jpg"]
-rating: 4.4
-review_count: 240
+rating: 4.6
+review_count: 880
 price_range: "$$"
 amenities:
   - "Group Bookings"

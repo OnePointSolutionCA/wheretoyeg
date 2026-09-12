@@ -11,16 +11,16 @@ phone: "(780) 758-5466"
 website: "http://www.westchesterboxingedmonton.com/"
 google_maps_url: "https://maps.google.com/?cid=6489604299016371969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "6:00 AM - 8:00 PM"
-  tuesday: "6:00 AM - 8:00 PM"
-  wednesday: "6:00 AM - 8:00 PM"
-  thursday: "6:00 AM - 8:00 PM"
-  friday: "6:00 AM - 8:00 PM"
+  monday: "6:00 AM–8:00 PM"
+  tuesday: "6:00 AM–8:00 PM"
+  wednesday: "6:00 AM–8:00 PM"
+  thursday: "6:00 AM–8:00 PM"
+  friday: "6:00 AM–8:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/westchester-amateur-boxing-club-1.jpg", "/photos/westchester-amateur-boxing-club-2.jpg", "/photos/westchester-amateur-boxing-club-3.jpg"]
 rating: 5
-review_count: 49
+review_count: 50
 price_range: "$$"
 amenities:
 

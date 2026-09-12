@@ -11,16 +11,16 @@ phone: "(780) 818-2180"
 website: "http://www.whiterabbiticecream.com/"
 google_maps_url: "https://maps.google.com/?cid=13371898611228917632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 10:00 PM"
-  tuesday: "12:00 - 10:00 PM"
-  wednesday: "12:00 - 10:00 PM"
-  thursday: "12:00 - 10:00 PM"
-  friday: "12:00 - 11:00 PM"
-  saturday: "12:00 - 11:00 PM"
-  sunday: "12:00 - 10:00 PM"
+  monday: "12:00 PM–10:00 PM"
+  tuesday: "12:00 PM–10:00 PM"
+  wednesday: "12:00 PM–10:00 PM"
+  thursday: "12:00 PM–10:00 PM"
+  friday: "12:00 PM–11:00 PM"
+  saturday: "12:00 PM–11:00 PM"
+  sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/white-rabbit-ice-cream-1.jpg", "/photos/white-rabbit-ice-cream-2.jpg", "/photos/white-rabbit-ice-cream-3.jpg"]
 rating: 4.8
-review_count: 413
+review_count: 418
 price_range: "$$"
 amenities:
   - "Dine-In"

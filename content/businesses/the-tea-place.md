@@ -11,16 +11,16 @@ phone: "(780) 452-3431"
 website: "http://theteaplace.ca/"
 google_maps_url: "https://maps.google.com/?cid=12558012598207045471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 10:00 PM"
-  tuesday: "10:00 AM - 10:00 PM"
-  wednesday: "10:00 AM - 10:00 PM"
-  thursday: "10:00 AM - 10:00 PM"
-  friday: "10:00 AM - 10:00 PM"
-  saturday: "10:00 AM - 10:00 PM"
-  sunday: "12:00 - 6:00 PM"
+  monday: "10:00 AM–10:00 PM"
+  tuesday: "10:00 AM–10:00 PM"
+  wednesday: "10:00 AM–10:00 PM"
+  thursday: "10:00 AM–10:00 PM"
+  friday: "10:00 AM–10:00 PM"
+  saturday: "10:00 AM–10:00 PM"
+  sunday: "12:00 PM–6:00 PM"
 photos: ["/photos/the-tea-place-1.jpg", "/photos/the-tea-place-2.jpg", "/photos/the-tea-place-3.jpg"]
 rating: 4.4
-review_count: 516
+review_count: 517
 price_range: "$$"
 amenities:
   - "Dine-In"

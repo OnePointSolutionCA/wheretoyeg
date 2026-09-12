@@ -11,16 +11,16 @@ phone: "(780) 433-6768"
 website: "http://www.yiannistaverna.ca/"
 google_maps_url: "https://maps.google.com/?cid=3070692494004038763&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "5:00 - 10:00 PM"
-  tuesday: "11:30 AM - 10:00 PM"
-  wednesday: "11:30 AM - 10:00 PM"
-  thursday: "11:30 AM - 10:00 PM"
-  friday: "11:30 AM - 10:00 PM"
-  saturday: "11:30 AM - 10:00 PM"
-  sunday: "5:00 - 9:00 PM"
+  monday: "5:00 PM–10:00 PM"
+  tuesday: "11:30 AM–10:00 PM"
+  wednesday: "11:30 AM–10:00 PM"
+  thursday: "11:30 AM–10:00 PM"
+  friday: "11:30 AM–10:00 PM"
+  saturday: "11:30 AM–10:00 PM"
+  sunday: "5:00 PM–9:00 PM"
 photos: ["/photos/yiannis-taverna-greek-restaurant-1.jpg", "/photos/yiannis-taverna-greek-restaurant-2.jpg", "/photos/yiannis-taverna-greek-restaurant-3.jpg"]
 rating: 4.4
-review_count: 993
+review_count: 992
 price_range: "$$"
 amenities:
   - "Dine-In"

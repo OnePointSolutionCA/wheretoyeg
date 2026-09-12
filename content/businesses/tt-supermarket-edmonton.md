@@ -9,16 +9,16 @@ address: "8882 170 St NW"
 neighborhood: "West Edmonton"
 google_maps_url: "https://maps.google.com/?q=T%26T%20Supermarket%20Edmonton%20Edmonton"
 hours:
-  monday: "9:00 AM - 8:00 PM"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 8:00 PM"
-  sunday: "10:00 AM - 6:00 PM"
+  monday: "9:00 AM–9:30 PM"
+  tuesday: "9:00 AM–9:30 PM"
+  wednesday: "9:00 AM–9:30 PM"
+  thursday: "9:00 AM–9:30 PM"
+  friday: "9:00 AM–9:30 PM"
+  saturday: "9:00 AM–9:30 PM"
+  sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/tt-supermarket-edmonton-1.jpg", "/photos/tt-supermarket-edmonton-2.jpg", "/photos/tt-supermarket-edmonton-3.jpg"]
-rating: 4.5
-review_count: 890
+rating: 4.3
+review_count: 4197
 price_range: "$$"
 amenities:
   - "Fresh Seafood"

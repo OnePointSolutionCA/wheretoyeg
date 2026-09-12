@@ -11,12 +11,12 @@ phone: "(780) 425-5367"
 website: "https://www.thompsonoptics.com/"
 google_maps_url: "https://maps.google.com/?cid=8641894945818717637&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:30 PM"
-  tuesday: "9:00 AM - 5:30 PM"
-  wednesday: "9:00 AM - 5:30 PM"
-  thursday: "9:00 AM - 6:30 PM"
-  friday: "9:00 AM - 5:30 PM"
-  saturday: "9:00 AM - 2:00 PM"
+  monday: "9:00 AM–5:30 PM"
+  tuesday: "9:00 AM–5:30 PM"
+  wednesday: "9:00 AM–5:30 PM"
+  thursday: "9:00 AM–6:30 PM"
+  friday: "9:00 AM–5:30 PM"
+  saturday: "9:00 AM–2:00 PM"
   sunday: "Closed"
 photos: ["/photos/thompson-optics-1.jpg", "/photos/thompson-optics-2.jpg", "/photos/thompson-optics-3.jpg"]
 rating: 4.6

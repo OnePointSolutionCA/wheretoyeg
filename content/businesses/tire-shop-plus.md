@@ -11,16 +11,16 @@ phone: "(780) 455-7467"
 website: "https://pahadanchuk.github.io/tire-shop-plus/"
 google_maps_url: "https://maps.google.com/?cid=7670297946853503951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:30 AM - 5:00 PM"
-  tuesday: "8:30 AM - 5:00 PM"
-  wednesday: "8:30 AM - 5:00 PM"
-  thursday: "8:30 AM - 5:00 PM"
-  friday: "8:30 AM - 5:00 PM"
-  saturday: "8:30 AM - 3:00 PM"
+  monday: "8:30 AM–5:00 PM"
+  tuesday: "8:30 AM–5:00 PM"
+  wednesday: "8:30 AM–5:00 PM"
+  thursday: "8:30 AM–5:00 PM"
+  friday: "8:30 AM–5:00 PM"
+  saturday: "8:30 AM–3:00 PM"
   sunday: "Closed"
 photos: ["/photos/tire-shop-plus-1.jpg", "/photos/tire-shop-plus-2.jpg", "/photos/tire-shop-plus-3.jpg"]
 rating: 4.3
-review_count: 619
+review_count: 618
 price_range: "$$"
 amenities:
 

@@ -11,16 +11,16 @@ phone: "(587) 990-7739"
 website: "http://www.wildlovephotos.ca/"
 google_maps_url: "https://maps.google.com/?cid=12047251756318087605&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "9:00 AM - 5:00 PM"
-  sunday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
+  saturday: "9:00 AM–5:00 PM"
+  sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/wild-love-photos-1.jpg", "/photos/wild-love-photos-2.jpg", "/photos/wild-love-photos-3.jpg"]
 rating: 5
-review_count: 118
+review_count: 119
 price_range: "$$"
 amenities:
 

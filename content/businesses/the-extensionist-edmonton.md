@@ -11,16 +11,16 @@ phone: "(587) 336-6347"
 website: "http://www.theextensionist.ca/edmontonsouth"
 google_maps_url: "https://maps.google.com/?cid=7417910737596596646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 5:00 PM"
-  tuesday: "10:00 AM - 7:00 PM"
-  wednesday: "10:00 AM - 7:00 PM"
-  thursday: "10:00 AM - 7:00 PM"
-  friday: "10:00 AM - 7:00 PM"
-  saturday: "11:00 AM - 5:00 PM"
-  sunday: "12:00 - 5:00 PM"
+  monday: "11:00 AM–5:00 PM"
+  tuesday: "10:00 AM–7:00 PM"
+  wednesday: "10:00 AM–7:00 PM"
+  thursday: "10:00 AM–7:00 PM"
+  friday: "10:00 AM–7:00 PM"
+  saturday: "11:00 AM–5:00 PM"
+  sunday: "12:00 PM–5:00 PM"
 photos: ["/photos/the-extensionist-edmonton-1.jpg", "/photos/the-extensionist-edmonton-2.jpg", "/photos/the-extensionist-edmonton-3.jpg"]
 rating: 4.7
-review_count: 25
+review_count: 27
 price_range: "$$"
 amenities:
 

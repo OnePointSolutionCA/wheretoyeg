@@ -11,16 +11,16 @@ phone: "(587) 557-2065"
 website: "http://www.traqlab.com/"
 google_maps_url: "https://maps.google.com/?cid=5950080406783963593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 9:00 PM"
-  tuesday: "10:00 AM - 9:00 PM"
-  wednesday: "10:00 AM - 9:00 PM"
-  thursday: "10:00 AM - 9:00 PM"
-  friday: "10:00 AM - 10:00 PM"
-  saturday: "10:00 AM - 10:00 PM"
-  sunday: "10:00 AM - 7:00 PM"
+  monday: "10:00 AM–9:00 PM"
+  tuesday: "10:00 AM–9:00 PM"
+  wednesday: "10:00 AM–9:00 PM"
+  thursday: "10:00 AM–9:00 PM"
+  friday: "10:00 AM–10:00 PM"
+  saturday: "10:00 AM–10:00 PM"
+  sunday: "10:00 AM–7:00 PM"
 photos: ["/photos/traqlab-1.jpg", "/photos/traqlab-2.jpg", "/photos/traqlab-3.jpg"]
 rating: 5
-review_count: 686
+review_count: 687
 price_range: "$$"
 amenities:
 
@@ -32,14 +32,6 @@ reviews:
     rating: 5
     comment: |
       Tried their 737-8 simulator, and it was amazing. Staff was very friendly, and a great experience. The sim is very nice, feels heavy, but is realistic. I highly recommend this to anyone interested in aviation. Great value for the price
-  - name: "Bruno Haje"
-    rating: 5
-    comment: |
-      I was looking into purchasing a simulator racing cockpit for my home, and figured this simulator arcade could steer me into the right direction. When I asked Brandon if he could share where he buys his equipment, he mentioned look no further, you can buy everything from us. I gave him my budget.
-      
-      He took the time to explain the pros/cons of one unit to another, gave me as much time as I needed to sit/test each unit, then helped me narrow down the perfect set-up for my budget. I ended up with an aluminum frame (highly recommend) with an adjustable bucket seat.
-      
-      It me about 4 hours to install (but was relatively straightforward). It completely changed my gaming experience. If you’re looking for a sim racing rig for your home, this is the place to go!
   - name: "Oluwaseun Adewale"
     rating: 5
     comment: |
@@ -63,4 +55,8 @@ reviews:
     rating: 5
     comment: |
       It was a thrill in the sky.  We learned a lot and enjoyed it immensely.  Our instructor was very knowledgeable.
+  - name: "Ryan Debusschere"
+    rating: 5
+    comment: |
+      Josh and the entire Traqlab team truly went above and beyond! My 12-year-old and I spent an incredible couple of hours there and had a great time. The staff were generous with their time. Don't wait—get off your butt and head over there.
 ---

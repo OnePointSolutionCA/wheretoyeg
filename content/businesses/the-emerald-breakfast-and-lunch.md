@@ -9,16 +9,16 @@ address: "6604 178 Ave NW, Edmonton, AB T5Z 0E2"
 neighborhood: "Edmonton"
 google_maps_url: "https://maps.google.com/?cid=17792036149826527803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 3:00 PM"
-  tuesday: "7:00 AM - 3:00 PM"
-  wednesday: "7:00 AM - 3:00 PM"
-  thursday: "7:00 AM - 3:00 PM"
-  friday: "7:00 AM - 3:00 PM"
-  saturday: "7:00 AM - 3:00 PM"
-  sunday: "7:00 AM - 3:00 PM"
+  monday: "7:00 AM–3:00 PM"
+  tuesday: "7:00 AM–3:00 PM"
+  wednesday: "7:00 AM–3:00 PM"
+  thursday: "7:00 AM–3:00 PM"
+  friday: "7:00 AM–3:00 PM"
+  saturday: "7:00 AM–3:00 PM"
+  sunday: "7:00 AM–3:00 PM"
 photos: ["/photos/the-emerald-breakfast-and-lunch-1.jpg", "/photos/the-emerald-breakfast-and-lunch-2.jpg", "/photos/the-emerald-breakfast-and-lunch-3.jpg"]
 rating: 4.7
-review_count: 69
+review_count: 78
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -38,10 +38,6 @@ reviews:
     rating: 5
     comment: |
       Finally, a fantastic breakfast and lunch spot on the Northside! I am so happy to have an authentic Irish restaurant in this part of the city. I tried the sausage rolls and they were perfect the pastry was incredibly flakey and the sausage was top-tier. It actually reminded me of having one sitting at a pub in Cork. On top of the food, the owner-operators are so friendly and welcoming. I cannot recommend this place enough!
-  - name: "Wendell Aberle"
-    rating: 5
-    comment: |
-      I had breakfast here today and it was amazing. Best part was its close to $5.00 cheaper than my usual spot. Food was sooo good.
   - name: "leah nolan"
     rating: 5
     comment: |
@@ -50,4 +46,8 @@ reviews:
     rating: 5
     comment: |
       Anastasia was an awesome server!  Food was tasty. Great service!!
+  - name: "Trish T"
+    rating: 5
+    comment: |
+      Loved the atmosphere and menu.  My new go to place.  My parents were with me and they loved it as well.  So glad this is in the neighbourhood.  Irish soda bread and Barry's tea were great!!
 ---

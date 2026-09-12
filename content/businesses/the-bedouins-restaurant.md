@@ -11,16 +11,16 @@ phone: "(780) 478-6979"
 website: "http://thebedouinsrestaurant.com/"
 google_maps_url: "https://maps.google.com/?cid=12759620958592466302&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 9:30 PM"
-  tuesday: "12:00 - 9:30 PM"
-  wednesday: "12:00 - 9:30 PM"
-  thursday: "12:00 - 9:30 PM"
-  friday: "12:00 - 10:00 PM"
-  saturday: "12:00 - 10:00 PM"
-  sunday: "12:00 - 9:00 PM"
+  monday: "12:00 PM–9:30 PM"
+  tuesday: "12:00 PM–9:30 PM"
+  wednesday: "12:00 PM–9:30 PM"
+  thursday: "12:00 PM–9:30 PM"
+  friday: "12:00 PM–10:00 PM"
+  saturday: "12:00 PM–10:00 PM"
+  sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/the-bedouins-restaurant-1.jpg", "/photos/the-bedouins-restaurant-2.jpg", "/photos/the-bedouins-restaurant-3.jpg"]
 rating: 4.7
-review_count: 1960
+review_count: 1968
 price_range: "$$"
 amenities:
   - "Halal"

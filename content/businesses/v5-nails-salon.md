@@ -12,16 +12,16 @@ phone: "(780) 988-8551"
 website: "https://www.v5nails.com"
 google_maps_url: "https://maps.google.com/?q=V5+Nails+Salon+Spa+Edmonton"
 hours:
-  monday: "10:00 AM - 7:00 PM"
-  tuesday: "10:00 AM - 7:00 PM"
-  wednesday: "10:00 AM - 7:00 PM"
-  thursday: "10:00 AM - 7:00 PM"
-  friday: "10:00 AM - 7:00 PM"
-  saturday: "10:00 AM - 7:00 PM"
+  monday: "10:00 AM–7:00 PM"
+  tuesday: "10:00 AM–7:00 PM"
+  wednesday: "10:00 AM–7:00 PM"
+  thursday: "10:00 AM–7:00 PM"
+  friday: "10:00 AM–7:00 PM"
+  saturday: "10:00 AM–7:00 PM"
   sunday: "Closed"
 photos: ["/photos/v5-nails-salon-1.jpg", "/photos/v5-nails-salon-2.jpg", "/photos/v5-nails-salon-3.jpg"]
-rating: 4.8
-review_count: 520
+rating: 4.9
+review_count: 711
 price_range: "$$"
 amenities:
   - "Gel Nails"

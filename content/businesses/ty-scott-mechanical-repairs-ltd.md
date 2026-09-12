@@ -13,8 +13,14 @@ google_maps: "https://maps.google.com/?cid=9229741851370403454&g_mp=Cidnb29nbGUu
 reviews:
   - name: "Brian Collin"
     rating: 5
-    comment: "Help full cheap storage need a boost he there to help help pulling something on a trailer done"
+    comment: |
+      Help full cheap storage need a boost he there to help help pulling something on a trailer done
   - name: "Marc Jardine"
     rating: 5
-    comment: "Excellent service. Helpful, kind staff."
+    comment: |
+      Excellent service. Helpful, kind staff.
+  - name: "Benita Letendre"
+    rating: 4
+    comment: |
+      Always a pleasure going here
 ---

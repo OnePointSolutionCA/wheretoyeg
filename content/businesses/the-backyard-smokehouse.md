@@ -11,16 +11,16 @@ phone: "(780) 391-7373"
 website: "https://thebackyardsmokehouse.ca/bbq-restaurant-edmonton/"
 google_maps_url: "https://maps.google.com/?cid=3306526830074356543&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 10:00 PM"
-  tuesday: "12:00 - 10:00 PM"
-  wednesday: "12:00 - 10:00 PM"
-  thursday: "12:00 - 10:00 PM"
-  friday: "12:00 - 11:00 PM"
-  saturday: "12:00 - 11:00 PM"
-  sunday: "12:00 - 10:00 PM"
+  monday: "12:00 PM–10:00 PM"
+  tuesday: "12:00 PM–10:00 PM"
+  wednesday: "12:00 PM–10:00 PM"
+  thursday: "12:00 PM–10:00 PM"
+  friday: "12:00 PM–11:00 PM"
+  saturday: "12:00 PM–11:00 PM"
+  sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/the-backyard-smokehouse-1.jpg", "/photos/the-backyard-smokehouse-2.jpg", "/photos/the-backyard-smokehouse-3.jpg"]
 rating: 4.4
-review_count: 2228
+review_count: 2266
 price_range: "$$"
 amenities:
   - "Dine-In"

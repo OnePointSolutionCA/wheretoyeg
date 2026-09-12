@@ -11,16 +11,16 @@ phone: "(780) 503-3093"
 website: "http://valvolineedmonton.ca/"
 google_maps_url: "https://maps.google.com/?cid=6271541834208623132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 7:30 PM"
-  tuesday: "8:00 AM - 7:30 PM"
-  wednesday: "8:00 AM - 7:30 PM"
-  thursday: "8:00 AM - 7:30 PM"
-  friday: "8:00 AM - 7:30 PM"
-  saturday: "8:00 AM - 6:30 PM"
-  sunday: "9:00 AM - 5:30 PM"
+  monday: "8:00 AM–7:30 PM"
+  tuesday: "8:00 AM–7:30 PM"
+  wednesday: "8:00 AM–7:30 PM"
+  thursday: "8:00 AM–7:30 PM"
+  friday: "8:00 AM–7:30 PM"
+  saturday: "8:00 AM–6:30 PM"
+  sunday: "9:00 AM–5:30 PM"
 photos: ["/photos/valvoline-express-care-tires---edmonton-1.jpg", "/photos/valvoline-express-care-tires---edmonton-2.jpg", "/photos/valvoline-express-care-tires---edmonton-3.jpg"]
 rating: 4.8
-review_count: 1774
+review_count: 1771
 price_range: "$$"
 amenities:
 

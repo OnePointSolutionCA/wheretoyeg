@@ -11,16 +11,16 @@ phone: "(780) 250-1300"
 website: "http://thebreadhaus.ca/"
 google_maps_url: "https://maps.google.com/?cid=4638706193843814038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 8:00 PM"
-  tuesday: "7:00 AM - 8:00 PM"
-  wednesday: "7:00 AM - 8:00 PM"
-  thursday: "7:00 AM - 8:00 PM"
-  friday: "7:00 AM - 8:00 PM"
-  saturday: "7:00 AM - 8:00 PM"
-  sunday: "7:00 AM - 8:00 PM"
+  monday: "7:00 AM–8:00 PM"
+  tuesday: "7:00 AM–8:00 PM"
+  wednesday: "7:00 AM–8:00 PM"
+  thursday: "7:00 AM–8:00 PM"
+  friday: "7:00 AM–8:00 PM"
+  saturday: "7:00 AM–8:00 PM"
+  sunday: "7:00 AM–8:00 PM"
 photos: ["/photos/the-breadhaus-1.jpg", "/photos/the-breadhaus-2.jpg", "/photos/the-breadhaus-3.jpg"]
-rating: 4.2
-review_count: 127
+rating: 4.1
+review_count: 128
 price_range: "$$"
 amenities:
   - "Dine-In"

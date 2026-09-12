@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 481-2700"
 google_maps_url: "https://maps.google.com/?cid=10478137119354965911&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 10:00 PM"
-  tuesday: "7:00 AM - 10:00 PM"
-  wednesday: "7:00 AM - 10:00 PM"
-  thursday: "7:00 AM - 10:00 PM"
-  friday: "7:00 AM - 10:00 PM"
-  saturday: "7:00 AM - 10:00 PM"
-  sunday: "7:00 AM - 10:00 PM"
+  monday: "7:00 AM–10:00 PM"
+  tuesday: "7:00 AM–10:00 PM"
+  wednesday: "7:00 AM–10:00 PM"
+  thursday: "7:00 AM–10:00 PM"
+  friday: "7:00 AM–10:00 PM"
+  saturday: "7:00 AM–10:00 PM"
+  sunday: "7:00 AM–10:00 PM"
 photos: ["/photos/zees-car-wash-1.jpg", "/photos/zees-car-wash-2.jpg", "/photos/zees-car-wash-3.jpg"]
 rating: 3.9
-review_count: 541
+review_count: 543
 price_range: "$$"
 amenities:
 

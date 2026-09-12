@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 444-2592"
 google_maps_url: "https://maps.google.com/?cid=16494136927815321622&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:30 AM - 9:00 PM"
-  tuesday: "8:30 AM - 9:00 PM"
-  wednesday: "8:30 AM - 9:00 PM"
-  thursday: "8:30 AM - 9:00 PM"
-  friday: "8:30 AM - 9:00 PM"
-  saturday: "9:00 AM - 9:00 PM"
-  sunday: "9:00 AM - 7:00 PM"
+  monday: "8:30 AM–9:00 PM"
+  tuesday: "8:30 AM–9:00 PM"
+  wednesday: "8:30 AM–9:00 PM"
+  thursday: "8:30 AM–9:00 PM"
+  friday: "8:30 AM–9:00 PM"
+  saturday: "9:00 AM–9:00 PM"
+  sunday: "9:00 AM–7:00 PM"
 photos: ["/photos/westgate-market-halal-meat-deli-1.jpg", "/photos/westgate-market-halal-meat-deli-2.jpg", "/photos/westgate-market-halal-meat-deli-3.jpg"]
 rating: 4.3
-review_count: 220
+review_count: 222
 price_range: "$$"
 amenities:
   - "Halal"

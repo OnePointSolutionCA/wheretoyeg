@@ -11,16 +11,16 @@ phone: "(825) 480-2699"
 website: "https://yemenipalace.com/"
 google_maps_url: "https://maps.google.com/?cid=2429965662608292115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 9:00 PM"
-  tuesday: "11:00 AM - 9:00 PM"
-  wednesday: "11:00 AM - 9:00 PM"
-  thursday: "11:00 AM - 9:00 PM"
-  friday: "11:00 AM - 9:00 PM"
-  saturday: "11:00 AM - 9:00 PM"
-  sunday: "11:00 AM - 9:00 PM"
+  monday: "11:00 AM–9:00 PM"
+  tuesday: "11:00 AM–9:00 PM"
+  wednesday: "11:00 AM–9:00 PM"
+  thursday: "11:00 AM–9:00 PM"
+  friday: "11:00 AM–9:00 PM"
+  saturday: "11:00 AM–9:00 PM"
+  sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/yemeni-palace-restaurant-1.jpg", "/photos/yemeni-palace-restaurant-2.jpg", "/photos/yemeni-palace-restaurant-3.jpg"]
 rating: 4.8
-review_count: 528
+review_count: 568
 price_range: "$$"
 amenities:
   - "Halal"

@@ -13,15 +13,15 @@ website: "https://www.volumesalons.com"
 google_maps_url: "https://maps.google.com/?q=Volume+Salons+Edmonton"
 hours:
   monday: "Closed"
-  tuesday: "10:00 AM - 6:00 PM"
-  wednesday: "10:00 AM - 8:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 8:00 PM"
-  saturday: "9:00 AM - 5:00 PM"
+  tuesday: "9:00 AM–8:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–8:00 PM"
+  saturday: "9:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/volume-salons-1.jpg", "/photos/volume-salons-2.jpg", "/photos/volume-salons-3.jpg"]
 rating: 4.6
-review_count: 24
+review_count: 710
 price_range: "$$$"
 amenities:
   - "Appointments"

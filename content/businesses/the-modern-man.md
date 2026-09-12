@@ -12,11 +12,11 @@ website: "http://modernmansalon.ca/"
 google_maps_url: "https://maps.google.com/?cid=13613347075050016873&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "10:00 AM - 8:00 PM"
-  wednesday: "10:00 AM - 8:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
+  tuesday: "10:00 AM–8:00 PM"
+  wednesday: "10:00 AM–8:00 PM"
+  thursday: "10:00 AM–8:00 PM"
+  friday: "10:00 AM–6:00 PM"
+  saturday: "10:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/the-modern-man-1.jpg", "/photos/the-modern-man-2.jpg", "/photos/the-modern-man-3.jpg"]
 rating: 5

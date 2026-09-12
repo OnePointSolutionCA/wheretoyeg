@@ -11,16 +11,16 @@ phone: "(780) 434-4344"
 website: "https://twosmallmen.com/locations/alberta/edmonton?utm_source=google&utm_medium=organic&utm_campaign=gbp-edmonton"
 google_maps_url: "https://maps.google.com/?cid=7728306546271390619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 7:00 PM"
-  tuesday: "7:00 AM - 7:00 PM"
-  wednesday: "7:00 AM - 7:00 PM"
-  thursday: "7:00 AM - 7:00 PM"
-  friday: "7:00 AM - 7:00 PM"
-  saturday: "8:00 AM - 5:30 PM"
-  sunday: "8:00 AM - 5:30 PM"
+  monday: "7:00 AM–7:00 PM"
+  tuesday: "7:00 AM–7:00 PM"
+  wednesday: "7:00 AM–7:00 PM"
+  thursday: "7:00 AM–7:00 PM"
+  friday: "7:00 AM–7:00 PM"
+  saturday: "8:00 AM–5:30 PM"
+  sunday: "8:00 AM–5:30 PM"
 photos: ["/photos/two-small-men-with-big-hearts-moving-1.jpg", "/photos/two-small-men-with-big-hearts-moving-2.jpg", "/photos/two-small-men-with-big-hearts-moving-3.jpg"]
 rating: 4.7
-review_count: 1503
+review_count: 1511
 price_range: "$$$$"
 amenities:
 

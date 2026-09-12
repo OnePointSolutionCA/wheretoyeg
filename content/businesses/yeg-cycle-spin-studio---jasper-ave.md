@@ -11,16 +11,16 @@ phone: "(587) 525-2700"
 website: "http://www.yegcycle.com/"
 google_maps_url: "https://maps.google.com/?cid=9810313903168234548&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "5:30 AM - 1:30 PM, 4:30 - 8:00 PM"
-  tuesday: "5:30 AM - 1:30 PM, 4:30 - 8:30 PM"
-  wednesday: "5:30 AM - 1:30 PM, 4:30 - 8:30 PM"
-  thursday: "5:30 AM - 1:30 PM, 4:30 - 8:30 PM"
-  friday: "5:30 AM - 1:30 PM, 4:30 - 8:30 PM"
-  saturday: "7:30 AM - 1:30 PM"
-  sunday: "7:30 AM - 1:30 PM"
+  monday: "5:30 AM–1:30 PM"
+  tuesday: "5:30 AM–1:30 PM"
+  wednesday: "5:30 AM–1:30 PM"
+  thursday: "5:30 AM–1:30 PM"
+  friday: "5:30 AM–1:30 PM"
+  saturday: "7:30 AM–1:30 PM"
+  sunday: "7:30 AM–1:30 PM"
 photos: ["/photos/yeg-cycle-spin-studio---jasper-ave-1.jpg", "/photos/yeg-cycle-spin-studio---jasper-ave-2.jpg", "/photos/yeg-cycle-spin-studio---jasper-ave-3.jpg"]
 rating: 4.7
-review_count: 228
+review_count: 229
 price_range: "$$"
 amenities:
 
@@ -44,6 +44,10 @@ reviews:
     rating: 5
     comment: |
       LOVE this place!! :) It's one of the only fitness/workout facilities I've ever truly felt apart of a COMMUNITY in. I've made so many great connnections. I feel seen, heard, valued. And all of that to say, I always leave feeling better than I showed up. Always playing great music and all instructors/ Staff are always so quick to jump in and help with anything. And you will 100% be drenched in SWEAT post-class!
+  - name: "Jason B"
+    rating: 5
+    comment: |
+      I don’t live in Edmonton and have never taken a class here, but I bet their classes are 🔥 just based on their cheer squad at the Edmonton marathon today. The energy was wild! Thanks for coming out to cheer everyone on… best squad out there BY FAR.
   - name: "Kristyn Chamzuk"
     rating: 5
     comment: |
@@ -52,8 +56,4 @@ reviews:
       I also love the creative themed classes! During the 2024 Stanley Cup playoffs, they had amazing Oilers-themed rides that really got everyone in the spirit. I’m really looking forward to the spooky/Halloween-themed classes coming up too – they always do such a great job making every class a fun experience.
       
       If you're looking for a high-energy workout that leaves you feeling great and part of an amazing fitness family, I highly recommend YEG Cycle! You won’t regret a spin.
-  - name: "Laura Walker"
-    rating: 5
-    comment: |
-      My first class with Jason was so much fun! Awesome vibes, and the staff were incredible. The towels on the way out the door are such a nice touch.
 ---

@@ -11,16 +11,16 @@ phone: "(780) 424-8777"
 website: "http://www.tonyspizzapalace.com/"
 google_maps_url: "https://maps.google.com/?cid=15120477519114090338&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:30 AM - 2:30 PM, 4:30 - 9:00 PM"
-  tuesday: "11:30 AM - 2:30 PM, 4:30 - 9:00 PM"
-  wednesday: "11:30 AM - 2:30 PM, 4:30 - 9:00 PM"
-  thursday: "11:30 AM - 2:30 PM, 4:30 - 9:00 PM"
-  friday: "11:30 AM - 2:30 PM, 4:30 - 10:30 PM"
-  saturday: "2:30 - 10:30 PM"
-  sunday: "4:30 - 9:00 PM"
+  monday: "11:30 AM–2:30 PM"
+  tuesday: "11:30 AM–2:30 PM"
+  wednesday: "11:30 AM–2:30 PM"
+  thursday: "11:30 AM–2:30 PM"
+  friday: "11:30 AM–2:30 PM"
+  saturday: "2:30 PM–10:30 PM"
+  sunday: "4:30 PM–9:00 PM"
 photos: ["/photos/tonys-pizza-palace-1.jpg", "/photos/tonys-pizza-palace-2.jpg", "/photos/tonys-pizza-palace-3.jpg"]
 rating: 4.5
-review_count: 1764
+review_count: 1767
 price_range: "$$"
 amenities:
   - "Dine-In"

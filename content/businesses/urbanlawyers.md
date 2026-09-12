@@ -11,16 +11,16 @@ phone: "(587) 635-4777"
 website: "https://www.urbanlawyers.ca/home"
 google_maps_url: "https://maps.google.com/?cid=4053053475164333424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 4:00 PM"
-  tuesday: "8:00 AM - 4:00 PM"
-  wednesday: "8:00 AM - 4:00 PM"
-  thursday: "8:00 AM - 4:00 PM"
-  friday: "8:00 AM - 4:00 PM"
+  monday: "8:00 AM–4:00 PM"
+  tuesday: "8:00 AM–4:00 PM"
+  wednesday: "8:00 AM–4:00 PM"
+  thursday: "8:00 AM–4:00 PM"
+  friday: "8:00 AM–4:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/urbanlawyers-1.jpg", "/photos/urbanlawyers-2.jpg"]
 rating: 4.7
-review_count: 90
+review_count: 95
 price_range: "$$"
 amenities:
 

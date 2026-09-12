@@ -15,17 +15,31 @@ photos:
 reviews:
   - name: "Petra"
     rating: 5
-    comment: "The front end staff is always so cheerful and helpful!  I really like Dr. Evans as an optometrist!  He is very thorough and knowledgeable. Answers any questions you may have!  Been coming to Village Eye Center for many years!"
+    comment: |
+      The front end staff is always so cheerful and helpful!  I really like Dr. Evans as an optometrist!  He is very thorough and knowledgeable. Answers any questions you may have!  Been coming to Village Eye Center for many years!
   - name: "Jennifer Kruse"
     rating: 5
-    comment: "When you find an optometrist you love, you keep going back. Dr Nelson is fantastic! Always appreciate his willingness to explain what is going on, and still personally connect at each appointment. Can’t recommend Dr Nelson and his team enough!!"
+    comment: |
+      When you find an optometrist you love, you keep going back. Dr Nelson is fantastic! Always appreciate his willingness to explain what is going on, and still personally connect at each appointment. Can’t recommend Dr Nelson and his team enough!!
   - name: "carol sperling"
     rating: 5
-    comment: "I Phoned this morning to see if I could see a Dr (before the weekend) regarding allergy related issues which had gotten worse over the last week. I asked for Dr Evans and was able to get in and was looked at and given a prescription - In and out of there in 10 minutes, even though it was busy. The Receptionist was very friendly and helpful and today again Dr. Evans was  awesome. He is one of the Village Eye Centre optometrists I've seen over the years and as also the others, are always very prof"
+    comment: |
+      I Phoned this morning to see if I could see a Dr (before the weekend) regarding allergy related issues which had gotten worse over the last week. I asked for Dr Evans and was able to get in and was looked at and given a prescription - In and out of there in 10 minutes, even though it was busy. The Receptionist was very friendly and helpful and today again Dr. Evans was  awesome. He is one of the Village Eye Centre optometrists I've seen over the years and as also the others, are always very professional and friendly. Thank you Dr. Evans and Village Eye Center.
   - name: "Keith Knox"
     rating: 5
-    comment: "The office staff are very professional. I have been going to Dr. Nelson for sometime now. He is excellent at his job. Very professional and knowledgeable. He also has a good sense of humor. He always makes sure that you understand what he is doing during your appointment, confirms your understanding and asks if you have any questions. I would definitely recommend Dr. Nelson."
+    comment: |
+      The office staff are very professional. I have been going to Dr. Nelson for sometime now. He is excellent at his job. Very professional and knowledgeable. He also has a good sense of humor. He always makes sure that you understand what he is doing during your appointment, confirms your understanding and asks if you have any questions.
+      I would definitely recommend Dr. Nelson.
   - name: "Nicole Van Kuppeveld"
     rating: 5
-    comment: "The staff at tge Sherwood Park location is stellar. But the 50th Street team is next level. Dr. Nelson is exceptional at his craft and evidently a great people leader. Nicole van Kuppeveld"
+    comment: |
+      The staff at tge Sherwood Park location is stellar. But the 50th Street team is next level. Dr. Nelson is exceptional at his craft and evidently a great people leader. Nicole van Kuppeveld
+hours:
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "11:00 AM–7:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
+  saturday: "Closed"
+  sunday: "Closed"
 ---

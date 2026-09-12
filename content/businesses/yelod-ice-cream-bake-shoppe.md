@@ -11,16 +11,16 @@ phone: "(780) 904-9356"
 website: "https://www.yelod.ca/"
 google_maps_url: "https://maps.google.com/?cid=293469169031112453&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 10:00 PM"
-  tuesday: "11:00 AM - 10:00 PM"
-  wednesday: "11:00 AM - 10:00 PM"
-  thursday: "11:00 AM - 10:00 PM"
-  friday: "11:00 AM - 11:00 PM"
-  saturday: "11:00 AM - 11:00 PM"
-  sunday: "11:00 AM - 10:00 PM"
+  monday: "11:00 AM–10:00 PM"
+  tuesday: "11:00 AM–10:00 PM"
+  wednesday: "11:00 AM–10:00 PM"
+  thursday: "11:00 AM–10:00 PM"
+  friday: "11:00 AM–11:00 PM"
+  saturday: "11:00 AM–11:00 PM"
+  sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/yelod-ice-cream-bake-shoppe-1.jpg", "/photos/yelod-ice-cream-bake-shoppe-2.jpg", "/photos/yelod-ice-cream-bake-shoppe-3.jpg"]
 rating: 4.9
-review_count: 284
+review_count: 291
 price_range: "$$"
 amenities:
   - "Dine-In"

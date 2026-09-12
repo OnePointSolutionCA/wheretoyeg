@@ -11,16 +11,16 @@ phone: "(780) 705-2055"
 website: "https://www.washokubistro.com/"
 google_maps_url: "https://maps.google.com/?cid=4626055487318754625&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:30 AM - 10:00 PM"
-  tuesday: "11:30 AM - 10:00 PM"
-  wednesday: "11:30 AM - 10:00 PM"
-  thursday: "11:30 AM - 10:00 PM"
-  friday: "11:30 AM - 11:00 PM"
-  saturday: "11:30 AM - 11:00 PM"
-  sunday: "11:30 AM - 9:00 PM"
+  monday: "11:30 AM–10:00 PM"
+  tuesday: "11:30 AM–10:00 PM"
+  wednesday: "11:30 AM–10:00 PM"
+  thursday: "11:30 AM–10:00 PM"
+  friday: "11:30 AM–11:00 PM"
+  saturday: "11:30 AM–11:00 PM"
+  sunday: "11:30 AM–9:00 PM"
 photos: ["/photos/washoku-bistro-1.jpg", "/photos/washoku-bistro-2.jpg", "/photos/washoku-bistro-3.jpg"]
 rating: 4.5
-review_count: 779
+review_count: 780
 price_range: "$$"
 amenities:
   - "Dine-In"

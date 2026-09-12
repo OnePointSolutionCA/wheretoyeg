@@ -10,16 +10,16 @@ neighborhood: "Sherwood Park"
 phone: "(780) 449-6680"
 google_maps_url: "https://maps.google.com/?cid=2849446064624970689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 7:00 PM"
-  tuesday: "9:00 AM - 7:00 PM"
-  wednesday: "9:00 AM - 7:00 PM"
-  thursday: "9:00 AM - 7:00 PM"
-  friday: "9:00 AM - 7:00 PM"
-  saturday: "9:00 AM - 6:00 PM"
-  sunday: "10:00 AM - 6:00 PM"
+  monday: "9:00 AM–7:00 PM"
+  tuesday: "9:00 AM–7:00 PM"
+  wednesday: "9:00 AM–7:00 PM"
+  thursday: "9:00 AM–7:00 PM"
+  friday: "9:00 AM–7:00 PM"
+  saturday: "9:00 AM–6:00 PM"
+  sunday: "10:00 AM–6:00 PM"
 photos: ["/photos/the-barber-shop-1.jpg", "/photos/the-barber-shop-2.jpg", "/photos/the-barber-shop-3.jpg"]
 rating: 4.9
-review_count: 512
+review_count: 519
 price_range: "$$"
 amenities:
 

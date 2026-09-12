@@ -11,16 +11,16 @@ phone: "(587) 415-3554"
 website: "https://wingsnob.ca/"
 google_maps_url: "https://maps.google.com/?cid=13582194440565956870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 11:00 PM"
-  tuesday: "11:00 AM - 11:00 PM"
-  wednesday: "11:00 AM - 11:00 PM"
-  thursday: "11:00 AM - 11:00 PM"
-  friday: "11:00 AM - 12:00 AM"
-  saturday: "11:00 AM - 12:00 AM"
-  sunday: "11:00 AM - 10:00 PM"
+  monday: "11:00 AM–11:00 PM"
+  tuesday: "11:00 AM–11:00 PM"
+  wednesday: "11:00 AM–11:00 PM"
+  thursday: "11:00 AM–11:00 PM"
+  friday: "11:00 AM–12:00 AM"
+  saturday: "11:00 AM–12:00 AM"
+  sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/wing-snob-2-1.jpg", "/photos/wing-snob-2-2.jpg", "/photos/wing-snob-2-3.jpg"]
 rating: 4.9
-review_count: 387
+review_count: 398
 price_range: "$"
 amenities:
   - "Dine-In"

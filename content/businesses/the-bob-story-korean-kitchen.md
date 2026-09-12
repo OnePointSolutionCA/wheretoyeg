@@ -11,16 +11,16 @@ phone: "(306) 715-1184"
 website: "https://thebobstorykorean.com/"
 google_maps_url: "https://maps.google.com/?cid=17932538401343781846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 12:00 AM"
+  monday: "11:00 AM–12:00 AM"
   tuesday: "Closed"
-  wednesday: "11:00 AM - 12:00 AM"
-  thursday: "11:00 AM - 12:00 AM"
-  friday: "11:00 AM - 12:00 AM"
-  saturday: "11:00 AM - 12:00 AM"
-  sunday: "11:00 AM - 12:00 AM"
+  wednesday: "11:00 AM–12:00 AM"
+  thursday: "11:00 AM–12:00 AM"
+  friday: "11:00 AM–12:00 AM"
+  saturday: "11:00 AM–12:00 AM"
+  sunday: "11:00 AM–12:00 AM"
 photos: ["/photos/the-bob-story-korean-kitchen-1.jpg", "/photos/the-bob-story-korean-kitchen-2.jpg", "/photos/the-bob-story-korean-kitchen-3.jpg"]
 rating: 5
-review_count: 71
+review_count: 76
 price_range: "$"
 amenities:
   - "Dine-In"

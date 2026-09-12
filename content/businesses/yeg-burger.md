@@ -11,16 +11,16 @@ phone: "(587) 459-2874"
 website: "http://www.yegburger.ca/?utm_source=GMB&utm_medium=Organic&utm_campaign=Edmonton"
 google_maps_url: "https://maps.google.com/?cid=16088946774912364616&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 8:00 PM"
-  tuesday: "11:00 AM - 9:00 PM"
-  wednesday: "11:00 AM - 9:00 PM"
-  thursday: "11:00 AM - 9:00 PM"
-  friday: "11:00 AM - 10:00 PM"
-  saturday: "12:00 - 10:00 PM"
-  sunday: "12:00 - 9:00 PM"
+  monday: "12:00 PM–8:00 PM"
+  tuesday: "11:00 AM–9:00 PM"
+  wednesday: "11:00 AM–9:00 PM"
+  thursday: "11:00 AM–9:00 PM"
+  friday: "11:00 AM–10:00 PM"
+  saturday: "12:00 PM–10:00 PM"
+  sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/yeg-burger-1.jpg", "/photos/yeg-burger-2.jpg", "/photos/yeg-burger-3.jpg"]
 rating: 4.6
-review_count: 1595
+review_count: 1600
 price_range: "$"
 amenities:
   - "Halal"

@@ -11,16 +11,16 @@ phone: "(780) 705-4090"
 website: "https://medigroup.ca/clinics/westmount-medical-clinic-and-pharmacy/"
 google_maps_url: "https://maps.google.com/?cid=13323889387321065328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:30 PM"
-  tuesday: "9:00 AM - 5:30 PM"
-  wednesday: "9:00 AM - 5:30 PM"
-  thursday: "9:00 AM - 5:30 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "9:00 AM - 12:00 PM"
+  monday: "9:00 AM–5:30 PM"
+  tuesday: "9:00 AM–5:30 PM"
+  wednesday: "9:00 AM–5:30 PM"
+  thursday: "9:00 AM–5:30 PM"
+  friday: "9:00 AM–5:00 PM"
+  saturday: "9:00 AM–12:00 PM"
   sunday: "Closed"
 photos: ["/photos/westmount-medical-clinic-walk-in-1.jpg", "/photos/westmount-medical-clinic-walk-in-2.jpg", "/photos/westmount-medical-clinic-walk-in-3.jpg"]
 rating: 3.1
-review_count: 201
+review_count: 200
 price_range: "$$"
 amenities:
 
