@@ -16,17 +16,38 @@ photos:
 reviews:
   - name: "jason johnston"
     rating: 5
-    comment: "I will return here time and time again. Staff is polite and knowledgeable. I was in and out fast with very little waiting time. Dr. Marroquin was quick and thorough, very caring and I would like to mention his assistant carried the same professionalism.  I felt comfortable in their hands. I appreciate the work they have done on the last visit and also, the work they have done in the past. I strongly recommend this place to others."
+    comment: |
+      I will return here time and time again. Staff is polite and knowledgeable. I was in and out fast with very little waiting time. Dr. Marroquin was quick and thorough, very caring and I would like to mention his assistant carried the same professionalism.  I felt comfortable in their hands. I appreciate the work they have done on the last visit and also, the work they have done in the past. I strongly recommend this place to others.
   - name: "Kevin Madro"
     rating: 5
-    comment: "Hygenist was knowledgeable and showed care for you as the patient.  Made any changes for your comfortability a priority.  Went the extra mile.   Was full of good advice that I hadn't been told in 40 yesrs of getting my teeth cleaned.  Highly recommend."
+    comment: |
+      Hygenist was knowledgeable and showed care for you as the patient.  Made any changes for your comfortability a priority.  Went the extra mile.   Was full of good advice that I hadn't been told in 40 yesrs of getting my teeth cleaned.  Highly recommend.
   - name: "candace lang"
     rating: 5
-    comment: "I had my teeth descaled yesterday and it was an easy almost painless event. Thank you very to Sherri-lynn, my hygienist,  for this pleasant experience.  My teeth feel great."
+    comment: |
+      I had my teeth descaled yesterday and it was an easy almost painless event. Thank you very to Sherri-lynn, my hygienist,  for this pleasant experience.  My teeth feel great.
   - name: "Noelia Spada"
     rating: 5
-    comment: "I had an excellent experience at Affinity Dental, and I especially want to highlight Dr. Rafael Marroquín.  Dr. Marroquín is truly an outstanding dentist. From the very first appointment, he made me feel comfortable and confident in the treatment plan. He is extremely knowledgeable, patient, and takes the time to explain everything clearly. His professionalism and attention to detail are exceptional.  The entire team at Affinity Dental provides impeccable care. The staff is friendly, organized, "
+    comment: |
+      I had an excellent experience at Affinity Dental, and I especially want to highlight Dr. Rafael Marroquín.
+      
+      Dr. Marroquín is truly an outstanding dentist. From the very first appointment, he made me feel comfortable and confident in the treatment plan. He is extremely knowledgeable, patient, and takes the time to explain everything clearly. His professionalism and attention to detail are exceptional.
+      
+      The entire team at Affinity Dental provides impeccable care. The staff is friendly, organized, and genuinely caring, which makes every visit smooth and stress-free.
+      
+      If you’re looking for a dentist who combines expertise with compassion and excellent service, I highly recommend Dr. Rafael Marroquín and the team at Affinity Dental.
+      
+      Five stars all the way!
   - name: "Jordan Lakeman"
     rating: 5
-    comment: "Renae is amazing and did such a great job at cleaning my teeth! So welcoming and made the experience very comfortable and easy."
+    comment: |
+      Renae is amazing and did such a great job at cleaning my teeth! So welcoming and made the experience very comfortable and easy.
+hours:
+  monday: "8:00 AM–8:00 PM"
+  tuesday: "8:00 AM–6:00 PM"
+  wednesday: "8:00 AM–8:00 PM"
+  thursday: "8:00 AM–6:00 PM"
+  friday: "8:00 AM–3:00 PM"
+  saturday: "8:00 AM–2:30 PM"
+  sunday: "Closed"
 ---

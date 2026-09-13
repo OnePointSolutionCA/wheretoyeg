@@ -11,16 +11,16 @@ phone: "(587) 415-1450"
 website: "https://bluemarlinhalal.my.canva.site/"
 google_maps_url: "https://maps.google.com/?cid=9269344980143339095&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 9:00 PM"
+  monday: "12:00 PM–9:00 PM"
   tuesday: "Closed"
-  wednesday: "12:00 - 9:00 PM"
-  thursday: "12:00 - 9:00 PM"
-  friday: "12:00 - 10:00 PM"
-  saturday: "12:00 - 10:00 PM"
-  sunday: "12:00 - 10:00 PM"
+  wednesday: "12:00 PM–9:00 PM"
+  thursday: "12:00 PM–9:00 PM"
+  friday: "12:00 PM–10:00 PM"
+  saturday: "12:00 PM–10:00 PM"
+  sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/blue-marlin-1.jpg", "/photos/blue-marlin-2.jpg", "/photos/blue-marlin-3.jpg"]
 rating: 4.8
-review_count: 193
+review_count: 199
 price_range: "$$"
 amenities:
   - "Dine-In"

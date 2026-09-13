@@ -13,14 +13,14 @@ google_maps_url: "https://maps.google.com/?cid=10493089744090824881&g_mp=Cidnb29
 hours:
   monday: "Closed"
   tuesday: "Closed"
-  wednesday: "11:00 AM - 9:00 PM"
-  thursday: "11:00 AM - 9:00 PM"
-  friday: "11:00 AM - 10:00 PM"
-  saturday: "11:00 AM - 10:00 PM"
-  sunday: "11:00 AM - 9:00 PM"
+  wednesday: "11:00 AM–9:00 PM"
+  thursday: "11:00 AM–9:00 PM"
+  friday: "11:00 AM–10:00 PM"
+  saturday: "11:00 AM–10:00 PM"
+  sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/a-food-fair-restaurant-1.jpg", "/photos/a-food-fair-restaurant-2.jpg", "/photos/a-food-fair-restaurant-3.jpg"]
 rating: 4.6
-review_count: 243
+review_count: 246
 price_range: "$"
 amenities:
   - "Halal"

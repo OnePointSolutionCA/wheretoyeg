@@ -11,16 +11,16 @@ phone: "(587) 490-3302"
 website: "https://bismillahrest.netlify.app/"
 google_maps_url: "https://maps.google.com/?cid=458511350441712264&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:30 AM - 11:00 PM"
-  tuesday: "7:30 AM - 11:00 PM"
-  wednesday: "7:30 AM - 11:00 PM"
-  thursday: "7:30 AM - 11:00 PM"
-  friday: "7:30 AM - 11:00 PM"
-  saturday: "7:30 AM - 11:00 PM"
-  sunday: "7:30 AM - 11:00 PM"
+  monday: "7:30 AM–11:00 PM"
+  tuesday: "7:30 AM–11:00 PM"
+  wednesday: "7:30 AM–11:00 PM"
+  thursday: "7:30 AM–11:00 PM"
+  friday: "7:30 AM–11:00 PM"
+  saturday: "7:30 AM–11:00 PM"
+  sunday: "7:30 AM–11:00 PM"
 photos: ["/photos/bismillah-restaurant-lmtd-1.jpg", "/photos/bismillah-restaurant-lmtd-2.jpg", "/photos/bismillah-restaurant-lmtd-3.jpg"]
 rating: 4.9
-review_count: 475
+review_count: 486
 price_range: "$$"
 amenities:
   - "Halal"

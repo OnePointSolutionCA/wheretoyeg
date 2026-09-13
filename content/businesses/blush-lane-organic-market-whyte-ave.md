@@ -11,16 +11,16 @@ phone: "(780) 988-5655"
 website: "https://www.blushlane.com/locations/whyte-ave-edmonton/"
 google_maps_url: "https://maps.google.com/?cid=12247142652180454538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 9:00 PM"
-  tuesday: "9:00 AM - 9:00 PM"
-  wednesday: "9:00 AM - 9:00 PM"
-  thursday: "9:00 AM - 9:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "8:00 AM - 9:00 PM"
-  sunday: "9:00 AM - 9:00 PM"
+  monday: "9:00 AM–9:00 PM"
+  tuesday: "9:00 AM–9:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
+  saturday: "8:00 AM–9:00 PM"
+  sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/blush-lane-organic-market-whyte-ave-1.jpg", "/photos/blush-lane-organic-market-whyte-ave-2.jpg", "/photos/blush-lane-organic-market-whyte-ave-3.jpg"]
 rating: 4.2
-review_count: 637
+review_count: 638
 price_range: "$$"
 amenities:
 

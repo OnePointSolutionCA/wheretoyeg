@@ -11,13 +11,13 @@ phone: "(587) 400-1010"
 website: "http://bigwings-edmonton.ca/"
 google_maps_url: "https://maps.google.com/?cid=6975255019723926947&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:30 AM - 12:00 AM"
-  tuesday: "10:30 AM - 12:00 AM"
-  wednesday: "10:30 AM - 12:00 AM"
-  thursday: "10:30 AM - 12:00 AM"
-  friday: "10:30 AM - 1:00 AM"
-  saturday: "10:30 AM - 1:00 AM"
-  sunday: "10:30 AM - 10:00 PM"
+  monday: "Closed"
+  tuesday: "12:00 PM–12:00 AM"
+  wednesday: "12:00 PM–12:00 AM"
+  thursday: "12:00 PM–12:00 AM"
+  friday: "12:00 PM–1:00 AM"
+  saturday: "12:00 PM–1:00 AM"
+  sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/big-wings-edmonton-1.jpg", "/photos/big-wings-edmonton-2.jpg", "/photos/big-wings-edmonton-3.jpg"]
 rating: 4.5
 review_count: 35

@@ -10,16 +10,16 @@ neighborhood: "West Edmonton"
 phone: "(587) 568-8069"
 google_maps_url: "https://maps.google.com/?cid=14673290652695683948&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 9:00 PM"
-  tuesday: "10:00 AM - 9:00 PM"
-  wednesday: "10:00 AM - 9:00 PM"
-  thursday: "10:00 AM - 9:00 PM"
-  friday: "10:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 9:00 PM"
-  sunday: "11:00 AM - 6:00 PM"
+  monday: "10:00 AM–9:00 PM"
+  tuesday: "10:00 AM–9:00 PM"
+  wednesday: "10:00 AM–9:00 PM"
+  thursday: "10:00 AM–9:00 PM"
+  friday: "10:00 AM–9:00 PM"
+  saturday: "10:00 AM–9:00 PM"
+  sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/afghan-grill-1.jpg", "/photos/afghan-grill-2.jpg", "/photos/afghan-grill-3.jpg"]
 rating: 4.3
-review_count: 38
+review_count: 40
 price_range: "$"
 amenities:
   - "Halal"

@@ -11,16 +11,16 @@ phone: "(825) 200-9898"
 website: "https://alhudapita.com/"
 google_maps_url: "https://maps.google.com/?cid=5520980956117973124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 8:00 PM"
-  tuesday: "8:00 AM - 8:00 PM"
-  wednesday: "8:00 AM - 8:00 PM"
-  thursday: "8:00 AM - 8:00 PM"
-  friday: "8:00 AM - 8:00 PM"
-  saturday: "8:00 AM - 8:00 PM"
-  sunday: "8:00 AM - 8:00 PM"
+  monday: "8:00 AM–8:00 PM"
+  tuesday: "8:00 AM–8:00 PM"
+  wednesday: "8:00 AM–8:00 PM"
+  thursday: "8:00 AM–8:00 PM"
+  friday: "8:00 AM–8:00 PM"
+  saturday: "8:00 AM–8:00 PM"
+  sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/alhuda-pita-bakery-restaurant-1.jpg", "/photos/alhuda-pita-bakery-restaurant-2.jpg", "/photos/alhuda-pita-bakery-restaurant-3.jpg"]
 rating: 4.5
-review_count: 337
+review_count: 344
 price_range: "$$"
 amenities:
   - "Halal"

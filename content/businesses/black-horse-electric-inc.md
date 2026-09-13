@@ -11,16 +11,16 @@ phone: "(780) 554-0272"
 website: "https://bhelectric.ca/"
 google_maps_url: "https://maps.google.com/?cid=12586035660388770452&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 6:00 PM"
-  tuesday: "8:00 AM - 6:00 PM"
-  wednesday: "8:00 AM - 6:00 PM"
-  thursday: "8:00 AM - 6:00 PM"
-  friday: "8:00 AM - 6:00 PM"
-  saturday: "8:00 AM - 6:00 PM"
-  sunday: "8:00 AM - 6:00 PM"
+  monday: "8:00 AM–6:00 PM"
+  tuesday: "8:00 AM–6:00 PM"
+  wednesday: "8:00 AM–6:00 PM"
+  thursday: "8:00 AM–6:00 PM"
+  friday: "8:00 AM–6:00 PM"
+  saturday: "8:00 AM–6:00 PM"
+  sunday: "8:00 AM–6:00 PM"
 photos: ["/photos/black-horse-electric-inc-1.jpg", "/photos/black-horse-electric-inc-2.jpg", "/photos/black-horse-electric-inc-3.jpg"]
 rating: 5
-review_count: 46
+review_count: 48
 price_range: "$$"
 amenities:
 

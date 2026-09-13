@@ -11,16 +11,16 @@ phone: "(780) 757-1777"
 website: "http://www.afghanchopankebab.ca/"
 google_maps_url: "https://maps.google.com/?cid=16970179273282945036&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 1:00 AM"
-  tuesday: "11:00 AM - 1:00 AM"
-  wednesday: "11:00 AM - 1:00 AM"
-  thursday: "11:00 AM - 1:00 AM"
-  friday: "11:00 AM - 1:00 AM"
-  saturday: "11:00 AM - 1:00 AM"
-  sunday: "11:00 AM - 1:00 AM"
+  monday: "11:00 AM–1:00 AM"
+  tuesday: "11:00 AM–1:00 AM"
+  wednesday: "11:00 AM–1:00 AM"
+  thursday: "11:00 AM–1:00 AM"
+  friday: "11:00 AM–1:00 AM"
+  saturday: "11:00 AM–1:00 AM"
+  sunday: "11:00 AM–1:00 AM"
 photos: ["/photos/afghan-chopan-kebab-2-1.jpg", "/photos/afghan-chopan-kebab-2-2.jpg", "/photos/afghan-chopan-kebab-2-3.jpg"]
-rating: 3.8
-review_count: 178
+rating: 3.9
+review_count: 190
 price_range: "$$"
 amenities:
   - "Halal"

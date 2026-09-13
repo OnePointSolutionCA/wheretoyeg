@@ -8,16 +8,16 @@ address: "Edmonton (Off Anthony Henday, 97 St exit)"
 neighborhood: "South Edmonton"
 google_maps_url: "https://maps.google.com/?q=Body+Polish+Day+Spa+Edmonton"
 hours:
-  monday: "9:00 AM - 8:00 PM"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 8:00 PM"
-  saturday: "9:00 AM - 6:00 PM"
-  sunday: "10:00 AM - 5:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–9:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
+  saturday: "9:00 AM–5:00 PM"
+  sunday: "12:00 PM–5:00 PM"
 photos: ["/photos/body-polish-day-spa-1.jpg", "/photos/body-polish-day-spa-2.jpg", "/photos/body-polish-day-spa-3.jpg"]
-rating: 4.8
-review_count: 220
+rating: 4.5
+review_count: 364
 price_range: "$$"
 amenities:
   - "Facials"

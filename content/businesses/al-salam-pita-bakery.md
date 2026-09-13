@@ -12,16 +12,16 @@ phone: "(780) 944-0000"
 website: "https://www.alsalampita.ca"
 google_maps_url: "https://maps.google.com/?q=Al+Salam+Bakery+Edmonton"
 hours:
-  monday: "9:00 AM - 8:30 PM"
-  tuesday: "9:00 AM - 8:30 PM"
-  wednesday: "9:00 AM - 8:30 PM"
-  thursday: "9:00 AM - 8:30 PM"
-  friday: "9:00 AM - 8:30 PM"
-  saturday: "9:00 AM - 8:30 PM"
-  sunday: "9:00 AM - 8:30 PM"
+  monday: "9:00 AM–9:00 PM"
+  tuesday: "9:00 AM–9:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
+  saturday: "9:00 AM–9:00 PM"
+  sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/al-salam-pita-bakery-1.jpg", "/photos/al-salam-pita-bakery-2.jpg", "/photos/al-salam-pita-bakery-3.jpg"]
-rating: 4.2
-review_count: 1664
+rating: 4.3
+review_count: 1533
 price_range: "$"
 amenities:
   - "Halal"

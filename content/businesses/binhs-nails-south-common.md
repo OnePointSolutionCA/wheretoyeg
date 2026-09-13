@@ -11,16 +11,16 @@ phone: "(780) 705-8689"
 website: "https://binhnailsouthcommon.com/"
 google_maps_url: "https://maps.google.com/?cid=14318908837551032698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 7:00 PM"
-  tuesday: "10:00 AM - 7:00 PM"
-  wednesday: "10:00 AM - 7:00 PM"
-  thursday: "10:00 AM - 7:00 PM"
-  friday: "10:00 AM - 7:00 PM"
-  saturday: "10:00 AM - 6:00 PM"
-  sunday: "11:00 AM - 5:00 PM"
+  monday: "10:00 AM–7:00 PM"
+  tuesday: "10:00 AM–7:00 PM"
+  wednesday: "10:00 AM–7:00 PM"
+  thursday: "10:00 AM–7:00 PM"
+  friday: "10:00 AM–7:00 PM"
+  saturday: "10:00 AM–6:00 PM"
+  sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/binhs-nails-south-common-1.jpg", "/photos/binhs-nails-south-common-2.jpg", "/photos/binhs-nails-south-common-3.jpg"]
-rating: 4.5
-review_count: 430
+rating: 4.6
+review_count: 432
 price_range: "$$"
 amenities:
 
@@ -41,13 +41,13 @@ reviews:
     rating: 5
     comment: |
       I’ve been coming here on and off for years, the nail techs are always friendly, nail quality is great, and my designs I choose are always executed very well. They were so friendly today when I brought my 7 year old in for her first set of acrylics for her birthday! Can’t recommend them enough and my daughter can’t wait to come back.
+  - name: "Deborah Uwihaye"
+    rating: 5
+    comment: |
+      I love getting my nails done at Binh’s nails South Common, they are so friendly and they do the best job. Anna made sure to do my nails; manicure and pedicure exactly how i wanted With no rush and she did the best shape for me as i asked. Get your nails done by Anna you will love it!!!! Thank you Anna for being so kind:)
   - name: "Reet Kaur"
     rating: 5
     comment: |
       Alex and Van did my nails, they were amazing.
       I got my nails done yesterday from other place and they messed it all up. But Alex and Van did such a good job in fixing those and as well as did the design so pretty. Definitely recommend.
-  - name: "julian kapicki"
-    rating: 4
-    comment: |
-      All the staff were so friendly, had some good laughs and conversation. Very respectful. Helped me put socks on and they gave a really good massage as well.
 ---

@@ -15,17 +15,34 @@ photos:
 reviews:
   - name: "Angela Villeneuve"
     rating: 5
-    comment: "My son is particular with his stylists. We found this gem about a year ago and hands down, the best service, friendliest stylists and just a great atmosphere! We were out of the province and my son needed a haircut, he refused to go anywhere and waited till we got home. Thanks gentlemen! See you next month."
+    comment: |
+      My son is particular with his stylists. We found this gem about a year ago and hands down, the best service, friendliest stylists and just a great atmosphere!
+      We were out of the province and my son needed a haircut, he refused to go anywhere and waited till we got home.
+      Thanks gentlemen! See you next month.
   - name: "Dawit Beyene"
     rating: 5
-    comment: "My son and I just had a hair cut with Fidel. He was awesome. His playful approach made my 6 year old so comfortable. His suggestion on styling was spot on and now we look even more handsome 😍. Thanks Fidel!"
+    comment: |
+      My son and I just had a hair cut with Fidel. He was awesome. His playful approach made my 6 year old so comfortable. His suggestion on styling was spot on and now we look even more handsome 😍. Thanks Fidel!
   - name: "Shane Kindred"
     rating: 5
-    comment: "I’ve been going to Albany barbershop every few months always had a great haircut! But just went today and had the best experience with my man Fadel! 100% recommend going here and ask for him if you can!!"
+    comment: |
+      I’ve been going to Albany barbershop every few months always had a great haircut!
+      But just went today and had the best experience with my man Fadel! 100% recommend going here and ask for him if you can!!
   - name: "Sheila King"
     rating: 5
-    comment: "Thank you for the amazing haircut for my special needs son! He left looking and feeling fantastic! We will definitely be back."
+    comment: |
+      Thank you for the amazing haircut for my special needs son! He left looking and feeling fantastic! We will definitely be back.
   - name: "Clay Valstar"
     rating: 5
-    comment: "Fadel was awesome, gave me the best hair cut I've ever had and was probably the most personable and sweet hair dresser I've ever met/had. Not just saying that either. Very impressed. Will be coming back to him."
+    comment: |
+      Fadel was awesome, gave me the best hair cut I've ever had and was probably the most personable and sweet hair dresser I've ever met/had. Not just saying that either. Very impressed.
+      Will be coming back to him.
+hours:
+  monday: "9:00 AM–8:00 PM"
+  tuesday: "9:00 AM–8:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–8:00 PM"
+  saturday: "9:00 AM–6:00 PM"
+  sunday: "11:00 AM–5:00 PM"
 ---

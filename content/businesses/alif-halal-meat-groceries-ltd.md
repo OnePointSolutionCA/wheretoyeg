@@ -11,13 +11,13 @@ phone: "(780) 463-9722"
 website: "http://alifhalalmeat.ca/"
 google_maps_url: "https://maps.google.com/?cid=4681536589002557036&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 8:00 PM"
-  tuesday: "10:00 AM - 8:00 PM"
-  wednesday: "10:00 AM - 8:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 8:00 PM"
-  saturday: "10:00 AM - 8:00 PM"
-  sunday: "10:00 AM - 8:00 PM"
+  monday: "10:00 AM–8:00 PM"
+  tuesday: "10:00 AM–8:00 PM"
+  wednesday: "10:00 AM–8:00 PM"
+  thursday: "10:00 AM–8:00 PM"
+  friday: "10:00 AM–8:00 PM"
+  saturday: "10:00 AM–8:00 PM"
+  sunday: "10:00 AM–8:00 PM"
 photos: ["/photos/alif-halal-meat-groceries-ltd-1.jpg", "/photos/alif-halal-meat-groceries-ltd-2.jpg", "/photos/alif-halal-meat-groceries-ltd-3.jpg"]
 rating: 4.5
 review_count: 236

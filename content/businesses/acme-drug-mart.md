@@ -12,16 +12,16 @@ phone: "780-483-1146"
 website: "https://acmedrugmart.ca"
 google_maps_url: "https://maps.google.com/?q=15508+87+Ave+NW+Edmonton"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 6:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 4:00 PM"
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–6:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "9:00 AM–6:00 PM"
+  friday: "9:00 AM–6:00 PM"
+  saturday: "10:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/acme-drug-mart-1.jpg", "/photos/acme-drug-mart-2.jpg", "/photos/acme-drug-mart-3.jpg"]
 rating: 5
-review_count: 57
+review_count: 59
 price_range: "$"
 amenities:
   - "Free Delivery"

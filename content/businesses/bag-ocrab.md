@@ -11,16 +11,16 @@ phone: "(825) 480-2410"
 website: "https://bagocrabusa.com/"
 google_maps_url: "https://maps.google.com/?cid=7980171136695088463&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:30 AM - 9:30 PM"
-  tuesday: "11:30 AM - 9:30 PM"
-  wednesday: "11:30 AM - 9:30 PM"
-  thursday: "11:30 AM - 9:30 PM"
-  friday: "11:00 AM - 10:00 PM"
-  saturday: "11:00 AM - 10:00 PM"
-  sunday: "11:00 AM - 9:30 PM"
+  monday: "11:30 AM–9:00 PM"
+  tuesday: "11:30 AM–9:00 PM"
+  wednesday: "11:30 AM–9:00 PM"
+  thursday: "11:30 AM–9:00 PM"
+  friday: "11:00 AM–9:30 PM"
+  saturday: "11:00 AM–9:30 PM"
+  sunday: "11:00 AM–9:30 PM"
 photos: ["/photos/bag-ocrab-1.jpg", "/photos/bag-ocrab-2.jpg", "/photos/bag-ocrab-3.jpg"]
 rating: 4.8
-review_count: 734
+review_count: 740
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -48,15 +48,6 @@ reviews:
       
       Stop by for a great time!!
       I would like to give a shout out to Lisa.
-  - name: "Ave I"
-    rating: 5
-    comment: |
-      I brought my friend for her birthday at lunch time. We ordered the lunch seafood special and an order of cajun fish!
-      We both enjoyed the food and the experience. Our server was excellent, and even gave my friend free dessert for her birthday (thanks, girl!)
-      
-      There was no waiting time when we got there.
-      
-      Highly recommended and will definitely come back again 💕
   - name: "Gloria Wang"
     rating: 5
     comment: |
@@ -73,4 +64,8 @@ reviews:
       The Cajun sauce was rich, flavorful, and well-balanced with just the right amount of spice at the medium level — enough heat to keep it exciting without overpowering the seafood. The king crab was satisfying and flavorful, the shrimp were cooked well, and the potatoes and sausage soaked up all the delicious seasoning beautifully.
       
       Overall, we really enjoyed the food, the atmosphere, and the whole hands-on experience. If you enjoy seafood boils with bold flavors and generous portions, this spot is definitely worth trying.
+  - name: "Salwa S"
+    rating: 5
+    comment: |
+      A. M. A. Z. I. N. G. !!!!!!!!!!! I went with a group of friends and we all had a blast. We ordered the combo 4 with original Cajun seasoning and garlic noodles, and everything was so so so good and the spice level was PERFECT (we got dynamite x spice!!) I have dietary restrictions in that I can not eat pork, and the combo we got had sausage so we had to ask for it to be substituted for something else, and they were able to accommodate for me!! I was really worried about contamination between the seafood and sausage, because we were told that the seafood and sausage are boiled in the same water. But our server, Ashley, ensured this was discussed with the chefs and different pots were used which genuinely made my entire night. She was so kind!!!! This place has truly hit the jackpot having her as one of their servers, she deserves a raise.
 ---

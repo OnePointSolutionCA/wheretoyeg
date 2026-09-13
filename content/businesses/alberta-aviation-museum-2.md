@@ -12,15 +12,15 @@ website: "http://www.albertaaviationmuseum.com/"
 google_maps_url: "https://maps.google.com/?cid=2088443591904779950&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "10:00 AM - 4:00 PM"
-  wednesday: "10:00 AM - 4:00 PM"
-  thursday: "10:00 AM - 4:00 PM"
-  friday: "10:00 AM - 4:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
-  sunday: "10:00 AM - 5:00 PM"
+  tuesday: "10:00 AM–4:00 PM"
+  wednesday: "10:00 AM–4:00 PM"
+  thursday: "10:00 AM–4:00 PM"
+  friday: "10:00 AM–4:00 PM"
+  saturday: "10:00 AM–5:00 PM"
+  sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/alberta-aviation-museum-2-1.jpg", "/photos/alberta-aviation-museum-2-2.jpg", "/photos/alberta-aviation-museum-2-3.jpg"]
 rating: 4.6
-review_count: 1752
+review_count: 1754
 price_range: "$$"
 amenities:
 

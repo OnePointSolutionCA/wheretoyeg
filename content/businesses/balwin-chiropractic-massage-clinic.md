@@ -11,16 +11,16 @@ phone: "(780) 475-8484"
 website: "https://balwinchiropractic.com/"
 google_maps_url: "https://maps.google.com/?cid=4165709427381246319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 6:00 PM"
-  tuesday: "10:00 AM - 6:00 PM"
-  wednesday: "10:00 AM - 7:00 PM"
-  thursday: "10:00 AM - 6:00 PM"
-  friday: "10:00 AM - 7:00 PM"
-  saturday: "10:00 AM - 3:00 PM"
-  sunday: "10:00 AM - 3:00 PM"
+  monday: "10:00 AM–7:00 PM"
+  tuesday: "10:00 AM–6:00 PM"
+  wednesday: "10:00 AM–7:00 PM"
+  thursday: "10:00 AM–7:00 PM"
+  friday: "10:00 AM–7:00 PM"
+  saturday: "10:00 AM–2:00 PM"
+  sunday: "10:00 AM–3:00 PM"
 photos: ["/photos/balwin-chiropractic-massage-clinic-1.jpg", "/photos/balwin-chiropractic-massage-clinic-2.jpg", "/photos/balwin-chiropractic-massage-clinic-3.jpg"]
 rating: 4.9
-review_count: 364
+review_count: 365
 price_range: "$$"
 amenities:
 

@@ -11,11 +11,11 @@ phone: "(780) 250-2522"
 google_maps_url: "https://maps.google.com/?cid=8242111447299568863&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "11:00 AM - 8:00 PM"
-  wednesday: "11:00 AM - 8:00 PM"
-  thursday: "11:00 AM - 8:00 PM"
-  friday: "11:00 AM - 8:00 PM"
-  saturday: "11:00 AM - 5:00 PM"
+  tuesday: "11:00 AM–8:00 PM"
+  wednesday: "11:00 AM–8:00 PM"
+  thursday: "11:00 AM–8:00 PM"
+  friday: "11:00 AM–8:00 PM"
+  saturday: "11:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/black-forest-barber-shop-1.jpg", "/photos/black-forest-barber-shop-2.jpg", "/photos/black-forest-barber-shop-3.jpg"]
 rating: 4.9
@@ -43,12 +43,12 @@ reviews:
       I am a hairstylist and I usually cut my fiancés hair myself, but I wanted him to have an elevated experience.
       I first seen the guys from Black Forest at MC college. They were teaching a men’s cut and I knew right then and there I wanted to book an appointment for my fiancé with Cody!
       They go the extra mile! I’m glad he was able to get pampered & have a nice experience!
-  - name: "Haylie L"
-    rating: 5
-    comment: |
-      Brought my teen for the first time yesterday, he's had bad luck with several other barber shops in the city. Seth listened to what he wanted, even showed him a photo on his phone to clarify, and gave him the best hair cut he's had in years. All the men that were working were super friendly to everyone, and every man that walked out while we were there looked really sharp.
   - name: "Cormac"
     rating: 5
     comment: |
       Best Barber shop I've ever been to, the service is fantastic. My Barber Chris was amazing. Plus I absolutely loved the vibe of the shop, it feels like stepping back into the good ol' days.
+  - name: "Johnny Leung"
+    rating: 5
+    comment: |
+      Wow, I'm blown away,  my haircut looks amazing!  Never had a better cut, It's modern, stylish and attention to details.  I would put my my haircut up, but I'm camera shy.   The place looks amazing, definitely shows the owner (Jason)invested alot of money into the business, never seen a barber this nice.   I highly recommend this place to anyone that can make the drive,  Jason is one of the best if not the best in town.  Great job Jason, Thank you!
 ---

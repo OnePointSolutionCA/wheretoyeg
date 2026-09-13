@@ -11,16 +11,16 @@ phone: "(780) 435-8833"
 website: "http://www.beijingbeijing.ca/"
 google_maps_url: "https://maps.google.com/?cid=4067651662529276905&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:30 AM - 8:30 PM"
-  tuesday: "10:30 AM - 8:30 PM"
-  wednesday: "10:30 AM - 8:30 PM"
-  thursday: "10:30 AM - 8:30 PM"
-  friday: "10:30 AM - 9:00 PM"
-  saturday: "10:00 AM - 9:00 PM"
-  sunday: "10:00 AM - 8:30 PM"
+  monday: "10:30 AM–8:30 PM"
+  tuesday: "10:30 AM–8:30 PM"
+  wednesday: "10:30 AM–8:30 PM"
+  thursday: "10:30 AM–8:30 PM"
+  friday: "10:30 AM–9:00 PM"
+  saturday: "10:00 AM–9:00 PM"
+  sunday: "10:00 AM–8:30 PM"
 photos: ["/photos/beijing-beijing-dim-sum-seafood-restaurant-1.jpg", "/photos/beijing-beijing-dim-sum-seafood-restaurant-2.jpg", "/photos/beijing-beijing-dim-sum-seafood-restaurant-3.jpg"]
 rating: 4.1
-review_count: 1508
+review_count: 1514
 price_range: "$$"
 amenities:
   - "Dine-In"

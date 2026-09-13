@@ -15,17 +15,35 @@ photos:
 reviews:
   - name: "peter luu"
     rating: 5
-    comment: "I had an excellent experience with AmSteam. Dan and his team were professional, respectful, and did outstanding work restoring my condo after the water damage. The quality of workmanship was excellent.’ ‘Communication was clear throughout the project, and they paid attention to every detail.’ ‘My home looks beautiful, and I truly appreciate all their hard work.’ ‘Thank you, Dan, Chelsey and the entire AmSteam team.’ And ‘I highly recommend AmSteam to anyone looking for reliable restoration and r"
+    comment: |
+      I had an excellent experience with AmSteam. Dan and his team were professional, respectful, and did outstanding work restoring my condo after the water damage. The quality of workmanship was excellent.’ ‘Communication was clear throughout the project, and they paid attention to every detail.’ ‘My home looks beautiful, and I truly appreciate all their hard work.’ ‘Thank you, Dan, Chelsey and the entire AmSteam team.’ And ‘I highly recommend AmSteam to anyone looking for reliable restoration and renovation services.
   - name: "Dayna Burnell"
     rating: 5
-    comment: "Everything about my experience with AmSteam has been top notch! From the initial call I made to inquire about the services, to the follow up call to ask if I wanted the tech to come a few days earlier, to Dave calling to ask if he would be able to pop by about an hour earlier than originally anticipated, and then finally to the awesome work Dave did when he got here. The carpets look and smell remarkably better than they did yesterday. 🙂  The pricing is really fair, almost too fair! Dave was do"
+    comment: |
+      Everything about my experience with AmSteam has been top notch! From the initial call I made to inquire about the services, to the follow up call to ask if I wanted the tech to come a few days earlier, to Dave calling to ask if he would be able to pop by about an hour earlier than originally anticipated, and then finally to the awesome work Dave did when he got here. The carpets look and smell remarkably better than they did yesterday. 🙂
+      
+      The pricing is really fair, almost too fair! Dave was done in record time, and nothing about the service was disruptive. I will absolutely call them again and I'll refer AmSteam to everyone I know! ⭐⭐⭐⭐⭐
   - name: "Sam Conley"
     rating: 5
-    comment: "This team of compassionate people are very caring about the job that they do and respectful, polite, professional, and kind. I’m so grateful to have them supporting my condo. What a great group of people thank you for everything that you guys do."
+    comment: |
+      This team of compassionate people are very caring about the job that they do and respectful, polite, professional, and kind. I’m so grateful to have them supporting my condo. What a great group of people thank you for everything that you guys do.
   - name: "G P"
     rating: 5
-    comment: "EXCELLENT COMPANY THAT HAS HIGH INTEGRITY AND PERFORMANCE!  This company is supported by many buildings and condominium owner owned high rises for all their services from custom cabinet repairs, furnace cleaning, to carpet cleaning to restoration and website listed renovations.  Dan did a stellar job in rebuilding my custom cabinet that was damaged due to a plumbing company's bad workmanship. Time in waiting was no worry for me because quality jobs take time and it as well takes time for the com"
+    comment: |
+      EXCELLENT COMPANY THAT HAS HIGH INTEGRITY AND PERFORMANCE!
+      
+      This company is supported by many buildings and condominium owner owned high rises for all their services from custom cabinet repairs, furnace cleaning, to carpet cleaning to restoration and website listed renovations.
+      
+      Dan did a stellar job in rebuilding my custom cabinet that was damaged due to a plumbing company's bad workmanship.
+      Time in waiting was no worry for me because quality jobs take time and it as well takes time for the company to receive all parts no fault of their own (we should all be acquainted with supply issues internationally).
+      
+      Dan, the owner, is always open to conversation from corporations that hire his company as well as home owners. So instead of leaving childish and unfair goggle reviews at least give him a chance to assess the job to see if the error was yours or theirs - if theirs he will ensure his employees get it right!
+      
+      Dan goes ABOVE AND BEYOND!
+      
+      SUPPORT THIS LOCAL BUSINESS BECAUSE YOU WILL RECEIVE GOOD QUALITY AND GREAT SERVICE FROM A BUSINESS OWNER THAT HAS HIGH INTEGRITY!
   - name: "Lois White"
     rating: 5
-    comment: "The service I received was professional and courteous.  AmSteam was able to fit me in last minute at the end of the month move out. The technician was on time and was diligent on removing some tough pet stains that I had.   He was respectful and professional and took the time to explain about the stains.  This is the second time that I have used AmSteam and will use them again in the future.  Thank You AmSteam."
+    comment: |
+      The service I received was professional and courteous.  AmSteam was able to fit me in last minute at the end of the month move out. The technician was on time and was diligent on removing some tough pet stains that I had.   He was respectful and professional and took the time to explain about the stains.  This is the second time that I have used AmSteam and will use them again in the future.  Thank You AmSteam.
 ---

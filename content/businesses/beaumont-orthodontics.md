@@ -16,17 +16,34 @@ photos:
 reviews:
   - name: "Jaylyn Howell"
     rating: 5
-    comment: "Our daughter finished her whole journey with Beaumont Orthodontics and I didn't consider any other option when it was time for my son to start his own orthodontic journey. From start through finish, Beaumont Orthdontics is hands down the best - experience for parents & children, the price is the price - no surprises, always professional and friendly. Highly recommend Beaumont Orthodontics to anyone looking!"
+    comment: |
+      Our daughter finished her whole journey with Beaumont Orthodontics and I didn't consider any other option when it was time for my son to start his own orthodontic journey. From start through finish, Beaumont Orthdontics is hands down the best - experience for parents & children, the price is the price - no surprises, always professional and friendly. Highly recommend Beaumont Orthodontics to anyone looking!
   - name: "Sunny Nerval"
     rating: 5
-    comment: "Didn’t get any work done here, but went in for an Invisalign quote and they did a full skull X-ray, which lead to me finding a benign cyst in my skull that had been in there and growing since birth. Thanks to their team I was able to find it and get it removed before it got to a point that it did some serious damage. Cheers!"
+    comment: |
+      Didn’t get any work done here, but went in for an Invisalign quote and they did a full skull X-ray, which lead to me finding a benign cyst in my skull that had been in there and growing since birth. Thanks to their team I was able to find it and get it removed before it got to a point that it did some serious damage. Cheers!
   - name: "Meri Rose Rodriguez"
     rating: 5
-    comment: "We had a wonderful experience at Beaumont Orthodontics! From the very first consultation, the entire team was warm, professional, and patient-focused. My son was a little nervous about getting braces, but the staff made him feel completely at ease — explaining every step and answering all his questions with kindness.  I highly recommend Beaumont Orthodontics to any parent looking for quality orthodontic care delivered with genuine care and professionalism."
+    comment: |
+      We had a wonderful experience at Beaumont Orthodontics! From the very first consultation, the entire team was warm, professional, and patient-focused. My son was a little nervous about getting braces, but the staff made him feel completely at ease — explaining every step and answering all his questions with kindness.
+      
+      I highly recommend Beaumont Orthodontics to any parent looking for quality orthodontic care delivered with genuine care and professionalism.
   - name: "Hiba Orfahli"
     rating: 5
-    comment: "The staff are very professional and Friendly I would highly recommend if you’re getting orthodontic work to get it here. Thank you Dr. Hugh and staff."
+    comment: |
+      The staff are very professional and Friendly
+      I would highly recommend if you’re getting orthodontic work to get it here.
+      Thank you Dr. Hugh and staff.
   - name: "Phoebe Breitling"
     rating: 5
-    comment: "Excellent staff and dentists. Prompt with appointments and thorough with any questions and while explaining care plans."
+    comment: |
+      Excellent staff and dentists. Prompt with appointments and thorough with any questions and while explaining care plans.
+hours:
+  monday: "7:30 AM–4:00 PM"
+  tuesday: "7:30 AM–4:00 PM"
+  wednesday: "7:30 AM–4:00 PM"
+  thursday: "7:30 AM–4:00 PM"
+  friday: "7:00 AM–4:00 PM"
+  saturday: "Closed"
+  sunday: "Closed"
 ---

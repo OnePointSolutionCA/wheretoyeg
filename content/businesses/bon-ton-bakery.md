@@ -10,15 +10,15 @@ neighborhood: "West Edmonton"
 google_maps_url: "https://maps.google.com/?q=Bon%20Ton%20Bakery%20Edmonton"
 hours:
   monday: "Closed"
-  tuesday: "8:00 AM - 5:30 PM"
-  wednesday: "8:00 AM - 5:30 PM"
-  thursday: "8:00 AM - 5:30 PM"
-  friday: "8:00 AM - 5:30 PM"
-  saturday: "8:00 AM - 5:00 PM"
+  tuesday: "8:00 AM–6:00 PM"
+  wednesday: "8:00 AM–6:00 PM"
+  thursday: "8:00 AM–6:00 PM"
+  friday: "8:00 AM–6:00 PM"
+  saturday: "8:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/bon-ton-bakery-1.jpg", "/photos/bon-ton-bakery-2.jpg", "/photos/bon-ton-bakery-3.jpg"]
 rating: 4.7
-review_count: 560
+review_count: 1391
 price_range: "$$"
 amenities:
   - "Custom Orders"

@@ -11,16 +11,16 @@ phone: "(780) 993-3021"
 website: "https://www.avenueboxingclub.com/"
 google_maps_url: "https://maps.google.com/?cid=11349602171027464893&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 6:00 PM"
-  tuesday: "8:00 AM - 6:00 PM"
-  wednesday: "8:00 AM - 6:00 PM"
-  thursday: "8:00 AM - 6:00 PM"
-  friday: "8:00 AM - 6:00 PM"
+  monday: "8:00 AM–6:00 PM"
+  tuesday: "8:00 AM–6:00 PM"
+  wednesday: "8:00 AM–6:00 PM"
+  thursday: "8:00 AM–6:00 PM"
+  friday: "8:00 AM–6:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/avenue-boxing-club-1.jpg", "/photos/avenue-boxing-club-2.jpg", "/photos/avenue-boxing-club-3.jpg"]
 rating: 4.6
-review_count: 42
+review_count: 44
 price_range: "$$"
 amenities:
 

@@ -12,11 +12,11 @@ website: "http://yvanchartrand.com/"
 google_maps_url: "https://maps.google.com/?cid=17191143740893673724&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "8:00 AM - 4:00 PM"
-  wednesday: "8:00 AM - 4:00 PM"
-  thursday: "8:00 AM - 4:00 PM"
-  friday: "8:00 AM - 4:00 PM"
-  saturday: "8:00 AM - 4:00 PM"
+  tuesday: "8:00 AM–4:00 PM"
+  wednesday: "8:00 AM–4:00 PM"
+  thursday: "8:00 AM–4:00 PM"
+  friday: "8:00 AM–4:00 PM"
+  saturday: "8:00 AM–4:00 PM"
   sunday: "Closed"
 photos: ["/photos/bonjour-bakery-1.jpg", "/photos/bonjour-bakery-2.jpg", "/photos/bonjour-bakery-3.jpg"]
 rating: 4.7

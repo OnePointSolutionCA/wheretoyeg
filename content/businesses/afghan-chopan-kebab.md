@@ -12,16 +12,16 @@ phone: "(780) 757-1777"
 website: "https://www.afghanchopankebab.ca"
 google_maps_url: "https://maps.google.com/?q=Afghan+Chopan+Kebab+Edmonton"
 hours:
-  monday: "11:00 AM - 11:00 PM"
-  tuesday: "11:00 AM - 11:00 PM"
-  wednesday: "11:00 AM - 11:00 PM"
-  thursday: "11:00 AM - 11:00 PM"
-  friday: "11:00 AM - 11:00 PM"
-  saturday: "11:00 AM - 11:00 PM"
-  sunday: "11:00 AM - 11:00 PM"
+  monday: "11:00 AM–1:00 AM"
+  tuesday: "11:00 AM–1:00 AM"
+  wednesday: "11:00 AM–1:00 AM"
+  thursday: "11:00 AM–1:00 AM"
+  friday: "11:00 AM–1:00 AM"
+  saturday: "11:00 AM–1:00 AM"
+  sunday: "11:00 AM–1:00 AM"
 photos: ["/photos/afghan-chopan-kebab-1.jpg", "/photos/afghan-chopan-kebab-2.jpg", "/photos/afghan-chopan-kebab-3.jpg"]
-rating: 4.2
-review_count: 130
+rating: 3.9
+review_count: 190
 price_range: "$$"
 amenities:
   - "Halal"

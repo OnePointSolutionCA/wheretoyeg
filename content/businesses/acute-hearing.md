@@ -15,17 +15,30 @@ photos:
 reviews:
   - name: "Marlon Cruz"
     rating: 5
-    comment: "I brought my father to Acute Hearing for a hearing test and found out he has mild/moderate hearing loss and Linda fitted him with new hearing aids.  From start to finish Linda is very professional, knowledgeable and patient.  Also, Michelle working the front office was very accommodating working with my schedule to get an appointment."
+    comment: |
+      I brought my father to Acute Hearing for a hearing test and found out he has mild/moderate hearing loss and Linda fitted him with new hearing aids.  From start to finish Linda is very professional, knowledgeable and patient.  Also, Michelle working the front office was very accommodating working with my schedule to get an appointment.
   - name: "Diana Dai"
     rating: 5
-    comment: "I went with my father to Acute Hearing quite a few times. As someone who requires hearing aid, my dad has high expectations for an audiologist. Linda exceeded his and my expectations. Every time we went, I got more and more impressed with Linda’s professionalism, her knowledge and her patience. Linda is a problem solver and very caring. We are especially grateful for the help she provided to my dad during the pandemic, months after dad purchased the hearing aid. I know we can count on Linda! I w"
+    comment: |
+      I went with my father to Acute Hearing quite a few times. As someone who requires hearing aid, my dad has high expectations for an audiologist. Linda exceeded his and my expectations. Every time we went, I got more and more impressed with Linda’s professionalism, her knowledge and her patience. Linda is a problem solver and very caring. We are especially grateful for the help she provided to my dad during the pandemic, months after dad purchased the hearing aid. I know we can count on Linda! I would highly  recommend Acute Hearing to anyone who needs help.
   - name: "Tony Wong"
     rating: 5
-    comment: "I am very appreciative of the clinic's help to make the appointment on the same day that I called to accoommodate my travel schedule. The practitioner showed a lot of patience and care to adjust the devices. The visit was a very pleasant experience."
+    comment: |
+      I am very appreciative of the clinic's help to make the appointment on the same day that I called to accoommodate my travel schedule. The practitioner showed a lot of patience and care to adjust the devices. The visit was a very pleasant experience.
   - name: "Bob Hiebert"
     rating: 5
-    comment: "Been going to Linda for more than 4 years. I have a unique hearing problem in that I do not hear on my right ear. Linda provided me with a Phonak CROS/BiCROSS system. Excellent service, always ready to help.Always enjoy my visit."
+    comment: |
+      Been going to Linda for more than 4 years. I have a unique hearing problem in that I do not hear on my right ear. Linda provided me with a Phonak CROS/BiCROSS system. Excellent service, always ready to help.Always enjoy my visit.
   - name: "Sasha Alexia White"
     rating: 5
-    comment: "Michelle is super friendly upon entry and Linda the Hearing Aid Practitioner is super friendly and thorough. She made my hearing test go as smooth as possible. She provided me with options to accommodate me."
+    comment: |
+      Michelle is super friendly upon entry and Linda the Hearing Aid Practitioner is super friendly and thorough. She made my hearing test go as smooth as possible. She provided me with options to accommodate me.
+hours:
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–4:00 PM"
+  saturday: "10:00 AM–1:00 PM"
+  sunday: "Closed"
 ---

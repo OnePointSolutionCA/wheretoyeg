@@ -11,16 +11,16 @@ phone: "(587) 416-2202"
 website: "https://boualouang-laos-thai-restaurant.square.site/"
 google_maps_url: "https://maps.google.com/?cid=13398340888245017962&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:30 AM - 9:00 PM"
-  tuesday: "11:30 AM - 9:00 PM"
-  wednesday: "11:30 AM - 9:00 PM"
-  thursday: "11:30 AM - 9:00 PM"
-  friday: "11:30 AM - 9:00 PM"
-  saturday: "11:30 AM - 9:00 PM"
-  sunday: "11:30 AM - 9:00 PM"
+  monday: "11:30 AM–9:00 PM"
+  tuesday: "11:30 AM–9:00 PM"
+  wednesday: "11:30 AM–9:00 PM"
+  thursday: "11:30 AM–9:00 PM"
+  friday: "11:30 AM–9:00 PM"
+  saturday: "11:30 AM–9:00 PM"
+  sunday: "11:30 AM–9:00 PM"
 photos: ["/photos/boualouang-laos-thai-cuisine-1.jpg", "/photos/boualouang-laos-thai-cuisine-2.jpg", "/photos/boualouang-laos-thai-cuisine-3.jpg"]
 rating: 4.5
-review_count: 534
+review_count: 540
 price_range: "$$"
 amenities:
   - "Dine-In"

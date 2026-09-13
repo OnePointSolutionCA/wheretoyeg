@@ -11,16 +11,16 @@ phone: "(780) 809-4599"
 website: "https://www.ascendantfinancial.com/financial-advisor/alberta/edmonton/"
 google_maps_url: "https://maps.google.com/?cid=4971428459805716279&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 5:00 PM"
-  tuesday: "8:00 AM - 5:00 PM"
-  wednesday: "8:00 AM - 5:00 PM"
-  thursday: "8:00 AM - 5:00 PM"
-  friday: "8:00 AM - 5:00 PM"
+  monday: "8:00 AM–5:00 PM"
+  tuesday: "8:00 AM–5:00 PM"
+  wednesday: "8:00 AM–5:00 PM"
+  thursday: "8:00 AM–5:00 PM"
+  friday: "8:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/ascendant-financial-inc-financial-planner---edmonton-1.jpg", "/photos/ascendant-financial-inc-financial-planner---edmonton-2.jpg"]
-rating: 4.9
-review_count: 752
+rating: 5
+review_count: 760
 price_range: "$$"
 amenities:
 

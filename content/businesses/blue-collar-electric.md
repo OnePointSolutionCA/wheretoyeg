@@ -11,16 +11,16 @@ phone: "(780) 239-2728"
 website: "http://www.bluecollarelectric.ca/"
 google_maps_url: "https://maps.google.com/?cid=16400278152004307713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 5:00 PM"
-  tuesday: "8:00 AM - 5:00 PM"
-  wednesday: "8:00 AM - 5:00 PM"
-  thursday: "8:00 AM - 5:00 PM"
-  friday: "8:00 AM - 5:00 PM"
+  monday: "8:00 AM–5:00 PM"
+  tuesday: "8:00 AM–5:00 PM"
+  wednesday: "8:00 AM–5:00 PM"
+  thursday: "8:00 AM–5:00 PM"
+  friday: "8:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/blue-collar-electric-1.jpg", "/photos/blue-collar-electric-2.jpg", "/photos/blue-collar-electric-3.jpg"]
-rating: 4.7
-review_count: 79
+rating: 4.8
+review_count: 80
 price_range: "$$"
 amenities:
 

@@ -11,16 +11,16 @@ phone: "(780) 249-6333"
 website: "https://binhsnails.com/"
 google_maps_url: "https://maps.google.com/?cid=9994387851362161779&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 7:30 PM"
-  tuesday: "10:00 AM - 7:30 PM"
-  wednesday: "10:00 AM - 7:30 PM"
-  thursday: "10:00 AM - 7:30 PM"
-  friday: "10:00 AM - 7:30 PM"
-  saturday: "10:00 AM - 5:30 PM"
-  sunday: "11:00 AM - 5:00 PM"
+  monday: "10:00 AM–7:30 PM"
+  tuesday: "10:00 AM–7:30 PM"
+  wednesday: "10:00 AM–7:30 PM"
+  thursday: "10:00 AM–7:30 PM"
+  friday: "10:00 AM–7:30 PM"
+  saturday: "10:00 AM–5:30 PM"
+  sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/binhs-nails-meadowlark-1.jpg", "/photos/binhs-nails-meadowlark-2.jpg", "/photos/binhs-nails-meadowlark-3.jpg"]
 rating: 4.9
-review_count: 245
+review_count: 249
 price_range: "$$$"
 amenities:
 

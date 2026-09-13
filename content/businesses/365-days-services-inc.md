@@ -15,17 +15,32 @@ photos:
 reviews:
   - name: "Joie Shapcott"
     rating: 5
-    comment: "We are so happy with 365 Days Services. They were able to fit us in on very short notice, they attended in person in order to provide an accurate quote and the price was very reasonable. I did not personally see their work but have been told by multiple people that they did a very good job. I highly recommend them."
+    comment: |
+      We are so happy with 365 Days Services. They were able to fit us in on very short notice, they attended in person in order to provide an accurate quote and the price was very reasonable. I did not personally see their work but have been told by multiple people that they did a very good job. I highly recommend them.
   - name: "Rajpal Sran"
     rating: 5
-    comment: "Excellent service with reasonable price. The work is very neat&clean. The staff is also very dedicated to their work."
+    comment: |
+      Excellent service with reasonable price. The work is very neat&clean. The staff is also very dedicated to their work.
   - name: "sahijpreetsingh ladhar"
     rating: 5
-    comment: "I always used their services handy man , office cleaning service and to go for any thing and they never disappoint me regarding service and always on time and good prices"
+    comment: |
+      I always used their services handy man , office cleaning service and to go for any thing and they never disappoint me regarding service and always on time and good prices
   - name: "Liam Thompson"
     rating: 1
-    comment: "We scheduled a cleaning service — while the cleaners were friendly and professional, they weren’t given accurate details about the required work, so time was wasted on tasks that weren’t necessary. Please improve communication in your customer service to ensure clear and precise instructions are provided.  Also, I kindly ask that you do not respond by saying you did not clean for me, as this is not true — please note that the booking was made by my wife."
+    comment: |
+      We scheduled a cleaning service — while the cleaners were friendly and professional, they weren’t given accurate details about the required work, so time was wasted on tasks that weren’t necessary. Please improve communication in your customer service to ensure clear and precise instructions are provided.
+      
+      Also, I kindly ask that you do not respond by saying you did not clean for me, as this is not true — please note that the booking was made by my wife.
   - name: "Satyendra Kumar Parihar"
     rating: 5
-    comment: "Expert and an honest  in their work. Excellently do the job."
+    comment: |
+      Expert and an honest  in their work. Excellently do the job.
+hours:
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 ---

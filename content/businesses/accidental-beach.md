@@ -11,16 +11,16 @@ phone: "(780) 442-5311"
 website: "https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/accidental-beach.aspx"
 google_maps_url: "https://maps.google.com/?cid=12357177088643719790&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 10:00 PM"
-  tuesday: "8:00 AM - 10:00 PM"
-  wednesday: "8:00 AM - 10:00 PM"
-  thursday: "8:00 AM - 10:00 PM"
-  friday: "8:00 AM - 10:00 PM"
+  monday: "8:00 AM–10:00 PM"
+  tuesday: "8:00 AM–10:00 PM"
+  wednesday: "8:00 AM–10:00 PM"
+  thursday: "8:00 AM–10:00 PM"
+  friday: "8:00 AM–10:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/accidental-beach-1.jpg", "/photos/accidental-beach-2.jpg", "/photos/accidental-beach-3.jpg"]
 rating: 4
-review_count: 320
+review_count: 321
 price_range: "$$"
 amenities:
 

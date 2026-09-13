@@ -12,15 +12,15 @@ website: "http://www.bonton.ca/"
 google_maps_url: "https://maps.google.com/?cid=9197469636929682548&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "8:00 AM - 6:00 PM"
-  wednesday: "8:00 AM - 6:00 PM"
-  thursday: "8:00 AM - 6:00 PM"
-  friday: "8:00 AM - 6:00 PM"
-  saturday: "8:00 AM - 5:00 PM"
+  tuesday: "8:00 AM–6:00 PM"
+  wednesday: "8:00 AM–6:00 PM"
+  thursday: "8:00 AM–6:00 PM"
+  friday: "8:00 AM–6:00 PM"
+  saturday: "8:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/bon-ton-bakery-2-1.jpg", "/photos/bon-ton-bakery-2-2.jpg", "/photos/bon-ton-bakery-2-3.jpg"]
 rating: 4.7
-review_count: 1387
+review_count: 1391
 price_range: "$$"
 amenities:
   - "Dine-In"

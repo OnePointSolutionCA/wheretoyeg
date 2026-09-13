@@ -11,16 +11,16 @@ phone: "(780) 667-4293"
 website: "http://www.axemonkeys.com/edmonton"
 google_maps_url: "https://maps.google.com/?cid=6420993217342681506&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "2:00 - 10:00 PM"
-  tuesday: "2:00 - 10:00 PM"
-  wednesday: "2:00 - 10:00 PM"
-  thursday: "2:00 - 10:00 PM"
-  friday: "2:00 PM - 12:00 AM"
-  saturday: "10:00 AM - 12:00 AM"
-  sunday: "12:00 - 8:00 PM"
+  monday: "2:00 PM–10:00 PM"
+  tuesday: "2:00 PM–10:00 PM"
+  wednesday: "2:00 PM–10:00 PM"
+  thursday: "2:00 PM–10:00 PM"
+  friday: "2:00 PM–12:00 AM"
+  saturday: "10:00 AM–12:00 AM"
+  sunday: "12:00 PM–8:00 PM"
 photos: ["/photos/axe-monkeys-1.jpg", "/photos/axe-monkeys-2.jpg", "/photos/axe-monkeys-3.jpg"]
 rating: 4.8
-review_count: 793
+review_count: 800
 price_range: "$$"
 amenities:
 

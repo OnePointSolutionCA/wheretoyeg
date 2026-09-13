@@ -10,13 +10,13 @@ neighborhood: "Edmonton"
 website: "https://www.facebook.com/share/17jUkrA8fn/?mibextid=wwXIfr"
 google_maps_url: "https://maps.google.com/?cid=15405565779859487777&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 3:00 PM"
-  tuesday: "7:00 AM - 3:00 PM"
-  wednesday: "7:00 AM - 3:00 PM"
-  thursday: "7:00 AM - 3:00 PM"
-  friday: "7:00 AM - 3:00 PM"
-  saturday: "7:00 AM - 3:00 PM"
-  sunday: "7:00 AM - 3:00 PM"
+  monday: "7:00 AM–3:00 PM"
+  tuesday: "7:00 AM–3:00 PM"
+  wednesday: "7:00 AM–3:00 PM"
+  thursday: "7:00 AM–3:00 PM"
+  friday: "7:00 AM–3:00 PM"
+  saturday: "7:00 AM–3:00 PM"
+  sunday: "7:00 AM–3:00 PM"
 photos: ["/photos/bastis-kitchen-1.jpg", "/photos/bastis-kitchen-2.jpg", "/photos/bastis-kitchen-3.jpg"]
 rating: 4.7
 review_count: 14

@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 472-4142"
 google_maps_url: "https://maps.google.com/?cid=14362752575807068334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 9:00 PM"
-  tuesday: "10:00 AM - 9:00 PM"
-  wednesday: "10:00 AM - 9:00 PM"
-  thursday: "10:00 AM - 9:00 PM"
-  friday: "10:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 9:00 PM"
-  sunday: "10:00 AM - 9:00 PM"
+  monday: "10:00 AM–9:00 PM"
+  tuesday: "10:00 AM–9:00 PM"
+  wednesday: "10:00 AM–9:00 PM"
+  thursday: "10:00 AM–9:00 PM"
+  friday: "10:00 AM–9:00 PM"
+  saturday: "10:00 AM–9:00 PM"
+  sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/asian-superstore-1.jpg", "/photos/asian-superstore-2.jpg", "/photos/asian-superstore-3.jpg"]
 rating: 4.3
-review_count: 232
+review_count: 233
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -37,10 +37,6 @@ reviews:
     rating: 5
     comment: |
       Outstanding service and also alots of variety of products are available in under one roof must visit
-  - name: "Jacob Cheriyan"
-    rating: 1
-    comment: |
-      All rice items expired months ago, even the employee at the register know it is expired. Never removed anything even after weeks later on my next visit. Never recommend this store.
   - name: "avantika suresh"
     rating: 5
     comment: |
@@ -49,4 +45,9 @@ reviews:
     rating: 5
     comment: |
       Good indian supermarket, Everything is available here. Staff is very nice and polite
+  - name: "khalilgibran g"
+    rating: 5
+    comment: |
+      We had great experience. Beautiful spicy stuff full of aroma that soothes and makes you feel home.
+      Plenty of stuff with affordable prices. The reception was fantastic. I would give 5 stars
 ---

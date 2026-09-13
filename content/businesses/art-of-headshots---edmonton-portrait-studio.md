@@ -11,13 +11,13 @@ phone: "(877) 874-6867"
 website: "https://artofportraits.com/edmonton/"
 google_maps_url: "https://maps.google.com/?cid=6281178792834899087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "9:00 AM - 5:00 PM"
-  sunday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
+  saturday: "9:00 AM–5:00 PM"
+  sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/art-of-headshots---edmonton-portrait-studio-1.jpg", "/photos/art-of-headshots---edmonton-portrait-studio-2.jpg", "/photos/art-of-headshots---edmonton-portrait-studio-3.jpg"]
 rating: 4.6
 review_count: 18

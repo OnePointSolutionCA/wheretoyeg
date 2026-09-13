@@ -11,16 +11,16 @@ phone: "(780) 964-4688"
 website: "https://edmonton.another-world.com/"
 google_maps_url: "https://maps.google.com/?cid=13784865046372932749&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "2:00 - 10:00 PM"
-  tuesday: "Closed"
-  wednesday: "2:00 - 10:00 PM"
-  thursday: "2:00 - 10:00 PM"
-  friday: "10:00 AM - 11:00 PM"
-  saturday: "10:00 AM - 11:00 PM"
-  sunday: "10:00 AM - 11:00 PM"
+  monday: "3:00 PM–9:00 PM"
+  tuesday: "3:00 PM–9:00 PM"
+  wednesday: "3:00 PM–9:00 PM"
+  thursday: "3:00 PM–9:00 PM"
+  friday: "3:00 PM–9:00 PM"
+  saturday: "11:00 AM–9:00 PM"
+  sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/another-world-vr-rc-gaming-1.jpg", "/photos/another-world-vr-rc-gaming-2.jpg", "/photos/another-world-vr-rc-gaming-3.jpg"]
 rating: 5
-review_count: 35
+review_count: 46
 price_range: "$$"
 amenities:
 
@@ -41,16 +41,16 @@ reviews:
       The equipment was clean, easy to use, and the games were so much fun. Whether you're new to VR or have tried it before, there's something for everyone. Time flew by because we were having such a great time!
       
       If you're looking for a unique date night, family outing, or activity with friends, I highly recommend Another World VR. We'll definitely be back!
-  - name: "Ashir Fazal"
+  - name: "Tank"
     rating: 5
     comment: |
-      The VR experience was too good!
-  - name: "Somto Obiekwe"
+      Great staff and great time to escape reality for an evening and relaxing with friends for a night out.
+  - name: "Roy Teufele"
     rating: 5
     comment: |
-      Amazing experience! Had so much fun and Rutvik was really helpful. Totally recommend!
-  - name: "karampreet singh"
+      Awesome for myself and grand kid.  Definitley cone again
+  - name: "360 LLAMASCOPER"
     rating: 5
     comment: |
-      Great experience
+      Extremely fun, gave us bonus time too and stayed past closing to accomodate us. Very friendly owner and exceptional service
 ---

@@ -11,16 +11,16 @@ neighborhood: "Downtown"
 phone: "780-443-0121"
 website: "https://albertalawoffice.ca"
 hours:
-  monday: "8:30 AM - 5:00 PM"
-  tuesday: "8:30 AM - 5:00 PM"
-  wednesday: "8:30 AM - 5:00 PM"
-  thursday: "8:30 AM - 5:00 PM"
-  friday: "8:30 AM - 5:00 PM"
+  monday: "8:30 AM–5:00 PM"
+  tuesday: "8:30 AM–5:00 PM"
+  wednesday: "8:30 AM–5:00 PM"
+  thursday: "8:30 AM–5:00 PM"
+  friday: "8:30 AM–2:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/alberta-law-office-1.jpg", "/photos/alberta-law-office-2.jpg", "/photos/alberta-law-office-3.jpg"]
 rating: 4.9
-review_count: 135
+review_count: 136
 price_range: "$$$"
 amenities:
   - "Free Consultation"

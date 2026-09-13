@@ -11,16 +11,16 @@ phone: "(587) 635-0200"
 website: "http://www.bb2kbbq.ca/"
 google_maps_url: "https://maps.google.com/?cid=17276832844070280865&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "4:30 - 11:00 PM"
-  tuesday: "4:30 - 11:00 PM"
-  wednesday: "4:30 - 11:00 PM"
-  thursday: "4:30 - 11:00 PM"
-  friday: "4:30 - 11:00 PM"
-  saturday: "12:00 - 11:00 PM"
-  sunday: "12:00 - 10:00 PM"
+  monday: "4:30 PM–11:00 PM"
+  tuesday: "4:30 PM–11:00 PM"
+  wednesday: "4:30 PM–11:00 PM"
+  thursday: "4:30 PM–11:00 PM"
+  friday: "4:30 PM–11:00 PM"
+  saturday: "12:00 PM–11:00 PM"
+  sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/bb2-korean-bbq-buffet-1.jpg", "/photos/bb2-korean-bbq-buffet-2.jpg", "/photos/bb2-korean-bbq-buffet-3.jpg"]
 rating: 4.4
-review_count: 356
+review_count: 361
 price_range: "$$"
 amenities:
   - "Dine-In"

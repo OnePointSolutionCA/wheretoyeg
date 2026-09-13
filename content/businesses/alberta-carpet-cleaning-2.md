@@ -11,16 +11,16 @@ phone: "(780) 444-7847"
 website: "http://www.albertacarpetcleaning.ca/"
 google_maps_url: "https://maps.google.com/?cid=12951301623373550947&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 6:00 PM"
-  tuesday: "7:00 AM - 6:00 PM"
-  wednesday: "7:00 AM - 6:00 PM"
-  thursday: "7:00 AM - 6:00 PM"
-  friday: "7:00 AM - 6:00 PM"
-  saturday: "7:00 AM - 6:00 PM"
-  sunday: "9:00 AM - 5:00 PM"
+  monday: "7:00 AM–6:00 PM"
+  tuesday: "7:00 AM–6:00 PM"
+  wednesday: "7:00 AM–6:00 PM"
+  thursday: "7:00 AM–6:00 PM"
+  friday: "7:00 AM–6:00 PM"
+  saturday: "7:00 AM–6:00 PM"
+  sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/alberta-carpet-cleaning-2-1.jpg", "/photos/alberta-carpet-cleaning-2-2.jpg", "/photos/alberta-carpet-cleaning-2-3.jpg"]
 rating: 4.8
-review_count: 1783
+review_count: 1790
 price_range: "$$$$"
 amenities:
 

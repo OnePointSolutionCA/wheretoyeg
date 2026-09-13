@@ -11,16 +11,16 @@ phone: "(780) 705-5775"
 website: "http://www.4pointshealth.com/"
 google_maps_url: "https://maps.google.com/?cid=18268084846982939421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 8:00 PM"
-  tuesday: "8:00 AM - 8:00 PM"
-  wednesday: "8:00 AM - 8:00 PM"
-  thursday: "8:00 AM - 8:00 PM"
-  friday: "8:00 AM - 8:00 PM"
-  saturday: "9:00 AM - 4:00 PM"
-  sunday: "10:00 AM - 3:00 PM"
+  monday: "8:00 AM–8:00 PM"
+  tuesday: "8:00 AM–8:00 PM"
+  wednesday: "8:00 AM–8:00 PM"
+  thursday: "8:00 AM–8:00 PM"
+  friday: "8:00 AM–8:00 PM"
+  saturday: "9:00 AM–4:00 PM"
+  sunday: "10:00 AM–3:00 PM"
 photos: ["/photos/4-points-health-and-wellness-1.jpg", "/photos/4-points-health-and-wellness-2.jpg", "/photos/4-points-health-and-wellness-3.jpg"]
 rating: 4.9
-review_count: 369
+review_count: 373
 price_range: "$$"
 amenities:
 

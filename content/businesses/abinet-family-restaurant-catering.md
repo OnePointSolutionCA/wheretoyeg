@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 244-1974"
 google_maps_url: "https://maps.google.com/?cid=7017416804316282209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 10:30 PM"
-  tuesday: "11:00 AM - 10:00 PM"
+  monday: "11:00 AM–10:30 PM"
+  tuesday: "11:00 AM–10:00 PM"
   wednesday: "Closed"
-  thursday: "11:00 AM - 10:00 PM"
-  friday: "11:00 AM - 11:00 PM"
-  saturday: "11:00 AM - 11:00 PM"
-  sunday: "11:00 AM - 11:00 PM"
+  thursday: "11:00 AM–10:00 PM"
+  friday: "11:00 AM–11:00 PM"
+  saturday: "11:00 AM–11:00 PM"
+  sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/abinet-family-restaurant-catering-1.jpg", "/photos/abinet-family-restaurant-catering-2.jpg", "/photos/abinet-family-restaurant-catering-3.jpg"]
 rating: 4.7
-review_count: 150
+review_count: 151
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -37,10 +37,6 @@ reviews:
     rating: 5
     comment: |
       Had such a delicious Ethiopian lunch today! every dish was full of flavor and just so satisfying. The owners were incredibly kind and welcoming, which made the whole experience even better. Service was honestly top-notch. Definitely a spot I’ll be coming back to!
-  - name: "Bithania Kassa"
-    rating: 5
-    comment: |
-      Amazing Ethiopian food with everything made to perfection!! Their catering service is wonderful also to book for events with delicious food and great service!
   - name: "Melania Stavale"
     rating: 5
     comment: |
@@ -53,4 +49,8 @@ reviews:
       I highly recommend this place to anyone looking for quality food and a great experience
       
       Definitely one of the best restaurants in the city!
+  - name: "Fred Imough"
+    rating: 5
+    comment: |
+      This food is the best.  And their family meal platter is the best bang for your buck.  Very tasty traditional Ethiopian food.   I totally recommend them.
 ---

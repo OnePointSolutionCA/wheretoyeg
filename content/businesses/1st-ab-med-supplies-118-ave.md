@@ -12,16 +12,16 @@ phone: "780-733-0042"
 website: "https://1stabmedsupplies.ca"
 google_maps_url: "https://maps.google.com/?q=5809+118+Ave+NW+Edmonton"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/1st-ab-med-supplies-118-ave.png"]
-rating: 0
-review_count: 0
+rating: 5
+review_count: 4
 price_range: "$$"
 amenities:
   - "In-Store Shopping"

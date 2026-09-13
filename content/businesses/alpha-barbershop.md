@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 249-5240"
 google_maps_url: "https://maps.google.com/?cid=5707115322567284846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 8:00 PM"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 8:00 PM"
-  saturday: "9:00 AM - 8:00 PM"
-  sunday: "11:00 AM - 6:00 PM"
+  monday: "9:00 AM–8:00 PM"
+  tuesday: "9:00 AM–8:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–8:00 PM"
+  saturday: "9:00 AM–8:00 PM"
+  sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/alpha-barbershop-1.jpg", "/photos/alpha-barbershop-2.jpg", "/photos/alpha-barbershop-3.jpg"]
 rating: 4.8
-review_count: 150
+review_count: 151
 price_range: "$$"
 amenities:
 
@@ -47,10 +47,8 @@ reviews:
     rating: 5
     comment: |
       Ramzi is amazing. Very professional, friendly, and really takes his time to make sure everything looks perfect. The barbershop is clean, welcoming, and the service is always great. Highly recommend Ramzi to anyone looking for a fresh haircut and a great experience.
-  - name: "RL Bear"
+  - name: "John"
     rating: 5
     comment: |
-      Fellas, listen.. if you want your beard to look like a million bucks, whether you got a short or long beard, ask for Alicia. I know Lots of us guys are sometimes hesitant to let a lady touch our beards but Alicia is an absolutely fantastic barber and her beard cutting and shaping skills are second to none. Trust me. If you get her to work on your beard once, I guarantee you that she will become your new number 1. 🤟
-      
-      Thanks Alicia for the amazing beard trim and shaping you did for me today 😎
+      I cannot recommend Alicia highly enough! She is a true master of her craft, and her precision with hair is incredible. Beyond being exceptionally talented, she is a beautiful person inside and out who genuinely loves her job. That passion shows in every single cut and style she does. If you’ve been hesitant about trying someone new, do yourself a favour and book an appointment with her. Everyone needs to stop by her chair she will make you feel like a million bucks!
 ---

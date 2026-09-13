@@ -12,4 +12,12 @@ website: "https://autorevivalmobilecardetailing.shop/Beaumont"
 google_maps: "https://maps.google.com/?cid=14206779800162236524&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/auto-mobile-car-detailing-beaumont.jpg"
+hours:
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 ---

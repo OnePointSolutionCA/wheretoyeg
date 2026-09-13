@@ -12,16 +12,16 @@ phone: "780-733-0043"
 website: "https://1stabmedsupplies.ca"
 google_maps_url: "https://maps.google.com/?q=13514+97+St+NW+Edmonton"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/1st-ab-med-supplies-97-st.png"]
 rating: 5
-review_count: 11
+review_count: 4
 price_range: "$$"
 amenities:
   - "In-Store Shopping"

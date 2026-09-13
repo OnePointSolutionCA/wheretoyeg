@@ -11,16 +11,16 @@ phone: "(780) 879-0330"
 website: "http://www.bikklesntings.ca/"
 google_maps_url: "https://maps.google.com/?cid=11267172553796357419&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 9:00 PM"
-  tuesday: "10:00 AM - 9:00 PM"
-  wednesday: "10:00 AM - 9:00 PM"
-  thursday: "10:00 AM - 9:00 PM"
-  friday: "10:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 9:00 PM"
-  sunday: "11:00 AM - 7:00 PM"
+  monday: "11:00 AM–9:00 PM"
+  tuesday: "10:00 AM–9:00 PM"
+  wednesday: "10:00 AM–9:00 PM"
+  thursday: "10:00 AM–9:00 PM"
+  friday: "10:00 AM–9:00 PM"
+  saturday: "10:00 AM–9:00 PM"
+  sunday: "11:00 AM–7:00 PM"
 photos: ["/photos/bikkles-n-tings-caribbean-eatery-1.jpg", "/photos/bikkles-n-tings-caribbean-eatery-2.jpg", "/photos/bikkles-n-tings-caribbean-eatery-3.jpg"]
 rating: 4.8
-review_count: 175
+review_count: 178
 price_range: "$$"
 amenities:
   - "Dine-In"

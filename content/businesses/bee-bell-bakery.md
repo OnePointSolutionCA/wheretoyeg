@@ -17,8 +17,8 @@ hours:
   saturday: "8:00 AM - 5:00 PM"
   sunday: "Closed"
 photos: []
-rating: 4.7
-review_count: 440
+rating: 5
+review_count: 1
 price_range: "$$"
 amenities:
   - "Custom Orders"

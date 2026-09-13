@@ -11,12 +11,12 @@ phone: "(519) 890-1446"
 website: "https://cotieguzmanfitness.wixsite.com/allstarfitness/consultation"
 google_maps_url: "https://maps.google.com/?cid=11291437506284811315&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 8:00 PM"
-  tuesday: "7:00 AM - 8:00 PM"
-  wednesday: "7:00 AM - 8:00 PM"
-  thursday: "7:00 AM - 8:00 PM"
-  friday: "7:00 AM - 8:00 PM"
-  saturday: "9:00 AM - 3:00 PM"
+  monday: "7:00 AM–8:00 PM"
+  tuesday: "7:00 AM–8:00 PM"
+  wednesday: "7:00 AM–8:00 PM"
+  thursday: "7:00 AM–8:00 PM"
+  friday: "7:00 AM–8:00 PM"
+  saturday: "9:00 AM–3:00 PM"
   sunday: "Closed"
 photos: ["/photos/all-star-fitness-gym-1.jpg", "/photos/all-star-fitness-gym-2.jpg", "/photos/all-star-fitness-gym-3.jpg"]
 rating: 5

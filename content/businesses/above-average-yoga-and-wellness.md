@@ -11,12 +11,12 @@ phone: "(780) 488-1121"
 website: "http://www.aayogaandwellness.com/"
 google_maps_url: "https://maps.google.com/?cid=11109308275126135130&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "4:30 - 7:30 PM"
-  tuesday: "10:00 AM - 5:00 PM"
-  wednesday: "10:30 AM - 4:30 PM"
-  thursday: "10:00 AM - 5:00 PM"
-  friday: "10:00 AM - 5:00 PM"
-  saturday: "10:00 AM - 3:00 PM"
+  monday: "4:30 PM–7:30 PM"
+  tuesday: "10:00 AM–5:00 PM"
+  wednesday: "10:30 AM–4:30 PM"
+  thursday: "10:00 AM–5:00 PM"
+  friday: "10:00 AM–5:00 PM"
+  saturday: "10:00 AM–3:00 PM"
   sunday: "Closed"
 photos: ["/photos/above-average-yoga-and-wellness-1.jpg", "/photos/above-average-yoga-and-wellness-2.jpg", "/photos/above-average-yoga-and-wellness-3.jpg"]
 rating: 4.9

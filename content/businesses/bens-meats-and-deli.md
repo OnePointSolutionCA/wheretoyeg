@@ -12,15 +12,15 @@ website: "http://www.bensmeats.com/"
 google_maps_url: "https://maps.google.com/?cid=12959100867445075592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "9:00 AM - 5:30 PM"
-  wednesday: "9:00 AM - 5:30 PM"
-  thursday: "9:00 AM - 5:30 PM"
-  friday: "9:00 AM - 5:30 PM"
-  saturday: "8:00 AM - 5:00 PM"
+  tuesday: "9:00 AM–5:30 PM"
+  wednesday: "9:00 AM–5:30 PM"
+  thursday: "9:00 AM–5:30 PM"
+  friday: "9:00 AM–5:30 PM"
+  saturday: "8:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/bens-meats-and-deli-1.jpg", "/photos/bens-meats-and-deli-2.jpg", "/photos/bens-meats-and-deli-3.jpg"]
 rating: 4.8
-review_count: 1084
+review_count: 1089
 price_range: "$$"
 amenities:
 

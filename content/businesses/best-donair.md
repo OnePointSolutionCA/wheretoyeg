@@ -11,16 +11,16 @@ phone: "(780) 487-5959"
 website: "https://www.bestdonair.com/"
 google_maps_url: "https://maps.google.com/?cid=11800713539468318492&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 10:00 PM"
-  tuesday: "11:00 AM - 10:00 PM"
-  wednesday: "11:00 AM - 10:00 PM"
-  thursday: "11:00 AM - 10:00 PM"
-  friday: "11:00 AM - 10:00 PM"
-  saturday: "11:00 AM - 10:00 PM"
-  sunday: "11:00 AM - 10:00 PM"
+  monday: "11:00 AM–10:00 PM"
+  tuesday: "11:00 AM–10:00 PM"
+  wednesday: "11:00 AM–10:00 PM"
+  thursday: "11:00 AM–10:00 PM"
+  friday: "11:00 AM–10:00 PM"
+  saturday: "11:00 AM–10:00 PM"
+  sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/best-donair-1.jpg", "/photos/best-donair-2.jpg", "/photos/best-donair-3.jpg"]
 rating: 4.4
-review_count: 529
+review_count: 532
 price_range: "$"
 amenities:
   - "Halal"

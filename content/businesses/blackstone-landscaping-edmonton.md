@@ -11,13 +11,13 @@ phone: "(438) 365-8677"
 website: "https://blackstonelandscapingab.com/"
 google_maps_url: "https://maps.google.com/?cid=13128112681650233845&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 11:00 PM"
-  tuesday: "7:00 AM - 11:00 PM"
-  wednesday: "7:00 AM - 11:00 PM"
-  thursday: "7:00 AM - 11:00 PM"
-  friday: "7:00 AM - 11:00 PM"
-  saturday: "7:00 AM - 11:00 PM"
-  sunday: "7:00 AM - 11:00 PM"
+  monday: "7:00 AM–11:00 PM"
+  tuesday: "7:00 AM–11:00 PM"
+  wednesday: "7:00 AM–11:00 PM"
+  thursday: "7:00 AM–11:00 PM"
+  friday: "7:00 AM–11:00 PM"
+  saturday: "7:00 AM–11:00 PM"
+  sunday: "7:00 AM–11:00 PM"
 photos: ["/photos/blackstone-landscaping-edmonton-1.jpg", "/photos/blackstone-landscaping-edmonton-2.jpg", "/photos/blackstone-landscaping-edmonton-3.jpg"]
 rating: 5
 review_count: 38

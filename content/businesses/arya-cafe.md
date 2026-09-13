@@ -8,16 +8,16 @@ address: "Edmonton"
 neighborhood: "West Edmonton"
 google_maps_url: "https://maps.google.com/?q=Arya+Cafe+Edmonton"
 hours:
-  monday: "10:00 AM - 10:00 PM"
-  tuesday: "10:00 AM - 10:00 PM"
-  wednesday: "10:00 AM - 10:00 PM"
-  thursday: "10:00 AM - 10:00 PM"
-  friday: "10:00 AM - 11:00 PM"
-  saturday: "10:00 AM - 11:00 PM"
-  sunday: "10:00 AM - 10:00 PM"
+  monday: "9:00 AM–11:00 PM"
+  tuesday: "9:00 AM–11:00 PM"
+  wednesday: "9:00 AM–11:00 PM"
+  thursday: "9:00 AM–11:00 PM"
+  friday: "9:00 AM–11:00 PM"
+  saturday: "9:00 AM–11:00 PM"
+  sunday: "9:00 AM–11:00 PM"
 photos: ["/photos/arya-cafe-1.jpg", "/photos/arya-cafe-2.jpg", "/photos/arya-cafe-3.jpg"]
-rating: 4.5
-review_count: 30
+rating: 4
+review_count: 533
 price_range: "$$"
 amenities:
   - "Halal"
@@ -44,28 +44,30 @@ reviews:
     rating: 4
     comment: |
       Most of the food items were pretty good. Really liked the Eggs Benedict and Trench Toast. Pancakes were average and brewed coffee was quite underwhelming. The atmosphere is nice and service is quite good.
+  - name: "Lynde Tagle"
+    rating: 5
+    comment: |
+      I like the concept of the place. Those fries of theirs are amazing as it was simple yet has a kick to it because of the cheese.  I would’ve loved the hot chocolate if it was warmer or hotter though. And the staff just took away dishes without even asking if we were done, so that was not okay. Courtesy wise my friend on customers talking and still dining please.
   - name: "Maddy Phaurest"
     rating: 3
     comment: |
       Beautiful cafe. The pastries looked fantastic and tasted pretty good. The hot chocolate was a little mild for my taste, but was good. The prices seemed a bit steep though, for 3 croissants, 2 hot chocolates and a cappuccino we ended up paying nearly 50$.
       
       I was surprised to find out the cafe had been open for more than a month though. While the servers were friendly and kind, service was slow and seemed confused. They ran out of cups while we were there, which was pretty surprising for a cafe. I also found the booths uncomfortable and a very tight fit - if I go again I would definitely go for a table with standard chairs to get a bit more space.
-  - name: "Lynde Tagle"
-    rating: 5
+  - name: "R K"
+    rating: 3
     comment: |
-      I like the concept of the place. Those fries of theirs are amazing as it was simple yet has a kick to it because of the cheese.  I would’ve loved the hot chocolate if it was warmer or hotter though. And the staff just took away dishes without even asking if we were done, so that was not okay. Courtesy wise my friend on customers talking and still dining please.
-  - name: "Hesham Elfar"
-    rating: 5
-    comment: |
-      European-Style Café in Edmonton
+      We ordered the truffle omelette, avocado eggs benedict, and the pepper and carrot soup with a side of the truffle fries.
       
-      We stopped in for Sunday brunch and were genuinely impressed by the freshness and flavor of the food. We tried the Egg Croissant and the Avocado Toast, and both dishes were delicious and well-prepared.
+      The food was severely underwhelming for the price point. The truffle omelette didn't have any truffle flavour at all, and the portion size was so small that the person who ordered it was still hungry after finishing it. The cost was $24.
       
-      We couldn’t resist ordering pastries, and we’re glad we did. The Almond Croquant and Millefeuille were high-quality, artistic pastry craftsmanship.—each bite felt like being transported to a Parisian café. The pastries were high quality, light rather than heavy, and pleasantly balanced in sweetness. The layers in the millefeuille were beautifully crisp and delicate. These pastries were easily comparable to those crafted in Pâtisserie fine in Paris.
+      The eggs benedict was $25, and I only noticed when seeing the ingredients now that there was truffle goat cheese in it. It was a fairly bland benny and definitely no truffle flavour.
       
-      The Almond and Pasticcio Croissants were delicious. With their many thin, flaky layers, they were crispy on the outside, airy inside, and filled with rich almond and pasticcio flavors.
+      The person who ordered the soup was disappointed that it came with two of the thinnest sourdough crostinis she'd ever had served with soup. I tried a little bit of it, and it also was very underwhelming in flavour. The truffle fries were the most truffle-y tasting, but at the price of $12, you can definitely find better in many other restaurants or pubs.
       
-      The cappuccinos were very well done too, with thick foam and perfectly balanced espresso.
+      Honestly the pastries are beautiful, and they look delicious. That being said, I can't really justify spending 16 to 18 dollars on a 4-inch piece of cake or a tiny tart.
       
-      We enjoyed the experience so much that we’ve already returned twice this week. Highly recommended for anyone who loves authentic European pastries, fine cappuccinos and a tasty brunch.
+      This location is a newer-developed area, and it would be really nice to have a local, non-chain little breakfast/brunch/cafe. I just wish either the portion or quality reflected the price or vice versa.
+      
+      That being said, I'll give this place at least one more try in the future, but I think the fact that so many people leaving reviews with concerns over the prices is fairly telling. For the food items above and two drip coffees and a latte, we spent around $92 before any tax or tip on breakfast.
 ---

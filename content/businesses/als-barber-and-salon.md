@@ -14,17 +14,30 @@ photos:
 reviews:
   - name: "johan jordaan"
     rating: 5
-    comment: "Had my head done by Abdul, great guy, intuitive,  innovative and quick, I walked in with an idea and Abdul made it an identy. Awsem experience.Higly recommend Abdul. Great value for money"
+    comment: |
+      Had my head done by Abdul, great guy, intuitive,  innovative and quick, I walked in with an idea and Abdul made it an identy. Awsem experience.Higly recommend Abdul. Great value for money
   - name: "moekadri69"
     rating: 5
-    comment: "First time haircut at AL’s , Mohamad did a great job both on my hair fade and fixed up my beard real nice . Will go back for sure"
+    comment: |
+      First time haircut at AL’s , Mohamad did a great job both on my hair fade and fixed up my beard real nice . Will go back for sure
   - name: "Ashraf M"
     rating: 5
-    comment: "Mohamed Noor is the best barber in Edmonton, the place very clean the service is amazing, u should try I always do my hair cut with Mohamed, cheers تحياتي"
+    comment: |
+      Mohamed Noor is the best barber in Edmonton, the place very clean the service is amazing, u should try I always do my hair cut with Mohamed, cheers تحياتي
   - name: "Muayad Almasri"
     rating: 5
-    comment: "Abdul one of the best expert barbers in the city you should try him out."
+    comment: |
+      Abdul one of the best expert barbers in the city you should try him out.
   - name: "Tayseer Arabi"
     rating: 5
-    comment: "Best place to get a haircut, good service and friendly staff"
+    comment: |
+      Best place to get a haircut, good service and friendly staff
+hours:
+  monday: "10:00 AM–8:00 PM"
+  tuesday: "10:00 AM–8:00 PM"
+  wednesday: "10:00 AM–8:00 PM"
+  thursday: "10:00 AM–8:00 PM"
+  friday: "10:00 AM–8:00 PM"
+  saturday: "10:00 AM–8:00 PM"
+  sunday: "10:00 AM–8:00 PM"
 ---

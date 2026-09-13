@@ -11,16 +11,16 @@ phone: "(780) 433-4441"
 website: "https://www.acnahearing.com/"
 google_maps_url: "https://maps.google.com/?cid=2610345964802804669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:30 AM - 4:30 PM"
-  tuesday: "8:30 AM - 4:30 PM"
-  wednesday: "8:30 AM - 4:30 PM"
-  thursday: "8:30 AM - 4:30 PM"
-  friday: "8:30 AM - 4:30 PM"
+  monday: "8:30 AM–4:30 PM"
+  tuesday: "8:30 AM–4:30 PM"
+  wednesday: "8:30 AM–4:30 PM"
+  thursday: "8:30 AM–4:30 PM"
+  friday: "8:30 AM–4:30 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/audiology-clinic-of-northern-alberta-1.jpg", "/photos/audiology-clinic-of-northern-alberta-2.jpg", "/photos/audiology-clinic-of-northern-alberta-3.jpg"]
 rating: 4.9
-review_count: 804
+review_count: 807
 price_range: "$$"
 amenities:
 

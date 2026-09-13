@@ -11,16 +11,16 @@ phone: "(587) 407-2953"
 website: "https://www.anejo.ca/en/locations/ab/edmonton/11954-104-avenue-nw"
 google_maps_url: "https://maps.google.com/?cid=15517754853310799495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:30 AM - 10:00 PM"
-  tuesday: "11:30 AM - 11:00 PM"
-  wednesday: "11:30 AM - 11:00 PM"
-  thursday: "11:30 AM - 12:00 AM"
-  friday: "11:30 AM - 1:00 AM"
-  saturday: "11:30 AM - 1:00 AM"
-  sunday: "11:30 AM - 10:00 PM"
+  monday: "11:30 AM–10:00 PM"
+  tuesday: "11:30 AM–11:00 PM"
+  wednesday: "11:30 AM–11:00 PM"
+  thursday: "11:30 AM–12:00 AM"
+  friday: "11:30 AM–1:00 AM"
+  saturday: "11:30 AM–1:00 AM"
+  sunday: "11:30 AM–10:00 PM"
 photos: ["/photos/aejo-restaurant-1.jpg", "/photos/aejo-restaurant-2.jpg", "/photos/aejo-restaurant-3.jpg"]
 rating: 4.6
-review_count: 2312
+review_count: 2319
 price_range: "$$"
 amenities:
   - "Dine-In"

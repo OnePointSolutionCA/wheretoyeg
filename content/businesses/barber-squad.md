@@ -12,16 +12,16 @@ phone: "(780) 435-5519"
 website: "https://barbersquad.ca"
 google_maps_url: "https://maps.google.com/?q=Barber+Squad+Edmonton"
 hours:
-  monday: "10:00 AM - 7:00 PM"
-  tuesday: "10:00 AM - 7:00 PM"
-  wednesday: "10:00 AM - 7:00 PM"
-  thursday: "10:00 AM - 7:00 PM"
-  friday: "10:00 AM - 7:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
-  sunday: "11:00 AM - 5:00 PM"
+  monday: "9:00 AM–7:00 PM"
+  tuesday: "9:00 AM–7:00 PM"
+  wednesday: "9:00 AM–7:00 PM"
+  thursday: "9:00 AM–7:00 PM"
+  friday: "9:00 AM–7:00 PM"
+  saturday: "9:00 AM–5:00 PM"
+  sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/barber-squad-1.jpg", "/photos/barber-squad-2.jpg", "/photos/barber-squad-3.jpg"]
-rating: 4.8
-review_count: 623
+rating: 4.9
+review_count: 394
 price_range: "$$"
 amenities:
   - "Appointments"
@@ -52,8 +52,8 @@ reviews:
       The shop itself was clean, comfortable, and had a very welcoming atmosphere, which made the whole experience even better.
       If you’re looking for a talented and professional barber who truly knows his craft, I highly recommend this place. I’ll definitely be coming back!
       Dr Amjad
-  - name: "Bren Grohn"
+  - name: "Tubie west"
     rating: 5
     comment: |
-      Great service at this spot. I’ve been going here for couple years, and I’m satisfied every time. Reasonable price, good quality hair cut. In my experiences, all of the barbers care about the work they do. Can get busy on the weekends so I’d recommend booking ahead of time!
+      I recently moved to Edmonton and was looking for a new spot, and I’m so glad I found Barber Squad. I had a bit of a rough start with my first barber, but the way the team handled it was world-class. A second barber stepped in immediately to ensure the cut was perfect, and he absolutely nailed it. The level of customer service and hospitality here is something you don’t find often. They truly care about their clients walking out looking their best. If you want a shop that takes pride in their work and treats you like royalty, this is the place. Highly recommended💯
 ---

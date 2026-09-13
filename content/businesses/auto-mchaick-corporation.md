@@ -15,8 +15,18 @@ photos:
 reviews:
   - name: "Josef frht"
     rating: 5
-    comment: "The best place to repair my cars you don’t clean jobcharge fair price always I repair My car with  mshaik auto"
+    comment: |
+      The best place to repair my cars you don’t clean jobcharge fair price always I repair My car with  mshaik auto
   - name: "Joshua Rath"
     rating: 5
-    comment: "Great service and very honest mechanic. They fixed my car quickly, explained everything clearly, and the price was fair. The car runs perfectly now, and I’ll definitely be coming back. Highly recommend!"
+    comment: |
+      Great service and very honest mechanic. They fixed my car quickly, explained everything clearly, and the price was fair. The car runs perfectly now, and I’ll definitely be coming back. Highly recommend!
+hours:
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–6:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "9:00 AM–6:00 PM"
+  friday: "9:00 AM–6:00 PM"
+  saturday: "9:00 AM–6:00 PM"
+  sunday: "9:00 AM–6:00 PM"
 ---

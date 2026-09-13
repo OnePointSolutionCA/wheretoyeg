@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(647) 771-8496"
 google_maps_url: "https://maps.google.com/?cid=11753903877502360798&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:30 - 7:00 AM, 10:00 AM - 7:00 PM"
-  tuesday: "12:30 - 7:00 AM, 10:00 AM - 7:00 PM"
-  wednesday: "12:30 - 7:00 AM, 10:00 AM - 7:00 PM"
-  thursday: "12:30 - 7:00 AM, 10:00 AM - 7:00 PM"
-  friday: "12:30 - 7:00 AM, 10:00 AM - 7:00 PM"
-  saturday: "12:30 - 7:00 AM, 10:00 AM - 7:00 PM"
-  sunday: "7:00 AM - 7:00 PM"
+  monday: "12:30 AM–7:00 AM"
+  tuesday: "12:30 AM–7:00 AM"
+  wednesday: "12:30 AM–7:00 AM"
+  thursday: "12:30 AM–7:00 AM"
+  friday: "12:30 AM–7:00 AM"
+  saturday: "12:30 AM–7:00 AM"
+  sunday: "7:00 AM–7:00 PM"
 photos: ["/photos/authentic-punjabi-tiffin-catering-1.jpg", "/photos/authentic-punjabi-tiffin-catering-2.jpg", "/photos/authentic-punjabi-tiffin-catering-3.jpg"]
 rating: 5
-review_count: 49
+review_count: 53
 price_range: "$$"
 amenities:
   - "Halal"

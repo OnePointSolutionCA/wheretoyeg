@@ -11,16 +11,16 @@ phone: "(780) 540-2233"
 website: "http://www.awash-ethiopian.com/"
 google_maps_url: "https://maps.google.com/?cid=9514772077389294809&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 10:00 PM"
-  tuesday: "12:00 - 10:00 PM"
-  wednesday: "12:00 - 10:00 PM"
-  thursday: "12:00 - 10:00 PM"
-  friday: "12:00 - 10:00 PM"
-  saturday: "12:00 - 10:00 PM"
-  sunday: "12:00 - 10:00 PM"
+  monday: "12:00 PM–10:00 PM"
+  tuesday: "12:00 PM–10:00 PM"
+  wednesday: "12:00 PM–10:00 PM"
+  thursday: "12:00 PM–10:00 PM"
+  friday: "12:00 PM–10:00 PM"
+  saturday: "12:00 PM–10:00 PM"
+  sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/awash-ethiopian-restaurant-edmonton-1.jpg", "/photos/awash-ethiopian-restaurant-edmonton-2.jpg", "/photos/awash-ethiopian-restaurant-edmonton-3.jpg"]
 rating: 4.7
-review_count: 552
+review_count: 556
 price_range: "$$"
 amenities:
   - "Dine-In"

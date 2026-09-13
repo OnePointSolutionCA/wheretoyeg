@@ -11,12 +11,12 @@ phone: "(825) 865-6505"
 website: "http://www.arbeldancestudio.com/"
 google_maps_url: "https://maps.google.com/?cid=17066994747552267244&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "4:00 - 8:00 PM"
+  monday: "4:00 PM–8:00 PM"
   tuesday: "Closed"
-  wednesday: "4:00 - 8:00 PM"
+  wednesday: "4:00 PM–8:00 PM"
   thursday: "Closed"
-  friday: "5:00 - 8:00 PM"
-  saturday: "1:00 - 5:00 PM"
+  friday: "5:00 PM–8:00 PM"
+  saturday: "1:00 PM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/arbel-dance-studio-1.jpg"]
 rating: 5
@@ -38,6 +38,10 @@ reviews:
       Whether you’re a beginner or an experienced dancer, the coaches will help you reach your full potential. Their dedication, patience, and attention to detail make every lesson enjoyable and productive.
       
       This school is more than just a place to learn how to dance—it’s a community where confidence, discipline, and a love for dance grow together. I highly recommend it to anyone looking for high-quality dance instruction and an amazing experience!
+  - name: "Nataliya Parshak"
+    rating: 5
+    comment: |
+      Finally, we found what we’ve been looking for such a long time! ❤️Arbel studio is an Excellent Latin dance classes with truly professional and passionate teachers. Highly recommend! 💃✨
   - name: "Borys Gorfunkel"
     rating: 5
     comment: |
@@ -46,10 +50,6 @@ reviews:
     rating: 5
     comment: |
       Such a great experience! I recently started private dance lessons and I’m very happy with my progress. The studio is fantastic. Definitely recommend.
-  - name: "Ника Кононенко"
-    rating: 5
-    comment: |
-      Very professional studio. Clean, organized, and teachers really care about students. Best place to learn ballroom and Latin dance.
   - name: "Cristina Budnitcaia"
     rating: 5
     comment: |

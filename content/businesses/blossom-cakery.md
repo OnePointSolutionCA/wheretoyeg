@@ -11,16 +11,16 @@ phone: "(780) 989-8889"
 website: "http://blossomcakeryedm.com/"
 google_maps_url: "https://maps.google.com/?cid=15413755282063630598&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 7:00 PM"
-  tuesday: "11:00 AM - 7:00 PM"
-  wednesday: "11:00 AM - 7:00 PM"
-  thursday: "11:00 AM - 7:00 PM"
-  friday: "11:00 AM - 7:00 PM"
-  saturday: "11:00 AM - 5:30 PM"
+  monday: "11:00 AM–7:00 PM"
+  tuesday: "11:00 AM–7:00 PM"
+  wednesday: "11:00 AM–7:00 PM"
+  thursday: "11:00 AM–7:00 PM"
+  friday: "11:00 AM–7:00 PM"
+  saturday: "11:00 AM–5:30 PM"
   sunday: "Closed"
 photos: ["/photos/blossom-cakery-1.jpg", "/photos/blossom-cakery-2.jpg", "/photos/blossom-cakery-3.jpg"]
 rating: 4.6
-review_count: 136
+review_count: 137
 price_range: "$$$$"
 amenities:
   - "Dine-In"

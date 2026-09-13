@@ -11,16 +11,16 @@ phone: "(780) 484-4006"
 website: "https://www.atsaccountinginc.com/?utm_source=GMB&utm_medium=organic"
 google_maps_url: "https://maps.google.com/?cid=13372637334277869033&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/ats-accounting-inc-1.jpg", "/photos/ats-accounting-inc-2.jpg", "/photos/ats-accounting-inc-3.jpg"]
 rating: 4.8
-review_count: 428
+review_count: 429
 price_range: "$$"
 amenities:
 
@@ -28,15 +28,6 @@ tags: ["edmonton", "accounting"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Shyrra Pinder"
-    rating: 5
-    comment: |
-      ​Filing taxes used to be something I absolutely dreaded, but ATS Accounting completely changed that! They made the entire process incredibly smooth and easy.
-      ​From the moment I walked in, the receptionist was so welcoming and polite, and the office itself is immaculate, highly professional, and very well-maintained.
-      
-      ​Working with my representative, Abraham, was an absolute breeze. He was so easy to deal with and made the whole experience feel like catching up with an old friend. On top of the fantastic service, their rates are very reasonable and fair.
-      
-      ​If you want a stress-free tax season with great people and great prices, I highly recommend them!
   - name: "Maria Pamela Lim"
     rating: 5
     comment: |
@@ -66,4 +57,13 @@ reviews:
       They handled my tax filing carefully and efficiently, and I felt confident that everything was done correctly. The service was fast, organized, and stress-free.
       
       I really appreciate how respectful and helpful they were with me. I would definitely recommend ATS Accounting to anyone looking for reliable and trustworthy help with their taxes.
+  - name: "Shyrra Pinder"
+    rating: 5
+    comment: |
+      ​Filing taxes used to be something I absolutely dreaded, but ATS Accounting completely changed that! They made the entire process incredibly smooth and easy.
+      ​From the moment I walked in, the receptionist was so welcoming and polite, and the office itself is immaculate, highly professional, and very well-maintained.
+      
+      ​Working with my representative, Abraham, was an absolute breeze. He was so easy to deal with and made the whole experience feel like catching up with an old friend. On top of the fantastic service, their rates are very reasonable and fair.
+      
+      ​If you want a stress-free tax season with great people and great prices, I highly recommend them!
 ---

@@ -11,16 +11,16 @@ phone: "(780) 478-1066"
 website: "http://www.albanychiropractic.ca/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=18361027152235025348"
 google_maps_url: "https://maps.google.com/?cid=15595794485267364375&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 7:00 PM"
-  tuesday: "9:00 AM - 7:00 PM"
-  wednesday: "9:00 AM - 7:00 PM"
-  thursday: "9:00 AM - 7:00 PM"
-  friday: "9:00 AM - 7:00 PM"
-  saturday: "10:00 AM - 1:00 PM"
+  monday: "9:00 AM–7:00 PM"
+  tuesday: "9:00 AM–7:00 PM"
+  wednesday: "9:00 AM–7:00 PM"
+  thursday: "9:00 AM–7:00 PM"
+  friday: "9:00 AM–7:00 PM"
+  saturday: "10:00 AM–1:00 PM"
   sunday: "Closed"
 photos: ["/photos/albany-chiropractic-physiotherapy-massage-1.jpg", "/photos/albany-chiropractic-physiotherapy-massage-2.jpg", "/photos/albany-chiropractic-physiotherapy-massage-3.jpg"]
 rating: 4.9
-review_count: 330
+review_count: 333
 price_range: "$$"
 amenities:
   - "Dine-In"

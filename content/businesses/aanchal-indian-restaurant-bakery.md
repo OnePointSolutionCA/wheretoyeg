@@ -11,16 +11,16 @@ phone: "(780) 761-8001"
 website: "https://www.aanchalyeg.ca/"
 google_maps_url: "https://maps.google.com/?cid=3510761837635021502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 10:00 PM"
-  tuesday: "11:00 AM - 10:00 PM"
-  wednesday: "11:00 AM - 10:00 PM"
-  thursday: "11:00 AM - 10:00 PM"
-  friday: "11:00 AM - 12:00 AM"
-  saturday: "11:00 AM - 12:00 AM"
-  sunday: "11:00 AM - 10:00 PM"
+  monday: "11:00 AM–10:00 PM"
+  tuesday: "11:00 AM–10:00 PM"
+  wednesday: "11:00 AM–10:00 PM"
+  thursday: "11:00 AM–10:00 PM"
+  friday: "11:00 AM–12:00 AM"
+  saturday: "11:00 AM–12:00 AM"
+  sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/aanchal-indian-restaurant-bakery-1.jpg", "/photos/aanchal-indian-restaurant-bakery-2.jpg", "/photos/aanchal-indian-restaurant-bakery-3.jpg"]
 rating: 4.9
-review_count: 83
+review_count: 88
 price_range: "$"
 amenities:
   - "Halal"

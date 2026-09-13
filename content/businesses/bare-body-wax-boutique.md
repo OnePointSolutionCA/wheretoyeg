@@ -10,13 +10,13 @@ neighborhood: "Edmonton"
 phone: "(587) 545-3712"
 google_maps_url: "https://maps.google.com/?cid=9435835372501336571&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:30 AM - 9:00 PM"
-  tuesday: "9:30 AM - 9:00 PM"
-  wednesday: "1:00 - 9:00 PM"
-  thursday: "9:00 - 10:00 AM, 6:30 - 8:00 PM"
-  friday: "9:30 AM - 7:00 PM"
-  saturday: "11:00 AM - 7:00 PM"
-  sunday: "6:30 - 8:00 PM"
+  monday: "9:30 AM–9:00 PM"
+  tuesday: "9:30 AM–9:00 PM"
+  wednesday: "1:00 PM–9:00 PM"
+  thursday: "9:00 AM–10:00 AM"
+  friday: "9:30 AM–7:00 PM"
+  saturday: "11:00 AM–7:00 PM"
+  sunday: "6:30 PM–8:00 PM"
 photos: ["/photos/bare-body-wax-boutique-1.jpg", "/photos/bare-body-wax-boutique-2.jpg", "/photos/bare-body-wax-boutique-3.jpg"]
 rating: 4.9
 review_count: 47

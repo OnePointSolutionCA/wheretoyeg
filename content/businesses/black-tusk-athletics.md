@@ -11,12 +11,12 @@ phone: "(587) 870-5525"
 website: "http://www.blacktuskathletics.com/"
 google_maps_url: "https://maps.google.com/?cid=727472115715051778&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "6:00 AM - 7:00 PM"
-  tuesday: "6:00 AM - 7:00 PM"
-  wednesday: "6:00 AM - 7:00 PM"
-  thursday: "6:00 AM - 7:00 PM"
-  friday: "6:00 AM - 7:00 PM"
-  saturday: "9:00 AM - 12:30 PM"
+  monday: "6:00 AM–7:00 PM"
+  tuesday: "6:00 AM–7:00 PM"
+  wednesday: "6:00 AM–7:00 PM"
+  thursday: "6:00 AM–7:00 PM"
+  friday: "6:00 AM–7:00 PM"
+  saturday: "9:00 AM–12:30 PM"
   sunday: "Closed"
 photos: ["/photos/black-tusk-athletics-1.jpg", "/photos/black-tusk-athletics-2.jpg", "/photos/black-tusk-athletics-3.jpg"]
 rating: 5

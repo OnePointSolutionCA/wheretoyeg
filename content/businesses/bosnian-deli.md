@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "West Edmonton"
 google_maps_url: "https://maps.google.com/?q=Bosnian%20Deli%20Edmonton"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
-  sunday: "Closed"
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "10:00 AM–4:00 PM"
+  saturday: "9:00 AM–4:00 PM"
+  sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/bosnian-deli-1.jpg", "/photos/bosnian-deli-2.jpg", "/photos/bosnian-deli-3.jpg"]
-rating: 4.7
-review_count: 220
+rating: 5
+review_count: 23
 price_range: "$$"
 amenities:
   - "Halal"

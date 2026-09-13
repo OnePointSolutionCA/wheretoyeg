@@ -11,12 +11,12 @@ phone: "(780) 481-7732"
 website: "http://accountingtaxassociate.com/"
 google_maps_url: "https://maps.google.com/?cid=1510748209336921641&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 6:00 PM"
-  tuesday: "10:00 AM - 6:00 PM"
-  wednesday: "10:00 AM - 6:00 PM"
-  thursday: "10:00 AM - 6:00 PM"
-  friday: "10:00 AM - 6:00 PM"
-  saturday: "12:00 - 5:00 PM"
+  monday: "10:00 AM–6:00 PM"
+  tuesday: "10:00 AM–6:00 PM"
+  wednesday: "10:00 AM–6:00 PM"
+  thursday: "10:00 AM–6:00 PM"
+  friday: "10:00 AM–6:00 PM"
+  saturday: "12:00 PM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/accounting-tax-associates-inc-1.jpg", "/photos/accounting-tax-associates-inc-2.jpg", "/photos/accounting-tax-associates-inc-3.jpg"]
 rating: 4.9

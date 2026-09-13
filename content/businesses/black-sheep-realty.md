@@ -11,16 +11,16 @@ phone: "(780) 993-8036"
 website: "https://blacksheeprealty.ca/"
 google_maps_url: "https://maps.google.com/?cid=3081509005463146767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/black-sheep-realty-1.jpg", "/photos/black-sheep-realty-2.jpg", "/photos/black-sheep-realty-3.jpg"]
 rating: 5
-review_count: 160
+review_count: 159
 price_range: "$$"
 amenities:
 

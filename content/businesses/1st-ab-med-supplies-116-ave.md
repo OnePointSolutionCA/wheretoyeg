@@ -12,16 +12,16 @@ phone: "780-701-7501"
 website: "https://1stabmedsupplies.ca"
 google_maps_url: "https://maps.google.com/?q=15020+116+Ave+NW+Edmonton"
 hours:
-  monday: "8:30 AM - 5:00 PM"
-  tuesday: "8:30 AM - 5:00 PM"
-  wednesday: "8:30 AM - 5:00 PM"
-  thursday: "8:30 AM - 5:00 PM"
-  friday: "8:30 AM - 5:00 PM"
+  monday: "8:30 AM–5:00 PM"
+  tuesday: "8:30 AM–5:00 PM"
+  wednesday: "8:30 AM–5:00 PM"
+  thursday: "8:30 AM–5:00 PM"
+  friday: "8:30 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/1st-ab-med-supplies-116-ave-1.jpg"]
-rating: 4.2
-review_count: 10
+rating: 4.3
+review_count: 12
 price_range: "$$"
 amenities:
   - "In-Store Shopping"

@@ -11,16 +11,16 @@ phone: "(587) 524-4335"
 website: "http://www.baekjeong.ca/"
 google_maps_url: "https://maps.google.com/?cid=2533169208067092538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "4:30 - 10:00 PM"
-  tuesday: "4:30 - 10:00 PM"
-  wednesday: "4:30 - 10:00 PM"
-  thursday: "4:30 - 10:00 PM"
-  friday: "12:00 - 11:00 PM"
-  saturday: "12:00 - 11:00 PM"
-  sunday: "12:00 - 10:00 PM"
+  monday: "4:30 PM–10:00 PM"
+  tuesday: "4:30 PM–10:00 PM"
+  wednesday: "4:30 PM–10:00 PM"
+  thursday: "4:30 PM–10:00 PM"
+  friday: "12:00 PM–11:00 PM"
+  saturday: "12:00 PM–11:00 PM"
+  sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/baekjeong-korean-bbq-house-2-1.jpg", "/photos/baekjeong-korean-bbq-house-2-2.jpg", "/photos/baekjeong-korean-bbq-house-2-3.jpg"]
 rating: 4.4
-review_count: 1179
+review_count: 1182
 price_range: "$$"
 amenities:
   - "Dine-In"

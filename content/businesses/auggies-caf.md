@@ -13,5 +13,6 @@ google_maps: "https://maps.google.com/?cid=1516615864474108976&g_mp=Cidnb29nbGUu
 reviews:
   - name: "Natasha Brown"
     rating: 5
-    comment: "So warm and welcoming. You could sit and socialize, or take your lunch to go. It was chilli when I visited, and normally I am not a fan of chilli, but it was sooo good!!!"
+    comment: |
+      So warm and welcoming. You could sit and socialize, or take your lunch to go. It was chilli when I visited, and normally I am not a fan of chilli, but it was sooo good!!!
 ---

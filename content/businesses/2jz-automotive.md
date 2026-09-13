@@ -10,10 +10,24 @@ review_count: 3
 tier: "featured"
 google_maps: "https://maps.google.com/?cid=2169758048120039427&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 reviews:
+  - name: "Sameer Fouda"
+    rating: 5
+    comment: |
+      Good guy good service
   - name: "Jamal Abbasi"
     rating: 5
-    comment: "Great and honest mechanic! He knew the issue with my car right away and fixed it in front of me. His prices are the cheapest in the city, and with the quality of work you can’t ask for any better in Edmonton."
+    comment: |
+      Great and honest mechanic! He knew the issue with my car right away and fixed it in front of me. His prices are the cheapest in the city, and with the quality of work you can’t ask for any better in Edmonton.
   - name: "Kamran Azam"
     rating: 5
-    comment: "Amazing work. I went in for an oil change for my Honda civic and was in and out in 15 minutes.  You do have to take your own oil and filter."
+    comment: |
+      Amazing work. I went in for an oil change for my Honda civic and was in and out in 15 minutes.  You do have to take your own oil and filter.
+hours:
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 ---

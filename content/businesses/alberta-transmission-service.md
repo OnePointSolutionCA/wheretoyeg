@@ -11,11 +11,11 @@ phone: "(780) 448-1686"
 website: "https://www.albertatransmission.ca/"
 google_maps_url: "https://maps.google.com/?cid=17021254334270123004&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 5:00 PM"
-  tuesday: "8:00 AM - 5:00 PM"
-  wednesday: "8:00 AM - 5:00 PM"
-  thursday: "8:00 AM - 5:00 PM"
-  friday: "8:00 AM - 5:00 PM"
+  monday: "8:00 AM–5:00 PM"
+  tuesday: "8:00 AM–5:00 PM"
+  wednesday: "8:00 AM–5:00 PM"
+  thursday: "8:00 AM–5:00 PM"
+  friday: "8:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/alberta-transmission-service-1.jpg", "/photos/alberta-transmission-service-2.jpg", "/photos/alberta-transmission-service-3.jpg"]
@@ -46,8 +46,8 @@ reviews:
     rating: 5
     comment: |
       Experienced and friendly. Would highly recommend for any transmission needs! My husband got his transmission serviced here and I will be getting mine next week. My mechanic who I have been with for over 8 years, specifically recommended them, so I would definitely trust them!!
-  - name: "Randy Harel"
+  - name: "Catherine Daniel"
     rating: 5
     comment: |
-      Went in for help with older six speed auto.  Frank, honest advice with test drive.  I definitely recommend this shop for future work.
+      The service at Alberta Transmission was fantastic!  They are knowledgeable, honest and efficient.  I highly recommend their services.
 ---

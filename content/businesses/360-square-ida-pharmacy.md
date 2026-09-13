@@ -11,16 +11,16 @@ phone: "(825) 401-3606"
 website: "http://www.360squareidapharamcy.ca/"
 google_maps_url: "https://maps.google.com/?cid=4667806654847676771&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 6:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "11:00 AM - 3:00 PM"
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–6:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "9:00 AM–6:00 PM"
+  friday: "9:00 AM–6:00 PM"
+  saturday: "11:00 AM–3:00 PM"
   sunday: "Closed"
 photos: ["/photos/360-square-ida-pharmacy-1.jpg", "/photos/360-square-ida-pharmacy-2.jpg", "/photos/360-square-ida-pharmacy-3.jpg"]
 rating: 4.9
-review_count: 33
+review_count: 34
 price_range: "$$"
 amenities:
 

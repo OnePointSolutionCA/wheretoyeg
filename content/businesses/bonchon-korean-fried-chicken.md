@@ -11,16 +11,16 @@ phone: "(587) 414-5220"
 website: "http://www.bonchon.ca/"
 google_maps_url: "https://maps.google.com/?cid=8226928428088356811&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 11:00 PM"
-  tuesday: "11:00 AM - 11:00 PM"
-  wednesday: "11:00 AM - 11:00 PM"
-  thursday: "11:00 AM - 11:00 PM"
-  friday: "11:00 AM - 11:00 PM"
-  saturday: "11:00 AM - 11:00 PM"
-  sunday: "11:00 AM - 11:00 PM"
+  monday: "11:00 AM–11:00 PM"
+  tuesday: "11:00 AM–11:00 PM"
+  wednesday: "11:00 AM–11:00 PM"
+  thursday: "11:00 AM–11:00 PM"
+  friday: "11:00 AM–11:00 PM"
+  saturday: "11:00 AM–11:00 PM"
+  sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/bonchon-korean-fried-chicken-1.jpg", "/photos/bonchon-korean-fried-chicken-2.jpg", "/photos/bonchon-korean-fried-chicken-3.jpg"]
 rating: 4.4
-review_count: 108
+review_count: 129
 price_range: "$"
 amenities:
   - "Dine-In"

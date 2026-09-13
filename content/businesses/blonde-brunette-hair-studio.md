@@ -13,15 +13,15 @@ website: "https://www.blondebrunette.ca"
 google_maps_url: "https://maps.google.com/?q=Blonde+Brunette+Hair+Studio+Edmonton"
 hours:
   monday: "Closed"
-  tuesday: "10:00 AM - 8:00 PM"
-  wednesday: "10:00 AM - 8:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 8:00 PM"
-  saturday: "10:00 AM - 4:00 PM"
+  tuesday: "10:00 AM–8:00 PM"
+  wednesday: "10:00 AM–8:00 PM"
+  thursday: "10:00 AM–8:00 PM"
+  friday: "10:00 AM–8:00 PM"
+  saturday: "10:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/blonde-brunette-hair-studio-1.jpg", "/photos/blonde-brunette-hair-studio-2.jpg", "/photos/blonde-brunette-hair-studio-3.jpg"]
-rating: 4.8
-review_count: 85
+rating: 4.9
+review_count: 70
 price_range: "$$$"
 amenities:
   - "Appointments"

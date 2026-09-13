@@ -11,16 +11,16 @@ phone: "(780) 200-2755"
 website: "https://axisimmigration.com/"
 google_maps_url: "https://maps.google.com/?cid=6850538959878471666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:30 AM - 5:30 PM"
-  tuesday: "9:30 AM - 5:30 PM"
-  wednesday: "9:30 AM - 5:30 PM"
-  thursday: "9:30 AM - 5:30 PM"
-  friday: "9:30 AM - 5:30 PM"
+  monday: "9:30 AM–5:30 PM"
+  tuesday: "9:30 AM–5:30 PM"
+  wednesday: "9:30 AM–5:30 PM"
+  thursday: "9:30 AM–5:30 PM"
+  friday: "9:30 AM–5:30 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/axis-immigration-consultants-1.jpg", "/photos/axis-immigration-consultants-2.jpg", "/photos/axis-immigration-consultants-3.jpg"]
 rating: 4.9
-review_count: 962
+review_count: 964
 price_range: "$$"
 amenities:
 

@@ -11,16 +11,16 @@ phone: "(587) 570-4771"
 website: "https://www.azarkodental.com/site/home?utm_source=G&utm_medium=LPM&utm_campaign=DentalCorp"
 google_maps_url: "https://maps.google.com/?cid=8037180574914634595&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 8:00 PM"
-  tuesday: "8:00 AM - 8:00 PM"
-  wednesday: "8:00 AM - 8:00 PM"
-  thursday: "8:00 AM - 6:00 PM"
-  friday: "8:00 AM - 4:00 PM"
-  saturday: "9:00 AM - 4:00 PM"
-  sunday: "9:00 AM - 4:00 PM"
+  monday: "8:00 AM–8:00 PM"
+  tuesday: "8:00 AM–8:00 PM"
+  wednesday: "8:00 AM–8:00 PM"
+  thursday: "8:00 AM–6:00 PM"
+  friday: "8:00 AM–4:00 PM"
+  saturday: "9:00 AM–4:00 PM"
+  sunday: "9:00 AM–4:00 PM"
 photos: ["/photos/azarko-dental-edmonton-1.jpg", "/photos/azarko-dental-edmonton-2.jpg", "/photos/azarko-dental-edmonton-3.jpg"]
 rating: 4.8
-review_count: 1736
+review_count: 1745
 price_range: "$$"
 amenities:
 

@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 website: "http://www.baijiuyeg.com/"
 google_maps_url: "https://maps.google.com/?cid=12262745561973312006&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "5:00 PM - 12:00 AM"
-  tuesday: "5:00 PM - 12:00 AM"
-  wednesday: "5:00 PM - 12:00 AM"
-  thursday: "5:00 PM - 12:00 AM"
-  friday: "5:00 PM - 1:00 AM"
-  saturday: "5:00 PM - 1:00 AM"
-  sunday: "5:00 PM - 12:00 AM"
+  monday: "5:00 PM–12:00 AM"
+  tuesday: "5:00 PM–12:00 AM"
+  wednesday: "5:00 PM–12:00 AM"
+  thursday: "5:00 PM–12:00 AM"
+  friday: "5:00 PM–1:00 AM"
+  saturday: "5:00 PM–1:00 AM"
+  sunday: "5:00 PM–12:00 AM"
 photos: ["/photos/baijiu-1.jpg", "/photos/baijiu-2.jpg", "/photos/baijiu-3.jpg"]
 rating: 4.5
-review_count: 1115
+review_count: 1118
 price_range: "$$"
 amenities:
   - "Dine-In"

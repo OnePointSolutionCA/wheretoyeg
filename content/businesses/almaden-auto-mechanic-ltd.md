@@ -16,17 +16,37 @@ photos:
 reviews:
   - name: "John C."
     rating: 5
-    comment: "Amazing service! The team is always helpful and friendly. I first brought my Fiat 500 here in September 2024 for brake changes, spark plugs, and other work, and they offered the best price compared to other mechanics.  I came back again today and was happy to see the same familiar faces and the same welcoming attitude. This time I needed an oil change, and they also checked my engine light, which turned out to be caused by low coolant.  They are consistently professional and trustworthy. Once ag"
+    comment: |
+      Amazing service! The team is always helpful and friendly. I first brought my Fiat 500 here in September 2024 for brake changes, spark plugs, and other work, and they offered the best price compared to other mechanics.
+      
+      I came back again today and was happy to see the same familiar faces and the same welcoming attitude. This time I needed an oil change, and they also checked my engine light, which turned out to be caused by low coolant.
+      
+      They are consistently professional and trustworthy. Once again, I highly recommend this place to anyone looking for reliable service without hesitation.
+      
+      Lastly, thank you so much Manual for maintaining such excellent service with your team, and thanks Roger for the great mechanical work today! And Vanessa for admin stuff. Great team work!
   - name: "Trina El-Ezaby"
     rating: 5
-    comment: "Manny is the owner, this is the best kept secret in Edmonton! Excellence in all vehicle mechanics, 2 Generations of family owners. Do yourself and vehicle a favour and you’ll soon be having money left over, with integrity in workmanship with quality parts, my friend referred me, her brother n law has been coming to Mannys shop for 30 yrs plus. I feel extremely blessed to have been referred to Mannys shop."
+    comment: |
+      Manny is the owner, this is the best kept secret in Edmonton! Excellence in all vehicle mechanics, 2 Generations of family owners. Do yourself and vehicle a favour and you’ll soon be having money left over, with integrity in workmanship with quality parts, my friend referred me, her brother n law has been coming to Mannys shop for 30 yrs plus.
+      I feel extremely blessed to have been referred to Mannys shop.
   - name: "Joy Wong"
     rating: 5
-    comment: "Almaden Auto Mechanic Shop provides excellent service at a fair price. The team is knowledgeable, honest, and efficient. Highly recommended—definitely the best place to go!"
+    comment: |
+      Almaden Auto Mechanic Shop provides excellent service at a fair price. The team is knowledgeable, honest, and efficient. Highly recommended—definitely the best place to go!
   - name: "Stephanie Stein"
     rating: 5
-    comment: "Great work, amazing staff, fair prices, and honest work. What more could you ask for from a shop. Glad they were recommended to me and won't be getting work done by anyone else. Highly recommend!!!"
+    comment: |
+      Great work, amazing staff, fair prices, and honest work. What more could you ask for from a shop. Glad they were recommended to me and won't be getting work done by anyone else. Highly recommend!!!
   - name: "Jessica Kirkman"
     rating: 5
-    comment: "Fast, affordable and friendly! Thank you very much for getting me to work safely that day. You and your employees turned a really bad day into a great one!"
+    comment: |
+      Fast, affordable and friendly! Thank you very much for getting me to work safely that day. You and your employees turned a really bad day into a great one!
+hours:
+  monday: "8:30 AM–5:00 PM"
+  tuesday: "8:30 AM–5:00 PM"
+  wednesday: "8:30 AM–5:00 PM"
+  thursday: "8:30 AM–5:00 PM"
+  friday: "8:30 AM–5:00 PM"
+  saturday: "Closed"
+  sunday: "Closed"
 ---

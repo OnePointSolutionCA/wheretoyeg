@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "Edmonton (city-wide)"
 google_maps_url: "https://maps.google.com/?q=Alberta%20Carpet%20Cleaning%20Edmonton"
 hours:
-  monday: "9:00 AM - 8:00 PM"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 8:00 PM"
-  sunday: "10:00 AM - 6:00 PM"
+  monday: "7:00 AM–6:00 PM"
+  tuesday: "7:00 AM–6:00 PM"
+  wednesday: "7:00 AM–6:00 PM"
+  thursday: "7:00 AM–6:00 PM"
+  friday: "7:00 AM–6:00 PM"
+  saturday: "7:00 AM–6:00 PM"
+  sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/alberta-carpet-cleaning-1.jpg", "/photos/alberta-carpet-cleaning-2.jpg", "/photos/alberta-carpet-cleaning-3.jpg"]
-rating: 4.6
-review_count: 210
+rating: 4.8
+review_count: 1790
 price_range: "$$"
 amenities:
   - "Same-Day Dry"

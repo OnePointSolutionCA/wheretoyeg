@@ -11,13 +11,13 @@ phone: "(825) 785-2862"
 website: "https://atmayogacanada.com/"
 google_maps_url: "https://maps.google.com/?cid=17994758940373891585&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 - 10:30 AM, 5:00 - 8:00 PM"
-  tuesday: "9:00 - 10:15 AM, 5:00 - 8:00 PM"
-  wednesday: "8:00 AM - 12:00 AM"
-  thursday: "12:00 - 10:15 AM, 5:00 - 8:00 PM"
-  friday: "8:00 - 9:00 AM, 10:00 - 11:30 AM, 5:00 - 8:00 PM"
-  saturday: "8:30 - 11:30 AM"
-  sunday: "9:00 - 10:30 AM"
+  monday: "9:00 AM–10:30 AM"
+  tuesday: "9:00 AM–10:15 AM"
+  wednesday: "8:00 AM–10:15 AM"
+  thursday: "5:00 PM–8:00 PM"
+  friday: "8:00 AM–9:00 AM"
+  saturday: "8:30 AM–11:30 AM"
+  sunday: "9:00 AM–10:30 AM"
 photos: ["/photos/atma-yoga-edmonton-1.jpg", "/photos/atma-yoga-edmonton-2.jpg", "/photos/atma-yoga-edmonton-3.jpg"]
 rating: 4.7
 review_count: 69

@@ -16,17 +16,36 @@ photos:
 reviews:
   - name: "Anonimus 1"
     rating: 5
-    comment: "Best pizza in the neighbourhood, definitely! This is my second visit since they’ve opened. First time I tried the donair, delicious. This time I went for their lunch special 10” pizza.  The smell coming from the oven while I waited almost had me drooling. The crust is dense, but not too bready, the toppings tasted fresh, the sauce was flavourful, and the cheese wasn’t too greasy. I’m completely satisfied after devouring it in one sitting. 😁  On top of that, the owners are very friendly and make"
+    comment: |
+      Best pizza in the neighbourhood, definitely! This is my second visit since they’ve opened. First time I tried the donair, delicious. This time I went for their lunch special 10” pizza.
+      
+      The smell coming from the oven while I waited almost had me drooling. The crust is dense, but not too bready, the toppings tasted fresh, the sauce was flavourful, and the cheese wasn’t too greasy. I’m completely satisfied after devouring it in one sitting. 😁
+      
+      On top of that, the owners are very friendly and make you want to come back regularly. I’m really glad they decided to join the neighbourhood! 👍
   - name: "Tom Hinch"
     rating: 5
-    comment: "Fantastic we ordered lasagna hot wings and a donor pizza great tasting and the prices not to bad good to see another business open up in Grandin and the inside of restaurant very clean and bright and friendly greetings when we picked up and only a block away from home I'll probably try the entire menu at some point thank you Bingo pizza and welcome to Grandin 🤠😊"
+    comment: |
+      Fantastic we ordered lasagna hot wings and a donor pizza great tasting and the prices not to bad good to see another business open up in Grandin and the inside of restaurant very clean and bright and friendly greetings when we picked up and only a block away from home I'll probably try the entire menu at some point thank you Bingo pizza and welcome to Grandin 🤠😊
   - name: "Lewis M"
     rating: 5
-    comment: "First time ordering here and it was excellent. The donair was one of the best I've had, and the dill tzatziki was fantastic. The fries were cooked exactly as requested. The staff was friendly and even told me I'd save money by calling the restaurant directly instead of ordering through DoorDash. I'll definitely be back."
+    comment: |
+      First time ordering here and it was excellent. The donair was one of the best I've had, and the dill tzatziki was fantastic. The fries were cooked exactly as requested. The staff was friendly and even told me I'd save money by calling the restaurant directly instead of ordering through DoorDash. I'll definitely be back.
   - name: "ETHAN A"
     rating: 5
-    comment: "Finally tried this new pizza & donair spot and honestly, I'm impressed. The pizza was fresh, loaded with toppings, and the crust had that perfect balance, crispy on the outside and soft inside. The donair was packed, flavorful, and the meat tasted fresh with just the right amount of sauce. Definitely worth checking out if you're craving good pizza or a proper donair."
-  - name: "Gail Barrington-Moss"
+    comment: |
+      Finally tried this new pizza & donair spot and honestly, I'm impressed. The pizza was fresh, loaded with toppings, and the crust had that perfect balance, crispy on the outside and soft inside. The donair was packed, flavorful, and the meat tasted fresh with just the right amount of sauce. Definitely worth checking out if you're craving good pizza or a proper donair.
+  - name: "XRP_Douglas"
     rating: 5
-    comment: "This is AMAZING pizza.  We had 4 10 inch pizzas (including one Gluten free crust) and they were substantial and incredibly tasty.  A must visit."
+    comment: |
+      Amazing pizza! My autistic son is an extremely picky eater and he loves Bingo and so does the rest of the family. Owner is so friendly and cares about his customers. Highly recommended 5 ⭐️
+      
+      Doug
+hours:
+  monday: "11:00 AM–10:00 PM"
+  tuesday: "11:00 AM–10:00 PM"
+  wednesday: "11:00 AM–10:00 PM"
+  thursday: "11:00 AM–10:00 PM"
+  friday: "11:00 AM–11:00 PM"
+  saturday: "11:00 AM–11:00 PM"
+  sunday: "12:00 PM–9:00 PM"
 ---

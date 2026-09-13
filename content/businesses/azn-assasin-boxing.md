@@ -11,13 +11,13 @@ phone: "(780) 982-6375"
 website: "http://www.aznassasinboxing.ca/"
 google_maps_url: "https://maps.google.com/?cid=9153534591486639682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "6:00 AM - 8:00 PM"
-  tuesday: "6:00 AM - 8:00 PM"
-  wednesday: "6:00 AM - 8:00 PM"
-  thursday: "6:00 AM - 8:00 PM"
-  friday: "6:00 AM - 8:00 PM"
-  saturday: "8:00 AM - 2:00 PM"
-  sunday: "10:00 AM - 2:00 PM"
+  monday: "6:00 AM–8:00 PM"
+  tuesday: "6:00 AM–8:00 PM"
+  wednesday: "6:00 AM–8:00 PM"
+  thursday: "6:00 AM–8:00 PM"
+  friday: "6:00 AM–8:00 PM"
+  saturday: "8:00 AM–2:00 PM"
+  sunday: "10:00 AM–2:00 PM"
 photos: ["/photos/azn-assasin-boxing-1.jpg", "/photos/azn-assasin-boxing-2.jpg", "/photos/azn-assasin-boxing-3.jpg"]
 rating: 5
 review_count: 31

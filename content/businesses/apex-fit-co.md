@@ -11,13 +11,13 @@ phone: "(780) 914-5492"
 website: "http://www.apexfitco.ca/"
 google_maps_url: "https://maps.google.com/?cid=15824275962273714731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "5:00 AM - 9:00 PM"
-  tuesday: "5:00 AM - 9:00 PM"
-  wednesday: "5:00 AM - 9:00 PM"
-  thursday: "5:30 AM - 9:00 PM"
-  friday: "6:00 AM - 6:00 PM"
-  saturday: "8:00 AM - 12:00 PM"
-  sunday: "8:00 AM - 12:00 PM"
+  monday: "5:00 AM–9:00 PM"
+  tuesday: "5:00 AM–9:00 PM"
+  wednesday: "5:00 AM–9:00 PM"
+  thursday: "5:30 AM–9:00 PM"
+  friday: "6:00 AM–6:00 PM"
+  saturday: "8:00 AM–12:00 PM"
+  sunday: "8:00 AM–12:00 PM"
 photos: ["/photos/apex-fit-co-1.jpg", "/photos/apex-fit-co-2.jpg", "/photos/apex-fit-co-3.jpg"]
 rating: 5
 review_count: 22

@@ -11,16 +11,16 @@ phone: "(587) 298-8889"
 website: "https://bahubaliedmonton.ca/edmonton"
 google_maps_url: "https://maps.google.com/?cid=10314075625033312450&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 10:30 PM"
-  tuesday: "12:00 - 10:30 PM"
-  wednesday: "12:00 - 10:30 PM"
-  thursday: "12:00 - 10:30 PM"
-  friday: "12:00 - 11:00 PM"
-  saturday: "12:00 - 11:00 PM"
-  sunday: "12:00 - 10:30 PM"
+  monday: "12:00 PM–11:00 PM"
+  tuesday: "12:00 PM–10:30 PM"
+  wednesday: "12:00 PM–10:30 PM"
+  thursday: "12:00 PM–10:30 PM"
+  friday: "12:00 PM–11:00 PM"
+  saturday: "12:00 PM–11:00 PM"
+  sunday: "12:00 PM–11:00 PM"
 photos: ["/photos/bahubali-indian-cuisine-edmonton-1.jpg", "/photos/bahubali-indian-cuisine-edmonton-2.jpg", "/photos/bahubali-indian-cuisine-edmonton-3.jpg"]
 rating: 4.8
-review_count: 5316
+review_count: 5423
 price_range: "$$"
 amenities:
   - "Halal"
@@ -49,19 +49,20 @@ reviews:
     rating: 5
     comment: |
       First time visiting Bahubali and it was a great experience! We tried the Malai Kofta, Methi Chaman, and Paneer Butter Masala—all of which came with complimentary naan (which you can also swap for rice). The restaurant is incredibly clean and well-kept, and the menu is impressive, featuring plenty of South Indian options as well. Friendly service and a great overall atmosphere. Highly recommend!
-  - name: "Venita Gonsalves"
-    rating: 5
-    comment: |
-      The huge party of 4 masala dosa was amazing however we had to ask for bowls for the sambar since it was very messy eating the sambar in a plate (Not biggie but flavor and taste was seriously so good)
-      They offered free Tre leche cake for the 2 dads for fathers Day. That was an amazing suprise for us and a huge bonus, it was also delicious.
-      The goat Biryani was on the extremely spicy side, my husband loves to eat spicy and he found it really spicy and I could not eat it because of the spice. If there was an option given for spice levels then I would probably have enjoyed it more. Over all it was an excellent dining experience and service staff and managed there were very accommodating. The manager did come around to ask how the food was and that was a nice touch.
-      Thank you.
   - name: "Totam"
     rating: 5
     comment: |
       I loved the ambience. Food was very tasty. Very fast service..Our server Komal gave an excellent service. I will come back again as there is food for everyone. The drink black magic was very refreshing. Thank you to the bartender Inder. Great place to eat.
-  - name: "James MacPherson"
+  - name: "GOPINATH THANIKACHALAM"
     rating: 5
     comment: |
-      This new restaurant in Edmonton has been one of the best South Indian restaurants I have tried in Canada - food and atmosphere were both fantastic. (It can be spicy, which I like, but be aware! Delicious).. Jashan our server was very friendly and the staff in general were great and made solid recommendations. Mysore Masala Dosa and chicken 65 were fantastic! (Everything was)
+      I recently visited Bahubali Indian Restaurant, and it was a fantastic experience from start to finish. The food tasted authentic and full of traditional Indian flavors. The Kanthari chicken I tried for the first time it was very delicious and the ghee roast goat briyani was rich and flavorful, overall the food were fresh and well-balanced. You can really tell they focus on quality and taste.
+      
+      The service was warm and welcoming, and the staff made sure everything was comfortable and served on time. The restaurant was clean, well-maintained, and had a pleasant atmosphere that made it a great place to enjoy a relaxed meal with family or friends.
+      
+      If you’re craving genuine Indian food and briyani that feels homely yet special, Bahubali Indian Restaurant is definitely worth visiting. I’ll be coming back again to try more dishes!
+  - name: "Ozan Oguzhan"
+    rating: 5
+    comment: |
+      Akshaya was our server, and she was kind and attentive throughout our visit. We had chicken biryani, butter chicken, and chicken noodle, and the food was good. The portion sizes were generous for the price, and the atmosphere was amazing as well. Overall, we had a pleasant experience and would come back.
 ---

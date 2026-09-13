@@ -11,16 +11,16 @@ phone: "(825) 394-2645"
 website: "https://www.bb2kbbq.ca/"
 google_maps_url: "https://maps.google.com/?cid=6779861087833011921&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "4:30 - 11:00 PM"
-  tuesday: "4:30 - 11:00 PM"
-  wednesday: "4:30 - 11:00 PM"
-  thursday: "4:30 - 11:00 PM"
-  friday: "4:30 - 11:00 PM"
-  saturday: "12:00 - 11:00 PM"
-  sunday: "12:00 - 11:00 PM"
+  monday: "4:30 PM–11:00 PM"
+  tuesday: "4:30 PM–11:00 PM"
+  wednesday: "4:30 PM–11:00 PM"
+  thursday: "4:30 PM–11:00 PM"
+  friday: "4:30 PM–11:00 PM"
+  saturday: "12:00 PM–11:00 PM"
+  sunday: "12:00 PM–11:00 PM"
 photos: ["/photos/bb2-korean-bbq-house-century-park-1.jpg", "/photos/bb2-korean-bbq-house-century-park-2.jpg", "/photos/bb2-korean-bbq-house-century-park-3.jpg"]
 rating: 4.7
-review_count: 2700
+review_count: 2747
 price_range: "$$"
 amenities:
   - "Dine-In"

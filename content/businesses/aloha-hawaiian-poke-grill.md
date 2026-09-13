@@ -11,16 +11,16 @@ phone: "(587) 635-4048"
 website: "http://alohapokeandgrill.com/"
 google_maps_url: "https://maps.google.com/?cid=4994007258442458859&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 8:00 PM"
-  tuesday: "11:00 AM - 8:00 PM"
-  wednesday: "11:00 AM - 8:00 PM"
-  thursday: "11:00 AM - 8:00 PM"
-  friday: "11:00 AM - 8:00 PM"
-  saturday: "11:00 AM - 8:00 PM"
-  sunday: "12:00 - 4:00 PM"
+  monday: "11:00 AM–8:00 PM"
+  tuesday: "11:00 AM–8:00 PM"
+  wednesday: "11:00 AM–8:00 PM"
+  thursday: "11:00 AM–8:00 PM"
+  friday: "11:00 AM–8:00 PM"
+  saturday: "11:00 AM–8:00 PM"
+  sunday: "12:00 PM–4:00 PM"
 photos: ["/photos/aloha-hawaiian-poke-grill-1.jpg", "/photos/aloha-hawaiian-poke-grill-2.jpg", "/photos/aloha-hawaiian-poke-grill-3.jpg"]
 rating: 4.7
-review_count: 468
+review_count: 474
 price_range: "$$"
 amenities:
   - "Dine-In"

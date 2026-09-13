@@ -15,17 +15,31 @@ photos:
 reviews:
   - name: "Hannah Oakley-Donaldson"
     rating: 5
-    comment: "Jacquelyn is very through! From the beginning of my appointment to the end, I felt very comfortable and confident with Jacquelyn. She explained everything clearly, and very pleasant to chat with. I’m very pleased with the outcome of my teeth, and I look forward to my next visit. Thank you again Jacquelyn!"
+    comment: |
+      Jacquelyn is very through! From the beginning of my appointment to the end, I felt very comfortable and confident with Jacquelyn. She explained everything clearly, and very pleasant to chat with. I’m very pleased with the outcome of my teeth, and I look forward to my next visit. Thank you again Jacquelyn!
   - name: "Lu Lu"
     rating: 5
-    comment: "Jacquelyn is an amazing dental hygienist, who is very knowledgable & does an excellent job cleaning your teeth & explaining anything going on in your mouth that you should know.  I was going for regular visits with her in Edmonton prior & now that she has opened her own clinic in Beaumont, I make sure to make the extra trip to go see her. Jacquelyn has always been very professional & the atmosphere of her clinic is welcoming.  Her sense of humor always puts a smile on my face!  I feel much safer"
+    comment: |
+      Jacquelyn is an amazing dental hygienist, who is very knowledgable & does an excellent job cleaning your teeth & explaining anything going on in your mouth that you should know.  I was going for regular visits with her in Edmonton prior & now that she has opened her own clinic in Beaumont, I make sure to make the extra trip to go see her. Jacquelyn has always been very professional & the atmosphere of her clinic is welcoming.  Her sense of humor always puts a smile on my face!  I feel much safer seeing Jacquelyn in her private clinic rather that going to a busy dental office during this pandemic as there is only 1 person in the clinic at a time which allows her to wipe down & sanitize everything after each visit. I highly recommend anyone needing dental services to see Jacquelyn at Beaumont Dental Hygiene Studio!!  **(Bonus - She does direct billing)**
   - name: "Katrina Jurisic"
     rating: 5
-    comment: "I really enjoyed my cleaning. I have some really sensitive areas in my mouth, so usually dread cleanings. I found Jacquelyn to be extremely gentle, while being very thorough. It was the first time where I was really comfortable through the entire visit. Her room is really beautiful, lots of natural light and very clean. I have already recommended her to my family members and they also had great experiences!"
+    comment: |
+      I really enjoyed my cleaning. I have some really sensitive areas in my mouth, so usually dread cleanings. I found Jacquelyn to be extremely gentle, while being very thorough. It was the first time where I was really comfortable through the entire visit. Her room is really beautiful, lots of natural light and very clean. I have already recommended her to my family members and they also had great experiences!
   - name: "Ruth Carr"
     rating: 5
-    comment: "Hello! I visited Beaumont Dental Hygiene Studio today for a scale and clean and I received nothing but the utmost best in care, consideration, education and comfort. Jacqueline Fleming is an extremely professional and courteous Dental Hygienist and I can personally guarantee that you will be in very safe and capable hands ☺️. The studio itself is located in a nice, quiet area, and is exceptionally clean and organized. I truly couldn’t say enough great things and absolutely will be a returning pa"
+    comment: |
+      Hello!
+      I visited Beaumont Dental Hygiene Studio today for a scale and clean and I received nothing but the utmost best in care, consideration, education and comfort. Jacqueline Fleming is an extremely professional and courteous Dental Hygienist and I can personally guarantee that you will be in very safe and capable hands ☺️. The studio itself is located in a nice, quiet area, and is exceptionally clean and organized. I truly couldn’t say enough great things and absolutely will be a returning patient and will not hesitate to recommend to others. Amazing work, Jacqueline thank you again so much for making my pearls white and clean again!
   - name: "Laura Dickson"
     rating: 5
-    comment: "Cant give Jacquelyn enough stars! Beaumont Dental Hygiene Studio was the best dental experience I have ever had. Clean, comfortable and amazing services! Jacquelyn is extremely professional, friendly and makes you feel right at home! Recommending to anyone looking for excellent dental hygiene services"
+    comment: |
+      Cant give Jacquelyn enough stars! Beaumont Dental Hygiene Studio was the best dental experience I have ever had. Clean, comfortable and amazing services! Jacquelyn is extremely professional, friendly and makes you feel right at home! Recommending to anyone looking for excellent dental hygiene services
+hours:
+  monday: "9:00 AM–12:00 PM"
+  tuesday: "9:00 AM–1:30 PM"
+  wednesday: "9:00 AM–12:00 PM"
+  thursday: "9:00 AM–4:30 PM"
+  friday: "9:00 AM–1:30 PM"
+  saturday: "10:00 AM–3:00 PM"
+  sunday: "Closed"
 ---

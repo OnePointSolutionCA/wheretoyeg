@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "Downtown"
 google_maps_url: "https://maps.google.com/?q=Alberta%20Immigration%20Services%20Edmonton"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
+  monday: "10:30 AM–5:00 PM"
+  tuesday: "10:30 AM–5:00 PM"
+  wednesday: "10:30 AM–5:00 PM"
+  thursday: "10:30 AM–5:00 PM"
+  friday: "10:30 AM–5:00 PM"
+  saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/alberta-immigration-services-1.jpg", "/photos/alberta-immigration-services-2.jpg", "/photos/alberta-immigration-services-3.jpg"]
-rating: 4.7
-review_count: 180
+rating: 4.9
+review_count: 191
 price_range: "$$$"
 amenities:
   - "Consultations"

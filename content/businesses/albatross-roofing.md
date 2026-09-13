@@ -11,13 +11,13 @@ phone: "(587) 988-4645"
 website: "https://www.roofingalbatross.ca/"
 google_maps_url: "https://maps.google.com/?cid=17142390090016265990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "6:00 AM - 11:00 PM"
-  tuesday: "6:00 AM - 11:00 PM"
-  wednesday: "6:00 AM - 11:00 PM"
-  thursday: "6:00 AM - 11:00 PM"
-  friday: "6:00 AM - 11:00 PM"
-  saturday: "6:00 AM - 11:00 PM"
-  sunday: "6:00 AM - 11:00 PM"
+  monday: "6:00 AM–11:00 PM"
+  tuesday: "6:00 AM–11:00 PM"
+  wednesday: "6:00 AM–11:00 PM"
+  thursday: "6:00 AM–11:00 PM"
+  friday: "6:00 AM–11:00 PM"
+  saturday: "6:00 AM–11:00 PM"
+  sunday: "6:00 AM–11:00 PM"
 photos: ["/photos/albatross-roofing-1.jpg", "/photos/albatross-roofing-2.jpg", "/photos/albatross-roofing-3.jpg"]
 rating: 4.8
 review_count: 136

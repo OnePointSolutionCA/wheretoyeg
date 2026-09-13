@@ -11,16 +11,16 @@ phone: "(780) 220-5425"
 website: "https://arashido.com/location/edmonton-north/"
 google_maps_url: "https://maps.google.com/?cid=5005905711208111512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "5:00 - 8:30 PM"
-  tuesday: "11:00 AM - 12:00 PM, 5:00 - 8:30 PM"
-  wednesday: "5:00 - 8:30 PM"
-  thursday: "11:00 AM - 12:00 PM, 5:00 - 8:30 PM"
+  monday: "5:00 PM–8:30 PM"
+  tuesday: "11:00 AM–12:00 PM"
+  wednesday: "5:00 PM–8:30 PM"
+  thursday: "11:00 AM–12:00 PM"
   friday: "Closed"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/arashi-do-edmonton-north-1.jpg", "/photos/arashi-do-edmonton-north-2.jpg", "/photos/arashi-do-edmonton-north-3.jpg"]
 rating: 4.9
-review_count: 85
+review_count: 86
 price_range: "$$"
 amenities:
 

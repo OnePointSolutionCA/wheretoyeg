@@ -11,16 +11,16 @@ phone: "(587) 400-1724"
 website: "https://www.affinitydentalmayfieldcommon.ca/site/home?utm_source=G&utm_medium=LPM&utm_campaign=DentalCorp"
 google_maps_url: "https://maps.google.com/?cid=14286423009800683266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 4:00 PM"
-  tuesday: "8:00 AM - 4:00 PM"
-  wednesday: "8:00 AM - 4:00 PM"
-  thursday: "8:00 AM - 4:00 PM"
+  monday: "8:00 AM–4:00 PM"
+  tuesday: "8:00 AM–4:00 PM"
+  wednesday: "8:00 AM–4:00 PM"
+  thursday: "8:00 AM–4:00 PM"
   friday: "Closed"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/affinity-dental---mayfield-common-1.jpg", "/photos/affinity-dental---mayfield-common-2.jpg", "/photos/affinity-dental---mayfield-common-3.jpg"]
 rating: 4.9
-review_count: 431
+review_count: 435
 price_range: "$$"
 amenities:
 

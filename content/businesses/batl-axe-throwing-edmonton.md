@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "Central Edmonton"
 google_maps_url: "https://maps.google.com/?q=BATL%20Axe%20Throwing%20Edmonton%20Edmonton"
 hours:
-  monday: "12:00 PM - 10:00 PM"
-  tuesday: "12:00 PM - 10:00 PM"
-  wednesday: "12:00 PM - 10:00 PM"
-  thursday: "12:00 PM - 10:00 PM"
-  friday: "11:00 AM - 11:00 PM"
-  saturday: "10:00 AM - 11:00 PM"
-  sunday: "10:00 AM - 10:00 PM"
+  monday: "2:00 PM–10:00 PM"
+  tuesday: "2:00 PM–10:00 PM"
+  wednesday: "2:00 PM–10:00 PM"
+  thursday: "2:00 PM–10:00 PM"
+  friday: "2:00 PM–12:00 AM"
+  saturday: "10:00 AM–12:00 AM"
+  sunday: "12:00 PM–8:00 PM"
 photos: ["/photos/batl-axe-throwing-edmonton-1.jpg", "/photos/batl-axe-throwing-edmonton-2.jpg", "/photos/batl-axe-throwing-edmonton-3.jpg"]
-rating: 4.7
-review_count: 340
+rating: 4.8
+review_count: 800
 price_range: "$$"
 amenities:
   - "Coaching"

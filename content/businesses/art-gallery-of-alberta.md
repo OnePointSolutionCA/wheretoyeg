@@ -11,14 +11,14 @@ google_maps_url: "https://maps.google.com/?q=Art%20Gallery%20of%20Alberta%20Edmo
 hours:
   monday: "Closed"
   tuesday: "Closed"
-  wednesday: "11:00 AM - 5:00 PM"
-  thursday: "11:00 AM - 8:00 PM"
-  friday: "11:00 AM - 5:00 PM"
-  saturday: "11:00 AM - 5:00 PM"
-  sunday: "11:00 AM - 5:00 PM"
+  wednesday: "11:00 AM–5:00 PM"
+  thursday: "11:00 AM–7:00 PM"
+  friday: "11:00 AM–5:00 PM"
+  saturday: "11:00 AM–5:00 PM"
+  sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/art-gallery-of-alberta-1.jpg", "/photos/art-gallery-of-alberta-2.jpg", "/photos/art-gallery-of-alberta-3.jpg"]
-rating: 4.5
-review_count: 1400
+rating: 4.3
+review_count: 2197
 price_range: "$$"
 amenities:
   - "Date Night"

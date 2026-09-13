@@ -16,5 +16,14 @@ photos:
 reviews:
   - name: "Taylor Jorgensen"
     rating: 5
-    comment: "Anthony was very communicative, quick to respond and came right to my house. It was very affordable for 2 chip repairs. Thank you!"
+    comment: |
+      Anthony was very communicative, quick to respond and came right to my house. It was very affordable for 2 chip repairs. Thank you!
+hours:
+  monday: "8:00 AM–8:00 PM"
+  tuesday: "8:00 AM–8:00 PM"
+  wednesday: "8:00 AM–8:00 PM"
+  thursday: "8:00 AM–8:00 PM"
+  friday: "8:00 AM–8:00 PM"
+  saturday: "8:00 AM–8:00 PM"
+  sunday: "8:00 AM–8:00 PM"
 ---

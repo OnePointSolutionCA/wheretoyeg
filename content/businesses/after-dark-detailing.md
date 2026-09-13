@@ -15,5 +15,14 @@ photos:
 reviews:
   - name: "bhasquad"
     rating: 5
-    comment: "took my car over there and i was so happy with the results highly recommended"
+    comment: |
+      took my car over there and i was so happy with the results highly recommended
+hours:
+  monday: "10:00 AM–10:00 PM"
+  tuesday: "10:00 AM–10:00 PM"
+  wednesday: "10:00 AM–10:00 PM"
+  thursday: "10:00 AM–10:00 PM"
+  friday: "10:00 AM–10:00 PM"
+  saturday: "Closed"
+  sunday: "Closed"
 ---

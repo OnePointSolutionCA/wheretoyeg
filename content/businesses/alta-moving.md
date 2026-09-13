@@ -11,16 +11,16 @@ phone: "(780) 396-3000"
 website: "https://altamoving.ca/?utm_source=GMBlisting&utm_medium=organic"
 google_maps_url: "https://maps.google.com/?cid=14928972091110792832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 4:30 PM"
-  tuesday: "8:00 AM - 4:30 PM"
-  wednesday: "8:00 AM - 4:30 PM"
-  thursday: "8:00 AM - 4:30 PM"
-  friday: "8:00 AM - 4:30 PM"
+  monday: "8:00 AM–4:30 PM"
+  tuesday: "8:00 AM–4:30 PM"
+  wednesday: "8:00 AM–4:30 PM"
+  thursday: "8:00 AM–4:30 PM"
+  friday: "8:00 AM–4:30 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/alta-moving-1.jpg", "/photos/alta-moving-2.jpg", "/photos/alta-moving-3.jpg"]
 rating: 4.9
-review_count: 536
+review_count: 537
 price_range: "$$"
 amenities:
 

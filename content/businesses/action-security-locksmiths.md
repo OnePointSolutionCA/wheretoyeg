@@ -11,16 +11,16 @@ phone: "(780) 451-9292"
 website: "https://www.actionsecuritylock.com/"
 google_maps_url: "https://maps.google.com/?cid=2283713461448525663&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 5:00 PM"
-  tuesday: "8:00 AM - 5:00 PM"
-  wednesday: "8:00 AM - 5:00 PM"
-  thursday: "8:00 AM - 5:00 PM"
-  friday: "8:00 AM - 5:00 PM"
+  monday: "8:00 AM–5:00 PM"
+  tuesday: "8:00 AM–5:00 PM"
+  wednesday: "8:00 AM–5:00 PM"
+  thursday: "8:00 AM–5:00 PM"
+  friday: "8:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/action-security-locksmiths-1.jpg", "/photos/action-security-locksmiths-2.jpg", "/photos/action-security-locksmiths-3.jpg"]
 rating: 4.7
-review_count: 159
+review_count: 160
 price_range: "$$"
 amenities:
 

@@ -11,16 +11,16 @@ phone: "(780) 306-4400"
 website: "https://www.borealvet.com/"
 google_maps_url: "https://maps.google.com/?cid=17225776418857984816&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "Open 24 hours"
-  tuesday: "Open 24 hours"
-  wednesday: "Open 24 hours"
-  thursday: "Open 24 hours"
-  friday: "Open 24 hours"
-  saturday: "Open 24 hours"
-  sunday: "Open 24 hours"
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/boreal-veterinary-centre-1.jpg", "/photos/boreal-veterinary-centre-2.jpg", "/photos/boreal-veterinary-centre-3.jpg"]
 rating: 4.4
-review_count: 518
+review_count: 528
 price_range: "$$"
 amenities:
 

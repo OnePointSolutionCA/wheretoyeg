@@ -12,15 +12,15 @@ phone: "(780) 488-9899"
 website: "https://anytimefitness.ca"
 google_maps_url: "https://maps.google.com/?q=Anytime+Fitness+Westmount+Edmonton"
 hours:
-  monday: "Open 24 Hours"
-  tuesday: "Open 24 Hours"
-  wednesday: "Open 24 Hours"
-  thursday: "Open 24 Hours"
-  friday: "Open 24 Hours"
-  saturday: "Open 24 Hours"
-  sunday: "Open 24 Hours"
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/anytime-fitness-westmount-1.jpg", "/photos/anytime-fitness-westmount-2.jpg", "/photos/anytime-fitness-westmount-3.jpg"]
-rating: 4.3
+rating: 4.2
 review_count: 181
 price_range: "$$"
 amenities:
@@ -35,10 +35,6 @@ reviews:
     rating: 5
     comment: |
       I’ve had a great experience at Anytime Fitness lately. The gym is always clean, the equipment is well maintained, and the atmosphere feels really welcoming. The new manager is honestly a breath of fresh air — super friendly, professional, and clearly cares about making the gym a better place for everyone. You can tell there’s been a positive change since they took over. Staff are helpful, members are respectful, and it’s just an overall great environment to work out in. Definitely recommend this location!
-  - name: "Kyle Mortson"
-    rating: 5
-    comment: |
-      Great experience from start to finish! The team was professional, friendly, and clearly takes pride in their work. Special shoutout to Geoffrey—he went above and beyond to make sure everything was handled smoothly and made me feel completely taken care of. You can tell he genuinely cares about customers. Highly recommend and will definitely be back!
   - name: "TB"
     rating: 5
     comment: |
@@ -50,6 +46,10 @@ reviews:
       During a weigh-in, her trainer, Dallas, was very harsh with her. He told her the scale doesn’t lie, that she wasn’t trying, and made comments suggesting she must be eating 7000 calories a day. He also said it didn’t matter since she only had a couple sessions left.
       She has actually made real progress, and like most people, she isn’t perfect all the time. A trainer should understand that, weight fluctuates. Women especially have many factors that can affect this. A good trainer knows how to be honest and push people while still being respectful and supportive.
       She left the session in tears and no longer feels comfortable going back.
+  - name: "Kyle Mortson"
+    rating: 5
+    comment: |
+      Great experience from start to finish! The team was professional, friendly, and clearly takes pride in their work. Special shoutout to Geoffrey—he went above and beyond to make sure everything was handled smoothly and made me feel completely taken care of. You can tell he genuinely cares about customers. Highly recommend and will definitely be back!
   - name: "Taj Brar"
     rating: 5
     comment: |

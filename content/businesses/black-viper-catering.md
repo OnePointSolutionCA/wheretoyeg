@@ -11,11 +11,11 @@ phone: "(780) 964-6992"
 google_maps_url: "https://maps.google.com/?cid=58773225702650212&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "11:00 AM - 7:00 PM"
-  wednesday: "11:00 AM - 7:00 PM"
-  thursday: "11:00 AM - 7:00 PM"
-  friday: "11:00 AM - 7:00 PM"
-  saturday: "11:00 AM - 7:00 PM"
+  tuesday: "11:00 AM–7:00 PM"
+  wednesday: "11:00 AM–7:00 PM"
+  thursday: "11:00 AM–7:00 PM"
+  friday: "11:00 AM–7:00 PM"
+  saturday: "11:00 AM–7:00 PM"
   sunday: "Closed"
 photos: ["/photos/black-viper-catering-1.jpg", "/photos/black-viper-catering-2.jpg", "/photos/black-viper-catering-3.jpg"]
 rating: 4.8

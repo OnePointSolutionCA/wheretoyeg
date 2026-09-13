@@ -11,16 +11,16 @@ phone: "(780) 761-0525"
 website: "https://www.beautyrewind.ca/?utm_campaign=gmb&utm_medium=gbp&utm_source=google"
 google_maps_url: "https://maps.google.com/?cid=17215278210894208409&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 5:00 PM"
-  tuesday: "10:00 AM - 6:00 PM"
-  wednesday: "10:00 AM - 7:00 PM"
-  thursday: "10:00 AM - 7:00 PM"
-  friday: "10:00 AM - 7:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
+  monday: "10:00 AM–5:00 PM"
+  tuesday: "10:00 AM–6:00 PM"
+  wednesday: "10:00 AM–7:00 PM"
+  thursday: "10:00 AM–7:00 PM"
+  friday: "10:00 AM–7:00 PM"
+  saturday: "10:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/beauty-rewind---edmonton-1.jpg", "/photos/beauty-rewind---edmonton-2.jpg", "/photos/beauty-rewind---edmonton-3.jpg"]
 rating: 4.8
-review_count: 1162
+review_count: 1165
 price_range: "$$"
 amenities:
 

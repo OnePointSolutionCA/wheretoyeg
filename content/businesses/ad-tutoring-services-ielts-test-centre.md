@@ -11,16 +11,16 @@ phone: "(780) 444-9349"
 website: "http://www.adtutoring.com/"
 google_maps_url: "https://maps.google.com/?cid=15035282624034178679&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 9:00 PM"
-  tuesday: "9:00 AM - 9:00 PM"
-  wednesday: "9:00 AM - 9:00 PM"
-  thursday: "9:00 AM - 9:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "9:00 AM - 4:00 PM"
+  monday: "9:00 AM–9:00 PM"
+  tuesday: "9:00 AM–9:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
+  saturday: "9:00 AM–4:00 PM"
   sunday: "Closed"
 photos: ["/photos/ad-tutoring-services-ielts-test-centre-1.jpg", "/photos/ad-tutoring-services-ielts-test-centre-2.jpg", "/photos/ad-tutoring-services-ielts-test-centre-3.jpg"]
 rating: 4.6
-review_count: 276
+review_count: 278
 price_range: "$$"
 amenities:
 

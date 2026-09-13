@@ -9,16 +9,16 @@ address: "11410 Kingsway NW"
 neighborhood: "Central Edmonton"
 google_maps_url: "https://maps.google.com/?q=Alberta%20Aviation%20Museum%20Edmonton"
 hours:
-  monday: "10:00 AM - 4:00 PM"
-  tuesday: "10:00 AM - 4:00 PM"
-  wednesday: "10:00 AM - 4:00 PM"
-  thursday: "10:00 AM - 4:00 PM"
-  friday: "10:00 AM - 4:00 PM"
-  saturday: "10:00 AM - 4:00 PM"
-  sunday: "10:00 AM - 4:00 PM"
+  monday: "Closed"
+  tuesday: "10:00 AM–4:00 PM"
+  wednesday: "10:00 AM–4:00 PM"
+  thursday: "10:00 AM–4:00 PM"
+  friday: "10:00 AM–4:00 PM"
+  saturday: "10:00 AM–5:00 PM"
+  sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/alberta-aviation-museum-1.jpg", "/photos/alberta-aviation-museum-2.jpg", "/photos/alberta-aviation-museum-3.jpg"]
-rating: 4.7
-review_count: 1200
+rating: 4.6
+review_count: 1754
 price_range: "$$"
 amenities:
   - "Family Friendly"

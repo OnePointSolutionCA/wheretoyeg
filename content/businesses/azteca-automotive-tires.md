@@ -11,16 +11,16 @@ phone: "(780) 953-6172"
 website: "https://aztecaautomotive.ca/"
 google_maps_url: "https://maps.google.com/?cid=4166425915226811807&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 10:00 PM"
-  tuesday: "9:00 AM - 10:00 PM"
-  wednesday: "9:00 AM - 10:00 PM"
-  thursday: "9:00 AM - 10:00 PM"
-  friday: "9:00 AM - 10:00 PM"
-  saturday: "9:00 AM - 10:00 PM"
-  sunday: "9:00 AM - 10:00 PM"
+  monday: "9:00 AM–10:00 PM"
+  tuesday: "9:00 AM–10:00 PM"
+  wednesday: "9:00 AM–10:00 PM"
+  thursday: "9:00 AM–10:00 PM"
+  friday: "9:00 AM–10:00 PM"
+  saturday: "9:00 AM–10:00 PM"
+  sunday: "9:00 AM–10:00 PM"
 photos: ["/photos/azteca-automotive-tires-1.jpg", "/photos/azteca-automotive-tires-2.jpg", "/photos/azteca-automotive-tires-3.jpg"]
 rating: 5
-review_count: 93
+review_count: 106
 price_range: "$$"
 amenities:
 

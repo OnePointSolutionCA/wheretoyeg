@@ -10,13 +10,13 @@ neighborhood: "Edmonton"
 phone: "(780) 474-6655"
 google_maps_url: "https://maps.google.com/?cid=15627770038349760490&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 10:00 PM"
-  tuesday: "10:00 AM - 10:00 PM"
-  wednesday: "10:00 AM - 10:00 PM"
-  thursday: "10:00 AM - 10:00 PM"
-  friday: "10:00 AM - 10:00 PM"
-  saturday: "10:00 AM - 10:00 PM"
-  sunday: "10:00 AM - 10:00 PM"
+  monday: "10:00 AM–10:00 PM"
+  tuesday: "10:00 AM–10:00 PM"
+  wednesday: "10:00 AM–10:00 PM"
+  thursday: "10:00 AM–10:00 PM"
+  friday: "10:00 AM–10:00 PM"
+  saturday: "10:00 AM–10:00 PM"
+  sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/banaadiri-xamereey-somali-restaurant-1.jpg", "/photos/banaadiri-xamereey-somali-restaurant-2.jpg", "/photos/banaadiri-xamereey-somali-restaurant-3.jpg"]
 rating: 4.7
 review_count: 66

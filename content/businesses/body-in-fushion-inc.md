@@ -11,12 +11,12 @@ phone: "(780) 242-6846"
 website: "https://bodyinfushion.com/"
 google_maps_url: "https://maps.google.com/?cid=1738733568500777755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "6:00 AM - 9:00 PM"
-  tuesday: "6:00 AM - 9:00 PM"
-  wednesday: "6:00 AM - 9:00 PM"
-  thursday: "6:00 AM - 9:00 PM"
-  friday: "6:00 AM - 7:00 PM"
-  saturday: "7:00 AM - 2:00 PM"
+  monday: "6:00 AM–9:00 PM"
+  tuesday: "6:00 AM–9:00 PM"
+  wednesday: "6:00 AM–9:00 PM"
+  thursday: "6:00 AM–9:00 PM"
+  friday: "6:00 AM–7:00 PM"
+  saturday: "7:00 AM–2:00 PM"
   sunday: "Closed"
 photos: ["/photos/body-in-fushion-inc-1.jpg", "/photos/body-in-fushion-inc-2.jpg", "/photos/body-in-fushion-inc-3.jpg"]
 rating: 5

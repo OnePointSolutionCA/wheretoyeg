@@ -12,15 +12,15 @@ website: "https://dancetonight.ca/"
 google_maps_url: "https://maps.google.com/?cid=7130030773434175547&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "12:00 - 10:00 PM"
-  wednesday: "12:00 - 10:00 PM"
-  thursday: "12:00 - 10:00 PM"
-  friday: "12:00 - 10:00 PM"
-  saturday: "11:00 AM - 5:00 PM"
+  tuesday: "12:00 PM–10:00 PM"
+  wednesday: "12:00 PM–10:00 PM"
+  thursday: "12:00 PM–10:00 PM"
+  friday: "12:00 PM–10:00 PM"
+  saturday: "11:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/arthur-murray-dance-studio-edmonton-1.jpg", "/photos/arthur-murray-dance-studio-edmonton-2.jpg", "/photos/arthur-murray-dance-studio-edmonton-3.jpg"]
-rating: 4.6
-review_count: 50
+rating: 4.7
+review_count: 52
 price_range: "$$"
 amenities:
 
@@ -39,7 +39,7 @@ reviews:
     rating: 5
     comment: |
       Absolutely so impressed with this dance studio! Right from when you walk in the door, you will be met by a ray of sunshine named Gabby at the front desk. Overall there is  such a positive, welcoming community feel. While all of the instructors are exceptional, we were lucky enough to get Nastiia as our instructor. She is not only very skilled, but an excellent teacher—encouraging, kind, and genuinely invested in her students’ progress. The staff are always friendly and helpful, and the environment feels inclusive and supportive. They also do a great job tailoring instruction to individual interests. The facility is beautiful, and the overall experience offers excellent value for the cost.
-  - name: "Stacy Dukart"
+  - name: "Stacy Dancause"
     rating: 5
     comment: |
       My husband and I took a private Dance lesson in October as a date night. Our instructor was Daniel and he made the class fun and brought a ton of energy, so much that we signed up for more lessons taking us till the end of the year. In January we bought 10 more classes. Every single class Daniel showcased his talent, coupled with his positive energy and made every class absolutely enjoyable.
