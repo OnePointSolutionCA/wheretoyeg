@@ -4,6 +4,7 @@ slug: "moons-sweet-lil-pancakes"
 category: "cafes-coffee-shops"
 subcategory: "dessert-cafes"
 tier: "premium"
+logo: ""
 description: "Mini pancakes topped with fresh fruit, chocolate drizzle, and creative combos — proudly women-led and family-owned inside West Edmonton Mall."
 address: "8882 170 St NW Unit K042 Level 1, Entrance 50, Edmonton, AB T5T 4J2"
 neighborhood: "West Edmonton"
@@ -18,7 +19,8 @@ hours:
   friday: "10:00 AM - 9:00 PM"
   saturday: "10:00 AM - 9:00 PM"
   sunday: "11:00 AM - 6:00 PM"
-photos: []
+photos:
+  - "/photos/moons-sweet-lil-pancakes-1.webp"
 rating: 5.0
 review_count: 25
 price_range: "$$"

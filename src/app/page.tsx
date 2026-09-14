@@ -52,8 +52,6 @@ export default function HomePage() {
     }
   }
 
-  // Build search index — categories + subcategories + neighborhoods only
-  // Full business search happens on /search page
   const index: SearchIndexItem[] = [
     ...cats.map((c) => ({
       kind: "category" as const,
@@ -74,6 +72,12 @@ export default function HomePage() {
       name: n,
       href: `/neighborhoods/${toSlug(n)}`,
       hint: "Neighborhood",
+    })),
+    ...getBusinesses().map((b) => ({
+      kind: "business" as const,
+      name: b.name,
+      href: `/${b.category}/${b.slug}`,
+      hint: `${catBySlug[b.category] ?? b.category} · ${b.neighborhood}`,
     })),
   ];
 
