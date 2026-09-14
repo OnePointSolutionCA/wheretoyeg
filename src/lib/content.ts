@@ -91,20 +91,34 @@ export function getDiverseFeatured(limit = 12): Business[] {
   const shuffled = seededShuffle(all);
   const picked: Business[] = [];
   const usedCats = new Set<string>();
+  const usedSlugs = new Set<string>();
 
-  // First pass: one per category for diversity
+  // Premium businesses always appear first
   for (const b of shuffled) {
-    if (usedCats.has(b.category)) continue;
+    if (b.tier !== "premium") continue;
     picked.push(b);
+    usedSlugs.add(b.slug);
     usedCats.add(b.category);
     if (picked.length >= limit) break;
+  }
+
+  // Fill one per category for diversity
+  if (picked.length < limit) {
+    for (const b of shuffled) {
+      if (usedSlugs.has(b.slug) || usedCats.has(b.category)) continue;
+      picked.push(b);
+      usedSlugs.add(b.slug);
+      usedCats.add(b.category);
+      if (picked.length >= limit) break;
+    }
   }
 
   // Fill remaining slots
   if (picked.length < limit) {
     for (const b of shuffled) {
-      if (picked.includes(b)) continue;
+      if (usedSlugs.has(b.slug)) continue;
       picked.push(b);
+      usedSlugs.add(b.slug);
       if (picked.length >= limit) break;
     }
   }
