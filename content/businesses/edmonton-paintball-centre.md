@@ -13,11 +13,11 @@ google_maps_url: "https://maps.google.com/?cid=12553702231309798615&g_mp=Cidnb29
 hours:
   monday: "Closed"
   tuesday: "Closed"
-  wednesday: "4:30 - 9:00 PM"
-  thursday: "4:30 - 9:00 PM"
-  friday: "4:30 - 10:30 PM"
-  saturday: "10:00 AM - 10:30 PM"
-  sunday: "11:00 AM - 7:00 PM"
+  wednesday: "4:30 PM–9:00 PM"
+  thursday: "4:30 PM–9:00 PM"
+  friday: "4:30 PM–10:30 PM"
+  saturday: "10:00 AM–10:30 PM"
+  sunday: "11:00 AM–7:00 PM"
 photos: ["/photos/edmonton-paintball-centre-1.jpg", "/photos/edmonton-paintball-centre-2.jpg", "/photos/edmonton-paintball-centre-3.jpg"]
 rating: 4.4
 review_count: 127

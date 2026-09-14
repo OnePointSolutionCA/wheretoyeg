@@ -11,16 +11,16 @@ phone: "(780) 489-5464"
 website: "http://www.donairstation.ca/"
 google_maps_url: "https://maps.google.com/?cid=1547089751778401154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 11:00 PM"
-  tuesday: "11:00 AM - 11:00 PM"
-  wednesday: "11:00 AM - 11:00 PM"
-  thursday: "11:00 AM - 11:00 PM"
-  friday: "11:00 AM - 2:30 PM, 4:00 - 11:00 PM"
-  saturday: "11:00 AM - 11:00 PM"
-  sunday: "11:00 AM - 11:00 PM"
+  monday: "11:00 AM–11:00 PM"
+  tuesday: "11:00 AM–11:00 PM"
+  wednesday: "11:00 AM–11:00 PM"
+  thursday: "11:00 AM–11:00 PM"
+  friday: "11:00 AM–2:30 PM"
+  saturday: "11:00 AM–11:00 PM"
+  sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/donair-station-1.jpg", "/photos/donair-station-2.jpg", "/photos/donair-station-3.jpg"]
 rating: 4.5
-review_count: 984
+review_count: 988
 price_range: "$"
 amenities:
   - "Halal"

@@ -12,14 +12,14 @@ google_maps_url: "https://maps.google.com/?cid=3620961298198104377&g_mp=Cidnb29n
 hours:
   monday: "Closed"
   tuesday: "Closed"
-  wednesday: "12:00 - 4:00 PM"
+  wednesday: "12:00 PM–4:00 PM"
   thursday: "Closed"
   friday: "Closed"
   saturday: "Closed"
-  sunday: "10:00 AM - 3:00 PM"
+  sunday: "10:00 AM–3:00 PM"
 photos: ["/photos/callingwood-farmers-market-1.jpg", "/photos/callingwood-farmers-market-2.jpg", "/photos/callingwood-farmers-market-3.jpg"]
 rating: 4.6
-review_count: 678
+review_count: 688
 price_range: "$$"
 amenities:
 

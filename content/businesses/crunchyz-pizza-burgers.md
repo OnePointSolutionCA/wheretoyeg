@@ -11,16 +11,16 @@ phone: "(780) 249-9949"
 website: "https://www.crunchyzpizza.ca/"
 google_maps_url: "https://maps.google.com/?cid=3560921191559425820&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 9:00 PM"
-  tuesday: "11:00 AM - 11:00 PM"
-  wednesday: "11:00 AM - 11:00 PM"
-  thursday: "11:00 AM - 1:00 AM"
-  friday: "11:00 AM - 2:00 AM"
-  saturday: "11:00 AM - 2:00 AM"
-  sunday: "12:00 - 9:00 PM"
+  monday: "12:00 PM–9:00 PM"
+  tuesday: "11:00 AM–11:00 PM"
+  wednesday: "11:00 AM–11:00 PM"
+  thursday: "11:00 AM–1:00 AM"
+  friday: "11:00 AM–2:00 AM"
+  saturday: "11:00 AM–2:00 AM"
+  sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/crunchyz-pizza-burgers-1.jpg", "/photos/crunchyz-pizza-burgers-2.jpg", "/photos/crunchyz-pizza-burgers-3.jpg"]
 rating: 4.9
-review_count: 492
+review_count: 503
 price_range: "$"
 amenities:
   - "Halal"
@@ -39,13 +39,6 @@ reviews:
       The restaurant was spotless and very well maintained, which immediately stood out to me. The food was fresh, delicious, and made with care. The donair was packed with flavor and the portions were generous. There’s also plenty of convenient parking, making it an easy place to visit.
       
       Great food, excellent customer service, and a clean, comfortable environment. It’s clear the owners and staff take pride in what they do. Highly recommended, and I’ll definitely be coming back!
-  - name: "JonJonPoPong"
-    rating: 5
-    comment: |
-      I dropped in here late one night recently and had a mushroom burger with cheese and onion rings. The burger is very tasty, classic smash burger. The onion rings though not as good as the burger, it would be nice if they would make their own in house onion rings, A&W makes their own onion rings, so im sure they can too.
-      The cheese on the burger isnt processed, though I personally prefer processed.
-      
-      Ill come back and try their pizzas next time as they look good.
   - name: "Umarova Amina"
     rating: 5
     comment: |
@@ -56,11 +49,15 @@ reviews:
     comment: |
       Great food, service and atmosphere.
       It was my first time here and I really enjoyed their pizza. I’ll be back!
-  - name: "Ali 1990"
+  - name: "Phat Boy"
     rating: 5
     comment: |
-      I had a great experience at Crunchyz today! The food was really good, and the service was excellent. Even though it was almost closing time, the girl working at the cashier took my order without any hesitation and was very kind and welcoming. She had such a warm and lovely smile haha. Definitely a great place!
-      And yes I’ll definitely go back there 😋
-      ————-
-      little hint for anyone visiting: give the Donair Poutine a try — you won’t regret it! I promise
+      Stumbled onto this place by accident and glad I did! Just little joint in a strip mall serving great food! Spoke with the owner and he was happy to tell me about the high quality of meats and ingredients they use in their menu items. Tried the pizza and poutine today….delicious! Everything was fresh and made to order. Definitely want to come back and try their donairs and wings. Service was friendly and the joint was clean and inviting! Great value for what you get served. Definitely give this place a try in you’re in the area!
+  - name: "JonJonPoPong"
+    rating: 5
+    comment: |
+      I dropped in here late one night recently and had a mushroom burger with cheese and onion rings. The burger is very tasty, classic smash burger. The onion rings though not as good as the burger, it would be nice if they would make their own in house onion rings, A&W makes their own onion rings, so im sure they can too.
+      The cheese on the burger isnt processed, though I personally prefer processed.
+      
+      Ill come back and try their pizzas next time as they look good.
 ---

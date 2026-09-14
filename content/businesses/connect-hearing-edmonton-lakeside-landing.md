@@ -15,17 +15,31 @@ photos:
 reviews:
   - name: "James Labine"
     rating: 5
-    comment: "Very helpful.. they did a great job . And they live up to their warranty and what they tell you they're going to do . First set of hearing aids they made for me were very uncomfortable and did not work they took him back no questions asked I made a new set and they're great .. Solberg Monalyn was great to deal with . Really knows her stuff"
+    comment: |
+      Very helpful.. they did a great job . And they live up to their warranty and what they tell you they're going to do . First set of hearing aids they made for me were very uncomfortable and did not work they took him back no questions asked I made a new set and they're great ..
+      Solberg Monalyn was great to deal with . Really knows her stuff
   - name: "Amber Lynn"
     rating: 5
-    comment: "I had the best experience here. Jennifer was very helpful and went above and beyond to get me into my new hearing aids as soon as possible. Thank you Jennifer!"
+    comment: |
+      I had the best experience here. Jennifer was very helpful and went above and beyond to get me into my new hearing aids as soon as possible. Thank you Jennifer!
   - name: "moud adlo"
     rating: 5
-    comment: "The most amazing help from Lorie Hall at this location is soooo easing to my father's unique situation. She's been so understanding and so cooperative since 2021 and thereafter. I strongly recommend anyone who wants the best hearing aid and the best support people & systems to visit this location and see for yourselves. Thanks Lorie"
+    comment: |
+      The most amazing help from Lorie Hall at this location is soooo easing to my father's unique situation. She's been so understanding and so cooperative since 2021 and thereafter. I strongly recommend anyone who wants the best hearing aid and the best support people & systems to visit this location and see for yourselves. Thanks Lorie
+  - name: "Craig Pritchard"
+    rating: 5
+    comment: |
+      The staff were very friendly, and efficient throughout the whole process not to mention extremely knowledgeable.
   - name: "Bonnie Sadlier"
     rating: 5
-    comment: "Best place in Edmonton to get hear aid done nicest wonderful place so peaceful and excellent service"
-  - name: "Cathy"
-    rating: 5
-    comment: "Lori Hall has been excellent with her knowledge and guidance with my husband's hearing aids. She has helped me with getting the hearing aids connected to the tv,  repairs to the aids, and she always calls when she says she will. She is providing so much better service than where we going previously and we plan to keep going. Thank you Lori for all your hard work."
+    comment: |
+      Best place in Edmonton to get hear aid done nicest wonderful place so peaceful and excellent service
+hours:
+  monday: "9:00 AM–12:00 PM"
+  tuesday: "9:00 AM–12:00 PM"
+  wednesday: "9:00 AM–12:00 PM"
+  thursday: "9:00 AM–12:00 PM"
+  friday: "9:00 AM–12:00 PM"
+  saturday: "Closed"
+  sunday: "Closed"
 ---

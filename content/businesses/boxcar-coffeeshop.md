@@ -11,16 +11,16 @@ phone: "(825) 459-4688"
 website: "http://boxcarcoffeeshop.ca/"
 google_maps_url: "https://maps.google.com/?cid=16962222555911246671&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 5:00 PM"
-  tuesday: "8:00 AM - 5:00 PM"
-  wednesday: "8:00 AM - 5:00 PM"
-  thursday: "8:00 AM - 8:00 PM"
-  friday: "8:00 AM - 8:00 PM"
-  saturday: "8:00 AM - 8:00 PM"
-  sunday: "8:00 AM - 5:00 PM"
+  monday: "8:00 AM–5:00 PM"
+  tuesday: "8:00 AM–5:00 PM"
+  wednesday: "8:00 AM–5:00 PM"
+  thursday: "8:00 AM–8:00 PM"
+  friday: "8:00 AM–8:00 PM"
+  saturday: "8:00 AM–8:00 PM"
+  sunday: "8:00 AM–5:00 PM"
 photos: ["/photos/boxcar-coffeeshop-1.jpg", "/photos/boxcar-coffeeshop-2.jpg", "/photos/boxcar-coffeeshop-3.jpg"]
 rating: 4.7
-review_count: 786
+review_count: 798
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -56,14 +56,12 @@ reviews:
       I love the atmosphere of this café. It’s tucked away on a quiet street, has nice outdoor seating, and the shop itself is beautiful.
       
       That said, the coffee is what matters most, and unfortunately it falls short. The cappuccino was thin and lacked the sweetness and richness you expect from properly steamed milk. I also ordered an espresso and specifically asked for it in a ceramic cup, but it still came in plastic. I could indeed smell the plastic, which made the whole experience feel cheap — and I’d rather not have microplastics in my drink.
+  - name: "Becky Newhook"
+    rating: 5
+    comment: |
+      Stopped in for some coffee and lunch to-go as we were heading to a nearby park to play. Location was perfect but parking is a bit slim. The flat white was delicious and the grilled cheese was super cheesy and with chips on the side definitely an easy lunch on the value side. Outside and inside seating available and very cozy. Staff was not overly engaging and just pleasant. A friendly welcome could go a long ways. But I give 5 stars for the amazing coffee and cozy atmosphere.
   - name: "Susie E's favorites!"
     rating: 5
     comment: |
       Wow!!!!!! I cant speak any more highly about this place ♡ I was greeted with such a warm hello and such great service.  I was recommended the London fog Tres Leches and one of the customers said they were ordering their second serving as we spoke! I was so excited to try it! I ordered the tres Leches, a vanilla latte and a croquet monsieur sandwich. When it came out, it had to take a picture of the cake!!! What a beautiful work of art and HOLY smokes the taste!!!! It was amazing!!!  I can't explain how they clearly understood how to get.both London fog and their tres Leches cakes to blend into this fabulous concoction, but they truly did!!! And the latte was on another level as well. I can't even describe their chipolte aioli  dip with their chips, it was probably one of the best dips I have ever had! Everything came out gorgeous and hot! I feel so lucky to have been able to stop by !!! Seriously, don't just walk here, Run♡♡♡!!!
-  - name: "IG:Foodieedwin"
-    rating: 5
-    comment: |
-      Boxcar Cafe is one of those rare cafés where the experience matters just as much as the coffee. I love black coffee, but once a cup hits a solid seven out of ten, I start paying more attention to everything else, the service, the atmosphere, and how the space makes you feel. Boxcar gets this right. The staff are genuinely attentive and welcoming, and the café feels warm and intentional without trying too hard.
-      
-      From the outside, it’s understated enough that I briefly thought I had the wrong place. Inside, it was packed and full of energy. Somehow, by the time my drinks were ready, a table opened up. I ordered a black coffee and a matcha, both light, clean, and refreshing. This isn’t a place I’d camp out to work all day, but it’s perfect for catching up with friends and slowing down. They even offer pup cones and rotate seasonal drinks like strawberry lattes in the summer. Boxcar feels important to the neighborhood, and it’s a place I keep coming back to.
 ---

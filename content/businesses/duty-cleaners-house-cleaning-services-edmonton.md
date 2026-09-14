@@ -11,16 +11,16 @@ phone: "(780) 913-6565"
 website: "https://dutycleaners.ca/"
 google_maps_url: "https://maps.google.com/?cid=8192121191672692049&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 8:00 PM"
-  tuesday: "8:00 AM - 8:00 PM"
-  wednesday: "8:00 AM - 8:00 PM"
-  thursday: "8:00 AM - 8:00 PM"
-  friday: "8:00 AM - 8:00 PM"
-  saturday: "8:00 AM - 8:00 PM"
-  sunday: "9:00 AM - 3:00 PM"
+  monday: "8:00 AM–8:00 PM"
+  tuesday: "8:00 AM–8:00 PM"
+  wednesday: "8:00 AM–8:00 PM"
+  thursday: "8:00 AM–8:00 PM"
+  friday: "8:00 AM–8:00 PM"
+  saturday: "8:00 AM–8:00 PM"
+  sunday: "9:00 AM–3:00 PM"
 photos: ["/photos/duty-cleaners-house-cleaning-services-edmonton-1.jpg", "/photos/duty-cleaners-house-cleaning-services-edmonton-2.jpg", "/photos/duty-cleaners-house-cleaning-services-edmonton-3.jpg"]
 rating: 4.9
-review_count: 234
+review_count: 237
 price_range: "$$"
 amenities:
 

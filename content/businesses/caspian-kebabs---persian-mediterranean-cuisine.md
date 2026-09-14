@@ -12,15 +12,15 @@ website: "https://caspiankebabs.com/"
 google_maps_url: "https://maps.google.com/?cid=12592133713423202722&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "11:30 AM - 10:00 PM"
-  wednesday: "11:30 AM - 10:00 PM"
-  thursday: "11:30 AM - 10:00 PM"
-  friday: "11:30 AM - 11:00 PM"
-  saturday: "11:30 AM - 11:00 PM"
-  sunday: "11:30 AM - 10:00 PM"
+  tuesday: "11:30 AM–10:00 PM"
+  wednesday: "11:30 AM–10:00 PM"
+  thursday: "11:30 AM–10:00 PM"
+  friday: "11:30 AM–11:00 PM"
+  saturday: "11:30 AM–11:00 PM"
+  sunday: "11:30 AM–10:00 PM"
 photos: ["/photos/caspian-kebabs---persian-mediterranean-cuisine-1.jpg", "/photos/caspian-kebabs---persian-mediterranean-cuisine-2.jpg", "/photos/caspian-kebabs---persian-mediterranean-cuisine-3.jpg"]
 rating: 4.9
-review_count: 690
+review_count: 696
 price_range: "$$"
 amenities:
   - "Halal"
@@ -41,10 +41,6 @@ reviews:
     rating: 5
     comment: |
       One of the best Persian restaurants in Edmonton!!!! I went there last week with my friends and had such a great experience. Caspian Kebabs has amazing food, full of rich flavor and perfectly cooked 😋😋 The kebabs are tender and juicy, the rice is fresh and fragrant, and everything tastes so delicious. The customer service is excellent, and the atmosphere is very welcoming. I really enjoyed my experience and will definitely be coming back again!!!
-  - name: "Patrisha Ruperez"
-    rating: 5
-    comment: |
-      Looking for delicious kebabs and shawarma in Edmonton and we found this restaurant through social media. We ate the Koobideh plate and it tasted so good. They have a Wednesday deal for only 9.99. The service was excellent and the owner even gave us complimentary tea which was very thoughtful and kind. We will surely come back again to try other menu dishes.
   - name: "Feroze Ahmed"
     rating: 5
     comment: |
@@ -53,8 +49,15 @@ reviews:
       I was on a road trip from Calgary, I will be stopping here quite often now whenever I make the trip to Edmonton.
       
       The staff is attentive, friendly and give great recommendations. Highly recommend this restaurant, I for one will definitely be back !
-  - name: "H&M"
+  - name: "Jamshed Nawaz"
     rating: 5
     comment: |
-      We had the Vaziri Kabab at Caspian kebabs and it was absolutely delicious. The portions were generous and very satisfying, and the prices were more than reasonable for the quality. The staff were incredibly kind and attentive, creating a welcoming and friendly atmosphere. Everything felt fresh and well-prepared, from the flavors to the presentation. It’s a perfect spot for a casual meal with great food, and we’ll definitely be coming back. Highly recommended!
+      We’ve been to Caspian Kababs twice in the last 2 weeks, and the Koobideh kebabs have been consistently amazing. Soft, juicy, flavourful, and perfectly grilled with that slight char on the outside.
+      The platter comes with buttery saffron rice, grilled tomato
+      The platter comes with fries. Everything tasted fresh and comforting without feeling overly heavy.
+      The service was quick, and they were extremely friendly. We’ll be back again soon.
+  - name: "Mahdiar Sadeghi"
+    rating: 5
+    comment: |
+      Caspian serves authentic, and amazing food! We ordered takeout and were so impressed with the quality. Everything was fresh, flavorful, and well prepared. Definitely try the koobide: it’s perfectly seasoned, not overly buttery or salty, and they even offer extra butter as an add-on if you want it. Highly recommend!
 ---

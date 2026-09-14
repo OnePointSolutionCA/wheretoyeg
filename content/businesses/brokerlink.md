@@ -11,16 +11,16 @@ phone: "(780) 484-8880"
 website: "https://www.brokerlink.ca/locations/alberta/edmonton/102-avenue"
 google_maps_url: "https://maps.google.com/?cid=14009836010475145638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:30 AM - 4:30 PM"
-  tuesday: "8:30 AM - 4:30 PM"
-  wednesday: "8:30 AM - 4:30 PM"
-  thursday: "8:30 AM - 4:30 PM"
-  friday: "8:30 AM - 4:30 PM"
+  monday: "8:30 AM–4:30 PM"
+  tuesday: "8:30 AM–4:30 PM"
+  wednesday: "8:30 AM–4:30 PM"
+  thursday: "8:30 AM–4:30 PM"
+  friday: "8:30 AM–4:30 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/brokerlink-1.jpg", "/photos/brokerlink-2.jpg", "/photos/brokerlink-3.jpg"]
 rating: 4.9
-review_count: 2648
+review_count: 2649
 price_range: "$$"
 amenities:
 

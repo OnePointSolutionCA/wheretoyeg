@@ -11,16 +11,16 @@ phone: "(587) 455-3725"
 website: "https://www.instagram.com/cndedmonton_yeg"
 google_maps_url: "https://maps.google.com/?cid=9366220889194662694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "1:00 - 10:30 PM"
-  tuesday: "1:00 - 10:30 PM"
-  wednesday: "1:00 - 10:30 PM"
-  thursday: "1:00 - 10:30 PM"
-  friday: "1:00 - 10:30 PM"
-  saturday: "12:00 - 10:30 PM"
-  sunday: "12:00 - 10:30 PM"
+  monday: "1:00 PM–10:30 PM"
+  tuesday: "1:00 PM–10:30 PM"
+  wednesday: "1:00 PM–10:30 PM"
+  thursday: "1:00 PM–10:30 PM"
+  friday: "1:00 PM–10:30 PM"
+  saturday: "12:00 PM–10:30 PM"
+  sunday: "12:00 PM–10:30 PM"
 photos: ["/photos/cake-dessert-cafe-1.jpg", "/photos/cake-dessert-cafe-2.jpg", "/photos/cake-dessert-cafe-3.jpg"]
 rating: 4.1
-review_count: 611
+review_count: 615
 price_range: "$$"
 amenities:
   - "Dine-In"

@@ -12,12 +12,12 @@ website: "https://www.cafebelair.ca/"
 google_maps_url: "https://maps.google.com/?cid=115202261474921587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "12:00 - 5:00 PM"
-  wednesday: "12:00 - 4:00 PM"
+  tuesday: "12:00 PM–4:30 PM"
+  wednesday: "12:00 PM–4:30 PM"
   thursday: "Closed"
-  friday: "12:00 - 5:00 PM"
-  saturday: "11:00 AM - 4:30 PM"
-  sunday: "11:00 AM - 4:00 PM"
+  friday: "12:00 PM–4:30 PM"
+  saturday: "11:00 AM–4:30 PM"
+  sunday: "11:00 AM–4:00 PM"
 photos: ["/photos/cafe-bel-air-1.jpg", "/photos/cafe-bel-air-2.jpg", "/photos/cafe-bel-air-3.jpg"]
 rating: 4.9
 review_count: 378

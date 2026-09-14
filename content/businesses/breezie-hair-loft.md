@@ -14,17 +14,28 @@ photos:
 reviews:
   - name: "K Ibsen"
     rating: 5
-    comment: "I can confirm ALL the other reviews already left and echo that Breagh and Kenzie are the best I have EVER found. They are hardworking, talented, kind and caring women who have curated a beautiful space and vibe. They are intentional with all their services, thoughtful and innovative. I can assure you that any other stylists working at this salon will meet the same standards! I look forward to every appointment and am someone who loves putting the power in their capable hands--I usually just say "
+    comment: |
+      I can confirm ALL the other reviews already left and echo that Breagh and Kenzie are the best I have EVER found. They are hardworking, talented, kind and caring women who have curated a beautiful space and vibe. They are intentional with all their services, thoughtful and innovative. I can assure you that any other stylists working at this salon will meet the same standards! I look forward to every appointment and am someone who loves putting the power in their capable hands--I usually just say "Surprise me!". I have always left feeling excited, beautiful, and with healthy, stunning hair.
   - name: "Addison Loitz"
     rating: 5
-    comment: "Breeze Hair Loft looks like such a beautiful and inviting salon! The space seems so clean, modern, and relaxing, and the work they share really speaks for itself. Their attention to detail and the quality of their styling and colour looks amazing.  The team comes across as super professional and talented, and it’s clear they care about making their clients feel confident and taken care of. I’ve heard great things and love the vibe they’ve created—it feels like the kind of place you can trust wit"
+    comment: |
+      Breeze Hair Loft looks like such a beautiful and inviting salon! The space seems so clean, modern, and relaxing, and the work they share really speaks for itself. Their attention to detail and the quality of their styling and colour looks amazing.
+      
+      The team comes across as super professional and talented, and it’s clear they care about making their clients feel confident and taken care of. I’ve heard great things and love the vibe they’ve created—it feels like the kind of place you can trust with your hair.
+      
+      Definitely at the top of my list to check out soon!
   - name: "Darian"
     rating: 5
-    comment: "I started seeing Breagh a few years ago now. She saved me when I needed a last minute hair appointment. And I’ve been seeing her ever since. She exceeds my expectations every single time. On top of that, I’ve met Kenzie and a few other ladies there and they are all so lovely and welcoming. 10/10 recommend."
+    comment: |
+      I started seeing Breagh a few years ago now. She saved me when I needed a last minute hair appointment. And I’ve been seeing her ever since. She exceeds my expectations every single time.
+      On top of that, I’ve met Kenzie and a few other ladies there and they are all so lovely and welcoming. 10/10 recommend.
   - name: "Darcy"
     rating: 5
-    comment: "Review Firstly, Breagh is the only stylist that I will see! She is truly amazing at what she does!  I’m very indecisive and I would say that 99% of my appointments I tell her to do what she thinks is best and she nails it every time!! On the other hand, the times I go to her with an idea, she’s executed it perfectly! Breagh is kind, understanding, professional, and open. Although I haven’t gone to Kenzie, I’ve been present during her appointments and she is equally as talented and sweet! You can"
+    comment: |
+      Review
+      Firstly, Breagh is the only stylist that I will see! She is truly amazing at what she does!  I’m very indecisive and I would say that 99% of my appointments I tell her to do what she thinks is best and she nails it every time!! On the other hand, the times I go to her with an idea, she’s executed it perfectly! Breagh is kind, understanding, professional, and open. Although I haven’t gone to Kenzie, I’ve been present during her appointments and she is equally as talented and sweet! You can see the passion that they have for what they do and the pride they take in their salon. The atmosphere is so calming and fun. I always leave feeling beautiful and refreshed. I highly, highly recommend seeing these ladies! You will not be disappointed!
   - name: "Hannah Tiringer"
     rating: 5
-    comment: "I’ve known Kenzie for two years now, and she is absolutely amazing! She consistently does an incredible job on my hair. I highly recommend her to anyone looking for great results every time!"
+    comment: |
+      I’ve known Kenzie for two years now, and she is absolutely amazing! She consistently does an incredible job on my hair. I highly recommend her to anyone looking for great results every time!
 ---

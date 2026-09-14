@@ -11,16 +11,16 @@ phone: "(587) 635-3545"
 website: "https://dynamicchiro.ca/"
 google_maps_url: "https://maps.google.com/?cid=1455576007905484091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 8:00 PM"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 8:00 PM"
-  saturday: "9:00 AM - 4:00 PM"
+  monday: "9:00 AM–8:00 PM"
+  tuesday: "9:00 AM–8:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–8:00 PM"
+  saturday: "9:00 AM–4:00 PM"
   sunday: "Closed"
 photos: ["/photos/dynamic-chiropractic-massage-1.jpg", "/photos/dynamic-chiropractic-massage-2.jpg", "/photos/dynamic-chiropractic-massage-3.jpg"]
 rating: 4.9
-review_count: 132
+review_count: 134
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -29,6 +29,14 @@ tags: ["edmonton", "chiropractors"]
 active: true
 date_listed: "2026-08-26"
 reviews:
+  - name: "Sofina Arabi-Kamaldin"
+    rating: 5
+    comment: |
+      I truly believe every baby and postpartum mom should be assessed by Dr. Lama. She is incredibly patient, understanding, caring, and genuinely takes the time to listen.
+      My 9-month-old has been seeing Dr. Lama since she was 3 months old, and I have also been seeing her for ongoing pain that I experienced after giving birth. Dr. Lama was one of the first people who truly understood what I was experiencing and knew how to help me.
+      What I appreciate most is that she never rushes you out the door. She takes the time to check in, make sure you’re feeling better, and address any concerns before you leave. You can truly tell that she cares about her patients and wants them to feel their best.
+      On top of that, every single staff member, from reception to the interns to the doctors, has been so welcoming and loving toward my little one. They always make us feel comfortable and cared for, and it’s clear that they genuinely love what they do.
+      I’m so grateful to have found this clinic. Dr. Lama and the entire team have made such a positive difference for both me and my baby. I recommend this clinic to everyone and couldn’t be happier with our experience!
   - name: "mariam ali"
     rating: 5
     comment: |
@@ -46,18 +54,4 @@ reviews:
     rating: 5
     comment: |
       I have been attending the Dynamic Chiropractic and Massage for several years now, while going through aches and pains.  The staff is incredibly engaged and knowledgeable.  Dr. Lama has a great deal of experience in chiropractic and acupuncture which I strongly benefited going through shoulder and quad injuries.  Alexandria is one of the top massage therapists with an incredible knowledge in joints movement, muscular rehabilitation and injury prevention.  The establishment is very clean and very well looked after.  I strongly recommend the Dynamic to anyone nursing injuries or trying to gain better mobility.
-  - name: "Z K"
-    rating: 5
-    comment: |
-      Our whole family has been going to Dynamic Chiro since it has opened its location and we absolutely love it!
-      
-      Dr. Lama is amazing —super professional but also really friendly, and always explains what is being done. She recommends exercises and treatments from daily aches to maintenance since our family is very active.
-      
-      Dr. Robin is incredible with both massages and acupuncture, and honestly, has helped each of our family members with numerous aches, tension, and stress. We also do maintenance with him.
-      
-      The clinic is very welcoming, clean, and the staff are awesome—appointments always run smoothly, and make you feel comfortable from the moment you walk in.
-      
-      Our family have noticed real improvements in our posture, flexibility, and overall well-being. It’s not just about fixing aches—it’s about feeling good every day.
-      
-      We highly recommend Dynamic Chiro if you want skilled, caring practitioners who actually take the time to help you and your family feel your best!
 ---

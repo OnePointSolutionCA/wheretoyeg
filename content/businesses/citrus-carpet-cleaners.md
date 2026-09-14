@@ -15,17 +15,33 @@ photos:
 reviews:
   - name: "Danielle Broatch"
     rating: 5
-    comment: "I hired Igor for my move-out carpet cleaning, and he did a fantastic job. He was professional, punctual, and thorough. He was able to remove stains I didn’t think would come out, and the carpets looked fresh and spotless by the time they were done. The whole process was stress-free, and  pricing was very fair for the quality of service provided. I would definitely recommend them to anyone needing a reliable carpet cleaning service, especially for move-outs."
+    comment: |
+      I hired Igor for my move-out carpet cleaning, and he did a fantastic job. He was professional, punctual, and thorough. He was able to remove stains I didn’t think would come out, and the carpets looked fresh and spotless by the time they were done. The whole process was stress-free, and  pricing was very fair for the quality of service provided. I would definitely recommend them to anyone needing a reliable carpet cleaning service, especially for move-outs.
   - name: "Maryam Monib"
     rating: 5
-    comment: "Best service! Prices were very reasonable, and the fact that Igor literally picked them up the same afternoon I called and had BOTH my rugs dropped off the same day was phenomenal. Not to mention that the cleaning itself was perfection. My rugs look brand new! Definitely will be using citrus carpet cleaners again in the future."
+    comment: |
+      Best service! Prices were very reasonable, and the fact that Igor literally picked them up the same afternoon I called and had BOTH my rugs dropped off the same day was phenomenal. Not to mention that the cleaning itself was perfection. My rugs look brand new! Definitely will be using citrus carpet cleaners again in the future.
   - name: "JLO"
     rating: 5
-    comment: "We recently moved to Alberta and bought a house that never knew what love is. So today we had Citrus Carpet Cleaners come to our house and do they’re magic, if you want the most extraordinary carpet cleaning, you need to call Igor and Yumi! They are an incredible husband and wife team and you’ll never see a more cohesive team like them. Not only did they remove the stains, they made our carpets look brand new and soooo soft…oh and the scent of citrus and clean…LOVE!!! Both Igor and Yumi took the"
+    comment: |
+      We recently moved to Alberta and bought a house that never knew what love is. So today we had Citrus Carpet Cleaners come to our house and do they’re magic, if you want the most extraordinary carpet cleaning, you need to call Igor and Yumi! They are an incredible husband and wife team and you’ll never see a more cohesive team like them. Not only did they remove the stains, they made our carpets look brand new and soooo soft…oh and the scent of citrus and clean…LOVE!!! Both Igor and Yumi took their time and care to every inch of our carpets. The results are STUNNINGLY AMAZING! We’re definitely calling them again.
+      Call or text them and you’ll never want to call anyone else.
+      
+      Thank you Igor and Yumi! You guys are THE BOMB!!! Loves from us!
   - name: "Emily Lundie"
     rating: 5
-    comment: "Thank you Igor from Citrus Carpet Cleaners for the exceptional job on September 10 2025 I highly appreciate you including the drying the carpet with 5 of these air fans as well thank goodness for you"
+    comment: |
+      Thank you Igor from Citrus Carpet Cleaners for the exceptional job on September 10 2025 I highly appreciate you including the drying the carpet with 5 of these air fans as well thank goodness for you
   - name: "Loretta Korbut"
     rating: 5
-    comment: "Igor did a wonderful job on my carpets. I could not believe that they looked like brand new. Professional and friendly. I would highly recommend Citrus Carpet Cleaners to my family and friends. They did an awesome job."
+    comment: |
+      Igor did a wonderful job on my carpets. I could not believe that they looked like brand new. Professional and friendly. I would highly recommend Citrus Carpet Cleaners to my family and friends. They did an awesome job.
+hours:
+  monday: "8:00 AM–7:00 PM"
+  tuesday: "8:00 AM–7:00 PM"
+  wednesday: "8:00 AM–7:00 PM"
+  thursday: "8:00 AM–7:00 PM"
+  friday: "8:00 AM–7:00 PM"
+  saturday: "10:00 AM–6:00 PM"
+  sunday: "10:00 AM–6:00 PM"
 ---

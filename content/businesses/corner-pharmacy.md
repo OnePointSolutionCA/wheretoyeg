@@ -11,13 +11,13 @@ phone: "(780) 489-5526"
 website: "http://www.cornerpharmacy.ca/"
 google_maps_url: "https://maps.google.com/?cid=11284295710078271808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 8:00 PM"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 8:00 PM"
-  saturday: "9:00 AM - 6:00 PM"
-  sunday: "10:00 AM - 4:00 PM"
+  monday: "9:00 AM–8:00 PM"
+  tuesday: "9:00 AM–8:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–8:00 PM"
+  saturday: "9:00 AM–6:00 PM"
+  sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/corner-pharmacy-1.jpg", "/photos/corner-pharmacy-2.jpg", "/photos/corner-pharmacy-3.jpg"]
 rating: 3.7
 review_count: 80

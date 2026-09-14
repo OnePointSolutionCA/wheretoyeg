@@ -12,15 +12,15 @@ website: "http://www.buffwaxspot.com/"
 google_maps_url: "https://maps.google.com/?cid=9314054263026985276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 8:00 PM"
-  saturday: "9:00 AM - 5:00 PM"
+  tuesday: "9:00 AM–8:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–8:00 PM"
+  saturday: "9:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/buff-wax-spot-skyview-1.jpg", "/photos/buff-wax-spot-skyview-2.jpg", "/photos/buff-wax-spot-skyview-3.jpg"]
 rating: 4.6
-review_count: 498
+review_count: 499
 price_range: "$$"
 amenities:
 

@@ -11,16 +11,16 @@ phone: "(780) 225-6364"
 website: "https://www.desirelaser.com/"
 google_maps_url: "https://maps.google.com/?cid=2547612568907212909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 8:00 PM"
-  tuesday: "10:00 AM - 8:00 PM"
-  wednesday: "10:00 AM - 8:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 8:00 PM"
-  saturday: "10:00 AM - 8:00 PM"
-  sunday: "10:00 AM - 8:00 PM"
+  monday: "10:00 AM–8:00 PM"
+  tuesday: "10:00 AM–8:00 PM"
+  wednesday: "10:00 AM–8:00 PM"
+  thursday: "10:00 AM–8:00 PM"
+  friday: "10:00 AM–8:00 PM"
+  saturday: "10:00 AM–8:00 PM"
+  sunday: "10:00 AM–8:00 PM"
 photos: ["/photos/desire-laser-1.jpg", "/photos/desire-laser-2.jpg", "/photos/desire-laser-3.jpg"]
 rating: 4.9
-review_count: 440
+review_count: 441
 price_range: "$$"
 amenities:
 

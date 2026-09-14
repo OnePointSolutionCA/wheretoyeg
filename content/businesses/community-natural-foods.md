@@ -11,16 +11,16 @@ phone: "(877) 299-3970"
 website: "https://communitynaturalfoods.com/"
 google_maps_url: "https://maps.google.com/?cid=18062550812478663740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 9:00 PM"
-  tuesday: "9:00 AM - 9:00 PM"
-  wednesday: "9:00 AM - 9:00 PM"
-  thursday: "9:00 AM - 9:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "8:00 AM - 9:00 PM"
-  sunday: "9:00 AM - 9:00 PM"
+  monday: "9:00 AM–9:00 PM"
+  tuesday: "9:00 AM–9:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
+  saturday: "8:00 AM–9:00 PM"
+  sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/community-natural-foods-1.jpg", "/photos/community-natural-foods-2.jpg", "/photos/community-natural-foods-3.jpg"]
 rating: 4.2
-review_count: 127
+review_count: 128
 price_range: "$$"
 amenities:
 

@@ -11,16 +11,16 @@ phone: "(780) 741-1025"
 website: "https://www.dspotdessert.com/"
 google_maps_url: "https://maps.google.com/?cid=18407679301042369250&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "1:00 PM - 12:00 AM"
-  tuesday: "1:00 PM - 12:00 AM"
-  wednesday: "1:00 PM - 12:00 AM"
-  thursday: "1:00 PM - 12:00 AM"
-  friday: "1:00 PM - 2:00 AM"
-  saturday: "1:00 PM - 2:00 AM"
-  sunday: "1:00 PM - 12:00 AM"
+  monday: "1:00 PM–12:00 AM"
+  tuesday: "1:00 PM–12:00 AM"
+  wednesday: "1:00 PM–12:00 AM"
+  thursday: "1:00 PM–12:00 AM"
+  friday: "1:00 PM–2:00 AM"
+  saturday: "1:00 PM–2:00 AM"
+  sunday: "1:00 PM–12:00 AM"
 photos: ["/photos/d-spot-dessert-cafe-west-edmonton-1.jpg", "/photos/d-spot-dessert-cafe-west-edmonton-2.jpg", "/photos/d-spot-dessert-cafe-west-edmonton-3.jpg"]
 rating: 4.8
-review_count: 1133
+review_count: 1152
 price_range: "$$"
 amenities:
   - "Dine-In"

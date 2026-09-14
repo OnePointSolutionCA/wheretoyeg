@@ -5,8 +5,8 @@ category: "auto-repair"
 subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "9337 45th Ave NW, Edmonton, AB T6E 5Z7"
-rating: 4.9
-review_count: 37
+rating: 4.8
+review_count: 45
 tier: "featured"
 phone: "(587) 982-9308"
 google_maps: "https://maps.google.com/?cid=7229705880694688407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -15,17 +15,30 @@ photos:
 reviews:
   - name: "Baldeep Singh"
     rating: 5
-    comment: "Had a tire problem and needed help right away. They got me in quickly, replaced the tire, and had me back on the road faster than I expected. Really appreciate the great service. Definitely recommend!"
+    comment: |
+      Had a tire problem and needed help right away. They got me in quickly, replaced the tire, and had me back on the road faster than I expected. Really appreciate the great service. Definitely recommend!
   - name: "Randeep Sandhu"
     rating: 5
-    comment: "They got my tires changed quickly, and the pricing was fair. They also took the time to answer my questions and made sure everything was done properly. It's nice to find a shop that's honest and reliable. I'll definitely be coming back for future tire services and would recommend them to anyone looking for quality work."
-  - name: "Mohammd Aman Mirza"
-    rating: 5
-    comment: "I recently went there to change my tires and get them balanced. The service was quick, professional, and the staff was friendly. They did a great job and made sure everything was done properly. My car drives smoothly after the tire change and balancing. I’m very happy with the service and would definitely recommend this"
+    comment: |
+      They got my tires changed quickly, and the pricing was fair. They also took the time to answer my questions and made sure everything was done properly. It's nice to find a shop that's honest and reliable. I'll definitely be coming back for future tire services and would recommend them to anyone looking for quality work.
   - name: "Diego Swish"
     rating: 5
-    comment: "Needed a flat tire repaired and they took care of it quickly. Very reasonable prices and great customer service. Would recommend to anyone looking for tire services."
-  - name: "Kassim R"
+    comment: |
+      Needed a flat tire repaired and they took care of it quickly. Very reasonable prices and great customer service. Would recommend to anyone looking for tire services.
+  - name: "Umesh Patel"
     rating: 5
-    comment: "I was recommended to go here to install new tires. Best advice I got in a long time. Great guys and excellent service. They will be my first option for tire needs. Highly recommend!"
+    comment: |
+      I had a very positive experience here. The staff was exceptionally friendly and provided me with an honest and competitive price match quote that was even better than Competitor prices. The service was completed much more quickly than anticipated. I highly recommend this tire installation service. I called them the day before and they installed the tires the next day.
+  - name: "Mohammd Aman Mirza"
+    rating: 5
+    comment: |
+      I recently went there to change my tires and get them balanced. The service was quick, professional, and the staff was friendly. They did a great job and made sure everything was done properly. My car drives smoothly after the tire change and balancing. I’m very happy with the service and would definitely recommend this
+hours:
+  monday: "9:30 AM–8:00 PM"
+  tuesday: "9:30 AM–8:00 PM"
+  wednesday: "9:30 AM–8:00 PM"
+  thursday: "9:30 AM–8:00 PM"
+  friday: "9:30 AM–8:00 PM"
+  saturday: "9:30 AM–8:00 PM"
+  sunday: "Closed"
 ---

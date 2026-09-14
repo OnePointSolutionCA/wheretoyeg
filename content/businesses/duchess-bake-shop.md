@@ -12,16 +12,16 @@ phone: "(780) 488-4999"
 website: "https://duchessbakeshop.com"
 google_maps_url: "https://maps.google.com/?q=Duchess+Bake+Shop+Edmonton"
 hours:
-  monday: "Closed"
-  tuesday: "Closed"
-  wednesday: "10:00 AM - 5:00 PM"
-  thursday: "11:00 AM - 5:00 PM"
-  friday: "10:00 AM - 5:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
-  sunday: "10:00 AM - 4:00 PM"
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–6:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "9:00 AM–6:00 PM"
+  friday: "9:00 AM–6:00 PM"
+  saturday: "9:00 AM–6:00 PM"
+  sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/duchess-bake-shop-1.jpg", "/photos/duchess-bake-shop-2.jpg", "/photos/duchess-bake-shop-3.jpg"]
 rating: 4.6
-review_count: 2900
+review_count: 3046
 price_range: "$$$"
 amenities:
   - "Dine-In"

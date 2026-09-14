@@ -11,16 +11,16 @@ phone: "(780) 455-8157"
 website: "https://www.camerondriver.com/home/"
 google_maps_url: "https://maps.google.com/?cid=6955512437155856115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 5:00 PM"
-  tuesday: "6:30 AM - 5:00 PM"
-  wednesday: "8:00 AM - 5:00 PM"
-  thursday: "8:00 AM - 5:00 PM"
-  friday: "6:30 AM - 5:00 PM"
-  saturday: "6:30 - 9:00 AM"
+  monday: "8:00 AM–5:00 PM"
+  tuesday: "6:30 AM–5:00 PM"
+  wednesday: "8:00 AM–5:00 PM"
+  thursday: "8:00 AM–5:00 PM"
+  friday: "6:30 AM–5:00 PM"
+  saturday: "6:30 AM–9:00 AM"
   sunday: "Closed"
 photos: ["/photos/cameron-driver-education-ltd-1.jpg", "/photos/cameron-driver-education-ltd-2.jpg", "/photos/cameron-driver-education-ltd-3.jpg"]
 rating: 4.9
-review_count: 1072
+review_count: 1076
 price_range: "$$"
 amenities:
 
@@ -56,10 +56,6 @@ reviews:
       Genuinely really good guys here. Darryl actually looks out for students and has a bunch if stories and experience to share thst actually help the imporant stuff stick. He goes through it a little fast but heavily repeats and emphasizes key details which helps immensely. My tester Harkirat was super chill and informative. Even gave me extra tips for things to watch for, like the rubbers on the airlines when connecting the trailer and newer features in modern trucks!
       
       All in all, really worth it!
-  - name: "Tori Sanger"
-    rating: 5
-    comment: |
-      I just finished my Class 3 driving test today after the extensive course at Cameron. From the beginning they were extremely accommodating, working around my schedule and making it as easy on me as they could. I had Susan and Adam as instructors and they were just incredible from day 1. When I had doubts and was nervous they assured me I was doing alright and I always left and returned feeling confident in my skills. Overall it was an amazing experience and I would 100% recommend them to anyone.
   - name: "Colten Brockman"
     rating: 5
     comment: |
@@ -77,4 +73,12 @@ reviews:
       
       Special thanks to Instructor Wayne, Susan & Gary
       And thanks a million to the Madam in the reception who has schedule my training and test.
+  - name: "A Google User"
+    rating: 5
+    comment: |
+      I recently completed my Class 1 driving training and had an excellent experience thanks to an outstanding instructor Bernie. From day one, he was professional, patient, and extremely knowledgeable. Bernie explained everything clearly — from pre-trip inspections to advanced driving techniques — and made sure I understood not just how to do things, but why they’re done a certain way.
+      
+      What really stood out was his calm and supportive teaching style. They built my confidence behind the wheel while still emphasizing safety and attention to detail. If I made a mistake, he used it as a learning opportunity and provided constructive feedback that helped me improve quickly.
+      
+      Also, I would like to specially mention Ashney, who was incredibly helpful in organizing and booking my training sessions and road test.
 ---

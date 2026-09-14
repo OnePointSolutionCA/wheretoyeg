@@ -11,16 +11,16 @@ phone: "(368) 838-1183"
 website: "https://candidcoffeeroasters.ca/"
 google_maps_url: "https://maps.google.com/?cid=12805442658845576267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 4:00 PM"
-  tuesday: "7:00 AM - 4:00 PM"
-  wednesday: "7:00 AM - 4:00 PM"
-  thursday: "7:00 AM - 4:00 PM"
-  friday: "7:00 AM - 4:00 PM"
-  saturday: "8:00 AM - 4:00 PM"
-  sunday: "8:00 AM - 4:00 PM"
+  monday: "7:00 AM–4:00 PM"
+  tuesday: "7:00 AM–4:00 PM"
+  wednesday: "7:00 AM–4:00 PM"
+  thursday: "7:00 AM–4:00 PM"
+  friday: "7:00 AM–4:00 PM"
+  saturday: "8:00 AM–4:00 PM"
+  sunday: "8:00 AM–4:00 PM"
 photos: ["/photos/candid-coffee-roasters-1.jpg", "/photos/candid-coffee-roasters-2.jpg", "/photos/candid-coffee-roasters-3.jpg"]
 rating: 4.7
-review_count: 129
+review_count: 133
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -42,16 +42,6 @@ reviews:
     rating: 5
     comment: |
       Enjoyed an iced matcha latte and a sesame bagel with dill & caper cream cheese and my husband had an americano. The bagel was from a local bagel place (Beb’s Bagels) and was so fresh. The cream cheese was a great balance of flavours. This is a cafe that takes pride in their coffee and other drinks. The matcha was very good quality and prepared perfectly.
-  - name: "Elise Lazina"
-    rating: 5
-    comment: |
-      Very good coffee! We tried one of their funkier espressos and their Ethiopian drip coffee.
-      
-      I haven't been to their other location, but was told they do pour overs at that café not this one.
-      
-      The staff were very friendly and gave us a wonderful experience.
-      
-      My friend said the espresso he tried here was better than the one he had at the Colombian the day before 🫶
   - name: "Arshia Lekhi"
     rating: 4
     comment: |
@@ -65,4 +55,14 @@ reviews:
       What I tried
       - Iced Vanilla Latte- 8.5/10
       - Raspberry White Chocolate Macadamia Cookie- 9/10
+  - name: "Elise Lazina"
+    rating: 5
+    comment: |
+      Very good coffee! We tried one of their funkier espressos and their Ethiopian drip coffee.
+      
+      I haven't been to their other location, but was told they do pour overs at that café not this one.
+      
+      The staff were very friendly and gave us a wonderful experience.
+      
+      My friend said the espresso he tried here was better than the one he had at the Colombian the day before 🫶
 ---

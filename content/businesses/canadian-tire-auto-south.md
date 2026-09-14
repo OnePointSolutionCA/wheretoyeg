@@ -9,16 +9,16 @@ address: "1919 99 St NW"
 neighborhood: "South Edmonton"
 google_maps_url: "https://maps.google.com/?q=Canadian%20Tire%20Auto%20Service%20%E2%80%94%20South%20Edmonton%20Edmonton"
 hours:
-  monday: "11:00 AM - 9:00 PM"
-  tuesday: "11:00 AM - 9:00 PM"
-  wednesday: "11:00 AM - 9:00 PM"
-  thursday: "11:00 AM - 9:00 PM"
-  friday: "11:00 AM - 10:00 PM"
-  saturday: "10:00 AM - 10:00 PM"
-  sunday: "10:00 AM - 9:00 PM"
+  monday: "7:00 AM–10:00 PM"
+  tuesday: "7:00 AM–10:00 PM"
+  wednesday: "7:00 AM–10:00 PM"
+  thursday: "7:00 AM–10:00 PM"
+  friday: "7:00 AM–10:00 PM"
+  saturday: "7:00 AM–10:00 PM"
+  sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/canadian-tire-auto-south-1.jpg", "/photos/canadian-tire-auto-south-2.jpg", "/photos/canadian-tire-auto-south-3.jpg"]
-rating: 4.2
-review_count: 890
+rating: 3.9
+review_count: 6643
 price_range: "$$"
 amenities:
   - "Walk-Ins"
@@ -71,19 +71,8 @@ reviews:
     rating: 5
     comment: |
       Love this location for Oil Changes, been coming here for years! Today we had the pleasure of meeting Dave and Antoine. They were great guys, friendly, and helpful. Highly recommend this location!
-  - name: "Gihan Wjelath"
-    rating: 1
+  - name: "Joe Chowaniec"
+    rating: 4
     comment: |
-      I recently had an oil change done at the South Common Canadian Tire Auto Service on a Saturday, and the experience was very disappointing. After the service, I noticed that the underguard/skid plate was left loose. Nobody informed me about it, even though I was there the whole time waiting for the vehicle.
-      
-      When I brought it to their attention, I was told they didn’t have the clips and that they would order them by Monday. They booked me for 6 PM on Monday to fix it. I arrived on time and waited over 30 minutes only to find out they had never ordered the parts at all.
-      
-      This level of carelessness is unacceptable. I paid close to CAD 200 in labour and service charges for a simple oil change, yet they didn’t even have the decency to properly secure the underguard or honestly communicate the situation. Very poor service management and lack of attention to detail.
-      
-      Update:
-      What made the situation worse was that they then asked me to pay around CAD 120 for the service when I returned on Tuesday. This felt very unfair because the staff member I spoke with previously clearly told me they would fix it free of charge since the issue happened after their oil change service.
-      
-      Now they are saying this is a “common problem” during oil changes and that they are not responsible for it. I honestly do not know whom else to complain to at this point. I called the customer service number provided in their reply below and was given case number 387560558.
-      
-      Very disappointing experience and unfair business practice.
+      Love this store.  Could spend hours wandering the stores and looking at everything.  Lots of selection. Only downside, aisles can be crowded and staff can be hard to find when needed.
 ---

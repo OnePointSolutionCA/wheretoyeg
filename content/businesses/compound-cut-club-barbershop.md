@@ -12,15 +12,15 @@ website: "https://compoundcutclub.com/"
 google_maps_url: "https://maps.google.com/?cid=2979672856255774461&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "11:00 AM - 7:00 PM"
-  wednesday: "11:00 AM - 7:00 PM"
-  thursday: "11:00 AM - 7:00 PM"
-  friday: "11:00 AM - 7:00 PM"
-  saturday: "11:00 AM - 5:00 PM"
-  sunday: "11:00 AM - 5:00 PM"
+  tuesday: "11:00 AM–7:00 PM"
+  wednesday: "11:00 AM–7:00 PM"
+  thursday: "11:00 AM–7:00 PM"
+  friday: "11:00 AM–7:00 PM"
+  saturday: "11:00 AM–5:00 PM"
+  sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/compound-cut-club-barbershop-1.jpg", "/photos/compound-cut-club-barbershop-2.jpg", "/photos/compound-cut-club-barbershop-3.jpg"]
 rating: 4.9
-review_count: 1301
+review_count: 1303
 price_range: "$$$"
 amenities:
 
@@ -28,10 +28,6 @@ tags: ["edmonton", "fades"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Phil Mon"
-    rating: 5
-    comment: |
-      Wilson at Compound Cut Club is hands down one of the best barbers I’ve been to. He’s professional, detail-oriented, and really takes the time to understand exactly what you want. The haircut was clean, precise, and exceeded my expectations. You can tell he takes pride in his craft and makes sure every client leaves looking sharp. On top of that, he’s easy to talk to and creates a great atmosphere during the appointment. Highly recommend booking with Wilson if you want a top-tier cut and excellent service.
   - name: "Chris Mok"
     rating: 5
     comment: |
@@ -41,6 +37,14 @@ reviews:
       Outstanding attitude and customer service.
       Highly recommended for anyone looking for a premium barber experience.
       Definitely worth every dollar.
+  - name: "Mercedes Cachuela"
+    rating: 5
+    comment: |
+      A friend of mine got a cut from KENNETH, and I had to ask who did it because it was honestly one of the cleanest fades I’ve ever seen. The blend was absolutely flawless, the lineup was razor sharp, and every detail was perfect. It looked like one of those haircuts you only see on Instagram—but even better in person.
+      
+      You can tell KENNETH is genuinely passionate about his craft. He doesn’t just give haircuts—he creates them. If you’re looking for a barber who takes his time, pays attention to every detail, and leaves you looking your absolute best, this is your guy. After seeing my friend’s cut, I completely understand why people keep coming back to him.
+      
+      If you’re debating who to book with, stop looking. Book with KENNETH. You won’t regret it.
   - name: "Raneem"
     rating: 5
     comment: |

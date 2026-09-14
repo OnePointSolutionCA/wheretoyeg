@@ -11,16 +11,16 @@ phone: "(780) 328-7706"
 website: "https://edmontoncounsellingservices.ca/"
 google_maps_url: "https://maps.google.com/?cid=9977408192566145955&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 6:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 1:00 PM"
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–6:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "9:00 AM–6:00 PM"
+  friday: "9:00 AM–6:00 PM"
+  saturday: "10:00 AM–1:00 PM"
   sunday: "Closed"
 photos: ["/photos/edmonton-counselling-services-1.jpg", "/photos/edmonton-counselling-services-2.jpg", "/photos/edmonton-counselling-services-3.jpg"]
 rating: 4.8
-review_count: 305
+review_count: 306
 price_range: "$$"
 amenities:
 

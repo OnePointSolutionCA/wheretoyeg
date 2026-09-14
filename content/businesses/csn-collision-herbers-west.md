@@ -11,16 +11,16 @@ phone: "(780) 469-8888 ext. 5262"
 website: "http://csnherbers.com/"
 google_maps_url: "https://maps.google.com/?cid=5152178167350384755&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:30 AM - 5:30 PM"
-  tuesday: "7:30 AM - 5:30 PM"
-  wednesday: "7:30 AM - 5:30 PM"
-  thursday: "7:30 AM - 5:30 PM"
-  friday: "7:30 AM - 5:30 PM"
-  saturday: "9:00 AM - 1:00 PM"
+  monday: "7:30 AM–5:30 PM"
+  tuesday: "7:30 AM–5:30 PM"
+  wednesday: "7:30 AM–5:30 PM"
+  thursday: "7:30 AM–5:30 PM"
+  friday: "7:30 AM–5:30 PM"
+  saturday: "9:00 AM–1:00 PM"
   sunday: "Closed"
 photos: ["/photos/csn-collision-herbers-west-1.jpg", "/photos/csn-collision-herbers-west-2.jpg", "/photos/csn-collision-herbers-west-3.jpg"]
 rating: 4.7
-review_count: 1204
+review_count: 1208
 price_range: "$$"
 amenities:
 
@@ -36,12 +36,6 @@ reviews:
       The insurance approval took a few weeks but once everything was approved, herbers west Edmonton were able to get us in quite quickly and were efficient and extremely honest in their work. Jigar was the individual working with us on this and he was extremely professional. We would 10/10 recommend this location.
       
       The ladies at the front desk were also great !
-  - name: "Wendy Larose"
-    rating: 2
-    comment: |
-      Staff polite but it took almost 2 months for pretty minor repair. No communication between staff or customer. I was asked to contact wreckers or look for the trim for my vehicle. Isn't that their job? I had car fixed here before and it went well. This time it was painful
-      If I had a dollar for every time I heard oh sorry about that I could have pocketed a lot of money. Vehicle is finally fixed
-      Glad to have it done
   - name: "Sean Clarke"
     rating: 5
     comment: |
@@ -66,4 +60,8 @@ reviews:
       
       In the end, I finally got my own car back after the third repair. But to be honest, I am still not satisfied, because the quality is very poor. I would not recommend this company to anyone. I would do everything possible to have their license revoked, or even take them to court.
       After their repair, my trunk stopped opening. They said they didn’t do anything there, but I have the impression that they failed to reconnect some sensor or connector. They never managed to fix the trunk, and it still does not open. I had to go to the dealership, and now they have to repair it under warranty.
+  - name: "Sonia Kirby"
+    rating: 5
+    comment: |
+      Brought my daughter’s car here after a minor accident. They were super helpful from the start. Got me in for an estimate quickly and worked directly with my insurance company so I had to hardly do anything. The work was as if the accident had never happened. Highly recommend.
 ---

@@ -11,16 +11,16 @@ phone: "(780) 758-8895"
 website: "https://chinesehotpotbuffet.com/"
 google_maps_url: "https://maps.google.com/?cid=2192473343971520411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:30 AM - 11:30 PM"
-  tuesday: "4:00 - 11:30 PM"
-  wednesday: "4:00 - 11:30 PM"
-  thursday: "4:00 - 11:30 PM"
-  friday: "11:30 AM - 12:00 AM"
-  saturday: "11:30 AM - 12:00 AM"
-  sunday: "11:30 AM - 11:30 PM"
+  monday: "11:30 AM–11:30 PM"
+  tuesday: "4:00 PM–11:30 PM"
+  wednesday: "4:00 PM–11:30 PM"
+  thursday: "4:00 PM–11:30 PM"
+  friday: "11:30 AM–12:00 AM"
+  saturday: "11:30 AM–12:00 AM"
+  sunday: "11:30 AM–11:30 PM"
 photos: ["/photos/chinese-hot-pot-buffet-1.jpg", "/photos/chinese-hot-pot-buffet-2.jpg", "/photos/chinese-hot-pot-buffet-3.jpg"]
 rating: 4.4
-review_count: 3531
+review_count: 3538
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -62,8 +62,18 @@ reviews:
     rating: 5
     comment: |
       We been to this hot pot place for years. The food is always fresh and very clean. I love their buffet, where there’s a lot of variety and service is always top notch! While there’s other competitors now, I feel like this place always gives you the best bang for your buck! (If you ordered lunch, sometimes they get pretty busy). Overall a place worth coming.
-  - name: "Mathew"
+  - name: "Elsa Guan"
     rating: 5
     comment: |
-      Chinese Hot Pot Buffet is my family’s go to spot of all restaurants in town. The food is always fresh and they have good sauce selection. You can build any meal you want and can stick to a diet if you’re careful! Highly recommended. If it’s busy don’t worry, they’ll always be able to get you some seats… worth the wait at all times.
+      I had such a great experience at this hotpot restaurant! From the moment we walked in, the atmosphere felt warm and inviting—perfect for a cozy meal with friends or family. The space was clean, well-organized, and had a lively vibe without being too noisy.
+      
+      The highlight, of course, was the food. The broth options were rich and flavorful, especially the spicy base which had just the right balance of heat and depth. The ingredients were incredibly fresh—from thinly sliced meats to a wide variety of vegetables and seafood. Everything cooked quickly and tasted amazing.
+      
+      I also loved the sauce bar, which had plenty of options to customize your dipping sauce exactly how you like it. It really adds to the overall experience and lets you get creative with flavors.
+      
+      Service was friendly and attentive without being overwhelming. The staff were happy to explain the menu and made sure we had everything we needed throughout the meal.
+      
+      While the price can add up depending on what you order, it’s definitely worth it for the quality, freshness, and overall experience. Hotpot is as much about the experience as it is about the food, and this place absolutely delivers on both.
+      
+      I’d definitely come back again and highly recommend it to anyone looking for a fun, interactive dining experience!
 ---

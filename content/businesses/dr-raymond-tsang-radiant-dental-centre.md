@@ -16,17 +16,40 @@ photos:
 reviews:
   - name: "Lindsay Burnett"
     rating: 5
-    comment: "After a bad experience at another dental office I was referred to Dr Tsang, and I am so grateful they did! I was treated with care and respect & the team made sure I was well informed along the way. The staff at every step of the way was amazing and so friendly and welcoming.  After being told by another dental practice I had a mouth full of cavities and needed to do 4 rounds of fillings - Dr Tsang let me know I actually only needed 1 filling and I really appreciate the integrity shown here. He "
+    comment: |
+      After a bad experience at another dental office I was referred to Dr Tsang, and I am so grateful they did! I was treated with care and respect & the team made sure I was well informed along the way. The staff at every step of the way was amazing and so friendly and welcoming.
+      
+      After being told by another dental practice I had a mouth full of cavities and needed to do 4 rounds of fillings - Dr Tsang let me know I actually only needed 1 filling and I really appreciate the integrity shown here. He also walked me through all my x rays and explained all rationale for the decision/next steps.
   - name: "Maureen Ellis"
     rating: 5
-    comment: "Best dentist & hygenist I've ever had!  Professional yet friendly and gentle in technique.  Highly recommend.  5 stars!"
+    comment: |
+      Best dentist & hygenist I've ever had!  Professional yet friendly and gentle in technique.  Highly recommend.  5 stars!
   - name: "Lisa Letwin"
     rating: 5
-    comment: "I appreciate the level of care and calm that I feel when I visit Radiant Dental. Thank you, Dr. Tsang, for creating a safe and comfortable experience!"
+    comment: |
+      I appreciate the level of care and calm that I feel when I visit Radiant Dental. Thank you, Dr. Tsang, for creating a safe and comfortable experience!
   - name: "Mark"
     rating: 5
-    comment: "I received professional service throughout my visit to Radiant Dental. I noticed (felt) a small chip on the back of one of my molars.  I called the office and booked an appointment to have the gap filled in. The tooth was X-rayed and the image revealed a large cavity hidden inside the tooth alongside the original amalgam filling. It was a surprise I wasn’t expecting! Dr. Tsang showed me the cavity on the screen and explained that it’s a “sneaky” type of cavity, and that the chip I noticed is lik"
+    comment: |
+      I received professional service throughout my visit to Radiant Dental.
+      I noticed (felt) a small chip on the back of one of my molars.  I called the office and booked an appointment to have the gap filled in.
+      The tooth was X-rayed and the image revealed a large cavity hidden inside the tooth alongside the original amalgam filling. It was a surprise I wasn’t expecting!
+      Dr. Tsang showed me the cavity on the screen and explained that it’s a “sneaky” type of cavity, and that the chip I noticed is likely the result of that cavity.
+      He said that the cavity was fairly close to the nerve so he would use the drill for only the initial part of the process for removing the old filling. He would then switch to hand tools to precisely manage the cavity cleanup and avoid compromising the healthy material over the nerve.
+      I was impressed how efficiently the dental assistant and Dr. Tsang worked together, with the assistant having the instruments ready for him without the need for him to ask.
+      Dr. Tsang was very meticulous in replacing the filling with resin, reforming the tooth surface, and adjusting the bite.  He showed me the finished work and I could see in the mirror that my repaired molar looked perfect and brand-new!
+      I am so glad that my tooth was saved and that I didn’t have to have a more involved dental procedure like a root canal and crown.
+      Everyone at the office, the receptionist, dental assistant, and Dr. Tsang, all made me feel comfortable, and I appreciate their courtesy and professionalism.
   - name: "Jack Brown"
     rating: 5
-    comment: "The most thoughtful and pleasant office I have ever been in. Dr. Tsang is very knowledgeable and the staff are  more then willing to go the extra mile for your comfort. Thoroughly explains everything in terms I can understand. I would highly recommend this office."
+    comment: |
+      The most thoughtful and pleasant office I have ever been in. Dr. Tsang is very knowledgeable and the staff are  more then willing to go the extra mile for your comfort. Thoroughly explains everything in terms I can understand. I would highly recommend this office.
+hours:
+  monday: "12:00 PM–8:00 PM"
+  tuesday: "8:00 AM–4:00 PM"
+  wednesday: "8:00 AM–4:00 PM"
+  thursday: "12:00 PM–8:00 PM"
+  friday: "8:00 AM–4:00 PM"
+  saturday: "Closed"
+  sunday: "Closed"
 ---

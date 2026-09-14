@@ -11,12 +11,12 @@ phone: "(780) 807-6427"
 website: "http://www.crossfitarmoury.com/"
 google_maps_url: "https://maps.google.com/?cid=13257054065380809407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "6:00 AM - 8:00 PM"
-  tuesday: "6:00 AM - 8:00 PM"
-  wednesday: "6:00 AM - 8:00 PM"
-  thursday: "6:00 AM - 8:00 PM"
-  friday: "6:00 AM - 7:00 PM"
-  saturday: "9:00 - 11:00 AM"
+  monday: "6:00 AM–8:00 PM"
+  tuesday: "6:00 AM–8:00 PM"
+  wednesday: "6:00 AM–8:00 PM"
+  thursday: "6:00 AM–8:00 PM"
+  friday: "6:00 AM–7:00 PM"
+  saturday: "9:00 AM–11:00 AM"
   sunday: "Closed"
 photos: ["/photos/crossfit-armoury-1.jpg", "/photos/crossfit-armoury-2.jpg", "/photos/crossfit-armoury-3.jpg"]
 rating: 4.9

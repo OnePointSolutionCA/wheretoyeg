@@ -11,16 +11,16 @@ phone: "(780) 752-0270"
 website: "http://www.donairandshawarmahousewest.com/"
 google_maps_url: "https://maps.google.com/?cid=3621243778240510214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 10:00 PM"
-  tuesday: "11:00 AM - 10:00 PM"
-  wednesday: "11:00 AM - 10:00 PM"
-  thursday: "11:00 AM - 10:00 PM"
-  friday: "11:00 AM - 12:00 AM"
-  saturday: "11:00 AM - 12:00 AM"
-  sunday: "11:00 AM - 10:00 PM"
+  monday: "11:00 AM–10:00 PM"
+  tuesday: "11:00 AM–10:00 PM"
+  wednesday: "11:00 AM–10:00 PM"
+  thursday: "11:00 AM–10:00 PM"
+  friday: "11:00 AM–12:00 AM"
+  saturday: "11:00 AM–12:00 AM"
+  sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/donair-shawarma-house-1.jpg", "/photos/donair-shawarma-house-2.jpg", "/photos/donair-shawarma-house-3.jpg"]
-rating: 4.8
-review_count: 844
+rating: 4.7
+review_count: 851
 price_range: "$"
 amenities:
   - "Halal"

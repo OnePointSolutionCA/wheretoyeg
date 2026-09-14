@@ -11,11 +11,11 @@ phone: "(780) 453-3516"
 website: "https://dottransmissions.ca/"
 google_maps_url: "https://maps.google.com/?cid=2173560045167127875&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 5:00 PM"
-  tuesday: "8:00 AM - 5:00 PM"
-  wednesday: "8:00 AM - 5:00 PM"
-  thursday: "8:00 AM - 5:00 PM"
-  friday: "8:00 AM - 5:00 PM"
+  monday: "8:00 AM–5:00 PM"
+  tuesday: "8:00 AM–5:00 PM"
+  wednesday: "8:00 AM–5:00 PM"
+  thursday: "8:00 AM–5:00 PM"
+  friday: "8:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/dot-transmissions-1.jpg", "/photos/dot-transmissions-2.jpg", "/photos/dot-transmissions-3.jpg"]
@@ -56,8 +56,8 @@ reviews:
       Their staff was respectful and clear when explaining the problem and the solution. No pressure, no scare tactics — just straightforward service from professionals who know their craft. My vehicle is now running smoothly, and I feel confident in the repair.
       
       I really appreciate businesses like this that put the customer first. Highly recommended if you're looking for reliable transmission service!
-  - name: "Sean Lucas"
-    rating: 2
+  - name: "Evelyn Ewans"
+    rating: 5
     comment: |
-      I have a 2011 Mazda3 which had very serious damage to the transmission last year in December. I spent $4000 to get it repaired and I learn that Dots Transmission does not even give a 1 year warranty for repairs. This year in November of 2025, which is within one year there was a transmission fluid leak and they still charged me $400 for repairs. I will never take my used car to be repaired here because to not even provide a 1 year warranty for their work is terrible.
+      Excellent service! The team diagnosed and repaired my car’s transmission quickly and professionally. They kept me updated throughout the process, and the price was fair. My car drives perfectly now ,highly recommend this shop for any mechanical or transmission work!
 ---

@@ -11,16 +11,16 @@ phone: "(780) 416-1885"
 website: "https://barbershopco.ca/appointment/"
 google_maps_url: "https://maps.google.com/?cid=17784740888941430425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 7:00 PM"
-  tuesday: "9:00 AM - 7:00 PM"
-  wednesday: "9:00 AM - 7:00 PM"
-  thursday: "9:00 AM - 7:00 PM"
-  friday: "9:00 AM - 7:00 PM"
-  saturday: "9:00 AM - 6:00 PM"
-  sunday: "10:00 AM - 6:00 PM"
+  monday: "9:00 AM–7:00 PM"
+  tuesday: "9:00 AM–7:00 PM"
+  wednesday: "9:00 AM–7:00 PM"
+  thursday: "9:00 AM–7:00 PM"
+  friday: "9:00 AM–7:00 PM"
+  saturday: "9:00 AM–6:00 PM"
+  sunday: "10:00 AM–6:00 PM"
 photos: ["/photos/drbarber-1.jpg", "/photos/drbarber-2.jpg", "/photos/drbarber-3.jpg"]
 rating: 4.8
-review_count: 547
+review_count: 546
 price_range: "$$"
 amenities:
 
@@ -49,8 +49,8 @@ reviews:
       The barber was unprofessional, and rushed me. Mocked me for hesitating with what I wanted. I was treated as an inconvenience. No hellos, no introduction. Find out after that it's cash only. Almost all the other reviews on here (any reviews from over a month ago) are for some other barber shop. Most of the pictures are from another barber shop. I'm reviewing the place in Sherwood Park: in the former Singletons location.
       
       Not sure about the other barbers working there, but the nameless barber ensured I will never return.
-  - name: "Nguyễn quí Jackie"
+  - name: "soufiane khbich"
     rating: 5
     comment: |
-      Zidane’s haircut is haircut is very well, the hair look great and the service is very professional
+      Excellent barber. Clean cut, great attention to detail.
 ---

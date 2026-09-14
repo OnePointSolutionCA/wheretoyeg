@@ -11,16 +11,16 @@ phone: "(780) 782-2571"
 website: "https://www.daily-bazar.ca/"
 google_maps_url: "https://maps.google.com/?cid=5019837591528982646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 10:00 PM"
-  tuesday: "10:00 AM - 10:00 PM"
-  wednesday: "10:00 AM - 10:00 PM"
-  thursday: "10:00 AM - 10:00 PM"
-  friday: "10:00 AM - 10:00 PM"
-  saturday: "10:00 AM - 10:00 PM"
-  sunday: "10:00 AM - 10:00 PM"
+  monday: "10:00 AM–10:00 PM"
+  tuesday: "10:00 AM–10:00 PM"
+  wednesday: "10:00 AM–10:00 PM"
+  thursday: "10:00 AM–10:00 PM"
+  friday: "10:00 AM–10:00 PM"
+  saturday: "10:00 AM–10:00 PM"
+  sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/daily-bazar-halal-meat-grocery-1.jpg", "/photos/daily-bazar-halal-meat-grocery-2.jpg", "/photos/daily-bazar-halal-meat-grocery-3.jpg"]
 rating: 4.8
-review_count: 154
+review_count: 155
 price_range: "$$"
 amenities:
   - "Halal"

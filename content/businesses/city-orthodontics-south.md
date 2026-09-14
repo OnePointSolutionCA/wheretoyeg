@@ -12,16 +12,16 @@ phone: "780-757-1001"
 website: "https://cityortho.ca"
 google_maps_url: "https://maps.google.com/?q=4222+Gateway+Blvd+NW+Edmonton"
 hours:
-  monday: "8:00 AM - 5:00 PM"
-  tuesday: "8:00 AM - 5:00 PM"
-  wednesday: "8:00 AM - 5:00 PM"
-  thursday: "8:00 AM - 5:00 PM"
-  friday: "8:00 AM - 4:00 PM"
+  monday: "8:00 AM–4:00 PM"
+  tuesday: "8:00 AM–4:00 PM"
+  wednesday: "8:00 AM–4:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "8:00 AM–4:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/city-orthodontics-south-1.jpg", "/photos/city-orthodontics-south-2.jpg", "/photos/city-orthodontics-south-3.jpg"]
-rating: 4.5
-review_count: 307
+rating: 4.4
+review_count: 294
 price_range: "$$$"
 amenities:
   - "Braces"

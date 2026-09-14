@@ -11,16 +11,16 @@ phone: "(780) 708-2055"
 website: "https://dripnwhip.com/"
 google_maps_url: "https://maps.google.com/?cid=3175495483974535146&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 9:00 PM"
-  tuesday: "10:00 AM - 9:00 PM"
-  wednesday: "10:09 AM - 9:00 PM"
-  thursday: "10:00 AM - 9:00 PM"
-  friday: "10:00 AM - 8:00 PM"
-  saturday: "10:00 AM - 8:00 PM"
-  sunday: "11:00 AM - 6:00 PM"
+  monday: "10:00 AM–9:00 PM"
+  tuesday: "10:00 AM–9:00 PM"
+  wednesday: "10:09 AM–9:00 PM"
+  thursday: "10:00 AM–9:00 PM"
+  friday: "10:00 AM–8:00 PM"
+  saturday: "10:00 AM–8:00 PM"
+  sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/drip-n-whip-1.jpg", "/photos/drip-n-whip-2.jpg", "/photos/drip-n-whip-3.jpg"]
 rating: 5
-review_count: 262
+review_count: 265
 price_range: "$$"
 amenities:
   - "Dine-In"

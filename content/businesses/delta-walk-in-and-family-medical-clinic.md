@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 244-3320"
 google_maps_url: "https://maps.google.com/?cid=16227527452818822317&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 8:00 PM"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 8:00 PM"
-  saturday: "10:00 AM - 6:00 PM"
-  sunday: "10:00 AM - 5:00 PM"
+  monday: "9:00 AM–8:00 PM"
+  tuesday: "9:00 AM–8:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–8:00 PM"
+  saturday: "10:00 AM–6:00 PM"
+  sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/delta-walk-in-and-family-medical-clinic-1.jpg", "/photos/delta-walk-in-and-family-medical-clinic-2.jpg", "/photos/delta-walk-in-and-family-medical-clinic-3.jpg"]
 rating: 3.8
-review_count: 304
+review_count: 309
 price_range: "$$"
 amenities:
 
@@ -27,6 +27,13 @@ tags: ["edmonton", "walk-in-clinic"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Becca Johnson-Choma"
+    rating: 1
+    comment: |
+      Awful doest listen doest give refills.Don't bother  with him.
+      My room mate needed a new dr as she just moved here. As Dr.s are hard to find we now drive across town to see Dr. Omotoso his first app was good .very attentive..gave him a week to read her extensive history.which he never did so when asking for refills  another week later it has been 6 weeks of him NOT returning faxes to the PHarmacy and then only giving 30 days at a time with out refills for meds she has been on for YEARs and questioning why she needs them..hence the extensive history provided.he never read....just last night they spoke and he said he would fax in what she needed....a call to the pharmacy tonight has resulted in no fax from him. So then sent him ANOTHER REQUEST. As she is now OUT of PTSD meds
+      HE WILL BE FIRED  We are finding.g another Dr.If she goes into re  occurring episodes and has to go to the ER he should be HELD RESPONSIBLE
+      Note added....he did not send in the fax and wants to see her this week...nope. fired...4 in-person app and 2 phone appointments..ridiculous
   - name: "Glen Robbins"
     rating: 5
     comment: |
@@ -42,21 +49,10 @@ reviews:
     rating: 5
     comment: |
       I am so grateful that there was a Centre open later than 7 pm. I really appreciated being seen within less than an hour. I felt heard and given great care. It was wonderful that a Pharmacy was attached that could get my medication, right there. The Dr, the Receptionist and the Pharmacy team were really great. Thank you!!
-  - name: "L CLB"
-    rating: 5
-    comment: |
-      I've been coming to this clinic for a handful of years now. It started because it was by where I lived, but even after moving away by a significant distance I loyally come here.
-      
-      Why?
-      1.) Dr.Raslan is a beautiful human with a admirable story of life. He has always been appropriate, welcoming, non-judgemental, and intelligent. He has never judged me for my sex life, or my mental health issues. He was completely understanding anytime I've caught a female doctor for "woman's issues". Overall, he is an amazing person who genuinely cares, and it shows.
-      2.) The pharmacists might just be my favorite part. They are cheerful, welcoming, respectful, and understanding. They've always been really good about troubleshooting and providing solutions regarding my medications. And best yet, anytime you pick up your medications - they give you a tasty treat!
-      3.) The receptionists are friendly, well organized, and will go above and beyond for you.
-      4.) The wait time is usually under an hour, max roughly 1h30min.
-      5.) The facility is always well maintained. They have a really nice private bathroom.
-      
-      Overall 1000/10. Definitely would recommend.
-  - name: "Kaitlyn Levitt"
+  - name: "Baljeet Singh"
     rating: 1
     comment: |
-      My family doctor is located here. Been a patient here for over a year now and every time, without fail, the receptionists are incredibly rude and unprofessional and have a poor attitude. The professional way to answer a phone is "Hello Delta Medical Clinic, Please Hold" not just "HOLD" because it sounds like you are saying "hello" as you aren't clear in saying it and it is very abrupt. When talking on the phone I was hung up on (this has happened multiple times) and when I stated "you hung up on me mid sentence" the response was "no mam. I am busy." Secondary, telling me you are very busy as a client is very unprofessional. We are all busy. We all have lives. We know you are busy. Don't work at a high stress job if you can't handle it. I have seen them on their personal phones, many times, texting or talking while I was standing up front at the desk waiting to be helped. Have had a time where I had a serve cut and was bleeding quite a lot and the receptionist didn't even look up for 10mins because she was texting. Until she looked up and saw blood everywhere. I hope this is seen as constructive criticism as I believe just making small changes like this can benefit a workplace overall. I have already made the changes to switch doctor's. Needed to get this out there because I am tired of putting up with the unprofessionalism.
+      Reception talks like they have done 5 years in medical and are working for 24 hours .
+      Training is extremely required for the dark skin lady, I don’t know her name . Talking to each other was her priority.
+      Attending people walking in was the last thing she wanted .
 ---

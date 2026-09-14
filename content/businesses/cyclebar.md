@@ -11,13 +11,13 @@ phone: "(587) 290-4250"
 website: "https://www.cyclebar.com/location/st-albert"
 google_maps_url: "https://maps.google.com/?cid=11176768498207642267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "5:45 - 11:00 AM, 5:15 - 8:00 PM"
-  tuesday: "5:45 - 11:00 AM, 5:15 - 8:00 PM"
-  wednesday: "5:45 - 11:00 AM, 5:15 - 8:00 PM"
-  thursday: "5:45 - 11:00 AM, 5:15 - 8:00 PM"
-  friday: "5:45 - 11:00 AM"
-  saturday: "8:30 AM - 12:00 PM"
-  sunday: "9:00 AM - 12:00 PM"
+  monday: "5:45 AM–11:00 AM"
+  tuesday: "5:45 AM–11:00 AM"
+  wednesday: "5:45 AM–11:00 AM"
+  thursday: "5:45 AM–11:00 AM"
+  friday: "5:45 AM–11:00 AM"
+  saturday: "8:30 AM–12:00 PM"
+  sunday: "9:00 AM–12:00 PM"
 photos: ["/photos/cyclebar-1.jpg", "/photos/cyclebar-2.jpg", "/photos/cyclebar-3.jpg"]
 rating: 4.9
 review_count: 254

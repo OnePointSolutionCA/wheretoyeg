@@ -11,16 +11,16 @@ phone: "(780) 449-6646"
 website: "http://www.eaglesnestcatering.ca/"
 google_maps_url: "https://maps.google.com/?cid=13234575708495964444&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
+  saturday: "9:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/eagles-nest-catering-ltd-1.jpg", "/photos/eagles-nest-catering-ltd-2.jpg", "/photos/eagles-nest-catering-ltd-3.jpg"]
-rating: 5
-review_count: 29
+rating: 4.9
+review_count: 30
 price_range: "$$"
 amenities:
 

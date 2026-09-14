@@ -10,16 +10,16 @@ neighborhood: "Whyte Ave"
 phone: "(780) 244-2295"
 google_maps_url: "https://maps.google.com/?cid=7782682037837364664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 11:00 PM"
-  tuesday: "12:00 - 11:00 PM"
-  wednesday: "12:00 - 11:00 PM"
-  thursday: "12:00 - 11:00 PM"
-  friday: "12:00 - 11:00 PM"
-  saturday: "12:00 - 11:00 PM"
-  sunday: "12:00 - 11:00 PM"
+  monday: "12:00 PM–11:00 PM"
+  tuesday: "12:00 PM–11:00 PM"
+  wednesday: "12:00 PM–11:00 PM"
+  thursday: "12:00 PM–11:00 PM"
+  friday: "12:00 PM–11:00 PM"
+  saturday: "12:00 PM–11:00 PM"
+  sunday: "12:00 PM–11:00 PM"
 photos: ["/photos/chayan-1.jpg", "/photos/chayan-2.jpg", "/photos/chayan-3.jpg"]
 rating: 4.6
-review_count: 55
+review_count: 57
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -37,6 +37,10 @@ reviews:
     rating: 5
     comment: |
       All Asian tea house is always good . They make the beverages according to your liking . I wish the owner best of luck . Whyte ave is a good location especially lots of overseas students .
+  - name: "June W"
+    rating: 5
+    comment: |
+      Beat the summer heat with a refreshing Guava Lemon Tea! Bursting with the rich, tropical sweetness of guava and perfectly balanced by the bright, zesty aroma of fresh lemon, it's the ultimate drink to cool you down on a hot summer day. Highly recommended.
   - name: "Yuchen Guo"
     rating: 5
     comment: |
@@ -51,8 +55,4 @@ reviews:
       It's a small thing and obviously doesn't reflect the quality of the place or anything like that, but it left us feeling meh. So, unlike their Instagram where they're trying to recruit "Edmonton creators" to give them glowing reviews, and I'm sure no one "forgot" to give them their air fresheners and other free gifts, here's a review from a couple normal people who like milk tea and just happened to stop by.
       
       It's not terrible, it's not great, and we felt mildly let down after we went. We won't be back, but I'm sure they will do just fine, and supporting your local shops is always good.
-  - name: "Zihang Liao"
-    rating: 5
-    comment: |
-      Came in late night, they were still kinda busy. Both the drinks we ordered were good, but definitely recommend the guava lemon tea, very refreshing.
 ---

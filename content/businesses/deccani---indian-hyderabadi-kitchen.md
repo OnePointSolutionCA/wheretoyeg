@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM - 9:00 PM"
 photos: ["/photos/deccani---indian-hyderabadi-kitchen-1.jpg", "/photos/deccani---indian-hyderabadi-kitchen-2.jpg", "/photos/deccani---indian-hyderabadi-kitchen-3.jpg"]
 rating: 4.7
-review_count: 345
+review_count: 346
 price_range: "$$"
 amenities:
   - "Halal"

@@ -10,16 +10,16 @@ neighborhood: "Old Strathcona"
 website: "https://www.daintydevelopsphotography.com/"
 google_maps_url: "https://maps.google.com/?cid=10416777902483475333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "Open 24 hours"
-  tuesday: "Open 24 hours"
-  wednesday: "Open 24 hours"
-  thursday: "Open 24 hours"
-  friday: "Open 24 hours"
-  saturday: "Open 24 hours"
-  sunday: "Open 24 hours"
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/dainty-develops-photography-1.jpg", "/photos/dainty-develops-photography-2.jpg", "/photos/dainty-develops-photography-3.jpg"]
 rating: 5
-review_count: 61
+review_count: 62
 price_range: "$$"
 amenities:
 
@@ -27,12 +27,6 @@ tags: ["edmonton", "wedding"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Kyleigh Harris"
-    rating: 5
-    comment: |
-      I had such a great experience working with Kayla! She is incredibly talented and truly knows how to bring out the best in every shot. What stood out the most is how she makes each session so fun — it never felt awkward or forced.
-      She has a special way of making people feel comfortable in front of the camera. Kayla is truly so fun to work with and has the best positive energy.
-      I couldn’t be happier with the results and will absolutely get more photos done with her in the future. I highly recommend her!!
   - name: "Laila L’Heureux"
     rating: 5
     comment: |
@@ -45,8 +39,14 @@ reviews:
     rating: 5
     comment: |
       Kayla is your girl! We have been so lucky to have her capture our journey from announcement, to maternity, to our newborn photos this year. We are so thankful to have had her capture the most special moments of our lives! I don’t have enough wall spaces for the amount of photos I want to print and display in our home. Not only are the photos beautiful but Kayla is always 110% up for all my crazy ideas for shoots. Every shoot is fun, engaging, and it never feels awkward being in front of the lenses. I can’t thank you enough for capturing our special moments! ❤️❤️
-  - name: "Meraki Medical Aesthetics"
+  - name: "Kyleigh Harris"
     rating: 5
     comment: |
-      I have been working with Kayla for our branding photos over the past few years and she has transformed our brand. From her creative edge and unique ideas for shoots to her expert eye to details and vibrant personality, I would highly recommend her to anyone! Dainty Develops Photography is the best photography company in Edmonton!
+      I had such a great experience working with Kayla! She is incredibly talented and truly knows how to bring out the best in every shot. What stood out the most is how she makes each session so fun — it never felt awkward or forced.
+      She has a special way of making people feel comfortable in front of the camera. Kayla is truly so fun to work with and has the best positive energy.
+      I couldn’t be happier with the results and will absolutely get more photos done with her in the future. I highly recommend her!!
+  - name: "Hailey Presisniuk"
+    rating: 5
+    comment: |
+      Kayla is the photographer for my wedding next year and we just got our engagement pictures back and could not be happier! She was so flexible with rescheduling due to weather, and the pictures came out absolutely perfect. I can’t imagine what our wedding pictures will look like after how amazing our engagement pictures are. She is also the sweetest person ever and has such a fun personality which definitely helps you feel more comfortable for pictures. Could not recommend her enough! 🩷
 ---

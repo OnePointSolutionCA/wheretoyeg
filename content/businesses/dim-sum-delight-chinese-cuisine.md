@@ -11,16 +11,16 @@ phone: "(780) 930-1881"
 website: "https://dimsumdelightedmonton.ca/?utm_source=google&utm_medium=maps&utm_campaign=website"
 google_maps_url: "https://maps.google.com/?cid=5047532192414434481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 8:00 PM"
-  tuesday: "11:00 AM - 8:00 PM"
+  monday: "11:00 AM–8:00 PM"
+  tuesday: "11:00 AM–8:00 PM"
   wednesday: "Closed"
-  thursday: "11:00 AM - 8:00 PM"
-  friday: "11:00 AM - 8:00 PM"
-  saturday: "11:00 AM - 8:00 PM"
-  sunday: "11:00 AM - 6:00 PM"
+  thursday: "11:00 AM–8:00 PM"
+  friday: "11:00 AM–8:00 PM"
+  saturday: "11:00 AM–8:00 PM"
+  sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/dim-sum-delight-chinese-cuisine-1.jpg", "/photos/dim-sum-delight-chinese-cuisine-2.jpg", "/photos/dim-sum-delight-chinese-cuisine-3.jpg"]
 rating: 4.2
-review_count: 345
+review_count: 346
 price_range: "$$"
 amenities:
   - "Delivery"

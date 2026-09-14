@@ -15,17 +15,30 @@ photos:
 reviews:
   - name: "Marcel"
     rating: 5
-    comment: "My older brother Rigo recommended me to go to this barbershop and my first time going to a barber shop and im really happy with my haircut, trim my facial hair.  I would definitely recommend Sabaa to anybody does good quality work and I'll definitely be going back for more haircuts !!!!!"
+    comment: |
+      My older brother Rigo recommended me to go to this barbershop and my first time going to a barber shop and im really happy with my haircut, trim my facial hair.  I would definitely recommend Sabaa to anybody does good quality work and I'll definitely be going back for more haircuts !!!!!
   - name: "Justin"
     rating: 5
-    comment: "I was searching for a new barber and I came across some great reviews about Billy at this location. I couldn't be more impressed with his skills! He took his time, asked how I wanted it cut before as well as throughout the cut instead of just going ahead. He was tedious and  checked his work after to make sure it was perfect! Definitely coming back! The shop was clean and looked nice!"
+    comment: |
+      I was searching for a new barber and I came across some great reviews about Billy at this location. I couldn't be more impressed with his skills! He took his time, asked how I wanted it cut before as well as throughout the cut instead of just going ahead. He was tedious and  checked his work after to make sure it was perfect! Definitely coming back! The shop was clean and looked nice!
   - name: "Sara Faithfull"
     rating: 5
-    comment: "We have been going here since arriving in Edmonton 5 years ago.  We always enjoy the conversation that is had with who is working, always big smiles on their faces when we walked in.  My husband always gets a cut, and beard trim as well as eyebrows cleaned up and they allow my kiddos to help in taking out the wax from his ears and nose, always a chuckle and highlight for them of the trip.  My husband always walked in every couple of weeks and typically at the beginning of the morning on a Saturd"
+    comment: |
+      We have been going here since arriving in Edmonton 5 years ago.  We always enjoy the conversation that is had with who is working, always big smiles on their faces when we walked in.  My husband always gets a cut, and beard trim as well as eyebrows cleaned up and they allow my kiddos to help in taking out the wax from his ears and nose, always a chuckle and highlight for them of the trip.  My husband always walked in every couple of weeks and typically at the beginning of the morning on a Saturday they were waiting for him.  My son always walked out with his head held high and everyone commenting on just how handsome he looked once he had a fresh look.  We are truly going to miss this shop, when making a military move to another area.  I said on our last day, I truly hoped we can find a shop just as good as this one.  Saba and Billy run a great barber shop HIGHLY RECOMMEND.
   - name: "Andrew Saliba"
     rating: 5
-    comment: "Great experience, high quality haircut, fair price and I rarely have to wait. Highly recommend!"
+    comment: |
+      Great experience, high quality haircut, fair price and I rarely have to wait. Highly recommend!
   - name: "Micky Sharma"
     rating: 5
-    comment: "I went their at reference and Billy was so professional he did a very great hair cut fades are so nice and speed is also great highly recommend."
+    comment: |
+      I went their at reference and Billy was so professional he did a very great hair cut fades are so nice and speed is also great highly recommend.
+hours:
+  monday: "9:30 AM–6:30 PM"
+  tuesday: "9:30 AM–6:30 PM"
+  wednesday: "9:30 AM–6:30 PM"
+  thursday: "9:30 AM–6:30 PM"
+  friday: "9:30 AM–6:30 PM"
+  saturday: "9:30 AM–5:00 PM"
+  sunday: "Closed"
 ---

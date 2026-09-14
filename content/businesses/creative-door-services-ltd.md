@@ -11,16 +11,16 @@ phone: "(866) 764-6303"
 website: "https://www.creativedoor.com/locations/edmonton"
 google_maps_url: "https://maps.google.com/?cid=9247200919449226667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 5:00 PM"
-  tuesday: "8:00 AM - 5:00 PM"
-  wednesday: "8:00 AM - 5:00 PM"
-  thursday: "8:00 AM - 5:00 PM"
-  friday: "8:00 AM - 5:00 PM"
+  monday: "8:00 AM–5:00 PM"
+  tuesday: "8:00 AM–5:00 PM"
+  wednesday: "8:00 AM–5:00 PM"
+  thursday: "8:00 AM–5:00 PM"
+  friday: "8:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/creative-door-services-ltd-1.jpg", "/photos/creative-door-services-ltd-2.jpg", "/photos/creative-door-services-ltd-3.jpg"]
 rating: 4.3
-review_count: 265
+review_count: 266
 price_range: "$$"
 amenities:
 

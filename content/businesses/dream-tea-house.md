@@ -12,16 +12,16 @@ phone: "(780) 988-7878"
 website: "https://dreamtea.ca"
 google_maps_url: "https://maps.google.com/?q=Dream+Tea+House+Edmonton"
 hours:
-  monday: "3:00 PM - 10:00 PM"
-  tuesday: "3:00 PM - 10:00 PM"
-  wednesday: "3:00 PM - 10:00 PM"
-  thursday: "3:00 PM - 10:00 PM"
-  friday: "3:00 PM - 10:00 PM"
-  saturday: "3:00 PM - 10:00 PM"
-  sunday: "3:00 PM - 10:00 PM"
+  monday: "12:00 PM–10:00 PM"
+  tuesday: "12:00 PM–10:00 PM"
+  wednesday: "12:00 PM–10:00 PM"
+  thursday: "12:00 PM–10:00 PM"
+  friday: "12:00 PM–10:00 PM"
+  saturday: "12:00 PM–10:00 PM"
+  sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/dream-tea-house-1.jpg", "/photos/dream-tea-house-2.jpg", "/photos/dream-tea-house-3.jpg"]
-rating: 4.1
-review_count: 200
+rating: 4.3
+review_count: 756
 price_range: "$"
 amenities:
   - "Bubble Tea"
@@ -48,8 +48,8 @@ reviews:
     rating: 5
     comment: |
       Love their new menu items! Their menu is very creative compared to other bubble tea places in town. Good for groups since there are lots of seatings inside and even free board games.
-  - name: "Chand Sandhu"
-    rating: 5
+  - name: "Jaclyn Bell"
+    rating: 4
     comment: |
-      I come to this place specifically for the croffles. I think it’s one of the only locations in Edmonton that has them. The drinks are good too. So delicious! And the young lady working the cash is so kind. Love this place and I hope they keep the croffles.
+      Matcha soft serve ice cream is a unique treat! It’s a bit bitter and a seems bit small for $7.
 ---

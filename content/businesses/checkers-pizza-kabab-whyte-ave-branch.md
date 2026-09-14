@@ -11,16 +11,16 @@ phone: "(780) 989-3365"
 website: "https://www.checkerspizzakabab.com/"
 google_maps_url: "https://maps.google.com/?cid=8982398161651888904&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 12:00 AM"
-  tuesday: "11:00 AM - 12:00 AM"
-  wednesday: "11:00 AM - 12:00 AM"
-  thursday: "11:00 AM - 12:00 AM"
-  friday: "11:00 AM - 2:00 AM"
-  saturday: "11:00 AM - 2:00 AM"
-  sunday: "11:00 AM - 2:00 AM"
+  monday: "11:00 AM–12:00 AM"
+  tuesday: "11:00 AM–12:00 AM"
+  wednesday: "11:00 AM–12:00 AM"
+  thursday: "11:00 AM–12:00 AM"
+  friday: "11:00 AM–2:00 AM"
+  saturday: "11:00 AM–2:00 AM"
+  sunday: "11:00 AM–2:00 AM"
 photos: ["/photos/checkers-pizza-kabab-whyte-ave-branch-1.jpg", "/photos/checkers-pizza-kabab-whyte-ave-branch-2.jpg", "/photos/checkers-pizza-kabab-whyte-ave-branch-3.jpg"]
 rating: 4.3
-review_count: 931
+review_count: 972
 price_range: "$"
 amenities:
   - "Halal"

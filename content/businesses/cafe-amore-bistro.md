@@ -11,16 +11,16 @@ phone: "(780) 477-7896"
 website: "http://cafeamorebistro.ca/"
 google_maps_url: "https://maps.google.com/?cid=14850264649794454356&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:30 AM - 9:30 PM"
-  tuesday: "11:30 AM - 9:30 PM"
-  wednesday: "11:30 AM - 9:30 PM"
-  thursday: "11:30 AM - 9:30 PM"
-  friday: "11:30 AM - 10:30 PM"
-  saturday: "4:00 - 10:30 PM"
-  sunday: "4:00 - 9:30 PM"
+  monday: "11:30 AM–9:30 PM"
+  tuesday: "11:30 AM–9:30 PM"
+  wednesday: "11:30 AM–9:30 PM"
+  thursday: "11:30 AM–9:30 PM"
+  friday: "11:30 AM–10:30 PM"
+  saturday: "4:00 PM–10:30 PM"
+  sunday: "4:00 PM–9:30 PM"
 photos: ["/photos/cafe-amore-bistro-1.jpg", "/photos/cafe-amore-bistro-2.jpg", "/photos/cafe-amore-bistro-3.jpg"]
 rating: 4.6
-review_count: 2213
+review_count: 2218
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -38,10 +38,6 @@ reviews:
     rating: 5
     comment: |
       Was here for a nice dinner with friends and it was delightful! I believe they have live music playing on the weekends because when I was there, there was gentleman singing which was a great touch! The atmosphere is cozy and comfortable as well. The staff were amazing and attentive. Food was tasty, the portion was excellent for the price. Could be a great date night spot or even a casual night out! Thank you for such a great evening, will be back for sure!
-  - name: "Serena & Aaron Musil"
-    rating: 4
-    comment: |
-      We had a nice visit here. The $10 mussels are a great deal on Monday and Tuesday! My sister LOVES the meatballs.  Great espresso martini also. Lobster Mac n cheese also pretty tasty!
   - name: "Renae Robert"
     rating: 5
     comment: |
@@ -56,4 +52,8 @@ reviews:
       Looking forward to coming back here with the hubby because the atmosphere is very intimate!
       
       Ps - my photo (which was definitely an afterthought - and please consider that I only snapped a quick pic, without trying to showcase the dish, because I didn't want to be *that* person), does not do the presentation justice.
+  - name: "Georgia"
+    rating: 5
+    comment: |
+      Lee was amazing! I would highly reccomend this place for any family or couple looking for something unique. The owner was very involved and friendly. They did a special dessert for our anniversary as well. Will definitly come back. Food to service everything was outstanding!
 ---

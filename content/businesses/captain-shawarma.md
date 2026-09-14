@@ -12,16 +12,16 @@ phone: "(780) 884-5884"
 website: "https://captainshawarma.ca"
 google_maps_url: "https://maps.google.com/?q=Captain+Shawarma+Edmonton"
 hours:
-  monday: "11:00 AM - 10:00 PM"
-  tuesday: "11:00 AM - 10:00 PM"
-  wednesday: "11:00 AM - 10:00 PM"
-  thursday: "11:00 AM - 10:00 PM"
-  friday: "11:00 AM - 10:00 PM"
-  saturday: "12:00 PM - 10:00 PM"
-  sunday: "12:00 PM - 10:00 PM"
+  monday: "11:00 AM–10:00 PM"
+  tuesday: "11:00 AM–10:00 PM"
+  wednesday: "11:00 AM–10:00 PM"
+  thursday: "11:00 AM–10:00 PM"
+  friday: "11:00 AM–10:00 PM"
+  saturday: "12:00 PM–10:00 PM"
+  sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/captain-shawarma-1.jpg", "/photos/captain-shawarma-2.jpg", "/photos/captain-shawarma-3.jpg"]
 rating: 4.5
-review_count: 171
+review_count: 510
 price_range: "$"
 amenities:
   - "Halal"

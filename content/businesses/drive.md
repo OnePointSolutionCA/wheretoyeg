@@ -11,16 +11,16 @@ phone: "(780) 444-5300"
 website: "https://www.wem.ca/play/attractions/drive"
 google_maps_url: "https://maps.google.com/?cid=9247426197520790987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "4:00 - 9:00 PM"
-  tuesday: "4:00 - 9:00 PM"
-  wednesday: "4:00 - 9:00 PM"
-  thursday: "4:00 - 9:00 PM"
-  friday: "1:00 - 9:00 PM"
-  saturday: "1:00 - 9:00 PM"
-  sunday: "11:00 AM - 6:00 PM"
+  monday: "4:00 PM–9:00 PM"
+  tuesday: "4:00 PM–9:00 PM"
+  wednesday: "4:00 PM–9:00 PM"
+  thursday: "4:00 PM–9:00 PM"
+  friday: "1:00 PM–9:00 PM"
+  saturday: "1:00 PM–9:00 PM"
+  sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/drive-1.jpg", "/photos/drive-2.jpg", "/photos/drive-3.jpg"]
 rating: 3.3
-review_count: 382
+review_count: 385
 price_range: "$$"
 amenities:
 
@@ -32,10 +32,6 @@ reviews:
     rating: 5
     comment: |
       Honestly it's my favorite Go Kart place in Edmonton. For the price, you're gonna have a really good experience. The go karts are pretty fast and the track is pretty cool. One thing I wished is that they would put the fastest people in the front, this way you don't have to pass all the people who are slow and don't understand to pullover to the side. I wish it was a little bit longer but when you're having that much fun, why would you want it to end lol.
-  - name: "Markus G."
-    rating: 5
-    comment: |
-      Did a walk-in on a Monday for a two-seater go-cart together with my son. Were sitting in the go-cart not even 20min later! We had a blast, great fun!
   - name: "Angela V."
     rating: 3
     comment: |
@@ -69,4 +65,8 @@ reviews:
     comment: |
       I like the track, nice set up , cars not fast but quick . I got yellow flagged 2 times " bumping " and unsure why but it was good value and we had fun .
       So I switched my 3 to a 4 )
+  - name: "Markus G."
+    rating: 5
+    comment: |
+      Did a walk-in on a Monday for a two-seater go-cart together with my son. Were sitting in the go-cart not even 20min later! We had a blast, great fun!
 ---

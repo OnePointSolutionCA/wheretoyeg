@@ -11,16 +11,16 @@ phone: "(587) 521-5700"
 website: "http://www.meadowlarkpediatricclinic.com/"
 google_maps_url: "https://maps.google.com/?cid=5440102991416507969&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:30 AM - 4:00 PM"
-  tuesday: "8:30 AM - 4:00 PM"
-  wednesday: "8:30 AM - 3:00 PM"
-  thursday: "8:30 AM - 4:00 PM"
-  friday: "8:30 AM - 4:00 PM"
+  monday: "8:30 AM–4:00 PM"
+  tuesday: "8:30 AM–4:00 PM"
+  wednesday: "8:30 AM–3:00 PM"
+  thursday: "8:30 AM–4:00 PM"
+  friday: "8:30 AM–4:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/dr-rsharon-1.jpg", "/photos/dr-rsharon-2.jpg", "/photos/dr-rsharon-3.jpg"]
 rating: 4.5
-review_count: 40
+review_count: 39
 price_range: "$$"
 amenities:
 

@@ -16,17 +16,36 @@ photos:
 reviews:
   - name: "N D"
     rating: 5
-    comment: "My family and I have been patients of Castledowns Dental Centre for many years, and we continue to be impressed by the exceptional care we receive. A special thank you to Dr. Tarchichi, who has always been professional, knowledgeable, and genuinely caring.  From routine checkups to more complex dental treatment, Dr. Tarchichi and the entire team consistently provide outstanding service and make every visit a positive experience. They take the time to explain treatment options, answer questions, "
+    comment: |
+      My family and I have been patients of Castledowns Dental Centre for many years, and we continue to be impressed by the exceptional care we receive. A special thank you to Dr. Tarchichi, who has always been professional, knowledgeable, and genuinely caring.
+      
+      From routine checkups to more complex dental treatment, Dr. Tarchichi and the entire team consistently provide outstanding service and make every visit a positive experience. They take the time to explain treatment options, answer questions, and ensure that patients feel comfortable and well cared for.
+      
+      We have always been very pleased with both the treatment and the results, and we truly appreciate the dedication and attention to detail shown by everyone at the clinic.
+      
+      Thank you, Dr. Tarchichi and the team at Castledowns Dental Centre, for the many years of excellent care. We highly recommend your office to anyone looking for a trustworthy and skilled dental team.
   - name: "Deena Safa"
     rating: 5
-    comment: "Genuinely the best dentist I’ve been to! Dr.Tarchichi is so kind and professional, I highly highly recommend going to see him for your dental needs :))"
+    comment: |
+      Genuinely the best dentist I’ve been to! Dr.Tarchichi is so kind and professional, I highly highly recommend going to see him for your dental needs :))
   - name: "Gus"
     rating: 5
-    comment: "Had the pleasure to have my teeth cleaned by the hygienist SAJIDA, she was amazing , super friendly, she did an excellent job with speed and professionalism, highly recommended."
+    comment: |
+      Had the pleasure to have my teeth cleaned by the hygienist SAJIDA, she was amazing , super friendly, she did an excellent job with speed and professionalism, highly recommended.
   - name: "Hajar Sal"
     rating: 5
-    comment: "Dr tarchichi was amazing he did a great job was very gentle and polite thank you so much for making my visit easy"
+    comment: |
+      Dr tarchichi was amazing he did a great job was very gentle and polite thank you so much for making my visit easy
   - name: "Reem Alhalabi"
     rating: 5
-    comment: "Dr Tarachichi was so kind, helpful and professional. He did such an amazing job on my teeth! The staff is so friendly, and my over all experience was wonderful."
+    comment: |
+      Dr Tarachichi was so kind, helpful and professional. He did such an amazing job on my teeth! The staff is so friendly, and my over all experience was wonderful.
+hours:
+  monday: "8:00 AM–5:00 PM"
+  tuesday: "8:00 AM–5:00 PM"
+  wednesday: "8:00 AM–5:00 PM"
+  thursday: "8:00 AM–5:00 PM"
+  friday: "8:00 AM–4:00 PM"
+  saturday: "9:00 AM–4:00 PM"
+  sunday: "Closed"
 ---

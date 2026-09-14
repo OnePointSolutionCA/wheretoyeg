@@ -12,15 +12,15 @@ website: "https://www.danggood.ca/"
 google_maps_url: "https://maps.google.com/?cid=9083059808282081214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "11:00 AM - 8:00 PM"
-  wednesday: "11:00 AM - 8:00 PM"
-  thursday: "11:00 AM - 8:00 PM"
-  friday: "11:00 AM - 8:00 PM"
-  saturday: "11:00 AM - 8:00 PM"
-  sunday: "11:00 AM - 8:00 PM"
+  tuesday: "11:00 AM–8:00 PM"
+  wednesday: "11:00 AM–8:00 PM"
+  thursday: "11:00 AM–8:00 PM"
+  friday: "11:00 AM–8:00 PM"
+  saturday: "11:00 AM–8:00 PM"
+  sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/dang-good-restaurant-1.jpg", "/photos/dang-good-restaurant-2.jpg", "/photos/dang-good-restaurant-3.jpg"]
 rating: 4.7
-review_count: 1037
+review_count: 1047
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -54,17 +54,11 @@ reviews:
     rating: 5
     comment: |
       Amazing food and excellent service. The staff were super friendly and attentive. I especially loved the mango salad — fresh and full of flavor. Highly recommended!
-  - name: "Matthew Davis"
+  - name: "Cindy"
     rating: 5
     comment: |
-      Long story short - the name is accurate!
-      
-      Service was personable, honest, and enthusiastic!
-      It has a very good "family owned and operated, and they love to do it" vibe!
-      
-      We came in from out-of-town, and once our server heard where we came from, he went out of his way to make the rest of our visit amazing, even recommending other locations that offered amazing vegan options for my partner!
-      
-      Not to mention, the food was delightful! Ws drove for the next 3 hours, and still talked about little nuances in the meals we shared!
-      
-      I can not recommend this place enough!!
+      First time visiting Dang Good Vietnamese Restaurant. It’s a small but cozy place.
+      The green cakes are the best I’ve eaten.
+      My Pho Du’ soup with noodles and beef fillet was amazing! A must try restaurant.
+      It’s a hidden gem 💎
 ---

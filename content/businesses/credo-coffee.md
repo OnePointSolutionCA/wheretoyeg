@@ -12,16 +12,16 @@ phone: "(780) 761-3744"
 website: "https://credocoffee.ca"
 google_maps_url: "https://maps.google.com/?q=Credo+Coffee+Edmonton"
 hours:
-  monday: "7:00 AM - 6:00 PM"
-  tuesday: "7:00 AM - 6:00 PM"
-  wednesday: "7:00 AM - 6:00 PM"
-  thursday: "7:00 AM - 6:00 PM"
-  friday: "7:00 AM - 6:00 PM"
-  saturday: "8:00 AM - 5:00 PM"
-  sunday: "9:00 AM - 4:00 PM"
+  monday: "7:00 AM–6:00 PM"
+  tuesday: "7:00 AM–6:00 PM"
+  wednesday: "7:00 AM–6:00 PM"
+  thursday: "7:00 AM–6:00 PM"
+  friday: "7:00 AM–6:00 PM"
+  saturday: "8:00 AM–5:00 PM"
+  sunday: "9:00 AM–4:00 PM"
 photos: ["/photos/credo-coffee-1.jpg", "/photos/credo-coffee-2.jpg", "/photos/credo-coffee-3.jpg"]
-rating: 4.5
-review_count: 163
+rating: 4.4
+review_count: 725
 price_range: "$$"
 amenities:
   - "Espresso"

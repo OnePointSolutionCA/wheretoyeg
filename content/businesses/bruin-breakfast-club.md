@@ -12,16 +12,41 @@ google_maps: "https://maps.google.com/?cid=12302419921806237454&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/bruin-breakfast-club.jpg"
 reviews:
+  - name: "Phat Boy"
+    rating: 5
+    comment: |
+      Hands down the best breakfast sandwich you will experience in St. Albert! It’s located inside the BreadLove and I believe they’re only open on the weekends. The owners are super friendly, welcoming and obviously take a lot of pride in their food and service! The star of their sandwiches have to be their in-house made sausage…savoury with a hint of sweetness. It takes a minute to get your order but that’s because every sandwich is made fresh and is served hot and delicious! 100% worth the wait and drive! Look forward to coming back and hope they expand into their own joint with even more menu items! Check them out!!
   - name: "Anonimus 1"
     rating: 5
-    comment: "I’ve been to the Bruin almost every weekend since they’ve opened! The Little Darling cafe they’re attached to has always been fantastic (shout out to Luisa & Julie Ann✌️), but the Bruin opening on the weekends makes it the spot to go for a delicious breakfast!  There is not a bad choice on the menu, everything they make is delicious and made fresh to order! My favourite though is the O’canada sandwich, I highly recommend.  The one downside is that they’re getting too dam popular, so get there ea"
+    comment: |
+      I’ve been to the Bruin almost every weekend since they’ve opened! The Little Darling cafe they’re attached to has always been fantastic (shout out to Luisa & Julie Ann✌️), but the Bruin opening on the weekends makes it the spot to go for a delicious breakfast!
+      
+      There is not a bad choice on the menu, everything they make is delicious and made fresh to order! My favourite though is the O’canada sandwich, I highly recommend.
+      
+      The one downside is that they’re getting too dam popular, so get there early, or they might run out before you arrive!! I’m amazed at just how fast the two of them in kitchen get all these orders out.  But the crowds just go to show what a great meal you’re getting for your money.
+      
+      Can’t give them enough stars, they are excellent at what they do!
   - name: "Diane Dunlop"
     rating: 5
-    comment: "Literally the BEST breakfast sandwich (dare I say - best sandwich?) I’ve ever had (I had the Bruin)! We drove in from 55 minutes away just to try the food here and it was well worth the drive. The owners were so friendly and the atmosphere was inviting. It’s too bad Google can’t remove the one star review from the person who didn’t even go to the business because they deserve a full 5 stars."
-  - name: "Alyce O'Neill"
-    rating: 5
-    comment: "The bruin : Verdict -- whatever the flip those pickles are... they are ridiculous I could eat 100 Honestly the sandwich was so delicious. It was seasoned perfectly, Gooey eggs, the toast on the English muffin. Seriously. Yall thought of every detail and perfected it from start to finish. (And no I am not saying that to just be nice ) It was very well done. I am sad I ate it so fast :(  Now to the owners of the bruin breakfast club - - Yall are so welcoming and kind, Even though yall were busy yo"
+    comment: |
+      Literally the BEST breakfast sandwich (dare I say - best sandwich?) I’ve ever had (I had the Bruin)! We drove in from 55 minutes away just to try the food here and it was well worth the drive.
+      The owners were so friendly and the atmosphere was inviting.
+      It’s too bad Google can’t remove the one star review from the person who didn’t even go to the business because they deserve a full 5 stars.
   - name: "Jenn Van Strien"
     rating: 5
-    comment: "YOU GOTTA EAT HERE! Bruin Breakfast Club seriously has some of the best breakfast sandwiches around! If you’re looking for a quick, hot, delicious breakfast English muffin sourced with local fresh ingredients stop in at BreadLove in St. Albert AB when they have their pop up shop! The lovely D & K duo are friendly and make a kick ass sammy! You won’t regret it! Run, don’t walk unless of course it’s a weekend I’m stopping in,  haha!"
+    comment: |
+      YOU GOTTA EAT HERE!
+      Bruin Breakfast Club seriously has some of the best breakfast sandwiches around! If you’re looking for a quick, hot, delicious breakfast English muffin sourced with local fresh ingredients stop in at BreadLove in St. Albert AB when they have their pop up shop! The lovely D & K duo are friendly and make a kick ass sammy! You won’t regret it! Run, don’t walk unless of course it’s a weekend I’m stopping in,  haha!
+  - name: "Tionna Berlin"
+    rating: 5
+    comment: |
+      Absolutely love 😍😍😍🤤 the most delicious breakfast sandwich I've had in a long time ! Great atmosphere and vibes. The coffee shop in the same space has amazing lattes and mochas. Aesthetic is amazing. Breadlove is great quality too. A must stop on a weekend morning
+hours:
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "8:00 AM–1:00 PM"
+  sunday: "8:00 AM–1:00 PM"
 ---

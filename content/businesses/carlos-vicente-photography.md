@@ -11,12 +11,12 @@ phone: "(780) 863-2405"
 website: "https://www.carlosvicentephotography.com/"
 google_maps_url: "https://maps.google.com/?cid=5969507576987410790&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "Open 24 hours"
-  tuesday: "Open 24 hours"
-  wednesday: "Open 24 hours"
-  thursday: "Open 24 hours"
-  friday: "Open 24 hours"
-  saturday: "Open 24 hours"
+  monday: "12:00 AM–12:00 AM"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/carlos-vicente-photography-1.jpg", "/photos/carlos-vicente-photography-2.jpg", "/photos/carlos-vicente-photography-3.jpg"]
 rating: 5
@@ -28,6 +28,10 @@ tags: ["edmonton", "wedding"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Nicole McCaffray"
+    rating: 5
+    comment: |
+      Hiring Carlos to photograph one of the days we will remember forever was one of the best decisions we made. The wedding photos turned out beautiful! He is professional, punctual, easy to get along with and incredibly talented. Thank you so much Carlos!!
   - name: "Taryn Der"
     rating: 5
     comment: |
@@ -58,15 +62,4 @@ reviews:
       We couldn’t be happier and are so grateful to have had Carlos as part of such an important chapter in our lives. We’re already so excited to see even more!
       
       Thank you so much, Carlos!
-  - name: "Winona and Doug Wedding"
-    rating: 5
-    comment: |
-      We just had our engagement shoot with Carlos, and we couldn't be happier with the results! From the very beginning, Carlos made us feel comfortable and captured us beautifully. The photos are stunning—each one tells a story and perfectly reflects our love and vision for the photos.
-      
-      His creativity, attention to detail and expertise truly shine through in every shot. We can't stop looking at them and can't wait for him to capture our wedding next year! If you’re looking for a talented and passionate photographer, look no further than Carlos. Highly recommend, so incredible!!
-      
-      UPDATE:
-      We are beyond thrilled with our experience with Carlos as our wedding photographer! From start to finish, he was absolutely amazing the day of, professional, easygoing, and such a calming presence to have around. He truly is an artist when it comes to photography and has an incredible eye for capturing the perfect shot every time.
-      
-      We were blown away by how quickly he got our teaser photos back to us, and we are absolutely in love with them. They are everything we dreamed of and more. We feel so lucky to have had Carlos capture our wedding day and can’t recommend him highly enough!
 ---

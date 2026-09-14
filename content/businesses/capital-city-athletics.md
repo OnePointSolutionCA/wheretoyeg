@@ -11,13 +11,13 @@ phone: "(780) 915-8702"
 website: "http://www.ccathletics.ca/"
 google_maps_url: "https://maps.google.com/?cid=2469119589870517714&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "6:00 AM - 7:00 PM"
-  tuesday: "6:00 AM - 7:00 PM"
-  wednesday: "6:00 AM - 7:00 PM"
-  thursday: "6:00 AM - 7:00 PM"
-  friday: "6:00 AM - 7:00 PM"
-  saturday: "9:00 - 11:30 AM"
-  sunday: "10:00 AM - 12:00 PM"
+  monday: "6:00 AM–7:00 PM"
+  tuesday: "6:00 AM–7:00 PM"
+  wednesday: "6:00 AM–7:00 PM"
+  thursday: "6:00 AM–7:00 PM"
+  friday: "6:00 AM–7:00 PM"
+  saturday: "9:00 AM–11:30 AM"
+  sunday: "10:00 AM–12:00 PM"
 photos: ["/photos/capital-city-athletics-1.jpg", "/photos/capital-city-athletics-2.jpg", "/photos/capital-city-athletics-3.jpg"]
 rating: 5
 review_count: 81

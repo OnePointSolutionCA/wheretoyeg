@@ -12,16 +12,16 @@ phone: "780-757-1001"
 website: "https://cityortho.ca"
 google_maps_url: "https://maps.google.com/?q=8444+Cartmell+Pl+SW+Edmonton"
 hours:
-  monday: "8:00 AM - 5:00 PM"
-  tuesday: "8:00 AM - 5:00 PM"
-  wednesday: "8:00 AM - 5:00 PM"
-  thursday: "8:00 AM - 5:00 PM"
-  friday: "8:00 AM - 4:00 PM"
+  monday: "8:00 AM–4:00 PM"
+  tuesday: "8:00 AM–4:00 PM"
+  wednesday: "8:00 AM–4:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "8:00 AM–4:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/city-orthodontics-windermere-1.jpg", "/photos/city-orthodontics-windermere-2.jpg", "/photos/city-orthodontics-windermere-3.jpg"]
-rating: 4.6
-review_count: 145
+rating: 4.5
+review_count: 138
 price_range: "$$$"
 amenities:
   - "Braces"

@@ -11,13 +11,13 @@ phone: "(780) 707-3668"
 website: "https://www.cynthiapriestphotography.com/"
 google_maps_url: "https://maps.google.com/?cid=15864060558246796448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 - 11:00 AM, 1:00 - 9:00 PM"
-  tuesday: "9:00 AM - 7:00 PM"
+  monday: "10:00 AM–11:00 AM"
+  tuesday: "9:00 AM–7:00 PM"
   wednesday: "Closed"
-  thursday: "9:00 AM - 5:30 PM"
-  friday: "10:00 - 11:00 AM, 1:00 - 5:00 PM"
-  saturday: "8:00 AM - 9:00 PM"
-  sunday: "10:00 AM - 8:00 PM"
+  thursday: "9:00 AM–5:30 PM"
+  friday: "10:00 AM–11:00 AM"
+  saturday: "8:00 AM–9:00 PM"
+  sunday: "10:00 AM–8:00 PM"
 photos: ["/photos/cynthia-priest-photography-1.jpg", "/photos/cynthia-priest-photography-2.jpg", "/photos/cynthia-priest-photography-3.jpg"]
 rating: 4.9
 review_count: 96
@@ -44,16 +44,16 @@ reviews:
       Cynthia was not only professional and talented but also a joy to work with. She took the time to understand our vision and brought it to life effortlessly.
       
       If you're looking for a food photographer who will make your dishes look as amazing in photos as they do in person, Cynthia is the one to call. Highly recommend!
+  - name: "Elif Kurucan"
+    rating: 5
+    comment: |
+      We had such a lovely experience with Cynthia! She was so warm, friendly, and easy to be around, which made the whole experience feel very comfortable and natural. She was also professional, creative, and clearly passionate about what she does. We would definitely recommend Cynthia to anyone looking for a photographer! ❤️📸
+  - name: "Grace Wong"
+    rating: 5
+    comment: |
+      Cynthia is an amazing photographer - I've always admired her food and wedding photos and knew that she did headshots so I decided to try her services. I have zero regrets; she has such an eye for how to make you look your best in a photo and she has a wonderful capability of making you feel comfortable while having your photo taken, especially if you hate having your photo taken like me. You absolutely will not regret using her services.
   - name: "Meg Wolodko"
     rating: 5
     comment: |
       I worked with Cynthia this past weekend at a wedding where I was the hired planner. She was nothing short of incredible, extremely professional, friendly and went above and beyond with her service to provide such a beautiful experience for the couple. Her photos are absolutely stunning, and I hope to get to work with her on many more opportunities.
-  - name: "Denver Ference"
-    rating: 5
-    comment: |
-      Cynthia is fantastic. She did professional headshots for me and they turned out great. She communicated color themes, posing, and even pre-photo visualization to bring out the best version of me. Highly recommend if you're a business professional looking for headshots.
-  - name: "zouheir achbah"
-    rating: 5
-    comment: |
-      Cynthia was professional, friendly, and a pleasure to work with. She provided excellent service, answered all my questions, and made the entire experience smooth and stress-free. I truly appreciate her professionalism and would highly recommend her to anyone. Thank you, Cynthia!
 ---

@@ -11,16 +11,16 @@ phone: "(780) 705-7110"
 website: "https://www.rockjungleclimbing.ca/boulders-1"
 google_maps_url: "https://maps.google.com/?cid=6070676411706538165&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 11:00 PM"
-  tuesday: "9:00 AM - 11:00 PM"
-  wednesday: "9:00 AM - 11:00 PM"
-  thursday: "9:00 AM - 11:00 PM"
-  friday: "9:00 AM - 11:00 PM"
-  saturday: "8:00 AM - 10:00 PM"
-  sunday: "8:00 AM - 10:00 PM"
+  monday: "9:00 AM–11:00 PM"
+  tuesday: "9:00 AM–11:00 PM"
+  wednesday: "9:00 AM–11:00 PM"
+  thursday: "9:00 AM–11:00 PM"
+  friday: "9:00 AM–11:00 PM"
+  saturday: "8:00 AM–10:00 PM"
+  sunday: "8:00 AM–10:00 PM"
 photos: ["/photos/boulders-climbing-1.jpg", "/photos/boulders-climbing-2.jpg", "/photos/boulders-climbing-3.jpg"]
 rating: 4.8
-review_count: 771
+review_count: 772
 price_range: "$$"
 amenities:
 
@@ -34,6 +34,15 @@ reviews:
       I absolutely love this gym and its other branches. As an introvert, it's the perfect place to just zone out, climb, and monkey around at my own pace. The atmosphere is fantastic, the staff is incredibly friendly, and the community is incredibly cool and welcoming. Having a cafe on-site to chill at is the perfect bonus. If you've been thinking about trying bouldering, definitely check this place out!
       
       Plus, if you decide to become a member, you get a discount on the shoes they sell, which makes it totally worth it.
+  - name: "Mr Payment"
+    rating: 5
+    comment: |
+      This was well worth the visit, my daighter has been climbing recreational for a few months and I scooped a summer package for here to try with her. We went today ..
+      I must say they are very well organized clean and have awesome staff .. I feeling my age a bit but looking to go again .. I made a few full climbs which was awesome and there was such a great vide in here and people were so polite..
+      
+      Oh ya ; I was hungry so snuck to the Cafe quick and the best and only substance was a egg sandwich , so kinda limited but damn that was delicious.
+      
+      Looking  foward to trying this again and again
   - name: "Matthew Dispensa"
     rating: 5
     comment: |
@@ -46,10 +55,4 @@ reviews:
     rating: 5
     comment: |
       Pretty awesome climbing gym - large space, variety of levels, top end gym equipment and space + friendly staff. There is also a cafe on site as well. Enjoyed the setting as well as the layout of the gym overall. Would recommend making a visit here if you're in town. Clean space and clean air as well (not chalky/dusty).
-  - name: "Marcus Trevelyan"
-    rating: 4
-    comment: |
-      Only been to factory climbing before; comparatively it’s decent but the wall slopes vary a lot more. Bathrooms lack a closed off change room area, but they have a cool foot shower that I now know I need in my house.
-      
-      Good luck finding free parking, best spots are beside the dumpsters or around the back alley (plz park close together and not like a goober).
 ---

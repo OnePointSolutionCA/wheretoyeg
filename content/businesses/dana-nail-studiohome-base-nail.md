@@ -11,16 +11,16 @@ phone: "(780) 901-2118"
 website: "https://dana-nail-studio.square.site/"
 google_maps_url: "https://maps.google.com/?cid=7338321586101309811&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 9:30 PM"
-  tuesday: "8:00 AM - 9:30 PM"
-  wednesday: "8:00 AM - 9:30 PM"
-  thursday: "8:00 AM - 9:30 PM"
-  friday: "8:00 AM - 9:30 PM"
-  saturday: "8:00 AM - 9:30 PM"
-  sunday: "8:00 AM - 9:30 PM"
+  monday: "8:00 AM–9:30 PM"
+  tuesday: "8:00 AM–9:30 PM"
+  wednesday: "8:00 AM–9:30 PM"
+  thursday: "8:00 AM–9:30 PM"
+  friday: "8:00 AM–9:30 PM"
+  saturday: "8:00 AM–9:30 PM"
+  sunday: "8:00 AM–9:30 PM"
 photos: ["/photos/dana-nail-studiohome-base-nail-1.jpg", "/photos/dana-nail-studiohome-base-nail-2.jpg", "/photos/dana-nail-studiohome-base-nail-3.jpg"]
 rating: 5
-review_count: 82
+review_count: 84
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,10 @@ tags: ["edmonton", "gel"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Farha Machiwala"
+    rating: 5
+    comment: |
+      Such a great experience! Dana was so sweet and did an amazing job on my nails. I love the shape and the length, and the whole appointment was comfortable and relaxing. Her prices are also very reasonable compared to other salons. I’m really happy with how they turned out and will definitely be coming back!
   - name: "Gloria Linney"
     rating: 5
     comment: |
@@ -48,8 +52,4 @@ reviews:
     rating: 5
     comment: |
       I’ve been seeing Dana since 2023 and she has always made my nails look perfect. She’s super sweet and very talented. Her space is clean and cozy and I always leave saying these nails are my new faves. I can’t recommend Dana enough!
-  - name: "Justina Green"
-    rating: 5
-    comment: |
-      Just got my nails done again by Dana at her home salon - always such a great experience. Amidst all the chaos in this world, these appts are calming for me. It was a very last minute request and Dana accommodated me quickly. Her skills are outstanding and I’m very picky, lol! She does SUCH a great job every time.
 ---

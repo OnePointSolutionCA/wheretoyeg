@@ -11,16 +11,16 @@ phone: "(587) 710-2010"
 website: "https://canadacleanhome.com/"
 google_maps_url: "https://maps.google.com/?cid=3374557706406188252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 6:00 PM"
-  tuesday: "8:00 AM - 6:00 PM"
-  wednesday: "8:00 AM - 6:00 PM"
-  thursday: "8:00 AM - 6:00 PM"
-  friday: "8:00 AM - 6:00 PM"
-  saturday: "8:00 AM - 4:00 PM"
+  monday: "8:00 AM–6:00 PM"
+  tuesday: "8:00 AM–6:00 PM"
+  wednesday: "8:00 AM–6:00 PM"
+  thursday: "8:00 AM–6:00 PM"
+  friday: "8:00 AM–6:00 PM"
+  saturday: "8:00 AM–4:00 PM"
   sunday: "Closed"
 photos: ["/photos/canada-clean-home-1.jpg", "/photos/canada-clean-home-2.jpg", "/photos/canada-clean-home-3.jpg"]
 rating: 4.8
-review_count: 403
+review_count: 404
 price_range: "$$$$"
 amenities:
 
@@ -37,6 +37,10 @@ reviews:
     comment: |
       A very bad Company for cleaning. They sent one man who doesn't know how to clean Matress. He cleaned less than 10 minutes then he left. See what their job looks like.
       I believe they don't have products to use when they are cleaning. I don't recommend anyone for this Company unless you want bad job go for them.
+  - name: "Cynthia Heyink"
+    rating: 5
+    comment: |
+      Alex came over this morning to clean the carpets in my 2 bedrooms. The stains that were in the carpet were here longer than I have rented at this address. I’ve lived here for over 3 years and the carpet looks brand new. I only wish I had taken before and after pictures to add to this review. Alex was amazing, friendly and also shared what else the company cleans, such as mattresses and furniture. I will definitely use Canada Clean Home again in the future. Just a disclaimer…my carpet was filthy and full of stains so I paid a bit extra. However, it was completely worth it. Thanks Alex.
   - name: "Liliya Poltoratskaya"
     rating: 5
     comment: |
@@ -45,8 +49,4 @@ reviews:
     rating: 5
     comment: |
       Absolutely fantastic carpet steam cleaning service! Our carpets were heavily stained and dull, but they now look and smell brand new. The team arrived on time, worked efficiently, and paid close attention to every detail. They removed stubborn spots we thought were permanent. Professional, friendly, and reasonably priced. We’ll definitely use them again and highly recommend their service!
-  - name: "Kris Murphy"
-    rating: 5
-    comment: |
-      Had Canada Clean Home out to Steam clean my carpets prior to moving in to our home. They did an excellent job!. Carpets look fresh and new. Online booking and estimate was simple to do. Pricing was very reasonable and worth the investment. Floors were protected and wall corners protected prior to starting.  Friendly and knowledgeable technician who arrived on time. Would highly recommend this company. Thank you!
 ---

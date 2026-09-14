@@ -12,11 +12,11 @@ website: "http://www.cherishhairdesign.com/"
 google_maps_url: "https://maps.google.com/?cid=5057437899716766351&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "10:00 AM - 8:00 PM"
-  wednesday: "10:00 AM - 6:00 PM"
-  thursday: "10:00 AM - 8:00 PM"
-  friday: "10:00 AM - 6:00 PM"
-  saturday: "9:00 AM - 5:00 PM"
+  tuesday: "10:00 AM–8:00 PM"
+  wednesday: "10:00 AM–6:00 PM"
+  thursday: "10:00 AM–8:00 PM"
+  friday: "10:00 AM–6:00 PM"
+  saturday: "9:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/cherish-hair-design-1.jpg", "/photos/cherish-hair-design-2.jpg", "/photos/cherish-hair-design-3.jpg"]
 rating: 4.7
@@ -46,8 +46,8 @@ reviews:
     rating: 5
     comment: |
       I have been getting my hair cut and colored by Brooke S. for about 5 years now and she does an excellent job every time! The products smell great, the atmosphere is pleasant, and the people are always welcoming. They sell some jewelry at the front as well which is always cute stuff (including Agaveh girl jewelery). Would definitely recommend this hair salon.
-  - name: "tanisha McCullough"
+  - name: "kerry talbot"
     rating: 5
     comment: |
-      Meaghan did an amazing job with my haircut. She was super detailed and precise and gave me exactly what I asked for, really friendly and inviting as well 😊. Been at this salon a few times now and have never left disappointed, they have become the only salon I trust to do my hair exactly how I want it every time.
+      10/10 got my hair cut today and styled by Brittany she did an amazing job and had my crazy cowlick and thin hair figured out right from the start. Super friendly and easy to chat with. Very happy with my service.
 ---

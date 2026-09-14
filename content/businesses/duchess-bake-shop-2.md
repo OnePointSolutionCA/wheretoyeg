@@ -11,16 +11,16 @@ phone: "(780) 488-4999"
 website: "http://duchessbakeshop.com/"
 google_maps_url: "https://maps.google.com/?cid=6322710800857215222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 6:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "9:00 AM - 6:00 PM"
-  sunday: "9:00 AM - 5:00 PM"
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–6:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "9:00 AM–6:00 PM"
+  friday: "9:00 AM–6:00 PM"
+  saturday: "9:00 AM–6:00 PM"
+  sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/duchess-bake-shop-2-1.jpg", "/photos/duchess-bake-shop-2-2.jpg", "/photos/duchess-bake-shop-2-3.jpg"]
 rating: 4.6
-review_count: 3039
+review_count: 3046
 price_range: "$$"
 amenities:
   - "Dine-In"

@@ -10,13 +10,13 @@ neighborhood: "Edmonton"
 phone: "(587) 990-2133"
 google_maps_url: "https://maps.google.com/?cid=17502027623115339968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 8:30 PM"
-  tuesday: "11:00 AM - 8:30 PM"
-  wednesday: "11:00 AM - 8:30 PM"
-  thursday: "11:00 AM - 8:30 PM"
-  friday: "11:00 AM - 8:30 PM"
-  saturday: "11:00 AM - 8:30 PM"
-  sunday: "11:00 AM - 8:30 PM"
+  monday: "11:00 AM–8:30 PM"
+  tuesday: "11:00 AM–8:30 PM"
+  wednesday: "11:00 AM–8:30 PM"
+  thursday: "11:00 AM–8:30 PM"
+  friday: "11:00 AM–8:30 PM"
+  saturday: "11:00 AM–8:30 PM"
+  sunday: "11:00 AM–8:30 PM"
 photos: ["/photos/edmonton-halal-kitchen-1.jpg", "/photos/edmonton-halal-kitchen-2.jpg", "/photos/edmonton-halal-kitchen-3.jpg"]
 rating: 5
 review_count: 1

@@ -10,13 +10,13 @@ neighborhood: "West Edmonton"
 website: "https://www.vagaro.com/cristinahairyeg"
 google_maps_url: "https://maps.google.com/?cid=2724365052434217195&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 5:00 PM"
-  tuesday: "10:00 AM - 5:00 PM"
-  wednesday: "10:00 AM - 2:30 PM"
-  thursday: "11:00 AM - 9:00 PM"
-  friday: "11:00 AM - 9:00 PM"
-  saturday: "9:00 AM - 6:00 PM"
-  sunday: "9:00 AM - 5:00 PM"
+  monday: "10:00 AM–5:00 PM"
+  tuesday: "10:00 AM–5:00 PM"
+  wednesday: "10:00 AM–2:30 PM"
+  thursday: "11:00 AM–9:00 PM"
+  friday: "11:00 AM–9:00 PM"
+  saturday: "9:00 AM–6:00 PM"
+  sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/c-blonde-specialist-1.jpg", "/photos/c-blonde-specialist-2.jpg", "/photos/c-blonde-specialist-3.jpg"]
 rating: 5
 review_count: 26
@@ -27,6 +27,15 @@ tags: ["edmonton", "color"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Anzhela Kardashova"
+    rating: 5
+    comment: |
+      Absolutely love getting my hair done by her! She is incredibly talented, professional, and such a lovely person.
+      I always leave happy with my hair, and as a little bonus, she always finishes it with the prettiest styling!
+      
+      The last time I came in, I decided to make a pretty big change and cut my hair into a much shorter compared to what I had before — and I’m absolutely in love with it! 😍 She understood exactly what I wanted, and the result turned out even better than I imagined.
+      
+      I trust her completely with my hair and would 100% recommend her to anyone looking for an amazing hairstylist! ✨
   - name: "Madeline Ference"
     rating: 5
     comment: |
@@ -43,8 +52,4 @@ reviews:
     rating: 5
     comment: |
       Highly recommend Christina! Always very attentive to request and makes suggestions when needed. I have been blond for long time. However, Christina made my blond look more healthy and the highlights look natural. Every time I come out of her chair I am amazed that my hair can look this pretty. Love it.
-  - name: "Bryanne Klingbeil"
-    rating: 5
-    comment: |
-      I’ve been seeing Cristina for my hair colour and cuts for 2 years and my hair has never looked better! She has phenomenal skill and client care. For as long as I’ve know her, Cristina has always been dedicated to her craft and education to further her skills and knowledge. She does exceptional work with blonde hair and a lived in look that I love. Besides her skill with hair, she is a wonderful person as well. She is extremely personable, caring, and attentive. Cristina even made a house call to do my hair for me when my baby came early (had to last minute cancel my scheduled appointment lol) and after a c-section I wouldn’t have been able to sit comfortably at a salon sink. I cannot recommend Cristina enough!
 ---

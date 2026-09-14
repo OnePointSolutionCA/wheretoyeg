@@ -11,16 +11,16 @@ phone: "(780) 457-3621"
 website: "http://www.castledownschiro.com/"
 google_maps_url: "https://maps.google.com/?cid=4240235852047693085&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 12:00 PM, 2:00 - 6:00 PM"
-  tuesday: "10:00 AM - 12:00 PM, 2:00 - 7:00 PM"
-  wednesday: "10:00 AM - 12:00 PM, 2:00 - 6:00 PM"
-  thursday: "2:00 - 7:00 PM"
-  friday: "10:00 AM - 12:00 PM, 2:00 - 6:00 PM"
+  monday: "10:00 AM–12:00 PM"
+  tuesday: "10:00 AM–12:00 PM"
+  wednesday: "10:00 AM–12:00 PM"
+  thursday: "2:00 PM–7:00 PM"
+  friday: "10:00 AM–12:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/castledowns-chiropractic-clinic-1.jpg", "/photos/castledowns-chiropractic-clinic-2.jpg", "/photos/castledowns-chiropractic-clinic-3.jpg"]
 rating: 4.9
-review_count: 144
+review_count: 145
 price_range: "$$"
 amenities:
 

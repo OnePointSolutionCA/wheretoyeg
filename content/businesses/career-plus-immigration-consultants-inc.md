@@ -11,16 +11,16 @@ phone: "(780) 709-8600"
 website: "https://careerplus.ca/"
 google_maps_url: "https://maps.google.com/?cid=17892860236115413599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 5:00 PM"
-  tuesday: "9:00 AM - 5:00 PM"
-  wednesday: "9:00 AM - 5:00 PM"
-  thursday: "9:00 AM - 5:00 PM"
-  friday: "9:00 AM - 5:00 PM"
-  saturday: "10:30 AM - 1:30 PM"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
+  saturday: "10:30 AM–1:30 PM"
   sunday: "Closed"
 photos: ["/photos/career-plus-immigration-consultants-inc-1.jpg", "/photos/career-plus-immigration-consultants-inc-2.jpg", "/photos/career-plus-immigration-consultants-inc-3.jpg"]
 rating: 4.9
-review_count: 895
+review_count: 896
 price_range: "$$"
 amenities:
 
@@ -28,12 +28,6 @@ tags: ["edmonton", "immigration"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "kiranjot virk"
-    rating: 5
-    comment: |
-      We recently applied for a work permit for my father through career plus, and we had an excellent experience. The entire process was handled very efficiently from start to finish. The team was very responsive, answered all our calls and emails promptly, and kept us updated at every stage.
-      They were extremely organized with the documentation and made sure everything was completed correctly and on time. We really appreciated how smooth and stress-free they made the process for us.
-      We are very satisfied with their professionalism and speed, and we would highly recommend their services to anyone going through a similar immigration process.
   - name: "Zackery Markle"
     rating: 5
     comment: |
@@ -54,4 +48,12 @@ reviews:
     rating: 5
     comment: |
       I had an amazing experience with Career Plus Immigration. They guided me through every single step of the PR process, making what could have been a really overwhelming journey feel manageable and clear. Their expertise and support were invaluable, and I'm so grateful for their help in achieving my goal. Thanks to all the team and especially Shiella Ma’am for helping through all the process.
+  - name: "Vishavjeet Singh"
+    rating: 5
+    comment: |
+      I had an amazing experience with Career Plus Immigration. They handled my study permit application so smoothly and professionally. I was honestly surprised at how fast everything moved — I received my study permit in just 10–15 days!
+      
+      A special thanks to Jaskiran Ma’am for her constant support and guidance throughout the entire process. She was always patient, clear, and responsive whenever I had questions. She made the whole journey stress-free and straightforward.
+      
+      I truly appreciate their efficiency, transparency, and dedication. I highly recommend Career Plus Immigration to anyone looking for reliable and professional immigration services.
 ---

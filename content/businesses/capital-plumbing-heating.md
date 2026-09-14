@@ -11,16 +11,16 @@ phone: "(780) 451-5666"
 website: "https://capitalplumbing.ca/"
 google_maps_url: "https://maps.google.com/?cid=1012525509122027043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "Open 24 hours"
-  tuesday: "Open 24 hours"
-  wednesday: "Open 24 hours"
-  thursday: "Open 24 hours"
-  friday: "Open 24 hours"
-  saturday: "Open 24 hours"
-  sunday: "Open 24 hours"
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/capital-plumbing-heating-1.jpg", "/photos/capital-plumbing-heating-2.jpg", "/photos/capital-plumbing-heating-3.jpg"]
 rating: 4.8
-review_count: 1695
+review_count: 1699
 price_range: "$$$$"
 amenities:
 
@@ -28,6 +28,10 @@ tags: ["edmonton", "residential"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Amanda P"
+    rating: 5
+    comment: |
+      Dave is fantastic. We appreciate his knowledge and thoroughness - and willingness to patiently answer our many questions! Our boiler system is not for the faint of heart and we are happy to have Dave looking after it. He also did a great job installing our new AC unit this summer. Highly recommend.
   - name: "Suzi Dunn"
     rating: 5
     comment: |
@@ -45,8 +49,4 @@ reviews:
     comment: |
       The staff are knowledgeable and friendly and Carlos is amazing he is calm and very efficient.  I’m glad we made the decision to become members with Capital Plumbing
       When the city had a lot of rain our sump pump did not work. David was able to come out and replace it. It gave me peace of mind that my home is protected from the rain but David also assured us as members Capital city will come and inspect it yearly. David is knowledgeable and very friendly. Thank you David!
-  - name: "Muzna Choudhry"
-    rating: 5
-    comment: |
-      We had a great experience with Capital Plumbing & Heating  today. Carlos was fantastic, very knowledgeable, professional, and took the time to clearly explain what was going on with our hot water tank and other plumbing issues. I really appreciated how thorough and patient he was in answering all my questions. Highly recommend Carlos for anyone looking for honest, reliable service!
 ---

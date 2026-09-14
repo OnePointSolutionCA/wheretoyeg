@@ -11,16 +11,16 @@ phone: "(780) 454-7376"
 website: "https://alberta.churchstexaschicken.com/"
 google_maps_url: "https://maps.google.com/?cid=5770954534208182259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 12:00 AM"
-  tuesday: "11:00 AM - 12:00 AM"
-  wednesday: "11:00 AM - 12:00 AM"
-  thursday: "11:00 AM - 12:00 AM"
-  friday: "11:00 AM - 12:00 AM"
-  saturday: "11:00 AM - 12:00 AM"
-  sunday: "11:00 AM - 11:00 PM"
+  monday: "11:00 AM–12:00 AM"
+  tuesday: "11:00 AM–12:00 AM"
+  wednesday: "11:00 AM–12:00 AM"
+  thursday: "11:00 AM–12:00 AM"
+  friday: "11:00 AM–12:00 AM"
+  saturday: "11:00 AM–12:00 AM"
+  sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/churchs-texas-chicken-1.jpg", "/photos/churchs-texas-chicken-2.jpg", "/photos/churchs-texas-chicken-3.jpg"]
 rating: 4.6
-review_count: 3053
+review_count: 3077
 price_range: "$"
 amenities:
   - "Takeout"

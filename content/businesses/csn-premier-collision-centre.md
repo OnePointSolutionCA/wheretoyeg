@@ -11,16 +11,16 @@ phone: "(780) 455-3755"
 website: "https://csnpremiercollision.com/"
 google_maps_url: "https://maps.google.com/?cid=10682722303033846492&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 5:00 PM"
-  tuesday: "8:00 AM - 5:00 PM"
-  wednesday: "8:00 AM - 5:00 PM"
-  thursday: "8:00 AM - 5:00 PM"
-  friday: "8:00 AM - 5:00 PM"
+  monday: "8:00 AM–5:00 PM"
+  tuesday: "8:00 AM–5:00 PM"
+  wednesday: "8:00 AM–5:00 PM"
+  thursday: "8:00 AM–5:00 PM"
+  friday: "8:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/csn-premier-collision-centre-1.jpg", "/photos/csn-premier-collision-centre-2.jpg", "/photos/csn-premier-collision-centre-3.jpg"]
 rating: 4.8
-review_count: 181
+review_count: 182
 price_range: "$$"
 amenities:
 

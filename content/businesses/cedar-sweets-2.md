@@ -11,16 +11,16 @@ phone: "(780) 479-2292"
 website: "https://cedarsweets.ca/"
 google_maps_url: "https://maps.google.com/?cid=17663854157691653225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 10:00 PM"
-  tuesday: "8:00 AM - 10:00 PM"
-  wednesday: "8:00 AM - 10:00 PM"
-  thursday: "8:00 AM - 10:00 PM"
-  friday: "8:00 AM - 10:00 PM"
-  saturday: "8:00 AM - 10:00 PM"
-  sunday: "8:00 AM - 9:00 PM"
+  monday: "8:00 AM–10:00 PM"
+  tuesday: "8:00 AM–10:00 PM"
+  wednesday: "8:00 AM–10:00 PM"
+  thursday: "8:00 AM–10:00 PM"
+  friday: "8:00 AM–10:00 PM"
+  saturday: "8:00 AM–10:00 PM"
+  sunday: "8:00 AM–9:00 PM"
 photos: ["/photos/cedar-sweets-2-1.jpg", "/photos/cedar-sweets-2-2.jpg", "/photos/cedar-sweets-2-3.jpg"]
 rating: 4.6
-review_count: 581
+review_count: 590
 price_range: "$$"
 amenities:
   - "Halal"
@@ -61,8 +61,8 @@ reviews:
       Whether you’re looking for a box of traditional sweets, a custom cake, or just a scoop of gelato, Cedar Sweets is the place to go. It’s not just a bakery — it’s a sweet journey back home.
       
       Highly recommended — Edmonton is lucky to have Cedar Sweets! 🍰💚
-  - name: "HANAA IBRAHIM"
-    rating: 5
+  - name: "Reina Diavolos"
+    rating: 1
     comment: |
-      I had a lovely experience with Cedar Sweets. The desserts were fresh, beautifully prepared, and tasted amazing, with excellent quality and a great balance of sweetness and texture. Everything was well packaged and presented with care, which really stood out. The service was friendly, everything went smoothly, and overall it was a very pleasant experience. I would definitely come back and recommend this place to anyone who enjoys authentic Middle Eastern desserts.
+      I’ve been a regular evening customer at this shop and have always loved the experience—the staff are consistently warm, welcoming, and helpful. However, I visited for the first time in the morning today, and the experience was shockingly different. The lady working the morning shift treated me with outright condescension and made me feel entirely unwelcome, almost like a beggar rather than a customer. It was deeply disrespectful and ruined what is usually a great spot. Management really needs to look into morning staff training because this completely contrasts with the wonderful service I've experienced here in the past.
 ---

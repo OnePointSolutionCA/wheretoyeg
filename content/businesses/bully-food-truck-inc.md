@@ -19,8 +19,8 @@ hours:
   saturday: "11:00 AM - 10:00 PM"
   sunday: "11:00 AM - 9:00 PM"
 photos: ["/photos/bully-food-truck-inc-1.jpg", "/photos/bully-food-truck-inc-2.jpg", "/photos/bully-food-truck-inc-3.jpg"]
-rating: 4.1
-review_count: 36
+rating: 3.9
+review_count: 39
 price_range: "$"
 amenities:
   - "Dine-In"

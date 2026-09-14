@@ -10,16 +10,16 @@ neighborhood: "North Edmonton"
 phone: "780-478-1821"
 google_maps_url: "https://maps.google.com/?q=Castle+Bake+Edmonton"
 hours:
-  monday: "11:00 AM - 12:00 AM"
-  tuesday: "11:00 AM - 12:00 AM"
-  wednesday: "11:00 AM - 12:00 AM"
-  thursday: "11:00 AM - 12:00 AM"
-  friday: "11:00 AM - 2:00 AM"
-  saturday: "11:00 AM - 2:00 AM"
-  sunday: "11:00 AM - 12:00 AM"
+  monday: "8:00 AM–7:00 PM"
+  tuesday: "8:00 AM–7:00 PM"
+  wednesday: "8:00 AM–7:00 PM"
+  thursday: "8:00 AM–7:00 PM"
+  friday: "8:00 AM–7:00 PM"
+  saturday: "8:00 AM–5:00 PM"
+  sunday: "8:00 AM–5:00 PM"
 photos: ["/photos/castle-bake-1.jpg", "/photos/castle-bake-2.jpg", "/photos/castle-bake-3.jpg"]
-rating: 4.5
-review_count: 220
+rating: 4.8
+review_count: 1114
 price_range: "$$"
 amenities:
   - "Halal"

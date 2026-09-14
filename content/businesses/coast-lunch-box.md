@@ -11,13 +11,13 @@ phone: "(368) 550-0283"
 website: "http://coastlunchbox.com/"
 google_maps_url: "https://maps.google.com/?cid=4133879957691595254&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 3:00 PM"
-  tuesday: "10:00 AM - 3:00 PM"
-  wednesday: "10:00 AM - 3:00 PM"
-  thursday: "10:00 AM - 6:30 PM"
-  friday: "10:00 AM - 6:30 PM"
-  saturday: "10:00 AM - 3:00 PM"
-  sunday: "10:00 AM - 3:00 PM"
+  monday: "10:00 AM–3:00 PM"
+  tuesday: "10:00 AM–3:00 PM"
+  wednesday: "10:00 AM–3:00 PM"
+  thursday: "10:00 AM–6:30 PM"
+  friday: "10:00 AM–6:30 PM"
+  saturday: "10:00 AM–3:00 PM"
+  sunday: "10:00 AM–3:00 PM"
 photos: ["/photos/coast-lunch-box-1.jpg", "/photos/coast-lunch-box-2.jpg", "/photos/coast-lunch-box-3.jpg"]
 rating: 4.5
 review_count: 20

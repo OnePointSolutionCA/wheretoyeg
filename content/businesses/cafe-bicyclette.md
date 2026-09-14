@@ -9,16 +9,16 @@ address: "8627 91 St NW"
 neighborhood: "Bonnie Doon"
 google_maps_url: "https://maps.google.com/?q=Cafe%20Bicyclette%20Edmonton"
 hours:
-  monday: "7:00 AM - 6:00 PM"
-  tuesday: "7:00 AM - 6:00 PM"
-  wednesday: "7:00 AM - 6:00 PM"
-  thursday: "7:00 AM - 6:00 PM"
-  friday: "7:00 AM - 7:00 PM"
-  saturday: "8:00 AM - 7:00 PM"
-  sunday: "8:00 AM - 6:00 PM"
+  monday: "Closed"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
+  saturday: "9:00 AM–9:00 PM"
+  sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/cafe-bicyclette-1.jpg", "/photos/cafe-bicyclette-2.jpg", "/photos/cafe-bicyclette-3.jpg"]
-rating: 4.6
-review_count: 460
+rating: 4.4
+review_count: 1200
 price_range: "$$"
 amenities:
   - "Brunch"

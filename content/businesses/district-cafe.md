@@ -9,16 +9,16 @@ address: "10011 109 St NW"
 neighborhood: "Downtown"
 google_maps_url: "https://maps.google.com/?q=District%20Cafe%20Edmonton"
 hours:
-  monday: "7:00 AM - 6:00 PM"
-  tuesday: "7:00 AM - 6:00 PM"
-  wednesday: "7:00 AM - 6:00 PM"
-  thursday: "7:00 AM - 6:00 PM"
-  friday: "7:00 AM - 7:00 PM"
-  saturday: "8:00 AM - 7:00 PM"
-  sunday: "8:00 AM - 6:00 PM"
+  monday: "7:30 AM–4:00 PM"
+  tuesday: "7:30 AM–4:00 PM"
+  wednesday: "7:30 AM–4:00 PM"
+  thursday: "7:30 AM–4:00 PM"
+  friday: "7:30 AM–4:00 PM"
+  saturday: "8:00 AM–4:00 PM"
+  sunday: "8:00 AM–4:00 PM"
 photos: ["/photos/district-cafe-1.jpg", "/photos/district-cafe-2.jpg", "/photos/district-cafe-3.jpg"]
-rating: 4.5
-review_count: 620
+rating: 4.4
+review_count: 950
 price_range: "$$"
 amenities:
   - "Brunch"

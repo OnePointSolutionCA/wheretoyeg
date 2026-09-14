@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "West Edmonton"
 google_maps_url: "https://maps.google.com/?q=Century%20Dental%20Edmonton%20Edmonton"
 hours:
-  monday: "9:00 AM - 8:00 PM"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 8:00 PM"
-  sunday: "10:00 AM - 6:00 PM"
+  monday: "Closed"
+  tuesday: "9:00 AM–6:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "12:00 PM–8:00 PM"
+  friday: "9:00 AM–6:00 PM"
+  saturday: "9:00 AM–4:00 PM"
+  sunday: "Closed"
 photos: ["/photos/century-dental-edmonton-1.jpg"]
-rating: 4.7
-review_count: 260
+rating: 4.8
+review_count: 25
 price_range: "$$"
 amenities:
   - "Direct Billing"

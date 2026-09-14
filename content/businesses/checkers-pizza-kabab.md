@@ -12,16 +12,16 @@ phone: "(780) 989-3365"
 website: "https://www.checkerspizzakabab.com"
 google_maps_url: "https://maps.google.com/?q=Checkers+Pizza+Kabab+Edmonton"
 hours:
-  monday: "11:00 AM - 12:00 AM"
-  tuesday: "11:00 AM - 12:00 AM"
-  wednesday: "11:00 AM - 12:00 AM"
-  thursday: "11:00 AM - 12:00 AM"
-  friday: "11:00 AM - 2:00 AM"
-  saturday: "11:00 AM - 2:00 AM"
-  sunday: "11:00 AM - 12:00 AM"
+  monday: "11:00 AM–12:00 AM"
+  tuesday: "11:00 AM–12:00 AM"
+  wednesday: "11:00 AM–12:00 AM"
+  thursday: "11:00 AM–12:00 AM"
+  friday: "11:00 AM–2:00 AM"
+  saturday: "11:00 AM–2:00 AM"
+  sunday: "11:00 AM–2:00 AM"
 photos: ["/photos/checkers-pizza-kabab-1.jpg", "/photos/checkers-pizza-kabab-2.jpg", "/photos/checkers-pizza-kabab-3.jpg"]
 rating: 4.3
-review_count: 290
+review_count: 972
 price_range: "$"
 amenities:
   - "Halal"

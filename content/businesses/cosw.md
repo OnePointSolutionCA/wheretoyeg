@@ -11,16 +11,16 @@ phone: "(780) 885-2538"
 website: "https://www.cosw.ca/"
 google_maps_url: "https://maps.google.com/?cid=5606567273965020374&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 6:00 PM, 8:00 PM - 12:00 AM"
-  tuesday: "10:00 AM - 6:00 PM, 8:00 PM - 12:00 AM"
-  wednesday: "10:00 AM - 6:00 PM, 8:00 PM - 12:00 AM"
-  thursday: "10:00 AM - 6:00 PM, 8:00 PM - 12:00 AM"
-  friday: "10:00 AM - 6:00 PM, 8:00 PM - 1:00 AM"
-  saturday: "11:00 AM - 6:00 PM, 8:00 PM - 1:00 AM"
+  monday: "11:00 AM–6:00 PM"
+  tuesday: "10:00 AM–6:00 PM"
+  wednesday: "10:00 AM–6:00 PM"
+  thursday: "10:00 AM–6:00 PM"
+  friday: "10:00 AM–6:00 PM"
+  saturday: "11:00 AM–6:00 PM"
   sunday: "Closed"
 photos: ["/photos/cosw-1.jpg", "/photos/cosw-2.jpg", "/photos/cosw-3.jpg"]
-rating: 5
-review_count: 582
+rating: 4.9
+review_count: 624
 price_range: "$$"
 amenities:
   - "Dine-In"

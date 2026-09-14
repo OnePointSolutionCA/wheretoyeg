@@ -11,12 +11,12 @@ phone: "(780) 660-0969"
 website: "http://cafecaribbean.ca/"
 google_maps_url: "https://maps.google.com/?cid=4082161618360191593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 7:00 PM"
-  tuesday: "11:00 AM - 7:00 PM"
-  wednesday: "11:00 AM - 7:00 PM"
-  thursday: "11:00 AM - 7:00 PM"
-  friday: "11:00 AM - 7:00 PM"
-  saturday: "11:00 AM - 7:00 PM"
+  monday: "11:00 AM–7:00 PM"
+  tuesday: "11:00 AM–7:00 PM"
+  wednesday: "11:00 AM–7:00 PM"
+  thursday: "11:00 AM–7:00 PM"
+  friday: "11:00 AM–7:00 PM"
+  saturday: "11:00 AM–7:00 PM"
   sunday: "Closed"
 photos: ["/photos/cafe-caribbean-1.jpg", "/photos/cafe-caribbean-2.jpg", "/photos/cafe-caribbean-3.jpg"]
 rating: 4.8
@@ -41,14 +41,14 @@ reviews:
     rating: 5
     comment: |
       Came here out of curiosity and was not disappointed. The staff recommended we try doubles and it was delicious, it was our first time trying this type of cuisine. Service was fantastic. So friendly and welcoming! The sorrel was refreshing and sweet. Will definitely return to try some of the other dishes and drinks. Thanks again!!
-  - name: "Joel Routledge"
-    rating: 5
-    comment: |
-      We heard about this cafe after attending a screening of an independent film which focused on local cuisine. The food looked  amazing and the co-owners were charming and funny so we wanted to check it out! We were not disappointed. You can literally taste the love and care that is put into every perfectly seasoned bite. We had their famous meat pie, the curried beef roti and doubles. Delicious! Can't wait to come back in the summer to enjoy the patio.
   - name: "Olivia"
     rating: 5
     comment: |
       The place has a cozy vibe. The owners are delightful. The food was good, we have never had a curry with a hint of sweetness, the other curries we had tried in the past was all savoury. This was a good change. Thank you again for a a taste of Trinidad!
+  - name: "Joel Routledge"
+    rating: 5
+    comment: |
+      We heard about this cafe after attending a screening of an independent film which focused on local cuisine. The food looked  amazing and the co-owners were charming and funny so we wanted to check it out! We were not disappointed. You can literally taste the love and care that is put into every perfectly seasoned bite. We had their famous meat pie, the curried beef roti and doubles. Delicious! Can't wait to come back in the summer to enjoy the patio.
   - name: "Chicocares Aguilar"
     rating: 4
     comment: |

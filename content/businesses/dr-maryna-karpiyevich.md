@@ -12,8 +12,20 @@ google_maps: "https://maps.google.com/?cid=5715454368872512598&g_mp=Cidnb29nbGUu
 reviews:
   - name: "Jenn Nguyen"
     rating: 5
-    comment: "I’m not a patient of the clinic, but when I was calling around looking for a doctor, the office was so nice and helpful. She gave me some suggestions of where I could find someone accepting new patients.  Most of the other clinics I called basically hung up on me (everyone is swamped I know lol) so this was very refreshing!"
+    comment: |
+      I’m not a patient of the clinic, but when I was calling around looking for a doctor, the office was so nice and helpful. She gave me some suggestions of where I could find someone accepting new patients.
+      
+      Most of the other clinics I called basically hung up on me (everyone is swamped I know lol) so this was very refreshing!
   - name: "Candace McDonald"
     rating: 1
-    comment: "The website says they open at eight thirty, but they don't open until nine... I was on hold for almost ten minutes and nobody even came to the phone to say we'll be with you shortly."
+    comment: |
+      The website says they open at eight thirty, but they don't open until nine... I was on hold for almost ten minutes and nobody even came to the phone to say we'll be with you shortly.
+hours:
+  monday: "8:30 AM–8:00 PM"
+  tuesday: "8:30 AM–8:00 PM"
+  wednesday: "8:30 AM–8:00 PM"
+  thursday: "8:30 AM–8:00 PM"
+  friday: "8:30 AM–7:00 PM"
+  saturday: "Closed"
+  sunday: "Closed"
 ---

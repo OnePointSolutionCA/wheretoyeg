@@ -11,15 +11,15 @@ phone: "(780) 680-8256"
 google_maps_url: "https://maps.google.com/?cid=1377788548245907219&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "12:00 - 9:00 PM"
-  wednesday: "12:00 - 9:00 PM"
-  thursday: "12:00 - 9:00 PM"
-  friday: "12:00 - 9:00 PM"
-  saturday: "12:00 - 9:00 PM"
-  sunday: "12:00 - 9:00 PM"
+  tuesday: "12:00 PM–9:00 PM"
+  wednesday: "12:00 PM–9:00 PM"
+  thursday: "12:00 PM–9:00 PM"
+  friday: "12:00 PM–9:00 PM"
+  saturday: "12:00 PM–9:00 PM"
+  sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/caribbean-latino-finger-licking-restaurant-1.jpg", "/photos/caribbean-latino-finger-licking-restaurant-2.jpg", "/photos/caribbean-latino-finger-licking-restaurant-3.jpg"]
 rating: 4.7
-review_count: 91
+review_count: 92
 price_range: "$$"
 amenities:
   - "Dine-In"

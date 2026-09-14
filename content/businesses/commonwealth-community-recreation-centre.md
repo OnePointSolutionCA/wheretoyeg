@@ -11,16 +11,16 @@ phone: "(780) 442-5311"
 website: "http://www.edmonton.ca/"
 google_maps_url: "https://maps.google.com/?cid=3993131513540483744&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "6:00 AM - 10:00 PM"
-  tuesday: "6:00 AM - 10:00 PM"
-  wednesday: "6:00 AM - 10:00 PM"
-  thursday: "6:00 AM - 10:00 PM"
-  friday: "6:00 AM - 10:00 PM"
-  saturday: "7:00 AM - 9:00 PM"
-  sunday: "7:00 AM - 9:00 PM"
+  monday: "6:00 AM–10:00 PM"
+  tuesday: "6:00 AM–10:00 PM"
+  wednesday: "6:00 AM–10:00 PM"
+  thursday: "6:00 AM–10:00 PM"
+  friday: "6:00 AM–10:00 PM"
+  saturday: "7:00 AM–9:00 PM"
+  sunday: "7:00 AM–9:00 PM"
 photos: ["/photos/commonwealth-community-recreation-centre-1.jpg", "/photos/commonwealth-community-recreation-centre-2.jpg", "/photos/commonwealth-community-recreation-centre-3.jpg"]
 rating: 4.4
-review_count: 1958
+review_count: 1961
 price_range: "$$"
 amenities:
 

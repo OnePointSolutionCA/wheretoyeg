@@ -11,16 +11,16 @@ phone: "(780) 399-9891"
 website: "http://dbrestaurant.com/"
 google_maps_url: "https://maps.google.com/?cid=15273234927234103532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 8:30 PM"
-  tuesday: "11:00 AM - 8:30 PM"
-  wednesday: "11:00 AM - 8:30 PM"
-  thursday: "11:00 AM - 8:30 PM"
-  friday: "11:00 AM - 9:00 PM"
-  saturday: "10:30 AM - 9:00 PM"
-  sunday: "10:30 AM - 9:00 PM"
+  monday: "11:00 AM–8:30 PM"
+  tuesday: "11:00 AM–8:30 PM"
+  wednesday: "11:00 AM–8:30 PM"
+  thursday: "11:00 AM–8:30 PM"
+  friday: "11:00 AM–9:00 PM"
+  saturday: "10:30 AM–9:00 PM"
+  sunday: "10:30 AM–9:00 PM"
 photos: ["/photos/dac-biet-db-restaurant-1.jpg", "/photos/dac-biet-db-restaurant-2.jpg", "/photos/dac-biet-db-restaurant-3.jpg"]
-rating: 4.8
-review_count: 116
+rating: 4.7
+review_count: 128
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,10 +30,6 @@ tags: ["edmonton", "vietnamese"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Mason Yong"
-    rating: 5
-    comment: |
-      Had a great experience here! The service was excellent, everyone was friendly, attentive, and made us feel very welcome. The atmosphere is clean, relaxing, and very family friendly, making it a great place to enjoy a meal with loved ones. The restaurant is beautifully designed and has a warm, inviting feel. You can tell it's a family owned business that takes pride in both the food and customer experience. Highly recommend, and I'll definitely be coming back!
   - name: "Nadia Clark"
     rating: 5
     comment: |
@@ -44,12 +40,6 @@ reviews:
       I was also really impressed by the extensive menu selection, especially the many gluten-friendly and dairy-friendly options available. It’s not always easy to find a place that accommodates different dietary needs without sacrificing quality or variety, but they absolutely delivered. Kids had not problem finding things they loved on the menu.
       
       Highly recommend — we’ll definitely be back!
-  - name: "RYAN H"
-    rating: 5
-    comment: |
-      New Viet restaurant on the West’ish side of the city. Inside is very nice, the price is on the more expensive side but it was honestly worth it. High quality ingredients and the service was very friendly.
-      
-      Ordered the #12 Bo Lap Lop, #29 Pho Dac Biet, #39 Bun Bo Hue. Both soups were so good, the broth on both not too heavy and very flavourful. Thoroughly enjoyed both. Meat was tender. The beef in betel leaf appetizer (has peanuts — fyi as it’s not stated on the menu) was good with either peanut sauce or fish sauce. Food came it out abit slow, but it was their opening week. Would love to come back to try out the other options.
   - name: "Ann Nguyen"
     rating: 5
     comment: |
@@ -61,6 +51,10 @@ reviews:
       I also really liked the ambience. Everything felt clean, fresh, and welcoming, even the washroom was very clean and smelled nice, which I truly appreciate.
       
       Overall, a very good experience. I would recommend this restaurant, especially if you are visiting the Edmonton Valley Zoo area and looking for a comfortable place to enjoy authentic Vietnamese food.
+  - name: "Mason Yong"
+    rating: 5
+    comment: |
+      Had a great experience here! The service was excellent, everyone was friendly, attentive, and made us feel very welcome. The atmosphere is clean, relaxing, and very family friendly, making it a great place to enjoy a meal with loved ones. The restaurant is beautifully designed and has a warm, inviting feel. You can tell it's a family owned business that takes pride in both the food and customer experience. Highly recommend, and I'll definitely be coming back!
   - name: "Alice T"
     rating: 5
     comment: |
@@ -75,4 +69,8 @@ reviews:
       My family and I really enjoyed our meal, and we plan to return here again to try more on the menu.
       
       Thank you for a great experience, we will be recommending your restaurant to others as among some of the best Vietnamese food in the city. (Our Vietnamese restaurant recommendations list is very selective haha)
+  - name: "David W."
+    rating: 5
+    comment: |
+      This is a welcome addition to the Vietnamese food scene in West Edmonton. Bun Bo Hue was flavourful and portion size was pretty good. Just wish they add the pork blood with the pork feet to add to the authenticity because we need more of that in Edmonton. Banh Canh was rich and tapioca noodles were great. The deep fried banana with Ca Phe Sua Da special was a great pairing. Banana had plenty of sweetness from the condensed milk sauce Deep flavour for the Ca Phe Su Da. Would definitely get all these dishes again. Deep fried Calamari was also bombs. Bánh Ít Trần Tôm Thịt was mochi like if you're into the chewiness with some shrimp and pork in it. Don't know any restaurant in Edmonton that makes this dish. Gotta try this place out.
 ---

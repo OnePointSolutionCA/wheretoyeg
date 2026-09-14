@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "West Edmonton"
 google_maps_url: "https://maps.google.com/?q=CrossFit%20Terminus%20Edmonton"
 hours:
-  monday: "9:00 AM - 8:00 PM"
-  tuesday: "9:00 AM - 8:00 PM"
-  wednesday: "9:00 AM - 8:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 8:00 PM"
-  sunday: "10:00 AM - 6:00 PM"
+  monday: "5:00 AM–7:15 AM"
+  tuesday: "5:00 AM–7:10 AM"
+  wednesday: "5:00 AM–7:15 AM"
+  thursday: "5:00 AM–7:15 AM"
+  friday: "5:00 AM–7:10 AM"
+  saturday: "8:00 AM–10:15 PM"
+  sunday: "8:00 AM–10:15 AM"
 photos: ["/photos/crossfit-terminus-1.jpg", "/photos/crossfit-terminus-2.jpg", "/photos/crossfit-terminus-3.jpg"]
-rating: 4.8
-review_count: 110
+rating: 4.9
+review_count: 56
 price_range: "$$$"
 amenities:
   - "Coached Classes"

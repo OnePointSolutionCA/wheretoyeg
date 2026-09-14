@@ -11,16 +11,16 @@ phone: "(780) 454-5556"
 website: "https://breadland.ca/"
 google_maps_url: "https://maps.google.com/?cid=5570407906281409031&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 6:00 PM"
-  tuesday: "8:00 AM - 6:00 PM"
-  wednesday: "8:00 AM - 6:00 PM"
-  thursday: "8:00 AM - 6:00 PM"
-  friday: "8:00 AM - 6:00 PM"
-  saturday: "8:00 AM - 6:00 PM"
+  monday: "8:00 AM–6:00 PM"
+  tuesday: "8:00 AM–6:00 PM"
+  wednesday: "8:00 AM–6:00 PM"
+  thursday: "8:00 AM–6:00 PM"
+  friday: "8:00 AM–6:00 PM"
+  saturday: "8:00 AM–6:00 PM"
   sunday: "Closed"
 photos: ["/photos/breadland-organic-whole-grain-bakery-1.jpg", "/photos/breadland-organic-whole-grain-bakery-2.jpg", "/photos/breadland-organic-whole-grain-bakery-3.jpg"]
 rating: 4.6
-review_count: 283
+review_count: 284
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -51,13 +51,10 @@ reviews:
       This place is amazing, immaculate clean, service is amazing and food and drinks, I doubt it will be a better place.
       The bread is amazing and because the use organic flour and a sourdough slow fermentation process, not only eliminate the glutem problems, but also makes the bread and absolute nutritious food.
       First time there with the family, but will certainly return 😃
-  - name: "cly hur"
-    rating: 3
+  - name: "Martin Ly"
+    rating: 4
     comment: |
-      Purchased cinnamon buns and Ezekiel bread at community natural foods. Ezekiel bread was good even though it was almost at its date. Cinnamon buns were dated April 23rd and were purchased on The 19th well before best before date. Had it for breakfast on the 20th and not at all like it used to be.
+      First time coming, got a drink and snack. It was late afternoon, so I think most of the stuff was already sold out.
       
-      I have bought these cinnamon buns for years and thought they were quite good in the past.
-      
-      Not much cinnamon flavour, also not gooey at all. Dry and somewhat tasteless. I don't know how you can have a fresh baked good sitting on a shelf wrapped in Saran wrap for a week and have it tasting good.
-      I did try to call a couple of times but no one picked up the phone and no way to leave a message.
+      The croissant was flaky and well balanced. The latte was good. Although I think of you  a fan of sweeter latte, you may not like the latte here without extra sugar. The coffee flavour was nice however. Just the right amount of bitter for me.  They also have oat milk as alternative for lactose intolerance.
 ---

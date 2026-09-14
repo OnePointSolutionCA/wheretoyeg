@@ -11,16 +11,16 @@ phone: "(780) 540-0606"
 website: "https://dosc.ca/menu/"
 google_maps_url: "https://maps.google.com/?cid=16473861557030774807&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM - 10:00 PM"
-  tuesday: "11:00 AM - 10:00 PM"
-  wednesday: "11:00 AM - 10:00 PM"
-  thursday: "11:00 AM - 10:00 PM"
-  friday: "11:00 AM - 12:00 AM"
-  saturday: "11:00 AM - 12:00 AM"
-  sunday: "11:00 AM - 10:00 PM"
+  monday: "11:00 AM–10:00 PM"
+  tuesday: "11:00 AM–10:00 PM"
+  wednesday: "11:00 AM–10:00 PM"
+  thursday: "11:00 AM–10:00 PM"
+  friday: "11:00 AM–12:00 AM"
+  saturday: "11:00 AM–12:00 AM"
+  sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/dosc-1.jpg", "/photos/dosc-2.jpg", "/photos/dosc-3.jpg"]
 rating: 4.4
-review_count: 2192
+review_count: 2202
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -55,6 +55,12 @@ reviews:
       That said, I really liked the thoughtful detail in the restroom for dental hygiene. They provide toothpaste, dental floss, and toothpicks. I had never seen that before, and it’s definitely a nice touch and a point in favor of the place.
       
       The restaurant itself is quite cozy and the atmosphere is pleasant, but in my opinion it is unnecessarily expensive for what it offers.
+  - name: "Kathryn MacQuarrie"
+    rating: 4
+    comment: |
+      Ella was an amazing server and had great recommendations about the menu. The portions were also quite large, especially the appetizers. The brussel sprouts were amazing, as were the cocktails.
+      The steak I got was very tough and chewy; the fat was barely edible, which is why I'm taking a star off. My BF's was much better than mine so luckily I got a bite of that, but mine was supposed to be medium rare and it def was not.
+      Lastly, they really went out of their way in the environment of the place. Not only is the interior really contemporary but cozy, the bathrooms are awesome, we love a bidet. Will be back to try other dishes
   - name: "Nessa Gomez"
     rating: 5
     comment: |
@@ -63,8 +69,4 @@ reviews:
     rating: 5
     comment: |
       Love the atmosphere! The lighting is dim and it’s like a romantic wooden industrial vibe. Brydan was our server and did such a fabulous job describing everything on the menu to us and making perfect recommendations. He was very charismatic and comfortable. Food was excellent. We came here for my birthday dinner and I will be recommending it to friends for special nights out.
-  - name: "Diana P"
-    rating: 5
-    comment: |
-      Loved the vibes of this place! Definitely pricey but you get what you pay for, I was impressed by the cocktails they were top tier. The highlight of the night was the incredible service, Shaquille was an amazing server, he really blew us away!!
 ---

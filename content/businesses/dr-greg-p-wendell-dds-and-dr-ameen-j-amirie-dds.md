@@ -16,8 +16,18 @@ photos:
 reviews:
   - name: "Kurt Fadrny"
     rating: 5
-    comment: "I hate dentists and only go when it is necessary. I have had bad experiences with other dentists but must say Dr. Wendell was awesome. I didn't feel nervous and I had a great time with him in his chair. I found my new dentist and recommend him fully."
+    comment: |
+      I hate dentists and only go when it is necessary. I have had bad experiences with other dentists but must say Dr. Wendell was awesome. I didn't feel nervous and I had a great time with him in his chair. I found my new dentist and recommend him fully.
   - name: "Reid Giraud"
     rating: 5
-    comment: "Fantastic dentist and staff. Always welcoming, very professional."
+    comment: |
+      Fantastic dentist and staff. Always welcoming, very professional.
+hours:
+  monday: "8:00 AM–7:00 PM"
+  tuesday: "8:30 AM–6:00 PM"
+  wednesday: "8:00 AM–5:00 PM"
+  thursday: "8:00 AM–5:00 PM"
+  friday: "8:00 AM–3:30 PM"
+  saturday: "10:00 AM–3:00 PM"
+  sunday: "Closed"
 ---

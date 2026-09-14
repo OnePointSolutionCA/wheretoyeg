@@ -12,16 +12,16 @@ phone: "780-757-1001"
 website: "https://cityortho.ca"
 google_maps_url: "https://maps.google.com/?q=4363+167+Ave+NW+Edmonton"
 hours:
-  monday: "8:00 AM - 5:00 PM"
-  tuesday: "8:00 AM - 5:00 PM"
-  wednesday: "8:00 AM - 5:00 PM"
-  thursday: "8:00 AM - 5:00 PM"
-  friday: "8:00 AM - 4:00 PM"
+  monday: "8:00 AM–4:00 PM"
+  tuesday: "8:00 AM–4:00 PM"
+  wednesday: "8:00 AM–4:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "8:00 AM–4:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/city-orthodontics-northeast-1.jpg", "/photos/city-orthodontics-northeast-2.jpg", "/photos/city-orthodontics-northeast-3.jpg"]
 rating: 4.5
-review_count: 41
+review_count: 42
 price_range: "$$$"
 amenities:
   - "Braces"
@@ -58,6 +58,11 @@ reviews:
       At this point, I honestly feel like I could have just spent that $150 on a flight back to Montreal, seen my own dentist who does this for me for free, and visited my family at the same time.
       
       What’s frustrating is that I actually had a good impression at first everyone was nice, and I was even speaking with the doctor about booking a teeth cleaning and making this my regular clinic after moving to Edmonton. But after this experience, I’ve completely changed my mind.
+  - name: "Ashlyne"
+    rating: 5
+    comment: |
+      Easy to find, on the second floor, elevator available. Was very pleased with the quick response to the referral we received.
+      Very kid friendly. Would recommend! For sure.
   - name: "Atawah Semples Anaba"
     rating: 1
     comment: |
@@ -68,8 +73,4 @@ reviews:
     rating: 5
     comment: |
       City Orthodontics has been a game-changer for my daughter. She was nervous about getting braces, but the team made her feel at ease with their gentle approach. They were incredibly patient, explained every step of the process, and made her feel confident throughout her treatment. We’re so pleased with the results!
-  - name: "Tessa Asher"
-    rating: 5
-    comment: |
-      I’m so impressed by how the team balances professionalism with genuine warmth. The orthodontist didn’t just treat my son—he educated him on why certain habits matter and what each adjustment does. My son actually feels proud of being part of the process. That kind of engagement has helped him stick to his routine and keep his braces clean and effective. It’s not easy getting teenagers to care about their teeth, but this clinic has made it possible.
 ---

@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "Downtown"
 google_maps_url: "https://maps.google.com/?q=Downtown%20Chiropractic%20Edmonton%20Edmonton"
 hours:
-  monday: "9:00 AM - 6:00 PM"
-  tuesday: "9:00 AM - 6:00 PM"
-  wednesday: "9:00 AM - 6:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 6:00 PM"
-  saturday: "10:00 AM - 5:00 PM"
+  monday: "12:00 PM–6:00 PM"
+  tuesday: "8:30 AM–6:00 PM"
+  wednesday: "8:30 AM–12:00 PM"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/downtown-chiropractic-1.jpg", "/photos/downtown-chiropractic-2.jpg", "/photos/downtown-chiropractic-3.jpg"]
-rating: 4.7
-review_count: 220
+rating: 4.9
+review_count: 43
 price_range: "$$"
 amenities:
   - "Direct Billing"

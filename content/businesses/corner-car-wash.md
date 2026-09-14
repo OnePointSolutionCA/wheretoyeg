@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 452-6341"
 google_maps_url: "https://maps.google.com/?cid=8423561838604733467&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 10:00 PM"
-  tuesday: "7:00 AM - 10:00 PM"
-  wednesday: "7:00 AM - 10:00 PM"
-  thursday: "7:00 AM - 10:00 PM"
-  friday: "7:00 AM - 10:00 PM"
-  saturday: "7:00 AM - 10:00 PM"
-  sunday: "7:00 AM - 10:00 PM"
+  monday: "7:00 AM–10:00 PM"
+  tuesday: "7:00 AM–10:00 PM"
+  wednesday: "7:00 AM–10:00 PM"
+  thursday: "7:00 AM–10:00 PM"
+  friday: "7:00 AM–10:00 PM"
+  saturday: "7:00 AM–10:00 PM"
+  sunday: "7:00 AM–10:00 PM"
 photos: ["/photos/corner-car-wash-1.jpg", "/photos/corner-car-wash-2.jpg", "/photos/corner-car-wash-3.jpg"]
 rating: 4.4
-review_count: 436
+review_count: 438
 price_range: "$$"
 amenities:
 

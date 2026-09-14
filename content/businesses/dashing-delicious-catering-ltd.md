@@ -11,13 +11,13 @@ phone: "(780) 905-9390"
 website: "https://www.dashinganddeliciouscatering.com/"
 google_maps_url: "https://maps.google.com/?cid=13658149555461065226&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "6:00 AM - 2:00 PM"
-  tuesday: "6:00 AM - 2:00 PM"
-  wednesday: "6:00 AM - 2:00 PM"
-  thursday: "6:00 AM - 2:00 PM"
-  friday: "6:00 AM - 2:00 PM"
-  saturday: "6:00 AM - 2:00 PM"
-  sunday: "6:00 AM - 2:00 PM"
+  monday: "6:00 AM–2:00 PM"
+  tuesday: "6:00 AM–2:00 PM"
+  wednesday: "6:00 AM–2:00 PM"
+  thursday: "6:00 AM–2:00 PM"
+  friday: "6:00 AM–2:00 PM"
+  saturday: "6:00 AM–2:00 PM"
+  sunday: "6:00 AM–2:00 PM"
 photos: ["/photos/dashing-delicious-catering-ltd-1.jpg", "/photos/dashing-delicious-catering-ltd-2.jpg", "/photos/dashing-delicious-catering-ltd-3.jpg"]
 rating: 4.9
 review_count: 42

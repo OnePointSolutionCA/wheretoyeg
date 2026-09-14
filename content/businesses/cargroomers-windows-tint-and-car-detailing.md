@@ -15,14 +15,36 @@ photos:
 reviews:
   - name: "Harve"
     rating: 5
-    comment: "Extremely impressed with the service at [Car Groomers]! I brought in my new car to get the windows tinted to match the back, and the team did a fantastic job. The cut lines are perfectly smooth, zero bubbles, and they took the time to explain the different ceramic, heat-reducing options. My car looks amazing and stays much cooler. Very professional, fast, and friendly staff—highly recommend them to anyone"
+    comment: |
+      Extremely impressed with the service at [Car Groomers]! I brought in my new car to get the windows tinted to match the back, and the team did a fantastic job. The cut lines are perfectly smooth, zero bubbles, and they took the time to explain the different ceramic, heat-reducing options. My car looks amazing and stays much cooler. Very professional, fast, and friendly staff—highly recommend them to anyone
   - name: "Udham Singh"
     rating: 5
-    comment: "⭐⭐⭐⭐⭐ Professional & Clean Work  Got my vehicle tinted here and I’m really happy with the results. The work is clean, professional, and perfectly done—no bubbles or edges. The staff was friendly, explained everything clearly, and finished on time. Highly recommend this place for anyone looking for quality window tinting."
+    comment: |
+      ⭐⭐⭐⭐⭐ Professional & Clean Work
+      
+      Got my vehicle tinted here and I’m really happy with the results.
+      The work is clean, professional, and perfectly done—no bubbles or edges.
+      The staff was friendly, explained everything clearly, and finished on time.
+      Highly recommend this place for anyone looking for quality window tinting.
   - name: "Two 49"
     rating: 5
-    comment: "Sleek, dark, and perfectly done! 💯 New tint, who dis? Loving the look! Beat the heat in style. 😎 Shade done right. Instant upgrade for my ride."
+    comment: |
+      Sleek, dark, and perfectly done! 💯
+      New tint, who dis? Loving the look!
+      Beat the heat in style. 😎
+      Shade done right.
+      Instant upgrade for my ride.
   - name: "NUR ADAM"
     rating: 5
-    comment: "They give Very nice service and budget friendly highly recommended. Nice guys as well"
+    comment: |
+      They give Very nice service and budget friendly highly recommended.
+      Nice guys as well
+hours:
+  monday: "9:00 AM–8:00 PM"
+  tuesday: "9:00 AM–8:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–8:00 PM"
+  saturday: "9:00 AM–8:00 PM"
+  sunday: "9:00 AM–6:00 PM"
 ---

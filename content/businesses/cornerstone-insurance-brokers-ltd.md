@@ -11,16 +11,16 @@ phone: "(780) 489-8080"
 website: "http://www.cornerstoneins.ca/"
 google_maps_url: "https://maps.google.com/?cid=17358010312058596975&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:30 AM - 4:30 PM"
-  tuesday: "8:30 AM - 4:30 PM"
-  wednesday: "8:30 AM - 4:30 PM"
-  thursday: "8:30 AM - 4:30 PM"
-  friday: "8:30 AM - 4:30 PM"
+  monday: "8:30 AM–4:30 PM"
+  tuesday: "8:30 AM–4:30 PM"
+  wednesday: "8:30 AM–4:30 PM"
+  thursday: "8:30 AM–4:30 PM"
+  friday: "8:30 AM–4:30 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/cornerstone-insurance-brokers-ltd-1.jpg", "/photos/cornerstone-insurance-brokers-ltd-2.jpg", "/photos/cornerstone-insurance-brokers-ltd-3.jpg"]
 rating: 4.9
-review_count: 703
+review_count: 706
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,14 @@ tags: ["edmonton", "insurance"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Christopher Aquino"
+    rating: 5
+    comment: |
+      I had an excellent experience working with Kyla for my business car insurance for Siam Thai Kitchen. She was incredibly professional, knowledgeable, and patient throughout the entire process. Kyla took the time to explain all of my options, answered all of my questions, and made sure I found the right coverage for my business needs.
+      
+      Her outstanding customer service made the process simple and stress-free. I truly appreciate her dedication and willingness to help. I highly recommend Kyla to anyone looking for reliable and trustworthy insurance assistance.
+      
+      Thank you, Kyla, for your exceptional service!
   - name: "Silvia Stantieru"
     rating: 5
     comment: |
@@ -49,10 +57,4 @@ reviews:
     rating: 5
     comment: |
       We have been very impressed with the quotes we have gotten for our automobile and home insurance through Cornerstone Insurance. Ann Suliaman is very helpful, knowledgeable, and so great to speak to a “person”.  Ann also provided us with a substantial discount on our automobile insurance, thank you Ann!  Highly recommended and will definitely do business with Cornerstone in the future.
-  - name: "Mike M"
-    rating: 5
-    comment: |
-      I recently needed to secure insurance for my corporation and came across Cornerstone Insurance. I was connected with Briana, their Commercial Lines Account Manager, and she made the entire process incredibly clear, transparent, rapid, and easy.
-      
-      Commercial insurance can often feel overwhelming, but Briana’s expertise and streamlined approach stripped away all the complexity. A big thank you to Briana for the great service, I highly recommend reaching out to her for your business insurance needs!
 ---

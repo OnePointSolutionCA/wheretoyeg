@@ -11,16 +11,16 @@ phone: "(780) 705-8181"
 website: "https://catchoftheweekedmonton.com/"
 google_maps_url: "https://maps.google.com/?cid=17901930392889692502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 7:00 PM"
-  tuesday: "10:00 AM - 7:00 PM"
-  wednesday: "10:00 AM - 7:00 PM"
-  thursday: "9:00 AM - 8:00 PM"
-  friday: "9:00 AM - 8:00 PM"
-  saturday: "9:00 AM - 6:00 PM"
-  sunday: "10:00 AM - 6:00 PM"
+  monday: "10:00 AM–7:00 PM"
+  tuesday: "10:00 AM–7:00 PM"
+  wednesday: "10:00 AM–7:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–8:00 PM"
+  saturday: "9:00 AM–6:00 PM"
+  sunday: "10:00 AM–6:00 PM"
 photos: ["/photos/catch-of-the-week-1.jpg", "/photos/catch-of-the-week-2.jpg", "/photos/catch-of-the-week-3.jpg"]
 rating: 4.3
-review_count: 601
+review_count: 610
 price_range: "$$"
 amenities:
   - "Takeout"
@@ -31,6 +31,10 @@ tags: ["edmonton", "seafood"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Gerald S"
+    rating: 5
+    comment: |
+      Nice clean, well appointed store. The only place I will go from now on for all my seafood needs. Had the in house fish ( halibut as pictured) and chips, mussels  and the special of the day pasta with shrimp and scallops. All food was very good and reasonably priced. Staff were very friendly and helpful. Be sure to ask about their VIP membership, which I think is a great deal. Solid 5/5 for this place.
   - name: "Aaron Turpin"
     rating: 4
     comment: |
@@ -57,8 +61,4 @@ reviews:
     rating: 5
     comment: |
       Amazing customer service and incredible selection! All farmed fish confirmed organic and none of the beef is cloned meat. I'm about to be a regular! Oh and fresh sushi bar with tastiest rolls and poke bowls!! Available for pick-up too! Just wow!
-  - name: "Abigail Harness"
-    rating: 5
-    comment: |
-      My husband and I visited on Canada day- the staff were all kind and attentive! A person in rose/purple tinted glasses welcomed us as first time customers and made sure we had a flyer. Another employee helped get our oysters- they showed us how to verify they were good, showed us shucking accessories at different price points and gave us a demo. Very clean and great selection.
 ---

@@ -16,17 +16,32 @@ photos:
 reviews:
   - name: "Zenovia Moroz"
     rating: 5
-    comment: "Late Friday night we were driving back to Edmonton from Buck Lake. We were hungry, tired and craving Donairs. We stopped here 30 minutes before they closed and it did not disappoint. The Donairs were regular size but filled as full as they could be. The flavor of the meat was awesome. Perfectly seasoned with a hint of heat. The proprieter was very friendly and quick. We were so impressed with the flavor we are already planning to go out to Spruce Grove the next time we want a Donair."
+    comment: |
+      Late Friday night we were driving back to Edmonton from Buck Lake. We were hungry, tired and craving Donairs. We stopped here 30 minutes before they closed and it did not disappoint. The Donairs were regular size but filled as full as they could be. The flavor of the meat was awesome. Perfectly seasoned with a hint of heat. The proprieter was very friendly and quick. We were so impressed with the flavor we are already planning to go out to Spruce Grove the next time we want a Donair.
   - name: "Roba Lakou"
     rating: 1
-    comment: "Jumbo Donair was small, About the size of a regular donair over priced. 22 dollars for a Jumbo Donair Combo, with Fries and a drink. Only options for fries were small or large, no regular sized fries. My friend got cheese on his donair and the cheese wasnt even melted. Also the meat was in a warmer, it wasn't even cooked in a pan. As well as the Fries. The seating is terrible, with small thin tables, you would be touching faces if you were to sit across from some one. Toilet was out of order, an"
+    comment: |
+      Jumbo Donair was small, About the size of a regular donair over priced. 22 dollars for a Jumbo Donair Combo, with Fries and a drink. Only options for fries were small or large, no regular sized fries. My friend got cheese on his donair and the cheese wasnt even melted. Also the meat was in a warmer, it wasn't even cooked in a pan. As well as the Fries. The seating is terrible, with small thin tables, you would be touching faces if you were to sit across from some one. Toilet was out of order, and the customer service sucked. This place needs a huge renovation and staff change. Would not recommend, ever.
   - name: "Jenna Mulderrig"
     rating: 1
-    comment: "I was charged $41 for 1 large pizza on uber eats , called busters pizza and the manager told me there wasn’t anything he could do for me . Yet he made sure to send me a flyer with my pizza showing you can get two large pizzas for $39!"
+    comment: |
+      I was charged $41 for 1 large pizza on uber eats , called busters pizza and the manager told me there wasn’t anything he could do for me . Yet he made sure to send me a flyer with my pizza showing you can get two large pizzas for $39!
   - name: "B Fr"
     rating: 1
-    comment: "Ordered food for 6pm. Got called at 550pm to tell me he was here with the food. He called once, within 30 seconds he left. 20 minutes later he is still not back. Been going here for years but might have to switch now because this is not okay. $60 for cold food"
-  - name: "Marty Weishaupt"
+    comment: |
+      Ordered food for 6pm.
+      Got called at 550pm to tell me he was here with the food.
+      He called once, within 30 seconds he left. 20 minutes later he is still not back. Been going here for years but might have to switch now because this is not okay. $60 for cold food
+  - name: "Leigh Gaedig"
     rating: 5
-    comment: "An easy choice whether feeling snacky or planning a dinner with the neighbors! Never had a bad product from Buster's and they are always so friendly and easy to order from! AAAA++++"
+    comment: |
+      The food was excellent and the service was awesome. I initially made a mistake on my pick up time but they changed it for me no questions asked. I really appreciated that the person I spoke to was kind about it!
+hours:
+  monday: "11:00 AM–10:00 PM"
+  tuesday: "11:00 AM–10:00 PM"
+  wednesday: "11:00 AM–11:00 PM"
+  thursday: "11:00 AM–11:00 PM"
+  friday: "11:00 AM–12:00 AM"
+  saturday: "11:00 AM–12:00 AM"
+  sunday: "12:00 PM–10:00 PM"
 ---

@@ -11,16 +11,16 @@ phone: "(780) 907-4119"
 website: "https://edmontonaffordablemoving.com/"
 google_maps_url: "https://maps.google.com/?cid=25622821877682042&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM - 10:00 PM"
-  tuesday: "7:00 AM - 10:00 PM"
-  wednesday: "7:00 AM - 10:00 PM"
-  thursday: "7:00 AM - 10:00 PM"
-  friday: "7:00 AM - 10:00 PM"
-  saturday: "7:00 AM - 10:00 PM"
-  sunday: "7:00 AM - 10:00 PM"
+  monday: "7:00 AM–10:00 PM"
+  tuesday: "7:00 AM–10:00 PM"
+  wednesday: "7:00 AM–10:00 PM"
+  thursday: "7:00 AM–10:00 PM"
+  friday: "7:00 AM–10:00 PM"
+  saturday: "7:00 AM–10:00 PM"
+  sunday: "7:00 AM–10:00 PM"
 photos: ["/photos/edmonton-affordable-moving-1.jpg", "/photos/edmonton-affordable-moving-2.jpg", "/photos/edmonton-affordable-moving-3.jpg"]
 rating: 4.9
-review_count: 531
+review_count: 541
 price_range: "$$$$"
 amenities:
 

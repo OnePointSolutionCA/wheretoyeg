@@ -11,12 +11,12 @@ phone: "(780) 452-1145"
 website: "http://divinecreationscatering.ca/"
 google_maps_url: "https://maps.google.com/?cid=3641089411054221005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "6:00 AM - 4:00 PM"
-  tuesday: "6:00 AM - 4:00 PM"
-  wednesday: "6:00 AM - 4:00 PM"
-  thursday: "6:00 AM - 4:00 PM"
-  friday: "6:00 AM - 4:00 PM"
-  saturday: "9:00 AM - 5:00 PM"
+  monday: "6:00 AM–4:00 PM"
+  tuesday: "6:00 AM–4:00 PM"
+  wednesday: "6:00 AM–4:00 PM"
+  thursday: "6:00 AM–4:00 PM"
+  friday: "6:00 AM–4:00 PM"
+  saturday: "9:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/divine-creations-catering-ltd-1.jpg", "/photos/divine-creations-catering-ltd-2.jpg", "/photos/divine-creations-catering-ltd-3.jpg"]
 rating: 4.7

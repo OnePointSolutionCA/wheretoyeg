@@ -12,16 +12,16 @@ phone: "(780) 449-5838"
 website: "https://clubpilates.com/location/meadowlark"
 google_maps_url: "https://maps.google.com/?q=Club+Pilates+Meadowlark+Edmonton"
 hours:
-  monday: "6:00 AM - 8:00 PM"
-  tuesday: "6:00 AM - 8:00 PM"
-  wednesday: "6:00 AM - 8:00 PM"
-  thursday: "6:00 AM - 8:00 PM"
-  friday: "6:00 AM - 6:00 PM"
-  saturday: "7:00 AM - 12:00 PM"
-  sunday: "8:00 AM - 12:00 PM"
+  monday: "6:00 AM–9:00 PM"
+  tuesday: "6:00 AM–8:00 PM"
+  wednesday: "6:00 AM–8:30 PM"
+  thursday: "6:00 AM–9:00 PM"
+  friday: "9:00 AM–2:00 PM"
+  saturday: "8:00 AM–3:00 PM"
+  sunday: "8:00 AM–4:00 PM"
 photos: ["/photos/club-pilates-meadowlark-1.jpg", "/photos/club-pilates-meadowlark-2.jpg", "/photos/club-pilates-meadowlark-3.jpg"]
-rating: 4.5
-review_count: 20
+rating: 3.9
+review_count: 17
 price_range: "$$"
 amenities:
   - "Class-Based"

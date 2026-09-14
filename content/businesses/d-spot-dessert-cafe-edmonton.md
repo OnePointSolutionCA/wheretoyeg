@@ -11,16 +11,16 @@ phone: "(780) 752-2022"
 website: "http://www.dspotdessert.com/"
 google_maps_url: "https://maps.google.com/?cid=416175969182601462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "1:00 PM - 12:00 AM"
-  tuesday: "1:00 PM - 12:00 AM"
-  wednesday: "1:00 PM - 12:00 AM"
-  thursday: "1:00 PM - 12:00 AM"
-  friday: "1:00 PM - 2:00 AM"
-  saturday: "1:00 PM - 2:00 AM"
-  sunday: "1:00 PM - 12:00 AM"
+  monday: "1:00 PM–12:00 AM"
+  tuesday: "1:00 PM–12:00 AM"
+  wednesday: "1:00 PM–12:00 AM"
+  thursday: "1:00 PM–12:00 AM"
+  friday: "1:00 PM–2:00 AM"
+  saturday: "1:00 PM–2:00 AM"
+  sunday: "1:00 PM–12:00 AM"
 photos: ["/photos/d-spot-dessert-cafe-edmonton-1.jpg", "/photos/d-spot-dessert-cafe-edmonton-2.jpg", "/photos/d-spot-dessert-cafe-edmonton-3.jpg"]
 rating: 4.8
-review_count: 11495
+review_count: 11621
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -30,6 +30,13 @@ tags: ["edmonton", "dessert-cafes"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Gail Richards"
+    rating: 5
+    comment: |
+      D Spot definitely knows how to make a sweet tooth happy! 🍰 We tried the milk cake, Biscoff cookie with vanilla ice cream, and the “I’m Interested in You” roll — and honestly, our only problem was having to choose a favorite! 😂 Everything was delicious, indulgent, and beautifully served.
+      Huge shoutout to our server Zoya, who made the experience even sweeter with her friendly and attentive service. ⭐️⭐️⭐️⭐️⭐️
+      
+      Dessert was 10/10, service was 10/10, and Zoya deserves extra points for keeping up with our dessert decisions! Highly recommend! 🍪🍦✨
   - name: "Tricia Young"
     rating: 5
     comment: |
@@ -54,15 +61,4 @@ reviews:
     comment: |
       It’s my favourite spot in Edmonton now!)
       The waffles were absolutely delicious! Judy was awesome too, so friendly and welcoming, and she made the whole experience even better. we would definitely come back again.
-  - name: "Desire Uba"
-    rating: 5
-    comment: |
-      This is my favourite dessert spot in Edmonton so far hands down!
-      The place is so pretty and the attendants were the best.
-      The menu is extensive and everything we had was delicious- perfectly balanced.
-      If you need Halal food, this place is good for that and I believe they have vegan options as well.
-      
-      As someone who’s lived across Europe, this is the closest thing I’ve found to remind me about the beauty of European dessert here in North America.
-      
-      I highly recommend and will be back! I literally have no notes.
 ---

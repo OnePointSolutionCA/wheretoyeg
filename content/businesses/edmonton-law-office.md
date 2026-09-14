@@ -11,16 +11,16 @@ phone: "(780) 784-6666"
 website: "https://www.edmontonlawoffice.ca/?utm_source=gmb&utm_medium=organic"
 google_maps_url: "https://maps.google.com/?cid=17223590126417486824&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:30 AM - 5:00 PM"
-  tuesday: "8:30 AM - 5:00 PM"
-  wednesday: "8:30 AM - 5:00 PM"
-  thursday: "8:30 AM - 5:00 PM"
-  friday: "8:30 AM - 5:00 PM"
+  monday: "8:30 AM–5:00 PM"
+  tuesday: "8:30 AM–5:00 PM"
+  wednesday: "8:30 AM–5:00 PM"
+  thursday: "8:30 AM–5:00 PM"
+  friday: "8:30 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/edmonton-law-office-1.jpg", "/photos/edmonton-law-office-2.jpg", "/photos/edmonton-law-office-3.jpg"]
 rating: 4.7
-review_count: 613
+review_count: 611
 price_range: "$$"
 amenities:
 
@@ -28,15 +28,6 @@ tags: ["edmonton", "legal"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Tamara Beaudry"
-    rating: 5
-    comment: |
-      From start to finish, my experience with Edmonton Law Office was absolutely outstanding!
-      My first interaction was with Melonia, who took the time to answer all of my initial questions before I had even officially become a client. As a first time home buyer I had a lot of questions, and she was incredibly kind, patient, understanding, and quick to respond. She made me feel comfortable right from the beginning and quoted me a really great price for the costs associated with purchasing my new condo. There were no surprises, and I really appreciated how upfront and honest the entire process was.
-      Melonia recommended that I work with Belal, and I couldn't be happier that she did. Belal is an exceptional lawyer. On the day we signed all of the closing documents, he took the time to go through everything thoroughly and explained each document in detail with me. He was friendly and Kind! Knowing that I was a first time buyer, he made sure I understood every step of the process and answered all of my questions with patience and professionalism.
-      Everything was handled swiftly, and my possession date and key handover went incredibly smoothly. Buying a home can be stressful, but Belal and the entire team made the legal side of the process feel easy and well organized.
-      Belal is knowledgeable, professional, personable, and genuinely cares about his clients. Combined with Melonia's outstanding customer service, they make an incredible team.
-      I will be recommending Belal, Melonia, and everyone at Edmonton Law Office to all of my friends and family. Thank you for going above and beyond to make my first home purchase such a positive experience. I truly couldn't have asked for better representation!
   - name: "Kamy"
     rating: 5
     comment: |
@@ -63,4 +54,8 @@ reviews:
       Her guidance gave me peace of mind and made the application process much less stressful. I highly recommend Attorney Jessette Apao to anyone looking for reliable and trustworthy immigration assistance.
       
       Thank you for your excellent service and support! 😊
+  - name: "Jeff Ross"
+    rating: 5
+    comment: |
+      I am extremely satisfied with Jessette's expertise in making my mom her will, power of attorney,  and personal directive.  She has lots of experience in making these documents and knows what she's doing. She answered all of our questions in a kind and understanding manner. She replied quickly to all of our emails, despite being very busy with other matters, which, to me, showed that she really cares. Jessette is an amazing, understanding, caring and knowledgeable lawer. I'd recommend her services to anyone who needs help with making these documents, 10/10!
 ---

@@ -11,16 +11,16 @@ phone: "(780) 802-3161"
 website: "https://www.edmontonjunkremovalandgarbagebinrentals.com/"
 google_maps_url: "https://maps.google.com/?cid=861102923313856557&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "Open 24 hours"
-  tuesday: "Open 24 hours"
-  wednesday: "Open 24 hours"
-  thursday: "Open 24 hours"
-  friday: "Open 24 hours"
-  saturday: "Open 24 hours"
-  sunday: "Open 24 hours"
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/edmonton-junk-removal-garbage-bin-rentals-1.jpg", "/photos/edmonton-junk-removal-garbage-bin-rentals-2.jpg", "/photos/edmonton-junk-removal-garbage-bin-rentals-3.jpg"]
 rating: 5
-review_count: 384
+review_count: 391
 price_range: "$$"
 amenities:
 
@@ -43,12 +43,12 @@ reviews:
     rating: 5
     comment: |
       Super happy with the service! Scheduling was quick and easy, they arrived early, had great communication the whole time, and their pricing was more than fair. They made the whole process stress-free. I’ll definitely be using them again and would absolutely recommend them!
-  - name: "Robert"
-    rating: 5
-    comment: |
-      This service was absolutely amazing! I can't say enough good things about Kris and her team. They were professional, respectful, polite, and incredibly efficient. We had an unbelievable amount of junk to remove, and they had everything loaded up in about an hour. They were thorough from start to finish, and the pricing was very fair with no surprises - you know exactly what the cost will be upfront. I highly recommend them to anyone looking for reliable junk removal. Thanks again for the outstanding service!
   - name: "LANI"
     rating: 5
     comment: |
       Quick response, same day service and reasonable rate. Couldn’t be happier with the experience. Kris and her team did excellent job. Fast and efficient. Highly temcoomend.
+  - name: "Grant Currie"
+    rating: 5
+    comment: |
+      What a simple, effective and affordable service. Kris and the team got back to us within minutes of the request and even offered to meet our schedule same day. Constant communication made it easy for us to put the stuff out front for a pickup when we were out. These options plus the photo option allowed us to go from quote to done in hours. Very much appreciated and recommended
 ---

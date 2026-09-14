@@ -15,17 +15,31 @@ photos:
 reviews:
   - name: "Arash Dalio"
     rating: 5
-    comment: "My truck broke down unexpectedly and I called this mobile mechanic—he showed up quickly and got me back on the road in no time. Very professional, knowledgeable, and honest. Highly recommend!"
+    comment: |
+      My truck broke down unexpectedly and I called this mobile mechanic—he showed up quickly and got me back on the road in no time. Very professional, knowledgeable, and honest. Highly recommend!
   - name: "Peeta Dhadda"
     rating: 5
-    comment: "Highly recommend fast response nd service. Too much knowledge. Best truck mechanic Edmonton area.🇨🇦"
+    comment: |
+      Highly recommend fast response nd service. Too much knowledge. Best truck mechanic Edmonton area.🇨🇦
   - name: "Pradeep Kajal"
     rating: 5
-    comment: "Great service, Good price,  Have great knowledge of Truck Engines,Highly Recommend 👍🏻"
+    comment: |
+      Great service, Good price,  Have great knowledge of Truck Engines,Highly Recommend 👍🏻
   - name: "William Sullivan"
     rating: 5
-    comment: "Came out as soon as possible, and got truck going ,much appreciated well worth it"
+    comment: |
+      Came out as soon as possible, and got truck going ,much appreciated well worth it
   - name: "Jijo Antony"
     rating: 5
-    comment: "Brought my 2004 14.0L Series 60 in to CMP Truck & Diesel Ltd. for a complete overhead valve and injector adjustment. The technician, Mandeep, handled the job and did absolutely flawless work. He knows these heavy-duty diesel engines inside and out, especially when it comes to precision timing and setting the high-lift camshaft profiles accurately to factory specs. The truck runs incredibly smooth, crisp, and pulls hard. If you want a shop that understands the tight technical realities of heavy i"
+    comment: |
+      Brought my 2004 14.0L Series 60 in to CMP Truck & Diesel Ltd. for a complete overhead valve and injector adjustment. The technician, Mandeep, handled the job and did absolutely flawless work. He knows these heavy-duty diesel engines inside and out, especially when it comes to precision timing and setting the high-lift camshaft profiles accurately to factory specs.
+      The truck runs incredibly smooth, crisp, and pulls hard. If you want a shop that understands the tight technical realities of heavy industrial diesel work and delivers honest, top-tier service, go see Mandeep at CMP. Highly recommended!
+hours:
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 ---

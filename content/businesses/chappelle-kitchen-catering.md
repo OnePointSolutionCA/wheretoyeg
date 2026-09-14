@@ -11,16 +11,16 @@ phone: "(780) 200-8108"
 website: "https://chappellecatering.ca/"
 google_maps_url: "https://maps.google.com/?cid=5205758626290550949&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "8:00 AM - 5:00 PM"
-  tuesday: "8:00 AM - 5:00 PM"
-  wednesday: "8:00 AM - 5:00 PM"
-  thursday: "8:00 AM - 5:00 PM"
-  friday: "8:00 AM - 5:00 PM"
+  monday: "8:00 AM–5:00 PM"
+  tuesday: "8:00 AM–5:00 PM"
+  wednesday: "8:00 AM–5:00 PM"
+  thursday: "8:00 AM–5:00 PM"
+  friday: "8:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/chappelle-kitchen-catering-1.jpg", "/photos/chappelle-kitchen-catering-2.jpg", "/photos/chappelle-kitchen-catering-3.jpg"]
 rating: 4.9
-review_count: 259
+review_count: 261
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,11 @@ tags: ["edmonton", "wedding-catering"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "R A"
+    rating: 5
+    comment: |
+      10/10 food. Was at a wedding and the food was absolutely amazing, and the catering team did an impressive job given the circumstances. They came across as a lovely, hardworking family-run business that clearly takes a lot of pride in what they do.
+      I would recommend this caterer for anyone looking for delicious food and a team that genuinely tries their best.
   - name: "Ahmedd Ezz"
     rating: 5
     comment: |
@@ -45,8 +50,4 @@ reviews:
     rating: 5
     comment: |
       Aya and the entire Chappelle Kitchen Catering team were an absolute pleasure to work with! She was super helpful in making meal recommendations for my party size. The delicious food and beautiful presentation were an absolute hit for the guests the day of the party. I am looking forward to working with Aya and her team in the future! Thanks so much, Aya!
-  - name: "Lindsay Giles"
-    rating: 5
-    comment: |
-      Aya went above and beyond to prepare a beautiful meal for approximately 30 of my colleagues. I wasn’t sure I had collected enough funds to order a meal large enough but she managed to work with my budget and delivered an incredible feast with generous portion sizes. I was shocked when she sent photos of the spread and I’m so grateful for her kindness. Thank you will never be enough Aya!
 ---

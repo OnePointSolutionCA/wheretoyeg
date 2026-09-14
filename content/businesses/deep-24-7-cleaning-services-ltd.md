@@ -15,17 +15,32 @@ photos:
 reviews:
   - name: "Ghuman Kulwinder"
     rating: 5
-    comment: "★★★★★ Excellent mat cleaning service! Fast, thorough, and my rugs look brand new. The team at Deep24/7 cleaning services Ltd was courteous and careful with my furniture too. Highly recommend in Edmonton. Thank you"
+    comment: |
+      ★★★★★
+      Excellent mat cleaning service! Fast, thorough, and my rugs look brand new. The team at Deep24/7 cleaning services Ltd was courteous and careful with my furniture too. Highly recommend in Edmonton.
+      Thank you
   - name: "Megan Emslie"
     rating: 5
-    comment: "Highly recommend! They were able to help out on very short notice and did an amazing job. Communication was amazing, and the team was so friendly and easy to deal with. Great service from start to finish!"
+    comment: |
+      Highly recommend! They were able to help out on very short notice and did an amazing job. Communication was amazing, and the team was so friendly and easy to deal with. Great service from start to finish!
   - name: "shereenpretika"
     rating: 5
-    comment: "I needed a very late notice deep cleaning and they were promptly available the next morning! Very pleased with the service, communication and efficiency! I definitely will be saving their number for my next clean! Thank you!"
-  - name: "Sweta Gohil"
-    rating: 5
-    comment: "Really good cleaning service. Flexible with timing and left our house smelling amazing."
+    comment: |
+      I needed a very late notice deep cleaning and they were promptly available the next morning! Very pleased with the service, communication and efficiency! I definitely will be saving their number for my next clean! Thank you!
   - name: "Sandeep Dhanoa"
     rating: 5
-    comment: "“They did an amazing deep cleaning job. Stubborn stains and dust that I couldn’t remove are completely gone. My place feels brand new!”"
+    comment: |
+      “They did an amazing deep cleaning job. Stubborn stains and dust that I couldn’t remove are completely gone. My place feels brand new!”
+  - name: "Sweta Gohil"
+    rating: 5
+    comment: |
+      Really good cleaning service. Flexible with timing and left our house smelling amazing.
+hours:
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 ---

@@ -11,16 +11,16 @@ phone: "(780) 439-7546"
 website: "http://edmontonderm.ca/"
 google_maps_url: "https://maps.google.com/?cid=10993873531616397876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:30 AM - 4:30 PM"
-  tuesday: "7:30 AM - 4:30 PM"
-  wednesday: "7:30 AM - 4:30 PM"
-  thursday: "7:30 AM - 4:30 PM"
-  friday: "7:30 AM - 4:30 PM"
+  monday: "7:30 AM–4:30 PM"
+  tuesday: "7:30 AM–4:30 PM"
+  wednesday: "7:30 AM–4:30 PM"
+  thursday: "7:30 AM–4:30 PM"
+  friday: "7:30 AM–4:30 PM"
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/edmonton-dermatology-cosmetic-skin-surgery-centre-1.jpg", "/photos/edmonton-dermatology-cosmetic-skin-surgery-centre-2.jpg", "/photos/edmonton-dermatology-cosmetic-skin-surgery-centre-3.jpg"]
 rating: 4.7
-review_count: 193
+review_count: 194
 price_range: "$$"
 amenities:
 
@@ -44,12 +44,12 @@ reviews:
     rating: 5
     comment: |
       I've had several exams and treatments at Edmonton Dermatology over the past few years and have always been impressed by the friendly, attentive professionalism of the staff. Their care and vigilance give me confidence - both in early detection of potential issues and in their thoughtful support as I now work toward aging a bit more gracefully.
-  - name: "Ashley Pyper"
-    rating: 5
-    comment: |
-      I have seen Eva for 3 Fraxel Laser sessions. She is very thorough and knowledgeable. She carefully goes through each step of the process and makes sure you are comfortable. I would recommend her for Fraxel Treatment to others ⭐️⭐️⭐️⭐️⭐️
   - name: "Ellen Cunningham"
     rating: 5
     comment: |
       I have seen Dr Taher and Dr Okihiro and both are excellent. I have had treatments with Eva and she is very experienced, gives good advice, and is very skilled with laser treatments. I highly recommend.
+  - name: "Nancy Manke"
+    rating: 5
+    comment: |
+      My partner had a procedure done with Dr Taher and his nurse Ai.  The whole experience from first appointment to surgery was handled very professionally.   All questions were answered.   Dr Taher was extremely skilled, knowledgeable and kind.  Such a pleasure to deal with. Ai was thorough professional and very kind as well.  My partner is extremely happy with the results and says thank you to all the staff but especially to Dr Taher and Ai for treating him so well.   We highly recommend this clinic and especially Dr Taher and Ai.   Thank you both so very much for everything you did to help us
 ---

@@ -15,12 +15,12 @@ hours:
   tuesday: "Closed"
   wednesday: "Closed"
   thursday: "Closed"
-  friday: "10:00 AM - 4:00 PM"
-  saturday: "9:00 AM - 4:00 PM"
-  sunday: "10:00 AM - 4:00 PM"
+  friday: "10:00 AM–4:00 PM"
+  saturday: "9:00 AM–4:00 PM"
+  sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/bountiful-farmers-market-1.jpg", "/photos/bountiful-farmers-market-2.jpg", "/photos/bountiful-farmers-market-3.jpg"]
 rating: 4.6
-review_count: 2530
+review_count: 2536
 price_range: "$$"
 amenities:
 

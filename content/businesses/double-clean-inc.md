@@ -11,16 +11,16 @@ phone: "(780) 868-2428"
 website: "https://www.doubleclean.ca/?utm_source=GMBlisting&utm_medium=organic"
 google_maps_url: "https://maps.google.com/?cid=626205043302439895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "Open 24 hours"
-  tuesday: "Open 24 hours"
-  wednesday: "Open 24 hours"
-  thursday: "Open 24 hours"
-  friday: "Open 24 hours"
-  saturday: "Open 24 hours"
-  sunday: "Open 24 hours"
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/double-clean-inc-1.jpg", "/photos/double-clean-inc-2.jpg", "/photos/double-clean-inc-3.jpg"]
 rating: 4.7
-review_count: 197
+review_count: 199
 price_range: "$$"
 amenities:
 
@@ -64,8 +64,8 @@ reviews:
       I had a great experience with Double Clean Inc. From the initial booking to the completed service, everything was professional and well organized. The team arrived on time, paid attention to the details, and left the space looking spotless. They were friendly, efficient, and clearly take pride in the quality of their work.
       
       It's hard to find a cleaning company that's both reliable and consistent, but Double Clean delivered exactly what they promised. I would definitely recommend them to anyone looking for residential or commercial cleaning services in Edmonton, and I'll be using them again in the future.
-  - name: "Sarah Ward"
+  - name: "Shane Maze"
     rating: 5
     comment: |
-      We started using Double Clean after cancelling our previous service due to poor work. We could not be happier with our choice. The employees arrive on time, work quickly, charge a reasonable price, and do excellent work. It is also very easy to book and re-schedule cleaning appointments. I highly recommend this business.
+      I was referred to this company and within minutes of contacting them, I received a response with a time and date for a move out clean. The staff were super friendly and did a fantastic job with their attention to detail leaving the house smelling so good and as clean as I’ve ever seen the house. I’d recommend them and plan on using them again.
 ---

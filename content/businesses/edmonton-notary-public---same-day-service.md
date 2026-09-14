@@ -11,10 +11,10 @@ phone: "(780) 851-5958"
 website: "http://edmonton-notary.ca/?utm_source=google&utm_medium=local&utm_campaign=1&utm_content=primary"
 google_maps_url: "https://maps.google.com/?cid=14447150494344183580&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM - 7:00 PM"
-  tuesday: "9:00 AM - 7:00 PM"
-  wednesday: "9:00 AM - 7:00 PM"
-  thursday: "9:00 AM - 7:00 PM"
+  monday: "9:00 AM–7:00 PM"
+  tuesday: "9:00 AM–7:00 PM"
+  wednesday: "9:00 AM–7:00 PM"
+  thursday: "9:00 AM–7:00 PM"
   friday: "Closed"
   saturday: "Closed"
   sunday: "Closed"
@@ -44,8 +44,8 @@ reviews:
     rating: 5
     comment: |
       I had a fantastic experience with Edmonton Notary Public. Rahman is polite, professional, quick, flexible and friendly. His fee structure is clearly outlined on the website so there are no unpleasant surprises. The process to have a document notarized is very easy and straightforward. I will definitely be using these services going forward and I highly recommend him.
-  - name: "Isa Khan"
+  - name: "Justin Hendrick"
     rating: 5
     comment: |
-      Really nice guy. Really patient. Understanding. Helpful. I arrived late and had a technical issue with printing files. Took nearly an hour of his time yet he was very relaxed and understanding. Has really quick service.
+      Fast, efficient, & straight to the point. I would highly recommend Rahman’s services.
 ---

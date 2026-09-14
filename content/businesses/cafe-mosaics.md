@@ -11,16 +11,16 @@ phone: "(780) 433-9702"
 website: "http://www.cafemosaics.com/"
 google_maps_url: "https://maps.google.com/?cid=7421820957197344810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 9:00 PM"
-  tuesday: "12:00 - 9:00 PM"
-  wednesday: "12:00 - 9:00 PM"
-  thursday: "12:00 - 9:00 PM"
-  friday: "11:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 9:00 PM"
-  sunday: "10:00 AM - 4:00 PM"
+  monday: "12:00 PM–9:00 PM"
+  tuesday: "12:00 PM–9:00 PM"
+  wednesday: "12:00 PM–9:00 PM"
+  thursday: "12:00 PM–9:00 PM"
+  friday: "11:00 AM–9:00 PM"
+  saturday: "10:00 AM–9:00 PM"
+  sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/cafe-mosaics-1.jpg", "/photos/cafe-mosaics-2.jpg", "/photos/cafe-mosaics-3.jpg"]
 rating: 4.4
-review_count: 1341
+review_count: 1345
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -58,8 +58,8 @@ reviews:
       Service is okay and the overall experience is pretty straightforward. The food is good and the brunch options stood out the most for me. Coffee is average, nothing bad but nothing especially memorable either. It is the kind of place you go when you want something easy and low key without big crowds.
       
       Overall, it is worth a try if you have already been to most of the cafes in the area and want a calm, relaxed spot to spend some time.
-  - name: "Sam D"
+  - name: "Noorpreet Kaur"
     rating: 5
     comment: |
-      Like a hug on a cold day. Packed with flavour and lots of options for food and beverages. Parking can be difficult, but you can find it if you look.  Everything is vegetarian, most things can be made vegan, and lots of gluten free options.
+      As a vegan, loveeddd their food. More concerned about the sole overworked server who was managing never ending calls, while also attending to table/guests throughout the entire cafe, communicating orders with the kitchen, and cleaning. Ya'll need another server up there, one person cannot be taking on that rush. 😬😬😬
 ---

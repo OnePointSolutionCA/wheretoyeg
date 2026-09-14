@@ -11,16 +11,16 @@ phone: "(587) 414-2509"
 website: "http://bouncyplanet.ca/"
 google_maps_url: "https://maps.google.com/?cid=16728729242313287297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM - 9:00 PM"
-  tuesday: "10:00 AM - 9:00 PM"
-  wednesday: "10:00 AM - 9:00 PM"
-  thursday: "10:00 AM - 9:00 PM"
-  friday: "10:00 AM - 9:00 PM"
-  saturday: "9:00 AM - 9:00 PM"
-  sunday: "9:00 AM - 9:00 PM"
+  monday: "10:00 AM–9:00 PM"
+  tuesday: "10:00 AM–9:00 PM"
+  wednesday: "10:00 AM–9:00 PM"
+  thursday: "10:00 AM–9:00 PM"
+  friday: "10:00 AM–9:00 PM"
+  saturday: "9:00 AM–9:00 PM"
+  sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/bouncy-planet-1.jpg", "/photos/bouncy-planet-2.jpg", "/photos/bouncy-planet-3.jpg"]
 rating: 4.9
-review_count: 2305
+review_count: 2317
 price_range: "$$"
 amenities:
 

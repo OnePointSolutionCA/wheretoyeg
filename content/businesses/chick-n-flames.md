@@ -12,15 +12,15 @@ website: "http://www.chicknflames.com/"
 google_maps_url: "https://maps.google.com/?cid=16489366411156157860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "12:00 - 9:00 PM"
-  wednesday: "12:00 - 9:00 PM"
-  thursday: "12:00 - 9:00 PM"
-  friday: "12:00 - 10:00 PM"
-  saturday: "12:00 - 10:00 PM"
-  sunday: "2:00 - 9:00 PM"
+  tuesday: "12:00 PM–9:00 PM"
+  wednesday: "12:00 PM–9:00 PM"
+  thursday: "12:00 PM–9:00 PM"
+  friday: "12:00 PM–10:00 PM"
+  saturday: "12:00 PM–10:00 PM"
+  sunday: "2:00 PM–9:00 PM"
 photos: ["/photos/chick-n-flames-1.jpg", "/photos/chick-n-flames-2.jpg", "/photos/chick-n-flames-3.jpg"]
 rating: 4.4
-review_count: 355
+review_count: 359
 price_range: "$"
 amenities:
   - "Halal"
@@ -31,6 +31,12 @@ tags: ["edmonton", "halal-chicken", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Jay"
+    rating: 5
+    comment: |
+      The chicken sandwich was really good — flavorful, fresh, and cooked well. I also tried the loaded fries, and they were delicious too. Everything had a lot of flavor without being overly greasy or heavy, which I really appreciated.
+      
+      The portion sizes were generous and satisfying, and overall the food was very enjoyable. Definitely a solid spot if you’re looking for a good chicken sandwich and loaded fries.
   - name: "Super Review Widget"
     rating: 5
     comment: |
@@ -82,14 +88,4 @@ reviews:
       When I went with the special burgers there were two and I got one with medium spice and one with high.  So I ate the “high level” one first.  It was awesome and I thought that I should have had them both at high.  But upon one bite into the “medium”, I figured out they had mislabelled the sandwiches in the wrong boxes.  It was so spicy I was drenched in sweat.  My eyes teared up and I couldn’t talk for a few moments.  Definitely not for me, that level of spice was crazy.
       
       Anyways, currently when I think of having a spicy chicken sandwich, Chick n Flames is for me.  At “medium” spice level please.
-  - name: "Moiz Adamji"
-    rating: 5
-    comment: |
-      Chick N Flames is a culinary gem that serves up a Nashville chicken sandwich combo that is nothing short of perfection.  Bonus points for being halal.  The **Cajun fries** are a standout, boasting a crispy exterior that gives way to a fluffy interior, each fry seasoned with just the right amount of spice to tantalize the taste buds without overwhelming them.
-      
-      The star of the show, however, is the **classic Nashville chicken sandwich**. The chicken is cooked to a golden-brown crisp, enveloping juicy, tender meat that falls apart with each bite. The dry spice blend used is a secret mix of heat and flavor, striking a delicate balance that is hard to find outside of Nashville itself.
-      
-      What truly sets Chick N Flames apart is their attention to detail. The inclusion of a small cup of ketchup, perfect for dipping, shows their commitment to customer satisfaction. It's these thoughtful touches that elevate the dining experience from good to great.
-      
-      In summary, Chick N Flames delivers an authentic Nashville flavor that is expertly crafted and served with a side of Southern hospitality. It's a must-visit for anyone craving a spicy kick paired with comfort food classics. **Highly recommended!**
 ---

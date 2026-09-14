@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "9710 137 Ave NW Unit 102, Edmonton, AB T5E 6W1"
 rating: 4.5
-review_count: 206
+review_count: 209
 tier: "featured"
 phone: "(780) 249-1122"
 website: "https://canadianpizzabroasterchicken.ca/menu-inkster.html"
@@ -14,19 +14,36 @@ google_maps: "https://maps.google.com/?cid=1007233599594086560&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/canadian-pizza-unlimited-100-halal.jpg"
 reviews:
+  - name: "Brock"
+    rating: 5
+    comment: |
+      The Northgate location has a great walk-in deal: a large 3-topping pizza for $14.99. You can call ahead or wait just 10 minutes for pick-up. It’s consistent quality, fast, and doesn't break the bank. When they made a slight mix-up on my order recently, I called after getting home and they made it right immediately with zero hassle. Great service—support your local Canadian businesses!
   - name: "Moe Sandouga"
     rating: 3
-    comment: "When ordering please indicate the real time for pick up. I get a notice that the pizza will be ready in 10 minutes. I show up, then had to wait for another 10-15 minutes. I don't mind the wait. Just provide the accurate time!"
+    comment: |
+      When ordering please indicate the real time for pick up. I get a notice that the pizza will be ready in 10 minutes. I show up, then had to wait for another 10-15 minutes. I don't mind the wait. Just provide the accurate time!
+  - name: "Cesar Santiago"
+    rating: 2
+    comment: |
+      You can tell how poor the way they prepare the food they are serving from the box they put it in, I bought 3 pizzas and wings on their greisbach location, Sauce stain all over the boxes is very visible as I grab them from the counter. Obviously the person who prepared it didn't even bothered to wash his hands.
   - name: "Foodey"
     rating: 5
-    comment: "“Great place! I bought a pizza slice and it was fresh, delicious, and reasonably priced. The man who served me was very friendly, polite, and provided excellent customer service. I had a great experience and will definitely come back. Highly recommended! 👍🍕”"
+    comment: |
+      “Great place! I bought a pizza slice and it was fresh, delicious, and reasonably priced. The man who served me was very friendly, polite, and provided excellent customer service. I had a great experience and will definitely come back. Highly recommended! 👍🍕”
   - name: "Laddi Sidhu"
     rating: 5
-    comment: "We ordered a large pizza along with wings and drinks, and honestly, it’s rare to find such an affordable combo these days.  The pizza tasted really good, with perfectly melted cheese and a nice balance of soft and crispy crust. The wings were juicy and well-cooked, not dry at all. The portion size was also quite satisfying.  Overall, the quality and taste were impressive for the price. We’ll definitely be ordering again."
-  - name: "Daniella Hak"
-    rating: 5
-    comment: "Amazing service always . When you walk in they are so kind and helpful . They will help you with meal deals for what you or your family needs . I’m happy to find this service because it rare . There portions are generous and very fresh and delicious. They comply with all food allergies and specifications. Which is important for my picky family . I tried uploading a video to show how delicious and fresh the food was but it didn’t work . Definitely my go to place . I also had my work company  try "
-  - name: "Ilynna"
-    rating: 3
-    comment: "My friend and I ordered off Uber Eats, I ordered a Meatzza and a Donair Poutine but received a regular poutine instead of the Donair Poutine.  The pizza was delicious, I’m just disappointed what I paid for was not what I received."
+    comment: |
+      We ordered a large pizza along with wings and drinks, and honestly, it’s rare to find such an affordable combo these days.
+      
+      The pizza tasted really good, with perfectly melted cheese and a nice balance of soft and crispy crust. The wings were juicy and well-cooked, not dry at all. The portion size was also quite satisfying.
+      
+      Overall, the quality and taste were impressive for the price. We’ll definitely be ordering again.
+hours:
+  monday: "11:00 AM–12:00 AM"
+  tuesday: "11:00 AM–12:00 AM"
+  wednesday: "11:00 AM–12:00 AM"
+  thursday: "11:00 AM–12:00 AM"
+  friday: "11:00 AM–2:00 AM"
+  saturday: "11:00 AM–2:00 AM"
+  sunday: "11:00 AM–12:00 AM"
 ---

@@ -11,16 +11,16 @@ phone: "(780) 481-6420"
 website: "https://www.wem.ca/play/attractions/eds-bowling"
 google_maps_url: "https://maps.google.com/?cid=8496579738672465494&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "4:00 - 10:00 PM"
-  tuesday: "4:00 - 10:00 PM"
-  wednesday: "4:00 - 10:00 PM"
-  thursday: "2:00 - 10:00 PM"
-  friday: "12:00 - 11:00 PM"
-  saturday: "12:00 - 11:00 PM"
-  sunday: "12:00 - 8:00 PM"
+  monday: "4:00 PM–10:00 PM"
+  tuesday: "4:00 PM–10:00 PM"
+  wednesday: "4:00 PM–10:00 PM"
+  thursday: "2:00 PM–10:00 PM"
+  friday: "12:00 PM–11:00 PM"
+  saturday: "12:00 PM–11:00 PM"
+  sunday: "12:00 PM–8:00 PM"
 photos: ["/photos/eds-bowling-1.jpg", "/photos/eds-bowling-2.jpg", "/photos/eds-bowling-3.jpg"]
 rating: 4
-review_count: 1034
+review_count: 1036
 price_range: "$$"
 amenities:
 

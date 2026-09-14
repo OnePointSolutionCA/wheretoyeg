@@ -11,13 +11,13 @@ phone: "(780) 444-5300"
 website: "https://www.wem.ca/play/attractions/dragons-tale"
 google_maps_url: "https://maps.google.com/?cid=514731996303457725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 - 9:00 PM"
-  tuesday: "12:00 - 9:00 PM"
-  wednesday: "12:00 - 9:00 PM"
-  thursday: "12:00 - 9:00 PM"
-  friday: "12:00 - 9:00 PM"
-  saturday: "10:00 AM - 9:00 PM"
-  sunday: "11:00 AM - 6:00 PM"
+  monday: "12:00 PM–9:00 PM"
+  tuesday: "12:00 PM–9:00 PM"
+  wednesday: "12:00 PM–9:00 PM"
+  thursday: "12:00 PM–9:00 PM"
+  friday: "12:00 PM–9:00 PM"
+  saturday: "10:00 AM–9:00 PM"
+  sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/dragons-tale-1.jpg", "/photos/dragons-tale-2.jpg", "/photos/dragons-tale-3.jpg"]
 rating: 3.9
 review_count: 350
@@ -58,16 +58,6 @@ reviews:
       The greens fees were high for what the course offered, especially considering the putter I was originally provided from the pro shop.
       
       OK overall.
-  - name: "J Roberts"
-    rating: 4
-    comment: |
-      This is a very family friendly (read easy) course that I'd recommend for anyone looking for a unique experience.
-      The artwork is fantastic and really enhances the experience.
-      Its a pretty easy course, with each hole mimicking the previous hole, but we were still entertained.
-      We had several ages with us playing, and it was fun for all of us (ages 50 down to 10).
-      The blacklight aspect really enhances the experience.
-      The staff was friendly and helpful.
-      The mirror maze, while very easy, is super fun for little kids and we enjoyed our brief go through there too.
   - name: "Rayne Tatyana"
     rating: 5
     comment: |
@@ -79,8 +69,22 @@ reviews:
     comment: |
       It's a fun mini golf. The dragon adventure theme is really cool. It's dark with the glow of black light and neon.
       If it is busy know it can take an hour to get though. Some holes have neat features that can slow the game. They are definitely fun but during busy days they become a bottle neck for groups.
-  - name: "MISTER L"
+  - name: "J Roberts"
+    rating: 4
+    comment: |
+      This is a very family friendly (read easy) course that I'd recommend for anyone looking for a unique experience.
+      The artwork is fantastic and really enhances the experience.
+      Its a pretty easy course, with each hole mimicking the previous hole, but we were still entertained.
+      We had several ages with us playing, and it was fun for all of us (ages 50 down to 10).
+      The blacklight aspect really enhances the experience.
+      The staff was friendly and helpful.
+      The mirror maze, while very easy, is super fun for little kids and we enjoyed our brief go through there too.
+  - name: "Liam Lind"
     rating: 5
     comment: |
-      Great little mini golf course. The holes are generally short and a bit simplistic but the artwork and care taken to decorate and design the course is fantastic. The blacklight feature is great! The littles were thrilled with the course overall and the two holes with the elevator/plinko feature were a huge hit!!
+      The course offered a generally simplistic design backed with some greens that proved to be quite  a challenge. Started off strong as my impeccable miniature golf skills shined on the first 9 of the course, while my girlfriends did not… she showed early on in the course that she rather send the ball off the greens instead of trying to get it in the hole (whether this was intentional or not I rather not find out) however as the golf went on her skills succeeded where mine failed but the beautiful scenery of the glow in the dark orcs and goblins and other whimsical creatures gave me the motivation to continue golfing even after my skills began to falter in the back 9 of this course.
+      
+      All in all its a great course if your looking for a fun time full of mythical glowing dwarves who stare at you as you shoot an atrocious double bogey on a rather easy par 3… only thing that would’ve made the experience better is if my girlfriend hadn’t have beaten me by shooting a far better round than I did.
+      
+      5 stars! Awesome sauce 🤯
 ---

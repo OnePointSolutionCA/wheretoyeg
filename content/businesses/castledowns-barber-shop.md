@@ -10,16 +10,16 @@ neighborhood: "Castle Downs"
 phone: "587-524-8885"
 google_maps_url: "https://maps.google.com/?q=Castledowns+Barber+Shop+Edmonton"
 hours:
-  monday: "9:00 AM - 7:00 PM"
-  tuesday: "9:00 AM - 7:00 PM"
-  wednesday: "9:00 AM - 7:00 PM"
-  thursday: "9:00 AM - 7:00 PM"
-  friday: "9:00 AM - 7:00 PM"
-  saturday: "9:00 AM - 6:00 PM"
-  sunday: "Closed"
+  monday: "9:30 AM–6:00 PM"
+  tuesday: "9:30 AM–6:00 PM"
+  wednesday: "9:30 AM–6:00 PM"
+  thursday: "9:30 AM–6:00 PM"
+  friday: "9:30 AM–6:00 PM"
+  saturday: "9:30 AM–5:00 PM"
+  sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/castledowns-barber-shop-1.jpg", "/photos/castledowns-barber-shop-2.jpg", "/photos/castledowns-barber-shop-3.jpg"]
-rating: 4.6
-review_count: 120
+rating: 4.8
+review_count: 147
 price_range: "$$"
 amenities:
   - "Walk-Ins"
