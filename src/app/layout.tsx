@@ -6,7 +6,7 @@ import { Footer } from "@/components/Footer";
 import { ScrollOrbs } from "@/components/ScrollOrbs";
 import { Analytics } from "@/components/Analytics";
 import type { SearchIndexItem } from "@/components/HeroSearch";
-import { getCategories } from "@/lib/content";
+import { getCategories, getBusinesses } from "@/lib/content";
 import { organizationSchema, siteSearchSchema, JsonLd } from "@/lib/schema-extra";
 import { SITE } from "@/lib/site";
 
@@ -114,6 +114,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       href: `/neighborhoods/${toSlug(n)}`,
       hint: "Neighborhood",
     })),
+    ...getBusinesses()
+      .filter((b) => b.tier === "premium")
+      .map((b) => ({
+        kind: "business" as const,
+        name: b.name,
+        href: `/${b.category}/${b.slug}`,
+        hint: `${b.neighborhood} · Premium`,
+      })),
   ];
   return (
     <html lang="en" className={inter.variable}>
