@@ -93,6 +93,7 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   const cats = getCategories();
   const navCategories = cats.map((c) => ({ name: c.name, slug: c.slug }));
+  const catBySlug: Record<string, string> = Object.fromEntries(cats.map((c) => [c.slug, c.name]));
   const searchIndex: SearchIndexItem[] = [
     ...cats.map((c) => ({
       kind: "category" as const,
@@ -114,14 +115,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       href: `/neighborhoods/${toSlug(n)}`,
       hint: "Neighborhood",
     })),
-    ...getBusinesses()
-      .filter((b) => b.tier === "premium")
-      .map((b) => ({
-        kind: "business" as const,
-        name: b.name,
-        href: `/${b.category}/${b.slug}`,
-        hint: `${b.neighborhood} · Premium`,
-      })),
+    ...getBusinesses().map((b) => ({
+      kind: "business" as const,
+      name: b.name,
+      href: `/${b.category}/${b.slug}`,
+      hint: `${catBySlug[b.category] ?? b.category} · ${b.neighborhood}`,
+    })),
   ];
   return (
     <html lang="en" className={inter.variable}>
