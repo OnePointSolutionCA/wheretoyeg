@@ -28,16 +28,6 @@ tags: ["edmonton", "escape-rooms"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Jenry Perico"
-    rating: 5
-    comment: |
-      Had an awesome time here! The staff were super nice and accommodating. We got there a little late because of the weather, but they still welcomed us and made sure we could enjoy the experience.
-      
-      The rooms were so much fun and definitely made us think. We didn’t expect all the cool tech they used, which made everything even more immersive. My wife and I came here to celebrate our anniversary, and we had a great time. The extra Polaroid photo was such a nice surprise and a really thoughtful touch. We’ll definitely be back!
-  - name: "Izzy Tompkins"
-    rating: 5
-    comment: |
-      Our first time doing an escape room & it was really fun, we didn't finish on time but they let us stay to finish it because no one was booked after us so that was awesome. They gave us a birthday discount so my kid got in for free which was awesome, although thier rates are REALLY affordable to begin with so we will definitely be back! One puzzle was crazy but we finally got it so just remember that memory skills will be EXTREMELY helpful. Logic & deduction are your best friends. (You can't have your phones in the rooms!)
   - name: "Melody Yu"
     rating: 5
     comment: |
@@ -46,13 +36,28 @@ reviews:
       The hosts were amazing. They were super friendly, fun, and welcoming, and they really added to the whole experience. They definitely contributed to us having our best run yet and made everything feel even more exciting and memorable.
       
       I would highly recommend this room if you are looking for something fun to do. You will not be disappointed!
+  - name: "Tracy Thai"
+    rating: 5
+    comment: |
+      My group of friends had a great time at GTFO! We are unfortunately not the brightest bunch, but David was really nice when giving us hints (which was very frequently 😂😭). We were also allowed to take more than one polaroid, which was lovely since one of the group members was visiting and wanted something to remember our time here by. Would definitely come again!
+  - name: "Jenry Perico"
+    rating: 5
+    comment: |
+      Had an awesome time here! The staff were super nice and accommodating. We got there a little late because of the weather, but they still welcomed us and made sure we could enjoy the experience.
+      
+      The rooms were so much fun and definitely made us think. We didn’t expect all the cool tech they used, which made everything even more immersive. My wife and I came here to celebrate our anniversary, and we had a great time. The extra Polaroid photo was such a nice surprise and a really thoughtful touch. We’ll definitely be back!
+  - name: "Ami Batac"
+    rating: 5
+    comment: |
+      Had the best time. We came with my daughter and her friend (both 11) and did nightfall. This room has been one of my favorites by far! The puzzles were challenging but not too much so that they were frustrating and they were able to solve a few of them on their own which made the experience so great.
+      
+      The room was creative and immersion and the hosts were so friendly.
+      
+      We will definitely be back
+      
+      Thank you!
   - name: "Bamu"
     rating: 5
     comment: |
       Had a great experience at GTFO! Went in with some friends from school and they got us in right away when another place was full, which was a big win. The staff was very nice and explained everything really well, since it was a first for most of us. We didn’t finish the room in time, and had used up all our hints, but they gave us extra time and hints so we could still complete it, which we really appreciated. Amazing service, fun experience, and a nice confidence boost at the end. Can’t wait to come back and try others rooms!
-  - name: "Alex Aguilera"
-    rating: 5
-    comment: |
-      Had a blast at GTFO! The rooms are super immersive and the puzzles actually make sense. Really satisfying to solve. The staff were attentive and gave us just the right amount of help when we got stuck.
-      ​Definitely one of the best spots in the city for a night out with friends. Can't wait to go back and try the other rooms!
 ---

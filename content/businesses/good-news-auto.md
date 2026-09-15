@@ -21,7 +21,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/good-news-auto-1.jpg", "/photos/good-news-auto-2.jpg", "/photos/good-news-auto-3.jpg"]
 rating: 4.5
-review_count: 604
+review_count: 606
 price_range: "$$"
 amenities:
   - "General Repair"

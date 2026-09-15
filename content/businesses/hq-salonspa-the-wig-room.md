@@ -28,16 +28,6 @@ tags: ["edmonton", "cuts-styling"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Hannah Langlais"
-    rating: 5
-    comment: |
-      Rachelle👏🏼👏🏼 11/10!
-      
-      Words honestly cannot express how grateful I am to have met Rachelle. I’ve known her for 2+ years and even followed her from her previous salon because I truly wouldn’t trust anyone else with my hair. Every single time I leave her chair, I’m so happy. Even when I have absolutely no clue what I want, she somehow nails it every time.
-      
-      I originally came to Rachelle after another stylist had overly bleached my hair, and Rachelle gave me a GORGEOUS ashy brown colour. She knows my hair so well, is incredibly knowledgeable, and genuinely cares about her clients and the health of their hair.
-      
-      I live an hour away and will happily make the drive just to see her. She’s an amazing stylist and an even better person. Highly recommend!!!
   - name: "Beth Skepple"
     rating: 5
     comment: |
@@ -67,4 +57,8 @@ reviews:
       Between the skill, the atmosphere, and the laughs, it was easily a 5-star experience.
       
       Highly recommend Emily… whether you’re going in for a haircut or an unexpected eyebrow intervention.
+  - name: "Neysa Wall"
+    rating: 5
+    comment: |
+      I had a great experience with Emily! The head massage alone was worth it—so relaxing and done with just the right pressure. She was also really honest about the condition of my hair, which I appreciated, and gave thoughtful suggestions that actually suited me instead of just going with a standard trim. On top of that, she was easy to talk to and made the whole appointment enjoyable. I left feeling refreshed and really happy with my hair. Highly recommend!
 ---

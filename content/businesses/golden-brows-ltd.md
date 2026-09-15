@@ -28,10 +28,6 @@ tags: ["edmonton", "brow-services"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Diana York"
-    rating: 5
-    comment: |
-      Sepideh is very talented!  She does an amazing job threading, and is very knowledgeable. Even when she is super busy she still brings a calm, relaxing vibe.  She knows exactly what looks best and truly is amazing at what she does!  Can’t recommend her enough!!
   - name: "Yeg Reviews"
     rating: 5
     comment: |
@@ -50,4 +46,8 @@ reviews:
     rating: 5
     comment: |
       Great service, convenient online booking system, and very attentive! I've been here on 3 occasions now and will continue to do so. Love the results for eyebrow threading!
+  - name: "Diana York"
+    rating: 5
+    comment: |
+      Sepideh is very talented!  She does an amazing job threading, and is very knowledgeable. Even when she is super busy she still brings a calm, relaxing vibe.  She knows exactly what looks best and truly is amazing at what she does!  Can’t recommend her enough!!
 ---

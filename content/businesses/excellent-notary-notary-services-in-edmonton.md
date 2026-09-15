@@ -5,7 +5,7 @@ category: "professional-services"
 neighborhood: "Edmonton"
 address: "4275 23 Ave NW, Edmonton, AB T6L 5Z8"
 rating: 4.9
-review_count: 941
+review_count: 946
 tier: "featured"
 phone: "(825) 526-4433"
 website: "https://excellentnotary.ca/"

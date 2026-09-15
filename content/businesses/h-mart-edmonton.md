@@ -18,7 +18,7 @@ hours:
   sunday: "9:00 AM–9:30 PM"
 photos: ["/photos/h-mart-edmonton-1.jpg", "/photos/h-mart-edmonton-2.jpg", "/photos/h-mart-edmonton-3.jpg"]
 rating: 4.2
-review_count: 478
+review_count: 479
 price_range: "$$"
 amenities:
   - "Fresh Seafood"

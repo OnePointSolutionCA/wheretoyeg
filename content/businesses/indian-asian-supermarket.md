@@ -10,16 +10,16 @@ neighborhood: "Edmonton"
 phone: "(780) 440-3655"
 google_maps_url: "https://maps.google.com/?cid=9049590278281611671&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "9:00 AM–9:30 PM"
-  tuesday: "9:00 AM–9:30 PM"
-  wednesday: "9:00 AM–9:30 PM"
-  thursday: "9:00 AM–9:30 PM"
-  friday: "9:00 AM–9:30 PM"
+  monday: "9:00 AM–9:00 PM"
+  tuesday: "9:00 AM–9:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
   saturday: "9:30 AM–9:00 PM"
   sunday: "9:30 AM–9:00 PM"
 photos: ["/photos/indian-asian-supermarket-1.jpg", "/photos/indian-asian-supermarket-2.jpg", "/photos/indian-asian-supermarket-3.jpg"]
 rating: 4.7
-review_count: 353
+review_count: 354
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -29,6 +29,12 @@ tags: ["edmonton", "south-asian"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Prabhjot Jassal"
+    rating: 5
+    comment: |
+      ⭐⭐⭐⭐⭐
+      
+      I’ve been shopping here every week for my groceries, and I’ve always had a good experience. They have a great selection of Indian and Asian groceries, and everything is usually fresh and well-organized. I also find the prices to be very reasonable and genuine. Some people may have different opinions about the prices, but personally, I think the store offers good value overall. Shopping is quick and convenient, which is another reason I keep coming back. Definitely one of my regular places for groceries. Highly recommended!
   - name: "Kaur P"
     rating: 1
     comment: |
@@ -42,12 +48,8 @@ reviews:
     rating: 5
     comment: |
       Great option for karahi stuff as commercial level.
-  - name: "Cat"
+  - name: "Abhijeet Kaur boparai"
     rating: 5
     comment: |
-      Amazing store always has all the ingredients I need, great customer service as well. Great variety and options and good prices for anything you need! Can only recommend 😊
-  - name: "Anita Narayan"
-    rating: 1
-    comment: |
-      I went there today specifically all the way from Sherwood park to buy Fiji snacks. Saw all snacks were expired on 29 January. They don’t check expiry dates . When I mentioned at checkout. They said okay ya I know !! Unexpected reply .
+      Great customer service… will definitely recommend to my friends and family 😇
 ---

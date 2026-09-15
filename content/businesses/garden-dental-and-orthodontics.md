@@ -22,6 +22,10 @@ reviews:
     rating: 5
     comment: |
       It’s always been a great experience. The office staff and dental technicians are each proficient to communicate genuine care and competency. And when it comes to experience and wisdom, Dr Morris is the best!
+  - name: "SARAH JOY T. CAHILIG"
+    rating: 5
+    comment: |
+      A special thanks to Dr. Saleh for taking such great care of my veneers. I’m very happy with the result and the overall experience
   - name: "Roman Odarchuk"
     rating: 5
     comment: |
@@ -30,10 +34,6 @@ reviews:
       The clinic is clean, modern, and well-equipped, which adds to the overall sense of confidence and care. The team explained everything clearly and made sure I understood each step, which really helped reduce any anxiety.
       
       Overall, excellent service, skilled professionals, and a pleasant environment — I would highly recommend Garden Dental Clinic for anyone needing dental work.
-  - name: "C"
-    rating: 5
-    comment: |
-      Had a great experience. Was actively asking if everything was okay. Dr. Stephen was awesome, they are great at answering questions. Very comfortable and everyone is awesome.
   - name: "Christine McCool"
     rating: 5
     comment: |

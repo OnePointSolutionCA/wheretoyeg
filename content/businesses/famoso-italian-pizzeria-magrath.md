@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Windermere"
 address: "14123 23 Ave NW, Edmonton, AB T6R 0G4"
 rating: 4.3
-review_count: 571
+review_count: 573
 tier: "featured"
 phone: "(780) 436-8799"
 website: "https://famoso.ca/"
@@ -24,6 +24,12 @@ reviews:
       The server was friendly and helpful when it came to providing option to take into account my no dairy requirement. (Olive oil instead of butter on my garlic toast, no cheese on my pasta) Due to my lunch being served warm to cold I was offered to have it remade, or a discount, or a free dessert. I accepted the discount as I was hungry and didn't want to wait for a remake.
       
       Overall a nice light lunch.
+  - name: "Sandra"
+    rating: 5
+    comment: |
+      Wow! We enjoyed our delish dessert yesterday of nutella pizza and cheesecake with heaps of whip cream! Also the gluten free Mediterranean
+      flat bread with hummus was so good too! Our server served us with a smile and it was a great experience!
+      Also appreciated that it was a quiet ambience.
   - name: "Yulia Volynets"
     rating: 5
     comment: |
@@ -36,10 +42,6 @@ reviews:
     rating: 5
     comment: |
       The tomato bisque and signature salad were both fabulous. The atmosphere was great as well!
-  - name: "Tinno"
-    rating: 5
-    comment: |
-      I haven't been to famoso in a hot minute, but boy did I miss it. Their bisque is amazing as always (if you haven't had it before and you wanna feel that warm feeling of home, try the bisque). My friend and I had come during happy hour and the options were great! The food is just so good, so to catch them during happy hour is a steal. They offer takeout in all their open locations, dine-in for some. Highly recommend.
 hours:
   monday: "11:30 AM–9:00 PM"
   tuesday: "11:30 AM–9:00 PM"

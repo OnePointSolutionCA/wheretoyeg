@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/in-line-family-chiropractic-1.jpg", "/photos/in-line-family-chiropractic-2.jpg", "/photos/in-line-family-chiropractic-3.jpg"]
 rating: 4.9
-review_count: 81
+review_count: 83
 price_range: "$$"
 amenities:
 
@@ -28,10 +28,10 @@ tags: ["edmonton", "chiropractors"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Chris Bowers"
+  - name: "Jenn Shipley"
     rating: 5
     comment: |
-      I've been coming to Dr. Wing for chiropractic adjustments for over 20 years. He is very approachable and caring. He works on every issue with equal care and attention. Going through perimenopause I had severe migraines and he worked on me diligently until they finally stopped. He gives great advise for stretches and exercises that help with posture, back pain, neck strengthening, and more. When I had frozen shoulder, he introduced me to shock wave treatment which massively improved my recovery time. The first time I had it lasted 18 months. With shockwave the second time I had it, it only took 4 months for a full recovery. I had a colleague who needed help with sciatica pain. I recommend Dr. Wing and she has been so grateful. I would recommend Dr. Wing to anyone looking for a chiropractor. He has helped me with many issues and I will continue to see him for regular maintenance.
+      I mainly see Dr Craig here but have also seen Dr Kellie and both are great! I’ve been seeing chiropractors for about 20 years now and this is the most thorough experience I have ever had. This was the first time x-rays were done as well as muscle testing to determine where pain is originating from. While I still have a ways to go, I have noticed major improvements in my day to day life already like being able to actually garden without major back pain following and being able to stand for longer periods of time at a concert which I haven’t been able to do for a long time. I’ve come in with a migraine and left with it gone! I’ve never felt rushed through an appointment and have always had a great experience. Ashley at the front desk is also amazing and very warm and welcoming! I send clients and friends whenever they mention body pain.
   - name: "Karen Hudson"
     rating: 5
     comment: |

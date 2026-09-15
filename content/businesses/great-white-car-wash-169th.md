@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–9:00 PM"
 photos: ["/photos/great-white-car-wash-169th-1.jpg", "/photos/great-white-car-wash-169th-2.jpg", "/photos/great-white-car-wash-169th-3.jpg"]
 rating: 4.1
-review_count: 468
+review_count: 474
 price_range: "$$"
 amenities:
 

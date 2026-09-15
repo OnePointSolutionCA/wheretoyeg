@@ -40,6 +40,10 @@ reviews:
       Staff is always friendly and helpful.
       
       Although I don't use them, the facility also had several personal trainers, physio clinic, barber, and other services.
+  - name: "Marc Shklanka"
+    rating: 5
+    comment: |
+      Had a great experience signing up at Evolve Fitness! Carsyn at the front desk was extremely friendly, welcoming, and knowledgeable. He made the sign-up process easy and took the time to answer my questions and explain everything clearly. Really appreciated the great customer service and looking forward to working out here!
   - name: "Ayden Schroh"
     rating: 5
     comment: |
@@ -56,8 +60,4 @@ reviews:
     rating: 5
     comment: |
       Evolve Strength has been a great find. The equipment is top-notch and well-maintained, the space doesn't feel overcrowded, and the atmosphere is serious without being intimidating. If you're someone who takes their training seriously and want a gym that matches that energy, this is it. Highly recommend.
-  - name: "Mehsheed Ahmed"
-    rating: 5
-    comment: |
-      Really like Evolve Downtown. Emily was great, super friendly and helpful whenever I had questions. The gym has a good variety of equipment, nice amenities, and everything is well maintained. Overall, I’ve had a really good experience here and would definitely recommend it
 ---

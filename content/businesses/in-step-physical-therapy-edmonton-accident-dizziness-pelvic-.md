@@ -44,20 +44,20 @@ reviews:
     rating: 5
     comment: |
       I had been dealing with persistent tennis elbow pain caused by snow shovelling and finally decided to visit InStep Physical Therapy. I am incredibly glad I did. Cyprian, Laura and Roop were fantastic throughout my recovery process that is ongoing. They utilized a comprehensive treatment plan that included dry needling, shockwave therapy, IFC, and ultrasound, which completely turned things around for me. My pain is now almost entirely gone. They also provided me with a tailored home exercise routine, which is crucial to follow consistently for long-term results. For anyone hesitating to see a physiotherapist, my advice is simple: don’t wait. Visit the professionals at InStep and recover faster. Truly great service!
+  - name: "Ulises Savignon"
+    rating: 5
+    comment: |
+      I was injured at work, and thanks to the professionals at this physiotherapy clinic, I’m finally able to return to work in just a few days.
+      
+      I would also like to extend my sincere thanks to the reception staff for their professionalism, kindness, and consistently positive and welcoming attitude. From the moment I arrived, I felt well taken care of and supported.
+      
+      I truly recommend this clinic to anyone looking for excellent physiotherapy care and a friendly, professional environment.
+      
+      5 stars — and then some! ⭐⭐⭐⭐⭐
   - name: "heydi johanna preciado"
     rating: 5
     comment: |
       I highly recommend my physiotherapist! They are professional, knowledgeable, and genuinely care about their patients’ recovery. From the very first session, they took the time to understand my condition and created a personalized treatment plan. I have noticed significant improvement in my pain and mobility thanks to their expertise and encouragement. The clinic is welcoming, clean, and appointments are always well organized. I truly appreciate their patience, kindness, and dedication. Thank you for helping me get back to feeling my best!
-  - name: "Gerard Olviga"
-    rating: 5
-    comment: |
-      First off, the ladies at the front desk are a pleasant to deal with. They are very easy to communicate with and are very nice every single time I attend my sessions and even when needing to phone in for anything. This clinic is very clean and well maintained.
-      
-      I have been attending physio sessions with Pt. Cyprian and he is wonderful! I have been going to In-step physical since beginning of February and it’s always a pleasant feeling coming out of the therapy. Cyprian listens to how you’re feeling and explains why things are happening in your body to make you understand and be able to take care of yourself at home as well. Very Professional and understanding of your situation. Along with his colleague Laura who is also very nice and friendly.
-      
-      I also get my massage from this clinic with Becky and she is very delightful! If you need someone with good strong grip, Becky is your gal! I had a lower back pain on my first massage session with Becky and honestly after that first time, it relieved the pain and has been a lot better since!
-      
-      I definitely recommend this place! I travel all the way from Fort Saskatchewan and did not wanna switch clinic even though it’s a bit of a drive for me as I feel very comfortable and taken care of by everyone at this clinic! Very happy patient here!
   - name: "Test009"
     rating: 5
     comment: |

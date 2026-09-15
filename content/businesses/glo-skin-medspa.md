@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/glo-skin-medspa-1.jpg", "/photos/glo-skin-medspa-2.jpg", "/photos/glo-skin-medspa-3.jpg"]
 rating: 4.9
-review_count: 224
+review_count: 225
 price_range: "$$"
 amenities:
 
@@ -36,16 +36,16 @@ reviews:
     rating: 5
     comment: |
       Got a facial with Alanna and I’m very happy, my skin feels amazing. Very polite and caring, She also gave me samples to take home and try before making any purchase.
+  - name: "Claudine Lavoie"
+    rating: 5
+    comment: |
+      Kelly is amazing. I always leave Glo feeling confident and happy with everything she does! She has helpful suggestions to make sure I don't look too "over done", just refreshed and youthful. I highly recommend!
   - name: "Dayna Embree"
     rating: 5
     comment: |
       I’ve been seeing Michelle for just over a year and she is amazing.
       I am always treated like a friend and she remembers little things I’ve said in passing so well.
       I would highly recommend her!
-  - name: "Claudine Lavoie"
-    rating: 5
-    comment: |
-      Kelly is amazing. I always leave Glo feeling confident and happy with everything she does! She has helpful suggestions to make sure I don't look too "over done", just refreshed and youthful. I highly recommend!
   - name: "Shianne"
     rating: 5
     comment: |

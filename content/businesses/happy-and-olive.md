@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–10:00 PM"
 photos: ["/photos/happy-and-olive-1.jpg", "/photos/happy-and-olive-2.jpg", "/photos/happy-and-olive-3.jpg"]
 rating: 4.6
-review_count: 478
+review_count: 482
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -62,10 +62,16 @@ reviews:
       - Kid-friendly and thoughtfully family-oriented
       - Accessible washroom access
       - Looking forward to return
-  - name: "Isaac Day"
+  - name: "Kerri Chalmers"
     rating: 5
     comment: |
-      Amazing food , very busy and maybe a little under staffed for serving; some people seemed a bit stressed out but all around great vibe, make sure to book a Reso it books up fast, the patio is also beautiful, nice bar area, okay prices 20-30$, beautiful inside and kid friendly, also great area and typically lots of parking. We loved the comfy cushion and chair and we loved the vibe in here; would come back again.
+      We were once again so incredibly impressed with H&O. The food was amazing, the service was attentive and above expectations, and the drinks were wonderful.
+      
+      We had the lamb, smoked salmon, beet salad, and shrimp. Everhthing was so tasty, but the lamb was the standout favourite for both me and my husband.
+      
+      The bartender whipped us up a dealer's choice shot 5hat was delicious, and the gin and tonic was one of the best we've ever had. Our server Emily was absolutely lovely. They were welcoming and sincere, and I would be so happy to have them as our server again. I hope we get that privilege!
+      
+      All in all, a fantastic experience with great food, delicious drinks, and service that makes you feel welcomed and valued.
   - name: "Melissa Jensen"
     rating: 5
     comment: |

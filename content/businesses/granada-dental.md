@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "101 Granada Blvd #201, Sherwood Park, AB T8A 4W2"
 rating: 4.9
-review_count: 303
+review_count: 305
 tier: "featured"
 phone: "(780) 464-6266"
 website: "http://www.granadadental.ca/"
@@ -21,6 +21,14 @@ reviews:
       Straightforward email/texting from receptionists, open decent hours, nice office. Dr. Milan is quite friendly (and not pushy like a salesman type).
       As of now, their fees for cleaning+exam are within amounts 100% covered by CDCP.
       Would recommend to anyone.
+  - name: "Dylan R"
+    rating: 5
+    comment: |
+      Incredible experience. Very professional and quick service. Fast availability and easy to work with. Sorted out insurance for me. Camiesha is highly skilled and very gentle. She boosted my daughter's confidence in dentistry again after a poor experience she had with a prior clinic.
+      
+      I cannot say enough good things. I'm so glad I found Grenada Dental. Will continue to visit long term with the whole family.
+      
+      -Dylan
   - name: "Aaron Cadieux"
     rating: 5
     comment: |
@@ -35,14 +43,10 @@ reviews:
       The quality of care is top notch too. I’ve never felt any pain or discomfort in any of my appointments, which says a lot about how much attention to detail they have.
       
       If you’re looking for a dentist you can actually feel comfortable going to, I’d definitely recommend checking them out.
-  - name: "Marisa Scarbeau"
+  - name: "Dk Singh"
     rating: 5
     comment: |
-      This place has given me the BEST dental experiences I have ever had. The entire team is always so friendly & helpful. Dr. Jessica is the first dentist I have had who actually talks me through procedures and explains my options to help me decide what is best. They always check with insurance when wanting to do something "big" and make sure that their patients get the best financial outcome they can provide. Monica does such a gentle cleaning and doesn't rush when I am feeling anxious. I highly recommend Granada Dental.
-  - name: "khadija"
-    rating: 5
-    comment: |
-      I had a truly outstanding experience at my dental appointment with Dr. Sonia, and Ferwal and the entire team, along with a very kind gentleman whose name I didn’t catch, was incredibly welcoming and professional. Every step was seamless, and I left feeling confident and cared for. I wholeheartedly recommend them to anyone seeking excellent dental care.
+      I had great customer service . Ravneet helped in explaining my benefits and approvals taken in timely manner. Dr Milan and his team is excellent.
 hours:
   monday: "8:30 AM–4:00 PM"
   tuesday: "8:30 AM–7:00 PM"

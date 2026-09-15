@@ -6,7 +6,7 @@ subcategory: "burgers"
 neighborhood: "Beverly"
 address: "6423 112 Ave NW, Edmonton, AB T5W 0N9"
 rating: 4.5
-review_count: 1617
+review_count: 1621
 tier: "featured"
 phone: "(780) 250-0369"
 website: "http://www.foxburger.ca/"

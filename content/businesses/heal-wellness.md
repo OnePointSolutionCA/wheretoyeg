@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/heal-wellness-1.jpg", "/photos/heal-wellness-2.jpg", "/photos/heal-wellness-3.jpg"]
 rating: 4.5
-review_count: 157
+review_count: 158
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -35,7 +35,7 @@ reviews:
     comment: |
       I don’t usually leave reviews, but I wanted to share my experience as I’ve noticed some inconsistency. About a week ago, I visited in the morning when there was only one staff member working. She was friendly, offered recommendations, and made an acai bowl that matched the photos posted by Heal perfectly. The portion and overall experience were great, especially considering she was working on her own. Today, I came in around 11am and had a slightly different experience. There were three staff members, but they didn’t seem welcoming. I waited around 10 minutes for a nutella acai bowl, and the portion seemed smaller compared to my previous visit. I’ll include photos for comparison. The first is from my earlier visit, and the second is from today.
       I really enjoyed my first experience, so I hope this feedback is helpful in keeping things consistent!
-  - name: "CoachJR"
+  - name: "Truth Bomb"
     rating: 4
     comment: |
       I recently stopped by HEAL Wellness, right across from the University of Alberta Hospital—super convenient if you're in the area for appointments, visiting, or just studying nearby.

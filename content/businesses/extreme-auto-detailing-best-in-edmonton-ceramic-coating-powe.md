@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/extreme-auto-detailing-best-in-edmonton-ceramic-coating-powe-1.jpg", "/photos/extreme-auto-detailing-best-in-edmonton-ceramic-coating-powe-2.jpg", "/photos/extreme-auto-detailing-best-in-edmonton-ceramic-coating-powe-3.jpg"]
 rating: 5
-review_count: 299
+review_count: 301
 price_range: "$$"
 amenities:
 

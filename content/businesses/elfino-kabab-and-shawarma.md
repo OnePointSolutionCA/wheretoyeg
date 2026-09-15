@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/elfino-kabab-and-shawarma-1.jpg", "/photos/elfino-kabab-and-shawarma-2.jpg", "/photos/elfino-kabab-and-shawarma-3.jpg"]
 rating: 4.7
-review_count: 1401
+review_count: 1406
 price_range: "$"
 amenities:
   - "Halal"

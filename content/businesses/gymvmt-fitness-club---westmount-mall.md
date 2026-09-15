@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/gymvmt-fitness-club---westmount-mall-1.jpg", "/photos/gymvmt-fitness-club---westmount-mall-2.jpg", "/photos/gymvmt-fitness-club---westmount-mall-3.jpg"]
 rating: 4.2
-review_count: 200
+review_count: 201
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,12 @@ tags: ["edmonton", "gyms"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Bruno Haje"
+    rating: 5
+    comment: |
+      I started coming to this location years ago when it operated as “Gold’s Gym”. What attracted me then was the massive size of the space, and large selection of Hammer Strength equipment. Today, operating as “GYMVMT”, the space is still massive and Hammer Strength equipment are still plentiful. It’s great, never feels too crowded even if it’s busy. Working in downtown, the commute to Westmount (after work) is not too bad either.
+      
+      The front desk staff also deserve recognition. They are always in a positive mood when greeting you, creating a warm and welcoming environment each time you visit — keep it up, we (members) really do appreciate this!
   - name: "Brad Todd"
     rating: 5
     comment: |
@@ -58,15 +64,4 @@ reviews:
     rating: 5
     comment: |
       I wanted to come on here and point out how amazing Alyssa is everytime I come to the gym! At the front desk of the gym she is kind and goes above and beyond to make everyone feel welcome. She never misses saying goodbye, no matter how busy she is, which really brightens people’s days. Her genuine warmth and attentiveness create a positive atmosphere that makes the gym experience better for everyone. Alyssa’s kindness and dedication truly make her a standout part of the team.
-  - name: "Gerrie Robinson"
-    rating: 5
-    comment: |
-      GYMVMT Westmount is a clean spacious facility with friendly & helpful staff.
-      
-      I was without a personal trainer for a while and recently started training with Greg.
-      He is an awesome trainer. Greg is very knowledgeable and really understands the needs of his clients.  The programs he develops are both challenging & motivating and he’s great at modifying the programs during our sessions when necessary. Since training with him I am seeing overall improvement in my Health & Fitness once again.
-      
-      Greg recently completed his FST (Fascia Stretch Therapy) training - level one.  I had numerous FST sessions with my previous trainer so I had an idea of what to expect.  Let me tell you, Greg did not disappoint.  I felt really great after the session. Well worth it!
-      
-      I must say GYMVMT is lucky to have Greg on their team!
 ---

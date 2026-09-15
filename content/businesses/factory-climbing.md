@@ -28,6 +28,10 @@ tags: ["edmonton", "climbing"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Christine Belanger"
+    rating: 5
+    comment: |
+      Went for their intro to bouldering class. $30 for a 2 hour class. As someone who has never done any form of rock climbing seeing most places offer courses that spanned several weeks just to get an idea if this was something I liked or not was a little daunting. But this 2hour course was perfect. Braeden was amazing (I hope I’m spelling their name right) and brought such an infectious energy to the class. Their knowledge and love of the sport really showed. My partner and I really enjoyed ourselves and left already planning our next trip to Factory
   - name: "Danielle Logue"
     rating: 5
     comment: |
@@ -59,8 +63,4 @@ reviews:
     rating: 5
     comment: |
       One of my favourite rock climbing gym. The atmosphere is amazing here from the staff to the people that climb, everyone is friendly and you are bound to get a compliment or two lol. The route that are set up are nice and it is refreshed fairly often so there is always a good variety.
-  - name: "Lauren"
-    rating: 5
-    comment: |
-      Great place. The only thing i dont like is that there are pride flags year round and no Canadian flags. The people here are great though. Love the climbing walls.
 ---

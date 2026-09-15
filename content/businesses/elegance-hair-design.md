@@ -5,7 +5,7 @@ category: "hair-salons"
 neighborhood: "Spruce Grove"
 address: "70 McLeod Ave, Spruce Grove, AB T7X 3C7"
 rating: 4.3
-review_count: 331
+review_count: 333
 tier: "featured"
 phone: "(780) 962-9364"
 website: "http://www.elegancehair.com/"
@@ -23,13 +23,6 @@ reviews:
       Please avoid this place if you are wanting a haircut for a child. Jim has no patience whatsoever with children, he grabbed my toddler by the neck, just to get him to stay up (mama bear that’s protective), I still let it go because I’m understanding my child is not cooperating. At the end of it all he purposely cut him with the razor all because he was frustrated with him, to top it all of he was blaming my child. You be rhe judge!
       
       PLEASE PLEASE DO NOT SUPPORT THIS BUSINESS. Narcissistic person who has no patience. No care at all.
-  - name: "Irene Murphy"
-    rating: 5
-    comment: |
-      I have been coming to Elegance Hair Salon since we’ve moved here in May and have been extremely pleased!
-      Jade has been doing my hair and I am treated like royalty every time I get my hair done, and I am very particular about my hair.
-      She takes her time and once she’s finished I feel beautiful every time.
-      I’d highly recommend this Salon as from what I’ve observed all the stylists here treat their clients with the same level of professionalism.
   - name: "Divina Gossen"
     rating: 5
     comment: |
@@ -38,6 +31,16 @@ reviews:
     rating: 5
     comment: |
       I saw Jade April 2 she cut my hair quick and effectively. Jade is amazing and I will recommend friends and my family member sees her as well. THANK YOU JADE!! I give a 10 plus star review
+  - name: "Yngred Weinmeier"
+    rating: 2
+    comment: |
+      Today my stylist, Sim,  did a great job, but the way other staff acted during my appointment really bothered me.
+      
+      While my hair was being colored, a younger blonde woman came over with an older woman and took my stylist’s rolling cart and bowl of hair dye without asking or even looking at her. When Sim asked them to wait, she was ignored. The older woman then told the younger one to put the bowl on her counter so she could keep working. Watching my stylist be ignored like that was rude and frustrating.
+      
+      What made it worse was that the cart was taken for the older woman’s use even though she wasn’t in the middle of a service, and another cart showed up shortly after. There was no apology or explanation, which made it feel unnecessary and disrespectful.
+      
+      Sim handled it professionally, but as a client it left a bad taste and made me not want to come back. I hope management deals with this.
 hours:
   monday: "10:00 AM–7:00 PM"
   tuesday: "10:00 AM–7:00 PM"

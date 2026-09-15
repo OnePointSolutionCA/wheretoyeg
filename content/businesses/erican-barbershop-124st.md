@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–7:00 PM"
 photos: ["/photos/erican-barbershop-124st-1.jpg", "/photos/erican-barbershop-124st-2.jpg", "/photos/erican-barbershop-124st-3.jpg"]
 rating: 4.9
-review_count: 753
+review_count: 757
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,10 @@ tags: ["edmonton", "fades"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Bethany Hungwe"
+    rating: 5
+    comment: |
+      Alex is an excellent barber—professional, reliable, and always honours his appointments and scheduled times. I’ve been to other barbers who don’t respect appointment times, so I really appreciate his punctuality. On top of that, he’s genuinely good at what he does. Highly recommend!
   - name: "RTM Cleaning Solutions"
     rating: 5
     comment: |
@@ -54,12 +58,4 @@ reviews:
     rating: 5
     comment: |
       Ercan Barbershop is a great place. The shop is always clean and well maintained, and they provide excellent service. Alex always takes care of me and is a great guy—friendly, professional, and provides excellent customer service. I highly recommend Ercan Barbershop!
-  - name: "Calming And Relaxing Music"
-    rating: 5
-    comment: |
-      Yonas has been cutting my hair the past year and he is professional, courteous and I am really glad to have him as a barber.
-      
-      Hands down the best in the city, it’s always a pleasure Yonas.
-      
-      Thanks my bro.
 ---

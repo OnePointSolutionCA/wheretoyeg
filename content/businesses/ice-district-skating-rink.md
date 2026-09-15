@@ -36,10 +36,6 @@ reviews:
     rating: 5
     comment: |
       I was the best time every  every time I go there I love you edmonton I hope you  win 🏆 it this  year  this  town rocks
-  - name: "Mason Garcia"
-    rating: 5
-    comment: |
-      Enjoy 2nd lmaooo not us being better at your sport 🇺🇸🇺🇸🇺🇸
   - name: "Kollektiv Design Labs"
     rating: 5
     comment: |
@@ -48,4 +44,8 @@ reviews:
     rating: 1
     comment: |
       Families NOT welcome.  Too many rules enforced by an overly zealous security guard.  The rules basically exclude children. Experienced skaters who enjoy being surrounded by big screens running ads might consider this a 'community rink'.
+  - name: "Mason Garcia"
+    rating: 5
+    comment: |
+      Enjoy 2nd lmaooo not us being better at your sport 🇺🇸🇺🇸🇺🇸
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–6:00 PM"
 photos: ["/photos/hw-produce-1.jpg", "/photos/hw-produce-2.jpg", "/photos/hw-produce-3.jpg"]
 rating: 4.4
-review_count: 910
+review_count: 911
 price_range: "$$"
 amenities:
 
@@ -36,11 +36,6 @@ reviews:
       The staff are very professional, friendly, and helpful, which adds to the overall positive experience. Service is consistently great, and the location is super convenient for me, so I end up going there very often.
       
       Overall, HW Produce stands out for quality, cleanliness, and excellent customer service. Highly recommended for anyone looking for fresh produce and a pleasant shopping experience. ⭐⭐⭐⭐⭐ 💛
-  - name: "Mayada McLean"
-    rating: 1
-    comment: |
-      I’ve came to this H&W location for over 15 years. 3 generations in our family have supported this location. After overseeing their employees gossiping and, giving dirty looks to my child whom was eating a red pepper; when this incident has happened before and, the floor manager including the supervisor said never to worry about it.
-      Even after the fact I always offer paying way over the listed retail price for an individual fruit or, vegetable for the “inconvenience”. Today, I of course paid for the bitten red pepper; I grabbed a fresh one of the same size and paid the lb price. Super unfortunate that they’ve lost a high valued customer. I won’t be supporting this individual location anymore. The employees really need better communication and customer service skills. After reading their previous reviews I’m not surprised they treat children and, mothers this way.
   - name: "john gallant"
     rating: 5
     comment: |
@@ -53,4 +48,9 @@ reviews:
     rating: 5
     comment: |
       Really enjoyed the visit to this store. The ambiance is great and the store is clean and well lit. Great selection of fresh fruit and vegetables.  Prices are reasonable and depending on the season some great deals can be had.  I shop regularly at the Clareview H&W and have always enjoyed the experience and this location does not disappoint.
+  - name: "Mayada McLean"
+    rating: 1
+    comment: |
+      I’ve came to this H&W location for over 15 years. 3 generations in our family have supported this location. After overseeing their employees gossiping and, giving dirty looks to my child whom was eating a red pepper; when this incident has happened before and, the floor manager including the supervisor said never to worry about it.
+      Even after the fact I always offer paying way over the listed retail price for an individual fruit or, vegetable for the “inconvenience”. Today, I of course paid for the bitten red pepper; I grabbed a fresh one of the same size and paid the lb price. Super unfortunate that they’ve lost a high valued customer. I won’t be supporting this individual location anymore. The employees really need better communication and customer service skills. After reading their previous reviews I’m not surprised they treat children and, mothers this way.
 ---

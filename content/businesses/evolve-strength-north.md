@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/evolve-strength-north-1.jpg", "/photos/evolve-strength-north-2.jpg", "/photos/evolve-strength-north-3.jpg"]
 rating: 4.8
-review_count: 310
+review_count: 311
 price_range: "$$"
 amenities:
 
@@ -39,10 +39,6 @@ reviews:
     rating: 4
     comment: |
       Overall it's a really great gym more focused on free weights than all the machines. I am giving it only 4 stars because of the parking situation. They don't have any reserved spots for evolve but all the neighbouring businesses do so when it's busy it's a nightmare to figure out where you are allowed to park.
-  - name: "Ramosss"
-    rating: 2
-    comment: |
-      Not that good. Had some issues with some members here ongoing who seem to be entitled for some reason and close with staff and just for that I won’t be going here anymore. Don’t like the energy. Little parking at the front but has parking in the back which is ok.. Downtown location is better but for what’s close to around the area and for the price rather go to GoodLife or LA fitness that has bigger facility, seem to be friendlier staff, more parking and nicer members and even more locations to check out. In my opinion Evolve Downtown location is nicer, more welcoming and friendlier people if you live close to downtown but you risk traffic depending when you go. Don’t think I’ll come back to this location anymore. Hope you guys can renovate and fix the culture here to make the price seem more worth it. Cheers.
   - name: "Daniel Schiff"
     rating: 5
     comment: |
@@ -51,4 +47,8 @@ reviews:
     rating: 5
     comment: |
       Love the high ceilings here! Just makes the gym seem so much bigger. All equipment is top-of-the-line and there is plenty of space to do anything you want. Parking is always plentiful as well. Only drawback is that most times I've been here, there are very few people working out, so that can leave the atmosphere lacking some energy.. but there's always a ton of equipment available.
+  - name: "Randy Saueracker"
+    rating: 4
+    comment: |
+      Here at the Grit Power Open supporting my granddaughter in her competition.  Huge gym with amazing equipmet
 ---

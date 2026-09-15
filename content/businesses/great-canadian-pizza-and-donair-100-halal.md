@@ -13,6 +13,10 @@ google_maps: "https://maps.google.com/?cid=18426588210779613704&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/great-canadian-pizza-and-donair-100-halal.jpg"
 reviews:
+  - name: "Alex John"
+    rating: 1
+    comment: |
+      If this was 2.99$ for extra meat, i’m afraid of what it would be without it. Asked for extra pickles but only got about 5-7 pickles in the entire donair. Taste was okay but portions are better literally anywhere else.
   - name: "kamaljit kaur"
     rating: 1
     comment: |
@@ -29,24 +33,12 @@ reviews:
     rating: 1
     comment: |
       The service has been consistently disappointing. Every time we visit Great Canadian Pizza, the girl working there speaks to customers in a rude and unprofessional manner. The way she talks to and treats people makes customers feel unwelcome and uncomfortable. Good customer service is an important part of any business, and unfortunately our experiences there have not reflected that. I hope this feedback helps improve the customer experience for everyone.”
-  - name: "Gideon Paramonov"
-    rating: 3
-    comment: |
-      Pizzas is really good for the price, easily my favorite among the franchises.
-      
-      However their service is sub par, Ive ordered multiple times a month since they have opened this location, mostly ordering online. Every single time its taken 40 - 55 minutes for the pizza to be ready, the time is not my main issue although it is quite long.
-      
-      My problem is that they will call to say your pizza is ready but it will be another 20 minutes before its actually ready. I walk there from work which is 2 blocks away, maybe they are accounting for people driving there and taking long time to arrive?
-      
-      They will often be extremely short staffed so if you dont order ahead you may be waiting a long time to be served even if you get a slice of their premade pizza.
-      
-      My favourite is sweet sauce with BBQ chicken with donair meat and ground beef, pizza is always consistently cooked and normal crust is a good thickness and taste.
 hours:
   monday: "11:00 AM–1:00 AM"
   tuesday: "11:00 AM–1:00 AM"
   wednesday: "11:00 AM–1:00 AM"
   thursday: "11:00 AM–1:00 AM"
-  friday: "11:00 AM–1:00 AM"
-  saturday: "11:00 AM–1:00 AM"
-  sunday: "11:00 AM–1:00 AM"
+  friday: "11:00 AM–2:00 AM"
+  saturday: "12:00 PM–2:00 AM"
+  sunday: "12:00 PM–1:00 AM"
 ---

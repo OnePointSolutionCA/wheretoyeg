@@ -19,7 +19,7 @@ hours:
   sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/habesha-cravings-1.jpg", "/photos/habesha-cravings-2.jpg", "/photos/habesha-cravings-3.jpg"]
 rating: 4.7
-review_count: 312
+review_count: 315
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -66,8 +66,10 @@ reviews:
       
       10/10 🏆🏆🏆🏆🏆
       CUSTOMER SERVICE 🏆🏆🏆🏆🏆🏆🏆🏆🏆 ( Keep up the good work) 👏👏👏👏👏
-  - name: "Christophito Fenelon"
+  - name: "Chippy George"
     rating: 5
     comment: |
-      Cozy restaurant. Staff is very professional and nice. The food is awesome. They serve the best fries. The fries are nicely seasoned. Nice location, in the Wihkwentowin neighborhood, close to downtown. Some parking avaliable. You have options of rice or injera bread for your meats and veggies. See pictures. I would recommend  this place to family and friends for sure.
+      A truly lovely place with a warm, welcoming vibe. The ambience is cozy, intimate, and beautifully put together, with soft lighting and thoughtful decor that create a calm and inviting atmosphere. This was my first time trying Ethiopian food, and it turned out to be a unique and memorable introduction. I had injera with doro wat — while it was a bit sweeter than I expected and I was hoping for more spice, it was still very enjoyable.
+      
+      A special mention to our host, who was incredibly kind and took the time to explain the dishes to us when she realized it was our first visit. The Ethiopian coffee was another highlight — I loved the presentation, and the popcorn served on the side was such a thoughtful and charming touch. Overall, it was a great way to explore a new cuisine, and I’d definitely like to return to try more of their dishes.
 ---

@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Edmonton"
 address: "16060 Stony Plain Rd, Edmonton, AB T5P 3Z9"
 rating: 4.6
-review_count: 1796
+review_count: 1799
 tier: "featured"
 phone: "(780) 483-2288"
 website: "http://hapshungryhouse.ca/"
@@ -13,6 +13,11 @@ google_maps: "https://maps.google.com/?cid=16892529031300361895&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/haps-hungry-house.jpg"
 reviews:
+  - name: "Shilah Croxton"
+    rating: 5
+    comment: |
+      This place is awesome! It's a fantastic place for breakfast, brunch and lunch. We've tried multiple things on their menu and nothing ever disappoints. This place is adorable inside🙂 the staff is always so friendly and ontop of everything. The food always comes out quick, doesn't matter how busy they are and prices are great. We also love the patio option, for when we have our fur baby with us.
+      Definitely recommend this place to anyone who hasn't been here!
   - name: "A M"
     rating: 5
     comment: |
@@ -32,10 +37,6 @@ reviews:
     rating: 4
     comment: |
       This place is bustling, and the staff are super friendly and quick! They’re always making sure you have coffee, water, and drinks. The food was fantastic—I had the hungriest breakfast, which included an omelette and a patty melt. Everything was excellent, except my patty melt didn’t quite live up to my expectations. It was basically just a slice of cheese on a patty. But, hey, technically, a patty melt should be more substantial, like a tuna melt. Other than that, everything was wonderful.
-  - name: "brad boyd"
-    rating: 5
-    comment: |
-      Great brunch!  Mexican style omelette with hash browns & toast.  My server Leigh made the shake & ya that metal spoon is standing in the thick strawberry goodness.
 hours:
   monday: "Closed"
   tuesday: "7:00 AM–2:30 PM"

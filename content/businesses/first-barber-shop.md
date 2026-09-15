@@ -25,7 +25,7 @@ reviews:
     rating: 1
     comment: |
       I visited this store after reading a positive review, but the owner of the barber shop was extremely rude to me. I'm a black lady from East Africa. He promised me he is going to give me a good cut for my wedding i asked him "its okay i can wait for the lady" he rushed and told me to wait for the process when i told him he is not doing it well and made me paid $50 the most awful thing in my experience was he laughed when i paid i saw him on the mirror, such unethical behavior.
-  - name: "James Nabilyoon"
+  - name: "The Honest Reviewer"
     rating: 5
     comment: |
       “Hands down, the best barber I’ve ever been to! With years of experience, [Evan&Fanar] know exactly how to deliver a sharp, clean, and stylish cut every time. Their attention to detail is unmatched, and they truly take the time to make sure every client leaves looking and feeling their best. The atmosphere is welcoming, the service is top-notch, and the professionalism is second to none. If you’re looking for a master barber who consistently delivers excellence, look no further!”

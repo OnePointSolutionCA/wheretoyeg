@@ -36,21 +36,14 @@ reviews:
     comment: |
       According to Google maps this place is open 24/7 but is not; they are close Saturday and Sunday.
       I changed from 1 star to 5 I wish there were more than 5 stars. Zeza is the best, with extensive knowledge of the products and equipment, extremely kind, attentive, and with a high level of honesty and respect for helping customers achieve the best results. I definitely recommend this business and especially recommend doing business with Zeza and the manager.
+  - name: "Jordan L"
+    rating: 5
+    comment: |
+      I recently rented some blower fans from Gentle Steam to dry out my basement. The equipment worked well and the service at the shop was very good. The rental price was the best I found in the city.
   - name: "Cassandra Petkus"
     rating: 5
     comment: |
       We’ve rented from here multiple times. All times customer service was exceptional. We were accommodated on short notice and given advice on which floor cleaning machine would best suit our needs. They return calls quickly and follow up. As a small business this is invaluable. When our business grew to the point to require it, this was the first business we considered to purchase our floor cleaning machine. 10/10 would recommend.
-  - name: "Autospa team"
-    rating: 5
-    comment: |
-      Absolutely amazing service , and honest company! I just found out about this company as my steam cleaner needed some repairs , to top it off they gave us a rental to use while they fixing our ninja steam cleaner!
-      Fair pricing!
-      
-      For owning an auto detailing business I can tell you these guys are life savers and I’m very glad I found them!
-      
-      All of us at in and out autospa appreciate it!
-      
-      Thank you and highly recommended
 hours:
   monday: "Closed"
   tuesday: "Closed"

@@ -29,6 +29,28 @@ tags: ["edmonton", "roasters"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Ken Hogan"
+    rating: 2
+    comment: |
+      Great space. Unfortunately, the experience stops there.
+      
+      I really wanted to like Iconoclast Coffee Roasters, but this was a surprisingly disappointing experience.
+      
+      It started at the counter. The person taking our order seemed completely disinterested in being there, with body language to match. When I asked what was on the breakfast sandwich, the explanation was essentially “egg and a special sauce — do you want it?” Not exactly helpful or welcoming, especially for someone trying to understand what they’re ordering.
+      
+      The sandwich itself was actually quite good, although it took an unexpectedly long time to arrive. Unfortunately, the drinks were the real disappointment.
+      
+      We ordered two chai lattes and an Americano. Both chai lattes tasted like cups of hot milk with almost no discernible chai flavour or spice. The Americano was mediocre at best—which is particularly disappointing for somewhere that has “Coffee Roasters” in its name.
+      
+      I can forgive slow food when it’s good, and the sandwich was. What’s much harder to overlook is indifferent service combined with underwhelming coffee.
+      
+      For a place positioning itself as a specialty coffee roaster, I expected considerably better. Good atmosphere and a decent sandwich aren't enough to make up for poor service and forgettable drinks.
+      
+      Not an experience I’d be in a hurry to repeat.
+  - name: "Nimbus"
+    rating: 5
+    comment: |
+      I came around 10 am on a Monday and it was very packed, with around 20+ people and they still had seats available. I ordered a latte with almond milk and the barista was very nice and quick with my order as well. One of the best cafes I’ve been to. Latte was exceptional as well
   - name: "Amanda Gall"
     rating: 5
     comment: |
@@ -43,14 +65,4 @@ reviews:
       Place is located inside a small business building. Rustic atmosphere gives a whole different vibe. Cozy and chill spot, good place to relax after long work day.
       Menu is simple and fresh, prices are pretty standard. Series fast and simple.  Place needs bit more cleaning and care.
       Overall it's a nice place to chill with your family and friends
-  - name: "Mykola"
-    rating: 5
-    comment: |
-      Cozy atmosphere + seriously tasty coffee. One of the best flat whites I’ve tried. Will be back for sure
-  - name: "Zaid P"
-    rating: 5
-    comment: |
-      I came for the coffee and stayed for that burger bby. Was not expecting the food to be so good. The buns were soft to the touch (pause), smashed patty and it had that blue cheese stank on it! Yum. The fries were crispy too.
-      
-      Great atmosphere, overall good vibes. Stop by Paul Kane park or the brewery next door if you're in the area
 ---

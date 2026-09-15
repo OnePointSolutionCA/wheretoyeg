@@ -41,18 +41,12 @@ reviews:
     rating: 5
     comment: |
       Flo n Glo has incredible instructors.  They guide well whether you're a beginner or you've been practicing for decades. There's always a class for everyone and every mood.  I love the vibes in the studio, I always feel welcome.  When you have friendly, knowledgeable instructors, thoughtful and caring owners it makes for a wonderful place to go and practice.
-  - name: "Nada M"
-    rating: 4
-    comment: |
-      This studio is great - the space is clean, the atmosphere is welcoming, and the teachers are knowledgeable. I’ve consistently enjoyed coming here.
-      
-      Unfortunately, before class, the hot room is often filled with loud conversations, which makes it difficult for people who come early to relax or meditate. I’ve also seen people take phone calls inside the hot room, which is pretty disruptive in a space that’s meant to be quiet and focused.
-      
-      Even more concerning, I’ve noticed people on video calls in the change room. That raises obvious privacy concerns and feels inappropriate in a shared space where others are changing.
-      
-      The studio itself and the teaching staff are great, but clearer rules - and actual enforcement of them - around phone use, noise levels, and general etiquette would make a big difference for everyone trying to enjoy the practice.
   - name: "Amy W"
     rating: 5
     comment: |
       A beautiful and clean yoga space! The teachers (especially Masa and Ricky) are AWESOME! Great for all levels, but gives the opportunity for growth in your practice!
+  - name: "Cat Jones"
+    rating: 5
+    comment: |
+      I would highly recommend Flo N Glo to anyone. They offer a wide variety of classes where you can always learn something new. The social environment of the studio really stood out to me , with the staff being very inclusive and inviting and the studio guests supporting each other. I have attended over 20 yoga studios around North America and Flo n Glo is one of the best I've ever visited.
 ---

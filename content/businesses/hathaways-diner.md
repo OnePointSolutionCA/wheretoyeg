@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–3:00 PM"
 photos: ["/photos/hathaways-diner-1.jpg", "/photos/hathaways-diner-2.jpg", "/photos/hathaways-diner-3.jpg"]
 rating: 4.7
-review_count: 2266
+review_count: 2276
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,6 +30,18 @@ tags: ["edmonton", "family"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Jay"
+    rating: 5
+    comment: |
+      Halfway Diner has such a cool atmosphere! I really liked the old-school, retro vibe with all the vintage relics, signs, posters, and décor throughout the restaurant. It gives the place a lot of character and makes it stand out from your typical diner.
+      
+      I ordered my food to go, and it was still really good — I’d give the food around a 4 to 4.5/5. Everything tasted good and I enjoyed my meal. The staff were extremely friendly and welcoming, so the service was an easy 5/5.
+      
+      Food: 4–4.5/5
+      Service: 5/5
+      Atmosphere: 5/5
+      
+      Overall, really enjoyed Halfway Diner. Great vibe, friendly people, and good food. Definitely will be back!
   - name: "P Scriba"
     rating: 4
     comment: |
@@ -57,10 +69,4 @@ reviews:
     rating: 5
     comment: |
       We always stay nearby when we come to the city but never checked this spot out.   Worth the 7 min off the Yellowhead to get there.  We will be back.    Homemade hollandaise, great quality proteins and I can’t say enough about the service.    We had Celia and she was amazing but everyone was on point.   We are told to come back for the beef dip and the pineapple pistachio pie.   I’d made a reservation or expect a wait on a weekend.  We went Monday morning and it was still steady busy.
-  - name: "Alyssa"
-    rating: 5
-    comment: |
-      Absolutely loved it. Excellent place for breakfast, prices were fair for the portion sizes, and the staff were great. Visiting from out of town and will recommend to anyone visiting Edmonton.
-      
-      My only regret is I was too full to have pie (so instead we got four slices and took them home with us). Highly recommend.
 ---

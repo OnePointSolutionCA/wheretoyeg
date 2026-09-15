@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Castle Downs"
 address: "15745 97 St NW, Edmonton, AB T5X 0C7"
 rating: 4.5
-review_count: 1152
+review_count: 1151
 tier: "featured"
 phone: "(780) 756-6440"
 website: "https://famoso.ca/"

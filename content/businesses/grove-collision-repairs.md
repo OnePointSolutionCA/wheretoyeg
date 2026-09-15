@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Spruce Grove"
 address: "120 South Ave, Spruce Grove, AB T7X 3B1"
 rating: 4.7
-review_count: 572
+review_count: 575
 tier: "featured"
 phone: "(780) 962-3755"
 website: "http://www.grovecollision.ca/?utm_campaign=gmb"
@@ -30,6 +30,10 @@ reviews:
       I had a great experience after someone backed into my Volvo in my Parkade at work. From start to finish, the process with seamless and really easy to navigate - they took care of everything and kept things moving efficiently.
       
       The turnaround was quick and the quality of work was excellent (thanks, Doug!). My suv looks fantastic - like it never even happened! And it came back clean and shiny. :-)
+  - name: "Michael Carby"
+    rating: 5
+    comment: |
+      I was thrilled with Grove. Extremely professional. Large clean shop. They did an amazing job on my body work and went the extra mile to acquire some used parts that they made look like new. I highly recommend!
   - name: "Your Bestie"
     rating: 4
     comment: |
@@ -44,10 +48,6 @@ reviews:
     rating: 5
     comment: |
       Always prompt and professional. All people there are excellent representatives of their brand.  The car was show room clean when we picked it up.  Thanks
-  - name: "Chandra English"
-    rating: 5
-    comment: |
-      Great experience. Very happy with how everything turned out and the extra detailing that was done. Thank you.
 hours:
   monday: "8:00 AM–5:00 PM"
   tuesday: "8:00 AM–5:00 PM"

@@ -35,21 +35,21 @@ reviews:
       The upgraded facilities are much appreciated and very nice indeed! Can hardly wait to get back to watching some wonderful performances there under the tent!
       We highly recommend this beautiful park.
       The restaurant is great too! A little pricey but what isn't these days? 🤷🏻‍♀️
+  - name: "Matthew Aseltine"
+    rating: 4
+    comment: |
+      This park is used for a multitude of things within the Edmonton area from festivals like heritage festival to the occasional triathlon and multiple venues for just enjoying being in a park with your family.
   - name: "Виктория Иванова"
     rating: 5
     comment: |
       It's a great place to relax. I'm especially happy about "lift me up on the lake." You can relax with the whole family, enjoy good food and fresh air.
+  - name: "Maria Troughton"
+    rating: 5
+    comment: |
+      It’s a beautiful park ! Would love to spend more time here but very busy and so good to see it come back !
   - name: "Busani"
     rating: 5
     comment: |
       Really nice park. Very clean. Family friendly place to have a picnic, barbecue and general friends & family meet up.
       There's a nice restaurant and boat house.
-  - name: "Julie May"
-    rating: 5
-    comment: |
-      Beautiful summer pond. Seems better after the renovations.
-  - name: "Shannon Hunter"
-    rating: 5
-    comment: |
-      Huge park, picnic areas, lots of grass to play on.
 ---

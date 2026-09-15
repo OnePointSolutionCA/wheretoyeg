@@ -19,7 +19,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/iland-vybes-jamaican-cafe-1.jpg", "/photos/iland-vybes-jamaican-cafe-2.jpg", "/photos/iland-vybes-jamaican-cafe-3.jpg"]
 rating: 4.8
-review_count: 197
+review_count: 198
 price_range: "$"
 amenities:
   - "Dine-In"

@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Edmonton"
 address: "3418 99 St NW, Edmonton, AB T6E 5X5"
 rating: 4.8
-review_count: 615
+review_count: 617
 tier: "featured"
 phone: "(780) 993-6766"
 website: "http://fornoflatbreadco.com/"
@@ -13,10 +13,14 @@ google_maps: "https://maps.google.com/?cid=16704137101248192247&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/forno-flatbread-co.jpg"
 reviews:
-  - name: "WISAM M KEE ALSEBAI"
+  - name: "Vidhi Abbi"
     rating: 5
     comment: |
-      The ingredients used are very good and of good quality. The sausage is moderately seasoned, but not overly so; you can taste the quality of the meat. The baked falafel is a wonderful, healthy, and delicious option, and I think they're one of the few who have done it. It could have used a little more salt, but that's optional. The dough is thin and delicious. The place is very clean, quiet, and suitable for morning breakfast gatherings. My review is from a chef.
+      We are visiting from Toronto and needed something quick before a flight. We are totally blown away by Forno Flatbread.
+      
+      The gentleman running the restaurant gave us his recommendations and was very kind. The food came out hot, fresh, and delicious. The lahmajoun was full of flavour, the haloomi sandwich was perfectly sweet and salty, and our favourite was the sujuk wrapped in pita. All portions were very generous as well.
+      
+      So sad we don’t have this restaurant at home and can only recommend it to anyone who values quality ingredients and taste. What a gem in Edmonton!
   - name: "SERGIO LEITE"
     rating: 5
     comment: |

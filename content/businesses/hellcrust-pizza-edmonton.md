@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "11127 107 Ave NW, Edmonton, AB T5H 3E9"
 rating: 4.7
-review_count: 362
+review_count: 365
 tier: "featured"
 phone: "(587) 401-6302"
 website: "https://www.hellcrustpizza.com/"
@@ -26,18 +26,24 @@ reviews:
     rating: 4
     comment: |
       I’ll start off by saying the customer service was amazing. Yassin was the nicest guy I’ve ever dealt with in a pizza joint. Online ordering was easy, the restaurant was clean, bright and welcoming even though it’s not in the best of locations. The pizza did taste good and the toppings were very fresh, but it lacked cheese, had too much flop and the gravy was very mild tasting. Overall, it was a good pizza for what you paid($18.99 for a large unlimited toppings)and I would try again if I’m in the area…I’d also try some of the other menu items.
-  - name: "Faris Jawahir"
-    rating: 5
-    comment: |
-      I visited this hidden gem weeks ago. Unfortunately, I haven't eaten there since because of my busy schedule. But the taste of pizza there is so special that it still sticks to my mouth til this day. Not only did the taste exceeded my expectation, but also the staff there was such an amazing person. Treated all of our orders with extra care and maintained high levels of cleanliness. That staff I am talking about is Yassin. A very nice and dedicated person. I hope anyone who is seeing this go and visit the place and say hi to him and enjoy his perfect customer service.
-  - name: "omar juve"
-    rating: 5
-    comment: |
-      Tried Hellcrust Pizza today and it was delicious! Fresh, flavorful, and perfectly made. Yaseen provided amazing customer service — very friendly and welcoming. Great experience overall. Highly recommend!
   - name: "LP"
     rating: 3
     comment: |
       Our first pizza order (delivery) from here was amazing, so tasty! This last order was sadly lacking--pizza crust not cooked, about four pieces of olives I paid $2.50 to have added, lacking the potato chips completely on the Vegan Crunch pizza. Are they SO busy due to st paddys day? Or is just inconsistency? Just disappointing after the other delicious order.
+  - name: "khalid legsayer"
+    rating: 5
+    comment: |
+      I had an amazing experience at HellCrust Pizza. The pizza was easily some of the best I’ve had — perfectly crispy crust, generous toppings, and incredible flavor in every bite. You can tell they use quality ingredients and actually care about what they serve.
+      
+      The staff were friendly, welcoming, and the service was fast even during busy hours. The atmosphere was great too — clean, comfortable, and full of energy.
+      
+      If you’re looking for pizza that stands out from the usual chains, this place is 100% worth trying. I’ll definitely be coming back and recommending it to friends and family. Highly recommended!
+      
+      Aya Legsayer
+  - name: "Conrad"
+    rating: 5
+    comment: |
+      Super friendly, some of the best pizza I’ve had in Edmonton at a good price, and the aesthetics here are sick. I’ll be back here many times for sure.
 hours:
   monday: "11:00 AM–10:30 PM"
   tuesday: "11:00 AM–10:30 PM"

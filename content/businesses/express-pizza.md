@@ -13,10 +13,6 @@ google_maps: "https://maps.google.com/?cid=4799146567894471286&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/express-pizza.jpg"
 reviews:
-  - name: "Shaun Chichak"
-    rating: 5
-    comment: |
-      Great pizza very generous with the toppings super cheesy the crust is good quality overall a really good pizza place
   - name: "Clayton Ross"
     rating: 5
     comment: |
@@ -30,6 +26,10 @@ reviews:
     rating: 5
     comment: |
       We’ve had a lot of pizza from a lot of different places in and around St.Albert. This is the best pizza hands down in the area. The toppings are actually fresh/not canned and they are piled HIGH. 2-3 slices and you are legit full. Even better customer service with the staff. Don’t through your money at the pizza chains. Come here and actually have quality.
+  - name: "Shaun Chichak"
+    rating: 5
+    comment: |
+      Great pizza very generous with the toppings super cheesy the crust is good quality overall a really good pizza place
   - name: "Gigi Reviews — YEG • AB • Beyond"
     rating: 5
     comment: |
@@ -39,7 +39,7 @@ reviews:
       For a closer look —
       If you’re looking for that traditionally delicious, no-nonsense style of pizza, Express Pizza in St. Albert delivers. The balance is just right — layered meats, fresh vegetables, and just-enough cheese on a perfectly dry-baked, crispy crust. Simple, classic, and deeply satisfying. The interior is bright, clean, and well-kept, the service friendly and upbeat, and the overall experience feels genuine and welcoming. Easy to miss from the road, but absolutely worth finding. Visited November 2025 — St. Albert.
 hours:
-  monday: "3:00 PM–8:30 PM"
+  monday: "11:00 AM–9:30 PM"
   tuesday: "11:00 AM–10:00 PM"
   wednesday: "11:00 AM–10:00 PM"
   thursday: "11:00 AM–10:00 PM"

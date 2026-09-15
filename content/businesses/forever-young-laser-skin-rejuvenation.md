@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–6:00 PM"
 photos: ["/photos/forever-young-laser-skin-rejuvenation-1.jpg", "/photos/forever-young-laser-skin-rejuvenation-2.jpg", "/photos/forever-young-laser-skin-rejuvenation-3.jpg"]
 rating: 4.8
-review_count: 1662
+review_count: 1661
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,10 @@ tags: ["edmonton", "facials"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Lynn Varty"
+    rating: 5
+    comment: |
+      Recently had a pedicure - Bella was my technician. She was awesome, professional and skilled in her job. I really appreciated the quietness of the session. It was so peaceful I was able to close my eyes and rest! Will be back again and would definitely recommend Bella!
   - name: "Savannah"
     rating: 5
     comment: |
@@ -53,8 +57,4 @@ reviews:
       My husband was also very happy with his manicure and pedicure. Both Apple and Yuliya were both highly skilled and also warm and friendly, creating a welcoming and calming atmosphere.
       
       We left feeling refreshed and pampered. We will definitely be coming back!
-  - name: "Raquel Pingil"
-    rating: 5
-    comment: |
-      I recently purchased a laser upper lip package, and they gave me a great discount. Rafia handled everything professionally, and scheduling my appointments was very convenient. I really like their new machine—it’s fast and painless. I highly recommend the services they provide to their customers.
 ---

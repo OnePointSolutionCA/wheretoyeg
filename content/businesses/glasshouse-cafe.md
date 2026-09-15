@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "St. Albert"
 address: "Entrance - Glasshouse Gate, 100, 101 Riel Dr, St. Albert, AB T8N 3X4"
 rating: 4.1
-review_count: 30
+review_count: 31
 tier: "featured"
 phone: "(780) 651-7360"
 website: "https://www.glasshousekitchenbar.com/"

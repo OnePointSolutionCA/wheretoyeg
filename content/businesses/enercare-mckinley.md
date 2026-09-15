@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/enercare-mckinley-1.jpg", "/photos/enercare-mckinley-2.jpg", "/photos/enercare-mckinley-3.jpg"]
 rating: 4.9
-review_count: 2634
+review_count: 2655
 price_range: "$$$$"
 amenities:
 

@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Mill Woods"
 address: "1648 24 St NW, Edmonton, AB T6T 1J1"
 rating: 4.4
-review_count: 211
+review_count: 216
 tier: "featured"
 phone: "(587) 521-6666"
 google_maps: "https://maps.google.com/?cid=17628819598956462967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

@@ -18,8 +18,8 @@ hours:
   saturday: "9:00 AM–6:00 PM"
   sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/faded-barbershop-1.jpg", "/photos/faded-barbershop-2.jpg", "/photos/faded-barbershop-3.jpg"]
-rating: 4.6
-review_count: 442
+rating: 4.7
+review_count: 443
 price_range: "$$"
 amenities:
 
@@ -39,16 +39,15 @@ reviews:
     rating: 5
     comment: |
       My husband came in today to get just his hair trim (Skin Fade) and he said the experience was great! The barber was super friendly, did a great job! The barber shop was really nice and clean with plenty of seating. It is WALK-IN only and the prices seem standard for what you get :) Overall, my husband had a great experience and would probably go again :)
+  - name: "Manharshbir Singh Bains"
+    rating: 5
+    comment: |
+      I been getting my hair and beard done from Joseph since 4 months, very fine skills pleasant customer service. Very kind and humble person.
+      Highly recommend Faded Barber shop. You'll never be dissappointed. Always above and beyond the expectations.
   - name: "Kevin Silva-Prado"
     rating: 5
     comment: |
       Stopped by without an appointment and the barber was super professional and quick, paid $25+$5tip great hair cut and got me exactly what I wanted
       Just moved to the area and this will be my new place to get hair cuts.
       The place is super convenient with plenty of parking. The inside comfortable and classy.
-  - name: "Zsarina Balmes"
-    rating: 5
-    comment: |
-      My husband and I recently visited this barber shop, and we had a great experience! The place is clean, welcoming, and has a really nice vibe. The barber did an amazing job giving us the exact haircuts we wanted - we’re both very happy with the results.
-      
-      Thank you as well to the owner for creating such a great space and providing excellent service. We’ll definitely be coming back! 🤍
 ---

@@ -18,7 +18,7 @@ hours:
   sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/golden-rice-bowl-1.jpg", "/photos/golden-rice-bowl-2.jpg", "/photos/golden-rice-bowl-3.jpg"]
 rating: 4
-review_count: 1319
+review_count: 1321
 price_range: "$$"
 amenities:
   - "Dine-In"

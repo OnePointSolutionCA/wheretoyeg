@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Castle Downs"
 address: "6893 Ad Astra Blvd NW, Edmonton, AB T5E 6X3"
 rating: 4.7
-review_count: 281
+review_count: 280
 tier: "featured"
 phone: "(587) 414-6380"
 website: "http://www.griesbachfamilydental.com/?utm_campaign=gmb"
@@ -33,10 +33,10 @@ reviews:
     rating: 2
     comment: |
       My hygienist is really kind and I love her, so for her i’d give 5 stars. But this dentist office really needs to work on their professionalism. The receptionists are very gossipy and will whisper and giggle back and forth as you are standing there. I’m not so self absorbed to assume it is about me, but as someone with anxiety it is an uncomfortable experience.
-  - name: "Aurora"
-    rating: 2
+  - name: "Hiba Outa"
+    rating: 5
     comment: |
-      Only good thing is that the  receptionists were friendly and do their job well.  I do not recommend this dental office, I went last year for cleaning and the dentist and hygienists gossip the whole time and don't focus their attention while working on patients. I had 2 sealants that needed to get done and the dentist went ahead and did 2 more sealants on my other teeth, without asking my permission to charge more money. My teeth were in lots of pain and sensitive after these sealants were done by the dentist who is not very skilled or experienced in their work.
+      I can’t say enough good things about Griesbach Family Dental. The entire team was gentle, thorough, and took the time to explain every step, which really put me at ease. They made sure I was comfortable throughout the entire visit and were incredibly patient and caring, especially with children. The office is clean, welcoming, and truly family-friendly. It’s clear they genuinely care about their patients and provide high-quality dental care for all ages. Highly recommend to anyone looking for excellent, trustworthy dental care.
 hours:
   monday: "8:00 AM–3:00 PM"
   tuesday: "8:00 AM–3:00 PM"

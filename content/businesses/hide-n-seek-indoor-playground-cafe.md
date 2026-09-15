@@ -20,7 +20,7 @@ hours:
   sunday: "9:30 AM–8:00 PM"
 photos: ["/photos/hide-n-seek-indoor-playground-cafe-1.jpg", "/photos/hide-n-seek-indoor-playground-cafe-2.jpg", "/photos/hide-n-seek-indoor-playground-cafe-3.jpg"]
 rating: 4.3
-review_count: 1175
+review_count: 1177
 price_range: "$$"
 amenities:
 

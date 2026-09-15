@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/groat-veterinary-centre-1.jpg", "/photos/groat-veterinary-centre-2.jpg", "/photos/groat-veterinary-centre-3.jpg"]
 rating: 4.8
-review_count: 91
+review_count: 92
 price_range: "$$"
 amenities:
 

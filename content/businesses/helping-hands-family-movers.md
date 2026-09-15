@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–5:30 PM"
 photos: ["/photos/helping-hands-family-movers-1.jpg", "/photos/helping-hands-family-movers-2.jpg", "/photos/helping-hands-family-movers-3.jpg"]
 rating: 4.8
-review_count: 435
+review_count: 437
 price_range: "$$$$"
 amenities:
 

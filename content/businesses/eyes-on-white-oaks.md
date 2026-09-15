@@ -32,10 +32,6 @@ reviews:
     rating: 5
     comment: |
       Fantastic experience! Fast service, great selection of glasses, made everything hassle-free and very knowledgeable staff. I was in and out quickly and couldn't be happier with my new glasses. Highly recommended! I'll definitely be coming back
-  - name: "Hamza Elzarif"
-    rating: 5
-    comment: |
-      I had a great experience at Eyes On White Oaks. The staff was friendly, professional, and made me feel welcome from the moment I arrived. The eye exam was thorough, and they took the time to answer all my questions. They also have a great selection of glasses and helped me find the perfect pair. The whole process was quick and easy. I highly recommend Eyes On White Oaks to anyone looking for excellent eye care!
   - name: "Kevin King"
     rating: 5
     comment: |
@@ -48,4 +44,9 @@ reviews:
     rating: 5
     comment: |
       Was very happy with the service here. Came in to look at glasses and was greeted warmly by the receptionist Hala. She was kind professional, and very knowledgeable about the glasses selection they provided. Will definitely be spreading the word about this clinic!!!
+  - name: "Nikki North"
+    rating: 5
+    comment: |
+      Very professional, very clean and very friendly staff. Michelle was a huge help and made the whole process easy.
+      Very great selection of frames and sunglasses! Would definitely recommend coming here for glasses
 ---

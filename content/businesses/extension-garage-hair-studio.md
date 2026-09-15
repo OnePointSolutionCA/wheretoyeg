@@ -32,14 +32,6 @@ reviews:
     rating: 5
     comment: |
       By far the best salon you can ask for. Deanna has been doing my hair extensions for 11 years. She is amazing at installing extensions/colour (foils).  Colour matching natural hair and extensions is ALWAYS on point 👌🏼. Which I am telling you, most salons cannot do! Deanna and Julie have such a fun inviting environment for their clients. Very accommodating when I need to book personally. Great place. Thanks for always being great!!! 😊
-  - name: "Cindy Brenner"
-    rating: 5
-    comment: |
-      My hair is AMAZING!! I have been seeing Juli for almost 10 years.
-      She has been doing my extensions and color/cuts and I have never been happier with my hair. My hair has grown naturally so long with Juli’s extensions. No breakage and stress to my hair at all!
-      I’ve tried other stylists in the past and none have been as experienced and professional as Juli.
-      Her work is quality, her pricing is fair and she is an amazing kind person.
-      If you're  looking  for a master stylist with years of experience and quality workmanship go and see Juli!
   - name: "Susan L"
     rating: 5
     comment: |
@@ -55,4 +47,8 @@ reviews:
     comment: |
       I brought my daughter for a colour service this past weekend. We were adding pastel coloured highlights to her hair, as well as a clean up hair cut. My daughter was nervous after a receiving a botched colour from another salon. Deanna was absolutely amazing with fulfilling every out of the box request my daughter asked for, all while making sure her hair stayed healthy. We could not have been happier with the service we received, and will definitely be returning.
       If you’re looking for a one stop shop where you can be comfortable with your stylist and look and feel over the top confident when you leave, this is the place!!
+  - name: "Delilah"
+    rating: 5
+    comment: |
+      So, so happy with my experience! I love my extensions and the colour match is perfect! I loved how quick her response time was when inquiring. I would absolutely recommend her to anyone looking to get extensions. Experience from start to finish was great!!
 ---

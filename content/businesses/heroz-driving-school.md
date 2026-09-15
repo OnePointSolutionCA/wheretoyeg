@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/heroz-driving-school-1.jpg", "/photos/heroz-driving-school-2.jpg", "/photos/heroz-driving-school-3.jpg"]
 rating: 4.9
-review_count: 617
+review_count: 619
 price_range: "$$"
 amenities:
 
@@ -48,10 +48,6 @@ reviews:
       I had an amazing experience with Hero’s Driving School! My instructor, Riz, was awesome. He was friendly, funny, and made every lesson enjoyable while explaining everything clearly and making sure I understood each skill.
       
       He was very patient, gave great tips, and made me feel confident behind the wheel. I highly recommend Hero’s Driving School, especially Riz. Thanks for making learning to drive such a great experience!
-  - name: "Kika Tovar"
-    rating: 5
-    comment: |
-      Heroz Driving School is truly an outstanding place. From the very beginning, they guided us with patience, care, and professionalism through every step of the journey. My son felt supported and confident the entire time, and he was able to successfully pass his road test—an important milestone for our family. John, the instructor, was enthusiastic, encouraging, and incredibly supportive throughout. We are very grateful for his dedication and highly recommend him from the heart! 💯❤️😃🥇
   - name: "Deniz Koç"
     rating: 5
     comment: |
@@ -64,4 +60,10 @@ reviews:
       I appreciated that Sim emphasized safe driving habits and defensive driving, not just passing the test. I left the program feeling much more confident and prepared as a driver.
       
       I highly recommend Heroz Driving School and Sim to anyone looking for quality driver training and road test preparation. Thank you for helping me achieve my goal and pass my road test!
+  - name: "Oluwatoyin Amushan"
+    rating: 5
+    comment: |
+      Mr Koffi was an incredible instructor. He pointed out every single thing I needed to work on and gave tips on how to easily nail my all my parkings: uphill, downhill and especially parallel.
+      
+      He also accomodated me when I needed to rent the car for my road test and I was able to pass my test. I highly recommend him.
 ---

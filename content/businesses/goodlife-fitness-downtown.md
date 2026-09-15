@@ -40,10 +40,11 @@ reviews:
       I had a really positive experience at GoodLife Fitness today. I met with Violet, who did an excellent job showing me around. From the moment I walked in, she set a professional and welcoming tone that truly reflects a high standard of customer service.
       She took the time to understand my goals and even recommended workout routines that fit well with my schedule, which I really appreciated. Her approach was both knowledgeable and personable, making the whole experience comfortable and motivating.
       I’ll definitely be signing up and getting started in the coming week.
-  - name: "christina “pok3adot” K"
-    rating: 5
+  - name: "Family calendar"
+    rating: 3
     comment: |
-      Absolutely love this gym! It’s so comfortable even at its busiest times. All the staff was so nice and personable. Never any issues and the parking is amazing especially during the winter can’t beat a warm underground parking lot.
+      This club is pretty good’s but has gone down hill a little since their A.GM Violeta left. She always met every one with a huge smile and remembered little
+      Things about us. She always ensured the place was clean and was always present on the gym floor helping clients or asking about their day. Clubs alright now. Gil and Ryan as GM are amazing staff as well
   - name: "Guillermo Arroyo"
     rating: 5
     comment: |

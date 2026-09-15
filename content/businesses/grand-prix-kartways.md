@@ -18,7 +18,7 @@ hours:
   sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/grand-prix-kartways-1.jpg", "/photos/grand-prix-kartways-2.jpg", "/photos/grand-prix-kartways-3.jpg"]
 rating: 4.5
-review_count: 1984
+review_count: 1987
 price_range: "$$$"
 amenities:
   - "Indoor Karting"
@@ -28,6 +28,14 @@ tags: ["karting", "racing", "birthday-parties"]
 active: true
 date_listed: "2026-08-18"
 reviews:
+  - name: "Cole"
+    rating: 5
+    comment: |
+      I’ve been to Tampa Bay Grand Prix once for the adult-speed karts, and I had an awesome time. The karts felt really fast, especially on the straightaways, which made every lap exciting. The track was a lot of fun to drive, and it was easy to get into the racing experience.
+      
+      The staff was friendly and helped keep everything organized, so the whole visit went smoothly. The wait wasn’t bad, and once I got on the track, it was definitely worth it. After racing, I grabbed a Hershey’s Cookies & Cream bar, which was a nice treat to end the visit.
+      
+      Overall, it was a really fun experience that I’d gladly do again. Whether you’re racing friends or just looking for something exciting to do, I definitely recommend Tampa Bay Grand Prix. I can’t wait to come back!
   - name: "Mike Faber"
     rating: 4
     comment: |
@@ -45,8 +53,4 @@ reviews:
     rating: 5
     comment: |
       Great experience! We witnessed someone have a medical emergency and the staff handled it great. Calling 911 and grabbing supplies as needed. I got too hot on my 1st ride, they checked on me, offered a refund on the rides I didn't get to take, and grabbed me a powerade. Top notch staff and place. Will definitely be back when we are in the area.
-  - name: "Master 1917"
-    rating: 5
-    comment: |
-      Fun, clean, proffesaional and affordable. Karts are in good shape and fast. Young people working there are effective and helpful. You guys need to get chalk for the pool table though!
 ---

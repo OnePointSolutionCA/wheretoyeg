@@ -19,7 +19,7 @@ hours:
   sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/hanoi-pho-vietnamese-kitchen-1.jpg", "/photos/hanoi-pho-vietnamese-kitchen-2.jpg", "/photos/hanoi-pho-vietnamese-kitchen-3.jpg"]
 rating: 4.9
-review_count: 185
+review_count: 190
 price_range: "$"
 amenities:
   - "Dine-In"

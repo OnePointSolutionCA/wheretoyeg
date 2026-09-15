@@ -40,6 +40,10 @@ reviews:
     rating: 5
     comment: |
       I had a massage with Grace, and she was incredible. She knew exactly how to find my problem areas and release the muscle knots with great technique. The wellness center itself had a beautiful, calming atmosphere and gave off a very warm and welcoming vibe.
+  - name: "Sally Ferrari"
+    rating: 5
+    comment: |
+      Great and affordable place for UAlberta students to get chiro care! So grateful for Dr. Deltombe for getting me back in alignment for fall semester and resolving my neck pain!
   - name: "Jovie Yunara"
     rating: 5
     comment: |
@@ -48,8 +52,4 @@ reviews:
     rating: 5
     comment: |
       Have been using my student health care for massage in here for about two years now, always with Dr. Scott and Paige and always enjoyed it.
-  - name: "Jinal Adhiya"
-    rating: 5
-    comment: |
-      Great experience with Dr. Robert and Grace. Both has magic in their hands. Always listen to the problem very carefully and guide the way to resolve it. Very friendly staff. Highly recommended!
 ---

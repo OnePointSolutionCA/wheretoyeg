@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–6:00 PM"
 photos: ["/photos/hatchd-1.jpg", "/photos/hatchd-2.jpg", "/photos/hatchd-3.jpg"]
 rating: 4.5
-review_count: 118
+review_count: 120
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -46,18 +46,14 @@ reviews:
       Food looked and tasted good.  Would have preferred slightly larger serving size for burger.  Flavour were much better than the fast food places!
       
       Surely worth visiting for a quick bite !
-  - name: "wendy yu"
-    rating: 3
-    comment: |
-      Hatch’d is conveniently located near the UofA campus and has a cozy atmosphere with comfortable seating. We ordered the Bacon Sando and the Bac’n Me Crazy Poutine — the sandwich was flavourful and satisfying, but I probably wouldn’t order the poutine again. The portions were also small for the price.
-      
-      I specifically came to try their coffee in the can-style cups I’ve seen online and as advertised on the ordering kiosk, so I was a little disappointed when it was served in a plastic cup instead. After our meal, a staff member explained they’re currently dealing with shipping delays for their can-style cups, which I appreciated. However, it would’ve been helpful if that had been mentioned when the girl at the front was making my coffee.
-      
-      Overall, I still enjoyed my meal and would return if I were in the area.
   - name: "Daniel Tran"
     rating: 4
     comment: |
       Visit: April 2026
       
       Had a double patty jalapeno smash burger and my friend got the bacon Sando. The sandwiches were good but too small for the price. We definitely left not full. The atmosphere is really nice though, and the staff was kind!
+  - name: "Phat Boy"
+    rating: 3
+    comment: |
+      Tried the sausage burrito and it was extremely salty and a bit too greasy for my liking. The clerk was friendly and the joint was clean and inviting, but it almost took 15 minutes to get a burrito and the parking was ridiculous. I’d try this place again because the other food being served did look good but I’d only swing by if I was already in the area and had parking and extra time waiting for my order.
 ---

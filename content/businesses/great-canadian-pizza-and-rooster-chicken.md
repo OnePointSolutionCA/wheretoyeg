@@ -29,16 +29,6 @@ reviews:
       (Update 6:32 we got it now and they didn’t give us our dipping sauces I’m not driving back. lol we opened up our pizza and the toppings didn’t start for about 4” in from the edge look at the pic)
       
       Just be honest with people when it will me ready.
-  - name: "Mohamed Araji"
-    rating: 5
-    comment: |
-      We ordered a late night feast her for a group of hungry guys. We didn't expect much .. but when the pizza arrived. Oh my goodness.
-      
-      We selected one cheese thin crust and one beef. Mushroom onion also on thin crust.
-      
-      The pizzas were BOTH fantastic. Delicious toppings and great flavors. It arrived fresh and hot.
-      
-      I'm very impressed and will order from these guys again ! 8.5/10 easily.
   - name: "Steve Hemminger"
     rating: 1
     comment: |
@@ -51,6 +41,10 @@ reviews:
     rating: 5
     comment: |
       I've order this establishment for a few times. I haven't had such a good experience, even with other pizza places, the care that goes with your order is above and beyond. Keep up the excellent work.
+  - name: "Thomas Allie"
+    rating: 5
+    comment: |
+      Excellent food and superb service. Best pizza ever.
 hours:
   monday: "3:30 PM–11:30 PM"
   tuesday: "3:30 PM–11:30 PM"

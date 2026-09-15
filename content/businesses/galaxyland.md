@@ -9,16 +9,16 @@ address: "8882 170 St NW"
 neighborhood: "West Edmonton"
 google_maps_url: "https://maps.google.com/?q=Galaxyland%20Amusement%20Park%20Edmonton"
 hours:
-  monday: "11:00 AM–7:00 PM"
-  tuesday: "11:00 AM–7:00 PM"
-  wednesday: "11:00 AM–7:00 PM"
-  thursday: "11:00 AM–7:00 PM"
-  friday: "11:00 AM–7:00 PM"
+  monday: "12:00 PM–5:00 PM"
+  tuesday: "12:00 PM–5:00 PM"
+  wednesday: "12:00 PM–5:00 PM"
+  thursday: "12:00 PM–5:00 PM"
+  friday: "12:00 PM–7:00 PM"
   saturday: "11:00 AM–7:00 PM"
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/galaxyland-1.jpg", "/photos/galaxyland-2.jpg", "/photos/galaxyland-3.jpg"]
 rating: 4.3
-review_count: 7164
+review_count: 7188
 price_range: "$$$"
 amenities:
   - "Family Friendly"
@@ -37,6 +37,12 @@ reviews:
       The atmosphere was vibrant, the attractions were well‑maintained, and there were options for every age group — from gentle rides for little ones to thrilling adventures for older kids and adults. My children had an incredible time, and it was one of those outings where you can see pure joy on their faces from start to finish.
       
       The staff were friendly and helpful, and the entire park felt clean, safe, and well‑organized. It’s definitely a place we’ll keep coming back to whenever we’re in Edmonton. Highly recommended for families looking for a fun, memorable day.
+  - name: "Hema k. Patel"
+    rating: 5
+    comment: |
+      Galaxyland is an amazing indoor amusement park for all ages! There are rides for everyone, from beginners to advanced and extreme thrill seekers. If you love adventure, definitely try one of the extreme rides to test your courage!
+      
+      Kids will love the smaller rides, scooters, and the fantastic playground with lots of slides, climbing structures, ropes, and steps. They also have fun ride-on stuffed animals that younger children really enjoy. We had a fantastic time, and it's a great place for a family day out. Highly recommended!
   - name: "Alex Machholz"
     rating: 4
     comment: |
@@ -58,18 +64,4 @@ reviews:
       We recently took the family to Galaxyland at West Edmonton Mall and overall had a fantastic time! Being indoors means weather is never an issue, and there's a really impressive mix of rides for all ages, from gentle kid rides to huge thrill coasters. The kids had an absolute blast, and the staff running the rides were friendly, helpful, and attentive to safety.
       
       ​My only note for management would be that a few of the older sections and arcade areas are starting to show their age and could definitely use some modern updates and maintenance touch-ups. That said, the overall experience was filled with smiles and high energy. We’ll definitely be back for another family day out!
-  - name: "Andrei Zemlianoi"
-    rating: 3
-    comment: |
-      Not sure it’s worth paying for the whole family. If your kids are old enough, in most cases only the kids really need wristbands — adults mainly just accompany them on some rides.
-      
-      Overall, 2–3 hours is probably the maximum time to spend there. After that there’s not much left to do.
-      
-      The staff didn’t seem very motivated. We tried three different times to go on the pony ride and every time nobody was there. When we finally found an employee, he told us he was going on a 20-minute break.
-      
-      A lot of attractions were closed. The swing ride was disappointing — long ride cycle, too fast, and honestly made us feel a bit motion sick.
-      
-      I wouldn’t recommend going on weekdays — it feels like half the attractions are closed and everything moves very slowly.
-      
-      Overall, it’s an okay place to visit once, but in my opinion it’s not worth the price they charge.
 ---

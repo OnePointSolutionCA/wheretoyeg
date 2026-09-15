@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–11:00 PM"
 photos: ["/photos/gebeta-restaurant-lounge-1.jpg", "/photos/gebeta-restaurant-lounge-2.jpg", "/photos/gebeta-restaurant-lounge-3.jpg"]
 rating: 4.6
-review_count: 254
+review_count: 255
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,14 +30,14 @@ tags: ["edmonton", "ethiopian"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Samuel Wondemu"
+    rating: 5
+    comment: |
+      I absolutely loved the Kornis (also spelled Cornis or ኮርኒስ)! It’s a delicious traditional Ethiopian layered platter with amazing flavors. Everything was fresh, flavorful, and beautifully prepared. I highly recommend giving it a try!
   - name: "Nya"
     rating: 2
     comment: |
       First time ordering out and spent nearly $80 for mainly Injera. I wanted to give this place a try over my regular Ethiopian restaurant but now I’m just filled with regret. The packaging and presentation of food is not the best and the Kitfo is very disappointing.
-  - name: "Jennifer Green"
-    rating: 5
-    comment: |
-      The best Ethiopian food we’ve had in Edmonton. Highly recommend! Go for the mixed platter with meat, the vegan mixed platter, doro tibs (chicken), Gebeta beef tibs. Gorgeous, classy interior, pleasant music, great service. Good prices too.
   - name: "Amanda Mendoza"
     rating: 5
     comment: |

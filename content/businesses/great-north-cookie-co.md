@@ -5,7 +5,7 @@ category: "bakeries"
 neighborhood: "Spruce Grove"
 address: "20 McLeod Ave #1, Spruce Grove, AB T7X 3Y1"
 rating: 4.8
-review_count: 289
+review_count: 288
 tier: "featured"
 phone: "(780) 571-0112"
 website: "http://www.greatnorthcookieco.com/"
@@ -50,11 +50,10 @@ reviews:
     rating: 5
     comment: |
       I went here on Tuesday after a really long walk / scooter ride with my daughter. We had London fog lattes and stuffed chocolate brownie cookies. Amazing. Very filling cookie, delicious drinks, we enjoyed sitting outside in the sun, but inside is beautiful as well. I love that there is a cute little children's play area here too.
-  - name: "Genee Olsen"
+  - name: "T-Bird"
     rating: 5
     comment: |
-      Genuinely I cannot speak highly enough about these cookies. They are absolutely divine. Like a deep dish pizza in cookie form; dense yet soft/chewy. They don't play around, they are serving thickness and the right amount of sweetness. Not overpowering sugar nonsense like Crumbl (keep that in The States, yuck). I drove from Edmonton to the store in Spruce Grove, and it was gorgeous! Very cozy, the staff were so friendly and looked like they were truly enjoying their day which is so nice for a change. Any staff reading this review: you guys are killing it. Happy Holidays, and thank you for the lovely service and cookies.
-      Give it a try! You won't be disappointed if my anecdotal experience says anything.
+      A great spot for a coffee break.  We stopped on a weekday.  It wasn't  too busy.  There is plenty of comfy seating, plus a small play area so moms can visit with young kids. The drinks and cookies were excellent.  The service was fast, friendly and professional.  We highly recommend this place!
 hours:
   monday: "8:00 AM–7:00 PM"
   tuesday: "8:00 AM–7:00 PM"

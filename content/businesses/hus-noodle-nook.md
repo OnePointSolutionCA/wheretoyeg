@@ -54,8 +54,8 @@ reviews:
       For a party of 6 people, all main, 6 appies, and everyone had drinks, we only paid $176 taxes and tip in. It's very reasonably priced and the quality is very good.
       
       Will definitely be back!
-  - name: "Shane Spurlock"
+  - name: "Kayla"
     rating: 5
     comment: |
-      Miso Ramen is my go to, with egg. So delicious and well prepared. I had the tempura prawns and dry ribs, very affordable for 2 people ❤️
+      Absolutely delicious! I tried Hu’s Noodle Nook for the first time last month and was blown away by their udon - it instantly became my new favorite spot. I actually went back today because I was craving it so much this weekend. The presentation, flavor, and service are all top-notch. I highly recommend dining here, and will definitely be sending friends and family their way. Thank you for the amazing food and wonderful service, Hu's!
 ---

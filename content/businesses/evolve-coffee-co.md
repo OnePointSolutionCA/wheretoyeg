@@ -19,7 +19,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/evolve-coffee-co-1.jpg", "/photos/evolve-coffee-co-2.jpg", "/photos/evolve-coffee-co-3.jpg"]
 rating: 5
-review_count: 24
+review_count: 26
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -33,20 +33,20 @@ reviews:
     rating: 5
     comment: |
       Had their drip coffee while at Wednesday Mom’s group, and the barista was so welcoming. Loved that I could use oat milk for my coffee.
-  - name: "Jess"
+  - name: "Raafin Zia"
     rating: 5
     comment: |
-      such yummy coffee and the friendliest baristas!!
-  - name: "Elyse Reiter"
+      I was greeted by the MOST hospitable service ever at evolve coffee, the girls had such great energy and made sure to go above and beyond for their customers. From the hi's to the coffee, I just loved their vibe. So excited to have such a great and affordable option at south common, can't wait to come back!
+  - name: "Julia Zantingh"
     rating: 5
     comment: |
-      delicious coffee and friendly staff!!
+      The best cafe! Great team and I love their vibe. The baristas are kind and care deeply about the customers.
+  - name: "Riley Zantingh"
+    rating: 5
+    comment: |
+      Evolve Coffee is seriously one of the best coffee spots around! ☕️ The coffee is amazing, the atmosphere is so welcoming, and the people there are even better. You can tell there’s a genuine passion behind everything they do, and it makes the whole experience feel different from your typical coffee shop. Whether you’re grabbing a coffee, hanging out with friends, or just looking for a great place to relax, Evolve is definitely worth checking out. 10/10 would recommend!
   - name: "Jonathon Brozny"
     rating: 5
     comment: |
       Great little shop in the research park. Definitely worth checking out!
-  - name: "Bonnie Fehr"
-    rating: 5
-    comment: |
-      super cozy!  not a ton of selection (coffee, muffins, cookies and scones) but what they have is super tasty!   And the service is very friendly. I had a drip coffee and delicious strawberry rhubarb muffin.  I took it out onto their little patio to enjoy a perfect summer morning!
 ---

@@ -19,7 +19,7 @@ hours:
   sunday: "12:00 PM–9:30 PM"
 photos: ["/photos/hibachi-house-food-truck-1.jpg", "/photos/hibachi-house-food-truck-2.jpg", "/photos/hibachi-house-food-truck-3.jpg"]
 rating: 4.9
-review_count: 42
+review_count: 43
 price_range: "$"
 amenities:
   - "Halal"
@@ -30,15 +30,18 @@ tags: ["edmonton", "uyghur", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "sehban khan"
+  - name: "Shah Aftab"
     rating: 5
     comment: |
-      Very fresh made to order hslsl Japanese food. Good have it here in Edmonton.
-      Beef and shrimp both were very delicious .
+      I learnt about this place on some Facebook page. First time tried on Aug 17, 2026. We tried a few of their food items shrimp/beef platters/spring rolls. Everything was so fresh and tasty. The serving staff was very accommodating and friendly. I do not reside close to this place but it is worth to drive down here to try some unique food items.
   - name: "YEGHalalFoodie"
     rating: 5
     comment: |
       Delicious Japanese Teppanyaki Grill. Halal. Lots of protein options to choose from. A great addition to Edmonton Halal Food Scene
+  - name: "Mohamed Hussein"
+    rating: 5
+    comment: |
+      Great food and great service. First visiting today and was quite impressed with the food and service was offered a complimentary drink as well, which  appreciated !
   - name: "Em Land"
     rating: 5
     comment: |
@@ -47,8 +50,4 @@ reviews:
     rating: 5
     comment: |
       We ordered the beef poutine, hibachi shrimp and hibachi combo shrimp and salmon. It was amazing and will be back for more to try out the other menus!
-  - name: "Umair Mazhar"
-    rating: 5
-    comment: |
-      Amazing! We had the beef teriyaki bowls and shrimp bowls. Beef was very tender and delicious. Can’t wait to come again
 ---

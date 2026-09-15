@@ -4,8 +4,8 @@ slug: "icon-vision-care-londonderry"
 category: "medical"
 neighborhood: "Edmonton"
 address: "Londonderry Mall, 140 Ave NW #134, Edmonton, AB T5C 3C8"
-rating: 4.8
-review_count: 313
+rating: 4.9
+review_count: 318
 tier: "featured"
 phone: "(780) 475-4888"
 website: "http://www.iconvisioncare.ca/"
@@ -27,14 +27,10 @@ reviews:
       
       As a newcomer family to Canada, navigating the healthcare system can sometimes feel overwhelming, especially when English is not our first language. Being able to communicate in Cantonese with Dr. Chong has made a tremendous difference. His patience and willingness to answer questions have always made us feel comfortable and respected. The same can be said of Anna, whose kindness and honest advice have been invaluable to our family.
       It is increasingly rare to find healthcare professionals who combine expertise with such sincerity and genuine care. We are grateful for their continued support and would highly recommend them to anyone looking for quality eye care in Edmonton. No matter how far the drive may be, we will gladly continue making the trip.
-  - name: "Tristan Ranville"
+  - name: "Brooke Marian"
     rating: 5
     comment: |
-      We had such a great experience with this eye care clinic. My son had broken his glasses, and we came in as a walk-in needing help right away. From the moment we arrived, the staff were pleasant, friendly, and greeted us immediately.
-      
-      They took the time to help us find a new pair of glasses that fit within our budget, which I really appreciated. What impressed me most was how quickly they were able to get everything ready — they had his new glasses done within the hour! It made such a difference knowing my son didn’t have to go without being able to see.
-      
-      We’re very grateful for the kindness, efficiency, and care we received. Highly recommend!
+      Christina was absolutely fantastic to work with! She was so kind, helpful, and patient, and helped me find exactly what I was looking for. She made the whole experience easy and enjoyable, and you can tell she genuinely cares about helping her customers. Such a wonderful person and amazing at what she does. I would highly recommend asking for Christina. You won’t be disappointed!
   - name: "Wali hassan"
     rating: 5
     comment: |
@@ -49,10 +45,14 @@ reviews:
     rating: 5
     comment: |
       Probably one of the best eye glass purchasing experience I've ever had. Not only are their prices great but the service is outstanding. Also Dr Chong is a great dr. If you are in need of glasses please come here. You wont be disappointed.
-  - name: "Anat Rabkin"
+  - name: "Tristan Ranville"
     rating: 5
     comment: |
-      Our first visit here and certainly not our last! The place was clean, service was exceptional. The doctor was patient, personable and knowledgeable, and the person who helped find the right pair of glasses took her time to help us. We felt seen (pun intended) and everone took the time to make us feel valued, like we were people, rather than "only" customers.
+      We had such a great experience with this eye care clinic. My son had broken his glasses, and we came in as a walk-in needing help right away. From the moment we arrived, the staff were pleasant, friendly, and greeted us immediately.
+      
+      They took the time to help us find a new pair of glasses that fit within our budget, which I really appreciated. What impressed me most was how quickly they were able to get everything ready — they had his new glasses done within the hour! It made such a difference knowing my son didn’t have to go without being able to see.
+      
+      We’re very grateful for the kindness, efficiency, and care we received. Highly recommend!
 hours:
   monday: "10:00 AM–8:00 PM"
   tuesday: "10:00 AM–8:00 PM"

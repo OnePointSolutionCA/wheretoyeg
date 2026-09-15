@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Beverly"
 address: "18358 Lessard Rd, Edmonton, AB T6M 2W8"
 rating: 4.9
-review_count: 233
+review_count: 235
 tier: "featured"
 phone: "(778) 994-9295"
 google_maps: "https://maps.google.com/?cid=1555907663120757161&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

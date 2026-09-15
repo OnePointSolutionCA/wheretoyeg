@@ -51,12 +51,12 @@ reviews:
     rating: 2
     comment: |
       I have very rarely posted a Google Review for any business, but do feel as though this is worth posting. I used to be a loyal and frequent customer, but in 2025 had a concern come up. I reached out to email head office and never received a response. No real complaints about quality of service of technicians, but am disappointed in accessibility practices of leadership.
+  - name: "Jessica Bespalko"
+    rating: 5
+    comment: |
+      Lacey was amazing! Made such a comfortable environment and so kind.
   - name: "Tee Na"
     rating: 5
     comment: |
       I loveeeeee coming here to get my waxing needs done. Amazing people, very professional and friendly staff. I definitely recommend!!!
-  - name: "Lexa Ohlendorff"
-    rating: 5
-    comment: |
-      Alexis was awesome!! She is so friendly and did an amazing job with my Brazilian wax! I will definitely be re-booking with her.
 ---

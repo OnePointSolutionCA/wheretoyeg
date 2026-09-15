@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "St. Albert"
 address: "140 Bellerose Dr #105, St. Albert, AB T8N 8N8"
 rating: 4.5
-review_count: 359
+review_count: 364
 tier: "featured"
 phone: "(780) 569-5553"
 website: "http://hathawaysdiner.com/"

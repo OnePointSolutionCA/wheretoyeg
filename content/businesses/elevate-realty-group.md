@@ -50,16 +50,14 @@ reviews:
       We recently worked with Katherine Kwan for the second time, and once again she was absolutely amazing. She helped us buy our condo back in 2021, and now she’s helped us find and purchase our forever home.
       Throughout the entire process, Katherine went above and beyond. She was always quick to answer our questions, gave honest and thoughtful advice, and her knowledge of the market really gave us confidence every step of the way. She genuinely cares about her clients and always made us feel like a priority.
       We’re so grateful to have had her by our side for two major milestones in our lives, and we wouldn’t hesitate to recommend her to anyone looking for a realtor! Thank you, Katherine, for all of your hard work and dedication :)
-  - name: "V Dela Vega"
-    rating: 5
-    comment: |
-      Exceptional service and unmatched professionalism. Dale demonstrated deep market expertise, outstanding negotiation skills, and genuine care for our needs. His commitment to excellence exceeded our expectations in every way.
-      
-      Working with Dale Dela Cruz and his team was an outstanding experience from start to finish. His market knowledge, and dedication made the entire buying process smooth and stress-free. He is always available to answer questions and truly went above and beyond to ensure we found the perfect home for a quick time possession. We highly recommend them to anyone looking for a trustworthy and hardworking realtor. This is it, we finally found home, 🤩👍👍👍👍⭐️⭐️⭐️⭐️⭐️ Thank you so much Dale!
   - name: "Kevin Pereira"
     rating: 5
     comment: |
       Brianna Wagner She is our real estate broker we have worked with her for a long time  while we searched for our very first home. From day one, she was incredibly patient, knowledgeable, and supportive through what turned out to be a long journey. Her attention to detail during the offer, process and negotiations was outstanding. Every step of the way she made sure everything went smoothly.
       Thank you Brianna in finding our perfect first home.
       If you're looking for a dedicated, trustworthy, and truly caring realtor, look no further. We are so grateful. Thanks again from Sheryl & Kevin.
+  - name: "AKINTUNDE ABOABA"
+    rating: 5
+    comment: |
+      Crystal was fantastic to work with when buying our home in Edmonton. She was knowledgeable, professional, and incredibly patient throughout the entire process. Her guidance made everything smooth and stress-free. We always felt supported and well-informed. I highly recommend Crystal to anyone looking for an exceptional real estate agent.
 ---

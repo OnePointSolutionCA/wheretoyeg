@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Spruce Grove"
 address: "110 Oswald Dr, Spruce Grove, AB T7X 2Y3"
 rating: 4.6
-review_count: 244
+review_count: 246
 tier: "featured"
 phone: "(780) 962-3456"
 website: "https://www.fixauto.com/ca/en/shop/fix-auto-spruce-grove/"

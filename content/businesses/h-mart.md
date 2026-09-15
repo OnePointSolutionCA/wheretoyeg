@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–9:30 PM"
 photos: ["/photos/h-mart-1.jpg", "/photos/h-mart-2.jpg", "/photos/h-mart-3.jpg"]
 rating: 4.3
-review_count: 2240
+review_count: 2242
 price_range: "$$"
 amenities:
 
@@ -50,12 +50,15 @@ reviews:
       One of my personal highlights is their gourmet food court—serving authentic Korean dishes at very competitive prices, and best of all, no tipping is required. It’s a hidden gem for quick, delicious meals.
       
       The staff are always friendly and helpful, making every visit a pleasant one.
-  - name: "mary johnson"
-    rating: 4
-    comment: |
-      My first time going to this store and I was impressed 👌🏾 😎 the prices made sense and let's speak about their fresh fruits omg, I live on the north side but I don't mind drinking 30 minutes there to shop 😅 🙃
   - name: "Ashok"
     rating: 5
     comment: |
       Like the variety and quality of the Asian foods, some prices are really reasonable and they have a restaurant corner to have your meal as well. Some of the Asian items not available elsewhere
+  - name: "Swapnil"
+    rating: 4
+    comment: |
+      H-mart is one of the Asian grocery store focusing on Korean products.
+      The location has fair choice of vegetables and fruits as well as frozen food.  The fresh fish section has much limited offering. The frozen food choices are massive. There are few takeaway counters as well as place to sit down and eat connected to 1-2 Korean cuisine restaurants.
+      
+      Overall a good place to shop.
 ---

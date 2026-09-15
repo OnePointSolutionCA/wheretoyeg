@@ -20,7 +20,7 @@ hours:
   sunday: "7:30 AM–2:00 PM"
 photos: ["/photos/house-of-lagree---central-1.jpg", "/photos/house-of-lagree---central-2.jpg", "/photos/house-of-lagree---central-3.jpg"]
 rating: 5
-review_count: 161
+review_count: 162
 price_range: "$$"
 amenities:
 
@@ -28,18 +28,10 @@ tags: ["edmonton", "pilates"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Chewy"
-    rating: 5
-    comment: |
-      I truly have never felt so supported. I’m new to reformer pilates, however, the mega reformer is different and the class itself is more intense. With that being said I love to sweat. Mackenzie was so sweet and she was with me every step of the way. She gives great cues, explains everything clearly and was quick to give any needed adjustments. The studio has a simple black aesthetic with chubby’s inside so you know your items are safe during practice. The playlist was upbeat and fun to workout to. If you haven’t tried House of Lagree yet, I highly recommend that you do!
   - name: "Julie Hallonquist"
     rating: 5
     comment: |
       I love the studio. As soon as you walk in, all of the windows make it so bright and welcoming and the instructors are friendly and helpful. It’s super clean and I love the intensity of the workouts. The legs are shaky!
-  - name: "katie magennis"
-    rating: 5
-    comment: |
-      Love House Of Lagree!! Such a welcoming environment and I always leave feeling strong and accomplished. The studio is absolutely beautiful. Every class is both fun and challenging and I look forward to class each day. Highly recommend!!
   - name: "Karen"
     rating: 5
     comment: |
@@ -48,4 +40,12 @@ reviews:
     rating: 5
     comment: |
       I’ve been loving this studio! Every instructor has been so friendly, encouraging, and knowledgeable. The classes are challenging but fun. The atmosphere is always so welcoming. It’s such a great community, and I always leave feeling stronger. 10/10 would recommend!
+  - name: "Brittany Doyle"
+    rating: 5
+    comment: |
+      The downtown location is beautiful! It’s so bright and beautiful. The instructors are all amazing. Lucky to be a part of something so amazing. Best part of my day is a workout at House of Lagree.
+  - name: "katie magennis"
+    rating: 5
+    comment: |
+      Love House Of Lagree!! Such a welcoming environment and I always leave feeling strong and accomplished. The studio is absolutely beautiful. Every class is both fun and challenging and I look forward to class each day. Highly recommend!!
 ---

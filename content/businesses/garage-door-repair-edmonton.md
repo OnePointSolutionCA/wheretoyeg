@@ -44,8 +44,8 @@ reviews:
     rating: 5
     comment: |
       The garage door had been getting louder every week and started shaking whenever it opened. It eventually stalled halfway and refused to move without force. After the repair, it operates smoothly again and the noise is completely gone.
-  - name: "Ruthann Wisneski"
+  - name: "Mira Bala"
     rating: 5
     comment: |
-      The garage door started grinding loudly and would stall halfway up, so getting the car out became a daily hassle. After the repair, it opens in one smooth motion and the noise is finally gone👍
+      At very short notice on a Saturday evening two young men showed up and with instant assessment and a quick solution to the problem.  They also offered additional preventative and maintenance services to the overall mechanism.  Very kind and professional team, highly recommended!
 ---

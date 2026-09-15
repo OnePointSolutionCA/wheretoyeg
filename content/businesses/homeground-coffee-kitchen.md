@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "Windermere"
 address: "Main Rd, Windermere LA23 1DX, UK"
 rating: 4.7
-review_count: 1920
+review_count: 1926
 tier: "featured"
 phone: "015394 44863"
 website: "http://www.homegroundcafe.co.uk/"
@@ -20,18 +20,6 @@ reviews:
       The Good: Lovely coffee shop. Food is very good as well as the coffee. We had hash browns, hot chocolate, coffee, a sandwich, all tasty. Staff are young and pleasant. The atmosphere is social and the place seems busy most of the time. The Halloumi was nicel cooked but did not need the green sauce.
       The Bad: You may have to queue, as it's very popular.
       The Ugly: Nothing to report.
-  - name: "Ajanthiha"
-    rating: 5
-    comment: |
-      Been a whole year since I visited Homeground and can say it was hands down some of the most memorable brunches I’ve ever had.
-      
-      We stayed in Windermere for 4 days & visited here twice - because it was truly that good. We ordered 4 dishes, all truly noteworthy:
-      - lamb fat toast (rich, buttery, filling)
-      - pancake fritters (unique seabuckthorn flavour with the tart passionfruit)
-      - bacon maple ricotta waffle (stunning banana caramel against the tangy mascarpone)
-      - bombay potato skillet with paneer (spicy & warming with plenty of chillis)
-      
-      Drinks were very refreshing - dulce de latte was worth ordering twice in fact!
   - name: "Patrycja K"
     rating: 5
     comment: |
@@ -54,6 +42,18 @@ reviews:
     rating: 5
     comment: |
       one of the best brunches i’ve had in a while. the homeground sarnie is so delicious, i loved the hash browns + avo + bacon combination! AND THE ONION MARMALADE! it cut through the saltiness so well. felt like it was a really good balance. the coffee is also amazing, we got an iced vanilla latte + dulche de latte. HIGHLY RECOMMEND!
+  - name: "Ajanthiha"
+    rating: 5
+    comment: |
+      Been a whole year since I visited Homeground and can say it was hands down some of the most memorable brunches I’ve ever had.
+      
+      We stayed in Windermere for 4 days & visited here twice - because it was truly that good. We ordered 4 dishes, all truly noteworthy:
+      - lamb fat toast (rich, buttery, filling)
+      - pancake fritters (unique seabuckthorn flavour with the tart passionfruit)
+      - bacon maple ricotta waffle (stunning banana caramel against the tangy mascarpone)
+      - bombay potato skillet with paneer (spicy & warming with plenty of chillis)
+      
+      Drinks were very refreshing - dulce de latte was worth ordering twice in fact!
 hours:
   monday: "8:30 AM–4:30 PM"
   tuesday: "8:30 AM–4:30 PM"

@@ -21,10 +21,6 @@ reviews:
     rating: 5
     comment: |
       Very friendly people work here. The main receptionist always has a warm smile 😃 when we walk by.  Even though my hearing stays the same (which is good), she always makes our day go better!
-  - name: "Minister Samuel Michuki"
-    rating: 5
-    comment: |
-      Such great customer service,  friendly and warm faces.  professional service and referral
   - name: "zuki"
     rating: 5
     comment: |
@@ -38,6 +34,10 @@ reviews:
     rating: 5
     comment: |
       Brandon is a super personable, well qualified professional, always willing to answer queries and to spend as much time with the customer as is required, despite being very busy. As well, follow up sessions are booked in advance although one could go in as often as is necessary to feel confident with the hearing aids.  I would recommend him without question.
+  - name: "Minister Samuel Michuki"
+    rating: 5
+    comment: |
+      Such great customer service,  friendly and warm faces.  professional service and referral
 hours:
   monday: "9:00 AM–5:00 PM"
   tuesday: "9:00 AM–5:00 PM"

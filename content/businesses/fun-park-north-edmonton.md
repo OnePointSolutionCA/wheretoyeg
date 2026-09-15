@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "6810 125 Ave NW, Edmonton, AB T5C 1R3"
 rating: 4
-review_count: 279
+review_count: 288
 tier: "featured"
 phone: "(587) 402-6624"
 website: "https://funparkcanada.ca/"

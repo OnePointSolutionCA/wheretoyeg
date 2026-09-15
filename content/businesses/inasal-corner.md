@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/inasal-corner-1.jpg", "/photos/inasal-corner-2.jpg", "/photos/inasal-corner-3.jpg"]
 rating: 4.6
-review_count: 290
+review_count: 294
 price_range: "$$"
 amenities:
   - "Dine-In"

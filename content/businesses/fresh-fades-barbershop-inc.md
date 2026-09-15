@@ -50,12 +50,12 @@ reviews:
     comment: |
       Mike is the perfect barber!
       I’ve been to many barbers, but none compare to Mike’s professionalism, skill, and attention to detail. He takes the time to understand exactly what you want and always delivers a flawless cut every single time. The fade is always sharp, the styling is on point, and he makes sure you leave looking your absolute best. On top of that, he’s friendly, punctual, and keeps his station clean and welcoming. If you’re looking for someone who truly cares about his craft, Mike is the one. Highly recommended! 💈✂️
+  - name: "Faris Darwiche"
+    rating: 5
+    comment: |
+      Mike did a really good job, really good customer service, satisfied, really great prices for an awesome job
   - name: "Maram Hobi"
     rating: 5
     comment: |
       Best Berber he did the best skin fade and Beard highly recommend it 10 / 10
-  - name: "cassandra N"
-    rating: 5
-    comment: |
-      This guy does the best fades and hair cuts! I always take my son here and they do a perfect job everytime. I highly recommend going here if you need a good barber! You will not be disappointed! 5 Stars!
 ---

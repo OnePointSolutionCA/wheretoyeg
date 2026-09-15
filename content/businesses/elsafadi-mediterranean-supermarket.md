@@ -19,7 +19,7 @@ hours:
   sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/elsafadi-mediterranean-supermarket-1.jpg", "/photos/elsafadi-mediterranean-supermarket-2.jpg", "/photos/elsafadi-mediterranean-supermarket-3.jpg"]
 rating: 4.4
-review_count: 1283
+review_count: 1286
 price_range: "$$"
 amenities:
   - "Halal"

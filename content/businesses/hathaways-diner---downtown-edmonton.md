@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–3:00 PM"
 photos: ["/photos/hathaways-diner---downtown-edmonton-1.jpg", "/photos/hathaways-diner---downtown-edmonton-2.jpg", "/photos/hathaways-diner---downtown-edmonton-3.jpg"]
 rating: 4.6
-review_count: 276
+review_count: 294
 price_range: "$$"
 amenities:
   - "Dine-In"

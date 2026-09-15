@@ -28,6 +28,16 @@ tags: ["edmonton", "cuts-styling"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "LanaK"
+    rating: 5
+    comment: |
+      I left my first review for Frenchies Hair 6 years ago, when I first started coming to see Brittney, and I’m happy to say that after all these years, my experience has only gotten better!
+      
+      Brittney is exceptional. She is incredibly knowledgeable, kind, attentive, and talented, and you can tell that she genuinely cares about her clients and takes pride in her work. She always takes the time to understand what I want and offers thoughtful recommendations that actually work for my hair. My short hair can be challenging, but Brittney knows exactly how to work with it and consistently leaves it looking healthy, polished, and so much easier to manage.
+      
+      I also love the products they carry. They have a fantastic selection of high-quality products, and I’ve been really impressed with how well they work. It’s great to be able to get professional recommendations and products that actually make a noticeable difference at home.
+      
+      I highly recommend Frenchies Hair to anyone looking for excellent service, talented professionals, great products, and an overall wonderful salon experience. Brittney and the whole team are absolutely amazing. I’ll definitely keep coming back!
   - name: "Heather Laird"
     rating: 5
     comment: |
@@ -40,10 +50,6 @@ reviews:
     rating: 5
     comment: |
       Just wanted to drop a quick review To help anybody that’s looking for a really great salon and also anyone that has been considering the AlmaTed Treatment. I started going to Frenchies When I moved to Edmonton last fall after my previous hairstylist recommended Brittany and Frenchies. From my very first appointment, I absolutely loved everything about this salon. The staff are incredibly Friendly, welcoming and knowledgable (these girls are SMART), and the hair washing sanctuary is an experience In itself. I’m in my late 40s and have really been noticing my hair getting thinner and finer over the last few years. Brittany and her team have really helped me improve the health of my scalp and hair and most recently recommended the AlmaTed procedure which I had done yesterday. It was completely pain-free and I’m excited to see the results. I love Britney’s commitment to our common goal of increasing the fulness of my hair, improving my scalp health, and hopefully one day getting rid of my extensions. I’m down to one row now. If you’re looking for a great salon with knowledgable stylists and a first class experience look no further than frenchies.
-  - name: "Meghan Beale"
-    rating: 5
-    comment: |
-      Wow wow wow!! I visited Kari for the first time today for a blonde belayage and I am so impressed and happy with the outcome! Kari colour matched the appropriate tone of blonde for my skin tone and explained what she was doing every step of the way. I was also hoping for an updated cut and I’m super impressed with how Kari executed the perfect length for my face shape. The salon has great atmosphere, is clean, comfortable, and has everything I could need (complimentary tea, a little snack, magazines to read). I’ve been on the hunt for a new stylist and I’ve definitely found mine! Can’t wait to visit Kari again.
   - name: "Heather Cunningham"
     rating: 5
     comment: |

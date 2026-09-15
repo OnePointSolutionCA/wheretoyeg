@@ -5,7 +5,7 @@ category: "cleaning-services"
 neighborhood: "Edmonton"
 address: "1234 Chappelle Blvd SW, Edmonton, AB T6W 4T3"
 rating: 4.9
-review_count: 410
+review_count: 409
 tier: "featured"
 phone: "(825) 925-7115"
 website: "https://gentlemenscleaning.ca/"
@@ -23,6 +23,10 @@ reviews:
       Amazing company to deal with. Really friendly and happy crew that came to my place to do a move out clean on a 2 bedroom apartment. Took about 8hrs and was $450 (including steam cleaning). Got my entire security deposit back so id say it was well worth it! The place was legitimately cleaner than when i first moved in
       
       Didn't think to take any before photos sadly. But imagine 4 years of dust and general grime added onto these.
+  - name: "Andrii Zozulia"
+    rating: 5
+    comment: |
+      I booked Gentlemen’s Cleaning Company for a deep cleaning in Sherwood Park, and the results were amazing. The team arrived on time, cleaned every room, and paid attention to details like baseboards, bathrooms, and kitchen appliances. My house has never looked this clean. Highly recommend them for anyone looking for professional house cleaning in Sherwood Park or Edmonton.
   - name: "Meaghan Vardy"
     rating: 5
     comment: |
@@ -51,22 +55,6 @@ reviews:
       Overall: I would say they are amazing for a surface level clean, however I wouldn't recommend for a deep clean. I did mention this to the booking person, and was offered someone to come and fix (which is a positive), however I declined due to my time constraint for the day.
       
       I will say life got ahead of me and I wasn't able to keep up on my housecleaning. This did what it's intended use was which was to get me back on track.
-  - name: "Savvy Ghataura"
-    rating: 1
-    comment: |
-      I chose this company because of the many positive reviews and because this was my first time hiring a professional cleaning company.
-      
-      Iryna was polite, professional, and worked very hard throughout the cleaning. The apartment is definitely cleaner, and I appreciate her effort.
-      
-      However, I was disappointed with the overall deep-cleaning experience. My husband and I prepared the apartment beforehand by moving items, organizing areas, cleaning the storage room ourselves, and doing some sweeping so that more time could be spent on the deep-cleaning tasks.
-      
-      Despite the cleaning being extended beyond the original estimate, several items from the deep-cleaning checklist were still missed, including some dusting/detailing areas, windows, and light fixtures. When I raised my concerns and shared photos, I was told that completing the remaining items would require additional time and additional payment.
-      
-      As a customer, I believe that when concerns are raised after a deep-cleaning service, some flexibility or a brief touch-up visit can go a long way toward customer satisfaction. Customers are spending their hard-earned money and appreciate when their concerns are acknowledged and addressed.
-      
-      My intention is not to criticize Iryna, as she worked hard, but to share my experience honestly. Based on my experience, I feel that one cleaner may not be enough for a full deep clean of a 2-bedroom apartment within the estimated time.
-      
-      The apartment looks better than before, but the final result did not fully meet my expectations for a deep-cleaning service. Unfortunately, due to this experience and the way my concerns were handled, I would not choose this company again in the future.
 hours:
   monday: "Closed"
   tuesday: "Closed"

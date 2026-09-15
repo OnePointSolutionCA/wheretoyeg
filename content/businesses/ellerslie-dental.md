@@ -18,7 +18,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/ellerslie-dental-1.jpg", "/photos/ellerslie-dental-2.jpg", "/photos/ellerslie-dental-3.jpg"]
 rating: 4.8
-review_count: 185
+review_count: 186
 price_range: "$$"
 amenities:
   - "Direct Billing"

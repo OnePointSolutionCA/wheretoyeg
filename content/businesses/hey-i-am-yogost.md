@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/hey-i-am-yogost-1.jpg", "/photos/hey-i-am-yogost-2.jpg", "/photos/hey-i-am-yogost-3.jpg"]
 rating: 4.7
-review_count: 93
+review_count: 94
 price_range: "$$"
 amenities:
   - "Dine-In"

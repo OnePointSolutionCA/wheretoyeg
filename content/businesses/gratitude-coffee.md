@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Sherwood Park"
 address: "897 Pembina Rd #151, Sherwood Park, AB T8H 3A5"
 rating: 4.9
-review_count: 354
+review_count: 356
 tier: "featured"
 phone: "(780) 952-0881"
 website: "http://www.gratitudecoffee.ca/"
@@ -83,14 +83,6 @@ reviews:
       You’re not just serving coffee.
       
       You’re shaping moments people carry with them long after they leave.
-  - name: "Cat Hare"
-    rating: 5
-    comment: |
-      Perfect cafe atmosphere! If I wasnt on a schedule I would have sat down and really taken in the vibes.
-      I'm sitting in my car sipping on a masterfully made latte. The balance of sweet and bitter (and is that a little salt i taste?) Is perfect.
-      I didnt expect the pastries to be vegan but I probably wouldn't have known without being told, they're absolutely delicious.
-      
-      If you're a cafe lover this is a must stop! ❤️
   - name: "Kassandra Camponi"
     rating: 5
     comment: |
@@ -105,6 +97,14 @@ reviews:
       And have you met the Baristas?! They are the kindest, fun and talented group.
       
       Grab a friend or two, or more and go enjoy it for yourself!
+  - name: "Cat Hare"
+    rating: 5
+    comment: |
+      Perfect cafe atmosphere! If I wasnt on a schedule I would have sat down and really taken in the vibes.
+      I'm sitting in my car sipping on a masterfully made latte. The balance of sweet and bitter (and is that a little salt i taste?) Is perfect.
+      I didnt expect the pastries to be vegan but I probably wouldn't have known without being told, they're absolutely delicious.
+      
+      If you're a cafe lover this is a must stop! ❤️
   - name: "Gabriela Nef Ojeda"
     rating: 5
     comment: |

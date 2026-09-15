@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–11:00 PM"
 photos: ["/photos/heavenly-desserts-edmonton-1.jpg", "/photos/heavenly-desserts-edmonton-2.jpg", "/photos/heavenly-desserts-edmonton-3.jpg"]
 rating: 4.6
-review_count: 402
+review_count: 408
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -36,12 +36,6 @@ reviews:
       I visited this place this morning and honestly loved it. The atmosphere was lively and full of people, which already gave a great vibe. The service was excellent—friendly, fast, and very welcoming.
       The food was just as impressive. Everything looked fresh and well presented.
       Overall, it’s a great spot for breakfast or brunch. Definitely worth visiting—I’ll be coming back for sure!
-  - name: "Julia Davis"
-    rating: 5
-    comment: |
-      Heavenly Desserts feels like a little escape from the busy city. The moment you step inside, it’s as if you’ve entered a completely different world—a cozy and elegant space filled with soft colors, warm lighting, and the inviting aroma of freshly made desserts. The atmosphere is relaxing and beautifully designed, making it a wonderful place to slow down and enjoy the moment.
-      The desserts are absolutely delicious, with great presentation and rich flavors that make every bite enjoyable. The staff is friendly and welcoming, adding to the overall pleasant experience. While the prices are a bit above average, the quality of the desserts and the unique ambiance make the visit feel worthwhile.
-      The only downside was that the restroom could have been cleaner. Aside from that, the visit left a very positive impression, thanks to the beautiful interior, comforting atmosphere, and excellent desserts.
   - name: "Nick"
     rating: 5
     comment: |
@@ -54,4 +48,10 @@ reviews:
     rating: 4
     comment: |
       Beautiful restaurant, great menu, but I found the food to just be ok. I've tried 2 different French toasts and they were both basically just thick pieces of bread with toppings on in. Tasted half as good as the photo.
+  - name: "Julia Davis"
+    rating: 5
+    comment: |
+      Heavenly Desserts feels like a little escape from the busy city. The moment you step inside, it’s as if you’ve entered a completely different world—a cozy and elegant space filled with soft colors, warm lighting, and the inviting aroma of freshly made desserts. The atmosphere is relaxing and beautifully designed, making it a wonderful place to slow down and enjoy the moment.
+      The desserts are absolutely delicious, with great presentation and rich flavors that make every bite enjoyable. The staff is friendly and welcoming, adding to the overall pleasant experience. While the prices are a bit above average, the quality of the desserts and the unique ambiance make the visit feel worthwhile.
+      The only downside was that the restroom could have been cleaner. Aside from that, the visit left a very positive impression, thanks to the beautiful interior, comforting atmosphere, and excellent desserts.
 ---

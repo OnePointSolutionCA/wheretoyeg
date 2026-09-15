@@ -25,10 +25,6 @@ reviews:
       
       The pizza looks good, but that’s where it ends. The dough was soft, bland, and tasteless. The cheese had  no flavor, bland sauce and the toppings…. Had no taste!
       The capicola and bacon were super low quality, and the pizza was dripping with grease mostly fatty bacon scraps with barely any real meat. Gross!
-  - name: "Arsh Sidhu"
-    rating: 5
-    comment: |
-      The margarita was perfect! Even the soft music playing in the background added to such an amazing dine-in experience. Everything felt so relaxing and thoughtfully done. Definitely coming back!
   - name: "Rob Edwards"
     rating: 5
     comment: |
@@ -37,6 +33,11 @@ reviews:
     rating: 5
     comment: |
       Great food and excellent service. The staff were friendly and welcoming, and the restaurant was clean and comfortable. The food came out fresh and tasted amazing. Also they had fifa game played on TV. I would definitely come back and recommend this place.
+  - name: "OliverPlace"
+    rating: 1
+    comment: |
+      Im surprised by the positive reviews on here a bit but not overly as this is a common problem. With mixed reviews is a general indicator of inconsistent quality/staff.  We unfortunatley did not go when their "pro cooks?" were on i guess because our pizzas were disgraceful.  Two of us had the 2 for 25$, retrieved ourselves in store and eaten piping hot within minutes of oven (We live right there).  The pepperoni looked an oily mess (you knew it was bad at first glance) with unmelted cheese.  The primavera grossed my other half out. I thought it was...yeah it was gross. Everything tasted really overly salty also, and partner said under pizza was "soggy and seemed uncooked" im just guessing here but something tells me a college kid who doesnt know what they were doing (or doesnt take any pride) 'cooked' our inedible, under-cooked, pizzas last night.  Their 'famous crust' was doughey and undercooked (and cheese not fully melted). With dominos across the street and other 'speaciality' pizza places up the road we wont be back as we felt we'd misspent our money at this "designer pizza' place, even with the deal.  We had 2 slices each and tossed the rest in the fridge. It will probably be even less edible reheated today so most likely will go in garbage.
+      (Side note staff were polite and place seemed ok but pizza so bad marked low.)  Businesses like this irritate me tbh as they hire good staff some of the time then crap staff to cut down on costs but the customer never knows day to day what they are getting.  I do know i dont like wasting my money or playing russian roulette with my dinner so i guess the old saying "you get what u pay for" is true in this case, for both business and customer.
 hours:
   monday: "11:00 AM–10:00 PM"
   tuesday: "11:00 AM–10:00 PM"

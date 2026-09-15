@@ -12,15 +12,15 @@ website: "https://www.escapestreet.ca/"
 google_maps_url: "https://maps.google.com/?cid=10502679555763179526&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "10:00 AM–10:00 PM"
-  tuesday: "10:00 AM–10:00 PM"
-  wednesday: "10:00 AM–10:00 PM"
+  tuesday: "4:00 PM–11:00 PM"
+  wednesday: "4:00 PM–11:00 PM"
   thursday: "10:00 AM–10:00 PM"
   friday: "10:00 AM–11:00 PM"
   saturday: "10:00 AM–11:00 PM"
   sunday: "10:00 AM–11:00 PM"
 photos: ["/photos/escape-street-1.jpg", "/photos/escape-street-2.jpg", "/photos/escape-street-3.jpg"]
 rating: 5
-review_count: 1099
+review_count: 1181
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,14 @@ tags: ["edmonton", "escape-rooms"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Matthew Charrois"
+    rating: 5
+    comment: |
+      This was our first time here. The staff were incredibly friendly. The rooms were designed with thought and care, and were aesthetically appealing. The puzzles were challenging but achievable. We can’t wait to go back again.
+  - name: "Chantay Shayla"
+    rating: 5
+    comment: |
+      Amaaaazing twists and turns! Loved the interactive part with the characters that come in to spooky or guide you! The staff were very kind, helpful and fun! Would definitely go again!!
   - name: "Andrew Adams"
     rating: 5
     comment: |
@@ -40,12 +48,4 @@ reviews:
     rating: 5
     comment: |
       Had a great experience here! We finished the room, love the interactiveness, definitely spooky but in the best way!
-  - name: "Angelina Beatrice Salvador"
-    rating: 5
-    comment: |
-      We had an awesome time trying this new place out! We did House of Things, and the room was very creative and immersive. The staff were very nice as well. Overall a great experience!
-  - name: "Tyler Pitcher"
-    rating: 4
-    comment: |
-      It was lots of fun with some jump scares, used one hint. The people are very nice and willing to help you with everything and they have free pops. It was a little short though. But the atmosphere was amazing
 ---

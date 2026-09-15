@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "8882 170 St NW 2167 phase ii, Edmonton, AB T5T 4J2"
 rating: 4.5
-review_count: 473
+review_count: 474
 tier: "featured"
 phone: "(780) 249-2053"
 website: "https://locations.foreyesbyclearly.ca/ab/edmonton/8882-170-street-nw?y_source=1_NTM4MjE1ODctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"

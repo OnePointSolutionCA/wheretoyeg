@@ -16,10 +16,6 @@ reviews:
     rating: 5
     comment: |
       nice clean store very convenient on 137ave. all cuts halal meats and nice selection of Lebanese desserts. And all the groceries you need come check it out. Even charcoal for bbq season.
-  - name: "abdul samee"
-    rating: 5
-    comment: |
-      amazing place! i would eat ibrahim’s halal meat everyday but i can’t stuff too much meat, 😿😩 makes me sick. “give me that ibrahim meat sir🥩”
   - name: "Muhammad waseem Ashraf"
     rating: 1
     comment: |
@@ -33,6 +29,10 @@ reviews:
     comment: |
       If I can give a zero I would have, very bad quality. Half of my chicken was full of blood.
       I asked him to cut it, and he cut it in a very bad way like he didn’t even want to do the job. Definitely not coming back and I wouldn’t recommend this place to anyone.
+  - name: "abdul samee"
+    rating: 5
+    comment: |
+      amazing place! i would eat ibrahim’s halal meat everyday but i can’t stuff too much meat, 😿😩 makes me sick. “give me that ibrahim meat sir🥩”
 hours:
   monday: "10:00 AM–8:00 PM"
   tuesday: "10:00 AM–8:00 PM"

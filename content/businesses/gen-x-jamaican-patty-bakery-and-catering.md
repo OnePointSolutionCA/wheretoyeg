@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/gen-x-jamaican-patty-bakery-and-catering-1.jpg", "/photos/gen-x-jamaican-patty-bakery-and-catering-2.jpg", "/photos/gen-x-jamaican-patty-bakery-and-catering-3.jpg"]
 rating: 4.7
-review_count: 151
+review_count: 152
 price_range: "$"
 amenities:
   - "Dine-In"

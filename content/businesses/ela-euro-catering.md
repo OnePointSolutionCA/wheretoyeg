@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/ela-euro-catering-1.jpg", "/photos/ela-euro-catering-2.jpg", "/photos/ela-euro-catering-3.jpg"]
 rating: 4.9
-review_count: 187
+review_count: 189
 price_range: "$$"
 amenities:
   - "Dine-In"

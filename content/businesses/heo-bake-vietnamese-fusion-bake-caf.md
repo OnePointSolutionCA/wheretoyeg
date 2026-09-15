@@ -18,8 +18,8 @@ hours:
   saturday: "9:00 AM–7:00 PM"
   sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/heo-bake-vietnamese-fusion-bake-caf-1.jpg", "/photos/heo-bake-vietnamese-fusion-bake-caf-2.jpg", "/photos/heo-bake-vietnamese-fusion-bake-caf-3.jpg"]
-rating: 5
-review_count: 65
+rating: 4.9
+review_count: 81
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -47,8 +47,8 @@ reviews:
       Expect to pay premium prices here for both baked goods and handcrafted drinks, but they are well worth those prices. You can tell so much care is put into making each element and in using quality ingredients.
       
       I love the unique items offered by this little café which started as a home business. I've had the pandan latte, jasmine espresso latte, ube cake, pandan cake, pandan hot cross bun and enjoyed every item. Will 100% be back to try other things!
-  - name: "Maxwell R"
+  - name: "Hien Tran"
     rating: 5
     comment: |
-      So happy to have a place like this in our neighborhood! Traditional Vietnamese coffee was do good and we had the mochi cake which is light a airy. My son got a passionfruit drink and it has real passion fruit!!!  They also have traditional coffees for those that want a latte!
+      The cafe is small, but cute. The staff are friendly and welcoming. I ordered the Pandan Latte and it was strong in pandan flavour. I also ordered the pandan cake box with pork floss and it was also delicious. The cake is not overly sweet, pairing well with any of the drinks. I will definitely be back.
 ---

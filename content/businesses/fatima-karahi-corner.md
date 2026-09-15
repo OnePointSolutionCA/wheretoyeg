@@ -21,7 +21,7 @@ hours:
   sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/fatima-karahi-corner-1.jpg", "/photos/fatima-karahi-corner-2.jpg"]
 rating: 4.4
-review_count: 1266
+review_count: 1284
 price_range: "$$"
 amenities:
   - "Halal"
@@ -32,6 +32,18 @@ amenities:
 tags: ["pakistani", "halal", "karahi", "trending", "south edmonton"]
 active: true
 reviews:
+  - name: "Learning Plus"
+    rating: 5
+    comment: |
+      Yesterday, I went out for lunch with my family and we decided to try Pakistani restaurant. A friend recommended Fatima Karahi Corner, so we thought we would give it a try and we're so glad we did!
+      
+      As soon as we arrived, a server, Sudah, warmly welcomed us and quickly arranged a table for our family. Service was friendly, attentive and made us feel comfortable from the start.
+      
+      We ordered the Chicken Karahi, Platter, Chicken Biryani, Beef Kababs, Beef Ribs, Gol Gappay, Firni and Green Tea. Every dish was full of authentic Pakistani flavors. Richness and depth of spices were outstanding and freshness of ingredients was evident in every bite. Everything was cooked to perfection and beautifully presented.
+      
+      I highly recommend Fatima Karahi Corner to anyone looking for delicious, traditional Pakistani cuisine in a warm and welcoming atmosphere. It's a must visit for anyone craving true taste of Pakistan. A special thanks to owner, Mariam for being such a wonderful host and making our experience even more memorable.
+      
+      We will definitely be coming back again!
   - name: "SADIK TAILOR"
     rating: 4
     comment: |
@@ -51,43 +63,20 @@ reviews:
       Service- with a little encouragement, it could be a lot better.
       
       Would we come back- Yes
-  - name: "meju Ajmeri"
-    rating: 5
+  - name: "Gouri Prathwani"
+    rating: 4
     comment: |
-      Today we ate at Fatima Karahi Restaurant, and the food was absolutely delicious. Everything was fresh, flavorful, and well prepared. We also received excellent customer service from Mariyum. She was very friendly, attentive, and made sure we had a great dining experience. Thank you, Mariyum, for your kindness and hospitality. We will definitely visit again! 😊
-  - name: "Harpreet singh322"
-    rating: 5
+      Ordered one kg chicken karahi for our table of three. They took about 30-40 minutes to prepare it. We absolutely loved it, portion size was good, we demolished everything. Chicken was tender and well done. Love the flavours of the gravy it was cooked in, it was delightful. The garlic naans were also soft and perfectly cooked. We also got paneer butter masala for our fourth vegetarian friend. It was not so good, he barely ate it. Overall, we loved what we had come for-their famous chicken karahi and left with no crumbs.
+  - name: "Abdul Sami"
+    rating: 3
     comment: |
-      We had the chicken karahi and goat curry, and both dishes were absolutely delicious. The chicken karahi was perfectly cooked, full of rich flavors, and had just the right amount of spice. The goat curry was tender, flavorful, and cooked to perfection—the meat practically fell off the bone.
+      Dined at Fatima Karahi on December 26, 2025.
       
-      The portions were generous, the food tasted fresh, and every bite was satisfying. If you’re looking for authentic, flavorful South Asian food, this place is definitely worth a visit. We’ll definitely be coming back to try more dishes. Highly recommended!
-  - name: "Sabanaaz Baig"
-    rating: 5
-    comment: |
-      I have been here several times and Alhamdulillah, excellent experience everytime! Their ambiance is very pleasant, bright with lots of natural light (during the day of course) where pictures turns out amazing, beautiful and sophisticated interiors!
+      We ordered the Beef Kebab Karahi and Broast Chicken.
       
-      On our several visits, we have tried so far:
-      Chicken biryani
-      Chicken Tikka biryani
-      Mix kebab platter
-      Palak paneer
-      Paneer butter masala
-      Palak Chicken
-      Broast Chicken
-      Naan
-      Khoya Kheer
+      The chicken was good, and the kebab karahi was even better.
       
-      Our all time favorite is their palak paneer and now paneer butter masala! Broast Chicken and mix kebab platter is our favorite as well as they are value for money and tastes amazing! Presentation was appetizing. My husband and kids a big fan of their butter naan! My friend recommended khoya kheer and it did not disappoint us at all! My small kids devoured the kebabs, Alhamdulillah! We look forward to try their famous karahi, nihari and halwa puri In Shaa Allah.
+      While the food was decent overall, the pricing felt on the higher side—over $35 per person—which didn’t quite reflect in the portion size or overall value.
       
-      Everything is priced reasonably. We are family of 4 (2 adults and 2 kids) and as far as I remember, our bill never crossed beyond $60! Which is also why this place has become our favorite now! 🤩 I hope they keep their prices same. 🫶🏻
-      
-      The owner Maryam is very friendly. Her son who works there is also friendly and makes sure that we are good. 👍🏻
-      
-      Bonus is that they have a small prayer area!! We go to Fatima Karahi without having to worry about "where do we pray namaz when its time!?" 🥰
-      
-      I wish I had taken more pictures than videos of our orders. The pictures I have attached are the screenshots from the videos I took because Google doesn't allow to upload a video for the reviews I guess?!
-      
-      Thank you Fatima Karahi for your amazing food, service and place! ❤️
-      
-      May Allah put lots of barakah in your rizq. Aameen
+      For a few dollars more, one could opt for a buffet dinner with a much wider variety. Decent food, but value for money could be improved.
 ---

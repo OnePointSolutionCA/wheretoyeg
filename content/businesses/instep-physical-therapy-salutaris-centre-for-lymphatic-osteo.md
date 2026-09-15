@@ -28,6 +28,10 @@ tags: ["edmonton", "massage-therapy"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Leti López"
+    rating: 5
+    comment: |
+      I’ve been here now twice for treatment with Neha, she’s amazing and I’ve made a lot of progress in a short time. I’m looking forward to my future sessions. I can finally see a future free of pain. 😃
   - name: "Rebecca Zafrani"
     rating: 5
     comment: |
@@ -44,8 +48,4 @@ reviews:
     rating: 5
     comment: |
       Had an amazing and relaxing massage. My body pains are now better thanks to Rashmi and her helpful self-care tips
-  - name: "Bill"
-    rating: 5
-    comment: |
-      I was treated by Rupreet for my long-term disability. I can't say enough about how thorough, kind and compassionate she was when treating me. The focus was on gentle exercises to gain my mobility back, which worked really well. I am forever grateful for her expertise and highly recommend her.
 ---

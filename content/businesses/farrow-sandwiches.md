@@ -45,14 +45,8 @@ reviews:
     rating: 5
     comment: |
       This sandwich was on a different level than other sandwiches. I ordered their vegan special sandwich, it was flavourful, fresh and unique. Highly recommend grabbing your lunch here!
-  - name: "Gabriel Saravia"
+  - name: "Taylor"
     rating: 5
     comment: |
-      I've been here for lunch a couple times throughout the week and if you only have 30mins, skip unless you can sneak a few extra minutes due to how packed it is at lunch time.
-      
-      Aside from how busy it is, this place is amazing, I've tried the Grick a couple times (great choice if you don't know what to get), the meature feature, but this time I wanted the vegan which was the Fig Lebowski. Jeez Louise that was the best sandwich I've ever had and it's not close. Was filling but doesn't weigh in your stomach like some meat options do.
-      
-      I've had decent sandwiches and good ones before, but too many places just seem like more meat=more good.
-      
-      Please keep the Fig Lebowski as a mainstay or bring it back once in a while.
+      My boyfriend and I love Farrow, and usually come to this location when we are out and want a quick bite. Often we are helped by Liam, who is super friendly and offers great service! We also love that you have a dedicated vegan sandwich and vegan treats, and I always enjoy grabbing the crossword :) We’ll be back soon I’m sure!
 ---

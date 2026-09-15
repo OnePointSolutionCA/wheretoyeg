@@ -29,14 +29,14 @@ reviews:
       TJ is very friendly and knowledgeable.
       Price was super reasonable.
       Definitely coming back to his shop.
+  - name: "Taran Goring"
+    rating: 5
+    comment: |
+      Ive never been to a better shop. Prices are more than fair, they work quickly, make a point to consider your time, get the job done well, and have always treated me exceptionally well.
   - name: "Greg Stolz"
     rating: 5
     comment: |
       Had a set of tires replaced and found his prices very reasonable. Great place to check out for your automotive needs.
-  - name: "PB"
-    rating: 5
-    comment: |
-      I needed to get to get my winter tires off cause potholes were destroying them, and TJ gave me an excellent deal on tire replacement and balance... HIGHLY RECOMMEND!!
 hours:
   monday: "9:00 AM–5:00 PM"
   tuesday: "9:00 AM–5:00 PM"

@@ -34,10 +34,12 @@ reviews:
     rating: 5
     comment: |
       Great halal grocery store Fresh meat, friendly staff and excellent service. Highly recommend
-  - name: "Abdi Noor"
+  - name: "HAMDI ADAN"
     rating: 5
     comment: |
-      Fantastic East African grocery store Great variety of meat rice pasta and spices Friendly staff and fair prices. Five stars all the way
+      I had such a wonderful experience at this store. From the moment I walked in, I felt welcomed and valued. The staff were incredibly friendly, helpful, and professional. They took the time to assist me and made my shopping experience enjoyable and stress-free.
+      
+      Five star halal meat and grocery store is a clean, well-organized, and has a great selection of quality products. I truly appreciate the excellent customer service and the positive atmosphere. This is definitely a place I will come back to and recommend to others. Thank you for making my experience so memorable!
   - name: "Fahab Babs"
     rating: 5
     comment: |
@@ -46,8 +48,8 @@ reviews:
     rating: 5
     comment: |
       Fresh halal meat, clean store, and great service. The staff are always friendly, and the prices are fair. Definitely one of the best halal stores in Edmonton. I’ll definitely be coming back.
-  - name: "Liban Abdilahi"
+  - name: "Abdi Noor"
     rating: 5
     comment: |
-      Good customer service and such a nice people
+      Fantastic East African grocery store Great variety of meat rice pasta and spices Friendly staff and fair prices. Five stars all the way
 ---

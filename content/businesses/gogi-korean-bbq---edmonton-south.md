@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–10:00 PM"
 photos: ["/photos/gogi-korean-bbq---edmonton-south-1.jpg", "/photos/gogi-korean-bbq---edmonton-south-2.jpg", "/photos/gogi-korean-bbq---edmonton-south-3.jpg"]
 rating: 4.8
-review_count: 1112
+review_count: 1110
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,10 +30,6 @@ tags: ["edmonton", "sushi"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Lyka Cabiles"
-    rating: 5
-    comment: |
-      Great food and excellent service! Everything we ordered was delicious and full of flavor. Special thanks to Sarissa for taking such great care of us. She was friendly, attentive, and very accommodating throughout our visit. We'll definitely be back!
   - name: "Julia V"
     rating: 3
     comment: |
@@ -50,4 +46,8 @@ reviews:
     rating: 5
     comment: |
       It's our first time here with my family. The food was superb. My son loved the bulgogi, galbisal and japchae. We loved the ambiance and vibe here. The staff were very friendly and the service was fast and efficient. The price was reasonable compared to all the meat that we have ordered. We highly recommend this place and definitely  coming back.
+  - name: "Jay-r Rafols"
+    rating: 5
+    comment: |
+      The food is so delicious and worth it…its our first time and will definitely be back again
 ---

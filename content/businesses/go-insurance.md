@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/go-insurance-1.jpg", "/photos/go-insurance-2.jpg", "/photos/go-insurance-3.jpg"]
 rating: 4.8
-review_count: 1746
+review_count: 1748
 price_range: "$$"
 amenities:
 
@@ -44,9 +44,18 @@ reviews:
     rating: 5
     comment: |
       Navjot is amazing! She was so patient with all my questions and got me everything I needed fast! In fact, I was the one being slow! She even got back to me on a Saturday and I didn't even see it as I just didn't consider she would get back to me on a weekend. I'm super happy with her service! Thank you Navjot!
-  - name: "Mike Koloski"
-    rating: 5
+  - name: "Ozan Yildirim"
+    rating: 1
     comment: |
-      Lyndsay, at Go Insurance, has been very helpful with all our insurance needs. We have followed her from her last company as we trust her with finding the best policys for us.
-      Mike and Laurie Koloski
+      I had a very disappointing experience with Go Insurance.
+      
+      I completed my insurance application online and entered all of my information, including the vehicle details. Based on the quote Go Insurance provided, I proceeded with purchasing my vehicle and completing the transaction.
+      
+      After everything was finalized, I was informed that they could not offer me the coverage I needed and that only liability coverage was available. The reason given was that I had no previous Canadian insurance history. If that was a requirement, it should have been identified before a quote was issued, not after I had already relied on that quote to purchase my vehicle.
+      
+      The representative initially responded to my emails within minutes. However, once this issue came up, the responses became slower and eventually stopped. Instead of resolving the problem, I was told to contact other insurance companies such as TD Insurance.
+      
+      I contacted a supervisor, who apologized for the inconvenience and said they would look into my case. Unfortunately, nothing changed after the apology, and no meaningful solution or follow-up was provided.
+      
+      I expected a company to stand behind the quotes it provides and communicate important eligibility requirements before customers make major financial decisions. Unfortunately, my experience was frustrating and disappointing.
 ---

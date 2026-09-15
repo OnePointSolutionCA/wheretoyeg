@@ -39,14 +39,10 @@ reviews:
       I had such a great experience with my dental hygienist Lisa . She is incredibly gentle, kind, and patient, which made my visit so comfortable and stress-free. She took the time to explain everything and always checked in to make sure I was okay.
       
       Lisa’s calm and friendly demeanor really stands out, especially if you’re someone who gets nervous about dental visits. I truly appreciate her kindness and professionalism—she’s an absolute gem .
-  - name: "Aliya Parmar"
+  - name: "Pauline Noetzel"
     rating: 5
     comment: |
-      Ryan is absolutely the best dentist I have ever went to. I had my first appointment with him and when I went there I immediately felt comfortable and at ease. The communication and process was so clear, and he is so friendly and meticulous. I have never had such a great experience going to the dentist.
-      
-      The process was smooth, quick, thorough and fantastic!
-      
-      I highly recommend ryan! Him and his team are amazing!
+      Family and I have been going to Emerald Hills dental about 4 years now and have had nothing but great experiences. Staff are kind and patient, the atmosphere is very calming and clean. Would absolutely recommend for any dental procedure.
 hours:
   monday: "9:00 AM–5:00 PM"
   tuesday: "10:00 AM–7:00 PM"

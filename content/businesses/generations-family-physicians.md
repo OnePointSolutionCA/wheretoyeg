@@ -40,7 +40,7 @@ reviews:
     rating: 5
     comment: |
       I have attended this clinic for the past year or so. I am very happy with Dr. Veronica Tomcej. She is very knowledgeable and shows that she cares. She has been very thorough regarding my concerns. She is getting quite busy, likely because she is such a kind and compassionate doctor.
-  - name: "Betheiah Storheim (Beth)"
+  - name: "Beth S"
     rating: 5
     comment: |
       Dr. Veronica Tomcei is probably the best doctor I've ever had. Very knowledgeable; listens to my questions and concerns without judgement; and makes sure I get as much out of my 20 minute visit possible. Highly recommend her if you can get her.

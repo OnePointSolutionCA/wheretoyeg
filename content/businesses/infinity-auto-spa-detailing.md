@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/infinity-auto-spa-detailing-1.jpg", "/photos/infinity-auto-spa-detailing-2.jpg", "/photos/infinity-auto-spa-detailing-3.jpg"]
 rating: 4.9
-review_count: 368
+review_count: 366
 price_range: "$$"
 amenities:
 

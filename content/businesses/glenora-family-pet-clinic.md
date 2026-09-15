@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/glenora-family-pet-clinic-1.jpg", "/photos/glenora-family-pet-clinic-2.jpg", "/photos/glenora-family-pet-clinic-3.jpg"]
 rating: 4.8
-review_count: 948
+review_count: 953
 price_range: "$$"
 amenities:
 
@@ -36,12 +36,6 @@ reviews:
       The team takes the time to answer questions and makes every visit comfortable and stress-free. On top of that, their pricing is very reasonable compared to other clinics. We always feel that Lucy is getting excellent care.
       
       Highly recommend Glenora Family Vet to anyone looking for compassionate, professional veterinary care.
-  - name: "Dean Crowell"
-    rating: 5
-    comment: |
-      Glenora family pet were great!  They took my little guy with short notice after he was attacked at the groomers by another dog.  The staff were super friendly and took care of my little guy in a hurry.
-      
-      I would recommend them to all my friends and family.
   - name: "Holly Henderson"
     rating: 5
     comment: |
@@ -54,6 +48,10 @@ reviews:
     rating: 5
     comment: |
       We have been coming to Glenora since 2022 and even though we moved to North Edmonton, we still make the trip for our bunnies. We wouldn't trust anyone else but Dr. Nick for Charlie’s regular dental floats—he is truly the best! We also bring Autumn here for her annual check-ups and nail trimmings, and the team is always so gentle and patient with her. Whether it’s surgery or routine care, the entire staff makes us feel like family. Highly recommend for any rabbit parents in Edmonton!
+  - name: "Jenny Young"
+    rating: 5
+    comment: |
+      Greatly appreciated the support and services at Glenora Family Pet Clinic. The technician was nice, friendly, and very understanding. Dr. Sarah Edwards is excellent—knowledgeable and, most importantly, genuinely supportive to an anxious cat mom like me. Highly recommend this clinic.
   - name: "B C"
     rating: 5
     comment: |

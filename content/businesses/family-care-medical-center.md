@@ -19,8 +19,8 @@ hours:
   saturday: "9:30 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/family-care-medical-center-1.jpg", "/photos/family-care-medical-center-2.jpg", "/photos/family-care-medical-center-3.jpg"]
-rating: 2.9
-review_count: 211
+rating: 3
+review_count: 217
 price_range: "$$"
 amenities:
 

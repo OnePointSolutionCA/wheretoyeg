@@ -36,6 +36,10 @@ reviews:
     rating: 5
     comment: |
       I have worked with HGA since 2021, they are a well informed and organized accounting company and a pleasure to do business with. They have handled legal matters through their law firm, set up corporations and helped propel my business through their financial services division.
+  - name: "Mark Beck"
+    rating: 5
+    comment: |
+      I’ve been with this firm for 20 years, and they consistently go above and beyond with everything they do. They’ve helped bring all five of my businesses to success through strong strategic planning. If you don’t use them, you’ll regret it. Thanks, HGA.
   - name: "Mike Mack"
     rating: 5
     comment: |
@@ -44,10 +48,4 @@ reviews:
     rating: 5
     comment: |
       I can't say enough good about the great people over at HGA.  We have been working with them for many years now and they have never let us down.  HGA provides amazing service and their knowledge is insurmountable in their field.  So so helpful with stress relief.  Simply magical.  Thanks HGA so glad to have you on our team.
-  - name: "Karl Vidicek"
-    rating: 5
-    comment: |
-      HGA has been a partner of ours for the past several years and during this time they have been great advisors to our business and have always looked after our accounting needs in a timely fashion.  They really stood out during the pandemic, helping us work through all the government assistance programs, providing us with detailed plans and communication.  Not sure what we would have done without them.
-      
-      Accessibility and timeliness is important for any business and HGA is always just a quick text or phone call away when we need support.  What's also great about HGA is they have several divisions that can look after a multitude of needs, from legal to marketing to many more.  I highly recommend HGA and their group of professionals.
 ---

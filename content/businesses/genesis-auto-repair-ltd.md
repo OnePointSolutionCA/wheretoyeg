@@ -22,10 +22,6 @@ reviews:
     rating: 5
     comment: |
       Wonderful team working here, Simo is the best and Moe at the front is super nice. Always quick to repair any issues we have with our cars. Highly recommend!
-  - name: "hmoda alkatib"
-    rating: 5
-    comment: |
-      Excellent service and honest work. The mechanic was professional, explained everything clearly, and finished the job on time. Prices were fair and the quality was great. Highly recommended.
   - name: "Denise Miller"
     rating: 5
     comment: |
@@ -42,6 +38,10 @@ reviews:
       The services-to-value ratio is unbeatable - high-quality work at an incredibly affordable price. I highly recommend them
       
       Thank you Simo and to your team as well.
+  - name: "Auday"
+    rating: 5
+    comment: |
+      I changed my brakes at this guy’s shop and the service was really good, also their prices were pretty decent I’ll definitely be back. I do recommend them 👌
 hours:
   monday: "9:00 AM–5:30 PM"
   tuesday: "9:00 AM–5:30 PM"

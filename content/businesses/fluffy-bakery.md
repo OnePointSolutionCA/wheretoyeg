@@ -19,8 +19,8 @@ hours:
   saturday: "8:00 AM–7:00 PM"
   sunday: "8:00 AM–7:00 PM"
 photos: ["/photos/fluffy-bakery-1.jpg", "/photos/fluffy-bakery-2.jpg", "/photos/fluffy-bakery-3.jpg"]
-rating: 4.7
-review_count: 155
+rating: 4.6
+review_count: 164
 price_range: "$"
 amenities:
   - "Dine-In"

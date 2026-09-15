@@ -34,16 +34,26 @@ reviews:
       Both dentists are approachable, kind, and make every visit comfortable and stress-free. The staff are equally friendly and attentive. Lori always greets me with a smile and says hello whenever I come in, which makes the experience feel very personal.
       
       The clinic is always spotless, well-maintained, and there is plenty of convenient parking outside. I highly recommend this practice to anyone looking for honest, skilled, and caring dental professionals.
+  - name: "Patrick Lam"
+    rating: 5
+    comment: |
+      I've met many dentists over the years, and unfortunately, not all of them shared the same philosophy. Too often, the focus seemed to be on treating the immediate problem rather than helping patients understand why the problem existed in the first place. The treatment solved the symptom, but not the cause.
+      
+      Meeting Dr. Richard Ng was a completely different experience.
+      
+      What impressed me most wasn't just his professional knowledge—it was his integrity. He genuinely wants his patients to have healthier teeth for life, not simply return for more treatments. He patiently explained what was causing my dental issues and, more importantly, taught me how to protect my teeth through better daily habits and preventive care.
+      
+      Many professionals would simply recommend another procedure, but Dr. Ng is willing to spend his valuable time educating his patients, even though helping people prevent problems may mean fewer visits in the future. That level of honesty, generosity, and patient-first thinking is incredibly rare today.
+      
+      I believe great dentists don't just repair teeth—they empower people to take care of their own oral health. Dr. Richard Ng is one of those rare professionals.
+      
+      I sincerely hope Dr. Ng continues to stay healthy and keep serving the Edmonton community for many years to come. Our city is fortunate to have a dentist like him.
   - name: "Jennifer Bouchier"
     rating: 5
     comment: |
       I've been going to Enjoy Dental for over 20 years, since I was 16 years old. I grew up in the neighborhood, but when I moved downtown as an adult, I figured I should use the dentist down the street. Wow, I did not know that the quality of care could differ so much between dentists! I ended up trying several other dentists for a few years, before returning to Enjoy Dental. Now I live in Mill Woods, and I still come back to Castledowns for my dentist.
       
       Both Dr. Ng and Dr. Enoch are wonderful dentists. They're both kind, and personable, and they take the time to answer my questions. Because of the dentist hopping I did, I developed a fear of the dentist. Lots of anxiety, and and fear to the point of tears at even the idea of pain. But I feel safe here, and when we're done Dr. Ng always tells me I'm brave and he's proud of me :')
-  - name: "helen ivy"
-    rating: 5
-    comment: |
-      The best of the best! Been to various dental offices and enjoy dental has been the absolute best experience I’ve had. I’m so glad they were recommended to me. All staff were amazing and kind. Alleviated my dental anxiety that many of us struggle with!
   - name: "Kyle"
     rating: 5
     comment: |

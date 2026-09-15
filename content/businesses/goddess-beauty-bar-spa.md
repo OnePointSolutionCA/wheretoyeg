@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–5:00 PM"
 photos: ["/photos/goddess-beauty-bar-spa-1.jpg", "/photos/goddess-beauty-bar-spa-2.jpg", "/photos/goddess-beauty-bar-spa-3.jpg"]
 rating: 4.9
-review_count: 192
+review_count: 197
 price_range: "$$"
 amenities:
 
@@ -32,6 +32,10 @@ reviews:
     rating: 5
     comment: |
       The facility is very clean, welcoming and beautiful. The staff are friendly and helpful. My nail artist Anna is very personable, knowledgeable and just overall amazing. My mom and I have been going to her for years and she always get the shape right, and her skills are exceptional. These are a few photos of my favourite nails over the years (that’s why there are so many). The newest one is the pearl swirly ones. :)
+  - name: "justine marie"
+    rating: 5
+    comment: |
+      I’ve been going to Anna for a few months now, and she is seriously amazing! My nails are flawless every single time, and she always gets the perfect shape. She pays so much attention to detail and takes her time to make sure everything looks perfect. I’m always so happy with my nails when I leave. Highly recommend Anna!
   - name: "Nicole Gibson"
     rating: 5
     comment: |
@@ -44,14 +48,4 @@ reviews:
     rating: 5
     comment: |
       I got a Korean lash lift with Isabelle, and she did an amazing job! My lashes have never looked so beautiful. She was very kind and made sure I was comfortable throughout the entire appointment. It was a 10/10 experience, and I’ll definitely be coming back!
-  - name: "Nareeta S."
-    rating: 5
-    comment: |
-      If you’re looking for gorgeous lashes and top-tier service, I highly recommend this salon. I’ve been seeing Minh for the last 6 years and have always been impressed! She is gentle, precise, and incredibly talented—my lashes turn out perfect every time.
-      
-      The other lash technicians are just as skilled and always take the time to understand exactly the look I’m going for, which I really appreciate. No matter who you see, you’re in great hands.
-      
-      I’ve also used this salon for nails and pedicures and was equally impressed with the quality and attention to detail. It’s truly a one-stop beauty destination.
-      
-      Goddess Beauty Bar is a clean, calming, and professional space that offers a variety of services, and the level of care they provide keeps me coming back. I always leave feeling confident, refreshed, and well taken care!
 ---

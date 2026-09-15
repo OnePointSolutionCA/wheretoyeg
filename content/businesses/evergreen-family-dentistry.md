@@ -37,14 +37,14 @@ reviews:
       A special mention to Sherry she was amazing during my hygiene appointment. She has such a light hand. I barely felt any pain at all. It was probably one of the most comfortable dental cleanings I’ve ever had.
       
       We are so happy with the care and service we received. You can really tell they care about their patients and want everyone to have a positive experience. We’re very glad we found this clinic and look forward to coming back. Highly recommend Evergreen Family Dentistry!
-  - name: "Kylie Eyestone"
-    rating: 5
-    comment: |
-      Recently I had an opportunity to visit an extraordinary and very professional family oriented, caring Dental Provider.  The name is Evergreen Family Dentistry located here in Spruce Grove. The staff made me feel like I'm part of their " Client " family, right 👉 from my introduction. Since, I have a few appointments with them. I can 🥫 tell you that if you want dedicated and caring Dental professionals looking after your dental work. These are the best in this area and they will "treat you like a family member ". They are the best at what they do in my over 50 years of dental experience !! You can 🥫 know that you're in the best hands 👐 in this area!
   - name: "Video Wiz"
     rating: 5
     comment: |
       We have always had amazing service at Evergreen...everyone is so friendly and welcoming and they really try to make your visit as comfortable as possible. Specifically Sherri the dental hygenist...we always have a great chat and her cleanings are so thorough. Years ago I couldn't get into see her and I had someone else(no longer employed there) and within days I could tell that it wasn't as good as a cleaning as i was used to with Sherri. I mentioned it to them and they asked me to come back in to see Sherri and she did her magic and it was fantastic. Amazing friendly service and quality staff. Thanks!
+  - name: "Kylie Eyestone"
+    rating: 5
+    comment: |
+      Recently I had an opportunity to visit an extraordinary and very professional family oriented, caring Dental Provider.  The name is Evergreen Family Dentistry located here in Spruce Grove. The staff made me feel like I'm part of their " Client " family, right 👉 from my introduction. Since, I have a few appointments with them. I can 🥫 tell you that if you want dedicated and caring Dental professionals looking after your dental work. These are the best in this area and they will "treat you like a family member ". They are the best at what they do in my over 50 years of dental experience !! You can 🥫 know that you're in the best hands 👐 in this area!
 hours:
   monday: "8:00 AM–4:30 PM"
   tuesday: "8:00 AM–4:30 PM"

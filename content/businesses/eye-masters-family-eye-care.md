@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "15311 97 St NW, Edmonton, AB T5X 5V3"
 rating: 4.5
-review_count: 77
+review_count: 78
 tier: "featured"
 phone: "(780) 249-9955"
 google_maps: "https://maps.google.com/?cid=6721958089538198326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

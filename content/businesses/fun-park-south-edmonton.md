@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "6018 75 Street NW, Edmonton, AB T6E 2W6"
 rating: 3.9
-review_count: 526
+review_count: 527
 tier: "featured"
 phone: "(780) 499-5280"
 website: "https://edmonton.funparkcanada.ca/"
@@ -17,6 +17,10 @@ reviews:
     rating: 5
     comment: |
       We had my daughter's birthday party here today and  all the kids had a blast! The staff were very nice especially Javni/Janvi. Thank you for accommodating my request regarding table reservation. I bought socks for all the kids in advance so the parents don't need to worry on the day of the party. The place was clean and the tables upstairs were spacious. There were floor staff watching the kids. We had a successful birthday party! Thank you Funpark, we had lots of FUN!
+  - name: "Derek G"
+    rating: 4
+    comment: |
+      Cleanliness was great when we were there.  Price is a little steep compared to similar places ie launchpad.  Need grip socks bring your own if you can to save money.  Kids enjoyed the rock wall!
   - name: "Ronak chauhan"
     rating: 2
     comment: |
@@ -37,10 +41,6 @@ reviews:
     rating: 5
     comment: |
       Took my  1.4 and 10 year-olds to this Fun Park - Edmonton today, and they had an absolute blast on the climbing frames, slides, ninja course trampolines. The place was spotless, staff were friendly and attentive, and it wasn’t overcrowded so the little ones could play freely without bumps or waits.
-  - name: "Kristin Gamboa"
-    rating: 1
-    comment: |
-      If I could give them a ZERO, I would....staff are rude and difficult. The policies are maddening: parents have to buy the establishmant socks just to get in, have to pay extra to be able to supervise children, admission is for 1 hour only....the prices are ridiculous. STAY AWAY
 hours:
   monday: "11:00 AM–9:00 PM"
   tuesday: "11:00 AM–9:00 PM"

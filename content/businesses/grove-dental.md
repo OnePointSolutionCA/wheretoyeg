@@ -14,6 +14,10 @@ google_maps: "https://maps.google.com/?cid=913958873141503242&g_mp=Cidnb29nbGUub
 photos:
   - "/images/businesses/grove-dental.jpg"
 reviews:
+  - name: "Sam NAJMEDDINE"
+    rating: 5
+    comment: |
+      I has been going to the same clinic for 40 years and just recently changed to Grove. I wish I would have switched years ago . Staff is amazing and I have learned more about my teeth in two visits then I was ever told in 40 years prior. They explain everything as they go , spotless clinic , amazing staff , and feel like i have been a client for years.
   - name: "Monica Fillmore"
     rating: 5
     comment: |
@@ -39,10 +43,6 @@ reviews:
       I spend a lot of time with Dr. Amirie, June and Nicole at Grove Dental. I am so fortunate they are such a wonderfully kind and caring team. June and Nicole go above and beyond to make life easier for me and are genuinely thoughtful.
       
       Dr. Amirie is a fabulous dentist. He is very knowledgeable and takes great care to explain the issues I have with my teeth. ( I have a lot of issues with my teeth.) He is meticulous and explains what he is doing step by step. Dr. Amirie has a sense of humour and makes me feel well cared for. He takes his job very seriously and is doing his best to help me protect my teeth as I get older.
-  - name: "ahaydar522"
-    rating: 5
-    comment: |
-      Hands down best Dental office in Alberta.  The staff are so kind, patient and helpful.   Dr. Ameen is amazing at his job, very thorough and respectful.   I used to have alot of anxiety about going to the dentist but ever since I found this office I have never felt more safe and calm going to my appointments.  The dental assistants and hygenists are amazing! Everything is just 👌👌
 hours:
   monday: "8:30 AM–7:00 PM"
   tuesday: "8:30 AM–6:00 PM"

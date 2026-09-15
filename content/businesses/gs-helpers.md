@@ -5,7 +5,7 @@ category: "cleaning-services"
 neighborhood: "Edmonton"
 address: "11619 105 Ave NW, Edmonton, AB T5H 0L9"
 rating: 4.9
-review_count: 185
+review_count: 187
 tier: "featured"
 phone: "(780) 885-6060"
 website: "https://gshelpers.ca/"
@@ -13,6 +13,10 @@ google_maps: "https://maps.google.com/?cid=11093465667145257186&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/gs-helpers.jpg"
 reviews:
+  - name: "Sumathi selvaraj"
+    rating: 5
+    comment: |
+      I used gs helpers for move out cleaning of a 2 bedroom house. I booked them during last minute. They did an excellent job with cleaning. I am happy about their service. They are affordable. I recommend their service for anyone who needs help with cleaning.
   - name: "Vivian O"
     rating: 5
     comment: |
@@ -32,12 +36,8 @@ reviews:
     rating: 5
     comment: |
       Came in without a reservation to rent a truck, and they were friendly and efficient. Prices were what was listed online. I returned it low, they noticed and charged me for the gas, but the price was reasonable and honestly it was worth it to avoid the hassle of topping it off right in that neighborhood. All in all about as good as you can hope for in a truck rental.
-  - name: "Reecha Chilkuri"
-    rating: 5
-    comment: |
-      I recently used their cleaning service, and the entire house looked brand new afterward. The team did an excellent job and paid great attention to detail. Thank you so much, GS Helpers
 hours:
-  monday: "10:00 AM–12:00 PM"
+  monday: "7:00 AM–7:00 PM"
   tuesday: "7:00 AM–7:00 PM"
   wednesday: "7:00 AM–7:00 PM"
   thursday: "7:00 AM–7:00 PM"

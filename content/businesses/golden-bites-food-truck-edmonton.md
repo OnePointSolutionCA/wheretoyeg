@@ -14,13 +14,13 @@ hours:
   monday: "Closed"
   tuesday: "12:00 PM–10:00 PM"
   wednesday: "12:00 PM–10:00 PM"
-  thursday: "Closed"
+  thursday: "12:00 PM–10:00 PM"
   friday: "Closed"
   saturday: "12:00 PM–10:00 PM"
   sunday: "12:00 PM–6:00 PM"
 photos: ["/photos/golden-bites-food-truck-edmonton-1.jpg", "/photos/golden-bites-food-truck-edmonton-2.jpg", "/photos/golden-bites-food-truck-edmonton-3.jpg"]
 rating: 5
-review_count: 54
+review_count: 57
 price_range: "$$"
 amenities:
   - "Dine-In"

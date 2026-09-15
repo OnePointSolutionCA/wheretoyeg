@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Edmonton"
 address: "2431 Ellwood Dr SW, Edmonton, AB T6X 0J6"
 rating: 4.6
-review_count: 524
+review_count: 525
 tier: "featured"
 phone: "(780) 465-0014"
 website: "https://www.ellwoodpizza.ca/"
@@ -13,10 +13,6 @@ google_maps: "https://maps.google.com/?cid=8049599210776897830&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/ellwood-pizza.jpg"
 reviews:
-  - name: "Tara Aech"
-    rating: 5
-    comment: |
-      Tried this place for Pi day. Decent pricing, excellent flavour for the pizza, and decent wings as well. Definitely loved the donair pizza, and the BBQ chicken was also a hit! Would recommend ordering in advance, as it took 35 minutes to get my order as a walk in.
   - name: "Anonymous Anonymous"
     rating: 1
     comment: |
@@ -31,6 +27,10 @@ reviews:
     rating: 5
     comment: |
       Extraordinary Pizza in Ellwood truly lives up to its name! The crust is perfectly crispy, the toppings are fresh, and the flavor is amazing. Great pizza and friendly service—definitely one of the best spots in tow
+  - name: "Tara Aech"
+    rating: 5
+    comment: |
+      Tried this place for Pi day. Decent pricing, excellent flavour for the pizza, and decent wings as well. Definitely loved the donair pizza, and the BBQ chicken was also a hit! Would recommend ordering in advance, as it took 35 minutes to get my order as a walk in.
   - name: "Hanif Amlani"
     rating: 5
     comment: |

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/forum-law-llp-business-family-and-litigation-lawyer-1.jpg", "/photos/forum-law-llp-business-family-and-litigation-lawyer-2.jpg", "/photos/forum-law-llp-business-family-and-litigation-lawyer-3.jpg"]
 rating: 4.8
-review_count: 225
+review_count: 224
 price_range: "$$"
 amenities:
 
@@ -28,20 +28,10 @@ tags: ["edmonton", "legal"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Tanya Antoine"
+  - name: "Queen Alexandra Apartment"
     rating: 5
     comment: |
-      Cannot express how grateful I am for Jennifer Bou-yazbek, Forum Law, and their exceptional work! Had an amazing experience when purchasing our home. Jennifer took the time to explain every step of the process clearly, which made what could have been a stressful experience feel smooth and manageable. She was kind, professional, and always quick to respond to any questions we had. Everything was handled in a timely manner, and all deadlines were met without any issues. The attention to detail and commitment to their clients is what truly stood out. I would highly recommend Forum Law to anyone looking for a reliable and knowledgeable real estate lawyer and all your lawyer needs! Thank you again.
-  - name: "Angelica Gutierrez"
-    rating: 5
-    comment: |
-      I have been a client with this law office for almost two years and have had a great experience working with their team. I first worked with Sharif Issawi for my real estate transaction when I purchased my home. He made the entire process simple and stress-free, taking the time to explain everything clearly and ensuring that everything went smoothly from start to finish.
-      
-      More recently, I have been working with Tammy Olson on my family law matters. Tammy has been incredibly helpful, supportive, and professional throughout the entire process. She is knowledgeable, responsive, and has made navigating a difficult situation much easier.
-      
-      I also want to recognize Amanda Wonsiak, Tammy’s paralegal, who has been wonderful to work with as well. She has always been organized, helpful, and quick to respond, which really makes a difference during an already stressful time.
-      
-      Overall, I’m very grateful for the support and professionalism I’ve received from this office. I would highly recommend them to anyone needing assistance with real estate or family law matters.
+      Fisnik (our lawyer) was very knowledgeable and handled everything professionally. He was helpful, fair, and genuinely cared about his clients. He responded to us quickly and was always willing to answer our questions. We truly appreciated his kindness, professionalism, and excellent service. We highly recommend Forum Law!
   - name: "Red Chair Property Management"
     rating: 5
     comment: |
@@ -64,4 +54,8 @@ reviews:
     rating: 5
     comment: |
       My husband and I worked with Muhammed-Ali Yassin to create our will, and the experience was excellent. He and his team were incredibly helpful in guiding us through the decisions we needed to make. They were knowledgeable, informative, and made the entire process clear and straightforward. Everything was handled efficiently and with great attention to detail. We highly recommend!
+  - name: "Sarah Yassine"
+    rating: 5
+    comment: |
+      I had an excellent experience working with Muhammed and the team during the purchase of my new home. Muhammed was professional, responsive, and incredibly thorough throughout the entire process. He took the time to explain everything clearly, made sure all the details were handled properly, and helped the transaction go smoothly from start to finish. I would highly recommend him to anyone needing a knowledgeable and reliable real estate lawyer.
 ---

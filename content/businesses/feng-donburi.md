@@ -13,10 +13,6 @@ google_maps: "https://maps.google.com/?cid=8972476575356748673&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/feng-donburi.jpg"
 reviews:
-  - name: "Mickey Bajwa"
-    rating: 4
-    comment: |
-      Thought to try this on our way out of town. It was a pleasant surprise. The pork + Kimchi donburi was amazing! We would come back for the Donburi! The sushi was good, but YEG has better sushi spots!
   - name: "Ivy H."
     rating: 5
     comment: |
@@ -36,6 +32,10 @@ reviews:
       Bathrooms were clean!
       
       And again, the food was really good I got the Gyudon Bowl and definitely recommend it.
+  - name: "Mickey Bajwa"
+    rating: 4
+    comment: |
+      Thought to try this on our way out of town. It was a pleasant surprise. The pork + Kimchi donburi was amazing! We would come back for the Donburi! The sushi was good, but YEG has better sushi spots!
   - name: "Arya Bhandal"
     rating: 5
     comment: |

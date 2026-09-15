@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Beaumont"
 address: "6410 50 St Unit 101, Beaumont, AB T4X 0B6"
 rating: 4.9
-review_count: 342
+review_count: 343
 tier: "featured"
 phone: "(780) 929-2844"
 website: "https://galeriedentalcare.com/"

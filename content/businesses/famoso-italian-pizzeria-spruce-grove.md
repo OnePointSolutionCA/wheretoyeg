@@ -14,6 +14,12 @@ google_maps: "https://maps.google.com/?cid=17114019808555930586&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/famoso-italian-pizzeria-spruce-grove.jpg"
 reviews:
+  - name: "Oleksandr Minchuk"
+    rating: 5
+    comment: |
+      Amazing place for authentic Italian pizza! We were with our youngest and the staff is very thoughtful on delivering best experience of having dinner there, as he got crayons and colorings and enjoyed staying there too.
+      
+      If you're looking for a really good pizza, I can definitely recommend this place!
   - name: "Cal Caldwell"
     rating: 4
     comment: |
@@ -36,30 +42,6 @@ reviews:
       Thank you for the excellent food but most incredibly service from Tanya and staff. Everything was very organized. Great experience!
       
       Dora
-  - name: "Johny Walker"
-    rating: 1
-    comment: |
-      Skip customers are customers too
-      
-      I ordered 3 15 inch pizzas. Was expecting. Free 12 margarita pizza as per an add vertices deal. Only the 3 pizzas came.
-      
-      Order was over $100. Normally we’ve alsways had a good experience for Famoso pizza. Yesterday the pizza was cold in the middle and under cooked. Value wasn’t there.
-      
-      The reason I’m rating a 1-star however is because of a phone call with the alleged manager after the order showed up minus the 12 inch margarita pizza.
-      
-      Initially she sounded concerned and and I thought this would progress to a credited pizza for later. But no, that didn’t happen. Now I understand I made a mistake on the skip app and didn’t select the right deal… my fault. However you would think after ordering 3 15 inch pizzas a reasonable manager would oblige and comp me the 12” margarita.
-      
-      The conversation turned into all of the excuses about how she couldn’t possibly comp me a credit for the pizza. I said take my name and number and give it to the manager then. That’s when she told me she was the manager…. Pretty weak if you ask me.
-      
-      I continued to complain, not raising my tone, just make ing a reasonable plea. She then said “why are you yelling at me?”
-      
-      That’s it!! That is where I draw the line. I never yelled and my wife heard everything…
-      
-      Playing the victim card while being an incompetent manager is unsat. I advised I would write this negative feedback review and here we are. She pretended to care but continued to play victim.
-      
-      There is no room for narcissism of this sort in the customer service industry. And this is cause and affect.
-      
-      I think I’ll stick to Domino’s, always fresh, always what I asked for, and fast.
 hours:
   monday: "11:00 AM–9:00 PM"
   tuesday: "11:00 AM–9:00 PM"

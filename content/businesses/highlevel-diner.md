@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Edmonton"
 address: "10912 88 Ave NW, Edmonton, AB T6G 0Z1"
 rating: 4.4
-review_count: 1980
+review_count: 1982
 tier: "featured"
 phone: "(780) 433-0993"
 website: "http://highleveldiner.com/"

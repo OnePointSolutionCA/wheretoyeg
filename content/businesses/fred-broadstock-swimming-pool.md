@@ -36,6 +36,10 @@ reviews:
       One tip: don’t bring any alcohol or opened bottles of water, as they aren’t allowed inside. There are drinking water stations available, so you can refill your bottle there. Feel free to bring washed and cut fruit, snacks, a small tent for shade, and beach towels.
       
       Get there early to make the most of your day—otherwise, expect to wait in line!
+  - name: "Ham andBun"
+    rating: 5
+    comment: |
+      Great time with the family. Nice and clean, cool tunes, great vibes and the lifeguards are attentive, friendly and helpful! Good value too getting the family pass 👍👍
   - name: "Sailor Vee"
     rating: 5
     comment: |
@@ -60,8 +64,4 @@ reviews:
     rating: 5
     comment: |
       A wonderful outdoor pool.  Polite and smiling staff.  A large area in a quiet area, available parking.  Large showers, changing rooms.  At the entrance, drinks, snacks, and ice cream are available at reasonable prices.  On a weekday, there are not many people, there are many free sunbeds.  The pool is deep, the water temperature is comfortable, the diving towers are working.  Attentive and friendly lifeguards.
-  - name: "Raven Grandbois"
-    rating: 1
-    comment: |
-      Came in on a Sunday. Thought it’d be a good time. However I got profiled right as I came in. They didn’t ask for payment they rushed to ask me to pour out my water bottle which is understandable however then the supervisor looked at me and my friend got up with a serious face and said he needed to see my bag he looked through it looking at me, making me feel like he was trying to find something on me?? They were so fixed on me having something on me that they didn’t ask me for payment! I never felt so profiled in my LIFE. Crazy experience but thank you for the FREE day!
 ---

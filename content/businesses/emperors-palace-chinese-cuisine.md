@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–8:00 PM"
 photos: ["/photos/emperors-palace-chinese-cuisine-1.jpg", "/photos/emperors-palace-chinese-cuisine-2.jpg", "/photos/emperors-palace-chinese-cuisine-3.jpg"]
 rating: 4.1
-review_count: 975
+review_count: 976
 price_range: "$$"
 amenities:
   - "Dine-In"

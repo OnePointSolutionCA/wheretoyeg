@@ -34,14 +34,14 @@ reviews:
       We had a great experience working with Deidre. She was professional, responsive, honest, and genuinely easy to trust throughout the entire process. We especially appreciated that she never pushed us to make a decision either way. Instead, she clearly explained the different options and possible pathways, gave us honest insight into each one, and let us make the decisions that felt right for us without pressure.
       
       Her stager did an amazing job, and the photos of our home turned out beautifully. She also brought a calm, confident approach that made what could have been a stressful experience feel smooth and manageable. We were very happy with the level of service we received and would absolutely recommend Deidre to anyone looking to buy or sell a home.
-  - name: "Shelly Hines"
-    rating: 5
-    comment: |
-      Deidre and the Haven team were fantastic to work with on the sale of the property. They were ethical, professional and personable. Deidre was very considerate and responsive,  providing great communication with all parties from start to finish. She was very supportive and knowledgeable. Her expertise successfully guided us through each step in the process. I highly recommend Deidre and Haven!
   - name: "Chantal"
     rating: 5
     comment: |
       Deidre is amazing at what she does. I had contacted her about a year prior to provide me with a market evaluation of my home, as I was considering listing it. The timing just wasn’t right for a move, so I ended up keeping my home for an additional year. In February of 2026, I contacted her again with a request to have my home listed, and I’ll admit, the timeframe I provided her with was likely very short notice. She very quickly went to work and arranged for photos, the listing, and everything in between, all while providing me with a clear strategy and deep market knowledge. My home was listed within what felt like no time, and a pending offer the very next night! Deidre managed the entire selling process flawlessly, and kept me updated every step of the way, She is very kind, personable, professional, knowledgeable, extremely organized, and it is obvious she does a lot of market research. She always responded quickly to questions and was very thorough and informative throughout the entire process. I had an amazing experience selling my home, and I would highly recommend Deidre and the Haven Real Estate team to anyone in the market to buy or sell.
+  - name: "Cathy Wiseman"
+    rating: 5
+    comment: |
+      We are so grateful for Deidre and Kaitlyn.  They  kept us, the lawyer, and the mortgage specialist in the loop at all times. Deidre was caring, extremely knowledgeable, professional, understanding, and so willing to go out of her way to help and accommodate our needs. She made sure we understood everything involved. We viewed many houses with Deidre, some in person but most were seen virtually.  We lived out of town so we actually only chose our forever home by going through it with Deidre over video.  She was very thorough and detailed as we went through the house with her virtually.  We would not have wanted to go through this process with anyone else.  She continues to help us with finding services even after the sale has been completed.  We cannot say enough great things about Deidre!  I would highly recommend her to anyone searching for or selling a home.
   - name: "Rachel Bachman"
     rating: 5
     comment: |

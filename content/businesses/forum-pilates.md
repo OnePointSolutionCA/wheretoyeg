@@ -40,12 +40,16 @@ reviews:
     rating: 5
     comment: |
       I absolutely love going to Forum. Tyra is my favorite instructor—her classes are the perfect mix of challenging and fun. She always provides options for modifications, as well as opportunities to improve and grow for those who want an extra challenge, which I really appreciate. She is encouraging and creates a welcoming environment whether it’s your first class or your fiftieth. I look forward to attending her classes every week and have seen real improvements in my strength and balance. Her classes are the best I’ve attended at any studio. I also love the studio’s large windows and open, airy atmosphere.
-  - name: "Tat K"
-    rating: 5
-    comment: |
-      I’ve been coming to Forum since they’ve opened their doors! Each instructor has their own flow & rhythm which I love! Their team truly takes care of their staff and clients - and it shows. Even if you’re completely new to reformer and reading this - give it a try… trust me. I couldn’t recommend this studio enough.
   - name: "Erika"
     rating: 5
     comment: |
       Forum is a beautiful space with a variety of excellent instructors. It is warm and welcoming and I find the classes are a great range, from beginner to advanced. Love support amazing locally FEMALE owned business 🤍🤍
+  - name: "Kim Sievers"
+    rating: 5
+    comment: |
+      Forum Pilates is truly something special! Every instructor here is incredible -  knowledgeable, supportive, and genuinely invested in helping you move and feel your best. The atmosphere is so warm and welcoming that it instantly feels like more than just a workout studio …. it’s a real community.
+      
+      They offer classes for every skill level, so whether you’re brand new to Pilates or have been practicing for years, you’ll always feel challenged and encouraged. The playlists are always on point too - such great energy!
+      
+      I’m so grateful to have found this space. Forum has completely changed the way I look at working out … it’s become one of my favorite parts of the week!
 ---

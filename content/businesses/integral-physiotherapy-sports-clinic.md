@@ -46,13 +46,16 @@ reviews:
     rating: 5
     comment: |
       Where do I even start I am so glad my friend recommended Integral physiotherapy ! Kaitlyn has worked wonders on my lower and upper back the dry needling is the only thing working for me and stretching ! This place is always clean the boys in the front are always super helpful and polite ! Kaitlyn I can’t thank you enough from being a listening ear to how my day is going to working a miracle  to being so non judgmental and welcoming from someone has super bad anxiety you made this experience easier and I’m glad I’m getting help after all this years! So thankful I have found you ! Highly recommend this place you won’t be disappointed! This is a bit of a drive from my place but so worth it ! Keep up the good work guys !
-  - name: "HANAN ABRAR"
+  - name: "Mohammad Karimi"
     rating: 5
     comment: |
-      I had my first physiotherapy session today with Amal, and it was a wonderful experience. She was very kind, knowledgeable, and made me feel comfortable right away. Amal took the time to listen carefully, explained the treatment clearly, and approached everything with care and professionalism. Even after just one session, I felt supported and confident that I’m in good hands. I’m really grateful and looking forward to continuing my treatment!
-  - name: "Teach XVIII"
+      I was a client of Kaitlyn’s a few years ago while dealing with lower back pain during some particularly tough years of my life. She helped me tremendously through her personalized exercise programs, treatments, and dry needling.
+      
+      Kaitlyn is professional, kind, patient, and genuinely understanding. I’m very grateful for the care and support she gave me during that time.
+      
+      It’s unfortunate that I’ve since moved to Toronto and can no longer see her, but I would highly recommend Kaitlyn to anyone looking for an excellent physiotherapist! :-)
+  - name: "baraa alkanakre"
     rating: 5
     comment: |
-      Kaitlyn Sosnowski has been very attentive and highly professional. Also, she is a compassionate and friendly person.
-      She has listened to my description of the problem, studied the images description of the damaged knee and suggested a treatment and exercises. I hope it'll work, and in any case the treatment has been very well done, with professionalism and compassion.
+      Integral physio clinic team are highly knowledgeable and helpful. Daniel has been helping me throughout my recovery journey and I highly recommend him. He explains everything and listens to your concerns and answers questions!
 ---

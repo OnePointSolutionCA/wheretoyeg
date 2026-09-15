@@ -11,14 +11,14 @@ google_maps_url: "https://maps.google.com/?q=Fort%20Edmonton%20Park%20Edmonton"
 hours:
   monday: "Closed"
   tuesday: "Closed"
-  wednesday: "10:00 AM–5:00 PM"
-  thursday: "10:00 AM–5:00 PM"
-  friday: "10:00 AM–5:00 PM"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
   saturday: "10:00 AM–5:00 PM"
   sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/fort-edmonton-park-1.jpg", "/photos/fort-edmonton-park-2.jpg", "/photos/fort-edmonton-park-3.jpg"]
 rating: 4.5
-review_count: 5336
+review_count: 5349
 price_range: "$$"
 amenities:
   - "Family Friendly"
@@ -29,6 +29,10 @@ tags: ["history", "family-friendly", "museum", "kids", "seasonal"]
 active: true
 date_listed: "2026-08-18"
 reviews:
+  - name: "Clarence Cozier"
+    rating: 5
+    comment: |
+      I toured this place with my wife and 2 good friends. We were truly impressed with the place. It is very well kept, clean, with all in the family able to tour. I hope this place will continue to be family oriented and taken care of as when we were there. I also learnt a lot about Canada's indigenous history along with how people lived and the tools that were used. The attendants were wonderful to deal with starting with the lady selling the entrance tickets. I rate this place 100% and a must for families with children to visit.
   - name: "Bob Khater"
     rating: 5
     comment: |
@@ -45,8 +49,4 @@ reviews:
     rating: 5
     comment: |
       What a great historical park of Edmonton. We took the train from the entrance to the 1846 Fort and what an amazing experience that was. They have workers with a lot of knowledge about the entire park. They even have a farm with chickens, pigs and horses which is more animals than when we visited the edmonton zoo. There are different eras from 1885 to 1920’s and every building is filled with historical artifacts and workers dressed up in those eras to make it feel like your living in the past. I recommend it to anyone visiting. They have rides and refreshments for the kids and trolleys to take you to different areas of the park. They have pony rides and wagon rides as well.
-  - name: "Inge Hendricks"
-    rating: 5
-    comment: |
-      It was a beautiful day. We spent over 4 hours there with granddaughter and 3 great grandkids. We had a picnic for lunch. There's so much to see and do. We didn't even get to do everything. The indigenous people's experience was outstanding.  The ferris wheel wait was long, but worth it.
 ---

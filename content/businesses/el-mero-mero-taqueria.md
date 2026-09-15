@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/el-mero-mero-taqueria-1.jpg", "/photos/el-mero-mero-taqueria-2.jpg", "/photos/el-mero-mero-taqueria-3.jpg"]
 rating: 4.4
-review_count: 1354
+review_count: 1358
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -44,14 +44,14 @@ reviews:
     rating: 5
     comment: |
       Holy crap!  I wasn't expecting to be this satisfied with Mexican food!  The restaurant itself is just wild; the vibe is lively and crazy. No reason to stare at your phone when so much was put into creating this atmosphere. The food was delicious, fresh, hot and filling. The horchata was excellent and surprisingly sold at a reasonable price. I know I'll be here again!
-  - name: "Simon R"
-    rating: 4
-    comment: |
-      Work in the area and came to order some takeout. The vibe is great and the food was pretty good too. Just ordered some tacos to go. Prices are fairly high in my opinion. 3 tacos with a $2 tip for takeout came to just under $25.
   - name: "Dajana Fabjanovic"
     rating: 5
     comment: |
       Birria tacos were 👌🏻! We also enjoyed the camaron (shrimp) and carnitas (pork). Unfortunately one of the carnitas had quite a bit of fat in it. Didn’t deduct a star because maybe it was a one off? Horchata and churros were delicious. Our server Karen was lovely. We’ll be back!
+  - name: "Simon R"
+    rating: 4
+    comment: |
+      Work in the area and came to order some takeout. The vibe is great and the food was pretty good too. Just ordered some tacos to go. Prices are fairly high in my opinion. 3 tacos with a $2 tip for takeout came to just under $25.
   - name: "Reesa Murji"
     rating: 3
     comment: |

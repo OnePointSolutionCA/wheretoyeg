@@ -42,14 +42,14 @@ reviews:
       And they were so fast! I had my glasses back in 30 minutes.
       
       Thank you, GHF!
-  - name: "Matthew L"
-    rating: 5
-    comment: |
-      Excellent service - the team at GHF is helpful, thoughtful and fast. My daughter had a similarly positive experience. And I have never received more compliments on a pair of glasses!
   - name: "Robyn C"
     rating: 5
     comment: |
       There's a reason these folks are sitting at a 5-star rating! I had an excellent experience here getting an eye exam, updating my prescription, and picking new frames. Everyone on the team, from the doctor to staff members helping me pick new frames, was so kind, helpful, and attentive. I can recommend this place to folks who have had bad experiences with eye care in the past & need a breath of fresh air and a gentle re-introduction to eye care.
+  - name: "Matthew L"
+    rating: 5
+    comment: |
+      Excellent service - the team at GHF is helpful, thoughtful and fast. My daughter had a similarly positive experience. And I have never received more compliments on a pair of glasses!
   - name: "Tianna O'Neill"
     rating: 1
     comment: |

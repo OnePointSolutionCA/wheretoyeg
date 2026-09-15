@@ -33,6 +33,14 @@ reviews:
     comment: |
       I had a great experience with Brandi! I got a brow sculpt and tint, and she made sure I was happy with everything before she started.
       She was super friendly, thorough, and checked in throughout the whole process. My brows turned out great, and I’m very happy with the result. I definitely recommend her! I will definitely be returning.
+  - name: "Thera R."
+    rating: 5
+    comment: |
+      I got a Korean lift and tint done by Leah.
+      
+      It looked great for nearly 2 months. Lashes stayed long and healthy.  When I went back to get it done again recently I wanted it fanned out and not as high. Leah followed my request and it looks even more amazing this time.
+      
+      Very happy with the service, and the space is  relaxing and tidy.  Highly recommend.
   - name: "Kayla Marie"
     rating: 5
     comment: |
@@ -49,14 +57,4 @@ reviews:
     rating: 5
     comment: |
       Very happy with the service! I got the wet lash full set done by Leah and I’m very happy with the results! I had a comfortable experience chatting with Leah and being in the salon itself 😊
-  - name: "Jennifer Larson"
-    rating: 1
-    comment: |
-      Really disappointed with my service.
-      
-      the first time i came in i had a lash lift with brandy and it was great! i was super happy with it and she was very friendly.
-      
-      i came back a year later and i booked with ella and my experience was not good.
-      I got a lash lift to feel pretty on my vacation and my lashes looked shorter than when i curl them myself at home! Not to mention she was quite rude. For example she didn't explain anything that she was doing during the appointment so i was very confused. she was also sick, which made me nervous during my appointment because she was in close contact with me throughout the service.
-      Overall I am super upset with my experience and will be looking for a new lash place for when i go on my trip next year.
 ---

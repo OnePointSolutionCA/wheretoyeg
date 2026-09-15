@@ -28,6 +28,10 @@ tags: ["edmonton", "cuts-styling"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Septreyelma Erquita"
+    rating: 5
+    comment: |
+      I had such a great experience at this salon! Cassandra is excellent at what she does—she’s very talented, professional, and really knows her craft. She was also so sweet, friendly, and welcoming, which made my visit even better. You can tell she genuinely cares about her clients and takes pride in her work. I’m very happy with my hair and will definitely be coming back! Highly recommend Cassandra! ❤️
   - name: "Trisha Reimer"
     rating: 5
     comment: |
@@ -56,8 +60,4 @@ reviews:
     rating: 5
     comment: |
       Had a great time with Cass! She was super professional and diligent and she clearly cares what’s she’s doing and how comfortable the customer is. Very sweet and easy to chat with. Left feeling comfortable and cute. Yay!
-  - name: "Harman Sharma"
-    rating: 5
-    comment: |
-      Cass did an amazing job with my hair! The color turned out beautiful, and the blending is absolutely seamless. She paid great attention to detail and made sure everything looked perfect. I’m so happy with the results and would highly recommend her!
 ---

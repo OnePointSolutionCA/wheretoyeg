@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "10830 170 St NW, Edmonton, AB T5S 2H7"
 rating: 4.3
-review_count: 1175
+review_count: 1177
 tier: "featured"
 phone: "(780) 482-7244"
 website: "https://www.hidenseekplayground.ca/hnsedm/"
