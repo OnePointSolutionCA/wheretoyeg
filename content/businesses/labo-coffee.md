@@ -19,8 +19,8 @@ hours:
   saturday: "9:00 AM–5:00 PM"
   sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/labo-coffee-1.jpg", "/photos/labo-coffee-2.jpg", "/photos/labo-coffee-3.jpg"]
-rating: 4.7
-review_count: 289
+rating: 4.8
+review_count: 293
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -36,10 +36,6 @@ reviews:
       Small cafe on Whyte avenue that has unique offerings on their coffee-based drinks but not much on the food side. They had some unique drinks when we went that were decently made.
       
       Interestingly they serve their drinks in glass cups and not mugs, but maybe that’s an aesthetic choice.
-  - name: "Regan"
-    rating: 5
-    comment: |
-      My favourite cafe in the city!!! The staff members are kind, welcoming and always down for a nice chat when they've got time to spare. I truly appreciate the passion they have for coffee. They also put on awesome events where you can connect with new people and make new friends :)) P.s. try the malted latte, it is the best 😝
   - name: "Nessa Gomez"
     rating: 4
     comment: |
@@ -54,4 +50,8 @@ reviews:
     rating: 5
     comment: |
       First of all, some of the best matcha on the strip! Love the vibe! You can chill and do your work! The staff is extremely welcoming and kind! I also love the fun drinks and seasonal features they have!
+  - name: "lisa annemarie chow"
+    rating: 5
+    comment: |
+      I was an ArtWalk artist and the day after the big storm on Saturday, on Sunday they gave me my matcha latte complimentary as a way to be kind after the craziness of the storm. So sweet of them! 💕
 ---

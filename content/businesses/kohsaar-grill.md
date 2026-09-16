@@ -12,16 +12,16 @@ phone: "(825) 401-8014"
 website: "https://kohsaargrill.ca"
 google_maps_url: "https://maps.google.com/?q=KohSaar+Grill+Edmonton"
 hours:
-  monday: "4:00 PM–11:00 PM"
+  monday: "4:00 PM–10:00 PM"
   tuesday: "Closed"
-  wednesday: "4:00 PM–11:00 PM"
-  thursday: "4:00 PM–11:00 PM"
-  friday: "4:00 PM–12:00 AM"
-  saturday: "10:30 AM–12:00 AM"
-  sunday: "10:30 AM–11:00 PM"
+  wednesday: "4:00 PM–10:00 PM"
+  thursday: "4:00 PM–10:00 PM"
+  friday: "3:00 PM–11:00 PM"
+  saturday: "10:30 AM–11:00 PM"
+  sunday: "10:30 AM–10:00 PM"
 photos: ["/photos/kohsaar-grill-1.jpg", "/photos/kohsaar-grill-2.jpg", "/photos/kohsaar-grill-3.jpg"]
 rating: 4.5
-review_count: 734
+review_count: 735
 price_range: "$$$"
 amenities:
   - "Halal"
@@ -54,10 +54,6 @@ reviews:
       Excellent food and a wonderful dining experience! We ordered the Soup of the Day, Mutabbakh, and Paneer Handi, and everything was absolutely delicious. Also we ordered Karak and Kashmiri chai with something as dessert. Everything was delicious.
       
       The atmosphere was beautiful, with unique Pakistani-inspired architecture and decor that made the place feel warm and inviting. The staff were friendly and welcoming. Highly recommended!
-  - name: "Nafisa Shams"
-    rating: 5
-    comment: |
-      The food was amazing, the atmosphere was extremely cosy and warm. The Nihari is one of the best in Edmonton, I had a wonderful experience. I Met the owner Mr. Khalid who took the time out of his busy schedule to ask if we were doing okay and if we needed anything else, very kind. It's a family own business where they make everything with love and care. This resturant never fails and always a fantastic experience.
   - name: "Abdul Sami"
     rating: 5
     comment: |
@@ -71,4 +67,8 @@ reviews:
       Service was top class too.
       
       Highly recommended
+  - name: "RMA CANADA"
+    rating: 5
+    comment: |
+      Food was extraordinary we ordered chicken handi  and it was taste good portion is for 2 to 3 people for $32 or $36 forgot... the BBQ beef is tasty but hope less spicy 😅 . The place is gorgeous and it has an industrial vibe with islamic arts... the server is not that friendly but im not sure if she is really like that or just because of mood swings 😅 🤔  anyway we came for food not for her tho...😁 Eid Mubarak
 ---

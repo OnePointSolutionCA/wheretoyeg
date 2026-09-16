@@ -4,8 +4,8 @@ slug: "iron-lore-gym"
 category: "gyms-fitness"
 neighborhood: "Beaumont"
 address: "5305 Magasin Ave #102, Beaumont, AB T4X 1V8"
-rating: 5
-review_count: 136
+rating: 4.9
+review_count: 137
 tier: "featured"
 phone: "(587) 206-0060"
 website: "http://loregym.com/"
@@ -13,20 +13,30 @@ google_maps: "https://maps.google.com/?cid=15791288718336527451&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/iron-lore-gym.jpg"
 reviews:
+  - name: "Michelle Dodson-Finn"
+    rating: 5
+    comment: |
+      Before travelling from the UK to Beaumont, I spent time researching gyms and decided on Iron Lore—and it was definitely the right choice.
+      
+      I’m here for three weeks and wanted to stay on track with my training programme. Aaron and Danny have been brilliant from day one, going above and beyond to make me feel welcome. They’ve answered all of my questions with patience and have made settling in really easy.
+      
+      The gym is clean, spacious, and extremely well equipped, with plenty of cleaning wipes available throughout. The atmosphere is fantastic, and everyone I’ve met has been friendly and respectful.
+      
+      If you’re serious about training, this is the place to be. Great equipment, great staff, and a genuinely welcoming environment. I wouldn’t hesitate to recommend Iron Lore to anyone—whether you’re local or just visiting like I am.
   - name: "Chris Sky"
     rating: 5
     comment: |
       Trained consistently for over 15 years. Over 150 gyms in more than 50 countries and i can tell you without any doubt for those serious about their physique there is no better gym to hit your goals in Edmonton, than Iron Lore.  Will you actually look better, perform better and be stronger just because you came here with superior equipment, mindset and "vibe" instead of the "chain gyms"?  Minute for minute.  Rep for rep?   Absolutely.
       
       Originally had a miscomunication and software issue ... this review has been updated after the team at Iron Lore solved the issues and i got me access to the best gym in Edmonton.
-  - name: "Raph"
-    rating: 5
-    comment: |
-      Amazing gym, equipment is top notch and really well organized. I was in the city for a couple days and the owner facilitated me doing a few drop ins. Will definitely be back when in Edmonton again!
   - name: "Daniel Harper"
     rating: 5
     comment: |
       There are very few, potentially no gyms in Alberta that can match the level of equipment in this facility. It’s basically an Atlantis show room. Extremely well maintained and clean. The owners are actively involved in the space so the environment is very welcoming.
+  - name: "Raph"
+    rating: 5
+    comment: |
+      Amazing gym, equipment is top notch and really well organized. I was in the city for a couple days and the owner facilitated me doing a few drop ins. Will definitely be back when in Edmonton again!
   - name: "D J"
     rating: 5
     comment: |
@@ -39,10 +49,6 @@ reviews:
       Another thing I really appreciate is the supplements they offer. Being able to order directly through them with 25% off has honestly been a game changer for me. I place an order every month, and when you add up the savings, my gym membership basically pays for itself. It’s one of those little extras that just shows how much thought they’ve put into supporting their members.
       
       At the end of the day, Iron Lore is more than just a place to lift weights—it’s a space where I’ve grown stronger physically, mentally, and even socially by being part of the community. I’m really grateful to Aaron and Eleni for putting their heart into this gym and for giving all of us a place where we actually look forward to training.
-  - name: "Pat Fontaine"
-    rating: 1
-    comment: |
-      I get regular treatments at the clinic next door and unfortunately suffer from FASD. The music from this gym is so obnoxious and loud despite the clinic’s efforts to politely ask them to turn it down and gives me headaches. Very inconsiderate and unprofessional
 hours:
   monday: "Closed"
   tuesday: "Closed"

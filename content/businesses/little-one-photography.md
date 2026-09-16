@@ -13,14 +13,14 @@ google_maps: "https://maps.google.com/?cid=13412118294119016136&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/little-one-photography.jpg"
 reviews:
-  - name: "Chen CF"
-    rating: 5
-    comment: |
-      We absolutely loved our experience with Little One Photography! The photographer was extremely patient, careful, and kind with our little one, which really put us at ease as parents. Communication was also excellent — she was very thoughtful, detail-oriented, and made sure everything went smoothly from start to finish. We are so grateful for such a wonderful session and beautiful memories!
   - name: "Scarlett Wu"
     rating: 5
     comment: |
       Samantha took pictures for our family this summer, we got the chance to capture beautiful photos along the tall fields, she prepped us through every step with natural poses and outfits plannings for the photoshoot. The photos she captured were super natural and vivid with detailed instructions allowing us to feel confident and positive with her skills, we absolutely loved the experience!
+  - name: "Chen CF"
+    rating: 5
+    comment: |
+      We absolutely loved our experience with Little One Photography! The photographer was extremely patient, careful, and kind with our little one, which really put us at ease as parents. Communication was also excellent — she was very thoughtful, detail-oriented, and made sure everything went smoothly from start to finish. We are so grateful for such a wonderful session and beautiful memories!
   - name: "Hannah welch"
     rating: 5
     comment: |

@@ -13,6 +13,10 @@ google_maps: "https://maps.google.com/?cid=11668974415601401456&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/john-kenneth-hair-salon.jpg"
 reviews:
+  - name: "Emma Koch"
+    rating: 5
+    comment: |
+      Had a hair appointment today with Jackie and it was amazing! She was super kind and supportive of my idea! I’ve had lots of homemade cuts with my hair and it was a mess but she made it so much better! I feel a lot more me and I’m super happy with the results. Thanks again Jackie for this amazing hair result and will be back 100%!!
   - name: "First name Surname"
     rating: 1
     comment: |
@@ -29,6 +33,12 @@ reviews:
       When it was dry, i was honest that i wasn't happy with the color but paid and tipped anyways because she was pleasant and it was awkward. She suggested i text her if it was too dark after washing it a few time, but i don't have faith that she has the knowledge to fix it.
       
       By far, the WORST salon experience i have ever had.
+  - name: "Sarah-Kate Bergmuller"
+    rating: 5
+    comment: |
+      Brooklyn is awesome. She cuts both me and my husband's hair and it always turns out great!
+      
+      Also, if you have really long hair, and are scared of having a bunch chopped off (iykyk), she listens and will give you the exact amount removed that you requested.
   - name: "Matthew Baranieski"
     rating: 5
     comment: |
@@ -45,14 +55,6 @@ reviews:
       Both services and stylists were great. I ran into an issue with one of my services (miscommunication between stylist and myself) and reached out via email to the salon. The response was very prompt, understanding and provided the clarity that I needed. They were able to resolve the issue in a customer-centric and prompt way, which I 100% appreciated.
       
       I would recommend this salon based on the stylists and service I received, but based on the after-care, I would definitely recommend. Sometimes the service isn't just what you receive when you are in the chair. :) Thank you!
-  - name: "Miller Time"
-    rating: 5
-    comment: |
-      My sister recommended to see Jackie for my sons perm!! She did a great job! Also got me in for a haircut!! She was patient and friendly!! Definitely recommend you wont be disappointed!! Thanks so much Jackie!!!
-  - name: "Nicole Eckel"
-    rating: 5
-    comment: |
-      I recently moved from Sherwood Park to Spruce Grove & when I went to book in with my SP stylist, I realized she was on mat leave. I was very nervous to find a new stylist to cut my hair as I have heard so many horror stories & I did not know anyone locally to give me a referral to a stylist. I decided to book in with Brooklyn, and she was amazing! I could tell how much she cared to ensure my haircut was perfect and exactly what I was looking for. I definitely have a new local stylist now, and I'm so grateful I found John Kenneth & Brooklyn. The months of waiting and being nervous were well worth finding Brooklyn. Thanks, Brooklyn! See you again in a few months 😊
 hours:
   monday: "10:00 AM–6:00 PM"
   tuesday: "9:00 AM–8:00 PM"

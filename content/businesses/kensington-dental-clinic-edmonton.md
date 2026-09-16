@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "12522A 132 Ave NW, Edmonton, AB T5L 3P9"
 rating: 4.9
-review_count: 510
+review_count: 511
 tier: "featured"
 phone: "(587) 805-5502"
 website: "https://kensingtondentalclinic.ca/?utm_source=GMB&utm_medium=seo&utm_campaign=GBP"
@@ -30,13 +30,6 @@ reviews:
       The admin staff are great, too. They send reminders, followups, and even birthday messages. They also got me in same day when I had a tooth issue recently.
       
       I’ve got my whole extended family coming here now. It’s seriously the best dental practice I’ve been to.
-  - name: "James Taylor"
-    rating: 5
-    comment: |
-      I can’t say enough great things about Kensington Dental Clinic! From the moment you walk in, you’re greeted by an incredible team of receptionists who are always warm, welcoming, and genuinely happy to help. Their friendliness and professionalism really stand out—it’s clear they truly love what they do and care about every single patient who walks through the door.
-      Dr. Rani Ibadi is equally amazing. She is extremely knowledgeable, honest, and takes the time to explain everything clearly. I really appreciate that she never pushes unnecessary treatments and always provides recommendations you can trust. On top of that, she has a calm and reassuring approach that makes every visit comfortable and stress-free.
-      If you’re looking for a dental clinic where you feel valued, cared for, and completely at ease, I highly recommend Kensington Dental Clinic!
-      - James Taylor
   - name: "lana vu"
     rating: 5
     comment: |
@@ -45,6 +38,10 @@ reviews:
     rating: 5
     comment: |
       This is the best dental clinic you could ever possibly go to!!! It’s super clean and the staff is extremely friendly and kind. I went here for my appointment and they welcomed us by name and just overall were SO friendly!!! I truly could not be more grateful to go here!! I would go again 1000000000 times over and over again! The hygienists were super kind too!! Over all I would give them a million stars but that’s impossible!!!
+  - name: "Mary Joyce Inoc"
+    rating: 5
+    comment: |
+      I’m so grateful that my colleague recommended this clinic, especially Dr. Erica! The clinic is elegant, clean, and welcoming. Dr. Erica is incredibly professional, friendly, and gentle, I barely felt any discomfort during my treatment. She has such a light touch and always makes sure you’re comfortable and well taken care of!
 hours:
   monday: "Closed"
   tuesday: "9:00 AM–5:00 PM"

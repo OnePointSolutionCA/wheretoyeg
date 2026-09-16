@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/lovely-nails-1.jpg", "/photos/lovely-nails-2.jpg", "/photos/lovely-nails-3.jpg"]
 rating: 4.8
-review_count: 937
+review_count: 942
 price_range: "$$$"
 amenities:
 

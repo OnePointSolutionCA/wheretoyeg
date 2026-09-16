@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–10:00 PM"
 photos: ["/photos/made-in-palestine-cafe-1.jpg", "/photos/made-in-palestine-cafe-2.jpg", "/photos/made-in-palestine-cafe-3.jpg"]
 rating: 4.8
-review_count: 209
+review_count: 213
 price_range: "$$"
 amenities:
   - "Halal"
@@ -34,10 +34,6 @@ uber_eats: false
 doordash: false
 skipthedishes: false
 reviews:
-  - name: "Sarah Salt"
-    rating: 5
-    comment: |
-      Such a unique coffee shop with an amazing vibe and exceptional service. The atmosphere is warm, welcoming, and unlike any other place around. You can really tell the staff care about creating a great experience for their customers. Whether you’re stopping by for a quick coffee or staying to relax, this place has a special charm that makes you want to come back. Highly recommend!
   - name: "Nisreen"
     rating: 5
     comment: |
@@ -55,4 +51,8 @@ reviews:
     rating: 5
     comment: |
       Gorgeous cafe with beautiful baked goods, great menu of drinks and gorgeous souvenir pieces. My server Hana made the iced summer drinks to perfection and was super personable throughout my time there! Great service and will definitely be back!
+  - name: "Sarah Salt"
+    rating: 5
+    comment: |
+      Such a unique coffee shop with an amazing vibe and exceptional service. The atmosphere is warm, welcoming, and unlike any other place around. You can really tell the staff care about creating a great experience for their customers. Whether you’re stopping by for a quick coffee or staying to relax, this place has a special charm that makes you want to come back. Highly recommend!
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/integrated-therapies-massage-edmonton-1.jpg", "/photos/integrated-therapies-massage-edmonton-2.jpg", "/photos/integrated-therapies-massage-edmonton-3.jpg"]
 rating: 4.9
-review_count: 790
+review_count: 793
 price_range: "$$"
 amenities:
 
@@ -28,10 +28,6 @@ tags: ["edmonton", "massage"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Bernadette Logozar"
-    rating: 5
-    comment: |
-      Amazing experience from when I first opened the door until I left.  Thank you to the kind, considerate and accommodating staff at Integrated Therapies Massage.  I would highly recommend them.  I was suffering from significant muscle tightness, deep and clustered muscle knots from pretty much head to toe.  Christina was amazing at working as many knots out as she could and working around my physical challenges.  I will definitely be returning to get the rest of me straightened out in the future.
   - name: "Nabila Acra"
     rating: 5
     comment: |
@@ -52,4 +48,8 @@ reviews:
     rating: 5
     comment: |
       I had an amazing experience with cupping therapy from Noemi. She is very professional, kind, and made me feel comfortable throughout the session. The treatment was very relaxing, and I could feel the tension in my muscles reducing right away. After the session, my body felt lighter and much more relaxed. She also explained the process clearly and made sure everything was safe and comfortable. I highly recommend Noemi to anyone looking for effective and professional cupping therapy. Thank you for such a wonderful experience!
+  - name: "Bernadette Logozar"
+    rating: 5
+    comment: |
+      Amazing experience from when I first opened the door until I left.  Thank you to the kind, considerate and accommodating staff at Integrated Therapies Massage.  I would highly recommend them.  I was suffering from significant muscle tightness, deep and clustered muscle knots from pretty much head to toe.  Christina was amazing at working as many knots out as she could and working around my physical challenges.  I will definitely be returning to get the rest of me straightened out in the future.
 ---

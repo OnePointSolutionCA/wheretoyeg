@@ -11,16 +11,16 @@ phone: "(780) 761-3463"
 website: "https://karamkitchen.ca/"
 google_maps_url: "https://maps.google.com/?cid=11845118939074100097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "2:00 PM–8:00 PM"
-  tuesday: "2:00 PM–8:00 PM"
-  wednesday: "2:00 PM–8:00 PM"
-  thursday: "2:00 PM–8:00 PM"
-  friday: "2:00 PM–8:00 PM"
-  saturday: "2:00 PM–8:00 PM"
-  sunday: "2:00 PM–8:00 PM"
+  monday: "11:00 AM–10:00 PM"
+  tuesday: "11:00 AM–10:00 PM"
+  wednesday: "11:00 AM–10:00 PM"
+  thursday: "11:00 AM–10:00 PM"
+  friday: "11:00 AM–10:00 PM"
+  saturday: "11:00 AM–10:00 PM"
+  sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/karam-kitchen-1.jpg", "/photos/karam-kitchen-2.jpg", "/photos/karam-kitchen-3.jpg"]
-rating: 4.3
-review_count: 15
+rating: 4.7
+review_count: 250
 price_range: "$"
 amenities:
   - "Halal"
@@ -28,28 +28,38 @@ tags: ["edmonton", "middle-eastern-catering", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Mohammed el ayssari"
+  - name: "Jeaddhist"
     rating: 5
     comment: |
-      I had an amazing experience at Karam Kitchen! The food is fresh, flavorful, and authentically halal. The staff is friendly and welcoming, and the restaurant is clean and cozy. I especially loved [specific dish you liked, e.g., the chicken shawarma]. Highly recommend this place for anyone craving delicious halal food in town
-  - name: "ramze alaeddine"
-    rating: 2
-    comment: |
-      From what it was when it used to be Paramount to what it is today, I am not impressed at all.
+      We visited Ariana Kitchen for lunch on the August long weekend Monday. We were greeted and seated immediately. Our server was very friendly and answered all of our questions about the menu items. Our food and drinks then came pretty quickly. Everything was fresh and generously portioned. The ezme and bread and the lamb shank and rice were standouts as was the bolani and the accompanying sauce/dip. The mango shake I ordered was also very delicious and refreshing. We were served some lovely cardamom tea at the end of our meal.
       
-      I don’t wanna be putting any bad judgement or giving anybody a bad name however I ordered a tawoq sandwich and got Chicken Shawarma strips in my Tawuk. I also ordered garlic cheesy bread with the Picture shows fluffy bread, But instead, I got a flatbread that was barely cooked with minimal cheese.
+      Atmosphere-wise, the place is bright and clean and there was even fresh flowers at each table. The only reason I could not give five stars for this category was due to lack of toilet paper in the washrooms. I did tell a staff member and was assured it would resupplied right away. (To be clear, the washrooms were very clean.)
       
-      I did not use an App I called the phone line and picked up my order in person.
-  - name: "Mo E"
+      Overall, this was an enjoyable visit. Good value/prices and great food. We are already planning our next visit!
+  - name: "p c"
+    rating: 4
+    comment: |
+      Food was really good and service was fast and friendly. We ordered the Family Platter and honestly the quantity was way too much - great value.
+      
+      Only issue was the lamb was undercooked, which was disappointing. Everything else was delicious.
+      
+      We would still come back and would recommend, but would ask them to cook the lamb properly next time.
+  - name: "Haris Azimi"
     rating: 5
     comment: |
-      So tasty 😋, thank you very much! I'll definitely be coming back. They're only open for take out right now, I'm so excited for when its fully open. I took food home for the family everything was fresh, hot 🔥 & delicious! The chicken 🍗, rice 🍚, fries 🍟, garlic🧄 dip & pickles 🥒 on the side, soup 🍲, salad 🥗, bread 🍞 & dessert 🍨 was all amazing 👏.
-  - name: "Lena K"
+      Had an amazing time here! The food was delicious, and the staff were very friendly and welcoming. I would definitely recommend this place. It’s a great spot for a family dinner or to celebrate any special occasion with your loved ones. I’ll definitely be coming back!
+  - name: "Gina"
     rating: 5
     comment: |
-      Just happen to notice this new place with a sign saying opening soon and take out only. What a great middle Eastern place. Wanted to try just a dip but got the roasted eggplant, roasted red pepper, Karam bread (nice and warm) and the chicken Shwarma wrap. Things were good. Love the wrap- crispy pita, savory with a garlic dip and pickles. The roasted red pepper dip was good. Really kind people and I hope they are successful!
-  - name: "LeighAnn Cooper"
+      Absolutely amazing!
+      
+      Delicious food, amazing ambience, and friendly atmosphere.
+      
+      This was by far the best restaurant I have ever eaten at or sat at! I travel for work and I genuinely enjoyed the delicious dishes!
+      
+      Thank you for the amazing experience!
+  - name: "Faria Mehjabin"
     rating: 5
     comment: |
-      Saw this new place on Uber Eats, and figured I would try something different.. and I am glad I did!  The chicken and the rice were both delicious, salad was fresh and the garlic sauce was so good ! Will definitely order again!
+      Wonderful restaurant. The food was amazing, we ordered the Qabuli polo, chapli kabab and the manto. All of the dishes were amazing. The staff were very friendly. Would 100% recommend trying this restaurant out!
 ---

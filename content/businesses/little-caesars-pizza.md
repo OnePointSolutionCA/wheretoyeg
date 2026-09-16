@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Beaumont"
 address: "6102 29 Ave #109, Beaumont, AB T4X 0H5"
 rating: 3.8
-review_count: 70
+review_count: 71
 tier: "featured"
 phone: "(587) 474-1476"
 website: "https://littlecaesars.ca/"
@@ -14,14 +14,14 @@ google_maps: "https://maps.google.com/?cid=12820458029951154097&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/little-caesars-pizza.jpg"
 reviews:
-  - name: "Cameron Carr"
-    rating: 5
-    comment: |
-      I’ve been going to this location for over a year now and they never disappoint. Possibly the best quality of pizza out of any location I have been to and the staff are amazing, friendly and always smiling.
   - name: "White Widow"
     rating: 5
     comment: |
       Dropped it at 8:30pm tonight for a fresh 3 meat, extra cheese and stuffed crust pizza. I didn’t mind waiting 10 minutes for a fresh pizza. I don’t know the name of the lady who was working tonight, but she made the best damn Little Cs pizza I have ever had. I’m usually not a fan of Little Caesars. I stopped in for my husband, because it’s his favourite. Thank you to the lady who made our pizza tonight it was so good!
+  - name: "Cameron Carr"
+    rating: 5
+    comment: |
+      I’ve been going to this location for over a year now and they never disappoint. Possibly the best quality of pizza out of any location I have been to and the staff are amazing, friendly and always smiling.
   - name: "keisha canning"
     rating: 2
     comment: |

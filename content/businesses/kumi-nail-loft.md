@@ -21,7 +21,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/kumi-nail-loft-1.jpg", "/photos/kumi-nail-loft-2.jpg", "/photos/kumi-nail-loft-3.jpg"]
 rating: 4.5
-review_count: 97
+review_count: 99
 price_range: "$$"
 amenities:
   - "Gel Nails"

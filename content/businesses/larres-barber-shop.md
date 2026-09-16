@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/larres-barber-shop-1.jpg", "/photos/larres-barber-shop-2.jpg", "/photos/larres-barber-shop-3.jpg"]
 rating: 4.9
-review_count: 620
+review_count: 619
 price_range: "$$"
 amenities:
 

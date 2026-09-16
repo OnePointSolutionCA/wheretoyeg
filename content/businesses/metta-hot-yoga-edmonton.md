@@ -36,10 +36,10 @@ reviews:
     rating: 5
     comment: |
       Finally found best hot yoga studio in Edmonton. Conveniently located at West and South Location. I love all the teachers but Larissa does fantastic job. I always enjoy her class and even in the regular Metta or Flow class, she will make you sweat like anything. It's refreshing and sometimes overwhelming but overwhelming in a good way. You come out of the class all energized and ready to go a long way again. Keep up the great job Metta Yoga. Once again I adore all the teachers and their style of the class. Good Luck Metta Team !!!!
-  - name: "Nataliya Kovalenko"
-    rating: 5
+  - name: "Paul Williams"
+    rating: 1
     comment: |
-      Honestly,  it's my favourite yoga studio. I moved a bit further so I am trying to find a new studio with a good yoga workout and this is when I realized that Metta is my most favourite studio and I haven't found one that compares in class quality. There are so many awesome instructors. The studio delivers a consistent quality in all of its classes. Highly recommend.
+      1 star for this location. I thought yoga was supposed to be peaceful and promote a calm mind. When I arrived and asked a few questions, the person at the front desk seemed to get triggered. I simply asked if they track the people who enter the establishment, as I was trying to understand how membership and attendance are acknowledged. The defensive reaction was completely unnecessary.
   - name: "alner quitat"
     rating: 5
     comment: |

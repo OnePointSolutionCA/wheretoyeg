@@ -18,7 +18,7 @@ hours:
   sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/italian-centre-shop-1.jpg", "/photos/italian-centre-shop-2.jpg", "/photos/italian-centre-shop-3.jpg"]
 rating: 4.6
-review_count: 3298
+review_count: 3300
 price_range: "$$"
 amenities:
   - "Deli"
@@ -42,10 +42,6 @@ reviews:
       Loved the vibe , the food , the service .. everything here . There was a tiny line up but the pizza.. definitely worth it .. the margarita was plain and delicious while the vegitariana was finger licking good with pesto sauce in the base and mushroom , cherry tomato , onions as topping .
       
       The desert we tried were eclairs with cream and another thingy with cream and raspberries- they both were fresh and the cream was super light and lesser in sugar . The pastries 🥮 were a definite must try
-  - name: "Adrienne Cloutier"
-    rating: 1
-    comment: |
-      The Italian Centre sells beautiful product with the exception of their baked goods which includes their bread,  buns, lemon blueberry cake, banana bread and other items in the bakery section. The ingredients are not listed on any of those products and it requires going to someone at the counter to dig up a binder to look up the ingredients. I was appalled at the cheap, artificial / fake ingredients. I believe if they were more transparent about what went into these items, people would not purchase them. They use artificial flavour, words I cannot pronounce, soybean oil, sugar as the first ingredient and so on. The  mystery ingredient list is extensive and reads like something that would be concocted in a lab. And yet it is marketed as bringing 'Europe to Edmonton'. For those who think they are getting top quality baked goods, you are not, and I encourage you to ask staff to show you the ingredient list in those binders they have on the shelves by the checkout counters. This is at the location on 95th Street. It's very, very disappointing. The Freson Brothers on the other hand support locally made Alberta bread and every product is labelled, which transparently shows that it's genuinely healthy, simple and high quality. If you want decent baked products, skip the Italian Centre and shop there instead.
   - name: "Paul Hill"
     rating: 5
     comment: |
@@ -56,4 +52,8 @@ reviews:
     rating: 5
     comment: |
       The best Italian centre shop in town, always has what I need for both groceries and the bakery/cafe in stock. Has the expected affair of European groceries and other things that are hard to find elsewhere. Definitely the best deal for produce and one of the best places to stop in for a treat/light lunch in the area. It’s also fun to eat a pizza on the patio here during the summer.
+  - name: "Suzy X"
+    rating: 5
+    comment: |
+      Absolutely fantastic experience, as always. So much selection and the absolute freshest ingredients. Definitely try their freshly, oven baked pizza. Amazing !! Fresh produce and a wide variety of selection from europe that you cannot get elsewhere. Love it.
 ---

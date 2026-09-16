@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/jass-auto-inc-1.jpg", "/photos/jass-auto-inc-2.jpg", "/photos/jass-auto-inc-3.jpg"]
 rating: 4.8
-review_count: 114
+review_count: 117
 price_range: "$$"
 amenities:
 
@@ -50,12 +50,12 @@ reviews:
     rating: 5
     comment: |
       My family and I have been using Jass for years. They are extremely honest and professional. They make recommendations and never do work that is not authorized but never let you drive off in an unsafe vehicle. Highly recommended.
+  - name: "Josh"
+    rating: 5
+    comment: |
+      Anthony is a great guy and great mechanic. This shop is honest and fair priced, they don’t lie about what the vehicle needs and are always happy to go above and beyond for customers. Highly recommend Jass Auto to anybody looking for a honest mechanic.
   - name: "SK"
     rating: 5
     comment: |
       Best Shop around by far. Wouldn’t take my vehicles anywhere else!
-  - name: "RJ Skinner"
-    rating: 5
-    comment: |
-      I've used Jass Auto a number of times for a variety of the every-day needs of a vehicle - flat repair, tire change, oil change, and or just a general evaluation of my vehicle needs, and the staff are second to none. In an industry where folks can be wary of greasy mechanics, Jass Auto will surely leave you feeling good about the service they provide. Highly recommended for your automotive service needs!
 ---

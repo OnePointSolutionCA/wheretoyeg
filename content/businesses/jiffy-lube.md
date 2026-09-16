@@ -27,18 +27,18 @@ reviews:
       15 minutes later my transmission was on fire at a traffic light and vehicle disabled.
       Do not recommend this place, they’re polite in your face but if they make a mistake they won’t even report it to you and as you can’t leave the vehicle while it’s in the bay you don’t even get a chance to watch what they’re doing.
       If they honestly said what happened I would either tow the vehicle or made sure not to drive it without oil in the transmission and this disaster wouldn’t be as bad, instead vehicle had to be junked.
+  - name: "Zach Eastcott"
+    rating: 5
+    comment: |
+      Brought my vehicle in to get the signal light replaced as it burnt out. Darren helped me out and had it done in under 10 minutes. Everyone was super friendly and helpful. Would definitely come back!
   - name: "Jenn"
     rating: 3
     comment: |
       Oil change was done quickly. Friendly staff, clean surroundings.  Was not happy sticker printed 5000klms recommendations worth on my synthetic oil change,  regularly synthetic is good for 10000klms. I only once make the mistake of missing this.
-  - name: "Brittannie Lee"
-    rating: 5
+  - name: "Michelle W"
+    rating: 1
     comment: |
-      Great experience and amazing staff! They checked my car to make sure I didn't have any leaks. Highly recommend!
-  - name: "Tanner Berg"
-    rating: 5
-    comment: |
-      We have been coming to this Jiffy Lube with our two vehicles for over 10 years and have always had great service. Bobby is a super star ⭐
+      I went to this location after previously having had an oil change at lube city. They quoted me $150. I asked why it was so much because my last oil change was exactly half that amount, the man told me that they probably used the wrong oil and proceeded to lift up my hood, no conversation on my bill, which I showed him I was holding. I said well if it's double the price I may go to the other place and he just slammed the hood closed and opened the door and walked away. No conversation, no check on why it was different. Just walked away. Will literally NEVER be back and won't recommend them to anyone!
 hours:
   monday: "8:00 AM–8:00 PM"
   tuesday: "8:00 AM–8:00 PM"

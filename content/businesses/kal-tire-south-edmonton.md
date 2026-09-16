@@ -39,18 +39,18 @@ reviews:
     rating: 5
     comment: |
       Kal Tire found a small screw that was causing a leak and fixed the tire.  They then did a tire rotation on my vehicle.  The cost - FREE...since I bought all four of my tires with them last year.  Great company!  I would highly recommend getting All Weather tires from them.  It is worth the price for the awesome service.
+  - name: "Anita"
+    rating: 5
+    comment: |
+      I had such a great experience with this store from start to finish. Aaron is very thorough, organized and attentive, and it’s clear that his leadership reflects in the way the store operates. You can see the care he puts into his customers and staff. Highly recommend !
   - name: "Ermal Morina"
     rating: 5
     comment: |
       I recently had the pleasure of visiting Kal Tire for service on my 2010 Ford Fusion. After taking my vehicle to another shop that quoted unnecessary parts replacements, I decided to get a second opinion from Kal Tire.
       
       The team, starting with the Manager was extremely professional and honest in advising me that some of the parts didn’t need to be replaced. Their transparency and expertise were greatly appreciated, and I am thoroughly satisfied with the service I received. I highly recommend this shop for anyone seeking quality and trustworthy service. I will certainly return for future automotive needs.
-  - name: "Paolo Mussone"
-    rating: 1
-    comment: |
-      I had an appointment this morning at 7:30 am for a seasonal tire change. However, there was no staff on site. I waited until 8 am and then left. I got no call back from anybody so I called instead to hear what happened. Someone told me that "the manager's alarm did not go off this morning". I will not come back to Kal Tire. By the way, Google should have the option of giving zero stars.
-  - name: "Anita"
+  - name: "Kamal Cheema"
     rating: 5
     comment: |
-      I had such a great experience with this store from start to finish. Aaron is very thorough, organized and attentive, and it’s clear that his leadership reflects in the way the store operates. You can see the care he puts into his customers and staff. Highly recommend !
+      Me and my husband went to get the tyre rotation done and get tyre thread checked. We reached this location at 5.40pm and they were closing at 6pm. Sharif and his colleague helped us happily. They were very professional, efficient and answered all our questions. Since two of tyres were purchased from Kal Tire in 2023, they didn't charge us. I really appreciate they honoured their policy. We came to this location after having a terrible customer service experience at millwoods canadian tire. So, I really want to thank Sharif and his coworker for treating us as a valued customer. Highly recommend this location for tyre services.
 ---

@@ -18,8 +18,8 @@ hours:
   saturday: "10:30 AM–9:30 PM"
   sunday: "10:30 AM–9:00 PM"
 photos: ["/photos/lucky-kitchen-all-day-dimsum-restaurant-1.jpg", "/photos/lucky-kitchen-all-day-dimsum-restaurant-2.jpg", "/photos/lucky-kitchen-all-day-dimsum-restaurant-3.jpg"]
-rating: 4.3
-review_count: 318
+rating: 4.4
+review_count: 315
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -53,8 +53,8 @@ reviews:
     rating: 5
     comment: |
       My new fave spot for dim sum. Cozy building with lots of sunlight, much smaller than most dim sum spots in Edmonton but don't let that fool you. The food and service quality here at lucky kitchen far exceeds those larger places. My only gripe as they don't do the carts, which I love for the nostalgia but realize how inefficient it is. Plus in my old age, I'm getting more impatient and hate waiting for my food, it really grinds my gears when the cart you want finally reaches you and it's empty. So the al la carte system here is perfect as I got exactly what I wanted and in a timely manner. Every item was freshly made, had lots of flavour and wasn't oily. To top of off, the prices here are actually reasonable. This place is a must try!
-  - name: "Josephene Chong"
-    rating: 4
+  - name: "Rayne Tatyana"
+    rating: 5
     comment: |
-      The pumpkin cake was disappointing. The bread crumbs used are hard and the filling was  not 100% pumpkin filling . It had rice glutinous sticky cake sandwiched inside and it tasted rancid The Shanghai noodles are delicious but need to be a bit generous on the meat . Overall other Dim sim dishes are delicious .
+      Lovely dim sum place! We went here for mother's day, it was lovely! This is what we ordered. I was too hungry to snap pics! My favorites were the pan fried shrimp rolls, and the shanghai pork dumplings!
 ---

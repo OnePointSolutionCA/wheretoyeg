@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "6331 76 Ave NW, Edmonton, AB T6B 0A6"
 rating: 4.7
-review_count: 171
+review_count: 172
 tier: "featured"
 phone: "(587) 709-1007"
 website: "https://ktservices.ca/"
@@ -26,14 +26,14 @@ reviews:
     rating: 5
     comment: |
       These guys are awesome. I was stuck on the highway in my wife's car and they changed and gave me a replacement tire right away. I would recommend these guys to anyone.
+  - name: "Sukhdeep Singh"
+    rating: 5
+    comment: |
+      Kt services Above and beyond services . They always give best service to their customers. Best mechanics and affordable. Pardeep is the awesome guy and very friendly.
   - name: "Gilberto Ibarra"
     rating: 5
     comment: |
       I had a flat tire and my rim was bent when I was driving in downtown and Harjeet took care of me by fixing my rim and tire very good. Highly recommended place.
-  - name: "Nik Josafatow"
-    rating: 5
-    comment: |
-      Best pricing for winter tires and they serviced my car same day I called
 hours:
   monday: "Closed"
   tuesday: "Closed"

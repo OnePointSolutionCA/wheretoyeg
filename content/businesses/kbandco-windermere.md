@@ -13,11 +13,6 @@ google_maps: "https://maps.google.com/?cid=12786889474496494374&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/kbandco-windermere.jpg"
 reviews:
-  - name: "Nisha Singh"
-    rating: 1
-    comment: |
-      Ordered  Coconut Thai and it was 95 percent lettuce. I do NOT recommend this place to anyone. The man at the reception was nice tho.
-      It looks like they were trying to cut down on food cost lol Taste was super BLANDDD. I could only taste LETTUCE
   - name: "Nicole Ng"
     rating: 4
     comment: |
@@ -28,16 +23,11 @@ reviews:
       The ordering process was also quite confusing—none of their cookies and bars were labeled with names or prices which made the unfriendly service even more frustrating.
       
       EDIT: Came back thrice now since my last review and I kept coming back for the Lavender Charcoal Latte, cream cheese cookie and their waffles. It's so good!! My son loves their Mango Mojito smoothie too! The owner is really nice and we had to give the place a chance and we are very happy. 🧡
-  - name: "Leona Y"
-    rating: 5
+  - name: "Nisha Singh"
+    rating: 1
     comment: |
-      I frequent KB&Co quite often and I think the owners (assuming they are the owners) are some of the nicest people to run this place. They’re always flexible on some of my specific requests.
-      All of the staff have been pretty friendly and great at making recommendations too.
-      
-      Absolutely love the atmosphere and space. I love coming here to work as it is always clean, bright and inviting. I never have to worry about it being messy here.
-      Obsessed with the smoothies and the cashew cream toast. I never realized eating plant based could be so tasty.
-      
-      Food ingredients are always fresh so I don’t mind the slightly higher price point. I know I’m getting high quality ingredients, great service and a great place to work.
+      Ordered  Coconut Thai and it was 95 percent lettuce. I do NOT recommend this place to anyone. The man at the reception was nice tho.
+      It looks like they were trying to cut down on food cost lol Taste was super BLANDDD. I could only taste LETTUCE
   - name: "Tatyana McNamara"
     rating: 3
     comment: |
@@ -50,6 +40,10 @@ reviews:
     rating: 5
     comment: |
       Love this place! The food here is super high-vibe and always makes me feel good after eating it. You have to try the cream cheese cookies—they’re next level, specifically at the Windermere location. I’m also obsessed with the Coco Bean and Mango Mojito smoothies. So fresh, so good!
+  - name: "Pranamika Dutta"
+    rating: 5
+    comment: |
+      Delicious, healthy, and vegan! The falafel was amazing, but the mango mojito was not as mango forward as I’d hoped. Still paired really well and I’d be back! Thank you
 hours:
   monday: "10:00 AM–7:00 PM"
   tuesday: "10:00 AM–7:00 PM"

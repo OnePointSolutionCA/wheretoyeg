@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Mill Woods"
 address: "#130 Millbourne Market Mall, Edmonton, AB T6K 3L6"
 rating: 4.7
-review_count: 196
+review_count: 197
 tier: "featured"
 phone: "(780) 462-9200"
 website: "http://www.millbournemalldental.com/"

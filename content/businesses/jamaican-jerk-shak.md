@@ -46,6 +46,10 @@ reviews:
       Great portion size, high quality, amazing taste, and a genuine homemade feeling—something that’s hard to find these days.
       
       Definitely one of my best food experiences. I’ll absolutely be coming back and highly recommend everyone to give it a try!
+  - name: "Israel"
+    rating: 5
+    comment: |
+      This is a great place one of the best Jamaican food i’ve tired, very authentic as well. All the meat is cooked perfectly and tender.  Service is absolutely amazing and I reckoned anyone to give it at try. Personally my favourite are the curry goat and oxtail.
   - name: "Jrbro8"
     rating: 5
     comment: |
@@ -54,8 +58,4 @@ reviews:
     rating: 5
     comment: |
       I decided to stop at Jamaican jerk shak in West Ed. The staff, I think owner actually was very friendly and sociable, the food was so delicious and the macaroni salad OMG! I definitely recommend this place if you’re looking for authentic Jamaican food.
-  - name: "Kirk Dewhurst"
-    rating: 5
-    comment: |
-      This little gem in the west food court in West Edmonton Mall is excellent. The jerk chicken 🍗 was amazing and delicious.  Definitely recommend coming here for authentic Jamaican food.  Loved the rice and peas. I definitely will come back here.
 ---

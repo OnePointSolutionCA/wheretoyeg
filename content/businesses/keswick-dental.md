@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Windermere"
 address: "1313 175 St SW, Edmonton, AB T6W 4H3"
 rating: 5
-review_count: 1026
+review_count: 1030
 tier: "featured"
 phone: "(780) 434-3441"
 website: "https://www.keswick-dental.ca/"
@@ -32,14 +32,14 @@ reviews:
     rating: 5
     comment: |
       The clinic was very clean and welcoming, and the staff was friendly. My son received treatment from Dr. Marvin Bramer, and we are very happy with the experience. He was able to find the right approach and make my son feel comfortable. At the beginning, my son was very nervous, but during the treatment he became calm and relaxed.
+  - name: "Jennifer Hallson"
+    rating: 5
+    comment: |
+      Recently moved here from an older clinic and very happy with my decision. All the staff are great, the offices are super nice, and they do things previous dentists haven't, like taking photos of my teeth and x-rays of the front teeth. Dr. Intas is fantastic! Have seen her for a check up and a filling and she's been great both times.
   - name: "Irene"
     rating: 5
     comment: |
       Dr. Luebbert is excellent! He was thorough, patient, and took the time to explain exactly what was going on with my teeth and lay out a solid plan going forward. Left the appointment actually feeling informed and confident about my dental health. I also had my teeth clean and had a painless experience.  Would definitely recommend Dr. Luebbert and his team.
-  - name: "Lisa-Marie Brennan"
-    rating: 5
-    comment: |
-      Keswick Dental has gone above and beyond for me every time I’ve been there. Whether for an emergency repair or extraction, or regular checkups, cleanings & fillings; it’s been a calm, efficient, and dedicated atmosphere. Very happy I found this office with such wonderful staff and patient care! Highly recommend!
 hours:
   monday: "8:00 AM–8:00 PM"
   tuesday: "8:00 AM–8:00 PM"

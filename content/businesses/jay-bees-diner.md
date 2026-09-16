@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "Castle Downs"
 address: "12707 140 Ave NW, Edmonton, AB T6V 1G5"
 rating: 4.3
-review_count: 1363
+review_count: 1367
 tier: "featured"
 phone: "(780) 456-1128"
 website: "https://jaybeesdiner.com/"
@@ -14,6 +14,12 @@ google_maps: "https://maps.google.com/?cid=346851667913572161&g_mp=Cidnb29nbGUub
 photos:
   - "/images/businesses/jay-bees-diner.jpg"
 reviews:
+  - name: "Froilan Fabella"
+    rating: 3
+    comment: |
+      The place looks very nice, clean and has that classy look of a diner. The food was just OK.
+      For example, the waffle was too dense. The chicken with waffle was not bad.
+      But as a diner, the waffle recipe needs to be fluffy… for sure.!!!!
   - name: "Rose"
     rating: 5
     comment: |
@@ -31,12 +37,6 @@ reviews:
     rating: 5
     comment: |
       The wife had liver & onions while I had the cowboy breakfast.  You better have a good appetite as this breakfast is big.  Ham, bacon & sausage is the difference.  Fresh cubed potatoe hash browns nicely seasoned with fresh eggs & brown toast.  My usual strawberry shake to drink was thick & I recommend Jay get some parfait spoons.  Our server Amanda was awesome.
-  - name: "Simon Muise"
-    rating: 1
-    comment: |
-      Very disappointing dining experience with family on March 15th, 2026.
-      Ordered steak, medium well.
-      Received order, waited additional 5 minutes until  server brought butter for baked potato and HP sauce. Tried the steak to discover it prepared blue rare. I expressed this to the server, whom told me it's well done. As you can see from the photo it is clearly blue rare. I refused to eat the meal and didn't want a replacement as I felt no confidence in the restaurant service. Ultimately we were forced to pay for a meal that I did not consume. Additional note: requested to go box, for daughters leftovers and received a glass of water lol. We have dined there numerous occasions and will not return.
 hours:
   monday: "8:00 AM–9:00 PM"
   tuesday: "8:00 AM–9:00 PM"

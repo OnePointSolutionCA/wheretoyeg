@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/istanbul-kebab-and-donair-1.jpg", "/photos/istanbul-kebab-and-donair-2.jpg", "/photos/istanbul-kebab-and-donair-3.jpg"]
 rating: 4.8
-review_count: 2311
+review_count: 2329
 price_range: "$$"
 amenities:
   - "Halal"
@@ -65,12 +65,6 @@ reviews:
       The restaurant had a steady lunch crowd, but it did not feel overly busy or chaotic. Service was impressively efficient, and everyone we interacted with was friendly and professional.
       
       Overall, we truly enjoyed our experience at Istanbul Kebab and Donair in Edmonton.
-  - name: "Gizem Polat"
-    rating: 5
-    comment: |
-      I'm new to Edmonton and I haven't been to many restaurants here but this restaurant is going to be a favourite for me. This was my second visit and it was great just like the first one. I brought my husband here and it was his first time and he really liked it too. I had lahmacun and he had adana kebab. The meat was tender and juicy and the lahmacun was very good too.
-      A special thank you to Ilayda for her outstanding hospitality. She made us feel genuinely welcome throughout our visit and even treated us to baklava and tea after our meal, which was such a thoughtful touch.
-      The restaurants cleanliness was over the top too!! We will definitely come back.
   - name: "Sumaya Sharif"
     rating: 5
     comment: |
@@ -85,4 +79,9 @@ reviews:
     rating: 5
     comment: |
       You have to come here when you are in Edmonton, we ordered Family Plate for 2, you’ll have an authentic Turkish experience. The food is fresh, bursting with flavour & delicious! Highly recommended!
+  - name: "shouq al zaid"
+    rating: 5
+    comment: |
+      I had such a great experience at this restaurant! I went there for breakfast and everything was amazing. The eggs were absolutely delicious, the bread was fresh and incredible, and they had such a wonderful variety of teas to choose from. Our waitress was also very kind and welcoming, which made the experience even better.
+      I enjoyed it so much that I went back again two days later for lunch, and once again everything was excellent. I truly enjoyed every visit and will definitely be coming back. Highly recommended!
 ---

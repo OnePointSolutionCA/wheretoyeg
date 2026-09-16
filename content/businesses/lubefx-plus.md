@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "12621 Fort Rd NW, Edmonton, AB T5C 3C1"
 rating: 4.2
-review_count: 1008
+review_count: 1009
 tier: "featured"
 phone: "(780) 457-7587"
 website: "https://lubefx.com/"
@@ -38,15 +38,14 @@ reviews:
       Karma will catch up with you.
       
       Have the day you deserve.
-  - name: "Cyril Ford"
-    rating: 1
-    comment: |
-      Used to be good. Now, they are scammy. Offering parts you don't need, damaging the vehicle components, and a huge upcharge on work.
-      Go to a decent oil place or a real mechanic for your vehicle needs, this place will squeeze you dry
   - name: "prateek endlay"
     rating: 5
     comment: |
       Always friendly, fast, and never pushy. Chris and his team consistently provide excellent service. I’ve been coming here for almost two years, and every visit has been a great experience. Highly recommend!
+  - name: "Sherrin Marie"
+    rating: 1
+    comment: |
+      Scammer alert!! Took my car in to get tires swapped and they tried to scam me of almost $1000. I called in initially to see what the quote would be to swap four tires. I was told a certain price and was charged a different price when I got there. They had looked at my brakes. They had said that my front rotors were shredded, and my pads were at 0% That he shouldn’t even be doing the job. They’re so bad and that if he wants to do them that day, it would be more of a favour because they don’t normally do brakes on Saturdays.. I then asked for a quote and was quoted almost $1000 After all these discounts that he was also favouring for me. I had a bad feeling that it wasn’t accurate being. I just did my brakes the year prior so I went and got a second look and my brakes were completely fine rotors completely fine. Everything he had said was just a big lie and a scam to get $1000 out of me. . Be weary when going to this outfit, they will try to overcharge you and give you false information on parts that don’t need to be fixed or changed and it will end up costing you way more out-of-pocket than what you originally planned for. It’s absolutely unacceptable. Business practice would never come back.. Five star reviews probably don’t have a clue what actually is happening.
 hours:
   monday: "9:00 AM–6:00 PM"
   tuesday: "9:00 AM–6:00 PM"

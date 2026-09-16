@@ -13,24 +13,32 @@ google_maps: "https://maps.google.com/?cid=1539390420950091513&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/lore-gym.jpg"
 reviews:
-  - name: "Michael Carpino"
+  - name: "Adam Kirby"
     rating: 5
     comment: |
-      This has been the best gym i have ever trained at here in the city. The equipment selection is top level with well known brand names. Always kept clean and organized. The owners are very passionate about the gym and it's members giving a very friendly and welcoming vibe when you walk in to meet them. Always there training and talking to every single member as if they are your neighbors. Membership pricing and no contact method makes paying for your membership fair and reasonable to understand. After your first workout, you be excited to come back the next day, and everyday after.
-  - name: "Alexandre Comtois"
+      I’ve been going to this gym since November. I love it! The equipment is top tier,  the facility is always spotless. You can tell that the members care about this place.  The owners are fantastic and are often there on the floor as well.
+  - name: "Ken Gibbs"
     rating: 5
     comment: |
-      Best gym around! All hand selected equipment, amazing vibe and super clean. 100% Recommended
-  - name: "Tones Hansen"
+      I have been to Fitness facilities all over the world and this Facility is by far  the best I’ve ever seen. Staff are absolutely fabulous. The equipment is of the highest caliber, facilities are super clean, and there is space for everybody.
+  - name: "Releve Fitness Inc"
     rating: 5
     comment: |
-      The absolute best in the city, no other gym compares to Lore. The atmosphere, the equipment, the people, you won’t find a gym like this anywhere else. If you’re brand new to the gym or been training for years, this is where you’ll want to be. Obsessed honestly lol
-  - name: "Roop Ghatoure"
+      Unbelievable space. Carefully selected equipment, tailored to all fitness levels and immaculate vibes. Easily the best gym in YEG! If you live south side or don’t mind the drive, this is the place to be.
+  - name: "Jordyn Miller"
     rating: 5
     comment: |
-      Amazing locally owned gym with a strong sense of community. You can really feel the difference compared to big chain gyms—everyone is welcoming, and the environment is supportive and motivating. Proud to support a local business like this.
-  - name: "Hunter G"
+      Wow!!! We are proud members of their Beaumont location. Can't wait to come here, this place is insane.
+  - name: "Preston Ng"
     rating: 5
     comment: |
-      Best community, and best quality gym there is!! Would recommend to anyone new or experienced in the fitness space
+      This gym features a unique selection of equipment and an impressive, albeit unfinished, posing room. It currently offers natural lighting for a realistic look, with plans to add professional stage lighting soon. The cardio machines, particularly the stair climbers, are high-quality, and the facility includes a wonderful sauna and a well-equipped classroom. I love the modern style of the bathrooms. If you are looking for a place to lift at any time of day, this is the gym for you; the staff is welcoming, and they even offer a discounted supplement bar. I can def see pull day here being crazy 😜
+hours:
+  monday: "4:00 PM–6:00 PM"
+  tuesday: "4:00 PM–6:00 PM"
+  wednesday: "4:00 PM–6:00 PM"
+  thursday: "4:00 PM–6:00 PM"
+  friday: "4:00 PM–6:00 PM"
+  saturday: "12:00 PM–5:00 PM"
+  sunday: "Closed"
 ---

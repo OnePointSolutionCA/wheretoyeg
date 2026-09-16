@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–10:00 PM"
 photos: ["/photos/lotus-house-of-kebab-grocery-1.jpg", "/photos/lotus-house-of-kebab-grocery-2.jpg", "/photos/lotus-house-of-kebab-grocery-3.jpg"]
 rating: 4.7
-review_count: 508
+review_count: 510
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -45,12 +45,14 @@ reviews:
       Delicious, shareable food platters for a family. Came recommended from my Persian colleague and we will be back!
       
       I think their Saffron Pistachio ice cream has ruined all other flavours. I’m not surprised in the slightest that it’s won awards.
+  - name: "Reza Ashouri"
+    rating: 5
+    comment: |
+      This is a fantastic place for your family; yummy and savoury kebab and stews in a pleasant environment; friendly staff and managers; and fresh food. I had lunch - Koobideh and Soltani - at Lotus along with my family August 3 and came back the day after - which is today - August 4 - for their stew platter and Koobideh. Tried their ice cream dessert, as well!
+      
+      I highly recommend this clean and great place to everyone!
   - name: "Melina Tehrani"
     rating: 5
     comment: |
       We had a wonderful experience! The food was fresh, flavorful, and beautifully presented. The saffron drink was especially delicious. The staff were welcoming, attentive, and made us feel right at home. The restaurant had a warm atmosphere, and everything was clean and well organized. I would definitely recommend this place to anyone looking for great food and excellent service. Looking forward to coming back!
-  - name: "Layla A"
-    rating: 5
-    comment: |
-      The Fesenjan is an absolute must for me every time, and I’ll usually get with it the Koobideh or Chicken thighs depending on the mood. I like the Ghormeh Sabzi and Shirazi salad too. Would recommend the lotus family platter with the lotus stew platter if you’re dining with a group of people so you can get to try a variety of some of their best dishes. Customer service is always amazing, the staff are so nice, friendly, and welcoming. Always look forward to coming here.
 ---

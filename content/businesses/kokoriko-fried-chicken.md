@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–7:30 PM"
 photos: ["/photos/kokoriko-fried-chicken-1.jpg", "/photos/kokoriko-fried-chicken-2.jpg", "/photos/kokoriko-fried-chicken-3.jpg"]
 rating: 5
-review_count: 24
+review_count: 25
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -49,8 +49,8 @@ reviews:
     rating: 5
     comment: |
       The fried chicken was absolutely delicious, with a perfectly crispy coating and juicy, flavorful meat inside. Each bite offered a wonderful balance of savory spices that left me wanting more. It's clear that a lot of care goes into preparing this meal. I thoroughly enjoyed every aspect of this dining experience. I highly recommend it to anyone seeking a truly satisfying fried chicken meal.
-  - name: "Michael Dar"
+  - name: "Melania Hamori"
     rating: 5
     comment: |
-      I had the Solo combo which included 3 pieces of chicken, fries and a drink. Overall, one of the best tasting chicken I had. I will definitely come back for lunch!
+      I just ordered from kokoriko for the first time because I wanted to try tteobokki, and god did they deliver!🤩 delicious food, service is amazing, fast, and they gave me a pepsi because I was their first customer for the day🥰 i found a new favourite spot, and I will most definitely try their other foods! 🩷 whoever did this is truly the sweetest person ever and you earned yourself a customer
 ---

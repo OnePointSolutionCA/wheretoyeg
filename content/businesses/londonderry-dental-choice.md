@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "7210 144 Ave NW #201, Edmonton, AB T5C 2R4"
 rating: 4.8
-review_count: 488
+review_count: 489
 tier: "featured"
 phone: "(587) 404-2401"
 website: "https://www.londonderrydentalchoice.ca/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Website_URL"
@@ -20,6 +20,10 @@ reviews:
       It was my first time here, and I had a great experience! The service was excellent and very affordable. The receptionist was warm, welcoming, and friendly, which made me feel comfortable right away.
       
       The hygienist who cleaned my teeth was very professional and had a gentle touch—you barely feel a thing. Highly recommend!
+  - name: "Dom"
+    rating: 2
+    comment: |
+      (FIRST VISIT) Amazing crew here! Would highly recommend! Very polite, professional, kind, and courteous. Gentle,  made me feel extremely comfortable, and I was able to fully relax when I am normally badly anxious in a dentist’s office.(UPDATE) Aprox 2 Weeks later! My mouth has been extremely painful since my visits here. I have NEVER been hot cold sensitive it is unbearable now!!!! Not to mention a chunk of my tooth fell off!!! Not sure if my fillings were done correctly. They seem too thin so now everything hurts to chew or bite. My bite is off my mouth has been off. I am so discouraged and upset, which is why I don’t know if I’ll be back. Might go elsewhere!
   - name: "V"
     rating: 1
     comment: |
@@ -32,12 +36,6 @@ reviews:
     rating: 5
     comment: |
       Really good experience! The staff was super nice and made me feel comfortable. I was nervous at first but they explained everything and made it easy. Definitely recommend.
-  - name: "Jesse Frazer"
-    rating: 5
-    comment: |
-      I had to get a wisdom tooth removed. Dr.Sue and her team are fantastic!
-      As someone who’s not a fan of the dentist, they were all very patient, informative, professional and very kind and caring.
-      My new go to location for all my dental work as a new resident in the area.
 hours:
   monday: "8:00 AM–4:00 PM"
   tuesday: "8:00 AM–4:00 PM"

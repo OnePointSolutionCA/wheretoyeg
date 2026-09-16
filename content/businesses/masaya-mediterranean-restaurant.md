@@ -19,8 +19,8 @@ hours:
   saturday: "11:00 AM–11:30 PM"
   sunday: "11:00 AM–11:30 PM"
 photos: ["/photos/masaya-mediterranean-restaurant-1.jpg", "/photos/masaya-mediterranean-restaurant-2.jpg", "/photos/masaya-mediterranean-restaurant-3.jpg"]
-rating: 4.5
-review_count: 115
+rating: 4.6
+review_count: 121
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -48,8 +48,8 @@ reviews:
     rating: 5
     comment: |
       My husband and I have just returned home from having dinner at Masaya.  We've been waiting for this restaurant to open for a while and we were not disappointed.  The atmosphere is elegant yet comfortable - I love the decor.  The staff is extremely polite and friendly and service was excellent.  Since this is still a soft opening the menu choices are somewhat limited but the food is absolutely fabulous.  We were given appetizers consisting of the best hummus I have ever eaten (and my husband and I eat out a lot) along with fresh olives and carrot slices.  Wonderful.  We both had the chicken kabobs, mine with rice which was delicious and my husband had fries with his.  Each meal consisted of two kabobs and the chicken was tender and very flavorful.  Highly recommended.  The meal was served with a marinated salad containing tomatoes, cucumber and onions and the most delicious garlic sauce.  For lovers of Mediterranean cuisine Masaya is an absolute must.
-  - name: "Abbas Abbas"
+  - name: "Sophia Michaud"
     rating: 5
     comment: |
-      Masaya is a fantastic place to eat. The food is fresh, made to order, and served in generous portions. The service is friendly and attentive, and the atmosphere is warm, welcoming, and incredibly relaxing. Whether you’re stopping by for a quick meal or taking your time to enjoy the experience, this place never disappoints. Highly recommended.
+      Came for my friend’s birthday. Have never had Arabic food before and wasn’t sure what to expect. I went with the whole chicken and garlic sauce rather than hummus. They brought rice out for the table for us to all share! The chicken was cooked to perfection and had so much flavour! The pickles they served on the side were absolutely delicious! The atmosphere was awesome and it is so gorgeous inside! Definitely impressed! The food was phenomenal for everyone! Our server Mona was very sweet!
 ---

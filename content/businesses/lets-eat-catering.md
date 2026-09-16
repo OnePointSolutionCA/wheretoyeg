@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/lets-eat-catering-1.jpg", "/photos/lets-eat-catering-2.jpg", "/photos/lets-eat-catering-3.jpg"]
 rating: 5
-review_count: 36
+review_count: 37
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,10 @@ tags: ["edmonton", "corporate-catering"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Lena Petal"
+    rating: 5
+    comment: |
+      We used Let’s eat catering for our wedding this August. The food was amazing, steak was cooked perfectly, salads had great flavours and the cabbage rolls were divine. Communication before the event was great and fast, service and clean up the day of our wedding was seamless. All staff very friendly and provided great customer service. We would recommend let’s eat to everyone!
   - name: "David W."
     rating: 5
     comment: |
@@ -86,14 +90,4 @@ reviews:
       I cannot wait for our extra wedding photos to send to you!
       All the best, Justine Orkusz with
       JRO Artistry
-  - name: "Sara Prentice"
-    rating: 5
-    comment: |
-      Our catering experience for our wedding was phenomenal. The food was absolutely incredible and everything ran smoothly and on time. We have heard nothing but amazing things from our guests and received so many compliments on the food throughout the night and afterward.
-      
-      Susie is an absolute gem, and her sister Patty is just as wonderful and caring. They are warm, kind, and incredibly personable. At one point, Susie was holding my friend’s baby so she could eat, which says everything about the kind of people they are. Susie was readily available before the wedding to answer questions, talk through logistics, and calmly ease my anxieties, which meant more than she probably knows.
-      
-      They worked seamlessly with our MC, helping coordinate timing and calling tables so dinner flowed perfectly.
-      
-      They don’t feel like “just vendors.” They feel like old family friends who genuinely care that your day goes well. Amazing food, amazing service, and even better people. I would recommend them without hesitation.
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "7:30 AM–7:00 PM"
 photos: ["/photos/lock-surgeon-1.jpg", "/photos/lock-surgeon-2.jpg", "/photos/lock-surgeon-3.jpg"]
 rating: 4.2
-review_count: 1268
+review_count: 1272
 price_range: "$$"
 amenities:
 
@@ -38,14 +38,14 @@ reviews:
     rating: 5
     comment: |
       JJ did an excellent and thorough job servicing our 20 year garage door. I received a quick course on the anatomy, physics and history of a garage door as he took the time to explain all the parts that needed replacing and why. He went above and beyond in his detailed work and I would strongly recommend him to anyone. Lock Surgeon was very efficient setting up and communicating their arrival times and I didn’t experience any issues at all. I’m very happy my garage door works like new now. Thank you.
+  - name: "Cathy Janes"
+    rating: 5
+    comment: |
+      On Aug. 27, 2026 J.J. Boisclair from Door Surgeon, came to our residence and gave us a quote to do repairs to our garage door. He was very professional, answered all our questions and booked us in to do the repairs. On Sept. 2, 2026 JJ and his trainee came to do the repairs.They did the work as per the quote and walked us through the invoice. I would definetly recommend them for any garage door repairs.
   - name: "Cathy Monkman"
     rating: 5
     comment: |
       Tyler C was helpful and informative.  He was friendly and got the job done perfectly and in a timely fashion.  We have used lock Surgeon 17812 118 Ave before and they will remain our first call if needed in the future.
-  - name: "Dave Guernsey"
-    rating: 5
-    comment: |
-      A great experience with the Door Surgeon division.  Needed a repair for a large double sliding door and they came through.  Both Mackenzie and Paul were professional and did a fantastic job.  Would definitely recommend this company.
   - name: "Luigi DeLuca"
     rating: 5
     comment: |

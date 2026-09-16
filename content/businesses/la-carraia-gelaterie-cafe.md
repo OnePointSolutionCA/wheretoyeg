@@ -46,8 +46,8 @@ reviews:
     rating: 5
     comment: |
       My group and I visited an hour before closing and the staff were super sweet, friendly, and patient. We all tried different flavours and enjoyed everything. My favourite was the orange chocolate! The gelato was so creamy and all flavours were well balanced. Will definitely be back to try more flavours!
-  - name: "Patrick Tsang"
-    rating: 5
+  - name: "Jabroni drive (Jabronidrive)"
+    rating: 4
     comment: |
-      La Carraia in downtown Edmonton is a gelato delight! They have an incredibly diverse array of flavours available and I have never had a bad experience here. The friendly staff and cozy vibe enhance the experience, all at an affordable price. Their pistachio flavour is one of my favourites. It's my top choice for fantastic gelato in downtown Edmonton! 🍨🌟
+      Stopped here after dinner at Fumaca. Ordered the Torone Gelatto in a cup. Also got a Lavender Latte for the Mrs. The Gelatto was awesome. Wife didn't really care for the Latte.
 ---

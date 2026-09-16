@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "St. Albert"
 address: "11 Bellerose Dr Unit 9, St. Albert, AB T8N 5C9"
 rating: 4.7
-review_count: 474
+review_count: 481
 tier: "featured"
 phone: "(780) 569-5562"
 website: "https://order.toasttab.com/online/mariachi-love"
@@ -13,10 +13,6 @@ google_maps: "https://maps.google.com/?cid=8924667143847751308&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/mariachi-love.jpg"
 reviews:
-  - name: "sam akplu"
-    rating: 5
-    comment: |
-      I went to Marachi love with my wife on Valentine’s Day, and it was quite the experience. The atmosphere the service and especially the food were top-notch. We ordered the potato spirals as an appetizer, I ordered the beef asago taco and sizzling Chicken fajitas. My wife ordered the sizzling beef fajitas. And And we topped it off with a deer each my wife had the sizzling brownies, And I had the churro. Good quality food, but the price was Very good. The only thing that they didn’t have was high balls ,margaritas And sangrias. Once this place gets those things, I don’t believe we will be seeing this place at that location. I think that place will build its own. I highly recommend this place
   - name: "Valerie Bielenda (Valerie B)"
     rating: 3
     comment: |
@@ -40,6 +36,10 @@ reviews:
     rating: 5
     comment: |
       Flavours that can’t be beat. Love that the have base price for vegetarian then you add your protein cost. The Pineapple hot sauce was hands down my favourite!! We had the Elote, Nachos, Smothered burrito and Chimichanga. All of it was amazing! Churros and flan were okay but the start of the show was the main courses and appetizers.
+  - name: "sam akplu"
+    rating: 5
+    comment: |
+      I went to Marachi love with my wife on Valentine’s Day, and it was quite the experience. The atmosphere the service and especially the food were top-notch. We ordered the potato spirals as an appetizer, I ordered the beef asago taco and sizzling Chicken fajitas. My wife ordered the sizzling beef fajitas. And And we topped it off with a deer each my wife had the sizzling brownies, And I had the churro. Good quality food, but the price was Very good. The only thing that they didn’t have was high balls ,margaritas And sangrias. Once this place gets those things, I don’t believe we will be seeing this place at that location. I think that place will build its own. I highly recommend this place
 hours:
   monday: "11:00 AM–9:00 PM"
   tuesday: "Closed"

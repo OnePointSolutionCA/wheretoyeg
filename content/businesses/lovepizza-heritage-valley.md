@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Windermere"
 address: "2812 James Mowatt Trail SW, Edmonton, AB T6W 1A8"
 rating: 4.3
-review_count: 235
+review_count: 239
 tier: "featured"
 phone: "(780) 433-0606"
 website: "https://www.lovepizza.ca/edmonton-heritage-valley"
@@ -22,6 +22,10 @@ reviews:
       But at Love Pizza, it’s different. Everything here is perfect—the presentation, the taste, and the atmosphere.
       My family and I had lunch there. We really enjoyed it, so we even took some pizza home 🥰
       I highly recommend it—the pizza here is incredibly delicious, and the owner is very friendly.
+  - name: "Kelley Brent"
+    rating: 5
+    comment: |
+      Awesome service with our specialty pizza and it was perfect! Friendly with a smile and enthusiastic about our crazy order. Would definitely go again! The crust is amazing! 🤤
   - name: "Landon Ribar"
     rating: 5
     comment: |
@@ -36,10 +40,6 @@ reviews:
       I am a loyal customer of Love Pizza. This time I wanted to make a difference and try their Heritage Valley location. Honestly it was an extremely pleasing and comfortable experience. The workers’ attention was amazing, they asked two times if we needed anything and if we have any recommendations for them. It was very refreshing to hear from a shop that they are willing to hear their customer’s suggestions, nowadays it’s rare to see this kind of attention in this generation, and I am saying this as a 67 year-old man who came here with my grandchildren. Kudos to them!!! 👏👏👏
       
       Normally I buy their classic Sausage Basil Honey however in my recent visit I tried their Big Love Greek Goddess. The pizza doesn’t leave you with the need to chug a whole bottle of water, it doesn’t have that unhealthy salty aftertaste like you always have from other pizza shops. Overall their pizza tasted and looked wonderful, their eating area was clean and you can play Jenga while waiting, their staff is also very friendly. I highly suggest this place to anyone who visits this area!
-  - name: "Shevchenko D"
-    rating: 5
-    comment: |
-      Very nice and quite place. Pizza here is not greasy, I felt alright after eating the whole big pizza, without a feeling of a dying stomach. Restaurant is clean and well maintained. Nice music playlist(no rap or Indian music). They have jenga on the table, and gave us ice cream when one of us won. After all, I can say that this place is better than 90% of pizza restaurants I have been to. Humble workers is another big plus
 hours:
   monday: "10:00 AM–11:00 PM"
   tuesday: "10:00 AM–11:00 PM"

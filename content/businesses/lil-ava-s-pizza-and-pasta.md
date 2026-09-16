@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Spruce Grove"
 address: "183 Hwy 16A #106, Spruce Grove, AB T7X 4P9"
 rating: 4.5
-review_count: 70
+review_count: 74
 tier: "featured"
 phone: "(587) 461-3971"
 website: "https://www.lilavas.ca/"

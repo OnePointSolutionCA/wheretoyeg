@@ -5,7 +5,7 @@ category: "photographers"
 neighborhood: "Edmonton"
 address: "20610 19A Ave NW, Edmonton, AB T6M 3E1"
 rating: 5
-review_count: 207
+review_count: 208
 tier: "featured"
 website: "http://www.leeannerosephotography.com/"
 google_maps: "https://maps.google.com/?cid=10708508399255734890&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

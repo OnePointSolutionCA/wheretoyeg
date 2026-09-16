@@ -20,7 +20,7 @@ hours:
   sunday: "4:00 PM–9:00 PM"
 photos: ["/photos/koutouki-1.jpg", "/photos/koutouki-2.jpg", "/photos/koutouki-3.jpg"]
 rating: 4.5
-review_count: 771
+review_count: 773
 price_range: "$$"
 amenities:
   - "Dine-In"

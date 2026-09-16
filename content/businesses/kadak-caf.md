@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Beaumont"
 address: "6818 Ellerslie Rd SW, Edmonton, AB T6X 1A3"
 rating: 4.6
-review_count: 1200
+review_count: 1210
 tier: "featured"
 phone: "(780) 756-6681"
 website: "https://www.kadakcafe.ca/"
@@ -39,6 +39,10 @@ reviews:
       The papri chaat was amazing and so was the veggie cheese Sandwich. Fresh ingredients, tasty and just the right balance of spice.
       The ambiance of this place, the friendly staff and the food and drinks made it a memorable experience.
       Can't wait to visit again, and bring friends and family as well. 5/5 all the way👌
+  - name: "Kirti Sharma"
+    rating: 5
+    comment: |
+      Had a great experience at Kadak Cafe! The food and chai were delicious, but what really stood out was the service. Simran was amazing—so friendly, polite, attentive, and welcoming. She made sure everything was perfect and made our visit even more enjoyable. Excellent customer service! Would definitely come back again. Highly recommend! ❤️
   - name: "Legorena “Owey”"
     rating: 5
     comment: |
@@ -48,12 +52,6 @@ reviews:
       Overall, great vibes, great food, and great service. I’ll definitely be coming back!
       
       oh before i forget, The only thing I’d suggest is turning down the ambience music inside. The ambiance can get quite loud, and lowering it a bit would make the place more relaxing and perfect for conversations.
-  - name: "Rimsha Mehak"
-    rating: 5
-    comment: |
-      ⭐⭐⭐⭐⭐ Masala Tea
-      
-      I recently tried the masala tea from Kadak Cafe, and it was absolutely delightful! The tea had a rich, authentic flavor with the perfect blend of spices. It was warm, comforting, and brewed just right—not too strong and not too mild. The aroma of cardamom, ginger, and traditional masala made every sip enjoyable. It tasted fresh, homemade, and was the perfect pick-me-up on a chilly day. Highly recommended for anyone who loves a classic cup of flavorful chai! ☕✨
 hours:
   monday: "8:00 AM–12:00 AM"
   tuesday: "8:00 AM–12:00 AM"

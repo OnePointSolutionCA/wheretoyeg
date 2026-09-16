@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/jerusalem-shawarma-downtown-1.jpg", "/photos/jerusalem-shawarma-downtown-2.jpg", "/photos/jerusalem-shawarma-downtown-3.jpg"]
 rating: 4.9
-review_count: 5576
+review_count: 5597
 price_range: "$$"
 amenities:
   - "Halal"
@@ -36,15 +36,6 @@ reviews:
     comment: |
       Obviously one of our favourite Mediterranean restaurants. The service is top notch and always feels warm and welcoming. We really appreciate the little touches like the complimentary tea the refreshing ginger mint shot
       and the baklava at the end. It makes the whole experience feel thoughtful and complete. The staff are attentive without being overwhelming and everything runs smoothly. Overall, it’s a place we genuinely enjoy coming back to for both the food and the hospitality.
-  - name: "Yahaira Delgado"
-    rating: 5
-    comment: |
-      I love the food, the service, the music.
-      All is worth it, even coming while raining or snow, just I miss they to have the delicios dessert that is like a cheesecake covered in chocolate and pistachio 🥲 bring it back.
-      
-      The detail of giving tea and mint lime tea is always on point!
-      
-      Thank you all for your hard work and the love you put in food 🫶!
   - name: "Nguyn Anh"
     rating: 5
     comment: |
@@ -63,4 +54,8 @@ reviews:
       The food, desserts, and service have always been great. The restaurant is usually quite busy, which speaks to its popularity, though it can get a little loud during peak hours. 😊
       
       Overall, a fantastic spot for a satisfying meal and some truly irresistible desserts!
+  - name: "Brian Ho"
+    rating: 5
+    comment: |
+      This was our first time at the downtown location (by MacEwan University and the Ice District)that has been open for a year now.  You can expect the same quality food, generous portions and menu choices you'd find at the other locations. You can also expect the sane attention to service with complimentary samples of tea and baklava.  We consider this a phenomenal option for a healthy meal at a reasonable price. If you like lamb... try their lamb chops which are absolutely amazing!
 ---

@@ -18,7 +18,7 @@ hours:
   sunday: "8:00 AM–12:00 AM"
 photos: ["/photos/kahwa-raw-cafe-1.jpg", "/photos/kahwa-raw-cafe-2.jpg", "/photos/kahwa-raw-cafe-3.jpg"]
 rating: 4.7
-review_count: 511
+review_count: 516
 price_range: "$$"
 amenities:
   - "Halal"

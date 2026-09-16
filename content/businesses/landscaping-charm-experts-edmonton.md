@@ -19,8 +19,8 @@ hours:
   saturday: "7:00 AM–7:00 PM"
   sunday: "7:00 AM–7:00 PM"
 photos: ["/photos/landscaping-charm-experts-edmonton-1.jpg", "/photos/landscaping-charm-experts-edmonton-2.jpg", "/photos/landscaping-charm-experts-edmonton-3.jpg"]
-rating: 4.8
-review_count: 65
+rating: 4.9
+review_count: 67
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,10 @@ tags: ["edmonton", "landscaping"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Katherine Cornish"
+    rating: 5
+    comment: |
+      Man, that blizzard last night left us totally stranded until Tanner showed up with the snow plow. He cleared out the entire driveway in record time and didn't even scrape my parked car. The pile he made at the end of the driveway is huge but he kept it out of the street perfectly. He even came back around to make sure the mailbox area was fully dug out so the mailman would not complain. Tanner is literally a lifesaver during these brutal winter dumps. I am definitely recommending Landscaping Charm Experts Edmonton to all my neighbors on this block. Seriously the best winter service around.
   - name: "Ethel Nelson"
     rating: 5
     comment: |
@@ -44,8 +48,4 @@ reviews:
     rating: 5
     comment: |
       I was looking to get a quote done for a backyard patio, and both Trudy and Tanner were fantastic to talk to, extremely friendly and professional, and really willing to work with our budget and find a solution that fits what we are looking for. My husband and I decided that next spring is the best option for us based on the scope of the work that needs done, but purely on the amazing transparency and honest communication and follow ups,  I will absolutely not hesitate to hire their team for our project. Very excited to move forward with them and have a backyard we enjoy!
-  - name: "Julie Pawlusiak"
-    rating: 5
-    comment: |
-      We contacted Tanner to do some yard clean up and tree pruning; his crew was on time, worked well, and were very knowledgeable. Will likely use again for more of our yard maintenance needs!
 ---

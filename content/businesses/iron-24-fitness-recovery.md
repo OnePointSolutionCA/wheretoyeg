@@ -50,14 +50,18 @@ reviews:
     rating: 4
     comment: |
       Don’t get me wrong it’s not a massive brand name gym but for its size and location the equipment selection is pretty decent. Came through for me in a pinch when my normal gym was closed. Good spot to drop in when needed. Owners super nice.
+  - name: "Sofia “QueenMvv” Vielhauer"
+    rating: 5
+    comment: |
+      Went to the gym with my 15 year old daughter today after midnight. The passcode didnt work the day before but atlast we never had a problem getting in today.
+      
+      Equipments are all clean and the ambiance is great!
+      
+      Overall, my 15 year old and I enjoyed the gym! We will keep on coming back for sure while we are in town!
+      
+      We are from the North passing by Edmonton heading to Banff.
   - name: "Jamie Crawford"
     rating: 5
     comment: |
       This is my favourite gym. The equipment is new and there is lots of weights. It’s never busy when I’m there. Great parking and generally a helpful attitude of everyone I see working out. There is no staff on site but the owner is quick to answer questions or solve issues. Safe, friendly, clean and 24 hours.
-  - name: "Ram Rowsell"
-    rating: 5
-    comment: |
-      This is a great gym, all the machines, all the weights, a fitness area for HIIT stretching etc!
-      Red light saunas to help in recovery!
-      24HR access 365 days a year!
 ---

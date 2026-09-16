@@ -23,13 +23,6 @@ reviews:
     rating: 5
     comment: |
       First time here and had a good experience. Had Walo as a barber and the guy was nice, professional and gave me good tips on how to style my hair. He showed me how my hair naturally parts when I’ve been doing it wrong for years. The place has a cool vibe to it. Definitely would recommend for people who’ve had trouble finding a good barber like myself
-  - name: "Jaston Cromwell"
-    rating: 5
-    comment: |
-      Kingdom Cut Club is easily one of the best barbershops around.
-      From the moment you walk in, you can feel how well put together the place is — clean, organized, and very hygienic. The barbers are great people to talk to, super friendly, and they clearly take pride in their work. The atmosphere is chill yet professional, and the results speak for themselves.
-      
-      Every cut feels fresh, sharp, and done with care. If you’re looking for quality, good conversation, and a place that genuinely values its clients, Kingdom Cut Club is the spot. They’ve earned all 5 stars — and then some. 💯💈
   - name: "Karanbeer Dhanoa"
     rating: 5
     comment: |
@@ -38,6 +31,10 @@ reviews:
     rating: 5
     comment: |
       Best barber in Edmonton without a doubt. Walo really knows what he’s doing and isn’t just giving you an average haircut. If he’s not your barber already you’re definitely missing out.
+  - name: "Dave Capstick"
+    rating: 5
+    comment: |
+      Hands down the best Barbers in Alberta, From Mens Facial to the sickest Fades and beards I've ever seen, Ab  Waldo and Mo have you covered  100 percent reccommemd to anyone who wants the best in in town and out. Thanks Boys
 hours:
   monday: "11:00 AM–8:00 PM"
   tuesday: "11:00 AM–8:00 PM"

@@ -20,7 +20,7 @@ hours:
   sunday: "9:30 AM–11:00 PM"
 photos: ["/photos/massawa-cafe-1.jpg", "/photos/massawa-cafe-2.jpg", "/photos/massawa-cafe-3.jpg"]
 rating: 4.5
-review_count: 85
+review_count: 86
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -38,18 +38,16 @@ reviews:
     rating: 5
     comment: |
       Amazingly tender and tasty grilled chicken, the potatoes and the sweet potatoes were perfectly roasted just right. The rice (and I am not always a fan of rice) was flavourful and accented with roasted chick peas, hummus and a tasty sauce that I haven't had before but it went nicely with the rice.  This chef could make me a fan of rice! Great service and good people working there. Portion size was more than adequate and I will return to work down the menu 😋
+  - name: "Alawi Nur"
+    rating: 1
+    comment: |
+      Review
+      
+      I came to Massawa Cafe today with my sister. We felt uncomfortable because of the way some people looked at us when we walked in. I also don’t like that alcohol is sold in the restaurant. I love the food and wanted to support a restaurant from my country, but unfortunately I won’t be coming back.
   - name: "Andy L"
     rating: 4
     comment: |
       I stopped by Massawa Cafe in Edmonton recently as I wanted some Ethiopian food. The restaurant had an interesting decor. In terms of food, I tried their Tibsi Red (keyh). The beef was tender with a nice flavour but not really spicy, and the highlight was definitely the injera. There was quite a bit of food as well so I’d give it 8/10
-  - name: "Emmanuel Mabe"
-    rating: 5
-    comment: |
-      The atmosphere here is warm and cozy. You can sit on the sofa or the chairs. It is very clean and they manage to control their interaction with unruly customers.
-      
-      The food is very tasty. I ordered Shiro, a vegetarian dish served with injera. It came with a good helping of fresh and green lettuce.
-      
-      The service was great. They show a lot of respect and tolerance when dealing with their customers.
   - name: "Mowgli"
     rating: 5
     comment: |

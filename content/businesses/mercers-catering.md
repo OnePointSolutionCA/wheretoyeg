@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/mercers-catering-1.jpg", "/photos/mercers-catering-2.jpg", "/photos/mercers-catering-3.jpg"]
 rating: 4.5
-review_count: 88
+review_count: 89
 price_range: "$$"
 amenities:
   - "Dine-In"

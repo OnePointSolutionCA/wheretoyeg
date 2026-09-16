@@ -19,7 +19,7 @@ hours:
   sunday: "10:00 AM–1:00 PM"
 photos: ["/photos/med-supplies-edmonton-1.jpg", "/photos/med-supplies-edmonton-2.jpg", "/photos/med-supplies-edmonton-3.jpg"]
 rating: 4.8
-review_count: 233
+review_count: 242
 price_range: "$$"
 amenities:
   - "In-Store Shopping"

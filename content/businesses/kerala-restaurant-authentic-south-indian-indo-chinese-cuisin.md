@@ -16,11 +16,11 @@ hours:
   wednesday: "Closed"
   thursday: "11:30 AM–9:00 PM"
   friday: "11:30 AM–10:00 PM"
-  saturday: "Closed"
+  saturday: "11:30 AM–10:00 PM"
   sunday: "11:30 AM–9:00 PM"
 photos: ["/photos/kerala-restaurant-authentic-south-indian-indo-chinese-cuisin-1.jpg", "/photos/kerala-restaurant-authentic-south-indian-indo-chinese-cuisin-2.jpg", "/photos/kerala-restaurant-authentic-south-indian-indo-chinese-cuisin-3.jpg"]
 rating: 4.8
-review_count: 86
+review_count: 90
 price_range: "$$"
 amenities:
   - "Halal"
@@ -33,6 +33,14 @@ tags: ["edmonton", "biryani", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Arya Madhu"
+    rating: 5
+    comment: |
+      Such a wonderful dining experience! The beef fry and porotta combination was amazing, and the appam was cooked to perfection. We finished it off with a rich, delicious Sharjah shake. Fantastic food and great service!
+  - name: "ji M"
+    rating: 5
+    comment: |
+      Me and my colleagues went there today. I tried the dosa at Kerala Restaurant, and it was so good! It was crispy on the outside, soft on the inside, and served fresh and hot. The meal was filling and satisfying and the service was friendly and welcoming.
   - name: "Avannya Jolly"
     rating: 5
     comment: |
@@ -45,12 +53,4 @@ reviews:
     rating: 5
     comment: |
       Delicious and authentic Kerala food, excellent service, and a clean, welcoming atmosphere. A perfect place to visit and your cravings will surely leave satisfied. Highly recommended!
-  - name: "Jithin Mohan"
-    rating: 5
-    comment: |
-      I absolutely loved the food here! 😋 Everything was so flavorful and cooked to perfection. The service was fantastic, and the atmosphere was cozy and inviting. Definitely a must-visit! ✨💯
-  - name: "shajan joys"
-    rating: 5
-    comment: |
-      Great atmosphere. Absolutely welcoming customer service. And the best food to leave a mark for your taste buds. You wouldn’t regret coming here.
 ---

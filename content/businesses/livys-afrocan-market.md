@@ -31,6 +31,10 @@ reviews:
     rating: 5
     comment: |
       Wonderful people serving most African delicious products, vary hard to find good African shops in edmonton however this store has a lot.. strongly recommend.
+  - name: "Ella Corry"
+    rating: 5
+    comment: |
+      very helpful and nice staff
   - name: "Wilhelmina Asihene"
     rating: 5
     comment: |
@@ -39,8 +43,4 @@ reviews:
     rating: 4
     comment: |
       Had lots of the things I was looking for and the price is affordable
-  - name: "Ella Corry"
-    rating: 5
-    comment: |
-      very helpful and nice staff
 ---

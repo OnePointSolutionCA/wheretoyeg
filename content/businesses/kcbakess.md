@@ -38,6 +38,11 @@ reviews:
     rating: 5
     comment: |
       I have been buying cakes from this place since I had my first child who is now 4. I have never been disappointed, I get exactly what I ask for each time and its so beautiful! Not only are the cakes beautiful but it tastes really good too! Moist and not too sweet! I look forward to always celebrating my kids birthdays with KC Bakes 🥰
+  - name: "Maria Christina Santa Teresa"
+    rating: 5
+    comment: |
+      OMG, this bakery is an absolute gem! Every pastry we tried was really good. The ube cheesecake was rich and delicious. I love the texture and sweetness of the Dubai chewy and the red velvet cake was very moist and flavorful. My children loved the siopao and the pistachio supreme croissant. And of course we really loved the Ube coconut latte, the iced Spanish latte, black iced tea lemonade, brown sugar milk foam. The friendly service, the beautiful presentation, the quality and flavor of every pastry we tried were exceptional. You can tell that a lot of care and love goes into every item they made. Looking forward to our next visit.
+      Highly recommend KC Bakess to anyone looking for extra delicious treats. Five stars all the way!!!
   - name: "Mahsa & Tëma"
     rating: 4
     comment: |
@@ -56,8 +61,4 @@ reviews:
     rating: 5
     comment: |
       A lovely, cozy café with a great selection of pastries and refreshing summer drinks. But the real highlight is the espresso—rich, bold, and absolutely excellent. If you’re a true espresso lover, this is the place to be!
-  - name: "Lady Lou Delfin"
-    rating: 5
-    comment: |
-      Beautiful cake with just the right sweetness. It made my baby's baptism very special. Thank you Ten♥️♥️
 ---

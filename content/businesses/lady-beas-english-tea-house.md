@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–4:00 PM"
 photos: ["/photos/lady-beas-english-tea-house-1.jpg", "/photos/lady-beas-english-tea-house-2.jpg", "/photos/lady-beas-english-tea-house-3.jpg"]
 rating: 4.5
-review_count: 556
+review_count: 558
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -41,14 +41,18 @@ reviews:
       Not knowing what to expect I was with a few gentlemen and were definitely outnumbered By the amount of ladies and younger girls. They were all dressed up, it was very sweet and really cute to see in Edmonton. There were a Few couples, you could tell that girls dragged their boyfriends in, however Everyone was having a great time.
       The food was nice, finger food. Everything was tasty. I had the savory, it was filling. I also had a pot of their favourite tea with cream. I enjoyed the ambiance and Decor. The staff was great Knowledgableand the owner came over and introduced herself. She was lovely.
       The place was very busy on a Sunday, I was told to try it out during the week. I will be back.
-  - name: "Mike Kupka"
-    rating: 4
+  - name: "Deanna H"
+    rating: 5
     comment: |
-      The menu has what are called "experiences" and that's what you get. This was a cool little experience. It's a house that was converted to a tea house and the decore was very nice. The teas were fantastic and the menu was preset and somewhat rigid. While the food was tasty, it felt somewhat lack lustre. Considering the simplicity of the menu, service felt pretty slow despite lots of staff on site; but they were friendly. At times it felt a bit crowded. It obviously isn't meant as a meal - rather it is meant to be a place for tea and snacks. It was cool to check out, but I'd only come back if I had a guest from our of town I wanted to catch up with or something, and they weren't looking for a full meal. The raspberry jam was my highlight - so good.
-  - name: "anahita houshyar"
-    rating: 4
+      Was here for a ladies' birthday tea for a party of 3 :) So glad that afternoon tea is staying strong, a couple other familiar places have disappeared over the years. Delicious options and sometimes for the seasonal events (eg. Mother's Day) there are extra little gifts to take home.
+      
+      For those with mobility concerns, there is accessible parking out front, a very wide ramp to the entrance, and a bathroom on the main floor.
+  - name: "Hailey N"
+    rating: 5
     comment: |
-      Beautiful places for an afternoon tea! I went there with my friends to celebrate her birthday and it was such a great experience. The design is so lovely and the tea menu includes amazing options. The only problem was that the place was too loud but overall we enjoyed our time there.
+      We love a special visit to Lady Bea's for Afternoon Tea. Their menu changes seasonally and it is nice to sample new goodies. The ambiance is delightful and staff is kind! The two times I have been, it has been very busy so we didn't see the waiter as much as we would like (water top ups, hot water for tea), but that's ok - it's tough when you've got a lot of tables to manage!
+      
+      From the two times I have been, I think I prefer the sweet menu and so would probably opt for the sweetheart tea the next time I go. ❤️
   - name: "Emily Park"
     rating: 5
     comment: |

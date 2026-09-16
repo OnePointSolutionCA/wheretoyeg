@@ -32,10 +32,6 @@ reviews:
     rating: 5
     comment: |
       My family has been going to Mayfield Eye Center for several years now. Our experiences are always positive. We really love how thorough Dr. Enders is with every visit. She clearly explains her findings and what the best solution is for our eye health. I highly recommend this Optometrists clinic and all around eye care centre.
-  - name: "Wifey"
-    rating: 5
-    comment: |
-      My husband and I have been seeing Dr. Collins for years and have always been happy with her and the staff at Mayfield Eye Centre.
   - name: "Aaaa Dabest"
     rating: 5
     comment: |
@@ -48,4 +44,9 @@ reviews:
     rating: 5
     comment: |
       Pleasant and helpful staff with purchase of my eye glasses.
+  - name: "Dave Fiala"
+    rating: 5
+    comment: |
+      I’ve been going to Mayfield Eye Centre for many years. Service has always been friendly and professional. I was just in after my glasses  took a beating. Kim was very fast and efficient repairing, cleaning and adjusting them.
+      Thanks
 ---

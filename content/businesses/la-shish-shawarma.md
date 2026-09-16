@@ -19,7 +19,7 @@ hours:
   sunday: "11:00 AM–1:00 AM"
 photos: ["/photos/la-shish-shawarma-1.jpg", "/photos/la-shish-shawarma-2.jpg", "/photos/la-shish-shawarma-3.jpg"]
 rating: 4.2
-review_count: 1381
+review_count: 1385
 price_range: "$"
 amenities:
   - "Halal"
@@ -47,17 +47,12 @@ reviews:
     rating: 5
     comment: |
       A hidden gem for shawarma and I know of it since early days and now it has been transformed offering delicious shawarma in an excellent mediterranean flair.. clean and warm!!
-  - name: "Arsalan Kaleemi"
-    rating: 1
-    comment: |
-      I ordered a Shish beef kabob combo, and to my shock, the meat was raw in the middle. I had no choice but to throw away the entire plate, which was extremely frustrating—especially since I drove from far away to try this place after hearing so many recommendations from friends. This was a place I was genuinely looking forward to, and it was a huge letdown.
-      
-      The experience got worse when I went to pick up my order. The owner’s attitude was dismissive and rude. Even though there were 4–5 people wandering around inside, when I walked in, instead of greeting me or asking how he could help, he looked at me and waved rudely for me to come over. No welcome, no courtesy. When I said I had ordered over the phone, he told me to stand in the corner while he attended to other customers. Very unprofessional and disrespectful.
-      
-      To top it all off, I was overcharged. The beef kabob combo is clearly advertised as $20.70 on their website, yet I was charged $22 plus tax. When I questioned the price, his response was, “Oh, that’s old prices.” That’s not acceptable. If prices have changed, update your website.
-      The extra $2 isn’t the real issue—it’s the attitude, behavior, lack of transparency, and food not cooked to the correct temperature
-  - name: "Jerica Pruden"
+  - name: "Susie C."
     rating: 5
     comment: |
-      The food was good  you let us try some good food. Really good cake and you didn’t hate us and you showed respect > from the children. From mom’s perspective my tiny> loved the chicken sharwarma wrap you remember me and I just love the food here it’s my go to and I’m never doubted when I eat here I love the garlic potatoes too and super filling and home welcoming environment. Forever coming here. Oh and she never eats onions and she did I’m proud she loved it
+      We were helped by the restaurant manager, Fadi and the sandwiches were well made and delicious. We ordered one chicken and one beef shawarma. Loaded with meat, fresh ingredients. They make all the sauces in house. Even accommodated my allergy to sesame (Tahini and hummus). 10/10 would recommend. Will be back soon.
+  - name: "TT Reiter"
+    rating: 2
+    comment: |
+      9 years a go, I used to order from here every single day. Food was always tasty and super fresh. We moved away and This is the 2nd visit in town this year, each time we ordered from La Shish it’s a total disaster to the point I had to leave a review! Hummus and garlic spread don’t even taste like regular hummus and garlic spread any more. Chicken, beef is dry, miniature portions of chicken shawarma and very burned charcoal tasting  tavuk sis. Pull it together people! What happened to the quality and the reputation this restaurant use to have? I surely won’t be ordering nothing from them again.
 ---

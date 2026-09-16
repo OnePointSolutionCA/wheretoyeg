@@ -13,6 +13,10 @@ google_maps: "https://maps.google.com/?cid=2425447930338778253&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/ironhill-athletics.jpg"
 reviews:
+  - name: "Brandan Chretien"
+    rating: 5
+    comment: |
+      Becky is awesome. She has built an amazing space and community! Great if you are experienced or a beginner. Get ready to get your Butt kicked into shape!
   - name: "Mirine Yoon"
     rating: 5
     comment: |
@@ -29,12 +33,6 @@ reviews:
     rating: 5
     comment: |
       Becky is an amazing personal trainer, she is driven, knowledgeable and provides workouts that are challenging and rewarding. The gym is designed for small groups, is clean and  outfitted with the best equipment. Becky fosters an environment of inclusion, no matter your fitness level, you’re welcome here.
-  - name: "Lisa Gamblin"
-    rating: 5
-    comment: |
-      Ive known Becky for 6 years now, and been trained by her for just over a year.  She is a fantastic, knowledgeable, and fun coach.  I trust her implicitly with the CrossFit journey I’m on.
-      
-      She is able to make people from ALL fitness levels and experience feel comfortable, and be successful!  If you’re looking for a kicka$$ trainer and workout space, look no further.
 hours:
   monday: "6:00 AM–7:00 PM"
   tuesday: "6:00 AM–7:00 PM"

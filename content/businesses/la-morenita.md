@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–8:00 PM"
 photos: ["/photos/la-morenita-1.jpg", "/photos/la-morenita-2.jpg", "/photos/la-morenita-3.jpg"]
 rating: 4.7
-review_count: 703
+review_count: 706
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -42,6 +42,10 @@ reviews:
       The atmosphere was vibrant and welcoming, making it the perfect place for group gatherings and celebrations.
       
       Highly recommend this place if you’re looking for great Mexican food, excellent service, and a fun experience. We will definitely be coming back!!!
+  - name: "Phat Boy"
+    rating: 5
+    comment: |
+      If you love authentic Mexican food then this place is a must try! Driven by this place many times and never thought of trying, but extremely pleased that we did! Definitely some of the best Mexican food we’ve had in Edmonton. This joint has actually won 1 of 8 awards for most authentic Mexican food restaurants outside of Mexico. The owners Alfredo and Angie( I believe) are super friendly/welcoming and you can see how much pride they take in their business and food! We did not have one bad dish…all were fresh and delicious! My favourite was the burrito, but we’re excited to come back to try the huevos rancheros for breakfast…I believe they open at 9 with full menu! Will definitely be back and recommend this place without hesitation.
   - name: "Trizha David"
     rating: 5
     comment: |
@@ -54,11 +58,4 @@ reviews:
     rating: 5
     comment: |
       Went here for tacos after seeing great reviews from edify and Google. The chips and guac were great and it was all super reasonably priced ($6 for a corona!!!). The birria taco was the star, amazing beef, full of flavour. Would come back and get a platter just of these. Other tacos were solid too but birria was the star. Great staff, very friendly. Will be back for tacos again.
-  - name: "nancy maldonado"
-    rating: 5
-    comment: |
-      The owners are from Michoacán, and you can really taste the authentic flavors in the food 🇲🇽✨
-      Everything was very delicious. The mazapán frappé was my daughter’s favorite — she absolutely loved it 🥤💛
-      The sope wasn’t really to my taste; I think I’m just not used to that style, but it still seemed fresh and well prepared.
-      Overall, the food is very tasty and definitely worth a visit. 🌮🔥
 ---

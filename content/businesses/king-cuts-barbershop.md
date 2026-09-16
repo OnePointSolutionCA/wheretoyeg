@@ -28,6 +28,12 @@ tags: ["edmonton", "classic-cuts"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Mudar M"
+    rating: 5
+    comment: |
+      Had a great experience at this barbershop! The atmosphere is welcoming, the service is professional, and all the barbers seem to really know what they’re doing.
+      A special shout-out to Amir, who cut both my hair and my son’s. He was very professional, friendly, and clearly experienced. He paid attention to the details and did an excellent job on both haircuts.
+      I highly recommend this barbershop, and especially Amir.
   - name: "Hassan Najem"
     rating: 4
     comment: |
@@ -46,9 +52,4 @@ reviews:
     rating: 2
     comment: |
       I can only comment on the guy who cut my hair, not the other barbers working here. My haircut took about 5 minutes and felt very rushed and lacked attention to detail. I paid $25, but the result was barely noticeable and didn't feel worth the price. Maybe the other barbers provide a different experience, but based on my visit, I left disappointed.
-  - name: "Mustafa Badr"
-    rating: 5
-    comment: |
-      Highly recommend Amir, he’s great at storytelling,
-      I have done my hair couple times with him and I was super happy with the finished result.
 ---

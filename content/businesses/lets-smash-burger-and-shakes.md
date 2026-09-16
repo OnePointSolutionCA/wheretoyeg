@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–12:00 AM"
 photos: ["/photos/lets-smash-burger-and-shakes-1.jpg", "/photos/lets-smash-burger-and-shakes-2.jpg", "/photos/lets-smash-burger-and-shakes-3.jpg"]
 rating: 4.7
-review_count: 953
+review_count: 956
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -59,6 +59,10 @@ reviews:
     rating: 3
     comment: |
       I’ve tried Let’s Smash Burger and Shakes three times now, and I really wanted to like it more than I did. The shop itself was clean and well maintained, and the staff was friendly, which I appreciated. Unfortunately, the burger was pretty bland each time, and nothing about it really stood out to me. It wasn’t bad, but it also wasn’t memorable or something I’d go out of my way to have again. Overall, it’s a decent spot if you’re in the area, but for me it didn’t quite live up to the hype.
+  - name: "Nicolas F"
+    rating: 5
+    comment: |
+      The staff was incredible! Was so helpful, patient and kind, gave us suggestions. Moved the order around without any trouble, was able to switch the drinks to a shake for the combo. The price isn’t cheap but it’s not expensive either but the experience and food is totally worth it. The smash burgers are a 10/10 and the shawarma was a solid 10/10. The restaurant itself has nice vintage burger shop vibe and is extremely clean. Overall an amazing experience!
   - name: "Greyson Averill"
     rating: 5
     comment: |
@@ -70,8 +74,4 @@ reviews:
     rating: 5
     comment: |
       I came to let’s smash a little while ago after craving it for a few months. Needless to say, it was well worth the trip! Yahya was an absolute gem, and provided great food and an even greater conversation with his bright personality. Definitely a place I’ll frequent more often! Thanks for making my day Yahya :))
-  - name: "Danielle Libunao"
-    rating: 5
-    comment: |
-      It was our first time coming here, Hamza, who took our orders who was able to predict what each of us were getting which was the fun experience. Amazing customer service, and one of the best smash burgers in town. Atmosphere is enjoyable and clean. We got our burgers within minutes of ordering. Also got a complimentary biscoff cookie and ferrero rocher. We came here for dinner, but I think it would be a great place to come for lunch. Will definitely be returning!! 10/10
 ---

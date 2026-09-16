@@ -20,8 +20,8 @@ hours:
   saturday: "11:00 AM–10:00 PM"
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/kind-ice-cream-1.jpg", "/photos/kind-ice-cream-2.jpg", "/photos/kind-ice-cream-3.jpg"]
-rating: 4.6
-review_count: 1342
+rating: 4.7
+review_count: 1352
 price_range: "$$"
 amenities:
   - "Vegan Options"
@@ -51,6 +51,10 @@ reviews:
       One of my all-time favorite local ice cream shops! 🍦
       I love so many of their flavors, but my absolute favorites are coffee and salted caramel — they’re rich, smooth, and perfectly balanced.
       Definitely a go-to spot whenever I’m craving something sweet!
+  - name: "Taylor Racz"
+    rating: 5
+    comment: |
+      My favourite ice cream shop in Edmonton! The flavours are fun and the vegan ones are so so good. I usually go every month to try one of their monthly features because they're so unique and delicious! The staff are really nice too and always brighten my day. It isn't just the ice cream that keeps me coming back (though seriously it's so good!!!), they're definitely part of why I love the place so much!
   - name: "McGriffin Correos"
     rating: 5
     comment: |
@@ -59,15 +63,4 @@ reviews:
       Great texture and got it with their waffle cones.
       The service was amazing - can’t complain.
       The ambiance was also amazing - the whole place smelled like waffles.
-  - name: "Jamie Carpenter"
-    rating: 3
-    comment: |
-      I’m in the process of moving to Ritchie from the states…for 8 months I’ve been seeing lineups, no matter what time of year…
-      Today I had someone tell me that I HAD to try the cookies and cream…
-      
-      Now…I still don’t understand the lineups…
-      
-      I would rather go to Safeway and buy a thing of Hagen dazs…better tasting and cheaper…
-      
-      Maybe I got spoiled with ColdStone but this isn’t worth the line or more than 3 stars.
 ---

@@ -6,7 +6,7 @@ subcategory: "vietnamese"
 neighborhood: "Windermere"
 address: "5098 Windermere Blvd Unit 2, Edmonton, AB T6W 0L7"
 rating: 4.4
-review_count: 297
+review_count: 298
 tier: "featured"
 phone: "(780) 391-0388"
 website: "http://lemongrassyeg.ca/"
@@ -36,10 +36,10 @@ reviews:
       Really nice atmosphere and food was ok but nothing remarkable. We both had a vermicelli bowl one with pork the other with chicken and pork. The meat quality was good but the pork was not cut properly and was just in a giant chuck which made it difficult to eat.
       
       Service was not particularly friendly and had to ask for everything ie chili oil, oyster sauce since nothing is provided on the table. It's too bad because we really enjoyed the decor but lackluster service and food being just ok means we probably wouldn't go back.
-  - name: "RYAN H"
+  - name: "Andreea Gabriela"
     rating: 5
     comment: |
-      Had one of the set combos, meat was cooked very well and came with a wonton soup. Complimented the dish perfectly. Will come back to try other options.
+      We had the Lemongrass Chicken Chow Mein and the Beef Chow Mein. The portions were huge, the food was extremely tasty and the Lemongrass Chicken was not overly spicy. We left with very full bellies, extreme happiness and leftovers to go.
 hours:
   monday: "Closed"
   tuesday: "11:00 AM–9:00 PM"

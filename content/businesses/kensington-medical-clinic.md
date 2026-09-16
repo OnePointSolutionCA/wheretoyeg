@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/kensington-medical-clinic-1.jpg", "/photos/kensington-medical-clinic-2.jpg", "/photos/kensington-medical-clinic-3.jpg"]
 rating: 2.9
-review_count: 684
+review_count: 686
 price_range: "$$"
 amenities:
 
@@ -28,14 +28,14 @@ tags: ["edmonton", "walk-in-clinics"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Justin"
-    rating: 3
+  - name: "Richard"
+    rating: 1
     comment: |
-      My family Doctor here is wonderful and the front staff are really nice, but the hours, walk in times and notifications for patients is infuriating and seemingly random.  I came a week ago on Sunday to see my doctor, I arrive early to ensure I can see her on a walk in.  Hours on the sign say 10:00, recording says 10:00.  We wait until 10:30, nobody come to open.  No sign on the door stating a change.
+      I asked my doctor to fill out my DTC application because I’m a Type 1 diabetic, and for two pages of paperwork, they want to charge $120?! Are you kidding me? Make it make sense!
+      It’s basically the same thing when a doctor completes a special authorization form for a specific medication and sends it to the insurance company—yet there’s no charge for that. Same idea, similar paperwork, probably even the same number of pages… but suddenly, because it’s for the Disability Tax Credit, it costs $120?
+      I understand doctors’ time is valuable, but $120 for filling out two pages feels excessive. How is this justified?
       
-      Came again today.  Sign now says closed Sunday.
-      
-      This is frustrating because these hours have been the same for as long as I have been visiting this clinic and now it changes with no notice and the staff just no-showing while myself and other patients wait outside.
+      ps. They tried to call me to confirm if am willing to pay? Hell No! Eat your own pen!
   - name: "Melissa Megan"
     rating: 1
     comment: |

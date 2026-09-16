@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/little-village-1.jpg", "/photos/little-village-2.jpg", "/photos/little-village-3.jpg"]
 rating: 4.8
-review_count: 322
+review_count: 323
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,14 +30,6 @@ tags: ["edmonton", "greek"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Missy ice"
-    rating: 5
-    comment: |
-      What a treat it was to have this yummy braised lamb family meal. Greek potatoes, rice, tzatziki and the star: 4 lamb shanks. It was a delicious meal for a cozy night in. Will definitely order again! Hope they add moussaka to the menu!
-  - name: "CoachJR"
-    rating: 5
-    comment: |
-      Little Village in Edmonton is a great spot. The food is fresh, the prices are fair, and everything is well kept and clean. The overall experience was pleasant, and I would definitely come back again.
   - name: "Kevin"
     rating: 4
     comment: |
@@ -58,8 +50,16 @@ reviews:
       We ended on some super delicious baklava!!
       
       Definitely recommend this place. 10/10. We will be coming back whenever in this area.
+  - name: "Missy ice"
+    rating: 5
+    comment: |
+      What a treat it was to have this yummy braised lamb family meal. Greek potatoes, rice, tzatziki and the star: 4 lamb shanks. It was a delicious meal for a cozy night in. Will definitely order again! Hope they add moussaka to the menu!
   - name: "Ava Wolf"
     rating: 5
     comment: |
       Great place to stop for lunch. Despite the LRT construction going on and difficulties to navigate, it is worth to visit. Greek salad was fresh and delicious, Dolmades - rice and meat stuffed grape leaves - very tasty, Mediterranean genre of cabbage rolls, but more savory. Ribs had a distinct flavour, and lemon flavored potatoes completed the meal. The place is also decorated with simple, but classy designed furniture and has an incredible canopy of green south European plants. Washroom is spacious and clean.
+  - name: "Kwokman Ng"
+    rating: 5
+    comment: |
+      This is a small family restaurant. I went there for lunch for the first time after walking the Mackenzie ravine. Although it is small, it is very clean and tidy. I wish all restaurants should have this kind of high standard. The food was very good. The service was friendly. I liked the potatoes, the ribs and the lamb. Would like to go back there to try some more dishes.
 ---

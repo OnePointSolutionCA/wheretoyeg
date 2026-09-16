@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Beverly"
 address: "592 Hermitage Rd NW, Edmonton, AB T5A 4N2"
 rating: 4.8
-review_count: 293
+review_count: 294
 tier: "featured"
 phone: "(587) 414-7747"
 website: "https://www.meetthepho.com/"
@@ -13,6 +13,14 @@ google_maps: "https://maps.google.com/?cid=11070740044438064120&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/meet-the-pho.jpg"
 reviews:
+  - name: "Fatima"
+    rating: 5
+    comment: |
+      I had such an amazing experience at Meet the Pho! From the moment we walked in, the service was absolutely wonderful. Everyone was so friendly, welcoming, and attentive, which made the whole experience feel really comfortable and enjoyable. You can tell that they genuinely care about their customers and want everyone to have a great experience.
+      
+      The wonton noodle soup was definitely the highlight for me. It was honestly one of the best wonton noodle soups I’ve ever had! The broth was so flavorful, the wontons were delicious, and the noodles were cooked perfectly. Everything tasted fresh and was made with so much care. It was the perfect comfort meal and I would honestly come back just for the soup!
+      
+      Overall, I really loved my experience at Meet the Pho. The food was delicious, the portions were great, and the service was amazing. The staff made us feel so welcomed and were incredibly kind throughout our visit. I definitely recommend checking this place out if you’re looking for delicious Vietnamese food with great service. I’ll definitely be coming back again!
   - name: "Bala Aj"
     rating: 5
     comment: |
@@ -30,10 +38,6 @@ reviews:
       The bowl had a big rib in it and it was a struggle to get the meat off the rib, so not enjoyable...
       Also all the Pho noodles felt like someone had chopped them up? They were all small and not the normal long noodles I enjoy.
       I've never been back. Just wish I could have gotten normal Pho and not whatever trend they are chasing.
-  - name: "Aragon"
-    rating: 5
-    comment: |
-      This is the new spot if you're looking for some Vietnamese cuisine in clareview. The food is delicious and affordable, I couldn't help but take bites first before the photos. I tried #29 and #3 and strongly recommend them! The salad rolls are priced great and very filling and the vermicelli was the BOMB! Will definitely be back. But I recommend reserving a seat if its peak hours. The restaurant does not have much seating.
   - name: "Samantha Ward"
     rating: 5
     comment: |

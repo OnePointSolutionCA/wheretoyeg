@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–6:00 PM"
 photos: ["/photos/luxury-japanese-head-spa-1.jpg", "/photos/luxury-japanese-head-spa-2.jpg", "/photos/luxury-japanese-head-spa-3.jpg"]
 rating: 4.8
-review_count: 200
+review_count: 203
 price_range: "$$"
 amenities:
 
@@ -44,14 +44,6 @@ reviews:
       After the treatment my scalp felt incredibly clean, and my hair felt soft, light, and healthy — like it had been reset. This is the kind of self-care experience that feels like it benefits both your body and your mind.
       
       Quyen is warm, attentive, and genuinely talented. If you’re considering a Japanese head spa, don’t hesitate — this is worth every penny, and I’m already looking forward to coming back.
-  - name: "Julia"
-    rating: 5
-    comment: |
-      I recently had a Japanese Head Spa treatment with Christine, and it was such a wonderful experience. This service was gifted to me, and I’m so glad I had the opportunity to try it!
-      
-      Christine was incredibly knowledgeable and took the time to educate me on my scalp health, how to properly care for it at home, and the reasoning behind the techniques and products she uses. I really appreciated that she explained everything in a way that was easy to understand.
-      
-      She was also very soft-spoken and calming, which made the entire experience feel even more relaxing. The treatment itself was amazing, and my scalp feels so fresh, clean, and rejuvenated.
   - name: "Holly Francese"
     rating: 5
     comment: |
@@ -61,4 +53,12 @@ reviews:
     rating: 5
     comment: |
       What an amazing experience! I learned so much about my own hair/scalp and how to take care of it. Quyen was extremely knowledgeable and a wonderful person.  She ensured that the temperatures of everything were where they needed to be for my preference and that the massage bed was comfortable for my needs. Overall, the Sakura Bliss spa package over exceeded my expectations. I feel so rejuvenated afterwards.  Truly a whole body refresh. I will definitely be back!
+  - name: "Shop Nut"
+    rating: 5
+    comment: |
+      I recently tried the Yomigari scalp revitalization package, and I couldn’t be happier with the results. From the very first session, my scalp felt healthier, refreshed, and truly cared for. Over time, I’ve noticed visible improvements in my hair growth—my hair feels thicker, stronger, and much more vibrant.
+      
+      Quyen is absolutely amazing—so skilled, attentive, and professional. Every visit was incredibly relaxing, and I always left feeling refreshed and well taken care of.
+      
+      The entire experience was wonderful and absolutely worth it. I highly recommend the Yomigari package to anyone looking to improve their scalp health and support hair growth. 5 stars all the way!
 ---

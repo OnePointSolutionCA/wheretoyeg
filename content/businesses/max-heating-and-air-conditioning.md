@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/max-heating-and-air-conditioning-1.jpg", "/photos/max-heating-and-air-conditioning-2.jpg", "/photos/max-heating-and-air-conditioning-3.jpg"]
 rating: 4.8
-review_count: 332
+review_count: 333
 price_range: "$$"
 amenities:
 
@@ -28,15 +28,15 @@ tags: ["edmonton", "hvac"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Val Gabert"
+    rating: 5
+    comment: |
+      I had never heard of Max heat heating and air conditioning until my adjuster had booked them to use the plumbers to turn off the water and disconnect the sink in my kitchen. The two gentlemen that came were from the Ukraine. They did a fantastic job of disconnecting the sink and then reconnecting it once my counters were taken out and reinstalled, quick too!Twenty(20) minutes to disconnect and maybe 35 to reconnect. Would’ve loved to talk to them more but they were so focused on the job - it was like I was watching a journeyman training an apprentice. I talked to the younger one a little bit. They were great, polite and completed the job quickly. I would definitely would recommend these two Ukrainian gentlemen again. I never did get their names. Just know that they were from the Ukraine since I asked.
   - name: "Alyssa Lamy"
     rating: 5
     comment: |
       i was so happy with the entire team at max! can’t recommend them enough!
       not only was dave, the owner, quick at sending me a quote for ac installation , his office staff happily explained it for me & we’re so friendly. having a newborn and toddler at home with me, i was a bit nervous about having the technicians in my home all day but they were FANTASTIC. Jason & Jordan were so personable & truly went above & beyond. when we needed some extra work done to the furnace to complete the install, they took great care to get everything done asap. they were amazing representatives of the company. thanks again!
-  - name: "Val Gabert"
-    rating: 5
-    comment: |
-      I had never heard of Max heat heating and air conditioning until my adjuster had booked them to use the plumbers to turn off the water and disconnect the sink in my kitchen. The two gentlemen that came were from the Ukraine. They did a fantastic job of disconnecting the sink and then reconnecting it once my counters were taken out and reinstalled, quick too!Twenty(20) minutes to disconnect and maybe 35 to reconnect. Would’ve loved to talk to them more but they were so focused on the job - it was like I was watching a journeyman training an apprentice. I talked to the younger one a little bit. They were great, polite and completed the job quickly. I would definitely would recommend these two Ukrainian gentlemen again. I never did get their names. Just know that they were from the Ukraine since I asked.
   - name: "Ken Hayman"
     rating: 5
     comment: |

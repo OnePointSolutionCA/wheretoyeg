@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/lube-city-1.jpg", "/photos/lube-city-2.jpg", "/photos/lube-city-3.jpg"]
 rating: 4.7
-review_count: 860
+review_count: 862
 price_range: "$$"
 amenities:
 
@@ -82,8 +82,8 @@ reviews:
     rating: 5
     comment: |
       Excellent service! I arrived 20 minutes before close and was welcomed in. My attendant Henry was very friendly and polite. He was eager to clean the windshields/windows, check the tire pressure and lubricate the doors. He explained the cost and was very open to questions. He asked about specific maintenance but was not pushy and didn’t pressure me to do any unnecessary work which I had experienced before. I had a great experience with Henry and would highly recommend the 111Ave Edmonton location
-  - name: "Manny Gregorio"
+  - name: "Ben Tizzy"
     rating: 5
     comment: |
-      The staff members were very customer-centric and thorough with every aspect of my oil and filter change.  Thanks to my AMA membership, the pricing was exceedingly competitive compared Jiffy Lube and others.  GREAT work!
+      They did a very thorough job and pointed out some leaks under my vehicle that I might not have noticed otherwise.  The technicians were very friendly and communicated what they were doing at each step.  Great service!
 ---

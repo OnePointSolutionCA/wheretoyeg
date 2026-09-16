@@ -19,7 +19,7 @@ hours:
   sunday: "11:00 AM–2:00 PM"
 photos: ["/photos/menya-mori-1.jpg", "/photos/menya-mori-2.jpg", "/photos/menya-mori-3.jpg"]
 rating: 4.7
-review_count: 659
+review_count: 662
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -29,10 +29,6 @@ tags: ["edmonton", "ramen"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Mike Kehl"
-    rating: 5
-    comment: |
-      I rarely give 5 stars but this is a standout. The ramen is probably one of the best I’ve had in Canada. It’s better than the Michelin recommended places I have been to in MTL and Toronto and on par with some of the ramen I have had in Japan. Definitely try the fried chicken, the texture and flavour are perfect and it is delicious. I will come back every time I visit Edmonton.
   - name: "Zl"
     rating: 5
     comment: |
@@ -67,4 +63,8 @@ reviews:
       Will definitely be back.
       
       5 x 🍜 🍜 🍜 🍜 🍜
+  - name: "Mike Kehl"
+    rating: 5
+    comment: |
+      I rarely give 5 stars but this is a standout. The ramen is probably one of the best I’ve had in Canada. It’s better than the Michelin recommended places I have been to in MTL and Toronto and on par with some of the ramen I have had in Japan. Definitely try the fried chicken, the texture and flavour are perfect and it is delicious. I will come back every time I visit Edmonton.
 ---

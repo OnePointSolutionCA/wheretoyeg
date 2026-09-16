@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–8:00 PM"
 photos: ["/photos/juana-ines-mexican-restaurant-1.jpg", "/photos/juana-ines-mexican-restaurant-2.jpg", "/photos/juana-ines-mexican-restaurant-3.jpg"]
 rating: 4.5
-review_count: 229
+review_count: 231
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,26 +30,22 @@ tags: ["edmonton", "mexican"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Fran Johnson"
-    rating: 4
+  - name: "Leigh Lavitoria"
+    rating: 1
     comment: |
-      Really cute little Mexican restaurant! We arrived shortly after 1pm, and most tables were full. The one server did a great job serving all her tables, and had our food to us ASAP. I really enjoyed my mole enchiladas, maybe not the best mole, but overall flavor was quite good. My friend had the tinga taco and most of the chips and guac we had ordered to share, as she didn't realize the taco was simply one single taco, and not overly filling. She did like the flavors and commented that the guac was good! This isn't an area I frequent often, so I may not be back any time soon, but the parking is plentiful, so should we be in the area I probably would come back for a quick bite.
+      My boyfriend and I went here yesterday for the first time. The ambiance was really nice, and we even took a lot of pictures. At first, the server was nice, but then she took so long to take our order even though the restaurant wasn’t that busy. After taking our orders, she asked me twice what I had ordered.
+      
+      We waited for about 30 minutes, and when she finally brought our food, she gave me the wrong order. I told her that it wasn’t what I ordered, and she apologized and said she would bring me the right one. I left the wrong taco on the side of our table so she could take it, but when she brought the correct order, she left the wrong taco there and didn’t even say anything when I said, “Thank you.”
+      
+      I just told my boyfriend to eat it, thinking maybe they wouldn’t charge us since most restaurants don’t charge you for food they brought by mistake. However, when I saw our bill, she had not removed it. But that’s okay.
+      
+      I hope this can be a learning opportunity for the restaurant to consider using at least a piece of paper or some kind of system when taking orders instead of trying to memorize everything.
+      
+      The food was okay, but it was salty. Overall, we won’t be going back to this restaurant. :)
   - name: "Nessa Gomez"
     rating: 5
     comment: |
       Came here on taco Tuesday and was very happy with my dining experience. Its great to have free parking downtown, the restaurant itself is nicely decorated and offers a nice vibe - i look forward to their patio in the summer. The tacos were very good - the tortilla was SO soft al pastor and suadero stood out. The chips and guac were good, the chips were still warm when we got them. Would definitely come back!
-  - name: "Ray Cowell"
-    rating: 5
-    comment: |
-      Had an incredible experience at Juana Ines in Manchester Square. Easily one of the best Mexican-inspired meals we’ve had in Edmonton.
-      
-      We tried four different tacos: the brisket, two pork varieties, and the chicken; and every one of them was outstanding. The flavours were bold, perfectly balanced, and the tortillas were spot on. The brisket taco in particular was a standout.
-      
-      The elote corn was hands down the best I’ve had anywhere; smoky, creamy, and packed with flavour.
-      
-      To top it all off, the tequila coconut margarita was absolutely amazing. Smooth, refreshing, and the perfect complement to the meal.
-      
-      Great atmosphere, excellent food, and drinks done right. We’ll definitely be back. ⭐⭐⭐⭐⭐
   - name: "Sharon Ling"
     rating: 1
     comment: |
@@ -58,6 +54,10 @@ reviews:
       Unfortunately the food really missed the mark.
       
       The Horchata was gritty (most Horchata I've had filters out the pulverized rice) , the food was very under seasoned (lack of salt and spice/flavour) and the Birria was unfortunately very mushy (missing the slightly crisp exterior that it should have). The flavours were seriously lacking and the prices were high for what it was.
+  - name: "Fran Johnson"
+    rating: 4
+    comment: |
+      Really cute little Mexican restaurant! We arrived shortly after 1pm, and most tables were full. The one server did a great job serving all her tables, and had our food to us ASAP. I really enjoyed my mole enchiladas, maybe not the best mole, but overall flavor was quite good. My friend had the tinga taco and most of the chips and guac we had ordered to share, as she didn't realize the taco was simply one single taco, and not overly filling. She did like the flavors and commented that the guac was good! This isn't an area I frequent often, so I may not be back any time soon, but the parking is plentiful, so should we be in the area I probably would come back for a quick bite.
   - name: "Bryan Synn"
     rating: 5
     comment: |

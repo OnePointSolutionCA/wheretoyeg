@@ -19,8 +19,8 @@ hours:
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/jan-pro-edmonton-1.jpg", "/photos/jan-pro-edmonton-2.jpg", "/photos/jan-pro-edmonton-3.jpg"]
-rating: 4.6
-review_count: 137
+rating: 4.7
+review_count: 136
 price_range: "$$"
 amenities:
 
@@ -36,10 +36,10 @@ reviews:
       Communication is excellent, and it is clear they take pride in their work and customer service. Their attention to detail has helped keep our property looking its best for both residents and visitors.
       
       I would highly recommend their services to any property manager or business looking for a dependable and thorough cleaning company.
-  - name: "Alexandra Kulak"
+  - name: "Omar Kamaleddine"
     rating: 5
     comment: |
-      Warren is the JanPro cleaning professional for our very busy gym. Warren is thorough, quick and efficient. He is here early on the weekends to make sure everything is sanitary for our weekend gym-goers, always ready with a smile and Hello.  He is a valued member of our AF Stony Plain Team!!
+      Jan-Pro did an amazing job on my kitchen. The salesman Ali was very professional and direct. He explained how it would be done and there were no surprises. The cleaner Madina was absolutely stunning. She was a machine. She got rid of build up we hadnt been able to reach for a long time. Very happy with the service, I highly recommend. Good things aren't cheap and cheap things aren't good.
   - name: "Gail G"
     rating: 1
     comment: |
@@ -48,12 +48,12 @@ reviews:
       What’s even more concerning is the unethical behavior I witnessed. There was a clear lack of honesty and accountability, which made the whole experience feel untrustworthy and uncomfortable. It’s disappointing to see a business operate this way.
       
       I would not recommend this place to anyone. Save your time, money, and frustration, and go somewhere that actually values its customers and takes pride in what they do.
+  - name: "Alexandra Kulak"
+    rating: 5
+    comment: |
+      Warren is the JanPro cleaning professional for our very busy gym. Warren is thorough, quick and efficient. He is here early on the weekends to make sure everything is sanitary for our weekend gym-goers, always ready with a smile and Hello.  He is a valued member of our AF Stony Plain Team!!
   - name: "Monica Sienkiewicz"
     rating: 5
     comment: |
       We hired Jan-Pro to clean our office and they did a fantastic job. Shawn was amazing to deal with when providing a quote and helping us figure out what we needed for our move. Anagel and Rogie , were rockstars on the day of, they both did a fantastic job with the space and in amazing time. Highly recommend!
-  - name: "Jodi Schott"
-    rating: 5
-    comment: |
-      We have been using Morad at Jan-Pro for a few months now and are quick happy with the service provided!
 ---

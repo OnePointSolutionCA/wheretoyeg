@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–5:30 PM"
 photos: ["/photos/launchpad-trampoline-park-3-1.jpg", "/photos/launchpad-trampoline-park-3-2.jpg", "/photos/launchpad-trampoline-park-3-3.jpg"]
 rating: 4.5
-review_count: 2276
+review_count: 2278
 price_range: "$$"
 amenities:
 
@@ -44,6 +44,10 @@ reviews:
     rating: 2
     comment: |
       We had our son’s ninth birthday at the west end location ( for some reason it nuts the review on this location) on a Thursday evening and it was so much fun for the kids. The location is great and lots of parking as well , the play area is tons of fun’s as well. We had a fair bit of issues with our “ VIP” package though. No “skipping the line” as promised and every item we signed up for had to be chased down and delayed everything along the way. The staff were very kind but you could tell they were not given a sufficient amount of support and had not been trained on most things. The room was cool, I did just clean it myself after though because I felt bad for the staff 🤷🏾‍♂️ fun place though, worth checking out. Oh and bring extra money if you want to sit down😂
+  - name: "Kris Karki"
+    rating: 5
+    comment: |
+      Had an amazing time at LaunchPad West today! Shaii provided exceptional customer service and went above and beyond to make our visit great. Super friendly and helpful staff. Highly recommend!"
   - name: "Raya G"
     rating: 4
     comment: |
@@ -54,8 +58,4 @@ reviews:
       I will say the pictures on the website is not up to date. They have changed the place quite a bit.
       
       Despite all this, definitely recommend if ur kids like trampolines!
-  - name: "Candice Smiley"
-    rating: 4
-    comment: |
-      Highly recommend. The west end location has never foam - this one had small bits of foam coming off - so we won’t rerun until they replace the foam. The layout of this location is great.  Kids had fun.
 ---

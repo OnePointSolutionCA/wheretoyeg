@@ -13,4 +13,12 @@ website: "https://wholesale-print-canada.clicksitepages.com/mm-tires-service-edm
 google_maps: "https://maps.google.com/?cid=1862676104655864333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/mandm-tire-repair-service.jpg"
+hours:
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "12:00 AM–11:59 PM"
 ---

@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "3422 Ewing Trail SW, Edmonton, AB T6X 2X2"
 rating: 4.9
-review_count: 675
+review_count: 686
 tier: "featured"
 phone: "(780) 626-1313"
 website: "http://khalsagpizza.ca/"
@@ -22,6 +22,14 @@ reviews:
       “Khalsa G Pizza is an absolutely amazing pure vegetarian pizza store! The food is always fresh, delicious, and full of flavor. Their pizzas are among the best I’ve ever had, with high-quality ingredients and excellent taste. The customer service is outstanding, and every visit is a great experience. If you’re looking for the best pure vegetarian pizza, Khalsa G Pizza is truly the best of the best. Highly recommended!” 🍕🌱👏🔥
       
       #PureVegetarian #BestPizza #5StarExperience ⭐⭐⭐⭐⭐
+  - name: "Abhineet Singh Toor"
+    rating: 5
+    comment: |
+      Absolute best👌🏼, Paaji was so nice, polite and treated us really nicely and gave us free drinks also😅(coz of my wife’s birthday). Highly recommend for purity, taste, hygiene and cleanliness of food. Even the employees are good vibes, whenever we call or visit in person, their(employees) service is always up top, the way they greet and prepare the food, all positive energy👍
+  - name: "Professor $SPX"
+    rating: 5
+    comment: |
+      My spouse and I stumbled upon this absolute gem during a road trip, and we are so glad we did! As soon as we pulled up, we had the pleasure of meeting the owner, who was incredibly kind and took the time to walk us through the menu since it was our first visit. We decided to order the Shahi Paneer pizza and added pineapple—and wow, it was phenomenal! Honestly, it’s one of the best pizzas I’ve had in a very long time. You can smell the fresh ingredients before you even take your first bite, and the flavors are incredibly authentic. The entire staff was just as courteous and welcoming. Highly recommend this spot, and we will definitely be back on our next trip!
   - name: "Rohit sharma"
     rating: 5
     comment: |
@@ -36,20 +44,6 @@ reviews:
       So refreshing and perfect with the pizza.
       
       Highly recommended if you want great food, great quality, and great service all in one place! 🙌
-  - name: "KIRANDEEP KAUR"
-    rating: 5
-    comment: |
-      I absolutely loved the pizza! Every bite was full of flavor, perfectly cooked, and fresh, with just the right amount of toppings and a delicious crust. What made the experience truly special was that the uncle, who is also the owner, personally greeted us and made sure we felt welcome. His kindness, attentiveness, and passion for his pizza really stood out and added a personal touch to the visit. I highly recommend this place to anyone who loves great pizza and friendly, genuine service—it’s an experience you won’t forget and will want to come back for again and again.
-  - name: "Amandeep Kaur"
-    rating: 5
-    comment: |
-      I recently visited Khalsa G Pizza and had a really great experience. This place is 100% vegetarian, which is amazing for people who prefer veg food.
-      
-      I tried the Paneer Supreme Pizza, and it was absolutely delicious. The paneer was fresh, the toppings were generous, and the flavors were perfectly balanced. The crust was nicely baked and the pizza tasted very fresh and flavorful.
-      
-      Another thing I really appreciated was the owner’s nature. The owner is very kind, friendly, and welcoming, which makes the whole experience even better.
-      
-      Overall, if you are looking for the best vegetarian pizza in Edmonton, I highly recommend Khalsa G Pizza. Great taste, pure veg food, and wonderful service! 🍕✨
 hours:
   monday: "11:00 AM–10:00 PM"
   tuesday: "11:00 AM–10:00 PM"

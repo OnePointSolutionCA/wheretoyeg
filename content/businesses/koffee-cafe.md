@@ -5,13 +5,17 @@ category: "cafes-coffee-shops"
 neighborhood: "Mill Woods"
 address: "6120 28 Ave NW, Edmonton, AB T6L 6N4"
 rating: 4.6
-review_count: 297
+review_count: 299
 tier: "featured"
 phone: "(780) 461-2233"
 google_maps: "https://maps.google.com/?cid=5426796700505147398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/koffee-cafe.jpg"
 reviews:
+  - name: "Shivam"
+    rating: 5
+    comment: |
+      Had a wonderful experience at Koffee Cafe today! I tried their butter chicken with naan, and it was surprisingly delicious for a neighborhood cafe, the chicken was tender, and the sauce had a rich, comforting flavor. The atmosphere is cozy and welcoming, making it a great go-to place in Edmonton to grab a bite. Will definitely be back to try their coffee and other dishes!"
   - name: "Aaron Dutchyn"
     rating: 5
     comment: |
@@ -36,21 +40,6 @@ reviews:
     rating: 5
     comment: |
       Cozy and quiet, she brought my order to the table, had a latte which was perfect, and a quick snack, ham and grilled cheese. Was yummy and hit the spot. Full menu and lots of choices, 100 % recommend.
-  - name: "Sharmas"
-    rating: 5
-    comment: |
-      We were just browsing some Coffee places other than usual.
-      Came across this evening about Koffee Cafe. After visiting found out its the typical Indian Chai/Coffee place. Well we went as family with kids. Everybody was satisfied with their drinks and food. Wanna say that Indian style coffee was amazing and I am sure we will visit few more times to try out other drinks and food.
-      Veggie Grilled Sandwich were amazing.
-      
-      This place has a charm a different vibe. Its like one go to go place where they try to accommodate you at their best especially being kids has their own choices in terms of what to put in sandwich. The most of the Indian snack they serve aren't frozen and they make though the girl was being honest they don't make everyday or fresh right away but stuff is cooked by them and samosas were yummy and filling.
-      
-      The service was a bit slow but we literally visited right before closing and I believe the girl who served was still very kind and helpful deciding order when our son couldn't decide what to eat.
-      Sorry dint catch up the name for the girl.
-      
-      A few things which might add up but it completely depends person to person. There's only one corner in the cafe had couches  which can surely be added more by reducing couple tables. We went as a family so also had our 2 months old daughter with us but we dint find the diaper changing station in the washroom.
-      
-      Other than that I must say its the super awesome place to go and try pretty diverse menu options. Would surely visit one day only for breakfast.
 hours:
   monday: "9:00 AM–7:30 PM"
   tuesday: "9:00 AM–7:30 PM"

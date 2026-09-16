@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/lucky13-auto-body-and-paint-1.jpg", "/photos/lucky13-auto-body-and-paint-2.jpg", "/photos/lucky13-auto-body-and-paint-3.jpg"]
 rating: 4.9
-review_count: 150
+review_count: 154
 price_range: "$$"
 amenities:
 
@@ -32,12 +32,6 @@ reviews:
     rating: 5
     comment: |
       Excellent install and paint job on my new street hunter wing. Eliot, Wyatt and the paint techs did an amazing job. They care deeply about their craft and were able to overcome obstacles to bring out a great finished product.
-  - name: "Jordan Rolleston"
-    rating: 5
-    comment: |
-      Absolutely blown away by the work from Lucky 13 Auto Body and Paint. The quality, attention to detail, and communication throughout the whole process were top notch. They treated my vehicle like it was their own and the finished product came out way better than I expected. Paint match was perfect, the body work was clean, and everything was done professionally and on time.
-      
-      It’s hard to find a shop you can genuinely trust, but these guys earned it. You can tell they actually care about their work and their reputation. Highly recommend Lucky 13 to anyone looking for quality body work or paint repairs. Thanks again!
   - name: "Majid Alban"
     rating: 5
     comment: |
@@ -48,6 +42,12 @@ reviews:
     rating: 5
     comment: |
       Elliot at Lucky13 was awesome! Went above and beyond the scope of my body work job and was very competitively priced. Quality of the work and final cost was borderline miraculous (Lucky13 quoted more than 50% less than other shops) considering what other standard insurance based shops were quoting me. Would highly recommend this honest and professional outfit for your car as well, see before and after pics, incredible.
+  - name: "Jordan Rolleston"
+    rating: 5
+    comment: |
+      Absolutely blown away by the work from Lucky 13 Auto Body and Paint. The quality, attention to detail, and communication throughout the whole process were top notch. They treated my vehicle like it was their own and the finished product came out way better than I expected. Paint match was perfect, the body work was clean, and everything was done professionally and on time.
+      
+      It’s hard to find a shop you can genuinely trust, but these guys earned it. You can tell they actually care about their work and their reputation. Highly recommend Lucky 13 to anyone looking for quality body work or paint repairs. Thanks again!
   - name: "Trevor Tsoi"
     rating: 5
     comment: |

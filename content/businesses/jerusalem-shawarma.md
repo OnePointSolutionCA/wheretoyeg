@@ -21,7 +21,7 @@ hours:
   sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/jerusalem-shawarma-1.jpg", "/photos/jerusalem-shawarma-2.jpg", "/photos/jerusalem-shawarma-3.jpg"]
 rating: 4.9
-review_count: 22281
+review_count: 22434
 price_range: "$$"
 amenities:
   - "Halal"
@@ -32,6 +32,16 @@ amenities:
 tags: ["shawarma", "halal", "donair", "kebabs", "middle eastern", "south edmonton"]
 active: true
 reviews:
+  - name: "eggy playz"
+    rating: 5
+    comment: |
+      An Absolutely Outstanding Experience at Jerusalem!
+      Jerusalem is truly a hidden gem and has quickly become one of my favourite places to dine! Whether you’re coming alone, enjoying a meal with your family, or gathering with a large group, this is a place where you immediately feel welcomed and cared for.
+      The staff are exceptional — incredibly polite, generous, kind, attentive, and genuinely caring. The level of hospitality makes you feel more like an honoured guest than simply a customer. The service is absolutely amazing!
+      And the food… WOW! The flavours are truly out of this world. Every bite takes me back to the authentic tastes and aromas of the Mediterranean and Middle East. You can taste the care, tradition, and authenticity that goes into the food.
+      From the delicious meals to the wonderful tea and incredible desserts, everything we tried was fantastic.
+      I will definitely be coming here much more often. ❤️ If you’re looking for authentic flavours, generous hospitality, wonderful service, and a warm atmosphere, Jerusalem is absolutely worth visiting.
+      Highly, highly recommended! ⭐⭐⭐⭐⭐
   - name: "Abde Ben"
     rating: 5
     comment: |
@@ -58,8 +68,4 @@ reviews:
       The service was excellent. The server was very polite, friendly, and nice. We even got complimentary tea, mint lemonade, and more baklava. Our cups were refilled whenever we finished the tea.
       
       The tables could be a little more clean but over the place is very well kept.
-  - name: "Sena Sezer Syed"
-    rating: 5
-    comment: |
-      Great place, great food, great vibes :) Especially anything with lamb kebab is delicious, be it wrap or plate. The staff is always welcoming, the place is always clean. Kamal is always so helpful and kind! The first picture attached is from today, after we were done with our food I asked him if we could have two more small cups of tea, he said he would bring it to our table. He came back with a plate of two cups of tea, two cups of the green citrus ginger drink (I don’t know the name but it is absolutely delicious) and two pieces of baklava! One thing about me is I will certainly keep coming back to a restaurant that seeks abundance through generosity. :)
 ---

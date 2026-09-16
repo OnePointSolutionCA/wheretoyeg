@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Spruce Grove"
 address: "16735 71 St NW, Edmonton, AB T5Z 0G9"
 rating: 4.9
-review_count: 129
+review_count: 142
 tier: "featured"
 phone: "(825) 401-1523"
 website: "https://www.instagram.com/kofiacafe?utm_source=qr"
@@ -13,27 +13,29 @@ google_maps: "https://maps.google.com/?cid=3509640540321436256&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/kofia-cafe.jpg"
 reviews:
-  - name: "tara alizadeh"
+  - name: "Shazia Qadri"
     rating: 5
     comment: |
-      I came to visit with my friends and i absolutely loved it!!!! The place is so nice and so cozy, the desserts are absolutely delicious especially the oreo cheesecake, I got the redbull mojito and it was so good, definitely revoked and i love the customer service, there was a girl with the same name as Me, Tara!! very sweet and nice and beautiful customer service! Definitely recommend
-  - name: "Dima algailani"
+      Amazing cafe and literally 4 minutes from my place. Had the pistachio latte and oreo cheesecake and it was soooo good. Will be back with my friend for a latte.
+  - name: "Jas Chadha"
     rating: 5
     comment: |
-      Amazing atmosphere
-      Yummy food and amazing staff!! Highly recommend!!
-  - name: "Stella Myrsini Στέλλα Μυρσίνη"
+      I was so excited for Kofia Cafe to finally open, and it was absolutely worth the wait! ❤️
+      I loved the ambiance — the cafe is beautiful, spacious, and has such a welcoming vibe. I tried the pistachio latte and pistachio milk cake, and both were out of this world! The latte especially was absolutely splendid and easily one of my new favourites.
+      
+      I’m so happy to have found my favourite cafe and favourite latte so close to home. Honestly, what more could you ask for? Can’t wait to come back and try more! ☕️
+  - name: "zahraa nadi"
     rating: 5
     comment: |
-      Isotu is an amazing human!! The atmosphere was also very nice. This shop will be added to my go to places for hangouts and studying with my friends.
-  - name: "Elbaraa Elrefaei"
+      This new cafe is actually so good. The food and drinks are really good, the place is cute and has such a nice vibe, and the staff are really friendly. Everything came out fresh and tasted amazing. I’d definitely recommend coming here if you’re looking for somewhere chill to eat or hang out with friends. Very clean and beautiful seating
+  - name: "Zak Mimouni"
     rating: 5
     comment: |
-      Lovely neighborhood cafe! The owner is so sweet, he would join in whenever we played cards. I would recommend the Large Adani Chai pot for its taste and value
-  - name: "Randa Alhijawi"
+      Just tried it for the first time today. Had a cappuccino and a Mojito.   Both had high-quality ingredients and the staff was very friendly and helpful.
+  - name: "rasheed suleiman"
     rating: 5
     comment: |
-      Kofieh has become my favourite neighbourhood coffee shop! It’s the perfect place to meet up with friends, relax, and enjoy a welcoming atmosphere. The coffee, food, service, and overall experience are always great. It truly feels like a warm community space, and I highly recommend
+      Great vibes, excellent service, and a fantastic location. The staff were friendly and welcoming, and everything was a great experience. Highly recommended!
 hours:
   monday: "5:00 PM–12:00 AM"
   tuesday: "5:00 PM–12:00 AM"

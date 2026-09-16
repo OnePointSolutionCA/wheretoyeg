@@ -27,16 +27,14 @@ reviews:
       0 stars for ent and 5 stars for the Melody clinic
       
       My partner had an appointment with Dr Omar the ent and a hearing test at the Melody. When we arrived to check in the ent receptionist was short with us, rude and dismissive. I was the one who checked in my partner who had gone to the bathroom and the receptionist said “I need there id” I said they would be out in a minute and she rolled her eyes and walked away. Another women came out and gave us a form and told us to check in with the Melody clinic where the experience was a 180. Hannah was the sweetest person. I had questions about our referral and she was honest saying she didn’t know much about ent part but she would help how she could. Jenny did the hearing test, was very knowledgeable and helpful and explained things in detail. When we purchase hearing aids it will be through Jenny and Hannah.
-  - name: "Graeme Kishiuchi"
-    rating: 1
-    comment: |
-      Booked a hearing test through their website, booked time off work, got the confirmation email, then showed up a week later for the appointment... and they had no record of me.
-      
-      Weirdly, they offered no apology, and despite me being the only client in the waiting area and showing them the confirmation email, they suggested that I could "just rebook 3 weeks from now" and that "their system has been weird lately". It was like the ol' "sorry, can't help you"... but without the "sorry".
   - name: "Zaida Plantinos"
     rating: 5
     comment: |
       It's my first time to have my hearing test and  was concerned what the tests would be.I asked Kiplin right away if it's painful and assured me that it's not.She's wonderful and patiently explained the result & the chart.She was just an absolute nice and kind person.I would totally recommend her.Also,the receptionist is nice as well.Melody staff are pleasant & the place is clean.
+  - name: "Kani Jodi"
+    rating: 5
+    comment: |
+      They are very kind and welcoming, and assistance is provided very quickly. I thank them for their efforts.
 hours:
   monday: "8:30 AM–4:30 PM"
   tuesday: "8:30 AM–4:30 PM"

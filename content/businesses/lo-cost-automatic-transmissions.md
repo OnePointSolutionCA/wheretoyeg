@@ -28,6 +28,10 @@ tags: ["edmonton", "transmission"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Dustin Banks"
+    rating: 5
+    comment: |
+      Possibly the most instantly trustworthy crew I have ever had the pleasure to deal with and the only time I've left a repair shop worried that I hadn't paid *enough*. Great communication, honest rates. I can't recommend them enough.
   - name: "Advance Courier"
     rating: 5
     comment: |
@@ -42,10 +46,6 @@ reviews:
       If you need transmission repair in Edmonton and want an honest mechanic, I strongly recommend Lo-Cost Transmission on 82 Ave. Great service, knowledgeable staff, and a shop that clearly stands behind their work.
       
       Highly recommend.
-  - name: "Dustin Banks"
-    rating: 5
-    comment: |
-      Possibly the most instantly trustworthy crew I have ever had the pleasure to deal with and the only time I've left a repair shop worried that I hadn't paid *enough*. Great communication, honest rates. I can't recommend them enough.
   - name: "art wilson"
     rating: 5
     comment: |

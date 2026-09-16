@@ -5,8 +5,8 @@ category: "auto-repair"
 subcategory: "general-repair"
 neighborhood: "Beaumont"
 address: "6308 50 St, Beaumont, AB T4X 0B6"
-rating: 4.3
-review_count: 129
+rating: 4.4
+review_count: 131
 tier: "featured"
 phone: "(780) 929-1610"
 website: "https://jiffylubeservice.ca/locations/beaumont/jiffy-beaumont/?utm_source=google&utm_medium=gmb&utm_content=1101"

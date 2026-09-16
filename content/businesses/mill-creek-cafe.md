@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Mill Woods"
 address: "9562 Whyte Ave NW, Edmonton, AB T6C 1B9"
 rating: 4.4
-review_count: 981
+review_count: 984
 tier: "featured"
 phone: "(780) 439-5535"
 website: "https://www.millcreekcafe.ca/"

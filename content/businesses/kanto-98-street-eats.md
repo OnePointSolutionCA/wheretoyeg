@@ -17,8 +17,8 @@ hours:
   saturday: "10:00 AM - 10:00 PM"
   sunday: "10:00 AM - 9:00 PM"
 photos: ["/photos/kanto-98-street-eats-1.jpg", "/photos/kanto-98-street-eats-2.jpg", "/photos/kanto-98-street-eats-3.jpg"]
-rating: 4.6
-review_count: 890
+rating: 4.4
+review_count: 302
 price_range: "$$"
 amenities:
   - "Dine-In"

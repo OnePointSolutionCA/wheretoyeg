@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/meat-1.jpg", "/photos/meat-2.jpg", "/photos/meat-3.jpg"]
 rating: 4.6
-review_count: 3659
+review_count: 3660
 price_range: "$$"
 amenities:
   - "Dine-In"

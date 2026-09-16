@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/leungs-auto-service-1.jpg", "/photos/leungs-auto-service-2.jpg", "/photos/leungs-auto-service-3.jpg"]
 rating: 4.6
-review_count: 216
+review_count: 217
 price_range: "$$"
 amenities:
 

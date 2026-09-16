@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–12:00 AM"
 photos: ["/photos/lufi-indian-cuisine-1.jpg", "/photos/lufi-indian-cuisine-2.jpg", "/photos/lufi-indian-cuisine-3.jpg"]
 rating: 4.8
-review_count: 316
+review_count: 327
 price_range: "$$"
 amenities:
   - "Halal"

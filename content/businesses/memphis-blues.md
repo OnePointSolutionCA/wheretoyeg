@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Castle Downs"
 address: "16907 127 St, Edmonton, AB T5X 5P5"
 rating: 4.5
-review_count: 905
+review_count: 908
 tier: "featured"
 phone: "(780) 758-7427"
 website: "http://www.memphisbluesbbq.com/"
@@ -31,12 +31,10 @@ reviews:
     rating: 5
     comment: |
       Aaaaamazing!!!! Been craving smoked meat, and Memphis just popped up on my search bar, perfect timing. It was phenomenal! Never been a fan of baked beans, but theirs? Total exception. Sooo good!
-  - name: "Stacy Carleton"
-    rating: 5
+  - name: "F. M"
+    rating: 3
     comment: |
-      Food was delicious.  Fresh, full of flavour. We ordered the memphis platter and it served 4 adults and we had left overs to take home.
-      Service was good. Attentive without being bothersome.
-      Restaurant is clean, lots of seating. Can't wait to go back
+      I wanna start this review by saying the staff was nothing but exceptionally nice. The vibes were great and the price was fair. Unfortunately, I just did not enjoy the food. I would give the food a 5 out of 10. I found the fish to be dry and they also got some of the items on our order wrong. We also ordered the nachos and they just did not taste good and were missing the chimichurri. Everything else tho  was awesome, but I just wouldn’t go back because the food was mid.
 hours:
   monday: "11:00 AM–8:00 PM"
   tuesday: "11:00 AM–8:00 PM"

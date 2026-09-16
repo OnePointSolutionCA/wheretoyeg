@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "652 Kingsway Gdn Mall NW, Edmonton, AB T5G 0W8"
 rating: 4.7
-review_count: 672
+review_count: 671
 tier: "featured"
 phone: "(780) 474-4887"
 website: "https://kingswaydentist.ca/?utm_source=GBPlisting&utm_medium=organic"
@@ -14,16 +14,6 @@ google_maps: "https://maps.google.com/?cid=4949866545995975450&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/kingsway-dental-centre.jpg"
 reviews:
-  - name: "Muhammad Yousuf"
-    rating: 5
-    comment: |
-      I had an excellent experience at Kingsway Dental Centre. About two weeks ago, I visited the clinic at night while most places were already closed. From the moment I arrived, the team greeted me warmly and made me feel comfortable during a very painful situation.
-      
-      Dr. Muhammad was professional, caring, and took the time to address my dental pain and provide the treatment I needed. His assistant, Harry, was also incredibly helpful, kind, and supportive throughout the visit. The entire staff on duty that evening showed genuine compassion and outstanding customer service.
-      
-      I arrived at the clinic in pain and distress, but I left with a smile on my face. I am truly grateful to Dr. Muhammad, Harry, and the whole team for their excellent care and professionalism.
-      
-      I have another appointment coming up soon, and I am looking forward to seeing their friendly faces again. Highly recommended to anyone looking for a caring and professional dental team.
   - name: "Gina Chisholm"
     rating: 5
     comment: |
@@ -54,6 +44,12 @@ reviews:
       On top of all this, he is less than the dental fee guide. To me that’s the deal breaker. Not because he is cheap, but because he compassionate enough to not price gouge like lots of other clinics do.
       
       I can not reccomend this place enough. As long as Dr. Lyad Al-Qishawi and I are living and working in the same place, he will be the only dentist I will see
+  - name: "Margarita Miraflor"
+    rating: 5
+    comment: |
+      I had a great experience at Kingway Dental Center! The whole team is very accommodating and made me feel comfortable from start to finish. They really take the time to make sure everything is well taken care of and explained clearly.
+      
+      Special thanks to Dr. Iyad for being so professional, gentle, and attentive. You can tell they truly care about their patients. Highly recommend!
 hours:
   monday: "8:00 AM–10:00 PM"
   tuesday: "8:00 AM–10:00 PM"

@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/jetco-mechanical-plumbing-heating-1.jpg", "/photos/jetco-mechanical-plumbing-heating-2.jpg", "/photos/jetco-mechanical-plumbing-heating-3.jpg"]
 rating: 4.9
-review_count: 231
+review_count: 234
 price_range: "$$"
 amenities:
 
@@ -42,16 +42,12 @@ reviews:
       Worked performed by Matthew M was amazing. He knows his stuff, highly recommend.
       Straight shooter, gets to the bottom of the issue.
       He was able to contact navien and get me almost my entire unit covered under warranty (thank you to navien too, for going above and beyond). Had Matthew install soft water system while he was at my place. Nice install, neat & tidy, and work area cleaned up.
+  - name: "Andrew Canterbury"
+    rating: 5
+    comment: |
+      Great crew all around.  Johnny Shanks is very conscientious and detailed with his knowledge about all the systems in the home.  Matt redid my AC, he was awesome too.  Would highly recommend Jetco.
   - name: "jg mejillano"
     rating: 5
     comment: |
       Jordan did a great job fixing our furnace. He was professional, knowledgeable, and took the time to clearly explain what the issue was and how he was going to fix it. He arrived on time, worked efficiently, and made sure everything was running properly before he left. It’s clear he takes pride in his work and cares about providing excellent service. I really appreciate the effort he put in to get our heat back up and running. Highly recommend Jordan for anyone needing furnace repair!
-  - name: "Darren Shaw"
-    rating: 5
-    comment: |
-      What a great company! We called about two failed sump pumps, and they were able to send someone out right away to replace them. The technician who came out was so professional, smart, kind, and friendly. He explained everything very clearly and was extremely considerate about ensuring that he kept everything clean. He figured out a clever way to get all the water out without running hoses through our house, which was appreciated because we didn't want any extra work or mess. The sump pump installation and replacement work was done at the highest quality standards. At the end of the job, he cleaned up the work area to be absolutely spotless. I will definitely be calling Jetco for all our future plumbing and heating needs.
-      
-      Update: I forgot to mention that the price was surprisingly reasonable. For the service call and replacement of two sump pumps it was around $650. I honestly expected it to be much more.
-      
-      Update #2: had them out again today to repair a leaky toilet. Excellent job again. Identified and solved the problem quickly, no mess, great cleanup, friendly service, excellent price.
 ---

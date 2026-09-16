@@ -21,7 +21,7 @@ hours:
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/medicine-place-walk-in-clinic-118-ave-1.jpg", "/photos/medicine-place-walk-in-clinic-118-ave-2.jpg", "/photos/medicine-place-walk-in-clinic-118-ave-3.jpg"]
 rating: 4.0
-review_count: 115
+review_count: 117
 price_range: "$"
 amenities:
   - "Walk-ins Welcome"
@@ -47,17 +47,17 @@ reviews:
     rating: 5
     comment: |
       Had a really good experience at Medicine Place. Shazia was honestly the best — super kind, patient, and took her time explaining everything without rushing me. You can tell she actually cares, which makes a big difference. Jarek and Stephen were also great and very helpful. Overall, the whole team made things easy and comfortable. Definitely recommend!
+  - name: "Luli Brazil"
+    rating: 4
+    comment: |
+      I like the attention of the receptionists and telephone callers, they are really friendly. I also like the professionalism of the nurses, and my physician Dr Bazza. I didn't put 5 star because my late husband's doctor who never wanted to refer him to a specialist, neither did exams to solve the excruciating pain on his back over 3 year just the same excuse was that he had spinal cord complete injury, and Harrington rod on his back which caused so much pain, prescribed Oxycodone, Codeine, Gabapentin, and Tylenol, nothing worked, my husband lost hope when he said there was nothing that he could do, neither send to a specialist, I begged him, but he was adamant, so one day I arrived at home and my husband had ended up with his suffering taking his own life, but I can't say the name of the doctor because I want to avoid fighting in the justice (someone told me that's exactly what I should had done, but it won't bring my beloved wonderful husband back).
+      Let God (Allah) do His job.
   - name: "Wayne Hourie"
     rating: 1
     comment: |
       The most rude service on the phone. Tell me what I'm looking for is out of stock, and asked for the medication ID when I wasn't looking for a prescription. Then changed story to " the person that deals with that inventory not here till tomorrow, we might have that"
       What a great wonderful set of staff members working there.
       Do better.
-  - name: "Luli Brazil"
-    rating: 4
-    comment: |
-      I like the attention of the receptionists and telephone callers, they are really friendly. I also like the professionalism of the nurses, and my physician Dr Bazza. I didn't put 5 star because my late husband's doctor who never wanted to refer him to a specialist, neither did exams to solve the excruciating pain on his back over 3 year just the same excuse was that he had spinal cord complete injury, and Harrington rod on his back which caused so much pain, prescribed Oxycodone, Codeine, Gabapentin, and Tylenol, nothing worked, my husband lost hope when he said there was nothing that he could do, neither send to a specialist, I begged him, but he was adamant, so one day I arrived at home and my husband had ended up with his suffering taking his own life, but I can't say the name of the doctor because I want to avoid fighting in the justice (someone told me that's exactly what I should had done, but it won't bring my beloved wonderful husband back).
-      Let God (Allah) do His job.
   - name: "Nancy V."
     rating: 1
     comment: |

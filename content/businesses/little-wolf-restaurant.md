@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Mill Woods"
 address: "8424 109 St NW, Edmonton, AB T6G 1E2"
 rating: 4.7
-review_count: 250
+review_count: 256
 tier: "featured"
 phone: "(780) 757-2600"
 website: "https://littlewolfrestaurant.com/"
@@ -13,6 +13,18 @@ google_maps: "https://maps.google.com/?cid=4378770502320898999&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/little-wolf-restaurant.jpg"
 reviews:
+  - name: "Tanya Kelm"
+    rating: 5
+    comment: |
+      One of the better spots in Edmonton.
+      
+      Little Wolf is such a charming spot for a date night or catching up with friends. It’s intimate and on the smaller side, so I’d definitely recommend making a reservation. If the weather cooperates, the patio is also a lovely option.
+      
+      The kombucha and Vietnamese coffee stout were standouts for me—both were really interesting and well done. The schnitzel was MASSIVE and the schnitzel itself was absolutely delicious: crispy, juicy, and really satisfying. The mayo wasn’t quite my thing, but that’s a minor personal preference and didn’t take away from the schnitzel itself.
+      
+      The food overall was fresh, thoughtfully presented, and clearly made with care. Dessert was very good as well.
+      
+      Really enjoyed the experience here. The combination of the intimate atmosphere, creative menu, and quality of the food makes Little Wolf a great choice when you want somewhere that feels a little more special without being overly formal. 🐺
   - name: "Mike Kehl"
     rating: 5
     comment: |
@@ -21,16 +33,6 @@ reviews:
     rating: 5
     comment: |
       Little Wolf did a stellar job hosting our birthday party for 14! I asked for a pre-planned chef's choice tasting menu with beverage pairing. They prepared these cute little menus for our event, the food was served sharing plates, family style. The food was superb - unique dishes, very delicious. The service was excellent. Everyone in our party was very impressed, thank you for making this a great evening for our family!
-  - name: "Suah Kim"
-    rating: 5
-    comment: |
-      Unique and amazing food options with decent portions! Me and my friend had a great evening at the Little wolf. The menu changes every few weeks. They have a small menu but great options.
-      
-      Many vegetarian dishes and house made kombucha was fantastic. We LOVED the bbq eggplant dish. It was fantastic with unique flavors.
-      
-      The two of us got 3 dishes to share, with 2 non alcholic drinks and the bill was about $80 before tips.
-      
-      Small space so make a reservation! We loved it and we will deff be coming back to try different dishes!
   - name: "Bryce"
     rating: 5
     comment: |
@@ -39,10 +41,14 @@ reviews:
       The menu is small but diverse. Interesting choices for both vegetarian and meat dishes. The tomatoes in the kimchi we're the best I've ever tasted. The filled pork was very good and filling. The crop top cocktail was super.
       
       I recommend coming here with a small party and sharing a few dishes. This menu really shines when you eat it family style.
-  - name: "Mike Kupka"
+  - name: "Jessie Li"
     rating: 4
     comment: |
-      I REALLY wanted to like this place. It hit all of the boxes - quaint and quiet, unique menu, real food. I LOVED broccoli salad, and the jumbo schnitzel was certainly jumbo (size of a damn beaver tail!) Everything else just didn't hit my taste buds right - I bet other people would love it though. The place felt too cramped and felt like there was no privacy. I may some back for the broccoli. All in all, not a bad place.
+      The hummus is a must get!!!! The beets carpaccio was great (if you like beets)!!
+      
+      But I was quite confused with the ahri tuna. The presentation looks great, but the chilly oil did not do it for me to go with the tuna.
+      
+      One more suggestion on the shredded cabbage on the pork schnitzel - the cabbage should be shredded thinly using a shredder peeler, and not hand cut by a knife.
 hours:
   monday: "5:00 PM–11:00 PM"
   tuesday: "5:00 PM–11:00 PM"

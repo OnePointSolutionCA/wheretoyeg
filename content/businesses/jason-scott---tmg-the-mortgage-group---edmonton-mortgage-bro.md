@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/jason-scott---tmg-the-mortgage-group---edmonton-mortgage-bro-1.jpg", "/photos/jason-scott---tmg-the-mortgage-group---edmonton-mortgage-bro-2.jpg", "/photos/jason-scott---tmg-the-mortgage-group---edmonton-mortgage-bro-3.jpg"]
 rating: 5
-review_count: 529
+review_count: 530
 price_range: "$$"
 amenities:
 
@@ -28,10 +28,6 @@ tags: ["edmonton", "mortgage"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Nova"
-    rating: 5
-    comment: |
-      We were referred to Jason by our realtor and although I was hesitant to work with a mortgage broker, I never regretted our choice. Jason was so easy to work with! Both our schedules are quite busy but Jason was easy to reach, accommodating and fast moving with everything, which was great because interest rates fluctuates so quickly. He got us a great rate, answered all of our questions, and has a great team working with him. We will definitely recommended Jason in the future when any of our friends and family need a mortgage broker. Thank you so much Jason!!
   - name: "Tracy Ski"
     rating: 5
     comment: |
@@ -45,8 +41,12 @@ reviews:
     rating: 5
     comment: |
       An excellent service that stuck by me for a good 6 months while I got my finances in order. Did everything to make the process as smooth and painless as possible, and as a result I am happy to report I have just been able to get into my new place. Extremely professional and open for contact at any time. Couldn't recommend Jason, and the whole mortgage group team enough!
-  - name: "Meg"
+  - name: "Bradley Chalmers"
     rating: 5
     comment: |
-      Jason helped my partner and I with our initial mortgage back in 2021, as well as a recent lender change at renewal this year.  We picked him based on great reviews, and are pleased to have had the same experience!  Jason and his team are highly responsive and keep things as streamlined and simple as possible for clients. I wouldn't hesitate to continue working with him or suggesting him to friends and family! Thanks again Jason and team!
+      I am a disabled Canadian Army Veteran with a good credit score, but not the best established credit history. Before I joined the Army I worked on a farm. As time passed my only dream was to have a farm of my own, away from the chaos, a Sanctuary. Jason and his team made my first home purchase smooth and seemless. Behind the scenes I know there was some serious legwork to bring my dream to fruition. I will hold a special place in my heart for Jason and his team until the day I am buried here and beyond. Thank you Jason,, keep touching lives brother.
+  - name: "Nova"
+    rating: 5
+    comment: |
+      We were referred to Jason by our realtor and although I was hesitant to work with a mortgage broker, I never regretted our choice. Jason was so easy to work with! Both our schedules are quite busy but Jason was easy to reach, accommodating and fast moving with everything, which was great because interest rates fluctuates so quickly. He got us a great rate, answered all of our questions, and has a great team working with him. We will definitely recommended Jason in the future when any of our friends and family need a mortgage broker. Thank you so much Jason!!
 ---

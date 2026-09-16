@@ -5,7 +5,7 @@ category: "photographers"
 neighborhood: "Edmonton"
 address: "154 Hays Ridge Blvd SW, Edmonton, AB T6W 4Y1"
 rating: 5
-review_count: 416
+review_count: 418
 tier: "featured"
 phone: "(780) 266-5405"
 website: "http://www.kohliklicks.com/"

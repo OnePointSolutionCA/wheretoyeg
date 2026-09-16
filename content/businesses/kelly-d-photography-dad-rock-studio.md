@@ -44,8 +44,8 @@ reviews:
     rating: 5
     comment: |
       I had a really positive experience with my client and photoshoot at this studio! The owner is respectful, communicative, and really helpful. I will definitely be coming back!
-  - name: "Brandon Dyck"
+  - name: "Laura Brown"
     rating: 5
     comment: |
-      Fun studio to take photos at with good value for your dollar compared to other local studio rentals. The events put on are always a good time to learn, create, and network amongst like minded individuals.
+      We had a great experience with Kelly for our family photoshoot. We made last minute changes to the location and Kelly handled the change seamlessly and showed up prepared with great ideas to make the most of the new setting.  He showed up with great energy and connected with the entire family from toddler boys, to teenage girl, to grandma and grandpa. He caught some amazing candid shots that really captured the vibe of our family's playful side. The photos are beautiful and I can't wait to get them on the wall!
 ---

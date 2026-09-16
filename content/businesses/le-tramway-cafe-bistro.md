@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "Edmonton"
 address: "9420 91 St, Edmonton, AB T6C 3P4"
 rating: 4.7
-review_count: 305
+review_count: 309
 tier: "featured"
 phone: "(587) 201-3888"
 website: "https://letramway.ca/"

@@ -6,7 +6,7 @@ subcategory: "middle-eastern"
 neighborhood: "Beaumont"
 address: "5010 50 St #101, Beaumont, AB T4X 1E7"
 rating: 4.6
-review_count: 405
+review_count: 408
 tier: "featured"
 phone: "(780) 929-9887"
 website: "https://mainasdonair.my.canva.site/maina-s-donair"
@@ -46,10 +46,14 @@ reviews:
       So I hope it was sitting in a cooling tray and not just sitting out but I didn't know.
       It was tasty enough but I am a firm believer in hot safe food.
       The staff was super friendly though so I hope they take this as constructive criticism and do better next time.
-  - name: "Acefitness"
-    rating: 1
+  - name: "John Kroetch"
+    rating: 4
     comment: |
-      The old lady need to learn the customer service skills, I want to give her honest feedback about the last order and she told me you can go somewhere else. waaoo well done, lady. I know where to eat and when. So you'd better take feedback and tell the customer we will do our best from now on. not coming back to you for your suggestions
+      A very friendly and comfortable place. We got our Regular Cheese Donairs to go.
+      
+      They had a good amount of toppings, but I felt the sauce was light. The meat wasn't very seasoned which lowered my rating to 4. Otherwise,  a decent meal.
+      
+      It was right downtown so parking was a bit tricky at lunchtime.
 hours:
   monday: "11:00 AM–8:00 PM"
   tuesday: "11:00 AM–8:00 PM"

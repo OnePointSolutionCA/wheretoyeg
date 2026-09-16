@@ -20,7 +20,7 @@ hours:
   sunday: "7:00 AM–6:45 PM"
 photos: ["/photos/jasper-place-leisure-centre-1.jpg", "/photos/jasper-place-leisure-centre-2.jpg", "/photos/jasper-place-leisure-centre-3.jpg"]
 rating: 4.1
-review_count: 302
+review_count: 303
 price_range: "$$"
 amenities:
 
@@ -28,24 +28,25 @@ tags: ["edmonton", "swimming"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Leslie Doyle"
-    rating: 5
-    comment: |
-      Me and my grandkids came to swim here and we had a lot of fun. The pool was clean and not that crowded. The swim staff was awesome and even gave us some more water toys to play with. My granddaughter said she danced here before too, we will definitely be back for more swimming!
   - name: "ALBERTA seperate"
     rating: 5
     comment: |
       Jasper Place Leisure Centre? More for an older crowd—small steam room's moist heat maxes at 45°C, gentle and perfect for unwinding without the intensity. Step out to the sundeck for fresh air, then ease into the 23m pool (29.5°C) for a nice cool-down. Splash around, hit the waterslide—weekends only. Shallow teach pool too. Free lockers inside, secure front-desk spots for wallet/phone. Quiet, low-key vibe, bike-friendly. 😉
+  - name: "Leslie Doyle"
+    rating: 5
+    comment: |
+      Me and my grandkids came to swim here and we had a lot of fun. The pool was clean and not that crowded. The swim staff was awesome and even gave us some more water toys to play with. My granddaughter said she danced here before too, we will definitely be back for more swimming!
   - name: "iloveswimming"
     rating: 1
     comment: |
       You'll find cleaner water in your local storm water pond. Free admission for people with open sores soaking in the lane pool and robbing your locker. Grown adults openly spitting and blasting snot rockets in the steam room & communal showers beside the pool. Fully clothed "swimmers"?? Typically smug management and lifeguards who could not care any less to enforce some rules. I wasted my money on a year pass and could only stomach it for a few months, I remember seeing 2 pleasant lifeguards out of maybe a dozen the entire time. Filthy, hairy and highly unsanitary change rooms with crusty mildew shower curtains and strewn with litter from the school groups. "Leisure Centre"? yeah right!
+  - name: "Kyle Pereira"
+    rating: 1
+    comment: |
+      How many extra min on a phone call are needed. All cause the city of Edmonton needs to put it through 311 and then they need to call the rec center..CaUsE ReC CeNtEr Numbers are private....
+      So annoying to need to communicate through a third party when i could just call the place that has the specific answer I need. Go figure. love the tax dollars used here....
   - name: "LeeAnne Grewal"
     rating: 3
     comment: |
       Usually pretty crowded in there. Good luck getting a shower or change room after swim lessons. The pools are warm so that's a plus but very crowded for kids swim lessons.
-  - name: "Julia Davis"
-    rating: 4
-    comment: |
-      A compact pool, a small pool for babies with warm water, a steam room, large changing rooms with personal lockers, showers.  Everything is O.K.  Friendly staff at the reception and, of course, lifeguards are always friendly and smiling.
 ---

@@ -13,14 +13,14 @@ google_maps_url: "https://maps.google.com/?cid=13026259946188655667&g_mp=Cidnb29
 hours:
   monday: "8:00 AM–8:00 PM"
   tuesday: "8:00 AM–8:00 PM"
-  wednesday: "8:00 AM–7:00 PM"
-  thursday: "8:00 AM–5:00 PM"
-  friday: "8:00 AM–4:00 PM"
-  saturday: "9:30 AM–3:00 PM"
+  wednesday: "8:00 AM–8:00 PM"
+  thursday: "8:00 AM–8:00 PM"
+  friday: "8:00 AM–3:00 PM"
+  saturday: "8:00 AM–3:00 PM"
   sunday: "Closed"
 photos: ["/photos/manchester-dental-1.jpg", "/photos/manchester-dental-2.jpg", "/photos/manchester-dental-3.jpg"]
-rating: 4.8
-review_count: 414
+rating: 4.7
+review_count: 415
 price_range: "$$"
 amenities:
 
@@ -42,10 +42,6 @@ reviews:
     rating: 5
     comment: |
       I had an amazing experience with dental hygienist Reeshama Panju. I’ve honestly never had such exceptional treatment in my life. She was incredibly gentle, professional, and made me feel comfortable throughout the entire appointment. What really stood out was how educational she was — she took the time to explain everything clearly and gave me helpful advice on improving my oral health. You can truly tell she cares about her patients and takes pride in her work. I highly recommend Reeshama Panju to anyone looking for a knowledgeable and caring dental hygienist!
-  - name: "nighat mehroze"
-    rating: 5
-    comment: |
-      I find Dental clinics very intimidating but my experience at Manchester dental made me feel very comfortable   The doctor gave me a feeling of being a family. Very professional , friendly and caring staff.  That’s why I go to this clinic although it’s a distance of more than twenty minutes drive while I have around four dental clinics at a five to ten  minutes walking distance from my home. My whole family goes to Manchester Dental and I will surely recommend it to others too
   - name: "chris zimmerman"
     rating: 5
     comment: |
@@ -56,4 +52,12 @@ reviews:
     rating: 5
     comment: |
       The hygienist & dentist explained everything well. Cleaning went very well. Front entrance door was easy to open with my walker in hand. Handicap accessible bathroom. I will be back again.
+  - name: "Nazrin Asgarzade"
+    rating: 5
+    comment: |
+      I had a really great experience at Manchester Dental Clinic. Everything was done in a short period of time, and they completed work on two of my teeth efficiently and professionally.
+      
+      The new female doctor was amazing, I really liked her. She was very professional, and clearly skilled at what she does. She made me feel comfortable throughout the whole process.
+      
+      Overall, I’m very happy with the service and would definitely recommend this clinic!
 ---

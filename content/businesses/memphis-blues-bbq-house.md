@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "222 Baseline Rd #150, Sherwood Park, AB T8H 1S8"
 rating: 4.7
-review_count: 1175
+review_count: 1177
 tier: "featured"
 phone: "(780) 467-7427"
 website: "http://www.memphisbluesbbq.com/"
@@ -13,6 +13,16 @@ google_maps: "https://maps.google.com/?cid=7029694867767657416&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/memphis-blues-bbq-house.jpg"
 reviews:
+  - name: "Sasha Love"
+    rating: 5
+    comment: |
+      This was down home food at its best!
+      Came in mid afternoon, ordered BBQ Pit Beans 🫘 😋  and cornbread.
+      Hubs had chicken  sandwich with fries.
+      
+      It doesn't taste fast food-y in any way. Just such solid flavor & great service....and blues playing in the background- can't go wring there!
+      
+      Highly Recommend 💙💙💙💯
   - name: "Kimmy"
     rating: 5
     comment: |
@@ -62,10 +72,6 @@ reviews:
     rating: 5
     comment: |
       When there for my husband birthday with my family. We order the memphis plater (5-6 ppl), it was huge! We couldn’t even finish it, snd was happy to bring leftovers home . We love everything in it: the meats, sausages, corn bread, beans, fries, potatoes salad, sauce… super tasty. The peach crumble was delicious! The service was excellent and welcoming! The price was reasonable. Great place, Recommend to all,
-  - name: "resevilchick"
-    rating: 5
-    comment: |
-      This place is Amazing!!! The food is delicious, they make everything in house! Service was spectacular! Dharma hooked me up for Gluten free and dairy free. I highly recommend this location. Thanks again!
 hours:
   monday: "11:00 AM–8:00 PM"
   tuesday: "11:00 AM–9:00 PM"

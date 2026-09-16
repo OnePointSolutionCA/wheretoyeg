@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/ly-nails---salon-spa-1.jpg", "/photos/ly-nails---salon-spa-2.jpg", "/photos/ly-nails---salon-spa-3.jpg"]
 rating: 4.6
-review_count: 392
+review_count: 397
 price_range: "$$"
 amenities:
 
@@ -36,14 +36,6 @@ reviews:
     rating: 5
     comment: |
       I've been to see Amy a couple times now. I am not usually able to schedule an appointment ahead but she was able to bring my vision to life in like an hour! These are probably the cutest nails I've ever had. 🧸💖 Thank you so much, Amy!
-  - name: "Vixen Insert meme here"
-    rating: 5
-    comment: |
-      I honestly really liked the attention to detail the staff serving me had— I was really worried at first because I’ve had subpar experiences at other salons in the mall. However, this place really exceeded my expectations. They took a lot of time making sure the nails were as even as possible, and I really really appreciate that.
-      
-      I also got a pedicure from here, but I don’t want to show my toes online. Just believe me that it also turned out good. :)
-      
-      I will absolutely be returning! 🤍
   - name: "Kelsie Kelly"
     rating: 5
     comment: |
@@ -58,4 +50,9 @@ reviews:
       I’ve been getting so many compliments on my nails (like A LOT!), and it’s all thanks to her incredible work. She’s super talented, detail-oriented, and made the whole experience so comfortable and enjoyable.❤️
       
       Highly recommend Kim if you want stunning nails—you won’t be disappointed! 💅✨
+  - name: "River Cardinal"
+    rating: 1
+    comment: |
+      Went in for a brand new set on Friday, so exactly a week ago. One of my nails popped clean off not even 3 days into the set, not to mention I paid $78 with a $15 tip , so not cheap for a super short basic set. I went back, and was told that they would have to redo the whole set and it would cost me $40. I explained that would total up to more than $120 for this one set and to please just fix the nail that came off. It has now been one week exactly and another one popped clean off. Zero prep done on the nail bed, I’m most likely going to have to glue the whole set back on. For th price I paid, I’m so frustrated and disappointed. I would just skip wasting your money here and go elsewhere in the mall. And no I don’t have any interest in coming back and paying for another new set as that was my budget for the month for myself and I rarely ever get to treat myself as a new mom.
+      I included pictures of the work as the nail I got fixed is crooked and a completely different shape as well.
 ---

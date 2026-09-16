@@ -19,7 +19,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/m-nails-spa-1.jpg", "/photos/m-nails-spa-2.jpg", "/photos/m-nails-spa-3.jpg"]
 rating: 4.2
-review_count: 594
+review_count: 598
 price_range: "$$"
 amenities:
 
@@ -27,6 +27,27 @@ tags: ["edmonton", "acrylic"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Gracie Nielen"
+    rating: 5
+    comment: |
+      Long story short…AMAZING!!!
+      The girl who did my nails her name is
+      Ashley
+      and she’s is so nice and We had such a nice conversation, felt like actually talking to a friend, you know?
+      She was so gentle and paid so much attention to all the little details and I love that cause I do the same... honestly the best manicure I’ve ever gotten ever! like wow.
+      Definitely will being going back :)
+  - name: "Ember Herron"
+    rating: 5
+    comment: |
+      The service was wonderful!
+      I will definitely be coming back again!
+      They treat the nails like art pieces and they go above and beyond for your request.
+      
+      For example: I wanted a specific colour that they didn’t have my nail tech went to seek advice from a colleague and they made the colour for me instead of saying they didn’t have the colour they made it happen.
+      
+      I have never had nails this nice before and they pay attention to detail really well I myself paint in my spare time so sometimes I am very particular if I’d like something specific.
+      
+      All of them are friendly and great you right away thank you for the wonderful experience!
   - name: "riri"
     rating: 5
     comment: |
@@ -40,12 +61,4 @@ reviews:
     comment: |
       Prettiest nails I’ve ever had done! Only $85
       Staff is so nice too and professional. Appreciate the effort you guys put in! Thank you 🩵
-  - name: "Akosua Boadu"
-    rating: 5
-    comment: |
-      Dory did an amazing job, very detail oriented and copied the inspo exactly! Definitely coming back!
-  - name: "Mickie Roesch"
-    rating: 2
-    comment: |
-      We booked 2  3 pm appointments for pedicures. It was 3:20 when we got in. The gal I got gave me the quickest pedicure I have ever received. She was rough, in a big hurry and I never received the leg and foot massage I am used to. The price was way more than I have ever paid for a pedicure and for what I got, it was a rip off! I will never go back!
 ---

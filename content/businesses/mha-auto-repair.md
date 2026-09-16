@@ -28,20 +28,18 @@ reviews:
     rating: 5
     comment: |
       I needed new brakes. Called the dealership( I know, I know)…..they tried to bankrupt me. Called Sal and knew we made the right choice! Sal and Wally are honest upstanding guys. Will definitely be back and will tell everyone I can to get their repairs done at MHA Auto! Fantastic experience. Give them a call. I guarantee you won’t regret it!
-  - name: "Hank"
+  - name: "Mel H"
     rating: 5
     comment: |
-      My sister in law got an absurdly high quote from a franchise mechanic shop, so after seeing all the good things people have to say about MHA, we decided to give it a try, and it was the best decision we could have made.
-      Sal was very honest about what actually needed to be done, and even brought us into the shop to show us where his observation is coming from. He was even able to fix a screeching noise coming from the front end within seconds - any other place would take a full day and hundreds of dollars.
-      An honest mechanic is impossible to find these days, so I am very happy to have found this place. I will come for any future needs, and recommend to anyone that needs mechanical work.
-  - name: "Sanela Gjorgjevik"
+      Great customer service! Was told by the Ford dealership that my vehicle had multiple issues that was going to cost over 2k came here and found out there is nothing actually wrong with my vehicle! They were kind enough to show and explain where and what it would look like if there was a real cause of concern. Very friendly and professional! After spending some time with my vehicle they didn’t even charge me a dime! Definitely will be coming back for all future repairs. Thank you Sal & Wally!!
+  - name: "Ying"
     rating: 5
     comment: |
-      I took my jeep to find out what was wrong and they found it right away
-      And the amazing part was they didn't charge me for it. I was shocked because everywhere you go the shop will charge you.  Wally and Sal are amazing.. I booked my appointment and it's worth on wait for it.. they are very busy.
+      Mha is the most reliable garage for me. I work in Manitoba but return to Edmonton twice a year. Each time I'm in Edmonton, I take my car there for service and repairs because of their honest and excellent service. On several occasions, my repairs would have cost significantly more if I had gone elsewhere.
       
-      I would give them 10 🌟..
-      Thank you for being an Amazing Shop..
+      Recently, before I was set to drive back to Manitoba, I discovered that my transmission was not functioning properly. I took my car to a nearby garage, and their estimated repair cost shocked me. So, I went to Mha and explained to Sal that I had to leave in two days. Although it was a weekend, Sal came in to fix my car, and the charge was much lower than I had anticipated.
+      
+      Not long ago, I had repair reports done at another garage and presented them to Sal. He reviewed all the reported issues and confirmed that many of the recommended repairs were unnecessary. Mha’s honesty and outstanding service make me confident in bringing my car all the way from Manitoba for maintenance.
 hours:
   monday: "9:30 AM–5:00 PM"
   tuesday: "9:30 AM–5:00 PM"

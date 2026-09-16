@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/lucky-supermarket-3-1.jpg", "/photos/lucky-supermarket-3-2.jpg", "/photos/lucky-supermarket-3-3.jpg"]
 rating: 4.1
-review_count: 3082
+review_count: 3086
 price_range: "$$"
 amenities:
 
@@ -32,10 +32,14 @@ reviews:
     rating: 2
     comment: |
       I usually shop at freshco. I was in the area so I decided to check out lucky 97. Lots of vegetables and meat. Wide variety of foreign food. I look at some of  the prices for canned goods. It was double the price of what I can get at Freshco. I checked out some other items. Very expensive. The location is cool with the statues and such but I came to buy food not look at the ambience. I won't be back.
-  - name: "Inesh Munaweera"
-    rating: 4
+  - name: "Vera Zivkovic"
+    rating: 5
     comment: |
-      Got lots of Asian stuff. Prices are not too bad. One complain might be the neighborhood. So many homeless people and some will approach you for a buck. But they are friendly though. Glad it got plenty of parking around it.
+      Great place to shop. Reasonable prices. Good selection of products. Meat department is always fresh and you can choose your own pieces. More affordable than T&T for the same cuts of meat.
+      
+      You can choose to buy ready to eat meals or at the shop within the market, exceptionally cooked duck, pork, sausages, etc.
+      If you want to get some traditional Chinese medicine, teas, or shots of Royal Jelly, ginseng for health benefits and longevity, definitely check out their tea isle.
+      Lots to choose.
   - name: "kim ga"
     rating: 5
     comment: |
@@ -44,15 +48,12 @@ reviews:
       The inside of the store was newer than I expected, and the space was large.
       
       They have many types of vegetables, meat, live seafood and groceries. We found that the prices of some items were a bit lower than at other Asian grocery stores.
+  - name: "Inesh Munaweera"
+    rating: 4
+    comment: |
+      Got lots of Asian stuff. Prices are not too bad. One complain might be the neighborhood. So many homeless people and some will approach you for a buck. But they are friendly though. Glad it got plenty of parking around it.
   - name: "Shanta& Rajkumar"
     rating: 3
     comment: |
       Big Asian grocery store. They have great collection of herbs and vegetables that you may not be able to find anywhere. Fish, meat and frozen foods collection are also great. Freshly cooked foods are available here. Variety of processed food. You can find Asian fruits like jackfruit, mango and so on. We bought jackfruit but it didn’t ripe and not edible. All types of spices are available here. Lanes are wide enough for shoppers. However you will find store smells, probably from processed food. Price looks higher compared to other stores. Store is fairly clean. There are parking lot in front of the store. Recommend to try this store.
-  - name: "Nadi Nar Chhin (Nads)"
-    rating: 5
-    comment: |
-      I really enjoyed visiting this grocery store , I love all the options and for some of the veggies they had a little card explaining what is it and how to use it in dishes ! The prices were decent, the meat prices were really good which I can appreciate.
-      They do have a hot food section unfortunately I came too late to see the options.
-      
-      Overall would highly recommend ;)
 ---

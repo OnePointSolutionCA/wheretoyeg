@@ -37,10 +37,6 @@ reviews:
     rating: 5
     comment: |
       I visit at the St. Albert farmers market. You really can’t go wrong here, but my favourite is the pasty. I always have a larger chicken pot pie or tourtiere in the freezer - great for dinner parties with just a green salad for the side.
-  - name: "Nicole Kuehn"
-    rating: 5
-    comment: |
-      Love the Meat Street Pies folks - they are lovely! The salmon wellington and chicken pot pie hand pies are delicious. We always have to grab a few when we see their food truck out and about.
   - name: "Sam Domshy"
     rating: 5
     comment: |
@@ -49,4 +45,8 @@ reviews:
     rating: 5
     comment: |
       I ordered a tourtiere from their truck at Salisbury Farmers Market and it was DELICIOUS!! The perfect size, well-seasoned, and the pastry was perfectly flakey. Will order again!
+  - name: "Jaya Chauhan"
+    rating: 5
+    comment: |
+      Meat Street Pies with specialism in handcrafted pies and pasties with gluten free and vegetarian options is exceptional and compares incredibly well to Little Jack's Pies in the Farmers Market in Yeg now closed! Staff friendly and we had the special vegetarian quiche which was totally wholesome and yummy with spinach and greens - huge portion that can easily be shared and hot sauce to add makes it awesome.
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/maverick-studios-1.jpg", "/photos/maverick-studios-2.jpg", "/photos/maverick-studios-3.jpg"]
 rating: 5
-review_count: 73
+review_count: 74
 price_range: "$$"
 amenities:
 
@@ -36,10 +36,6 @@ reviews:
       Marcus was fantastic at giving direction throughout the session, helping with poses and expressions without making anything feel awkward or forced. The whole process was easy, enjoyable, and much less intimidating than I expected.
       
       The photos turned out better than I could have hoped for; professional, natural, and exactly what I was looking for! I’m so happy with the results and would highly recommend Maverick Studios to anyone needing corporate headshots or professional photos!
-  - name: "Aurea Siemens"
-    rating: 5
-    comment: |
-      I went to Maverick Studios to get new professional headshots for work and updating my LinkedIn profile. Marcus is excellent to work with  - he's friendly, professional and provided great tips and direction to bring out my best features.  I'm not a fan of getting my photos taken, but I felt totally comfortable and relaxed in his studio during the session and I'm thrilled with the results. Would absolutely recommend Maverick's services!
   - name: "Brittny Beamish"
     rating: 5
     comment: |
@@ -48,8 +44,14 @@ reviews:
     rating: 5
     comment: |
       Easiest 5 star review of my life. Marcus took care of me and helped me get some new refreshed professional business headshots. The headshots turned out amazing, and Marcus was super professional, and great to work with. I was afraid of not getting my smile to come out. Marcus has a such a natural process. I'll be booking with Marcus in the future for more headshots. Thanks again Maverick Studios
-  - name: "Alyssa"
+  - name: "Harshmanpreet Singh"
     rating: 5
     comment: |
-      Marcus was incredible to work with and is clearly highly talented. I went to him for headshots, and he made me feel completely comfortable throughout the session. He prepped me really well with posing and direction, which made a huge difference in the final look. I’m so happy with how the photos turned out and would highly recommend Marcus and Maverick Studios to anyone looking for high-quality, professional photography!
+      Had a great experience getting corporate headshots done with Marcus at Maverick Studios. He made the whole process feel relaxed instead of awkward, which made a huge difference in front of the camera.
+      
+      He gave clear direction on posing and expression, and it turned out looking great! Highly recommend if you’re in Edmonton and need headshots done right.
+  - name: "Aurea Siemens"
+    rating: 5
+    comment: |
+      I went to Maverick Studios to get new professional headshots for work and updating my LinkedIn profile. Marcus is excellent to work with  - he's friendly, professional and provided great tips and direction to bring out my best features.  I'm not a fan of getting my photos taken, but I felt totally comfortable and relaxed in his studio during the session and I'm thrilled with the results. Would absolutely recommend Maverick's services!
 ---

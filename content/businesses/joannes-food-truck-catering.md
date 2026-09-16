@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/joannes-food-truck-catering-1.jpg", "/photos/joannes-food-truck-catering-2.jpg", "/photos/joannes-food-truck-catering-3.jpg"]
 rating: 4.5
-review_count: 223
+review_count: 225
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,15 @@ tags: ["edmonton", "food-trucks"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Tatyana McNamara"
+    rating: 3
+    comment: |
+      I visited Joanna's Food Truck this evening. My first impression was that the food truck itself is really cool-looking and inviting.
+      I ordered the Maple Brisket Spud and asked when ordering if it came with cheese, as I can't have cheese. I was reassured that it didn't. Unfortunately, I ended up waiting almost an hour for my food, which was disappointing. If I had known the wait time beforehand, I probably would have chosen not to order.
+      When my meal arrived, it did have cheese on it. I politely asked if it could be removed, and the staff member was quick to fix the mistake. She also asked what other toppings were okay, and I explained that everything else was fine, I just needed it without cheese. I appreciated how promptly and politely she corrected the order.
+      I've never had a spiral spud before, so I'm not sure what the typical texture is supposed to be. I found mine to be quite dry and crunchy.
+      The Maple Brisket Spud was good, but for me, it wasn't worth the $14 price point, especially with the hour-long wait. Overall, it wasn't a bad experience. Better communication about wait times and a little more attention to dietary requests would have made the visit much better.
+      I would definitely recommend giving Joanna's Food Truck a try. Just be sure to ask about the wait times beforehand so you know what to expect.
   - name: "Reuben von Stein"
     rating: 5
     comment: |
@@ -52,8 +61,4 @@ reviews:
       
       A reply to the owner:
       I understand you do not like bad review on your restaurant, no one does. Instead of taking it as an offense, you should be taking it as a way to improve your food. First, food should not be served cold if it's meant to be served hot. If you've explained it was not actually fried rice that day then ive missed that, sorry. However, you do not need to talk rudely or be disrespectful to your customers. If you do not know how to interact with customers and provide good customer service even when they have complaints, You should not be running a business. Good day.
-  - name: "Ryan Spotowski"
-    rating: 5
-    comment: |
-      What a great find on the West Side. You can really see that someone is putting a lot of love and care into every meal. The food is outstanding. The brisket is well cooked and fall apart juicy. The rice and cornbread were delicious. I could barely finish all the food.
 ---

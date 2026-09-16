@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–5:30 PM"
 photos: ["/photos/launchpad-trampoline-park-2-1.jpg", "/photos/launchpad-trampoline-park-2-2.jpg", "/photos/launchpad-trampoline-park-2-3.jpg"]
 rating: 4.7
-review_count: 1467
+review_count: 1468
 price_range: "$$"
 amenities:
 
@@ -50,16 +50,18 @@ reviews:
       This place is great for birthday parties. It is so easy to manage the kids if you label their shirts as to which birthday party they belong to. The individual party room helps because the kids come back to the room to have quiet while they eat their food
       It gives them the opportunity to visit with one another. They have a blast using the facility and time goes by fast.
       My grandson's birthday party was a great success!😊
-  - name: "Sleepyjane"
-    rating: 5
-    comment: |
-      Went in on a wed the kids had a great time.  It was a deal day 3hr for the price of 1 and it was under 20 dollars. We had to buy socks i was thinking they would cost too much but under 5 dollars. They have a party area,  trampolines, little kid area and a couple claw games.  Great afternoon out with kids. Staff super friendly.
-  - name: "Amanda Falls"
-    rating: 5
-    comment: |
-      My kids love the glow jumping! Always a blast! The new yarn structure is super  fun! Don't forget to wear white or bright!
   - name: "Grap Fard"
     rating: 5
     comment: |
       We had a great time at launchpad. It started off with amazing check-in service at the front desk. The place is clean and organized for all ages to enjoy time together.
+  - name: "Taylor Worobec"
+    rating: 5
+    comment: |
+      Recently had my child's birthday here. The ease of service and knowledge of party packages was commendable.
+      I would like to thank Stanley and the rest of his co workers supporting him with my child's birthday party. His kindness and customer service went above and beyond.
+      Thank you Stanley and thank you Launchpad Team for a great Birthday experience.
+  - name: "Jodi Sherwood"
+    rating: 5
+    comment: |
+      Our go to spot for PD days! Never too busy and the kids love coming here and burning some energy. Love that they have so many comfy places for adults to sit, and that it's relatively easy to see your kid from most areas. Only suggestion I would make is to possibly improve the coffee/food selection.
 ---

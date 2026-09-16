@@ -5,8 +5,8 @@ category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Spruce Grove"
 address: "11 Westwind Dr #314, Spruce Grove, AB T7X 0V6"
-rating: 4.2
-review_count: 127
+rating: 4.1
+review_count: 129
 tier: "featured"
 phone: "(780) 948-4440"
 website: "https://www.lovepizza.ca/spruce-grove-westwind-centre"

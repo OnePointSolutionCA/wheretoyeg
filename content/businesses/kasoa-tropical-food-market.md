@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–6:00 PM"
 photos: ["/photos/kasoa-tropical-food-market-1.jpg", "/photos/kasoa-tropical-food-market-2.jpg", "/photos/kasoa-tropical-food-market-3.jpg"]
 rating: 4.2
-review_count: 524
+review_count: 525
 price_range: "$$"
 amenities:
 

@@ -25,15 +25,15 @@ reviews:
     rating: 5
     comment: |
       Gurmeet is my favorite mechanic here in Edmonton. I would never bring my car anywhere else. He is reasonable, honest, and fair with his pricing.
+  - name: "Viktor T"
+    rating: 5
+    comment: |
+      Highly recommend this workshop! I had zero knowledge about cars and was looking to buy one. I brought the car here for a checkup, and the mechanic quickly spotted issues the seller didn’t mention. Thanks to their honesty and expertise, I avoided a bad deal. If you need a trustworthy mechanic, this is the place to go!
   - name: "Simon"
     rating: 5
     comment: |
       They knew my car well (lincoln town car) no surprise charges on the bill, in fact some minor repairs were done for free.
       Highly recommend
-  - name: "Viktor T"
-    rating: 5
-    comment: |
-      Highly recommend this workshop! I had zero knowledge about cars and was looking to buy one. I brought the car here for a checkup, and the mechanic quickly spotted issues the seller didn’t mention. Thanks to their honesty and expertise, I avoided a bad deal. If you need a trustworthy mechanic, this is the place to go!
 hours:
   monday: "9:30 AM–7:00 PM"
   tuesday: "9:30 AM–7:00 PM"

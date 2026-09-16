@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM - 9:00 PM"
 photos: ["/photos/middle-child-burger-1.jpg", "/photos/middle-child-burger-2.jpg", "/photos/middle-child-burger-3.jpg"]
 rating: 4.8
-review_count: 210
+review_count: 218
 price_range: "$$"
 amenities:
   - "Halal"

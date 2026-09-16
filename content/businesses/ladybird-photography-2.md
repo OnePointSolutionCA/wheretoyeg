@@ -38,6 +38,10 @@ reviews:
     rating: 5
     comment: |
       My son and I had a wonderful experience with Lisa and Nicole. The communication was effortless. The accommodation quick and easy. We got our photos that same week and there was no pressure to select. So many great shots to choose from! Thank you ladies. I will definitely be recommending your expertise to friends and family!
+  - name: "Leah Burke"
+    rating: 5
+    comment: |
+      Lisa and Nicole are lovely people to work with! Response times and communication are amazing and the work that Lisa provides is incredible! She did an awesome job at making the whole family feel comfortable (even those that don’t particularly enjoy having their photos taken) and left us all in awe at how our photos turned out when we got them back less than a week after our session. Will definitely be contacting these ladies again in the future :)
   - name: "Mashoqa Hamidi"
     rating: 5
     comment: |
@@ -52,8 +56,4 @@ reviews:
       Update :
       We came back with our little one, and once again, Lisa and Nicole did absolutely amazing. They were so gentle and showed so much patience with our newborn. Lisa did an amazing job capturing our little one. The session we chose to do is the Essentially Newborn Session, it was baby led and Lisa had so many cute outfits that captured what I wanted from the session.
       I 100% recommend Lisa's services and her business!
-  - name: "Johanna Silver"
-    rating: 5
-    comment: |
-      Lisa is more than just a photographer, she truly is a digital artist. Her composites are beyond magical! She has the patience to deal with newborns and bigger kids with amazing warmth and calm. If you are looking for fantastical masterpieces of your new baby or kids, I HIGHLY recommend Ladybird!
 ---

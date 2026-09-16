@@ -5,7 +5,7 @@ category: "spas-esthetics"
 neighborhood: "Beaumont"
 address: "5001 48 St, Beaumont, AB T4X 1H7"
 rating: 4.8
-review_count: 206
+review_count: 207
 tier: "featured"
 phone: "(780) 232-0965"
 website: "http://www.lalaserandspa.ca/"
@@ -19,12 +19,6 @@ reviews:
       Very first time visiting this gorgeous spa.  I had the most incredible experience  for the minute I walked in to walking out. I was in the Rainforest room getting my first head spa and facial. It was incredible!!
       Jaci  is very welcoming  and explained in detail what to expect it was so amazing.
       Thank you so much! I will be back!
-  - name: "Kirsten Marcellus"
-    rating: 5
-    comment: |
-      I had the most incredible spa experience of my life in the Rainforest room getting my first head spa and facial. It was incredible!!
-      Kayla is very detailed and skilled at what she does and was so amazing.
-      Thank you so much! I will be back!
   - name: "Aurora L"
     rating: 5
     comment: |
@@ -35,10 +29,14 @@ reviews:
     rating: 5
     comment: |
       The place is beautiful, the theme rooms are beyond lovely, Renee was delightful and kind and informative. She took extra time after my appointment to answer questions and share with me. The appointment/experience itself was amazing. All the little touches were appreciated.
-  - name: "Natalie"
+  - name: "Amelia Cave"
     rating: 5
     comment: |
-      I had a wonderful experience. I have never done a head massage or facial, I was well cared for and she even spent extra time. I will 100% be returning and recommending it to friends and family
+      The scalp spa and facial was seriously one of the most relaxing services I have ever received. From start to finish it was the best experience. Would highly recommend this place!
+  - name: "Sherry Shewchuk"
+    rating: 5
+    comment: |
+      The service I had with my mom was excellent . It was so relaxing and the lady who did my hair spa and facial was amazing at what she does and was kind. Can't wait to book again.
 hours:
   monday: "Closed"
   tuesday: "10:00 AM–8:00 PM"

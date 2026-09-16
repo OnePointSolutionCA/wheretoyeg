@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–7:00 PM"
 photos: ["/photos/lustry-nails-spa-south-common-1.jpg", "/photos/lustry-nails-spa-south-common-2.jpg", "/photos/lustry-nails-spa-south-common-3.jpg"]
 rating: 4.7
-review_count: 385
+review_count: 392
 price_range: "$$"
 amenities:
 
@@ -38,10 +38,6 @@ reviews:
     rating: 5
     comment: |
       Called morning of and got an appointment for a pedicure easily. Jade was sweet and It was just a nice relaxing time, got me green tea which was nice since its been cold and raining. The place looks as cute and girly as it always does! Massage chairs are so relaxing and definitely needed after a long month lol. She let me finish my massage time even after she was done with my pedicure. (Also huge,  beautiful, bird of paradise in the corner!🩷)
-  - name: "Olivia Benson"
-    rating: 5
-    comment: |
-      I switched over to gel x nails from acrylic and started coming here as my previous salon didn’t offer gel x. I’m always super happy with my results and they last forever with minimal nail damage. The price is always reasonable as well especially considering the quality and longevity. Salon always feels very clean too which is nice. Every nail tech i’ve had has done a great job and I will always come back here when i’m in town!
   - name: "Kim Zomerman"
     rating: 5
     comment: |
@@ -54,4 +50,8 @@ reviews:
       I came to this salon looking for a last minute nail appointment. I booked for 11am. I came in, showed the receptionist my inspo pics, and then sat down. My service didn’t actually start until just under a half hour later. I got a removal and a new set, and as my tech was starting to put my acrylic powder on, I realized the receptionist never told me a price for the original inspo pic. They wanted $165 … $90 of it being for gems … I very quickly had to scramble and find something new, because $165 is absolutely insane for a set of nails. My tech didn’t chat with me during the appointment, but various employees came and sat and talked with her instead. I ended up getting some dots on my nails, which was still a $15 extra charge … I feel like this salon is advertised as such a luxurious experience, where they go above and beyond. But I didn’t feel like that was the case. I’ve paid the same price, for significantly more detailed nails, with better service.
       
       Unfortunately, I don’t think I’ll be using this salon again. The price isn’t justifiable for the average at best service.
+  - name: "Avry Sabo"
+    rating: 5
+    comment: |
+      I had a great experience at Lustry! My sister and I have very sensitive nails, and they did our nails with care, gentleness and efficiency. (We had Paul and Kylie doing our manicures). It did not take long at all, but even if it did, I would've been fine being there longer because of how beautiful it is. It’s extremely well decorated, welcoming, and comfortable. The staff is very good at what they do, and very kind. I will be recommending this nail salon to everyone I know! :)
 ---

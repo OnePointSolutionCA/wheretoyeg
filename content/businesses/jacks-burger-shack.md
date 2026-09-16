@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/jacks-burger-shack-1.jpg", "/photos/jacks-burger-shack-2.jpg", "/photos/jacks-burger-shack-3.jpg"]
 rating: 4.6
-review_count: 340
+review_count: 342
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -34,14 +34,6 @@ reviews:
     rating: 4
     comment: |
       Got a burger and a poutine. Was a little underwhelming, especially given the rave reviews of this place, maybe its strength is in the other burgers (this one is just a classic burger). One of the thinnest smash burgers in the city, so if that’s a bonus, this is for you. The bun was very soft and fluffy, overall the burger reminded me of a barbecue. The poutine was definitely not great, but it’s a burger shop, so maybe focus on the burgers and not the fries. Overall a refreshing burger, so it’s good if you want something to eat that isn’t overly greasy/heavy on the stomach.
-  - name: "harvey panesar"
-    rating: 5
-    comment: |
-      Burger was fantastic. I had the mushroom and Boison with a Creamsicle shake. Awesome! Highly recommend!
-      
-      Molly was great too! Awesome service !
-      
-      Will definitely be back!
   - name: "David Dittrich"
     rating: 5
     comment: |
@@ -58,4 +50,8 @@ reviews:
       The menu has great options for all tastes, from classic cheeseburgers to creative specialty burgers. Their fries are crispy and golden, and the milkshakes are thick, creamy, and absolutely delicious.
       
       The atmosphere is casual and inviting, and the staff is always friendly and welcoming.
+  - name: "Eric Closs"
+    rating: 5
+    comment: |
+      Fantastic Burger & Fries. Fast, friendly, clean. Great place to grab a bite to eat. The order of fries could be shared between two people, but I ate all of them myself.
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–10:00 PM"
 photos: ["/photos/japonais-windermere-1.jpg", "/photos/japonais-windermere-2.jpg", "/photos/japonais-windermere-3.jpg"]
 rating: 4.5
-review_count: 966
+review_count: 974
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,6 +30,12 @@ tags: ["edmonton", "sushi"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Sofina"
+    rating: 5
+    comment: |
+      We stopped in for dinner on our first visit and left impressed. The interior is simple, modern, and thoughtfully designed, with dim lighting that creates a relaxed and intimate dining atmosphere.
+      We ordered the Beef Tataki, Yam Tempura, several fresh tuna dishes, and the New Style Roll. Everything was beautifully presented, fresh, and full of flavor. Service was also excellent. Erika was friendly, attentive, and efficient throughout our meal.
+      There are still plenty of menu items we'd love to try, so we'll definitely be back. A great first experience, and I would happily recommend this spot to anyone looking for quality Japanese cuisine and great service.
   - name: "tanvi mahajan"
     rating: 5
     comment: |
@@ -61,16 +67,4 @@ reviews:
       The amount of food is good for 2.
       It has a sophisticated ambiance that makes it a great spot for a date lunch/night.
       I would love to come back to try out more food from their menu.
-  - name: "Jazzent Rubite"
-    rating: 2
-    comment: |
-      We visited Japonais Japanese Restaurant for Father's Day around dinner time. The restaurant was quite busy, but overall we had a good experience.
-      
-      We ordered the Dynamite Sushi, Kids Shrimp Udon, Short Ribs, and the Robata Bento. Everything tasted great and was what we've come to expect from the restaurant. The food was flavorful, well-prepared, and my family enjoyed their meals.
-      
-      The only issue we had was with the Chicken Karaage. When I bit into one of the pieces, the center appeared raw. I brought it to the server's attention, and they spoke with the cook. I was told that what I saw was just veins, but I am fairly certain that the chicken was undercooked. Unfortunately, nothing was offered to address or compensate for the issue.
-      
-      What made this especially concerning was that my wife, who is pregnant, had already taken a bite before we noticed the issue. Naturally, this raised concerns for us, given the risks associated with consuming undercooked chicken during pregnancy. While I understand mistakes can happen, I was disappointed that the concern did not seem to be taken more seriously.
-      
-      Aside from that issue, the rest of the meal was enjoyable. I've included a photo so others can judge for themselves.
 ---

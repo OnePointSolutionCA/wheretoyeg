@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Mill Woods"
 address: "8803 51 Ave NW, Edmonton, AB T6E 5H1"
 rating: 4.8
-review_count: 533
+review_count: 534
 tier: "featured"
 phone: "(587) 984-2962"
 website: "https://mikethemechanic.ca/"

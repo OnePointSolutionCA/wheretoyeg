@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Beaumont"
 address: "4905 30 Ave Unit 101, Beaumont, AB T4X 1T9"
 rating: 5
-review_count: 175
+review_count: 177
 tier: "featured"
 phone: "(587) 672-2211"
 website: "https://www.lumi-dental.ca/"

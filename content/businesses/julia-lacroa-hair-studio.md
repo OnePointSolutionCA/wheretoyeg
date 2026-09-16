@@ -5,7 +5,7 @@ category: "hair-salons"
 neighborhood: "Spruce Grove"
 address: "210 McLeod Ave Unit 80, Spruce Grove, AB T7X 2K5"
 rating: 5
-review_count: 16
+review_count: 17
 tier: "featured"
 phone: "(825) 220-0211"
 website: "https://book.squareup.com/appointments/pvrl2uvc42q8b2/location/L8EQ7PA9G64DT?ahbb=1&gei=PHYXad7hG_Oo0PEPyOyamAg&gsas=1&hl=en-CA&rwg_token=ACgRB3fyZiHLCVHIYa-AIgTYDzeI7J-YHUK4nJKJ3BB-QlY1fdS_y1NTKimZcDH2bDtlL-N_jqhmX6ilKXUDa0P-aLLqqquS7A%3D%3D"

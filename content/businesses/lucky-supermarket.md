@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/lucky-supermarket-1.jpg", "/photos/lucky-supermarket-2.jpg", "/photos/lucky-supermarket-3.jpg"]
 rating: 4.4
-review_count: 850
+review_count: 854
 price_range: "$$"
 amenities:
   - "Dine-In"

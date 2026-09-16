@@ -30,15 +30,14 @@ reviews:
     comment: |
       Went to kb and co for my first time today and I could not of been more happy with how good the service and food was. The ladies working were very polite and helpful and made it a great experience. I would highly recommend going to kb and co for
       good quality meals and smoothies made by very friendly staff!!
+  - name: "KS"
+    rating: 4
+    comment: |
+      In love w their cookies and cream protein shake. I will say the customer service is quite variable. The hours esp on the weekend is interesting that it only opens @10 for a healthy place should cater to people who wake up sooner in the day. Also this sign is silly.
   - name: "Chad Andress (Chad)"
     rating: 5
     comment: |
       I got the PB smoothie and avocado and mushroom toast and it was amazing! I'm someone who usually always has some kind of meat with my meals but here that didn't matter. I love the promotion of healthy food and it being actually healthy not like some of those restaurants that claim to be but aren't actually. I would want to come back but unfortunately I live in Ontario and there doesn't seem to be in locations outside of Alberta.
-  - name: "Justin Evans"
-    rating: 5
-    comment: |
-      This is my absolute go-to for healthy eats in Sherwood Park! I couldn't be more kale-ated to have a spot like this nearby—the smoothies are awesome and the fresh food is truly un-beet-able.
-      I find myself eating here all the time because they make it so peas-y to stay on track. Huge shoutout to the staff who are always so kind, and the music/vibes are consistently on point. So proud to see a local business doing such big things—you’re really raising the root for healthy food in town!
 hours:
   monday: "9:00 AM–7:00 PM"
   tuesday: "9:00 AM–7:00 PM"

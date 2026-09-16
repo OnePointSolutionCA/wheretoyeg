@@ -51,18 +51,8 @@ reviews:
       Before coming to Lipstick Empire and seeing Lindsay, I struggled with my skin and constant breakouts. She created a routine that works perfectly for me, and now, in my 40s, my skin has honestly never looked or felt this good.
       
       She’s professional, knowledgeable, and genuinely cares about her clients. Her facials are incredibly relaxing, and her face massages are amazing. I always leave feeling calm, refreshed, and really well taken care of. Whether you feel like chatting or just fully relaxing, both feel completely comfortable. I’ve always been so happy with my experience and highly recommend her.
-  - name: "stephanie p"
+  - name: "Amanda Clements-Harvey"
     rating: 5
     comment: |
-      If I could give more than 5 stars, I absolutely would!
-      
-      I highly recommend Lipstick Empire to anyone looking for a cozy, comfortable, and welcoming environment for facials, waxing, laser treatments, or any of the other services they offer. From the moment you walk in, you can feel the positive energy.
-      
-      Every staff member always has a smile on their face and is extremely helpful with any inquiries or even last-minute appointment changes. They truly go out of their way to make you feel valued and taken care of.
-      
-      I’ve been going to Kourtnee for over a year for waxing, and she has always been professional, kind, and incredibly thorough. When I became interested in laser hair removal, she took the time to explain everything in detail and made sure I felt completely informed and comfortable before starting. During every appointment, she consistently checks in to make sure I’m comfortable and that the treatment isn’t too painful.
-      
-      She also performed a facial for me when I was struggling with dry skin, and it was such a great experience that I’ve already booked another one!
-      
-      1000% a positive experience every time — highly, highly recommend!
+      The team at Lipstick Empire is fantastic and I always feel welcomed and well cared for. Lindsay  does an amazing job helping advise as to my skin’s needs and I leave feeling pampered and relaxed! I have used many of their skincare products and would also recommend.
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/luvie-nails-spa-1.jpg", "/photos/luvie-nails-spa-2.jpg", "/photos/luvie-nails-spa-3.jpg"]
 rating: 4.9
-review_count: 522
+review_count: 523
 price_range: "$$$"
 amenities:
 
@@ -34,10 +34,14 @@ reviews:
       I’ve been going to Jenny for a while now and she is honestly one of the best nail techs there! She never disappoints. Her attention to detail is amazing, and she always makes sure my nails come out perfect every single time.
       Jenny takes her time and really cares about her work, which shows in the results. My nails always look clean, shaped beautifully, and last so long without any issues. I always leave feeling so happy with them!
       She’s also super friendly and makes the whole experience comfortable and enjoyable. I wouldn’t go to anyone else—highly recommend booking with Jenny if you want your nails done right!
-  - name: "Ri S"
+  - name: "Rianne"
     rating: 5
     comment: |
       Jenny is truly the queen of French tips. I’m a through-and-through French tip girly and she absolutely kills it every single time. Her attention to detail is unreal and the lines are always crisp, clean, and perfectly shaped. She really takes the time to make sure your nails and fingers look beautiful no matter what shape you choose. You can tell she genuinely cares about her work and making sure you leave happy. My sets always look flawless and last so well. If you’re picky about your French tips like I am, Jenny is the one you need to go to.
+  - name: "jennifer trang"
+    rating: 5
+    comment: |
+      Daisy/Dung is the best nail tech I’ve ever had! She matched my inspo photo exactly how I wanted it, they haven’t chipped or anything yet either while on my Hawaii and LA trip. Highly recommend ☺️
   - name: "Amra Alickovic"
     rating: 5
     comment: |
@@ -48,10 +52,4 @@ reviews:
     rating: 5
     comment: |
       My nails are very normal today but that's exactly what I wanted. Sometimes life calls for classy nails 💅. This place was packed on a Friday but they still took me in quickly. I see why it's busy, everyone is so nice and efficient. Thank you Kimmy! The acrylic is thin, the sign of an expert, and the back of the nail is nicely shaped. Some techs miss those details. I'm looking forward to exploring designs.
-  - name: "Amy Young"
-    rating: 5
-    comment: |
-      I Got a pedicure and Acrylic nails with Muna and she did an amazing job!
-      She's great at the nail design that I showed her, and she was able to create it in my budget.
-      She is very friendly as well ⭐️⭐️⭐️⭐️⭐️
 ---

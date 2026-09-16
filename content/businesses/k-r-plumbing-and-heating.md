@@ -28,10 +28,6 @@ tags: ["edmonton", "emergency"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Sergio Rodriguez"
-    rating: 5
-    comment: |
-      After seeing their 5-star Google reviews, I reached out about my failing water heater. Kyle was incredibly responsive and, unlike other companies, didn't try to charge an assessment fee just to show up. He was extremely personable, professional, and gave me clear options and solutions without any 'nickel and diming.' From the first call to a full water tank installation, the entire process took less than 24 hours. Exceptional service and fair pricing, highly recommend for any plumbing or heating emergency and or maintenance.
   - name: "brett kezama"
     rating: 5
     comment: |
@@ -50,10 +46,6 @@ reviews:
       July 2026 update. Been waiting for my AC electrical permit for 4 months now. I realize this is out of their control but the communication has plummeted. Communication has been sparse and not sure if I’ll ever get this project closed out completely. All I need is an inspection and sticker and this is taking way too frustratingly long.
       
       July 26 update. Issue has been resolved and a refund has been granted. The communication has improved and hopefully continues to, great guys regardless.
-  - name: "Andy Oliveira"
-    rating: 5
-    comment: |
-      Just upgraded my 40 gallon tank to a 50 gallon tank. Install went great and they worked with me on a better spot to place the bigger tank to create more space in my utility room. I’m located in Edmonton.
   - name: "Meagan Baskett"
     rating: 5
     comment: |
@@ -61,4 +53,12 @@ reviews:
       Gave us a quote and were able to come the next morning And showed up in the time frame predicted.
       Very professional, very responsive, friendly and hardworking, will absolutely use again for future plumbing needs!
       Thanks K&R Plumbing for giving us our hot water back and helping to keeping our basement dry!!
+  - name: "Brady Goebel"
+    rating: 5
+    comment: |
+      Absolutely blown away by the service we received on our AC install in our new house. From the very onset of getting a quote all the way through the install and the instructions afterwards. Nice, honest and care about quality of workmanship. Will be using K & R for all of our future plumbing and heating needs
+  - name: "Sergio Rodriguez"
+    rating: 5
+    comment: |
+      After seeing their 5-star Google reviews, I reached out about my failing water heater. Kyle was incredibly responsive and, unlike other companies, didn't try to charge an assessment fee just to show up. He was extremely personable, professional, and gave me clear options and solutions without any 'nickel and diming.' From the first call to a full water tank installation, the entire process took less than 24 hours. Exceptional service and fair pricing, highly recommend for any plumbing or heating emergency and or maintenance.
 ---

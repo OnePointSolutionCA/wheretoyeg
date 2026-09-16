@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Beaumont"
 address: "5012 50 St, Beaumont, AB T4X 1E7"
 rating: 4.4
-review_count: 273
+review_count: 275
 tier: "featured"
 phone: "(780) 737-4588"
 website: "http://jefscafe.ca/"
@@ -35,17 +35,18 @@ reviews:
     rating: 5
     comment: |
       I had a wonderful experience at Jef’s Café in Beaumont! I ordered the stuffed French toast with strawberry and cream cheese filling, and it was absolutely delicious. The French toast was warm, soft, and perfectly balanced with the sweet strawberries and creamy filling. It felt like breakfast and dessert on one beautiful plate! I’ll definitely be coming back to try more from the menu. Highly recommended!
-  - name: "Dean Relland"
+  - name: "Carson Wyndham"
     rating: 5
     comment: |
-      This place is the closest place that reminds me of a neighbor's or relatives house.
+      ⭐⭐⭐⭐⭐
       
-      It is cozy.  It is laid back.  It is comfortable.
+      I honestly can’t say enough good things about Jeff’s Cafe in Beaumont! The food is fantastic, the people are incredibly welcoming, and the whole place just has such a great atmosphere. It’s the kind of local spot that makes you want to stay awhile rather than just eat and leave.
       
-      My wife LOVES the latte.  I love the dill pickle soup.
-      It was nice to see about 12 people in here over lunch.
+      Great food, great coffee, friendly people, and a comfortable, relaxed atmosphere. As someone who works remotely, I could easily see myself setting up here with my laptop, getting some work done, enjoying a coffee and having lunch. ☕💻
       
-      This is one of my favourite Beaumont shoppes.
+      There’s something special about finding a genuinely great local cafe like this. I’ll definitely be back. If you’re in Beaumont, Jeff’s Cafe is absolutely worth checking out!
+      
+      ⭐⭐⭐⭐⭐ Highly recommended!
 hours:
   monday: "9:00 AM–5:00 PM"
   tuesday: "9:00 AM–5:00 PM"

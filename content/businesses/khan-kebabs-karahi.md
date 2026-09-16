@@ -21,7 +21,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/khan-kebabs-karahi-1.jpg", "/photos/khan-kebabs-karahi-2.jpg", "/photos/khan-kebabs-karahi-3.jpg"]
 rating: 4.6
-review_count: 2064
+review_count: 2068
 price_range: "$$"
 amenities:
   - "Halal"
@@ -40,6 +40,10 @@ reviews:
     rating: 5
     comment: |
       We went to celebrate my brother’s birthday here and had such an incredible experience! The atmosphere was warm and welcoming, and our server was friendly and attentive throughout the meal. She was also very patient while we figured out the different items they offer on the menu. We ordered the Family Mandi Platter and Kabuli Pulao and both dishes were SO GOOD. The flavours were well balanced and the portions were generous, and we were a family of seven. The chicken and lamb were so soft, it was falling off the bone. And the sauces! Holy moly did it round out the meal! Would definitely come back and recommend this place to others.
+  - name: "Mutahir Iftikhar"
+    rating: 5
+    comment: |
+      One of the best Pakistani restaurants in Edmonton! The food was fresh, delicious, and cooked perfectly. The kabab was especially delicious — juicy, tender, and full of authentic Pakistani spices. If you’re looking for great Pakistani food in Edmonton, I definitely recommend giving this place a try. Great taste, good quality, and a place I would happily visit again!
   - name: "Hamd-E-Rabbee Abbasi"
     rating: 5
     comment: |
@@ -52,8 +56,4 @@ reviews:
       Food: Below average overall. Karahi was too salty for me and frankly I am not sure if it was freshly made, because it came to our table 15 min after placing the order. Pulao was fragrant with spices, but taste was bland and lacked the flavor of the meat/stock.
       
       Atmosphere: Very nice, neat and clean with good decor and comfortable chairs.
-  - name: "Sentinel Shade Systems"
-    rating: 5
-    comment: |
-      The food and the service here were top notch! So much flavor and huge servings. We got the family platter with a mix of chicken and beef. It was a great experience and the whole family really enjoyed. Thanks Harmon for the excellent service. We will be back for sure!
 ---

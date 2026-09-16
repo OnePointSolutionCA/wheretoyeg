@@ -20,7 +20,7 @@ hours:
   sunday: "7:00 AM–11:00 PM"
 photos: ["/photos/major-pest-control-edmonton-inc-1.jpg", "/photos/major-pest-control-edmonton-inc-2.jpg", "/photos/major-pest-control-edmonton-inc-3.jpg"]
 rating: 4.9
-review_count: 3913
+review_count: 3921
 price_range: "$$$$"
 amenities:
 
@@ -28,14 +28,11 @@ tags: ["edmonton", "pest-control"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Simranjit Kaur"
+  - name: "Kathleen V."
     rating: 5
     comment: |
-      Oliver was really great at explaining everything before and after the treatment. I really appreciated how patient he was and how he took the time to answer all of my questions. He made the whole process easy to understand and made me feel comfortable throughout. He was also very respectful of our sacred room, which meant a lot to us. I would definitely recommend him to anyone looking for pest control service.
-  - name: "Lupe K"
-    rating: 5
-    comment: |
-      We unfortunately had two yellowjack nests that were very active. One that was under a huge rock and another in our shed. I contacted Major Pest Control and they were SO fast to reply. They were at my house within the next day. They gave me plenty of notice when they would arrive. Oliver came and I explained the situation and he took care of everything right away. He was informative and answered all my questions (I have a dog and daughter which was concerning with the chemicals) but he reassured me that it would be okay! He was very nice and completed the extermination very quick! Highly recommend!
+      Exceptional service from start to finish! I would like to commend Mahendra for his excellent service. He was knowledgeable, professional and super friendly! He arrived on time, explained everything clearly, and did a thorough job addressing the pest issue. I really appreciate how quickly he responded to our concerns and even provided Tips on what we should do!
+      Highly recommend him and their service to anyone looking for reliable, professional, and effective pest control. Thank you for the Excellent work!
   - name: "LATIFUL KARIM KHAN"
     rating: 5
     comment: |
@@ -44,12 +41,16 @@ reviews:
       Ray conducted a thorough inspection and provided a clear, professional explanation of the treatment process. The team is highly skilled and ensures the job is completed effectively.
       
       I intend to refer my friends, family, and colleagues to Major Pest Control for any residential or commercial pest control needs. They are truly the best in town.
+  - name: "Simranjit Kaur"
+    rating: 5
+    comment: |
+      Oliver was really great at explaining everything before and after the treatment. I really appreciated how patient he was and how he took the time to answer all of my questions. He made the whole process easy to understand and made me feel comfortable throughout. He was also very respectful of our sacred room, which meant a lot to us. I would definitely recommend him to anyone looking for pest control service.
   - name: "Katie Hasenbank"
     rating: 5
     comment: |
       We had an extremely positive experience with Major Pest Control. I called in the morning regarding a wasp nest and the woman I spoke to on the phone was so helpful and clear. She was very reassuring. Our technician Jojo came out within only a few hours and professionally and thoroughly took care of the problem! His instructions were very clear and I feel very satisfied with his work. I appreciate the 6 month warranty as well, and felt the price was very fair. I would recommend Major Pest Control to anyone dealing with a pest issue!
-  - name: "Halkano Idi"
+  - name: "Jay Frogs"
     rating: 5
     comment: |
-      Major pest control technician MAHENDRA  is knowledgeable and respected person.  He done very good  service.  We are highly appreciated.  He arrived on time. I'm recommending major pest to who needs pest services.
+      Major Pest Control provided reliable and speedy service while working around my schedule.  The service level was excellent from booking the appointment to having the work completed promptly.  Don was knowledgeable, polite and courteous.  He destroyed two wasp nests for me; no concern of them coming back to nest in the same spots.  I highly recommend giving this team a call for your pest control issues.
 ---

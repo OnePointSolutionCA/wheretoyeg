@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "1 Londonderry Mall NW, Edmonton, AB T5C 3C8"
 rating: 4.3
-review_count: 139
+review_count: 140
 tier: "featured"
 phone: "(780) 476-3188"
 website: "http://www.londonderrydentalcentre2.com/"
@@ -32,16 +32,16 @@ reviews:
     rating: 5
     comment: |
       The staff who worked there were straight forward and assured me I was going to get proper help. Yash the Hygienist was very helpful and also reassuring. Cleaned my teeth very throughly despite I haven't seen a dentist in a long while. I'm probably going to regularly visit from them from here on. Also their hours are very convenient since I work during the day.
-  - name: "Nancy McNeil"
-    rating: 5
-    comment: |
-      This is a great dental office. Everyone is friendly and professional from the front desk staff to the dentists. I have been going to only this dentist for 12 years now.
   - name: "Ami Esmail"
     rating: 5
     comment: |
       This is my first time at this dental clinic but it won't be my last time. Everyone from the front desk to the Dentist are excellent! Friendly, compassionate and knowledgeable. Yash is excellent at what he does and Dr. Landa and Raika are amazing!
       
       Thankyou!
+  - name: "Uche Okike"
+    rating: 5
+    comment: |
+      Had my teeth clean with Hygienist Yash… What a great job he has done.. Removed all the build up and stains from my teeth.. He showed me photos before and after as well.. I checked into mirror and left the place happily… I thought I should shout to Yash for his great job…! Thank you..
 hours:
   monday: "8:30 AM–7:30 PM"
   tuesday: "8:30 AM–7:30 PM"

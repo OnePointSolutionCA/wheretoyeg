@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/jumbo-dim-sum-1.jpg", "/photos/jumbo-dim-sum-2.jpg", "/photos/jumbo-dim-sum-3.jpg"]
 rating: 4.3
-review_count: 1864
+review_count: 1865
 price_range: "$$"
 amenities:
   - "Dine-In"

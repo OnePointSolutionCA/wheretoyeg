@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "222 Baseline Rd #250, Sherwood Park, AB T8H1M4"
 rating: 4.8
-review_count: 6775
+review_count: 6788
 tier: "featured"
 phone: "(780) 467-6255"
 website: "https://joeyrestaurants.com/location/joey-sherwood"
@@ -30,6 +30,10 @@ reviews:
       The food here never misses, and the vibe at the JOEY Sherwood location is always great. We will definitely be back soon. Highly recommend!
       
       Love the Service here as they’ve always been accommodating to us and so friendly and understanding. Amazing restaurant
+  - name: "Sherry D"
+    rating: 5
+    comment: |
+      C’mon now… if you have never eaten here this is the sign you have been waiting for. Eating out is expensive so it takes more than good food to get you out. Well, the food was EXCEPTIONAL. The flavors, the variety .. the attention to details. The environment was bumpin but it still felt personal and we could easily chat and enjoy our friendship date out. I always check the bathroom - clean check and check … service people were attentive and friendly with just the right amount of glasses filled, order taken, plates removed etc. overall, can’t wait to go again.
   - name: "Terry Sims"
     rating: 5
     comment: |
@@ -46,10 +50,6 @@ reviews:
       A special shoutout to the hostess, Jemima, who went above and beyond. She was so professional, well-presented, and made us feel genuinely welcomed from the moment we walked in. Definitely made the experience even better!
       
       Will definitely be coming back.
-  - name: "Hayli Bucharski"
-    rating: 5
-    comment: |
-      Mercedez was a great waitress! We came to celebrate my grandpa’s 82nd birthday and we were not disappointed. The food and service were great to begin with, but then they brought out a huge dessert board for his birthday! Thank you so much Joey Sherwood, you made his day :)
 hours:
   monday: "11:00 AM–12:00 AM"
   tuesday: "11:00 AM–12:00 AM"

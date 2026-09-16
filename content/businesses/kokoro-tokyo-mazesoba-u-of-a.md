@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–11:00 PM"
 photos: ["/photos/kokoro-tokyo-mazesoba-u-of-a-1.jpg", "/photos/kokoro-tokyo-mazesoba-u-of-a-2.jpg", "/photos/kokoro-tokyo-mazesoba-u-of-a-3.jpg"]
 rating: 4.8
-review_count: 422
+review_count: 426
 price_range: "$$"
 amenities:
   - "Dine-In"

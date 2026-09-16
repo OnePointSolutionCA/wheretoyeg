@@ -59,9 +59,10 @@ reviews:
       DONT GO HERE FOR PREGNANCY ULTRASOUNDS!!!
       
       I was in here a few weeks ago getting ultrasounds done, it was my first pregnancy. I had many ultrasounds done within the month and two out of three nurses were incredibly rude. I didn’t want to say anything during my first appointment as I didn’t know I could until I spoke to my doctor who said otherwise. Not only was she extremely rude, she was really rough ( I think her name was Huda) And when I asked to see the screen the second time and to have my partner with me, which is allowed, the nurse said no and refused to turn the screen on. Even saying there was no heart beat and she couldn’t see anything when the chart said otherwise. Left my parter waiting outside and then letting me cry thinking something was wrong. Loved the third nurse though she was extremely nice and apologized for her coworkers, I wish I caught her name as she was AMAZING.
-  - name: "Danny Stolz"
-    rating: 5
+  - name: "Nicole C"
+    rating: 1
     comment: |
-      It was very busy when I went in, but the wait wasn't too long, the chairs aren't uncomfortable, I didn't see a spot to charge a phone. The nurses were very nice and helpful.
-      The doctor i saw made time for me, asked questions and took my concerns seriously. I will come be if I ever need to.
+      I’m very disappointed with my experience at this clinic. What should have been an exciting and reassuring experience during my pregnancy ended up being stressful and upsetting. I reached out afterward by email to explain what happened and how the experience made me feel, but unfortunately I never received a response or even an acknowledgment.
+      
+      That lack of communication made an already upsetting situation feel even worse. Pregnancy can be an emotional and vulnerable time, and I believe patients deserve to be treated with compassion, respect, and understanding. I truly hoped my concerns would at least be heard and taken seriously. I have been seeing other clinics at this point and honestly wish I went there sooner.
 ---

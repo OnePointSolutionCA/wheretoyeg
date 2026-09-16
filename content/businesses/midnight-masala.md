@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Beaumont"
 address: "5110 50 Ave, Beaumont, AB T4X 1E3"
 rating: 4.9
-review_count: 72
+review_count: 73
 tier: "featured"
 phone: "(403) 383-4351"
 google_maps: "https://maps.google.com/?cid=8133093691236825674&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -28,10 +28,10 @@ reviews:
     rating: 5
     comment: |
       Customized vegan 🌱 order, so much delicious food for best value I have ever seen.  It seemed like a family business, mom and son, super sweet people.  Thank you, 🙏, will come again.
-  - name: "Shiwangi Sharma"
+  - name: "Carol Griffith"
     rating: 5
     comment: |
-      The food is really very good i have ordered food multiple times from here and they never disappoint and they’re so inexpensive as well the quantity is great too. Reminds me of my mom’s cooking
+      Really really tasty! The potato spinach dish I got was so fresh and delicious, the best I have had. I’m planning on going back to get more very soon!
 hours:
   monday: "12:00 PM–10:00 PM"
   tuesday: "12:00 PM–10:00 PM"

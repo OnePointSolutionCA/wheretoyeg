@@ -19,7 +19,7 @@ hours:
   sunday: "9:00 AM–10:30 PM"
 photos: ["/photos/mareeg-cafe-restaurant-1.jpg", "/photos/mareeg-cafe-restaurant-2.jpg", "/photos/mareeg-cafe-restaurant-3.jpg"]
 rating: 4.3
-review_count: 319
+review_count: 320
 price_range: "$"
 amenities:
   - "Halal"

@@ -5,7 +5,7 @@ category: "bakeries"
 neighborhood: "St. Albert"
 address: "120 Bellerose Dr, St. Albert, AB T8N 8N8"
 rating: 4.5
-review_count: 1767
+review_count: 1768
 tier: "featured"
 phone: "(780) 569-4488"
 website: "https://mercatofoods.com/"

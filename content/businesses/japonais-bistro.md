@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–9:00 PM"
 photos: ["/photos/japonais-bistro-1.jpg", "/photos/japonais-bistro-2.jpg", "/photos/japonais-bistro-3.jpg"]
 rating: 4.5
-review_count: 1855
+review_count: 1857
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -45,10 +45,8 @@ reviews:
     rating: 4
     comment: |
       The food was fine, but would've enjoyed it so much better if each roll wasn't drowning in sauce. That was not enjoyable and if I go back I'd either tell them to put the sauces on the side or order items without it. The service was good. The place isn't anything special or charming on the inside.
-  - name: "Stephen Carter"
-    rating: 5
+  - name: "Info TGHOME"
+    rating: 4
     comment: |
-      What a fantastic find on Jasper Avenue. Everything we ordered was incredibly fresh and presented beautifully on the plates.
-      
-      The selection of nigiri was perfect, and I especially loved the bright yellow flower used for the garnish. It was such a nice touch. I will definitely be coming back here again soon.
+      First-time visit. The atmosphere, service and food were all decent. Nothing bad, but nothing spectacular either.
 ---

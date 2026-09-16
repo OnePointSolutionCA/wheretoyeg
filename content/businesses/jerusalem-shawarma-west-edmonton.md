@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–10:00 PM"
 photos: ["/photos/jerusalem-shawarma-west-edmonton-1.jpg", "/photos/jerusalem-shawarma-west-edmonton-2.jpg", "/photos/jerusalem-shawarma-west-edmonton-3.jpg"]
 rating: 4.9
-review_count: 10409
+review_count: 10526
 price_range: "$$"
 amenities:
   - "Halal"
@@ -48,6 +48,27 @@ reviews:
       I’m genuinely impressed by how everyone treats their customers with care and respect. You don’t just serve great food—you set a high standard for customer service and make people feel valued.
       
       Thank you for making my birthday celebration so special. I’ll definitely be coming back and recommending Jerusalem Shawarma to my family and friends! 🎂🥙
+  - name: "On The Road Again"
+    rating: 5
+    comment: |
+      Saturday August 22,2026
+      This time rest of our family members arrived in on Friday from Ajax Ontario and we all enjoyed another delicious Brunch Buffet, as usual the entire team worked non stop to take care of their customers.
+      JazakAllah for your love and dedication.
+      Highly recommended to visit and enjoy every moment of your stay.
+      
+      ⭐️⭐️⭐️⭐️⭐️ Amazing Brunch Buffet Experience!
+      
+      Visited Jerusalem Shawarma - West Edmonton - 17109 100 Ave NW early on Sunday morning, August 16, 2026 for their brunch buffet.
+      
+      What an amazing experience in Edmonton while visiting from Ajax, Ontario! Definitely the management and the entire team deserves 5 Stars.
+      
+      Their dedication, setup, and freshly prepared delicious Middle Eastern food was outstanding. Honestly, the biggest buffet menu we've ever seen for the price they charged - including cold and hot drinks, fresh fruits and juices.
+      
+      Everything was clean, well-organized, and freshly prepared. A perfect summer vacation treat in Western Canada.
+      
+      Looking forward to visiting again before we head on to Calgary for a few days. Highly recommended!
+      
+      #JerusalemShawarma #WestEdmonton #BrunchBuffet
   - name: "olivia sparkman"
     rating: 5
     comment: |
@@ -58,12 +79,4 @@ reviews:
       It was my first time dining at Jerusalem Shawarma, and I was honestly a bit hesitant at first but I am so glad I decided to try it!
       The food was absolutely delicious, and even their coffee, I had the macchiato and it was delish, the ambience of the place was warm and inviting. The staff were incredibly kind and patient, taking the time to answer all my questions. A special thank you to Anas for his excellent service — he was friendly, attentive, and made the experience even better. I will definitely be coming back and will be bringing my family and friends next time. Highly recommend! 🌟🌟🌟🌟🌟
       P.S. Their tea is exceptional 👌
-  - name: "Hun Sern Tan"
-    rating: 5
-    comment: |
-      A solid go to for some fresh and delicious Mediterranean food.
-      
-      I got their Meat Lovers Plate for $25.95 (before tax) to go and gotta say it was a loaded dish. Their donair meat was not overly salty and didn't have the weird taste of a donair that was premade from a factory. Their chicken and beef shawarma were fresh and tasted of home cooking. The salad was fresh and crisp while the rice was well seasoned, soft and fluffy. The hummus and tahini dressings were fresh, light and not overtly salty.
-      
-      Highly recommend to give this place a shot for some authentic Mediterranean food!
 ---

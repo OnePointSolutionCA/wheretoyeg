@@ -28,10 +28,10 @@ tags: ["edmonton", "lash-extensions"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Munachiso Nwanisobi"
+  - name: "Hanna Tocool"
     rating: 5
     comment: |
-      I took a 4 day beginner Lash Course with Stephanie and I have so many things to say but I’ll keep it concise, Stephanie is everything you want in a tutor, kind , professional, encouraging and the best by far in Edmonton. I’ve had a lash course with someone else before but I felt like I hadn’t learnt anything. With Stephanie , I left with 3 certifications in one course and life long mentorship , she’s been pushing me along and still sending me products and love , constantly checking on me and answering any of my questions, I’m just so grateful I met her . She’s just too good to be true , and if you’re thinking about booking with her , just do it, no regrets here at all, and I’ll be a lifelong client .
+      Steph is the best lash tech in the city. She always get me right, does what I want and more even I trust her with my lifeeeeee. Very relaxing, reliable, and has a banger playlist. 10/10 would recommend.
   - name: "T V"
     rating: 5
     comment: |

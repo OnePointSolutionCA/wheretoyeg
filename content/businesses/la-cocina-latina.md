@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/la-cocina-latina-1.jpg", "/photos/la-cocina-latina-2.jpg", "/photos/la-cocina-latina-3.jpg"]
 rating: 4.4
-review_count: 1280
+review_count: 1286
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,26 +30,10 @@ tags: ["edmonton", "mexican"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Adriel Artelia"
-    rating: 5
-    comment: |
-      I LOVE this place. Amazing food, such a fun atmosphere!
-      
-      I recommend the Don Birria, and if you like spicy ask for the mango habanero sauce (I believe that’s the one!) instead of the jalapeño and it’s AMAZING. I’ve tried other taco places and still Smokin Barrels makes the best sauce for the tacos.
-      
-      I even ordered a whole De leche cake from them and they made it FRESH, and even made it look really nice aesthetically for the event I ordered it for 🤩 I love ordering out from here and eating in! When you order out there is never a comprise of flavour or quality.
   - name: "Dev VanKo"
     rating: 4
     comment: |
       The food at La Cocina Latina is AMAZING!! Everyone in our party of 5 loved every bite! Our service wasn't perfect, we were there for about 45 minutes before we had our order taken. But even so, our waitress was pleasant and the food was definitely worth the wait.
-  - name: "Sim Vig"
-    rating: 5
-    comment: |
-      La Cocina Latina absolutely delivers. The flavors are rich, authentic, and perfectly balanced—you can tell everything is made with care and real attention to detail. Every bite felt intentional, from the seasoning to the texture.
-      
-      The dishes have that perfect mix of comfort and refinement, like traditional recipes elevated just enough to stand out. Service was warm and attentive, and the whole experience felt welcoming from start to finish.
-      
-      Easily one of the best Latin spots I’ve tried—will definitely be coming back.
   - name: "Dariq Khalid Cali"
     rating: 5
     comment: |
@@ -74,4 +58,18 @@ reviews:
       The plants are beautiful and when the sun sets the lighting is so pretty.
       
       The food is amazing. Their frijoles are amazing. We loved the Bandeja Paisa, the Picada, and the Quesabirria. We brought home our leftovers and made a big breakfast with them the next day!
+  - name: "Samar Eleiwa"
+    rating: 5
+    comment: |
+      Great Mexican cuisine find. Food is delightful one of the best in town. Enjoyed the place, food, variety, sauces, and portions, all were great and a definite come come. Our server was so nice too ❤️ they had fifa games on and were quite busy on a Saturday late afternoon
+  - name: "S Lally"
+    rating: 3
+    comment: |
+      The food here was genuinely amazing — everything we ordered was flavourful and well-prepared. The drinks were just as good.
+      
+      Unfortunately, the service really took away from the overall experience. Although all the staff were kind and friendly, it took a long time just to place our initial order, and throughout the meal we constantly had to flag someone down for anything we needed. We asked for cutlery and never received it, ordered another round of drinks that didn’t arrive, and when we tried to order dessert, we were told the kitchen had already closed.
+      
+      It overall was a little disappointing given how strong the food and drinks were. With better service, this place could easily be a standout.
+      
+      Would rate it 3.5/5 stars overall if I could.
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/juicy-chills-1.jpg", "/photos/juicy-chills-2.jpg", "/photos/juicy-chills-3.jpg"]
 rating: 4.4
-review_count: 500
+review_count: 501
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -30,10 +30,6 @@ tags: ["edmonton", "juice-bar"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Aryan Sandhu"
-    rating: 5
-    comment: |
-      Jass always serves fresh, delicious juices with a smile. She is friendly, welcoming, and provides excellent customer service every time. Her positive attitude and attention to detail make every visit enjoyable. If you’re at Juicy Chill, ask for Jass—you’ll get great service and an amazing drink. Highly recommended!
   - name: "Mona VanKhade"
     rating: 5
     comment: |
@@ -42,6 +38,10 @@ reviews:
     rating: 1
     comment: |
       I wish I could give negative million. I am a doordash driver and earlier today around 4-5pm I went to this store to pick up 2 orders for the same customer. Later the customer gives me a call and says that a milkshake is missing out of the 2 orders delivered to him. After 15 minutes of waiting at the store for that order, the man working there missed the milkshake. On top of that, the WHOLE blame went on me instead of the one who made the mistake and the payment I supposed receive for delivering those orders was not paid. If there is a camera PLEASE verify that there was no milkshake given to me. My time, gas was all wasted. Tell me, is this fair, taking advantage of the innocent????!!
+  - name: "Aryan Sandhu"
+    rating: 5
+    comment: |
+      Jass always serves fresh, delicious juices with a smile. She is friendly, welcoming, and provides excellent customer service every time. Her positive attitude and attention to detail make every visit enjoyable. If you’re at Juicy Chill, ask for Jass—you’ll get great service and an amazing drink. Highly recommended!
   - name: "Loveleen Kaur"
     rating: 5
     comment: |

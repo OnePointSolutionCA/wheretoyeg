@@ -6,7 +6,7 @@ subcategory: "japanese"
 neighborhood: "St. Albert"
 address: "21 Perron St #100, St. Albert, AB T8N 1E7"
 rating: 4.3
-review_count: 195
+review_count: 198
 tier: "featured"
 phone: "(780) 418-0101"
 website: "http://kaizenjapaneserestaurant.com/"
@@ -22,6 +22,23 @@ reviews:
       Food did not come out at the same time, I received my main dish before the appetizers were served.
       
       The food was presented well. The beef skewers were the favourite of the table and I wish the sauce on the yakitori chicken was a bit stickier/thicker to hang onto the chicken. I had the Chirashi don and the shrimp was a little off. My partner had the Katsu Don and that seemed pretty good. I wouldn't come here again as it did not meet my expectations for the night. They were having technical difficulties during my visit, so you may have better luck/food than I had.
+  - name: "David Duong"
+    rating: 2
+    comment: |
+      If you're a ramen fan, this is not the place.
+      
+      I got the tonkotsu base pork ramen.
+      
+      It came with pork, spinach, mushrooms, half an egg and.... carrots?
+      
+      I guess they tried to cut a carrot into some sort of flower pattern?
+      Which immediate broke up once it went into the bowl though.
+      
+      The broth was very light, watery even, the noodles had no firmness to them, and the pork was nothing special.
+      
+      The egg, while slightly overcooked was the best part.
+      
+      Dont get the ramen.
   - name: "Phat Boy"
     rating: 5
     comment: |
@@ -34,10 +51,6 @@ reviews:
     rating: 3
     comment: |
       Stopped for dinner, we got the seafood ramen and various sushi options. Ramen wasn’t my favourite, Sushi was good! My friend got the hot plate with thin beef and I liked that way more. Atmosphere is adorable and service is excellent. Really loved the strawberry boba tea!
-  - name: "Jennifer Mah"
-    rating: 5
-    comment: |
-      The server was quick and served us tea while we were looking at the menu. The food came out accordingly. Absolutely would recommend the salmon chop chop ! The atmosphere is nice and warm. Will definelty come again!
 hours:
   monday: "11:30 AM–9:00 PM"
   tuesday: "11:30 AM–9:00 PM"

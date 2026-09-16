@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/keystone-immigration-consultancy-1.jpg", "/photos/keystone-immigration-consultancy-2.jpg", "/photos/keystone-immigration-consultancy-3.jpg"]
 rating: 4.9
-review_count: 360
+review_count: 361
 price_range: "$$"
 amenities:
 
@@ -36,10 +36,6 @@ reviews:
       I truly appreciate their dedication, quick responses, and honest advice. Thanks to their excellent support, my PR process became much easier and successful. I highly recommend Keystone Immigration to anyone looking for reliable and trustworthy immigration services.
       
       Thank you again for all your help and support!
-  - name: "Manpreet Singh"
-    rating: 5
-    comment: |
-      I had a great experience with Keystone Immigration. I applied under a vulnerable case, and thanks to their guidance and support specially kanika mam and sukhmanbir sir, my application was successful. The team was professional, patient, and very understanding of my situation. They explained everything clearly, kept me updated throughout the process, and handled my case with care and honesty. I truly appreciate their hard work and dedication. I would highly recommend Keystone Immigration to anyone looking for reliable and trustworthy immigration services.
   - name: "Satinder Kaur"
     rating: 5
     comment: |
@@ -54,12 +50,15 @@ reviews:
     rating: 5
     comment: |
       I had an excellent experience with Keystone Immigration.They helped me get my Permanent Residency within just two months! Their team especially Manbir mam and Sukhman sir were incredibly professional, attentive, and thorough in every step of the process. They provided clear guidance, reviewed every document carefully, and ensured all submissions were accurate and on time. I truly appreciate their attention to detail and constant support throughout. I highly recommend Keystone to anyone looking for a smooth and stress-free immigration process.
-  - name: "devanand verma"
+  - name: "Darpan Lad"
     rating: 5
     comment: |
-      ⸻
+      Excellent Service. Knowledgeable and friendly Staff. Quick reponses on any immigration related quires.
+      I have done my work permit extention file submission by Keystone immigration as OINP nominee . I got my work permit approval whithin 2 week without any ADR. I have also done my PR file under keystone immigration.
       
-      I had a great experience with Keystone Immigration Consultancy. A special thanks to Kanika Ma’am for her outstanding support and guidance—she handled my file with great care and professionalism. I would also like to thank Sukhman Sir for his assistance throughout the process.
-      
-      Because of their efforts, my son received his study permit and my wife’s spousal permit was also approved. I am truly grateful and highly recommend their services!
+      Special Thanks to Kanika, Pallavi and shukhman sir to support throughtout this process.
+  - name: "amrit kaur"
+    rating: 5
+    comment: |
+      Kanika has been outstanding in managing my PR file. She provides regular updates and ensures I am informed at every step of the process. Her professionalism, dedication, and prompt communication make the entire experience smooth and stress-free. I am very happy with the service provided by Keystone Immigration and highly recommend them to anyone seeking reliable immigration assistance.
 ---
