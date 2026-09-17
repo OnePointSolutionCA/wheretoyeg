@@ -19,10 +19,6 @@ reviews:
     comment: |
       Montrose dental is absolutely amazing. My kids feel calm and comforted in their environment. Their staff is always kind, patient and most willing to help and be supportive in every step of care. I truly appreciate the dental hygienist who worked so promptly and calmly with my autistic son who has never sat without meltdown in a dentist chair. They truly go above and beyond at this care facility.
       Thank you 😊 for providing amazing care and environment.
-  - name: "Mitch Gillis"
-    rating: 5
-    comment: |
-      I’ve been coming to Montrose Dental since day one, and they never disappoint. The dental work is always flawless, and the customer service is top-notch. Truly the best dental experience you could ask for!
   - name: "Allison Willis Quast"
     rating: 5
     comment: |
@@ -34,10 +30,15 @@ reviews:
     rating: 5
     comment: |
       Great experience at Montrose Dental Care. The staff are friendly, professional, and made the whole visit comfortable. Their treatment coordinator was especially helpful, taking the time to explain everything clearly and making the process easy to understand. Highly recommend this clinic!
-  - name: "Emma Talbert"
+  - name: "Mike Rude"
     rating: 5
     comment: |
-      I’ve been going to Montrose Dental for a few years now and have had great experiences with everyone there. I’ve gone in for cleanings, had cavities filled, and also going through an Invisalign program to straighten my teeth for the last year or so. Very kind, skilled, and competent staff and would happily recommend to anyone.
+      I can't explain how happy I am that I started this whole process with an incredible dental office.  The staff are first class and overall awesome!  I regularly drove +5000 kms to get back for my dentist appts, driving from eastern Canada.  This last appt was more than worth the drive.  I can finally bite again.  They made sure I had a dog bowl and treats for my whole day appt so my service dog would be comfortable.  They even provided a blanket to lay on for her.  There isn't a place in Canada, that I wouldn't drive back to Montrose Dental Care for an appt.  YOU ROCK!!!!!!
+  - name: "Emmette Rain"
+    rating: 5
+    comment: |
+      so for starters, i am scared to death of going to the dentist. even a teeth cleaning appointment has me nauseous, anxious and crying the night before.
+      so when i found out i had to get my wisdom teeth removed... let's just say i wasn't thrilled. i actually considered changing my name and going into witness protection. but the wonderful people at montrose dental were so honest and supportive, it gave me the courage to make the right choice. before coming here i had no idea that you don't have to get all your wisdom teeth pulled in one sitting (that's what all my friends did??) or that there were any anti-anxiety medication options for the appointment. i really thought my only choice was suffering and i was so wrong. my biggest thanks to Abigail and Dr. Megan , for making me feel safe enough to have the necessary procedures done before things got worse!!
 hours:
   monday: "9:00 AM–4:45 PM"
   tuesday: "9:00 AM–4:45 PM"

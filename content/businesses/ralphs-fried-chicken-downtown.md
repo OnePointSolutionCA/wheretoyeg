@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/ralphs-fried-chicken-downtown-1.jpg", "/photos/ralphs-fried-chicken-downtown-2.jpg", "/photos/ralphs-fried-chicken-downtown-3.jpg"]
 rating: 4.9
-review_count: 290
+review_count: 297
 price_range: "$"
 amenities:
   - "Takeout"
@@ -31,18 +31,20 @@ tags: ["edmonton", "fried-chicken"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Willy Skinner"
+    rating: 5
+    comment: |
+      I don't say this lightly, but Ralph's Fried Chicken & Spuds served me the best fried chicken I've ever eaten.
+      From the moment the tray arrived, piled high with golden, crispy chicken and thick-cut potato wedges, I knew I was in for something special. The chicken was cooked to perfection—beautifully crisp on the outside with a light, well-seasoned coating that shattered with every bite. Inside, the meat was incredibly juicy, tender, and packed with flavour. Every piece tasted fresh, never greasy, and was cooked exactly the way great fried chicken should be.
+      The potato wedges deserve just as much praise. Thick, hearty, and perfectly seasoned, they had a crisp exterior and a soft, fluffy centre. They weren't an afterthought—they were every bit as memorable as the chicken itself. Together, they made for the ultimate comfort meal.
+      What impressed me most was the quality. So many places rely on heavy breading or excessive seasoning to mask mediocre chicken, but Ralph's lets the ingredients speak for themselves. Every bite tasted homemade, with obvious care put into preparation and cooking.
+      The generous portions are another bonus. You'll definitely leave satisfied, and if you're lucky enough to have leftovers, they reheat surprisingly well.
+      If you're a fried chicken fan, Ralph's isn't just worth trying—it's worth going out of your way for. I've eaten fried chicken from countless restaurants over the years, and nothing has come close to this experience.
+      Simply put, Ralph's Fried Chicken & Spuds has set a new standard for me. It wasn't just a great meal—it was unforgettable, and I'll absolutely be back for more.
   - name: "Thandi Bhala"
     rating: 5
     comment: |
       The chicken  is always crispy  and served hot....tried the coleslaw not really a fan but the chiiicken guys the chiiicken. The flavor  too in the first bite....my oh my..will done Ralph's Chicken
-  - name: "Bryce Metzger"
-    rating: 5
-    comment: |
-      Amazing food, staff was great. Unreal amount of food for the money. In town for a hip hop tourney for my kids and they absolutely loved the food. The people were so amazing, we waited a few extra minutes (no big deal) and they gave us extra food without us saying anything. Extremely friendly just overall great. Come check this spot out
-  - name: "Georgy Nasrallah"
-    rating: 5
-    comment: |
-      I always had Ralph’s fried chicken at my friends and was amazed how good they are!! Today i decided to visit and they did not disappoint fast good portions and great tasting fried chicken. Highly recommend it and very friendly owner 🙏🏼
   - name: "cycologist"
     rating: 5
     comment: |
@@ -51,4 +53,8 @@ reviews:
     rating: 3
     comment: |
       I used to eat here couple of times a month and always satisfied with the food and the size of the chicken. Just  ordered few minutes ago for 3 piece chicken meal for “to go “, the other 2 are okay but the other 1 is as small as potato wedge.  Like what’s wrong? I saw there plenty of chicken on the tray.   😔
+  - name: "Elisa Barnes"
+    rating: 5
+    comment: |
+      Went for the first time today. Person working in the store was polite and friendly.  The chicken was juicy with a nice light coating. Spuds had good flavor. Good selection of drink choices. Will definitely be back.
 ---

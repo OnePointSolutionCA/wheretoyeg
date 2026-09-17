@@ -18,7 +18,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/padmanadi-vegetarian-1.jpg", "/photos/padmanadi-vegetarian-2.jpg", "/photos/padmanadi-vegetarian-3.jpg"]
 rating: 4.7
-review_count: 2667
+review_count: 2668
 price_range: "$$"
 amenities:
   - "Vegan"
@@ -29,10 +29,6 @@ tags: ["vegan", "vegetarian", "indonesian", "asian"]
 active: true
 date_listed: "2026-08-18"
 reviews:
-  - name: "Chloe Rachel"
-    rating: 5
-    comment: |
-      Came here on a trip to Edmonton and was excited for their vegan/vegetarian Asian food. It didn't disappoint! Had their Padmanadi Seafood Delight ($19.95), Rice Noodle ($16.95) and Panna Cotta ($6). The texture of the vegan seafood was bouncy and tasty, although we didn't find there to be a variety as stated - it felt more like one item resembling a fish ball. We're not fans of ginger but forgot to ask them to omit it in the dish, but it was still a solid option. The rice noodle was plentiful, simple but well executed. The panna cotta did feel a tad heavy as it is coconut milk based, but the fruit puree and berries helped elevate it. Very good service. Overall, we enjoyed the food. Not the most populated area (we walked from downtown), so may recommend driving for those with a car!
   - name: "Aidan boan"
     rating: 5
     comment: |
@@ -57,6 +53,10 @@ reviews:
       After the meal, we didn't feel like having desserts.
       
       Pleasant bamboo'ey-wooden interiors. Decently priced, the above cost 40 CAD before tips.
+  - name: "Chloe Rachel"
+    rating: 5
+    comment: |
+      Came here on a trip to Edmonton and was excited for their vegan/vegetarian Asian food. It didn't disappoint! Had their Padmanadi Seafood Delight ($19.95), Rice Noodle ($16.95) and Panna Cotta ($6). The texture of the vegan seafood was bouncy and tasty, although we didn't find there to be a variety as stated - it felt more like one item resembling a fish ball. We're not fans of ginger but forgot to ask them to omit it in the dish, but it was still a solid option. The rice noodle was plentiful, simple but well executed. The panna cotta did feel a tad heavy as it is coconut milk based, but the fruit puree and berries helped elevate it. Very good service. Overall, we enjoyed the food. Not the most populated area (we walked from downtown), so may recommend driving for those with a car!
   - name: "V. Müller"
     rating: 5
     comment: |

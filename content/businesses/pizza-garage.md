@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "St. Albert"
 address: "31 Fairview Blvd #108, St. Albert, AB T8N 3M5"
 rating: 4.5
-review_count: 422
+review_count: 423
 tier: "featured"
 phone: "(825) 223-6927"
 website: "https://pizzagarage.ca/"

@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–1:00 PM"
 photos: ["/photos/movenetics-physiotherapy-1.jpg", "/photos/movenetics-physiotherapy-2.jpg", "/photos/movenetics-physiotherapy-3.jpg"]
 rating: 5
-review_count: 322
+review_count: 328
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -54,16 +54,12 @@ reviews:
       Mike took the time to clearly explain my issue and helped me understand what’s going on with my body, which made a huge difference. Alexis has been amazing with massage therapy and other treatments—she’s helped me a lot, and I’m very grateful for her care and attention.
       
       Overall, I feel much better and more confident about my recovery thanks to them. Thank you, Movenetics!
-  - name: "Emily"
+  - name: "Bassma Halabi"
     rating: 5
     comment: |
-      5 stars all around. The girls at the front are so kind and helpful AND they remember who you are.
+      I had a wonderful experience at Movenetics. Mike, my physiotherapist, is extremely knowledgeable, professional, and truly cares about helping his patients recover and feel better. Alexis, the massage therapist, is fantastic and very skilled, and Dr. Spencer, the chiropractor, is excellent and very attentive. I always leave feeling so much better after my sessions.
       
-      I have my physio done by Matt, he’s great. Friendly and knows his stuff and explains things so you understand what’s going on. fun fact: you can do physio any time you don’t need a doctors req (I can’t be the only one who thought this)
+      The entire team is incredibly friendly, welcoming, and professional. From the moment you walk in, the staff make you feel comfortable and well taken care of. The level of care and attention they provide is outstanding.
       
-      Crystal the massage therapist is BOMB. She’s the type you of massage therapist you wanna gatekeep so you can always book in with her but she deserves to be bragged about because she’s amazing! So kind, she has a gentle voice and always leaves you feeling lighter and so good.
-      
-      Highly recommend both Matt and Crystal!
-      
-      The facility is always clean and just so welcoming. You will be happy coming here!
+      I highly recommend this clinic to anyone looking for quality physiotherapy, chiropractic care, and massage therapy with a team that genuinely cares about their patients!
 ---

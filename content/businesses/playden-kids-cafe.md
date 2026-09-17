@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/playden-kids-cafe-1.jpg", "/photos/playden-kids-cafe-2.jpg", "/photos/playden-kids-cafe-3.jpg"]
 rating: 4.8
-review_count: 63
+review_count: 66
 price_range: "$$"
 amenities:
 
@@ -32,6 +32,10 @@ reviews:
     rating: 5
     comment: |
       Good and clean play areas and even separate space for younger ones! Very reasonable drink and food prices. The owner is very nice and tries hard to make sure you have a good experience. Well done, we will be back!
+  - name: "Carina Crooz"
+    rating: 4
+    comment: |
+      Visited today and immediately saved this place as one of my favorites! It was clean, cozy, and surprisingly peaceful for a kids’ café. I mean, it wasn’t crowded.. I loved that their French fries are baked instead of deep-fried, and the matcha was delicious too. Everyone was so kind and welcoming. We’ll definitely be back^^
   - name: "Steph M"
     rating: 5
     comment: |
@@ -44,8 +48,4 @@ reviews:
     rating: 5
     comment: |
       I absolutely loved this place! Very organized and clean, the areas are well-equipped, and the play areas are perfect for little ones. I noticed that the staff cleans regularly, which is very nice, and they're also very friendly! The bathrooms have diapers and wipes available if you need them. Good prices, delicious drinks—we'll definitely be back. Ideal for babies, a hidden gem!
-  - name: "Jessica Villanueva"
-    rating: 5
-    comment: |
-      We had a great time here! We’ve been to two other play cafes in the city and my 14 month old enjoyed this one the most. Food here is also pretty good and very reasonably priced. The coconut waffle was DELICIOUS! Crispy on the outside and chewy on the inside. Staff were very nice. Will be back!
 ---

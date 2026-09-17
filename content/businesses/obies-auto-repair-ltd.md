@@ -27,18 +27,22 @@ tags: ["edmonton", "mechanics"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Jordan Dufty"
+    rating: 1
+    comment: |
+      Went in for some front end work. They returned my truck to me without connecting my tie rod properly, it came unattached while traveling at 100km/h  causing me to loose steering and swerve violently across traffic and almost wreck into multiple other vehicles. They then sent someone out to “fix” it, they reattached the damaged tie rod. I had to take my vehicle to another shop to have the work inspected and have my tie rod replaced as it was damaged when it became disconnected  for your own safety and peace of mind. Go elsewhere
   - name: "Sun of a Beach"
     rating: 5
     comment: |
       Got my front brakes done yesterday June 26th 2026, the service was what they promised; quick, efficient, affordable and professional. I’m more than satisfied with their service. Front desk ladies are great  as the mechanic staff. Highly recommend!!!
-  - name: "Paige Leslie"
-    rating: 5
-    comment: |
-      10/10 excellent service! I will definitely be recommending Obie to all of my friend.  Thanks to Obie I was able to get my car fixed very quickly and at a great price!
   - name: "J"
     rating: 5
     comment: |
       I have brought several vehicles to the shop over the years.  The quality of service rendered is unmatched in the city and the quotes provided are always accurate upon services rendered. No surprises or bullshit here just, quality all around. Highly recommend supporting this small local business.
+  - name: "Paige Leslie"
+    rating: 5
+    comment: |
+      10/10 excellent service! I will definitely be recommending Obie to all of my friend.  Thanks to Obie I was able to get my car fixed very quickly and at a great price!
   - name: "Tiffany Routley"
     rating: 5
     comment: |
@@ -46,8 +50,4 @@ reviews:
       I was surprised how nice the waiting room was and it had coffee and snacks.
       
       October 2025, I went in here to have a hub replaced and to get my windshield wiper fluid thingamajigger fixed. I won't go anywhere else this auto shop is very clean knowledgeable friendly Fair probably the fairest quote that I got when I was doing my research. I will vouch for this company any day anytime anywhere. Please consider him he is so reasonably priced. I can't say enough nice things about this business.
-  - name: "Areej Aboudib"
-    rating: 5
-    comment: |
-      Amazing experience, had an issue with my starter got it fixed the same day super fast and easy!!
 ---

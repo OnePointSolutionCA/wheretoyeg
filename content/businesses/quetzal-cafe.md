@@ -28,14 +28,15 @@ reviews:
     rating: 5
     comment: |
       First time coming here and I enjoyed it! The quesadilla was flavourful and the pina colada was refreshing. The staff was very kind and accommodating! I can’t wait to try more items on the menu!
+  - name: "Julia Plamondon"
+    rating: 5
+    comment: |
+      The food here is to die for! I’ve only tried the enchiladas, but I will definitely be back. And they give you the hot sauce on the side so you can decide how spicy you want your meal. Super reasonably priced, and authentic.
+      Five stars all day (:
   - name: "X C"
     rating: 5
     comment: |
       Amazing food, amazing people and service. Highly recommend everything but especially the enchiladas and quesadillas and the street corn.
-  - name: "Maria Vanegas"
-    rating: 5
-    comment: |
-      All the food is super delicious and I hope to visit again this Saturday with my family
 hours:
   monday: "Closed"
   tuesday: "9:00 AM–2:00 PM"

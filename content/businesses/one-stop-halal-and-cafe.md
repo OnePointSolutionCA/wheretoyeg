@@ -38,6 +38,14 @@ reviews:
     rating: 5
     comment: |
       Always friendly service and pleasant atmosphere, butcher counter has limited selection but very reasonable prices (cheaper than the chain grocery store across the street).
+  - name: "Gerry Fox"
+    rating: 5
+    comment: |
+      Nice experience all around.
+  - name: "OC"
+    rating: 5
+    comment: |
+      Friendly service, especially from the kind lady at the counter. The lotus cheesecake and milk cake were both delicious and well-priced. Highly recommend!
   - name: "Maisha Jama"
     rating: 5
     comment: |
@@ -48,12 +56,4 @@ reviews:
       This place gonna be my routine store from know on.
       
       Thanks for your hospitality wonderful service.
-  - name: "OC"
-    rating: 5
-    comment: |
-      Friendly service, especially from the kind lady at the counter. The lotus cheesecake and milk cake were both delicious and well-priced. Highly recommend!
-  - name: "Idil Jei"
-    rating: 5
-    comment: |
-      Love this spot! Great halal meat and wonderful desserts!
 ---

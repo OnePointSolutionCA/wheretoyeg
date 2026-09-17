@@ -30,10 +30,14 @@ reviews:
     rating: 1
     comment: |
       Tried this Beaumont Panago location for the first time; I think they really cheap out on toppings; this slice was from a 4 topping pizza and most slices barely had any toppings (keep in mind I paid $2.75 for each topping so I do expect atleast couple pieces of each topping on every slice)
-  - name: "Tatum Strand"
+  - name: "Bob Bob"
     rating: 1
     comment: |
-      Worst pizza I have ever had!! VERY skimpy on the toppings, I’m talking MAYBE 8 small chunks of chicken across the whole large pizza. Very minimal cheese, “regular crust” that was more like thin crust, can’t imagine what the thin crust looks like. I figured for $80 two large pizza’s would be enough to fill just 2 of us, but not even close.  Couldn’t even finish it, it was awful and such a waste of time and money.  I wouldn’t bother ever ordering here, and I definitely won’t be back.  I used to love Panago, but 0 stars for this place (Beaumont)
+      Pango?   or.    can I go?
+      
+      Pango owner down bad for using cheese wiz on his pizza🤬 if I wanted a sandwich I would have got my wife to make me one,
+      
+      Surprisingly she makes me bust more then your pizza 🍕
 hours:
   monday: "11:00 AM–11:00 PM"
   tuesday: "11:00 AM–11:00 PM"

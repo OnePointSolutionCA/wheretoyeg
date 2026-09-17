@@ -5,7 +5,7 @@ category: "spas-esthetics"
 neighborhood: "Beaumont"
 address: "78 Rue Montalet, Beaumont, AB T4X 0C5"
 rating: 5
-review_count: 42
+review_count: 44
 tier: "featured"
 phone: "(780) 667-3384"
 website: "https://perfectbrows.janeapp.com/"
@@ -13,6 +13,14 @@ google_maps: "https://maps.google.com/?cid=11523281524251826494&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/perfect-brows-wellness-and-spa.jpg"
 reviews:
+  - name: "Joytvinder Bhatti"
+    rating: 5
+    comment: |
+      I can’t say enough good things about the makeup and hair services I received! From the moment I arrived, the team was so warm, professional, and attentive to my vision.They truly brought my dream look to life, and I felt absolutely stunning all day. I couldn’t recommend them more—five stars all the way. Harman went above and beyond to make sure  I was comfortable during the appointment.
+  - name: "jasroop kaur"
+    rating: 5
+    comment: |
+      Had an amazing facial treatment here! I loved her deep knowledge, and how carefully she explained every product she used. Such a wonderful and personalized experience—I will definitely visit again! 🌟
   - name: "Sana Khan"
     rating: 5
     comment: |
@@ -28,14 +36,6 @@ reviews:
     comment: |
       I want to share my Experience with Harman 😍😍 I had a flawless makeup and hair done from her and Roop .This Was my best choice as I selected her .My makeup stayed well she selected perfect products and brand as per my skin .I totally recommend this place who is looking for professional service with luxury makeup products in reasonable pricing .surely will visit again for future functions.
       Thank you again Harman for making my day more special and booking me on quick notice .
-  - name: "A W"
-    rating: 5
-    comment: |
-      Easy to book with, does a perfect job on my eyebrows. Great pricing.
-  - name: "sally kamaleddine"
-    rating: 5
-    comment: |
-      I’ve been coming here for almost a year, and have never had a bad experience. Harman is amazing at what she does and my eyebrows come out looking perfect every time :)
 hours:
   monday: "2:00 PM–4:00 PM"
   tuesday: "2:00 PM–10:00 PM"

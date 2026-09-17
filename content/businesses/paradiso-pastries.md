@@ -31,6 +31,14 @@ tags: ["edmonton", "middle-eastern", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "saeed fazlollahi"
+    rating: 1
+    comment: |
+      ⭐ 1/5
+      
+      Very disappointing experience. We bought a variety of baklava from Paradiso Pastries, but unfortunately they were extremely dry, hard, and tasted stale. The texture was nothing like fresh baklava should be, and we could barely enjoy them.
+      
+      I’m very disappointed with the quality, especially considering that we paid for a full box. It honestly felt like a waste of money. Based on this experience, I would not recommend their baklava and definitely won’t be buying it again.
   - name: "Waleed"
     rating: 5
     comment: |
@@ -47,8 +55,4 @@ reviews:
     rating: 1
     comment: |
       Attention , Attention .  I bought baklava for Eid, and after my family ate  some of it , the whole family got diarea . We stopped eating it to return it , and after looking carefully at it , we found bacteria growing on it . It is really disgusting and repulsive . This restaurant must hold accountable . It seems they sell expired sweets that have been made since long time . NEVER buy from this filthy lousy restaurant .
-  - name: "cagatay cakir"
-    rating: 4
-    comment: |
-      Kerhane Tatlisi was pretty good. Shambali, tulumba and lokma were also very enjoyable. The style is a little different compared to what you find in Turkey, but considering we’re in Edmonton, it’s hard to find better Turkish desserts. Definitely worth trying.
 ---

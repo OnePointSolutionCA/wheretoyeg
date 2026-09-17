@@ -18,7 +18,7 @@ hours:
   sunday: "12:00 PM–7:00 PM"
 photos: ["/photos/pho-boat-vietnamese-1.jpg", "/photos/pho-boat-vietnamese-2.jpg", "/photos/pho-boat-vietnamese-3.jpg"]
 rating: 4.6
-review_count: 117
+review_count: 118
 price_range: "$"
 amenities:
   - "Dine-In"

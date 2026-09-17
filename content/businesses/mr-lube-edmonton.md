@@ -18,7 +18,7 @@ hours:
   sunday: "8:00 AM–6:00 PM"
 photos: ["/photos/mr-lube-edmonton-1.jpg", "/photos/mr-lube-edmonton-2.jpg", "/photos/mr-lube-edmonton-3.jpg"]
 rating: 4.3
-review_count: 1131
+review_count: 777
 price_range: "$"
 amenities:
   - "Walk-Ins"
@@ -28,26 +28,36 @@ tags: ["oil-change", "quick-service", "no-appointment"]
 active: true
 date_listed: "2026-08-18"
 reviews:
-  - name: "John Rey Labuanan"
+  - name: "Jhaycee Bartz"
+    rating: 1
+    comment: |
+      I came around 2 pm today have a tire service. There were no customers and potentially be the only one. Waiting on the middle bay, when an attendant came to me and asked, “Can I check first your tires?”. I aggreed. When he checked one of the tires, he suddenly said to me to change the tires because they are old. He even asked me to check it and showed to me the first picture. It is made in  2011 so old. I knew in my mind that i bought the tires two years ago. I was speechless and felt dumb. I did not know what to say. He suggested to buy new tires in market place. I just said thank you and trusted him because he is a fellow filipino and left. I was overthinking after and could not process what happened. I asked chatgpt and send the first picture. It says check the other side to see the real year that was made. I checked the other side it has 2024. I was so furious that i went to the closest lube city to confirm. They said it is 2024 and they accommodated me to change the tires. I was so mad but thankful to lube city for being honest with me and not letting me feel dumb. To whoever incharge of the mr lube can you screen your workers and make sure they are more competent than chatgpt. Thank u!
+  - name: "Viper Nayawatatic"
+    rating: 1
+    comment: |
+      Always the best service from Mr Lube.
+      I didn’t make it far until my truck began running sluggish and eventually stalled out.
+      They sent a tech to come take a look he was a very young guy super helpful. As for the manager comments like “there’s nothing we can do! Didn’t bother to take responsibility of the negligence” gets me.
+      Didn’t want to take accountability for his team being negligent on the lack of due diligence on the air filter clamp.
+      I knew something looked off when the guy shut my hood and gave me a look.
+      Any and all further repairs will have to be paid out of my own pocket is what the manager says.
+      I used to support this location all the time sad to say last time I’ll be bringing any of my vehicles back.
+      Do better Mr Lube…..
+  - name: "cygnusx555"
+    rating: 1
+    comment: |
+      They screwed up my oil change and I leaked oil everywhere. I drove for a 1.5 hours before noticing a puddle of oil on my driveway and streaks everywhere. I called the store and they sent the assistant manager and he corrected the issue but I did have some noise and poor idle from engine, it also almost stalled  on the highway trying to accelerating
+      
+      I'm pretty confident it has some damage from this.  The assistant manager didn't give me anything else like a free oil change or refund etc. Just shook my hand and said sorry about this. Considering my family lives were in danger and thousands of dollars dollars of a engine was stressed with literally no oil on the dipstick and a oil covered driveway its pretty ridiculous.
+      
+      I'm also having to now pay out of pocket to have it checked by the dealership mechanics.
+  - name: "Ashleigh Murasiranwa"
     rating: 5
     comment: |
-      As winter time is coming I always visit this Mr. Lube Car Shop Service! It was a great customer service, pretty quick and good deals provided by this Car Service Shop. Manni was very knowledgeable and accomodating, he’s very professional in answering questions that really helps to individuals who aren’t much knowledgeable when it comes to mechanics! Highly recommended and deserves a 5 star! Thank you Manni! What a great service and well done! Kudos!
-  - name: "Rupinder Singh"
+      Amazing service and fantastic customer service care. Had my car towed to this location. Mark helped me get the best deal on my tires and get them to the shop quickly. Not only did Mr. Lube have the best price for tires, the were there, installed and my car had an oil change remarkably quick. Where other tire shops were telling me it would be multiple days or up to a week before the tires came in, Mark had be back on the road less than 24 hours before getting a flat. Thank you so much Mark for all of your help!
+  - name: "Mathieu Champagne"
     rating: 5
     comment: |
-      Went to this location for an oil leak check on my VW atlas and had a really good experience. Mukesh and the team were helpful, professional, and honest throughout the whole visit. They found the issue quickly, fixed it right away no questions asked, and explained everything clearly without any pressure. Really appreciate the good customer service and definitely recommend this location.
-  - name: "Jeff Salway"
-    rating: 5
-    comment: |
-      I was able to drive up on a Sunday morning, no lineup.  The guys inside were ready to roll.  They were organized, pleasant and professional.  The service was quick, they let know of a few options I had, didn't pressure me on any upsell.  They honored every perk they offer, fluid top ups, free wiper blades.  Great guys, I'll definitely go there again.
-  - name: "Mehak Sandhu"
-    rating: 5
-    comment: |
-      I had a great experience at Mr. Lube. Gursewak Singh treated me very well and provided excellent service. He was friendly, professional, and made sure everything was done properly.
-      The other employees were also very welcoming. They even offered me water and coffee while I waited, which I really appreciated. Overall, the team was respectful and customer-focused. I highly recommend this location for their great service.
-  - name: "ACE"
-    rating: 5
-    comment: |
-      I’m leaving this review specifically to commend Bunty for his excellent service. He was efficient, professional, and got the job done exactly right. It is rare to find technicians who are this focused and honest.
-      ​I also want to address the review by Manbir Hundal: It is completely baseless. It’s obvious that his 'complaint' is just a tantrum because he didn’t get a discount he wasn't entitled to. Trying to damage a hardworking technician’s reputation because you’re cheap is pathetic. Ignore the hate—Bunty is a 5-star worker, and I’ll definitely be back.
+      I attended Mr Lubes Winterburn location today. I was there for an oil change and received amazing service from all of the staff. Mark was a delight to work with during the service. He was attentive, very polite and pleasant to deal with. He was knowledgeable when suggesting products and even saved me money with his advice.
+      I will be back for service at this location. Thank you mark and staff
 ---

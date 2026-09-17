@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Whyte Ave"
 address: "8110 Whyte Ave NW, Edmonton, AB T6C 0Y4"
 rating: 4.6
-review_count: 867
+review_count: 870
 tier: "featured"
 phone: "(780) 414-0500"
 website: "http://www.ragazzibistro.ca/"
@@ -14,10 +14,6 @@ google_maps: "https://maps.google.com/?cid=10925154169834665285&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/ragazzi-bistro-italiano.jpg"
 reviews:
-  - name: "Shil"
-    rating: 4
-    comment: |
-      It's a nice place for pastas and pizzas, tried this place for first time. We were in hurry and had limited time, but the service was fast which was a great experience. They have great coffees, some nice cocktails, their pastas are very nice as well. They do serve complimentary fresh buns and oil which I loved as it tasted so good. Definitely recommend to try this if you enjoy Italian food.
   - name: "William Halabi"
     rating: 5
     comment: |
@@ -26,6 +22,10 @@ reviews:
     rating: 5
     comment: |
       I have driven past this place for years and always thought... who would eat there.  Well... don't judge a book by its cover!  Situated in a little strip mall across from Bonnie Doon Mall is an Italian food oasis.  We did a quality test against our favorite pizza place in Edmonton and this place won!  We were in Italy for 2 weeks in September and this pizza competes against the best pizza we had on our trip.  We had the "Godfather" and we were treated to a crisp thin crust with a flavourful sauce and ample toppings.  Their brushetta is on a flatbread and is by far one of the best we've ever had.  The Tiramisu is non-traditional and nice with fresh whipped cream but didn't really have that rich experience you'd usually expect.  After the brushetta and an extra large pizza... it's probably a safer choice anyways.  Amazing service, very warm and comfortable decor and very fast food turnaround the night we came but we were early and it was quiet night. We had drinks, appetizer, XL pizza and dessert all for $80 (including GST) which we think is a great deal for the quality and service.  Trust me... way cheaper than going to Italy or even ordering in Italy! Don't make the mistake I did for years ... stop and check these guys out.  You won't be disappointed.
+  - name: "Shil"
+    rating: 4
+    comment: |
+      It's a nice place for pastas and pizzas, tried this place for first time. We were in hurry and had limited time, but the service was fast which was a great experience. They have great coffees, some nice cocktails, their pastas are very nice as well. They do serve complimentary fresh buns and oil which I loved as it tasted so good. Definitely recommend to try this if you enjoy Italian food.
   - name: "Kevin Schellenberg"
     rating: 3
     comment: |

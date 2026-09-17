@@ -9,16 +9,16 @@ address: "10009 108 St NW"
 neighborhood: "Downtown"
 google_maps_url: "https://maps.google.com/?q=Nomad%20Cafe%20Edmonton"
 hours:
-  monday: "7:00 AM–4:00 PM"
-  tuesday: "7:00 AM–4:00 PM"
-  wednesday: "7:00 AM–4:00 PM"
-  thursday: "7:00 AM–7:00 PM"
-  friday: "7:00 AM–8:00 PM"
-  saturday: "8:00 AM–8:00 PM"
-  sunday: "8:00 AM–4:00 PM"
+  monday: "7:30 AM–5:00 PM"
+  tuesday: "7:30 AM–5:00 PM"
+  wednesday: "7:30 AM–5:00 PM"
+  thursday: "7:30 AM–5:00 PM"
+  friday: "7:30 AM–5:00 PM"
+  saturday: "7:30 AM–5:00 PM"
+  sunday: "7:30 AM–5:00 PM"
 photos: ["/photos/nomad-cafe-1.jpg", "/photos/nomad-cafe-2.jpg", "/photos/nomad-cafe-3.jpg"]
-rating: 4.7
-review_count: 281
+rating: 4.6
+review_count: 354
 price_range: "$$"
 amenities:
   - "Espresso"
@@ -29,25 +29,41 @@ tags: ["cafe", "coffee", "lunch", "laptop-friendly"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Jean Pierre Kathoefer"
+  - name: "Mr. Moon"
     rating: 4
     comment: |
-      Nice neighborhood coffee spot with a friendly staff and a welcoming vibe. The coffee was really good and exactly what you want from a solid local café. It has that typical coffee shop atmosphere where most tables are filled with people working on their laptops, which makes it feel lively but still relaxed. A good place to grab a coffee and spend some time.
-  - name: "K D"
+      This review is on their coffee. I’m a coffee snob for health reasons, bad coffee burns my UT. Red bay, High Wire, 4 Barrel, bird and bear is my standard. So if this is your vibe be reading.
+      
+      So, the coffee is ok. Not bad but not impressive. They use Costco milks. So from taste point of view. It’s already boring without even drinking it.
+      
+      I had a sourdough Breakfast sandwich. Ingredients were pretty standard, but it was pretty tasty with some hot sauce and ketchup.
+      
+      Coming here is more of a “I need something now” vs “I want a tasty treat”
+      
+      I will be back as they do have some other great offerings.
+      
+      My search for great coffee in this area continues.
+  - name: "Arya Stardust"
     rating: 4
     comment: |
-      Great breakfast and coffee option in the Ridgewood,Queens area
-      We have the egg and cheese croissant and the coffee .The ambience is relaxing and Highly recommended
-  - name: "Sierraf234"
+      I come to this place often to work in the morning and it's great. The staff are really nice and the coffee is great! I haven't tried the food because I rarely eat breakfast, but people seem to enjoy what they offer. If you are looking for a place to do work and enjoy food or drink, I recommend this place!
+  - name: "Kendall Hall"
+    rating: 3
+    comment: |
+      Kind of run-down and dirty, funky smell when you walk in, tables are a bit grody. I ordered a croissant breakfast sandwich based on the menu pricing on the wall, but then when they rang me up it was $3 more, so I cancelled the order and just tried some of my friend's order. The price was already pretty steep, but then to raise it up beyond the advertised amount, effectively a bait-and-switch, made me not purchase anything on principle.
+  - name: "Shay B"
     rating: 5
     comment: |
-      I absolutely love this coffee shop! My fiancé & I come here all the time and the staff are always so friendly and welcoming. The coffee and food are consistently delicious. It’s become one of our favorite spots to come to. One of the things that makes this place extra special is how kind they are to our dogs, they always greet them and even give them a little turkey treat, which they absolutely love. Highly recommend!
-  - name: "Luisanaandrea"
+      Love, love, loooove this cafe! Nomad is everything that you could ever want in a local neighborhood cafe! They’ve got delicious drinks, incredible food, outstanding service,  great vibes, and they know their customers. I’ve been coming here for quite sometime now and I’ve never had a bad experience here.
+      
+      My ultimate fave: Enjoying their chai latte and a pork chop banh mi on the patio. This combo is a win-win for me every single time. Recently, I’ve branched out of my norm and have become obsessed with their matcha latte and other banh mi’s as well. Honestly, you can’t go wrong with anything that you try here. It’s always gonna be the bomb.com!
+      
+      What really seals the deal for me is the excellent customer service. The staff is so sweet and efficient. The owner Bee is an absolute gem! That fact that he remembers me and goes out of his way to say hi even when he’s busy working is truly an honor. I’m writing this review as I’m sitting here on the patio having lunch because I’m just so impressed.
+      
+      Thank you to Bee and the wonderful staff of Nomad Cafe who make coming here so enjoyable!  The neighborhood (and I) truly appreciate you all!
+  - name: "Mary M"
     rating: 5
     comment: |
-      Stopped by for breakfast with my daughter, the atmosphere is beautiful and inviting, the menu was straight forward. My daughter had the peach matcha with an everything bagel and cream cheese. I had the cheddar smash browns which was the perfect blend of cheese, egg, potatoes, caramelized onion, siracha and chives. The service was welcoming and helpful as it was my first time there and I had questions on what was recommended. I’ve been back twice after and will be visiting more often.
-  - name: "Naile Ruiz"
-    rating: 5
-    comment: |
-      Great breakfast spot! It's not too cold yet so the outside seating was greatly appreciated. The worker there was super sweet and got my group everything we needed.
+      Nomad Cafe is a small local shop with delicious sandwiches, baked goods, and coffee! I’ve had their chicken and pork bahn mi and each component of the sandwich was perfect, especially the bread. The displayed baked goods always entice me to add one onto my order and they pair perfectly with a cup of their coffee.
+      This is my go-to spot for bahn mi!
 ---

@@ -5,7 +5,7 @@ category: "cleaning-services"
 neighborhood: "Edmonton"
 address: "11810 Kingsway NW Unit 34, Edmonton, AB T5G 0X5"
 rating: 4.9
-review_count: 87
+review_count: 86
 tier: "featured"
 phone: "(833) 226-2526"
 website: "https://primekey.ca/"

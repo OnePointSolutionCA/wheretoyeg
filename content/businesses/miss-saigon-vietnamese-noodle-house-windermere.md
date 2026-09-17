@@ -17,14 +17,18 @@ reviews:
     rating: 4
     comment: |
       My family is divided on this one. I really liked it and would have given it 5 stars. The salad rolls were huge and my vermicelli bowl was so filling. Their chili sauce on the table wasn't spicy, but gave the food a salt and pepper taste that I loved. My kid says his black pepper beef was so soft he doesn't think it was actually beef, and he said his other dish had a small bug - but he ate it anyway. My wife had some sort of dual bowl deal, and she found the flavor kinda plain. I dunno. I think they are crazy and will come again. My biggest regret is not seeing you get a 5% off your bill if you leave a Google review until after we paid. I'm home now longing for my lost 5%... Although we did get free k-days tickets for ordering chicken nuggets. Oh... And the atmosphere was great too. Loved the vibes of the place.
-  - name: "Joanna Misch"
-    rating: 4
+  - name: "Food Lover & Traveller"
+    rating: 5
     comment: |
-      Overall, the food was quite good. We ordered the Boneless chicken thigh with rice dish and the Pad Thai; Shrimp salad rolls were good. While the flavors were enjoyable, we felt the pad Thai could have benefited from a bit more chicken.
+      I had an excellent experience at this Vietnamese restaurant and would definitely give it five stars. From the moment I walked in, I was greeted with a warm welcome and friendly service. The restaurant was clean, cozy, and had a comfortable atmosphere that made it easy to relax and enjoy the meal.
       
-      I also wanted to bring a couple of service and hygiene matters to your attention. When we first arrived, the table had a very strong odor of bleach. Furthermore, the black cups provided for hot water also smelled like bleach. Our server was very friendly and professional, apologizing for the smell and quickly replacing the cups with glass ones.
+      I ordered the pho noodles, and they were absolutely delicious. The broth was rich, aromatic, and full of authentic flavor. You could tell it had been simmered for hours to develop its deep, comforting taste. The noodles were cooked perfectly, and the beef was tender, fresh, and generous in portion. The fresh herbs, bean sprouts, lime, and sauces complemented the pho perfectly and allowed me to customize every bite.
       
-      However, we were disappointed by the experience at the end of our meal. The hostess who took our payment quickly turned her back and walked away without a thank you or any acknowledgment, which felt quite dismissive after an otherwise pleasant experience.
+      The service was outstanding. The staff were attentive, polite, and made sure everything was just right without being intrusive. The food arrived fresh, beautifully presented, and at the perfect temperature.
+      
+      The prices were very reasonable considering the quality of the food, generous portions, and overall dining experience. It’s not always easy to find a restaurant that combines authentic flavors, excellent service, and a welcoming atmosphere, but this place certainly does.
+      
+      I highly recommend this restaurant to anyone craving authentic Vietnamese cuisine, especially a great bowl of pho. I will definitely be returning to try more dishes on the menu. This place truly deserves five stars!
   - name: "Glen Somera"
     rating: 5
     comment: |
@@ -36,10 +40,14 @@ reviews:
       
       I love the duo option, if we're in the mood for two different kinds of food.
       Definitely will come back again.
-  - name: "Samantha N."
+  - name: "Joanna Misch"
     rating: 4
     comment: |
-      Love that they’re open late! We went around midnight after a road trip. It was raining and cold so my beef sate really hit the spot! Even if the restaurant was fairly busy we were promptly seated and served! I never had tomatoes in my beef sate before so that was different, I probably could have done without but overall it was tasty! Would eat here again!
+      Overall, the food was quite good. We ordered the Boneless chicken thigh with rice dish and the Pad Thai; Shrimp salad rolls were good. While the flavors were enjoyable, we felt the pad Thai could have benefited from a bit more chicken.
+      
+      I also wanted to bring a couple of service and hygiene matters to your attention. When we first arrived, the table had a very strong odor of bleach. Furthermore, the black cups provided for hot water also smelled like bleach. Our server was very friendly and professional, apologizing for the smell and quickly replacing the cups with glass ones.
+      
+      However, we were disappointed by the experience at the end of our meal. The hostess who took our payment quickly turned her back and walked away without a thank you or any acknowledgment, which felt quite dismissive after an otherwise pleasant experience.
 hours:
   monday: "11:00 AM–12:00 AM"
   tuesday: "11:00 AM–12:00 AM"

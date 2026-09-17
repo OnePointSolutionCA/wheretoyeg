@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Beaumont"
 address: "5012 50 St Unit 102, Beaumont, AB T4X 1E7"
 rating: 3.7
-review_count: 208
+review_count: 207
 tier: "featured"
 phone: "(780) 929-0031"
 website: "https://www.pizzahut.ca/huts/R62001"
@@ -22,6 +22,10 @@ reviews:
       We absolutely loved it! I went with a friend, and the atmosphere is great for hanging out. We especially want to highlight Mr. Biptesh and the girl who assisted us 💐 they provided amazing service and were incredibly friendly and attentive the entire time. On top of that, the pizzas tasted delicious and the prices are FANTAAASTIC for ordering plenty to share.
       
       ✨Highly recommended! We will definitely be back.
+  - name: "Amberly Horneman"
+    rating: 3
+    comment: |
+      Ordered for take out. Everything was great, except, the dessert pizza was slightly burnt with a burnt taste. And the cheddar bacon ranch had no ranch. Was very disappointed. The garlic bites were extremely hard and not great.
   - name: "Nici James"
     rating: 5
     comment: |
@@ -34,10 +38,6 @@ reviews:
     rating: 4
     comment: |
       Super inconsistent but when they get it right it’s great
-  - name: "Dorothy Lamb"
-    rating: 5
-    comment: |
-      Saturday at 6pm Ordered online .... ready in 15 minutes for pickup , but no worries had to wait an extra 5 minutes ... pizza piping hot, crispy crust, loaded in toppings ... 1 medium supreme & 1 medium meatlover all for $25... and rewards for a free pizza ... great pizza!
 hours:
   monday: "11:00 AM–10:45 PM"
   tuesday: "11:00 AM–10:45 PM"

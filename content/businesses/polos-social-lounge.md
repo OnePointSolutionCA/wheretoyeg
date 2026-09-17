@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "950 Emerald Dr, Sherwood Park, AB T8H 0W6"
 rating: 4.4
-review_count: 978
+review_count: 979
 tier: "featured"
 phone: "(780) 570-1550"
 website: "http://www.poloslounge.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=7082384469170801183"

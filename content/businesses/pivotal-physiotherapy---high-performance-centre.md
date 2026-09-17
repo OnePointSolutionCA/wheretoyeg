@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/pivotal-physiotherapy---high-performance-centre-1.jpg", "/photos/pivotal-physiotherapy---high-performance-centre-2.jpg", "/photos/pivotal-physiotherapy---high-performance-centre-3.jpg"]
 rating: 4.9
-review_count: 495
+review_count: 497
 price_range: "$$"
 amenities:
 
@@ -51,8 +51,8 @@ reviews:
     rating: 5
     comment: |
       Mirele is very kind, sweet, accommodating, and friendly. She took the time to clearly explain my condition, address all of my concerns, and discuss preventive care. I truly appreciated her patience and professionalism. I highly recommend Mirele to anyone looking for a compassionate and knowledgeable Physiotherapist
-  - name: "cynthia Schurman"
+  - name: "Chris Currie"
     rating: 5
     comment: |
-      I experienced it a lower calf tear playing pickleball and was fortunate to receive treatment from Jayden Pannu. Jayden did a thorough assessment, including my intent to get back as soon as possible and developed an incredible treatment plan to get me to full recovery in 5 weeks. I’m so grateful for the incredible treatment, friendly staff and fantastic services provided at Pivotal.
+      Been going to Pivotal Physiotherapy High Performance Centre for over a year now after an MVA, Evan (Physio Therapist) and Quinn (Massage Therapist) have been amazing to work with! Very attentive and focused on the problem areas that require the most attention and treatment. It’s been a long process but their patience and attention are very much appreciated and have been a big help! I would definitely recommend Pivotal Physiotherapy!!
 ---

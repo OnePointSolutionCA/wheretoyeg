@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Windermere"
 address: "6303 Currents Dr NW, Edmonton, AB T6W 0L9"
 rating: 4.4
-review_count: 4060
+review_count: 4089
 tier: "featured"
 phone: "(780) 924-0478"
 website: "https://pfchangs.ca/"
@@ -39,18 +39,15 @@ reviews:
       Mariane was our server and she was fabulous! Super attentive and friendly. She gave incredible food suggestions!
       The food, the service, the atmosphere was incredible and intimate for us celebrating our anniversary! Will be back with the rest of our family here soon!
       Edit: The staff was so lovely, they even gave us a card to wish us and gifted us dessert which was delicious! They truly go above and beyond!
-  - name: "Stephen Carter"
-    rating: 5
-    comment: |
-      What a fantastic dining experience! I am so glad I decided to stop by this spot. The atmosphere is lovely with those vibrant red chairs that really brighten up the room.
-      
-      Everything we ordered was prepared perfectly. The tempura-style green beans were incredibly crisp and came with a delicious dipping sauce that I could have eaten by the spoonful. We also tried the shrimp, which looked and tasted incredibly fresh.
-      
-      I will definitely be returning to try more of the menu. It is such a great local place for a quality meal.
   - name: "Josh Bilyk"
     rating: 5
     comment: |
       We had a great time! The atmosphere was lively but not too loud that you couldn't hear. The food and beverages were delicious! Large portions, as well. And, the servers were very polite and attentive. I'll add - they were also quite helpful in that we had ordered a couple appies, which they came back letting us know they didn't have them. We ordered two others, and they compted one at bill time. Great customer service!! We'll be back.
+  - name: "Kate"
+    rating: 5
+    comment: |
+      Amazing experience! The food was absolutely delicious—fresh, flavorful, and perfectly prepared. The service was just as great. Aprilyn was incredibly friendly, attentive, and made sure we had everything we needed. She really made our visit special. Definitely one of the best dining experiences we’ve had. Highly recommend!
+      Mostly the chocolate cake!
 hours:
   monday: "11:00 AM–10:00 PM"
   tuesday: "11:00 AM–10:00 PM"

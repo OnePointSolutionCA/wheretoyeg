@@ -5,7 +5,7 @@ category: "spas-esthetics"
 neighborhood: "Beaumont"
 address: "5302 50 St #204, Beaumont, AB T4X 2Y2"
 rating: 5
-review_count: 18
+review_count: 19
 tier: "featured"
 phone: "(780) 893-7725"
 website: "https://re4orm.ca/about-us/"

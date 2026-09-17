@@ -32,6 +32,16 @@ reviews:
     rating: 5
     comment: |
       A wonderful clinic! Very happy with my experience, here. The entire team, from front desk staff to dental hygienists to the dentists themselves, everyone is so friendly and ensures that everything that is being done or all potential options available, are communicated with you clearly. The space is very nice, open, and clean, and a calming environment when you walk in.
+  - name: "Yohana Lorenso"
+    rating: 5
+    comment: |
+      I’ve only had one appointment so far, and I’m still in the process of completing my dental treatment, but I have to say my first experience was fabulous. The staff were friendly, professional, and welcoming, and my cleaning appointment was excellent. Everything was explained clearly, and I felt comfortable and well taken care of throughout the visit. I’m looking forward to continuing my treatment with the clinic and so far, I’m very happy with my experience!
+  - name: "Louisa"
+    rating: 5
+    comment: |
+      I had such a lovely experience here! Everyone was so friendly and welcoming, and the whole process from check-in to my X-rays, consultation, and cleaning was very smooth.
+      
+      There happened to be an unexpected power outage in the middle of my cleaning, but the staff handled everything so kindly and professionally. They even gave me a gift card for the inconvenience and rebooked me for the next available appointment, which I really appreciated. Overall, such a wonderful experience and I would definitely recommend this dental clinic! 😊
   - name: "Notasha Marie"
     rating: 2
     comment: |
@@ -40,12 +50,4 @@ reviews:
     rating: 5
     comment: |
       I’ve been coming to this dental clinic for about 6 years now. I’d say overall this is a great place to go. I have my fave hygienist who is great with my sensitive teeth. And I can always ask questions. I feel well supported here for my dental care.
-  - name: "Kris Cadrain"
-    rating: 5
-    comment: |
-      Always a great experience! The staff are very helpful and I kept getting the run around from my insurance company but I had no issues getting information from Oliver Park Dental. Cleaning process is easy and they always check in to see how you're doing. Any questions I had regarding previous visits or new devices is always printed and explained to me in person to make sure I know what I'm getting into. Thanks to the staff here for being awesome!
-  - name: "David"
-    rating: 5
-    comment: |
-      I've been a customer for 2yrs. and all of my experiences have been overwhelmingly positive. The office is pleasant and stress-free, while the staff are always friendly and competent. At 68 years old, I can honestly say they are the best dental service I've had to date. Highly recommended!!
 ---

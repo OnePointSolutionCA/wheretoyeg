@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/painters-edmonton-co-1.jpg", "/photos/painters-edmonton-co-2.jpg", "/photos/painters-edmonton-co-3.jpg"]
 rating: 5
-review_count: 42
+review_count: 44
 price_range: "$$"
 amenities:
 
@@ -46,8 +46,8 @@ reviews:
     rating: 5
     comment: |
       Thank you Mike for doing our garage painting The outcome was perfect. Nathan did an awesome job. You both are hard-working and dedicated. God bless you.
-  - name: "Lois Doerksen"
+  - name: "J"
     rating: 5
     comment: |
-      Painters Edmonton is the best of the best.  Mike gave me a very reasonable  quote and did the job right away since I was in a pickle!  It was all done in a timely manner.  His attention to detail and his  expertise is second to none and I love my new walls.  If you need a paint job done  Mike is your guy.
+      I highly recommend Mike (Painters Edmonton) for any painting project! He recently completed a job at my house, and his attention to detail and quality of work were outstanding. Mike was punctual, communicated clearly throughout the process, and showed great follow-through on every detail. He also kept the workspace incredibly clean, which I really appreciated. If you’re looking for a professional who delivers top-tier results, Mike is your guy.
 ---

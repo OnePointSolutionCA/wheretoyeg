@@ -44,8 +44,8 @@ reviews:
     rating: 4
     comment: |
       Play some good stuff is good food was good room was nice and clean we had to give a big tip because we left a big mess in the room and give us an extra cake extra large pizza which we didn't order overall was a very good experience. That's so much fun I think my legs are going to be sore for a week. Good clean fun for all ages
-  - name: "Jeff Co"
-    rating: 2
+  - name: "Mike G"
+    rating: 4
     comment: |
-      The game is fun, but totally unfair, they let adults and teens in the same game as 6 year olds, ruins the experience for the kids. Really could be organized better. Super expensive vending machines. You would think that’s there business not laser tag. There are 4 small party rooms. If you are booking a birthday party check to see when you get the room and for how long. There is limited seating outside the party rooms and two small washrooms, a urinal and a stall in the men’s for 100 plus people. Staff use a megaphone that no one could understand what was being said. The arcade games are not for little kids, there are very few of them too, most cost a dollar cash without a change machine in the lobby, have to stand in line at the counter. It’s really such a small space for way too many people and not set up well. Also for those in the lobby no one can see the action, no cameras in the tag area, so you truly leave your kid unsupervised, since there is no spectator involved anybody in the lobby is just standing around. I won’t go back.
+      Big place to play and if others are there you get to play with up to 30 players which is awesome. You can pre book and they have party rooms if you need it. They could really use a water fountain though instead of making you purchase water.
 ---

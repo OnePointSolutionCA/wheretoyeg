@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/perfect-auto-glass-1.jpg", "/photos/perfect-auto-glass-2.jpg", "/photos/perfect-auto-glass-3.jpg"]
 rating: 4.9
-review_count: 331
+review_count: 333
 price_range: "$$"
 amenities:
 
@@ -33,15 +33,12 @@ reviews:
     comment: |
       I had my windshield replaced yesterday at Perfect Auto Glass, and I couldn't be happier with the service! The staff was friendly, professional, and made the whole process quick and stress-free. The workmanship was excellent, and my new windshield looks perfect.
       I really appreciate their attention to detail and great customer service. If you're looking for a reliable place to replace or repair your auto glass, I highly recommend Perfect Auto Glass. Thank you for the amazing job!
-  - name: "Darcy"
+  - name: "Ryley Richardson"
     rating: 5
     comment: |
-      First time here and it was a great experience.
-      Was met at Reception in a friendly and professional manner.
-      I was told of the coffee shop down the block if I wanted to go there, which I did.
-      The windshield replacement only took an hour.
-      The price seemed very reasonable.
-      Was worth my drive to this location.
+      Excellent experience with Perfect Auto Glass! The customer service was exceptional from start to finish. Katlyn made the booking process incredibly easy and even went out of her way to make sure I was happy with the product and everything was taken care of.
+      
+      They absolutely delivered. The new windshield looks fantastic, the installation was top-notch, and I’m very happy with the result. I wouldn’t hesitate to recommend Perfect Auto Glass to my friends and family.
   - name: "SJL"
     rating: 5
     comment: |
@@ -51,10 +48,13 @@ reviews:
     rating: 5
     comment: |
       Perfect  Auto  had the best price of all the places I called... at least 6 different shops. And they were great, got me in the next day. I enjoyed  the lovely coffee shop just a few blocks over (thanks for that recommendation!) And they were done my car in about an hour and 10 minutes, it was very quick. And now I can see clearly, no leaks, well installed, I'm very happy! Would  definitely recommend  and come here again... hopefully  won't  need to for a while but, we'll see how lucky I am with rocks.
-  - name: "John Neumann"
+  - name: "Darcy"
     rating: 5
     comment: |
-      They are great to deal with, I was albe to find them with a sale going on and was quoted over $100 cheaper then other quotes I got. They work fast got me in the next day, and was done with in an hour and a half. Also got 3 free chip repairs. I know of some places that give out stickers to cover the chips untill you get them repair, this is not one of them but its not the end of the world.
-      
-      Will be going back definitely
+      First time here and it was a great experience.
+      Was met at Reception in a friendly and professional manner.
+      I was told of the coffee shop down the block if I wanted to go there, which I did.
+      The windshield replacement only took an hour.
+      The price seemed very reasonable.
+      Was worth my drive to this location.
 ---

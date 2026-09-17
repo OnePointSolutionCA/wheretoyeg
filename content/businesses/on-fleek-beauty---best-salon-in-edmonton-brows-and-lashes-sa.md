@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/on-fleek-beauty---best-salon-in-edmonton-brows-and-lashes-sa-1.jpg", "/photos/on-fleek-beauty---best-salon-in-edmonton-brows-and-lashes-sa-2.jpg", "/photos/on-fleek-beauty---best-salon-in-edmonton-brows-and-lashes-sa-3.jpg"]
 rating: 4.9
-review_count: 272
+review_count: 273
 price_range: "$$$"
 amenities:
 
@@ -32,14 +32,6 @@ reviews:
     rating: 5
     comment: |
       I got an awesome experience at on fleek beauty. Threaded my brows for the first time and Isha handled me really well. She did a great job and it’s a very relaxing atmosphere at the on fleek beauty!!! I recommend
-  - name: "kelly dianne"
-    rating: 5
-    comment: |
-      I’ve been getting my brows done, as well as eyelash lifts and tinting, by Isha at Onfleek Beauty for years, and she’s truly the only person I trust. She is hands down the best in town , always so precise, professional, and consistent. I’m so happy to see her finally open her own beauty salon because she absolutely deserves it. If you’re looking for amazing brows, lash lifts, and quality service, Onfleek Beauty is definitely worth checking out!
-  - name: "Rebecca May"
-    rating: 5
-    comment: |
-      Beautiful studio! Services are amazing! Excellent eyebrows and actually listens to how you want them done. Ive been going to Isha for about 6 months and would never go to anyone else again! You can trust this girl with your life. Amazing 👏 definitely recommend!
   - name: "Aneet Kaur"
     rating: 5
     comment: |
@@ -52,4 +44,12 @@ reviews:
       I had my brow lamination and tinting done here, and I’m really impressed with how well everything turned out. My brows look full, lifted, and perfectly shaped, exactly what I was hoping for. The technician (Isha) took her time and made sure the results suited my face beautifully.
       
       The salon itself was very clean and well-kept, which made the experience feel comfortable and professional.
+  - name: "Birtukan Bezune"
+    rating: 5
+    comment: |
+      I got my brow clean up and henna brows , the customer service was really good and listens to what you ask for. Really happy with the results. I'll be coming back for sure.
+  - name: "Chanting Parker"
+    rating: 4
+    comment: |
+      First time getting my eyebrows henna dyed and laminated. Was a nice experience. I think I have done my eyebrows in a way where I am too use to my way, so I wasn't  jazzed about the final look I recieved. Especially paying over 100 for it. I still need to touch up my eyebrows with makeup. The tails of the eyebrows were fine but the middles are mismatched which gives them a "wonky" look. Although I will probably never get my eyebrows done again, the service was great and the woman who helped me out was very nice.
 ---

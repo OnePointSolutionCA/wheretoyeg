@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/nakatsui-dermasurgery-1.jpg", "/photos/nakatsui-dermasurgery-2.jpg", "/photos/nakatsui-dermasurgery-3.jpg"]
 rating: 4.7
-review_count: 348
+review_count: 349
 price_range: "$$"
 amenities:
 
@@ -45,18 +45,16 @@ reviews:
       Because of Heather's exceptional guidance and knowledge, I am completely excited for my upcoming sessions and look forward to partnering with them on my long-term care goals. Thank you, Heather, and the entire Nakatsui team for your transparency, your incredible knowledge, and your top-tier customer service. You have earned a client for life!
       
       Gordon Dolynchuk
-  - name: "Julie"
-    rating: 5
-    comment: |
-      I got a free Face Analysis at Nakatsui DermaSurgery. The face scan didn't take long to do. My appointment was professional and Ashley went through my results and gave me a lot of information with advice from Dr.
-      Nakatsui, so I can decide on how to improve my look. Lot's of information with no pressure!
-      Ashley did an excellent job at explaining and answering my questions. Thank you!
   - name: "Joanne Borwick"
     rating: 4
     comment: |
       Dr Waquar  was kind professional patient and explained my procedure extremely well.   However the admin assistant did not match my referral to why I was there. Even this survey is titled "acne treatment " and that is not even correct!  I was there for biopsy on abnormal moles. Hence... the physicians are amazing but admin was a hot mess for my visit. Sorry guys
-  - name: "Clint W"
+  - name: "Noella Miciak"
     rating: 5
     comment: |
-      I have been back to see Dr. Nakatsui a few times for minor procedures as well as one larger cosmetic procedure. The clinic is clean, and the staff are all polite and professional lead by Dr Nakatsui he is very hands on.  I wouldn’t hesitate to recommend them in the future.
+      I had a very positive appointment with Dr. Nakatsui today. He took the time to thoroughly explain my options for basal cell carcinoma treatment and helped ease a lot of my anxiety. Cassandra was also very pleasant and kind. Thank you both for the excellent care — keep up the great work! Noella
+  - name: "Rochelle Diola Ravelo"
+    rating: 5
+    comment: |
+      My experience in this clinic has been top-notch. Everyone is very professional from the front desk to Nurse Tammy, Nurse Dina and Dr. Nakatsui. Everything was thoroughly explained before and after the procedures, and they made sure I was comfortable with the results. Their service is excellent; they’re definitely keepers. Nurse Tammy and Nurse Dina also made sure I was okay throughout the process. Overall, it was a very smooth and positive experience. May God bless this Team always!
 ---

@@ -28,10 +28,10 @@ reviews:
     comment: |
       Phillip is awesome!
       Helped me understand something I was unsure of. Highly recommended him for any documents needing signing.
-  - name: "Wehbe Youssef"
+  - name: "chamunorwa chikanda"
     rating: 5
     comment: |
-      Phillip was amazing and fast. Needed rush document’s Notarized and fast reply fast service. His pricing is really competitive and he does a great job.  Thanks Phillip im sure I will be using your services again.
+      Convinient, efficient, works on weekends, friendly - Best Service.
 hours:
   monday: "9:30 AM–6:00 PM"
   tuesday: "9:30 AM–6:00 PM"

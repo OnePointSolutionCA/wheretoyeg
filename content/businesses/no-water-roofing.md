@@ -28,6 +28,16 @@ tags: ["edmonton", "roofing"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Granger Office"
+    rating: 5
+    comment: |
+      We discovered our two balconies were leaking during a stormy season, with water making its way into the main floor while we were in the middle of renovations. We urgently needed a reliable solution, and Mel and his team at No Water Roofing were incredible from start to finish.
+      
+      They came out right away, recommended the right solution for our situation, provided a competitive quote, and completed the work quickly and professionally. We’re extremely happy with the high-quality workmanship and friendly service.
+      
+      The best part is their guarantee against leaks, which gives us tremendous peace of mind. Worth every penny!
+      
+      Highly recommended. Thank you, Mel and the No Water Roofing team!
   - name: "haythim saghr"
     rating: 5
     comment: |
@@ -38,6 +48,10 @@ reviews:
       More recently, they also helped me with some roofing and soffit issues at my home, and once again they did a fantastic job. The team was reliable, skilled, efficient, and clearly takes pride in their work.
       
       In my opinion, No Water Roofing is one of the best companies out there for any roofing related work. Highly recommended.
+  - name: "Meagan McIntosh"
+    rating: 5
+    comment: |
+      Lawrence and his team were fantastic. We were impressed with their quick communication and commitment to finishing our roof even though this summer has been difficult with weather. Having a flat roof limited our options for companies that were willing to do repairs/ replacement but Lawrence made us feel very reassured and confident that they would be able to do the job! Thank you guys for all the hard work !
   - name: "Soumaya Mabrouk"
     rating: 5
     comment: |
@@ -54,16 +68,8 @@ reviews:
       On top of all that, their pricing was fair and reasonable for the level of quality and service provided.
       
       I highly recommend No Water Roofing to anyone looking for reliable, professional, and high-quality roofing services. From their excellent customer support to their expertise and the team’s outstanding repair work, the entire process was seamless, quick and stress-free.
-  - name: "Boris Djordjevic"
-    rating: 5
-    comment: |
-      Thomas and his team have flawlessly executed 2 residential and one commercial projects for me and my company . Thomas professional experience and knowledge makes the roof project process easy and straightforward. They are also fully automated so billing and before/ after photos and reports are unbeatable added value ! Highly recommend!!
   - name: "Oemar Rehmaan"
     rating: 5
     comment: |
       Called them for attic rain issue in my home. It was very easy to book the inspection and Lawrence showed up on time. He did a great job explaining the issue and what fix was required. I was given a fair estimate for the work, the job was performed very well and on time with no hidden costs. Very professional and quick service. Definitely recommend them for roofing work.
-  - name: "Anastassia Bennett"
-    rating: 5
-    comment: |
-      We’ve hired No Water Roofing twice now—first in Edmonton, and most recently in Victoria. Thomas, Mali, Lawrence, Dave and his crew made the trip out and got the job done quickly, professionally, and with the same high-quality workmanship we appreciated the first time. Reliable, efficient, and great attention to detail. Highly recommend!
 ---

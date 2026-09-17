@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Spruce Grove"
 address: "420 King St #9, Spruce Grove, AB T7X 2C6"
 rating: 4.5
-review_count: 423
+review_count: 424
 tier: "featured"
 phone: "(780) 962-3936"
 website: "http://perkscoffeehouse.ca/"
@@ -13,13 +13,10 @@ google_maps: "https://maps.google.com/?cid=11823384835625298194&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/perks-coffee-house.jpg"
 reviews:
-  - name: "Audrey Blake"
+  - name: "Shannon Huhtala"
     rating: 5
     comment: |
-      What a wonderful spot. I adore the staff and the ambiance! And the big to stay cups! Oh my gosh I love love love the big cups! I absolute love them! The perks points are cool!
-      The biscoff cookies they give you with your coffee are so delightful.
-      And the scones? I believe the technical term is nom nom in between the drooling.
-      I also love their bookshelf! What more could you want with your coffee than a book!?
+      I have only been here once, but my BLT on multigrain bread was perfection and my chai latte was wonderful.  The place isn't large, but did not at all feel crowded.  There are spots to set up your laptop and get some work done, which is why I went there.  I thoroughly enjoyed my time at Perks and will be back!
   - name: "TK"
     rating: 5
     comment: |

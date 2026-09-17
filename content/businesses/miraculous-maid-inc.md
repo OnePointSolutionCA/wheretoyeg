@@ -48,6 +48,10 @@ reviews:
     rating: 5
     comment: |
       The whole experience was wonderful. I had surgery and a great friend gave me a $200 gift card for Miraculous Maids. After getting a quote, I responded that I only have $200 and if we could work with that. The lady was more than happy to help and completely understood. I ended up getting my kitchen and main bathroom fully cleaned for $229. The ladies who showed up to do the cleaning were so nice! They didn’t mind my dog, who was friendly and very curious. It was overall a great experience.
+  - name: "Zack Lausen"
+    rating: 5
+    comment: |
+      It was my first time using Miraculous Maids, and as a realtor, I'm always looking for reliable move-out cleaning companies to recommend to my clients. This property ended up being much more of a challenge than anyone expected, but despite that, they honored their original quote and never tried to increase the price. While their rates may seem like a bit of a premium at first, the quality of the work absolutely justified it. They did a fantastic job, and I wouldn't hesitate to recommend them.
   - name: "Glenna Swiniarski"
     rating: 1
     comment: |
@@ -66,14 +70,4 @@ reviews:
     rating: 5
     comment: |
       Miraculous Maids did an excellent job cleaning our 3 level house. They checked in with me when they were unsure about something and worked hard for 5 hours. They were careful and detailed. They were also friendly and cheerful. I appreciate all the work they did.
-  - name: "Rachel Bergeron"
-    rating: 1
-    comment: |
-      We paid just over $400 for the “Little Sparkle,” a one-hour cleaning by a crew of three, which works out to roughly $130/cleaner per hour (approximately 4X the current going rate).
-      
-      The package is supposed to include full-house floors, but the hardwood on our main floor was completely untouched. Sticky spots and paw prints were in the exact same places they’d been before the appointment, and the rugs hadn’t been vacuumed. The bathrooms were cleaner than when we left, but there were water spots and streaks on the shower glass, floors, mirrors, and windows. The residue from our daughter’s blue shampoo was still clearly visible in her shower. For the price, the level of cleaning and attention to detail was deeply disappointing.
-      
-      We emailed and texted photos within an hour of the crew leaving, around 2 PM on a Thursday. We didn’t hear back until 11 AM on Tuesday. While I understand some delay because of the long weekend, it’s worth noting that prior to us having any issues, text responses came within 30–60 minutes.
-      
-      When customer service did respond, the staff were friendly and apologetic, but their words rang hollow when we were asked to pay for an additional cleaning visit to correct what they had missed initially. Overall, this was a waste of $400. The quality of the clean was incredibly poor, and we will not be using this service again.
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–10:00 PM"
 photos: ["/photos/rayyan-restaurant-1.jpg", "/photos/rayyan-restaurant-2.jpg", "/photos/rayyan-restaurant-3.jpg"]
 rating: 4.8
-review_count: 1015
+review_count: 1016
 price_range: "$"
 amenities:
   - "Halal"
@@ -57,8 +57,8 @@ reviews:
       They even bring out bananas for my babies when they eat with us, too.
       
       Feeding our whole family and friends is simple and easy whenever we come here. We have been back every couple weeks! Mo and Valeriia are so kind and helpful.
-  - name: "mipopo"
+  - name: "FightForSpice"
     rating: 5
     comment: |
-      Rayyan has always been a go-to for us as it’s number 1, halal. Secondly, the food and service is amazing and just simply lovely. Whenever we step in, it feels so homely. Their prawn and lamb shank with rice is really good. The prawn is creamy but also abit crispy and fresh. The tomato noodles were also nice and the best one is their vegetable soup. A very good starter indeed! The lovely young lady gave us incredible service and offered us 3 vegetable soup for take out. A 100/10! Simply lovely !!
+      Food was delicious and tender. You get a lot and quality doesn’t deteriorate with that. Got complementary soup with this green spicy sauce i added to it. Also had beef samosa and it was flavourful and the outside nice and crispy. I got the goat meat with kk. Not a fan of kk but it definitely helps with satiety. The goat was juicy and had me going through the bone. Vegetables were fresh with a wonderful vinaigrette. Rice was also great with the side sauce amping it up. The chicken was cooked with spices similar to the goat i think. All around awesome and I’m glad I made the trip
 ---

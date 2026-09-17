@@ -28,6 +28,10 @@ tags: ["edmonton", "classic-cuts"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Asmaa Barre"
+    rating: 5
+    comment: |
+      I love this barber shop for my son. Service is great, and they make sure my son is comfortable and ask the right questions. Also, Jay was amazing to work with, he really understood what I wanted for my son’s hair so thank you Jay!
   - name: "Angela Aspden"
     rating: 5
     comment: |
@@ -40,12 +44,12 @@ reviews:
     rating: 5
     comment: |
       Love this place. My boy has major sensory sensitivities but has done amazing for his haircut here. They are patience and understanding. Plus do awesome designs for the boys
-  - name: "Damien Austin"
+  - name: "BIG MOO"
     rating: 5
     comment: |
-      I came in this morning for a haircut, mustache cleanup, nose wax, and hair wash, and the experience was fantastic. I didn’t catch the name of the barber who helped me, but he did an outstanding job. If you’re looking for a great barber shop, I highly recommend checking this place out. The prices are excellent, and the service is top-notch. This will definitely be my go-to spot from now on.
-  - name: "Ryan W"
-    rating: 5
-    comment: |
-      Very good barber shop. The barbers here do great work, and I always leave with a nice cut.
+      Great barbershop
+      I have been going there for over 1 year now and been nothing but a great experience
+      They boys are extremely professional
+      at what they do there customer service is 10/10 prices are reasonable
+      I for sure recommend going there
 ---

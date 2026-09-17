@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/rari-tea-cafe-yeg-1.jpg", "/photos/rari-tea-cafe-yeg-2.jpg", "/photos/rari-tea-cafe-yeg-3.jpg"]
 rating: 4.8
-review_count: 101
+review_count: 106
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,15 @@ tags: ["edmonton", "boba-bubble-tea"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Eren Granger"
+    rating: 5
+    comment: |
+      Cute atmosphere with sweet staff. Drink was tasty and made pretty quick. Got the strawberry jasmine tea and I really enjoyed, will be back again. I went at 1:40 so not too busy either which was nice
+  - name: "Ezy sidayon"
+    rating: 5
+    comment: |
+      Tried Rari-Tea Cafe and it was sooo good, easy 5 😮‍💨
+      Got the hoijicha strawberry, mango green tea, and the salt bread. The hoijicha tasted really authentic, nice roasted flavor. Mango green tea was super refreshing too. The salt bread was my fave tho! soft inside, perfectly salted, and crispy on the bottom. Definitely gonna keep coming back for a different flavoured drink every time! Happy to finally have them in Edmonton
   - name: "Marie L"
     rating: 5
     comment: |
@@ -36,11 +45,6 @@ reviews:
       As for the drinks..they were amazing! You can really taste the care and effort put into each one. I tried the strawberry matcha latte, matcha latte with Thai tea (from their secret menu 👀), hojicha latte with black sugar, and their salt bread. The strawberry matcha latte was perfectly balanced and not overly sweet (which I really appreciate as someone picky with matcha). The matcha latte with Thai tea was such a unique combo I never would’ve thought to try, but it worked so well (shoutout to the owner for the recommendation!). My personal favourite was the hojicha latte with black sugar.. the nuttiness and smoothness of the hojicha paired amazingly with the subtle sweetness of the black sugar. The salt bread was also delicious!! Perfectly buttery, soft on the inside, and slightly crispy on the outside.
       
       Overall, I highly recommend this family-owned café! It’s such a great addition to the Edmonton café scene and definitely worth checking out!! ♥️
-  - name: "Ezy sidayon"
-    rating: 5
-    comment: |
-      Tried Rari-Tea Cafe and it was sooo good, easy 5 😮‍💨
-      Got the hoijicha strawberry, mango green tea, and the salt bread. The hoijicha tasted really authentic, nice roasted flavor. Mango green tea was super refreshing too. The salt bread was my fave tho! soft inside, perfectly salted, and crispy on the bottom. Definitely gonna keep coming back for a different flavoured drink every time! Happy to finally have them in Edmonton
   - name: "Kaye Rivera"
     rating: 5
     comment: |
@@ -53,9 +57,4 @@ reviews:
     rating: 5
     comment: |
       I ordered matcha latte in oat milk with agave syrup. By far the best matcha I’ve ever tasted in Edmonton! The flavour of their Matcha is rich and creamy! Very well balanced and not quick to water down from the ice. I hope the quality stays the same as ill be definitely be coming back more often. so long live Rari Tea!
-  - name: "Cheah Legacy"
-    rating: 5
-    comment: |
-      Absolutely love this matcha shop!
-      Amazing milk options and smoothies and snack are so delicious!
 ---

@@ -18,7 +18,7 @@ hours:
   sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/nail-nerd-studio-1.jpg", "/photos/nail-nerd-studio-2.jpg", "/photos/nail-nerd-studio-3.jpg"]
 rating: 4.7
-review_count: 360
+review_count: 364
 price_range: "$$"
 amenities:
   - "Nail Art"
@@ -49,22 +49,18 @@ reviews:
       I gave her a 10 dollar tip before I looked at the nails. I had no ill will towards her and did  not want her wasting her time. She tried very hard to refuse the  tip, (really the only time she spoke to me), and I hope it's because she felt a little guilty for the garbage nails she gave me.
       I will, obviously, never return. The lack of professionalism was hard to believe.
       Credit to the manager who tried to fix a very real problem.
-  - name: "Victoria B"
-    rating: 5
-    comment: |
-      Irene is exceptional!! I’ve been coming here for a couple of months now and she kills it every time! Her talent and attention to detail is spectacular. My first time coming here I booked online and chose “anyone” and I got her but now I will continue to book with her every time! Highly recommended this place.
   - name: "Axiana"
     rating: 5
     comment: |
       Another set of nails these ones by Irene and they are beautiful!! The holo butterfly nails are stunning. I brought her a video and she made my nails 100% exactly the same!!!
       
       Absolutely amazing!! They are so friendly, and are great at doing nails, I may have weird shaped toes but at least my nails look great, they even took time on my pink toe that barely has a nail 🤣 I will definitely go back
-  - name: "Kailee (Kiwi)"
+  - name: "E S"
     rating: 5
     comment: |
-      Ivy is honestly the best nail tech I’ve ever had. She is always up for whatever crazy design I come in with ,spooky, anime themed, witchy, or anything in between and she executes it phenomenally every single time. Her attention to detail and creativity are unmatched.
-      I've also never had a singular issues with any of my nails popping off or not lasting longer than 4+ weeks
-      On top of her talent, Ivy is such a wonderful person to sit with during appointments. She never expects you to be more than what you are that day. Whether you feel like chatting or just sitting quietly, she makes the space feel comfortable, safe, and judgment-free. Every appointment feels relaxed, creative, and genuinely enjoyable. I couldn’t recommend her more. 🖤✨
-      
-      *Edit to add photo , seriously Ivy is PHENOMENAL
+      I love this nail studio, probably the best I've ever been to. Lots of people see my nails/hands because of work and since starting to see Irene regularly, I've gotten so many complements on my nails! I always tell them I go to Nail Nerd Studio, and mention Irene, by name. They're reasonably priced, I believe. The booking is always very smooth and I easy. Irene pays so much attention to detail, I can't recommend her enough!
+  - name: "Victoria B"
+    rating: 5
+    comment: |
+      Irene is exceptional!! I’ve been coming here for a couple of months now and she kills it every time! Her talent and attention to detail is spectacular. My first time coming here I booked online and chose “anyone” and I got her but now I will continue to book with her every time! Highly recommended this place.
 ---

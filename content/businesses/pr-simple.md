@@ -20,7 +20,7 @@ hours:
   sunday: "7:00 AM–3:00 PM"
 photos: ["/photos/pr-simple-1.jpg", "/photos/pr-simple-2.jpg", "/photos/pr-simple-3.jpg"]
 rating: 4.8
-review_count: 2922
+review_count: 2946
 price_range: "$$"
 amenities:
   - "Dine-In"

@@ -18,7 +18,7 @@ hours:
   sunday: "11:00 AM–3:00 PM"
 photos: ["/photos/old-strathcona-farmers-market-1.jpg", "/photos/old-strathcona-farmers-market-2.jpg", "/photos/old-strathcona-farmers-market-3.jpg"]
 rating: 4.6
-review_count: 2727
+review_count: 2733
 price_range: "$$"
 amenities:
   - "Family Friendly"

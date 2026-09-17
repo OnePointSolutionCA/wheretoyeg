@@ -31,10 +31,10 @@ reviews:
     comment: |
       Fast service, affordable and certified documents translated from German.
       Zul at RCIC really helped me out in a pinch ! I appreciated his prompt responses and professional awareness to meet my needs . Definitely 5 stars! ⭐️ ⭐️⭐️⭐️⭐️
-  - name: "Lisa Almonte"
+  - name: "Juan Pablo Llanca"
     rating: 5
     comment: |
-      Super fast service, affordable and certified documents translated  from  Spanish to English. Accuracy 100%
+      I have been using this service for three years and have always been impressed by their professionalism, timely delivery, and accurate certified translations from Spanish to English.
 hours:
   monday: "9:00 AM–5:00 PM"
   tuesday: "9:00 AM–5:00 PM"

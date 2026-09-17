@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/my-smile-family-dental-1.jpg", "/photos/my-smile-family-dental-2.jpg", "/photos/my-smile-family-dental-3.jpg"]
 rating: 4.7
-review_count: 1293
+review_count: 1291
 price_range: "$$"
 amenities:
 
@@ -34,13 +34,14 @@ reviews:
       I had an excellent experience with Smile Family Dental. The entire team is friendly, professional, and genuinely cares about their patients. They were always available to answer my questions and made me feel comfortable throughout every visit.
       Their experience and knowledge really stand out, especially when it comes to wisdom tooth removal. The procedure was handled smoothly, and they took the time to explain everything clearly, which helped put my mind at ease. The staff was supportive, attentive, and made the whole process much easier than I expected.
       I highly recommend Smile Family Dental to anyone looking for experienced, friendly, and reliable dental care. Thank you to the entire team for providing such outstanding service!
-  - name: "Sajee Sooriyaarachchi"
+  - name: "Vanessa Vuu"
     rating: 5
     comment: |
-      I had a wonderful experience at my appointment today. From the moment I arrived, I felt welcomed by the friendly and professional staff. The front desk team was kind and organized, which made the check-in process smooth and stress-free.
-      During my appointment, everything was clearly explained to me, and I really appreciated how patient and attentive the dental team was. They made sure I was comfortable at all times and took the time to answer my questions. Their care and professionalism helped me feel relaxed and confident throughout the visit.
-      The clinic was very clean, well-maintained, and had a calm atmosphere, which made a big difference in my overall experience. It’s clear that the team puts a lot of effort into providing high-quality care and ensuring patients feel at ease.
-      Overall, my experience fully met my expectations, and I am very happy with the service I received. Thank you again to the entire team for your excellent care. I look forward to my next visit! Highly recommend.
+      The team at My Smile Family Dental are an excellent team. Calling to book an appointment was easy. All staff present addressed my concerns because there has been an extensive gap since my last visit. I had the pleasure of Dr.Arshpreet Kaur and Aya take care of me. Both members are highly professional, diligent, informative, and respectful. They made an effort to ensure I was relaxed, comfortable and ready for each step along the way. I am so grateful I had Aya and Dr.Arshpreet's help. They are amazing!
+      
+      The one concern I have is I felt another hygienist in a space close by take digs at me because I had waited so long to return. I felt extremely uncomfortable and tried my best not to cry as an outburst of sobs would have made it difficult for Aya to work on me. Thankfully after examinations on my x-rays Aya's energy lifted my spirit which led me to feel safe.
+      
+      Thank you to everyone who took care of me. My anxiety was awful leading up to this visit but I am so happy I booked.
   - name: "Tyler Dau"
     rating: 5
     comment: |

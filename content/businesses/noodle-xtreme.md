@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Mill Woods"
 address: "2605 66 St NW, Edmonton, AB T6K 4C8"
 rating: 4
-review_count: 193
+review_count: 196
 tier: "featured"
 phone: "(780) 469-8081"
 website: "https://www.noodlextreme.com/"

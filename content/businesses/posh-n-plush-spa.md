@@ -35,14 +35,10 @@ reviews:
       I had a very disappointing experience at this spa. I went in for laser hair removal, and not only was I burned, but the esthetician (Pam?) didn’t apologize or show any concern at all. The service itself was poorly done—she left multiple sections unfinished, weeks later the hair grew back all patchy. I have had laser before so I knew what to expect. The overall quality was far below basic expectations.
       On top of that, she was extremely unpersonable and made me feel uncomfortable throughout the appointment. Despite the burns and the poor job, I was still charged full price.
       I will not be returning, and I do not recommend this place.
-  - name: "Doz.Revs308"
+  - name: "Kelly"
     rating: 1
     comment: |
-      If you’re considering getting laser hair removal, I’d suggest going somewhere else.
-      
-      The lady who does the laser hair removal (Pam) can be rude and will make insulting comments about your appearance while trying to upsell her services. She also dips the sticks used for the cooling gel back into the bottle multiple times, which seems very unhygienic.
-      
-      Both of my appointments were also quite painful. I know laser can be uncomfortable, but from what I’ve heard from others and read online, the level of pain I experienced seemed higher than expected.
+      WORST SPA EXPERIENCE EVER. This woman tried to upsell me from the moment I arrived even though I was already paying hundreds of dollars. She made rude comments about my appearance, claiming I "needed" the extra treatments. The facial was painful even though she said I wouldn't feel anything, I was twinging every time she touched my face. I told her it was hurting and her comment was "well it doesn't hurt for anyone else". Not only is she unprofessional, she is unreliable. I tried for weeks to even get in contact to make this appointment (as I had a Groupon) and then she cancelled last minute twice. I already had a bad impression and then received the worst facial ever. I don't know where these other 5 star reviews come from because my experience was terrible. DO NOT WASTE YOUR TIME OR MONEY HERE!!
 hours:
   monday: "Closed"
   tuesday: "10:00 AM–6:00 PM"

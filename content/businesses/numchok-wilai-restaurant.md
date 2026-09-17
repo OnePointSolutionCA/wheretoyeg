@@ -33,14 +33,6 @@ reviews:
     rating: 5
     comment: |
       It’s always a treat to come and eat here! I live out of town and I discovered this authentic Thai restaurant on one of my business trips. I now schedule my trips around a meal at Numchok Wilai. It was such a surprise that after a two year gap, when I walked in, the wonderful owners remembered me. It felt like coming home. Fantastic food, warm and welcoming. I lived in Thailand for a long time, and it is very authentic in decor and service. Aroy mak!
-  - name: "S Kissan"
-    rating: 5
-    comment: |
-      This place was phenomenal! The food had soooooo much flavour. Every bite was savored! The pad thai noodles were very authentic! Thr service was fantastic and the overall atmosphere was homely.
-      
-      I have driven by this place hundreds of times but this was my first time eating here and I will be back again!
-      
-      The Panag curry was the best!
   - name: "Suzy H"
     rating: 5
     comment: |
@@ -53,4 +45,8 @@ reviews:
     rating: 5
     comment: |
       The place is cozy and serves authentic Thai food. Their tom yum soups are perfect for a cold weather or if you just want some goodness in life. The staff/management are friendly.
+  - name: "Dennis G"
+    rating: 4
+    comment: |
+      We have not been here since before the pandemic. Ordered the stuffed chicken wings, Tom Yum soup, chicken green curry, vegetarian Pad Thai, and coconut rice. Everything was delicious! The service was very friendly and the food came out quickly and was fresh and hot. It was fairly steady which indicates how good this place is. Give it a try.
 ---

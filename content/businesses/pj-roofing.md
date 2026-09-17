@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/pj-roofing-1.jpg", "/photos/pj-roofing-2.jpg", "/photos/pj-roofing-3.jpg"]
 rating: 4.8
-review_count: 100
+review_count: 99
 price_range: "$$"
 amenities:
 

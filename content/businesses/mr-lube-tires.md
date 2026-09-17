@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "12704 137 Ave NW, Edmonton, AB T5L 1B9"
 rating: 4.3
-review_count: 1058
+review_count: 1059
 tier: "featured"
 phone: "(780) 456-8918"
 website: "https://www.mrlube.com/locations/15?utm_source=G&utm_medium=lpm&utm_campaign=MrLube"
@@ -32,12 +32,6 @@ reviews:
     rating: 5
     comment: |
       I’ve been coming here for the last 6 months and honestly these guys are awesome. Got my tires changed here and they gave me a great deal. The staff is always helpful, explains everything properly, and never tries to push unnecessary sales. They genuinely care about your car and recommend what’s best, even if you get the work done somewhere else. The manager is super nice too. Highly recommend this place to everyone!
-  - name: "Crystal White"
-    rating: 1
-    comment: |
-      New Management and no customer service. No smiles or friendliness just authority. The staff was ok but found that the manager wasnt very supportive when busy was mostly in the office where my guy had to keep leaving what he was doing to attend new customers and more of a distraction to the same employee of similar descent that was working on my car by bringing a personal phone to him time and time again. Was charged more for services when told by management I wouldn't be ($200+ on a fleet payment). There were more incidents like marking a damaged tire so I know which one or writing down for me what I need for a new tire so I know what to ask for and that was too hard. Not everyone is knowledgeable about these things but I felt dumb to say the least leaving when the service just could have been provided. I will be returning to get my hubcaps put back on (because they didnt even do this and rushed me out after 3 hours of a tire change that didnt need to be this long if the staff had the support from management) when I go back for my torque. After that I will not be returning. This place has gone down hill. Reading the other reviews I cant help to think that the recent positive ones are from friends & family. I have been a regular here for at least 3 years and anyone who came here before 2026 you can see the difference in the reviews and not only the reviews but how the responses are carried through in oppose to automated like the negative ones.
-      
-      I do not recommend this place!
   - name: "Peyten Appleman"
     rating: 1
     comment: |
@@ -48,6 +42,10 @@ reviews:
       This isn’t even the first horror story I’ve heard. My dad’s best friend also had work done here, and after his visit a seal on his truck was damaged, leading to almost $3,000 in repairs.
       
       At this point, I wouldn’t let this location top up my windshield washer fluid. If you value your vehicle and your wallet, I’d seriously consider taking it somewhere else. One expensive coincidence is bad enough. Multiple stories like this are impossible for me to ignore.
+  - name: "M HRB"
+    rating: 1
+    comment: |
+      I got my tires changed yesterday they damaged the cars rims the stuff was unhepfull when i made the complaint
 hours:
   monday: "8:00 AM–8:00 PM"
   tuesday: "8:00 AM–8:00 PM"

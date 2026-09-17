@@ -53,10 +53,8 @@ reviews:
     comment: |
       Nice place. Haven't tried their restaurant nor did I validate their Halal authenticity. Have gone there usually for the lavash bakery tandoori roti.
       Very good collection
-  - name: "Lamia Ninos"
+  - name: "Ehab Mohamed"
     rating: 5
     comment: |
-      Really friendly owners and workers,good selection of meat with affordable prices.
-      Great takeout pizza.
-      Recommend it to everyone.
+      Would absolutely recommend for any one looking for quality beef and friendly staff.
 ---

@@ -18,7 +18,7 @@ hours:
   sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/muttart-conservatory-1.jpg", "/photos/muttart-conservatory-2.jpg", "/photos/muttart-conservatory-3.jpg"]
 rating: 4.7
-review_count: 2499
+review_count: 2516
 price_range: "$$"
 amenities:
   - "Family Friendly"

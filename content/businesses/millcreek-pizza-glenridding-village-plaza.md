@@ -14,6 +14,10 @@ google_maps: "https://maps.google.com/?cid=18024223410403251459&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/millcreek-pizza-glenridding-village-plaza.jpg"
 reviews:
+  - name: "Audric Moses"
+    rating: 5
+    comment: |
+      A very good new alternative to the pizza chains for the southwest. The owner/manager is super-friendly and open to feedback. The two-pizza prices are very good (discount shows up in the cart). It's mainly a takeout spot, but has some tables & chairs with more being installed. The pizzas are really tasty, with lots of toppings and cheese. WAY better than the US chains (why does anyone still get Pizza Hut?). Pictures are: (1&2) single topping pepperoni, (3) bacon & pineapple, and (4) the inside of their stuffed breadsticks, which were very cheesy and delicious. They also have some Indian-type snacks and recipe pizzas if you want to mix it up. You should try it! One caveat: their online ordering system is a bit confusing. Just push through. You have lots of chances to change the order if it looks wrong at checkout. I think they'll be changing to a better system in the near future.
   - name: "Eli Court"
     rating: 5
     comment: |
@@ -31,10 +35,6 @@ reviews:
     rating: 5
     comment: |
       Amazing Taste & flavour. I just bought 3 large pizzas an hour ago. All my guest were so happy with the food. They have the best pizza flavours & the crustiest.
-  - name: "jigar bhanushali"
-    rating: 5
-    comment: |
-      Ordered 2 medium pizzas (no onion and garlic sauce pizza) from Mill Creek Pizza and everyone really enjoyed them. The pizzas were fresh, tasty, and well made. The service from the owner was also very good and welcoming. Great overall experience — would definitely order again!
 hours:
   monday: "12:00 PM–10:00 PM"
   tuesday: "12:00 PM–10:00 PM"

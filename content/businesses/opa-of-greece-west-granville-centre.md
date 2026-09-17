@@ -46,12 +46,12 @@ reviews:
       The place is consistently clean, and the food is always delicious and reliable. You know exactly what to expect every time, and they deliver.
       
       Definitely a spot we keep coming back to!
-  - name: "Ryan White"
-    rating: 4
-    comment: |
-      Great food and staff but very slow because it was busy.
   - name: "Nasya Gibson"
     rating: 5
     comment: |
       Great food and comfortable environment. The lovely lady behind the counter came and asked how our meal was. Always great here!
+  - name: "Ryan White"
+    rating: 4
+    comment: |
+      Great food and staff but very slow because it was busy.
 ---

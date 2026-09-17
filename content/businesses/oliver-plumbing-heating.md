@@ -36,10 +36,6 @@ reviews:
     rating: 5
     comment: |
       Yes Steve and Robbie are amazing at what they do! They were willing to come fix our broken furnace after hours! Combined experience of over a decade! Highly recommend this company!
-  - name: "Joce LeB"
-    rating: 5
-    comment: |
-      Logan is incredible. I was lucky enough to be able to talk to him when my furnace stopped working on a Friday night, he took my call, troubleshooted over the phone, told me where to go get the part, took another call after I had the part and stayed with me until it was fix. Brilliant! Couldn't be happier!
   - name: "ky lau"
     rating: 1
     comment: |
@@ -67,4 +63,12 @@ reviews:
       I STRONGLY recommend this company! It is always my go to, as well word of mouth reference to anyone in the business community, to fellow professionals and to personal contacts - and they experience the same level of high service that I continually write about.
       
       IGNORE THE NEGATIVE REVIEWS AS THEY ARE 'NOT' INDICATIVE OF THE SERVICE ACTUALLY RECIEVED - and more likely the negative reviews are FAKES or left by UNREASONABLE people - the type of people you wouldn't want to deal with in your personal life never mind if you had a business!
+  - name: "Jennifer C"
+    rating: 5
+    comment: |
+      I had a complicated situation involving a full appliance swap: fridge, stove, dishwasher, washer/dryer. Oliver Plumbing showed up ready for anything. The team was punctual, professional, and incredibly flexible despite the delivery company causing delays and confusion.
+      
+      They stayed calm, worked around the chaos, and completed the faucet, drain, and dishwasher installations with care and precision. Their communication was excellent, and they didn’t rush. They made sure everything was done right. I truly felt supported and in good hands.
+      
+      In a stressful situation, they were the reliable, skilled professionals I needed. Highly recommend Oliver Plumbing and would absolutely use them again!
 ---

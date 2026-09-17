@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "8528 126 Ave NW, Edmonton, AB T5B 1G6"
 rating: 4.8
-review_count: 216
+review_count: 215
 tier: "featured"
 phone: "(780) 292-5180"
 google_maps: "https://maps.google.com/?cid=12564000768550517269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -41,19 +41,10 @@ reviews:
     rating: 5
     comment: |
       Had an amazing experience at R/T services! Rohan and his wife are such kind and genuine people! It’s a family owned business with very reasonably pricing and fast service! (Very knowledgable) While waiting they made me feel at home, I watched the football game while relaxing in there massage chair.  I highly recommend! They have a customer for life…
-  - name: "Soli"
+  - name: "Sean McCartan"
     rating: 5
     comment: |
-      *Guest room got upgraded.   Watch movie or get some massage while you are waiting. You might want to book your car in, because of all of those :)
-      
-      Great service and great price.
-      Also he is very nice and honest guy.
-      Highly recommended.
-      You can book by texting as well, very quick response!
-      
-      *There is a  spacious&clean guest room that has even cute little playground for your kids❣️
-      
-      *it’s front side of this place, you need to go to the back side! Just you know!
+      Got in quick on a Sunday afternoon for a tire repair. Great friendly service for a very fair price!  And I walk into the waiting room to find a MASSAGE CHAIR!!  Highly recommend
 hours:
   monday: "9:00 AM–9:00 PM"
   tuesday: "9:00 AM–9:00 PM"

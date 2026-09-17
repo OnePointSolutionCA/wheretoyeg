@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/radhas-brows-lashes-inc-1.jpg", "/photos/radhas-brows-lashes-inc-2.jpg", "/photos/radhas-brows-lashes-inc-3.jpg"]
 rating: 5
-review_count: 200
+review_count: 201
 price_range: "$$"
 amenities:
 
@@ -40,6 +40,14 @@ reviews:
       But Radha has experience and she understands how the brow is supposed to frame and open the eye area, and create more symmetry. The result is so much better.
       
       Millennial women know what happens when you overpluck or do tadpole eyebrows or whatever else is trendy: you spend years correcting your mistakes, your look is dated, and you cringe looking back in your photos! That will never happen with Radha, you will always leave looking better and with a great experience.
+  - name: "Sara Ouellette"
+    rating: 5
+    comment: |
+      Got a mega volume eyelash extension set. Time was good, they were as efficient as possible with such delicate work. Price fair for end product.
+  - name: "Zoey Nestel"
+    rating: 5
+    comment: |
+      I got my whole face threaded and brows shaped, best hair service experience by far!!! Super nice and high quality service! Took me 3 years to find a good go to place and I definitely found it! :)
   - name: "Jess. X"
     rating: 5
     comment: |
@@ -50,12 +58,4 @@ reviews:
     rating: 5
     comment: |
       First time customer and so impressed.  Renu is very skilled at threading.  Great communication and response when inquiring about an appointment, Renu was professional and efficient, at first I wondered if she was being successful at removing threading my face because she does it so well that and I didn’t leave with any marks on my face (other people have cut my face especially around my eyebrows) she didn’t use tweezers and I can’t find on hair on my face. She has some serious skills so happy to find her!  Thank you.
-  - name: "Sara Ouellette"
-    rating: 5
-    comment: |
-      Got a mega volume eyelash extension set. Time was good, they were as efficient as possible with such delicate work. Price fair for end product.
-  - name: "Zoey Nestel"
-    rating: 5
-    comment: |
-      I got my whole face threaded and brows shaped, best hair service experience by far!!! Super nice and high quality service! Took me 3 years to find a good go to place and I definitely found it! :)
 ---

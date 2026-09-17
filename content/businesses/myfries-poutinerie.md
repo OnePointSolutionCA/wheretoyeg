@@ -38,16 +38,16 @@ reviews:
     rating: 5
     comment: |
       The owner and staff are very kind and accommodating! Their customer service is fantastic. We came here for gluten free and lactose free. I ordered milkshake and asked if they have lactose free milk, they didn’t have lactose free milk but they have dairy free icecream. The owner made me a milkshake from their dairy free icecream. The milkshake tasted great! We highly recommend this place! ❤️
+  - name: "Alycia Nicole"
+    rating: 5
+    comment: |
+      Absolutely my favourite poutine place. The food is always good, the staff are great, and the owners are seriously amazing. I hadn’t been in for months and they still remembered me when I came back, which honestly says a lot about the kind of people they are.
+      
+      It’s one of those places where you actually feel like a regular instead of just another customer. Good food, good people, and I’ll happily keep coming back.
   - name: "Lindsey Leigh"
     rating: 5
     comment: |
       I love this place so much! The food here is awesome and is one of me and my kids faves, due to dietary restrictions most fast food places are cut out but my fries has that covered! They have such good milkshakes.
-  - name: "Jared"
-    rating: 5
-    comment: |
-      So many delicious options! Love the pulled pork and brisket.
-      Every time I've been the staff has been super friendly.
-      The only negative I can think of is the forks, they are those blunt wooden ones.
   - name: "TJ Suttie"
     rating: 5
     comment: |

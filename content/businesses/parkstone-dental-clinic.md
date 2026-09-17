@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "7000 Emerald Dr # 915, Sherwood Park, AB T8H 0P5"
 rating: 4.9
-review_count: 834
+review_count: 836
 tier: "featured"
 phone: "(587) 269-2999"
 website: "http://www.parkstonedental.com/"
@@ -14,6 +14,14 @@ google_maps: "https://maps.google.com/?cid=12303670819212242413&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/parkstone-dental-clinic.jpg"
 reviews:
+  - name: "Kelly"
+    rating: 5
+    comment: |
+      I had such a great experience at Parkstone Dental today! My hygienist was absolutely wonderful — she was kind, gentle, thorough, and made me feel comfortable throughout my entire appointment. She took her time and made the whole experience so positive.
+      
+      I also want to recognize the administrative staff. Everyone I interacted with was incredibly friendly, welcoming, and helpful. From the moment I arrived until I left, I felt genuinely well taken care of.
+      
+      Thank you to the entire team at Parkstone Dental for such a great experience. I would absolutely recommend them!
   - name: "Lindsay Jack"
     rating: 5
     comment: |
@@ -40,11 +48,6 @@ reviews:
     rating: 5
     comment: |
       The team at Parkstone Dental at the Sherwood Park Emerald Hills location is truly exceptional. I’ve been coming here for several years, and every visit reminds me why I trust this clinic so much. From the moment I walk in, the front‑desk staff greet me warmly and handle everything with professionalism and care. The dental hygienists are thorough, gentle, and always take the time to explain what they’re doing, which helps me feel completely at ease. The dentists are equally outstanding—knowledgeable, respectful, and committed to making sure I feel comfortable, informed, and safe throughout every appointment.I genuinely appreciate the consistency, kindness, and high‑quality care this team provides. Thank you for making every experience such a positive one.
-  - name: "Courtnei Davies"
-    rating: 5
-    comment: |
-      Today was my first and not my last appointment with Parkstone Dental.  First and for most you can tell how much everyone loves to work there, as I filled out my intro paperwork you could hear everyone speaking to eachother and it was filled with lots of laughter so that's amazing! Jasmine was incredibly kind, worked efficiently during my cleaning and took her time to show my chart while explaining everything. The dentist (who's name i missed 😭) was very personable, great "bedside" manner and has a friendly approach.
-      After not being to the dentist in a long time this was a fantastic experience and I look forward to continuing to bring my buisness and my family here.
 hours:
   monday: "8:00 AM–4:00 PM"
   tuesday: "8:00 AM–8:00 PM"

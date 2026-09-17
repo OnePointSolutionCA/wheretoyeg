@@ -19,7 +19,7 @@ hours:
   sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/ph-d---oriental-noodles-bistro-1.jpg", "/photos/ph-d---oriental-noodles-bistro-2.jpg", "/photos/ph-d---oriental-noodles-bistro-3.jpg"]
 rating: 4.6
-review_count: 819
+review_count: 820
 price_range: "$"
 amenities:
   - "Takeout"

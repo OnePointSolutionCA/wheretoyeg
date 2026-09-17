@@ -19,7 +19,7 @@ hours:
   sunday: "7:00 AM–12:00 AM"
 photos: ["/photos/mokha-coffee-house-1.jpg", "/photos/mokha-coffee-house-2.jpg", "/photos/mokha-coffee-house-3.jpg"]
 rating: 4.7
-review_count: 2124
+review_count: 2117
 price_range: "$$"
 amenities:
   - "Halal"

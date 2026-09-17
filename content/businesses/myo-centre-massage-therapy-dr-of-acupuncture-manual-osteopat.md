@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–9:00 PM"
 photos: ["/photos/myo-centre-massage-therapy-dr-of-acupuncture-manual-osteopat-1.jpg", "/photos/myo-centre-massage-therapy-dr-of-acupuncture-manual-osteopat-2.jpg", "/photos/myo-centre-massage-therapy-dr-of-acupuncture-manual-osteopat-3.jpg"]
 rating: 4.8
-review_count: 169
+review_count: 168
 price_range: "$$"
 amenities:
 
@@ -28,15 +28,15 @@ tags: ["edmonton", "massage-therapy"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Denise B"
+    rating: 5
+    comment: |
+      Amanda is by far the best massage therapist I have ever had!  I hobbled in to my appointment with my cane - my pain had gotten so bad I was even using my cane around my house, but I have had my first pain-free moments in months since she worked her magic!  I actually slept last night and don't need to rely on my cane!  Thank you Amanda!   If only Alberta Health would cover massage - a good massage does more good than the effective, but potentially dangerous pain meds I have been prescribed!
   - name: "Sullivan Baker"
     rating: 5
     comment: |
       I've gone to both Amanda and Erin for different treatments and had a great experience with both of them. I love that I can find an appointment within 1-2 days, and that when I arrive there isn't a long wait to get started on the service, the therapist takes me in immediately.
       It is more medical than spa-like here but I don't mind it at all because really I am there for medical needs. It is still a warm and welcoming environment.
-  - name: "Denise B"
-    rating: 5
-    comment: |
-      Amanda is by far the best massage therapist I have ever had!  I hobbled in to my appointment with my cane - my pain had gotten so bad I was even using my cane around my house, but I have had my first pain-free moments in months since she worked her magic!  I actually slept last night and don't need to rely on my cane!  Thank you Amanda!   If only Alberta Health would cover massage - a good massage does more good than the effective, but potentially dangerous pain meds I have been prescribed!
   - name: "Analea Shukaliak"
     rating: 5
     comment: |

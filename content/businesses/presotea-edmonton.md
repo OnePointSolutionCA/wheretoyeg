@@ -38,6 +38,10 @@ reviews:
     rating: 5
     comment: |
       had the dirty coco which was actually incredible.  I was in such a hurry and the attendant was super kind and helpful, respected my time and was kind enough to even give me directions. So good 😁
+  - name: "Teeth G"
+    rating: 5
+    comment: |
+      Wow! The person serving us this morning was super welcoming and knowledgable, thry answered our questions and gave us good recommendations. We rarely spend money on specialty drinks and I'm very particular about it, so we usually go to Starbucks, unfortunately. I'm happy to say we found our new alternative!
   - name: "freselam teklom"
     rating: 5
     comment: |
@@ -46,9 +50,4 @@ reviews:
     rating: 5
     comment: |
       First time at this location and we had a great experience. We were greeted right away, the service was good and our drinks were ready pretty quick. There are lots of options too! I love the unique flavour combinations. The prices were reasonable and we both LOVED our choices. They were super tasty, the pearls were soft and definitely fresh. Loved the mango sunrise! Can’t wait to try more.
-  - name: "Лілія Афанасьєва"
-    rating: 1
-    comment: |
-      Very dissatisfied! I bought extra jelly with my friend, paid a lot of money, and received an incomplete portion! Before this, we always took it, everything was fine! This time it's just terrible! If you charge extra for it, then the portion should be appropriate!
-      The staff did not respond to the comments at all!
 ---

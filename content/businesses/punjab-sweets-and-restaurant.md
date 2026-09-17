@@ -6,7 +6,7 @@ subcategory: "indian-pakistani"
 neighborhood: "Mill Woods"
 address: "9393 34 Ave NW, Edmonton, AB T6E 5W8"
 rating: 3.7
-review_count: 1673
+review_count: 1674
 tier: "featured"
 phone: "(780) 434-7373"
 website: "http://www.punjabsweet.ca/"

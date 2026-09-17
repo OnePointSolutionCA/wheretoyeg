@@ -28,6 +28,10 @@ tags: ["edmonton", "printing"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "T"
+    rating: 5
+    comment: |
+      These guys are so great! They’ve printed so many important things for us for our wedding, and every single time, they were incredibly helpful and got everything done so quickly. We truly appreciate their attention to detail, efficiency, and amazing service. Highly recommend them! 💛
   - name: "ninad ghate"
     rating: 5
     comment: |
@@ -45,8 +49,4 @@ reviews:
     rating: 5
     comment: |
       Awesome clarity and quality of photo print with accurate size. They got some pretty good equipment and provides great customer service.
-  - name: "kawthar awad"
-    rating: 5
-    comment: |
-      The guys are amazing. Their price is very reasonable in comparison with others. Their work is very professional, easy to contact them and they  respond directly and quickly to the emails and any inquiry or question. I highly recommend them. They made a beautiful advertising panel to my business place.
 ---

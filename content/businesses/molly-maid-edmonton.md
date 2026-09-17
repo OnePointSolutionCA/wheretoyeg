@@ -33,6 +33,13 @@ reviews:
     rating: 1
     comment: |
       I hired them to do a deep clean of my parents’ home, and I was extremely disappointed with the results. Many surfaces that were right out in the open were left dusty or untouched, and it honestly doesn’t even look like a deep cleaning was done. I expected much more attention to detail and care, especially for a service advertised as a deep clean. Unfortunately, the quality of work fell well below expectations.
+  - name: "Joy Husel"
+    rating: 5
+    comment: |
+      I have used Molly Maid for years and am very, very happy with their service.
+      Adriana and Dorian have been with us for many years. They do an exception job! They are extremely conscientious and take pride in their work. They are great with our pet. They are dependable and very trustworthy.
+      I really appreciate the professionalism and quality work of Molly Maid.
+      I highly recommend them!
   - name: "hayley simpson"
     rating: 5
     comment: |
@@ -41,10 +48,6 @@ reviews:
     rating: 5
     comment: |
       From my first contact I was given an estimate by Michelle and they hit it right on. The Crew of Patti, Josie, and a different Michelle made it sparkle which is a must for perspective buyers.  Thanks!! WELL worth the investment! - Andrew Fulcher
-  - name: "J R"
-    rating: 1
-    comment: |
-      Very poor and worst cleaning I ever seen. Took lots of time to do the bad work for 1 room. If there is any star below 1 I will give
   - name: "Mega Destroyer"
     rating: 5
     comment: |

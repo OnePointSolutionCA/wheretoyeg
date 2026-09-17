@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Spruce Grove"
 address: "16 Westway Rd, Spruce Grove, AB T7X 3X3"
 rating: 4
-review_count: 346
+review_count: 345
 tier: "featured"
 phone: "(780) 473-7373"
 website: "https://www.pizza73.com/restaurant-locator/alberta/spruce-grove/16-westway-rd/?utm_source=google&utm_medium=local&utm_campaign=google-local"
@@ -14,6 +14,20 @@ google_maps: "https://maps.google.com/?cid=4603609610432263300&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/pizza-73.jpg"
 reviews:
+  - name: "Sony Sunny"
+    rating: 1
+    comment: |
+      I have been buying the Chicken Shawarma Pizza from your store for the past three years, and it has always been one of my favorites. However, since around March of this year, the quality has declined significantly.
+      
+      The pizza now contains very little chicken or other toppings, making it feel like a waste of money. The last time we ordered, we only noticed the lack of fillings after getting home and opening the box, and we were very disappointed.
+      
+      Today, at around 9:00 PM, we ordered the same pizza again. This time, we opened the box inside the store to check before leaving. Unfortunately, the pizza was the same, with very minimal toppings. When we politely asked the staff about it, their attitude was disappointing and unprofessional. Ironically, these are the same staff members who used to make excellent pizzas before. They simply told us, “This is how the pizza is now.”
+      
+      I have attached a photo for your reference.
+      
+      I kindly request that the manager look into this issue. I have been a loyal customer for years, and I would hate to stop ordering because of the declining quality and poor customer service. If this continues, I believe many other loyal customers may also choose to go elsewhere.
+      
+      Thank you for taking the time to address this concern. I hope to see the quality and service return to the standard that made your store so popular.
   - name: "Natasha Jones"
     rating: 1
     comment: |
@@ -30,10 +44,6 @@ reviews:
     rating: 1
     comment: |
       One star shouldn’t be aloud this is horrible I ordered a gluten free with extra vegan cheese and paid 4 dollars extra for it I ordered it in Uber eats. This is very clearly inedible like they Litterly could not of done worse if they tried absolutely deploarable.!!! I would be so ashamed if I was the manager or let this out of my store!!!! Nuggets arrived BURNT and cold to and look at the lack of toppings these 2 pizza and the burnt nuggets costed me 77$ luckily Uber eats decided it was completely unacceptable and immediately refunded me. This is horrible I posted this on Facebook and 37 people responded saying how bad service they’ve gotten !! Pictures will be on every platform
-  - name: "Sue Turner"
-    rating: 5
-    comment: |
-      Just picked up our first pizza order and some boneless wings. We have been a fan of the of the donairs and poutine but wanted to mix it up. Chatted with the owner while they prepared my order and he was incredibly nice. He gave me some of the history of the chain (I’m from another province), and told me if I had any issues with anything to speak to him. Thank you sir! No issues and the pizza and wings are great!
 hours:
   monday: "11:00 AM–11:00 PM"
   tuesday: "11:00 AM–11:00 PM"

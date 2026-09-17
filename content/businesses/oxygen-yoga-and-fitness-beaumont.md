@@ -5,7 +5,7 @@ category: "gyms-fitness"
 neighborhood: "Beaumont"
 address: "7101 49 St, Beaumont, AB T4X 0T2"
 rating: 4.9
-review_count: 61
+review_count: 64
 tier: "featured"
 phone: "(825) 556-1000"
 website: "https://oxygenyogaandfitness.com/beaumont/"

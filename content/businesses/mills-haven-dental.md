@@ -22,10 +22,6 @@ reviews:
     rating: 5
     comment: |
       Love it here! I always dreaded the dentist, but these ladies are so warm and welcoming😄 they're always thorough in the exams and explain everything they're doing and what to expect from said procedures . They do a great job and so awesome at joking around and keeping things light..... it's actually kinda fun just cuz... well.... they're awesome🙌🦷😎
-  - name: "Lindsey Pelletier"
-    rating: 5
-    comment: |
-      Kaelyn at Mill Haven Dental is an outstanding hygienist! She is professional, gentle, and incredibly thorough, always making sure you feel comfortable and well cared for. She takes the time to explain everything clearly and offers helpful tips to keep your smile healthy. Her friendly personality and attention to detail truly set her apart. I highly recommend booking with Kaelyn at Mill Haven Dental! 🦷🪥
   - name: "Jason Heidman"
     rating: 5
     comment: |
@@ -36,6 +32,10 @@ reviews:
       Millshaven Dental was very accommodating to get me in to have some emergency dental work done. Front desk staff as well as the dentist were so friendly and explained my options very well. They had me fixed up and out the door in a short time.
       
       I was in the market for a new dentist and finally found the right place! Highly recommend!
+  - name: "Lindsey Pelletier"
+    rating: 5
+    comment: |
+      Kaelyn at Mill Haven Dental is an outstanding hygienist! She is professional, gentle, and incredibly thorough, always making sure you feel comfortable and well cared for. She takes the time to explain everything clearly and offers helpful tips to keep your smile healthy. Her friendly personality and attention to detail truly set her apart. I highly recommend booking with Kaelyn at Mill Haven Dental! 🦷🪥
 hours:
   monday: "7:00 AM–3:00 PM"
   tuesday: "9:00 AM–5:00 PM"

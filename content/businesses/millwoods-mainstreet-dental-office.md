@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Mill Woods"
 address: "6420 28 Ave NW, Edmonton, AB T6L 6N3"
 rating: 5
-review_count: 112
+review_count: 116
 tier: "featured"
 phone: "(780) 463-0555"
 website: "https://millwoodsmainstreetdental.com/"
@@ -26,10 +26,6 @@ reviews:
     rating: 5
     comment: |
       I had a very positive experience at Main Street Dental in Mill Woods, especially with Dr. Jasdeep S. Ashta and his team. They were incredibly kind, helpful, and professional throughout the entire process. Dr. Jasdeep treated my father with great care and attention, making sure he was comfortable and well-informed at every step. The level of compassion and dedication shown by the whole team really stood out. I truly appreciate their excellent service and would highly recommend them to others.
-  - name: "Rajpreet Kaur"
-    rating: 5
-    comment: |
-      Dr. Jasdeep is an extremely soft-spoken and caring dentist. I felt comfortable throughout my entire procedure and He made sure to answer any questions I had. he maintains a sense of professionalism while also being friendly. The staff are also very welcoming and helpful. Would highly recommend to visit here
   - name: "Fiaz Khan"
     rating: 5
     comment: |
@@ -37,6 +33,10 @@ reviews:
       2 I gone first time there 4 days ago for cleaning and filling DR is very experienced person I am in this city for last 24years and I use to see Mr DR Duglus REED in west side he was very humble and gentle person after his retirement finally I got this DR who understands the issue and solve it with nicely manor. Today my wife visit them and she was so satisfied by service they provide. On the end I will thank to the staff and specially the DR JASDEEP who take care of us.100 percent i recmend he is very professional person.
       Thank you
       Fiaz Warraich
+  - name: "PARDIP KAUR"
+    rating: 5
+    comment: |
+      I recently visited Dr. Jasdeep S. Ashta and had a very positive experience. The clinic is clean and well-organized, and the staff are friendly and welcoming. Dr. Ashta took the time to listen to my concerns and provided clear, detailed explanations about the treatment. The entire process was smooth and comfortable. I truly appreciate the professionalism and care, and I would definitely recommend Dr. Ashta to anyone looking for reliable dental services.
 hours:
   monday: "9:00 AM–7:00 PM"
   tuesday: "9:00 AM–7:00 PM"

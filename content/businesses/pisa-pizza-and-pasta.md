@@ -30,10 +30,13 @@ reviews:
     rating: 5
     comment: |
       the pizza is always fresh, hot and delicious, we order from here every time
-  - name: "Brianna Anderson"
+  - name: "David Cutting"
     rating: 5
     comment: |
-      Amazing good the owner is great guy. Highly recommend the garlic cheese fingers
+      This is the kind of local joint you find that distinguishes the difference in quality between franchise and homemade. I could pay double for only half the quality of this pizza.
+      The ingredients are fresh, the owner is incredibly friendly, it feels like stopping off at your next door neighbour's house to grab some food when they're having a cookout.
+      Best part is this place is just a 2 minute walk from my building.
+      If you're in the area, I 100% recommend stopping by to get some pizza.
 hours:
   monday: "4:00 PM–2:00 AM"
   tuesday: "4:00 PM–2:00 AM"

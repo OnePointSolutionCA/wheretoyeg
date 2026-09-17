@@ -17,14 +17,14 @@ reviews:
     rating: 5
     comment: |
       We made our will with Ms Sidhu. She was very knowledgeable and answered all of our questions. And Matisha was super helpful too! Thank you!
-  - name: "Sabrina"
-    rating: 5
-    comment: |
-      I highly recommend this law office for any of your real estate transactions. Sonia is a great lawyer with fair pricing.
   - name: "Andrea Bridges"
     rating: 5
     comment: |
       Sonia did a great job on the legal transaction for our recent condo purchase.  Her price was very reasonable, and her efficiency and communication were excellent.  We were purchasing 'remotely', from out-of-province, so were a little anxious about the geographical challenge.  Although we never actually met Sonia in person, she made everything so easy - we were even able to sign all the papers via a Zoom meeting so she could witness our signatures.  That was the only time we have actually 'met' her yet, and what an absolutely delightful lady she is.  Sonia, we look forward to meeting you in person once we move in, and will not hesitate to hire you again for any future legal needs.  Thank you!
+  - name: "Sabrina"
+    rating: 5
+    comment: |
+      I highly recommend this law office for any of your real estate transactions. Sonia is a great lawyer with fair pricing.
   - name: "Natural Choice Dentures"
     rating: 5
     comment: |

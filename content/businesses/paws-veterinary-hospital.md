@@ -19,8 +19,8 @@ hours:
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/paws-veterinary-hospital-1.jpg", "/photos/paws-veterinary-hospital-2.jpg", "/photos/paws-veterinary-hospital-3.jpg"]
-rating: 4.8
-review_count: 96
+rating: 4.7
+review_count: 99
 price_range: "$$"
 amenities:
 
@@ -37,19 +37,16 @@ reviews:
     comment: |
       I need to give a little back story for this review. We went away on a trip and my dog went into heat while she was with my parents and got pregnant. It was not planned. She had a litter of 9 puppies and 1 of them got sick and then hurt after his first vet check and vaccine. We needed a vet who could see this puppy immediately and PAWS saw him. PAWS did not check his ears, where he had a severe ear infection, they did not check his ribs, in which we requested them to do. PAWS decided blood work was the best route. Then they wanted to keep him in an emergency to be monitored. We had to insist for them to give this puppy pain relief and medication. They were not going to do this. We had to insist for them to help with the pain. It did not feel safe for our puppy to stay in their care and we said no to where they wanted the puppy to go. He needed nurture along with proper medication. They were not going to do that. Please don't bring your dogs here. They then called by law on us suggesting we have a puppy mill. Why would I bring this dog to a vet if we didn't care about his state. This vet jumped to a conclusion that was not fair. This has caused us so much trauma in the way they handled this puppy.
       After a second opinion from another vet along with proper medication, he is recovering.
-  - name: "SK"
-    rating: 5
-    comment: |
-      Beautiful and Spotless clinic.
-      Staff are incredibly friendly and It is very apparent that Dr. Geers truly cares about the animals and her staff.
-      My dog was well loved and taken care of as if she was one of their own during her surgery stay.
-      Thrilled to have this clinic become an amazing addition to the Edmonton area.
   - name: "Christopher Moreau"
     rating: 5
     comment: |
       The staff here are second to none, finally a very clinic that my pets ENJOY attending. I would highly recommend to any pet owners to go to Paws for any and all of your health, nutrition, and wellness needs. A paws client for life!
-  - name: "Jess Robertson"
+  - name: "Adrienne Guerreiro"
     rating: 5
     comment: |
-      I took my cat, Phoebe, to Paws and was amazed by how great the experience was! The staff were welcoming and very helpful. I will definitely be coming back!
+      I brought my two cats in for a checkup and their 1year shots. They were very helpful, professional. My cats were not scared in the exam room at all (normally they are) they spent time with them before administering any shots and went over everything with me. We will be back.
+  - name: "Nix"
+    rating: 5
+    comment: |
+      This is a hidden gem! Right between Archbishop Macdonald school and Freson Bros! The facility is beautful and clean; and I love the fact that it's a all female led team in there. Everyone were so caring and attentive and made the stressful experience much easier. My puppy's behavior is pretty spicy but the entire team were so understanding about his behaviour. Thanks team, you're wonderful! I highly recommend clinic to any pet parents!
 ---

@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Beverly"
 address: "12811 56 St NW, Edmonton, AB T5A 0C9"
 rating: 4.2
-review_count: 41
+review_count: 42
 tier: "featured"
 phone: "(780) 705-8161"
 website: "http://qarreyauto.com/"

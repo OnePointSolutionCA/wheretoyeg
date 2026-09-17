@@ -13,18 +13,14 @@ google_maps: "https://maps.google.com/?cid=2549842164675135274&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/mr-steam-edmonton-carpet-and-upholstery-cleaning.jpg"
 reviews:
-  - name: "Deborah Dykstra"
-    rating: 5
-    comment: |
-      I was looking for a carpet cleaner, other companies were triple the price. Tom came over to check the carpets before doing them, he tested stain areas with a black lite and told us what was able to be removed and what he couldn't. What an amazing job he did. The carpets look like new. I would use him again and I definitely recommend him over well known companies. Thank you Tom for the great experience!
-  - name: "Sasha"
-    rating: 5
-    comment: |
-      Recently used their services for carpet and couch cleaning. Extremely happy with their service and results. The couch looks immaculate, like the first day we brought it home. Also appreciate that there is no odour left behind from the cleaning. Shout out to Tom who did the service, they were very kind and did an awesome job!
   - name: "Kalina Phair"
     rating: 5
     comment: |
       Absolutely amazing company! I had hired Albert Carpet Cleaning and they did absolutely nothing. I called Tom and he did me a huge favor by sneaking me in last minute and got the stain out half the price what I paid for ACC. Thank you so much Tom, would recommend him to anyone who needs cleaning!
+  - name: "Deborah Dykstra"
+    rating: 5
+    comment: |
+      I was looking for a carpet cleaner, other companies were triple the price. Tom came over to check the carpets before doing them, he tested stain areas with a black lite and told us what was able to be removed and what he couldn't. What an amazing job he did. The carpets look like new. I would use him again and I definitely recommend him over well known companies. Thank you Tom for the great experience!
   - name: "LaineyS Thundery"
     rating: 5
     comment: |
@@ -35,6 +31,10 @@ reviews:
       Highly recommend Tom with Mr Steam!  Absolutely professional and knowledgeable on every aspect of cleaning and caring for our carpets.  He doesn’t try to sell you something you don’t need, in fact, if you need it he considers it part of the quote if you mentioned it while booking.
       I was impressed with his attitude, kindness and a real desire to give you the best possible outcome.  My carpets look and smell great, he was attentive to even the tiniest detail.
       I will recommend to everyone!!
+  - name: "Sasha"
+    rating: 5
+    comment: |
+      Recently used their services for carpet and couch cleaning. Extremely happy with their service and results. The couch looks immaculate, like the first day we brought it home. Also appreciate that there is no odour left behind from the cleaning. Shout out to Tom who did the service, they were very kind and did an awesome job!
 hours:
   monday: "9:00 AM–5:00 PM"
   tuesday: "9:00 AM–5:00 PM"

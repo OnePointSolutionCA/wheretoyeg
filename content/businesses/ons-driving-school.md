@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/ons-driving-school-1.jpg", "/photos/ons-driving-school-2.jpg", "/photos/ons-driving-school-3.jpg"]
 rating: 4.8
-review_count: 2754
+review_count: 2755
 price_range: "$$"
 amenities:
 
@@ -41,16 +41,22 @@ reviews:
     rating: 5
     comment: |
       I had a great experience learning with Kaur Harpal at ONS Driving School. She was patient, calm, and very knowledgeable throughout every lesson. She explained everything clearly, corrected my mistakes in a constructive way, and made sure I understood not just what to do, but why it was important. Her encouragement helped me become much more confident behind the wheel, especially when preparing for my road test. I always felt comfortable asking questions, and she created a positive learning environment from start to finish. I highly recommend Kaur Harpal to anyone looking for a professional and supportive driving instructor. Thank you for helping me become a safer and more confident driver!
-  - name: "Jillian Sagaral"
-    rating: 5
-    comment: |
-      I really enjoyed my experience with ONS driving school. My driving instructor, Hardeep is very nice and taught me great lessons that helped me throughout my journey. Not only did she teach me quite well, she also ensured that I was driving safe on the road and assisted me with fixing small mistakes. I am very satisfied with this school’s performance and I hope to get my license very soon, thanks to them!!
   - name: "Amanat Bhathal"
     rating: 5
     comment: |
       I had an amazing experience learning with Hardeep Mann. Before I started lessons, I wasn’t very aware of road safety. I would often drive too close to the middle of the road and wasn’t paying enough attention to the traffic around me. Hardeep patiently taught me how to stay safe on the road, where and when to look, how to stay aware of other vehicles, and how to keep my car properly centered in the lane. Her teaching was clear, patient, and easy to understand, which helped me gain confidence very quickly. Thanks to her guidance, I passed my driving test after only 6 hours of lessons. I highly recommend Hardeep Mann to anyone looking for a knowledgeable, supportive, and effective driving instructor. Thank you ONS Driving School :)
-  - name: "Yasmine A"
+  - name: "Ghada"
     rating: 5
     comment: |
-      My experience with ONS and my instructor Hardeep was great! I has no experience prior to practicing with her and after completing my hours, I 100% feel more confident in my driving abilities and have lost a lot of my nervousness around it. Hardeep was very patient, clear, and calm as while instructing and made sure to explain and sometimes re-explain concepts where I struggled to grasp it the first time. She is a great instructor and I’m glad I completed my hours with her guidance and support! Would definitely recommend for anyone wanting to start  learning.
+      5 stars for Tarandeep and ONS Driving School! I’m incredibly grateful for all the guidance and support throughout my driving lessons. Tarandeep is a very patient, caring, non-judgmental, and knowledgeable instructor, and truly an incredible teacher.
+      
+      What I appreciated most was how comfortable Tarandeep made me feel while learning. I never felt judged for making mistakes, and instead, I was always given helpful and constructive feedback that helped me improve. Tarandeep took the time to correct my bad driving habits and explain the proper techniques in a way that was easy to understand and remember.
+      
+      The tips and guidance on parking were especially helpful, along with the explanations about road signs, traffic lights, lane positioning, and overall road awareness. Everything was explained clearly and in a very understandable way, which made me feel much more confident and prepared on the road. I really appreciated the patience and positive attitude throughout every lesson.
+      
+      If you want someone who is knowledgeable, patient, caring, supportive, and truly committed to helping you succeed, Tarandeep is the perfect choice. Thank you for being such an incredible teacher and for helping me become a better driver! Highly recommend!
+  - name: "Katara Ferreira"
+    rating: 5
+    comment: |
+      Param was the best driving instructor! She was so understanding, patient, and incredibly helpful throughout my lessons. She made me feel comfortable and confident behind the wheel, which is something not many people can do. I’m now so much more confident when I’m driving, and it’s all thanks to her! I’m truly grateful for all her support and encouragement. 💗
 ---

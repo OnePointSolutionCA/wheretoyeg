@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Castle Downs"
 address: "10706 134 Ave NW, Edmonton, AB T5E 1J8"
 rating: 4.7
-review_count: 812
+review_count: 814
 tier: "featured"
 phone: "(780) 473-1555"
 website: "http://www.eatmonaspizza.com/"

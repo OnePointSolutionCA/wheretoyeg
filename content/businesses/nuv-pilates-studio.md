@@ -28,6 +28,10 @@ tags: ["edmonton", "pilates"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Dhenisse Calderon"
+    rating: 5
+    comment: |
+      My sister and I tried Pilates for the first time and had such a great experience during our session. As someone new to Pilates, we weren’t sure what to expect, but Alex made everything easy to follow and beginner-friendly. She is incredibly knowledgeable and attentive—making sure we were doing everything correctly and taking the time to explain each movement and offer modifications, which makes the sessions suitable for all levels. The studio itself is clean, peaceful, and cozy. My sister and I are very happy to have found this studio and we will definitely be back! If you're new to Pilates and would like to try a private Pilates session, I highly recommend giving Alex and her Pilates studio a try! ✨💫
   - name: "Eugenia M"
     rating: 5
     comment: |
@@ -40,10 +44,6 @@ reviews:
       The only downside is parking—it’s paid street parking and can sometimes be hard to find, so I’d recommend arriving about 10 minutes early. That said, if you’re taking the subway, it’s literally a one-minute walk from the station, which is super convenient.
       
       Highly recommend if you’re looking for a more personalized Pilates experience!
-  - name: "Dhenisse Calderon"
-    rating: 5
-    comment: |
-      My sister and I tried Pilates for the first time and had such a great experience during our session. As someone new to Pilates, we weren’t sure what to expect, but Alex made everything easy to follow and beginner-friendly. She is incredibly knowledgeable and attentive—making sure we were doing everything correctly and taking the time to explain each movement and offer modifications, which makes the sessions suitable for all levels. The studio itself is clean, peaceful, and cozy. My sister and I are very happy to have found this studio and we will definitely be back! If you're new to Pilates and would like to try a private Pilates session, I highly recommend giving Alex and her Pilates studio a try! ✨💫
   - name: "Celine Wang"
     rating: 5
     comment: |

@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/museum-of-illusions-1.jpg", "/photos/museum-of-illusions-2.jpg", "/photos/museum-of-illusions-3.jpg"]
 rating: 4.7
-review_count: 359
+review_count: 376
 price_range: "$$"
 amenities:
 
@@ -28,24 +28,24 @@ tags: ["edmonton", "museums"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Aashish Patel"
-    rating: 5
-    comment: |
-      Such a fun time here and lots to see and explore. The staff was amazing and super helpful when we didn't know how things worked. Would recommend it was a great way to spend an evening and got great photos out of it!
   - name: "Chantelle Yurechuk"
     rating: 5
     comment: |
       We were soo happy to have this in our stay at Edmonton. After the waterpark closed earlier than expected, we didnt know if we should spend the rest of our time here..
       
       The staff members assisted with the mirages to help you enjoy.
+  - name: "Aashish Patel"
+    rating: 5
+    comment: |
+      Such a fun time here and lots to see and explore. The staff was amazing and super helpful when we didn't know how things worked. Would recommend it was a great way to spend an evening and got great photos out of it!
   - name: "gillian modesti"
     rating: 5
     comment: |
       Was an absolutely outstanding experience. Two of the museum staff, Megan and Victor, helped my friend and I with everything we needed. They were lovely and took our photos and chatted with us for a bit and made the experience fantastic. Very good at their jobs and very friendly!! Highly recommend this beautiful museum! Not too busy, not too expensive and very worth the price to pay for entry. Would definitely go again!
-  - name: "Oemar Rehmaan"
+  - name: "Doorg S"
     rating: 5
     comment: |
-      Fun place, specially for kids. Good collection of illusions as well as puzzles to keep kids and adults busy. Not too crowded and overall  worth the money.
+      Decided to check out the Museum of Illusions for my birthday today with my family! I wanted to see what all the buzz was about, especially knowing there are 70 of them all around the world. Booking in advance was definitely the way to go. It was such an amazing experience and brought out our quirky side—everyone in the family loved it! I personally loved the Vortex Room, it was such a thrill. All the staff were so awesome and really friendly. Made some really good memories today. Thank you so much for an amazing birthday experience!✨
   - name: "anthony young"
     rating: 4
     comment: |

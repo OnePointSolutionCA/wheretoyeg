@@ -32,14 +32,6 @@ reviews:
     rating: 5
     comment: |
       If you are looking for a safe space spa make sure to check them out.They never dissapoint with their service🙌🙌 all the girls are so lovely especially Ayah. She is amazing, I love coming here she makes the appointments so comfortable for me. I trust her with my whole life. ☺️
-  - name: "Sajid Mohammed"
-    rating: 5
-    comment: |
-      I had an excellent experience at Platinum Medical Spa. I recently did ProFractional and PRP treatments, and I’m really happy with the results so far.
-      Cutera performed the treatment, and I have to say her expertise and professionalism really stood out. She explained everything clearly, made me feel comfortable throughout the process, and handled the procedure with great care and precision. You can tell she’s very experienced and knows exactly what she’s doing.
-      The overall experience at the clinic was smooth and welcoming, and the team was very supportive.
-      I’m definitely looking forward to my next session and planning to do Halo and ProFractional together soon.
-      Highly recommend Platinum Medical Spa and especially Hana for anyone considering advanced skin treatments 👍
   - name: "Ingrid Leibel"
     rating: 5
     comment: |
@@ -64,4 +56,8 @@ reviews:
       The results were fantastic — my skin felt smooth and I noticed improvement from the very first session. They really pay attention to detail and ensure your comfort throughout the treatment.
       
       I highly recommend Platinum Medical Spa for anyone looking for professional laser services. I’ll definitely be coming back!
+  - name: "Mina Hadidi"
+    rating: 5
+    comment: |
+      Hands down to the absolute best laser clinic in Edmonton! Hana and her staff are incredibly knowledgeable, professional, and welcoming. I’ve been going to her for quite some time now and have always had a great experience as she takes the time to answer questions, explain treatments thoroughly, and make you feel comfortable throughout the process. The clinic is clean, organized, and the results have been excellent. I highly recommend Hana and her team to anyone considering laser treatments! 10/10!!
 ---

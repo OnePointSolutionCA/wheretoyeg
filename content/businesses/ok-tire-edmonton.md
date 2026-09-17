@@ -18,7 +18,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/ok-tire-edmonton-1.jpg", "/photos/ok-tire-edmonton-2.jpg", "/photos/ok-tire-edmonton-3.jpg"]
 rating: 4.8
-review_count: 318
+review_count: 319
 price_range: "$$"
 amenities:
   - "Free Estimates"

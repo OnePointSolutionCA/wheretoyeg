@@ -54,17 +54,12 @@ reviews:
     comment: |
       The crew from Pro Co did a great job. Very professional and hard working. They completed our entire first floor and primary bedroom in less than four days, including all walls and trim. The house looks brand new again. We don't even want to hang pictures back on the wall and spoil the look of the fresh new paint.
       Thank you Joelene and team.
-  - name: "Laura Beatson"
+  - name: "Adam Petersen"
     rating: 5
     comment: |
-      We have had Pro Co Painting Company paint most of our house at this point. They are a great crew, that work efficiently and professionally.
-      The communication is clear, quick and frequent. The crew shows up on time, and works hard to complete the job on time. Daily communication with leadership about what was completed and what is left to be done is very much appreciated.
-      
-      I would recommend Pro Co Painting and Joelene to anyone looking for a painter.
-  - name: "Des Hay"
+      I am a contractor that has worked with Pro Co for the last 2 years straight on about 40 projects. Both Keiko & Joelene are very professional, easy to work with, they care about the clients needs and expectations and the on staff crew are detail oriented and clean up after themselves. I have had the opportunity to work with everyone on staff as well as several of their clients and I highly recommend their services as a wood coatings specialist I can assure you that they are one your best choices for your painting projects.
+  - name: "Donna Spooner"
     rating: 5
     comment: |
-      We couldn’t be happier with our experience with Pro Co Painting. They were professional from start to finish and offered the best pricing we found. The quality of work was excellent, with great attention to detail, and they finished a full day ahead of schedule.
-      
-      The crew was kind, clean, and very respectful of our home, which made the whole process stress-free. We’re extremely happy with the results and would highly recommend Pro Co Painting.
+      We had the entire exterior- brick, siding, doors, and fence painted. Keiko, Jolene and their crew were professional, courteous, considerate and on time throughout. Joelene and her crew shared their expertise and communicated consistently. They were all extremely trustworthy. I would definitely recommend Pro Co if you want the job done professionally.
 ---

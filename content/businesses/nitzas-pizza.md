@@ -14,6 +14,10 @@ google_maps: "https://maps.google.com/?cid=13294272620884150434&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/nitzas-pizza.jpg"
 reviews:
+  - name: "Basia Porter"
+    rating: 5
+    comment: |
+      The best pizza!!! We drive an hour just to pick up some pizzas to have for few days.  The donair pizza is unforgettable.  Once you have it, you want more 😊
   - name: "Don Redenbach"
     rating: 1
     comment: |
@@ -22,12 +26,6 @@ reviews:
     rating: 4
     comment: |
       We have been coming here for 7 years now and it is one of the places we go whenever my family likes to have pizzas. Unfortunately, the service and place has come down significantly. Their pizzas is one of the best in town but customer service has to improve especially showing enthusaism to customers that have been coming down for many years. We will still come here but please hear our suggestions as we really enjoy the times we always see a smiling face.
-  - name: "The Red Deer Local"
-    rating: 5
-    comment: |
-      We moved out of town. Can you guys PLS open a Red Deer Location???????? We miss this donair pizza
-      
-      Ordered and eating in ten mins. You guys are amazing
   - name: "Denae Kristina"
     rating: 1
     comment: |

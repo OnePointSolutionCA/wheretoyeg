@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/q-nails---westgate-1.jpg", "/photos/q-nails---westgate-2.jpg", "/photos/q-nails---westgate-3.jpg"]
 rating: 4.7
-review_count: 350
+review_count: 351
 price_range: "$$"
 amenities:
 

@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "South Edmonton"
 google_maps_url: "https://maps.google.com/?q=Namaste%20Diner%20Edmonton"
 hours:
-  monday: "11:00 AM–10:00 PM"
-  tuesday: "11:00 AM–10:00 PM"
-  wednesday: "11:00 AM–10:00 PM"
-  thursday: "11:00 AM–10:00 PM"
-  friday: "11:00 AM–10:00 PM"
-  saturday: "11:00 AM–10:00 PM"
-  sunday: "12:00 PM–9:00 PM"
+  monday: "10:00 AM–10:00 PM"
+  tuesday: "10:00 AM–10:00 PM"
+  wednesday: "10:15 AM–10:00 PM"
+  thursday: "10:15 AM–10:00 PM"
+  friday: "10:15 AM–10:00 PM"
+  saturday: "10:15 AM–10:00 PM"
+  sunday: "10:15 AM–10:00 PM"
 photos: ["/photos/namaste-diner-1.jpg", "/photos/namaste-diner-2.jpg", "/photos/namaste-diner-3.jpg"]
-rating: 4.8
-review_count: 1404
+rating: 4.4
+review_count: 1371
 price_range: "$$"
 amenities:
   - "Halal"
@@ -30,31 +30,42 @@ tags: ["indian", "halal", "tandoori", "biryani"]
 active: true
 date_listed: "2026-08-18"
 reviews:
-  - name: "Garrett Hill"
-    rating: 5
-    comment: |
-      First time at this location and it did not disappoint. The food and service were incredible! Our server went above and beyond for us & our son. The chef also came out to ensure we were enjoying our meal. We will definitely be back! Thanks for the great dining experience!!
-  - name: "parveen kaur"
-    rating: 5
-    comment: |
-      Absolutely loved dining at Namaste India! From the moment we walked in, the hospitality stood out. Our server was polite, quick, and very attentive to our needs. Chef Gireesh personally came to our table to ask about the food, which made us feel truly valued as guests. The dishes were rich in flavor and perfectly cooked. A great place for authentic Indian cuisine and genuine service!
-  - name: "Samuel Wondemu"
-    rating: 5
-    comment: |
-      I had a great experience at this restaurant. The food was absolutely delicious, and the ambiance was warm and inviting. What really stood out was the owner who is also the chef personally coming to our table to introduce himself and check if we were enjoying everything such a professional and thoughtful touch.
-      Overall, the service was excellent, the atmosphere was perfect, and the quality of the food exceeded expectations. I would definitely recommend this place and look forward to coming back again.
-  - name: "Ruby Maan"
+  - name: "Harshavardhan reddy Kandula"
     rating: 1
     comment: |
-      Worst veg biryani I’ve had. It was just rice with a few frozen vegetables—no flavor of real biryani, and way too salty to eat. I even called the restaurant but didn’t get a helpful response. Very disappointing experience.
-  - name: "Trinity Pretty"
-    rating: 2
+      A couple of days ago, we visited this restaurant, and honestly, it felt like daylight robbery. Charging $23 for a buffet of this quality is unbelievable. Not a single item on the buffet was worth the price.
+      
+      The food quality was extremely poor. The curries were bland and barely edible, the only vegetarian starter looked stale, and some of the chicken items seemed undercooked and had an unpleasant smell. After trying a few dishes, I felt sick and ended up with what seemed like food poisoning within an hour.
+      
+      I genuinely don’t understand how this place is operating with such low standards. You can look at the photos we posted nothing looked fresh or appetizing. For the price they’re charging, customers deserve much better quality and hygiene.
+      
+      This was by far one of the worst buffet experiences I’ve had in Edmonton. I would strongly recommend avoiding this restaurant if you care about your health and don’t want to waste your money. 👎👎👎
+  - name: "Balakrishnan Anand"
+    rating: 5
     comment: |
-      My family and I have always gotten our Indian takeout from here (for about 4 years), it’s always tasted amazing and been perfectly spicy. However, this is the second time I’ve found a foreign object in my food, the first time it was a piece of wood, and tonight it was a piece of metal.
-      
-      So, in my takeout dinner tonight, I found a metal sliver (photo of metal and the dish I ordered attached). I thought it was a seed pod or a tough bit of plant, so I chewed a little harder… but it caused the filling in my tooth to hurt… so I’m actually not sure if it did any damage, but when we called the staff they seemed indifferent about it.
-      
-      I love this restaurant… but I draw the line at eating metal. Thus, I’ve decided to write a review since not only could this metal piece have done damage to my tooth or my organs (if I swallowed it), but when we called the restaurant it seemed like they truly did not care for my wellbeing or plan to take any investigative measures where the metal came from.
-      
-      Great food, amazing spices, but sometimes you’ll find an inedible piece inside.
+      ⭐⭐⭐⭐⭐ A 7-Star Culinary Gem in Edmonton!
+      If Google allowed a 7-star rating, I would give it to Namaste India on Stony Plain Road without hesitation. This wasn't just a dinner; it was a high-end dining experience that rivals the presentation of a 5-star luxury hotel.
+      The Food & Presentation
+      The visual appeal of the food is breathtaking. From the perfectly charred Tandoori Roti to the creamy, swirl-topped Dal Makhani, every dish looks like a work of art.
+      • Balance of Flavor: Everything was cooked to perfection. The spice levels were moderated beautifully—nothing was "too much," allowing the authentic flavors and textures to shine through.
+      • Starters: The cauliflower and malai dishes were absolute standouts in both taste and plating.
+      Service & Ambiance
+      Don’t let the size of the restaurant fool you. While it is a charming, smaller space, the ambiance is warm and the service is world-class.
+      • Timeliness: Our food arrived exactly on time.
+      • Hospitality: The staff is professional, appealing, and genuinely attentive. They treat the service with the same level of care you’d find in a premium boutique hotel.
+      Final Verdict
+      Whether you live in Edmonton or are just visiting, this is a must-visit destination. It is rare to find a place that balances such sophisticated presentation with "home-cooked" soul and perfect seasoning.
+      Recommendation: 10/10. Do your tastebuds a favor and visit this place for an unforgettable meal experience!
+  - name: "arshdeep kaur"
+    rating: 1
+    comment: |
+      Never ever order from this restaurant. I ordered aloo parantha, but it was extremely disappointing. There was barely any potato filling inside — it was just thick dough. On top of that, the parantha was burnt and tasted terrible. It completely spoiled my breakfast and felt like a total waste of money. The quality was very poor, and I would not recommend this place to anyone.
+  - name: "Tiffany Olsen"
+    rating: 5
+    comment: |
+      The restaurant was authentic and quiet enough to have a conversation without shouting. The staff were very pleasant and the food was very good. 2 people in our group had the buffet and were impressed with the variety and quality. The rest of us ordered individual dishes + samosas. The Samosa on their own were filling, and the na'an was perfectly prepared. The korma was creamy perfection. Definitely worth the price.
+  - name: "AlyssaRae"
+    rating: 5
+    comment: |
+      My mom and I went here for the lunch buffet. The food was very fresh and delicious. We loved everything! The service was amazing and the environment is so calming and clean. Will definitely be back for another visit.
 ---

@@ -23,7 +23,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/onepoint-solutions-1.jpg", "/photos/onepoint-solutions-2.jpg", "/photos/onepoint-solutions-3.jpg"]
 rating: 5
-review_count: 27
+review_count: 28
 price_range: "$$"
 amenities:
   - "Free Consultation"
@@ -36,6 +36,12 @@ featured: true
 active: true
 date_listed: "2026-08-17"
 reviews:
+  - name: "Noor Al-Tamimi"
+    rating: 5
+    comment: |
+      ⭐⭐⭐⭐⭐
+      
+      Had a great experience with One Point Marketing Agency! The team is friendly, professional, and really takes the time to understand your business and goals. Communication was excellent throughout the process, and they made everything feel easy and stress-free. I would definitely recommend them to anyone looking for a reliable marketing team. Thanks again for all your hard work!
   - name: "Nicci Koughan"
     rating: 5
     comment: |
@@ -52,8 +58,4 @@ reviews:
     rating: 5
     comment: |
       Moe is easily the best person to deal with and helpful!
-  - name: "Maha Shawar"
-    rating: 5
-    comment: |
-      Highly recommend!
 ---

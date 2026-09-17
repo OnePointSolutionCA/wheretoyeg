@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/pure-wave-electric-1.jpg", "/photos/pure-wave-electric-2.jpg", "/photos/pure-wave-electric-3.jpg"]
 rating: 5
-review_count: 261
+review_count: 264
 price_range: "$$"
 amenities:
 
@@ -32,6 +32,10 @@ reviews:
     rating: 5
     comment: |
       We've had Jorge and his team over to our home for multiple jobs, and they are some of the friendliest, most honest people we've had the pleasure of working with. We had Jorge install EV chargers, perform a 200A service upgrade, reroute light fixtures, and troubleshoot faulty circuits. He is incredibly communicative about the work, makes sure you are included in the process from start to finish, and is always upfront about what is actually needed. I'll have to find more projects for these guys to work on; they are just that great to have around. Thanks again for everything, Jorge!
+  - name: "Calvin McRae"
+    rating: 5
+    comment: |
+      Jorge was great to work with. He showed up right on time, was very kind and professional, and took the time to explain what he was doing and why. It was clear that he has a lot of knowledge and experience, and I felt confident knowing the job was being done properly. I would definitely recommend Jorge to anyone looking for a knowledgeable and reliable electrician.
   - name: "Kurtis MVP"
     rating: 5
     comment: |
@@ -40,14 +44,8 @@ reviews:
     rating: 5
     comment: |
       Hired them for a 200amp service upgrade. They walked me through the requirements and handled all the permits. Great professional work. Already hired for another job.
-  - name: "Navreet Kaur"
+  - name: "Michael S"
     rating: 5
     comment: |
-      Highly recommend Pure Wave Electric! The guy took the time to help me troubleshoot my electrical issue over the phone and got it resolved without a service call. Honest, professional, and genuinely helpful. It’s rare to find people like this nowadays who are willing to help instantly without judgment and without trying to take advantage of the situation. Thank you so much for the excellent service!
-  - name: "Farhad Khlazai"
-    rating: 5
-    comment: |
-      I am very happy with Jorg's service. I had water seepage out of the main electric panel. Jorge showed up at promised time, found the main source of water seepage and professionally blocked it.
-      Then he tried to save as many damaged fuses as possible and replaced some completely. The price for service and parts was very reasonable.
-      I will definitely call him again for any future electrical service.
+      After my garage power line was damaged, Jorge came up with a much better long-term solution that future-proofed the system for any additional work I may want, all at a very reasonable price, rather than simply patching the old setup. Jorge and his team worked incredibly hard with great attention to detail, provided excellent communication start to finish, stayed late to ensure the work was completed in a single day, and clearly took real pride in doing the job properly. This is the second time I’ve hired Jorge, and I’ll always recommend him to anyone who asks if I know a good electrician, as he and his team consistently do professional and excellent work.
 ---

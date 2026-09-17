@@ -34,10 +34,10 @@ reviews:
     rating: 5
     comment: |
       This is the best dental office in the city! The staff are kind, caring and professional. I have been coming to this dental office since 2022 and every experience has been positive. They have relieved all my anxiety around seeing the dentist. I have had everything from basic cleanings, a few cavities filled and they were also able to fix previously done dental work that I was not very happy with. If I could give them a 10 star review I would! If you’re looking for a dental office that goes above and beyond. Look no further.
-  - name: "mehvish syeda"
-    rating: 4
+  - name: "Olena Dinning"
+    rating: 5
     comment: |
-      Everyone one is very polite. I like to ask alot of questions to understand what is going on and take time to make decisions and I have never once been rushed or felt not heard. They also take the time to fully answer my questions until I understand.
+      Excellent service at North Central Dental. North Central Dental provided outstanding care during my visit. The receptionist was welcoming, and the whole team made me feel comfortable. Dr. Brian Hoyano is very careful, takes his time, and even calls you back personally to check how your condition is improving. I felt respected, supported, and well looked after. Highly recommend this clinic.
 hours:
   monday: "8:00 AM–4:00 PM"
   tuesday: "8:00 AM–4:00 PM"

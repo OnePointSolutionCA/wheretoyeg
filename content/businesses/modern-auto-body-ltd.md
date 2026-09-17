@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/modern-auto-body-ltd-1.jpg", "/photos/modern-auto-body-ltd-2.jpg", "/photos/modern-auto-body-ltd-3.jpg"]
 rating: 4.7
-review_count: 351
+review_count: 355
 price_range: "$$"
 amenities:
 
@@ -55,9 +55,10 @@ reviews:
     comment: |
       I reviewed this auto body shop and would advise against using their services.
       They added numerous non-original damage assessments and returned my vehicle with a dirty interior and exterior, as well as extra paint. There was also a significant amount of dust.
-  - name: "fiza"
+  - name: "Shalbin Shaijan"
     rating: 5
     comment: |
-      I had a great experience with Modern Auto Body. Other places quoted me way higher, but they were honest here and said it was just a quick fix.
-      Mo helped me out, he was super friendly and professional. Fast, fair, and reliable service. Highly recommend!
+      I had an excellent experience with Modern Auto Body. From the moment I walked in, MO and  the staff were professional, friendly, and took the time to explain everything clearly. They kept me updated throughout the process and made sure I felt confident about the repairs.
+      
+      The quality of their work is outstanding – my vehicle came back looking brand new, with the paint and bodywork perfectly matched. You can tell they take pride in their craftsmanship and hold themselves to very high standards.
 ---

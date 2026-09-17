@@ -19,7 +19,7 @@ hours:
   sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/pho-king-mcconachie-6526--170-ave-1.jpg", "/photos/pho-king-mcconachie-6526--170-ave-2.jpg", "/photos/pho-king-mcconachie-6526--170-ave-3.jpg"]
 rating: 4.6
-review_count: 81
+review_count: 82
 price_range: "$"
 amenities:
   - "Dine-In"

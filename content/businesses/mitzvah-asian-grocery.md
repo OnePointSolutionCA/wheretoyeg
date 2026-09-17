@@ -18,8 +18,8 @@ hours:
   saturday: "9:00 AM–7:00 PM"
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/mitzvah-asian-grocery-1.jpg", "/photos/mitzvah-asian-grocery-2.jpg", "/photos/mitzvah-asian-grocery-3.jpg"]
-rating: 4.4
-review_count: 7
+rating: 4.5
+review_count: 8
 price_range: "$$"
 amenities:
 
@@ -31,14 +31,14 @@ reviews:
     rating: 5
     comment: |
       Wow for the cheap price. Love their seafood options
-  - name: "A.J. Anderson"
-    rating: 5
-    comment: |
-      Very friendly place. Great prices, fresh meat. Go have a look.
   - name: "jinky ann falculan"
     rating: 5
     comment: |
       Reasonable prices, there's a lot of seafood to choose from. Variety of fresh fruit and vegetable. A must try, one stop asian grocery store. Beside it, there is also a meat shop.
+  - name: "A.J. Anderson"
+    rating: 5
+    comment: |
+      Very friendly place. Great prices, fresh meat. Go have a look.
   - name: "Erich Garcia"
     rating: 5
     comment: |

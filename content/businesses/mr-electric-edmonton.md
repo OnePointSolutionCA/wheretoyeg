@@ -20,7 +20,7 @@ hours:
   sunday: "7:00 AM–9:00 PM"
 photos: ["/photos/mr-electric-edmonton-1.jpg", "/photos/mr-electric-edmonton-2.jpg", "/photos/mr-electric-edmonton-3.jpg"]
 rating: 4.9
-review_count: 638
+review_count: 640
 price_range: "$$"
 amenities:
   - "Licensed"
@@ -38,6 +38,14 @@ reviews:
       Let's start by saying I was desperate for a doorbell camera installation, lot of suspicious activity around my parts for a while and had NO clue how to set one up or do the wiring etc, so this was the first place I found and gave it a try and I was absolutely pleased!
       
       I actually ended up calling before it opened and didn't realize, the lady I spoke on the phone with to set the appointment up was very polite and helpful in figuring a day out I was free and getting all the information so i would receive a call back from another fellow to confirm and set it up all officially. A super nice young fella showed up on scheduled appointment and was very thorough and fast, and helped getting it all figured out very stress free and even chatted with me a bit, and when he was done asked if I had questions and anything else, was very straightforward on the price and made the experience an awesome one. I liked this place a lot and will forsure be coming back to them for anything else in the future I need fast help with. They did an amazing job and I suggest coming here for help. Nice experience all around.
+  - name: "Nikki Haley"
+    rating: 5
+    comment: |
+      I had a very positive experience with Mr. Electric. The electrician was polite, professional, knowledgeable, and efficient throughout the entire visit.
+      
+      I especially appreciated the care and attention to detail that was taken while assessing the electrical concerns in our home. Everything was handled thoroughly, and the findings and next steps were explained clearly and professionally.
+      
+      It was reassuring to have someone take the time to properly investigate the issue rather than rush through the appointment. I really appreciated the level of service and would absolutely recommend Mr. Electric to anyone looking for professional and dependable electrical service.
   - name: "Courtney Weale"
     rating: 5
     comment: |
@@ -48,12 +56,8 @@ reviews:
       The electrician came to install a 1430 outlet.  It was done with precision but only took 20 mins. to complete.  The bill for 1 hour minimum but instead of just stopping he asked if there was anything more to do.  He spent the next 40 mins. hanging my EV cables and lawn mower / weed wacker chargers in my garage.  As well, my electrical box appeared to be fully utilized but he said there were a couple of spaces that could be doubled up instead of adding a new sub box.
       
       The electrician was outstanding.  Everything (and more) was completed to my satisfaction.  I will engage them again for any electrical needs.
-  - name: "Michel Forget"
+  - name: "Ritz L'Heureux"
     rating: 5
     comment: |
-      Mr. Electric was excellent -- they were prompt, considerate, and performed excellent work.  I particularly want to compliment the staff member that responded to my initial telephone call -- she was very responsive, answered all my questions, and made the quoting process both easy and fast.  The electrician that did the work was excellent and went out of his way to answer questions as well.
-  - name: "C L (Fermitthakrog)"
-    rating: 5
-    comment: |
-      Company responded quickly and sent a technician as soon as they could to fix a power outage at my house. The technician was very friendly and knowledgable and fixed my issue within 1 hour. Prices seem fair.
+      Work (flourescent to LED conversion) was completed quickly & efficiently.  Stephen was professional & friendly.  I have used Mr. Electric previously and am always very pleased with the results.
 ---

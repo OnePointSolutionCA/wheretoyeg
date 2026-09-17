@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/pursuit-of-motion-physiotherapy-1.jpg", "/photos/pursuit-of-motion-physiotherapy-2.jpg", "/photos/pursuit-of-motion-physiotherapy-3.jpg"]
 rating: 4.9
-review_count: 189
+review_count: 190
 price_range: "$$"
 amenities:
 

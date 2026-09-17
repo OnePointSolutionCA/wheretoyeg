@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "975 Broadmoor Blvd, Sherwood Park, AB T8A 5W9"
 rating: 4.8
-review_count: 763
+review_count: 740
 tier: "featured"
 phone: "(780) 410-7877"
 website: "https://pursimple.com/"
@@ -24,18 +24,18 @@ reviews:
       The fresh start Benny was amazing. The veggie omelette wasn’t our taste, but that was our own fault for not reading the menu properly.
       10/10 coconut French toast. Atmosphere was great in the restaurant also. Highly recommend checking this place out.
       Side note, the iced Matcha Latte is so good, I’d be likely to stop by just for that.
+  - name: "Angelyn Schultz"
+    rating: 5
+    comment: |
+      First time here, loved Ray’s breakfast bowl. Sajee was very attentive to us and offered friendly conversation even though it was busy! Bright windows and cute style. Really brought sunshine on this rainy day.
   - name: "I T"
     rating: 5
     comment: |
       I took my daughter for a little one-on-one brunch and we had the best of time! I’ve been here before & the food, staff & ambiance never disappoints. We were served by Sajee who provided my daughter with the attention & care any preschooler required. Her meal substitutions were accommodated beyond our expectations (Marky Mark waffle with M&Ms instead of choc. chips, Biscoff in lieu of hazelnut choc and extra M&Ms in lieu of English cream). I had a simple ham & Swiss benedict with added avocado, P&S happily allowed a fruit substitute in lieu of potatoes. Delicious Very Berry smoothie complemented our delicious meal. This may become our go-to for special time together. Highly recommend!
-  - name: "Eddy Zern"
+  - name: "Anita Sanford"
     rating: 5
     comment: |
-      My wife and I had a wonderful experience at Pur & simple the food was very good and came in a timely fashion. Our server Gaurav was professional and very nice! The only thing I would say is the draft from the front door is a little breezy sometimes when the door is open other than that everything was perfect.
-  - name: "Wella Ellise"
-    rating: 5
-    comment: |
-      I had a really great experience here. The food was amazing—everything tasted fresh, flavorful, and well-prepared. You can tell they put a lot of care into their dishes. On top of that, the service was just as good.  Sajee was friendly, attentive, and made sure we had everything we needed without making it feel rushed. Overall, it was a really enjoyable visit, and I’d definitely come back again.
+      Came for breakfast for the first time, food in great! Service by Amber was superb, she is so friendly and efficient. Guava Mimosa is fantastic!! The only down is it is very loud when busy.
 hours:
   monday: "7:00 AM–3:00 PM"
   tuesday: "7:00 AM–3:00 PM"

@@ -18,7 +18,7 @@ hours:
   sunday: "8:00 AM–10:00 PM"
 photos: ["/photos/padel-alberta-1.jpg", "/photos/padel-alberta-2.jpg", "/photos/padel-alberta-3.jpg"]
 rating: 4.8
-review_count: 109
+review_count: 110
 price_range: "$$$"
 amenities:
   - "Court Rentals"

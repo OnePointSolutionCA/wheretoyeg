@@ -5,7 +5,7 @@ category: "barbers"
 neighborhood: "Castle Downs"
 address: "5328A Admiral Girouard St, Edmonton, AB T5X 3N5"
 rating: 5
-review_count: 191
+review_count: 198
 tier: "featured"
 phone: "(825) 402-6100"
 website: "https://www.fresha.com/a/mr-barber-griesbach-edmonton-5328-admiral-girouard-street-tnvg2t99/booking?menu=true&pId=1345428&dppub=true&cartId=dcdc26f3-fdfd-46e8-958a-c5cfb4209118"

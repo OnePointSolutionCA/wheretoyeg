@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/pro-nails-spa-1.jpg", "/photos/pro-nails-spa-2.jpg", "/photos/pro-nails-spa-3.jpg"]
 rating: 4.4
-review_count: 1092
+review_count: 1093
 price_range: "$$"
 amenities:
 
@@ -44,9 +44,8 @@ reviews:
     rating: 5
     comment: |
       Absolutely must for pro nails. They do such stunning work so efficiently and I love how my nails turn out every time. 💖
-  - name: "Lina M"
-    rating: 1
+  - name: "Julia Wall"
+    rating: 5
     comment: |
-      DO NOT RECOMMEND.
-      I went in asking for a removal, she then started ripping my nails off which is so bad for your nails and is illegal for salons to do. - I thought there was miscommunication so I repeated myself and told her I wanted a soak off, she nodded yes AND CONTINUED RIPPING THEM OFF. Not only was it painful. It’s not what I asked for. I didn’t even want to pay for this service but I did anyway. DO NOT go here if you care about the health of your nails.
+      Great experience getting a spa pedicure here! They do a leg scrub and leg massage with a lotion that you can choose from a few different scents. They use hot stones as apart of their massage and then also a parafin wax! Lots of colours of polish to choose from! I came with my fiancé and they were great with him and made him very comfortable getting a pedicure! They also gave us a lotion each to take home! Wonderful service!
 ---

@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Mill Woods"
 address: "3456 91 St NW, Edmonton, AB T6E 5R1"
 rating: 3.5
-review_count: 415
+review_count: 416
 tier: "featured"
 phone: "(780) 462-2799"
 website: "http://millwoodsauto.ca/"
@@ -18,6 +18,10 @@ reviews:
     rating: 5
     comment: |
       I had a great experience bringing my 2016 Jeep Cherokee here. The team was professional, honest, and took the time to explain the issue and the repairs without any pressure. The work was completed on time, and my Jeep has been running great ever since. It’s hard to find a mechanic you can trust, but I definitely felt I was in good hands. I highly recommend this shop to anyone looking for reliable and quality service!
+  - name: "Mohamad Omar"
+    rating: 5
+    comment: |
+      I came in because my car was leaking brake fluid after I tried to change my calipers myself. Ali and his team were super helpful and honest, saved me some money where I could have had a costly repair.
   - name: "Dijana Kovacevic"
     rating: 5
     comment: |
@@ -33,10 +37,6 @@ reviews:
       One of their guy drove my car and took it into the workshop. After an hour, I was informed the vehicle failed inspection due to front window tint. The shop then offered to remove the tint for an additional $49 per window.
       When I asked to take the car to remove the film myself and return for a re-inspection, I was told there would be an additional $100 fee to re-inspect it. In my opinion, the visible tint should have been mentioned upfront before taking the vehicle into the bay.
       I was charged $98 plus tax for 2 windows, I am very disappointed and will not be returning.
-  - name: "Mohamad Omar"
-    rating: 5
-    comment: |
-      I came in because my car was leaking brake fluid after I tried to change my calipers myself. Ali and his team were super helpful and honest, saved me some money where I could have had a costly repair.
 hours:
   monday: "8:00 AM–5:30 PM"
   tuesday: "8:00 AM–5:30 PM"

@@ -18,14 +18,14 @@ reviews:
     rating: 5
     comment: |
       I can't recommend these guys enough. They're a fantastic local shop that genuinely cares about doing things the right way, and they're always honest, friendly, and fair with their pricing. Whether it's my daily driver WRX, my JDM kei cars, or my '85 MR2, they're the only people I trust to work on them. Great people, great service, and a business that truly deserves the support.
-  - name: "Jessy"
-    rating: 5
-    comment: |
-      I just had my oil change done today, and I couldn't be happier with the experience. The staff were incredibly friendly, welcoming, and professional from the moment I walked in. The shop was very clean and well-maintained, which made me feel comfortable while waiting. The atmosphere was amazing—relaxed, positive, and customer-focused. The service was completed quickly and efficiently, and everything was explained clearly. It's refreshing to find a mechanic shop that combines excellent workmanship with such great customer service. I highly recommend this shop to anyone looking for honest, reliable service. I'll definitely be coming back for future maintenance and repairs!
   - name: "Deanna Laursen"
     rating: 5
     comment: |
       I can’t recommend this shop enough! They’ve helped me twice now with power steering issues, and both experiences have been outstanding. From the moment I contacted them, they were professional, honest, and incredibly helpful. Finding a trustworthy automotive shop can be difficult, but this team has earned my complete confidence. I won’t hesitate to bring my vehicle back in the future and would highly recommend them to anyone looking for reliable, honest, and knowledgeable mechanics.
+  - name: "Jessy"
+    rating: 5
+    comment: |
+      I just had my oil change done today, and I couldn't be happier with the experience. The staff were incredibly friendly, welcoming, and professional from the moment I walked in. The shop was very clean and well-maintained, which made me feel comfortable while waiting. The atmosphere was amazing—relaxed, positive, and customer-focused. The service was completed quickly and efficiently, and everything was explained clearly. It's refreshing to find a mechanic shop that combines excellent workmanship with such great customer service. I highly recommend this shop to anyone looking for honest, reliable service. I'll definitely be coming back for future maintenance and repairs!
   - name: "James Dale"
     rating: 5
     comment: |

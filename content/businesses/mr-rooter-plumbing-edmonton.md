@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/mr-rooter-plumbing-edmonton-1.jpg", "/photos/mr-rooter-plumbing-edmonton-2.jpg", "/photos/mr-rooter-plumbing-edmonton-3.jpg"]
 rating: 4.8
-review_count: 4550
+review_count: 4561
 price_range: "$$"
 amenities:
   - "24/7 Emergency"
@@ -60,8 +60,8 @@ reviews:
       The quality of the workmanship was exceptional. The repairs were completed efficiently, with attention to detail, and the work area was left spotless when the job was finished. Their professionalism, expertise, and commitment to quality gave us calm that we were in great hands. Thank you, Ryan and Brandon, for providing truly first-class service!
       
       We highly recommend Mr. Rooter to anyone looking for skilled professionals who go above and beyond. We will definitely be using them again for any future plumbing needs.
-  - name: "T. Erin Gruber she-her"
-    rating: 5
+  - name: "Rodale Mendoza"
+    rating: 3
     comment: |
-      David and Yanis were excellent and the job they did turned out beautiful. My new bathroom fixtures work perfectly and look great. The plumbers and dispatch team were all very kind, communicative, punctual, and really genial. I have used Mr. Rooter before and I’m really grateful I thought to call them again this time.
+      Mr Rooter arrived and successfully cleared my drain, and everything is now flowing perfectly. My issue was with the communication regarding pricing. Additional root-clearing work was completed that increased the final cost, but it wasn't made clear to me beforehand that the job had moved into a higher-priced service tier. The technician did later acknowledge that the new estimate should have been discussed with me before doing the additional root-clearing work. After I provided this feedback, management followed up promptly to apologize for the communication breakdown, which I appreciated.
 ---

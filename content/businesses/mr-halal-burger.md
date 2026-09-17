@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–9:00 PM"
 photos: ["/photos/mr-halal-burger-1.jpg", "/photos/mr-halal-burger-2.jpg", "/photos/mr-halal-burger-3.jpg"]
 rating: 4.7
-review_count: 812
+review_count: 813
 price_range: "$"
 amenities:
   - "Halal"
@@ -65,8 +65,8 @@ reviews:
       Secondly the BOGO promotion mentioned is a scam. You charge more than the price of 1 burger on the BOGO and then make your patry extremely thin to save on money.
       
       The cpncerns are all valid and it goes to show you have terrible ccountability as you didn't even contact me to investigate. Bad business practices and bad food. Will never be returning
-  - name: "Laura Li"
+  - name: "J N"
     rating: 5
     comment: |
-      Owner was really friendly & helpful! Recently diagnosed as celiac so asking if they had a gluten free menu. Not only do they offer gluten free bun and fries, they even have a separate fryer to ensure no cross contamination ☺️ Boyfriend called it the closest Canadian version of the famous In & Out burger lol. Got the new Oklahoma Burger with caramelized onions with American cheddar. Gluten free bun was almost like an artisan bread, airy like focaccia but not dense like one. Very comfortable experience and lower cost than most gluten free dine out options! A must try for celiac friendly places!
+      Ok I ordered from Mr. Halal burger tonight. My brother and I are both gluten intolerant.  To others my next comment may not mean much but to someone that is sentenced to eating gluten free bread they will understand.  The GF buns they use are amazing. Great texture, have the closest mouth feel to a gluten bun I’ve ever had aaaaannnnddd they don’t disintegrate!!! Amazing. Ok enough about the buns. The burger itself out shines even the joy of finding the greatest GF bun of all time.  Great flavour great seasoning just amazing. I’m very impressed. I will definitely be going back !!!
 ---

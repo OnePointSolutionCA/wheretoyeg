@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/nothing-but-tires-auto-service-1.jpg", "/photos/nothing-but-tires-auto-service-2.jpg", "/photos/nothing-but-tires-auto-service-3.jpg"]
 rating: 4.8
-review_count: 3584
+review_count: 3580
 price_range: "$$"
 amenities:
 
@@ -73,6 +73,11 @@ reviews:
       Thanks so much, guys, for making this such a good experience (:
       
       —Leland
+  - name: "Kai"
+    rating: 5
+    comment: |
+      One of the best place for the tires .Everything is excellent from customer service to tires selection. The prices are very budget friendly,very nice waiting area with free snacks and drinks.
+      Thanks guys for your amazing service!..
   - name: "Gautam Naib"
     rating: 2
     comment: |
@@ -86,9 +91,4 @@ reviews:
     rating: 1
     comment: |
       Extremely disappointing experience with Nothing But Tires. I purchased a tire from them, and it developed a bump, indicating a defect. When I returned for a replacement, instead of standing behind the product and helping resolve the issue fairly, I was asked to pay an additional $90 for the replacement and installation. Customer service and warranty support were not what I expected. I chose this business hoping for reliable products and support, but this experience left me frustrated and dissatisfied. I would not recommend them based on how this situation was handled.
-  - name: "Catherine Crocker"
-    rating: 5
-    comment: |
-      They literally are the best I can not say it enough.  Have been going to them for years and super happy for them and their new location.  If you live Northern and are coming out check in with them.  Thanks again for another great buy for the new to us 2002 Astro Van. #yukongirlnwtadventurer
-      We will be back next trip to get winter tires for our new rig.
 ---

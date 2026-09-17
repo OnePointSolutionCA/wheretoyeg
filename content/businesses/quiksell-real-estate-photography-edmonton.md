@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/quiksell-real-estate-photography-edmonton-1.jpg", "/photos/quiksell-real-estate-photography-edmonton-2.jpg", "/photos/quiksell-real-estate-photography-edmonton-3.jpg"]
 rating: 5
-review_count: 81
+review_count: 82
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,10 @@ tags: ["edmonton", "real-estate"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Scott Tougas"
+    rating: 5
+    comment: |
+      Great customer service and consistently bright, clean photos. When shooting video or reels, they're helpful with scripts and adjustments to make everything flow naturally. Since switching to Quiksell, I haven't used another photography company for my real estate listings.
   - name: "Doranna Owerko"
     rating: 5
     comment: |
@@ -44,13 +48,4 @@ reviews:
     rating: 5
     comment: |
       Quality photography executed in a timely manner, impressed with their level of professionalism too. I will continue to use QuikSell for my Real Estate photography.
-  - name: "Michael Jones"
-    rating: 5
-    comment: |
-      Fantastic service.
-      From first contact to the end they were incredibly helpful and responsive.
-      Mandeep conducted the video recording and photoshoot. It was my first time in a video and he was great at giving tips and directions and made the experience enjoyable.
-      The overall quality of videos and photos were spot on.
-      
-      I would absolutely recommend.
 ---

@@ -19,7 +19,7 @@ hours:
   sunday: "11:30 AM–8:00 PM"
 photos: ["/photos/mrbun-shanghai-dumplings-noodles-1.jpg", "/photos/mrbun-shanghai-dumplings-noodles-2.jpg", "/photos/mrbun-shanghai-dumplings-noodles-3.jpg"]
 rating: 4.3
-review_count: 374
+review_count: 377
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -37,28 +37,24 @@ reviews:
       The service was okay though. We waited about 20 mins for 1 order of the chocolate xlbs. The server might have forgotten about it when he asked if it was brought to us yet. I wish there was more than 3 pcs as well!
       
       Overall really good and highly recommend! Would come back again :)
-  - name: "Tim"
+  - name: "wendy yu"
     rating: 4
     comment: |
-      All of the food selection was exceptional.  More than half my party thought these were the best dumplings they have had and the other half thought they were the second best - but all you need to know is the food was great.  I personally thought the “spicy” food was not very spicy despite the waitress concern for the spice heat.    You will not regret enjoying a meal here.  Good for large groups or just you and a friend.
+      Mr. Bun is my go to spot in the city for soup dumplings! The XLB are always fresh, plump, and juicy. I find it comparable to Din Tai Fung and that’s saying a lot!! I also always order the dan dan noodles, which is another must try. The bowl is big enough to share.
+      
+      I also like trying at least one new dish every time I visit, and so far, I’ve never had anything I didn’t enjoy. The food has been consistently good, and I hope this place stays in the city for a long time.
+      
+      I would say the service can be a bit hit or miss. We usually go for lunch, but the last time we went for dinner, we waited exceptionally long for someone to take our order, bring us water, and check in on us. I’m guessing it may have been a staffing issue that evening.
   - name: "Lena Bou"
     rating: 5
     comment: |
       Soup dumplings - chicken truffle: Amazing flavor! The red chili oil Wonton dish was so hot but so delicious. They can do the sauce in the side so do that if you can't handle the heat.
       
       The service was delightful, very attentive staff. Definitely going back soon!
-  - name: "lisa m"
-    rating: 3
+  - name: "Tim"
+    rating: 4
     comment: |
-      I’m a bit confused by this restaurant experience overall.
-      
-      I had visited this place before when it had a different owner and decided to return after the change in ownership. When we arrived, the restaurant was mostly empty with only one or two tables occupied. Despite this, we were told there would be a 20–30 minute wait, which felt a bit unexpected given how many open seats there were. We assumed there may have been reservations or incoming groups, so we decided to wait.
-      
-      Once seated, the server was very friendly and provided great recommendations. The food itself was also good and enjoyable overall, with no major complaints in that regard.
-      
-      However, near the end of our meal, we were informed it was last call, which we completely understood. What felt a bit off was overhearing staff discussing frustration about guests not leaving yet. While the restaurant wasn’t officially closed at that time, the conversation left an uncomfortable impression on our table.
-      
-      We also noticed the table felt slightly sticky upon seating, which added to the experience. After leaving, we were still a bit confused, as many tables remained empty throughout our visit, making the initial wait time estimate feel unclear.
+      All of the food selection was exceptional.  More than half my party thought these were the best dumplings they have had and the other half thought they were the second best - but all you need to know is the food was great.  I personally thought the “spicy” food was not very spicy despite the waitress concern for the spice heat.    You will not regret enjoying a meal here.  Good for large groups or just you and a friend.
   - name: "Andrew Woo"
     rating: 5
     comment: |

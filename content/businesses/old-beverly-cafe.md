@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Beverly"
 address: "3908 118 Ave NW, Edmonton, AB T5W 0Z9"
 rating: 4.5
-review_count: 610
+review_count: 612
 tier: "featured"
 phone: "(780) 477-7660"
 website: "https://www.oldbeverlycafe.ca/"

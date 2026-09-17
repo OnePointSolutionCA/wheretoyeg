@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/new-skin-laser-studio-1.jpg", "/photos/new-skin-laser-studio-2.jpg", "/photos/new-skin-laser-studio-3.jpg"]
 rating: 4.8
-review_count: 310
+review_count: 311
 price_range: "$$"
 amenities:
 
@@ -38,21 +38,27 @@ reviews:
       I would absolutely recommend this studio to anyone looking for professional laser treatments and exceptional customer service. I can’t wait for my next appointment!
       
       - kaitlin
-  - name: "Adela Delgado"
+  - name: "Brooke Peterson"
     rating: 5
     comment: |
-      Thanks to Sonya and her team for an awesome experience! My niece & I came in for a HydraFacial which left our skin glowing! Sonya was super knowledgeable, professional and took the time to review my current skincare routine and adjust how I have been using my products for maximum results. I really appreciated the time and care that she took with me!
-  - name: "Anh"
+      I have been going to New Skin Laser for years at this point and could not imagine going elsewhere. The clinic is always clean and inviting.
+      Shelby has done multiple treatments on me varying from Laser hair removal, facials and tattoo removal and always ensures to adjust to my personal skin needs and sensitivities.
+      
+      Both Sonya and Shelby (and the rest of the team ) never fail to impress me with their knowledge and overall dedication to their craft. I would highly recommend and encourage you to try them out!
+  - name: "Bozena Andersen"
     rating: 5
     comment: |
-      I had a really satisfied experience with Shelby. She patiently helped me to choose the right treatment for my acnes. She’s kind and professional, always make me feel welcomed.
-  - name: "Miss Kimchi"
+      I had an excellent facial with Sonya today and was thoroughly impressed with both her professionalism and expertise. From the moment I arrived, she was welcoming, knowledgeable, and attentive. She took the time to understand my skin concerns, explained the treatment process, and ensured I was comfortable throughout the appointment. Her attention to detail and genuine care for her clients are evident in the quality of her work. I left feeling refreshed, relaxed, and very happy with the results. Thank you, Sonya, for such a wonderful experience. I highly recommend her to anyone looking for exceptional skincare services.
+  - name: "Shay"
     rating: 5
     comment: |
-      I got a hydrafacial and peeling today with Shelby and it was amazing !
-      She is lovely and veeery gentle,  explained everything very well and was incredibly nice. While it might be a bit early to judge, my skin already feels great and it had a nice glow after washing my face at home. It feels cleaner too. I will be seeing her for future events !
-  - name: "Melanie W"
+      I couldn’t be happier with my experience here! I started coming in for laser treatment for a scar that had the potential to leave me feeling “broken,” but thanks to their amazing work and care, it has improved so much and is now almost completely gone. 🥹❤️
+      
+      Sonya and Shelby are absolutely the best! They are so caring, professional, and genuinely made me feel comfortable throughout the whole process! I’m beyond satisfied with my results and so grateful for everything they’ve done for me.
+      
+      I 100% recommend them to anyone considering laser treatments. Thank you so much, Sonya and Shelby! 🫶✨
+  - name: "Me"
     rating: 5
     comment: |
-      I had a great experience at New Skin Laser Studio. I’ve been seeing Sonya since she was at her original studio downtown. The space is very clean, calming, & welcoming.  Sonya & Shelby are kind, professional, & knowledgeable. Always taking the time to explain everything so I feel comfortable & cared for. My skin felt amazing after my treatments, & love seeing the results! I would highly recommend this place to anyone looking for quality skincare & great service. Thank you ladies!
+      had such a great experience with my hydra facial,  RF microneedling, and new skin treatment! Everyone was so friendly and made me feel really comfortable. I loved how they took the time to explain everything and made sure I was comfortable throughout the treatment. My skin feels so fresh and smooth, and I’m really happy with the experience. I would definitely recommend them! 😊
 ---

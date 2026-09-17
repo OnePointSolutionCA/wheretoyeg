@@ -13,6 +13,20 @@ google_maps: "https://maps.google.com/?cid=13490848284728589256&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/northside-dental.jpg"
 reviews:
+  - name: "Manaj Abed"
+    rating: 5
+    comment: |
+      Folks ask for Dr. Mohammad if possible! He is really great! I had my root canal done and the experience was excellent. Almost painless, he didn't move to next steps until made sure what he'd done is perfect, while Walking me through all the steps.
+      
+      Thank you Dr. Mohammad for your professionalism.
+  - name: "Kelly D"
+    rating: 5
+    comment: |
+      Very nice team. Dr Mohammed and Amina are great and very friendly! In and out very quick. Highly recommend this place to anyone that wants any dental work!
+  - name: "Jody Fast"
+    rating: 5
+    comment: |
+      "I had a wonderful experience at this dental office. The dentist was gentle, thorough, and explained every step of the procedure clearly. The clinic is spotless and the staff is incredibly kind. 5 stars!
   - name: "Brad Chown"
     rating: 5
     comment: |
@@ -29,18 +43,6 @@ reviews:
       By far the best clinic I've ever been to for myself. The staff were incredibly patient, I have anxiety with these clinics and they made the best out of a terrible situation. I have returned  and brought my young children for their appointments. They reconstructed my front teeth and I feel amazing.  They were incredibly supportive throughout the entire process and the staff are sincere. I keep coming back for and the reception staff are amazing to deal with. Wonderful people work here.  Thank you!
       
       As I continue to return the staff are so kind and gentle with their work.  The empathy radiates from these kind individuals.
-  - name: "Doaa E"
-    rating: 5
-    comment: |
-      Front desk staff is always very friendly and helpful, and the dentists are also very kind and do an excellent job!
-  - name: "Jess"
-    rating: 5
-    comment: |
-      I recently finished all my filling at north side dental, and I was extremely pleased with the service I received. Amina and Dr.Mohammad worked on teeth, were very efficient, extremely professional, and I was honestly so happy with the results. Will definitely be back again, hoping I get the same people!!
-  - name: "Roje Mustafa"
-    rating: 5
-    comment: |
-      I always have a great experience at this dental office. Dahlia, the hygienist is extremely knowledgeable, kind, and very gentle with my teeth. Safa is also wonderful—always friendly and finds me last minute appointments. They truly make me feel comfortable every time I visit. Highly recommend!!!!!
 hours:
   monday: "10:00 AM–6:00 PM"
   tuesday: "10:00 AM–6:00 PM"

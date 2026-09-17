@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "2018 Sherwood Dr #302, Sherwood Park, AB T8A 5V3"
 rating: 4.9
-review_count: 279
+review_count: 281
 tier: "featured"
 phone: "(780) 467-2444"
 website: "https://parkdentalcare.ca/?utm_source=google&utm_content=gbp"

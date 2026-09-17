@@ -30,6 +30,10 @@ tags: ["edmonton", "roasters"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Robert Gephart"
+    rating: 4
+    comment: |
+      NXT provides excellent roasting of many good coffees on 3 days each week. Their selection is broad and the coffee is great and well priced.
   - name: "Ashraf Elsayed"
     rating: 5
     comment: |
@@ -51,16 +55,4 @@ reviews:
     rating: 5
     comment: |
       We were tired of commercial grade subpar grocery store coffee (always buying big cheap bags from Costco). Finally we tried NXT, and the coffee is awesome. $10 for a small bag which lasts is 1-2 weeks for GOOD coffee. Honestly it almost seems as if your coffee is slightly oily from how fresh the beans have been roasted. Can’t wait to try all of the different blends they have!
-  - name: "Donovan Jang"
-    rating: 5
-    comment: |
-      What a gem this spot is! Inconspicuous spot tucked behind the Home Depot on 68 Ave connecting Gateway and Calgary Trail, but totally legitimate and the real deal.
-      
-      To be honest, the beans and roasts NXT does are a bit too dark/bold and oily for my taste, as I typically enjoy super light and fruity cups brewed in a Chemex, but that still doesn't make it any less than a 5-star spot in my eyes. While maybe not my typical preference, I can still tell that the quality and freshness are top notch and this is a spot I will be recommending to all my friends who prefer bolder brews, because this is a dark roast lover's dream.
-      
-      I especially think that NXT is perfectly representative of the small business charm, with super competitive prices ($10 for 250, cheapest I've seen for specialty coffee in Edmonton or Calgary) and friendly and knowledgeable service from the owners/partners up-front.
-      
-      I've tried the Fazenda Santa Helena Brazil and Costa Rica beans, and both were as fresh as it gets, robust, and distinctive. The Costa Rica especially has a nice aftertaste.
-      
-      Definitely give NXT a shot because they deserve much more recognition!
 ---

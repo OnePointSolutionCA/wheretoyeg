@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/onkar-insurance-brokers-1.jpg", "/photos/onkar-insurance-brokers-2.jpg", "/photos/onkar-insurance-brokers-3.jpg"]
 rating: 4.9
-review_count: 598
+review_count: 600
 price_range: "$$"
 amenities:
 
@@ -36,11 +36,6 @@ reviews:
     rating: 5
     comment: |
       I had an absolutely amazing experience with Onkar Insurance, especially with Shyna. She was just fantastic. She handled our super-visa insurance for parents. She made the whole process much easier to understand and follow. I definitely recommend their services to anyone looking for any insurance. Thank you.
-  - name: "Mabnn"
-    rating: 5
-    comment: |
-      have been with this insurance company for over 10 years for my mother super visa insurance and my experience has been consistently excellent. Their customer service team is always professional, responsive, and willing to help with any questions or concerns. Whenever I needed assistance with claims or policy updates, the process was smooth, clear, and handled in a timely manner.
-      I highly recommend this company to a anyone looking for trustworthy people.
   - name: "Prince Singla"
     rating: 5
     comment: |
@@ -49,4 +44,8 @@ reviews:
     rating: 1
     comment: |
       What’s the best way to talk to someone in a position of authority in this company. I am having trouble with Onkar insurance with unclear communication and lack of response to my emails. I have been overcharged for travel insurance for somebody who never entered Canada. Everytime I call I speak to a new person and they do nothing to follow up. I’m not getting a response in writing. They deliberately keep it verbal and there is no record of the promises they make. They keep sending me emails about charging me more for no reason at all. I have requested them to put me in touch with someone who can actually do something but they keep making me go round and round in circles. I need help if you are reading this. Please tell me how to reach you.
+  - name: "Gurpreet singh"
+    rating: 5
+    comment: |
+      I had an excellent experience working with Shyna. She was professional, knowledgeable and calm. She took time to explain all my options clearly and helped me choose the coverage that best fits my parents
 ---

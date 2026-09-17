@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/rayacom-inc-1.jpg", "/photos/rayacom-inc-2.jpg", "/photos/rayacom-inc-3.jpg"]
 rating: 4.1
-review_count: 112
+review_count: 114
 price_range: "$$"
 amenities:
 
@@ -32,10 +32,6 @@ reviews:
     rating: 5
     comment: |
       Rayacom was extremely accommodating with a last minute request we had after missing an issue with our proof (pretty much on us). They were top notch.
-  - name: "Lucas Bennett"
-    rating: 5
-    comment: |
-      I’ve used Rayacom for several print jobs now, and they’ve been consistently excellent. From business cards to brochures, the colour accuracy and paper quality are spot on. You can tell they care about details, and turnaround times are always reliable.
   - name: "Brandon Fraser"
     rating: 5
     comment: |
@@ -55,4 +51,8 @@ reviews:
     comment: |
       Absolutely loved my custom packaging from Rayacom. The product boxes look premium and the structural design is solid. It made my small business feel
       large and well polished.
+  - name: "Julian Bennett"
+    rating: 5
+    comment: |
+      Rayacom exceeded my expectations with their premium business cards. The finish feels luxurious, colours are rich, and the edges are perfectly done. I’ve received compliments almost every time I share one. Fast delivery too.
 ---

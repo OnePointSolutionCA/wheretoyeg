@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Windermere"
 address: "10607 82 Ave NW Unit #8, Edmonton, AB T6E 2A3"
 rating: 4.2
-review_count: 1025
+review_count: 1034
 tier: "featured"
 phone: "(587) 520-8716"
 website: "https://www.parisbaguette.ca/fr/locations/ab/edmonton/10607-82-avenue-nw/"

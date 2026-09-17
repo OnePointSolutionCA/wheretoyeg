@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/optimize-physiotherapy-and-sports-injury-clinic-1.jpg", "/photos/optimize-physiotherapy-and-sports-injury-clinic-2.jpg", "/photos/optimize-physiotherapy-and-sports-injury-clinic-3.jpg"]
 rating: 4.9
-review_count: 484
+review_count: 488
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,10 @@ tags: ["edmonton", "physiotherapy"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Emma LaRoy"
+    rating: 5
+    comment: |
+      Such an amazing team all around! I have been to Abbi for massages and she knows her stuff! I always feel so much better after seeing her. I was experiencing some jaw issues and she recommended that I see Steve for physio. The progress that he made with my jaw in such a short time was incredible! I am experiencing less pain and tightness on a regular basis and I can't recommend him enough.
   - name: "Kaitlin Krystyna"
     rating: 5
     comment: |
@@ -36,10 +40,10 @@ reviews:
       The environment is incredibly positive and welcoming, and honestly, being around the team makes you feel better. They genuinely care about their patients and create a space that encourages healing and progress.
       
       I’m very grateful for all of their help and would highly recommend Optimize Physiotherapy to anyone looking for compassionate, skilled care.
-  - name: "Emma LaRoy"
+  - name: "Megan Morison"
     rating: 5
     comment: |
-      Such an amazing team all around! I have been to Abbi for massages and she knows her stuff! I always feel so much better after seeing her. I was experiencing some jaw issues and she recommended that I see Steve for physio. The progress that he made with my jaw in such a short time was incredible! I am experiencing less pain and tightness on a regular basis and I can't recommend him enough.
+      I had a wonderful experience at Optimize Physio! Arri and his team are the best in the business. They do a thorough assessment of the  problem, identify the area of concern and provide exercises and stretches to work on at home. I couldn't be happier with my experience and I already feel better!
   - name: "Jessica W"
     rating: 5
     comment: |
@@ -49,10 +53,6 @@ reviews:
       
       Seth has helped our son immensely, both physically and mentally. He’s not only aided in his recovery but has also taught him the importance of taking care of his body as an athlete. We’re incredibly grateful for his knowledge, care, and genuine investment in his patients.
       Highly recommend this physio it’s clean, convient and everyone is friendly and welcoming
-  - name: "Megan Morison"
-    rating: 5
-    comment: |
-      I had a wonderful experience at Optimize Physio! Arri and his team are the best in the business. They do a thorough assessment of the  problem, identify the area of concern and provide exercises and stretches to work on at home. I couldn't be happier with my experience and I already feel better!
   - name: "Yuki Duong"
     rating: 5
     comment: |

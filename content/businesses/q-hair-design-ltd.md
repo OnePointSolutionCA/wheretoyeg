@@ -40,10 +40,10 @@ reviews:
     rating: 5
     comment: |
       Absolutely wonderful experience with julie at Q Hair.  The salon has a very welcoming environment and all of the staff was super friendly and professional. The whole process from start to finish was wonderful and I felt like Julie really listened to what I wanted and made it happen! Highly recommend this salon and Julie to anybody looking!
-  - name: "Samreen Choudhary"
+  - name: "Kristoff Santos"
     rating: 5
     comment: |
-      Amazing experience! The staff was friendly, the salon was clean and welcoming, and my stylist did exactly what I asked for. She even offered me a free styling appointment to come back, which was such a thoughtful touch. I left feeling so confident and happy with my hair. Highly recommend! 😊
+      If I could give more I absolutely would! Went for an extensive consultation with Rachel as I was chopping off a good amount of hair and coloring it. It turned out amazing and I’ve gotten so many compliments! I’m so glad she saw my vision. 5+ stars!
   - name: "E"
     rating: 5
     comment: |

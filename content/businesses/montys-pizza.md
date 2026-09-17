@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Windermere"
 address: "1027 Potter Greens Dr NW, Edmonton, AB T5T 6A4"
 rating: 4.6
-review_count: 590
+review_count: 592
 tier: "featured"
 phone: "(780) 443-1010"
 website: "http://montyspizza.ca/"
@@ -14,16 +14,15 @@ google_maps: "https://maps.google.com/?cid=9151709760291198448&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/montys-pizza.jpg"
 reviews:
-  - name: "Matthew Olesen"
+  - name: "The Savvy Guide"
     rating: 5
     comment: |
-      This is honestly one of the highest quality places you can get food. Besides the fact that the pizza is amazing. Their other dishes are great. If you get a ceasar salad, you get good crunchy leaves, and GOOD real parmesan cheese.
+      Greek pizza done properly.
+      Pick-up - was recommended from a friend that we try this. Ordered online a medium and created our own. Medium pizza for $40
       
-      The chicken isn’t some frozen garbage it’s seasoned and cooked amazingly, whether you’re getting it on pizza or another dish. Extremely good.
+      Very tasty and filling. There is no where to sit and eat so we dined in the parking lot from the back if the vehicle.
       
-      Seriously the best quality food that can be ordered for your dollar, hands down.
-      
-      Also their delivery drivers are great
+      Highly recommend!
   - name: "Piper Dopko"
     rating: 4
     comment: |

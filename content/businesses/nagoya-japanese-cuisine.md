@@ -6,7 +6,7 @@ subcategory: "japanese"
 neighborhood: "Windermere"
 address: "17308 Hiller Rd SW, Edmonton, AB T6W 4H3"
 rating: 4.7
-review_count: 410
+review_count: 413
 tier: "featured"
 phone: "(587) 873-6028"
 website: "https://nagoyawindermere.com/"
@@ -14,6 +14,10 @@ google_maps: "https://maps.google.com/?cid=3752518544546444397&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/nagoya-japanese-cuisine.jpg"
 reviews:
+  - name: "Angelyn Laluna"
+    rating: 5
+    comment: |
+      I'ts our first time to this place and we are definitely coming back. Really good, fresh and delicious food. Nhie is very charming. She is knowledgeable with their menu, suggested good dish in the menu that we enjoyed. The restaurant is clean, we did not wait for our food.. everything is so good. Highly recommended.
   - name: "Bảo Anh Hoàng"
     rating: 5
     comment: |
@@ -34,15 +38,10 @@ reviews:
       The sashimi was delicious, the deluxe combo was extremely impressive with every peice being savory delicious.
       
       It was exactly the experience you want and want to repeat time and time again. 🍣👌🏻
-  - name: "Lesley Nademi"
-    rating: 5
+  - name: "Cindy Kwok"
+    rating: 4
     comment: |
-      Loved the food and ambiance here. The servers were all so kind, and the food was high quality + also very affordable. Definitely one of my favourite spots in Edmonton.
-  - name: "Meghan"
-    rating: 5
-    comment: |
-      So glad to have this Japanese restaurant nearby my place
-      My husband who’s sensitive to fishy smells but loved the eel bowl no odor at all Everything was delicious and generous We’ll definitely be back!
+      So far, I've only tried the sashimi, rolls and tempura. The sashimi fish is fresh, and comes in thick slices - great bang for your buck. The specials rolls we've tried (geisha, tiger, rainbow) were delicious. We ordered the mix tempura and I personally think it's the only thing that fell a bit short of my expectation. But I recognize I'm biased because just returning from Japan and having tempura there made by locals - there really isn't a comparison. If I didn't have that for comparison, this tempura would have been just fine. Service was excellent, she's very friendly and attentive. Seemingly just one server for the whole restaurant which is impressive. Quickly becominging one of my top 3 favourite Japanese restaurants in Edmonton.
 hours:
   monday: "11:30 AM–9:00 PM"
   tuesday: "11:30 AM–9:00 PM"

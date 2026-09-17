@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/oh-my-dog-spa-and-grooming-1.jpg", "/photos/oh-my-dog-spa-and-grooming-2.jpg", "/photos/oh-my-dog-spa-and-grooming-3.jpg"]
 rating: 4.9
-review_count: 638
+review_count: 641
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,10 @@ tags: ["edmonton", "pet-grooming"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Grace Truscott"
+    rating: 5
+    comment: |
+      I brought my anxious rescue to this place and they did such an amazing job at being patient and accommodating for her! I am so incredibly satisfied with my experience and I would 10/10 recommend for those with anxious around other dogs and people! My girl loved it so much that she was pulling to go back in the room with all the lovely employees and other doggos! (as a plus too they made her smell like heaven)
   - name: "Amanda Wiens"
     rating: 5
     comment: |
@@ -46,14 +50,6 @@ reviews:
       The haircut is fantastic every time, and he comes out of his appointment with a tie, and smelling like a gentleman.
       
       The staff are some of the nicest humans you could meet, and you leave knowing your dog is well cared for.
-  - name: "nichole t"
-    rating: 5
-    comment: |
-      I always take my dog to Oh My Dog Spa and they never disappoint. The team is so friendly and really amazing with the dogs  you can tell they genuinely care.
-      
-      My pup always comes back looking clean, fluffy, and happy. They listen to exactly how I want him groomed and always get it just right. It’s such a relief knowing he’s in good hands every time.
-      
-      Wouldn’t go anywhere else!
   - name: "Jacqueline Coriana"
     rating: 5
     comment: |

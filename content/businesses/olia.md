@@ -20,7 +20,7 @@ hours:
   sunday: "5:00 PM–10:00 PM"
 photos: ["/photos/olia-1.jpg", "/photos/olia-2.jpg", "/photos/olia-3.jpg"]
 rating: 4.4
-review_count: 477
+review_count: 478
 price_range: "$$$$"
 amenities:
   - "Dine-In"
@@ -30,10 +30,6 @@ tags: ["edmonton", "italian"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Jeffrey Witherall"
-    rating: 5
-    comment: |
-      10/10 experience all around. Atmosphere, service, drinks, food, all were great! Whipped ricotta is a must. Even the bread is phenomenal. Lamb ragu, tagliatelle bolognese, pesce, and chocolate torta is what we had. Lamb was easy 10/10 for me. Don Vito was delicious as well. Definitely will be back!
   - name: "Jaya Chauhan"
     rating: 5
     comment: |
@@ -49,6 +45,14 @@ reviews:
       In that quiet moment, Harry shared how his daughters joined him in Lethbridge, where Carmen was born, to lay her ashes to rest — a gentle reminder of how food, memory, and human connection weave together.
       A beautiful evening that moved naturally between two connected spaces, each with its own charm but sharing the same heart.
       Highly recommended.
+  - name: "Jeffrey Witherall"
+    rating: 5
+    comment: |
+      10/10 experience all around. Atmosphere, service, drinks, food, all were great! Whipped ricotta is a must. Even the bread is phenomenal. Lamb ragu, tagliatelle bolognese, pesce, and chocolate torta is what we had. Lamb was easy 10/10 for me. Don Vito was delicious as well. Definitely will be back!
+  - name: "Ashley St. Jean"
+    rating: 3
+    comment: |
+      We were able to find free parking behind the apartment, not sure if that’s okay but we didn’t see any signage. Our reservation was 10 minutes after they opened, it was nice and quiet and within 30 minutes it was fully packed and so loud. I ended up having to put ear plugs in so I could have a conversation with my husband. If you’re sensitive to sound this is not the restaurant for you, with how busy it is. To go to the washroom, it is a bit of a walk and you do need to walk through a lounge/bar that is attached to them. Gender-neutral washrooms, with bird song/nature music & very unique lighting. The server was friendly and educated us, letting my husband know the seafood ravioli has a very strong fishy taste to it. He really enjoyed it. My gnocchi was great. The server also described the hen dish very well, again very unique textures and flavours going on in that dish as well. We had no room for dessert. Several friends recommended the place, it was nice to experience but I wouldn’t go back again
   - name: "Andy Chiang"
     rating: 4
     comment: |
@@ -61,8 +65,4 @@ reviews:
     rating: 4
     comment: |
       Olia creates a warm and cozy atmosphere with nods to Italian culture and cuisine. The pasta and meat dishes are great, although for the price, did not absolutely wow me. The Whipped Goat Ricotta, however, is the best appetizer I’ve had in a long time and I can’t stop thinking about it! Service is amazing and the staff are very knowledgeable of the menu. Overall, perfect for date night!
-  - name: "Madame G"
-    rating: 5
-    comment: |
-      Went to Olia to celebrate a birthday with the tasting menu, which was excellent! After 3 or 4 dishes, we realized that we've had them before back at Uccellino. The entire menu was very enjoyable nevertheless. Highlights for me were the ricotta on bread and both pasta dishes. The steak was the best piece of beef I've had. The staff were attentive and friendly.
 ---

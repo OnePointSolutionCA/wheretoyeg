@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/oakberry-aa-bowls-smoothies-1.jpg", "/photos/oakberry-aa-bowls-smoothies-2.jpg", "/photos/oakberry-aa-bowls-smoothies-3.jpg"]
 rating: 4.7
-review_count: 168
+review_count: 176
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -30,6 +30,10 @@ tags: ["edmonton", "juice-bar"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "C L"
+    rating: 5
+    comment: |
+      I got the mango matcha, it tasted great and was super refreshing. The service was friendly! I would come back again.
   - name: "Alicia Mazza"
     rating: 4
     comment: |
@@ -38,10 +42,6 @@ reviews:
     rating: 5
     comment: |
       The drinks are great and customer service is top-notch. Loved my experience at this location! :)
-  - name: "C L"
-    rating: 5
-    comment: |
-      I got the mango matcha, it tasted great and was super refreshing. The service was friendly! I would come back again.
   - name: "Lindsay Salloum"
     rating: 5
     comment: |

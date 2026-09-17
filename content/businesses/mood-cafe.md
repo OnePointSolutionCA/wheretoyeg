@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Beaumont"
 address: "7601 115 St NW, Edmonton, AB T6G 0K5"
 rating: 4.5
-review_count: 408
+review_count: 411
 tier: "featured"
 phone: "(780) 760-6663"
 website: "https://moodcafebakery.com/"
@@ -43,10 +43,14 @@ reviews:
     rating: 3
     comment: |
       Maybe it was a bad time to come in but we had a very mid experience. Me and some girlfriends came in and the service was good, nothing special, but we didn’t like how there were barely any drink options or food (probably because it was closing time). So we get our drinks and immediately we decide we don’t wanna eat here, I ordered a toasted marshmallow latte that tasted like quite literally espresso and water, and my girlfriends all ordered caramel and strawberry frappes; they were actually pretty good BUT they gave all my friends stomach aches.. don’t know what that was about. Maybe we’ll give this place another chance
-  - name: "Arshia Lekhi"
+  - name: "Jenna Herrington"
     rating: 5
     comment: |
-      Mood cafe is always a good idea. Cozy place and the service is amazing. The options for gelato, baked good are delicious and unique.
+      Stopped by this café in a really calm neighborhood while out on a road bike ride, and it was exactly what I needed. Got an iced matcha on a hot day and it hit perfectly—refreshing, not too sweet, and really smooth.
+      
+      The whole place has a relaxed vibe, not rushed or noisy, which made it a nice break from being outside in the heat. Good spot to just sit, cool down, and reset for a bit before heading back out.
+      
+      Would definitely stop here again on future rides.
 hours:
   monday: "Closed"
   tuesday: "8:00 AM–8:00 PM"

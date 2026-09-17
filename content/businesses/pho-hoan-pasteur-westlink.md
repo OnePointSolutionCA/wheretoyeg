@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/pho-hoan-pasteur-westlink-1.jpg", "/photos/pho-hoan-pasteur-westlink-2.jpg", "/photos/pho-hoan-pasteur-westlink-3.jpg"]
 rating: 4.5
-review_count: 1141
+review_count: 1144
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -38,10 +38,6 @@ reviews:
     rating: 5
     comment: |
       Been coming to Pasteur since Kingsway was the OG location. This place is old reliable, honestly have never been let down here. It makes sense why they have such good reviews. Go to is the large Sate Pho, so good. Ok Peanut taste and the creamy broth makes it so good. Regular pho is good too. And they’re open on Tuesdays.
-  - name: "Andy L"
-    rating: 4
-    comment: |
-      I had the pho special at Pho Hoan Pasteur in west Edmonton recently. It was hearty and reminded me of the kind of pho that was easy to find in Edmonton decades ago (before being overtaken by newer spots). That throwback feeling was reinforced by the incense at the front door and the older crowd dining there. A surprising highlight was the tea (barley? rice?). Overall, it’s a place I’d go for good-value pho or nostalgia, and I’d give it 8.3/10.
   - name: "Ryan Jillard"
     rating: 5
     comment: |
@@ -50,4 +46,8 @@ reviews:
     rating: 5
     comment: |
       We have been to other Pho Hoan locations and this location was great! Service was fast and friendly. Food was delicious! We will definitely be coming back!
+  - name: "Jenny"
+    rating: 1
+    comment: |
+      If I could give 0 stars I would. First of all, to see the amount of veggies you get for almost $4 was an absolute joke. I can buy a whole BAG for that. Also super soggy before I could even put in the soup. It was also $3.50 for extra large soup size but it was regular size as well which is a scam. How is this quality allowed when someone spends almost $30 on soup.
 ---

@@ -14,18 +14,10 @@ google_maps: "https://maps.google.com/?cid=11100680353315139573&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/oishii-beaumont-japanese-cuisine.jpg"
 reviews:
-  - name: "Hayley Brown"
-    rating: 5
-    comment: |
-      This is "our place." The Rainbow Dragon roll is AMAZING and it was HUGE! you have to try it. We feel so lucky to have such a gem of a business right here in Beaumont. I love the atmosphere and the music is never overpowering. It's cozy and a wonderful place to have great connection with friends and family. The sushi is excellent and of great value.
   - name: "Kristina Eberhardt"
     rating: 5
     comment: |
       Absolutely incredible!! The food is always AMAZING, the staff is just the sweetest and overall I can't say enough great things about this place. This is our favorite spot for sushi. Today my family took me out for my birthday and the staff was super kind to bring me a birthday treat and blasted "happy birthday" music haha. Recommend it to everyone!!
-  - name: "Kandus Ball"
-    rating: 5
-    comment: |
-      Amazing service from super friendly staff! Food was AMAZING! So fresh, and we were SHOCKED to learn they make all the sauces IN-House! Wow. Blown away. We even got a fresh mason jar salad dressing to go because it was so good! Will be back! Wonderful spot for some awesome sushi!
   - name: "Ching Lam"
     rating: 1
     comment: |
@@ -34,6 +26,18 @@ reviews:
     rating: 5
     comment: |
       Me and my boyfriend love this place so much! I have come here for my birthday, anniversaries, or just for date night. We have been coming here since it opened and this place is by far the best sushi place I’ve ever been to. The customer service is always amazing! The staff are very welcoming and Jackie has been our girl since forever! She is so lovely and always greets us so warmly, asking how we are doing and building a connection with us. We have been here countless times and will continue to come for many more years to come. The food never disappoints and they have such unique creations. We love the monkey brain appetizer and we love the dragon rolls! Their ramen always comes out hot and the meat is tender. The price is great for the quality and portions you get. This is a great spot for any occasion. Highly recommend!!
+  - name: "Kandus Ball"
+    rating: 5
+    comment: |
+      Amazing service from super friendly staff! Food was AMAZING! So fresh, and we were SHOCKED to learn they make all the sauces IN-House! Wow. Blown away. We even got a fresh mason jar salad dressing to go because it was so good! Will be back! Wonderful spot for some awesome sushi!
+  - name: "Anastasiia Yefimova"
+    rating: 5
+    comment: |
+      I've been a loyal customer of Oishii for quite some time now, and every visit with my family is nothing short of delightful. The staff are always friendly and kind, creating a warm and welcoming environment that makes us feel right at home. Jackie is our favourite, one of the best servers we have ever encountered! The atmosphere is vibrant yet cozy, perfect for enjoying a relaxed meal together.
+      
+      The food at Oishii is consistently amazing. Each dish is crafted with care and the freshest ingredients and authentic flavours that keep us coming back for more.
+      
+      Highly recommend Oishii to anyone looking for a fantastic sushi experience with great service and a wonderful ambiance!
 hours:
   monday: "11:00 AM–9:00 PM"
   tuesday: "11:00 AM–9:00 PM"

@@ -28,6 +28,10 @@ tags: ["edmonton", "mini-golf"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Matthew Randall"
+    rating: 5
+    comment: |
+      Took my wife here for some silly fun. Great little 18 hole course. Very colorful. Lots of fun to be had! We went on a weekday so it was just a couple minutes wait neat the end of the course. We will visit again. The pictures we tookdis not come out very well. Next time we will take better pictures.
   - name: "Yodaman Solo"
     rating: 5
     comment: |
@@ -51,14 +55,4 @@ reviews:
       - finding the next course maybe a little bit confusing cuz you need to look around for the next number as the course is quite big
       
       If you love mini golf ⛳️ highly recommend you to try both as two courses have different experiences.
-  - name: "The Tasty Palate"
-    rating: 5
-    comment: |
-      I had a fantastic time playing mini golf at West Edmonton Mall! The indoor course was well-maintained and had a fun variety of holes to play. The theming was great too, adding to the overall fun experience.
-      
-      The staff were friendly and helpful, and there were plenty of hand sanitizer stations throughout the course, which was reassuring during these times.
-      
-      The only downside was that the course can get quite crowded, especially during peak times, so be prepared to wait a bit before playing some holes. However, the overall experience was so enjoyable that the wait was worth it.
-      
-      Overall, I would highly recommend the indoor mini golf at West Edmonton Mall to anyone looking for a fun activity to do with friends or family.
 ---

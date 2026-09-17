@@ -19,8 +19,8 @@ hours:
   saturday: "10:00 AM–9:00 PM"
   sunday: "10:00 AM–7:00 PM"
 photos: ["/photos/myes-ribs-1.jpg", "/photos/myes-ribs-2.jpg", "/photos/myes-ribs-3.jpg"]
-rating: 4.3
-review_count: 257
+rating: 4.4
+review_count: 260
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -30,6 +30,26 @@ tags: ["edmonton", "filipino"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Belinda Panganiban"
+    rating: 5
+    comment: |
+      First time we've eaten at Mye's Ribs but it won't be the last! The food was tasty, not overly salty, and the meat was so soft in the dishes we ordered! The ribs were so juicy and they just fell off the bone!
+      
+      We loved the crunchiness of the meat in the Kare Kare. The presentation was also different and leveled up compared to how other restaurants make it.
+      
+      The pork Adobo was good. The meat was so soft to chew. The BBQ pork on the sticks were the best we've tasted in a long time and they used large portions of meat. We didn't find any fat pieces as fillers. They are well worth tasting! Don't skip them.
+      
+      They don't have the traditional pancit which I think they should add as you can never go wrong with that staple Filipino dish. People will always look for it and buy it! It's a meal on it's own!
+      
+      The 2 piece BBQ chicken was also made well but like the desserts we had, I forgot to take pictures of this dish and the desserts.
+      
+      We tried the buko pandan and the cassava cake and both were delicious! The cake had the right amount of sweetness and it was served warm.
+      
+      Overall, we enjoyed the foods we ordered from the a la carte menu. We thought we'd try a bit of different dishes to get a taste of several dishes. We also tried the garlic rice and I ordered just the plain unlimited white rice. The portions are smaller than what we've seen at other Filipino restaurants but they are fine for two people.
+      
+      We will return to try the other main dishes! I like they've included drinks with them.
+      
+      The place is very clean and decorated very well!  The decor is modern and chique. The bathrooms are nice and large enough for a wheelchair.
   - name: "Winna Damasco"
     rating: 5
     comment: |
@@ -58,24 +78,4 @@ reviews:
     rating: 5
     comment: |
       I love Filipino food and this place hit the mark! The friend chicken had the perfect crisp, the pancit wasn’t too salty and the pork skewer was perfectly cooked and sauced with an amazing bbq sauce…I’d come back just for a bunch of pork skewers. Server was super friendly, the joint was newly built and looked great and the food was delicious! I will definitely be back on a Sunday to try their buffet for under $20!
-  - name: "Chris Zetazate"
-    rating: 5
-    comment: |
-      Brand new Filipino Restaurant on 156 St and 118 ave.  Just off Yellowhead. Amazing and tasty food.
-      
-      They serve lots of good Filipino dishes. We ordered the following and they were all tasty!
-      
-      Calamari
-      Baked Mussels with cheese
-      Chicken Sisig
-      Chicken Adobo
-      Chicken Inasal
-      Chicken Silog
-      Kalderetang Kambing Silog
-      Pork Sisig Silog
-      Silog dishes come with Unli Rice, Free drink and Soup.
-      
-      Dining capacity is for 50-55 people.
-      Lots of Parking
-      Buffet on Sundays
 ---

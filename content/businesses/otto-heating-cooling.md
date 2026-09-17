@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/otto-heating-cooling-1.jpg", "/photos/otto-heating-cooling-2.jpg", "/photos/otto-heating-cooling-3.jpg"]
 rating: 4.9
-review_count: 678
+review_count: 689
 price_range: "$$"
 amenities:
 
@@ -40,6 +40,14 @@ reviews:
     rating: 5
     comment: |
       Great experience with Otto Heating and Cooling. Kyle arrived even earlier than expected which is awesome, inspected the air conditioner issue and precisely pointed on the problematic item that needs to be replaced. He explained the cause and advised on possible resolution ways including prices. I picked the most convenient resolution way and Kyle kindly processed there repairing task. The air conditioning is working again, yoohoo! It was the first time I'm dealing with a company, and I already have a good experience. Will contact them again for the maintenance task this fall. Very much recommended service provider.
+  - name: "Patricia Diaz Zomeno"
+    rating: 5
+    comment: |
+      We had a 5-star experience working with Brent Lockert. Otto is a phenomenal HVAC contractor here in Edmonton. He was quick, efficient, and sorted out the issue completely on a complex, multi-zone HVAC system. What really stood out was his honesty—the work became a lot more complicated than initially expected, but he honored his original quote without any hassle. Highly recommended, and of course, they have gained all my future HVAC & Air Conditioning work!
+  - name: "Josephine Mazzuca"
+    rating: 5
+    comment: |
+      Will was amazing!! He explained step by step what would happen during the furnace replacement, and was very informative all along the way. He asked me if I had any questions, and he answered them all for me. I would highly recommend Will and the team - Sandro, my first contact when I inquired regarding the install, and Tommy, who came out to do the quote. I would highly recommend Otto Heating and Cooling - they really do treat you like family!!
   - name: "J Y"
     rating: 5
     comment: |
@@ -52,14 +60,4 @@ reviews:
       Overall extremely happy and impressed. Had them switch to hydro furnace, heat pump, and tankless.
       
       If you're looking for Edmonton's best service team, these are the guys. Will be using again
-  - name: "Marco Sardea"
-    rating: 5
-    comment: |
-      Very amazing company, explained all the process during the quote and how the system works, what do we expect, and getting us the best option for our AC installation. Their technicians were really nice too and walk us through on their finished work. They also explained to us what we should do for the unit  for a little maintenance and for our safety as well. Overall, we are very satisfied with the work.
-  - name: "GT MX"
-    rating: 5
-    comment: |
-      I rarely leave reviews, but the service I received today was so outstanding it warrants recognition. From the start, Brent arrived on time and was incredibly meticulous. He didn't just bree through the appointment,; he carefully examined each and every part of the furnace. What truly set him apart was his communication. Brent was patient, articulate, and highly knowledgeable, taking the time to explain exactly what he was doing at every step.
-      Honestly, I was completely blown away by his expertise- especially how he seamlessly related actual science concepts to his hands-on work. It's rare to see that level of passion, depth of knowledge, and complete reliability in home service today.
-      If you want a technician who treats your home with respect and knows their craft inside and out, this is the person you want. Five stars isn't enough!
 ---

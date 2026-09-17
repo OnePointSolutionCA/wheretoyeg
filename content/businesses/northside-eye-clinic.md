@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Castle Downs"
 address: "10807 Castle Downs Rd NW #118, Edmonton, AB T5X 3N7"
 rating: 5
-review_count: 234
+review_count: 239
 tier: "featured"
 phone: "(780) 473-6300"
 website: "https://northsideeyeclinic.ca/"
@@ -13,11 +13,6 @@ google_maps: "https://maps.google.com/?cid=5298306122353673399&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/northside-eye-clinic.jpg"
 reviews:
-  - name: "KHALEDS TeAm"
-    rating: 5
-    comment: |
-      I had an excellent experience at this eye clinic. The staff were welcoming, professional, and attentive from the moment I arrived The doctor took the time to thoroughly explain everything and answered all of my questions with patience and care The clinic was clean, well-organized, and the entire appointment was efficient and comfortable. I truly appreciated the high level of service and attention to detail. I would highly recommend this clinic to anyone looking for outstanding eye care
-      Thank you to the entire team for your professionalism and dedication.
   - name: "K Ahmed"
     rating: 5
     comment: |
@@ -44,6 +39,14 @@ reviews:
     rating: 5
     comment: |
       I had a wonderful experience at Northside eye clinic. Taken care of at every step of my appointment. Chhaya was able to walk me through the pre test and explain what each test was looking at, and Saja and Ahmed helped me with figuring out my insurance and frames coverage. They also have a wide selection of frames to choose from. Dr. Adem was very welcoming and professional! Would definitely recommend this clinic!
+  - name: "N D"
+    rating: 5
+    comment: |
+      I called for a same day appointment and was pleasantly surprised they were able to see me right away. The doctor was very knowledgeable, patient, and took the time to explain everything in detail. It really showed how much he cares about his patients.
+      
+      I’ve never needed glasses before, but recently started experiencing vision loss in one eye, which has been concerning. The team made me feel comfortable and at ease throughout the visit.
+      
+      The front desk staff were also very professional and helpful. Overall, it was a great experience, and I will definitely be returning. Thank you for the excellent service.
 hours:
   monday: "10:00 AM–6:00 PM"
   tuesday: "11:00 AM–7:00 PM"

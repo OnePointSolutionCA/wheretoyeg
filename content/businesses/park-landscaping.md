@@ -28,6 +28,22 @@ tags: ["edmonton", "landscaping"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Valerie"
+    rating: 5
+    comment: |
+      From Elias to Chris and his team, Heriberto and José, the entire experience was beyond my expectations. From the before to the after, the transformation is incredible. They took what was honestly a disaster and turned it into a beautiful, natural-looking masterpiece that completely transformed our space.
+      
+      They were professional, attentive, and excellent communicators throughout the entire pond landscaping redo. They listened to what we wanted, kept us informed, and took the time to explain everything as the work progressed.
+      
+      Chris truly has a gift and a craft for ponds. His vision, creativity, attention to detail, and ability to make everything look as though it naturally belongs there are remarkable. You can tell this is more than just a job for him—it’s a craft he takes tremendous pride in, and the finished result speaks for itself.
+      
+      The entire team was incredibly respectful of our property and maintained a safe, organized, and exceptionally clean worksite from start to finish. Their professionalism, workmanship, and pride in what they do really stood out.
+      
+      I will absolutely be utilizing their services again. They didn’t just meet our expectations—they went above and beyond them.
+      
+      From disaster to a beautiful, natural-looking masterpiece, the difference between the before and after is unbelievable. We couldn’t be happier with the result.
+      
+      Highly recommended!
   - name: "Holly L"
     rating: 5
     comment: |
@@ -51,16 +67,6 @@ reviews:
       thrive in our area. Given the dimensions of our lot and the style of our home, their final design
       complimented the overall look of our property. The install team was attentive and professional
       down to the last detail. Our yard is everything we imagined and more!
-  - name: "Lana Rantucci"
-    rating: 5
-    comment: |
-      ⭐⭐⭐⭐⭐
-      
-      Park Landscaping recently did some work for my neighbor and I was honestly so impressed with the entire crew. They were incredibly courteous, respectful, and professional the whole time they were working beside my property. They kept the area clean, were mindful of noise and mess, and were genuinely friendly every time I saw them outside.
-      
-      The finished yard looks amazing too — they completely transformed the space with beautiful landscaping and stonework that honestly made the whole area look better. You can really tell they take pride in what they do.
-      
-      Watching the transformation has me standing in my own yard now wondering what excuse I can come up with to hire them myself 😂 Highly recommend!
   - name: "Amber"
     rating: 5
     comment: |

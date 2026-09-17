@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Spruce Grove"
 address: "280 Pioneer Rd #216, Spruce Grove, AB T7X 2W3"
 rating: 4.8
-review_count: 221
+review_count: 222
 tier: "featured"
 phone: "(780) 571-1065"
 website: "http://www.ocwings.ca/"

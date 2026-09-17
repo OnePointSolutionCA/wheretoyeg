@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–12:00 AM"
 photos: ["/photos/rawaayt-sweets-and-restaurant-plus-banquet-1.jpg", "/photos/rawaayt-sweets-and-restaurant-plus-banquet-2.jpg", "/photos/rawaayt-sweets-and-restaurant-plus-banquet-3.jpg"]
 rating: 4.5
-review_count: 76
+review_count: 79
 price_range: "$"
 amenities:
   - "Halal"
@@ -37,6 +37,10 @@ reviews:
     comment: |
       Must try this place 😍😍 it’s awesome you will find all Indian products at a very reasonable prices and the staff too is very friendly and welcoming. They assisted us willingly and cheerfully….
       The freshly squeezed juices were delicious and refreshing to beat the heat this summer 😋😋😋😋😋
+  - name: "Jaswinder kaur"
+    rating: 5
+    comment: |
+      🌶️ Shoutout to this place .I absolutely LOVE the spice level🔥 The perfect amount of heat and so flavorful. Definitely hit the spot! 😍
   - name: "Manav Chandy"
     rating: 5
     comment: |
@@ -56,8 +60,4 @@ reviews:
     rating: 5
     comment: |
       The food is always so good! Pictured here is the paneer lababdar, saffron rice, tandoori roti, naan & veg hot & sour soup.
-  - name: "Harman Sarai"
-    rating: 5
-    comment: |
-      Had an incredible meal here! The atmosphere was wonderful and very clean. The service was fast and professional. I highly recommend ordering the Halwa puri —it was outstanding!"
 ---

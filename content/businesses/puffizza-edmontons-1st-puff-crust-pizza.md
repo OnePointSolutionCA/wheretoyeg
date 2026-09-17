@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "1035 Parsons Rd SW, Edmonton, AB T6X 0X2"
 rating: 4.8
-review_count: 440
+review_count: 441
 tier: "featured"
 phone: "(587) 287-1509"
 website: "https://puffizza.ca/"
@@ -58,5 +58,5 @@ hours:
   thursday: "3:00 PM–10:00 PM"
   friday: "12:00 PM–11:00 PM"
   saturday: "12:00 PM–11:00 PM"
-  sunday: "12:00 PM–9:00 PM"
+  sunday: "12:00 PM–10:00 PM"
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–10:00 PM"
 photos: ["/photos/pip-1.jpg", "/photos/pip-2.jpg", "/photos/pip-3.jpg"]
 rating: 4.6
-review_count: 1758
+review_count: 1760
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -43,15 +43,10 @@ reviews:
     rating: 5
     comment: |
       Had brunch for the first time at Pip today.  We had to wait for a table on a weekday so I knew it was going to be good!!! I ordered the gluten free eggs Benedict and it came on bread instead of English muffin which is fine but not the same experience.  The whole family enjoyed the meal and we will definitely be back!
-  - name: "T Eu"
+  - name: "Andreea Gabriela"
     rating: 5
     comment: |
-      Went here for brunch for a sister date and it was amazing! We had no res and waited about 15mins which wasn't bad. Everything we ordered was fantastic and looked like everyone around us enjoyed their meals and time there as well.  Our server was amazing and everyone was friendly. Can't wait to go back!|
-  - name: "Patti"
-    rating: 5
-    comment: |
-      Recommend reservations it’s super busy, once we got seated service was fast & excellent. I had the Savory Dutch baby was amazing, perfectly crispy & airy. The Vanilla Latte was nice & hot, creamy & strong & not too sweet. Our server Dani was exceptional 10 stars !!!
-      Will definitely return next time I’m in Edmonton!
+      The food was incredible. We had the Short rib eggs benedict and my husband (a true Eggs benedict fan) said these were the best he ever had. I feel the same way, the eggs were perfect, the hollandaise was tasty and the meat was melting in my mouth. We treated ourselves with a Sweet Dutch Baby afterwards and it was the best one ever, not dry, not overly sweet and the mascarpone & fruits were delicious. The service is a tiny bit slow, but nothing major, I would definitely recommend!
   - name: "G Fisher"
     rating: 4
     comment: |
@@ -62,4 +57,15 @@ reviews:
       Our food came and still no Chai.  She cancelled the order and opted for water.
       Our breakfast sandwich and farmers breakfast was however delicious.
       Big bright flavors and enjoyed the bacon! Yum!
+  - name: "Jaya Chauhan"
+    rating: 5
+    comment: |
+      Perfect early-evening dinner at Pip. Arrived ahead of our reservation and had a lovely stroll through the neighbourhood — my ole stomping grounds as I worked at OSYS across from the market 2007-2013 and how the place has changed and the whole place already feels warm and welcoming.
+      
+      Madeline was a standout server at Pip. Harry ordered his usual martini, and when it hit the table looking crisp and elegant and purple in colour, I immediately ordered one too with olives that was as gorgeous as it was delicious. I had sparkling wine and Thursdays after 4 pm to 9 its special prices..
+      
+      We both went for seafood and every dish was fresh, flavourful, and beautifully done. Kid‑friendly, relaxed, and a real community vibe — plus a great patio for summer nights. The neighbouring table let me take pic of their order and the bitter drink!!
+      
+      Left so satisfied I came home and fell asleep for an hour.
+      Pip is a gem and the history of the building and entrepreneurship to revitalise by these amazing fam of Pip is a huge blessing for #YEG and I highly recommend!!.
 ---

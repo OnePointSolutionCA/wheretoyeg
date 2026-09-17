@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Castle Downs"
 address: "24427 Township Rd 542, Sturgeon County, AB T8T 1L4"
 rating: 4.6
-review_count: 330
+review_count: 333
 tier: "featured"
 phone: "(780) 973-6696"
 website: "http://www.outofboundsrestaurant.ca/"

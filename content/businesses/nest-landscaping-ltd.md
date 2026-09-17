@@ -34,14 +34,14 @@ reviews:
       Nest Landscaping recently completed my landscaping this past month. Shaun was amazing to work with! He was quick to respond (even after hours and on the weekend), provided great suggestions, and also had very reasonably pricing. On top of that, he is also friendly and approachable.
       The fencing and deck crew completed their work efficiently. Jalal (the foreman) and the hardscaping team did a phenomenal job in the front and back yard. They worked with efficiency and precision, despite the hot weather!
       I would definitely recommend Shaun and Nest Landscaping to anyone who is looking to get landscaping completed!
-  - name: "Msafiri Mhehe"
-    rating: 5
-    comment: |
-      Shaun and the crew did an Excellent landscaping and deck project for us in Leduc AB. Nest Landscaping is the Perfect choice. No mistake. Very friendly, professional and affordable!
   - name: "Sandi David"
     rating: 5
     comment: |
       Shaun was great to work with. Always good communication and prompt replies to inquiries. Job was completed very well. Crew were friendly and worked hard. Love having a no maintenance yard!
+  - name: "Msafiri Mhehe"
+    rating: 5
+    comment: |
+      Shaun and the crew did an Excellent landscaping and deck project for us in Leduc AB. Nest Landscaping is the Perfect choice. No mistake. Very friendly, professional and affordable!
   - name: "Heather Middleton"
     rating: 5
     comment: |

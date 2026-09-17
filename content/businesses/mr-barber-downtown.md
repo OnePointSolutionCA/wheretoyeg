@@ -21,7 +21,7 @@ hours:
   sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/mr-barber-downtown.png"]
 rating: 4.9
-review_count: 874
+review_count: 880
 price_range: "$$"
 amenities:
   - "Walk-Ins Welcome"
@@ -34,6 +34,11 @@ reviews:
     rating: 5
     comment: |
       I had a great experience with Yazard. He was incredibly attentive throughout the entire appointment and took the time to make sure every detail was just right. His perfectionism really shows in the quality of his work, and he genuinely cares about delivering the best possible result. I never felt rushed, and he made sure I was completely satisfied before I left. Highly recommend Lazard to anyone looking for a skilled, professional, and detail-oriented hairstylist!
+  - name: "Ebin Robert"
+    rating: 5
+    comment: |
+      Had an excellent experience with Yazan today. He was welcoming, professional, and took the time to really listen to what I wanted. Unlike many places where your instructions are only partly followed, Yazan paid attention to every detail and made sure the beard trim matched exactly what I had in mind. He also shared a few suggestions based on his experience, which worked out great.
+      I’m very happy with the service and glad I found this place. Highly recommended!
   - name: "Malcolm cotgrave"
     rating: 5
     comment: |
@@ -48,8 +53,4 @@ reviews:
       I had a great experience with Arsh at MrBarber Downtown. He is very professional, skilled, and pays close attention to details. He listened to exactly what I wanted and delivered an excellent haircut. The service was friendly, the atmosphere was great, and I really appreciated the care and effort he put into making sure everything looked perfect.
       
       I highly recommend Arsh if you’re looking for a talented barber in Edmonton. I’ll definitely be coming back!
-  - name: "Manollo Guedes"
-    rating: 5
-    comment: |
-      Brian did an amazing job! My haircut turned out great, and he also cleaned up my beard perfectly. He’s a really friendly, attentive, and professional guy. I highly recommend him!
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–7:00 PM"
 photos: ["/photos/nagaiki-ramen-1.jpg", "/photos/nagaiki-ramen-2.jpg", "/photos/nagaiki-ramen-3.jpg"]
 rating: 3.7
-review_count: 193
+review_count: 194
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -42,14 +42,6 @@ reviews:
       Food: The abura soba is genuinely good and my favorite thing here. The ramen is decent — a bit too salty for my taste, nothing to write home about — but still way better than anything you'll find at the food court. Same goes for the donburis: nothing that'll blow you away, but the value for the price is really good.
       Service: The staff are nice and courteous, which goes a long way.
       Overall, this is a must-go spot if you're at WEM and want food court convenience without the food court experience.
-  - name: "Doodleworx Reviews!"
-    rating: 4
-    comment: |
-      We were in the West Edmonton mall and we thought that we would check out Nagaiki Ramen and it was very good. You order at a kiosk, take your seat and pick up your food at the counter when you see your name on the screen (you get a text as well). Chopsticks are in a drawer on the table with chili oil, sesame oil and a powder that I wasn’t sure what it was, but it was good on my soup.
-      
-      I had the ramen with chasu pork and an extra egg and my wife had the curry chicken and we really enjoyed it. We also tried the tea, which was really nice too. The food was fast and it was hot and tasty.
-      
-      The staff were also very friendly and helpful. I liked the decor and the hand painted cranes on the wall. On a busy Saturday afternoon it was busy, but fast and efficient and we were quite happy with our lunch. An affordable, and tasty ramen spot!
   - name: "melody barrientos"
     rating: 5
     comment: |
@@ -58,4 +50,14 @@ reviews:
     rating: 4
     comment: |
       The food was not warm enough but the serving size is big. Their supervisor is nice, I think her name was Toni? She told us to let them know next time if there's a problem with the food and they'll fix it for us.
+  - name: "Karen Redondo"
+    rating: 1
+    comment: |
+      I was disappointed how this restaurant managing this place, NO service at all, yet they have the nerves to ask for a tip, self order, we put 10% tip just to found out its all self serve. I regret giving the tip, you get your own water from water station, get your own order from the counter,  they gave the pop, not cold, without even offering glads with ice. I will never recommend this place even it is a esthetic and look beautiful inside. If you treat your customer like that, eventually no one will come again. Been in many Japanese restaurants around the city but I will not go back here again. Try Kinjo, Tatsu Sushi, Kinton Ramen, Dorinku and many other ramen/Japanese restaurants instead lots of good ones, not like this.
+      
+      I usually read google reviews before going to the place, but since I'm already hungry, I tried this, since its closest to me at that time.
+      
+      Don't dine here, and if you do, expect a full self service and don't give tips.
+      
+      To the management, just to let you know, Japanese restaurants aren't like this in Japan, I know this is not Japan  but you are representing one and it should match your service.
 ---

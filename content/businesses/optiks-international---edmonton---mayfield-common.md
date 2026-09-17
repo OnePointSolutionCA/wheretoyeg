@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/optiks-international---edmonton---mayfield-common-1.jpg", "/photos/optiks-international---edmonton---mayfield-common-2.jpg", "/photos/optiks-international---edmonton---mayfield-common-3.jpg"]
 rating: 4.6
-review_count: 194
+review_count: 195
 price_range: "$$"
 amenities:
 
@@ -40,6 +40,32 @@ reviews:
     rating: 5
     comment: |
       Came from out of town stop in for 2 pairs of glasses adjustments, didn’t even charge me!! I will be coming back for my exams. Great location, very friendly and safe.
+  - name: "Boris Luc"
+    rating: 1
+    comment: |
+      Absolutely unacceptable and deeply disappointing experience.
+      
+      My brother has a serious eye infection in both of his eyes and needed to be seen by an eye doctor. My mom initially went to another eye clinic, and although they couldn’t see him immediately, they scheduled him for the following morning. They also suggested she try the optometrist across the street to see if they could help him sooner.
+      
+      My mom took my brother into this location and asked if the doctor could see him.
+      
+      She was told:
+      
+      “Sorry, we can’t take him. We don’t take wheelchair patients.”
+      
+      That was the reason given for refusing to see him.
+      
+      I am absolutely appalled by this response. My brother was there because he had a legitimate medical concern and needed to see an eye doctor. Instead of making any attempt to accommodate him or find a way to provide care, he was simply turned away because he uses a wheelchair.
+      
+      A wheelchair should never be a reason to deny someone access to healthcare.
+      
+      I understand that there may be accessibility limitations within a particular office, but there is a huge difference between saying “We unfortunately aren’t equipped to accommodate your needs, but let us help you find somewhere that can” and simply saying “we don’t take wheelchair patients.”
+      
+      My family left feeling extremely upset and discriminated against.
+      
+      If this is genuinely the policy of this location, it needs to be addressed. People with disabilities deserve the same level of dignity, respect, and access to healthcare as everyone else.
+      
+      Extremely disappointing experience. I would not recommend this location based on how my family was treated.
   - name: "Madeleine E"
     rating: 5
     comment: |
@@ -54,8 +80,4 @@ reviews:
     rating: 5
     comment: |
       Had the best interaction lately at Optiks International. I was actively looking for a new eye doctor and eye glasses, so I stopped in to get a feel for the place. Charlene was quick to greet me with such professionalism and helpfulness!  Her demeanour and kindness secured the deal! Because of Charlene, Optiks International has secured a new happy customer!
-  - name: "cheryle wilson"
-    rating: 5
-    comment: |
-      This was my first time visiting optics international had a wonderful experience with Sunni, She was lovely and helped us a few times correct some mistakes that were made on our glasses. Lucky to have her she was fantastic.
 ---

@@ -13,6 +13,10 @@ google_maps: "https://maps.google.com/?cid=12384259718040263140&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/naks-bistro-and-catering.jpg"
 reviews:
+  - name: "Emily klassen"
+    rating: 5
+    comment: |
+      I am so happy that I chose Naks for my wedding day! From start to finish the team exceeded all of my expectations. We were able to have a wonderful tasting with my husband’s family at the beginning of the process to pick our buffet menu and we were all blown away. Nathan was delightful to communicate with as we went back and forth on what I wanted for my special day. From requesting one of our salads to be deconstructed to cater to dietary restrictions, and wanting to serve a signature cocktail, the team at Naks was able to deliver! We received countless compliments from our guests on how amazing the food was, with many going up for seconds. We also opted to use their bartending services and Romeo was fantastic! He kept the drinks flowing and our guests happy all through the day and went above and beyond to assist with some cleanup at the end of the night! A huge thank you to the team at Naks for helping make our day so seamless!
   - name: "Rafael Silla"
     rating: 5
     comment: |
@@ -27,10 +31,6 @@ reviews:
       Thank you to the entire Naks Catering team for helping make our wedding day so special. We highly recommend them to anyone looking for incredible food, excellent service, and a team that truly cares about making your event a success.
       
       — Rafael & Monica
-  - name: "Clayton Burgett"
-    rating: 5
-    comment: |
-      Had the Team Canada Poutine, today's special! Was very good overall. If I could give six stars for the gravy alone I would. Some small issues, one fry was undercooked and its almost too much pork! But a delightful dish.
   - name: "Mimi Yarmuch"
     rating: 5
     comment: |

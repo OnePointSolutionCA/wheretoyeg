@@ -26,20 +26,18 @@ reviews:
       The dental surgeon was fast, efficient, and professional, while still making the experience feel comfortable, he even sharing a few funny dad jokes that genuinely helped lighten the mood. At the end, he even shook my hand, which was such a small but thoughtful gesture.
       I also want to recognize the wonderful surgical dental assistant who brought me to my chair, took my X-rays, and assisted during the procedure.Her kindness, patience, and reassurance meant so much to me. She truly helped make what could have been a very stressful experience feel manageable.
       A 5/5 experience for what is usually a very uncomfortable procedure. I would highly recommend this clinic to anyone, especially those who feel nervous or uneasy about visiting the dentist. Thank you for making me feel cared for every step of the way.
-  - name: "christine raymundo"
+  - name: "Angel S"
     rating: 5
     comment: |
-      This dental office deserves five stars! From scheduling to checkout, everything was smooth and stress-free. The staff is knowledgeable, courteous, and attentive. The dentist was extremely professional and made sure I was comfortable the entire time. I’m very happy with my care and will definitely be returning. I came in for a routine cleaning and had a fantastic experience. The hygienist was very gentle and thorough would recommend coming to her!🥰
+      The manager Hazel is a friendly and polite person, every time I come to get my teeth cleaned. Along with the atmosphere and other staff’s services are beyond. Highly recommended
   - name: "julienne ramel"
     rating: 5
     comment: |
       Prices are explained to you properly. Hygienist is really good in taking care of patients plus has gentle hands!!! , receptionist is always the best!
-  - name: "Cheryl Lee"
+  - name: "christine raymundo"
     rating: 5
     comment: |
-      I can't say enough good things about this dental clinic! From the moment I walked in, I was welcomed with warm smiles and a friendly atmosphere. The staff is absolutely amazing, especially Hazel—professional, kind, and genuinely caring. They made sure I was comfortable throughout my visit and took the time to explain everything clearly.
-      
-      The clinic itself is clean, modern, and very well organized. I never felt rushed, and the quality of care I received was top-notch. It’s clear that everyone here is passionate about what they do. If you're looking for a dental office where you'll feel truly cared for, this is the place. Highly recommend!
+      This dental office deserves five stars! From scheduling to checkout, everything was smooth and stress-free. The staff is knowledgeable, courteous, and attentive. The dentist was extremely professional and made sure I was comfortable the entire time. I’m very happy with my care and will definitely be returning. I came in for a routine cleaning and had a fantastic experience. The hygienist was very gentle and thorough would recommend coming to her!🥰
 hours:
   monday: "10:00 AM–5:00 PM"
   tuesday: "9:00 AM–4:00 PM"

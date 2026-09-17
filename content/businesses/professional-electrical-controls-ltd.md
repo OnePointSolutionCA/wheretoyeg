@@ -32,10 +32,6 @@ reviews:
     rating: 5
     comment: |
       The power to our house went out when Fortis was changing a meter - Professional Electrical answered the phone live, checked to see if they had the parts and were at our house fixing the issue within 2 hours.  Sandy had great communication about the issue and the fix and worked directly with Fortis which was great.  Highly recommended from my experience!
-  - name: "Richard Hough"
-    rating: 5
-    comment: |
-      The team worked hard and did an amazing job getting task done. All wired up in the garage and the arcade corner is open for business!!!!
   - name: "Mj"
     rating: 5
     comment: |
@@ -48,4 +44,8 @@ reviews:
     rating: 5
     comment: |
       Excellent electrical service! Kulin technician was professional, knowledgeable, and completed the work efficiently. Everything was explained clearly, and the job was done safely and on time. Highly recommend their services.
+  - name: "Brenda and Darren Rudy"
+    rating: 5
+    comment: |
+      Very professional and explained things very well. We were charged almost double of what the original quote was I so wonder if our installation was understood when booked, but we are happy with the outcome and service we received.
 ---

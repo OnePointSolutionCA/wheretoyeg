@@ -42,10 +42,6 @@ reviews:
     rating: 5
     comment: |
       Omg i love this old school joint. Walk in the front door, dts and to the counter to get your sweet shoes! 5 pin, beer ( solid selection) and fun! My daughter had the pilsner with a grilled cheese and it was fresh. Great tunes, throw those puppies down the lane and enjoy. Great space and we will be back🏅🤗🧡
-  - name: "Local 730 Socials"
-    rating: 4
-    comment: |
-      This is a cozy vintage 12 lane 5 pin bowler. It had a nice crowd and friendly staff. I booked for my organization and it was a snap including setting up the tab and getting a group discount. Smart business people. Handled the families beautifully and everyone had a great time. Didn't try the food but something smelt good. Also a Karaoke Bar nearby. We'll go back for sure.
   - name: "Woody Walsh-Welk"
     rating: 5
     comment: |
@@ -53,4 +49,8 @@ reviews:
       The Canadian 5-pin bowling on original 50's hardwood lanes is fantastic. They offer a nice variety of beer, with eight taps pouring local craft beers, plus pop and cider options.  Plaza also has a great selection of handheld snacks.
       Their rental shoes are in good condition, and the friendly and efficient service makes for a pleasant experience. The music is great, not too loud, creating a safe, welcoming, and fun atmosphere.  It’s a great group activity spot in Edmonton.
       I would highly recommend Plaza Bowling as a great spot for a family or friends gathering.
+  - name: "Roberta “Shynativegirl” Kaskamin Ratfat"
+    rating: 4
+    comment: |
+      I haven't joined your bowling alley yet.But I am sure to try it sometime.I've just moved here about over a year.Ago and new to the neighborhood as well as new to living near a college I have lived in edmonton.All my life and have seen it grow from farmlands to city
 ---

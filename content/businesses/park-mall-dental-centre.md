@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "2020 Sherwood Dr, Sherwood Park, AB T8A 3H9"
 rating: 4.9
-review_count: 431
+review_count: 432
 tier: "featured"
 phone: "(780) 570-8272"
 website: "https://parkmalldentist.ca/?utm_source=kastle&utm_medium=seo&utm_campaign=Website_URL"
@@ -19,14 +19,10 @@ reviews:
     comment: |
       I had a really positive experience with this dental clinic. The team was professional, friendly, and made sure everything was handled efficiently from start to finish. They clearly met all the expected standards and took the time to ensure my needs were addressed during the appointment.
       I appreciated how organized and thorough they were, which made the whole visit feel smooth and stress-free. Overall, I’m very satisfied with the care I received and would feel comfortable returning in the future or recommending them to others.
-  - name: "Harjas Saroye"
+  - name: "Theopista Asifiwe"
     rating: 5
     comment: |
-      I had a great experience at Park Mall Dental Centre. The staff were friendly, welcoming, and made me feel comfortable from the moment I walked in. The dentist took the time to explain everything clearly, answered all of my questions, and made sure I was comfortable throughout the appointment.
-      
-      The clinic was clean, organized, and professional, and the whole visit was smooth from start to finish. It’s clear that they genuinely care about their patients and providing high quality dental care.
-      
-      I would definitely recommend Park Mall Dental Centre to anyone looking for a trustworthy and professional dental clinic.
+      This location has amazing stuff. I love how they communicate with you about everything, from your upcoming appointments to any changes that has to be made. Very clean and very quick too. Honestly love it here ❤️
   - name: "Faysal"
     rating: 5
     comment: |
@@ -37,14 +33,14 @@ reviews:
     rating: 5
     comment: |
       I went in for a routine dental cleaning and was impressed from start to finish. The clinic was spotless, the front desk staff were organized, and the hygienist did an excellent job — very thorough but also gentle. The dentist took the time to answer my questions and gave helpful tips for maintaining my oral health. Definitely one of the best dental visits I’ve had. Each and every staff is very friendly and efficient.  I would highly recommend this clinic, please them for any dental needs.
-  - name: "Timothy Warrington"
-    rating: 2
+  - name: "Harjas Saroye"
+    rating: 5
     comment: |
-      My biggest issue is that they are buying their reviews.
+      I had a great experience at Park Mall Dental Centre. The staff were friendly, welcoming, and made me feel comfortable from the moment I walked in. The dentist took the time to explain everything clearly, answered all of my questions, and made sure I was comfortable throughout the appointment.
       
-      I am looking for a trustworthy dental office who will perform the basic essentials and not price gouge, I decided to try these guys out based off of their many good reviews. I was pretty shocked at the end of my appointment when I was offered a $20 bill credit in exchange for a good review. That is highly unethical in my opinion. I was also booked for a follow up appointment which I received text confirmation of after I expressly said I do not want to book a follow up appointment.
+      The clinic was clean, organized, and professional, and the whole visit was smooth from start to finish. It’s clear that they genuinely care about their patients and providing high quality dental care.
       
-      My bill was also much higher than I expected, and I can’t fathom how it came to be so inflated based off of what I received, I suppose I can take some blame for not asking more questions, but nearly $200 for a cup of mouthwash and over $200 to spend seconds smoothing a chipped tooth both seem inflated.
+      I would definitely recommend Park Mall Dental Centre to anyone looking for a trustworthy and professional dental clinic.
 hours:
   monday: "10:00 AM–8:00 PM"
   tuesday: "10:00 AM–8:00 PM"

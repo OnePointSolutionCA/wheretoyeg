@@ -34,14 +34,14 @@ reviews:
       Natan is a good barber. But his other barbers don’t understand english at all.
       
       What I thought they understood after explaining for minutes, that was not done.
+  - name: "Zagga"
+    rating: 1
+    comment: |
+      Been going here for a while now. This time my hairline was pushed back intentionally. I’m never going back. Half way through the haircut I stopped to check how it’s going, a few minutes later, I felt the moment my hairline was intensely and intentionally pushed back. I’ve always supported, and have always been happy. I don’t know what sparked this low quality service. My girl immediately noticed how messed up my hairline was too. I do not recommend doing business with someone whose quality of services depend on their mood or your feedback.
   - name: "Nima Abdi"
     rating: 5
     comment: |
       Great customer service. He took his time and really made sure to give me the exact fade, haircut, and level I wanted. He didn’t rush and kept checking in to make sure I was happy before cutting more. Definitely coming back. Highly recommend🖤🖤🖤
-  - name: "jamie hoflin"
-    rating: 5
-    comment: |
-      My grandsons loved their haircuts! Relaxing experience. Barber very experienced and good pricing.I’m giving 5 stars but google only showing 4 stars.
   - name: "American State"
     rating: 5
     comment: |

@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/ocha-boba-1.jpg", "/photos/ocha-boba-2.jpg", "/photos/ocha-boba-3.jpg"]
 rating: 4.4
-review_count: 583
+review_count: 582
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -42,12 +42,12 @@ reviews:
     rating: 5
     comment: |
       My Favorite Place To Get Boba. The Vibe Is Really Good And Overall Pretty Chill. As For The Drinks? Amazing, Ten Stars, Chefs kiss. I Love It. The Seasonals Are Always One Of My Favorite. The cheesecake Is Better Then Expected From A Boba Place. I Would Definitely Recommend This Place To Any Boba Lovers 🩷
+  - name: "Meowx Listens"
+    rating: 2
+    comment: |
+      Drinks are fine, depend on your sweetness to choose from but their recommendation for sweetness level could be quite bland if you want to actually taste the flavor. Just one advise for the staff, next time be a little bit slower so you can actually listen to customers. Boba is for enjoying, and unless you're fullhouse or something, you don't have to speak like you're racing, quite pressuring for customer. Overall
   - name: "Sandra Loo"
     rating: 5
     comment: |
       Great first experience. Staff was knowledgeable, patient & was quick with our orders. There were lots of drink choices for us. The place was spacious with enough seating for those who wanted to stay. Will return to try other drinks on the menu.
-  - name: "A. Spencer"
-    rating: 4
-    comment: |
-      What incredible staff and flavour . There is so much to choose from and the staff is so willing to guide and explain till you find the perfect drink. There are a few places to sit down and decore is crisp and clean yet welcoming . Not to mention some amazing backdrops for selfies . As for the drinks a bit more runny than I'm. use to but bobba is fresh options are unlimited and soo many choice All fresh flavours
 ---

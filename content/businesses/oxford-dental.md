@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Castle Downs"
 address: "12603 153 Ave NW, Edmonton, AB T6V 0C5"
 rating: 4.3
-review_count: 301
+review_count: 302
 tier: "featured"
 phone: "(780) 456-7009"
 website: "https://www.oxforddental.ca/"
@@ -26,6 +26,10 @@ reviews:
     rating: 5
     comment: |
       I’m so happy I found this clinic! Dahlia is such a wonderful hygienist, she’s gentle yet very thorough and always makes sure you’re comfortable. Dr. Chaaban is excellent, very professional and honest with his recommendations. The whole experience was smooth and stress-free. Highly recommended!
+  - name: "Aman And"
+    rating: 5
+    comment: |
+      I had an amazing experience at this dental clinic! Dahlia, the dental hygienist, is absolutely incredible, so gentle, thorough, and caring. She made me feel completely comfortable throughout the cleaning. Dr. Chaaban is also outstanding, very professional, knowledgeable, and takes the time to explain everything clearly. Highly recommend this clinic to anyone looking for top-quality dental care!
   - name: "Izabella Semyrko"
     rating: 5
     comment: |
@@ -33,10 +37,6 @@ reviews:
       Oxford dental. My scary n nerve wracking journey as finally Stop I can not wait to see them again when my life will for ever change with work that will be done by Dr Yousif and the outstanding ladies!
       Thank
       You
-  - name: "Aman And"
-    rating: 5
-    comment: |
-      I had an amazing experience at this dental clinic! Dahlia, the dental hygienist, is absolutely incredible, so gentle, thorough, and caring. She made me feel completely comfortable throughout the cleaning. Dr. Chaaban is also outstanding, very professional, knowledgeable, and takes the time to explain everything clearly. Highly recommend this clinic to anyone looking for top-quality dental care!
 hours:
   monday: "9:00 AM–6:00 PM"
   tuesday: "9:00 AM–6:00 PM"

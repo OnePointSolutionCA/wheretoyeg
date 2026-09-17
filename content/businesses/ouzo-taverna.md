@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/ouzo-taverna-1.jpg", "/photos/ouzo-taverna-2.jpg", "/photos/ouzo-taverna-3.jpg"]
 rating: 4.9
-review_count: 544
+review_count: 550
 price_range: "$$"
 amenities:
   - "Dine-In"

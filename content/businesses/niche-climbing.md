@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/niche-climbing-1.jpg", "/photos/niche-climbing-2.jpg", "/photos/niche-climbing-3.jpg"]
 rating: 4.8
-review_count: 163
+review_count: 164
 price_range: "$$"
 amenities:
 
@@ -48,10 +48,12 @@ reviews:
       Highly recommend Niche and any rock jungle gym
       
       Photos and videos from February 11, 2024
-  - name: "Sam Torres"
-    rating: 5
+  - name: "Summer Rose"
+    rating: 3
     comment: |
-      Great atmosphere and really helpful staff. Always enjoy coming to this place. The setup is really nice to be able to go from area to the next. The bathrooms and sinks are also a great for everyone to access. A top notch gym to attend.
+      I found the setting to be pretty good, the warm up area is ok.
+      
+      My problem with this facility is it all feels weirdly disconnected. The open bathrooms is, very strange.. feels like you have 0 privacy because it’s so out in the open. I’m not sure why typical change rooms, with lockers inside wouldn’t suffice, where you could just change, store your stuff, and use the bathroom in the same room.
   - name: "Kine Patty"
     rating: 5
     comment: |

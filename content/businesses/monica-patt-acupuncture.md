@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/monica-patt-acupuncture-1.jpg", "/photos/monica-patt-acupuncture-2.jpg", "/photos/monica-patt-acupuncture-3.jpg"]
 rating: 4.9
-review_count: 378
+review_count: 379
 price_range: "$$"
 amenities:
 
@@ -68,8 +68,8 @@ reviews:
       I drive 40 minutes to see these two and it is absolutely worth it every single time.
       
       10/10 recommend them.
-  - name: "Kasia Shepelevich"
+  - name: "David Quenneville"
     rating: 5
     comment: |
-      I have gone to a handful of acupuncturist's and thought that acupuncture was a joke and people were delusional until I went to Monica. Have gone for a handful of issues but most recently went there for sciatica that only happened when I had my period for months after having my second. It was so debilitating that I would cry and wouldn't even be able to walk. I went there for one treatment and my next period I had no pain. I was shocked. Though it was in my head. Was going to go again before I had my period again but couldn't . However, I got my period while on vacation in Japan and was able to walk and felt no pain!! Nothing!! And I didn't take any medication. So yes acupuncture (from Monica) works.
+      The treatment I’ve received from Jenna my last two sessions have been absolutely fantastic. Anyone who is familiar or unfamiliar with the acupuncture and needle work needs to spend time here at the clinic. I walked with a sore back and after two sessions have felt extremely better and back to myself. Having your body move and feel the way it deserves makes such difference, thanks to the amazing care from Jenna! You’re missing out!
 ---

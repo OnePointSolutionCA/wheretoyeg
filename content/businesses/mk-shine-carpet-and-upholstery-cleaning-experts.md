@@ -5,7 +5,7 @@ category: "cleaning-services"
 neighborhood: "Edmonton"
 address: "5189 Terwillegar Blvd NW, Edmonton, AB T6R 0S3"
 rating: 5
-review_count: 43
+review_count: 44
 tier: "featured"
 phone: "(587) 372-4798"
 website: "https://mkshine.ca/"
@@ -33,10 +33,10 @@ reviews:
     comment: |
       I recently had my sofa cleaned and I’m very happy! It looks clean, fresh, and smells nice. The service was quick and careful.
       Highly recommend!
-  - name: "Melissa Anthony"
+  - name: "Nick"
     rating: 5
     comment: |
-      Had a great experience with MK Shine. Very reasonable prices and they did a fantastic job cleaning my couches. I would absolutely recommend them, and will be using them in the future for any carpet cleaning needs.
+      Igor did a fantastic job on my Dads condo. I was very impressed. I messaged him in the morning and he managed to fit me in the same day. I’m so happy with the level of service and the price was great. Highly recommend him. Thanks Igor. Cheers
 hours:
   monday: "Closed"
   tuesday: "Closed"
