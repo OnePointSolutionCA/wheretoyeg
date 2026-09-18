@@ -7,6 +7,8 @@ import { BusinessCard } from "@/components/BusinessCard";
 import { Card3D } from "@/components/Card3D";
 import { SITE } from "@/lib/site";
 
+export const revalidate = 3600;
+
 export async function generateStaticParams() {
   return COLLECTIONS.map((c) => ({ slug: c.slug }));
 }

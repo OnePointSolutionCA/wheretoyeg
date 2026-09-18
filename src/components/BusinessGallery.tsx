@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const GRADIENTS = [
   "from-teal via-teal-700 to-teal-900",
   "from-[#0d5a75] via-teal to-[#062a38]",
@@ -43,8 +45,8 @@ export function BusinessGallery({
         />
         <div className="relative flex flex-col items-center gap-4 text-center">
           {logo ? (
-            <div className="flex h-32 w-32 items-center justify-center rounded-3xl bg-white p-5 shadow-lift">
-              <img src={logo} alt="" className="max-h-full max-w-full object-contain" />
+            <div className="relative flex h-32 w-32 items-center justify-center rounded-3xl bg-white shadow-lift">
+              <Image src={logo} alt="" fill sizes="128px" className="object-contain p-5" />
             </div>
           ) : (
             <div className="flex h-32 w-32 items-center justify-center rounded-3xl bg-white/15 backdrop-blur-sm ring-1 ring-white/25">
@@ -65,29 +67,46 @@ export function BusinessGallery({
   // Single photo → full-width hero at a comfortable aspect ratio
   if (rest.length === 0) {
     return (
-      <div
-        className="photo-tile aspect-[16/7] w-full rounded-2xl"
-        style={{ backgroundImage: `url(${hero})` }}
-        aria-label={`${name} main photo`}
-      />
+      <div className="relative aspect-[16/7] w-full overflow-hidden rounded-2xl bg-[var(--teal)]">
+        <Image
+          src={hero}
+          alt={`${name} main photo`}
+          fill
+          sizes="(max-width: 768px) 100vw, 800px"
+          className="object-cover"
+          priority
+        />
+      </div>
     );
   }
 
   // Multiple photos → hero + thumbnail grid
   return (
     <div className="grid gap-2 sm:grid-cols-4 sm:grid-rows-2 sm:aspect-[16/7]">
-      <div
-        className="photo-tile aspect-[4/3] rounded-2xl sm:col-span-2 sm:row-span-2 sm:aspect-auto"
-        style={{ backgroundImage: `url(${hero})` }}
-        aria-label={`${name} main photo`}
-      />
+      <div className="relative aspect-[4/3] overflow-hidden rounded-2xl bg-[var(--teal)] sm:col-span-2 sm:row-span-2 sm:aspect-auto">
+        <Image
+          src={hero}
+          alt={`${name} main photo`}
+          fill
+          sizes="(max-width: 768px) 100vw, 400px"
+          className="object-cover"
+          priority
+        />
+      </div>
       {rest.slice(0, 4).map((p, i) => (
         <div
           key={p + i}
-          className="photo-tile aspect-square rounded-xl sm:aspect-auto"
-          style={{ backgroundImage: `url(${p})` }}
-          aria-hidden="true"
-        />
+          className="relative aspect-square overflow-hidden rounded-xl bg-[var(--teal)] sm:aspect-auto"
+        >
+          <Image
+            src={p}
+            alt=""
+            fill
+            sizes="200px"
+            className="object-cover"
+            loading="lazy"
+          />
+        </div>
       ))}
     </div>
   );

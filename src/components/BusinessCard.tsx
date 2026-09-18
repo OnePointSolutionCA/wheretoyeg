@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import type { Business } from "@/lib/types";
 import { StarRating } from "./StarRating";
 import { OpenNowBadge } from "./OpenNowBadge";
@@ -31,10 +32,19 @@ export function BusinessCard({ business, categoryName }: { business: Business; c
     >
       <Link href={href} className="block">
         <div
-          className="photo-tile relative aspect-[16/10] w-full overflow-hidden"
-          style={photo ? { backgroundImage: `url(${photo})` } : undefined}
+          className="relative aspect-[16/10] w-full overflow-hidden bg-[var(--teal)]"
           aria-hidden="true"
         >
+          {photo && (
+            <Image
+              src={photo}
+              alt={b.name}
+              fill
+              sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+              className="object-cover"
+              loading="lazy"
+            />
+          )}
           {!photo && (
             <div className={"absolute inset-0 bg-gradient-to-br " + gradient}>
               {/* Ambient orb accents */}
@@ -51,8 +61,8 @@ export function BusinessCard({ business, categoryName }: { business: Business; c
               />
               <div className="absolute inset-0 flex flex-col items-center justify-center gap-2 p-6 text-center">
                 {b.logo ? (
-                  <div className="flex h-20 w-20 items-center justify-center rounded-2xl bg-white p-3 shadow-lift transition-transform duration-500 group-hover:scale-110 group-hover:rotate-3">
-                    <img src={b.logo} alt="" className="max-h-full max-w-full object-contain" />
+                  <div className="relative flex h-20 w-20 items-center justify-center rounded-2xl bg-white p-3 shadow-lift transition-transform duration-500 group-hover:scale-110 group-hover:rotate-3">
+                    <Image src={b.logo} alt="" fill sizes="80px" className="object-contain p-3" />
                   </div>
                 ) : (
                   <div className="flex h-20 w-20 items-center justify-center rounded-2xl bg-white/15 backdrop-blur-sm ring-1 ring-white/25 transition-transform duration-500 group-hover:scale-110">
@@ -75,8 +85,8 @@ export function BusinessCard({ business, categoryName }: { business: Business; c
       </Link>
       {/* Logo badge — only shown when there IS a photo, so the logo sits over it like Yelp */}
       {photo && b.logo && (
-        <div className="absolute left-4 top-4 flex h-12 w-12 items-center justify-center overflow-hidden rounded-xl border border-white/70 bg-white p-1.5 shadow-card">
-          <img src={b.logo} alt="" className="max-h-full max-w-full object-contain" />
+        <div className="absolute left-4 top-4 flex h-12 w-12 items-center justify-center overflow-hidden rounded-xl border border-white/70 bg-white shadow-card">
+          <Image src={b.logo} alt="" fill sizes="48px" className="object-contain p-1.5" />
         </div>
       )}
       <div className="flex flex-1 flex-col gap-2 p-5">

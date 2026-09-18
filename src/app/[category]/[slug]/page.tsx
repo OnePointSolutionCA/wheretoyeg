@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import { notFound } from "next/navigation";
 import {
   getBusinesses,
@@ -33,6 +34,8 @@ const FOOD_CATEGORIES = new Set(["restaurants", "cafes-coffee-shops", "bakeries"
  *
  * We check the subcategory first; if no match, we look for a business by slug.
  */
+
+export const revalidate = 3600;
 
 export async function generateStaticParams() {
   const params: { category: string; slug: string }[] = [];
@@ -206,8 +209,8 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
           <div className="mt-3 flex flex-wrap items-start justify-between gap-4">
             <div className="flex min-w-0 items-start gap-4">
               {b.logo && (
-                <div className="flex h-16 w-16 shrink-0 items-center justify-center overflow-hidden rounded-2xl border border-line bg-white p-2 shadow-card sm:h-20 sm:w-20">
-                  <img src={b.logo} alt="" className="max-h-full max-w-full object-contain" />
+                <div className="relative h-16 w-16 shrink-0 overflow-hidden rounded-2xl border border-line bg-white shadow-card sm:h-20 sm:w-20">
+                  <Image src={b.logo} alt="" fill sizes="80px" className="object-contain p-2" />
                 </div>
               )}
               <div className="min-w-0">

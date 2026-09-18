@@ -20,6 +20,8 @@ import type { Metadata } from "next";
 
 function toSlug(s: string) { return s.toLowerCase().replace(/\s+/g, "-"); }
 
+export const revalidate = 3600;
+
 export const metadata: Metadata = {
   alternates: { canonical: `${SITE.url}/` },
 };

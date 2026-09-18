@@ -7,6 +7,8 @@ import { getBusinesses, getCategories } from "@/lib/content";
 
 function toSlug(s: string) { return s.toLowerCase().replace(/\s+/g, "-"); }
 
+export const revalidate = 3600;
+
 export async function generateStaticParams() {
   return SITE.neighborhoods.map((n) => ({ slug: toSlug(n) }));
 }

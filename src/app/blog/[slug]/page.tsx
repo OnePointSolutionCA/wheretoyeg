@@ -4,6 +4,8 @@ import { notFound } from "next/navigation";
 import { getBlogPost, getBlogPosts, renderMarkdown } from "@/lib/blog";
 import { SITE } from "@/lib/site";
 
+export const revalidate = 3600;
+
 export async function generateStaticParams() {
   return getBlogPosts().map((p) => ({ slug: p.slug }));
 }

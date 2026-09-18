@@ -13,6 +13,8 @@ import { FilterableList } from "@/components/FilterBar";
 import { SubcategoryPills } from "@/components/SubcategoryPills";
 import { SITE } from "@/lib/site";
 
+export const revalidate = 3600;
+
 export async function generateStaticParams() {
   return getCategories().map((c) => ({ category: c.slug }));
 }

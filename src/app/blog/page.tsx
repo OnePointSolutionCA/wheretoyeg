@@ -3,6 +3,8 @@ import type { Metadata } from "next";
 import { getBlogPosts } from "@/lib/blog";
 import { SITE } from "@/lib/site";
 
+export const revalidate = 3600;
+
 export const metadata: Metadata = {
   title: "The WhereToYEG Blog",
   description:
