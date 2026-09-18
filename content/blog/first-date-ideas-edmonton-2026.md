@@ -57,7 +57,6 @@ Skip dinner for a first date unless you already know it's going to work. Second 
 
 If you do end up wanting dinner:
 - **[Paramount Fine Foods](/restaurants/paramount-fine-foods)** — halal Lebanese, generous portions, weekend brunch is also solid.
-- **[KohSaar Grill](/restaurants/kohsaar-grill)** — premium Pakistani grill, nice enough for a proper first date, no alcohol.
 - **[Padmanadi Vegetarian](/restaurants/padmanadi-vegetarian)** — if you're both vegetarian-curious, this is an interesting pick.
 
 Browse [restaurants filtered by Halal](/restaurants?amenity=Halal) or the full [Date Night collection](/collections/date-night).

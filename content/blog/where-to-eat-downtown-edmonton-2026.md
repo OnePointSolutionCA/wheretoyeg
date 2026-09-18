@@ -26,8 +26,6 @@ Downtown Edmonton has strong halal representation. Filter [halal restaurants](/r
 For a proper sit-down dinner:
 
 - **[Paramount Fine Foods](/restaurants/paramount-fine-foods)** — Not downtown proper but close, premium halal Lebanese, charcoal grills. Good for family dinners.
-- **[KohSaar Grill](/restaurants/kohsaar-grill)** — Strathcona-adjacent, premium Pakistani grill, good for a date or a group.
-
 Browse all [Edmonton restaurants](/restaurants) and filter by [Halal](/restaurants?amenity=Halal), price, or neighborhood.
 
 ## Post-Rogers Place late-night

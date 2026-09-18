@@ -24,8 +24,6 @@ Pakistani food in Edmonton has come into its own. What used to be a handful of I
 
 **[Fatima Karahi Corner](/restaurants/fatima-karahi-corner)** — Family-owned Pakistani karahi house in Ellerslie, deep on Edmonton's halal food scene. Home-style cooking, portion sizes that feed a family.
 
-**[KohSaar Grill](/restaurants/kohsaar-grill)** — Premium Pakistani grill spot in Strathcona. Grilled meats, chapli kebab, chai on the side. 5.0 rating.
-
 **[Checkers Pizza & Kabab](/restaurants/checkers-pizza-kabab)** — Halal pizzeria that also does kebabs and karahi. Old Strathcona institution for 16+ years.
 
 Browse all [Pakistani restaurants in Edmonton](/restaurants/pakistani) or filter [Halal restaurants](/restaurants?amenity=Halal).

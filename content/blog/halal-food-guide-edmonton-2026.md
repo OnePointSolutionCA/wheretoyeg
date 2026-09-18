@@ -31,8 +31,6 @@ Karahi houses, biryani, chapli kebabs, chai.
 
 - **[Khan Kebabs & Karahi](/restaurants/khan-kebabs-karahi)** — 106 Street, Shinwari and Lahori karahi. 4.6 stars, 300+ reviews.
 - **[Fatima Karahi Corner](/restaurants/fatima-karahi-corner)** — Ellerslie, family-owned.
-- **[KohSaar Grill](/restaurants/kohsaar-grill)** — premium Pakistani grill.
-
 Full guide: [Best Pakistani Food in Edmonton](/blog/best-pakistani-food-edmonton-2026).
 
 ## Lebanese
