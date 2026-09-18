@@ -5,7 +5,7 @@ category: "photographers"
 neighborhood: "Edmonton"
 address: "10354 68 Ave NW #201, Edmonton, AB T6H 2A7"
 rating: 5
-review_count: 282
+review_count: 284
 tier: "featured"
 phone: "(780) 660-3507"
 website: "http://www.studiooneyeg.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=954925685154772504"

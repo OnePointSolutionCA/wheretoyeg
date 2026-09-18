@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/steam-dry-canada---home-depot-cleaning-services--edmonton-1.jpg", "/photos/steam-dry-canada---home-depot-cleaning-services--edmonton-2.jpg", "/photos/steam-dry-canada---home-depot-cleaning-services--edmonton-3.jpg"]
 rating: 4.7
-review_count: 582
+review_count: 584
 price_range: "$$"
 amenities:
 
@@ -44,10 +44,6 @@ reviews:
     rating: 4
     comment: |
       This was a great job done. It is so nice to have the carpets and furniture clean at last. They certainly got dirty over the years! The cleaner was friendly and called me to ask if he could come early, which was fine by us. The job was completed early and well. Of course, the house smelled of wet laundry, the humidity was higher and it took longer than expected to dry, but it was all fine
-  - name: "evap123"
-    rating: 5
-    comment: |
-      I was able to arrange an emergency carpet cleaning service easily. They were able to come the following day. The technician, Enrique, was great. He did a good job and was pleasant to interact with.
   - name: "Jonathan Holmes"
     rating: 1
     comment: |
@@ -62,4 +58,12 @@ reviews:
     rating: 5
     comment: |
       Rowan did an excellent job on A/C, duct cleaning, furnace, and dryer vents. He checked out everything & revealed the filter in the humidifier that needed to be changed. He was professionally, friendly, very knowledgeable. I highly recommend the 5 star services to anyone that needs them. Thanks Rowan for a job well done. Grace Kuleskey
+  - name: "Ola S"
+    rating: 5
+    comment: |
+      I’ve been a loyal customer now for over five years. Kalten does an amazing job each time. He’s thorough, detail oriented and takes his time to clean the furnace, registers and duct lines.
+      
+      Before and after pictures are also taken to show the state of the items cleaned. He goes above and beyond to spot out any maintenance issues that may require urgent attention during the cleaning exercise.
+      
+      Above all, my experience with this company has been top notch. Kalten is professional, courteous and very knowledgeable.
 ---

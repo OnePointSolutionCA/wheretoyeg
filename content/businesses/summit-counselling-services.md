@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/summit-counselling-services-1.jpg", "/photos/summit-counselling-services-2.jpg", "/photos/summit-counselling-services-3.jpg"]
 rating: 4.4
-review_count: 26
+review_count: 27
 price_range: "$$"
 amenities:
 
@@ -48,8 +48,8 @@ reviews:
     rating: 5
     comment: |
       Greg Hamilton is a very good practitioner. He was professional, insightful, respectful and accommodating.
-  - name: "Adam Chaban"
-    rating: 5
+  - name: "Amabel D'Souza"
+    rating: 1
     comment: |
-      Really helped with unique approach, very professional and friendly staff
+      First experience here was highly triggering for me. Decided not to continue.
 ---

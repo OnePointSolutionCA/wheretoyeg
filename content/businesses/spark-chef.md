@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "1020 Sherwood Dr #50, Sherwood Park, AB T8A 2G4"
 rating: 4.9
-review_count: 231
+review_count: 233
 tier: "featured"
 phone: "(780) 570-3092"
 website: "https://www.sparkchef.ca/"
@@ -13,13 +13,6 @@ google_maps: "https://maps.google.com/?cid=2295154280946531289&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/spark-chef.jpg"
 reviews:
-  - name: "Nimesh Tharanga"
-    rating: 5
-    comment: |
-      ⭐⭐⭐⭐⭐ Phenomenal Food and Exceptional Experience!
-      My family and I recently tried Spark Chef, and we were absolutely blown away! Every single dish was incredibly delicious, fresh, and prepared to perfection. It is clear that a lot of care, passion, and high-quality ingredients go into their meals.
-      Not only was the food fantastic, but the entire experience was wonderful from start to finish. Finding a meal that every single member of the family thoroughly enjoys can be a challenge, but Spark Chef hit it out of the park for all of us.
-      If you are looking for an amazing, hassle-free dining experience that delivers on flavor and quality, I highly recommend Spark Chef. We will definitely be ordering again soon! Thank you for a wonderful meal!
   - name: "Sampath de silva"
     rating: 5
     comment: |
@@ -28,6 +21,13 @@ reviews:
       Ordered the gnocchi with Caribbean jerk chicken and a Sri Lankan faluda, and both were absolutely delicious.
       
       The staff were incredible and really added to the overall experience. I would highly recommend this place to anyone looking for great food and a memorable dining experience.
+  - name: "Nimesh Tharanga"
+    rating: 5
+    comment: |
+      ⭐⭐⭐⭐⭐ Phenomenal Food and Exceptional Experience!
+      My family and I recently tried Spark Chef, and we were absolutely blown away! Every single dish was incredibly delicious, fresh, and prepared to perfection. It is clear that a lot of care, passion, and high-quality ingredients go into their meals.
+      Not only was the food fantastic, but the entire experience was wonderful from start to finish. Finding a meal that every single member of the family thoroughly enjoys can be a challenge, but Spark Chef hit it out of the park for all of us.
+      If you are looking for an amazing, hassle-free dining experience that delivers on flavor and quality, I highly recommend Spark Chef. We will definitely be ordering again soon! Thank you for a wonderful meal!
   - name: "Gavin Ermantrout"
     rating: 5
     comment: |

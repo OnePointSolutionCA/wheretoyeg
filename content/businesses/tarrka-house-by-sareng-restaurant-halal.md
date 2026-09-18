@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Mill Woods"
 address: "326 Saddleback Rd NW, Edmonton, AB T6J 4R7"
 rating: 4.5
-review_count: 332
+review_count: 333
 tier: "featured"
 phone: "(780) 204-1187"
 website: "http://www.tarrkahouse.ca/"

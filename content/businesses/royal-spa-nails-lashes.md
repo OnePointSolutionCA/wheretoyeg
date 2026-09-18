@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–4:00 PM"
 photos: ["/photos/royal-spa-nails-lashes-1.jpg", "/photos/royal-spa-nails-lashes-2.jpg", "/photos/royal-spa-nails-lashes-3.jpg"]
 rating: 4.6
-review_count: 440
+review_count: 441
 price_range: "$$"
 amenities:
 
@@ -28,14 +28,14 @@ tags: ["edmonton", "gel"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Emily McCarthy"
+    rating: 5
+    comment: |
+      10/10, they got my acrylic nails off with such care. Didn't hurt my sensitive nails. Plus they have a drink bar, I had a tea 🍵 so yummy and delicious while getting my nails done plus I loved the edm festival music playing with the video to watch. Made me super happy.
   - name: "Ale Cato"
     rating: 5
     comment: |
       I’ve been here 2 times and Thomas helped me both times, I was very impressed with their services. To say my nails were short and now they have been able to build them to a healthy length with liquid gel makes me so happy. Very quick but detailed work, I’m pretty picky and he even redid a couple nails just to make them look how I wanted. Very happy with their services.
-  - name: "jot kaur"
-    rating: 5
-    comment: |
-      It’s been over two weeks and my nails still look amazing! This is the first time they’ve lasted so long without coming off — I’m so impressed!
   - name: "Lynn C"
     rating: 5
     comment: |

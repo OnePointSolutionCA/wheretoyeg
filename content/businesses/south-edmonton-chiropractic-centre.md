@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–2:00 PM"
 photos: ["/photos/south-edmonton-chiropractic-centre-1.jpg", "/photos/south-edmonton-chiropractic-centre-2.jpg", "/photos/south-edmonton-chiropractic-centre-3.jpg"]
 rating: 4.9
-review_count: 572
+review_count: 574
 price_range: "$$"
 amenities:
 
@@ -48,10 +48,6 @@ reviews:
       I highly recommend South Edmonton Chiropractic Centre! From the moment you walk through the doors, you’re greeted by the friendly front desk staff who make you feel welcome and comfortable right away. Everyone at the clinic is kind, professional, and genuinely cares about their patients.
       
       What stands out most to me is how much time the chiropractors take with you. They truly listen to what’s going on instead of making you feel rushed through an appointment. They explain things in a way that’s easy to understand, answer any questions you have, and make sure you feel comfortable with your care plan. It’s clear that everyone here wants the best for their patients, and that level of care is something that can be hard to find.
-  - name: "Daniel Schwalm"
-    rating: 5
-    comment: |
-      South Edmonton Chiropractic Centre was excellent. With the help of Cynthia, their massage therapist, and Dr. Alexus, I was able to return to work after a disc irritation injury in just three weeks. They were professional, caring, and supportive throughout my recovery. The receptionists are friendly and accommodating, and the building is always clean. Highly recommend.
   - name: "Franz Anthony Almonia"
     rating: 5
     comment: |
@@ -60,4 +56,8 @@ reviews:
       The clinic environment is also excellent. The receptionist is very welcoming and friendly, and the clinic is always clean and well-maintained.
       
       Overall, I highly recommend this clinic to anyone dealing with injuries, especially from an MVA.
+  - name: "Niman Hashi"
+    rating: 5
+    comment: |
+      South Edmonton Chiropractic Centre has been a game-changer for me. The staff is incredibly friendly and professional, and Dr. Sidhu, expertise is unmatched. I've experienced significant relief from my chronic back pain since starting treatment here. Highly recommend,
 ---

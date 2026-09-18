@@ -24,14 +24,6 @@ reviews:
     rating: 5
     comment: |
       I had an amazing experience at Sarap Sarap Events Centre! The atmosphere was welcoming and beautifully set up, making it perfect for any event. The food was absolutely delicious—authentic Asian flavors that really stand out, and everything was fresh and well-prepared. The staff were friendly, attentive, and made sure everything ran smoothly from start to finish. You can tell they really care about their guests having a great time. I’d definitely recommend this place to anyone looking to host an event or enjoy great food. Will 100% be coming back!
-  - name: "Aaron Richard Simeon"
-    rating: 5
-    comment: |
-      Absolutely loved my experience here! The moment I walked in, I was greeted with warm smiles and the comforting aroma of authentic Filipino cooking. Every dish tasted like it was made with love — rich kare-kare, and perfectly seasoned pancit were unforgettable.
-      
-      Portions were generous, prices were fair, and the service was truly outstanding. It felt like being welcomed into a Filipino home — warm, lively, and full of flavour.
-      
-      If you want real Filipino comfort food that hits the spot every time, this place is a must-try. Highly recommended!
   - name: "Lady Genesis Morton"
     rating: 5
     comment: |
@@ -43,6 +35,10 @@ reviews:
     comment: |
       ★★★★★
       “Sarap Sarap Catering exceeded all expectations today! The food was absolutely delicious, beautifully prepared, and served fresh. Every dish was packed with flavor, and our guests kept coming back for seconds. The team was professional, friendly, and very organized from start to finish. Highly recommended for any event — definitely one of the best catering services we’ve experienced. Thank you, Sarap Sarap Catering, for making our celebration extra special!”
+  - name: "JP Dumlao"
+    rating: 5
+    comment: |
+      Sarap Sarap lived up to the name. Food was packed with flavour and tasted like home. Portions were solid. Service felt warm and genuine and you can tell they put care into what they serve. We tried a few dishes and everything was masarap. Will definitely be coming back again soon and bringing family next time.
 hours:
   monday: "Closed"
   tuesday: "Closed"

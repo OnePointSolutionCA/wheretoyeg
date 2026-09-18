@@ -14,12 +14,6 @@ google_maps: "https://maps.google.com/?cid=1706093665737705983&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/tanda-services.jpg"
 reviews:
-  - name: "Sommer Towing & Recovery's"
-    rating: 1
-    comment: |
-      after a 17 thousand dollar bill not even 2 years down the road most parts this company replaced my truck with have failed.
-      The thing that pisses me off is the clutch kit they installed in my truck is about a 700 to 800 $ kit and but i was charged well over 2200$ for it which is a price for a heavy duty clutch kit and the 1400+$ for install.
-      And they also like to fry your PTO as well as my pto failed shortly after the last time they worked on my truck, caught them driving with my pto on while driving and all i got was a sorry.
   - name: "Joe Bryenton"
     rating: 5
     comment: |
@@ -35,6 +29,12 @@ reviews:
     rating: 5
     comment: |
       Have had my truck worked on many times here including regular service, muffler system replacement  and other general work.    Shane and his team are always fair and honest in all work needed.    Thank you for the great work team!
+  - name: "Sommer Towing & Recovery's"
+    rating: 1
+    comment: |
+      after a 17 thousand dollar bill not even 2 years down the road most parts this company replaced my truck with have failed.
+      The thing that pisses me off is the clutch kit they installed in my truck is about a 700 to 800 $ kit and but i was charged well over 2200$ for it which is a price for a heavy duty clutch kit and the 1400+$ for install.
+      And they also like to fry your PTO as well as my pto failed shortly after the last time they worked on my truck, caught them driving with my pto on while driving and all i got was a sorry.
   - name: "Michael"
     rating: 5
     comment: |

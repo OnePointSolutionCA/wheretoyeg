@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–10:00 PM"
 photos: ["/photos/taste-of-pakistan-1.jpg", "/photos/taste-of-pakistan-2.jpg", "/photos/taste-of-pakistan-3.jpg"]
 rating: 4.8
-review_count: 968
+review_count: 991
 price_range: "$"
 amenities:
   - "Halal"
@@ -48,10 +48,6 @@ reviews:
       This past weekend, we ordered takeout and the chicken biryani was accidentally missed. When I called, the owner went above and beyond and personally delivered it to our home. That level of care and customer service is truly rare.
       
       It’s this combination of amazing food and genuine hospitality that keeps us coming back. Highly recommend!
-  - name: "Moheet Khalid"
-    rating: 5
-    comment: |
-      Tried the goat paya at Taste of Pakistan and wow—it was so good. Super rich and full of flavor, and you can tell it’s cooked properly. Honestly hit the spot, especially with fresh naan. I’ll definitely be coming back!
   - name: "Rich Stenson"
     rating: 5
     comment: |
@@ -59,4 +55,8 @@ reviews:
       I asked for a spicy dish and was given a great recommendation of the Beef Karahi with chillies. Along side the saffron rice, butter nan, and peach Lassi, the meal was fantastic 😋
       Highly recommended and I will
       be a repeat customer now.
+  - name: "Sheereen Eidelkhani"
+    rating: 5
+    comment: |
+      We have been coming here for years and so happy with the new renovations as it has really elevated the atmosphere and visuals of the restaurant to match the amazing taste of the food that has been around for years! There is now a prayer area towards the front of the restaurant as well which is very thoughtful! There are usually 1 or 2 servers and even if it gets busy they do their best to get to everyone as quick as possible. We always love to get the Chicken Tikka platter as you can see in the photo and it comes with so much for just $15! Also recently tried the Chicken Karahi and I must say this is definitely a new favourite! The Karahi is $14 plus you can get 4 pieces of regular naan for $1.99 which is a great price! It’s comparable to the more expensive places we have tried and still tastes authentic while being affordable! Truly truly a gem in Edmonton and we love stopping by here whenever we can!
 ---

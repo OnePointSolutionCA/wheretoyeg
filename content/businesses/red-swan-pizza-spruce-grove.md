@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Spruce Grove"
 address: "Next to Orange Theory, 7 McLeod Ave #112, Spruce Grove, AB T7X 4H2"
 rating: 4.6
-review_count: 203
+review_count: 205
 tier: "featured"
 phone: "(780) 571-0066"
 website: "https://redswanpizza.ca/"
@@ -45,13 +45,12 @@ reviews:
       Value for money-10/10
       Staff friendliness10/100(i wrote 100 it is not a mistake)
       I would highly recommend this place.
-  - name: "Kristina Reicher"
+  - name: "april mcgrath"
     rating: 5
     comment: |
-      How have I not discovered Red Swan Pizza before?! This place is an absolute gem. The menu is packed with incredible options, the prices are refreshingly family-friendly, and the quality of the pizza is outstanding. Every slice is loaded with toppings, bursting with flavor, and clearly made with care.
-      The service is just as impressive—fast, friendly, and genuinely welcoming. The staff go out of their way to make you feel comfortable, and the whole atmosphere makes you want to come back again and again.
-      As someone who loves pizza, I’ve been disappointed too many times lately by the usual chains—skimpy toppings, burnt cheese, and high prices for mediocre food. Red Swan is the complete opposite. Generous, delicious pizza at prices that actually make sense. It honestly feels like hitting the jackpot finding a place like this.
-      And one more thing that really stands out: their support for the community. It’s clear this is a business that truly cares about the people around them. Thank you, Mo, and the entire Red Swan team for running such a fantastic place. Keep doing what you’re doing!
+      Very good pizza, BBQ chicken for my fiance and I, half cheese / half pepperoni cheese for the kids, everyone enjoyed.
+      I've had the breadsticks before which are ok but need more seasoning and the chicken quesadillas are very good also.
+      Will be ordering again it will be our go to pizza place, can't wait to try more things on the menu.
 hours:
   monday: "11:00 AM–12:00 AM"
   tuesday: "11:00 AM–12:00 AM"

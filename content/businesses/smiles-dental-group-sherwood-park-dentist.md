@@ -26,14 +26,14 @@ reviews:
     rating: 5
     comment: |
       I've always had a great experience at Smiles Dental in Sherwood Park. The staff are friendly, professional, and make every visit a positive one. My hygienist, Ebla, is especially wonderful. She's very accommodating, makes me feel completely at ease, and has such a gentle touch. She does an excellent job cleaning my teeth without causing any discomfort, which I really appreciate. I always leave feeling well taken care of. Highly recommend Smiles Dental and especially Ebla!
-  - name: "Maricel T."
+  - name: "Cynthia Shaw"
     rating: 5
     comment: |
-      I had a great experience at Smiles Dental Group. The hygienist, Dr. Zoryana, cleaned my teeth very thoroughly and was incredibly patient throughout the appointment. She took the time to explain everything clearly and gave me very helpful tips on how to maintain healthy gums and teeth at home. I really appreciated how informative and gentle she was. The clinic is also very punctual and respectful of patients’ time, and the customer service is excellent. Highly recommend to anyone looking for professional and caring dental care!
-  - name: "Heather Lissel"
+      I've never had a lot of walking with dentists. Until I came to smiles!! They are a very honest, hardworking, compassionate group of people. Huge shoutout to Diana for making my visit a great experience every time! Highly recommend this clinic!
+  - name: "Carrie Henry"
     rating: 5
     comment: |
-      I am mid-way through my first implant to replace a molar and I am very happy with Dr. Yeh and his team at Smiles on Wye Road in Sherwood Park. They responded to any nervousness I had and walked me through the process in detail. I experienced no pain, just a low hum of the drill and a light vibration followed by a bit of pressure as the implant was placed. Dr. Yeh was able to place the implant on the first day because of the unique nature of my jaw. This should save me months of recovery. The cost is competitive and billing is flexible considering I don't have insurance. I'll update in the months to come.
+      Dr. Nikita and her staff are so kind and helpful throughout my visit. I had a wisdom tooth removed yesterday. I was very stressed about the extraction when I first arrived, but they were so helpful in easing my concerns. The whole procedure went very well and quickly. Very little post surgery pain today. I highly recommend Dr. Nikita and all the staff at Smiles dental
 hours:
   monday: "Closed"
   tuesday: "8:00 AM–5:00 PM"

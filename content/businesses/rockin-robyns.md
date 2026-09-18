@@ -20,7 +20,7 @@ hours:
   sunday: "7:00 AM–4:00 PM"
 photos: ["/photos/rockin-robyns-1.jpg", "/photos/rockin-robyns-2.jpg", "/photos/rockin-robyns-3.jpg"]
 rating: 4.7
-review_count: 3402
+review_count: 3413
 price_range: "$$"
 amenities:
   - "Dine-In"

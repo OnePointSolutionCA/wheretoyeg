@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "1 Londonderry Mall NW Unit 0229, Edmonton, AB T5C 3C8"
 rating: 4.8
-review_count: 756
+review_count: 763
 tier: "featured"
 phone: "(587) 760-2215"
 website: "https://www.specsavers.ca/stores/londonderrymall?utm_source=yext&utm_medium=places&utm_content=londonderrymall&utm_campaign=googleplaces&y_source=1_NjE2NzE4MDctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
@@ -17,10 +17,16 @@ reviews:
     rating: 5
     comment: |
       5 stars! Ask for Maryam at Londonderry Specsavers! She is absolutely fantastic! She made direct billing seamless for my son's first time and helped me use my insurance credits. We both walked away with bougie frames and sunglasses at great prices. She was so fast and efficient! Can't wait for our new looks and we highly recommend!
-  - name: "Iryna Vakarchuk"
+  - name: "Abir Baydoun"
     rating: 5
     comment: |
-      Londonderry has a wonderful team. Everyone was friendly and very attentive to my needs, my husband's and my child's. We are very satisfied with the visit. And very grateful to the whole team. A special bonus for us was the employee Nadya, because she speaks Ukrainian and could help us when we needed to clarify something in more detail. We are delighted with this team.
+      ⭐️⭐️⭐️⭐️⭐️+++++
+      
+      I had such a great experience here! Theo ...was absolutely amazing. He was so kind, patient, respectful, and polite throughout the entire process. He listened to what I needed and went above and beyond to help me.
+      
+      It’s honestly refreshing to meet someone who treats customers with such genuine kindness and professionalism. He made the whole experience easy and comfortable, and I really appreciated his patience with me.
+      
+      Thank you, Theo for being so wonderful and for making my experience such a positive one. You’re truly an asset to this place! Highly recommended! ❤️
   - name: "Stacy Carleton"
     rating: 5
     comment: |

@@ -14,10 +14,6 @@ google_maps: "https://maps.google.com/?cid=11198215649176315944&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/smile-dental.jpg"
 reviews:
-  - name: "Rimona Chehayeb"
-    rating: 5
-    comment: |
-      Highly recommend!!! Came in with dental anxiety the whole visit was very smooth. The staff were welcoming and Dr Zeineddine was thorough and gentle. Fully satisfied with the care and results.
   - name: "Barbara Kreamer"
     rating: 5
     comment: |
@@ -39,6 +35,10 @@ reviews:
     rating: 5
     comment: |
       I freaking love this place. Their clinic makes me look forward to going to the dentist. Dr. Z has been so wonderful; my 16 month old son has been receiving the best care from him, furthermore, the team of hygienists and receptionists are absolutely remarkable.
+  - name: "C W"
+    rating: 5
+    comment: |
+      Always a wonderful experience here. The staff are really kind and Dr Wang is always super nice and gentle. The staff do not judge if your teeth aren't great.
 hours:
   monday: "7:30 AM–5:30 PM"
   tuesday: "8:00 AM–7:00 PM"

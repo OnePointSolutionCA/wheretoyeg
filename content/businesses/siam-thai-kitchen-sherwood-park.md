@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "205 Festival Way #560, Sherwood Park, AB T8A 4Y7"
 rating: 4.8
-review_count: 156
+review_count: 157
 tier: "featured"
 phone: "(825) 218-2888"
 website: "https://siamthaikitchen.ca/location/sherwood_park/"
@@ -29,12 +29,6 @@ reviews:
       What really made the experience stand out, though, was our server, Ash. They were friendly, attentive, and made sure we were well taken care of throughout the entire meal. You can tell they genuinely care about providing great service, and it made the whole dining experience even better.
       
       Overall, Siam Thai Kitchen exceeded our expectations. Amazing food, excellent service, and a warm, welcoming atmosphere. We’ll definitely be coming back!
-  - name: "A K"
-    rating: 5
-    comment: |
-      Very delicious food. 10/10 experience. Love that they have a cat robot to help them with clearing the dishes.
-      We had the cashew chicken(my favourite) pad thai and a small coconut rice between the two of us and it was more than enough food. I love how they specify if the menu item has no spice which I really appreciate- that can really ruin a dish for me but I want rich authentic flavours.plus they had chilli oil on the table if you needed it.
-      We will be back :) thank you
   - name: "Engr. Jackielyn Barona-Cabios"
     rating: 5
     comment: |
@@ -43,6 +37,10 @@ reviews:
     rating: 1
     comment: |
       This was by far the most disappointing Thai food we have ever had. The crab rangoons had barely any filling. The pad kra pao was just overcooked, super dry and really terrible. The pad Thai had no flavor, again overcooked and dry. Somehow they managed to overdo the green onion cake! Even the appearance of the food was unappealing. The only thing that was good was the sweet roti but the portion was small for the price.
+  - name: "Courtney Powell"
+    rating: 5
+    comment: |
+      I had the Tom Yum soup here and it was fantastic. The soup was light but full of flavour. I haven’t had a lot of Tom Yum soups but this was certainly the best. We also had an onion cake and it was also great. This was second time eating here and just as good as the first. This was the week after the holidays it was very quiet I hope it sticks around. Service was good but the table and chairs were kind of small and uncomfortable. The dining room overall is pretty small. It is a little pricy but you get good quality.
 hours:
   monday: "11:00 AM–3:00 PM"
   tuesday: "11:00 AM–3:00 PM"

@@ -5,7 +5,7 @@ category: "cleaning-services"
 neighborhood: "Jasper Ave"
 address: "10060 Jasper Ave Tower 1, Suite 2020, unit 2, Edmonton, AB T5J 3R8"
 rating: 5
-review_count: 27
+review_count: 28
 tier: "featured"
 phone: "(587) 936-5437"
 website: "https://www.soscleaningservices.ca/"
@@ -13,6 +13,10 @@ google_maps: "https://maps.google.com/?cid=8624240060892059237&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/sos-professional-cleaning-services.jpg"
 reviews:
+  - name: "Diane Dunphy"
+    rating: 5
+    comment: |
+      My daughter in law booked SOS cleaning after my surgery , and I have been so impressed with their services, that I decided to keep them on.   Anna , and her team are very punctual, professional, and and they do an amazing job. My house has never been so clean I would give them 6 stars if I could .
   - name: "Leila Andrews"
     rating: 5
     comment: |
@@ -32,10 +36,6 @@ reviews:
       I've had other cleaning services done at my home, but their service is beyond expectations.  My place looks like the day I bought it, super clean and fresh. The air even feels cleaner to breathe.
       Great customer service, friendly staff, and very professional.
       I highly recommend their services.
-  - name: "Meghan Taylor"
-    rating: 5
-    comment: |
-      SOS Professional Cleaning Services did a bang up job! The 2 ladies arrived on time and were very professional and got right to it. I was working from home and wasn’t bothered at all. The house was cleaned perfectly, all taps and facets were sparkling! And a spotless microwave, amazing!! Thank you! I’m looking forward to continuing with the services provided.
 hours:
   monday: "8:30 AM–5:30 PM"
   tuesday: "8:30 AM–5:30 PM"

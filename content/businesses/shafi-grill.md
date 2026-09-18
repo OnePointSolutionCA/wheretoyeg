@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Mill Woods"
 address: "3444 93 St NW, Edmonton, AB T6E 5T5"
 rating: 4.3
-review_count: 348
+review_count: 349
 tier: "featured"
 phone: "(780) 462-3556"
 website: "http://shafigrill.ca/"

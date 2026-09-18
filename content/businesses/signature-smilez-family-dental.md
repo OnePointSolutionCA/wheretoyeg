@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "16660 95 St, Edmonton, AB T5Z 3L2"
 rating: 4.8
-review_count: 433
+review_count: 434
 tier: "featured"
 phone: "(780) 478-2100"
 website: "http://www.signaturesmilez.ca/"

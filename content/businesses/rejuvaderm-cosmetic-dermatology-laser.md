@@ -53,12 +53,8 @@ reviews:
       Christie is incredibly knowledgeable and takes the time to explain every treatment, tailoring everything to your specific skin concerns and goals. You can tell she genuinely cares about achieving the best results, not just performing a service.
       What really sets her apart is her attention to detail and professionalism. The results I’ve seen have been outstanding, and her approach is always honest and realistic — no pressure, just expert guidance.
       If you’re considering any laser or aesthetic treatments, I highly recommend booking with Christie. She’s the kind of practitioner you trust long-term, and she consistently delivers.
-  - name: "Gunel Abbasova"
+  - name: "Nikki Badun"
     rating: 5
     comment: |
-      I had a wonderful experience at Rejuvaderm Glenora with Christie. She is incredibly kind, professional, and made me feel comfortable throughout the entire process.
-      
-      I came in for laser hair removal treatment of my double chin, and I was amazed to start seeing improvement after just the first session. Christie took the time to explain everything clearly and answered all of my questions with patience and care.
-      
-      I highly recommend Christie and the team at Rejuvaderm Glenora to anyone considering aesthetic treatments. Thank you for such a positive experience!
+      I had a great Hydrafacial today with Marina. The whole experience from start to finish was fantastic. I felt truly cared for. The business as a whole is lovely from the minute you enter the door with refreshments and snacks, friendly faces and a zen vibe. Marina was very knowledgeable and answered all my questions with detail and the service was amazing and relaxing with awesome results. I did not feel like just another customer (even as a first timer they don’t have rapport with), I felt like I mattered. I have felt more like a pay check in previous spas or like I didn’t belong because I am generally low maintenance about beauty. I will most definitely be returning!
 ---

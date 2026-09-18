@@ -13,14 +13,14 @@ google_maps: "https://maps.google.com/?cid=11384273920755584278&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/spotless-edge-cleaning-company.jpg"
 reviews:
-  - name: "Yusuf Kiyemba"
-    rating: 5
-    comment: |
-      The best right now in the city kudos
   - name: "Julie Gimei"
     rating: 5
     comment: |
       Excellent service, above and beyond! Great customer care and very polite. I would highly recommend them.
+  - name: "Yusuf Kiyemba"
+    rating: 5
+    comment: |
+      The best right now in the city kudos
   - name: "Violet Mukisa"
     rating: 5
     comment: |

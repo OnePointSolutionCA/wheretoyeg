@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–9:00 PM"
 photos: ["/photos/seafood-city-supermarket-1.jpg", "/photos/seafood-city-supermarket-2.jpg", "/photos/seafood-city-supermarket-3.jpg"]
 rating: 4.1
-review_count: 1897
+review_count: 1898
 price_range: "$$"
 amenities:
 
@@ -32,6 +32,10 @@ reviews:
     rating: 5
     comment: |
       Nice ethnic supermarket with an emphasis on Pilipino food items.  I liked their vegetable section and the quality looked pretty good on the day we visited. The seafood and meat sections appear to be pretty good also. The store is nicely laid out and I found it easy to browse the various aisles. They also have a nice sit down hot food area with interesting Pilipino grilled and deep fried food items. We tried a number of food items and they were pretty good. Some of the deep fried items may not be the healthiest but they were tasty. Will definitely come back.
+  - name: "Kelvin Juson"
+    rating: 5
+    comment: |
+      I had a great experience at the BBQ and Halo-Halo counter in Seafood City Edmonton! The BBQ was flavorful, juicy, and freshly grilled, while the halo-halo was refreshing and packed with delicious toppings. Everything tasted authentic and reminded me of home. The staff were friendly, and the service was fast even though it was busy. Definitely one of my favorite places to enjoy Filipino food. Highly recommended, and I'll definitely be back!
   - name: "Nikolai Sandved"
     rating: 2
     comment: |
@@ -51,8 +55,4 @@ reviews:
       Another issue is the inconsistent pricing. Many products don’t have price tags unless they’re Panama-branded items. I thought the chorizo was $13 based on the displayed tag, but at the cashier (Thanks for that cashier) I was informed it was actually $19.99. When I tell him the incorrect pricing, I was immediately told that the tag “wasn’t updated. Probably its not their first time having those issues
       
       Many inconsistent within this place.
-  - name: "Hitendra Lakra"
-    rating: 5
-    comment: |
-      It’s walking distance from sandman hotel in Edmonton, I was surprised to see 3 hot food restaurants under one Filipino supermarket must come here again tomorrow
 ---

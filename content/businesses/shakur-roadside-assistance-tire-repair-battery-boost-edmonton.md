@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "14308 121 St NW, Edmonton, AB T5X 3S4"
 rating: 5
-review_count: 81
+review_count: 82
 tier: "featured"
 phone: "(780) 264-0758"
 website: "https://shakurroadside.ca/"
@@ -14,6 +14,10 @@ google_maps: "https://maps.google.com/?cid=609123260671294211&g_mp=Cidnb29nbGUub
 photos:
   - "/images/businesses/shakur-roadside-assistance-tire-repair-battery-boost-edmonton.jpg"
 reviews:
+  - name: "Aisha S"
+    rating: 5
+    comment: |
+      I was in a pickle recently and needed a tire change and this place did not disappoint! Someone was ready to be dispatched immediately, and I was charged the same reasonable price I was quoted over the phone. The road side tire replacement was excellent, arrival within 30 minutes. Mahari was professional, fast, efficient and thorough. He had all his tools ready to start working right away and was done within 20 minutes. He explained everything in detail, answered all our questions and went above and beyond. I also liked the payment methods included e-transfer. 10/10 would recommend!
   - name: "Adrion"
     rating: 5
     comment: |
@@ -32,10 +36,6 @@ reviews:
       AMA did call me the next morning at 10 a.m. to say they were en route. I canceled my membership.
       
       The service from Shakur was excellent.  Would recommend to any one.
-  - name: "Aisha S"
-    rating: 5
-    comment: |
-      I was in a pickle recently and needed a tire change and this place did not disappoint! Someone was ready to be dispatched immediately, and I was charged the same reasonable price I was quoted over the phone. The road side tire replacement was excellent, arrival within 30 minutes. Mahari was professional, fast, efficient and thorough. He had all his tools ready to start working right away and was done within 20 minutes. He explained everything in detail, answered all our questions and went above and beyond. I also liked the payment methods included e-transfer. 10/10 would recommend!
   - name: "Bonnie Campbell"
     rating: 5
     comment: |

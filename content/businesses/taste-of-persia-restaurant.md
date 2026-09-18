@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/taste-of-persia-restaurant-1.jpg", "/photos/taste-of-persia-restaurant-2.jpg", "/photos/taste-of-persia-restaurant-3.jpg"]
 rating: 4.7
-review_count: 1410
+review_count: 1412
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,14 +30,6 @@ tags: ["edmonton", "persian"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "M.Hossein Danesh"
-    rating: 5
-    comment: |
-      We had an amazing experience at this restaurant. The atmosphere was great, and the service was excellent. Our waitress, Ghazaleh, was very friendly, welcoming, and attentive, as always.
-      
-      The order took a little longer than usual, but Ghazaleh kindly offered us complimentary chai while we waited, which was a thoughtful gesture and really appreciated. The food was delicious, and the whole team was friendly, hospitable, and caring.
-      
-      Thank you, Ghazaleh, for making our visit even better. I highly recommend this place.
   - name: "Rob’s Hidden Gems"
     rating: 5
     comment: |
@@ -46,20 +38,14 @@ reviews:
       I highly recommend starting with the Kashk Bademjan  , absolutely delicious. For the main course, my go-to is the Kobideh with dill rice, accompanied by a Shirazi salad and a side of Mast-o-Khiar. Every dish is fresh, flavorful, and prepared with care.
       
       If you’re looking for authentic Persian cuisine and great hospitality, this place is definitely worth a visit.
-  - name: "Cassandra Tran"
+  - name: "Mohammad Dolatdoost"
     rating: 5
     comment: |
-      I went with my bf and had an amazing experience. We had the Koobideh Kabab,  Joojeh Kabab and Ash-E-Reshteh. HIGHLY RECOMMEND. The meat was tender and so tasty, the rice was soft, the mixture with onions and charred tomatoes was top notch.
-      Our waitress Sophia was the loveliest. She was very welcoming and offer tea on the house. Will be coming back for other dishes 😁😁
-  - name: "Dr. F.Aliyan"
-    rating: 5
-    comment: |
-      I live in the west and I don't know how I never noticed this place before. Don’t let the modest exterior fool you!
-      I visited this charming spot for a birthday dinner with a friend, and from the moment we stepped inside, we were greeted with a warm and inviting atmosphere. The interior is surprisingly spacious, with plenty of comfortable seating that made it perfect for a relaxed evening out.
-      
-      What truly elevated our experience was the exceptional service. Ghazal, our server, was an absolute gem. Very gracious, attentive, and genuinely kind. Her warm demeanor and thoughtful attention to detail made our experience in wonderful and added a personal touch that’s rare to find.
-      
-      The food was absolutely divine, we ordered the Bakhtiyari and Vaziri, which were both bursting with authentic Persian flavors, beautifully presented, and cooked to perfection. The meat was soooo good and the pricing very decent. The meal was completed with a cup of complimentary tea. Highly recommend for anyone craving a delicious meal paired with heartfelt hospitality!
+      We were traveling in Edmonton and decided to go to a Persian restaurant after a long trip.
+      We headed to the Taste of Persia Restaurant and it was so good that we decided to go again the next day.
+      We tried the Vaziri and Koobide Kebab. It was very tender and juicy. I loved the tea before the meal.
+      The atmosphere was really pleasant and reminiscent of the restaurants in Iran with very low volume Persian music playing in the background.
+      The waitress, Ghazaleh, was super friendly and polite, not lile other fake polite ones at all.
   - name: "Hamed Hamzavi"
     rating: 5
     comment: |
@@ -68,4 +54,22 @@ reviews:
       A special thank you to our waitress, Ghazal. She was incredibly kind, warm, and attentive. When she found out we were traveling from Edmonton to Calgary, she surprised us with three large teas for the road such a thoughtful and generous gesture that truly made our day.
       
       The restaurant itself has a cozy and clean atmosphere, and the service was fast and professional. You can really feel the hospitality here. Highly recommend this place if you’re looking for authentic Persian food and a welcoming experience. We’ll definitely be back!
+  - name: "Simply Charmed"
+    rating: 5
+    comment: |
+      Had an amazing first experience at Taste of Persia. Ghazaleh was our server and did an excellent job recommending dishes we genuinely enjoyed.
+      
+      For starters, we had the eggplant fries, Sabzi rolls, and Soup-e-Jo, every dish was flavorful and well prepared.
+      
+      For our mains, we ordered the Baghali Polo ba Morgh, Polo Ba Mahi, and Fesenjoon. Each dish was rich in flavor, beautifully presented, and offered a great introduction to Persian cuisine.
+      
+      The service, hospitality, and overall dining experience were exceptional. Definitely looking forward to coming back and trying more from the menu.
+  - name: "M.Hossein Danesh"
+    rating: 5
+    comment: |
+      We had an amazing experience at this restaurant. The atmosphere was great, and the service was excellent. Our waitress, Ghazaleh, was very friendly, welcoming, and attentive, as always.
+      
+      The order took a little longer than usual, but Ghazaleh kindly offered us complimentary chai while we waited, which was a thoughtful gesture and really appreciated. The food was delicious, and the whole team was friendly, hospitable, and caring.
+      
+      Thank you, Ghazaleh, for making our visit even better. I highly recommend this place.
 ---

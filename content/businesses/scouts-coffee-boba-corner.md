@@ -41,6 +41,10 @@ reviews:
     rating: 5
     comment: |
       Delicious matcha!! Came here with a friend and the barista was so friendly and knowledgeable. My friend got the Ube matcha and I got the Pandan matcha with additional cold foam. Rich matcha flavour, good balance of matcha and the additional flavourings. The price was also comparatively cheap to a lot of other matcha places in the city, so it was an easy 5/5, will come again.
+  - name: "Brooke Joyce"
+    rating: 5
+    comment: |
+      I have yet to try their matcha ( which I heard is phenomenal) but I’ve had their iced Oreo Latte and it is soooooo good.
   - name: "Maria Ana"
     rating: 5
     comment: |
@@ -49,8 +53,4 @@ reviews:
     rating: 5
     comment: |
       Their drinks are really good, especially the matcha, its a great place to relax and unwind
-  - name: "Teresa McKernan"
-    rating: 5
-    comment: |
-      I had a delicious Oreo matcha latte and my husband got the Spanish latte which was also really good! Really friendly and kind service :)
 ---

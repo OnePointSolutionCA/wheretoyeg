@@ -19,7 +19,7 @@ hours:
   sunday: "10:00 AM–7:00 PM"
 photos: ["/photos/sugba-by-food-dlicious-1.jpg", "/photos/sugba-by-food-dlicious-2.jpg", "/photos/sugba-by-food-dlicious-3.jpg"]
 rating: 4.5
-review_count: 146
+review_count: 148
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -29,10 +29,6 @@ tags: ["edmonton", "filipino"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "CurlyWater"
-    rating: 5
-    comment: |
-      I visited this place with my family and friends yesterday, Friday afternoon, and I was truly amazed by both the delicious food and the excellent customer service. The staff were friendly, attentive, and made sure we had everything we needed. The dishes were flavorful, well prepared, and served fresh perfect for sharing! I highly recommend checking this place out if you’re looking for great food at an affordable price. Their portions are generous too, ideal for groups of 4–6 people, whether you’re celebrating a festival or just enjoying a nice meal together.
   - name: "Jean-Pierre Brossard"
     rating: 3
     comment: |
@@ -73,14 +69,27 @@ reviews:
       - 3 Kinds of Pop Drink
       *Coke|Coke Zero|Ice Tea|Sprite|Ginger Ale|Orange
       - Dinnerware & Silverware
-  - name: "Jem"
+  - name: "Jeremy Florindo"
     rating: 5
     comment: |
-      Great food! Super fast service and presentation was on point too. Had every classic Filipino dish you would want to try. Only recommendation is to change the music, didn’t think 2000s sad punk/rock music was fitting for early lunch dining haha
-  - name: "Monica Marcelino"
-    rating: 5
-    comment: |
-      Went here for lunch with my cousins and we had a wonderful experience.
+      Our Amazing First Visit Experience:
+      About (SUGBA) Sunday Buffet!
       
-      The food was delicious we got so many alacarte items, and it was so good! The service was amazing, they were attentive to our needs but gave us the space to chat.
+      This was our first visit to Sugba Restaurant for their Sunday buffet, and everything was amazing — from the service to the taste of their modern Filipino food.
+      
+      The setup and ambiance were great, and the staff were very friendly and accommodating. The food quality was excellent — we were never disappointed.
+      
+      Highly recommended to others, especially for parties and catering orders.
+      
+      We’re hoping that on our next visit, there will also be more sugba (grilled) items on the buffet — after all, “Sugba” means grill!
+      
+      @CHEFJ15!!
+  - name: "Dalie Ramas"
+    rating: 5
+    comment: |
+      The buffet offered an impressive variety of dishes, and everything I tried was fresh and full of flavor. The staff were attentive and friendly. Plates were cleared quickly, and the buffet stations were consistently clean and well-stocked. Overall, it was great value for the price. I’d definitely come back and recommend it to anyone looking for a satisfying buffet experience. The restaurant isn’t just a buffet but also offers àla carte options.  👍⭐️👍⭐️👍⭐️
+  - name: "C M"
+    rating: 5
+    comment: |
+      The food here is absolutely delicious. Beef Bulalo (beef marrow) soup was almost therapitic in a way.. Lots of unique flavors. The staff were extremely kind and amazing, great atmosphere!! Wiill certainly be back again!!
 ---

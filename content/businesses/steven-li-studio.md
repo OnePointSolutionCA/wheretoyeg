@@ -29,14 +29,14 @@ reviews:
     rating: 5
     comment: |
       I am so grateful to Stephen for walking me through our photo shoot. I wasn't exactly sure what I wanted and he was incredibly patient with me throughout the process! The photos turned out incredible and we had fun during the creative process as well. Highly recommend for product photography!
-  - name: "Wilson Leung"
-    rating: 5
-    comment: |
-      I needed headshots on short notice and Steven was able to produce quality headshots in the given time. Steven has lots of experience doing photography and is responsive. I highly recommend his services!
   - name: "NAILIL NAOAPOY"
     rating: 5
     comment: |
       Thank you Steven for a job magnificently done. I am sure the featured products taste delicious as they look good. You can really taste them with your eyes.
+  - name: "Ryan DeCoursey"
+    rating: 5
+    comment: |
+      Steven was excellent. He was a few minutes early. He was set up really quickly; yet, only took a small amount of space in the restaurant. His efficiency and professionalism was truly beyond my expectations. The initial photos I saw looked great and I'm sure the finished product will be just as good.  I will absolutely use Steven on future projects.
 hours:
   monday: "9:00 AM–9:00 PM"
   tuesday: "9:00 AM–9:00 PM"

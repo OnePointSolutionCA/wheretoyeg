@@ -17,10 +17,6 @@ reviews:
     rating: 5
     comment: |
       10/10 experience. Been here so many times. The drinks and food are so yummy🥹!! The owners are so kind and honest. Very good hospitality, honestly. Definitely worth a visit 🤗
-  - name: "Jaimi Hiscock"
-    rating: 5
-    comment: |
-      Okinawa brown sugar milk tea was excellent. We ordered a too good to go bag and got to sample a few of their food items, berry clafoutis was delicious. Awesome friendly service from Manny.
   - name: "S M"
     rating: 5
     comment: |
@@ -29,6 +25,10 @@ reviews:
     rating: 5
     comment: |
       Thank you for a wonderful service and delicious food, we really enjoyed spending time in this wonderful coffee shop. We will definitely be back, and are highly recommending this spot for a quick, delicious healthy snack. Thank you Mani 😊
+  - name: "Jaimi Hiscock"
+    rating: 5
+    comment: |
+      Okinawa brown sugar milk tea was excellent. We ordered a too good to go bag and got to sample a few of their food items, berry clafoutis was delicious. Awesome friendly service from Manny.
   - name: "Sean Clair"
     rating: 5
     comment: |

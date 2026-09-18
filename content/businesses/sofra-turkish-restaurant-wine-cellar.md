@@ -20,7 +20,7 @@ hours:
   sunday: "5:00 PM–9:00 PM"
 photos: ["/photos/sofra-turkish-restaurant-wine-cellar-1.jpg", "/photos/sofra-turkish-restaurant-wine-cellar-2.jpg", "/photos/sofra-turkish-restaurant-wine-cellar-3.jpg"]
 rating: 4.5
-review_count: 868
+review_count: 870
 price_range: "$$"
 amenities:
   - "Halal"
@@ -31,6 +31,11 @@ tags: ["edmonton", "turkish", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Nico"
+    rating: 5
+    comment: |
+      Highly recommended sultan Sofrasi best for 2 people ( couples ) spent almost $150 food was very delicious quality food also the new owner Shiba warmly welcomed us and served us many options for wine
+      Will be comming back again for sure thanks
   - name: "John Kroetch"
     rating: 4
     comment: |
@@ -58,14 +63,4 @@ reviews:
       You will feel the taste of the fire and heat used to cook and grill the food. The flavours are beyond what you would want at any grill. Everything was so juicy and flavourful and the Bulgur wheat pilaf is full of depth and comfort in each bite. What a feast.
       
       We ordered The Sultan’s sofrani for two of us and highly recommend it. You’ll have leftovers for at least another meal. The Pide was also incredible. Bread there is a MUST.
-  - name: "Sans Sanz"
-    rating: 3
-    comment: |
-      This place was my favourite Turkish place to go to in the past. The food was always cooked to perfection, however this time it was not like
-      The previous times. The owner is no longer there and the food is not cooked as it was in the past.
-      I ordered the dip trio with fresh bread, it was good however hummus was on the saltier side this time.
-      The shrimp and mushroom
-      Appetizer was quite expensive for 4 shrimps and in my opinion not worth it.
-      Now, for the main entree the lamb chops I had asked for medium well done. The server at first said he can’t do them well done there not meant to be that well done, anyways I said as long as there cooked. When we received it the lamb chops were uncooked and Pink. The server lied and  said I had asked for this, rather then taking things in an professional
-      Manner he removed them off the plates very angry. Anyways he did remake it and it was actually done the way I had asked.  Anyways the service was not at all as it was in the past and food quality has definitely suffered as well. The bulghar was over cooked and a weirde texture. I in the past never minded paying for the prices they charge but not if I don’t get the quality and service defiantly not worth it. The previous owner maintained the consistency and sofras previous owners legendary Turkish food will be missed.
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–2:00 AM"
 photos: ["/photos/tahinis-shawarma-1.jpg", "/photos/tahinis-shawarma-2.jpg", "/photos/tahinis-shawarma-3.jpg"]
 rating: 4.7
-review_count: 792
+review_count: 804
 price_range: "$"
 amenities:
   - "Halal"

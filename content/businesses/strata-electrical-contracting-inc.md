@@ -28,6 +28,10 @@ tags: ["edmonton", "residential"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "El Berger"
+    rating: 5
+    comment: |
+      Fantastic work! I needed an extra outlet and more lighting under my stairs and in the laundry room. I was pressed for time and they were able to accommodate my shortened time line. Dan who did the work was fantastic. He was quick, efficient and strategically placed the laundry light to maximize visibility for my mom who has low vision. Would definitely use Strata for any other electrical work!
   - name: "Ten Oue"
     rating: 5
     comment: |
@@ -43,14 +47,6 @@ reviews:
     comment: |
       Awesome service from Team Strata Electrical!
       Urgently needed to run 220V to our air compressor at the shop, Josh was sharp on time and had everything done in a couple hours. Looks super clean and works as expected! Much appreciated!
-  - name: "Ryan Wagner"
-    rating: 5
-    comment: |
-      Mike G., Brody P., and their team have been absolutely great to work with. Every day they show up and give 110%.
-      
-      They’re super organized, efficient, and reliable, and they always find a way to keep the project moving forward no matter what comes up. They’re great problem solvers and never back down from a challenge. You can tell they really care about the quality of their work, and it shows.
-      
-      Honestly, we couldn’t have asked for a better crew. I’d highly recommend them to anyone looking for a solid electrical team.
   - name: "Julie Leggett-Epp"
     rating: 5
     comment: |

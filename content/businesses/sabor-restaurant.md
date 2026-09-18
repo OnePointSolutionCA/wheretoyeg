@@ -29,6 +29,10 @@ tags: ["edmonton", "latin"]
 active: true
 date_listed: "2026-08-26"
 reviews:
+  - name: "Shelby M"
+    rating: 5
+    comment: |
+      My husband and I dined here last night for the first time and we already can’t wait to come back! The food was packed with flavour the hospitality/service was top notch. Such a nice atmosphere where you can tell that attention to detail is of high importance. I had the Lobster Tagliatelle and my husband had the Chicken & Chorizo Paella. For dessert we each had the Coffee Crunch Cake and it was to die for. Thanks again, we highly recommend!
   - name: "Michael Riehm"
     rating: 5
     comment: |
@@ -41,20 +45,6 @@ reviews:
       The atmosphere in this restaurant is upscale, however service could have been a bit better. Arriving as soon as they opened, staff seemed very stressed and running around setting up. Not seeming fully prepared even though no one was in the restaurant yet.
       
       Overall great place for the food.
-  - name: "Catherine Le"
-    rating: 5
-    comment: |
-      Annie was our server but the rest of the staff also helped to make our evening magical. We were a larger party and came to celebrate my father in law's birthday. The staff made us feel so welcomed and taken care of.
-      
-      I used to think of Sabor just for date nights, but after this experience I realized it truly is a family restaurant, too. They made our kids feel so special and seen. The food was impeccable, including the kid's pasta- we were both surprised by the quality of the dish!
-      
-      Our parents also enjoyed their meal. We shared the meat and seafood platters and dessert platter, too. Everything was perfect, the cook of the all the meats and seafood were amazing. Dessert selection was wide and had something for everyone. Great evening!!
-      
-      You can tell they care so much, and I can see why this is a long standing institution for downtown dining. Bustling and busy on a Wednesday evening.
-  - name: "Kelley Winter"
-    rating: 5
-    comment: |
-      We planned a trip to Edmonton with a friend’s birthday celebration at Sabor on our to do list. Unfortunately she was not able to come, the staff still made her feel like she was there. A warm birthday card, beautiful greeting by Pamela, and exquisite desserts. With a face time our friend felt some amazing energy and love. In addition the food was plated and paired with absolutely amazing beautiful touches. The scallops in cava cream, the seafood platter, meat platter and the gorgeous lobster and mushroom risotto was prepared perfectly! We really appreciated the menu guidance, and the total package for an outstanding evening. Thank you to all the team that made it happen. We will be back again soon.
   - name: "Justin Tan"
     rating: 5
     comment: |
@@ -65,6 +55,16 @@ reviews:
       Service was top notch, friendly staff, took his time to explain the menu, and check on us regularly
       
       Decor was great. Love the ambience
+  - name: "Catherine Le"
+    rating: 5
+    comment: |
+      Annie was our server but the rest of the staff also helped to make our evening magical. We were a larger party and came to celebrate my father in law's birthday. The staff made us feel so welcomed and taken care of.
+      
+      I used to think of Sabor just for date nights, but after this experience I realized it truly is a family restaurant, too. They made our kids feel so special and seen. The food was impeccable, including the kid's pasta- we were both surprised by the quality of the dish!
+      
+      Our parents also enjoyed their meal. We shared the meat and seafood platters and dessert platter, too. Everything was perfect, the cook of the all the meats and seafood were amazing. Dessert selection was wide and had something for everyone. Great evening!!
+      
+      You can tell they care so much, and I can see why this is a long standing institution for downtown dining. Bustling and busy on a Wednesday evening.
   - name: "Ana P"
     rating: 5
     comment: |

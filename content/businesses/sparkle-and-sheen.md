@@ -21,7 +21,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/sparkle-and-sheen-1.jpg", "/photos/sparkle-and-sheen-2.jpg", "/photos/sparkle-and-sheen-3.jpg"]
 rating: 4.7
-review_count: 481
+review_count: 482
 price_range: "$$"
 amenities:
   - "Residential Cleaning"
@@ -50,14 +50,14 @@ reviews:
       Kudos to Serena for making this happen on such short notice. She really understood our situation and went above and beyond to get us scheduled, even though it was a weekend and a holiday for them.
       Highly recommend Sparkle & Sheen to anyone looking for a reliable and top-quality cleaning service!
       Thanks so much guys—please keep up the great work!
+  - name: "Deb Dagg"
+    rating: 5
+    comment: |
+      Started off not great but they were very professional and dealt with the issue in a timely fashion.  I am pleased and am booking a second visit.  This is where I will see in real time without the anxiety. If it is as good as I got I will give them 6 stars.  My technician  ERIN was professional friendly —polite —informative and delightful!!🥳☺️🥰.
   - name: "Casey Sobool"
     rating: 3
     comment: |
       We got our move out cleaning done by Sparkle & Sheen and while the cleaning itself was done great we also had booked a carpet cleaning service that was cancelled day of which put us in a tough spot as the new house buyers were moving in the next day. The communication during the original house cleaning was very good however the carpet cleaning machine breaking and not having another appointment available for about a week was quite frustrating. Getting a hold of the company is very easy and they have great customer service.
-  - name: "Kendra Raffael"
-    rating: 5
-    comment: |
-      We have had Sparkle and Sheen helping us out for the past year with monthly cleaning and it was made such a difference. Its the best feeling coming home after they've come. Samantha, Alyssa, and Grace have been awesome. They are flexible with scheduling, friendly, respectful and reliable.
   - name: "Sheila Woinaroski"
     rating: 5
     comment: |

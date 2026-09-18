@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/studio-107-hair-1.jpg", "/photos/studio-107-hair-2.jpg", "/photos/studio-107-hair-3.jpg"]
 rating: 4.9
-review_count: 399
+review_count: 400
 price_range: "$$$"
 amenities:
 
@@ -28,10 +28,6 @@ tags: ["edmonton", "cuts-styling"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Angela Catherine"
-    rating: 5
-    comment: |
-      I went to Studio 107 to get highlights and a cut before my daughter’s wedding. Jeni recommended the colour that she thought would best suit both me and the hairstyle I have planned for the wedding. She did a fabulous job on the color as well as giving some much-needed shape to my overgrown, curly hair. I am very happy with the cut and colour and would highly recommend Jeni.
   - name: "Cheryl McFarlane"
     rating: 5
     comment: |
@@ -48,8 +44,13 @@ reviews:
     rating: 5
     comment: |
       Kari is an absolutely phenomenal stylist. Her foil placement, colour recommendations and friendly demeanour are unmatched. She is also amazing with cuts and styling. Studio 107 is such a beautiful salon, amazing products, friendly staff and calming ambiance. My husband now goes there too! Highly recommend Kari at Studio 107.
-  - name: "Sara Louise"
+  - name: "Emily Paulena"
     rating: 5
     comment: |
-      Kari is absolutely incredible at what she does. I think it’s the first time a hairdresser, not only gave me what I wanted but exceeded my expectations. I left feeling 20 years younger! Kari is extremely talented and passionate and hair is definitely her calling. I was worried about changing my hairdresser, as she’d left hair to raise her child. My hair needed so much attention and I walked out feeling amazing! Studio 107 is beautiful and the staff are so nice. Thank you for the best experience at your salon and thank you to Kari. I will never go anywhere else! ♥️
+      Awesome! I seen jeni here. She’s been doing hair for over a decade but she is new here, so was I so it was good match ❤️ I had a really bad highlight job done elsewhere & came here for a root smudge to fix it & she did an EXCELLENT job!!! I recently went and used purple shampoo which actually took away the bright blonde she made happen for me but I’m coming back this week to see if we can improve it but that was all my fault lol
+      The prices are really good for the level of expertise you get. If the stylist isn’t sure she will go & ask her boss or whoever which I really respect!! Everything is done with patience here, it’s not rushed & it’s got an all around great vibe.
+  - name: "Angela Catherine"
+    rating: 5
+    comment: |
+      I went to Studio 107 to get highlights and a cut before my daughter’s wedding. Jeni recommended the colour that she thought would best suit both me and the hairstyle I have planned for the wedding. She did a fabulous job on the color as well as giving some much-needed shape to my overgrown, curly hair. I am very happy with the cut and colour and would highly recommend Jeni.
 ---

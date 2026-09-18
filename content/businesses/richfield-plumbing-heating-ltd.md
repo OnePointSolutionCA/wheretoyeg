@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/richfield-plumbing-heating-ltd-1.jpg", "/photos/richfield-plumbing-heating-ltd-2.jpg", "/photos/richfield-plumbing-heating-ltd-3.jpg"]
 rating: 4.9
-review_count: 514
+review_count: 515
 price_range: "$$"
 amenities:
 
@@ -33,16 +33,14 @@ reviews:
     comment: |
       Highly recommend the team at Richfield Plumbing & Heating. I initially considered hiring a plumber from a marketplace, but choosing a professional team was definitely the best decision. You might save a couple of hundred dollars going the other route, but when it comes to home service, honesty and trust are everything.
       They were amazing, they responded and gave me a quote over the weekend and showed up early the next morning to get the job done. Dan was great with communication, and Steve was a total professional; he swapped out my old water tank and left everything spotless. They’re super straightforward with their pricing and only provide top-quality, professional equipment that you just can't find in retail. It’s a huge relief having a reliable team I can call anytime if there's an issue. Thanks again for the help.
+  - name: "Darrin Eriksen"
+    rating: 5
+    comment: |
+      I have had many different plumbers come through my house for installations and service over my 40 years of home ownership. None have been as thorough and attention to detail as much as Richfield has. They have made many recommendations for things to watch in the future. If you have yet to meet Dan and his team over there, you are doing yourself a disservice. They are the best in the city hands down.
   - name: "Jim Falconer"
     rating: 5
     comment: |
       We called Richfield Plumbing last week because we thought our sewer cleanout was corroded and had leaked.  Stephanie took our call and we were pleasantly surprised to hear that she could get a plumber to us the next day.  Taylor showed up on time and quickly determined that the problem was not the sewer cleanout but a poorly installed toilet on the main floor, directly above.  He gave us an estimate before starting the work and asked if we still wanted the sewer cleanout fixed.  The toilet was removed and he showed us the problem.  He re-installed the toilet correctly and then replaced the cast iron clean out with a new PVC cleanout.  He was here about 5 hours and the cost was less than I had thought.  Great office reception, great work and a very competent plumber.  Thank you Richfield Plumbing & Heating.
-  - name: "Corey Purdy"
-    rating: 5
-    comment: |
-      Had a good experience with Richfield. Plumber on site was knowledgeable, had to problem solve together making sure we scoped the right line the first time over the phone. After the work was done, let them know we were on a deadline for the report and they were happy to go above and beyond to assure we had the report the next morning.
-      
-      Would recommend this company, worth the call!
   - name: "Janice Williamson"
     rating: 5
     comment: |

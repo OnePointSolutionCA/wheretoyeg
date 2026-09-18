@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–2:30 PM"
 photos: ["/photos/thai-corner-restaurant-bakery-1.jpg", "/photos/thai-corner-restaurant-bakery-2.jpg", "/photos/thai-corner-restaurant-bakery-3.jpg"]
 rating: 4.8
-review_count: 710
+review_count: 711
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,6 +30,14 @@ tags: ["edmonton", "thai"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "ize rippy"
+    rating: 5
+    comment: |
+      We had an incredible meal at Thai Corner Restaurant & Bakery! Everything was so delicious and authentic.
+      I ordered the papaya salad, sticky rice, and Thai sausage. The papaya salad was completely on point, and the sticky rice was served soft and chewy with the perfect texture. My husband had the Khao Soi and thoroughly enjoyed it.
+      The highlight of our visit was the coconut pandan cake—it was light, fresh, and delightfully not too sweet.
+      
+      We will definitely be back!
   - name: "Cernan"
     rating: 5
     comment: |
@@ -54,8 +62,4 @@ reviews:
       Would love to visit again and try different dishes. But it’s a bit far from my home. Highly recommend to open a second location in the west end. 😊
       
       Visited again to try the chicken dish. Was not as impressive as the first visit. But still pretty good.
-  - name: "Bennis Lam"
-    rating: 4
-    comment: |
-      The food tastes good and is close to the original style. The Pad Thai tastes a bit strong for my liking. The staff are nice as well.
 ---

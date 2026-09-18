@@ -5,7 +5,7 @@ category: "photographers"
 neighborhood: "Edmonton"
 address: "118 St SW, Edmonton, AB T6W 2E4"
 rating: 5
-review_count: 55
+review_count: 58
 tier: "featured"
 phone: "(437) 229-4988"
 website: "https://theportraitpatch06.shootproof.com/"
@@ -32,10 +32,10 @@ reviews:
     rating: 5
     comment: |
       We had a wonderful experience with our baby’s photo shoot! The photographer was kind, patient, and made us feel completely at ease. The atmosphere was warm and welcoming, and the photos turned out absolutely beautiful. Highly recommend!
-  - name: "Amrit Kaur"
+  - name: "Gurpreet Singh"
     rating: 5
     comment: |
-      We had a photoshoot done for our daughter and couldn't be happier with the results. The photographer was patient, professional, and captured beautiful moments perfectly. The photos turned out amazing. Highly recommended!
+      You did a great job capturing the cake smash of our daughter. You made the photoshoot fun for us and her as well, she felt so comfortable. We will treasure these memories forever. Thank you for making our experience and day so special.
 hours:
   monday: "Closed"
   tuesday: "Closed"

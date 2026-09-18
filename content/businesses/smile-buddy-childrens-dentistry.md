@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Beaumont"
 address: "5301 Magasin Ave #102, Beaumont, AB T4X 1V8"
 rating: 4.9
-review_count: 363
+review_count: 365
 tier: "featured"
 phone: "(780) 929-3447"
 website: "https://smilebuddy.ca/?utm_source=google&utm_content=gbp"
@@ -34,10 +34,10 @@ reviews:
     rating: 5
     comment: |
       My son had his first dental cleaning today(4 years old). He said he loved it and wants to go there again. All the staffs are amazing and he got some soft toys and stickers and many more in a goodie bag. He had his x ray and examination as well. We got to know a lot of information on my son’s dental health. The team is extremely knowledgeable, kind and friendly. They also have a play area for kids. My son got so much comfortable with the space after playing for sometime. I highly recommend this place.
-  - name: "Sarah Lenik"
+  - name: "Amy"
     rating: 5
     comment: |
-      Every single person I encountered that works at Smile Buddy were the kindest people. The dentist that fixed my sons cavities was wonderful and very witty with distraction techniques during the appointment. My son asked if they even used a needle to freeze him after his first appointment. I sincerely recommend this dentist office.
+      The dentist and all the staff were incredibly kind and made sure my young child felt comfortable and wasn’t scared. I’m so glad we found such a wonderful dental clinic. Thank you so much for taking such great care of my child!
   - name: "Jessica Worden"
     rating: 5
     comment: |

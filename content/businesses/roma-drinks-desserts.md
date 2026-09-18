@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/roma-drinks-desserts-1.jpg", "/photos/roma-drinks-desserts-2.jpg", "/photos/roma-drinks-desserts-3.jpg"]
 rating: 5
-review_count: 8
+review_count: 10
 price_range: "$$"
 amenities:
 

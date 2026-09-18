@@ -6,7 +6,7 @@ subcategory: "steakhouse"
 neighborhood: "Mill Woods"
 address: "South Entrance, 4810 Calgary Trl NW, Edmonton, AB T6H 5H5"
 rating: 4.2
-review_count: 2356
+review_count: 2359
 tier: "featured"
 phone: "(780) 437-5616"
 website: "http://www.sawmill.ca/"
@@ -18,18 +18,6 @@ reviews:
     rating: 5
     comment: |
       Our server was a real pro. I don't remember his name, but he was an older guy, maybe Italian. The restaurant wasn't busy while we were there. A shame, really. I had the lamb tenderloin, which was okay, but I think I'd go back to the prime rib next time, as it's always great. The others in my party really enjoyed the pork chop, lobster macaroni, and prime rib. The starters of crab stuffed mushrooms and bacon wrapped scallops were very good.
-  - name: "Olivia"
-    rating: 5
-    comment: |
-      Delicious food and service is friendly + quick! We got the ribeye steak, escargot, and lobster mac & cheese. The prices are as expected for a steakhouse, and we thought the meal was filling and yummy :-)
-      
-      The dining area is beautiful, with big chandeliers and old timey music.
-      
-      A large dining area and it doesnt get too busy. We did not make a reservation and did not have to wait to be seated.
-      
-      Lots of free parking space!
-      
-      Would recommend for dates and small groups :-)
   - name: "Brown Dude"
     rating: 5
     comment: |
@@ -42,10 +30,24 @@ reviews:
       The warm, inviting atmosphere is perfect for both special occasions and a nice night out.
       
       Highly recommend!
-  - name: "Dale Shuya"
-    rating: 4
+  - name: "Olivia"
+    rating: 5
     comment: |
-      Stopped in for a work dinner, I had been to this location about a year ago on the lounge side. This time we were in the restaurant side. I had the prime rib and my coworker had the ribeye steak. Both were very good. The prime rib was so tender. I would go again.
+      Delicious food and service is friendly + quick! We got the ribeye steak, escargot, and lobster mac & cheese. The prices are as expected for a steakhouse, and we thought the meal was filling and yummy :-)
+      
+      The dining area is beautiful, with big chandeliers and old timey music.
+      
+      A large dining area and it doesnt get too busy. We did not make a reservation and did not have to wait to be seated.
+      
+      Lots of free parking space!
+      
+      Would recommend for dates and small groups :-)
+  - name: "Jeremy Florindo"
+    rating: 5
+    comment: |
+      It was our first time at Sawmill Steakhouse, and it was an amazing experience. The restaurant truly stands out from others. Everything was excellent, and we highly recommend it!
+      
+      @CHEFJ'S.COM
 hours:
   monday: "11:30 AM–10:00 PM"
   tuesday: "11:30 AM–10:00 PM"

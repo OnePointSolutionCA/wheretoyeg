@@ -14,10 +14,6 @@ google_maps: "https://maps.google.com/?cid=2646539185951530367&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/streats-st-albert-kitchen.jpg"
 reviews:
-  - name: "Darlene Jeannotte"
-    rating: 5
-    comment: |
-      Amazing burrito and the fries are the BEST! Great service, friendly environment, thoroughly enjoyed our dinner..a huge portion, definitely shareable!
   - name: "Laura Kuschmierz"
     rating: 5
     comment: |
@@ -40,6 +36,10 @@ reviews:
       The service was quite good and the staff seemed friendly and the store appeared to be clean but that's where the positives  end. All of our orders had French fries as sides or part of the meal and they for the most part were completely inedible. They were over cooked and stale. The smashburger was dry and had almost no toppings (only a small amount of cheese and a house sauce). The kids chicken fingers seemed ok and the fish was ok. The price was VERY high as well for the quality.
       
       I was seriously disappointed by this because I had high hopes for this chain.
+  - name: "Darlene Jeannotte"
+    rating: 5
+    comment: |
+      Amazing burrito and the fries are the BEST! Great service, friendly environment, thoroughly enjoyed our dinner..a huge portion, definitely shareable!
 hours:
   monday: "11:00 AM–8:00 PM"
   tuesday: "11:00 AM–8:00 PM"

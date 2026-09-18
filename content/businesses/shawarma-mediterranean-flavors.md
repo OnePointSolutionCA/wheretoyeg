@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/shawarma-mediterranean-flavors-1.jpg", "/photos/shawarma-mediterranean-flavors-2.jpg", "/photos/shawarma-mediterranean-flavors-3.jpg"]
 rating: 4.9
-review_count: 276
+review_count: 283
 price_range: "$"
 amenities:
   - "Halal"

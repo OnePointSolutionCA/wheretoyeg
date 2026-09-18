@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Spruce Grove"
 address: "215 McLeod Ave, Spruce Grove, AB T7X 0G2"
 rating: 4.5
-review_count: 671
+review_count: 672
 tier: "featured"
 phone: "(780) 960-6694"
 website: "http://www.somethingelserestaurant.com/"
@@ -51,14 +51,14 @@ reviews:
       We asked for the bill, and the stirfry was still on it.  I feel like the waitress just didn’t know what to do.. but after asking about it; she removed it.  The bill was still $85 for 1 meal, 1 appetizer, and a couple drinks.  Considering the low quality of every dish we had, the prices are outrageous.
       
       If you want actual home made Greek food, go to Alexander’s in Stony Plain.  Just a short drive away and the food is considerably better.
-  - name: "Food monster"
-    rating: 5
-    comment: |
-      Absolutely impressive this place is a hidden gem we had lasagna it was incredible saucy cheese in all the perfect amounts. We will definitely be back ♥️
   - name: "Harsh Darji"
     rating: 5
     comment: |
       Amazing food, people and place. I got the veg pizza and blackened chicken. It was the best pizza and blacked chicken I’ve  had in a while! I was really surprised it came out that good haha. Absolutely recommend everyone come here to grab food!
+  - name: "Brenda Thomaser"
+    rating: 3
+    comment: |
+      I ordered the 9 oz New York steak it was not near a 9 oz. It was dry with a fair amount of grizzle. The meal was over $40.00 I was asked if I wanted soup I replied no I would like a salad. No only comes with soup..😞 The service was good my husband  ordered veal cutlets and he said it was good. Our bill with tip was $90.00 plus we had 1 coffee and a glass of water. We have come to this restaurant for many years. I am not sure if we will go back, if I want a steak it will never be from here.
 hours:
   monday: "11:00 AM–9:00 PM"
   tuesday: "11:00 AM–9:00 PM"

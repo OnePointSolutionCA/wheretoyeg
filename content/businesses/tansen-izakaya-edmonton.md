@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–10:00 PM"
 photos: ["/photos/tansen-izakaya-edmonton-1.jpg", "/photos/tansen-izakaya-edmonton-2.jpg", "/photos/tansen-izakaya-edmonton-3.jpg"]
 rating: 4.6
-review_count: 1120
+review_count: 1168
 price_range: "$"
 amenities:
   - "Dine-In"

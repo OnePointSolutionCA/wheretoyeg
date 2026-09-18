@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/south-side-chiropractic-1.jpg", "/photos/south-side-chiropractic-2.jpg", "/photos/south-side-chiropractic-3.jpg"]
 rating: 4.8
-review_count: 203
+review_count: 204
 price_range: "$$"
 amenities:
 
@@ -28,16 +28,10 @@ tags: ["edmonton", "chiropractors"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Brent Clarke"
+  - name: "Katie Walker"
     rating: 5
     comment: |
-      I’ve been seeing Dr. Kyla Butz for the past 12 visits, and I can’t recommend her enough. Not only is she extremely knowledgeable and approaches you with the upmost care, but she has a fantastic personality, loves what she does, and makes you feel very comfortable.
-      
-      For years, I dealt with constant neck pain, weekly migraines, and persistent lower back issues from my time working as a carpenter. Since starting treatment with Kyla, the difference has been incredible. Time between migraines has significantly increased, and continues to do so.
-      
-      Beyond that, I’m sleeping better, my mood has improved, and my flexibility and mobility have noticeably increased, especially when I’m playing the sports I love. I genuinely feel like I’m getting my quality of life back.
-      
-      Investing in your health is one of the best decisions you can make. I was honestly skeptical at first, but deciding to see Dr. Kyla at Southside has been one of the best decisions I’ve made in a long time. If you’re dealing with pain or mobility issues, I wouldn’t hesitate to highly recommend her or the team at southside chiro.
+      Everyone from Randi at the front to the doctors themselves are nothing less than fantastic. I’ve been to a couple chiropractors previously and have never experienced such knowledgeable, kind, and professional care. They go above and beyond for their patients here to ensure that they are getting the proper care, providing availability that meets a wide range of needs, and are covering all bases with the latest technology. While Dr Kyla is the only one I haven’t had the pleasure of meeting, I’ve heard nothing but amazing things about her as well. I would highly recommend checking this clinic out, you won’t be disappointed!
   - name: "Liam Ramadan"
     rating: 5
     comment: |
@@ -54,13 +48,18 @@ reviews:
       I can confidently say this was one of the best healthcare experiences I’ve ever had. From the moment I walked in, I felt genuinely cared for and welcomed. The professionalism, warmth, and attention to detail were truly exceptional.
       
       My chiropractor took the time to thoroughly explain everything, listened attentively to my concerns, and created a treatment plan that made me feel comfortable and confident every step of the way. Not only did I experience significant relief physically, but I also left every appointment feeling refreshed, valued, and cared for.
+  - name: "Brent Clarke"
+    rating: 5
+    comment: |
+      I’ve been seeing Dr. Kyla Butz for the past 12 visits, and I can’t recommend her enough. Not only is she extremely knowledgeable and approaches you with the upmost care, but she has a fantastic personality, loves what she does, and makes you feel very comfortable.
+      
+      For years, I dealt with constant neck pain, weekly migraines, and persistent lower back issues from my time working as a carpenter. Since starting treatment with Kyla, the difference has been incredible. Time between migraines has significantly increased, and continues to do so.
+      
+      Beyond that, I’m sleeping better, my mood has improved, and my flexibility and mobility have noticeably increased, especially when I’m playing the sports I love. I genuinely feel like I’m getting my quality of life back.
+      
+      Investing in your health is one of the best decisions you can make. I was honestly skeptical at first, but deciding to see Dr. Kyla at Southside has been one of the best decisions I’ve made in a long time. If you’re dealing with pain or mobility issues, I wouldn’t hesitate to highly recommend her or the team at southside chiro.
   - name: "Jenn Schibler"
     rating: 5
     comment: |
       First time utilizing the chiropractor services & i have had many reservations over the years before deciding to start. I had been referred by my previous chiropractor when i returned back home & my experience at South Side Chiropractor has been nothing but great. Such friendly staff, so welcoming, and extremely knowledgable while also being patient getting you comfortable into the services. No matter who you were to see at this clinic, you will be in good hands!
-  - name: "Felis Silvestris"
-    rating: 5
-    comment: |
-      My overall health had a massive improvement in just 6 weeks. My back, shoulder, and neck pain significantly reduced; I can breathe better, and my posture is so much better.
-      Dr. Kyla is amazing. She’s patient and very informative throughout the chiropractic care process.
 ---

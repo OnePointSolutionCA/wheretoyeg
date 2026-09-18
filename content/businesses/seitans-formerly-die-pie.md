@@ -47,16 +47,12 @@ reviews:
     rating: 5
     comment: |
       We ordered delivery from Seitan's last night and the food was excellent. We are fan's of the perogy & meatlovers pizza, fried chik'n, cheese bites and there was a deal for chik'n cabbage salads too. We were especially impressed with the messages on the boxes! Very fun touch. Thanks to the staff member who added these cute messages to the boxes.
-  - name: "Darcy T"
-    rating: 5
-    comment: |
-      A bestie brought me to Seitans (he's a regular) while I was visiting Edmonton from Vancouver, and it was excellent!
-      
-      We started with the garlic broccoli, I had the Banh Mi, and we finished with the sourdough beignets and everything was delicious. The staff were incredibly friendly, happy to share their favourites, and made me/ us feel very welcome. (Sorry I didn't catch anyone's name, or I'd give them kudos!)
-      
-      I enjoyed it so much that I wanted to go back every day.  I only managed to make it back once before heading home, and it was just as good the second time.  I'm really glad I did, and I'll definitely be back the next time I'm in Edmonton.
   - name: "jackson wong"
     rating: 5
     comment: |
       Very clean atmosphere. Is a Vegan restaurants for those who loves vegan food . I find the price reasonable cuz of the quality and ingredients used . I dined in today but I also ordered a pizza and dessert for take out . The establishment is known for its pizza . Give it a try
+  - name: "Maxine Rudy"
+    rating: 5
+    comment: |
+      I adore this place! The food is delightful. The pizzas are phenomenal and the kale salad is a family favorite.The service is terrific and I always feel positive about the experience, whether we eat in or get delivery. The last time the server put the cutest little notes on the pizza boxes and it really made my day. Keep up the good work!
 ---

@@ -38,6 +38,16 @@ reviews:
       We had an absolutely incredible experience working with Sara during our move from Ontario to Edmonton. From start to finish, she went above and beyond—not only helping us find our dream home, but also guiding us through every step of the process, including inspections, closing, and all the details that can feel overwhelming with a long-distance move.
       Sara has an exceptional eye for detail and is refreshingly honest, which made us trust her completely. She quickly understood us as buyers—our needs, wants, and non-negotiables—and never wasted our time showing us homes that didn’t truly align with what we were looking for. That level of care and understanding made the entire experience smooth and stress-free.
       We truly couldn’t recommend Sara enough. She is professional, knowledgeable, and genuinely invested in her clients. We look forward to working with her again in the future and would recommend her without hesitation to anyone buying or selling a home.
+  - name: "Oscar Gomez"
+    rating: 5
+    comment: |
+      We are so grateful to Sara Kalke and Ferdinand for helping us sell our cherished townhouse and find our dream home. From start to finish, Sara and Ferdinand were professional, knowledgeable, patient, and always there to guide us through every step.
+      
+      Selling a home filled with so many memories was emotional, but Sara and Ferdinand helped make the process smooth and stress-free. We truly felt that our best interests were always a priority.
+      
+      We couldn’t have asked for a better realtor and would highly recommend Sara Kalke and Ferdinand to anyone looking to buy or sell a home. Thank you for helping us begin this exciting new chapter!
+      
+      Sincerely, Oscar and Johanna
   - name: "Mathew DeGraaf"
     rating: 5
     comment: |
@@ -51,8 +61,4 @@ reviews:
       I found it priceless to have a local trusted partner to handle the small miscellaneous tasks that arose !
       Thank You and appreciated all your help.
       Jim
-  - name: "Tony Higgins"
-    rating: 5
-    comment: |
-      Sara & Ferdinand were excellent to work with.  Patient and accomodating while we narrowed down the search - and kept changing our minds along the way.  They provided expert and practical guidance and tips throughout the process, until we ultimately landed in a home we love in a location that's perfect for us.  I highly recommend their services and we intend to work with them again should we ever move.
 ---

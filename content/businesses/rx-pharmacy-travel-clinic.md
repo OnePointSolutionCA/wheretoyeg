@@ -28,6 +28,10 @@ tags: ["edmonton", "pharmacies"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "John Roxas"
+    rating: 5
+    comment: |
+      Peter was great. I like his straightforward approach and he was clear at communicating. No consult fees. Just get your shots and leave. Great service and would recommend those to those who plan to travel out of the country.
   - name: "Pearl Motkoski"
     rating: 5
     comment: |
@@ -40,16 +44,8 @@ reviews:
     rating: 5
     comment: |
       Excellent service and communication, I can not recommend this travel clinic enough! Peter, the pharmacist, offered a complimentary consultation via email and was easily accessible by phone to answer any questions. He is kind, personable and handled my fear of needles with grace. Direct billing was seamless. Thank you for the comfortable and enjoyable service!
-  - name: "Noemie Laganiere"
+  - name: "Bill Eaton"
     rating: 5
     comment: |
-      I contacted Rx Pharmacy about vaccination requirements for an upcoming trip and I am so happy with the service we received! Peter contacted me right away with tons of information and made booking an appointment extremely easy. The appointment itself was super quick and Peter answered all of our questions. Would definitely recommend this pharmacy to anyone!
-  - name: "OJ"
-    rating: 5
-    comment: |
-      We first visited this travel clinic in 2023 before a trip outside Canada, and we had a good experience then, though I can’t recall the pharmacist’s name. When we returned recently, we were assisted by Peter, and he was excellent.
-      
-      I submitted the online form ahead of time and quickly received clear information about the vaccines recommended for our trip. Peter was very knowledgeable and walked us through everything, including the oral vaccines and medications we needed to take home. We also received injections, and since my husband is afraid of needles, I really appreciated how Peter handled it. He was reassuring, calm, and did a great job distracting him so he felt comfortable.
-      
-      Overall, we had a smooth and positive experience both times we’ve come here. Highly recommend this pharmacy for travel vaccinations and advice!
+      Great spot.  Searched up travel pharmacies, read reviews and all said what solid customer service and attention to detail.  Went for a trip we have planned to Africa.  Did not disappoint.  GO THERE!
 ---

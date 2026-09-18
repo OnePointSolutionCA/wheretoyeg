@@ -19,7 +19,7 @@ hours:
   sunday: "7:00 AM–10:00 PM"
 photos: ["/photos/stukalo-boxing-academy-inc-1.jpg", "/photos/stukalo-boxing-academy-inc-2.jpg", "/photos/stukalo-boxing-academy-inc-3.jpg"]
 rating: 5
-review_count: 33
+review_count: 34
 price_range: "$$"
 amenities:
 

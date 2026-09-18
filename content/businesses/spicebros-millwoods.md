@@ -6,7 +6,7 @@ subcategory: "indian-pakistani"
 neighborhood: "Mill Woods"
 address: "5317 23 Ave NW, Edmonton, AB T6L 7G4"
 rating: 4.6
-review_count: 827
+review_count: 833
 tier: "featured"
 phone: "(780) 244-2938"
 website: "https://spicebros.com/"
@@ -50,8 +50,8 @@ hours:
   monday: "11:00 AM–3:00 AM"
   tuesday: "11:00 AM–3:00 AM"
   wednesday: "11:00 AM–3:00 AM"
-  thursday: "11:00 AM–12:00 AM"
-  friday: "Closed"
+  thursday: "11:00 AM–3:00 AM"
+  friday: "11:00 AM–3:00 AM"
   saturday: "12:00 PM–3:00 AM"
   sunday: "12:00 PM–3:00 AM"
 ---

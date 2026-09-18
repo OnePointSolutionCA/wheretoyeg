@@ -18,6 +18,10 @@ reviews:
     rating: 2
     comment: |
       They advertised $13.95 on any gourmet pizza but don’t honor the price on gluten free crust. I understand if there’s an upcharge for a non standard crust ($13.95 for the pizza $7 crust upgrade $20.95) I’m being pretty generous ignoring the fact that charging $7 for a allergy “upgrade” to cauliflower crust is VERY expensive and is arguably a downgrade (smaller and less toppings). I asked the cashier / manager and they just smiled and nodded along without making any effort to address the price discrepancy. Also the pizza / crust was just ok (nothing special). adjusted rating following the owner response from 3 to 2
+  - name: "Michelle Pullishy"
+    rating: 5
+    comment: |
+      They greet me by name,  and always make me feel like my order is appreciated to them.   My family really likes the pizza crust and the sauce and they like to try new toppings as well.   The Red Swan is our new favorite pizza restaurant.
   - name: "Vishwa Patel"
     rating: 5
     comment: |
@@ -33,10 +37,6 @@ reviews:
     rating: 5
     comment: |
       I’ve tried a lot of pizzas, but Red Swan is easily the best! I was driving from Jasper to Edmonton and stumbled across this location near the highway. The pizza was absolutely delicious with generous, fresh toppings. I also love their signature sesame seed crust—it adds the perfect crunch and flavor! The service was incredibly fast and friendly. Highly recommend if you’re passing through!
-  - name: "Jess Hoover"
-    rating: 5
-    comment: |
-      First time ordering from Red Swan Pizza but it won’t be the last. The pizza is delicious. We ordered a Hawaiian and I have to say it might be the best ham and pineapple pizza I’ve ever had (and that’s saying a lot because it’s my go to pizza order). The crust is perfectly cooked. And the sesame seeds are a yummy addition!
 hours:
   monday: "11:00 AM–11:00 PM"
   tuesday: "11:00 AM–11:00 PM"

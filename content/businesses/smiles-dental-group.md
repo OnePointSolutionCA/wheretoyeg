@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Spruce Grove"
 address: "141 Century Crossing #206, Spruce Grove, AB T7X 0C8"
 rating: 4.8
-review_count: 954
+review_count: 962
 tier: "featured"
 phone: "(587) 410-5939"
 website: "https://smilesdentalgroup.com/dental-clinics/spruce-grove-dental-clinic/"
@@ -14,10 +14,6 @@ google_maps: "https://maps.google.com/?cid=14024403840959045116&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/smiles-dental-group.jpg"
 reviews:
-  - name: "Charles Bondoc"
-    rating: 5
-    comment: |
-      Had my cleaning yesterday. The reception staff was welcoming and quickly guided me to my hygienist, Shaina. She was friendly and professional, which made the whole experience very comfortable. She did a great job cleaning and polishing my teeth. I didn’t experience any discomfort at all. She was also knowledgeable and gave helpful advice on how I can improve my dental health. I really appreciated that she let me choose the TV channel as well. I would definitely recommend her.
   - name: "Christie Braden"
     rating: 5
     comment: |
@@ -52,6 +48,10 @@ reviews:
     rating: 5
     comment: |
       For someone that has Dental Anxiety, I felt very comfortable coming here for my treatments.  The staff are very friendly, caring, and nonjudgmental (which is huge for me). I would definitely recommend coming here.  Will be getting all my work done here!!
+  - name: "Roxie Bretzer"
+    rating: 5
+    comment: |
+      I was able to get in to see the dentist on Friday at 3:30 for a rather extensive procedure. Obviously the appt went past closing time,  but the dentist and girls were so good about staying.  The work the dentist did was awesome! They are all so thoughtful and considerate and the dentists are so good! Thank you so much!
 hours:
   monday: "9:00 AM–5:00 PM"
   tuesday: "9:00 AM–5:00 PM"

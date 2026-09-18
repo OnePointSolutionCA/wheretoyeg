@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "St. Albert"
 address: "11 St Anne St, St. Albert, AB T8N 1E8"
 rating: 4.7
-review_count: 565
+review_count: 567
 tier: "featured"
 phone: "(825) 993-9833"
 website: "http://www.tealiciousblend.com/"
@@ -13,6 +13,10 @@ google_maps: "https://maps.google.com/?cid=12161399966112036440&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/tealicious-blend.jpg"
 reviews:
+  - name: "Ольга Даниленко"
+    rating: 5
+    comment: |
+      Everything looks very unremarkable from the outside, but inside it’s very cozy and beautiful, but for me the main thing is that it’s clean! Very friendly staff! I recommend this place, everything is delicious here 🤤 There are good offers at a bargain price, they are also in the offers of delivery around the city. We are glad that we found this place with these divine sandwiches! ❤️
   - name: "Sudip Barua"
     rating: 5
     comment: |
@@ -34,10 +38,6 @@ reviews:
       The space itself is clean, well-organized, and thoughtfully decorated. The wall decals add character, and the plush toys give the café a warm, inviting feel without being overwhelming. Staff were friendly and welcoming, and service was quick and efficient. Music volume was comfortable, making it easy to chat.
       
       The menu is extensive and creative, with many interesting options we’re looking forward to trying on future visits. Overall, we really enjoyed our visit and think this is a great addition to the neighborhood.
-  - name: "Tina Thomas"
-    rating: 5
-    comment: |
-      Delish. Had the bacon egg and bulgogi. Both were so good. Cute spot and great looking sandwich too.
 hours:
   monday: "11:00 AM–9:00 PM"
   tuesday: "11:00 AM–9:00 PM"

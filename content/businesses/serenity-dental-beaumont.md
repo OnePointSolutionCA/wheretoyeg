@@ -19,14 +19,6 @@ reviews:
     comment: |
       This was my second visit at Serenity Dental. The first visit was for an immediate concern.  I was booked in quickly and taken care of immediately.  Dr. Jas's assistant was fantastic. I appreciated her kind care and friendliness very much. Today's visit was equally as positive. Dr Jas and his staff are friendly and professional.
       I'm happy to recommend my family and friends to this clinic.
-  - name: "Denielle Johnson"
-    rating: 5
-    comment: |
-      Dr. Jas and his team have been absolutely wonderful for our entire family. From the moment you walk in, the staff is friendly, welcoming, and professional. They go out of their way to make both kids and adults feel comfortable, which makes every visit a positive experience.
-      
-      Dr. Jas is knowledgeable, patient, and takes the time to explain everything clearly, so you always feel confident in the care you’re receiving. The clinic is clean, well-organized, and runs on time, which I really appreciate with a busy family schedule.
-      
-      We’re so grateful to have found a dental office we can trust for everyone in our household. Highly recommend Dr. Jas and his amazing team!
   - name: "Lisa McCormick"
     rating: 5
     comment: |
@@ -41,10 +33,18 @@ reviews:
       Highly recommend Dr. Jas, Sharnee and the rest of his team. They take pride in what they do, and I have a great time when I'm there,  who can say that when you're at a dentist. Lots of laughs!
       Your comfort is a big priority,  they even let you choose what you want to watch on the television. "The office" however is a clinical favorite.
       Great place to go to get your smile back😁.
-  - name: "Valleen Daniels (Vee preemz)"
+  - name: "L S"
     rating: 5
     comment: |
-      “I had a great experience here. The staff were welcoming and professional, and the dentist took the time to explain everything clearly before starting. I was a bit nervous, but they made me feel comfortable and the procedure was completely painless. The clinic was clean and well-organized, and booking was easy. I would definitely recommend this clinic to anyone looking for a trustworthy dentist.” Definitely five star!!! Love my dentist!! 😇🫶🏼🤗🤩🤩🤩😬😬😬
+      We moved from a different province and have never had the high level of customer service and dental care as we did at Serenity. The new client process was quick and easy, we got in fast and the clinic is so clean and welcoming. Our whole family will be returning.
+  - name: "Shanara Aziz"
+    rating: 5
+    comment: |
+      Dental Anxiety is a real thing! This was before I went to Serenity Dental.
+      Everyone from the receptionist,  to hygienist, to Dr. Jas has been phenomenal!  Even the day after my filling, they called me to see how I was doing!!!
+      Before my procedure, they made sure I was comfortable.  Dr. Jas explained everything to me and ensured I was OK throughout.
+      I highly highly recommend Dr. Jas and his team!
+      If you are looking for a compassionate dentist, you need to visit Dr. Jas!
 hours:
   monday: "9:00 AM–5:00 PM"
   tuesday: "11:00 AM–7:00 PM"

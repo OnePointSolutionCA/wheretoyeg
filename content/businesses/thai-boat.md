@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "West Edmonton"
 google_maps_url: "https://maps.google.com/?q=Thai%20Boat%20Edmonton"
 hours:
-  monday: "Closed"
-  tuesday: "11:00 AM–9:00 PM"
-  wednesday: "11:00 AM–9:00 PM"
-  thursday: "11:00 AM–9:00 PM"
-  friday: "11:00 AM–9:00 PM"
-  saturday: "11:30 AM–9:00 PM"
-  sunday: "11:30 AM–9:00 PM"
+  monday: "11:00 AM–2:00 PM"
+  tuesday: "11:00 AM–2:00 PM"
+  wednesday: "11:00 AM–2:00 PM"
+  thursday: "11:00 AM–2:00 PM"
+  friday: "11:00 AM–2:00 PM"
+  saturday: "5:00 PM–10:00 PM"
+  sunday: "Closed"
 photos: ["/photos/thai-boat-1.jpg", "/photos/thai-boat-2.jpg", "/photos/thai-boat-3.jpg"]
-rating: 4.7
-review_count: 595
+rating: 4
+review_count: 497
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -28,43 +28,36 @@ tags: ["thai", "curry", "pad-thai"]
 active: true
 date_listed: "2026-08-18"
 reviews:
-  - name: "Dani Le"
+  - name: "James Soon"
     rating: 5
     comment: |
-      Came here to check out their menu, and it really hit the spot. The Pad Thai was perfectly cooked and had a great balance of flavors, slightly sweet, a little tangy, and not too heavy. Everything tasted fresh, and the portion size was just right.
+      Chef "TERM" INATOR's food was reeeeeally good!!!!  Every dish we had was amazing, super tasty and good portion sizes!! There's a twist to each dish where it doesn't quite taste exactly like the average Thai dish.  It's better!!  ;) Didn't know Thai Boat had been around for decades, but now I can see why.  Location is a little off the beaten path....industrial shopping strip off 32 Ave NE... but ample parking and I went mainly for the food anyways, and not at all dissapointed!! Will be going back again for sure absolutely!
+  - name: "V"
+    rating: 3
+    comment: |
+      The combo deals are a lot of food and good value, but it seems almost too obvious that it’s the exact same ingredients tossed in different sauces. Felt like the veggies were poached almost; no stir fry char… the chicken and beef are a bit dry and cheap for quality. That being said it’s still pretty flavourful and an ok choice if you need something cheap & filling.
       
-      The atmosphere was relaxed and cozy, making it a good place to sit down and enjoy your meal. Service was quick and friendly, and everything came out without a long wait.
+      The service is really sweet and the corny posters are lowkey funny. Definitely a Thai sense of humour.
+  - name: "Hưng N."
+    rating: 4
+    comment: |
+      Good place for family dinner. Fun foods’ name, fun quotes around the wall.
       
-      Overall, it was a really solid experience. Nothing over-the-top fancy, but dependable and enjoyable. If you’re craving Thai food, especially pad thai, this place is definitely worth checking out. I’d come back again and try more from the menu.
-  - name: "Marc D."
+      Friendly staffs. Foods were delicious but quite spicy, you should ask for mild to taste it better. We ordered SOMTAM, surprisingly it not only went well with all main dishes, but also enhanced our meal!!
+      
+      Overall, one of the best Thai restaurants in NE. Definitely will come back many times!!
+  - name: "Derrick C."
     rating: 5
     comment: |
-      We've been on the hunt for a new Thai restaurant and I believe we've found our new favourite spot in Thai Avenue.
+      Always consistent food and service, simply put - very very good.
       
-      We stopped in for lunch on Friday afternoon. It was busy, but there wasn't a wait for any tables. The restaurant is very nicely appointed and very clean inside.
+      Had the cashew fried rice with prawns. Full of flavour and large sized prawns that are de-veined and flayed. Just amazing to see the time the kitchen staff takes to do this. Have been to many many restaurants and rarely do I see this done.  Have been here for dinner before, and the phone is just as good in the evening as it is during lunch - consistency, plays a huge factor in customer satisfaction. Portion sizes are just right.
       
-      We started with some kimchi and a green onion cake, both of which were very tasty, especially the green onion cake. We both ended up choosing one of their lunch specials, which happened to be yellow curry with chicken and coconut rice for both of us. It also included Tom Yum soup along with a vegetable spring roll and some fried tofu. The Tom Yum soup and yellow curry were extremely flavourful and very well spiced. We also both greatly enjoyed the coconut rice and vegetable spring roll. I didn't mind the fried tofu, but honestly tofu isn't my thing to begin with, but I still tried it nonetheless.
+      Service is always great as usual. Staff are very friendly and courteous, quick to seat you and quick to take your order. Food is fairly quick as well.  Can literally do lunch in under an hour.
       
-      Everything was reasonably priced and came out freshly prepared as well. Our server was also very hospitable and provided exceptional service.
-      
-      It's probably a good thing we don't live nearby, otherwise I'd be coming Thai Avenue Restaurant a lot more often for all their delicious food.
-  - name: "Csyra Piañar"
-    rating: 5
+      Restaurant is always clean, atmosphere is welcoming and warm.
+  - name: "briella kaleah martinez"
+    rating: 3
     comment: |
-      The food was very yummy and the portions were generous. The Crispy Chicken Salt & Pepper Stiry fry was very light, crispy and flavourful. The Green Curry w/ Beef had a nice mild spice to it and was a great topping for our coconut rice. For dessert we had the Rainbow Mango (mango sticky rice with mango ice cream) and was also very yummy and not too sweet. Will definitely be back.
-  - name: "Y.Kim"
-    rating: 5
-    comment: |
-      She had a reason for confidently recommending the Tom Yum—and She was right. The moment I tried the Tom Yum soup from the lunch set, I was genuinely surprised. It tasted just like what I had in Thailand.
-      •	Even the basics like the coconut rice were perfect—the flavor and texture were so good that I could’ve enjoyed it on its own.
-      •	The green curry was nicely balanced—spicy yet smooth—and the pad thai stood out with its well-seasoned, nutty flavor without being overly salty.(so many thai restaurant tend to use too much sauce)
-      •	What really made the experience memorable was the staff—their bright smiles and genuine friendliness.
-      
-      This is easily one of the best Thai restaurants I’ve had in Canada recently, and I’ll definitely be coming back.
-      
-      P.S. The Thai iced coffee is much sweeter than you might expect.
-  - name: "Racheel Jadee"
-    rating: 5
-    comment: |
-      Came across this place on Instagram and decided to take my mom for the first time on Mother’s Day and I will say it did not disappoint! I drive 30 mins from the southside just for this!! I get the Khao Soi and it is probably one of the best most flavourful dishes I’ve ever had in my life!!! Hands down my new favourite place and I’ve already been back 3 times since. The staff are amazing, such sweet people and the atmosphere is so inviting. If you haven’t already been here CHECK IT OUT! You will not be disappointed. 🙌🏼❤️
+      i was craving for padseeyou and went here. the serving for the noodles is little although the shrimp are big and a lot. The taste is really good. 4/5 for that. On the other hand the spring roll is too small and mostly just noodle and carrot no meat at all. it’s still fresh and crispy so 2.5/5 and lastly The cashew and basil(pork) 4/5. This is really good. i love the freshness and crunchiness of the dish but the coconut rice isn’t that good. taste like more just steam rice. overall the place is clean and love their quotes on the wall and paintings. overall the food is great
 ---

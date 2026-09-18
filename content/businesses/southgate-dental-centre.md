@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "10831 51 Ave NW, Edmonton, AB T6H 5T1"
 rating: 4.6
-review_count: 299
+review_count: 300
 tier: "featured"
 phone: "(780) 434-9566"
 website: "https://southgatedentalcentre.com/site/home?utm_source=G&utm_medium=LPM&utm_campaign=DentalCorp"
@@ -14,6 +14,10 @@ google_maps: "https://maps.google.com/?cid=1567781301060070944&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/southgate-dental-centre.jpg"
 reviews:
+  - name: "Shilpa S Sanal"
+    rating: 5
+    comment: |
+      I have been coming to this dental clinic for past 2 years , and my experience has consistently been excellent. Dr. Tan and team and Anu is always welcoming and genuinely caring which makes my each visit so comfortable. Highly recommended!!
   - name: "Marie Biatingo"
     rating: 5
     comment: |
@@ -28,10 +32,6 @@ reviews:
       A big shoutout as well to the wonderful hygienists, Krista and Sarah, who make routine cleanings thorough yet comfortable. Their friendly personalities and attention to detail truly stand out.
       
       Overall, the entire team at Southgate Dental Clinic is professional, caring, and dedicated to providing excellent patient care. I’m truly grateful to be one of their patients and highly recommend this clinic to anyone looking for a trustworthy and compassionate dental team.
-  - name: "Shilpa S Sanal"
-    rating: 5
-    comment: |
-      I have been coming to this dental clinic for past 2 years , and my experience has consistently been excellent. Dr. Tan and team and Anu is always welcoming and genuinely caring which makes my each visit so comfortable. Highly recommended!!
   - name: "Shelley Shaw"
     rating: 1
     comment: |

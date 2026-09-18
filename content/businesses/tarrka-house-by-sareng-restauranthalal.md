@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/tarrka-house-by-sareng-restauranthalal-1.jpg", "/photos/tarrka-house-by-sareng-restauranthalal-2.jpg", "/photos/tarrka-house-by-sareng-restauranthalal-3.jpg"]
 rating: 4.5
-review_count: 332
+review_count: 333
 price_range: "$"
 amenities:
   - "Halal"

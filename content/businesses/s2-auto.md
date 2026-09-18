@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Mill Woods"
 address: "5604 34 St NW, Edmonton, AB T6B 3S9"
 rating: 4.7
-review_count: 420
+review_count: 423
 tier: "featured"
 phone: "(780) 465-2509"
 website: "http://www.s2auto.com/"
@@ -28,10 +28,10 @@ reviews:
     rating: 5
     comment: |
       I have had an extremely positive experience at S2 Auto. I find them to be extremely honest whenever it comes to maintenance on my Acura vehicle. They will give you an extremely honest and trustworthy opinion on the maintenance of your vehicle compared to many dealerships and other service stations. I will definitely go to them again for any maintenance related issues for my vehicle.
-  - name: "Laurie Thomas"
+  - name: "Rick Heil"
     rating: 5
     comment: |
-      I have experienced several instances with S2 Auto for different issues with a couple of our vehicles over the past several years. The staff is consistently kind, knowledgeable and helpful. We are always satisfied with the quality of work provided. No hesitation whatsoever in recommending this business for all your automotive needs.
+      It is so very tough to find good honest mechanics and repair service for your vehicle, especially nowadays with all of the funky new equipment on new vehicles. The guys at S2 Auto are not only good, but they are honest and do not repair something you do t need or extra bill for something you don't need. I have faith in these fellows and their workmanship. If you want honest good people to repair your vehicle, this is the place. They treat you the way they want to be treated and are fair and honest. This is my go yo place for car/vehicle repair.
   - name: "Jove Matthew"
     rating: 5
     comment: |

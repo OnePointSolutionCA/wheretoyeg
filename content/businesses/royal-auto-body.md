@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/royal-auto-body-1.jpg", "/photos/royal-auto-body-2.jpg", "/photos/royal-auto-body-3.jpg"]
 rating: 4.8
-review_count: 296
+review_count: 297
 price_range: "$$"
 amenities:
 
@@ -54,8 +54,8 @@ reviews:
       Their technician seems to have a ton of experience in the autobody repair world.
       
       My only concern is the timeframe. I was told 2.5 weeks upon drop off of the vehicle and i did not get it back for close to 4 weeks.
-  - name: "Ron M"
+  - name: "Jeff Wong"
     rating: 5
     comment: |
-      Thank you for fixing up our Jeep, thanks for replacing my broken headlamps, you found me a gently used new pair to help me with cost savings, and thank you for replacing my broken seat belt buckle. I recommend Royal Auto Body 🙂👍🏼
+      I’ve had my 2026 Traverse and my 2011 Volvo S60 both repaired at Royal Auto Body, and I’m beyond impressed. The workmanship was great, and their communication was excellent. Both times, they finished the work when promised and stand by their work. Really happy with the whole experience.
 ---

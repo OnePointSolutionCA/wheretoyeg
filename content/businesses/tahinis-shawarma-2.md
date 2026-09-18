@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/tahinis-shawarma-2-1.jpg", "/photos/tahinis-shawarma-2-2.jpg", "/photos/tahinis-shawarma-2-3.jpg"]
 rating: 4.8
-review_count: 350
+review_count: 363
 price_range: "$"
 amenities:
   - "Halal"
@@ -43,10 +43,6 @@ reviews:
       The food was absolutely delicious with so many options to choose from. I especially loved the different flavours they offer. The original shawarma is outstanding, and the unique flavour combinations are so refreshing.
       
       Definitely a must-visit spot if you love great shawarma!
-  - name: "Rafan Chowdhury"
-    rating: 5
-    comment: |
-      I ordered a regular sized rice bowl with mixed chicken and beef and my experience was great. The staff were very friendly, and made the experience feel welcoming and prepared the food fresh in less than 10 minutes. The food was also very good with pretty decent portion size for the price. Overall I think it’s a great little store with friendly staff and great service as well as food.
   - name: "Derek Daraska"
     rating: 5
     comment: |
@@ -63,4 +59,9 @@ reviews:
       We were quite full, so we couldn’t try the tempting cheesecake (from The Cheesecake Factory), but it’s definitely on the list for next time.
       
       Overall, a good and satisfying experience, with the bowls being the highlight here!
+  - name: "Gulrez Barmare"
+    rating: 5
+    comment: |
+      Prajesh served us with a big smile.... it was our first time visiting tahani location and the customer service pleseant personality with a very tasty shawarma blew us away....I would highly recommend this place and thank you prajesh y
+      For your amazing service keep it up!!! 💯
 ---

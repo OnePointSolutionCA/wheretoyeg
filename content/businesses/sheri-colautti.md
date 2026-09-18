@@ -42,10 +42,6 @@ reviews:
     rating: 5
     comment: |
       Sheri did branding photos for my Physiotherapy clinic. She made everyone feel so comfortable and captured awesome pictures of our staff and clinic space. I use the photos for our website and social media pages. They are a perfect blend of professional, but show our personality and fun side. I would definitely recommend Sheri for business/branding photography!
-  - name: "Baylee Dawes"
-    rating: 5
-    comment: |
-      Sheri is absolutely wonderful to work with. We have been lucky enough to have Sheri capture our family sessions, our engagement photos and now our wedding day and we will continue to utilize her for capturing all of our memories going forward. Her ability to make you feel at ease throughout the photos and capture your memories so beautifully is truly so special. We could not recommended Sheri enough to capture all of your important moments and have the most incredible photos to cherish forever.
   - name: "Cassidy Davey"
     rating: 5
     comment: |
@@ -53,4 +49,10 @@ reviews:
       Sheri has an incredible talent for capturing moments - She managed to document all the big, emotional moments while also catching the small, in-between details that made our day so special. Looking through our photos feels like reliving the entire day from start to finish.
       Our engagement session was just as amazing. It gave us a chance to get comfortable in front of the camera, and Sheri made the whole experience fun and natural. Those photos are something we’ll cherish forever as well.
       If you’re looking for someone who is professional, kind, and genuinely passionate about what they do, Sheri is it. We are beyond grateful for the memories she’s given us.
+  - name: "Courtney G"
+    rating: 5
+    comment: |
+      We had the absolute best experience with Sheri as our wedding videographer. From start to finish, she was incredible to work with. Professional, kind, and genuinely calming to have around on such a busy and emotional day.
+      
+      She captured everything so beautifully, and watching our video back brings us right back to those moments. It’s something we’ll treasure forever.
 ---

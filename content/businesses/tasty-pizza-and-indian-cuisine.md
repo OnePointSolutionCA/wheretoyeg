@@ -22,10 +22,10 @@ reviews:
       My kids were playing with the balloon, and the owners were so kind to let them walk out with the balloon
       
       Bhature were so fluffy and delicious. We love going back there for that.u
-  - name: "sidhu Amarveer"
+  - name: "Cameron Roberts"
     rating: 5
     comment: |
-      One of the best indian food in beaumont. Very welcoming guys. Best chilli chicken 👍🏼
+      Tasti Pizza is a hidden gem! My friend and I rolled in just 10 minutes before closing, fully expecting to be turned away. But nope, they welcomed us with open arms and let us order whatever we wanted. The hospitality was top-notch, and everyone was incredibly nice. Seriously, if you're looking for great pizza and even better service, you've gotta check them out.
   - name: "Amit Mehta"
     rating: 5
     comment: |

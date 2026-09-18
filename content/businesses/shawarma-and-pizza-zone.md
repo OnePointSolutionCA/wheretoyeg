@@ -6,7 +6,7 @@ subcategory: "middle-eastern"
 neighborhood: "Edmonton"
 address: "6554 170 Ave NW, Edmonton, AB T5Y 3X6"
 rating: 4.8
-review_count: 576
+review_count: 579
 tier: "featured"
 phone: "(780) 756-7165"
 website: "https://shawarmaandpizzazone.com/"

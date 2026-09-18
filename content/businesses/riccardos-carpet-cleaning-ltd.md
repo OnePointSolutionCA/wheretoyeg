@@ -5,7 +5,7 @@ category: "cleaning-services"
 neighborhood: "Edmonton"
 address: "2060 Tanner Wynd NW, Edmonton, AB T6R 2R4"
 rating: 4.9
-review_count: 54
+review_count: 55
 tier: "featured"
 phone: "(825) 777-6072"
 website: "http://riccardoscarpetcleaning.ca/"

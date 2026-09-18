@@ -14,6 +14,10 @@ google_maps: "https://maps.google.com/?cid=7301636153116429655&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/stadium-dental.jpg"
 reviews:
+  - name: "Alisha Fitzgerald"
+    rating: 1
+    comment: |
+      Receptionist was wonderful dentist not so much went in for a consultation about fixing my gap in my teeth I didn’t wanna get veneers because they cost a lot plus if they fall out, they cost a lot to replace so I asked for composite bonding which you can take off whenever or get fixed for a way Lower cost without damaging the tooth he refused to give me the option of composite bonding and said I needed two crowns, for 3700$ Said straight up no that my bite wouldn’t work with composite bonding. Went for a second opinion at a different dental place and they did The composite bonding said my bite  was perfect for it and my insurance covered it as two fillings saved myself a lot of money always get a second opinion. Didn’t pay a dollar and have basic insurance !! Dentist will lie just to get more money so happy I went to smiles dental! Also not her fault, but could not understand the dental assistant whatsoever a little frustrating
   - name: "Cirka"
     rating: 5
     comment: |
@@ -50,10 +54,6 @@ reviews:
     rating: 5
     comment: |
       I had a tooth that cracked badly and I need it handled quickly. I called around and got quoted prices. When I called stadium dental I got in super fast, plus they had the best price. Very pleasant staff who made me feel very relaxed. I freaked out with the freezing but other then that very happy with my treatment. I'd most definitely recommend them for your next appointment!! 🦷🪥
-  - name: "MICHELLE BECKWITH"
-    rating: 5
-    comment: |
-      Went to stadium dental for the first time and best experience ever! The staff were friendly and didn't make you feel like you were being rushed in and rushed out. Definitely found my new dentist will be going back for as long as they will have me LOL was the most comfortable and gentle, thorough process 😁 thank you for meeting all my needs and expectations.
 hours:
   monday: "8:00 AM–8:00 PM"
   tuesday: "8:00 AM–8:00 PM"

@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "25212 Township Rd 562, Sturgeon County, AB T8R 2C4"
 rating: 4.8
-review_count: 191
+review_count: 193
 tier: "featured"
 phone: "(780) 984-1516"
 website: "https://spgpaintball.ca/"
@@ -35,19 +35,14 @@ reviews:
     rating: 5
     comment: |
       What a fantastic place! The people were really friendly, we ended up with a smaller group and they were able to accommodate our smaller group by finding us another group to join us. Overall 10/10 day! Thank you
+  - name: "Hayden Layne"
+    rating: 5
+    comment: |
+      Had an absolute blast, first time ever doing paintball and I absolutely would again. The staff here are incredible, they're really respectful and understanding, they arent so hard on you and actually crack jokes with you. The equipment you get from them are great and ive had 0 issues with the masks, guns or clothing. Not expensive for entry although, if you play in big groups the paintballs do get a bit pricey after a few rounds. P.S if you've never done paintball before, yes they hurt alot.
   - name: "William Scheper"
     rating: 5
     comment: |
       We took my 15 year old to SPG for his birthday party.  What an amazing experience! The staff are very professionial, curteous, and very friendly.  Highly recommend this place, and will definitely be coming back here.
-  - name: "Will degrace"
-    rating: 5
-    comment: |
-      We went for our son's 13th birthday party and we all thoroughly enjoyed ourselves, the kids and adults alike.
-      I've played enough paintball at enough courses to be certain that Ray and May are running this field in a way to make the game accessible and enjoyable to everyone by their passion for it.
-      
-      They helped us with our equipment without asking, they made sure we were always well set up and taken care of, and they engaged all throughout the day to make sure the kids were just having fun.
-      
-      100% recommend going here, especially if you're unsure of if you'd like to try the sport, or if you're looking for a new place to get out and play with friends. You will be so glad you chose SPG!
 hours:
   monday: "Closed"
   tuesday: "Closed"

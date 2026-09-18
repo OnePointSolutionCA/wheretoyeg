@@ -6,7 +6,7 @@ subcategory: "italian"
 neighborhood: "St. Albert"
 address: "595 St Albert Trl, St. Albert, AB T8N 6G5"
 rating: 4.3
-review_count: 894
+review_count: 896
 tier: "featured"
 phone: "(780) 459-1411"
 website: "https://sorrentinos.com/st-albert/"
@@ -29,16 +29,14 @@ reviews:
       The food, the service, our waiter, all was just wonderful and top notch.
       We will be back!!
       We also can't wait to see the new expansion once it is ready!
-  - name: "Grace Watson"
-    rating: 5
-    comment: |
-      We ordered the Turkey-to-go meal for Christmas and it was awesome! The food was delicious, beautifully packaged and worth the price. The chefs put in a ton of work to make huge meals and my only complaint would be the gravy being gluten-free as it was very watery rather than thick.
-      
-      Saved us so much time cooking and we loved being able to visit with guests rather than making a mess nobody wants to clean.
   - name: "Blair-Marie Coles"
     rating: 5
     comment: |
       We went here tonight to celebrate our anniversary and it was the best meal weve had in a very very long time. From the staff who welcomed us at the door to our absolutely incredible waiter and everyone in between this was possibly one of the best dining EXPERIENCES weve had in a long time. As a celiac eating out is hard and I often. Leave restaurants in tears. They delivered a culinary experience i havent had in years. Gluten free bread at the table??? Never. Ive never experienced the joy of GF table bread!! The pasta was incredible and the serving size was massive. The GF carrot cake was...as I said to our new friend "so deadly good I wanna be buried with it". I honestly in the past nearly decade of being diagnosed celiac I have not enjoyed the staff the environment the MULTIPLE COURSES of gluten free food thus way in YEARS. Sorrentinos you just earned a very loyal customer. I hope you all have cool pillows and wonderful dreams and traffic lights are green and blue sky's. You cant possibly know how much joy your acts of inclusion brought me. Food is connection and you gave me that gift tonight on our 14th wedding anniversary. Thank you!
+  - name: "Blake Dunphy"
+    rating: 5
+    comment: |
+      Great food and atmosphere. The restaurant is carefully divided so it is never noisy and feels a lot more personal. Staff is very nice as well.
 hours:
   monday: "3:00 PM–9:00 PM"
   tuesday: "11:30 AM–9:00 PM"

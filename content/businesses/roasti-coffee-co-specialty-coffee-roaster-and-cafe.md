@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Sherwood Park"
 address: "52 Brentwood Blvd #19, Sherwood Park, AB T8A 2H6"
 rating: 4.8
-review_count: 884
+review_count: 885
 tier: "featured"
 phone: "(780) 908-0104"
 website: "https://roasti.ca/"
@@ -13,12 +13,6 @@ google_maps: "https://maps.google.com/?cid=10131376647558836238&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/roasti-coffee-co-specialty-coffee-roaster-and-cafe.jpg"
 reviews:
-  - name: "Cat Hare"
-    rating: 5
-    comment: |
-      Wowee!! You know you got a gem on your hands when you leave a cafe with a warm fuzzy feeling!
-      If you love the cafe scene you're doing yourself a disservice by not checking this place out!
-      The latte is smooth as can be and I got one of their cheese scones. Perfect combination for morning errands. Although I recommend a sit-in if you have the time to spare as the operations of roasting coffee beans and steaming milk is a spectacle to behold. ❤️
   - name: "Serena Farrugia"
     rating: 5
     comment: |
@@ -35,13 +29,25 @@ reviews:
     rating: 5
     comment: |
       My favorite coffee place in Sherwood park.  The outdoor sitting is phenomenal.  We ordered a latte and a croissant with ham and cheese and were deli.  The atmosphere inside is also eclectic with the coffee roaster right there.
-  - name: "A. V."
+  - name: "Kapish Kaushal"
+    rating: 4
+    comment: |
+      It was good to have a Macha there.
+      Ambience was good.. I sat on a couch area.  Not crowded..  May be kne of the week days..
+      Macha was good.. nice clean presentation
+      
+      Moreover I also ordered Vegan Carrot 🥕  Donut 🍩.... it was ok.. not a fan of the Frosting though..but nice that they have some vegan options.. yiu can also try Tiramisu Donut too (vegan)...
+      Overall my experience was fine..
+      
+      Recommended for:
+      Sit down coffee experience..
+      Quick coffee Break... there is patio as well and yiu can also order sandwich either from the shop or from nearby.. to make it meal for yourself..
+      
+      Overall... 7.5 ..
+  - name: "Ethen Walker"
     rating: 5
     comment: |
-      Great!👍👍👍
-      I am so impressed😊😊😊
-      Such great combination of coffee production and place to take a brake , pick a favourite coffee or drink , some pastry and relaxation.
-      I had feeling like a time stopped ... just enjoyed the time and tasty coffee.
+      What a fantastic little café! From the moment I walked out, I knew I'd found a place worth coming back to. The atmosphere is warm and inviting, making it easy to relax and enjoy your visit. The latte was smooth and well made, and the fresh cheese scone paired perfectly with it. If you have a little extra time, I'd recommend staying to enjoy the experience—the care that goes into preparing the coffee really adds to the charm. A wonderful spot that's definitely worth a visit.
 hours:
   monday: "7:00 AM–6:00 PM"
   tuesday: "7:00 AM–6:00 PM"

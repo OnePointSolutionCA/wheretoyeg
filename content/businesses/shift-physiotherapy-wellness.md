@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/shift-physiotherapy-wellness-1.jpg", "/photos/shift-physiotherapy-wellness-2.jpg", "/photos/shift-physiotherapy-wellness-3.jpg"]
 rating: 5
-review_count: 232
+review_count: 233
 price_range: "$$"
 amenities:
 
@@ -36,10 +36,22 @@ reviews:
     rating: 5
     comment: |
       I have consulted Dr Nicholas for my lower back pain. Really happy with my recovery under his guidance. Stayed consistent with the exercise he asked me to do and i got 60 percent pain relief within a week. I thought its just a muscle spasm, were in pain for 2weeks when I made up my mind to visit physio. He is knowledgeable, good listener and flexible. Takes time to assess your condition and than give some recommendations.Thanks Dr Nicholas for supporting me when I was in need. In addition he checks on his patients if their recovery is on track throughout a journey which i likes the most. I do recommend him.
-  - name: "Astuthi Singh"
+  - name: "Phil Armstrong"
     rating: 5
     comment: |
-      I have been seeing Katy for more than 6 months now and I feel comfortable with her as she creates a warm and welcoming space. Shes very knowledgeable and takes the time to explain things clearly, she’s genuinely supportive and really listens to the concerns I have. I always feel well cared for after each session!
+      Rashmi did such a good job each time. A good massage can be painful when you have suffered whiplash & have serious knots in your muscles but it makes such a difference. Rashmi was very responsive to the feedback I gave her as well so it was like being a team together with her. This was an excellent experience for me.
+  - name: "Kimmy F."
+    rating: 5
+    comment: |
+      A breath of fresh air! Very impressed with Shift!
+      
+      I've worked with a lot of good PTs before but I've never had a therapist or clinic who was so willing to take the time to hear me out about everything else.
+      
+      From the minute I walked in I was able to get help with the admin piece and be heard about sensory issues and needs and it made their space so much more accessible.
+      
+      They really seem to understand that the first part of TIC is listening and that what they're doing is about treating people, not symptoms.
+      
+      Exceeded my expectations at every step, thank you!
   - name: "Chris Marks"
     rating: 5
     comment: |
@@ -48,8 +60,4 @@ reviews:
       I'm still using these exercises in my morning ritual as I'm almost back to normal.
       Would i recommend this clinic. 100% i would!!!
       Thanks again for everything you do.
-  - name: "Olga Krauze"
-    rating: 5
-    comment: |
-      We had a really positive experience with Shift Physiotherapy. Nicolas was very knowledgeable and clearly knew what he was doing. His diagnosis for my son was spot on, and we felt well supported throughout the whole process. Everything was explained in a simple and reassuring way. We would definitely recommend Shift.
 ---

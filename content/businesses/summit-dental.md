@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/summit-dental-1.jpg", "/photos/summit-dental-2.jpg", "/photos/summit-dental-3.jpg"]
 rating: 4.9
-review_count: 1252
+review_count: 1257
 price_range: "$$"
 amenities:
 
@@ -32,6 +32,10 @@ reviews:
     rating: 5
     comment: |
       I’ve trusted Summit Dental for over 5 years and highly recommend this clinic! The dentists are kind, patient, and highly skilled, always explaining treatments clearly with visual diagrams. The hygienists do a wonderful job and frequently check on my comfort during cleanings. I'm particularly appreciative of the team at the front desk who are very welcoming. They always verify my insurance coverage before my appointments, which gives me a helpful heads-up on any potential out-of-pocket costs. Excellent care all around!
+  - name: "Lovely Donayre"
+    rating: 5
+    comment: |
+      It was such a great experience during my appointment. Thank you for all the staff very accommodating and friendly! also thank you so much doc for a very quick, smooth for my gum removal. God bless!
   - name: "Jenalyn Galut"
     rating: 5
     comment: |
@@ -48,10 +52,4 @@ reviews:
     rating: 5
     comment: |
       I had a wonderful experience with Eve at Summit Dental. She was kind, professional, and made me feel comfortable throughout my dental cleaning. She was gentle, thorough, and took the time to explain everything clearly. I really appreciated her attention to detail and friendly attitude. My teeth feel great, and I highly recommend Eve to anyone looking for excellent dental care. Thank you, Eve!
-  - name: "Casey Aserit"
-    rating: 5
-    comment: |
-      Got in last minute for a dental emergency and the clinic was incredibly helpful and accommodating while I was in pain. I was seen quickly, and they were able to take care of my wisdom tooth removal the same day, which made a huge difference in my comfort and recovery. The staff were very kind, professional, and reassuring throughout the whole visit, which really helped ease my anxiety during a stressful situation.
-      
-      Dr. Jeevana Gopal was amazing-very skilled, calm, and thorough in explaining everything and making sure I was comfortable before, during, and after the procedure. I really appreciated the care and efficiency from the entire team, and I'm very grateful they were able to help me on such short notice.
 ---

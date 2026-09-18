@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/southwest-edmonton-farmers-market-1.jpg", "/photos/southwest-edmonton-farmers-market-2.jpg", "/photos/southwest-edmonton-farmers-market-3.jpg"]
 rating: 4.6
-review_count: 151
+review_count: 152
 price_range: "$$"
 amenities:
 
@@ -40,12 +40,12 @@ reviews:
     rating: 4
     comment: |
       This is a perfect place if you are looking to buy some local produce, you can buy vegetables, fruits, jams, baked products, brewery products, handicrafts, you'll also find meat, different fishes. There's food trucks too so you can enjoy eating them while shopping.
-  - name: "KD"
-    rating: 5
-    comment: |
-      Love going here. The venders are amazing and so friendly. And the food is amazing!
   - name: "jyoti wagawade"
     rating: 4
     comment: |
       Farmers market is opened since 19th May and will be on every Wednesday 4pm to 7:30pm. Love to buy some local organic vegetables and fruits.
+  - name: "KD"
+    rating: 5
+    comment: |
+      Love going here. The venders are amazing and so friendly. And the food is amazing!
 ---

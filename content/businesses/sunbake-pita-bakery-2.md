@@ -19,8 +19,8 @@ hours:
   saturday: "8:00 AM–8:00 PM"
   sunday: "8:00 AM–7:00 PM"
 photos: ["/photos/sunbake-pita-bakery-2-1.jpg", "/photos/sunbake-pita-bakery-2-2.jpg", "/photos/sunbake-pita-bakery-2-3.jpg"]
-rating: 4.7
-review_count: 2178
+rating: 4.6
+review_count: 2185
 price_range: "$$"
 amenities:
   - "Halal"
@@ -47,14 +47,12 @@ reviews:
       It's definitely become one of my go-to spots for a quick bite. The staff are always friendly, welcoming, and smiling, and you can tell it's a popular place because they're consistently busy.
       
       Great food, great service, and a great atmosphere. I'll definitely be back. Thank you!
-  - name: "Suesan"
+  - name: "Mariam A"
     rating: 5
     comment: |
-      really tasty food good selection highly recommended. they have the best fresh pita bread. if you want lebanese food this is the place to go come check out this hidden treasure
-  - name: "Herve Kabanda"
+      Sooooo so good.  Incredible quality food.  Happy I stopped by.   Visiting from.Vancouver, wish you guys open there.  ❤️ very clean too. Mashallah :)
+  - name: "Rima Rahal"
     rating: 5
     comment: |
-      Great food, great prices and great community!
-      
-      I eat here every time I can. Their food is amazing. You can tell that they put love in their craft based on their food and customer service! You also get the best value for your bucks here!
+      I have eaten at Sunbake and ordered from there a few times and it’s always great. But this time I ordered a big order for catering. They were so fast and helpful at taking my order. They knew exactly how much I’d need for my party. The food arrived on time and was delicious- just like home- and there was plenty! I couldn’t be more thankful to their team. Sunbake made our night so much easier and enjoyable!
 ---

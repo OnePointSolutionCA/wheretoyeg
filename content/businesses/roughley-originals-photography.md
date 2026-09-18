@@ -5,7 +5,7 @@ category: "photographers"
 neighborhood: "Edmonton"
 address: "15011 58 St NW, Edmonton, AB T5A 4H4"
 rating: 5
-review_count: 71
+review_count: 72
 tier: "featured"
 website: "http://roughleyoriginals.com/"
 google_maps: "https://maps.google.com/?cid=2554752305149994760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

@@ -28,12 +28,6 @@ tags: ["edmonton", "windows"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "S A"
-    rating: 5
-    comment: |
-      I had an excellent experience with shine above!
-      
-      Olivia and Bavhik made it super easy to book the appointment,  Vlad and his partner did a great job cleaning the gutters. I recommend this business.
   - name: "Fiona Marianix"
     rating: 3
     comment: |
@@ -52,8 +46,14 @@ reviews:
     rating: 5
     comment: |
       The couple who cleaned the gutters on the first floor of my condo (those on my second floor gutters shared the building with my neighbour and I was unable to talk to him about sharing the expenses so they left that part as is.)  My gutter cleaners worked on  my own gutters and cleaned them nicely. I had intended to use an e-transfer but I forgot how to enter a recipient. The Office had sent an invoice and after a phone call I was able to take my iPad in to their office and a lady helped me to enter Shine Above into the software. All around, I was taken care of in this whole project with some very pleasant people. 5 stars! Jerome.
-  - name: "Paul Roberts"
+  - name: "S A"
     rating: 5
     comment: |
-      Amazing job, very efficient. Would recommend.
+      I had an excellent experience with shine above!
+      
+      Olivia and Bavhik made it super easy to book the appointment,  Vlad and his partner did a great job cleaning the gutters. I recommend this business.
+  - name: "Shelley Gordon"
+    rating: 5
+    comment: |
+      From the first interaction with booking, right through to calling after the job was completed to make sure I could add a tip….was friendly and so professional! They all were excellent and will be going back every time I need a cleaning service. Thank you for taking such good care of my work request!
 ---

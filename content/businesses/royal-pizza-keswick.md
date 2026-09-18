@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Windermere"
 address: "17317 Hiller Rd SW, Edmonton, AB T6W 4T4"
 rating: 4.5
-review_count: 248
+review_count: 247
 tier: "featured"
 phone: "(587) 469-9793"
 website: "https://order.royalpizza.ca/location/18/Keswick"
@@ -18,6 +18,10 @@ reviews:
     rating: 2
     comment: |
       the large pizza averaging $29.. usually for this price point pizzas will have some serious toppings between the cheese and the bread.  Our first visit we made the mistake on doubling down.. $60 later, still hungry, save your money
+  - name: "Tyson Henderson"
+    rating: 5
+    comment: |
+      Always very friendly staff. Pizza is excellent. Haven't ordered other menu options, so I have no opinion on that. We always order ahead online then pick-up. The order is always ready when we arrive.
   - name: "Valerie Fleck"
     rating: 4
     comment: |
@@ -48,14 +52,10 @@ reviews:
       Unlike  “Chicago Deep Dish” pizza where it is thick but all crust, their pizza is thick with mostly toppings in the middle then gradually becoming a thick crust outward.
       
       Yum 🤤
-  - name: "Jan Hallonquist"
-    rating: 1
+  - name: "Roy Etherington"
+    rating: 5
     comment: |
-      We ordered a royal special pizza on Feb 24 and I made a comment that the prices keep going higher every time I order this pizza and the lady said that is hasn't gone up for a while and when it did it was only $1 increase. I paid and waited 25 minutes as instructed and when I got home with the pizza, opened the box to find the pizza was burned. Will never go back to Keswick Royal Pizza again as I believe that is was burned deliberately.
-  - name: "Trevor Diletzoy"
-    rating: 4
-    comment: |
-      Been awhile since I had Royal so this brought back the reason why it was my go to for so long. Great pizza!
+      Was a few weeks ago now that I ordered from this establishment and Google is just asking for a review, but in All honesty I've experienced pretty much all the Royal pizza in and around Edmonton and this was my first time ordering at this location and I was quite impressed by the decent amount of toppings compared to other locations and I knew just by the weight of the pizza and was delightfully correct, I don't live in the area was just passing through, but I guarantee another visit in the future ✌️
 hours:
   monday: "11:00 AM–10:00 PM"
   tuesday: "11:00 AM–10:00 PM"

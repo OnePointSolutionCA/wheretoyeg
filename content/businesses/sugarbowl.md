@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–11:00 PM"
 photos: ["/photos/sugarbowl-1.jpg", "/photos/sugarbowl-2.jpg", "/photos/sugarbowl-3.jpg"]
 rating: 4.5
-review_count: 3010
+review_count: 3016
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,6 +30,14 @@ tags: ["edmonton", "breakfast"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Helia"
+    rating: 5
+    comment: |
+      We tried both the beef and lamb burgers.
+      🥩 The beef burger was a little greasy, but honestly, it was one of the best burgers I’ve had in years. 🤩 Juicy, flavorful, and perfectly cooked. I can’t recommend it enough! 🍔❤️
+      🍟 The fries were also really good and paired perfectly with the burger.
+      🐑 I know the lamb burger is Sugarbowl's signature, but I’m very picky when it comes to the smell of lamb, so it wasn’t really for me. (If you’re not as sensitive to that, you’ll probably enjoy it.)
+      ☺️ The service was a bit slow, but the restaurant was packed, so it was completely understandable. Overall, we had a great experience. 😍 [But trust me… if you’re deciding between the two, go for the beef burger! 😄]
   - name: "Steve Danger"
     rating: 5
     comment: |
@@ -56,10 +64,4 @@ reviews:
       We went on Victoria Day for lunch and nothing in the menu expect breakfast was available. The food in the breakfast menu was not bad and the service was good.
       
       To add to our disappointment was the parking. It was hard to find parking. The few parking spaces managed by Diamond Parking charge $2.50 per hour plus a service charge of $1.55. I don’t understand why a service charge has to be imposed. That means patrons have to pay $4.05 for an one-hour lunch. That’s a bit too much.
-  - name: "Tom"
-    rating: 5
-    comment: |
-      One of my all time favourite restaurants and patios in Edmonton.  It has a wonderful, authentic old world charm rare in Edmonton with it's history, exposed brick, hardwood floor, the vintage tables, chairs and other decor and there is always interesting and vibrant art on the walls.  The food is reasonably priced and delicious!  It also has an excellent location in the Garneau, UofA area.
-      
-      The last photo is of my dog Molly who viewed the Sugarbowl patio as a special place.  We took her there regularly in the summer of 2025 and we'd order a side of prawns without any seasoning or garlic for her.  Because of that and the fact she liked being around the people and the staff on the patio whenever we'd be walking by she'd insist on laying down on the grass across the avenue because she just wanted to watch the patio.  I'd have to indulge her for a while because she wouldn't budge.
 ---

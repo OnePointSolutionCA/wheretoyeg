@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Spruce Grove"
 address: "183 Hwy 16A Ste 301, Spruce Grove, AB T7X 4P9"
 rating: 4.9
-review_count: 192
+review_count: 193
 tier: "featured"
 phone: "(780) 960-1010"
 website: "http://www.sunrisedental.ca/"
@@ -18,12 +18,6 @@ reviews:
     rating: 5
     comment: |
       I have been with Sunrise Dental for almost 10 years. I have had routine visits for cleanings and check ups every 6 months, which are always so positive and the hygenists are great. But it has been when I have needed them for emergency visits that they have exceeded my expectations! From the front staff who gets me in for assessments within the same day, to the lady that handles the billing, then the dental assistants and dentists - they are all amazing, kind and so patient. I would highly recommend this office to anyone!
-  - name: "Vanessa Fales"
-    rating: 5
-    comment: |
-      Always a good experience.
-      Love my dentist. Fixed my broken tooth next day and was in and out! Hygienist are amazing. Never had my teeth feel so clean.
-      Highly recommend.
   - name: "Justin H"
     rating: 5
     comment: |
@@ -44,6 +38,10 @@ reviews:
       I will preface this by saying - I typically hate going to the dentist. I've had a fear of dental work since I was a young teen. The team at Sunrise has completely changed that for me. From the moment you walk in, you're greeted by friendly, kind faces! The waiting room is incredible with massage chairs, and fun stuff for the kiddos. The dental hygienists are so kind and compassionate - doing their absolute best to make you feel comfortable (shout out to Brandi & Gracie!). And Dr Mclean is incredibly gentle, making sure that you are comfortable throughout your whole procedure. And he does excellent work!
       
       I can't believe I'm saying this, but I'm actually excited to go back to get the rest of my work done!
+  - name: "mathew montroy"
+    rating: 5
+    comment: |
+      Really helping me out with my severe tooth pain highly recommend them plus they're really accommodating making you feel relaxed and not anxious
 hours:
   monday: "8:00 AM–4:30 PM"
   tuesday: "8:00 AM–4:30 PM"

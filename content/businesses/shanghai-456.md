@@ -19,7 +19,7 @@ hours:
   sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/shanghai-456-1.jpg", "/photos/shanghai-456-2.jpg", "/photos/shanghai-456-3.jpg"]
 rating: 4.2
-review_count: 663
+review_count: 664
 price_range: "$$"
 amenities:
   - "Delivery"
@@ -41,16 +41,10 @@ reviews:
       Shanghai 456 has been in the city for about six or seven years, yet stepping inside feels like walking straight into the 1980s. The décor, lighting, and overall vibe carry a nostalgic charm that almost makes you wonder if time simply decided to slow down here.
       The food is decent and generally satisfying, though not particularly memorable. It does the job if you’re craving Shanghainese cuisine, but it may not leave you talking about it the next day. Service is also somewhat average—neither especially warm nor problematic, just somewhere comfortably in the middle.
       That said, Edmonton doesn’t exactly have an abundance of Shanghainese restaurants. Because of that, Shanghai 456 still manages to carve out its own place in the local dining scene. If you’re looking for a casual spot to satisfy a Shanghainese craving in a retro atmosphere, it’s certainly worth a visit.
-  - name: "Yo Yo"
-    rating: 4
+  - name: "Jizzelle D"
+    rating: 5
     comment: |
-      The best soup dumplings I’ve ever had — juicy, flavorful, and absolutely immaculate. A must-try! Just be careful when biting into them, as the broth can squirt out.
-      
-      Service was friendly and prompt, which made the experience even better.
-      
-      I enjoyed the flavor of the peach shrimp, though I think it would be even better with a lighter batter. As for the crispy marinated duck, I found it a bit too salty, so I wouldn’t quite recommend that one.
-      
-      Overall, we really enjoyed our luncheon at Shanghai 456 and will definitely be back to try more dishes!
+      The dumplings were delicious but I would not order the fried soup dumplings again. They sprayed the soup on my shirt and the table. 4/6 were not enjoyable but other wise love the hot and sour soup and steamed soup dumplings! Staff was nice and not super full on a Friday at 2pm.
   - name: "K Miu"
     rating: 3
     comment: |

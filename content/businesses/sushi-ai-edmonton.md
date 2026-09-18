@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "South Edmonton"
 google_maps_url: "https://maps.google.com/?q=Sushi%20Ai%20Edmonton"
 hours:
-  monday: "Closed"
-  tuesday: "11:00 AM–9:00 PM"
-  wednesday: "11:00 AM–9:00 PM"
-  thursday: "11:00 AM–9:00 PM"
-  friday: "11:00 AM–9:00 PM"
-  saturday: "4:00 PM–9:00 PM"
-  sunday: "Closed"
+  monday: "11:30 AM–2:30 PM"
+  tuesday: "11:30 AM–2:30 PM"
+  wednesday: "11:30 AM–2:30 PM"
+  thursday: "11:30 AM–2:30 PM"
+  friday: "11:30 AM–2:30 PM"
+  saturday: "11:30 AM–2:30 PM"
+  sunday: "12:00 PM–2:30 PM"
 photos: ["/photos/sushi-ai-edmonton-1.jpg", "/photos/sushi-ai-edmonton-2.jpg", "/photos/sushi-ai-edmonton-3.jpg"]
-rating: 4.4
-review_count: 667
+rating: 4.6
+review_count: 1071
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -28,35 +28,69 @@ tags: ["sushi", "japanese", "family-friendly"]
 active: true
 date_listed: "2026-08-18"
 reviews:
-  - name: "Daniel Tran"
-    rating: 5
+  - name: "Brenden Kunimoto"
+    rating: 4
     comment: |
-      Visit: June 2026
+      The food was pretty decent, service was reasonable and atmosphere and was fine.
       
-      Hadn't come here in years, but the sushi was still good! One of the better places in downtown, with a great price. Really enjoy the vibe inside and the staff was very friendly and attentive
+      Summary of the food:
+      -Miso soup was not too salty, and a nice light broth. It could use a bit more tofu but the green onions are bright-tasting and quite crunchy and fantastic.
       
-      Ordered the rainbow roll, black tiger, volcano, and creamy mango roll! My favourite out of the bunch was the black tiger and my friends was the rainbow. Rice to filling ratio was very good!
-  - name: "Stephen Carter"
-    rating: 5
-    comment: |
-      What a fantastic find. I stopped by for lunch and was blown away by the freshness and presentation of the food.
+      -Avocado & Unagi Roll was disappointing. The avocado and unagi were not a great pairing as they were both too umami together. There was also too much unagi sauce
       
-      The sushi platter looked like a work of art with its vibrant mango slices draped over the rolls. Everything tasted just as good as it looked, especially the fresh tempura and the sashimi. It is definitely my new go-to spot for a quality meal in the city.
-  - name: "CdnFoodie"
+      -Negitoro Roll was great!
+      
+      -Saba (Mackerel) Sushi was very flavourful and had a good fish:rice ratio.
+      
+      -Vancouver Roll is delightful. The mango was underripe and a bit crunchy but the textural contrast and astringent flavour goes well with the rest of the ingredients.
+      
+      -Edamame was given for free if you write a review. Thankfully there were no stipulations about how many stars the review needs to be! Some of them are overcooked and soft but some are nicely cooked.
+      
+      -Deluxe Sashimi were overall quite generously sized and tasty.
+  - name: "Filipe Drumond"
+    rating: 4
+    comment: |
+      Very Good Experience with Great Potential
+      
+      We recently visited Sushi Ai on a Saturday evening and had an overall four-star experience.
+      
+      📍 Location & Parking
+      
+      The restaurant is conveniently located in North Calgary with easy parking, which made our visit simple and stress-free.
+      
+      🤝 Service
+      
+      The service was friendly and welcoming. Our interaction was somewhat limited — possibly due to a language barrier — but the staff were kind and attentive.
+      We also arrived close to closing time and were likely the last customers, and we were a bit surprised the restaurant wasn’t busier on a Saturday night.
+      
+      🍣 Food Quality
+      
+      The sashimi was very good — fresh and enjoyable.
+      The rolls were also good overall, though not outstanding. One small detail: one of the rolls was not cut evenly, so one piece was noticeably larger than the others.
+      
+      The hot tea was excellent, a very nice touch.
+      The ramen was good and comforting, though not the strongest item on the menu.
+      
+      ⭐ Final Thoughts
+      
+      Overall, this was a pleasant dining experience, and we would certainly come back. With a few small refinements and continued attention to detail, this place has the potential to become a standout sushi spot in North Calgary.
+      
+      Word of encouragement:
+      Thank you for your kindness and effort. Keep going — you’re on a good path, and we look forward to returning.
+  - name: "Vanessa Ha"
+    rating: 4
+    comment: |
+      The food was delicious and service was friendly. The sushi rolls had good flavour and the sashimi were thick cuts. We were, however, surprised that for 20$ they put a lot lettuce underneath the calamari to make it look like a full plate. Otherwise a very good sushi spot and would come back
+  - name: "Sweats and Suits"
     rating: 5
     comment: |
-      Small unassuming sushi spot in downtown area. Dropped by for some dinner. Had the Tempura Bento Box with Nigiri option (Salmon, Tuna, & Snapper). Love that you could choose between three options to customize what the box includes. The tempura was crispy and fresh. Batter wasn’t too heavy either. Nigiri sushi had decent fish portions. The rice on the nigiri was a bit loose and made it difficult to grab and dip.
-      Despite it being a smaller bento box compared to other sushi restaurants, the price is great. Red Tiger Roll was beautifully made. It was also very delicious. You could taste the fresh tuna and the combination of everything was just harmoniously tasty. Would definitely come back again to try other rolls. Great value for the quality.
-  - name: "Julia Davis"
-    rating: 5
+      hands down one of the best sushi places in yyc, the teriyaki chicken was phenomenal. the sushi portions were huge. the flavour was
+      unreal. we live on the opposite side of
+      the city and will likely come up
+      here just for this place.
+  - name: "Man Lee"
+    rating: 4
     comment: |
-      Cozy place with a calm, homey atmosphere. The interior feels warm and inviting, with a simple yet charming design that makes you feel comfortable right away.
-      The staff is friendly and welcoming, and the service is quick and efficient. The portions are on the smaller side, but everything is fresh, tasty, and nicely presented.
-      The prices are reasonable, making it a good spot for a casual and relaxed meal.
-  - name: "Venkata Sai Kiran Uddavolu (Sai Kiran)"
-    rating: 5
-    comment: |
-      To be honest,it was first time here. Didn't check any reviews just a walk in.
-      It was my best sushi experience. I love it.
-      Will be back soon.
+      I had a great experience at Sushi Ai! The food was fresh, flavorful, and beautifully presented. The sushi had excellent quality fish, and you can really taste the freshness in every bite. I especially enjoyed their lunch specials —they were creative and well-balanced, not overloaded with sauce.
+      The portions were generous for the price, and everything came out quickly. You can tell they pay attention to detail and consistency. If you’re looking for tasty, reliable sushi, Sushi Ai is definitely worth a visit. I’ll be coming back again!
 ---

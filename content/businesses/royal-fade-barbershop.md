@@ -33,10 +33,10 @@ reviews:
     rating: 5
     comment: |
       Best barbershop experience. Osayd did an absolutely amazing job on my kids who hate haircuts, he’s super detailed and professional. He really takes his time to make sure everything is perfect. The whole shop has an amazing atmosphere too. Everyone there is welcoming and respectful, which made the experience even better. Highly recommend this place if you want quality cuts and good people.
-  - name: "Youssef Chebli"
+  - name: "Chris"
     rating: 5
     comment: |
-      Best cut and shave I’ve had in a long time. Super friendly, paid attention to detail, and made sure everything was exactly how I wanted it before I left. The shop has a great vibe and you can tell they really care about their clients. Definitely coming back, thank you Naji!
+      Best haircut of my life. Im quite the picky B and usually always have some sort of complaint about my haircuts.. not this time. It wasn’t rushed, wasn't too long, just enough talking, listened to what I wanted, great price, and in a clean and cooled location. Couldn't ask for more, yet there was more; they added a rewards card four cuts and the fifth is free and they assured me they put the exact same effort into the free ones as the paid. Only place I’ll go.
 hours:
   monday: "9:00 AM–6:30 PM"
   tuesday: "9:00 AM–6:30 PM"

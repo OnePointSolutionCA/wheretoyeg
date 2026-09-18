@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Edmonton"
 address: "6873 Ad Astra Blvd NW, Edmonton, AB T5E 4G6"
 rating: 4.9
-review_count: 279
+review_count: 282
 tier: "featured"
 phone: "(587) 200-0200"
 website: "https://tarbooshmarket.ca/"
@@ -13,6 +13,10 @@ google_maps: "https://maps.google.com/?cid=6759190788170983707&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/tarboosh-halal-meat-and-market.jpg"
 reviews:
+  - name: "J So"
+    rating: 5
+    comment: |
+      Tarboosh Market is the place for good Lebanese food. More than a market the offer a variety of different meals, ready to eat and order fresh food as well. The have a variety on the menu, I got 2 of the whole sea bass (imported from Tunisia,) roasted to perfection in there pizza oven as well as a few mini pizzas or you can buy your own fresh fish and halal meats, and imported Mediterranean products and take it home it and cook it yourself your way. I got the chicken fajita meat package brought it home and cooked it in the oven and it was easy to cook and very delicious! They do make fresh food every day, they cater and make more than fish and pizza but that's what I got. I bought a few grocery items along with my fish and pizza. It was all delicious! It's a nice market, nice staff there is a lot of fresh produce, egg, milk,  halal meat, spices, sauces, halal candy baked goods I could go on. Either way check them out. Order in, take out, catering and I believe they offer delivery.
   - name: "mahmoud alzoudi"
     rating: 5
     comment: |
@@ -36,26 +40,18 @@ reviews:
       Great Service: The staff is friendly, welcoming, and the place is very clean.
       
       Highly recommended for anyone looking for authentic Middle Eastern flavors and high-quality food. I will definitely be coming back
-  - name: "Ri S"
+  - name: "Carole Sarr"
     rating: 5
     comment: |
-      I had such a great experience at this store! The owner is absolutely lovely and so helpful! we had such a fun time chatting, which made the visit even better. Everything looked incredibly fresh and the prices are super affordable. I also noticed they sell food as well, which I’ll definitely be trying next time I’m in. You can really tell they care about quality and their customers.
+      Just returned from a shopping trip ToTarboosh meat and market.
+      Very impressed. The owner was super friendly and he had the cutest little helper. I had already been at another Lebanese store and bought my garlic sauce that was premade.
+      The owner ended up, giving me a sample of his hummus and garlic sauce that were homemade. Absolutely delicious. Strong on the garlic flavour, which is My favorite. Don’t hesitate to check out this great little Mom and Pop store. It won’t disappoint.
   - name: "Hanie Morsi"
     rating: 5
     comment: |
       We ordered sea bream and sea bass fish, alongside rice, baba ghanouj, and tahini sauce.
       Everything was tasty and perfect. Also, Yousef was very professional on the phone, and they did a great job delivering sharp on time.
       Thanks for the amazing service. Highly recommended!
-  - name: "mhd tarek selek"
-    rating: 1
-    comment: |
-      Very disappointing.
-      
-      Ordered the grilled fish based on their advertised photo, but what I received was completely different in size and presentation.
-      
-      Staff were polite, but instead of apologizing, they tried to say I was wrong.
-      
-      Misleading advertising. Won’t be coming back.
 hours:
   monday: "9:00 AM–8:00 PM"
   tuesday: "9:00 AM–8:00 PM"

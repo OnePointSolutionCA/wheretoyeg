@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "Jasper Ave"
 address: "10357 Jasper Ave, Edmonton, AB T5J 4H8"
 rating: 4.2
-review_count: 85
+review_count: 87
 tier: "featured"
 phone: "(587) 545-2866"
 website: "http://solarbrunch.ca/"
@@ -38,10 +38,10 @@ reviews:
       The atmosphere is fantastic, but what really sets this place apart is the people. Exceptionally friendly and unique, the staff makes you feel welcome the moment you walk in. The service is prompt and attentive, and the pricing is very fair for the quality of food and experience you receive.
       
       Whether you're bringing the whole family or just catching up with friends, it’s the perfect setting for a weekend meal. Highly recommended!
-  - name: "Mia Bennett"
-    rating: 5
+  - name: "Baozi"
+    rating: 4
     comment: |
-      Restaurant had a good vibe and the food presentation was nice. The thing that stood out was the hash browns. It’s a solid spot for classic brunch food!
+      Standard brunch menu. Everything works well. Good friendly service and good place for breakfast and food. Amazing hash browns. Could use some specialty coffees to round out the offerings.
 hours:
   monday: "7:00 AM–3:00 PM"
   tuesday: "7:00 AM–3:00 PM"

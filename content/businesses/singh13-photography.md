@@ -5,7 +5,7 @@ category: "photographers"
 neighborhood: "Edmonton"
 address: "646 Orchards Blvd SW, Edmonton, AB T6X 2L4"
 rating: 5
-review_count: 413
+review_count: 414
 tier: "featured"
 phone: "(780) 222-6318"
 website: "http://www.singh13.ca/"
@@ -26,11 +26,6 @@ reviews:
       You understood our requirements perfectly, were punctual, and covered every detail and area beautifully.
       Your humble, kind, and friendly nature made everyone feel comfortable, and it truly reflected in your work.
       We are very grateful for your dedication and the wonderful memories you captured for us.
-  - name: "Sushil Randhawa"
-    rating: 5
-    comment: |
-      We had an amazing experience with our newborn baby photoshoot! Parminder did a fantastic job capturing such beautiful and precious moments. He was incredibly patient, professional, and very calm throughout the entire session. A special thank you to his wife, Manpreet, who handled our baby with so much care and gentleness. She was wonderful with our little one and made the whole process smooth and stress-free.
-      We are so happy with the experience and would highly recommend them to anyone looking for a newborn photographer. Thank you both for creating memories that we will cherish forever!
   - name: "Amandeep Toor"
     rating: 5
     comment: |
@@ -46,6 +41,10 @@ reviews:
       Special shoutout to his wife Manpreet kaur for making our little one comfortable throughout the shoot & pre-planned everything .
       
       The photos turned out beautiful and captured so many genuine moments that we’ll cherish forever. His attention to detail and creativity really show in every picture. We highly recommend him to anyone looking for high-quality family photography. Thank you for giving us memories we’ll treasure for a lifetime!
+  - name: "veera virk"
+    rating: 5
+    comment: |
+      We had an amazing experience with our maternity and newborn photoshoot! From start to finish, everything was handled with such professionalism, patience, and care. The photographer made us feel completely comfortable and captured every special moment beautifully. Thank you so much Parminder veer ji and specially  his wife for handling our baby in a calm way.
 hours:
   monday: "10:00 AM–9:00 PM"
   tuesday: "10:00 AM–9:00 PM"

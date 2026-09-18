@@ -26,15 +26,6 @@ reviews:
     rating: 5
     comment: |
       I had a really great experience with Dr. Nour. She was extremely professional, skilled, and made me feel very comfortable during the appointment. She explained everything clearly and was very patient and caring. I’m so happy with the experience and would definitely recommend her to anyone looking for a trustworthy and talented dentist!
-  - name: "Lynede Vlog"
-    rating: 5
-    comment: |
-      ⭐⭐⭐⭐⭐
-      I highly recommend this dental clinic. Fatim, the receptionist, is very accommodating and friendly. Since transferring to this clinic, I’ve never looked for another one. I am fully satisfied with their service. The facilities are clean and well maintained, and the equipment is properly sanitized.
-      
-      Dr. Hossam is the best—he extracted my two molars with no pain at all. His hands are very gentle, and the assistant was attentive and knew exactly when to clean my mouth.
-      
-      You are all amazing. Keep up the great work! I will definitely bring all my friends here.
   - name: "Rashmika Palamandadige"
     rating: 5
     comment: |
@@ -45,6 +36,15 @@ reviews:
       Sharshar Dental (South)  has been my  Dental clinic since I moved to South Edmonton. They never disappointed me in their service, care and warm welcoming. They are top notch Dentists in town. Thier cleaning, root canal and other Dental care is amazing. My kids don't hate going to Dentist because of Sharshar Dental. You never have to wait long if you come on your appointment, they're pretty good in their time.
       
       I recommend highly for someone looking for a quality service and warm welcoming clinic
+  - name: "Lynede Vlog"
+    rating: 5
+    comment: |
+      ⭐⭐⭐⭐⭐
+      I highly recommend this dental clinic. Fatim, the receptionist, is very accommodating and friendly. Since transferring to this clinic, I’ve never looked for another one. I am fully satisfied with their service. The facilities are clean and well maintained, and the equipment is properly sanitized.
+      
+      Dr. Hossam is the best—he extracted my two molars with no pain at all. His hands are very gentle, and the assistant was attentive and knew exactly when to clean my mouth.
+      
+      You are all amazing. Keep up the great work! I will definitely bring all my friends here.
 hours:
   monday: "9:00 AM–8:00 PM"
   tuesday: "9:00 AM–6:00 PM"

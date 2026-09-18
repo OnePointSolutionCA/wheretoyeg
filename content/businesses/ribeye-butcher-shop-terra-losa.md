@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–7:00 PM"
 photos: ["/photos/ribeye-butcher-shop-terra-losa-1.jpg", "/photos/ribeye-butcher-shop-terra-losa-2.jpg", "/photos/ribeye-butcher-shop-terra-losa-3.jpg"]
 rating: 4.8
-review_count: 296
+review_count: 299
 price_range: "$$"
 amenities:
 
@@ -38,6 +38,12 @@ reviews:
       The prices seemed fair, and the quality of what I purchased was very good.  They’re more than just a butcher shop.  There are specialty items throughout, and it almost has a bit of a deli feel with some of those offerings.
       
       I’ll be back.
+  - name: "D K"
+    rating: 4
+    comment: |
+      I had a great dining experience at Ribeye Butcher Shop. The lettuce wrapped burger and tallow fries were amazing!
+      
+      I highly recommend.
   - name: "Alex B"
     rating: 5
     comment: |
@@ -52,10 +58,4 @@ reviews:
     rating: 5
     comment: |
       Ordered a classic burger box for a Father's Day bbq, Jacob the person who initially took my order one week prior was very helpful. Picked up my order, ground that day and was super fresh. A huge hit with  the family!!! The smash burgers and fries are delicious there too if you want a nice take out or dine in. Blows the rest of the burger establishments out of the water,very tasty and fresh.
-  - name: "Marc Micklos"
-    rating: 2
-    comment: |
-      I was not impressed with the smash burger.      My mom had a smash burger at the Manning location, with my brother. She liked it , so she suggested to me we go out for one.
-      She said she liked the taste of the burger at  the Manning location better  .
-      It was the first one I had and it was so peppery tasting, I couldn’t really taste the beef. I will not be going back. I don’t mind spending 20 dollars for a burger meal , if it’s worth it. It was not. I did like the fries in the beef tallow, different taste to the fries. It was a nice change.
 ---

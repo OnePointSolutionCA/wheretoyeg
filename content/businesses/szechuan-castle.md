@@ -34,10 +34,6 @@ reviews:
     rating: 5
     comment: |
       We ordered here last time we visited Edmonton and today as well, delicious, hot ,fast and well priced.
-  - name: "Brutally honest Reviews 780"
-    rating: 2
-    comment: |
-      Ordered food from shzechaun castle on 111 av and I think 155 st, it was mid at best, over all 4.2 out of 10, chicken balls over cooked chicken inside was big Hardish dry piece, rice wasn’t great kind of soggy and flavour wasn’t good. Not going to mention the rest of the items I will say it was a $92 disappointment and was an embarrassment to serve to my guests.
   - name: "Ange D"
     rating: 4
     comment: |
@@ -64,4 +60,8 @@ reviews:
       But one thing they do still have is a good Wonton soup for a buffet.
       
       But service friendly and they did keep coming to check on drinks and water and taking plates.
+  - name: "Brutally honest Reviews 780"
+    rating: 2
+    comment: |
+      Ordered food from shzechaun castle on 111 av and I think 155 st, it was mid at best, over all 4.2 out of 10, chicken balls over cooked chicken inside was big Hardish dry piece, rice wasn’t great kind of soggy and flavour wasn’t good. Not going to mention the rest of the items I will say it was a $92 disappointment and was an embarrassment to serve to my guests.
 ---

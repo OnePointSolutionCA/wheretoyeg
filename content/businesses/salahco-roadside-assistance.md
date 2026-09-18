@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "58 Airport Rd NW, Edmonton, AB T5G 0W6"
 rating: 4.7
-review_count: 162
+review_count: 164
 tier: "featured"
 phone: "(780) 999-2650"
 website: "https://www.salahco.com/"
@@ -27,17 +27,14 @@ reviews:
     comment: |
       Their driver drives like a lunatic and then when you call the phone number to complain he is aggressive and ignorant and calls my number back repeatedly.
       10/10 do not recommend .
+  - name: "Yg Fat"
+    rating: 5
+    comment: |
+      Quick and professional service. They unlocked my car quickly, were very helpful, and offered a great price. Highly recommended! 👍
   - name: "E K"
     rating: 5
     comment: |
       Had a flat tire leaving Edmonton for Calgary.on a Sunday morning. Service was quick and professional and we were on the road within an hour of calling. Highly recommend this mobile service.
-  - name: "Ace"
-    rating: 1
-    comment: |
-      Very unprofessional experience. I came in for a vehicle inspection and was told there is a transmission leak, but no clear proof or proper explanation was provided. I personally did not see any visible leak under the car.
-      What made the situation worse is that the staff were speaking to each other in a different language during the inspection, which felt very uncomfortable and not transparent at all.
-      I also felt like the issue was exaggerated to scare the buyer, even though it’s normal for an older vehicle to have minor wear.
-      I would not recommend this place if you’re looking for honest and professional service.
 hours:
   monday: "Closed"
   tuesday: "Closed"

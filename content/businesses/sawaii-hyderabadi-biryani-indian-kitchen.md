@@ -51,8 +51,8 @@ reviews:
     rating: 1
     comment: |
       Not sure when they opened, but it looks like a  empty storage unit. Ordered the samosa chaat and mango lassie. The lassie was pretty good but the chaat is nothing special. Also, half the container was chopped raw onions. Over priced for the quality. Definitely wouldn't recommend.
-  - name: "Santhosh Bhavani"
+  - name: "parmvir hanspal"
     rating: 5
     comment: |
-      Delicious food when I ate biryani here I fell like I'm in Hyderabad it is soo good and hygiene
+      Came from Millwoods just to have a biryani and it was worth it super spicy as we wanted to have some spice in it best biryani ever
 ---

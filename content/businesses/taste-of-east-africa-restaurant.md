@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Beverly"
 address: "3945 118 Ave NW, Edmonton, AB T5W 0Z8"
 rating: 4.5
-review_count: 48
+review_count: 49
 tier: "featured"
 phone: "(587) 405-4322"
 website: "https://estatelensstudio.com/wp-admin/post.php?post=8&action=elemento"
@@ -17,6 +17,10 @@ reviews:
     rating: 5
     comment: |
       I ordered takeaway from here and I had a great experience! MashaAllah The food was fresh and flavourful.The portions were generous, and every bite tasted authentic and delicious. The ordering process was smooth, and my meal was ready on time. I’ll definitely be ordering again and would recommend this place to anyone looking for tasty East African food! Also gabadha meesha joogto she was soo sweet UGHH I FORGOT HER NAME but her service was amazing ❤️jazakaAllah apaayo .
+  - name: "Chad Hyslop"
+    rating: 1
+    comment: |
+      Discusting dont go there, it's an old hotel that was bed bug infested.  It's gotten worse since the new owners.  Don't believe the ratings, experience the place yourself.  Its amazingly gross.  Epic Fail ... EDIT AFTER OWNER RESPONSE: my review stands thank you.  ... You dont have beds but you live in there?  Do you sleep in the kitchen? Please let us know....
   - name: "A"
     rating: 2
     comment: |
@@ -33,10 +37,6 @@ reviews:
     rating: 5
     comment: |
       Delicious food, generous portions, and great service! My takeaway order was fresh, well-packaged, and full of flavor. I’ll definitely be ordering again! Thank youuuu
-  - name: "Abdishakur Eengoye"
-    rating: 5
-    comment: |
-      Amazing food and experience service, I’ll come back for many times
 hours:
   monday: "8:00 AM–9:00 PM"
   tuesday: "8:00 AM–9:00 PM"

@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/tajine-house-restaurant-moroccan-and-mediterranean-cuisine-1.jpg", "/photos/tajine-house-restaurant-moroccan-and-mediterranean-cuisine-2.jpg", "/photos/tajine-house-restaurant-moroccan-and-mediterranean-cuisine-3.jpg"]
 rating: 4.9
-review_count: 948
+review_count: 953
 price_range: "$$"
 amenities:
   - "Halal"
@@ -48,12 +48,17 @@ reviews:
     rating: 5
     comment: |
       First time trying Moroccan cuisine, the lamb dish here  is amazing, lamb was cooked perfectly. Bread is included in the meal, tastes very good. Moroccan special mint tea is a must try, the waitress here will show her amazing tea pouring skill. Also the washroom is super clean. It was an excellent dining experience, will come back to try more dishes.
-  - name: "Salma K"
-    rating: 5
-    comment: |
-      Very good! I had the chicken tajine  with vegetables, and it was delicious. My husband ordered the grilled platter, but we didn’t enjoy it as much. If you’re going to a Moroccan restaurant, I definitely recommend trying a Tajine. The soup was also excellent, and we loved the assortment of traditional Moroccan cookies served with the Moroccan tea. I would definitely come back!!
   - name: "Abrar Islam"
     rating: 5
     comment: |
       This might be a underrated hidden gem. It doesn't pop up in most popular Edmonton restaurants and wasn't busy on the Saturday I came. But it's really good. Lots non-rice dishes that are super flavorful and different from the traditional Arab halal cuisines you get. The seafood pastilla and the kofta tajine were both delicious. The service did take some time but everything was served completely fresh. Definitely recommend!
+  - name: "Hamza Zafar"
+    rating: 5
+    comment: |
+      Amazing food. Super flavourful chicken and sauce, felt very hearty and filling.
+      We even tried an interesting dish that had chicken, with icing sugar and cinnamon. We were skeptical but the combination was very interesting and contrasted each other very well.
+      
+      The owner was super friendly and welcoming as well
+      
+      Highly recommend
 ---

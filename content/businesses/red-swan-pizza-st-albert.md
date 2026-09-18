@@ -5,8 +5,8 @@ category: "restaurants"
 subcategory: "pizza"
 neighborhood: "St. Albert"
 address: "367 St Albert Trail, next to Popeyes, Medical center Plaza, Rivercrest Crescent unit :6, St. Albert, AB T8N 0R1"
-rating: 4.3
-review_count: 247
+rating: 4.2
+review_count: 249
 tier: "featured"
 phone: "(780) 569-2272"
 website: "https://redswanpizza.ca/"

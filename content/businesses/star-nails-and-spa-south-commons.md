@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/star-nails-and-spa-south-commons-1.jpg", "/photos/star-nails-and-spa-south-commons-2.jpg", "/photos/star-nails-and-spa-south-commons-3.jpg"]
 rating: 4.8
-review_count: 241
+review_count: 242
 price_range: "$$$"
 amenities:
 
@@ -28,6 +28,10 @@ tags: ["edmonton", "gel"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "PG"
+    rating: 5
+    comment: |
+      I was looking to get chrome nails for my wedding. The salon I usually go to really disappointed me during the trial so I was looking for another option and ended up here based on location and reviews. This photo is my nails OVER A WEEK later after my wedding!! They are still absolutely perfect! The attention to detail was incredible, my nails were done so thoroughly and I am so grateful. For taking a chance on a salon I’ve never been to I could not be happier, 10/10 recommend and will definitely be back :)
   - name: "Sandra"
     rating: 5
     comment: |
@@ -57,8 +61,4 @@ reviews:
       I also want to thank the other nail technician (I didn't catch her name) who was so kind and thoughtful. She recognized that Jenny had the expertise to help with my ingrown toenail and made sure I was in the best hands.
       The entire experience was wonderful from start to finish. The staff truly care about their clients, and it shows. This will definitely not be my last visit. I've found my new favorite nail salon!
       Thank you all so much for the exceptional service and for making my first visit such a positive experience. I highly recommend Star Nails & Spa!
-  - name: "Shauna O'Dell"
-    rating: 5
-    comment: |
-      The service was so welcoming and friendly and the shop is beautiful and extremely clean. I can honestly say the whole experience from beginning to end was top notch. My friend and I both had mani/pedis with shellac and the price was competitive especially for it being in the "big" city.
 ---

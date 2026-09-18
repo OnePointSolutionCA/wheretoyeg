@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/rejuvenation-dermatology-clinic---downtown-1.jpg", "/photos/rejuvenation-dermatology-clinic---downtown-2.jpg"]
 rating: 4.8
-review_count: 1516
+review_count: 1518
 price_range: "$$"
 amenities:
 

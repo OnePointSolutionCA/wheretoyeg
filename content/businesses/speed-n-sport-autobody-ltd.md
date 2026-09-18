@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/speed-n-sport-autobody-ltd-1.jpg", "/photos/speed-n-sport-autobody-ltd-2.jpg", "/photos/speed-n-sport-autobody-ltd-3.jpg"]
 rating: 4.9
-review_count: 110
+review_count: 111
 price_range: "$$"
 amenities:
 

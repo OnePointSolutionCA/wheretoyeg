@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Mill Woods"
 address: "2404 50 St NW, Edmonton, AB T6L 6Z4"
 rating: 4.6
-review_count: 1086
+review_count: 1087
 tier: "featured"
 phone: "(780) 466-4507"
 website: "https://www.speedy.com/en-ca/shop/edmonton-millwoods/"

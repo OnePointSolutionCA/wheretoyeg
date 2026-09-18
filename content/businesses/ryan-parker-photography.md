@@ -20,7 +20,7 @@ hours:
   sunday: "5:00 AM–12:00 AM"
 photos: ["/photos/ryan-parker-photography-1.jpg", "/photos/ryan-parker-photography-2.jpg", "/photos/ryan-parker-photography-3.jpg"]
 rating: 5
-review_count: 293
+review_count: 294
 price_range: "$$"
 amenities:
 
@@ -36,22 +36,22 @@ reviews:
       He was professional, patient, and made the entire experience enjoyable and comfortable for my daughter. The photos turned out absolutely beautiful and captured her so well.
       
       This was our second time booking with Ryan, and once again we had an excellent experience. We will definitely continue to book with him in the future.
+  - name: "Arya Subramanian"
+    rating: 5
+    comment: |
+      My fiancé and I chose Ryan for updated professional headshots, and we had a great experience working with him! Ryan was both professional and fun, creating a very relaxed atmosphere from the moment we started the session. Ryan was also very patient and put a lot of care into helping us narrow it down to our final shots!
   - name: "Helen Metella"
     rating: 5
     comment: |
       Having my professional headshot done with Ryan Parker behind the camera was a fabulous experience. He and makeup artist Emily Phung are magic-makers. They are both genuinely warm, confidence-inspiring and efficient. I could not be more pleased!
-  - name: "Deidre Harrison"
-    rating: 5
-    comment: |
-      I am eternally grateful to have Ryan on my 'life team'! For over a decade, he has been capturing the most professional and magical headshots for me. He is spectacularly talented, and I truly cannot say enough good things about him. Here’s to many more years of working together.
   - name: "Courtney Mcleod"
     rating: 5
     comment: |
       Ryan was absolutely incredible!! Hands down the best decision we made for our wedding. From start to finish, he was professional, calm, and so easy to work with. He has an amazing ability to make you feel comfortable and natural in front of the camera!
       
       Beyond his talent, Ryan is just a genuinely wonderful person to have by your side on such an important day. We couldn’t be happier with our experience
-  - name: "Andy Reynolds"
+  - name: "Deidre Harrison"
     rating: 5
     comment: |
-      I chose Ryan for my headshots because of his acting experience and because his portfolio contained images that clearly communicated something, rather than just being a collection of smiley corporate vanilla. He immediately understood what I was looking for (and why), and helped me express it for his camera. We had the shots I wanted down in very short order, although I felt like he would have spent hours with me if that's what it took. The images were expertly retouched by the end of the week, and I couldn't be happier.
+      I am eternally grateful to have Ryan on my 'life team'! For over a decade, he has been capturing the most professional and magical headshots for me. He is spectacularly talented, and I truly cannot say enough good things about him. Here’s to many more years of working together.
 ---

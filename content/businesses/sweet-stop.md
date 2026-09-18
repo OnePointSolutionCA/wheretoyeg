@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/sweet-stop-1.jpg", "/photos/sweet-stop-2.jpg", "/photos/sweet-stop-3.jpg"]
 rating: 5
-review_count: 257
+review_count: 260
 price_range: "$$"
 amenities:
   - "Dine-In"

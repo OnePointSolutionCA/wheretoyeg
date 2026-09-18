@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:30 PM"
 photos: ["/photos/sweet-castle-bakery-1.jpg", "/photos/sweet-castle-bakery-2.jpg", "/photos/sweet-castle-bakery-3.jpg"]
 rating: 4.8
-review_count: 1015
+review_count: 1018
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,6 +30,10 @@ tags: ["edmonton", "desserts"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Brian Ho"
+    rating: 4
+    comment: |
+      Let's start with I'm a bakery guy at heart... and we were in Paris last fall so I have something to compare against.  For gluten free baking these guys are exceptional.  I can't give 5 stars because compared against the 5 star bakeries I have tried they fall a little short against traditional baked goods but part of that is obviously the ingredients.  Their drinks, including their London Fog, are top notch.  Prices are a bit expensive but worth it for a treat! The staff is extremely helpful and accommodating, the place is a beautiful little oasis and honestly the unique options and variety will keep me coming back.  Well that... and a few family members are Gluten intolerant and why should they have to miss out on amazing baked goods! The Google Business Profiles hours are accurate but their website and Facebook page hours were not.
   - name: "khulood mousa"
     rating: 5
     comment: |
@@ -51,22 +55,4 @@ reviews:
     rating: 5
     comment: |
       I love this precious cafe! I was there for a private event, and you can tell that owner Mahsa and her team really care about people, because they have outstanding service, and the atmosphere is inviting and intimate. They pay attention to details. I love that there are gluten free options as I prefer GF, and for those that are vegan, they have that too. I had the delicious GF cheese and chocolate chip scones and GF cranberry, walnut sandwhich. I highly recommend this place for special occasions and having your coffee dates here!
-  - name: "Maan Kaur"
-    rating: 5
-    comment: |
-      ​I cannot say enough good things about my experience at Sweet Castle Bakery! From the moment you walk in, you are met with such wonderful hospitality. Jeslin and Satinder are absolute gems—they are so generous and always welcome you with the kindest smiles. They truly make you feel like a valued guest.
-      ​
-      The quality of the food is top-tier because everything is freshly baked daily. You can really taste the love and freshness in every bite. I tried a variety of treats, and they were all incredible:
-      
-      ​Spinach and Cheese Croissant: This was amazing—it literally melts in your mouth! A must-try if you want something savory.
-      
-      ​Carrot Cake: This was my absolute favorite! Perfectly balanced and delicious.
-      
-      ​Opera Cake: Rich, elegant, and beautifully made.
-      ​
-      Red Velvet Cake: Classic, fresh, and full of flavor.
-      ​
-      Raspberry Pistachio: A great combination of tastes.
-      
-      ​If you want a treat that is as sweet as the service, you have to stop by and see Jeslin and Satinder. I'll definitely be back!
 ---

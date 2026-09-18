@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/sherbrooke-family-dental-1.jpg", "/photos/sherbrooke-family-dental-2.jpg", "/photos/sherbrooke-family-dental-3.jpg"]
 rating: 4.6
-review_count: 347
+review_count: 348
 price_range: "$$"
 amenities:
 
@@ -44,14 +44,12 @@ reviews:
     rating: 5
     comment: |
       I’ve Always had so much anxiety about going to the dentist. Sherbrooke Dental is by far the best Dental experience I’ve ever had! Everybody is so nice and welcoming! They always make sure you’re Comfortable. Every time I have an appointment, every single employee has a smiling face which creates such a great atmosphere. I am no longer dreading my dentist appointments! Highly recommend Sherbrooke Dental!!!
-  - name: "Nihal hamdi"
-    rating: 5
-    comment: |
-      I can’t say enough good things about my experience at Sherbrooke Family Dental. I’ve always been very anxious about dental procedures, especially extractions, but this clinic completely changed how I feel about going to the dentist.
-      I had a tooth extraction, and it was completely painless. I genuinely couldn’t believe how smooth and comfortable the entire process was thanks to everyone in this clinic. the team was kind, professional, and incredibly reassuring. They took the time to make sure I felt at ease every step of the way.
-      The level of care and attention I received was truly exceptional. I’m very grateful for their kindness and expertise, and I would confidently recommend this clinic to anyone—especially those who feel nervous about dental visits.
   - name: "Kristina Stagg"
     rating: 5
     comment: |
       I have just moved back from living abroad for 6 years. I was very nervous to have to find a new dentist. Sherbrooke Family Dental has been more than welcoming to me as a new patient! Melissa showed me so much kindness during my appointment. I felt so comfortable and informed about everything that was going on throughout. She was just so lovely to me, I appreciate how much she cares. Dr. A Musbah speaks with clarity and ensured I understood all aspects of what's happening with my teeth. He gave me options to chose from regarding important decisions moving forward and I didn't feel rushed or pressured into anything! Thank you so much for welcoming me into your practice. I will recommend this place to anyone who asks!
+  - name: "Randa El-Sharkawi"
+    rating: 5
+    comment: |
+      I have been visiting this amazing clinic with my family for years . They always pay special attention to details , so friendly, so professional. Always make you feel special. The care is superb! Highly recommend to anyone . Thank you Sherbrooke dental team for your professionalism and care.
 ---

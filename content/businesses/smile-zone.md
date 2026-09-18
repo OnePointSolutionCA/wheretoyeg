@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "8742 109 St NW, Edmonton, AB T6G 1E9"
 rating: 4.7
-review_count: 919
+review_count: 921
 tier: "featured"
 phone: "(780) 989-5733"
 website: "https://smilezone.net/?utm_source=GBP&utm_medium=button&utm_campaign=Home"
@@ -14,17 +14,6 @@ google_maps: "https://maps.google.com/?cid=9648596344216002999&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/smile-zone.jpg"
 reviews:
-  - name: "Alexis Paradis"
-    rating: 5
-    comment: |
-      I’m not sure why I didn’t go to Smile Zone sooner. Booking an appointment was incredibly easy, and they clearly explained my coverage in a way that made everything simple to understand. My teeth cleaning appointment was great—we also discussed practical ways to improve my oral care routine, which I really appreciated.
-      
-      I had to get a filling done as well, and the team made me feel very comfortable throughout the entire procedure, even though I’m usually uneasy about the drill. Overall, it was a positive experience from start to finish, and I’ll definitely be returning as a patient.
-  - name: "Doreen qy"
-    rating: 1
-    comment: |
-      My service was fine in 2024, but after that earlier this year I went to check about the price for teeth cleaning. It was quoted for 600+ and I said that was too expensive. Idk what they removed from the first quote , then it was still 360+, after the part was covered by insurance. My friend did complain her teeth cleaning was way too expensive which was also her second visit. But I went to this place the first time even my friend told me not to go, their quote for first time visitor is really good.
-      Then here comes my nightmare, they call me at least twice roughly every half year since 2024 in the early morning for the appointment I didn’t make. I understand you want to make money from dental cleaning what so ever. I don’t mind get email or text saying this is a kind reminder for booking your next dental cleaning. Call me and tell me I’m here to confirm your appointment at what date is nonsense!!!Everyone has different life styles how can you be sure before 9am is good time for everyone. And the way you contact people for reminders is just gross. And see how they use Tim’s gift cards to make people leave 5 star reviews. This is not how you get people there so you can make money.
   - name: "Yoreana Ramos"
     rating: 5
     comment: |
@@ -48,6 +37,18 @@ reviews:
       The hygienists were thorough yet gentle, taking the time to explain everything clearly and ensuring I was comfortable throughout the appointment. The dentist was professional, knowledgeable, and genuinely caring, which made me feel confident and well taken care of.
       
       Overall, the level of service here is outstanding. The team goes above and beyond to create a positive and comfortable environment. I highly recommend this clinic to anyone looking for top-quality dental care!
+  - name: "Suraj Bawa"
+    rating: 5
+    comment: |
+      I recently had a root canal treatment at The Smile Zone with Dr. Jagbir Singh, and my experience was excellent. The procedure was explained clearly beforehand, which helped me feel comfortable and less anxious. Dr. Singh was very professional, gentle, and made sure I was not in pain during the treatment.
+      
+      The clinic staff was also friendly and supportive, and the overall environment was clean and welcoming. The appointment went smoothly and I felt well taken care of from start to finish.
+      
+      I truly appreciate the care and attention provided, and I would definitely recommend The Smile Zone and Dr. Jagbir Singh to anyone looking for dental treatment.
+  - name: "Bokem Multiproject"
+    rating: 5
+    comment: |
+      I have visited Smile Zone Dental twice now, through referral from my dentist. My experience in both visits were more than super. Dr. Sonia conducted an extraction for me today within minutes and the experience was beyond expressions! Her bedside manners and professionalism was beyond the roof of any chart! Thank you Smile Zone team! Olabode Akindele
 hours:
   monday: "8:00 AM–8:00 PM"
   tuesday: "8:00 AM–8:00 PM"

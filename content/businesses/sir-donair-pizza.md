@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/sir-donair-pizza-1.jpg", "/photos/sir-donair-pizza-2.jpg", "/photos/sir-donair-pizza-3.jpg"]
 rating: 4.6
-review_count: 510
+review_count: 511
 price_range: "$"
 amenities:
   - "Halal"
@@ -44,12 +44,12 @@ reviews:
     rating: 5
     comment: |
       My family and I know this family since they opened 16 years ago they are respectful and professionals. They are not cheap on the portions they serve. Great food and clean restaurant
-  - name: "nadia Semerikov"
-    rating: 5
-    comment: |
-      Very juicy meat! We got the chicken donair n a beef donair! Super aromatic n flavors were awesome! Definitely gonna hav to try them again! Satisfying lunch!
   - name: "Stephen Leggatt"
     rating: 5
     comment: |
       I've never had a donair that was that full of meat and flavor in my life, and im from the easy coast. Definitely stop in if your looking for the easy after work meal. You won't be disappointed.
+  - name: "Shayne S"
+    rating: 1
+    comment: |
+      Paid 17 dollars for half a poutine, there is no value here. If they where honest about the sizing I would of got a donair and spare this pain. Tho I won't lie the small portion was delicious.
 ---

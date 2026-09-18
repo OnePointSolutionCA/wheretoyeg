@@ -32,20 +32,20 @@ reviews:
     rating: 5
     comment: |
       One of the best experiences I’ve have with any counselor. I’m beyond happy for the strides we have made together.
-  - name: "Mazen Bou Diab"
+  - name: "Adam Massiah"
     rating: 5
     comment: |
-      Highly recommended.
+      Very professional and attentive. No need to look any further after having our first conversation. Would highly recommend!
+  - name: "Mike Hills"
+    rating: 5
+    comment: |
+      Everyone is so kind and incredibly proffesional. Beautiful space, feels relaxing just walking into the space.
   - name: "Dylan Thomas"
     rating: 5
     comment: |
       They have an amazing team .
-  - name: "Natasha Alame"
+  - name: "Mazen Bou Diab"
     rating: 5
     comment: |
-      Amazing mental health support great staff 👍
-  - name: "Sebastian Paz"
-    rating: 5
-    comment: |
-      I was nervous about starting therapy but the whole process was really easy — booking was simple and they had evening slots which was huge for me since I work during the day. My therapist made me feel comfortable right away, no judgment, just genuinely listened and helped me actually work through things instead of just nodding along. It's the kind of place where you can tell they actually care. Would recommend to anyone looking for a therapist.
+      Highly recommended.
 ---

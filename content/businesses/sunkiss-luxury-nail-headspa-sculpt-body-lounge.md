@@ -19,8 +19,8 @@ hours:
   saturday: "10:00 AM–7:00 PM"
   sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/sunkiss-luxury-nail-headspa-sculpt-body-lounge-1.jpg", "/photos/sunkiss-luxury-nail-headspa-sculpt-body-lounge-2.jpg", "/photos/sunkiss-luxury-nail-headspa-sculpt-body-lounge-3.jpg"]
-rating: 4.7
-review_count: 90
+rating: 4.6
+review_count: 88
 price_range: "$$"
 amenities:
 

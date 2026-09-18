@@ -16,6 +16,10 @@ reviews:
     rating: 5
     comment: |
       If you are a fan of charcoal grills, this place would be the hidden gem of Edmonton for you. Absolutely amazing kebabs, smoky flavor, and very good service. A nice little family run restaurant that is totally worth the visit.
+  - name: "Ibra Huo"
+    rating: 5
+    comment: |
+      Absolutely delicious! The charcoal-grilled chicken was perfectly cooked, juicy, and full of amazing flavor. The kebab was tender, well-seasoned, and grilled to perfection. The rice was fresh and paired perfectly with the grilled meats. The portions were generous, the restaurant was clean, and the staff were friendly and welcoming. I highly recommend this place to anyone looking for authentic, flavorful barbecue. I’ll definitely be coming back!
   - name: "Áki Jónasson"
     rating: 5
     comment: |
@@ -28,11 +32,6 @@ reviews:
     rating: 5
     comment: |
       The owner is very humble. The food is very delicious 😋. They are very generous, huge meal portions. The goat head was amazing.
-  - name: "Ari Barky"
-    rating: 5
-    comment: |
-      I gave them five stars because of the sample place but the very good food came, I tested the grills it was very tasty and juicy, and I tested Fawargh or Mombar which were very good.
-      My family enjoyed of launch there. Definitely, I will return and test the rest of the menu.
 hours:
   monday: "11:00 AM–11:00 PM"
   tuesday: "11:00 AM–11:00 PM"

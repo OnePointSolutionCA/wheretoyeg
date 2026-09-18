@@ -44,6 +44,16 @@ reviews:
       Devin Gray
       Realtor
       EXP Realty
+  - name: "Cody Stanlow"
+    rating: 5
+    comment: |
+      I’ve been training with Nino Cruz and the team at SVPT for about a year now through our group sessions, and they’ve been incredible from day one.
+      
+      Nino brings the perfect balance of knowledge, accountability, energy, and professionalism. He knows how to push you without making the experience feel forced, and he does a great job adapting workouts to different fitness levels while still keeping the entire group challenged and engaged.
+      
+      The whole SVPT team is welcoming, organized, and clearly passionate about what they do. The quality of the coaching and the atmosphere they’ve created is top-tier.
+      
+      I’d highly recommend Nino and SVPT to anyone looking to improve their fitness, stay accountable, and actually enjoy the process.
   - name: "Aurora Harper"
     rating: 5
     comment: |
@@ -54,22 +64,12 @@ reviews:
       I've become noticeably stronger and more confident since starting, and while he regularly finds new ways to make me question my life choices (battle ropes, I'm looking at you 😅), it's always worth it.
       
       If you're looking for a personal trainer in Edmonton who genuinely cares about helping you improve, whether you're just starting out or you've been training for years, I can't recommend Nino and SVPT Fitness enough.
+  - name: "Hana Yu"
+    rating: 5
+    comment: |
+      My partner and I have been working with Nino for almost half a year now, and our experience has been amazing! Nino has been great to work with, patient and really passionate about what he does. He prepared us well for our Inca Trail adventure! (And squat toilets) it is also great to see so many different people across different age groups and fitness level working hard at the gym. We highly recommend SVPT and Nino!
   - name: "Graham Steel"
     rating: 5
     comment: |
       This is an excellent gym with a great atmosphere and top-notch equipment.  Nino Cruz is an great personal trainer--professional, knowledgable, motivating and he genuinely cares about his clients' success.  I've made consistent progress working with him and would highly recommend both Nino and SVPT fitness.
-  - name: "Amy Bridges"
-    rating: 5
-    comment: |
-      I love SVPT and particularly my trainer, Sarah-Beth. I joined SVPT at a pretty low point in my health journey and I needed someone who could show me compassion while also challenging me to put in the work. Sarah has been all of that and more: a fantastic trainer, a kind soul, and a patient "therapist" while I talk her ear off. She listens, she understands movement and what my body is capable of, she shares her knowledge, and she has inspired me to work hard, improve my health, and be the best version of me. The rest of the staff are fun and friendly, the facility is clean, bright and welcoming, and I enjoy many laughs and motivational conversations with other people who go there. SVPT and Sarah have been exactly what I needed to take back control of my health!
-  - name: "Jennifer Benbow"
-    rating: 5
-    comment: |
-      "Everyone at SVPT thinks they have the best trainer, but Nino truly is the best.
-      
-      I’ve been working with Nino for 16 months now, and I can honestly say I am stronger and fitter than I have ever been. He consistently develops programs that challenge me, keep me engaged, and help me continuously build strength.
-      
-      When I first decided to hire a trainer, I was incredibly nervous because I had never stepped foot in a gym before. However, after my very first session with Nino, I realized I had absolutely nothing to worry about. He always prioritizes correct form and creates a supportive environment.
-      
-      If you want a knowledgeable, encouraging trainer who knows exactly how to help you reach your potential - Nino is the best!
 ---

@@ -18,7 +18,7 @@ hours:
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/royal-alberta-museum-1.jpg", "/photos/royal-alberta-museum-2.jpg", "/photos/royal-alberta-museum-3.jpg"]
 rating: 4.6
-review_count: 5005
+review_count: 5014
 price_range: "$$"
 amenities:
   - "Family Friendly"
@@ -49,6 +49,14 @@ reviews:
       My favorite is probably the special exhibit on “Death: Life’s Greatest Mystery,” which I think did a wonderful job in portraying different customs revolving around death.
       
       I also like the Francophone exhibit, especially the audio exhibit. Overall, I enjoyed the majority of the exhibits and thought the museum was worth visiting.
+  - name: "M. Emre Aydin"
+    rating: 4
+    comment: |
+      The last I visited this museum in 2011, it wasn’t moved to downtown yet. I believe that old building had a better feeling. The modern building is very clean, toilets are great, with water fountains for your bottles, has easy elevator access.
+      The human history part was not organized in great order. We had trouble deciding which way to go and you end up randomly jumping towards sections, which doesn’t give you a chronological feel. The parts for the First Nations People were great.
+      I remember a very detailed bug and butterfly collection in the old building. Now there weren’t any butterflies.
+      
+      The museum shop is great. Lots to buy and the prices are fine. It’s a shame that the museum and the shop close so early even on a weekend.
   - name: "Colin Nilsen"
     rating: 5
     comment: |
@@ -61,13 +69,4 @@ reviews:
       I'm only giving it a 4 star rating because I wish more of the interactive stations worked, many were not working.
       
       Other than that, it was a great way to spend the day!
-  - name: "Renee C"
-    rating: 4
-    comment: |
-      Spent the morning at the museum. The feature gallery was the best exhibit. I attended during Death, Life's Greatest Mystery and it was very well done!
-      Overall, the museum felt small. I have been to the Royal Ontario Museum and I could spend all day there. The RAM however, I was in and out in 1.5hrs, while stopping to read most things.
-      
-      Id give 5 stars if there was a little more to do/see, but it just felt lacking.
-      
-      Friendly staff, very helpful and informative! I do recommend going at least once, but dont plan a full day out of it.
 ---

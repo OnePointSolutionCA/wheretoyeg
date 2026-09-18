@@ -50,12 +50,12 @@ reviews:
     rating: 5
     comment: |
       Si Salon & Spa has become my favourite hair salon to go to. Everyone is so kind and I love Nidya—> she’s the one who did my beautiful hair. She also cuts my hair and recently I wanted to try something crazy new! She definitely delivered! I really recommend Si Salon & Spa, they really do everything haha and even are amazing with men too, if you want to bring your partner to get done at the same time :)
-  - name: "MUBARAK GILL"
-    rating: 5
-    comment: |
-      So, I went to Si Salon & Spa for the first time and I absolutely loved the experience. Stacy did my hair and honestly I didn’t need to tell her what I want. She did her job perfectly and cut my hair according to what suits on my face shape. I really liked the environment and all of her staff members are super welcoming. I will definitely be coming back!
   - name: "Nancy"
     rating: 5
     comment: |
       The owner was the one that did my hair. She was very nice and welcoming. I went with my sisters and she made it into a party with wine and cheese which was great! Very clean and professional salon. Thanks for a great experience!
+  - name: "MUBARAK GILL"
+    rating: 5
+    comment: |
+      So, I went to Si Salon & Spa for the first time and I absolutely loved the experience. Stacy did my hair and honestly I didn’t need to tell her what I want. She did her job perfectly and cut my hair according to what suits on my face shape. I really liked the environment and all of her staff members are super welcoming. I will definitely be coming back!
 ---

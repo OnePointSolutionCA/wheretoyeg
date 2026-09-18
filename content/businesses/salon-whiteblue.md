@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–8:00 PM"
 photos: ["/photos/salon-whiteblue-1.jpg", "/photos/salon-whiteblue-2.jpg", "/photos/salon-whiteblue-3.jpg"]
 rating: 4.8
-review_count: 291
+review_count: 292
 price_range: "$$"
 amenities:
 

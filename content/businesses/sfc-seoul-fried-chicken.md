@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–8:00 PM"
 photos: ["/photos/sfc-seoul-fried-chicken-1.jpg", "/photos/sfc-seoul-fried-chicken-2.jpg", "/photos/sfc-seoul-fried-chicken-3.jpg"]
 rating: 4.5
-review_count: 3138
+review_count: 3137
 price_range: "$$"
 amenities:
   - "Dine-In"

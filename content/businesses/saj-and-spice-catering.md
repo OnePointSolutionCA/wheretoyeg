@@ -18,6 +18,10 @@ reviews:
     rating: 5
     comment: |
       I've never been to a bridal shower with such an elegant buffet setups, wow!
+  - name: "Antonio"
+    rating: 5
+    comment: |
+      Needed catering for 80 people & saw they did smoked meats, got the brisket short ribs and sides, incredible flavour and service. Thank you!
   - name: "K H"
     rating: 5
     comment: |
@@ -28,10 +32,6 @@ reviews:
     rating: 5
     comment: |
       We had a great experience with Saj & Spice. The food was delicious, everything arrived fresh, and the whole process was easy from start to finish. Would definitely order from them again!
-  - name: "Antonio"
-    rating: 5
-    comment: |
-      Needed catering for 80 people & saw they did smoked meats, got the brisket short ribs and sides, incredible flavour and service. Thank you!
 hours:
   monday: "8:00 AM–9:00 PM"
   tuesday: "8:00 AM–9:00 PM"

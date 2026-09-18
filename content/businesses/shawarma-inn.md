@@ -19,7 +19,7 @@ hours:
   sunday: "9:00 AM–2:00 PM"
 photos: ["/photos/shawarma-inn-1.jpg", "/photos/shawarma-inn-2.jpg", "/photos/shawarma-inn-3.jpg"]
 rating: 4.8
-review_count: 146
+review_count: 147
 price_range: "$"
 amenities:
   - "Halal"
@@ -38,6 +38,11 @@ reviews:
       If subway decided to do a chicken shawarma wrap, it would likely taste like the one I had here.
       
       Service was friendly and the restaurant is clean.  I wouldn't return here again, there are MUCH better options not too far from Shawarma Inn.
+  - name: "Nora Yaghi"
+    rating: 5
+    comment: |
+      Hands down the tastiest beef shawarma in the city. Reasonably priced.
+      We ordered our food to go (15 min drive), we ate one sandwich in the car and the others when we got home and they were both just as tasty.
   - name: "Jen"
     rating: 5
     comment: |
@@ -50,9 +55,4 @@ reviews:
     rating: 5
     comment: |
       Solid shawarma and portion sizes. Pictured is the Beef Shawarma wrap combo. Crispy texture outside, inside meat well seasoned and blended well with the sauce and other toppings. Fries were fresh. Bit out of my way but would want to come by again.
-  - name: "Steven Nguyen"
-    rating: 5
-    comment: |
-      -hidden gem-
-      Nice, calm vibe. Killer portion. Garlic sauce with the fries. Can't ask for more.
 ---

@@ -9,16 +9,16 @@ address: "West Edmonton Mall"
 neighborhood: "West Edmonton"
 google_maps_url: "https://maps.google.com/?q=The%20Rec%20Room%20Edmonton"
 hours:
-  monday: "11:30 AM–11:00 PM"
-  tuesday: "11:30 AM–11:00 PM"
-  wednesday: "11:30 AM–11:00 PM"
-  thursday: "11:30 AM–11:00 PM"
+  monday: "3:00 PM–11:00 PM"
+  tuesday: "3:00 PM–11:00 PM"
+  wednesday: "3:00 PM–11:00 PM"
+  thursday: "3:00 PM–11:00 PM"
   friday: "11:00 AM–1:00 AM"
   saturday: "11:00 AM–1:00 AM"
   sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/rec-room-edmonton-1.jpg", "/photos/rec-room-edmonton-2.jpg", "/photos/rec-room-edmonton-3.jpg"]
 rating: 4.1
-review_count: 2453
+review_count: 2456
 price_range: "$$"
 amenities:
   - "Arcade"

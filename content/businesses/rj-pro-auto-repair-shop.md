@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Beaumont"
 address: "5608 60 St, Beaumont, AB T4X 0G8"
 rating: 4.4
-review_count: 27
+review_count: 28
 tier: "featured"
 phone: "(587) 579-4020"
 google_maps: "https://maps.google.com/?cid=5032646994182966841&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -29,10 +29,11 @@ reviews:
     rating: 5
     comment: |
       He is awesome. Solve all my hybrid car codes with his knowledgeable approach and make me understand how process works. Thank you so much RJ
-  - name: "Kyan Hasheminia"
+  - name: "Samantha Bailey"
     rating: 5
     comment: |
-      Got my wheel bearing done, he got me in quick and finished the work fast. Super friendly and knowledgeable.
+      Had my breaks done here a few weeks ago. They got me in relatively quick and quoted almost to the dime, the price was exactly what I was expecting so no complaints there.
+      Yesterday I heard a weird sound while breaking really hard so I called and they got me in within the hour to check it out. Turned out it was nothing (just the ABS break system) but Raj took it for a good drive around the community to make sure for me, and didn’t charge at all. Put my mind at ease. Lovely to deal with, will be back for sure!
 hours:
   monday: "9:00 AM–6:00 PM"
   tuesday: "9:00 AM–6:00 PM"

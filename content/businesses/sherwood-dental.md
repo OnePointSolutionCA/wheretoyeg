@@ -25,10 +25,10 @@ reviews:
       Dr. Pan is so welcoming and always there to answer questions about my oral health.  I’m considering Invisalign treatment with Dr Pan, she’s very knowledgeable about the whole process.
       Thank you everyone!!  I visit this office every 2 months for cleaning/treatments…. Not bad for a very apprehensive dental patient!
       Well done!  Patient for life!
-  - name: "Joan Mclean"
+  - name: "Margaret Czyz"
     rating: 5
     comment: |
-      I am very happy to have found a fantastic dentist! Incredible experience with Dr. Lucas Milne. He is very personable, took his time performing a highly thorough exam, and explained absolutely everything as he went. I never felt rushed for a single second or pressured into any procedure. He truly went over and above to ease my mind and calm my nerves. His dental assistant, Sophia, was also an absolute gem! She answered all my questions and made me feel so comfortable from start to finish. Because of their amazing care and clear explanations, I feel totally confident in him performing my root canal. If you want a team that genuinely cares and prioritizes patient comfort, this is the place to go."
+      First visit today with Dr John Michaiel! He is a  very skilled and gentle dentist! Very professional and kind.  Highly recommend!! He also did an inhouse crown replacement.  Can be done the same day!! Amazing fit and feels much better than my old one.  Very caring and meticulous !
   - name: "Kim Herr"
     rating: 5
     comment: |

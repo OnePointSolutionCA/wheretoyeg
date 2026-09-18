@@ -19,7 +19,7 @@ hours:
   sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/revive-pilates---south-edmonton-1.jpg", "/photos/revive-pilates---south-edmonton-2.jpg", "/photos/revive-pilates---south-edmonton-3.jpg"]
 rating: 4.9
-review_count: 61
+review_count: 62
 price_range: "$$"
 amenities:
 
@@ -27,18 +27,14 @@ tags: ["edmonton", "pilates"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Taylor Grosz"
-    rating: 5
-    comment: |
-      This was my first time trying out a Pilates studio and I’ve had the best experience with them. The staff and instructors are seriously the sweetest and are so welcoming to everyone. Megan has killer classes and leaves u feeling so good afterwards. Highly recommend!!
-  - name: "Leonard Enekegho"
-    rating: 5
-    comment: |
-      Amazing group of people! I got their and I have loved every single class. The instructors are great, the studio is beautiful. I felt so welcomed
   - name: "Kayla Novotny"
     rating: 5
     comment: |
       A friend from work told me about this studio because of their free trial week and I’m OBSESSED. The classes are absolutely fantastic! I’ve been going to Madis’s classes and she’s been so kind, helpful, and encouraging—especially since this is my first time ever doing Pilates. Such a great environment, I’m already hooked!
+  - name: "Taylor Grosz"
+    rating: 5
+    comment: |
+      This was my first time trying out a Pilates studio and I’ve had the best experience with them. The staff and instructors are seriously the sweetest and are so welcoming to everyone. Megan has killer classes and leaves u feeling so good afterwards. Highly recommend!!
   - name: "Tristyn Q"
     rating: 5
     comment: |
@@ -47,4 +43,8 @@ reviews:
     rating: 5
     comment: |
       You absolutely MUST try. Everything about the studio is so welcoming. Every instructor is so nice and incredible at what they do. Both studios are gorgeous and the huge array of classes that they have allows everyone to have an option at flexible times to work around your schedule
+  - name: "Katelynn W"
+    rating: 5
+    comment: |
+      The studio space is beautiful. Hot pilates is so challenging but so worth it! Everyone of all levels is welcome so definitely give it a try if you’ve been thinking about it. The instructors are all awesome. There’s a variety of hot and reformer classes to choose from at lots of different times.
 ---

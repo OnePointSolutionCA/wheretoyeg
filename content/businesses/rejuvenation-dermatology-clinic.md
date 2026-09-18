@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–4:00 PM"
 photos: ["/photos/rejuvenation-dermatology-clinic-1.jpg", "/photos/rejuvenation-dermatology-clinic-2.jpg", "/photos/rejuvenation-dermatology-clinic-3.jpg"]
 rating: 4.8
-review_count: 1651
+review_count: 1654
 price_range: "$$"
 amenities:
 

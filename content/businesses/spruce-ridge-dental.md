@@ -30,11 +30,10 @@ reviews:
     rating: 5
     comment: |
       I had a great experience at Spruce Ridge Dental. They took their time to explain everything they were doing. I recommend this place.
-  - name: "Julien Bilodeau"
+  - name: "Dennis Carpio"
     rating: 5
     comment: |
-      Very pleasant people to deal with all around. June 17th
-      Once again had the occasion to visit Spruce Ridge Dental and as always I was the recipient of great and pleasant service from all at the clinic with whom I had contact with. Prompt efficient and left with a smile.
+      Just had a two-session root canal and honestly, I’m super impressed. I was expecting some pain, but it was totally pain-free the whole way through! The dentist and his dental assistant were really nice and made me feel comfortable the entire time. Super friendly, down-to-earth, and they explained everything clearly. They made what could’ve been a stressful experience surprisingly easy. Definitely recommend them if you need any dental work done.
 hours:
   monday: "10:00 AM–7:00 PM"
   tuesday: "8:00 AM–4:00 PM"

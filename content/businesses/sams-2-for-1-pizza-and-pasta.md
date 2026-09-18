@@ -18,11 +18,6 @@ reviews:
     rating: 4
     comment: |
       The pizza here is great -- perfect crust! My picky-eater daughter even loved it!  The only complaint is that it'd be nice if they brought the food to the table when dining in, especially since I included a tip when paying. But still, the food was great.
-  - name: "Alan B"
-    rating: 3
-    comment: |
-      Do the math. Cauliflower crust pizza $15 ish. Ordinary Pepperoni and mushrooms $25 ish ... Charged $40 ish..... if there's no  2 for 1 on Cauliflower crust, should there not have been a 2nd Pepperoni?
-      Other 2 for 1 are available
   - name: "Reet Raina"
     rating: 5
     comment: |
@@ -38,6 +33,10 @@ reviews:
       Smallest "large" pizza I've ever seen. Almost 11 inches in diameter and 8 small slices for $40.
       
       Pretty sad!  shrinkflation... this is getting ridiculous. The taste was okay, nothing great. First and last visit based on the size and price.
+  - name: "Cynthia Taylor"
+    rating: 1
+    comment: |
+      I am never ordering from here again. They used to be good, not anymore, aside from the fact that you apparently have to specify no veggies, first time ever having to do that. I ordered extra sauce, there barely was any let alone extra. The onion rings were over cooked and looked like they were from the bottom of the bag and the gravy was practically water. The veggies that I never wanted but would have picked off, the lettuce was brown and there was no cheese, if there was then it was not the standard slices they used to have. I don't even believe this constitutes the star it has but I had to pick one just to post.
 hours:
   monday: "11:00 AM–9:00 PM"
   tuesday: "11:00 AM–9:00 PM"

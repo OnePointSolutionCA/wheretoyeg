@@ -18,7 +18,7 @@ hours:
   sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/sarah-pukin-photography-1.jpg", "/photos/sarah-pukin-photography-2.jpg", "/photos/sarah-pukin-photography-3.jpg"]
 rating: 5
-review_count: 67
+review_count: 66
 price_range: "$$$"
 amenities:
   - "Wedding"
@@ -32,14 +32,6 @@ reviews:
     rating: 5
     comment: |
       Sarah had us comfortable even before the shoot. I live in scrubs and yoga pants, and Sarah was incredibly helpful when I went shopping for outfits for our day, because I truly don't have an eye for that kind of thing, and I also loathe shopping. She was easygoing and incredibly helpful beyond just snapping the photos, and we had a fantastic time, even though we drove home thoroughly frozen! Thanks again, Sarah!
-  - name: "Rhyan Larouche"
-    rating: 5
-    comment: |
-      Sarah was incredible! We couldn’t have asked for a better person to capture our wedding day. Even though we weren’t the most organized group, she handled everything so calmly and professionally - She pulled people together, managed timelines, and made sure the moments most important to us were prioritized without adding any stress.
-      
-      She has such a creative eye, with so many cool photo ideas that made our pictures feel natural, beautiful, and unique. She was also amazing at guiding us on how to pose so we looked and felt our best in every shot.
-      
-      She was easy to talk to and get along with, which made the entire experience fun and effortless. We are so grateful for her!
   - name: "Jackie G"
     rating: 5
     comment: |
@@ -48,6 +40,14 @@ reviews:
     rating: 5
     comment: |
       Because of Sarah, our entire wedding day was turned into art that we’ll get to cherish forever. From all the detail shots, to family formals, to artsy shots, to wholesome candids, Sarah knocked it outta the park while five months pregnant on a warm autumn day. That woman is a machine and SO incredibly talented - she prefers to shoot the entire day alone, and she’s damn good at it! She was dialled in from start to finish, communicated well at every stage of the process, provided constructive feedback about our timeline, and gave clear, easy-to-follow directions for posing. Many of our guests raved about how EFFICIENT she was, especially during the family formal shots. Her dry humour was entertaining and her supportive comments and level-headedness kept us sane throughout the day. Although she came at a higher pricetag, we couldn’t have imagined anyone else to have shot our Big Day (especially because my husband is a photographer himself and can sniff out a seasoned professional from afar). If you’re looking for a photographer that’s efficient, organized, intentional, experienced, well-rounded, easy-going, and no fluff, look no further as Sarah is your gal!
+  - name: "Rhyan Larouche"
+    rating: 5
+    comment: |
+      Sarah was incredible! We couldn’t have asked for a better person to capture our wedding day. Even though we weren’t the most organized group, she handled everything so calmly and professionally - She pulled people together, managed timelines, and made sure the moments most important to us were prioritized without adding any stress.
+      
+      She has such a creative eye, with so many cool photo ideas that made our pictures feel natural, beautiful, and unique. She was also amazing at guiding us on how to pose so we looked and felt our best in every shot.
+      
+      She was easy to talk to and get along with, which made the entire experience fun and effortless. We are so grateful for her!
   - name: "Kristin Smith"
     rating: 5
     comment: |

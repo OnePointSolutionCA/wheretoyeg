@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/rival-burger-1.jpg", "/photos/rival-burger-2.jpg", "/photos/rival-burger-3.jpg"]
 rating: 4.9
-review_count: 391
+review_count: 393
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -42,14 +42,6 @@ reviews:
     rating: 5
     comment: |
       Just a great quality smashburger the beef was nice and crispy and well seasoned. The sauce that they had was amazing. I had the big cheesy Burger. The bun was fresh and soft. Tasty bacon overall great burger at a good price! The staff were super friendly and just provided a great atmosphere. Just overall bunch of happy group of people and I love to see it! I will definitely come back for more!
-  - name: "Kirk McDougall NeuroSpicy"
-    rating: 5
-    comment: |
-      A great place to try a fantastic burger. My wife and I wanted to check out Queen Mary's Market and found Rival Burger. It's the ideal spot to relax before shopping.
-      The burgers are truly awesome.
-      
-      I included a map of the market because it shows "Soon to be Rival Restaurant," which would make the experience even better.
-      The current location of Rival Burger is marked by an arrow on the right side of the map.
   - name: "Brian Green"
     rating: 5
     comment: |
@@ -58,4 +50,11 @@ reviews:
     rating: 5
     comment: |
       My son and I came for the burgers. This place is a diamond. One of the best burgers I’ve ever had. With Fox Burger and Flatboy in town, Rival Burger is seriously among the best in the biz. We’ll be back.
+  - name: "Cora-Lee Fedoruk"
+    rating: 5
+    comment: |
+      Best burgers in the city!
+      I first saw their Oklahoma Smash Burger on TikTok and couldn't wait to try it for myself. Since then, we've been back several times and it has quickly become a family favourite.
+      My personal favourite is the Juicy Lucy, but the Mushroom Mozza is also absolutely delicious. The burgers are packed with flavour, the portions are generous, and the fries are huge and so good!
+      On top of the amazing food, the service is always friendly and welcoming. If you're a burger lover, this place is definitely worth checking out. Highly recommend!
 ---

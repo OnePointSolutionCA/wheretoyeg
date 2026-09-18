@@ -20,7 +20,7 @@ hours:
   sunday: "4:00 PM–9:00 PM"
 photos: ["/photos/siam-thai-kitchen-1.jpg", "/photos/siam-thai-kitchen-2.jpg", "/photos/siam-thai-kitchen-3.jpg"]
 rating: 4.7
-review_count: 541
+review_count: 542
 price_range: "$$"
 amenities:
   - "Dine-In"

@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Spruce Grove"
 address: "3919 49 Ave #109, Stony Plain, AB T7Z 2J7"
 rating: 4.8
-review_count: 1495
+review_count: 1497
 tier: "featured"
 phone: "(780) 963-4626"
 website: "https://www.stonyplaindental.com/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=GMB"
@@ -47,7 +47,7 @@ hours:
   tuesday: "7:00 AM–6:00 PM"
   wednesday: "7:00 AM–6:00 PM"
   thursday: "7:00 AM–6:00 PM"
-  friday: "7:00 AM–1:00 PM"
+  friday: "7:00 AM–3:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 ---

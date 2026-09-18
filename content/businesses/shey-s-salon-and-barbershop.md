@@ -5,7 +5,7 @@ category: "barbers"
 neighborhood: "Castle Downs"
 address: "11320 132 Ave NW, Edmonton, AB T5E 1A1"
 rating: 4.8
-review_count: 675
+review_count: 680
 tier: "featured"
 phone: "(780) 554-7191"
 website: "https://sheyssalonandbarbershop.com/"
@@ -21,6 +21,10 @@ reviews:
       He’s super professional, easy to talk to, and you can tell he genuinely cares about doing quality work.
       
       If you’re looking for a barber who knows how to do a great fade and takes pride in what he does, I definitely recommend stopping by Sheys Barbershop and booking with Abdul. You won’t regret it!
+  - name: "Shemar Hutson"
+    rating: 5
+    comment: |
+      I came to sheys salon the staff was amazing very friendly and kind they did excellent and exactly what I wanted with a reasonable price I got some fresh box braids and a taper thanks guys! Couldn’t be happier!
   - name: "petula boyce"
     rating: 5
     comment: |
@@ -29,10 +33,6 @@ reviews:
     rating: 5
     comment: |
       I’m very impressed on this barbershop first time it came here and I am very satisfied on my haircut my wife like it and I like it. Highly recommended to go here.
-  - name: "L C"
-    rating: 5
-    comment: |
-      My partner had a different salon cancel on him last minute and he needed his hair done for professional photos, i reached out to sheys salon and they got him in last minute same day for his braids. They did an amazing job as well and he loves them. So happy they were able to get him in so quick and last minute. He will definitely be back in the future again 🥰
   - name: "Daelin Weeks"
     rating: 5
     comment: |

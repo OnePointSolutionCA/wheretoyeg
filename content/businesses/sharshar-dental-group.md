@@ -14,10 +14,6 @@ google_maps: "https://maps.google.com/?cid=2921524768456371696&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/sharshar-dental-group.jpg"
 reviews:
-  - name: "Osman Omar"
-    rating: 5
-    comment: |
-      What’s better than removing your wisdom teeth while listening to the words of Allah? May Allah bless everyone in this facility. 10/10 service!
   - name: "Shanna Orvis"
     rating: 5
     comment: |
@@ -36,6 +32,10 @@ reviews:
     rating: 5
     comment: |
       We had the best experience for an emergency dental visit for my husband. The receptionist is very welcoming and took us within less than 30 minutes without an appointment. Dr. Hassan was very good with us, explained everything in detail. Would definitely like to come back in future for any dental concerns.
+  - name: "Osman Omar"
+    rating: 5
+    comment: |
+      What’s better than removing your wisdom teeth while listening to the words of Allah? May Allah bless everyone in this facility. 10/10 service!
 hours:
   monday: "9:00 AM–9:00 PM"
   tuesday: "9:00 AM–9:00 PM"

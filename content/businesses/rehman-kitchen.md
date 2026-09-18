@@ -19,8 +19,8 @@ hours:
   saturday: "12:00 PM–12:00 AM"
   sunday: "1:00 PM–8:00 PM"
 photos: ["/photos/rehman-kitchen-1.jpg", "/photos/rehman-kitchen-2.jpg", "/photos/rehman-kitchen-3.jpg"]
-rating: 4.6
-review_count: 165
+rating: 4.7
+review_count: 166
 price_range: "$"
 amenities:
   - "Halal"
@@ -41,6 +41,10 @@ reviews:
       Perfect tasty Karachi style Chicken Biryani it was. I ordered 8 boxes and they cooked fresh on time. Although I don’t reside in Edmonton, but whenever I will plan again to visit this city this gonna be my must stop for food.
       Just a suggestion for owner: please add potatoes on customer’s request. Thank you
       Rate: 10/10
+  - name: "Robben Joe"
+    rating: 5
+    comment: |
+      We ordered a Bayanyi tray for our party and it turned out to be the Best taste we'd ever enjoyed!!😋
   - name: "Rabin Amj"
     rating: 5
     comment: |
@@ -50,8 +54,4 @@ reviews:
     rating: 5
     comment: |
       The healthy prep meals they have is extra ordinary, i tried there grilled chicken breast with fruit salad 👌 if your looking to stay fit and healthy this is the meals to go, with high protien and carbs enough for post workout daily 💪🏻
-  - name: "Melanie Oster"
-    rating: 5
-    comment: |
-      We placed an order for delivery to cater an event at school. Ordering was easy. The food was delivered early, and it was so delicious! Students and staff got to enjoy the dishes.
 ---

@@ -54,12 +54,14 @@ reviews:
       Finally, the team helped me again when I accidentally got my grinder stuck. They responded within 1 day.
       
       It’s really a long time ago since I have experienced such hospitality. Thank you, Rogue Coffee Team! The grinder is working again!
-  - name: "Cameron Pratt"
-    rating: 5
-    comment: |
-      Been ordering coffee from this roaster for years, and they are consistently the best quality to price ratio that you can find in North America! They really know how to roast coffee to bring out the natural flavors in them very well. Hope to visit the shop one day.
   - name: "Sam Pattison"
     rating: 5
     comment: |
       Only excellent premium grade people, coffee and gear to be found here. I have visited in person many times and started buying off their website more recently. My experience with them has been great every time, never disappointed even when working through problems. I highly recommend this company to all coffee enthusiasts.
+  - name: "Daniel Tran"
+    rating: 5
+    comment: |
+      Visit: February 2025
+      
+      I'm not a big coffee drinker, but they gave good suggestions and the coffee wasn't bitter or overly acidic. It was a really nice cup! It had a floral taste to it as well. The interior is really bright and cute, and the staff was helpful and excellent
 ---

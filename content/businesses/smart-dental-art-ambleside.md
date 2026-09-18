@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Windermere"
 address: "5094 Windermere Blvd Unit 10, Edmonton, AB T6W 0L7"
 rating: 5
-review_count: 179
+review_count: 180
 tier: "featured"
 phone: "(587) 855-4976"
 website: "https://www.smartdentalart.com/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Website_URL"
@@ -22,6 +22,16 @@ reviews:
       He took the time to explain everything clearly and helped ease fears that I’ve struggled with for years. His calm and compassionate approach made such a huge difference for me.
       
       If you have dental anxiety and have been putting off dental care because of fear, I genuinely cannot recommend Dr. Elboraee enough. I’m so grateful for the positive experience and finally feel more confident about future dental visits.
+  - name: "Leeza Kyselytzia"
+    rating: 5
+    comment: |
+      I’m a new client at Smart Dental Art and I’m beyond impressed! The entire team is so warm and welcoming. Dr. Maged Elboraee is truly exceptional - kind, patient, and takes the time to clearly explain everything during the procedure.
+      
+      Highly recommend this clinic if you’re looking for a comfortable and professional dental experience!
+  - name: "Amr Khalil"
+    rating: 5
+    comment: |
+      Very professional & pleasant staff! Dr. Maged  has been taking care of me for years, the clinic is also equipped with state of art equipement, highly recommend this clinic, if you are looking for a dental clinic to take care of your whole family look no further!
   - name: "Julia Dobosz"
     rating: 5
     comment: |
@@ -34,16 +44,6 @@ reviews:
       His assistant is also very kind and pleasant.
       
       I feel that I can trust this doctor. Thank you so much for your help!
-  - name: "Leeza Kyselytzia"
-    rating: 5
-    comment: |
-      I’m a new client at Smart Dental Art and I’m beyond impressed! The entire team is so warm and welcoming. Dr. Maged Elboraee is truly exceptional - kind, patient, and takes the time to clearly explain everything during the procedure.
-      
-      Highly recommend this clinic if you’re looking for a comfortable and professional dental experience!
-  - name: "Amr Khalil"
-    rating: 5
-    comment: |
-      Very professional & pleasant staff! Dr. Maged  has been taking care of me for years, the clinic is also equipped with state of art equipement, highly recommend this clinic, if you are looking for a dental clinic to take care of your whole family look no further!
   - name: "Hossam Ghareeb"
     rating: 5
     comment: |

@@ -29,14 +29,6 @@ tags: ["grocery", "prepared-foods", "fresh"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Joy"
-    rating: 5
-    comment: |
-      I come here for lunch quite regularly. the staff members are always so helpful and friendly! also, I find the prices to be fair 🙏🏾
-  - name: "Geoffrey Bishop"
-    rating: 5
-    comment: |
-      Nice place to grab a coffee and get caught up on the news. Staff were friendly and the coffee was good. Bonus points for the free samples to try some of their baked goods.
   - name: "Kirk Dewhurst"
     rating: 4
     comment: |
@@ -46,6 +38,14 @@ reviews:
     comment: |
       Since we started working in the Manulife Building (around April), I’ve been getting my lunch here most of the time. They change their menu every day and have a great weekly lineup, which is awesome!
       The staff are always friendly, polite, helpful, and smiling. The restaurant is clean and consistently serves fresh food. I’ll probably keep coming here for lunch in the next few months until we finish our job at the Manulife Building. Lol!
+  - name: "Joy"
+    rating: 5
+    comment: |
+      I come here for lunch quite regularly. the staff members are always so helpful and friendly! also, I find the prices to be fair 🙏🏾
+  - name: "Geoffrey Bishop"
+    rating: 5
+    comment: |
+      Nice place to grab a coffee and get caught up on the news. Staff were friendly and the coffee was good. Bonus points for the free samples to try some of their baked goods.
   - name: "Danneyland"
     rating: 5
     comment: |

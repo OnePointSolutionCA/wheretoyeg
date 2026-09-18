@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/smokes-poutinerie-edmonton-1.jpg", "/photos/smokes-poutinerie-edmonton-2.jpg", "/photos/smokes-poutinerie-edmonton-3.jpg"]
 rating: 4.4
-review_count: 287
+review_count: 289
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -48,6 +48,14 @@ reviews:
       Paid for the wow size and there was hardly any cheese curds.
       Guess the extra 7 bucks was for triple gravy.
       Will not return.
+  - name: "James Fletcher"
+    rating: 2
+    comment: |
+      I love this place but today was definitely an off day. Ran out of cheese curds, didn't have entire items on the menu (including no brand new Creole chicken gumbo poutine that is on their menu), and the server seemed confused.
+      
+      In the end the meals we got was perfectly fine but not being able to get the items we originally hoped for was pretty disappointing 😔
+      
+      Their atmosphere and fries are top notch, so this I hope is a big one off and the next time will be the normal phenomenal service and food.
   - name: "TrueTrueTrain"
     rating: 4
     comment: |
@@ -59,12 +67,4 @@ reviews:
       Only suggestion I would give is on delivery to have the gravy separate from the rest and have the customer add when they’re ready to eat to atleast help keep some crunch on the tator tots. Again mushy or not it was still yummy.
       
       I’ll definitely be trying your hotdogs next.
-  - name: "James Fletcher"
-    rating: 2
-    comment: |
-      I love this place but today was definitely an off day. Ran out of cheese curds, didn't have entire items on the menu (including no brand new Creole chicken gumbo poutine that is on their menu), and the server seemed confused.
-      
-      In the end the meals we got was perfectly fine but not being able to get the items we originally hoped for was pretty disappointing 😔
-      
-      Their atmosphere and fries are top notch, so this I hope is a big one off and the next time will be the normal phenomenal service and food.
 ---

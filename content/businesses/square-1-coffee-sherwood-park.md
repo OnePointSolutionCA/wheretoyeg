@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Sherwood Park"
 address: "115 Tisbury St #140, Sherwood Park, AB T8B 0E6"
 rating: 4.7
-review_count: 204
+review_count: 206
 tier: "featured"
 phone: "(587) 900-0055"
 website: "https://square1coffee.ca/"
@@ -13,18 +13,6 @@ google_maps: "https://maps.google.com/?cid=1062993698301064558&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/square-1-coffee-sherwood-park.jpg"
 reviews:
-  - name: "Maria Villarama"
-    rating: 5
-    comment: |
-      I’ve always been a big fan of Square One since high school—it’s been my go-to spot for studying and coffee dates for years (I feel old now).
-      
-      This location opened up about 10 minutes from me, which I’m so happy about! The only downside is the parking—it’s pretty limited, and once it gets busy, it gets really busy. But I totally get why people stay for hours to study; it’s such a good atmosphere. Really good music too (it matters!)
-      
-      Their hot chocolate syrup is the perfect level of sweetness, and I’ll forever be a fan of their beans. The service is always super friendly, too.
-      
-      I even came here on my birthday (Dec 24), and one of the baristas—sorry, I forget his name!—made me a snowman latte art. It was such a cute and thoughtful touch ⛄️
-      
-      I’ll definitely be back!
   - name: "Chelsey"
     rating: 5
     comment: |
@@ -49,6 +37,18 @@ reviews:
       vibes are not quite where they should be. banger drinks and kind staff, but i think the problem that i have with this place is it feels too corporate - too much like a chain. i couldn’t have a nice conversation with the barista because they were too deep into business mode, which i totally get and respect, i could just sense that they’ve been battered by the public. it didn’t feel as homely as it could’ve been, i couldn’t see myself becoming a regular here. the building itself is lovely, lots of natural light.
       
       tl;dr: if you’re coming in for a quick to go drink and then leaving, then this place would be great. but if you want a nice homely sit down this wouldn’t be the first place that i’d choose. overall though, pretty solid cafe.
+  - name: "Maria Villarama"
+    rating: 5
+    comment: |
+      I’ve always been a big fan of Square One since high school—it’s been my go-to spot for studying and coffee dates for years (I feel old now).
+      
+      This location opened up about 10 minutes from me, which I’m so happy about! The only downside is the parking—it’s pretty limited, and once it gets busy, it gets really busy. But I totally get why people stay for hours to study; it’s such a good atmosphere. Really good music too (it matters!)
+      
+      Their hot chocolate syrup is the perfect level of sweetness, and I’ll forever be a fan of their beans. The service is always super friendly, too.
+      
+      I even came here on my birthday (Dec 24), and one of the baristas—sorry, I forget his name!—made me a snowman latte art. It was such a cute and thoughtful touch ⛄️
+      
+      I’ll definitely be back!
 hours:
   monday: "7:00 AM–9:30 PM"
   tuesday: "7:00 AM–9:30 PM"

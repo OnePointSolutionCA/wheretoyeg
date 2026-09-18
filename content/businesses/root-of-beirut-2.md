@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–4:01 PM"
 photos: ["/photos/root-of-beirut-2-1.jpg", "/photos/root-of-beirut-2-2.jpg", "/photos/root-of-beirut-2-3.jpg"]
 rating: 4.4
-review_count: 1327
+review_count: 1328
 price_range: "$"
 amenities:
   - "Halal"
@@ -49,8 +49,12 @@ reviews:
     rating: 1
     comment: |
       We came here and asked for a family platters for 12. My dad tried making modifications and the guy serving said “DONT WORRY SIT SIT WELL TAKE CARE OF YOU” they proceeded to to charge us 367.50$ and fill our table with yellow rice, tabbouleh, a sad excuse for  fattoush, fries and a minuscule amount of meat and wara a3neb. All the food in the pic went to garbage. Their prayer area was also filled with extra chairs and the carpet was nasty. Don’t get me wrong if you come here and order your own food their prices are awesome and the food is good but this was a horrible experience.
-  - name: "Sarah I"
-    rating: 1
+  - name: "nader ghraizi"
+    rating: 5
     comment: |
-      I’d give this place one star overall. It wasn’t terrible, but definitely not good enough to recommend. The experience was just okay—nothing stood out in a positive way. The staff were alright, not rude but not particularly friendly or attentive either. For the price and expectations, I was hoping for better. Unfortunately, I don’t see myself coming back. at the end I was taking a bite and found a piece of plastic in my food
+      Absolutely amazing! Root of Beirut is hands down one of the best Lebanese restaurants I’ve ever been to. The food tastes authentic, fresh, and full of flavor just like a home-cooked meal straight from Beirut. The shawarma, hummus, and tabbouleh were perfection, and the portions were generous too.
+      
+      The atmosphere is warm and welcoming, and the staff are incredibly friendly and attentive you can tell they genuinely care about their guests. Whether you’re craving a quick bite or a full Lebanese feast, this place delivers every time.
+      
+      Highly recommend Root of Beirut to anyone who loves authentic Middle Eastern cuisine. You’ll leave happy, full, and already planning your next visit! 🇱🇧❤️
 ---

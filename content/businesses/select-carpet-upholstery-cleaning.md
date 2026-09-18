@@ -28,10 +28,6 @@ tags: ["edmonton", "carpet"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Marci Chesterton"
-    rating: 5
-    comment: |
-      A big 'Thank you' to Select Carpet and Upholstery Cleaning and to Ryan (technician) for a job well done! Having our carpets cleaned by you - some of the carpeting quite old - was a great experience. Contact with the office was pleasant and helpful. Ryan was personable, professional and meticulous about explaining the options and pricing, and managed to make 10 year old carpeting look brand new and 40+ year old carpeting look revitalized. I would highly recommend you to anyone looking for a company providing the services you offer.
   - name: "Olu"
     rating: 5
     comment: |
@@ -40,6 +36,10 @@ reviews:
     rating: 5
     comment: |
       Had a great experience with Select Carpet and Upholstery Cleaning. Did a great job on our family couches (they were looking pretty grimy from our kids before the cleaning and came out looking new again!) would definitely have them back!
+  - name: "Marci Chesterton"
+    rating: 5
+    comment: |
+      A big 'Thank you' to Select Carpet and Upholstery Cleaning and to Ryan (technician) for a job well done! Having our carpets cleaned by you - some of the carpeting quite old - was a great experience. Contact with the office was pleasant and helpful. Ryan was personable, professional and meticulous about explaining the options and pricing, and managed to make 10 year old carpeting look brand new and 40+ year old carpeting look revitalized. I would highly recommend you to anyone looking for a company providing the services you offer.
   - name: "Jillian Carr"
     rating: 5
     comment: |

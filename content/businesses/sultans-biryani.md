@@ -65,9 +65,8 @@ reviews:
       The service was excellent as well. The only thing I wish for is delivery in the future, as we had to pick up the order ourselves. That said, it was absolutely worth the trip.
       
       Delicious, authentic, and consistently amazing. Sultan really knows how to do biryani right. Highly recommended! ⭐⭐⭐⭐⭐
-  - name: "Cherry Chen"
+  - name: "Kashif Malkani"
     rating: 5
     comment: |
-      Delicious fragrant biryani. Took only 45 minutes from ordering to delivered piping hot (in awful snowy weather conditions, too.)
-      Portions are generous and Iqbal is very friendly. Delivery was only $4 (to Northside) and they took eTransfer payment. Very fast, good value, and filling. Would order again for sure.
+      This was the best biryani i had in Edmonton, it has the original karachi taste. I have been in Edmonton for a while and i m not kidding, i haven't had such good biryani. I was licking my fingers till the end. The taste was absolutely delicious. I Will a 100% come again. I am now going to look for flats or houses near by so that i can come here everyday. If i had the chance, i would kiss sultan's hand. The price is also very affordable and reasonable. Absolutely worth it.
 ---

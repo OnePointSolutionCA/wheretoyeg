@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Mill Woods"
 address: "2331 66 St NW Unit 211, Edmonton, AB T6K 4B4"
 rating: 4.1
-review_count: 682
+review_count: 681
 tier: "featured"
 phone: "(780) 461-1825"
 website: "https://smittys.ca/location/millwoods/"
@@ -29,10 +29,6 @@ reviews:
     rating: 5
     comment: |
       Had a wonderful dining experience! Jane greeted us as we came in to the restaurant, she was very friendly and nice to talk to!  She was quick to place our drink and food orders, refilled coffee and speedy payment so we could enjoy the rest of our day thank you :)
-  - name: "Julia V"
-    rating: 5
-    comment: |
-      I was very impressed with the food and service! The chicken Caesar salad was so tasty - the chicken was moist, juicy and delicious. The butter chicken my friend had - she said it was absolutely delicious as well. The server was kind and always checking on us. The prices are better than most. Pleasantly surprised and will be coming back!
   - name: "Rebecca"
     rating: 5
     comment: |
@@ -40,6 +36,14 @@ reviews:
       They have some good daily specials that I will definitely return to try.
       
       The mozzarella sticks are perfectly done with great cheese pulls!
+  - name: "Vincent So"
+    rating: 5
+    comment: |
+      First the host sat us at a table that's away from the windows, to keep us warm. That was a nice gesture. The server Mona was real nice..she gave us a couple laughs. And the food came faster than I thought it'll be
+      
+      The only prob is when I went to the men's bathroom. One of the stalls didn't have a lock. So you can't lock and close the door.. hope that gets fixed soon.
+      
+      Other than that I had a amazing experience and time at Smittys.  I wouldn't mind coming here again 😊
 hours:
   monday: "8:00 AM–8:00 PM"
   tuesday: "8:00 AM–8:00 PM"

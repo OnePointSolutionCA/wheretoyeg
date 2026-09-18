@@ -15,12 +15,12 @@ hours:
   tuesday: "10:00 AM–9:00 PM"
   wednesday: "10:00 AM–9:00 PM"
   thursday: "10:00 AM–9:00 PM"
-  friday: "10:00 AM–9:00 PM"
+  friday: "10:00 AM–10:00 PM"
   saturday: "10:00 AM–10:00 PM"
   sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/salt-and-grill-1.jpg", "/photos/salt-and-grill-2.jpg", "/photos/salt-and-grill-3.jpg"]
-rating: 4.6
-review_count: 20
+rating: 4.7
+review_count: 21
 price_range: "$"
 amenities:
   - "Halal"
@@ -50,12 +50,12 @@ reviews:
     rating: 5
     comment: |
       Today we tried Halwa Puri, and it was absolutely delicious! 😋✨ It was their very first day of opening, and they did an amazing job. Wishing them lots of success and many happy customers. Looking forward to visiting again! 🎉🥳
-  - name: "Saleema Rahim"
+  - name: "Mr. Ershath"
     rating: 5
     comment: |
-      loved the food and service i am coming back again
-  - name: "Shawn Griggs"
+      Excellent food, great service, and a welcoming atmosphere. Everything we ordered was delicious and freshly prepared. The staff were friendly and attentive, and the overall experience was fantastic. Highly recommend Salt and Grill—I'll definitely be coming back!
+  - name: "Shahzad Aslam"
     rating: 4
     comment: |
-      Was greeted right away and staff were very nice. They answered my questions about the menu. Food was fresh and would come here again.
+      Had breakfast here. Still early days. Halwa Puri was amazing. We tried nehari as well which came quite late, but halwa puri was quick and exceeded expectations.
 ---

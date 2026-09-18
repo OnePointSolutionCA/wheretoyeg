@@ -32,10 +32,10 @@ reviews:
     rating: 5
     comment: |
       This place is a hidden gems. Good food with a warm atmosphere, staffs are very friendly.
-  - name: "Jennifer Elloran"
+  - name: "Boss Dream"
     rating: 5
     comment: |
-      The sisilog and mango matcha latte were so yummy! Highly recommend!
+      The chicken and gravy is so good! I tried their ube and matcha drinks and I would definitely come back to try the other drinks and complete the loyalty card!
 hours:
   monday: "11:00 AM–8:00 PM"
   tuesday: "11:00 AM–8:00 PM"

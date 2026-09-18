@@ -5,7 +5,7 @@ category: "cleaning-services"
 neighborhood: "Edmonton"
 address: "4314 97 St NW, Edmonton, AB T6E 5R9"
 rating: 4.9
-review_count: 223
+review_count: 224
 tier: "featured"
 phone: "(780) 722-4020"
 website: "https://www.stratusclean.com/locations/edmonton"
@@ -22,14 +22,14 @@ reviews:
     comment: |
       We’ve had a great experience with Stratus Building Solutions. Their team is professional, punctual, and extremely thorough. Thank you very much to Jovan, on training day we were showed attention to detail and a strong commitment to keeping spotless and sanitized area.
       If you’re looking for a reliable and high-quality commercial cleaning company, I highly recommend Stratus Building Solutions. They consistently exceed expectations and make a noticeable difference in the cleanliness of our facility.
-  - name: "Chantal Nagi"
-    rating: 5
-    comment: |
-      We continue to have an excellent experience with Stratus! A big thank you to Eric and Christine for leading such an amazing team. They are always professional, easy to talk to, and their communication is consistently clear and reliable. The quality of their work is outstanding, and we’re always left extremely satisfied after every visit. It really shows how much pride they take in what they do. We truly appreciate their ongoing service and highly recommend them to anyone looking for a dependable cleaning team. Thank you again! ⭐👏✨
   - name: "Gina Race"
     rating: 5
     comment: |
       From beginning to end, the entire crew at Stratus Clean was a pleasure to work with! They made the process incredibly easy, and our floors turned out absolutely great. We are thrilled with the results and will definitely be using them again!
+  - name: "Chantal Nagi"
+    rating: 5
+    comment: |
+      We continue to have an excellent experience with Stratus! A big thank you to Eric and Christine for leading such an amazing team. They are always professional, easy to talk to, and their communication is consistently clear and reliable. The quality of their work is outstanding, and we’re always left extremely satisfied after every visit. It really shows how much pride they take in what they do. We truly appreciate their ongoing service and highly recommend them to anyone looking for a dependable cleaning team. Thank you again! ⭐👏✨
   - name: "Pamela Mae Legaspi"
     rating: 5
     comment: |

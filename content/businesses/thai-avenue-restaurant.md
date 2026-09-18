@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–9:00 PM"
 photos: ["/photos/thai-avenue-restaurant-1.jpg", "/photos/thai-avenue-restaurant-2.jpg", "/photos/thai-avenue-restaurant-3.jpg"]
 rating: 4.7
-review_count: 595
+review_count: 598
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -50,10 +50,6 @@ reviews:
       Everything was reasonably priced and came out freshly prepared as well. Our server was also very hospitable and provided exceptional service.
       
       It's probably a good thing we don't live nearby, otherwise I'd be coming Thai Avenue Restaurant a lot more often for all their delicious food.
-  - name: "Csyra Piañar"
-    rating: 5
-    comment: |
-      The food was very yummy and the portions were generous. The Crispy Chicken Salt & Pepper Stiry fry was very light, crispy and flavourful. The Green Curry w/ Beef had a nice mild spice to it and was a great topping for our coconut rice. For dessert we had the Rainbow Mango (mango sticky rice with mango ice cream) and was also very yummy and not too sweet. Will definitely be back.
   - name: "Y.Kim"
     rating: 5
     comment: |
@@ -65,8 +61,12 @@ reviews:
       This is easily one of the best Thai restaurants I’ve had in Canada recently, and I’ll definitely be coming back.
       
       P.S. The Thai iced coffee is much sweeter than you might expect.
-  - name: "Racheel Jadee"
+  - name: "Reed Sutton"
     rating: 5
     comment: |
-      Came across this place on Instagram and decided to take my mom for the first time on Mother’s Day and I will say it did not disappoint! I drive 30 mins from the southside just for this!! I get the Khao Soi and it is probably one of the best most flavourful dishes I’ve ever had in my life!!! Hands down my new favourite place and I’ve already been back 3 times since. The staff are amazing, such sweet people and the atmosphere is so inviting. If you haven’t already been here CHECK IT OUT! You will not be disappointed. 🙌🏼❤️
+      This place is amazing. One of my top three Thai restaurants in Edmonton alongside Thai Corner and Thai Valley Grill. This one has Khao Soi which is one of my fav dishes from Thailand. Highly recommend!
+  - name: "Laimen Chiu"
+    rating: 5
+    comment: |
+      Amazing experience! A+++++++  We had the Pad Thai, chicken noodle curry soup, & basil fried rice. Delicious! Service was lovely. I think this is place is a hidden gem in this city!! We will definitely return very soon.
 ---

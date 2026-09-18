@@ -34,10 +34,6 @@ reviews:
     rating: 5
     comment: |
       I Came in for the first time yesterday  after hearing about this place from a couple buddies,, great service amazing food will defiently be back again! I don’t usually do food reviews but this place deserves it! Fresh meet from the butcher grilled can’t beat that
-  - name: "Mohamad Alabsi"
-    rating: 5
-    comment: |
-      Top-tier halal butchery. The cuts are immaculate, precisely trimmed, and reflect true high standards. You can see the freshness in the quality and marbling. This is matched by outstanding customer service, the staff is knowledgeable, welcoming, and attentive. The premier spot for premium meats and a great experience.
   - name: "Iman Fakhani"
     rating: 5
     comment: |
@@ -61,8 +57,13 @@ reviews:
     rating: 5
     comment: |
       Best mashawi kofta in town. Their meat is always fresh.
-  - name: "Angela Summerfelt"
-    rating: 4
+  - name: "SULTAN سلطان"
+    rating: 5
     comment: |
-      Owner is amazing. Sometimes they dont have the same meat but always a good selection for much less than the grocers
+      A clean place, comfortable people, great experience in cutting and cleaning meat, and other free services. I was very pleased to deal with them.
+  - name: "Zhan hua Zou"
+    rating: 5
+    comment: |
+      We decided to try this fantastic new Super Halal butcher shop and we are absolutely blown away! We specifically bought their ribeye steak and lamb shanks, and both were phenomenal.
+      The ribeye was perfectly marbled and cut to a generous thickness. We cooked it at home and it was incredibly tender, juicy, and flavorful—truly restaurant-quality. The lamb shanks were massive, meaty, and so fresh. They're currently slow-cooking in the oven and the aroma is driving us crazy!
 ---

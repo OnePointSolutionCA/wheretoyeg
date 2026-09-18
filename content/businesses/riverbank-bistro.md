@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "St. Albert"
 address: "8 Mission Ave, St. Albert, AB T8N 1H4"
 rating: 4.7
-review_count: 538
+review_count: 540
 tier: "featured"
 phone: "(587) 290-1655"
 website: "http://riverbankbistro.ca/"
@@ -21,10 +21,6 @@ reviews:
       As for the service, we were blown away how the management (especially Connor) went above and beyond to accommodate our needs for the rehearsal dinner. Whether it was helping with the table layout, the menu, taking people's orders, remembering names, or dealing with the kids running around. The deep purple room feels very royal, and the patio is wonderful during the summer. For every meal we've had, the service is very good, and you never feel rushed.
       
       I remember the first Valentine's Day we came here, the chef modified the 3 courses on a dime for my wife's dairy allergy, and they each tasted fantastic. This is St. Albert's finest establishment, and every resident should come here at least once if they can.
-  - name: "Kaylee M"
-    rating: 5
-    comment: |
-      We had the most beautiful Anniversary experience here! Definitely coming back soon! They DO have the best steak in town! Steak & Frites with peppercorn jus was incredible! The bison appetizer was also amazing! And the creme brulee on the house, with the little Happy Anniversary message! Awe you guys are the best!
   - name: "Trevor Steele"
     rating: 5
     comment: |
@@ -45,14 +41,22 @@ reviews:
       We hope you go join Dan and his amazing team at Riverbank Bistro and enjoy it as much as we did. We can’t wait to go back and experience it all over again.
       
       Thanks again Dan, to you and your incredibly talented team for making this such an amazing experience. See you again soon.
+  - name: "Kaylee M"
+    rating: 5
+    comment: |
+      We had the most beautiful Anniversary experience here! Definitely coming back soon! They DO have the best steak in town! Steak & Frites with peppercorn jus was incredible! The bison appetizer was also amazing! And the creme brulee on the house, with the little Happy Anniversary message! Awe you guys are the best!
   - name: "Catherine Lefebvre"
     rating: 5
     comment: |
       Delicious food and fantastic service - what more could we ask for?  The fact that we can walk home after to walk off the meal is a plus.  If you like mushrooms, my husband says it’s the best mushroom soup.  The beet salad is delicious and the pasta and short rib are also 10/10.
-  - name: "Glen Mason"
+  - name: "Stephen Carter"
     rating: 5
     comment: |
-      Four of us enjoyed another excellent meal and evening out. Tuesday through Thursday they have senior's menu called the Snowbird Feature, which was absolutely perfect for our group. Sue provided attentive service while we enjoyed the quiet ambiance of the restaurant.
+      I had such a wonderful evening dining at this spot. The atmosphere is lovely and everything we ordered was prepared with real care.
+      
+      The steak was cooked perfectly and sliced beautifully on the plate. It paired so well with the side of vegetables and the mashed potatoes. Every bite was genuinely delicious.
+      
+      We also really enjoyed the selection of drinks. My cocktail arrived in a nice metal mug with fresh lime and berries. It was a fantastic experience from start to finish and I look forward to returning soon.
 hours:
   monday: "Closed"
   tuesday: "4:30 PM–7:30 PM"

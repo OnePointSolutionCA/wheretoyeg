@@ -18,7 +18,7 @@ hours:
   sunday: "9:00 AM - 8:00 PM"
 photos: ["/photos/snow-valley-ski-club-1.jpg", "/photos/snow-valley-ski-club-2.jpg", "/photos/snow-valley-ski-club-3.jpg"]
 rating: 4.4
-review_count: 1334
+review_count: 1336
 price_range: "$$$"
 amenities:
   - "Family Friendly"

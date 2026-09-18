@@ -18,7 +18,7 @@ hours:
   sunday: "8:00 AM–10:00 PM"
 photos: ["/photos/remedy-cafe-1.jpg", "/photos/remedy-cafe-2.jpg", "/photos/remedy-cafe-3.jpg"]
 rating: 4.4
-review_count: 2279
+review_count: 2278
 price_range: "$$"
 amenities:
   - "Halal Options"
@@ -64,12 +64,14 @@ reviews:
       i appreciate that they have dairy free and gluten free options. ive needed staff support to figure out options that are both df and gf but they are very knowledgeable and accommodating. i wish more of the major food components were listed on their menu because i got a wrap once that had mayo added and it really wasn’t too my taste—i wish i knew before ordering (i wouldn’t expect mayo in an indian fusion wrap so i didn’t think to ask)
       
       maybe this is a big ask (i don’t know beverage stocking prices, im no business owner) but i wish Remedy would try to stay a bit competitive by removing the upcharge for milk alternatives as other places in the city have.
-  - name: "Aakifa"
-    rating: 5
-    comment: |
-      Best cafe in the city to have a delicious chai with friends, study, or just relax on your own. This location has especially delightful lighting and atmosphere! I’ve adored coming to this location across the years as a university student.
   - name: "Emanuel Bridges"
     rating: 5
     comment: |
       Remedy Cafe has been my go-to spot for years, and I stopped in again just a couple days ago after a long morning run. The chai latte is genuinely one of the best in the city, perfectly spiced and not overly sweet the way so many places tend to make it. The staff are always friendly and seem to remember regulars, which gives the whole place a warm, neighborhood feel even when it gets busy. If you live in Edmonton and haven't made this part of your routine yet, you're really missing out.
+  - name: "Charlize"
+    rating: 5
+    comment: |
+      Went here for the first with my friends, and the lady working there was sooo nice! Thank you for the good service🫶🫶
+      
+      5/28/26’ 7:10pm-8pm
 ---

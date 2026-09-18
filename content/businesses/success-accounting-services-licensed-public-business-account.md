@@ -34,10 +34,6 @@ reviews:
       I had a great experience getting my taxes done here! The service was professional, quick, and very reasonably priced compared to places like H&R Block. In the past, I’ve waited up to a week to get my taxes completed elsewhere, but the accountant here had everything done in about 30 minutes.
       
       They were knowledgeable, efficient, and made the whole process stress-free. I’m very happy with the service I received and will definitely be coming back next year. Highly recommend to anyone looking for affordable and professional tax services!
-  - name: "mohammed jamal"
-    rating: 5
-    comment: |
-      I had a great experience with their accounting services. They are very professional, responsive, and made everything easy to understand. Highly recommend them
   - name: "Pedro Hernandez"
     rating: 5
     comment: |
@@ -51,6 +47,10 @@ reviews:
       I have been in the business for the past 40 years. I never see something like that before  Accounting. Not professional at all ?
       
       I expected professionalism and reliability, but unfortunately, this was not the case. I would not recommend their services to anyone looking for a trustworthy
+  - name: "mohammed jamal"
+    rating: 5
+    comment: |
+      I had a great experience with their accounting services. They are very professional, responsive, and made everything easy to understand. Highly recommend them
   - name: "Wanda Czebreszuk"
     rating: 5
     comment: |

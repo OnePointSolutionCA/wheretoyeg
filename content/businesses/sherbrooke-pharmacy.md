@@ -27,10 +27,6 @@ tags: ["edmonton", "pharmacies"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "T bell"
-    rating: 5
-    comment: |
-      The best pharmacy. The pharmacist is so friendly and accommodating. Never have had a problem with the service.
   - name: "Margot Diehl"
     rating: 5
     comment: |
@@ -43,6 +39,10 @@ reviews:
     rating: 5
     comment: |
       Have been using this pharmacy for years, service is outstanding. The pharmacist is professional, kind, very friendly and accommodating. He knows our family by name and gets or prescriptions ready promptly with no issues. He's GREAT!!!!
+  - name: "T bell"
+    rating: 5
+    comment: |
+      The best pharmacy. The pharmacist is so friendly and accommodating. Never have had a problem with the service.
   - name: "Brittney Smith"
     rating: 5
     comment: |

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/studio-n-beauty-1.jpg", "/photos/studio-n-beauty-2.jpg", "/photos/studio-n-beauty-3.jpg"]
 rating: 5
-review_count: 285
+review_count: 284
 price_range: "$$"
 amenities:
 
