@@ -18,7 +18,7 @@ hours:
   sunday: "10:00 AM–7:00 PM"
 photos: ["/photos/u-of-a-botanic-garden-1.jpg", "/photos/u-of-a-botanic-garden-2.jpg", "/photos/u-of-a-botanic-garden-3.jpg"]
 rating: 4.6
-review_count: 3308
+review_count: 3318
 price_range: "$$"
 amenities:
   - "Family Friendly"
@@ -29,6 +29,10 @@ tags: ["garden", "nature", "family-friendly", "date-night", "outdoor"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Sarea Naser"
+    rating: 5
+    comment: |
+      I had a wonderful visit to the University of Alberta Botanic Garden. The gardens are beautiful, peaceful, and very well maintained. There are many different plants, flowers, and walking paths to explore, making it a great place to relax and enjoy nature. The atmosphere is calm and welcoming, and the scenery is perfect for taking photos. It is suitable for families, couples, and anyone who enjoys spending time outdoors. I would definitely recommend visiting this garden and would be happy to return again in the future.
   - name: "Kiran Naidoo"
     rating: 5
     comment: |
@@ -41,14 +45,14 @@ reviews:
     rating: 4
     comment: |
       It's like the Mutart Conservatory multiplied on large scale. Absolutely huge, with so much to see! The Japanese, apline,arid and wetland areas were my favorite! The only downside is the cost of the food..$11 for a wiener on a bun with nothing else added is pretty steep. Really nice way to escape the city for a day
-  - name: "Lorna N"
-    rating: 4
-    comment: |
-      There were lots of different areas, the Alpine, Desert, and Peony gardens for example. The Kurimoto Japanese Gardens and the Aga Khan Garden are a pleasure to tour. Most plants and trees were name tagged so it was easy to find out what it was. The indoor Showhouses were beautiful. It took us almost two and a half hours to everything, but we really took our time to enjoy it all.
-  - name: "Adarsh"
+  - name: "Noel Querijero"
     rating: 5
     comment: |
-      Visited the University of Alberta Botanic Garden and had a great experience. The gardens are beautifully maintained with a variety of themed areas, especially the Japanese garden, which was very peaceful. It’s a perfect spot for a relaxing walk and photos.
+      Japanese Garden, Aga Khan pavilion, tropical garden, temperate arid and pine collections were good
       
-      Staff were friendly, and everything was well organized. It’s a bit outside the city, but definitely worth the drive. Would recommend visiting, especially during peak bloom season!
+      It would be nice if there were more hut/ tents/  shade. Also i think only three rest room areas
+      
+      Plant collection was extensive , could you also include fungi, and other plants
+      
+      The ponds would be nice if there were fish?
 ---

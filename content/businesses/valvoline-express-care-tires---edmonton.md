@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–5:30 PM"
 photos: ["/photos/valvoline-express-care-tires---edmonton-1.jpg", "/photos/valvoline-express-care-tires---edmonton-2.jpg", "/photos/valvoline-express-care-tires---edmonton-3.jpg"]
 rating: 4.8
-review_count: 1771
+review_count: 1775
 price_range: "$$"
 amenities:
 
@@ -28,7 +28,7 @@ tags: ["edmonton", "oil-change"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Joe Lumbu-An"
+  - name: "Joe An"
     rating: 5
     comment: |
       I highly recommend this shop specially Noor the Techncian! They’ve been incredibly patient and polite with all my questions. It only took 20 minutes, and I was able to leave the shop without any hassle. What a smooth transaction!

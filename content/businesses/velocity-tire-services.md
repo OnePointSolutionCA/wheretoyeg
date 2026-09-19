@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "3710 4 St NW, Edmonton, AB T6T 2L7"
 rating: 4.9
-review_count: 68
+review_count: 71
 tier: "featured"
 phone: "(825) 925-1570"
 google_maps: "https://maps.google.com/?cid=2343620820136477780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

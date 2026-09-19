@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/windshield-surgeons-auto-glass-1.jpg", "/photos/windshield-surgeons-auto-glass-2.jpg", "/photos/windshield-surgeons-auto-glass-3.jpg"]
 rating: 4.8
-review_count: 1446
+review_count: 1449
 price_range: "$$"
 amenities:
 
@@ -61,19 +61,13 @@ reviews:
       Convenient location, plenty of things to do while waiting, the waiting area is also comfortable.
       
       Thanks Denise, and shop staff for the great customer service!
-  - name: "Ed M"
-    rating: 5
-    comment: |
-      I can't say enough good things about Windshield Surgeons Edmonton North. From the moment I walked in, I was treated with professionalism, courtesy, and genuine care. The customer service was absolutely outstanding, and the staff went above and beyond to make the entire process easy and stress-free.
-      
-      The quality of the workmanship was exceptional. My vehicle was completed on time, the installation was flawless, and everything was explained clearly. It's obvious that they take great pride in their work and are committed to doing the job right the first time.
-      
-      In a world where great customer service can be hard to find, Windshield Surgeons Edmonton North truly stands out. Their combination of expert craftsmanship, attention to detail, honesty, and friendly service is second to none. I would not hesitate to recommend them to family, friends, or anyone looking for windshield repair or replacement. Steve and the staff rock !!!!!!
-      
-      Five stars all the way. Thank you for an outstanding experience! Thank you Ed
   - name: "Ramzi Belman"
     rating: 5
     comment: |
       I had my 2018 Ford F-150 windshield replaced at Windshield Surgeons Auto Glass in Northside Edmonton, and I’m very happy with the service. The front desk staff were friendly, professional, and welcoming. The shop did an excellent job, and the quality exceeded my expectations. The price was fair, and the whole experience was smooth and hassle-free. Highly recommend!
       Thanks for the great service! 👍
+  - name: "Jesse whocarez (Whocarez)"
+    rating: 5
+    comment: |
+      Absolutely amazing place. They have that  old school customer satisfaction attitude where if they can help you out they will. I came to get my side mirror glass put back on which they normally don’t do or have a billing process for but they were able to do it. I will come back here for all my glass needs. Such great service that is hard to find now days.
 ---

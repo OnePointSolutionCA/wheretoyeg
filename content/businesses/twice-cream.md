@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/twice-cream-1.jpg", "/photos/twice-cream-2.jpg", "/photos/twice-cream-3.jpg"]
 rating: 4.7
-review_count: 506
+review_count: 507
 price_range: "$$"
 amenities:
   - "Dine-In"

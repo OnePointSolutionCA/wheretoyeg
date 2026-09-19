@@ -19,7 +19,7 @@ hours:
   sunday: "9:00 AM–7:00 PM"
 photos: ["/photos/westgate-market-halal-meat-deli-1.jpg", "/photos/westgate-market-halal-meat-deli-2.jpg", "/photos/westgate-market-halal-meat-deli-3.jpg"]
 rating: 4.3
-review_count: 222
+review_count: 223
 price_range: "$$"
 amenities:
   - "Halal"

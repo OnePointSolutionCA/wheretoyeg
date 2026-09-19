@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/tt-supermarket-edmonton-store-1.jpg", "/photos/tt-supermarket-edmonton-store-2.jpg", "/photos/tt-supermarket-edmonton-store-3.jpg"]
 rating: 4.3
-review_count: 4197
+review_count: 4200
 price_range: "$$"
 amenities:
 
@@ -55,20 +55,14 @@ reviews:
       It’s true—products from China are like a trip down memory lane.
       The meat and fish sections are always fresh.
       The baked goods are a special treat; they’re unique to Europeans, but very simple and delicious.
-  - name: "Andreea Gabriela"
+  - name: "Alice Woo"
     rating: 5
     comment: |
-      This place will be the reason why I'll weigh 500 lbs by the end of the year 🤣 The food is incredible, we had the orange chicken (ate it before I thought about taking pictures) and different kind of mochis, each one better than the other. We can't stop going back for more treats.
-  - name: "Edina G."
+      This T&T Supermarket is our go to place for everything bakery! We always get our favourite Green Tea Cake Roll with Red Bean, Napoleon Coffee Cake Roll, Fruit Tarts, Salted Egg Yolk Pastries, Taro & Strawberry Flavoured Mochi Cake, Pineapple Strawberry Mousse Cake, Pudding Cake, Chocolate Mix Fruit Cake and many more! The baked goods are always fresh and delicious! It’s also a good place to buy groceries and get some Mooncakes since it’s the Mid Autumn Festival!
+  - name: "Fancy Nails"
     rating: 5
     comment: |
-      I love T&T Supermarket. Especially this location and the one in the north — they’re the two best. The soup is absolutely amazing. The food is incredible too. The pastries and bakery items are the best in all of Canada and always fresh.
-      
-      Unfortunately, there’s rarely any soup left after 7 PM, which I’m a bit sad about because I would honestly buy all of it 😅
-      
-      Today I bought a Dubai croissant — it was unbelievably delicious. I’ve bought it many times from other stores, but nowhere else was it this crispy, fresh, and tasty.
-      
-      Ever since I moved to Canada, I’ve been going at least weekly — and I’ll definitely keep going.
-      
-      Definitely 5 stars ⭐⭐⭐⭐⭐
+      Great selection and super convenient!
+      This T&T location inside West Edmonton Mall is fantastic. It’s always well-stocked with a huge variety of fresh produce, seafood, and authentic Asian groceries. I especially love their ready-to-eat hot food section and bakery—everything is delicious and fresh. The store is clean, organized, and a perfect stop while shopping at the mall. Highly recommended!
+      Fancy nails westgate salon Edmonton AB
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/the-injectionist-aesthetics-1.jpg", "/photos/the-injectionist-aesthetics-2.jpg", "/photos/the-injectionist-aesthetics-3.jpg"]
 rating: 4.7
-review_count: 280
+review_count: 281
 price_range: "$$"
 amenities:
 
@@ -44,6 +44,10 @@ reviews:
     rating: 5
     comment: |
       I tried Botox for TMJ pain relief and it has greatly improved my quality of life. Heather is so kind and extremely knowledgeable. She is truly concerned about what is best for each client. The staff here are outstanding! Everyone is friendly and helpful. I highly recommend this clinic for any cosmetic treatments! Wish I could give more stars!
+  - name: "Angel Badongen"
+    rating: 5
+    comment: |
+      Literally the best first experience with injections ever. Got my lips done for the first time with Heather and she just did them so perfectly I was worried at first that 1ml would be too much but she made sure to break everything down to me step by step she also had two lovely ladies who were so helpful throughout the process and were just super reassuring the whole time. I definitely recommend especially for first timers who are worried about where to go. Felt like a hangout lol except you leave w your dream lips
   - name: "Stephanie MacInnis"
     rating: 5
     comment: |
@@ -57,8 +61,4 @@ reviews:
       I never felt like I was being sold something I didn't need. Heather listened to my concerns, answered all my questions, and made the whole experience comfortable and surprisingly relaxing.
       
       I can't speak to the final results just yet, but if they're half as good as the experience was, I'll be thrilled. Highly recommend Heather if you're looking for someone who knows their stuff and makes the process feel easy.
-  - name: "Amelia Hills"
-    rating: 5
-    comment: |
-      I have been going to the Injectionist since 2020 I started in Calgary and then switched to Edmonton as I am there more often. I have always been happy with my lips but have often had not the best customer experience. That has all changed! I had the pleasure of getting my lips done by Heather and she was above and beyond. She is friendly, fun and SO informative. The girls at the front and the girl taking pictures the day of my appointment were also incredible. The customer service side of things and the customer experience has improved astronomically. If you want perfect lips and to feel like a valued customer there is no place else to go !
 ---

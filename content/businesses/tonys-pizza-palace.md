@@ -20,7 +20,7 @@ hours:
   sunday: "4:30 PM–9:00 PM"
 photos: ["/photos/tonys-pizza-palace-1.jpg", "/photos/tonys-pizza-palace-2.jpg", "/photos/tonys-pizza-palace-3.jpg"]
 rating: 4.5
-review_count: 1767
+review_count: 1770
 price_range: "$$"
 amenities:
   - "Dine-In"

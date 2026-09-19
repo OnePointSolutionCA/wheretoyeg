@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/trust-home-comfort-1.jpg", "/photos/trust-home-comfort-2.jpg", "/photos/trust-home-comfort-3.jpg"]
 rating: 5
-review_count: 800
+review_count: 801
 price_range: "$$"
 amenities:
 
@@ -38,6 +38,10 @@ reviews:
       I was so impressed with the way Van fixed the furnace and obliterated the rust and repainted it. You can't even tell there ever was rust there in the first place.
       
       He was so patient and respectful and answered all my questions. Above and beyond service.
+  - name: "M S"
+    rating: 5
+    comment: |
+      Ken and his team did an excellent job with my AC repair and the installation of two new humidifiers. The price was reasonable. Ken was very thorough and knowledgeable, and the young guys executed a clean job. I'm really pleased with how things turned out in the end.
   - name: "Anmol Davis"
     rating: 5
     comment: |
@@ -52,8 +56,4 @@ reviews:
       Got a heat pump installed in my new build home. Service with the office was great and clear on what was needed to be done. They helped with the permit information as well which was nice.
       
       The installers were professional and kept everything clean while installing. The finished product looks great and they walked me through everything afterwards. Would recommend and use their services again!
-  - name: "Dan Stewart"
-    rating: 5
-    comment: |
-      Had Trust Home Comfort install a new humidifier on the furnace in my house. Excellent service. Friendly and knowledgeable took the time to explain everything to me. Excellent rates.  I would recommend highly
 ---

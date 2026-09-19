@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/the-face-institute-1.jpg", "/photos/the-face-institute-2.jpg", "/photos/the-face-institute-3.jpg"]
 rating: 5
-review_count: 495
+review_count: 497
 price_range: "$$"
 amenities:
 
@@ -36,18 +36,12 @@ reviews:
       Julie was exceptionally knowledgeable and took the time to provide thoughtful advice and guidance. She was warm, professional, and genuinely cared about making sure I felt informed and supported.
       
       It’s not always easy walking into a place you’ve never been before, but I left feeling so well taken care of. The entire experience was positive, personalized, and enjoyable. I truly appreciate the level of care and attention I received and would highly recommend The Face Institute to anyone looking for a welcoming and professional experience.
-  - name: "Vlatka Simundic"
+  - name: "Debbie Ricciardi"
     rating: 5
     comment: |
-      After visiting several aesthetic clinics in Edmonton over the last decade, I'm so glad I found my way back to Julie and The Face Institute.
+      I had an amazing experience at The Face Institute with Julie Wuis! This was my first appointment with her, and she immediately made me feel comfortable, relaxed, and completely at ease. She took the time to listen, answered all of my questions, and I felt I could trust her from the moment we met.
       
-      From the moment I walked in, I felt genuinely listened to. Terri took the time to understand my concerns, answer every question, and together with Julie created a thoughtful long-term plan focused on facial harmony and natural-looking results rather than rushing into treatments.
-      
-      What stood out to me most was the level of care. When Julie learned about my chronic neck pain, she immediately recommended someone she genuinely believed could help and encouraged me not to give up on strength training. That simple conversation meant more to me than she probably realizes.
-      
-      My Botox is still settling, so I'll update my review after my follow-up, but the professionalism, kindness, and genuine care I experienced already deserve five stars.
-      
-      Thank you, Julie, Terri, and the entire team. I'm so glad I found my way back
+      The results exceeded my expectations—I couldn't be happier! Julie is incredibly skilled, professional, and genuinely cares about her clients. I highly recommend her to anyone considering treatment. I'll definitely be returning again and again!
   - name: "Sina Yusuf"
     rating: 5
     comment: |

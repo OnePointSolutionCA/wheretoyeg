@@ -35,10 +35,20 @@ reviews:
     rating: 5
     comment: |
       Staff were very friendly and helpful with menu suggestions. Food and coffee was fantastic.
-  - name: "Renata Heringer"
-    rating: 5
+  - name: "Elvis PINKSEN"
+    rating: 3
     comment: |
-      I cannot say enough great things about this place! The food is so delicious, coffee always good and service is amazing. The people who work there are so friendly always. I’ve been a customer for years now and never had a bad experience there. It’s a hidden gem in St Albert, worth the drive every time. We love the Pide Pies and Pressed beef.
+      The food was phenomenal. Let me just get that out there... amazing.
+      I got a chicken pida wrap and my gf got the beef one.
+      Took 10 minutes to have our order taken, 20 minutes to get our coffee (the table beside us just got waters, they came at the same time as our coffees) and another 30 minutes to get our wraps.
+      The manager came over and apologized, explaining that they were short staffed and food is made completely fresh. We understood that and just asked for a 5 or 10 percent discount, originally she declined but then at checkout she comped 1 of our coffees which was good to hear.
+      
+      If you only see 2 people behind the counter I'd recommend asking for the wait time. As most people go to a coffee shop for quick food, waiting almost an hour to get food might frustrate some.
+      
+      Food and drinks were great though, the food and comp'd drink saved this from being a 1 star on our first visit.
+      
+      Hopefully we just caught them on a rough day as many other reviews praise this place for its service.
+      Will update if we go again :)
 hours:
   monday: "Closed"
   tuesday: "10:00 AM–6:00 PM"

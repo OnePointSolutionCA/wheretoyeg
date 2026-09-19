@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "11 Athabascan Ave #160, Sherwood Park, AB T8A 4H4"
 rating: 4.7
-review_count: 148
+review_count: 153
 tier: "featured"
 phone: "(587) 269-5196"
 website: "http://www.thecolombian.ca/"

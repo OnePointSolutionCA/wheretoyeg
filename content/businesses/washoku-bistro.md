@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–9:00 PM"
 photos: ["/photos/washoku-bistro-1.jpg", "/photos/washoku-bistro-2.jpg", "/photos/washoku-bistro-3.jpg"]
 rating: 4.5
-review_count: 780
+review_count: 782
 price_range: "$$"
 amenities:
   - "Dine-In"

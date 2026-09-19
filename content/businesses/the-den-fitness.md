@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–6:00 PM"
 photos: ["/photos/the-den-fitness-1.jpg", "/photos/the-den-fitness-2.jpg", "/photos/the-den-fitness-3.jpg"]
 rating: 4.8
-review_count: 221
+review_count: 222
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,10 @@ tags: ["edmonton", "gyms"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Craig Nadeau"
+    rating: 5
+    comment: |
+      It took a while but finally made it.  Great body builder gym that has a posing room.  Super staff.  And, they had an old school pull-over machine!  Close to West Edmonton Mall!
   - name: "Lita Dabiatch"
     rating: 2
     comment: |
@@ -46,16 +50,18 @@ reviews:
       Cleanliness was also disappointing. The spray bottles appear to contain only water rather than proper disinfectant, and many of the bottles are broken. There are often no paper towels available. I rarely saw anyone wiping down equipment, but even if they did, wiping with water alone isn't very effective. The floors are dirty, and overall the facility does not appear to be cleaned regularly.
       
       Finally, members frequently leave weights on machines and fail to return attachments to their proper places, which adds to the overall lack of organization.  I left after a few months and I have found another gym that meets my needs.
-  - name: "Craig Nadeau"
-    rating: 5
-    comment: |
-      It took a while but finally made it.  Great body builder gym that has a posing room.  Super staff.  And, they had an old school pull-over machine!  Close to West Edmonton Mall!
   - name: "Mitch Wickstrom"
     rating: 5
     comment: |
       Came in for a free day to test the gym out. Overall experience was excellent. Staff are great and showed me around the gym before I got to my workout. The equipment is also just as amazing.
       
       Will definitely be getting a membership here
+  - name: "Wesley Peeples"
+    rating: 5
+    comment: |
+      The Den has an atmosphere that makes you want to train hard the moment you walk through the doors. The energy is contagious, the members are focused, and it's the kind of gym that motivates you to push for that extra rep
+      
+      The equipment selection is second to none. There's everything you could possibly need—and then some. The quality, variety, and upkeep of the equipment are outstanding. If you're serious about training and want a gym that matches that mindset, The Den sets the standard.
   - name: "Riley Pierrard"
     rating: 5
     comment: |
@@ -66,10 +72,4 @@ reviews:
       Improved change rooms and a finalized layout that flows smoothly made this 100% the best gym in Edmonton.
       
       The Den genuinely has the "it" everyone is looking for
-  - name: "Wesley Peeples"
-    rating: 5
-    comment: |
-      The Den has an atmosphere that makes you want to train hard the moment you walk through the doors. The energy is contagious, the members are focused, and it's the kind of gym that motivates you to push for that extra rep
-      
-      The equipment selection is second to none. There's everything you could possibly need—and then some. The quality, variety, and upkeep of the equipment are outstanding. If you're serious about training and want a gym that matches that mindset, The Den sets the standard.
 ---

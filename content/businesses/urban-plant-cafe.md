@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Mill Woods"
 address: "9261 34 Ave NW #18A, Edmonton, AB T6N 1C9"
 rating: 4.3
-review_count: 788
+review_count: 785
 tier: "featured"
 phone: "(780) 490-1377"
 website: "http://www.urbanplant.ca/"
@@ -47,10 +47,10 @@ reviews:
       Coffee is meh. They don't have flat white, which is really telling for a coffee shop.
       
       I know the reply is gonna be it's their policy and the atmosphere they want to create. That's fine. But expect the consequences.
-  - name: "Abdulrahman Alawadhi"
+  - name: "Jonathan Blyth"
     rating: 5
     comment: |
-      Urban Plant has such a calm, cozy vibe — perfect for catching up or unwinding. Their mango bingsu was refreshing and really hit the spot. Great service and overall experience. Will definitely be back! 🥭❄️🌿
+      What isn’t to like about this cafe?? The food is excellent. The coffee & lattes are excellent. The service is excellent (so friendly and happy to serve)! Atmosphere, cute and quaint with great seating among plants and chatter. No laptops and studying brings a personal vibe as well. 10 ✨ if I could!! So good and thank you!!!
 hours:
   monday: "Closed"
   tuesday: "12:00 PM–9:30 PM"

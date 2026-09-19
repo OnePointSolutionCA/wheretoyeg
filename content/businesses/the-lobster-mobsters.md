@@ -30,14 +30,6 @@ tags: ["edmonton", "seafood"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Jaskirat Aujla"
-    rating: 2
-    comment: |
-      I hate having to update my original 5-star review because my first visit was fantastic. The quality and portion size were great, which is why I was willing to drive 30 minutes back for another lobster roll.
-      
-      Unfortunately, this visit was a huge disappointment. The lobster was cold, there was barely any meat compared to my first visit, and it felt like I was mostly eating bread. For $28, I expected much better value and consistency. It honestly felt like a rip-off this time.
-      
-      I really hope this was just an off day because my first experience was excellent, but based on this visit, I can’t justify giving the same rating.
   - name: "Rhonda Monts"
     rating: 5
     comment: |
@@ -54,6 +46,14 @@ reviews:
     rating: 5
     comment: |
       You got come here! This place is definitely worth the hype!! The lobster role is the best thing I have had in awhile! The roll itself is soft and beautifully covered in garlic butter. The lobster and crab meat were so good! It was tasty, fresh! I love seafood, the sandwich itself is pricey but soooo worth it!
+  - name: "Jaskirat Aujla"
+    rating: 2
+    comment: |
+      I hate having to update my original 5-star review because my first visit was fantastic. The quality and portion size were great, which is why I was willing to drive 30 minutes back for another lobster roll.
+      
+      Unfortunately, this visit was a huge disappointment. The lobster was cold, there was barely any meat compared to my first visit, and it felt like I was mostly eating bread. For $28, I expected much better value and consistency. It honestly felt like a rip-off this time.
+      
+      I really hope this was just an off day because my first experience was excellent, but based on this visit, I can’t justify giving the same rating.
   - name: "Samantha N."
     rating: 5
     comment: |

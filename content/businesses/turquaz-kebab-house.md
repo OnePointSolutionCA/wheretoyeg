@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–9:30 PM"
 photos: ["/photos/turquaz-kebab-house-1.jpg", "/photos/turquaz-kebab-house-2.jpg", "/photos/turquaz-kebab-house-3.jpg"]
 rating: 4.7
-review_count: 9161
+review_count: 9179
 price_range: "$$"
 amenities:
   - "Halal"
@@ -31,10 +31,6 @@ tags: ["edmonton", "lebanese", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Robynn S"
-    rating: 5
-    comment: |
-      I can’t believe I’ve never been here before! We ordered the chicken thighs and kafta.…it came out so fast and the meat was well seasoned and juicy.  Loved the fresh baked pita to start.  Everyone who served us had such nice smiles, it made the experience that much better :)
   - name: "Angelica Pineda"
     rating: 5
     comment: |
@@ -43,6 +39,10 @@ reviews:
     rating: 5
     comment: |
       First time eating here very testy and delicious food portions are generous nice customer service. We enjoyed. Highly recommend.
+  - name: "Robynn S"
+    rating: 5
+    comment: |
+      I can’t believe I’ve never been here before! We ordered the chicken thighs and kafta.…it came out so fast and the meat was well seasoned and juicy.  Loved the fresh baked pita to start.  Everyone who served us had such nice smiles, it made the experience that much better :)
   - name: "Nav Ish"
     rating: 5
     comment: |

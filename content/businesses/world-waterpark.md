@@ -18,7 +18,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/world-waterpark-1.jpg", "/photos/world-waterpark-2.jpg", "/photos/world-waterpark-3.jpg"]
 rating: 4.3
-review_count: 4582
+review_count: 4591
 price_range: "$$$"
 amenities:
   - "Family Friendly"
@@ -30,6 +30,15 @@ tags: ["waterpark", "family-friendly", "wem", "indoor", "kids"]
 active: true
 date_listed: "2026-08-18"
 reviews:
+  - name: "Kieran B"
+    rating: 4
+    comment: |
+      This place is truly a gem in Edmonton. Not being from here, this city is really lucky to have an amazing place to go during the winter time. We came march of 2026, getting in is pretty easy, although to my understanding you can only buy tickets online. Which is kinda a bummer, but for a giant waterpark like this, it’s actually not that bad of a price. 45-60$ to get in per person on some occasions. My only complaint is that the picnic tables are as I’m writing this 25$ per person to rent. FOR A PICNIC TABLE.
+  - name: "Bon Kramer"
+    rating: 4
+    comment: |
+      It was a beautiful 3rd birthday for my grandbaby last 5/17/26 the wavepool was so fun and had a great time with the whole family.
+      Staff are nice and they try to maintain cleanliness 👍 and very watchful lifeguards and attentive!
   - name: "Rayne-Anne Latchford Oosterveld"
     rating: 3
     comment: |
@@ -38,15 +47,6 @@ reviews:
       But it's genuinely still too expensive. Admission and food. And I understand businesses needing to make money and sometimes people misunderstand a higher cost as being too expensive when it's actually needed to run something. But I really feel like everything here is genuinely too expensive all things considered.
       
       We did also rent a Cabana and I would do that again everytime if taking kids. They have private storage that is quite large to put your things. There's also a separate Cabana entrance so you don't have to go through the main pool entrance if you pre-buy. And then there's also a bathroom close by that's got a code for only people who have rented the Cabana. So for us it was really great. Because the kids were able to go change and all of our stuff was close by and not in the locker room. And then we had a place to chill and have food and hang out when we wanted to take breaks. The Cabana is surprisingly, we're not astronomically priced. But in conjunction with the amount of costs you're already putting out to be there and have food, it ends up being far too much still.
-  - name: "Bon Kramer"
-    rating: 4
-    comment: |
-      It was a beautiful 3rd birthday for my grandbaby last 5/17/26 the wavepool was so fun and had a great time with the whole family.
-      Staff are nice and they try to maintain cleanliness 👍 and very watchful lifeguards and attentive!
-  - name: "JPA Par"
-    rating: 5
-    comment: |
-      Was awed by the size of this place! It's enormous! The wave pool and water slides were amazing, and was an epic experience. Edmonton is now one of my favorite vacation destinations in North America.
   - name: "Jerry"
     rating: 1
     comment: |

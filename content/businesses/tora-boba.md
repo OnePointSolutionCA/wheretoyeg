@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/tora-boba-1.jpg", "/photos/tora-boba-2.jpg", "/photos/tora-boba-3.jpg"]
 rating: 4.7
-review_count: 187
+review_count: 190
 price_range: "$$"
 amenities:
 
@@ -56,8 +56,8 @@ reviews:
     rating: 5
     comment: |
       The best boba i have ever had. Drinks are so intricate. I got a biscoff milk matcha with brown sugar boba in it and it bas a little cheese cloud on it too. Sooo delicious and they have a cute selection of board games. Also the cups having little bear lids is adorable!!!!!!!
-  - name: "NGỌC NHI MẪN NGUYỄN"
+  - name: "Tatiana Lepine"
     rating: 5
     comment: |
-      Cute and cozy spot with a very aesthetic vibe. The milk coffee is well-balanced (not too sweet), and the pearls are soft and chewy. Great place to relax or study. Will definitely come backkkk
+      great quality excellent drink every time :) a lot of drink options!! friendly helpful staff and great decor, perfect study space or place to gather with some friends.
 ---

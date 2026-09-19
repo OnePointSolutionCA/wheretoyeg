@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–12:00 AM"
 photos: ["/photos/the-bob-story-korean-kitchen-1.jpg", "/photos/the-bob-story-korean-kitchen-2.jpg", "/photos/the-bob-story-korean-kitchen-3.jpg"]
 rating: 5
-review_count: 76
+review_count: 79
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -30,6 +30,14 @@ tags: ["edmonton", "sushi"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "JUNG MIN KIM"
+    rating: 5
+    comment: |
+      I had a great meal here! The menu is huge, and the portions are really generous. Everything was so tasty, but the Fried Chili Shrimp and Cheese Buldak were definitely the highlights. The owner and the staff are super friendly, too. I'll be back for sure!
+  - name: "Elaine W"
+    rating: 5
+    comment: |
+      WOOOWWW this is acc the BEST korean restaurant in Edmonton!!! me and my friend has never ever ever nonstop complimented the food for two hrs straight. The owner and employee were so nice. The food was extremely affordable and the portion sizes were humungous. The jjamppong had crabs in it, which was never advertised, and it was such a surprise. The tteokbokki and dak-galbi were fragrant and rich. The kitchen is right beside you as well and you can see that everything was freshly prepared and cooked. Even the takeout experience was top-notch. they had I would dare say the best paper bags I’ve seen. They were so durable and they even wrapped your takeout box in saran wrap. They were also kind in giving instructions on how to better microwave the food. I genuinely cannot believe that there is so little reviews on this job. This shop is absolutely amazing. This is becoming a stable for me and my friends and we are planning to bring off our friends here as well. I am so excited to try their full menu in the coming months!!!!!
   - name: "Fabiha Bushra"
     rating: 5
     comment: |
@@ -40,14 +48,6 @@ reviews:
       The staff were also amazing—friendly, attentive, and happy to help with recommendations.
       
       I highly recommend coming with a group so you can order a variety of dishes and share. Great food, generous portions, and excellent service—I’ll definitely be back!
-  - name: "JUNG MIN KIM"
-    rating: 5
-    comment: |
-      I had a great meal here! The menu is huge, and the portions are really generous. Everything was so tasty, but the Fried Chili Shrimp and Cheese Buldak were definitely the highlights. The owner and the staff are super friendly, too. I'll be back for sure!
-  - name: "Elaine W"
-    rating: 5
-    comment: |
-      WOOOWWW this is acc the BEST korean restaurant in Edmonton!!! me and my friend has never ever ever nonstop complimented the food for two hrs straight. The owner and employee were so nice. The food was extremely affordable and the portion sizes were humungous. The jjamppong had crabs in it, which was never advertised, and it was such a surprise. The tteokbokki and dak-galbi were fragrant and rich. The kitchen is right beside you as well and you can see that everything was freshly prepared and cooked. Even the takeout experience was top-notch. they had I would dare say the best paper bags I’ve seen. They were so durable and they even wrapped your takeout box in saran wrap. They were also kind in giving instructions on how to better microwave the food. I genuinely cannot believe that there is so little reviews on this job. This shop is absolutely amazing. This is becoming a stable for me and my friends and we are planning to bring off our friends here as well. I am so excited to try their full menu in the coming months!!!!!
   - name: "Geraldine Melzi"
     rating: 5
     comment: |

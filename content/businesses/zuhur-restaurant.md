@@ -19,7 +19,7 @@ hours:
   sunday: "9:00 AM–10:00 PM"
 photos: ["/photos/zuhur-restaurant-1.jpg", "/photos/zuhur-restaurant-2.jpg", "/photos/zuhur-restaurant-3.jpg"]
 rating: 4.6
-review_count: 467
+review_count: 468
 price_range: "$"
 amenities:
   - "Halal"

@@ -30,10 +30,6 @@ amenities:
 tags: ["bubble tea", "boba", "taiwanese", "downtown", "brown sugar"]
 active: true
 reviews:
-  - name: "Ramiza Simran"
-    rating: 1
-    comment: |
-      Total scam with their "BOGO" deal. The app says Buy 1 Get 1, but the description says Buy 2 Get 1. I paid $16.58 for two drinks and only received ONE. When I called the store to fix it, they just said "nothing we can do, call Uber." If you can’t manage your own promotions or help a customer when you mess up an order, you shouldn't be on the app. I basically paid double price for one boba. Save your money and go somewhere that actually gives you what you pay for.
   - name: "1 Couver"
     rating: 2
     comment: |
@@ -50,6 +46,10 @@ reviews:
       You can actually taste the peach unlike any other bubble tea places, which I like.
       But they do have other unique flavours and just like any other bubble tea places, they have their own points system.
       The place isn’t too big but there are seats and tables. Washroom is also available but only to paying customers.
+  - name: "Ramiza Simran"
+    rating: 1
+    comment: |
+      Total scam with their "BOGO" deal. The app says Buy 1 Get 1, but the description says Buy 2 Get 1. I paid $16.58 for two drinks and only received ONE. When I called the store to fix it, they just said "nothing we can do, call Uber." If you can’t manage your own promotions or help a customer when you mess up an order, you shouldn't be on the app. I basically paid double price for one boba. Save your money and go somewhere that actually gives you what you pay for.
   - name: "Daniel Tran"
     rating: 5
     comment: |

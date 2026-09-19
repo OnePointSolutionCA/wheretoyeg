@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "9499 137 Ave NW Ste 1100, Edmonton, AB T5E 5R8"
 rating: 4.6
-review_count: 697
+review_count: 699
 tier: "featured"
 phone: "(780) 472-7740"
 website: "http://totalfocusnorthgate.com/"

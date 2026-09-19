@@ -64,16 +64,22 @@ reviews:
       And to my fellow middle-aged gentlemen: you’re already spending money on back pain, reading glasses, and suspiciously expensive barbecue accessories. Spend a little on a great haircut too.
       
       Thanks again, Momo. You made a Winnipegger look respectable for a wedding, and that’s no small miracle.
+  - name: "Charles MacEachern"
+    rating: 5
+    comment: |
+      I was struggling to find a barber that was open early in the morning. This was my first time at this barber, and I was blown away. Super clean, quiet, relaxing atmosphere, and Momo took great care of me. Great cut - I'll be back.
+  - name: "Connor Tighe"
+    rating: 5
+    comment: |
+      I had gotten a haircut earlier in the day at a different barber shop (Dr.Barber), and unfortunately it was probably one of the worst haircuts I’ve ever had. It was lopsided and uneven, my beard was crooked, and overall it was just a mess.
+      
+      I went to see Momo afterward, and the guy absolutely saved me. He took the time to fix everything, evened out the haircut, lined up my beard, and somehow made it look like the bad haircut never even happened.
+      
+      I seriously can’t thank him enough, especially since I’m in a friend’s wedding party tomorrow. I definitely owe him one.
+      
+      I’ll 100% be going back. I’d highly recommend Momo to anyone looking for a barber who knows what he’s doing. Thanks again, Momo!
   - name: "Ella Venus"
     rating: 5
     comment: |
       Amine did my son’s first hair cut when he was 3, he was very good at entertaining him while cutting his hair and we’ve been going ever since. Amine did his hair again today and as usual he did a great job! Highly recommend Amine he’s very friendly and always gives excellent service!
-  - name: "ebster the horror gamer"
-    rating: 5
-    comment: |
-      Amazing place have been going there for awhile! And they make my hair look amazing! Would definitely recommend! And surprisingly cheap for the quality!
-  - name: "Rob Mockford"
-    rating: 5
-    comment: |
-      Momo is an excellant barber and I recommend The Barber Shop without reservation. I am a customer since they opened and I've never been disappointed - brisk, no nonsense, efficient and very proficient. Thank you Momo!
 ---

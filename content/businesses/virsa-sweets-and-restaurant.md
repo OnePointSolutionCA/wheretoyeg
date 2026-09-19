@@ -6,7 +6,7 @@ subcategory: "indian-pakistani"
 neighborhood: "Beaumont"
 address: "4906 30 Ave 104, 106, Beaumont, AB T4X 1V1"
 rating: 4.4
-review_count: 469
+review_count: 479
 tier: "featured"
 phone: "(780) 722-4000"
 website: "https://virsasweetsandrestaurant.com/"
@@ -73,10 +73,16 @@ reviews:
       They mentioned that they had not charged us for the Dal Makhani, as if that was a favour. But honestly, if we had wanted Dal Makhani, we would have ordered it in the first place. We had already spent a lot of time waiting, and that doesn’t solve the problem of receiving food that was not up to the expected standard.
       
       Very disappointing experience overall. I personally would not recommend this restaurant based on our visit.
-  - name: "Hargunpreet Singh"
+  - name: "Krishna Mahajan"
     rating: 5
     comment: |
-      Today, I went to Virsa Sweets & Restaurant to eat dinner with my family. We all enjoyed the food and the meals were delicious. To name a few, we had the Karahi Paneer, Veg Korma, and Goat Curry. Overall, they had an excellent presentation, great & authentic taste—a must visit!
+      Stopped by to have lunch for the first time at this restaurant lovely food very tasty and authentic plus the staff was very friendly and welcoming
+      The chicken Kathi roll was so delicious and so was the tiki burger !!
+      
+      For Valentine’s Day also gave us a complementary cake. Very tasty as well
+      .
+      
+      Must recommend good spot and good people hope their business succeeds
 hours:
   monday: "10:00 AM–10:00 PM"
   tuesday: "10:00 AM–10:00 PM"

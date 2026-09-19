@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/the-bedouins-restaurant-1.jpg", "/photos/the-bedouins-restaurant-2.jpg", "/photos/the-bedouins-restaurant-3.jpg"]
 rating: 4.7
-review_count: 1968
+review_count: 1969
 price_range: "$$"
 amenities:
   - "Halal"
@@ -39,14 +39,6 @@ reviews:
     rating: 5
     comment: |
       The food was really good, everything tasted fresh and well-prepared. The place itself was very hygienic and clean, which made the dining experience even better. The staff were extremely friendly and welcoming, making us feel comfortable throughout. Definitely a spot worth visiting!
-  - name: "Ghazal Lotfi"
-    rating: 5
-    comment: |
-      We celebrated my dad’s birthday at The Bedouins Restaurant  and had a great experience. The food was delicious. The soup was amazing. The hummus, muhammara, and fresh pita were also amazing.
-      
-      The portions were generous, and everything tasted fresh and well-seasoned. The staff were friendly and made us feel welcome.
-      
-      Overall, a great spot for Middle Eastern food and a relaxed, family-friendly vibe. We’ll definitely be back!
   - name: "Yo Yo"
     rating: 5
     comment: |
@@ -74,4 +66,9 @@ reviews:
       10/10
       
       Edit: Came back for another visit for Lamb Tagine. Was served by Fatima, she was awesome and provided great service.
+  - name: "Eng.R"
+    rating: 4
+    comment: |
+      Nice place and friendly staff.
+      I would give 5 stars if I got the right order, but I didn't. Will visit it again, all the best
 ---

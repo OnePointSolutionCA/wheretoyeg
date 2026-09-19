@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Spruce Grove"
 address: "96 Campsite Rd, Spruce Grove, AB T7X 3Z1"
 rating: 4.3
-review_count: 1109
+review_count: 1111
 tier: "featured"
 phone: "(780) 948-8606"
 website: "http://www.cheesecakecafe.ca/"

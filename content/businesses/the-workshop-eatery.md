@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Mill Woods"
 address: "2003 91 St SW, Edmonton, AB T6X 0C8"
 rating: 4.4
-review_count: 1781
+review_count: 1783
 tier: "featured"
 phone: "(780) 705-2205"
 website: "https://robertspencerhosp.com/workshop-eatery/"
@@ -13,6 +13,10 @@ google_maps: "https://maps.google.com/?cid=5416357072620751240&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/the-workshop-eatery.jpg"
 reviews:
+  - name: "duane r neufeld"
+    rating: 5
+    comment: |
+      Dropped by here 2 years ago and this time for brunch on Sunday.  The WE did not disappoint.  We were  a table of 4 foodies.  We can be very critical if the food doesn't meet our satisfaction.  Top marks all around.  The carrot squash soup knocked it out of the park.  Exceptional flavor, very creative.  The cornbread is fun riff on the hueavous rancheros idea. The fresh salsa on top was a fresh delicious intro to the dish.    Clearly a gifted chef.
   - name: "Poonam Mittra Kamal"
     rating: 5
     comment: |
@@ -45,10 +49,6 @@ reviews:
     rating: 5
     comment: |
       An absolute hidden gem!  What you get for the price is out of this world.  Every dish is outstanding.  Fresh, local and incredible flavours.  The food is beyond exceptional.  Great selection of wines.  A 10/10 in our books!  Can’t wait to have another date night here!!
-  - name: "Scotia"
-    rating: 5
-    comment: |
-      Best restaurant experience I've had in years! Went for our 10th anniversary and we're blown away with not just the amazingly flavourful food and immaculate presentation, but also the staff and service. Thank you to all the staff who were so welcoming and kind, it really made our night special. We will be back! (The goose outside was also very polite.)
 hours:
   monday: "11:30 AM–9:00 PM"
   tuesday: "11:30 AM–9:00 PM"

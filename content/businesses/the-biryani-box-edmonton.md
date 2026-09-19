@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/the-biryani-box-edmonton-1.jpg", "/photos/the-biryani-box-edmonton-2.jpg", "/photos/the-biryani-box-edmonton-3.jpg"]
 rating: 4.4
-review_count: 423
+review_count: 422
 price_range: "$$"
 amenities:
   - "Halal"

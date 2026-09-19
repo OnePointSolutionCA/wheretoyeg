@@ -20,13 +20,6 @@ reviews:
       Ordered loads of pizza for our sons birthday party. We needed to find a place that offered food restrictions (Gluten Free and Halal), so that everyone could feel included and enjoy the food. V Trail Pizza had everything we needed, the price was great and kept 10+ boys very well fed! Delivery was also pre-scheduled and they were right one time. Even being a large order, everything was also 100% correct.
       
       Thanks so much!
-  - name: "Kristin N"
-    rating: 5
-    comment: |
-      Pizza was yummy as ever not greasy in a good way had very good flavor enjoyed the veg pesto pizza definitely going to come back to try more
-      Pic 1 veggie pizza with added olives
-      Pic 2 veggie pesto
-      The girl at the til was super friendly great customer service
   - name: "Hugh Jassman"
     rating: 3
     comment: |
@@ -35,6 +28,13 @@ reviews:
     rating: 5
     comment: |
       First time ordering from here but definitely not the last. Pizza and wings were great!!! Great and quick delivery when ordered online with awesome communication.
+  - name: "Kristin N"
+    rating: 5
+    comment: |
+      Pizza was yummy as ever not greasy in a good way had very good flavor enjoyed the veg pesto pizza definitely going to come back to try more
+      Pic 1 veggie pizza with added olives
+      Pic 2 veggie pesto
+      The girl at the til was super friendly great customer service
   - name: "Liza Lariviere"
     rating: 5
     comment: |

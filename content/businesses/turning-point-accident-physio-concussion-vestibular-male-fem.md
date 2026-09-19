@@ -33,20 +33,24 @@ reviews:
     comment: |
       I've been trying to get my dizziness diagnosed for months, knowing it's not BVVP and FINALLY found Jay and he pin pointed exactly what was going on. It's been great to finally understand my symptoms and what is triggering my dizziness. He gave helpful exercises and treatments - that will hopefully reduce the cervical vertigo.
       Everyone is super friendly and helpful there as well!
-  - name: "Cassandra Michelis"
-    rating: 5
-    comment: |
-      I had a sudden onset of vertigo/vestibular issues on February 14. I came to see Jay a week later, and he started me with doing some vestibular exercises. Eight weeks later, I am so much better. The exercises he has taught me have really helped with compensation and balance. I am back to driving, horseback riding, and now well enough to start riding my motorcycle! I truly believe that the vestibular physiotherapy he provided helped tremendously, and I wouldn’t be where I am without him and his team. I’ve also been getting acupuncture to help with these issues from Albert, which has been a great experience. Very thankful for them all!
   - name: "Ruby Laugo"
     rating: 5
     comment: |
       Great experienced to this clinic. Cam is an excellent massage therapist who genuinely cares about his patients. He made me feel comfortable right away and focused on the areas that needed the most attention. I felt so much relief after the session. Highly recommended.
+  - name: "Cassandra Michelis"
+    rating: 5
+    comment: |
+      I had a sudden onset of vertigo/vestibular issues on February 14. I came to see Jay a week later, and he started me with doing some vestibular exercises. Eight weeks later, I am so much better. The exercises he has taught me have really helped with compensation and balance. I am back to driving, horseback riding, and now well enough to start riding my motorcycle! I truly believe that the vestibular physiotherapy he provided helped tremendously, and I wouldn’t be where I am without him and his team. I’ve also been getting acupuncture to help with these issues from Albert, which has been a great experience. Very thankful for them all!
+  - name: "Alex Jonker"
+    rating: 5
+    comment: |
+      The front staff and assistants are very friendly and helpful.
+      
+      My sessions were with Prasanna Subramaniam; he is very kind and knowledgeable, answering all of my questions in detail and gave me treatments and exercises that were able to really assist me in recovery from my injury.
+      
+      I would highly recommend them for anyone looking to get some physio therapy!
   - name: "Amanda Carter"
     rating: 5
     comment: |
       Treatments are very effective. Staff is amazing. Couldn’t be happier. Came here after being hit by a car and spending 3 months in the hospital. They completely understood my need to have my pain relieved as well as providing strength training exercises to get me on the road to recovery.
-  - name: "cynthia champagne"
-    rating: 5
-    comment: |
-      Professional, heartwarming, courteous, knowledgeable which is very uncommon to find. Jay the physiotherapist is a “Magic Man.” I will not ever have any other one person taking care of my body. He advises you of the steps that is needed and warranted. He gives the ultimate best for you every visit!! I definitely recommend any patient to see him otherwise you are losing out in his expertise in helping you heal your body!!!
 ---

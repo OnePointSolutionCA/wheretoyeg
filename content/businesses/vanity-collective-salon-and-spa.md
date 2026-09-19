@@ -5,7 +5,7 @@ category: "spas-esthetics"
 neighborhood: "Spruce Grove"
 address: "1 Hawthorne Gate #116, Spruce Grove, AB T7X 0A6"
 rating: 4.9
-review_count: 831
+review_count: 840
 tier: "featured"
 phone: "(780) 571-0098"
 website: "http://www.vanitycollective.ca/"
@@ -17,6 +17,20 @@ reviews:
     rating: 5
     comment: |
       I recently saw Emma at Vanity Salon in Spruce Grove and had such a great experience! The salon is beautiful, clean, and very welcoming. The pricing is excellent for the quality of service you receive. Emma did an amazing job and made me feel so comfortable. I’ll definitely be seeing Emma for all my future hair needs. Highly recommend!
+  - name: "Michael"
+    rating: 2
+    comment: |
+      I took both of my kids in together for back-to-school haircuts. They were with different hairdressers at the same time. I expected more from this salon. The results were disappointing, and the kids felt the same.
+      
+      I booked a few days ahead. They called and said the stylists had finished early and I could come in 20 minutes before our appointment. I arrived early, but they still weren’t ready. Kierra’s car was parked beside the building, not even in a stall. I'll get to this later.
+      
+      I asked if we could try something new for one of my sons. She said yes but wanted to clean up the sides first. The cut was very quick and looked exactly the same—just trimmed sides. When I asked for shorter on top, she kept saying no, that it already looked good.
+      
+      The other stylist was okay overall, though there were spots that weren’t blended well.
+      
+      After we paid, Kierra was already out the door and in her car—again parked on the side of the building instead of in a stall. It felt like she wasn’t there for the service. She had us come early and then left immediately. The rush was obvious.
+      
+      This isn’t the salon for us or our kids. We were disappointed with the cuts.
   - name: "Kaylee Hardy"
     rating: 5
     comment: |
@@ -27,10 +41,6 @@ reviews:
       I had such an amazing experience with Shay at Vanity Collective today! Shay did an incredible job making me feel comfortable and welcome throughout the entire process. I hadn’t stepped foot in a salon for many years due to a past bad experience, so I was pretty nervous going in—but she completely changed that for me. Her kindness, patience, and professionalism instantly put me at ease.
       
       Not only did she make the appointment feel relaxed and positive, but she also did a fantastic job with my hair. I left feeling so happy and confident! Shay truly went above and beyond, and I’m already looking forward to my next visit. I can’t recommend her enough to anyone looking for a stylist who genuinely cares about their clients and their experience. ✨
-  - name: "annabelle lopez"
-    rating: 5
-    comment: |
-      Excellent experience! I absolutely loved it. Paola Toro completely understood what I wanted from the very beginning and not only met my expectations but exceeded them. I walked out feeling expensive, confident, and glamorous, with the most gorgeous, luxurious hair. Her attention to detail, professionalism, and talent truly made all the difference. I’m beyond happy with the result and will definitely be coming back. Highly recommended!” ✨💕💇‍♀️
   - name: "Dee Kemner"
     rating: 5
     comment: |

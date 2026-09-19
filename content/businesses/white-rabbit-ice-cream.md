@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/white-rabbit-ice-cream-1.jpg", "/photos/white-rabbit-ice-cream-2.jpg", "/photos/white-rabbit-ice-cream-3.jpg"]
 rating: 4.8
-review_count: 418
+review_count: 421
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -42,6 +42,12 @@ reviews:
       This place always has some good flavours. I’m not a big ice cream fan myself but I always find myself buying a scoop or two from here.
       
       I also love that they sell “waffle chips” so you can dip them into your ice cream if you don’t want to commit to a cone. Just as good and a little cleaner. I tried their new Pain au Chocolate which had very large chunks of the croissant and chocolate which was sooo good. And their chocolate isn’t too sweet or bitter which is nice to add.
+  - name: "hamideh khadem sohi"
+    rating: 5
+    comment: |
+      ⭐⭐⭐⭐⭐
+      
+      We visited three days ago and really enjoyed the ice cream! It tasted very fresh, creamy, and delicious, with just the right amount of sweetness. We’ll definitely come back again! 🍦
   - name: "Jeff"
     rating: 5
     comment: |
@@ -55,8 +61,4 @@ reviews:
     comment: |
       The chocolate brownie was delicious and the salted toffee was too. The waffle cones were made fresh and tasted as such. The staff member which helped us (he had a knight tattoo on his arm but I forget his name) was very very nice!! He let us try any flavor and was friendly and enthusiastic when we asked about the taste of each ice cream. He never made us feel rushed and made our experience great! The store was also nice and clean, and the little wall with merch was so cute too. Also need to add points for the free parking; very convenient.
       Will definitely be coming back!
-  - name: "Andy L"
-    rating: 3
-    comment: |
-      I tried White Rabbit Ice Cream at their Edmonton location. The white rabbit flavour was nice but not very strong. I also tried their taro honeycomb, which was enjoyable for the first few bites but became too sweet after a while. Given the price point and what they’re supposedly famously known for, I’d give it 7.3/10.
 ---

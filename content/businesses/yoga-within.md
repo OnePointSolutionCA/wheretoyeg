@@ -28,6 +28,10 @@ tags: ["edmonton", "yoga"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "A.J. Kavanagh"
+    rating: 5
+    comment: |
+      Yoga Within is one of the best studios in the city. Not only is the space beautiful and clean, the classes are very inclusive of every body, size, and shape. The instructors are knowledgeable and approachable and there are classes for all levels. Definitely a top-notch place.
   - name: "Alicia Souveny"
     rating: 5
     comment: |
@@ -44,8 +48,4 @@ reviews:
     rating: 4
     comment: |
       The space is really nice, I signed up for a pre-registered prenatal yoga class. I only concern is the speed of the class leaving me out of breath at 30 weeks pregnant, and it hurting my wrists. I didn’t feel like we were stretching we doing anything specific to prenatal needs as much so just running through a classic yoga class. She did have some good insight and had a great discussion with everyone at the beginning of the class.
-  - name: "Sue Leighton"
-    rating: 5
-    comment: |
-      Yoga classes at Wellness Within are always thoughtfully led . Mel is an exceptional teacher and her staff are lovely. Something for everyone.💗
 ---

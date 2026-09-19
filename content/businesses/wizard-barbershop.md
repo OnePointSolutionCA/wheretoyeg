@@ -19,7 +19,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/wizard-barbershop-1.jpg", "/photos/wizard-barbershop-2.jpg", "/photos/wizard-barbershop-3.jpg"]
 rating: 5
-review_count: 44
+review_count: 46
 price_range: "$$"
 amenities:
 

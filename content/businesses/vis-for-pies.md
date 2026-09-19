@@ -18,7 +18,7 @@ hours:
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/vis-for-pies-1.jpg", "/photos/vis-for-pies-2.jpg", "/photos/vis-for-pies-3.jpg"]
 rating: 4.5
-review_count: 1397
+review_count: 1401
 price_range: "$$"
 amenities:
   - "Custom Orders"
@@ -29,6 +29,10 @@ tags: ["pies", "bakery", "family-recipes", "saskatoon-berry"]
 active: true
 date_listed: "2026-08-18"
 reviews:
+  - name: "Merla Kreuger"
+    rating: 5
+    comment: |
+      This was a gem of a cafe to find.  Much more than a cafe .  The food was so good!   I had the beef brisket cheddar bagel with a spinach salad .  Great service and atmosphere .  So quaint . The area is lovely .  You won't be disappointed trying this place out.  Highly recommend.  Yummy 😋
   - name: "Daniel Tran"
     rating: 5
     comment: |
@@ -37,16 +41,6 @@ reviews:
       Very delicious cheesecakes! Got the apple pecan and Oreo cheesecake slices. They were decadent, not overly sweet, and tasted fresh and amazing! The Oreo had a strong chocolate crust and strong Oreo flavours. The apple pecan had gooey toppings and a nice balance of sweetness and cinnamon
       
       The interior was also really cute and cozy. I wish I got the chance to dine in, but will save that for next time
-  - name: "Merla Kreuger"
-    rating: 5
-    comment: |
-      This was a gem of a cafe to find.  Much more than a cafe .  The food was so good!   I had the beef brisket cheddar bagel with a spinach salad .  Great service and atmosphere .  So quaint . The area is lovely .  You won't be disappointed trying this place out.  Highly recommend.  Yummy 😋
-  - name: "M B"
-    rating: 5
-    comment: |
-      Always love this place.   The food looks and tastes homemade.  Its the perfect comfort place.   The desserts are obviously the highlight here. But the shep pie and BBQ and salmon.... I cant choose what my favorite is.  I love it all here.
-      
-      Update.   I got the key lime pie.. and im in heaven
   - name: "Kristina Moyor"
     rating: 5
     comment: |
@@ -61,4 +55,10 @@ reviews:
       The staff are really accommodating as well. Will always come by whenever I drop by the cafe next door where I work for.
       
       No wonder their desserts are award winning.
+  - name: "M B"
+    rating: 5
+    comment: |
+      Always love this place.   The food looks and tastes homemade.  Its the perfect comfort place.   The desserts are obviously the highlight here. But the shep pie and BBQ and salmon.... I cant choose what my favorite is.  I love it all here.
+      
+      Update.   I got the key lime pie.. and im in heaven
 ---

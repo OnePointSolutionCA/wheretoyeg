@@ -19,8 +19,8 @@ hours:
   saturday: "10:00 AM–4:30 PM"
   sunday: "Closed"
 photos: ["/photos/the-butchery-1.jpg", "/photos/the-butchery-2.jpg", "/photos/the-butchery-3.jpg"]
-rating: 4.4
-review_count: 117
+rating: 4.3
+review_count: 118
 price_range: "$$"
 amenities:
 

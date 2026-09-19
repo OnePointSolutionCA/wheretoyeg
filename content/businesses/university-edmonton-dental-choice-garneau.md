@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Whyte Ave"
 address: "11111 82 Ave NW #2, Edmonton, AB T6G 0T3"
 rating: 4.8
-review_count: 713
+review_count: 714
 tier: "featured"
 phone: "(587) 407-2192"
 website: "https://www.universitydentalchoice.ca/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Website_URL"

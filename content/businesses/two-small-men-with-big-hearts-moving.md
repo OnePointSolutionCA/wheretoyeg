@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–5:30 PM"
 photos: ["/photos/two-small-men-with-big-hearts-moving-1.jpg", "/photos/two-small-men-with-big-hearts-moving-2.jpg", "/photos/two-small-men-with-big-hearts-moving-3.jpg"]
 rating: 4.7
-review_count: 1511
+review_count: 1515
 price_range: "$$$$"
 amenities:
 
@@ -48,14 +48,14 @@ reviews:
       Are you looking for management that will not communicate with you about damages to your belongings and has no accountability for the damages their employees have caused?
       Are you looking for a company that improperly packs your items upside down in boxes while charging significantly more than another professional mover and not completing your move without attempting to charge you significantly more to complete the move they estimated?
       While unpacking my belongings, I can see that at least one of the three movers made a sincere effort and did a commendable job for the work required.
-  - name: "Sharon Steward"
-    rating: 5
-    comment: |
-      We highly recommend Two Small Men with Big Hearts!!! We thoroughly appreciate the efficiency and cost of moving from Grande Prairie to Edmonton. They made every step easy, from quote to delivery. The movers were respectful and friendly and took great care with our items. They assembled our beds for us and ensured everything was placed on the correct level of the home for easy unpacking. They were fast, hard working and kept us updated with expected arrival times.
   - name: "Rose Stuckey"
     rating: 5
     comment: |
       We had 2 men move us on June 23,2026, they were both so excellent to work with, very friendly, they were on time and very quick to move things out quickly and carefully. When we arrived at our new place they did an amazing job bringing everything in and placing it where I wanted it. They were very pleasant to deal with and I would highly recommend this company to everyone . I was very pleased from start to finish. They made my move so easy from the first phone call to the end move.
+  - name: "Sid"
+    rating: 5
+    comment: |
+      We went to Chilliwack with a trailer to move my mother to Alberta but realized that the trailer was not big enough. I contacted Two Small Men with Big Hearts and they bent over backwards to get a truck to me quickly. We had only 3 days to be out of the house and they were there the next day and had a couple guys come out from Vancouver to help the driver load.  Fantastic.
   - name: "Shaelyn Billingsley"
     rating: 1
     comment: |

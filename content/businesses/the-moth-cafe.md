@@ -30,6 +30,10 @@ tags: ["edmonton", "vegan"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Rachel Therrien"
+    rating: 5
+    comment: |
+      Very cute cafe with very interesting drinks ; I had a mushroom mocha that was very good and vegan crab cake (looked like egg benedict) with jack fruit. Everything was delicious ! Portions looked a bit small at first but I was full when I left. I was delighted to find a fully vegan place in Edmonton !
   - name: "Vegan Living (Vegan Living 24/7)"
     rating: 5
     comment: |
@@ -53,8 +57,4 @@ reviews:
       this is such a gem in Edmonton. the vibe is so cozy and unpretentious i really loved it so much. the food was yummy and the staff were generally quite attentive. i like how they have a mix of comfort food and some nicer dishes as well.
       
       as a gluten and dairy free person sometimes i find that modern, fusion vegan cuisine like this can sometimes neglect gluten free considerations. so i was very pleased to see many gluten free options that were clearly marked. also the non-alcoholic drinks were so yummy !
-  - name: "Eve Mercer"
-    rating: 3
-    comment: |
-      Been going here for the past maybe 7 years? I’ve tried a lot of the menu but as long as they’ve had the jackfruit Benny I’ve always loved it. Haven’t been the the moth in a while so decided to head there for breakfast before leaving town and was so shocked at how the portion sizes have changed. $24 for two of the crab cakes that were maybe 2 inches across. Also got a coconut milk latte, you’d expect it to be somewhat creamy but was pretty watery and nothing special. Wouldn’t recommend for $6.50.  Very regretful of my breakfast choice, tasted great but still no reason to justify $24 for this small of a portion
 ---

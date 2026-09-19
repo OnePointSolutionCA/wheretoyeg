@@ -19,7 +19,7 @@ hours:
   sunday: "2:00 PM–11:00 PM"
 photos: ["/photos/the-halal-oven-1.jpg", "/photos/the-halal-oven-2.jpg", "/photos/the-halal-oven-3.jpg"]
 rating: 4.5
-review_count: 106
+review_count: 110
 price_range: "$$"
 amenities:
   - "Halal"
@@ -38,10 +38,6 @@ reviews:
     rating: 5
     comment: |
       Mohamed and the rest of the staff were very nice. Food was delicious and prices are fair. I highly recommend
-  - name: "Adeem Haq"
-    rating: 5
-    comment: |
-      Was looking for halal steak and found so much more! The steaks themselves are some of the best we've had, the soup was perfect for the cold weather, the pizza was filling and loaded with toppings and cheese! I would recommend this to everyone and will definitely be coming back.
   - name: "Hud K"
     rating: 3
     comment: |
@@ -50,4 +46,8 @@ reviews:
     rating: 3
     comment: |
       I tried their burger and pizza . Burger was juicy and good but pizza had very little chiken the chiken was in small cubes which i don’t like whereas jalepenos were in huge chunks . So the overall quality of pizza was average with little chiken.
+  - name: "Monii Elka"
+    rating: 5
+    comment: |
+      One of the best food  I've had in a long time. The steak was divine, the whole plate was perfect. As well as the service is top notch
 ---

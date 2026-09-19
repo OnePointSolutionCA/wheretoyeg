@@ -5,7 +5,7 @@ category: "catering"
 neighborhood: "Edmonton"
 address: "12512 137 Ave NW, Edmonton, AB T5L 4Y5"
 rating: 4.3
-review_count: 222
+review_count: 223
 tier: "featured"
 phone: "(780) 444-2592"
 google_maps: "https://maps.google.com/?cid=16494136927815321622&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

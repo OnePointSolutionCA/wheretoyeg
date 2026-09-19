@@ -40,12 +40,12 @@ reviews:
     rating: 5
     comment: |
       Really great experience! Van was so helpful and accommodating :) I really appreciated her staying after closing to make sure everything was taken care of, and I’m sooo happy with my pedicure. She recommended me this shade of white nail polish and I'm soooo happy with how it turned out. Her attention to detail and friendly personality made the whole experience even better. Definitely worth the drive next time!! :)
-  - name: "Heather McGee"
+  - name: "B W"
     rating: 5
     comment: |
-      I had a great experience at V5 Nails! One thing that really impressed me was that they were able to remove my old gel polish without using acetone, which was much gentler on my nails. Van was amazing—she was incredibly helpful, knowledgeable, and took the time to give me a beautiful manicure that looks natural and complements my real nails perfectly. I also love that the style will grow out nicely without looking obvious or needing constant maintenance. The attention to detail and care she put into my nails really stood out. I highly recommend asking for Van if you’re looking for a natural, healthy-looking manicure!
-  - name: "Jodie Cal"
+      I booked my first appointment with Ginny today and I am very happy with the technician and the results. I need short nails for work, I need strong nails and I need them to look as natural as possible. Ginny did a wonderful job. Not only do my nails look exactly as I had hoped, I feel pretty as well. I already booked my next appointment.
+  - name: "Megan Dalley"
     rating: 5
     comment: |
-      I was in the area and while I was waiting for my vehicle, thought it would be nice to get a pedicure. I walked in and the ladies were so nice and were able to get me in. Yvette was so kind and friendly. The service was amazing and the best foot massage ever! Toes and feet are back to looking super cute and fresh for summer! Thank you ladies!
+      First time getting my nails done and this place didn’t disappoint! Sara was friendly and did an amazing job on my nails. Will definitely be back!
 ---

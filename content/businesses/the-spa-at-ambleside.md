@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–6:30 PM"
 photos: ["/photos/the-spa-at-ambleside-1.jpg", "/photos/the-spa-at-ambleside-2.jpg", "/photos/the-spa-at-ambleside-3.jpg"]
 rating: 4.8
-review_count: 266
+review_count: 267
 price_range: "$$"
 amenities:
 

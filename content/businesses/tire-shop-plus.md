@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/tire-shop-plus-1.jpg", "/photos/tire-shop-plus-2.jpg", "/photos/tire-shop-plus-3.jpg"]
 rating: 4.3
-review_count: 618
+review_count: 617
 price_range: "$$"
 amenities:
 
@@ -28,10 +28,6 @@ tags: ["edmonton", "tires"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Валерій Шимків"
-    rating: 5
-    comment: |
-      I am very satisfied with the service at this tire shop! The work was completed quickly, professionally, and with great attention to detail. Special thanks to Pavlo — he was friendly, attentive, and genuinely helpful. He took the time to answer all my questions, helped me understand the issue, and recommended the best solution. It's always a pleasure dealing with people who truly care about their customers. I highly recommend this tire shop to anyone looking for quality service and a great customer experience!
   - name: "Thomas Michael"
     rating: 1
     comment: |
@@ -46,17 +42,21 @@ reviews:
       Couple months after when I brought the issue to their attention, I expected an apology and a solution. Instead, the staff were rude and insisted I provide a receipt, even though they had already taken my name and phone number and should have been able to locate the transaction in their customer records.
       
       Mistakes can happen, but how a business handles them matters. Unfortunately, there was no accountability, no professionalism, and no effort to make things right. Based on my experience, I cannot recommend this shop.
+  - name: "Yoel Russom"
+    rating: 5
+    comment: |
+      This place is amazing. Their service is amazing. They know what they are doing the prices. Way fair chasey is also very nice guy.
+  - name: "Валерій Шимків"
+    rating: 5
+    comment: |
+      I am very satisfied with the service at this tire shop! The work was completed quickly, professionally, and with great attention to detail. Special thanks to Pavlo — he was friendly, attentive, and genuinely helpful. He took the time to answer all my questions, helped me understand the issue, and recommended the best solution. It's always a pleasure dealing with people who truly care about their customers. I highly recommend this tire shop to anyone looking for quality service and a great customer experience!
   - name: "Joe Perri"
     rating: 5
     comment: |
       Great service and great pricing. No appointment needed. They do your tires on the spot.
       Helped me find a great tire for my vehicle. Ordered it in and they were in the next day. Rob, the owner greets every customer and constantly updates and reassures on time to completion. Very centrally located with lots of parking nearby. I would not consider going anywhere else now.
-  - name: "Wade Nicholson"
+  - name: "Charles Dewsbury"
     rating: 5
     comment: |
-      Fast, quality repair or replacement, been here a few times. Great staff very friendly and knowledgeable. Great prices.
-  - name: "Brandon Van Beek"
-    rating: 4
-    comment: |
-      Recently purchased a used tire from these guys and paid in CASH with no receipt. When my friend put it on the rim and put air in it unfortunately the tire hemriged. I explained the situation and they apologized and happily refunded me the money I had paid no questions asked. When returning the tire, their guys noticed my donut tire was low on air and waived me into their garage and filled it up for me free of charge. In the end they literally didn't end up making a single penny off of me. However, they clearly demonstrated to me that they're an HONEST straight shootin tire business and should I need tires or related services again in the future I'll happily trust doing business with them again. Would happily recommend their services!
+      Great place for new and used tires 💥 They've been at it for twenty years, personable, local ownership, great guy, down to earth, easy to chat with. Quick, efficient service, maybe 15 minutes for 4 tire changeover 💥 Talked to a customer that that came in after me, said he's been using these guys for twenty years 😮 Looks like I'll be going that club 😉 Highly, highly recommended 😁
 ---

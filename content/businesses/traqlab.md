@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–7:00 PM"
 photos: ["/photos/traqlab-1.jpg", "/photos/traqlab-2.jpg", "/photos/traqlab-3.jpg"]
 rating: 5
-review_count: 687
+review_count: 685
 price_range: "$$"
 amenities:
 

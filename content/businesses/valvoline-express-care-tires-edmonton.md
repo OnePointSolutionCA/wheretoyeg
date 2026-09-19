@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "9516 51 Ave NW, Edmonton, AB T6E 5A6"
 rating: 4.8
-review_count: 1771
+review_count: 1775
 tier: "featured"
 phone: "(780) 503-3093"
 website: "http://valvolineedmonton.ca/"
@@ -14,7 +14,7 @@ google_maps: "https://maps.google.com/?cid=6271541834208623132&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/valvoline-express-care-tires-edmonton.jpg"
 reviews:
-  - name: "Joe Lumbu-An"
+  - name: "Joe An"
     rating: 5
     comment: |
       I highly recommend this shop specially Noor the Techncian! They’ve been incredibly patient and polite with all my questions. It only took 20 minutes, and I was able to leave the shop without any hassle. What a smooth transaction!

@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "1020 Sherwood Dr #120, Sherwood Park, AB T8A 2G4"
 rating: 4.9
-review_count: 848
+review_count: 849
 tier: "featured"
 phone: "(780) 467-6000"
 website: "https://www.wyedental.com/"

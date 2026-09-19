@@ -50,13 +50,13 @@ reviews:
     rating: 5
     comment: |
       I’ve had an amazing experience at this gym. The atmosphere is welcoming, motivating, and perfect for anyone looking to improve, whether you’re a beginner or more advanced. The instructors Igor and Yumi are incredible, both extremely knowledgeable, patient, and friendly. They break techniques down in a way that’s easy to understand and make sure everyone gets proper attention. You can tell they truly care about their students’ progress. Highly recommend this gym to anyone wanting to learn skills from passionate coaches.
-  - name: "Jermilyn Pilapil"
-    rating: 5
-    comment: |
-      I highly recommend going here especially if you’re a beginner in MMA! Went in and was greeted by the sweetest and friendliest lady, Yumi, who is also one of the trainers at tr1be. Igor and Yumi are both super knowledgeable, patient and really cater to all levels of experience. I decided to continue my journey with them after my first class and they’ve been amazing at guiding me through techniques, drills as well as the rest of the class who are some of the most welcoming and kindest people you’ll ever meet! If you’re planning to start, I’d take this as your sign to visit this mma gym! You’ll not only find yourself feeling good physically, but the support and encouragement that you receive from this community, will inspire you to want to grow with the rest of the class and trainers at tr1be :)
   - name: "filip ek"
     rating: 5
     comment: |
       Had my first class here yesterday
       and absolutely loved it. The coach was fantastic, explained everything clearly, and the combinations were both fun and challenging. Everyone was welcoming, and the atmosphere made it easy to enjoy the training. Definitely one of the best Muay Thai sessions I’ve been to. Highly recommend!
+  - name: "Serena Magnan"
+    rating: 5
+    comment: |
+      Amazing atmosphere, super welcoming and great for a newbie like myself just starting their fitness journey. Igor & Yumi are amazing coaches who make you feel motivated and focussed on your goals.
 ---

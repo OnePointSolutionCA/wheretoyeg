@@ -40,10 +40,6 @@ reviews:
       The entire team at West Central Dental is welcoming, efficient, and genuinely committed to providing first-class patient care. It is rare to find a dental practice that consistently delivers such a high standard of service over decades.
       
       Whether you see Dr. Albert or Dr. Chong, you will be in excellent hands. I recommend West Central Dental without reservation.
-  - name: "Trevor"
-    rating: 5
-    comment: |
-      Dr.Chong was amazing at my appointment today! He listened to my issues and had great answers to all of my questions. Highly recommended! Thanks again Dr. Chong
   - name: "John Hellweg"
     rating: 5
     comment: |
@@ -58,4 +54,8 @@ reviews:
     comment: |
       I am so grateful for the care I received at West Dental Care .Doctors,Assistant and the entire staff are incredibly helpful,patient and professional. They solaced the worries and pain that had took a while,answered all my questions and ensured I was comfortable throughout the entire appointment. It’s rare to find a practice that balances technical expertise with such genuine compassion." I recommend West Central  Dental for your dental care
       Thank you very much
+  - name: "Trevor"
+    rating: 5
+    comment: |
+      Dr.Chong was amazing at my appointment today! He listened to my issues and had great answers to all of my questions. Highly recommended! Thanks again Dr. Chong
 ---

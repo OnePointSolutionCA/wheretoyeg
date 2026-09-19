@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "St. Albert"
 address: "15 Perron St #150, St. Albert, AB T8N 1E5"
 rating: 4.8
-review_count: 302
+review_count: 305
 tier: "featured"
 phone: "(780) 460-0893"
 website: "https://wildrootsbistro.ca/"
@@ -17,6 +17,10 @@ reviews:
     rating: 2
     comment: |
       Entirely mediocre and overrated for their pricing. I understand it’s downtown St Albert but it’s nearly disrespectful. Ordered several items as a group, but I will only speak on the gnocchi as that was my order. First off, they seem obsessed with arugula. They put it on everything. Lots of it. Then, they plated my very saucy dish in a deeper set plate/bowl with a fork and knife as utensils, so I had no hope of actually consuming the sauce that did not adhere to the gnocchi at all. To boot, the sauce was very mild and lacked flavour, all while it was riddled with peas. Of all vegetables - peas? An interesting choice. The chicken was an additional $8 and I will admit, the chicken was done well, juicy and the skin crisp. The only saving grace to this place was their French toast, which I was then told that was much smaller than a previous visit and quickly finding out the syrup only soaked into my corner of the bread (thus why I was so pleased with it) and the other half of the loaf was dry, to the chagrin of my table mates. The teenagers working the place seemed aloof, as they needed reminding that we did not want the glasses refilled with ice cubes. Forgetting an item from the order and returning to the table to confirm would be less upsetting if you were to forget how much they are charging for this experience. The open kitchen is a cool concept.
+  - name: "Suzanna Wong-Nash"
+    rating: 5
+    comment: |
+      Went for brunch after going to the farmers market. Everything was delicious! The special that day was a pork stew with biscuit on top and the flavours were a perfect combination. The eggs benny was highly recommended by the others in our group too. Would definitely go again!
   - name: "greenguy377"
     rating: 5
     comment: |
@@ -41,10 +45,6 @@ reviews:
       The waitlist is a great way to work it.
       
       Only weird thing was the seating to the left of the door. If you're on the bench your backside is the view of everyone walking upto the store.
-  - name: "Elizabeth"
-    rating: 5
-    comment: |
-      Had a wonderful first-time experience! We visited as a group of four, and everything was fantastic. I ordered the brisket, it was absolutely delicious, and the cappuccino was amazing. I also tried my daughter-in-law’s French toast, and it was just as tasty. We’ll definitely be back to try more items from the menu!
 hours:
   monday: "Closed"
   tuesday: "9:00 AM–3:00 PM"

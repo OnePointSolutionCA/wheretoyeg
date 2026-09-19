@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Mill Woods"
 address: "4540 50 St NW, Edmonton, AB T6L 1W6"
 rating: 4.5
-review_count: 73
+review_count: 76
 tier: "featured"
 phone: "(780) 462-3782"
 website: "http://www.thewoodvaleroom.com/"
@@ -31,26 +31,12 @@ reviews:
       We grabbed 2 of the desserts the cheese cake and the tres leches.  Definately make room for a dessert!
       
       The food, atmosphere, and service made for a fantastic dining experience. We'll definitely be back and highly recommend The Woodvale Room to anyone looking for an amazing meal!
-  - name: "Chidinma Ndukwe"
-    rating: 4
-    comment: |
-      Food: We got steak, mash potatoes and asparagus, Risotto and lobster tail for main which tasted really delicious! Shrimp for starters and it was cooked to perfection, not overcooked, delicious and full of flavor!
-      
-      Drinks: I got a strawberry mocktail that was quite refreshing.
-      
-      Atmosphere: The ambience is nice, gives a private and intimate vibe. Great spot for dinner dates with a loved one.
-      
-      Service: The service was swift, the food and drinks came out pretty quick. I just wish the waiter brought our bill when we requested, it took a while to find a waiter to request for this when we were done.
-      
-      Price: This was their Valentine dinner menu, and the experience was totally worth the price.
-  - name: "Glenn Cantelon"
+  - name: "Eva Moreno"
     rating: 5
     comment: |
-      From the moment you arrive to the moment you leave, the service is exceptional friendly, attentive, and highly efficient. Easily a 10/10 experience.
+      Since we eloped, we wanted to find the perfect spot to celebrate with our family and friends and could not have found a better place than The Woodvale Room. From the atmosphere, to the delicious food, to the amazing staff, it was the perfect location. Over two nights we were able to rent their private room where we were able to freely roam in and out of the private outdoor balcony.
       
-      The food was flawless, with absolutely no complaints. Every dish was executed and presented beautifully. We ordered the 10oz New York striploin and the elk carpaccio, both of which were cooked to perfection and showcased great attention to detail.
-      
-      A quick tip: share the cheesecake. I initially thought ordering one each was a good idea until I saw the size of the portions generous is an understatement.
+      If you are looking for the perfect spot for any type of celebration, you absolutely cannot go wrong here! Our family and friends are still talking about the food and service and we couldn't be happier!
   - name: "Sophia Lumbre"
     rating: 5
     comment: |
@@ -61,6 +47,10 @@ reviews:
       We decided to try this place based on its great reviews, and it completely lived up to them. The drinks were excellent, and for our meals, my friend had the tagliatelle while I enjoyed the bison lasagna, both were superb. For dessert, we had the lava cake, which was not only delicious but also beautifully plated.
       
       Overall, it was a fantastic dining experience.
+  - name: "Maade Okai"
+    rating: 5
+    comment: |
+      This is a very unique place. We came here and the atmosphere was wonderful! The food was delicious, the drinks were so colorful and overall it was a great experience.
 hours:
   monday: "11:00 AM–10:00 PM"
   tuesday: "11:00 AM–10:00 PM"

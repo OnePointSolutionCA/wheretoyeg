@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/westgrove-medicentres-family-care-clinics-1.jpg", "/photos/westgrove-medicentres-family-care-clinics-2.jpg", "/photos/westgrove-medicentres-family-care-clinics-3.jpg"]
 rating: 4.2
-review_count: 303
+review_count: 304
 price_range: "$$"
 amenities:
 
@@ -32,10 +32,6 @@ reviews:
     rating: 5
     comment: |
       The people at westgrove are always very friendly and helpful.  I love the way the staff treats their patients.  Dr. Gritter has been the best doctor, he always takes the time to explain what is happening and why.
-  - name: "Dave Xander"
-    rating: 5
-    comment: |
-      Dr. Kumpula has been my family physician for over 10 years, and the care he provides has consistently been exceptional. He has supported me through all of my health needs, including serious conditions such as cancer. He is knowledgeable, understanding, and always takes the time to explain my options when they’re available. I truly appreciate the quality of care he provides.
   - name: "Kathy Salloum"
     rating: 5
     comment: |
@@ -44,6 +40,10 @@ reviews:
     rating: 5
     comment: |
       Dr. Kumpula is very friendly, compassionate and caring. He is also is an excellent listener towards all your concerns. He is a very knowledgeble doctor, explains things clearly and really does genuinely care. Clinic was not overbooked so I didn't have to wait long.
+  - name: "Dave Xander"
+    rating: 5
+    comment: |
+      Dr. Kumpula has been my family physician for over 10 years, and the care he provides has consistently been exceptional. He has supported me through all of my health needs, including serious conditions such as cancer. He is knowledgeable, understanding, and always takes the time to explain my options when they’re available. I truly appreciate the quality of care he provides.
   - name: "Hannah Shaben"
     rating: 5
     comment: |

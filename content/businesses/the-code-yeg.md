@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/the-code-yeg-1.jpg", "/photos/the-code-yeg-2.jpg", "/photos/the-code-yeg-3.jpg"]
 rating: 4.1
-review_count: 63
+review_count: 64
 price_range: "$$"
 amenities:
 
@@ -44,13 +44,6 @@ reviews:
     rating: 4
     comment: |
       This is one of the most talked about and visited dance studios in Edmonton. With a wide range of drop-in classes, a plethora of dance styles, and a vibe that oozes inclusiveness, it's easy to understand why. We tried the Burlesque Boom class which is basically a bootcamp style cardio class with elements of sexy burlesque woven in, and we also snuck in a lil' sample of the Beginner Heels class which is exactly what it sounds like - a dance class in heels - nuff said. Both were super fun, challenging and we worked up a serious sweat, although we would have loved to see a bit more Burlesque in the BB class. We docked half a star for location and for the limited pricing options but loved everything else and we'd definitely come back for more!
-  - name: "N G"
-    rating: 1
-    comment: |
-      I booked my first heels class for January 14th at 6:00 pm. A couple of hours before the class, I received a text notifying me that it had been moved to 8:00 pm. Unfortunately, I wasn’t able to attend at the new time, especially given the very short notice.
-      I reached out right away and, after some back-and-forth, was told I would receive a refund. It has now been four days, and I still haven’t received it. I’ve followed up twice since then and haven’t gotten a response.
-      Extremely unprofessional behaviour. Poor communication, no accountability, and taking money without following through on a promised refund is unacceptable. I would not recommend this business.
-      -Natalie
   - name: "Lavender Falls"
     rating: 2
     comment: |
@@ -59,4 +52,11 @@ reviews:
       But the studio itself is VERY poorly managed/organized.
       
       You can never get a call back or a message back on Instagram when you have questions. If you cancel your membership online and want to re-register again later on, you have to pay the $30 registration free EVERY time! They say they offer a "pause" option for $15 a month instead of cancelling but you can never get a clear answer on how to do that. It's so frustrating.
+  - name: "N G"
+    rating: 1
+    comment: |
+      I booked my first heels class for January 14th at 6:00 pm. A couple of hours before the class, I received a text notifying me that it had been moved to 8:00 pm. Unfortunately, I wasn’t able to attend at the new time, especially given the very short notice.
+      I reached out right away and, after some back-and-forth, was told I would receive a refund. It has now been four days, and I still haven’t received it. I’ve followed up twice since then and haven’t gotten a response.
+      Extremely unprofessional behaviour. Poor communication, no accountability, and taking money without following through on a promised refund is unacceptable. I would not recommend this business.
+      -Natalie
 ---

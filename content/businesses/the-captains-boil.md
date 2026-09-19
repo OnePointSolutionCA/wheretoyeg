@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/the-captains-boil-1.jpg", "/photos/the-captains-boil-2.jpg", "/photos/the-captains-boil-3.jpg"]
 rating: 4.2
-review_count: 794
+review_count: 796
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -38,11 +38,6 @@ reviews:
     rating: 5
     comment: |
       If you LOVE SEAFOOD, you will love this place! Eating with your hands and a feast before your eyes! Definitely puts Red 🦞 to shame 😘 not exactly, but this is close #1 as it's based on Seafood Boils as the Main Features 🙌🏼
-  - name: "Sarah Bernard"
-    rating: 2
-    comment: |
-      My husband and I were really looking forward to trying a seafood boil for the first time and, honestly, we were quite disappointed with the value you get. It’s advertised as a pound, and I would disagree that we got a pound of seafood each. The crab my husband got was delicious, but I got the shrimp, and the shrimp tasted old and were not cleaned properly — they still had the veins in them. It wouldn’t take a lot of effort on their part to pre-cut and remove the veins for the price they charge. You also only get half a piece of corn, one single egg, or one potato.
-      The service wasn’t very good either. There were a lot of staff behind the counter, but no one came to check on us while we were eating or ask if we needed refills. We had to flag down a server just to get a refill on our pop. I wouldn’t waste the money coming back, especially when there are no prices on the menu, so you really don’t know what to expect when the bill comes.
   - name: "Jeanne Pelagio"
     rating: 5
     comment: |
@@ -55,4 +50,9 @@ reviews:
       The corn, shrimp,  clams and muscles were all VERY over cooked. Im very sure its all pre cooked and just heated up.  Not one server came and asked how the food was? They did refill our drinks but that's it. This experience was the worst restaurant experience ive ever had. We will never be back. I let a server know what our experience was and all she said said was oh sorry.
       
       P.s. when you pay that much money, I think I deserve proper utensils!
+  - name: "Sarah Bernard"
+    rating: 2
+    comment: |
+      My husband and I were really looking forward to trying a seafood boil for the first time and, honestly, we were quite disappointed with the value you get. It’s advertised as a pound, and I would disagree that we got a pound of seafood each. The crab my husband got was delicious, but I got the shrimp, and the shrimp tasted old and were not cleaned properly — they still had the veins in them. It wouldn’t take a lot of effort on their part to pre-cut and remove the veins for the price they charge. You also only get half a piece of corn, one single egg, or one potato.
+      The service wasn’t very good either. There were a lot of staff behind the counter, but no one came to check on us while we were eating or ask if we needed refills. We had to flag down a server just to get a refill on our pop. I wouldn’t waste the money coming back, especially when there are no prices on the menu, so you really don’t know what to expect when the bill comes.
 ---

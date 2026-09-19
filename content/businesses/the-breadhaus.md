@@ -19,8 +19,8 @@ hours:
   saturday: "7:00 AM–8:00 PM"
   sunday: "7:00 AM–8:00 PM"
 photos: ["/photos/the-breadhaus-1.jpg", "/photos/the-breadhaus-2.jpg", "/photos/the-breadhaus-3.jpg"]
-rating: 4.1
-review_count: 128
+rating: 4.2
+review_count: 130
 price_range: "$$"
 amenities:
   - "Dine-In"

@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/the-hair-loft-yeg-1.jpg", "/photos/the-hair-loft-yeg-2.jpg", "/photos/the-hair-loft-yeg-3.jpg"]
 rating: 4.8
-review_count: 312
+review_count: 315
 price_range: "$$"
 amenities:
 
@@ -42,12 +42,12 @@ reviews:
     rating: 5
     comment: |
       Love going to Hair loft. Yeg. Sammy is amazing. Have had great cuts and colour from him. Not only my hat looks great when I leave there but a great experience. Love our conversations. Must try  Hair Loft Yeg. U won’t be disappointed
+  - name: "Akaisha Manuntag-Wiggins"
+    rating: 5
+    comment: |
+      I went in for a haircut and a gloss and had the best experience with Addi! She listened to exactly what I wanted and made me feel so comfortable and confident in her chair!. I left feeling so refreshed and obsessed with how it turned out. I would 100% recommend Addi to anyone looking to get their hair done!!
   - name: "Kiran Kandhola"
     rating: 5
     comment: |
       My first time coming here and I had Hannah do my hair. I went to see her photos on instagram before coming in and already knew she would do a great job. She did amazing and beyond my expectations, it was a quick and easy service, and she was really nice and knew what she was doing. Also very affordable. Honestly, the best haircut and styling i’ve ever had done! I would 10/10 recommend if youre looking for something in a good price range and if you’re new to Edmonton! Im in love 😇
-  - name: "Ivoria Miller"
-    rating: 5
-    comment: |
-      Mimzy is an actual cosmetology MAGICIAN!! Their work is so amazing. They're incredible, stunning, delicious work is affordable and makes for a day of fun. Not only do they do your hair perfectly, they also teach you and walk you through each step they make to achieve the finished product. Whether it's styling, cutting, or coloring, you are informed every step of the way. They're super super kind, making everyone feel welcome, have a ton of fun, make sure everyone is comfortable. I look forward and enjoy every single appointment I have with Mimzy and can't wait for the next one. If you are going to see any hairstylist—let it be them 🙏🙏
 ---

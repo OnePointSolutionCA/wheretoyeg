@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/yeg-burger-1.jpg", "/photos/yeg-burger-2.jpg", "/photos/yeg-burger-3.jpg"]
 rating: 4.6
-review_count: 1600
+review_count: 1604
 price_range: "$"
 amenities:
   - "Halal"
@@ -31,6 +31,10 @@ tags: ["edmonton", "halal-fast-food", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Mahnoor Khan"
+    rating: 5
+    comment: |
+      Outstanding service and delicious food!! I went with a friend and we ordered the Ferrero milkshake to share - we were so surprised when they came out with two milkshakes. Such a kind gesture! Best milkshake I’ve ever had. We ordered the mushroom burger and the jalapeño burger, and both were amazing. Highly recommend this restaurant for all burger lovers, the food + service, cleanliness, and amazing interior makes this place a gem. I will certainly be back with family!
   - name: "Jaydip kapopara"
     rating: 5
     comment: |
@@ -48,9 +52,4 @@ reviews:
     rating: 3
     comment: |
       Ordered the large poutine. Didn't really like the cheese curds. They were soft and no squeak that would be expected from a good fresh cheese curd. So paying extra for them was not worth it.
-  - name: "F. Smith"
-    rating: 5
-    comment: |
-      Best burgers. I go at least every month to try the “burger of the month”. Every time it’s delicious! You can see them making the milkshakes too from scratch as well (I love the shakes!) The fries are fantastic too, they’re my favourite.
-      Since it’s halal, there is no pork bacon, but they have beef bacon! Super good. My favourite go-to burger spot! Very reasonably priced, handmade, delicious food. Whenever I go to a different spot, I’m almost always disappointed. Support local business, come here and you won’t regret it!
 ---

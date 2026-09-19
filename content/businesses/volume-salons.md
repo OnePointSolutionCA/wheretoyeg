@@ -21,7 +21,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/volume-salons-1.jpg", "/photos/volume-salons-2.jpg", "/photos/volume-salons-3.jpg"]
 rating: 4.6
-review_count: 710
+review_count: 712
 price_range: "$$$"
 amenities:
   - "Appointments"
@@ -49,8 +49,9 @@ reviews:
     rating: 5
     comment: |
       Sophie was such a gem!!! I showed her one inspo picture for my haircut (layers and bangs) and she really took it away and did the absolute best with my hair. The service was friendly, welcoming, and kind. I would highly recommend Sophie as your stylist, 1000/10 would go back to her for sure
-  - name: "Hope"
+  - name: "Emily Collins"
     rating: 5
     comment: |
-      I got my hair cut here just over a month ago and it is the nicest haircut I've ever received. Taylor really has an eye for what makes people look good, and she is very lovely to talk to. I'll definitely come back for future cuts and services. I strongly recommend!
+      What I love most about volume is their intentionality around what is modern/in style.
+      My stylist Sophie is so knowledgeable about current trends, more classic/ timeless styles, and new innovations in the hair industry. She always takes time with me to figure out what will work best for me, taking into consideration things like my styling habits, everyday life, and any upcoming special occasions. I would absolutely recommend Sophie to anyone looking for any type of hair service!
 ---

@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Windermere"
 address: "5540 Windermere Blvd NW #201, Edmonton, AB T6W 2Z8"
 rating: 5
-review_count: 526
+review_count: 527
 tier: "featured"
 phone: "(780) 900-8330"
 website: "https://vivadentalwellness.com/?utm_source=GMB&utm_medium=Organic&utm_campaign=GMBlisting"
@@ -43,10 +43,10 @@ reviews:
       It was my first experience at the dentist in a long time , and Kim Poulin is the world’s best dental hygienist I’m convinced.  I have really sensitive teeth and she was great and it didn’t hurt at all. Highly recommend.
 hours:
   monday: "8:00 AM–7:00 PM"
-  tuesday: "12:00 PM–7:00 PM"
+  tuesday: "8:00 AM–7:00 PM"
   wednesday: "8:00 AM–3:00 PM"
   thursday: "8:00 AM–3:00 PM"
-  friday: "8:00 AM–12:00 PM"
+  friday: "8:00 AM–1:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 ---

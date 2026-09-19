@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–5:00 PM"
 photos: ["/photos/therapeutic-body-concepts-massage---coronation-1.jpg", "/photos/therapeutic-body-concepts-massage---coronation-2.jpg", "/photos/therapeutic-body-concepts-massage---coronation-3.jpg"]
 rating: 4.9
-review_count: 422
+review_count: 423
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,10 @@ tags: ["edmonton", "massage"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "melissa espino"
+    rating: 5
+    comment: |
+      I had such a wonderful experience with Melicia! The massage was absolutely perfect, and she really took the time to listen to what I needed and made sure I was comfortable throughout the entire appointment. I left feeling so relaxed and refreshed. You can truly tell that she cares about her clients and takes pride in what she does. I’ll definitely be coming back to see her regularly! Thank you so much, Melicia!
   - name: "Hirut Woldegeorgis"
     rating: 5
     comment: |
@@ -40,12 +44,10 @@ reviews:
     rating: 5
     comment: |
       I took my 15-year-old son to see Melicia for his very first massage, and it was an excellent experience. Naturally, he was quite nervous at first, but Melicia made him feel comfortable and at ease throughout the entire treatment. She was professional, welcoming, and attentive to his comfort the whole time. He left feeling amazing and even said he wants to get more massages in the future. I highly recommend her services.
-  - name: "Cory Montgomery"
+  - name: "Esmeralda Muir"
     rating: 5
     comment: |
-      Had a massage today with Melicia White at the Coronation location. She has strong hands, but tailors the pressure to your liking. Her demeanor is very calm and it’s evident she really cares that her clients are happy. 10/10 recommend.
-  - name: "Tralena Denesik"
-    rating: 5
-    comment: |
-      I have been to Melicia White many times and her massage techniques are superb!  Honestly the best massages I have ever gotten.  My whole family is going to her as well and we can’t say enough about her professionalism and making the customer feel comfortable and happy
+      Massage was great
+      Very relaxing and the therapist hit the points I had concerns on.  The only thing I did not like is that she had longer nails than usual for a Massage therapist, so when she was using her hands on my neck I could feel some scratching. I also wish she would have paid attention to my shoulders more. Perhaps I should have spoken up but did not want to make her feels bad in any way.
+      Overall it was fine.
 ---

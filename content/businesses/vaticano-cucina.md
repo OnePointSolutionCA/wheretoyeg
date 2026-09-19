@@ -17,10 +17,10 @@ hours:
   thursday: "11:00 AM–9:00 PM"
   friday: "11:00 AM–10:00 PM"
   saturday: "12:00 PM–10:00 PM"
-  sunday: "4:00 PM–9:00 PM"
+  sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/vaticano-cucina-1.jpg", "/photos/vaticano-cucina-2.jpg", "/photos/vaticano-cucina-3.jpg"]
 rating: 4.4
-review_count: 1914
+review_count: 1911
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -34,10 +34,6 @@ reviews:
     rating: 5
     comment: |
       Really enjoyed the pasta. Loved the touch of fennel shreds in the ceaser, all dishes were lovely and the service was great! I’d definitely return. One note for the focaccia bread and oil, we ended up moving the oil and vinegar to one of our side plates instead a bowl because it wasn’t as enjoyable dipping into a bowl.
-  - name: "JonJonPoPong"
-    rating: 5
-    comment: |
-      Vaticano is a nice little restaurant, it doesn't look like much from outside but its very nicely designed on the inside. I've been twice and had a really good experience both times. The service has been good, the food delicious and the prices fair enough. Its not super expensive, but it is 40-50 a main, bit more than a regular restaurant. The only complaint id have here is the pizza we ordered on the 2nd trip here, wasnt really good. Just not to my personal taste.
   - name: "Sarah Curtiss"
     rating: 5
     comment: |
@@ -46,6 +42,10 @@ reviews:
       My husband ordered the St. Benedict’s gluten-free pizza and enjoyed it, and I had the salmon risotto, which was so delicious and perfectly cooked. We also shared a gluten-free chocolate cake for dessert that was fantastic. I honestly didn’t expect there to be any gluten-free desserts, so it was such a nice surprise to see a few great options available.
       
       The atmosphere is beautiful and welcoming, and it genuinely reminded me of my recent trip to Italy. This place is a great place to dine whether you eat gluten free or not. Note that it is an extra $5 to upgrade to gluten free pizza or pasta, which makes the meal a bit pricier for the person with this dietary restriction.
+  - name: "JonJonPoPong"
+    rating: 5
+    comment: |
+      Vaticano is a nice little restaurant, it doesn't look like much from outside but its very nicely designed on the inside. I've been twice and had a really good experience both times. The service has been good, the food delicious and the prices fair enough. Its not super expensive, but it is 40-50 a main, bit more than a regular restaurant. The only complaint id have here is the pizza we ordered on the 2nd trip here, wasnt really good. Just not to my personal taste.
   - name: "ACA"
     rating: 4
     comment: |

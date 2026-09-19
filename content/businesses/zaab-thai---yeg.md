@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/zaab-thai---yeg-1.jpg", "/photos/zaab-thai---yeg-2.jpg", "/photos/zaab-thai---yeg-3.jpg"]
 rating: 4.8
-review_count: 39
+review_count: 43
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -36,6 +36,10 @@ reviews:
       This place is pretty good! I think they’re fairly new, but honestly, I was pleasantly surprised by the food. The portions are pretty decent for the prices and you definitely get a good amount of food for what you’re paying. Everything tasted fresh and flavorful, and the overall experience was pretty nice.
       
       The only thing we wished they would do is include rice with the curry at no extra cost. But honestly that’s not a big factor and definitely wouldn’t stop us from coming back. Overall, it’s a pretty good spot with decent portions reasonable prices and good food. Definitely worth checking out!
+  - name: "Mic Mic"
+    rating: 4
+    comment: |
+      Food was delicious and portion is decent ! We are impressed for their Tom Yum with shrimp. Definitely will come back again to taste others
   - name: "Gary Chan"
     rating: 5
     comment: |
@@ -54,8 +58,4 @@ reviews:
     rating: 5
     comment: |
       The food was delicious and full of authentic Thai flavors. Excellent service and beautiful atmosphere.
-  - name: "Preeya"
-    rating: 5
-    comment: |
-      The food was very tasty. I got a beef drunken noodle today it was delicious and the beef was very tender.
 ---

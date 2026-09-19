@@ -12,10 +12,6 @@ google_maps: "https://maps.google.com/?cid=8006740228653190950&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/the-babe-cave-lashes.jpg"
 reviews:
-  - name: "Laura Park"
-    rating: 5
-    comment: |
-      I have been getting my lashes done here for 5 years now. They are beautiful, durable, no itch, no burn glue. She is so pleasant, and efficient.  The few times in a pinch ive had to book elsewhere ive regretted it. There is no comparison. She's a lash above the rest!
   - name: "Andrea S"
     rating: 5
     comment: |
@@ -25,6 +21,10 @@ reviews:
     rating: 5
     comment: |
       Kelsey is the BEST!  ♥️  I have been going to Kelsey for 4 years now, after  I had a bad experienced at a different salon leaving me with NO lashes. She was so very helpful with my options. She does amazing work and she is very knowledgeable about her product.  Kelsey is the lash tech to go to if you want quality lashes done right.
+  - name: "Laura Park"
+    rating: 5
+    comment: |
+      I have been getting my lashes done here for 5 years now. They are beautiful, durable, no itch, no burn glue. She is so pleasant, and efficient.  The few times in a pinch ive had to book elsewhere ive regretted it. There is no comparison. She's a lash above the rest!
   - name: "Chance"
     rating: 5
     comment: |

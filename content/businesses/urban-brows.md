@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–5:00 PM"
 photos: ["/photos/urban-brows-1.jpg", "/photos/urban-brows-2.jpg", "/photos/urban-brows-3.jpg"]
 rating: 4.7
-review_count: 57
+review_count: 58
 price_range: "$$"
 amenities:
 
@@ -40,14 +40,14 @@ reviews:
     rating: 5
     comment: |
       Highly recommend Mittal! She always does an amazing job with my eyebrows- perfect shape, great attention to detail, and such a lovely person. I always leave happy! And can’t trust anyone else .
+  - name: "Gissela Brito"
+    rating: 5
+    comment: |
+      Mittal is so kind.. Absolutely love my lash lift and tint . My lashes look longer, darker and beautifully curled without needling mascara. The service was professional, relaxing and the results exceed my expectations. Highly recommend for Mittal..
   - name: "Angela F"
     rating: 2
     comment: |
       This was my first visit and first time having threading done. I was quite disappointed in the service. First there was no record of my appointment even though I received a confirmation and reminder. There was absolutely zero consultation or discussion before she started on my brows which is what I'm most disappointed about. As she was starting I said I just wanted them cleaned up. My brows ended up being quite a bit smaller than I like and I'm very undecided about how I feel about them. I may try here again with someone different but unsure about going back right now.
       
       Added - the next morning there is irritation under the left brow. Looking at my brows more closely they aren't even, the left is smaller than the right. I will be waiting for them to grow back and returning to my regular waxing spot
-  - name: "Tanmeet Kaur"
-    rating: 5
-    comment: |
-      Sheron did an amazing job with my eyebrows! She is so sweet, professional, and pays great attention to detail. Highly recommend!🙂
 ---

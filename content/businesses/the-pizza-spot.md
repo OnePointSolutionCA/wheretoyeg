@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/the-pizza-spot-1.jpg", "/photos/the-pizza-spot-2.jpg", "/photos/the-pizza-spot-3.jpg"]
 rating: 4.7
-review_count: 197
+review_count: 203
 price_range: "$$"
 amenities:
   - "Delivery"

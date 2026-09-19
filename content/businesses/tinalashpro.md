@@ -35,10 +35,6 @@ reviews:
     rating: 5
     comment: |
       I have been getting my lashes done for years and have always had issues with lash techs however, when I found Tina I was so relieved! She is not only professional and friendly but she is also very efficient and experienced; she knows exactly what she is doing ! volume, mega volume, russian volume lashes is her forte. Love love love her work.   best in Edmonton.
-  - name: "Carrie Nelson"
-    rating: 5
-    comment: |
-      I've been seeing Tina since March of this year. I love the hybrid lashes that Tina does plus she's fast! I hate wasting time on getting services done but I never wait for my scheduled appointments on top of her being quick at it since she's been doing it for so long. Professional, polite, her room is bright and always clean so I won't go anywhere else. Always great service with a smile :) She's so good that I'll be Tina's client for a very long time!
   - name: "Erika Fox"
     rating: 5
     comment: |
@@ -47,4 +43,8 @@ reviews:
     rating: 5
     comment: |
       very impressed and happy with the services Tina offers ! shes very fast, makes you feel comfortable and very friendly. i always have an enjoyable experience laying there, we always have a laugh. the lashes are always beautiful, nice and full everytime. i can tell she cares for and respects her clients, always can find time slots for me last minute as my work/life schedule is very complicated, she frees herself to do lashes at any giving time of the day, which is hard to find.
+  - name: "Katrina VonTease"
+    rating: 5
+    comment: |
+      I am happy I found Tina through a referral from a friend who was already a client. My last tech moved to Calgary, and I was in the market for a new tech. I prefer to continue service with the same tech when I find something I like. I like to stay loyal. Tina was kind and replied right away. She really makes herself available for her clients, and this is essential for someone like me with multiple jobs and no set schedule. I have been to other lash techs establishments and had very plastic lashes and reactions to glue well looking at marketplace ads on facebook for a new set, so I was skeptical. Tina does work out of an older home, so if you are quick to judge, you may miss the opportunity to find an amazing tech. She is efficient and quick and gives me consistent results that make me feel beautiful. Her home is very relaxing, I am someone who really is sensitive to energy, and I have definitely been so comfortable that I have dozed off for a few sessions. She is inspiring if you do choose to engage in conversation speaking multiple languages and knowledgeable in many topics, so I look forward to our appointments and often seek her advice. Her prices are great and if you are in the market for a nice set and great retention for a good price with avalibilty you can work with, I recommend booking now did I mention Tina does this is half the time. That's right, you will not have to sit for a 3-hour appointment. I travel from the other side of the city for my appointments and am never disappointed.
 ---

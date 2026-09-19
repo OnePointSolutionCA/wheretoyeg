@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/trapped-escape-room-edmonton-1.jpg", "/photos/trapped-escape-room-edmonton-2.jpg", "/photos/trapped-escape-room-edmonton-3.jpg"]
 rating: 4.8
-review_count: 586
+review_count: 588
 price_range: "$$"
 amenities:
 

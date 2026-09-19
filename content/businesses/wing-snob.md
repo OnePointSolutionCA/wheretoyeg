@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/wing-snob-1.jpg", "/photos/wing-snob-2.jpg", "/photos/wing-snob-3.jpg"]
 rating: 4.7
-review_count: 194
+review_count: 200
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -45,14 +45,6 @@ reviews:
       What really made the visit special was the service. Rima and Lilly were very kind and welcoming and helped us order our food. They made us feel appreciated, and I’m very grateful to have met them.
       
       I hope to see them again the next time I visit! ⭐️⭐️⭐️⭐️⭐️
-  - name: "Khanh Phương"
-    rating: 5
-    comment: |
-      First time here and I instantly loved the vibe. The menu has so many flavors and dips to choose from. Mira at the front desk was super friendly and helpful, she recommended two popular flavors and the sauces were AWESOME (this is also the name of the sauce lol)😍.
-      
-      The traditional wings were juicy and full of flavor. Our food came out really fast, around 10 minutes. Mira brought everything to our table and checked in right away to make sure everything was good.
-      
-      The place was very clean (even in winter!). I felt bad because I tracked in some snow 😅 but that just shows how well they keep the place. Overall, such a great first experience. Big thanks to Mira for the amazing service!
   - name: "Emman Espino"
     rating: 5
     comment: |
@@ -63,4 +55,8 @@ reviews:
     rating: 4
     comment: |
       Wings are not bad but I wouldn't say they are great though I've had worse. I got boneless with awesome sauce, Parmesan cheese and a couple of sliders. Personally I found it a bit pricey for what it is but I imagine inflation is taking its toll. They have a lot of flavors which is nice. Staff is very nice and friendly.
+  - name: "Kristian Watson-Noonan"
+    rating: 5
+    comment: |
+      First time trying Wing Snob and I was impressed. The boneless wings were hot, crispy, and had plenty of sauce without being soggy. The seasoned fries were fresh and paired really well with the wings. The combo was good value for the price, and the staff were friendly and efficient. I'll definitely be back to try some of the other flavors
 ---

@@ -6,7 +6,7 @@ subcategory: "indian-pakistani"
 neighborhood: "Beaumont"
 address: "5009a 52 Ave, Beaumont, AB T4X 1E5"
 rating: 4.5
-review_count: 335
+review_count: 336
 tier: "featured"
 phone: "(780) 737-9090"
 website: "https://www.zaikaofindia.com/"
@@ -33,6 +33,14 @@ reviews:
       Don't get the bad reviews for this place regarding spice level. We did "hot" and although the food had a nice kick it definitely wasn't all that spicy. If you like spicy food then go for hot and you should be fine.
       
       We did the matar paneer and chicken tikka masala. The paneer was good but first time trying this flavour and wasn't for us so probably wouldn't order that again. The tikka masala was fantastic however. Very flavorful and we loved that the lunch special came with rice, naan and a small salad. Will be back for sure.
+  - name: "Singh Sandhu"
+    rating: 5
+    comment: |
+      ⭐⭐⭐⭐⭐
+      
+      We ordered food from Zaika of India, and everything was absolutely delicious! The flavors were authentic, fresh, and perfectly cooked. The garlic naan was especially amazing—soft, buttery, full of garlic flavor, and one of the best we’ve had. Every dish was packed with taste and arrived hot.
+      
+      If you’re looking for great Indian food in Beaumont, this is definitely the place to visit. Highly recommended! We will definitely be ordering again.
   - name: "Manu Gill"
     rating: 5
     comment: |
@@ -41,10 +49,6 @@ reviews:
     rating: 1
     comment: |
       I ordered chole bhature this evening around 2 pm, and unfortunately I found a hair in the food. It was extremely disgusting and completely ruined my appetite. Hygiene is a basic expectation at any restaurant, and this was very disappointing. I hope the management takes cleanliness more seriously in the future.
-  - name: "Harman jot kaur Boparai"
-    rating: 5
-    comment: |
-      I ordered burger and chole bhature. The food was so delicious. The food arrived hot and well-packed. Overall, a satisfying meal, and I’ll definitely order again! 😊
 hours:
   monday: "10:00 AM–9:30 PM"
   tuesday: "10:00 AM–9:30 PM"

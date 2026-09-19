@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–5:00 PM"
 photos: ["/photos/we-clean-pest-control-edmonton-1.jpg", "/photos/we-clean-pest-control-edmonton-2.jpg", "/photos/we-clean-pest-control-edmonton-3.jpg"]
 rating: 4.8
-review_count: 864
+review_count: 871
 price_range: "$$$$"
 amenities:
 
@@ -32,6 +32,12 @@ reviews:
     rating: 5
     comment: |
       We Clean Pest Control provided outstanding service from start to finish. They were professional, punctual, and very knowledgeable. They took the time to explain the treatment process, answered all of my questions, and made sure the job was done thoroughly. It's clear they take pride in their work and genuinely care about their customers. I highly recommend We Clean Pest Control to anyone looking for reliable, effective, and friendly pest control service. Five stars!
+  - name: "Tisha Dolynchuk (USMCGirl97)"
+    rating: 1
+    comment: |
+      I came across this company for bees that were scratching on our walls and two of them came into our bedroom. Two days I thought they were mice. Woke up to one of the bees that bit me. Was no mouse. Wrist was painful for 30 min but pulled on the centre of the bite and seems to have helped.
+      
+      Called their phone number today and was given the number to call. Spoke with one girl and appointment scheduled for 5:30pm to 6:30pm. Both times came and went. The girl told me she would find out and nothing. That was an hour and a half ago. No call back from the girl and no call from the technician. Bedroom is off limits.
   - name: "Jasna Salazar"
     rating: 1
     comment: |
@@ -42,16 +48,12 @@ reviews:
       Do better.
       
       My advice, they may have lots of reviews but sometimes going with the smaller less known companies is the way to go.
+  - name: "Leanne Reitan"
+    rating: 5
+    comment: |
+      Sunny did a fantastic job taking care of the wasp nest under my front steps. I called in the early afternoon and he showed up a few hours later. He was able to quickly identify where the nest was located, treat the entrance (as the nest turned out to be underground) and he sealed off the entrance as well. Sunny was very knowledgeable and was a pleasure to deal with. I would highly recommend them!
   - name: "Louie Glenn Aballe"
     rating: 5
     comment: |
       Very impressed with Sunny's service. Professional and reliable. He gave us great advice how to prevent a cockroaches in our house. Highly recommend👏👏
-  - name: "Ebrima Dem"
-    rating: 5
-    comment: |
-      I booked we clean pest control, fast respone Great results booked online and they were able to come out within a few days. Treatment worked quickly and pest activity dropped almost immediate. Professional crew and clear pricing--very pleased. We'll done Amadou highly recommend.
-  - name: "Karen Patterson"
-    rating: 5
-    comment: |
-      I met Mason today and found him to be very helpful with a very unpleasant situation—dealing with cockroaches at a rental place my daughter was to move into.  He was polite and professional and very knowledgeable and a copy of his report was delivered right after his visit.  I would recommend this company to anyone else dealing with this problem.  Thank you Mason for all the information you provided!
 ---

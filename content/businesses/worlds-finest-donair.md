@@ -51,10 +51,14 @@ reviews:
     rating: 5
     comment: |
       The best donair that i’ve put in my mouth by far. The sweet the sauce, beef, and overall donair was perfect juicy and seasoned. The fries were prepared fresh and stayed hot the whole drive home. Amazing portions!
-  - name: "Todd Brayshaw"
+  - name: "Garden Magic"
     rating: 5
     comment: |
-      Stopped by and grabbed a regular donair for $9.99.   It was huge.  I could not finish it.    Agree with the name - really good.    Possibly the Worlds Finest.
-      Highly recommend.
-      Five star.
+      Size and flavour are top tier. The mixed donair is second to none when it is on point.
+      
+      Simple ingredients and the spice of the meats is excellent.
+      
+      Jumbo is huge... As jumbo should be.
+      
+      Best of the best, put it to the test!!!
 ---

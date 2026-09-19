@@ -35,10 +35,6 @@ reviews:
     rating: 5
     comment: |
       Phenomenal ATM experience. I only cried a little bit it wasn't the ATM's fault, I was just really excited at their 20l bucket deal. 3 bucks a bucket?! What a deal!
-  - name: "Cosmo Choe"
-    rating: 5
-    comment: |
-      Very friendly staff and people don't push you to be fast and quick. It is one of the best car washes in Edmonton. This is the only car wash I feel comfortable washing my car in. Also there is like place connected to it that you can buy products like snacks drink and car cleaning supplies. It is pretty good. I always go get some coffee and some biscuits whenever I pass by.
   - name: "Rhonda"
     rating: 5
     comment: |
@@ -47,4 +43,8 @@ reviews:
     rating: 4
     comment: |
       Smaller car wash and some ofnthe settings seam to drain funds rather quickly. But space is clean store clerk is friendly lots of supplies.
+  - name: "Cosmo Choe"
+    rating: 5
+    comment: |
+      Very friendly staff and people don't push you to be fast and quick. It is one of the best car washes in Edmonton. This is the only car wash I feel comfortable washing my car in. Also there is like place connected to it that you can buy products like snacks drink and car cleaning supplies. It is pretty good. I always go get some coffee and some biscuits whenever I pass by.
 ---

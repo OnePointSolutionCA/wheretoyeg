@@ -19,7 +19,7 @@ hours:
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/urbanlawyers-1.jpg", "/photos/urbanlawyers-2.jpg"]
-rating: 4.7
+rating: 4.8
 review_count: 95
 price_range: "$$"
 amenities:
@@ -36,6 +36,10 @@ reviews:
       They were attentive, professional, and genuinely willing to help every step of the way throughout the entire process. I truly appreciate all the support and guidance they provided.
       
       If I ever need these services again in the future, I will absolutely be bringing my business back to them and recommending them to my family and friends as well. Highly recommended!
+  - name: "Jackie Prosper"
+    rating: 5
+    comment: |
+      Outstanding service from start to finish! Atty. Rohit  Kanwar and Alisha Kanwar made buying my first home a seamless experience. They were professional, proactive, and exceptionally detailed. I couldn't have asked for a better team in my corner for such a huge milestone. 5 stars all the way!👍
   - name: "P D"
     rating: 5
     comment: |
@@ -47,19 +51,6 @@ reviews:
       We greatly appreciated their efficiency due to the time-sensitive nature of our deal.
       
       Thank you again, and we are looking forward to your services in the future.
-  - name: "Humera Ahamed"
-    rating: 5
-    comment: |
-      10/10 Experience.
-      
-      Rohit & Alisha kept me informed right throughout the process via email or phone.
-      They deserve every bit of the 5 star review for the  level of work they provided.
-      
-      Rohit made sure the closing of my house goes smoothly and got everything done on time.
-      
-      Iam grateful to Mr.Rohit Kanwar and his real estate Team.
-      
-      Thank you,
   - name: "Bashar"
     rating: 5
     comment: |

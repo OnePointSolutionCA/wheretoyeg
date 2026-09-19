@@ -18,7 +18,7 @@ hours:
   sunday: "11:00 AM–7:00 PM"
 photos: ["/photos/ultrazone-laser-tag-1.jpg", "/photos/ultrazone-laser-tag-2.jpg", "/photos/ultrazone-laser-tag-3.jpg"]
 rating: 4.6
-review_count: 880
+review_count: 881
 price_range: "$$"
 amenities:
   - "Group Bookings"
@@ -43,6 +43,10 @@ reviews:
     rating: 5
     comment: |
       We held our son's 7th Birthday here staff are awesome very helpful and accommodating. Cheerful and efficient. Place is clean and well maintained.  Kudos to you guys.
+  - name: "Tami-Lee Ellis-Bryan"
+    rating: 5
+    comment: |
+      Did a birthday party for my son. The staff was very professional, friendly and accommodating! Special shout out to Nathaniel who made sure to smooth out EVERY kinks I could have possibly had with my plans. I would definitely do this again. Environment was very clean and spacious. Laser tagging was very exciting and engaging. 10/10
   - name: "Mary K"
     rating: 5
     comment: |
@@ -55,8 +59,4 @@ reviews:
       The environment was fun, well-organized, and perfect for families. My kids had an absolute blast and didn’t want to leave! It’s clear the team really cares about making sure everyone has a great time.
       
       We will definitely be coming back again and highly recommend it to other families looking for a fun outing!
-  - name: "христина сікорська"
-    rating: 5
-    comment: |
-      I really recommend this place! We’ve celebrated my son’s 10 birthday at Laser City. Children were happy and excited. Service was excellent. Well come again. Thank you!
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–4:00 PM"
 photos: ["/photos/westmount-dental-centre-1.jpg", "/photos/westmount-dental-centre-2.jpg", "/photos/westmount-dental-centre-3.jpg"]
 rating: 4.6
-review_count: 761
+review_count: 770
 price_range: "$$"
 amenities:
 
@@ -36,6 +36,14 @@ reviews:
     rating: 5
     comment: |
       I must share always such a warm & friendly Dental team at Westmount dental from coming in through the door to my mom being in great hands. My mom (Maria) always share with me that the dental hygienist(s), dentist(s) are always so gentle & kind to her. As well, John the Denturist is amazing! I love his way of taking care of my mom’s needs & then always takes the time to share with me how her appointment went. John takes the time to share & the time to listen to one too! Westmount Dental 🦷 don’t lose your shine. All of you are amazing! Thank you
+  - name: "Eric Ocampo"
+    rating: 5
+    comment: |
+      I had a wonderful experience with Dr. Raza, Ms. Amanda, and Ms. Jasmine. I am truly thankful for the excellent care they provided for my dental. They were all very kind, professional, patient, and caring, and they made sure I felt comfortable throughout my visit.
+      
+      I really appreciate how they took the time to explain everything clearly and made me feel well cared for. Their patience, kindness, and attention made my dental experience much easier and more pleasant.
+      
+      A special thank you to Dr. Raza, Ms. Amanda, and Ms. Jasmine for taking such great care of me. You are an amazing team! I highly recommend them to anyone looking for excellent, caring, and professional dental care.
   - name: "Abdullah Obeid"
     rating: 5
     comment: |
@@ -51,12 +59,4 @@ reviews:
     comment: |
       A very nice and professional teeth caring center. Their approach is meticulous and decent. Right from the receptionists to the doctors are all diligent and professional. They have feelings for their care recipients and love the job they do.
       I'll recommend the center to everyone that needs good dental care.
-  - name: "Fiona Downer"
-    rating: 5
-    comment: |
-      I had an appointment yesterday and it was a fantastic experience. This is my second time visiting this dental office, and both times Josh was the one who cleaned my teeth. He did an amazing job.
-      
-      He was extremely gentle, thorough, and made sure I was comfortable the entire time. I felt no discomfort at all, which I really appreciate. You can tell he takes pride in his work.
-      
-      I highly recommend this office, and if you get Josh, you’re in great hands!
 ---

@@ -21,7 +21,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/tichi-auto-repair-1.jpg", "/photos/tichi-auto-repair-2.jpg", "/photos/tichi-auto-repair-3.jpg"]
 rating: 4.6
-review_count: 590
+review_count: 599
 price_range: "$$"
 amenities:
   - "General Repair"
@@ -45,6 +45,22 @@ reviews:
       Finding a mechanic shop with this level of honesty and integrity is rare. Kash breaks everything down clearly, offers fair, transparent pricing, and ensures the job is done perfectly the first time.
       
       They are fast, reliable, and truly treat your car like their own. Keep up the great job!
+  - name: "Kynna Welsh"
+    rating: 1
+    comment: |
+      Very disappointed with Tichi after what happened to my mom’s car, especially since she has been a regular customer here for a long time.
+      
+      She brought her car in to have a new set of tires changed. A few days later, she started hearing rattling from the back of the vehicle when driving around 100 km/h, so she brought it back to have the tires balanced and the alignment checked.
+      
+      After picking up the car, she noticed that her A/C, which had been working perfectly fine before, suddenly stopped working. She continued driving for about 20 minutes, then left the car running while parked for only a couple of minutes. When she came back, the vehicle was smoking, the temperature gauge was extremely high, and the engine was overheating badly. She immediately shut it off and had to pay to get the car towed.
+      
+      When she called Tichi to explain what happened, the response was extremely unprofessional. Instead of calmly listening to her concerns or offering to inspect the vehicle, they shouted at her, told her they only worked on the tires, and said it was not their problem.
+      
+      She later brought the vehicle to another mechanic, who said the issue appeared to be related to the coolant system and that the coolant cap had not been properly secured, suggesting it may have been opened and not tightened correctly. Her previous oil change was about three months ago, and she had no overheating issues during that entire time. The problem only happened after leaving this shop, which makes the timing very concerning.
+      
+      We are not claiming to know exactly what happened inside the shop, but the lack of concern, accountability, and basic customer service was unacceptable. A loyal customer almost had a serious engine problem and was left paying hundreds of dollars in towing and repairs, and instead of helping, she was yelled at and dismissed.
+      
+      After this experience, our family has completely lost trust in this shop and will not be returning.
   - name: "Chris Dick"
     rating: 5
     comment: |
@@ -53,12 +69,8 @@ reviews:
     rating: 5
     comment: |
       I have used this auto shop for a few years now, and come back even after moving to the other side of the city, and more recently even to a whole new province. Their service is top notch, and their availability + prices cannot be beat. Happy that I found a reliable and honest shop like Tichi Auto Repair 🤘 Thanks team!
-  - name: "Clarence Chai"
+  - name: "Erich"
     rating: 5
     comment: |
-      Kash and his team were recommended by a friend. They got me in right away and fixed a major issue with my car. They explained everything clearly and provided excellent service. Highly recommend!
-  - name: "Garrett Bugay"
-    rating: 5
-    comment: |
-      Kash was super friendly and honest explaining our issue with our Subaru. The service was quick and thorough. We left with a better understanding of the vehicle and potential warning signs to look out for in the future. We highly recommend him.
+      We were informed about this place from my neighbor, who is a retired maintenance guy from the city of St Albert.  He told us they were good quick and reasonably priced.  We have been here 3 times with various maintenance needs and have had nothing but good experiences every time.
 ---

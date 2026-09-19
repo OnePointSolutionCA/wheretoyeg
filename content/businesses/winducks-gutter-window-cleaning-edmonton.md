@@ -19,8 +19,8 @@ hours:
   saturday: "9:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/winducks-gutter-window-cleaning-edmonton-1.jpg", "/photos/winducks-gutter-window-cleaning-edmonton-2.jpg", "/photos/winducks-gutter-window-cleaning-edmonton-3.jpg"]
-rating: 5
-review_count: 163
+rating: 4.9
+review_count: 166
 price_range: "$$"
 amenities:
 
@@ -47,12 +47,12 @@ reviews:
       The office team also went above and beyond. Communication was excellent scheduling was smooth and they were genuinely incredible to deal with throughout the entire process.
       
       Highly recommend Winducks Edmonton if you are looking for quality work and a team that truly cares about the result.
-  - name: "Gregory Boucher"
-    rating: 5
-    comment: |
-      The team at Winducks were very professional and efficient. From booking their services, follow up reminders, and the tech showing up on time, the level of service was on point. A shout out to Phil, the tech would completed the work, he was polite, efficient and above all, did a great job!
   - name: "Ellen Reil"
     rating: 5
     comment: |
       The crew called to arrange an earlier arrival which was very appreciated. The work was done quickly and everything looks great. They also helped reinstall a screen that I got stuck while I was cleaning the inside windows.
+  - name: "Sonja Norton"
+    rating: 5
+    comment: |
+      Excellent customer service and work was well done! My windows were literally scrubbed clean (sap from trees) and the technician washed off my fron mat and hung it to dry. Couldn't be happier!
 ---

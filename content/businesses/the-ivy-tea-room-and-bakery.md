@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Sherwood Park"
 address: "200 Festival Ln #110, Sherwood Park, AB T8A 4Y8"
 rating: 4.6
-review_count: 106
+review_count: 110
 tier: "featured"
 phone: "(780) 570-8595"
 website: "http://theivysp.ca/"
@@ -13,10 +13,6 @@ google_maps: "https://maps.google.com/?cid=3256990921262850561&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/the-ivy-tea-room-and-bakery.jpg"
 reviews:
-  - name: "Yasmin Bhuiyan"
-    rating: 5
-    comment: |
-      I had such a wonderful experience at The Ivy Tea Room & Bakery. The atmosphere is absolutely beautiful cozy, comfortable, and truly feels like home. It’s one of those places where you get so comfortable you never want to leave. The desserts were amazing, the customer service was exceptional, and every detail made the experience feel warm and welcoming. Highly recommend for anyone looking for a relaxing and charming spot to enjoy tea and treats.
   - name: "Nicole Bonnett"
     rating: 5
     comment: |
@@ -39,10 +35,6 @@ reviews:
       Soup| Sandwiches| charcuterie board
       
       ($32 for a small board like in the picture) but they also offer takeout which is cheaper
-  - name: "Rocky Corpuz"
-    rating: 5
-    comment: |
-      We had the best lunch experience today here at the ivy room. Great selection and reasonable price. I highly recommend this place and would definitely come back again. The staff are so friendly and the place is so cozy. Love it!!!!
   - name: "path2discover"
     rating: 4
     comment: |
@@ -53,6 +45,26 @@ reviews:
       Sadly, customer service is inconsistent. I had someone tell me they didn’t have menu’s at the counter and I had to get it at the front and bring it to the counter. Tessa the barista is very nice and lovely to speak with.
       
       Overall great spot, but could use some improvement.
+  - name: "Yasmin Bhuiyan"
+    rating: 5
+    comment: |
+      I had such a wonderful experience at The Ivy Tea Room & Bakery. The atmosphere is absolutely beautiful cozy, comfortable, and truly feels like home. It’s one of those places where you get so comfortable you never want to leave. The desserts were amazing, the customer service was exceptional, and every detail made the experience feel warm and welcoming. Highly recommend for anyone looking for a relaxing and charming spot to enjoy tea and treats.
+  - name: "T-Bird"
+    rating: 5
+    comment: |
+      We had lunch on a Friday, arriving about 11:30. It’s a big venue, but wasn’t crowded. Seating is mainly of two types – armchairs and tables in 2-4 seating arrangements, and standard restaurant tables/chairs (being mainly in 4-person sets). Some seats are in small alcoves! A great mix overall. The place is very well decorated.
+      
+      It’s set up for ordering at either a front or rear station if you’re ordering to-go. The wallpaper is great. The four unisex washrooms are clean, neat and worthy of mention!
+      
+      Our server was prompt, very friendly and professional. Customer interaction was great. Before leaving the owner stopped by to say hello. Again, interaction was outstanding.
+      
+      For drinks we had two flat whites, a butter tart latte, and a cappuccino. Eats were a scone, a turkey-bacon sandwich and two mushroom soups. Our sandwiches, pastry, and drinks were great. Two of us had the mushroom soup. It was also very good, albeit fully seasoned from the get-go (check for taste before adding more S&P!)
+      
+      Shortcomings?....not really, although S&P weren’t on the table ... and since they’re just opening they’re still awaiting larger spoons (our soup was served with teaspoons for eating). Minor glitches for the first days of what we think is a first class venue.
+      
+      We can very highly recommend the Ivy Tea Room and Bakery for a wonderful drinking and/or eating experience in Sherwood Park. You will not be disappointed.
+      
+      NOTE: Other pics added on 'generic' Google Maps info.
 hours:
   monday: "8:30 AM–6:00 PM"
   tuesday: "8:00 AM–8:00 PM"

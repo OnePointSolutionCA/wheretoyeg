@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/the-modern-man-1.jpg", "/photos/the-modern-man-2.jpg", "/photos/the-modern-man-3.jpg"]
 rating: 5
-review_count: 86
+review_count: 87
 price_range: "$$$$"
 amenities:
 
@@ -28,6 +28,10 @@ tags: ["edmonton", "classic-cuts"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Stanislav Alexandravich"
+    rating: 5
+    comment: |
+      Jonathan is an amazing hairstylist. He is well experienced and worth the drive and business. He provides a lot of feedback on what you can do to improve your hairstyle and ensures you have a good experience.
   - name: "Alex Tetrault"
     rating: 5
     comment: |
@@ -44,8 +48,4 @@ reviews:
     rating: 5
     comment: |
       5 stars isn’t even enough. I had an awesome experience, jonathan did a really cool job with my hair, staff are very friendly. Would highly and definitely recommend to anyone.
-  - name: "Maytham"
-    rating: 5
-    comment: |
-      Jonathan did a great job on my haircut. He listened to exactly what I wanted and delivered a clean, natural result. Super happy with how it turned out, highly recommend him! ✂️
 ---

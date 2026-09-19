@@ -38,14 +38,6 @@ reviews:
       I’ve been coming to Olivia for over six years and I honestly wouldn’t trust anyone else. She’s consistently professional, detail-oriented, and so talented at what she does — my brows always look clean, natural, and perfectly shaped for my face.
       
       Every appointment is a great experience: the space is comfortable, she’s friendly and genuine, and she always takes the time to make sure everything looks right. The results are consistently flawless, which is why I’ve stayed loyal for so long.
-  - name: "Jasneet Sangha"
-    rating: 5
-    comment: |
-      I had such an incredible experience at The Natural Brow. April, who did my brows, is absolutely amazing! I walked in feeling insecure and walked out feeling confident and ready to take on the world. The transformation after just one appointment was honestly drastic. April has such a gentle, skilled approach and truly knows what she’s doing.
-      
-      I can genuinely say I won’t be going anywhere else from now on. If you’re thinking about getting your brows done….this is the place to go!
-      
-      Highly, highly recommend!
   - name: "LH"
     rating: 5
     comment: |
@@ -54,4 +46,8 @@ reviews:
     rating: 5
     comment: |
       Olivia has been doing my brows for over 5 years now & she is absolutely amazing! She has completely transformed my brow shape, and it’s worth every penny. April has also done my brows a few times and she is extremely skilled as well!
+  - name: "JODI CHU"
+    rating: 5
+    comment: |
+      The ladies at the Natural Brow are amazing. I’ve been seeing Olivia for a few years now, her work is great. She takes her time and pays attention to what you want and the details. The space is very relaxing and comfortable, always an enjoyable experience.
 ---

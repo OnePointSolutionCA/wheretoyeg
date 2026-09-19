@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "12765 50 St NW, Edmonton, AB T5A 4L8"
 rating: 4.9
-review_count: 476
+review_count: 480
 tier: "featured"
 phone: "(780) 473-3998"
 website: "http://ab-eyes.com/"

@@ -20,7 +20,7 @@ hours:
   sunday: "3:30 PM–8:00 PM"
 photos: ["/photos/the-lingnan-1.jpg", "/photos/the-lingnan-2.jpg", "/photos/the-lingnan-3.jpg"]
 rating: 4.6
-review_count: 1840
+review_count: 1846
 price_range: "$$"
 amenities:
   - "Dine-In"

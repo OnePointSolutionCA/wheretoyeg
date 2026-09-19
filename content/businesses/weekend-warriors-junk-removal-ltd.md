@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/weekend-warriors-junk-removal-ltd-1.jpg", "/photos/weekend-warriors-junk-removal-ltd-2.jpg", "/photos/weekend-warriors-junk-removal-ltd-3.jpg"]
 rating: 5
-review_count: 410
+review_count: 412
 price_range: "$$"
 amenities:
 

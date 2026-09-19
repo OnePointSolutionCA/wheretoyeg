@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/weatherproof-roofing-inc-1.jpg", "/photos/weatherproof-roofing-inc-2.jpg", "/photos/weatherproof-roofing-inc-3.jpg"]
 rating: 4.9
-review_count: 252
+review_count: 253
 price_range: "$$$$"
 amenities:
 

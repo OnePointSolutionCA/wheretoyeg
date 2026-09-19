@@ -18,7 +18,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/wem-dental-clinic-1.jpg", "/photos/wem-dental-clinic-2.jpg", "/photos/wem-dental-clinic-3.jpg"]
 rating: 4.9
-review_count: 558
+review_count: 561
 price_range: "$$"
 amenities:
   - "Direct Billing"
@@ -46,8 +46,8 @@ reviews:
     rating: 5
     comment: |
       Hi Sam, I just wanted to say a huge thank you for your amazing work. After trying a few dentists closer to home, your professionalism and personable touch completely won me over. You make every visit comfortable, and I won't go anywhere else!
-  - name: "Colleen Hogan"
+  - name: "Tracy Gandolfo"
     rating: 5
     comment: |
-      Very friendly staff. Make you feel comfortable staff is very welcoming. Best experience I have ever had at a dentil office. When you walk through the doors it a calm and welcoming atmosphered the staff and how comfortable they make you feel well your their hands down great staff and great Location.
+      Simply the best team.  I’ll be sending family and friends to see Dr Terrabain and his wonderful team. So talented!
 ---

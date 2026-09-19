@@ -34,6 +34,10 @@ reviews:
     rating: 5
     comment: |
       I love it so much! I definitely recommend it to everyone. I bought more this time because I was almost out. Just giving you a heads-up!🙂👍
+  - name: "Aaron Wannamaker"
+    rating: 5
+    comment: |
+      The store selection was very nice, even when they didn't have their full inventory in yet. I can't wait for the rest of the store to grow because there is a lot of good items here, including gifts and cookware. The store owner was a very kind gentleman and pleasant to deal with. I look forward to going there again!
   - name: "Brigitte Sideroff"
     rating: 5
     comment: |
@@ -46,8 +50,4 @@ reviews:
     rating: 5
     comment: |
       I was in here yesterday and the people are so kind, the food is delicious and the prices are amazing! I havent tried all the food yet, but what I have tried so far is delicious 😋
-  - name: "Mike Hammill"
-    rating: 5
-    comment: |
-      Very clean store, good selection and friendly service.
 ---

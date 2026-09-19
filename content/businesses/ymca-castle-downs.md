@@ -18,7 +18,7 @@ hours:
   sunday: "7:00 AM–8:00 PM"
 photos: ["/photos/ymca-castle-downs-1.jpg", "/photos/ymca-castle-downs-2.jpg", "/photos/ymca-castle-downs-3.jpg"]
 rating: 4.2
-review_count: 246
+review_count: 249
 price_range: "$$"
 amenities:
   - "Pool"

@@ -44,8 +44,8 @@ reviews:
     rating: 5
     comment: |
       I stopped in tonight to see if I could get my almost three year old in for a trim. Ayman was able to help us and did a wonderful job. I didn’t know exactly what I wanted to do so between Ayman and Nour they gave me some suggestions on what might look best. He worked so well with my son who turned his head every 5 seconds. The price was more than reasonable. I consider myself lucky to live so close to this gem in our community. Thanks Xtreme Creations team for great service.
-  - name: "Ahmed Atak"
+  - name: "Taylor Daum"
     rating: 5
     comment: |
-      Nor will give you the cleanest cut! First time impression: It is clear to me that this is an outstanding barber at an amazing shop. The environment is uplifting, trendy, and welcoming. Their chair setup is very conducive to worker communication and chatting, and made it a really enjoyable experience. Everyone is friendly, happy, and at your service when you need them. This is an exceptional modern barber shop
+      I’ve been going here for a couple years now and won’t go anywhere else. The haircuts are always fantastic, and he just knows what’s going to look good and makes sure it does. Extra touches, friendly banter, relaxed and well worth the price. If you want a cheap haircut, go somewhere else, but if you want a good, no, excellent haircut, this is your place!
 ---

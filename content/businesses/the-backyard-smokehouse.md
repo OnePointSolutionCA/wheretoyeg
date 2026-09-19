@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/the-backyard-smokehouse-1.jpg", "/photos/the-backyard-smokehouse-2.jpg", "/photos/the-backyard-smokehouse-3.jpg"]
 rating: 4.4
-review_count: 2266
+review_count: 2285
 price_range: "$$"
 amenities:
   - "Dine-In"

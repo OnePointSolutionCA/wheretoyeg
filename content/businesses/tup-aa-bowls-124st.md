@@ -42,12 +42,12 @@ reviews:
     rating: 4
     comment: |
       Authentic Açaì Bowls. Glad they have a northside location.  Berry Choco Bliss strawberry 🍓 🍌 🥥 🥭
-  - name: "Michael Gerrard"
-    rating: 5
-    comment: |
-      The açai bowls are good and the ice cream is incredible! It was actually worth coming from the south side to try it.
   - name: "Ariel Galvani"
     rating: 5
     comment: |
       Delicious açai. Lady working there was very kind and helpful! Will definitely come back!
+  - name: "Lemona C"
+    rating: 5
+    comment: |
+      Very fresh and well presented acai bowls with friendly service.
 ---

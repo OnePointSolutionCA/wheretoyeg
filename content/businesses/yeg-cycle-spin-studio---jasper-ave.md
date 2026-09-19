@@ -28,6 +28,14 @@ tags: ["edmonton", "cycling"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Ketara"
+    rating: 5
+    comment: |
+      YEGCycle has become part of my weekly (if not daily) routine. The energy that all the staff & motivators bring is so welcoming and upbeat!
+      
+      No class is exactly the same as the last, so you’re always going into something fun, fresh & exciting.
+      
+      I’ve brought multiple friends to spin here and they all fell in love with it just like I did!
   - name: "Whitney Coxson"
     rating: 5
     comment: |
@@ -48,12 +56,4 @@ reviews:
     rating: 5
     comment: |
       I don’t live in Edmonton and have never taken a class here, but I bet their classes are 🔥 just based on their cheer squad at the Edmonton marathon today. The energy was wild! Thanks for coming out to cheer everyone on… best squad out there BY FAR.
-  - name: "Kristyn Chamzuk"
-    rating: 5
-    comment: |
-      I can't say enough great things about YEG Cycle on Jasper Ave! The energy in this studio is unmatched – from the moment you walk in, you're greeted with smiles and an upbeat atmosphere. The motivators are incredible instructors who know how to push you to your limits while keeping the classes fun and engaging. Every ride is different, so it never feels repetitive.
-      
-      I also love the creative themed classes! During the 2024 Stanley Cup playoffs, they had amazing Oilers-themed rides that really got everyone in the spirit. I’m really looking forward to the spooky/Halloween-themed classes coming up too – they always do such a great job making every class a fun experience.
-      
-      If you're looking for a high-energy workout that leaves you feeling great and part of an amazing fitness family, I highly recommend YEG Cycle! You won’t regret a spin.
 ---

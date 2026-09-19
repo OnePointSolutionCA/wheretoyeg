@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/yelod-ice-cream-bake-shoppe-1.jpg", "/photos/yelod-ice-cream-bake-shoppe-2.jpg", "/photos/yelod-ice-cream-bake-shoppe-3.jpg"]
 rating: 4.9
-review_count: 291
+review_count: 293
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,10 +30,6 @@ tags: ["edmonton", "ice-cream"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Dennis G"
-    rating: 5
-    comment: |
-      A welcome addition to Terwilligar. Delicious flavours of ice cream served by friendly, efficient staff. A plethora of flavours to choose from. It was quite busy when we went but service was quick. Definitely worth a try.
   - name: "Moni"
     rating: 5
     comment: |
@@ -54,4 +50,8 @@ reviews:
     rating: 5
     comment: |
       Great, friendly and attentive staff. Very knowledgeable and helpful. The ice cream flavors are extremely varied and the flavors that I tried are amazing. I plan to come back here and try more flavours every chance I get
+  - name: "Dennis G"
+    rating: 5
+    comment: |
+      A welcome addition to Terwilligar. Delicious flavours of ice cream served by friendly, efficient staff. A plethora of flavours to choose from. It was quite busy when we went but service was quick. Definitely worth a try.
 ---

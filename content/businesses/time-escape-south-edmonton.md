@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/time-escape-south-edmonton-1.jpg", "/photos/time-escape-south-edmonton-2.jpg", "/photos/time-escape-south-edmonton-3.jpg"]
 rating: 4.8
-review_count: 172
+review_count: 173
 price_range: "$$"
 amenities:
 
@@ -28,26 +28,26 @@ tags: ["edmonton", "escape-rooms"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Lisa Peterson"
-    rating: 5
-    comment: |
-      I've really enjoyed the escape rooms at the south location. The rooms and puzzles were challenging and very well designed! My friends and I had a blast and I highly recommend Time Escape. Shout out to Justin! He was a great game master. Thank you! I can't wait to come again!
   - name: "Mykouh Q"
     rating: 5
     comment: |
       Yuru and Justin W made the experience absolutely amazing! The escape room itself was challenging, but very fair. The puzzles were well thought out and unique. They required more than just your basic click and solve puzzles. Thank you for the hospitality, we appreciate it greatly. - Michael
+  - name: "Amninder kaur"
+    rating: 5
+    comment: |
+      This is my 5th time going to Time Escape and it’s always been so much fun! Their themes are honestly the best and I always have a great time here. They also give you a discount on your birthday, which is a nice bonus. Definitely recommend this place if you’re looking for something fun to do!
   - name: "jas fredz"
     rating: 5
     comment: |
       Yuiu was awesome . The rooms are great and fun for the whole family . We almost passed . Best in the city .
-  - name: "Kai"
-    rating: 5
-    comment: |
-      We had a great experience here for Valentine’s Day. The 2 boys at the front were so friendly & welcoming! Seriously shout out to them, we were so impressed. The 2055 room was tough & I wish we had an hour instead of 45 mins but the puzzles were fun and unique! Can’t wait to come back
   - name: "Keith Miller"
     rating: 5
     comment: |
       Definitely recommend.  Our host, Justin, was super helpful and friendly. He even gave us a few extra minutes to see the puzzle to the end.
       The props were great and worked well. The puzzles (room 2055) were varied and definitely challenging but made sense.
       Will definitely go again for the next rooms.
+  - name: "Xinhong Li"
+    rating: 5
+    comment: |
+      Amazing experience! We did two rooms, 2055 and Sacred treasures. They’re both super fun. A lot of cool puzzles. We were stuck on a few of them but Justin and Zeshawn were really helpful!
 ---

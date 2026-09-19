@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/yemeni-palace-restaurant-1.jpg", "/photos/yemeni-palace-restaurant-2.jpg", "/photos/yemeni-palace-restaurant-3.jpg"]
 rating: 4.8
-review_count: 568
+review_count: 588
 price_range: "$$"
 amenities:
   - "Halal"
@@ -31,10 +31,22 @@ tags: ["edmonton", "halal-chicken", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Oemar Rehmaan"
+    rating: 5
+    comment: |
+      Very nice, neat and clean place. Ordered Mandi, which was quite good. Their Roti and Sighar were amazing. Would be back for those items for sure.
   - name: "arrianne daryl Querubin"
     rating: 5
     comment: |
       Five stars! This place is incredibly authentic. Having lived in the Middle East for nearly 11 years, we have high standards for this cuisine, and this restaurant absolutely delivered. The flavors took us right back. We love the food and the atmosphere—highly recommend!
+  - name: "Zaynab"
+    rating: 5
+    comment: |
+      We had Yemeni Palace Restaurant cater our wedding, and we couldn’t have been happier with the experience. The food was absolutely amazing — the lamb mandi, chicken mandi, lahm suqaar, hummus, Greek salad, and fattoush were all delicious and our guests really enjoyed everything.
+      
+      Amar and his team were excellent from start to finish. They were professional, organized, punctual, and very easy to work with. They made sure everything was prepared properly and helped make the food service run smoothly, which took a lot of stress off our shoulders on such an important day.
+      
+      A huge thank you to Amar and the entire team for helping make our wedding special. We truly appreciate the effort and hospitality. I would highly recommend Yemeni Palace Restaurant for anyone looking for delicious Yemeni food and excellent catering for a wedding or large event.
   - name: "Ola Koussa"
     rating: 5
     comment: |
@@ -51,12 +63,4 @@ reviews:
       We ordered the whole chicken mandi, and it did not disappoint, excellent flavor, perfectly cooked, and a generous portion size. Everything tasted fresh and well-seasoned.
       
       Overall, a solid spot if you’re looking to try Yemeni cuisine. Would definitely come back!
-  - name: "Hiba Dakouri"
-    rating: 5
-    comment: |
-      I absolutely loved it! The food is incredibly delicious, and the prices are very fair compared to other restaurants. Honestly, it’s one of the cheapest and tastiest places I’ve tried. The portions are huge—I was completely stuffed, and we didn’t even finish the meal
-  - name: "Lillia"
-    rating: 5
-    comment: |
-      My friends and I had a wonderful experience at the restaurant. The service was friendly and helpful. We got so much food for what we paid for so it was definitely great value. Food was very delicious and well made.
 ---

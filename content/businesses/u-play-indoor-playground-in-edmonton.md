@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "13983 156 St, Edmonton, AB T6V 1J1"
 rating: 4.5
-review_count: 3187
+review_count: 3188
 tier: "featured"
 phone: "(780) 488-3751"
 website: "https://u-play.ca/services/indoor-playground"

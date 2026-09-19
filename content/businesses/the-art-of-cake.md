@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/the-art-of-cake-1.jpg", "/photos/the-art-of-cake-2.jpg", "/photos/the-art-of-cake-3.jpg"]
 rating: 4.7
-review_count: 701
+review_count: 703
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -30,6 +30,12 @@ tags: ["edmonton", "cakes"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Ashmita De"
+    rating: 5
+    comment: |
+      My favourite place to get cakes from! The cakes are always soft, fresh, and delicious. Also the decorations are beautiful. We got our wedding cake from here, and it was absolutely amazing. We’ve also gotten cakes and cupcakes from here for other special occasions, including our recent anniversary cake, and they have been consistently delicious every time.
+      I also really appreciate how careful they are about nut allergies. My husband has a peanut allergy, so they always clearly warn us about the possibility of cross-contamination. Thankfully, he has never had an allergic reaction from any of the cakes we’ve ordered here. It is always reassuring for us to know that if I leave a note about the allergy, it will be taken seriously. I appreciate that they are so careful and transparent.
+      Sharing photos of some of the many cakes we have enjoyed from here over the years! ❤️
   - name: "Fred Toop"
     rating: 5
     comment: |
@@ -53,10 +59,4 @@ reviews:
     comment: |
       Today was my first visit to this hidden gem after finding them through a follower on Instagram. The food is top tier. Today I ordered the Vietnamese Caramelized Pork Bowl (with salad), Chocolate pie, sprinkle cookie sandwich, and an almond matcha latte.  Everything was excellent, especially the lunch meal, it really caught me off guard in the best way. I will be returning again.
       I would have for sure visited sooner for lunch if it was advertised more via google as I have looked for similar menu items in the area previously over the past 3 years.
-  - name: "Raf"
-    rating: 5
-    comment: |
-      The Art of Cake is a true gem in Edmonton! Everything from the pastries to the custom cakes is beautifully crafted and full of flavor. You can tell the bakers put real care into every detail — the desserts not only look amazing but taste even better.
-      
-      The staff are warm, welcoming, and always happy to help with recommendations. The cozy, vintage atmosphere makes it the perfect spot to relax with a coffee and dessert. Whether you’re picking up a treat or celebrating a special occasion, this place never disappoints. Highly recommend!
 ---

@@ -6,7 +6,7 @@ subcategory: "korean"
 neighborhood: "Sherwood Park"
 address: "800 Broadmoor Blvd #900, Sherwood Park, AB T8A 4Y6"
 rating: 4.9
-review_count: 503
+review_count: 506
 tier: "featured"
 phone: "(825) 967-1140"
 website: "https://www.zigle.ca/"
@@ -14,6 +14,16 @@ google_maps: "https://maps.google.com/?cid=6739593604442979761&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/zigle-korean-bulgogi-restaurant.jpg"
 reviews:
+  - name: "Kolby Reed"
+    rating: 5
+    comment: |
+      I have known the owners for a long time from my hometown in Saskatchewan (Hi Jay & Joanne!) where they own a hotel, and it was during my last visit with them that they suggested that I try out their Sherwood Park restaurant, and boy am I glad that I did!
+      
+      The food is spectacular. Their bulgogi is second to none, and every dish was perfectly cooked. We tried their three main bulgogi dishes - rice, japchae, and my first time trying tteokbokki, all of which were amazing. The hidden gems of ZIGLE are definitely their chicken wings which are so juicy and flavourful while having the best crisp on the outside! The bulgogi tacos were a hit also, and are a great ‘entry’ dish for those who are hesitant to go outside of their comfort zone.
+      
+      The service was friendly, and both of our servers were excellent. The tablet ordering system is wonderful for being able to scroll and decide at your leisure, and order more dishes to the table without needing to track down a waitress.
+      
+      If you’re in the mood for some excellent Korean bulgogi, this is the place to go!
   - name: "David Maurice"
     rating: 4
     comment: |
@@ -29,12 +39,6 @@ reviews:
     rating: 5
     comment: |
       Had an amazing experience at ZIGLE Korean Bulgogi Restaurant. The food was incredibly authentic, full of flavour, and beautifully prepared. The ambience was cozy and modern, making it a great place for both family dinners and casual outings. Excellent value for money with generous portions and attentive service. Definitely coming back.
-  - name: "Allisha"
-    rating: 5
-    comment: |
-      My new favourite Korean place!! If you’re in Sherwood Park and love Korean food, Zigle is a must!
-      I always start with the soju flight, which is such a fun way to try different flavours and kick off the meal. For apps, I always do the kimchi fries and the zigle salad. The kimchi fries are unreal! They’re so crispy and flavourful. And the zigle salad is really refreshing, making them the perfect contrast.
-      For the main, we always order the bulgogi for two, and it never disappoints. The meat is tender and well marinated, with generous portions that make it great for sharing. Your server also comes and cooks it for you and lets you know when it’s done. I love their service and their food. Highly recommend!
   - name: "The Professional Positive Viber"
     rating: 5
     comment: |

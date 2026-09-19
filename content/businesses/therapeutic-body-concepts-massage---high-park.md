@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–5:00 PM"
 photos: ["/photos/therapeutic-body-concepts-massage---high-park-1.jpg", "/photos/therapeutic-body-concepts-massage---high-park-2.jpg", "/photos/therapeutic-body-concepts-massage---high-park-3.jpg"]
 rating: 4.9
-review_count: 1119
+review_count: 1120
 price_range: "$$"
 amenities:
 

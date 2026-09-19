@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "8882 170 St NW #2065, Edmonton, AB T5T 3J7"
 rating: 4.1
-review_count: 2454
+review_count: 2456
 tier: "featured"
 phone: "(780) 900-8714"
 website: "https://www.therecroom.com/west-edmonton-mall?utm_source=google-my-business_WestEdmontonMall&utm_medium=profile&utm_campaign=owned_media"
@@ -36,10 +36,10 @@ reviews:
     comment: |
       What an amazing team! We came in yesterday needing a table for 15, I never even thought to book a reservation and they were completely booked up, they did not think they would be able to get us in. I got a message saying they have a table at 330pm for 15 people for us. We showed up, table was ready. The server was amazing!!! She was so kind I wish I got her name, but she was fabulous!!! The food came out really quick even though it was packed in there and no mistakes at all !!! They really helped us out with feeding 15 people including a bunch of hungry kids who spent the day at galaxy land for my sons birthday! Thank you to the manager (not sure his name) the host (not sure her name) & the server!! You guys were all so amazing, I appreciate you all so much! Great food, great service & awesome games!!!!
 hours:
-  monday: "11:30 AM–11:00 PM"
-  tuesday: "11:30 AM–11:00 PM"
-  wednesday: "11:30 AM–11:00 PM"
-  thursday: "11:30 AM–11:00 PM"
+  monday: "3:00 PM–11:00 PM"
+  tuesday: "3:00 PM–11:00 PM"
+  wednesday: "3:00 PM–11:00 PM"
+  thursday: "3:00 PM–11:00 PM"
   friday: "11:00 AM–1:00 AM"
   saturday: "11:00 AM–1:00 AM"
   sunday: "11:00 AM–11:00 PM"

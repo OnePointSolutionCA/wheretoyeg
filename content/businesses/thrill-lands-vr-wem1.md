@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/thrill-lands-vr-wem1-1.jpg", "/photos/thrill-lands-vr-wem1-2.jpg", "/photos/thrill-lands-vr-wem1-3.jpg"]
 rating: 4.9
-review_count: 266
+review_count: 264
 price_range: "$$"
 amenities:
 
@@ -33,6 +33,14 @@ reviews:
     comment: |
       Amazing experience at Thrill Land!
       I had such a great time here. The place is fun, clean, and very well organized. I want to give a special shout out to SEENA 💞 She is incredibly kind, patient, and helpful. Her customer service truly made the experience even better. Highly recommend.
+  - name: "Matrisha Wong"
+    rating: 5
+    comment: |
+      prices are very affordable in the sky for absolutely amazing! the staff found out it was my daughter's birthday and gave her a free ride on top of the one we purchased! made my daughter feel super special and we will definitely be back!
+  - name: "Faith Sanspariel"
+    rating: 5
+    comment: |
+      My kids and I love this, we always go the minimum of two rides at least! Definitely worth the little stop
   - name: "Manjot Sran"
     rating: 5
     comment: |
@@ -41,12 +49,4 @@ reviews:
     rating: 5
     comment: |
       My son loved this experience and chose to try six times in one day and we were happy to let him because of how well it was run. Zahra was outstanding. She guided him step by step, helped him choose the right ride and gave him the confidence to fully enjoy it. Her professionalism, patience, and clear instructions made a huge difference which we really appreciate it.
-  - name: "Debbie De Jesus"
-    rating: 5
-    comment: |
-      Thrill Lands VR was a great experience for my daughter. The staff was nice enough to let her try on the ride again after she said she didn’t see anything. Great experience overall. Thank you so much.
-  - name: "Christine Houghton"
-    rating: 5
-    comment: |
-      We had a great time here! We've been back several times and tried quite a few of the rides. They're fun and have a wide variety of options.
 ---

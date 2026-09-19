@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/wing-snob-3-1.jpg", "/photos/wing-snob-3-2.jpg", "/photos/wing-snob-3-3.jpg"]
 rating: 4.7
-review_count: 492
+review_count: 494
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -42,10 +42,6 @@ reviews:
     rating: 5
     comment: |
       Hands down the best place to satisfy your wing craving but nothing compares to their specialty fries. They are the best I've ever had! EVER!
-  - name: "meeka triska"
-    rating: 5
-    comment: |
-      I had made an order by phone call for my works lunch not long after they opened today and we ordered 10 meals and it was ready within 20 minutes and I have never felt so welcome in a food store before. There were two girls that were SO kind and accommodating from ordering on the phone to picking up they offered me help to bring the food out and were so nice they even gave me a complimentary baked good. Will be back forsure!
   - name: "Scotty P know'm sayin?"
     rating: 5
     comment: |
@@ -54,4 +50,8 @@ reviews:
     rating: 5
     comment: |
       Navjot greeted us with as soon as we walked in. She was very welcoming and super sweet. She helped us decide on the menu and even gave us some recommendations. We took her advice with getting a creamy parm dip with our chicken and it was amazing! She knows her stuff. The food and dip complimented each other very well. I came with my boyfriend and my best friend, we all enjoyed it a lot. I would definitely go to this location more often.
+  - name: "Taz Gane"
+    rating: 1
+    comment: |
+      Really disappointed with the wings today. Paying $40+ you expect big juicy wings with heavy sauce and flavour. These wings were sub-par cheap 30 cent wings. The wings also had a terrible smell coming from them. My wife and I just ended up eating the dry fries before tossing the whole thing. Never going to wing snob again…. Highly disappointing
 ---

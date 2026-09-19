@@ -42,10 +42,6 @@ reviews:
     rating: 5
     comment: |
       Lovely little tea shop. Excellent selection of teas to try and I experienced great customer service. The sticky rice tea smells fantastic! Japanese sencha was flavourful. I purchased peach and strawberry tea for my daughter, which she has enjoyed. The butterfly pea powder (blue matcha) is magical! My fave out of the bunch has been the double cream earl grey. I find I need to steep a little more tea than the bag suggests for serving size, but this is just my personal taste. Highly recommend this shop for those searching to support a local gem.
-  - name: "JANET MOFFATT"
-    rating: 5
-    comment: |
-      In the Alberta Avenue area of the city, at the end of a quaint tree lined street lies the historic Barlo Residence that houses the tea shop. Definitely worth the meander off the main streets.  Loved the atmosphere,  the service was great, there are wonderful unique blends. Tried the Rooibos London Fog while I was there,   would definitely recommend it if you are looking for a decaf tea. Interesting and varied selection. Will definitely be back. Go check it out.
   - name: "Jitka Storoschuk"
     rating: 5
     comment: |
@@ -66,4 +62,8 @@ reviews:
     rating: 5
     comment: |
       Vintage Fork is such an amazing little hidden gem.  So many delicious blends.  Knowledgeable staff able to help you through your selections.  Support small business and check them out in store or online (they deliver).  You will NOT be disappointed.
+  - name: "Jett Douziech"
+    rating: 5
+    comment: |
+      Absolute gem of a place. It cannot be overstated how incredible this business is and when you meet the owner it is clear why. The loveliest man you will ever meet. He has a clear passion for tea and incredible personal customer service. The store itself is amazing in its own right, and the products are fantastic. Come here if you like tea, and if you don’t, also come because you will leave loving tea!
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "5:00 PM–9:00 PM"
 photos: ["/photos/yiannis-taverna-greek-restaurant-1.jpg", "/photos/yiannis-taverna-greek-restaurant-2.jpg", "/photos/yiannis-taverna-greek-restaurant-3.jpg"]
 rating: 4.4
-review_count: 992
+review_count: 993
 price_range: "$$"
 amenities:
   - "Dine-In"

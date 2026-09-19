@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Spruce Grove"
 address: "27717 Acheson Rd, Acheson, AB T7X 6B1"
 rating: 4.9
-review_count: 258
+review_count: 259
 tier: "featured"
 phone: "(780) 720-4733"
 website: "https://www.thewallcoffeeroasters.com/"

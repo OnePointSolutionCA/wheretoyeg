@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:30 PM"
 photos: ["/photos/village-somali-restaurant-1.jpg", "/photos/village-somali-restaurant-2.jpg", "/photos/village-somali-restaurant-3.jpg"]
 rating: 4.6
-review_count: 207
+review_count: 209
 price_range: "$"
 amenities:
   - "Halal"

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/westmount-vision-care-1.jpg", "/photos/westmount-vision-care-2.jpg", "/photos/westmount-vision-care-3.jpg"]
 rating: 4.9
-review_count: 445
+review_count: 446
 price_range: "$$"
 amenities:
 

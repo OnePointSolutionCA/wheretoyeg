@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Castle Downs"
 address: "9499 137 Ave NW, Edmonton, AB T5E 5R8"
 rating: 4.7
-review_count: 2279
+review_count: 2282
 tier: "featured"
 phone: "(587) 409-4405"
 website: "https://www.dentistsatnorthgate.ca/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Website_URL"

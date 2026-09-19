@@ -57,18 +57,16 @@ reviews:
       I highly recommend this team for anybody in the area of Whyte Ave, Argyll, or Otwell…. Or anybody else.
       
       Thank you guys!!! 😁
-  - name: "Amel"
-    rating: 5
-    comment: |
-      ⭐️⭐️⭐️⭐️⭐️
-      Radha is amazing! Her physiotherapy treatment, including hands-on therapy and the specialized equipment she expertly uses, helped me feel so much better. She is kind, caring, and very supportive. I feel very lucky to have been under her care and would happily recommend
-      Thanks alot Radha 🌹
-  - name: "Megan"
-    rating: 5
-    comment: |
-      Radha is excellent. I have been to a few different physiotherapists before, and had very little if any results. It really goes to show that not all physio is the same. Radha is welcoming, knowledgeable, supportive, and incredibly talented. She has substantially improved the concerns I came to her with, and I wouldn’t hesitate to recommend that anyone go see her. Joanne and Jannat at the front desk are super helpful, and very lovely to deal with.
   - name: "Jenna Norman"
     rating: 5
     comment: |
       I have seen other physio therapists before but honestly Radha has been life changing. I feel really prepared to continue my health journey, and I'm really grateful for all of her help. She is so knowledgeable, and kind, and it made all the difference. Joanne was super kind and was also an incredible help! I recommend vertex 100%
+  - name: "Bandna Sharma"
+    rating: 5
+    comment: |
+      Thank you for giving me excellent treatment  with my lower back pain and doing proper treatment. Radha is my physiotherapist she is very ,kind ,caring and excellent knowledge and helpful explain  things very well. Front staff Jannat is really helpful and very kind all staff is very welcoming. Thank you very much for your support and carring.
+  - name: "Megan"
+    rating: 5
+    comment: |
+      Radha is excellent. I have been to a few different physiotherapists before, and had very little if any results. It really goes to show that not all physio is the same. Radha is welcoming, knowledgeable, supportive, and incredibly talented. She has substantially improved the concerns I came to her with, and I wouldn’t hesitate to recommend that anyone go see her. Joanne and Jannat at the front desk are super helpful, and very lovely to deal with.
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/thompson-optics-1.jpg", "/photos/thompson-optics-2.jpg", "/photos/thompson-optics-3.jpg"]
 rating: 4.6
-review_count: 280
+review_count: 279
 price_range: "$$"
 amenities:
 

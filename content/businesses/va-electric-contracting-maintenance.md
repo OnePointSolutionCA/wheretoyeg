@@ -28,10 +28,6 @@ tags: ["edmonton", "commercial"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Charles Sevilla"
-    rating: 5
-    comment: |
-      Mario and the team did an excellent job with my EV charger installation. They were very helpful throughout the entire process and took the time to work within my budget. Mario was responsive and even checked in couple days after install. 💯 Customer service!
   - name: "Terry Milburn"
     rating: 5
     comment: |
@@ -41,6 +37,10 @@ reviews:
     rating: 5
     comment: |
       Pierre installed my smart load management system and ev charger for me. Mario and his team truly care about the customer and I wont be using any other electrician for future jobs now. Definitely give these guys a go, you wont regret it.
+  - name: "Charles Sevilla"
+    rating: 5
+    comment: |
+      Mario and the team did an excellent job with my EV charger installation. They were very helpful throughout the entire process and took the time to work within my budget. Mario was responsive and even checked in couple days after install. 💯 Customer service!
   - name: "Stefan Ford"
     rating: 5
     comment: |

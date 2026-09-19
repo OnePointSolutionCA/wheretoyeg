@@ -13,6 +13,10 @@ google_maps: "https://maps.google.com/?cid=9065352291940938308&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/the-white-feather-salon.jpg"
 reviews:
+  - name: "E&M"
+    rating: 5
+    comment: |
+      FIVE STARS.....I found this Salon on google and after reading the reviews, I thought I would try this place out for a cut and colour (it's been 3yrs since my last cut/colour). The atmosphere was very inviting, I loved the decor, and the chairs/washing stations were very very comfortable. Hailey was extremely skilled and picked the perfect cut/colour to transform my thin, scraggly hair. Thank you again Hailey for doing such a great job!!!!!
   - name: "carolina cerda"
     rating: 5
     comment: |
@@ -20,10 +24,6 @@ reviews:
       Because of that experience, I trusted her to do my color, and she exceeded every expectation. She is incredible at working with picture references — I brought a few ideas and she delivered the result I had been dreaming of. What impressed me the most was her dedication to perfection: she didn’t let me leave until everything looked exactly right. I didn’t have to ask — she noticed the smallest details that could be improved and took the time to refine them. That level of care is rare.
       Carla is not only a wonderful person but a true professional. She takes the time to know her clients, she respects their vision, and she works with knowledge, patience, and genuine passion for what she does. You can clearly see that her priority is the client’s happiness and the health and quality of the hair.
       I am beyond grateful for her time, her dedication, and her talent. If you are looking for someone you can fully trust with your hair, Carla is the one.
-  - name: "E&M"
-    rating: 5
-    comment: |
-      FIVE STARS.....I found this Salon on google and after reading the reviews, I thought I would try this place out for a cut and colour (it's been 3yrs since my last cut/colour). The atmosphere was very inviting, I loved the decor, and the chairs/washing stations were very very comfortable. Hailey was extremely skilled and picked the perfect cut/colour to transform my thin, scraggly hair. Thank you again Hailey for doing such a great job!!!!!
   - name: "Angela"
     rating: 5
     comment: |

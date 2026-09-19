@@ -48,12 +48,12 @@ reviews:
     rating: 5
     comment: |
       My furbaby has been going here since she was 5 months old. She turned 2 today! The whole staff is fantastic and the hours and pricing is great! She loves to go for the day and is always tired wjen picked up.
+  - name: "Angela Botermans"
+    rating: 5
+    comment: |
+      Waggytails is an amazing and highly trusted daycare that I would definitely recommend.  All the staff take such good care of our fur babies and it feels like we are dropping them off with family.  They make sure everyone recieved personal time, proper socializing exercise, and appropriate stimulation (they even show movies, play music the pups like, blow bubbles, prepare wading pools, and give plenty of snuggles). They offer grooming, a healthy selection of dog foods and treats as well as overnight care.  10/10 owners....they are super responsive and listen to your needs and always make sure things are safe and you are happy.
   - name: "Tanya B"
     rating: 5
     comment: |
       Both times I have been to Waggy Tails they were awesome. My dog looked a million times better and they are very accommodating schedule wise with happy welcoming people. Definitely recommend!
-  - name: "Mark Steiger"
-    rating: 5
-    comment: |
-      My buddy Harley stays here when his family is out of town.   He really likes it.  And why not?  The staff is amazing.  Lots of friends to play with and learn from.  It's awesome!
 ---

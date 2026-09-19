@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/true-north-mortgage-1.jpg", "/photos/true-north-mortgage-2.jpg", "/photos/true-north-mortgage-3.jpg"]
 rating: 4.8
-review_count: 754
+review_count: 756
 price_range: "$$"
 amenities:
 
@@ -40,12 +40,6 @@ reviews:
       His communication was outstanding — he kept me consistently updated and was always available to answer any questions I had, no matter how small. What really stood out to me was how kind, supportive, and dedicated he was. It was clear that he genuinely cared and worked extremely hard to ensure my mortgage was approved.
       
       I truly felt supported throughout the entire process, which made what could have been a very stressful experience feel smooth and manageable. I would highly recommend Verone at True North Mortgage to anyone looking for a knowledgeable, communicative, and trustworthy mortgage broker.
-  - name: "Basharat Ishtiaque"
-    rating: 5
-    comment: |
-      I would like to share my positive experience working with MOHAMMAD Chowdhury as our mortgage advisor. From the very beginning, Mr. Chowdhury was patient, responsive, and genuinely focused on helping us make the right decision rather than rushing us through the process. As a Bangladeshi, I was not familiar with the Canadian mortgage environment at all, so the whole process felt quite overwhelming at first however Mr. Chowdhury took the time to explain everything clearly, breaking down the different bank options, interest rates, and pros and cons in a way that was easy to understand. He was very thorough and never made us feel silly for asking questions. Even late at night, he was willing to reply and follow up, which really gave us peace of mind.
-      
-      He helped us secure a competitive mortgage rate and guided us through all the paperwork, making what could have been a stressful experience feel smooth and manageable. I truly appreciate him dedication and professionalism. I would definitely engage Mr. Chowdhury again for remortgage in the future and have already recommended her to friends and family.
   - name: "Khadian Gooden"
     rating: 5
     comment: |
@@ -60,4 +54,8 @@ reviews:
       Working with Verone was an absolute pleasure from start to finish. He is incredibly knowledgeable, professional, and took the time to clearly explain all of our options, ensuring we felt completely confident in our decisions.
       
       The communication throughout the entire process was flawless—he was always prompt, accessible, and proactive in keeping us updated. If you need a dedicated professional who genuinely cares about getting the best results for their clients, look no further than Verone. Highly recommended!
+  - name: "Grace Tebb"
+    rating: 5
+    comment: |
+      This was my me and my fiancés first time buying a home and Joanne did nothing but make the whole process easy and explained everything to us to we understood. She worked fast and efficiently and always made sure to tell us what the next step it. Joanne is the best! and I we will definitely use her again in the future ! :)
 ---

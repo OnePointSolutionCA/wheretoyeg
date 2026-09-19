@@ -48,9 +48,8 @@ reviews:
       Wow! Amazing food with great prices and outstanding customer service 🔥👏
       Very delicious and clean food, cheap prices, and super polite staff. These people really deserve support ❤️
       Small restaurant, but the food is absolutely amazing, very delicious, and affordable 😋✨
-  - name: "Pashan Fernando"
+  - name: "Awet Yohannes"
     rating: 5
     comment: |
-      A small narrow café style restaurant, I wasn't sure what to expect when I went in. Ordered the chicken kebab platter and was quite impressed.
-      Generous portion size and reminded me of a hearty home cooked meal.
+      Such a beautiful spot for Mediterranean food. The food was fresh, clean, and full of flavor. The hummus was excellent, and the shawarma was absolutely on point. You can tell the chef really knows what they’re doing. One of the best places for good food and great taste
 ---

@@ -71,6 +71,10 @@ reviews:
       Let's just say, he is the better baker
       
       Thanks !
+  - name: "Gurpreet Kaur"
+    rating: 5
+    comment: |
+      Have you ever seen this big croissant in yeg? They’re best, nice flaky outside and amazing layers & soft inside. Great spot for viennoisserie. Worth every penny and do tru the banana split & Pain au chocolat!!
   - name: "Ashley Howard"
     rating: 5
     comment: |
@@ -84,8 +88,4 @@ reviews:
       We have slowly been trying the baked goods and they have also been incredible. The cinnamon bun was a 10 and the almond croissant was perfect! Can’t wait to slowly try everything there.
       
       Staff is always friendly and helpful too! One of our fave bakery’s we have found so far!
-  - name: "Emma Doell"
-    rating: 5
-    comment: |
-      Incredible place! A must try if you’re in the area! The staff were so incredibly friendly and the food was amazing. It’s so refreshing to come somewhere with good quality ingredients! The atmosphere was relaxing and so cute!
 ---

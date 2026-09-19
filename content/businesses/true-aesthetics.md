@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/true-aesthetics-1.jpg", "/photos/true-aesthetics-2.jpg", "/photos/true-aesthetics-3.jpg"]
 rating: 5
-review_count: 616
+review_count: 618
 price_range: "$$"
 amenities:
 

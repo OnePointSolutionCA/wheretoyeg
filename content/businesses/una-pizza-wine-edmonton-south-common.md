@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "1708 99 St NW #102, Edmonton, AB T6N 1M5"
 rating: 4.5
-review_count: 444
+review_count: 446
 tier: "featured"
 phone: "(587) 635-3405"
 website: "https://www.unapizzeria.com/"

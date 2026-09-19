@@ -5,7 +5,7 @@ category: "cleaning-services"
 neighborhood: "Edmonton"
 address: "10620 102 St NW, Edmonton, AB T5H 2T5"
 rating: 4.9
-review_count: 52
+review_count: 53
 tier: "featured"
 phone: "(780) 884-2489"
 google_maps: "https://maps.google.com/?cid=4017296068221504776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -24,14 +24,14 @@ reviews:
     rating: 5
     comment: |
       I love the service they are on time they clean properly  and they are honest and very nice
-  - name: "Rita worka"
-    rating: 5
-    comment: |
-      Wow they are good cleanere
   - name: "Teme cool"
     rating: 5
     comment: |
       Basically, in my life, I haven’t seen you
+  - name: "Rita worka"
+    rating: 5
+    comment: |
+      Wow they are good cleanere
 hours:
   monday: "Closed"
   tuesday: "Closed"

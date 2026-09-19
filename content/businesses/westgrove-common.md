@@ -4,8 +4,8 @@ slug: "westgrove-common"
 category: "restaurants"
 neighborhood: "Spruce Grove"
 address: "4 McLeod Ave, Spruce Grove, AB T7X 4P8"
-rating: 4.1
-review_count: 37
+rating: 4.2
+review_count: 39
 tier: "featured"
 phone: "(780) 945-4709"
 website: "https://www.melcor.ca/retail/alberta/spruce-grove/westgrove-common/"

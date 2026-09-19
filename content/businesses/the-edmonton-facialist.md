@@ -28,10 +28,6 @@ tags: ["edmonton", "facials"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Ashley Fuller Rubin"
-    rating: 5
-    comment: |
-      I just had the most incredible facial! Sooo relaxing, and my skin is glowing!! I felt so taken care of through the entire process. I will be booking again with Ayesha - The Edmonton Facialist! She is so gifted!!
   - name: "Nisha Yadav"
     rating: 5
     comment: |
@@ -44,6 +40,10 @@ reviews:
       My skin looked immediately glowing, clean, and deeply hydrated right after the treatment. I’ve had facials in past years where results took time (or honestly weren’t that noticeable), but this was completely different- the results were visible right away. The dullness on my face is just gone. My skin feels smooth, refreshed and radiant. I’m looking forward to coming back and trying the other types of treatment they offer!
       
       Highly recommend if you want real, instant results and a peaceful, professional experience!
+  - name: "Ashley Fuller Rubin"
+    rating: 5
+    comment: |
+      I just had the most incredible facial! Sooo relaxing, and my skin is glowing!! I felt so taken care of through the entire process. I will be booking again with Ayesha - The Edmonton Facialist! She is so gifted!!
   - name: "Gemma Marcinkoski"
     rating: 5
     comment: |

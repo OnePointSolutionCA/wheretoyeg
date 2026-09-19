@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "800 Broadmoor Blvd Unit 100, Sherwood Park, AB T8A 4Y6"
 rating: 4.5
-review_count: 709
+review_count: 714
 tier: "featured"
 phone: "(780) 570-2900"
 website: "http://www.theotherplace.rocks/"
@@ -25,14 +25,14 @@ reviews:
       The waitress was 100% friendly and helpful with selections, anticipated what we wanted, knew her drinks and specials.
       
       I will definitely be back here!
-  - name: "Courtney Powell"
-    rating: 4
-    comment: |
-      Over the years I have been here a few times and each time the food quality and service has been good. It has always been pretty busy. Especially on my last visit which was a Friday night. I would recommend booking a reso for weekend dinner time. They are a bit a mix for food offerings, tacos, pizza, and burgers are the majority of the menu. Beyond tacos you won’t find much other traditional Mexican cuisine. However, their pizzas, burgers, and other mains are definitely Mexican inspired. Everything tastes good so you won’t go wrong but it definitely is not a traditional Mexican restaurant.
   - name: "Benhur"
     rating: 5
     comment: |
       We loved the Mexican food, it was exemplary. The nachos were outstanding very fresh not baked the black bean added a wonderful touch. Drinks, there are so plenty of options to choose from, and it was all worth it. I would visit again with my family. It’s at a prime location and was jam packed for the 3 hours we spent there.
+  - name: "Courtney Powell"
+    rating: 4
+    comment: |
+      Over the years I have been here a few times and each time the food quality and service has been good. It has always been pretty busy. Especially on my last visit which was a Friday night. I would recommend booking a reso for weekend dinner time. They are a bit a mix for food offerings, tacos, pizza, and burgers are the majority of the menu. Beyond tacos you won’t find much other traditional Mexican cuisine. However, their pizzas, burgers, and other mains are definitely Mexican inspired. Everything tastes good so you won’t go wrong but it definitely is not a traditional Mexican restaurant.
   - name: "Shalayne Eckart"
     rating: 5
     comment: |

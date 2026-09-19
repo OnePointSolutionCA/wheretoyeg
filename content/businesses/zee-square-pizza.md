@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "St. Albert"
 address: "1 Hebert Rd #111, St. Albert, AB T8N 2E7"
 rating: 4.8
-review_count: 175
+review_count: 174
 tier: "featured"
 phone: "(780) 470-3463"
 website: "https://zeesquare.ca/"
@@ -14,6 +14,10 @@ google_maps: "https://maps.google.com/?cid=15052415519752133461&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/zee-square-pizza.jpg"
 reviews:
+  - name: "Mikaela Karamolegkou"
+    rating: 5
+    comment: |
+      Their pizza and wings are really good! The pizza sauce is on the sweeter and spicier side for my taste, but I ask for less sauce and then the pizza is great for my taste! Really good prices and nice staff. I have been disappointed by every chain pizza place that is good at first and then the quality over time just tanks. I've seen it more times than I can count. So far Zee square has been stable in quality and customer service which is great. I hope it stays that way!
   - name: "Jagmeet Singh"
     rating: 5
     comment: |
@@ -30,10 +34,6 @@ reviews:
     rating: 4
     comment: |
       Going to give it 4 stars because it is super delicious but when we got it home it was still uncooked... Like actually still in dough form. But it was a great size, great value, and lots of toppings. Just make sure it's cooked before you leave I guess! I took photos but it isn't giving me an option to upload them
-  - name: "Carrie Silzer"
-    rating: 5
-    comment: |
-      We called in close to closing and placed an order for 9 pizzas for our daughter’s after-graduation party. The staff were so awesome and accommodated our crazy late night order! The pizza was hot and delicious and the staff were friendly and helpful. Highly recommend
 hours:
   monday: "12:00 PM–9:00 PM"
   tuesday: "12:00 PM–9:00 PM"

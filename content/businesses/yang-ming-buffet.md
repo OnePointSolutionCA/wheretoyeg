@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–8:30 PM"
 photos: ["/photos/yang-ming-buffet-1.jpg", "/photos/yang-ming-buffet-2.jpg", "/photos/yang-ming-buffet-3.jpg"]
 rating: 4.1
-review_count: 4626
+review_count: 4637
 price_range: "$$"
 amenities:
   - "Takeout"
@@ -39,6 +39,10 @@ reviews:
       I was impressed by the variety of dishes offered. They have a dim sum area, buffet area with all types of cuisine, a sushi area, as well as  dessert and ice cream area.
       
       Service was excellent, as plates were taken away quite quickly. And for $23 for a lunch buffet, you really can’t go wrong, as most single dishes at a decent restaurant is around $20 anyways. Seemed to be ample parking as well. Definitely will go back!
+  - name: "Food Lover & Traveller"
+    rating: 3
+    comment: |
+      The buffet offers a large variety of food with plenty of options to choose from. However, the overall food quality is fairly average, and there wasn’t anything that really stood out. Some dishes were better than others, but overall it was more about the variety than the quality. That being said, the price is reasonable for the selection, so the value is fair.
   - name: "Julia V"
     rating: 5
     comment: |
@@ -51,14 +55,4 @@ reviews:
     rating: 5
     comment: |
       I like the hot and sour soup i miss it the taste is same with my old favorite restaurant before (Zong) i focus on Dimsum it’s all incredible, everything is superb. Service well two thumps up good job for the service. Ambiance this is not for a date place for lovey dovey, the place is alway full packs of crowd that need to wait to be seated. Which indicate the food is so good that everyone lined up and its really true. 🫡
-  - name: "Daniel Tran"
-    rating: 2
-    comment: |
-      Visit: January 2026
-      
-      The food was not the greatest of quality. There was only a couple things that I enjoyed eating (specifically the steamed fish fillet, ginger beef, and peach shrimp) and some of the desserts. Otherwise, I didn't really feel too good after eating a couple of plates
-      
-      The service was really good though. The staff tended to the food often and was quick to clear plates off the tables and restock food
-      
-      Tons of space inside, and the price was decent at $29 for the buffet
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–5:00 PM"
 photos: ["/photos/the-pause-nails-1.jpg", "/photos/the-pause-nails-2.jpg", "/photos/the-pause-nails-3.jpg"]
 rating: 4.9
-review_count: 124
+review_count: 129
 price_range: "$$$"
 amenities:
 
@@ -28,6 +28,37 @@ tags: ["edmonton", "gel"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "JC Yu"
+    rating: 5
+    comment: |
+      I wanna say The Pause Nails isn't just another nails salon but it is at the same time, but with a glow up!
+      
+      The renovations that were done from the previous salon are so nice. The salon is so bright and sleek looking now. I love the clean and polished look like, accompanied by the lighting decor.
+      
+      I've visited twice now. Once for a new set of artificial nails and once for mother's day pedicures with my MIL. I had a great experience both times! It was truly very relaxing and it didn't feel rushed like at other places. The ladies working were all lovely and personable.
+      
+      One thing that i didn't think I would enjoy so much was the fact that they didn't install any tvs. Their music Playlist is really enjoyable and I just got to relax and read and hang out. It was a lovely experience and I can't wait to go back.
+      
+      Other key things
+      * prices are comparable to any other nail salon
+      salon
+      * they offer waxing and facials.
+      * have new and top of the line curating machines for your nails.
+      * standard massage chairs for pedicures
+      * Lots of nails colors
+      * online booking available
+  - name: "TheSmac72"
+    rating: 5
+    comment: |
+      Today was my first time visiting and I had the spa pedicure with shellac. Lan was excellent. She did an exceptional job on my severely neglected feet. My favourite part was the foot and leg massage and hot stone massage. It is a beautiful salon and I’m planning on returning soon to try the Pause pedicure.
+  - name: "Vince Estrada"
+    rating: 5
+    comment: |
+      Today I got my pedicure done for the first time and it was much better than I expected. The lady was very nice and made sure I was properly taken care of and did not rush the service at all
+  - name: "Maddy Lazo"
+    rating: 5
+    comment: |
+      Good service and sweet workers! and reasonable prices :) my fav is the shellac manicure !!!
   - name: "Kat Klassen"
     rating: 5
     comment: |
@@ -36,24 +67,4 @@ reviews:
       High end equipment and beautiful salon make your experience here feel so LUXE. They checked in many times along the way to make sure I was comfy and getting what i needed/wanted. I think this will be my new go-to salon!
       
       Try the pause pedicure! Didn’t feel rushed at all, they took their time with each aspect and gave me more moisturizing and massage than any pedicure I’ve ever had in the city.
-  - name: "Claire Williams"
-    rating: 5
-    comment: |
-      First time going. Very clean and professional environment, kind staff and amazing technique!! Will be back and will be recommending!!
-  - name: "S A"
-    rating: 5
-    comment: |
-      They were able to accommodate my last minute walk-in and all of the staff were welcoming and friendly which made the experience that much more pleasant! The prices are comparable to other places and the location, staff, cleanliness of the place puts The Pause Nail Salon above the others. Would definitely go back here for future services!
-  - name: "Delaney Mckerricher"
-    rating: 5
-    comment: |
-      Hands down the best nail salon I’ve ever been to. I’ve been here twice now, and both experiences were absolutely perfect. The staff are so friendly and kind, and they truly go above and beyond to make sure you’re comfortable and have everything you need.
-      
-      The quality of their work is impeccable, and the space itself stands out from any other nail salon I’ve visited. You can tell they really care about every detail.
-      
-      Thank you to Kim, Mikey, and the whole team for such an exceptional experience. I’ll definitely be back!
-  - name: "v mo"
-    rating: 5
-    comment: |
-      Great atmosphere and service!! Highly recommend. They do such a great job 👍🏽👍🏽
 ---

@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Spruce Grove"
 address: "8 McLeod Ave #106, Spruce Grove, AB T7X 3X3"
 rating: 4.8
-review_count: 302
+review_count: 303
 tier: "featured"
 phone: "(587) 286-1424"
 website: "https://www.thedutchoven.ca/"
@@ -37,14 +37,18 @@ reviews:
     rating: 5
     comment: |
       Well what a treat that was! We had to go to Spruce Grove for an appointment and were in need of a decent meal while we were there. It seemed that all we were going to find was fast food but we saw a listing for this little gem and scooched over, fingers crossed, hoping for the best. What a delight! The savory fragrance of smoked meat greeted us as soon as the door opened and the lady behind the counter was friendly and kind right off the bat. We were delighted to see several options that looked suitable and we ordered the chicken parm sandwich and the Yorkshire Brisket burnt ends. I impulsively added a soup because soup is my love language and I'm so glad I did! The tomato meatball soup was delicious!! It was thick, texturally pleasing and piping hot. The meatballs (clearly homemade) were tasty and tender and I ate every bite of the soup and kinda wanted to lick the bowl after. The chicken sandwich was hot, obviously homemade and fresh as well as super messy and so flavorful. My husband loved his Yorkshire and Brisket. He commented that the portion seemed small but then added that it was more filling than he expected and that it beat whatever he could have gotten at McDs for the same $$. Overall a fantastic experience, we're driving home today with full bellies and a new favorite spot to stop by on our next trip!
-  - name: "Nadine Jackson (Dini)"
-    rating: 5
-    comment: |
-      I had the fish tacos today, and they were delicious! And I'm so full .... I also had a dirty soda, the orange whip, and it's like a fizzy orange float. Can't wait to try some other menu items!
   - name: "Micah AB"
     rating: 5
     comment: |
       I love it here. The lady at the front is always incredibly kind, I ask her for recommendations sometimes and so far I’ve loved every single thing I’ve tried from here. I’ve had the warm potato salad, Montreal smoked meat sandwich, steak tacos, smash burger and a few of their dirty sodas. If you order for more than yourself the price can definitely stack up a bit but honestly, the quality of the food is so good I try not to even look at the total anymore haha.
+  - name: "Gabby Sebjanic"
+    rating: 5
+    comment: |
+      We booked The Dutch Oven for our wedding back in October, and we are still receiving compliments on the dinner! We booked the Platinum package for the brisket and it was phenomenal. Everything on the menu was fantastic, we had people going up for 4ths for the salmon, too! The staff even made sure to package everything up for us & help clean up our venue/dishes and the leftovers were just as great heated up for days afterwards. The Brussels sprouts & warm potato salad were also huge hits with everyone!
+      
+      Thank you for making our wedding so special and for the phenomenal meal & service.
+      
+      We've also tried out their sandwiches (brisket, Montreal, BLT [and I have to say, their home-done bacon is to die for] & side dishes from the store and couldn't be more impressed! Absolutely a hidden gem!
 hours:
   monday: "Closed"
   tuesday: "11:00 AM–8:00 PM"
