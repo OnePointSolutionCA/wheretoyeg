@@ -18,7 +18,7 @@ hours:
   sunday: "10:00 AM–8:00 PM"
 photos: ["/photos/blocs-climbing-1.jpg", "/photos/blocs-climbing-2.jpg", "/photos/blocs-climbing-3.jpg"]
 rating: 4.9
-review_count: 391
+review_count: 392
 price_range: "$$"
 amenities:
   - "Beginner Friendly"

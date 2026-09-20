@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "3210 82 St NW, Edmonton, AB T6K 3Y3"
 rating: 4.8
-review_count: 161
+review_count: 163
 tier: "featured"
 phone: "(780) 934-8188"
 website: "https://8stonepizza.ca/"
@@ -30,10 +30,6 @@ reviews:
       What’s not to love here?? Their pizza dough is AMAZING, the toppings are always fresh and good quality, the portions are just right, and the cost is super affordable!
       
       And that’s not even touching on their truly stellar customer service. The staff at 8 Stone pizza truly go above and beyond and that’s one of the reasons why we keep coming back!
-  - name: "Bobbie Nokohoo"
-    rating: 5
-    comment: |
-      The food is delicious it’s fast and what I ordered 5 pizzas it filled up 10 kids and 5 adults will be coming more often great price too. The other pizza where eaten fast their sweet sauce is delicious
   - name: "Amrit kamboj"
     rating: 5
     comment: |
@@ -48,12 +44,20 @@ reviews:
       My order was made fresh and only took 15 minutes.
       
       The store is really close so I’ll definitely be back!
+  - name: "Patrick Lam"
+    rating: 4
+    comment: |
+      Had a surprisingly great experience at 8 Stone Pizza today. We ordered a 12” pizza through TGTO, fully expecting the usual leftover slices or something that had been sitting around for hours — but instead, they gave us a freshly baked pepperoni pizza straight out of the oven. That genuinely caught us off guard in the best way possible.
+      
+      The staff were super friendly and generous, and you could really feel that they cared about the customer experience instead of just “getting rid of extras.” The pizza itself was hot, fresh, cheesy, and honestly much better than expected.
+      
+      In a world where some places treat TGTO customers like second-class customers, 8 Stone Pizza did the complete opposite. Definitely earned our respect and we’ll gladly support them again.
 hours:
   monday: "Closed"
   tuesday: "11:30 AM–12:00 AM"
   wednesday: "11:30 AM–12:00 AM"
   thursday: "11:30 AM–12:00 AM"
   friday: "11:30 AM–1:00 AM"
-  saturday: "11:30 AM–2:00 AM"
+  saturday: "11:30 AM–1:00 AM"
   sunday: "11:30 AM–12:00 AM"
 ---

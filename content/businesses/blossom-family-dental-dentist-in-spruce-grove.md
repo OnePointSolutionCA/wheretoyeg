@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Spruce Grove"
 address: "221C First Ave, Spruce Grove, AB T7X 3X2"
 rating: 4.8
-review_count: 744
+review_count: 759
 tier: "featured"
 phone: "(587) 907-8102"
 website: "https://www.blossomfamilydental.ca/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Website_URL"
@@ -35,12 +35,10 @@ reviews:
     rating: 5
     comment: |
       Very good service. Extremely fast easy to work with and honest. They assisted both me and wife on multiple appointments. Guilaine is a very honest and straightforward person. She is very helpful and very willing to work with you on anything you need. The billing to insurance is extremely easy and fast. Extremely recommend using blossom for all dental needs
-  - name: "Andy Taylor"
+  - name: "Christine De Guzman-Aquino"
     rating: 5
     comment: |
-      I had a great experience at Blossom Family Dental. The entire team has a smooth and efficient process that made my visit very comfortable. Ashwin, the dental assistant, did an excellent job explaining each step and keeping me informed about what was happening throughout the appointment.
-      
-      Dr. Ghuman was professional, patient, and took the time to address my anxiety and answer all of my questions. Their care and attention made this dental visit much easier than any previous experiences I’ve had. I truly appreciate the compassionate approach and highly recommend Blossom Family Dental.
+      I had a great experience at Blossom Dental Clinic! I got my Invisalign treatment here, and the entire process has been smooth from start to finish. The team is friendly, professional, and always takes the time to answer my questions and make sure I’m comfortable. The clinic is clean, welcoming, and well organized. I really appreciate the excellent care and attention I’ve received throughout my Invisalign journey. I highly recommend Blossom Dental Clinic to anyone looking for quality dental care and orthodontic treatment.😊
 hours:
   monday: "8:00 AM–8:00 PM"
   tuesday: "7:30 AM–5:30 PM"

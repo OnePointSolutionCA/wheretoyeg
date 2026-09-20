@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/arthur-murray-dance-studio-edmonton-1.jpg", "/photos/arthur-murray-dance-studio-edmonton-2.jpg", "/photos/arthur-murray-dance-studio-edmonton-3.jpg"]
 rating: 4.7
-review_count: 52
+review_count: 53
 price_range: "$$"
 amenities:
 
@@ -44,10 +44,6 @@ reviews:
     comment: |
       My husband and I took a private Dance lesson in October as a date night. Our instructor was Daniel and he made the class fun and brought a ton of energy, so much that we signed up for more lessons taking us till the end of the year. In January we bought 10 more classes. Every single class Daniel showcased his talent, coupled with his positive energy and made every class absolutely enjoyable.
       Highly recommend Daniel as an instructor! Thank you Daniel!
-  - name: "Brandon Metchooyeah"
-    rating: 5
-    comment: |
-      I, a middle aged man who has never danced in his entire life, can now ballroom dance. At least a little. I met my now Fiance here at Dance. And now, Thanks to Arthur Murray and their special guest, Snow Urban, they are choreographing our wedding dance. You get what you pay for. It's not cheap. But the experience is absolutely amazing.
   - name: "Kathryn Churcher"
     rating: 5
     comment: |
@@ -60,4 +56,8 @@ reviews:
       Our instructor, Chantalle, is so kind and patient. She makes sure we have a good grasp of the basic steps, then adds on different moves and options we can add in to style our dances more personally to us! Chantalle also took the time to get to know us and made sure we practiced dances we enjoyed.
       
       It has been a highlight of our week since November. The perfect date night. Thanks to Chantalle, we are now dancers for life💗 thank you so much!
+  - name: "Brandon Metchooyeah"
+    rating: 5
+    comment: |
+      I, a middle aged man who has never danced in his entire life, can now ballroom dance. At least a little. I met my now Fiance here at Dance. And now, Thanks to Arthur Murray and their special guest, Snow Urban, they are choreographing our wedding dance. You get what you pay for. It's not cheap. But the experience is absolutely amazing.
 ---

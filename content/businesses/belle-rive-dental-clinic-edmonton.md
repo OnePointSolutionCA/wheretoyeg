@@ -46,19 +46,18 @@ reviews:
       Belle Rive Dental also does a lot for the community, which is very important to me. It truly goes hand in hand with the team’s overall attitude and the genuine care they show both inside and outside the clinic.
       
       Overall, I highly recommend Belle Rive Dental Clinic. The entire team goes above and beyond to provide excellent care, and I’m very grateful to be their patient.
-  - name: "SR J"
-    rating: 5
-    comment: |
-      Dr Zak is very thoughtful, thorough and professional and explains everything in the scope of work to be performed and why, he takes the time to answer any questions or concerns you may have. I am very happy with the services provided. The assistants and staff are also very polite and courteous.
-      I would not have a problem recommending this clinic for anyone looking for good dental services.
-  - name: "Liz Bougie"
-    rating: 5
-    comment: |
-      Edited to add: they gave us a new patient welcome gift and letter! We feel very valued and well taken care of here. I really appreciated the online booking service! We were fortunate to be paired with Dr. Zak. Super friendly and professional and great with kids. Very happy with the facilities and service here!
   - name: "Janny Claassen"
     rating: 5
     comment: |
       We couldn’t be more thankful to have met and received treatment from doctor Zack. He is the most caring and professional doctor we have ever met in Edmonton. The staff are also exceptional. We are going to be recommending this dental clinic to a lot of people.
+  - name: "Liz Bougie"
+    rating: 5
+    comment: |
+      Edited to add: they gave us a new patient welcome gift and letter! We feel very valued and well taken care of here. I really appreciated the online booking service! We were fortunate to be paired with Dr. Zak. Super friendly and professional and great with kids. Very happy with the facilities and service here!
+  - name: "Phoenix Rampart"
+    rating: 5
+    comment: |
+      Dr. Karolina Bieniak was just awesome when I had an emergency apppointment. She sorted out the problem in minutes. Dr. Zak is also an excellent and gentle man. He is very kind and thoughtful and takes the time to listen. He does not rush you out the door. Mandy Wong is the best Dental Hygienist I have ever had. My wife Flora just loved her. I highly recommend Belle Rive Dental Clinc. It is a first class professional Dental Clinic.
 hours:
   monday: "9:00 AM–7:00 PM"
   tuesday: "9:00 AM–7:00 PM"

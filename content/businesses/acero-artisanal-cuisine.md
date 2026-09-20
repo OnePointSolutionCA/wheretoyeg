@@ -14,6 +14,16 @@ google_maps: "https://maps.google.com/?cid=18345162009407744361&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/acero-artisanal-cuisine.jpg"
 reviews:
+  - name: "Sarah Van"
+    rating: 5
+    comment: |
+      Italian done right. ✔️ Don't let the outside fool you, this is a cute step into a modern vibe with some of the tastiest Italian food you will get.
+      The bruchetta was delicious sweet with hints of fig and goat cheese. We polished it off quickly.
+      Our mains arrived. We had veal in a gravy that was almost a stroganoff. Along with the lobster in a bisque that blew me away with all the flavors. A layer of parm over the sauce gave it so much pizzazz.
+      We were completely full with no room for dessert unfortunately,  so we will have to come back.
+      The waitress recommended a reservation but the restaurant was pretty quiet for us with only a few other tables.
+      The music was odd, some cover band? I was expecting Italian music.
+      Great experience though, visit them and enjoy the best Italian food in Sherwood Park.
   - name: "Meagan Confurius"
     rating: 5
     comment: |
@@ -36,10 +46,6 @@ reviews:
     rating: 4
     comment: |
       Almost 5 stars, slight room for improvement.  Positives; lasagne was excellent, cocktails made to impress.  Mussels, they spiced to our liking, best sauce weve had! Creme brulee, house made, delicious, nice touch with the chocolate and fruit.  Service was great!!! 5 stars!! Negatives; not much, was slightly disappointed with my spiral seafood pasta.  I did not eat much of it.  I maybe need to try other options but very impressive, would definitely go back.  Keep up the great work 😋
-  - name: "Claire Kaiser"
-    rating: 5
-    comment: |
-      Lovely Italian restaurant in Sherwood Park! Food was great - large enough menu but not overwhelming. Service was friendly but somewhat slow (it was a Saturday evening and busy). We enjoyed the risottos and goat cheese bruschetta. Would recommend a reservation for weekends as it is a smaller restaurant and people were told the wait was up to an hour when we went.
   - name: "Mich Bolinas"
     rating: 5
     comment: |

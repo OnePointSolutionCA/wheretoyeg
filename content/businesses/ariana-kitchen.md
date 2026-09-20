@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/ariana-kitchen-1.jpg", "/photos/ariana-kitchen-2.jpg", "/photos/ariana-kitchen-3.jpg"]
 rating: 4.7
-review_count: 242
+review_count: 255
 price_range: "$$"
 amenities:
   - "Halal"
@@ -39,10 +39,14 @@ reviews:
       Atmosphere-wise, the place is bright and clean and there was even fresh flowers at each table. The only reason I could not give five stars for this category was due to lack of toilet paper in the washrooms. I did tell a staff member and was assured it would resupplied right away. (To be clear, the washrooms were very clean.)
       
       Overall, this was an enjoyable visit. Good value/prices and great food. We are already planning our next visit!
-  - name: "Reema Gajjar"
+  - name: "p c"
     rating: 4
     comment: |
-      Just had supper at Ariana kitchen and absolutely enjoyed the whole experience. The food is marvelous, the atmosphere is amazing and we had the best sever, Saima. She was very patient to explain indetail all the food we ordered and very sweet. Special mention for the baklava at this place and we had Afghan tea for the very first time and it was delicious. Definitely recommend. The only drawback is finding the host at the front desk to sit you down and very difficult getting a table on weekend without reservations.
+      Food was really good and service was fast and friendly. We ordered the Family Platter and honestly the quantity was way too much - great value.
+      
+      Only issue was the lamb was undercooked, which was disappointing. Everything else was delicious.
+      
+      We would still come back and would recommend, but would ask them to cook the lamb properly next time.
   - name: "Haris Azimi"
     rating: 5
     comment: |

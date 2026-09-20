@@ -11,16 +11,16 @@ phone: "(587) 298-8889"
 website: "https://bahubaliedmonton.ca/edmonton"
 google_maps_url: "https://maps.google.com/?cid=10314075625033312450&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 PM–11:00 PM"
+  monday: "12:00 PM–10:30 PM"
   tuesday: "12:00 PM–10:30 PM"
   wednesday: "12:00 PM–10:30 PM"
   thursday: "12:00 PM–10:30 PM"
   friday: "12:00 PM–11:00 PM"
   saturday: "12:00 PM–11:00 PM"
-  sunday: "12:00 PM–11:00 PM"
+  sunday: "12:00 PM–10:30 PM"
 photos: ["/photos/bahubali-indian-cuisine-edmonton-1.jpg", "/photos/bahubali-indian-cuisine-edmonton-2.jpg", "/photos/bahubali-indian-cuisine-edmonton-3.jpg"]
 rating: 4.8
-review_count: 5423
+review_count: 5452
 price_range: "$$"
 amenities:
   - "Halal"

@@ -45,6 +45,10 @@ reviews:
       I had such a great experience here! The service was amazing from start to finish—super friendly, welcoming, and professional. They were very accommodating with availability, which made booking so easy and stress-free.
       
       My appointment was quick but still very thorough, and the results turned out beautiful. You can really tell they care about their clients and take pride in their work. Overall, such a nice place with great service—I’ll definitely be coming back!
+  - name: "Kate Van Driel"
+    rating: 5
+    comment: |
+      Just got a lash lift & tint at Bizou Lash Studio and it’s literally the best lash lift & tint I’ve ever had! I didn’t know my lashes could look this amazing! Wonderful staff and amazing customer service, you NEED to go here! So thoroughly impressed :)
   - name: "Fazila FORD"
     rating: 5
     comment: |
@@ -53,8 +57,4 @@ reviews:
     rating: 5
     comment: |
       I have been getting my lash extensions with Jankie for 2 years now and would give her 10 stars if I could. She trained in London and gives me a natural but elegant look that is always consistent. I see her every 3 weeks but could push it to 6 weeks because my retention is so fantastic. Plus she is so gentle that I fall asleep every time because I am so relaxed.  I would recommend her to anyone and everyone!!
-  - name: "Kate Van Driel"
-    rating: 5
-    comment: |
-      Just got a lash lift & tint at Bizou Lash Studio and it’s literally the best lash lift & tint I’ve ever had! I didn’t know my lashes could look this amazing! Wonderful staff and amazing customer service, you NEED to go here! So thoroughly impressed :)
 ---

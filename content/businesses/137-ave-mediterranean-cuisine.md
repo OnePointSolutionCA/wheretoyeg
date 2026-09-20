@@ -31,6 +31,11 @@ reviews:
       I highly recommend giving it a try, and more importantly, let's show up for our local restaurant! Small businesses like this one are the heart of our community, they deserve all the love and support we can give.
       
       Can't wait to come back!
+  - name: "Suesan"
+    rating: 5
+    comment: |
+      fresh nice food very tasty Lebanese Mediterranean cuisine.
+      A wide selection of burgers and fries. Shawarma kebab Lamchops everything you crave you’ll find it here, even steak 🥩.  they have a really good stirfry and ribeye steak. Nice quiet atmosphere
   - name: "Riyadh Bahar"
     rating: 5
     comment: |
@@ -41,15 +46,13 @@ reviews:
       Order the rib eye platter when you make your way over next time!
       
       Thank you Esraa for the amazing service!!
-  - name: "Suesan"
+  - name: "mursi jallad"
     rating: 5
     comment: |
-      fresh nice food very tasty Lebanese Mediterranean cuisine.
-      A wide selection of burgers and fries. Shawarma kebab Lamchops everything you crave you’ll find it here, even steak 🥩.  they have a really good stirfry and ribeye steak. Nice quiet atmosphere
-  - name: "Zarina Gainulina"
-    rating: 5
-    comment: |
-      It was my first time here. We ordered a family set and really enjoyed it — the food was very delicious. The staff were very friendly and generous. I will definitely come back here
+      This resutrant is amazing. I got Mansaf from them and I invited my  friend to try Mansaf,  and it was an absolute revelation. The combination of tender lamb, fluffy rice, and the creamy, tangy jameed yogurt sauce created a harmony of flavors that’s both comforting and bold. The rich aroma filled the room long before the first bite, and by the end, my friend was completely amazed by how unique and deeply satisfying it was.
+      This restaurant didn't give food to eat, it gave me real Mansaf. It wasn’t just a meal; it’s an wonderfull experience.
+      
+      Thank you 😀😋
 hours:
   monday: "10:00 AM–9:00 PM"
   tuesday: "10:00 AM–9:00 PM"

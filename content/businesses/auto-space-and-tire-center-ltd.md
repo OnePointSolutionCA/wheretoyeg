@@ -23,14 +23,10 @@ reviews:
       I've been working on vehicles for over 30 years, so I know what to look for in a good mechanic and a shop you can actually trust. After trying several alignment and tire shops around Edmonton, I can honestly say this is the best one I've been to.
       The customer service is outstanding, and everyone there is friendly, honest, and professional, something that's getting harder and harder to find these days.... They take the time to explain everything thoroughly, never try to upsell you on things you don't need, and make sure you're comfortable with the work being done. The waiting area is clean, comfortable, and has a relaxed atmosphere, which makes the whole experience even better.
       If I could give this shop 10 stars out of 5, I absolutely would. I highly recommend them to anyone looking for an alignment, tires, or honest automotive service. This is the kind of business that deserves your support, and I'll definitely be coming back.
-  - name: "Carnivorous-Veteran From-Alberta"
+  - name: "Corin Hoskins"
     rating: 5
     comment: |
-      Was surprised to see entirely different staff. At first I assumed (incorrectly) that Vik was either on holidays or hired new staff. But Nav explained the changes that had been made.
-      
-      Now, having said that, the service was just as good as I've had in the previous visits. And still quite reasonably priced. Had ordered a new set of tires and an oil change a couple days ago and had everything done this morning. Was back on the road in a very reasonable amount of time.
-      
-      I feel confident in my continued patronage and will still recommend Auto Space to folks needing their vehicles serviced. Top shelf service.
+      My son had some previous "Work" done at another shop, while i was away at work. He mentioned after the work that his wheels were screeching going around corners and his tires were wearing quickly. Booked him in over at Auto space and paid ahead of time, When Nav took a look at his truck he found numerous issues that prevented him from being able to do the alignment, He showed my son everything and explained what needed to be done. He promptly refunded me and explained why he couldnt do it. Finding an Honest, Straightforward and helpful technician like this is rare these days and i say that as a heavy duty tech myself. If you need some work done Auto Space is the place to go, I highly recommend them as a technician myself its refreshing to find someone else that actually cares about his work and customers.
   - name: "Joe Bogovics"
     rating: 5
     comment: |

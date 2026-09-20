@@ -31,15 +31,15 @@ reviews:
     rating: 5
     comment: |
       Shout out to Tyler and the crew for the awesome work they do! I’ve been trying to find a good mechanic in Spruce and I can’t recommend these guys enough! Beatties does a great job at a fair price. If you need any work done definitely reach out to them.
+  - name: "Musa Rasheed"
+    rating: 5
+    comment: |
+      These guys really saved my butt. Super reasonable price and they went above and beyond, staying 3 hours past closing just to get the job done on time before a move. They really know their stuff, and I’m glad they managed to get my civic in working order, and are also really chill as well. Big thanks to Tyler and Keith!!
   - name: "Konica Noeum"
     rating: 5
     comment: |
       Beattie’s Automotive is great! It’s been pretty stressful for my partner and I when we found out our vehicle had to get a major repair. They are understanding, honest and overall a great team. They found issues about my vehicle that other shops didn’t diagnose.
       I am so thankful that we found Beattie’s.
-  - name: "Musa Rasheed"
-    rating: 5
-    comment: |
-      These guys really saved my butt. Super reasonable price and they went above and beyond, staying 3 hours past closing just to get the job done on time before a move. They really know their stuff, and I’m glad they managed to get my civic in working order, and are also really chill as well. Big thanks to Tyler and Keith!!
 hours:
   monday: "8:00 AM–5:30 PM"
   tuesday: "8:00 AM–5:30 PM"

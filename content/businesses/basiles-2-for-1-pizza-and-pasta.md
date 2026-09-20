@@ -14,6 +14,37 @@ google_maps: "https://maps.google.com/?cid=7402517346429335740&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/basiles-2-for-1-pizza-and-pasta.jpg"
 reviews:
+  - name: "Jackson"
+    rating: 5
+    comment: |
+      Great pizzas and home made pastas. My favourite is dirty bird pizza and their frutti Di mare pasta. Pizzas are cooked perfectly with lots of toppings and cheese. And really appreciate they use old school stone deck ovens and not the conveyor belt ovens. Can definitely taste the difference!
+  - name: "Theo Reviews"
+    rating: 1
+    comment: |
+      2 for 1 pizza?
+      I just paid 45$ for 2 pizzas
+      Explicitly asked for the 2 for 1 deal on the phone
+      Guy says to me “a lot of customers complained about buying 1 pizza”
+      What kind of explanation is that.
+      To me, 2 pizzas is 90$ here?  based on your whole name and what I just paid for.
+      
+      Not to mention the issues with the order
+      I said and corrected you but now both pizzas have jalapeños instead of extra on one
+      
+      This is why even piazza 73 is better
+      You get what you want with a listed price
+      Accuracy is all we ask
+      
+      Never again.
+      
+      To your reply, you have multiple pictures of menus, so that’s obviously an issue. I’m not going to websites to order a pizza.
+      
+      You changed your menu and prices to many times I’m assuming and now you’re price gouging the people.
+      The menu I ordered from said my pizza was 33$.
+      It’s not far from fair in the end with the extra toppings we got but your explanation and all this false menus.. it’s all misleading and untrustworthy.
+      We need transparency and affordability. There would be line ups there
+      Instead you’re outside sweeping.. wondering.
+      Well I’m here to help you wonder less. This is my opinion and obviously I’m not alone based off your reaction when I asked you in person about the pricing.
   - name: "Colten"
     rating: 5
     comment: |
@@ -22,24 +53,10 @@ reviews:
     rating: 5
     comment: |
       Food is always consistently delicious here. We love the pizzas, the pasta and recently tried the sandwiches and tiramisu and they were also so good! The sandwiches were made with fresh focaccia bread -YUM! The service is always excellent too!
-  - name: "The Truth"
-    rating: 1
-    comment: |
-      The pizza just isn’t good anymore. They changed almost everything that was good about it when the new owners took over. I've given it a few chances because we like that kind of pizza but thjs just isnt good. The crust is too thick,the sauce tastes weird, and the toppings honestly have no taste.
-      
-      It's sad because this used to be my favourite pizza, we used to come from Edmonton to get it.
-      
-      I'd get red swan over this anytime. That actually has flavour.
-  - name: "Jully Maison"
+  - name: "Danette L"
     rating: 5
     comment: |
-      I live on the outskirts of Beaumont and was honestly surprised that Basil’s 2 for 1 still delivered to my area. Even better, the pizza arrived hot and fresh! 🍕
-      
-      I ordered 2 mediums  Basil’s Special and  Zorba and both were amazing. The toppings were over loaded, the crust was perfectly baked, and the flavours were really good. Tbh 2 slices and we were already full, definitely not making anything tomorrow.
-  - name: "Dorothy Lamb"
-    rating: 5
-    comment: |
-      Last night we were  going to order from  Boston Pizza … but read a local groups post that Basile’s was listed #1 and Boston Pizza last … so why not give them a call … ordered 2 small , one all meat and an Italian… must say nice to buy one get one free any size $29 … and now onto the pizza .. pick up was 30 minutes.. we picked up as they were just coming out of oven … brought it home .. and must say really enjoyed the sauce in both pizzas, lots of fresh mushrooms and peppers… lots of meats very tasty and the right amount of cheese … all in all we really enjoyed both pizza .. will be our new go to pizza!!
+      Basile’s 2 for 1 Pizza is hands down the best pizza in town! 🍕 The quality ingredients make such a difference—you actually eat fewer slices because it’s so filling and satisfying. Fresh, delicious, and packed with flavour. The staff is friendly too. Highly recommend!
 hours:
   monday: "Closed"
   tuesday: "1:00 PM–9:00 PM"

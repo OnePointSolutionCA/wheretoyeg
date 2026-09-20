@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Windermere"
 address: "6070 Andrews Way SW, Edmonton, AB T6W 3S9"
 rating: 4.2
-review_count: 51
+review_count: 53
 tier: "featured"
 phone: "(780) 951-2952"
 website: "http://www.alwayscoffeeco.com/"
@@ -51,10 +51,10 @@ reviews:
       The cherry matcha was very pretty and definitely an instagram worthy drink if that’s what you are looking for. The cherry itself was really really good, exactly what I was hoping for. I was a little disappointed in the matcha itself though as it was watery. Definitely not the worst matcha I’ve had in the area but not the best either and at $9 i would hope that it would compete with Common Ground’s matcha.
       
       I wanted to love this place - the $9 for the matcha is fine, a little pricey but okay. But I can’t get over the $8 for a dempsters bagel. That definitely ruined the vibe of the visit for me.
-  - name: "Glenn Elle"
+  - name: "Kyla Pastushuk"
     rating: 5
     comment: |
-      It’s my first time here and I was able to see this because I was just in the area. I like the white chocolate mocha. Great atmosphere, bright, clean and just nice vibe!
+      Tried this place today, so convenient to just pop out of work and have a great coffee from a local owned place
 hours:
   monday: "7:00 AM–7:00 PM"
   tuesday: "7:00 AM–7:00 PM"

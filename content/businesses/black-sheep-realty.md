@@ -28,10 +28,6 @@ tags: ["edmonton", "real-estate"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Danica Plumb"
-    rating: 5
-    comment: |
-      Thomas Harrington and his team at Black Sheep Realty were fantastic to work with. Thomas was professional, easy to communicate with, and always available when we needed him. His team did an excellent job, and our house sold quickly. They made the entire process smooth and stress-free. We would highly recommend Thomas and his team to anyone buying or selling a home
   - name: "Daniel Viveiros"
     rating: 5
     comment: |
@@ -48,12 +44,12 @@ reviews:
     rating: 5
     comment: |
       As a first time home buyer I had no idea what to expect. Zach Koziak spent so much time with me easing me into the home buying process. He never discriminated against my budget and was always willing and enthusiastic about seeing the homes with me. His education in contracting helped him immensely in educating me in a houses flaws and strengths too. He was very thorough and careful when we were in the homes always making sure to be respectful of someone was living there.  As a first time home buyer I am forever grateful for Zach as he made the experience enjoyable and I learned a lot in the process!
-  - name: "Hsiaoying Tsai"
+  - name: "Danica Plumb"
     rating: 5
     comment: |
-      I highly recommend Brice Laidler at Black Sheep Realty. After interviewing several realtors, Brice stood out for his professionalism, knowledge, and dedication.
-      
-      What impressed me most was the amount of research he put into pricing my property. He carefully compared and studied similar properties in the area to determine the best listing price and sales strategy. He was also able to answer all of my questions and concerns clearly and thoroughly, which gave me confidence throughout the process.
-      
-      Brice is responsive, knowledgeable, and genuinely committed to achieving the best results for his clients. I would not hesitate to recommend him to anyone looking to buy or sell a home. Melanie
+      Thomas Harrington and his team at Black Sheep Realty were fantastic to work with. Thomas was professional, easy to communicate with, and always available when we needed him. His team did an excellent job, and our house sold quickly. They made the entire process smooth and stress-free. We would highly recommend Thomas and his team to anyone buying or selling a home
+  - name: "Jamey McDonald"
+    rating: 5
+    comment: |
+      Oh my goodness!  Our experience with Black Sheep Realty was amazing.  Amy Williams was our agent and was on top of the project from the beginning.  She helped us find the right price, gave good advice about homeowner upgrades to get a good return on the sale, and then handled all the negotiations with the ultimate buyer.  She was cool calm and collected all the way.  I highly recommend them.  J & B McDonald
 ---

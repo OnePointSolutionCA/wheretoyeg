@@ -30,27 +30,32 @@ tags: ["edmonton", "bubble-tea"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Martin Sawicki"
+    rating: 4
+    comment: |
+      Love me some Vietnamese egg coffee. Highly recommend, as the drinks are very tasty, and the sugar levels can be adjusted to suit your needs or preferences. Once I've tried a few more of the drinks, I'm sure I'll be back to give this place the full 5 stars it deserves.
   - name: "Selah Lutz"
     rating: 5
     comment: |
       Great spot for matcha on the go! Sweet umami matcha with a bold flavours and ceremonial grade matcha powder! A medium matcha was  7.30$ and I would say totally worth the buy for picky matcha drinkers!
-  - name: "Kris Jensen"
-    rating: 2
+  - name: "S T"
+    rating: 5
     comment: |
-      i was barely greeted when i walked up to the counter. the asian girl with black hair at the till just stood there with a blank stare— no hi or a simple “what can i get for you today?” (also, she made zero effort to get me or my family’s attention/ call out our drinks. she just left them on the counter until i realized myself they were ready.) i had come here previously and i got the strawberry cheesecake and i loved it, specifically the strawberry milk base. this time i ordered the strawberry milk alone with sago and was extremely disappointed. it was very obvious it wasn’t fresh strawberry (as i expected), however i could already tell just by looking from afar that i wouldn’t enjoy it. the drink had an almost bright neon pink colour, and tasted EXTREMELY artificial and sweet to the point where i could only take 3 sips and had to toss it. not sure if perhaps i lucked out and this batch was undercooked or sitting out for too long, but the sago tasted hard and old. i’ve tried other drinks here and they were fantastic, but i don’t recommend the fruit milks. overall id still come back again but i do think certain employees should go over basic customer service manners.
-      **also, i found it odd how employees here are allowed to wear long hair down? maybe i’m just old fashioned lol but i’ve never seen that in a food/drink workplace before. i find it slightly unsanitary 🤷‍♀️
+      A new hidden gem! Great customer service, huge variety of drinks to choose from, cozy and spacious atmosphere. We ordered a  Hokkaido milk tea, strawberry matcha latte, and a coconut matcha latte- all three drinks were DIVINE! Great spot, love the little details
+      
+      I had to add to my review because I recently tried their mango float, pandan mango sticky rice, and white Vietnamese iced coffee and I am obsessed, the best drinks I’ve had!
+      
+      UPDATE: I tried their ube banana pudding pint and banana bread matcha and both were 10/10, so delicious
   - name: "Allora Esse"
     rating: 5
     comment: |
       It wasn’t busy when I went. I had a nice calm environment along with calm music. Easy to be able to talk to someone. I haven’t tried their coffee, but they serve Nguyen coffee.
       
       I had their Matcha Pandan and their Banana Hojicha latte. I got both iced. The banana is a fake banana flavor, but I like it. The Pandan flavour was awesome. I wish I could get an entire drink with just that flavor. It did go well with the matcha but the Pandan foam was also delicious on its own.
-  - name: "Abrar Islam"
-    rating: 4
+  - name: "Myfoodcravingsdiary"
+    rating: 5
     comment: |
-      Nicely designed cafe with good seating. The matcha flavours are good and not too sweet. Nice spot to sit and chill.
-  - name: "Martin Sawicki"
-    rating: 4
-    comment: |
-      Love me some Vietnamese egg coffee. Highly recommend, as the drinks are very tasty, and the sugar levels can be adjusted to suit your needs or preferences. Once I've tried a few more of the drinks, I'm sure I'll be back to give this place the full 5 stars it deserves.
+      Recently discovered this Vietnamese and Filipino boba cafe and loved it! They have a variety of boba flavours including lotus biscoff flavour (pictured on the right). They also have variety of Vietnamese coffees and matcha! I got the taro coconut boba with ube walling. The coconut flavour overpowered the drink a bit but overall, was still good.
+      
+      Also tried the Pandan Matcha and Strawberry Matcha with Strawberry Milk and Boba. Both drinks were good but I did prefer the Pandan Matcha! Their Pandan series is only available for a limited time so go get it while you can!
 ---

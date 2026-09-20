@@ -47,8 +47,10 @@ reviews:
     rating: 5
     comment: |
       Basti’s  Kitchen serves some of the best, most authentic Filipino food around. The flavors are spot-on, the portions are generous, and the service is always warm and welcoming. If you want a real, delicious taste of home, this is my Highly recommend.
-  - name: "marie natalaray"
+  - name: "Wilson A"
     rating: 5
     comment: |
-      I have ordered food trays for Christmas and parties. The food is always very good, and our guests love it
+      ⭐⭐⭐⭐⭐
+      
+      Great food, generous portions, and friendly service. Everything was fresh and delicious. Highly recommended! 😊
 ---

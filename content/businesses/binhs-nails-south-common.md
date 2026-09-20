@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/binhs-nails-south-common-1.jpg", "/photos/binhs-nails-south-common-2.jpg", "/photos/binhs-nails-south-common-3.jpg"]
 rating: 4.6
-review_count: 432
+review_count: 433
 price_range: "$$"
 amenities:
 
@@ -28,26 +28,25 @@ tags: ["edmonton", "gel"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "H K"
-    rating: 5
-    comment: |
-      I’ve been coming to Binh Nails for about 4 years and always have a great experience. Paul is very talented and takes his time to make sure my nails look perfect. The salon is clean, the staff are friendly, and the service is always consistent. Definitely my go-to nail salon in Edmonton.
   - name: "Pretty Nikki"
     rating: 5
     comment: |
       Back at it again!!! New year new nails!!!!
       And in love again!!! 1 I called/walked in NYE and they gladly accepted me!!! I showed my tech an IG pic of what I wanted and she slayed it better than the image!!! She even found the perfect base colour that complimented my skin tone!!!! Everyone is absolutely drooling over my nails since new years!!!!
-  - name: "jess"
-    rating: 5
-    comment: |
-      I’ve been coming here on and off for years, the nail techs are always friendly, nail quality is great, and my designs I choose are always executed very well. They were so friendly today when I brought my 7 year old in for her first set of acrylics for her birthday! Can’t recommend them enough and my daughter can’t wait to come back.
   - name: "Deborah Uwihaye"
     rating: 5
     comment: |
       I love getting my nails done at Binh’s nails South Common, they are so friendly and they do the best job. Anna made sure to do my nails; manicure and pedicure exactly how i wanted With no rush and she did the best shape for me as i asked. Get your nails done by Anna you will love it!!!! Thank you Anna for being so kind:)
-  - name: "Reet Kaur"
+  - name: "H K"
     rating: 5
     comment: |
-      Alex and Van did my nails, they were amazing.
-      I got my nails done yesterday from other place and they messed it all up. But Alex and Van did such a good job in fixing those and as well as did the design so pretty. Definitely recommend.
+      I’ve been coming to Binh Nails for about 4 years and always have a great experience. Paul is very talented and takes his time to make sure my nails look perfect. The salon is clean, the staff are friendly, and the service is always consistent. Definitely my go-to nail salon in Edmonton.
+  - name: "julian kapicki"
+    rating: 4
+    comment: |
+      All the staff were so friendly, had some good laughs and conversation. Very respectful. Helped me put socks on and they gave a really good massage as well.
+  - name: "jess"
+    rating: 5
+    comment: |
+      I’ve been coming here on and off for years, the nail techs are always friendly, nail quality is great, and my designs I choose are always executed very well. They were so friendly today when I brought my 7 year old in for her first set of acrylics for her birthday! Can’t recommend them enough and my daughter can’t wait to come back.
 ---

@@ -22,16 +22,6 @@ reviews:
     rating: 5
     comment: |
       I've used their service twice now in the last couple of months to urgently repair flat tires.  Aron was always prompt, professional and a pleasure to talk to.  The customer service is excellent and the quality of the work is great.  No complaints at all and will call again if I need help in the future. Definitely recommend their service!
-  - name: "My name Is"
-    rating: 1
-    comment: |
-      I called today to ask if they could change my tires. They said they could do it at 8:30 PM, and I agreed. They started texting me, and I replied to every message. Then I asked them if they could tell me the price, because they mentioned that the shop was closed for repairs. They didn’t answer.
-      
-      At 7:15 PM I texted them again. At 7:55 PM I called to ask if I should still wait for them. The man answered very rudely: “No, because you didn’t reply to me. You can’t do that. I’m already going to another client.”
-      
-      But I did reply — 40 minutes before I called. He basically blamed me and refused the service. Very unprofessional and disrespectful. I do not recommend them at all. They don’t care about customers.
-      
-      The man could have simply said, “Sorry, I missed your message and thought you changed your mind,” and I would have understood. Instead, he was rude and made it seem like it was my fault, even though it wasn’t.
   - name: "Mehrdad Yousefpoori-Naeim"
     rating: 2
     comment: |
@@ -40,6 +30,11 @@ reviews:
     rating: 5
     comment: |
       Good service, my car is 750li, battery dead for 5 month. Two towing company can not boost it. This guy got my car started. He have multiple starter. My car have two battery. That is really helpful
+  - name: "bhuvan kalia"
+    rating: 1
+    comment: |
+      Scam Alert – Beware!
+      This guy showed up for a roadside service but didn’t even put on a spare tire. He was unprofessional, rude, and completely unprepared—he didn’t even have a cutter to remove a wire from the tire. Then, he had the audacity to take my plates and demand payment without completing the job. Stay away from this scammer!
 hours:
   monday: "9:00 AM–2:00 AM"
   tuesday: "9:00 AM–2:00 AM"

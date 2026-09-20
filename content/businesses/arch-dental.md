@@ -24,22 +24,18 @@ reviews:
     rating: 5
     comment: |
       I was referred here for my dental implant. From the very first appointment, the entire team was kind, professional, and made me feel completely at ease. They took the time to explain everything thoroughly and answered all of my questions, which really helped ease my nerves. The procedure itself went smoothly  and I felt well cared for every step of the way. I would highly recommend this clinic to anyone considering dental implants.
-  - name: "olivia wright"
+  - name: "Darlene Bitz"
     rating: 5
     comment: |
-      10/10 experience.
-      I got my first filling done with Dr. Elliott and I had a great experience. He was kind, explained everything in great detail and understood my fear of the dentist. I would definitely recommend him.
-      The dental assistant Hailey was great to have in the room. She was gentle and helped me with my anxiety.
-      The admin Robin, I really enjoyed my conversation with her before and after the procedure. She calmed my nerves as well.
-      I would definitely recommend arch dental to anyone with fears of the dentist or anyone just needing a procedure done
+      I can’t say enough good things about Arch Dental. I went in for a cleaning and exam, and the entire experience was smooth, gentle, and genuinely reassuring. Everyone there is kind, patient, and incredibly attentive. Dr. Elliott took the time to explain everything clearly and made the whole appointment surprisingly easy. I’m genuinely grateful to have found a clinic that treats patients with such exceptional care.
+  - name: "Viktoriia Mykhailenko"
+    rating: 5
+    comment: |
+      I had a great experience with Dr. Elliott and the team at Arch Dental. I developed some severe pain after my tooth extraction, and Dr. Elliott was very responsive and saw me promptly to help treat it. He was kind, professional, and gave me clear instructions for my recovery. I really appreciate the prompt and caring service!
   - name: "amanda laluk"
     rating: 5
     comment: |
       I am thankful that Arch Dental was able to get me booked in quickly and have treatment completed the same day. Staff are friendly and the office is clean. Dr Elliott was efficient and professional.
-  - name: "Meghan O'Neill"
-    rating: 5
-    comment: |
-      Very happy I chose Dr Parmar as my new dentist. She is excellent. Calm and capable. The office support staff are lovely and everything is well organized.
 hours:
   monday: "9:00 AM–3:00 PM"
   tuesday: "10:00 AM–5:00 PM"

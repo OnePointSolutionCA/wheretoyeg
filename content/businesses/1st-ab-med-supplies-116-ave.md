@@ -20,8 +20,8 @@ hours:
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/1st-ab-med-supplies-116-ave-1.jpg"]
-rating: 4.3
-review_count: 12
+rating: 4.4
+review_count: 13
 price_range: "$$"
 amenities:
   - "In-Store Shopping"
@@ -52,12 +52,12 @@ reviews:
     rating: 5
     comment: |
       I had a great experience with 1st AB Med Supplies. The staff were friendly, knowledgeable, and took the time to answer all of my questions.They made the process easy and helped me find exactly what I needed
-  - name: "A"
-    rating: 5
-    comment: |
-      I came across 1st AB med supplies booth during a health conference and is impressive with their friendliness and thorough knowledge re medical supplies. And then I went and visiting its store located on 150 street and 116 ave Edmonton. I was fully satisfied with my visit . I was greeted by Noor, she is absolutely pleasant and approachable . I have the opportunity to browse around the store and notice there are a lot of medical supplies and equipment to choose from . Include compression fittings, incontinence products and ostomy support , mobility and many other medical equipment , with AADL assessment available etc . I feel comfortable to browse around and any of my medical supply related questions are clearly and patiently explained to me . I shop for compression stockings and I find the price is very reasonable and competitive with excellent service . I highly recommend this place for medical related supplies needs.  And I will definitely visit and shop here again .
   - name: "Jordan Poole"
     rating: 5
     comment: |
       I was Sent over from the main location med supplies and was met with nothing but great service. They went above and beyond to help me and I recommend them to anyone.
+  - name: "A"
+    rating: 5
+    comment: |
+      I came across 1st AB med supplies booth during a health conference and is impressive with their friendliness and thorough knowledge re medical supplies. And then I went and visiting its store located on 150 street and 116 ave Edmonton. I was fully satisfied with my visit . I was greeted by Noor, she is absolutely pleasant and approachable . I have the opportunity to browse around the store and notice there are a lot of medical supplies and equipment to choose from . Include compression fittings, incontinence products and ostomy support , mobility and many other medical equipment , with AADL assessment available etc . I feel comfortable to browse around and any of my medical supply related questions are clearly and patiently explained to me . I shop for compression stockings and I find the price is very reasonable and competitive with excellent service . I highly recommend this place for medical related supplies needs.  And I will definitely visit and shop here again .
 ---

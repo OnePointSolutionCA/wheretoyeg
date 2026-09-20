@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/bb2-korean-bbq-buffet-1.jpg", "/photos/bb2-korean-bbq-buffet-2.jpg", "/photos/bb2-korean-bbq-buffet-3.jpg"]
 rating: 4.4
-review_count: 361
+review_count: 362
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,12 +30,20 @@ tags: ["edmonton", "korean-bbq"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Marco Luciano"
-    rating: 4
+  - name: "The Tasty Palate"
+    rating: 5
     comment: |
-      B2B Korean BBQ at West Edmonton Mall is legit. Tons of meat choices with large, fresh cuts and different marinades that keep things interesting. They've also got a good selection of fresh seafood if that's your thing. My go-to at any Korean BBQ spot is always pork belly, and they did not disappoint — perfectly thick, crispy, and caramelized on the grill. The only downside? Desserts are pretty lacking. Not much to choose from. This is what I gave 4 stars. But honestly, a Melona popsicle bar at the end filled that gap just fine.
+      I’ve been to a lot of Korean BBQ buffets, and this spot easily takes the top spot.
+      We arrived early around 4:00 PM to beat the dinner rush and were lucky enough to catch the lunch pricing, which saved us a few dollars.
+      The atmosphere is genuinely upscale, much nicer than any other buffet I’ve visited in Calgary or Edmonton. Kids will love the life-sized Iron Man and Batman statues around the dining room!
       
-      It's a little pricey, but for a Saturday night out, totally worth it. The vibe is great, always packed — we waited about 20 minutes but didn't mind. Plus, being in the mall means zero parking stress. Would definitely go back. Bring an empty stomach.
+      Service was top-notch. I was surprised to read negative reviews about the staff because our experience was flawless. From being seated to finishing our meal, our server was incredibly attentive, checking in often and clearing empty plates promptly.
+      
+      As for the food, it definitely sets a new bar for Korean BBQ buffets. It’s on the pricier side, but you get true quality for what you pay. Compared to major chains like Gogi, the offerings here are far superior. The dedicated ramen station outshines other spots, and the non-Korean options were impressive, especially the wings and my personal favorite, the Cajun seafood. They also had a respectable sushi selection featuring fresh, well-made rolls and nigiri.
+      
+      Dessert was simple, featuring a few fresh fruits and cakes, plus a huge hit with the kids: a full freezer stocked with Melona ice cream bars in every flavor.
+      
+      Overall, an outstanding experience. Highly recommended!
   - name: "J T"
     rating: 5
     comment: |
@@ -66,8 +74,10 @@ reviews:
       The atmosphere was fun and lively, and the staff were very friendly, attentive, and quick to help whenever we needed anything. I also loved how clean and organized the restaurant was, which made the dining experience even better.
       
       If you’re looking for a place with lots of options and authentic Korean BBQ flavors, I highly recommend this spot. Definitely worth coming back to with family and friends!
-  - name: "Justine Laryne"
-    rating: 5
+  - name: "Marco Luciano"
+    rating: 4
     comment: |
-      Had a great experience at there’s new location- BB2 Korean Buffet at WEM. Fresh food, a lot and great Korean BBQ meats, seafood selections. Also friendly staff. Definitely worth visiting!
+      B2B Korean BBQ at West Edmonton Mall is legit. Tons of meat choices with large, fresh cuts and different marinades that keep things interesting. They've also got a good selection of fresh seafood if that's your thing. My go-to at any Korean BBQ spot is always pork belly, and they did not disappoint — perfectly thick, crispy, and caramelized on the grill. The only downside? Desserts are pretty lacking. Not much to choose from. This is what I gave 4 stars. But honestly, a Melona popsicle bar at the end filled that gap just fine.
+      
+      It's a little pricey, but for a Saturday night out, totally worth it. The vibe is great, always packed — we waited about 20 minutes but didn't mind. Plus, being in the mall means zero parking stress. Would definitely go back. Bring an empty stomach.
 ---

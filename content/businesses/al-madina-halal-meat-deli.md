@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–7:00 PM"
 photos: ["/photos/al-madina-halal-meat-deli-1.jpg", "/photos/al-madina-halal-meat-deli-2.jpg", "/photos/al-madina-halal-meat-deli-3.jpg"]
 rating: 4.7
-review_count: 519
+review_count: 514
 price_range: "$$"
 amenities:
   - "Halal"
@@ -32,10 +32,10 @@ reviews:
     rating: 5
     comment: |
       What a beautiful little gem of a place this is! Specialty family run shop with impeccable service. Great people and fair pricing. I was totally impressed with their selections from Cornish game hens, quality meats, and I will be back for bone marrow, tallow some camel tenderloin! I would highly recommend!
-  - name: "BRYAN CASTRO"
+  - name: "Dominique DAVID"
     rating: 5
     comment: |
-      I recently hosted a dinner for friends and decided to buy all my ingredients here. The meat looked incredibly fresh and the team helped me choose the best options for grilling. Everything cooked beautifully and my guests kept asking where I bought it. I will definitely be coming back before my next gathering.
+      I recently hosted a large family gathering and was responsible for preparing most of the food. Anyone who cooks for a big group knows how stressful it can be when you're worried about the quality of your ingredients. After shopping here, that was one less thing I had to think about. Everything I purchased was exactly what I was looking for, and the quality showed once it hit the table. Several family members asked where I had bought the meat because they noticed how good it tasted. What stood out to me most was the confidence I felt throughout the process. I knew I was serving something I could be proud of. It's not often you find a business that combines quality products with people who genuinely care about their customers. That experience turned me from a first-time visitor into a regular customer.
   - name: "Taylor D'Amours"
     rating: 5
     comment: |

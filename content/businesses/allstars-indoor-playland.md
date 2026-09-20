@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "9510 12 Ave SW, Edmonton, AB T6X 0J4"
 rating: 4.2
-review_count: 2648
+review_count: 2651
 tier: "featured"
 phone: "(780) 757-0055"
 website: "http://allstarsplayland.com/"
@@ -31,12 +31,12 @@ reviews:
       It has been our go to play place for a couple years now, but we may need to switch it up. The safety standards are essentially non existent, the place is very dirty. When we first started coming here we would see staff up in the play area with vacuums etc cleaning, I haven’t seen that in months. There’s used Kleenex littered throughout the play structures.
       
       An even bigger safety issue, I’ve seen doors that lead to outside propped open with no staff in sight. This is a HUGE ISSUE, a child could easily go out one of these doors and get lost or worse. The safety standards need to be SERIOUSLY reviewed or I’m not sure we will be back. Pic attached of door propped open right in the main area with nobody around. Absolutely crazy for this to be acceptable and it’s not the first time I’ve seen it at this place either. Management, please enforce serious safety standards with your staff. This cannot be happening
-  - name: "M P"
-    rating: 2
+  - name: "Cliff Anderson"
+    rating: 4
     comment: |
-      I can say my standards for cleanliness in an indoor playground is not very high. I can understand it’s a big facility and small kids just make everything dirty. But the cleanliness  here has either gotten worse or it’s just never been cleaned in some areas so not looks worse.
+      Clean facility, staff are friendly. Equipment is in good condition. Birthday rooms are on the small size.
       
-      The parts that are difficult to reach have an inch thick of dust. Now I understand it’s difficult to get too, but you can’t just leave it. There has to be some way to get in and clean it. It’s not just the dust. It appears that every surface in this place rarely sees any cleaning product.
+      Over all great place for a birthday party or just to have your child burn off some energy
   - name: "Rach M"
     rating: 3
     comment: |

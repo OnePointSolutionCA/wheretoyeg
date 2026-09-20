@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/alberta-aviation-museum-2-1.jpg", "/photos/alberta-aviation-museum-2-2.jpg", "/photos/alberta-aviation-museum-2-3.jpg"]
 rating: 4.6
-review_count: 1754
+review_count: 1756
 price_range: "$$"
 amenities:
 

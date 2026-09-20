@@ -11,7 +11,7 @@ phone: "(780) 879-0330"
 website: "http://www.bikklesntings.ca/"
 google_maps_url: "https://maps.google.com/?cid=11267172553796357419&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM–9:00 PM"
+  monday: "10:00 AM–9:00 PM"
   tuesday: "10:00 AM–9:00 PM"
   wednesday: "10:00 AM–9:00 PM"
   thursday: "10:00 AM–9:00 PM"
@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–7:00 PM"
 photos: ["/photos/bikkles-n-tings-caribbean-eatery-1.jpg", "/photos/bikkles-n-tings-caribbean-eatery-2.jpg", "/photos/bikkles-n-tings-caribbean-eatery-3.jpg"]
 rating: 4.8
-review_count: 178
+review_count: 182
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,6 +30,10 @@ tags: ["edmonton", "caribbean"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Ryan Steenson"
+    rating: 5
+    comment: |
+      My wife and I visited here for the first time. The owner was served us and was very friendly. The food was amazing, he asked if it was our first time, inwhich it was and gave us some free samples to try. The food was very  good and we will certainly be back. Amazing service!
   - name: "Enzo Vergaray"
     rating: 5
     comment: |
@@ -38,24 +42,10 @@ reviews:
       The meal brought back great memories of high school when my friends and I would visit a local Jamaican restaurant every week. It had that same authentic, comforting flavour I remember.
       
       Highly recommend this place if you're looking for delicious Jamaican food. I can't wait to order again and visit in person!
-  - name: "Quinn Forrester"
+  - name: "Candice Cole"
     rating: 5
     comment: |
-      Stopped in for lunch at this new Jamaican restaurant near Grant MacEwan University and it was fantastic!!!
-      
-      I ordered the curry goat (which does have bones, as is traditional), and my sisters had the jerk chicken. Everything came with rice and beans and coleslaw. The flavours were incredible and the spice level was perfect, highlighting all the care that goes into its preparation without being overwhelming for heat. Oh! I had to edit so I could give a shout out to the beef patty. We didn't even let it cool down before devouring it.
-      
-      The atmosphere was warm and welcoming and honestly felt like a little Caribbean escape in the middle of Edmonton. We chatted with the owners during our visit and one of them brought us out the in-house made sorrel to try. I'll be back just for the sorrel...
-      
-      If you’re looking for authentic Jamaican food near MacEwan or just great Caribbean flavour, this place is absolutely worth checking out. We’ll definitely be back.
-  - name: "Drew Wolsey"
-    rating: 5
-    comment: |
-      I've been to a few Jamaican restaurants in the past and wouldn't say I love any of them. Each time the flavors were either too overwhelming or too spicy for my weak palette.
-      
-      But, Bikkles n' Tings was excellent. Delicious flavor and not too hot. I had the mixed plate with jerk chicken and oxtail. I enjoyed them both.
-      
-      They also give us a free dessert to try. 😁
+      Best jerk chicken outside of Jamaica! Generous portions and just the right amount of heat. Ive eaten here 4 times in the last 2 weeks and it won’t be the last. Can’t wait to try their other dishes.
   - name: "Dee Bee"
     rating: 5
     comment: |

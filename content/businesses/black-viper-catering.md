@@ -47,18 +47,12 @@ reviews:
       The owners were super friendly!!
       We will definitely be back for more!!
       Don’t change a thing :P
+  - name: "Darwin Krips"
+    rating: 5
+    comment: |
+      Ok, the best burger in Alberta hands down- the Jazzy! Jason is the man! The bourbon bacon jam is to die for!
   - name: "Matt James"
     rating: 5
     comment: |
       These folks are legit. They have come to our worksite twice and I can easily say that the burger I just ate was one of the best in Edmonton and area. So freaking good. I had the brisket sandwich the first time and it was excellent. I smoke my own brisket and do a pretty good job so I am picky and their's was right up there. Good prices, big portions and amazing quality.
-  - name: "Sean Pettitt"
-    rating: 5
-    comment: |
-      These guys are arguably some of the best human beings ever.
-      
-      My band was holding a festival over the weekend downtown here in Edmonton, and we had sadly had a food truck back out and they came in and saved the day!
-      
-      Once on site they were very kind and easy to work with, and arguably had some of the best food we could've asked for.
-      
-      If you have a chance you need to check these guys out. you will not be disappointed.
 ---

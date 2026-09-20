@@ -49,8 +49,8 @@ reviews:
       Wonderful lamb meat! Strongly recommend to test their butchery products once and you will be the fan always!
       
       Can't say anymore about the flatbread! It melts in your mouth when eaten with Feta cheese+walnut+cucumber slice + avocado!
-  - name: "Janna Lam"
-    rating: 2
+  - name: "Steven Li"
+    rating: 5
     comment: |
-      I swear they overcharge me everytime I go. And they dont have prices on most items or show the price ar counter when ringing in. Dont even give a receipt unless you ask. I was charged $28 for 1 bread, small pack of candy and some fruit leather which expires in a month. Each item had to have been priced at $9 each, which makes no sense.
+      Had a chance to try out their flatbread and it was amazing.  So fresh and soft.  Had it with a yogurt dip and it was just delicious.   For anyone looking for one of the best flatbreads in Edmonton make sure to check out this place.  😊
 ---

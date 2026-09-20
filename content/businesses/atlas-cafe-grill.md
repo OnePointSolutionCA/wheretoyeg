@@ -31,12 +31,6 @@ tags: ["edmonton", "moroccan", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Chris Quinn"
-    rating: 3
-    comment: |
-      I gave this place a try because the reviews were good and they open early on Sundays. The staff were nice but they couldn't make an ice coffee but had iced lattes on the menu. I will never get that one. I got my wife and Americano and she said it was average.
-      
-      Other reviews mentioned the donuts. They only had plain, literally just the donut with no glaze or anything. Just plain dough, so I didn't try one.
   - name: "Nigel Hopkinson"
     rating: 4
     comment: |
@@ -49,6 +43,12 @@ reviews:
     rating: 5
     comment: |
       I had an amazing breakfast here, so glad I decided to pop in! I just got the atlas breakfast and a dirty chai. The eggs were delicious, still runny but had a crispy bottom and lots of flavour. I got so much fresh delicious bread!! The service was great and the space is so sweet and cozy. The chai latte was so amazing, I will have to come back for that especially!!  I forgot to snap a photo of my food before my first bite :D
+  - name: "Chris Quinn"
+    rating: 3
+    comment: |
+      I gave this place a try because the reviews were good and they open early on Sundays. The staff were nice but they couldn't make an ice coffee but had iced lattes on the menu. I will never get that one. I got my wife and Americano and she said it was average.
+      
+      Other reviews mentioned the donuts. They only had plain, literally just the donut with no glaze or anything. Just plain dough, so I didn't try one.
   - name: "Jolie and Troy Camps-Pombert"
     rating: 5
     comment: |

@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/awash-ethiopian-restaurant-edmonton-1.jpg", "/photos/awash-ethiopian-restaurant-edmonton-2.jpg", "/photos/awash-ethiopian-restaurant-edmonton-3.jpg"]
 rating: 4.7
-review_count: 556
+review_count: 557
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -38,10 +38,6 @@ reviews:
     rating: 4
     comment: |
       Exact opening hours may vary, we went at 12:30PM on a Saturday but looked close. Luckily stuck around a bit and a worker said the crew was on the way. Got the veggie platter with injera (a spongy, slightly sour flat bread) and zilzil tibs (charred rib eye) with rice. Injera was really good would recommend over the rice. Ethiopian coffee as an after meal was good too.
-  - name: "Punk Monk"
-    rating: 5
-    comment: |
-      Great veggie platter! Friendly service. I love the atmosphere except they had a TV on. Other than that, absolutely lovely and will definitely be back!
   - name: "Patrick Tsang"
     rating: 5
     comment: |
@@ -52,4 +48,13 @@ reviews:
       Went on an Oilers game night and although it was empty, the atmosphere was uncluttered and inviting. Waitress made sure we were comfortable and the food was delicious as it was something we had never tried before!
       
       Would recommend.
+  - name: "Al Jalaeian"
+    rating: 5
+    comment: |
+      Service: 4.5/5
+      Food: 5/5
+      Vibe: 4.5/5
+      Price: 4.5/5
+      
+      The food was extremely delicious and the restaurant decor gave us the experience of Africa.  We especially liked the injera and veggie sampling platter. Also we loved the decoration of the restaurant. if you're looking for legit Ethiopian food that's the place! Cheers.
 ---

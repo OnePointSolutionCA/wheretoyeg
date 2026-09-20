@@ -42,12 +42,12 @@ reviews:
     rating: 5
     comment: |
       If I. Could give a 11.  I would. My car is a standard. It wasn't accelerating past second gear. I asked a guy a know another mechanic who referred me to Alberta transmission. He was booked all up. A d couldn't get me I until after the holidays. I checked around. But didn't like tbe mixed reviews on other businesses so I decided to wait for three weeks to get it to Alberta transmission. It was December 13  when it stopped working. So I got it checked January first week. Alberta transmission said it's good Leanne. Error code just shows. It was frozen. It's all good. Working fine. No cost. I was so blessed to be referred here. What a rare wonderful business. So honest. Blessings to them. as to why they are in business so long. I tell everyone I know. About their honest and great at what they do.
-  - name: "Jasmeena Gall"
-    rating: 5
-    comment: |
-      Experienced and friendly. Would highly recommend for any transmission needs! My husband got his transmission serviced here and I will be getting mine next week. My mechanic who I have been with for over 8 years, specifically recommended them, so I would definitely trust them!!
   - name: "Catherine Daniel"
     rating: 5
     comment: |
       The service at Alberta Transmission was fantastic!  They are knowledgeable, honest and efficient.  I highly recommend their services.
+  - name: "Randy Harel"
+    rating: 5
+    comment: |
+      Went in for help with older six speed auto.  Frank, honest advice with test drive.  I definitely recommend this shop for future work.
 ---

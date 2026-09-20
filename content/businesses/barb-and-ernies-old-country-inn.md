@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "Edmonton"
 address: "9906 72 Ave NW, Edmonton, AB T6E 0Z3"
 rating: 4.6
-review_count: 2090
+review_count: 2091
 tier: "featured"
 phone: "(780) 433-3242"
 website: "http://oldcountryinnedmonton.com/"
@@ -27,6 +27,10 @@ reviews:
       
       Crazy value for the quality and money too.
       I will come back.
+  - name: "mama rose"
+    rating: 5
+    comment: |
+      Stopped by on a weeknight after work and they had no problem with my dog joining me on the patio, which I really appreciated. The waitress even brought out a water bowl without me asking, small thing but it made the whole visit feel easygoing. Split an order of the schnitzel and it was crispy and huge, way more than I expected for the price. Parking right out front made it super easy to hop in and out with the leash and everything, will definitely be back.
   - name: "Swapnil"
     rating: 4
     comment: |
@@ -37,12 +41,6 @@ reviews:
     rating: 4
     comment: |
       Cozy place with a welcoming, homey atmosphere. The service was a bit slow, but the food was delicious and the portions were generous. Overall, a nice place to enjoy a good meal.
-  - name: "Kel Shaw"
-    rating: 4
-    comment: |
-      Decent solid breakfast , the hotcakes are huge. Like the size of a dinner plate.
-      They’ve been around a long time. Servers were very good.  Coffee refills were plenty
-      The food is nothing spectacular. But really all you need for breakfast
 hours:
   monday: "Closed"
   tuesday: "7:00 AM–2:00 PM"

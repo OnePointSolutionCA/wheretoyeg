@@ -25,16 +25,15 @@ reviews:
     rating: 5
     comment: |
       I always used their services handy man , office cleaning service and to go for any thing and they never disappoint me regarding service and always on time and good prices
-  - name: "Liam Thompson"
-    rating: 1
-    comment: |
-      We scheduled a cleaning service — while the cleaners were friendly and professional, they weren’t given accurate details about the required work, so time was wasted on tasks that weren’t necessary. Please improve communication in your customer service to ensure clear and precise instructions are provided.
-      
-      Also, I kindly ask that you do not respond by saying you did not clean for me, as this is not true — please note that the booking was made by my wife.
   - name: "Satyendra Kumar Parihar"
     rating: 5
     comment: |
       Expert and an honest  in their work. Excellently do the job.
+  - name: "Marc Morin"
+    rating: 5
+    comment: |
+      Excellent installation of vinyl flooring, baseboard and plumbing hookups.  Ahmed and crew was great to deal with and price was very reasonable.
+      I would definitely use 365 Days Services again.
 hours:
   monday: "Closed"
   tuesday: "Closed"

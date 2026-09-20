@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "3450 99 St NW, Edmonton, AB T6E 5X5"
 rating: 4.5
-review_count: 915
+review_count: 916
 tier: "featured"
 phone: "(780) 489-3499"
 website: "https://www.ameanpizzadonair.ca/"
@@ -39,10 +39,10 @@ reviews:
       I personally think this is the best donair place in the city.
       
       Thank you guys will 100% be coming back
-  - name: "Brett Hanas (The Card Goat)"
+  - name: "Matt B"
     rating: 5
     comment: |
-      THE best donairs I have ever had in my life!  Some of the most flavourful, and perfectly seasoned donair meat I've ever tasted. These guys know how to make a real donair and give you 90% meat, like we ALL want!!  None of those lettuce filled, wheres the meat?, kinda donairs; These are perfection in the purest form.  Theres no bloating, no gas, no burping up onions and mystery meat for 2 days after....Just pure and simple satisfaction.  Lastly, we need to give Sam a shoutout for being so friendly and positive every time we come in, and remembering each persons order down to the last detail.
+      I’ve been going to Amean for years and years, and I continue to think they’re one of the best donairs in Edmonton. I really like the way they grill their meat and their portions are awesome. I’ll continue going to this spot whenever I visit Edmonton again!
 hours:
   monday: "10:00 AM–10:00 PM"
   tuesday: "10:00 AM–10:00 PM"

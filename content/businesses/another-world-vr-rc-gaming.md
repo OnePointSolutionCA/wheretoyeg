@@ -28,11 +28,25 @@ tags: ["edmonton", "vr-arcade"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Vitika Chadda"
+    rating: 5
+    comment: |
+      Such an amazing VR experience! 🤩🎮
+      
+      The games were super immersive, exciting and so much fun. It genuinely felt like stepping into another world! The setup was great, the experience was smooth, and there were plenty of options to enjoy with friends or family.
+      
+      Definitely a fun place to visit if you’re looking for something different, interactive and full of adventure. We had a great time and would absolutely love to come back! ⭐️⭐️⭐️⭐️⭐️
   - name: "Mary"
     rating: 5
     comment: |
       This place was so much fun!! My husband and I went for a date night and we both loved it. Highly recommend for your next date night, girls night or guys night out!
       Also the RC construction zone was so cool!!
+  - name: "Jess"
+    rating: 5
+    comment: |
+      Such an awesome VR experience! We had an absolute blast from start to finish. The games were so much fun, the technology was really impressive, and it was such a unique experience compared to anything we’ve done before. The staff were friendly, helpful, and made everything easy and enjoyable.
+      
+      Definitely a great place to go with friends or family. We’ll absolutely be back and would highly recommend giving it a try!
   - name: "Genevieve Tejada"
     rating: 5
     comment: |
@@ -41,16 +55,8 @@ reviews:
       The equipment was clean, easy to use, and the games were so much fun. Whether you're new to VR or have tried it before, there's something for everyone. Time flew by because we were having such a great time!
       
       If you're looking for a unique date night, family outing, or activity with friends, I highly recommend Another World VR. We'll definitely be back!
-  - name: "Tank"
+  - name: "Acacia Ngoy"
     rating: 5
     comment: |
-      Great staff and great time to escape reality for an evening and relaxing with friends for a night out.
-  - name: "Roy Teufele"
-    rating: 5
-    comment: |
-      Awesome for myself and grand kid.  Definitley cone again
-  - name: "360 LLAMASCOPER"
-    rating: 5
-    comment: |
-      Extremely fun, gave us bonus time too and stayed past closing to accomodate us. Very friendly owner and exceptional service
+      Came here for a little fun and absolutely had that fun, it’s seem so real!! Rutvik was our host and was really helpful and very nice !! We will definitely be back !
 ---

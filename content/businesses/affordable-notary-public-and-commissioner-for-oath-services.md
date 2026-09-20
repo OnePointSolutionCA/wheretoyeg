@@ -36,16 +36,16 @@ reviews:
     rating: 5
     comment: |
       I recently visited Affordable Notary Public and Commissioner for Oath Services in Edmonton and had an excellent experience. Mr. Saqid Javaid provided prompt service with no wait time. I was able to get several documents notarized in under 20 minutes. Mr. Javaid was very knowledgeable and ensured I understood everything correctly. Highly recommend their services!
-  - name: "Oleksandr Minchuk"
-    rating: 5
-    comment: |
-      Highly recommended!!! In July 2024 Mr. Javaid helped us a lot with our mortgage and purchase of our first house, today he helped again with notarization of important documents. I admire his competence, awesome customer service and prompt help with legal matters! If you want highest quality and best prices - look no further!
-  - name: "Alberto Colindres"
-    rating: 5
-    comment: |
-      Today I needed some documents notarized and this guys are amazing! Would definitely recommend!!
   - name: "Marta Anna"
     rating: 5
     comment: |
       If I could give more than 5 starts I would. Went above and beyond to get my cumbersome BC document notarized. Was professional and pleasant even though I know it was frustrating. They could have charged me more for their inconvenience, but remained with the price quoted. Great experience on my end. Highly recommended 👌
+  - name: "Oleksandr Minchuk"
+    rating: 5
+    comment: |
+      Highly recommended!!! In July 2024 Mr. Javaid helped us a lot with our mortgage and purchase of our first house, today he helped again with notarization of important documents. I admire his competence, awesome customer service and prompt help with legal matters! If you want highest quality and best prices - look no further!
+  - name: "Jun Xie"
+    rating: 5
+    comment: |
+      I recently used affordable notary public and Commissioner for Oath in Edmonton, I am very happy with their phone consultation before I go into the office, I explained my situation and the customer service on the phone was able to give me good advise so when I actually went into the office, I get excellent notary and affidavit service in an efficient manner, thank you.
 ---

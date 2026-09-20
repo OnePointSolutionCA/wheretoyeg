@@ -26,14 +26,14 @@ reviews:
     rating: 5
     comment: |
       Roger Eamer is the most gentle dentist I know.   His sense of humour and witty charm makes the overall experience great.  Oh, and he's a pretty good dentist too.
-  - name: "Kel LaBoss"
-    rating: 5
-    comment: |
-      I had a root canal and fillings by Dr. Jason Steed and it went amazing easy with virtually no pain. I thank the staff and assistant for great service and information. Thank you.
   - name: "Jen S"
     rating: 5
     comment: |
       Dr. Marjorie  Eamer and her staff are wonderful.  Great experience for my family.  Welcoming, friendly and warm.  Great environment and wonderful hours.
+  - name: "Connie Hemsing"
+    rating: 5
+    comment: |
+      Marjorie Eamer is the best dentist.  She is so caring, by far the greatest dental experience I've ever had in over 40 years.  I've heard her husband, who practices in the same office, is also good.
 hours:
   monday: "9:30 AM–4:30 PM"
   tuesday: "7:00 AM–7:00 PM"

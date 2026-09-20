@@ -17,10 +17,6 @@ reviews:
     rating: 1
     comment: |
       We ran into a bit of an emergency on a Friday morning and called Benny’s in Spruce Grove to see if they could help as we had lost the brakes on our truck while pulling 40 foot fifth wheel. The lady sounded quite sympathetic after I explained our situation and said she would call me back with an answer as to whether she could get me in after she spoke to one of her text. I had called at 12:30 in the afternoon and did not receive any phone call regarding an answer so I called back at 3:45 and she explained that she got tied up as she had an appointment to go to and completely forgot and that she would call me back with an answer as soon as she could. At 20 after four in the afternoon, she finally called me back to tell me that she could not get me in that I would have to try elsewhere. I could have called other places in the meantime, but I trusted her that she would call me back sooner than me calling her back three hours later. Obviously, she was not as empathetic to my cause that she had led on initially and now we are stuck waiting until Monday morning to try and find some break repair.
-  - name: "Colin Schroeder"
-    rating: 5
-    comment: |
-      Customer service is fantastic and the work is top notch. I have complete peace of mind dropping off my vehicle for servicing. It is great to have a mechanic you can trust!
   - name: "Kalynn Stephen"
     rating: 5
     comment: |
@@ -31,6 +27,10 @@ reviews:
       Not only did he save me hundreds of dollars, he didn’t charge me a dime. That level of honesty and integrity is rare and so appreciated.
       
       I will be taking my vehicle to Randy from now on and highly recommend Benny’s Auto Repair to anyone looking for trustworthy, genuine service. Thank you both so much!
+  - name: "Colin Schroeder"
+    rating: 5
+    comment: |
+      Customer service is fantastic and the work is top notch. I have complete peace of mind dropping off my vehicle for servicing. It is great to have a mechanic you can trust!
   - name: "Micah Ferguson"
     rating: 5
     comment: |

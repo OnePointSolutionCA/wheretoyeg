@@ -21,10 +21,6 @@ reviews:
     rating: 5
     comment: |
       I had an amazing experience with Ireland at Atmosphere Beauty Lounge! I went in for help with painful ingrown toenails and got braces put on my nails to lessen the pain, she truly fixed them. The difference has been incredible. Ireland was professional, gentle, knowledgeable, and made me feel comfortable the entire time. You can tell she genuinely cares about her clients and takes pride in her work. I’m so relieved to finally have my toes feeling normal again. Highly recommend her to anyone dealing with ingrown toenails or looking for quality foot care!
-  - name: "Seanna Collins"
-    rating: 5
-    comment: |
-      I have really enjoyed my time as a client at Atmosphere Beauty Lounge and highly recommend their services. Everyone is so welcoming and a coffee is always waiting for me. Brittany is fantastic! She does my gel nails, pedicures, hair .. I even followed her to Atmosphere from another salon. She’s so friendly, accommodating and professional. I highly recommend her .. and Atmosphere in Spruce Grove. To my Parkland County community - support local!
   - name: "Darren Reeves"
     rating: 5
     comment: |
@@ -37,6 +33,12 @@ reviews:
     rating: 5
     comment: |
       10/10 service! my aesthetician Ireland was absolutely fantastic, she was so friendly and fun, I am new to town and after this one experience I don’t need to look any further for my new spot! She will always be my for sure pick for now on! She did my manicure and pedicure and I was blown away I absolutely love them she’s so talented, I couldn’t be more impressed with my appointment!
+  - name: "Melissa Johnson"
+    rating: 5
+    comment: |
+      So glad I listened to the recommendations and booked my mom at Atmosphere! We needed a quiet environment and someone patient with dementia, and Tasha was incredible. She was so gentle, and one of the other stylists, Brittany even kept the noise down to keep mom comfortable. Was so heart warming!
+      
+      My kids and I loved our cuts from Tasha, too! If you’re looking for a cozy, welcoming, and professional vibe, this is it. We’ll be back for sure!
 hours:
   monday: "9:00 AM–6:00 PM"
   tuesday: "9:00 AM–5:00 PM"

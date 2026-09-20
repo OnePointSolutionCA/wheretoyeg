@@ -4,8 +4,8 @@ slug: "arkadium-retro-arcade"
 category: "activities-fun"
 neighborhood: "Sherwood Park"
 address: "130 Broadway Blvd Unit 180, Sherwood Park, AB T8H 2A3"
-rating: 4.8
-review_count: 356
+rating: 4.7
+review_count: 360
 tier: "featured"
 phone: "(780) 400-1995"
 website: "http://www.arkadiumretroarcade.com/"
@@ -17,10 +17,6 @@ reviews:
     rating: 5
     comment: |
       Highly recommend! It's such a fun place! It has the most machines I've ever seen. No tokens or cards, you pay a one time fee and can stay for as long as you'd like. I love that you can leave and come back and play on the same day. We came here for an hour, then had to leave for an appointment, then came back to Arkadium and played for another two hours! It's open late, the staff are awesome, and you can order drinks as well. We will definitely be back many times.
-  - name: "Claire Kaiser"
-    rating: 5
-    comment: |
-      So many retro games and so much fun! $20 per person for the whole time and no tokens needed. Lots of pinball options. Would definitely visit again.
   - name: "Cameron Paul"
     rating: 5
     comment: |
@@ -49,6 +45,10 @@ reviews:
       Staff is super kind, bathrooms pretty slick.
       
       We will definitely be going back soon.
+  - name: "Naomi Begoray"
+    rating: 5
+    comment: |
+      This is an awesome spot for fun! Our son had his 10th AND 11th birthday parties here (because he enjoys it so much). The party room is perfect to take a break from playing to enjoy some food. There’s such a great variety of games with unlimited free-play! They also have a great selection of drinks and craft beer. It’s always a fun outing.
 hours:
   monday: "Closed"
   tuesday: "Closed"

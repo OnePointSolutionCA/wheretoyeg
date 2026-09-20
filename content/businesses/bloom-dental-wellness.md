@@ -24,6 +24,14 @@ reviews:
     rating: 5
     comment: |
       Great experience from the front desk to having my fillings redone. Their technology is superior to any dental office I’ve visited. Dr. Shahin is incredibly friendly, welcoming and reassuring. I have complex dental issues and he addressed the root causes immediately. I also appreciate that he takes a more holistic and preventative approach. Would recommend to anyone looking for a new dentist!!
+  - name: "Rini Corkery"
+    rating: 5
+    comment: |
+      I recently visited Bloom Dental Wellness , and the experience was excellent. I went in for regular cleaning and was thoroughly impressed with the level of care and professionalism. The staff were friendly and welcoming, and they made sure I was comfortable throughout the entire visit.
+      
+      The clinic was clean, modern, and well-organized, which added to the sense of reassurance. Kristina took the time to explain each step of the procedure and provided helpful tips for ongoing dental care.
+      
+      Overall, I would rate my experience ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
   - name: "Leah Crowley"
     rating: 5
     comment: |
@@ -33,10 +41,6 @@ reviews:
     rating: 5
     comment: |
       Great experience! I finally got dental work done on areas that had been bothering me for year, something my previous dentist never offered a solution for. Every appointment started on time, and Dr. Shahin and his assistants were so kind, always checking to make sure I was comfortable throughout the procedure. It was also easy to get an appointment without a long wait, which I really appreciated!
-  - name: "Ramandeep Kaur"
-    rating: 1
-    comment: |
-      Ridiculous service… hide the actual pricing. On calm they told me that after running my insurance coverage that I have to pay out of pocket $88 including one time $25 payment. Upon arrival they gave me different quote and stated only booked me for cleaning and gave that quote. Instead I contacted and confirmed that new patient benefit that they are offering whitening trays price included. She said yes this is covered your exam, 4 scale cleaning and whitening trays yo home they give to new patient. Upon arrival told me to come another day for other stuff… and gave me double quote. Even the owner was not welcoming, also states that so this clinic is not for you then. Scammers… charging extra by claiming that they will provide with whitening trays to new patient in their add.
 hours:
   monday: "12:00 PM–7:00 PM"
   tuesday: "8:00 AM–3:00 PM"

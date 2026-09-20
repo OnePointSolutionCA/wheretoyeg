@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "8210 106 Ave NW, Edmonton, AB T6A 1J1"
 rating: 4.6
-review_count: 124
+review_count: 125
 tier: "featured"
 phone: "(825) 480-1711"
 website: "https://birchandbearpizza.com/"
@@ -18,10 +18,6 @@ reviews:
     rating: 5
     comment: |
       My favourite pizza in the city. There’s something about the dough that’s unmatched. I first tried it at ale architect but glad to see they have their own spot now. Glad I don’t live close or I’d be eating here weekly. Good selection of beers too!
-  - name: "Jesse Dutton-Kenny"
-    rating: 5
-    comment: |
-      We love this place! The Forest Heights location is our go to family dinner spot at the moment. Our toddler loves it, it’s a calm and welcoming atmosphere. Our favourite pizzas are the potato capicola and the mushroom leek, but we’ve tried lots of others and they are all good. Nice drink selection too, local beers and lots of non alcoholic options too.
   - name: "Christina Gold"
     rating: 5
     comment: |
@@ -36,6 +32,10 @@ reviews:
       Stopped in here last weekend and loved it! The pizza was absolutely delicious and they have a great selection of craft beer and pop. Plus, they're located right by the river valley which makes it the perfect place to go for a mid-ride meal, and every table has a clear view out the window so you can feel comfortable leaving your bikes outside.
       
       Shout out to our server Mikaila for being patient with my friends and I despite us taking forever to decide what we wanted. We'll definitely be back!
+  - name: "Alicia Ng"
+    rating: 5
+    comment: |
+      Leek pizza is popular and was recommended to us by the server. It was an excellent choice if you like truffle. Wood fired oven pizza and Yelo'd ice cream for dessert.
 hours:
   monday: "11:00 AM–9:00 PM"
   tuesday: "11:00 AM–9:00 PM"

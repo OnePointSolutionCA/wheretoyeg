@@ -38,10 +38,6 @@ reviews:
       Sanja and Curtis care about you as a person, not just a client or a payment walking through the door.
       She is very educated and worth every penny.
       The results I have seen in a short period of time are unbelievable, but beyond that I feel healthy again! I also love going to the gym once again!
-  - name: "Andrea Robinson"
-    rating: 5
-    comment: |
-      After six months of working with Sonja, I’ve seen major changes in my strength, energy, and how good I feel about my body! Her approach is research-based, she’s patient, and gives the right balance of caring but firm to get you through a tough set. Super glad I found her!
   - name: "Ange H"
     rating: 5
     comment: |
@@ -58,4 +54,8 @@ reviews:
       Since working with Sanja, I’ve seen significant improvements in strength, endurance, and overall fitness. I’ve also noticed better posture and increased energy levels. What I love most is that I feel more confident in my abilities and in my body.
       
       If you’re looking for trainers who are knowledgeable, motivating, who genuinely care about your progress, and want a private gym that has a welcoming atmosphere, I highly recommend Body in Fushion.
+  - name: "Carla Burke"
+    rating: 5
+    comment: |
+      Sanja changed my life. She created a meal plan that took all inflammation out of my body and helped so much. I can’t imagine not going to gym now. On holidays I miss it. Can’t wait to get back. Everyone is so kind and encouraging regardless of body type. It really is like a family
 ---

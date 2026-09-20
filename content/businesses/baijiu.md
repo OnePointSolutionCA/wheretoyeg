@@ -19,7 +19,7 @@ hours:
   sunday: "5:00 PM–12:00 AM"
 photos: ["/photos/baijiu-1.jpg", "/photos/baijiu-2.jpg", "/photos/baijiu-3.jpg"]
 rating: 4.5
-review_count: 1118
+review_count: 1120
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -28,6 +28,24 @@ tags: ["edmonton", "asian-fusion"]
 active: true
 date_listed: "2026-08-26"
 reviews:
+  - name: "Andy Chiang"
+    rating: 4
+    comment: |
+      Fun bar near the neon light signs and close enough to the arena to grab some nice pregame cocktails. The cocktails are fun and unique and they’re in a fun area to check out.
+      
+      They use a lot of Asian flavors in their cocktails which is a fun twist.
+      
+      Overall, a fun spot to check out if you’re in the area and in the mood for cocktails.
+  - name: "Ellie H"
+    rating: 4
+    comment: |
+      I really hope they bring back some of the classics — the fried chicken wings used to be incredible, and I still miss the fried chicken cutlet and the steak fried rice. Those dishes were seriously next level and OG.
+      
+      The drinks are always great, and I especially loved the two teapot selections back in the day — such a fun and unique touch.
+      
+      The music and overall vibe are always on point, which is why we keep coming back. One small suggestion: it would be amazing if they opened up online reservations for parties smaller than six, since it would make it much easier to plan casual visits.
+      
+      Still a favourite for the atmosphere, drinks, and memories — hoping those iconic dishes return!
   - name: "Aurelia Singh"
     rating: 5
     comment: |
@@ -38,14 +56,6 @@ reviews:
       During the evening while we were there, they possibly had a huge reservation that was made or maybe just what they typically do if it’s a busy night. While we were seated at the bar, even though we did not make reservations we were welcomed to also getting a booth if we wanted. We stayed at the bar because it was really nice though.
       
       Overall experience, I would definitely come back considering it was a really good highlight to end my trip.
-  - name: "Andy Chiang"
-    rating: 4
-    comment: |
-      Fun bar near the neon light signs and close enough to the arena to grab some nice pregame cocktails. The cocktails are fun and unique and they’re in a fun area to check out.
-      
-      They use a lot of Asian flavors in their cocktails which is a fun twist.
-      
-      Overall, a fun spot to check out if you’re in the area and in the mood for cocktails.
   - name: "thefoodiebeeyqr"
     rating: 4
     comment: |
@@ -65,26 +75,14 @@ reviews:
       Update: A staff member has reached out to me about the autograt on Reddit and I sent them a photo of the receipt. They informed me that this was an issue discovered about 30 min after I left Baijiu. The staff member has graciously offered me a drink or food item as compensation but I have to deny as I'm not coming back to YEG any time soon. It is an appreciated gesture by the staff member.
       
       Update 2: the staff member from Reddit went above and beyond and talked to their manager. I sent my receipt to the email they provided and I was refunded my entire bill. I’m very relieved to discover that it was a genuine mistake due to a system update that day. Manager was very apologetic and still offered a bubbly drink next time I visit. I’m very pleased with how this was resolved !
-  - name: "Alessandra Croisetiere"
-    rating: 3
+  - name: "Kay Kusi"
+    rating: 5
     comment: |
-      Food and drinks are always amazing here, which is why this experience was disappointing.
+      Love, love, love! So tasty!
       
-      The service started off well but gradually declined as the evening went on. Basic touches like napkins and share plates for our bao buns were never provided, leaving us trying to get our server’s attention while our hands were covered in sauce. After we couldn’t flag anyone down, we went to the outdoor bar to ask for napkins. Unfortunately, the bartender seemed more focused on chatting with another server and someone who appeared to be a friend, and we were simply handed a single paper towel.
+      The sashimi in citrus yuzu sauce, peach shrimp Bao and the Yishan Poetry are all MUST tries!!!!
       
-      When we paid our bill, we were asked how everything was. We replied that it was “alright,” but there were no follow-up questions or interest in understanding why our experience wasn’t great.
+      We also really liked the brussel sprouts and A Tribe Called Zest drink.
       
-      We ended up moving inside and sitting at the bar, and Alex completely turned the experience around. She was attentive from the moment we sat down, our drinks came out quickly, she checked in regularly, and she was genuinely friendly and welcoming. Alex is the reason I’m giving 3 stars instead of fewer. Would give 5 for here but the rest of the experience doesn’t deserve that.
-      
-      The food keeps us coming back, but I hope the service becomes more consistent because the difference between our two experiences in the same visit was night and day and would have loved to spend our entire evening here instead of just 2 hours.
-  - name: "Ellie H"
-    rating: 4
-    comment: |
-      I really hope they bring back some of the classics — the fried chicken wings used to be incredible, and I still miss the fried chicken cutlet and the steak fried rice. Those dishes were seriously next level and OG.
-      
-      The drinks are always great, and I especially loved the two teapot selections back in the day — such a fun and unique touch.
-      
-      The music and overall vibe are always on point, which is why we keep coming back. One small suggestion: it would be amazing if they opened up online reservations for parties smaller than six, since it would make it much easier to plan casual visits.
-      
-      Still a favourite for the atmosphere, drinks, and memories — hoping those iconic dishes return!
+      It's a hit to the wallet but Baijiu delivers!
 ---

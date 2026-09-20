@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "5th Ave SW, Edmonton, AB T6X 1E2"
 rating: 4.9
-review_count: 287
+review_count: 288
 tier: "featured"
 phone: "(825) 888-4737"
 website: "https://bisontires.ca/"
@@ -14,18 +14,14 @@ google_maps: "https://maps.google.com/?cid=1608769770368775641&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/bison-tires-mobile-tire-repair-and-commercial-tire-services-edmonton.jpg"
 reviews:
+  - name: "Ermal Morina"
+    rating: 5
+    comment: |
+      -Very good experience with them. They came on short notice and changed all four tires conveniently at my home. They were professional, had reasonable prices, and did a great job. I would definitely recommend them to anyone looking for reliable and professional tire service.
   - name: "Raman Jot"
     rating: 5
     comment: |
       Got my tyres changed at Bison Tires and had a really good experience. The staff was friendly and professional, and they completed the work quickly without any hassle. Pricing was fair compared to other places, and they explained everything clearly.
-  - name: "Classified Classified"
-    rating: 5
-    comment: |
-      5 Star guarentee. Desperate to get tires changed; Deep was able to service right away. Don't fall for the Big named companies! Its the small ones that make a difference.
-      Professional, courteous, on the spot!
-      Good set up as a mobile unit!
-      Will always recommend the gentlemen named Deep.
-      Thank you!
   - name: "Jenny Anderton"
     rating: 5
     comment: |

@@ -13,11 +13,12 @@ google_maps: "https://maps.google.com/?cid=14346598764807591980&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/bellevue-dental-group.jpg"
 reviews:
-  - name: "Yijie Wang"
+  - name: "Natasha Mosher"
     rating: 5
     comment: |
-      Dr. Justin is an amazing dentist! He is incredibly patient, gentle, and detail-oriented. He always checks in to make sure you’re comfortable throughout the entire appointment, and if there’s even the slightest discomfort, he takes the time to adjust and make sure everything is handled properly.
-      He truly cares about his patients and never makes you feel rushed. Every visit has been a great experience because of his professionalism and kindness. I highly recommend Dr. Justin to anyone looking for a dentist who genuinely puts patients first. You won’t regret choosing him!
+      Bellevue Dental Group is amazing! We’ve had such a positive experience with them. The entire team is incredibly knowledgeable, friendly, and, most importantly, so patient with my children. They take the time to explain things, answer questions, and make sure everyone feels comfortable and supported.
+      
+      I would highly recommend Bellevue Dental Group to any family, but especially to parents who have concerns about their child’s airway, breathing, or oral development. Their knowledge in this area has been incredibly valuable to us, and I’m so grateful we found them!
   - name: "Michelle"
     rating: 5
     comment: |
@@ -28,14 +29,15 @@ reviews:
       I had a really great experience with Dr. Justin. He was incredibly kind, attentive, and took the time to carefully walk me through every step of the process, making sure I felt comfortable and understood everything. What stood out the most was how thoughtful and detail-oriented he was throughout the entire visit.
       
       After the appointment, he even followed up to check on how I was doing, which made me feel genuinely cared for as a patient. That level of attention and professionalism gave me a strong sense of trust and safety. I truly appreciated the experience and would highly recommend him to anyone looking for a dentist who goes above and beyond.
-  - name: "007"
+  - name: "Yijie Wang"
     rating: 5
     comment: |
-      Dr. Justin is extremely friendly and professional. He took the time to clearly explain everything and made sure I felt comfortable throughout the entire visit. I really appreciated how patient and reassuring he was, especially since I was a bit nervous. The whole experience was smooth and positive. Highly recommend!
-  - name: "Mark P"
-    rating: 5
+      Dr. Justin is an amazing dentist! He is incredibly patient, gentle, and detail-oriented. He always checks in to make sure you’re comfortable throughout the entire appointment, and if there’s even the slightest discomfort, he takes the time to adjust and make sure everything is handled properly.
+      He truly cares about his patients and never makes you feel rushed. Every visit has been a great experience because of his professionalism and kindness. I highly recommend Dr. Justin to anyone looking for a dentist who genuinely puts patients first. You won’t regret choosing him!
+  - name: "Gord C"
+    rating: 4
     comment: |
-      Ashley & Nora at the front were very nice today, very nice to talk to. Sadie also did a very nice job on my teeth & told me more information about my dental health than any previous dentist before them had told me.
+      Due to me having to reschedule an appointment I had a different hygienist. Every time this happens I have the same result- fantastic treatment! Seems like everyone and anyone here is top notch and has been for the last 20 yrs I’ve been a patient. Why only 4 stars you ask? Too many texts, emails and calls reminding and confirming upcoming appointments. I appreciate that no-shows might be a problem, but I’m still of the mindset that if I say I’ll be there, I’ll be there.
 hours:
   monday: "8:00 AM–4:00 PM"
   tuesday: "8:00 AM–4:00 PM"

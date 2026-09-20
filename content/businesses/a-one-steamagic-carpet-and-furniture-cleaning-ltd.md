@@ -21,10 +21,6 @@ reviews:
     rating: 5
     comment: |
       Mark was great. My 25 year old carpets are the best that I have ever seen them after cleaning by other larger companies. He was very thorough. I strongly recommend this company.
-  - name: "S Colling"
-    rating: 5
-    comment: |
-      Mark did an amazing job. We have had him clean up pet messages and cleaning our carpets in our new house.
   - name: "Lorelei Maher (Fithack)"
     rating: 5
     comment: |
@@ -36,6 +32,10 @@ reviews:
     rating: 5
     comment: |
       A-One Steamagic did a great job cleaning the carpet on our stairs and floors! Mark and his colleague were extremely professional, knowledgable, and completed the job in no time!
+  - name: "Deanne Leah (Home Sewn)"
+    rating: 5
+    comment: |
+      Mark did such a great job on my pullout sofa that I had him do my nest chair while he was here as well. He was very nice and professional. Would definitely use him again and would recommend!
 hours:
   monday: "9:00 AM–6:00 PM"
   tuesday: "9:00 AM–6:00 PM"

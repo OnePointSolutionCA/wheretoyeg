@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/bon-ton-bakery-2-1.jpg", "/photos/bon-ton-bakery-2-2.jpg", "/photos/bon-ton-bakery-2-3.jpg"]
 rating: 4.7
-review_count: 1391
+review_count: 1394
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -34,6 +34,26 @@ reviews:
     rating: 5
     comment: |
       Absolutely love bon ton! They that the most beautiful and delicious cakes/desserts/cookies etc. Things I've only seen on cooking shows, I can buy and try there. One of my favorite things is that nothing seems overly sweetened. You taste the ingredients, not artificial garbage and overly sweet flavors. Highly recommend!
+  - name: "Ghazal Lotfi"
+    rating: 5
+    comment: |
+      Bon Ton Bakery is one of my favourite bakeries in Edmonton. I have tried several items here and have enjoyed everything. Their country sourdough and alpine rye bread are excellent, and the Reuben is one of my favourites but they don’t have it all the time.
+      
+      I also absolutely love the scones. The tarts and flans are very good as well. The quality is consistently high, and everything tastes fresh.
+      
+      I always look forward to stopping by and trying something new. Highly recommend!
+  - name: "Mahsa & Tëma"
+    rating: 5
+    comment: |
+      We have been coming to Bon Ton Bakery for many years, and it continues to be one of those Edmonton places we are always happy to return to.
+      
+      What has kept us coming back is not only the quality and freshness of the baking, but also the wonderful variety. Over the years, some of our favourites have included their raspberry cake, chocolate cake, brownies, flans and, of course, their croissants. We particularly enjoy that they offer two very different almond options: the classic Almond Croissant and the Amandine Croissant, which is double-baked, filled with almond cream and finished with a rum syrup. There always seems to be something familiar to return to as well as something new to discover.
+      
+      Another thing we really appreciate about Bon Ton is that it feels very connected to the local community. Alongside their own breads, pastries and cakes, they carry a good selection of products from other local businesses. It makes the shop convenient for picking up a few specialty items at the same time, but more importantly, we love seeing an established Edmonton business creating space for other local producers.
+      
+      The service has also been consistently excellent. Every staff member we have dealt with has been pleasant, attentive and knowledgeable. Whenever we have had questions about ingredients or dietary restrictions, they have never been brushed aside. Staff have taken the time to check, find the correct information and come back with an answer, always with a smile. That level of care is something we genuinely appreciate.
+      
+      After many years of visits, Bon Ton remains one of our favourite bakeries in Edmonton. Fresh and beautifully made pastries, an impressive selection, wonderful service and a genuine connection to the local community make it a place that continues to stand out.
   - name: "Gino Lau"
     rating: 5
     comment: |
@@ -44,18 +64,6 @@ reviews:
       The service is fantastic. The staff are very friendly, patient, and always able to give great recommendations across my last 4 visits in past 2 months.
       
       This shop has now become part of my weekly routine, and my goal is to try every single item. Edmonton should be proud to have this gem representing one of the professionalism of bakery of the city.
-  - name: "Ghazal Lotfi"
-    rating: 5
-    comment: |
-      Bon Ton Bakery is one of my favourite bakeries in Edmonton. I have tried several items here and have enjoyed everything. Their country sourdough and alpine rye bread are excellent, and the Reuben is one of my favourites but they don’t have it all the time.
-      
-      I also absolutely love the scones. The tarts and flans are very good as well. The quality is consistently high, and everything tastes fresh.
-      
-      I always look forward to stopping by and trying something new. Highly recommend!
-  - name: "Twitchy"
-    rating: 5
-    comment: |
-      An iconic Edmonton bakery with a large selection of baked goods and other items. The staff are very nice and helpful. Their mini cinnamon buns are a personal favourite. Make sure you pick a number from the dispenser to get served. Can get very busy at times. There’s free parking in front and at the side but it does fill up.
   - name: "Sabrina P."
     rating: 5
     comment: |

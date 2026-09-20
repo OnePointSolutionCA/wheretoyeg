@@ -32,6 +32,10 @@ reviews:
     rating: 5
     comment: |
       We had an excellent experience with Black Horse Electric. Michael was transparent, professional, and communicated clearly throughout the entire project. His quote was fair, he showed up on time, and the quality of his work exceeded our expectations. He went above and beyond to make sure everything was done properly and safely. It’s not easy to find someone you can trust, but I would not hesitate to recommend him to anyone looking for electrical work.
+  - name: "Grant B"
+    rating: 5
+    comment: |
+      I was installing some light fixtures in my home when I ran into a couple that were giving me grief. I called Black Horse Electric and they were very responsive. Easy, clear communication and upfront pricing. The electrician that came was knowledgeable, professional and courteous. I would highly recommend Black Horse Electrical for anyone in Edmonton or surrounding areas.
   - name: "Moe Shahab"
     rating: 5
     comment: |
@@ -44,8 +48,4 @@ reviews:
     rating: 5
     comment: |
       Michael was an absolute pleasure to deal with, he quoted me what it would cost to fix my plug ins and despite it being an absolute mess and more work having to be done and more supplies he stuck to his quote, which was very fair in the first place, I would highly recommend anyone requiring an electrician to give him a call. Top notch customer service!
-  - name: "T P"
-    rating: 5
-    comment: |
-      I had a great experience with Mike! He is very professional, punctual, and clearly knowledgeable. His work was very efficiently done and at a reasonable price. I really appreciate how he took the time to explain what was being done. He even checked other items for us that we weren't expecting. Highly recommend Mike for any electrical work.
 ---

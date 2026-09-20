@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–11:00 PM"
 photos: ["/photos/bb2-korean-bbq-house-century-park-1.jpg", "/photos/bb2-korean-bbq-house-century-park-2.jpg", "/photos/bb2-korean-bbq-house-century-park-3.jpg"]
 rating: 4.7
-review_count: 2747
+review_count: 2763
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -53,10 +53,6 @@ reviews:
       As for cleanliness, we arrived around 4:54 PM, shortly after opening at 4:30 PM. As soon as we sat down, I noticed grease buildup on top of the ventilation area and dust along the side wall. I also found leftover food and garbage between the couch seats when I reached in. These are basic cleanliness details that restaurants should maintain properly.
       
       Overall, I would rate this place 3 out of 5. Unfortunately, I do not plan on coming back.
-  - name: "Mochi Neko"
-    rating: 4
-    comment: |
-      Celebrated my Mom's birthday with some Korean BBQ at BB2 Century Park. The 50% off birthday person deal was applicable for dinner only. We went for lunch ($36.95/ person), so they did not give us the discount. The food was good, though! The gopchang (beef small intestines) had a liver pate- like, slightly gritty texture inside and a crisp exterior. It was not bad, but my Dad and I both prefer pig large intestines. The yukhoe (raw beef tartare) was tender and had a fragrant sesame oil aroma. We also enjoyed the pork belly and pork jowl. The shrimp, squid, and scallops were alright. They also had a pretty good hot food buffet section. Overall, a solid Korean BBQ spot with a lot of variety of meats!
   - name: "George Nwigwe"
     rating: 5
     comment: |
@@ -69,4 +65,8 @@ reviews:
     rating: 5
     comment: |
       Superb selection of meats with plenty of options to choose from. The quality is excellent for the price, making it a great value for an AYCE experience. The ambiance is warm and inviting, creating a pleasant dining atmosphere. Service was friendly and efficient, and everything was fresh and well-prepared.
+  - name: "Mochi Neko"
+    rating: 4
+    comment: |
+      Celebrated my Mom's birthday with some Korean BBQ at BB2 Century Park. The 50% off birthday person deal was applicable for dinner only. We went for lunch ($36.95/ person), so they did not give us the discount. The food was good, though! The gopchang (beef small intestines) had a liver pate- like, slightly gritty texture inside and a crisp exterior. It was not bad, but my Dad and I both prefer pig large intestines. The yukhoe (raw beef tartare) was tender and had a fragrant sesame oil aroma. We also enjoyed the pork belly and pork jowl. The shrimp, squid, and scallops were alright. They also had a pretty good hot food buffet section. Overall, a solid Korean BBQ spot with a lot of variety of meats!
 ---

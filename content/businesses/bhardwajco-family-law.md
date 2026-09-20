@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/bhardwajco-family-law-1.jpg", "/photos/bhardwajco-family-law-2.jpg", "/photos/bhardwajco-family-law-3.jpg"]
 rating: 4.8
-review_count: 200
+review_count: 201
 price_range: "$$"
 amenities:
 
@@ -28,26 +28,6 @@ tags: ["edmonton", "legal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Shiraz Sanjad"
-    rating: 5
-    comment: |
-      Jesse was incredible throughout the entire process. He worked extremely hard on my case, explained everything clearly and in detail, and always took the time to answer my questions. Communication was prompt and professional, which made the process smooth and stress-free. Thanks to his dedication and expertise, he was able to settle my claim for a very fair amount. I highly recommend Jesse to anyone looking for knowledgeable and reliable representation.
-  - name: "Conxeppt"
-    rating: 5
-    comment: |
-      Puneet Bhardwaj has been an incredible resource for both our family and real estate legal needs. What sets him apart is not only his expertise, but the team he has built around him. No matter the situation, he always seems to have the right lawyer or specialist available to ensure we're getting the best advice and support possible.
-      
-      He's easy to reach, quick to respond to questions, and takes the time to explain things in a way that makes the entire process feel comfortable and stress-free. Whether it's a real estate transaction or a family matter, Puneet consistently goes above and beyond to make sure everything is handled properly and that his clients feel supported every step of the way.
-      
-      Professional, knowledgeable, trustworthy, and genuinely caring. I would highly recommend Puneet and his team to anyone looking for exceptional legal guidance.
-  - name: "Marikit Mendoza"
-    rating: 5
-    comment: |
-      First and foremost I would like to thank Atty Claire Spicer for being a wonderful support and counsel.
-      
-      I am more than honoured and pleased working with her. Atty Spicer has been great through my journey. Absolutely pleasant and professional to work with. She took a great deal listening and caring about my concerns and tries to make ways to give me answers. I applaud her consistency, integrity and competence - she communicates and is easy to reach. Never did I experience I was left out or left alone in dealing with legal matters. And truly, her legal advices were spot on and I believed in them - they were for my best interest. Where can you find a lawyer looking out for what’s best for you?
-      
-      Therefore I conclude, I had the best experience with Atty Spicer and I wouldn’t ask for more. Thank you so much Atty Spicer. Cheers and here’s to more wins… power on!
   - name: "Dave Chong"
     rating: 5
     comment: |
@@ -62,4 +42,22 @@ reviews:
       Communication was excellent—they kept me updated regularly and were always available to answer my questions. I felt supported and confident that my case was in good hands.
       
       I would definitely recommend them to anyone looking for a reliable and trustworthy lawyer.
+  - name: "Jillian Eacott"
+    rating: 5
+    comment: |
+      I highly recommend Claire. She is professional, knowledgeable, and truly focused on resolution. My case involved a very high-conflict situation, and over the past year we’ve worked toward finalizing my divorce. Claire provided clear guidance every step of the way and helped me understand how the law applied to my situation—even when the outcomes weren’t always what I had hoped for. Her ability to manage expectations while still advocating effectively made a difficult process much easier to navigate.
+  - name: "Shannon Penner"
+    rating: 5
+    comment: |
+      I’m currently working with Claire Spicer at Bhardwaj + Co Family Law for my divorce, and I can’t say enough good things about my experience so far. She is incredibly responsive, stays on top of all paperwork, and makes sure nothing falls through the cracks. What I appreciate most is her honesty; she always gives advice that is truly in my best interest.
+      
+      Going through a divorce is stressful, but having Claire in my corner makes a huge difference. I feel supported, informed, and confident every step of the way. I would highly recommend her to anyone needing a knowledgeable and trustworthy family lawyer.
+  - name: "Conxeppt"
+    rating: 5
+    comment: |
+      Puneet Bhardwaj has been an incredible resource for both our family and real estate legal needs. What sets him apart is not only his expertise, but the team he has built around him. No matter the situation, he always seems to have the right lawyer or specialist available to ensure we're getting the best advice and support possible.
+      
+      He's easy to reach, quick to respond to questions, and takes the time to explain things in a way that makes the entire process feel comfortable and stress-free. Whether it's a real estate transaction or a family matter, Puneet consistently goes above and beyond to make sure everything is handled properly and that his clients feel supported every step of the way.
+      
+      Professional, knowledgeable, trustworthy, and genuinely caring. I would highly recommend Puneet and his team to anyone looking for exceptional legal guidance.
 ---

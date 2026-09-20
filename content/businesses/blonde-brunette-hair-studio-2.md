@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/blonde-brunette-hair-studio-2-1.jpg", "/photos/blonde-brunette-hair-studio-2-2.jpg", "/photos/blonde-brunette-hair-studio-2-3.jpg"]
 rating: 4.9
-review_count: 70
+review_count: 71
 price_range: "$$"
 amenities:
 

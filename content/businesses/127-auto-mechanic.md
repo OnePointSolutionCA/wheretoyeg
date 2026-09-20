@@ -24,10 +24,6 @@ reviews:
       Just wanted to give a very big Thank You to owner Ted & his associates at 127! Instead of hoping to win the lottery to buy a new car, I took my 2012 Toyota RAV4  in to Ted for for a new front bumper (due to black ice) & some much needed body work. This was at the recommendation of my niece who was thrilled with the work she had had done there on her daughter's car.
       
       Ted was super nice & very professional and gave me an excellent pricing quote and time it would take & everything was completed as promised. The job he & his technicians did was absolutely wonderful and my old 2012 looks & runs like it's brand new again; so very happy!!  I will remember my time at 127 for any next times, so thanks very much again😊
-  - name: "Jethray Tecson"
-    rating: 5
-    comment: |
-      Owner Ted went above and beyond by fitting me in for a last-minute pre-purchase inspection on a Saturday evening when no one else would. Big thanks to Ted and Dag for their professional and trustworthy advice. Much appreciated!
   - name: "Emily Froese"
     rating: 5
     comment: |
@@ -40,6 +36,10 @@ reviews:
     rating: 5
     comment: |
       If you are looking for a TOP NOTCH Auto mechanic shop, look no further than to this company!!  The quality of workmanship, incredibly kind owner and his staff cannot be beat.  I be just had my brakes done and the price I paid cannot be beat by ANYONE!  I did my due diligence by contacting other mechanic shops and Red Seal came in lower than them all!!  I will recommend this company to all my friends and will most definitely have future work done here.  Thank you Red Seal!
+  - name: "Jethray Tecson"
+    rating: 5
+    comment: |
+      Owner Ted went above and beyond by fitting me in for a last-minute pre-purchase inspection on a Saturday evening when no one else would. Big thanks to Ted and Dag for their professional and trustworthy advice. Much appreciated!
 hours:
   monday: "8:00 AM–8:00 PM"
   tuesday: "8:00 AM–8:00 PM"

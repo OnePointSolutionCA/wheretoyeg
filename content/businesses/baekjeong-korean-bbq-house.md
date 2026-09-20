@@ -30,10 +30,18 @@ tags: ["edmonton", "korean-bbq"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Vadim K"
+    rating: 5
+    comment: |
+      Attentive staff, great food presentation, delightful authentic Korean meat and sides - this place has it all. Although the restaurant was fairly busy despite it being a weeknight, the food started to come in less than 5 minutes after we ordered (I had waited longer at some "fast" food places!). We ordered the beef combo for 2, which came with a large variety of sides and had enough food to probably feed at least three moderately-hungry adults. The server carefully explained all the foods and how to roast the meats using the built-in table grill. When I ran out of kimchi and marinated onions, they refilled them for free. Overall, a very enjoyable experience!
   - name: "Trinh"
     rating: 5
     comment: |
       Everyone was really nice and welcoming here. We got the fried tentacles and the premium beef small combo. It was very filling for us. We're a family of 5, 2 adults and 3 kids. We also got an order of the japchae, and that was probably the best tasting japchae. The noodles were perfectly chewy and seasoned very well! Definitely will come back whenever I am back in Canada.
+  - name: "Good Guy McAwesomeness"
+    rating: 5
+    comment: |
+      We went as fans of Korean cuisine, but never having had Korean BBQ. We loved it. A casual atmosphere, where you can feel people in their food happy place. The service was fast and friendly. We got a combo for 2, the Baekjong I think, and were finishing up on the bulgogi portion ust as we ran out of room - it was perfect. As newbies, we found frying the meat intuitive (they did give us tips), enjoyable, and insanely tasty. The sides were awesome. Loved it.
   - name: "Yan Z"
     rating: 5
     comment: |
@@ -42,20 +50,4 @@ reviews:
     rating: 5
     comment: |
       The food was very fresh, and the combo meals offer excellent value for the price. The portions were satisfying, and the overall quality was impressive. It would be even better if some of the items in the combo could be customized to suit individual preferences. I understand that very few restaurants offer customizable combo deals, so this is just a suggestion rather than a criticism. Overall, it’s a great place with good food and excellent value.
-  - name: "Daniel Tran"
-    rating: 5
-    comment: |
-      Visit: January 2026
-      
-      Had a great experience here. The staff was really nice and service was extremely quick.
-      
-      We got the set for 4 at lunch (which also came with 10% off!). For the price, there was a lot of food, it was more than enough to feed 5 people (we could have done 6 people). The quality of the meat was excellent!
-      
-      Unlimited sides, with a large variety of sides was great.
-      
-      The space was clean and well layed out. It was spacious and very aesthetic
-  - name: "Mothermaiden #"
-    rating: 5
-    comment: |
-      From the moment we walked in, the smells made my mouth water! What an awesome experience! Our first time and definitely not our last. Service was beyond excellent! We ordered the Premium Beef Combo and every cut was perfect! Unlimited sides as well! Great atmosphere!
 ---

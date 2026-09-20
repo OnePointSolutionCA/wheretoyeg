@@ -40,13 +40,13 @@ reviews:
     rating: 5
     comment: |
       Andrienne is an amazing therapist. She is very knowledgeable and really listens to what your body needs. I came in with tight shoulders and lower back pain, and after the session I felt a huge difference. Her pressure and techniques were perfect. The environment was relaxing and professional. I highly recommend Andrienne if you’re looking for a therapist who truly cares about your wellbeing
-  - name: "Moe H"
-    rating: 5
-    comment: |
-      I’ve had an amazing experience with Dr. Abougoush! He is very knowledgeable, takes the time to really listen, and explain everything clearly. The care is thorough and personalized, and I always feel confident in the treatment plan. I’ve noticed real improvements and genuinely look forward to my visits. Highly recommend!
   - name: "Levitate Cash"
     rating: 5
     comment: |
       Dr. A did amazing work on my hip and shoulder. I was in really bad pain and could barely move. After just one adjustment, he completely turned things around and got me back on my feet feeling so much better.
       He’s very skilled, gentle, and really knows what he’s doing. I’m extremely grateful for the relief he gave me. I highly recommend Dr. A to anyone dealing with pain  he truly helped me when I needed it most!
+  - name: "Jennylynn Turcotte"
+    rating: 5
+    comment: |
+      I have nothing but great things to say about this clinic. Dr. A is knowledgeable, gentle, and takes the time to listen to you. All of the staff are so kind and welcoming and really make sure they are doing their best to help you along your health and wellness journey. 10/10 recommend.
 ---

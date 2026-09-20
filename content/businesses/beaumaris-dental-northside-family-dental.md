@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Castle Downs"
 address: "9936 153 Ave NW, Edmonton, AB T5X 6A4"
 rating: 4.8
-review_count: 87
+review_count: 88
 tier: "featured"
 phone: "(780) 456-7578"
 website: "http://www.beaumarisdental.ca/"

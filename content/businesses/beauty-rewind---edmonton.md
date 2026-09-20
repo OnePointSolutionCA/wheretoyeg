@@ -42,20 +42,12 @@ reviews:
       I had an amazing experience with Madison! She did both my PRP microneedling and hair PRP treatments, and I couldn’t have asked for better care. She made me feel so comfortable, safe, and took the time to explain everything and check in with me along the way.
       
       These treatments can be a little intimidating, but Madison’s professionalism, kindness, and gentle approach made the experience so much better than I expected. I truly felt like I was in great hands. I highly recommend Nurse Madison!
-  - name: "Вікторія Киця"
+  - name: "Cynthia Doroshuk"
     rating: 5
     comment: |
-      I recommend Mila as a good master. My eyebrows have become wonderful. The shape and color suit me. The master is very friendly and attentive to the client. My mother is also satisfied with Mila's services. Now we are her fans. Come to a professional master to get an aesthetic look!
-  - name: "Catherine Guijarno"
+      I can’t recommend Madison enough! She is incredibly talented, professional & always makes me feel so comfortable & taken care of. She pays such close attention to detail & truly cares about her clients & the results they’re looking for. If you’re looking for a cosmetic nurse injector who is knowledgeable, friendly, & genuinely passionate about what she does, definitely book with her!
+  - name: "Apresnoir Boudoir"
     rating: 5
     comment: |
-      I’ve been to a few different places and seen several nurses for my filler and Botox over the years, but for the past couple of years, I’ve been completely loyal to Reichelle at Beauty Rewind. I truly wouldn’t trust anyone else!
-      
-      Reichelle is incredibly thorough and takes the time to explain every step of the process, making sure I feel informed and confident in every decision. She works with me to create a personalized plan that aligns perfectly with what I’m looking for, and I never feel rushed or pressured.
-      
-      In the year leading up to my wedding, she thoughtfully curated a treatment plan that helped me feel my absolute best. On the big day, I felt so confident, beautiful, and like the best version of myself and I owe so much of that to her expertise and care.
-      
-      The studio itself is always spotless, welcoming, and professional. The entire team is so friendly and helpful, which makes every visit such a positive experience.
-      
-      I can confidently say I’ll be coming here forevermore. If you’re looking for someone you can truly trust with your aesthetic treatments, Reichelle is the one!!
+      All the practitioners here are above and beyond! I’ve been in for multiple treatments and I’m always blown away by the kindness and professionalism of the ladies here. My last treatment was with Kara for Elixis and I have to say that was my best experience yet. She really helped me feel better about myself after going through some rough times. Exactly what I needed I cannot recommend this place enough. I’ve truly never seen a more amazing group of staff anywhere!
 ---

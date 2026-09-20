@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/arbel-dance-studio-1.jpg"]
 rating: 5
-review_count: 15
+review_count: 18
 price_range: "$$"
 amenities:
 
@@ -46,12 +46,12 @@ reviews:
     rating: 5
     comment: |
       This is one of the best Latin dance studios I’ve ever seen. The instructors are very professional and make every class exciting and fun. Highly recommend!
-  - name: "Anna Mineev"
-    rating: 5
-    comment: |
-      Such a great experience! I recently started private dance lessons and I’m very happy with my progress. The studio is fantastic. Definitely recommend.
   - name: "Cristina Budnitcaia"
     rating: 5
     comment: |
       Great Latin dance studio! Amazing teachers and fun classes.
+  - name: "Lilia Shlomovitch"
+    rating: 5
+    comment: |
+      Amazing Latin dance studio with great energy and talented teachers. You can really see how much the students improve here.
 ---

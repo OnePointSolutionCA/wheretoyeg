@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/ad-tutoring-services-ielts-test-centre-1.jpg", "/photos/ad-tutoring-services-ielts-test-centre-2.jpg", "/photos/ad-tutoring-services-ielts-test-centre-3.jpg"]
 rating: 4.6
-review_count: 278
+review_count: 277
 price_range: "$$"
 amenities:
 
@@ -40,10 +40,6 @@ reviews:
       The registration and verification process was smooth and well-organized, and the staff clearly explained every step before the test began. They were patient, polite, and always ready to help whenever candidates had questions or concerns. The exam rooms were clean, quiet, and comfortable, creating a very suitable environment for concentration.
       
       Overall, the wonderful attitude and efficiency of the staff made a big difference in my experience. I truly appreciate their support and professionalism, and I would highly recommend this IELTS centre to anyone planning to take the exam.
-  - name: "Halton"
-    rating: 5
-    comment: |
-      I had a very good experience at this IELTS test centre. The staff were professional, friendly and well-organized throughout the whole process. The test room was clean, tidy and comfortable, which helped me feel calm during the exam. Overall, it was a smooth and positive experience.
   - name: "Jareth Digor"
     rating: 3
     comment: |
@@ -58,4 +54,9 @@ reviews:
       I recently took my IELTS test at this centre and I highly, highly recommend it. What stood out for me was their incredible support—they are very responsive to emails and extremely helpful in guiding you through the process if you face any issues.
       On the exam day, the environment was very calming for me, and I felt much less anxious than I expected. My IELTS Speaking examiner was such a positive and energetic person; as soon as I started speaking with him, all my nervousness disappeared. I ended up getting a 7.5 in Speaking, which I was thrilled about!
       Overall, the people here are very kind and supportive. If you are looking for a stress-free environment to take your test, this centre is the best choice!
+  - name: "Ashish Anghan"
+    rating: 4
+    comment: |
+      I would never ever  chose  british council  for my ielts exam.cente was very responsive and helfull but choose wrong partner
+      For getting TRF was nightmare; it took 10week to tell me that your results can not be issued  and it permanently withheld.  And guess what? No explanation no transparency nothing . I think they just feel liked that day to not issue  results. And if you wanna appeal  then throw more money  on them to listen  your complain and it will took another  14 week to get answers. No wonder why Britishcouncil is declining phase.
 ---

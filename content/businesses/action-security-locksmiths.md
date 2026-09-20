@@ -39,10 +39,6 @@ reviews:
     rating: 5
     comment: |
       Action Security Locksmiths are lifesavers! Got keys cut in minutes - quick, precise and super friendly staff who go the extra mile. They made it so easy that I almost want to lose my keys just to go back. I would highly recommend this service.
-  - name: "Unknown"
-    rating: 5
-    comment: |
-      Took motorcycle ignition in to get a key to fit, great service..works great good price.
   - name: "Joselita Pighin"
     rating: 5
     comment: |
@@ -55,4 +51,10 @@ reviews:
     rating: 5
     comment: |
       Amazing service! Timely and efficient, shout out to Vincent for being an exceptional professional 😊
+  - name: "ANDREA GUERRERO"
+    rating: 5
+    comment: |
+      There are no words to describe how much they helped us, we had a problem with an old lock and they helped us in just 10 minutes.
+      
+      The place is spacious and clean, the staff is friendly and the prices are affordable. 100% recommendable
 ---

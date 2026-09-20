@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Beaumont"
 address: "50009 AB-814, Leduc County, AB T4X 0K2"
 rating: 4.8
-review_count: 29
+review_count: 30
 tier: "featured"
 phone: "(780) 986-1383"
 google_maps: "https://maps.google.com/?cid=13896864357492646356&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

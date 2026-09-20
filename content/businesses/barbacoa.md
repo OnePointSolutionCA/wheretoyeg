@@ -6,7 +6,7 @@ subcategory: "steakhouse"
 neighborhood: "Spruce Grove"
 address: "470 South Ave Unit C, Spruce Grove, AB T7X 2E9"
 rating: 4.8
-review_count: 2393
+review_count: 2406
 tier: "featured"
 phone: "(780) 571-1717"
 website: "http://www.barbacoa.ca/"

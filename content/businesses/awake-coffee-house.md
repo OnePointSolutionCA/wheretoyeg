@@ -17,14 +17,14 @@ reviews:
     rating: 5
     comment: |
       Interesting concept, shared space with pharmacy. Perfect spot for waiting. Free parking, perfect spot for laptop work. Bright and open interior, comfortable. Egg waffle was good 👍🏻 chewy and strong vanilla taste. Drip coffee tastes strong too.
-  - name: "Experience Seeker"
-    rating: 5
-    comment: |
-      Popped in to this quaint little spot this morning while my parents were at an appointment next door. Young lady greeted me with a smile and took my order. Cinnamon bun warmed up with a large coffee. Cinnamon bun was excellent, warm and moist like it was baked this morning. Coffee was nice and hot, I’ve never had medium roast before, don’t know that I ever will lol. No fault of there’s for me wanting to try something new. Even with the sound of the morning traffic along 111 st I found sitting here to be quite relaxing. Will definitely come back again.
   - name: "Madisonkd"
     rating: 5
     comment: |
       A great find just off of the Henday/111 St. I will be thinking about the lavender honey latte for awhile; a must try! Wish I had the appetite for one of the waffles as they looked amazing but just had a very scrumptious raspberry danish. Never heard of the drumroaster company but the decaf was very smooth.
+  - name: "Experience Seeker"
+    rating: 5
+    comment: |
+      Popped in to this quaint little spot this morning while my parents were at an appointment next door. Young lady greeted me with a smile and took my order. Cinnamon bun warmed up with a large coffee. Cinnamon bun was excellent, warm and moist like it was baked this morning. Coffee was nice and hot, I’ve never had medium roast before, don’t know that I ever will lol. No fault of there’s for me wanting to try something new. Even with the sound of the morning traffic along 111 st I found sitting here to be quite relaxing. Will definitely come back again.
   - name: "A. Spencer"
     rating: 5
     comment: |

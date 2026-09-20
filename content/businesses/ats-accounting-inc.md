@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/ats-accounting-inc-1.jpg", "/photos/ats-accounting-inc-2.jpg", "/photos/ats-accounting-inc-3.jpg"]
 rating: 4.8
-review_count: 429
+review_count: 428
 price_range: "$$"
 amenities:
 

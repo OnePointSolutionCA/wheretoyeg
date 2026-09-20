@@ -19,7 +19,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/afghan-grill-1.jpg", "/photos/afghan-grill-2.jpg", "/photos/afghan-grill-3.jpg"]
 rating: 4.3
-review_count: 40
+review_count: 43
 price_range: "$"
 amenities:
   - "Halal"
@@ -38,14 +38,14 @@ reviews:
       We told them twice not to make our food spicy, but they still made it very spicy.
       The manti was full of oil and had almost no meat inside. The bolani had so little filling that it was hard to tell if there was anything inside at all.
       I don’t recommend this restaurant. In my opinion, it is not worth the money. Save your money and choose another place.
-  - name: "Maricris R."
+  - name: "Deon Beattie"
     rating: 5
     comment: |
-      I ordered the lamb. It was delicious. I love the green sauce it complemented everything. The service was friendly. I will definitely come back again.
-  - name: "Eckybloke"
+      Excellent food at good prices. And a welcome addition to variety at WEM. If you are looking for something different I strongly recommend.
+  - name: "Ali SM"
     rating: 5
     comment: |
-      We had the simple lamb kebab and the beef kebab. Really really tasty and the green sauce that came with it was delicious. Potentially my go to place in WEM
+      Extremely delicious and authentic Afghani food, the owner was very nice and really filled our plates! For the price it’s definitely worth what you’re getting. I would recommend the lamb, or there kebabs. 10/10
   - name: "Alex Yeoh"
     rating: 5
     comment: |

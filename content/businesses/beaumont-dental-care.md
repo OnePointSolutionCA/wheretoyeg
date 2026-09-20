@@ -34,13 +34,15 @@ reviews:
       What stood out equally was his exceptional staff. They were not only accommodating but also displayed remarkable patience, staying well past their closing time to ensure my procedure was completed to the highest standard.
       
       This experience truly reflects the dedication and patient-centered care that this dental practice offers. Highly recommended for anyone seeking a dentist who goes above and beyond in both skill and service!
-  - name: "Betty Thorne"
+  - name: "Nick Brady"
     rating: 5
     comment: |
-      I am submitting a review for Dr. Michael Bernard and his team of associates. I want to tell the world how much I appreciate them and the work they do.
-      I went in for a consultation and was nervous and certain that I would be told my only option would be to have my teeth removed and upper and lower dentures made to replace my teeth.
-      Well within minutes my nerves were calm. How wrong my thoughts were, because Dr. Bernard assured me he could save my teeth. I instantly trusted him and his full staff and put myself in his care. I had a full exam and xrays and patiently everything was explained to me. Over the course of a few months and their expertise I still have all my teeth including my wisdom teeth and a shiny new replacement crown on a back molar.
-      I looked forward to every visit and he and his team worked miracles. (angels do walk among us). Dr. Bernard and his team have certainly made me a very happy old lady and with their continued professional care I should get at least another 75 years out of my teeth. God Bless you Dr Michael Bernard and your whole wonderful staff.
+      If there was an option for 6+ stars, they would deserve it.
+      A very good friend of mine made a recommendation that my family book appointments, and Dr. Bernard and his team exceeded all high expectations that were in mind.
+      From the moment we walked in, it was a very comfortable and welcoming atmosphere.
+      When you are in the chair, you feel informed but not judged.
+      You are presented with all options and the course of action that can be taken.
+      Dr. Bernard should be proud of the office he has built.
 hours:
   monday: "11:00 AM–7:00 PM"
   tuesday: "8:00 AM–4:00 PM"

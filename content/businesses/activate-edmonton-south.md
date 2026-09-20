@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "1949 98 St NW, Edmonton, AB T6N 1L5"
 rating: 4.9
-review_count: 1597
+review_count: 1629
 tier: "featured"
 phone: "(587) 480-7446"
 website: "https://playactivate.com/edmonton-south"
@@ -13,14 +13,14 @@ google_maps: "https://maps.google.com/?cid=1855353968865242944&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/activate-edmonton-south.jpg"
 reviews:
-  - name: "Kassandra Wong"
-    rating: 5
-    comment: |
-      First time at this location and had a blast! We went at a later time and even though they were busy, staff went above and beyond when we had issues with our wristbands. Justin, Jeremy, Azalfa, Sora, Gabby, Michael, and Aaron were super friendly. This location has a very nice atmosphere and super fun games. Worth the drive and will 100% be back again!
   - name: "Nicole Y."
     rating: 5
     comment: |
       I had a great time at Activate South Common! The games are super fun and interactive, and there’s a really good variety so everyone can find something they enjoy. The staffs (Yannick and CJ) were also incredibly friendly and helpful, always ready to explain the games and make sure we had a great experience. Definitely a fun place to hang out with friends or family. Highly recommend checking it out!
+  - name: "Kassandra Wong"
+    rating: 5
+    comment: |
+      First time at this location and had a blast! We went at a later time and even though they were busy, staff went above and beyond when we had issues with our wristbands. Justin, Jeremy, Azalfa, Sora, Gabby, Michael, and Aaron were super friendly. This location has a very nice atmosphere and super fun games. Worth the drive and will 100% be back again!
   - name: "Calvin Pittao"
     rating: 5
     comment: |

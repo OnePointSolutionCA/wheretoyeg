@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/aanchal-indian-restaurant-bakery-1.jpg", "/photos/aanchal-indian-restaurant-bakery-2.jpg", "/photos/aanchal-indian-restaurant-bakery-3.jpg"]
 rating: 4.9
-review_count: 88
+review_count: 90
 price_range: "$"
 amenities:
   - "Halal"
@@ -33,10 +33,6 @@ reviews:
     rating: 5
     comment: |
       Best Indian food I've ever eaten .  Even better that what I've had in London or Dublin.  Service was great and we were treated to a complimentary dessert.  This is a small restaurant geared more to take out but was very enjoyable eating in as well
-  - name: "Amit Bhagat"
-    rating: 5
-    comment: |
-      Had a great experience at Aanchal Restaurant! The butter chicken was rich, creamy, and full of flavor. The naan was fresh and soft, and the samosas were crispy and delicious. Really enjoyed the food and would definitely visit again!
   - name: "Eden Arthur"
     rating: 5
     comment: |
@@ -45,6 +41,10 @@ reviews:
     rating: 5
     comment: |
       Had a great experience at Aanchal Indian Restaurant! The pani puri was fresh and full of flavor, the dahi bhalla papdi was delicious and perfectly balanced, and the pizza was tasty with a nice crispy base.
+  - name: "Amit Bhagat"
+    rating: 5
+    comment: |
+      Had a great experience at Aanchal Restaurant! The butter chicken was rich, creamy, and full of flavor. The naan was fresh and soft, and the samosas were crispy and delicious. Really enjoyed the food and would definitely visit again!
   - name: "Andre C"
     rating: 5
     comment: |

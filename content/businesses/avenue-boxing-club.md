@@ -40,12 +40,12 @@ reviews:
     rating: 5
     comment: |
       Had an awesome first experience here at the weekend bag class with Stan. I was expecting a simple cardio class, but Stan really stood out as an amazing teacher to me. Along with running the class, he takes his time walking around observing each person and providing useful feedback to correct form. You can really tell he has a deep passion and understanding for boxing, along with an open, patient & non-judgemental teaching style; a perfect combo. I live 40+ minutes away, but will gladly commit to the commute. 10/10, definitely recommend!
-  - name: "E C"
-    rating: 5
-    comment: |
-      Awesome place to get a great workout. Stan’s an absolute pleasure to work with.
   - name: "Vietadonis"
     rating: 5
     comment: |
       Stanley's a great boxing coach. I highly recommend this gym to anyone who's considering this sport.
+  - name: "Pratyush Sharma"
+    rating: 5
+    comment: |
+      Its an amazing place to learn boxing. Stan and Alex both are amazing at pushing you to your limits
 ---

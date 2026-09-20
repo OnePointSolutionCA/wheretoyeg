@@ -14,10 +14,15 @@ google_maps: "https://maps.google.com/?cid=7021409066308618273&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/binx-automotive-inc.jpg"
 reviews:
-  - name: "Ashleigh S"
-    rating: 1
+  - name: "Jody Bohay"
+    rating: 5
     comment: |
-      Our truck was insurance inspected here because other shops couldnt get it done quick enough. They found fuel pump issues and parking brake broken. They werent even going to tell us they planned to put in a knock off part. We bought a Ford part for less than theyd charge for the knockoff. We figured certain noises were just how it drives and we're not used to it. They drove it a fair bit testing the fuel pump. Turns out its needed a wheel bearing all along which my husband said was extremely obvious once he checked. They checked everything off as inspected and fine on the checklist. Since it was "inspected" we've barely put on 200kms and are now replacing the bearing today. When my husband retorqued the wheels after the parking brake repair, he said one wheel was barely on, and thank goodness he checked. I have absolutely no peace of mind from this "inspection". Now we have a month long summer camping trip coming up and worry what else they ignored or didn't actually check. My husband is rechecking everything himself to ensure we aren't stranded in the mountains or worse.
+      My Car overheated in the registries parking lot across the street.
+      I walked over to ask if someone had some coolant and to see if maybe someone was able to look over it quickly to see if I had to call AMA.
+      No questions asked, a mechanic (sawyer I think his name was) walked over with me and looked everything over.
+      He helped me identify my next steps, put me at ease and let me keep the coolant at no charge.
+      Old school, small community kindness, you don’t see often.
+      Thanks Binx Auto! 👌🏼🤗
   - name: "Jeremy Latta"
     rating: 5
     comment: |

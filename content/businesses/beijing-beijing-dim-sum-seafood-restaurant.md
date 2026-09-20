@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–8:30 PM"
 photos: ["/photos/beijing-beijing-dim-sum-seafood-restaurant-1.jpg", "/photos/beijing-beijing-dim-sum-seafood-restaurant-2.jpg", "/photos/beijing-beijing-dim-sum-seafood-restaurant-3.jpg"]
 rating: 4.1
-review_count: 1514
+review_count: 1520
 price_range: "$$"
 amenities:
   - "Dine-In"

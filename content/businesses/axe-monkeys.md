@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–8:00 PM"
 photos: ["/photos/axe-monkeys-1.jpg", "/photos/axe-monkeys-2.jpg", "/photos/axe-monkeys-3.jpg"]
 rating: 4.8
-review_count: 800
+review_count: 807
 price_range: "$$"
 amenities:
 
@@ -28,10 +28,12 @@ tags: ["edmonton", "axe-throwing"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Abigail Teixeira"
+  - name: "Charlotte Mahoney"
     rating: 5
     comment: |
-      A friend of mine was visiting from out of town recently, and we decided to check out this place to blow off some steam as both of us have been going through some difficult life circumstances. It was so much fun. The staff was super friendly and there was lots of items that were included with our visit. I will definitely be coming back and next time saving up for the big screen TV to smash.
+      We had such a positive experience here! If you are looking for a fun and positive experience, this is time well spent. We were greeted by Danielle, a kind, competent and encouraging staff member. She is great and made the experience fun - clear instructions and organized!
+      The axe throwing was so much fun! Lots of laughter!
+      As well, a sincere thank you to the kind people that were there before us and left their remaining balance of their gift card to pay it forward! Such kindness is noticed and very much appreciated! Thank you to all at Axe Monkeys!
   - name: "Sandy Viegas"
     rating: 5
     comment: |
@@ -53,8 +55,8 @@ reviews:
       Afterwards, you can throw axes. You see this like Rec Room. Only differences is that if you hit bullseye, you can ring the bell to say that you hit bullseye. I have rang the bell a couple of times. And you can spend a bit more money to use different throwing weapons like knife, small axes etc.
       
       I will come back again! Good thing Up 99.3 advertise this place as I would not know this exist. And cheaper than shooting guns.
-  - name: "Colten Petkau"
+  - name: "Abigail Teixeira"
     rating: 5
     comment: |
-      Danielle was taking care of us when we visited, I love her vibe so fun to hang around! I learned lots about thrown sharp things and had such a blast!! Highly recommend visiting!
+      A friend of mine was visiting from out of town recently, and we decided to check out this place to blow off some steam as both of us have been going through some difficult life circumstances. It was so much fun. The staff was super friendly and there was lots of items that were included with our visit. I will definitely be coming back and next time saving up for the big screen TV to smash.
 ---

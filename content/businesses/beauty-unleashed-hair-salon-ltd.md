@@ -5,7 +5,7 @@ category: "spas-esthetics"
 neighborhood: "Beaumont"
 address: "5025 58 St, Beaumont, AB T4X 1B8"
 rating: 5
-review_count: 25
+review_count: 26
 tier: "featured"
 phone: "(780) 938-8984"
 website: "http://beauty-unleashed-hair-studio.square.site/"

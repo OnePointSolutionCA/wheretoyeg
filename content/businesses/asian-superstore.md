@@ -19,7 +19,7 @@ hours:
   sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/asian-superstore-1.jpg", "/photos/asian-superstore-2.jpg", "/photos/asian-superstore-3.jpg"]
 rating: 4.3
-review_count: 233
+review_count: 234
 price_range: "$$"
 amenities:
   - "Dine-In"

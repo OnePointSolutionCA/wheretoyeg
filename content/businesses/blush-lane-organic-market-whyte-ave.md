@@ -44,12 +44,12 @@ reviews:
     rating: 5
     comment: |
       I bought some heavy cream here, and it unfortunately went bad before the due date. However, I wasn’t able to return it for several weeks. So I had taken a video to prove what happened. I went into the store thinking they probably wouldn’t be able to take it back, but the staff and manager were so kind and helpful. They let me return it, no questions. I was so amazed at how good and fast the customer service was
+  - name: "Michelle Leclair"
+    rating: 5
+    comment: |
+      My favorite grocery store in Edmonton!! Awesome selection of produce, grocery items, and natural products. The staff are amazing - I bought some food for a homeless individual and the staff told me to take some of the fruit from the basket at the front of the store as well
   - name: "Diane S"
     rating: 5
     comment: |
       Writing this fantastic review for a cashier that works at the store, his name is Marcus and he goes out of his way to help me when I am shopping at the store. I don’t understand why people feel the need to post such negativity towards him, his mother has gone through significant health problems recently and he is the only person caring for her at the moment. I can imagine it takes a lot of out a person to be a sole caregiver. Even with his hardships, he still manages to give excellent customer service to me when I come in, and I enjoy talking to him. Managers please do not listen to the negative feedback. He is a good worker.
-  - name: "Latica Hyatt"
-    rating: 5
-    comment: |
-      I moved from Toronto, where there is a variety of Organic and natural markets; however, only being here for 3 months, this store was recommended to me by a shop in St.Albert. I love the store setup, they have the brand of dates I enjoy, they have a variety of dairy brands, organic fruits and supplements as well. The staff was nice, and I plan on adding Blush to my grocery routine market.
 ---

@@ -12,6 +12,18 @@ google_maps: "https://maps.google.com/?cid=2646795241373122541&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/barcelos-flame-grilled-chicken-windermere.jpg"
 reviews:
+  - name: "Abdul Sami"
+    rating: 4
+    comment: |
+      Visited on Saturday August 1, 2026
+      
+      Nice clean and trendy looking restaurant with good customer service.
+      
+      One can’t help but notice that they copied concept of Nandos with few small changes here and there. There is nothing wrong following someone good, however chicken portion was small and not very tasty.
+      
+      Baked potato was also small in size.
+      
+      Service was good.
   - name: "Jeff"
     rating: 5
     comment: |
@@ -32,16 +44,12 @@ reviews:
       The cheesecakes on the other hand could be better, which is surprising considering it's from The Cheesecake factory. They didn't live to expectations but barcelos meals were on point!
       
       Staff were amazing and friendly and service was swift and flawless.
-  - name: "Arnelle Cruz"
-    rating: 5
-    comment: |
-      What will I say about Barcelos Windermere Restaurant in Edmonton? Well I have a whole lot to say. First, this place is one of my very favorite for my family and I. If you know me well enough, you will know that I love rice and at Barcelos Windermere, they make the perfect rice for me. Their chicken is to died for, meaning that it is tasty, tender, delicious and comes with different flavors such : Tangy Lemon, Prego, Mild Peri, Very Peri, Supa Peri. Oh and you haven't tasted their chicken livers, they know how to make you want more. Not forgetting to add the coleslaw it goes just right with their rice. If you do have children you can also order fries as well, it's one of my children favorite. Let's talk their customer services, this Restaurant and it's team knows how to make you feel like family. Looking for a place to chill with friends and family, come and visit one of my favorite Restaurants in Edmonton BarcelosWindermere. Will leave some pictures just for a mouth watering tease.
 hours:
   monday: "11:00 AM–10:00 PM"
   tuesday: "11:00 AM–10:00 PM"
   wednesday: "11:00 AM–10:00 PM"
-  thursday: "11:00 AM–12:00 AM"
-  friday: "11:00 AM–12:00 AM"
-  saturday: "11:00 AM–12:00 AM"
+  thursday: "11:00 AM–10:30 PM"
+  friday: "11:00 AM–11:30 PM"
+  saturday: "11:00 AM–11:30 PM"
   sunday: "11:00 AM–10:00 PM"
 ---

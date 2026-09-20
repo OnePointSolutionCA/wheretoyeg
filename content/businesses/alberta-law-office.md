@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/alberta-law-office-1.jpg", "/photos/alberta-law-office-2.jpg", "/photos/alberta-law-office-3.jpg"]
 rating: 4.9
-review_count: 136
+review_count: 137
 price_range: "$$$"
 amenities:
   - "Free Consultation"

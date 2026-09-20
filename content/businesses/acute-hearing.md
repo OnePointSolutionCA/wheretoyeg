@@ -13,6 +13,18 @@ google_maps: "https://maps.google.com/?cid=7705868316759801338&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/acute-hearing.jpg"
 reviews:
+  - name: "G Nelson"
+    rating: 5
+    comment: |
+      I cannot recommend my audiologist highly enough. She is the perfect combination of professionalism, knowledge, kindness, and genuine compassion. From the moment you walk through the door, she makes you feel comfortable, listened to, and valued.
+      
+      She never rushes appointments and always takes the time to answer every question thoroughly, ensuring I fully understand my hearing care and treatment options. Her patience, understanding, and attention to detail are truly exceptional.
+      
+      It is rare to find someone who provides such outstanding service while also making each visit feel personal and welcoming. She consistently goes above and beyond for her patients, and it shows in everything she does.
+      
+      If I could give her more than five stars, I absolutely would. She has earned a perfect 10-star rating in my book. I am incredibly grateful for her expertise, dedication, and the excellent care she provides.
+      
+      Thank you Linda!
   - name: "Marlon Cruz"
     rating: 5
     comment: |
@@ -29,10 +41,6 @@ reviews:
     rating: 5
     comment: |
       Been going to Linda for more than 4 years. I have a unique hearing problem in that I do not hear on my right ear. Linda provided me with a Phonak CROS/BiCROSS system. Excellent service, always ready to help.Always enjoy my visit.
-  - name: "Sasha Alexia White"
-    rating: 5
-    comment: |
-      Michelle is super friendly upon entry and Linda the Hearing Aid Practitioner is super friendly and thorough. She made my hearing test go as smooth as possible. She provided me with options to accommodate me.
 hours:
   monday: "9:00 AM–5:00 PM"
   tuesday: "9:00 AM–5:00 PM"

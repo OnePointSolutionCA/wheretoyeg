@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/ali-baba-turkish-grill-1.jpg", "/photos/ali-baba-turkish-grill-2.jpg", "/photos/ali-baba-turkish-grill-3.jpg"]
 rating: 4.7
-review_count: 506
+review_count: 505
 price_range: "$$"
 amenities:
   - "Halal"
@@ -48,12 +48,20 @@ reviews:
     comment: |
       Amazing place! We always drive by here but decided to give it a shot.
       We ordered the trio kebab platter and the chicken was so juicy and tender! I usually prefer beef but this is likely the only time I will choose the chicken over beef. The serving is huge too! We also like the babaganoush but I didn’t take a picture because we were so hungry we just ate it all.
-  - name: "Enrique Zenteno"
+  - name: "C"
+    rating: 4
+    comment: |
+      Good food and service.
+      Trio platter and Daily fish.platter.
+      Meat was tender. My salad had a but too much dressing on it.
+      I did not like the fish but my friend enjoyed it.
+      The meal came with fresh bread and they served us hot tea at the end.
+  - name: "canadian brewhouse"
     rating: 5
     comment: |
-      The food is very tasty.  The portions are pretty good. The ratio quality/price is perfect. I totally recommend it.
-  - name: "Hypresion"
-    rating: 5
-    comment: |
-      3rd time coming. Portions are better than competition, kind ladies who help you,and absolutely amazing food. Beef kaftan, chicken thighs and beef shawarma are peak. Their pita is also quite unique and comes with amazing hummus, flavorful baba ganoush and the toum w salad
+      Had the pleasure to be greeted and served by a lovely girl named Amina ♥️
+      She was so friendly and patient with me and my friend as we have never eaten Turkish food before and she answered all our questions.
+      The food was amazing and very large portions.
+      We will be back very soon.
+      Special thanks to AMINA!
 ---

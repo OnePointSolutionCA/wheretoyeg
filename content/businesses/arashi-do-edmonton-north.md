@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/arashi-do-edmonton-north-1.jpg", "/photos/arashi-do-edmonton-north-2.jpg", "/photos/arashi-do-edmonton-north-3.jpg"]
 rating: 4.9
-review_count: 86
+review_count: 87
 price_range: "$$"
 amenities:
 

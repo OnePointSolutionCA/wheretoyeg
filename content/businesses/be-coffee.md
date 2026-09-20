@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Mill Woods"
 address: "11015 26 Ave NW, Edmonton, AB T6J 5V3"
 rating: 4.6
-review_count: 551
+review_count: 553
 tier: "featured"
 phone: "(780) 341-6654"
 website: "http://www.becoffeeyeg.ca/"
@@ -13,6 +13,10 @@ google_maps: "https://maps.google.com/?cid=13682041218324872108&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/be-coffee.jpg"
 reviews:
+  - name: "Shane Zapanta"
+    rating: 5
+    comment: |
+      BE Coffee is amazing, as for someone who isn't fan of too much sweetness, their desserts are delightful! We will definitely revisit this cafe and recommend to people who also enjoy the same pallet. My sister and I aren't fan of sugary stuff and we are definitely impressed of the drinks as well, especially the iced teas.  We also enjoyed their samples that they have, so much so that we hope the cafe adds it in to the menu! The Staff are very accommodating.
   - name: "Allan Dale"
     rating: 4
     comment: |
@@ -41,26 +45,15 @@ reviews:
       The service was respectful and efficient, though it could have felt a little warmer. A more cheerful or welcoming interaction would add a lot to the overall vibe, especially in a café with such a charming concept. That said, everyone can have a busy or off day, and it would not stop us from returning.
       
       Overall, BE Coffee is a creative and memorable café with thoughtful presentation, interesting drinks, and a very charming atmosphere. We would definitely come back, and next time we would love to try the matcha flight.
+  - name: "Diana Athena Mittelsteadt"
+    rating: 4
+    comment: |
+      Popped into BE Coffee to take a break and kill some time, and I was so impressed by the amazing decor! They do a fantastic job with the bee-and-garden theme throughout the space. I was surprised by their huge food assortment, which includes a lot of great breakfast and lunch options alongside the beautiful patisseries in the pastry case. I tried a flight of coffee with different flavourings; the drinks were enjoyable, though the cost for the flight and a muffin was around $20+, which felt a bit high for the portion sizes. A quick heads-up if you plan on working here: outlets are very limited, so make sure your devices are charged. They also have a friendly reminder asking guests to limit their stay to a reasonable two hours during peak times, which is completely fair. Overall, a beautiful and charming spot to visit!
   - name: "Zoo Man"
     rating: 3
     comment: |
       Ordered honey lavender latte, blueberry cheesecake and cinnamon bun. Those were tasty but not outstanding. Great atmosphere.
       But really hard to find parking there.
-  - name: "Rain"
-    rating: 5
-    comment: |
-      Fun and beautiful place to be at. Excellent service. Loved the red velvet cake and cappuccino. I’ll come back again.
-  - name: "Shyra"
-    rating: 4
-    comment: |
-      After owner response:
-      Thank you for the kind response and for replacing the drink. I do appreciate that.
-      
-      I actually showed the photo when I placed the order and again when I picked it up because I noticed it didn’t look like the advertised picture. I was hoping it could be corrected at that point. The main issue for me is that I really don’t like jelly, and I don’t feel it mixes well with matcha. I was genuinely excited to try the drink(in the picture) based on the photo, so it was disappointing when what I received looked quite different.
-      
-      My other concern was the communication from the staff. A more positive and understanding response would have completely changed my experience. Instead, I felt like I was being treated as though I was a difficult customer for simply asking about the difference. You can even review the camera footage from when I showed my phone and asked about the drink. A little sweetness and I might have not felt compelled to even write this review tbh.
-      
-      I do appreciate you taking the time to respond and addressing the issue.
 hours:
   monday: "7:30 AM–8:00 PM"
   tuesday: "7:30 AM–8:00 PM"

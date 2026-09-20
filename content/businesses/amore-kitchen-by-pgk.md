@@ -29,15 +29,15 @@ reviews:
     rating: 5
     comment: |
       We are extremely happy with our experience getting catering for our wedding with Amore. From getting a quote, to setting up details, and delivery outside the city, they’re service was 10/10! We ordered pasta, the pesto and the seafood linguine were a hit! Also the chicken parm was delicious! Super impressed with the whole experience!
+  - name: "Lin Snelling"
+    rating: 5
+    comment: |
+      Everything about this catering experience was stellar! Highly recommend Amore Kitchen.
   - name: "chris rechner"
     rating: 5
     comment: |
       Amore catered a big party for me with wonderful salads, risotto and pasta. From menu planning to execution, it was a great experience. Even with the giant buffet trays, the pasta was small plate restaurant quality, and everyone raved about the homemade sauces.
       Don't sleep on the cupcakes. They are some of the best in the city.
-  - name: "Bryanne Tywoniuk"
-    rating: 5
-    comment: |
-      We hosted a party for 35 people and used Amore Kitchen for all the food. We had an amazing charcuterie board and delicious pasta dishes, Caesar salad and a giant pan of tiramisu. Everyone was so impressed and complimenting the flavour and presentation. Melissa was great and easy to work with. They delivered and set everything up! As the host, I was relieved and grateful for the excellent service. Will use Amore again!
 hours:
   monday: "10:00 AM–9:00 PM"
   tuesday: "10:00 AM–9:00 PM"

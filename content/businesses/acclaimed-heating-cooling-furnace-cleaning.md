@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/acclaimed-heating-cooling-furnace-cleaning-1.jpg", "/photos/acclaimed-heating-cooling-furnace-cleaning-2.jpg", "/photos/acclaimed-heating-cooling-furnace-cleaning-3.jpg"]
 rating: 4.8
-review_count: 1382
+review_count: 1385
 price_range: "$$$$"
 amenities:
 
@@ -28,10 +28,6 @@ tags: ["edmonton", "hvac"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Jack W"
-    rating: 5
-    comment: |
-      Acclaimed fitted an air conditioning unit 5 years ago and I had to call them due to the unit stopping working. Not only did I manage to get an appointment for a technician to come out and fix it within 3 days, the issue was resolved in less than a few hours, completely under warranty. Ed was the technician and did a superb job fixing the unit and communicating with me throughout. He is a testament for your business, and has set a new benchmark for my expectations when dealing with all trades. Thank you Acclaimed, thank you Ed - keep providing excellent customer service, fitting great products, and standing behind them when there are issues.
   - name: "Kayla Morin"
     rating: 5
     comment: |
@@ -56,6 +52,10 @@ reviews:
     rating: 5
     comment: |
       Ed P is so awesome!  Took the time to explain everything to me and show me. And did a wonderful job. He even cleaned my floor floors after his shoes, tracked a little bit of dust! Appreciate having such an informed and skilled individual to help support me with my Furnace and AC needs. Acclaim hires good, Knowledgable professionals.
+  - name: "Jack W"
+    rating: 5
+    comment: |
+      Acclaimed fitted an air conditioning unit 5 years ago and I had to call them due to the unit stopping working. Not only did I manage to get an appointment for a technician to come out and fix it within 3 days, the issue was resolved in less than a few hours, completely under warranty. Ed was the technician and did a superb job fixing the unit and communicating with me throughout. He is a testament for your business, and has set a new benchmark for my expectations when dealing with all trades. Thank you Acclaimed, thank you Ed - keep providing excellent customer service, fitting great products, and standing behind them when there are issues.
   - name: "Racquel Hardy"
     rating: 5
     comment: |

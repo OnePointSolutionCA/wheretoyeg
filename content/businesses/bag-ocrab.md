@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:30 PM"
 photos: ["/photos/bag-ocrab-1.jpg", "/photos/bag-ocrab-2.jpg", "/photos/bag-ocrab-3.jpg"]
 rating: 4.8
-review_count: 740
+review_count: 741
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -48,12 +48,12 @@ reviews:
       
       Stop by for a great time!!
       I would like to give a shout out to Lisa.
-  - name: "Gloria Wang"
+  - name: "Enrike Onairos"
     rating: 5
     comment: |
-      We ordered the lobster tail and Combo #2 (which comes with shrimp and snow crab), and everything was absolutely delicious. We chose the Atomic “On Fire” sauce, and it was perfect with the seafood—super flavorful, rich, and definitely spicy! If you love spicy food, the “On Fire” level is a must-try.
-      
-      The service was also excellent—staff were friendly, attentive, and made the whole experience even better. Highly recommend this place!
+      If you are craving fresh seafood, Bag O Crab in West Edmonton Mall is definitely the place to go! We ordered the combos with crab, shrimp, and sausages, along with the fried calamari—everything was exceptionally fresh and absolutely delicious.
+      A special shoutout to our server, Emily, who was so sweet, nice, and friendly! She was attentive and gave us complete assistance throughout our meal, making our dining experience even better.
+      We will definitely be back! Highly recommended!
   - name: "Pratik G"
     rating: 5
     comment: |
@@ -64,8 +64,14 @@ reviews:
       The Cajun sauce was rich, flavorful, and well-balanced with just the right amount of spice at the medium level — enough heat to keep it exciting without overpowering the seafood. The king crab was satisfying and flavorful, the shrimp were cooked well, and the potatoes and sausage soaked up all the delicious seasoning beautifully.
       
       Overall, we really enjoyed the food, the atmosphere, and the whole hands-on experience. If you enjoy seafood boils with bold flavors and generous portions, this spot is definitely worth trying.
-  - name: "Salwa S"
+  - name: "Pai"
     rating: 5
     comment: |
-      A. M. A. Z. I. N. G. !!!!!!!!!!! I went with a group of friends and we all had a blast. We ordered the combo 4 with original Cajun seasoning and garlic noodles, and everything was so so so good and the spice level was PERFECT (we got dynamite x spice!!) I have dietary restrictions in that I can not eat pork, and the combo we got had sausage so we had to ask for it to be substituted for something else, and they were able to accommodate for me!! I was really worried about contamination between the seafood and sausage, because we were told that the seafood and sausage are boiled in the same water. But our server, Ashley, ensured this was discussed with the chefs and different pots were used which genuinely made my entire night. She was so kind!!!! This place has truly hit the jackpot having her as one of their servers, she deserves a raise.
+      I’d say this is the best seafood boil we’ve had in Edmonton so far! We’ve tried Red Lobster and Captain’s Boil, and this is definitely our favorite.
+      
+      It’s a bit pricey, but to be fair, seafood boil restaurants are generally expensive anyway. 😄 Our only wish is that the combo came with more corn and potatoes—two pieces of each just wasn’t enough!
+      
+      The service was absolutely top-tier. We genuinely felt like VIPs the entire time. Our server was amazing, although I forgot to ask for her name. She’s petite with short hair, and she was so friendly and attentive. We loved her!
+      
+      We’ll definitely be coming back the next time we’re craving a seafood boil.
 ---

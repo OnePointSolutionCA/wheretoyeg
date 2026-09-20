@@ -49,13 +49,13 @@ reviews:
     rating: 5
     comment: |
       I had an amazing time with Susannah today at body polish day spa. She did a great job on my pedicure. I loved the conversation, she’s very kind and gave me the knowledge I needed on how to keep my feet moisturized. Her massage is memorable and she does a thorough pedicure. I highly recommend to see her for your spa services 😃
-  - name: "Marlene J."
-    rating: 5
-    comment: |
-      This was my first visit to Body Polish but it will not be my last. I booked the Body Polish Deluxe Package (Sugar Scrub, Body Wrap & Lotion and Spa Facial) with Gurleen and I am hooked. Somewhere in those 3 hours I thought to myself I need to do this quarterly. When I checked out I booked another session in 3 months. It was one of the best facials I have ever had and I have had roo many to count.  I really enjoyed being presented with the scents that were available upon my arrival. I had it narrowed down to three but decided to go with Gilded Wood's as I felt like it was a cozy kinda day. Can't wait to explore the other scents and services.
   - name: "Miss Jennifer Branson"
     rating: 5
     comment: |
       I visited Body Polish Day Spa today and a few times over the years.  The Spa has  always been reliable, dependable and has the best customer service.  Today’s pedicure was no different. I met tech, Sina. She’s new to the family at Body Polish and did a great job on my feet. Thank you. She was very thorough and well detailed. It was great to talk to her as well.
       This last year it’s been my daughter Rachel Branson who has treated me monthly for pedicures and facials! Even a body scrub. Thank you Body Polish Day Spa and all the lovely techs you have there.  I’ve thoroughly enjoyed each time I visit there and am loyal to many more experiences there. Thank you Rachel. Love you honey.
+  - name: "Josephene Chong"
+    rating: 5
+    comment: |
+      My first face  facial when I last stopped at this shop for years . Peg was great and has gentle hands. I wished they offered water to drink for client after the treatment . My face is very sensitive to other harsh lotion and cream but treatment felt relax and no reaction. She makes sure to use sensitive cream for my delicate skin . Definitely will come back again . Good job Peg!
 ---

@@ -21,7 +21,7 @@ hours:
   sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/barber-squad-1.jpg", "/photos/barber-squad-2.jpg", "/photos/barber-squad-3.jpg"]
 rating: 4.9
-review_count: 394
+review_count: 402
 price_range: "$$"
 amenities:
   - "Appointments"
@@ -44,14 +44,12 @@ reviews:
     rating: 5
     comment: |
       Absolutely top-tier service! The attention to detail, precision, and professionalism are unmatched. You can tell they really care about their work. Clean environment, great vibes, and the haircut came out perfect. Highly recommend to anyone looking for a fresh, sharp look. Definitely coming back!”
-  - name: "Amjad Ali"
+  - name: "lucia gomez"
     rating: 5
     comment: |
-      I recently visited this barber squad shop, and it was an excellent experience from start to finish. The barber was not only highly skilled but also very professional, polite, and attentive. He took the time to understand exactly what I wanted and delivered the perfect haircut with great precision and care.
-      
-      The shop itself was clean, comfortable, and had a very welcoming atmosphere, which made the whole experience even better.
-      If you’re looking for a talented and professional barber who truly knows his craft, I highly recommend this place. I’ll definitely be coming back!
-      Dr Amjad
+      After struggling to find a place that could give my kids the haircuts they actually wanted, we finally found the right one at Barber Squad!
+      My son finally got the haircut exactly like the picture he showed, and Orlando went above and beyond. My daughter wanted a somewhat complicated haircut, and he did an amazing job. One of his coworkers, whose name I unfortunately didn’t catch, was also incredibly kind to my son. The three of us left so happy!
+      I 100% recommend this place. It’s clean, everyone is friendly, patient, and they truly know what they’re doing. Gracias Orlando, te la rifaste!
   - name: "Tubie west"
     rating: 5
     comment: |

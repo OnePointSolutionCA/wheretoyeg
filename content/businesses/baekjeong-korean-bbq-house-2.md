@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/baekjeong-korean-bbq-house-2-1.jpg", "/photos/baekjeong-korean-bbq-house-2-2.jpg", "/photos/baekjeong-korean-bbq-house-2-3.jpg"]
 rating: 4.4
-review_count: 1182
+review_count: 1184
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -48,6 +48,14 @@ reviews:
       We ordered 2 Beef Combo for two, and it was amazing! There were 2 soups, 1 corn cheese, and 1 steamed egg that I didn’t catch in the picture. None of us could finished our rice or side dish, because we were trying so hard to finish the meat (it’s really A LOT!). The taste was also good, even though not the best meat Ive ever had in my life.
       
       The servers were very friendly and fast. Over all, one of the most worth it K-BBQ we all have been to.
+  - name: "Gurleen Kaur"
+    rating: 5
+    comment: |
+      Wow! What an experience!! We visited here on our marriage anniversary, and we loved it. The whole experience was interactive, fun, and cozy. Loved the seating area which adds a bit of privacy. The sides were could order multiple times along with rice, kimchi, lettuce, etc. Definitely worth the try!
+  - name: "Let's Eat!"
+    rating: 4
+    comment: |
+      One of the OG Kbbq places in the city. Consistently good quality beef that always leaves us satisfied. Some would say it is a bit pricey but tbh, beef is not cheap. They serve sterling tier beef which is about as good as it can get in Canada. Not Wagyu but that is understood. Service is fine and we enjoy Noah quite a bit. He is always attentive with regards to changing our grill when it becomes too charred. Also, the Southside location is the OG and our preferred over the west end. The same owners own BB2 but tbh Baek Jeong is simply better although there is no ayce option. Our go to is always the premium beef combo for 2. Finally, word of advice to the uninitiated, you WILL leave smelling like your meal so don't wear your Sunday's finest if the lingering smell after you leave bothers you! Overall, this is a 4.5/5 for me.
   - name: "Fovea Wong"
     rating: 5
     comment: |
@@ -64,12 +72,4 @@ reviews:
       The atmosphere is lively but not overwhelming — great for family dinners or catching up with friends. It’s one of those places where time passes quickly because you’re too busy enjoying the food and the moment.
       
       A solid choice when you’re craving Korean BBQ done properly — satisfying, interactive, and worth coming back for.
-  - name: "Gurleen Kaur"
-    rating: 5
-    comment: |
-      Wow! What an experience!! We visited here on our marriage anniversary, and we loved it. The whole experience was interactive, fun, and cozy. Loved the seating area which adds a bit of privacy. The sides were could order multiple times along with rice, kimchi, lettuce, etc. Definitely worth the try!
-  - name: "Let's Eat!"
-    rating: 4
-    comment: |
-      One of the OG Kbbq places in the city. Consistently good quality beef that always leaves us satisfied. Some would say it is a bit pricey but tbh, beef is not cheap. They serve sterling tier beef which is about as good as it can get in Canada. Not Wagyu but that is understood. Service is fine and we enjoy Noah quite a bit. He is always attentive with regards to changing our grill when it becomes too charred. Also, the Southside location is the OG and our preferred over the west end. The same owners own BB2 but tbh Baek Jeong is simply better although there is no ayce option. Our go to is always the premium beef combo for 2. Finally, word of advice to the uninitiated, you WILL leave smelling like your meal so don't wear your Sunday's finest if the lingering smell after you leave bothers you! Overall, this is a 4.5/5 for me.
 ---

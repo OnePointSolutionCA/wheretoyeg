@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/binhs-nails-meadowlark-1.jpg", "/photos/binhs-nails-meadowlark-2.jpg", "/photos/binhs-nails-meadowlark-3.jpg"]
 rating: 4.9
-review_count: 249
+review_count: 253
 price_range: "$$$"
 amenities:
 
@@ -52,14 +52,16 @@ reviews:
       B, my nail artist, was so compassionate in ensuring that I was happy with my nails throughout the design process. I altered my nail design THREE separate times to add more stylization (ie., cat eye effect, blooming gel, and gems). From my time in the chair, I could tell B was up for the challenge and willing to take more time with me. I did not feel rushed and I felt I could speak up about my manicure.
       
       Thank you so much! I will be back :)
-  - name: "Michelle Johansen"
-    rating: 5
-    comment: |
-      Absolutely amazing. As a first time client I had an amazing experience. Annie who did my was incredible!! 10/10 stars. Will be back!!!
-      Edit: The 3rd photo is a month later even with a physical job. You can see 1 finger with some slight chipping and of course the regrowth
-      100/100
   - name: "Bonnie Bentley"
     rating: 5
     comment: |
       Popped in for the first time last minute for acrylics and gel pedi. My nails look better than my inspo pic! The shaping is immaculate. Absolutely love them! The pedicure was very relaxing and great massage.
+  - name: "Arion Qaraj"
+    rating: 5
+    comment: |
+      I had the Spa Pedicure with Linh, and it was honestly one of the best pedicures I’ve ever had! From the moment I sat down, she made me feel completely relaxed and taken care of. She is incredibly kind, gentle, and pays so much attention to every little detail.
+      
+      The spa pedicure was so relaxing and luxurious, and my feet have never looked or felt better. Linh took her time to make everything perfect, and you can tell she truly cares about her clients and takes pride in her work. The salon was clean, welcoming, and the whole experience was amazing from start to finish.
+      
+      If you’re looking for someone who is talented, professional, and makes you feel pampered, I can’t recommend Linh enough. She absolutely deserves 5 stars, and I’ll definitely be coming back to see her every time. Thank you, Linh, for such a wonderful experience!
 ---

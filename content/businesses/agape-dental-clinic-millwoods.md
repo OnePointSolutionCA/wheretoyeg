@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Mill Woods"
 address: "2603 Hewes Way NW #103, Edmonton, AB T6L 6W6"
 rating: 4.8
-review_count: 866
+review_count: 870
 tier: "featured"
 phone: "(587) 206-6500"
 website: "https://www.agapedental.ca/"

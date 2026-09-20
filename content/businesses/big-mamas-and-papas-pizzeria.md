@@ -22,6 +22,10 @@ reviews:
       They also charged me $8 for 2 pieces of garlic bread lol.
       
       I would have gone back for pizza but this just rubbed me the wrong way, if im paying a premium I should get better tasting food.
+  - name: "Ryan Campbell"
+    rating: 5
+    comment: |
+      Ordered a giant slice for my family and the service was great and the staff members was so friendly and allowed me to take photos of the unique pizza during the process! Great pizza great service!
   - name: "Phat Boy"
     rating: 3
     comment: |
@@ -34,11 +38,6 @@ reviews:
     rating: 1
     comment: |
       The absolute worse.  The boneless wings are the same chicken nuggets I buy in the frozen section of Costco.  I ordered online and selected no sauce for my Calzone and it didn't even print that out at the store.  My receipt says it but it didn't print for the maker that way.  Plus the Calzone isnt even made very professional.   It tastes like cardboard.  Oh and since when are sesame seeds black???  Never again
-  - name: "Matt Jarratt"
-    rating: 5
-    comment: |
-      Thank you too the wonderful staff for hosting me with the pizza challenge! The pie was delicious and did not disappoint! Though my eyes were larger than my stomach this time,  I now have lunch for a few days! 🤣
-      This is a win win situation as I am a life long pizza 🍕 lover and will be back for more! I definitely recommend that everyone trys this Pizza parlor BMPP!!! Many other items available!
 hours:
   monday: "11:00 AM–11:00 PM"
   tuesday: "11:00 AM–11:00 PM"

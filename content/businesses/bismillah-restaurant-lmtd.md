@@ -20,7 +20,7 @@ hours:
   sunday: "7:30 AM–11:00 PM"
 photos: ["/photos/bismillah-restaurant-lmtd-1.jpg", "/photos/bismillah-restaurant-lmtd-2.jpg", "/photos/bismillah-restaurant-lmtd-3.jpg"]
 rating: 4.9
-review_count: 486
+review_count: 494
 price_range: "$$"
 amenities:
   - "Halal"
@@ -73,12 +73,16 @@ reviews:
       A special thank you to Juweeriyo for the outstanding service. She was friendly, professional, attentive, and made sure everything was perfect throughout our visit. Her kindness and excellent customer service made the experience even more enjoyable.
       
       I highly recommend Bismillah Restaurant to anyone looking for delicious food and exceptional hospitality. I will definitely be coming back!
-  - name: "abdishukri said"
+  - name: "Idriss Ismail"
     rating: 5
     comment: |
-      Bismillahi Restaurant is one of my favorite places to eat and relax. I often come here on Sundays to chill with my friends, and the experience is always excellent.
+      ⭐⭐⭐⭐⭐
       
-      A special thanks to Juweria for the outstanding service. She was friendly, attentive, and made us feel very welcome.
+      I had an amazing experience at **Bismillah Restaurant Ltd**! The food was delicious, fresh, and of very high quality. The restaurant was clean, and the service was professional from start to finish.
       
-      The atmosphere is great, and the food is amazing—definitely 10/10. Every visit has been consistently enjoyable. I highly recommend Bismillahi Restaurant to anyone looking for delicious food and excellent customer service.
+      A special thank you to **Jaweriya, Fadxiya, Najma, and Raaqiya**. They were all so friendly, welcoming, kind, and attentive. They made me feel comfortable and took great care of me throughout my visit.
+      
+      I also want to thank the management, especially **Tani** and **Abdinur**, for creating such a welcoming atmosphere and providing excellent customer service.
+      
+      I highly recommend **Bismillah Restaurant Ltd** to anyone looking for great food and outstanding hospitality. I will definitely be coming back!
 ---

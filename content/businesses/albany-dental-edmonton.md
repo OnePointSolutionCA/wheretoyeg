@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Castle Downs"
 address: "12728 167 Ave NW, Edmonton, AB T6V 1J6"
 rating: 5
-review_count: 939
+review_count: 952
 tier: "featured"
 phone: "(780) 761-8882"
 website: "https://www.albanydental.ca/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Website_URL"
@@ -22,18 +22,18 @@ reviews:
     rating: 5
     comment: |
       I had a great experience at Albany Dental for my dental hygiene appointment. Natalie was friendly, accommodating, and thorough, making the cleaning comfortable from start to finish. The staff were welcoming, and the clinic was clean and professional. I really appreciated the excellent care and would definitely recommend Albany Dental to anyone looking for quality dental care.
-  - name: "Hailey scott"
-    rating: 5
-    comment: |
-      Best dental experience I’ve had. Katie always does a great job and makes you feel very comfortable. All the front desk ladies are so informative and kind. Love coming here and always leave with a big smile! If you have any anxiety around dental work, I would highly recommend this place! Thank you for all your hard work, giving clarity and peace of mind.
-  - name: "Janet Watson"
-    rating: 5
-    comment: |
-      From the moment I called Albany Dental I was greeted with kindness and concern from the girls at the front. I was in a lot of pain and they were able to get me in right away to find the cause.  I made an appointment with Dr Brar to have a root canal and he talked me through the entire process.The hygienist was gentle and helped me with some anxiety I had about the procedure.  They called me the next day to check in and see how I was doing which I really appreciated.  A root canal is never fun and I hope I never have to have another one but if I do, I will be returning to Albany Dental.  On top of the wonderful patient care, the office is pristine and welcoming.
   - name: "Amanda K"
     rating: 5
     comment: |
       I had a wonderful experience at this dental office. The girls at the reception desk were warm, welcoming, and very helpful from the moment I walked in, and the whole space was exceptionally clean and beautifully kept. I also loved the plants and thoughtful decor throughout the office, which made it feel calm and inviting. The hygienist was gentle, thorough, and made me feel completely comfortable, and the dentist was professional, kind, and took the time to explain everything clearly. Overall, the entire team provided excellent care, and I would definitely recommend this office to anyone looking for a positive dental experience.
+  - name: "Shania Peltonen"
+    rating: 5
+    comment: |
+      Albany dental has been one of my more enjoyable dental experiences in a long time. Josephine has easily become my go to Dental Hygenist and makes me feel comfortable and cared for. She understands that my depression hinders me from taking care of my teeth well and i don't feel judged or lectured by her, only well informed and that she wants the best for my oral health. Dr. La is also very personable and nice. The technology/upgrades this office has and the TV on the ceiling is also a huge plus! I would recommend coming here for a regular cleaning :)
+  - name: "Lay Lay"
+    rating: 4
+    comment: |
+      This was my first time visiting Albany Dental. I had a wonderful experience with the first two staff members. The dental hygienist who did my cleaning was amazing—very gentle, friendly, and highly patient with me. The second staff member who took my X-rays was also incredibly polite and welcoming.However, my experience with the third person (the doctor) was a bit disappointing. I am sharing this feedback here so management and the clinic team can address this internally to improve her overall attitude toward patients.
 hours:
   monday: "8:30 AM–3:00 PM"
   tuesday: "8:00 AM–7:00 PM"

@@ -38,6 +38,10 @@ reviews:
       I started hitting goals. I started having wins every single day. The weight I'd been carrying began to drop, and I grew stronger than I'd been in years. I can now run up and down the stairs. I can get up off the floor without help. I can clean my house again. Most importantly — I have my life back.
       The entire gym community is warm, kind, and genuinely supportive. Everyone cheers you on. It truly feels like a big family, and my fiancé and I are so happy to be part of it.
       Thank you to Alara for giving me my life back. To owners Anne & Jason, the community you have built is inspiring, and to everyone at Black Tusk Athletics. You are truly amazing. 🖤
+  - name: "Timothy Shantz"
+    rating: 5
+    comment: |
+      Black Tusk Athletics in Edmonton is very welcoming and offers a range of membership options. It's also an affordable place with great coaching and a friendly atmosphere. Thanks BT!
   - name: "Rose Park"
     rating: 5
     comment: |
@@ -56,12 +60,4 @@ reviews:
       My workout this morning at Black Tusk Athletics was challenging and good. The routine pushed me with a mix of strength and cardio exercises that kept my heart rate up but never felt overwhelming. Laine is great - he takes the time to explain each movement clearly, breaking down the form so I understood exactly what to do.
       
       Throughout the workout, he gave feedback by watching my technique closely and helped me adjust when needed, making sure I was doing the exercises safely and effectively. He is also very encouraging and supportive, offering motivating words that kept me going even when the sets got tough. That combination of clear guidance and positive energy made the whole session rewarding and something I look forward to coming back for.
-  - name: "Trish Turner"
-    rating: 5
-    comment: |
-      I can't say enough good things about Black Tusk. When I first joined, I was looking for a gym with strong sense of community and I definitely found that here.
-      
-      Everyone told me that BTA was great because of its great owners, Anne and Jay, and I now know that to be true. What really stands out is the energy of the gym and the standards that they set for their coaches and their clients. Everyone you meet is welcoming, kind, and genuinely invested in your progress.
-      
-      The programming is great and the workouts are fun, challenging, and inclusive. I’ve pushed myself beyond limits I didn’t even know I had, and I credit the growth I've experienced (both physically and mentally) all to Black Tusk.
 ---

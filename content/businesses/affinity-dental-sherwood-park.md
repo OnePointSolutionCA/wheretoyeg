@@ -26,22 +26,14 @@ reviews:
     rating: 5
     comment: |
       I had my teeth descaled yesterday and it was an easy almost painless event. Thank you very to Sherri-lynn, my hygienist,  for this pleasant experience.  My teeth feel great.
-  - name: "Noelia Spada"
+  - name: "Amali Poojani"
     rating: 5
     comment: |
-      I had an excellent experience at Affinity Dental, and I especially want to highlight Dr. Rafael Marroquín.
-      
-      Dr. Marroquín is truly an outstanding dentist. From the very first appointment, he made me feel comfortable and confident in the treatment plan. He is extremely knowledgeable, patient, and takes the time to explain everything clearly. His professionalism and attention to detail are exceptional.
-      
-      The entire team at Affinity Dental provides impeccable care. The staff is friendly, organized, and genuinely caring, which makes every visit smooth and stress-free.
-      
-      If you’re looking for a dentist who combines expertise with compassion and excellent service, I highly recommend Dr. Rafael Marroquín and the team at Affinity Dental.
-      
-      Five stars all the way!
-  - name: "Jordan Lakeman"
+      I personally recommend this place to people,  they are really friendly and you can ask any questions you want, they dont rush people to leave, yesterday I did a rootcanal and everything went smoothly and they asked alot of times to let them know if I feel uncomfortable or if I get any pain. And for people who have fear of getting their tooth done, dont worry they will keep talking or make you laugh so that we dont panic or be scared. And the work they do is very good. They are patience and kind
+  - name: "Ron Wight"
     rating: 5
     comment: |
-      Renae is amazing and did such a great job at cleaning my teeth! So welcoming and made the experience very comfortable and easy.
+      Highly skilled and caring professionals, always greet you with enthusiasm and dignity, although busy, they usually take some time to inquire how things are going with their clients. We have been clients of Affinity Dental for well over 20 + years, and recommend their services highly.
 hours:
   monday: "8:00 AM–8:00 PM"
   tuesday: "8:00 AM–6:00 PM"

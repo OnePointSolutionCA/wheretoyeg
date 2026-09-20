@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "5312 Admiral Girouard St, Edmonton, AB T5E 6Z7"
 rating: 5
-review_count: 46
+review_count: 47
 tier: "featured"
 phone: "(587) 557-7005"
 website: "https://auraeyeclinic.com/"
@@ -13,14 +13,18 @@ google_maps: "https://maps.google.com/?cid=10776801244281862&g_mp=Cidnb29nbGUubW
 photos:
   - "/images/businesses/aura-eye-clinic.jpg"
 reviews:
+  - name: "Bushra Nasr"
+    rating: 5
+    comment: |
+      I had an excellent experience at Aura Eye Clinic. Dr. Jamie-Lee Halabi is extremely professional, knowledgeable, and thorough. She takes the time to explain everything clearly and genuinely cares about her patients. She is an excellent optometrist, and I felt completely confident in her care.
+      
+      The staff are also wonderful—friendly, professional, and welcoming. The clinic itself is very clean, modern, and comfortable. You can truly tell that the entire team takes pride in providing excellent patient care.
+      
+      I highly recommend Aura Eye Clinic and especially Dr. Jamie-Lee Halabi. A fantastic experience from start to finish!
   - name: "Eden Cascaro"
     rating: 5
     comment: |
       I recently had a very thorough eye consultation with Dr. Halabi and I was extremely impressed with the level of care and professionalism. She took the time to explain everything clearly, answered all my questions patiently, and made me feel comfortable throughout the entire appointment. The clinic itself is very clean, organized, and welcoming, which made the experience even better. I truly appreciated the attention to detail and the excellent customer service from the staff. Highly recommend this clinic to anyone looking for quality eye care!
-  - name: "Ellie Wilson"
-    rating: 5
-    comment: |
-      I had a great experience at Aura Eye Clinic. The space felt very calm and welcoming. Dr. Halabi was kind, thorough and professional during my eye exam. I really appreciated her intentional care and recommendations for my severe dry eyes. Julianna was also wonderful - she was friendly, knowledgeable, and helped me find preservative-free eye drops. You can really tell Aura cares about both eye health and patient experience. Highly recommend!
   - name: "Alma"
     rating: 5
     comment: |

@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Beaumont"
 address: "5301 Magasin Ave #103, Beaumont, AB T4X 1V8"
 rating: 5
-review_count: 157
+review_count: 159
 tier: "featured"
 phone: "(780) 929-3425"
 website: "https://www.beaumontortho.ca/?utm_source=google&utm_content=gbp"
@@ -28,16 +28,16 @@ reviews:
       We had a wonderful experience at Beaumont Orthodontics! From the very first consultation, the entire team was warm, professional, and patient-focused. My son was a little nervous about getting braces, but the staff made him feel completely at ease — explaining every step and answering all his questions with kindness.
       
       I highly recommend Beaumont Orthodontics to any parent looking for quality orthodontic care delivered with genuine care and professionalism.
+  - name: "Cindy Platz"
+    rating: 5
+    comment: |
+      It was great a fast staff friendly a lady’s at front desk too impressed every time Thnks 🎉😇⭐️
   - name: "Hiba Orfahli"
     rating: 5
     comment: |
       The staff are very professional and Friendly
       I would highly recommend if you’re getting orthodontic work to get it here.
       Thank you Dr. Hugh and staff.
-  - name: "Phoebe Breitling"
-    rating: 5
-    comment: |
-      Excellent staff and dentists. Prompt with appointments and thorough with any questions and while explaining care plans.
 hours:
   monday: "7:30 AM–4:00 PM"
   tuesday: "7:30 AM–4:00 PM"

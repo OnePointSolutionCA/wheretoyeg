@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/apollo-plumbing-1.jpg", "/photos/apollo-plumbing-2.jpg", "/photos/apollo-plumbing-3.jpg"]
 rating: 4.9
-review_count: 758
+review_count: 759
 price_range: "$$$$"
 amenities:
 
@@ -32,12 +32,6 @@ reviews:
     rating: 5
     comment: |
       After reading other google reviews from customers that left reviews here I gave them a call. I hired Apollo plumbing to change my poly B piping to Pex.  The work included main shut off valve and fixtures. pricing was very competitive and better compared  to other plumbing companies i had come out and provide a quote. Work was done very professionally and quickly. Other plumbing companies stated a 3 day job. Apollo has it done in a  day and half. with minimal drywal damage.  I hired a drywal contractor to fix the drywal and paint the affected walls. cost me only 600$  This speaks volumes of how professional  apollo pIumbers are.  In general i had  good experience with everyone involved in this project from start to finsih from office staff to the person doing the quote.  I will always hire Apollo from now on.
-  - name: "Clayton Amelia"
-    rating: 5
-    comment: |
-      Called Apollo Plumbing to arrange a water line for our fridge on short notice due to my own poor planning. Two days later they had sent Anthony who had done a clean and excellent job. Heck, even better than excellent!
-      
-      If you have the option, request Anthony when booking with Apollo!
   - name: "Juli Chau"
     rating: 5
     comment: |
@@ -52,4 +46,8 @@ reviews:
       Apollo plumming is worth going to for your business, Connor and his partner Matt, were friendly, down to earth, professional and knolegable.  when Biff came out to check out to apprais the work and what needed done. He was respectful, kind, professional and personable. He'll tell you how it is and what needs to be done with out the extra nonsense you sometimes get from a typical sales person.
       Overall, for whoever is reading this, if there is one thing you can take from this review is that if you need to call a plumbing company to do an exchange of a hot water tank
       These guys should be your first call.
+  - name: "Melody Guerrero"
+    rating: 5
+    comment: |
+      Had my hot water tank replaced today. Apollo was quick to get service out here. And I cannot rave enough about Anthony. He came for diagnostic so I made sure to have him for installation. He was quick and cool and professional. Request him for your service, you won’t be disappointed!
 ---

@@ -28,10 +28,6 @@ tags: ["edmonton", "pharmacies"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Wanderlust Gorgeous"
-    rating: 5
-    comment: |
-      The best pharmacy in the city! Deepak the pharmacist takes his time answering any concerns and addresses immediately.  He is truly the best! Thank you!
   - name: "Oliver Mills"
     rating: 5
     comment: |
@@ -42,12 +38,16 @@ reviews:
       Great pharmacy , staff is very friendly and helpful. They helped me get the right medication quickly. Highly recommend it here.
       
       Also there are no lines like typical pharmacies
+  - name: "Wanderlust Gorgeous"
+    rating: 5
+    comment: |
+      The best pharmacy in the city! Deepak the pharmacist takes his time answering any concerns and addresses immediately.  He is truly the best! Thank you!
   - name: "Corrie Melloy"
     rating: 5
     comment: |
       Dipak is amazing!! He's truly very knowledgeable, kind, caring, sincere, professional & a very efficient pharmacist. He always goes about and beyond to be helpful and of service. Highly recommend this pharmacy!!
-  - name: "Benoit Roy"
+  - name: "Devendra Vaddoriya"
     rating: 5
     comment: |
-      Amazing pharmacy, the pharmacist is very knowledgeable and friendly. Amazing service with care each time.
+      I’ve had an excellent experience with this pharmacy. Dipak is always friendly, knowledgeable, and willing to go the extra mile to answer any questions I have. Prescriptions are filled quickly and accurately, and the service is consistently reliable. The store is clean, well-organized, and carries a good selection of over-the-counter medications and health products. Highly recommended for anyone looking for a trustworthy and efficient pharmacy.
 ---

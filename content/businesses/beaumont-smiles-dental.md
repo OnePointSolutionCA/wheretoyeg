@@ -23,6 +23,10 @@ reviews:
       The staff are knowledgeable, caring, professional and always trying to reduce costs to the patient and accommodate fluctuating schedules.
       
       If you are looking for a new dentist then look no further, SMILES will take care of you!
+  - name: "Erin McMillan"
+    rating: 5
+    comment: |
+      I've been going here for years. The staff is great, very efficient and friendly. They dont overbook so it's never too crowded and you dont have to wait too long. Simran at the front desk is always so kind and makes you feel incredibly welcome. A great place for kids and adults.
   - name: "Amandeep khattra"
     rating: 5
     comment: |
@@ -30,10 +34,6 @@ reviews:
       Dr. Chahal was very thorough in his assessment and clearly explained why the filling was needed and how the procedure would be carried out. I appreciated how he made sure I understood everything before beginning. His approach felt honest and transparent, which built a lot of trust.
       During the treatment, he worked with great precision and care. I was especially impressed by how gentle he was — I experienced minimal discomfort, and he frequently checked in to ensure I was doing okay. It’s obvious that patient comfort is a priority for him.
       The final result is excellent. The filling blends perfectly, my bite feels natural, and I’ve had no sensitivity afterward. I’m genuinely thankful for the high-quality care I received and would confidently recommend Dr. Chahal to anyone looking for a skilled and compassionate dentist.
-  - name: "kirti Kirti"
-    rating: 5
-    comment: |
-      I had a very good experience at Smile Dental Clinic. The staff was kind and professional and made me feel comfortable. Dr. Sidhu is very knowledgeable, gentle, and took the time to explain everything clearly. I’m very happy with the care I received. Simran also guided me very well and was extremely helpful.
   - name: "Anton Kirilov"
     rating: 5
     comment: |

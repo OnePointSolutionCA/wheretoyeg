@@ -19,8 +19,8 @@ hours:
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/ascendant-financial-inc-financial-planner---edmonton-1.jpg", "/photos/ascendant-financial-inc-financial-planner---edmonton-2.jpg"]
-rating: 5
-review_count: 760
+rating: 4.9
+review_count: 759
 price_range: "$$"
 amenities:
 
@@ -28,10 +28,14 @@ tags: ["edmonton", "financial-advisors"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Aaron Valerio"
+  - name: "Allison Fu"
     rating: 5
     comment: |
-      Ascendant Financial helped me open a whole new perspective on how our family's financial life must be done. They showed and explained to us what is missing in our financial strategy that keeps us stuck. Mr. Dan Allen, my advisor, has done a great job setting up all my insurance policies and in helping me understand the concept of Infinite Banking in a deeper level. I still have much to learn about the process, but I'm glad I'm part of a community that I know will help me grow financially. I highly recommend Ascendant Financial to those of you who are interested in learning the Infinite Banking Concept. Almost all of the advisors with Ascendant Financial have trained and was mentored by Mr. Nelson Nash himself, so they know this whole concept and process of becoming your own banker.
+      I recently worked with **Ascendant Financial**, and I had a fantastic experience throughout the entire process. The agent, **Brent**, was extremely professional, patient, and genuinely thorough. He clearly explained the procedure step-by-step, and he made sure I understood both the benefits of the program and how it could help me.
+      
+      What I appreciated most was Brent’s level of guidance and support—he helped me with setup and made everything feel straightforward. He walked me through the details, answered my questions thoroughly, and ensured I knew exactly what to do next, including how to move forward with the necessary contact and information.
+      
+      Overall, I felt supported from start to finish, and I highly recommend Ascendant Financial (and Brent) to anyone looking for clarity, confidence, and real help getting everything set up correctly.
   - name: "Robert White"
     rating: 5
     comment: |
@@ -47,12 +51,12 @@ reviews:
       Throughout the process, he was very knowledgeable, patient, and always available to answer my questions. Their whole team's guidance made what could have been a complicated decision much easier and gave me confidence that I was making the right choice.
       
       I highly recommend their services to anyone looking for trustworthy financial advice and assistance with life insurance planning. Thank you for your professionalism and dedication!
-  - name: "Aaron Bohnke"
+  - name: "Michael Dickson"
     rating: 5
     comment: |
-      I started my whole life insurance journey knowing nothing.  I was extremely skeptical and ignored all the social ads that constantly popped up on my feed.  That is until I saw one from Jayson Lowe and he said something profound that caught my attention.   He said that "All money spent is financed, be it borrowed or saved.". This struck a chord in me and I looked deeper into his services.  Ascendant Financial offers a holistic approach to whole life insurance. They will assess your personal finance needs now and in the future and help structure a policy that satisfies. They have scads of information to help you apply the whole life policy as a tool for IBC.  If needed, your advisor is always available to answer questions and responses are almost immediate. I have found that the team is very complimentary and if your advisor does not have the answer, or is unfamiliar with what you are asking, the team is broad enough that the answers are available.  They can also assist with setting up corporate policies and structure them to remain tax sheltered. I found the experience with Lorraine, who is my primary advisor, to be transparent and forthright.  Never have I felt pressured by Ascendant to make any commitments.  You will see that Ascendant advisors personally take advantage of the system and that gives me great faith.  If I was interested in learning more about IBC and whole life policies I would look to Ascendant Financial as my starting point. Thank me later.
-  - name: "Michelle Nurse"
+      Ravi has been a delightful man to patiently guide me through my new process of learning. I would recommend him to ANYONE. Thank you for great service now and in the days to come.
+  - name: "Deborah Koch"
     rating: 5
     comment: |
-      Dan at Ascendant Financial has been incredible to work with. He’s patient, thorough, and takes the time to explain Infinite Banking in a way that’s easy to understand without ever rushing the process. What stands out most is how carefully he listens—he genuinely works to understand my objectives and long‑term financial goals before making any recommendations. Every suggestion he’s offered has been tailored to my circumstances, and it’s clear he’s committed to helping clients build the right strategy, not just any strategy. I feel confident and supported working with him, and I highly recommend Ascendant Financial for anyone looking for thoughtful, personalized financial guidance.
+      Since my very first call with Ascendant Financial , to the present day, Jeff  Treleaven has gone above and beyond finding what fits best for me and mine.  He has been consistent with many choices of products, succinctly explains everything until I understand fully, and has surpassed any expectations of customer service I have ever experienced. Jeff, together with Emily have held my hand through the process and are available for questions every time I have run into one. My experience has been nothing short of exceptional! Thank you!
 ---

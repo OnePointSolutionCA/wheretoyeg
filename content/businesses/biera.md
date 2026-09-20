@@ -28,24 +28,6 @@ tags: ["edmonton", "gastropub"]
 active: true
 date_listed: "2026-08-26"
 reviews:
-  - name: "Lan Nguyen"
-    rating: 5
-    comment: |
-      I should say that before my experience today, Biera was already my favourite Edmonton restaurant.
-      
-      I first knew of them after Mai Nguyen mentioned them and Christine Sandford on MasterChef, and after dinning there a few times, I became a big fan. They are one of the very few restaurants in Alberta that not only understands and respects food, but also values sustainability in their use of ingredients. For example: they grind their own meat for the beef tartare, and instead of throwing the fat away, it is used in an emulsion served with the dish.
-      
-      Everything there is locally sourced and made in house. Their phenomenal homemade cultured butter and sourdough are some examples. I'm not a fan of getting salad at restaurants but I get the chicory salad every time: it's rare for a restaurant to use Belgian Endives and burnt orange that effectively (both have a bitterness). Elements in the pork shoulder dish are cooked perfectly, with the pork so flavourful and tender, the sauce adds to the pork but doesn't take away from it. I also don't often get steaks at restaurants but all the accompaniments that come with their steak make it SO worth it (you won't get better chips and jus elsewhere).
-      
-      The non-alcoholic drinks (house-made sodas and kombucha) are very reasonably priced (1/3 of the price compared to the average restaurant but is way better).
-      
-      Desserts are well-crafted and even though they look small, they are incredibly satisfying even to share. Not a lot of restaurants know how to use buckwheat in desserts, but they do!
-      
-      What I am most impressed by, is how the quality of their food, service and operation remains consistently great after Covid (when most restaurant struggled with quality) and after the departure of Christine in 2023.
-      
-      Now, onto today's experience. Two friends and I came in to dine. We ordered drinks, 2 main dishes and a small dish. While finishing the first dish, one of my friends got an allergic reaction. Him and I rushed to the hospital as our other friend Liam told us he’d stay and take care of the bill. When we met at the hospital later, Liam told me Biera did not charge us at all (the bill was probably $130+). They told Liam to not worry about it and just make sure our friend is okay, gave Liam the General Manager's contact info said they wanted to discuss how they can prevent incidents like that from happening again. They also packed and gave us the 2 main dishes, which is really generous.
-      
-      Thank you Biera, for every amazing experience I've had (I've had my birthday, anniversary there), for respecting what you do, and for being incredibly considerate. I will continue telling everyone about Biera and celebrate my special occasions there!
   - name: "Megan Demian"
     rating: 5
     comment: |
@@ -70,4 +52,10 @@ reviews:
       The Tartare and Steak were both a 10/10, paired with this wine recommended by our server took thinks to a whole new level, the wine was so good in fact we ordered two bottles.
       
       I highly recommend Biera!
+  - name: "Thomas Osei-Bonsu Jr"
+    rating: 3
+    comment: |
+      The house chips were our favourite dish on the menu. When we saw that they were no longer on the menu we asked the waiter if the 'Chips & Dip' was the same thing and were told they were. What we received was not the same item. The Chips and & Dip were as thin as paper as opposed to the thicker House chips that were previously on the menu. It was disappointing to see the House chips replaced by what we saw as a straight downgrade.
+      
+      The other menu item we enjoyed was the Sourdough Nuggets. We were once again disappointed by what we saw. While the flavour and quality of the dish were still fantastic, the portion was noticeably smaller than when we had last come to Biera. The old portion had enough beer cheese to cover all the pieces of sourdough. Now there is barely enough for half. The saving grace of our meal was the Strawberry Kombucha which had strong hints of strawberry and had a perfect acidity to it. It was very disappointing to see the restaurant we loved fall off so hard.
 ---

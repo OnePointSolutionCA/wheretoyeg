@@ -42,13 +42,13 @@ reviews:
       Susie was very welcoming, knowledgeable, and professional. She was easy to talk to with no weird awkwardness. Hours were INCREDIBLY accommodating. I've never been able to get a waxing at 7:30 at night before - this was particularly great cause it provided the opportunity for me to work out, shower and do all my daily things (like work) and still make time for body care maintenance.
       Prices were on par with most other places (with lots of different options to customize your service) but the convenience was the biggest hit for me.
       I will definitely be going back to Susie in the future!
+  - name: "Kailyn Card"
+    rating: 5
+    comment: |
+      Susie is amazing and creates a comfortable environment with excellent service and results. I will go back to her forever! I have recommended and would recommend Bare Body to all my friends and family.
   - name: "Catarina Ciru"
     rating: 5
     comment: |
       Busy is so gentle and marvelous on her service. Love going there.
       She makes you feels confortable, the environment is nice, and she has exceptional great hands. No pain at all.
-  - name: "Felix Umeda-Midgley"
-    rating: 5
-    comment: |
-      susie was so polite and patient! i was super nervous as a first time customer (and as a trans person) but it went flawlessly! 100% worth it!
 ---

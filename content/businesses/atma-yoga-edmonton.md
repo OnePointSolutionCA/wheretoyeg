@@ -42,12 +42,16 @@ reviews:
     rating: 5
     comment: |
       Ive been to many yoga studios in the past & have never felt so welcomed by the other participants and the instructor! Jay is very knowledgeable & even funny at the right times during class.  I found the studio as I drive past on my way to & from work, checked it out online and was very impressed with the pricing for newbies! The studio is always fresh and clean smelling and I enjoy the different coloured lights and the globes make the atmosphere very calming.  I feel at peace here from the second I walk in!
-  - name: "Raquel Barrón"
+  - name: "Jeela D.M."
+    rating: 1
+    comment: |
+      Registered to attend tonight, and based my plans around it. Waited outside with another gentleman who also registered but the studio never opened. Very disappointed as I really needed a yoga session tonight and could have gone somewhere else if i had known ahead of time. Wasted childcare and a drive out.
+      
+      Edit to add: I booked this class directly through the studio’s business phone number because Mindbody would not allow me to register online. I was manually booked in and confirmed as “signed in,” and I e-transferred the drop-in fee as instructed. When I arrived for the 5:30pm class, the studio was closed. I did not receive any cancellation email beforehand (I checked my inbox and spam), and I only received a message later that evening explaining the class had been cancelled.
+      
+      I understand that last-minute cancellations happen, but publicly stating that an email was sent to registered attendees when I did not receive one shifts the responsibility onto the client, and that’s not fair. I’m leaving this review up so others can plan accordingly. Screenshots prove I was only advised after the fact.
+  - name: "Meghan"
     rating: 5
     comment: |
-      Today marks one month of taking my yoga classes and I can say that my experience has been wonderful. All the instructors are very professional when teaching their classes. Each one has the perfect personality for their classes and the atmosphere is very pleasant. Thank you for this first month. I feel happy to be there. Anyone who wants to join the studio will not regret it. I highly recommend it.
-  - name: "Barb Krahn"
-    rating: 5
-    comment: |
-      Atma Yoga is a wonderful find! A smallish, clean and welcoming  studio with yoga for everyone. Easy parking and centrally located too. I love this studio!
+      All the positive reviews are so accurate! Went to 8 classes during their $55 two week unlimited pass and loved every single one. The teachers, studio lighting and music, small class sizes and variety of classes offered are all fantastic. I'm on the 9 month 20 class pass now. Love coming to classes here!
 ---

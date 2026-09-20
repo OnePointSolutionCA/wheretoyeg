@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/alhuda-pita-bakery-restaurant-1.jpg", "/photos/alhuda-pita-bakery-restaurant-2.jpg", "/photos/alhuda-pita-bakery-restaurant-3.jpg"]
 rating: 4.5
-review_count: 344
+review_count: 348
 price_range: "$$"
 amenities:
   - "Halal"
@@ -46,17 +46,6 @@ reviews:
       But overall it is the best in Edmonton so far, we ordered manakesh meat, zaatar and cheese, mohamera, and pepperoni and cheese. All of them were super delicious and perfect.
       We also ordered chicken shawarma wraps. It was perfect as well. It was just like the original middle eastern version because most of the shawerma here has nothing to do with the original.
       Overall, we enjoyed our meal very much and the staff is very friendly. Definitely not our last time there.
-  - name: "Jay Falcone"
-    rating: 4
-    comment: |
-      Seen the place several times while frequenting some of the other services in the shopping plaza .
-      
-      Ordered a chicken shawarma. Food came quite quickly and served hot. Taste was really good.
-      
-      Wish the complete menu was available at the front when I ordered. Just happened to go to their website and found an entra couple of pages of menu items.
-      Just some basic improvements like making the entire menu available might increase business.
-      
-      Nonetheless a good little place and hope they do well.
   - name: "John Leenheer"
     rating: 5
     comment: |
@@ -68,4 +57,9 @@ reviews:
     rating: 5
     comment: |
       Amazing place with very delicious and fresh food. The bread and grilled dishes were excellent, and everything tasted high quality. The restaurant is clean, comfortable, and family-friendly. The staff were very kind, respectful, and the service was fast. Overall, it was a great experience, and I would definitely come back again. Highly recommended!
+  - name: "Bilal Ahmed"
+    rating: 5
+    comment: |
+      It's a great bakery, the food and coffee are 👌🏽
+      The service is always amazing, I have come here a few times and I have always left happy 😊
 ---

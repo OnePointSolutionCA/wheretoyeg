@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:30 PM"
 photos: ["/photos/best-kabab-restaurant-1.jpg", "/photos/best-kabab-restaurant-2.jpg", "/photos/best-kabab-restaurant-3.jpg"]
 rating: 4.6
-review_count: 4040
+review_count: 4043
 price_range: "$$"
 amenities:
   - "Halal"
@@ -66,16 +66,8 @@ reviews:
       
       The staff was really great and we got complimentary tea at the end.
       Definitely one of the best Turkish spots we’ve ever tried.
-  - name: "Isis Gilzene"
+  - name: "Omar Bakhtari"
     rating: 5
     comment: |
-      We had such a great experience at Best Kabab this weekend! Maya and Maria took amazing care of us during dinner—super attentive, friendly, and made us feel right at home.
-      
-      As always, the food was absolutely delicious, and the drinks did not disappoint. We ordered two chicken kebabs (honestly the best!) and one chicken Adana, and everything was cooked perfectly and full of flavor.
-      
-      My son ordered the pineapple show drink, and it was such a fun surprise—it comes with a fireworks candle, so if you’re celebrating something special, definitely order it! My husband and I had the fresh mango juices, which were incredibly refreshing and full of flavor.
-      
-      Every time we visit Edmonton, this place is a must-stop for us.
-      
-      Highly recommended!
+      I’ve been coming to this restaurant about 3–4 times a week, and the food is absolutely amazing every single time. I’ve been served by Raghad more than a dozen times, and her service has always stood out. She’s incredibly attentive, makes sure my table has everything I need, and everything always comes out on time. Her service is flawless, and she always makes the experience enjoyable fun and it makes me want to come back. The restaurant itself is also extremely clean and well maintained. Amazing food, excellent service, and a great atmosphere. Definitely one of my favourite places to eat!
 ---

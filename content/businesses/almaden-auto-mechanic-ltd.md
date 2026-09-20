@@ -37,10 +37,11 @@ reviews:
     rating: 5
     comment: |
       Great work, amazing staff, fair prices, and honest work. What more could you ask for from a shop. Glad they were recommended to me and won't be getting work done by anyone else. Highly recommend!!!
-  - name: "Jessica Kirkman"
+  - name: "Dale Macaulay"
     rating: 5
     comment: |
-      Fast, affordable and friendly! Thank you very much for getting me to work safely that day. You and your employees turned a really bad day into a great one!
+      Manny the owner is a very proud honest hard working man!
+      30 years taking our vehicles to him & always great!!
 hours:
   monday: "8:30 AM–5:00 PM"
   tuesday: "8:30 AM–5:00 PM"

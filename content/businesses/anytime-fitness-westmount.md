@@ -31,10 +31,30 @@ amenities:
 tags: ["gym", "24 hour", "fitness", "westmount"]
 active: true
 reviews:
+  - name: "Jeff"
+    rating: 1
+    comment: |
+      That most recent review praising how clean this gym is has got to be written by a staff member because it couldn't be further from reality. This is, without question, one of the dirtiest and most unhygienic gyms I've ever been to.
+      
+      They run completely out of clean towels multiple times every single week. Not once in a while, MULTIPLE times a week, which ends up in no one cleaning anything before or after using it for hours on end. Disgusting and unhygienic.
+      
+      The mirrors are absolutely filthy. If you want to take a progress picture, be prepared to spend five minutes cleaning a section of the mirror yourself before you can even see your reflection properly. That shouldn't be the member's job.
+      
+      The amount of dust throughout the gym is shocking. Dust has built up to the point where it practically forms tumbleweeds rolling across the floor. It's obvious that many areas go far too long without being properly cleaned.
+      
+      A huge amount of the equipment upholstery is completely ripped apart, with the foam cushioning bulging out of the seats and pads. Not only does it look terrible, but it shows the gym is clearly neglected and poorly maintained. Prepare to have your skin pinched and ripped with every single rep.
+      
+      What's especially frustrating is that this isn't how the majority of the other anytime fitness locations operate. Most of the anytime fitness locations run by different owners have dedicated cleaners or staff members on-site more throughout the day whose job is to keep the facility clean, restock towels, and maintain the equipment. Clearly the management at this locations does not care enough to do any of that on a regular basis.
+      
+      Basic cleanliness and maintenance shouldn't be optional. Until management starts treating hygiene as a priority instead of an afterthought, I would never recommend this location to anyone.
   - name: "Roman Mavi"
     rating: 5
     comment: |
       I’ve had a great experience at Anytime Fitness lately. The gym is always clean, the equipment is well maintained, and the atmosphere feels really welcoming. The new manager is honestly a breath of fresh air — super friendly, professional, and clearly cares about making the gym a better place for everyone. You can tell there’s been a positive change since they took over. Staff are helpful, members are respectful, and it’s just an overall great environment to work out in. Definitely recommend this location!
+  - name: "Kevin Bre-win"
+    rating: 2
+    comment: |
+      I’ll be coming To this gym for two years now. I really enjoy the gym itself. But in the last few months, since there was a change in employees at the gym, the cleanliness has declined rapidly. The change rooms in particular.
   - name: "TB"
     rating: 5
     comment: |
@@ -46,12 +66,4 @@ reviews:
       During a weigh-in, her trainer, Dallas, was very harsh with her. He told her the scale doesn’t lie, that she wasn’t trying, and made comments suggesting she must be eating 7000 calories a day. He also said it didn’t matter since she only had a couple sessions left.
       She has actually made real progress, and like most people, she isn’t perfect all the time. A trainer should understand that, weight fluctuates. Women especially have many factors that can affect this. A good trainer knows how to be honest and push people while still being respectful and supportive.
       She left the session in tears and no longer feels comfortable going back.
-  - name: "Kyle Mortson"
-    rating: 5
-    comment: |
-      Great experience from start to finish! The team was professional, friendly, and clearly takes pride in their work. Special shoutout to Geoffrey—he went above and beyond to make sure everything was handled smoothly and made me feel completely taken care of. You can tell he genuinely cares about customers. Highly recommend and will definitely be back!
-  - name: "Taj Brar"
-    rating: 5
-    comment: |
-      New management has taken the gym to another level. Very clean, machines are all great and an excellent vibe overall. Big fan of this gym
 ---

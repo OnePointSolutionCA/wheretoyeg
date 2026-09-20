@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "9927 51 Ave NW, Edmonton, AB T6E 0A8"
 rating: 4.7
-review_count: 629
+review_count: 630
 tier: "featured"
 phone: "(780) 435-6400"
 website: "https://www.bestwaytire.ca/"
@@ -38,8 +38,8 @@ reviews:
       More than a tire shop…full mechanical!
       Big smiles, on everyone’s  face who worked there!
       Can’t say enough about Bestway Tire!
-  - name: "Patricia Sandler"
+  - name: "Gareth M"
     rating: 5
     comment: |
-      I brought a tire in to get it repaired after running over a screw. The service was excellent and my tire was fixed when they said it would be. Vince was amazing,  very personable and professional.  I will definitely make this my go to tire shop the next time I need new tires.
+      I had a great experience at Bestway Tire! They took care of the transmission work, tires, and oil changes for two of my vehicles. The customer service from Tony was excellent, as always, and the entire team was friendly and helpful. I highly recommend Bestway Tire for their high-quality work and exceptional service.
 ---

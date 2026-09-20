@@ -4,7 +4,7 @@ slug: "als-barber-and-salon"
 category: "barbers"
 neighborhood: "Castle Downs"
 address: "12222 137 Ave NW, Edmonton, AB T5L 4X5"
-rating: 4.8
+rating: 4.7
 review_count: 347
 tier: "featured"
 phone: "(780) 456-2010"
@@ -16,6 +16,10 @@ reviews:
     rating: 5
     comment: |
       Had my head done by Abdul, great guy, intuitive,  innovative and quick, I walked in with an idea and Abdul made it an identy. Awsem experience.Higly recommend Abdul. Great value for money
+  - name: "Jason Halabi"
+    rating: 5
+    comment: |
+      Aboodi Is the best of the best. Attention to detail, Very Friendly and a young aspiring Barber with confidence and skill. Defitently Check him out when you go here.🙌🏼♥️
   - name: "moekadri69"
     rating: 5
     comment: |
@@ -28,10 +32,6 @@ reviews:
     rating: 5
     comment: |
       Abdul one of the best expert barbers in the city you should try him out.
-  - name: "Tayseer Arabi"
-    rating: 5
-    comment: |
-      Best place to get a haircut, good service and friendly staff
 hours:
   monday: "10:00 AM–8:00 PM"
   tuesday: "10:00 AM–8:00 PM"

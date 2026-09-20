@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "7000 Emerald Dr #500, Sherwood Park, AB T8H 0P5"
 rating: 4.7
-review_count: 2352
+review_count: 2359
 tier: "featured"
 phone: "(587) 200-3492"
 website: "https://blowersgrafton.com/"
@@ -36,18 +36,10 @@ reviews:
     rating: 5
     comment: |
       Very chill place with a strong community spirit. Staff is super friendly and helpful. Beer on tap is tasty and thirst quenching. Good is served fast and delicious. You can’t go wrong with lobster rolls or the lobster artichoke dip. Already looking forward to my next visit.
-  - name: "Kevin Bayrack"
-    rating: 5
+  - name: "Fran Johnson"
+    rating: 4
     comment: |
-      The servicer was quick to seat us.
-      Are drinks stayed full asked a couple questions, they were able to Answer quick and to the point.
-      The food was good.
-      Started with the fish cakes , they were alright. I have no complaints Its just not on the top of the list to order as a starter.
-      I had the salmwich and the poutine.
-      The salmwich was good and presented nicely
-      The poutine tasted really good.
-      Roast beef gravy and cheese curds made it worth coming back for.
-      The place felt clean and it was not loud. My partner and I could easily talk to each other.
+      Went around 6pm for supper and drinks with a friend, required a standard table for their service animal and the hostess was incredibly accommodating, even with the restaurant being packed! Our waitress was lovely and attentive, keeping our drinks flowing through the evening. The food was fantastic - we shared the hummus and tzatziki bowl (flavor out of this world), my friend enjoyed the donair egg rolls, and I loved the buttery lobster rolls with fries. I have no complaints other than the very crowded dining area, it felt like I was sitting on top of the oyster bar and I watched a few people hesitate and change course when trying to walk by/through. Twice my friend felt I was going to be bumped by a server picking up things from the oyster bar! It wasn't enough to truly bother me or prevent me coming back, just something to consider for my next visit.
 hours:
   monday: "11:00 AM–1:00 AM"
   tuesday: "11:00 AM–12:00 AM"

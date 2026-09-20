@@ -31,14 +31,14 @@ reviews:
       Extremely unprofessional and extremely poor service.
       
       0/5. Had an opportunity to gain a customer for life and instead earned a poor review, both on Google and verbally to every person I know for life.
-  - name: "cory morrison"
-    rating: 5
-    comment: |
-      Ive been coming here for years, they have new ownership, welcome Omar! Thank you to AL who did an amazing cut and shave for me!
   - name: "David Zsamboki"
     rating: 5
     comment: |
       Always top notch service at the Barber Shop Boyz. Never disappointed. Highly recommended
+  - name: "cory morrison"
+    rating: 5
+    comment: |
+      Ive been coming here for years, they have new ownership, welcome Omar! Thank you to AL who did an amazing cut and shave for me!
 hours:
   monday: "9:00 AM–7:00 PM"
   tuesday: "9:00 AM–7:00 PM"

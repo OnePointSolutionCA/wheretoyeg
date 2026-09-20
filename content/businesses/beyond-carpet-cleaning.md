@@ -13,6 +13,10 @@ google_maps: "https://maps.google.com/?cid=11149956464154068269&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/beyond-carpet-cleaning.jpg"
 reviews:
+  - name: "Shaun Cunningham"
+    rating: 5
+    comment: |
+      As a Realtor I have many clients who need carpets cleaned before they move in or after they move out. Dominic is so good with short notice and always does an incredible job. Highly recommend.
   - name: "Gordon Qian"
     rating: 5
     comment: |
@@ -29,10 +33,6 @@ reviews:
     rating: 5
     comment: |
       Beyond Carpet Cleaning came to my home on very short notice and did a fantastic job. He showed up on time, was very professional and the price was reasonable and what was agreed upon. Thank you!
-  - name: "chris blower"
-    rating: 5
-    comment: |
-      Easy to reach, showed up right away, worked out great
 hours:
   monday: "8:00 AM–6:00 PM"
   tuesday: "8:00 AM–6:00 PM"

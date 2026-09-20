@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/bens-meats-and-deli-1.jpg", "/photos/bens-meats-and-deli-2.jpg", "/photos/bens-meats-and-deli-3.jpg"]
 rating: 4.8
-review_count: 1089
+review_count: 1092
 price_range: "$$"
 amenities:
 
@@ -54,12 +54,12 @@ reviews:
       Oh I was forgetting the mini donuts, OMG.
       
       I have gone quite a few times and everyone has been always helpful and it’s gluten free heaven in general.
-  - name: "Emily Kuessner"
-    rating: 5
-    comment: |
-      W O W ! Such amazing food, such amazing service and such kind people who are so helpful! Dave and his wife and the sweetest people ever! As a person who is celiac for 10 years this was my first experience with getting gf chicken fingers, spring rolls etc hot and ready to eat, with a sound mind knowing it’s not cross contaminated, plus they make their own delicious donair wraps that are a good price!!! Just wow, so impressed! 🤍
   - name: "Jessica C"
     rating: 5
     comment: |
       I can’t say enough great things about this gluten free butcher shop. Not only is the quality of the food outstanding, but the kindness and care truly set it apart. Dave, the owner, was incredibly helpful and compassionate when my daughter was diagnosed with celiac disease. He took the time to answer questions, explain options, and make us feel completely safe and supported. Finding a place you can trust means everything, and this shop has been such a gift to our family. Highly recommend. We appreciate you and your lovely staff!
+  - name: "Myrna K"
+    rating: 5
+    comment: |
+      Ben's Meats & Deli - new location. As always, so many delicious and wonderful things. An entire wall of gluten free items! Even yummy bones for the pups. Let's just say I happily left a chunk of my wallet there and managed to pick up some gifts for others as well. Gorgeous new store, great location with lots of parking and easy access. 184 st and 105th avenue. Now excuse me while I go eat my cheese. 😊
 ---

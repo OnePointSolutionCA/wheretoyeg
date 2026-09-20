@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–3:00 PM"
 photos: ["/photos/4-points-health-and-wellness-1.jpg", "/photos/4-points-health-and-wellness-2.jpg", "/photos/4-points-health-and-wellness-3.jpg"]
 rating: 4.9
-review_count: 373
+review_count: 374
 price_range: "$$"
 amenities:
 

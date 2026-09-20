@@ -50,14 +50,8 @@ reviews:
     rating: 5
     comment: |
       We had such a great experience! Our server was absolutely amazing and provided 10/10 service. I didn’t catch her name but she was so kind attentive, and made our experience even better. The food was absolutely delicious, and everything was definitely worth the money. We had such a great time and would definitely recommend to others. It’s absolutely worth the hype! 😊
-  - name: "sophie ohm"
-    rating: 5
+  - name: "jos hantelmann"
+    rating: 4
     comment: |
-      Came for dinner, stayed for Bryn!!
-      
-      She told us it was only her second week serving and that our group of 9 was her first 9-top, and honestly... you NEVER would've guessed. She handled everything so smoothly, kept such a positive attitude the whole time, and was genuinely one of the sweetest, bubbliest servers I've had in a long time.
-      
-      The highlight? She stood on a chair to take our group photo so everyone fit in the frame.That's dedication, and she absolutely understood the assignment!!
-      
-      The food was good, but Bryn's amazing service is what will have us coming back. She deserves all the recognition!
+      Liked the style and atmosphere; however, we had a table by the entrance and I didn't venture any further into the restaurant. Food came out in good time, I liked the proportions, good for sharing, and seemed to be good value. Maybe because we were a small group we lacked some attention not that I want to be constantly interupted, but we had to wave down servers a couple times, and it seemed our drink orders we forgotten at the start. Overall: recommended.
 ---

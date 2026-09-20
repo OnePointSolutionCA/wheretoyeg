@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Spruce Grove"
 address: "4401 48 St, Stony Plain, AB T7Z 1N3"
 rating: 4.2
-review_count: 414
+review_count: 415
 tier: "featured"
 phone: "(780) 968-1115"
 website: "https://www.atomicpizza.ca/"

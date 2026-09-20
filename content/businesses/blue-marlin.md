@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/blue-marlin-1.jpg", "/photos/blue-marlin-2.jpg", "/photos/blue-marlin-3.jpg"]
 rating: 4.8
-review_count: 199
+review_count: 200
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -34,14 +34,6 @@ reviews:
     rating: 5
     comment: |
       Delicious food, fresh and tasty, and a great service i felt happy after eating such food, we tried the fish kuskus and seafood pasta, we also had fish soup
-  - name: "H Al Askari"
-    rating: 5
-    comment: |
-      Excellent seafood restaurant! The food tastes amazing, and everything was fresh with high-quality ingredients. What really stood out was their flexibility in customizing dishes to match the customer’s preferences, which made the experience even better.
-      
-      The service was fast and well-organized—we didn’t have to wait long at all. The portion sizes were generous and satisfying for the price.
-      
-      Overall, a great experience and definitely worth visiting again! 👍
   - name: "Shuruk Abdurrahman"
     rating: 5
     comment: |
@@ -52,6 +44,14 @@ reviews:
       The owner also treated us with extra dishes like Kamounia and Merguez, which had an authentic Tunisian flavor with perfectly balanced spices.
       
       I wish them all the best and hope they continue, so we don’t lose this authentic Arabic taste in restaurants.
+  - name: "H Al Askari"
+    rating: 5
+    comment: |
+      Excellent seafood restaurant! The food tastes amazing, and everything was fresh with high-quality ingredients. What really stood out was their flexibility in customizing dishes to match the customer’s preferences, which made the experience even better.
+      
+      The service was fast and well-organized—we didn’t have to wait long at all. The portion sizes were generous and satisfying for the price.
+      
+      Overall, a great experience and definitely worth visiting again! 👍
   - name: "Sean Clair"
     rating: 5
     comment: |
@@ -62,8 +62,8 @@ reviews:
       Even the iced tea was home made and wonderful.
       
       Will definitely be back.
-  - name: "Karim Amrani"
+  - name: "Ayah Huss"
     rating: 5
     comment: |
-      Without exaggerating, the food was great, the host Salma was awesome! I’m definitely coming back and I highly recommend.
+      Delicious food and such amazing service. The people working are so wholesome, would recommend !!!
 ---

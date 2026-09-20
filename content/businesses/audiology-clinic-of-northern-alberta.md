@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/audiology-clinic-of-northern-alberta-1.jpg", "/photos/audiology-clinic-of-northern-alberta-2.jpg", "/photos/audiology-clinic-of-northern-alberta-3.jpg"]
 rating: 4.9
-review_count: 807
+review_count: 805
 price_range: "$$"
 amenities:
 
@@ -28,10 +28,6 @@ tags: ["edmonton", "hearing-care"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Vivecca McCormick"
-    rating: 5
-    comment: |
-      ACNA is highly recommended. The staffs are all good and friendly especially Nathalie, my audiologist. They really do their best for us to be satisfied in all aspects. Not unlike the first audiology clinic I had,  they never phone me for follow up check up for my device even ask me for hearing test  for at least  once a year. I only recieved a call from them and sent me email after 5 years  for follow up that they needed to check my hearing aid and purchase a new one 😔. At ACNA, they will phone you and send email every 6 months for check up. I'm so happy and satisfied with my new Audiology Clinic. You're one of the best👌
   - name: "Charlene Jegen"
     rating: 5
     comment: |
@@ -54,4 +50,8 @@ reviews:
     rating: 5
     comment: |
       Great service, the entire process was clear and supportive. I felt completely informed. The selection, purchase, and fitting was seamless. I can't recommend Ashlea and the clinic enough.
+  - name: "Vivecca McCormick"
+    rating: 5
+    comment: |
+      ACNA is highly recommended. The staffs are all good and friendly especially Nathalie, my audiologist. They really do their best for us to be satisfied in all aspects. Not unlike the first audiology clinic I had,  they never phone me for follow up check up for my device even ask me for hearing test  for at least  once a year. I only recieved a call from them and sent me email after 5 years  for follow up that they needed to check my hearing aid and purchase a new one 😔. At ACNA, they will phone you and send email every 6 months for check up. I'm so happy and satisfied with my new Audiology Clinic. You're one of the best👌
 ---

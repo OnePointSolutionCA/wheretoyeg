@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–9:00 PM"
 photos: ["/photos/boualouang-laos-thai-cuisine-1.jpg", "/photos/boualouang-laos-thai-cuisine-2.jpg", "/photos/boualouang-laos-thai-cuisine-3.jpg"]
 rating: 4.5
-review_count: 540
+review_count: 541
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,6 +30,18 @@ tags: ["edmonton", "thai"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "realistic reviewer"
+    rating: 5
+    comment: |
+      Highly recommend giving them a try.
+      Food, drinks and service were simply excellent!
+      Taste of red tea and pad Thai brought me back to my younger days when we used to vacation in Thailand frequently. Ann is an amazing server and took great care of us. Food also came out super fast and piping hot. Portions were huge, couldn’t even finish half. 20 bucks for a humongous plate is really affordable.
+      
+      10 stars for this amazing Thai restaurant in Edmonton !
+  - name: "Ken Dorosh"
+    rating: 1
+    comment: |
+      I ordered dinner for the family via Uber Eats. We have dined here before and it has been fine. Today though was inedible. The chicken satay was burnt and dry. The pad Thai was dry and flavourless. And the Pad-ka-pow was gross, had zero flavor, the pork tasted like nothing and the whole dish smelled  off. The only dish that was remotely close to food was the green curry. What a waste of time and money. 💸
   - name: "Harrison Sheremeta"
     rating: 5
     comment: |
@@ -44,18 +56,4 @@ reviews:
     rating: 5
     comment: |
       If you are on a quest to find the best Thai food in Edmonton, Boualouang Thai and Laos Restaurant is the definitive finish line. Having sampled almost every Thai spot the city has to offer, I can confidently say that Boualouang stands in a league of its own. My personal opinion 4.9/5.0
-  - name: "Nitika J"
-    rating: 5
-    comment: |
-      Wowww, the food was so yummy and authentic. The portions were so generous. Prices are really reasonable too. The service was very kind, respectful, and efficient. This place deserves more recognition and hype. The only recommendation is to add some music to add to the ambiance. Would definitely come back. Highly recommend the Pad Ped, Onion Cake, Gold Bags, Calamari, Thai Tea, and Vietnamese Coffee. If you like spicy, the Drunken Noodles. Also, they are considerate of the allergies for peanuts and sesame.
-  - name: "S&M Crossman"
-    rating: 5
-    comment: |
-      staff: friendly server. Helpful with recommendations.
-      
-      service: we beat the rush - so our service was quick.
-      
-      establishment: small gem in the heart of Edmonton’s China town. Family run.
-      
-      food: so flavourful. Great portions - shareable! Love the green papaya salad and pad Thai!
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/bonchon-korean-fried-chicken-1.jpg", "/photos/bonchon-korean-fried-chicken-2.jpg", "/photos/bonchon-korean-fried-chicken-3.jpg"]
 rating: 4.4
-review_count: 129
+review_count: 133
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -46,14 +46,9 @@ reviews:
     rating: 4
     comment: |
       Reasonably priced and generous portion of heaping fries / onion rings . Love my dirty soda beverage
-  - name: "Claire Anne San Pedro"
-    rating: 5
+  - name: "Natalia Asis"
+    rating: 2
     comment: |
-      It was my first time ordering from BonChon through UberEats.
-      
-      I’ll say that the food items arrived in a great condition and it was wrapped well! This reflects that they have a good service. Excited to dine in soon!
-      
-      I love the sweet gochujang wings as it is savory and flavorful which perfectly matched the cold ginger ale I drank with it. Also, the fries was really tasty.
-      
-      It was on promotion when I bought it online which made the purchase extra satisfying.
+      Mid food and experience.
+      Typing this as I finish my meal alone in the restaurant at 7pm on a Sunday. The cashier recommended the bulgogi rice since it is my first visit. It wasn’t anything special rather than a premade small dish. If this is the best, I’m scared to find out what the average dishes are. I was asked if I was eating here, still everything came out in single use plastic and containers. I see that a tip option came up, but there was little to no service. I’m getting ready to throw my trash away. No one went above and beyond for me and the tip was asked before anything else. It gives me an ick. I’ll find somewhere else to eat next time.
 ---

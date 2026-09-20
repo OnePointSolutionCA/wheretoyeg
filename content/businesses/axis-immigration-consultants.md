@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/axis-immigration-consultants-1.jpg", "/photos/axis-immigration-consultants-2.jpg", "/photos/axis-immigration-consultants-3.jpg"]
 rating: 4.9
-review_count: 964
+review_count: 965
 price_range: "$$"
 amenities:
 
@@ -65,12 +65,8 @@ reviews:
       I truly appreciate their dedication, honesty, and commitment to helping us achieve this important milestone. I highly recommend Axis Immigration to anyone looking for trustworthy and professional immigration services.
       
       Thank you, Axis Immigration, for making our dream of becoming Canadian permanent residents a reality!
-  - name: "Windel Cuenca"
+  - name: "Gagan Gourav"
     rating: 5
     comment: |
-      I can't thank Axis Immigration Consultants enough for their incredible suppirt throughout my immigration journey. They helped me every step of the way - from obtaining my Visitor Visa, then my Work Permit, and finally achieving my Permanent Residency. Their expertise and guidance made what could have been a stressful process feel smooth and manageable.
-      
-      A special shoutout to Damini, who always professional, patient, and incredibly supportive. She answered all my questions promptly, kept me updated throughout the process, and genuinely cared about my case. Her dedication and attention to detail gave me confidence every step of the way.
-      
-      I am truly grateful to Damini and the enitre team at Axis Immigration Consultans for helping me achieve this important milestone. I highly recommend them to anyone looking for trustworthy, knowledgeable, and reliable immigration services. Thank you for making my Canadian dream a reality!
+      I had an excellent experience working with Axis Immigration for my LMIA and work permit application. Their team, especially Radhika, was incredibly knowledgeable, professional, and responsive throughout the entire process. she took the time to explain every step clearly, kept me updated regularly, and made sure all documentation was accurate and submitted on time. Thanks to her dedication and expertise, my LMIA and work permit were both approved without any issues. Highly recommended.
 ---

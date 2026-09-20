@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "160 Mayfield Common Northwest Unit G010, Edmonton, AB T5P 4B3"
 rating: 4.9
-review_count: 809
+review_count: 814
 tier: "featured"
 phone: "(780) 652-0751"
 website: "https://playactivate.com/edmonton-west"

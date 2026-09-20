@@ -49,7 +49,7 @@ reviews:
     comment: |
       I was referred to Bluenose after an oil change place had damaged my car 12 years ago and I haven’t gone to another mechanic since. As a single woman with limited mechanical knowledge Phil quickly became a trusted professional I knew wouldn’t take advantage of me. I’m a tradeswomen that’s tough on vehicles and the Bluenose team always goes out of their way to make sure my vehicles are serviced correctly so I never miss any work. I’m in their shop regularly and refer them to all of my family and friends.
 hours:
-  monday: "8:00 AM–4:30 PM"
+  monday: "8:00 AM–5:00 PM"
   tuesday: "8:00 AM–5:00 PM"
   wednesday: "8:00 AM–5:00 PM"
   thursday: "8:00 AM–5:00 PM"

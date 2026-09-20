@@ -17,20 +17,14 @@ reviews:
     rating: 5
     comment: |
       I was SO impressed by how I was quoted for service in increments of "half an hour of labour," "one third of an hour of labour." I have never encountered that anywhere else. Maybe it helped that I requested for about five jobs to be done in one visit, so they could just tack one onto the end of another. Two of the issues I asked them to check out, I truly didn't expect them to be able to fix at any reasonable expense, but they did both! In the case of our gas cap cover, Jay went out and welded a new hinge into it and only charged me for 20 min of labour. I have never received such generous service anywhere else. I can see how defaming reviews can get left by anyone whose vehicle needed further service after some initial work. Mechanic work is not an exact science in that it doesn't guarantee that further problems won't emerge or re-emerge, but I think the CONSTANT flow of business that is run through that shop should speak for itself as to the quality of work and integrity of business.
-  - name: "Liam Green"
-    rating: 1
-    comment: |
-      I strongly advise anyone to avoid taking their vehicle to this shop. My experience was extremely negative. The mechanic performed work on my vehicle without my consent or authorization, which is completely unacceptable and, to my understanding, illegal. The problem wasn’t bad enough to make the car dangerous on the roads.
-      
-      Since their “service,” my check engine light now comes on frequently, and my vehicle has begun leaking fluid from multiple areas, issues that were not present before. When I reached out for an explanation or resolution, I received no satisfactory response or accountability.
-      
-      If you value your vehicle and your peace of mind, do not trust this place with your car. I wish I had read more reviews before going here… hopefully this helps others avoid the same mistake.
-      
-      Edit after there reply: It was OUR vehicle and we specifically asked them to just do a diagnostic nothing else as I am mechanically inclined and able to fix my own vehicles and simply needed a diagnostic to do so because I had no reader. These guys are crooks and just after your money. DO NOT TAKE YOUR CAR HERE
   - name: "Brandon L"
     rating: 1
     comment: |
       Definitely lied about a/c compressor tried to charge me 1500$ just got it filled by fountain pressure test was good compressor was fine
+  - name: "Paul Deemz"
+    rating: 5
+    comment: |
+      Had work done on Jeep Cherokee, and was priced great, got looked after fairly quickly, and all around good service. Highly recommend.
   - name: "Gray McIntosh"
     rating: 1
     comment: |

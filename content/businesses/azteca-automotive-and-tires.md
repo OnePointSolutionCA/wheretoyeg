@@ -14,10 +14,10 @@ google_maps: "https://maps.google.com/?cid=4166425915226811807&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/azteca-automotive-and-tires.jpg"
 reviews:
-  - name: "Moein Habibi"
+  - name: "Jamie Gregg"
     rating: 5
     comment: |
-      Called them today and they got me in the same day. Pricing was fair and right in line with the market. They’re a father-and-son shop, and I’d rather support a local small business than a big chain any day. Friendly guys, and the work was clean and fast. Would recommend.​​​​​​​​​​​​​​​​
+      Was able to get in right away with a big screw in my tire. They fixed it up super quick with no hassle. Enjoyed the darts and snacks while I waited as well. Will definitely come back with any future tire issues!
   - name: "Ivan Tymchuk"
     rating: 5
     comment: |
@@ -30,6 +30,10 @@ reviews:
       The workshop itself is very cozy and has a really cool vibe and style. I especially liked the waiting lounge area — free drinks, great design (something I haven’t seen before), and even the option to play darts or watch TV while you wait. It makes the time pass very comfortably.
       
       Overall, it was a very pleasant experience. We will definitely come back again and recommend you to our friends! 🙌
+  - name: "Moein Habibi"
+    rating: 5
+    comment: |
+      Called them today and they got me in the same day. Pricing was fair and right in line with the market. They’re a father-and-son shop, and I’d rather support a local small business than a big chain any day. Friendly guys, and the work was clean and fast. Would recommend.​​​​​​​​​​​​​​​​
   - name: "Zohal Mohibi"
     rating: 5
     comment: |
@@ -38,10 +42,6 @@ reviews:
     rating: 5
     comment: |
       Ricardo is an amazing guy. Very friendly and professional. He gives helpful tips on how to maintain ypur tires. Excellent and affordable service. I highly recommend this shop. You'll never regret. Kudos!
-  - name: "kacie reimer"
-    rating: 5
-    comment: |
-      Went in to get my tires retorqued and he went above and beyond to help me out! great customer service :)
 hours:
   monday: "9:00 AM–10:00 PM"
   tuesday: "9:00 AM–10:00 PM"

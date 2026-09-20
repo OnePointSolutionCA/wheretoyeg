@@ -17,6 +17,12 @@ reviews:
     rating: 5
     comment: |
       Beyond vision goes Beyond my expectations every time I go in either for an appointment or a glass adjustment.  Dr Poon and team answer all my questions professionally. I would recommend Beyond Vision to any one looking to change optometrist and dispensary. Thank you for all you do.
+  - name: "Johnny Lee"
+    rating: 5
+    comment: |
+      Dr. La has been super helpful and has helped me over the years!
+      
+      Super easy to deal with and super friendly! It also helps that she speaks chinese so my parents can visit her for eye exams as well!
   - name: "Joy Fajardo"
     rating: 5
     comment: |
@@ -25,12 +31,6 @@ reviews:
       Their dedication to customer satisfaction is truly commendable.
       
       Overall, I highly recommend Beyond for anyone looking for a top-notch experience. You won't be disappointed!
-  - name: "Johnny Lee"
-    rating: 5
-    comment: |
-      Dr. La has been super helpful and has helped me over the years!
-      
-      Super easy to deal with and super friendly! It also helps that she speaks chinese so my parents can visit her for eye exams as well!
   - name: "Ray"
     rating: 1
     comment: |

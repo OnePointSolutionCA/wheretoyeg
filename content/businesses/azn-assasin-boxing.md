@@ -42,12 +42,6 @@ reviews:
     rating: 5
     comment: |
       It has been about a month of boxing with Albert and my experience with him has been awesome! He is very passionate and knowledgeable in the sport and it really shows. I am "hook"ed and looking forward to more sessions.
-  - name: "Dan Chau"
-    rating: 5
-    comment: |
-      Coach albert understood my aspirations to cross train in my martial arts career and my limitations due to age(I am 45 years young) and schedule to craft a custom program that will help me to achieve my goals.
-      
-      I have studied with multiple instructors, including boxing, and Albert stands out as an educator, motivator and someone who “has been there and done that”.
   - name: "Yevhen “Eugene” Bazhenov"
     rating: 5
     comment: |
@@ -58,4 +52,8 @@ reviews:
     rating: 5
     comment: |
       Albert single handedly re ignited my love for the sport I thought I'd lost. Especially if you're disabled and a boxer or aspiring boxer in Edmonton, I would recommend you at least come meet this guy once. He's a great coach and all around great dude, who makes my day every single session
+  - name: "Julie Zettl"
+    rating: 5
+    comment: |
+      Albert is a great teacher!  He has a unique story with history fighting in the ring and teaching at multiple levels of boxing.
 ---

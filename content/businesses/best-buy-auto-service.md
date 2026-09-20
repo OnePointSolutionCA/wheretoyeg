@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Beverly"
 address: "13140 156 St, Edmonton, AB T5V 1L3"
 rating: 4.7
-review_count: 172
+review_count: 171
 tier: "featured"
 phone: "(780) 482-1155"
 website: "https://www.bestbuyautodirect.ca/"
@@ -38,14 +38,18 @@ reviews:
       They are very transparent about pricing and the work being done, I was given honest recommendations and clear communication. Everyone there is friendly, professional, and truly cares about customer service. Great people and great service from start to finish. Highly recommend!
       
       I've gotten big fixes there twice now in the last month and they've been super great to work with. Definitely my go-to guy now!
-  - name: "William L"
-    rating: 5
-    comment: |
-      In the past 20 years i have bought most of my vehicles from Rod and all my mechanical servicing has been done their.Their hourly rate has always been lower than anyone else and you get the best knowledgeable journeyman mechanic this side of Canada.They always accommodate you anyway they can and are the most positive and friendly people you will ever meet. If you want excellent pricing,workmanship and a friendly business than this is the place for you.  William
   - name: "nick laboucan"
     rating: 5
     comment: |
       Honestly, this was the best service I've ever received. The staff was incredibly friendly, and he kept me updated throughout the entire process, which I really appreciated. He was able to fit me in on very short notice and went above and beyond to help me out. He also took the time to clearly explain everything I needed to do with my vehicle afterward, making sure I understood the next steps. Excellent customer service, great communication, and a genuinely positive experience from start to finish. Highly highly recommend! I will be returning whenever I need help with my vehicle. 🙂
+  - name: "Lawrence Gomes"
+    rating: 5
+    comment: |
+      I had a great experience at Best Buy Auto Service and wanted to give a special shoutout to Rod for the excellent service. He took the time to properly diagnose the issue with my Nissan SUV and replaced the driver’s side window regulator/motor efficiently and professionally.
+      
+      What really stood out was his attention to detail and clear communication throughout the process — no surprises, just honest and reliable work. The repair was done smoothly, and my window is now working perfectly again.
+      
+      It’s not always easy to find someone you can trust with your vehicle, but Rod definitely delivered. Highly recommend Best Buy Auto Service if you’re looking for dependable and knowledgeable service!
 hours:
   monday: "8:30 AM–5:00 AM"
   tuesday: "8:30 AM–5:00 PM"

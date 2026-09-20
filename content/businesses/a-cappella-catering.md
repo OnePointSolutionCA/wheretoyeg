@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/a-cappella-catering-1.jpg", "/photos/a-cappella-catering-2.jpg", "/photos/a-cappella-catering-3.jpg"]
 rating: 4.3
-review_count: 323
+review_count: 322
 price_range: "$$"
 amenities:
   - "Dine-In"

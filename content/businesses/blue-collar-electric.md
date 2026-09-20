@@ -53,8 +53,8 @@ reviews:
     rating: 5
     comment: |
       Ioannes was the electrician that provided service for us.  He was excellent - friendly, professional, arrived on time, worked quickly and efficiently.  We were very pleased with his work.  Tyler, the owner was quick to respond to our service request.  He arranged a service time for our work quickly and provided information about their services and pricing so we knew what to expect.  Blue Collar Electric has become our go to company for any future electrical work.
-  - name: "Paige Hirschfeld"
+  - name: "Michael Murphy"
     rating: 5
     comment: |
-      We are so incredibly happy with Dan and Tyler. Dan did the work on our ceiling and was kind, friendly, professional and hardworking. He consulted with us to make sure we would be happy with the look and symmetry of our ceiling. He provided recommendations without pressure and was informative of the process and materials used. Tyler was clear, considerate and easy to work with and provided us with great communication and expectations. We would absolutely recommend this company to any of our friends or family needing electrical services.
+      We have worked with Blue Collar on many projects in the past with our mechanical company and I have also had them do some work at our home. I highly recommend them. The ownership and staff are top notch!
 ---
