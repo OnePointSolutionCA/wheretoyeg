@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Mill Woods"
 address: "4214 66 St NW, Edmonton, AB T6K 4A2"
 rating: 4.7
-review_count: 112
+review_count: 113
 tier: "featured"
 phone: "(587) 414-6414"
 website: "https://www.chimedental.com/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Website_URL"
@@ -18,7 +18,7 @@ reviews:
     rating: 5
     comment: |
       I had a wonderful experience at this Chime Dental branch. Laura at the front desk was incredibly helpful, friendly, and easy to talk to. Our dental hygienist, Lisa, took the time to explain everything clearly and made us feel comfortable throughout the visit. I would definitely recommend this hidden gem to anyone looking for excellent dental care!
-  - name: "David Alberto Trujillo"
+  - name: "David T P"
     rating: 5
     comment: |
       This was my first visit to Chime Dental Mill Woods and I couldn’t be happier with the experience. From the moment you walk in, the attention is excellent. Laura at the front desk is very welcoming and professional, which immediately makes you feel comfortable.

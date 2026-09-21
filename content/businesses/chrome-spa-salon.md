@@ -28,6 +28,12 @@ tags: ["edmonton", "cuts-styling"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Marah Halawa"
+    rating: 5
+    comment: |
+      The best place for hair, without a doubt!
+      They treated me so kindly and made me feel completely pampered from the moment I walked in. A huge thank you to Christine and the other lovely stylist who did my hair, they were both incredibly sweet, talented, and so gentle. I didn't feel any discomfort at all during the appointment. Special thank you to William, the owner, who is honestly one of the kindest people I've ever met.
+      I'm beyond happy with my hair, and I'll definitely be coming back. I highly recommend this salon to anyone looking for amazing service and beautiful results!
   - name: "Brooklyn Stephan"
     rating: 5
     comment: |
@@ -52,16 +58,4 @@ reviews:
       I had my haircut at Chrome Salon last year and forgot to leave a review, but I still wanted to share my wonderful experience. As a hijabi, it can be difficult to find a comfortable and private environment for a haircut. The owner was extremely kind and understanding. He asked me to come early the next morning so he could arrange the schedule around the male staff and make sure no men would come in while my hijab was off.
       When I returned the next morning, the hairstylist who did my haircut was very sweet, caring, and attentive. She took great care while cutting my hair, and I was very happy with the result. The owner also made sure throughout the appointment that my privacy was respected, which truly meant a lot to me.
       I really appreciate the kindness, respect, and effort they showed to make me feel comfortable. It’s not something I expected, and I’m very thankful for the experience. Overall, I had a great haircut and an even better experience. Wishing the owner and the salon continued success and all the best ❤️
-  - name: "Maryna Hayes"
-    rating: 5
-    comment: |
-      Where do I even begin?! My hair had taken a real beating from the strong Alaskan sun and wind, and honestly, “damaged” doesn’t quite cover it. Then I found Chrome Spa Salon, and I’m so grateful I did.
-      
-      From the moment I sat down, I felt genuinely looked after. Flint, an incredible hairstylist, helped me pick the right treatment, and he explained everything along the way so I never felt lost. But what stayed with me wasn’t just his skill and unique talent. It was how human the whole thing felt. He took the time to work with my hair, to share his own stories, and to actually see me as a person, not just another appointment.
-      
-      I left with hair I love, the right product to keep it that way, and a heart full of gratitude. Flint is just amazing: a stylist, a storyteller, and, most importantly, a great person with a kind heart and an open mind. He gave me great advice and shared his love for Edmonton, a city that wouldn’t have been my first choice, but he made me see it differently. That’s a gift.
-      
-      I also have to thank William, the owner, whose warmth and charisma made me feel welcome the second I walked in.
-      
-      If you’re looking for a place that treats you like a VIP and sends you out feeling cared for, this is it. I can’t recommend it enough.
 ---

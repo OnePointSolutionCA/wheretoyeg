@@ -14,6 +14,14 @@ google_maps: "https://maps.google.com/?cid=2032204894443836044&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/canadian-pizza-and-donair-and-kurry-knights.jpg"
 reviews:
+  - name: "Justin Hendrick"
+    rating: 5
+    comment: |
+      First time trying them, and ordered via Skip. They have a very good deal running right now: 2 small 3-topping pizzas for only $18 after Skip discounts & voucher, & a BOGO offer.
+      
+      As a fellow pizza connoisseur myself, I would give them a fairly high rating, as I know the struggle firsthand and respect any and all my peers from the same industry.
+      
+      From a consumer standpoint, don’t let that take away from the veracity of this review, as I still write this with a fair & objective perspective as possible.
   - name: "Tom Hernandez"
     rating: 5
     comment: |
@@ -21,6 +29,10 @@ reviews:
       
       What made it even better is that everything tasted so fresh and made with care, you can really tell they put love into their cooking. The staff were so welcoming and accommodating, and they genuinely seemed to enjoy what they do, which created such a warm and positive atmosphere.
       Can’t wait to come back for another delicious meal! 🍗🍛🌯
+  - name: "Stefanie Lacasse"
+    rating: 2
+    comment: |
+      I pre-ordered online to pick up at 3:30pm.  I arrived at 3:30pm, and my order wasn't even started yet.  The man working was not friendly at all.  No smile, no hello, no sorry about the wait, etc.  I ordered some donairs and cheese bread.  On the photo of the cheese bread, it shows it comes with marinara sauce.  It in fact, did not come with any sauce.  (photo added for reference) The food was terrible.   Will not go back.
   - name: "Charlene Huntley"
     rating: 5
     comment: |
@@ -31,19 +43,6 @@ reviews:
     rating: 2
     comment: |
       My wife is India, so we often order takeout and go to Indian restaurants. We ordered delivery veggie vindaloo, tandoori chicken and pulao rice. It was very disappointing. The rice was good, but the chicken and veggies were gross. The sauce looks like it has food colouring and was quite bland. For $60 for two meals you wouldn't expect to have to pick a palm full stems from the very limited number of peas out of the sauce. Both of our stomaches are upset and bloated. I'm not sure if they use cheap palm oil, but that is usually the culprit for bloating and upset stomach eating out for us.
-  - name: "Katie Kadwell"
-    rating: 5
-    comment: |
-      I love this so much 🤣 This restaurant is the only one that gets the spice level right on my Butter Chicken when I have a request to breathe fire 🔥
-      
-      It's appreciated thank you!
-      I should add this was SG location
-  - name: "Richard Corry"
-    rating: 5
-    comment: |
-      This place has great food.  I like to support local, saw the reviews on this place and thought we would give it a try... I was so happy we did.  Their pizzas are extremely flavorful, great pizza sauce, they don't cheap out on the toppings at all, good amount of cheese, non-greasy pizza crust... perfect pizza.  Look out every other pizza shop in Spruce.  Seriously.  My new go to spot... and what else is awesome... the unlimited toppings.  We ordered a Tandoori Chicken Pie (but then also added fresh tomatoes, pineapples and spinach) and a Meatzza Pie (added Jalapenos, Banana Peppers some donair meat, fresh tomatoes), both 16" X-Large... no extra fee for the toppings.  Wow.  They were so good and so filling... I eat a lot, and by my second piece I was already pretty full, but I ate 3 because they were so tasty.  We also thought we would try the Chicken Cheese balls and their onion rings.  Both were really good.  What's not good... my waistline now that I know about them.
-      
-      Another note... online ordering system super easy.  Once order is placed you get a nice pdf receipt emailed to you clearly detailing all items in the order, all the additional toppings you selected etc.  Very impressed.
 hours:
   monday: "2:00 PM–11:00 PM"
   tuesday: "2:00 PM–11:00 PM"

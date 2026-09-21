@@ -6,7 +6,7 @@ subcategory: "indian-pakistani"
 neighborhood: "Mill Woods"
 address: "9266 34 Ave NW, Edmonton, AB T6N 1C9"
 rating: 4
-review_count: 510
+review_count: 511
 tier: "featured"
 phone: "(780) 395-7866"
 website: "http://www.chutney.restaurant/"
@@ -14,10 +14,6 @@ google_maps: "https://maps.google.com/?cid=12170411237608328186&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/chutney-restaurant-halal-pakistani-due-to-fire-next-door-will-opening-soon.jpg"
 reviews:
-  - name: "Usman Rafique"
-    rating: 5
-    comment: |
-      A great place all in all. Ordered bun kabab (4.2/5) chapli kabab (4.8/5), chicken noodles (3.9/5), dhahi balle (5/5) rabri falooda (4.2/5). There roti is a 5 for sure. There are quite a few options here, got to try these. A must go place for Edmontonians!
   - name: "Waqas Munawar"
     rating: 5
     comment: |
@@ -38,6 +34,12 @@ reviews:
       This restaurant has been flying under the radar for many foodies, but we decided to give their weekend brunch a try and were pleasantly surprised! The menu offered a delightful mix of traditional and modern dishes. We enjoyed the quintessential halwa puri, suji halwa, flavorful haleem (beef), delicious chicken karahi, and comforting paya (bara). To round out the meal, we also indulged in an omelet and mattur pulao rice.
       
       The brunch also included refreshing orange juice, desi tea, sweet jelebi, and a slice of pound cake. Overall, the brunch was incredibly satisfying and a must-try for anyone seeking a delicious and authentic desi weekend brunch experience.
+  - name: "Rakib Shah"
+    rating: 4
+    comment: |
+      We used to order from this store using doordash frequently. This was our first dining in there. Pretty good interior. They tried their best to mimic authentic Pakistani vibes. I believe this place has more of a Pashtun vibe.
+      The foods are great, huge portions with decent price. We had Goat biriyani with Sweet Lassi, Papri Chat, Goat paya with Plain rice. For some reason, the goat biriyani was a dollar more expensive from Doordash. But their goat/lamb biriyani is I believe the best in Edmonton. The Lassi was okay. I am not a great fan of chickpeas and yogurt, but my friends loved the papri chat.
+      Customer service was kinda okay, not too friendly.
 hours:
   monday: "11:00 AM–9:00 PM"
   tuesday: "11:00 AM–9:00 PM"

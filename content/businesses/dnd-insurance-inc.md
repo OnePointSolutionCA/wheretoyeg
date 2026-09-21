@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/dnd-insurance-inc-1.jpg", "/photos/dnd-insurance-inc-2.jpg", "/photos/dnd-insurance-inc-3.jpg"]
 rating: 4.9
-review_count: 669
+review_count: 672
 price_range: "$$"
 amenities:
 
@@ -40,6 +40,18 @@ reviews:
     rating: 5
     comment: |
       I can’t say enough good things about DND Insurance. Kieran and Paolo… have been amazing to work with—friendly, caring, and always quick to help. Every interaction has been positive, and they’ve made things so much easier for me. Thank you for the excellent service and support. I highly recommend them!
+  - name: "Tim"
+    rating: 5
+    comment: |
+      I had an excellent experience with DND Insurance and Paolo Araneta.
+      
+      After an IRS Fail suspension, I was having a difficult time finding affordable insurance. Paolo went above and beyond to help me through the process, answer all my questions, and find the best rate possible for my situation. He was professional, responsive, and always took the time to explain everything clearly.
+      
+      The entire process was straightforward and stress-free. Paolo helped me arrange a payment plan that worked for me, kept me updated every step of the way, and made sure I had everything I needed to get back on the road legally.
+      
+      If you’re having trouble finding insurance or need help with a high-risk policy, I highly recommend reaching out to Paolo and the team at DND Insurance. The customer service was outstanding, and I truly appreciate all the help they provided.
+      
+      Thank you, Paolo and DND Insurance! You’ve made a challenging situation much easier to navigate. 👏🚚💯
   - name: "Garry Yerhoff"
     rating: 5
     comment: |
@@ -47,8 +59,4 @@ reviews:
       
       Thank you Paulo,
       G. Yerhoff
-  - name: "Bradley Wiun"
-    rating: 5
-    comment: |
-      I just went through the process of getting a new vehical and I wasn't to view how my rates were going to very. However Kieran McLaughlin helped me along my hunt by giving me multiple quotes for every single vehical I looked at till I was able to get something in my budget. The response time was awsome and within 24 hrs we had all my insurance completed and ready for the registry. 4 years with DandD insurance and I gotta say through the 3 different reps I have had I have great experiences. I would recommend them for anyone looking to find a fresh start.
 ---

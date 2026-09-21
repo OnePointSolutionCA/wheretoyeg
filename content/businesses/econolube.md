@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Spruce Grove"
 address: "120 St Matthews Ave #8, Spruce Grove, AB T7X 3B5"
 rating: 4.8
-review_count: 747
+review_count: 751
 tier: "featured"
 phone: "(780) 962-1117"
 website: "http://www.econolube.ca/"
@@ -14,14 +14,6 @@ google_maps: "https://maps.google.com/?cid=7518020489327020308&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/econolube.jpg"
 reviews:
-  - name: "Darrell James"
-    rating: 5
-    comment: |
-      Took my vehicle in for a headlight change after their competitors told me they couldn’t do it because they would have to take off the whole bumper.
-      Anyway the team at econo lube did it no problem and at a minimal cost so from that point I trusted them only to return months later for my oil change and an inspection of my vehicle.
-      Jared and Steve were both up front honest with my vehicles condition and took the time to give me my best options with out upselling me but instead recommended me to get another vehicle before I broke down on my long distance trip.
-      I had shuttle service to and from my door by Bruce and very friendly as were all the staff there professional and honest.
-      Family operated and will go back to them because they are honest and well priced.
   - name: "George Rankin"
     rating: 5
     comment: |
@@ -38,10 +30,18 @@ reviews:
       This place is awesome. The staff at econolube genuinely care and want to provide a good service. I was having trouble with my brake lights.  I had a replacement bulb but needed help with the install. The staff at econolube installed the lights and would not take payment!
       
       For reference, Canadian Tire quoted me $48 per light to install brake lights!
-  - name: "Charlene Huntley"
+  - name: "Matteo Peruch"
     rating: 5
     comment: |
-      I recieved a text link to leave this review. Yesterday i stopped here for an oil change. Despite being very busy i was quickly greeted by an attendant who was friendly and welcoming. I appreciated that he explained there had been a recent price change by Shell relating to the type of oil used for my car and how the cost had gone up slightly. Even though i probably would not have noticed i did appreciate his being candid about it. I liked the playlist they were listening to as well🎶🎶🎶 An oil change is pretty basic but i would reccomend this place to others😊
+      I have been coming here for all my vehicles service and repairs since I owned my very first car back in 2021. I highly recommend this shop as they are very honest, reliable, and knowledgeable about everything. I have also bought 3 sets of tires now from them and all 3 times they were very honest about which tire I had selected and which tire would fit my best needs. 10/10 recommend them! Also a big bonus: they are locally owned and operated! If I could give 10 stars, I definitely would!
+  - name: "Ashley Rosenow"
+    rating: 5
+    comment: |
+      My family and I were on our way to Jasper, towing our trailer, when our check engine light suddenly came on. We found out our spark plugs needed to be replaced immediately. Since turning around and heading home wasn't an option, we stopped at EconoLube hoping they could help.
+      
+      The staff were incredibly accommodating and fit us in right away. They replaced the spark plugs quickly and had us safely back on the road so we could continue our trip with peace of mind.
+      
+      We're so grateful for their kindness, professionalism, and willingness to help us in a stressful situation. Thank you, EconoLube, for saving our vacation! Highly recommend!
 hours:
   monday: "8:00 AM–6:00 PM"
   tuesday: "8:00 AM–6:00 PM"

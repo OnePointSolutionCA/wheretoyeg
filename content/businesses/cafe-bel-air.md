@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–4:00 PM"
 photos: ["/photos/cafe-bel-air-1.jpg", "/photos/cafe-bel-air-2.jpg", "/photos/cafe-bel-air-3.jpg"]
 rating: 4.9
-review_count: 378
+review_count: 379
 price_range: "$$"
 amenities:
   - "Dine-In"

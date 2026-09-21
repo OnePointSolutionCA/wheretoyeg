@@ -30,21 +30,16 @@ tags: ["edmonton", "artisan-bread"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Larissa H"
+    rating: 5
+    comment: |
+      Had to try it, so glad I did! I ordered: iced americano, cinnamon bun, chocolate croissant. Phenomenal! I prefer cinnamon buns without icing so these are fantastic, was still warm :) Will have to return to try a loaf of bread.
   - name: "Alborz"
     rating: 4
     comment: |
       Hospitable and cozy environment. The staff are polite and helpful. The interior design is mostly made of wood and warm colors, they have string lights with a yellow hue hanging as well. The cafe is mostly looking for a cozy bakery café cliché. I enjoy going for pickup orders or planning an outing with a friend to catch and talk in slow paced calm environment.
       
       If you are ever in the neighborhood be sure to give them a try. I do like the pastry variety and it seems like they have added some interesting cheese to buy as well.
-  - name: "Dasha M"
-    rating: 5
-    comment: |
-      The best pastries I’ve ever tried. Not too sweet and satisfy the craving!
-      The atmosphere is cozy and nice.
-  - name: "Larissa H"
-    rating: 5
-    comment: |
-      Had to try it, so glad I did! I ordered: iced americano, cinnamon bun, chocolate croissant. Phenomenal! I prefer cinnamon buns without icing so these are fantastic, was still warm :) Will have to return to try a loaf of bread.
   - name: "Carlos Rosa"
     rating: 5
     comment: |
@@ -57,4 +52,9 @@ reviews:
       First time coming, got a drink and snack. It was late afternoon, so I think most of the stuff was already sold out.
       
       The croissant was flaky and well balanced. The latte was good. Although I think of you  a fan of sweeter latte, you may not like the latte here without extra sugar. The coffee flavour was nice however. Just the right amount of bitter for me.  They also have oat milk as alternative for lactose intolerance.
+  - name: "Dasha M"
+    rating: 5
+    comment: |
+      The best pastries I’ve ever tried. Not too sweet and satisfy the craving!
+      The atmosphere is cozy and nice.
 ---

@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "11017 26 Ave NW, Edmonton, AB T6J 4C1"
 rating: 5
-review_count: 274
+review_count: 276
 tier: "featured"
 phone: "(825) 966-9558"
 website: "https://www.clawmecrazy.ca/"
@@ -25,10 +25,6 @@ reviews:
     rating: 5
     comment: |
       Super fun! This is such a great place to come with friends or even alone! Definitely a good way to spend your afternoon.
-  - name: "Cassie Sanchez"
-    rating: 5
-    comment: |
-      So much fun for kids and such a great prices and prizes! Love this place!! Claudia was amazing!
   - name: "Legorena “Owey”"
     rating: 5
     comment: |
@@ -37,6 +33,10 @@ reviews:
     rating: 5
     comment: |
       We had so much fun here! My five year old ended up winning a lot of prizes. Prizes are high quality and staff are very helpful. Great time all around.
+  - name: "Killua Fernando"
+    rating: 5
+    comment: |
+      Absolutely love everything about this place, its clean, aesthetic, affordable and overall just a super fun place to go with your friends. Highly recommend. Chen is also an amazing employee and super duper friendly.
 hours:
   monday: "4:00 PM–8:00 PM"
   tuesday: "3:00 PM–8:00 PM"

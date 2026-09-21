@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Spruce Grove"
 address: "4620 48 St #203, Stony Plain, AB T7Z 1L4"
 rating: 5
-review_count: 460
+review_count: 461
 tier: "featured"
 phone: "(780) 591-0550"
 website: "http://www.dentistryonfifth.ca/"
@@ -18,10 +18,10 @@ reviews:
     rating: 5
     comment: |
       Hello, if you really want a very good dentist, I recommend that you come here. Very warm welcoming, And everyone is very Happy to make you comfortable as possible. The dentist he’s very very nice. He makes you feel comfortable and he tells it to you like it is no beating around the bush. He gives you the opportunity to make up your own mind. He doesn’t tell you that you have to have it one way. I really appreciate that.
-  - name: "Genevieve Bernier"
+  - name: "Chelsea Lambert"
     rating: 5
     comment: |
-      I had a great experience here. I came in for a tooth extraction and dental bone graft. Everyone here is extremely professional and friendly. I felt heard, and all of my questions were answered in a way that was easy to understand. I felt safe before, during and after the procedure and the instructions for aftercare were clearly explained to me. 5 Stars!
+      Amazing experience from the front desk, the sweetest dental assistant, to the dentist who worked on my teeth. Thank you so much for being careful and making sure I was comfortable the whole time. 🙌🏻
   - name: "Kayla Lovli"
     rating: 5
     comment: |

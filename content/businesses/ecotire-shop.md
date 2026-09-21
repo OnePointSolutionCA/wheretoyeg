@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "7340 Yellowhead Trail NW, Edmonton, AB T5B 4K2"
 rating: 4.6
-review_count: 504
+review_count: 505
 tier: "featured"
 phone: "(587) 490-6699"
 google_maps: "https://maps.google.com/?cid=13470470651629672406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

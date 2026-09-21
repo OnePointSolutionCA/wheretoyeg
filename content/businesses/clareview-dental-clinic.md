@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "3532 137 Ave NW, Edmonton, AB T5Y 1Y7"
 rating: 4.8
-review_count: 1456
+review_count: 1465
 tier: "featured"
 phone: "(780) 475-9216"
 website: "https://clareviewdental.com/?utm_source=GBP&utm_medium=button&utm_campaign=Home"

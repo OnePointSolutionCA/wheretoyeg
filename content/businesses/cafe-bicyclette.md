@@ -18,7 +18,7 @@ hours:
   sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/cafe-bicyclette-1.jpg", "/photos/cafe-bicyclette-2.jpg", "/photos/cafe-bicyclette-3.jpg"]
 rating: 4.4
-review_count: 1200
+review_count: 1201
 price_range: "$$"
 amenities:
   - "Brunch"
@@ -43,14 +43,6 @@ reviews:
       The food and coffee were absolutely delicious. I especially loved the London Fog and the cappuccino—both were made perfectly. The poutine and fries were also amazing and full of flavor.
       
       Definitely a spot I’ll keep coming back to. Highly recommend!
-  - name: "Cathy Walsh"
-    rating: 3
-    comment: |
-      This used to be our go-to for great poutine. Today’s experience was just sad. Fries were less than hot, gravy just warm, cheese curds ice cold.
-      
-      I’m sure we could have sent it back but staff member serving us didn’t check in with us and other staff busy.
-      
-      Review posted hoping it’s noticed to make improvements because this is a great little restaurant otherwise, with one of the nicest patios in the city.
   - name: "V “vNoCode” Picoc"
     rating: 4
     comment: |
@@ -61,6 +53,14 @@ reviews:
       The atmosphere and facilities were clean and comfortable.
       
       My main critique is the service staff. They were not rude or anything, however I've have had better service elsewhere. So comparatively the issues were more pronounced here, mainly the speed of getting the bill as well as the speed of following up for orders. We actually had to approach them again for the bill after asking for it.
+  - name: "Cathy Walsh"
+    rating: 3
+    comment: |
+      This used to be our go-to for great poutine. Today’s experience was just sad. Fries were less than hot, gravy just warm, cheese curds ice cold.
+      
+      I’m sure we could have sent it back but staff member serving us didn’t check in with us and other staff busy.
+      
+      Review posted hoping it’s noticed to make improvements because this is a great little restaurant otherwise, with one of the nicest patios in the city.
   - name: "Ricky Zhang"
     rating: 4
     comment: |

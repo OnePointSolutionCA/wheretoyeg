@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Castle Downs"
 address: "15277 Castle Downs Rd NW, Edmonton, AB T5X 3N5"
 rating: 4.8
-review_count: 271
+review_count: 273
 tier: "featured"
 phone: "(587) 520-5556"
 website: "https://www.chickochickenalberta.ca/"

@@ -18,7 +18,7 @@ hours:
   sunday: "8:00 AM–4:00 PM"
 photos: ["/photos/district-cafe-1.jpg", "/photos/district-cafe-2.jpg", "/photos/district-cafe-3.jpg"]
 rating: 4.4
-review_count: 950
+review_count: 952
 price_range: "$$"
 amenities:
   - "Brunch"

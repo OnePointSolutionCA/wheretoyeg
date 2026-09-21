@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/chadi-ibrahim-llp-1.jpg", "/photos/chadi-ibrahim-llp-2.jpg"]
 rating: 4.8
-review_count: 557
+review_count: 560
 price_range: "$$"
 amenities:
 
@@ -40,21 +40,6 @@ reviews:
       I had an absolutely fantastic experience with Sine Chadi and the entire team at Chadi and Company. Navigating a court case can be incredibly stressful, but Sine made the whole process so much clearer and more manageable. Their professionalism, expertise, and genuine support were evident from our very first meeting right through to the successful conclusion of my case.
       
       Sine was always incredibly responsive, patient, and took the time to explain everything in a way that was easy to understand. I felt completely informed and confident in their approach every step of the way. It’s clear they genuinely care about their clients .If you're looking for legal representation that is both highly skilled and truly compassionate, this is definitely the firm to choose. Thank you for everything!
-  - name: "Rupakshi Sood"
-    rating: 5
-    comment: |
-      MIYA H. CUNNINGHAM  is very professional, honest, and responsive lawyer . She handled my case with great care and achieved an excellent result. I highly recommend her .I am extremely satisfied with the legal service I received. She  was professional, patient, and always available to answer my questions. Her expertise and attention to detail helped achieve a great outcome.
-      Thanks so much again Miya!!!
-      I appreciate your help.
-      You’re the Best!
-  - name: "Jeremy Durant"
-    rating: 5
-    comment: |
-      Best law office in edmonton, hands down!
-      
-      Sine Chadi has been helping me for a year now and has done more than I asked for and never let me down! Super responsive lawyer, always easy to get in touch with and always down to do the job. Highly intelligent and knows his way around a courtroom, This entire law office is dialed right in and never skips a beat.
-      
-      Hopefully I no longer need a lawyer but when and if I do, I will be calling this office!
   - name: "Tamer Dogan"
     rating: 5
     comment: |
@@ -67,4 +52,28 @@ reviews:
       I would definitely recommend David Ibrahim for anybody who is facing a DUI with criminal charges or any criminal charges for that matter. Additionally, I would also like to note that the staff at Chadi & Ibrahim were always welcoming, smiling and very friendly.
       
       Thanks David.
+  - name: "Varatha Govi"
+    rating: 5
+    comment: |
+      ⭐⭐⭐⭐
+      
+      I am extremely grateful and blessed to have had Mr. Jake Chadi represent me. He is truly an exceptional lawyer—highly competent, dedicated, and deeply compassionate.
+      
+      What stood out most was his commitment to his clients. He always made time to meet and discuss my case, even on weekends and public holidays, which gave me immense reassurance and confidence that I was in the best hands within the legal community.
+      
+      Mr. Chadi presented my case in court with remarkable eloquence, clarity, and thoroughness, which ultimately resulted in a successful outcome. His professionalism and expertise made a very difficult situation much easier for me.
+      
+      Without any hesitation, I strongly and wholeheartedly recommend Mr. Jake Chadi to anyone seeking outstanding legal representation.
+  - name: "Jacqualine Young"
+    rating: 5
+    comment: |
+      I first met Ali Reslan in December 2023, and my divorce was fully completed in February 2026. Throughout the entire process, Mr. Reslan and the team at Chadi & Ibrahim LLP were exceptional.
+      
+      My divorce was extremely difficult, but Mr. Reslan handled everything with professionalism, confidence, and attention to detail from start to finish. He truly dots his I’s and crosses his T’s, and it is very clear that he knows his job inside and out. He is straightforward, no-nonsense, and always honest and professional.
+      
+      I cannot say enough good things about Mr. Reslan. If I ever needed legal representation again in my lifetime, he would absolutely be the first person I would call. I am very grateful to have had him in my corner during such a challenging time.
+      
+      Thank you again to Ali Reslan and everyone at Chadi & Ibrahim LLP for all of your hard work and support.
+      
+      — Jacqualine Mather
 ---

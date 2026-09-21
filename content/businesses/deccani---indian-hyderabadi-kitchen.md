@@ -35,6 +35,10 @@ reviews:
     rating: 5
     comment: |
       We've been twice now and every dish has been great and the staff / owner really nice and willing to explain the various dishes. We've tried the Desai butter chicken, red beef curry, bagjaar-e-baingan, and beef kheema biryani. The bagjaar dish is eggplant with peanut sauce which was really good. Never had anything quite like it before. The Biryani was also really good. Will definitely go back to try more things and would highly recommend.
+  - name: "Henry Du"
+    rating: 4
+    comment: |
+      The food here is pretty tasty. Quite enjoyed the Apollo Fish, garlic naan and Mutton Biryani. The chicken curry we tried packed quite a bit of heat (even as mild) and while it wasn't bad, was a bit too oily. Very friendly service and nice interior decor.
   - name: "maneesh sah"
     rating: 5
     comment: |
@@ -51,17 +55,6 @@ reviews:
       Easily my new favorite Indian spot. We’ll be regulars for sure.
       
       Highly Recommended five stars plus 👌 👌
-  - name: "Henry Du"
-    rating: 4
-    comment: |
-      The food here is pretty tasty. Quite enjoyed the Apollo Fish, garlic naan and Mutton Biryani. The chicken curry we tried packed quite a bit of heat (even as mild) and while it wasn't bad, was a bit too oily. Very friendly service and nice interior decor.
-  - name: "Vaishnavi Rao"
-    rating: 5
-    comment: |
-      Tried Talawa ghosh and paneer biryani here.
-      Talawa ghosh was absolutely delicious. Biryani was amazing too. Spices were right on point. Quantity is enough as well.
-      The owner of this place is very humble and sweet. He personally made sure if we enjoyed the meal.
-      Must try place.
   - name: "Heather"
     rating: 5
     comment: |
@@ -71,4 +64,8 @@ reviews:
       Service-Perfect!
       Decor-Modern, clean and comfortable.
       It wasn't just a meal, it was "An Experience!"
+  - name: "Sena Sezer Syed"
+    rating: 5
+    comment: |
+      We hadn’t had authentic Hyderabadi chicken biryani for months since we came to Canada and this place did it for us. The biryani was delicious, the chicken fell off the bone. It was enough to feed two of us, the quantity was quite generous for $22. Mr Vamsi was very helpful and kind, the food was amazing. We also had jannat-e-aam ananas, it was very creamy and the chunks of pineapple were so fresh. The saffron and the tiny rose petals along with sliced almond created a delicious dessert. The decoration of the place was super cool too. Shout out to Mr Vamsi’s wife! We will definitely be back to try other dishes inshaallah.
 ---

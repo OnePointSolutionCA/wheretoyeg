@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/donair-station-1.jpg", "/photos/donair-station-2.jpg", "/photos/donair-station-3.jpg"]
 rating: 4.5
-review_count: 988
+review_count: 990
 price_range: "$"
 amenities:
   - "Halal"

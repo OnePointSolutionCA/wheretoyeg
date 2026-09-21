@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "Jasper Ave"
 address: "10030 Jasper Ave, Edmonton, AB T5J 1R2"
 rating: 4.5
-review_count: 1971
+review_count: 1973
 tier: "featured"
 phone: "(587) 520-8841"
 website: "https://dedutch.com/locations/edmonton/"
@@ -26,11 +26,6 @@ reviews:
       I've been both in person and ordered some DoorDash: highly recommend coming here, whether you're alone or with company!
       
       Boer's Pannekoek and Canuck Toast 10/10, will order again. Big portions and still hot. (Honestly, the smartest way I've ever seen food delivered that wasn't pizza in a pizza box.)
-  - name: "Megan Taylor"
-    rating: 5
-    comment: |
-      Our server, Ashley was absolutely amazing super accommodating! by the time I took The last step of my drink, she had already brought a new one without me having to ask .
-      Amazing service
   - name: "Josh Nelson"
     rating: 5
     comment: |
@@ -40,6 +35,10 @@ reviews:
     comment: |
       Amazing food, been here with my best friends a few times and it's always great!
       Our server was Emily and she was absolutely fantastic, such a gem. Would 100% recommend
+  - name: "Filipe Drumond"
+    rating: 5
+    comment: |
+      A delicious Dutch experience. The place is very nicely decorated and very clean! Brings many memories of the Netherlands. The service is always friendly and accommodating. Ingredients are high in quality and dishes are always consistent. Great coffee and don’t forget to try the freshly squeezed orange juice. Enjoy!
 hours:
   monday: "7:00 AM–2:00 PM"
   tuesday: "7:00 AM–2:00 PM"

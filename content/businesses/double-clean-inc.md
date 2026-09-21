@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/double-clean-inc-1.jpg", "/photos/double-clean-inc-2.jpg", "/photos/double-clean-inc-3.jpg"]
 rating: 4.7
-review_count: 199
+review_count: 201
 price_range: "$$"
 amenities:
 

@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "13641 119 St NW, Edmonton, AB T5E 5N2"
 rating: 5
-review_count: 125
+review_count: 127
 tier: "featured"
 phone: "(587) 415-5922"
 website: "http://bridgefamilydental.ca/"

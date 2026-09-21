@@ -32,6 +32,10 @@ reviews:
     rating: 5
     comment: |
       I had an excellent experience with Terry Richter, Auto Body Manager at CSN Premier Collision Centre. Terry was professional, honest, and kept me informed throughout the entire repair process. My car was repaired to a very high standard and looks like new again. The quality of workmanship and attention to detail were outstanding. Terry made the whole experience stress-free and provided exceptional customer service from start to finish. I highly recommend Terry and the team at CSN Premier Collision Centre to anyone looking for quality collision repairs. Thank you for a job well done!
+  - name: "Pam Manegre"
+    rating: 5
+    comment: |
+      Highly recommend Terry! He came right to my home, took the time to thoroughly inspect my vehicle, and gave me an honest overview of the repairs and expected costs. I especially appreciated that he pointed out a few potential issues to keep an eye on without any pressure or upselling. It’s refreshing to find someone who is knowledgeable, trustworthy, and genuinely looking out for your best interests. Thank you, Terry!
   - name: "Jack Brisbane"
     rating: 5
     comment: |
@@ -42,14 +46,10 @@ reviews:
       The workmanship itself was outstanding. Not only was the repair completed exactly as promised, but they actually finished the work sooner than the timeline they originally provided. When I arrived to pick up my vehicle, I was genuinely impressed. The car looked fantastic. The repair work was flawless, and the vehicle had obviously been cleaned and detailed before being returned to me. Opening the door and being greeted by that fresh, detailed car smell was the finishing touch that showed the level of care and attention this team puts into their work.
       CSN Premier Collision managed to turn what is usually a frustrating experience into an exceptionally positive one. Between the warm and welcoming atmosphere, the friendly office dogs, the outstanding customer service from the receptionist and Jen, Terry’s honesty and professionalism, and the exceptional quality of the repairs, I truly couldn’t have asked for a better experience.
       Hopefully I won’t need collision repairs again anytime soon, but if I ever do, there is absolutely no question where I’ll be taking my vehicle. I would highly recommend CSN Premier Collision to anyone looking for quality workmanship, fair pricing, and a team that genuinely cares about the people who walk through their doors.
-  - name: "Pam Manegre"
+  - name: "Sarah Keats"
     rating: 5
     comment: |
-      Highly recommend Terry! He came right to my home, took the time to thoroughly inspect my vehicle, and gave me an honest overview of the repairs and expected costs. I especially appreciated that he pointed out a few potential issues to keep an eye on without any pressure or upselling. It’s refreshing to find someone who is knowledgeable, trustworthy, and genuinely looking out for your best interests. Thank you, Terry!
-  - name: "Cadence Foss"
-    rating: 4
-    comment: |
-      The staff were awesome to work with, they were able to take my car in quickly and detailed the interior before returning it! Pretty good experience here. Needed a repair after hitting a sign post on the right side, dropped it off feb10 and it was done by march 9. After all parts came in the repairs took 2 weeks. Would certainly recommend trusting CSN with your vehicle.
+      Brought my car here with some pretty deep scratches on several doors, and was warned that touching them up would make them look better but not erase them. Getting the whole car doors taken off and repainted was not in my budget, so I went for the touch-up option and was offered a very reasonable price. When I got my car back, the marks were almost completely invisible! Their paint guy is a magician. Overall, nice people and great service for a great price.
   - name: "Lena K"
     rating: 5
     comment: |

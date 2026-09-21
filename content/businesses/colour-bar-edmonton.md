@@ -18,7 +18,7 @@ hours:
   sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/colour-bar-edmonton-1.jpg", "/photos/colour-bar-edmonton-2.jpg", "/photos/colour-bar-edmonton-3.jpg"]
 rating: 4.1
-review_count: 282
+review_count: 283
 price_range: "$$$"
 amenities:
   - "Consultations"
@@ -27,10 +27,6 @@ tags: ["colour", "balayage", "highlights"]
 active: true
 date_listed: "2026-08-18"
 reviews:
-  - name: "Camila Sliman"
-    rating: 5
-    comment: |
-      My friend and I came here to paint some mugs and when we didn’t find any plain mugs on the display we asked the lady working, she kindly pulled some from the back for us. We spent two and a half hours painting and everything about the place was so warm and inviting. I ordered a chai that was so delicious and my friend got an iced hazelnut coffee that she LOVED! We came by a week later to pick up our mugs and they fired so beautifully!! I will be coming back here again because everything about this experience was wonderful. 100% recommend!
   - name: "Audray Wright"
     rating: 5
     comment: |
@@ -58,4 +54,14 @@ reviews:
       To make matters worse, the employee we dealt with came across as rude, uninterested, and more focused on charging people than creating a welcoming experience. We felt like we were inconveniencing him just by being there.
       Honestly, you'd probably have more fun buying a pottery painting kit from the dollar store or a craft store and doing it at home with friends. The experience here just wasn't worth the price.
       It's unfortunate because this place isn't what it used to be. The atmosphere and customer service have really gone downhill, and it's a shame because there are so many creative, friendly people who would probably love to work there and make customers feel welcome. After seeing the reviews here lately and my bad experience I want management to look into their employees. The man working today on July 1st was very rude and horrible at this job.
+  - name: "Audrey Borgeson"
+    rating: 2
+    comment: |
+      My experience here was just okay, I would not go back. The staff seemed rather un-enthused and gave us a vague run down of how things would work, and then we still had to watch a video on the painting instructions, which seemed pointless (why can't the staff just tell us instead of us having to go through a QR code and watch a video?) We wanted to paint mugs initially, but the selection was super limited to we had to choose other items.
+      
+      We were the only two people in there at first, and we were told we had to get up to get the paint when we needed it from the main table by the counter. A few other tables with two people came in after us, and they were given paints for their own tables, and painting aprons, neither of which we received…  The food and drinks were super pricey, on top of the fees for the items to paint. Again we were the only ones in there, and there were two staff members behind the counter. We wanted to order snacks, but they told us we had to do it on their touch screen. We had to manually type in everything we wanted in a text box and pay there, while the employees stood there. Then we went back to our table, and the employee YELLED over (didn’t even walk over) to tell us that what we typed out didn’t come through their system, so I had to go up and order with him at the counter anyway which was so tedious and a waste of time (why couldn’t we just order with them in the first place instead of them standing there watching us order on a screen?)
+      
+      When we went to go pick up our paintings 10 days later, everything was super disorganized and took them a long time to locate one of our items (the employee had needed to go search for it in the back). While we were there, a man and his daughter were there also picking up their ceramics only to find they had been misplaced (we left being seeing the full outcome of this but the family was very upset)
+      
+      Overall the painting itself was fine, but I would rather go somewhere else with more options and staff that actually care.
 ---

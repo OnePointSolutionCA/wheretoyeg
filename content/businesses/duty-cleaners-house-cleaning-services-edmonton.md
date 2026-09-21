@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–3:00 PM"
 photos: ["/photos/duty-cleaners-house-cleaning-services-edmonton-1.jpg", "/photos/duty-cleaners-house-cleaning-services-edmonton-2.jpg", "/photos/duty-cleaners-house-cleaning-services-edmonton-3.jpg"]
 rating: 4.9
-review_count: 237
+review_count: 238
 price_range: "$$"
 amenities:
 
@@ -43,12 +43,12 @@ reviews:
     rating: 5
     comment: |
       We've been getting our house cleaned every 4 weeks and it has been great! Communication is wonderful, our cleaner always shows up on time, is super talented and professional and does an amazing job cleaning!
-  - name: "Marc Couet"
-    rating: 5
-    comment: |
-      I recently hired cleaning services Edmonton AB for a deep clean before moving out, and I was pleasantly surprised by the attention to detail. They even cleaned behind the stove—highly recommend.
   - name: "Orion Sinclair"
     rating: 5
     comment: |
       Absolutely thrilled with the service we received! We were looking for a reliable company for house cleaning in Edmonton and found them through a local search. They exceeded all our expectations. The team was punctual, professional, and incredibly thorough. Our home has never looked better. We scheduled a deep clean, and they got into every nook and cranny. Highly recommend their services to anyone in the Edmonton area.
+  - name: "Maria A"
+    rating: 5
+    comment: |
+      This was my first experience with Duty cleaners and it was an amazing experience. I have no reservations and will definitely be booking them again! The staff are super polite and friendly while staying professional. They do not use harmful or harsh chemicals and your house smells super fresh and clean. They pay attention to detail and are very respectful of your time. Thank you so much for the excellent deep clean!!! I highly recommend.
 ---

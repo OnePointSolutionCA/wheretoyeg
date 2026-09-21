@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/bouncy-planet-1.jpg", "/photos/bouncy-planet-2.jpg", "/photos/bouncy-planet-3.jpg"]
 rating: 4.9
-review_count: 2317
+review_count: 2320
 price_range: "$$"
 amenities:
 
@@ -55,10 +55,8 @@ reviews:
     comment: |
       My 5 year old and myself had a great time.
       The entire area is pretty clean considering the amount of little ones here. Staff throughout our visit were constantly going around keeping things clean and wiping down surfaces. The Staff was very friendly and the prices are great for food/drinks and even the play area.  The different areas are awesome for different ages. Rope ladder with the air bag, dodge ball zone, trampoline zone, arcade and a playground and toddler zone
-  - name: "Ann Mags"
+  - name: "Benny Eapen"
     rating: 5
     comment: |
-      We had a wonderful experience celebrating our son’s birthday at Bouncy Planet. The place was clean, well-organized, and the kids had an amazing time on the inflatables.
-      
-      A special thank you to Amrit for the excellent service. Amrit was very helpful, attentive, and made sure everything went smoothly. We truly appreciate the great experience and highly recommend Bouncy Planet for kids’ parties.
+      We just had a 6 year old Birthday party. Was a great time. Kids and adults had a good time and food! Kamal was awesome to deal with! Thanks so much!
 ---

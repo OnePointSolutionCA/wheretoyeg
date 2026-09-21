@@ -18,6 +18,10 @@ reviews:
     rating: 4
     comment: |
       The staff were welcoming on arrival. I had the bunwich and black sesame latte. The bunwich was tasty! Soft, fluffy egg and pickled onions that cut into the sweetness of the egg and butteriness of the avocado. The black sesame latte was good but was warm, I wish it could have been hot. The cafe is cozy, wish it could have more chairs. I enjoy the ambience and will come back to visit!
+  - name: "Yiming Weng"
+    rating: 5
+    comment: |
+      Bunwich is definitely delicious, bun is soft and fluffy, I never tasted anything like this before. Not a lot of varieties to choose from though.
   - name: "B S"
     rating: 1
     comment: |
@@ -25,10 +29,6 @@ reviews:
       
       Other than that the coffee and good
       Morning bun was excellent and the rest of the staff were warm and friendly and utterly welcoming. Thank you to you all.
-  - name: "Yiming Weng"
-    rating: 5
-    comment: |
-      Bunwich is definitely delicious, bun is soft and fluffy, I never tasted anything like this before. Not a lot of varieties to choose from though.
   - name: "Jessica F"
     rating: 3
     comment: |

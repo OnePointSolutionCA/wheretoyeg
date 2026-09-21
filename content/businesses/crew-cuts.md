@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Castle Downs"
 address: "8314 144 Ave NW, Edmonton, AB T5E 2H4"
 rating: 4.7
-review_count: 451
+review_count: 453
 tier: "featured"
 phone: "(780) 478-9995"
 google_maps: "https://maps.google.com/?cid=1465594425828969539&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -16,14 +16,14 @@ reviews:
     rating: 5
     comment: |
       ​I stopped in on a Sunday and had a great experience. I was treated with respect and felt truly valued as a customer. Even with two people ahead of me, I was in and out quickly. This is a real barbershop, not just a salon. They have great hours—open until 8 PM Monday through Friday and 5 PM on weekends. If you’re looking for a fast, precise, high-quality haircut, I highly recommend Crew Cuts.
-  - name: "M Ali Shaikh"
-    rating: 5
-    comment: |
-      Tom gave me one of the best haircuts I’ve ever had. I’ve tried many barbershops, but this place stands out for the quality, professionalism, and attention to detail. Even though I live far away, I still prefer coming here. Highly recommend—great job, Tom and the team!
   - name: "keith sandquist"
     rating: 5
     comment: |
       Been coming in here to get my hair done for a couple of years now. All the barbers are awesome and do a great job.  I've also seen how they treat everyone in there with respect young to old. I highly recommend these guys.  They are quick and efficient.  I've never waited more than 15 mins as a walk in, and honestly never had made an appointment lol.   Love these guys.
+  - name: "M Ali Shaikh"
+    rating: 5
+    comment: |
+      Tom gave me one of the best haircuts I’ve ever had. I’ve tried many barbershops, but this place stands out for the quality, professionalism, and attention to detail. Even though I live far away, I still prefer coming here. Highly recommend—great job, Tom and the team!
   - name: "Haely Erickson"
     rating: 5
     comment: |

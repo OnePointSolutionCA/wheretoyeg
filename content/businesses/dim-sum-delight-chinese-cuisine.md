@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/dim-sum-delight-chinese-cuisine-1.jpg", "/photos/dim-sum-delight-chinese-cuisine-2.jpg", "/photos/dim-sum-delight-chinese-cuisine-3.jpg"]
 rating: 4.2
-review_count: 346
+review_count: 347
 price_range: "$$"
 amenities:
   - "Delivery"

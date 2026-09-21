@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/dot-transmissions-1.jpg", "/photos/dot-transmissions-2.jpg", "/photos/dot-transmissions-3.jpg"]
 rating: 4.3
-review_count: 105
+review_count: 106
 price_range: "$$"
 amenities:
 

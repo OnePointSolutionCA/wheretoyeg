@@ -19,7 +19,7 @@ hours:
   sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/delta-walk-in-and-family-medical-clinic-1.jpg", "/photos/delta-walk-in-and-family-medical-clinic-2.jpg", "/photos/delta-walk-in-and-family-medical-clinic-3.jpg"]
 rating: 3.8
-review_count: 309
+review_count: 310
 price_range: "$$"
 amenities:
 
@@ -49,10 +49,8 @@ reviews:
     rating: 5
     comment: |
       I am so grateful that there was a Centre open later than 7 pm. I really appreciated being seen within less than an hour. I felt heard and given great care. It was wonderful that a Pharmacy was attached that could get my medication, right there. The Dr, the Receptionist and the Pharmacy team were really great. Thank you!!
-  - name: "Baljeet Singh"
-    rating: 1
+  - name: "Irah Rebadona"
+    rating: 2
     comment: |
-      Reception talks like they have done 5 years in medical and are working for 24 hours .
-      Training is extremely required for the dark skin lady, I don’t know her name . Talking to each other was her priority.
-      Attending people walking in was the last thing she wanted .
+      They’re usually great before but they made me wait for 30 minutes for a med pick up and ask me to pay 50 bucks for a box of needles that usually comes in w my medicine for free.
 ---

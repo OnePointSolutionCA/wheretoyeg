@@ -32,10 +32,6 @@ reviews:
     rating: 5
     comment: |
       This is our first year using eagle's nest catering and it was the best catering we've had yet! The food was delicious and warm, and the staff were incredibly kind and punctual. Since we are a non-profit organization hosting a fundraiser, they were able to provide a generous discount to match our tight budget as well. 100% recommend!
-  - name: "R Midge"
-    rating: 5
-    comment: |
-      I tried to book with another catering company that had great reviews; however, upon trying to place an order with them, I found that they were not very accommodating. I decided to reach out to ENC to cater a breakfast meeting, and I am so glad I did! Lori was great and very accommodating, providing us with a fantastic breakfast. We received compliments from everyone who attended, and we will definitely be using ENC for future events.
   - name: "Heidi Schulz"
     rating: 5
     comment: |
@@ -48,4 +44,8 @@ reviews:
     rating: 5
     comment: |
       This is the third year that we have had Eagle's Nest Catering host our company Christmas dinner.  We have had very good service regarding dietary restrictions.  Eagle's Nest also was so organized in accommodating a beautiful buffet in both our office and our warehouse.  The ladies are always so pleasant and very efficient.  As for the food, it is amazing.  We have spent three years looking forward to our turkey dinner cooked by the Eagle's Nest Team.  Thank you for all you do.  Merry Christmas!
+  - name: "R Midge"
+    rating: 5
+    comment: |
+      I tried to book with another catering company that had great reviews; however, upon trying to place an order with them, I found that they were not very accommodating. I decided to reach out to ENC to cater a breakfast meeting, and I am so glad I did! Lori was great and very accommodating, providing us with a fantastic breakfast. We received compliments from everyone who attended, and we will definitely be using ENC for future events.
 ---

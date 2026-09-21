@@ -19,8 +19,8 @@ hours:
   saturday: "11:00 AM - 10:00 PM"
   sunday: "11:00 AM - 9:00 PM"
 photos: ["/photos/bully-food-truck-inc-1.jpg", "/photos/bully-food-truck-inc-2.jpg", "/photos/bully-food-truck-inc-3.jpg"]
-rating: 3.9
-review_count: 39
+rating: 3.8
+review_count: 40
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -30,6 +30,19 @@ tags: ["edmonton", "food-truck"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Kaare Boraas"
+    rating: 5
+    comment: |
+      Bully catered our friend’s 25th anniversary party. Food was great. I had the off menu burger with brisket on top. I promised not to tell anyone. Oh well!!!
+  - name: "Padam DEV SINGH"
+    rating: 1
+    comment: |
+      Called them for a food truck enquiry, lady was so rude and may had a bad day. But when you run business, pls be polite and listen to clients. You may have pressure at work but should take some EQ classes.
+      Seems the name is correct : Bully
+  - name: "Amir Chehayeb"
+    rating: 5
+    comment: |
+      The best food truck in Edmonton! Every time I see the bully food truck I have to stop to check out the menu! They switch it up often and you can always expect something new to try! The beef burrito was amazing I had to buy 2 because it was so good.
   - name: "Mike Belton"
     rating: 5
     comment: |
@@ -37,20 +50,8 @@ reviews:
       I cannot express enough the outstanding service and meal that we were able to enjoy again this year.  The food presentation is beautiful, the quality and quantity of food is exceptional.  The customer service we received from Wendy and Dean goes above and beyond.  Thank you so very much, your company assisted in making our event a success.  Hope to see you again in 2026
       
       Ethel Blanchard and Bev McConnell.
-  - name: "Amir Chehayeb"
-    rating: 5
-    comment: |
-      The best food truck in Edmonton! Every time I see the bully food truck I have to stop to check out the menu! They switch it up often and you can always expect something new to try! The beef burrito was amazing I had to buy 2 because it was so good.
-  - name: "Ashley Hazelwood"
-    rating: 5
-    comment: |
-      We’ve had Bully Food Truck cater multiple company events and they never disappoint. Great food, reliable service, and they make everything so easy from start to finish. Always a crowd pleaser and completely stress free. Highly recommend!
   - name: "Ian Gates"
     rating: 5
     comment: |
       The Bully food truck was one of three chosen for an event at work. They had the largest crowd, and for good reason. The food was excellent. Great choices, tons of flavor, and large enough portions. It was crazy busy but they were prepared and were just churning out the orders in record time. Many of my coworkers agreed that Bully was the best choice for the day.
-  - name: "Sterling Kozak (Skooozak)"
-    rating: 5
-    comment: |
-      We went with these guys for our wedding, and let me tell you I heard all night long from friends and family how amazing the food was. The mountain of food they plated for us was unreal. My biggest sadness was I didn't have enough room to go back for seconds or try a different dish! They were able to provide gluten free options for us as well which made choosing bully food truck a no brainer. I will recommend bully food truck to anyone who is looking for a food truck for an event.
 ---

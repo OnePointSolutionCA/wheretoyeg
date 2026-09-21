@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/capital-insurance-brokers---northwest-edmonton-1.jpg", "/photos/capital-insurance-brokers---northwest-edmonton-2.jpg", "/photos/capital-insurance-brokers---northwest-edmonton-3.jpg"]
 rating: 4.8
-review_count: 244
+review_count: 246
 price_range: "$$"
 amenities:
 
@@ -40,6 +40,10 @@ reviews:
     rating: 5
     comment: |
       I had a great experience working with Michael for my nail salon insurance. He was very professional, knowledgeable, and took the time to explain everything clearly so I could understand my options. He made the whole process smooth and stress-free, and helped me find the right coverage at a good price. I really appreciate his patience and support throughout. Highly recommend him if you’re looking for reliable business insurance!
+  - name: "Sara Ly"
+    rating: 5
+    comment: |
+      I had a really great experience working with Michael for my car insurance. He made the whole process easy and stress-free while helping me find great coverage at a good price. I would recommend him to anyone looking for any type of insurance, whether it's car, home, or business insurance. I'll be back for any of my future insurance needs!
   - name: "Elyze Armstrong"
     rating: 5
     comment: |
@@ -50,8 +54,4 @@ reviews:
       We recently worked with Xavier at Capital Insurance Brokers and couldn’t be happier with the experience. From start to finish, he was quick to respond, easy to communicate with, and made the entire process simple and straightforward.
       
       He helped us set up our home insurance and also bundled our auto insurance, finding us a great rate while making sure we had the coverage we needed. Xavier was friendly, knowledgeable, and genuinely enjoyable to work with. We’d recommend him to anyone looking for excellent service and competitive insurance options. Thanks again!
-  - name: "Cathy Phung"
-    rating: 5
-    comment: |
-      Highly recommend Rory! It was my first time having to purchase home insurance and he was very patient with explaining all the details to me and providing guidance. It was a great experience, he was quick to respond as well
 ---

@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Castle Downs"
 address: "6855 Ad Astra Blvd NW, Edmonton, AB T5E 6Z6"
 rating: 5
-review_count: 24
+review_count: 25
 tier: "featured"
 phone: "(780) 616-0398"
 website: "https://www.bright-shine-clinic.com/"
@@ -17,10 +17,10 @@ reviews:
     rating: 5
     comment: |
       Great experience getting my teeth whitened here! The lady was very friendly, the process was smooth, and I saw a noticeable difference right away. Very clean place and I’m really happy with the results—will definitely be back.
-  - name: "Jaanvi Bakshi"
+  - name: "Aidan Boland"
     rating: 5
     comment: |
-      Best place to get whitening. Love the attention to detail. Recommended!!!
+      Excellent results, such a kind lady doing the procedure… Definitely will go back!
   - name: "Aqeel Ahmed"
     rating: 5
     comment: |
@@ -29,10 +29,10 @@ reviews:
     rating: 5
     comment: |
       Love the results. Friendly service and professional. Would recommend to everyone
-  - name: "Rayan Kashif"
+  - name: "Jaanvi Bakshi"
     rating: 5
     comment: |
-      Got my teeth whitened, great place to go to.
+      Best place to get whitening. Love the attention to detail. Recommended!!!
 hours:
   monday: "8:00 AM–8:00 PM"
   tuesday: "8:00 AM–8:00 PM"

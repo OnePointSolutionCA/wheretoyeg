@@ -21,7 +21,7 @@ hours:
   sunday: "9:00 AM–4:00 PM"
 photos: ["/photos/credo-coffee-1.jpg", "/photos/credo-coffee-2.jpg", "/photos/credo-coffee-3.jpg"]
 rating: 4.4
-review_count: 725
+review_count: 727
 price_range: "$$"
 amenities:
   - "Espresso"
@@ -31,6 +31,10 @@ amenities:
 tags: ["coffee", "espresso", "cafe", "downtown", "european"]
 active: true
 reviews:
+  - name: "Lillian Knauss"
+    rating: 5
+    comment: |
+      Stopped in Saturday afternoon around 2pm hoping to beat the rush and still ended up waiting a few minutes for a table, which tells you something about how good this place is. The lavender oat milk latte was balanced, not too sweet, and the almond croissant was flaky and clearly baked that morning. Staff behind the counter kept things moving fast even with the line out the door, and someone remembered my order from a previous visit months back. Big windows along the front let in great light for people watching on Whyte Ave, and the whole space has that easy, unhurried feel that makes you want to linger over a second cup.
   - name: "Jazlyn Mckay"
     rating: 5
     comment: |
@@ -53,10 +57,4 @@ reviews:
       Came for breakfast on a Saturday. The breakfast egg wrap and the chicken wrap were both delicious! The single origin pourover and the latte were both excellent as well. Service was excellent and very friendly.
       
       Although I did takeout, it looked like it had plenty of space to comfortably relax.
-  - name: "Sarah Nedeljak"
-    rating: 5
-    comment: |
-      I was looking for a place to work for a few hours downtown on a Saturday, and this spot was great! The vanilla latte had actual vanilla (vanilla bean!), the chicken wrap was tasty and I had a London Fog which was also delicious. My only criticism: the table size is not great for a small laptop and all these drinks (better than Starbucks!), but clearly I managed just fine - LOL!
-      
-      Great vibe, friendly service.
 ---

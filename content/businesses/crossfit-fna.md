@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/crossfit-fna-1.jpg", "/photos/crossfit-fna-2.jpg", "/photos/crossfit-fna-3.jpg"]
 rating: 4.9
-review_count: 116
+review_count: 118
 price_range: "$$"
 amenities:
 

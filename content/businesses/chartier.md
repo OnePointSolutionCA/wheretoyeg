@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Beaumont"
 address: "5012 50 St Unit 102, Beaumont, AB T4X 1E7"
 rating: 4.7
-review_count: 2346
+review_count: 2351
 tier: "featured"
 phone: "(780) 737-3633"
 website: "https://www.dinechartier.com/"

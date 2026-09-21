@@ -18,7 +18,7 @@ hours:
   sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/canadian-tire-auto-south-1.jpg", "/photos/canadian-tire-auto-south-2.jpg", "/photos/canadian-tire-auto-south-3.jpg"]
 rating: 3.9
-review_count: 6643
+review_count: 6647
 price_range: "$$"
 amenities:
   - "Walk-Ins"

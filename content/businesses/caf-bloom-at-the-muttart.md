@@ -17,15 +17,11 @@ reviews:
     rating: 5
     comment: |
       Café Bloom at the Muttart Conservatory is such a wonderful place to stop for a coffee and a treat. They have some of the best gluten-free cakes we’ve had—fresh, delicious, and with a great selection. The service was friendly, and the seating area is bright, beautiful, and so relaxing. Whether you’re visiting the conservatory or just looking for a cozy café, Café Bloom is definitely worth a visit.
-  - name: "Dan Yang"
-    rating: 5
-    comment: |
-      Stopped in to the Muttart first time today. Got lunch there at the cafe. Service was very friendly and service was excellent. Food was awesome! There was so many things to try which made decision making difficult as we wanted to try it all. The smells are good too that come from the cafe! We will be back to try some other menu items!
   - name: "Makenna Scriven"
     rating: 5
     comment: |
       I cannot express enough gratitude for Emma, and the entire Cafe Bloom team. We had our wedding recently with the Muttart Conservatory and Cafe Bloom for catering, and dealing with Emma was a pleasure. She is very prompt and incredibly attentive to her clients. And the food!!! From the very first tasting, to the wedding itself, we cannot stop dreaming about the food. We got the family style dinner and did the chicken for the main - all of our guests restrictions were followed to a T and everyone cannot stop raving about the food!! It's been a month now and we still have people saying how good the food was. Thank you again, and I would highly recommend them for all occasions.
-  - name: "Lauren Caryk-Bunker"
+  - name: "Lauren Marko"
     rating: 5
     comment: |
       What an incredible experience — truly one of the best brunch experiences we’ve had in Edmonton!
@@ -48,6 +44,10 @@ reviews:
       We would absolutely do this again and can’t recommend it enough — such a thoughtful, memorable experience.
       
       Thank you again to the entire team for making it a mothers day we won't forget!
+  - name: "Dan Yang"
+    rating: 5
+    comment: |
+      Stopped in to the Muttart first time today. Got lunch there at the cafe. Service was very friendly and service was excellent. Food was awesome! There was so many things to try which made decision making difficult as we wanted to try it all. The smells are good too that come from the cafe! We will be back to try some other menu items!
   - name: "Calista Williams"
     rating: 4
     comment: |

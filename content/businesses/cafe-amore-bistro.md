@@ -20,7 +20,7 @@ hours:
   sunday: "4:00 PM–9:30 PM"
 photos: ["/photos/cafe-amore-bistro-1.jpg", "/photos/cafe-amore-bistro-2.jpg", "/photos/cafe-amore-bistro-3.jpg"]
 rating: 4.6
-review_count: 2218
+review_count: 2221
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,6 +30,27 @@ tags: ["edmonton", "italian"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Steve Doring"
+    rating: 5
+    comment: |
+      Unreal experience!!
+      
+      We had resos on a Saturday night where our small party was seated quickly and greeted by multiple staff members.
+      
+      Ordered the Arancini to start, followed by Lobster Mac & Cheese, Vongole Pasta, Chicken Fettuccine for our main dishes, and finished with the Chocolate Utopia for dessert. We were blown away by the huge portions, presentation, and the incredible flavor in every dish!
+      
+      Our server Sam was very attentive and is clearly excellent at what he does.
+      
+      Will most definitely return to try other dishes. 🍝🇮🇹
+  - name: "laurie brown"
+    rating: 5
+    comment: |
+      We took our adult daughter out for a special dinner and were very pleased. They have 3 seating areas, we chose the patio.
+      The head waiter and a trainee, Stu were very cordial and welcoming.
+      I didn’t know what the various dishes were, so I asked Stu what he personally would order. And it was exactly right. The helpings are generous, so I took some home. ( even the take out kraft containers are inconspicuous and lined to prevent leak through.)
+      It’s a popular place so reserve well in advance. The prices are very reasonable.
+      The decor is war and authentic and well designed.
+      Would we go back? Absolutely the next time we drive to Edmonton 5/5
   - name: "Butter Fly"
     rating: 4
     comment: |
@@ -38,10 +59,6 @@ reviews:
     rating: 5
     comment: |
       Was here for a nice dinner with friends and it was delightful! I believe they have live music playing on the weekends because when I was there, there was gentleman singing which was a great touch! The atmosphere is cozy and comfortable as well. The staff were amazing and attentive. Food was tasty, the portion was excellent for the price. Could be a great date night spot or even a casual night out! Thank you for such a great evening, will be back for sure!
-  - name: "Renae Robert"
-    rating: 5
-    comment: |
-      We were recommended to come here from my cousin for a cute date night and it did not disappoint! We got the beet salad, which was a good portion of all the different ingredients, and the crab cakes, which were so good with the best cream sauce, to start! We shared the Lobster Mac n Cheese and the Tartufo E Pomodori for dinner and both did not disappoint! The Mac n Cheese was soooo cheesy and the Tartufo was so tasty! Both huge portions! And their extra dirty martinis were some of the best I’ve had out! Cute ambiance for my boyfriend and I! Def can’t wait to eat here again!
   - name: "C"
     rating: 5
     comment: |
@@ -52,8 +69,4 @@ reviews:
       Looking forward to coming back here with the hubby because the atmosphere is very intimate!
       
       Ps - my photo (which was definitely an afterthought - and please consider that I only snapped a quick pic, without trying to showcase the dish, because I didn't want to be *that* person), does not do the presentation justice.
-  - name: "Georgia"
-    rating: 5
-    comment: |
-      Lee was amazing! I would highly reccomend this place for any family or couple looking for something unique. The owner was very involved and friendly. They did a special dessert for our anniversary as well. Will definitly come back. Food to service everything was outstanding!
 ---

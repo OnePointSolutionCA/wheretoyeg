@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/cherish-hair-design-1.jpg", "/photos/cherish-hair-design-2.jpg", "/photos/cherish-hair-design-3.jpg"]
 rating: 4.7
-review_count: 174
+review_count: 172
 price_range: "$$"
 amenities:
 

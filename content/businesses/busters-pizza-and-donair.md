@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Spruce Grove"
 address: "101 1 Ave E Unit 4, Spruce Grove, AB T7X 2H4"
 rating: 4.2
-review_count: 298
+review_count: 299
 tier: "featured"
 phone: "(780) 960-9300"
 website: "https://www.busterspizza.ca/"
@@ -18,6 +18,10 @@ reviews:
     rating: 5
     comment: |
       Late Friday night we were driving back to Edmonton from Buck Lake. We were hungry, tired and craving Donairs. We stopped here 30 minutes before they closed and it did not disappoint. The Donairs were regular size but filled as full as they could be. The flavor of the meat was awesome. Perfectly seasoned with a hint of heat. The proprieter was very friendly and quick. We were so impressed with the flavor we are already planning to go out to Spruce Grove the next time we want a Donair.
+  - name: "samantha turkovics"
+    rating: 5
+    comment: |
+      My husband brought me home some pizza from here and it is delicious! Homemade dough is to die for! It was so fresh. And I normally get a sore tummy after places like pizza hut & Dominos, but not with busters! Thanks for the great pizza!!
   - name: "Roba Lakou"
     rating: 1
     comment: |
@@ -26,12 +30,6 @@ reviews:
     rating: 1
     comment: |
       I was charged $41 for 1 large pizza on uber eats , called busters pizza and the manager told me there wasn’t anything he could do for me . Yet he made sure to send me a flyer with my pizza showing you can get two large pizzas for $39!
-  - name: "B Fr"
-    rating: 1
-    comment: |
-      Ordered food for 6pm.
-      Got called at 550pm to tell me he was here with the food.
-      He called once, within 30 seconds he left. 20 minutes later he is still not back. Been going here for years but might have to switch now because this is not okay. $60 for cold food
   - name: "Leigh Gaedig"
     rating: 5
     comment: |

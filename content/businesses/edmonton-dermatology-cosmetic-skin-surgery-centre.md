@@ -48,8 +48,8 @@ reviews:
     rating: 5
     comment: |
       I have seen Dr Taher and Dr Okihiro and both are excellent. I have had treatments with Eva and she is very experienced, gives good advice, and is very skilled with laser treatments. I highly recommend.
-  - name: "Nancy Manke"
+  - name: "W T"
     rating: 5
     comment: |
-      My partner had a procedure done with Dr Taher and his nurse Ai.  The whole experience from first appointment to surgery was handled very professionally.   All questions were answered.   Dr Taher was extremely skilled, knowledgeable and kind.  Such a pleasure to deal with. Ai was thorough professional and very kind as well.  My partner is extremely happy with the results and says thank you to all the staff but especially to Dr Taher and Ai for treating him so well.   We highly recommend this clinic and especially Dr Taher and Ai.   Thank you both so very much for everything you did to help us
+      I have been seeing Dr. Taher for years. He is extremely knowledgeable and compassionate. He takes the time to explain everything with clarity in a calm presence. The level of service at this modern very clean office is impressive. Every nurse is helpful, kind, and skilled. It is a true blessing I have such wonderful care!
 ---

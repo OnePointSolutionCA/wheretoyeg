@@ -28,6 +28,23 @@ tags: ["edmonton", "immigration"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Sandhu Saab"
+    rating: 5
+    comment: |
+      I had a great experience with career plus immigration consultancy. They were very professional, knowledgeable, and supportive throughout the entire process. I’m very happy to share that my LMIA work permit approval came much earlier than I expected!
+      The team kept me informed, answered all my questions, and handled everything professionally from start to finish. I truly appreciate their hard work and guidance. I would definitely recommend their services to anyone looking for reliable immigration assistance. Thank you for all your help!
+  - name: "virpal khosa"
+    rating: 5
+    comment: |
+      ⭐️⭐️⭐️⭐️⭐️
+      
+      We are truly grateful to Career Plus Immigration for their excellent guidance and support with my mother’s visa. A special thank you to the Principal for taking the time to provide such valuable advice and guidance throughout the process.
+      
+      We have been using Career Plus Immigration’s services for the past seven years, and our experience has always been outstanding. Their professionalism, honesty, knowledge, and genuine care for their clients have made us feel completely confident and comfortable every step of the way.
+      
+      They are not only highly professional but also very trustworthy and supportive. We sincerely appreciate all their help over the years and would highly recommend Career Plus Immigration to anyone looking for reliable and genuine immigration services.
+      
+      Thank you for your continued support and excellent service! ❤️
   - name: "Zackery Markle"
     rating: 5
     comment: |
@@ -40,20 +57,8 @@ reviews:
     rating: 5
     comment: |
       I had an excellent experience with this immigration consultant company. My case became complicated because I had to file for reconsideration, but their team handled everything professionally and confidently. They carefully guided me through the process, explained every step clearly. Thanks to their knowledge, dedication, and constant support, everything was managed successfully. I truly appreciate their patience and commitment during such a stressful time. Highly recommend their services to anyone looking for trustworthy and experienced immigration consultants.
-  - name: "Ashnoor Kaur"
-    rating: 5
-    comment: |
-      I am extremely grateful to Career Plus Immigration for their excellent support and guidance throughout my immigration journey. They helped me obtain my study permit and recently my work permit, which was approved in just 20 days. A special thanks to Kanwaljit Sir and Daljit Sir for their professionalism, timely assistance, and valuable guidance at every step. Their expertise made the entire process smooth and stress-free. I highly recommend Career Plus Immigration to anyone seeking reliable immigration services.
   - name: "Manpreet Kaur"
     rating: 5
     comment: |
       I had an amazing experience with Career Plus Immigration. They guided me through every single step of the PR process, making what could have been a really overwhelming journey feel manageable and clear. Their expertise and support were invaluable, and I'm so grateful for their help in achieving my goal. Thanks to all the team and especially Shiella Ma’am for helping through all the process.
-  - name: "Vishavjeet Singh"
-    rating: 5
-    comment: |
-      I had an amazing experience with Career Plus Immigration. They handled my study permit application so smoothly and professionally. I was honestly surprised at how fast everything moved — I received my study permit in just 10–15 days!
-      
-      A special thanks to Jaskiran Ma’am for her constant support and guidance throughout the entire process. She was always patient, clear, and responsive whenever I had questions. She made the whole journey stress-free and straightforward.
-      
-      I truly appreciate their efficiency, transparency, and dedication. I highly recommend Career Plus Immigration to anyone looking for reliable and professional immigration services.
 ---

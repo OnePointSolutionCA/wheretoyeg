@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Spruce Grove"
 address: "100 King St #3, Spruce Grove, AB T7X 0J6"
 rating: 4.6
-review_count: 239
+review_count: 240
 tier: "featured"
 phone: "(780) 571-8890"
 website: "http://www.btcl.ca/"

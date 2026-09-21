@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Castle Downs"
 address: "15961 97 St NW Ste 202, Edmonton, AB T5X 0C7"
 rating: 4.1
-review_count: 70
+review_count: 71
 tier: "featured"
 phone: "(780) 456-4441"
 website: "https://castledownsdental.ca/"

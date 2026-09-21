@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/cafe-mosaics-1.jpg", "/photos/cafe-mosaics-2.jpg", "/photos/cafe-mosaics-3.jpg"]
 rating: 4.4
-review_count: 1345
+review_count: 1347
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -50,6 +50,10 @@ reviews:
     rating: 5
     comment: |
       Heaven for vegans and vegetarians! I just love the atmosphere. It's cozy, ambient and a great place to wind down after a long day. Their nachos is a must try.
+  - name: "Sam D"
+    rating: 5
+    comment: |
+      Like a hug on a cold day. Packed with flavour and lots of options for food and beverages. Parking can be difficult, but you can find it if you look.  Everything is vegetarian, most things can be made vegan, and lots of gluten free options.
   - name: "Alborz"
     rating: 4
     comment: |
@@ -58,8 +62,4 @@ reviews:
       Service is okay and the overall experience is pretty straightforward. The food is good and the brunch options stood out the most for me. Coffee is average, nothing bad but nothing especially memorable either. It is the kind of place you go when you want something easy and low key without big crowds.
       
       Overall, it is worth a try if you have already been to most of the cafes in the area and want a calm, relaxed spot to spend some time.
-  - name: "Noorpreet Kaur"
-    rating: 5
-    comment: |
-      As a vegan, loveeddd their food. More concerned about the sole overworked server who was managing never ending calls, while also attending to table/guests throughout the entire cafe, communicating orders with the kitchen, and cleaning. Ya'll need another server up there, one person cannot be taking on that rush. 😬😬😬
 ---

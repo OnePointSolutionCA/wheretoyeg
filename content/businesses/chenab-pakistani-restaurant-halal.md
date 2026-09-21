@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:30 PM"
 photos: ["/photos/chenab-pakistani-restaurant-halal-1.jpg", "/photos/chenab-pakistani-restaurant-halal-2.jpg", "/photos/chenab-pakistani-restaurant-halal-3.jpg"]
 rating: 4.7
-review_count: 165
+review_count: 170
 price_range: "$$"
 amenities:
   - "Halal"

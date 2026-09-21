@@ -23,18 +23,18 @@ reviews:
     rating: 5
     comment: |
       Dinithi is an absolute professional. She handled our newborn with so much care, and the session went smoothly and stress-free. The final photos look incredible, and we highly recommend her!
-  - name: "Eman Saj"
-    rating: 5
-    comment: |
-      I had such a wonderful experience with Dinithi taking family photos for us. It was no easy feat to get two toddlers and a newborn dressed and out the door on a frigid winter day. We showed up embarrassingly late and Dinithi was so understanding. My newborn is super fussy and Dinithi took so much time and care to make him comfortable and captured him beautifully. Her studio is beautifully set up and she has clearly honed her craft. I would recommend her to any one out there trying to make some memories with their family.
   - name: "buddhika perera"
     rating: 5
     comment: |
       We had such a wonderful experience with Dinithi! She handled our baby with so much care and love, making the whole session feel comfortable and stress-free. Every photo she took is pure magic. We are beyond grateful for these memories she has captured for us.
-  - name: "oshanka Jayasinghe"
+  - name: "Eman Saj"
     rating: 5
     comment: |
-      We had an excellent experience with Dinithi during our newborn photoshoot. She demonstrated exceptional calmness, patience, and professionalism throughout the entire session. Her friendly manner made us feel very comfortable, and her collection of props was beautifully curated and perfectly suited for newborn photography. The overall process was smooth, and the final images were of outstanding quality. I highly recommend Dinithi to anyone looking for a skilled and reliable newborn photographer in Edmonton.
+      I had such a wonderful experience with Dinithi taking family photos for us. It was no easy feat to get two toddlers and a newborn dressed and out the door on a frigid winter day. We showed up embarrassingly late and Dinithi was so understanding. My newborn is super fussy and Dinithi took so much time and care to make him comfortable and captured him beautifully. Her studio is beautifully set up and she has clearly honed her craft. I would recommend her to any one out there trying to make some memories with their family.
+  - name: "Silvi Jose"
+    rating: 5
+    comment: |
+      Watching Dinithi work with our new grandbaby was heartwarming she is so tender and truly gifted. These precious portraits mean the world to our family and are wonderful keepsakes we will treasure forever!
 hours:
   monday: "9:00 AM–3:00 PM"
   tuesday: "9:00 AM–3:00 PM"

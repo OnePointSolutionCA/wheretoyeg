@@ -28,10 +28,6 @@ tags: ["edmonton", "swimming"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Cabyn Ahan"
-    rating: 5
-    comment: |
-      My husband and I stopped by last weekend while passing through Edmonton and were genuinely impressed by how well-maintained the ice surface looked, even with public skating wrapping up for the day. The staff at the front desk were friendly and pointed us toward the viewing area without us even having to ask. Parking was surprisingly easy to find right off the street, which we always appreciate at our age. A lovely spot and we would not hesitate to visit again if we find ourselves back in the city.
   - name: "It’s me Your neighbor"
     rating: 1
     comment: |
@@ -39,6 +35,10 @@ reviews:
       My go to loaction  for years was the clarview recreation centre and they are always so nice and friendly. Might just drive the little bit of distance because of the warm welcoming feeling. Do better front desk workers!!!
       
       Only plus side to this location is the hip thrust machine
+  - name: "Cabyn Ahan"
+    rating: 5
+    comment: |
+      My husband and I stopped by last weekend while passing through Edmonton and were genuinely impressed by how well-maintained the ice surface looked, even with public skating wrapping up for the day. The staff at the front desk were friendly and pointed us toward the viewing area without us even having to ask. Parking was surprisingly easy to find right off the street, which we always appreciate at our age. A lovely spot and we would not hesitate to visit again if we find ourselves back in the city.
   - name: "David Urquhart"
     rating: 5
     comment: |
@@ -47,12 +47,15 @@ reviews:
       Turf is great for indoor activity in the winter and spring, when outside can be pretty cold.
       Long opening hours help.
       The community centre pass is amazing value; can access any Edmonton community rec centre with the same pass. Huge variety of options within
-  - name: "Daniel Hudj"
-    rating: 3
+  - name: "Michael C"
+    rating: 1
     comment: |
-      Such a great place to go early mornings or in the afternoon....so all the entitled kids are not there yet....just kidding. Anytime of the day is so rewarding here, honestly I have met so many new and interesting friends here. They even let you wear your dirty ginch in the pool, or basically whatever you came to the facility wearing...no joke, true story. Please come check it out, it's quite the scene over here. Can the cleaning staff do a better job, YES, but I have been noticing that at many public facilities. It's not the employees fault, that is just the poor management that we all face when the City of Edmonton Parks and Recreation hire their management team(s)....with little  accountability. Have a great day 😀
-  - name: "James T'Seleie"
-    rating: 5
+      Our usual pool is the ACT to take our kids, with it being closed Commonwealth is the next closest. Unfortunately it is not worth it. The  price is more which understandable as the pool has more options, but almost every public swim they have all but a small section of the pool closed for swim lessons and the waterslide is usually closed for "maintenance" which is just them not wanting to staff it id guess. Not posting the closures on the website due to maintenance or swim lessons is ridiculous. Driving all the way to the pool with no way of knowing this ahead of time while still charging full price is why we wont be back.
+  - name: "Jennifer Trider"
+    rating: 1
     comment: |
-      Awesome rec centre and pool. Lots of fun with the youngster. Good water slide, good shallow area for young kids. Very family friendly.
+      Last night I had a disturbing experience in the women’s shower at Commonwealth. An individual with male genitalia turned toward me, made direct eye contact, and appeared to intentionally display their genitals to me. I found the behaviour inappropriate and uncomfortable.
+      I reported the incident to a lifeguard and was told there have been numerous complaints about this individual. Another woman approached me afterward and said she had witnessed similar behaviour. A man also told me he has seen this individual following people into the change room area on multiple occasions.
+      When I got home, I found a review from 5 months ago describing similar concerns.
+      This is not about gender identity. It is about behaviour. If the same concerns are being raised repeatedly by multiple patrons, those concerns should be taken seriously and addressed.
 ---

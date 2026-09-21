@@ -19,7 +19,7 @@ hours:
   saturday: "8:00 AM–9:00 PM"
   sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/community-natural-foods-1.jpg", "/photos/community-natural-foods-2.jpg", "/photos/community-natural-foods-3.jpg"]
-rating: 4.2
+rating: 4.3
 review_count: 128
 price_range: "$$"
 amenities:

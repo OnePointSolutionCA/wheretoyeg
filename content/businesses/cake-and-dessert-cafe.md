@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Windermere"
 address: "8278 175 St NW, Edmonton, AB T5T 1V1"
 rating: 4.1
-review_count: 615
+review_count: 616
 tier: "featured"
 phone: "(587) 455-3725"
 website: "https://www.instagram.com/cndedmonton_yeg"
@@ -28,12 +28,10 @@ reviews:
       I want to say that the atmosphere is so lovely!
       That being said it is pricey. I got a small slice of mocha cake ($8.49), and a caramel macchiato ($6.99). The drink was good and had a cute caramel design on top. The cake was disappointing though. It tasted like cool whip (fake whip cream) and a bit stale.
       My sister got the Black Forest cake ($8.49) and it was better! My mom tried the chocolate truffle cake and it was pretty good ($8.49) maybe a little rich. We also tried the tiramisu ($8.49) and it was probably the best of what we tried!
-  - name: "Christopher Hosking"
-    rating: 5
+  - name: "kim howard"
+    rating: 1
     comment: |
-      I thought this place was very nice, and the service was nice. We accidentally arrived 15 minutes before open (12:45) because we read the open times wrong, and the owner(?) saw us and let us in even though she had just got there herself and wasn't ready to open yet. It was nice of her since this is the dead of winter and freezing haha.
-      
-      My wife's food, black forest cake and iced strawberry matcha latte was very good. I chose the espresso matcha iced latte and tiramisu and personally would not choose these again as the drink was not sweet like I was expecting and the tiramisu did not have any coffee flavoring. I don't blame the shop for either of these, I just personally wouldn't order these items for my own taste again. Very nice little place, I would come back for a date or something again
+      Been hearing bad reviews about this place but I thought I should give it a try. Although the place is nice and spacious, I was quite disappointed with their service. Ordered the strawberry matcha latte and it literally was just milk, strawberry syrup w a TEARDROP of matcha. Did not taste the matcha at all, not worth it considering the price. Also stayed there for a bit to do some work and the lady kicked me out of my table to accommodate someone else when there were plenty of seats left. Overall 2/10 experience, won’t be coming back.
   - name: "Nelya"
     rating: 5
     comment: |

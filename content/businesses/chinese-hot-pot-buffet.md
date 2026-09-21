@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–11:30 PM"
 photos: ["/photos/chinese-hot-pot-buffet-1.jpg", "/photos/chinese-hot-pot-buffet-2.jpg", "/photos/chinese-hot-pot-buffet-3.jpg"]
 rating: 4.4
-review_count: 3538
+review_count: 3540
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,16 +30,6 @@ tags: ["edmonton", "buffet"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Ian Carlo Medina"
-    rating: 3
-    comment: |
-      We tried the unlimited option at Chinese Hot Pot and the range of food options was superb — fresh, varied, and well-prepared. If you go at the right time, it’s clear they put effort into quality and selection.
-      
-      However, our experience was heavily affected by timing. We arrived 2 hours before closing, which is the allowed time for the buffet, but the buffet tables were already closed 1 hour before closing. While staff offered that we could order via paper menu, it completely ruined the experience. Most staff were busy cleaning and closing up, so getting refills was slow and awkward.
-      
-      This setup made it hard to maximize the value of the unlimited price we paid. They should clearly inform guests about this restriction up front, because otherwise you might feel disappointed — we probably should have opted for the single-serve/ a la carte option instead.
-      
-      Overall, the food quality is good, but I do not recommend visiting late in their hours or planning a “late-night” buffet experience. Timing is crucial here.
   - name: "Jenna Herrington"
     rating: 5
     comment: |
@@ -62,6 +52,16 @@ reviews:
     rating: 5
     comment: |
       We been to this hot pot place for years. The food is always fresh and very clean. I love their buffet, where there’s a lot of variety and service is always top notch! While there’s other competitors now, I feel like this place always gives you the best bang for your buck! (If you ordered lunch, sometimes they get pretty busy). Overall a place worth coming.
+  - name: "Ian Carlo Medina"
+    rating: 3
+    comment: |
+      We tried the unlimited option at Chinese Hot Pot and the range of food options was superb — fresh, varied, and well-prepared. If you go at the right time, it’s clear they put effort into quality and selection.
+      
+      However, our experience was heavily affected by timing. We arrived 2 hours before closing, which is the allowed time for the buffet, but the buffet tables were already closed 1 hour before closing. While staff offered that we could order via paper menu, it completely ruined the experience. Most staff were busy cleaning and closing up, so getting refills was slow and awkward.
+      
+      This setup made it hard to maximize the value of the unlimited price we paid. They should clearly inform guests about this restriction up front, because otherwise you might feel disappointed — we probably should have opted for the single-serve/ a la carte option instead.
+      
+      Overall, the food quality is good, but I do not recommend visiting late in their hours or planning a “late-night” buffet experience. Timing is crucial here.
   - name: "Elsa Guan"
     rating: 5
     comment: |

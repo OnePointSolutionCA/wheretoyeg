@@ -5,7 +5,7 @@ category: "cleaning-services"
 neighborhood: "Edmonton"
 address: "2617 15A Ave NW, Edmonton, AB T6T 2T7"
 rating: 5
-review_count: 18
+review_count: 19
 tier: "featured"
 phone: "(780) 239-4356"
 website: "https://www.deep247cleaning.com/"
@@ -23,7 +23,7 @@ reviews:
     rating: 5
     comment: |
       Highly recommend! They were able to help out on very short notice and did an amazing job. Communication was amazing, and the team was so friendly and easy to deal with. Great service from start to finish!
-  - name: "shereenpretika"
+  - name: "Shereen Singh"
     rating: 5
     comment: |
       I needed a very late notice deep cleaning and they were promptly available the next morning! Very pleased with the service, communication and efficiency! I definitely will be saving their number for my next clean! Thank you!
@@ -36,11 +36,11 @@ reviews:
     comment: |
       Really good cleaning service. Flexible with timing and left our house smelling amazing.
 hours:
-  monday: "Closed"
-  tuesday: "Closed"
-  wednesday: "Closed"
-  thursday: "Closed"
-  friday: "Closed"
-  saturday: "Closed"
-  sunday: "12:00 AM–11:59 PM"
+  monday: "8:00 AM–10:00 PM"
+  tuesday: "8:00 AM–10:00 PM"
+  wednesday: "8:00 AM–10:00 PM"
+  thursday: "8:00 AM–10:00 PM"
+  friday: "8:00 AM–10:00 PM"
+  saturday: "8:00 AM–10:00 PM"
+  sunday: "8:00 AM–10:00 PM"
 ---

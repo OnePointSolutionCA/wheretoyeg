@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–9:30 PM"
 photos: ["/photos/dana-nail-studiohome-base-nail-1.jpg", "/photos/dana-nail-studiohome-base-nail-2.jpg", "/photos/dana-nail-studiohome-base-nail-3.jpg"]
 rating: 5
-review_count: 84
+review_count: 88
 price_range: "$$"
 amenities:
 
@@ -28,10 +28,18 @@ tags: ["edmonton", "gel"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Mackenzie Saddleback"
+    rating: 5
+    comment: |
+      It was my first time getting my nails done here and Dana was very kind and welcoming. She did an amazing job with creating the nails I requested! I asked for a natural style and she did them perfectly and she was also very efficient with time while still having high attention to detail. :)
   - name: "Farha Machiwala"
     rating: 5
     comment: |
       Such a great experience! Dana was so sweet and did an amazing job on my nails. I love the shape and the length, and the whole appointment was comfortable and relaxing. Her prices are also very reasonable compared to other salons. I’m really happy with how they turned out and will definitely be coming back!
+  - name: "Kyana BD"
+    rating: 5
+    comment: |
+      I got my nails done here for the first time and it was lovely! Her studio is so cute and cozy! And Dana was so nice and friendly! Her service is very quick and efficient! Most importantly, I got EXACTLY what I asked for! My nails came out beautifully, I couldnt be happier! 😊 100/10 I recommend getting your nails done here!
   - name: "Gloria Linney"
     rating: 5
     comment: |
@@ -43,13 +51,4 @@ reviews:
     comment: |
       It was my first time visiting her, and I had such a great experience! She has a quiet, comfortable home-based setup that is beautifully done. She even lets you choose whatever you'd like to watch on Netflix while she works on your nails, which makes the appointment so relaxing.
       She takes great care of your cuticles, and her attention to detail really shows. My nails turned out so clean, neat, and beautiful. I'm very happy with the results and will definitely be coming back. Thank you for such a wonderful experience! 💅✨
-  - name: "Jacyn Archibald"
-    rating: 5
-    comment: |
-      I have been seeing Dana for nail care for over a year now, and I highly recommend her services! She is very professional and skilled at what she does, and pays very close attention to detail. Her work is meticulous and she uses good quality products. I’ve tried acrylic, gel, shellac, manicures and pedicures, and she did a great job with all of it!  Her space is cozy, clean, and organized, and she is always friendly and welcoming. She also has a variety of availability to fit anyone’s
-      schedule. I’ve been very impressed with every visit!
-  - name: "Alycia Benson"
-    rating: 5
-    comment: |
-      I’ve been seeing Dana since 2023 and she has always made my nails look perfect. She’s super sweet and very talented. Her space is clean and cozy and I always leave saying these nails are my new faves. I can’t recommend Dana enough!
 ---

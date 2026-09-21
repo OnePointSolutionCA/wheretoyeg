@@ -20,7 +20,7 @@ hours:
   sunday: "1:00 PM–12:00 AM"
 photos: ["/photos/d-spot-dessert-cafe-edmonton-1.jpg", "/photos/d-spot-dessert-cafe-edmonton-2.jpg", "/photos/d-spot-dessert-cafe-edmonton-3.jpg"]
 rating: 4.8
-review_count: 11621
+review_count: 11642
 price_range: "$"
 amenities:
   - "Dine-In"

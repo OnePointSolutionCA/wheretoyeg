@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "St. Albert"
 address: "130 Bellerose Dr #105, St. Albert, AB T8N 5C9"
 rating: 4.4
-review_count: 1019
+review_count: 1018
 tier: "featured"
 phone: "(780) 569-2826"
 website: "https://bucopizzeria.com/st-albert/"
@@ -22,10 +22,6 @@ reviews:
     rating: 5
     comment: |
       What an awesome experience. Everything top notch from start to finish. Our server was terrific and the food was hot, drinks refilled and we were looked after. Birthday dessert on the house.
-  - name: "Cassie Kharytonova"
-    rating: 3
-    comment: |
-      A nice place with a great atmosphere and delicious food. I ordered the pappardelle pasta and really enjoyed it. However, our experience with our server, Dianne, was disappointing. She didn’t treat us the same way she treated other guests and came across as unwelcoming, with little eye contact or politeness. I understand everyone can have off days, but it affected our experience. Other staff members were kind, and overall everything else was good.
   - name: "Blake Dunphy"
     rating: 5
     comment: |
@@ -34,6 +30,14 @@ reviews:
     rating: 5
     comment: |
       We chose this place to celebrate our birthday! It was a great decision. Everything was very tasty! These cocktails caused a sensation! Thank you for your service and for your help in congratulating my husband! You are cool and we will definitely come back to you!
+  - name: "Zach"
+    rating: 5
+    comment: |
+      I remember coming here about ten years ago and not being super impressed, but clearly, a lot has changed since then!
+      
+      ​The staff are incredibly friendly and quick with taking orders. The food itself is amazing, and there’s something to be said for watching it being prepared right in front of you. Ironically, the pricing is more than reasonable for such a premium experience; it really makes you wonder why anyone would opt for Domino’s or Cosmic when this is actually more affordable and serves real food, none of that canola or seed oil garbage.
+      
+      ​Well done! I’ll definitely be back.
 hours:
   monday: "11:00 AM–10:00 PM"
   tuesday: "11:00 AM–10:00 PM"

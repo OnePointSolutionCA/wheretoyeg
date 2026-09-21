@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/ceci-spa-1.jpg", "/photos/ceci-spa-2.jpg", "/photos/ceci-spa-3.jpg"]
 rating: 5
-review_count: 35
+review_count: 34
 price_range: "$$$"
 amenities:
 
@@ -52,8 +52,8 @@ reviews:
       Everything was done very professionally, and the quality of the service really shows—I left feeling relaxed and super happy with the results.
       
       Don’t let the location deter you—this place is absolutely worth it!
-  - name: "Tracy Brown"
+  - name: "Mark Neri"
     rating: 5
     comment: |
-      Beautiful nails, she’s super fast, and amazing wonderful customer service. Would 100% recommend this place to anyone interested in getting their nails done.
+      Great service, amazing vibes and very relaxing. Loved the atmosphere of the place and my nails have never looked better.  10/10
 ---

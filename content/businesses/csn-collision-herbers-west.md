@@ -40,15 +40,12 @@ reviews:
     rating: 5
     comment: |
       Over the past few years I’ve had 3 different repairs on (3 separate vehicles) completed at CSN Herbers Autobody in Edmonton. I’ve had excellent service and quality repairs every time. I’ve found to staff to be very professional and friendly, and the quoted price was better than their competitors. In fact, on two occasions the final price was significantly less than originally quoted. I highly recommend CSN Herbers in Edmonton for autobody repairs.
-  - name: "Paul Walker"
+  - name: "Sharon Taschuk"
     rating: 5
     comment: |
-      ⭐⭐⭐⭐⭐ I highly recommend Herbers Autobody on 170 St and 107 Ave.
-      After doing extensive research and comparing several autobody shops, I chose Herbers based on their reputation for quality workmanship and fair pricing. I brought in my 2008 Lexus IS 250, and I couldn’t be more pleased with the results.
-      
-      Jon and his team delivered exceptional work—restoring my vehicle to what I would consider near perfection, if not perfection itself. Jon provided a fair, accurate estimate and maintained clear communication throughout the process. The fact that they are Lexus certified further reinforced my confidence in their capabilities.
-      
-      The difference in service quality among autobody shops is significant, and Herbers truly stands out. I would not hesitate to trust them with any future repairs, and I strongly recommend getting an estimate from them for your autobody needs.  I give them a hands down 5 star review.
+      Flawless Paint Job and Excellent Service!
+      I brought my vehicle in after a minor collision, and could not be happier with the results. They did an an absolutely flawless job with the paint repair. The match is perfect, and you wouldn't even know it was in an accident.
+      The team was professional, and the work was finished right on time. If you need autobody or paint work done, I highly recommend this location. Thank you for making a stressful situation so easy and getting my SUV looking brand new again !
   - name: "Vasyl Bondarenko"
     rating: 1
     comment: |
@@ -60,8 +57,13 @@ reviews:
       
       In the end, I finally got my own car back after the third repair. But to be honest, I am still not satisfied, because the quality is very poor. I would not recommend this company to anyone. I would do everything possible to have their license revoked, or even take them to court.
       After their repair, my trunk stopped opening. They said they didn’t do anything there, but I have the impression that they failed to reconnect some sensor or connector. They never managed to fix the trunk, and it still does not open. I had to go to the dealership, and now they have to repair it under warranty.
-  - name: "Sonia Kirby"
+  - name: "Paul Walker"
     rating: 5
     comment: |
-      Brought my daughter’s car here after a minor accident. They were super helpful from the start. Got me in for an estimate quickly and worked directly with my insurance company so I had to hardly do anything. The work was as if the accident had never happened. Highly recommend.
+      ⭐⭐⭐⭐⭐ I highly recommend Herbers Autobody on 170 St and 107 Ave.
+      After doing extensive research and comparing several autobody shops, I chose Herbers based on their reputation for quality workmanship and fair pricing. I brought in my 2008 Lexus IS 250, and I couldn’t be more pleased with the results.
+      
+      Jon and his team delivered exceptional work—restoring my vehicle to what I would consider near perfection, if not perfection itself. Jon provided a fair, accurate estimate and maintained clear communication throughout the process. The fact that they are Lexus certified further reinforced my confidence in their capabilities.
+      
+      The difference in service quality among autobody shops is significant, and Herbers truly stands out. I would not hesitate to trust them with any future repairs, and I strongly recommend getting an estimate from them for your autobody needs.  I give them a hands down 5 star review.
 ---

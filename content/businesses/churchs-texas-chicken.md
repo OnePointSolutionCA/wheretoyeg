@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/churchs-texas-chicken-1.jpg", "/photos/churchs-texas-chicken-2.jpg", "/photos/churchs-texas-chicken-3.jpg"]
 rating: 4.6
-review_count: 3077
+review_count: 3087
 price_range: "$"
 amenities:
   - "Takeout"
@@ -53,14 +53,14 @@ reviews:
       The church does an excellent job of keeping parents informed and making families feel included. You can see the dedication and passion of everyone involved in the children's ministry. It's clear that the church invests in nurturing the next generation with love, compassion, and integrity.
       
       We're incredibly grateful to have found a church where our children feel excited, valued, and inspired every week. I highly recommend this church to any family looking for a welcoming community and an outstanding children's program. Thank you Touhid
-  - name: "Mango Miffy"
-    rating: 5
-    comment: |
-      I had a great experience at Church's Chicken. The chicken was hot, crispy, and full of flavor, and the biscuits were fresh, buttery, and delicious. The staff was friendly, my order was prepared quickly, and everything was served fresh. The restaurant was clean, and the overall service made the visit enjoyable. I'll definitely be coming back and would recommend Church's Chicken to anyone looking for a tasty meal.
   - name: "Michael Sarafyn"
     rating: 1
     comment: |
       I have no idea what was wrong with my chicken, but it’s either undercooked or something. The texture is not right. The batter comes off way too easy to be cooked properly. For being a crunchy chicken sandwich, it was more chewy than anything, almost like bitting into a piece of rubber.
       
       They never gave me a receipt, nor did they give me napkins.
+  - name: "Wu Qiong"
+    rating: 5
+    comment: |
+      Fresh and juicy—my son absolutely loves it. The fries are delicious too! We’ll definitely come back often.
 ---

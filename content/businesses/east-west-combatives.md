@@ -50,12 +50,12 @@ reviews:
     rating: 5
     comment: |
       I went in first time.  I found the energy very good.  Showed me a few moves not just one or two.  Also got to experience  with someone. I ended up deciding that this place would be be a great spot for me.  I highly recommend it
-  - name: "inka ola"
-    rating: 5
-    comment: |
-      Coach Adeel is always able to create a safe and engaging learning environment with genuine interest and care for each student. It has been a great time training and looking forward to each class and being able to improve each day. Combining the teachings from East and West into what is now known as 'East West Combatives' really created a much more balanced approach to martial arts that is not something usually found in todays schools. Being able to learn not only the self-defense but also various aspects of combat sports with Adeel has been a pleasure with his focus on details and passion for martial arts. From beginner to advanced each class had something for everyone and Coach Adeel was always able to guide us through the learning journey. Special thank you to Adeel and East West combatives for being able to create a great and supportive environment learning various aspects of martial arts.
   - name: "Zak ELMI"
     rating: 5
     comment: |
       Adeel Is a great coach he actually cares about his students and wants you to learn but definitely recommend safe place for beginners and experienced fighters 10 out of 10
+  - name: "Si Deed"
+    rating: 5
+    comment: |
+      I enjoy training with Adeel.  I like that classes are small and so I have been able to learn much more than I otherwise would have at other gyms.  He is also very accommodating and has gone above and beyond for me in regards to training in many ways.  To have access to someone  like him who has as much passion for the sport is a HUGE benefit for training.  Highly recommend!
 ---

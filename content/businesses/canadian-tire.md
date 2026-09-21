@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "11839 Kingsway NW, Edmonton, AB T5G 3J7"
 rating: 3.9
-review_count: 3587
+review_count: 3590
 tier: "featured"
 phone: "(780) 413-8473"
 website: "https://www.canadiantire.ca/en/store-details/ab/edmonton-downtown-ab-467.html?utm_source=google&utm_medium=lss&utm_content=467"

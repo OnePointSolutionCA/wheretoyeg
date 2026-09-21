@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/corner-pharmacy-1.jpg", "/photos/corner-pharmacy-2.jpg", "/photos/corner-pharmacy-3.jpg"]
 rating: 3.7
-review_count: 80
+review_count: 81
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,11 @@ tags: ["edmonton", "pharmacies"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Jay Talbot-Duplessis"
+    rating: 5
+    comment: |
+      Impeccable service . I’ve read some of these reviews and I honestly believe that  some are  a result of the person  being unreasonable because this is the most professional office I’ve ever been in.
+      Now the doctor I recommend anyone who wants a doctor that is Competent,Caring& involved sincerely in their patients well being dr Shamaka and his staff are where you should consider. Never have I heard let’s try this …….. he is all about sending you where you need to be according to your needs. He doesn’t guess.  Consistent with learning and creating the most efficient n knowledgeable medical service possible.
   - name: "KittyKat Kat"
     rating: 1
     comment: |
@@ -49,8 +54,4 @@ reviews:
     rating: 5
     comment: |
       Love this pharmacy. I'll be there for life because  I love the staff they are all so amazing group of people. They always go above and beyond cuz they generally care about you. Amir and Karen are by far the best pharmacist I've ever had in my life. And Nola and Yvette have such big hearts they go that extra mile for you. However Its fair to say that they all do.
-  - name: "Freda Cardinal"
-    rating: 5
-    comment: |
-      Th3 best pharmacy in the city! They genuinely care, knowledgeable, efficient, and go out of their way to ensure proper care & service. They also deliver, which is very convenient when I'm unable to pick up. Absolutely amazing!!!!
 ---

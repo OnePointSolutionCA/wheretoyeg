@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–8:00 PM"
 photos: ["/photos/desire-laser-1.jpg", "/photos/desire-laser-2.jpg", "/photos/desire-laser-3.jpg"]
 rating: 4.9
-review_count: 441
+review_count: 442
 price_range: "$$"
 amenities:
 
@@ -36,16 +36,16 @@ reviews:
     rating: 5
     comment: |
       I had my second full-face laser session with Kiran, and it was great experience! Kiran is very friendly, professional, and made me feel comfortable throughout the entire treatment. She explained everything clearly and was very attentive to my comfort. I booked my appointment at a moment and she booked me in for the another day coz it was already 6 weeks completed other clinics were rescheduling me everytime….The clinic is clean and welcoming, and I’m already noticing positive results. Thank you, Kiran, for the excellent service. Highly recommend!!!!
-  - name: "Louise Tamboong"
-    rating: 5
-    comment: |
-      I had such an amazing experience at Desire Laser! From the moment I walked in, I felt welcomed by the sweetest staff. Everyone was so kind, professional, and made me feel completely comfortable throughout my appointment. The clinic is absolutely beautiful. It’s clean, modern, and has such an aesthetic, relaxing atmosphere. I was honestly surprised by how quickly I started seeing results. I noticed a difference much sooner than I expected, which made me even more excited to continue my treatments. The appointments were also super quick and efficient, making it really easy to fit them into my schedule without taking up too much time. I couldn’t be happier with my experience especially with such amazing results, beautiful clinic, and wonderful staff.
   - name: "Pawandeep Sidhu"
     rating: 5
     comment: |
       I had a great experience at Desire Laser. Kiran was friendly, professional, and made me feel comfortable throughout my appointments. The treatments were quick, and I’ve already noticed great results. I would definitely recommend Desire Laser to anyone looking for laser hair removal!
-  - name: "Lei Ann"
+  - name: "Carla Silva"
     rating: 5
     comment: |
-      Kiran is professional, amazing and knows what she's doing. I am used to going to big salons for my treatment - but she proves that it's not the place but the person doing the treatments that matter the most. I will definitely come to see her again. The technique, the service and the way she explains everything is just 💯!! 🫰🏻
+      I had a great experience at Desire Laser with Kiran. She was professional, knowledgeable, and made me feel very comfortable throughout the process. She explained everything clearly and was very attentive to my concerns. The clinic was clean, welcoming, and the service was excellent. I’m very happy with the results and would highly recommend Kiran to anyone looking for laser treatments. 😉😉
+  - name: "Kimberly B"
+    rating: 5
+    comment: |
+      So far ive had a few sessions here, my experience has been really good. The prices are great, the ladys are fabulous (I book with Anrei, shes been lovely) My first appointment i was quite nervous, as I didnt know what to expect. They made me feel so comfortable, they also answered all the questions i had. It is a 2 hour drive for me so I was hoping it would be worth it. So worth it! Im very pleased with my results so far, I will continue my laser hair removal journey with Desire laser. 10/10 would recommend to anyone interested
 ---

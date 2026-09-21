@@ -21,7 +21,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/city-orthodontics-windermere-1.jpg", "/photos/city-orthodontics-windermere-2.jpg", "/photos/city-orthodontics-windermere-3.jpg"]
 rating: 4.5
-review_count: 138
+review_count: 137
 price_range: "$$$"
 amenities:
   - "Braces"

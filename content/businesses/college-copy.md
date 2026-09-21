@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/college-copy-1.jpg", "/photos/college-copy-2.jpg", "/photos/college-copy-3.jpg"]
 rating: 4.4
-review_count: 129
+review_count: 131
 price_range: "$$"
 amenities:
 
@@ -32,6 +32,12 @@ reviews:
     rating: 5
     comment: |
       Excellent service, quick turnaround, and affordable price! College Copy made customized swag bags for me and the bags were a hit. Mark was very helpful in explaining all the details and navigating the order through its completion. I appreciated that before we finalized the order, I got a sample picture of what the finished product would look like. Thank you Mark and the College Copy team!
+  - name: "Amandeep Singh (Amn)"
+    rating: 5
+    comment: |
+      Best in the business, work in good faith. Always count on them for the work.
+      I west to print couple of black n white forms, they didit for free.
+      What else you could ask for......
   - name: "Jasmin Gerwien"
     rating: 5
     comment: |
@@ -52,10 +58,4 @@ reviews:
       College Copy is absolutely my go-to place for all my interior wall and floor decal needs, and I must give a huge shoutout to Ali, the manager, for his remarkable work. Ali's expertise and helpfulness are simply outstanding.
       
       If you're looking for high-quality interior decals and a manager who truly goes above and beyond, College with Ali is the place to go. ⭐️⭐️⭐️⭐️⭐️Five stars for their top-notch work and Ali's dedication to customer satisfaction!
-  - name: "Olga K"
-    rating: 1
-    comment: |
-      I submitted my document online, gave a 3-day lead time as recommended. I received an automatic email confirming the pickup time, and that I'd be contacted if anything else was needed from me.
-      When I arrived for pickup, I was told they never received my file, and was blamed for not emailing it in addition to having sent it in the form - but the confirmation email didn't ask for this. And I hadn't been contacted about any issue. The negativity from the employee through this convo didn't help.
-      I even double-checked, and their online form does not accept submissions without a file attachment when "I am uploading today" is checked - so they received my file. Hope they are able to resolve for others.
 ---

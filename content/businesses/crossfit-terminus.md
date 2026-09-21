@@ -32,16 +32,6 @@ reviews:
     rating: 5
     comment: |
       I’ve been a member of MMSC for 9+ years now and it is simply the best CrossFit gym and community you can find. I came for the fitness and stayed for the friends/community. I’ve gained the best friends from attending MMSC. The fitness is second to none. The gym is owned by Andrew and is quality through and through. New top of the line Rogue Equipment, spotlessly clean gym and changing area & elite level coaches. I’ve dropped in at a lot of gyms all over the world and MMSC is still the best facility/coaching and community I’ve experienced. If you’re looking for a friendly place to sweat it out and get fit/stay fit, this is the place for you!!
-  - name: "Lexie Busby"
-    rating: 5
-    comment: |
-      MMSC is simply the best!
-      
-      The coaches are incredibly knowledgeable, approachable, and encouraging. They pay close attention to form and are always ready to offer modifications or tips for improvement. Whether you’re a beginner or an experienced CrossFitter, they tailor the workouts to suit your skill level.
-      
-      The facility is top-notch, with plenty of space, high-quality equipment, and a clean, organized layout. It’s clear they prioritize safety and comfort for their members.
-      
-      You’ll definitely leave each class feeling accomplished and with new friends!
   - name: "Rae Bot"
     rating: 5
     comment: |
@@ -58,4 +48,14 @@ reviews:
       The coaches here are extremely friendly and knowledgeable. They helped me improve a ton during my 8 months here, despite several years of previous training.
       
       Plus the gym was absolutely spotless every single day I visited. Easy 5 stars. I always recommend this gym whenever someone asks me for the best place to workout in Edmonton!
+  - name: "Lexie Busby"
+    rating: 5
+    comment: |
+      MMSC is simply the best!
+      
+      The coaches are incredibly knowledgeable, approachable, and encouraging. They pay close attention to form and are always ready to offer modifications or tips for improvement. Whether you’re a beginner or an experienced CrossFitter, they tailor the workouts to suit your skill level.
+      
+      The facility is top-notch, with plenty of space, high-quality equipment, and a clean, organized layout. It’s clear they prioritize safety and comfort for their members.
+      
+      You’ll definitely leave each class feeling accomplished and with new friends!
 ---

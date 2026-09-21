@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/brave-mma-and-fitness-1.jpg", "/photos/brave-mma-and-fitness-2.jpg", "/photos/brave-mma-and-fitness-3.jpg"]
 rating: 5
-review_count: 408
+review_count: 410
 price_range: "$$"
 amenities:
 

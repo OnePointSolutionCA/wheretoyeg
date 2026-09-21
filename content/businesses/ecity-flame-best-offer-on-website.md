@@ -29,20 +29,15 @@ reviews:
     rating: 1
     comment: |
       We ate at the Sportsmans Pub, not the restaurant side. Horrible food. Ordered the potato skins, they were pretty much naked & brunt, all you could taste was grease. Also had the supreme tater tots, asked for 1 item not to be added, so they left most of the toppings off & barely had any cheese. They did not come back to check on us until 30 mins later meanwhile the place was empty. Their excuse was they had a small party coming & were busy setting up for that, no excuse to serve horrible food & not tend on your current customers. Years ago this place was great, will never come back now.
-  - name: "Heidi P."
-    rating: 1
-    comment: |
-      Food was all cold and clearly cheapest possible ingredients in portions that do NOT match the menu. Service was abysmal too (Thursday afternoon crew).
-      
-      Got curious and started looking through all the reviews from the last year or so since the ownership changed and I really should’ve checked sooner to just avoid the experience altogether. The fairly high overall rating that shows on Google Maps is clearly very inflated by good reviews from the restaurant that used to exist in this same space with a whole different team running it from top to bottom. I was concerned to notice that quite a few of the recent 5 star reviews are very obviously fake.
-      
-      For anyone interested, the things that jumped out at me were 1. multiple 5 star reviews that each use a slightly blurry photo of the pool table and no actual words to comment within the review - and 2. several points where anywhere between 4 and 10 separate reviews are posted within a day or two, all very basic comments or just the 5 stars with nothing else + posted by accounts with no other reviews or very few on their Google profiles.
-      
-      Pretty shady. Manipulating your reputation can only take you so far if the experience you’re offering is on a completely different (much worse) spectrum.
   - name: "ALBATEC CORP."
     rating: 5
     comment: |
       We had a good time with good food. Thank you.
+  - name: "Bimish Bhandari"
+    rating: 5
+    comment: |
+      I had a fantastic experience here! The service was incredibly swift and attentive, which made for a very smooth meal.
+      The food was delicious and the portions were surprisingly generous for the price. I especially enjoyed the vibrant atmosphere—it's a great spot to catch a game or just hang out with friends without it feeling overly crowded.
 hours:
   monday: "8:00 AM–9:00 PM"
   tuesday: "8:00 AM–9:00 PM"

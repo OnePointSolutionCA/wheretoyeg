@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/cameron-driver-education-ltd-1.jpg", "/photos/cameron-driver-education-ltd-2.jpg", "/photos/cameron-driver-education-ltd-3.jpg"]
 rating: 4.9
-review_count: 1076
+review_count: 1077
 price_range: "$$"
 amenities:
 
@@ -73,12 +73,8 @@ reviews:
       
       Special thanks to Instructor Wayne, Susan & Gary
       And thanks a million to the Madam in the reception who has schedule my training and test.
-  - name: "A Google User"
+  - name: "Va Nylla"
     rating: 5
     comment: |
-      I recently completed my Class 1 driving training and had an excellent experience thanks to an outstanding instructor Bernie. From day one, he was professional, patient, and extremely knowledgeable. Bernie explained everything clearly — from pre-trip inspections to advanced driving techniques — and made sure I understood not just how to do things, but why they’re done a certain way.
-      
-      What really stood out was his calm and supportive teaching style. They built my confidence behind the wheel while still emphasizing safety and attention to detail. If I made a mistake, he used it as a learning opportunity and provided constructive feedback that helped me improve quickly.
-      
-      Also, I would like to specially mention Ashney, who was incredibly helpful in organizing and booking my training sessions and road test.
+      Great Instructors and friendly staff. Would highly recommend coming here for a good training experience. I took 6 hours total and didn't feel any pressure to purchase one of the major training courses. Thanks Cameron!
 ---

@@ -21,7 +21,7 @@ hours:
   sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/dream-tea-house-1.jpg", "/photos/dream-tea-house-2.jpg", "/photos/dream-tea-house-3.jpg"]
 rating: 4.3
-review_count: 756
+review_count: 757
 price_range: "$"
 amenities:
   - "Bubble Tea"
@@ -44,12 +44,12 @@ reviews:
     rating: 5
     comment: |
       Amazing matcha!!!! I got the matcha cloud and it was so creamy an delicious! Price was 7.50 and it’s a pretty good portion for price point. Super cute cafe and would recommend to any matcha lover
-  - name: "Amanda Tran"
-    rating: 5
-    comment: |
-      Love their new menu items! Their menu is very creative compared to other bubble tea places in town. Good for groups since there are lots of seatings inside and even free board games.
   - name: "Jaclyn Bell"
     rating: 4
     comment: |
       Matcha soft serve ice cream is a unique treat! It’s a bit bitter and a seems bit small for $7.
+  - name: "Amanda Tran"
+    rating: 5
+    comment: |
+      Love their new menu items! Their menu is very creative compared to other bubble tea places in town. Good for groups since there are lots of seatings inside and even free board games.
 ---

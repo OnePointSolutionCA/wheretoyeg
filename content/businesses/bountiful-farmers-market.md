@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/bountiful-farmers-market-1.jpg", "/photos/bountiful-farmers-market-2.jpg", "/photos/bountiful-farmers-market-3.jpg"]
 rating: 4.6
-review_count: 2536
+review_count: 2539
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,16 @@ tags: ["edmonton", "farmers-market"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Sarah Birmingham"
+    rating: 5
+    comment: |
+      I look forward to Saturdays to come to Bountiful. They have such incredible artisans and quality, whole foods. The atmosphere is always so uplifting. There is amble parking and they’ve done a great job with the aesthetics inside.
+      
+      Two artisans I want to recommend:
+      
+      The Goddess Temple Canada. Gina is amazing, and so are her daughters. Their essential oils and sprays are to die for. 10/10
+      
+      And Shauna Madsen Fine Art. She specializes in pet portraits, and customized pet memorabilia. Truly incredible work. 10/10
   - name: "Jenn M"
     rating: 5
     comment: |
@@ -56,8 +66,4 @@ reviews:
       I bought some beautiful artwork, from the Lady that did the animal paintings.  I bought a magpie and a crow.
       Overall the place was loud and crowded, almost impossible to find parking.
       I will go back for the chicken sausages.
-  - name: "YEGShopper"
-    rating: 5
-    comment: |
-      Love going here on the weekend. You can get literally anything you can imagine from fresh produce to steaming hot food. Beautiful paintings to collector pieces. Definitely a One-Stop shop. 🩷
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/daily-bazar-halal-meat-grocery-1.jpg", "/photos/daily-bazar-halal-meat-grocery-2.jpg", "/photos/daily-bazar-halal-meat-grocery-3.jpg"]
 rating: 4.8
-review_count: 155
+review_count: 159
 price_range: "$$"
 amenities:
   - "Halal"
@@ -31,20 +31,14 @@ tags: ["edmonton", "halal-meat", "halal"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Huda"
+    rating: 5
+    comment: |
+      I visited this place today looking for halal meat, and I had a great experience. The staff were very kind, friendly, and welcoming. They also offer a delivery service, so you can place an order and have it delivered at a reasonable price. I highly recommend this place if you’re looking for quality halal meat and excellent customer service.
   - name: "Jeeshan Mirza"
     rating: 5
     comment: |
       Hidden gem in Edmonton. They have a kitchen that does a limited selection of authentic Bangladeshi food. I emphasize on the word authentic as the food reminds you of exactly what you would get in restaurants in Dhaka. They also have a wide array of groceries, meats and a smaller section of vegetables. But its the readymade food that shines.
-  - name: "Wasiul Wasty"
-    rating: 5
-    comment: |
-      Great experience doing groceries here. Great interior design. It was really easy to walk around and find what I needed. Also some awesome customer service which was really amazing.
-      
-      But at the end of the day, as a student I will always go somewhere affordable and budget friendly.
-      Extremely affordable prices here which is great not only for students but also for everyone.
-      
-      Highly recommended store.
-      At least go once and see for yourself. You will like it just as I did.
   - name: "MD Robiul Hossain"
     rating: 5
     comment: |
@@ -62,8 +56,14 @@ reviews:
       
       I would strongly advise members of the Bangladeshi community and others to be cautious and avoid shopping at Daily Bazaar until there is clear improvement. Businesses must understand that customers are the foundation of their success. If they continue to ignore quality and safety, they will lose the trust and support of the community.
       🙏🏻😡😡
-  - name: "Rajib Sikder"
+  - name: "Wasiul Wasty"
     rating: 5
     comment: |
-      An excellent collection of South Asian groceries is available here, paired with great customer service. I went last month to get meat and fish, and I am very satisfied with the quality of the products. The shop is also very organized and accessible. I highly recommend going there and giving it a try!
+      Great experience doing groceries here. Great interior design. It was really easy to walk around and find what I needed. Also some awesome customer service which was really amazing.
+      
+      But at the end of the day, as a student I will always go somewhere affordable and budget friendly.
+      Extremely affordable prices here which is great not only for students but also for everyone.
+      
+      Highly recommended store.
+      At least go once and see for yourself. You will like it just as I did.
 ---

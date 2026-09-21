@@ -19,7 +19,7 @@ hours:
   sunday: "12:00 PM–11:00 PM"
 photos: ["/photos/chayan-1.jpg", "/photos/chayan-2.jpg", "/photos/chayan-3.jpg"]
 rating: 4.6
-review_count: 57
+review_count: 58
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -33,6 +33,20 @@ reviews:
     rating: 5
     comment: |
       I tried the guava fruit tea at Chayan and really enjoyed it! The drink was refreshing, fruity, and tasted great. The staff were very friendly and provided excellent service. The atmosphere is also beautiful, clean, and relaxing. Definitely a great place to enjoy a refreshing drink. Highly recommend!
+  - name: "Natasha Ilyina"
+    rating: 4
+    comment: |
+      Service was pleasant and efficient despite being busy during their soft opening day. I tried 3 drinks (not pictured: black tea frappe). As a big fan of all tea, milk tea, unsweetened matcha, and 30% sugar boba- flavours were OK, but quality is good if you can find a flavour you like. After trying, I still prefer a different milk tea company (lol mollytea and thé moon) over this for both taste and quality, however Chayan’s pricing is better and this location/building is AMAZING with an indoor balcony, decent seating, bright and cutely decorated. Also across from paris baguette ;)
+      
+      Overall, the tea flavours ordered are NOT strong. They are all on the milkier side *all modifications being Regular/standard.*
+      
+      3/10 HOT Jasmine Green Milk Tea was unfortunately disappointing. It was like a 5% jasmine flavour. Hardly any tea strength at all. It wasn’t sweet or anything else either, it just tasted like plain steamed milk. Jasmine lovers beware :(
+      
+      The cold drinks had a stronger tea flavour. 7/10 Matcha Green Tea Frappe had a decent tea strength, like 50%. I recommend this if you like a light creamy matcha vibe.
+      
+      9/10 The Black Milk Tea Frappe had the best flavour, and is apparently their best selling. Not too strong, not too sweet, I do recommend this one and I will likely be back for this specifically!
+      
+      It’s worth coming to try; I will return here to explore the menu some more, I did enjoy my experience and the drinks are pretty good, just surprised at how light they are.
   - name: "jackson wong"
     rating: 5
     comment: |
@@ -45,14 +59,4 @@ reviews:
     rating: 5
     comment: |
       I tried three different drinks and they were all delicious! It was so hard to choose a favorite. I also highly recommend Da-Hong-Pao Milk Tea, which I tried last time. It’s perfect with less sugar and less ice. I was also pleasantly surprised that you can order it with no ice at all!
-  - name: "Jessica Tan"
-    rating: 3
-    comment: |
-      The ambience was pleasant, and the osmanthus & lychee milk tea I had was okay but nothing special. It's still a decently nice place to pop into if its raining outside or if the tea urge hits though.
-      
-      That being said, I visited this with a friend on July 09 and we were neither impressed nor disappointed with it, but we discovered afterwards that according to their Instagram, we were supposed to get a Jasmine Tea Air Freshener for signing up as a new member, and that was not given to us or mentioned anywhere to be out of stock.
-      
-      It's a small thing and obviously doesn't reflect the quality of the place or anything like that, but it left us feeling meh. So, unlike their Instagram where they're trying to recruit "Edmonton creators" to give them glowing reviews, and I'm sure no one "forgot" to give them their air fresheners and other free gifts, here's a review from a couple normal people who like milk tea and just happened to stop by.
-      
-      It's not terrible, it's not great, and we felt mildly let down after we went. We won't be back, but I'm sure they will do just fine, and supporting your local shops is always good.
 ---

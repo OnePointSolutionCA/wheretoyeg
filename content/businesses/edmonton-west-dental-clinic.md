@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "21553 Chief Lapotac Blvd NW #101, Edmonton, AB T7X 3Y3"
 rating: 4.9
-review_count: 902
+review_count: 904
 tier: "featured"
 phone: "(780) 652-1280"
 website: "https://www.edmontonwestdental.com/?utm_source=GBP&utm_medium=Button&utm_campaign=Home"

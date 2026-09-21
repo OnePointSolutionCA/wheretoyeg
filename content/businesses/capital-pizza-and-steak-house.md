@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "St. Albert"
 address: "17 St Anne St, St. Albert, AB T8N 1E9"
 rating: 4.3
-review_count: 637
+review_count: 640
 tier: "featured"
 phone: "(780) 458-3899"
 website: "http://www.thecapitalpizza.com/"
@@ -51,10 +51,10 @@ reviews:
       For the prices charged, the overall meal didn’t justify the cost. While the pizzas were good, the rest of the dishes didn’t meet expectations, especially given the premium pricing.
       
       In summary, while Capital Pizza and Steak House has potential, inconsistencies in food quality and an unprofessional approach to customer service make it hard to recommend. A more thoughtful approach to both hospitality and food preparation would go a long way in justifying the cost and improving the overall experience.
-  - name: "Margaret"
-    rating: 4
+  - name: "Dave Perchaluk"
+    rating: 5
     comment: |
-      This is a relatives favourite place to get lasagna and the food here is consistent. Over the years, I don't think I have ever had a bad meal here. The pizza is the the dense, "knife and fork" kind. The place isn't trendy or updated, but the servers are always polite and accommodating.
+      What an absolute gem of a place! As a traveler, I was looking for a good pizza close to my hotel and Capital didn’t disappoint. It’s an old school hidden treasure that I fully recommend. It has Home-cooked meals and tasty pizza that reminds me of an old school pizza pie! It had excellent flavour, full of toppings and cheese with an amazing crust! As a traveler it was a real treat to come across in my travels. The couple at the table beside said they always come for the pizza as it never disappoints. Makes sense because the pizza take out was non stop while I ate.  If I lived closer I’d be dining there once a week , and my waitress, Maria ( I think?) was excellent, she gave me a lot of  recommendations, like splitting my pizza half-and-half so I could try different toppings and offered hot sauce and ranch, all part of the meal.  St Albert, you have a real treat in your city, If you don’t try it, you’re doing yourself a disservice.  My only recommendation is turn up the music. Next time I’m trying the steak!   cheers 😁
 hours:
   monday: "11:00 AM–8:00 PM"
   tuesday: "11:00 AM–8:00 PM"

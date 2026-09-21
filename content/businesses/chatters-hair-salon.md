@@ -17,6 +17,10 @@ reviews:
     rating: 1
     comment: |
       Was at Chatters in Spruce Grove. Stylist Kyra and Unfortunately, my hair did not meet my expectations at all. I had my long hair cut short today, although I appreciate the length, it lacks style. One side hangs unevenly, my bangs were barely trimmed and are now too thick, and the overall look is disorganized. I attempted to style it myself, but was unable to achieve a satisfactory result. I am extremely disappointed. Trying a different salon tomorrow to try to fix it . After visiting Elegance salon the stylist informed me my hair was cut uneven in the back and longer on one side than the other, Nicole fixed my hair beautifully. Stay away from chatters
+  - name: "James Hill"
+    rating: 5
+    comment: |
+      I have been getting my hair cut by Kyra for several years now and have never been disappointed! She is extremely skilled in men’s cuts and even obtained new equipment to use at my request for skin fades (foiler razor). I wouldn’t hesitate to recommend Kyra to anyone looking for quality, friendly service and exceptional cuts and styling. She is the only reason I go to Chatters!
   - name: "Madhu Panagoda"
     rating: 5
     comment: |
@@ -31,10 +35,6 @@ reviews:
     rating: 5
     comment: |
       I visited this location for the first time and had a great experience. Angelia dyed my hair a solid colour and did a much needed trim. She was so friendly and easy to talk to during the appointment. Angela listened to what I wanted and did an amazing job .
-  - name: "Katie S"
-    rating: 5
-    comment: |
-      I have been coming to Chatters for years now and ALWAYS have a fantastic experience. From the second I walk in the door I feel welcome, my stylist is sweet and always knows what to do to get the results I want and I’ve never left disappointed with my hair. I definitely recommend this salon!
 hours:
   monday: "9:00 AM–9:00 PM"
   tuesday: "9:00 AM–9:00 PM"

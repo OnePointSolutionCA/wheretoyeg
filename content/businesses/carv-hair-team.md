@@ -28,18 +28,14 @@ tags: ["edmonton", "cuts-styling"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "A"
-    rating: 5
-    comment: |
-      Excellent place to get your hair done. Ample parking and attentive stylists inside. I got highlights done last week from Yasmin, their new apprentice, and they were well done and within my expectations. Tito, another one of their stylists, was a hoot to be around as well (I laughed so much whilst there lol). The salon owner, Rachelle, was a delight to be around and helpful with hair recommendations, too. Besides the great stylists inside, they also have a nice variety of cooled beverages and on the communal hair station, interesting table top books for perusing, a little sensory spot with sand, and chocolates for when you're feeling peckish.  Overall, it's a vibe and one that I'd recommend. :)
   - name: "Jennifer Bouchard"
     rating: 5
     comment: |
       Went here for a trim today and extremely pleased. Tava was amazing and fun to talk to. Her passion for hair really shows! Hair looks super healthy and she even kept the length like I wanted. Will be coming back!
-  - name: "Malaya Donovan"
+  - name: "A"
     rating: 5
     comment: |
-      Been coming here for over a year and its always a great experience. Alejandra is a phenomenal stylist and has completely transformed my hair since I've started seeing her. My hair has never been so healthy and curly!😍
+      Excellent place to get your hair done. Ample parking and attentive stylists inside. I got highlights done last week from Yasmin, their new apprentice, and they were well done and within my expectations. Tito, another one of their stylists, was a hoot to be around as well (I laughed so much whilst there lol). The salon owner, Rachelle, was a delight to be around and helpful with hair recommendations, too. Besides the great stylists inside, they also have a nice variety of cooled beverages and on the communal hair station, interesting table top books for perusing, a little sensory spot with sand, and chocolates for when you're feeling peckish.  Overall, it's a vibe and one that I'd recommend. :)
   - name: "Cassandra Bolivar"
     rating: 1
     comment: |
@@ -50,4 +46,8 @@ reviews:
       I had a wonderful experience and service from Rashelle. I came in with so many pictures of what I was looking for and for the first time she knew exactly what I was asking for and delivered on the final results. I was so nervous but in the end I left feeling more confident in my new hair colour. Can’t wait to go back in a few weeks to get some extensions with her.
       
       She very knowledgeable, and I left with a better understanding of hair.
+  - name: "Chimone Canderal"
+    rating: 5
+    comment: |
+      Tava gave me a beautiful haircut. She took her time and made sure it was perfect. She was also very friendly and easy to talk to , I will definitely be back to see her and the beautiful salon!
 ---

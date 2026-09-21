@@ -19,7 +19,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/dainty-develops-photography-1.jpg", "/photos/dainty-develops-photography-2.jpg", "/photos/dainty-develops-photography-3.jpg"]
 rating: 5
-review_count: 62
+review_count: 63
 price_range: "$$"
 amenities:
 
@@ -35,16 +35,16 @@ reviews:
     rating: 5
     comment: |
       Kayla was absolutely incredible to work with. From the engagement photoshoot to our wedding day, she was professional, organized, and brought such a warm, positive energy. She gave us great planning advice, kept everything running smoothly, and made us feel completely at ease. The photos are truly stunning, she captured so many beautiful moments that we’ll cherish forever. We’ve already hired her again for other photoshoots and can’t recommend her enough!
-  - name: "Alexis Sieben"
-    rating: 5
-    comment: |
-      Kayla is your girl! We have been so lucky to have her capture our journey from announcement, to maternity, to our newborn photos this year. We are so thankful to have had her capture the most special moments of our lives! I don’t have enough wall spaces for the amount of photos I want to print and display in our home. Not only are the photos beautiful but Kayla is always 110% up for all my crazy ideas for shoots. Every shoot is fun, engaging, and it never feels awkward being in front of the lenses. I can’t thank you enough for capturing our special moments! ❤️❤️
   - name: "Kyleigh Harris"
     rating: 5
     comment: |
       I had such a great experience working with Kayla! She is incredibly talented and truly knows how to bring out the best in every shot. What stood out the most is how she makes each session so fun — it never felt awkward or forced.
       She has a special way of making people feel comfortable in front of the camera. Kayla is truly so fun to work with and has the best positive energy.
       I couldn’t be happier with the results and will absolutely get more photos done with her in the future. I highly recommend her!!
+  - name: "Alexis Sieben"
+    rating: 5
+    comment: |
+      Kayla is your girl! We have been so lucky to have her capture our journey from announcement, to maternity, to our newborn photos this year. We are so thankful to have had her capture the most special moments of our lives! I don’t have enough wall spaces for the amount of photos I want to print and display in our home. Not only are the photos beautiful but Kayla is always 110% up for all my crazy ideas for shoots. Every shoot is fun, engaging, and it never feels awkward being in front of the lenses. I can’t thank you enough for capturing our special moments! ❤️❤️
   - name: "Hailey Presisniuk"
     rating: 5
     comment: |

@@ -5,13 +5,27 @@ category: "restaurants"
 neighborhood: "Mill Woods"
 address: "101 Granada Blvd #311, Sherwood Park, AB T8A 4W2"
 rating: 4.8
-review_count: 584
+review_count: 589
 tier: "featured"
 phone: "(780) 570-7575"
 google_maps: "https://maps.google.com/?cid=2578273312702354587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/burger-bay-100-halal.jpg"
 reviews:
+  - name: "Faizal Ilias"
+    rating: 5
+    comment: |
+      Honeslty this was pretty tasty and I ate it in about 20 minutes.
+      
+      The nachos were really nice and I quite enjoyed the salsa it was more on the mild side and super flavourful
+      
+      The brisket dinner was really good. I think the highlight for me was the really well seasoned beef they used even at the end it maintained a really nice flavour. The mashed potatoes were made with love and lots of butter with a nice rich gravy which complimented the soft veggies.
+      
+      A really fresh waffle was included in that and it was very fluffy and still soft after like 15 minutes.
+      
+      I will definitely come back and try some other stuff. All in all definitely a strong 5/5. The owner( I think) and the other server were pretty nice and welcoming to everyone that came by which is always nice to have.
+      
+      It was a warm comforting meal on a random day off with quiet vibes once the rush leaves. Definitely give this place a try if your in the area. 😊
   - name: "Zainab Imran"
     rating: 5
     comment: |
@@ -30,20 +44,6 @@ reviews:
       And let’s not forget the drinks the coffee was absolutely delicious and the hot chocolate was just on another level.
       
       100% halal, amazing food, generous portions, and professional service. Highly recommend!
-  - name: "Faizal Ilias"
-    rating: 5
-    comment: |
-      Honeslty this was pretty tasty and I ate it in about 20 minutes.
-      
-      The nachos were really nice and I quite enjoyed the salsa it was more on the mild side and super flavourful
-      
-      The brisket dinner was really good. I think the highlight for me was the really well seasoned beef they used even at the end it maintained a really nice flavour. The mashed potatoes were made with love and lots of butter with a nice rich gravy which complimented the soft veggies.
-      
-      A really fresh waffle was included in that and it was very fluffy and still soft after like 15 minutes.
-      
-      I will definitely come back and try some other stuff. All in all definitely a strong 5/5. The owner( I think) and the other server were pretty nice and welcoming to everyone that came by which is always nice to have.
-      
-      It was a warm comforting meal on a random day off with quiet vibes once the rush leaves. Definitely give this place a try if your in the area. 😊
   - name: "annette shapko"
     rating: 5
     comment: |

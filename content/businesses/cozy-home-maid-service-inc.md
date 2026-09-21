@@ -32,10 +32,10 @@ reviews:
     rating: 5
     comment: |
       We have been using Cozy Home Maid Service regularly and are never disappointed. They come prepared, on time and always do an amazing job! I would highly recommend this company to come clean your home!!  Trustworthy, kind, hardworking and efficient!
-  - name: "Michael McTeague"
+  - name: "Heather H"
     rating: 5
     comment: |
-      Very good service. Iryna always made sure that everything was spotless before she left. We would certainly use Cozy Home Maid again.
+      I booked Cozy Home Maid Service for a first-time deep clean. The cleaner was thorough, easy to work with, and careful with my belongings. I would happily book with this company again.
   - name: "Dolores Wynnyk"
     rating: 2
     comment: |
@@ -44,8 +44,8 @@ reviews:
     rating: 5
     comment: |
       Lesya and Irina were lovely to work with and left our apartment spotless in the 3 hours we had them for. We would happily hire them again for any future cleaning needs!
-  - name: "Susan Martin"
+  - name: "Michael McTeague"
     rating: 5
     comment: |
-      The Cozy Maid team does a great job and is so easy to communicate with. When they are done cleaning, our house is just sparkling and is so fresh and clean. And I am sooo picky about cleaners, Cozy Maid is by far the best cleaning service I have ever used!
+      Very good service. Iryna always made sure that everything was spotless before she left. We would certainly use Cozy Home Maid again.
 ---

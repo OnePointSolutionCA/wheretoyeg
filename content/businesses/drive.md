@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/drive-1.jpg", "/photos/drive-2.jpg", "/photos/drive-3.jpg"]
 rating: 3.3
-review_count: 385
+review_count: 387
 price_range: "$$"
 amenities:
 
@@ -32,6 +32,10 @@ reviews:
     rating: 5
     comment: |
       Honestly it's my favorite Go Kart place in Edmonton. For the price, you're gonna have a really good experience. The go karts are pretty fast and the track is pretty cool. One thing I wished is that they would put the fastest people in the front, this way you don't have to pass all the people who are slow and don't understand to pullover to the side. I wish it was a little bit longer but when you're having that much fun, why would you want it to end lol.
+  - name: "Canadiancat green"
+    rating: 5
+    comment: |
+      This place was so much fun.  We actually went here about a yr ago for a company fundraiser thing.  They had a intro video that peehaps could be better to help people new to gokarting.  The video covers mostly things like rules.  These karts go pretty quick andwill actually go where you steer them to go.  I have been gokarting since I was 6and I still do it now that is almost 40 years.  Something cool about these is we were assi ged karts and I really like how the winner is decided based on lap time. The reason is this gives everyone a chance to win.  It was alot of fun a d I even won as well
   - name: "Angela V."
     rating: 3
     comment: |
@@ -65,8 +69,4 @@ reviews:
     comment: |
       I like the track, nice set up , cars not fast but quick . I got yellow flagged 2 times " bumping " and unsure why but it was good value and we had fun .
       So I switched my 3 to a 4 )
-  - name: "Markus G."
-    rating: 5
-    comment: |
-      Did a walk-in on a Monday for a two-seater go-cart together with my son. Were sitting in the go-cart not even 20min later! We had a blast, great fun!
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/edmonton-law-office-1.jpg", "/photos/edmonton-law-office-2.jpg", "/photos/edmonton-law-office-3.jpg"]
 rating: 4.7
-review_count: 611
+review_count: 605
 price_range: "$$"
 amenities:
 

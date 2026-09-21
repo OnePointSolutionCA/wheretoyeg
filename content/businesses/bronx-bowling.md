@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/bronx-bowling-1.jpg", "/photos/bronx-bowling-2.jpg", "/photos/bronx-bowling-3.jpg"]
 rating: 3.9
-review_count: 676
+review_count: 677
 price_range: "$$"
 amenities:
 

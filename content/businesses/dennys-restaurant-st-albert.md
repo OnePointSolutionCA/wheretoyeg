@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "St. Albert"
 address: "860 St Albert Trl #730, St. Albert, AB T8N 7V2"
 rating: 4.7
-review_count: 622
+review_count: 643
 tier: "featured"
 phone: "(780) 974-4242"
 website: "https://www.dennys.ca/restaurant/alberta/st-albert/jensen-lakes/"

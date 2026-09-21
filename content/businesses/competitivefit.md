@@ -32,14 +32,14 @@ reviews:
     rating: 5
     comment: |
       Overall a great experience, the Deka mile was set up to flow naturally from zone to zone. The host and judges were also friendly and motivating. If you’ve been thinking about attending a Deka event, competitive fit is the place to be, I know we will be back!
-  - name: "Shawn Dixon"
-    rating: 5
-    comment: |
-      Had an amazing time for my first event. Felt welcomed and respected. Great coaching, great support and lots of fun. Thank you
   - name: "Margaret Parker"
     rating: 5
     comment: |
       Amazing gym. The events hosted at Competetive fit  are always exciting and well organized. The owners, staff and volunteers are always welcoming and supportive to everyone who walks into the gym, participants and supporters.  They keep you informed of upcoming events and encourage you to become better in your craft.
+  - name: "Shawn Dixon"
+    rating: 5
+    comment: |
+      Had an amazing time for my first event. Felt welcomed and respected. Great coaching, great support and lots of fun. Thank you
   - name: "Kassidee Bur"
     rating: 5
     comment: |

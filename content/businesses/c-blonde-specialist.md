@@ -40,6 +40,12 @@ reviews:
     rating: 5
     comment: |
       I have seen Cristina for a couple years and I have never been happier with my hair! Shes also always so lovely and professional, always a positive experience! She is also amazing at extensions and preserving my natural hair, and my color and cut is always great! I highly recommend!
+  - name: "Iryna Prykhodko"
+    rating: 5
+    comment: |
+      I’m so happy with my hair! 🥰 I got beautiful highlights, and I absolutely love how they turned out. My hair still feels healthy, soft, and good quality — not damaged at all.
+      
+      I’m really happy with the result and would definitely recommend them! ❤️
   - name: "Iryna Iryna"
     rating: 5
     comment: |
@@ -48,8 +54,4 @@ reviews:
     rating: 5
     comment: |
       I’ve been a loyal client of Christina for many years, and I can’t recommend her enough! Before I found her, my hair was damaged and breaking easily, but now it’s healthy and thriving. As a blonde specialist, she knows exactly how to care for my hair and always follows the latest trends. It’s rare to find someone who truly understands the unique needs of blonde hair, and Christina has absolutely transformed mine. If you’re looking for a talented and trustworthy hairdresser, Christina is the one to see!
-  - name: "Nina Weber"
-    rating: 5
-    comment: |
-      Highly recommend Christina! Always very attentive to request and makes suggestions when needed. I have been blond for long time. However, Christina made my blond look more healthy and the highlights look natural. Every time I come out of her chair I am amazed that my hair can look this pretty. Love it.
 ---

@@ -28,6 +28,10 @@ tags: ["edmonton", "carpet"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Holly James"
+    rating: 5
+    comment: |
+      Quick reply. I shopped around and found Canada Clean Home to be priced reasonably! I was very pleased with the professional service. Ivan did a great job. We got our carpets in the basement done and stairs. I love the results. Deep clean, looks great, smells great (spring fresh)! We will be using their services for our mattresses and couches in the near future! Thanks for your service and care!
   - name: "hasi"
     rating: 5
     comment: |
@@ -45,8 +49,4 @@ reviews:
     rating: 5
     comment: |
       Amazing experience! The carpets came out spotless and smell so fresh. The team was friendly, professional, and efficient. Highly recommend this company!
-  - name: "Scott Novak"
-    rating: 5
-    comment: |
-      Absolutely fantastic carpet steam cleaning service! Our carpets were heavily stained and dull, but they now look and smell brand new. The team arrived on time, worked efficiently, and paid close attention to every detail. They removed stubborn spots we thought were permanent. Professional, friendly, and reasonably priced. We’ll definitely use them again and highly recommend their service!
 ---

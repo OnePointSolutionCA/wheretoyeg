@@ -38,10 +38,6 @@ reviews:
       I’ve been a patient at Castledowns Chiropractic clinic for over 30 years, including more than 20 years with Dr. Oviatt. I’ve always been treated with respect, professionalism, and genuine care.
       
       Dr. Oviatt is knowledgeable, attentive, and truly cares about his patients. The staff are always friendly and welcoming. I’m very thankful for the many years of excellent care and highly recommend this office. ⭐⭐⭐⭐⭐
-  - name: "Jeff McLarty"
-    rating: 5
-    comment: |
-      I have tried a number of different Chiropractors in Edmonton, and Dr. Chris Oviatt is the first one I am comfortable recommending to others. He takes the time to properly assess on each visit not just once and then provide a real treatment plan to resolve issues instead of just telling you to come back in two weeks. If you are looking for a Chiropractic care that actually work, Dr. Oviatt is a great choice!
   - name: "Brenda B"
     rating: 5
     comment: |
@@ -50,4 +46,14 @@ reviews:
     rating: 5
     comment: |
       I was involved in an ATV accident a couple of years ago and now training for a race. I've been seeing Dr. Chris Oviatt at for a few months, and it's made a real difference. He's calm, thorough, and gentle, and I'm training with a lot less pain now. Highly recommend.
+  - name: "Russell Bird"
+    rating: 5
+    comment: |
+      I had an excellent experience at Castle Downs Chiropractic. From the moment I walked in, the team was professional and welcoming, and the level of detail in their assessment really stood out.
+      
+      I went in to see Dr. Oviatt for a nagging shoulder issue that had been bothering me for a while, especially with overhead movements. Instead of rushing through the appointment, he took the time to do a very thorough examination, explain what was going on, and walk me through the root cause of the problem in a way that actually made sense.
+      
+      What I appreciated most was that it didn’t feel like a quick adjustment and out the door. He provided a full evaluation, targeted treatment, and clear guidance on what to avoid and how to improve things moving forward. You can tell they genuinely care about getting you better, not just treating symptoms.
+      
+      If you’re dealing with any kind of pain or just want a more thoughtful, in-depth chiropractic experience, I’d highly recommend Castle Downs Chiropractic and Dr. Oviatt.
 ---

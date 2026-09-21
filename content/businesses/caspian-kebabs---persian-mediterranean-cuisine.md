@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–10:00 PM"
 photos: ["/photos/caspian-kebabs---persian-mediterranean-cuisine-1.jpg", "/photos/caspian-kebabs---persian-mediterranean-cuisine-2.jpg", "/photos/caspian-kebabs---persian-mediterranean-cuisine-3.jpg"]
 rating: 4.9
-review_count: 696
+review_count: 702
 price_range: "$$"
 amenities:
   - "Halal"
@@ -37,10 +37,6 @@ reviews:
       Food was delicious.
       Very personable family run business, and that carries over into the atmosphere.
       It was a mom-daughter 3 generation supper date and we all enjoyed it. We shared a family platter and took home leftovers 👍🏻
-  - name: "mahsa behrooz"
-    rating: 5
-    comment: |
-      One of the best Persian restaurants in Edmonton!!!! I went there last week with my friends and had such a great experience. Caspian Kebabs has amazing food, full of rich flavor and perfectly cooked 😋😋 The kebabs are tender and juicy, the rice is fresh and fragrant, and everything tastes so delicious. The customer service is excellent, and the atmosphere is very welcoming. I really enjoyed my experience and will definitely be coming back again!!!
   - name: "Feroze Ahmed"
     rating: 5
     comment: |
@@ -49,6 +45,10 @@ reviews:
       I was on a road trip from Calgary, I will be stopping here quite often now whenever I make the trip to Edmonton.
       
       The staff is attentive, friendly and give great recommendations. Highly recommend this restaurant, I for one will definitely be back !
+  - name: "mahsa behrooz"
+    rating: 5
+    comment: |
+      One of the best Persian restaurants in Edmonton!!!! I went there last week with my friends and had such a great experience. Caspian Kebabs has amazing food, full of rich flavor and perfectly cooked 😋😋 The kebabs are tender and juicy, the rice is fresh and fragrant, and everything tastes so delicious. The customer service is excellent, and the atmosphere is very welcoming. I really enjoyed my experience and will definitely be coming back again!!!
   - name: "Jamshed Nawaz"
     rating: 5
     comment: |

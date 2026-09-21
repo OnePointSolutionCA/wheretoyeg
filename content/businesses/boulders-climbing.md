@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–10:00 PM"
 photos: ["/photos/boulders-climbing-1.jpg", "/photos/boulders-climbing-2.jpg", "/photos/boulders-climbing-3.jpg"]
 rating: 4.8
-review_count: 772
+review_count: 774
 price_range: "$$"
 amenities:
 
@@ -43,10 +43,6 @@ reviews:
       Oh ya ; I was hungry so snuck to the Cafe quick and the best and only substance was a egg sandwich , so kinda limited but damn that was delicious.
       
       Looking  foward to trying this again and again
-  - name: "Matthew Dispensa"
-    rating: 5
-    comment: |
-      Pretty solid setting (hard style if you are not used to comp climbing or coordination) expect to easily get shut down by two grades if you are not used to the movement. Even if you like comp it felt crazy solid. Awesome vibes. There were some power/strength boulders and they were awesome. In short it’s setting was more comp and less outside climbing. But it was banger.
   - name: "Martin Sawicki"
     rating: 5
     comment: |
@@ -55,4 +51,10 @@ reviews:
     rating: 5
     comment: |
       Pretty awesome climbing gym - large space, variety of levels, top end gym equipment and space + friendly staff. There is also a cafe on site as well. Enjoyed the setting as well as the layout of the gym overall. Would recommend making a visit here if you're in town. Clean space and clean air as well (not chalky/dusty).
+  - name: "Marcus Trevelyan"
+    rating: 4
+    comment: |
+      Only been to factory climbing before; comparatively it’s decent but the wall slopes vary a lot more. Bathrooms lack a closed off change room area, but they have a cool foot shower that I now know I need in my house.
+      
+      Good luck finding free parking, best spots are beside the dumpsters or around the back alley (plz park close together and not like a goober).
 ---

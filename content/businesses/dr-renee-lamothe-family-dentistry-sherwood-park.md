@@ -23,19 +23,18 @@ reviews:
       I contacted them for a long overdue visit after a terrible experience at another office in Sherwood Park that left me with an anxiety issue and 2 of my kids refusing to go back.
       Everyone at Family Dentistry was empathetic, compassionate, patient and respectful with all of my concerns. My experience was absolutely stellar, no comparison whatsoever to the previous office.
       I will definitely be a permanent patient.
-  - name: "Marcelinda De Sousa"
-    rating: 5
-    comment: |
-      Dr Renee and her assistant Vivian did an amazing job on my badly cracked tooth and now it's as good as new. I still can't believe it. I prayed that I would find the best dentist in Sherwood Park to fix my tooth and with the help of St Apollonia, the patron saint of dentists I found Dr Renee.                                               Thank you for your expertise, patience and dedication.
-      I unreservedly recommend Dr Renee Lamothe.
   - name: "rdgalloway"
     rating: 5
     comment: |
       I had 4 teeth filled by Dr Lamothe.   It was almost totally pain free.  The staff were fantastic - thoughtful, caring and joyful.  A pleasure to be around.
-  - name: "Tina Wilson"
+  - name: "Daniel Wilkin"
     rating: 5
     comment: |
-      Friendly, compassionate and professional.  Answers all your questions & more!  Highly recommend.
+      Incredible. Dr. Lamothe is awesome and obviously creates a good atmosphere because the incredible hygienist have been there for years. Have been going here twice a year for well over a decade and would trust no one else with my dentistry.
+  - name: "Peggy Konkolus"
+    rating: 5
+    comment: |
+      Dr. Lamothe and everyone else at Family Dentistry are amazing! Highly recommend!
 hours:
   monday: "7:30 AM–4:00 PM"
   tuesday: "7:30 AM–4:00 PM"

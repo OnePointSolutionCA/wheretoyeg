@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/crosstown-autobody-1.jpg", "/photos/crosstown-autobody-2.jpg", "/photos/crosstown-autobody-3.jpg"]
 rating: 4.6
-review_count: 169
+review_count: 171
 price_range: "$$"
 amenities:
 
@@ -32,14 +32,6 @@ reviews:
     rating: 5
     comment: |
       Crosstown Auto Body in Edmonton ‘s west end restored my 2020 Hyundai Kona to like - new condition following a traumatic rear end collision . I’m very pleased with the customer service provided by office personnel ,  and the care the body guys took to do the work . Highly recommended .
-  - name: "gladys"
-    rating: 5
-    comment: |
-      Highly recommend crosstown autobody for any collision repairs. We had our car repaired and the process from start to finish was great! Joey and Anita were extremely helpful and answered any questions or concerns I had with the process. They were super friendly, maintained communication as needed and also helped with coordinating with insurance.
-  - name: "Matthew Hibbs"
-    rating: 5
-    comment: |
-      Great experience with the team. Everyone was very friendly and professional from start to finish. Nelson is extremely quick at getting quotes done and was always available to answer questions, which made the whole process smooth and simple. Communication was clear the entire time and everything was handled efficiently. You can tell they really care about their customers and the quality of their work. The name change to ACX Crosstown is definitely a great move and fits the company well. I’d highly recommend them to anyone looking for a reliable and easy company to work with.” ⭐👍
   - name: "Stephanie Weaver"
     rating: 5
     comment: |
@@ -52,4 +44,12 @@ reviews:
     rating: 5
     comment: |
       Excellent service! Brought my car in to get the hatch door repaired and a new windshield installed. They did a flawless job, the turnaround time was great, and the communication was top-notch from start to finish. Highly recommend!
+  - name: "Cheryl"
+    rating: 5
+    comment: |
+      We had our vehicle repaired at cross town three times now for different reasons. Nelson, Joey, and Anita were really great people to deal with. They were super friendly, communicative and went over and above to meet all of our satisfactory needs. I highly recommend this collision center
+  - name: "gladys"
+    rating: 5
+    comment: |
+      Highly recommend crosstown autobody for any collision repairs. We had our car repaired and the process from start to finish was great! Joey and Anita were extremely helpful and answered any questions or concerns I had with the process. They were super friendly, maintained communication as needed and also helped with coordinating with insurance.
 ---

@@ -19,8 +19,8 @@ hours:
   saturday: "8:00 AM–8:00 PM"
   sunday: "8:00 AM–5:00 PM"
 photos: ["/photos/boxcar-coffeeshop-1.jpg", "/photos/boxcar-coffeeshop-2.jpg", "/photos/boxcar-coffeeshop-3.jpg"]
-rating: 4.7
-review_count: 798
+rating: 4.6
+review_count: 801
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,16 +30,10 @@ tags: ["edmonton", "specialty"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Viresh Mistry"
+  - name: "Marty"
     rating: 5
     comment: |
-      Boxcar Coffee Shop in Edmonton absolutely lived up to the hype. It came highly recommended, and since I’m in town for a local event, I knew I had to check it out. I’m really glad I did.
-      
-      I ordered a cappuccino and their popular signature tres leches cake, and both were excellent. The cappuccino was smooth, well-balanced, and clearly made with care. The tres leches cake was a standout. Moist and rich with the perfect combination of three milks, custard, and pineapple, it was indulgent without being overly sweet and easily one of the best desserts I’ve had in a café setting.
-      
-      The space itself is cozy and quaint with a warm, inviting atmosphere that makes you want to sit and stay awhile. On top of that, the staff were incredibly friendly and welcoming, which made the experience even better.
-      
-      If you’re visiting Edmonton or even a local looking for a great coffee spot with amazing desserts, Boxcar Coffee Shop is a must-visit. I’ll definitely be back next time I’m in town.
+      Great hidden gem!  Staff was amazing and the carrot cake was wonderful.  Make a quick detour for your favorite java.  The latte was the morning kick I needed.  Support local shops like this in the neighborhood.  Cheers.
   - name: "The Professional Positive Viber"
     rating: 5
     comment: |
@@ -50,12 +44,6 @@ reviews:
       We did have to wait for a table, but we waited for no longer than five minutes. I’ve been back a few times around 2-3pm and every time we had to wait for a table, so expect it to be packed.
       
       I highly recommend this place, I have nothing but fond memories. I’ll definitely be coming back!
-  - name: "Coffee Adventure"
-    rating: 2
-    comment: |
-      I love the atmosphere of this café. It’s tucked away on a quiet street, has nice outdoor seating, and the shop itself is beautiful.
-      
-      That said, the coffee is what matters most, and unfortunately it falls short. The cappuccino was thin and lacked the sweetness and richness you expect from properly steamed milk. I also ordered an espresso and specifically asked for it in a ceramic cup, but it still came in plastic. I could indeed smell the plastic, which made the whole experience feel cheap — and I’d rather not have microplastics in my drink.
   - name: "Becky Newhook"
     rating: 5
     comment: |
@@ -64,4 +52,10 @@ reviews:
     rating: 5
     comment: |
       Wow!!!!!! I cant speak any more highly about this place ♡ I was greeted with such a warm hello and such great service.  I was recommended the London fog Tres Leches and one of the customers said they were ordering their second serving as we spoke! I was so excited to try it! I ordered the tres Leches, a vanilla latte and a croquet monsieur sandwich. When it came out, it had to take a picture of the cake!!! What a beautiful work of art and HOLY smokes the taste!!!! It was amazing!!!  I can't explain how they clearly understood how to get.both London fog and their tres Leches cakes to blend into this fabulous concoction, but they truly did!!! And the latte was on another level as well. I can't even describe their chipolte aioli  dip with their chips, it was probably one of the best dips I have ever had! Everything came out gorgeous and hot! I feel so lucky to have been able to stop by !!! Seriously, don't just walk here, Run♡♡♡!!!
+  - name: "Coffee Adventure"
+    rating: 2
+    comment: |
+      I love the atmosphere of this café. It’s tucked away on a quiet street, has nice outdoor seating, and the shop itself is beautiful.
+      
+      That said, the coffee is what matters most, and unfortunately it falls short. The cappuccino was thin and lacked the sweetness and richness you expect from properly steamed milk. I also ordered an espresso and specifically asked for it in a ceramic cup, but it still came in plastic. I could indeed smell the plastic, which made the whole experience feel cheap — and I’d rather not have microplastics in my drink.
 ---

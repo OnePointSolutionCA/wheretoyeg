@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Castle Downs"
 address: "6877 Ad Astra Blvd NW, Edmonton, AB T5E 4G6"
 rating: 4.8
-review_count: 622
+review_count: 624
 tier: "featured"
 phone: "(780) 250-3435"
 website: "https://eatanddip.ca/"

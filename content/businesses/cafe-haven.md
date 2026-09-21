@@ -23,15 +23,11 @@ reviews:
       Halfway through my meal, I found myself questioning my entire baseline for cafes. Have I been settling for lukewarm, flavourless food? Should receiving a hot, flavourful meal really feel revelatory? Cafe Haven made me reconsider what I should be expect from cafes.
       
       Overall, I was impressed by Cafe Haven’s elevated classics with intentional flavours. I really enjoyed my experience there and will definitely be back.
-  - name: "Olivia Mad"
-    rating: 5
-    comment: |
-      This is a beautiful cozy local Cafe that is my go to for lunch. Their breakfast bowls are delicious and their matchas are so divine. I love the cozy comfy atmosphere as well as the quality customer service, and enjoy reading a book and getting a bite to eat here on lunch breaks!
   - name: "T-Bird"
     rating: 5
     comment: |
       This was our third visit in the past few years.  Again we got great bevvies and food and great friendly service. We highly recommend this cafe.   You won't be disappointed. BTW it's an old bank location and the cafe inherited the vault - which now serves as a special seating area for small groups!  Very unique.
-  - name: "Sasha Love"
+  - name: "Tammy C"
     rating: 4
     comment: |
       The food here was very good! Had an eggs Benny and my friend had the breakfast bowl. Both were served hot, good flavors and the chai and coffee were good.
@@ -43,6 +39,10 @@ reviews:
     rating: 5
     comment: |
       Variety of good choices. You got to choose what you fancy at the moment but thats okay, try them all lol highly recommend this local cute cafe. What a great positive chill homey vibe! (:
+  - name: "Olivia Mad"
+    rating: 5
+    comment: |
+      This is a beautiful cozy local Cafe that is my go to for lunch. Their breakfast bowls are delicious and their matchas are so divine. I love the cozy comfy atmosphere as well as the quality customer service, and enjoy reading a book and getting a bite to eat here on lunch breaks!
 hours:
   monday: "8:00 AM–5:00 PM"
   tuesday: "8:00 AM–5:00 PM"

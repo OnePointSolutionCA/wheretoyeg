@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–6:00 PM"
 photos: ["/photos/drbarber-1.jpg", "/photos/drbarber-2.jpg", "/photos/drbarber-3.jpg"]
 rating: 4.8
-review_count: 546
+review_count: 548
 price_range: "$$"
 amenities:
 
@@ -32,6 +32,16 @@ reviews:
     rating: 5
     comment: |
       I give this a five star because how kind the workers are.  I been here 4 times at least at my third time I asked for a certain haircut I really wanted and I liked did a fantastic job and when i came back here which was around noon today I got my haircut but he remembered what I got last time I was shocked and I said yes to it.  The fact that he remembered was crazy to me and i was impressed because most barbers I go to usually forget I’m not complaining they do well too but i prefer this one more. Fantastic job good employees and I will definitely be back soon.
+  - name: "Connor Tighe"
+    rating: 1
+    comment: |
+      I went to Dr.Barber today, and while I understand that the quality of a haircut can depend heavily on the individual barber’s experience and skill level, I can honestly say this was probably one of the worst haircuts I’ve ever had.
+      
+      The haircut was lopsided, the top was left way too long, the sides weren’t cleaned up properly, and my beard was crooked, jagged, and uneven. Honestly, I feel like I could have given myself a better haircut.
+      
+      I’m not normally one to leave negative reviews. I understand everyone is trying to make a living, people have off days, and skills come with experience. That being said, this was extremely disappointing. I ended up having to go directly to another barbershop afterward to have the entire haircut and beard fixed.
+      
+      Unfortunately, I won’t be going back. I genuinely hope the young man who cut my hair gets some more experience and improves his skills so nobody else has the same experience I did.
   - name: "Mehedi Hasan"
     rating: 3
     comment: |
@@ -49,8 +59,4 @@ reviews:
       The barber was unprofessional, and rushed me. Mocked me for hesitating with what I wanted. I was treated as an inconvenience. No hellos, no introduction. Find out after that it's cash only. Almost all the other reviews on here (any reviews from over a month ago) are for some other barber shop. Most of the pictures are from another barber shop. I'm reviewing the place in Sherwood Park: in the former Singletons location.
       
       Not sure about the other barbers working there, but the nameless barber ensured I will never return.
-  - name: "soufiane khbich"
-    rating: 5
-    comment: |
-      Excellent barber. Clean cut, great attention to detail.
 ---

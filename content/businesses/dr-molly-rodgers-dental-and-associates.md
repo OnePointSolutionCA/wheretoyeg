@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Mill Woods"
 address: "2943 66 St NW, Edmonton, AB T6K 4C1"
 rating: 4.9
-review_count: 527
+review_count: 529
 tier: "featured"
 phone: "(780) 463-8803"
 website: "https://edmontonsmiles.net/"
@@ -22,18 +22,18 @@ reviews:
     rating: 5
     comment: |
       Got some work done on my teeth, while going in not really expecting more than a consultation. Numbing process was excellent as well. I still have to back for more work in a couple days but from what I already experienced, i enjoyed my appointment. Friendly staff , attentive and gentle.
-  - name: "Dan Oler"
-    rating: 5
-    comment: |
-      Cannot recommend this practice enough. Very professional, extremely clean and well maintained space. AMAZING job with my kids who had never been to the dentist before. They have them a tour, showed them all the tools they’d use, let them handle them themselves. Everything about our visit was easy and considerate.
   - name: "Noelle Bertrand"
     rating: 5
     comment: |
       My 5 year old son had his first cleaning today. The staff was absolutely excellent! Made him feel comfortable, explained everything she was doing to him and very gentle. Would definitely recommend!
-  - name: "Christina Pretzlaw"
+  - name: "Stuie"
     rating: 5
     comment: |
-      My one year old had his first smile visit today and Dr. Rodgers and team were amazing!
+      I just had a tooth pulled by Dr Nguyen. The experience was not bad at all. Dr Nguyen took the time and care to make this a surprising painless visit. I feel the doctors and staff have a real human touch...thank you!
+  - name: "praveen sankar"
+    rating: 5
+    comment: |
+      Dr. Ahmed & his assistant was excellent with my 10-year-old daughter. Her baby tooth was not falling out, and the adult tooth had already come in behind it. Dr. Ahmed did an X-ray, explained everything clearly, and removed the tooth very easily. She only had very light pain and felt comfortable during the whole process. We are very happy with the treatment and care. Highly recommend
 hours:
   monday: "7:00 AM–2:30 PM"
   tuesday: "7:00 AM–2:30 PM"

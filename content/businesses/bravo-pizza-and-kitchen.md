@@ -60,6 +60,6 @@ hours:
   wednesday: "11:00 AM–9:00 PM"
   thursday: "11:00 AM–9:00 PM"
   friday: "11:00 AM–9:00 PM"
-  saturday: "11:30 AM–9:00 PM"
+  saturday: "12:00 PM–9:00 PM"
   sunday: "Closed"
 ---

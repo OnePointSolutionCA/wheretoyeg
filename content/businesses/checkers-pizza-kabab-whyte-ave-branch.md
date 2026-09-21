@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–2:00 AM"
 photos: ["/photos/checkers-pizza-kabab-whyte-ave-branch-1.jpg", "/photos/checkers-pizza-kabab-whyte-ave-branch-2.jpg", "/photos/checkers-pizza-kabab-whyte-ave-branch-3.jpg"]
 rating: 4.3
-review_count: 972
+review_count: 974
 price_range: "$"
 amenities:
   - "Halal"
@@ -42,25 +42,16 @@ reviews:
       One of the best places we had Pizza in Edmonton. Not that expensive either. We got a large pizza half chicken garlic snd half beef supreme. And one cheese pizza. Excellent taste and yum yum!
       
       Thankz
+  - name: "Umer Raza"
+    rating: 5
+    comment: |
+      I really love the Chicken Poutine from Checker Pizza! It is always fresh, delicious, and full of flavor. The fries are perfectly cooked, the chicken is tasty, and the gravy and cheese make it even better. The quality is consistently great every time I order. If you’re looking for a satisfying and flavorful meal, I highly recommend trying the Chicken Poutine at Checker Pizza. Amazing taste and excellent food!
   - name: "Tanzina Smita"
     rating: 1
     comment: |
       Today I ordered the beef supreme pizza. That was my second time. Because first time, it was really good. Today I really expected that they will make it like the first time I ordered. I also put special instructions. But they made it so bad, I couldn't even eat. Just look at the toppings. It literally tasted soggy, cold, and the base was so less that it felt like I am eating just bread. Never ordering again.
-  - name: "Haider Mumtaz"
+  - name: "Michael Richard"
     rating: 5
     comment: |
-      Excellent flavour and toppings.
-      Quick, and friendly staff made the experience enjoyable. Specially saif
-      
-      Would highly recommend for anyone seeking great pizza and service!
-  - name: "nadahati"
-    rating: 5
-    comment: |
-      Just wanted to leave a review for this place. Been buying food from here on and off since  2010.
-      
-      The pizza is always good.
-      
-      The biryani flavour has gone through changes ; I guess the chef has changed over the past 10 yrs.  Although the original was much better, the current style is good also.
-      
-      But what I want to comment most is the service. I ordered through Skip today and an item was missed. Most other places will just tell me to request a refund. The problem with that is I would have to reorder and likely have to pay more for the next courier and spend more to tip them... and if I cld not be hassled, my money will remain as skip credits (refund to card is not immediate). When I called Checkers however, the staff apologised and said they will deliver the missed item without any excuses. They really went out of their way and did not take the easy way out by telling me to "just request a refund".
+      Been coming to checkers pizza for years and all there food is fantastic . Unique and excellent pizza and the best chicken biriani in edmonton. Friendly staff and clean . Can’t say enough good about this place . Worth checking out . An Edmonton Institution that I hope is around for many  many years .
 ---

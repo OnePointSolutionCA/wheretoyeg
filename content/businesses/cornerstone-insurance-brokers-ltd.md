@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/cornerstone-insurance-brokers-ltd-1.jpg", "/photos/cornerstone-insurance-brokers-ltd-2.jpg", "/photos/cornerstone-insurance-brokers-ltd-3.jpg"]
 rating: 4.9
-review_count: 706
+review_count: 707
 price_range: "$$"
 amenities:
 

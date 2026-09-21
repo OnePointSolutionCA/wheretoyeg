@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/dosc-1.jpg", "/photos/dosc-2.jpg", "/photos/dosc-3.jpg"]
 rating: 4.4
-review_count: 2202
+review_count: 2205
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -65,8 +65,8 @@ reviews:
     rating: 5
     comment: |
       Came here for a birthday celebration, they have an option to include flowers with the reservation which i’ve never seem before, so thats really cool ! The server had good cocktail recommendations and was knowledgeable. We had the kale caeser salad, poutine, and 2 steaks. Everything was yummy, some room for improvement as the poutine was lacking cheese and the gravy was a little watery as well as the steaks were very chewy for our liking. Other than that the inside is beautiful, very romantic and elevated!
-  - name: "Roanne Lillico"
+  - name: "Diana P"
     rating: 5
     comment: |
-      Love the atmosphere! The lighting is dim and it’s like a romantic wooden industrial vibe. Brydan was our server and did such a fabulous job describing everything on the menu to us and making perfect recommendations. He was very charismatic and comfortable. Food was excellent. We came here for my birthday dinner and I will be recommending it to friends for special nights out.
+      Loved the vibes of this place! Definitely pricey but you get what you pay for, I was impressed by the cocktails they were top tier. The highlight of the night was the incredible service, Shaquille was an amazing server, he really blew us away!!
 ---

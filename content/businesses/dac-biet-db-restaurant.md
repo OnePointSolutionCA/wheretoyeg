@@ -20,7 +20,7 @@ hours:
   sunday: "10:30 AM–9:00 PM"
 photos: ["/photos/dac-biet-db-restaurant-1.jpg", "/photos/dac-biet-db-restaurant-2.jpg", "/photos/dac-biet-db-restaurant-3.jpg"]
 rating: 4.7
-review_count: 128
+review_count: 129
 price_range: "$$"
 amenities:
   - "Dine-In"

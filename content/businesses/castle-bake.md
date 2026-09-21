@@ -50,20 +50,16 @@ reviews:
       In my opinion, the AGB (Akawi Garlic Butter) pie is excellent. I also recently had the chance to try their Crispy Chicken Shawarma, and they absolutely nailed it.
       
       If you’re looking for a breakfast that will keep you full all day, have you talking about it all week, and won’t break the bank, head to Castle Bake. Highly recommended.
-  - name: "Khandy Sr."
-    rating: 5
-    comment: |
-      We had breakfast at Castle Bake Pita in Edmonton and it was a wonderful experience. The food was fresh, warm, and absolutely delicious — perfect for a morning meal.
-      
-      What really made our visit special was Wael. He was incredibly friendly and welcoming, and even offered my wife and me tea in the house, which was such a kind gesture. It made us feel more like guests than customers.
-      
-      Great food, great service, and a very warm atmosphere. We will definitely be coming back and highly recommend this place for breakfast!
-  - name: "Tariq Almaashi"
-    rating: 5
-    comment: |
-      Perfect place for a Sunday brunch. Their flat bread manoushes are excellent. try the garlic Akawi one.
   - name: "A Aubaid"
     rating: 3
     comment: |
       Although the service is great and the food was amazing, I was disappointed by the pricing. The prices listed online and on Google—including their website—are completely outdated and don't match what you are actually charged in-store, with no prior notice. Just a heads-up to double-check before you order!
+  - name: "Tariq Almaashi"
+    rating: 5
+    comment: |
+      Perfect place for a Sunday brunch. Their flat bread manoushes are excellent. try the garlic Akawi one.
+  - name: "Jake Miller (The Reviewer)"
+    rating: 5
+    comment: |
+      Castle Bake is a great place for fresh and tasty food. I often come here during the lunch rush, and they always treat me with the most respect. Even when it’s busy, the staff stay friendly, professional, and very fast with service. The manaesh is always soft, warm, and full of flavor, and the ingredients taste fresh every time. The portions are generous for the price, and the restaurant is clean and welcoming. It’s a great spot for both dine-in and takeout. I’d definitely recommend Castle Bake to anyone looking for delicious manaesh, wraps, and quality food.
 ---

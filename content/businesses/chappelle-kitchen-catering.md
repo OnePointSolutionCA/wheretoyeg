@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/chappelle-kitchen-catering-1.jpg", "/photos/chappelle-kitchen-catering-2.jpg", "/photos/chappelle-kitchen-catering-3.jpg"]
 rating: 4.9
-review_count: 261
+review_count: 262
 price_range: "$$"
 amenities:
 
@@ -42,12 +42,12 @@ reviews:
     rating: 5
     comment: |
       Phénoménal catering service! I was very pleased with all the food items. Each dish looked very presentable and was incredibly delicious! This was my first time trying, and it was such a wonderful experience. You can feel all the love that was put into making each dish. I wholeheartedly recommend this catering service!
+  - name: "Hydration Water center"
+    rating: 5
+    comment: |
+      ​As a Jamaican living out here in Canada, finding a meal that really hits the soul means everything. I want to send a huge thank you to Chappelle Kitchen Catering for such a wonderful experience. The hearty welcome made me feel right at home, and the staff was incredibly professional. But honestly... the food, the food, the food! It was exceptionally delicious 🤤. Thank you so much for the amazing meal and the warm vibes. Highly recommend!
   - name: "Cathy Hodgson"
     rating: 5
     comment: |
       We can't say enough good things about Aya's catering company! From a vast array of international cuisine to generous portions of the highest quality to personalized custom service, Chappelle Kitchen Catering does it best. When hiring Chappelle for an event, we were working in a complex venue, and when we had to change locations and adapt due to weather conditions, Aya and her staff adjusted without skipping a beat, smiling all the while. For such world-class dining, the value cannot be overstated. Our guests raved for weeks about the delicious food. In every aspect of putting on the event, we felt seen and supported. From the delightful first meeting to her warm interactions with our guests, Aya made us feel like family. We highly recommend Chappelle Kitchen Catering!
-  - name: "Kim L"
-    rating: 5
-    comment: |
-      Aya and the entire Chappelle Kitchen Catering team were an absolute pleasure to work with! She was super helpful in making meal recommendations for my party size. The delicious food and beautiful presentation were an absolute hit for the guests the day of the party. I am looking forward to working with Aya and her team in the future! Thanks so much, Aya!
 ---

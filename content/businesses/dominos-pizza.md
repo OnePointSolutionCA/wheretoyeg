@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Beaumont"
 address: "5802 50 St, Beaumont, AB T4X 1T8"
 rating: 4.6
-review_count: 267
+review_count: 268
 tier: "featured"
 phone: "(780) 929-0010"
 website: "https://pizza.dominos.ca/beaumont-alberta-10195/"
@@ -35,10 +35,10 @@ reviews:
       Great service with pizza that tastes great and delicious. I particularly love the taste of the pizza and the chicken. The thin crust of the pizza makes the tastes delicious and not heavy in the mouth.
       
       The staff are also pleasant and service was a great top notch.
-  - name: "Barbara Cam"
+  - name: "Zeez"
     rating: 5
     comment: |
-      Pizza arrived very quickly after ordering online. Was one of the absolute best pizzas I’ve ever had! Hot, thin, crispy, four topping crust…delicious! .Brownies were warm and yummy as well. Highly recommend Domino’s in Beaumont.
+      Best chain pizza. Always consistent from this location
 hours:
   monday: "10:30 AM–11:30 PM"
   tuesday: "10:30 AM–11:30 PM"

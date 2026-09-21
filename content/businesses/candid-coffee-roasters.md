@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–4:00 PM"
 photos: ["/photos/candid-coffee-roasters-1.jpg", "/photos/candid-coffee-roasters-2.jpg", "/photos/candid-coffee-roasters-3.jpg"]
 rating: 4.7
-review_count: 133
+review_count: 134
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -55,7 +55,7 @@ reviews:
       What I tried
       - Iced Vanilla Latte- 8.5/10
       - Raspberry White Chocolate Macadamia Cookie- 9/10
-  - name: "Elise Lazina"
+  - name: "Elise Harold"
     rating: 5
     comment: |
       Very good coffee! We tried one of their funkier espressos and their Ethiopian drip coffee.

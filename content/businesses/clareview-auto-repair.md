@@ -17,18 +17,20 @@ reviews:
     rating: 5
     comment: |
       I had a great experience with this mechanic. He checked my car carefully and made sure everything was okay. He was honest, professional, and didn’t try to push unnecessary repairs. I really appreciated how he explained things clearly and made me feel confident about my car’s condition. Highly recommend his service to anyone looking for a trustworthy mechanic!
-  - name: "Les Swanek"
-    rating: 5
+  - name: "Ahmad ziya Jamali"
+    rating: 1
     comment: |
-      I have brought my vehicle here on numerous occasions and always had good,  honest,  prompt service... and found pricing to be reasonable.  Would recommend and will be going back when necessary.
-  - name: "Cornel Popescu"
-    rating: 5
-    comment: |
-      Very good mechanics, balance between price and quality of work done are very fair for our days. Time to wait for repair car it is very good. Shop very busy , but they have time with details too. Thank you guys for the help with cars. Cornel P.
+      am very dissatisfied with the way the management of this auto repair shop treated me. Unfortunately, during my recent visit, I experienced inappropriate and unprofessional behavior, and I felt that I was not treated with the respect that every customer deserves.
+      
+      Any business can make mistakes, but the way customers are treated is one of the most important aspects of good service. I sincerely hope that the management takes this feedback seriously and makes meaningful improvements to its professionalism and customer service.
   - name: "Ibn-Maysaloun"
     rating: 1
     comment: |
       After waiting, he said he'd book your appointment for Friday, but it was Monday. Wow. Don't trust Bashir; he's a liar. Or don't go to his garage; he's too busy (according to him). If you are the customer, would you want your car fixed in five days or a week? In any case, your facial expressions say you're being rude.
+  - name: "Les Swanek"
+    rating: 5
+    comment: |
+      I have brought my vehicle here on numerous occasions and always had good,  honest,  prompt service... and found pricing to be reasonable.  Would recommend and will be going back when necessary.
   - name: "Tim Zimmerman"
     rating: 5
     comment: |

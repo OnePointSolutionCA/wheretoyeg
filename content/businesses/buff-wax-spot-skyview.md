@@ -32,10 +32,6 @@ reviews:
     rating: 5
     comment: |
       Love coming here! Every single staff member is warm and welcoming. They have amazing products that smell nice, do what they are made for, and are quite clean ingredients wise! Jess is my go to technician and I HIGHLY recommend you see her too! She's efficient, a great yapper, very knowledgeable, and has always left me feeling confident in myself. Buff Skyview is where I'll be coming for all my waxing needs for a looooong time!!
-  - name: "Anma Lambert"
-    rating: 5
-    comment: |
-      I have always felt welcomed when coming to Buff Wax Spot but my recent experience was unreal. The front staff was extremely knowledgable about the products and Victoria was beyond efficient.  Highly recommend! (From a  20+ year experienced client). Cheers!
   - name: "Sara Ouellette"
     rating: 5
     comment: |
@@ -52,6 +48,10 @@ reviews:
       And Victoria is super nice and has a very positive aproach.
       
       Thank you all
+  - name: "Anma Lambert"
+    rating: 5
+    comment: |
+      I have always felt welcomed when coming to Buff Wax Spot but my recent experience was unreal. The front staff was extremely knowledgable about the products and Victoria was beyond efficient.  Highly recommend! (From a  20+ year experienced client). Cheers!
   - name: "K Schneider"
     rating: 5
     comment: |

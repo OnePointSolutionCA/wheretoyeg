@@ -19,7 +19,7 @@ hours:
   sunday: "10:00 AM–3:00 PM"
 photos: ["/photos/callingwood-farmers-market-1.jpg", "/photos/callingwood-farmers-market-2.jpg", "/photos/callingwood-farmers-market-3.jpg"]
 rating: 4.6
-review_count: 688
+review_count: 691
 price_range: "$$"
 amenities:
 

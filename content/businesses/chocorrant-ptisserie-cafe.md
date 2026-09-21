@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–4:00 PM"
 photos: ["/photos/chocorrant-ptisserie-cafe-1.jpg", "/photos/chocorrant-ptisserie-cafe-2.jpg", "/photos/chocorrant-ptisserie-cafe-3.jpg"]
 rating: 4.6
-review_count: 621
+review_count: 622
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -43,10 +43,6 @@ reviews:
       We ordered every dessert and many different croissants to try out.
       Most items were good. The Entremets were the same, just different fillings. With the Cherry Chocolate Cheesecake being the winner for us.
       Croissants are great. One was a bit old tasting, but the rest were delicious.
-  - name: "Ana Arciniega"
-    rating: 5
-    comment: |
-      I tried their creme brulee croissant and their turkey & Brie sandwich. They were both to die for. So buttery and flaky! And the flavour in the sandwich was SO amazing. We were so pleasantly surprised. We also tried a couple of their macarons (the blueberry cheesecake was SO yummy). We took a little cake to go for my partner’s mom and she loved it (she’s not a sweets kinda person). 10/10 would recommend. We will definitely be coming back to try different things.
   - name: "Ruby aleutia"
     rating: 5
     comment: |
@@ -55,4 +51,8 @@ reviews:
     rating: 5
     comment: |
       Cute little spot, tried the croissant beef dip and it was delicious! Staff are a bit slow, but they are friendly. It’s local and baked fresh  with many drink and dessert options as well.
+  - name: "Ana Arciniega"
+    rating: 5
+    comment: |
+      I tried their creme brulee croissant and their turkey & Brie sandwich. They were both to die for. So buttery and flaky! And the flavour in the sandwich was SO amazing. We were so pleasantly surprised. We also tried a couple of their macarons (the blueberry cheesecake was SO yummy). We took a little cake to go for my partner’s mom and she loved it (she’s not a sweets kinda person). 10/10 would recommend. We will definitely be coming back to try different things.
 ---

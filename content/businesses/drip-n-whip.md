@@ -34,14 +34,6 @@ reviews:
     rating: 5
     comment: |
       I am personally acquainted with the owner, and I can attest to his exceptional kindness and integrity. The ice cream and all other desserts offered here are truly outstanding. I highly recommend a visit to the premium outlet mall.
-  - name: "Marian Joy"
-    rating: 5
-    comment: |
-      The owner was delighted to hear I enjoyed everything I ordered. The Dubai flavours are spot on! I’ll be recommending this spot to my coworkers, friends, and family. The Dubai croffles, ice cream, and mini pancakes are a must-try. I cannot wait to come back. He was so kind and even gave us a free Easter egg!
-  - name: "Leah Joy Porras"
-    rating: 5
-    comment: |
-      Their Dubai croffles and Dubai ice cream just taste amazingly good! Worth the price!👌 not to mention the guy there named Ed, he’s just wonderful and amazing man👌 highly recommended 👌 visit them @ the Premium outlet 🙌🏻
   - name: "evelyn gomez"
     rating: 5
     comment: |
@@ -52,4 +44,12 @@ reviews:
       I wish I could have this at every single part of town. Amazing ice cream, amazing service and you definitely won a customer! I had the Dubai and the Ferrero 10/10
       
       Thank you!
+  - name: "Carla Randell"
+    rating: 5
+    comment: |
+      Amazing service , decent priced and filled the cups right up with chocolate and strawberries, 100% recommend
+  - name: "Jon Cristoffer Pecson"
+    rating: 5
+    comment: |
+      Good Food. The service was beyond expectation. Must try for dessert lovers.
 ---

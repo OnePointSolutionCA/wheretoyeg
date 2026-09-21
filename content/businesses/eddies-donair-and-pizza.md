@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Castle Downs"
 address: "16767 91 St NW, Edmonton, AB T5Z 2X4"
 rating: 4.5
-review_count: 1151
+review_count: 1153
 tier: "featured"
 phone: "(780) 457-4555"
 website: "https://www.eddiesdonair.ca/"
@@ -14,15 +14,15 @@ google_maps: "https://maps.google.com/?cid=9249034647656499492&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/eddies-donair-and-pizza.jpg"
 reviews:
+  - name: "Wei-Yi"
+    rating: 5
+    comment: |
+      We ordered regular donair, really big portion for this price and lot of donair meats! The staff are so family. Definitely will come back!
   - name: "O O"
     rating: 3
     comment: |
       Has anyone noticed that ever since the brothers are not around often that the pizza taste quality toppings everything has changed? The meat pizza doesn't have as much meat anymore? It's way less like almost 50% less? The cheese layer is always overcooked and it used to be perfectly done. The quality has gone down and I just hope they're careful of who they have in their working for them because it was a great experience before and now I'm just consistently disappointed. It's just not the same...
       Edit: I just looked at the recent reviews over the past several months and there are a lot of similar complaints about the food, and their overall score in Google has gone down. I hope the brothers get back in there and retrain them and figure out what's going on before all their hard work is shaded down
-  - name: "Wei-Yi"
-    rating: 5
-    comment: |
-      We ordered regular donair, really big portion for this price and lot of donair meats! The staff are so family. Definitely will come back!
   - name: "Chris Medley"
     rating: 5
     comment: |

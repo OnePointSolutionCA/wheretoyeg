@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–8:00 PM"
 photos: ["/photos/eds-bowling-1.jpg", "/photos/eds-bowling-2.jpg", "/photos/eds-bowling-3.jpg"]
 rating: 4
-review_count: 1036
+review_count: 1037
 price_range: "$$"
 amenities:
 
@@ -43,10 +43,6 @@ reviews:
       ⚠️ Slightly pricey—plan ahead
       
       Would I go again? Yes—but with a plan booked in advance 😉
-  - name: "Jim Way"
-    rating: 5
-    comment: |
-      Great place to go bowling or just visiting  the WEM. Staff was friendly! Very fresh and inviting bowling 🎳   place to go to take the family.  They also have billiards 🎱. Very modern doesn't  look like  it from the it's like most place  you go bowling.
   - name: "Charles Vatcher"
     rating: 1
     comment: |
@@ -61,4 +57,11 @@ reviews:
     rating: 2
     comment: |
       Guy at the counter sucked at customer service with his passive aggressive demeanour towards customers, what should’ve been a simple interaction feel unnecessarily uncomfortable. Hopefully it was just an off day, because first impressions matter. Other staffs were lovely with catering our group tho.
+  - name: "Jennifer S"
+    rating: 5
+    comment: |
+      A group of 6 of us went out last night. There was a bit of an issue with the reservation, but they made it right.
+      We had some tech issues with the first bowling lane and were promptly moved.
+      Halfway through the second game we had a glitch-again staff fixed it quickly and extended our time to allow us to finish the game.
+      Nick and Cassie were professional and super helpful-thanks for giving us a fun night out!
 ---

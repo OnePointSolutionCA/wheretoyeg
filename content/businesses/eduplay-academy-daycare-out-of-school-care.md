@@ -32,12 +32,6 @@ reviews:
     rating: 5
     comment: |
       Happy ECE Day to the wonderful EduPlay teachers. We're so glad we picked this daycare when looking at options for our son. He absolutely adores all of his teachers--especially his home room Teacher Gigi! We are grateful to Teacher Gigi for her thoughtfulness in developing the best lesson plans. The babies get to do fun new activities each day. Our baby loves it here and looks forward to daycare drop off every day thanks to the most amazing and kind caregivers.
-  - name: "Sabrina Amaral"
-    rating: 5
-    comment: |
-      Teacher Noelle has been absolutely amazing. I’m someone who has a hard time trusting others with my daughter, but Noelle’s playful personality, patience, and genuine warmth made me feel comfortable and safe right away. She creates such a nurturing and positive environment, and it’s clear how much she truly cares about the kids.
-      It means so much to me that my daughter runs to give her a hug at drop-off — it honestly makes my heart so happy every time. That tells me everything I need to know. My daughter is thriving, talks about daycare with excitement, and has grown so much socially and emotionally during her time in Noelle’s class.
-      I also really appreciate the great communication, the fun learning activities, and the loving atmosphere she brings every single day. As my daughter gets ready to move up to Kinder One, we know we are going to miss Teacher Noelle so much. I’m incredibly grateful she was the one who gave my daughter such a positive, safe, and joyful start to her daycare journey. 💕
   - name: "olanike folayan"
     rating: 5
     comment: |
@@ -56,4 +50,8 @@ reviews:
       Jing creates such a warm and welcoming environment, and it’s clear how much she truly cares about each child. We really appreciate her dedication, support, and all the effort she puts into helping the kids learn and grow.
       
       Thank you, Jing, for everything you do. It means so much to our family!
+  - name: "Sarah Steeves"
+    rating: 5
+    comment: |
+      Our daughter started with Edu Play a few months ago. With the help from their welcoming and caring staff it was a smooth transition from being home. They do lots of activities with our daughter in addition to providing her with excellent care. I’m comfortable leaving my daughter in their care. I also really appreciate the daily updates  the daycare provides. The updates make going back to work a lot easier. Thank you for all that you do.
 ---

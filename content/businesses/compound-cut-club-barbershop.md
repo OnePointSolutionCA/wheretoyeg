@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/compound-cut-club-barbershop-1.jpg", "/photos/compound-cut-club-barbershop-2.jpg", "/photos/compound-cut-club-barbershop-3.jpg"]
 rating: 4.9
-review_count: 1303
+review_count: 1304
 price_range: "$$$"
 amenities:
 

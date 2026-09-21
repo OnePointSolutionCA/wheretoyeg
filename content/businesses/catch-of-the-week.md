@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–6:00 PM"
 photos: ["/photos/catch-of-the-week-1.jpg", "/photos/catch-of-the-week-2.jpg", "/photos/catch-of-the-week-3.jpg"]
 rating: 4.3
-review_count: 610
+review_count: 612
 price_range: "$$"
 amenities:
   - "Takeout"

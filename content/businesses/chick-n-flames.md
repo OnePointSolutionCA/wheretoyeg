@@ -37,15 +37,15 @@ reviews:
       The chicken sandwich was really good — flavorful, fresh, and cooked well. I also tried the loaded fries, and they were delicious too. Everything had a lot of flavor without being overly greasy or heavy, which I really appreciated.
       
       The portion sizes were generous and satisfying, and overall the food was very enjoyable. Definitely a solid spot if you’re looking for a good chicken sandwich and loaded fries.
-  - name: "Super Review Widget"
-    rating: 5
-    comment: |
-      Tried the chicken sandwich and fries and it was honestly really good. The chicken was crispy, the bun was soft, and the slaw added a nice fresh crunch without making it messy. Fries were hot and simple, exactly what you want on the side. Nothing overcomplicated, just a solid comfort food meal that hit the spot. I’d definitely order it again.
   - name: "Alex"
     rating: 5
     comment: |
       Really good crispy chicken that is actually hot when they say its hot! Great service and halal which is a plus. My first visit I got the combo which is a good price for two people. You might be asking yourself, why is it so cheap compared to a regular combo? Turns out the combos have a smaller chicken burger. No complaints though because it's still a decent size for a really good price.
       My second visit I got the french toast sandwich and it is in fact bigger! Really fun and easy concept and another home run for their chicken.
+  - name: "Super Review Widget"
+    rating: 5
+    comment: |
+      Tried the chicken sandwich and fries and it was honestly really good. The chicken was crispy, the bun was soft, and the slaw added a nice fresh crunch without making it messy. Fries were hot and simple, exactly what you want on the side. Nothing overcomplicated, just a solid comfort food meal that hit the spot. I’d definitely order it again.
   - name: "Jayson Candles"
     rating: 1
     comment: |

@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Spruce Grove"
 address: "240 St Matthews Ave, Spruce Grove, AB T7X 3B1"
 rating: 4.1
-review_count: 96
+review_count: 97
 tier: "featured"
 phone: "(587) 461-3986"
 google_maps: "https://maps.google.com/?cid=3745514046138229821&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

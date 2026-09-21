@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/duggan-barbershop-hair-styling-1.jpg", "/photos/duggan-barbershop-hair-styling-2.jpg", "/photos/duggan-barbershop-hair-styling-3.jpg"]
 rating: 4.8
-review_count: 866
+review_count: 867
 price_range: "$$"
 amenities:
 

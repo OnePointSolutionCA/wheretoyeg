@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "270 Baseline Rd #330, Sherwood Park, AB T8H 1R4"
 rating: 4.6
-review_count: 547
+review_count: 537
 tier: "featured"
 phone: "(587) 269-1065"
 website: "http://www.dspotdessert.com/"

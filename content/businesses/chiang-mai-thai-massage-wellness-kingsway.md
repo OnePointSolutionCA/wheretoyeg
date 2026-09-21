@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–8:00 PM"
 photos: ["/photos/chiang-mai-thai-massage-wellness-kingsway-1.jpg", "/photos/chiang-mai-thai-massage-wellness-kingsway-2.jpg", "/photos/chiang-mai-thai-massage-wellness-kingsway-3.jpg"]
 rating: 4.9
-review_count: 477
+review_count: 480
 price_range: "$$"
 amenities:
 

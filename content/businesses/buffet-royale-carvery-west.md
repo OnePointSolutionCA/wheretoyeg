@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/buffet-royale-carvery-west-1.jpg", "/photos/buffet-royale-carvery-west-2.jpg", "/photos/buffet-royale-carvery-west-3.jpg"]
 rating: 3.6
-review_count: 2539
+review_count: 2548
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -55,12 +55,10 @@ reviews:
     rating: 4
     comment: |
       We had dinner here with family and friends celebrating birthdays twice. I like that they have variety of food options, however I wish their closing time would be extended by at least an hour especially on weekends.
-  - name: "Bruce Mattia"
+  - name: "B W"
     rating: 4
     comment: |
-      Buffet Royale Carvery has been in this West End location for years and somehow I’d never tried it.  We were shopping nearby, got hungry, and decided to go in.  Quite the selection.
+      Underrated AYCE spot on the west end, especially since buffet options are limited around there.The food quality isn’t amazing, but for the price and selection amount it’s solid value.
       
-      Everything is there.  Taco station, ice cream station, even a make-your-own poutine at the carvery.  I grabbed the beef rib.  They also had eggs Benedict, lots of Chinese dishes, plenty of meats, lots of fruit, a chocolate fountain, a solid salad bar, and a few soups.
-      
-      Very tasty overall and nothing negative to say.  The place was so so busy on a snowy Saturday.
+      honestly it’s better to pay a little more to go here for unlimited food vs spending $15–$20 at WEM’s food court on subway or chic fil a. Plus, it’s only a 2 minute drive from wem.
 ---

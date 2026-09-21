@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/coronation-physiotherapy-1.jpg", "/photos/coronation-physiotherapy-2.jpg", "/photos/coronation-physiotherapy-3.jpg"]
 rating: 4.8
-review_count: 101
+review_count: 102
 price_range: "$$"
 amenities:
 

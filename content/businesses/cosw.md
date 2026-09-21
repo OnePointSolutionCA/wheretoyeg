@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/cosw-1.jpg", "/photos/cosw-2.jpg", "/photos/cosw-3.jpg"]
 rating: 4.9
-review_count: 624
+review_count: 636
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -51,8 +51,8 @@ reviews:
     rating: 5
     comment: |
       Great cookies. One of the best I have had in a while. Owner seems nice and friendly. Will come back and support this place every time I visit Edmonton.
-  - name: "Tam Bui"
+  - name: "Davin Yu"
     rating: 5
     comment: |
-      The cookies are fresh, good portion, and not too sweet. The owner is also very nice and friendly too. Would recommend to return.
+      Cookies were delicious and owner was super friendly! Definitely will come back!
 ---

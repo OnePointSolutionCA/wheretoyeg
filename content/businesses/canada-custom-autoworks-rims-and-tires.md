@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Spruce Grove"
 address: "495 South Ave Unit 156, Spruce Grove, AB T7X4G2"
 rating: 4.9
-review_count: 905
+review_count: 908
 tier: "featured"
 phone: "(587) 461-6255"
 website: "https://canadacustomautoworks.com/"

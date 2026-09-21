@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Castle Downs"
 address: "15393 Castle Downs Rd NW, Edmonton, AB T5X 6C3"
 rating: 4.8
-review_count: 444
+review_count: 446
 tier: "featured"
 phone: "(780) 457-6677"
 website: "https://cvcyeg.com/locations/lakeside-castledowns/"
@@ -21,6 +21,14 @@ reviews:
       It's not often that you find a healthcare professional who is not only highly skilled but also so approachable and genuinely invested in her patients. Dr. Giang is truly an amazing optometrist, and I thoroughly enjoyed my appointment with her.
       I would highly recommend Dr. Giang and the entire team at Capital Vision Care to anyone looking for outstanding eye care. Thank you for making my visit such a positive experience!
       Ed Moge
+  - name: "Olimpia"
+    rating: 5
+    comment: |
+      Amazing Experience at Capital Vision Care!
+      
+      We had such an amazing experience at Capital Vision Care Lakeside! Dr. Allec Fayad was absolutely wonderful with my two young kids—so patient, kind, and caring. He made them feel comfortable and made the whole experience so positive.
+      
+      Thank you for the great service and wonderful care! Highly recommend! 👏❤️
   - name: "Michel Hetu"
     rating: 5
     comment: |
@@ -31,10 +39,6 @@ reviews:
       I had a wonderful experience with Dr. Giang and her team. Dr. Giang is incredibly kind, knowledgeable, and took the time to thoroughly answer all of my questions. She made me feel comfortable throughout the entire appointment and clearly cares about her patients’ eye health.
       
       The staff were also fantastic—patient, friendly, and helpful while I took my time choosing a new pair of glasses. They offered great suggestions without any pressure and made the process enjoyable. I highly recommend Dr. Giang and her office to anyone looking for professional, compassionate eye care.
-  - name: "Thea"
-    rating: 5
-    comment: |
-      Wonderful experience!! They are so incredibly kind and helpful! Samantha Giang is so wonderful and listens to all your concerns. She has helped me so much and I’m so grateful! Customer service is wonderful and they are able to hot glue my frames that I snapped beyond repair (by my own asking because I will need a new one lol). Super grateful for this clinic and all the hard work they do :)
   - name: "Wendy Bowman"
     rating: 5
     comment: |

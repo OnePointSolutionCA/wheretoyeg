@@ -14,6 +14,10 @@ google_maps: "https://maps.google.com/?cid=6980571609552959120&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/dental-elements-mill-woods.jpg"
 reviews:
+  - name: "B h"
+    rating: 5
+    comment: |
+      Time to give this group , an honest review,, dentistry is a tough one ,, it tends to give alot of people alot of anxiety and for good reason. Expectation of pain and cost, are 2 of the biggest reasons. Fortunately when a patient see's Dr Bryan, and his trusted assistant Kayla ,, neither come up ☺️👍🏼 Bryan is at the height of his career and his experience and skill , show with every visit. NO pain just expert workmanship,a true professional, and along with Kayla's help who makes you comfortable and confident as soon as you sit in the chair you've got a perfect pairing. Diane greets u at the door and takes great care of you as u get ready to go in and looks after the billing and appointments, this whole team , makes what alot of people view as misery , a complete experience that ends in total satisfaction🌝👍🏼
   - name: "Joan Rose"
     rating: 5
     comment: |
@@ -30,10 +34,6 @@ reviews:
     rating: 5
     comment: |
       Great experience at Dental Elements!  Dr. Layton and his team were very professional and made my appointment enjoyable and comfortable.  Office was a great space, modern and well setup.  Will definitely be returning for my regular check ups and dental work!
-  - name: "Ann Hynes"
-    rating: 5
-    comment: |
-      Dr Layton is an excellent dentist. Our family has been going there for some time and we have complete confidence in his knowledge and skill. The whole staff is professional and friendly. I would recommend Dental Elements to anyone.
 hours:
   monday: "8:00 AM–4:00 PM"
   tuesday: "8:00 AM–4:00 PM"

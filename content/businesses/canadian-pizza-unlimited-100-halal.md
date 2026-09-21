@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "9710 137 Ave NW Unit 102, Edmonton, AB T5E 6W1"
 rating: 4.5
-review_count: 209
+review_count: 210
 tier: "featured"
 phone: "(780) 249-1122"
 website: "https://canadianpizzabroasterchicken.ca/menu-inkster.html"
@@ -18,6 +18,10 @@ reviews:
     rating: 5
     comment: |
       The Northgate location has a great walk-in deal: a large 3-topping pizza for $14.99. You can call ahead or wait just 10 minutes for pick-up. It’s consistent quality, fast, and doesn't break the bank. When they made a slight mix-up on my order recently, I called after getting home and they made it right immediately with zero hassle. Great service—support your local Canadian businesses!
+  - name: "Leah Houchin"
+    rating: 5
+    comment: |
+      What a great experience! Took our granddaughter on a mini vacay. This place was next to our hotel. One of the nights it was 11:40 before we returned. The gentleman working was obviously getting ready to close. Super friendly and said of course will make you a fresh pizza! And it was one of the best we’ve had. Thank you for great service and kindness! Highly recommend!
   - name: "Moe Sandouga"
     rating: 3
     comment: |
@@ -30,14 +34,6 @@ reviews:
     rating: 5
     comment: |
       “Great place! I bought a pizza slice and it was fresh, delicious, and reasonably priced. The man who served me was very friendly, polite, and provided excellent customer service. I had a great experience and will definitely come back. Highly recommended! 👍🍕”
-  - name: "Laddi Sidhu"
-    rating: 5
-    comment: |
-      We ordered a large pizza along with wings and drinks, and honestly, it’s rare to find such an affordable combo these days.
-      
-      The pizza tasted really good, with perfectly melted cheese and a nice balance of soft and crispy crust. The wings were juicy and well-cooked, not dry at all. The portion size was also quite satisfying.
-      
-      Overall, the quality and taste were impressive for the price. We’ll definitely be ordering again.
 hours:
   monday: "11:00 AM–12:00 AM"
   tuesday: "11:00 AM–12:00 AM"

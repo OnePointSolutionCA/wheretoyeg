@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Beverly"
 address: "10158 90 St NW #101, Edmonton, AB T5H 1R7"
 rating: 4.3
-review_count: 884
+review_count: 883
 tier: "featured"
 phone: "(780) 761-8700"
 website: "https://dogpatchyeg.ca/"

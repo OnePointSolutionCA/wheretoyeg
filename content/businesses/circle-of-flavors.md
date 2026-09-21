@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–3:00 AM"
 photos: ["/photos/circle-of-flavors-1.jpg", "/photos/circle-of-flavors-2.jpg", "/photos/circle-of-flavors-3.jpg"]
 rating: 4.8
-review_count: 406
+review_count: 411
 price_range: "$"
 amenities:
   - "Halal"

@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Windermere"
 address: "6004 Currents Dr NW, Edmonton, AB T6W 0L9"
 rating: 4.3
-review_count: 4814
+review_count: 4821
 tier: "featured"
 phone: "(780) 229-4800"
 website: "http://www.shopcurrents.ca/"
@@ -42,8 +42,8 @@ reviews:
       Friendly staff and just a positive vibe at this store. Loved it!
       
       Definitely recommend it!
-  - name: "Justin Tyler"
+  - name: "Orange"
     rating: 5
     comment: |
-      Beautiful shopping destination located in south of Edmonton just off Anthony henday and terwillegar Drive. Beautiful park just behind cineplex and they have music outside. Everything you need is here like winners and Homesense, Walmart, cabelas, London drugs, Canadian tire etc. If you’re a foodie lovers there’s Keg, Brown Social House, Montanas, Boston Pizza etc.
+      I love whole Windermere area , currents. My  all time grocery store to go in my daily routine
 ---

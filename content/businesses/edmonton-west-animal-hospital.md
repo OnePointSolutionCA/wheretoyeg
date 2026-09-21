@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–6:00 PM"
 photos: ["/photos/edmonton-west-animal-hospital-1.jpg", "/photos/edmonton-west-animal-hospital-2.jpg", "/photos/edmonton-west-animal-hospital-3.jpg"]
 rating: 4.6
-review_count: 2321
+review_count: 2324
 price_range: "$$"
 amenities:
 
@@ -35,14 +35,14 @@ reviews:
       They have helped support our furry friends through all of their difficulties, big and small and were especially caring and sympathetic during our pets most difficult times.  Our cat Tiger lived until she was 19. Their proactive and attentive care helped her navigate several health problems and eventually allowed us help her peacefully cross the rainbow bridge. More recently, our dog Banshee, age 13, has been given a new lease of life thanks to their expert management of chronic pancreatitis and hypothyroidism. Thanks to their treatment, Banshee gets to engage in all of her favourite old hobbies that her illness briefly prevented her from enjoying.
       Finally, they went above and beyond in helping us transport our pets to the UK.  In order to transport our pets, we needed to ensure they were in good health and that all of their correct documentation was in order. Despite how complicated this could be at times, they helped support us through all of this.
       We are incredibly grateful for their compassion, expertise, and dedication over the years. Highly recommended to anyone looking for a veterinary team that genuinely cares. :)
+  - name: "Amy Sherstobitoff"
+    rating: 5
+    comment: |
+      Dr. Robert King treated our small cat at five months old for Poisoning after she drank medication for my child. The clinic was extremely fast at getting our kitten in dealing with the situation calmly assessing things giving me a full rundown with the actual doctor and giving me upfront costs as there was no surprise Bill they took very good care of her all day and dr. King made sure to touch base with me. I felt like I was heard understood and valued. It was a warm inviting atmosphere and I am generally grateful that they were able to help us out.
   - name: "Jacqueline Odera"
     rating: 5
     comment: |
       My Auggie is a spicy gal. She has fought treatment every step of the way but the staff at Edmonton West Animal Hospital have made this process so much easier. They do not surprise you with costs and will give you a full breakdown of treatment prior to giving the treatment. They are empathic and very kind to cat-moms like me with anxiety about these sorts of things. From the ladies at the front desk, to the vet techs, to the doctors, every person in this business has compassion and empathy like no other. We thank you!!
-  - name: "Brittany Ballas"
-    rating: 5
-    comment: |
-      Our dog has undergone TPLO surgery here for both of her back legs and I couldn’t be more thankful for this clinic. The surgeon did a fantastic job, and she’s healed up great both times. They were very transparent about cost, and provided so much support post operation. For the most part the reception staff are good, I think they’ve hired some new staff so there has been some miss communication but the ladies that have been there since her surgery last year are wonderful. They have fair prices and I’ve never had trouble getting in for an appointment, even when I’ve had to reschedule last minute.
   - name: "Виктория Слюсарева"
     rating: 5
     comment: |

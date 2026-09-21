@@ -25,14 +25,14 @@ reviews:
     rating: 1
     comment: |
       Had my tire punctured and called these guys to see if I could get it fixed in a pinch. They said they would get back to me after checking their tire inventory, however, they never called back and proceeded to decline my calls after I tried to get an update. If you can’t do the service at least inform me!
-  - name: "Helena Hanrys"
-    rating: 5
-    comment: |
-      This guy is hard worker. It was very cold outside and snowing, and even though I called at 2 AM, he came to Sherwood Park and fixed my tire. Thank you.
   - name: "nicholas hannah"
     rating: 5
     comment: |
       Came out an hour out if town and stayed till the job was done couldn’t recommend someone better!
+  - name: "daniels chike"
+    rating: 1
+    comment: |
+      They're very unprofessional! The service man Umut gave me a $120 quote over the phone, after repairs he put up a fight insisting I must pay him $150. He coursed and threatened me. He ripped me off of additional $30. Use their service at your own risk!
 hours:
   monday: "Closed"
   tuesday: "Closed"

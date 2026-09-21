@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "9337 45th Ave NW, Edmonton, AB T6E 5Z7"
 rating: 4.8
-review_count: 45
+review_count: 48
 tier: "featured"
 phone: "(587) 982-9308"
 google_maps: "https://maps.google.com/?cid=7229705880694688407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -29,10 +29,10 @@ reviews:
     rating: 5
     comment: |
       I had a very positive experience here. The staff was exceptionally friendly and provided me with an honest and competitive price match quote that was even better than Competitor prices. The service was completed much more quickly than anticipated. I highly recommend this tire installation service. I called them the day before and they installed the tires the next day.
-  - name: "Mohammd Aman Mirza"
+  - name: "Jagi"
     rating: 5
     comment: |
-      I recently went there to change my tires and get them balanced. The service was quick, professional, and the staff was friendly. They did a great job and made sure everything was done properly. My car drives smoothly after the tire change and balancing. I’m very happy with the service and would definitely recommend this
+      Had my tires changed here recently and couldn’t be happier with the service. The whole process was quick and easy. The pricing was fair. And it’s good to have a reliable tire shop who’s not trying to rip you off. I’ll definitely be coming back for future tire changes and flats and I recommend them to anyone looking for honest, quality work.
 hours:
   monday: "9:30 AM–8:00 PM"
   tuesday: "9:30 AM–8:00 PM"

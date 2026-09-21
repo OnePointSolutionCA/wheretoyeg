@@ -46,8 +46,9 @@ reviews:
     rating: 1
     comment: |
       Went here for breakfast during the week at their opening time of 8am.  Service was terrible the whole time. Coffee tasted like muddy water and was served cold. Food took a long time and was cold. The only thing I liked on the breakfast platter was the dessert item, the rest was not good.
-  - name: "Dr. F.Aliyan"
+  - name: "Meg Aoun"
     rating: 5
     comment: |
-      I love their fatayer and manakesh. I always order them for take-out! So fresh and taste really good. We tried their buffet breakfast and they didn't disappoint. Good variety and choices, wasn't too busy and there was so much food. Spacious seating and good service!
+      I havnt eaten proper Lebanese authentic food in a while!  I cant believe  how tasty and fresh the food was! They actually read the notes in the notes section in the delivery app! , Portions are huge! And we got some delicious free sweets.
+      Will for sure reorder again !! Sorry no photos was busy eating!!
 ---

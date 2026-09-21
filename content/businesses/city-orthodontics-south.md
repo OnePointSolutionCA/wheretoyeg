@@ -21,7 +21,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/city-orthodontics-south-1.jpg", "/photos/city-orthodontics-south-2.jpg", "/photos/city-orthodontics-south-3.jpg"]
 rating: 4.4
-review_count: 294
+review_count: 292
 price_range: "$$$"
 amenities:
   - "Braces"
@@ -47,16 +47,18 @@ reviews:
       The billing process was also seamless, with no issues encountered. Our deposit was promptly refunded once payment was received from both insurance providers. It has now been three months since the procedure, and everything remains in excellent condition. I would highly recommend Dr. Lipon and his team for their professionalism and quality of care
       
       Overall we had a great experience.
-  - name: "Tavis Saito"
-    rating: 1
-    comment: |
-      I'm surprised this place is in business. Daughter had abscess and needed a tooth extraction. We got a referral to this place, and was told they would reach out to make an appointment. 2 weeks later I called to see what was going on. Surprisingly the had lots of appointment space and got us in the next day, they coded the inspection so that it wasn't covered under our benefits and had to be paid out of pocket. We were told the procedure was going to be very expensive and that they would be booking 1-2 months out. We were also told that if the abscess spread, my daughters face would start swelling and to call them if that happened. We were also told that in a few days they would reach out with the quote and to book us in. It has been 30 days now and this business still hasn't reached out with any information. I'm so glad i looked elsewhere and got a second opinion than trusting this place with my daughters dental health. So many other good dr's in the city - don't waste your time here. The place we got our 2nd opinion at had everything covered under our benefits and had the infection dealt with and the tooth out within a week. Crazy to think that its all done and i still haven't heard form this place.
-  - name: "Victoria Dicks"
-    rating: 5
-    comment: |
-      Great location, friendly staff and lots of fun toys/activities for the kids while they are waiting:)
   - name: "Karen Bergman"
     rating: 4
     comment: |
       My grandson has had quite a bit of orthodontic work done here. He’s been treated well. The staff worked hard to get the costs covered by NIHB. When that wasn’t successful they gave my daughter a reduced cost and set up a payment plan she could afford. Thank you City Orthodontics.
+  - name: "H M"
+    rating: 5
+    comment: |
+      We had an amazing experience with Dr. Richard Caldwell and the staff. The clinic is clean and organized. Everyone is professional and friendly, my 5 year old daughter did not feel pain with the nitrous oxide solution. I definitely recommend going to this clinic for kids teeth.
+  - name: "Vita Uong"
+    rating: 1
+    comment: |
+      I was a previous orthodontics patient and I went to a different place to get my cleaning and I was told I had leftover glue on my teeth still, like come on paying a lot of money but getting a bad experience as well as having the people at the front desk having attitude like they don’t want to help you is disappointing and rude. On top of that my sister just had cleaning done a couple weeks ago and the lady who was cleaning her teeth she looked like she didn’t want to clean her teeth at all so it felt like she rushed it, and then at the end it looked like my sister did her own cleaning instead of a professional doing the cleaning, the staff needs to show a little more respect towards patients and actually do a proper job of cleaning, because paying a big amount to her cleaning and not having it done properly it makes it seem like I just wasted my money here. I don’t really recommend coming to this place, after the experience we had with our recent appointment I would never come back to this place and I would rather get a refund because this teeth cleaning is so frustrating along with this experience too. Even tho we have been to this dental clinic a long time and we had never had a bad experience but with the last one, no I will never come back to this place. I did call to complain and all I was told was sorry about that, it’s like they don’t want us as a patient there anyways, if they wanted to keep their patients and having people recommend other people to come here is usually what people want. They could have said that they can fix it for you or something but no they didn’t so yea I am taking my sister to a better clinic and a place where all staff are very professional and kind and they care about there patients.
+      
+      I DONT RECOMMEND COMING HERE IF YOU WANT TO BE DISAPPOINTED
 ---

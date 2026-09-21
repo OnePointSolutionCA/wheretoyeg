@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/cafe-caribbean-1.jpg", "/photos/cafe-caribbean-2.jpg", "/photos/cafe-caribbean-3.jpg"]
 rating: 4.8
-review_count: 175
+review_count: 177
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -37,14 +37,14 @@ reviews:
       (I ended up with a A because of you!)
       
       Other customers were very happy of their meals, I attached some pictures of it, one is braised pork and the other is chicken curry
-  - name: "L E"
-    rating: 5
-    comment: |
-      Came here out of curiosity and was not disappointed. The staff recommended we try doubles and it was delicious, it was our first time trying this type of cuisine. Service was fantastic. So friendly and welcoming! The sorrel was refreshing and sweet. Will definitely return to try some of the other dishes and drinks. Thanks again!!
   - name: "Olivia"
     rating: 5
     comment: |
       The place has a cozy vibe. The owners are delightful. The food was good, we have never had a curry with a hint of sweetness, the other curries we had tried in the past was all savoury. This was a good change. Thank you again for a a taste of Trinidad!
+  - name: "LN"
+    rating: 5
+    comment: |
+      Came here out of curiosity and was not disappointed. The staff recommended we try doubles and it was delicious, it was our first time trying this type of cuisine. Service was fantastic. So friendly and welcoming! The sorrel was refreshing and sweet. Will definitely return to try some of the other dishes and drinks. Thanks again!!
   - name: "Joel Routledge"
     rating: 5
     comment: |

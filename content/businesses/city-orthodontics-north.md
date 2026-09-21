@@ -21,7 +21,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/city-orthodontics-north-1.jpg", "/photos/city-orthodontics-north-2.jpg", "/photos/city-orthodontics-north-3.jpg"]
 rating: 4.6
-review_count: 125
+review_count: 124
 price_range: "$$$"
 amenities:
   - "Braces"
@@ -37,14 +37,6 @@ featured: true
 active: true
 date_listed: "2026-08-17"
 reviews:
-  - name: "Abdul Rahman"
-    rating: 5
-    comment: |
-      I had a wonderful experience at this dental clinic. The entire team was friendly, professional, and caring. I would especially like to thank Dr. Ammar and his assistant for their outstanding care.
-      
-      My 4-year-old daughter received treatment from Dr. Ammar, and the whole experience was smooth and completely pain-free. The use of nitrous oxide helped her feel relaxed and comfortable throughout the procedure. Dr. Ammar and his assistant were extremely patient, gentle, and professional, making both my daughter and me feel at ease.
-      
-      I am very grateful for the excellent care they provided, and I will definitely be bringing my other daughter to Dr. Ammar for her dental treatment as well. Highly recommended
   - name: "Alda Flores Noyola"
     rating: 5
     comment: |
@@ -59,6 +51,14 @@ reviews:
       I also really appreciate how clearly he communicates with parents. He takes the time to explain everything thoroughly, answers questions, and makes sure you understand what is going on without ever making you feel rushed or overwhelmed.
       
       Dr. Lipon has created such a positive experience for our family, and I’m so grateful we found him. If you’re looking for a pediatric dentist who is incredible with kids and truly cares about his patients, I cannot recommend Dr. Lipon enough. He is an absolute gem! ⭐️⭐️⭐️⭐️⭐️
+  - name: "Abdul Rahman"
+    rating: 5
+    comment: |
+      I had a wonderful experience at this dental clinic. The entire team was friendly, professional, and caring. I would especially like to thank Dr. Ammar and his assistant for their outstanding care.
+      
+      My 4-year-old daughter received treatment from Dr. Ammar, and the whole experience was smooth and completely pain-free. The use of nitrous oxide helped her feel relaxed and comfortable throughout the procedure. Dr. Ammar and his assistant were extremely patient, gentle, and professional, making both my daughter and me feel at ease.
+      
+      I am very grateful for the excellent care they provided, and I will definitely be bringing my other daughter to Dr. Ammar for her dental treatment as well. Highly recommended
   - name: "Cayley East (Shining Moon Immigration)"
     rating: 5
     comment: |

@@ -43,12 +43,16 @@ reviews:
     comment: |
       Wandered over to this restaurant with a group of 4 of us and we were welcomed with a friendly smile and told to sit down and they would come to the table to take our order. Sweetest ladies served us and the fried goat, chicken, red fish snapper and pork were all great!!
       The restaurant is small but you can tell that there is a lot of love in their food. A good home cooked carribean meal is just what the doctor ordered!!
-  - name: "Aaron Marko"
-    rating: 5
-    comment: |
-      Love this place! I got an order of chicken with rice and plantain. Absolutely delicious. There's a great selection of dishes and the staff were warm & welcoming. If you're looking for a plate of something great, make this restaurant a must visit.
   - name: "Aniya Larose"
     rating: 5
     comment: |
       I live in Calgary and EVERYTIME I go to Edmonton I HAVE to go and get a plate some of THE BEST Haitian food I have had
+  - name: "Drew Wolsey"
+    rating: 4
+    comment: |
+      We tried to go to a Jamaican restaurant on 118 Ave, but it was closed. So, we tried this one because it was just a few blocks away.
+      
+      I had the fried pork, rice/beans, and fried plantains. It was quite tasty.
+      
+      My only complaint was some confusion on the price. The meal pictured here was listed in the menu for $23. But when I went to pay it was $30. I questiones this and was told the rice had been upgraded. I hadn't asked for this upgrade, but decided to leave it alone. Food was good, but this is not a great way to get repeat customers.
 ---

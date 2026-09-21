@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Windermere"
 address: "20023 Lessard Rd, Edmonton, AB T6M 0K4"
 rating: 4
-review_count: 533
+review_count: 535
 tier: "featured"
 phone: "(825) 523-9638"
 website: "http://cafearia.ca/"
@@ -26,10 +26,6 @@ reviews:
     rating: 4
     comment: |
       Most of the food items were pretty good. Really liked the Eggs Benedict and Trench Toast. Pancakes were average and brewed coffee was quite underwhelming. The atmosphere is nice and service is quite good.
-  - name: "Lynde Tagle"
-    rating: 5
-    comment: |
-      I like the concept of the place. Those fries of theirs are amazing as it was simple yet has a kick to it because of the cheese.  I would’ve loved the hot chocolate if it was warmer or hotter though. And the staff just took away dishes without even asking if we were done, so that was not okay. Courtesy wise my friend on customers talking and still dining please.
   - name: "Maddy Phaurest"
     rating: 3
     comment: |
@@ -52,6 +48,10 @@ reviews:
       This location is a newer-developed area, and it would be really nice to have a local, non-chain little breakfast/brunch/cafe. I just wish either the portion or quality reflected the price or vice versa.
       
       That being said, I'll give this place at least one more try in the future, but I think the fact that so many people leaving reviews with concerns over the prices is fairly telling. For the food items above and two drip coffees and a latte, we spent around $92 before any tax or tip on breakfast.
+  - name: "Tariq Almaashi"
+    rating: 5
+    comment: |
+      I had the Salmon Egg Benedict and it was very delicious. Coffee was also good. The service was amazing. Very friendly staff. Nice setting. Highly recommended
 hours:
   monday: "9:00 AM–11:00 PM"
   tuesday: "9:00 AM–11:00 PM"

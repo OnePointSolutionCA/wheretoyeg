@@ -10,7 +10,7 @@ neighborhood: "Edmonton"
 phone: "(780) 452-6341"
 google_maps_url: "https://maps.google.com/?cid=8423561838604733467&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM–10:00 PM"
+  monday: "7:00 AM–9:00 PM"
   tuesday: "7:00 AM–10:00 PM"
   wednesday: "7:00 AM–10:00 PM"
   thursday: "7:00 AM–10:00 PM"
@@ -19,7 +19,7 @@ hours:
   sunday: "7:00 AM–10:00 PM"
 photos: ["/photos/corner-car-wash-1.jpg", "/photos/corner-car-wash-2.jpg", "/photos/corner-car-wash-3.jpg"]
 rating: 4.4
-review_count: 438
+review_count: 439
 price_range: "$$"
 amenities:
 
@@ -40,7 +40,7 @@ reviews:
     rating: 5
     comment: |
       I drove 20 mins from my place just to get a car wash to this place, and id day it's  worth the drive! Like once a month lol. They're actually cheap compared to other places and the water pressure is really strong, I've seen lots of car wash that has original equipment but the water pressure is weak. Hats off to this place! Will definitely buy their gift cards just to save a little bucks!
-  - name: "P K"
+  - name: "RoamingAround"
     rating: 1
     comment: |
       Good car wash overall. But don't use credit card here, they changed me 14.95. On the machine display final bill was 4 dollars only. Use cash only.

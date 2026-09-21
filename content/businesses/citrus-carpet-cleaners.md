@@ -5,7 +5,7 @@ category: "cleaning-services"
 neighborhood: "Edmonton"
 address: "9523 133 Ave NW, Edmonton, AB T5E 1C7"
 rating: 5
-review_count: 19
+review_count: 18
 tier: "featured"
 phone: "(780) 994-6420"
 website: "https://citruscarpetcleaners.ca/"

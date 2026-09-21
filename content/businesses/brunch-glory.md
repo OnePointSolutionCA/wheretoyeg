@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Whyte Ave"
 address: "10532 Whyte Ave NW, Edmonton, AB T6E 2A4"
 rating: 4.7
-review_count: 92
+review_count: 93
 tier: "featured"
 phone: "(587) 520-3999"
 website: "http://www.brunchglory.ca/"
@@ -27,12 +27,6 @@ reviews:
     rating: 5
     comment: |
       I had a medical appointment nearby and decided to poke my head in afterword (solo). Service was great, prices were pretty fair. My only complaint is that the club sandwich had "too much," turkey. Though that's just a personal thing, haha, I imagine the vast majority of people would love/appreciate the amount of turkey that was on the sammy. So, of course I'm not docking stars for that!
-  - name: "John Douma"
-    rating: 5
-    comment: |
-      Nice spot on Whyte, well laid out,very attentive staff. I had the soup of the day which was a bacon potato which was very tasty and nourishing on a wintry day.
-      Soup comes in a generous size bowl. I followed with the fish and chips, crust was very good no grease taste and fish was nice and flaky. You get two large pieces of battered fish.
-      My spouse had the 8 oz sirloin, mashed potatoes and vegetables which she thoroughly enjoyed. Her steak was cooked to perfection, the potatoes and gravy were excellent as were the roasted peppers and broccoli. Ayush did an excellent job looking after us. We will have to comeback and try breakfast as the menu looked very interesting.
   - name: "Alyssa Opal"
     rating: 3
     comment: |
@@ -41,6 +35,10 @@ reviews:
       Also my lactose intolerant friend asked for her whipped cream on the side, she said sure, and then it wasn’t on the side. Since we waited for so long we didn’t want to ask for a new one.
       
       The table beside us came while we were waiting for our food, got their food and then paid before she even gave us our bill.
+  - name: "Praveen Ponnukuttan"
+    rating: 5
+    comment: |
+      A wonderful breakfast experience from start to finish. The food was fresh, beautifully presented, and absolutely delicious. Everything we tried was full of flavor and perfectly prepared, which really made the meal enjoyable
 hours:
   monday: "8:00 AM–8:00 PM"
   tuesday: "8:00 AM–8:00 PM"

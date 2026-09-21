@@ -38,10 +38,10 @@ reviews:
     rating: 4
     comment: |
       I moved from Calgary and I've been waiting for them to open in the west side of Edmonton. I'm so glad they are finally opened.
-  - name: "Teri Hong"
-    rating: 5
+  - name: "carolyn bougher"
+    rating: 3
     comment: |
-      Had my first class with Coach Nye! She made me so comfortable for my first time! It was so much fun and we had lots of giggles together with the class! Amazing experience! Thank you Nye 🙏🏼💝🥰
+      At times I found the set up not conducive to performing the correct way I.e. e, laying on a mat with no sight line and not able to hear instructor . Perhaps a microphone would help. Also some instructors are better at demonstrating than others. . The studio was clean and instructors always open to questions . The 4 months improved  my flexibility. Best of luck
   - name: "Courtney “Soccer MOM” B"
     rating: 5
     comment: |

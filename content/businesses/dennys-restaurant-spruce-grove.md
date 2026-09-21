@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Spruce Grove"
 address: "100 Jennifer Heil Way, Spruce Grove, AB T7X 4R3"
 rating: 4.7
-review_count: 744
+review_count: 745
 tier: "featured"
 phone: "(587) 286-5002"
 website: "https://www.dennys.ca/restaurant/alberta/spruce-grove/?utm_source=google&utm_medium=maps"

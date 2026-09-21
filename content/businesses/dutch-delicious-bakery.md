@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/dutch-delicious-bakery-1.jpg", "/photos/dutch-delicious-bakery-2.jpg", "/photos/dutch-delicious-bakery-3.jpg"]
 rating: 4.7
-review_count: 1042
+review_count: 1044
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -39,6 +39,12 @@ reviews:
     rating: 5
     comment: |
       Randomly stopped in this bakery this morning and it definitely did not disappoint! 🥰 Everything smelled amazing as soon as I walked in, and the pastries were absolutely incredible—so fluffy, buttery, fresh, and delicious. You can really taste the quality and care that goes into what they make. Such a wonderful treat and I’ll definitely be stopping by again. Highly recommend checking them out! 🥐✨ apologies for the not so great photo, but I couldn't wait to try it lol 😆
+  - name: "Anat Rabkin"
+    rating: 4
+    comment: |
+      A nice and cheerful location. While the sweet treats have failed to blow us away (decent selection, and tasty, just not as WOW as we had been led to believe), the savory brunch options are delicious. They have a lot of sugar reduced cans of beverages to choose from, which is refreshing.
+      
+      The rest of the place is the Dutch-inspired stuff and I cannot comment on the joy those might bring to people from that part of the world
   - name: "Eva-Joy Schönhaar"
     rating: 5
     comment: |
@@ -55,14 +61,4 @@ reviews:
       Very cool spot in Edmonton. A great discovery!   Food was excellent, service was outstanding! Good value for the price.
       
       Employee named Parker was awesome!
-  - name: "T-Bird"
-    rating: 5
-    comment: |
-      Great Spot!
-      
-      We've visited many times over the years.  The shop is quite large now, compared to when it first opened.  It's in a strip mall.  For diners, there's a great selection of brunch/lunch/desserts - from savory to sweet.  They have a great selection of hot drinks.
-      
-      The staff are all super-helpful and friendly.
-      
-      The store has a great selection of bakery/bread items, and also has a very good selection of Dutch cheeses and 'European' deli food items.  Overall, it's a great spot to both have a light meal, or shop for Dutch/European bakery and deli goods.  We highly recommend Dutch Delicious.
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/dang-good-restaurant-1.jpg", "/photos/dang-good-restaurant-2.jpg", "/photos/dang-good-restaurant-3.jpg"]
 rating: 4.7
-review_count: 1047
+review_count: 1048
 price_range: "$"
 amenities:
   - "Dine-In"

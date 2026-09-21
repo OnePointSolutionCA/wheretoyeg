@@ -32,14 +32,10 @@ reviews:
     rating: 5
     comment: |
       Dave is fantastic. We appreciate his knowledge and thoroughness - and willingness to patiently answer our many questions! Our boiler system is not for the faint of heart and we are happy to have Dave looking after it. He also did a great job installing our new AC unit this summer. Highly recommend.
-  - name: "Suzi Dunn"
+  - name: "Deborah Bennett"
     rating: 5
     comment: |
-      I would like to thank you Capita Pluming for their service. They went far and beyond and we are so happy choosing them. We had a problem with our tank water. They came so fast and replaced with new tank. Wow we were so happy and impressed. Dave and Dominic did an outstanding job. Friendly, professional, hardworking.They deliver so well what they know to the best level.I am so happy I choose this company and I defenetly would recommend them to working in the future. Thank you,Ryan,Dave,and Dominic you are amazing.
-  - name: "Lorette Bruce"
-    rating: 5
-    comment: |
-      Capital was easy to connect with and helpful. Sergio, our Technician, was wonderful!! Very knowledgable,  helpful, friendly and offered options. He worked quickly and efficiently and left everything clean and tidy. We would definitely work with Sergio again.
+      Capital Plumbing has been to our home 6 times in 5 years, every time the work was exemplary! This day, Ryan did a complete Safety Inspection. He replaced our furnace humidifier at a much better value than repair. He replaced my washing machine hoses as we were at risk of a catastrophic failure. He checked absolutely everything in our house!! We feel safer and more secure!
   - name: "Priscilla Bandura"
     rating: 5
     comment: |
@@ -49,4 +45,8 @@ reviews:
     comment: |
       The staff are knowledgeable and friendly and Carlos is amazing he is calm and very efficient.  I’m glad we made the decision to become members with Capital Plumbing
       When the city had a lot of rain our sump pump did not work. David was able to come out and replace it. It gave me peace of mind that my home is protected from the rain but David also assured us as members Capital city will come and inspect it yearly. David is knowledgeable and very friendly. Thank you David!
+  - name: "Muzna Choudhry"
+    rating: 5
+    comment: |
+      We had a great experience with Capital Plumbing & Heating  today. Carlos was fantastic, very knowledgeable, professional, and took the time to clearly explain what was going on with our hot water tank and other plumbing issues. I really appreciated how thorough and patient he was in answering all my questions. Highly recommend Carlos for anyone looking for honest, reliable service!
 ---

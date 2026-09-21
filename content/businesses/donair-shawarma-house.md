@@ -19,8 +19,8 @@ hours:
   saturday: "11:00 AM–12:00 AM"
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/donair-shawarma-house-1.jpg", "/photos/donair-shawarma-house-2.jpg", "/photos/donair-shawarma-house-3.jpg"]
-rating: 4.7
-review_count: 851
+rating: 4.8
+review_count: 852
 price_range: "$"
 amenities:
   - "Halal"
@@ -31,6 +31,10 @@ tags: ["edmonton", "shawarma", "halal"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Pamela Szmyrko"
+    rating: 5
+    comment: |
+      It was so delicious.   Couldn’t eat the whole meal, but definitely coming back!!!!   Had the mixed shawarma plate…everything was fabulous.
   - name: "Lindsey Jimmo"
     rating: 5
     comment: |
@@ -55,9 +59,4 @@ reviews:
     rating: 5
     comment: |
       Excellent food! Had the Donair rice bowl and I was shocked at the amount of meat, it was 2 meals in 1! The workers were also friendly
-  - name: "Fatima Dhooma"
-    rating: 5
-    comment: |
-      Fantastic shawarma spot, and excellent customer service! Fresh food - full of flavour!
-      Highly recommend checking it out!
 ---
