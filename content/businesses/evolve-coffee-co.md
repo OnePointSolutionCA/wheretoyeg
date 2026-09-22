@@ -10,10 +10,10 @@ neighborhood: "Edmonton"
 website: "https://evolvecoffee.co/"
 google_maps_url: "https://maps.google.com/?cid=11542975110155553573&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM–5:00 PM"
-  tuesday: "7:00 AM–5:00 PM"
-  wednesday: "7:00 AM–5:00 PM"
-  thursday: "7:00 AM–5:00 PM"
+  monday: "7:00 AM–4:00 PM"
+  tuesday: "7:00 AM–4:00 PM"
+  wednesday: "7:00 AM–4:00 PM"
+  thursday: "7:00 AM–4:00 PM"
   friday: "7:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
@@ -29,6 +29,16 @@ tags: ["edmonton", "specialty"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Annika W"
+    rating: 5
+    comment: |
+      Love this cafe! Super chill environment with lots of seating and free parking which is such a plus! Great space to study or work
+      
+      For anyone who is interested, for syrups they have vanilla, salted caramel, cinnamon, and sugar free vanilla! Iced or hot for all drinks!
+  - name: "Sarah-Jeanne Bélec"
+    rating: 5
+    comment: |
+      Stumbled upon this cafe this morning, and I can honestly say the coffee was amazing. Very smooth and delicious! The last time I had such great coffee was in Vancouver in 2022. Staff member was friendly and service was great!
   - name: "Bridget Isacs"
     rating: 5
     comment: |
@@ -41,12 +51,4 @@ reviews:
     rating: 5
     comment: |
       The best cafe! Great team and I love their vibe. The baristas are kind and care deeply about the customers.
-  - name: "Riley Zantingh"
-    rating: 5
-    comment: |
-      Evolve Coffee is seriously one of the best coffee spots around! ☕️ The coffee is amazing, the atmosphere is so welcoming, and the people there are even better. You can tell there’s a genuine passion behind everything they do, and it makes the whole experience feel different from your typical coffee shop. Whether you’re grabbing a coffee, hanging out with friends, or just looking for a great place to relax, Evolve is definitely worth checking out. 10/10 would recommend!
-  - name: "Jonathon Brozny"
-    rating: 5
-    comment: |
-      Great little shop in the research park. Definitely worth checking out!
 ---

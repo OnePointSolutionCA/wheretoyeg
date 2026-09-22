@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–7:00 PM"
 photos: ["/photos/hus-noodle-nook-1.jpg", "/photos/hus-noodle-nook-2.jpg", "/photos/hus-noodle-nook-3.jpg"]
 rating: 4.7
-review_count: 424
+review_count: 426
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -42,18 +42,10 @@ reviews:
     rating: 5
     comment: |
       Had a great experience here! I ordered the Spicy Garlic Ramen, and it was absolutely delicious. The broth was rich, flavorful, and had just the right amount of spice and garlic. What really stood out to me was the texture of the ramen noodles—they were perfectly chewy and cooked just right. The shrimp tempura was also light, crispy, and paired really well with the meal. The food was fresh, beautifully presented, and the service was friendly. I'll definitely be coming back to try more items on the menu. Highly recommend for anyone craving great ramen!
-  - name: "Pepe M"
+  - name: "Xsawna Xaysana"
     rating: 5
     comment: |
-      It was packed when we cane here. The ramen was very good. I'd like to come back here when I'm in edmonton again to try Hu's beef noodle.
-      
-      The space was not exactly big but they managed to fit all those customers without feeling too close to each other.
-      
-      Appies were great, spring rolls tasted like costco (tasted generic) chicken kataage and tofu were very good, all noodles and drinks including their japanese tea were very very very good.
-      
-      For a party of 6 people, all main, 6 appies, and everyone had drinks, we only paid $176 taxes and tip in. It's very reasonably priced and the quality is very good.
-      
-      Will definitely be back!
+      I’ve been coming here for a few years and it’s really my favourite spot! The spicy garlic miso ramen and chicken kaarage are my go tos, there’s great daily specials and the servings are generous. I see the same server every time, Rita is the absolute sweetest!! Amazing service all around here 😊
   - name: "Kayla"
     rating: 5
     comment: |

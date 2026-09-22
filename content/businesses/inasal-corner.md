@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/inasal-corner-1.jpg", "/photos/inasal-corner-2.jpg", "/photos/inasal-corner-3.jpg"]
 rating: 4.6
-review_count: 294
+review_count: 296
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -44,6 +44,10 @@ reviews:
     rating: 5
     comment: |
       I'm impressed with the restaurant's vibe. It's cozy and cool. Ordered the pork sisig, chicken inasal and the Halo-Halo, a bit pricey but you get what you paid for. Service is good as well. Staff is nice and accommodating. Even the washroom is clean and tidy.
+  - name: "Erika B"
+    rating: 4
+    comment: |
+      Food was good. All came out hot and delicious. Quick and friendly service. Thank you for the delicious taste if home!
   - name: "khikhoe valencia"
     rating: 5
     comment: |
@@ -54,8 +58,4 @@ reviews:
     rating: 5
     comment: |
       The food was really good and the staff was kind i would love to come back again!
-  - name: "C Roaquin"
-    rating: 5
-    comment: |
-      Very busy because it’s so yummy. There is always takeout if the tables are full. Filipino Grilled Chicken and Pork that has has been marinated for a day is full of delicious flavor. So happy to support local.
 ---

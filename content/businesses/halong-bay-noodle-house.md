@@ -6,7 +6,7 @@ subcategory: "vietnamese"
 neighborhood: "Castle Downs"
 address: "16971 127 St, Edmonton, AB T5X 5P5"
 rating: 4.1
-review_count: 659
+review_count: 660
 tier: "featured"
 phone: "(780) 371-6800"
 website: "http://www.halongbaynoodlehouse.ca/"
@@ -22,10 +22,6 @@ reviews:
     rating: 5
     comment: |
       I ordered chicken salad rolls to start, large size & flavourful sauce with a good amount of crushed peanuts in it. Had a delicious Vietnamese drip coffee - iced with sweetened condensed milk, yum yum 🤤 and for the finale was a beef noodle satay. The soup had delicious noodles, beef, cilantro, basil, bean sprouts, green onion and cucumbers in it. The texture was thicker & creamy which I love! I have tried so many satay soups around the city, and nothing compares. I used to drive out to drayton valley for beef satay pho, thankfully I no longer have to drive that far. The location for this awesome restaurant is just off the henday which makes for a quick stop for me when I’m in the city. We had a lovely server named Jenny, she was kind with a beautiful smile! Can’t wait to go back again.
-  - name: "Russ Webb"
-    rating: 5
-    comment: |
-      My wife had been here once before and was excited to take me.  I was super impressed. The quality of the food is incredible. The veggies are fresh and crisp, the portions are huge, and the coconut rice was a perfect side. Everyone needs to try this place at least once.  If Vietnamese is not for you, all good, but I'll bet you'll change your mind after trying this place!  Best I've had in town!
   - name: "Yusseph Gavacs"
     rating: 5
     comment: |
@@ -34,6 +30,10 @@ reviews:
     rating: 5
     comment: |
       We loved our meal here. I ordered the M1 stir fried vegetables and chicken with crispy egg noodles, my partner ordered a build your own noodles bowl, and we got salad rolls and spring rolls as an appetizer. The food is incredible. The salad rolls were so good, usually chicken salad rolls are a bit bland but these ones were so good and flavourful. Best spring rolls I think I've ever had bar none. Can't wait to come back!
+  - name: "Kathryn White"
+    rating: 5
+    comment: |
+      I heard good things about this place so I had to check it out! I ordered both the wonton soup and the one with the egg noodles. Oh my goodness!!! Delicious 🤤 you can taste the care that goes into the food! Both dishes were well portioned and super filling! Staff were amazing and kind, the atmosphere was spacious, clean, and calming. I 100% recommend checking this cute place out! I also loved the organization that went into packaging my takeout order. They kept everything seperate, even the broth 🩵 it was so thoughtful and cute. Thank you to the lady at the counter and thank you to the kitchen staff. I will be back with a hungry appetite and I will be telling all my friends and family.
 hours:
   monday: "11:00 AM–8:00 PM"
   tuesday: "11:00 AM–8:00 PM"

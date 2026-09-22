@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "13560 Fort Rd NW, Edmonton, AB T5A 1C5"
 rating: 4.7
-review_count: 72
+review_count: 73
 tier: "featured"
 phone: "(780) 999-1003"
 google_maps: "https://maps.google.com/?cid=230405725779518153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -24,14 +24,14 @@ reviews:
       Everything is absolutely for a symbolic price, which cannot be found in Edmonton.
       Separately, there is a VIP room where a group of people can spend time in a private room with comfortable sofas, 2 TVs, a playstation and VR.
       What's especially nice is that if you're thirsty or hungry, you can order drinks and snacks for an absolutely reasonable price
-  - name: "Abigail Liboiron"
-    rating: 1
-    comment: |
-      I visited on a Friday. The employees were engaged in loud conversations and FIFA gameplay, creating a boisterous atmosphere, especially since no other customers were present. The lack of music and overly bright lighting detracted from the ambiance. I believe a more engaging environment, perhaps with diverse music selections, would enhance the experience. A broader gaming selection would make the environment way better there was like a couple games otherwise I rather just play at home the environment wasn't compelling enough to stay.
   - name: "Ahmad El Ahmad"
     rating: 1
     comment: |
       Fam worse place I did book a room and when I get there they said it’s not available like come on at lest answer the phone or do ur work good
+  - name: "Abigail Liboiron"
+    rating: 1
+    comment: |
+      I visited on a Friday. The employees were engaged in loud conversations and FIFA gameplay, creating a boisterous atmosphere, especially since no other customers were present. The lack of music and overly bright lighting detracted from the ambiance. I believe a more engaging environment, perhaps with diverse music selections, would enhance the experience. A broader gaming selection would make the environment way better there was like a couple games otherwise I rather just play at home the environment wasn't compelling enough to stay.
   - name: "Paddy"
     rating: 5
     comment: |

@@ -5,7 +5,7 @@ category: "barbers"
 neighborhood: "Castle Downs"
 address: "13733 127 St, Edmonton, AB T6V 1A8"
 rating: 4.5
-review_count: 227
+review_count: 228
 tier: "featured"
 phone: "(780) 476-7010"
 google_maps: "https://maps.google.com/?cid=5105212388965895191&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

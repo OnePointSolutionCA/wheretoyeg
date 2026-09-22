@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Beverly"
 address: "13401 34 St NW, Edmonton, AB T5A 2P8"
 rating: 4.5
-review_count: 200
+review_count: 201
 tier: "featured"
 phone: "(780) 203-2512"
 website: "https://www.graysonsmobileservices.com/"
@@ -37,10 +37,10 @@ reviews:
     rating: 5
     comment: |
       Gotta say from initial contact to completion to work performed, they did a great job. Responded quickly, arrived same day, got right to work testing my charging system, promptly went and got the required parts, came back and completed in good time. very happy with the result.  Will be using them again and  would highly recommend. Thanks Chris
-  - name: "Antony Salib"
-    rating: 5
+  - name: "Chuck Carels"
+    rating: 4
     comment: |
-      They are very efficient and helpful. They stayed in contact with me until they arrived, switched my new battery in a fast and knowledgeable way and were kind to customers. I would definitely recommend Grayson Mobile Mechanic for anyone who is looking for mobile services!
+      They were a tad late. No biggie. They were quick and knowledgeable. Has me fixed up in no time. Saved me a few bucks on parts I didn’t need. Price was bit high but hey ya pay for the mobility
 hours:
   monday: "Closed"
   tuesday: "Closed"

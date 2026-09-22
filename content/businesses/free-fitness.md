@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–12:00 PM"
 photos: ["/photos/free-fitness-1.jpg", "/photos/free-fitness-2.jpg", "/photos/free-fitness-3.jpg"]
 rating: 5
-review_count: 388
+review_count: 389
 price_range: "$$"
 amenities:
 
@@ -45,13 +45,20 @@ reviews:
       
       Vincent’s physiotherapy expertise, combined with Tony’s targeted personal training and Ty’s mobility sessions, has been instrumental in my progress. They are true professionals who provide a coordinated, high-level approach to rehabilitation.
       I highly recommend their services to anyone seeking expert care for serious injuries.
-  - name: "Lynne Knox"
-    rating: 5
-    comment: |
-      Shout out to friends who introduced me to F.R.E.E.
-      The gym is well stocked with all you need to keep your body moving, flexible, conditioned and strengthened.  There are noon classes offered 3 times a week led by 3 different, very seasoned and knowledgeable trainers.  If you want a trainer that fits with your goals … this gym has very dedicated trainers to suit any of your wants or needs at a time fitting you.  Do you want to come in and just do your own exercise regimen?  This gym is for you!  All around great friendly vibe. I highly recommend this gym for any age your at.
   - name: "C C"
     rating: 5
     comment: |
       It’s been a privilege for our family to work with Tony over the past year. I never would have thought that I would be at my strongest and fittest after having a baby, but it’s true, thanks to working with Tony! He is thoughtful with how he pushes and encourages you, as demonstrated by the different workouts and progressions for my mother, who is a senior, and me. The FREE community is lovely and welcoming to boot. Our baby loves the gym!
+  - name: "Altamish Lalani"
+    rating: 5
+    comment: |
+      I felt empowered and focused after having my training sessions at F.R.E.E. Fitness. They truly know how to help you reach your goals.
+      
+      During the pandemic, I needed remote help with my fitness and this business helped me out right away. Fast forward two years later, I came in person to the gym all the way from Calgary, for a guided exercise program and to pickup my new sneakers (which are super comfortable btw).
+      
+      The facility is clean, has lockers, a cool check in area, and has great rates. I love the merchandise collection and the fresh feeling I get from here after an awesome personal workout session.
+      
+      I can’t wait to come back again. It’s totally worth a 300+ km drive for me, and when I’m remotely training. I’m happy to support this local business and totally recommend it to anyone in Edmonton or remotely abroad.
+      
+      Thank you to the F.R.E.E. Fitness team!!
 ---

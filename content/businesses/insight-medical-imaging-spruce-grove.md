@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Spruce Grove"
 address: "505 Queen St #107, Spruce Grove, AB T7X 2V2"
 rating: 4.5
-review_count: 129
+review_count: 131
 tier: "featured"
 phone: "(780) 669-2222"
 website: "https://x-ray.ca/location/spruce-grove"

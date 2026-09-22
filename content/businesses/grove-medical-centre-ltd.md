@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Spruce Grove"
 address: "187 Hwy 16A Unit 115, Spruce Grove, AB T7X 4P9"
 rating: 4.2
-review_count: 48
+review_count: 49
 tier: "featured"
 phone: "(780) 962-4455"
 google_maps: "https://maps.google.com/?cid=1050534837426151240&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

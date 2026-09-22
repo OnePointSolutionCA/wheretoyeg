@@ -28,6 +28,10 @@ tags: ["edmonton", "health-food"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Abounding Health"
+    rating: 5
+    comment: |
+      The staff here is wonderful. So knowledgeable and helpful. There are also many services that are reasonably priced. I also love the Eminence skin care and their selection is massive.
   - name: "PD Moffat"
     rating: 5
     comment: |
@@ -49,8 +53,4 @@ reviews:
     rating: 5
     comment: |
       I popped in to Health Matters to purchase more Magnesium bi glycinate, I spoke to Paul, who was approachable and very knowledgeable, I had many questions and he answered them all…I would like to learn more about supplements…I’ll be watching for the next class!
-  - name: "sybil mchale"
-    rating: 4
-    comment: |
-      John is very knowledgeable and will spend time with you explaining what will help and what to buy for a successful outcome
 ---

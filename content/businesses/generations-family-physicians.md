@@ -32,10 +32,6 @@ reviews:
     rating: 5
     comment: |
       I’ve been a patient of Dr. Tomcej for 4 years now and cannot find the right words to express my gratitude to her. She’s such a devoted, smart, and empathetic doctor. It’s hard to find a medical specialist nowadays who carefully listens to you and genuinely strives to find a solution. Thank you so much for your empathy and emotional support when I needed that :)
-  - name: "Jeannie Cabral"
-    rating: 5
-    comment: |
-      Great staff and location.  Casey at reception/manager is very friendly and easy to talk to.
   - name: "Mar NC"
     rating: 5
     comment: |
@@ -46,6 +42,10 @@ reviews:
       Dr. Veronica Tomcei is probably the best doctor I've ever had. Very knowledgeable; listens to my questions and concerns without judgement; and makes sure I get as much out of my 20 minute visit possible. Highly recommend her if you can get her.
       
       The clinic itself is also nice. Good-sized and comfortable waiting area with pleasant music on, and the standard inspection rooms you see at a doctor's office. Everything is clean and well-organized. I usually go in the morning and there's hardly anyone there when I am.
+  - name: "Jeannie Cabral"
+    rating: 5
+    comment: |
+      Great staff and location.  Casey at reception/manager is very friendly and easy to talk to.
   - name: "Melissa Megan"
     rating: 5
     comment: |

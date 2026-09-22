@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/hala-salon-1.jpg", "/photos/hala-salon-2.jpg", "/photos/hala-salon-3.jpg"]
 rating: 5
-review_count: 484
+review_count: 486
 price_range: "$$"
 amenities:
 
@@ -36,16 +36,6 @@ reviews:
       I especially appreciated that she did not try to push a service that she did not think would give me the result I wanted. Instead, she focused on protecting the health of my hair, gave me a great haircut, and walked me through practical recommendations for how to care for it and move toward my hair goals in the future.
       
       It was clear that she really cared about getting it right rather than simply doing the most expensive service. I left feeling much more informed about my hair and very happy with the experience. I would absolutely recommend Aralyn and Hala Salon.
-  - name: "J B"
-    rating: 5
-    comment: |
-      I’ve been going to Hala since they first opened, and it’s consistently been nothing short of an amazing experience. Aralyn has created such a beautiful, welcoming, and genuinely positive space -it’s truly a gem.
-      
-      Over the years I’ve seen a few different stylists, but my recent visit with Kiaya has been next-level. She’s the first stylist I’ve fully trusted… like, actually left the salon and didn’t immediately plan my “just a quick wash” at home kind of trust (which says a lot).
-      
-      Also, shoutout to Rachel at the front- so warm, friendly, and on top of everything.
-      
-      Honestly, I can’t recommend Hala enough. 🩷
   - name: "Liz Reed"
     rating: 5
     comment: |
@@ -58,4 +48,14 @@ reviews:
     rating: 5
     comment: |
       Katie did an amazing job! She was knowledgeable, kind, and incredibly talented. She took the time to listen to exactly what I wanted and what I didn’t want, and she made me feel comfortable throughout the entire appointment. Hala Salon is bright, beautiful, and exceptionally clean, and all of the staff seemed super friendly and welcoming. I absolutely love my hair and will definitely be back!
+  - name: "Снежана Изотова"
+    rating: 5
+    comment: |
+      I would like to thank everyone at this beauty salon!
+      
+      I am very happy with my hair color. My hairstylist did an amazing job and helped me choose the perfect color. She explained everything clearly and gave me professional advice. I really appreciated that she didn’t rush the process because she wanted to keep my hair healthy and avoid damaging it.
+      
+      The senior stylist was also very kind, respectful, and attentive. All of the staff were friendly, welcoming, and professional.
+      
+      I am so happy that I finally found this beauty salon and my hairstylist. I will definitely come back and highly recommend this salon to everyone. Thank you so much! 🤍
 ---

@@ -56,10 +56,10 @@ reviews:
       It got worse. I went in to pay the renewal fee anyway and asked to speak with a manager. Conveniently, none was available, but they took my number and promised a callback. It never came. Then I was told I also owed a separate bi-weekly membership payment, followed by another invoice for another renewal.
       
       This is predatory billing dressed up as customer service. Why would anyone want to stay loyal to a business they can't trust? I took my membership elsewhere and I'd recommend anyone considering GYMMVMT do the same.
-  - name: "Mikaela Sage Austin"
-    rating: 1
+  - name: "olivia nelson"
+    rating: 5
     comment: |
-      I tried to cancel my membership because I was hospitalized. I called to do it over the phone and they said I needed to come in person. I explained I was unable to as I was in hospital and I would be for awhile. The woman I spoke with confirmed that given the circumstances, she’d cancel my membership. Come to find out they’ve been charging me for months. I then received a text saying I’m behind by $44. I spoke with the manager and got upset saying I was told my membership was cancelled as I’m STILL in hospital. He did not care at all and said I still need to come in person. I’m extremely dissatisfied with the level of honesty and care. Once I am out of the hospital, I will not be returning here.
+      I usually go to the women's only location in tamarack but after grabbing a burger close to West Mount I decided to try this location. Sort of odd to enter through a mall but no big deal (although be aware if you leave after the mall closes you should be parking in the lot closest to the gym entrance). Mack and the other employee (sorry didn't get her name) were helpful and friendly when I came in as I didn't know if my membership allowed me to visit all locations. Mack gave me a quick tour of the gym and I generally had a good experience. I would recommend labelling the random doors in the women's change room (bit of a labyrinth in there) as "storage" or whatever they are so it feels a bit more comfortable.
   - name: "Carson Anderson"
     rating: 5
     comment: |

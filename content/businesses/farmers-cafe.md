@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Mill Woods"
 address: "1648 24 St NW, Edmonton, AB T6T 1J1"
 rating: 4.4
-review_count: 216
+review_count: 221
 tier: "featured"
 phone: "(587) 521-6666"
 google_maps: "https://maps.google.com/?cid=17628819598956462967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -36,10 +36,10 @@ reviews:
       The ambience of the place is modern, warm, and welcoming, and the staff is very friendly as well.
       
       The Farmer’s Cafe definitely gets 5/5 from me.
-  - name: "Khushdeep kaur018"
+  - name: "gursimar kaur"
     rating: 5
     comment: |
-      Had a great experience again at Farmer’s Cafe near my workplace in Laurel. I’ve visited many times and the cafe never disappoints. The interior is beautiful, the place is always clean, and the food tastes fresh and freshly made every time. The staff is very welcoming and friendly, which makes the experience even better. Today I tried the Tikki twist Wrap and it was absolutely delicious. A must-visit place with your loved ones to enjoy a peaceful and relaxing atmosphere.
+      Cafe is really good not too much Expensive and their food is so tasty
 hours:
   monday: "8:00 AM–11:00 PM"
   tuesday: "8:00 AM–11:00 PM"

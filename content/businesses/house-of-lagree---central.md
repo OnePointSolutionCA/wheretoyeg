@@ -28,14 +28,14 @@ tags: ["edmonton", "pilates"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Julie Hallonquist"
-    rating: 5
-    comment: |
-      I love the studio. As soon as you walk in, all of the windows make it so bright and welcoming and the instructors are friendly and helpful. It’s super clean and I love the intensity of the workouts. The legs are shaky!
   - name: "Karen"
     rating: 5
     comment: |
       This is not my home studio but I decided to hit it up for a class after work one day and I was thrilled I did.  Not only is it in a beautiful building and the space feels airy and fresh but there was ample free street parking and finding a place to park was not a problem at all.   After class there are a number of little cafes or coffee shops in the area if you want a treat because you will certainly still receive the spicy, shaky, challenging work out that the instructors deliver with high energy and great vibes at every other location!
+  - name: "Julie Hallonquist"
+    rating: 5
+    comment: |
+      I love the studio. As soon as you walk in, all of the windows make it so bright and welcoming and the instructors are friendly and helpful. It’s super clean and I love the intensity of the workouts. The legs are shaky!
   - name: "Aly F"
     rating: 5
     comment: |

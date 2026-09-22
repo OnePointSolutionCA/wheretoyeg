@@ -5,7 +5,7 @@ category: "catering"
 neighborhood: "Edmonton"
 address: "11316 132 Ave NW, Edmonton, AB T5E 5C1"
 rating: 4.4
-review_count: 299
+review_count: 301
 tier: "featured"
 phone: "(780) 454-8103"
 google_maps: "https://maps.google.com/?cid=12707122571544926734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -39,14 +39,14 @@ reviews:
       We bought 6 kg of beef from here on Friday for a birthday party on Saturday. Unfortunately, everyone who ate the beef experienced stomach upset. While checking with others, we found that a friend who hosted a different party for another group, using beef from the same source, also had guests with similar issues. Interestingly, those who didn’t eat beef were not affected.
       
       This is a serious matter that needs urgent attention rather than dismissive responses like “I sell tons of meat weekly.” I hope the concern is taken seriously and addressed properly to ensure customer safety in the future.
-  - name: "Nne Idegwu"
-    rating: 1
-    comment: |
-      Very biased with the meat cuts, friend got good meat but mine was full of fat. Im  so angry, I want to throw it away. Pretty sure, they are cursing people out who dont speak Arabic.
   - name: "Zainab Kamara"
     rating: 5
     comment: |
       This store has great customer service. The owner is super nice and has a kind heart. We came to do our shopping for the seniors in my community. We spent alot and the owner later gave us honey(6 jars of honey)  as a token before we left. God bless his business for the kind gesture.
+  - name: "Nne Idegwu"
+    rating: 1
+    comment: |
+      Very biased with the meat cuts, friend got good meat but mine was full of fat. Im  so angry, I want to throw it away. Pretty sure, they are cursing people out who dont speak Arabic.
 hours:
   monday: "11:00 AM–8:30 PM"
   tuesday: "11:00 AM–8:30 PM"

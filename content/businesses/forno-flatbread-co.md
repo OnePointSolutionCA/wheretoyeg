@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Edmonton"
 address: "3418 99 St NW, Edmonton, AB T6E 5X5"
 rating: 4.8
-review_count: 617
+review_count: 620
 tier: "featured"
 phone: "(780) 993-6766"
 website: "http://fornoflatbreadco.com/"
@@ -31,14 +31,14 @@ reviews:
       ⭐⭐⭐⭐⭐
       
       Forno Flatbread is absolutely delicious! Freshly baked with a perfectly crisp exterior and a soft, fluffy inside, every bite tastes homemade. The quality of the ingredients really stands out, and the authentic flavour ,it's consistently fresh and satisfying. Highly recommended for anyone
+  - name: "WISAM M KEE ALSEBAI"
+    rating: 5
+    comment: |
+      The ingredients used are very good and of good quality. The sausage is moderately seasoned, but not overly so; you can taste the quality of the meat. The baked falafel is a wonderful, healthy, and delicious option, and I think they're one of the few who have done it. It could have used a little more salt, but that's optional. The dough is thin and delicious. The place is very clean, quiet, and suitable for morning breakfast gatherings. My review is from a chef.
   - name: "Jamal"
     rating: 5
     comment: |
       Absolutely outstanding! We tried the meat pie, Akawi cheese pie, pepperoni pizza, and the power bowl, and every single item was fresh, flavorful, and made with high-quality ingredients. The meat pie was perfectly seasoned, the Akawi cheese pie had an amazing balance of cheesy goodness and crispy crust, the pepperoni pizza was delicious with a perfectly baked dough, and the power bowl was fresh, filling, and packed with flavor. Everything tasted homemade, and the service was friendly and welcoming. We'll definitely be back. Highly recommend!
-  - name: "Usman Rafique"
-    rating: 5
-    comment: |
-      Their Zaatar and the Meat and Cheese manakeesh were absolute charm. Loved it. Fresh, soft, straight from the oven. Who wants fast food, when we have this in town!
 hours:
   monday: "9:00 AM–8:00 PM"
   tuesday: "9:00 AM–8:00 PM"

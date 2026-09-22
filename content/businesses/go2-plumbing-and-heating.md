@@ -38,14 +38,14 @@ reviews:
     rating: 5
     comment: |
       I was having problems with my furnace. This is my first home purchase and first repair as a home owner. Moe was polite and knowledgeable and prices seemed fair. I would definitely call again and recommend him to friends.
-  - name: "Monica Wehby"
-    rating: 5
-    comment: |
-      Very satisfied with the plumbing work. The plumber was friendly, punctual, and did a thorough job. They were careful with my home and made sure everything was working perfectly before leaving. Highly recommend to anyone needing plumbing services in Edmonton.
   - name: "Abshir Abdalla"
     rating: 5
     comment: |
       I had a great experience with Go 2 Plumbing and Heating. I highly recommend this company for anyone who needs plumbing and heating. They offer high quality work at fair prices and always get the job done efficiently. I appreciate that they are reliable and easy to reach for any emergency.
+  - name: "Monica Wehby"
+    rating: 5
+    comment: |
+      Very satisfied with the plumbing work. The plumber was friendly, punctual, and did a thorough job. They were careful with my home and made sure everything was working perfectly before leaving. Highly recommend to anyone needing plumbing services in Edmonton.
   - name: "Nick SkyShadow"
     rating: 5
     comment: |

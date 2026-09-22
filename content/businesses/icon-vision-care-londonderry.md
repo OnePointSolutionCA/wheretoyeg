@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "Londonderry Mall, 140 Ave NW #134, Edmonton, AB T5C 3C8"
 rating: 4.9
-review_count: 318
+review_count: 319
 tier: "featured"
 phone: "(780) 475-4888"
 website: "http://www.iconvisioncare.ca/"
@@ -27,32 +27,24 @@ reviews:
       
       As a newcomer family to Canada, navigating the healthcare system can sometimes feel overwhelming, especially when English is not our first language. Being able to communicate in Cantonese with Dr. Chong has made a tremendous difference. His patience and willingness to answer questions have always made us feel comfortable and respected. The same can be said of Anna, whose kindness and honest advice have been invaluable to our family.
       It is increasingly rare to find healthcare professionals who combine expertise with such sincerity and genuine care. We are grateful for their continued support and would highly recommend them to anyone looking for quality eye care in Edmonton. No matter how far the drive may be, we will gladly continue making the trip.
+  - name: "Annisa Turco"
+    rating: 5
+    comment: |
+      I’ve always had such a great experiences with Icon Vision Care! I’ve never had to wait, and the entire process is always so fast, easy, and straightforward. The staff is incredibly friendly, welcoming, and helpful, and the doctor is always so kind, professional, and thorough. You can tell they genuinely care about their patients and making sure you have a great experience. I highly recommend Icon Vision Care and wouldn’t go anywhere else!
   - name: "Brooke Marian"
     rating: 5
     comment: |
       Christina was absolutely fantastic to work with! She was so kind, helpful, and patient, and helped me find exactly what I was looking for. She made the whole experience easy and enjoyable, and you can tell she genuinely cares about helping her customers. Such a wonderful person and amazing at what she does. I would highly recommend asking for Christina. You won’t be disappointed!
-  - name: "Wali hassan"
+  - name: "Prakriti Bhattarai"
     rating: 5
     comment: |
-      I’ve had an amazing experience at Icon Vision in Londonderry Mall. I haven’t worn glasses since I was 13 and I’m 21 now, so this whole process was new to me. Christine at the front desk was incredibly patient, helpful, and genuinely caring the entire way through.
+      Me and my husband visited Icon Vision Care at Londonderry Mall for the first time for our eye checkups, and we had a great experience. The service was excellent, and Cristina, one of the managers, was especially helpful. She patiently guided us through the process and showed us a variety of eyewear options to choose from. We really appreciated her help and professionalism.
       
-      After my eye exam showed I needed a strong prescription, she helped me find the exact style of gold frames I’d been looking for. She even ordered a pair online just for me when they didn’t have them in store. I had to change my mind once, come back a few times, and even get adjustments because the glasses kept sliding—and every single time she helped me with no hesitation.
-      
-      It’s been a smooth, positive experience from start to finish. I’m truly grateful for Christine’s support and professionalism. Icon Vision definitely deserves all the business they get, and I’m glad I chose them.
-      
-      -Abdiwali
+      Overall, we’re very happy with the service and would definitely recommend the clinic to others!
   - name: "Felicia Dakin"
     rating: 5
     comment: |
       Probably one of the best eye glass purchasing experience I've ever had. Not only are their prices great but the service is outstanding. Also Dr Chong is a great dr. If you are in need of glasses please come here. You wont be disappointed.
-  - name: "Tristan Ranville"
-    rating: 5
-    comment: |
-      We had such a great experience with this eye care clinic. My son had broken his glasses, and we came in as a walk-in needing help right away. From the moment we arrived, the staff were pleasant, friendly, and greeted us immediately.
-      
-      They took the time to help us find a new pair of glasses that fit within our budget, which I really appreciated. What impressed me most was how quickly they were able to get everything ready — they had his new glasses done within the hour! It made such a difference knowing my son didn’t have to go without being able to see.
-      
-      We’re very grateful for the kindness, efficiency, and care we received. Highly recommend!
 hours:
   monday: "10:00 AM–8:00 PM"
   tuesday: "10:00 AM–8:00 PM"

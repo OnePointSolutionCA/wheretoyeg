@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–9:30 PM"
 photos: ["/photos/h-mart-1.jpg", "/photos/h-mart-2.jpg", "/photos/h-mart-3.jpg"]
 rating: 4.3
-review_count: 2242
+review_count: 2248
 price_range: "$$"
 amenities:
 
@@ -28,10 +28,6 @@ tags: ["edmonton", "korean"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Phat Boy"
-    rating: 5
-    comment: |
-      Can’t say much for the grocery shopping as I do not shop here for groceries, but I will say that the shop floor is always clean, being stocked and has a huge variety of items. I come here for a quick and affordable lunch. The warm food here is amazing! They have a few restaurants in the food court area…including a bakery. Great place for a Korean craving fix…fast, affordable and tasty!!
   - name: "Dan Yang"
     rating: 5
     comment: |
@@ -54,11 +50,12 @@ reviews:
     rating: 5
     comment: |
       Like the variety and quality of the Asian foods, some prices are really reasonable and they have a restaurant corner to have your meal as well. Some of the Asian items not available elsewhere
-  - name: "Swapnil"
-    rating: 4
+  - name: "Phat Boy"
+    rating: 5
     comment: |
-      H-mart is one of the Asian grocery store focusing on Korean products.
-      The location has fair choice of vegetables and fruits as well as frozen food.  The fresh fish section has much limited offering. The frozen food choices are massive. There are few takeaway counters as well as place to sit down and eat connected to 1-2 Korean cuisine restaurants.
-      
-      Overall a good place to shop.
+      Can’t say much for the grocery shopping as I do not shop here for groceries, but I will say that the shop floor is always clean, being stocked and has a huge variety of items. I come here for a quick and affordable lunch. The warm food here is amazing! They have a few restaurants in the food court area…including a bakery. Great place for a Korean craving fix…fast, affordable and tasty!!
+  - name: "Raymond Best"
+    rating: 5
+    comment: |
+      I'm not Korean but I still come here weekly. They offer dining on-site plus a wide variety of Asian food. Great selection of fruits and vegetables, usually the best price on mango and jackfruit! Their bakery is also outstanding.
 ---

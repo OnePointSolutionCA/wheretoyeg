@@ -19,8 +19,8 @@ hours:
   saturday: "9:00 AM–10:00 PM"
   sunday: "9:00 AM–10:00 PM"
 photos: ["/photos/happy-and-olive-1.jpg", "/photos/happy-and-olive-2.jpg", "/photos/happy-and-olive-3.jpg"]
-rating: 4.6
-review_count: 482
+rating: 4.7
+review_count: 486
 price_range: "$$"
 amenities:
   - "Dine-In"

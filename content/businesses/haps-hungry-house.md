@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Edmonton"
 address: "16060 Stony Plain Rd, Edmonton, AB T5P 3Z9"
 rating: 4.6
-review_count: 1799
+review_count: 1800
 tier: "featured"
 phone: "(780) 483-2288"
 website: "http://hapshungryhouse.ca/"

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/frenchies-hair-1.jpg", "/photos/frenchies-hair-2.jpg", "/photos/frenchies-hair-3.jpg"]
 rating: 4.9
-review_count: 167
+review_count: 168
 price_range: "$$$"
 amenities:
 
@@ -42,6 +42,11 @@ reviews:
     rating: 5
     comment: |
       Just had a haircut with Jordan, I picked her because of the reviews and I’m so glad it paid off! The salon and location are excellent, Jordan’s skill and like ability are amazing! My hair looks great, I could have wine and popcorn while we chatted away, I honestly felt like I went to my incredibly talented friends house. I will be back, this is my only salon, tell ur friends and bring ur friends. What a lovely spot, just sad I didn’t come when I moved here years ago!🤦‍♀️
+  - name: "Hannah K"
+    rating: 5
+    comment: |
+      Had a life-changing haircut here and that is not an exaggeration. I don't think I can ever get a haircut elsewhere now! I have fine hair and have struggled to find a stylist who knew what to do with it and I'm so happy that I found Frenchie's. What I loved most about it was how my stylist Abbi explained why my previous haircut wasn't working for me, told me every change she was going to make and why. This is not a passive haircut, Abbi was engaging with me every step of the way. She taught me how to style my hair after my haircut. The head massage, beverages and snacks were all wonderful. This is a luxury experience that only costs a little more than a regular haircut, and they have a no tip policy.
+      Hands down the best haircut I have ever had. I walked out feeling so confident and beautiful.
   - name: "Samantha Boomer"
     rating: 5
     comment: |
@@ -50,9 +55,4 @@ reviews:
     rating: 5
     comment: |
       Just wanted to drop a quick review To help anybody that’s looking for a really great salon and also anyone that has been considering the AlmaTed Treatment. I started going to Frenchies When I moved to Edmonton last fall after my previous hairstylist recommended Brittany and Frenchies. From my very first appointment, I absolutely loved everything about this salon. The staff are incredibly Friendly, welcoming and knowledgable (these girls are SMART), and the hair washing sanctuary is an experience In itself. I’m in my late 40s and have really been noticing my hair getting thinner and finer over the last few years. Brittany and her team have really helped me improve the health of my scalp and hair and most recently recommended the AlmaTed procedure which I had done yesterday. It was completely pain-free and I’m excited to see the results. I love Britney’s commitment to our common goal of increasing the fulness of my hair, improving my scalp health, and hopefully one day getting rid of my extensions. I’m down to one row now. If you’re looking for a great salon with knowledgable stylists and a first class experience look no further than frenchies.
-  - name: "Heather Cunningham"
-    rating: 5
-    comment: |
-      My experience at Frenchies was phenomenal. Brittany listened to what I was looking for and gave her input and expertise to help my hairstyle grow out between appointments. I am so happy with the results and feel completely refreshed.
-      The staff were very accommodating with a return I needed to make. The customer service was excellent. I'm looking forward to my next appointment.
 ---

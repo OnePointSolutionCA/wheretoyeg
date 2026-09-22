@@ -47,14 +47,8 @@ reviews:
     rating: 5
     comment: |
       This place is so great to deal with,  from the moment I called to book an appointment all the way through to payment. I've been looking for a new shop to maintain my suv and I'm positive this is the last place I will go. I was met at reception with pleasant smiles for all the front end staff,  Chris the owner popped out to say hello, my appointment time was just that and not a drop off time. My vehicle was serviced as I requested,  at the time I was booked in for and requested services were completed in a timely fashion.  Don't second guess going to Good News Auto, call and book in today.
-  - name: "Sylvester La Torre"
+  - name: "danny CrackChipRepair dot com"
     rating: 5
     comment: |
-      We started having issues after our SUV wouldn't start while we were on vacation. After replacing the starter, the SUV still struggled to turn over for months before oddly seeming to fix itself. When the problem came back, we had it looked at a few times, but because the issue was so intermittent, no one was able to pinpoint the cause. Most places felt the starting issues were likely related to low engine oil, so we kept a close eye on the oil level and topped it up whenever needed.
-      
-      As time went on, the issues became even more concerning. The driver's door would no longer unlock while the other doors would, and the liftgate refused to open whenever the vehicle was off. It was incredibly frustrating not knowing what was causing all these problems.
-      
-      After a quick Google search, we found Good News Auto, and we're so glad we did. At first, they had a hard time replicating the issue, but they didn't give up. They kept working at it until they were finally able to reproduce the problem and found the real cause: an overheating fuse box that was melting the wiring, along with a loose positive battery wire. After a few days in the shop (and a few days in one of their rental vehicles), we finally got our SUV back, actually fixed after months of trying to figure out what was wrong.
-      
-      Everyone at Good News Auto was so kind, honest, and genuinely wanted to help. We couldn't be more thankful that we found them. They'll definitely be our first choice for any future vehicle issues (hopefully not anytime soon!), and we'll happily recommend them to anyone looking for a trustworthy mechanic. Thank you so much!
+      This is a little gem tucked away on Argyle Road. They are very accommodating, polite, clean, efficient. This is my new go to place and I highly recommend.
 ---

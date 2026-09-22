@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/glenora-family-pet-clinic-1.jpg", "/photos/glenora-family-pet-clinic-2.jpg", "/photos/glenora-family-pet-clinic-3.jpg"]
 rating: 4.8
-review_count: 953
+review_count: 959
 price_range: "$$"
 amenities:
 

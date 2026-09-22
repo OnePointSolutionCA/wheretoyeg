@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/elite-dance-studio-1.jpg", "/photos/elite-dance-studio-2.jpg", "/photos/elite-dance-studio-3.jpg"]
 rating: 4.8
-review_count: 85
+review_count: 84
 price_range: "$$"
 amenities:
 

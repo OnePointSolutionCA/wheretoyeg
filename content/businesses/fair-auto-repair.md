@@ -35,6 +35,10 @@ reviews:
       I had a terrible misfire, shaking, loss of power, jerking. Fast forward a week I get a call to come pickup the truck and I couldn’t be happier
       No misfire no engine light no nothing !
       Fixed my cam, my lifters, my exhaust manifold
+  - name: "EmeraldPower"
+    rating: 5
+    comment: |
+      Absolutely outstanding service. Another mechanic told me my truck couldn’t be fixed, but Sam took the time to properly diagnose the issue and had it running again quickly. Fair pricing, honest communication, and a turnaround time that exceeded my expectations. It’s hard to find a mechanic you can truly trust, and I will definitely be coming back. Highly recommend to anyone looking for reliable and honest work.
   - name: "Dave Vyse"
     rating: 5
     comment: |
@@ -52,9 +56,4 @@ reviews:
     rating: 5
     comment: |
       I stopped to get a beer at brewery near his shop when I got to my truck it wouldn't start, him and his wife noticed  and he happily come over and got my truck started and back on the road so I could get back to my family in time. This man is a gem  and refused any payment  and deserves both sides of his pillows cold on a hot summer night. Please support this man's business
-  - name: "Mark Hetherington"
-    rating: 5
-    comment: |
-      My truck needed a new starter, Sam was willing to wait for me to get it to him, well past his shops closing time.  He replaced the starter, cleaned the battery connections to ensure everything was good to go. Then followed up with a couple of emails to ensure everything was good.
-      I have never had such excellent customer service, reasonable price all with spot on diagnostic skills.  I highly recommend Sam.
 ---

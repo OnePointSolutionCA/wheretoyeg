@@ -32,14 +32,10 @@ reviews:
     rating: 5
     comment: |
       I get my lashes done by Sophia and she is amazing! She helped me with my wedding lashes and she was so helpful and easy to work with during the trail process. The lashes were perfect and the retention even better!
-  - name: "Gillian De Benedetto"
+  - name: "A Google User"
     rating: 5
     comment: |
       I am obsessed with my lashes!! :) Gina is the sweetest and most helpful, knowledgable lash tech. I really like this studio because they offer a healthier alternative to a traditional lash lift with the keratin option, and if you do come I definitely reccommend seeing Gina as she is skilled and makes you feel at home. 10/10!
-  - name: "Jilian LaBrech"
-    rating: 5
-    comment: |
-      I am grateful to have found Gina at GLASS + SKIN. A lash lift and tint has become a staple in my routine - and my lashes love the products they use. Gina goes above and beyond to make sure I’m happy with my results, as well as creating a cozy and welcoming appointment. Would recommend to anyone looking for a great service, as a reasonable price!
   - name: "Ivy Naling"
     rating: 5
     comment: |
@@ -50,4 +46,8 @@ reviews:
     rating: 5
     comment: |
       I loved how my lashes turned out! Megan is truly an amazing person. She’s very friendly and accommodating. I was comfortable all throughout the process and never had any stinging on my eyes. She also explained me the after care to have a good retention of lashes. Not only is the space beautiful, but the staff are all so kind and sweet. I will definitely recommend to everyone.
+  - name: "Joannie"
+    rating: 5
+    comment: |
+      I’ve been getting my lash extensions done here for a while now, and I’m always impressed with the service. Sophia is an absolute gem—she’s warm, professional, and really pays attention to the details. She not only takes the time to listen to what you want but also provides thoughtful suggestions that suit your look. The salon is spotless, cozy, and the staff is always welcoming. I can’t recommend this place enough—definitely worth a visit!
 ---

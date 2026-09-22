@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "11127 107 Ave NW, Edmonton, AB T5H 3E9"
 rating: 4.7
-review_count: 365
+review_count: 366
 tier: "featured"
 phone: "(587) 401-6302"
 website: "https://www.hellcrustpizza.com/"
@@ -22,14 +22,21 @@ reviews:
       The chicken wings were bland, under-seasoned, and tasted like they barely saw any seasoning at all. The ranch was just Kraft ranch, which added absolutely nothing and was a disappointing choice.
       
       The only positive thing I can say is the packaging—it actually looked pretty good. Unfortunately, nice packaging can't make up for terrible food. Between the soggy, poorly executed pizza, flavorless wings, and cheap dipping sauce, I won't be ordering from here again. There are far better pizza places to spend your money on. I'd avoid this place.This version is much harsher while remaining credible, which tends to make reviews more persuasive.
-  - name: "Phat Boy"
-    rating: 4
+  - name: "Hajra Zukic"
+    rating: 5
     comment: |
-      I’ll start off by saying the customer service was amazing. Yassin was the nicest guy I’ve ever dealt with in a pizza joint. Online ordering was easy, the restaurant was clean, bright and welcoming even though it’s not in the best of locations. The pizza did taste good and the toppings were very fresh, but it lacked cheese, had too much flop and the gravy was very mild tasting. Overall, it was a good pizza for what you paid($18.99 for a large unlimited toppings)and I would try again if I’m in the area…I’d also try some of the other menu items.
+      First time being there and we will be back.
+      The server was great and the food was delicious.
+      The atmosphere was good also.
+      Taco Pizza, wings and cheese bread
   - name: "LP"
     rating: 3
     comment: |
       Our first pizza order (delivery) from here was amazing, so tasty! This last order was sadly lacking--pizza crust not cooked, about four pieces of olives I paid $2.50 to have added, lacking the potato chips completely on the Vegan Crunch pizza. Are they SO busy due to st paddys day? Or is just inconsistency? Just disappointing after the other delicious order.
+  - name: "Phat Boy"
+    rating: 4
+    comment: |
+      I’ll start off by saying the customer service was amazing. Yassin was the nicest guy I’ve ever dealt with in a pizza joint. Online ordering was easy, the restaurant was clean, bright and welcoming even though it’s not in the best of locations. The pizza did taste good and the toppings were very fresh, but it lacked cheese, had too much flop and the gravy was very mild tasting. Overall, it was a good pizza for what you paid($18.99 for a large unlimited toppings)and I would try again if I’m in the area…I’d also try some of the other menu items.
   - name: "khalid legsayer"
     rating: 5
     comment: |
@@ -40,10 +47,6 @@ reviews:
       If you’re looking for pizza that stands out from the usual chains, this place is 100% worth trying. I’ll definitely be coming back and recommending it to friends and family. Highly recommended!
       
       Aya Legsayer
-  - name: "Conrad"
-    rating: 5
-    comment: |
-      Super friendly, some of the best pizza I’ve had in Edmonton at a good price, and the aesthetics here are sick. I’ll be back here many times for sure.
 hours:
   monday: "11:00 AM–10:30 PM"
   tuesday: "11:00 AM–10:30 PM"

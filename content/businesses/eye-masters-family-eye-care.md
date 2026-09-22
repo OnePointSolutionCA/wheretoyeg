@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "15311 97 St NW, Edmonton, AB T5X 5V3"
 rating: 4.5
-review_count: 78
+review_count: 77
 tier: "featured"
 phone: "(780) 249-9955"
 google_maps: "https://maps.google.com/?cid=6721958089538198326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -22,6 +22,10 @@ reviews:
       Thanks to Dr. Aboudib’s sharp eye, his dedication, and his willingness to go beyond a standard exam, I was able to get the treatment I needed and I am doing so much better today.
       
       If you are looking for an eye doctor who is skilled, attentive, and genuinely invested in your overall health not just your vision look no further than Dr. Aboudib and the team at Eye Masters. I am so grateful to have him in my corner.
+  - name: "ilhan bayar"
+    rating: 5
+    comment: |
+      I had a very positive experience with my eye doctor Tarek. He was professional, patient, and took the time to explain everything clearly. The examination was thorough, and I felt very comfortable throughout the visit. The clinic was clean, organized, and the staff were friendly. I highly recommend him to anyone looking for quality eye care.special thanks to Charife and Bayan for their exceptional service.
   - name: "Chantal Toms"
     rating: 5
     comment: |
@@ -31,10 +35,6 @@ reviews:
     comment: |
       I brought my own glasses in  this store to put new lenses in my frames, The frames were in perfect condition even lady at 50 street location said so I said just replace the lenses , they shipped my lenses to this location not 50 Street after the  Dr the week before refused to see me so had to go to 50 street location I left came back to 97 Street store  him and her said glasses broke here is the deal I will give you these glasses but you need to buy new frames so I had too he broke them and wouldn't replace them cause I didn't buy from his store . moral of the story buy there glasses or don't use this store  the offer is cheap plastic frames your forced to buy when they brake them or you don't see..
       they brake your frame to buy there's the positive note  dr was a nice guy and reception were nice both locations
-  - name: "ilhan bayar"
-    rating: 5
-    comment: |
-      I had a very positive experience with my eye doctor Tarek. He was professional, patient, and took the time to explain everything clearly. The examination was thorough, and I felt very comfortable throughout the visit. The clinic was clean, organized, and the staff were friendly. I highly recommend him to anyone looking for quality eye care.special thanks to Charife and Bayan for their exceptional service.
   - name: "Maureen Gamache"
     rating: 5
     comment: |

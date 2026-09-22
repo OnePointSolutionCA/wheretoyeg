@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–5:30 PM"
 photos: ["/photos/helping-hands-family-movers-1.jpg", "/photos/helping-hands-family-movers-2.jpg", "/photos/helping-hands-family-movers-3.jpg"]
 rating: 4.8
-review_count: 437
+review_count: 436
 price_range: "$$$$"
 amenities:
 
@@ -56,12 +56,8 @@ reviews:
       Huge shoutout to Austin and the team for a stellar move. I was blown away by how they fit everything together. Their efficiency and attention to detail were next level. They treated my sisters belongings with total respect and made a stressful day feel easy. Hands down the best experience I’ve had with a moving company!
       
       *A picture is attached in the early phase to show the efficiency.
-  - name: "lynn jacobs"
+  - name: "T Banks"
     rating: 5
     comment: |
-      I cannot recommend this moving company enough! Moving is usually incredibly stressful, but the team made the entire process seamless and efficient from start to finish.
-      The crew arrived exactly on time and introduced themselves. They were polite, organized, and handled all of my belongings with the utmost care.
-      They worked incredibly fast without cutting corners. I was amazed at how quickly they were able to wrap my furniture and navigate through tight hallways without a single scratch on the walls.  The quote I received was accurate and fair. There were no hidden fees or "surprise" charges at the end of the day, which I really appreciated.
-      They made sure every box was placed in the correct room and even helped me position a few of the heavier furniture pieces exactly where I wanted them before they left.
-      If you are looking for a reliable, hard-working, and careful moving team, look no further. I will definitely be using them again for my next move!
+      I had an amazing experience with Helping Hands Family Movers in Edmonton! The team was professional, punctual, respectful, and handled all my belongings with great care. From start to finish, the move was smooth, stress free, and very organized. They worked efficiently, communicated well, and went above and beyond to make sure everything arrived safely. Their customer service was top notch and the pricing was fair for the excellent service provided. I highly recommend Helping Hands Family Movers to anyone looking for reliable and trustworthy movers in Edmonton. Definitely a 5-star experience! ⭐️⭐️⭐️⭐️⭐️🥰🥰🥰🥰
 ---

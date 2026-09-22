@@ -5,7 +5,7 @@ category: "professional-services"
 neighborhood: "Edmonton"
 address: "12804 82 St NW, Edmonton, AB T5E 2V9"
 rating: 3.6
-review_count: 600
+review_count: 603
 tier: "featured"
 phone: "(780) 478-8832"
 website: "http://edmontonregistry.com/"

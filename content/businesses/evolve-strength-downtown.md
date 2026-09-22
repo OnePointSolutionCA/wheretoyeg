@@ -16,11 +16,11 @@ hours:
   wednesday: "5:00 AM–11:00 PM"
   thursday: "5:00 AM–11:00 PM"
   friday: "5:00 AM–11:00 PM"
-  saturday: "7:00 AM–8:00 PM"
-  sunday: "7:00 AM–8:00 PM"
+  saturday: "7:00 AM–9:00 PM"
+  sunday: "7:00 AM–9:00 PM"
 photos: ["/photos/evolve-strength-downtown-1.jpg", "/photos/evolve-strength-downtown-2.jpg", "/photos/evolve-strength-downtown-3.jpg"]
 rating: 4.6
-review_count: 498
+review_count: 501
 price_range: "$$"
 amenities:
 

@@ -20,19 +20,19 @@ reviews:
       Sazana provided the best customer service I have ever experienced at a dental office. She is patient, knowledgeable, efficient, and incredibly professional. She took the time to answer all of my questions thoroughly and even remembered a question I had asked during my previous appointment when I returned for my next visit. Her attention to detail and genuine care made me feel valued as a patient.
       
       She handled all of the paperwork and billing accurately and efficiently, so I never had to worry about any billing issues. Sazana truly goes above and beyond to provide outstanding customer service. She is a tremendous asset to the dental office, and I highly recommend her.
-  - name: "JJ Dalmer"
+  - name: "Lisa Kayfish"
     rating: 5
     comment: |
-      My kids and I have been going to Galerie for over 12 years. The staff are all extremely knowledgeable, patient, considerate and all around amazing. The kids are always asking when their next visit is and have never had any anxiety about going. From checkups and cleanings to more major dental work, they are all so comforting - it’s honestly like going for coffee with a friend. They always ensure you have a say and are fully informed when it comes to your health and your options. Huge shout out to Dr. Kalia and Kari for my most recent dental work, my long time hygienist Raelene, and the office manager Erin for making sure the payment/insurance part is as stress free as possible. I highly recommend if you are looking for a new dentist or have high anxiety about dentists and dental work.
+      I can't say enough great things about Galerie Dental. Dr. Khalia and staff are incredibly kind, caring, and professional. Every visit is a positive experience, chill and I always feel well taken care of. They go above and beyond to make you feel comfortable and truly take the time to listen and explain everything. Thank you for making trips to the dentist something I actually look forward to!
   - name: "Laura Chamberlain"
     rating: 5
     comment: |
       I have never felt so comfortable atvthe dentist. Every single staff member had gone above and beyond to be helpful. They genuinely want to help you on your dental health journey. They helped me make a plan and get started on my journey with no preaching or lectures. Kust a friendly smile and helpful advise.
       Thank you foe helping me get my smile back
-  - name: "Angela Culberson"
+  - name: "JJ Dalmer"
     rating: 5
     comment: |
-      Galerie Dental Care                                             The staff are very kind, and make you feel comfortable and relaxed. From getting my teeth cleaned,  and checked bye dentist. Galerie Dental is the place to go.Cheers too great staff.
+      My kids and I have been going to Galerie for over 12 years. The staff are all extremely knowledgeable, patient, considerate and all around amazing. The kids are always asking when their next visit is and have never had any anxiety about going. From checkups and cleanings to more major dental work, they are all so comforting - it’s honestly like going for coffee with a friend. They always ensure you have a say and are fully informed when it comes to your health and your options. Huge shout out to Dr. Kalia and Kari for my most recent dental work, my long time hygienist Raelene, and the office manager Erin for making sure the payment/insurance part is as stress free as possible. I highly recommend if you are looking for a new dentist or have high anxiety about dentists and dental work.
   - name: "Frank Hoffmann"
     rating: 5
     comment: |

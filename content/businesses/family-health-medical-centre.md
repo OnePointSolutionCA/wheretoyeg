@@ -55,8 +55,8 @@ reviews:
       Even with their busy days,i dont feel that the doctors rush me whenever seeing the. They will listen to every details and takes time to review your medical history,even just doing walk ins.
       The staff are always helpful and very nice. I love that they are checking blood pressure before letting you inside the room,which is  a missed in most of the clinic nowadays..
       You guys are AMAZING!!!
-  - name: "Joy Baculi"
+  - name: "Laura"
     rating: 5
     comment: |
-      I had a great experience in this clinic. Dr. Joel San Agustin took time to listen and explained everything clearly. Nice and clean facility, reasonable wait times, and very friendly staff. I would highly recommend this clinic.
+      I'm new to this clinic and my experience so far has been so good. The two ladies at the front desk are so warm, welcoming, and have incredible bedside manner. Two weeks after my first appointment, I called the clinic reception to inquire about something, and Elsa, at the front desk, remembered me. I was completely shocked. Dr. Venturina is so kind, thorough, and listens with care. I feel so lucky to have found this clinic.
 ---

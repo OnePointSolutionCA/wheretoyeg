@@ -27,12 +27,6 @@ tags: ["edmonton", "car-wash"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Anna Khanchuk"
-    rating: 4
-    comment: |
-      I used this touchless carwash at least two years, and last three to five months something happened with it - my vehicle still looks dusty after the wash.
-      Today I asked carwash associate for assistance and Alex saved the situation 👏 He was very nice and helpful!
-      Hope touchless carwash will get needed upgrades, because it has good location and I want to continue with it.
   - name: "Kari"
     rating: 2
     comment: |
@@ -41,6 +35,12 @@ reviews:
     rating: 1
     comment: |
       Should have read the other complaints before I used the touchless car wash. From inside I could see that all the soap wasn’t washed off. So I waited for another turn. But the the door opened and apparently the dry cycle started. After I didn’t proceed the door closed again and I was stuck inside. Just when I was going to phone them an assistant opened it and told me I did it wrong. He didn’t look at the still dirty car, only told me the manager would come in in 20 minutes to look at the camera if a cycle was missed. I was not going to wait another 20 minutes. They lost one customer.
+  - name: "Anna Khanchuk"
+    rating: 4
+    comment: |
+      I used this touchless carwash at least two years, and last three to five months something happened with it - my vehicle still looks dusty after the wash.
+      Today I asked carwash associate for assistance and Alex saved the situation 👏 He was very nice and helpful!
+      Hope touchless carwash will get needed upgrades, because it has good location and I want to continue with it.
   - name: "Byungkook Jung"
     rating: 5
     comment: |

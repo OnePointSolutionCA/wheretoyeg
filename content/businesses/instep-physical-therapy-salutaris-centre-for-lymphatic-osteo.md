@@ -44,8 +44,8 @@ reviews:
     rating: 5
     comment: |
       All the staff are kind and helpful. Cyprian and Albert have been especially supportive in helping me feel better after the car accident.
-  - name: "Alexander Michael Factura"
+  - name: "Bill"
     rating: 5
     comment: |
-      Had an amazing and relaxing massage. My body pains are now better thanks to Rashmi and her helpful self-care tips
+      I was treated by Rupreet for my long-term disability. I can't say enough about how thorough, kind and compassionate she was when treating me. The focus was on gentle exercises to gain my mobility back, which worked really well. I am forever grateful for her expertise and highly recommend her.
 ---

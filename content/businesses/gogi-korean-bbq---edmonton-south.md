@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–10:00 PM"
 photos: ["/photos/gogi-korean-bbq---edmonton-south-1.jpg", "/photos/gogi-korean-bbq---edmonton-south-2.jpg", "/photos/gogi-korean-bbq---edmonton-south-3.jpg"]
 rating: 4.8
-review_count: 1110
+review_count: 1115
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -34,20 +34,21 @@ reviews:
     rating: 3
     comment: |
       Was super excited to check this place out as ACE places have been popping up everywhere and they are a good bang for your buck. The service and the atmosphere were amazing. The food though, in my opinion, not the greatest. Everything was super sweet - and I like sweet. But this was just too much. I left feeling super full but in a very gross way. I probably won't be back, unfortunately.
-  - name: "Howard Ng"
-    rating: 5
-    comment: |
-      If you like Korean BBQ,  this is the place to go. Its very clean and spacious.  Servers are friendly and helpful.  The AYCE has a large variety of items. There are also add ons for an additional price.  Only negative is the salad Bar can get very crowded.  Its quite small, so when the place fills up, be prepared to wait a bit.  All in all, great place.
-  - name: "Remy-Lee Sisracon"
-    rating: 5
-    comment: |
-      I had a wonderful experience here! The staff were all friendly and attentive, especially Hyemin, Ian and Lily who made us feel so welcome throughout our meal. The atmosphere was fantastic and everything was impressively clean, which made the whole dining experience even more enjoyable 🩵 I also appreciated that they have a bar! It’s a great option if you’re in the mood to just stop by for drinks.
   - name: "kato pixie"
     rating: 5
     comment: |
       It's our first time here with my family. The food was superb. My son loved the bulgogi, galbisal and japchae. We loved the ambiance and vibe here. The staff were very friendly and the service was fast and efficient. The price was reasonable compared to all the meat that we have ordered. We highly recommend this place and definitely  coming back.
-  - name: "Jay-r Rafols"
+  - name: "Tricia Young"
     rating: 5
     comment: |
-      The food is so delicious and worth it…its our first time and will definitely be back again
+      Food was really good you can mix and match what you want and cook it how you like.
+      Service was amazing, they were very attentive.
+  - name: "Veronica Dongon"
+    rating: 5
+    comment: |
+      Food had great portions, lots of variety! Staff was really helpful cause it was our first time, giving us a breakdown of everything. Definitely will come back
+  - name: "Mei"
+    rating: 5
+    comment: |
+      Our go to Korean Bbq Place, price is very reasonable and food quality is really good. The staff is very friendly and accommodating. And we also got a free ice cream!!😊 I forgot to take a photo though!
 ---

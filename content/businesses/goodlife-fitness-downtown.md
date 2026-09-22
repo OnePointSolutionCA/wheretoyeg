@@ -18,7 +18,7 @@ hours:
   sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/goodlife-fitness-downtown-1.jpg", "/photos/goodlife-fitness-downtown-2.jpg", "/photos/goodlife-fitness-downtown-3.jpg"]
 rating: 4.4
-review_count: 231
+review_count: 232
 price_range: "$$"
 amenities:
   - "Cardio"
@@ -45,14 +45,14 @@ reviews:
     comment: |
       This club is pretty good’s but has gone down hill a little since their A.GM Violeta left. She always met every one with a huge smile and remembered little
       Things about us. She always ensured the place was clean and was always present on the gym floor helping clients or asking about their day. Clubs alright now. Gil and Ryan as GM are amazing staff as well
+  - name: "peter radecki"
+    rating: 5
+    comment: |
+      They are very professional and treat you with the utmost respect and curtise. The facility is also very clean and well equipped  I would recommend this team to anyone! Thank you to the staff especially Terri for helping me through the sign up processes as well as Dimitrios and the rest of the staff there!
   - name: "Guillermo Arroyo"
     rating: 5
     comment: |
       I love this place, facilities are clean and perfect to work out at anytime, staff is amazing, friendly and helpful. I’ve been here for a month and my experience has been incredible. Changing rooms and washrooms are always clean and tidy.
       
       Definitely worths every dollar you pay.
-  - name: "Irissa C"
-    rating: 5
-    comment: |
-      The gym is clean and equipment is good. Big changing room so you don’t have to worry when you are in a rush, washrooms are pretty clean and there are quite a few of them. Staff are very nice and helpful. I don’t have any complaints so far.
 ---

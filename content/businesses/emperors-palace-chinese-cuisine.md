@@ -58,6 +58,10 @@ reviews:
       Service is pretty good, wait staff is very attentive!
       
       I gotta say the prices are a little expensive when you compare it to the restaurants in Ontario, they should be 20-25% lower.
+  - name: "Gordon Gordey"
+    rating: 5
+    comment: |
+      Number ONE Dim Sum in Edmonton. Perfectly prepared and nice portions. Parking is fine on street and you can go around the back to park underground. I’ve visited over 20 cities in China so I do have good comparison. Very friendly staff and no one rushes you. My photos are deep fried shrimp, shrimp on eggplant, and curry squid. Many meat and noodle choices.
   - name: "Ming"
     rating: 3
     comment: |
@@ -65,10 +69,6 @@ reviews:
       The size of the dim sum is gigantic! The shrimp dumpling is twice the size of the regular ones you get from other restaurants. Overall taste is pretty bland. Nothing to take home with.
       They missed an item on our ordering list. When we asked them to add it back on, the lady was a bit rude and the “added” order never came.
       We also found a plastic inside the veggie dish we ordered.
-  - name: "Gordon Gordey"
-    rating: 5
-    comment: |
-      Number ONE Dim Sum in Edmonton. Perfectly prepared and nice portions. Parking is fine on street and you can go around the back to park underground. I’ve visited over 20 cities in China so I do have good comparison. Very friendly staff and no one rushes you. My photos are deep fried shrimp, shrimp on eggplant, and curry squid. Many meat and noodle choices.
   - name: "Johnny Walker"
     rating: 5
     comment: |

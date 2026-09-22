@@ -19,7 +19,7 @@ hours:
   sunday: "5:00 AM–10:00 PM"
 photos: ["/photos/hawrelak-park-pond-ice-1.jpg", "/photos/hawrelak-park-pond-ice-2.jpg", "/photos/hawrelak-park-pond-ice-3.jpg"]
 rating: 4.6
-review_count: 1051
+review_count: 1050
 price_range: "$$"
 amenities:
 
@@ -47,9 +47,14 @@ reviews:
     rating: 5
     comment: |
       It’s a beautiful park ! Would love to spend more time here but very busy and so good to see it come back !
-  - name: "Busani"
+  - name: "Noel Querijero"
     rating: 5
     comment: |
-      Really nice park. Very clean. Family friendly place to have a picnic, barbecue and general friends & family meet up.
-      There's a nice restaurant and boat house.
+      Very successful heritage festival!
+      
+      70 + countries different foods and tastes, so diverse. Country presentations-; dances and demonstrations (taekwondo?) were good
+      
+      We all share a common heritage
+      
+      Would prefer communities to cook on site. Concerned about the food illness outbreaks
 ---

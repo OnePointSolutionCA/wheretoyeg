@@ -5,13 +5,17 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "4142 101 St NW, Edmonton, AB T6E 0A5"
 rating: 4.8
-review_count: 1426
+review_count: 1428
 tier: "featured"
 website: "https://fun4allinc.com/"
 google_maps: "https://maps.google.com/?cid=12357891000218172239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/fun4all-indoor-playground.jpg"
 reviews:
+  - name: "Blake Fireman"
+    rating: 5
+    comment: |
+      Amazing playground  and very nice people who works there,  they taking good care of this place and  keeping this it very clean . Super friendly and helpful.   We celebrated our daughter's birthday  and got their  party package  which was including nice seating area on second floor.  Everything was organized very well , all the set up with drinks ,napkins, plates and cups   was provided.  Also they allowed to use their big party speaker.. it's realy helped for a Birthday song )))  Kids  loved everything.  Place in not crowded  even if its was Sunday noon.  Definitely recommend to everyone 👌
   - name: "julio fernandez"
     rating: 5
     comment: |
@@ -20,12 +24,6 @@ reviews:
       Their excellent customer service, friendliness, and genuine care made the celebration truly memorable. Our son had a fantastic time, and all of our guests enjoyed the party as well.
       
       Thank you to the entire Fun 4 All team for making this such a wonderful and stress-free experience. We highly recommend Fun 4 All to anyone looking for the perfect place to celebrate a birthday!
-  - name: "Upkar Dhillon"
-    rating: 5
-    comment: |
-      This has now become a go to place for me and my sun.. the entrance ticket is so cheap.. and you have access to plenty of stuff for free once you get in.. there are a few little rides that come at an extra cost of mere $2.. however, once you buy the tickets.. and your little one refuses to take all the rides.. you don’t lose any money.. the tickets do not expire.. !! Not only this.. the facility is clean.. the staff is very friendly and welcoming..!!
-      
-      On top of all of this.. you’ll get tasty pizzas and more for the whole family.. !! M glad i found this place!!
   - name: "Styx They\\Them Fierce"
     rating: 5
     comment: |

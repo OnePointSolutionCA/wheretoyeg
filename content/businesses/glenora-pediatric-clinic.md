@@ -27,6 +27,22 @@ tags: ["edmonton", "pediatricians"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Ridvan Akbay"
+    rating: 2
+    comment: |
+      I appreciate the important work this clinic does for children and families in our community, and I truly wanted to leave a positive review. However, I also feel honest feedback is necessary because there are areas where the overall patient experience could be improved significantly, especially for families with young children.
+      
+      Our appointment was scheduled for 1:00 pm. We arrived about 20 minutes early, only to find the office locked due to the lunch closure from 12:00 pm to 1:00 pm. Unfortunately, there was nowhere to sit or wait with children while the office was closed. I strongly suggest placing a few chairs outside the office doors for families, especially considering many parents arrive early with young children.
+      
+      Once we were finally admitted, we were asked to remove our shoes before entering. Personally, I would have appreciated knowing this ahead of time.
+      
+      The biggest concern was the length and organization of the appointment. We waited approximately 45 minutes before seeing the first doctor. The discussion itself took around 1.5 hours, after which we waited another 30 minutes for a second doctor to come in and provide additional recommendations based on the same information we had already discussed. It would have been far more efficient and considerate of families’ time if both doctors had attended together. In total, the visit lasted approximately 3.5 hours, which is difficult when young children are involved.
+      
+      I understand healthcare is demanding, and I respect the education and effort these professionals put into helping families. My frustration is not personal, it comes from hoping for a more practical, family-friendly, and compassionate experience.
+      
+      Parents are already under stress when seeking help for their children, and small improvements in organization, communication, and consideration would make a huge difference.
+      
+      I genuinely hope this feedback is taken constructively because our community needs good pediatric services, and I want this clinic to succeed.
   - name: "Bill Fortier"
     rating: 5
     comment: |
@@ -44,8 +60,4 @@ reviews:
     comment: |
       Absolutely love Dr.Lo. She is super knowledgeable and great with the kids and provides exceptional care. The problem is with the way the clinic is run. The front staff is impossible to deal with over the phone, there is never any appointments at all when the kids get sick and need to be seen. You have to book months in advance for anything. We see more walk-in clinics and emergency rooms than our pediatrician which defeats the purpose of having one. It is super frustrating to have an incredible doctor that you can’t ever see. The receptionist don’t even want to try to accomodate or communicate with the doctors. They just say no sorry try to call tomorrow or go to emergency room. It’s no wonder the emergency rooms are so overrun these days. This clinic needs new receptionists and an office manager who knows what they are doing. It based on the doctor alone would give a 5 star review.
       Edited Update: Saw the doctor 3 months ago in clinic. I was offered and accepted to have a follow up “phone appointment” rather than in office visit in the hopes of saving nearly two hours of driving time. The appointment was booked for 10:30 in the morning. At 2:00 in the afternoon I called in to inquire what had happened to my phone appointment and was informed that it had been changed in the system a month ago, despite the fact they called me 3 days ago to confirm the day and time and told me to be by my phone and available to talk at that time. I find it absolutely unacceptable that patients are expected to be respectful of the doctors time when visiting in clinic but the same courtesy is not returned. If I were to book an appointment time for 10:30 I couldn’t just decide to change my appointment time to “sometime after 4:00” and show up and expect to be seen. In fact I would be charged a no show fee if I did that. So why is it acceptable for to be done to me. I’ve wasted half my day waiting for a phone call and now have to rearrange even more of my day if I wish to follow up with my children’s health issues!?!? I would NOT recommend to anyone to accept a phone appointment.
-  - name: "Patricia Pavia"
-    rating: 2
-    comment: |
-      We love, Dr Lo she is an amazing doctor. The clinic needs work, we had an appt in the morning, we showed up and the receptionist told us it was cancelled because we didn't call back to confirm. I have tried to call. Every time I do, the phone lines always go straight to voicemail and states that the clinic is “closed” even though online the hours are open until 4pm. We are there and the only time they can rebook us to see her is 6 months out! Its already so hard to find a pediatrician..
 ---

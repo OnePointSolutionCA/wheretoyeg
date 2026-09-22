@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Castle Downs"
 address: "6893 Ad Astra Blvd NW, Edmonton, AB T5E 6X3"
 rating: 4.7
-review_count: 280
+review_count: 281
 tier: "featured"
 phone: "(587) 414-6380"
 website: "http://www.griesbachfamilydental.com/?utm_campaign=gmb"

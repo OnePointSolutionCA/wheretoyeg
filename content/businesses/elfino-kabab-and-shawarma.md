@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/elfino-kabab-and-shawarma-1.jpg", "/photos/elfino-kabab-and-shawarma-2.jpg", "/photos/elfino-kabab-and-shawarma-3.jpg"]
 rating: 4.7
-review_count: 1406
+review_count: 1418
 price_range: "$"
 amenities:
   - "Halal"
@@ -32,6 +32,10 @@ tags: ["edmonton", "shawarma", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Hasan Hasan"
+    rating: 5
+    comment: |
+      Absolutely one of the best shawarma places in Edmonton! The chicken and shawarma were incredibly delicious, and the seasoning was amazing—full of flavor and perfectly balanced. Everything tasted fresh, and the portions were generous. Highly recommend this place, I'll definitely be coming back! 😋🌯🍗
   - name: "Richard York"
     rating: 5
     comment: |
@@ -59,8 +63,4 @@ reviews:
     rating: 5
     comment: |
       Happened to go here it was the only thing open late but did not regret coming at all.AMAZING FOOD!!! soo good we got the hummus, mixed platter and beef burger everything cooked to perfection well seasoned and excellent taste! 1000% recommend to everyone.
-  - name: "Omar Najmeddine"
-    rating: 5
-    comment: |
-      El fino is home of the most delicious shawarma in Edmonton by far. It’s also exactly how you would get it in Syria. There is really no better restaurant to eat a chicken shawarma. I always get the same thing and it’s the jumbo chicken shawarma.
 ---

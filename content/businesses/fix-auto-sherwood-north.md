@@ -22,7 +22,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/fix-auto-sherwood-north-1.jpg", "/photos/fix-auto-sherwood-north-2.jpg", "/photos/fix-auto-sherwood-north-3.jpg"]
 rating: 4.8
-review_count: 116
+review_count: 118
 price_range: "$$$"
 amenities:
   - "Insurance Approved"

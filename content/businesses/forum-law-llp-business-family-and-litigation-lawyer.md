@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/forum-law-llp-business-family-and-litigation-lawyer-1.jpg", "/photos/forum-law-llp-business-family-and-litigation-lawyer-2.jpg", "/photos/forum-law-llp-business-family-and-litigation-lawyer-3.jpg"]
 rating: 4.8
-review_count: 224
+review_count: 226
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,10 @@ tags: ["edmonton", "legal"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Rahaf Kassm"
+    rating: 5
+    comment: |
+      I contacted Forum law for assistance with the sale of our house and we were transferred to Muhammad Yassin. I would like to sincerely thank Muhammad as he was just great to work with and he placed so much care and detail in the work he did. The buyers wanted possession fairly quickly and Muhammad made sure the deal closes ASAP. I will definitely contact Forum Law again in the future. Thank you to Muhammad and the Forum Law team!
   - name: "Queen Alexandra Apartment"
     rating: 5
     comment: |
@@ -54,8 +58,4 @@ reviews:
     rating: 5
     comment: |
       My husband and I worked with Muhammed-Ali Yassin to create our will, and the experience was excellent. He and his team were incredibly helpful in guiding us through the decisions we needed to make. They were knowledgeable, informative, and made the entire process clear and straightforward. Everything was handled efficiently and with great attention to detail. We highly recommend!
-  - name: "Sarah Yassine"
-    rating: 5
-    comment: |
-      I had an excellent experience working with Muhammed and the team during the purchase of my new home. Muhammed was professional, responsive, and incredibly thorough throughout the entire process. He took the time to explain everything clearly, made sure all the details were handled properly, and helped the transaction go smoothly from start to finish. I would highly recommend him to anyone needing a knowledgeable and reliable real estate lawyer.
 ---

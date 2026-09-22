@@ -23,10 +23,6 @@ reviews:
       Service was friendly and relaxed, which matched the overall vibe of the café. It’s not the kind of place you rush through; it’s more about enjoying the space and the experience.
       
       Overall, Glasshouse Café is a lovely spot for the ambiance and aesthetic. Even if the flavors are just okay, the atmosphere alone makes it worth a visit.
-  - name: "Cyril Nuere"
-    rating: 5
-    comment: |
-      I had a wonderful experience at Glasshouse Cafe together with family. The service was top-notch, truly attentive and friendly. The atmosphere and the staff makes this place shine bright.  Definitely a spot I'd love to visit again!
   - name: "John William Wade"
     rating: 5
     comment: |
@@ -35,6 +31,10 @@ reviews:
       The staff are numerous and very pleasant here.
       The Café Mocha and Lattes here are very well-made and are presented perfectly 👌. Be sure to treat yourself to one of their cinnamon buns which they will heat up for you as well. Yummy 😋
       Their are many different tables with varied views to choose from. Enjoy!
+  - name: "Cyril Nuere"
+    rating: 5
+    comment: |
+      I had a wonderful experience at Glasshouse Cafe together with family. The service was top-notch, truly attentive and friendly. The atmosphere and the staff makes this place shine bright.  Definitely a spot I'd love to visit again!
   - name: "Rose Wile"
     rating: 2
     comment: |

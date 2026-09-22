@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "St. Albert"
 address: "140 Bellerose Dr #105, St. Albert, AB T8N 8N8"
 rating: 4.5
-review_count: 364
+review_count: 365
 tier: "featured"
 phone: "(780) 569-5553"
 website: "http://hathawaysdiner.com/"
@@ -22,10 +22,6 @@ reviews:
       My wife had a Benny with a very thin turkey sausage patty, and I had a Corned Beef Hash Skillet.  The Turkey Sausage Benny lacked taste, but the homemade hashbrowns were very nice and the hollandaise sauce was flavorful.  The Corned Beef hash was a smaller serving than I was expecting, but it was flavorful.  There was a small slice of bread included that was not really toasted or buttered.
       Overall, I was more impressed with this location than the original location and will certainly go back again in the near future.
       I will post the 2 pictures I took of our food.
-  - name: "De66ee Gee"
-    rating: 3
-    comment: |
-      First time here and it wasn't busy. We were offered a booth not long after we walked in which was good. We sat for over 20 minutes, no offer of drinks, no menu watching the servers on their phones and finally decided to walk to the back and ask if we could be looked after. We got up then someone came to our table. We did order and our food did come fairly fast and it was good. Waffles were light and fluffy, milkshake really good and the beef dip was a very good sized portion. We weren't offered refills on our drinks which is always disappointing. It wasn't busy and phones definitely seemed to be more important than looking after paying customers. Not sure if I'll be back.
   - name: "Kim Jurina"
     rating: 5
     comment: |
@@ -44,6 +40,12 @@ reviews:
     rating: 5
     comment: |
       The food was FANTASTIC! The staff was AMAZING!! We have not been here before, as it is a ways out there for us. But we will Definitely be back! Had a lovely time, thank you to the staff for such a great time!
+  - name: "T-Bird"
+    rating: 5
+    comment: |
+      We had breakfast a few days ago. Reception was good, including provision of menus and initial drinks (coffee and orange  juice).  Service was good, professional and friendly.   The juice  and coffee were good - the coffee was a flavourful medium roast.  We had the regular two egg breakfast with sausage, and an order of stuffed French toast.
+      
+      The meals were big. The service was great.  We much recommend Hathaways in St.  Albert for breakfast.
 hours:
   monday: "8:00 AM–3:00 PM"
   tuesday: "8:00 AM–3:00 PM"

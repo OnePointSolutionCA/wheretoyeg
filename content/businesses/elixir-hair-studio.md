@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/elixir-hair-studio-1.jpg", "/photos/elixir-hair-studio-2.jpg", "/photos/elixir-hair-studio-3.jpg"]
 rating: 4.9
-review_count: 561
+review_count: 562
 price_range: "$$$$"
 amenities:
 

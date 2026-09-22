@@ -13,6 +13,10 @@ google_maps: "https://maps.google.com/?cid=8049599210776897830&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/ellwood-pizza.jpg"
 reviews:
+  - name: "Tasnim"
+    rating: 5
+    comment: |
+      Incredible flavour with all the topping options! They are very generous in all portions. Bbq chicken and tandoori were savoury nothing too salty, perfect crust. We had a complicated order and they accommodated and understood perfectly, Halal is a bonus!! You can taste the difference
   - name: "Anonymous Anonymous"
     rating: 1
     comment: |
@@ -31,16 +35,12 @@ reviews:
     rating: 5
     comment: |
       Tried this place for Pi day. Decent pricing, excellent flavour for the pizza, and decent wings as well. Definitely loved the donair pizza, and the BBQ chicken was also a hit! Would recommend ordering in advance, as it took 35 minutes to get my order as a walk in.
-  - name: "Hanif Amlani"
-    rating: 5
-    comment: |
-      My first time ordering and I was very happy with the Pizza. I had an excellent Halal Pizza, that was nice and Hot. I opted for the unlimited toppings and they definitely did not skimp on the toppings.
 hours:
-  monday: "11:00 AM–10:00 PM"
-  tuesday: "11:00 AM–10:00 PM"
-  wednesday: "11:00 AM–10:00 PM"
-  thursday: "11:00 AM–10:00 PM"
-  friday: "11:00 AM–11:00 PM"
-  saturday: "11:00 AM–11:00 PM"
-  sunday: "11:00 AM–10:00 PM"
+  monday: "11:00 AM–12:00 AM"
+  tuesday: "11:00 AM–12:00 AM"
+  wednesday: "11:00 AM–12:00 AM"
+  thursday: "11:00 AM–12:00 AM"
+  friday: "11:00 AM–1:00 AM"
+  saturday: "11:00 AM–1:00 AM"
+  sunday: "11:00 AM–12:00 AM"
 ---

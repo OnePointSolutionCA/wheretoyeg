@@ -44,12 +44,17 @@ reviews:
       They even checked her oral health, cleaned plaque from her canine teeth, and provided our family with a Virbac toothbrush and toothpaste (the crème de la crème of pet dental care brands), all free of charge!
       Overall, I am extremely happy with this clinic. Having my dog spayed was long overdue, and they made the entire experience as smooth and stress-free as possible.
       Thank you and all the best, Groat Veterinary Centre!
-  - name: "Katarina Reandy"
-    rating: 5
-    comment: |
-      Our Kitten, Sophie, was spayed yesterday at Groat Veterinary Centre. Things went fantastically well. From when I emailed the first time to pick up we felt comfortable leaving our fur baby with them for her big day. Everything was explained clearly and they sent a message the next morning to check up on her. We aren't new pet parents and find compassionate, reasonably priced care difficult to find within city limits but have found our new vet clinic. We'll pass on your name to others seeking a vet and will definitely be back when our other fur babies need care. Thank you so much!!
   - name: "Al"
     rating: 5
     comment: |
       Our animals have received exceptional care at Groat Veterinary Centre.  We do rescue work and we've never run across a more caring staff and veterinarians.  They are always willing to help us save or care for an animal.  They are the best.
+  - name: "Sarah Bunny"
+    rating: 5
+    comment: |
+      I've had only 4 animals in my adult life. All of them trained to be a support animal for myself.  Each one of them had their own story.  Two were rescues, and two, including my current companion I've had with me since they were babies.
+      Today we took our dog to be neutered, and the experience was very heartwarming. I was emotional, but they were exceptional.  I needed help to understand a few things, and Kelsey clarified them. She and Lorel were fantastic. Knowing that they were right about the communicating back and forth, keeping me in the loop. I didn't have any doubts.  I felt reassured. When scheduling my dogs appointment, it was easy. I had received a quote low$-high$
+      and they were right on the mark.
+      Two days later I called to book my dogs appointment and they got me in the next day.
+      Today was efficient and I was able to bring him home to recover without any trouble.
+      He's doing well and I would absolutely recommend bringing g your animal here. The separation of species was a relief as we don't have any socialization with cats. And the staff deserve a raise!! Thank you for taking such good care of my furry friend.
 ---

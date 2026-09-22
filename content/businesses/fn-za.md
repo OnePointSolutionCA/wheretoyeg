@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Jasper Ave"
 address: "11939 Jasper Ave, Edmonton, AB T5K 0P1"
 rating: 4.8
-review_count: 250
+review_count: 252
 tier: "featured"
 phone: "(587) 900-9666"
 website: "https://fnza.wtf/"

@@ -11,16 +11,16 @@ phone: "(587) 408-8982"
 website: "https://www.heavenlydesserts.ca/"
 google_maps_url: "https://maps.google.com/?cid=4498136272726641030&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM–11:00 PM"
-  tuesday: "10:00 AM–11:00 PM"
-  wednesday: "10:00 AM–11:00 PM"
-  thursday: "10:00 AM–11:00 PM"
-  friday: "10:00 AM–1:00 AM"
-  saturday: "9:00 AM–1:00 AM"
-  sunday: "9:00 AM–11:00 PM"
+  monday: "11:00 AM–11:00 PM"
+  tuesday: "11:00 AM–11:00 PM"
+  wednesday: "11:00 AM–11:00 PM"
+  thursday: "11:00 AM–11:00 PM"
+  friday: "11:00 AM–1:00 AM"
+  saturday: "10:00 AM–1:00 AM"
+  sunday: "10:00 AM–11:00 PM"
 photos: ["/photos/heavenly-desserts-edmonton-1.jpg", "/photos/heavenly-desserts-edmonton-2.jpg", "/photos/heavenly-desserts-edmonton-3.jpg"]
 rating: 4.6
-review_count: 408
+review_count: 411
 price_range: "$$"
 amenities:
   - "Dine-In"

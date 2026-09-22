@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/in-step-physical-therapy-edmonton-accident-dizziness-pelvic--1.jpg", "/photos/in-step-physical-therapy-edmonton-accident-dizziness-pelvic--2.jpg", "/photos/in-step-physical-therapy-edmonton-accident-dizziness-pelvic--3.jpg"]
 rating: 4.9
-review_count: 873
+review_count: 876
 price_range: "$$"
 amenities:
 

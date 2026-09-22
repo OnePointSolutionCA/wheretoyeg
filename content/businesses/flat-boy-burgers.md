@@ -13,6 +13,10 @@ google_maps: "https://maps.google.com/?cid=2483368892386084370&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/flat-boy-burgers.jpg"
 reviews:
+  - name: "Kaden Kainberger"
+    rating: 5
+    comment: |
+      Burgers are so damn good we ate them too fast to get a photo, the loaded flat fries are the bomb too. Drink selection is crazy and the milkshakes are to die for, no better burgers in Beaumont
   - name: "Keri Gibson"
     rating: 5
     comment: |
@@ -25,14 +29,10 @@ reviews:
     rating: 5
     comment: |
       the burger was insane, i could cut you with how crispy the patties were.. exactly how i want my smashburger. new location, same amazing burger. the goats.
-  - name: "Taylor White"
+  - name: "Fred Kim"
     rating: 5
     comment: |
-      The best smash burgers in town. Great atmosphere and friendly service.
-  - name: "stephane arnault"
-    rating: 5
-    comment: |
-      Amazing burgers and it’s a good location right in the heart of Beaumont.
+      Came down from Edmonton and I was not disappointed. The burgers were juicy and grilled nicely and the Flat Boy Fries were fairly seasoned. Highly recommend this!
 hours:
   monday: "11:00 AM–10:00 PM"
   tuesday: "11:00 AM–10:00 PM"

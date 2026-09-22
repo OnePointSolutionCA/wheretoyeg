@@ -13,16 +13,16 @@ google_maps: "https://maps.google.com/?cid=18040525341822984866&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/finetread-and-tires-ab-ltd.jpg"
 reviews:
-  - name: "Ashmeet Kaur"
-    rating: 5
-    comment: |
-      Great guy, I needed someone so fix my flat tire asap. And this guy came in and fixed it like in 10 mins also, with a reasonable pricing.
-      Thank you
   - name: "Robin Tetterington"
     rating: 5
     comment: |
       I would definitely recommend Fine treads.
       He came out on a Sunday afternoon and quickly repaired my truck tire. Great job. Mark
+  - name: "Ashmeet Kaur"
+    rating: 5
+    comment: |
+      Great guy, I needed someone so fix my flat tire asap. And this guy came in and fixed it like in 10 mins also, with a reasonable pricing.
+      Thank you
   - name: "Terri Rebisz"
     rating: 5
     comment: |

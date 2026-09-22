@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–9:00 PM"
 photos: ["/photos/great-white-car-wash-169th-1.jpg", "/photos/great-white-car-wash-169th-2.jpg", "/photos/great-white-car-wash-169th-3.jpg"]
 rating: 4.1
-review_count: 474
+review_count: 477
 price_range: "$$"
 amenities:
 
@@ -40,12 +40,14 @@ reviews:
     rating: 5
     comment: |
       Overall a great place to wash your car. During the winter always check the website to make sure it the automated wash is working. Considering how many cars go through I’ve only seen it down for a day or two. And the attendants are friendly, want to give a shout out to Rebecca. Definitely worth the monthly membership.
-  - name: "Jojo Mitchell"
+  - name: "Ronny A"
     rating: 5
     comment: |
-      A very good car wash place. It is so worth it with the unlimited plan especially when the roads are messy. Great concept with amazing plans.
-      
-      Griffin was helpful to us.
+      Absolutely the best car wash I’ve ever been to. Excellent prices!
+      The employee Jeremiah went above and beyond to help me out, and I’m genuinely grateful for the outstanding service he provided. Customer service like that is rare these days, and it made a huge difference.
+      Upper management should recognize him for his exceptional work — he truly represents the best of this business.
+      I will definitely come back to this location.
+      Thank you! 😊
   - name: "Tai 780"
     rating: 5
     comment: |

@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Spruce Grove"
 address: "120 South Ave, Spruce Grove, AB T7X 3B1"
 rating: 4.7
-review_count: 575
+review_count: 576
 tier: "featured"
 phone: "(780) 962-3755"
 website: "http://www.grovecollision.ca/?utm_campaign=gmb"

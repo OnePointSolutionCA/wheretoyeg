@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–11:45 PM"
 photos: ["/photos/escape-hour-edmonton-1.jpg", "/photos/escape-hour-edmonton-2.jpg", "/photos/escape-hour-edmonton-3.jpg"]
 rating: 4.9
-review_count: 1853
+review_count: 1851
 price_range: "$$"
 amenities:
 

@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/fnza-1.jpg", "/photos/fnza-2.jpg", "/photos/fnza-3.jpg"]
 rating: 4.8
-review_count: 250
+review_count: 252
 price_range: "$$"
 amenities:
   - "Takeout"

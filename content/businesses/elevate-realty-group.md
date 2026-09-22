@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–9:00 PM"
 photos: ["/photos/elevate-realty-group-1.jpg", "/photos/elevate-realty-group-2.jpg", "/photos/elevate-realty-group-3.jpg"]
 rating: 5
-review_count: 340
+review_count: 342
 price_range: "$$"
 amenities:
 
@@ -56,8 +56,9 @@ reviews:
       Brianna Wagner She is our real estate broker we have worked with her for a long time  while we searched for our very first home. From day one, she was incredibly patient, knowledgeable, and supportive through what turned out to be a long journey. Her attention to detail during the offer, process and negotiations was outstanding. Every step of the way she made sure everything went smoothly.
       Thank you Brianna in finding our perfect first home.
       If you're looking for a dedicated, trustworthy, and truly caring realtor, look no further. We are so grateful. Thanks again from Sheryl & Kevin.
-  - name: "AKINTUNDE ABOABA"
+  - name: "Karen J"
     rating: 5
     comment: |
-      Crystal was fantastic to work with when buying our home in Edmonton. She was knowledgeable, professional, and incredibly patient throughout the entire process. Her guidance made everything smooth and stress-free. We always felt supported and well-informed. I highly recommend Crystal to anyone looking for an exceptional real estate agent.
+      Absolutely loved working with Robert Hasek! He was knowledgeable, honest, organized, and always made me feel like I was in good hands. He wasn’t afraid to steer me away from a bad decision and helped me find a home that was a great fit and great value. We clicked right away, which made the process much easier.  I couldn’t be happier with how everything turned out. Highly recommend!
+      Karen J.
 ---

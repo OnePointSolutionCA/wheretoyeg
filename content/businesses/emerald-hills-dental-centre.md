@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "170, 8005 Emerald Dr #170, Sherwood Park, AB T8H 0P1"
 rating: 4.8
-review_count: 252
+review_count: 255
 tier: "featured"
 phone: "(587) 269-4900"
 website: "https://www.emeraldhillsdental.ca/"
@@ -14,10 +14,6 @@ google_maps: "https://maps.google.com/?cid=12702001467177544200&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/emerald-hills-dental-centre.jpg"
 reviews:
-  - name: "Sara Blackmore"
-    rating: 5
-    comment: |
-      Dr. Gauf was amazing! I have a huge anxiety of dentist and needles and he walked me through each step and was extremely patient with me! I had to get a tooth removed and Dr. Gauf made it so I didn’t even realize I was done. He was gentle and very kind, even reassured me after that I did an amazing job. Definitely not that scared to go back anymore if I see him!
   - name: "Paul Forget"
     rating: 5
     comment: |
@@ -43,6 +39,10 @@ reviews:
     rating: 5
     comment: |
       Family and I have been going to Emerald Hills dental about 4 years now and have had nothing but great experiences. Staff are kind and patient, the atmosphere is very calming and clean. Would absolutely recommend for any dental procedure.
+  - name: "Brittany Walker"
+    rating: 5
+    comment: |
+      This was my first time at Emerald Hills Dental and it was great. The staff are all very friendly, Dr.Jeffer was really knowledgeable and someone you can trust with your teeth. I know lots of people who get nervous about the dentist (myself included) but everything went really smoothly and me and my family will be regular patients going forward.
 hours:
   monday: "9:00 AM–5:00 PM"
   tuesday: "10:00 AM–7:00 PM"

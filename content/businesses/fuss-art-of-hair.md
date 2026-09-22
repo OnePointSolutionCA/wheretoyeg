@@ -40,14 +40,12 @@ reviews:
     rating: 5
     comment: |
       Gina cut my hair for a pretty big transformation - over 12 inches off for a waist to collarbone length cut! She did a fantastic job looking at my folder of references photos and coming up with a style that worked with my hair type while still looking how I had imagined it. I had a great time and really good experience. The new location is also in a nice area!
-  - name: "Una Rhoddy"
-    rating: 5
-    comment: |
-      Visited this gorgeous salon for the first time after having bad hair luck for 15 years. Easily the best haircut I've ever received, also amazing vibe to the salon and stellar music choice haha
-      
-      Hats off to Carrie! Literally off because I'm not embarrassed by my hairstyle anymore. She truly took the time to listen to what I wanted and gave me really sound advice for growing out my formerly broken and now ridiculously soft hair. The head massage during washing almost had me snoring too lol. nd I left feeling so confident, touching my soft hair so frequently but the curls she styled me with lasted almost half the day. Would recommend to anybody for a wonderful salon experience!
   - name: "Diane Bickford"
     rating: 5
     comment: |
       Followed my stylist Carrie to Fuss & I am glad that she made the move.  As I walked into the salon for the first time, I loved how airy, bright & welcoming it is and it has a great view of the river valley.  Went for a blowout for my first visit as I needed product.  Carrie did a great job of my hair and I am very happy with my Sacha Juan moisturizing shampoo & conditioner.  Have already booked my next visit.  I recommend Fuss and the Sacha Juan product line to everyone.
+  - name: "Julie Wilson"
+    rating: 5
+    comment: |
+      I really enjoyed going to Fuss over the past year!  Yesterday,  Melissa did a fantastic job of correcting a really bad impulse haircut that I had received earlier in the week.  She is very talented at both colouring and cutting hair and I always leave feeling great.   I also find her really kind and easy to talk to.  I have also had Amy cut and colour my hair and she is really wonderful too!  I highly recommend them both. Great place with creative stylists!
 ---

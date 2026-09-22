@@ -28,6 +28,10 @@ tags: ["karting", "racing", "birthday-parties"]
 active: true
 date_listed: "2026-08-18"
 reviews:
+  - name: "Dawn S Demers"
+    rating: 5
+    comment: |
+      I held a work team engagement event her and everyone had the best time. It was so much fun for adults! It was clean and set up for private parties. Mgmt went above and beyond to help us set up and even provided us with a cooler and table cloths. I would definitely suggest for a fun party for everyone of all age groups.
   - name: "Cole"
     rating: 5
     comment: |
@@ -49,8 +53,4 @@ reviews:
     comment: |
       Walk in with my son for a quick race. Was even more excited due to nobody there. All the employees were lounging around on the couch. Approach the counter and immediately told we can’t get one single race due to A track rental. The party for the track rental were not there. I feel we could have been accommodated for one race while they waited for the track rental party to show up. Also, more sincere about it due to Traveling out of our way 40 mins.
       I will not go back nor recommend based on my experience.
-  - name: "Anna Powell"
-    rating: 5
-    comment: |
-      Great experience! We witnessed someone have a medical emergency and the staff handled it great. Calling 911 and grabbing supplies as needed. I got too hot on my 1st ride, they checked on me, offered a refund on the rides I didn't get to take, and grabbed me a powerade. Top notch staff and place. Will definitely be back when we are in the area.
 ---

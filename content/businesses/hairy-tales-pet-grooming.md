@@ -32,14 +32,16 @@ reviews:
     rating: 5
     comment: |
       Cooper had his first introductory groom! And it was excellent. Was nice to get him all trimmed up and able to see out of his eyes again and for us to see his eyes better! This isn’t a full groom as it was an intro one where he gets used to being brushed, blow dried, washed, trimmed. Booking another groom soon!
+  - name: "Jeanine Perez"
+    rating: 5
+    comment: |
+      Luna came to Hairy Tales today with a lot of matted areas, especially on her tail and chest. Even around her eyes had some staining. But Tatiana was able to fix the matted areas without shaving her entire body. Although there were a few spots that needed shaving, Luna still came out looking fluffy and so white 🤍
+      
+      Her place is also close to my area, which is super convenient, and it only took around 45 minutes to 1 hour to groom Luna. I would definitely recommend her to my friends and family. Thanks Hairy Tales.
   - name: "Tammy Vowel"
     rating: 5
     comment: |
       My dog Casey came home from her grooming appointment looking beautiful, but most important, she was relaxed and happy when I picked her up. She very obviously enjoyed her time with Tatiana and the quality of the groom was exceptional.
-  - name: "Alexandrea Bowes"
-    rating: 5
-    comment: |
-      Tetiana did such a wonderful job with my small standard poodle. She understood what I was looking for in the cut and my dog came out looking as expected. Definitely take your pup here.
   - name: "Marie-France LeBlanc"
     rating: 5
     comment: |

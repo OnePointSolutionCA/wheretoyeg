@@ -40,14 +40,14 @@ reviews:
     rating: 5
     comment: |
       I feel fortunate to have found Dr. Alabi. He is caring and empathetic. I've never had a problem with wait times or getting an appointment.
-  - name: "Sue Yerex"
-    rating: 5
-    comment: |
-      As a patient the treatment is professional, quick and respectful.  They take walkin clients also but waits can be long.  Very busy practice.
   - name: "Taniel Smith"
     rating: 1
     comment: |
       Online it says they open at 9:30am on Saturdays and I confirmed this with the staff on Friday, Feb 27th. I came here early to see the doctor because that’s what the staff suggested since I didn’t have an appointment and the doctors are booked out. So I, along with other patients got there 10 min early just for us to get here and see a note that says they are closed Feb 28th
+  - name: "Sue Yerex"
+    rating: 5
+    comment: |
+      As a patient the treatment is professional, quick and respectful.  They take walkin clients also but waits can be long.  Very busy practice.
   - name: "J P"
     rating: 5
     comment: |

@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "6018 75 Street NW, Edmonton, AB T6E 2W6"
 rating: 3.9
-review_count: 527
+review_count: 533
 tier: "featured"
 phone: "(780) 499-5280"
 website: "https://edmonton.funparkcanada.ca/"

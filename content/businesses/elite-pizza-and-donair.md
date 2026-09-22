@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Castle Downs"
 address: "5316 Admiral Girouard St, Edmonton, AB T5X 3N5"
 rating: 4.6
-review_count: 181
+review_count: 180
 tier: "featured"
 phone: "(780) 456-5005"
 website: "https://elitepizzaanddonair.com/"
@@ -28,18 +28,6 @@ reviews:
     rating: 5
     comment: |
       First things first, the food here is delicious. My friend and I have been stranded here because our rental car broke down. The kind gentlemen here gave us a free pastry as we’ve been waiting in here for hours. All to say, it was great food, great music, and great service. This man made our bad day a little bit better. A little act of kindness always goes far.
-  - name: "Aminah Ibrahim"
-    rating: 2
-    comment: |
-      Extremely dissapointed with the service I received yesterday.
-      
-      Once in a while I pick up a pizza and drinks for my daughter and I on my way home from work and yesterday I arrived and took a moment in my vehicle to message her about what toppings she wants as it would be our first time trying this spot. In that time, the older lady who works the counter came out and banged on my window saying I could not park there as the spot is only for customers. At that point in time I was yet to exit from my vehicle.
-      
-      The rudeness and aggression that was displayed was a major turn off but still I went in to get a drink I was told they carried so that it wouldn’t be a complete waste of time. The older woman then continued with her hostility telling me that even with a drink purchase I could not park there. I let her know that I was on my way home after this stop regardless and at this point I was in fact a customer but clearly this did not matter to her. I am downplaying this interaction, it was lengthy and rude.
-      
-      At the end of the transaction she also refused to hand me my drink in some sort of petty protest. I am appalled at the disrespect and audacity I experienced during the entire interaction from start to finish.
-      
-      I truly hope this review is seen by the owner(s) of the establishment as personally I would never allow someone so out of hand be the face of my business. Truly, truly disappointed. And I empathize either way as I understand that the coffee spot across the street has probably been taking up spots in the parking lot but the assumptions and actions towards me were inexcusable and unwarranted.
   - name: "Jack Adams"
     rating: 3
     comment: |
@@ -48,6 +36,10 @@ reviews:
     rating: 5
     comment: |
       Ordered off skip 3-4 times, food is always worth the money even with the skip up charge, pizza is amazing even on day 2 that even the dog is begging for some. Donairs taste so fresh and the Donair poutine is a must have here.
+  - name: "asya"
+    rating: 5
+    comment: |
+      Just ordered for the first time and wow. This is now me and my family’s new go to pizza place. Absolutely beautiful pizza. Tastes like something my mom used to make. Never change the recipe!!!  They also included complimentary ice cream and cinnamon buns. Amazing first impression !! Im lucky to have found it right before Ramadan!
 hours:
   monday: "11:00 AM–11:00 PM"
   tuesday: "11:00 AM–11:00 PM"

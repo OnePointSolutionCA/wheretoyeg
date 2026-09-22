@@ -5,7 +5,7 @@ category: "spas-esthetics"
 neighborhood: "Beaumont"
 address: "4003 47 Ave, Beaumont, AB T4X 2A8"
 rating: 5
-review_count: 129
+review_count: 131
 tier: "featured"
 phone: "(780) 699-3160"
 website: "http://www.ikmedispa.com/"
@@ -29,14 +29,14 @@ reviews:
       I had an excellent experience with this massage therapist. From the moment I arrived, the environment felt calm, clean, and welcoming. They took the time to ask about any specific areas of tension and tailored the session to my needs.
       Their technique was both professional and intuitive—firm where needed, but always comfortable. I left feeling noticeably more relaxed, with a significant reduction in muscle tension.
       What stood out most was their attention to detail and genuine care for client well-being. I would definitely recommend them to anyone looking for a high-quality, therapeutic massage experience, and I look forward to booking again.
-  - name: "Janine Stanton"
-    rating: 5
-    comment: |
-      Amazing Hydrafacial experience with Inder! Her home spa is beautiful, clean, and very professional. She is incredibly knowledgeable and made the whole experience relaxing and comfortable. My skin went from dry and flaky to deeply hydrated and unbelievably soft. I highly recommend her services and will definitely be back!
   - name: "Kate ABHS"
     rating: 5
     comment: |
       She's very knowledgeable! She is very concerned about you and getting better and costumizes treatments so that you get results. Her massages are really good. Her house is super 🫧 clean and her studio has it's own space. I also love her facials. She has a great variety of products and machines to address your concerns. Definitely the best!
+  - name: "Egide Birikundavyi"
+    rating: 5
+    comment: |
+      I had a great experience with my massage therapist. They were professional, attentive, and made me feel comfortable from start to finish. They really listened to my concerns and focused on the areas that needed the most attention. I left feeling relaxed, refreshed, and with much less tension. I highly recommend them to anyone looking for quality care and a calming experience.
 hours:
   monday: "9:00 AM–9:00 PM"
   tuesday: "9:00 AM–9:00 PM"

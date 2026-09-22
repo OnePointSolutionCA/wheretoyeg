@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/enercare-mckinley-1.jpg", "/photos/enercare-mckinley-2.jpg", "/photos/enercare-mckinley-3.jpg"]
 rating: 4.9
-review_count: 2655
+review_count: 2670
 price_range: "$$$$"
 amenities:
 
@@ -42,10 +42,6 @@ reviews:
     rating: 5
     comment: |
       Recently McKinley/enercare did an excellent job replacing my hot water tank in my 1956 home, so I just had them install a furnace and central air conditioning too Shawn was fantastic at assessing and explaining the options, and preparing me for how installation would go. Installation team of Ron and Daryl and others (including their electricians) were excellent.  Everyone in the entire team was friendly, and wanting to do a good job that I would be happy with long term. Every effort was made to keep my home clean and tidy and to make things go smoothly. I felt as though they did the kind of good work that they would do in their own homes in mine. I would definitely use McKinley again in future.  Thanks everyone!
-  - name: "cfuller69"
-    rating: 5
-    comment: |
-      Being that we live outside of Edmonton, we always find it challenging to acquire suitable Contractors to provide competitive pricing while offering exceptional service....and when it came to looking for a furnace replacement, our difficulty was the same.  However, after having a few other Contractors look at our needs, we received a recommendation to check with McKinley; Chris was were very responsive, offering a range of competitive pricing options to suit our needs and the the installation service was fantastic.  Thank you to Chris for supporting our many questions, Vince & Jamie as the initial installation technicians, to Andrew for his late night troubleshooting support and also Oleksander for coming out to make the necessary final adjustments to successfully complete the job; All were all punctual, pleasant and professional despite encountering a few unexpected issues throughout the upgrade / installation process.  Highly recommended all around!
   - name: "Neal Campbell"
     rating: 5
     comment: |
@@ -54,4 +50,8 @@ reviews:
     rating: 5
     comment: |
       Just had a full water purification system installed today, and we couldn't be happier. Freddie and Gabe who did the work were fantastic—super friendly, incredibly efficient, and they worked so well together. They took the time to map out the best location for the system, and their attention to detail was top-notch. They walked us through the system after they were done and made sure we were comfortable with everything before they left. We're so excited to enjoy our new, clean water!
+  - name: "cfuller69"
+    rating: 5
+    comment: |
+      Being that we live outside of Edmonton, we always find it challenging to acquire suitable Contractors to provide competitive pricing while offering exceptional service....and when it came to looking for a furnace replacement, our difficulty was the same.  However, after having a few other Contractors look at our needs, we received a recommendation to check with McKinley; Chris was were very responsive, offering a range of competitive pricing options to suit our needs and the the installation service was fantastic.  Thank you to Chris for supporting our many questions, Vince & Jamie as the initial installation technicians, to Andrew for his late night troubleshooting support and also Oleksander for coming out to make the necessary final adjustments to successfully complete the job; All were all punctual, pleasant and professional despite encountering a few unexpected issues throughout the upgrade / installation process.  Highly recommended all around!
 ---

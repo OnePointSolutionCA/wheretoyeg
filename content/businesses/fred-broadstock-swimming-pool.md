@@ -50,6 +50,10 @@ reviews:
       
       I honestly dont have anything bad to say since coming here and hopefully it continues to be a great experience haha
       Although it would be cool if it was open later than 7pm >.
+  - name: "Julia Davis"
+    rating: 5
+    comment: |
+      A wonderful outdoor pool.  Polite and smiling staff.  A large area in a quiet area, available parking.  Large showers, changing rooms.  At the entrance, drinks, snacks, and ice cream are available at reasonable prices.  On a weekday, there are not many people, there are many free sunbeds.  The pool is deep, the water temperature is comfortable, the diving towers are working.  Attentive and friendly lifeguards.
   - name: "Morgan M"
     rating: 1
     comment: |
@@ -60,8 +64,4 @@ reviews:
       Kids/family time should be seperate from adult time.
       
       Clean pool. Good staff. We need harsher rules for the idiots.
-  - name: "Julia Davis"
-    rating: 5
-    comment: |
-      A wonderful outdoor pool.  Polite and smiling staff.  A large area in a quiet area, available parking.  Large showers, changing rooms.  At the entrance, drinks, snacks, and ice cream are available at reasonable prices.  On a weekday, there are not many people, there are many free sunbeds.  The pool is deep, the water temperature is comfortable, the diving towers are working.  Attentive and friendly lifeguards.
 ---

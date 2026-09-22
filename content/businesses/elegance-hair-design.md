@@ -17,6 +17,11 @@ reviews:
     rating: 2
     comment: |
       I saw Jade for a cut and color. She turned my roots red and said she'd fix it for free at anytime if it bothered me as I noticed right away. It took a while of coordination to get me back in, but I was willing to give her another chance because she was very sweet. Today I went in and only had my roots touched up - my skin is dyed around my face and I was charged $80. I was on the verge of tears so I didn't say anything, but the more I look at it now that I'm home this is honestly not acceptable. I will never go back.
+  - name: "AMR"
+    rating: 1
+    comment: |
+      Went in for a cut because I wanted to go shorter for the fall. Usually, I just trim my ends/bangs myself and had cut some length off before deciding I'd rather get a professional to do the shorter cut. I was okay with going shoulder length to even out what I had already trimmed, along with some layers but the layers that were added are uneven and extremely choppy, not blended, which I didn't notice until I got home because I was given a very quick glance of the back in a small mirror at the end of the service. She seemed to be in a rush the entire time and told me what she was doing instead of asking. If she had asked, I'd have asked her not to add choppy layers to the back because that's not what I wanted! All I wanted was the back evened out and then some blending done.
+      Each side is also two different lengths and the front has longer layers while the back has shorter and uneven ones. Nothing in my hair is symmetrical anymore :(
   - name: "Mary Malingin"
     rating: 1
     comment: |
@@ -31,16 +36,6 @@ reviews:
     rating: 5
     comment: |
       I saw Jade April 2 she cut my hair quick and effectively. Jade is amazing and I will recommend friends and my family member sees her as well. THANK YOU JADE!! I give a 10 plus star review
-  - name: "Yngred Weinmeier"
-    rating: 2
-    comment: |
-      Today my stylist, Sim,  did a great job, but the way other staff acted during my appointment really bothered me.
-      
-      While my hair was being colored, a younger blonde woman came over with an older woman and took my stylist’s rolling cart and bowl of hair dye without asking or even looking at her. When Sim asked them to wait, she was ignored. The older woman then told the younger one to put the bowl on her counter so she could keep working. Watching my stylist be ignored like that was rude and frustrating.
-      
-      What made it worse was that the cart was taken for the older woman’s use even though she wasn’t in the middle of a service, and another cart showed up shortly after. There was no apology or explanation, which made it feel unnecessary and disrespectful.
-      
-      Sim handled it professionally, but as a client it left a bad taste and made me not want to come back. I hope management deals with this.
 hours:
   monday: "10:00 AM–7:00 PM"
   tuesday: "10:00 AM–7:00 PM"

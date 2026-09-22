@@ -56,8 +56,8 @@ reviews:
       We will definitely be back
       
       Thank you!
-  - name: "Bamu"
+  - name: "emma Shadbolt-pickett"
     rating: 5
     comment: |
-      Had a great experience at GTFO! Went in with some friends from school and they got us in right away when another place was full, which was a big win. The staff was very nice and explained everything really well, since it was a first for most of us. We didn’t finish the room in time, and had used up all our hints, but they gave us extra time and hints so we could still complete it, which we really appreciated. Amazing service, fun experience, and a nice confidence boost at the end. Can’t wait to come back and try others rooms!
+      Such a fun place! I’ve been there a handful of times and every room as a unique experience that’s worth every minute! The instructions were easy to understand, and the staff were super helpful when we needed help! I’d recommend this place if you want a fun time with groups of two or more!
 ---

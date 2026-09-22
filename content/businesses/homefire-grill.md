@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/homefire-grill-1.jpg", "/photos/homefire-grill-2.jpg", "/photos/homefire-grill-3.jpg"]
 rating: 4.6
-review_count: 1781
+review_count: 1787
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -38,10 +38,6 @@ reviews:
     rating: 5
     comment: |
       Incredible!  Best spinach dip ive ever had, tenderloin was cooked perfectly med rare. Potatoes and veggies were immaculate. Service and atmosphere is top notch.  For the quality the prices are not overly high,  better than the Keg by miles. Come to this restaurant!
-  - name: "Aimee"
-    rating: 5
-    comment: |
-      Walking into Homefire the atmosphere was relaxed and inviting. We were greeted right away by our server, no wait time went at 3:40pm for an early supper. Sat down was served right away, our server was very friendly young blonde lady. She was very informative and good at what she does. The steak salad I ordered was one of the best salads I have ever had. My husband had the meatloaf and their signature sauces were unique but oddly delicious. The place was super clean. We will be back! Plus the bonus is if you want to bring your kids there is a kids menu. One of our. Eat gems we found in Edmonton so far! Thanks for the great service, meal and atmosphere.
   - name: "Alecia"
     rating: 4
     comment: |
@@ -51,4 +47,10 @@ reviews:
     comment: |
       From the point of booking the reservation to finishing dinner, we had an exceptional experience! The atmosphere with the fireplace was warm and welcoming. The menu was nicely set with interesting and different choices, our meals were delightful. The service from the hostess and servers, to the kitchen staff in the open concept kitchen gave a feeling of family and warmth. We will definitely be returning & recommend Homefire Grill.
       It was so nice to go to a restaurant that was buzzing with activity. The huge burning fireplace and relaxing with a Blueberry Tea cocktail after dinner drink was perfection, thanks!
+  - name: "Mike Kupka"
+    rating: 5
+    comment: |
+      Perfect meal all of the way around. The place is warm and cozy, and the food is delicious. The bannock came with this butter that my wife kept eating after the bannock was all gone...
+      
+      We had bannock, wings, elk poutine, burger/fries, and chicken cordon bleu. The only criticism I have for the whole night was that the salt and pepper wings didn't have nearly enough salt or pepper, and we had to use shakers to supplement it. Everything else was amazing though, so I still give it a 5 on food.
 ---

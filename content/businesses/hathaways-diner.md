@@ -65,8 +65,10 @@ reviews:
     rating: 5
     comment: |
       First time going to Hathaway’s Diner and it won’t be our last.  We walked in for lunch and were greeted and seated right away.  Makenna was our server and she was excellent!  Attentive from start to finish of the meal.  She made some great recommendations, to make our first visit truly memorable.  We topped it off with a slice of coconut cream pie and the pistachio pineapple pie.  The pistachio pineapple was so good we ended up taking a whole pie home with us.  If you haven’t been to Hathaway’s Diner yet, you truly need to go, you won’t regret it.
-  - name: "Sheri MacNeil"
+  - name: "Alyssa"
     rating: 5
     comment: |
-      We always stay nearby when we come to the city but never checked this spot out.   Worth the 7 min off the Yellowhead to get there.  We will be back.    Homemade hollandaise, great quality proteins and I can’t say enough about the service.    We had Celia and she was amazing but everyone was on point.   We are told to come back for the beef dip and the pineapple pistachio pie.   I’d made a reservation or expect a wait on a weekend.  We went Monday morning and it was still steady busy.
+      Absolutely loved it. Excellent place for breakfast, prices were fair for the portion sizes, and the staff were great. Visiting from out of town and will recommend to anyone visiting Edmonton.
+      
+      My only regret is I was too full to have pie (so instead we got four slices and took them home with us). Highly recommend.
 ---

@@ -28,15 +28,15 @@ tags: ["edmonton", "yoga"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Alison Rombal"
+    rating: 5
+    comment: |
+      I LOVE Masa’s hot yoga classes on Monday nights and Friday morning! I get sore I’m the best ways and we don’t stop! Every class is. Different and she really makes an effort to personalize and modify poses, giving options and helping postures as needed.y favorite teacher so far jn my yoga journey. Fridays class tends to be less busy than the Monday night classes too.
   - name: "diana szafran"
     rating: 5
     comment: |
       Flo n Glo Yoga Studio is such a wonderful place. I truly enjoyed my time there. The owners are very kind and welcoming, and the studio has a beautiful, peaceful atmosphere. All of the instructors are amazing. They are very caring, patient, and take the time to guide everyone with a smile.
       It is very clean and well cared for. I highly recommend this place to anyone looking for a relaxing and positive experience. The delicious tea at the end was such a lovely touch. Thank you for creating such a special space!🤗
-  - name: "Alison Rombal"
-    rating: 5
-    comment: |
-      I LOVE Masa’s hot yoga classes on Monday nights and Friday morning! I get sore I’m the best ways and we don’t stop! Every class is. Different and she really makes an effort to personalize and modify poses, giving options and helping postures as needed.y favorite teacher so far jn my yoga journey. Fridays class tends to be less busy than the Monday night classes too.
   - name: "Tasha Mclay"
     rating: 5
     comment: |

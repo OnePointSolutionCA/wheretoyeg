@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/golden-brows-ltd-1.jpg", "/photos/golden-brows-ltd-2.jpg", "/photos/golden-brows-ltd-3.jpg"]
 rating: 4.9
-review_count: 323
+review_count: 322
 price_range: "$$"
 amenities:
 

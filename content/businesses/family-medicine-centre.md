@@ -19,8 +19,8 @@ hours:
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/family-medicine-centre-1.jpg", "/photos/family-medicine-centre-2.jpg", "/photos/family-medicine-centre-3.jpg"]
-rating: 4.3
-review_count: 18
+rating: 4.4
+review_count: 19
 price_range: "$$"
 amenities:
 
@@ -53,8 +53,8 @@ reviews:
     rating: 5
     comment: |
       After almost two years of being without a family doctor for myself or my kids, the Family Medicine Centre took us on. So far the staff are wonderful and kind, the residents are professional and personable and the quality of care from the physicians is excellent.
-  - name: "R PM"
+  - name: "Alex Webb"
     rating: 5
     comment: |
-      I’ve been a patient of Dr. Woudstra for over 5 years. He really takes the time to listen to his patients getting to the root of the problem. I’m so thankful when my Dr retired I had an opportunity to have Dr Woudstra as my family doctor. Thank you for everything.
+      Great clinic! They have always taken great care of me.
 ---

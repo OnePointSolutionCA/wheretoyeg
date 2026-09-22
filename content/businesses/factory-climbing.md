@@ -51,6 +51,10 @@ reviews:
       Also a great lounge area if you want a place to hang out while your child takes their class.
       
       I can’t say enough about how much we love this place. Highly recommend for the whole family, including your pet! Thank you for making this space available. We love it!
+  - name: "joseph savant"
+    rating: 5
+    comment: |
+      Amazing place. Not a huge amount of autobeley, but tons of options if you have done the training course. So so much bouldering, it's awesome. Lots of variety in difficulty and wall incline. Staff is super nice, and you get a free lock for your lockers. The best part is probably the community. The people that come here are super encouraging and friendly, super often occurence to have strangers hyping you up or giving you advice, especially if they sence that you are new. Only downside is the price, indoor rock climbing is an expensive hobby. Overall great place, highly recommend if you can afford it.
   - name: "Zachary Tymo"
     rating: 5
     comment: |
@@ -59,8 +63,4 @@ reviews:
     rating: 5
     comment: |
       This was a great spot to go with my son. The staff were very friendly and helpful explaining everything and going through the facility. While there definitely some serious climbers here, it wasn’t intimidating for us novices at all. Everyone there was friendly and even helpful with suggestions in some cases. Great spot to go for a day pass, or even sign up for a membership. Just be ready for some sore fingers and forearms if you aren’t used to it!
-  - name: "8JE 8JE"
-    rating: 5
-    comment: |
-      One of my favourite rock climbing gym. The atmosphere is amazing here from the staff to the people that climb, everyone is friendly and you are bound to get a compliment or two lol. The route that are set up are nice and it is refreshed fairly often so there is always a good variety.
 ---

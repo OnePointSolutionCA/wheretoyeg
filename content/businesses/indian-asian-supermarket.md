@@ -19,7 +19,7 @@ hours:
   sunday: "9:30 AM–9:00 PM"
 photos: ["/photos/indian-asian-supermarket-1.jpg", "/photos/indian-asian-supermarket-2.jpg", "/photos/indian-asian-supermarket-3.jpg"]
 rating: 4.7
-review_count: 354
+review_count: 353
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -35,6 +35,12 @@ reviews:
       ⭐⭐⭐⭐⭐
       
       I’ve been shopping here every week for my groceries, and I’ve always had a good experience. They have a great selection of Indian and Asian groceries, and everything is usually fresh and well-organized. I also find the prices to be very reasonable and genuine. Some people may have different opinions about the prices, but personally, I think the store offers good value overall. Shopping is quick and convenient, which is another reason I keep coming back. Definitely one of my regular places for groceries. Highly recommended!
+  - name: "Mandeep"
+    rating: 1
+    comment: |
+      I don’t even want to give this one start but unfortunately I have to. They charge you way extra price then the price tag.. most of time we don’t check it at the same time.. but my last visit I went there to buy gud and they charged me extra but when I comforted she oh it happened by mistake. Like what I did not notice it you would charge me extra. Second comparing with other Punjabi stores they extremely expensive . Almost double the price on so many items.
+      
+      This actually disappointed me.
   - name: "Kaur P"
     rating: 1
     comment: |
@@ -48,8 +54,4 @@ reviews:
     rating: 5
     comment: |
       Great option for karahi stuff as commercial level.
-  - name: "Abhijeet Kaur boparai"
-    rating: 5
-    comment: |
-      Great customer service… will definitely recommend to my friends and family 😇
 ---

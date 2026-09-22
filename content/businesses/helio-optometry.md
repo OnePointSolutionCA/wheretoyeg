@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/helio-optometry-1.jpg", "/photos/helio-optometry-2.jpg", "/photos/helio-optometry-3.jpg"]
 rating: 5
-review_count: 140
+review_count: 141
 price_range: "$$"
 amenities:
 
@@ -32,18 +32,6 @@ reviews:
     rating: 5
     comment: |
       April 13, 2026 - I had been wearing my glasses for two years when the temple tip broke. I randomly went to Helio to check if they could repair it. Ray assisted me and provided multiple options, and I was pleasantly surprised that the repair ended up costing me nothing. He truly went above and beyond. Thank you for your excellent service and support! everyone there was very professional.
-  - name: "Alanna D'Souza"
-    rating: 5
-    comment: |
-      We had a really great experience wit Dr McKenzie! They treated us all with 5 star service. Everything was quick and efficient! The staff was kind and helpful. Dr McKenzie was attentive, thorough, super friendly and personable!
-      
-      The biggest stand out for me was how well my daughter was treated! They offered her colouring, a drink and a comfortable spot to hang out while we had appointments! She actually had fun for the exam! The extra care taken for her stood out for us.
-      
-      Thank you to all of the team! It makes a world of a difference as a parent to come to appointments and see that your little is treated with the same importance as an adult!
-  - name: "Ekansh Agarwal"
-    rating: 5
-    comment: |
-      Amazing environment; very friendly, patient, and accommodative. Dr. Ross is very knowledgeable, listens patiently to all the questions, and clears all the doubts. Staff including Ray and Holly are cheerful and helpful. Good selection of glass frames as well. Recommend them!
   - name: "Shaylee Cardinal"
     rating: 5
     comment: |
@@ -56,8 +44,22 @@ reviews:
       A special thank you as well to the team member who helped me choose my glasses. They were extremely insightful and guided me through every detail, making what can sometimes feel overwhelming into a smooth and enjoyable experience. Their knowledge about everything related to glasses really stood out.
       
       Overall, I highly recommend this clinic to anyone looking for top-quality eye care and exceptional customer service!
+  - name: "Alanna D'Souza"
+    rating: 5
+    comment: |
+      We had a really great experience wit Dr McKenzie! They treated us all with 5 star service. Everything was quick and efficient! The staff was kind and helpful. Dr McKenzie was attentive, thorough, super friendly and personable!
+      
+      The biggest stand out for me was how well my daughter was treated! They offered her colouring, a drink and a comfortable spot to hang out while we had appointments! She actually had fun for the exam! The extra care taken for her stood out for us.
+      
+      Thank you to all of the team! It makes a world of a difference as a parent to come to appointments and see that your little is treated with the same importance as an adult!
   - name: "Nataliya Rudyk"
     rating: 5
     comment: |
       I have nothing but positive reviews for the following clinic. Yesterday, I was accepted for an emergency appointment without scheduling. The service and the doctor (Mackenzie) did  an outstanding job. Highly recommended.
+  - name: "Bobby Liu"
+    rating: 5
+    comment: |
+      In over 2 decades of wearing glasses, I have never had such a great experience as I did at Helio. Dr. Matthew was great with the exam, very thorough but explained everything in language I could understand. Ray did an amazing job showing me the selection and adjusting the frames to fit, like I said, in 2 decades of getting glasses, no one has ever bothered to reshape the legs of the glasses to fit my face. They usually put the lenses in and give them to me and wished me luck.
+      
+      Getting text updates for my glasses was also very helpful.
 ---

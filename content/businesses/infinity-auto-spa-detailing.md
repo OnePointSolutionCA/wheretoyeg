@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/infinity-auto-spa-detailing-1.jpg", "/photos/infinity-auto-spa-detailing-2.jpg", "/photos/infinity-auto-spa-detailing-3.jpg"]
 rating: 4.9
-review_count: 366
+review_count: 367
 price_range: "$$"
 amenities:
 
@@ -40,14 +40,14 @@ reviews:
     rating: 5
     comment: |
       Had a great experience with them! They did a paint correction on my truck before I sold it. Easy to deal with and made sure I was happy with everything.
+  - name: "Jesse"
+    rating: 5
+    comment: |
+      Eddie is a great guy very honest! He fit me in early for a headlight restoration, service was quick and professional with the most reasonable quote out of the 10 places I called! Thanks Eddie!
   - name: "Danielle Brayford"
     rating: 5
     comment: |
       Brought my work car in to get cleaned and didn’t have high expectations because of the amount of grime and sticky tack covered asphalt that it was covered in. Told them I just wanted it cleaner than it was and anything they did would be good for me so don’t worry if they can’t get it looking spotless. Picked it up and was blown away by how clean it was, I don’t even think it was that good when I bought the car. I’ll definitely be bringing it back when the seasons done for a touch up.
       
       It was nice to get a call after leaving to make sure I was happy with the job, makes you feel like they actually care about their work.
-  - name: "Jenny Smith"
-    rating: 5
-    comment: |
-      Brought my vehicle in for a interior detailing and engine wash, I am very happy with the results! It was very dusty and muddy on the inside and now looks brand new. They were very detailed and even cleaned the door jams which I find a lot of people overlook.
 ---

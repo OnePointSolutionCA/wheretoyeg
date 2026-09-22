@@ -46,11 +46,11 @@ reviews:
     comment: |
       Excellent food and superb service. Best pizza ever.
 hours:
-  monday: "3:30 PM–11:30 PM"
-  tuesday: "3:30 PM–11:30 PM"
-  wednesday: "3:30 PM–11:30 PM"
-  thursday: "3:30 PM–11:30 PM"
-  friday: "3:30 PM–11:30 PM"
-  saturday: "3:30 PM–11:30 PM"
-  sunday: "3:30 PM–11:30 PM"
+  monday: "11:00 AM–11:30 PM"
+  tuesday: "11:00 AM–11:30 PM"
+  wednesday: "11:00 AM–11:30 PM"
+  thursday: "11:00 AM–11:30 PM"
+  friday: "11:00 AM–11:30 PM"
+  saturday: "11:00 AM–11:30 PM"
+  sunday: "11:00 AM–11:30 PM"
 ---

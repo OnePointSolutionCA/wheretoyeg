@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/fatima-karahi-1.jpg", "/photos/fatima-karahi-2.jpg", "/photos/fatima-karahi-3.jpg"]
 rating: 4.4
-review_count: 1284
+review_count: 1298
 price_range: "$$"
 amenities:
   - "Halal"
@@ -62,20 +62,12 @@ reviews:
       Service- with a little encouragement, it could be a lot better.
       
       Would we come back- Yes
+  - name: "Muzaffar"
+    rating: 5
+    comment: |
+      Had a wonderful reunion brunch at Fatima Kadhai in Edmonton with our UET friends, the mutton kadhai and chicken kadhai were absolutely delicious, full of rich & authentic flavours, fish pakora was also a crispy & well tendered, we also had the pleasure of meeting the owner and their family during our brunch, they were incredibly warm n friendly, congrats to Abu Bakar on his wedding anniversary,
   - name: "Gouri Prathwani"
     rating: 4
     comment: |
       Ordered one kg chicken karahi for our table of three. They took about 30-40 minutes to prepare it. We absolutely loved it, portion size was good, we demolished everything. Chicken was tender and well done. Love the flavours of the gravy it was cooked in, it was delightful. The garlic naans were also soft and perfectly cooked. We also got paneer butter masala for our fourth vegetarian friend. It was not so good, he barely ate it. Overall, we loved what we had come for-their famous chicken karahi and left with no crumbs.
-  - name: "Abdul Sami"
-    rating: 3
-    comment: |
-      Dined at Fatima Karahi on December 26, 2025.
-      
-      We ordered the Beef Kebab Karahi and Broast Chicken.
-      
-      The chicken was good, and the kebab karahi was even better.
-      
-      While the food was decent overall, the pricing felt on the higher side—over $35 per person—which didn’t quite reflect in the portion size or overall value.
-      
-      For a few dollars more, one could opt for a buffet dinner with a much wider variety. Decent food, but value for money could be improved.
 ---

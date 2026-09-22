@@ -18,10 +18,6 @@ reviews:
     rating: 5
     comment: |
       I had to get my winter tires swapped for summer tires and Genesis Auto Repair did not disappoint! It’s my first time and I’m so glad I did. They have great customer service and go above and beyond for their clients. The gentleman that was helping me was knowledgeable and let me know the mechanic had noticed couple things that needed my attention! I really appreciate that. In all honesty this place is fairly priced and you will get the best deal for your money. I was amazed on how honest and fair they treated their customers! I’m a very happy customer and will definitely be returning. I have told my family and friends about this amazing shop and I highly recommend you check it out for yourself:) keep up the great work guys 🙌
-  - name: "Aya El Moallem"
-    rating: 5
-    comment: |
-      Wonderful team working here, Simo is the best and Moe at the front is super nice. Always quick to repair any issues we have with our cars. Highly recommend!
   - name: "Denise Miller"
     rating: 5
     comment: |
@@ -42,6 +38,10 @@ reviews:
     rating: 5
     comment: |
       I changed my brakes at this guy’s shop and the service was really good, also their prices were pretty decent I’ll definitely be back. I do recommend them 👌
+  - name: "Aya El Moallem"
+    rating: 5
+    comment: |
+      Wonderful team working here, Simo is the best and Moe at the front is super nice. Always quick to repair any issues we have with our cars. Highly recommend!
 hours:
   monday: "9:00 AM–5:30 PM"
   tuesday: "9:00 AM–5:30 PM"

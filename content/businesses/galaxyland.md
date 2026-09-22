@@ -18,7 +18,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/galaxyland-1.jpg", "/photos/galaxyland-2.jpg", "/photos/galaxyland-3.jpg"]
 rating: 4.3
-review_count: 7188
+review_count: 7200
 price_range: "$$$"
 amenities:
   - "Family Friendly"

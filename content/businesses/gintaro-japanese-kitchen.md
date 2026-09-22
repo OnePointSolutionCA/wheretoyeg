@@ -38,14 +38,6 @@ reviews:
       We decided to order a few items and share.   We got an order of Chicken Karaage, a combination sushi/sashimi/roll platter, and a sashimi platter. It was all very fresh and tasty and the food came to the table so fast!
       
       The quality and freshness of the various pieces of nigiri and sashimi was excellent. The presentation was very beautiful. And the taste was incredible! I would highly recommend going the Gintaro and trying it out!
-  - name: "Samantha"
-    rating: 5
-    comment: |
-      First time trying Gintaro today. I placed a to go order. The staff was kind, the place was cozy and welcoming.
-      I ordered the spicy salmon combo and the deep fried pork gyoza.
-      The gyoza was crispy and flavorful!
-      The salmon was fresh and good quality. Both the maki and sashimi had the perfect amount of sauce.
-      Absolutely delicious, so excited to return and try more items!
   - name: "Yuhuan"
     rating: 5
     comment: |
@@ -62,4 +54,22 @@ reviews:
     rating: 5
     comment: |
       Incredible food, delightful staff, and calming atmosphere! I come to this restaurant often and it’s absolutely one of my favourites. It’s always clean, and the food is always so filling. The pricing is very reasonable and the food is to die for!!! I love the chicken don, crab salad snd spy roll. I always recommend this place to people.
+  - name: "Jason Macaspac"
+    rating: 4
+    comment: |
+      Location was nice, and hidden from busy streets.
+      
+      Interior/Ambiance (4/5)
+      
+      Service was reasonable. (5/5)
+      
+      We ordered Sushi Sahimi combo (4/5)
+      
+      Gintaro Sushi (4/5)
+      
+      Grilled Squid (3/5) just bit lacking of flavor.
+      
+      Wasabi (3/5) wishing it was more spicier.
+      
+      Overall its a nice place.
 ---

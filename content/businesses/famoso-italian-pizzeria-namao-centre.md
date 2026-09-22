@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Castle Downs"
 address: "15745 97 St NW, Edmonton, AB T5X 0C7"
 rating: 4.5
-review_count: 1151
+review_count: 1149
 tier: "featured"
 phone: "(780) 756-6440"
 website: "https://famoso.ca/"
@@ -21,10 +21,6 @@ reviews:
       
       The atmosphere was warm, clean, and inviting, perfect for a relaxed dine-in experience. Overall, excellent food, great service, and a lovely ambiance.
       Highly recommended — will definitely be back! 🍕😊
-  - name: "Jessica Cook"
-    rating: 5
-    comment: |
-      Amazing food and very friendly service. We went for Mother’s Day and they even included a little gift for my mom. Great experience!
   - name: "Amanjot Kaur"
     rating: 5
     comment: |
@@ -37,6 +33,10 @@ reviews:
     rating: 4
     comment: |
       Nice family restaurant. Pizza is the main attraction.  Pasta is also good. GF options.
+  - name: "Jessica Cook"
+    rating: 5
+    comment: |
+      Amazing food and very friendly service. We went for Mother’s Day and they even included a little gift for my mom. Great experience!
 hours:
   monday: "12:00 PM–10:00 PM"
   tuesday: "12:00 PM–10:00 PM"

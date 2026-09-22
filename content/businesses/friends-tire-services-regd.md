@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "1106 37A Ave NW, Edmonton, AB T6T 0E7"
 rating: 5
-review_count: 146
+review_count: 148
 tier: "featured"
 phone: "(780) 850-1350"
 website: "https://friendstires.ca/"
@@ -18,6 +18,10 @@ reviews:
     rating: 5
     comment: |
       Great service ​"Fantastic service! Dropped in for a tire repair/replacement, and they had me back on the road in no time. The crew was professional, straightforward, and didn't try to upsell me on things I didn't need. Highly recommend them for anyone needing fast, reliable tire work."
+  - name: "Emmanuel E."
+    rating: 5
+    comment: |
+      Sani provided an excellent service without being too concerned about making extra cost off me. He helped balance and switch tires on my car at no cost. I’m definitely using him for all my tire needs henceforth.
   - name: "Jawni"
     rating: 5
     comment: |
@@ -36,16 +40,12 @@ reviews:
       Great Service
       
       Excellent service! They quickly found a tiny hole caused by a long nail that was hard to spot. Very professional, honest, and thorough. Highly recommend!
-  - name: "Chuol"
-    rating: 5
-    comment: |
-      Called and was ready to take me in in the second. Had my tire changed and valances in 15 min and I was good. Fast reliable and on the weekend!!!!!
 hours:
-  monday: "8:00 AM–8:30 PM"
-  tuesday: "8:00 AM–8:30 PM"
-  wednesday: "8:00 AM–8:30 PM"
-  thursday: "8:00 AM–8:30 PM"
-  friday: "8:00 AM–8:30 PM"
-  saturday: "8:00 AM–8:00 PM"
-  sunday: "8:00 AM–8:00 PM"
+  monday: "8:00 AM–9:30 PM"
+  tuesday: "8:00 AM–9:30 PM"
+  wednesday: "8:00 AM–9:30 PM"
+  thursday: "8:00 AM–9:30 PM"
+  friday: "8:00 AM–9:30 PM"
+  saturday: "8:00 AM–9:30 PM"
+  sunday: "8:00 AM–9:30 PM"
 ---

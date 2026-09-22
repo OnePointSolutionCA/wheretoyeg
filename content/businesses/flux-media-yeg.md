@@ -13,6 +13,20 @@ google_maps: "https://maps.google.com/?cid=7971869121257839418&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/flux-media-yeg.jpg"
 reviews:
+  - name: "Lindsay Robertson"
+    rating: 5
+    comment: |
+      ⭐⭐⭐⭐⭐
+      
+      Our Foundation recently worked with Andrei Roman and the team at Flux Media to photograph our entire staff and Board, and I can't recommend them highly enough.
+      
+      The quality of the final images speaks for itself, but what really sets Andrei apart is the experience he creates. Headshot day can be intimidating, especially when you're photographing dozens of people with different comfort levels in front of a camera. Somehow, he made every person feel relaxed, confident, and genuinely seen.
+      
+      He takes his time with each individual, offering subtle direction, making thoughtful adjustments, sharing images throughout the session, and ensuring people are happy with the final result before moving on. Nothing felt rushed, and every person received the same level of care and attention.
+      
+      The feedback across our team was remarkably consistent: people actually enjoyed the experience and loved their photos. That's a rare combination.
+      
+      If you're looking for someone who doesn't just take great photos but knows how to bring out the best in people, Andrei is an exceptional choice. We wouldn't hesitate to work with him again.
   - name: "Elyse Dzenick"
     rating: 5
     comment: |
@@ -33,10 +47,6 @@ reviews:
       He has a very professional studio and gear, he had the headshot I wanted maybe within 30 minutes, and within 48 hours I had my edited cleaned up picture ready to go.
       
       He is great to work with no complaints I would go to him again.
-  - name: "Anar Seepo"
-    rating: 5
-    comment: |
-      Had my headshots done with Andrei recently and it was great! He is very kind and works hard to make you feel comfortable while shooting!
   - name: "Gina Murillo"
     rating: 5
     comment: |

@@ -13,6 +13,10 @@ google_maps: "https://maps.google.com/?cid=18213081362990126624&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/elegant-affairs-catering.jpg"
 reviews:
+  - name: "Tasha Sullivan"
+    rating: 5
+    comment: |
+      John and the team at Elegant Affairs are exceptional!! We had John cater our wedding and the food was amazing. Leading up to our day, John was always available to answer questions and very accommodating to dietary restrictions. He was readily available to make changes if need be and catered to what we were looking for. John went above and beyond. Our guests raved about his food. His service and personable attitude made working with John a breeze. Thank you for everything.
   - name: "Haley 2112"
     rating: 5
     comment: |
@@ -29,10 +33,6 @@ reviews:
     rating: 5
     comment: |
       Elegant Affairs catered my daughter's wedding reception of 250 people in June 2026. They were very professional in their conduct,  even checking occaisionally during the dinner with the head table to make sure everything was well. I still hear from guests how good the food was, and several of them said they would use Elegant Affairs in the future. The food was on time, delicious, and the staff were considerate and easy to deal with.
-  - name: "Zoé Saulnier"
-    rating: 5
-    comment: |
-      Elegant affairs catered our wedding yesterday and they were amazing! The food was delicious and multiple guests came and told us they loved it. The staff were attentive and everything was handled smoothly. The communication was great. I would recommend them for a wedding for sure!
 hours:
   monday: "9:00 AM–5:00 PM"
   tuesday: "9:00 AM–5:00 PM"

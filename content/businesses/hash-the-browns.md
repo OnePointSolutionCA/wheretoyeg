@@ -21,10 +21,6 @@ reviews:
     rating: 5
     comment: |
       Thank you Becky for a fantastic experience this morning at Hash The Browns! We live nearby and this has quickly become our go-to breakfast spot. The prices are reasonable, the food is consistently great, and the staff are always friendly. We’ve already been 4–5 times and love bringing friends and family along. Highly recommend for breakfast or lunch!
-  - name: "Cindy"
-    rating: 5
-    comment: |
-      Really nice place for breakfast. Tried the veggie poutine and waffles and loved both. I was amazed that they have a separate gluten free menu. The portions were good and everything tasted fresh. Service was quick and the atmosphere was cozy.
   - name: "Ashley Swanstrom (Ash)"
     rating: 5
     comment: |
@@ -48,6 +44,10 @@ reviews:
       They lost a star in Atmosphere only for the lack of decor and the very retro style furniture, the TV's also were playing sports, otherwise it was a very comfortable and clean location.
       
       I will 100% be returning for more meals in the future.
+  - name: "Pranav Patel"
+    rating: 5
+    comment: |
+      If you haven’t been to Hash the Browns in Spruce Grove yet, you are seriously missing out. This place is a hidden gem that brings incredible flavor and vibrant presentation to every plate. And this crepe was just bombbb🔥🔥
 hours:
   monday: "7:00 AM–3:00 PM"
   tuesday: "7:00 AM–3:00 PM"

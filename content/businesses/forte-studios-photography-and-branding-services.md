@@ -5,7 +5,7 @@ category: "photographers"
 neighborhood: "Edmonton"
 address: "10301 109 St NW #203, Edmonton, AB T5J 1N4"
 rating: 5
-review_count: 178
+review_count: 177
 tier: "featured"
 phone: "(780) 707-6932"
 website: "http://www.kmhforte.com/"

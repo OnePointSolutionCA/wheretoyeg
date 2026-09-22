@@ -16,10 +16,10 @@ hours:
   thursday: "12:00 PM–9:30 PM"
   friday: "12:00 PM–9:30 PM"
   saturday: "12:00 PM–9:30 PM"
-  sunday: "12:00 PM–9:30 PM"
+  sunday: "12:00 PM–2:30 PM"
 photos: ["/photos/hibachi-house-food-truck-1.jpg", "/photos/hibachi-house-food-truck-2.jpg", "/photos/hibachi-house-food-truck-3.jpg"]
-rating: 4.9
-review_count: 43
+rating: 4.8
+review_count: 46
 price_range: "$"
 amenities:
   - "Halal"
@@ -30,6 +30,10 @@ tags: ["edmonton", "uyghur", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Jamie Oram"
+    rating: 5
+    comment: |
+      If you haven’t been here yet, you are missing out! Beautifully large and super delicious portions, and at a reasonable price. Third time back and they’ve been bang on each time. You’ve got to eat here!
   - name: "Shah Aftab"
     rating: 5
     comment: |
@@ -42,10 +46,6 @@ reviews:
     rating: 5
     comment: |
       Great food and great service. First visiting today and was quite impressed with the food and service was offered a complimentary drink as well, which  appreciated !
-  - name: "Em Land"
-    rating: 5
-    comment: |
-      Salmon and lobster was crazy good. Swappes the rice for the noodles, it was perfect. Top 3 meals of my life
   - name: "nath tagalog"
     rating: 5
     comment: |

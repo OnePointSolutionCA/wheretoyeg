@@ -19,7 +19,7 @@ hours:
   sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/hanoi-pho-vietnamese-kitchen-1.jpg", "/photos/hanoi-pho-vietnamese-kitchen-2.jpg", "/photos/hanoi-pho-vietnamese-kitchen-3.jpg"]
 rating: 4.9
-review_count: 190
+review_count: 192
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -49,12 +49,6 @@ reviews:
       Had a great experience at Hanoi Pho. I ordered the Bún Bò Huế, and it was absolutely delicious. The broth was rich and flavorful, the ingredients were fresh, and the portion was generous.
       
       If you're looking for a great bowl of Bún Bò Huế, I definitely recommend giving this place a try. I'll be back!
-  - name: "RYAN H"
-    rating: 5
-    comment: |
-      Great food, and the owner is very kind. I come here once every other week. Love it here!
-      
-      Edit: came for the pho sate was not disappointed. Very different style than the original peanut sate a lot of other restaurants do. This one is a lighter creamy broth, and the meat portions are very generous with lots of rare beef, and beef balls. This place is so good.
   - name: "Pao-Chun Huang"
     rating: 5
     comment: |
@@ -63,4 +57,8 @@ reviews:
       Ordered special pho.  Portion is big with fresh meats and tasty hand made beef balls.  No need to add hoisin sauce to well cooked broth.  Shrimp salad roll is fresh and good.
       
       All good reviews are true.  Stop by this lovely family run restaurant when you visit the area.
+  - name: "an le"
+    rating: 5
+    comment: |
+      The food here is made with a lot of care, and the veggies on the side are super fresh. The grilled pork is really tasty — you can tell the meat is fresh and juicy. Definitely try the beef meatballs, they’re homemade. Staff are friendly and professional. I’ll for sure come back!
 ---

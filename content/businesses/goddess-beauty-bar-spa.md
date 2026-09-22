@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–5:00 PM"
 photos: ["/photos/goddess-beauty-bar-spa-1.jpg", "/photos/goddess-beauty-bar-spa-2.jpg", "/photos/goddess-beauty-bar-spa-3.jpg"]
 rating: 4.9
-review_count: 197
+review_count: 200
 price_range: "$$"
 amenities:
 

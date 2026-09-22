@@ -19,7 +19,7 @@ hours:
   sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/habesha-cravings-1.jpg", "/photos/habesha-cravings-2.jpg", "/photos/habesha-cravings-3.jpg"]
 rating: 4.7
-review_count: 315
+review_count: 317
 price_range: "$$"
 amenities:
   - "Dine-In"

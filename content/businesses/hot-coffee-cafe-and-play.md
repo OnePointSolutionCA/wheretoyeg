@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "St. Albert"
 address: "410 St Albert Rd #155, St. Albert, AB T8N 5J9"
 rating: 4.5
-review_count: 146
+review_count: 149
 tier: "featured"
 phone: "(780) 569-0022"
 website: "https://hotcoffeecafe.ca/"
@@ -35,20 +35,15 @@ reviews:
       I love being able to support a local, family-owned business, and this has definitely become one of my favourite spots in St. Albert! 🤍
       
       To add, they even host events and birthday parties 😍
-  - name: "Aaysha Shaikh"
-    rating: 3
-    comment: |
-      It’s nice considering there are only two play cafes in Edmonton.
-      
-      My suggestion would be to add some more toys to the fire station and the little shop room. Last time I went there was barely anything there. Toys are broken and there are no pieces to the toy bbq they have. Most toys quite frankly need cleaning.
-      
-      Stairs for the slide is dangerous for under 2 imo. Slide is steep too. Anyways that’s fine for the older kids, but I can’t stop my baby from going there which is tiresome.
-      
-      Since the space is small, rotating toys would make it fun for returning kids.
   - name: "Tristan Johnston"
     rating: 5
     comment: |
       Very cozy little spot, great atmosphere, super friendly staff, and great balance between calm cafe and kid friendly. Admittedly I was a bit reluctant to get work done here given the child friendly atmosphere, but I didn’t notice it one bit. Great to see a spot that allows kids to be kids while still delivering great service as a cafe with pretty reasonable prices.
+  - name: "C Guzzo"
+    rating: 4
+    comment: |
+      We had a birthday party here and had a few pretty small children attend so we were worried about cleanliness. The owner worked with us to make sure the space was cleaned thoroughly for our event. I have seen reviews saying kids got sick after playing here but this wasn’t the case for us. (Edit to add, I only mentioned this because I seen a review mentioning this and wanted to say that the place was clean and sanitized like the cafe advertises. I actually chose this space because of how clean it is! We don’t like getting play place sicknesses, it’s awful.) The event was good. Workers behind the counter were pleasant and helpful!
+      The food wasn’t the quality expected which is why I’ve given 4 stars.
 hours:
   monday: "7:00 AM–8:00 PM"
   tuesday: "7:00 AM–8:00 PM"

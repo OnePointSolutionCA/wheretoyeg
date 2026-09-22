@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "10104 79 St NW, Edmonton, AB T6A 3G3"
 rating: 4.7
-review_count: 977
+review_count: 980
 tier: "featured"
 phone: "(780) 468-2529"
 website: "https://www.fhfd.ca/"

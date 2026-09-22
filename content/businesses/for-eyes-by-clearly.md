@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "8882 170 St NW 2167 phase ii, Edmonton, AB T5T 4J2"
 rating: 4.5
-review_count: 474
+review_count: 477
 tier: "featured"
 phone: "(780) 249-2053"
 website: "https://locations.foreyesbyclearly.ca/ab/edmonton/8882-170-street-nw?y_source=1_NTM4MjE1ODctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
@@ -23,10 +23,10 @@ reviews:
     rating: 5
     comment: |
       Janelle did an amazing job fixing my eyeglasses! She was super helpful, patient, and made sure everything fit perfectly before I left. The whole process was quick and stress-free. My glasses feel as good as new now. I really appreciate her great service and would definitely recommend her to anyone needing repairs!
-  - name: "Harmony Hunter"
+  - name: "Huseyin Uysal"
     rating: 5
     comment: |
-      I just had the BEST experience at For Eyes by Clearly, in West Edmonton Mall. The Store Manager, Svitlana, was incredibly kind, helpful, funny, and picked the most beautiful glasses for me! She made the whole process seamless and enjoyable. For my eye exam, Dr. Frankie Ho, from Asgarpour Optometry, was so lovely and patient and funny and made my eye exam experience easy and comfortable and we had some laughs! All in all a wonderful experience! I can’t wait for my new glasses to be ready. This is my second time at this store and I will definitely be back. Thank you so much! 😊 😎🤓✨
+      Svitlana was incredibly helpful and supportive throughout the whole process. I’m very happy with the service I received and truly appreciate all her help. She was professional, kind, and made everything much easier for us. We’re very satisfied and would definitely recommend her!
   - name: "Христина Бодрухіна"
     rating: 5
     comment: |
@@ -37,10 +37,10 @@ reviews:
       A big thank you to Anmol, who was incredibly kind, helpful, and professional. She made our visit even better!
       
       Highly recommend this place!
-  - name: "Katie Raimondi"
+  - name: "Harmony Hunter"
     rating: 5
     comment: |
-      We were recently in this store and my husband purchased 2 pairs of fabulous frames and ordered prescription lenses for both.  Svitlana, the store Manager, helped us find both of these frames by making some really great recommendations that were based both on quality and price point.  The total cost of 2 pairs of glasses with lenses was extremely reasonable.   The time, service and care that we received from Svitlana was bar none the best that anyone could hope for!
+      I just had the BEST experience at For Eyes by Clearly, in West Edmonton Mall. The Store Manager, Svitlana, was incredibly kind, helpful, funny, and picked the most beautiful glasses for me! She made the whole process seamless and enjoyable. For my eye exam, Dr. Frankie Ho, from Asgarpour Optometry, was so lovely and patient and funny and made my eye exam experience easy and comfortable and we had some laughs! All in all a wonderful experience! I can’t wait for my new glasses to be ready. This is my second time at this store and I will definitely be back. Thank you so much! 😊 😎🤓✨
 hours:
   monday: "10:00 AM–9:00 PM"
   tuesday: "10:00 AM–9:00 PM"

@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Castle Downs"
 address: "9934 137 Ave NW #105, Edmonton, AB T5E 6W1"
 rating: 4.8
-review_count: 767
+review_count: 766
 tier: "featured"
 phone: "(587) 525-8248"
 website: "https://www.griesbachdentist.ca/?utm_source=google&utm_medium=organic&utm_campaign=nm_gbp_website&utm_content=website_button"
@@ -14,10 +14,6 @@ google_maps: "https://maps.google.com/?cid=14009605884623829758&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/griesbach-dental.jpg"
 reviews:
-  - name: "Dima Abou baker"
-    rating: 5
-    comment: |
-      This was my first visit, and I had a great experience. Everyone was friendly and welcoming, and Dr. Hadi was very professional. Roaa was especially wonderful—she was very kind, helpful, and made me feel comfortable throughout my visit. I highly recommend this clinic.
   - name: "Hussein Darwish"
     rating: 5
     comment: |
@@ -55,6 +51,11 @@ reviews:
       The clinic is clean, well-managed, and operates efficiently, which made the entire process smooth and stress-free. I truly appreciated the professionalism, care, and attention to detail provided by both Dr. Hadi and his staff.
       
       I would highly recommend this clinic to anyone looking for high-quality dental care.
+  - name: "Sarkhan Guliyev"
+    rating: 5
+    comment: |
+      I can recommend them wholeheartedly. The staff are very friendly and welcoming. They always greet my little daughter so warmly. It’s the only clinic in the world where my daughter is actually happy to go.
+      Ms. Sevgi, Dr. Vuc, and their team treated our teeth with great care and attention. Thank you so much for your kindness and professionalism.
 hours:
   monday: "8:00 AM–6:00 PM"
   tuesday: "8:00 AM–6:00 PM"

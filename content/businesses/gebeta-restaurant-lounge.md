@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–11:00 PM"
 photos: ["/photos/gebeta-restaurant-lounge-1.jpg", "/photos/gebeta-restaurant-lounge-2.jpg", "/photos/gebeta-restaurant-lounge-3.jpg"]
 rating: 4.6
-review_count: 255
+review_count: 261
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -42,12 +42,12 @@ reviews:
     rating: 5
     comment: |
       Delicious food and very kind service! We actually found this place by accident because I was looking for Awash which is also on 118 ave. Took a chance and I'm glad we did! The meats were really well seasoned and lentils had a great balance of flavour. I recommend getting meat along with the vegan platter to share.
-  - name: "Markos"
-    rating: 5
-    comment: |
-      Edmonton food lovers, do not miss Gebeta Restaurant! From the fresh injera to the rich, perfectly seasoned stews, everything here is pure perfection. The portions are huge, the staff is incredibly welcoming, and the vibe makes you feel like family. Hands down the best authentic Ethiopian spot in town! 🇪🇹
   - name: "Abigail Carter"
     rating: 3
     comment: |
       Was pretty disappointed in the veggie platter. Specifically, the spinach and carrot/pease. It had no seasoning at all. It tasted like frozen veggies heated up. Tasteless. I was so so sad. The lentils also lacked love and flavor. I’m shocked because of the really high review.
+  - name: "Bithania Kassa"
+    rating: 5
+    comment: |
+      It is always an amazing experience visiting Gebeta. The food, service, and vibe of the place is incredible. There are many tasty vegan/vegetarian as well as many meat options. We ordered the “Kornis” for this visit and it was amazing! Very clean and quiet atmosphere with delicious food.
 ---

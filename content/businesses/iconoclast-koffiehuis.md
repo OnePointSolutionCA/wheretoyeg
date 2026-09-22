@@ -28,6 +28,10 @@ tags: ["coffee", "espresso", "dutch", "no-wifi"]
 active: true
 date_listed: "2026-08-18"
 reviews:
+  - name: "Jesse Miller"
+    rating: 5
+    comment: |
+      Stopped by for a coffee a few days ago and the flat white paired with their sourdough toast was easily one of the better breakfasts I've had in Edmonton lately. I was there around 9am on a weekday and the light coming through the big front windows made it a great spot to mess around with my camera while I waited. Staff were genuinely friendly, one of them even asked what I was shooting and pointed out the best table for natural light. Parking on the street was easy enough that morning too, and the whole space just has this calm, unhurried vibe that makes you want to stick around longer than planned.
   - name: "Ken Hogan"
     rating: 2
     comment: |
@@ -58,10 +62,4 @@ reviews:
     rating: 5
     comment: |
       I’ve been coming here for a while for this breakfast croissant. It slaps every time. So, credit is due. The egg is always done perfectly and comes out glistening and jiggling, whilst perched atop a slice of excellently cooked and deliciously thick slice of bacon. The croissant itself is the fluffiest croissant in all the land, and melts in your mouth upon entering it. In terms of quality of ingredients and cooking, I’m convinced this is the best breakfast in town. The portion size is also perfect, for someone who doesn’t prefer to stuff themself silly at the first meal of the day. I haven’t even gotten to the coffee. Not much to say, other than it is also exceptional, with wonderful prices. Oh, and the atmosphere. Enjoy a loft-like vibe with soothing ambient noise as the people chatter around you and the natural light brightens your day through the large windows. Top notch. After a coffee and a private poop in a nice, modern, clean bathroom you can walk right into odd company for a creamy pint, without ever having to set foot outside in these frigid lands. Sounds like a lovely day to me. 5 stars.
-  - name: "ravith de silva"
-    rating: 3
-    comment: |
-      Place is located inside a small business building. Rustic atmosphere gives a whole different vibe. Cozy and chill spot, good place to relax after long work day.
-      Menu is simple and fresh, prices are pretty standard. Series fast and simple.  Place needs bit more cleaning and care.
-      Overall it's a nice place to chill with your family and friends
 ---

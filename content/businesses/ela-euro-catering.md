@@ -34,10 +34,6 @@ reviews:
     rating: 5
     comment: |
       We recently had the pleasure of ElaEuro providing catering services for our daughter's wedding at Central Lions. Laura was excellent to work with and very accommodating. Everything went as planned with the staff providing a very delicious and sufficient meal from start to finish. There was plenty of choices for all of the guests and the food was excellent! Many positive comments were made regarding the service and the food. We would highly recommend their catering services. ( The pierogies and cabbage rolls are to die for!) Well done and thank you again!!!
-  - name: "liz"
-    rating: 5
-    comment: |
-      We had a wonderful New Year's Eve at the Central Lions Centre, the event provided by Ela Euro Catering! The catering was excellent-the food was delicious and beautifully presented. The staff were delightful, friendly and attentive, which really added to the experience.  We highly recommend Ela Euro Catering!
   - name: "B P Machine Ltd."
     rating: 5
     comment: |
@@ -54,4 +50,8 @@ reviews:
     rating: 5
     comment: |
       My Sister had her wedding this Saturday and the wonderful staff at Ela Euro catered it. All the food was presented so beautifully. Every one of the dishes were so full of flavour and cooked to perfection. I was even fortunate enough to receive a few of the left overs, and I am so gleeful that I get to experience this meal once again. I will be ranting about this meal forever and ever! Thank you for feeding our family and friends!
+  - name: "Terry Knoop"
+    rating: 5
+    comment: |
+      Ela Euro did the catering for my father’s Celebration of Life and did a fantastic job. The food was excellent and we were extremely happy with how everything worked out. Thank you!
 ---

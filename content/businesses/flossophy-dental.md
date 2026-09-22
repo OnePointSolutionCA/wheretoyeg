@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Windermere"
 address: "5540 Windermere Blvd NW #218, Edmonton, AB T6W 2P3"
 rating: 4.9
-review_count: 675
+review_count: 680
 tier: "featured"
 phone: "(780) 306-9333"
 website: "http://flossophy.dentaledmonton.ca/"
@@ -40,10 +40,11 @@ reviews:
       I highly recommend her to anyone looking for a skilled and caring dental hygienist. Thank you, Qinn Lynn
       
       Thanks for your amazing work!
-  - name: "iqbal shaikh"
+  - name: "Artem Tushkin"
     rating: 5
     comment: |
-      I am very much 100% satisfied with the excellent treatment provided by the Flossophy dental care management. Undoubtedly this is the best dental care clinic in the town I must add also that the Dental surgeon Dr. ATWAL GAGGANDEEP is highly professional, and a  highly competent Doctor.He has excellent follow up care.He is highly skilled,highly meticulous in latest technique and highly knowledgeable.Excellent and with tremendous abilities. A huge asset for the Flossophy management.The front desk staff, Reception staff,  are also very very co operative, cordial and friendly. Ready to assist and help at all times. Thanks very much for the great support and assistance.This great  dental Clinic always provides you the satisfactory service of very high standard to everybody.
+      Had a fantastic experience here! Everything was seamless, from the initial consultation to the cleaning procedure itself.
+      Huge thanks to Alina, the hygienist - she was exceptionally thorough and fixed issues that other clinics had overlooked. Highly recommend her and this clinic!
 hours:
   monday: "9:00 AM–7:00 PM"
   tuesday: "9:00 AM–6:00 PM"

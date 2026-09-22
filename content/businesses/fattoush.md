@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/fattoush-1.jpg", "/photos/fattoush-2.jpg", "/photos/fattoush-3.jpg"]
 rating: 5
-review_count: 480
+review_count: 485
 price_range: "$"
 amenities:
   - "Dine-In"

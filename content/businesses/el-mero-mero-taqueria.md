@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/el-mero-mero-taqueria-1.jpg", "/photos/el-mero-mero-taqueria-2.jpg", "/photos/el-mero-mero-taqueria-3.jpg"]
 rating: 4.4
-review_count: 1358
+review_count: 1360
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -52,15 +52,8 @@ reviews:
     rating: 4
     comment: |
       Work in the area and came to order some takeout. The vibe is great and the food was pretty good too. Just ordered some tacos to go. Prices are fairly high in my opinion. 3 tacos with a $2 tip for takeout came to just under $25.
-  - name: "Reesa Murji"
-    rating: 3
+  - name: "Joel Routledge"
+    rating: 5
     comment: |
-      Amazing place and atmosphere. The service was okay but a bit slow, and our server didn't seem very attentive. The food was decent, but the chicken was very dry, so I wouldn't recommend it. One thing that felt awkward was that they seemed to cut off shots and liquor service based on their sales, which was disappointing. Overall, a nice venue, but there are definitely areas that could be improved.
-      
-      Response :
-      Thank you for your response. I removed that comment because, after reflecting on it, I felt it wasn't fair or necessary to include. My review was intended to focus on my overall experience as a customer, not on any individual employee.
-      
-      Regarding the liquor service, I was simply sharing how the situation was perceived from our table.  We wanted to order 2 more shots before we had left , she told us due to alberta laws after many sells of liquor she wasnt able to serve us .I understand there may have been reasons for the decisions made that I wasn't aware of.
-      
-      Reviews are based on personal experiences, and while I respect that you may disagree with parts of mine, I shared my honest feedback about the food, service, and overall visit. I appreciate you taking the time to respond
+      Hidden away in an industrial area this gem is easy to miss. They have a great selection of authentic tacos and margaritas. They have a little store shelf with local crafts and Mexican foods. We will be coming back again for sure.
 ---

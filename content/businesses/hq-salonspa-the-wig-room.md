@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/hq-salonspa-the-wig-room-1.jpg", "/photos/hq-salonspa-the-wig-room-2.jpg", "/photos/hq-salonspa-the-wig-room-3.jpg"]
 rating: 4.7
-review_count: 422
+review_count: 424
 price_range: "$$$$"
 amenities:
 
@@ -28,10 +28,10 @@ tags: ["edmonton", "cuts-styling"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Beth Skepple"
+  - name: "Taylor Rae"
     rating: 5
     comment: |
-      I can’t recommend my hair stylist enough! I see Taylor at HQ and she does an amazing job every single time. Not only is she incredibly skilled and talented, but she’s also so kind and friendly, which makes every appointment such a great experience. I always leave feeling confident and loving my hair. Highly recommend!
+      The customer service at this salon is top notch!! I recently had a botched box-dye job (green instead of brown!) and everyone in the salon was super nice about it. The non-judgemental atmosphere made the experience a lot less embarrassing. Kristine my stylist was experienced and knew what to do, she made my hair look great and I got what I originally wanted. They were even able to squeeze in my appointments before my upcoming trip! Overall, HQ is full of skilled, lovely people. Shoutout to Kristine and Juliana, Thanks guys!
   - name: "Kalyn O'Neill"
     rating: 5
     comment: |

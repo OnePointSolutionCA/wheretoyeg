@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/heal-wellness-1.jpg", "/photos/heal-wellness-2.jpg", "/photos/heal-wellness-3.jpg"]
 rating: 4.5
-review_count: 158
+review_count: 160
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -35,18 +35,24 @@ reviews:
     comment: |
       I don’t usually leave reviews, but I wanted to share my experience as I’ve noticed some inconsistency. About a week ago, I visited in the morning when there was only one staff member working. She was friendly, offered recommendations, and made an acai bowl that matched the photos posted by Heal perfectly. The portion and overall experience were great, especially considering she was working on her own. Today, I came in around 11am and had a slightly different experience. There were three staff members, but they didn’t seem welcoming. I waited around 10 minutes for a nutella acai bowl, and the portion seemed smaller compared to my previous visit. I’ll include photos for comparison. The first is from my earlier visit, and the second is from today.
       I really enjoyed my first experience, so I hope this feedback is helpful in keeping things consistent!
-  - name: "Truth Bomb"
-    rating: 4
+  - name: "Munvir Virk"
+    rating: 5
     comment: |
-      I recently stopped by HEAL Wellness, right across from the University of Alberta Hospital—super convenient if you're in the area for appointments, visiting, or just studying nearby.
+      Had a really great experience at HEAL Wellness! The staff were very friendly, welcoming, and helpful. The place was clean, bright, and well maintained, and you can tell they put effort into keeping everything organized and hygienic. The customer service was excellent, and the overall atmosphere was very pleasant. Definitely a nice spot to grab something healthy and enjoy a positive experience. Highly recommend!
+  - name: "Henry Powder (HP)"
+    rating: 2
+    comment: |
+      For the price, I was hoping it wasn't fad.
+      Yet, when I went in, I kept the bad service comments in mind.
+      For a place that is asking Canadians to trust a new business on trend alone, is asking alot.
       
-      The staff were genuinely helpful and friendly, taking time to explain the menu and suggest options based on what I was craving. They have a decent selection of smoothies, acai bowls, and other wellness-focused items—plenty of fresh, natural ingredients and some good customization choices for proteins, boosts, etc.
+      Booster Juice with frozen fruit even on its worse day tasted better than what I got.
       
-      The store itself is well-kept, bright, and spotlessly clean, which is always a plus for a health-focused spot. Prices are about what I'd expect for a natural smoothie/acai shop in Edmonton—average, not cheap but not outrageous either, especially considering the quality and portion sizes.
+      Ever have a lazy friend make you something to eat?
       
-      If you're into healthy eats, fresh smoothies, or just want something nutritious and tasty without a ton of junk, I'd say give HEAL a try. It's a solid option in the U of A area—I'll definitely be back when I'm craving something refreshing and good-for-you!
+      Thats what our food tasted like.
       
-      Highly recommend for quick, feel-good fuel.
+      How do you mess up fruit bowl and smoothie that cost $30+
   - name: "Searra Smith"
     rating: 5
     comment: |
@@ -55,8 +61,4 @@ reviews:
     rating: 5
     comment: |
       Large, filling, delicious bowls! the OG acai bowl with peanut butter was great. The chocolate bowl was delicious too but the base is a little heavy if you're not a super big fan of chocolate. Service is very friendly and fast and there is comfortable seating inside!
-  - name: "Chantel Hutchison"
-    rating: 5
-    comment: |
-      AMAZING!! My daughter is at the Stollery so we always grab breakfast here in the morning. It won't disappoint. The bowls are fantastic! I personally love the honey bee & mango bowls. So tasty and filling!
 ---

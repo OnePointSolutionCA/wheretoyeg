@@ -5,7 +5,7 @@ category: "professional-services"
 neighborhood: "Edmonton"
 address: "4275 23 Ave NW, Edmonton, AB T6L 5Z8"
 rating: 4.9
-review_count: 946
+review_count: 950
 tier: "featured"
 phone: "(825) 526-4433"
 website: "https://excellentnotary.ca/"
@@ -29,6 +29,12 @@ reviews:
     rating: 5
     comment: |
       Ishrath is awesome helped me many times in the last few months and she never makes me wait around. Great service and highly reccomend!
+  - name: "Muneer Ahmed"
+    rating: 5
+    comment: |
+      I had visited this Norary two or three time. I had amazing services every time. Their professionalism and timeliness is great.
+      I would defenetely recommend others. They are also located near my place. Easy to approach. Quick services and reasonable prices too.
+      Thanks to their dedicated services.
   - name: "Zosel Gantuangco"
     rating: 5
     comment: |
@@ -36,10 +42,6 @@ reviews:
       Thank you for making everything smooth and for treating us with respect and care. Highly recommended!
       
       Zosel
-  - name: "Inderpreet cheema"
-    rating: 5
-    comment: |
-      We had a very great service. They helped us do the drafting and make addition to the documents. The great thing is She is available on weekends and late evenings as well.
 hours:
   monday: "9:00 AM–8:00 PM"
   tuesday: "9:00 AM–8:00 PM"

@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–6:00 PM"
 photos: ["/photos/hw-produce-1.jpg", "/photos/hw-produce-2.jpg", "/photos/hw-produce-3.jpg"]
 rating: 4.4
-review_count: 911
+review_count: 914
 price_range: "$$"
 amenities:
 

@@ -28,6 +28,13 @@ tags: ["edmonton", "facials"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Sydney Wruth"
+    rating: 5
+    comment: |
+      I’ve been coming here for a couple of months now and have had such a great experience every single time! I usually book my facials every 6–10 weeks, and booking appointments has always been super easy and convenient.
+      All of the girls I’ve had have been amazing, and I always leave feeling so refreshed and taken care of. They’ve also helped me get started on a full skincare routine, and I genuinely couldn’t be happier with the results! My skin has never felt better. 🥰
+      I’ve also had my eyebrows threaded here, and that experience has been just as great! It’s super easy to book, the appointment is quick and efficient, and my brows always look amazing afterward.
+      Overall, I’ve had nothing but great experiences here and would definitely recommend them to anyone looking for great facials, skincare, and brow services! ❤️
   - name: "Lynn Varty"
     rating: 5
     comment: |
@@ -47,14 +54,4 @@ reviews:
     comment: |
       I had a wonderful experience! The staff was professional,  attentive and friendly. The quality of service was excellent and my nails look perfect. I would highly recommend this place.
       Ana is reliable, efficient, and always maintains a positive and respectful attitude.She takes the time to ensure everything is done correctly and is always willing to help when needed.She consistently demonstrates professionalism, attention to details and I do appreciate her work.
-  - name: "Mahsa & Tëma"
-    rating: 5
-    comment: |
-      This was our first time visiting, and it certainly won’t be the last! I had Apple as my aesthetician, and my husband had Yuliya. We both got the manicure and pedicure with paraffin wax, and for the pedicure, my husband also opted for the reflexology treatment.
-      
-      Apple did an absolutely fabulous job on my nails. Honestly, it was the best French manicure I’ve ever had. She was so precise and careful — it felt like watching an artist at work. The pedicure was equally wonderful and so relaxing. On top of that, we had a lovely chat, which made the whole experience even more enjoyable.
-      
-      My husband was also very happy with his manicure and pedicure. Both Apple and Yuliya were both highly skilled and also warm and friendly, creating a welcoming and calming atmosphere.
-      
-      We left feeling refreshed and pampered. We will definitely be coming back!
 ---

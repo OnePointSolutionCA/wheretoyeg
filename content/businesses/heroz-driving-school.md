@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/heroz-driving-school-1.jpg", "/photos/heroz-driving-school-2.jpg", "/photos/heroz-driving-school-3.jpg"]
 rating: 4.9
-review_count: 619
+review_count: 623
 price_range: "$$"
 amenities:
 
@@ -32,22 +32,16 @@ reviews:
     rating: 5
     comment: |
       My experience was truly excellent. Koffi was very professional during the lessons and training sessions. He demonstrated great patience and motivated me a lot by giving me advice to succeed. And yes, I passed my category 5 driving test! I highly recommend the Heroz driving school. A big thank you again!
-  - name: "Liliia Tatarchuk"
-    rating: 5
-    comment: |
-      I would like to leave a sincere review about instructor Koffi — truly the best instructor you could ask for!
-      
-      Thanks to his professionalism, patience, and support, I was able to pass my driving test on the first attempt. He explains everything clearly and calmly, always points out what to focus on, and helps build real confidence behind the wheel.
-      
-      I especially appreciate his positive attitude and ability to create a comfortable learning environment — it made the whole experience enjoyable instead of stressful.
-      
-      I highly recommend Koffi to anyone who wants not only to pass the test, but also to become a safe and confident driver!
   - name: "Maryan Podilnyak"
     rating: 5
     comment: |
       I had an amazing experience with Hero’s Driving School! My instructor, Riz, was awesome. He was friendly, funny, and made every lesson enjoyable while explaining everything clearly and making sure I understood each skill.
       
       He was very patient, gave great tips, and made me feel confident behind the wheel. I highly recommend Hero’s Driving School, especially Riz. Thanks for making learning to drive such a great experience!
+  - name: "shanti youmbi"
+    rating: 5
+    comment: |
+      I highly recommend Hero's Driving School! My instructor, Koffi, was patient, professional, and very knowledgeable. He explained everything clearly, helped me build my confidence, and made sure I was well prepared for my Class 5 road test. Thanks to his excellent teaching, I passed my Class 5 successfully! If you're looking for a great driving instructor, Koffi is definitely the right choice. Thank you for all your support!
   - name: "Deniz Koç"
     rating: 5
     comment: |
@@ -60,10 +54,8 @@ reviews:
       I appreciated that Sim emphasized safe driving habits and defensive driving, not just passing the test. I left the program feeling much more confident and prepared as a driver.
       
       I highly recommend Heroz Driving School and Sim to anyone looking for quality driver training and road test preparation. Thank you for helping me achieve my goal and pass my road test!
-  - name: "Oluwatoyin Amushan"
+  - name: "Rostand Kamta"
     rating: 5
     comment: |
-      Mr Koffi was an incredible instructor. He pointed out every single thing I needed to work on and gave tips on how to easily nail my all my parkings: uphill, downhill and especially parallel.
-      
-      He also accomodated me when I needed to rent the car for my road test and I was able to pass my test. I highly recommend him.
+      I’m very satisfied with the training I received from Koffi. Thanks to his professionalism, patience, and valuable guidance, I successfully passed my Class 5 road test. I highly recommend him to anyone preparing for their Class 5 driving test. Thank you again, Koffi!
 ---

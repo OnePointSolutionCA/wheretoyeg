@@ -30,6 +30,14 @@ tags: ["edmonton", "jamaican"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Roger Poon"
+    rating: 5
+    comment: |
+      Tried the Oxtail special, Jerk Chicken special, Jerk Chicken and Cheese Patty, and Beef Patty. All of them were absolutely delicious.
+      
+      The flavor profile of the patties is so delicious, and the pastry was moist and flaky.
+      
+      The portions were massive for the specials, each box is fully loaded. I was surprised with the generous amount of Oxtail that was given for the price.
   - name: "Skye Travels"
     rating: 3
     comment: |
@@ -40,23 +48,15 @@ reviews:
       The crust tasted more like a pizza pocket than an authentic Jamaican patty, and the colour was inconsistent. For the price — I paid approximately $100 for 18 patties — I expected a more traditional texture and more meat. I was told they were “premium,” but the quality didn’t match the cost.
       
       Gen X  has potential, but improving the recipe, consistency, and value would make a big difference.
-  - name: "Roger Poon"
-    rating: 5
-    comment: |
-      Tried the Oxtail special, Jerk Chicken special, Jerk Chicken and Cheese Patty, and Beef Patty. All of them were absolutely delicious.
-      
-      The flavor profile of the patties is so delicious, and the pastry was moist and flaky.
-      
-      The portions were massive for the specials, each box is fully loaded. I was surprised with the generous amount of Oxtail that was given for the price.
-  - name: "Vincent Parnell"
-    rating: 5
-    comment: |
-      I was craving authentic Jamaican Patties, my daughter discovered this gem on 118st (west of Kingsway). They also sell fresh (unbaked) frozen, so I could stock my freezer with these tasty meat filled pastries for quick flavourful lunches that I throw in the air fryer and bake. Small location, perfect order and go, Service was A+++
   - name: "Lo Abno"
     rating: 5
     comment: |
       I've been on the search for really good beef patties for years (years....). Ever since I went to TO while ago (2008).
       I came in with my sister today because I saw a foodie review and was highly recommended. I bought 3 kinds of the fresh/hot and 6 of the frozen. For the fresh/hot I bought beef, curry chicken, and jerk chicken. My sister had the beef. I am telling you it's amazing. O.m.g                I'm coming back.
+  - name: "Vincent Parnell"
+    rating: 5
+    comment: |
+      I was craving authentic Jamaican Patties, my daughter discovered this gem on 118st (west of Kingsway). They also sell fresh (unbaked) frozen, so I could stock my freezer with these tasty meat filled pastries for quick flavourful lunches that I throw in the air fryer and bake. Small location, perfect order and go, Service was A+++
   - name: "Dalkeith McDonald"
     rating: 5
     comment: |

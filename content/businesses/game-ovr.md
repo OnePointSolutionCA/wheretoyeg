@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:30 PM"
 photos: ["/photos/game-ovr-1.jpg", "/photos/game-ovr-2.jpg", "/photos/game-ovr-3.jpg"]
 rating: 4.8
-review_count: 596
+review_count: 598
 price_range: "$$"
 amenities:
 

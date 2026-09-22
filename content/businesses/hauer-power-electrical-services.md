@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/hauer-power-electrical-services-1.jpg", "/photos/hauer-power-electrical-services-2.jpg", "/photos/hauer-power-electrical-services-3.jpg"]
 rating: 4.9
-review_count: 963
+review_count: 964
 price_range: "$$"
 amenities:
 
@@ -28,14 +28,6 @@ tags: ["edmonton", "residential"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Christopher Scott"
-    rating: 5
-    comment: |
-      I had Hauer Power Electrical Services install baseboard heating, and I couldn’t be happier with the experience. Jordan and Travis did an outstanding job from start to finish. The installation went smoothly, they took the time to look at a few other electrical items I had questions about, and they were both incredibly professional, knowledgeable, and friendly throughout the entire process.
-      
-      Their workmanship was excellent, they left everything clean and tidy, and they made sure everything was working perfectly before they left. It’s not often you come across tradespeople who combine great customer service with high-quality work, but Jordan and Travis absolutely did.
-      
-      I would highly recommend Hauer Power Electrical Services to anyone needing electrical work done. Outstanding service and a great team!
   - name: "Guy Soehner"
     rating: 5
     comment: |
@@ -70,4 +62,12 @@ reviews:
     rating: 5
     comment: |
       Hauer power electrical continues to shock me with their excellent service and expertise! Their timely and impressive work ethic is electric! The bill didn’t give me a jolt and I was grounded by their professionalism. They conducted themselves well and insulated me against any issues. There was never a junction where we disagreed, overall I am Amped to continue have work done by Hauer Power Electrical, sparks are flying!
+  - name: "Christopher Scott"
+    rating: 5
+    comment: |
+      I had Hauer Power Electrical Services install baseboard heating, and I couldn’t be happier with the experience. Jordan and Travis did an outstanding job from start to finish. The installation went smoothly, they took the time to look at a few other electrical items I had questions about, and they were both incredibly professional, knowledgeable, and friendly throughout the entire process.
+      
+      Their workmanship was excellent, they left everything clean and tidy, and they made sure everything was working perfectly before they left. It’s not often you come across tradespeople who combine great customer service with high-quality work, but Jordan and Travis absolutely did.
+      
+      I would highly recommend Hauer Power Electrical Services to anyone needing electrical work done. Outstanding service and a great team!
 ---

@@ -17,16 +17,18 @@ reviews:
     rating: 5
     comment: |
       I used gs helpers for move out cleaning of a 2 bedroom house. I booked them during last minute. They did an excellent job with cleaning. I am happy about their service. They are affordable. I recommend their service for anyone who needs help with cleaning.
+  - name: "Saikiran Mutyala"
+    rating: 5
+    comment: |
+      ⭐⭐⭐⭐⭐
+      
+      Very good cleaning service. They did an excellent job and cleaned everything properly. The team was on time, polite, and very hardworking. Every corner of the house was neat and spotless after the cleaning. I am very happy with their service and would definitely recommend them to my friends and family. Thank you for the great work!
   - name: "Vivian O"
     rating: 5
     comment: |
       I came across GS Helpers while searching online for move out cleaners. The reviews were amazing so I decided to give them a try. I called and spoke with Sash who was really friendly and polite. He walked me through the process and I made part payment to secure my spot. The price was very good compared to others I came across.
       The D-day came and the ladies were prompt. When the cleaning was done, I was called for inspection, oh boy, from the entrance of my apartment, I was so stunned at how clean and sparkling the whole place was. I was just smiling sheepishly. I had to ask for cleaning services for my new home. Attached are pictures of the apartment.
       Thank you GS Helpers, I am very happy with your professional services and look forward to more business. Keep it up.
-  - name: "Emily Yukes"
-    rating: 5
-    comment: |
-      I didn't realize this was a uhaul rental place!  There was no wait to check out or return the uhaul and they have a good selection of moving boxes.  I would definitely come back.
   - name: "Alumalla Janardhan"
     rating: 5
     comment: |

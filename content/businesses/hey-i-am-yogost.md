@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/hey-i-am-yogost-1.jpg", "/photos/hey-i-am-yogost-2.jpg", "/photos/hey-i-am-yogost-3.jpg"]
 rating: 4.7
-review_count: 94
+review_count: 95
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -41,6 +41,10 @@ reviews:
     rating: 5
     comment: |
       Can taste yogurt on their drink.  Chose 50% sugar and ice always with my drink.  Taste never disappoint.  Not too busy when I visited on a Sunday after lunch. Bag is optional, I chose the box instead to carry my drinks. No complaints about service.   I do not mind a little wait, flavor is guaranteed fresh.
+  - name: "Lourdes Laco"
+    rating: 5
+    comment: |
+      Yummy drinks and we liked the minimalist atmosphere. Awesome customer service as well!
   - name: "Daniel Tran"
     rating: 4
     comment: |
@@ -55,8 +59,4 @@ reviews:
     rating: 1
     comment: |
       It’s disgusting, save your money and go somewhere else! The drink is too sweet even without sugar and i don’t see them using any fresh fruits. Don’t trust the ig influencers.
-  - name: "Bolu Akande"
-    rating: 5
-    comment: |
-      i have been here about 6 times since the opening, I can't stop going back, great drinks and great customer service!!! my personal favorite is the strawberry mochi and the Oreo mochi, which wasn't too sweet
 ---

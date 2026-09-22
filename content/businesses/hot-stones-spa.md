@@ -32,18 +32,6 @@ reviews:
     rating: 5
     comment: |
       All around amazing experience!  Convenient location with TONS of parking.  We were welcomed on arrival & immediately made to feel at home.  The salt room was such a cool experience.  But the most amazing part is definitely the sauna floors!  My friend and I had got the package for 2, and got to enjoy 2 hours of total relaxing girls time!  We got to sip wine, laugh, and just enjoy in a private sauna setting.  You literally get the whole floor to yourself for your visit!  There is a pool table and massage chair  and chess table as well.  We loved hitting the sauna then cold buckets after.  The steam sauna is so nice as well!  Definitely will return!
-  - name: "Christine Wylde"
-    rating: 5
-    comment: |
-      We had a wonderful experience with the romantic package. It was very relaxing, quiet and the staff were really lovely. We’ll definitely be back
-  - name: "Jake Hammell"
-    rating: 5
-    comment: |
-      Fantastic price for a super relaxing and private sauna experience. It's like chilling in your own private basement sauna room.
-      
-      Definitely book more than 2 hours if you have a group larger than 4 though, as the cold plunge buckets refill a little slowly so doing hot/cold circuit can take extra time as your group goes through them. You won't regret the extra time though.
-      
-      But it's an unreal experience and an absolute hidden gem. Highly recommend it!
   - name: "Matt Ceh"
     rating: 5
     comment: |
@@ -58,4 +46,12 @@ reviews:
       I would say bring your own towels/robes, slippers and some face masks to make it complete.
       
       For 2 people for 2 hours, it cost $170 which I think is a little expensive for what it is. Although, there are not much options in the city.
+  - name: "Christine Wylde"
+    rating: 5
+    comment: |
+      We had a wonderful experience with the romantic package. It was very relaxing, quiet and the staff were really lovely. We’ll definitely be back
+  - name: "Pavlo Buchkov"
+    rating: 5
+    comment: |
+      Great place to relax with family or friends. Stone dry or steam sauna at your choice will make you feel good. As well as complimentary herbal tea creates cosy atmosphere for all guests.
 ---

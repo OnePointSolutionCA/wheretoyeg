@@ -19,8 +19,8 @@ hours:
   saturday: "8:00 AM–6:00 PM"
   sunday: "8:00 AM–6:00 PM"
 photos: ["/photos/hatchd-1.jpg", "/photos/hatchd-2.jpg", "/photos/hatchd-3.jpg"]
-rating: 4.5
-review_count: 120
+rating: 4.4
+review_count: 124
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -52,8 +52,8 @@ reviews:
       Visit: April 2026
       
       Had a double patty jalapeno smash burger and my friend got the bacon Sando. The sandwiches were good but too small for the price. We definitely left not full. The atmosphere is really nice though, and the staff was kind!
-  - name: "Phat Boy"
-    rating: 3
+  - name: "Nate Henry"
+    rating: 5
     comment: |
-      Tried the sausage burrito and it was extremely salty and a bit too greasy for my liking. The clerk was friendly and the joint was clean and inviting, but it almost took 15 minutes to get a burrito and the parking was ridiculous. I’d try this place again because the other food being served did look good but I’d only swing by if I was already in the area and had parking and extra time waiting for my order.
+      A friend recommended we try this place and it held up!! The French toast bites were so good! Crispy and fluffy, all in one. The egg was cooked perfectly as well. It was the first time I had tried Matcha and I will be back for sure, now that the bar has been set. Deeee-lish
 ---

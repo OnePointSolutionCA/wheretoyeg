@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/furnace-family-edmonton-1.jpg", "/photos/furnace-family-edmonton-2.jpg", "/photos/furnace-family-edmonton-3.jpg"]
 rating: 4.9
-review_count: 3887
+review_count: 3897
 price_range: "$$"
 amenities:
 
@@ -51,8 +51,11 @@ reviews:
     rating: 5
     comment: |
       Just had a heat pump installed by Furnace Family after recommendation from a friend. From initial contact to quote to install, each step has been great. Everyone was very professional and efficient. Communication was clear and timely. Installation was quick, clean and very well done. Happy with my service and would definitely recommend!
-  - name: "Danielle G"
+  - name: "H.G. Pacheco"
     rating: 5
     comment: |
-      Always pleasant to deal with from booking straight through to the appointments and reasonably priced. They are honest and don't try to tell you unnecessary things are needed and in fact try to save you money. Chris was a pleasure to deal with,  he did the yearly maintenance on our furnace and a repair to our HWT that was leaking. It was nice to have him be able to do both and in a timely manner. I highly recommend furnace family
+      Great first experience with Furnace Family - will continue to reach out to them first.
+      I first heard of this company through local Reddit threads where they were highly recommended. I didn't receive a response when I reached out to Gentlemen Heating over a week ago so I wasn't going to chase them. From the ease of booking online, to the confirmation of appointments, everything went smoothly so there were no surprises on when they would show up. Their tech, Michael, was very friendly and honest and you could tell he had a lot of experience. He walked me through the current state of the furnace as well as potential issues from the past that he found, and maintenance items to look out for in the future. He even cleaned up around the area and was honest with the pricing (no extra work charged).
+      
+      I feel very comfortable recommending them and can see why their reviews are great.
 ---

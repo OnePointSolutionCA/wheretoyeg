@@ -25,10 +25,13 @@ reviews:
       Throughly professional, massively knowledgeable and they respect  and care about their patients.
       Which is nice.
       Ian Hamilton
-  - name: "Silver Leigh"
+  - name: "Anna Lachman"
     rating: 5
     comment: |
-      Literally the best dental experience I've ever had! They are phenomenal, great for nervous clients, super respectful and WOW super professional! Fixed my smile beautifuly using fillings after other offices throughout Many years had told me I need veneers. God bless them. They are amazing 😍
+      I lost a tooth, and had an emergency extraction done, at a different dental office, as Dr. Thomas was not in that day. I had an appointment booked for a checkup, with Dr. Thomas, two weeks from the extraction date. At my checkup Dr. Thomas discovered that the extraction site had exposed bone, and was infected. This area should have been sutured closed to protect the bone, but was not. Dr. Thomas put me on antibiotics and a mouth rinse. He had me come back today and cleaned up the exposed bone, packed the site,  and sutured it closed.
+      From the very first time I walked into Evergreen Family Dentistry I had a good feeling! The girls up front were very welcoming, professional,  and personable.
+      The assistant is outstanding! I can't say enough good things about her. Last but not least there's Dr. Thomas. So kind, warm, caring, professional. Simply put he is an amazing dentist and person! I feel very fortunate to have found this dental office.
+      If you are looking for a great dentist look no further!  Evergreen won't disappoint!!
   - name: "Russel Ilustre"
     rating: 5
     comment: |
@@ -41,10 +44,10 @@ reviews:
     rating: 5
     comment: |
       We have always had amazing service at Evergreen...everyone is so friendly and welcoming and they really try to make your visit as comfortable as possible. Specifically Sherri the dental hygenist...we always have a great chat and her cleanings are so thorough. Years ago I couldn't get into see her and I had someone else(no longer employed there) and within days I could tell that it wasn't as good as a cleaning as i was used to with Sherri. I mentioned it to them and they asked me to come back in to see Sherri and she did her magic and it was fantastic. Amazing friendly service and quality staff. Thanks!
-  - name: "Kylie Eyestone"
+  - name: "Felicita Noella DSouza"
     rating: 5
     comment: |
-      Recently I had an opportunity to visit an extraordinary and very professional family oriented, caring Dental Provider.  The name is Evergreen Family Dentistry located here in Spruce Grove. The staff made me feel like I'm part of their " Client " family, right 👉 from my introduction. Since, I have a few appointments with them. I can 🥫 tell you that if you want dedicated and caring Dental professionals looking after your dental work. These are the best in this area and they will "treat you like a family member ". They are the best at what they do in my over 50 years of dental experience !! You can 🥫 know that you're in the best hands 👐 in this area!
+      Dr. Thomas and Allysa did a fantastic job with my extraction. The procedure was smooth and flawless. It was fast, completely painless, and Allysa did an excellent job keeping me comfortable throughout. Highly recommend this team for anyone looking for high-quality care!
 hours:
   monday: "8:00 AM–4:30 PM"
   tuesday: "8:00 AM–4:30 PM"

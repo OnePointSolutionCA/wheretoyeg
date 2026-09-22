@@ -19,6 +19,11 @@ reviews:
       These guys are the best! After my basement flooded I called every Home Depot, cleaning shop, etc, in Edmonton and NO ONE had any dehumidifiers available ANYWHERE. The closest available unit would be in Red Deer!
       
       They were the only ones that kept my number and as soon as one was available, they went out of their way to make sure I got it in time. Truly one of the best customer service experiences, came in clutch when I needed it the most!
+  - name: "Arturo R Ramírez M"
+    rating: 5
+    comment: |
+      According to Google maps this place is open 24/7 but is not; they are close Saturday and Sunday.
+      I changed from 1 star to 5 I wish there were more than 5 stars. Zeza is the best, with extensive knowledge of the products and equipment, extremely kind, attentive, and with a high level of honesty and respect for helping customers achieve the best results. I definitely recommend this business and especially recommend doing business with Zeza and the manager.
   - name: "Wendy Ade"
     rating: 5
     comment: |
@@ -31,11 +36,6 @@ reviews:
       I am extremely impressed!!!.
       
       I highly recommend to call "Gentle steam".       Excellent job Simon!!!      Keep up the good work!!!!!
-  - name: "Arturo R Ramírez M"
-    rating: 5
-    comment: |
-      According to Google maps this place is open 24/7 but is not; they are close Saturday and Sunday.
-      I changed from 1 star to 5 I wish there were more than 5 stars. Zeza is the best, with extensive knowledge of the products and equipment, extremely kind, attentive, and with a high level of honesty and respect for helping customers achieve the best results. I definitely recommend this business and especially recommend doing business with Zeza and the manager.
   - name: "Jordan L"
     rating: 5
     comment: |

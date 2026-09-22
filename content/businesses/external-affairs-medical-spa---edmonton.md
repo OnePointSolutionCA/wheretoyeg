@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/external-affairs-medical-spa---edmonton-1.jpg", "/photos/external-affairs-medical-spa---edmonton-2.jpg", "/photos/external-affairs-medical-spa---edmonton-3.jpg"]
 rating: 4.8
-review_count: 417
+review_count: 416
 price_range: "$$"
 amenities:
 

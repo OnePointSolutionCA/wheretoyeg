@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/fun-park---north-edmonton-1.jpg", "/photos/fun-park---north-edmonton-2.jpg", "/photos/fun-park---north-edmonton-3.jpg"]
 rating: 4
-review_count: 288
+review_count: 295
 price_range: "$$"
 amenities:
 

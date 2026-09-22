@@ -19,7 +19,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/esm-fine-cakes-pastries-1.jpg", "/photos/esm-fine-cakes-pastries-2.jpg", "/photos/esm-fine-cakes-pastries-3.jpg"]
 rating: 4.8
-review_count: 821
+review_count: 824
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -41,12 +41,12 @@ reviews:
     rating: 5
     comment: |
       I would like to thank ESM Cakes team for making this wonderful Dinosaur theme cake for my daughter’s 2nd Birthday. Shams the owner is excellent in improvisation and would give the perfect advice. This is our family go to place now without a doubt and would highly recommend ESM Fine Cakes and Pastries. Best of luck folks
-  - name: "Andrew Oliver"
-    rating: 5
-    comment: |
-      OMG 😳 How did we not know about this place? They made my son a BAKED CHERRY Graduation cheesecake. Our entire party said the same thing… “Best cheesecake I’ve ever had…” 💯 This has become our new go to bakery! Customer service also top notch!
   - name: "Rachel H"
     rating: 5
     comment: |
       This bakery is so good. Went in to try the pastries saw from the window and we are so happy we did because  the sausage roll is so yummy and not greasy. I also ended up buying cakes slices. The gentleman is super nice and friendly, provide us good customer service. Will definitely come back.
+  - name: "Andrew Oliver"
+    rating: 5
+    comment: |
+      OMG 😳 How did we not know about this place? They made my son a BAKED CHERRY Graduation cheesecake. Our entire party said the same thing… “Best cheesecake I’ve ever had…” 💯 This has become our new go to bakery! Customer service also top notch!
 ---

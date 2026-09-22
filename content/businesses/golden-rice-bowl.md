@@ -18,7 +18,7 @@ hours:
   sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/golden-rice-bowl-1.jpg", "/photos/golden-rice-bowl-2.jpg", "/photos/golden-rice-bowl-3.jpg"]
 rating: 4
-review_count: 1321
+review_count: 1324
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -56,8 +56,8 @@ reviews:
     rating: 5
     comment: |
       Came for dim sum, and the food was okay, but Jasmine and Binh were the real highlight! Their friendly service, attentiveness, and positive attitude made the experience much better. The dumplings may not have wowed us, but Jasmine  and Binh definitely did. Thanks for the great service! 😊🥟
-  - name: "Josephene Chong"
-    rating: 3
+  - name: "Twitchy"
+    rating: 4
     comment: |
-      The service was quick however the siew mai was not fresh and the noodles we ordered were a bit oily. Not the best .
+      Long time south side Chinese restaurant serving dim sum and Cantonese style Chinese food.  Our recent visit was for dim sum lunch on a Thursday. The dim sum as per usual was very good.  We’ve always found their dim sum consistently good.  While they serve dim sum all day, my experience is that the dim sum is best during lunch time when they are pushing the dim sum around in the carts. Service was pretty good this visit but like a lot of Chinese restaurants can be hit and miss depending on how busy the restaurant is. The Golden Rice Bowl is a large restaurant with a variety table sizes including lots of large round tables for groups up to 10. Our go to restaurant for dim sum in Edmonton. We prefer going on a weekday since the weekends can be quite busy.
 ---

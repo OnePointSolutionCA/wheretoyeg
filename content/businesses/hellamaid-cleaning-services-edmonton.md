@@ -19,8 +19,8 @@ hours:
   saturday: "7:00 AM–7:00 PM"
   sunday: "7:00 AM–7:00 PM"
 photos: ["/photos/hellamaid-cleaning-services-edmonton-1.jpg", "/photos/hellamaid-cleaning-services-edmonton-2.jpg", "/photos/hellamaid-cleaning-services-edmonton-3.jpg"]
-rating: 4.8
-review_count: 214
+rating: 4.7
+review_count: 226
 price_range: "$$"
 amenities:
 
@@ -36,17 +36,20 @@ reviews:
     rating: 5
     comment: |
       Rental needed some tidying up after a rainy month of applicants walking through.  Hailey's attention to detail was very apparent on the baseboards/window sills and the floor was shades cleaner than before.  I'd be happy to use this service again should this or other rental require cleaning in the future.  Thanks for the easy booking, good communication, prompt/efficient service from the office as well.  Cheers.
-  - name: "Jane Kopiak"
-    rating: 5
-    comment: |
-      We had a fantastic experience with this move-out cleaning service. Everything was spotless and exceeded our expectations. Hayley and Shannon were great to deal with, very personable and professional. Shannon, who stayed 6 hours, did an exceptional job and went beyond what we expected.
-      Highly recommend!
-  - name: "sohrab sharifi"
-    rating: 5
-    comment: |
-      Very easy, straightforward and clear online booking system as well as real-time pricing when you’d change the package and add-ons. We had the pleasure of receiving services from Danielle! Very kind, professional, thorough, punctual, patient and also fast! My wife and I enjoyed working with her and recommend this company and Danielle!
   - name: "Madeleine Pye"
     rating: 5
     comment: |
       We’ve been having Hailey T come to do a weekly, 3 hour clean recently, and have been super happy with her service. The amount of cleaning that she manages to squeeze into our 3 hour window is impressive, and she leaves sweet touches like arranging our kiddos’ toys in a cute way, even nicely making the beds, too. She’s also so kind to our anxious little dog, which is a relief for when we’re out and about when she’s over. Would highly recommend, thanks Hailey!
+  - name: "Nav S"
+    rating: 5
+    comment: |
+      I recently used this cleaning service for a move-out clean, and I couldn’t be happier with the experience. Moving is already stressful, but Santana made the whole process so much easier. She was incredibly thorough, detail-oriented, and left the apartment looking spotless, honestly better than when I first moved in.
+      
+      She paid attention to all the little things that are easy to miss, and you can tell she takes real pride in her work. Everything from the floors to the kitchen and bathroom was sparkling clean.
+      
+      If you’re looking for a reliable and high-quality cleaning service, I highly recommend them, especially Santana. I would absolutely use them again!
+  - name: "Glen R"
+    rating: 5
+    comment: |
+      Our house cleaner was meticulous!! Money well spent. We were very impressed with Justine. I highly recommend this agency
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/elite-massage-care-clinic-inc-1.jpg", "/photos/elite-massage-care-clinic-inc-2.jpg", "/photos/elite-massage-care-clinic-inc-3.jpg"]
 rating: 4.9
-review_count: 196
+review_count: 197
 price_range: "$$"
 amenities:
 

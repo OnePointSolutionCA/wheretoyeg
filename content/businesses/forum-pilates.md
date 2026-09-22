@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–2:00 PM"
 photos: ["/photos/forum-pilates-1.jpg", "/photos/forum-pilates-2.jpg", "/photos/forum-pilates-3.jpg"]
 rating: 4.7
-review_count: 73
+review_count: 72
 price_range: "$$"
 amenities:
 

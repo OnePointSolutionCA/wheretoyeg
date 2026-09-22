@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–11:00 PM"
 photos: ["/photos/escape-street-1.jpg", "/photos/escape-street-2.jpg", "/photos/escape-street-3.jpg"]
 rating: 5
-review_count: 1181
+review_count: 1263
 price_range: "$$"
 amenities:
 

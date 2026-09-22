@@ -48,16 +48,14 @@ reviews:
       I believe great dentists don't just repair teeth—they empower people to take care of their own oral health. Dr. Richard Ng is one of those rare professionals.
       
       I sincerely hope Dr. Ng continues to stay healthy and keep serving the Edmonton community for many years to come. Our city is fortunate to have a dentist like him.
-  - name: "Jennifer Bouchier"
-    rating: 5
-    comment: |
-      I've been going to Enjoy Dental for over 20 years, since I was 16 years old. I grew up in the neighborhood, but when I moved downtown as an adult, I figured I should use the dentist down the street. Wow, I did not know that the quality of care could differ so much between dentists! I ended up trying several other dentists for a few years, before returning to Enjoy Dental. Now I live in Mill Woods, and I still come back to Castledowns for my dentist.
-      
-      Both Dr. Ng and Dr. Enoch are wonderful dentists. They're both kind, and personable, and they take the time to answer my questions. Because of the dentist hopping I did, I developed a fear of the dentist. Lots of anxiety, and and fear to the point of tears at even the idea of pain. But I feel safe here, and when we're done Dr. Ng always tells me I'm brave and he's proud of me :')
   - name: "Kyle"
     rating: 5
     comment: |
       Dr. Enoch is an incredible dentist. We were referred to him for my son’s lip and tongue tie. He sat us down, clearly explained how the procedure works, the risks, cost, follow up care, pros and cons, etc. He gave us time to talk it over and told us if we weren’t interested we could walk out. It was very low pressure. The procedure was done quick and he was very empathetic towards us and our son. The follow up appointments were quick and we received the same level of care from all staff at this clinic. I highly recommend Dr. Enoch and we will for sure see him for years to come.
+  - name: "Gabby C"
+    rating: 5
+    comment: |
+      Great experience with our newborn getting his tongue tie done. The dentist explained everything to us prior to the procedure and made sure we were comfortable. He was very gentle and kind. Would recommend Dr. Enoch for lip or tongue tie correction in your newborn.
 hours:
   monday: "11:00 AM–7:00 PM"
   tuesday: "11:00 AM–7:00 PM"

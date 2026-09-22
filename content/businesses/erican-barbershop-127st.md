@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–7:00 PM"
 photos: ["/photos/erican-barbershop-127st-1.jpg", "/photos/erican-barbershop-127st-2.jpg", "/photos/erican-barbershop-127st-3.jpg"]
 rating: 5
-review_count: 156
+review_count: 157
 price_range: "$$"
 amenities:
 
@@ -42,10 +42,6 @@ reviews:
       Abel has been my go to barber for the last 4 years. This alone says how much of an excellent barber he’s been. He’s killing it. Everything from his fades, to his lineups have been super consistent and impressive. He’s always improving and in my opinion, he’s the best in Edmonton.
       
       If you want good haircuts, give him a visit. His prices are super reasonable for his excellent services.
-  - name: "Jeremy Cabigas"
-    rating: 5
-    comment: |
-      Place is clean and neat. Thanks to my barber (Yonas) he always takes care of me every time I have my haircut. He’s been my barber for 3 years so I really trust him. All the barbers there are really good too.
   - name: "Zach Pearson"
     rating: 5
     comment: |
@@ -56,4 +52,8 @@ reviews:
     rating: 5
     comment: |
       Hands down the best haircut my son has ever had. Abel is an absolute professional who clearly knows exactly what he’s doing. He took his time, paid attention to the details, and delivered a sharp, clean cut that looks amazing. It's hard to find a barber who combines genuine skill with a great attitude, but Erican nails it. We’ll definitely be regulars at this location!
+  - name: "Moe"
+    rating: 5
+    comment: |
+      Yonas always knocks it out of the park. His attention to detail is unmatched, and he takes his time to make sure the cut is absolutely perfect. Best barber in town, hands down. Highly recommend booking with him!
 ---

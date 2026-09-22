@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Mill Woods"
 address: "8108 Davies Rd NW, Edmonton, AB T6E 4N2"
 rating: 4.8
-review_count: 69
+review_count: 70
 tier: "featured"
 phone: "(780) 860-7288"
 website: "http://www.gbautorepair.ca/"

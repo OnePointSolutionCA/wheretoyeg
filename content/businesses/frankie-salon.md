@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/frankie-salon-1.jpg", "/photos/frankie-salon-2.jpg", "/photos/frankie-salon-3.jpg"]
 rating: 4.9
-review_count: 1009
+review_count: 1011
 price_range: "$$$$"
 amenities:
 

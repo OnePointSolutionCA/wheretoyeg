@@ -20,7 +20,7 @@ hours:
   sunday: "9:15 AM–6:00 PM"
 photos: ["/photos/hectic-cutz-inc-century-park-1.jpg", "/photos/hectic-cutz-inc-century-park-2.jpg", "/photos/hectic-cutz-inc-century-park-3.jpg"]
 rating: 4.9
-review_count: 985
+review_count: 986
 price_range: "$$"
 amenities:
 

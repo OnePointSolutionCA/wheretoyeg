@@ -6,7 +6,7 @@ subcategory: "japanese"
 neighborhood: "Windermere"
 address: "1109 Windermere Way SW, Edmonton, AB T6W 2P3"
 rating: 4.2
-review_count: 611
+review_count: 612
 tier: "featured"
 phone: "(780) 250-4407"
 website: "http://www.gangnamncoco.com/"

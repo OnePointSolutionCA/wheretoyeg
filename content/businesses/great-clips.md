@@ -13,6 +13,12 @@ google_maps: "https://maps.google.com/?cid=8716955569804788619&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/great-clips.jpg"
 reviews:
+  - name: "Gord Kuhn"
+    rating: 5
+    comment: |
+      I'm happy to report that the manager reached out to me and I can purchase a 10 pack that will work out to approximately $18 per cut before tax which is great. The following was my original review.
+      
+      High priced! I have a simple style short hair I used to get my haircut, a buzz cut for $18 at great clips harvest Pointe South Edmonton before they closed. Now at Beaumont they want to charge $28, isn't that ridiculous in comparison. Doesn't seem fair.
   - name: "Kajal Patel"
     rating: 5
     comment: |
@@ -33,10 +39,6 @@ reviews:
     rating: 5
     comment: |
       I just found my new hair stylist today✨, her name is Kim. She did exactly what I wanted for my haircut, gave her an idea what I like and then told her I'll leave it up to her how she would cut it -what's best for my face shape, and I'm so glad I did❣️. And the other lady who was working there, I wasn't able to get her name was so nice as well overall atmosphere here is friendly and professional, they got me in so quick, no wait time!!, I would definitely recommend going to this specific Location👍👍
-  - name: "Prameela Joseph"
-    rating: 5
-    comment: |
-      Great hair cut Services for affordable price range.They always do such a wonderful job. Thank You
 hours:
   monday: "9:00 AM–8:00 PM"
   tuesday: "9:00 AM–8:00 PM"

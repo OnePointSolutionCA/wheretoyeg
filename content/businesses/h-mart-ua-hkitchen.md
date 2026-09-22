@@ -57,12 +57,12 @@ reviews:
       The cheese balls were lighter then expected and great texture. Not salty either.
       
       Overall good experience. Just wished for a few small improvements.
-  - name: "Minchang Kim"
-    rating: 5
-    comment: |
-      One of two stores in Edmonton selling Korean ingredients and food, this store is located right next to (UOA)Alberta University. It is easy to purchase a variety of Korean fresh vegetables and food. The staff is friendly and the service is very good.
   - name: "jen"
     rating: 1
     comment: |
       i got the mango bingsoo for $12. this is how its advertised and how we received it… 7 peices of mango… for $12? not worth your money. i would rather pay more to receive what i purchased
+  - name: "Dominick Johnston"
+    rating: 5
+    comment: |
+      The food is awesome for a place that just recently open nd the Philadelphia roll, out of this world. Definitely coming here again it's worth it. (The roll has six pieces lol ate a couple b4 the pic had to stop myself so i can take the pic lol) I must say also incredible service.
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–7:00 PM"
 photos: ["/photos/fluffy-bakery-1.jpg", "/photos/fluffy-bakery-2.jpg", "/photos/fluffy-bakery-3.jpg"]
 rating: 4.6
-review_count: 164
+review_count: 167
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -34,6 +34,22 @@ reviews:
     rating: 5
     comment: |
       First time at Fluffy Bakery, we booked High Tea for a group of 4. We requested dairy & gluten free for one of us and it looked and tasted amazing. All the bread, deserts, and sandwiches were made in house from scratch. Even the gluten and dairy free products. We couldn’t even eat all of the food, had over half left over to take home. Very friendly staff and the owner was lovely. Highly recommend and will be back.
+  - name: "Xurong Gu"
+    rating: 1
+    comment: |
+      The cake looked beautiful from the outside, but unfortunately, the taste and quality did not meet my expectations.
+      
+      It was extremely sweet. I only had a tiny slice and felt nauseous and had stomach discomfort that night. I gave it a second chance the next day without the outside icing, but the cake itself, strawberry filling, and vanilla icing were still overwhelmingly sweet. Every component was simply too sugary, with no balance. Even my children, who love sweets, refused to eat more. One experienced throat discomfort from the extreme sweetness.
+      
+      The photos also show that the three cake layers are inconsistent in thickness and the filling is unevenly distributed.
+      
+      For a gourmet/high-end bakery, I was also disappointed to see plastic/fabric flowers and other non-edible decorations.
+      
+      The cake was supposed to be ready by noon, but when my husband arrived at 1 p.m., it still wasn’t ready. He had to wait for half an hour, with no apology. The delay disrupted our plans.
+      
+      I appreciate that the owner offered a partial refund, but honestly, I would not purchase this cake again, even at a discounted price.
+      
+      Beautiful appearance, but unfortunately a very disappointing overall experience. The worst birthday cake I’ve ever had.
   - name: "MOHAMMAD AZAM"
     rating: 4
     comment: |
@@ -46,39 +62,22 @@ reviews:
       The hosts were very nice, polite, and made us feel right at home.
       
       Overall, a fantastic experience—we’re definitely looking forward to visiting again soon!
-  - name: "Sophie Gagnon"
+  - name: "Amal Said"
     rating: 5
     comment: |
-      Amazing bakery with gluten free options. Confirmed that they take all necessary precautions to prevent cross contamination and all staff are very well trained on this matter. Had a soy milk matcha and tried the gluten free croissant, the gluten free pistachio cheesecake cup. Everything was absolutely delicious! Also bought a freshly baked gluten free artisanal loaf to take home! Staff were incredible friendly and the bakery itself is extremely cozy, was able to get a little work in!  Their non gluten free options also looked amazing, highly recommend, gluten free or not!
-  - name: "Michael (IG mike.slikes)"
+      The cake was absolutely amazing—delicious and made to perfection! It was a beautiful traditional henna cake, customized exactly the way we wanted and perfectly matched the theme of our celebration. The staff were very welcoming, friendly, and helpful throughout the whole process. Their prices were also very reasonable. We were extremely happy with everything and would definitely recommend them!
+  - name: "Ivy"
     rating: 5
     comment: |
-      I joined their First ever Cake Decoration Class!
-      Perfect for beginners!
-      20%off for groups of 6!
-      $125 pp
-      Included:
-      ONE pre-baked 4" cake (choose Vanilla, Chocolate, or Red Velvet)
+      I love this place! I meet with friends here as often as I can.
       
-      OR   TWO Cupcake Decorating Class
+      Every dessert I've tried has been fantastic! If you're a fan of rich chocolate with a crunch then I recommend the Dubai Chocolate Cheesecake cup. It's $10.50 but I ended up bringing most of it home. If you're a fan of something lightly sweet but very moist then Id recommend the Tres Leches (not sure if I'm spelling that correctly).
       
-      INCLUDED in Every Class:
-      -All supplies, icing & take-home containers
-      (They handle cleanup!)
-      -Free drinks ☕
-      Sunshine Mint Cooler
-      Tea (hot or iced)
-      Coffee (with free refills)
+      The lady working the front counter is absolutely lovely. She's friendly and welcoming. The woman who makes everything is usually out a few times and it is obvious that she works very hard to make all these items from scratch.
       
-      -Tasty snacks
-      ------
-      2nd visit High Tea
+      The atmosphere is decadent yet relaxing. It's decorated in a contemporary French country fashion but with a few couches and comfy chairs. They also have tables and chairs that could accommodate a bigger group.
       
-      Available Tue and Sat with online booking
-      $60 pp including a tower and all drinks on the menu with free refill
-  - name: "Ilse Buma"
-    rating: 5
-    comment: |
-      Great place for coffee and cake. Plenty of Gluten free options. I tried there gf tiramisu. and paired it with their iced mocha. Very delicious. A little pricey.
-      Great patio area too.
+      They offer a proper tea service and I've been waiting to gather a group for this.
+      
+      Give this place a try!
 ---

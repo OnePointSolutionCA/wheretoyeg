@@ -6,7 +6,7 @@ subcategory: "chinese"
 neighborhood: "Mill Woods"
 address: "Next To Canadian Tire, 2331 66 St NW Unit 270, Edmonton, AB T6K 4B4"
 rating: 4.4
-review_count: 2505
+review_count: 2499
 tier: "featured"
 phone: "(780) 757-9166"
 website: "https://himalayanvillage.ca/"
@@ -14,15 +14,15 @@ google_maps: "https://maps.google.com/?cid=15752184892912989767&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/himalayan-village-mill-woods-town-centre-edmonton.jpg"
 reviews:
+  - name: "himanshu karanwal"
+    rating: 5
+    comment: |
+      I had a wonderful experience at Himalayan Village Restaurant, all thanks to Japneet. She suggested the veg Hakka noodles with Manchurian, veg biryani and the Schezwan momos, and honestly, it was finger-licking delicious. The flavors were perfectly balanced, fresh, and incredibly satisfying. Japneet was polite, attentive, and really knew her recommendations well. Her suggestion made my meal memorable. Highly recommend both the food and the service!
   - name: "Nadeem Ahmad"
     rating: 5
     comment: |
       Had an amazing experience at Himalayan Village!
       The biryani was rich, aromatic, and perfectly spiced — every bite was full of flavor. The chicken momos were juicy, fresh, and served with an incredibly tasty sauce that made them even better. Cozy atmosphere, great hospitality, and authentic Himalayan flavors. Definitely a place worth visiting again. Highly recommended for anyone craving delicious comfort food! ⭐⭐⭐⭐⭐
-  - name: "himanshu karanwal"
-    rating: 5
-    comment: |
-      I had a wonderful experience at Himalayan Village Restaurant, all thanks to Japneet. She suggested the veg Hakka noodles with Manchurian, veg biryani and the Schezwan momos, and honestly, it was finger-licking delicious. The flavors were perfectly balanced, fresh, and incredibly satisfying. Japneet was polite, attentive, and really knew her recommendations well. Her suggestion made my meal memorable. Highly recommend both the food and the service!
   - name: "Daman Mann"
     rating: 4
     comment: |

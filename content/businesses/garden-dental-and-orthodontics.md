@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Spruce Grove"
 address: "306 McLeod Ave, Spruce Grove, AB T7X 0J6"
 rating: 4.7
-review_count: 251
+review_count: 252
 tier: "featured"
 phone: "(780) 962-3414"
 website: "https://www.gardendental.ca/?utm_source=GMBListing&utm_medium=Organic"
@@ -34,10 +34,10 @@ reviews:
       The clinic is clean, modern, and well-equipped, which adds to the overall sense of confidence and care. The team explained everything clearly and made sure I understood each step, which really helped reduce any anxiety.
       
       Overall, excellent service, skilled professionals, and a pleasant environment — I would highly recommend Garden Dental Clinic for anyone needing dental work.
-  - name: "Christine McCool"
+  - name: "Stacey Ermen"
     rating: 5
     comment: |
-      Dr Stephen and staff are absolutely amazing!!! I have crippling dental anxiety, to the point where I hadn't seen a dentist in years. Everyone here were extremely understanding, compassionate and supportive,  weren't judgemental on my oral health and conditions and really put me at ease. It's very comfortable atmosphere and super clean. I will definitely keep going here.
+      I was here yesterday, it was very hard extraction due to a huge abscess on the root of my molar tooth with a mercury cap filing there for years. It was a difficult freeze due to infection and my past hx of having difficulty freezing. The patience, kindness and understanding Dr.Michael and Victoria took with me was amazing. They were not only compassionate but very educated and informative, letting me know step by step what was going to happen and that I had the ability to stop it at anytime or take breaks if needed. They understood I was not an easy extraction and as busy as they were they remained compassionate towards me....that is not an easy task to do when you are busy. I myself am a nurse who works in the medical field, and am truly appreciative at how they handled my challenging case (many obstacles) with grace kindness and full of knowledge. Beautifully done you two! PS guys my BP today is 134/80 p 71 🙂
 hours:
   monday: "8:00 AM–5:00 PM"
   tuesday: "7:00 AM–5:00 PM"

@@ -48,14 +48,14 @@ reviews:
       They can even get Amsoil Oil which is liquid gold!!
       
       What a team at Fontain!!!
-  - name: "Sandy Beaches"
-    rating: 5
-    comment: |
-      Jason V is exceptional! He has went above and beyond in being honest, thorough, and efficient in diagnosing issues with transparency. Couldn’t be happier!
   - name: "Robin Clark"
     rating: 5
     comment: |
       Brent and his team are consistently friendly and responsive. I trust that when I leave my vehicle with them, it will be handled professionally and with care. Their reliability and service quality make them a standout. We are fortunate to have such a dependable business in our community.
+  - name: "Lisa Barabash"
+    rating: 5
+    comment: |
+      Thanks to Jeffery and the crew at Fountain Tire for the emergency flat repair today! Excellent, quality service. They even arranged a ride home for me so I didn’t have to sit around and wait. I appreciate the service!
 hours:
   monday: "8:00 AM–5:00 PM"
   tuesday: "8:00 AM–5:00 PM"
