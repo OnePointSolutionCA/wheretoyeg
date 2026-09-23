@@ -28,6 +28,12 @@ tags: ["edmonton", "hvac"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Rianon Z"
+    rating: 5
+    comment: |
+      After dealing with some less than professional contractors in the new home building experience, my interaction with max has been a breath of fresh air when it came to getting our air conditioner installed!
+      
+      They responded to our inquiry promptly while other companies took days to get back, provided reasonable quotes with different options, and had install appointments available right away. The crew was kind and professional, they even went so far as to drive across town for a unique breaker my home required and helped me out with an unrelated furnace issue I was having. I couldn’t have asked for a better experience, thanks guys!
   - name: "Val Gabert"
     rating: 5
     comment: |
@@ -45,8 +51,4 @@ reviews:
     rating: 1
     comment: |
       I reached out for a quote to repair my AC and was asked to text over some photos and details. I sent everything through and was told I’d be kept updated. After three days of not hearing anything, I followed up and they apologized, saying they’d check with the team. Five more days went by with no update, so I followed up again, but never got a response.
-  - name: "Kristine Peace"
-    rating: 5
-    comment: |
-      Vlad & Alex did a great job! Highly professional, polite, used a proper truck mount unit. I would definitely have them back.
 ---

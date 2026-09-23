@@ -23,10 +23,6 @@ reviews:
     rating: 5
     comment: |
       First time here and had a good experience. Had Walo as a barber and the guy was nice, professional and gave me good tips on how to style my hair. He showed me how my hair naturally parts when I’ve been doing it wrong for years. The place has a cool vibe to it. Definitely would recommend for people who’ve had trouble finding a good barber like myself
-  - name: "Karanbeer Dhanoa"
-    rating: 5
-    comment: |
-      Best haircut I’ve had in years. Walo is consistent, professional, and precise. He’s your guy If you want a sharp look and a barber who actually understands what you're asking for.
   - name: "Sunny Sidhu"
     rating: 5
     comment: |
@@ -35,6 +31,10 @@ reviews:
     rating: 5
     comment: |
       Hands down the best Barbers in Alberta, From Mens Facial to the sickest Fades and beards I've ever seen, Ab  Waldo and Mo have you covered  100 percent reccommemd to anyone who wants the best in in town and out. Thanks Boys
+  - name: "Karanbeer Dhanoa"
+    rating: 5
+    comment: |
+      Best haircut I’ve had in years. Walo is consistent, professional, and precise. He’s your guy If you want a sharp look and a barber who actually understands what you're asking for.
 hours:
   monday: "11:00 AM–8:00 PM"
   tuesday: "11:00 AM–8:00 PM"

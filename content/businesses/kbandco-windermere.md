@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Windermere"
 address: "5244 Windermere Blvd, Edmonton, AB T6W 0L9"
 rating: 4.5
-review_count: 263
+review_count: 264
 tier: "featured"
 phone: "(780) 760-5432"
 website: "http://kbandcompany.com/visitus/windermere-edmonton"

@@ -30,12 +30,6 @@ tags: ["edmonton", "bubble-tea"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Dilpreet Chawla"
-    rating: 5
-    comment: |
-      there were so many options to choose from that I couldn’t decide, so one of the staff recommended their new Beef menu and I’m so glad she did. It was absolutely delicious. the beef was so tender it literally melted in my mouth. it tasted like heaven.
-      
-      their milk tea is still my favourite. everything was amazing, and i will definitely be coming back. highly recommend!!
   - name: "Rhyv tu"
     rating: 5
     comment: |
@@ -48,6 +42,12 @@ reviews:
     rating: 5
     comment: |
       Very clean and well-maintained place. You can immediately tell they take cleanliness seriously, which makes the whole experience even better. The food is also amazing — fresh, flavorful, and consistently good every time. Definitely one of the best spots to eat. Highly recommend
+  - name: "Dilpreet Chawla"
+    rating: 5
+    comment: |
+      there were so many options to choose from that I couldn’t decide, so one of the staff recommended their new Beef menu and I’m so glad she did. It was absolutely delicious. the beef was so tender it literally melted in my mouth. it tasted like heaven.
+      
+      their milk tea is still my favourite. everything was amazing, and i will definitely be coming back. highly recommend!!
   - name: "Rene Garcia"
     rating: 5
     comment: |

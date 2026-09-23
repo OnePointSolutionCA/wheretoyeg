@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "222 Baseline Rd #150, Sherwood Park, AB T8H 1S8"
 rating: 4.7
-review_count: 1177
+review_count: 1179
 tier: "featured"
 phone: "(780) 467-7427"
 website: "http://www.memphisbluesbbq.com/"
@@ -13,7 +13,7 @@ google_maps: "https://maps.google.com/?cid=7029694867767657416&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/memphis-blues-bbq-house.jpg"
 reviews:
-  - name: "Sasha Love"
+  - name: "Tammy C"
     rating: 5
     comment: |
       This was down home food at its best!
@@ -64,14 +64,14 @@ reviews:
       All in all great food, great staff and you cant ask for much more...but there was more. The house made lemonade was not overly sweet like a bottled lemonade and the sweet tea was phenomenal the brewed tea flavour but sweet enough to make you want to keep the refills coming.
       
       We WILL BE BACK and next time im gonna make sure I am ready to chow down.
+  - name: "Jessica M."
+    rating: 5
+    comment: |
+      Amazing place. So much food for such a reasonable price! Our toddler also really enjoyed everything and it was a family friendly environment. We were eating meat for days, which was awesome! We will be back :)
   - name: "Simon Spenner"
     rating: 5
     comment: |
       Ridiculously delicious. Everything was so flavourful! You can tell it was made with a lot of care and attention. The key lime pie even melts in your mouth. Definitely will be coming back.
-  - name: "Noulec TS"
-    rating: 5
-    comment: |
-      When there for my husband birthday with my family. We order the memphis plater (5-6 ppl), it was huge! We couldn’t even finish it, snd was happy to bring leftovers home . We love everything in it: the meats, sausages, corn bread, beans, fries, potatoes salad, sauce… super tasty. The peach crumble was delicious! The service was excellent and welcoming! The price was reasonable. Great place, Recommend to all,
 hours:
   monday: "11:00 AM–8:00 PM"
   tuesday: "11:00 AM–9:00 PM"

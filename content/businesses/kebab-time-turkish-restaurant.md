@@ -19,7 +19,7 @@ hours:
   sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/kebab-time-turkish-restaurant-1.jpg", "/photos/kebab-time-turkish-restaurant-2.jpg", "/photos/kebab-time-turkish-restaurant-3.jpg"]
 rating: 4.6
-review_count: 679
+review_count: 686
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -52,15 +52,10 @@ reviews:
       The entree was a meat lovers paradise. Got flaked beef and chicken, chicken wings, lamb skewer, chicken skewer, adana i think, kafta, fries, plain rice and seasoned rice. Portions are  great so we had to carry home most of it.
       
       It a weekday and inside was busy but service was a bit slow though we were seated quickly. No bartender so imi couldn’t try the cocktails. Overall a good experience that I’m glad was recommended to me abd i do recommend it to others too.
-  - name: "Arsham Sarshogh"
-    rating: 4
+  - name: "D F"
+    rating: 5
     comment: |
-      We visited Kebab Time for lunch today.
-      The food quality was exceptional.
-      Pide and Lahnacun were crispy and authentic. Beef shish kebab was very tender and juicy which is rare to nail. Their Adana and Kofta kebabs were also well seasoned and cooked perfectly.
-      Portions are generous and well worth the price.
+      Liked the food! I think I’ve been to most of the popular Turkish restaurants around Edmonton, and this one is definitely in my Top 5. The meats are tender and well‑seasoned. Although, I gotta be honest—I wish they served a bit more of that delicious rice it comes with. Not a fan of their garlic sauce (it’s probably not even garlic sauce to begin with; I could be wrong. It might just be different from my other fave Turkish/Middle Eastern restos), but it’s not bad overall.
       
-      The service needs improvement as we felt that they are under staffed. When the restaurant gets busy, it gets hard and frustrating for the staff to handle it which leads to very late service. We waited 20+ minutes for our dessert and there were a few mix ups in our order which were addressed kindly by the staff (we received a couple of skewers for free).
-      
-      Overall I would highly recommend the place for authentic Turkish food. But would suggest going at a time that is not busy.
+      Glad they serve bread as a starter and tea at the end of the meal. A bit pricey, but the food is good nonetheless.
 ---

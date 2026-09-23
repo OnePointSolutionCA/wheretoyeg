@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–8:00 PM"
 photos: ["/photos/la-morenita-1.jpg", "/photos/la-morenita-2.jpg", "/photos/la-morenita-3.jpg"]
 rating: 4.7
-review_count: 706
+review_count: 707
 price_range: "$"
 amenities:
   - "Dine-In"

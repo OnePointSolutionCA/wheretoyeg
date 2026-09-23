@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "12522A 132 Ave NW, Edmonton, AB T5L 3P9"
 rating: 4.9
-review_count: 511
+review_count: 513
 tier: "featured"
 phone: "(587) 805-5502"
 website: "https://kensingtondentalclinic.ca/?utm_source=GMB&utm_medium=seo&utm_campaign=GBP"

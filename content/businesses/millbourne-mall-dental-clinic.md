@@ -41,10 +41,10 @@ reviews:
       Dr. Patel is also wonderful — very knowledgeable and kind, he always takes time to explain everything and make sure you feel comfortable.
       The whole team at Millbourne Dental Clinic is fantastic! Highly recommend this place to anyone looking for excellent dental care.
 hours:
-  monday: "11:00 AM–7:00 PM"
-  tuesday: "10:00 AM–6:00 PM"
-  wednesday: "10:00 AM–6:00 PM"
-  thursday: "11:00 AM–6:00 PM"
+  monday: "9:30 AM–7:00 PM"
+  tuesday: "9:30 AM–6:00 PM"
+  wednesday: "9:30 AM–6:00 PM"
+  thursday: "9:30 AM–6:00 PM"
   friday: "9:00 AM–5:00 PM"
   saturday: "9:00 AM–4:00 PM"
   sunday: "Closed"

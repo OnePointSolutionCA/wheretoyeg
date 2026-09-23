@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "13038 97 St NW, Edmonton, AB T5E 4C6"
 rating: 4.5
-review_count: 1092
+review_count: 1093
 tier: "featured"
 phone: "(587) 408-9941"
 website: "https://www.midas.com/store/ab/edmonton/13038-97th-street-t5e-4c6/?shopnum=9351&utm_source=google&utm_medium=organic&utm_campaign=gbp"
@@ -22,6 +22,14 @@ reviews:
     rating: 5
     comment: |
       Got a coupon for a free oil change and tire rotation for Christmas 🎄.  Went into the location and was taken care of in a quick amount of time and with no appointment. It was also 230 in the afternoon, quick service, even received a follow up phone call to remind me to return within 100 km for my tires. Totally would recommend.
+  - name: "K CB"
+    rating: 5
+    comment: |
+      JP and the team at Midas on 97th are awesome.
+      
+      Very friendly and gave clear timeline on the parts in transit and work time required. Everything went smoothly and my car feels so much better.
+      
+      Will be back for all my future services
   - name: "Reggie VIP"
     rating: 1
     comment: |
@@ -30,16 +38,6 @@ reviews:
     rating: 5
     comment: |
       I had my oil change done at Midas and the service was excellent. Kevin was very professional, friendly, and took the time to explain everything clearly. The work was done quickly and efficiently, and I felt well taken care of. Overall a smooth and positive experience. I would definitely recommend this location and will be coming back again.
-  - name: "VALERY MUNDI BEMIATI"
-    rating: 5
-    comment: |
-      I recently came across a 50% off oil change promotion from Midas on Facebook, and it couldn’t have come at a better time since my oil change was already due. I called immediately to confirm the offer and was able to book an appointment for the next day, March 24th, 2026 at 9:30 AM.
-      
-      Honestly, I initially went in just to verify if the promotion was genuine—but I was pleasantly surprised. The level of professionalism was outstanding. My oil change was completed within an hour, and they also carried out a free diagnostic on my vehicle. The findings were clearly explained to me along with helpful recommendations. On top of that, I received a free tire rotation.
-      
-      Despite some negative reviews I had seen, my experience was completely different. I was treated with respect and professionalism throughout the visit. As promised, I only paid 50% since I arrived before 10 AM.
-      
-      Thank you, Midas! I will definitely recommend your services to others.
 hours:
   monday: "8:00 AM–6:00 PM"
   tuesday: "8:00 AM–6:00 PM"

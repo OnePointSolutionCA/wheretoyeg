@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Windermere"
 address: "1313 175 St SW, Edmonton, AB T6W 4H3"
 rating: 5
-review_count: 1030
+review_count: 1031
 tier: "featured"
 phone: "(780) 434-3441"
 website: "https://www.keswick-dental.ca/"
@@ -24,6 +24,10 @@ reviews:
       The dentists, hygienists, and front desk staff consistently go above and beyond to make every visit a great experience. They take the time to listen, explain treatment options clearly, and never make you feel rushed. It’s comforting to know our family is receiving such high-quality care from people who genuinely care about their patients’ well-being.
       
       I highly recommend Keswick Dental to anyone looking for a caring, knowledgeable, and trustworthy dental clinic in Edmonton. Thank you to the entire team for always making our family feel welcome and well looked after!
+  - name: "Wesley Reyda"
+    rating: 5
+    comment: |
+      This is a very well run, professional dental office that is a treat to visit. The front counter staff are friendly and helpful in answering any questions or concerns you may have. The staff are great at explaining what work is going to be done, recommendations, and how to make your dental health better on a day to day basis. My daughter and I both go to this location and we are always impressed with the experience. Thank you!
   - name: "heyxciii"
     rating: 5
     comment: |
@@ -36,10 +40,6 @@ reviews:
     rating: 5
     comment: |
       Recently moved here from an older clinic and very happy with my decision. All the staff are great, the offices are super nice, and they do things previous dentists haven't, like taking photos of my teeth and x-rays of the front teeth. Dr. Intas is fantastic! Have seen her for a check up and a filling and she's been great both times.
-  - name: "Irene"
-    rating: 5
-    comment: |
-      Dr. Luebbert is excellent! He was thorough, patient, and took the time to explain exactly what was going on with my teeth and lay out a solid plan going forward. Left the appointment actually feeling informed and confident about my dental health. I also had my teeth clean and had a painless experience.  Would definitely recommend Dr. Luebbert and his team.
 hours:
   monday: "8:00 AM–8:00 PM"
   tuesday: "8:00 AM–8:00 PM"

@@ -20,7 +20,7 @@ hours:
   sunday: "7:30 AM–7:00 PM"
 photos: ["/photos/lock-surgeon-1.jpg", "/photos/lock-surgeon-2.jpg", "/photos/lock-surgeon-3.jpg"]
 rating: 4.2
-review_count: 1272
+review_count: 1277
 price_range: "$$"
 amenities:
 
@@ -42,12 +42,12 @@ reviews:
     rating: 5
     comment: |
       On Aug. 27, 2026 J.J. Boisclair from Door Surgeon, came to our residence and gave us a quote to do repairs to our garage door. He was very professional, answered all our questions and booked us in to do the repairs. On Sept. 2, 2026 JJ and his trainee came to do the repairs.They did the work as per the quote and walked us through the invoice. I would definetly recommend them for any garage door repairs.
-  - name: "Cathy Monkman"
+  - name: "Chrystal"
     rating: 5
     comment: |
-      Tyler C was helpful and informative.  He was friendly and got the job done perfectly and in a timely fashion.  We have used lock Surgeon 17812 118 Ave before and they will remain our first call if needed in the future.
-  - name: "Luigi DeLuca"
+      I purchased locks from Lock Surgeon and had an excellent experience. Pat, promptly greeted us when we walked in and clearly explained all the options for new outdoor locks. After deciding on the locks, Tyler how to install them and cut additional keys for us. The process was smooth and professional. I would recommend Lock Surgeon for anyone needing new locks.
+  - name: "Tara C"
     rating: 5
     comment: |
-      This review is for Lucas....he is a true professional he takes the time to understand what you need and will help you in anyway he can. Men like this will keep customers coming back so my advice is PAY this man well and do what it takes to keep him. Lucas takes pride in what he does.
+      Patrick was able to find a key and fix my broken bent key for a desk drawer. Excellent fast service. I am always happy when I use Lock Surgeon!!
 ---

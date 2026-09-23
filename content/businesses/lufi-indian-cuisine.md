@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–12:00 AM"
 photos: ["/photos/lufi-indian-cuisine-1.jpg", "/photos/lufi-indian-cuisine-2.jpg", "/photos/lufi-indian-cuisine-3.jpg"]
 rating: 4.8
-review_count: 327
+review_count: 332
 price_range: "$$"
 amenities:
   - "Halal"
@@ -69,12 +69,6 @@ reviews:
     rating: 5
     comment: |
       Extremely professional staff. The owners are sweet and pay attention to detail. Returned again for their masala dosa, gulqb jamun and paneer tikka. The food is extremely yummy and its a halal place. Must try
-  - name: "E_wiking"
-    rating: 5
-    comment: |
-      A lovely restaurant with delicious food and fantastic service. I can only recommend the butter chicken curry and garlic naan as they go really well together.
-      
-      Also, the waitress was very friendly and engaging. On top of that she gave me some sightseeing tips, since I am on vacation in Edmonton.
   - name: "Dervin Paul"
     rating: 5
     comment: |
@@ -85,4 +79,8 @@ reviews:
       The staff were very welcoming, attentive, and made us feel comfortable throughout the visit. The restaurant was clean, well-maintained, and had a pleasant atmosphere for families.
       
       If you are craving real South Indian flavors, this is definitely a must-visit place. Highly recommended!
+  - name: "Marina Blanc"
+    rating: 5
+    comment: |
+      First time here and everything was so amazing me and my bf got the chicken curry butter chicken and garlic naan as well as fish pakora and salad, the food was exceptionally fresh and tasted so good and the service was amazing and attentive.
 ---

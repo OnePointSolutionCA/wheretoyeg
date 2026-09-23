@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Mill Woods"
 address: "6554 28 Ave NW, Edmonton, AB T6L 6N3"
 rating: 4.6
-review_count: 832
+review_count: 839
 tier: "featured"
 phone: "(780) 760-5222"
 website: "https://manilagrillexpress.ca/"
@@ -17,6 +17,10 @@ reviews:
     rating: 5
     comment: |
       We had a wonderful experience at Manila Grill when we celebrated our daughter’s 1st birthday last January. The food was delicious, and everything was well-prepared. The team was very accommodating, kind, and friendly, which made our celebration even more special. We truly appreciate their great service and highly recommend them!
+  - name: "Jc Javier"
+    rating: 5
+    comment: |
+      The food were delicious and affortable . The staff moneth and fitz were accomodating and friendly. I also love their pasalubong sections.
   - name: "Ivan Maurice Caberte"
     rating: 5
     comment: |
@@ -33,12 +37,6 @@ reviews:
     rating: 5
     comment: |
       We had our son baptism celebration here on July 26, staff were very friendly and helpful, food was great. I really recommend Manila if you are planning your event. They can help you with the decoration as well. We are very happy with the experience at Manila Grill Express-South!
-  - name: "Sanju Salgu"
-    rating: 5
-    comment: |
-      We had a great experience at Manila Grill! The food was absolutely delicious—perfectly grilled, juicy, and full of authentic flavor. The barbecue especially stood out, with that smoky, slightly charred taste that just hits right.
-      
-      A special shoutout to Monet, she was super friendly, attentive, and made sure everything was taken care of throughout our meal
 hours:
   monday: "11:00 AM–8:00 PM"
   tuesday: "11:00 AM–8:00 PM"

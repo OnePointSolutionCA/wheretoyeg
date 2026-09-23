@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/luvie-nails-spa-1.jpg", "/photos/luvie-nails-spa-2.jpg", "/photos/luvie-nails-spa-3.jpg"]
 rating: 4.9
-review_count: 523
+review_count: 524
 price_range: "$$$"
 amenities:
 

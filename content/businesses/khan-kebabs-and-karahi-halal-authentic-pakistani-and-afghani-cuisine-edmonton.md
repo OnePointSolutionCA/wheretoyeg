@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Mill Woods"
 address: "2619 Ellwood Dr SW, Edmonton, AB T6X 0P7"
 rating: 4.6
-review_count: 2068
+review_count: 2077
 tier: "featured"
 phone: "(780) 450-9100"
 website: "http://www.khankebabs.ca/"

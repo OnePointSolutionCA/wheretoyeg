@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Spruce Grove"
 address: "183 Hwy 16A #106, Spruce Grove, AB T7X 4P9"
 rating: 4.5
-review_count: 74
+review_count: 75
 tier: "featured"
 phone: "(587) 461-3971"
 website: "https://www.lilavas.ca/"
@@ -22,14 +22,14 @@ reviews:
     rating: 5
     comment: |
       Pizza was good, it was a bit soggy and oily. And some of the bottom wasn’t cooked. It has a lot of toppings on it. Service was great.
-  - name: "Willboske"
-    rating: 5
-    comment: |
-      Pizza was very good!  Lots of toppings and cheese.. Nice to see.  Will definetley order again!
   - name: "Ava hewison"
     rating: 5
     comment: |
       Me and my partner came to try this pizza and it was AMAZING! The service was lovely and it’s the cutest place ever, we always get such a fresh delicious pizza! I really recommend it!!
+  - name: "Willboske"
+    rating: 5
+    comment: |
+      Pizza was very good!  Lots of toppings and cheese.. Nice to see.  Will definetley order again!
   - name: "Avah C"
     rating: 5
     comment: |

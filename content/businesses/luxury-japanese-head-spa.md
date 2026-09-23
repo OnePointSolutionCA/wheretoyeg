@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–6:00 PM"
 photos: ["/photos/luxury-japanese-head-spa-1.jpg", "/photos/luxury-japanese-head-spa-2.jpg", "/photos/luxury-japanese-head-spa-3.jpg"]
 rating: 4.8
-review_count: 203
+review_count: 204
 price_range: "$$"
 amenities:
 
@@ -49,10 +49,6 @@ reviews:
     comment: |
       Amazing experience 100% recommend Quyen and Grace.  Took my daughter and I for a little scalp self care love today the studio is very clean and organized and both Quyen and Grace were welcoming. The service itself is AMAZING. !!! I can’t decide what my favourite part was of the whole service so I’ll just say GO, RUN and enjoy!!!
       Thank you Quyen. We will be back
-  - name: "Cristin Abbott"
-    rating: 5
-    comment: |
-      What an amazing experience! I learned so much about my own hair/scalp and how to take care of it. Quyen was extremely knowledgeable and a wonderful person.  She ensured that the temperatures of everything were where they needed to be for my preference and that the massage bed was comfortable for my needs. Overall, the Sakura Bliss spa package over exceeded my expectations. I feel so rejuvenated afterwards.  Truly a whole body refresh. I will definitely be back!
   - name: "Shop Nut"
     rating: 5
     comment: |
@@ -61,4 +57,12 @@ reviews:
       Quyen is absolutely amazing—so skilled, attentive, and professional. Every visit was incredibly relaxing, and I always left feeling refreshed and well taken care of.
       
       The entire experience was wonderful and absolutely worth it. I highly recommend the Yomigari package to anyone looking to improve their scalp health and support hair growth. 5 stars all the way!
+  - name: "Charlotte Chow"
+    rating: 5
+    comment: |
+      I recently had a head spa treatment at Japenese Head Spa by Elements Hair and Body Care . It was an amazing experience! Not only was the treatment incredibly relaxing, but I also learned a lot about proper scalp care and how to maintain a healthy scalp at home.
+      
+      The service was excellent from start to finish. The staff were knowledgeable, professional, and took the time to explain everything clearly. I left feeling refreshed, relaxed, and much more informed about scalp health.
+      
+      I will definitely be coming back and highly recommend  to anyone interested in trying a head spa treatment.
 ---

@@ -36,6 +36,10 @@ reviews:
       We have done our children's birthday parties here and the staff have always been incredibly kind and accommodating. They all seem so content and happy!
       
       Although we have decided to homeschool our children—a choice driven by our long-standing desire rather than any dissatisfaction—we are truly grateful for the care and support Little Nemo’s has provided. If you are looking for a daycare where your child will be cherished and well cared for, we highly recommend Little Nemo’s!
+  - name: "George"
+    rating: 1
+    comment: |
+      Looking for a daycare for my daughter and came across this place , seeing their requirements made me laugh .. they expect kids to eat at home before being dropped off and you have to pack them lunch . This makes me believe that they have no clue how kids are , kids like to eat together with other kids and then when it comes to lunch how do you explain to a kid that they can’t have what  other kids are eating.. Ridiculous!
   - name: "gamo solo"
     rating: 5
     comment: |
@@ -54,8 +58,4 @@ reviews:
     rating: 5
     comment: |
       Best daycare by far, the staff are so caring and understanding my children enjoy going and even my older ones still go in to see the staff and younger friends 🧡
-  - name: "Nicola G"
-    rating: 5
-    comment: |
-      Amazing daycare! My son has been there for 2 years and he adores the teachers and staff! They truly care about the kids and their experiences. They are always thinking of new activities to keep the kids interested and learning. Just a wonderful, safe facility with truly one of kind people!
 ---

@@ -12,6 +12,10 @@ google_maps: "https://maps.google.com/?cid=2933808873985763834&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/koko-grill.jpg"
 reviews:
+  - name: "Randy Rusnell"
+    rating: 5
+    comment: |
+      What a cute spot!! This is a new restaurant in Beaumont. It was on my list of places to try so I decided to stop in today. I love Korean food and this didn't disappoint! So fresh and tasty and fantastic value! Staff was so friendly and welcoming. Food was fast and hot! This will quickly become a favourite spot for my family
   - name: "Ansen Cahoon"
     rating: 5
     comment: |
@@ -29,10 +33,6 @@ reviews:
     rating: 5
     comment: |
       Great food and great service at a good price. The wife and I both ordered the "create a bowl" option. One chicken and one beef each with noodles. They were both delicious. Our son ordered the fried chicken and French fries, and it was fantastic! I would highly recommend and we will be going back for more in the near future.
-  - name: "Jared Schapansky"
-    rating: 5
-    comment: |
-      Had Koko Grill (Beaumont, Alberta) for the first time today (the hot honey chicken). It was exceptional. Great taste, the perfect vegetables, perfect amount of heat. My family usually goes with Wok Box for more healthy-ish (non-sushi) Asian cuisine. Koko far surpasses it. Give it a shot.
 hours:
   monday: "11:00 AM–9:00 PM"
   tuesday: "11:00 AM–9:00 PM"

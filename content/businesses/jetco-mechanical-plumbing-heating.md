@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/jetco-mechanical-plumbing-heating-1.jpg", "/photos/jetco-mechanical-plumbing-heating-2.jpg", "/photos/jetco-mechanical-plumbing-heating-3.jpg"]
 rating: 4.9
-review_count: 234
+review_count: 235
 price_range: "$$"
 amenities:
 
@@ -42,12 +42,16 @@ reviews:
       Worked performed by Matthew M was amazing. He knows his stuff, highly recommend.
       Straight shooter, gets to the bottom of the issue.
       He was able to contact navien and get me almost my entire unit covered under warranty (thank you to navien too, for going above and beyond). Had Matthew install soft water system while he was at my place. Nice install, neat & tidy, and work area cleaned up.
+  - name: "Diane Simpson"
+    rating: 5
+    comment: |
+      Jetco was the sub trade on our Renovation. We reached out to their service department when unexpectedly water appeared at the base of our toilet. We also wanted to move the garburator.
+      
+      Meeting Johnny was a pleasure. He was extremely knowledgable and made sure nothing had been missed. He went above and beyond in ensuring the problem was solved. He worked efficiently and explained in detail what needed to be done.
+      
+      I would definitely reach out to Jetco (Johnny Shanks) if I ever need a service technician in the future. Johnny is very professional and ensures that he’s focussed on providing superior workmanship
   - name: "Andrew Canterbury"
     rating: 5
     comment: |
       Great crew all around.  Johnny Shanks is very conscientious and detailed with his knowledge about all the systems in the home.  Matt redid my AC, he was awesome too.  Would highly recommend Jetco.
-  - name: "jg mejillano"
-    rating: 5
-    comment: |
-      Jordan did a great job fixing our furnace. He was professional, knowledgeable, and took the time to clearly explain what the issue was and how he was going to fix it. He arrived on time, worked efficiently, and made sure everything was running properly before he left. It’s clear he takes pride in his work and cares about providing excellent service. I really appreciate the effort he put in to get our heat back up and running. Highly recommend Jordan for anyone needing furnace repair!
 ---

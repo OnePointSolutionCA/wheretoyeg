@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/istanbul-kebab-and-donair-1.jpg", "/photos/istanbul-kebab-and-donair-2.jpg", "/photos/istanbul-kebab-and-donair-3.jpg"]
 rating: 4.8
-review_count: 2329
+review_count: 2348
 price_range: "$$"
 amenities:
   - "Halal"
@@ -75,13 +75,13 @@ reviews:
       Had an amazing experience at Istanbul Kebab and Donair today! A friend brought us here and honestly, I was blown away. The food was absolutely delicious — everything was fresh, flavorful, and perfectly cooked. The meat was juicy, the portions were generous, and the sauces were incredible.
       The staff were also super friendly and welcoming, which made the whole experience even better. You can really tell they care about quality and customer experience.
       Definitely one of the best donair/kebab spots I’ve tried. Will 100% be coming back and recommending this place to everyone!
-  - name: "Uzma W"
-    rating: 5
-    comment: |
-      You have to come here when you are in Edmonton, we ordered Family Plate for 2, you’ll have an authentic Turkish experience. The food is fresh, bursting with flavour & delicious! Highly recommended!
   - name: "shouq al zaid"
     rating: 5
     comment: |
       I had such a great experience at this restaurant! I went there for breakfast and everything was amazing. The eggs were absolutely delicious, the bread was fresh and incredible, and they had such a wonderful variety of teas to choose from. Our waitress was also very kind and welcoming, which made the experience even better.
       I enjoyed it so much that I went back again two days later for lunch, and once again everything was excellent. I truly enjoyed every visit and will definitely be coming back. Highly recommended!
+  - name: "Rabeeh Ebrahem"
+    rating: 5
+    comment: |
+      The food was absolutely delicious and authentic, and the service was truly outstanding. The staff is incredibly welcoming, professional, and attentive to every detail. It was a wonderful dining experience from start to finish—highly recommended!"
 ---

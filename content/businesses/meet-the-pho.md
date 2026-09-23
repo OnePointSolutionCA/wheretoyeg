@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Beverly"
 address: "592 Hermitage Rd NW, Edmonton, AB T5A 4N2"
 rating: 4.8
-review_count: 294
+review_count: 295
 tier: "featured"
 phone: "(587) 414-7747"
 website: "https://www.meetthepho.com/"

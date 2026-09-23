@@ -28,14 +28,6 @@ tags: ["edmonton", "walk-in-clinics"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Richard"
-    rating: 1
-    comment: |
-      I asked my doctor to fill out my DTC application because I’m a Type 1 diabetic, and for two pages of paperwork, they want to charge $120?! Are you kidding me? Make it make sense!
-      It’s basically the same thing when a doctor completes a special authorization form for a specific medication and sends it to the insurance company—yet there’s no charge for that. Same idea, similar paperwork, probably even the same number of pages… but suddenly, because it’s for the Disability Tax Credit, it costs $120?
-      I understand doctors’ time is valuable, but $120 for filling out two pages feels excessive. How is this justified?
-      
-      ps. They tried to call me to confirm if am willing to pay? Hell No! Eat your own pen!
   - name: "Melissa Megan"
     rating: 1
     comment: |
@@ -55,6 +47,16 @@ reviews:
       It was my first time seeing Dr. Adaobi Nwankwo-Ezika. I said im here for couple things then looked at my phone to read them. Before i could speak, she said she has "very limited time" and if i "have 4 or 5 things", she could only "address 2 of them". I understand that they're busy but it ticked me off that she assumed I had "more things" when i already said im only here for a "couple".
       Anyways the worst part is: I explained about my recurring cough that i couldnt figure out the cause and asked if i could see a specialist. First she said she wouldnt refer me bc ENT specialists are busy treating cancer. And even if she'd refer me, it would take them a very long time to see me. Sure, i understand that. But at least provide a short-term remedy or relief. When i said that, her response was "when you feel the cough coming, drink water". In my head - if drinking water alone works, i wouldnt be there wasting both our times! I just agreed to whatever she said after bc I want our conversation to end.
       She was dismissive from the start and made my concerns seem unimportant just bc they're not life-threatening. This is a medical clinic, not an ER. And just bc i dont have cancer, doesnt mean my cough should be dismissed and just "drink water".
+  - name: "Aisley Miles"
+    rating: 2
+    comment: |
+      Went here to meet a potential new family doctor after relocating from another city. The person at the front desk was okay. The person who did my intake was very friendly. Not much of a wait time as I had an appointment.  The doctor I met with lacked bed side manner and the impression I got was cold and uncaring. I came in for a meet and greet and needed refills on medication, medication which I've been on for 6 years. I was told I wouldn't be given a 90 day refill due to not having proof that I needed the medication and that I would have to bring proof in with me before that could happen. I also asked for an IUD prescription so I could have mine replaced and instead of giving me the script. I was referred to a colleague for removal and insertion.
+      
+      Overall, I'm an adult and Netcare exists for a reason. The person at the front desk made the assumption that I was there for drugs that I wasn't. She asked me what refills I needed at the front desk in a public area and wanted me to disclose it despite other patients also being at the front desk to check in.
+      
+      My first impression of the doctor did not lead me to believe that she would have my best interests at heart or respect my autonomy. It felt like I was a burden and wasting her time. Proper medical care requires reciprocal trust. Not to mention, referring someone to an unknown individual for a invasive procedure isn't trauma informed.
+      
+      I will not be returning.
   - name: "Valerie Pajaro"
     rating: 1
     comment: |

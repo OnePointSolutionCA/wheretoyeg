@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/lube-city-1.jpg", "/photos/lube-city-2.jpg", "/photos/lube-city-3.jpg"]
 rating: 4.7
-review_count: 862
+review_count: 863
 price_range: "$$"
 amenities:
 
@@ -28,28 +28,6 @@ tags: ["edmonton", "oil-change"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "John Leenheer"
-    rating: 5
-    comment: |
-      Knowledgeable, friendly staff, efficient drive-through service, and a clean, well-kept customer area make this Lube City in Edmonton’s NW an easy and practical stop for an oil change. Quick, convenient, and solid value.
-      
-      Full review:
-      This Lube City in Edmonton’s NW is a practical, well-run stop when you want straightforward vehicle service without a long wait. The space is tidy and organized, and both the customer service area and the shop itself appear well maintained. It gives the impression of a team that takes pride in keeping the operation running smoothly.
-      
-      Service is efficient and approachable. Vehicles move through at a steady pace, and the drive-through setup keeps the visit simple since most of the service can be done while you remain in your vehicle. The complimentary general check-over is also a useful added touch and gives a bit of extra peace of mind.
-      
-      What stood out most was the customer service. Staff were friendly, knowledgeable, and clear in their communication about the work being done. The whole experience felt straightforward, helpful, and easy.
-      
-      It’s also a convenient location from different parts of northwest Edmonton, including easy access from the Yellowhead, which makes it simple to fit into the day without much hassle.
-      
-      Parking / access:
-      Drive-through setup with smooth vehicle flow and straightforward entry and exit.
-      
-      Kid-friendly:
-      Works well for families since the visit is quick and most of the service happens while you stay in the vehicle.
-      
-      Wheelchair accessibility:
-      The stay-in-vehicle service model makes this naturally more accessible for many guests. The customer service area is also clean and straightforward to navigate if needed.
   - name: "Gigi Reviews — YEG • AB • Beyond"
     rating: 5
     comment: |
@@ -73,6 +51,28 @@ reviews:
       
       Wheelchair accessibility:
       Since most of the service happens from your vehicle, it’s naturally more accessible than many traditional shops; indoor office access is simple and clean if needed.
+  - name: "John Leenheer"
+    rating: 5
+    comment: |
+      Knowledgeable, friendly staff, efficient drive-through service, and a clean, well-kept customer area make this Lube City in Edmonton’s NW an easy and practical stop for an oil change. Quick, convenient, and solid value.
+      
+      Full review:
+      This Lube City in Edmonton’s NW is a practical, well-run stop when you want straightforward vehicle service without a long wait. The space is tidy and organized, and both the customer service area and the shop itself appear well maintained. It gives the impression of a team that takes pride in keeping the operation running smoothly.
+      
+      Service is efficient and approachable. Vehicles move through at a steady pace, and the drive-through setup keeps the visit simple since most of the service can be done while you remain in your vehicle. The complimentary general check-over is also a useful added touch and gives a bit of extra peace of mind.
+      
+      What stood out most was the customer service. Staff were friendly, knowledgeable, and clear in their communication about the work being done. The whole experience felt straightforward, helpful, and easy.
+      
+      It’s also a convenient location from different parts of northwest Edmonton, including easy access from the Yellowhead, which makes it simple to fit into the day without much hassle.
+      
+      Parking / access:
+      Drive-through setup with smooth vehicle flow and straightforward entry and exit.
+      
+      Kid-friendly:
+      Works well for families since the visit is quick and most of the service happens while you stay in the vehicle.
+      
+      Wheelchair accessibility:
+      The stay-in-vehicle service model makes this naturally more accessible for many guests. The customer service area is also clean and straightforward to navigate if needed.
   - name: "Dlysh Foto"
     rating: 1
     comment: |

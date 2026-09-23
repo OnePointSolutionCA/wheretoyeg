@@ -25,14 +25,14 @@ reviews:
     rating: 5
     comment: |
       We absolutely loved our experience with little one photography. We did a newborn photo shoot and they were so patient with our little one and created a calming environment putting us first time parents at ease. And they are so kind and friendly really taking their time to make sure they get the best photos possible. We will definitely be reaching out again when we decide to have another baby.
-  - name: "S Z"
-    rating: 5
-    comment: |
-      We had a great maternity photography experience with Samantha!  She was very professional, explained everything in details, and made us feel comfortable and confident. Highly recommend!
   - name: "Chheng Phung"
     rating: 5
     comment: |
       Newborn stage goes by so quickly so it was important for me to find someone who can document this precious time. Samantha at LittleOne was fantastic, she was extremely communicative and organized. Everything was prepared in advance on the day of the photoshoot and she was very receptive to feedback. My husband and I are very happy with the photos and experience.
+  - name: "Swagman Sean"
+    rating: 5
+    comment: |
+      Excellent photography for the little ones! Samantha has done the newborn photos for both of our children and they have all turned out so well and beautiful! She is very skilled, very calm and caring with the newborn and very friendly. Thank you Samantha!
 hours:
   monday: "Closed"
   tuesday: "Closed"

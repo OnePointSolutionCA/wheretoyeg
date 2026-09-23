@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Spruce Grove"
 address: "124a South Ave, Spruce Grove, AB T7X 3A9"
 rating: 4.4
-review_count: 87
+review_count: 88
 tier: "featured"
 phone: "(780) 962-0881"
 website: "http://www.ljbauto.com/"
@@ -31,10 +31,10 @@ reviews:
     rating: 5
     comment: |
       We having been coming here for a decade and have always had the best service and care taken of our vehicles. We trust their staff and have consistently had honest assessments of required repairs.  Whether it was my husband or our young daughter they treat everyone with respect and explain in simple terms what is wrong and what they recommend to correct. Simple the best mechanics and have recommended to everyone I know.
-  - name: "CC13"
+  - name: "Sean Welch"
     rating: 5
     comment: |
-      My wife and I recently moved from Vancouver.  Being new to Spruce Grove (Alberta) we knew we needed out of Province inspections done on our cars.  We saw so many positive reviews, so we decided to come here.  Right off the start from the initial phone call I felt comfortable dealing with them right off the bat.  Both car inspections went well.  It honestly felt like dealing with family.  I highly recommend this shop! I know if we have any mechanical issues down the road we’ll be back!
+      Took my truck in for a out of province inspection, and they completed the inspection and 1 minor repair that needed to be done, very efficiently and affordable. Super friendly to deal with, very nice, clean shop. Would definitely recommend LJB to anyone looking for a good shop in the spruce/stony area. Thanks guys.
 hours:
   monday: "7:30 AM–4:30 PM"
   tuesday: "7:30 AM–4:30 PM"

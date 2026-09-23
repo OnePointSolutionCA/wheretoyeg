@@ -19,7 +19,7 @@ hours:
   sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/mesob-habesha-fusion-1.jpg", "/photos/mesob-habesha-fusion-2.jpg", "/photos/mesob-habesha-fusion-3.jpg"]
 rating: 4.1
-review_count: 322
+review_count: 323
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -55,16 +55,12 @@ reviews:
       What made it worse was watching her yell at one of the waitresses in front of customers. The waitress looked scared and almost in tears. It was very uncomfortable and unprofessional to witness.
       
       We admitted our mistake and apologized, but no customer or employee deserves to be treated with that level of disrespect. Based on my experience, I would not recommend this restaurant to anyone.
-  - name: "Jean"
-    rating: 5
-    comment: |
-      I came here for dinner on a Monday night for the first time after having this restaurant recommended to me as one of the best in the city. I’m glad I listened to the recommendation, because they were absolutely right.
-      
-      I ordered the vegan combo platter and it was easily the best vegan meal I’ve had since moving back to Edmonton. Their combo platter included a larger variety of dishes than other Ethiopian restaurants in Edmonton I’ve visited, and each of them was delicious. I would definitely recommend ordering one of their combo platters if you are a first time visitor as well.
-      
-      Can’t wait to come back again!
   - name: "Andre D'souza"
     rating: 5
     comment: |
       At first, we were slightly hesitant about trying Ethiopian food. Our servers made it so easy to approach a novel cuisine and then truly delivered a fantastic experience both through the service we experienced and the food we tasted. We tried a couple of different things to share and were truly thoroughly impressed. I will be talking about and sharing Mesob Habesha much much more :)
+  - name: "hermela awet"
+    rating: 5
+    comment: |
+      I had a great experience thanks to Sowit. She is a very friendly and professional waitress who made sure everything was perfect during my visit. She was attentive, polite, and always had a positive attitude. Her service made my experience enjoyable, and I would definitely recommend her to others. Thank you, Sowit, for your excellent service
 ---

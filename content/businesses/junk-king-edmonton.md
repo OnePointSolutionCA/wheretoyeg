@@ -20,7 +20,7 @@ hours:
   sunday: "5:00 AM–10:00 PM"
 photos: ["/photos/junk-king-edmonton-1.jpg", "/photos/junk-king-edmonton-2.jpg", "/photos/junk-king-edmonton-3.jpg"]
 rating: 5
-review_count: 143
+review_count: 144
 price_range: "$$"
 amenities:
 
@@ -34,24 +34,22 @@ reviews:
       I had an excellent experience with the customer service provided by Jason and his partner. From the moment they arrived, it was clear that they were dedicated professionals. They approached the task with great care and attention to detail, ensuring that everything was handled properly.
       
       They were not only thorough in their work, but also respectful and kind, making the entire process feel comfortable and enjoyable. I was particularly impressed with how quickly they managed to set up my large, heavy TV, demonstrating their efficiency and expertise. Overall, their hard work and positive attitude made a significant difference, and I couldn't be more satisfied with the service they provided. I highly recommend ⭐️
+  - name: "Ella Rabiei"
+    rating: 5
+    comment: |
+      I had an excellent experience with the Junk King team!
+      Jason and Matt were incredibly professional, and friendly throughout the entire process. They took great care when removing the cabinets and wood from the garage walls, making sure everything was handled safely. They were efficient, fast, careful, and clearly experienced in what they do.
+      Thank you, Jason and Matt, for your amazing work! I would absolutely recommend Junk King to anyone looking for a professional and reliable team.
   - name: "M M"
     rating: 5
     comment: |
       WONDERFUL EXPERIENCE. If I could give them 6 stars, I would. Fast, friendly, skilled craftsmen took my large dilapidated shed away in record time. HIGHEST RECOMMEND.
+  - name: "Maria"
+    rating: 5
+    comment: |
+      Jason and his staff did a great job of clearing out the junk from my son's basement.  Then a few weeks later delivered a new mattress from my friend's condo to my son's  place and removed the old mattress.  They are very efficient,  reply to you promptly and are very competitively price.  I am very satisfied.
   - name: "Simon Bennett"
     rating: 5
     comment: |
       The representative from junk king was able to respond quickly to our needs with only one days notice on a holiday. Found them to be very accommodating, professional with fair pricing. Would Highly recommend.
-  - name: "Bob Layton"
-    rating: 5
-    comment: |
-      Junk King did a royal job of making this peasant's palace livable.
-      Furniture was skillfully dismantled and carefully eased through the doorway.  They helped re-arrange the remaining furniture.
-      And all done at a reasonable price.
-      I will use them again.
-      Bob Layton
-  - name: "Horace"
-    rating: 5
-    comment: |
-      I would highly recommend Junk Works for an estate cleanout.  The pricing was fair, and Jason did exactly what he agreed to do, and then some.  They were on time for the initial meeting to do the quote, and on time to do the work.  I am thoroughly impressed with how this company conducts their business. I don't have any before pictures, but it's a 1 bedroom apartment that had a build up of 20 years of "stuff" in it along with some very heavy furniture.
 ---

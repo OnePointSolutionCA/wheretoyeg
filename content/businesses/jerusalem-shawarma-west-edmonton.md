@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–10:00 PM"
 photos: ["/photos/jerusalem-shawarma-west-edmonton-1.jpg", "/photos/jerusalem-shawarma-west-edmonton-2.jpg", "/photos/jerusalem-shawarma-west-edmonton-3.jpg"]
 rating: 4.9
-review_count: 10526
+review_count: 10624
 price_range: "$$"
 amenities:
   - "Halal"
@@ -73,10 +73,8 @@ reviews:
     rating: 5
     comment: |
       Everything's I tasted here was so delicious.  The Adana kabab plate was  massive and prepared with a lot of care and added details for each item included.The hummus was so silky and the toum was fluffy and flavorful. I was really impressed with the entire dish and  wish I had allotted time to go in a sit for a meal here. They have a lot of scrumptious looking desserts and treats in the case, and the atmosphere is inviting. There were fresh juices also for sale, and the mango was amazing! For all of that food and the high  quality, it is really an excellent value.
-  - name: "Leah Cargo"
+  - name: "Cigdem Karaaslan"
     rating: 5
     comment: |
-      It was my first time dining at Jerusalem Shawarma, and I was honestly a bit hesitant at first but I am so glad I decided to try it!
-      The food was absolutely delicious, and even their coffee, I had the macchiato and it was delish, the ambience of the place was warm and inviting. The staff were incredibly kind and patient, taking the time to answer all my questions. A special thank you to Anas for his excellent service — he was friendly, attentive, and made the experience even better. I will definitely be coming back and will be bringing my family and friends next time. Highly recommend! 🌟🌟🌟🌟🌟
-      P.S. Their tea is exceptional 👌
+      Delicious food and friendly staff, as always! Mahshid was very helpful and kind. It was sad to learn that our favourite dessert, the Chocolate Snickers Pistachio, was no longer available. We tried the mango cake and French crème caramel instead, and both were amazing!
 ---

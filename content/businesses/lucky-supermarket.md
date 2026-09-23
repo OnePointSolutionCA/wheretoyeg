@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/lucky-supermarket-1.jpg", "/photos/lucky-supermarket-2.jpg", "/photos/lucky-supermarket-3.jpg"]
 rating: 4.4
-review_count: 854
+review_count: 859
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -48,12 +48,12 @@ reviews:
     comment: |
       Excellent experience of halal food items. Loved the variety of teas and yummy juices (check ingredients for halal of course).
       Give me a like if u think the same.
-  - name: "Good Guy McAwesomeness"
-    rating: 5
-    comment: |
-      Very good selection, especially in fruit, vegetables, meats, poultry and fish. If you're looking for offal or meats like camel, goat or lamb, this is the place. They feature a surprising selection of little fast restaurants with a pleasant seating area. We've gotten some good deals at the plant shop upstairs, which has a fun selection. This store is way more super than, well, you know.
   - name: "Sean Clair"
     rating: 5
     comment: |
       This place is amazing. Food court has some excellent options and CHEAP food. Even the bathrooms in this place are very nice and clean. Way better then the north side Lucky.
+  - name: "Micheal Houle"
+    rating: 2
+    comment: |
+      Been going since they opened and I regularly get three to four buhn mi each visit so glad i only got one the quality and amount if ingredients is so bad now. The pickled veggies aren't spread out, mayonnaise only on half and barely any patè, cilantro. This was the first time I saw the lady working but some type of standards should be followed or taught.
 ---

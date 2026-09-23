@@ -27,14 +27,20 @@ reviews:
     rating: 5
     comment: |
       Super professional and friendly! I had some documents notarized, and the whole process was quick and easy.She was incredibly kind and welcoming, and I even left with a cute little gift!! highly recommend her services to anyone needing documents notarized or other services.
-  - name: "Meg P"
+  - name: "Saron Asfeha"
+    rating: 1
+    comment: |
+      They did not offer any help with writing the notary. I had to walk in the cold to get it printed and get wifi. I really wish they were more helpful.
+      
+      Thank you for your response. I appreciate that you accommodated my appointment despite my delay, and I acknowledge that I should have communicated better about my timing.
+      
+      However, my review was not about whether you provide public Wi-Fi or prepare legal documents for clients. My concern was that I was not informed beforehand that I would need to prepare my own notary document, which left me scrambling to find a place to print it and access the internet. As someone unfamiliar with the process, I expected clearer guidance before my appointment.
+      
+      My review reflects my personal experience and how I felt as a client. Better communication about what clients need to bring and prepare in advance could help prevent similar situations for others
+  - name: "Tina Yarmey"
     rating: 5
     comment: |
-      Called for a notary service and she was able to accommodate me that day. Very friendly and personable while also efficient and professional! We will definitely be coming to you to have our wills done, you seem like a lovely person!
-  - name: "Chelsey Perrin"
-    rating: 5
-    comment: |
-      Amazing law office. They were able to get me in right away. Beautiful clean office. Answered all questions, extremely knowledgeable, affordable  and above all else they were friendly. Would recommend to anyone looking
+      My husband and I had our wills, POA & Personal directives done today. Lina was so friendly and answered all our questions. Highly recommend this law office
 hours:
   monday: "Closed"
   tuesday: "Closed"

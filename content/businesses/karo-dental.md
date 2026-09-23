@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Spruce Grove"
 address: "8 McLeod Ave #202, Spruce Grove, AB T7X 3X3"
 rating: 4.9
-review_count: 611
+review_count: 614
 tier: "featured"
 phone: "(587) 853-5935"
 website: "https://www.karodental.ca/site/home?utm_source=G&utm_medium=LPM&utm_campaign=DentalCorp"

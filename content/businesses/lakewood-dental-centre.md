@@ -35,15 +35,14 @@ reviews:
       My last hygienist jabbed my gums many times causing bleeding and it was sloppy work. Caused pain and discomfort. I mentioned it to her and she still did it. The precision was not there with her.  I cannot go back to her.
       
       Dentist is awesome consistently !!!!
+  - name: "Talitha Sigurdson"
+    rating: 5
+    comment: |
+      Dr. Dutka is the most patient, gentle, understanding, brilliant dentist I have ever seen. I have dental anxiety, he completely calms my nerves. Highly recommend Dr. Dutka!
   - name: "Tashi Saikia"
     rating: 5
     comment: |
       I have been going to Lakewood Dental from more than ten years. Wonderful and very professional staff. Dr Dutka is one of the best Dentist in town. He knows his profession very well and he explains everything in very detailed manner. Love to go there with my whole family and my daughter is never scared and always feels happy to go for the dental appointment.
-  - name: "BenRosh Peppinz"
-    rating: 5
-    comment: |
-      Dr Dutka as always is very nice, friendly but most of all he's excellent on what he do as a dentist.  Just did my crown recently and my experience was  beyond my expectations. Excellently and was flawlessly done.  He is my Dentist for years and forever.  I would recommend him and his dental office. So better line up already as spot to be your doctor is rare. Also, the dental cleaning attendant and staff were fantastic and the service was excellent and thorough.Really recommend their service.
-      Patient Ben
 hours:
   monday: "9:00 AM–7:00 PM"
   tuesday: "9:00 AM–7:00 PM"

@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/integrated-therapies-massage-edmonton-1.jpg", "/photos/integrated-therapies-massage-edmonton-2.jpg", "/photos/integrated-therapies-massage-edmonton-3.jpg"]
 rating: 4.9
-review_count: 793
+review_count: 795
 price_range: "$$"
 amenities:
 

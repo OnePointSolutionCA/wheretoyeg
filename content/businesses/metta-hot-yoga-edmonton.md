@@ -44,8 +44,8 @@ reviews:
     rating: 5
     comment: |
       Just a quick visit and I found what i want through the help of their staff.....they are so nice....there's a lot stuff here specially for spiritual and religious staff just visit here
-  - name: "jill konyar"
+  - name: "Nataliya Kovalenko"
     rating: 5
     comment: |
-      Decades later since I joined, the studio still maintains consistently high-quality  instruction in a clean, well-maintained, welcoming space. It has lasted with long term staff and clients for a reason. Thanks Angela and team.
+      Honestly,  it's my favourite yoga studio. I moved a bit further so I am trying to find a new studio with a good yoga workout and this is when I realized that Metta is my most favourite studio and I haven't found one that compares in class quality. There are so many awesome instructors. The studio delivers a consistent quality in all of its classes. Highly recommend.
 ---

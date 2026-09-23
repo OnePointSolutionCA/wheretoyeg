@@ -28,10 +28,6 @@ tags: ["edmonton", "tutoring"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Stephanie Lohin"
-    rating: 5
-    comment: |
-      We cannot thank the Learnology team enough. Our niece began this journey with significant educational gaps, and the compassion, skill, and unwavering support she received went far beyond anything we expected. Watching her confidence grow — and seeing her fall in love with learning again — has been one of the greatest gifts to our family.The team consistently goes above and beyond, even attending her musical to cheer her on.Thank you, Learnology, for truly making a difference in her life.
   - name: "Lucy Sadd"
     rating: 5
     comment: |
@@ -42,6 +38,10 @@ reviews:
     rating: 5
     comment: |
       My son loves his tutor and has made so much progress with his reading. I love that the lessons are individually tailored to his needs and his interests. My son looks forward to his lessons each week! Thanks so much to Stephanie and Eleena!
+  - name: "Stephanie Lohin"
+    rating: 5
+    comment: |
+      We cannot thank the Learnology team enough. Our niece began this journey with significant educational gaps, and the compassion, skill, and unwavering support she received went far beyond anything we expected. Watching her confidence grow — and seeing her fall in love with learning again — has been one of the greatest gifts to our family.The team consistently goes above and beyond, even attending her musical to cheer her on.Thank you, Learnology, for truly making a difference in her life.
   - name: "Georgia Slobodan"
     rating: 5
     comment: |

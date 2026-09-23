@@ -37,10 +37,10 @@ reviews:
     rating: 4
     comment: |
       I've been meaning to try this small eatery I recently found, but the parking situation has been a hindrance. With only 15 minutes to park, I've always opted to take my food to go. Today, I finally tried their chili, and although it was tasty, it was a bit of a letdown that it was cold. Without access to a microwave at work, I couldn't enjoy it as much as I would have liked. I'm planning to try another item from their menu next week. This time I’ll make sure it’s hot before I leave.
-  - name: "Jim Alexander"
-    rating: 3
+  - name: "Ozge Yanar"
+    rating: 5
     comment: |
-      The food was good quality and tasted great. The employees need some training on customer care and helping people feel welcomed, appreciated, and encouraged to return. The person who took our order was not focused on listening and communicating fully with us.
+      I come here whenever I have free time; they make wonderful things, especially their smoothies, they're amazing. I absolutely love the spinach one. They don't use sugar in their desserts, which is perfect for me.
 hours:
   monday: "10:00 AM–8:00 PM"
   tuesday: "10:00 AM–8:00 PM"
@@ -48,5 +48,5 @@ hours:
   thursday: "10:00 AM–8:00 PM"
   friday: "10:00 AM–8:00 PM"
   saturday: "10:00 AM–6:00 PM"
-  sunday: "10:00 AM–6:00 PM"
+  sunday: "10:00 AM–5:00 PM"
 ---

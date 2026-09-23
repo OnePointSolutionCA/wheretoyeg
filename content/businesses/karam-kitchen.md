@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/karam-kitchen-1.jpg", "/photos/karam-kitchen-2.jpg", "/photos/karam-kitchen-3.jpg"]
 rating: 4.7
-review_count: 250
+review_count: 260
 price_range: "$"
 amenities:
   - "Halal"

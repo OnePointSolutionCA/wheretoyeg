@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "12621 Fort Rd NW, Edmonton, AB T5C 3C1"
 rating: 4.2
-review_count: 1009
+review_count: 1010
 tier: "featured"
 phone: "(780) 457-7587"
 website: "https://lubefx.com/"
@@ -38,10 +38,10 @@ reviews:
       Karma will catch up with you.
       
       Have the day you deserve.
-  - name: "prateek endlay"
+  - name: "Colleen O'Brien"
     rating: 5
     comment: |
-      Always friendly, fast, and never pushy. Chris and his team consistently provide excellent service. I’ve been coming here for almost two years, and every visit has been a great experience. Highly recommend!
+      The guys who helped us were fantastic.  They explained and were so friendly.  They even provided a gas line fuel injector cleaner cause it was out first time.  We will come back here for sure.  They did a great job.  Even had a treat for my dog 🤩
   - name: "Sherrin Marie"
     rating: 1
     comment: |

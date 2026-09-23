@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–8:00 PM"
 photos: ["/photos/juana-ines-mexican-restaurant-1.jpg", "/photos/juana-ines-mexican-restaurant-2.jpg", "/photos/juana-ines-mexican-restaurant-3.jpg"]
 rating: 4.5
-review_count: 231
+review_count: 233
 price_range: "$$"
 amenities:
   - "Dine-In"

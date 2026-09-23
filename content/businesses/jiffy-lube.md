@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "9608 165 Ave NW, Edmonton, AB T5Z 3L3"
 rating: 4.2
-review_count: 244
+review_count: 245
 tier: "featured"
 phone: "(780) 475-1234"
 website: "https://jiffylubeservice.ca/locations/edmonton/jiffy-edmonton-eaux-claires?utm_source=google&utm_medium=gmb&utm_content=1003/?utm_source=google&utm_medium=gmb"
@@ -31,14 +31,14 @@ reviews:
     rating: 5
     comment: |
       Brought my vehicle in to get the signal light replaced as it burnt out. Darren helped me out and had it done in under 10 minutes. Everyone was super friendly and helpful. Would definitely come back!
+  - name: "Cindy D"
+    rating: 5
+    comment: |
+      I’ve been coming to this location since 2012. The staff there are friendly and explain everything in detail. They are honest and don’t upsell you on unnecessary services and/or products. I also received a $10 discount for being a loyal customer.
   - name: "Jenn"
     rating: 3
     comment: |
       Oil change was done quickly. Friendly staff, clean surroundings.  Was not happy sticker printed 5000klms recommendations worth on my synthetic oil change,  regularly synthetic is good for 10000klms. I only once make the mistake of missing this.
-  - name: "Michelle W"
-    rating: 1
-    comment: |
-      I went to this location after previously having had an oil change at lube city. They quoted me $150. I asked why it was so much because my last oil change was exactly half that amount, the man told me that they probably used the wrong oil and proceeded to lift up my hood, no conversation on my bill, which I showed him I was holding. I said well if it's double the price I may go to the other place and he just slammed the hood closed and opened the door and walked away. No conversation, no check on why it was different. Just walked away. Will literally NEVER be back and won't recommend them to anyone!
 hours:
   monday: "8:00 AM–8:00 PM"
   tuesday: "8:00 AM–8:00 PM"

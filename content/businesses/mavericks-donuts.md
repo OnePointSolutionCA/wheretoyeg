@@ -38,6 +38,12 @@ reviews:
       The donuts were just okay. Some of them looked like they had filling, but they actually didn’t, which was a bit disappointing. The apple and blueberry fritters, however, were really good! We’d come back for the fritters if we’re ever craving one, but the regular donuts were just meh. In our opinion, Doughnut Party is still better.
       
       The service definitely needs improvement, as it had a big impact on our overall experience.
+  - name: "Dean Relland"
+    rating: 5
+    comment: |
+      I've never had a better donut.  I come by here about once a month as a snack for our family but also to try any new flavour they might have on rotation.  My fav is the cinnamon cake donut.  My wife loves teh yeast donuts, so we leave pretty content.
+      
+      ONE recommendation I would like to make to people buying donuts from here.  Warm the donut up in the mocrowave or air fryer for 30 seconds, and then add it to a small bowl of ice-cream.  It is legitness.  ;)
   - name: "Roderick Kinslow"
     rating: 5
     comment: |
@@ -65,18 +71,12 @@ reviews:
       The entire experience was a joy from start to finish. She never bragged, never oversold anything, and never made promises she couldn't keep. She simply hoped the donuts were what we wanted—and they were perfect.
       Thank you again. I hope everyone gets to experience customer service and kindness like this.
       Ps: I highly recommend trying this one, it is not on the menu, but she said there boss is always looking for ideas, if you try it maybe we can make it a permenant resistant there, it is a really good donut, my kids loved it as well
-  - name: "Dean Relland"
-    rating: 5
-    comment: |
-      I've never had a better donut.  I come by here about once a month as a snack for our family but also to try any new flavour they might have on rotation.  My fav is the cinnamon cake donut.  My wife loves teh yeast donuts, so we leave pretty content.
-      
-      ONE recommendation I would like to make to people buying donuts from here.  Warm the donut up in the mocrowave or air fryer for 30 seconds, and then add it to a small bowl of ice-cream.  It is legitness.  ;)
-  - name: "Kali Brodbin"
-    rating: 5
-    comment: |
-      I have been craving donuts and was so excited to try these as I had seen them recommended on Facebook. I crushed 3 donuts in a day with bites out of the others. These were so light and fluffy with such a fun variety of flavors. Best eaten day of, but honestly hard to not eat them all instantly. The photos did not disappoint in how tasty these actually are! Highly recommend checking them out!
   - name: "Phat Boy"
     rating: 5
     comment: |
       This is an awesome doughnut joint! The lady serving me was very friendly and welcoming! Doughnuts are really tasty but are on the heavier side…more like a cake texture, but so good! My favourites are the blueberry fritter and the cherry glaze. Will definitely be back!
+  - name: "Kali Brodbin"
+    rating: 5
+    comment: |
+      I have been craving donuts and was so excited to try these as I had seen them recommended on Facebook. I crushed 3 donuts in a day with bites out of the others. These were so light and fluffy with such a fun variety of flavors. Best eaten day of, but honestly hard to not eat them all instantly. The photos did not disappoint in how tasty these actually are! Highly recommend checking them out!
 ---

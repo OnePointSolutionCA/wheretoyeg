@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–9:00 PM"
 photos: ["/photos/japonais-bistro-1.jpg", "/photos/japonais-bistro-2.jpg", "/photos/japonais-bistro-3.jpg"]
 rating: 4.5
-review_count: 1857
+review_count: 1860
 price_range: "$$"
 amenities:
   - "Dine-In"

@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–10:00 PM"
 photos: ["/photos/made-in-palestine-cafe-1.jpg", "/photos/made-in-palestine-cafe-2.jpg", "/photos/made-in-palestine-cafe-3.jpg"]
 rating: 4.8
-review_count: 213
+review_count: 217
 price_range: "$$"
 amenities:
   - "Halal"
@@ -34,11 +34,6 @@ uber_eats: false
 doordash: false
 skipthedishes: false
 reviews:
-  - name: "Nisreen"
-    rating: 5
-    comment: |
-      This cafe is a must-visit! The coffee was excellent, and the staff were incredibly welcoming and attentive.
-      What truly sets it apart is the beautiful historical style of the space—it feels timeless and authentic. I also loved browsing their selection of Palestinian goods; they add such a unique and meaningful touch to the atmosphere. Highly recommended!
   - name: "Rehana H"
     rating: 5
     comment: |
@@ -55,4 +50,8 @@ reviews:
     rating: 5
     comment: |
       Such a unique coffee shop with an amazing vibe and exceptional service. The atmosphere is warm, welcoming, and unlike any other place around. You can really tell the staff care about creating a great experience for their customers. Whether you’re stopping by for a quick coffee or staying to relax, this place has a special charm that makes you want to come back. Highly recommend!
+  - name: "Hanie Morsi"
+    rating: 5
+    comment: |
+      Loved this place. The vibes were amazing, and the food was the best food I had at any other coffee shop in Edmonton. They got their own twist on everything they offer there, which makes the place unique. Overall, a new gem that’s a needed addition to Edmonton food scene.
 ---

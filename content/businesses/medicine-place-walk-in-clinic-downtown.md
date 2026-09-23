@@ -51,9 +51,8 @@ reviews:
     rating: 1
     comment: |
       The receptionist is so rude and condescending. I basically called in to book an appointment she told me only walk in she can’t book appointments and basically come and see. Lady I don’t have time that’s why people book appointments so they can plan their day. Proper training on how to talk to people will help. No wonder their rating is 3. Good luck with that attitude.
-  - name: "David Yaremchuk"
-    rating: 1
+  - name: "Dalia A"
+    rating: 5
     comment: |
-      Dr.Fidel Eledrisi discriminates against homeless people. You could tell from the start of my appointment he wasn't going to help me. I was looking to get ensures because I am at hope mission and start a job monday so I can work and nit be homeless anymore. I will miss both breakfast and lunch and am malnourished. He denied my request to fill out a special authorization form for the existing prescription I have and told me it was not the shelters job to feed me it is my job to feed myself. If you dont mind being judged and disrespected then go see this Doctor.
-      Yes, malnourishment can be a valid reason to obtain special authorization for products like Ensures (oral nutritional supplements) if they are not universally covered, as it falls under specific clinical criteria for funding and access. Healthcare providers must complete and submit a special authorization request, demonstrating that the patient meets established criteria for malnourishment or has a high risk of it.
+      The Medicine Place clinic on 107 Av has been my go to for me and my family for many years. The doctors are very thorough and patient. The 2 ladies that only work on Sunday always make my experience better and always do their best to accommodate me. I always wait to see the doctor until Sundays. They definitely deserve a raise and need to work more often than just Sundays.
 ---

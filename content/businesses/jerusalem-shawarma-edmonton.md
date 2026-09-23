@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/jerusalem-shawarma-edmonton-1.jpg", "/photos/jerusalem-shawarma-edmonton-2.jpg", "/photos/jerusalem-shawarma-edmonton-3.jpg"]
 rating: 4.9
-review_count: 11195
+review_count: 11270
 price_range: "$"
 amenities:
   - "Halal"
@@ -31,16 +31,6 @@ tags: ["edmonton", "shawarma", "halal"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "fariba mohagheghi fariba"
-    rating: 5
-    comment: |
-      I’ve been coming to Jerusalem Shawarma almost every weekend for the past several months, and I’m consistently impressed. The food quality is excellent, always fresh, flavorful, and generously portioned. Whether it’s the shawarma plates, kebabs, or rice dishes, everything tastes authentic and well-prepared.
-      
-      I’ve visited both locations, and the quality and service have been consistently great at each one.
-      
-      The staff are professional, friendly, and welcoming. I especially appreciate being offered Arabic tea upon arrival — it’s delicious and adds a warm, hospitable touch to the experience.
-      
-      Highly recommended.
   - name: "Chad Peters"
     rating: 5
     comment: |
@@ -63,4 +53,8 @@ reviews:
     rating: 5
     comment: |
       Not just a meal here,it's a guest experience. Great service, friendly smile, and the flavors in each dish were perfectly balanced and fresh ingredients were used. We were greeted by Abo Elabd he served us baklava and tea he was very hospitable. Highly recommend 100/10. 😍😍😍
+  - name: "M W"
+    rating: 5
+    comment: |
+      This location as well as the downtown location provide absolutely beautiful food. We love the all meat dish which two can eat as it has so much items on the plate. The food is so vibrant in color, taste and textures. You will never be disappointed eating here. They take pride in their food. Delicious! Highly recommend.
 ---

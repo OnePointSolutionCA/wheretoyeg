@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "109th Street And Princess Elizabeth, #790, Edmonton, AB T5G 3A6"
 rating: 4.8
-review_count: 845
+review_count: 846
 tier: "featured"
 phone: "(780) 477-3340"
 website: "https://local.lenscrafters.com/canada/ab/edmonton/109th-street-and-princess-elizabeth.html?cid=yext_0932&y_source=1_MTIyMDI4Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
@@ -35,10 +35,10 @@ reviews:
     rating: 5
     comment: |
       Was a great experience, Olga assisted me with my glass purchase. She was very patient and attentive to my needs, walked me through the process and found me an ideal pair of glasses. From the time I walked in to the moment I left I was well looked after. Thanks again for everything!
-  - name: "Jamaal Bucknor"
+  - name: "Sanielle Basilio"
     rating: 5
     comment: |
-      If I could give Kendrick more than 5 stars, I would! He provided absolutely exceptional service from start to finish. I went in looking for sunglasses and walked out completely thrilled with two perfect pairs. Not only that, but he was incredibly patient, kind, and helpful with my mother, assisting her in finding two pairs of reading glasses that she absolutely loves. Kendrick’s expertise, style recommendations, and top-tier customer service made our visit a fantastic experience. If you go to this LensCrafters, definitely ask for Kendrick because he is the best!
+      Great experience! I was given easy service from Kendrick. Everything was explained clearly which gave a smooth experience. I received my glasses and they’re a perfect fit! Both the frame and lenses. Thank you! Would recommend!
 hours:
   monday: "10:00 AM–8:00 PM"
   tuesday: "10:00 AM–8:00 PM"
@@ -46,5 +46,5 @@ hours:
   thursday: "10:00 AM–8:00 PM"
   friday: "10:00 AM–8:00 PM"
   saturday: "10:00 AM–8:00 PM"
-  sunday: "10:00 AM–6:00 PM"
+  sunday: "11:00 AM–6:00 PM"
 ---

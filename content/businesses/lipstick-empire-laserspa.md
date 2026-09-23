@@ -43,16 +43,12 @@ reviews:
       When I try to end my subscription because pf the price increase, the front desk try to pursuate me to push it on hold and told me they will give me a call when the hold period is close to confirm if I want to cancel the prescription in case I change my mind.
       Never received a call, see another charge on the credit card. 2 day later, have not use any service,call them to get the refund, they say nope, offer 50% only and tell me they are very generous already for doing this.
       Will never come back here again or recommend anyone here.
-  - name: "Kateryna Kuznetsova"
+  - name: "Sarah Short"
     rating: 5
     comment: |
-      I’ve been coming to Lipstick Empire for about five years now, and everyone there is wonderful. For the last two years, I’ve been seeing Lindsay every month, and she’s been amazing.
-      
-      Before coming to Lipstick Empire and seeing Lindsay, I struggled with my skin and constant breakouts. She created a routine that works perfectly for me, and now, in my 40s, my skin has honestly never looked or felt this good.
-      
-      She’s professional, knowledgeable, and genuinely cares about her clients. Her facials are incredibly relaxing, and her face massages are amazing. I always leave feeling calm, refreshed, and really well taken care of. Whether you feel like chatting or just fully relaxing, both feel completely comfortable. I’ve always been so happy with my experience and highly recommend her.
-  - name: "Amanda Clements-Harvey"
+      I wish I could give more than 5 stars without having to create multiple accounts. Lipstick Empire is my favourite place to go - especially after a long day of work. The entire team is amazing, but I have been fortunate to go to Lindsay for at least a couple of years, and she is phenomenal. Her room is always so relaxing and welcoming - especially when I need it most. She always suggests the best facials for me, and I am so grateful not only for her professional experience, but also her as a person! She's lovely, so kind, and provides the best experience ever!
+  - name: "Anna"
     rating: 5
     comment: |
-      The team at Lipstick Empire is fantastic and I always feel welcomed and well cared for. Lindsay  does an amazing job helping advise as to my skin’s needs and I leave feeling pampered and relaxed! I have used many of their skincare products and would also recommend.
+      Kortney at Lipstick Empire is amazing. She always makes me feel so special and genuinely cared for. Her service goes beyond beauty — she takes such good care of me both mentally and physically. I so look forward to my visits and can’t think of better way to spend my day🩷
 ---

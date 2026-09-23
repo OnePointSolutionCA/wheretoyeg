@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Beaumont"
 address: "6102 29 Ave #109, Beaumont, AB T4X 0H5"
 rating: 3.8
-review_count: 71
+review_count: 70
 tier: "featured"
 phone: "(587) 474-1476"
 website: "https://littlecaesars.ca/"
@@ -30,16 +30,10 @@ reviews:
     rating: 1
     comment: |
       Ordered because we were looking for a cheap meal and we ordered online, our total coming to about $16. We show up 10 minutes early, fine, we wait in the car. Walk in and they tell us to wait for 10 minutes.. okay, we tipped $2, charged us $27. This is ridiculous from Little C’s. I’ve never had an issue with this restaurant before. Never coming to this location again.
-  - name: "Clarisse Carreon"
+  - name: "Ann-Marie Matkea"
     rating: 2
     comment: |
-      I’m skeptical about our experience last week… June 1 around 4pm. I placed an order for 2 medium pizzas and breadsticks, and my total was about $34. When I came in to pay, I asked for marinara sauce for the breadsticks and was told by the cashier working that it would be an extra $1.50. I said that was fine. But when I was about to pay, she told me that my new total would come to $41. If I hadn’t been paying attention, I would have gone ahead and tapped my debit on the machine. But then I thought, why was it $41 when the sauce was only an extra $1.50? I showed the receipt I got in my email, showing my total of $34 which already included taxes. It was only then that she adjusted my payment to the correct price.
-      
-      It makes me wonder if this is a scam practice by the cashier? Up-charge when most people would be too preoccupied to listen to the total and just tap their debut cards, unknowingly paying extra… Imagine how much extra money the cashier would get throughout the day if she did this to multiple customers. I would advise the manager/owner of the store to look into this (hopefully this isn’t a ploy by the whole store). Unless maybe it was a one off occurrence with me… Though after reading another review on here saying they were up-charged as well, it makes me suspicious.
-      
-      Fast forward to yesterday, June 4 at 4:30pm, I ordered 2 pizza again and breadsticks. It was a different cashier, but I didn’t bother asking for marinara sauce so I wouldn’t have to pay for the extra charge. But when I left the store, she actually chased after me to the parking lot to hand me some marinara sauce. Turns out it’s already included for the price of the breadsticks I paid for. I really appreciate that cashier doing that, and add a star in my review for her.
-      
-      But if the marinara sauce is already included in the breadsticks order, why did the first cashier (June 1) charge me for it? Seems like a scam practice that might be worth looking into.🤔
+      Multiple times I have come to pick up a quick pizza after picking up my child at the nearby daycare. Over and over again. They do not have any pizzas ready so I end up having to wait for hot and ready pizza for 15 minutes. And today when I ordered I realized after they overcharged me I asked multiple times for a receipt and I had no response. They ended up overcharging me and weren't looking like they were going to reimburse me. So I said just give me the extra crazy bread you charged me for. I'm not sure if the management has changed or just that the staff has changed but the service has drastically gone downhill
 hours:
   monday: "10:30 AM–9:00 PM"
   tuesday: "10:30 AM–9:00 PM"

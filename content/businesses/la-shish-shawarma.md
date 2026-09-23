@@ -19,7 +19,7 @@ hours:
   sunday: "11:00 AM–1:00 AM"
 photos: ["/photos/la-shish-shawarma-1.jpg", "/photos/la-shish-shawarma-2.jpg", "/photos/la-shish-shawarma-3.jpg"]
 rating: 4.2
-review_count: 1385
+review_count: 1386
 price_range: "$"
 amenities:
   - "Halal"

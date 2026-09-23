@@ -20,8 +20,8 @@ hours:
   saturday: "10:00 AM–4:00 PM"
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/medicine-place-walk-in-clinic-118-ave-1.jpg", "/photos/medicine-place-walk-in-clinic-118-ave-2.jpg", "/photos/medicine-place-walk-in-clinic-118-ave-3.jpg"]
-rating: 4.0
-review_count: 117
+rating: 4.1
+review_count: 118
 price_range: "$"
 amenities:
   - "Walk-ins Welcome"
@@ -43,15 +43,15 @@ reviews:
       Shazia was incredibly kind, patient, and attentive—she took the time to listen and made sure I felt comfortable with everything. Jarek was just as amazing, very knowledgeable and helpful, and he explained things in a way that was easy to understand. Stephen was also fantastic—professional, friendly, and efficient, making the whole process smooth and stress-free.
       
       You can really tell this team works well together and cares about their patients. Highly recommend this pharmacy to anyone looking for excellent service and a welcoming environment!
-  - name: "Nafees Wahab"
-    rating: 5
-    comment: |
-      Had a really good experience at Medicine Place. Shazia was honestly the best — super kind, patient, and took her time explaining everything without rushing me. You can tell she actually cares, which makes a big difference. Jarek and Stephen were also great and very helpful. Overall, the whole team made things easy and comfortable. Definitely recommend!
   - name: "Luli Brazil"
     rating: 4
     comment: |
       I like the attention of the receptionists and telephone callers, they are really friendly. I also like the professionalism of the nurses, and my physician Dr Bazza. I didn't put 5 star because my late husband's doctor who never wanted to refer him to a specialist, neither did exams to solve the excruciating pain on his back over 3 year just the same excuse was that he had spinal cord complete injury, and Harrington rod on his back which caused so much pain, prescribed Oxycodone, Codeine, Gabapentin, and Tylenol, nothing worked, my husband lost hope when he said there was nothing that he could do, neither send to a specialist, I begged him, but he was adamant, so one day I arrived at home and my husband had ended up with his suffering taking his own life, but I can't say the name of the doctor because I want to avoid fighting in the justice (someone told me that's exactly what I should had done, but it won't bring my beloved wonderful husband back).
       Let God (Allah) do His job.
+  - name: "Nafees Wahab"
+    rating: 5
+    comment: |
+      Had a really good experience at Medicine Place. Shazia was honestly the best — super kind, patient, and took her time explaining everything without rushing me. You can tell she actually cares, which makes a big difference. Jarek and Stephen were also great and very helpful. Overall, the whole team made things easy and comfortable. Definitely recommend!
   - name: "Wayne Hourie"
     rating: 1
     comment: |

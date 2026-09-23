@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–4:00 PM"
 photos: ["/photos/lady-beas-english-tea-house-1.jpg", "/photos/lady-beas-english-tea-house-2.jpg", "/photos/lady-beas-english-tea-house-3.jpg"]
 rating: 4.5
-review_count: 558
+review_count: 562
 price_range: "$$"
 amenities:
   - "Dine-In"

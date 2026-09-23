@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Spruce Grove"
 address: "16735 71 St NW, Edmonton, AB T5Z 0G9"
 rating: 4.9
-review_count: 142
+review_count: 152
 tier: "featured"
 phone: "(825) 401-1523"
 website: "https://www.instagram.com/kofiacafe?utm_source=qr"
@@ -28,20 +28,20 @@ reviews:
     rating: 5
     comment: |
       This new cafe is actually so good. The food and drinks are really good, the place is cute and has such a nice vibe, and the staff are really friendly. Everything came out fresh and tasted amazing. I’d definitely recommend coming here if you’re looking for somewhere chill to eat or hang out with friends. Very clean and beautiful seating
+  - name: "Dana Afani"
+    rating: 5
+    comment: |
+      Great coffee, beautiful atmosphere, and amazing staff! Everyone was so friendly, welcoming, and the service was excellent. Definitely coming back! ☕️❤️
   - name: "Zak Mimouni"
     rating: 5
     comment: |
       Just tried it for the first time today. Had a cappuccino and a Mojito.   Both had high-quality ingredients and the staff was very friendly and helpful.
-  - name: "rasheed suleiman"
-    rating: 5
-    comment: |
-      Great vibes, excellent service, and a fantastic location. The staff were friendly and welcoming, and everything was a great experience. Highly recommended!
 hours:
-  monday: "5:00 PM–12:00 AM"
-  tuesday: "5:00 PM–12:00 AM"
-  wednesday: "5:00 PM–12:00 AM"
-  thursday: "5:00 PM–12:00 AM"
-  friday: "5:00 PM–1:00 AM"
+  monday: "9:00 AM–12:00 AM"
+  tuesday: "9:00 AM–12:00 AM"
+  wednesday: "9:00 AM–12:00 AM"
+  thursday: "9:00 AM–12:00 AM"
+  friday: "9:00 AM–1:00 AM"
   saturday: "9:00 AM–1:00 AM"
   sunday: "9:00 AM–12:30 AM"
 ---

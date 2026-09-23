@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "Edmonton"
 address: "10004 90 St NW, Edmonton, AB T5H 4P4"
 rating: 4.5
-review_count: 1496
+review_count: 1498
 tier: "featured"
 phone: "(780) 705-1230"
 website: "http://littlebrick.ca/"

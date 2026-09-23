@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "1 Londonderry Mall NW, Edmonton, AB T5C 3C8"
 rating: 4.3
-review_count: 140
+review_count: 141
 tier: "featured"
 phone: "(780) 476-3188"
 website: "http://www.londonderrydentalcentre2.com/"
@@ -14,6 +14,10 @@ google_maps: "https://maps.google.com/?cid=1061842277411148783&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/londonderry-dental-centre-ii.jpg"
 reviews:
+  - name: "Valentin Muhire"
+    rating: 5
+    comment: |
+      The hygienist, Yash was informative, gentle, prioritized my comfort while thoroughly scaling and cleaning my teeth.  Also thanks for the tooth paste and bush.  I've been coming to Londonderry Dental Centre for years and the service is always great.  I highly recommend this dental office to everyone!
   - name: "Joy Smith"
     rating: 5
     comment: |
@@ -24,10 +28,6 @@ reviews:
       And the dentist, He was calm, patient, and explained everything clearly. My procedure was done really well, and I felt comfortable the whole time.. It was honestly very reassuring. I recommend visiting if you are in Edmonton.
       
       I’d definitely be back with my family.
-  - name: "Valentin Muhire"
-    rating: 5
-    comment: |
-      The hygienist, Yash was informative, gentle, prioritized my comfort while thoroughly scaling and cleaning my teeth.  Also thanks for the tooth paste and bush.  I've been coming to Londonderry Dental Centre for years and the service is always great.  I highly recommend this dental office to everyone!
   - name: "Johnny Vo"
     rating: 5
     comment: |
@@ -38,10 +38,11 @@ reviews:
       This is my first time at this dental clinic but it won't be my last time. Everyone from the front desk to the Dentist are excellent! Friendly, compassionate and knowledgeable. Yash is excellent at what he does and Dr. Landa and Raika are amazing!
       
       Thankyou!
-  - name: "Uche Okike"
+  - name: "Angela B"
     rating: 5
     comment: |
-      Had my teeth clean with Hygienist Yash… What a great job he has done.. Removed all the build up and stains from my teeth.. He showed me photos before and after as well.. I checked into mirror and left the place happily… I thought I should shout to Yash for his great job…! Thank you..
+      Great job! Friendly well-informed hygienist named Tynan. I would consider this the best high quality cleaning session I've ever had at the dentist. He was clearly very skilled and confident, a great experience! 😊
+      I'm not even the kind of person to leave reviews but I had such a great experience with fantastic results, I felt compelled to write this. Looking forward to next appt:)
 hours:
   monday: "8:30 AM–7:30 PM"
   tuesday: "8:30 AM–7:30 PM"

@@ -48,12 +48,12 @@ reviews:
     comment: |
       My daughter attended her dayhome for two years, and she has been an incredible caregiver and teacher. I honestly can't compare her to any other childcare facility—she provided such a loving, nurturing, and supportive environment.
       I'm so happy to see her open her own daycare. Congratulations on this amazing achievement! Wishing you continued success and all the best in this exciting new chapter!
+  - name: "Kim Deng"
+    rating: 5
+    comment: |
+      So thrilled for Teacher Amy on the opening of her new daycare! My daughter Isabelle started with her back at her dayhome, and she’s always gone in with a smile and come home super happy. Amy is truly an amazing teacher! I really hope more kids get to experience such a wonderful childhood here.
   - name: "Sylvia Bae"
     rating: 5
     comment: |
       I'm so happy to see her open her own daycare! I had an amazing experience with her in the past. She is professional, caring, and wonderful with kids.Safe, loving, and highly recommended!
-  - name: "Lydia"
-    rating: 5
-    comment: |
-      Amy, the daycare owner is an amazing caregiver. Pays attention to children needs and creates a responsive environment.
 ---

@@ -5,7 +5,7 @@ category: "auto-repair"
 subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "6331 76 Ave NW, Edmonton, AB T6B 0A6"
-rating: 4.7
+rating: 4.6
 review_count: 172
 tier: "featured"
 phone: "(587) 709-1007"
@@ -14,10 +14,6 @@ google_maps: "https://maps.google.com/?cid=11180083604148874825&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/k-t-services.jpg"
 reviews:
-  - name: "Vishal K. Kohli"
-    rating: 5
-    comment: |
-      Great experience at KT Services! They have a 24/7 call option for emergency advice and helped me out with my flat tire. Being open on a long weekend was also a bonus! Thank you to the owners and staff!
   - name: "Alan"
     rating: 5
     comment: |
@@ -26,6 +22,10 @@ reviews:
     rating: 5
     comment: |
       These guys are awesome. I was stuck on the highway in my wife's car and they changed and gave me a replacement tire right away. I would recommend these guys to anyone.
+  - name: "Vishal K. Kohli"
+    rating: 5
+    comment: |
+      Great experience at KT Services! They have a 24/7 call option for emergency advice and helped me out with my flat tire. Being open on a long weekend was also a bonus! Thank you to the owners and staff!
   - name: "Sukhdeep Singh"
     rating: 5
     comment: |

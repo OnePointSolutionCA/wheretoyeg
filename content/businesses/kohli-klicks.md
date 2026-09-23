@@ -13,6 +13,15 @@ google_maps: "https://maps.google.com/?cid=8381382343123741789&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/kohli-klicks.jpg"
 reviews:
+  - name: "Manpreet Kaur"
+    rating: 5
+    comment: |
+      We had a really good experience with Kohli klicks for our baby’s one-year photo shoot. The setup was great, and we did a combination of indoor and outdoor pictures. Our baby got a little tired during the shoot, but your patience and cooperation made everything so much easier. The whole experience was easygoing, and you were very accommodating with what we wanted. Thank you for your patience and for capturing such beautiful memories for us. We’re really happy with how the pictures turned out! ❤️ Would definitely recommend KohliClicks to anyone looking for a great photographer!
+  - name: "nima patel"
+    rating: 5
+    comment: |
+      We had an amazing experience with Kohli Klicks capturing our maternity and newborn photos. The pictures turned out absolutely beautiful, and every moment was captured so perfectly. We are so grateful to have these precious memories to cherish forever. Thank you, Kohli klicks, for beautifully capturing such a special chapter of our lives🫶.
+      Highly recommended! !!!
   - name: "harmanpreet sidhu"
     rating: 5
     comment: |
@@ -25,14 +34,6 @@ reviews:
     rating: 5
     comment: |
       We had an amazing experience with Jaspreet! He was incredibly professional, patient, and made our newborn session feel relaxed and enjoyable. The photos turned out absolutely beautiful, and we couldn't be happier with the results. These precious memories will last a lifetime thanks to his incredible talent and attention to detail. Thank you so much for capturing such a special moment for our family!
-  - name: "sukhpreet singh"
-    rating: 5
-    comment: |
-      We had an amazing experience with Kohli klicks for our maternity and newborn photo shoot. They were incredibly patient, gentle, and professional—especially with our newborn. The photos turned out absolutely beautiful and captured such precious moments that we will cherish forever. Highly recommend to anyone looking for timeless and heartfelt memories
-  - name: "Maninder Singh"
-    rating: 5
-    comment: |
-      We had an amazing experience working with Kohli Klicks for our newborn photoshoot. They made us feel completely at ease, especially with how gently and confidently they handled our baby. The photos were delivered on time and turned out absolutely beautiful—truly professional work. We highly recommend them and would love to work with them again in the future!
 hours:
   monday: "9:00 AM–9:00 PM"
   tuesday: "9:00 AM–9:00 PM"

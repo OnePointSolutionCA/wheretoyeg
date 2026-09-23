@@ -14,16 +14,20 @@ google_maps: "https://maps.google.com/?cid=8544284328574160212&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/londonderry-dental-choice.jpg"
 reviews:
+  - name: "Mackenzie Knight"
+    rating: 5
+    comment: |
+      As someone who has had 13 fillings and a root canal at another dentist, and needed another root canal recently at this clinic. Dr quon went above and beyond. I have had terrible dentist experiences my whole life until now. Not only are the staff friendly and helpful, but dr quon really made it more personal. She was aware of fear and reservations I had before I even said anything. Was super careful and empathetic. Checked in many times to make sure I was okay amd didn't have any pain. I would have to say that as crazy as it sounds my dental fear is gone. To be able to find a clinic and a doctor who really cares about the patients is a breath of fresh air.
+  - name: "Dom"
+    rating: 2
+    comment: |
+      (FIRST VISIT) Amazing crew here! Would highly recommend! Very polite, professional, kind, and courteous. Gentle,  made me feel extremely comfortable, and I was able to fully relax when I am normally badly anxious in a dentist’s office.(UPDATE) Aprox 2 Weeks later! My mouth has been extremely painful since my visits here. I have NEVER been hot cold sensitive it is unbearable now!!!! Not to mention a chunk of my tooth fell off!!! Not sure if my fillings were done correctly. They seem too thin so now everything hurts to chew or bite. My bite is off my mouth has been off. I am so discouraged and upset, which is why I don’t know if I’ll be back. Might go elsewhere!
   - name: "ROSIE DE Mayo"
     rating: 5
     comment: |
       It was my first time here, and I had a great experience! The service was excellent and very affordable. The receptionist was warm, welcoming, and friendly, which made me feel comfortable right away.
       
       The hygienist who cleaned my teeth was very professional and had a gentle touch—you barely feel a thing. Highly recommend!
-  - name: "Dom"
-    rating: 2
-    comment: |
-      (FIRST VISIT) Amazing crew here! Would highly recommend! Very polite, professional, kind, and courteous. Gentle,  made me feel extremely comfortable, and I was able to fully relax when I am normally badly anxious in a dentist’s office.(UPDATE) Aprox 2 Weeks later! My mouth has been extremely painful since my visits here. I have NEVER been hot cold sensitive it is unbearable now!!!! Not to mention a chunk of my tooth fell off!!! Not sure if my fillings were done correctly. They seem too thin so now everything hurts to chew or bite. My bite is off my mouth has been off. I am so discouraged and upset, which is why I don’t know if I’ll be back. Might go elsewhere!
   - name: "V"
     rating: 1
     comment: |
@@ -32,10 +36,6 @@ reviews:
     rating: 5
     comment: |
       I had a really good experience getting my cleaning and some fillings done here. The team (from the front desk all the way through) were kind and thorough. Before the anasthetic needle I mentioned I have had previous panic reactions, and Dr. Quon was very patient and went slow as she explained exactly what was happening as she did it and checking in with me. I really appreciate the two appointments I've had this week, they were pleasant experiences.
-  - name: "alice batamuriza"
-    rating: 5
-    comment: |
-      Really good experience! The staff was super nice and made me feel comfortable. I was nervous at first but they explained everything and made it easy. Definitely recommend.
 hours:
   monday: "8:00 AM–4:00 PM"
   tuesday: "8:00 AM–4:00 PM"

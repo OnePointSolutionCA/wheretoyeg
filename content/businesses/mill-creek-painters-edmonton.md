@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/mill-creek-painters-edmonton-1.jpg", "/photos/mill-creek-painters-edmonton-2.jpg", "/photos/mill-creek-painters-edmonton-3.jpg"]
 rating: 4.7
-review_count: 200
+review_count: 202
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,12 @@ tags: ["edmonton", "painting"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Ashley Doran"
+    rating: 5
+    comment: |
+      I am beyond happy with our “new” cabinets and can’t believe how much brighter and more spacious our kitchen feels. The transformation is dramatic and the quality of work exceeded expectations, especially given our 50+ year-old cabinets. Marcel was excellent with communication and setting clear expectations and resolving any concerns after re-install, William did meticulous prep and painting on-site with great attention to detail, and Lisa worked magic on the doors and drawers for a flawless finish. We opted to have the hardware holes filled in as we are changing them and the placement and the holes are basically invisible.  The whole process took just over a week to accommodate my schedule and everything was handled professionally from start to finish.
+      
+      There was a hiccup when an oil-based primer was used instead of the originally planned low-VOC option based on performance concerns with the cabinet doors, which did impact our plans for boarding our parrots. While inconvenient, and very stinky, I understand the decision was made to ensure the most durable finish.
   - name: "M Paterson"
     rating: 5
     comment: |
@@ -37,12 +43,6 @@ reviews:
       Painter Will’s attention to detail was great!  He involved us throughout the project to make sure we were pleased with the result.
       Mill Creek Painting kept us informed via email, text and phone calls throughout the entire project so we always knew what was happening and when. They completed the project in just 5 days, start to finish!
       Bottom line…we highly recommend Mill Creek Painting!
-  - name: "Ashley Doran"
-    rating: 5
-    comment: |
-      I am beyond happy with our “new” cabinets and can’t believe how much brighter and more spacious our kitchen feels. The transformation is dramatic and the quality of work exceeded expectations, especially given our 50+ year-old cabinets. Marcel was excellent with communication and setting clear expectations and resolving any concerns after re-install, William did meticulous prep and painting on-site with great attention to detail, and Lisa worked magic on the doors and drawers for a flawless finish. We opted to have the hardware holes filled in as we are changing them and the placement and the holes are basically invisible.  The whole process took just over a week to accommodate my schedule and everything was handled professionally from start to finish.
-      
-      There was a hiccup when an oil-based primer was used instead of the originally planned low-VOC option based on performance concerns with the cabinet doors, which did impact our plans for boarding our parrots. While inconvenient, and very stinky, I understand the decision was made to ensure the most durable finish.
   - name: "Andrew Woloshyn"
     rating: 5
     comment: |

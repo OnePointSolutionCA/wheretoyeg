@@ -5,7 +5,7 @@ category: "spas-esthetics"
 neighborhood: "Beaumont"
 address: "5001 48 St, Beaumont, AB T4X 1H7"
 rating: 4.8
-review_count: 207
+review_count: 208
 tier: "featured"
 phone: "(780) 232-0965"
 website: "http://www.lalaserandspa.ca/"

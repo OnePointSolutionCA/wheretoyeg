@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Spruce Grove"
 address: "636 King St, Spruce Grove, AB T7X 4K5"
 rating: 4
-review_count: 527
+review_count: 529
 tier: "featured"
 phone: "(780) 946-7172"
 website: "http://www.labezt.ca/"
@@ -18,6 +18,10 @@ reviews:
     rating: 5
     comment: |
       Was told to try this place from a co-worker. So glad I decided to try it out! I’ve never had a pizza with so much Donair meat! Absolutely delicious. It came with the perfect amount of sweet sauce and to top it off if you order and pick it up you get a cinnamon/sugar pizza for dessert for free. Highly recommend this place! Who I think was the owner, was super friendly and seemed super appreciative that I decided to order from here when telling him it came highly recommended. Will definitely be ordering here again in the future
+  - name: "Abigail Ledda"
+    rating: 4
+    comment: |
+      New to spruce grove and was craving a donair. Tried La Bezt as it was highly recommended and close to me. It is not freshly shaved but comes from a warm tray already shaved. However, I would rate the regular donair a 4-4.5/5! The veggies are fresh and the meat is seasoned well. I think it does the job but is just a bit small but packed with meat. The fries were freshly made but not the best imo. I spent $22 for a regular donair, bag of fries, and drink.
   - name: "Sheena James"
     rating: 1
     comment: |
@@ -30,14 +34,6 @@ reviews:
     rating: 5
     comment: |
       Have been going here for years but have never left a review, that had to change!The people have always been super friendly and the food has always been great. Their donairs are awesome, the pizza is great too👌 Definitely give them a try if you're craving donsirs!
-  - name: "Nicolas Powers"
-    rating: 5
-    comment: |
-      Just some absolutely incredible dedication to what they do.
-      
-      We worked hard all day and when we opened the pizza box to the absolute mountain of toppings on our pizza... I almost wept.
-      
-      I wish I lived closer, because this restaurant is incredible.
 hours:
   monday: "11:00 AM–9:00 PM"
   tuesday: "11:00 AM–9:00 PM"

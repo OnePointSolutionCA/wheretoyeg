@@ -32,10 +32,6 @@ reviews:
       
       I can't recommend this barbershop highly enough. If you're in the market for a barber who will treat you like family and deliver a haircut that exceeds your expectations, look no further than Original Barbershop It's an experience you won't soon forget.
       ⭐️⭐️⭐️⭐️⭐️
-  - name: "Ali Charara"
-    rating: 5
-    comment: |
-      Every time i come here i feel like home. I just sit in the chair and let Terry do his thing. Both hair and beard. 30 years experience says it all. You do have to book an appointment most likely if you wanna get Terry. His nephew Rami is a machine as well. If you want a great experience they won't let you down.
   - name: "Kevin Jones"
     rating: 5
     comment: |
@@ -46,6 +42,10 @@ reviews:
       Kid Cuts are very welcome here.
       
       Seems like Terry loves to upgrade the place to keep making it better, adding features, shop designs, comfort things.
+  - name: "Ali Charara"
+    rating: 5
+    comment: |
+      Every time i come here i feel like home. I just sit in the chair and let Terry do his thing. Both hair and beard. 30 years experience says it all. You do have to book an appointment most likely if you wanna get Terry. His nephew Rami is a machine as well. If you want a great experience they won't let you down.
   - name: "mohammad elzein"
     rating: 5
     comment: |

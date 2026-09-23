@@ -32,18 +32,6 @@ reviews:
     rating: 5
     comment: |
       Lauren is fantastic to work with! So many amazing photos. We received 997 in total and I love every single one... I expected a few duds, but no. The assistant photographers with her were also wonderful. Having a photographer with my husband in the morning as he go ready was so great. I love being able to see that part of the day. They stayed well into the evening and got a lot of awesome dancing/ party photos. I couldn't have asked for a better experience.
-  - name: "Avneet Beniwal"
-    rating: 5
-    comment: |
-      We truly can’t recommend Lauren (and Bruce!) enough. From the moment we first contacted Lauren to after our wedding, she was kind, patient, organized, and so easy to communicate with. She took the time to get to know us, understand our vision, and made two people who are incredibly awkward at posing, look good and actually have fun taking photos!
-      
-      Lauren went above and beyond throughout our wedding week. At one point before our ceremony, I accidentally messed up my makeup, and Lauren literally ran up a hill to her car to grab blush to help fix it — that level of care says everything about who she is. Beyond photography, she helped us stay present, calm, and enjoy every moment together instead of stressing over little things.
-      
-      We had events over 4 days, and Lauren and Bruce blended in so naturally with our families that they honestly felt like part of the celebrations rather than photographers. Our families still talk about how warm, kind, and easygoing they were.
-      
-      They captured such an amazing blend of emotional, candid, funny, and meaningful moments — including so many moments we didn’t get to see ourselves. Looking through our photos genuinely felt like we were reliving our wedding week all over again! All the photos we received are beautiful, we can't even decide which ones we want to put up!
-      
-      Their work is beyond beautiful, but what really makes them special is how much they care and how passionate they are about getting the best shot. We’re so grateful we had Lauren and Bruce with us and honestly couldn’t imagine our wedding week without them!
   - name: "Rosalyn Estoque"
     rating: 5
     comment: |
@@ -74,4 +62,16 @@ reviews:
       Lauren will definitely be our go-to photographer for any future photoshoots in Edmonton. Lauren, thank you for everything!
       
       Eva&Adam
+  - name: "Avneet Beniwal"
+    rating: 5
+    comment: |
+      We truly can’t recommend Lauren (and Bruce!) enough. From the moment we first contacted Lauren to after our wedding, she was kind, patient, organized, and so easy to communicate with. She took the time to get to know us, understand our vision, and made two people who are incredibly awkward at posing, look good and actually have fun taking photos!
+      
+      Lauren went above and beyond throughout our wedding week. At one point before our ceremony, I accidentally messed up my makeup, and Lauren literally ran up a hill to her car to grab blush to help fix it — that level of care says everything about who she is. Beyond photography, she helped us stay present, calm, and enjoy every moment together instead of stressing over little things.
+      
+      We had events over 4 days, and Lauren and Bruce blended in so naturally with our families that they honestly felt like part of the celebrations rather than photographers. Our families still talk about how warm, kind, and easygoing they were.
+      
+      They captured such an amazing blend of emotional, candid, funny, and meaningful moments — including so many moments we didn’t get to see ourselves. Looking through our photos genuinely felt like we were reliving our wedding week all over again! All the photos we received are beautiful, we can't even decide which ones we want to put up!
+      
+      Their work is beyond beautiful, but what really makes them special is how much they care and how passionate they are about getting the best shot. We’re so grateful we had Lauren and Bruce with us and honestly couldn’t imagine our wedding week without them!
 ---

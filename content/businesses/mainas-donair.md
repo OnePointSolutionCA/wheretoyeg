@@ -6,7 +6,7 @@ subcategory: "middle-eastern"
 neighborhood: "Beaumont"
 address: "5010 50 St #101, Beaumont, AB T4X 1E7"
 rating: 4.6
-review_count: 408
+review_count: 409
 tier: "featured"
 phone: "(780) 929-9887"
 website: "https://mainasdonair.my.canva.site/maina-s-donair"

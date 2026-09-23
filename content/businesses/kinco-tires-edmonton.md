@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/kinco-tires-edmonton-1.jpg", "/photos/kinco-tires-edmonton-2.jpg", "/photos/kinco-tires-edmonton-3.jpg"]
 rating: 4.4
-review_count: 293
+review_count: 294
 price_range: "$$"
 amenities:
 
@@ -28,14 +28,14 @@ tags: ["edmonton", "tires"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Jill Cardinal"
-    rating: 5
-    comment: |
-      Called around looking for tires and Kinco was one of them, they were very nice and had used tires in stock that were exactly what I was looking for and for a great price. Was able to book in very quickly and they had me out in under an hour! Definitely recommend and will be back when I need new tires again!
   - name: "Nicolas S"
     rating: 5
     comment: |
       July 18/26 had to come back here again to get the tires re-torqued. (July 13/26) When I came to get tires they were in pretty amazing condition considering them being used. The price can definitely not be beat, they are a small local business that knows how to do their job, give amazing service & gets the stuff done in a reasonable amount of time. Would definitely & highly recommend this business to any family and friends looking for a good deal on new or used tires. Not mention they have a comfy couch to sit on, a TV to watch whatever program & some snacks, talk about great service & a way to relax while waiting
+  - name: "Jill Cardinal"
+    rating: 5
+    comment: |
+      Called around looking for tires and Kinco was one of them, they were very nice and had used tires in stock that were exactly what I was looking for and for a great price. Was able to book in very quickly and they had me out in under an hour! Definitely recommend and will be back when I need new tires again!
   - name: "Caroline Blake"
     rating: 5
     comment: |

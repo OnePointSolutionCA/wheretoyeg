@@ -13,10 +13,6 @@ google_maps: "https://maps.google.com/?cid=12725834162400523608&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/la-crema-caffe.jpg"
 reviews:
-  - name: "Megan"
-    rating: 5
-    comment: |
-      Ordered their most popular drink: vanilla coconut chai latter, and it’s no wonder it’s so popular! Not too sweet with a strong chai flavour, the coconut is a perfect addition. The cafe has such sweet, homey vibes for a coffee or study session. Staff are all super friendly and attentive, the cafe was very clean and well kept. Lots of gluten free breakfast and lunch options, with loads of sweet treats in their display case too!
   - name: "Sharlin Aparri"
     rating: 4
     comment: |
@@ -25,6 +21,10 @@ reviews:
     rating: 5
     comment: |
       Stopped in for Coffee and Cake or Caffe and Kuchen if your German. Nice spot for a slow Sunday coffee. Patio outside and quite a few Gluten free options! Excellent coffee!
+  - name: "Megan"
+    rating: 5
+    comment: |
+      Ordered their most popular drink: vanilla coconut chai latter, and it’s no wonder it’s so popular! Not too sweet with a strong chai flavour, the coconut is a perfect addition. The cafe has such sweet, homey vibes for a coffee or study session. Staff are all super friendly and attentive, the cafe was very clean and well kept. Lots of gluten free breakfast and lunch options, with loads of sweet treats in their display case too!
   - name: "Sarah Keels"
     rating: 5
     comment: |

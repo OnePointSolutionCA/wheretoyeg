@@ -19,8 +19,8 @@ hours:
   saturday: "11:00 AM–2:30 AM"
   sunday: "11:00 AM–8:45 PM"
 photos: ["/photos/meat-the-bun-1.jpg", "/photos/meat-the-bun-2.jpg", "/photos/meat-the-bun-3.jpg"]
-rating: 4.7
-review_count: 70
+rating: 4.8
+review_count: 80
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -34,6 +34,22 @@ reviews:
     rating: 5
     comment: |
       Had a great experience at Meat The Bun! The restaurant was very clean, the food was delicious, and the service was excellent. The staff were friendly and attentive, and everything came out fresh and well prepared. Definitely a place worth visiting again!
+  - name: "Danielle Crawford"
+    rating: 4
+    comment: |
+      Not a bad burger.
+      
+      Was it the best burger I’ve ever had in my life? No. Would I eat it again when I’m craving something not healthy but delicious? Yes.
+      
+      The black bun is a cool spin. It doesn’t really add anything to the flavor profile, but it’s kind of cool.
+      
+      I did a build your own burger, Which I appreciate because I like to choose my own toppings. And it was quite good.
+      
+      I ordered this on Skip, the dishes and in the notes I put that I wanted coleslaw, but I wanted it on the side and thankfully they accommodated that.
+      
+      That being said, I was a little bit underwhelmed by the coleslaw. I understand that their intention is usually to use this as a topping on the burger, but when I ate it, I found it very lacking in seasoning. It was pretty bland.
+      
+      Once again, good burger, I found it to be a tiny bit on the thin side. I kind of wished it was thicker and juicier. But still pretty good.
   - name: "Rocky Singh"
     rating: 5
     comment: |
@@ -48,8 +64,4 @@ reviews:
       Visited the new location near Earls crossing and overall had a really good experience.
       
       The burgers are unique and flavourful, especially their signature items like The Queen and Farm Feast. The buns (especially the black bun) stand out and give a different taste compared to regular burger places…I am so glad we have this new location opened near to us …as we are their regulars in south location.
-  - name: "Annie Poirier"
-    rating: 5
-    comment: |
-      I just had lunch at Meat The Bun, I had the Queen Burger. Damn, this has to be one of the best burger I've had, the black bun is surprisingly the best of all! I did not expect this burger to be sooooo good like that, and the prices are very reasonable!! A must try!
 ---

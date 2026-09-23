@@ -5,7 +5,7 @@ category: "barbers"
 neighborhood: "Beaumont"
 address: "3107 Pelerin Cres, Beaumont, AB T4X 2X8"
 rating: 5
-review_count: 116
+review_count: 117
 tier: "featured"
 phone: "(780) 953-1390"
 google_maps: "https://maps.google.com/?cid=6730138563053936630&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

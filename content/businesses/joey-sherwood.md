@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "222 Baseline Rd #250, Sherwood Park, AB T8H1M4"
 rating: 4.8
-review_count: 6788
+review_count: 6834
 tier: "featured"
 phone: "(780) 467-6255"
 website: "https://joeyrestaurants.com/location/joey-sherwood"
@@ -34,22 +34,20 @@ reviews:
     rating: 5
     comment: |
       C’mon now… if you have never eaten here this is the sign you have been waiting for. Eating out is expensive so it takes more than good food to get you out. Well, the food was EXCEPTIONAL. The flavors, the variety .. the attention to details. The environment was bumpin but it still felt personal and we could easily chat and enjoy our friendship date out. I always check the bathroom - clean check and check … service people were attentive and friendly with just the right amount of glasses filled, order taken, plates removed etc. overall, can’t wait to go again.
-  - name: "Terry Sims"
-    rating: 5
-    comment: |
-      Chose Joey Sherwood randomly and so glad we did.  Comfortable atmosphere, amazing staff, and delicious food.  Our server, Molly, went out of her way to welcome us after finding out it was our first visit there.  We had the baja tacos and blackened chicken, both were fantastic with generous portions.  We were given a welcome complimentary dessert…thanks Molly!! Will be back for sure!
   - name: "Phat Boy"
     rating: 3
     comment: |
       Food was good, but definitely overpriced especially for the serving size. Service was average but the joint was very nice and had  a great atmosphere. Don’t recommend the sushi as it was very dry and small. The warm potato salad was probably my favourite thing there. I’m guessing service would have been better if we weren’t so casually dressed.
-  - name: "Talwinder Maan"
+  - name: "Hayli Bucharski"
     rating: 5
     comment: |
-      Went to Joey and absolutely loved the ambience! The staff were so friendly and welcoming, and the food was great—especially the truffle fries.
+      Mercedez was a great waitress! We came to celebrate my grandpa’s 82nd birthday and we were not disappointed. The food and service were great to begin with, but then they brought out a huge dessert board for his birthday! Thank you so much Joey Sherwood, you made his day :)
+  - name: "Janice Pinnock"
+    rating: 5
+    comment: |
+      Aleshia was amazing! She made my birthday the icing with the cherry on top!!!
       
-      A special shoutout to the hostess, Jemima, who went above and beyond. She was so professional, well-presented, and made us feel genuinely welcomed from the moment we walked in. Definitely made the experience even better!
-      
-      Will definitely be coming back.
+      Great server. Managers are amazing here.  So pleasant, great food. Very attentive. Very prompt.  Absolutely love this place!
 hours:
   monday: "11:00 AM–12:00 AM"
   tuesday: "11:00 AM–12:00 AM"

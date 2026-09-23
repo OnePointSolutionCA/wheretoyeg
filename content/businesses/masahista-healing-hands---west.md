@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/masahista-healing-hands---west-1.jpg", "/photos/masahista-healing-hands---west-2.jpg", "/photos/masahista-healing-hands---west-3.jpg"]
 rating: 4.9
-review_count: 554
+review_count: 561
 price_range: "$$"
 amenities:
 

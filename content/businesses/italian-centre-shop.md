@@ -18,7 +18,7 @@ hours:
   sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/italian-centre-shop-1.jpg", "/photos/italian-centre-shop-2.jpg", "/photos/italian-centre-shop-3.jpg"]
 rating: 4.6
-review_count: 3300
+review_count: 3304
 price_range: "$$"
 amenities:
   - "Deli"
@@ -29,6 +29,14 @@ tags: ["italian", "grocery", "deli", "gelato"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Jay"
+    rating: 5
+    comment: |
+      The Italian Centre downtown was really nice and I had a great experience. The store itself was clean, well organized, and had a great selection, and everyone I interacted with was very friendly and welcoming.
+      
+      I also stopped by the restaurant/café side and picked up a sandwich and some desserts. Everything on display looked incredibly fresh and appetizing, and what I ordered tasted amazing. The staff on the café side were just as friendly and provided great service.
+      
+      Overall, I really enjoyed the atmosphere, the quality of the food, and the customer service. Everything looked fresh and tasted delicious. I’ll certainly be back!
   - name: "Samuel Nagy"
     rating: 5
     comment: |
@@ -42,18 +50,14 @@ reviews:
       Loved the vibe , the food , the service .. everything here . There was a tiny line up but the pizza.. definitely worth it .. the margarita was plain and delicious while the vegitariana was finger licking good with pesto sauce in the base and mushroom , cherry tomato , onions as topping .
       
       The desert we tried were eclairs with cream and another thingy with cream and raspberries- they both were fresh and the cream was super light and lesser in sugar . The pastries 🥮 were a definite must try
+  - name: "Beck Heinz"
+    rating: 5
+    comment: |
+      The best Italian centre shop in town, always has what I need for both groceries and the bakery/cafe in stock. Has the expected affair of European groceries and other things that are hard to find elsewhere. Definitely the best deal for produce and one of the best places to stop in for a treat/light lunch in the area. It’s also fun to eat a pizza on the patio here during the summer.
   - name: "Paul Hill"
     rating: 5
     comment: |
       My favorite shopping in Edmonton. Such a rich alternative offering of foods all responsibly priced considering the quality.
       Fruit and vegetables last 4 times longer than the big superstores and you can always buy in smaller quantities which is perfect for one off meals.
       The pizza dough is 🤌
-  - name: "Beck Heinz"
-    rating: 5
-    comment: |
-      The best Italian centre shop in town, always has what I need for both groceries and the bakery/cafe in stock. Has the expected affair of European groceries and other things that are hard to find elsewhere. Definitely the best deal for produce and one of the best places to stop in for a treat/light lunch in the area. It’s also fun to eat a pizza on the patio here during the summer.
-  - name: "Suzy X"
-    rating: 5
-    comment: |
-      Absolutely fantastic experience, as always. So much selection and the absolute freshest ingredients. Definitely try their freshly, oven baked pizza. Amazing !! Fresh produce and a wide variety of selection from europe that you cannot get elsewhere. Love it.
 ---

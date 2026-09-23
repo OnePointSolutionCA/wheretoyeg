@@ -14,6 +14,10 @@ google_maps: "https://maps.google.com/?cid=12998885134698458384&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/jiffy-lube-tires.jpg"
 reviews:
+  - name: "Harsimrat Pandher"
+    rating: 5
+    comment: |
+      Got my car's tyres filled with air today huge thanks to Puneet, who was fantastic! Quick, precise, and made sure every tyre was at the right pressure without me having to ask twice. Really appreciate the attention to detail. Harshpreet was also great such a friendly guy, made the whole experience pleasant too. Good team overall, but Puneet's service really stood out.
   - name: "Jeffrey Mclellan"
     rating: 5
     comment: |
@@ -34,10 +38,6 @@ reviews:
     rating: 5
     comment: |
       Good service, quick tire swap while my oil is getting changed, I went over to the mcdonalds next door and by the time we are done, the car is ready!
-  - name: "Jasraj Khehra"
-    rating: 5
-    comment: |
-      Really great service .. specially thanx harshpreet nd sukhmanpreet singh for good customer service 10/10👍🏻
 hours:
   monday: "9:00 AM–6:00 PM"
   tuesday: "9:00 AM–6:00 PM"

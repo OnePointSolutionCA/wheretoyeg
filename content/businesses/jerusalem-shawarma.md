@@ -21,7 +21,7 @@ hours:
   sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/jerusalem-shawarma-1.jpg", "/photos/jerusalem-shawarma-2.jpg", "/photos/jerusalem-shawarma-3.jpg"]
 rating: 4.9
-review_count: 22434
+review_count: 22552
 price_range: "$$"
 amenities:
   - "Halal"
@@ -56,10 +56,6 @@ reviews:
       Stopped by based on a friend's recommendation because I was craving a solid wrap, and it did not disappoint! I tried the Crispy Chicken Shawarma and the Falafel Wrap—both were fresh, flavorful, and loaded with toppings.
       
       Even though it was a busy Friday night and we had to wait a bit, the staff was so thoughtful and served us hot tea while we waited. To top it off, they surprised us with complimentary baklava and drinks at the end! Such a generous touch. Great food and even better hospitality—I'll definitely be back.
-  - name: "charlene mae beloso"
-    rating: 5
-    comment: |
-      We were looking for a unique place to eat in Edmonton, and this restaurant did not disappoint! 🤤 The food was absolutely delicious. The kebabs were incredibly flavorful, the rice was perfectly cooked, and the portions were huge—definitely worth every bite. The prices were very affordable, making it an even better value for the quality and generous servings. The service was excellent, and their complimentary tea was absolutely amazing! If you’re craving a hearty, flavorful, and satisfying meal, this place is definitely worth a visit. ✨
   - name: "Hazel Chan"
     rating: 4
     comment: |
@@ -68,4 +64,8 @@ reviews:
       The service was excellent. The server was very polite, friendly, and nice. We even got complimentary tea, mint lemonade, and more baklava. Our cups were refilled whenever we finished the tea.
       
       The tables could be a little more clean but over the place is very well kept.
+  - name: "Sena Sezer Syed"
+    rating: 5
+    comment: |
+      Great place, great food, great vibes :) Especially anything with lamb kebab is delicious, be it wrap or plate. The staff is always welcoming, the place is always clean. Kamal is always so helpful and kind! The first picture attached is from today, after we were done with our food I asked him if we could have two more small cups of tea, he said he would bring it to our table. He came back with a plate of two cups of tea, two cups of the green citrus ginger drink (I don’t know the name but it is absolutely delicious) and two pieces of baklava! One thing about me is I will certainly keep coming back to a restaurant that seeks abundance through generosity. :)
 ---

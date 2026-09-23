@@ -43,10 +43,6 @@ reviews:
       I ended up leaving with my almost whole pizza, thinking I could salvage it by cooking it more when I got home, but ended up throwing it out, because if a restaurant staff can’t be bothered to wipe any of its tables down during a very slow supper time, then I doubt that proper food safety protocols are being consistently followed.
       
       The only positive thing I can comment on for this whole experience, was noticing that they have a decent looking new selection of gluten free cakes. Unfortunately, I won’t be returning to try any of them.
-  - name: "8989griff"
-    rating: 1
-    comment: |
-      Ordered a double pepperoni pizza that barely had any toppings on it. My fiancé asked the clerk for Parmesan and chille flakes, he got upset and said we needed to pay for them… what place charges for shakes to put on your pizza??? Tried to call to talk to the owner and he refused to give me their contact information and hung up on me…
   - name: "Russ McPhee"
     rating: 3
     comment: |
@@ -57,6 +53,17 @@ reviews:
       I got chicken on mine but it came shredded and they don’t put cheese on top of the toppings to hold the toppings on the pizza while you eat it and end up dropping some toppings.
       
       Not a bad spot though if you like different types of pizzas that are made right in front of you.
+  - name: "Reena Chaudhari"
+    rating: 5
+    comment: |
+      The Perfect Combination of Pizza and Desserts!
+      
+      I recently visited LovePizza and I must say, it was an absolute treat from start to finish. Not only do they serve some of the most delicious, perfectly crafted pizzas in town, but their dessert selection is equally outstanding.
+      
+      The pizzas are a masterpiece—crispy crusts, fresh toppings, and the perfect balance of flavors.
+      The ambiance is cozy, the staff is friendly, and the service is quick. Whether you’re there for dinner, dessert, or both, you’re guaranteed to leave happy and full. I highly recommend this place to anyone looking for great food and an even better dessert experience.
+      
+      Five stars all the way!
 hours:
   monday: "11:00 AM–9:00 PM"
   tuesday: "11:00 AM–9:00 PM"

@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/jumbo-dim-sum-1.jpg", "/photos/jumbo-dim-sum-2.jpg", "/photos/jumbo-dim-sum-3.jpg"]
 rating: 4.3
-review_count: 1865
+review_count: 1866
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -49,12 +49,12 @@ reviews:
       Har gow and siu mai are beautifully done, with clean flavours and a satisfying bite. Their rice rolls are silky, generously filled, and never gummy. Even the simple dishes — congee, steamed buns, fried squid — are prepared with the kind of care that shows this kitchen knows its craft. Portions are generous, prices are fair, and the quality stays steady even during peak hours.
       
       Service is friendly and efficient, the atmosphere is lively without being chaotic, and the whole experience feels like a weekend tradition worth keeping. Whether you’re going with family, friends, or just craving classic dim sum comfort, Jumbo Dim Sum is one of those places that always leaves you smiling on the way out.
-  - name: "Kaitlyn Beaudry"
-    rating: 5
-    comment: |
-      Best dim sum in all of Edmonton! My family loves it so much we have turned it into a monthly tradition. The staff are friendly and fast, everything on the menu is fresh and delicious. The cart service on weekends is unlike anywhere else, a constant flow of hot, fresh made dim sum only options. Perfect every time and a fun and unique experience!
   - name: "Susie Banico"
     rating: 5
     comment: |
       Best Dim Sum in Town! My favourites are the Shrimp Cakes and Mango Pudding with Cream! Best time to go is before 2 when the carts are rolling around!!
+  - name: "Kaitlyn Beaudry"
+    rating: 5
+    comment: |
+      Best dim sum in all of Edmonton! My family loves it so much we have turned it into a monthly tradition. The staff are friendly and fast, everything on the menu is fresh and delicious. The cart service on weekends is unlike anywhere else, a constant flow of hot, fresh made dim sum only options. Perfect every time and a fun and unique experience!
 ---

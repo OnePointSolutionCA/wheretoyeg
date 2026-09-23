@@ -34,10 +34,6 @@ reviews:
       Had a great experience at this barbershop! The atmosphere is welcoming, the service is professional, and all the barbers seem to really know what they’re doing.
       A special shout-out to Amir, who cut both my hair and my son’s. He was very professional, friendly, and clearly experienced. He paid attention to the details and did an excellent job on both haircuts.
       I highly recommend this barbershop, and especially Amir.
-  - name: "Hassan Najem"
-    rating: 4
-    comment: |
-      There is a Barber over there. His name is Amir he is so  good. He cut my hair real good for one of the best prices. I asked him for a style and he got it perfectly
   - name: "Amanda Yehya"
     rating: 5
     comment: |
@@ -52,4 +48,8 @@ reviews:
     rating: 2
     comment: |
       I can only comment on the guy who cut my hair, not the other barbers working here. My haircut took about 5 minutes and felt very rushed and lacked attention to detail. I paid $25, but the result was barely noticeable and didn't feel worth the price. Maybe the other barbers provide a different experience, but based on my visit, I left disappointed.
+  - name: "Hassan Najem"
+    rating: 4
+    comment: |
+      There is a Barber over there. His name is Amir he is so  good. He cut my hair real good for one of the best prices. I asked him for a style and he got it perfectly
 ---

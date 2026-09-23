@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/jerusalem-shawarma-downtown-1.jpg", "/photos/jerusalem-shawarma-downtown-2.jpg", "/photos/jerusalem-shawarma-downtown-3.jpg"]
 rating: 4.9
-review_count: 5597
+review_count: 5610
 price_range: "$$"
 amenities:
   - "Halal"
@@ -31,15 +31,6 @@ tags: ["edmonton", "lebanese", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Fairuz Adiba"
-    rating: 5
-    comment: |
-      Obviously one of our favourite Mediterranean restaurants. The service is top notch and always feels warm and welcoming. We really appreciate the little touches like the complimentary tea the refreshing ginger mint shot
-      and the baklava at the end. It makes the whole experience feel thoughtful and complete. The staff are attentive without being overwhelming and everything runs smoothly. Overall, it’s a place we genuinely enjoy coming back to for both the food and the hospitality.
-  - name: "Nguyn Anh"
-    rating: 5
-    comment: |
-      I was going to this restaurant yesterday! As a Vietnamese, this restaurant is really good! Everything from the food, services and employees is really excellent! I am not here to be flattery ! Because I am just a customer to pay my money to have a service here. However, it is really worth with your money because you will receive more what you give. I recommended Ya akhee whose name is Yaseen. He is really kind and serves me and my friends considerately! I swear you will not regret if Yaseen serves your meal in this restaurant! From Vietnam with love 🇻🇳❤️. Oh btw! You can also be served with free tea! It is really delicious and tasty ! And It is all free! So you don’t have to be worried too much !!!!
   - name: "Sadegh Pour-Ali"
     rating: 5
     comment: |
@@ -58,4 +49,17 @@ reviews:
     rating: 5
     comment: |
       This was our first time at the downtown location (by MacEwan University and the Ice District)that has been open for a year now.  You can expect the same quality food, generous portions and menu choices you'd find at the other locations. You can also expect the sane attention to service with complimentary samples of tea and baklava.  We consider this a phenomenal option for a healthy meal at a reasonable price. If you like lamb... try their lamb chops which are absolutely amazing!
+  - name: "Yahaira Delgado"
+    rating: 5
+    comment: |
+      I love the food, the service, the music.
+      All is worth it, even coming while raining or snow, just I miss they to have the delicios dessert that is like a cheesecake covered in chocolate and pistachio 🥲 bring it back.
+      
+      The detail of giving tea and mint lime tea is always on point!
+      
+      Thank you all for your hard work and the love you put in food 🫶!
+  - name: "Nguyn Anh"
+    rating: 5
+    comment: |
+      I was going to this restaurant yesterday! As a Vietnamese, this restaurant is really good! Everything from the food, services and employees is really excellent! I am not here to be flattery ! Because I am just a customer to pay my money to have a service here. However, it is really worth with your money because you will receive more what you give. I recommended Ya akhee whose name is Yaseen. He is really kind and serves me and my friends considerately! I swear you will not regret if Yaseen serves your meal in this restaurant! From Vietnam with love 🇻🇳❤️. Oh btw! You can also be served with free tea! It is really delicious and tasty ! And It is all free! So you don’t have to be worried too much !!!!
 ---

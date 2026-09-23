@@ -18,7 +18,7 @@ hours:
   sunday: "11:00 AM–3:00 PM"
 photos: ["/photos/meat-street-pies-1.jpg", "/photos/meat-street-pies-2.jpg", "/photos/meat-street-pies-3.jpg"]
 rating: 4.5
-review_count: 57
+review_count: 62
 price_range: "$$"
 amenities:
   - "Takeout"

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/mikado-downtown-1.jpg", "/photos/mikado-downtown-2.jpg", "/photos/mikado-downtown-3.jpg"]
 rating: 4.4
-review_count: 787
+review_count: 788
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -42,39 +42,14 @@ reviews:
     rating: 5
     comment: |
       Food was amazing and tasted fresh, service was great and environment was good. Ordered a blue fin jalapeño cream roll; so good forgot to take a photo.
+  - name: "Quy Le"
+    rating: 5
+    comment: |
+      Their bento boxes are not only so flavourful but they have so much variety. They have many bento boxes for different types of taste or cravings. Not only their bento boxes is amazing but their sushi is really great as well. If you want to have a nice lunch I highly recommend here if you crave Japanese.
   - name: "kenny yu"
     rating: 5
     comment: |
       Returned after many years and the food is still pretty much the same as before. Very nostalgic would come back again.
       
       The dragon eyes roll has gotten smaller though.
-  - name: "Karim Noueihed"
-    rating: 4
-    comment: |
-      *Food*
-      
-      BBQ Shrimps (8.5/10): Super delicious but the portion is unbelievably small, it's literally a bite.
-      
-      Dragon Eyes (9/10): Best plate we ordered, the sauce is crazy good. It has a dominant mayonnaise taste, but it's good.
-      
-      Takoyaki (8.5/10): Unbelievably fulfilling, it's the definition of comfort food, very good.
-      
-      Spring rolls (6.5/10): we got them cold the first time and had to ask the waitress to get us a new one, not the best and it's a very small portion. The sauce is not good, we ate it with Soy sauce.
-      
-      Rolls:
-      - Dynamite Roll (6/10)
-      - Mango Tango Roll (6/10)
-      - Godzilla Roll (7/10)
-      - Brad Roll (7/10)
-      - Special Roll (off menu) (7.5/10)
-      
-      1 general note that made our experience with the rolls to be considered average, is the amount of rice that's in the roll, it takes away all the flavor that's in them, and makes you full in no time. The dynamite roll would definitely fulfill 1 person, we had to eat each piece in 3 bites.
-      
-      We enjoyed the appetizers much more than the rolls.
-      
-      *Service*
-      The waitress was very kind and nice and the food came pretty fast. Overall the staff was very friendly and everyone seemed to have a good time.
-      
-      *Atmosphere*
-      Cozy and authentic - great vibes and atmosphere, suitable for a date or a friends gathering.
 ---

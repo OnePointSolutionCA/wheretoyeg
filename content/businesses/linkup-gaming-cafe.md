@@ -50,8 +50,8 @@ reviews:
       It’s a great idea instead of renting a gaming truck
       To rent @ linkup gaming cafe
       The kids looking forward till next birthday.
-  - name: "Jake"
-    rating: 4
+  - name: "Mostafa Rim"
+    rating: 5
     comment: |
-      The computers are good but the time when they open the cafe is bad I had to wait 2 hours and they still haven’t opened I have been calling them for 2 hours now and the won’t answer the phone but the service is great.
+      LinkUp Gaming Cafe is the ultimate hangout spot for gamers! With the best PCs and top-notch quality, it's the perfect place to game in comfort. They also offer an impressive selection of PS5 games. The atmosphere is welcoming, and Anas, the owner, really knows how to make it look amazing. A great place to chill with friends and enjoy some serious gaming!
 ---

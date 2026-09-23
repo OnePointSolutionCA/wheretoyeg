@@ -31,10 +31,11 @@ reviews:
     rating: 5
     comment: |
       Aaaaamazing!!!! Been craving smoked meat, and Memphis just popped up on my search bar, perfect timing. It was phenomenal! Never been a fan of baked beans, but theirs? Total exception. Sooo good!
-  - name: "F. M"
-    rating: 3
+  - name: "Terra Won"
+    rating: 5
     comment: |
-      I wanna start this review by saying the staff was nothing but exceptionally nice. The vibes were great and the price was fair. Unfortunately, I just did not enjoy the food. I would give the food a 5 out of 10. I found the fish to be dry and they also got some of the items on our order wrong. We also ordered the nachos and they just did not taste good and were missing the chimichurri. Everything else tho  was awesome, but I just wouldn’t go back because the food was mid.
+      A great little treasure in the north end, the staff were fast, friendly and know their stuff. Need meat sweats? this is a great place to get them
+      Also, the blues music is as good as the food and service 👌
 hours:
   monday: "11:00 AM–8:00 PM"
   tuesday: "11:00 AM–8:00 PM"

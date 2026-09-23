@@ -5,7 +5,7 @@ category: "gyms-fitness"
 neighborhood: "Beaumont"
 address: "2803 Whitemud Dr NW, Edmonton, AB T6E 5B3"
 rating: 5
-review_count: 26
+review_count: 31
 tier: "featured"
 phone: "(587) 206-0060"
 website: "https://loregym.com/"

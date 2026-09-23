@@ -5,7 +5,7 @@ category: "gyms-fitness"
 neighborhood: "Beaumont"
 address: "Garage around back, 6604 64 Ave, Beaumont, AB T4X 2P6"
 rating: 4.8
-review_count: 16
+review_count: 17
 tier: "featured"
 phone: "(780) 399-4555"
 website: "https://www.ironhillathletics.ca/"

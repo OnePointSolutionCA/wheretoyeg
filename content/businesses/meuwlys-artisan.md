@@ -28,6 +28,12 @@ tags: ["bakery", "artisan", "prepared-foods"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Carrie"
+    rating: 5
+    comment: |
+      Chose to book the mobile charcuterie cart from Meuwly’s  for a private event.  The booking process was easy, the set up and take down is seamless and staff were great!
+      
+      Definitely recommend this for a high quality option that levels up your casual or elevated event!
   - name: "Anne Carr-Wiggin"
     rating: 5
     comment: |
@@ -46,8 +52,4 @@ reviews:
     rating: 5
     comment: |
       Soo much artisan selection and local products from spirits to cheese, condiments and meats. There is a lot to offer from this quaint deli located in the best trendy area. I bought a Christmas gift box and the system in place was very handy and simple: you could select the price range and the types of products you wished to have in the box. I am very pleased and this made Christmas shopping SO easy. The online ordering system is straight forward and simple as well. I’m so happy I’m basically neighbours to here - and extremely happy to see Strathcona Spirits products on the shelves!!
-  - name: "Abisaac Saraga"
-    rating: 5
-    comment: |
-      We ordered a charcuterie board from Art of Charcuterie that operates within Meuwly's.  This was a special treat for us as it is our anniversary.  Diana prepared us the most amazing charcuterie box to enjoy at home.  It was well priced for what we received.  The box had a stunning presentation, most items were from Meuwly's and local sourced when possible.  We may have a new option for special occasion meals.
 ---

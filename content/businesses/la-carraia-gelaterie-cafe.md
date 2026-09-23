@@ -30,6 +30,12 @@ tags: ["edmonton", "ice-cream"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Svetlina Antova"
+    rating: 5
+    comment: |
+      La Carraia Gelaterie Cafe is a gem! The service was fantastic — friendly, attentive, and welcoming. The gelato was absolutely amazing, rich and creamy with such fresh flavors. You can tell they take pride in what they make. The cafe itself was spotless and cozy, a great spot to sit and enjoy a treat.
+      
+      Definitely my go-to for gelato in Edmonton. Can’t wait to go back and try more flavors!
   - name: "Vince T"
     rating: 1
     comment: |
@@ -38,10 +44,6 @@ reviews:
     rating: 5
     comment: |
       Amazing experience! The staff was incredibly friendly and helpful, making our visit even better. Our Gelatos were absolutely delicious!
-  - name: "Aaron Wannamaker"
-    rating: 5
-    comment: |
-      The gelato was incredible (specifically the Amarena Cherry flavor) and the staff were very friendly. The staff also confirmed that the ingredients were halal, so that's good for fellow Muslim visitors.
   - name: "Amrit"
     rating: 5
     comment: |

@@ -19,7 +19,7 @@ hours:
   sunday: "10:00 AM–1:00 PM"
 photos: ["/photos/med-supplies-edmonton-1.jpg", "/photos/med-supplies-edmonton-2.jpg", "/photos/med-supplies-edmonton-3.jpg"]
 rating: 4.8
-review_count: 242
+review_count: 244
 price_range: "$$"
 amenities:
   - "In-Store Shopping"
@@ -45,12 +45,12 @@ reviews:
     rating: 5
     comment: |
       Excellent!!! Went here for post operation equipment and supplies 3 times. Each time staff were super helpful and had the equipment I needed. Last visit was for waterproof bandages - staff asked me questions about wound and care needed - sold me the quality and size I needed - no upselling. Highly recommend
+  - name: "Jaclyn Heximer"
+    rating: 1
+    comment: |
+      Very surprised to see mostly positive reviews on here. I wish I could say the same, but unfortunately I can't. I placed my order online in July. The confirmation email said "your order will be shipped by..." and was left blank with no date written in, but at least it said I would be notified when it shipped. A couple weeks went by with no updates so I sent an email inquiring how long it might be, but I received no response. Another week went by and I tried inquiring using their contact form on their website. I finally received a reply the following day apologizing for the delay, with no explanation, but it stated my order would be shipped the following day and an email with tracking would be provided at that time. Here we are almost a full month later and I still have no received any updates, no shipping email, no tracking, no explanation as to what is going on. It's not a complicated order. I can't recommend them to anyone based on my experience.
   - name: "Renee Little"
     rating: 5
     comment: |
       Rented a lift sleeper chair for 8 days. It was very easy booking the rental and delivery/pick up. Delivery was as arranged and communication was very good. The whole team is also very friendly and helpful which made the experience easy and positive.
-  - name: "Gurtej Dhillon"
-    rating: 5
-    comment: |
-      Great experience! They helped me find the perfect seat cushion and delivered it quickly. Friendly, knowledgeable staff and hassle-free service. Highly recommend!
 ---

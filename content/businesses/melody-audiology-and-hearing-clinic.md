@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "11104 102 Ave NW Unit 200, Edmonton, AB T5K 1M1"
 rating: 4.5
-review_count: 104
+review_count: 105
 tier: "featured"
 phone: "(587) 818-5844"
 website: "http://melodyaudiology.com/"
@@ -21,12 +21,6 @@ reviews:
     rating: 5
     comment: |
       Excellent and cheerful work from Jenny, who went above and beyond in acquiring device for hearing TV and helping me tune it to my hearing aids, as well as great service in all my checkups.
-  - name: "Madeline Fahler"
-    rating: 5
-    comment: |
-      0 stars for ent and 5 stars for the Melody clinic
-      
-      My partner had an appointment with Dr Omar the ent and a hearing test at the Melody. When we arrived to check in the ent receptionist was short with us, rude and dismissive. I was the one who checked in my partner who had gone to the bathroom and the receptionist said “I need there id” I said they would be out in a minute and she rolled her eyes and walked away. Another women came out and gave us a form and told us to check in with the Melody clinic where the experience was a 180. Hannah was the sweetest person. I had questions about our referral and she was honest saying she didn’t know much about ent part but she would help how she could. Jenny did the hearing test, was very knowledgeable and helpful and explained things in detail. When we purchase hearing aids it will be through Jenny and Hannah.
   - name: "Zaida Plantinos"
     rating: 5
     comment: |
@@ -35,6 +29,10 @@ reviews:
     rating: 5
     comment: |
       They are very kind and welcoming, and assistance is provided very quickly. I thank them for their efforts.
+  - name: "Angelo Garfin"
+    rating: 5
+    comment: |
+      10 out 5 ,the best Audiology Clinic. Meet with jenny, she is very nice,informative and helpful. Highly recommended.
 hours:
   monday: "8:30 AM–4:30 PM"
   tuesday: "8:30 AM–4:30 PM"

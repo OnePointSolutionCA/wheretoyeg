@@ -5,8 +5,8 @@ category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "7301 101 Ave NW, Edmonton, AB T6A 0H9"
-rating: 4.7
-review_count: 101
+rating: 4.8
+review_count: 107
 tier: "featured"
 phone: "(780) 456-1266"
 website: "https://www.jomaaspizzacapilano.ca/"

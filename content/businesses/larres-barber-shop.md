@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/larres-barber-shop-1.jpg", "/photos/larres-barber-shop-2.jpg", "/photos/larres-barber-shop-3.jpg"]
 rating: 4.9
-review_count: 619
+review_count: 621
 price_range: "$$"
 amenities:
 
@@ -28,10 +28,6 @@ tags: ["edmonton", "classic-cuts"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Dawn Lameman"
-    rating: 5
-    comment: |
-      My son always disliked haircuts especially after his auntie decided to stop cutting hair altogether. Over the years we tried many places and he always found a reason to never go back. Then one day we ended up at Larre’s Barber Shop and they changed everything. Mike put my son at ease and really took the time to connect with him. My son is quiet so I wasn’t sure what his feedback would be. To my surprise, he loved the experience and it’s the only place he will get his hair cut. All of the guys are great, Mike just has a unique way of interacting with my son that puts him at ease. My son appreciates his attention to detail and that he respects his requests for each haircut. I highly recommend this place!
   - name: "marilin muñoz"
     rating: 5
     comment: |
@@ -55,4 +51,8 @@ reviews:
       
       Bottom line is his work is good and very professional.
       Good Luck with your haircut.
+  - name: "Chris"
+    rating: 5
+    comment: |
+      Very happy with my experience here. Great service, good vibes, very professional. Mike fixed up a bad haircut  and made me look like a GQ model. Thanks buddy
 ---

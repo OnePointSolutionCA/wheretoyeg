@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Windermere"
 address: "5011 Mullen Rd, Edmonton, AB T6R 0S9"
 rating: 4.3
-review_count: 296
+review_count: 297
 tier: "featured"
 phone: "(780) 440-3553"
 website: "https://www.lovepizza.ca/edmonton-rabbit-hill"

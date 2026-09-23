@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/jacks-burger-shack-1.jpg", "/photos/jacks-burger-shack-2.jpg", "/photos/jacks-burger-shack-3.jpg"]
 rating: 4.6
-review_count: 342
+review_count: 344
 price_range: "$"
 amenities:
   - "Dine-In"

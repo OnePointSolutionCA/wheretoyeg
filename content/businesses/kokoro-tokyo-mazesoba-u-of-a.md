@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–11:00 PM"
 photos: ["/photos/kokoro-tokyo-mazesoba-u-of-a-1.jpg", "/photos/kokoro-tokyo-mazesoba-u-of-a-2.jpg", "/photos/kokoro-tokyo-mazesoba-u-of-a-3.jpg"]
 rating: 4.8
-review_count: 426
+review_count: 440
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,6 +30,14 @@ tags: ["edmonton", "ramen"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Papawadee Lohavanijaya (Bvlgar)"
+    rating: 5
+    comment: |
+      I tried the seasonal menu, and it was so good! They even offer free rice, which was a nice bonus. The service was excellent, and the staff member who took care of me, Ashira, was incredibly friendly and welcoming. I’ll definitely be coming back!💖
+  - name: "Haoyang Zhou"
+    rating: 5
+    comment: |
+      Excellent service and amazing food. The staff are always friendly and welcoming, and the overall experience is very enjoyable. I go there almost every week because the quality is consistently great.
   - name: "Crítica honesta"
     rating: 5
     comment: |
@@ -42,22 +50,12 @@ reviews:
       The restaurant had a great atmosphere, the food was outstanding, and the customer service truly exceeded our expectations. We felt very welcomed from start to finish.
       
       Highly recommend this place, and I will definitely be coming back again. Thank you for such a wonderful dining experience! 🎉😻
-  - name: "Papawadee Lohavanijaya (Bvlgar)"
-    rating: 5
-    comment: |
-      I tried the seasonal menu, and it was so good! They even offer free rice, which was a nice bonus. The service was excellent, and the staff member who took care of me, Ashira, was incredibly friendly and welcoming. I’ll definitely be coming back!💖
-  - name: "Haoyang Zhou"
-    rating: 5
-    comment: |
-      Excellent service and amazing food. The staff are always friendly and welcoming, and the overall experience is very enjoyable. I go there almost every week because the quality is consistently great.
   - name: "Angel (Angel)"
     rating: 5
     comment: |
       We had the best service here on Father’s Day! Great deal too. Amazing food!! So happy that they opened a restaurant in Edmonton. Also 5++ stars that they play Monkey Majik
-  - name: "Minh Nhat Nguyen"
+  - name: "John Pang"
     rating: 5
     comment: |
-      Great atmosphere!
-      The service is great. The servers took their time to take care of us.
-      Good place to stop by for lunch!
+      Great food. I have this noodle and come with free rice at the end. Mixing the sauce with rice is a bonus experience. Definitely will come back again.
 ---

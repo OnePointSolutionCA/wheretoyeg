@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Mill Woods"
 address: "8424 109 St NW, Edmonton, AB T6G 1E2"
 rating: 4.7
-review_count: 256
+review_count: 251
 tier: "featured"
 phone: "(780) 757-2600"
 website: "https://littlewolfrestaurant.com/"

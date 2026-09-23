@@ -45,12 +45,12 @@ reviews:
       Had some of the locally sourced all natural Alberta meats - you can truly taste the quality!
       I definitely recommend the blueberry sausage - and can’t wait to try the Albert Bison - it looks AMAZING! They ALSO have a huge selection of Eastern European delicacies (try the Herring if that’s your thing - it was fantastic!)
       All in all - you have to go see for yourself. It’s right beside the Tim’s on St.Albert Trail - super easy to get to and definitely a stop if you’re serious about quality.
+  - name: "Deon Beattie"
+    rating: 5
+    comment: |
+      Best biltong and droëwors in town. Excellent customer service, and a wonderful variety of South African options. I have also extended my palate to include a lot of Ukrainian foods, meats, and candies. Definitely one of my favorite shops in Edmonton.
   - name: "L W"
     rating: 5
     comment: |
       This place is a gem in Edmonton. I was wondering where to get better quality meat without driving to the farms myself. They have way more than I expected! They have fresh meat with no hormones and no antibiotics, and the prices are very, very good! They also have imported food from Europe which is a BONUS if you are trying to eat cleaner. Food in Canada and USA have too many chemicals but European food is much safer and cleaner. They have a great selection of local Alberta meats like sausage, smoked meat, beef and chicken jerky, frozen and fresh meats from pork, beef, chicken, bison and more. They have Canadian honey, elderberry and pine needle honey, jam, spices, cookies, sauces etc. They also have a big fridge full of prepared Ukrainian food like soups, borscht cabbage rolls etc. They even have raw dog food. If you have been looking for Ukrainian products to support Ukraine come here and you'll see teas, cookies, chocolates imported from Ukraine. Also there were Bulgarian, Polish and Lithuanian products and more. I highly recommend this shop. Customer service is top notch as well. I'll be back for sure.
-  - name: "ZenVida Wellness"
-    rating: 3
-    comment: |
-      Recently stopped in to pick up some South African dried sausage.  The service was great and friendly and the store was well stocked.  Unfortunately the dried sausage was not great, it was very wet and fattier than most I have had before.  I had to hang it in my biltong box to dry out more before I could eat it.  So with this in mind one ends up paying more $/kg when it’s wetter as it’s heavier. Once dried properly the taste also improved. It would have been nice to know,  before buying, that it was still wet, luckily we make our own from time to time so I was able to dry it out more.
 ---

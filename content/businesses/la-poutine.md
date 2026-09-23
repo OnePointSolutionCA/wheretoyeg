@@ -42,12 +42,12 @@ reviews:
     rating: 5
     comment: |
       Brought my intended parents (im a surrogate) to here for their very first canadian poutine. They are fron london England 🇬🇧,  and they LOVED it. It was also my first time trying the establishment and I cant eat poutine anywhere else now 💜 met the owner and he was just amazing. Although I think they need a bigger seating area it fit us just fine 🙂
-  - name: "Rob Haynes"
-    rating: 5
-    comment: |
-      I stopped in here to give them a try and was pleasantly surprised!  I got the edgy veggie poutine and enjoyed every bite.  If you are itching for some poutine, give this place a whirl as they have several different ways you can get one done up, even specials that are not normally on the menu.  Pleasant atmosphere to done in, easy enough to get take out.  Plus the service was fast and friendly!
   - name: "Abigail Unruh"
     rating: 5
     comment: |
       Our family visited La Poutine for supper with our 3 young kids. It is a cute, clean, welcoming little shop. The staff was friendly and very accommodating. We sat outside and our food was brought to us which was very much appreciated. The kids had the mini classic poutines, my husband had the Perogie, and I had the Quebecoise 2.0. The portions were great for the price. They all tasted fantastic and had all the makings of a well balanced poutine. We will definitely be back. Thank you, La Poutine!
+  - name: "Charlie Marquis"
+    rating: 5
+    comment: |
+      The lady behind the counter was friendly and nice. The poutine was amazing !!!!!! Soooo good best poutine I’ve ever had. Would definitely come back and get something different as well.
 ---

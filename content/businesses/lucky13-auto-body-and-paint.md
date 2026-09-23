@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/lucky13-auto-body-and-paint-1.jpg", "/photos/lucky13-auto-body-and-paint-2.jpg", "/photos/lucky13-auto-body-and-paint-3.jpg"]
 rating: 4.9
-review_count: 154
+review_count: 153
 price_range: "$$"
 amenities:
 

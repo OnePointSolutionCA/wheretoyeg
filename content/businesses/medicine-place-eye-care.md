@@ -40,6 +40,10 @@ reviews:
     rating: 5
     comment: |
       Amazing experience at Medicine Place Eye Care! Ayah, Layal, and Eman are the best opticians. They were so friendly, helpful, and made finding the perfect glasses so easy. I absolutely love my new glasses! The customer service was amazing, and I highly recommend them!
+  - name: "Wayne Anderson"
+    rating: 5
+    comment: |
+      Update on Eye 👁️ care . Ayah is an amazing technician and gives you all of her attention when promoting the company. Eye care is so important to those who require eye ware.  I’m a diabetic so good eye care is very important.  The technicians and the Manager all gave me their full attention and provided expert advice on both reading and sun glass decisions. Highly recommend this office.  There is so much competition in eyeware, choosing Medicine Place Eyecare is the right decision by far
   - name: "Jenan Saleh"
     rating: 5
     comment: |
@@ -56,8 +60,4 @@ reviews:
       Was walking in the clinic to get my second vaccine shot & I also decided to tighten up my glasses because they were falling off of me.
       So I ask the kind lady if she can fix my glasses. And she did with our no fuss. She was super friendly and knew what she was doing.
       In all, what a friendly environment.
-  - name: "Tori Raposo"
-    rating: 5
-    comment: |
-      I broke one of my lenses and needed to get it replaced as soon as possible. Ayat Al Mustapha was the optical manager who assisted us today, and she was fantastic. She was considerate, polite, and explained everything clearly. She also helped me get exactly what I needed for a good price. Great customer service, will definitely be going back!
 ---

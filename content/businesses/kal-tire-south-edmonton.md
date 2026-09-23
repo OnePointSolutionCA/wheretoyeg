@@ -18,7 +18,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/kal-tire-south-edmonton-1.jpg", "/photos/kal-tire-south-edmonton-2.jpg", "/photos/kal-tire-south-edmonton-3.jpg"]
 rating: 4.2
-review_count: 410
+review_count: 409
 price_range: "$$"
 amenities:
   - "Free Estimates"
@@ -39,10 +39,6 @@ reviews:
     rating: 5
     comment: |
       Kal Tire found a small screw that was causing a leak and fixed the tire.  They then did a tire rotation on my vehicle.  The cost - FREE...since I bought all four of my tires with them last year.  Great company!  I would highly recommend getting All Weather tires from them.  It is worth the price for the awesome service.
-  - name: "Anita"
-    rating: 5
-    comment: |
-      I had such a great experience with this store from start to finish. Aaron is very thorough, organized and attentive, and it’s clear that his leadership reflects in the way the store operates. You can see the care he puts into his customers and staff. Highly recommend !
   - name: "Ermal Morina"
     rating: 5
     comment: |
@@ -53,4 +49,8 @@ reviews:
     rating: 5
     comment: |
       Me and my husband went to get the tyre rotation done and get tyre thread checked. We reached this location at 5.40pm and they were closing at 6pm. Sharif and his colleague helped us happily. They were very professional, efficient and answered all our questions. Since two of tyres were purchased from Kal Tire in 2023, they didn't charge us. I really appreciate they honoured their policy. We came to this location after having a terrible customer service experience at millwoods canadian tire. So, I really want to thank Sharif and his coworker for treating us as a valued customer. Highly recommend this location for tyre services.
+  - name: "Melissa Pantinople"
+    rating: 5
+    comment: |
+      I have changed all of my tire needs over to this shop. All of the staff that I have dealt with have been professional and kind. They work quickly and I appreciate all of the information that they are able to provide me. Best tire service by far!
 ---

@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "124 Street"
 address: "10522 124 St, Edmonton, AB T5N 1R9"
 rating: 4.4
-review_count: 263
+review_count: 260
 tier: "featured"
 phone: "(780) 438-6880"
 website: "http://www.restaurantmay.ca/"
@@ -13,6 +13,10 @@ google_maps: "https://maps.google.com/?cid=13882112252741385438&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/may.jpg"
 reviews:
+  - name: "Agnes Domingo"
+    rating: 5
+    comment: |
+      Their brewed coffee tastes great, and I enjoyed their cornbread benny so much! The cornbread is to die for! 😭 Customer service is straightforward and friendly, not overbearing. I appreciate a friendly service without having to do some small talk. The place feels elegant, too, perfect for date nights. 👌
   - name: "Lisa Caputo"
     rating: 1
     comment: |
@@ -23,10 +27,6 @@ reviews:
       While I understand that food costs are high and profit margins are low (I’ve been an owner in the food industry for over 23 years), it is unacceptable for a restaurant to serve burnt, stale, or poorly cooked food.
       
       We intentionally made our reservation for a later time on Father’s Day to avoid the rush. We were the only table in the restaurant, which meant the food should have been perfect, as we were the only table they were cooking for at that moment.
-  - name: "Agnes Domingo"
-    rating: 5
-    comment: |
-      Their brewed coffee tastes great, and I enjoyed their cornbread benny so much! The cornbread is to die for! 😭 Customer service is straightforward and friendly, not overbearing. I appreciate a friendly service without having to do some small talk. The place feels elegant, too, perfect for date nights. 👌
   - name: "Timothy Persad"
     rating: 5
     comment: |

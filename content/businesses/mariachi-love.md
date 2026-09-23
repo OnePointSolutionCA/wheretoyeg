@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "St. Albert"
 address: "11 Bellerose Dr Unit 9, St. Albert, AB T8N 5C9"
 rating: 4.7
-review_count: 481
+review_count: 487
 tier: "featured"
 phone: "(780) 569-5562"
 website: "https://order.toasttab.com/online/mariachi-love"

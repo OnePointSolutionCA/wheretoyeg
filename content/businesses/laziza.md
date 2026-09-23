@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Castle Downs"
 address: "15277 Castle Downs Rd NW, Edmonton, AB T5X 3N5"
 rating: 4.4
-review_count: 456
+review_count: 457
 tier: "featured"
 phone: "(780) 757-8787"
 website: "https://laziza-edmonton.com/"

@@ -18,16 +18,6 @@ reviews:
     rating: 5
     comment: |
       Decided to give Kingsway Dental a try after one of my colleagues recommended them. Dr. Iyad Al-Qishawi Is amazing! Just did my root canal, 10/10. Glad I found him as a dentist and will definitely be sticking with this clinic.
-  - name: "Mariah Holman"
-    rating: 5
-    comment: |
-      I cannot recommend this clinic enough!! They treat patients with such kindness and understanding. Dr.Iyad is especially such a fantastic Dentist!!
-      
-      When my benefits were near running out they made it a priority to squeeze me in to get as much work done as possible.
-      
-      If you are nervous about going to the Dentist I would about recommend coming here.
-      
-      This is very over due review but thank you all again!
   - name: "Morya Habte"
     rating: 5
     comment: |
@@ -50,6 +40,16 @@ reviews:
       I had a great experience at Kingway Dental Center! The whole team is very accommodating and made me feel comfortable from start to finish. They really take the time to make sure everything is well taken care of and explained clearly.
       
       Special thanks to Dr. Iyad for being so professional, gentle, and attentive. You can tell they truly care about their patients. Highly recommend!
+  - name: "Muhammad Yousuf"
+    rating: 5
+    comment: |
+      I had an excellent experience at Kingsway Dental Centre. About two weeks ago, I visited the clinic at night while most places were already closed. From the moment I arrived, the team greeted me warmly and made me feel comfortable during a very painful situation.
+      
+      Dr. Muhammad was professional, caring, and took the time to address my dental pain and provide the treatment I needed. His assistant, Harry, was also incredibly helpful, kind, and supportive throughout the visit. The entire staff on duty that evening showed genuine compassion and outstanding customer service.
+      
+      I arrived at the clinic in pain and distress, but I left with a smile on my face. I am truly grateful to Dr. Muhammad, Harry, and the whole team for their excellent care and professionalism.
+      
+      I have another appointment coming up soon, and I am looking forward to seeing their friendly faces again. Highly recommended to anyone looking for a caring and professional dental team.
 hours:
   monday: "8:00 AM–10:00 PM"
   tuesday: "8:00 AM–10:00 PM"

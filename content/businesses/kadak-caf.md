@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Beaumont"
 address: "6818 Ellerslie Rd SW, Edmonton, AB T6X 1A3"
 rating: 4.6
-review_count: 1210
+review_count: 1215
 tier: "featured"
 phone: "(780) 756-6681"
 website: "https://www.kadakcafe.ca/"

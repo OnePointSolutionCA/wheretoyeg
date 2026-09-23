@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "3422 Ewing Trail SW, Edmonton, AB T6X 2X2"
 rating: 4.9
-review_count: 686
+review_count: 696
 tier: "featured"
 phone: "(780) 626-1313"
 website: "http://khalsagpizza.ca/"

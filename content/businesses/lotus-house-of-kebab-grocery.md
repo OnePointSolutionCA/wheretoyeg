@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–10:00 PM"
 photos: ["/photos/lotus-house-of-kebab-grocery-1.jpg", "/photos/lotus-house-of-kebab-grocery-2.jpg", "/photos/lotus-house-of-kebab-grocery-3.jpg"]
 rating: 4.7
-review_count: 510
+review_count: 514
 price_range: "$$"
 amenities:
   - "Dine-In"

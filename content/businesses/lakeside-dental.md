@@ -44,10 +44,10 @@ reviews:
       Dr. Gladys Pohl is one of the best dentists I've ever encountered. During an especially difficult procedure, she was always making sure I was doing fine and telling me to let me know if I needed a break.
       
       Everyone who works at Lakeside behaves in a similar fashion - always friendly and willing to go the extra mile to ensure their patients are happy and comfortable. If you are looking for a new dentist, I would highly recommend this practice.
-  - name: "Kelly-Anne Hollingshead"
+  - name: "Terry ODonnell"
     rating: 5
     comment: |
-      My husband and I have been going to Dr Pohl for many years, and have always been really happy with the care we get. I have dental anxiety, and Dr Pohl is very patient, encouraging me to bring my knitting, since it helps me stay calm while she works. Her hygienist is also excellent, numbing my gums before tackling my teeth, and distracting me as she works.
+      What a wonderful clinic, welcoming, caring,  and friendly.  Not many people like to go to the Dentist, but this clinic makes you feel at ease.  They are also bi-lingual.  They speak Spanish and English, so great if there is a language problem.  Give them a try, you won't be disappointed.
 hours:
   monday: "8:30 AM–4:00 PM"
   tuesday: "8:30 AM–4:00 PM"

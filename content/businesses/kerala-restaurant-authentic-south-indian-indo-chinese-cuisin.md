@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–9:00 PM"
 photos: ["/photos/kerala-restaurant-authentic-south-indian-indo-chinese-cuisin-1.jpg", "/photos/kerala-restaurant-authentic-south-indian-indo-chinese-cuisin-2.jpg", "/photos/kerala-restaurant-authentic-south-indian-indo-chinese-cuisin-3.jpg"]
 rating: 4.8
-review_count: 90
+review_count: 91
 price_range: "$$"
 amenities:
   - "Halal"
@@ -45,12 +45,12 @@ reviews:
     rating: 5
     comment: |
       Excellent food and welcoming service. Truly appreciated the Kerala flavours...
-  - name: "Dona Eldhose"
-    rating: 5
-    comment: |
-      Had a lovely experience here — very nice Kerala food with authentic flavour and a real homely feel. The dishes were fresh, tasty, and full of traditional Kerala taste.  Everyone is warm and welcoming, which made the experience even better. Definitely a great place if you’re craving proper Kerala food. Highly recommended 😊…Love it ♥️and thank u sooo much 🥰
   - name: "Peter John Ruiz"
     rating: 5
     comment: |
       Delicious and authentic Kerala food, excellent service, and a clean, welcoming atmosphere. A perfect place to visit and your cravings will surely leave satisfied. Highly recommended!
+  - name: "Jithin Mohan"
+    rating: 5
+    comment: |
+      I absolutely loved the food here! 😋 Everything was so flavorful and cooked to perfection. The service was fantastic, and the atmosphere was cozy and inviting. Definitely a must-visit! ✨💯
 ---

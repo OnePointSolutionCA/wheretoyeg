@@ -19,8 +19,8 @@ hours:
   saturday: "9:00 AM–2:00 PM"
   sunday: "Closed"
 photos: ["/photos/mayfield-eye-centre-1.jpg", "/photos/mayfield-eye-centre-2.jpg", "/photos/mayfield-eye-centre-3.jpg"]
-rating: 4.2
-review_count: 63
+rating: 4.1
+review_count: 64
 price_range: "$$"
 amenities:
 

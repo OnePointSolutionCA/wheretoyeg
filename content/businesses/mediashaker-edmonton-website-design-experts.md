@@ -28,14 +28,14 @@ tags: ["edmonton", "marketing-web"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Chelsey Benzel"
-    rating: 5
-    comment: |
-      We have been very impressed with Mediashaker's support in redesigning and now hosting our website. They have shown their expertise at every stage throughout the process, and we felt supported with all the knowledge we needed when it came time to hand off ownership to our team following the initial build. Even then, the team has been quick to respond to any questions or requests we've made since handoff. Thanks Dragan for all your help! Highly recommend Mediashaker!
   - name: "Brian Cassidy"
     rating: 5
     comment: |
       Finding a new provider for our ageing website wasn’t easy. Mediashaker, a Canadian company, was up to the task with a refreshing new approach to membership and database management and other requirements unique to genealogy societies. Good initial communications laid out a solid framework for transition and helped to set expectations. Since going live on the new site, they have been quick to address outstanding issues. Their very professional and personable staff have given us confidence that this new website will give us the stability and flexibility we were looking for and will stand the test of time.
+  - name: "Chelsey Benzel"
+    rating: 5
+    comment: |
+      We have been very impressed with Mediashaker's support in redesigning and now hosting our website. They have shown their expertise at every stage throughout the process, and we felt supported with all the knowledge we needed when it came time to hand off ownership to our team following the initial build. Even then, the team has been quick to respond to any questions or requests we've made since handoff. Thanks Dragan for all your help! Highly recommend Mediashaker!
   - name: "Alberta Federation of Rural Water Co-ops"
     rating: 5
     comment: |

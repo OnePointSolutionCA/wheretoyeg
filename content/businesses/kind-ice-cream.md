@@ -20,8 +20,8 @@ hours:
   saturday: "11:00 AM–10:00 PM"
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/kind-ice-cream-1.jpg", "/photos/kind-ice-cream-2.jpg", "/photos/kind-ice-cream-3.jpg"]
-rating: 4.7
-review_count: 1352
+rating: 4.6
+review_count: 1345
 price_range: "$$"
 amenities:
   - "Vegan Options"
@@ -41,6 +41,11 @@ reviews:
       They happily let us try a few samples before deciding, which made the experience even more fun, and they had great gluten-free options too! The ice cream itself was incredible — fresh, rich, and honestly some of the most delicious flavours we’ve had in a long time.
       
       The shop also has super cute merch and a cozy space where you can sit and enjoy your treats. Every detail about this place feels thoughtful and warm. If I could give more than 5 stars, I absolutely would. Can’t wait to go back!
+  - name: "Kel Shaw"
+    rating: 3
+    comment: |
+      Nice little shop. Friendly gal who attended to us. Their price point is a bit high for what you get, the scoops are on the smaller size and at 8 dollars for an double scoop Additionally I found the ice cream a bit lack lustre in the flavor department. We both found it a bit blah. Not a bad ice cream
+      Just not something I would rush back to.
   - name: "Twitchy"
     rating: 4
     comment: |
@@ -55,12 +60,4 @@ reviews:
     rating: 5
     comment: |
       My favourite ice cream shop in Edmonton! The flavours are fun and the vegan ones are so so good. I usually go every month to try one of their monthly features because they're so unique and delicious! The staff are really nice too and always brighten my day. It isn't just the ice cream that keeps me coming back (though seriously it's so good!!!), they're definitely part of why I love the place so much!
-  - name: "McGriffin Correos"
-    rating: 5
-    comment: |
-      Loved their “always” flavoured ice cream. The “rotating” ones are usually in season.
-      Got their River Valley Road flavour which is essentially like the Chocolate Milk but with marshmallows and other toppings.
-      Great texture and got it with their waffle cones.
-      The service was amazing - can’t complain.
-      The ambiance was also amazing - the whole place smelled like waffles.
 ---

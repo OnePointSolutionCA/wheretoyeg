@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–10:00 PM"
 photos: ["/photos/japonais-windermere-1.jpg", "/photos/japonais-windermere-2.jpg", "/photos/japonais-windermere-3.jpg"]
 rating: 4.5
-review_count: 974
+review_count: 977
 price_range: "$$"
 amenities:
   - "Dine-In"

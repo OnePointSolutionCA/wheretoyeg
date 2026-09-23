@@ -20,7 +20,7 @@ hours:
   sunday: "7:00 AM–6:45 PM"
 photos: ["/photos/jasper-place-leisure-centre-1.jpg", "/photos/jasper-place-leisure-centre-2.jpg", "/photos/jasper-place-leisure-centre-3.jpg"]
 rating: 4.1
-review_count: 303
+review_count: 302
 price_range: "$$"
 amenities:
 

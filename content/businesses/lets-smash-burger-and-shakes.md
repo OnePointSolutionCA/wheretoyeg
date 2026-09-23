@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–12:00 AM"
 photos: ["/photos/lets-smash-burger-and-shakes-1.jpg", "/photos/lets-smash-burger-and-shakes-2.jpg", "/photos/lets-smash-burger-and-shakes-3.jpg"]
 rating: 4.7
-review_count: 956
+review_count: 959
 price_range: "$"
 amenities:
   - "Dine-In"

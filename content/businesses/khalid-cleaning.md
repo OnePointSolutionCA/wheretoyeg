@@ -25,14 +25,14 @@ reviews:
     rating: 5
     comment: |
       Khalid came through for us on very short notice and delivered excellent, affordable carpet cleaning. His service is a great value and highly recommended. 👏
-  - name: "Jordana"
-    rating: 5
-    comment: |
-      Khalid was very easy to book, arrived on time, was very nice and courteous, and did a great job on my carpets. Charged exactly what he quoted which was super reasonable. Would definitely book again!
   - name: "Eddy Muha"
     rating: 5
     comment: |
       Very good man , professionally cleaned my house , reasonably priced
+  - name: "Farooq Shamshad"
+    rating: 5
+    comment: |
+      Khalid was a complete professional for my move-out clean. I hired him again for a subsequent cleaning service as well. Courteous, professional, and does a great job! Highly recommended!
 hours:
   monday: "Closed"
   tuesday: "Closed"

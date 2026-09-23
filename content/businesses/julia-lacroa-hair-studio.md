@@ -21,10 +21,6 @@ reviews:
     rating: 5
     comment: |
       Julia has been doing my hair since 2021 and I can’t say enough good things about her! She’s amazing at what she does, always listens to what I want, and my hair turns out perfect every time. She’s so easy to talk to, has the best energy, and every appointment is just good vibes all around. I always leave feeling confident and happy. Highly recommend Julia to anyone looking for a stylist who truly cares about her clients! 💛
-  - name: "Emily Neely"
-    rating: 5
-    comment: |
-      Julia is an awesome stylist, if you're a blonde you'll be in good hands with her!
   - name: "Ashley Pinchin"
     rating: 5
     comment: |
@@ -33,6 +29,11 @@ reviews:
     rating: 5
     comment: |
       I’ve had my hair done by Julia for as long as I can remember, since about 2018 and she has always done an outstanding job. She has done everything from platinum blonde all the way to a beautiful chocolate brown, making me feel so good about myself at each stage. She has always prioritized my hair health while ensuring I still leave feeling refreshed and beautiful. In addition to Julia being an incredible hair stylist she creates a relaxing experience for you to unwind in her chair paired with great conversation, it sounds like the best salon service any gal could ask for. I highly recommend Julia!
+  - name: "Richelle Dittmer"
+    rating: 5
+    comment: |
+      I’ve been seeing Julia for over six years, and I can’t recommend her enough! She’s incredibly professional, talented, and always up to date with new techniques and trends. Every visit, she takes the time to listen to what I want and also suggests ideas that keep my style fresh and flattering.
+      If you’re looking for someone who truly cares about her clients and delivers amazing results every time, definitely go see Julia at her new location, Lacroa I can’t wait for my first appointment here it looks amazing.-she”s the best! 💇‍♀️✨
 hours:
   monday: "9:00 AM–4:00 PM"
   tuesday: "11:00 AM–7:00 PM"

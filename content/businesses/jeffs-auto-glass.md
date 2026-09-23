@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/jeffs-auto-glass-1.jpg", "/photos/jeffs-auto-glass-2.jpg", "/photos/jeffs-auto-glass-3.jpg"]
 rating: 4.8
-review_count: 471
+review_count: 473
 price_range: "$$"
 amenities:
 
@@ -49,8 +49,8 @@ reviews:
     comment: |
       Well ever since I did reviews on Vehicle glass replacements I’ve been going to Jeff’s. A couple of windshields and a couple of side windows and with 100% satisfaction. Just can’t get over there low prices and there great staff, so friendly and always keep you updated on how things are going. If you wait there they have comfy lounge chairs and a great place next door to grab a bite to eat.
       I send all my friends there. To some it all up you will never find a better place for price and Quality!!!!
-  - name: "Gerald S"
+  - name: "Mackenzie Brimacombe"
     rating: 5
     comment: |
-      Have been going to Jeff’s for many Years for all my auto glass needs. Great staff, work and prices. Would not even think of taking my vehicles any where else.
+      Brought my car in for a replacement windshield after calling 6 places and Jeffs being the best priced. From the moment I entered everyone was very friendly and helpful. They have a spacious waiting area I was able to work remotely in as well. I'd definitely recommend Jeffs for all your glass work needs!
 ---

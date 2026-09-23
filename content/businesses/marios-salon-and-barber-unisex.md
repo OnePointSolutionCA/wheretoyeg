@@ -27,23 +27,23 @@ reviews:
       Mario completely turned my experience around and honestly made my day. I can't thank him enough and would highly recommend him to anyone looking for a talented stylist who truly cares about his clients.
       
       Thank you, Mario!
+  - name: "Anthony Kulak"
+    rating: 5
+    comment: |
+      Sonya has been my longtime hairdresser, always does a great job and knows how to cut hair (not just use clippers).  Often I have to walk in without an appointment or come near close because of my work hours and she always always makes it happen if she can! Great service!
+  - name: "Pardip Chopra"
+    rating: 5
+    comment: |
+      Sonia did the most amazing job on my hair! She took the time and effort to make it look perfect and I am extremely happy with the end result! Highly recommend!
+  - name: "Gurpreet Basatia"
+    rating: 5
+    comment: |
+      My wife and I , both go to this saloon. Hands down one of the best haircuts I’ve had. Sonia is super consistent, listens to exactly what I want, and adds her own touch to make it even better. The fade is always sharp and the finish is clean every time. Chill vibe, professional , great service, and worth every visit.
   - name: "Ken Koncur"
     rating: 5
     comment: |
       I have been going since day one & Jay has done a great job since taking over from cousin Mario. All the hairstyles are great & take tremendous care of your hair, also tanning, acupuncture. Great  people.
       Ken K.
-  - name: "Jasenpreet Sidhu"
-    rating: 5
-    comment: |
-      I recently got my hair done at Mario’s and Sonia did my balayage and gave me exactly what I wanted. She really listened to what I was going for and made sure everything turned out perfect. The colour looks super natural and blends so nicely. I walked out so happy with my hair. She did such an amazing job, I’d definitely recommend her!
-  - name: "Musika 101"
-    rating: 5
-    comment: |
-      I’ve been under Sonia’s care for more than a decade now. She’s excellent at what she does ( haircut, hair color/highlights, hair styling, threading). I always am very satisfied with her work. I live in Edmonton and Sonia is worth the drive to Beaumont!
-  - name: "Anthony Kulak"
-    rating: 5
-    comment: |
-      Sonya has been my longtime hairdresser, always does a great job and knows how to cut hair (not just use clippers).  Often I have to walk in without an appointment or come near close because of my work hours and she always always makes it happen if she can! Great service!
 hours:
   monday: "10:00 AM–6:30 PM"
   tuesday: "10:00 AM–6:30 PM"

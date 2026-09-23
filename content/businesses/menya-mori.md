@@ -19,7 +19,7 @@ hours:
   sunday: "11:00 AM–2:00 PM"
 photos: ["/photos/menya-mori-1.jpg", "/photos/menya-mori-2.jpg", "/photos/menya-mori-3.jpg"]
 rating: 4.7
-review_count: 662
+review_count: 668
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -45,6 +45,14 @@ reviews:
     rating: 4
     comment: |
       We came here because of the high ratings.  We like the service and atmosphere.  The food is mostly good.  The ramen and chasui are very good.  The braised beef is way too salty.
+  - name: "Jonah Simpson (Mighty Jonah)"
+    rating: 5
+    comment: |
+      One of the best Ramen places I ever had.
+      
+      The ramen broth had deep flavor, It wasn't too heavy, the noodles were nice and firm, and the fried chicken was very crispy And juicy.
+      
+      Me and my friends will definitely visit again when we're in Edmonton again!
   - name: "Colin Boras"
     rating: 5
     comment: |
@@ -63,8 +71,4 @@ reviews:
       Will definitely be back.
       
       5 x 🍜 🍜 🍜 🍜 🍜
-  - name: "Mike Kehl"
-    rating: 5
-    comment: |
-      I rarely give 5 stars but this is a standout. The ramen is probably one of the best I’ve had in Canada. It’s better than the Michelin recommended places I have been to in MTL and Toronto and on par with some of the ramen I have had in Japan. Definitely try the fried chicken, the texture and flavour are perfect and it is delicious. I will come back every time I visit Edmonton.
 ---

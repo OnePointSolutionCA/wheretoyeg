@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/khan-kebabs-karahi-halal---authentic-pakistani-afghani-cuisi-1.jpg", "/photos/khan-kebabs-karahi-halal---authentic-pakistani-afghani-cuisi-2.jpg", "/photos/khan-kebabs-karahi-halal---authentic-pakistani-afghani-cuisi-3.jpg"]
 rating: 4.6
-review_count: 2068
+review_count: 2077
 price_range: "$$"
 amenities:
   - "Halal"

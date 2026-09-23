@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "Edmonton"
 address: "9420 91 St, Edmonton, AB T6C 3P4"
 rating: 4.7
-review_count: 309
+review_count: 310
 tier: "featured"
 phone: "(587) 201-3888"
 website: "https://letramway.ca/"
@@ -38,15 +38,16 @@ reviews:
     rating: 5
     comment: |
       Decided to check out a local place and was treated with a great brunch on Canada Day.  Food was healthy and delicious, service great and the room was very pleasant. Love the chairs.
-  - name: "john kovac"
+  - name: "Colin and Lorraine Stone"
     rating: 5
     comment: |
-      This is our first time there and what a wonderful experience.  The atmosphere is awesome and the food was amazing.  The owners are so wonderful.  Nick and Sham are so personable and introduced themselves as well as their two little ones. Grant our server was very sweet and took great care of us. We will definitely be going back!
+      Fabulous little bistro run by a lovely family and serving awesome breakfasts and good lattes. Chairs are comfortable and the bistro is cosy and inviting. Such a great addition to the neighborhood and an amazing discovery for those of us who like a genteel setting for a nice chat and beverage with friends.
+      Would highly recommend
 hours:
   monday: "9:00 AM–3:00 PM"
   tuesday: "Closed"
   wednesday: "9:00 AM–3:00 PM"
-  thursday: "9:00 AM–3:00 PM"
+  thursday: "Closed"
   friday: "9:00 AM–3:00 PM"
   saturday: "9:00 AM–5:00 PM"
   sunday: "9:00 AM–3:00 PM"

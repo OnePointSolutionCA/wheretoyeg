@@ -29,6 +29,10 @@ tags: ["tax", "accounting", "bookkeeping"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Celina Vipond"
+    rating: 5
+    comment: |
+      Great experience! We were able to walk in and have a very complicated tax return completed in half an hour. They were able to process retroactive pay and help with reassessment documentation from previous years. They handled everything so we were able to go relax and come back to collect the return. Our tax person Allen was friendly, personable and agreeable. He was open to figuring out the hard part of the return without question.
   - name: "Charlie McFadden"
     rating: 5
     comment: |
@@ -41,10 +45,6 @@ reviews:
     rating: 5
     comment: |
       First time going there, I usually go to an other one, but it was actually pretty nice really helpful workers professional too. I enjoyed my visit,10/10.
-  - name: "Cheryl Shingoose"
-    rating: 5
-    comment: |
-      Quick and friendly. My husband were impressed with how fast he was able to complete our taxes.
   - name: "Dianne Lambert"
     rating: 5
     comment: |

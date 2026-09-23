@@ -32,14 +32,14 @@ reviews:
     rating: 5
     comment: |
       An absolutely beautiful studio! It was my first shoot in a studio and I had a lovely time there. Would definitely recommend it to anyone in the Edmonton area and the surrounding cities as it's a really comfortable environment, lots of parking and a great time!
-  - name: "John Diep"
-    rating: 5
-    comment: |
-      I really enjoyed shooting at Kelly's Dad Rock studio!  Both my client and I were impressed with the organization of the place, and the variety of content we were able to produce there.  Kelly takes care to ask for any specific needs prior to our arrival, so it was all laid out nicely for us when we arrived.  I would definitely book it again!
   - name: "Dhieu Mayom Deng (Goodnews)"
     rating: 5
     comment: |
       My family and I were really impressed by Kelly’s exceptional photographic skills and people’s skills. The whole session was breathtaking. My family will definitely come back to Dad Rock Studio. Everyone in my family loved the photos. We promised to spread the word to our colleagues and friends, because it was affordable and the photos were so nice.
+  - name: "John Diep"
+    rating: 5
+    comment: |
+      I really enjoyed shooting at Kelly's Dad Rock studio!  Both my client and I were impressed with the organization of the place, and the variety of content we were able to produce there.  Kelly takes care to ask for any specific needs prior to our arrival, so it was all laid out nicely for us when we arrived.  I would definitely book it again!
   - name: "Daniela Hernandez"
     rating: 5
     comment: |

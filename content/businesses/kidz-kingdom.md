@@ -19,8 +19,8 @@ hours:
   saturday: "10:00 AM–7:00 PM"
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/kidz-kingdom-1.jpg", "/photos/kidz-kingdom-2.jpg", "/photos/kidz-kingdom-3.jpg"]
-rating: 4
-review_count: 48
+rating: 3.9
+review_count: 49
 price_range: "$$"
 amenities:
 

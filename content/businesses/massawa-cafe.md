@@ -20,7 +20,7 @@ hours:
   sunday: "9:30 AM–11:00 PM"
 photos: ["/photos/massawa-cafe-1.jpg", "/photos/massawa-cafe-2.jpg", "/photos/massawa-cafe-3.jpg"]
 rating: 4.5
-review_count: 86
+review_count: 87
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -48,8 +48,8 @@ reviews:
     rating: 4
     comment: |
       I stopped by Massawa Cafe in Edmonton recently as I wanted some Ethiopian food. The restaurant had an interesting decor. In terms of food, I tried their Tibsi Red (keyh). The beef was tender with a nice flavour but not really spicy, and the highlight was definitely the injera. There was quite a bit of food as well so I’d give it 8/10
-  - name: "Mowgli"
+  - name: "Gashaw Fetene"
     rating: 5
     comment: |
-      I ate here twice today as I was in the area. The service was excellent and I dress like semi hood in track suits and Jordan's. I felt respected and not judged. It was an awesome experience
+      Delicious food, excellent services, and friendly staff. I love the vegetarian Platter.
 ---

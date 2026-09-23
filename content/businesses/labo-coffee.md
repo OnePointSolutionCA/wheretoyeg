@@ -36,10 +36,6 @@ reviews:
       Small cafe on Whyte avenue that has unique offerings on their coffee-based drinks but not much on the food side. They had some unique drinks when we went that were decently made.
       
       Interestingly they serve their drinks in glass cups and not mugs, but maybe that’s an aesthetic choice.
-  - name: "Nessa Gomez"
-    rating: 4
-    comment: |
-      Small new cafe, their menu isn’t very extensive. I would have liked more pastries or food offerings as we came in for lunch. The sandwich was very yummy but very small. The inside is nice, i appreciate the sunlight that comes in and i did really like the community bulletin board. Unfortunately i felt the dishes used fell flat and could be more aesthetic, the brown cup just felt… ugly. Why not serve it in a cozy mug ?
   - name: "Britney"
     rating: 5
     comment: |
@@ -54,4 +50,8 @@ reviews:
     rating: 5
     comment: |
       I was an ArtWalk artist and the day after the big storm on Saturday, on Sunday they gave me my matcha latte complimentary as a way to be kind after the craziness of the storm. So sweet of them! 💕
+  - name: "Nessa Gomez"
+    rating: 4
+    comment: |
+      Small new cafe, their menu isn’t very extensive. I would have liked more pastries or food offerings as we came in for lunch. The sandwich was very yummy but very small. The inside is nice, i appreciate the sunlight that comes in and i did really like the community bulletin board. Unfortunately i felt the dishes used fell flat and could be more aesthetic, the brown cup just felt… ugly. Why not serve it in a cozy mug ?
 ---

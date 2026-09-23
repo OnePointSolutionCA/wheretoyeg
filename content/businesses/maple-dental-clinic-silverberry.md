@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Mill Woods"
 address: "3323 34 St NW #203, Edmonton, AB T6T 2K6"
 rating: 4.9
-review_count: 399
+review_count: 400
 tier: "featured"
 phone: "(780) 440-5001"
 website: "https://mapledentalclinic.ca/"
@@ -36,10 +36,14 @@ reviews:
     rating: 5
     comment: |
       I just had my cleaning done today with the hygienist, Manjinder. She is extremely kind and an expert in her profession. The treatment was thorough yet painless! The entire staff is genuinely caring and treats patients with wonderful care. I can’t say enough good things about Maple Dental! Thank you to each and every staff member, especially the receptionists who accommodated my schedule, and Manjinder, of course!😊
-  - name: "Hosnay Mobarok"
+  - name: "Harpreet Shubh"
     rating: 5
     comment: |
-      We have been going to Maple Dental for the past five years and have been very satisfied with the care and service they provide. My dentist Dr Singh and hygienist Gurpreet are highly professional and genuinely wonderful people. They always take the time to listen to our concerns and provide the best possible dental care. I highly recommend Maple Dental.
+      I had a great experience with Dr. Simran at Simran Dental. She has done multiple treatments for me, including fillings, cleaning, and one tooth extraction, and everything went smoothly.
+      
+      She is very professional, gentle, and makes sure you are comfortable throughout the procedure. She explains everything clearly, which really helps reduce any anxiety. The clinic is clean and well-maintained, and the staff are friendly and supportive.
+      
+      I’m really happy with the results and truly appreciate her care and expertise. I would highly recommend Dr. Simran to anyone looking for a skilled and trustworthy dentist.
 hours:
   monday: "8:00 AM–8:00 PM"
   tuesday: "9:00 AM–8:00 PM"

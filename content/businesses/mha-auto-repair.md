@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Beverly"
 address: "12631 Fort Rd NW, Edmonton, AB T5C 3C2"
 rating: 4.8
-review_count: 192
+review_count: 193
 tier: "featured"
 phone: "(780) 476-2113"
 google_maps: "https://maps.google.com/?cid=572577637873952469&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

@@ -38,6 +38,12 @@ reviews:
     rating: 3
     comment: |
       The food was amazing! I ordered camel 🐪 and I’d say I would go back again. But as soon as you walked in the restaurant there’s was an awful stench almost like sewer and the washrooms where very poorly kept.. other then that good food, good soup & good service. Very attentive.
+  - name: "Chuck & Charlie"
+    rating: 4
+    comment: |
+      Food was excellent. Two significant issues to consider. First is that the salad is not much of a salad. This could use some effort. 6 strips of lettuce and pieces of yellow onion is not salad and other East African restaurants serve delicious salad as part of the side. Secondly, the ratio of goat to rice needs to be re-evaluated. I feel like I purchased $25 worth of rice. Hot sauce is nice.
+      Other item ordered was the BBQ chicken with Alfredo pasta 8/10. The Alfredo pasta does NOT taste like Alfredo sauce. It has an interesting greasy beef flavour. The taste is rich and delicious but not saucy like Alfredo sauce is. BBQ chicken was good. If there was a bit more sauce on the chicken or as a side to the chicken, it would likely be the best chicken in the city.
+      Will visit this restaurant again but will eat in to see if there is a difference between in-restaurant service vs takeout.
   - name: "Ibrahim Johar"
     rating: 5
     comment: |
@@ -50,12 +56,6 @@ reviews:
       Every dish we tried was amazing — honestly, every bite was a moment of pure enjoyment!
       
       If you want real, authentic Somali food in Edmonton, this is the place. No competition. Highly recommended!
-  - name: "Chuck & Charlie"
-    rating: 4
-    comment: |
-      Food was excellent. Two significant issues to consider. First is that the salad is not much of a salad. This could use some effort. 6 strips of lettuce and pieces of yellow onion is not salad and other East African restaurants serve delicious salad as part of the side. Secondly, the ratio of goat to rice needs to be re-evaluated. I feel like I purchased $25 worth of rice. Hot sauce is nice.
-      Other item ordered was the BBQ chicken with Alfredo pasta 8/10. The Alfredo pasta does NOT taste like Alfredo sauce. It has an interesting greasy beef flavour. The taste is rich and delicious but not saucy like Alfredo sauce is. BBQ chicken was good. If there was a bit more sauce on the chicken or as a side to the chicken, it would likely be the best chicken in the city.
-      Will visit this restaurant again but will eat in to see if there is a difference between in-restaurant service vs takeout.
   - name: "Sadia J"
     rating: 1
     comment: |

@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "Windermere"
 address: "629 Cameron Heights Dr NW, Edmonton, AB T6M 0L9"
 rating: 4.6
-review_count: 1085
+review_count: 1090
 tier: "featured"
 phone: "(780) 818-1967"
 website: "https://malinabakery.ca/"
@@ -39,10 +39,13 @@ reviews:
       If you haven’t been to Malina Bakery yet, you should definitely check it out. They have three locations, so there’s no excuse not to visit!
       
       Highly recommended ❤️
-  - name: "anahita houshyar"
-    rating: 4
+  - name: "iago accioli"
+    rating: 5
     comment: |
-      The cottage cheese pancakes are awesome. At first I was surprised by the portion but that was enough for one person. The only downside was the customer service because it took us a lot of time to get seated and we had to walk up to them to ask for the bill since they were not checking on us. Overall that’s a good place for breakfast / brunch .
+      I traveled from Toronto towards Jasper and stopped here after leaving the airport. I made it a point to write this review to show how much I loved it here. It made the whole trip even better! I had to stop by again on my way back to the airport. Everything is so authentic and delicious! What an oasis on this city!
+      
+      My favourite were the Pierogi’s and the cottage pancakes (on the pictures).
+      I also had an apple pastry and a chicken pastry from the counter display case.
 hours:
   monday: "Closed"
   tuesday: "9:00 AM–8:00 PM"

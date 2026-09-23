@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–5:30 PM"
 photos: ["/photos/launchpad-trampoline-park-3-1.jpg", "/photos/launchpad-trampoline-park-3-2.jpg", "/photos/launchpad-trampoline-park-3-3.jpg"]
 rating: 4.5
-review_count: 2278
+review_count: 2280
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,12 @@ tags: ["edmonton", "trampoline"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Valentine Connell"
+    rating: 3
+    comment: |
+      Of the 3 trampoline parks in the area, my boys 10 and 14 chose this one. They liked the big basketball court and the dodgeball area. Foam pit a bit dirty but how do you even clean that?!
+      
+      Overall good!
   - name: "MaryBrian Gorner"
     rating: 1
     comment: |
@@ -48,14 +54,4 @@ reviews:
     rating: 5
     comment: |
       Had an amazing time at LaunchPad West today! Shaii provided exceptional customer service and went above and beyond to make our visit great. Super friendly and helpful staff. Highly recommend!"
-  - name: "Raya G"
-    rating: 4
-    comment: |
-      I’ve been here many times and let me start with it is great! Very clean! Not a huge space so easy to keep track of ur kids. I do get a bit scared when my younger niece (4) goes in the squishy jump pad thing cause of the sides of it has got me stuck a few times.
-      
-      Fun to play for maybe a hour or a bit more but then it gets boring. Not much to do besides jump around.
-      A bit busy, kids knocking over kids quite a bit.
-      I will say the pictures on the website is not up to date. They have changed the place quite a bit.
-      
-      Despite all this, definitely recommend if ur kids like trampolines!
 ---

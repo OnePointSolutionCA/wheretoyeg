@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–7:00 PM"
 photos: ["/photos/lustry-nails-spa-south-common-1.jpg", "/photos/lustry-nails-spa-south-common-2.jpg", "/photos/lustry-nails-spa-south-common-3.jpg"]
 rating: 4.7
-review_count: 392
+review_count: 395
 price_range: "$$"
 amenities:
 
@@ -34,10 +34,6 @@ reviews:
       Usually go here for manis and pedis, but received terrible service.
       I didn’t get what I asked for, and the nail tech was rude and did a terrible job on my toes and fingers. I’m actually really disappointed because I really liked this salon when I first went.
       I had explained to the tech that I needed my toes scrubbed and cleaned as I spend a lot of time outdoors and she didn’t do any of that just painted over top of the dirt. The gel polish is also very lumpy and my nails are snagging on everything. :( paid $100 for this.
-  - name: "Melanny Ramos"
-    rating: 5
-    comment: |
-      Called morning of and got an appointment for a pedicure easily. Jade was sweet and It was just a nice relaxing time, got me green tea which was nice since its been cold and raining. The place looks as cute and girly as it always does! Massage chairs are so relaxing and definitely needed after a long month lol. She let me finish my massage time even after she was done with my pedicure. (Also huge,  beautiful, bird of paradise in the corner!🩷)
   - name: "Kim Zomerman"
     rating: 5
     comment: |
@@ -54,4 +50,12 @@ reviews:
     rating: 5
     comment: |
       I had a great experience at Lustry! My sister and I have very sensitive nails, and they did our nails with care, gentleness and efficiency. (We had Paul and Kylie doing our manicures). It did not take long at all, but even if it did, I would've been fine being there longer because of how beautiful it is. It’s extremely well decorated, welcoming, and comfortable. The staff is very good at what they do, and very kind. I will be recommending this nail salon to everyone I know! :)
+  - name: "Annabella Hosein"
+    rating: 5
+    comment: |
+      I had an amazing experience at Lustry Nail Salon today and I’m honestly so impressed with the actual services. Ten did my nails and absolutely perfected them — the shape, detail, and design are flawless. He really takes his time and pays attention to every little detail, and it shows. My nails came out even better than I imagined and I’ve already been getting so many compliments!
+      
+      The girl who did my toes was also amazing — she was so kind, gentle, and made the whole experience really relaxing. She made me feel comfortable the entire time and did such a beautiful job.
+      
+      Overall, the nail work here is amazing. I would definitely come back for Ten and the girl who did my toes because they were both incredible.
 ---

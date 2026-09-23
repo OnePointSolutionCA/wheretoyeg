@@ -37,12 +37,6 @@ reviews:
       And the goodie bags are amazing! They include a cute tote bag, lip balm, a tongue scraper, a high-quality toothbrush, floss, toothpaste, gum or mints, and even a delicious treat from Chartier, a local Beaumont favourite. It's such a thoughtful way to end your visit.
       
       I can honestly say we feel so lucky to have found Lumi Dental. The entire team is kind, professional, and genuinely cares about their patients. If you're looking for a dental clinic that combines exceptional care with a welcoming atmosphere and the latest technology, I highly recommend Lumi Dental!
-  - name: "Emma"
-    rating: 5
-    comment: |
-      I had such a wonderful experience at Lumi Dental! From the moment I walked in, I was impressed by how modern, clean, and welcoming everything was.
-      
-      The little touches really set this clinic apart. They offer beverages while you wait, Taylor was extremely professional and kind to me during my cleaning while providing updates along the way. I was even given the cutest tote bag filled with high-quality dental products we’ll actually use. It’s clear they genuinely care about their patients’ experience, not just their dental care.
   - name: "komal shah"
     rating: 5
     comment: |
@@ -51,12 +45,22 @@ reviews:
       My hygienist, Taylor, was gentle, thorough, and made me feel very comfortable during the cleaning. Dr. Pham was knowledgeable, caring, and took the time to explain everything clearly. Mel at the front desk was also wonderful, very kind, organized, and helpful throughout the visit.
       
       The whole team made the experience smooth and stress-free. Highly recommend this clinic for anyone looking for excellent dental care!
-  - name: "Navi Bharj"
+  - name: "ezek"
     rating: 5
     comment: |
-      From the moment I walked in, I was impressed by how beautiful and welcoming the office is — clean, modern, and comfortable. Dr. Pham and her team provided exceptional service from start to finish. Everyone was friendly, attentive, and made me feel completely at ease.
-      Dr. Pham is incredibly knowledgeable and took the time to explain everything clearly, answering all of my questions with patience and care. It's obvious she truly cares about her patients. The whole team works together seamlessly to create a positive, stress-free experience.
-      I highly recommend Lumi Dental to anyone looking for a top-notch dental practice. Thank you Dr. Pham and team for the amazing care!
+      ⭐⭐⭐⭐⭐
+      
+      I had a great experience at Lumi Dental! Dr. Pham was fantastic—professional, friendly, and took the time to explain everything, which made me feel very comfortable throughout my visit.
+      
+      I also brought my son for his very first dentist appointment, and the team was amazing with him. They were patient, kind, and made his first experience fun and stress-free. It was clear they know how to work with children and help them feel at ease.
+      
+      I highly recommend Lumi Dental to anyone looking for a caring and knowledgeable dental team for both adults and kids!
+  - name: "Nat"
+    rating: 5
+    comment: |
+      My dental experience was truly elevated at Lumi Dental. It is the most aesthetic dental clinic I’ve ever been to; I had seen photos of the clinic online but seeing it in person was on a whole new level - you can tell there was a clear vision for the space and it came out luxurious, clean and very cozy!
+      
+      The dental hygienist I had, Taylor, was lovely;  using innovative technology, she gave me the most gentle & thorough cleaning! Dr. Pham really took the time to explain things to me and everyone was extremely warm/friendly. The clinic also offered free amenities while I waited for my appointment & a generous swag bag to finish off the visit - it was an amazing experience from the moment I stepped in. I can truly say Lumi Dental & team are worth the drive in from Edmonton!
 hours:
   monday: "9:00 AM–5:00 PM"
   tuesday: "9:00 AM–5:00 PM"

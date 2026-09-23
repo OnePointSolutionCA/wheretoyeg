@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/little-village-1.jpg", "/photos/little-village-2.jpg", "/photos/little-village-3.jpg"]
 rating: 4.8
-review_count: 323
+review_count: 324
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,6 +30,10 @@ tags: ["edmonton", "greek"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Mackenzie"
+    rating: 5
+    comment: |
+      Would recommend! We had Little Village cater our wedding. The food was phenomenal we go so many compliments, I’ve even had a few reach out after the wedding asking about the restaurant. We even had some left overs that we got to enjoy through the week. The ladies who helped set up the buffet and helped tidy the plates also did a great job. Thank you!
   - name: "Kevin"
     rating: 4
     comment: |
@@ -58,8 +62,4 @@ reviews:
     rating: 5
     comment: |
       Great place to stop for lunch. Despite the LRT construction going on and difficulties to navigate, it is worth to visit. Greek salad was fresh and delicious, Dolmades - rice and meat stuffed grape leaves - very tasty, Mediterranean genre of cabbage rolls, but more savory. Ribs had a distinct flavour, and lemon flavored potatoes completed the meal. The place is also decorated with simple, but classy designed furniture and has an incredible canopy of green south European plants. Washroom is spacious and clean.
-  - name: "Kwokman Ng"
-    rating: 5
-    comment: |
-      This is a small family restaurant. I went there for lunch for the first time after walking the Mackenzie ravine. Although it is small, it is very clean and tidy. I wish all restaurants should have this kind of high standard. The food was very good. The service was friendly. I liked the potatoes, the ribs and the lamb. Would like to go back there to try some more dishes.
 ---

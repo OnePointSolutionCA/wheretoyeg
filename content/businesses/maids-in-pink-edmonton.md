@@ -40,22 +40,6 @@ reviews:
       Right from the head office to the actual people doing the cleaning, never doubt about the professionalism
       What a relief I can actually come now and visit and not worry about the dirt
       Thank you for that peace of mind
-  - name: "Your name here"
-    rating: 1
-    comment: |
-      If I could give zero stars, I would.
-      
-      I used this service in June of 2025. I clearly stated the criteria for my expectations (Deep clean of bathrooms and Living room), and was quoted $350 for 2 cleaners over 4 hours. I also stated I would be out for the duration of the service.
-      
-      After the 4 hours had elapsed, they called me and requested another paid hour to complete the job. Valuing quality over speed, I granted the request.
-      
-      When I returned home around 1pm, the cleaners had left and I walked around the areas agreed to be cleaned. I found VISIBLE streaks across the TV (which I haven’t been able to remove since), windows, and shelves undusted. Bathroom walls still had shower streaks and soap scum / calcium around faucets.
-      
-      I called back to explain that I was not happy with the service. I provided photos, and the “dispatcher” was unapologetic, stating that because I was not available for the final walkthrough (they did not notify me when they were finished, so how would I know?) that they would not take accountability and mentioned they could come back another day for further payment instead.
-      
-      I argued over the course of 24 hours for a discounted service, which the dispatcher settled on. However, I never got my money..
-      
-      Save your money and skip these clowns.
   - name: "Dongmei Ji"
     rating: 5
     comment: |
@@ -65,4 +49,8 @@ reviews:
     comment: |
       5 stars for Diana,
       She was just a great and professional cleaner. She is a pleasant to work with. Thank you maids in pink.
+  - name: "Roy Mlazgar"
+    rating: 5
+    comment: |
+      I was really hoping that this company Maids in pink was going to be a good company because I just moved to Edmonton and I had tried two other companies and they were a flop. But when they sent Anna over, I was really impressed with her personality to start off with she is very friendly and when she started cleaning, I was very impressed with her attention to detail and communicating with me on what I wanted done in my home she is a very good cleaning helper I do give Anna a five star and I also give the customer service that I have been dealing with a five star as well. I recommend this company at first I wasn’t sure either when they asked for a $90 deposit but they sent such a wonderful person to my house. Very happy with Anna and I’m happy that she has an agreed to be my personal. . I recommend this company at first I wasn’t sure either when they asked for a $90 deposit but they sent such a wonderful person to my house. Very happy with Anna and I’m happy that she has agreed to be my personal housekeeper.
 ---

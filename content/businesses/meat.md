@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/meat-1.jpg", "/photos/meat-2.jpg", "/photos/meat-3.jpg"]
 rating: 4.6
-review_count: 3660
+review_count: 3668
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -29,6 +29,10 @@ tags: ["edmonton", "steakhouse"]
 active: true
 date_listed: "2026-08-26"
 reviews:
+  - name: "Madi Baong"
+    rating: 5
+    comment: |
+      Stopped in for lunch today, absolutely loved everything! The fried chicken was the best I’ve ever had, so crispy and the chicken was juicy. Mac and cheese was really good too. My husband really enjoyed his pulled pork with the sauces on the table, and the Cajun fries with the dill aioli. The menu had lots of great options, it was hard to choose so definitely will be back sometime! Service was great as well. Not a bad price either, was $60 total for the food pictured and two coke zeros.
   - name: "Brittany Hemmerling"
     rating: 4
     comment: |
@@ -60,8 +64,4 @@ reviews:
     rating: 5
     comment: |
       I just have to say, I am beyond thrilled with the customer service at this shop. They helped me get exactly what I needed—the miniature horse meat and the starfish meat—and they were so knowledgeable and kind throughout the whole process. I can already picture how this miniature horse meat will impress everyone at the family cookout, and the starfish is going to make such a unique dish. I couldn’t be happier—this place is top-notch!
-  - name: "Mike Kehl"
-    rating: 5
-    comment: |
-      Great BBQ at very reasonable prices. Lots of perennial favourites as well as some new stuff they seem to rotate through, but all is delicious. The giant pick is definitely worth the $2 and is actually a standout. Friendly service and tons of seating. I come here every time I visit Edmonton.
 ---

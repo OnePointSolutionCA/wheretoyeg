@@ -28,6 +28,10 @@ tags: ["edmonton", "trampoline"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Scarface"
+    rating: 5
+    comment: |
+      We’ve chosen this place for my son’s birthday more than once because they make everything so easy. The staff is friendly and organized, the kids always have an amazing time, and the whole experience is stress-free for parents. It’s a fun, clean, and well-managed venue, and we’ll definitely keep coming back for future celebrations!
   - name: "Miranda Rehaume"
     rating: 5
     comment: |
@@ -60,8 +64,4 @@ reviews:
       Recently had my child's birthday here. The ease of service and knowledge of party packages was commendable.
       I would like to thank Stanley and the rest of his co workers supporting him with my child's birthday party. His kindness and customer service went above and beyond.
       Thank you Stanley and thank you Launchpad Team for a great Birthday experience.
-  - name: "Jodi Sherwood"
-    rating: 5
-    comment: |
-      Our go to spot for PD days! Never too busy and the kids love coming here and burning some energy. Love that they have so many comfy places for adults to sit, and that it's relatively easy to see your kid from most areas. Only suggestion I would make is to possibly improve the coffee/food selection.
 ---

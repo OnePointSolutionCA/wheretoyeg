@@ -6,7 +6,7 @@ subcategory: "middle-eastern"
 neighborhood: "Windermere"
 address: "1297 Windermere Way SW, Edmonton, AB T6W 2P3"
 rating: 4.9
-review_count: 4839
+review_count: 4855
 tier: "featured"
 phone: "(587) 400-9088"
 website: "https://jerusalem-edmonton.com/"
@@ -26,14 +26,14 @@ reviews:
     rating: 5
     comment: |
       I had a great experience here! The shawarma was absolutely delicious, fresh, and full of flavor. The gentleman who offered tea and baklava was incredibly kind and welcoming, which made the visit even more enjoyable. The hospitality was outstanding, and the food was excellent. I will definitely be coming back. Highly recommended!
-  - name: "Marianne"
-    rating: 5
-    comment: |
-      We had such a great experience dining here! The food was delicious, the atmosphere was welcoming, and the service really made our visit memorable. A special shoutout to Ben, who went above and beyond to make sure we were well taken care of with tea and Baklava. He was friendly, attentive, and genuinely made us feel valued throughout our meal. It’s rare to come across service that leaves such a lasting impression. Thank you, Ben, for the exceptional hospitality—we’ll definitely be back!
   - name: "Dante Okazaki"
     rating: 5
     comment: |
       Amazing food, every time! Restaurant is clean, cozy and the staff is very friendly even being absolutely busy behind the counter.
+  - name: "Bonnie Park"
+    rating: 5
+    comment: |
+      Amazing portions! One plate feeds two of us. The flavors are so good. DELICIOUS. THANKS SO MUCH for the amazing tea as well. Ben was awesome.
 hours:
   monday: "10:00 AM–10:00 PM"
   tuesday: "10:00 AM–10:00 PM"

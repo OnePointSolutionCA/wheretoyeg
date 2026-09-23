@@ -57,8 +57,8 @@ reviews:
       I have done my work permit extention file submission by Keystone immigration as OINP nominee . I got my work permit approval whithin 2 week without any ADR. I have also done my PR file under keystone immigration.
       
       Special Thanks to Kanika, Pallavi and shukhman sir to support throughtout this process.
-  - name: "amrit kaur"
+  - name: "Jagdeep Jp"
     rating: 5
     comment: |
-      Kanika has been outstanding in managing my PR file. She provides regular updates and ensures I am informed at every step of the process. Her professionalism, dedication, and prompt communication make the entire experience smooth and stress-free. I am very happy with the service provided by Keystone Immigration and highly recommend them to anyone seeking reliable immigration assistance.
+      I had a great experience with Keystone Immigration Consultancy. Special thanks to Kanika, who handled my file very professionally and was always helpful and supportive throughout the process. I really appreciate her guidance and excellent service. Highly recommend Keystone Immigration!
 ---

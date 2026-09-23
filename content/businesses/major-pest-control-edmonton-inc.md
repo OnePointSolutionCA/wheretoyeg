@@ -20,7 +20,7 @@ hours:
   sunday: "7:00 AM–11:00 PM"
 photos: ["/photos/major-pest-control-edmonton-inc-1.jpg", "/photos/major-pest-control-edmonton-inc-2.jpg", "/photos/major-pest-control-edmonton-inc-3.jpg"]
 rating: 4.9
-review_count: 3921
+review_count: 3927
 price_range: "$$$$"
 amenities:
 

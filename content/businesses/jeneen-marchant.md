@@ -49,8 +49,8 @@ reviews:
     rating: 5
     comment: |
       Jeneen is a very professional, diligent and friendly realtor. She helped a lot of people to have sold their homes at top rates. She knows the house market well, potential buyers well, and has a good judgment. She is willing to help people and friendly to everyone she met. She is one of the best realtors in the areas you would like to work with.
-  - name: "Ken Scaman"
+  - name: "Eugena Maguire"
     rating: 5
     comment: |
-      Super satisfied. Jeneen was a true professional throughout the entire home selling process. Our house was on the market only six days before and offer. That it was an exceptional property surely helped, but her promotion of our property was outstanding.We would certainly recommend Jeneen to other people looking to put their home on the market.
+      Jeneen was an amazing realtor.  We interviewed 5 realtors and chose her. Her pricing was on the higher side comparatively but accurate and we sold our house for list price. Another realtor tried to sell us the idea that our house was worth far less. Going with Jeneen got us $35,000 more than if we'd believed that other realtor's strategy to underprice our home. Jeneen was an expert adviser and held steady through negotiations, not losing the deal and consistently working for our best interests. She allayed our anxieties and normalized the process as we went along. She is efficient, responsive, focused and gets the job done.
 ---

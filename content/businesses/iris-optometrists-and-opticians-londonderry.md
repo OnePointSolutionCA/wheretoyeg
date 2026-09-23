@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "1 Londonderry Mall NW #2112, Edmonton, AB T5C 3C8"
 rating: 4
-review_count: 375
+review_count: 374
 tier: "featured"
 phone: "(780) 476-7631"
 website: "https://iris.ca/en/find-a-store/"

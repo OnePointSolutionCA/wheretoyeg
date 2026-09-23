@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/juicy-chills-1.jpg", "/photos/juicy-chills-2.jpg", "/photos/juicy-chills-3.jpg"]
 rating: 4.4
-review_count: 501
+review_count: 502
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -42,12 +42,12 @@ reviews:
     rating: 5
     comment: |
       Jass always serves fresh, delicious juices with a smile. She is friendly, welcoming, and provides excellent customer service every time. Her positive attitude and attention to detail make every visit enjoyable. If you’re at Juicy Chill, ask for Jass—you’ll get great service and an amazing drink. Highly recommended!
-  - name: "Loveleen Kaur"
-    rating: 5
-    comment: |
-      Very friendly and polite staff. The sugarcane juice was fresh, tasty, and refreshing. Great service and a wonderful experience. Highly recommend! 😊
   - name: "Albert"
     rating: 5
     comment: |
       I've been here once, but I can tell you I will be here again. When I wasn't sure what to order, this boy named Harshal with a very warm and welcoming personality helped to pick my order by giving me the most ordered juice, Sugar cane and Jungle juice. 5 star experience and I will be coming back.
+  - name: "Abrar Islam"
+    rating: 5
+    comment: |
+      Came across this spot randomly and decided to try the fresh sugar cane juice. Was pleasantly surprised by the different taste it has. They add Himalayan salt, ginger and mint. It doesn't taste too sweet and the flavour just works really well in my opinion. Nice cool beverage for the summer and I'll definitely be getting it again!
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/kensington-dental-clinic---edmonton-1.jpg", "/photos/kensington-dental-clinic---edmonton-2.jpg", "/photos/kensington-dental-clinic---edmonton-3.jpg"]
 rating: 4.9
-review_count: 511
+review_count: 513
 price_range: "$$"
 amenities:
 

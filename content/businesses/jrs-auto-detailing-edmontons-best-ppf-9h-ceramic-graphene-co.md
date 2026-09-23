@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/jrs-auto-detailing-edmontons-best-ppf-9h-ceramic-graphene-co-1.jpg", "/photos/jrs-auto-detailing-edmontons-best-ppf-9h-ceramic-graphene-co-2.jpg", "/photos/jrs-auto-detailing-edmontons-best-ppf-9h-ceramic-graphene-co-3.jpg"]
 rating: 4.9
-review_count: 1162
+review_count: 1164
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,10 @@ tags: ["edmonton", "detailing"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Robert Lee"
+    rating: 5
+    comment: |
+      I had the triple ceramic coating as well as paint protection on the front hood and headlights. JRs did a great job the staff were very professional. This was my first time getting this service for one of my new vehicles a F150 XLT. I will definitely return and recommend JRs
   - name: "Mike Morton"
     rating: 5
     comment: |
@@ -48,14 +52,6 @@ reviews:
       My Explorer came back looking better than new, with incredible gloss and a smooth finish. The attention to detail and quality of workmanship really stood out. It’s clear they take pride in their work and care about customer satisfaction.
       
       If you’re considering ceramic coating or detailing services, I highly recommend JR’s Auto Detailing. Great service, excellent results, and a fantastic experience from start to finish!
-  - name: "Rence Balaccua"
-    rating: 5
-    comment: |
-      I recently took my brand new 2026 Toyota Sienna to JR'S for a full front PPF package (with added rockers, headlights, door edges/cups) and front window tinting. From the very beginning, their customer service was exceptional.
-      
-      While I was shopping around for pricing, they were incredibly accommodating, transparent, and fair. They worked with me to build a custom package that gave me the exact protection I wanted for my family vehicle at a very competitive price point, honouring a great deal without any high-pressure sales tactics.
-      
-      The installation itself is flawless—edges are beautifully wrapped, the ceramic tint matches the factory rear glass perfectly, and they even kept the vehicle safely stored indoors overnight to let the film properly cure. If you want high-quality work and a team that actually treats you like a valued customer from the first email to final pickup, go to JR'S. Highly recommended!
   - name: "Aman Al"
     rating: 5
     comment: |

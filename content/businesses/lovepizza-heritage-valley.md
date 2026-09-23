@@ -5,8 +5,8 @@ category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Windermere"
 address: "2812 James Mowatt Trail SW, Edmonton, AB T6W 1A8"
-rating: 4.3
-review_count: 239
+rating: 4.2
+review_count: 242
 tier: "featured"
 phone: "(780) 433-0606"
 website: "https://www.lovepizza.ca/edmonton-heritage-valley"
@@ -26,10 +26,6 @@ reviews:
     rating: 5
     comment: |
       Awesome service with our specialty pizza and it was perfect! Friendly with a smile and enthusiastic about our crazy order. Would definitely go again! The crust is amazing! 🤤
-  - name: "Landon Ribar"
-    rating: 5
-    comment: |
-      Owner was genuinely so kind and funny to me and my friend. Food was beautiful and delicious too, me and my friend devoured it all. And the atmosphere was great and the tables were super clean, practically everything was super clean. 100% would come back.
   - name: "Apoorva Andrew"
     rating: 4
     comment: |
@@ -40,6 +36,10 @@ reviews:
       I am a loyal customer of Love Pizza. This time I wanted to make a difference and try their Heritage Valley location. Honestly it was an extremely pleasing and comfortable experience. The workers’ attention was amazing, they asked two times if we needed anything and if we have any recommendations for them. It was very refreshing to hear from a shop that they are willing to hear their customer’s suggestions, nowadays it’s rare to see this kind of attention in this generation, and I am saying this as a 67 year-old man who came here with my grandchildren. Kudos to them!!! 👏👏👏
       
       Normally I buy their classic Sausage Basil Honey however in my recent visit I tried their Big Love Greek Goddess. The pizza doesn’t leave you with the need to chug a whole bottle of water, it doesn’t have that unhealthy salty aftertaste like you always have from other pizza shops. Overall their pizza tasted and looked wonderful, their eating area was clean and you can play Jenga while waiting, their staff is also very friendly. I highly suggest this place to anyone who visits this area!
+  - name: "Landon Ribar"
+    rating: 5
+    comment: |
+      Owner was genuinely so kind and funny to me and my friend. Food was beautiful and delicious too, me and my friend devoured it all. And the atmosphere was great and the tables were super clean, practically everything was super clean. 100% would come back.
 hours:
   monday: "10:00 AM–11:00 PM"
   tuesday: "10:00 AM–11:00 PM"

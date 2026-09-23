@@ -32,6 +32,10 @@ reviews:
     rating: 5
     comment: |
       We used Let’s eat catering for our wedding this August. The food was amazing, steak was cooked perfectly, salads had great flavours and the cabbage rolls were divine. Communication before the event was great and fast, service and clean up the day of our wedding was seamless. All staff very friendly and provided great customer service. We would recommend let’s eat to everyone!
+  - name: "Kevin Leal"
+    rating: 5
+    comment: |
+      I had the pleasure of having Susie help me with my wedding. All my guests were asking who made the food cause it was all amazing. From the Cesar salad all the way to the salmon and roast beef.  Btw the Cesar salad dressing is the best like 10 out of 10. Out of all the caterers I looked out for she was the one that made it easiest. Stress free  and her staff are really nice people to deal with . I highly recommend let’s eat catering for any function. I will also be calling her on a regular for her Cesar dressing.
   - name: "David W."
     rating: 5
     comment: |
@@ -78,16 +82,4 @@ reviews:
     rating: 5
     comment: |
       We had Let’s Eat cater our wedding and they provided the most delicious food and amazing experience! I can’t rave enough about how fantastic both the food and customer service was! My guests are still talking about how great everything was! I will definitely be booking them for future gatherings, and recommend them to anyone looking for a similar experience!
-  - name: "JRO Artistry"
-    rating: 5
-    comment: |
-      You will not be disappointed with Lets eat catering! Susie and her Husband are a dynamic Duo who work amazing together for your catering needs! we Hired her last minute for my personal wedding of 80 people after our original catering company conned us and she saved the day! My bridesman James Greenaway highly recommended them as his Auntie works for them and loves her job, Everyone is always smiling and easy going!
-      
-      Very humble and hearty food! Everyone enjoyed the food and talked about it all night. We had Roast, salmon with a creamy dill sauce, Caesar salad which is to die for by the way and a lot of other side options! She is so knowledgeable and down to earth , High quality service and food with prices you cannot beat! you wont be disappointed!  Did I mention she sells her Caesar salad by the Jars also! How amazing is this! At this Time I have made her my preferred vendor on our site for our wedding clients!
-      
-      Lets eat catering has done food for global news, RCMP, Weddings and curling clubs.
-      
-      I cannot wait for our extra wedding photos to send to you!
-      All the best, Justine Orkusz with
-      JRO Artistry
 ---

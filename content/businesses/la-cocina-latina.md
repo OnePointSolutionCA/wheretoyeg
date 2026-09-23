@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/la-cocina-latina-1.jpg", "/photos/la-cocina-latina-2.jpg", "/photos/la-cocina-latina-3.jpg"]
 rating: 4.4
-review_count: 1286
+review_count: 1294
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -44,20 +44,6 @@ reviews:
       I came along with my brother and tried out the Quesabirria along with my brother trying the Don Birria Tacos, and with the Quesabirria, it has a huge portion size (which I was shocked to say the least) that includes a wonderful presentation along with the high quality smoked brisket, to which tasted very amazing along with the sauces provided. I also tried out the Don Birria Taco my brother had (since we both shared due to the portion of the Quesabirria) which also tasted great with the same high quality brisket as well as the soft shell.
       
       Overall, Smokin' Barrels Cocina Latina is a excellent Mexican Restaurant Spot that I would recommend to everyone, although I would say that it deserves a good location with more space due to its small size.
-  - name: "Natalia McGill"
-    rating: 5
-    comment: |
-      If they tell you 30 minute wait, stick around in the line because we went down the road to kill time, and they called us less than 10 minutes later to come be seated!
-      
-      The service was chaotic due to how busy the were, but not unfriendly at all and no issues with hygiene. All of the staff were smiling and working hard. I’m so pleased they were able to open a bigger space.
-      
-      Their water cups are small so ask for a pitcher of water for your table in advance since it takes a while to get water when they’re busy. We had multiple people taking care of us, which left some confusion with the cheque at the end.
-      
-      Sitting at the front meant cold air came in, so ask to be seated at the back!
-      
-      The plants are beautiful and when the sun sets the lighting is so pretty.
-      
-      The food is amazing. Their frijoles are amazing. We loved the Bandeja Paisa, the Picada, and the Quesabirria. We brought home our leftovers and made a big breakfast with them the next day!
   - name: "Samar Eleiwa"
     rating: 5
     comment: |
@@ -72,4 +58,8 @@ reviews:
       It overall was a little disappointing given how strong the food and drinks were. With better service, this place could easily be a standout.
       
       Would rate it 3.5/5 stars overall if I could.
+  - name: "Bianca Gamboa"
+    rating: 5
+    comment: |
+      Everything we ordered was very delicious!!! Although we think the birria soup was a bit too salty, it still tastes very nice! Staffs were so friendly and fun. They sang happy birthday for me and gave brownies with ice cream which we didn’t expect, but it sure did made my day extra special !
 ---

@@ -40,16 +40,16 @@ reviews:
     rating: 5
     comment: |
       I always get my haircut with Danny, and he’s the best. He’s professional, consistent, and always does a great job. I would definitely recommend him to anyone looking for a great barber.
-  - name: "Brandon Gratner."
-    rating: 5
-    comment: |
-      Hey guys Brandon Gratner here again. Legendary Barbershop is the spot, but Abe is the real MVP. This guy seriously leveled up my fade — crisp lines, clean blend, the whole deal. He’s chill, easy to talk to, and somehow still laser‑focused on giving you a perfect cut.
-      You can tell Abe loves what he does because every detail is on point. Walked out feeling fresh, and honestly, I’m not letting anyone else touch my hair after this.
-      If you want a clean cut and good vibes, go see Abe. Dude’s a legend.
   - name: "Christopher Ryan"
     rating: 5
     comment: |
       First time there and Alex cut my hair and man oh man does this guy ever know what he's doing. Total pro. Friendly, efficient and professional.
       
       Thanks for the fade brudder
+  - name: "Brandon Gratner."
+    rating: 5
+    comment: |
+      Hey guys Brandon Gratner here again. Legendary Barbershop is the spot, but Abe is the real MVP. This guy seriously leveled up my fade — crisp lines, clean blend, the whole deal. He’s chill, easy to talk to, and somehow still laser‑focused on giving you a perfect cut.
+      You can tell Abe loves what he does because every detail is on point. Walked out feeling fresh, and honestly, I’m not letting anyone else touch my hair after this.
+      If you want a clean cut and good vibes, go see Abe. Dude’s a legend.
 ---
