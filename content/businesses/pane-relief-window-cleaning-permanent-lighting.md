@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–6:00 PM"
 photos: ["/photos/pane-relief-window-cleaning-permanent-lighting-1.jpg", "/photos/pane-relief-window-cleaning-permanent-lighting-2.jpg", "/photos/pane-relief-window-cleaning-permanent-lighting-3.jpg"]
 rating: 5
-review_count: 854
+review_count: 928
 price_range: "$$"
 amenities:
 

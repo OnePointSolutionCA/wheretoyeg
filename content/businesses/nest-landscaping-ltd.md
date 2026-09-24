@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–10:00 PM"
 photos: ["/photos/nest-landscaping-ltd-1.jpg", "/photos/nest-landscaping-ltd-2.jpg", "/photos/nest-landscaping-ltd-3.jpg"]
 rating: 4.9
-review_count: 125
+review_count: 127
 price_range: "$$"
 amenities:
 

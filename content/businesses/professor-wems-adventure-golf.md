@@ -28,6 +28,10 @@ tags: ["edmonton", "mini-golf"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Koh Des"
+    rating: 1
+    comment: |
+      They don't have smaller admission fee for kids, even under 10. My niece 4 years old, my nephew 7 years old. We have to pay adult price for kids. Certainly a scam for Canadian families. The desk dude wasn't nice either. We ask if they have admission for kids he straight up says "no" that's paraphrasing.
   - name: "Matthew Randall"
     rating: 5
     comment: |
@@ -44,15 +48,4 @@ reviews:
     rating: 5
     comment: |
       I have completed this course a few times over the years but have always enjoyed the experience. It’s is not just a flat course but the holes have undulations and so it is challenging to complete.  It’s very clean and well lit. It’s a lot of fun.  The decor is eclectic and adds to the fun of playing the 18 holes.
-  - name: "Chelsea S."
-    rating: 5
-    comment: |
-      Compare to the Neon mini golf ⛳️ in the mall, this is what I think:
-      
-      - this adventure golf is more challenging
-      - better ventilation in summer/crowded
-      - ppl in the mall can watch you play cuz it’s public
-      - finding the next course maybe a little bit confusing cuz you need to look around for the next number as the course is quite big
-      
-      If you love mini golf ⛳️ highly recommend you to try both as two courses have different experiences.
 ---

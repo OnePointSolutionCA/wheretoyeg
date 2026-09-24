@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/rayacom-inc-1.jpg", "/photos/rayacom-inc-2.jpg", "/photos/rayacom-inc-3.jpg"]
 rating: 4.1
-review_count: 114
+review_count: 109
 price_range: "$$"
 amenities:
 
@@ -32,10 +32,6 @@ reviews:
     rating: 5
     comment: |
       Rayacom was extremely accommodating with a last minute request we had after missing an issue with our proof (pretty much on us). They were top notch.
-  - name: "Brandon Fraser"
-    rating: 5
-    comment: |
-      Ordered custom stickers and labels for my product packaging, and I’m genuinely impressed. The vinyl feels durable, the cuts are clean, and the adhesive holds perfectly. Customer service was friendly and easy to work with—very smooth experience overall.
   - name: "Tara Singh"
     rating: 5
     comment: |
@@ -55,4 +51,8 @@ reviews:
     rating: 5
     comment: |
       Rayacom exceeded my expectations with their premium business cards. The finish feels luxurious, colours are rich, and the edges are perfectly done. I’ve received compliments almost every time I share one. Fast delivery too.
+  - name: "NAVEED Nasa"
+    rating: 5
+    comment: |
+      If you’re considering invitations that make a statement of elegance, with artisanal detail and enduring style, this package delivers. Highly recommended.
 ---

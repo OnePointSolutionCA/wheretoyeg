@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/raydian-painting-1.jpg", "/photos/raydian-painting-2.jpg", "/photos/raydian-painting-3.jpg"]
 rating: 5
-review_count: 166
+review_count: 169
 price_range: "$$"
 amenities:
 

@@ -6,7 +6,7 @@ subcategory: "japanese"
 neighborhood: "Windermere"
 address: "17308 Hiller Rd SW, Edmonton, AB T6W 4H3"
 rating: 4.7
-review_count: 413
+review_count: 414
 tier: "featured"
 phone: "(587) 873-6028"
 website: "https://nagoyawindermere.com/"

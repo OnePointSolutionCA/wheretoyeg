@@ -28,10 +28,6 @@ reviews:
     rating: 5
     comment: |
       Divi was an excellent service representative, his upselling techniques were non-aggressive and genuinely seemed to be in my best interest. I would most definitely recommend this Mr. Lube. Paid 217$ after tax for a full synthetic oil change, air filter and cabin air filter change.
-  - name: "Jonathan Muhi"
-    rating: 5
-    comment: |
-      I’ve been coming here for the last 6 months and honestly these guys are awesome. Got my tires changed here and they gave me a great deal. The staff is always helpful, explains everything properly, and never tries to push unnecessary sales. They genuinely care about your car and recommend what’s best, even if you get the work done somewhere else. The manager is super nice too. Highly recommend this place to everyone!
   - name: "Peyten Appleman"
     rating: 1
     comment: |
@@ -46,6 +42,10 @@ reviews:
     rating: 1
     comment: |
       I got my tires changed yesterday they damaged the cars rims the stuff was unhepfull when i made the complaint
+  - name: "MICHEAL YOUNG"
+    rating: 5
+    comment: |
+      Went in for a tire check and found out mine were pretty worn out. They gave me good/better/best options and explained everything based on my budget. No pressure at all, which I appreciated. They even offered a payment plan, which made it easier to go ahead with new tires. Smooth experience overall.
 hours:
   monday: "8:00 AM–8:00 PM"
   tuesday: "8:00 AM–8:00 PM"

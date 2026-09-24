@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–7:00 PM"
 photos: ["/photos/myes-ribs-1.jpg", "/photos/myes-ribs-2.jpg", "/photos/myes-ribs-3.jpg"]
 rating: 4.4
-review_count: 260
+review_count: 262
 price_range: "$"
 amenities:
   - "Dine-In"

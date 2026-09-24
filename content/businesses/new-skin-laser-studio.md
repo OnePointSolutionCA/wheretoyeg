@@ -28,6 +28,16 @@ tags: ["edmonton", "laser-hair-removal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Lizzy Chow"
+    rating: 5
+    comment: |
+      Staff is very knowledgeable and informative. They are patient and accommodating with scheduling which helps a lot if you have a lot of family to care for like I do.  Its always a warm comforting atmosphere at the clinic and I feel like I leave having gotten a thorough, detailed treatment!
+      
+      I ask many questions and have the treatments adjusted as needed and it's always done above and beyond with good suggestions for future follow ups. My body is very important to me, but I trust their proven professionalism enough to leave it to them!
+      
+      PS. My treatments thus far were done by Shelby and she's amazing!  Sonya is also very informative and has helped me with my questions. I've gotten laser hair removal done for several body parts and can really see the difference. Looking forward to trying some of the many other variety of procedures they offer in the future such as spider vein removal, pore reduction, scar treatment, and anti-aging facials.
+      
+      PSS. Pictures are of my legs about 2 months since my last treatment. My skin has never been sensitive or inflamed after treatment. Look at that baby smooth skin!
   - name: "Tail Adventures"
     rating: 5
     comment: |
@@ -57,8 +67,4 @@ reviews:
       Sonya and Shelby are absolutely the best! They are so caring, professional, and genuinely made me feel comfortable throughout the whole process! I’m beyond satisfied with my results and so grateful for everything they’ve done for me.
       
       I 100% recommend them to anyone considering laser treatments. Thank you so much, Sonya and Shelby! 🫶✨
-  - name: "Me"
-    rating: 5
-    comment: |
-      had such a great experience with my hydra facial,  RF microneedling, and new skin treatment! Everyone was so friendly and made me feel really comfortable. I loved how they took the time to explain everything and made sure I was comfortable throughout the treatment. My skin feels so fresh and smooth, and I’m really happy with the experience. I would definitely recommend them! 😊
 ---

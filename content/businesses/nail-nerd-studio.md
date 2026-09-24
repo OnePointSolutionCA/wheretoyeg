@@ -18,7 +18,7 @@ hours:
   sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/nail-nerd-studio-1.jpg", "/photos/nail-nerd-studio-2.jpg", "/photos/nail-nerd-studio-3.jpg"]
 rating: 4.7
-review_count: 364
+review_count: 365
 price_range: "$$"
 amenities:
   - "Nail Art"
@@ -55,12 +55,12 @@ reviews:
       Another set of nails these ones by Irene and they are beautiful!! The holo butterfly nails are stunning. I brought her a video and she made my nails 100% exactly the same!!!
       
       Absolutely amazing!! They are so friendly, and are great at doing nails, I may have weird shaped toes but at least my nails look great, they even took time on my pink toe that barely has a nail 🤣 I will definitely go back
+  - name: "Kathy F"
+    rating: 5
+    comment: |
+      I just had to stop by and leave a review of this place, and particular, of Lydia! :) Came here today for the first time ever and was not disappointed. I got deluxe pedicure with Lydia and it was phenomenal! I felt so pampered and well taken care of. Lydia was so kind and sweet and I really enjoyed chatting with her throughout my service. She also gives an incredible foot massage, just saying! Big thanks to Nail Nerd and Lydia for a great experience! I will definitely be back in the future...I loved every minute of my 1.5 hours there today!
   - name: "E S"
     rating: 5
     comment: |
       I love this nail studio, probably the best I've ever been to. Lots of people see my nails/hands because of work and since starting to see Irene regularly, I've gotten so many complements on my nails! I always tell them I go to Nail Nerd Studio, and mention Irene, by name. They're reasonably priced, I believe. The booking is always very smooth and I easy. Irene pays so much attention to detail, I can't recommend her enough!
-  - name: "Victoria B"
-    rating: 5
-    comment: |
-      Irene is exceptional!! I’ve been coming here for a couple of months now and she kills it every time! Her talent and attention to detail is spectacular. My first time coming here I booked online and chose “anyone” and I got her but now I will continue to book with her every time! Highly recommended this place.
 ---

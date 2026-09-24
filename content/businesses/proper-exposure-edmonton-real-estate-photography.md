@@ -40,14 +40,14 @@ reviews:
     rating: 5
     comment: |
       I have used Air unlimited a few times and they are 5 stars in so many categories.  Price, customer service and talent.  Queen has been such an amazing help with organizing my short term rental photo shoots. Ted my preferred photographer is very talented and understands what is needed for great pictures for my short term rentals.  I have seen an increase in business. I highly recommend Air unlimited and will continue to use them.
-  - name: "Tania Menicucci"
-    rating: 5
-    comment: |
-      I am very happy with Air  Limited. They give quality photos and they are always happy to assist in adjusting or fixing any issues overall, I would highly recommend Their services to anyone who needs photos tours floorplan anything real estate related.
   - name: "Wanda Dawe"
     rating: 5
     comment: |
       Air Unlimited is a great company to work with, especially their back office support Team. I've had tremendous help from Pearl, Alpha, and currently Queen, as we prepare a listing for Market. Thanks to a great team, from photographers to their Service and Support, for a great experience!
+  - name: "Tania Menicucci"
+    rating: 5
+    comment: |
+      I am very happy with Air  Limited. They give quality photos and they are always happy to assist in adjusting or fixing any issues overall, I would highly recommend Their services to anyone who needs photos tours floorplan anything real estate related.
   - name: "Ruthie Fojas"
     rating: 5
     comment: |

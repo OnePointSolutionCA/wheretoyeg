@@ -18,7 +18,7 @@ hours:
   sunday: "12:00 PM–7:00 PM"
 photos: ["/photos/pho-boat-vietnamese-1.jpg", "/photos/pho-boat-vietnamese-2.jpg", "/photos/pho-boat-vietnamese-3.jpg"]
 rating: 4.6
-review_count: 118
+review_count: 120
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -28,10 +28,10 @@ tags: ["vietnamese", "pho", "banh-mi"]
 active: true
 date_listed: "2026-08-18"
 reviews:
-  - name: "Snake Plisken"
-    rating: 5
+  - name: "E Kung"
+    rating: 4
     comment: |
-      This gem is hidden off the beaten track on the way to shopping or a medical but it is worth the stop for lunch or dinner. The food is fresh and quite tasteful. The pho broth was amazing. The service is kind and welcoming and remembered us from another location. I would think that quality might deserve a little more room however but perhaps the quaint size allows for a more unique friendly experince than most. We left satisfied.
+      We went for a late lunch so tough to rate atmosphere.  The service was excellent, we had the beef stew and the bun bo hue.  The soup was tasty, right proportion of meat to noodles.
   - name: "Juan Quintero"
     rating: 5
     comment: |

@@ -32,10 +32,6 @@ reviews:
     rating: 3
     comment: |
       theyre really good at listening to what you specifically want and dont drill down your natural nails too much. but theres no nail preparation at all, they just drill down your nails and apply the nail extensions and start working on the colour. the nail tech also didnt put my nails under the uv light for an appropriate time, (less than 30 seconds) my nails are the darkers ones in this picture.
-  - name: "LINDA"
-    rating: 5
-    comment: |
-      My daughter took me for a pedicure as an early Birthday gift 💝  Tren (sorry if I am spelling your name wrong) did a wonderful pedicure and is very pleasant to visit with and we did not get the name of the other gal who was with my daughter but she was also very pleasant and gave a great pedicure. Everyone was very friendly. The spa is very clean, excellent prices and packages available. We will definitely be back. 2 happy customers here!
   - name: "Ariel Alexis"
     rating: 5
     comment: |
@@ -48,4 +44,8 @@ reviews:
     rating: 5
     comment: |
       Great experience getting a spa pedicure here! They do a leg scrub and leg massage with a lotion that you can choose from a few different scents. They use hot stones as apart of their massage and then also a parafin wax! Lots of colours of polish to choose from! I came with my fiancé and they were great with him and made him very comfortable getting a pedicure! They also gave us a lotion each to take home! Wonderful service!
+  - name: "LINDA"
+    rating: 5
+    comment: |
+      My daughter took me for a pedicure as an early Birthday gift 💝  Tren (sorry if I am spelling your name wrong) did a wonderful pedicure and is very pleasant to visit with and we did not get the name of the other gal who was with my daughter but she was also very pleasant and gave a great pedicure. Everyone was very friendly. The spa is very clean, excellent prices and packages available. We will definitely be back. 2 happy customers here!
 ---

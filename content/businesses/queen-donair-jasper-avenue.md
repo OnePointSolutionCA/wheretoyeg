@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–3:30 AM"
 photos: ["/photos/queen-donair-jasper-avenue-1.jpg", "/photos/queen-donair-jasper-avenue-2.jpg", "/photos/queen-donair-jasper-avenue-3.jpg"]
 rating: 4.8
-review_count: 4540
+review_count: 4562
 price_range: "$"
 amenities:
   - "Halal"
@@ -51,8 +51,8 @@ reviews:
     rating: 5
     comment: |
       So worth it!! Love this place especially after work where there's barely restaurant open late in the middle of the night. The portions were so so much we appreciated it. Very filling too
-  - name: "Полина Филоненкооо"
+  - name: "Jason Harmann"
     rating: 5
     comment: |
-      Amazing service, kind workers chicken donair was so filling and really really delicious. I will be definitely coming back. BOMB PLACE
+      Food and service is great! Thank you to Achi for being so friendly and welcoming and thank you for the food recommendations too! will definitely comeback to try the donair pizza! Hummus is great by the way, needed to get some more after the first serving! 😊
 ---

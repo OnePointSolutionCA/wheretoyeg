@@ -52,8 +52,10 @@ reviews:
       Steven is a REAL student of the game, he will take the time to explain why you should be doing what you're doing, how it benefits you and he will help keep you accountable.
       
       If you're looking for someone to help guide you on a journey in the gym, I don't think there is anyone else I could reccomend other than Steven.
-  - name: "Rhys St. Jean"
+  - name: "Evan Spitz"
     rating: 5
     comment: |
-      Steven is an awesome coach! He’s very knowledgeable and knows just how much to push me. I’ve been reaching my goals while working with him and he tailors the workouts to my schedule. Can’t say enough good things about him!
+      Steven is a great coach for powerlifting, bodybuilding, and athletic conditioning. He provides candid feedback and doesn’t sugar coat it!
+      
+      I highly recommend Steven for those new to lifting as well as advanced athletes.
 ---

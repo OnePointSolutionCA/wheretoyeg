@@ -27,6 +27,10 @@ reviews:
     rating: 4
     comment: |
       Stopped here while going through Edmonton and it was amazing. It was around Christmas time and the owner served us and gave us free chocolates for Christmas. Locally owned. I didn't expect much from the food but it blew my socks off. Definitely a must if you are in Edmonton.
+  - name: "A. Kim"
+    rating: 5
+    comment: |
+      I love Monty's Pizza. They are not cheap on the cheese. And the under carriage is perfect, not too thick or doughy, just a perfect ratio. I hope they come out with a deep dish. Because they have the perfect crust and undercarriage for it.
   - name: "Kevin Zentner"
     rating: 5
     comment: |
@@ -37,10 +41,6 @@ reviews:
     rating: 5
     comment: |
       Amazing food! Wonderful people that take great pride in what they do. The lettuce wrapped burger they made for was not only delicious but functional and gorgeous.  The pizza is to die for!! If you like a Greek salad there is no comparison! Oh, and the crispy chicken sandwich is off the hook. FRIES, YUM!
-  - name: "Anthony Juranko Paulino"
-    rating: 5
-    comment: |
-      Great service. The people working there are all friendly and really approachable. let alone that the food is amazing. Best pizza i have ever had
 hours:
   monday: "3:00 PM–10:00 PM"
   tuesday: "3:00 PM–10:00 PM"

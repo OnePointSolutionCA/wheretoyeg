@@ -19,8 +19,8 @@ hours:
   saturday: "11:00 AM–10:00 PM"
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/opa-of-greece-west-granville-centre-1.jpg"]
-rating: 4.3
-review_count: 45
+rating: 4.4
+review_count: 47
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -38,6 +38,10 @@ reviews:
     rating: 5
     comment: |
       Great food, great price and great staff! I work in the plaza and happily discovered this location was so close. Even during peak time, they offer the same great service and quality of food.
+  - name: "Nasya Gibson"
+    rating: 5
+    comment: |
+      Great food and comfortable environment. The lovely lady behind the counter came and asked how our meal was. Always great here!
   - name: "Neha Walter"
     rating: 5
     comment: |
@@ -46,10 +50,6 @@ reviews:
       The place is consistently clean, and the food is always delicious and reliable. You know exactly what to expect every time, and they deliver.
       
       Definitely a spot we keep coming back to!
-  - name: "Nasya Gibson"
-    rating: 5
-    comment: |
-      Great food and comfortable environment. The lovely lady behind the counter came and asked how our meal was. Always great here!
   - name: "Ryan White"
     rating: 4
     comment: |

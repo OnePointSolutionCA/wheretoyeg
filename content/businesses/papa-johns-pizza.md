@@ -28,17 +28,17 @@ reviews:
     rating: 5
     comment: |
       Literally love this place. I’ve been through all the pizza chains throughout the years and have officially settled here every Saturday. The consistency is unmatched and the workers are fantastic, the girl that works there on Saturday's will remember me and my order without even telling her most of the time. Just a sooooolid spot!
-  - name: "North 360"
-    rating: 1
-    comment: |
-      Ordered pizzas with 1-topping and extra cheese and they barely had any cheese or the meat topping on them.  Sent in a complaint but the reply provided no resolution to the issue.  I’ve had pizzas from here before and this will be the last time.  There are many other places to get pizza in town so this place has lost me as their customer.
   - name: "Alex Hare"
     rating: 5
     comment: |
       Food was delicious, the counter worker aided me in the correct sizes of pizzas i needed for the amount I was needed and offered great conversation while waiting for the pizzas to bake.
+  - name: "Mandy Seward"
+    rating: 1
+    comment: |
+      I ordered 4 pizzas. They came late, and what I ordered did not show up. So I complained to the driver. He told me that he could order another one but I would have to pay for it. I declined. We took it in and started to eat it. It was probably the worst pizza I've had.. It was stale and hard. I've ordered pizza from there before and have never had a problem. So I called. The employee who answered hung up on me. He then called me back and offered me a credit. I told him I didn't want it, I wanted a refund. I asked for the manager and he told me they would call me back. After 15 minute, I went in. The manager was the same man who delivered it and he was very rude. I told him my complaints. He told me he would not refund me for any of it. I could complain to corporate, but that was it. I'm livid.  Just a word of caution. Their business practices and customer service is terrible.
 hours:
   monday: "11:00 AM–11:00 PM"
-  tuesday: "11:00 AM–11:00 PM"
+  tuesday: "11:00 AM–8:00 PM"
   wednesday: "11:00 AM–11:00 PM"
   thursday: "11:00 AM–11:00 PM"
   friday: "11:00 AM–11:00 PM"

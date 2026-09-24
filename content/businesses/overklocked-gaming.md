@@ -54,12 +54,12 @@ reviews:
     rating: 5
     comment: |
       Overklocked Gaming is the best Gaming LAN center in Edmonton with more then 60 gaming PC's and a extremely huge amount of games to play! They even host tournaments as well and have PS5's and Nintendo Switch 2's! The Drinks Selections as well as snacks is a very good selection! Every time I come to Overklocked, it feels like home and the staff there is extremely friendly and always happy to help whenever you need anything! I recommend Overklocked Gaming for casual, competitive and new gamers who wants to get into gaming!
-  - name: "Sarah Holmes"
-    rating: 5
-    comment: |
-      Just had our son’s 12th birthday here. I can’t recommend this place enough. It was fantastic! My son and his friends all said it was the best birthday party ever!
   - name: "Leah Song"
     rating: 5
     comment: |
       I am really not knowledgeable about games but wanted to check the cafe out with my brother. I was very nervous about everything but the service was so great from the guy with the flannel.  My brother really enjoyed playing Fortnight here. Thank you Overklockd!
+  - name: "Misha Kas"
+    rating: 5
+    comment: |
+      Best gaming club I been to, the pcs are modern and the gaming device are great for gaming. Me and my friends went there and we had awesome time, the staff was very nice and helpful also I got 30 more minutes because I found one issue that I knew how to solve, definitely coming back again.😁
 ---

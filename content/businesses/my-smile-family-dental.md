@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/my-smile-family-dental-1.jpg", "/photos/my-smile-family-dental-2.jpg", "/photos/my-smile-family-dental-3.jpg"]
 rating: 4.7
-review_count: 1291
+review_count: 1294
 price_range: "$$"
 amenities:
 

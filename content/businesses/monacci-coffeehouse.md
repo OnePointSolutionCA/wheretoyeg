@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Windermere"
 address: "2055 163 St SW, Edmonton, AB T6W 4V5"
 rating: 4.7
-review_count: 415
+review_count: 416
 tier: "featured"
 phone: "(780) 435-4224"
 google_maps: "https://maps.google.com/?cid=14014394624084387795&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

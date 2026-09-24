@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Windermere"
 address: "6131 Currents Dr NW, Edmonton, AB T6W 2Z4"
 rating: 4.9
-review_count: 324
+review_count: 325
 tier: "featured"
 phone: "(780) 430-4333"
 website: "https://www.phandental.com/"
@@ -35,10 +35,14 @@ reviews:
     comment: |
       From someone who has been terrified of the dentist for years, i’ve had the most wonderful experiences at Phan Dental. I was referred to dr. Phan from a friend who also had terrible experiences in the past, and each visit has put my mind at ease and made my fears disappear. Truly grateful for him and his team.
       I recently had composite bonding done on my 6 upper teeth, and I’m beyond happy with how they turned out. Dr. Phan is extremely talented and has given me the smile I’ve always wanted, it’s truly life changing! I would recommend him to anyone, especially if you’re someone like me who has dental anxiety. Dr. Phan and his staff are very friendly and make the process so comfortable. You won’t find another dentist like him. Thank you again for my beautiful smile!
-  - name: "Gavin Stankievech"
+  - name: "EG L (ELG)"
     rating: 5
     comment: |
-      Dr Phan did an amazing job fixing my broken tooth. I can’t even tell the tooth was broken. I would definitely recommend anyone looking to have dental work done to go visit Phan dental. The staff there is amazing and makes the overall experience amazing.
+      Dr. Phan has consistently exceeded my expectations over the past 20 years, not only as my personal dentist but also for my entire family. His exceptional work is evident in my recent front teeth crown replacement, which looks absolutely amazing.
+      
+      He's earned my loyalty as a client by consistently demonstrating a high level of professionalism and expertise, ensuring I receive the best possible care
+      
+      It's been an absolute pleasure to witness the incredible work he's done for my family, and I'm particularly grateful for the guidance and mentorship he's provided to my daughter as she pursues a career in dentistry.
 hours:
   monday: "9:00 AM–5:00 PM"
   tuesday: "9:00 AM–5:00 PM"

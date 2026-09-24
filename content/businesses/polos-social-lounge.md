@@ -31,14 +31,6 @@ reviews:
       Ordered the calamari and that was good.
       I had the salmon, which was alright. I won't order it again, but it was definitely better than the steak.
       I will come back to try the recommended meatloaf and pad Thai.
-  - name: "Kelsey Bachand"
-    rating: 5
-    comment: |
-      Went to Polos for lunch yesterday and it was amazing. The booths are so cool and comfortable with individual TVs in some! The service, food, beer, atmosphere was an 11/10. Will be recommending to all our friends and family and will be back very soon! Thanks for the great experience.
-  - name: "Jaclyn L"
-    rating: 5
-    comment: |
-      It was a short 8 minute walk from my hotel so I braved the freezing rain and popped over. It was a pleasant spot to have a meal and a drink. Decent food, good atmosphere, prompt and friendly service. It’s a great place to go either as a single person or a group. I went to a few spots for food within walking distance of my hotel and this is one of the better options in the area.
   - name: "Rach P"
     rating: 5
     comment: |
@@ -47,6 +39,19 @@ reviews:
       We returned on Sunday for brunch. Since we had made reservations, we were given an allotted booth, which felt nice and cozy. I ordered the Texas skillet, and my husband got the chicken fried steak. It was well worth the price! Our host for the day was Maddy, who was great - very friendly, kind, and provided excellent customer service.
       
       This is the perfect spot for sports lovers, as they have cozy booths with TVs. I felt that was an excellent way to enjoy the games with your own little group while savoring drinks and food.
+  - name: "Curtis Fortin"
+    rating: 4
+    comment: |
+      I will definitely be coming back to Polos again, the atmosphere and restaurant layout is super cool. It has a hightened lunch time vibe but the booths and the way they are set up allow you to escape it without feeling isolated from the essence of the place.
+      I was told their pizza was the best, I had the Texas Meat Lovers, it was a hearty pizza but definitely not my taste. I watched other dishes go by me that looked excellent so I will be trying something else next time.
+      The service was decent but I would not say that it was up to what I would expect on this trip. The place was busy and she was urgently doing her best to get to every table in a timely manner so this is not a knock to our particular server that day. Perhaps they were simply understaffed that day.
+      We did mention that we were under a bit of a time crunch and still we did not get our food until about the 1 hour mark. So that did play into a less than desirable experience on this visit.
+      I would recommend this place to anyone that wants an extended lunch break, also a very good place for large groups.
+      I will be back and plan to adjust my review accordingly.
+  - name: "Wanda Tong"
+    rating: 1
+    comment: |
+      We came here for late night snacks, the server told us the featured soup is roasted red pepper and tomatoes. When we placed the order, there was none left. Ok, so ordered 3 French onion soups as there’s no other choices. We also ordered wings, a calamari, a pasta, and burger, and a grilled cheese. The food all came out good, especially the burger. But the calamari came out with 7 tiny pieces of calamari, and when we asked if that was correct, our server told us it’s right, it’s by weight. We came last time, it was definitely NOT this small. And, this is $17! With this, we will never come back to this restaurant again.
 hours:
   monday: "11:00 AM–10:00 PM"
   tuesday: "11:00 AM–10:00 PM"

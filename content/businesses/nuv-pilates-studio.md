@@ -15,7 +15,7 @@ hours:
   tuesday: "9:00 AM–8:30 PM"
   wednesday: "9:00 AM–8:30 PM"
   thursday: "9:00 AM–8:30 PM"
-  friday: "5:15 PM–8:30 PM"
+  friday: "9:00 AM–8:30 PM"
   saturday: "10:00 AM–4:00 PM"
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/nuv-pilates-studio-1.jpg", "/photos/nuv-pilates-studio-2.jpg", "/photos/nuv-pilates-studio-3.jpg"]
@@ -49,14 +49,12 @@ reviews:
     comment: |
       I had a wonderful experience at this Pilates studio. The instructor was incredibly patient, explaining each movement clearly and making sure everyone felt comfortable, no matter their level. As someone who’s balancing a busy schedule with my thesis work here in Edmonton, I really appreciated how supportive and encouraging they were throughout the class.
       The studio environment was calm, clean, and welcoming. The music was relaxing, the equipment was well organized, and the overall atmosphere made it easy to focus and unwind.
+  - name: "Kristina997 Drosdik"
+    rating: 5
+    comment: |
+      This was my very first Pilates experience, and it completely made me fall in love with it. The studio has such a welcoming and comfortable atmosphere, and the instructor is professional, attentive, and truly cares about every client. I’ve been coming here regularly and plan to continue. Highly recommend this studio to anyone who wants to try Pilates or deepen their practice.
   - name: "Tetiana Boyarchukova"
     rating: 5
     comment: |
       This studio very fresh , clean and so cozy, nice view in a huge windows on city , great accommodations, easy to get this place, reformers training give your body amazing opportunities, you exactly feel every muscle, this let you understand how is another level training fit you , feel so relaxed after, and my nervous system feels like no stress and pain and pressure in hole body gone , I highly recommend Alex , she’s trained with very strong skills and have great experience, a lot of passion and energy! My motivation and power go up ! Thank you so much, definitely come, I can’t wait next time go in Nuve Pilates studio
-  - name: "Viktoriya Rudenko"
-    rating: 5
-    comment: |
-      Absolutely love this Nuvé Pilates studio!
-      The vibe is super chill, the workouts are amazing, and the instructor really knows their stuff.
-      It’s so close to my place, which is a huge win. 10/10 would recommend! 🌿
 ---

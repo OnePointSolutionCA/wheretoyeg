@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Mill Woods"
 address: "9348 34 Ave NW, Edmonton, AB T6E 5X8"
 rating: 4.9
-review_count: 393
+review_count: 397
 tier: "featured"
 phone: "(780) 500-7555"
 website: "https://momowok.ca/"

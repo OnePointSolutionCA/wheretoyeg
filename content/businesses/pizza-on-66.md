@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "4240 66 St NW, Edmonton, AB T6K 4A2"
 rating: 4.9
-review_count: 87
+review_count: 90
 tier: "featured"
 phone: "(780) 850-2500"
 website: "https://www.pizzaon66.com/"
@@ -14,6 +14,18 @@ google_maps: "https://maps.google.com/?cid=6122143050424971217&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/pizza-on-66.jpg"
 reviews:
+  - name: "Shiv Dass"
+    rating: 5
+    comment: |
+      Had Pizza from here for the first time. It was soo good. Definitely try their tandoori pizza.. the wings are soo good and meaty, had 3 different flavors. Owner is really nice. Gave us a different flavor to try . We loved them. I would definitely go back next time and recommend everyone to and try the food here.
+  - name: "Kirat Sarao"
+    rating: 5
+    comment: |
+      Best punjabi style pizza i have ever had. Best taste ever. I had ordered pizza and fish pakora both tastes amazing. Would definitely go back. Best atmosphere and great customer service.
+  - name: "Theresa Wang - She / her"
+    rating: 5
+    comment: |
+      What a great experience! Picked up a large pizza and a couple of donairs for the family from Pizza on 66 for the first time last night - and it won't be the last. The service quick, friendly and attentive, the prices were affordable, the portion sizes were incredibly generous, and most importantly, the pizza was excellent! Lots of cheese, lots of toppings, so good! 5 stars!
   - name: "Shelbey Gadbois"
     rating: 5
     comment: |
@@ -25,25 +37,6 @@ reviews:
     rating: 5
     comment: |
       Excellent customer service and amazing pizza 🍕 highly recommend
-  - name: "Jason Dreamwever"
-    rating: 5
-    comment: |
-      An absolutely wonderful new pizza spot, I simply cannot recommend this place enough!
-      
-      I ordered thier 12.99 Lg two topping pizza, and while waited the owner gave me a complimentary bottle of water and engaged in friendly conversation. A great guy running a quality independent pizza spot.
-      
-      The Pizza was absolutely amazing! The cheese coverage was spot on with quality ingredients and toppings. The crust was super tasty, with perfect texture and quality.
-      Easliy the best 2 topper pizza I've had in Edmonton!!!
-      
-      If you're in the area check out this awesome lil pizza spot with donairs and a vast selection of wing flavors 💗🤤
-  - name: "Harshan Dhaliwal"
-    rating: 5
-    comment: |
-      The food here is always the best quality! Different than most pizza stores and the staff is always super friendly!
-  - name: "Harman Dhaliwal"
-    rating: 5
-    comment: |
-      You enter the place and get warm welcome by nice and polite staff. Food options are great. Ambience is good with see through kitchen where you can see fresh food is prepared. I definitely recommend this place. 👍🏻
 hours:
   monday: "11:00 AM–11:00 PM"
   tuesday: "11:00 AM–11:00 PM"

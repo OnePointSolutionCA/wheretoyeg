@@ -30,13 +30,10 @@ reviews:
     rating: 5
     comment: |
       the pizza is always fresh, hot and delicious, we order from here every time
-  - name: "David Cutting"
-    rating: 5
+  - name: "Andrea Menzak"
+    rating: 1
     comment: |
-      This is the kind of local joint you find that distinguishes the difference in quality between franchise and homemade. I could pay double for only half the quality of this pizza.
-      The ingredients are fresh, the owner is incredibly friendly, it feels like stopping off at your next door neighbour's house to grab some food when they're having a cookout.
-      Best part is this place is just a 2 minute walk from my building.
-      If you're in the area, I 100% recommend stopping by to get some pizza.
+      Around  1yr ago was the first time we ordered here for pick up the pizza wasnt worth the price we paid for 2 for 1 pizzas , they were very chincy on the toppings cheese and sauce id compare its rating  below  the ones you can buy in the freezer section at the grocer and so when my friend recently said the donairs are good,I went there today to try them, as we've decided in the past not to buy their ripp off pizza again. So today while there, long story short, I ordered 2 donairs and asked if they had fries. They said No and suggested for the kids mozza sticks, which I thought was mozzarella sticks wth the cheese inside.  Got home, husband devoured is donair whilst complaining about it's lack of contents. The pizza sticks  wasn't like assumed was like a garlic pizza bread, not a stick , it was over cooked I took a bite and noticed there was a hair on it , which I wasnt overly concerned about.  It happens. but then I noticed a disgusting ball of fuzz cooked into the cheese and it ruined my entire appetite , no one wanted to eat anything after this  and whom already ate claimed that their "mouth felt fuzzy".
 hours:
   monday: "4:00 PM–2:00 AM"
   tuesday: "4:00 PM–2:00 AM"

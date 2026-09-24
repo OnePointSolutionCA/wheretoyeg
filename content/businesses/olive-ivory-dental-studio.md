@@ -31,6 +31,14 @@ reviews:
       It’s rare to leave a dental appointment feeling this impressed — but I truly did! 🦷✨
       
       10/10 would recommend. If you’re looking for a dental clinic where you actually feel valued and taken care of, definitely give them a try!
+  - name: "AJ (Pips007)"
+    rating: 5
+    comment: |
+      I’ve always been a bit anxious about going to the dentist, but the team here completely changed that. The entire staff is warm, compassionate, and takes the time to answer all of your questions. They went out of their way to make sure I was relaxed and pain-free during my cleaning. I am so grateful to have found such a wonderful, patient-focused practice and highly recommend them to anyone!
+  - name: "Diana Hutsul"
+    rating: 5
+    comment: |
+      Olive + Ivory Dental Studio is an absolute dream. The interior is stunning - elegant, modern, and thoughtfully designed, with everything feeling elevated. From the moment you walk in, the atmosphere is calm and welcoming. The entire team is incredibly kind and professional, and Dr. Jehan is truly exceptional - warm, skilled, and attentive. Also… I don’t think I’ve ever had an eye patch during a dental appointment before - such a thoughtful, luxe touch. I’m genuinely impressed. Highly recommend. ✨
   - name: "Effie Steele"
     rating: 5
     comment: |
@@ -40,14 +48,6 @@ reviews:
       The clinic itself is absolutely stunning beautifully designed, spotless, and incredibly inviting. Every interaction, from the front desk staff to Dr. Jehan and Victoria, was exceptional. Their professionalism, compassion, and dedication to patient care shine through in everything they do.
       
       It’s rare to find a dental clinic where you feel so valued and at ease from start to finish. I left feeling grateful for the experience and confident that I was in excellent hands. I highly recommend this clinic to anyone looking for outstanding dental care in a welcoming and supportive environment.
-  - name: "AJ (Pips007)"
-    rating: 5
-    comment: |
-      I’ve always been a bit anxious about going to the dentist, but the team here completely changed that. The entire staff is warm, compassionate, and takes the time to answer all of your questions. They went out of their way to make sure I was relaxed and pain-free during my cleaning. I am so grateful to have found such a wonderful, patient-focused practice and highly recommend them to anyone!
-  - name: "Diana Hutsul"
-    rating: 5
-    comment: |
-      Olive + Ivory Dental Studio is an absolute dream. The interior is stunning - elegant, modern, and thoughtfully designed, with everything feeling elevated. From the moment you walk in, the atmosphere is calm and welcoming. The entire team is incredibly kind and professional, and Dr. Jehan is truly exceptional - warm, skilled, and attentive. Also… I don’t think I’ve ever had an eye patch during a dental appointment before - such a thoughtful, luxe touch. I’m genuinely impressed. Highly recommend. ✨
 hours:
   monday: "8:00 AM–4:00 PM"
   tuesday: "8:00 AM–4:00 PM"

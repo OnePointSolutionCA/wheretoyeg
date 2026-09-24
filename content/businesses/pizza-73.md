@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Spruce Grove"
 address: "16 Westway Rd, Spruce Grove, AB T7X 3X3"
 rating: 4
-review_count: 345
+review_count: 346
 tier: "featured"
 phone: "(780) 473-7373"
 website: "https://www.pizza73.com/restaurant-locator/alberta/spruce-grove/16-westway-rd/?utm_source=google&utm_medium=local&utm_campaign=google-local"

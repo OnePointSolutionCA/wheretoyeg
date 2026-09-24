@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/ouzo-taverna-1.jpg", "/photos/ouzo-taverna-2.jpg", "/photos/ouzo-taverna-3.jpg"]
 rating: 4.9
-review_count: 550
+review_count: 555
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -38,26 +38,21 @@ reviews:
       The patio atmosphere was beautiful, especially in the evening sun, and the service was excellent from start to finish. I also want to mention the GM, who was incredibly kind and welcoming. They went above and beyond and surprised us with complimentary dessert, which was such a thoughtful gesture and really made the experience memorable.
       
       Highly recommend this place if you’re looking for authentic Greek food, generous hospitality, and a great atmosphere. Easy 5 stars. ⭐⭐⭐⭐⭐
-  - name: "Kaylee Brown"
-    rating: 5
-    comment: |
-      This was such an amazing meal! By far some of the best food I’ve ever had. Everything was incredibly fresh and flavourful. Despite the generous portions of carbs and protein, we both felt full yet so light - unlike many restaurants that leave you feeling heavy. An absolute gem on the North side. Staff were incredibly friendly, and the patio is lovely. Highly recommend giving this a try for the best Greek food in the city!
   - name: "Adriana Elisa Martinez"
     rating: 5
     comment: |
       The food is 12/10. We ordered calamari, ouzo shrimp, pita and tzatziki for appetizers. For entree, the lamb chops were sooo good. The rice and potatoes are seasoned to perfection. To finish, we had unreal baklava, best I’ve ever had, thanks to the General Manager, Ross for being so kind and hospitable.
       If you like Greek food, you need to come to Ouzo Taverna.
-  - name: "Janice Cheung"
+  - name: "Kaylee Brown"
     rating: 5
     comment: |
-      Came here for lunch on a Sunday and was surprised to be the only table, this place really is a hidden gem!!
-      We ordered the spartan set menu and it was enough for three of us to share.
-      Everything was perfectly seasoned and the meat as nice and tender.
-      The baklava is a must! Unlike any other baklava I’ve tried before.
-      Service was great as well.
-      If you enjoy Greek food this place is a must try!
+      This was such an amazing meal! By far some of the best food I’ve ever had. Everything was incredibly fresh and flavourful. Despite the generous portions of carbs and protein, we both felt full yet so light - unlike many restaurants that leave you feeling heavy. An absolute gem on the North side. Staff were incredibly friendly, and the patio is lovely. Highly recommend giving this a try for the best Greek food in the city!
   - name: "Deanna Blaq"
     rating: 5
     comment: |
       Our ‘supper club’ chose Ouzo this month because it’s in the neighbourhood for us all, and we a very nice time! It’s very light and airy when you walk in. The food didn’t take too long to arrive once ordered. Had the chicken souvlaki and the portion size was great!  The chicken was tender and juicy, the pita warm and fresh, the tzatziki nice and tangy. If you like Greek food, this place is authentic! Alex was a great waiter, very tentative and always made sure we had what we needed.  They gifted us some of their homemade baklava for dessert and it was delicious! Sweet and filled with warm spices. Don’t mind the picture, I was already a skewer and a half a potato in before I remembered to take a photo.  The only complaint I have is that there was only ONE OLIVE in my Greek salad!!!!!  More olives please!!!!  Looking forward to warmer weather when we can go back and sit on the patio!
+  - name: "Brenda Lusk"
+    rating: 5
+    comment: |
+      What a hidden gem 💞 this restaurant serves the best fresh homemade Greek food I have ever had.  We went for a ladies dinner and they did not disappoint. We ordered the dinner for four and it was the perfect amount.  The freshness and flavor is memorable.  There family recipe for the baklava was out of this world.  So different but so good.  We will be back
 ---

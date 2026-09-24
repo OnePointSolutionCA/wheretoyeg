@@ -40,13 +40,13 @@ reviews:
     rating: 5
     comment: |
       After getting my prescriptions from Shoppers Drug Mart for years, New Sprout is a breath of fresh air! Joseph, Anastasia and staff remember me by name each time I go in, answer all my questions, and are friendly and quick putting together my order. Highly recommend this little pharmacy to anyone else looking to make the switch from a big chain!
+  - name: "Danielle F"
+    rating: 5
+    comment: |
+      Wonderful pharmacists. Great service. They have handled the care of my family members - both young and old (toddlers & seniors). Always pleased with their care and the pharmacy itself is very clean and well organized.
   - name: "Karen King"
     rating: 5
     comment: |
       Always friendly never have to wait long to pick up prescriptions
       Would recommend this place to anyone
-  - name: "Jenna Snow"
-    rating: 5
-    comment: |
-      I wanted to switch from a large chain drug store to a locally owned and operated one. I am very happy with my decision. I have never received such amazing service from any other business. This pharmacy handles my sometimes confusing billing with no problems. They offer free delivery when I can’t make it to pick up, often same day. I’m very grateful I chose this pharmacy! Highly recommend.
 ---

@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Castle Downs"
 address: "10807 Castle Downs Rd NW #202, Edmonton, AB T5X 3N7"
 rating: 4.9
-review_count: 348
+review_count: 350
 tier: "featured"
 phone: "(780) 757-3368"
 website: "http://www.northside-dental.com/"
@@ -37,12 +37,10 @@ reviews:
       What I expected to be a very stressful appointment turned out to be calm and reassuring. That says a lot.
       
       If you struggle with dental anxiety, I highly recommend Dr. Joma and the team at Northside Dental. I’m very grateful for the care I received.
-  - name: "Patricia Larocque"
+  - name: "Vera"
     rating: 5
     comment: |
-      By far the best clinic I've ever been to for myself. The staff were incredibly patient, I have anxiety with these clinics and they made the best out of a terrible situation. I have returned  and brought my young children for their appointments. They reconstructed my front teeth and I feel amazing.  They were incredibly supportive throughout the entire process and the staff are sincere. I keep coming back for and the reception staff are amazing to deal with. Wonderful people work here.  Thank you!
-      
-      As I continue to return the staff are so kind and gentle with their work.  The empathy radiates from these kind individuals.
+      I had great experience in this dental office. Everyone was so professional and kind making me very comfortable and  safe and they all take great care of their patients.
 hours:
   monday: "10:00 AM–6:00 PM"
   tuesday: "10:00 AM–6:00 PM"

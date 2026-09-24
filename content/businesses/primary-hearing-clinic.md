@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Castle Downs"
 address: "10807 Castle Downs Rd NW Ste 214, Edmonton, AB T5X 3N7"
 rating: 5
-review_count: 92
+review_count: 95
 tier: "featured"
 phone: "(780) 929-4327"
 website: "https://primaryhearingclinic.com/"
@@ -13,6 +13,10 @@ google_maps: "https://maps.google.com/?cid=17814770579304132065&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/primary-hearing-clinic.jpg"
 reviews:
+  - name: "Dilara"
+    rating: 5
+    comment: |
+      I had an excellent experience here at Primary Hearing Clinic. Jehad was incredibly thorough, knowledgeable, and took the time to explain everything in a way that was easy to understand. What stood out most was how informative and attentive he was throughout the entire visit. It’s clear that he genuinely cares about his patients and wants them to fully understand their condition and treatment options.I left feeling reassured, well informed, and confident in the care I received. I would highly recommend this clinic to anyone!
   - name: "Amina Lang"
     rating: 5
     comment: |
@@ -37,12 +41,6 @@ reviews:
     rating: 5
     comment: |
       Had a great experience at this hearing aid clinic. Jehad took amazing care of me and my family, he was patient, knowledgeable, and really took the time to explain everything clearly. What stood out the most was how fair and transparent the pricing was compared to other places we looked at. You can tell they genuinely care about helping people rather than just selling products. Highly recommend.
-  - name: "Nasima Abdi"
-    rating: 5
-    comment: |
-      The receptionist is very respectful on the phone, and in person she is welcoming and warm. Dr. Jehad was extremely professional, he never rushed and took the time to make sure I understood everything. He explained all the tests step by step, which I really appreciated.
-      
-      I highly recommend Primary Hearing Clinic because you truly feel taken care of. It’s clear that the doctor genuinely wants the best for his patients.
 hours:
   monday: "9:00 AM–5:00 PM"
   tuesday: "9:00 AM–5:00 PM"

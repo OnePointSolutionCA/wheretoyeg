@@ -13,6 +13,10 @@ google_maps: "https://maps.google.com/?cid=4424826856063845287&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/palisades-dental-clinic.jpg"
 reviews:
+  - name: "roberto gonzales"
+    rating: 1
+    comment: |
+      Was so frustrated and upset when Palisades Dental contacted me by the name of Teggy.  In the voicemail, she mentioned that I need to call back their office because  of the claim that didn't went through last month and asking if there's any changes on my insurance.  This is surprising because we moved dental clinic for more than a year now and never visited their clinic at all.  This is not a good impression where dental clinic is calling you for a wrong information.
   - name: "Mahsa Besharati"
     rating: 5
     comment: |
@@ -29,10 +33,6 @@ reviews:
     rating: 5
     comment: |
       Dr. Parmar and his staff are absolutely incredible. I have never been to such an amazing dental clinic. If you are looking for a dentist, I would highly recommend this office. They are so kind, non judgmental, and compassionate. I wish I could give more than 5 stars, because that is how incredible they are!!!!!!!!!!!!!!!
-  - name: "Iliriana Pllana"
-    rating: 5
-    comment: |
-      Palisades Dental is a phenomenal dental clinic, I actually enjoy going to my appointments! Dr. Parmar is so knowledgeable and truly cares about his patients. Every time I go in I am greeted with a smile, the ladies working there are so kind. If you haven’t found a dentist yet I would highly recommend Palisades Dental!
 hours:
   monday: "Closed"
   tuesday: "9:30 AM–4:30 PM"

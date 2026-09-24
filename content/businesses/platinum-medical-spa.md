@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/platinum-medical-spa-1.jpg", "/photos/platinum-medical-spa-2.jpg", "/photos/platinum-medical-spa-3.jpg"]
 rating: 4.8
-review_count: 768
+review_count: 767
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,10 @@ tags: ["edmonton", "medspa"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Kinan Haj"
+    rating: 5
+    comment: |
+      Amazing results with laser hair removal .best laser hair removal,coolsculpting was a great experience at platinum medical spa. I also loved the halo laser resurfacing. They have the most advanced machines in the market
   - name: "Noor Neyamati"
     rating: 5
     comment: |
@@ -40,14 +44,6 @@ reviews:
       Reena is an amazing injector—so skilled, precise, and always makes me feel completely comfortable. And Hana is truly a master when it comes to laser treatments—her expertise is unmatched.
       
       The staff are always friendly, knowledgeable, and incredibly accommodating when it comes to booking appointments. Every visit is a great experience, and I wouldn’t trust anyone else with my treatments. Highly recommend!
-  - name: "Michelle."
-    rating: 5
-    comment: |
-      The new clinic is absolutely beautiful—modern, inviting, and thoughtfully designed. From the moment you walk in, the staff greet you with warm, genuine smiles that instantly make you feel welcome. Their sincerity really stands out—you can tell they truly care about your comfort and overall experience. The rooms are spotless, well-maintained, and clearly sanitized to a high standard, which adds so much trust and peace of mind.
-      
-      The treatment itself was exceptional—very gentle, precise, and clearly tailored to your needs. They take the time to explain each step beforehand and check in with you throughout, ensuring you feel comfortable and informed. You never feel rushed, and their attention to detail shows in both the process and the results.
-      
-      The refreshment area is a lovely touch, and parking is decent with a location that’s easy to find. Overall, the entire experience feels elevated and truly makes every penny worth it.
   - name: "Esraa Alaa"
     rating: 5
     comment: |

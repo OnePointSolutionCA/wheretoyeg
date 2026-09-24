@@ -20,7 +20,7 @@ hours:
   sunday: "10:30 AM–10:00 PM"
 photos: ["/photos/planet-lazer-1.jpg", "/photos/planet-lazer-2.jpg", "/photos/planet-lazer-3.jpg"]
 rating: 4.3
-review_count: 322
+review_count: 324
 price_range: "$$"
 amenities:
 

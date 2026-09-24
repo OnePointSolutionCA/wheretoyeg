@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–1:00 PM"
 photos: ["/photos/movenetics-physiotherapy-1.jpg", "/photos/movenetics-physiotherapy-2.jpg", "/photos/movenetics-physiotherapy-3.jpg"]
 rating: 5
-review_count: 328
+review_count: 333
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -46,14 +46,6 @@ reviews:
     rating: 5
     comment: |
       Great facility, wonderful staff. Mike is a fantastic Physiotherapist. He makes you feel at ease with his friendly nature, but is extremely knowledgeable in his treatment. Brooke is an amazing Chiropractor. I like her effective, gentle approach. Can't say enough good things about her. Very easy for me to refer Movenetics on to family and friends without hesitation.
-  - name: "Pavlo Hryhorash"
-    rating: 5
-    comment: |
-      I had a great experience at Movenetics and would highly recommend it. The team is professional, knowledgeable, and truly cares about helping you improve.
-      
-      Mike took the time to clearly explain my issue and helped me understand what’s going on with my body, which made a huge difference. Alexis has been amazing with massage therapy and other treatments—she’s helped me a lot, and I’m very grateful for her care and attention.
-      
-      Overall, I feel much better and more confident about my recovery thanks to them. Thank you, Movenetics!
   - name: "Bassma Halabi"
     rating: 5
     comment: |
@@ -62,4 +54,8 @@ reviews:
       The entire team is incredibly friendly, welcoming, and professional. From the moment you walk in, the staff make you feel comfortable and well taken care of. The level of care and attention they provide is outstanding.
       
       I highly recommend this clinic to anyone looking for quality physiotherapy, chiropractic care, and massage therapy with a team that genuinely cares about their patients!
+  - name: "Sonia Piano"
+    rating: 5
+    comment: |
+      I’m extremely impressed with Movenetics. All of the staff are extremely friendly. And the facilities and equipment are top-notch. But I’m extremely impressed with my physiotherapist, Jacob. I broke my tibia and my mind was swirling with so many questions and he answered everything so professionally and compassionately.  I just know I’m in good hands
 ---

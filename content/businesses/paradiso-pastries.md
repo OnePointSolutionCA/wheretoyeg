@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/paradiso-pastries-1.jpg", "/photos/paradiso-pastries-2.jpg", "/photos/paradiso-pastries-3.jpg"]
 rating: 4.3
-review_count: 471
+review_count: 473
 price_range: "$$"
 amenities:
   - "Halal"

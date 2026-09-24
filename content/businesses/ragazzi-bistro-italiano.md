@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Whyte Ave"
 address: "8110 Whyte Ave NW, Edmonton, AB T6C 0Y4"
 rating: 4.6
-review_count: 870
+review_count: 871
 tier: "featured"
 phone: "(780) 414-0500"
 website: "http://www.ragazzibistro.ca/"

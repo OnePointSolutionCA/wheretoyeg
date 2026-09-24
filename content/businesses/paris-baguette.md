@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Windermere"
 address: "10607 82 Ave NW Unit #8, Edmonton, AB T6E 2A3"
 rating: 4.2
-review_count: 1034
+review_count: 1036
 tier: "featured"
 phone: "(587) 520-8716"
 website: "https://www.parisbaguette.ca/fr/locations/ab/edmonton/10607-82-avenue-nw/"
@@ -42,14 +42,17 @@ reviews:
     rating: 3
     comment: |
       Nice place for pastries, although I wouldn’t say they’re the best I’ve had. If you’re looking for high-quality coffee, this might not be the spot. However, the service is excellent, the staff is very friendly and attentive, which makes the experience enjoyable.
-  - name: "Andy Chiang"
-    rating: 4
+  - name: "Ginger Ebbett"
+    rating: 5
     comment: |
-      Cool bakery with lots of options and coffee selection.
+      *Only tried dessert, not coffee or food*
+      As a baker, fantastic variety and skill. Great prices for what you are getting. I wasn't counting, but I saw New York, Japanese, French and Georgia style pastries just to name a few. The variety and prices make it great for dates and family outings.
       
-      Pricing is more on the expensive side for a bakery, but they have a lot of variety of items including cakes and donuts.
+      Unique, gourmet cakes with a variety of fillings that are specialty. There is something for even the pickiest of foodies, I think, and the packaging is fantastic / little carry out boxes and giftwraps.
       
-      Definitely worth a stop for a morning meal or afternoon snack.
+      The flavors are good, creative.
+      
+      Don't like that I have to pay/get a receipt to access the bathroom; there was a line and I would have been more comfortable looking/grabbing my food with freshly washed hands / an empty bladder.
 hours:
   monday: "6:00 AM–9:00 PM"
   tuesday: "6:00 AM–9:00 PM"

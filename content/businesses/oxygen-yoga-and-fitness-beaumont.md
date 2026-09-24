@@ -21,10 +21,6 @@ reviews:
     rating: 5
     comment: |
       I absolutely love this gym! It's perfect for busy people who want to stay committed to their health and fitness goals while maintaining a balanced lifestyle. The staff are friendly, professional, and always helpful. A special thank you to Jodi, the owner, for her kindness and dedication to creating such a welcoming community. The classes are fantastic, with great options for all fitness levels. I highly recommend this gym and give it a well-deserved 10/10! ⭐⭐⭐⭐⭐
-  - name: "Kim Virus"
-    rating: 5
-    comment: |
-      It’s so nice to have hot yoga in Beaumont !! (That’s not over priced). Facility is brand new and so nice.  I won a really nice water bottle at the opening house !!
   - name: "Crystal Croft"
     rating: 5
     comment: |
@@ -34,6 +30,10 @@ reviews:
     rating: 5
     comment: |
       This is my absolute favorite fitness spot! Every single instructor is amazing, and I love the warm welcome I receive here every day. Jodi is incredible—her classes are so powerful, and her calm, peaceful voice keeps you pushing through the toughest moments. Chantele brings an unmatched energy and power that gives you a great kick, keeping you motivated all day long. Rhea’s classes are a wonderful way to connect with myself, and I only wish her 60-minute sessions lasted longer! Christy and Tracey are also fantastic instructors who add so much value to the schedule. I highly recommend this community!
+  - name: "karla reyes"
+    rating: 5
+    comment: |
+      I just tried out the new OYF in Beaumont and I am soo thrilled that they opened in our community. They offer different types of classes which accommodates all kids of fitness levels.The place is brand new and the instructors are fun and upbeat. The studio has showers as well so you can get ready after your class. Lots of free parking available! Highly recommend
 hours:
   monday: "9:00 AM–1:00 PM"
   tuesday: "9:00 AM–1:00 PM"

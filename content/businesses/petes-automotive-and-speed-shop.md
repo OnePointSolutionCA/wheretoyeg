@@ -18,10 +18,6 @@ reviews:
     rating: 5
     comment: |
       I can't recommend these guys enough. They're a fantastic local shop that genuinely cares about doing things the right way, and they're always honest, friendly, and fair with their pricing. Whether it's my daily driver WRX, my JDM kei cars, or my '85 MR2, they're the only people I trust to work on them. Great people, great service, and a business that truly deserves the support.
-  - name: "Deanna Laursen"
-    rating: 5
-    comment: |
-      I can’t recommend this shop enough! They’ve helped me twice now with power steering issues, and both experiences have been outstanding. From the moment I contacted them, they were professional, honest, and incredibly helpful. Finding a trustworthy automotive shop can be difficult, but this team has earned my complete confidence. I won’t hesitate to bring my vehicle back in the future and would highly recommend them to anyone looking for reliable, honest, and knowledgeable mechanics.
   - name: "Jessy"
     rating: 5
     comment: |
@@ -34,6 +30,10 @@ reviews:
     rating: 5
     comment: |
       Where does one begin the service level right from the first phone? Call into the automotive shop is clearly centred on the customer. The warm welcome the assurance of things getting done. The follow ups the communication second and none. I can’t say enough about the experience that I had there other than to say this They’re very few shops and all of Canada that will serve you and take care of you like Pete #AUTO the team is amazing and I for one will always recommend Pizza’s #AUTO for your automotive needs
+  - name: "Johnnn. Darrelll"
+    rating: 1
+    comment: |
+      called in for a oil change quote on my mazda 6 , told the lady ill be bringing my own oil and filter, she went on to quote me 90 bucks for the job whereas 90% of the shop charges 50 bucks. Very interesting shop. Lady definitely needs more training.
 hours:
   monday: "7:30 AM–5:30 PM"
   tuesday: "7:30 AM–5:30 PM"

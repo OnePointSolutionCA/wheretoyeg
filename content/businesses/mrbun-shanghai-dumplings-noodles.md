@@ -19,7 +19,7 @@ hours:
   sunday: "11:30 AM–8:00 PM"
 photos: ["/photos/mrbun-shanghai-dumplings-noodles-1.jpg", "/photos/mrbun-shanghai-dumplings-noodles-2.jpg", "/photos/mrbun-shanghai-dumplings-noodles-3.jpg"]
 rating: 4.3
-review_count: 377
+review_count: 378
 price_range: "$$"
 amenities:
   - "Dine-In"

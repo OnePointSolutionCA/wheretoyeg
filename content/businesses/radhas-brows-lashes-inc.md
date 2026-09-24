@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/radhas-brows-lashes-inc-1.jpg", "/photos/radhas-brows-lashes-inc-2.jpg", "/photos/radhas-brows-lashes-inc-3.jpg"]
 rating: 5
-review_count: 201
+review_count: 202
 price_range: "$$"
 amenities:
 

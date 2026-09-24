@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Castle Downs"
 address: "10706 134 Ave NW, Edmonton, AB T5E 1J8"
 rating: 4.7
-review_count: 814
+review_count: 815
 tier: "featured"
 phone: "(780) 473-1555"
 website: "http://www.eatmonaspizza.com/"
@@ -41,10 +41,10 @@ reviews:
       The service was top-notch! The staff was attentive, making sure everything was perfect without being intrusive. The restaurant itself was clean, cozy, and had a great vibe, making it a fantastic spot for both casual dinners and special occasions.
       
       If you’re craving great pizza and burgers, this is the place to go! Highly recommended, and I’ll definitely be back
-  - name: "NOAH HATOUM MEDIA"
+  - name: "Ali Hammoud"
     rating: 5
     comment: |
-      One of the best pizza spots in Edmonton! The pizza was fresh, flavorful, and perfectly cooked with amazing dough and quality toppings. The salmon burger was also incredible juicy and packed with flavor. You can really tell they care about the quality of their food and service. Highly recommend Mona’s Pizza if you’re looking for delicious food and great customer service!
+      Absolutely loved my experience at Mona’s Pizza! The place was very clean and had a comfortable atmosphere. The staff provided excellent service, and my pizza came out quickly. The flavor was amazing—it even reminded me of the pizza I grew up eating. I also tried their gluten-free option, and it was honestly the best I’ve ever had. Every bite was a burst of flavor. I’ll definitely be coming back!
 hours:
   monday: "12:00 PM–10:00 PM"
   tuesday: "12:00 PM–10:00 PM"

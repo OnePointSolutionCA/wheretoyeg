@@ -18,7 +18,7 @@ hours:
   sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/muttart-conservatory-1.jpg", "/photos/muttart-conservatory-2.jpg", "/photos/muttart-conservatory-3.jpg"]
 rating: 4.7
-review_count: 2516
+review_count: 2529
 price_range: "$$"
 amenities:
   - "Family Friendly"
@@ -39,15 +39,6 @@ reviews:
       Super informative and beautiful place to visit AND it's not too far away from central Edmonton. Absolutely loveeeee the tropical pyramid as we recognized so many popular houseplants and their potential (they got so much bigger in their ideal environment). The calathea here were so much healthier and bigger than mine at home.
       
       Employees were very friendly too. We visited on a weekday and there were still many other visitors as well as kids. We saw that Muttart also have adult-only night/day so that's an option for future visits!
-  - name: "Tara B"
-    rating: 5
-    comment: |
-      It's always beautiful here. Even the outside table & chairs area before you go in is beautiful, it's filled with waterfalls and flower pots etc.
-      
-      My family and I enjoyed the pyramids, we were one day short of the new feature pyramid so that wasn't open and we got a discount cause of it which was nice.
-      I miss the old store they had here though. It had really nice locally made things so that was disappointing that it's gone, it's just a full plant store now.
-      
-      This past time they had a feature on Barbies which my girls and I really liked. They had really pretty flower ones we'd never seen before, as well as a bunch of old ones throughout their them including the original. So that was fun too!
   - name: "Shizuka"
     rating: 5
     comment: |
@@ -64,4 +55,8 @@ reviews:
       Great way to spend a rainy day, as you can still view nature while indoors (it was pouring rain when we went!). The different plant varieties and climate environments (tropics, arid, etc) were wonderful to experience and shows this place is run by people who care about plants. The plants in each section were well taken care of, and the design with the pyramids separating the different ecosystems was pretty unique. There’s also a koi pond here. It’ll probably take about an hour or less to walk through all the plant exhibits.
       
       They also sell plants too in the gift shop area. They have a small cafe to rest, but the drink was okay.
+  - name: "Holly Best"
+    rating: 5
+    comment: |
+      Abaolutely love the Muttart Conservatory! It is disability friendly whether you are outside in the park, or indoors in the pyramids, or just in the plant shop at the front, there are wide halls, gently sloped floors and easy transitions. While it was crowded with school tours the day we went, it was still a lovely experience, but if you want adult only, they can offer that as well! All in all, this is a budget friendly, family friendly adventure you would be sad to miss when visiting Alberta's capital.
 ---

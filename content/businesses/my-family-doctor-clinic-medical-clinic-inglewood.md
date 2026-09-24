@@ -38,6 +38,10 @@ reviews:
     rating: 1
     comment: |
       I took my 8 month old here for an ear infection as my local clinic was closed. He didn’t wear gloves or wash his hands, he was very aggressive pulling my baby’s ears as she was crying and telling her to stop. He then asked me “do you want antibiotics? It’s a mild infection”. I got antibiotics for her but when we left I noticed her ear was twice as red. Never bring children here. He has no patience.
+  - name: "Jolanta Kulig"
+    rating: 5
+    comment: |
+      It’s a long overdue when we ( myself and my wife) should put a review of Dr McDonald medical practice. In one sense- exceptional doctor. Don’t be deceived by appearance ( Europeans have that very often, but to know that you either have to be from Europe by yourself or travel intensely and know other countries and cultures). Going back to the core. McDonald is a born helper who really cares about your illness. We experience minor things but long time ago we recommend Dr McDonald to one of our friends- Mark Totan ( I’m not ashamed to put the name because the story is real and can be easily verified, so you have a name. You can even Google who Mark Totan was ). Anyway Mark visited few doctors and they were not giving any hope. Only McDonald took care of him and extended Mark life few good years. Any one would be thankful for that. And Mark was . We are also very thankful for having a Doctor who really cares
   - name: "Danny Robinson"
     rating: 5
     comment: |
@@ -46,10 +50,6 @@ reviews:
       I’ve visited Dr. MacDonald numerous times and have never waited more than 15 minutes, which speaks volumes about his respect for patients’ time. His staff is just as impressive—polite, smart, and incredibly professional. Together, they create a warm, efficient environment that takes the stress out of medical visits.
       
       If you’re looking for a doctor who genuinely listens, cares, and ensures you feel at ease, Dr. MacDonald is the perfect choice. Highly recommend!
-  - name: "Jolanta Kulig"
-    rating: 5
-    comment: |
-      It’s a long overdue when we ( myself and my wife) should put a review of Dr McDonald medical practice. In one sense- exceptional doctor. Don’t be deceived by appearance ( Europeans have that very often, but to know that you either have to be from Europe by yourself or travel intensely and know other countries and cultures). Going back to the core. McDonald is a born helper who really cares about your illness. We experience minor things but long time ago we recommend Dr McDonald to one of our friends- Mark Totan ( I’m not ashamed to put the name because the story is real and can be easily verified, so you have a name. You can even Google who Mark Totan was ). Anyway Mark visited few doctors and they were not giving any hope. Only McDonald took care of him and extended Mark life few good years. Any one would be thankful for that. And Mark was . We are also very thankful for having a Doctor who really cares
   - name: "Kristie M"
     rating: 1
     comment: |

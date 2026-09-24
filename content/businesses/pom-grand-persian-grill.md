@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–10:00 PM"
 photos: ["/photos/pom-grand-persian-grill-1.jpg", "/photos/pom-grand-persian-grill-2.jpg", "/photos/pom-grand-persian-grill-3.jpg"]
 rating: 4.5
-review_count: 755
+review_count: 758
 price_range: "$$"
 amenities:
   - "Dine-In"

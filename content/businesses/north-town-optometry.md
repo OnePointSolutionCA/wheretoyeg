@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "9450 137 Ave NW Unit 150, Edmonton, AB T5E 6C2"
 rating: 4.7
-review_count: 46
+review_count: 47
 tier: "featured"
 phone: "(780) 406-3937"
 website: "http://northtownoptometry.com/"

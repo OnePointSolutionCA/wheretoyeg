@@ -28,14 +28,6 @@ tags: ["edmonton", "family"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Angelica de Wildt"
-    rating: 5
-    comment: |
-      She did our first daughter’s cake smash back in 2023, and after seeing how beautiful those photos turned out, we knew we wanted her again for our second daughter’s cake smash.
-      
-      Once again, she exceeded our expectations. The photos came out absolutely beautiful, and she captured every special moment so perfectly. The whole photoshoot went so smoothly, and you can really tell she’s good and experienced at what she does. She made us feel comfortable the entire time and was so patient and wonderful with our daughter.
-      
-      We’re so happy with all of the photos and will definitely recommend her to family and friends. Thank you for giving us such precious memories that we’ll cherish forever!
   - name: "Cassandra Heighton"
     rating: 5
     comment: |
@@ -49,6 +41,14 @@ reviews:
     rating: 5
     comment: |
       Dawn was amazing to work with! Our baby came early and Dawn was super flexible with scheduling to accommodate that. She was great during the session and kept our baby at ease and calm the entire time. And the photos are absolutely stunning! Highly recommend if you’re looking for professional newborn photos!
+  - name: "Angelica de Wildt"
+    rating: 5
+    comment: |
+      She did our first daughter’s cake smash back in 2023, and after seeing how beautiful those photos turned out, we knew we wanted her again for our second daughter’s cake smash.
+      
+      Once again, she exceeded our expectations. The photos came out absolutely beautiful, and she captured every special moment so perfectly. The whole photoshoot went so smoothly, and you can really tell she’s good and experienced at what she does. She made us feel comfortable the entire time and was so patient and wonderful with our daughter.
+      
+      We’re so happy with all of the photos and will definitely recommend her to family and friends. Thank you for giving us such precious memories that we’ll cherish forever!
   - name: "Thomas Joyal"
     rating: 5
     comment: |

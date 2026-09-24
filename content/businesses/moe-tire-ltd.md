@@ -5,8 +5,8 @@ category: "auto-repair"
 subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "12820 52 St NW, Edmonton, AB T5A 0B6"
-rating: 3.6
-review_count: 32
+rating: 3.7
+review_count: 33
 tier: "featured"
 phone: "(780) 241-1444"
 google_maps: "https://maps.google.com/?cid=13311903721609072703&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

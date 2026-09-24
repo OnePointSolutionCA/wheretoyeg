@@ -42,6 +42,10 @@ reviews:
       ⭐⭐⭐⭐⭐
       
       Had a great experience with One Point Marketing Agency! The team is friendly, professional, and really takes the time to understand your business and goals. Communication was excellent throughout the process, and they made everything feel easy and stress-free. I would definitely recommend them to anyone looking for a reliable marketing team. Thanks again for all your hard work!
+  - name: "Amani Omairi"
+    rating: 5
+    comment: |
+      Great experience with OnePoint Solutions! They were professional, helpful, and efficient. Excellent customer service and a smooth process from start to finish. Highly recommend!
   - name: "Nicci Koughan"
     rating: 5
     comment: |
@@ -54,8 +58,4 @@ reviews:
     rating: 5
     comment: |
       Easy to work  with 10/10 product highly recommended
-  - name: "Ali Najmeddine"
-    rating: 5
-    comment: |
-      Moe is easily the best person to deal with and helpful!
 ---

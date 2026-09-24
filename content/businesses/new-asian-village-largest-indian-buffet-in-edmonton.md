@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–12:00 AM"
 photos: ["/photos/new-asian-village-largest-indian-buffet-in-edmonton-1.jpg", "/photos/new-asian-village-largest-indian-buffet-in-edmonton-2.jpg", "/photos/new-asian-village-largest-indian-buffet-in-edmonton-3.jpg"]
 rating: 4.5
-review_count: 2941
+review_count: 2937
 price_range: "$$"
 amenities:
   - "Delivery"

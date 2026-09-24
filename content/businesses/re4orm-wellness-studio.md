@@ -5,7 +5,7 @@ category: "spas-esthetics"
 neighborhood: "Beaumont"
 address: "5302 50 St #204, Beaumont, AB T4X 2Y2"
 rating: 5
-review_count: 19
+review_count: 27
 tier: "featured"
 phone: "(780) 893-7725"
 website: "https://re4orm.ca/about-us/"
@@ -29,14 +29,10 @@ reviews:
     rating: 5
     comment: |
       Jen is absolutely fantastic! She is a wonderful instructor and corrects you if you are incorrect. She not only tells you how to perform the move, but WHY you are doing it. The classes are perfectly modified to your level. I love it here!
-  - name: "Chelsea Cameron"
+  - name: "Holly Ruether"
     rating: 5
     comment: |
-      I cannot recommend Re4orm Pilates enough! Small class sizes, corrective attention given as needed, and a great environment!
-      
-      Pilates with Jen has helped me recover from a really bad back injury (at the recommendation of my doctor), and has increased my overall strength and body balance. I’ve gone from daily pain and limited movement to no pain and insane mobility.
-      
-      10/10
+      If you are wanting incredible guidance, a warm, welcoming environment, and a great workout that leaves you wanting to come back, this is it! Jen and her team are wonderful and you cant be the price for reformer pilates. Highly recommend!
 hours:
   monday: "6:00 AM–9:00 PM"
   tuesday: "6:00 AM–9:00 PM"

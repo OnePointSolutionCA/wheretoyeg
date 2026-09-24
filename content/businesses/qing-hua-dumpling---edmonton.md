@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–8:30 PM"
 photos: ["/photos/qing-hua-dumpling---edmonton-1.jpg", "/photos/qing-hua-dumpling---edmonton-2.jpg", "/photos/qing-hua-dumpling---edmonton-3.jpg"]
 rating: 4.6
-review_count: 92
+review_count: 95
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -42,11 +42,6 @@ reviews:
       Tried a couple of pan fried dumplings and 3 orders of steamed dumplings. They were pretty good.
       
       I would definitely consider this place again.
-  - name: "Fuyao Li"
-    rating: 4
-    comment: |
-      The dumplings are nice, very authentic Chinese style. We ordered Shrimp Chive and Egg dumplings but ended with getting the wrong one, it also tasted good though…
-      But not what we expected. 4/5 Will come again cuz my bf loves dumplings badly. Lol
   - name: "Richard York"
     rating: 5
     comment: |
@@ -74,4 +69,16 @@ reviews:
       Service was quick, but that’s about it.
       
       Overall, great for food quality and taste.
+  - name: "Nikka Acebedo"
+    rating: 5
+    comment: |
+      Came across this place on instagram and glad we gave it a try!
+      
+      We ordered the shrimp pork & chive (steamed) and split order of pan fried chicken and mushroom / pork and chives - both were equally delicious. They let you mix different types of dumplings for $1 and $1.50 if you want it pan fried
+      
+      I enjoyed the pan fried more but my boyfriend’s fave were the steamed ones. We got to the restaurant close to last call, had 5 mins to order so we were basically the only ones there.
+      
+      For the side we got the spicy tofu noodles, it was okay.
+      
+      Everything was served hot and fresh. Dumplings were a bit salty for my liking but overall juicy and tasty. The dumpling skin is thin and not heavy, good proportion with the filling. will def come back to try the other dumplings 🥟
 ---

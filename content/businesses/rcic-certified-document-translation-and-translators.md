@@ -21,11 +21,6 @@ reviews:
     rating: 5
     comment: |
       Every pleasant experience. The service was fast and my emails and phone calls were answered promptly. I would use RCIC again!
-  - name: "Susan Hal"
-    rating: 5
-    comment: |
-      Zul was very patient with me and very helpful
-      Definitely will use his services again
   - name: "Holly Ulrich"
     rating: 5
     comment: |
@@ -35,6 +30,10 @@ reviews:
     rating: 5
     comment: |
       I have been using this service for three years and have always been impressed by their professionalism, timely delivery, and accurate certified translations from Spanish to English.
+  - name: "Lisa Almonte"
+    rating: 5
+    comment: |
+      Super fast service, affordable and certified documents translated  from  Spanish to English. Accuracy 100%
 hours:
   monday: "9:00 AM–5:00 PM"
   tuesday: "9:00 AM–5:00 PM"

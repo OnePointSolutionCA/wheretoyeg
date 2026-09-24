@@ -49,11 +49,11 @@ reviews:
     comment: |
       Had a reservation for 6 pm on Saturday.     Came in with my uncle and cousin  .ordered the Saturday “dinner club”  first course was scallops …second was prime rib  …third was sticky toffee pudding.  … scallops had a perfect crust on them.. everything was steaming hot    10/10 very good dish  ..prime rib 10/10.  Very well presented.   Very good cook on the prime rib.    Everything was very well made….  I could taste the love … sticky toffee pudding was unreal. Very well spiced.    Warm ..perfect end to the meal.   Will def be back.    Thank you !
 hours:
-  monday: "10:00 AM–10:00 PM"
-  tuesday: "10:00 AM–10:00 PM"
-  wednesday: "10:00 AM–10:00 PM"
-  thursday: "10:00 AM–10:00 PM"
-  friday: "10:00 AM–11:00 PM"
-  saturday: "9:00 AM–11:00 PM"
-  sunday: "9:00 AM–10:00 PM"
+  monday: "10:00 AM–9:00 PM"
+  tuesday: "10:00 AM–9:00 PM"
+  wednesday: "10:00 AM–9:00 PM"
+  thursday: "10:00 AM–9:00 PM"
+  friday: "10:00 AM–9:00 PM"
+  saturday: "9:00 AM–9:00 PM"
+  sunday: "9:00 AM–9:00 PM"
 ---

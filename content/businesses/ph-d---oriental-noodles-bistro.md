@@ -19,7 +19,7 @@ hours:
   sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/ph-d---oriental-noodles-bistro-1.jpg", "/photos/ph-d---oriental-noodles-bistro-2.jpg", "/photos/ph-d---oriental-noodles-bistro-3.jpg"]
 rating: 4.6
-review_count: 820
+review_count: 822
 price_range: "$"
 amenities:
   - "Takeout"
@@ -44,6 +44,20 @@ reviews:
       I've tried pho at many places across Edmonton over the years, and in my opinion, Pho Du is still the best. Great food, fair pricing, generous portions, and consistently outstanding quality.
       
       Hopefully this little secret doesn't become too popular... because I'd still like to be able to grab a bowl without waiting forever!
+  - name: "Iwishuhvn"
+    rating: 5
+    comment: |
+      This location is such a gem if you actually know what the Pho market is around, the prices and what not, this location is insane on the price to value you get here.
+      
+      It's unmatched, you pay $9.85 for a bowl of Pho with no sizes available but the size is very generous and for that price, it's unbelievably good value.
+      
+      The staff is super friendly as it was fully occupied when I walked in at must 11:30 AM! So I ordered and waited for a seat, the lady at the counter especially was super friendly and one of the most pleasant experiences I had, she's understanding and patient and very accommodating and attentive.
+      
+      Some con but totally subjective , I love green onion cakes but they don't have any here, so if you're looking for that, it's not here. Also, I found the noodles are quite thick here and are different than other establishments, I wasn't fond of that but broth is good which all that matters.
+      
+      Amazing place through and through that hands down has the best price to quality ratio, I only docked a star off cause of the atmosphere, it's very busy and most likely you have to wait for a seat, also, it's very loud and the tables are very close to each other.
+      
+      Wonderful establishment.
   - name: "Patrick Lam"
     rating: 5
     comment: |
@@ -84,18 +98,4 @@ reviews:
       establishment: it is a small space with not many tables. Good parking options outside.
       
       food: always fresh and flavourful. Pho is not greasy and great flavour. Great portion sizes. Spring rolls fresh & crispy. Salad rolls fresh and full.
-  - name: "Fovea Wong"
-    rating: 5
-    comment: |
-      After trying quite a few pho spots around the city, I can honestly say Pho Du is one of those places that quietly earns your respect.
-      
-      The broth is the real star here — rich, clean, and clearly simmered with care, not overly salty or heavy like some places. You can actually taste the depth without feeling overwhelmed. The noodles are cooked just right, and the portions are generous enough to leave you satisfied but not uncomfortable.
-      
-      The beef is fresh and tender, and the balance of ingredients in each bowl shows consistency and attention to detail. It’s the kind of comfort food that hits especially well on a cold Edmonton day.
-      
-      Service is straightforward and efficient — nothing flashy, but warm enough to make you feel welcomed. The atmosphere is simple and unpretentious, which honestly fits perfectly with the food they serve.
-      
-      Pho Du may not be the trendiest spot, but if you’re looking for an honest, well-executed bowl of pho that delivers on flavor and comfort, this is definitely a place worth coming back to.
-      
-      A reliable go-to when you just want something genuinely good.
 ---

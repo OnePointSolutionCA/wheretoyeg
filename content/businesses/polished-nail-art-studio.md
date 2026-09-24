@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "South Edmonton"
 google_maps_url: "https://maps.google.com/?q=Polished%20Nail%20Art%20Studio%20Edmonton"
 hours:
-  monday: "8:00 AM–9:30 PM"
-  tuesday: "8:00 AM–9:30 PM"
-  wednesday: "8:00 AM–9:30 PM"
-  thursday: "8:00 AM–9:30 PM"
-  friday: "8:00 AM–9:30 PM"
-  saturday: "8:00 AM–9:30 PM"
-  sunday: "8:00 AM–9:30 PM"
+  monday: "10:00 AM–7:00 PM"
+  tuesday: "10:00 AM–7:00 PM"
+  wednesday: "10:00 AM–7:00 PM"
+  thursday: "10:00 AM–7:00 PM"
+  friday: "10:00 AM–7:00 PM"
+  saturday: "10:00 AM–6:00 PM"
+  sunday: "Closed"
 photos: ["/photos/polished-nail-art-studio-1.jpg", "/photos/polished-nail-art-studio-2.jpg", "/photos/polished-nail-art-studio-3.jpg"]
-rating: 5
-review_count: 87
+rating: 4.4
+review_count: 232
 price_range: "$$"
 amenities:
   - "Nail Art"
@@ -29,27 +29,34 @@ tags: ["nail-art", "gel", "acrylic", "dip"]
 active: true
 date_listed: "2026-08-18"
 reviews:
-  - name: "Mackenzie Saddleback"
+  - name: "Rayne Tatyana"
     rating: 5
     comment: |
-      It was my first time getting my nails done here and Dana was very kind and welcoming. She did an amazing job with creating the nails I requested! I asked for a natural style and she did them perfectly and she was also very efficient with time while still having high attention to detail. :)
-  - name: "Farha Machiwala"
+      My moms and I go-to nail place! Absolutely lovely ladies and I am always incredibly happy with my sets! Quinn did my nails today. She did an amazing job!
+  - name: "Meheret"
     rating: 5
     comment: |
-      Such a great experience! Dana was so sweet and did an amazing job on my nails. I love the shape and the length, and the whole appointment was comfortable and relaxing. Her prices are also very reasonable compared to other salons. I’m really happy with how they turned out and will definitely be coming back!
-  - name: "Kyana BD"
-    rating: 5
-    comment: |
-      I got my nails done here for the first time and it was lovely! Her studio is so cute and cozy! And Dana was so nice and friendly! Her service is very quick and efficient! Most importantly, I got EXACTLY what I asked for! My nails came out beautifully, I couldnt be happier! 😊 100/10 I recommend getting your nails done here!
-  - name: "Gloria Linney"
-    rating: 5
-    comment: |
-      I’ve been going to Nails by Dana for over 3 years, and I wouldn’t trust anyone else with my nails! Dana is incredibly talented and consistently delivers high-quality work every single time. My nails always look flawless and last for weeks without lifting or chipping. Her cuticle work is my favourite part of the process.
+      I’ve been getting my nails done here for years and everyone is amazing at pink polish! I have always seen Jojo and she is my absolute favourite person to get my nails done by - our appointments are always full of laughs and she does an amazing job of making sure im getting exactly what i want each time. :)
       
-      Her home salon is spotless, professional, and welcoming. She takes such pride in her work, and it truly shows in the detail and durability of every set. She has a large selection of colours and can create any design.  Dana is the best!
-  - name: "Koman"
+      I’ve also been helped by everyone else here at some point over the years, and I’ve never been let down. While Jojo was away visiting family, Vee stepped in and kindly took care of me with any minor repair, fills, etc. He takes his time, doesn’t rush, and made my nails look fantastic!
+      
+      Pink polish is my number 1 favourite place for a mani/pedi in Edmonton - prices are very fair and the staff is so patient and kind. Can’t wait to see you all again soon :)
+      
+      -Meezy
+  - name: "Yodit Yetbarek"
+    rating: 1
+    comment: |
+      My friend and I came to this nail salon because someone recommended it to us and told us it was a great place. Unfortunately, our experience was completely different.
+      
+      When we arrived, instead of simply letting us know that they didn’t have time to accommodate us, we were given a bad attitude and made to feel like my friend’s nails were the problem. The way they handled the situation was extremely rude and unprofessional.
+      
+      We came all the way from the USA expecting a good experience, but I have honestly never encountered a nail salon with this much attitude. Based on our experience, I would not recommend this place to anyone.
+  - name: "Kloie Ladouceur"
     rating: 5
     comment: |
-      It was my first time visiting her, and I had such a great experience! She has a quiet, comfortable home-based setup that is beautifully done. She even lets you choose whatever you'd like to watch on Netflix while she works on your nails, which makes the appointment so relaxing.
-      She takes great care of your cuticles, and her attention to detail really shows. My nails turned out so clean, neat, and beautiful. I'm very happy with the results and will definitely be coming back. Thank you for such a wonderful experience! 💅✨
+      They have been doing my nails since I was 17, my friend recommended this place to me a long time ago and they always do such a amazing job on my nails.
+  - name: "Andrea"
+    rating: 5
+    comment: |
+      Love love love my nails. She did exactly what I wanted (I posted the inspo and my actual nails with this review.) It took a bit longer than usual (between waiting and then doing the nails I was in there for 1.5 hour) but the nails are perfect. No flaws. Much more precise job than other places I have been to. I paid $65 plus tax for acrylic nails. They accept credit card which not all the nail salons do. I don’t live in Edmonton but if I did I would definitely be back!
 ---

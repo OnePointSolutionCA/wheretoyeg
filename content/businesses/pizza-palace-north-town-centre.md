@@ -14,12 +14,6 @@ google_maps: "https://maps.google.com/?cid=12573965668559477090&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/pizza-palace-north-town-centre.jpg"
 reviews:
-  - name: "Janet Kushimo"
-    rating: 5
-    comment: |
-      Pizza Place Northtown. Wonderful Experience!
-      
-      Ususally my Domino's is my Pizza to go. But the first time I came across this restaurant was about a week ago. It was so good that my kids prefers this pizza to Domino's now. This is my second time trying their Pizza. And again, never disappoint, was really amazing. I had their mouthwatering Hot Hawaiian,  Cheese Blast, and Pepperoni. We got their walk in special of 2 large pizzas with 3 toppings and 1 medium pizza with free same toppings, for $28.99 which is honestly a fantastic deal, which was more than enough for 4 of us. Pizza is full of flavor. My stomach is grateful for it.  Each penny spent at this restaurant was worth it. The lady who took our order was very nice and explained all of our options to choose from, excellent customer service. If you are in town, a must to try.
   - name: "Jesse Vautour"
     rating: 1
     comment: |
@@ -38,6 +32,12 @@ reviews:
       I'm hoping it's because they're that good that they are behind and not because of any other reasons.
       
       I will update review when I finally try this pizza but for now 0 star.
+  - name: "Janet Kushimo"
+    rating: 5
+    comment: |
+      Pizza Place Northtown. Wonderful Experience!
+      
+      Ususally my Domino's is my Pizza to go. But the first time I came across this restaurant was about a week ago. It was so good that my kids prefers this pizza to Domino's now. This is my second time trying their Pizza. And again, never disappoint, was really amazing. I had their mouthwatering Hot Hawaiian,  Cheese Blast, and Pepperoni. We got their walk in special of 2 large pizzas with 3 toppings and 1 medium pizza with free same toppings, for $28.99 which is honestly a fantastic deal, which was more than enough for 4 of us. Pizza is full of flavor. My stomach is grateful for it.  Each penny spent at this restaurant was worth it. The lady who took our order was very nice and explained all of our options to choose from, excellent customer service. If you are in town, a must to try.
   - name: "A J"
     rating: 4
     comment: |

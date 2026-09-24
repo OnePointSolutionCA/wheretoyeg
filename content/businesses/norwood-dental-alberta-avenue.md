@@ -18,14 +18,14 @@ reviews:
     rating: 5
     comment: |
       I am an anxious dental patient. Went to Norwood on a recommendation and am grateful I did. This family office (too many are owned by big coros) made me feel safe and in good hands. Never ever has a dentist's office cared so much about what makes the experience good for me. They truly live up to the values they advertise. Highly recommend!
-  - name: "Daytona Marusiak"
-    rating: 5
-    comment: |
-      So grateful to have found this clinic and Dr Chin. Him and his wife Amanda go above and beyond in their care, the environment is always so welcoming, each person does their very best in their role. I suffered from dental problems for years, in and out of a clinic that seemed to care more about a paycheque than helping, but Dr chin is the complete opposite. Myself and my son had all of our dental work completed and up to date within only a couple months of consistent appointments. My dental anxiety has gone from a 10 to almost falling asleep in the chair. I am so thankful. Thank you again Norwood dental.
   - name: "Kim Brochu"
     rating: 5
     comment: |
       My dental appointments are something I look forward to. The staff are amazing and the dentists bring comfort. I use to have anxiety before appointments but at Norwood it’s no different than a date with friends.  They are very community involved and focused.  I am grateful to have the Norwood team as part of my support.  Thank you Amanda and Dr Chin for taking stress out of my life and making my visits enjoyable.  I highly recommend Norwood dental❤️
+  - name: "Daytona Marusiak"
+    rating: 5
+    comment: |
+      So grateful to have found this clinic and Dr Chin. Him and his wife Amanda go above and beyond in their care, the environment is always so welcoming, each person does their very best in their role. I suffered from dental problems for years, in and out of a clinic that seemed to care more about a paycheque than helping, but Dr chin is the complete opposite. Myself and my son had all of our dental work completed and up to date within only a couple months of consistent appointments. My dental anxiety has gone from a 10 to almost falling asleep in the chair. I am so thankful. Thank you again Norwood dental.
   - name: "Shelley Minor Stachniak"
     rating: 5
     comment: |

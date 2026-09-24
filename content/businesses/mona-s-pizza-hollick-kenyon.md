@@ -23,16 +23,16 @@ reviews:
     rating: 5
     comment: |
       Tried the buffalo chicken (Wally’s Pizza) with white sauce today and it was 🔥. Perfect balance of flavor, super fresh, and cooked just right. Mona’s never disappoints!
+  - name: "wolf kron"
+    rating: 2
+    comment: |
+      I've ordered from here before and the pizza was very good. Today's experience was completely different. I have never had a more tasteless pizza in my life. I got the meat lovers, which I've ordered before, and this time, there may have been 1/4 of the meat that is normally on the pizza. Had to actually search for the meat under the all the cheese, the layer was so thin. Hardly any sauce, and greasy from all the cheese. Not sure who made this pizza, but you really need some quality control. I am so disappointed. I will never order from here again. This was the 153rd street location, closest to my house. Don't know if the other location is any better. The only reason it got 2 stars instead of 1 is because it arrived hot, which isn't always the case so that does deserve something.
   - name: "Sean M"
     rating: 5
     comment: |
       To heck with all the haters here. This is amazing local pizza with good solid prices. They definitely use cheddar in their cheese blend so it's not the same as your typical mozzarella only blend. The crust is that classic crispy edge solid undercarriage style. Barstool review it's a 7.8. But the prices are amazing and the gentleman who I've gotten the pizza from both times has been super kind.
       
       I recommend the all meat or the runner.
-  - name: "wolf kron"
-    rating: 2
-    comment: |
-      I've ordered from here before and the pizza was very good. Today's experience was completely different. I have never had a more tasteless pizza in my life. I got the meat lovers, which I've ordered before, and this time, there may have been 1/4 of the meat that is normally on the pizza. Had to actually search for the meat under the all the cheese, the layer was so thin. Hardly any sauce, and greasy from all the cheese. Not sure who made this pizza, but you really need some quality control. I am so disappointed. I will never order from here again. This was the 153rd street location, closest to my house. Don't know if the other location is any better. The only reason it got 2 stars instead of 1 is because it arrived hot, which isn't always the case so that does deserve something.
   - name: "Charbel Faraj"
     rating: 5
     comment: |

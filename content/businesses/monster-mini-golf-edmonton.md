@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–8:00 PM"
 photos: ["/photos/monster-mini-golf-edmonton-1.jpg", "/photos/monster-mini-golf-edmonton-2.jpg", "/photos/monster-mini-golf-edmonton-3.jpg"]
 rating: 4.4
-review_count: 1166
+review_count: 1168
 price_range: "$$"
 amenities:
 
@@ -36,10 +36,6 @@ reviews:
       Staff were friendly and welcoming, and the pace was great without feeling rushed. A full 18 holes took just the right amount of time, and we were smiling the whole way through.
       
       Perfect spot for a family outing, date night, or birthday party. We will definitely be back. Highly recommend checking it out.
-  - name: "T"
-    rating: 5
-    comment: |
-      We had a great time! We played a round of mini golf and then spent some time in the arcade. The staff were friendly and helpful. I really liked the card system instead of dealing with coins and paper tickets. Everything was clean and in good working order, and the neon artwork and decorations were awesome. We'll definitely be back!
   - name: "Alborz"
     rating: 4
     comment: |
@@ -48,6 +44,10 @@ reviews:
       The venue is indoors with a neon, noir-style design and the course is well put together. Each hole includes trivia questions connected to a mystery theme, and you collect answers as you move through the course, which adds a different element to the game.
       
       There is also an arcade with additional games. Overall, it’s a solid indoor activity and worth trying at least once.
+  - name: "T"
+    rating: 5
+    comment: |
+      We had a great time! We played a round of mini golf and then spent some time in the arcade. The staff were friendly and helpful. I really liked the card system instead of dealing with coins and paper tickets. Everything was clean and in good working order, and the neon artwork and decorations were awesome. We'll definitely be back!
   - name: "Brad R"
     rating: 4
     comment: |

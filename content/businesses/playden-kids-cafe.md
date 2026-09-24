@@ -17,10 +17,10 @@ hours:
   thursday: "9:00 AM–4:00 PM"
   friday: "9:00 AM–4:30 PM"
   saturday: "9:00 AM–5:00 PM"
-  sunday: "9:00 AM–5:00 PM"
+  sunday: "9:00 AM–3:00 PM"
 photos: ["/photos/playden-kids-cafe-1.jpg", "/photos/playden-kids-cafe-2.jpg", "/photos/playden-kids-cafe-3.jpg"]
 rating: 4.8
-review_count: 66
+review_count: 67
 price_range: "$$"
 amenities:
 

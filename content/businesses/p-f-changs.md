@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Windermere"
 address: "6303 Currents Dr NW, Edmonton, AB T6W 0L9"
 rating: 4.4
-review_count: 4089
+review_count: 4108
 tier: "featured"
 phone: "(780) 924-0478"
 website: "https://pfchangs.ca/"
@@ -39,15 +39,20 @@ reviews:
       Mariane was our server and she was fabulous! Super attentive and friendly. She gave incredible food suggestions!
       The food, the service, the atmosphere was incredible and intimate for us celebrating our anniversary! Will be back with the rest of our family here soon!
       Edit: The staff was so lovely, they even gave us a card to wish us and gifted us dessert which was delicious! They truly go above and beyond!
+  - name: "Shamijah Twyla Gordon"
+    rating: 5
+    comment: |
+      Anniversary Dinner
+      
+      We had such a wonderful experience celebrating our wedding anniversary at P.F. Chang’s! ❤️ The food was delicious, the atmosphere was lovely, and everything made our celebration feel extra special.
+      
+      A special thank you to our server, ACE, for the excellent service. He was friendly, attentive, and made sure we had everything we needed throughout our dinner. His warm and thoughtful service truly made our anniversary celebration even more memorable.
+      
+      We left feeling happy, satisfied, and grateful for such a lovely evening. Thank you, P.F. Chang’s and ACE, for making our anniversary special! We’ll definitely be back! 🥂❤️
   - name: "Josh Bilyk"
     rating: 5
     comment: |
       We had a great time! The atmosphere was lively but not too loud that you couldn't hear. The food and beverages were delicious! Large portions, as well. And, the servers were very polite and attentive. I'll add - they were also quite helpful in that we had ordered a couple appies, which they came back letting us know they didn't have them. We ordered two others, and they compted one at bill time. Great customer service!! We'll be back.
-  - name: "Kate"
-    rating: 5
-    comment: |
-      Amazing experience! The food was absolutely delicious—fresh, flavorful, and perfectly prepared. The service was just as great. Aprilyn was incredibly friendly, attentive, and made sure we had everything we needed. She really made our visit special. Definitely one of the best dining experiences we’ve had. Highly recommend!
-      Mostly the chocolate cake!
 hours:
   monday: "11:00 AM–10:00 PM"
   tuesday: "11:00 AM–10:00 PM"

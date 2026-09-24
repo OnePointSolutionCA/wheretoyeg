@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Mill Woods"
 address: "3930 91 St NW, Edmonton, AB T6E 5K7"
 rating: 3.7
-review_count: 236
+review_count: 238
 tier: "featured"
 phone: "(780) 430-9242"
 website: "https://www.millwoodsauto.ca/"
@@ -14,14 +14,14 @@ google_maps: "https://maps.google.com/?cid=4431586153255884030&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/millwoods-auto-centre.jpg"
 reviews:
-  - name: "Frank"
-    rating: 1
-    comment: |
-      Visited there location 2 times for a out of province inspection. Where I was refused service, despite making an appointment and calling prior to my arrival at there shop. Grand waste of time……
   - name: "Ryan Savage"
     rating: 5
     comment: |
       Best prices in town!! Fast, accurate and more than willing to go out of the way to get what is required for your vehicle. Honest, straight forward service and repairs. All my vehicles will be coming back, very satisfied customer.
+  - name: "Frank"
+    rating: 1
+    comment: |
+      Visited there location 2 times for a out of province inspection. Where I was refused service, despite making an appointment and calling prior to my arrival at there shop. Grand waste of time……
   - name: "Karen G"
     rating: 5
     comment: |

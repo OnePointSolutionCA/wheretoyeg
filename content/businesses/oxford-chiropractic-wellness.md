@@ -22,7 +22,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/oxford-chiropractic-wellness-1.jpg", "/photos/oxford-chiropractic-wellness-2.jpg", "/photos/oxford-chiropractic-wellness-3.jpg"]
 rating: 5
-review_count: 18
+review_count: 19
 price_range: "$$"
 amenities:
   - "Direct Billing"

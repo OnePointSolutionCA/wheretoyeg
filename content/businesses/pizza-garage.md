@@ -20,6 +20,10 @@ reviews:
       My husband brought home pizza and boy we were highly disappointed. $48 for 4 slices for a thick bbq chicken pizza, and 2 thin slices of cheese and 1 pepperoni. Way overpriced
       Then the cheese was too spicy that my daughter wouldn't eat it- I thought she was dramatic but it sure was spicy.
       Will never eat here again
+  - name: "Sandra U."
+    rating: 1
+    comment: |
+      Absolutely the worst customer service I’ve ever experienced. We ordered two pizzas through Skip the dishes and one of them was canceled. Unbeknownst to us. The second pizza that we did receive the seal on the box had been tampered with, and I was told by the owner that sometimes that happens and we have no control over whether those temper seal stick or not. I simply asked for a replacement pizza and they said no.
   - name: "James Schmitz"
     rating: 1
     comment: |
@@ -27,10 +31,6 @@ reviews:
       Unfortunately, my recent visit didn’t live up to that. I ordered a pepperoni and cheese Chicago deep dish, and it was disappointing. The crust was undercooked on the inside with a doughy texture, while the bottom was burnt and greasy. The cheese also had a strange taste and an unusually chewy texture, almost like string cheese.
       It’s frustrating because this place used to be known for great pizza, but the quality seems to have dropped quite a bit. I called to share my experience, and while they offered a replacement, I would have had to drive all the way back across the city to exchange it, which just wasn’t worth the extra time and gas for that kind of pizza.
       For $25 for a basic 4-slice pepperoni pizza, I expected much better. Based on this visit, it feels overpriced for the quality you get now and I won't be back.
-  - name: "Sandra U."
-    rating: 1
-    comment: |
-      Absolutely the worst customer service I’ve ever experienced. We ordered two pizzas through Skip the dishes and one of them was canceled. Unbeknownst to us. The second pizza that we did receive the seal on the box had been tampered with, and I was told by the owner that sometimes that happens and we have no control over whether those temper seal stick or not. I simply asked for a replacement pizza and they said no.
   - name: "Adam SL"
     rating: 5
     comment: |

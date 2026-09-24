@@ -6,7 +6,7 @@ subcategory: "italian"
 neighborhood: "Spruce Grove"
 address: "420 King St #7, Spruce Grove, AB T7X 2C6"
 rating: 4.6
-review_count: 464
+review_count: 465
 tier: "featured"
 phone: "(780) 293-8719"
 website: "http://www.portaromana.ca/"

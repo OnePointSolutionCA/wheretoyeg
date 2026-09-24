@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/parlour-barba-co-1.jpg", "/photos/parlour-barba-co-2.jpg", "/photos/parlour-barba-co-3.jpg"]
 rating: 4.9
-review_count: 433
+review_count: 437
 price_range: "$$$"
 amenities:
 

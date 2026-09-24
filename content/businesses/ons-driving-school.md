@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/ons-driving-school-1.jpg", "/photos/ons-driving-school-2.jpg", "/photos/ons-driving-school-3.jpg"]
 rating: 4.8
-review_count: 2755
+review_count: 2758
 price_range: "$$"
 amenities:
 
@@ -37,6 +37,10 @@ reviews:
       I was a bit anxious about my road test this morning, but she reassured me and helped me calm down.
       I 100% recommend her to future students.
       Thank you, Sandy🙏🙏🙏! I loved working with you😍🥰👌👌👌👌👌💯💯💯💯💯💯💯
+  - name: "Christina Chan"
+    rating: 5
+    comment: |
+      I had such a great experience with this driving school! A huge shoutout to Sandy Cheema for being an amazing instructor. She was always so patient, kind, and encouraging, and made me feel comfortable and confident behind the wheel. She explained everything clearly and gave me really helpful tips that made driving so much easier to understand. I felt very prepared and confident going into my road test because of her. I would definitely recommend Sandy to anyone looking for a supportive and knowledgeable driving instructor. Thank you so much, Sandy!!
   - name: "Owusu Agyei"
     rating: 5
     comment: |
@@ -55,8 +59,4 @@ reviews:
       The tips and guidance on parking were especially helpful, along with the explanations about road signs, traffic lights, lane positioning, and overall road awareness. Everything was explained clearly and in a very understandable way, which made me feel much more confident and prepared on the road. I really appreciated the patience and positive attitude throughout every lesson.
       
       If you want someone who is knowledgeable, patient, caring, supportive, and truly committed to helping you succeed, Tarandeep is the perfect choice. Thank you for being such an incredible teacher and for helping me become a better driver! Highly recommend!
-  - name: "Katara Ferreira"
-    rating: 5
-    comment: |
-      Param was the best driving instructor! She was so understanding, patient, and incredibly helpful throughout my lessons. She made me feel comfortable and confident behind the wheel, which is something not many people can do. I’m now so much more confident when I’m driving, and it’s all thanks to her! I’m truly grateful for all her support and encouragement. 💗
 ---

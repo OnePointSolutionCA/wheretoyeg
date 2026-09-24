@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Mill Woods"
 address: "103 Millbourne Rd E Northwest, Edmonton, AB T6K 1P6"
 rating: 4.9
-review_count: 440
+review_count: 441
 tier: "featured"
 phone: "(780) 250-1616"
 website: "https://www.pearlydental.ca/"
@@ -34,10 +34,10 @@ reviews:
     rating: 5
     comment: |
       Best experience so far. Dr Sania and the entire staff is very nice and have great knowledge about everything. Dental cleaning was amazing and painless. Front end is amazing when it comes to insurance and billing...would recommend everyone to come to this clinic for all your dental needs.
-  - name: "Kapil Aggarwal"
+  - name: "Bhuma"
     rating: 5
     comment: |
-      Had such a great experience at Dr Milan’s office. He is very kind, professional, and made me feel very comfortable. Ana, his dental assistant is very calm and knowledgeable. The front desk all the girls are so welcoming, and helpful with everything. Hygienist Kiran did an amazing job. Stress-free visit. Highly recommended to everyone in Edmonton!
+      I had  a very positive experience. Every staffs were professional and attentive throughout my visit. Dr. Sania   and her assistant explained the procedure clearly and made me felt comfortable during the treatment. I truly appreciate the care and patience shown by the  entire team. I would highly recommend this clinic to anyone looking for dental care.
 hours:
   monday: "9:00 AM–7:00 PM"
   tuesday: "9:00 AM–7:00 PM"

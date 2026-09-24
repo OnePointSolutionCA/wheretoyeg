@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Windermere"
 address: "6187 Currents Dr NW, Edmonton, AB T6W 0L9"
 rating: 4.2
-review_count: 722
+review_count: 723
 tier: "featured"
 phone: "(587) 453-3663"
 website: "https://www.misssaigonyeg.com/"

@@ -44,18 +44,6 @@ reviews:
     rating: 5
     comment: |
       I can’t say enough good things about my experience here. I came in during fertility treatments, which can be such an emotional and vulnerable time, and I felt truly heard and supported every step of the way. The care was incredibly thoughtful, and the women there are so kind, welcoming, and extremely knowledgeable. Monica and her team made me feel completely comfortable and safe from the very first appointment. I’m so grateful for the support I received and would highly recommend them to anyone.
-  - name: "S Robertson"
-    rating: 5
-    comment: |
-      I can’t say enough amazing things about my experience. After being told IVF was likely our only option (low AMH numbers and thin uterine lining), I started acupuncture. I truly believe it played a huge role in helping us conceive naturally.
-      
-      Monica is not only incredibly knowledgeable, but also so bubbly and funny. She instantly puts you at ease, especially for someone who doesn’t enjoy needles. I always left feeling better both physically and mentally.
-      
-      Throughout my pregnancy, treatments were also incredibly helpful in managing aches, pains, and overall comfort. I always felt supported and heard every step of the way.
-      
-      As I approached the end of pregnancy and was eager to get things rolling, her treatments helped my body feel ready and supported for labour, which made a huge difference in how I felt going into delivery.
-      
-      If you’re on a fertility journey or looking for support during pregnancy, I would highly recommend Monica. The care, warmth, and genuine investment in her patients is something really special. I feel like I gained a friend throughout the process. Thank you so much Monica.
   - name: "Melissa Gladue"
     rating: 5
     comment: |
@@ -72,4 +60,16 @@ reviews:
     rating: 5
     comment: |
       The treatment I’ve received from Jenna my last two sessions have been absolutely fantastic. Anyone who is familiar or unfamiliar with the acupuncture and needle work needs to spend time here at the clinic. I walked with a sore back and after two sessions have felt extremely better and back to myself. Having your body move and feel the way it deserves makes such difference, thanks to the amazing care from Jenna! You’re missing out!
+  - name: "S Robertson"
+    rating: 5
+    comment: |
+      I can’t say enough amazing things about my experience. After being told IVF was likely our only option (low AMH numbers and thin uterine lining), I started acupuncture. I truly believe it played a huge role in helping us conceive naturally.
+      
+      Monica is not only incredibly knowledgeable, but also so bubbly and funny. She instantly puts you at ease, especially for someone who doesn’t enjoy needles. I always left feeling better both physically and mentally.
+      
+      Throughout my pregnancy, treatments were also incredibly helpful in managing aches, pains, and overall comfort. I always felt supported and heard every step of the way.
+      
+      As I approached the end of pregnancy and was eager to get things rolling, her treatments helped my body feel ready and supported for labour, which made a huge difference in how I felt going into delivery.
+      
+      If you’re on a fertility journey or looking for support during pregnancy, I would highly recommend Monica. The care, warmth, and genuine investment in her patients is something really special. I feel like I gained a friend throughout the process. Thank you so much Monica.
 ---

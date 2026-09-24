@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "13030 82 St NW, Edmonton, AB T5E 2T5"
 rating: 4.9
-review_count: 532
+review_count: 536
 tier: "featured"
 phone: "(780) 478-6691"
 website: "http://www.northcentraldental.ca/"

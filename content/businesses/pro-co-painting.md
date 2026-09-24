@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/pro-co-painting-1.jpg", "/photos/pro-co-painting-2.jpg", "/photos/pro-co-painting-3.jpg"]
 rating: 4.9
-review_count: 243
+review_count: 244
 price_range: "$$"
 amenities:
 

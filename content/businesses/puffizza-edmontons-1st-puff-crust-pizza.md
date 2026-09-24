@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "1035 Parsons Rd SW, Edmonton, AB T6X 0X2"
 rating: 4.8
-review_count: 441
+review_count: 443
 tier: "featured"
 phone: "(587) 287-1509"
 website: "https://puffizza.ca/"
@@ -19,6 +19,11 @@ reviews:
     comment: |
       We tried chees puff pizza- absolutely amazing! The puff pastry crust is so flakey and so crunchy! We also trued with spicy chicken and pineapple- the chicken melts in your mouth!
       Cafe has very comfortable round table and is very pleasant to come with your family! We enjoed a lot!
+  - name: "Julie Rose Pigeon"
+    rating: 3
+    comment: |
+      I ordered from this place because the reviews were great. I ordered a small pizza for myself and my child to try for pickup. After getting the pizza, I started to eat it but noticed a spice. I quickly go back to the menu look at the ingredients listed on the pizza I order (super supreme) it did not list anything spicy. I had also given some to my child (we were hungry) and immediately had a funny face. I returned to the restaurant to ask if she had put any spicy on the pizza. She seemed surprised and said no. So we tried the pizza sauces and the main sauce, the one that she used was pretty spicy, especially for a young kid! So I asked what other sauce she had but she explained the other sauces would be spicy. Paid for her to make another pizza but with no sauce for my child.
+      I had to give it a 3 star, unfortunately, in my opinion the pizza was good but not the best. Not children friendly it seems because no regular non-spicy sauces available and pizza without sauce is not the same!
   - name: "Samantha Hunter"
     rating: 5
     comment: |
@@ -47,10 +52,6 @@ reviews:
       8/10
       
       I will definately visit again  if I am around in the area.
-  - name: "shortstories"
-    rating: 1
-    comment: |
-      I'm not sure if it's just me, but I have noticed a pattern of discrimination here. The owner is fine, but the employee with long hair is incredibly unprofessional. Whenever I order through Uber, the food is great. But whenever I go into the store in person, the taste is completely different and the pizza is poorly made. It honestly feels like this employee has an issue with people who wear turbans. I've felt this way multiple times now, and my friends have experienced the exact same thing. The owner really needs to look into this matter. Edmonton is diverse, and businesses need to respect all communities.
 hours:
   monday: "3:00 PM–10:00 PM"
   tuesday: "3:00 PM–10:00 PM"

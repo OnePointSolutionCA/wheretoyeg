@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/olas-dining-nigerian-kitchen-no-dine-in-1.jpg", "/photos/olas-dining-nigerian-kitchen-no-dine-in-2.jpg", "/photos/olas-dining-nigerian-kitchen-no-dine-in-3.jpg"]
 rating: 4.6
-review_count: 75
+review_count: 76
 price_range: "$$"
 amenities:
   - "Halal"

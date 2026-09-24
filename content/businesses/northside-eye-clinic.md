@@ -4,8 +4,8 @@ slug: "northside-eye-clinic"
 category: "medical"
 neighborhood: "Castle Downs"
 address: "10807 Castle Downs Rd NW #118, Edmonton, AB T5X 3N7"
-rating: 5
-review_count: 239
+rating: 4.9
+review_count: 242
 tier: "featured"
 phone: "(780) 473-6300"
 website: "https://northsideeyeclinic.ca/"

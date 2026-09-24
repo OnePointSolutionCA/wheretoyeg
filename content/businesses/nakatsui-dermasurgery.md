@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/nakatsui-dermasurgery-1.jpg", "/photos/nakatsui-dermasurgery-2.jpg", "/photos/nakatsui-dermasurgery-3.jpg"]
 rating: 4.7
-review_count: 349
+review_count: 352
 price_range: "$$"
 amenities:
 

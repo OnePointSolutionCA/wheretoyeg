@@ -22,6 +22,12 @@ reviews:
     rating: 5
     comment: |
       My husband did not have an appointment but the doctor spoke with him and asked him what his problem was when he went to the dental clinic.  The doctor immediately helped him and explained to him how he could help.  The doctor was very polite and friendly as was his staff.  I would recommend him to anyone that needs help including their children.  After treatment the bill was very reasonable which was nice for us.   Thankyou
+  - name: "gagandeep kaur"
+    rating: 5
+    comment: |
+      Had a great experience. Went for my 6 year olds dental checkup. Dr Jasdeep was extremely friendly and approachable with kids along with being professional and highly knowledgeable.
+      I recommend this clinic.
+      Keep up the good work.
   - name: "Manoli Patel"
     rating: 5
     comment: |
@@ -33,10 +39,6 @@ reviews:
       2 I gone first time there 4 days ago for cleaning and filling DR is very experienced person I am in this city for last 24years and I use to see Mr DR Duglus REED in west side he was very humble and gentle person after his retirement finally I got this DR who understands the issue and solve it with nicely manor. Today my wife visit them and she was so satisfied by service they provide. On the end I will thank to the staff and specially the DR JASDEEP who take care of us.100 percent i recmend he is very professional person.
       Thank you
       Fiaz Warraich
-  - name: "PARDIP KAUR"
-    rating: 5
-    comment: |
-      I recently visited Dr. Jasdeep S. Ashta and had a very positive experience. The clinic is clean and well-organized, and the staff are friendly and welcoming. Dr. Ashta took the time to listen to my concerns and provided clear, detailed explanations about the treatment. The entire process was smooth and comfortable. I truly appreciate the professionalism and care, and I would definitely recommend Dr. Ashta to anyone looking for reliable dental services.
 hours:
   monday: "9:00 AM–7:00 PM"
   tuesday: "9:00 AM–7:00 PM"

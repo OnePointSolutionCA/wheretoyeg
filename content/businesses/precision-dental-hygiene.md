@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Spruce Grove"
 address: "636 King St #120, Spruce Grove, AB T7X 4K5"
 rating: 5
-review_count: 36
+review_count: 37
 tier: "featured"
 phone: "(780) 446-6399"
 website: "http://www.precisiondentalhygiene.com/"
@@ -13,6 +13,10 @@ google_maps: "https://maps.google.com/?cid=12559821700746461389&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/precision-dental-hygiene.jpg"
 reviews:
+  - name: "Sarah Zieminek"
+    rating: 5
+    comment: |
+      My family and I have been going to see Katelyn for regular cleanings ever since she opened her doors. She has always not only been extremely thorough and knowledgeable, but also goes above and beyond. She treats my kids with kindness and they feel completely at ease sitting in her chair (as do I, for that matter). I wouldn't hesitate to recommend her services to anyone. ☺️
   - name: "Aliza Culver"
     rating: 5
     comment: |
@@ -31,10 +35,6 @@ reviews:
     rating: 5
     comment: |
       Katelyn is amazing! She’s super friendly, professional, and made me feel really comfortable throughout my appointment. The cleaning was very thorough but still gentle, and she took the time to explain everything clearly. I’d absolutely recommend her to anyone looking for a great dental hygienist. Can’t wait for my next visit!
-  - name: "Jessica Jasper"
-    rating: 5
-    comment: |
-      My family recently had the pleasure of getting our teeth cleaned by Katelyn at Precision. She was efficient, caring, thorough and very gentle. My 6yr old and 5 yr old were a little nervous, but Katelyn took the time to make them comfortable, explained all the sounds and feelings and made sure they got a great cleaning with zero fear or discomfort. I would recommend Katelyn to anyone young or old, she has a wonderful chair-side manner and can make anyone feel welcome and taken care of. 100% recommend her services. We have found our family hygienist for sure! Thanks Katelyn!
 hours:
   monday: "9:00 AM–8:00 PM"
   tuesday: "9:00 AM–5:00 PM"

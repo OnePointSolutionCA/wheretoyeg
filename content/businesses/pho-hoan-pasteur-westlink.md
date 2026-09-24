@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/pho-hoan-pasteur-westlink-1.jpg", "/photos/pho-hoan-pasteur-westlink-2.jpg", "/photos/pho-hoan-pasteur-westlink-3.jpg"]
 rating: 4.5
-review_count: 1144
+review_count: 1146
 price_range: "$"
 amenities:
   - "Dine-In"

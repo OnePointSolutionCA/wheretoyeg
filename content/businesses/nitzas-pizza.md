@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "St. Albert"
 address: "80 McKenney Ave, St. Albert, AB T8N 2T7"
 rating: 4.3
-review_count: 858
+review_count: 860
 tier: "featured"
 phone: "(780) 458-7711"
 website: "http://www.nitzaspizzastalbert.com/"

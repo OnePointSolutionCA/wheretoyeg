@@ -20,7 +20,7 @@ hours:
   sunday: "7:00 AM–9:00 PM"
 photos: ["/photos/mr-electric-edmonton-1.jpg", "/photos/mr-electric-edmonton-2.jpg", "/photos/mr-electric-edmonton-3.jpg"]
 rating: 4.9
-review_count: 640
+review_count: 641
 price_range: "$$"
 amenities:
   - "Licensed"

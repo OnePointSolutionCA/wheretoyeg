@@ -21,7 +21,7 @@ hours:
   sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/mr-barber-downtown.png"]
 rating: 4.9
-review_count: 880
+review_count: 886
 price_range: "$$"
 amenities:
   - "Walk-Ins Welcome"

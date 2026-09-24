@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/perfect-auto-glass-1.jpg", "/photos/perfect-auto-glass-2.jpg", "/photos/perfect-auto-glass-3.jpg"]
 rating: 4.9
-review_count: 333
+review_count: 334
 price_range: "$$"
 amenities:
 

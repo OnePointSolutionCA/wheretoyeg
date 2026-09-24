@@ -19,8 +19,8 @@ hours:
   saturday: "9:30 AM–6:30 PM"
   sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/oxford-barbershop-1.jpg", "/photos/oxford-barbershop-2.jpg", "/photos/oxford-barbershop-3.jpg"]
-rating: 4.8
-review_count: 238
+rating: 4.7
+review_count: 239
 price_range: "$$"
 amenities:
 

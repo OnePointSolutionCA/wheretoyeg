@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/mr-halal-burger-2-1.jpg", "/photos/mr-halal-burger-2-2.jpg", "/photos/mr-halal-burger-2-3.jpg"]
 rating: 4.8
-review_count: 369
+review_count: 370
 price_range: "$"
 amenities:
   - "Halal"

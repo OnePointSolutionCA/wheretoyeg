@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Spruce Grove"
 address: "280 Pioneer Rd #318, Spruce Grove, AB T7X 2W3"
 rating: 4.9
-review_count: 62
+review_count: 65
 tier: "featured"
 phone: "(780) 823-1555"
 website: "https://www.ourgrovedentist.ca/?utm_source=google&utm_medium=organic&utm_campaign=nm_gbp_website&utm_content=website_button"
@@ -14,10 +14,10 @@ google_maps: "https://maps.google.com/?cid=7310508947189423994&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/our-dentist.jpg"
 reviews:
-  - name: "Michelle Elizalde"
+  - name: "Jean Mula"
     rating: 5
     comment: |
-      Great experience! The dentist did an excellent job with our cleaning. The receptionist “Hazel” was very friendly and welcoming. Highly recommend!
+      Very friendly and welcoming team. My son needed an urgent dental appointment and they were very accommodating,  booked us in right away. The dentist was very patient and knowledgeable and explained what are the best options for us. We have been coming in this office for the past few years and my kids enjoy each visits.
   - name: "Meaghan Henderson"
     rating: 5
     comment: |
@@ -26,6 +26,10 @@ reviews:
       The dental surgeon was fast, efficient, and professional, while still making the experience feel comfortable, he even sharing a few funny dad jokes that genuinely helped lighten the mood. At the end, he even shook my hand, which was such a small but thoughtful gesture.
       I also want to recognize the wonderful surgical dental assistant who brought me to my chair, took my X-rays, and assisted during the procedure.Her kindness, patience, and reassurance meant so much to me. She truly helped make what could have been a very stressful experience feel manageable.
       A 5/5 experience for what is usually a very uncomfortable procedure. I would highly recommend this clinic to anyone, especially those who feel nervous or uneasy about visiting the dentist. Thank you for making me feel cared for every step of the way.
+  - name: "Michelle Elizalde"
+    rating: 5
+    comment: |
+      Great experience! The dentist did an excellent job with our cleaning. The receptionist “Hazel” was very friendly and welcoming. Highly recommend!
   - name: "Angel S"
     rating: 5
     comment: |
@@ -34,10 +38,6 @@ reviews:
     rating: 5
     comment: |
       Prices are explained to you properly. Hygienist is really good in taking care of patients plus has gentle hands!!! , receptionist is always the best!
-  - name: "christine raymundo"
-    rating: 5
-    comment: |
-      This dental office deserves five stars! From scheduling to checkout, everything was smooth and stress-free. The staff is knowledgeable, courteous, and attentive. The dentist was extremely professional and made sure I was comfortable the entire time. I’m very happy with my care and will definitely be returning. I came in for a routine cleaning and had a fantastic experience. The hygienist was very gentle and thorough would recommend coming to her!🥰
 hours:
   monday: "10:00 AM–5:00 PM"
   tuesday: "9:00 AM–4:00 PM"

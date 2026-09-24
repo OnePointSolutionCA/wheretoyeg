@@ -29,6 +29,10 @@ tags: ["cafe", "coffee", "lunch", "laptop-friendly"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "David Borel"
+    rating: 5
+    comment: |
+      Amazing sandwiches and matcha. The vietnamese coffee was best taken iced. Super welcoming staff and bright environment. Seating kind of forces you in contact with the other guests.
   - name: "Mr. Moon"
     rating: 4
     comment: |
@@ -61,9 +65,4 @@ reviews:
       What really seals the deal for me is the excellent customer service. The staff is so sweet and efficient. The owner Bee is an absolute gem! That fact that he remembers me and goes out of his way to say hi even when he’s busy working is truly an honor. I’m writing this review as I’m sitting here on the patio having lunch because I’m just so impressed.
       
       Thank you to Bee and the wonderful staff of Nomad Cafe who make coming here so enjoyable!  The neighborhood (and I) truly appreciate you all!
-  - name: "Mary M"
-    rating: 5
-    comment: |
-      Nomad Cafe is a small local shop with delicious sandwiches, baked goods, and coffee! I’ve had their chicken and pork bahn mi and each component of the sandwich was perfect, especially the bread. The displayed baked goods always entice me to add one onto my order and they pair perfectly with a cup of their coffee.
-      This is my go-to spot for bahn mi!
 ---

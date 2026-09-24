@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Spruce Grove"
 address: "505 Queen St #109, Spruce Grove, AB T7X 2V2"
 rating: 4.9
-review_count: 713
+review_count: 715
 tier: "featured"
 phone: "(587) 853-6844"
 website: "https://www.sprucegrovedentist.ca/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Website_URL"

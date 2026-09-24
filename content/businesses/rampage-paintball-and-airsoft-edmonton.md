@@ -13,6 +13,10 @@ google_maps: "https://maps.google.com/?cid=2337343181592599367&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/rampage-paintball-and-airsoft-edmonton.jpg"
 reviews:
+  - name: "Just Jacked"
+    rating: 5
+    comment: |
+      Awesome place to go paint balling. Fair prices and the staff goes above and beyond. One of our party lost there truck key. The next morning the staff went through the playing areas looking for the key and found it. That was awesome and saved alot of money to not have a lock smith drive out and make a key as they didn't have a spare. We will definitely be back again!!!
   - name: "Jon Boldireff"
     rating: 5
     comment: |
@@ -31,10 +35,6 @@ reviews:
     rating: 2
     comment: |
       Place is so disorganized. I am constantly told conflicting information about games and rules, etc. The one ref would constantly only give us a 5 minute break before another game then 2 minutes later would tell everyone to go back to the field. The area we didnt get to choose to play were not maintained, so many tripping hazards and uncut brush, branches and shrubs and brush with thorns.
-  - name: "Alex Clarke"
-    rating: 5
-    comment: |
-      Instructions were clear to follow, refs were amazing for our group of 13yr Olds. Kids were beat up and very happy. Excellent value and fun with the gold package.
 hours:
   monday: "Closed"
   tuesday: "Closed"

@@ -19,8 +19,8 @@ hours:
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/modern-auto-body-ltd-1.jpg", "/photos/modern-auto-body-ltd-2.jpg", "/photos/modern-auto-body-ltd-3.jpg"]
-rating: 4.7
-review_count: 355
+rating: 4.8
+review_count: 356
 price_range: "$$"
 amenities:
 
@@ -28,22 +28,6 @@ tags: ["edmonton", "collision"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Jay"
-    rating: 5
-    comment: |
-      Jessica is an absolute rockstar and truly went above and beyond with her customer service. She should be recognized for her efforts and set the standard for the entire team.
-      
-      The paint work looks very good so far, which I do appreciate. That said, in my opinion, the repair itself took quite a long time, and I expected a higher level of customer service from a business that deals with luxury vehicles. I did appreciate the automated service update emails, which were helpful and kept me informed throughout the process.
-      
-      One concern was that I dropped off my Tesla fully charged and received it back at 39%, despite the vehicle being in their possession for nearly two months. I had also emailed ahead of time asking that it be charged before pickup, especially since it was the middle of winter.
-      
-      Additionally, there was a chip on the rear driver-side glass that was not there at drop-off. I had taken videos of my vehicle at drop-off to document its condition. After bringing this to management’s attention, they offered to repair the glass free of charge. Some window tint had also been removed during the service, and management offered to re-tint those glass panels at no cost as well. I appreciate the management team taking responsibility and working to rectify these issues.
-      
-      Not trying to be rude or difficult — just honestly sharing my experience.
-  - name: "Lisa Brandt"
-    rating: 5
-    comment: |
-      Wonderful job done repairing my front driver's side fender and replacing the left headlight and bumper (among other parts!) after a fender bender, it looks as good as new.  Highly recommended for their attention to detail, clear communication throughout the repair, and an overall positive experience.
   - name: "Abdol Hakwik"
     rating: 5
     comment: |
@@ -61,4 +45,12 @@ reviews:
       I had an excellent experience with Modern Auto Body. From the moment I walked in, MO and  the staff were professional, friendly, and took the time to explain everything clearly. They kept me updated throughout the process and made sure I felt confident about the repairs.
       
       The quality of their work is outstanding – my vehicle came back looking brand new, with the paint and bodywork perfectly matched. You can tell they take pride in their craftsmanship and hold themselves to very high standards.
+  - name: "Lisa Brandt"
+    rating: 5
+    comment: |
+      Wonderful job done repairing my front driver's side fender and replacing the left headlight and bumper (among other parts!) after a fender bender, it looks as good as new.  Highly recommended for their attention to detail, clear communication throughout the repair, and an overall positive experience.
+  - name: "Heike Stribrny"
+    rating: 5
+    comment: |
+      Excellent customer service and communication. Very helpful and informed staff. The quality of the work and the care taken was excellent. All certified BMW parts were used, and they did a good job supporting the requirements and obtaining approval from insurance.
 ---

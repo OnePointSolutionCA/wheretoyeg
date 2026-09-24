@@ -26,19 +26,19 @@ reviews:
     rating: 5
     comment: |
       my first time into mills Haven today and everyone from the front desk to the assistant Emily to dr phillips were all extremely nice and friendly, and very professional, I can't wait to go back...
-  - name: "Nicole Bouma"
-    rating: 5
-    comment: |
-      Millshaven Dental was very accommodating to get me in to have some emergency dental work done. Front desk staff as well as the dentist were so friendly and explained my options very well. They had me fixed up and out the door in a short time.
-      
-      I was in the market for a new dentist and finally found the right place! Highly recommend!
   - name: "Lindsey Pelletier"
     rating: 5
     comment: |
       Kaelyn at Mill Haven Dental is an outstanding hygienist! She is professional, gentle, and incredibly thorough, always making sure you feel comfortable and well cared for. She takes the time to explain everything clearly and offers helpful tips to keep your smile healthy. Her friendly personality and attention to detail truly set her apart. I highly recommend booking with Kaelyn at Mill Haven Dental! 🦷🪥
+  - name: "C"
+    rating: 5
+    comment: |
+      Very pleased with the quick, reasonably priced and gentle care given at Mills Haven Dental Sherwood Park.  I have already recommended Dr. Phillips and associates to friends and family.
+      Thankful to have found this excellent Dental Office with such friendly and efficient staff.
+      Colleen B.
 hours:
   monday: "7:00 AM–3:00 PM"
-  tuesday: "9:00 AM–5:00 PM"
+  tuesday: "10:00 AM–6:00 PM"
   wednesday: "8:00 AM–4:00 PM"
   thursday: "9:00 AM–5:00 PM"
   friday: "8:00 AM–3:00 PM"

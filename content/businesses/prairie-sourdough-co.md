@@ -18,7 +18,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/prairie-sourdough-co-1.jpg", "/photos/prairie-sourdough-co-2.jpg", "/photos/prairie-sourdough-co-3.jpg"]
 rating: 5
-review_count: 6
+review_count: 7
 price_range: "$$"
 amenities:
   - "Takeout"
@@ -47,12 +47,13 @@ reviews:
       And I also have the Artisan loaf I have yet to get into but I already know it's going to be a 10/10
       
       The Sourdough Cottage is the place to get your fresh sourdough fixings! Thank you so much 😊❤️ You are incredible!
+  - name: "Amalee Truong"
+    rating: 5
+    comment: |
+      We tried the sourdough loaf, jalapeño cheddar loaf, and lemon blueberry muffins, and everything was absolutely delicious! No notes- everything was fresh, flavorful, and soo tasty. Can’t wait to order again and see what new offerings get added to the list!
   - name: "Loranna"
     rating: 5
     comment: |
-      Super yummy! Love all of these items and looking forward to trying every new type of product you offer!
-  - name: "Paul Jenkins"
-    rating: 5
-    comment: |
-      The whole family looks forward to Sourdough Cottage bread. Do yourself a favour and try the cheddar and jalapeño loaf. It's absolutely delicious!
+      What kind of magic does The Sourdough Cottage YEG add to their blueberry muffins?!?! I don't really even like muffins, I'm more of a cookie person, but WOW! These are fabulous. I only tried it because a friend had a half of one left.  Definitely ordering some as soon as I finish writing this review.
+      Super yummy! Love the jalapeño cheddar loaf, and looking forward to trying every new type of product they offer!
 ---

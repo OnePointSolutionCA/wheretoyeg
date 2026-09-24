@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/oakberry-aa-bowls-smoothies-1.jpg", "/photos/oakberry-aa-bowls-smoothies-2.jpg", "/photos/oakberry-aa-bowls-smoothies-3.jpg"]
 rating: 4.7
-review_count: 176
+review_count: 184
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -42,12 +42,12 @@ reviews:
     rating: 5
     comment: |
       The drinks are great and customer service is top-notch. Loved my experience at this location! :)
+  - name: "Anne"
+    rating: 5
+    comment: |
+      It’s sooo good and will be back again! Friendly service by Ravneet and Fatima!
   - name: "Lindsay Salloum"
     rating: 5
     comment: |
       Never disappoints!! It was fresh and delicious and served quickly and with a smile. If you want something healthy and delicious go to OakBerry!!
-  - name: "Rafael Valenzuela"
-    rating: 5
-    comment: |
-      Really good Açaí, reminds me of home. Really good service, nice people
 ---

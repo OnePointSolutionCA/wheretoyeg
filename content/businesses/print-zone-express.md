@@ -41,12 +41,12 @@ reviews:
     comment: |
       These printers are reliable, communicative and collaborative. They will make sure they understand your needs, make your timelines, communicate proactively and charge fairly.
       They do an amazing job for my sales training and consulting resources!
-  - name: "J"
-    rating: 5
-    comment: |
-      Thank you Print Zone Express for the quick turnaround! Poster looks great and is high quality. Appreciate your friendly and professional team to get a same-day poster printed out.
   - name: "Hardik Patel"
     rating: 5
     comment: |
       Awesome clarity and quality of photo print with accurate size. They got some pretty good equipment and provides great customer service.
+  - name: "J"
+    rating: 5
+    comment: |
+      Thank you Print Zone Express for the quick turnaround! Poster looks great and is high quality. Appreciate your friendly and professional team to get a same-day poster printed out.
 ---

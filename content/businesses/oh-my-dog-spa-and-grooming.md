@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/oh-my-dog-spa-and-grooming-1.jpg", "/photos/oh-my-dog-spa-and-grooming-2.jpg", "/photos/oh-my-dog-spa-and-grooming-3.jpg"]
 rating: 4.9
-review_count: 641
+review_count: 645
 price_range: "$$"
 amenities:
 
@@ -42,16 +42,12 @@ reviews:
     rating: 5
     comment: |
       We consistently visit the same dog grooming facility on Saint Albert Trail, which stands out as one of the best in the area. The location is impeccably clean and well-maintained, and the staff is exceptionally courteous. The front desk personnel are delightful, always greeting us with smiles and demonstrating a personal touch by remembering our dogs' names. Above all, the level of service is outstanding, making my dogs feel comfortable and at ease during their grooming sessions. I highly recommend this establishment to anyone seeking dog grooming services.
-  - name: "Leanne Cottrell"
-    rating: 5
-    comment: |
-      My dog gets excited when we get out of the car. He loves this place. We have to do a few laps in the parking lot to chill out before going in. That's how wonderful this place is with your dog. He WANTS to be there.
-      
-      The haircut is fantastic every time, and he comes out of his appointment with a tie, and smelling like a gentleman.
-      
-      The staff are some of the nicest humans you could meet, and you leave knowing your dog is well cared for.
   - name: "Jacqueline Coriana"
     rating: 5
     comment: |
       Highly recommend Oh My Dog Spa! They did an amazing job with my Chico. He came back looking so cute, clean, and handsome. Friendly staff and great service! 🐶
+  - name: "Irene F"
+    rating: 5
+    comment: |
+      This was the pups first visit and I am very pleased with their nicely groomed look. After a scruffy few months looking for a new grooming salon, I couldn’t be happier. The speed with which they were done was amazing! I will be back! Thank you so much.
 ---

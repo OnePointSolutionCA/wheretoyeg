@@ -22,7 +22,7 @@ hours:
 photos:
   - "/photos/moons-sweet-lil-pancakes-1.webp"
 rating: 5.0
-review_count: 26
+review_count: 32
 price_range: "$$"
 amenities:
   - "Dine-In"

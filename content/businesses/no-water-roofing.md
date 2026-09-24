@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/no-water-roofing-1.jpg", "/photos/no-water-roofing-2.jpg", "/photos/no-water-roofing-3.jpg"]
 rating: 4.9
-review_count: 136
+review_count: 137
 price_range: "$$"
 amenities:
 

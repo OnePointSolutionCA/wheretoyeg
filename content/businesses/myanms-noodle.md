@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Beaumont"
 address: "5305 Magasin Ave #118, Beaumont, AB T4X 1V8"
 rating: 4.9
-review_count: 249
+review_count: 251
 tier: "featured"
 phone: "(587) 474-1415"
 website: "https://www.clover.com/online-ordering/myanmsnoodle"
@@ -25,10 +25,6 @@ reviews:
       The food definitely didn’t disappoint. We had their popular laksa, tom yum noodles, and dumplings, all cooked to perfection and full of flavor.
       
       Overall, a great spot with plenty more on the menu to explore. Definitely worth checking out!
-  - name: "S Flynn"
-    rating: 5
-    comment: |
-      Such an amazing place to find a warm dish of delicious food. I’ve been here many times and the service is excellent, and the food is amazing. A very clean atmosphere, warm and welcoming. Highly recommend this place for your new go-to spot! My new favourite restaurant in Beaumont.
   - name: "Scott"
     rating: 5
     comment: |
@@ -37,6 +33,13 @@ reviews:
     rating: 5
     comment: |
       I love the atmosphere at the this place, very calming and nice. My partner recommended me this place and I finally had the time to try it out. The food here Did NOT disappoint! I was feeling a little sick during my visit, I got myself their minced pork dumpling noodle soup and I think I just found myself a new comfort food (and place). Tried out my partner’s favourite dish as well which was myanm’s laksa noodle soup. That one was a treat as well! I Highly highly recommend this place.
+  - name: "Christine Chu"
+    rating: 5
+    comment: |
+      Went to this place while staying near the airport and was pleasantly shocked by how good it was. From the moment you walk in, the smell hits you — warm, comforting, and instantly wholesome. It felt cosy straight away, especially perfect for the cold season.
+      The complimentary tea was absolutely delicious, and the milk tea at the end was such a lovely touch — warming and soothing, and honestly one of the highlights of the meal.
+      The waitress was an absolute delight and really added to the welcoming, comforting atmosphere. I had the laksa and my husband had the spicy miso, and both were incredible — rich, flavourful, and just as good as each other.
+      Amazing food, outstanding tea, and genuinely lovely service. We’d absolutely come back.
 hours:
   monday: "11:00 AM–8:00 PM"
   tuesday: "11:00 AM–8:00 PM"

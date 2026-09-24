@@ -34,10 +34,6 @@ reviews:
       
       Very impressed.
       Would recommend.
-  - name: "Mohanad Azid"
-    rating: 5
-    comment: |
-      Really good experience here. My car had issues and they took care of it quick without making things complicated. Super respectful people and fair prices too. Glad I came here.
   - name: "Salah Isa"
     rating: 5
     comment: |
@@ -52,6 +48,10 @@ reviews:
     rating: 1
     comment: |
       Didn’t properly install my tires caused a lot of damages to my vehicle and made my vehicle unsafe to drive also refused to own up to the full amount of damages after trying to lie to me about the extent of what happened to my car. Complete negligence, improper practices and endangering acts on their part.
+  - name: "Mohanad Azid"
+    rating: 5
+    comment: |
+      Really good experience here. My car had issues and they took care of it quick without making things complicated. Super respectful people and fair prices too. Glad I came here.
 hours:
   monday: "9:00 AM–8:00 PM"
   tuesday: "9:00 AM–8:00 PM"

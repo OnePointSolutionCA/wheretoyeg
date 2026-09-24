@@ -31,6 +31,10 @@ reviews:
     rating: 5
     comment: |
       Wow for the cheap price. Love their seafood options
+  - name: "Kirsten"
+    rating: 5
+    comment: |
+      Highly recommended asian store in the city, have affordable filipino goods and vegetables. Friendly staff and excellent customer service. 🥰
   - name: "jinky ann falculan"
     rating: 5
     comment: |
@@ -43,8 +47,4 @@ reviews:
     rating: 5
     comment: |
       I really appreciate the accountability this establishment has when handling about a defective product as they actually deal with the situation with communication. Definitely recommend. 😇
-  - name: "Marilee Edades"
-    rating: 1
-    comment: |
-      Bought putong bigas saturday aug.15 it says on the container best before 9.31.26 but monday morning already have molds on them.
 ---

@@ -5,7 +5,7 @@ category: "cleaning-services"
 neighborhood: "Edmonton"
 address: "7098 Cardinal Way SW, Edmonton, AB T6W 1Z3"
 rating: 5
-review_count: 154
+review_count: 157
 tier: "featured"
 phone: "(780) 238-1818"
 website: "https://www.nikmikclearcleaning.ca/"
@@ -13,6 +13,14 @@ google_maps: "https://maps.google.com/?cid=14878169893709445203&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/nik-mik-clear-cleaning.jpg"
 reviews:
+  - name: "Little House Technologies"
+    rating: 5
+    comment: |
+      I hired Nik Mik Clear Cleaning to clean the carpets and I’d happily use them again. Booking was easy, they showed up on time, and the whole job was done efficiently without feeling rushed. The results were excellent.
+      
+      Pricing was fair and quoted up front. It’s a small independent business, so you’re dealing directly with the person doing the work, which showed in the care taken.
+      
+      Highly recommend if you want honest pricing and a job done properly.
   - name: "Gift Okwa"
     rating: 5
     comment: |
@@ -39,10 +47,6 @@ reviews:
     rating: 5
     comment: |
       Amazing work came on time and walked through the home with us light to get rid of stains from my dog. Extremely professional efficient and thorough job, I’m impressed!
-  - name: "reilly carter"
-    rating: 5
-    comment: |
-      if i could leave more than 5 stars i would. they are extremely professional and do even better work! i lost hope in having clean carpets with having multiple dogs but the work done was amazing! i will definitely be using them for all future jobs and recommending to everyone i know!
 hours:
   monday: "8:00 AM–8:00 PM"
   tuesday: "8:00 AM–8:00 PM"

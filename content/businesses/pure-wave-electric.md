@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/pure-wave-electric-1.jpg", "/photos/pure-wave-electric-2.jpg", "/photos/pure-wave-electric-3.jpg"]
 rating: 5
-review_count: 264
+review_count: 265
 price_range: "$$"
 amenities:
 
@@ -40,12 +40,13 @@ reviews:
     rating: 5
     comment: |
       I lost power to half my house. I called Pure Wave and they were able to come out and help me out right away, Jorge was super friendly, knowledgeable and great at explaining everything to me. He fixed the issue and got my power back on. Highly recommend Pure Wave. Jorge even took my trash out when he left! That is some 5 star service.
+  - name: "Cassidy Johnson"
+    rating: 5
+    comment: |
+      Jorge came as a last minute emergency, in the middle moving in to a new house 2 bedrooms outlets were not functioning. He came as soon as we called and worked on sourcing out the problem in the middle of chaos. Through out the time he was here he kept updating me on the process. The problem was found quick and resolved immediately! Thank you so much Jorge from me and my family !
+      If your looking for service with a simple your going to get Beyond that he was very wonderful person!
   - name: "kyle bartok"
     rating: 5
     comment: |
       Hired them for a 200amp service upgrade. They walked me through the requirements and handled all the permits. Great professional work. Already hired for another job.
-  - name: "Michael S"
-    rating: 5
-    comment: |
-      After my garage power line was damaged, Jorge came up with a much better long-term solution that future-proofed the system for any additional work I may want, all at a very reasonable price, rather than simply patching the old setup. Jorge and his team worked incredibly hard with great attention to detail, provided excellent communication start to finish, stayed late to ensure the work was completed in a single day, and clearly took real pride in doing the job properly. This is the second time I’ve hired Jorge, and I’ll always recommend him to anyone who asks if I know a good electrician, as he and his team consistently do professional and excellent work.
 ---

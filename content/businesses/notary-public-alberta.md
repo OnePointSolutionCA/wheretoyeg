@@ -28,15 +28,15 @@ tags: ["edmonton", "notaries"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Christine C"
-    rating: 5
-    comment: |
-      I had a great experience with Anna signing the documents I needed. She’s so kind to even print it out for me. I would recommend this place!
   - name: "aicon"
     rating: 5
     comment: |
       Recently I used the Notary public Alberta for notarizing the documents and I liked the service.
       Excellent service from start to finish. The notary was professional and punctual by Anna. The whole process was quick and hassle-free, and the fee was reasonable. Highly recommended.
+  - name: "Christine C"
+    rating: 5
+    comment: |
+      I had a great experience with Anna signing the documents I needed. She’s so kind to even print it out for me. I would recommend this place!
   - name: "Bonnie Jones"
     rating: 5
     comment: |

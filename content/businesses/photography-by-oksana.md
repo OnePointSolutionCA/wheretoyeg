@@ -5,7 +5,7 @@ category: "photographers"
 neighborhood: "Edmonton"
 address: "7727 18 Ave SW, Edmonton, AB T6X 0V3"
 rating: 5
-review_count: 76
+review_count: 77
 tier: "featured"
 phone: "(780) 982-8557"
 website: "http://www.byoksana.ca/"

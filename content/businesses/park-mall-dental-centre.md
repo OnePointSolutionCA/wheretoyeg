@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "2020 Sherwood Dr, Sherwood Park, AB T8A 3H9"
 rating: 4.9
-review_count: 432
+review_count: 438
 tier: "featured"
 phone: "(780) 570-8272"
 website: "https://parkmalldentist.ca/?utm_source=kastle&utm_medium=seo&utm_campaign=Website_URL"

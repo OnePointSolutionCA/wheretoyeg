@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–9:00 PM"
 photos: ["/photos/mr-halal-burger-1.jpg", "/photos/mr-halal-burger-2.jpg", "/photos/mr-halal-burger-3.jpg"]
 rating: 4.7
-review_count: 813
+review_count: 815
 price_range: "$"
 amenities:
   - "Halal"
@@ -43,10 +43,6 @@ reviews:
       I tried two different burgers and they are very good smash burgers. As a note, they come with a lot of fried onions so if that's not you're thing make a mute when you order.
       
       4 x 🍔 🍔 🍔 🍔
-  - name: "Iman Najmeddine"
-    rating: 5
-    comment: |
-      Best burger I ever had in Edmonton! We had the triple cheese burger and the Swiss mushroom. Both amazing (10/10) can’t tell which one is my favorite as loved both. Definitely my only TO GO burger from now on. Also had the butter pecan milkshake, just WOW!!!
   - name: "Mahdi “Maudy McFly” Miganeh"
     rating: 5
     comment: |
@@ -69,4 +65,8 @@ reviews:
     rating: 5
     comment: |
       Ok I ordered from Mr. Halal burger tonight. My brother and I are both gluten intolerant.  To others my next comment may not mean much but to someone that is sentenced to eating gluten free bread they will understand.  The GF buns they use are amazing. Great texture, have the closest mouth feel to a gluten bun I’ve ever had aaaaannnnddd they don’t disintegrate!!! Amazing. Ok enough about the buns. The burger itself out shines even the joy of finding the greatest GF bun of all time.  Great flavour great seasoning just amazing. I’m very impressed. I will definitely be going back !!!
+  - name: "Laura Li"
+    rating: 5
+    comment: |
+      Owner was really friendly & helpful! Recently diagnosed as celiac so asking if they had a gluten free menu. Not only do they offer gluten free bun and fries, they even have a separate fryer to ensure no cross contamination ☺️ Boyfriend called it the closest Canadian version of the famous In & Out burger lol. Got the new Oklahoma Burger with caramelized onions with American cheddar. Gluten free bun was almost like an artisan bread, airy like focaccia but not dense like one. Very comfortable experience and lower cost than most gluten free dine out options! A must try for celiac friendly places!
 ---

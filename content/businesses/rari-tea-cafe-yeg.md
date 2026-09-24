@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/rari-tea-cafe-yeg-1.jpg", "/photos/rari-tea-cafe-yeg-2.jpg", "/photos/rari-tea-cafe-yeg-3.jpg"]
 rating: 4.8
-review_count: 106
+review_count: 108
 price_range: "$$"
 amenities:
 
@@ -32,6 +32,12 @@ reviews:
     rating: 5
     comment: |
       Cute atmosphere with sweet staff. Drink was tasty and made pretty quick. Got the strawberry jasmine tea and I really enjoyed, will be back again. I went at 1:40 so not too busy either which was nice
+  - name: "Lillian Nguyen"
+    rating: 5
+    comment: |
+      Cute little spot with the nicest staff and such aesthetic decor. We loved their croffles so much that we’re already craving more. 🥐🧇
+      
+      Just keep in mind it might take a little longer when it’s busy since the matcha is hand-whisked, but it’s honestly such a vibey place that I wouldn’t mind staying all day (if I didn’t have to go back to work 😭) just to yap with friends.
   - name: "Ezy sidayon"
     rating: 5
     comment: |
@@ -53,8 +59,4 @@ reviews:
       First tried their matcha at a pop-up about a year ago and haven’t found anything as rich and authentic since. Really glad they now have a permanent location in the city, and even better that it’s close to work. I love that they have salt bread, croffles, and siomai to pair with my order.
       
       Came for the drinks, stayed for the atmosphere. The space is warm and cozy, and feels like a calm reset from the outside. The staff are always friendly and clearly enjoy what they do, which just makes the whole place even more enjoyable.
-  - name: "Jo Hana Garrido"
-    rating: 5
-    comment: |
-      I ordered matcha latte in oat milk with agave syrup. By far the best matcha I’ve ever tasted in Edmonton! The flavour of their Matcha is rich and creamy! Very well balanced and not quick to water down from the ice. I hope the quality stays the same as ill be definitely be coming back more often. so long live Rari Tea!
 ---

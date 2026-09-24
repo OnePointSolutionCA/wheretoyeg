@@ -49,10 +49,6 @@ reviews:
       There’s also a bar and some seating. Aswell as washrooms.
       
       5 stars!!!
-  - name: "Travelling Matt"
-    rating: 5
-    comment: |
-      It's a really great facility in South Edmonton. Clean and new well-constructed courts with reception area, change rooms, lockers, bathrooms, a little bar and other ball sports such as table tennis. I feel like this place will grow over time and it definitely has my vote as a great place to hang out for a couple of hours. Prices are reasonable, plenty of free parking and the people that run the joint are really nice.
   - name: "Tristan KNIGHT"
     rating: 5
     comment: |
@@ -81,4 +77,17 @@ reviews:
       Also 4 Pickleball courts, a bar and hang out area, and a wellness center that will also be opening soon!
       
       100% recommended!
+  - name: "John Ladlaw"
+    rating: 1
+    comment: |
+      My worst Pickleball experience ever:
+      a.The courts were very dusty/dirty making them slippery, especially because it seems to be simply painted concrete instead of a proper court surface.
+      b.The courts are too close together and there isn't enough room behind either side of the court for service or to return hard smashes.
+      c. Two of the pickle ball courts have 5 by 5 metal flooring right within it, which are slippery and are a tripping hazard.
+      d. The metal flooring is there because there are three overhead doors for the loading bays that the pickle courts exist in. The rails, and supports have no padding or protection on them and many sharp edges, this pairs nicely with the slippery floors.
+      e. DURING play, staff were opening and closing the overhead doors, including opening the door and kicking us off the court with a minute left in our booking... when we were on match point. f. The courts are only separated by temporary event gates which do a very poor job at preventing balls from going into other courts.
+      g. There are wide contraction seams in the concrete that you are playing on, which obviously affects the ball dramatically every time it hits it.
+      h. The nets appear to be high quality, but they are portable nets with wide bases, which, again is a hazard with the courts so close to each other.
+      
+      Finally, I brought these concerns up to staff members, who did not seem to care at all. This appears to be a nice place for padle, although I've never played that. These are the worst pickle ball courts in the Edmonton area.
 ---

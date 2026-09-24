@@ -21,7 +21,7 @@ hours:
   sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/parkash-sweets-1.jpg", "/photos/parkash-sweets-2.jpg", "/photos/parkash-sweets-3.jpg"]
 rating: 4.3
-review_count: 1539
+review_count: 1541
 price_range: "$"
 amenities:
   - "Vegetarian"

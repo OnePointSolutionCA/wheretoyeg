@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/nothing-but-tires-auto-service-1.jpg", "/photos/nothing-but-tires-auto-service-2.jpg", "/photos/nothing-but-tires-auto-service-3.jpg"]
 rating: 4.8
-review_count: 3580
+review_count: 3587
 price_range: "$$"
 amenities:
 

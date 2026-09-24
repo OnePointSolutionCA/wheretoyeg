@@ -21,15 +21,15 @@ reviews:
       Love this store! Great service!
       Katie exceptional service!
       Igor, Brenda, Obi, Michelle, Martina all go out of there way to help. Awesome crew!
-  - name: "Kiana Towpich"
-    rating: 5
-    comment: |
-      Katie and Paulise were incredibly informational and helpful throughout the entire process. They explained everything clearly, answered all questions, and made sure I understood every detail.
   - name: "Rodney Royce"
     rating: 5
     comment: |
       Absolutely amazing people! Martina and her crew are always helpful and passionate about helping people. I'd offer 10 stars if that was an option!
       🌟 🌟 🌟🌟🌟🌟🌟🌟🌟🌟
+  - name: "Kiana Towpich"
+    rating: 5
+    comment: |
+      Katie and Paulise were incredibly informational and helpful throughout the entire process. They explained everything clearly, answered all questions, and made sure I understood every detail.
   - name: "Hannah Fink"
     rating: 5
     comment: |

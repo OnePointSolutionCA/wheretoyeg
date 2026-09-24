@@ -14,10 +14,6 @@ google_maps: "https://maps.google.com/?cid=6438588341534038079&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/panago-pizza.jpg"
 reviews:
-  - name: "Robert"
-    rating: 5
-    comment: |
-      My wife and I haven't been to Panago Pizza in Beaumont, Alberta for quite some time. But we were there last night and received amazing customer service from Pooja!! You Rock Pooja!! So kind you were! So helpful you were! Keep on smiling, Pooja! It's one of your other best qualities.  - Robert and Sharon, Beaumont, Alberta.
   - name: "Jess Tolley"
     rating: 3
     comment: |
@@ -30,6 +26,10 @@ reviews:
     rating: 1
     comment: |
       Tried this Beaumont Panago location for the first time; I think they really cheap out on toppings; this slice was from a 4 topping pizza and most slices barely had any toppings (keep in mind I paid $2.75 for each topping so I do expect atleast couple pieces of each topping on every slice)
+  - name: "Robert"
+    rating: 5
+    comment: |
+      My wife and I haven't been to Panago Pizza in Beaumont, Alberta for quite some time. But we were there last night and received amazing customer service from Pooja!! You Rock Pooja!! So kind you were! So helpful you were! Keep on smiling, Pooja! It's one of your other best qualities.  - Robert and Sharon, Beaumont, Alberta.
   - name: "Bob Bob"
     rating: 1
     comment: |

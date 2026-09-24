@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/pivotal-physiotherapy---high-performance-centre-1.jpg", "/photos/pivotal-physiotherapy---high-performance-centre-2.jpg", "/photos/pivotal-physiotherapy---high-performance-centre-3.jpg"]
 rating: 4.9
-review_count: 497
+review_count: 500
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,14 @@ tags: ["edmonton", "physiotherapy"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Jewel Zahr"
+    rating: 5
+    comment: |
+      I’ve been coming to Pivotal for several years and have always had such a positive experience with Raj and the kinesiologists. The front desk staff are so kind and welcoming, creating a warm and comfortable atmosphere from the moment you arrive.
+      
+      I’ve been receiving treatment following my ACL surgery, and I’m extremely happy with the progress I’ve made. The personalized recovery plan, attention to detail, and carefully selected exercises have made a huge difference in my rehabilitation. I truly appreciate the care, encouragement, and support I’ve received throughout my recovery from the team at Pivotal!
+      
+      I’ve referred many of my friends here, and every single one has come back raving about their experience. That says everything. If you’re looking for a team that truly cares, knows their stuff, and makes you feel welcome from day one, stop searching. You’ve found the right place!
   - name: "Cody Sherstabetoff"
     rating: 5
     comment: |
@@ -51,8 +59,4 @@ reviews:
     rating: 5
     comment: |
       Mirele is very kind, sweet, accommodating, and friendly. She took the time to clearly explain my condition, address all of my concerns, and discuss preventive care. I truly appreciated her patience and professionalism. I highly recommend Mirele to anyone looking for a compassionate and knowledgeable Physiotherapist
-  - name: "Chris Currie"
-    rating: 5
-    comment: |
-      Been going to Pivotal Physiotherapy High Performance Centre for over a year now after an MVA, Evan (Physio Therapist) and Quinn (Massage Therapist) have been amazing to work with! Very attentive and focused on the problem areas that require the most attention and treatment. It’s been a long process but their patience and attention are very much appreciated and have been a big help! I would definitely recommend Pivotal Physiotherapy!!
 ---

@@ -27,6 +27,10 @@ reviews:
     rating: 5
     comment: |
       My husband and I used them for our wedding this June.  Right from the start Jimmy was communicative and knowledgeable, he always responded to my emails within 2 business days with answers to my questions and suggestions.  We had so much fun at the tasting and they truly treated us like honoured guests.  On our wedding day they were punctual and professional, truly the most reliable out of all the vendors we had booked.  The food is excellent, the menu is easily customizable, and Jimmy and his team were a joy to work with.  Thank you!!
+  - name: "Kathy Mazurek"
+    rating: 5
+    comment: |
+      They catered our wedding on Aug 15 in Edmonton and the food came steaming  hot and tasty. Thanks Jimmy and staff
   - name: "Janice Halverson"
     rating: 5
     comment: |
@@ -36,12 +40,4 @@ reviews:
       And another issue was dinner was late as Caterer not there on time and still setting up after guests had arrived.  Forgot water service at our table - had to ask them four times before going and getting it ourselves.
       
       Would never recommend them to anyone.  Worst meal I have ever tried to eat.
-  - name: "Jacquie Daniels"
-    rating: 1
-    comment: |
-      I would not recommend Prairie Catering. Over a month ago, we agreed on a refund, yet despite multiple follow-ups, they have failed to send the money. The lack of communication and accountability is incredibly frustrating. A business should stand by its commitments, but Prairie Catering has shown a complete disregard for professionalism and customer service.
-      
-      Before using this company, I strongly urge you to read all the reviews—including the ones on Facebook. Their pattern of ghosting clients and withholding money is concerning, and based on other reviews, this is not the first time they have done this.
-      
-      Until I receive my refund, I will continue to leave reviews detailing exactly what has occurred. I will also be filing a complaint with the Better Business Bureau and pursuing all possible avenues to get the refund I am owed. Prairie Catering's lack of integrity and accountability is unacceptable—think twice before trusting them with your business.
 ---

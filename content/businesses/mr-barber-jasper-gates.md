@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/mr-barber-jasper-gates-1.jpg", "/photos/mr-barber-jasper-gates-2.jpg", "/photos/mr-barber-jasper-gates-3.jpg"]
 rating: 4.9
-review_count: 132
+review_count: 133
 price_range: "$$"
 amenities:
 

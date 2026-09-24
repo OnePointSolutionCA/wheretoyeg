@@ -29,14 +29,6 @@ tags: ["tires", "winter-tires", "brakes", "alignment"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Adrian Mosorocean"
-    rating: 5
-    comment: |
-      I had a great experience at OK Tire and wanted to give a shoutout to Frank and Grant for the excellent service. I came in to have tires installed on my fifth wheel, and instead of just doing the job quickly, Frank took the time to point out that replacing only two tires wouldn’t be a safe option. He explained that the other two had visible weathering and could pose a risk.
-      
-      I really appreciated the honesty and attention to safety—it’s clear they care more about doing things right than just making a quick sale. I went ahead with all four tires, and the work was done efficiently and professionally.
-      
-      Highly recommend OK Tire and especially Frank/Grant if you’re looking for knowledgeable, trustworthy service.
   - name: "Kyle Kuetbach"
     rating: 5
     comment: |
@@ -49,6 +41,14 @@ reviews:
       Edit: I have to change my 5 star rating to 2, first because I thought they would check tire air pressure with a swap, but as shown in the picture, the pressure is different in every tire, spanning from 3 to 8 psi more than recommended.
       
       Second they have raised the service price by 40% compared to 6 months ago. I understand there’s inflation and everything, but a $15 increase for a $40 service is too much. (total $57 after taxes)
+  - name: "Adrian Mosorocean"
+    rating: 5
+    comment: |
+      I had a great experience at OK Tire and wanted to give a shoutout to Frank and Grant for the excellent service. I came in to have tires installed on my fifth wheel, and instead of just doing the job quickly, Frank took the time to point out that replacing only two tires wouldn’t be a safe option. He explained that the other two had visible weathering and could pose a risk.
+      
+      I really appreciated the honesty and attention to safety—it’s clear they care more about doing things right than just making a quick sale. I went ahead with all four tires, and the work was done efficiently and professionally.
+      
+      Highly recommend OK Tire and especially Frank/Grant if you’re looking for knowledgeable, trustworthy service.
   - name: "A"
     rating: 5
     comment: |

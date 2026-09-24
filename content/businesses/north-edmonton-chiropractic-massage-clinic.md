@@ -40,14 +40,14 @@ reviews:
     rating: 5
     comment: |
       Dr. Bryan Fitz, Chiropractor. Amazing work. Able to find the sweet spot to ease the pain. Able to accommodate  my prosthetic leg during the session. Amanda, staff, arranged my billing and schedule my appointments. Good Job.
-  - name: "Angie Bradley"
-    rating: 5
-    comment: |
-      Dr Fitz, Amanda and Joanne are all truly amazing, they went above and beyond to help me out and I will be forever grateful for there care and attention. Thank you Dr Fitz for all your help and expertise, I appreciate all you do and have done!!!
   - name: "Amy Derksen"
     rating: 5
     comment: |
       Dr.Fitz is amazing. My entire family sees him. He has been an important part of recovery for our family when we needed him.
+  - name: "Angie Bradley"
+    rating: 5
+    comment: |
+      Dr Fitz, Amanda and Joanne are all truly amazing, they went above and beyond to help me out and I will be forever grateful for there care and attention. Thank you Dr Fitz for all your help and expertise, I appreciate all you do and have done!!!
   - name: "Sherry Shpeley"
     rating: 5
     comment: |

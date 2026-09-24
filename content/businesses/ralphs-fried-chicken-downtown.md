@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/ralphs-fried-chicken-downtown-1.jpg", "/photos/ralphs-fried-chicken-downtown-2.jpg", "/photos/ralphs-fried-chicken-downtown-3.jpg"]
 rating: 4.9
-review_count: 297
+review_count: 302
 price_range: "$"
 amenities:
   - "Takeout"
@@ -45,7 +45,7 @@ reviews:
     rating: 5
     comment: |
       The chicken  is always crispy  and served hot....tried the coleslaw not really a fan but the chiiicken guys the chiiicken. The flavor  too in the first bite....my oh my..will done Ralph's Chicken
-  - name: "cycologist"
+  - name: "cycologist cycologist@live.ca"
     rating: 5
     comment: |
       Well, I finally made it to Ralph's. The OG location was closed before I knew about them and I'm never in Castle Downs so seeing a downtown location that's pretty easy to get to... I was "gotta try it". Did not disappoint... got a 4pc meal (too much food honestly) but I started with the wedges. A lot of wedges. Amazing!! The gravy was good too. The chicken was delicious and hot (even after the bus home). Will definitely be returning but probably a smaller order next time.
@@ -53,8 +53,22 @@ reviews:
     rating: 3
     comment: |
       I used to eat here couple of times a month and always satisfied with the food and the size of the chicken. Just  ordered few minutes ago for 3 piece chicken meal for “to go “, the other 2 are okay but the other 1 is as small as potato wedge.  Like what’s wrong? I saw there plenty of chicken on the tray.   😔
-  - name: "Elisa Barnes"
+  - name: "Richard York"
     rating: 5
     comment: |
-      Went for the first time today. Person working in the store was polite and friendly.  The chicken was juicy with a nice light coating. Spuds had good flavor. Good selection of drink choices. Will definitely be back.
+      Well I finally got the chance to try this fried chicken after hearing about it in the news. I missed going here when it closed its Whyte Ave location.
+      
+      They reopened and took some time for me tocame here to buy for lunch.
+      
+      It did not disappoint. The chicken was really good as it was still tender and crispy after driving from Ralph's to my house in Southside (30-45 minute drive).
+      
+      The spuds was also good not soggy cooked to perfection. Not too salty perfect amount of seasoning.
+      
+      One negative is the hot sauce as it is not good more sweet than spicy but this negative does not deserve to lower the score as it is a minor issue.
+      
+      The owner and staff is really kind. He even gave me a business card that if I call ahead I will get fried chicken ready for me instead of waiting. Also he personally claim that their fried chicken is really good that it will make me want to come back.
+      
+      Yes he is correct as I am thinking of coming back to buy more fried chicken whenever I am around that area.
+      
+      I highly recommend coming here for fried chicken!
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/onkar-insurance-brokers-1.jpg", "/photos/onkar-insurance-brokers-2.jpg", "/photos/onkar-insurance-brokers-3.jpg"]
 rating: 4.9
-review_count: 600
+review_count: 599
 price_range: "$$"
 amenities:
 
@@ -36,10 +36,6 @@ reviews:
     rating: 5
     comment: |
       I had an absolutely amazing experience with Onkar Insurance, especially with Shyna. She was just fantastic. She handled our super-visa insurance for parents. She made the whole process much easier to understand and follow. I definitely recommend their services to anyone looking for any insurance. Thank you.
-  - name: "Prince Singla"
-    rating: 5
-    comment: |
-      I had a great experience working with Shaina at Onkar Insurance for my Super Visa insurance needs. She is detail-oriented, thoughtful, and truly cares about her clients. She took the time to explain everything clearly and made the entire process smooth and stress-free. Her customer service is excellent, and I highly recommend her to anyone looking for reliable insurance guidance.
   - name: "adiah afraz"
     rating: 1
     comment: |
@@ -48,4 +44,8 @@ reviews:
     rating: 5
     comment: |
       I had an excellent experience working with Shyna. She was professional, knowledgeable and calm. She took time to explain all my options clearly and helped me choose the coverage that best fits my parents
+  - name: "Prince Singla"
+    rating: 5
+    comment: |
+      I had a great experience working with Shaina at Onkar Insurance for my Super Visa insurance needs. She is detail-oriented, thoughtful, and truly cares about her clients. She took the time to explain everything clearly and made the entire process smooth and stress-free. Her customer service is excellent, and I highly recommend her to anyone looking for reliable insurance guidance.
 ---

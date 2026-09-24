@@ -30,10 +30,10 @@ reviews:
     rating: 5
     comment: |
       Worked with Maria Aileru and she was friendly and fantastic. Got the job done quickly. I’ll be sure to use her services again
-  - name: "Zhane Styles"
+  - name: "Rosciel De Castro"
     rating: 5
     comment: |
-      Booking the appointment was a breeze. The actual meeting with Maria the notary was awesome, she went above and beyond to help. I highly recommended notary pro and Maria who is located in Schonsee Edmonton
+      Misha were very nice and professional. The service went very quick and smooth process. Highly recommended her and her services.
 hours:
   monday: "9:00 AM–9:00 PM"
   tuesday: "9:00 AM–9:00 PM"

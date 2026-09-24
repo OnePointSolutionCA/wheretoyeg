@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–8:00 PM"
 photos: ["/photos/on-top-barbershop-1.jpg", "/photos/on-top-barbershop-2.jpg", "/photos/on-top-barbershop-3.jpg"]
 rating: 4.9
-review_count: 151
+review_count: 152
 price_range: "$$"
 amenities:
 

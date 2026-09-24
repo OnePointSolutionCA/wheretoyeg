@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "9711 137 Ave NW, Edmonton, AB T5E 2C2"
 rating: 4.6
-review_count: 339
+review_count: 341
 tier: "featured"
 phone: "(780) 540-3500"
 website: "http://www.mydentalgroup.ca/"
@@ -14,10 +14,6 @@ google_maps: "https://maps.google.com/?cid=13596759528727860872&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/my-dental.jpg"
 reviews:
-  - name: "Wes Lazaruk"
-    rating: 5
-    comment: |
-      After dealing with several different dentists over the years I am glad to find a permanent home with my dental north. Not only are the staff at the front desk friendly, but as soon as my estimates come in they let me know extremely fast. Dr. Omar is not just an amazing dentist but is the master when it comes to implants!!
   - name: "Rosa Philips"
     rating: 2
     comment: |
@@ -34,6 +30,10 @@ reviews:
     rating: 5
     comment: |
       My family and I have been going to My Dental for a long time. One of the best clinics that we have good experience with starting from the well organized and friendly administration at the front to the dental assistants and the doctor. The facility amazingly clean and the areas are always kept sanitised. Would strongly recommend My Dental. Clean and professional work.
+  - name: "Wes Lazaruk"
+    rating: 5
+    comment: |
+      After dealing with several different dentists over the years I am glad to find a permanent home with my dental north. Not only are the staff at the front desk friendly, but as soon as my estimates come in they let me know extremely fast. Dr. Omar is not just an amazing dentist but is the master when it comes to implants!!
   - name: "Cathy Edmundson"
     rating: 5
     comment: |

@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/paninis-italian-cucina-149-street-1.jpg", "/photos/paninis-italian-cucina-149-street-2.jpg", "/photos/paninis-italian-cucina-149-street-3.jpg"]
 rating: 4.7
-review_count: 780
+review_count: 782
 price_range: "$$"
 amenities:
   - "Dine-In"

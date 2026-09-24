@@ -41,12 +41,12 @@ reviews:
     rating: 5
     comment: |
       The Myo Centre inc. is a professional, clean, and friendly facility. Having utilized their Massage Therapy, Somatic Massage Therapy, TMJ Massage, and Manual Osteopathy services in my health journey, I would not hesitate to recommend any of their staff for your health or pain journey. Special appreciation for Myo Centre staff, Melissa Yates-Larson, Jessica Zimmerman, and Karthika Devi Ganesh Sankar for their caring, compassion, skill, knowledge and dedication to their professions.
-  - name: "Rouba El"
-    rating: 5
-    comment: |
-      I have been seeing dr Jane Lu for three years now, and she has been wonderful throughout my care. She listens attentively, addresses my concerns thoughtfully, and offers personalized treatments and advice. I always feel supported, respected, and well taken care of. I truly appreciate her dedication and highly recommend her.
   - name: "Anna W"
     rating: 3
     comment: |
       Have tried out massage with Amanda a few times. Does a nice massage but each time she leaves the room for several minutes at the start after asking me what I need. I've never had a massage therapist go for so long. I only need a minute to change. I just end up waiting for a while on the bed. And she always has ended on the very exact minute the massage should end based on when we first entered the room. Is really frustrating, you are paying for time and there is a bunch of this time I'm just sitting there alone.
+  - name: "Cindy Fontaine"
+    rating: 5
+    comment: |
+      Had a massage booked just 2 days before with Jessica for Friday Nov 21 2025. It was just fantastic! I was so impressed I was able to be fit in quickly with such a skilled massage therapist. Never having been here before I was surprised to learn the owner of this business is a very skilled therapeutic massage teacher at Grant McEwan who vets all her employees on herself first. I look forward to trying their acupuncture and somatic massage next! Though much like finding a favorite meal at a restaurant I'm positive it will be tough to choose between them and not just keep returning to the first favorite. This is not just a regular massage place it's truly above and beyond and I can't wait to recommend this business to all my family and friends and give out gift certificates for Christmas. My regular masseuse is retired and though it's an hour drive I think I have found my new go to. I'm so grateful to have found such a great gem of a buisness and fantastic masseuse! I had a week long migraine and terrible sleep turned into a completely relaxed pain free time. Truly a blessing
 ---

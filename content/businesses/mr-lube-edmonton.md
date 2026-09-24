@@ -17,8 +17,8 @@ hours:
   saturday: "8:00 AM–6:00 PM"
   sunday: "8:00 AM–6:00 PM"
 photos: ["/photos/mr-lube-edmonton-1.jpg", "/photos/mr-lube-edmonton-2.jpg", "/photos/mr-lube-edmonton-3.jpg"]
-rating: 4.3
-review_count: 777
+rating: 4
+review_count: 641
 price_range: "$"
 amenities:
   - "Walk-Ins"
@@ -28,36 +28,51 @@ tags: ["oil-change", "quick-service", "no-appointment"]
 active: true
 date_listed: "2026-08-18"
 reviews:
-  - name: "Jhaycee Bartz"
+  - name: "John Denver"
     rating: 1
     comment: |
-      I came around 2 pm today have a tire service. There were no customers and potentially be the only one. Waiting on the middle bay, when an attendant came to me and asked, “Can I check first your tires?”. I aggreed. When he checked one of the tires, he suddenly said to me to change the tires because they are old. He even asked me to check it and showed to me the first picture. It is made in  2011 so old. I knew in my mind that i bought the tires two years ago. I was speechless and felt dumb. I did not know what to say. He suggested to buy new tires in market place. I just said thank you and trusted him because he is a fellow filipino and left. I was overthinking after and could not process what happened. I asked chatgpt and send the first picture. It says check the other side to see the real year that was made. I checked the other side it has 2024. I was so furious that i went to the closest lube city to confirm. They said it is 2024 and they accommodated me to change the tires. I was so mad but thankful to lube city for being honest with me and not letting me feel dumb. To whoever incharge of the mr lube can you screen your workers and make sure they are more competent than chatgpt. Thank u!
-  - name: "Viper Nayawatatic"
-    rating: 1
-    comment: |
-      Always the best service from Mr Lube.
-      I didn’t make it far until my truck began running sluggish and eventually stalled out.
-      They sent a tech to come take a look he was a very young guy super helpful. As for the manager comments like “there’s nothing we can do! Didn’t bother to take responsibility of the negligence” gets me.
-      Didn’t want to take accountability for his team being negligent on the lack of due diligence on the air filter clamp.
-      I knew something looked off when the guy shut my hood and gave me a look.
-      Any and all further repairs will have to be paid out of my own pocket is what the manager says.
-      I used to support this location all the time sad to say last time I’ll be bringing any of my vehicles back.
-      Do better Mr Lube…..
-  - name: "cygnusx555"
-    rating: 1
-    comment: |
-      They screwed up my oil change and I leaked oil everywhere. I drove for a 1.5 hours before noticing a puddle of oil on my driveway and streaks everywhere. I called the store and they sent the assistant manager and he corrected the issue but I did have some noise and poor idle from engine, it also almost stalled  on the highway trying to accelerating
-      
-      I'm pretty confident it has some damage from this.  The assistant manager didn't give me anything else like a free oil change or refund etc. Just shook my hand and said sorry about this. Considering my family lives were in danger and thousands of dollars dollars of a engine was stressed with literally no oil on the dipstick and a oil covered driveway its pretty ridiculous.
-      
-      I'm also having to now pay out of pocket to have it checked by the dealership mechanics.
-  - name: "Ashleigh Murasiranwa"
+      Went in for an oil change and to get my tires swapped over, expecting it to take 45 minutes like it has before. Came back after 2 hours to find my car still without tires on it, 3 other cars and been  in and out that had came in after me. When i asked the manager why it was taking so long he said it is what it is. meko did the work, dont leave your car if you want the work to be done in a normal amount of time, had to pick up my car the next day i was almost late for an appointment becuase it took so long, morning staff was good maybe only go in the morning if you want work to be done
+  - name: "Lyndsie Elliott"
     rating: 5
     comment: |
-      Amazing service and fantastic customer service care. Had my car towed to this location. Mark helped me get the best deal on my tires and get them to the shop quickly. Not only did Mr. Lube have the best price for tires, the were there, installed and my car had an oil change remarkably quick. Where other tire shops were telling me it would be multiple days or up to a week before the tires came in, Mark had be back on the road less than 24 hours before getting a flat. Thank you so much Mark for all of your help!
-  - name: "Mathieu Champagne"
+      Absolutely phenomenal service as always. This is my favorite place for my vehicle maintenance and have been coming here for years. Services are always well done and thorough. I trust their recommendations, never feel sales pressure, and always given an estimate of how urgent a service actually is.
+      
+      On top an excellent experience, the workers are always friendly and super personable. Shout out to Charlie and his friend (sorry I didn’t catch your name), you were both awesome!
+      
+      Thank you!!
+  - name: "Lance Dugay"
     rating: 5
     comment: |
-      I attended Mr Lubes Winterburn location today. I was there for an oil change and received amazing service from all of the staff. Mark was a delight to work with during the service. He was attentive, very polite and pleasant to deal with. He was knowledgeable when suggesting products and even saved me money with his advice.
-      I will be back for service at this location. Thank you mark and staff
+      Just got my tires changed at Mr. Lube + Tires and honestly, the service was amazing. The team was super friendly and made everything really easy to understand. Perry, the assistant manager, took the time to actually educate me on what my car needed, walked me through the findings, and explained what should be done next without any pressure. Really appreciate how honest and helpful he was. Definitely coming back here, highly recommend!
+      
+      This is your sign to go get your tires changed for winter!
+  - name: "Harsh Kishan Parekh"
+    rating: 1
+    comment: |
+      I had an extremely disappointing and frustrating experience at the Mr. Lube location on Calgary Trail in Edmonton.
+      
+      I stopped by just to get my tire pressure checked, and what should have been a simple and quick visit turned into an unnecessary and unpleasant interaction. An employee named Dan (badge read “Dan – Operations”) immediately started asking for my vehicle details and pushing additional services. I clearly told him that I had already completed my servicing elsewhere and simply mentioned, as general feedback, that I find Mr. Lube’s services to be quite expensive.
+      
+      Instead of taking that professionally, his response was shockingly inappropriate. Out of nowhere, he commented that “I need to pay my guys as well” and implied that they cannot be doing something like tire pressure checks for free. This came across as rude, defensive, and completely uncalled for. If there was a charge, it should have been communicated upfront—not thrown in as a passive-aggressive remark after the fact.
+      
+      Customer service 101 is to treat feedback respectfully. You don’t argue with customers or make them feel uncomfortable for simply sharing their opinion. This interaction felt more like being lectured than being served.
+      To make things worse:
+      
+      I was told I would receive an invoice by email, and I still haven’t received anything.
+      There was a clear attempt to push additional services despite me explicitly declining.
+      The overall tone was dismissive and unprofessional.
+      
+      If you want to charge for a service like tire pressure checks, that’s completely fine—but communicate it clearly and professionally. Don’t make customers feel like they’ve done something wrong for walking in.
+      
+      Dan also mentioned he would like to earn my business. Unfortunately, after this kind of interaction, that is not going to happen. This is simply not how you treat customers.
+      
+      Car details (for reference): White Honda Civic – Plate: CPV-8343
+      
+      Overall, a very poor experience. I will not be returning, and I would strongly recommend management reviews how customers are being spoken to at this location.
+  - name: "Mohammed Nait Taleb Ali"
+    rating: 1
+    comment: |
+      If I can give them less than that 1 star I’ll do it .I went there for one simple service, oil change and they immediately tried to sell me multiple extra services — including a fuel system cleaning that they recommended, not me. Right after they did it, and payed more than 4
+      $480 my car started blowing heavy smoke and running poorly, something it never did before. The dealer later found issues with the catalytic converter and O2 sensors.
+      Even though the problem happened right after their recommended service, they refused to take any responsibility and just said they “do thousands of these with no issues.” Very disappointing and no accountability. I will never recommend this service .
 ---

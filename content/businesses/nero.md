@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Beverly"
 address: "12068 104 Ave NW, Edmonton, AB T5K 0K2"
 rating: 4.4
-review_count: 443
+review_count: 450
 tier: "featured"
 phone: "(780) 249-1213"
 website: "https://neroeats.com/"

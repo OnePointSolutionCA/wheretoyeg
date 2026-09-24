@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/padmanadi-1.jpg", "/photos/padmanadi-2.jpg", "/photos/padmanadi-3.jpg"]
 rating: 4.7
-review_count: 2668
+review_count: 2670
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -38,22 +38,6 @@ reviews:
       Our waiter was extremely attentive and the food came out very quickly.
       
       We will be coming back to try more of their delicious dishes!
-  - name: "Ramakrishnan K"
-    rating: 4
-    comment: |
-      (August 9, 2025)
-      Not wanting to miss out on this place, we visited this place in a last-ditch effort dragging our luggage on the roads after checking out of our hotel, and with a flight to catch later that night.
-      I had thought this was a vegan Indian restaurant, but this is actually not Indian, merely vegan with some modern Thai cuisine interpretations.
-      
-      We tried the following:
-      1. Tom Yum soup --- Hot, watery, flavorful soup with a lot of vegetables such as baby corn, carrot, mushroom, tofu, lemon slice, lemon leaf?, and mock seafood. The portion size was large.
-      
-      2. Broccoli and cauliflower in soy sauce --- The vegetables could've been cooked a little more. Soy sauce was mild in nice way. Something felt lacking, perhaps the mildness was too mild to my liking.
-      
-      The jasmine rice and coconut rice felt fresh and warm.
-      After the meal, we didn't feel like having desserts.
-      
-      Pleasant bamboo'ey-wooden interiors. Decently priced, the above cost 40 CAD before tips.
   - name: "Chloe Rachel"
     rating: 5
     comment: |
@@ -71,4 +55,8 @@ reviews:
       Wow... was I ever wrong, please if you ever skip this restaurant because its vegetarian only I hope this review changes your mind. As a ex-vegetarian hater I can say I will now be more open minded about future vegetarian restaurants.
       
       My wife and I ordered chicken curry and the ginger beef with a thick noodle dish, the waitress recommended rice for the curry and I was glad I took her recommendation as it paired well with the curry. The total came to $52 after taxes before tip. With more than enough for another meal later that night. VERY generous proportions.
+  - name: "Chris Allebone"
+    rating: 5
+    comment: |
+      Another excellent meal at Padmanadi!! There were 3 of us - we ordered several dishes to share - spicy eggplant, deep fried tofu, flat rice noodles, coconut rice & breaded cauliflower bites. Everything was delicious & perfectly seasoned. I also ordered Singapore noodles to go, & the 3 of us split 2 desserts - panna cotta with passion fruit & chocolate mousse. Divine!! Add an iced pineapple drink for each of us & the right level of cheerful attentive service & you end up with a wonderful dining experience guaranteed to bring us back again!!
 ---

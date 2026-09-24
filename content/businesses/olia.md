@@ -20,7 +20,7 @@ hours:
   sunday: "5:00 PM–10:00 PM"
 photos: ["/photos/olia-1.jpg", "/photos/olia-2.jpg", "/photos/olia-3.jpg"]
 rating: 4.4
-review_count: 478
+review_count: 483
 price_range: "$$$$"
 amenities:
   - "Dine-In"
@@ -61,8 +61,14 @@ reviews:
       The food is decent, I would say it’s very well made pasta, but for the price and hype, there are others that you can get a similar experience with.
       
       Overall, this is a good spot to have a nice celebratory dinner or special night out.
-  - name: "Nicole Bonnett"
+  - name: "Ghazal Lotfi"
     rating: 4
     comment: |
-      Olia creates a warm and cozy atmosphere with nods to Italian culture and cuisine. The pasta and meat dishes are great, although for the price, did not absolutely wow me. The Whipped Goat Ricotta, however, is the best appetizer I’ve had in a long time and I can’t stop thinking about it! Service is amazing and the staff are very knowledgeable of the menu. Overall, perfect for date night!
+      Olia in Edmonton is a great place to eat if you love Italian food. The restaurant feels warm and welcoming, and the staff are friendly and helpful. The food is comparable to what we had in Italy.
+      
+      The whipped goat ricotta is my favourite appetizer. It’s creamy and full of flavour. The Tagliatelle  pasta was another favourite. Unfortunately I wasn’t a big fan of the crab and potato raviolini.
+      
+      The only downside is that you can’t bring your own wine and pay a corkage fee, which was disappointing for us because we often like to bring special Italian wines that aren’t available here.
+      
+      Still, Olia is a wonderful spot for a nice night out and definitely worth a visit.
 ---

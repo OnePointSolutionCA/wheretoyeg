@@ -42,12 +42,12 @@ reviews:
     rating: 5
     comment: |
       My husband and I couldn't be happier with the service Mike provided.  Expert Painting is just that...expert, excellent, efficient and extremely reliable.   When companies answer requests for quotations promptly, it is encouraging.  Mike not only responded swiftly but came to give us a quote on the same day.  And less than one week later, our two bedrooms have better paint jobs than they have EVER had! It is hard to believe they did it in one day!  Thank you, Mike and Carlos! You are both truly masters of painting. After this extremely positive experience,  we will never look for any other painting company. You have our complete confidence.
-  - name: "Mary Thomas"
-    rating: 5
-    comment: |
-      Thank you Mike for doing our garage painting The outcome was perfect. Nathan did an awesome job. You both are hard-working and dedicated. God bless you.
   - name: "J"
     rating: 5
     comment: |
       I highly recommend Mike (Painters Edmonton) for any painting project! He recently completed a job at my house, and his attention to detail and quality of work were outstanding. Mike was punctual, communicated clearly throughout the process, and showed great follow-through on every detail. He also kept the workspace incredibly clean, which I really appreciated. If you’re looking for a professional who delivers top-tier results, Mike is your guy.
+  - name: "Richard Segal"
+    rating: 5
+    comment: |
+      The first time I met Mike. to give me a quote on my condo I just purchased. That needed a full paint job. Bathrooms bedrooms. Kitchen. Living room. I was nervous that the cost of this big job was going to be out of my budget. Mike walked in and made me feel at ease. He was professional. And listened to me on what I needed done. He spent a good 45 min going around my 2 bedroom condo asking me questions taking notes. I had two other painting companies come give me quotes. They stayed 5 min and just tossed a number at me. Me and Mike sat down. And he went over with me room by room. Explaining to me what needs to be done and the cost. And made suggestions to save me money. I hired him on the spot. 2 weeks later he came in with his crew. And started the job. The team kept my condo spotless as they we’re working. When the job was finished my condo actually felt like the home I was hoping for. If your looking for a professional and and friendly clean painting company to do help you with your next painting job. I recommend Mike without a doubt.
 ---

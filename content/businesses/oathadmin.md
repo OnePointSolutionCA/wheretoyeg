@@ -19,10 +19,6 @@ reviews:
     rating: 5
     comment: |
       Highly recommended. Fair pricing and met with me in the evening which was a huge plus! I will be back.
-  - name: "Nam Pham"
-    rating: 5
-    comment: |
-      Outstanding service!  Everything was explained clearly, and the documents were completed quickly without any pressure. I will definitely return and recommend to others.
   - name: "Lori G"
     rating: 5
     comment: |
@@ -32,6 +28,10 @@ reviews:
     rating: 5
     comment: |
       Convinient, efficient, works on weekends, friendly - Best Service.
+  - name: "Nam Pham"
+    rating: 5
+    comment: |
+      Outstanding service!  Everything was explained clearly, and the documents were completed quickly without any pressure. I will definitely return and recommend to others.
 hours:
   monday: "9:30 AM–6:00 PM"
   tuesday: "9:30 AM–6:00 PM"

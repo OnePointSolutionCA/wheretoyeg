@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "7000 Emerald Dr # 915, Sherwood Park, AB T8H 0P5"
 rating: 4.9
-review_count: 836
+review_count: 840
 tier: "featured"
 phone: "(587) 269-2999"
 website: "http://www.parkstonedental.com/"
@@ -22,10 +22,6 @@ reviews:
       I also want to recognize the administrative staff. Everyone I interacted with was incredibly friendly, welcoming, and helpful. From the moment I arrived until I left, I felt genuinely well taken care of.
       
       Thank you to the entire team at Parkstone Dental for such a great experience. I would absolutely recommend them!
-  - name: "Lindsay Jack"
-    rating: 5
-    comment: |
-      I have been to Dr Jefferey’s for a few years now. He is willing to work within my insurance and direct bill! He does great work and is very gentle. The ladies up front are so welcoming and helpful. All the hygienists I have seen have done a wonderful job at cleaning my teeth. I decided to start my kids there just recently as they just are old enough for their first “happy” visits and the team there were so good with them. The kids keep asking to go back! I Highly recommend Parkstone Dental!
   - name: "Dana Lucksinger"
     rating: 5
     comment: |
@@ -38,6 +34,10 @@ reviews:
       Dr. Jefferies is amazing. Very professional and knowledgeable. I'm still getting used to the reality that getting dental work doesn't mean pain. It's a great feeling to leave the dentist pain free.
       
       If you are looking for an excellent dentist I highly recommend Parkstone Dental.
+  - name: "Lindsay Jack"
+    rating: 5
+    comment: |
+      I have been to Dr Jefferey’s for a few years now. He is willing to work within my insurance and direct bill! He does great work and is very gentle. The ladies up front are so welcoming and helpful. All the hygienists I have seen have done a wonderful job at cleaning my teeth. I decided to start my kids there just recently as they just are old enough for their first “happy” visits and the team there were so good with them. The kids keep asking to go back! I Highly recommend Parkstone Dental!
   - name: "Roxy Stettner"
     rating: 5
     comment: |

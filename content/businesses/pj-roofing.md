@@ -47,8 +47,8 @@ reviews:
       My dad is a retired contractor in Newfoundland and i appreciate when contractors are easy to deal with, honest, trustworthy, and leave a clean site.
       
       Great job guys!
-  - name: "Zach Levesque"
+  - name: "Sharon Swim"
     rating: 5
     comment: |
-      How refreshing it is to see someone take so much pride in they're workmanship. Pherne went above and beyond while completing my roof repair. I am extremely happy with the pricing, commitment to quality and professionalism, and can now feel confident that the roof won't leak. He also took the time to explain in detail why my attic is getting condensation build up in the winter and suggested a few things to check. Highly recomend this company! Thanks Pherne!
+      Pherne came out and assessed our roof after a wind storm. He was very informative and explained everything very well. We decided to get our house and garage roof done. The crew was very efficient, professional and a nice clean job. Thank you very much and we would highly recommend PJ roofing
 ---

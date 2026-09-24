@@ -28,6 +28,10 @@ tags: ["edmonton", "real-estate"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Sandra Rake"
+    rating: 5
+    comment: |
+      Everyone at QuikSell was fantastic to work with! They are fast, efficient, and offer great value for high quality they deliver. Beyond their photography, video, drone shots, measurements, floor plans, and websites, their ongoing support was amazing. They guided me through posting and logo integration from start to finish. Highly recommend!
   - name: "Scott Tougas"
     rating: 5
     comment: |
@@ -44,8 +48,4 @@ reviews:
     rating: 5
     comment: |
       Nothing but praise for Quiksell. I was able to schedule a photoshoot for one of my listings with ease! Tons of availability and options to suit just what I needed for a successful sale! A++++++++
-  - name: "Antony Bernadou"
-    rating: 5
-    comment: |
-      Quality photography executed in a timely manner, impressed with their level of professionalism too. I will continue to use QuikSell for my Real Estate photography.
 ---

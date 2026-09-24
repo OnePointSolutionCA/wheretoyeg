@@ -28,14 +28,6 @@ tags: ["edmonton", "health-food"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Truth Bomb"
-    rating: 5
-    comment: |
-      I had a fantastic experience at Optimum Health Vitamins! The store is very well kept—clean, organized, and inviting, with a great selection of products.
-      
-      What really stood out was the gentleman. They are extremely knowledgeable and genuinely helpful. The staff member who assisted me took the time to thoroughly understand my needs and provided detailed, thoughtful recommendations without rushing. It felt like I was getting real, personalized advice rather than just a quick sale.
-      
-      If you're looking for quality vitamins, supplements, or health products and want excellent customer service, I highly recommend Optimum Health Vitamins. I'll definitely be back!
   - name: "Lionel Soto"
     rating: 1
     comment: |
@@ -60,4 +52,8 @@ reviews:
     rating: 5
     comment: |
       Helpful, knowledgeable, and Incredibly kind staff working evening time on May 11th. These ladies helped me with all my questions and advised great products for me.
+  - name: "Louise Edwards"
+    rating: 5
+    comment: |
+      Lots of previous reviews have stated about customer service concerns, but after my first visit here today, that was NOT the case for me. Was asked by 2 associates shortly after walking in if I required any assistance. Lots of selection - found products here that I had been looking for out of town & online for a while now. Fair prices, some good sale items too. When I needed additional help, staff was there ready and willing to help! Thanks - I’ll be back again!
 ---

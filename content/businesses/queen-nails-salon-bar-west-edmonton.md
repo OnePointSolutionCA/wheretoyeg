@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–8:00 PM"
 photos: ["/photos/queen-nails-salon-bar-west-edmonton-1.jpg", "/photos/queen-nails-salon-bar-west-edmonton-2.jpg", "/photos/queen-nails-salon-bar-west-edmonton-3.jpg"]
 rating: 4.7
-review_count: 205
+review_count: 209
 price_range: "$$"
 amenities:
 
@@ -38,6 +38,18 @@ reviews:
       My husband and I enjoyed our spa day together while being served fresh fruit drinks, and he especially loved the authentic Vietnamese coffee. The atmosphere was peaceful, the service was attentive, and every detail made us feel pampered and cared for.
       
       Highly recommend Queen Nails & bar for anyone looking to relax, unwind, and enjoy excellent service!
+  - name: "Sabs Saber"
+    rating: 2
+    comment: |
+      I was hesitant to write this review because the ladies were genuinely so kind, and the salon itself was very clean, beautiful, and welcoming.
+      
+      My boyfriend and I went in about 1–2 weeks ago and got the premium pedicure, which was over $100 per person. With everything included, we spent over $300 between the two of us, so we expected the results to be really good.
+      
+      Unfortunately, when I got home, I noticed a large air bubble in one of my toenails. I actually pointed it out while I was still at the salon, and I thought it had been fixed. However, once I got home and looked more closely, I realized the issue was still there and is quite noticeable.
+      
+      I really didn’t want to leave a negative review because the staff were so lovely, but considering the amount we spent, I’m honestly very disappointed to have left with a noticeable issue that I had already brought to their attention.
+      
+      I hope the salon can take this feedback into consideration because I did really enjoy the service and the atmosphere overall. ❤️
   - name: "Sabrina Cruz"
     rating: 5
     comment: |
@@ -50,8 +62,4 @@ reviews:
     rating: 5
     comment: |
       Wow, I came here for my birthday and these ladies are absolutely amazing!! They surprised me with a heated neck wrap, it was weighted and applied the perfect pressure to relax me! Gave me a non-alcoholic mimosa, played a sweet birthday song on the speakers and sang for me 🫶🏽 genuinely made me feel special and this was my first visit! My nails looks absolutely amazing and I will be returning for sure! 10/10 hospitality and care, great prices and quality service ✨
-  - name: "Summer Tran"
-    rating: 5
-    comment: |
-      I came from BC and visited here today and I have to say the service was fabulous. I picked a nail design for my graduation and it turned out even better than the image, also got matching pedicure with it. The nail tech name was Lynn. The free drinks that were served was so refreshing too!
 ---

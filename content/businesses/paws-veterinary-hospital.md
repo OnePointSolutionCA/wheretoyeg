@@ -19,8 +19,8 @@ hours:
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/paws-veterinary-hospital-1.jpg", "/photos/paws-veterinary-hospital-2.jpg", "/photos/paws-veterinary-hospital-3.jpg"]
-rating: 4.7
-review_count: 99
+rating: 4.8
+review_count: 101
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,10 @@ tags: ["edmonton", "veterinarians"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Paul Beahm"
+    rating: 5
+    comment: |
+      Genuine compassion and sympathy was displayed by all staff for both our pet and us in our grieving process. Having such kind-hearted, down to earth, caring humans to help our beloved pet transition Into her final rest was more than we could have asked for from them. This isn't something you can train staff to do but can only come from pure-hearted and genuinely caring human beings.
   - name: "Perry Schwabenbauer"
     rating: 5
     comment: |
@@ -45,8 +49,4 @@ reviews:
     rating: 5
     comment: |
       I brought my two cats in for a checkup and their 1year shots. They were very helpful, professional. My cats were not scared in the exam room at all (normally they are) they spent time with them before administering any shots and went over everything with me. We will be back.
-  - name: "Nix"
-    rating: 5
-    comment: |
-      This is a hidden gem! Right between Archbishop Macdonald school and Freson Bros! The facility is beautful and clean; and I love the fact that it's a all female led team in there. Everyone were so caring and attentive and made the stressful experience much easier. My puppy's behavior is pretty spicy but the entire team were so understanding about his behaviour. Thanks team, you're wonderful! I highly recommend clinic to any pet parents!
 ---

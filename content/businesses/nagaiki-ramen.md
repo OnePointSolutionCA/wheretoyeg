@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–7:00 PM"
 photos: ["/photos/nagaiki-ramen-1.jpg", "/photos/nagaiki-ramen-2.jpg", "/photos/nagaiki-ramen-3.jpg"]
 rating: 3.7
-review_count: 194
+review_count: 198
 price_range: "$"
 amenities:
   - "Dine-In"

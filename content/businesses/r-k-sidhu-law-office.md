@@ -34,11 +34,11 @@ reviews:
     comment: |
       Excellent service! Girl at front is very nice
 hours:
-  monday: "8:30 AM–5:00 PM"
-  tuesday: "8:30 AM–5:00 PM"
-  wednesday: "8:30 AM–5:00 PM"
-  thursday: "8:30 AM–5:00 PM"
-  friday: "8:30 AM–5:00 PM"
+  monday: "8:30 AM–4:30 PM"
+  tuesday: "8:30 AM–4:30 PM"
+  wednesday: "8:30 AM–4:30 PM"
+  thursday: "8:30 AM–4:30 PM"
+  friday: "8:30 AM–4:30 PM"
   saturday: "Closed"
   sunday: "Closed"
 ---

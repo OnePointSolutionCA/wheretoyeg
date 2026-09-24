@@ -28,14 +28,14 @@ tags: ["edmonton", "commercial"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Leanne Pahal"
-    rating: 5
-    comment: |
-      The power to our house went out when Fortis was changing a meter - Professional Electrical answered the phone live, checked to see if they had the parts and were at our house fixing the issue within 2 hours.  Sandy had great communication about the issue and the fix and worked directly with Fortis which was great.  Highly recommended from my experience!
   - name: "Mj"
     rating: 5
     comment: |
       Needed a receptacle installed in my garage for EV charging. Called a few companies for quotes and Professional Electrical were the fastest to respond and even came out the same day. Price was fair and work completed on the first visit quickly and efficiently. Highly recommend for any electrical needs.
+  - name: "Leanne Pahal"
+    rating: 5
+    comment: |
+      The power to our house went out when Fortis was changing a meter - Professional Electrical answered the phone live, checked to see if they had the parts and were at our house fixing the issue within 2 hours.  Sandy had great communication about the issue and the fix and worked directly with Fortis which was great.  Highly recommended from my experience!
   - name: "Christopher Wielenga"
     rating: 5
     comment: |
@@ -44,8 +44,10 @@ reviews:
     rating: 5
     comment: |
       Excellent electrical service! Kulin technician was professional, knowledgeable, and completed the work efficiently. Everything was explained clearly, and the job was done safely and on time. Highly recommend their services.
-  - name: "Brenda and Darren Rudy"
+  - name: "Lammii Caalatyhty"
     rating: 5
     comment: |
-      Very professional and explained things very well. We were charged almost double of what the original quote was I so wonder if our installation was understood when booked, but we are happy with the outcome and service we received.
+      I am very happy with the service I received from the electrician. He is very professional, knowledgeable, very responsive with his business and very kind person I have ever met. God bless his business and his entire family!
+      
+      Thank you again!
 ---
