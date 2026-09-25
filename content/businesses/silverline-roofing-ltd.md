@@ -20,7 +20,8 @@ hours:
   friday: "8:00 AM - 5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: []
+photos:
+  - "/photos/silverline-roofing-ltd.png"
 rating: 4.4
 review_count: 39
 price_range: "$$"
