@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/shawarma-mediterranean-flavors-1.jpg", "/photos/shawarma-mediterranean-flavors-2.jpg", "/photos/shawarma-mediterranean-flavors-3.jpg"]
 rating: 4.9
-review_count: 283
+review_count: 290
 price_range: "$"
 amenities:
   - "Halal"
@@ -36,12 +36,6 @@ reviews:
     comment: |
       The crispy chicken wrap OH MY WORD! Get it.
       So so good and so fresh! Everything was high quality and the place was so clean. Delightful family that owns this place served us with amazing hospitality. I couldn’t decide what sauce to pick since it was my first time there..  so they gave me a sampling of all 3. I really doubt you can find a shawarma place in Edmonton as good as this one. I know of one in Ardrie but now that I found this place I’ll be going as often as I can 😍😍😍
-  - name: "Stephen"
-    rating: 5
-    comment: |
-      I work nearby at Westside Acura and seen this place on Google and the amazing reviews so I decided to check it out. I Ordered some chicken shawarmas and they were tasty and everything was fresh and delicious. The servings are huge and they have really good prices.. I also seen the making these delicious huge bowls that I must try as well! 🤩
-      
-      The people that run the place are really nice as well! I Will definitely be back to try the rest of the menu. 😊
   - name: "Audric Moses"
     rating: 5
     comment: |
@@ -55,6 +49,12 @@ reviews:
       Service was great! The place was kept clean  and the server was very pleasant and attentive. They even gave us hummus with pita chips while we wait for our food, which is a plus.
       
       Will definitely come back again when I crave for Arabic/Mediterranean cuisine.
+  - name: "Stephen"
+    rating: 5
+    comment: |
+      I work nearby at Westside Acura and seen this place on Google and the amazing reviews so I decided to check it out. I Ordered some chicken shawarmas and they were tasty and everything was fresh and delicious. The servings are huge and they have really good prices.. I also seen the making these delicious huge bowls that I must try as well! 🤩
+      
+      The people that run the place are really nice as well! I Will definitely be back to try the rest of the menu. 😊
   - name: "Thilakshan Mahenthirarasa"
     rating: 5
     comment: |

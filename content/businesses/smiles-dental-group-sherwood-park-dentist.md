@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "203 Wye Rd, Sherwood Park, AB T8B 1N1"
 rating: 4.8
-review_count: 612
+review_count: 615
 tier: "featured"
 phone: "(587) 410-2259"
 website: "https://smilesdentalgroup.com/dental-clinics/sherwood-park-dentist/?utm_source=google&utm_medium=organic&utm_campaign=googlemaps&utm_term=sherwood-park"

@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "25212 Township Rd 562, Sturgeon County, AB T8R 2C4"
 rating: 4.8
-review_count: 193
+review_count: 196
 tier: "featured"
 phone: "(780) 984-1516"
 website: "https://spgpaintball.ca/"

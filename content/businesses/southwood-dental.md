@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Mill Woods"
 address: "4217 23 Ave NW, Edmonton, AB T6L 5Z8"
 rating: 4.8
-review_count: 543
+review_count: 546
 tier: "featured"
 phone: "(587) 206-5014"
 website: "https://www.southwood-dental.ca/site/home?utm_source=G&utm_medium=LPM&utm_campaign=DentalCorp"

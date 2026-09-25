@@ -21,7 +21,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/rogue-wave-coffee-1.jpg", "/photos/rogue-wave-coffee-2.jpg", "/photos/rogue-wave-coffee-3.jpg"]
 rating: 4.8
-review_count: 585
+review_count: 586
 price_range: "$$"
 amenities:
   - "Specialty Coffee"

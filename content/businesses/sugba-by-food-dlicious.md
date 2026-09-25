@@ -88,8 +88,10 @@ reviews:
     rating: 5
     comment: |
       The buffet offered an impressive variety of dishes, and everything I tried was fresh and full of flavor. The staff were attentive and friendly. Plates were cleared quickly, and the buffet stations were consistently clean and well-stocked. Overall, it was great value for the price. I’d definitely come back and recommend it to anyone looking for a satisfying buffet experience. The restaurant isn’t just a buffet but also offers àla carte options.  👍⭐️👍⭐️👍⭐️
-  - name: "C M"
+  - name: "Monica Marcelino"
     rating: 5
     comment: |
-      The food here is absolutely delicious. Beef Bulalo (beef marrow) soup was almost therapitic in a way.. Lots of unique flavors. The staff were extremely kind and amazing, great atmosphere!! Wiill certainly be back again!!
+      Went here for lunch with my cousins and we had a wonderful experience.
+      
+      The food was delicious we got so many alacarte items, and it was so good! The service was amazing, they were attentive to our needs but gave us the space to chat.
 ---

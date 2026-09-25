@@ -20,11 +20,6 @@ reviews:
     rating: 5
     comment: |
       We did a cake smash for our little boy back in June with the "King of the Jungle" theme and the experience with Steph was amazing! She made us and our toddler feel comfortable very quickly and the pictures that came out were amazing - they captured our little one's personality perfectly! Even though our little one kept running off the set in excitement, Steph remained patient and positive and was able to turn out wonderful pictures full of happiness and excitement. The cake (or at least what was left of it hahaha) was also delicious for my husband and I to bring home and finish. The cake was very moist and not too sweet which was perfect for us and made us feel very comfortable letting our son eat. I would definitely recommend Steph to any family and am even thinking of returning to her in the future for more family or child-focused photo shots!
-  - name: "Tanvi Puri"
-    rating: 5
-    comment: |
-      Steph is exceptional. When it comes to shoots, I am very particular about the decor. My son's cake smash was second shoot with her. The first one we did was the Mini Christmas Session.
-      I wanted a theme that no one had ever done for cake smash. I gave her my idea, sent her pictures for reference. When we entered the studio on the day of shoot, I was speechless. She did such an amazing job. The kind of hard work she puts to customize one's set up is commendable. She made my son's cake smash a memorable day for us. Thank you so much Steph for everything. We will see you again for more shoots!
   - name: "K P"
     rating: 5
     comment: |
@@ -33,18 +28,15 @@ reviews:
       Steph provides the outfit, the cake, and even a little bath setup for your baby to clean up afterward, along with a changing area. She even had towels ready, which was such a lifesaver because I forgot to bring one! She also has snacks just in case the child doesn’t like cake.
       
       My little one had the best time, and the photos came out stunning. I will 100% be using Steph’s services again in the future and have already recommended her to others. To anyone considering booking with her: you will not be disappointed. She is incredibly professional, and her studio is beautiful, clean, and welcoming. Most importantly, the photos are absolutely gorgeous.
-  - name: "Sarah Fung"
+  - name: "Tanvi Puri"
     rating: 5
     comment: |
-      We had the BEST experience with Steph Donaher for our cake smash photos! She was incredibly professional, responsive, and her communication leading up to the session was excellent and timely.
-      
-      The whole process was so easy for us as parents — we literally just had to show up with our kids and Steph had everything ready. She had the most amazing outfits, backdrops, and cakes, and worked with us to customize the setup exactly how we wanted. She even let us take home some props she wasn’t using anymore, which was such a thoughtful bonus.
-      
-      Steph is also just a genuinely friendly and warm person, which made the session feel relaxed and fun. She was wonderful with the kids and captured the absolute cutest photos.
-      
-      We were also blown away by how fast everything came back — she sent the proofs and our full gallery within a week of the session!
-      
-      I would highly, highly recommend Steph to anyone looking for beautiful cake smash or family photos. Such a fantastic experience from start to finish!
+      Steph is exceptional. When it comes to shoots, I am very particular about the decor. My son's cake smash was second shoot with her. The first one we did was the Mini Christmas Session.
+      I wanted a theme that no one had ever done for cake smash. I gave her my idea, sent her pictures for reference. When we entered the studio on the day of shoot, I was speechless. She did such an amazing job. The kind of hard work she puts to customize one's set up is commendable. She made my son's cake smash a memorable day for us. Thank you so much Steph for everything. We will see you again for more shoots!
+  - name: "Kendra Cochrane"
+    rating: 5
+    comment: |
+      Steph was amazing to work with! We booked a cake smash photoshoot and She took her time with our little one who was not quite sure about the cake, and even had the cutest outfit for her to wear! The photos we received were beautiful! I’d happily go back to her and recommend her to others!
 hours:
   monday: "11:00 AM–5:00 PM"
   tuesday: "11:00 AM–5:00 PM"

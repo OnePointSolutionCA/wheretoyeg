@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "1020 Sherwood Dr #50, Sherwood Park, AB T8A 2G4"
 rating: 4.9
-review_count: 233
+review_count: 238
 tier: "featured"
 phone: "(780) 570-3092"
 website: "https://www.sparkchef.ca/"

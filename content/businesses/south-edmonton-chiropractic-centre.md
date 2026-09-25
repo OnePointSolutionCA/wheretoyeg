@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–2:00 PM"
 photos: ["/photos/south-edmonton-chiropractic-centre-1.jpg", "/photos/south-edmonton-chiropractic-centre-2.jpg", "/photos/south-edmonton-chiropractic-centre-3.jpg"]
 rating: 4.9
-review_count: 574
+review_count: 576
 price_range: "$$"
 amenities:
 
@@ -28,16 +28,6 @@ tags: ["edmonton", "chiropractors"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Jaspreet Panech"
-    rating: 5
-    comment: |
-      I had a very positive experience at South Edmonton Chiropractic Centre. The team is professional, welcoming, and genuinely cares about their patients.
-      
-      Dr. Nav Bassi was the chiropractor who helped me, and he took the time to understand my concerns and explain the treatment clearly. I never felt rushed, and his approach was very patient-focused and thorough.
-      
-      Nalin Fernando provided physiotherapy, and he was excellent in guiding me through exercises and making sure I understood how to improve my condition step by step. He was knowledgeable, supportive, and made the recovery process much easier.
-      
-      Overall, I’m very satisfied with the chiropractic and physiotherapy services I received. The clinic is well-organized, and the staff is friendly and professional. I would definitely recommend South Edmonton Chiropractic Centre to anyone looking for quality chiropractic and physiotherapy care.
   - name: "Berleen D"
     rating: 5
     comment: |
@@ -56,6 +46,16 @@ reviews:
       The clinic environment is also excellent. The receptionist is very welcoming and friendly, and the clinic is always clean and well-maintained.
       
       Overall, I highly recommend this clinic to anyone dealing with injuries, especially from an MVA.
+  - name: "Jaspreet Panech"
+    rating: 5
+    comment: |
+      I had a very positive experience at South Edmonton Chiropractic Centre. The team is professional, welcoming, and genuinely cares about their patients.
+      
+      Dr. Nav Bassi was the chiropractor who helped me, and he took the time to understand my concerns and explain the treatment clearly. I never felt rushed, and his approach was very patient-focused and thorough.
+      
+      Nalin Fernando provided physiotherapy, and he was excellent in guiding me through exercises and making sure I understood how to improve my condition step by step. He was knowledgeable, supportive, and made the recovery process much easier.
+      
+      Overall, I’m very satisfied with the chiropractic and physiotherapy services I received. The clinic is well-organized, and the staff is friendly and professional. I would definitely recommend South Edmonton Chiropractic Centre to anyone looking for quality chiropractic and physiotherapy care.
   - name: "Niman Hashi"
     rating: 5
     comment: |

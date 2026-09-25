@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–12:00 AM"
 photos: ["/photos/saigon-taste-1.jpg", "/photos/saigon-taste-2.jpg", "/photos/saigon-taste-3.jpg"]
 rating: 4.8
-review_count: 1546
+review_count: 1550
 price_range: "$"
 amenities:
   - "Dine-In"

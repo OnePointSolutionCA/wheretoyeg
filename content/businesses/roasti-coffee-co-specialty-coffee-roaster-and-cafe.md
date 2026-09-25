@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Sherwood Park"
 address: "52 Brentwood Blvd #19, Sherwood Park, AB T8A 2H6"
 rating: 4.8
-review_count: 885
+review_count: 889
 tier: "featured"
 phone: "(780) 908-0104"
 website: "https://roasti.ca/"
@@ -44,10 +44,13 @@ reviews:
       Quick coffee Break... there is patio as well and yiu can also order sandwich either from the shop or from nearby.. to make it meal for yourself..
       
       Overall... 7.5 ..
-  - name: "Ethen Walker"
+  - name: "A. V."
     rating: 5
     comment: |
-      What a fantastic little café! From the moment I walked out, I knew I'd found a place worth coming back to. The atmosphere is warm and inviting, making it easy to relax and enjoy your visit. The latte was smooth and well made, and the fresh cheese scone paired perfectly with it. If you have a little extra time, I'd recommend staying to enjoy the experience—the care that goes into preparing the coffee really adds to the charm. A wonderful spot that's definitely worth a visit.
+      Great!👍👍👍
+      I am so impressed😊😊😊
+      Such great combination of coffee production and place to take a brake , pick a favourite coffee or drink , some pastry and relaxation.
+      I had feeling like a time stopped ... just enjoyed the time and tasty coffee.
 hours:
   monday: "7:00 AM–6:00 PM"
   tuesday: "7:00 AM–6:00 PM"

@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "4718 97 St NW, Edmonton, AB T6E 5S1"
 rating: 4.8
-review_count: 225
+review_count: 226
 tier: "featured"
 website: "https://retroactivearcade.ca/"
 google_maps: "https://maps.google.com/?cid=16095033643671238118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/studio-107-hair-1.jpg", "/photos/studio-107-hair-2.jpg", "/photos/studio-107-hair-3.jpg"]
 rating: 4.9
-review_count: 400
+review_count: 401
 price_range: "$$$"
 amenities:
 

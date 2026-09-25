@@ -20,7 +20,7 @@ hours:
   sunday: "10:30 AM–10:00 PM"
 photos: ["/photos/sawmill-prime-rib-steak-house-1.jpg", "/photos/sawmill-prime-rib-steak-house-2.jpg", "/photos/sawmill-prime-rib-steak-house-3.jpg"]
 rating: 4.2
-review_count: 2359
+review_count: 2365
 price_range: "$$$"
 amenities:
   - "Dine-In"

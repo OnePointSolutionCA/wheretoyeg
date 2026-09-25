@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–10:00 PM"
 photos: ["/photos/taste-of-pakistan-1.jpg", "/photos/taste-of-pakistan-2.jpg", "/photos/taste-of-pakistan-3.jpg"]
 rating: 4.8
-review_count: 991
+review_count: 1006
 price_range: "$"
 amenities:
   - "Halal"
@@ -36,10 +36,6 @@ reviews:
     comment: |
       Had an amazing meal at Taste of Pakkuatani! Everything I ordered was fresh, flavorful, and cooked perfectly. The chicken karahi was rich, tender, and full of authentic spices. The fish pakora was crispy on the outside while staying juicy inside, and the freshly baked naan was soft, warm, and paired perfectly with the curry.
       The portions were generous, the restaurant was clean, and the staff were friendly and welcoming. If you're looking for delicious halal Pakistani food, this place is definitely worth a visit. Highly recommended, and I'll definitely be coming back!
-  - name: "muhammad ibrahim"
-    rating: 5
-    comment: |
-      Had a great family lunch at Taste of Pakistan. We tried the chicken handi, beef kebab platter, karahi, Haleem , and jalebi. Everything was fresh, flavorful, and served hot. The chicken handi and karahi were especially delicious, and the beef kebabs were juicy and well seasoned. The jalebi was perfectly sweet and crispy. Nice atmosphere for families and good customer service too. Definitely a place worth visiting for authentic Pakistani food in Edmonton!
   - name: "Rizwan Ali"
     rating: 5
     comment: |
@@ -55,6 +51,10 @@ reviews:
       I asked for a spicy dish and was given a great recommendation of the Beef Karahi with chillies. Along side the saffron rice, butter nan, and peach Lassi, the meal was fantastic 😋
       Highly recommended and I will
       be a repeat customer now.
+  - name: "muhammad ibrahim"
+    rating: 5
+    comment: |
+      Had a great family lunch at Taste of Pakistan. We tried the chicken handi, beef kebab platter, karahi, Haleem , and jalebi. Everything was fresh, flavorful, and served hot. The chicken handi and karahi were especially delicious, and the beef kebabs were juicy and well seasoned. The jalebi was perfectly sweet and crispy. Nice atmosphere for families and good customer service too. Definitely a place worth visiting for authentic Pakistani food in Edmonton!
   - name: "Sheereen Eidelkhani"
     rating: 5
     comment: |

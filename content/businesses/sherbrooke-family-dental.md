@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/sherbrooke-family-dental-1.jpg", "/photos/sherbrooke-family-dental-2.jpg", "/photos/sherbrooke-family-dental-3.jpg"]
 rating: 4.6
-review_count: 348
+review_count: 349
 price_range: "$$"
 amenities:
 

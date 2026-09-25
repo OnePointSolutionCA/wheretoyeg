@@ -5,8 +5,8 @@ category: "restaurants"
 subcategory: "brunch"
 neighborhood: "Jasper Ave"
 address: "10357 Jasper Ave, Edmonton, AB T5J 4H8"
-rating: 4.2
-review_count: 87
+rating: 4.3
+review_count: 88
 tier: "featured"
 phone: "(587) 545-2866"
 website: "http://solarbrunch.ca/"
@@ -30,6 +30,10 @@ reviews:
       I had the Fiesta Bowl. The eggs were perfectly poached, and the pico de gallo fresh and bright. My partner had the Surf Benny and loved the hashbrowns. Our friend had the Tuscan Frittata and said the texutre was pefect, and the there was just the right amount of balsamic flavour on the generous pile of arugula. What really stood out with the food was that everything was made in house. The pico, the hollandaise, the hasbrowns (a true star of all our dishes!) all had something unique and delicious vs other brunch spots. The portions are just right with everyone finishing their meal and leaving statisifed. The coffee from The Colombian is smooth, rich, and fully staisfying even as a plain drip.
       
       The room is bright, airy, and inviting. Staff were warm and welcoming. We'll defintely be back!
+  - name: "Lester Zamora"
+    rating: 4
+    comment: |
+      Great place for brunch, their solar Bennies are delicious. I had also their French toast, simple and on point. The only thing, the sat me on a tiny bar, kind of in the middle of people’s way. Not the best spot if there are other tables available. If the place is full, i understand, but there were many other tables at the time I arrived.
   - name: "Pedro Jan"
     rating: 5
     comment: |
@@ -38,10 +42,6 @@ reviews:
       The atmosphere is fantastic, but what really sets this place apart is the people. Exceptionally friendly and unique, the staff makes you feel welcome the moment you walk in. The service is prompt and attentive, and the pricing is very fair for the quality of food and experience you receive.
       
       Whether you're bringing the whole family or just catching up with friends, it’s the perfect setting for a weekend meal. Highly recommended!
-  - name: "Baozi"
-    rating: 4
-    comment: |
-      Standard brunch menu. Everything works well. Good friendly service and good place for breakfast and food. Amazing hash browns. Could use some specialty coffees to round out the offerings.
 hours:
   monday: "7:00 AM–3:00 PM"
   tuesday: "7:00 AM–3:00 PM"

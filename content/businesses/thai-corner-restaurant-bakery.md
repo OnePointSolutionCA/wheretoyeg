@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–2:30 PM"
 photos: ["/photos/thai-corner-restaurant-bakery-1.jpg", "/photos/thai-corner-restaurant-bakery-2.jpg", "/photos/thai-corner-restaurant-bakery-3.jpg"]
 rating: 4.8
-review_count: 711
+review_count: 712
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -38,14 +38,14 @@ reviews:
       The highlight of our visit was the coconut pandan cake—it was light, fresh, and delightfully not too sweet.
       
       We will definitely be back!
-  - name: "Cernan"
-    rating: 5
-    comment: |
-      Good ambiance, simple and welcoming. Greeted really well and staff were very attentive. We didn't have a reservation and it's valentine's day but still managed tp accommodate us provided we finish within 2 hours which is fine with us. All the food were very delicious and spiciness level was just spot on. Food came out very fast too. Lots of parking spaces. Overall I recommend this restaurant and will be back again soon
   - name: "Charles C"
     rating: 4
     comment: |
       This place is one of the better Thai restaurants I have been to in the city. It features the various varieties of curry and other typical dishes like Pad Thai. We had the soup which I found great; it had the balance of sweet and spicy.  Each main dish has no shortage of protein which was very nice. I forgot to try the Thai iced tea but that's what next time is for.
+  - name: "Cernan"
+    rating: 5
+    comment: |
+      Good ambiance, simple and welcoming. Greeted really well and staff were very attentive. We didn't have a reservation and it's valentine's day but still managed tp accommodate us provided we finish within 2 hours which is fine with us. All the food were very delicious and spiciness level was just spot on. Food came out very fast too. Lots of parking spaces. Overall I recommend this restaurant and will be back again soon
   - name: "sh hamil"
     rating: 4
     comment: |

@@ -16,11 +16,11 @@ hours:
   wednesday: "11:00 AM–8:00 PM"
   thursday: "11:00 AM–8:00 PM"
   friday: "11:00 AM–8:00 PM"
-  saturday: "11:00 AM–6:00 PM"
-  sunday: "11:00 AM–6:00 PM"
+  saturday: "11:00 AM–8:00 PM"
+  sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/rival-burger-1.jpg", "/photos/rival-burger-2.jpg", "/photos/rival-burger-3.jpg"]
 rating: 4.9
-review_count: 393
+review_count: 395
 price_range: "$"
 amenities:
   - "Dine-In"

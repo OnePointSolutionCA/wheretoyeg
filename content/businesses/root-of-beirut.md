@@ -21,7 +21,7 @@ hours:
   sunday: "8:00 AM–4:01 PM"
 photos: ["/photos/root-of-beirut-1.jpg", "/photos/root-of-beirut-2.jpg", "/photos/root-of-beirut-3.jpg"]
 rating: 4.4
-review_count: 1328
+review_count: 1338
 price_range: "$$"
 amenities:
   - "Halal"

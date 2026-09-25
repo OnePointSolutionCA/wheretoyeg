@@ -18,7 +18,7 @@ hours:
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/royal-alberta-museum-1.jpg", "/photos/royal-alberta-museum-2.jpg", "/photos/royal-alberta-museum-3.jpg"]
 rating: 4.6
-review_count: 5014
+review_count: 5020
 price_range: "$$"
 amenities:
   - "Family Friendly"

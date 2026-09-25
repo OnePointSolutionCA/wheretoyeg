@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/shift-physiotherapy-wellness-1.jpg", "/photos/shift-physiotherapy-wellness-2.jpg", "/photos/shift-physiotherapy-wellness-3.jpg"]
 rating: 5
-review_count: 233
+review_count: 234
 price_range: "$$"
 amenities:
 

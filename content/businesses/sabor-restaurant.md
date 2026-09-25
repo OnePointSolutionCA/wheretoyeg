@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/sabor-restaurant-1.jpg", "/photos/sabor-restaurant-2.jpg", "/photos/sabor-restaurant-3.jpg"]
 rating: 4.6
-review_count: 2941
+review_count: 2945
 price_range: "$$"
 amenities:
   - "Dine-In"

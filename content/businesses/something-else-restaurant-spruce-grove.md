@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Spruce Grove"
 address: "215 McLeod Ave, Spruce Grove, AB T7X 0G2"
 rating: 4.5
-review_count: 672
+review_count: 673
 tier: "featured"
 phone: "(780) 960-6694"
 website: "http://www.somethingelserestaurant.com/"

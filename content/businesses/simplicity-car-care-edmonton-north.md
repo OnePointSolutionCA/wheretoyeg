@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/simplicity-car-care-edmonton-north-1.jpg", "/photos/simplicity-car-care-edmonton-north-2.jpg", "/photos/simplicity-car-care-edmonton-north-3.jpg"]
 rating: 4.8
-review_count: 166
+review_count: 167
 price_range: "$$"
 amenities:
 
@@ -46,14 +46,14 @@ reviews:
     rating: 5
     comment: |
       The results are far above what we expected. The vehicle is like new. It was returned to us in immaculate condition. The staff was courteous, efficient and exceptionally easy to deal with. The insurance companies could learn a few lessons from them. I recommend them without reservation. One person on site commented to me that we chose well and he was so right. Thank you so much.
+  - name: "Nadia Korol"
+    rating: 5
+    comment: |
+      Following a car accident, I brought my car into this shop. I am impressed by Lily's and Sam's professionalism as they guided me during this stressful event. My car was returned fully repaired and in pristine condition both inside and out, sparkling clean! I was explained all the steps of the repair and was provided pictures of the repair process. Lily advised me on how to get to and from the car rental by using their pick and drop-off service which was so helpful. I am impressed by their work and overall excellent service! Highly recommended 👌
   - name: "ANIS ALLANI"
     rating: 5
     comment: |
       I had a great experience with this Simplicity Car Care Edmonton North. The repair work was done to a very high standard, and my car looks as good as new. The team was professional, efficient, and easy to deal with throughout the process.
       A special thanks to Sam for the excellent customer service. He was friendly, responsive, and truly went above and beyond to accommodate my situation. He kept me informed every step of the way and made the whole experience smooth and stress-free.
       I highly recommend this body shop to anyone looking for reliable service, honest communication, and top-tier results. Thank you again to Sam and the entire team for going the extra mile.
-  - name: "Nadia Korol"
-    rating: 5
-    comment: |
-      Following a car accident, I brought my car into this shop. I am impressed by Lily's and Sam's professionalism as they guided me during this stressful event. My car was returned fully repaired and in pristine condition both inside and out, sparkling clean! I was explained all the steps of the repair and was provided pictures of the repair process. Lily advised me on how to get to and from the car rental by using their pick and drop-off service which was so helpful. I am impressed by their work and overall excellent service! Highly recommended 👌
 ---

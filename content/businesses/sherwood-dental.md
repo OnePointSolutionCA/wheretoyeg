@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "#308, 2018 Sherwood Dr, Sherwood Park, AB T8A 5V3"
 rating: 4.9
-review_count: 1288
+review_count: 1289
 tier: "featured"
 phone: "(587) 741-7177"
 website: "https://www.sherwoodparkdental.ca/?utm_campaign=gmb&utm_medium=gmb&utm_source=google"
@@ -29,14 +29,14 @@ reviews:
     rating: 5
     comment: |
       First visit today with Dr John Michaiel! He is a  very skilled and gentle dentist! Very professional and kind.  Highly recommend!! He also did an inhouse crown replacement.  Can be done the same day!! Amazing fit and feels much better than my old one.  Very caring and meticulous !
-  - name: "Kim Herr"
-    rating: 5
-    comment: |
-      I hadn’t been to a dentist for so long because I irrationally afraid. I was so nervous that I was taking myself off ledges for days before my first appointment.  I was vibrating with nervousness until I met the dentist (Luke Milne) and his assistant, Janice.  I was immediately calm and relaxed.  They are so supportive and encouraging. These two have fully and completely changed the narrative in my head about coming to the Dentist.  Both my son and I were greeted and cared for in a way I never expected from a dentist office. Right from their front reception staff to the two assistants we saw and the hygienist, Andrea we had a great experience and I won’t have any further fears about oral care and seeing a dentist.  The cleaning was fast and more effective with their new techniques and their office is clean and very organized.  Highly recommend.
   - name: "Matthew Higgins"
     rating: 5
     comment: |
       Had a great experience with all docs, nurses and dental staff including the nice lady’s up front. I have been coming to this practice since I was very young and no matter the place I live in Alberta I always come back to this office. They are all nice and very professional. I got my wisdom teeth out this time and they made a shitty experience turn into a easy in and out with minimal pain.
+  - name: "Joan Mclean"
+    rating: 5
+    comment: |
+      I am very happy to have found a fantastic dentist! Incredible experience with Dr. Lucas Milne. He is very personable, took his time performing a highly thorough exam, and explained absolutely everything as he went. I never felt rushed for a single second or pressured into any procedure. He truly went over and above to ease my mind and calm my nerves. His dental assistant, Sophia, was also an absolute gem! She answered all my questions and made me feel so comfortable from start to finish. Because of their amazing care and clear explanations, I feel totally confident in him performing my root canal. If you want a team that genuinely cares and prioritizes patient comfort, this is the place to go."
 hours:
   monday: "7:00 AM–8:00 PM"
   tuesday: "7:00 AM–8:00 PM"

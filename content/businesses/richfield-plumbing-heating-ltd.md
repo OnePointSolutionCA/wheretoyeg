@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/richfield-plumbing-heating-ltd-1.jpg", "/photos/richfield-plumbing-heating-ltd-2.jpg", "/photos/richfield-plumbing-heating-ltd-3.jpg"]
 rating: 4.9
-review_count: 515
+review_count: 516
 price_range: "$$"
 amenities:
 

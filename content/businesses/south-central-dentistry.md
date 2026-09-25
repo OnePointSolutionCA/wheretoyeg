@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Mill Woods"
 address: "4913 Gateway Blvd NW, Edmonton, AB T6H 5C3"
 rating: 4.9
-review_count: 473
+review_count: 475
 tier: "featured"
 phone: "(780) 757-3723"
 website: "https://www.southcentraldentistry.com/"

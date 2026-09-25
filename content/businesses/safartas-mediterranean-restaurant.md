@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Castle Downs"
 address: "12110 161 Ave NW, Edmonton, AB T5X 5M8"
 rating: 4.5
-review_count: 241
+review_count: 244
 tier: "featured"
 phone: "(780) 378-5109"
 google_maps: "https://maps.google.com/?cid=11594275998845019201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

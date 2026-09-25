@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/rejuvaderm-cosmetic-dermatology-laser-1.jpg", "/photos/rejuvaderm-cosmetic-dermatology-laser-2.jpg", "/photos/rejuvaderm-cosmetic-dermatology-laser-3.jpg"]
 rating: 4.9
-review_count: 367
+review_count: 370
 price_range: "$$"
 amenities:
 

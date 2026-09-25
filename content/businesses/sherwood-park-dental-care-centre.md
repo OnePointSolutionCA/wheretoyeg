@@ -5,8 +5,8 @@ category: "medical"
 subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "912 Ash St, Sherwood Park, AB T8A 2G1"
-rating: 4.5
-review_count: 24
+rating: 4.6
+review_count: 27
 tier: "featured"
 phone: "(780) 467-2208"
 website: "http://sherwoodparkdentistry.com/"

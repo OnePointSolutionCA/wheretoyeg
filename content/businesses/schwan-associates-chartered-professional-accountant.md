@@ -35,10 +35,6 @@ reviews:
     rating: 5
     comment: |
       Jeff at Schwan & Associates was referred to me over six years ago and I am incredibly grateful for the superior service he has provided to me over the years. He has worked on both my personal and business taxes; not only does he operate in a timely manner, he is very thorough and always available to answer any questions.  He has saved me time and money and I would recommend him to any individual or business who is seeking support in managing their accounting needs.
-  - name: "Chris Mooney"
-    rating: 5
-    comment: |
-      I highly recommend Schwan & Associates. Jeff and his staff are very professional, and Jeff is always available to provide feedback and advice when we need it. The fact that this is a 21st century firm, with all documents prepared and sent in soft copy, makes the often tedious and frustrating exercises of filing and reporting easy, and much less something to dread! Having Jeff at the controls makes running my business much easier, and gives me more time to focus on building my business.
   - name: "Betty Huang"
     rating: 5
     comment: |
@@ -51,4 +47,8 @@ reviews:
       Everything can be done securely online which makes my life easier, I submit what he tells me is needed and soon after it's done. Before I was referred to Jeff I was doing my taxes through a neighbour, I had a feeling I should be getting more of a return...I was right. Jeff helped me maximize my returns.
       
       Highly recommend.
+  - name: "Chris Mooney"
+    rating: 5
+    comment: |
+      I highly recommend Schwan & Associates. Jeff and his staff are very professional, and Jeff is always available to provide feedback and advice when we need it. The fact that this is a 21st century firm, with all documents prepared and sent in soft copy, makes the often tedious and frustrating exercises of filing and reporting easy, and much less something to dread! Having Jeff at the controls makes running my business much easier, and gives me more time to focus on building my business.
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "5:00 PM–9:00 PM"
 photos: ["/photos/sofra-turkish-restaurant-wine-cellar-1.jpg", "/photos/sofra-turkish-restaurant-wine-cellar-2.jpg", "/photos/sofra-turkish-restaurant-wine-cellar-3.jpg"]
 rating: 4.5
-review_count: 870
+review_count: 877
 price_range: "$$"
 amenities:
   - "Halal"

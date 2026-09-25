@@ -13,6 +13,16 @@ google_maps: "https://maps.google.com/?cid=5032646994182966841&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/rj-pro-auto-repair-shop.jpg"
 reviews:
+  - name: "kathy davidson"
+    rating: 5
+    comment: |
+      Just moved to Beaumont
+      and our trucks engine light came on
+      R J Auto had great reviews so went to him He did an awesome job for us fixed it
+      and checked out the vehicle for any other issues.
+      Would highly recommend him. Going to.keep him as our permanent mechanic
+      .
+      Thank you RJ for your prompt service
   - name: "Jonathan McLellan"
     rating: 5
     comment: |
@@ -29,11 +39,6 @@ reviews:
     rating: 5
     comment: |
       He is awesome. Solve all my hybrid car codes with his knowledgeable approach and make me understand how process works. Thank you so much RJ
-  - name: "Samantha Bailey"
-    rating: 5
-    comment: |
-      Had my breaks done here a few weeks ago. They got me in relatively quick and quoted almost to the dime, the price was exactly what I was expecting so no complaints there.
-      Yesterday I heard a weird sound while breaking really hard so I called and they got me in within the hour to check it out. Turned out it was nothing (just the ABS break system) but Raj took it for a good drive around the community to make sure for me, and didn’t charge at all. Put my mind at ease. Lovely to deal with, will be back for sure!
 hours:
   monday: "9:00 AM–6:00 PM"
   tuesday: "9:00 AM–6:00 PM"

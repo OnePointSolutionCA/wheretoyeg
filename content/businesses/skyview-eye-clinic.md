@@ -30,10 +30,10 @@ reviews:
     rating: 5
     comment: |
       Had a great experience at this clinic. The staff were friendly and welcoming, and the eye exam was very thorough. The doctor explained everything clearly and made me feel comfortable. Highly recommend!
-  - name: "Brooklyn Sipe"
+  - name: "Becca C"
     rating: 5
     comment: |
-      Sam was so great to work with! The store has an awesome selection, and I couldn’t be happier with my new glasses. I wear them every day, so quality really matters—and they nailed it. Definitely recommend this shop 👌
+      I took my kiddo here for her first eye exam. They are amazing with kids and made the experience so fun and exciting for her! I highly recommend this place. It’s clean, professional and also has a great selection of glasses.
 hours:
   monday: "10:00 AM–6:00 PM"
   tuesday: "10:00 AM–6:00 PM"

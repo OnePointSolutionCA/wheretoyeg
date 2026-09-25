@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "14308 121 St NW, Edmonton, AB T5X 3S4"
 rating: 5
-review_count: 82
+review_count: 83
 tier: "featured"
 phone: "(780) 264-0758"
 website: "https://shakurroadside.ca/"

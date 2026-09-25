@@ -19,7 +19,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/scouts-coffee-boba-corner-1.jpg", "/photos/scouts-coffee-boba-corner-2.jpg", "/photos/scouts-coffee-boba-corner-3.jpg"]
 rating: 4.8
-review_count: 61
+review_count: 62
 price_range: "$"
 amenities:
   - "Dine-In"

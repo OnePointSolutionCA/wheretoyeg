@@ -6,7 +6,7 @@ subcategory: "indian-pakistani"
 neighborhood: "Mill Woods"
 address: "5317 23 Ave NW, Edmonton, AB T6L 7G4"
 rating: 4.6
-review_count: 833
+review_count: 836
 tier: "featured"
 phone: "(780) 244-2938"
 website: "https://spicebros.com/"

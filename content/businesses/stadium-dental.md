@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "8104 112 Ave NW, Edmonton, AB T5B 4W4"
 rating: 4.3
-review_count: 86
+review_count: 87
 tier: "featured"
 phone: "(780) 752-2242"
 website: "https://stadiumdental.ca/?utm_source=GBP&utm_medium=button&utm_campaign=Home"

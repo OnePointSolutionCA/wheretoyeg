@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "St. Albert"
 address: "11 St Anne St, St. Albert, AB T8N 1E8"
 rating: 4.7
-review_count: 567
+review_count: 573
 tier: "featured"
 phone: "(825) 993-9833"
 website: "http://www.tealiciousblend.com/"

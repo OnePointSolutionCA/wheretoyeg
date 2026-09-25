@@ -5,7 +5,7 @@ category: "catering"
 neighborhood: "Edmonton"
 address: "10665 109 St NW, Edmonton, AB T5H 3B5"
 rating: 5
-review_count: 7
+review_count: 10
 tier: "featured"
 phone: "(780) 474-6466"
 website: "http://sorrentinos.catering/"

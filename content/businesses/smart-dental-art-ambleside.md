@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Windermere"
 address: "5094 Windermere Blvd Unit 10, Edmonton, AB T6W 0L7"
 rating: 5
-review_count: 180
+review_count: 181
 tier: "featured"
 phone: "(587) 855-4976"
 website: "https://www.smartdentalart.com/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Website_URL"

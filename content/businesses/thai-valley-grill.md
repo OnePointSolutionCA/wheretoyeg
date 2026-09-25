@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/thai-valley-grill-1.jpg", "/photos/thai-valley-grill-2.jpg", "/photos/thai-valley-grill-3.jpg"]
 rating: 4.8
-review_count: 1000
+review_count: 1004
 price_range: "$$"
 amenities:
   - "Dine-In"

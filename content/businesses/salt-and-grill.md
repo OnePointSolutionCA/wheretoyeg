@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/salt-and-grill-1.jpg", "/photos/salt-and-grill-2.jpg", "/photos/salt-and-grill-3.jpg"]
 rating: 4.7
-review_count: 21
+review_count: 22
 price_range: "$"
 amenities:
   - "Halal"
@@ -31,6 +31,16 @@ tags: ["edmonton", "pakistani", "halal"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Fahad Khan"
+    rating: 5
+    comment: |
+      Visited on their very first day, and overall it was a great experience. Congratulations on the opening of your new restaurant!
+      
+      We tried the Halwa Puri, which was quite good, and the Aloo Parathas were especially delicious. For day one, the food was definitely decent, and with a little constructive feedback and time to settle in, we're confident it will only get better.
+      
+      Wishing the entire team all the very best on this new journey. Looking forward to coming back and seeing the restaurant grow.
+      
+      Best of luck!
   - name: "Imran Sarvaiya"
     rating: 5
     comment: |
@@ -54,8 +64,4 @@ reviews:
     rating: 5
     comment: |
       Excellent food, great service, and a welcoming atmosphere. Everything we ordered was delicious and freshly prepared. The staff were friendly and attentive, and the overall experience was fantastic. Highly recommend Salt and Grill—I'll definitely be coming back!
-  - name: "Shahzad Aslam"
-    rating: 4
-    comment: |
-      Had breakfast here. Still early days. Halwa Puri was amazing. We tried nehari as well which came quite late, but halwa puri was quick and exceeded expectations.
 ---

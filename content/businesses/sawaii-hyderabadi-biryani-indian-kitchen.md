@@ -19,8 +19,8 @@ hours:
   saturday: "11:00 AM–2:00 AM"
   sunday: "11:00 AM–2:00 AM"
 photos: ["/photos/sawaii-hyderabadi-biryani-indian-kitchen-1.jpg", "/photos/sawaii-hyderabadi-biryani-indian-kitchen-2.jpg", "/photos/sawaii-hyderabadi-biryani-indian-kitchen-3.jpg"]
-rating: 4.6
-review_count: 293
+rating: 4.5
+review_count: 296
 price_range: "$"
 amenities:
   - "Halal"
@@ -51,8 +51,8 @@ reviews:
     rating: 1
     comment: |
       Not sure when they opened, but it looks like a  empty storage unit. Ordered the samosa chaat and mango lassie. The lassie was pretty good but the chaat is nothing special. Also, half the container was chopped raw onions. Over priced for the quality. Definitely wouldn't recommend.
-  - name: "parmvir hanspal"
-    rating: 5
+  - name: "Goodmorning Today"
+    rating: 1
     comment: |
-      Came from Millwoods just to have a biryani and it was worth it super spicy as we wanted to have some spice in it best biryani ever
+      I wish I could give 0 start. Worst egg biryani ever had. Don't recommend anyone .
 ---

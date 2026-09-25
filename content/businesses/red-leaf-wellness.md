@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/red-leaf-wellness-1.jpg", "/photos/red-leaf-wellness-2.jpg", "/photos/red-leaf-wellness-3.jpg"]
 rating: 5
-review_count: 276
+review_count: 277
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,16 @@ tags: ["edmonton", "acupuncture"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Britt P"
+    rating: 5
+    comment: |
+      I have been consistently going here for over a year now. Tammy has changed my life for the better. I had migraines everyday day of my life and nothing was helping, with her guidance on nutritional health and acupuncture I am now able to live life without migraines. Shes helped with every aspect of my health; mental and physical. I am so very grateful to have found her! And will continue to go to this clinic.
+      
+      The staff are absolutely amazing and super friendly. They make you feel at home.
+      
+      I recommend this clinic to everyone!
+      
+      Thank you Tammy for everything!
   - name: "CinM"
     rating: 5
     comment: |
@@ -44,12 +54,4 @@ reviews:
     rating: 5
     comment: |
       If you're looking to invest in your health, I would highly recommend Red Leaf Wellness. It is so refreshing  to have someone listen to your concerns - big or small, and really take the time to put together a plan to help you feel your best. I saw Dr. Amira Abdelaziz virtually, and was so impressed with her insight and knowledge!
-  - name: "Kim van Steijn"
-    rating: 5
-    comment: |
-      We are so grateful to have found such an incredible naturopath, Lorraine. She has been absolutely amazing in helping my daughter navigate her health challenges. From the very beginning, she has shown genuine kindness, patience, and a truly caring approach that immediately put my teenager at ease.
-      
-      What stands out the most is her gentle, thoughtful way of working, she takes the time to listen, never rushes appointments, and makes sure my daughter feels heard and supported every step of the way. It’s made such a difference, especially for a teen who can sometimes feel overwhelmed in appointment settings.
-      
-      Thanks to her guidance and care, we have seen real progress, and I couldn’t be more thankful. I would strongly recommend her to anyone looking for a compassionate, knowledgeable, and patient naturopath—especially for families with teens.
 ---

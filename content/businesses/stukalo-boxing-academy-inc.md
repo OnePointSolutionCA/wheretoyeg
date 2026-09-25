@@ -27,6 +27,16 @@ tags: ["edmonton", "boxing"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Diane Rodriguez"
+    rating: 5
+    comment: |
+      I’ve had such a positive experience training at Stukalo Boxing Club. From the beginning, Coach Mykhailo and everyone at the gym went above and beyond to make me feel welcome and included.
+      
+      Coach Mykhailo is genuinely one of the kindest and most patient coaches I’ve worked with. He’s also incredibly knowledgeable, and one of the things I appreciate most about his coaching is that he doesn’t just show you what to do, he takes the time to explain why. He teaches the physical mechanics behind a drill while also explaining the boxing IQ, strategy and purpose behind it. That has been incredibly valuable to me as a boxer.
+      
+      The gym is primarily Ukrainian, and while there has occasionally been a bit of a language barrier, it has never made me feel excluded. Everyone has made an effort to communicate and help and somehow, through the universal language of boxing, we always figure it out. There’s a genuine kindness and sense of community in this gym that I really appreciate.
+      
+      Coach Mykhailo is patient, funny, encouraging and an excellent teacher. I’m very grateful to him and the entire Stukalo team for welcoming me into their gym. 🥊❤️
   - name: "Andrii Berkuta"
     rating: 5
     comment: |
@@ -43,8 +53,4 @@ reviews:
     rating: 5
     comment: |
       Highly suggest going here, as a beginner I felt very comfortable and welcomed. Very clean and well put together space!
-  - name: "Souf Madi"
-    rating: 5
-    comment: |
-      Coach Mikhail is very knowledgeable about his sport and very attentive to the team collectively as well as individually. His passion for the sport shows when he gives feedback for each person in what they can improve on and what goal they should achieve in each practice session. Very blessed to have him as a coach.
 ---

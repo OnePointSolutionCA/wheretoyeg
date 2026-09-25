@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–4:00 PM"
 photos: ["/photos/royal-spa-nails-lashes-1.jpg", "/photos/royal-spa-nails-lashes-2.jpg", "/photos/royal-spa-nails-lashes-3.jpg"]
 rating: 4.6
-review_count: 441
+review_count: 442
 price_range: "$$"
 amenities:
 

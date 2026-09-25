@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Windermere"
 address: "512 Riverbend Square NW, Edmonton, AB T6R 2E3"
 rating: 4.4
-review_count: 372
+review_count: 373
 tier: "featured"
 phone: "(780) 436-7271"
 website: "http://rickyspizza.zenfoody.com/"

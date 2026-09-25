@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/rejuvenation-dermatology-clinic---downtown-1.jpg", "/photos/rejuvenation-dermatology-clinic---downtown-2.jpg"]
 rating: 4.8
-review_count: 1518
+review_count: 1522
 price_range: "$$"
 amenities:
 
@@ -28,16 +28,6 @@ tags: ["edmonton", "dermatologists"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Marie Bonsol"
-    rating: 5
-    comment: |
-      I would like to express my sincere appreciation for Dr. Nanki Longowal and the entire dermatology team special mention to Abby, Amanda, Cecelia, Aisha, Allyssa, Pia From my first consultation to follow-up care, I experienced exceptional professionalism, expertise, and compassion.
-      
-      Dr. Nanki took the time to listen carefully to my concerns, thoroughly explained my diagnosis and treatment options, and ensured I felt informed and comfortable throughout the process. Their attention to detail, clinical knowledge, and genuine care for patients are truly remarkable.
-      
-      The clinic is welcoming, organized, and efficient, and every staff member I encountered was courteous and respectful. The Center was renovated as well making it more crisp modern looking. It is evident that patient-centered care is a top priority.
-      
-      I highly recommend Dr. Nanki to anyone seeking dermatologic care. Their professionalism, dedication to excellence, and compassionate approach set the highest standard for healthcare. Thank you for providing outstanding care and making such a positive difference in your patients' lives.
   - name: "Jasmin"
     rating: 5
     comment: |
@@ -50,8 +40,24 @@ reviews:
     rating: 5
     comment: |
       We have had nothing but excellent experiences with the team at Rejuvenation. From the very first visit, the level of professionalism was immediately apparent-  every interaction has been warm, attentive, and genuinely focused on results. The staff are knowledgeable, thorough, and clearly passionate about what they do. You feel taken care of from the moment you walk in. I have noticed real, lasting improvements and couldn’t be happier with the care. Highly recommend!
-  - name: "Colin O'Brien"
+  - name: "Marie Bonsol"
     rating: 5
     comment: |
-      Godsend since 2019, and I hope I never have to go anywhere else. I have moved twice, further and further from the clinic, and I still make the drive there to this very day. Dr. Grewal has one of the best "bed side manners" you could possibly hope to encounter. Skin, or "topical" issues can be embarrassing, but ALL of the staff here make you feel SO incredibly comfortable, that you'd swear you had known them all your life, and were the closest of friends. The atmosphere is Family, Clean, Professional, and Caring. Certainly not your everyday run of the mill clinics. No, not in any way. To Dr. Grewal, all the other amazing Doctors there, and ALL of the tremendous, distinct staff; I say, Thank you, for all the years of making me feel at home and cared for. God bless you, All.
+      I would like to express my sincere appreciation for Dr. Nanki Longowal and the entire dermatology team special mention to Abby, Amanda, Cecelia, Aisha, Allyssa, Pia From my first consultation to follow-up care, I experienced exceptional professionalism, expertise, and compassion.
+      
+      Dr. Nanki took the time to listen carefully to my concerns, thoroughly explained my diagnosis and treatment options, and ensured I felt informed and comfortable throughout the process. Their attention to detail, clinical knowledge, and genuine care for patients are truly remarkable.
+      
+      The clinic is welcoming, organized, and efficient, and every staff member I encountered was courteous and respectful. The Center was renovated as well making it more crisp modern looking. It is evident that patient-centered care is a top priority.
+      
+      I highly recommend Dr. Nanki to anyone seeking dermatologic care. Their professionalism, dedication to excellence, and compassionate approach set the highest standard for healthcare. Thank you for providing outstanding care and making such a positive difference in your patients' lives.
+  - name: "Zoe Wilson"
+    rating: 1
+    comment: |
+      I am livid. Please avoid this place if you value privacy. I work full time and do university. I was supposed to book a few wide local excisions, but expressed to the doctor two months ago that I would when I had more time to spare.
+      
+      For two months, this company called me several times, contacted my doctor 5 times, and my mother 3 times. I reiterated each time that I would book when I had time. I expressed for them to stop contacting me. They did not stop contacting me.
+      
+      Booking an appointment is not a medical emergency, my phone works fine, and I am a 24 year old grown adult. However, this company shared my private health information to my mother and contacted her repeatedly. The worst part? THEY DO NOT HAVE MY MOTHERS NUMBER ON FILE. They could not explain how they were even able to contact my mother.
+      
+      I have chosen to seek a different clinic that values client privacy and does not harass their clients and their clients families. When I brought this all up to the clinic lead today, I got a paltry "we're sorry", as if all of this was no big deal and simply a minor mistake. I am beyond uncomfortable and upset. I will not be returning, ever.
 ---

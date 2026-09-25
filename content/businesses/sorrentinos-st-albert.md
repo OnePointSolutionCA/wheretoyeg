@@ -6,7 +6,7 @@ subcategory: "italian"
 neighborhood: "St. Albert"
 address: "595 St Albert Trl, St. Albert, AB T8N 6G5"
 rating: 4.3
-review_count: 896
+review_count: 899
 tier: "featured"
 phone: "(780) 459-1411"
 website: "https://sorrentinos.com/st-albert/"

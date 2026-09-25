@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Castle Downs"
 address: "16721 127 St, Edmonton, AB T5X 5P5"
 rating: 4.1
-review_count: 844
+review_count: 845
 tier: "featured"
 phone: "(780) 476-2241"
 website: "https://order.royalpizza.ca/location/3/NewcastleCentre"

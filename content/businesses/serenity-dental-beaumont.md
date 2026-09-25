@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Beaumont"
 address: "5601 Magasin Ave #102, Beaumont, AB T4X 1V8"
 rating: 5
-review_count: 352
+review_count: 356
 tier: "featured"
 phone: "(780) 929-4138"
 website: "https://dentalserenity.ca/"
@@ -19,6 +19,10 @@ reviews:
     comment: |
       This was my second visit at Serenity Dental. The first visit was for an immediate concern.  I was booked in quickly and taken care of immediately.  Dr. Jas's assistant was fantastic. I appreciated her kind care and friendliness very much. Today's visit was equally as positive. Dr Jas and his staff are friendly and professional.
       I'm happy to recommend my family and friends to this clinic.
+  - name: "Amber Frost"
+    rating: 5
+    comment: |
+      First time at Serenity, I was very nervous. They made me feel so comfortable. Dr. Tuli is very kind and patient. Provided great information and details of next steps. Confirmed I understood before walking away. All staff are wonderful and caring. Brought my 5 year old daughter, she loved it and can’t wait to go back!
   - name: "Lisa McCormick"
     rating: 5
     comment: |
@@ -27,12 +31,6 @@ reviews:
       Big shout out to Lisa, who is so kind and very knowledgeable.
       Dr Jazz, you’re a rockstar.  Thank you so so much.
       10/10 highlights recommend.
-  - name: "Holly Welch"
-    rating: 5
-    comment: |
-      Highly recommend Dr. Jas, Sharnee and the rest of his team. They take pride in what they do, and I have a great time when I'm there,  who can say that when you're at a dentist. Lots of laughs!
-      Your comfort is a big priority,  they even let you choose what you want to watch on the television. "The office" however is a clinical favorite.
-      Great place to go to get your smile back😁.
   - name: "L S"
     rating: 5
     comment: |

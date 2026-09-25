@@ -21,7 +21,7 @@ hours:
   sunday: "8:00 AM–7:00 PM"
 photos: ["/photos/sunbake-pita-bakery-1.jpg", "/photos/sunbake-pita-bakery-2.jpg", "/photos/sunbake-pita-bakery-3.jpg"]
 rating: 4.6
-review_count: 2185
+review_count: 2192
 price_range: "$"
 amenities:
   - "Halal"
@@ -35,10 +35,6 @@ reviews:
     rating: 5
     comment: |
       Had my first Shawarma wrap today, met my work buddy there.  De-LISH!  Will definitely eat here again when in the area.  Clean and fresh...
-  - name: "Court Yard"
-    rating: 1
-    comment: |
-      Recently the manakeesh was a mess, falling below the regular standards, no consistency, im attaching pictures to show zaater which was not baked well, too oily and raw on one side and too much under cooked zaater on the other side, same with the cheese as you can see no cheese melted on one side and hard cheese under cooked on the other side. I hope they make it right like they are used to.
   - name: "Emilia Liristakis"
     rating: 5
     comment: |
@@ -55,4 +51,8 @@ reviews:
     rating: 5
     comment: |
       I have eaten at Sunbake and ordered from there a few times and it’s always great. But this time I ordered a big order for catering. They were so fast and helpful at taking my order. They knew exactly how much I’d need for my party. The food arrived on time and was delicious- just like home- and there was plenty! I couldn’t be more thankful to their team. Sunbake made our night so much easier and enjoyable!
+  - name: "Court Yard"
+    rating: 1
+    comment: |
+      Recently the manakeesh was a mess, falling below the regular standards, no consistency, im attaching pictures to show zaater which was not baked well, too oily and raw on one side and too much under cooked zaater on the other side, same with the cheese as you can see no cheese melted on one side and hard cheese under cooked on the other side. I hope they make it right like they are used to.
 ---

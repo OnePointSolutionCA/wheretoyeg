@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "205 Festival Way #560, Sherwood Park, AB T8A 4Y7"
 rating: 4.8
-review_count: 157
+review_count: 160
 tier: "featured"
 phone: "(825) 218-2888"
 website: "https://siamthaikitchen.ca/location/sherwood_park/"

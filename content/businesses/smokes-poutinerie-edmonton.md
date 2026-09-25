@@ -30,10 +30,6 @@ tags: ["edmonton", "poutine"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Ian"
-    rating: 4
-    comment: |
-      Service was excellent, and I really liked the toppings and flavour combination. The fries were a bit soggy and seemed slightly undercooked, and there was way too much gravy, so it felt more like poutine soup. Overall, I’ve had better poutine, but the staff were great.
   - name: "2SockZ"
     rating: 4
     comment: |
@@ -48,6 +44,10 @@ reviews:
       Paid for the wow size and there was hardly any cheese curds.
       Guess the extra 7 bucks was for triple gravy.
       Will not return.
+  - name: "Ian"
+    rating: 4
+    comment: |
+      Service was excellent, and I really liked the toppings and flavour combination. The fries were a bit soggy and seemed slightly undercooked, and there was way too much gravy, so it felt more like poutine soup. Overall, I’ve had better poutine, but the staff were great.
   - name: "James Fletcher"
     rating: 2
     comment: |

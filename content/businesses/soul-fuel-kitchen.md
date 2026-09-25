@@ -4,8 +4,8 @@ slug: "soul-fuel-kitchen"
 category: "restaurants"
 neighborhood: "Beaumont"
 address: "6302 29 Ave #101, Beaumont, AB T4X 0H5"
-rating: 4.8
-review_count: 66
+rating: 4.9
+review_count: 67
 tier: "featured"
 phone: "(780) 254-4343"
 website: "https://online.skytab.com/d7c04c264735bf54083b9da12bee7637"
@@ -13,14 +13,14 @@ google_maps: "https://maps.google.com/?cid=3122808838123713502&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/soul-fuel-kitchen.jpg"
 reviews:
-  - name: "John Lavapie (raellovepie)"
-    rating: 5
-    comment: |
-      We ordered the BF Pares and Sisig Pizza. The Pares was so good. The pares was sweet and savoury. The sisig pizza was also really good. It’s not oily. It’s crunchy and you can really taste the sisig. Highly recommend it!
   - name: "Mariposa Danta"
     rating: 5
     comment: |
       Found this Filipino resto here in Beaumont and it's awesome! No need to order from a far when you have cravings. We really love the dubai chewy chocolate! The owner is very accommodating. Highly reco
+  - name: "John Lavapie (raellovepie)"
+    rating: 5
+    comment: |
+      We ordered the BF Pares and Sisig Pizza. The Pares was so good. The pares was sweet and savoury. The sisig pizza was also really good. It’s not oily. It’s crunchy and you can really taste the sisig. Highly recommend it!
   - name: "Roland Ocampo"
     rating: 5
     comment: |

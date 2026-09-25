@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/strata-electrical-contracting-inc-1.jpg", "/photos/strata-electrical-contracting-inc-2.jpg", "/photos/strata-electrical-contracting-inc-3.jpg"]
 rating: 4.9
-review_count: 264
+review_count: 265
 price_range: "$$"
 amenities:
 

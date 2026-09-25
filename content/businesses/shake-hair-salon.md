@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/shake-hair-salon-1.jpg", "/photos/shake-hair-salon-2.jpg", "/photos/shake-hair-salon-3.jpg"]
 rating: 4.8
-review_count: 1346
+review_count: 1351
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,10 @@ tags: ["edmonton", "cuts-styling"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Guinevere Salmingo"
+    rating: 5
+    comment: |
+      I would love to say that I came into the salon doubting how it would go, since I haven’t had good experiences with salons before and always just got family friends cutting my hair and styling it. But it’s with great honour that my trust has been rebuilt by how well my hair tuned out. The service was beyond what I expected and left a great impression on me. My hairstylist, Michelle, was very kind and charismatic, and very knowledgeable in all kinds of things other than hair! I was happy to converse with her about not only my hair expectations but other things to keep me company and not just another client they’re meant to please. It made me feel as if I was a person, not just a client or person coming in to get your moneys worth for the month. The hair turned out amazingly and I will definitely be back again when I need a confidence boost! This has made my entire week and I regret nothing!
   - name: "Crystal Clements"
     rating: 2
     comment: |
@@ -45,18 +49,6 @@ reviews:
       
       Perfection doesn’t even cover it. If you’re on the fence, don’t be. Hollywood is exceptional
       I didn’t even grab the exceptional lady who did my brows but also perfect
-  - name: "Sandra Lazareva"
-    rating: 5
-    comment: |
-      I have been going to Alexis for years, and I honestly wouldn’t trust anyone else with my hair. She is incredibly talented, professional, and consistent every single time.
-      
-      Her balayage work is absolutely beautiful — the blending, tone selection, and dimension are always flawless and customized perfectly to my skin tone and style. When it comes to color, she truly understands how to create rich, healthy, vibrant results without compromising the integrity of the hair.
-      
-      Her haircuts are precise, modern, and grow out beautifully. And her hairstyling? Always elegant, polished, and long-lasting — whether it’s everyday glam or something more elevated.
-      
-      Beyond her skills, she creates such a welcoming, comfortable atmosphere. You leave not only looking amazing but feeling confident and taken care of.
-      
-      If you’re looking for someone who truly understands balayage, color, haircutting, and styling at a high level — she is the one. Highly recommend. ⭐⭐⭐⭐⭐
   - name: "Janine Omeasoo"
     rating: 5
     comment: |

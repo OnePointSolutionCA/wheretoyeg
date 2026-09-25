@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/sunning-family-restaurant-dim-sum-chinese-food-1.jpg", "/photos/sunning-family-restaurant-dim-sum-chinese-food-2.jpg", "/photos/sunning-family-restaurant-dim-sum-chinese-food-3.jpg"]
 rating: 4.7
-review_count: 220
+review_count: 222
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -50,6 +50,16 @@ reviews:
     rating: 4
     comment: |
       I’ve been wanting to try this place for months after hearing rave reviews. We ordered a bunch of food. The portions are huge and the food is extremely fresh. The chicken balls in particular were some of the best I’ve ever had and the ho fan was divine. My one complaint is the meat was extremely chewy and poor quality - the szechuan beef was so fatty and chewy it was barely edible and everyone who ate it struggled to chew through it. For 20$ I expected so much more. Other than that, it’s a really decent Western-style Chinese restaurant.
+  - name: "Michael Guenter"
+    rating: 5
+    comment: |
+      Second time here and it’s great again!  Generous portions, incredibly delicious.  It will be a regular stop now, and we will be getting take out for our next large family gathering.
+      
+      Details:  my wife and I are seniors so we share the Dinner for One.  No subs or additions.  Both of us completely satisfied!
+      
+      Regarding atmosphere, the jazz/easy listening music is great.  See pics for inside layout.
+      
+      Great service!
   - name: "B"
     rating: 5
     comment: |
@@ -59,10 +69,4 @@ reviews:
       2. The flavour is amazing!! Nothing is too salty or bland. It’s perfect.
       3. Portions are normal! Not heaping but not cheap!
       4. I can’t speak on customer service as I ordered but they did an amazing job packing and sealing all the containers so there were no leaks.
-  - name: "Angeline Rolland"
-    rating: 5
-    comment: |
-      Delicious food and massive portions! Our server was lovely. We ordered the dinner for 3, thinking we would have leftovers for tomorrow. Turns out we will have leftovers for days! Very good value for money. The dinner for 3 came with spring rolls and chicken fried rice and 3 entrees. We ordered the sezchuan beef, deep fried shrimp and chicken balls.
-      This may be the best sezchuan beef (ginger beef) we've both had. It was extra crispy and covered in a lightly spicy and tangy sauce. The deep fried shrimp were amazing. The order came with 12 shrimp which was much more than expected.
-      You can tell they take pride in their food. The oil they used was fresh and everything was made to order and delicious!
 ---

@@ -27,14 +27,16 @@ reviews:
     rating: 5
     comment: |
       Spearmint Cleaning did a great job. Always showing up on time, excellent communicators and cleaned everything really well. The place looked pristine after. Would definitely recommend if you need a reliable cleaning company!!
-  - name: "Anthony Le"
-    rating: 5
-    comment: |
-      Five stars for Spearmint Cleaning! They are reliable, detail-oriented, and easy to work with. If you need a janitorial service in Edmonton that actually cares about the quality of their work, this is the one.
   - name: "Zviko Piroro"
     rating: 5
     comment: |
       Spearmint cleaning has been taking care of our office. They’re super reliable, detail-oriented, and they always leave the space feeling fresh and spotless. You can tell they actually care about the work they do, which makes a huge difference. It’s one less thing for us to stress about, knowing the place is always clean and presentable for clients. If you need a professional and trustworthy team for your clinic or office, this is the one to call. I cannot recommend them enough!
+  - name: "Cassidy Leddy"
+    rating: 5
+    comment: |
+      Spearmint did a great job cleaning our office space! They were so easy to coordinate and work with. They have the best prices and they tailor their services depending on what we need.
+      You can tell how much they value their quality of work, client satisfaction and needs.
+      Thanks again!
 hours:
   monday: "9:00 AM–5:00 PM"
   tuesday: "9:00 AM–5:00 PM"

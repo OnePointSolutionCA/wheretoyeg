@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/stratica-dermatology-1.jpg", "/photos/stratica-dermatology-2.jpg", "/photos/stratica-dermatology-3.jpg"]
 rating: 4.7
-review_count: 3272
+review_count: 3282
 price_range: "$$"
 amenities:
 
@@ -36,19 +36,18 @@ reviews:
     rating: 5
     comment: |
       I had such a wonderful experience at this dermatology clinic. The staff were welcoming, professional, and made me feel comfortable from the moment I arrived. Dr. Soong was incredibly thorough, kind, and caring throughout my appointment. She took the time to carefully explain everything, answer all of my questions, and made sure I felt informed and reassured. I never felt rushed and truly appreciated the level of care and attention she provided. Her compassion, professionalism, and expertise were evident throughout the visit. I highly recommend this clinic to anyone looking for exceptional dermatological care.
-  - name: "Desire Johnson"
-    rating: 5
-    comment: |
-      Our family had such a great experience in this clinic! Our 3yr old daughter saw Dr. Andrew Ferrier for some concerns with her skin. All of the staff we saw were friendly and tried to make connections with her (including bonding over a love of Bluey). It was convenient to use their in-house pharmacy to fill the recommended prescriptions.
-      
-      While at the clinic I booked a free consultation to discuss laser hair removal. Kayla has been absolutely fantastic to work with. I have appreciated her expertise and her ability to fully understand my desired outcome and help me achieve it. She took a lot of care in educating me and making my experience a comfortable one.
   - name: "Jasmine Wityshyn-Bielecki"
     rating: 5
     comment: |
       Very happy with my experiences so far. They were quick to get me booked after my family doctor referred me. It was easy to change my appointment when the original date no longer worked for me. The reception staff, nursing staff and doctor have been friendly and knowledgeable.
-  - name: "Kuljit Kaur"
+  - name: "Karen Loukota"
     rating: 5
     comment: |
-      I had an amazing experience with Caren Tebbutt, RN. I got filler and Botox for my forehead. Caren was professional, respectful of my time, and made me feel comfortable throughout the entire appointment.
-      She explained the procedure clearly, answered all of my questions, and made sure I understood what to expect. Her attention to detail and caring approach gave me a lot of confidence. The service was excellent from start to finish, and I highly recommend Caren to anyone looking for a skilled and knowledgeable nurse injector.
+      I went to the downtown location and it was seamless from the time I walked in the door. I had an excellent experience with Dr. Ferrier. He was punctual, attentive, and genuinely listened as I explained symptoms I’ve been dealing with for six years. He’s the first Dermatology specialist who truly took action instead of brushing things off, and that alone has given me a sense of hope I haven’t felt in a long time. I’m grateful for his thoroughness and compassion, and I look forward to seeing him again.
+      Thank you,
+      Karen
+  - name: "Kevin Medin"
+    rating: 5
+    comment: |
+      I had an outstanding experience at Stratica Dermatology! From the moment I arrived, everything was efficient and well organized, with virtually no wait time and the added convenience of free parking. The doctor was patient, knowledgeable, and took the time to explain my treatment options while providing an effective solution for my concerns. Before I left, a follow-up appointment was already booked, and I left feeling confident I was receiving excellent care. Highly recommend!
 ---

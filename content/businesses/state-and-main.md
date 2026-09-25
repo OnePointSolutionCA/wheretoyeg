@@ -4,8 +4,8 @@ slug: "state-and-main"
 category: "restaurants"
 neighborhood: "Spruce Grove"
 address: "151 Century Crossing Unit 300, Spruce Grove, AB T7X 0C8"
-rating: 4.1
-review_count: 1124
+rating: 4.2
+review_count: 1143
 tier: "featured"
 phone: "(780) 948-1445"
 website: "https://www.stateandmain.ca/en/locations/ab/spruce-grove/151-century-crossing"
@@ -31,10 +31,10 @@ reviews:
     rating: 5
     comment: |
       Kelsey is always amazing. By far our favourite and most attentive server. The food is so good but her service keeps us coming back. She remembers us and remembers when the kitchen misses little things - like garlic toast or dip!
-  - name: "K Schneider"
+  - name: "Eunice Cutting"
     rating: 5
     comment: |
-      We came here for the first time tonight for my birthday & had such an amazing experience. I wish we got our waitresses name!! She gave us the most outstanding service & even drew cute flowers on our receipt! I cannot say enough good things about this place and will for sure come back.
+      My husband and I visited on our way through to Edmonton. We had the most lovely server named Ashley who took excellent care of us. Her service was top notch and we couldn’t be happier with our experience. We will certainly be back soon! Thank you Ashley!
 hours:
   monday: "11:00 AM–12:00 AM"
   tuesday: "11:00 AM–12:00 AM"

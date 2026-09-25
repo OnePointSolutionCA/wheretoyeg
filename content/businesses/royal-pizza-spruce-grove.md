@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Spruce Grove"
 address: "98 Longview Dr #12, Spruce Grove, AB T7X 0W3"
 rating: 4.3
-review_count: 375
+review_count: 376
 tier: "featured"
 phone: "(587) 286-1286"
 website: "https://order.royalpizza.ca/location/13/SpruceGrove"

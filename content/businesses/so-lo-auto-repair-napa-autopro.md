@@ -14,10 +14,6 @@ google_maps: "https://maps.google.com/?cid=6736947861164567211&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/so-lo-auto-repair-napa-autopro.jpg"
 reviews:
-  - name: "Mark Judy"
-    rating: 5
-    comment: |
-      Fantastic and very thorough service on my daughter’s car! Thanks very much! 💯
   - name: "vicky szymanski"
     rating: 5
     comment: |
@@ -38,6 +34,12 @@ reviews:
     rating: 5
     comment: |
       So-Lo is exactly the sort of auto repair team you hope to find. They are super supportive and responsive to any issue you have. And they give you honest assessments of the issue, without ever feeling like they are trying to rip you off or do extra work just because they could. Every time they have worked on our vehicles, from installing a block heater, assessing the state of a transmission or general check up and repair, they always go above and beyond with their support. I am so glad we found them.
+  - name: "Max"
+    rating: 5
+    comment: |
+      Fantastic business, amazing customer service, wow! Bill and his staff go out of their way to ensure the job is well done and at a fair price. I have been maintaining both my family vehicles here for 4 years, a great experience every time, in fact, I love them so much that I almost wish my car broke down more often, that is how great they are!
+      
+      Just recently Seth really went out of his way to do some research on my Mazda handle to make sure the job could be done at the cheapest rate. Not only that but he came up with an interim solution when I arrived. Honestly, it is so difficult to find an honest, authentic business that is focused on good work and the customer's needs. I can assure you, that you will find that here. Hand on heart you will not be disappointed. Bill, a massive thank you to your and your team for your continued work year round!
 hours:
   monday: "8:00 AM–5:30 PM"
   tuesday: "8:00 AM–5:30 PM"

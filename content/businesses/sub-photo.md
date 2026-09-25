@@ -12,7 +12,7 @@ website: "https://subphoto.ca/"
 google_maps_url: "https://maps.google.com/?cid=16177597552739278433&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "10:00 AM–5:00 PM"
-  tuesday: "11:00 AM–6:00 PM"
+  tuesday: "11:00 AM–5:00 PM"
   wednesday: "9:30 AM–5:00 PM"
   thursday: "9:30 AM–5:00 PM"
   friday: "9:30 AM–4:30 PM"
@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/sub-photo-1.jpg", "/photos/sub-photo-2.jpg", "/photos/sub-photo-3.jpg"]
 rating: 4.8
-review_count: 261
+review_count: 262
 price_range: "$$"
 amenities:
 

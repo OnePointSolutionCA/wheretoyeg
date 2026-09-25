@@ -24,6 +24,10 @@ reviews:
       We had an amazing experience with Robin Ben Photography for our newborn baby photoshoot. Richi did a fantastic job and really knows how to handle babies with so much care and patience. Both of them were incredibly patient throughout the entire session and never made us feel rushed at any point.
       
       The whole experience was very comfortable and enjoyable. They are professional and friendly at the same time, which made the session even more special for us. The final results were absolutely beautiful, and we couldn’t be happier with the pictures. Highly recommended for newborn photography! 😊
+  - name: "Swati Viviyan"
+    rating: 5
+    comment: |
+      Great experience with our newborn session! The photographers are a lovely, patient couple and were so cooperative throughout the shoot. They made the whole process smooth and stress-free. Highly recommend them and will definitely book again in the future!
   - name: "Raman Arora"
     rating: 5
     comment: |
@@ -32,10 +36,6 @@ reviews:
     rating: 5
     comment: |
       We had a wonderful experience with our baby’s photo shoot! The photographer was kind, patient, and made us feel completely at ease. The atmosphere was warm and welcoming, and the photos turned out absolutely beautiful. Highly recommend!
-  - name: "Gurpreet Singh"
-    rating: 5
-    comment: |
-      You did a great job capturing the cake smash of our daughter. You made the photoshoot fun for us and her as well, she felt so comfortable. We will treasure these memories forever. Thank you for making our experience and day so special.
 hours:
   monday: "Closed"
   tuesday: "Closed"

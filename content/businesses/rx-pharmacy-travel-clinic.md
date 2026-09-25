@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/rx-pharmacy-travel-clinic-1.jpg", "/photos/rx-pharmacy-travel-clinic-2.jpg", "/photos/rx-pharmacy-travel-clinic-3.jpg"]
 rating: 5
-review_count: 293
+review_count: 296
 price_range: "$$"
 amenities:
 

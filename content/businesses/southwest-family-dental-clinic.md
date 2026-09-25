@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Windermere"
 address: "1719 Towne Centre Blvd NW, Edmonton, AB T6R 0T7"
 rating: 4.9
-review_count: 409
+review_count: 408
 tier: "featured"
 phone: "(780) 435-5515"
 website: "https://southwestdental.ca/"

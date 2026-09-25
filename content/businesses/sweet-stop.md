@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/sweet-stop-1.jpg", "/photos/sweet-stop-2.jpg", "/photos/sweet-stop-3.jpg"]
 rating: 5
-review_count: 260
+review_count: 266
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -34,10 +34,6 @@ reviews:
     rating: 5
     comment: |
       excellent customer service the staff is so sweet. prices are reasonable. The atmosphere is very nice and clean a lot of tables to sit. very organised and well maintained. Delicious desserts my favourite is the croffles… ferrocer rocher
-  - name: "Taleb Hank"
-    rating: 5
-    comment: |
-      The best sweats I have ever had for the best price. I have never met such nice workers absolutely 100% hands down the best customer service I have ever experienced. 10/10 I recommend everyone comes here!
   - name: "asmaa kadri"
     rating: 5
     comment: |
@@ -50,4 +46,8 @@ reviews:
     rating: 5
     comment: |
       Stunning place to eat , friendly place to have desert , amazing service , a must to try !!!! If you love sweet stuff this is the place for you
+  - name: "Steven Chen"
+    rating: 5
+    comment: |
+      Very delicious and unique flavours. I love that everything is all made to order and made fresh in front of your eyes. Definitely worth a try!
 ---

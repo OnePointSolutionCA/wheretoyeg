@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/rosso-pizzeria-1.jpg", "/photos/rosso-pizzeria-2.jpg", "/photos/rosso-pizzeria-3.jpg"]
 rating: 4.5
-review_count: 1428
+review_count: 1430
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -48,16 +48,20 @@ reviews:
     rating: 5
     comment: |
       The cutest little pizza spot in town! The warmth and friendliness of the servers (I had Lana and Maya helping me) really elevated the experience. Definitely recommend the patio (though don’t forget bug spray). Pictured are the margarita pizza and the house cocktail.
-  - name: "Paige"
-    rating: 2
-    comment: |
-      I have never left a negative review before, but this experience genuinely disappointed me. As a restaurant manager, I know firsthand that mistakes happen, restaurants get busy, and no service is ever perfect. I usually give a lot of grace because I've been on the other side of it. However, there is a difference between being busy and being disrespectful.
-      The servers are very visible throughout the restaurant, so I would suggest that if they want to gossip or mock guests, they do it somewhere customers can't clearly see. A dirty blonde server was openly speaking negatively and making faces with my server, who was very tall with dark black hair. They were also spending time on their phones instead of paying attention to their tables, and it was uncomfortable to watch.
-      Our table was never checked on after our food arrived. My partner and I ended up having to walk to the bar ourselves just to ask for simple things because our server dropped off our food and walked away before we even had a chance to ask for Parmesan and chili flakes. When we finally did ask, they rolled their eyes, acted inconvenienced, and were neither welcoming nor friendly.
-      The food was genuinely amazing, which makes the poor service even more disappointing. Great food can only make up for so much when you're made to feel like an inconvenience as a guest. Unfortunately, because of the service we received, we won't be returning and wouldn't feel comfortable recommending this restaurant to others.
   - name: "Kristina"
     rating: 5
     comment: |
       I came here for dinner Saturday around 5-7 PM and had a great experience! We didn’t have a reservation, and there were a few people ahead of us, so we waited a couple of minutes while they were getting seated. The hostess was very kind and welcoming, helped us with the parking information and showed us where to register our license plate. We initially chose to sit outside but later asked to move inside, she kindly accommodated our request and helped us!
       Our server was also amazing. She was very friendly, attentive, and consistently checked in to make sure everything was good. My partner and I shared a salad, then had two pizzas. It took a little while, but we were in no rush so we didn’t mind. The food was pretty good overall, although my pizza was a little burnt.The environment was upbeat, the music was great, and the employees all seemed happy and professional. We’ll definitely be back!
+  - name: "Rayan Elkhoja"
+    rating: 5
+    comment: |
+      I always love coming to Russo for a bite to eat.
+      The atmosphere is consistently warm and cozy, and the staff are incredibly welcoming.
+      
+      The food is absolutely outstanding and tastes just like authentic meals in Italy.
+      Every dish is prepared with great care and full of flavour, making each visit a memorable experience.
+      
+      I highly recommend Rosso for a gathering with friends or a special date night.
+      It is one of my favourite places to go in Edmonton 🤍
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "10:30 AM–7:00 PM"
 photos: ["/photos/spice-centre-1.jpg", "/photos/spice-centre-2.jpg", "/photos/spice-centre-3.jpg"]
 rating: 4.3
-review_count: 1185
+review_count: 1187
 price_range: "$$"
 amenities:
 

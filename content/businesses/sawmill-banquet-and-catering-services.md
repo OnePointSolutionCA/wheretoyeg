@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/sawmill-banquet-and-catering-services-1.jpg", "/photos/sawmill-banquet-and-catering-services-2.jpg", "/photos/sawmill-banquet-and-catering-services-3.jpg"]
 rating: 4.6
-review_count: 431
+review_count: 432
 price_range: "$$"
 amenities:
 

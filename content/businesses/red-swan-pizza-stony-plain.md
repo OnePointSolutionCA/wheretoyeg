@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Spruce Grove"
 address: "4911 44 Ave unit 111, Stony Plain, AB T7Z 1V5"
 rating: 4.9
-review_count: 281
+review_count: 282
 tier: "featured"
 phone: "(587) 405-6390"
 website: "https://stonyplain.redswanpizza.ca/zgrid/proc/site/mobile/start.jsp"

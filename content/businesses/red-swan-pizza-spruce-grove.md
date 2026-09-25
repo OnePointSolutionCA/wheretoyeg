@@ -28,14 +28,6 @@ reviews:
     rating: 5
     comment: |
       Shoutout to Gunjan and Apexa  for making an awesome pizza! 🍕 Fresh, delicious, and cooked perfectly. Great service and great vibes. Bundle of thanks & I will definitely coming back again!
-  - name: "Ash Khinda"
-    rating: 1
-    comment: |
-      I am extremely disappointed with my experience at Red Swan Pizza. We are regular customers, but this order was unacceptable. They forgot to add the pineapple topping we paid for, and the paneer on the pizza was burnt, which completely ruined the taste.
-      
-      When I called to resolve the issue, instead of apologizing or offering a solution, the staff member was rude, raised their voice, and simply said they couldn’t do anything. Good customer service is just as important as good food, and this experience was very disappointing.
-      
-      It’s frustrating to receive an incorrect order and then be treated disrespectfully when trying to get it fixed. Unfortunately, because of both the poor quality of the pizza and the lack of customer service, I will not be visiting this location again.
   - name: "Uttam Mehta"
     rating: 5
     comment: |
@@ -45,6 +37,14 @@ reviews:
       Value for money-10/10
       Staff friendliness10/100(i wrote 100 it is not a mistake)
       I would highly recommend this place.
+  - name: "Ash Khinda"
+    rating: 1
+    comment: |
+      I am extremely disappointed with my experience at Red Swan Pizza. We are regular customers, but this order was unacceptable. They forgot to add the pineapple topping we paid for, and the paneer on the pizza was burnt, which completely ruined the taste.
+      
+      When I called to resolve the issue, instead of apologizing or offering a solution, the staff member was rude, raised their voice, and simply said they couldn’t do anything. Good customer service is just as important as good food, and this experience was very disappointing.
+      
+      It’s frustrating to receive an incorrect order and then be treated disrespectfully when trying to get it fixed. Unfortunately, because of both the poor quality of the pizza and the lack of customer service, I will not be visiting this location again.
   - name: "april mcgrath"
     rating: 5
     comment: |

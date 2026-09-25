@@ -36,6 +36,10 @@ reviews:
       Zana truly runs such an amazing business and we could feel it even from our first tasting of the menu when the planning process started. We also absolutely loved the family style service and the ability to create a custom menu that we wanted.
       
       There is so much more that could be said but ultimately we would highly highly recommend anyone work with Stir because they are sure to do an amazing job!
+  - name: "Macy Thompson"
+    rating: 5
+    comment: |
+      I can not even put into words how amazing Zana and all of her staff at Stir Catering are. From the intimate and delicious tasting night held at Zanas amazing industrial kitchen- where she offered to make many custom dishes, to her personally coming to check on us during our wedding night- she made it all perfect. Not to mention the food itself is INCREDIBLE. We had the red wine braised short rib with perogy mash and blackened spiced chicken with coconut rice and mango salsa. Both we to DIE for. Amazing service and kind staff as well. We will be sure to use Zana again for any future catering needs.
   - name: "Sydney Aubin"
     rating: 5
     comment: |
@@ -48,10 +52,6 @@ reviews:
     rating: 5
     comment: |
       My wife Caylee and I had the pleasure of working with Zana and her team at Stir Catering for our wedding this past June. The food was incredible and we received countless comments from our guests on how delicious the meal was. Zana is a true professional and extremely organized - the entire process from start to finish was absolutely seamless. The service staff were also very attentive and polite. We would recommend Zana and Stir Catering for any of your catering needs without hesitation. Thanks again!
-  - name: "Macy Thompson"
-    rating: 5
-    comment: |
-      I can not even put into words how amazing Zana and all of her staff at Stir Catering are. From the intimate and delicious tasting night held at Zanas amazing industrial kitchen- where she offered to make many custom dishes, to her personally coming to check on us during our wedding night- she made it all perfect. Not to mention the food itself is INCREDIBLE. We had the red wine braised short rib with perogy mash and blackened spiced chicken with coconut rice and mango salsa. Both we to DIE for. Amazing service and kind staff as well. We will be sure to use Zana again for any future catering needs.
   - name: "Kimberly Baker"
     rating: 5
     comment: |

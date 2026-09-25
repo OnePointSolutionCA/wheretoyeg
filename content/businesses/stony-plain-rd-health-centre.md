@@ -19,8 +19,8 @@ hours:
   saturday: "11:00 AM–6:00 PM"
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/stony-plain-rd-health-centre-1.jpg", "/photos/stony-plain-rd-health-centre-2.jpg", "/photos/stony-plain-rd-health-centre-3.jpg"]
-rating: 4.7
-review_count: 23
+rating: 4.5
+review_count: 25
 price_range: "$$"
 amenities:
 

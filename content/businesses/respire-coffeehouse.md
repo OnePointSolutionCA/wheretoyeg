@@ -24,18 +24,6 @@ reviews:
     rating: 5
     comment: |
       Would have missed the turn off into the parking lot if not for their sandwich board by the roadside. I remembered the feeling as I stepped inside the coffeehouse. It was such a beautiful place! It wasn't busy and wow, comfy couches everywhere, a fireplace, and lots of space for group meetings. We ordered lavender London Fog that day and it was so good! My friend had the cinnamon roll and said it was yummy! I've been back and I'll return many more times. The staff was really helpful and pleasant.
-  - name: "Michael (IG mike.slikes)"
-    rating: 5
-    comment: |
-      I wouldn't have guessed this place is a cafe from outside because it's owned by the chiropractor clinic next door
-      
-      The space was meant for client waiting...2.5 years ago they just turn it into a cafe
-      
-      Regular menu but this is the seasonal one, and I love their apple fritters
-      
-      These wheels were meant for moving the tables easier  because you could actually rent this space for market Meeting wedding parties
-      
-      They did it in Christmas and probably one in spring
   - name: "Brad Faulkner"
     rating: 5
     comment: |
@@ -50,6 +38,19 @@ reviews:
     rating: 5
     comment: |
       Nice little gem of a coffee house in the southeast warehouse district. They need larger signage as I’ve been passing by this place for a year now. My loss. I had a caramel latte and a day old pastry 🥐 bag. Great deal on day old astray at 5 bucks. Everything was a step up. Flaky buttery croissants and breakfast bakes. Rich flavorful lattes. Great setup with that warehouse coffee bar feel. Comfy sofas and lots of space. I highly recommend this coffee house. You won’t regret it.
+  - name: "Aline Desrosiers"
+    rating: 5
+    comment: |
+      Found some time after some errends to treat myself to another coffee shop exploration.
+      This place showed up on my map and it intrigued me. Located in a semi industrial area, it's had high ratings made me take the trip to explore it myself.
+      Sign out front helped me find the place as it's not your conventional location or shop. There's ample parking though, including handicap parking.
+      Once inside, there's a desk as there' a Chiropractor's office also on location. Once you turn left though, the space opens up and it's high ceiling, string lights, plants and black decor is modern and spacious.
+      When I arrived at 2:20pm, I was the first person there and had the place to myself. Took advantage of this and took some nice pictures of the space. Was told by the barista that the space can also be rented out for events! With the parking and space inside, this would be a great choice for some beautiful events.
+      They have a modern coffee mashine and a nice selection of drinks. They also have food from pastries, cookies and sandwiches.
+      Decided on an Iced Americano, which was served in a strawless cup and a cute sticker with the word SMILE. Myself and another woman were also offered a sample of a cookie too when we got our drinks. Little things like this, I soo appreciate.
+      There's a large garage door that let's in some nice natural light, and I can also see them opening it up on nice days too.
+      Look forward to bringing friends here this summer!
+      And the prices are great!!!!
 hours:
   monday: "8:00 AM–4:00 PM"
   tuesday: "8:00 AM–4:00 PM"

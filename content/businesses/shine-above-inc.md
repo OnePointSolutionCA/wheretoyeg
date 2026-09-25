@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/shine-above-inc-1.jpg", "/photos/shine-above-inc-2.jpg", "/photos/shine-above-inc-3.jpg"]
 rating: 4.8
-review_count: 309
+review_count: 310
 price_range: "$$"
 amenities:
 
@@ -52,8 +52,8 @@ reviews:
       I had an excellent experience with shine above!
       
       Olivia and Bavhik made it super easy to book the appointment,  Vlad and his partner did a great job cleaning the gutters. I recommend this business.
-  - name: "Shelley Gordon"
+  - name: "Mark Pauline"
     rating: 5
     comment: |
-      From the first interaction with booking, right through to calling after the job was completed to make sure I could add a tip….was friendly and so professional! They all were excellent and will be going back every time I need a cleaning service. Thank you for taking such good care of my work request!
+      What an amazing job that your crew did on our very neglected downspouts.  They were so plugged that he even had to take off the elbow so that enough pressure could clean them out.  First rate job also on our many windows.  Price was very fair.
 ---

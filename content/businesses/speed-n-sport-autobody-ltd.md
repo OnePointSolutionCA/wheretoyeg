@@ -46,14 +46,14 @@ reviews:
       I will tell all my friends & family to come to Speed N Sport Autobody.
       
       My Mustang got hit and I was so upset. I called Ford & they recommended to take my vehicle to Speed and Sport. I read the Google reviews and I’m so happy I brought my vehicle to get fixed from Anthony. From the beginning Anthony was very friendly and welcoming. When I saw the vehicle after it was repaired I couldn’t believe how incredible it looked. I also had a small dent from previous and  Anthony took care of that. I would recommend Speed and Sport to anyone who wants excellent service. Also when I picked up the car it was nice and clean. Thank you Speed and Sport.
+  - name: "Mark Deady"
+    rating: 5
+    comment: |
+      I had a guy back into my car, he sent me to Speed and Sport to have my car fixed and very glad he did as the service and finished work was excellent! I highly recommend them and will refer friends in the future. Mark
   - name: "Chad Aboughoushe"
     rating: 5
     comment: |
       Right from the start I knew I made the right choice bringing my Ford Explorer to Speed N Sport. The level of service was beyond great and I have nothing but amazing things to say. I highly recommend Speed N Sport to anyone who is looking for auto body repair.
       
       Anthony went out of his way to make sure everything was taken care of seemlessly and the best part is my vehicle looks brand new again!
-  - name: "Shawn Element"
-    rating: 5
-    comment: |
-      Anthony was great to deal with, referred to by another local shop, Anthony took on my paint job and did it with pride. It couldn’t have turned out any better than what it did. Absolutely love the finished product. Had him take the chrome platinum badge and turn it to gloss black, as a part of a chrome delete off my truck. I will return to Anthony with any new projects, highly recommend.
 ---

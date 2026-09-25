@@ -26,14 +26,14 @@ reviews:
     rating: 5
     comment: |
       Great experience! The staff is friendly and professional, and the dentist is very gentle and explains everything clearly. The clinic is clean and well-organized. Highly recommend for anyone looking for quality dental care!
+  - name: "Andrea Chalifoux"
+    rating: 5
+    comment: |
+      I always have a great experience here. Staff are friendly and knowledgeable and the dentists make sure you are comfortable and know what they are doing step by step during procedures.
   - name: "Luna C"
     rating: 5
     comment: |
       I had a great experience at Spruce Ridge Dental. They took their time to explain everything they were doing. I recommend this place.
-  - name: "Dennis Carpio"
-    rating: 5
-    comment: |
-      Just had a two-session root canal and honestly, I’m super impressed. I was expecting some pain, but it was totally pain-free the whole way through! The dentist and his dental assistant were really nice and made me feel comfortable the entire time. Super friendly, down-to-earth, and they explained everything clearly. They made what could’ve been a stressful experience surprisingly easy. Definitely recommend them if you need any dental work done.
 hours:
   monday: "10:00 AM–7:00 PM"
   tuesday: "8:00 AM–4:00 PM"

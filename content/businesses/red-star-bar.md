@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/red-star-bar-1.jpg", "/photos/red-star-bar-2.jpg", "/photos/red-star-bar-3.jpg"]
 rating: 4.5
-review_count: 458
+review_count: 460
 price_range: "$$"
 amenities:
   - "Dine-In"

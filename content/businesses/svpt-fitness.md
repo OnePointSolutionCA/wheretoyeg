@@ -54,6 +54,10 @@ reviews:
       The whole SVPT team is welcoming, organized, and clearly passionate about what they do. The quality of the coaching and the atmosphere they’ve created is top-tier.
       
       I’d highly recommend Nino and SVPT to anyone looking to improve their fitness, stay accountable, and actually enjoy the process.
+  - name: "Kevin B"
+    rating: 5
+    comment: |
+      My wife and I have had an excellent experience training with Nino at SVPT Fitness for almost a year now. He creates customized workout plans based on each of our individual goals and continually adjusts them as we progress. Nino is an outstanding coach and motivator who keeps us accountable, challenged, and focused on proper technique. Thanks to his guidance, we've seen significant improvements in our overall fitness, strength, and confidence. We highly recommend Nino to anyone looking for a knowledgeable, supportive, and results-driven personal trainer.
   - name: "Aurora Harper"
     rating: 5
     comment: |
@@ -68,8 +72,4 @@ reviews:
     rating: 5
     comment: |
       My partner and I have been working with Nino for almost half a year now, and our experience has been amazing! Nino has been great to work with, patient and really passionate about what he does. He prepared us well for our Inca Trail adventure! (And squat toilets) it is also great to see so many different people across different age groups and fitness level working hard at the gym. We highly recommend SVPT and Nino!
-  - name: "Graham Steel"
-    rating: 5
-    comment: |
-      This is an excellent gym with a great atmosphere and top-notch equipment.  Nino Cruz is an great personal trainer--professional, knowledgable, motivating and he genuinely cares about his clients' success.  I've made consistent progress working with him and would highly recommend both Nino and SVPT fitness.
 ---

@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Spruce Grove"
 address: "51432 Range Rd 273, Spruce Grove, AB T7Y 1H7"
 rating: 4.6
-review_count: 139
+review_count: 141
 tier: "featured"
 phone: "(780) 963-5235"
 website: "https://www.spruceparkranch.com/"

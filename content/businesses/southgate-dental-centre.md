@@ -14,10 +14,6 @@ google_maps: "https://maps.google.com/?cid=1567781301060070944&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/southgate-dental-centre.jpg"
 reviews:
-  - name: "Shilpa S Sanal"
-    rating: 5
-    comment: |
-      I have been coming to this dental clinic for past 2 years , and my experience has consistently been excellent. Dr. Tan and team and Anu is always welcoming and genuinely caring which makes my each visit so comfortable. Highly recommended!!
   - name: "Marie Biatingo"
     rating: 5
     comment: |
@@ -32,14 +28,25 @@ reviews:
       A big shoutout as well to the wonderful hygienists, Krista and Sarah, who make routine cleanings thorough yet comfortable. Their friendly personalities and attention to detail truly stand out.
       
       Overall, the entire team at Southgate Dental Clinic is professional, caring, and dedicated to providing excellent patient care. I’m truly grateful to be one of their patients and highly recommend this clinic to anyone looking for a trustworthy and compassionate dental team.
-  - name: "Shelley Shaw"
+  - name: "Cathy Way"
     rating: 1
     comment: |
-      I had been a patient of Southgate Dental for many years and trusted in them for my oral health.  In September 2024, I had a crown preparation and immediately after experienced an increase in saliva production with resulting sores in my mouth.  I went to my dentist to find the root cause of the problem, but the dentist at Southgate Dental and the oral pathologist associated with Southgate Dental simply advised me to increase the dosage of a medication used to dry up saliva which I had used before without success.  I am thankful for Donison Dental, whose holistic reproach has returned my oral health back to me.  Granted, it has taken a team of oral specialists, an oral surgery, intense physiotherapy and an ear, nose and throat specialist to do so. Dentistry is more than teeth cleanings, fillings, root canals, and crowns.
+      Dear Dr Hamm. CANADIAN DENTAL CARE PLAN
+      My experience with MARIA WAS “AWFUL”. she sits at the desk…. She is is noted on website  as working for Southgate Dental Center for many years.
+      This lady “needs to go” nasty, rude, seems to take things personally…if you question her insurance submission. Maybe Retire Maria
+      She is not a fan of the paperwork necessary to SUPPORT YOU as a DENTAL PATIENT with CANADIAN DENTAL CARE PLAN.
+      Had to deal with her for CPCP submission which became “submissions”.after speaking with
+      Sun Life …. MARIA did not complete paperwork and attachments properly. Spoke to Dr Lau who rudely said she has full faith in Maria….
+      Dr Lau ….,Also communicating that she really NOT iinterested in dealing with CDCP (Canadian Dental Care Plan) NEW PATIENT BE AWARE
+      So in closing ….  not providing professional patient care for this government provided program. Dr Lau I feel her main objective is to grab patients money…Dr Lau,  even has a rehearsed SALES PITCH  about your Windshield needed extra insurance….same as dental care. I heard this 3 times from her. She’s an owner as she stated. Not very professional
   - name: "Julia Vu"
     rating: 5
     comment: |
       My family and I have been patients of Dr. Tan for years now, and I have nothing but good things to say about him and his team. The staff are all friendly, professional, caring, and actually take the time to get to know you and make you feel at ease. I'll be getting married later this year and Dr. Tan went out of his way to help me feel confident in my smile before the big day, without asking for anything in return. I'm extremely grateful; thank you to everyone for taking care of us all these years!
+  - name: "Shilpa S Sanal"
+    rating: 5
+    comment: |
+      I have been coming to this dental clinic for past 2 years , and my experience has consistently been excellent. Dr. Tan and team and Anu is always welcoming and genuinely caring which makes my each visit so comfortable. Highly recommended!!
   - name: "Wild Rose"
     rating: 1
     comment: |

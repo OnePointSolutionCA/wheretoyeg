@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "Spruce Grove"
 address: "183 Hwy 16A #111, Spruce Grove, AB T7X 4P9"
 rating: 4.6
-review_count: 553
+review_count: 558
 tier: "featured"
 phone: "(825) 220-7825"
 website: "https://www.stackedpancakehouse.ca/restaurant/spruce-grove-hwy-16"
@@ -14,6 +14,22 @@ google_maps: "https://maps.google.com/?cid=7982949586595238147&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/stacked-pancake-and-breakfast-house.jpg"
 reviews:
+  - name: "On The Road Again"
+    rating: 5
+    comment: |
+      ⭐️⭐️⭐️⭐️⭐️ Family breakfast
+      Friday Aug 28th.2026
+      During our visit from Ajax Ontario.
+      We had a wonderful family breakfast at the Spruce Grove location this morning. Table full, everyone happy.
+      A very special treat and a wonderful gesture, Shaan and our daughter in law Andrea the host, thank you for bringing joy and love into our lives with such a lovely surprise from you!
+      
+      We tried the classic buttermilk pancakes with maple syrup and powdered sugar, plus the Cinnamon Roll pancakes — fluffy, loaded with cinnamon crumble, caramel sauce, vanilla icing, served with whipped cream. Absolutely indulgent. Also had the savory plates: Mexican-style migas scramble with pico de gallo, avocado, eggs, hashbrowns, and toast.
+      
+      Service was fast and very friendly even though it was busy.
+      Coffee was hot and refills were quick, booths are comfortable, and they handled our larger family group.
+      Clean, bright, easy parking.
+      
+      Best breakfast spot in Spruce Grove for families. Highly recommend!
   - name: "Gordon Alexander"
     rating: 5
     comment: |
@@ -33,10 +49,6 @@ reviews:
     rating: 5
     comment: |
       I went for brunch on a Saturday during the Christmas break. I imagine this was an unusually busy time for this restaurant, but they didn't break a sweat. There were two servers manning 10 tables when we walked in, and most of those tables ordered around the same time. The kitchen pumped out hot food, fast, and the waitstaff made sure our drinks were always full. I wouldn't recommend getting a smoothie, it was just expensive juice. Everything else was top notch, from the guac chicken wrap to the traditional breakfast - I can't wait to go back and try more of the mile long menu!
-  - name: "Betty Sveinson"
-    rating: 5
-    comment: |
-      Denise was a friendly courteous and efficient server. She helped me locate a provider in Stony Plain that would help me in a gift getting mission. Food was excellent. Served quickly. Portions are large. More than enough for any man. Coffee served immediately upon seating. I definitely would come back here.9
 hours:
   monday: "7:00 AM–3:00 PM"
   tuesday: "7:00 AM–3:00 PM"

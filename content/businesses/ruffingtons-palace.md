@@ -36,7 +36,7 @@ reviews:
     comment: |
       I never took my dog to a groomer before, I love that they only take one appointment at a time they don’t overbook book, no need to kennel. He was a a little scared, and he had Matt’s , long nails, a lot of hair in his ears.  They were so kind and did an amazing job,  he is perfect now.
       Thank you so much Ruffingtons place. I don’t need to avoid a grooming anymore because I trust you fully with Neo
-  - name: "Leah McRorie"
+  - name: "L McR"
     rating: 5
     comment: |
       Brought our Charlie for his first professional hair cut today. Customer service was excellent and Charlie looked so handsome when I arrived to pick him up. Thank you ladies for your awesome skills and service. See you soon.

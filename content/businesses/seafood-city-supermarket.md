@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–9:00 PM"
 photos: ["/photos/seafood-city-supermarket-1.jpg", "/photos/seafood-city-supermarket-2.jpg", "/photos/seafood-city-supermarket-3.jpg"]
 rating: 4.1
-review_count: 1898
+review_count: 1900
 price_range: "$$"
 amenities:
 

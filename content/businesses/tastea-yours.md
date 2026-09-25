@@ -13,6 +13,12 @@ google_maps: "https://maps.google.com/?cid=16418977247861392374&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/tastea-yours.jpg"
 reviews:
+  - name: "First Last"
+    rating: 5
+    comment: |
+      TasTea Yours is an absolute gem in St. Albert! From the moment you walk in, the atmosphere is warm and welcoming. They serve amazing, handcrafted bubble tea and smoothies with fun options like rainbow jelly and classic brown sugar.
+      
+      What really sets this place apart is the incredible staff. They are so friendly and make you feel right at home. Whether you are grabbing a quick bite, trying out their daily specials, or meeting a friend for a refreshing drink, it is a wonderful local business worth supporting. Highly recommended!"
   - name: "Joyfully Jada"
     rating: 5
     comment: |
@@ -29,14 +35,6 @@ reviews:
     rating: 5
     comment: |
       Okinawa brown sugar milk tea was excellent. We ordered a too good to go bag and got to sample a few of their food items, berry clafoutis was delicious. Awesome friendly service from Manny.
-  - name: "Sean Clair"
-    rating: 5
-    comment: |
-      The Taro Loco bubble tea from the ButterCake collection may honestly be the best bubble tea I've ever had in my life.
-      
-      The food is subpar, staffing might be an issue as it sometimes takes a while. But the bubble teas are just so good, I'm still giving it a five-star review.
-      
-      Taro brown sugar is also amazing. And the Halo-Hala is one of the best you can get in the city.
 hours:
   monday: "9:30 AM–7:00 PM"
   tuesday: "9:30 AM–7:00 PM"

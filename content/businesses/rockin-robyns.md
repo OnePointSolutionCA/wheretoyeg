@@ -20,7 +20,7 @@ hours:
   sunday: "7:00 AM–4:00 PM"
 photos: ["/photos/rockin-robyns-1.jpg", "/photos/rockin-robyns-2.jpg", "/photos/rockin-robyns-3.jpg"]
 rating: 4.7
-review_count: 3413
+review_count: 3420
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -38,6 +38,18 @@ reviews:
     rating: 5
     comment: |
       An amazing breakfast spot! The vibe in the diner is so fun. Although it’s quaint and you may have to wait for seating, it is so worth it! The food was exceptional. I got a Bacon Eggs Benedict and the hollandaise sauce was amazing! The bacon was cooked perfectly and the muffin was delicious. I took my girlfriend out for a breakfast date here and it was a great time! The service was absolutely incredible. Our server was very friendly and funny, he was great at making conversation and making you feel very welcomed! Although it’s a busy spot it doesn’t feel like they rush you out of there which is nice. They even had pies that you could order in or take to go! I took a Coconut Cream pie slice home and it was amazing! Heavily recommend to anyone who enjoys a good breakfast at a fair price.
+  - name: "Lisa"
+    rating: 5
+    comment: |
+      The food was amazing!! I got a jalepeno popper burger and my friend got the raspberry lemonade French toast.
+      
+      We also tried the banana shake— so good!
+      
+      Both were SO amazing! So much great flavour and just the right portion size!
+      
+      Service was fast and friendly!
+      
+      Atmosphere is so funky and cool!
   - name: "Trevor Mason"
     rating: 5
     comment: |
@@ -50,8 +62,4 @@ reviews:
     rating: 5
     comment: |
       Food was delicious with good portion size. The young man serving us was quick and efficient while being personable and engaging. His recommendations were valued and appreciated. This is a cute little place that is busy for a reason. We will definitely be returning.
-  - name: "uppimage"
-    rating: 5
-    comment: |
-      What an amazing vibe! Stepping back in time in so much history in all the posters on the wall. But what really makes it special is the people who take care of you. Fantastic food, and all of it is prepared on site. Fruit is cut fresh (not bought in bulk), tender and tasty brisket made on site. Jess was our server, and so invested in the experience. He invited me to “try the Jukebox…it works!” Oh, and the food has lived up to all the expectations. Left happy and full and ready to start my day.
 ---

@@ -45,12 +45,12 @@ reviews:
     rating: 5
     comment: |
       Excellent lunch with friendly staff who work quickly and efficiently.  Their French fries are the skinny perfectly crispy ones that are lightly seasoned!  Menu is extensive!  I had a cheesesteak I would rate 11/10.
-  - name: "Tara Reiner"
-    rating: 4
-    comment: |
-      I see tons of cars pulling in everyday on my to to RVCC and finally had time to stop in. The deli is clean and decorated nicely. There were a few tables full of people eating breakfast which I thought was great for a weekday. I ordered a sausage and cheese on a hardroll. The person that took my order wasn't rude, but wasn't friendly either. While waiting I saw huge breakfast platters being served that looked amazing! Note to self, go when you have time to order in!  My sandwich was cooked to order and was pretty much what I ordered except it wasn't a sausage pattie, it was links cut up. Weird yes,but tasted good. The roll was excellent...
   - name: "Alexandra Horwood"
     rating: 5
     comment: |
       Got the breakfast burrito with bacon. fabulous, fresh and hot. My mom got the chicken quesidilla which was also very good. First time here. I will be back. Everyone was ordering beans and rice and it smelled so good in the place. It also came with salsa Verde which isn't in the photo.
+  - name: "Tara Reiner"
+    rating: 4
+    comment: |
+      I see tons of cars pulling in everyday on my to to RVCC and finally had time to stop in. The deli is clean and decorated nicely. There were a few tables full of people eating breakfast which I thought was great for a weekday. I ordered a sausage and cheese on a hardroll. The person that took my order wasn't rude, but wasn't friendly either. While waiting I saw huge breakfast platters being served that looked amazing! Note to self, go when you have time to order in!  My sandwich was cooked to order and was pretty much what I ordered except it wasn't a sausage pattie, it was links cut up. Weird yes,but tasted good. The roll was excellent...
 ---

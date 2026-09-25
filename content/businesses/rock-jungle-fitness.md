@@ -18,7 +18,7 @@ hours:
   sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/rock-jungle-fitness-1.jpg", "/photos/rock-jungle-fitness-2.jpg", "/photos/rock-jungle-fitness-3.jpg"]
 rating: 4.8
-review_count: 308
+review_count: 309
 price_range: "$$"
 amenities:
   - "Beginner Friendly"

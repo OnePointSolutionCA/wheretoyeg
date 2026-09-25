@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:30 PM"
 photos: ["/photos/sweet-castle-bakery-1.jpg", "/photos/sweet-castle-bakery-2.jpg", "/photos/sweet-castle-bakery-3.jpg"]
 rating: 4.8
-review_count: 1018
+review_count: 1023
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -47,12 +47,22 @@ reviews:
     comment: |
       I came here yesterday with my friends and absolutely loved every thing. The atmosphere is so cute and the food is absolutely divine!!! I ordered chocolate raspberry cake ith was so rich and fluffy and my friend ordered the spinach and feta croissant which was so buttery and flakey! ❤❤❤
       Jeslin did an amazing job helping us though out our visits and even provided us with samples of pistachio raspberry cake (which was amazing too). We'll definitely be back ❤
+  - name: "Christine Moffat"
+    rating: 5
+    comment: |
+      Aug 14
+      Stopped in with family for a warm beverage and a little sweet treat.
+      We were warmly greeted by Satinder and Jeslin.
+      They have a variety of sweet and savory choices as well and many gluten free options.  I have a nut sensitivity so was recommended various options to accommodate that.
+      We ordered a peppermint tea, chai latte and regular latte.  The Chai was delicious.  As for treats we had a cheese and onion scone and a slice of carrot cake.  I was pleasantly surprise at how moist the carrot cake was - melt in yr mouth and not overly sweet which was also nice.
+      The scones had great flavour and a slight touch of sweet which I enjoyed.
+      We were also treated to a slice of chocolate cake.  Again, nice flavour and not heavy.  Sometimes chocolate cake can leave me with a headache and was surprised I didn’t come away with one.
+      Light jazz was playing over the speakers which added a cozy ambiance.
+      EVERTHING was played on lovely dishes with coordinated flatware- nice touch.
+      I will definitely be back and recommend you give it a try.
+      Nothing we consumed felt heavy after
   - name: "Amanda Post"
     rating: 5
     comment: |
       I recently stopped by Sweet Castle Bakery and had a delicious London Fog along with a gluten-free dessert, and both were fantastic! The atmosphere is warm and welcoming, the staff were lovely, and the owner Mahsa is incredibly friendly. It’s clear they care about their customers and take pride in what they do. I’ll definitely be back to try more of their delicious treats!
-  - name: "Rosalyn Fung"
-    rating: 5
-    comment: |
-      I love this precious cafe! I was there for a private event, and you can tell that owner Mahsa and her team really care about people, because they have outstanding service, and the atmosphere is inviting and intimate. They pay attention to details. I love that there are gluten free options as I prefer GF, and for those that are vegan, they have that too. I had the delicious GF cheese and chocolate chip scones and GF cranberry, walnut sandwhich. I highly recommend this place for special occasions and having your coffee dates here!
 ---

@@ -32,6 +32,11 @@ reviews:
     rating: 5
     comment: |
       Had an electrical repair job to get done.  Saed was willing to fit me in at short notice.  Arrived on time. Very courteous, professional, helpful, very knowledgeable. Gave helpful advice. Pricing was reasonable. I was totally satisfied with Saed's work and service. Will not hesitate to recommend Stud Electric.
+  - name: "Jotheney Thanabalasingam"
+    rating: 5
+    comment: |
+      Took his time to explain everything and made sure it was done the right instead of rushing through the job or taking shortcuts. Will definitely rely on him for all the electrical renos or repairs for my house.
+      Would 100% recommend to anyone.
   - name: "Ivan Hevia"
     rating: 5
     comment: |
@@ -44,8 +49,4 @@ reviews:
     rating: 5
     comment: |
       Saed was excellent to deal with extremely knowledgeable and efficient and went above and beyond to ensure all the work was done to code and a at very reasonable rates.
-  - name: "Lewaa Saab"
-    rating: 5
-    comment: |
-      Stud Electric did electrical renovation for my appartment in Edmonton. The guys were very professional and always on time. And the price was fair. Thank you guys we really appreciate your work. Keep it up 👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻
 ---

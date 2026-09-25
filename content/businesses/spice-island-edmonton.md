@@ -40,12 +40,12 @@ reviews:
     comment: |
       Most items don't have price mentioned. When asked I was questioned why the prices are not mentioned: answers given were - this shop is running since 1972 like this, where are you from, prices keep fluctuating (like any moment, so effectively it is on whims and fancies on owner or some random number generator, like cost and markup is not known to owner).
       I was questioned about my origin and all. I don't live in Edmonton, but not sure why people tolerate this shop.
-  - name: "Yoland Bent"
-    rating: 5
-    comment: |
-      Great food supplies. The food are fresh and the staff is friendly. The environment in the store is clean and organized.
   - name: "80'sRetro"
     rating: 5
     comment: |
       Pretty great store. They have A LOT of Jamaican products. It feels like walking around in a store back home 😆
+  - name: "Yoland Bent"
+    rating: 5
+    comment: |
+      Great food supplies. The food are fresh and the staff is friendly. The environment in the store is clean and organized.
 ---

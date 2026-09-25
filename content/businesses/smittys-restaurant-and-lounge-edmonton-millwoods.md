@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Mill Woods"
 address: "2331 66 St NW Unit 211, Edmonton, AB T6K 4B4"
 rating: 4.1
-review_count: 681
+review_count: 683
 tier: "featured"
 phone: "(780) 461-1825"
 website: "https://smittys.ca/location/millwoods/"
@@ -17,6 +17,10 @@ reviews:
     rating: 5
     comment: |
       I had a wonderful dining experience at this restaurant. The breakfast was generous, perfectly cooked, and absolutely delicious — from the fluffy pancakes to the crispy bacon, sausages, and golden potatoes, everything tasted fresh and comforting. What truly made the visit special was the outstanding service from Jane. She was warm, attentive, and genuinely friendly, making sure we were well taken care of throughout the meal. Her positive attitude and professionalism really elevated the whole experience. We’ll definitely be coming back!
+  - name: "Emily Harper"
+    rating: 2
+    comment: |
+      Ordered sunny side up eggs and the cooks there couldn’t even put enough care to put the hashbrowns and bacon to the side. They put them right on top of my sunny side up eggs resulting in them arriving overcooked, not runny and broken. Disappointed
   - name: "Shamisen-375"
     rating: 4
     comment: |
@@ -36,14 +40,6 @@ reviews:
       They have some good daily specials that I will definitely return to try.
       
       The mozzarella sticks are perfectly done with great cheese pulls!
-  - name: "Vincent So"
-    rating: 5
-    comment: |
-      First the host sat us at a table that's away from the windows, to keep us warm. That was a nice gesture. The server Mona was real nice..she gave us a couple laughs. And the food came faster than I thought it'll be
-      
-      The only prob is when I went to the men's bathroom. One of the stalls didn't have a lock. So you can't lock and close the door.. hope that gets fixed soon.
-      
-      Other than that I had a amazing experience and time at Smittys.  I wouldn't mind coming here again 😊
 hours:
   monday: "8:00 AM–8:00 PM"
   tuesday: "8:00 AM–8:00 PM"

@@ -14,18 +14,14 @@ google_maps: "https://maps.google.com/?cid=1877450062643205403&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/signature-smilez-family-dental.jpg"
 reviews:
-  - name: "Michelle prodaniuk"
-    rating: 5
-    comment: |
-      I had a great experience with Dr. Jessie Jacob and her team during my wisdom tooth extraction. Dr. Jacob was kind, supportive, and reassuring, and she was able to see me right away. The entire team was friendly, professional, and made me feel comfortable throughout the process. I’m very grateful for the excellent care I received and would highly recommend this clinic.
   - name: "Keith Welch"
     rating: 5
     comment: |
       Fantastic dental office no pressure to buy any extra whitening or other products, very informative front and back staff and super friendly for an all around very comfortable experience! Moved from a downtown clinic to here and I definitely made the right choice! Thanks again signature smilez team.
-  - name: "Jer Lyna"
+  - name: "Michelle prodaniuk"
     rating: 5
     comment: |
-      If I could give 20 stars, I absolutely would! Divya and Dr. Rashida make the best team I have ever encountered for my dental procedures, including tooth filling, extraction, and root canal treatments. As someone with an anxiety disorder, I tend to be a handful, needing plenty of reassurance to avoid feeling scared and having a panic attack in the dentist's chair. For years, I was advised to undergo a root canal due to a persistent tooth infection, and they wanted to ensure I wouldn’t lose another tooth. After having my root canal yesterday, I’ve already scheduled another one for next month. I truly feel safe and well cared for by these wonderful women. I am definitely a repeat client! ⭐️⭐️⭐️⭐️⭐️
+      I had a great experience with Dr. Jessie Jacob and her team during my wisdom tooth extraction. Dr. Jacob was kind, supportive, and reassuring, and she was able to see me right away. The entire team was friendly, professional, and made me feel comfortable throughout the process. I’m very grateful for the excellent care I received and would highly recommend this clinic.
   - name: "k l"
     rating: 5
     comment: |
@@ -35,6 +31,10 @@ reviews:
     rating: 5
     comment: |
       Professional, knowledgeable, clean and wonderful staff. Everything is explained in detail, you are never wondering what is going on. Very understanding about my fear of dentists. I felt safe at all times. Highly recommended.
+  - name: "Jer Lyna"
+    rating: 5
+    comment: |
+      If I could give 20 stars, I absolutely would! Divya and Dr. Rashida make the best team I have ever encountered for my dental procedures, including tooth filling, extraction, and root canal treatments. As someone with an anxiety disorder, I tend to be a handful, needing plenty of reassurance to avoid feeling scared and having a panic attack in the dentist's chair. For years, I was advised to undergo a root canal due to a persistent tooth infection, and they wanted to ensure I wouldn’t lose another tooth. After having my root canal yesterday, I’ve already scheduled another one for next month. I truly feel safe and well cared for by these wonderful women. I am definitely a repeat client! ⭐️⭐️⭐️⭐️⭐️
 hours:
   monday: "9:00 AM–6:00 PM"
   tuesday: "9:00 AM–7:00 PM"

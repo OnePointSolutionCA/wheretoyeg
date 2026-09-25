@@ -22,18 +22,6 @@ reviews:
     rating: 5
     comment: |
       It was my 3 year old’s first dental appointment. We met with Brittney and she was fantastic! So patient and kind. My toddler felt so comfortable that he was able to do a full polish. Thank you for making his first visit a great experience!
-  - name: "Shara Jabush"
-    rating: 5
-    comment: |
-      I’ve been a patient at stony plain dental for almost a decade now and I think with every visit they surpass my expectations.
-      
-      They’re always so kind, polite, welcoming and have been from the beginning. However, my visit yesterday was not a usual visit, I had been struggling with insurance issues pertaining to my children’s dental care, mind you this was not a problem for the dentist office or to do with them.
-      
-      Nonetheless without hesitation they got on the phone and did everything they could from there end and was able to rectify the issue. So by the time we left, I knew that everything was going to be taken care of.
-      
-      Fast forward to the next day I get yet another update and more information via text, and all I can think is wow how lucky am I that this is my dentist office.
-      
-      They made my problems feel like there’s and lifted A tremendous amount of weight off of my shoulders, so if I could give them more than five stars, I absolutely would, however if you are looking for an environment that’s open and welcoming, with the friendliest staff, this is your dentist office!
   - name: "Erin Fetter"
     rating: 5
     comment: |
@@ -42,6 +30,10 @@ reviews:
     rating: 5
     comment: |
       First visit here as we moved to Stony Plain just 8 months ago. Was extremely impressed with the comfort and the detail to taking care of their patients. I've been to a few dentist in my lifetime but never one that all the staff that I was involved in were amazing.  Thank you, Kayla, Cassandra, Victoria, Sierra and Dr Chen. Cheers to all!
+  - name: "Stacey McIntyre"
+    rating: 5
+    comment: |
+      I have been going to Stony Plain Dental since 2012. All the staff have been amazing and so professional over the years. Dr Gangji is by far the best dentist I have ever had the pleasure of knowing, and she truly cares about her clients' well-being, medically, and personally. The clinic is very clean and organized, and I highly recommend this clinic to anyone looking for a new dentist!
 hours:
   monday: "7:00 AM–6:00 PM"
   tuesday: "7:00 AM–6:00 PM"

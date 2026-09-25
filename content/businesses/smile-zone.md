@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "8742 109 St NW, Edmonton, AB T6G 1E9"
 rating: 4.7
-review_count: 921
+review_count: 925
 tier: "featured"
 phone: "(780) 989-5733"
 website: "https://smilezone.net/?utm_source=GBP&utm_medium=button&utm_campaign=Home"

@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "1 Londonderry Mall NW Unit 0229, Edmonton, AB T5C 3C8"
 rating: 4.8
-review_count: 763
+review_count: 767
 tier: "featured"
 phone: "(587) 760-2215"
 website: "https://www.specsavers.ca/stores/londonderrymall?utm_source=yext&utm_medium=places&utm_content=londonderrymall&utm_campaign=googleplaces&y_source=1_NjE2NzE4MDctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
@@ -27,6 +27,14 @@ reviews:
       It’s honestly refreshing to meet someone who treats customers with such genuine kindness and professionalism. He made the whole experience easy and comfortable, and I really appreciated his patience with me.
       
       Thank you, Theo for being so wonderful and for making my experience such a positive one. You’re truly an asset to this place! Highly recommended! ❤️
+  - name: "Ms. K"
+    rating: 5
+    comment: |
+      I had a wonderful experience at Specsavers! It was my first time visiting, and I was genuinely impressed by how welcoming, kind, and professional all of the staff were. They treated every client with respect, patience, and genuine care, making the entire experience comfortable and stress-free.
+      
+      A special thank you to the female doctor who examined my eyes. She was very kind, thorough, and took the time to explain everything clearly, making me feel comfortable throughout the appointment.
+      
+      From the moment I walked in until I left, I felt well taken care of. I highly recommend Specsavers to anyone looking for quality eye care and exceptional customer service. Thank you to the entire team for such a positive experience!
   - name: "Stacy Carleton"
     rating: 5
     comment: |
@@ -41,10 +49,6 @@ reviews:
       Then I was told I'm covered for $375. Her patience is second to none, especially with me on the phone and trying them on and off.
       
       So, if you need assistance from her or her team, you're all good—you won't have any trouble.
-  - name: "Marjorie Torres"
-    rating: 5
-    comment: |
-      Went here without an appointment and just waited for nearly 5 minutes then Jen happily assisted me. She has helped me all throughout from having my eyes checked and getting my eyeglasses ordered. Every questions I asked she happily answered and also lets me take my time to choose the glasses that I want. I’m very happy and satisfied with the service! :) will be back after 2-3 weeks to get my glasses xx
 hours:
   monday: "10:00 AM–8:00 PM"
   tuesday: "9:00 AM–8:00 PM"

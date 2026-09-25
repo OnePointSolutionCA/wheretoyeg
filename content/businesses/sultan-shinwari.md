@@ -20,7 +20,7 @@ hours:
   sunday: "2:00 PM–11:00 PM"
 photos: ["/photos/sultan-shinwari-1.jpg", "/photos/sultan-shinwari-2.jpg", "/photos/sultan-shinwari-3.jpg"]
 rating: 4.7
-review_count: 225
+review_count: 228
 price_range: "$$"
 amenities:
   - "Halal"
@@ -31,10 +31,6 @@ tags: ["edmonton", "pakistani", "halal"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Rayyan Rehman"
-    rating: 5
-    comment: |
-      Visited the restaurant with friends, and the food was amazing. Staff was extremely helpful and friendly, recommendations were amazing, service was on point and overall it was a really great dinner experience. Highly recommended.
   - name: "Saba"
     rating: 5
     comment: |
@@ -47,6 +43,10 @@ reviews:
     rating: 5
     comment: |
       Great food, great chef and good service. Had chicken shinwari karahi which was amazing, the seekh kabab hands down the best I've had in Edmonton and Calgary. 100% recommended.
+  - name: "Rayyan Rehman"
+    rating: 5
+    comment: |
+      Visited the restaurant with friends, and the food was amazing. Staff was extremely helpful and friendly, recommendations were amazing, service was on point and overall it was a really great dinner experience. Highly recommended.
   - name: "afaan shykh"
     rating: 5
     comment: |

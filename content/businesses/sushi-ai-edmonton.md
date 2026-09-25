@@ -18,7 +18,7 @@ hours:
   sunday: "12:00 PM–2:30 PM"
 photos: ["/photos/sushi-ai-edmonton-1.jpg", "/photos/sushi-ai-edmonton-2.jpg", "/photos/sushi-ai-edmonton-3.jpg"]
 rating: 4.6
-review_count: 1071
+review_count: 1076
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -77,10 +77,6 @@ reviews:
       
       Word of encouragement:
       Thank you for your kindness and effort. Keep going — you’re on a good path, and we look forward to returning.
-  - name: "Vanessa Ha"
-    rating: 4
-    comment: |
-      The food was delicious and service was friendly. The sushi rolls had good flavour and the sashimi were thick cuts. We were, however, surprised that for 20$ they put a lot lettuce underneath the calamari to make it look like a full plate. Otherwise a very good sushi spot and would come back
   - name: "Sweats and Suits"
     rating: 5
     comment: |
@@ -88,6 +84,10 @@ reviews:
       unreal. we live on the opposite side of
       the city and will likely come up
       here just for this place.
+  - name: "Vanessa Ha"
+    rating: 4
+    comment: |
+      The food was delicious and service was friendly. The sushi rolls had good flavour and the sashimi were thick cuts. We were, however, surprised that for 20$ they put a lot lettuce underneath the calamari to make it look like a full plate. Otherwise a very good sushi spot and would come back
   - name: "Man Lee"
     rating: 4
     comment: |

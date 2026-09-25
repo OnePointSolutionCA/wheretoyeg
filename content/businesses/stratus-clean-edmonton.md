@@ -17,15 +17,15 @@ reviews:
     rating: 5
     comment: |
       Great experience with Stratus Building Solutions. The team is reliable, professional, and very thorough.  Operation Manager Jovan is very patient, capable and helpful in teaching us to do spotless cleaning to every client and communication is easy. Highly recommend for anyone needing quality commercial cleaning.  Communication is always smooth, and they’re very responsive to any special requests or schedule changes. You can really tell they take pride in their work and care about customer satisfaction.
+  - name: "Gina Race"
+    rating: 5
+    comment: |
+      From beginning to end, the entire crew at Stratus Clean was a pleasure to work with! They made the process incredibly easy, and our floors turned out absolutely great. We are thrilled with the results and will definitely be using them again!
   - name: "Manuel Romasanta"
     rating: 5
     comment: |
       We’ve had a great experience with Stratus Building Solutions. Their team is professional, punctual, and extremely thorough. Thank you very much to Jovan, on training day we were showed attention to detail and a strong commitment to keeping spotless and sanitized area.
       If you’re looking for a reliable and high-quality commercial cleaning company, I highly recommend Stratus Building Solutions. They consistently exceed expectations and make a noticeable difference in the cleanliness of our facility.
-  - name: "Gina Race"
-    rating: 5
-    comment: |
-      From beginning to end, the entire crew at Stratus Clean was a pleasure to work with! They made the process incredibly easy, and our floors turned out absolutely great. We are thrilled with the results and will definitely be using them again!
   - name: "Chantal Nagi"
     rating: 5
     comment: |

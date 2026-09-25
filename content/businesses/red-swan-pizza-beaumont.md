@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Beaumont"
 address: "5005 50 St unit 101, Beaumont, AB T4X 1J9"
 rating: 4.5
-review_count: 178
+review_count: 179
 tier: "featured"
 phone: "(780) 665-1146"
 website: "https://redswanpizza.ca/"

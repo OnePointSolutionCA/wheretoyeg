@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Windermere"
 address: "17317 Hiller Rd SW, Edmonton, AB T6W 4T4"
 rating: 4.5
-review_count: 247
+review_count: 248
 tier: "featured"
 phone: "(587) 469-9793"
 website: "https://order.royalpizza.ca/location/18/Keswick"

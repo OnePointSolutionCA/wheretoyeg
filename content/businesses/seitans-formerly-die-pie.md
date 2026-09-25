@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/seitans-formerly-die-pie-1.jpg", "/photos/seitans-formerly-die-pie-2.jpg", "/photos/seitans-formerly-die-pie-3.jpg"]
 rating: 4.5
-review_count: 1054
+review_count: 1055
 price_range: "$$"
 amenities:
   - "Delivery"
@@ -39,10 +39,6 @@ reviews:
       We ended up getting the pizza, seitan wings, po’ boy subs, donair bites, fries, kale Caesar salad, and mini corn dogs… and somehow every single item was ridiculously delicious. Not one miss. The kind of meal where everyone at the table keeps saying “Okay, you HAVE to try this.”
       The flavours were unreal, portions were satisfying, and the price point was honestly fantastic for the quality and amount of food. Whether you’re plant-based or just someone who loves incredible food, this place absolutely delivers.
       Highly, highly recommend. We’ll 100% be back next time we’re in Edmonton… and next time my wife may need to hide the menu from me entirely. 🌱🍕🔥
-  - name: "M.J. Hansford"
-    rating: 5
-    comment: |
-      SO GOOD! Taylor was extremely helpful in coaching my selections based on GF and my lack of history eating vegan. So attentive to details! I had the broccoli Appy and a unique GF chicken poboy. And she gave me a taste of a new GF cheesecake which was to die for! Tiny place with a homey yummy vibe overall. I will be back! GO SMALL EDMONTON BIZ YAY! I will be back!
   - name: "Wen Kauffman"
     rating: 5
     comment: |
@@ -51,6 +47,10 @@ reviews:
     rating: 5
     comment: |
       Very clean atmosphere. Is a Vegan restaurants for those who loves vegan food . I find the price reasonable cuz of the quality and ingredients used . I dined in today but I also ordered a pizza and dessert for take out . The establishment is known for its pizza . Give it a try
+  - name: "M.J. Hansford"
+    rating: 5
+    comment: |
+      SO GOOD! Taylor was extremely helpful in coaching my selections based on GF and my lack of history eating vegan. So attentive to details! I had the broccoli Appy and a unique GF chicken poboy. And she gave me a taste of a new GF cheesecake which was to die for! Tiny place with a homey yummy vibe overall. I will be back! GO SMALL EDMONTON BIZ YAY! I will be back!
   - name: "Maxine Rudy"
     rating: 5
     comment: |

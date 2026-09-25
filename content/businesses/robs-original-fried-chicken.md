@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/robs-original-fried-chicken-1.jpg", "/photos/robs-original-fried-chicken-2.jpg", "/photos/robs-original-fried-chicken-3.jpg"]
 rating: 4.8
-review_count: 2464
+review_count: 2480
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -42,10 +42,6 @@ reviews:
       Everything was so generous that we ended up with enough leftovers for a second meal. Crispy, flavourful, and worth every bite.
       
       10/10 — we’ll definitely be back. 🍗🔥
-  - name: "Merissa"
-    rating: 5
-    comment: |
-      Tried Rob's for the first time last week and it is hands down the best chicken I've ever had. The Jumbo chicken strips are huge, well seasoned and perfectly tender. The fries are yummy with a delicious seasoning on them. The Hollywood sauce and blackened ranch are two of the best dipping sauces I've ever tried from anywhere. I don't know what's in them but they are heavenly. Try Rob's you won't be disappointed!
   - name: "Blanca Marroquin"
     rating: 5
     comment: |
@@ -58,4 +54,12 @@ reviews:
     rating: 5
     comment: |
       11/10!!! This is always a must go place anytime we're driving through Edmonton... It never disappoints! Love the atmosphere and the old skool music in the background. The front counter attendant Malo was fantastic and made sure we had everything needed. We'll definitely be back again ☺️
+  - name: "Walter ahlisch"
+    rating: 5
+    comment: |
+      Robs is the best fried chicken in Edmonton.
+      
+      They only serve quality chicken. It is fantastic. My wife gets the basic version, I get the hot. It's so tasty and crispy. Nice and hot for mine. The Hollywood sauce is great as well.
+      
+      I have only ordered out, so I can not speak to the service or atmosphere
 ---

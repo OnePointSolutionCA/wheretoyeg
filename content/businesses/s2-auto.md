@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Mill Woods"
 address: "5604 34 St NW, Edmonton, AB T6B 3S9"
 rating: 4.7
-review_count: 423
+review_count: 425
 tier: "featured"
 phone: "(780) 465-2509"
 website: "http://www.s2auto.com/"
@@ -24,10 +24,6 @@ reviews:
       Came in to get a tire replaced today.  Really nice team here, brand new looking shop with a great waiting area.  Service was quick, a lot of their techs seem to be from the Ukraine, which is nice to see  company embrace.
       
       I will definitely be back in for future work based on the things they were able to show us they had on the go.  They really do everything here.
-  - name: "Bobby Anand"
-    rating: 5
-    comment: |
-      I have had an extremely positive experience at S2 Auto. I find them to be extremely honest whenever it comes to maintenance on my Acura vehicle. They will give you an extremely honest and trustworthy opinion on the maintenance of your vehicle compared to many dealerships and other service stations. I will definitely go to them again for any maintenance related issues for my vehicle.
   - name: "Rick Heil"
     rating: 5
     comment: |
@@ -40,6 +36,10 @@ reviews:
       On top of that, they took care of replacing my transmission fluid, and the whole process was smooth and professional from start to finish.
       
       James was knowledgeable, honest, and efficient, which really gave me peace of mind. I highly recommend S2 Auto if you’re looking for reliable and trustworthy service!
+  - name: "Haley Morgan"
+    rating: 5
+    comment: |
+      my axle broke on my way to work a few weeks ago, and I had to call a tow truck to pick it up. thankfully I was just a few minutes away from S2 and they were super friendly and helpful. inspection and repairs were done the same day, they identified a few other things I needed & sent me on my way. I ended up bringing my car back the following week for the other repairs and I am happy with the cost, and customer service. I will definitely come back again! (hopefully not anytime soon though).
 hours:
   monday: "8:00 AM–5:00 PM"
   tuesday: "8:00 AM–5:00 PM"

@@ -5,7 +5,7 @@ category: "photographers"
 neighborhood: "Edmonton"
 address: "7133 Argyll Rd NW, Edmonton, AB T6B 2C5"
 rating: 4.9
-review_count: 101
+review_count: 102
 tier: "featured"
 phone: "(780) 707-5091"
 website: "https://bphotos.ca/"

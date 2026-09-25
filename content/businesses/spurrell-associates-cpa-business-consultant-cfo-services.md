@@ -34,14 +34,6 @@ reviews:
       I recently attended Spurrell & Associates’ Business Bootcamp and it was one of the best investments I’ve made for my business this year.
       The Bootcamp was extremely well-organized and practical. Over the sessions, they covered everything from proper financial setup, cash flow management, and tax planning strategies to scaling your business without losing control of the numbers. What I loved most was that it wasn’t just theory — they used real-world examples and even worked through scenarios relevant to the attendees’ businesses.
       Josh and the team have a real talent for explaining complex accounting and business concepts in plain English. I left the Bootcamp with clear action steps, better systems, and a much stronger understanding of how to use my financials to drive growth.
-  - name: "Shekinah Alde"
-    rating: 5
-    comment: |
-      Working with Spurrell and Associates this tax season was a genuinely positive experience. Denise who handled my taxes was professional, detail oriented, and clearly put in a lot of effort to get everything done accurately and on time. It made a typically stressful process feel simple and well-managed. I'd gladly work with them again and recommend them to others.
-  - name: "Jean Hendryx"
-    rating: 5
-    comment: |
-      Had a really good conversation with Josh today at a business conference, after hearing him share some  excellent information and strategies regarding small businesses.  I look forward to talking with him more during the free consultation that he is offering.
   - name: "emily urbina"
     rating: 5
     comment: |
@@ -50,4 +42,12 @@ reviews:
     rating: 5
     comment: |
       Attended Josh Spurrell’s beat the odds boot camp and learned many strategies for building wealth and lowering tax liability. Fantastic experience! I’ll be back!
+  - name: "Светлана Нагнеева"
+    rating: 5
+    comment: |
+      Mhica helped me with my tax return and did a great job. She was very helpful, patient, and explained everything clearly. The whole process was easy and stress-free. I highly recommend her services!
+  - name: "Jean Hendryx"
+    rating: 5
+    comment: |
+      Had a really good conversation with Josh today at a business conference, after hearing him share some  excellent information and strategies regarding small businesses.  I look forward to talking with him more during the free consultation that he is offering.
 ---

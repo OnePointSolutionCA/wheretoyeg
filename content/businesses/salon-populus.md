@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/salon-populus-1.jpg", "/photos/salon-populus-2.jpg", "/photos/salon-populus-3.jpg"]
 rating: 4.9
-review_count: 57
+review_count: 58
 price_range: "$$"
 amenities:
 
@@ -40,12 +40,12 @@ reviews:
     rating: 5
     comment: |
       Kim was so sweet and accommodating. Great stylist and her salon was so clean and bright.
-  - name: "Haley Brassard"
-    rating: 5
-    comment: |
-      Seen Kim today for a pixie hair cut and she nailed it! Definitely will continue to go to this salon.
   - name: "Darlene M"
     rating: 5
     comment: |
       Had a haircut and foils with Kim today.  As always, a wonderful experience.  Even though it was a busy day for her today, she did not rush and took time and care with a perfect cut and color.  Salon is relaxing, clean, and never crowded.
+  - name: "Haley Brassard"
+    rating: 5
+    comment: |
+      Seen Kim today for a pixie hair cut and she nailed it! Definitely will continue to go to this salon.
 ---

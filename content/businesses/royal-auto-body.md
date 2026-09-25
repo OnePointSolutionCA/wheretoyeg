@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/royal-auto-body-1.jpg", "/photos/royal-auto-body-2.jpg", "/photos/royal-auto-body-3.jpg"]
 rating: 4.8
-review_count: 297
+review_count: 298
 price_range: "$$"
 amenities:
 

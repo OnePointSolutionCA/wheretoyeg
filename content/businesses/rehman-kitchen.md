@@ -20,7 +20,7 @@ hours:
   sunday: "1:00 PM–8:00 PM"
 photos: ["/photos/rehman-kitchen-1.jpg", "/photos/rehman-kitchen-2.jpg", "/photos/rehman-kitchen-3.jpg"]
 rating: 4.7
-review_count: 166
+review_count: 168
 price_range: "$"
 amenities:
   - "Halal"
@@ -45,13 +45,13 @@ reviews:
     rating: 5
     comment: |
       We ordered a Bayanyi tray for our party and it turned out to be the Best taste we'd ever enjoyed!!😋
+  - name: "So Sintagious"
+    rating: 5
+    comment: |
+      The mushroom burger was absolutely delicious, juicy, flavorful, and cooked perfectly. Honestly, all the food here is amazing, fresh, and full of taste. Highly recommend this place!
   - name: "Rabin Amj"
     rating: 5
     comment: |
       Honestly, Rehman Kitchen is my go-to now. Their platters are super filling and taste amazing, and the chicken biryani is the best I’ve had in Edmonton. You can tell it’s made fresh and with good spices. Definitely worth it every time.
       Highly recommend
-  - name: "Atif Khan"
-    rating: 5
-    comment: |
-      The healthy prep meals they have is extra ordinary, i tried there grilled chicken breast with fruit salad 👌 if your looking to stay fit and healthy this is the meals to go, with high protien and carbs enough for post workout daily 💪🏻
 ---

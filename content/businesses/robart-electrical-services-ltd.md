@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/robart-electrical-services-ltd-1.jpg", "/photos/robart-electrical-services-ltd-2.jpg", "/photos/robart-electrical-services-ltd-3.jpg"]
 rating: 4.8
-review_count: 245
+review_count: 246
 price_range: "$$"
 amenities:
 
@@ -32,24 +32,26 @@ reviews:
     rating: 4
     comment: |
       We had hired Robart Electrical for 3 different jobs over the span of two weeks. Each time the electrician was on time and completed the work in a timely and efficient manner. The electrician was very pleasant and professional.  We will definitely use their services again in the future.
-  - name: "Mia"
-    rating: 4
+  - name: "Dylan McConnell"
+    rating: 1
     comment: |
-      Overall I believe Robart did complete the electrical work that I needed done (service upgrade and panel replacement) and do not have concerns with the safety or code of the work they did.
+      I have been putting this off for some time, but I'm at the end of my rope... Here is my experience with Robart Electrical.
       
-      My feedback would be that the process and communication could be improved. While the person who came out to do the quote seemed very knowledgeable and experienced, I did not realize this would be the only opportunity I would get to discuss the job and understand what options were available. Once I signed the contract 3 months in advance, I had assumed there would be more follow up until the day of the job. Then I had to call the office the day before to confirm, because I had not heard from anyone. From there they asked - did you dig your trench yet? - which I didn’t realize we had to do ourselves and gave us little time to do this manual labor. One touchpoint earlier would have saved us a lot of hassle.
+      A few years back, I had them come out to wire my newly finished basement. At the time, they seemed organized, prompt and (from what I can tell) did a pretty good job. The technician did, however, unplug my deep freeze while working on the electrical panel and failed to plug it back in after the work was completed. That resulted in a freezer full of rotten food and a ruined freezer, but Robart covered the cost, so all told, not too bad.
       
-      Then on the day-of the person who arrived only introduced himself to the extent he was from Robart. No name, no note if he was even an electrician. Then he proceeded to almost get straight to work, and I had to stop him and ask if he could go over the details of the quote. Considering he was not the same person who originally came and it had been 3 months, I wanted to be sure we were all on the same page. Sure enough, the place where he was to put our new panel was not where we originally discussed. We communicated this, and he just proceeded to say “it’s whatever you want”. But the problem was not that we “wanted” anything specifically, we considered them the experts and wanted to know the reason for the change, what the options were and if - to their expertise - there was any electrical or financial considerations from one or the other location. We are not the experts here, and from the customer side expect they would have the technical exercise to explain the options and if a choice needed to be made we would address it as ‘the best option’. Not just ‘whatever you want’.
+      Around this time last year, I decided to get my detached garage wired up for a heater. A gas line would be very expensive and disruptive to my yard, so electric was my only option. After a couple of months waiting, Robart sent someone out for an estimate. They determined they would be able to use an existing conduit to run wire from the house underground to the garage. Not too big of a project and they gave me a reasonable quote. I agreed and waited for the work to be done.
       
-      This came up a few other times through the two days. And ultimately the way that our install looks is not as pretty as if we would have known some options beforehand, like I probably would have wanted them to put the cables behind the drywall and would have made time to cut open the drywall in the right place and patch it later had we been able to firm up the plan better in advance. Instead there’s huge cables coming down from my garage ceiling along the wall.
+      I believe it took another couple of months for someone to actually show up; we're no looking at October 2025. When they did, the two gentlemen assigned to the job determined that the conduit did not actually run the length of the yard and so the solution would be to trench a line or go overhead. Both options were going to cost significantly more than the original quote. But I wanted to get it done and I didn't want to look for another electrician, so I agreed to go overhead.
       
-      At the end of the day, my lights turn on and I have the electrical I need. But for 5 stars or to hire them again, I would really need to be further reassured of their professionalism through better communication.
-  - name: "Brent K"
-    rating: 5
-    comment: |
-      Awesome company. They went above and beyond helping me out on a few different occasions. Karen, other management there and the electricians on sight were all very professional, helpful and knowledgeable.
+      A day or two later, the two technicians were scheduled to arrive to do the work at 8 am. By 10am they had not yet arrived, so I called for an update. The reasoning was they hadn't picked up parts, so were out shopping and would be by soon. (Seems like that should be done before the scheduled appointment?)
       
-      Highly recommend Robart Electrical!
+      Eventually, they showed up at 11 and by 5 or so, the work was done. I now have another power line hanging over my backyard from the house to garage and everything seems to be working ok. To complete the work, the technician poked a couple of extra holes in the siding (missed the first try) but I was told not to worry, I could caulk that up myself (which I did, though shouldn't that be done by the tradesman?).
+      
+      A month or so later, the city inspector came out and failed the inspection for three different reasons: a grounding problem in the panel, a conduit routing issue on the side of the house and some kind of improper installation of the wiring on the garage roof. This was in October 2025. I have called repeatedly to have someone come out and fix the work. It is now the end of July 2026 and I'm still waiting... I was told by the admin that the reason for the delay was "waiting on parts". However, when a technician came out two weeks ago (I thought to fix?), they determined it could be done fairly quickly (but they could not do the work that day, for some reason).
+      
+      So now I am trying to get that technician, or someone from Robart, to complete this supposed quick job. An admin called me and left a message to see if I could schedule a reinspection (for the work that has not yet been done—clearly the technician had not filled her in on his visit). It seems there is no communication between technicians and admin at this company. Every time I call and explain the project, it's a different person answering the phone and it's the first time they've heard of me. So nearly a year later I'm still left with a 1) failed, 2) incomplete project that I 3) paid more for than I expected and 4) have spent far more time than I have liked to chase these people around.
+      
+      Would not recommend, and will not use again.
   - name: "Craig Richter"
     rating: 5
     comment: |
@@ -58,4 +60,12 @@ reviews:
     rating: 5
     comment: |
       I had my old shed demo'd because it was getting old and we put up 2 new sheds in its place. We contacted Robart to have the existing outdoor electrical extended to work with our new sheds. They sent out Anthony P. And he did such an amazing job! I am beyond thrilled. I now have safe electrical running outside for my lawn mowing and building needs and it looks spectacular! Anthony was so professional and fun to work with. And his skill level is off the charts! He called me before he came to my house and ran through exactly what I was looking for and my electrical needs so when he came to my house,  he was prepared and knew exactly what i needed. I have never had such amazing customer service or such a professional job done! Thank you Robart, so sending Anthony to our home! Also thank you Karen for talking with me and booking my appointment 👍
+  - name: "Billy wang"
+    rating: 1
+    comment: |
+      I booked an appointment with an electrician, but it was suddenly postponed by five days. Then, when the new appointment date finally arrived, nobody showed up.
+      
+      I called the office twice, and both times the receptionist told me the electrician would arrive shortly. I ended up waiting for four hours, but no one ever came.
+      
+      This company completely wasted two days of my time, causing me to miss work. They have absolutely no credibility and are extremely unprofessional.
 ---

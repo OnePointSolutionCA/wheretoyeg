@@ -28,18 +28,14 @@ reviews:
     rating: 5
     comment: |
       Had a brake fluid flush done, service was fantastic, in and out of there in a very short time..I couldn’t believe how cheap this service was !
-  - name: "COR Partners"
+  - name: "Brian Harrison"
+    rating: 1
+    comment: |
+      Had the brake system flushed months back. Rear brake bleed wasn’t tightened and started leaking when the weather warmed up. Charged me $166 to retighten the bleed. Used to be a good customer but done now with that kind of service.
+  - name: "Lee Callbeck"
     rating: 5
     comment: |
-      Dave and his crew assisted me 3 times with one of my company’s trucks .   Straight forward, honest, knowledge!  I appreciate his depth of knowledge and excellent “get er done” way.   My major dealership can learn from them
-      Thanks guys!
-      
-      Sean
-      COR Paretners
-  - name: "Irene"
-    rating: 5
-    comment: |
-      Dave and his team are great, explains everything, honest shop, fair prices
+      Great service! I like the new text service they are using to show problems with my vehicle.
 hours:
   monday: "8:30 AM–5:00 PM"
   tuesday: "8:00 AM–5:00 PM"

@@ -12,6 +12,10 @@ google_maps: "https://maps.google.com/?cid=9617508639038195741&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/sarap-sarap-catering-and-restaurant.jpg"
 reviews:
+  - name: "Mohammed Kamara"
+    rating: 5
+    comment: |
+      I had an amazing experience at Sarap Sarap Events Centre! The atmosphere was welcoming and beautifully set up, making it perfect for any event. The food was absolutely delicious—authentic Asian flavors that really stand out, and everything was fresh and well-prepared. The staff were friendly, attentive, and made sure everything ran smoothly from start to finish. You can tell they really care about their guests having a great time. I’d definitely recommend this place to anyone looking to host an event or enjoy great food. Will 100% be coming back!
   - name: "Lady Lopez"
     rating: 5
     comment: |
@@ -20,10 +24,6 @@ reviews:
       We are an interracial couple and they served both Filipino and Western cuisine at our wedding!! We got so many compliments about the food and the dessert! They are worth every dollar!
       
       Thank you Rod and to the team for making our day so special!
-  - name: "Mohammed Kamara"
-    rating: 5
-    comment: |
-      I had an amazing experience at Sarap Sarap Events Centre! The atmosphere was welcoming and beautifully set up, making it perfect for any event. The food was absolutely delicious—authentic Asian flavors that really stand out, and everything was fresh and well-prepared. The staff were friendly, attentive, and made sure everything ran smoothly from start to finish. You can tell they really care about their guests having a great time. I’d definitely recommend this place to anyone looking to host an event or enjoy great food. Will 100% be coming back!
   - name: "Lady Genesis Morton"
     rating: 5
     comment: |

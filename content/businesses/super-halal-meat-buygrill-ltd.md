@@ -19,7 +19,7 @@ hours:
   sunday: "9:00 AM–6:00 PM"
 photos: ["/photos/super-halal-meat-buygrill-ltd-1.jpg", "/photos/super-halal-meat-buygrill-ltd-2.jpg", "/photos/super-halal-meat-buygrill-ltd-3.jpg"]
 rating: 4.7
-review_count: 27
+review_count: 30
 price_range: "$$"
 amenities:
   - "Halal"

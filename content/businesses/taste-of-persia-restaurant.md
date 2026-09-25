@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/taste-of-persia-restaurant-1.jpg", "/photos/taste-of-persia-restaurant-2.jpg", "/photos/taste-of-persia-restaurant-3.jpg"]
 rating: 4.7
-review_count: 1412
+review_count: 1413
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,14 +30,6 @@ tags: ["edmonton", "persian"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Rob’s Hidden Gems"
-    rating: 5
-    comment: |
-      I’ve been coming here regularly for over a year, and since the new ownership took over, the food has been consistently excellent. The flavors are authentic, the quality is outstanding, and the service is always warm and attentive.
-      
-      I highly recommend starting with the Kashk Bademjan  , absolutely delicious. For the main course, my go-to is the Kobideh with dill rice, accompanied by a Shirazi salad and a side of Mast-o-Khiar. Every dish is fresh, flavorful, and prepared with care.
-      
-      If you’re looking for authentic Persian cuisine and great hospitality, this place is definitely worth a visit.
   - name: "Mohammad Dolatdoost"
     rating: 5
     comment: |
@@ -72,4 +64,10 @@ reviews:
       The order took a little longer than usual, but Ghazaleh kindly offered us complimentary chai while we waited, which was a thoughtful gesture and really appreciated. The food was delicious, and the whole team was friendly, hospitable, and caring.
       
       Thank you, Ghazaleh, for making our visit even better. I highly recommend this place.
+  - name: "Farhad"
+    rating: 5
+    comment: |
+      This is the finest Persian cuisine you may ever find! We have been to many Persian restaurants in Canada and Iran, but this one is above and beyond any other. Ghazaleh is a nice, helpful attendant who added to the nice experience of the restaurant.
+      
+      We recommend it to everyone who loves fine Persian foods. Fesenjoon, Baghali Polo with Chicken, and Baghali Polo with Mahicheh are great here. 😍🙏🌺
 ---

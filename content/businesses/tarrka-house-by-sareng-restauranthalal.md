@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/tarrka-house-by-sareng-restauranthalal-1.jpg", "/photos/tarrka-house-by-sareng-restauranthalal-2.jpg", "/photos/tarrka-house-by-sareng-restauranthalal-3.jpg"]
 rating: 4.5
-review_count: 333
+review_count: 336
 price_range: "$"
 amenities:
   - "Halal"
@@ -37,6 +37,10 @@ reviews:
       Salam fellow foodies,
       
       Just tried Tarrka House buffet and it was absolutely delicious! Do give it a try and you will not be disappointed. Everything was fresh and brought straight to our table. Fresh puris parathas and naans. Although everything was delicious some stand outs were chicken pakora and spring rolls, nihari, Keema, kofte, chicken tikka, halwa puri and Chaney. And very decently priced $26.99. Thank you Tarrka House for a delicious family day brunch :)
+  - name: "Basharat Ishtiaque"
+    rating: 5
+    comment: |
+      Me and my husband had a wonderful dining experience. The food was absolutely great; each dish was flavorful and beautifully prepared. The service was equally impressive; the staff was very attentive, friendly, and made sure everything was perfect throughout our visit. A special highlight was the owner who personally came to meet us and made sure everything is going good. His hospitality and passion for the food really elevated the entire experience. Highly recommended for anyone looking for great Pakistani meal and excellent service!
   - name: "Ibrahim Abdi"
     rating: 5
     comment: |
@@ -56,12 +60,4 @@ reviews:
     rating: 5
     comment: |
       We recently had the pleasure to visit Tarrka house for iftaar buffet. The buffet spread was impressive and authentic Pakistani cuisine. Every dish tasted fresh and was seasoned to perfection. From the traditional starters to the main courses, you can tell the kitchen puts a lot of heart into the preparation. It’s easily some of the best Iftar food I’ve had in the city recently. What truly sets this place apart, however, is the service. The owner was incredibly hospitable, making us feel welcome the moment we walked through the door. They were attentive, ensured the buffet was constantly replenished, and checked in on guests personally to make sure we had everything we needed. If you’re looking for delicious food and a team that treats you like family, I highly recommend Tarrka House. I’ll definitely be back!
-  - name: "Precious Pearl"
-    rating: 5
-    comment: |
-      I had a great experience at this restaurant during their Iftar buffet. The food was fresh, flavorful, and there was a good variety of dishes to choose from. One of the highlights was the roasted lamb served over rice with nuts and vegetables – it was perfectly cooked, very tender, and full of flavor.
-      
-      Everything was well presented and served warm. The buffet had a nice mix of traditional  items, and the quality of the food was excellent. If you love Pakistani cuisine, you will really enjoy it here because the Pakistani dishes are incredibly tasty and authentic. The atmosphere was also very pleasant, making it a great place to enjoy Iftar with family and friends.
-      
-      Overall, a very satisfying experience. I would definitely recommend this place for anyone looking for a delicious Iftar buffet.
 ---

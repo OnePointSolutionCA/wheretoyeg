@@ -28,10 +28,6 @@ reviews:
       Thank you to letting me be a 'Walk-in ' and setting me up with Josi.
       I seldom give a post for anyone, but my appreciation is such that I am happy to do so.
       Have a wonderful day.
-  - name: "Jogish Sidhu"
-    rating: 5
-    comment: |
-      I just had a hair appointment with Jasi and let me say SHE HAS CHANGED MY LIFE! I  was nervous at the start because  I wanted to try something new but her expertise and comfort made me feel relaxed and at easy. She provided insight I never knew and made me incredible happy with my new haircut . I would recommend her 10 times out of 10
   - name: "Megan Boily"
     rating: 1
     comment: |
@@ -51,6 +47,10 @@ reviews:
       She is truly an asset to this place.
       
       Thank you, Magda! T
+  - name: "Yosie T"
+    rating: 5
+    comment: |
+      I was heading to Beaumont for my son’s wedding and found this salon online. Booked the earliest updo appointment available and it was with Magda. I stopped in a few days prior to have a quick consult. The vibe was welcoming the moment I walked into the salon.  Magda was awesome!!! I had soooo many compliments on my hair. Thank you Magda for making me feel beautiful!!!
 hours:
   monday: "Closed"
   tuesday: "10:00 AM–8:00 PM"

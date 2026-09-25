@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/rise-and-shine-psychology-and-counseling-1.jpg", "/photos/rise-and-shine-psychology-and-counseling-2.jpg", "/photos/rise-and-shine-psychology-and-counseling-3.jpg"]
 rating: 5
-review_count: 13
+review_count: 14
 price_range: "$$"
 amenities:
 
@@ -40,12 +40,12 @@ reviews:
     rating: 5
     comment: |
       Everyone is so kind and incredibly proffesional. Beautiful space, feels relaxing just walking into the space.
+  - name: "Joyce Pineda"
+    rating: 5
+    comment: |
+      Amazing group of people. So kind, understanding, professional, and personal.
   - name: "Dylan Thomas"
     rating: 5
     comment: |
       They have an amazing team .
-  - name: "Mazen Bou Diab"
-    rating: 5
-    comment: |
-      Highly recommended.
 ---

@@ -19,7 +19,7 @@ hours:
   sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/revive-pilates---south-edmonton-1.jpg", "/photos/revive-pilates---south-edmonton-2.jpg", "/photos/revive-pilates---south-edmonton-3.jpg"]
 rating: 4.9
-review_count: 62
+review_count: 63
 price_range: "$$"
 amenities:
 
@@ -39,12 +39,12 @@ reviews:
     rating: 5
     comment: |
       I absolutely love this studio, I’m a frequent more at the Sherwood park location, but I love taking reformers and hot classes when I can. Everything about this space is accessible and accommodating and the instructors are amazing and lovely. I’m just about at 100 classes and I can’t wait to achieve more.
-  - name: "Julia Hesson"
-    rating: 5
-    comment: |
-      You absolutely MUST try. Everything about the studio is so welcoming. Every instructor is so nice and incredible at what they do. Both studios are gorgeous and the huge array of classes that they have allows everyone to have an option at flexible times to work around your schedule
   - name: "Katelynn W"
     rating: 5
     comment: |
       The studio space is beautiful. Hot pilates is so challenging but so worth it! Everyone of all levels is welcome so definitely give it a try if you’ve been thinking about it. The instructors are all awesome. There’s a variety of hot and reformer classes to choose from at lots of different times.
+  - name: "Erin L"
+    rating: 5
+    comment: |
+      I love the Revive community! Great instructors, inclusive atmosphere, and amazing classes! You really get your sweat on in the hot room, and the reformers can be just as tough! You may not be as sweaty, but you’ll definitely be shaking by the end of class. It’s a great workout either way!
 ---

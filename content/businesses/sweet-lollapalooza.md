@@ -53,8 +53,8 @@ reviews:
     rating: 5
     comment: |
       By far, the best place to purchase chocolates. Either for your own indulgence or as a gift, it's a place worth visiting.
-  - name: "Valerie"
-    rating: 5
+  - name: "Terry MacDonald"
+    rating: 1
     comment: |
-      Delicious chocolates and a lovely experience! The person who helped me was super kind and friendly, made me feel really welcome. Not only were the chocolates amazing, but the whole visit was genuinely heartwarming. 🤩
+      Terrible customer service. I ordered chocolates to be delivered in Edmonton for Easter. They were to be delivered Easter Monday and to date they still have not arrived. I asked for a refund but was told no it was not their fault. I have spent hours on the phone to Purolator and I don't believe that is my responsibility. I should not have to pay for chocolates that have not been delivered. When I asked for a refund Brett was very aggressive on the phone with me. It is just not the way to treat customers!! He just lost this customer.
 ---

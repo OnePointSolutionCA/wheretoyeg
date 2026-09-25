@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–11:00 PM"
 photos: ["/photos/sugarbowl-1.jpg", "/photos/sugarbowl-2.jpg", "/photos/sugarbowl-3.jpg"]
 rating: 4.5
-review_count: 3016
+review_count: 3017
 price_range: "$$"
 amenities:
   - "Dine-In"

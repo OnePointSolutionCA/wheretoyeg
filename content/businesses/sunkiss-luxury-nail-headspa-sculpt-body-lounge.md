@@ -28,11 +28,6 @@ tags: ["edmonton", "gel"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Jenny Phan"
-    rating: 5
-    comment: |
-      An absolutely incredible experience! I can’t recommend this place enough. Tracy truly goes above and beyond. She's genuinely cares about her clients and makes you feel so welcome. Her work is exceptional, and her friendliness and kindness make every visit a joy. Beside, the Headspa is amazing ♡♡♡
-      Truly unforgettable...Thankyou♡♡♡
   - name: "Lily Wiebe"
     rating: 1
     comment: |
@@ -40,6 +35,11 @@ reviews:
       
       Super thick even after being shaven down twice from me asking. Not shaped properly and are very uncomfortable. Will be going back to get them removed ! I can not wear these, and won't be back.
       Service lasted 50 minutes and were $63.
+  - name: "Jenny Phan"
+    rating: 5
+    comment: |
+      An absolutely incredible experience! I can’t recommend this place enough. Tracy truly goes above and beyond. She's genuinely cares about her clients and makes you feel so welcome. Her work is exceptional, and her friendliness and kindness make every visit a joy. Beside, the Headspa is amazing ♡♡♡
+      Truly unforgettable...Thankyou♡♡♡
   - name: "Cathy Gould"
     rating: 5
     comment: |

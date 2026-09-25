@@ -22,16 +22,6 @@ reviews:
     rating: 5
     comment: |
       Surise Dental has always made my visits as comfortable as possible. They go the extra mile to make sure it is smooth and easy. From the front desk to the chair and till you walk out the door you will be well looked after!
-  - name: "Ross Neufeld"
-    rating: 5
-    comment: |
-      Chipped my front tooth and went to Sunrise, and the whole experience was shockingly smooth. They got me in quickly, explained everything clearly, and had the repair done before I even had time to worry about how bad it looked.
-      
-      Everyone there was friendly, professional, and easy to deal with—which is exactly what you want when you’re sitting in a chair wondering why you ever bite anything harder than toast.
-      
-      Overall the experience was far better than I thought, considering my past trauma of bad dental places left me very jaded. Sunrise delivered above and beyond any other experience I've ever had.
-      
-      Great place, great people, and they made an annoying situation simple. Definitely recommend.
   - name: "Julianna Leavell"
     rating: 5
     comment: |
@@ -42,6 +32,13 @@ reviews:
     rating: 5
     comment: |
       Really helping me out with my severe tooth pain highly recommend them plus they're really accommodating making you feel relaxed and not anxious
+  - name: "Bradley-Dane Harris"
+    rating: 5
+    comment: |
+      Dr McClean is an amazing and patient dentist. And most importantly, he’s honest.
+      You’re not going to get scammed at this clinic.
+      Hygienist Soren is excellent and entertaining. Highly recommend.
+      Mary at front desk is friendly, smart, and welcoming. Very professional.
 hours:
   monday: "8:00 AM–4:30 PM"
   tuesday: "8:00 AM–4:30 PM"

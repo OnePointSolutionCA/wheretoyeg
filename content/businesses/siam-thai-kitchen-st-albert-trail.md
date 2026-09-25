@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/siam-thai-kitchen-st-albert-trail-1.jpg", "/photos/siam-thai-kitchen-st-albert-trail-2.jpg", "/photos/siam-thai-kitchen-st-albert-trail-3.jpg"]
 rating: 4.8
-review_count: 618
+review_count: 623
 price_range: "$$"
 amenities:
   - "Dine-In"

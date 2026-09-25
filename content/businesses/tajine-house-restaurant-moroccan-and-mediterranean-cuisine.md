@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/tajine-house-restaurant-moroccan-and-mediterranean-cuisine-1.jpg", "/photos/tajine-house-restaurant-moroccan-and-mediterranean-cuisine-2.jpg", "/photos/tajine-house-restaurant-moroccan-and-mediterranean-cuisine-3.jpg"]
 rating: 4.9
-review_count: 953
+review_count: 964
 price_range: "$$"
 amenities:
   - "Halal"

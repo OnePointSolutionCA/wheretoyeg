@@ -5,7 +5,7 @@ category: "photographers"
 neighborhood: "Edmonton"
 address: "646 Orchards Blvd SW, Edmonton, AB T6X 2L4"
 rating: 5
-review_count: 414
+review_count: 415
 tier: "featured"
 phone: "(780) 222-6318"
 website: "http://www.singh13.ca/"

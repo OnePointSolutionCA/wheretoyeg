@@ -6,7 +6,7 @@ subcategory: "burgers"
 neighborhood: "St. Albert"
 address: "3506 Tudor Glen Market, St. Albert, AB T8N 3V4"
 rating: 4.7
-review_count: 392
+review_count: 393
 tier: "featured"
 phone: "(587) 290-2011"
 website: "https://www.streatskitchens.com/"

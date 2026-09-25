@@ -21,7 +21,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/sparkle-and-sheen-1.jpg", "/photos/sparkle-and-sheen-2.jpg", "/photos/sparkle-and-sheen-3.jpg"]
 rating: 4.7
-review_count: 482
+review_count: 484
 price_range: "$$"
 amenities:
   - "Residential Cleaning"
@@ -54,12 +54,14 @@ reviews:
     rating: 5
     comment: |
       Started off not great but they were very professional and dealt with the issue in a timely fashion.  I am pleased and am booking a second visit.  This is where I will see in real time without the anxiety. If it is as good as I got I will give them 6 stars.  My technician  ERIN was professional friendly —polite —informative and delightful!!🥳☺️🥰.
+  - name: "Defcon4"
+    rating: 5
+    comment: |
+      Kelsey was outstanding with her work today, she did a fantastic job and really went above and beyond.
+      I really appreciate the time and effort she put into getting things done!
+      Thank you Kelsey :)
   - name: "Casey Sobool"
     rating: 3
     comment: |
       We got our move out cleaning done by Sparkle & Sheen and while the cleaning itself was done great we also had booked a carpet cleaning service that was cancelled day of which put us in a tough spot as the new house buyers were moving in the next day. The communication during the original house cleaning was very good however the carpet cleaning machine breaking and not having another appointment available for about a week was quite frustrating. Getting a hold of the company is very easy and they have great customer service.
-  - name: "Sheila Woinaroski"
-    rating: 5
-    comment: |
-      We had Sparkle and Sheen come into our home to do a move out clean. The girls were fantastic. Personable, quick and very thorough. I also used this company during my previous move. I will use them again when needed and will highly recommend them to anyone needing this type of service.
 ---

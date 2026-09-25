@@ -20,7 +20,7 @@ hours:
   sunday: "5:00 AM–12:00 AM"
 photos: ["/photos/ryan-parker-photography-1.jpg", "/photos/ryan-parker-photography-2.jpg", "/photos/ryan-parker-photography-3.jpg"]
 rating: 5
-review_count: 294
+review_count: 297
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,14 @@ tags: ["edmonton", "portrait"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "M H"
+    rating: 5
+    comment: |
+      Ryan Parker is the most amazing talented professional who went over and beyond. If you are looking for professional headshots,  look no further. He captured the exact vibe for my headshots that told a story all on their own. His studio was clean, and he made sure I felt at ease and comfortable every step of the way. He was authentic and true to his reviews, above all was honest and provided a great experience from the first email.
+  - name: "Arya Subramanian"
+    rating: 5
+    comment: |
+      My fiancé and I chose Ryan for updated professional headshots, and we had a great experience working with him! Ryan was both professional and fun, creating a very relaxed atmosphere from the moment we started the session. Ryan was also very patient and put a lot of care into helping us narrow it down to our final shots!
   - name: "Lorraine Doblanko"
     rating: 5
     comment: |
@@ -36,10 +44,6 @@ reviews:
       He was professional, patient, and made the entire experience enjoyable and comfortable for my daughter. The photos turned out absolutely beautiful and captured her so well.
       
       This was our second time booking with Ryan, and once again we had an excellent experience. We will definitely continue to book with him in the future.
-  - name: "Arya Subramanian"
-    rating: 5
-    comment: |
-      My fiancé and I chose Ryan for updated professional headshots, and we had a great experience working with him! Ryan was both professional and fun, creating a very relaxed atmosphere from the moment we started the session. Ryan was also very patient and put a lot of care into helping us narrow it down to our final shots!
   - name: "Helen Metella"
     rating: 5
     comment: |
@@ -50,8 +54,4 @@ reviews:
       Ryan was absolutely incredible!! Hands down the best decision we made for our wedding. From start to finish, he was professional, calm, and so easy to work with. He has an amazing ability to make you feel comfortable and natural in front of the camera!
       
       Beyond his talent, Ryan is just a genuinely wonderful person to have by your side on such an important day. We couldn’t be happier with our experience
-  - name: "Deidre Harrison"
-    rating: 5
-    comment: |
-      I am eternally grateful to have Ryan on my 'life team'! For over a decade, he has been capturing the most professional and magical headshots for me. He is spectacularly talented, and I truly cannot say enough good things about him. Here’s to many more years of working together.
 ---
