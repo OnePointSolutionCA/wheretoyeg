@@ -19,7 +19,7 @@ hours:
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/the-better-baker-1.jpg", "/photos/the-better-baker-2.jpg", "/photos/the-better-baker-3.jpg"]
 rating: 4.6
-review_count: 233
+review_count: 244
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -29,6 +29,24 @@ tags: ["edmonton", "artisan-bread"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Mahsa & Tëma"
+    rating: 4
+    comment: |
+      Some of the best local finds happen by accident, and The Better Baker was exactly that for us.
+      
+      We stumbled across this bakery while looking for good sourdough and were so glad we did. We have now visited twice, and both experiences gave us plenty of reasons to come back.
+      
+      The bakery has a cozy, calm and welcoming atmosphere. Everyone we interacted with, including the owner, was friendly and approachable. On our first visit, the owner took the time to chat with us, explain some of the products and share a little of the story behind the bakery. That personal interaction added a lot to the experience.
+      
+      There is a good selection of breads and pastries, along with a smaller, more focused selection of sandwiches. There is also seating available, so you can enjoy one of the pastries or order something more substantial and eat it there.
+      
+      On our first visit, we mainly picked up pastries and bread to take home. Their sourdough was particularly good and was actually what brought us back a second time. On our next visit, we came for breakfast and tried the smoked salmon bagel and the sourdough grilled cheese. Both were very enjoyable.
+      
+      We also liked seeing the individual cube-shaped croissants in the pastry display. The individual size makes them easy to try without committing to something large. The particular flavour available during our visit wasn't really for me personally, but that is very much a matter of taste. I would love to see them eventually offer a few different or rotating flavours, as well as perhaps a simpler plain version.
+      
+      One thing worth knowing if you are planning to come specifically for breakfast is that, at least during our visit, there were no coffee or drink options available. We ended up going to a nearby café to pick up coffee and then coming back to eat our sandwiches. It was certainly manageable, but having even a small selection of coffee or other beverages would make the sit-down experience much more complete.
+      
+      Overall, The Better Baker was a very pleasant discovery. The sourdough and sandwiches have been the highlights for us so far, the atmosphere is relaxed and welcoming, and the personal service gives the bakery a genuine neighbourhood feel. We will happily return to try more of what they make.
   - name: "Cheryl E"
     rating: 4
     comment: |
@@ -80,12 +98,4 @@ reviews:
     comment: |
       The Better Baker is my favorite bakeries for and every single time I order, they remind me why I keep coming back.Everything is always fresh, delicious, and made with so much care. You can truly taste the quality, and it's obvious they take a lot of pride in what they do. I haven't had a single thing I didn't love!What really sets them apart, though, is the people behind the business. They're such a kind, genuine family-owned bakery, and they always make you feel appreciated as a customer. Great customer service seems hard to find these days, but they absolutely nail it they went above and beyond today in was i dont think many businesses would have.It totally made my day!!
       It's no surprise they're so busy! Businesses like this deserve all the support they get. If you haven't tried The Better Baker yet, you're seriously missing out. I'll definitely be back again... and again! ❤️🥯🥐
-  - name: "Alison"
-    rating: 5
-    comment: |
-      What a hidden gem! Their sourdough loaf is perfectly crispy on the outside and light and fluffy on the inside. We will always go out of our way to get this bread!
-      
-      We have slowly been trying the baked goods and they have also been incredible. The cinnamon bun was a 10 and the almond croissant was perfect! Can’t wait to slowly try everything there.
-      
-      Staff is always friendly and helpful too! One of our fave bakery’s we have found so far!
 ---

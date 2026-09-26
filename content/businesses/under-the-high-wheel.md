@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Edmonton"
 address: "8135 102 St NW, Edmonton, AB T6E 4A4"
 rating: 4.2
-review_count: 1094
+review_count: 1095
 tier: "featured"
 phone: "(780) 439-4442"
 website: "http://underthehighwheel.com/"
@@ -25,15 +25,15 @@ reviews:
     rating: 5
     comment: |
       Went here for my birthday during a weekday. The atmosphere was very calm and relaxing. The service was amazing. Our server came to check up on is multiple times. The food was even better. I highly recommend the BELT.
-  - name: "John C."
-    rating: 3
-    comment: |
-      The best part is to be able to sit without waiting. Latte was great taste with the art!! Atmosphere was good and clean. Service was slow. Waited 30mins for savoury Belgian waffle. The portion of the side was frustrating for 22$ menu item it’s not hard to add more hollandaise sauce and potatoes. See my reference with my finger, and the amount of potatoes. It’s not even 1/4 of a whole potato.
   - name: "Frgaza"
     rating: 3
     comment: |
       I used to casually dine in however due to the service from one waitress in particular who makes you feel ostracized and appears to be discriminating against you or have something personal towards certain customers, I decided it’s best to limit
       myself going here for brunch, I appreciate the food and the other staff who have been very kind however when you have one waitress who is there majority of the time it makes it difficult to enjoy your time and dine in with friends and family.  A few times going there having her as our waitress she would ignore us and walk away, attend to other people and be more supportive and friendly.  I’m not clear on the reason for this, as this has happened more than once. The food is delicious, the atmosphere is very nice, however the service has been disappointing.
+  - name: "Himani"
+    rating: 5
+    comment: |
+      Under the High Wheel offers a cozy, relaxed brunch experience with a true local feel. The menu highlights fresh, quality ingredients and features hearty European-inspired dishes—from rustic eggs and bacon plates to beautifully prepared crepes and seasonal specialties. The coffee is excellent, service is warm and unpretentious, and the atmosphere makes it a great spot to linger on a weekend morning. Perfect for those who appreciate comfort food done with care.
 hours:
   monday: "9:00 AM–3:00 PM"
   tuesday: "9:00 AM–3:00 PM"

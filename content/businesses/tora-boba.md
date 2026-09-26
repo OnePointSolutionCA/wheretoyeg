@@ -52,12 +52,12 @@ reviews:
     rating: 5
     comment: |
       First time dining and discovering this new cool bubble tea spot. I would recommend trying this out for your first time trying thid drink, or as a bubble tea connoisseur. There are many options to choose for drinks, and you can add stuff to your drink. Staff is really friendly and the decor was so cute for the winter season. Also, thr tiramusu was so delicious and smooth.
-  - name: "Makayla"
-    rating: 5
-    comment: |
-      The best boba i have ever had. Drinks are so intricate. I got a biscoff milk matcha with brown sugar boba in it and it bas a little cheese cloud on it too. Sooo delicious and they have a cute selection of board games. Also the cups having little bear lids is adorable!!!!!!!
   - name: "Tatiana Lepine"
     rating: 5
     comment: |
       great quality excellent drink every time :) a lot of drink options!! friendly helpful staff and great decor, perfect study space or place to gather with some friends.
+  - name: "NGỌC NHI MẪN NGUYỄN"
+    rating: 5
+    comment: |
+      Cute and cozy spot with a very aesthetic vibe. The milk coffee is well-balanced (not too sweet), and the pearls are soft and chewy. Great place to relax or study. Will definitely come backkkk
 ---

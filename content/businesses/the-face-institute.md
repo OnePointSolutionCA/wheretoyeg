@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/the-face-institute-1.jpg", "/photos/the-face-institute-2.jpg", "/photos/the-face-institute-3.jpg"]
 rating: 5
-review_count: 497
+review_count: 500
 price_range: "$$"
 amenities:
 
@@ -42,6 +42,10 @@ reviews:
       I had an amazing experience at The Face Institute with Julie Wuis! This was my first appointment with her, and she immediately made me feel comfortable, relaxed, and completely at ease. She took the time to listen, answered all of my questions, and I felt I could trust her from the moment we met.
       
       The results exceeded my expectations—I couldn't be happier! Julie is incredibly skilled, professional, and genuinely cares about her clients. I highly recommend her to anyone considering treatment. I'll definitely be returning again and again!
+  - name: "Courtney M."
+    rating: 5
+    comment: |
+      Felt welcomed immediately. Beautiful facility and was greeted kindly by the ladies at the front, brought for a quick tour and offered a beverage before I was seated in the waiting area. My appointment with Tracey and the team was wonderful. Special shout out to her and the ladies who assisted during my appointment for making my first time there super comfortable. Tracey's kind and warm manner really put me at ease. She explained everything thoroughly and suggested great options for future services and skincare, specific to what I needed. Thank you!
   - name: "Sina Yusuf"
     rating: 5
     comment: |
@@ -50,14 +54,4 @@ reviews:
     rating: 5
     comment: |
       If you are looking for a flawless experience, The Face Institute is it. The clinic is incredibly chic and beautifully designed. On top of the gorgeous environment, the front desk information and check-in process were handled perfectly. Attendance was right on time, which I deeply appreciate.
-  - name: "Jessica Leard"
-    rating: 5
-    comment: |
-      I went to The Face Institute for a full face transformation with Julie. Her and Sarah made it such a good experience.
-      
-      The clinic itself is beautiful, super clean, and just feels really professional and comfortable. Julie was amazing — she fully numbed my face which no one has ever done before, so everything was basically painless.
-      
-      She’s also really knowledgeable. Instead of just doing everything I asked, she actually explained what would work best for my face and what wouldn’t. I learned a lot and felt like I could really trust her.
-      
-      My results look so natural and I’m really happy with them. Definitely the best experience I’ve had with injectables. I wouldn’t go anywhere else now.
 ---

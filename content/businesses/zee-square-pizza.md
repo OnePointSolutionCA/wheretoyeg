@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "St. Albert"
 address: "1 Hebert Rd #111, St. Albert, AB T8N 2E7"
 rating: 4.8
-review_count: 174
+review_count: 175
 tier: "featured"
 phone: "(780) 470-3463"
 website: "https://zeesquare.ca/"
@@ -36,10 +36,10 @@ reviews:
       Going to give it 4 stars because it is super delicious but when we got it home it was still uncooked... Like actually still in dough form. But it was a great size, great value, and lots of toppings. Just make sure it's cooked before you leave I guess! I took photos but it isn't giving me an option to upload them
 hours:
   monday: "12:00 PM–9:00 PM"
-  tuesday: "12:00 PM–9:00 PM"
-  wednesday: "12:00 PM–9:00 PM"
+  tuesday: "Closed"
+  wednesday: "Closed"
   thursday: "12:00 PM–9:00 PM"
   friday: "12:00 PM–9:00 PM"
   saturday: "12:00 PM–9:00 PM"
-  sunday: "1:00 PM–8:00 PM"
+  sunday: "Closed"
 ---

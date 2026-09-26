@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/yeg-burger-1.jpg", "/photos/yeg-burger-2.jpg", "/photos/yeg-burger-3.jpg"]
 rating: 4.6
-review_count: 1604
+review_count: 1608
 price_range: "$"
 amenities:
   - "Halal"
@@ -35,21 +35,21 @@ reviews:
     rating: 5
     comment: |
       Outstanding service and delicious food!! I went with a friend and we ordered the Ferrero milkshake to share - we were so surprised when they came out with two milkshakes. Such a kind gesture! Best milkshake I’ve ever had. We ordered the mushroom burger and the jalapeño burger, and both were amazing. Highly recommend this restaurant for all burger lovers, the food + service, cleanliness, and amazing interior makes this place a gem. I will certainly be back with family!
-  - name: "Jaydip kapopara"
-    rating: 5
-    comment: |
-      Tried YEG Burger in Edmonton and it was honestly really good. The burgers were fresh, juicy, and full of flavour. Fries were crispy, portions were great, and the service was friendly too. Definitely a good spot if you’re craving burgers in YEG. Highly recommend the mushroom burger and poutine
   - name: "Nolan Chamczuk"
     rating: 4
     comment: |
       I came to YEG burger based in the 'home cooked' reviews. Most definitely very yummy but still room for exceptional burgers. The service was fast and friendly people. It's well worth a stop if your in the area.
-  - name: "Blake Dunphy"
-    rating: 2
+  - name: "Jaydip kapopara"
+    rating: 5
     comment: |
-      Mid. Burger place that doesn’t have bacon. Wild prices for average food. No better than any other burger from a halal Donair shop. Thats like an Italian place substituting pasta with tofu. Beef bacon is not pork bacon and not a worth while substitute.
-      *beef bacon is not bacon.
+      Tried YEG Burger in Edmonton and it was honestly really good. The burgers were fresh, juicy, and full of flavour. Fries were crispy, portions were great, and the service was friendly too. Definitely a good spot if you’re craving burgers in YEG. Highly recommend the mushroom burger and poutine
   - name: "Jabroni drive (Jabronidrive)"
     rating: 3
     comment: |
       Ordered the large poutine. Didn't really like the cheese curds. They were soft and no squeak that would be expected from a good fresh cheese curd. So paying extra for them was not worth it.
+  - name: "F. Smith"
+    rating: 5
+    comment: |
+      Best burgers. I go at least every month to try the “burger of the month”. Every time it’s delicious! You can see them making the milkshakes too from scratch as well (I love the shakes!) The fries are fantastic too, they’re my favourite.
+      Since it’s halal, there is no pork bacon, but they have beef bacon! Super good. My favourite go-to burger spot! Very reasonably priced, handmade, delicious food. Whenever I go to a different spot, I’m almost always disappointed. Support local business, come here and you won’t regret it!
 ---

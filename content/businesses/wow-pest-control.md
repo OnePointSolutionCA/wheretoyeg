@@ -44,12 +44,14 @@ reviews:
     rating: 5
     comment: |
       Excellent Service! We had a nest form at the peak of our house and WOW Pest Control came out the next morning and took care of business. Thank you again :)
-  - name: "Balam Guitarist"
-    rating: 1
+  - name: "Gemachu Abdulkadir"
+    rating: 5
     comment: |
-      I've lived in this complex for years and have been dealing with a persistent bed bug problem in Building B. Despite multiple treatments in September and October, including visits to my unit and my neighbors', the issue remains. It's disappointing that three services haven't solved the problem.
-  - name: "Brennan Mann"
-    rating: 1
+      I highly recommend choosing this establishment and pick Shume as your provider.
+  - name: "Nimona F"
+    rating: 5
     comment: |
-      I would give 0 stars if possible. Contacted this company who supposedly would help me day of with a quote. Waited around all day until 3:30 with no one contacting me. Left for an hour and they happened to show up at that time. Rescheduled until the next day at 2pm. Sent a message at 3:30pm that day asking if they were coming and him replying that they're busy and have to push it another day. When I replied asking for a time to be communicated as I can't be sitting around for a 3rd straight day, he couldn't even be bothered to reply to my message. Communication is poor, lack of care for customers is poor. If anyone is looking for pest control needs I highly recommend avoiding this company.
+      They addressed all of our pest issues quickly and effectively. I really appreciated how they followed up to ensure everything was under control. Since their visit, we haven’t had any issues at all.
+      
+      Highly recommend them for anyone dealing with pests professional, efficient, and reliable!
 ---

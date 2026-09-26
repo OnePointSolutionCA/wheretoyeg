@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Castle Downs"
 address: "12222 137 Ave NW #117, Edmonton, AB T5X 5J4"
 rating: 4.9
-review_count: 561
+review_count: 563
 tier: "featured"
 phone: "(780) 472-9494"
 website: "http://www.whiteoaksdentalcentre.com/"

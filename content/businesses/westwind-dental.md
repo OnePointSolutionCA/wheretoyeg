@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Spruce Grove"
 address: "11 Westwind Dr #211, Spruce Grove, AB T7X 1R3"
 rating: 5
-review_count: 161
+review_count: 162
 tier: "featured"
 phone: "(780) 962-1011"
 website: "http://www.westwinddentistry.ca/"
@@ -27,14 +27,14 @@ reviews:
     rating: 5
     comment: |
       I want to thank all the staff at this clinic. Each of them is a true professional. The reception staff is very attentive to the patient's appointment date. I want to especially thank Becca for the excellent teeth cleaning and positive atmosphere. I highly recommend this clinic to everyone.
+  - name: "Carrie R"
+    rating: 5
+    comment: |
+      I needed a tooth pulled, and my regular dentist declined to do it as I am difficult to get numb thus I was referred to an oral surgeon for sedation dentistry.  With no insurance, I was left utterly flabbergasted at the price of sedation alone, and I started to search for a dentist that offers nitrous as I have used it before with success.  Fast forward my visit with Dr. Cody.  I informed her that if she can get my completely numb, I don't care what she does to my mouth.  Challenge was accepted by Dr. Cody.  The next week, I arrived.  Staff was wonderful.  Assistant was wonderful.  Dr. Cody was wonderful.  She also successfully completed her challenge.  Without rushing, and with the aide of the nitrous, I was completely numb and my difficult tooth was finally extracted.  As dentists are usually questionable creatures as they are people who chose to make a living by pulling teeth out of people's heads, I have to give to give a five-star rating to Dr. Cody and my experience at Westwind Dental.  Thank you!
   - name: "Annissa Anderson"
     rating: 5
     comment: |
       Doctor Cody has been wonderful for our entire family! She was so patient with our kids and their entire staff has been wonderful. Would definitely recommend them to anyone looking for a good dentist in Spruce Grove!
-  - name: "Leeanne Carnegie"
-    rating: 5
-    comment: |
-      Went through some dental trauma and would not go to a dentist. I would rather let my fractured teeth fall out. Had zero trust. I just stopped smiling so no one saw the mess. I was recommended to Westwind by someone who knew my story and missed my smile. Trusting this friend was the best choice I've made in a long time. Westwind Dental seriously changed my life. Patience, grace, understanding, supporting, encouraging, empathetic and did I mention patience...I could go on. Highly recommend you book a consultation with anyone there. They are ALL amazing from the front desk to the dentist and all people in between. I owe them more than I could EVER repay.
 hours:
   monday: "8:00 AM–4:30 PM"
   tuesday: "8:00 AM–4:30 PM"

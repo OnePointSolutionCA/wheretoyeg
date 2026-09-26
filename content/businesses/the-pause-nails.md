@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–5:00 PM"
 photos: ["/photos/the-pause-nails-1.jpg", "/photos/the-pause-nails-2.jpg", "/photos/the-pause-nails-3.jpg"]
 rating: 4.9
-review_count: 129
+review_count: 133
 price_range: "$$$"
 amenities:
 
@@ -55,16 +55,12 @@ reviews:
     rating: 5
     comment: |
       Today I got my pedicure done for the first time and it was much better than I expected. The lady was very nice and made sure I was properly taken care of and did not rush the service at all
+  - name: "Jessica Cordeiro"
+    rating: 5
+    comment: |
+      My daughter loves her nails! This is our third visit. So impressed with how long the shellac lasts.
   - name: "Maddy Lazo"
     rating: 5
     comment: |
       Good service and sweet workers! and reasonable prices :) my fav is the shellac manicure !!!
-  - name: "Kat Klassen"
-    rating: 5
-    comment: |
-      Great experience, super friendly staff and reasonable prices!
-      
-      High end equipment and beautiful salon make your experience here feel so LUXE. They checked in many times along the way to make sure I was comfy and getting what i needed/wanted. I think this will be my new go-to salon!
-      
-      Try the pause pedicure! Didn’t feel rushed at all, they took their time with each aspect and gave me more moisturizing and massage than any pedicure I’ve ever had in the city.
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/trust-home-comfort-1.jpg", "/photos/trust-home-comfort-2.jpg", "/photos/trust-home-comfort-3.jpg"]
 rating: 5
-review_count: 801
+review_count: 806
 price_range: "$$"
 amenities:
 
@@ -46,14 +46,14 @@ reviews:
     rating: 5
     comment: |
       I have had the best experience with this company. They were so professional, honest and thorough. Con and Spencer did such an excellent job with servicing my furnace and answered all my questions. Fairly priced as well. I will definitely be recommending them and hiring them for future projects. Please don’t change your standard of work. Thank you!
-  - name: "Meghan Rannells"
-    rating: 5
-    comment: |
-      Home Trust Comfort recently replaced our furnace and installed a new AC unit for us. They did an amazing job! From quote and the initial meeting, to install and follow-up, everything went smoothly and we are so happy with our products as well. Would highly recommend!
   - name: "Jenham Wittmeier"
     rating: 5
     comment: |
       Got a heat pump installed in my new build home. Service with the office was great and clear on what was needed to be done. They helped with the permit information as well which was nice.
       
       The installers were professional and kept everything clean while installing. The finished product looks great and they walked me through everything afterwards. Would recommend and use their services again!
+  - name: "Allison Storochuk"
+    rating: 5
+    comment: |
+      Our Technician Van Wu was very kind and explained everything perfectly. Trust Home Comfort also was very busy but they squeezed me in during a time of need and that was really appreciated. Their invoice was very thorough and very reasonably priced. I could not recommend this company more- thank you so much again. Also the receptionist was absolutely wonderful.
 ---

@@ -9,7 +9,7 @@ address: "51227 AB-60"
 neighborhood: "West Edmonton"
 google_maps_url: "https://maps.google.com/?q=U%20of%20A%20Botanic%20Garden%20Edmonton"
 hours:
-  monday: "10:00 AM–7:00 PM"
+  monday: "Closed"
   tuesday: "Closed"
   wednesday: "Closed"
   thursday: "Closed"
@@ -18,7 +18,7 @@ hours:
   sunday: "10:00 AM–7:00 PM"
 photos: ["/photos/u-of-a-botanic-garden-1.jpg", "/photos/u-of-a-botanic-garden-2.jpg", "/photos/u-of-a-botanic-garden-3.jpg"]
 rating: 4.6
-review_count: 3318
+review_count: 3320
 price_range: "$$"
 amenities:
   - "Family Friendly"
@@ -41,10 +41,6 @@ reviews:
     rating: 2
     comment: |
       Disappointing visit. Water feature was out of service, but admission was still full price. Several ponds also looked stagnant and poorly maintained. The gardens are nice, but I expected better upkeep and more transparency about major attractions being unavailable.
-  - name: "Lsquared A"
-    rating: 4
-    comment: |
-      It's like the Mutart Conservatory multiplied on large scale. Absolutely huge, with so much to see! The Japanese, apline,arid and wetland areas were my favorite! The only downside is the cost of the food..$11 for a wiener on a bun with nothing else added is pretty steep. Really nice way to escape the city for a day
   - name: "Noel Querijero"
     rating: 5
     comment: |
@@ -55,4 +51,8 @@ reviews:
       Plant collection was extensive , could you also include fungi, and other plants
       
       The ponds would be nice if there were fish?
+  - name: "Lsquared A"
+    rating: 4
+    comment: |
+      It's like the Mutart Conservatory multiplied on large scale. Absolutely huge, with so much to see! The Japanese, apline,arid and wetland areas were my favorite! The only downside is the cost of the food..$11 for a wiener on a bun with nothing else added is pretty steep. Really nice way to escape the city for a day
 ---

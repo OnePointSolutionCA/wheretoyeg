@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/turning-point-accident-physio-concussion-vestibular-male-fem-1.jpg", "/photos/turning-point-accident-physio-concussion-vestibular-male-fem-2.jpg", "/photos/turning-point-accident-physio-concussion-vestibular-male-fem-3.jpg"]
 rating: 4.9
-review_count: 185
+review_count: 187
 price_range: "$$"
 amenities:
 

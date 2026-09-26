@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–5:00 PM"
 photos: ["/photos/we-clean-pest-control-edmonton-1.jpg", "/photos/we-clean-pest-control-edmonton-2.jpg", "/photos/we-clean-pest-control-edmonton-3.jpg"]
 rating: 4.8
-review_count: 871
+review_count: 875
 price_range: "$$$$"
 amenities:
 
@@ -28,10 +28,6 @@ tags: ["edmonton", "pest-control"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Brian Emter"
-    rating: 5
-    comment: |
-      We Clean Pest Control provided outstanding service from start to finish. They were professional, punctual, and very knowledgeable. They took the time to explain the treatment process, answered all of my questions, and made sure the job was done thoroughly. It's clear they take pride in their work and genuinely care about their customers. I highly recommend We Clean Pest Control to anyone looking for reliable, effective, and friendly pest control service. Five stars!
   - name: "Tisha Dolynchuk (USMCGirl97)"
     rating: 1
     comment: |
@@ -52,6 +48,10 @@ reviews:
     rating: 5
     comment: |
       Sunny did a fantastic job taking care of the wasp nest under my front steps. I called in the early afternoon and he showed up a few hours later. He was able to quickly identify where the nest was located, treat the entrance (as the nest turned out to be underground) and he sealed off the entrance as well. Sunny was very knowledgeable and was a pleasure to deal with. I would highly recommend them!
+  - name: "Brian Emter"
+    rating: 5
+    comment: |
+      We Clean Pest Control provided outstanding service from start to finish. They were professional, punctual, and very knowledgeable. They took the time to explain the treatment process, answered all of my questions, and made sure the job was done thoroughly. It's clear they take pride in their work and genuinely care about their customers. I highly recommend We Clean Pest Control to anyone looking for reliable, effective, and friendly pest control service. Five stars!
   - name: "Louie Glenn Aballe"
     rating: 5
     comment: |

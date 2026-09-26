@@ -44,10 +44,6 @@ reviews:
     rating: 5
     comment: |
       Fantastic experience. The server was friendly, attentive, and professional throughout our visit. Service was prompt, the atmosphere was welcoming, and we felt genuinely valued as customers. Highly recommend and will definitely be back."
-  - name: "Maryam M"
-    rating: 2
-    comment: |
-      I have mentioned it to the ladies at the front and the chef multiple times. The food is not the same. The chilli and the soup are watered down. We are not Somali but this was our favourite restaurant. However, the quality of the food is going very down. They keep saying nothing changed but the soup and chili and bread are not the same anymore. Please make it like u did a few years ago and I will change my review. Everything else about this restaurant is great.
   - name: "Olivia"
     rating: 5
     comment: |
@@ -56,4 +52,8 @@ reviews:
       there is a flavorful complimentary soup! we got Lamb Shank and Chicken Shawarma. each was $17.50 and pretty big portions.
       
       the hostess was very friendly and welcoming. i would recommend this place to anyone and would go again to try their other items on the menu :)))
+  - name: "Shalom Gbibel"
+    rating: 5
+    comment: |
+      Was invited to try it out by a Somalian friend and i do not regret it! We got the beef and chicken suqaar combo and it was DELICIOUS, portions were amazing and I'd highly recommend it to everyone! Service was amazing too.
 ---

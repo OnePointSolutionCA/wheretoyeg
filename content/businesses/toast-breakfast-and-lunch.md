@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "Windermere"
 address: "17328 Hiller Rd SW, Edmonton, AB T6W 1A6"
 rating: 4.4
-review_count: 390
+review_count: 392
 tier: "featured"
 phone: "(825) 480-1621"
 website: "https://www.toastbl.com/"

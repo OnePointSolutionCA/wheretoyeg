@@ -19,7 +19,7 @@ hours:
   sunday: "2:00 PM–11:00 PM"
 photos: ["/photos/the-halal-oven-1.jpg", "/photos/the-halal-oven-2.jpg", "/photos/the-halal-oven-3.jpg"]
 rating: 4.5
-review_count: 110
+review_count: 115
 price_range: "$$"
 amenities:
   - "Halal"

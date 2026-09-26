@@ -13,6 +13,23 @@ google_maps: "https://maps.google.com/?cid=611274180071912927&g_mp=Cidnb29nbGUub
 photos:
   - "/images/businesses/total-focus-northgate-and-dry-eye-clinic.jpg"
 reviews:
+  - name: "Joe T"
+    rating: 1
+    comment: |
+      Seemed like a nice shop! Was greeted and I told them what I was looking for… she quickly says right there! I look and there are two cabinets, I had to ask which one! lol
+      Then she asks if I needed someone to help me! DUH! I answered yes! Within a few minutes she tells me the frames start at $200 + lenses!
+      I waited another few minutes and said… ok, thank you! Then I told the reception that no one bothered to help me! There was no reply and I just walked out!
+      
+      Guess they have too many customers… I didn’t see any so, I am not sure but it was an hour before closing!
+      
+      They must of thought I was not a serious buyer!
+      
+      Too bad and so sad for them…. Do NOT go there for your business! I know I won’t go back again!
+      
+      Update:  It only took a month to reply? How do I know that changes if any will take place? Not even a “please call me” to straighten or change your mind!
+      Your understanding of customer service is truly lacking!
+      I ended up going to Costco and bought two pairs of glasses. Their customer service and delivery was fantastic!!
+      Having said all that, good luck!
   - name: "Kinan Zidan"
     rating: 5
     comment: |
@@ -43,10 +60,6 @@ reviews:
     rating: 5
     comment: |
       Excellent experience from start to finish! The eye exam was thorough, and the staff were friendly, professional, and very helpful in choosing the perfect pair of glasses. Great customer service and a smooth process. Highly recommend!
-  - name: "Jeanette"
-    rating: 3
-    comment: |
-      My eye exam was great. The person who helped me pick out my new frames was very pleasant. When I went to pick up my glasses I was asked to: sign here. I was asked if I wore progressive lenses before. And finally are you wearing the new glasses out? No checking, no adjusting, barely a glance in my direction. Sorry to have bothered you. It won’t happen again.
 hours:
   monday: "10:00 AM–6:00 PM"
   tuesday: "10:00 AM–6:00 PM"

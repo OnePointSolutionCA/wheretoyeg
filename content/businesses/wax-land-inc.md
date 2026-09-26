@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/wax-land-inc-1.jpg", "/photos/wax-land-inc-2.jpg", "/photos/wax-land-inc-3.jpg"]
 rating: 5
-review_count: 425
+review_count: 426
 price_range: "$$"
 amenities:
 
@@ -32,14 +32,12 @@ reviews:
     rating: 5
     comment: |
       Nancee is the best beautician I have experienced in Edmonton. She is very nice, the experience is as painless as it can be, it’s beautiful, clean and last a long time. Discovered her downtown and followed her in her new location because I can’t find anyone better. Good prices and the best customer care. Recommanding 100%
-  - name: "Blanca Marroquin"
+  - name: "Charmaine E"
     rating: 5
     comment: |
-      I came to Wax Land for my first Brazilian wax ever. Maria created such a comfortable environment where I felt at ease and immediately knew I chose the right place to go to. She was very honest about what to expect so that nothing came as a surprise. I also got my brows done and they look amazing!
+      Jillian was attentive and checked in throughout the waxing experience to ensure I was doing okay and the results are great.
       
-      The studio is also very well maintained and clean, so adds that extra level of comfort.
-      
-      Will definitely be coming back for my waxing needs.
+      Met Nancee, the owner as well during my visit. The space is welcoming and clean. I’ll definitely be returning!
   - name: "Kyla Sherman"
     rating: 5
     comment: |

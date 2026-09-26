@@ -18,7 +18,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/wem-dental-clinic-1.jpg", "/photos/wem-dental-clinic-2.jpg", "/photos/wem-dental-clinic-3.jpg"]
 rating: 4.9
-review_count: 561
+review_count: 566
 price_range: "$$"
 amenities:
   - "Direct Billing"

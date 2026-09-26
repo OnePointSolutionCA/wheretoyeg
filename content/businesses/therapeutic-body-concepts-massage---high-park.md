@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–5:00 PM"
 photos: ["/photos/therapeutic-body-concepts-massage---high-park-1.jpg", "/photos/therapeutic-body-concepts-massage---high-park-2.jpg", "/photos/therapeutic-body-concepts-massage---high-park-3.jpg"]
 rating: 4.9
-review_count: 1120
+review_count: 1125
 price_range: "$$"
 amenities:
 
@@ -45,12 +45,6 @@ reviews:
     rating: 5
     comment: |
       Kaitlin was professional, prompt, and efficient. She took me in last minute. I loved every minute with her. I hadn't had a massage in 1-2 yrs and she had her work cut out for her. I felt super bad. I had massages monthly long time ago and I quit doing that. I remember I had times where I was in immense pain and it was quiet and she knew to get me talking to talk through the pain. Lol. She is pretty, gorgeous and beautiful. Super welcoming, friendly and affable. I was in the midst of getting a massage, chiro assessment and treatment on Wed and leaving for Japan on the Sat (tomo morn). I felt super wonderful and felt like I could breathe as she had worked on me for only 45 mins but was planning on 90 mins. I have booked a 90 min massage for when I am back from my trip in 10 days. I love the front receptionists again super amazing customer service skills all around.
-  - name: "Sinjin Zhao"
-    rating: 5
-    comment: |
-      I’ve always had such a wonderful massage experience with Yelva. She always creates such a welcoming and calming environment and is very attentive to your needs. Her massages have been an integral part of my recovery and every visit helped me feel more relaxed and like a weight has been lifted off my shoulders. I am incredibly grateful to Yelva for the care and support she’s provided through her massages over the past while.
-      
-      Highly recommend her to anyone looking for a skilled and genuinely caring massage therapist!
   - name: "Jason Lochhead"
     rating: 5
     comment: |
@@ -61,4 +55,16 @@ reviews:
       What really stood out was her professionalism and attention to detail. She takes the time to listen, tailor the session to your needs, and ensure your comfort throughout. This wasn’t just a massage—it felt like a therapeutic reset for both body and mind.
       
       I highly recommend Oxana to anyone looking for a skilled and knowledgeable practitioner. I’ll definitely be returning.
+  - name: "Irma Trottier"
+    rating: 5
+    comment: |
+      I went here for RMF Therapy. I had a very bad sciatica attack. The pain was very bad. It was hard to sit, lay down and walk. The pain brought me to my knees.
+      
+      RMF therapy iquickly relieves pain and restores function by targeting the central nervous system, muscles, nerves and fascia.
+      Susana the RMT is very professional and explained the procedure throughout the session which let me know what to expect and I felt safe.
+      
+      45 minutes later I walked out of the clinic with a minimal pain that was bearable.
+      I went for 3 sessions and now I am feeling much better and can now squat and move flexibly again.
+      
+      I highly recommend this clinic and Susana. Very professional welcoming staff work here and they care about their clients.
 ---

@@ -19,7 +19,7 @@ hours:
   sunday: "7:00 AM–10:00 PM"
 photos: ["/photos/zees-car-wash-1.jpg", "/photos/zees-car-wash-2.jpg", "/photos/zees-car-wash-3.jpg"]
 rating: 3.9
-review_count: 543
+review_count: 544
 price_range: "$$"
 amenities:
 
@@ -35,10 +35,6 @@ reviews:
     rating: 5
     comment: |
       Phenomenal ATM experience. I only cried a little bit it wasn't the ATM's fault, I was just really excited at their 20l bucket deal. 3 bucks a bucket?! What a deal!
-  - name: "Rhonda"
-    rating: 5
-    comment: |
-      Very clean car wash bays and store. Really enjoy the additional time per loonie in the car wash compared to other companies. They have an ice cream machine which is awesome on hot days! Friendly staff - highly recommend stopping in!
   - name: "A. Spencer"
     rating: 4
     comment: |
@@ -47,4 +43,8 @@ reviews:
     rating: 5
     comment: |
       Very friendly staff and people don't push you to be fast and quick. It is one of the best car washes in Edmonton. This is the only car wash I feel comfortable washing my car in. Also there is like place connected to it that you can buy products like snacks drink and car cleaning supplies. It is pretty good. I always go get some coffee and some biscuits whenever I pass by.
+  - name: "Ejnar Nissen"
+    rating: 1
+    comment: |
+      I was at Zee's today, things was going good untill I got wet from a massive leak above the car. I brought it to the attention to the of the attendant. He said "it happens" and explained the reason. So he knew about it but was not going to do anything about it. He did not apologize just a what do you expect kind of thing attitude . So if you like to get soaked money wise or literally then this is your carwash.
 ---

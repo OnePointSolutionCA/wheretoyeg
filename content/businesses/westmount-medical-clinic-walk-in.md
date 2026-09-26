@@ -50,8 +50,9 @@ reviews:
     rating: 1
     comment: |
       They need to remove walk-in clinic from their advertisements. I’ve been turned away 3 times now when trying to do a walk-in for various reasons (was there at opening today and was told “not taking anymore walk ins today” I asked “what do you mean ‘anymore’ I just got here (at opening)” and she said sorry “at all today”. I suggested changing their site as this has happened 3 times now on a Saturday. Needs to state appointment only, she offered that but clearly I’m doing a walk in because my work schedule and single parent life does not always permit scheduling an appointment. Would save people from wasting important time trying to walk-in if this was updated! I used to like this place as it was fast and convenient but that has changed.
-  - name: "Harper-Hugo Darling"
-    rating: 1
+  - name: "Beautiful Mumacita and Senor Pinto"
+    rating: 5
     comment: |
-      I went to dr. Adebiyi because he was recommended by a friend, another friend soon after warned me away saying that he has trouble listening to women. I went anyways because I was hopeful that this wasn't true. When I got there, I asked specifically about an Endometriosis diagnosis and he had VERY little information about this condition. He in fact, contradicted me about basic information. Specifically saying that one scan is enough to rule out Endo, which is not true. I was very disapointed in his lack of awareness, and decided not to continue with him and would warn others against going for his services.
+      We took our 92-year-old mother today to find a new family doctor
+      She was treated with great amounts of respect and genuine care
 ---

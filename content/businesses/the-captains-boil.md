@@ -19,8 +19,8 @@ hours:
   saturday: "11:00 AM–10:30 PM"
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/the-captains-boil-1.jpg", "/photos/the-captains-boil-2.jpg", "/photos/the-captains-boil-3.jpg"]
-rating: 4.2
-review_count: 796
+rating: 4.1
+review_count: 802
 price_range: "$$"
 amenities:
   - "Dine-In"

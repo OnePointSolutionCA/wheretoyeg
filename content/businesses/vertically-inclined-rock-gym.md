@@ -18,7 +18,7 @@ hours:
   sunday: "12:00 PM–8:00 PM"
 photos: ["/photos/vertically-inclined-rock-gym-1.jpg", "/photos/vertically-inclined-rock-gym-2.jpg", "/photos/vertically-inclined-rock-gym-3.jpg"]
 rating: 4.6
-review_count: 463
+review_count: 464
 price_range: "$$"
 amenities:
   - "Beginner Friendly"

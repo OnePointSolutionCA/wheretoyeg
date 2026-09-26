@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/thrill-lands-vr-wem1-1.jpg", "/photos/thrill-lands-vr-wem1-2.jpg", "/photos/thrill-lands-vr-wem1-3.jpg"]
 rating: 4.9
-review_count: 264
+review_count: 265
 price_range: "$$"
 amenities:
 
@@ -41,10 +41,10 @@ reviews:
     rating: 5
     comment: |
       My kids and I love this, we always go the minimum of two rides at least! Definitely worth the little stop
-  - name: "Manjot Sran"
+  - name: "DOOMED FIFA MOBILE"
     rating: 5
     comment: |
-      I had such a great time at ThrillRides. The rides were exciting, the place was clean, and the whole experience was unforgettable. A special shout-out to Liza, who was incredibly helpful and friendly. She made our visit even better with her great customer service. Thank you, Liza, for taking such good care of us.
+      I had a great experience, hashir was the name of the person who attended me and he had created a great environment for my kids and they left very happy, thrill-lands has very impressive customer service and enjoyable rides!! 100% recommend!!
   - name: "Daniel Wright"
     rating: 5
     comment: |

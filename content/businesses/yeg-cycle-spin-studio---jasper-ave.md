@@ -40,14 +40,6 @@ reviews:
     rating: 5
     comment: |
       I always have a great spin! The beats are pumping, the staff are friendly, the classes are challenging, and the atmosphere is always energetic. I come here very often as a member and always really appreciate the instructors for mixing up the playlists and keeping it fresh!
-  - name: "Kiana Sieg"
-    rating: 5
-    comment: |
-      I recently started coming to spin more often and the team of instructors here are always so welcoming and kind!
-      
-      The classes are challenging - but you get to choose your difficulty & how hard of a challenge you want.
-      
-      Beautiful studio, free towel service, friendly staff & it’s very clean and well kept!
   - name: "t t"
     rating: 5
     comment: |
@@ -56,4 +48,12 @@ reviews:
     rating: 5
     comment: |
       I don’t live in Edmonton and have never taken a class here, but I bet their classes are 🔥 just based on their cheer squad at the Edmonton marathon today. The energy was wild! Thanks for coming out to cheer everyone on… best squad out there BY FAR.
+  - name: "Kristyn Chamzuk"
+    rating: 5
+    comment: |
+      I can't say enough great things about YEG Cycle on Jasper Ave! The energy in this studio is unmatched – from the moment you walk in, you're greeted with smiles and an upbeat atmosphere. The motivators are incredible instructors who know how to push you to your limits while keeping the classes fun and engaging. Every ride is different, so it never feels repetitive.
+      
+      I also love the creative themed classes! During the 2024 Stanley Cup playoffs, they had amazing Oilers-themed rides that really got everyone in the spirit. I’m really looking forward to the spooky/Halloween-themed classes coming up too – they always do such a great job making every class a fun experience.
+      
+      If you're looking for a high-energy workout that leaves you feeling great and part of an amazing fitness family, I highly recommend YEG Cycle! You won’t regret a spin.
 ---

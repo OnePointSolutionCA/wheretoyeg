@@ -28,6 +28,10 @@ tags: ["edmonton", "cuts-styling"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "P S"
+    rating: 5
+    comment: |
+      I have been going to John, the owner, for a year now, and the transformation in the health of my hair has been incredible.  John truly excels at his craft; he customizes my style and color so that it always feels fresh and on-trend, while ensuring it is still flattering and suited to my lifestyle.  Beyond his styling expertise, he is exceptionally knowledgeable about skincare and the Dermalogica line, which is such a bonus.  It is clear that John sets a very high standard for his entire team, and they consistently deliver excellent service and results.  I highly recommend The Cutting Room.
   - name: "Autumn Byrne"
     rating: 5
     comment: |
@@ -36,10 +40,6 @@ reviews:
       From the very first appointment, John understood exactly what I was looking for. Not only did he help me achieve the look I had been striving for, but he also transformed the overall health of my hair. I now wear my hair with confidence and pride, knowing it’s in expert hands.
       
       John’s skill in maintaining length while restoring and preserving hair health is truly impressive. I’m incredibly grateful to have found such a talented and experienced stylist, and I couldn’t recommend him more highly.
-  - name: "P S"
-    rating: 5
-    comment: |
-      I have been going to John, the owner, for a year now, and the transformation in the health of my hair has been incredible.  John truly excels at his craft; he customizes my style and color so that it always feels fresh and on-trend, while ensuring it is still flattering and suited to my lifestyle.  Beyond his styling expertise, he is exceptionally knowledgeable about skincare and the Dermalogica line, which is such a bonus.  It is clear that John sets a very high standard for his entire team, and they consistently deliver excellent service and results.  I highly recommend The Cutting Room.
   - name: "Alana Gueutal"
     rating: 5
     comment: |

@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–9:30 PM"
 photos: ["/photos/turquaz-kebab-house-1.jpg", "/photos/turquaz-kebab-house-2.jpg", "/photos/turquaz-kebab-house-3.jpg"]
 rating: 4.7
-review_count: 9179
+review_count: 9212
 price_range: "$$"
 amenities:
   - "Halal"
@@ -47,8 +47,8 @@ reviews:
     rating: 5
     comment: |
       A lovely Turkish restaurant with delicious food. A family of 10 had dinner. We were quickly greeted by staff and seated in a large booth. The piping hot food was on our table within minutes of ordering. We ordered the Pomono, Adana kebab, Minced mixed kebab and Trio Kebab. All servings were large and came with hummus, garlic sauce, salad and either rice or fries .
-  - name: "Felicia Hampson"
+  - name: "Musfeq “Moose” Saleheen"
     rating: 5
     comment: |
-      My family and I have driven by here so many times and kept smelling the amazing food as we passed. Today, we stopped in and were blown away! The food was fantastic!!! And the portions huge! The service was incredible and they kept making sure we were enjoying the food. They even served bread with a dip for an appetizer and it’s at no cost. Seriously, we were blown away with how amazing this place is. Wish I got better pictures but I didn’t think of it until after we were done eating. We got a trio platter, chicken thigh platter and kid’s chicken fingers.
+      Food was awesome and they took care of us so well! The lady Rihana was so friendly and caring. We loved her service!
 ---

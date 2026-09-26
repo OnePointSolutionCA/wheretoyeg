@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Spruce Grove"
 address: "505 Queen St #205, Spruce Grove, AB T7X 2V2"
 rating: 3.8
-review_count: 28
+review_count: 29
 tier: "featured"
 phone: "(780) 960-9533"
 website: "http://www.westviewpcn.ca/"
@@ -22,6 +22,10 @@ reviews:
       This is when I met Jessica Chong, NP and her fantastic team! My impression is she is friendly, warm and receptive but also pays close attention to the details and is prompt in her actions going forward. She is absolutely fantastic to deal with, and takes the time to build trust and listen to the patient. It is the primary healthcare I've been looking for for years!
       
       My family and I will be seeing her and her team exclusively going forward! Thanks again, WestView PCN!!
+  - name: "Patrick Rickard"
+    rating: 5
+    comment: |
+      This is an excellent service if you do not have a family doctor. Scheduling an appointment is easy and you can speak to someone within days. The people are professional, knowledgeable and have been a great help to me.
   - name: "Jean"
     rating: 1
     comment: |
@@ -44,10 +48,6 @@ reviews:
       I had an amazing experience with NP Jessica Chong. She is caring, understanding, and very thorough. I don't have a family doctor so I have been to walk ins before with my problem only to be told there's nothing wrong, without any testing.
       Jessica listened to my symptoms, asked a lot of questions and ordered appropriate testings which found out a condition that needed a treatment right away. Now I can be referred to see a specialist thanks to her.
       Virtual appointment is really handy and their hours are not too short so it's not hard to book with them.
-  - name: "Toby Raymond"
-    rating: 5
-    comment: |
-      I have had some health issues the past couple years & sought out WestView PCN after having difficulties finding any care/a family doctor.  Rurally located makes it a challenge as well.  I was able to have virtual visits over phone, scheduled within days of my request, receive feedback via direct calls and lab documentation via email.  Test results were communicated by Jessica immediately upon return.  Best health care I have received in my 40+ years in Alberta.  Our inefficient health system should adopt more care like this and expand these services across the province.  While recently finding a family doctor, he has no time for me, long waits just to be seen and then rushed out the door.  I'm convinced virtual care should be expanded rapidly, and with todays technology it will help alleviate pressures on our bloated system, including emergency hospital care and save taxpayers a great deal of money in the long term.  Doctors aren't always needed, health nurses like Jessica in a virtual setting can accomplish a lot.  With our expanding population and stressed systems it makes a lot of sense, and will save lives.  I didn't spend on gas, didn't have to hire a babysitter, no wear/tear, winter roads or scheduling difficulties...very happy with Westview PCN!  Thanks
 hours:
   monday: "8:30 AM–4:00 PM"
   tuesday: "8:30 AM–4:00 PM"

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/the-lash-and-brow-studio-west-edmonton-1.jpg", "/photos/the-lash-and-brow-studio-west-edmonton-2.jpg", "/photos/the-lash-and-brow-studio-west-edmonton-3.jpg"]
 rating: 4.6
-review_count: 35
+review_count: 34
 price_range: "$$"
 amenities:
 

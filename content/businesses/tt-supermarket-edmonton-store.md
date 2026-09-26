@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/tt-supermarket-edmonton-store-1.jpg", "/photos/tt-supermarket-edmonton-store-2.jpg", "/photos/tt-supermarket-edmonton-store-3.jpg"]
 rating: 4.3
-review_count: 4200
+review_count: 4206
 price_range: "$$"
 amenities:
 
@@ -38,6 +38,13 @@ reviews:
       Standard fare overall.  Not quite as good as a sit-down dim sum spot where you order fresh.  Some items here have clearly been sitting for a while, and it shows.
       
       Prices are OK, and the rest of the store is a great Asian market.  I reviewed today simply on the dining experience.
+  - name: "Svitlana S"
+    rating: 5
+    comment: |
+      The takeout food is excellent (dinner, lunch).
+      It’s true—products from China are like a trip down memory lane.
+      The meat and fish sections are always fresh.
+      The baked goods are a special treat; they’re unique to Europeans, but very simple and delicious.
   - name: "Ginny Explores"
     rating: 5
     comment: |
@@ -48,13 +55,6 @@ reviews:
       The store also has a lively atmosphere, especially on weekends, and checkout is generally efficient despite the crowds.
       
       Overall, a reliable and well-organized supermarket that’s worth visiting whether you’re cooking at home or picking up prepared food.
-  - name: "Svitlana S"
-    rating: 5
-    comment: |
-      The takeout food is excellent (dinner, lunch).
-      It’s true—products from China are like a trip down memory lane.
-      The meat and fish sections are always fresh.
-      The baked goods are a special treat; they’re unique to Europeans, but very simple and delicious.
   - name: "Alice Woo"
     rating: 5
     comment: |

@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/the-place-nails-spa-1.jpg", "/photos/the-place-nails-spa-2.jpg", "/photos/the-place-nails-spa-3.jpg"]
 rating: 4.9
-review_count: 472
+review_count: 477
 price_range: "$$$"
 amenities:
 
@@ -32,12 +32,6 @@ reviews:
     rating: 5
     comment: |
       Amy does an incredible job on my nails. Ive had her take care of my nails for the past 8 yrs. She's friendly,  kind, respectful and listens to your ideas and needs. Thank you so very much for all that you have done over the years.  Warm regards always.
-  - name: "Windy Turner"
-    rating: 4
-    comment: |
-      First time customer at The Place Nails & Spa!
-      Never had a manicure before and was in need of a pedicure. I’m not a girlie girl so I asked for recommendations and I am very pleased with the results 😀
-      I went all in and I got a Luxury Mani/Pedi. Got a hot stone massage, paraffin wax treatment. I nearly cut off. The tip of my thumb and the cut went I to my nail and they did a great job working around my ouchie and now you can hardly tell it is even there. BIG SHOUT OUT to the staff, they are very professional and pleasant. The facility is bright and clean. I’ll definitely be a return customer 🎉🎉
   - name: "Gagneet Kaur"
     rating: 5
     comment: |
@@ -52,4 +46,8 @@ reviews:
       I had such a great experience with Mia! She was so friendly, patient, and made me feel comfortable! She took the time to explain all of the different nail options and helped me choose what would work best for me, which I really appreciated. My nails turned out beautiful!
       
       The salon is also very clean, welcoming, and has such a great atmosphere. Everyone was kind and professional, and the overall service was excellent. I highly recommend booking, I’ll definitely be coming back!
+  - name: "Taninder Kaur"
+    rating: 5
+    comment: |
+      Had my Gel-X nails done by Mia and had a wonderful experience. Excellent service, great attention to detail and very helpful. Highly recommend her work.
 ---

@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "Windermere"
 address: "5124 Mullen Rd, Edmonton, AB T6R 0S9"
 rating: 4.1
-review_count: 624
+review_count: 627
 tier: "featured"
 phone: "(780) 758-9283"
 website: "https://wavescoffee.ca/?utm_source=GoogleBusinessProfile&utm_medium=Website&utm_campaign=WavesCoffee"
@@ -38,10 +38,10 @@ reviews:
     rating: 2
     comment: |
       I ordered an $8.25 Waves size White Hot Chocolate, $9.27 (with tax and tip), which i always go for when I go to Waves but this time when i got to work and opened my drink, it was only 75% full??? Very disappointed
-  - name: "Waldo 777"
-    rating: 2
+  - name: "Auxy DB"
+    rating: 1
     comment: |
-      The amount of times they’ve gotten my order wrong is insane. I honestly get that it’s busy and I’m willing to wait but like give me a bagel with cream cheese. This girl gives me 2 pieces of bagel with nothing in it. Like how? The workers are super sweet and nice though but still this place needs some serious improvement
+      There’s nothing special about this place other than it was overpriced. $9.40 for a croissant that looks like this? It was a very small portion, and the coffee is nothing special as well. Might as well spend it at Tim hortons or second cup, it’ll be worth my money.
 hours:
   monday: "7:00 AM–8:00 PM"
   tuesday: "7:00 AM–8:00 PM"

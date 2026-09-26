@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "8882 170 St NW #2065, Edmonton, AB T5T 3J7"
 rating: 4.1
-review_count: 2456
+review_count: 2461
 tier: "featured"
 phone: "(780) 900-8714"
 website: "https://www.therecroom.com/west-edmonton-mall?utm_source=google-my-business_WestEdmontonMall&utm_medium=profile&utm_campaign=owned_media"
@@ -31,10 +31,12 @@ reviews:
     rating: 4
     comment: |
       We went twice. Kids had fun.  There were a lot of machines that were not working at times.  A bit pricey, but what isn't these days.
-  - name: "Baylee Geiger"
+  - name: "Hilary Hauer"
     rating: 5
     comment: |
-      What an amazing team! We came in yesterday needing a table for 15, I never even thought to book a reservation and they were completely booked up, they did not think they would be able to get us in. I got a message saying they have a table at 330pm for 15 people for us. We showed up, table was ready. The server was amazing!!! She was so kind I wish I got her name, but she was fabulous!!! The food came out really quick even though it was packed in there and no mistakes at all !!! They really helped us out with feeding 15 people including a bunch of hungry kids who spent the day at galaxy land for my sons birthday! Thank you to the manager (not sure his name) the host (not sure her name) & the server!! You guys were all so amazing, I appreciate you all so much! Great food, great service & awesome games!!!!
+      Had an absolute blast with 3 generations of my family at the the Rec Room watching the final FIFA game.
+      Service was excellent...timely, courteous, and efficient. Margarita pizza and loaded nachos were very tasty and well prepared. Prices on par.
+      The super big screen felt like we were almost in the game! Floor space in front of it was filled with the little kiddos dancing and playing at intercession. Had a nice mix of tables and booths on 2 levels with some L shaped sofas on the lower...so something for everyone.
 hours:
   monday: "3:00 PM–11:00 PM"
   tuesday: "3:00 PM–11:00 PM"

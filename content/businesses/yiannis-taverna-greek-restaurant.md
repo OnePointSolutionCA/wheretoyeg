@@ -20,7 +20,7 @@ hours:
   sunday: "5:00 PM–9:00 PM"
 photos: ["/photos/yiannis-taverna-greek-restaurant-1.jpg", "/photos/yiannis-taverna-greek-restaurant-2.jpg", "/photos/yiannis-taverna-greek-restaurant-3.jpg"]
 rating: 4.4
-review_count: 993
+review_count: 994
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,10 +30,6 @@ tags: ["edmonton", "greek"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Andreea Gabriela"
-    rating: 5
-    comment: |
-      By far one of the best Greek restaurants in Canada (from an European who spent months in Greece). The food was very tasty, the prices really good and the service impeccable. I would recommend it to everyone and we will definitely come back often.
   - name: "Jay"
     rating: 5
     comment: |
@@ -52,6 +48,10 @@ reviews:
       There was a belly dancer on that night, which added a nice touch. Location is good. Space is plenty.
       
       The photos are from all the food that was ordered by the table, not just what I had.
+  - name: "Andreea Gabriela"
+    rating: 5
+    comment: |
+      By far one of the best Greek restaurants in Canada (from an European who spent months in Greece). The food was very tasty, the prices really good and the service impeccable. I would recommend it to everyone and we will definitely come back often.
   - name: "Jennifer S"
     rating: 5
     comment: |
@@ -61,8 +61,8 @@ reviews:
       The servers were excellent. Quick and efficient with genuine smiles.
       We have always enjoyed the food at Yiannis but I’ve never attended a large party there. I would not hesitate to plan another with Tammy and the staff.
       Thank you for helping me make a truly memorable day for my mom!
-  - name: "Karen Willie"
+  - name: "Dan Barbu"
     rating: 5
     comment: |
-      I gave a 5 star all around. The food, drinks and service was exceptional. I had the chicken skewers and my friend had the lamb. Both dishes were equally delicious. Im pretty sure hers was anyway, I didnt taste it but she seemed to really enjoy it. I will say, it looked absolutely delicious and the lamb looked super tender. The only downfall, and it wasnt even mine, was the last time she had the lamb, it was on the bone, other than that, no complaints. The prices are excellent for what you get. The drink we had was so fancy. I hope i at least took a pic of that to post. The drink alone is enough to make anyone want to go there. The ice cube was beautiful... who compliments an ice cube 🧏‍♀️ i didnt until i was given one worth mentioning and complimenting lol its the added touch that makes the whole experience. It was a rose and then they poured something red over it so it looked like this beautiful colored rose in the galss. There were a few solo customers, which always impresses me. I always think its because the food is good that people would rather eat alone so they dont have to talk to anyone so they can stuff their faces with food that dreams are made of. The server we had was fast, friendly and overall had such good energy, which I find way more important than how fast the food comes out. I dont care if the food is the best around, if the servers have poor energy, I wouldnt go back. Id go back to a place where service was slower but the energy is on par. Not to say service was slow, it wasn't at all. Not only do you get delicious food, but you get exceptional service. Finally, if you've never gone to yannis for a meal its hard to describe the atmosphere. The fact that it opens up to the outside so you can sit outside and be apart of the fun energy that whyte have is, tops the entire experience off. Inside the restaurant its dimly lit, which makes it either cozy, or romantic depending on your reason for going. Its the perfect place to eat alone, with friends, a romantic date, a birthday, etc... so overall I would stand behind my 5 out of 5 stars. Go there, i promise you wont be disappointed.
+      Good food and great venue, especially the room downstairs. The servers were very attentive, and everything from the appetizers to the main course tasted great. Huge shoutout to the spanakopita, I could not have enough.
 ---

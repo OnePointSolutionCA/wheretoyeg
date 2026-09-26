@@ -48,8 +48,10 @@ reviews:
       Wow! Amazing food with great prices and outstanding customer service 🔥👏
       Very delicious and clean food, cheap prices, and super polite staff. These people really deserve support ❤️
       Small restaurant, but the food is absolutely amazing, very delicious, and affordable 😋✨
-  - name: "Awet Yohannes"
+  - name: "Hermon T // YESUS"
     rating: 5
     comment: |
-      Such a beautiful spot for Mediterranean food. The food was fresh, clean, and full of flavor. The hummus was excellent, and the shawarma was absolutely on point. You can tell the chef really knows what they’re doing. One of the best places for good food and great taste
+      Tried this restaurant recently and I was really impressed. The food tasted amazing and you can tell it’s made with care. Everything was fresh and full of flavor.
+      The service was also great — the staff were polite, attentive, and made the whole experience even better. I didn’t have to wait long, which is always a plus.
+      Overall, it’s a great spot to eat, whether you’re going alone or with friends. Definitely worth checking out!
 ---

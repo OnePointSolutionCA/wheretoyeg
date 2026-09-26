@@ -51,14 +51,14 @@ reviews:
       We greatly appreciated their efficiency due to the time-sensitive nature of our deal.
       
       Thank you again, and we are looking forward to your services in the future.
+  - name: "golfandgrill"
+    rating: 5
+    comment: |
+      Vivek and Rohit are simply exceptional. Professional, sharp, respectful, and an absolute pleasure to deal with. The level of dedication and care they bring to their work really stands out.
+      
+      Both of them carry themselves with confidence and professionalism, and it’s easy to see why they’re so highly regarded. Nothing but great things to say about Vivek and Rohit and the team at Urban Lawyers.
   - name: "Bashar"
     rating: 5
     comment: |
       I had an excellent experience working with Urban Lawyers for both a prenuptial agreement and a real estate transaction. The entire process was seamless, thanks to the exceptional service provided by Rohit and Vivek. They were consistently available to answer questions and offered support at every step. I appreciate their professionalism and dedication, and I will certainly be relying on them for all my future legal needs
-  - name: "Ty Josey"
-    rating: 5
-    comment: |
-      I recently used Urban Lawyers to represent me in a legal matter that needed quick and efficient solutions. At every step of the way I was provided with timely responses, professionalism, and accuracy in their service. When going into their office, I was always greeted with a friendly welcome by their staff. These guys are a solid team, and I will definitely be using them again in the future for business matters that may arise. They offered me a stress free experience and trust in their process, which was informative and educational along the way.
-      
-      Highly recommended.
 ---

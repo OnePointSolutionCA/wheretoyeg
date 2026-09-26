@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/vaticano-cucina-1.jpg", "/photos/vaticano-cucina-2.jpg", "/photos/vaticano-cucina-3.jpg"]
 rating: 4.4
-review_count: 1911
+review_count: 1914
 price_range: "$$"
 amenities:
   - "Dine-In"

@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "800 Broadmoor Blvd Unit 100, Sherwood Park, AB T8A 4Y6"
 rating: 4.5
-review_count: 714
+review_count: 718
 tier: "featured"
 phone: "(780) 570-2900"
 website: "http://www.theotherplace.rocks/"

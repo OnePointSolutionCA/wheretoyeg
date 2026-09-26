@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "1020 Sherwood Dr #120, Sherwood Park, AB T8A 2G4"
 rating: 4.9
-review_count: 849
+review_count: 855
 tier: "featured"
 phone: "(780) 467-6000"
 website: "https://www.wyedental.com/"
@@ -24,10 +24,6 @@ reviews:
       The dental assistants are equally kind, attentive, and supportive, creating a calm and comfortable environment during every visit.
       
       We highly recommend Wye Dental to anyone looking for outstanding dental care in Sherwood Park. The entire team consistently provides excellent service, professionalism, and genuine care for their patients. Thank you to Dr. Voravong and the entire staff for making every visit such a positive experience!
-  - name: "Walter Fischer"
-    rating: 5
-    comment: |
-      Awesome staff.  This is a dental office that you can trust to do only the work that is needed.  They are very kind and professional and the work is always top notch .  Very up to date office with the best equipment.  I don’t usually do reviews but Wye Dental deserves to be praised.  My wife was a dental assistant for over 30 years so I have heard all the horror stories about dental practices. You can assure yourself that you will only get the best and only what is necessary at Wye Dental.  I have had dental work, cleanings and Invisalign treatments here. All excellent.  The front end staff is always friendly and treats you well. This is the place to go!
   - name: "Alan Sobey"
     rating: 5
     comment: |
@@ -43,6 +39,10 @@ reviews:
       Very efficient right from reception to the chair , everything in between, & back to reception .
       All very friendly and pleasant !!!
       I would definitely recommend them to others .. great experience. Thank you again 👍🏻👍🏻
+  - name: "Melinda Oakman"
+    rating: 5
+    comment: |
+      The staff have gone above and beyond to care for my family during and after a recent dental procedure. The staff are always pleasant and gentle in their interactions with their clients. I highly recommend Wye Dental!
 hours:
   monday: "8:00 AM–4:00 PM"
   tuesday: "8:00 AM–8:00 PM"

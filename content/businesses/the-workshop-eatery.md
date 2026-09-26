@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Mill Woods"
 address: "2003 91 St SW, Edmonton, AB T6X 0C8"
 rating: 4.4
-review_count: 1783
+review_count: 1793
 tier: "featured"
 phone: "(780) 705-2205"
 website: "https://robertspencerhosp.com/workshop-eatery/"
@@ -45,10 +45,10 @@ reviews:
       And we dined.
       small plates shared amongst the three of us...brussel sprouts, Arancini, smoked short ribs that fell off the bone (so tender), garlic gnocchi and more.
       We had a great time, enjoying great food and served by great people. Next time we return to Edmonton, we are coming back here for a repeat experience.
-  - name: "Keely Van Vlack"
+  - name: "Scotia"
     rating: 5
     comment: |
-      An absolute hidden gem!  What you get for the price is out of this world.  Every dish is outstanding.  Fresh, local and incredible flavours.  The food is beyond exceptional.  Great selection of wines.  A 10/10 in our books!  Can’t wait to have another date night here!!
+      Best restaurant experience I've had in years! Went for our 10th anniversary and we're blown away with not just the amazingly flavourful food and immaculate presentation, but also the staff and service. Thank you to all the staff who were so welcoming and kind, it really made our night special. We will be back! (The goose outside was also very polite.)
 hours:
   monday: "11:30 AM–9:00 PM"
   tuesday: "11:30 AM–9:00 PM"

@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/yemeni-palace-restaurant-1.jpg", "/photos/yemeni-palace-restaurant-2.jpg", "/photos/yemeni-palace-restaurant-3.jpg"]
 rating: 4.8
-review_count: 588
+review_count: 621
 price_range: "$$"
 amenities:
   - "Halal"
@@ -35,10 +35,6 @@ reviews:
     rating: 5
     comment: |
       Very nice, neat and clean place. Ordered Mandi, which was quite good. Their Roti and Sighar were amazing. Would be back for those items for sure.
-  - name: "arrianne daryl Querubin"
-    rating: 5
-    comment: |
-      Five stars! This place is incredibly authentic. Having lived in the Middle East for nearly 11 years, we have high standards for this cuisine, and this restaurant absolutely delivered. The flavors took us right back. We love the food and the atmosphere—highly recommend!
   - name: "Zaynab"
     rating: 5
     comment: |
@@ -55,12 +51,12 @@ reviews:
       Beef, lamb, chicken. All meat was perfectly cooked.
       Liked their chai.
       Very recommended!
-  - name: "Mridul Krishnan"
+  - name: "Hiba Dakouri"
     rating: 5
     comment: |
-      Tried this Yemeni restaurant for the first time and had a great dine-in experience. The service was friendly and attentive, and the overall ambience was really nice and comfortable.
-      
-      We ordered the whole chicken mandi, and it did not disappoint, excellent flavor, perfectly cooked, and a generous portion size. Everything tasted fresh and well-seasoned.
-      
-      Overall, a solid spot if you’re looking to try Yemeni cuisine. Would definitely come back!
+      I absolutely loved it! The food is incredibly delicious, and the prices are very fair compared to other restaurants. Honestly, it’s one of the cheapest and tastiest places I’ve tried. The portions are huge—I was completely stuffed, and we didn’t even finish the meal
+  - name: "Lillia"
+    rating: 5
+    comment: |
+      My friends and I had a wonderful experience at the restaurant. The service was friendly and helpful. We got so much food for what we paid for so it was definitely great value. Food was very delicious and well made.
 ---

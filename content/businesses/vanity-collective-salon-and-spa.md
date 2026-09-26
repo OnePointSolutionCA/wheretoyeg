@@ -5,7 +5,7 @@ category: "spas-esthetics"
 neighborhood: "Spruce Grove"
 address: "1 Hawthorne Gate #116, Spruce Grove, AB T7X 0A6"
 rating: 4.9
-review_count: 840
+review_count: 844
 tier: "featured"
 phone: "(780) 571-0098"
 website: "http://www.vanitycollective.ca/"

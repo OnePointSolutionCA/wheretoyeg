@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Windermere"
 address: "6042 Currents Dr NW, Edmonton, AB T6W 0L7"
 rating: 4.8
-review_count: 300
+review_count: 301
 tier: "featured"
 phone: "(780) 758-8388"
 website: "http://www.windermeredental.ca/"
@@ -25,10 +25,6 @@ reviews:
       Diana, my Dental Hygienist, was absolutely amazing! Her precision in scaling and polishing was impressive, and I could genuinely feel the difference in my teeth after the cleaning. She is highly professional and made the entire experience comfortable and effective.
       
       I highly recommend this place to everyone—100% satisfaction guaranteed! 👏👏👏
-  - name: "Vinay Deved"
-    rating: 5
-    comment: |
-      Wonderful dental clinic. Front staff are friendly, and waiting room is comfortable. Many thanks to Diana (hygienist) and Dr. Lai (dentist) for their great, professional service.
   - name: "Richard Gervais"
     rating: 5
     comment: |
@@ -37,6 +33,10 @@ reviews:
     rating: 5
     comment: |
       New to edmonton and Im always so nervous to try new places. I was reccomended to check this place out and signed up as a patient. Had my first cleaning xrays assesment and repair. Bonus 1 direct billing ,2 very friendly and help full (ALL staff),3 MASSAGE chairs ! Pricing is competative , flexible to get into and work is top of the line Im so happy with treatment and fillings . Never underestimate the importance of oral healths affect on overall health.
+  - name: "Eric Thomsen"
+    rating: 5
+    comment: |
+      Staff at Windermere Dental were great, a cracked tooth that was repaired 11 months ago cracked again. This repair was completed at no cost to meet as it was under their one year warranty. Thanks again
 hours:
   monday: "11:30 AM–8:00 PM"
   tuesday: "9:00 AM–4:00 PM"

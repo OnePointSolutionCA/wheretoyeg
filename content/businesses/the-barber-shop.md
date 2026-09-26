@@ -19,7 +19,7 @@ hours:
   sunday: "10:00 AM–6:00 PM"
 photos: ["/photos/the-barber-shop-1.jpg", "/photos/the-barber-shop-2.jpg", "/photos/the-barber-shop-3.jpg"]
 rating: 4.9
-review_count: 519
+review_count: 521
 price_range: "$$"
 amenities:
 

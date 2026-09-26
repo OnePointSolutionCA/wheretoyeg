@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–6:00 PM"
 photos: ["/photos/the-tea-place-1.jpg", "/photos/the-tea-place-2.jpg", "/photos/the-tea-place-3.jpg"]
 rating: 4.4
-review_count: 518
+review_count: 519
 price_range: "$$"
 amenities:
   - "Dine-In"

@@ -20,7 +20,7 @@ hours:
   sunday: "7:00 AM–8:00 PM"
 photos: ["/photos/the-breadhaus-1.jpg", "/photos/the-breadhaus-2.jpg", "/photos/the-breadhaus-3.jpg"]
 rating: 4.2
-review_count: 130
+review_count: 132
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,6 +30,12 @@ tags: ["edmonton", "artisan-bread"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Claudine Mercado"
+    rating: 5
+    comment: |
+      Calli did an amazing job with my custom cake order. It was exactly how i described and price was great. I chose mocha flavor - yummy and not too sweet! Their Ube flavor is my next favorite.
+      
+      Also their pandesal is the closest you’ll get to a true Pinoy pandesal, must buy!
   - name: "Bruno Avilo"
     rating: 3
     comment: |
@@ -38,18 +44,12 @@ reviews:
     rating: 4
     comment: |
       Their fresh original and cheese pandesal are great, and we’ve enjoyed them many times. However, we recently bought the choco roll and it smelled like old oil, and the cinnamon rolls were quite hard. Hopefully this was just an off batch, as we usually like their baked goods.
+  - name: "Kamille G"
+    rating: 1
+    comment: |
+      I bought a Silvanas Sans Rival cake and I was very upset and disappointed. It was $42 and it tastes like cream cheese. Yes, the ingredients stated there is cream cheese, however, for someone who eat Sans rival and Silvananas being it my favourite, I know how it should taste like and this was very disappointing. My sister, dad, me and my nephews ate some and did not like it whatsoever, it was a waste of money. Plus, my dad also bought Brazo de mercedes and he was not happy about it as it did not taste anything. I think if they are making cakes, they should at least taste it first. Their pandesal are awesome but cakes? Not at all
   - name: "Abigail"
     rating: 5
     comment: |
       What a great place to indulge in fresh bakery and dessert! You need to go try. Honestly, the kindest workers I’ve ever met and just a great comfy vibe! Highly recommend the halo halo and ham&cheese bake. So flipping good!!!! Why are you still here, go there asap!!!! (:
-  - name: "J. M."
-    rating: 2
-    comment: |
-      If you're looking for a bubble tea, head down the street where they're cheaper, taste better, and give you more. Side by side comparison for reference. Very disappointed.
-      
-      Unrelated, and inconsequential, but their sealer was out of order. Hence the different lid.
-  - name: "LERSEJ Adventures (MTB Adventure)"
-    rating: 5
-    comment: |
-      Freshly baked breads and pastries that smell as good as they taste! Their ensaymada is soft, fluffy, and sweet—my son can’t get enough! And the Sputnik is another hit with him, perfect for a snack or breakfast. Fresh, delicious, and baked with love!
 ---

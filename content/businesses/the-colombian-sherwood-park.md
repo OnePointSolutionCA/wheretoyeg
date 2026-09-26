@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "11 Athabascan Ave #160, Sherwood Park, AB T8A 4H4"
 rating: 4.7
-review_count: 153
+review_count: 158
 tier: "featured"
 phone: "(587) 269-5196"
 website: "http://www.thecolombian.ca/"
@@ -13,12 +13,6 @@ google_maps: "https://maps.google.com/?cid=2111863822357324799&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/the-colombian-sherwood-park.jpg"
 reviews:
-  - name: "Little Drowsy"
-    rating: 5
-    comment: |
-      Quaint place with fantastic food, and atmosphere. The staff are very kind and welcoming - the coffee is homemade excellence from Columbia; I’ve quite literally had few coffees as good and with fantastic nutty undertones.
-      
-      I got a breakfast bagel and and iced latte and they were both fantastic.
   - name: "T-Bird"
     rating: 5
     comment: |
@@ -27,6 +21,12 @@ reviews:
       We got a very friendly reception and ordered a small chai latte, a large Americano and a cortado.  Two of us split a roasted turkey sandwich, getting a fairly large portion each.  The drinks and food were all great
       
       We very much recommend The Columbian for a visit.
+  - name: "Little Drowsy"
+    rating: 5
+    comment: |
+      Quaint place with fantastic food, and atmosphere. The staff are very kind and welcoming - the coffee is homemade excellence from Columbia; I’ve quite literally had few coffees as good and with fantastic nutty undertones.
+      
+      I got a breakfast bagel and and iced latte and they were both fantastic.
   - name: "Judy"
     rating: 5
     comment: |

@@ -5,7 +5,7 @@ category: "catering"
 neighborhood: "Edmonton"
 address: "9550 163 St NW, Edmonton, AB T5P 3M7"
 rating: 4.3
-review_count: 452
+review_count: 455
 tier: "featured"
 phone: "(780) 444-8997"
 google_maps: "https://maps.google.com/?cid=12609767608880300660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -24,6 +24,16 @@ reviews:
       On top of that, $24 for 10 frozen patties is extremely expensive for what you get. For that price, I could go to Northside and get fresh meat instead.
       
       After being disappointed twice, I definitely won’t be coming back. I do not recommend this place.
+  - name: "Snoujaim"
+    rating: 1
+    comment: |
+      I usually never give such bad reviews to places however this one caught my eye when I bought a variety of items and snacks when I later noticed
+      
+      the expiry is 2 MONTHS PAST THE DATE!!!
+      
+      I thought ok.... I understand 1 day, 2 days past expiry date but 2 months! Im sorry.. that is just too much! The prices are somewhat ok... but the food itself is not fresh, I understand its partially my fault as well for not checking the expiry date, However as a growing company we should put on our big boy pants and care for us customers, not give old products. This is not the firs time this has happened. It happen previous times as well as I have been shopping there over the last year.
+      
+      Hope this message gives you a better idea on Westgate Halal and their values towards their customers
   - name: "Maha Elsanafawy"
     rating: 5
     comment: |
@@ -32,16 +42,6 @@ reviews:
     rating: 5
     comment: |
       Awesome staff, good Mediterranean needs and food freshly cooked in store.  You can also buy asian spices. Meat selection is good. The butchery department always listen to your needs and if needed they'll cut the meat for you as requested.  Visiting this family store from a decade. I can buy KDD chocolate milk here, my favorite 😍
-  - name: "Veronica S"
-    rating: 3
-    comment: |
-      They have a little of everything. If you really look you can find some deals.
-      
-      It’s crowded though, one cart per aisle.
-      
-      They have a lot of options for meat, well displayed. Meat prices have gone up.
-      
-      It’s a nice place to shop when you’re in need of something you don’t have for a meal you have started
 hours:
   monday: "9:00 AM–8:00 PM"
   tuesday: "9:00 AM–8:00 PM"

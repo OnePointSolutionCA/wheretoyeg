@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/wing-snob-2-1.jpg", "/photos/wing-snob-2-2.jpg", "/photos/wing-snob-2-3.jpg"]
 rating: 4.9
-review_count: 405
+review_count: 410
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -54,12 +54,16 @@ reviews:
       First time trying wing snob just over a month ago! I’ve come back at least 4 times already! I’m addicted! The wings and flavour selection is SO GOOD! And they have amazing Parmesan fries.
       
       I highly recommend their awesome sauce and mango harbanero flavours. I also highly recommend getting their parm dip and parm fries! Happy eating 😋
-  - name: "Rayan Dwaik"
+  - name: "R B"
     rating: 5
     comment: |
-      An absolute 10/10 EVERY SINGLE TIME! I can’t emphasize that enough honestly. Their flavours are so good and unique. My personal favourites are the Buffalo Parm and the Teriyaki. And as for my favourite dish. The Buffalo parm chicken and fries loaded snob bowl with a drizzle of ranch dressing is to die for! It really hits perfectly every time and all the time.
-      
-      Love that you guys are so close to home too!
-      
-      Keep up the solid work! ⭐️⭐️⭐️⭐️⭐️
+      1st time here west Edmonton on Lessard location
+      I thought it be ok wings and fries
+      But it exceeded my expectations! .
+      Astra was our server , she was awesome
+      Friendly , great attitude I ordered 12 wings boneless honey garlic and buffalo with a large parmesan fries ,cole slaw , tried a crispy mini sandwich. The fries she gave us we could hardly finish them and they were excellent fries .
+      Crispy mini was so good cole slaw , spicy mayo on the sandwich  and the chicken was juicy not dry at all .
+      Wings were excellent too not made from frozen very tasty with a good size blue cheese dip to top them off . My wife had  the Cole slaw as well she liked very much . We ended up taking 6 wings home because we had so many fries.
+      I definitely recommend this location 100%
+      Haven't tried any other location. It's worth the trip astra is very pleasant to talk to and looked after us . We like to try new places and to be honest it's disappointing alot of the time as it's hard to find quality food these days unfortunately. The value for your money is another positive about this wing snob. 35$ could not eat all the food , usually it be over 50$ and not so great more than not .
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–6:00 PM"
 photos: ["/photos/the-den-fitness-1.jpg", "/photos/the-den-fitness-2.jpg", "/photos/the-den-fitness-3.jpg"]
 rating: 4.8
-review_count: 222
+review_count: 223
 price_range: "$$"
 amenities:
 

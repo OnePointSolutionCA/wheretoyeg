@@ -32,14 +32,14 @@ reviews:
     rating: 5
     comment: |
       I arrived a little early to my appt, the front desk staff was lovely and got me set up with looking at colours to choose from. She got me booked in with Sara. I have never been to a place quite like this, where the esthetician wanted to talk. It was really nice! The salon was clean and the vibe was really great. I will absolutely be back !
-  - name: "Sharon Halliday"
-    rating: 5
-    comment: |
-      I haven’t treated myself to a pedicure since before Covid, so figured a mani/pedi would be an ideal choice for my Mom’s Mother’s Day gift, and my upcoming Birthday present to myself. First checked out Groupon deals, but, the salon’s listed had unfavourably reviews. Went on the hunt for a local, reasonably priced salon with great reviews, and booked with V5 Nail Salon. The excellent customer service started with first contact for an appointment. Very friendly and accommodating. We went for services on my Birthday, and waited 2 minutes before we were both whisked off to our side by side chairs by friendly specialists! The Salon is big, bright, clean, and bustling with happy customers coming in and out. Repeat customers were very obvious by all the smiles and hugs. A lovely ambiance, all staff were attentive and super efficient. We are both so happy with our beautiful results! Will be going back for more spoiling as much as possible. Mentioned in conversation that it was my birthday, and received a great discount. Highly recommend! Thank you V5 Nails!🥰
   - name: "Sofia"
     rating: 5
     comment: |
       Really great experience! Van was so helpful and accommodating :) I really appreciated her staying after closing to make sure everything was taken care of, and I’m sooo happy with my pedicure. She recommended me this shade of white nail polish and I'm soooo happy with how it turned out. Her attention to detail and friendly personality made the whole experience even better. Definitely worth the drive next time!! :)
+  - name: "Sharon Halliday"
+    rating: 5
+    comment: |
+      I haven’t treated myself to a pedicure since before Covid, so figured a mani/pedi would be an ideal choice for my Mom’s Mother’s Day gift, and my upcoming Birthday present to myself. First checked out Groupon deals, but, the salon’s listed had unfavourably reviews. Went on the hunt for a local, reasonably priced salon with great reviews, and booked with V5 Nail Salon. The excellent customer service started with first contact for an appointment. Very friendly and accommodating. We went for services on my Birthday, and waited 2 minutes before we were both whisked off to our side by side chairs by friendly specialists! The Salon is big, bright, clean, and bustling with happy customers coming in and out. Repeat customers were very obvious by all the smiles and hugs. A lovely ambiance, all staff were attentive and super efficient. We are both so happy with our beautiful results! Will be going back for more spoiling as much as possible. Mentioned in conversation that it was my birthday, and received a great discount. Highly recommend! Thank you V5 Nails!🥰
   - name: "B W"
     rating: 5
     comment: |

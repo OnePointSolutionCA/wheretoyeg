@@ -19,7 +19,7 @@ hours:
   sunday: "9:00 AM–7:00 PM"
 photos: ["/photos/turkish-istanbul-market-1.jpg", "/photos/turkish-istanbul-market-2.jpg", "/photos/turkish-istanbul-market-3.jpg"]
 rating: 4.9
-review_count: 41
+review_count: 42
 price_range: "$$"
 amenities:
   - "Halal"
@@ -30,6 +30,11 @@ tags: ["edmonton", "turkish", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Prashant Reddy"
+    rating: 5
+    comment: |
+      An amazing store with lots of amazing products from Turkey. I went to get the pure menengic coffee but discovered lots of other teas and coffees too. I so many other things like salgam, jams, juices, spices. I couldn't find any Edmonton stores that have this kind of stuff. They have authentic cezves (Turkish coffee pot) now too. The owner, Muhamet, is a great guy who is always happy to talk to customers.
+      It's great to support small businesses that invest so much time and effort to bring authentic products from so far away.
   - name: "Dilek Demir"
     rating: 5
     comment: |
@@ -46,8 +51,4 @@ reviews:
     rating: 5
     comment: |
       I bought turkish  yufka it's soo good
-  - name: "Umm Huraira"
-    rating: 5
-    comment: |
-      I was in here yesterday and the people are so kind, the food is delicious and the prices are amazing! I havent tried all the food yet, but what I have tried so far is delicious 😋
 ---

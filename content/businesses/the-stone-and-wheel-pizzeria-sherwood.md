@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "Behind Square 1 Coffee, 115 Tisbury St, Sherwood Park, AB T8B 0B7"
 rating: 4.8
-review_count: 332
+review_count: 339
 tier: "featured"
 phone: "(587) 900-0991"
 website: "https://thestoneandwheel.ca/"

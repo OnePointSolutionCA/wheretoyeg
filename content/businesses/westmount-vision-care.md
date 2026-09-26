@@ -28,12 +28,6 @@ tags: ["edmonton", "optometrists"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Noriko Hessmann"
-    rating: 5
-    comment: |
-      The eye care assistant was lovely and explained everything that she was doing in preparation for my appointment.
-      I did have to wait almost 20 minutes for the optometrist to come in,  but I had one of the best eye appointments ever. Dr. Chan was super personable, funny, and we had a really great conversation about eye health and how to take care of my vision. She took her time with me and I will definitely be coming back.
-      The staff in the front helping with frames were also really great.
   - name: "Famille Ngakam"
     rating: 5
     comment: |
@@ -44,6 +38,12 @@ reviews:
       Thank you for your flexibility and outstanding care.
       
       🌟🌟🌟🌟🌟
+  - name: "Noriko Hessmann"
+    rating: 5
+    comment: |
+      The eye care assistant was lovely and explained everything that she was doing in preparation for my appointment.
+      I did have to wait almost 20 minutes for the optometrist to come in,  but I had one of the best eye appointments ever. Dr. Chan was super personable, funny, and we had a really great conversation about eye health and how to take care of my vision. She took her time with me and I will definitely be coming back.
+      The staff in the front helping with frames were also really great.
   - name: "Ranjeet’s Youtube"
     rating: 5
     comment: |
@@ -54,12 +54,12 @@ reviews:
       The exam itself was thorough and never felt rushed. The doctor took the time to explain everything clearly, answered all my questions, and made sure I understood what was going on with my eyes. That’s something I really appreciated — a lot of places just go through the motions, but here you actually feel looked after.
       
       What stood out the most was how the whole team works together. Everyone seems on the same page, and the environment feels calm even when it’s busy. It made the whole visit stress-free.
-  - name: "Marsha Nicholson-addison"
-    rating: 5
-    comment: |
-      I recently took my three daughters to Westmount Vision Care for their eye exams, and I couldn't be more pleased with the experience. The staff was incredibly respectful and professional, making us feel welcome right from the start. The eye doctor was thorough and provided detailed explanations, ensuring we understood everything about the exams. I also want to highlight how patient and supportive the entire team was with my children, which made the process much easier. I highly recommend Westmount Vision Care for anyone seeking quality eye care!
   - name: "Michielle Apoderado"
     rating: 5
     comment: |
       Great experience overall! The staff were very friendly and helpful in choosing the right glasses for me. They took the time to explain everything clearly, and I never felt rushed. Really happy with both the service and my new glasses.
+  - name: "cindy dabu"
+    rating: 5
+    comment: |
+      Such a kind and very welcoming office! They made my and my kids  first eye exam an enjoyable experience. The entire team is very knowledgeable and efficient, and we felt like they truly listened to our concerns. HIGHLY RECOMMENDED!!!
 ---

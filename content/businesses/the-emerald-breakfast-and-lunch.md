@@ -9,16 +9,16 @@ address: "6604 178 Ave NW, Edmonton, AB T5Z 0E2"
 neighborhood: "Edmonton"
 google_maps_url: "https://maps.google.com/?cid=17792036149826527803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:00 AM–2:30 PM"
-  tuesday: "7:00 AM–2:30 PM"
-  wednesday: "7:00 AM–2:30 PM"
-  thursday: "7:00 AM–2:30 PM"
-  friday: "7:00 AM–2:30 PM"
-  saturday: "7:00 AM–2:45 PM"
-  sunday: "7:00 AM–2:45 PM"
+  monday: "7:00 AM–3:00 PM"
+  tuesday: "7:00 AM–3:00 PM"
+  wednesday: "7:00 AM–3:00 PM"
+  thursday: "7:00 AM–3:00 PM"
+  friday: "7:00 AM–3:00 PM"
+  saturday: "7:00 AM–3:00 PM"
+  sunday: "8:00 AM–3:00 PM"
 photos: ["/photos/the-emerald-breakfast-and-lunch-1.jpg", "/photos/the-emerald-breakfast-and-lunch-2.jpg", "/photos/the-emerald-breakfast-and-lunch-3.jpg"]
-rating: 4.6
-review_count: 87
+rating: 4.7
+review_count: 89
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -39,16 +39,21 @@ reviews:
       My husband, uncle and I enjoyed a beautiful morning at the Emerald breakfast restaurant. We shared stories, quality time and ate really good homestyle cooking!
       
       The atmosphere was calm and family oriented. Our server was so kind and timely.
-  - name: "Dylan Smith"
+  - name: "mary nolan"
     rating: 5
     comment: |
-      Finally, a fantastic breakfast and lunch spot on the Northside! I am so happy to have an authentic Irish restaurant in this part of the city. I tried the sausage rolls and they were perfect the pastry was incredibly flakey and the sausage was top-tier. It actually reminded me of having one sitting at a pub in Cork. On top of the food, the owner-operators are so friendly and welcoming. I cannot recommend this place enough!
-  - name: "MK"
+      Was there to morning was busy which is a great sign as you know the food is good it was better that good Best Irish breakfast I've had in Canada! Huge portions, I couldn't finish mine. I had the breakfast roll, fresh roll with a perfect crunch when you bite in. My husband had the full Irish breakfast and cleared the plate.
+      Leanne and the staff are amazing and so welcoming.If you're craving a real Irish breakfast, you will not be disappointed. Highly recommend, let's support this fantastic local spot
+  - name: "Sandy K"
     rating: 5
     comment: |
-      Delicious food, large portions. We will be back next time we're in Edmonton.
-  - name: "leah nolan"
+      Was greeted by a sweet server. I wanted the Banana bread french toast and oh boy it didnt disappoint. Tasted great. Will be returning soon! Thanks for the experience.
+  - name: "Janice Pinnock"
     rating: 5
     comment: |
-      Couldn’t say enough good things about this place!! A great spot in our community - super busy as it is the opening weekend but the staff were amazing at communicating this! Food give the perfect home feeling of Ireland! Will definitely be back
+      What a lovely, lovely restaurant. I love a good breakfast spot. Food was delicious. Service was homey and warm. Portions were incredibly generous. The serving staff were friendly, sweet, called me honey lol. The owner was kind to my children and showed interest in what they were saying. We had the eggs Benedict…sooo yay. Even the hashbrowns were delicious where I am not usually a fan! I had to get a take out box because it was so much!  I had the Canadian breakfast and was grateful to not have to cook it at home. It was wonderful! My ONLY critique…it’s quite plain inside. Not unattractive, just not what I’d expected.
+      
+      We’ll be back! So happy it’s in my neighbourhood. My kids finished their own food and then proceeded to eat mine!!! Shouldn’t have bothered to pack it up!
+      
+      GREAT new restaurant in north Edmonton!
 ---

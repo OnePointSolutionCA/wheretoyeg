@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/white-rabbit-ice-cream-1.jpg", "/photos/white-rabbit-ice-cream-2.jpg", "/photos/white-rabbit-ice-cream-3.jpg"]
 rating: 4.8
-review_count: 421
+review_count: 424
 price_range: "$$"
 amenities:
   - "Dine-In"

@@ -18,7 +18,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/world-waterpark-1.jpg", "/photos/world-waterpark-2.jpg", "/photos/world-waterpark-3.jpg"]
 rating: 4.3
-review_count: 4591
+review_count: 4600
 price_range: "$$$"
 amenities:
   - "Family Friendly"
@@ -34,6 +34,10 @@ reviews:
     rating: 4
     comment: |
       This place is truly a gem in Edmonton. Not being from here, this city is really lucky to have an amazing place to go during the winter time. We came march of 2026, getting in is pretty easy, although to my understanding you can only buy tickets online. Which is kinda a bummer, but for a giant waterpark like this, it’s actually not that bad of a price. 45-60$ to get in per person on some occasions. My only complaint is that the picnic tables are as I’m writing this 25$ per person to rent. FOR A PICNIC TABLE.
+  - name: "G F"
+    rating: 5
+    comment: |
+      What an experience! The kids love this place, come here every year for the past 3 years. Not much baby changing stations and you wanna beat the rush at close as you will be waiting for a private place to change. The changing stalls do not fit a stroller in it, so my partner and I had to change our baby standing. Other than that it's awesome.
   - name: "Bon Kramer"
     rating: 4
     comment: |
@@ -57,18 +61,4 @@ reviews:
       I am still trying to understand why EVERYONE seems to use the family changeroom. I saw groups of teenagers walk in. A group of three guys. Family changeroom is for people with children, and the waterpark staff doesn't seem to want to supervise this so everyone feels comfortable changing in that room.
       
       Unless you want to just blow some money, I would suggest people start boycotting the Waterpark, until the owners can bring it up to a more professional level and the prices down. I won't be going back.
-  - name: "Tetiana Khovkhun"
-    rating: 1
-    comment: |
-      In my personal opinion, this is nothing but a money grab.
-      We paid around $200 for two adults and one 5-year-old child. Naturally, you expect that for this price you’ll get a decent level of service and an enjoyable experience. But in reality, it’s just a regular pool with nothing “wow” about it.
-      The most frustrating part is the constant extra charges and restrictions:
-      you’re not allowed to use your own float for your child — you have to rent theirs for an additional fee
-      you can’t bring even small snacks for your child — everything must be purchased inside
-      you end up paying extra for basic things
-      In the end, it feels like you’ve already paid a high admission price, but once you’re inside, they keep trying to charge you for everything else.
-      So the question is: what exactly are we paying $200 for?
-      For access to a regular chlorinated pool?
-      We didn’t experience any level of service or value that would justify the price. Only disappointment.
-      Unfortunately, this was a very poor experience. I do not recommend it.
 ---

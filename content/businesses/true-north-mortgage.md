@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/true-north-mortgage-1.jpg", "/photos/true-north-mortgage-2.jpg", "/photos/true-north-mortgage-3.jpg"]
 rating: 4.8
-review_count: 756
+review_count: 760
 price_range: "$$"
 amenities:
 
@@ -32,30 +32,22 @@ reviews:
     rating: 5
     comment: |
       I worked with Kamlesh to obtain a mortgage. Throughout the entire process he was patient, respectful and helpful. He took the time to explain everything very clearly. There were no issues at closing and the experience was very positive. I received an email with the portal  information for True North which lets me see my mortgage balance and gives further information about additional payments. I would absolutely recommend Kam for your mortgage needs
-  - name: "Michaela Parkes"
+  - name: "JC Cerdena"
     rating: 5
     comment: |
-      Working with Verone at True North Mortgage was an absolutely amazing experience. From start to finish, he was incredibly helpful and informative, guiding me through every step of the process with patience and care. As a first-time homebuyer, I had a lot of questions, and Verone always took the time to thoroughly explain everything and make sure I fully understood what was happening.
+      I had an excellent experience working with Ajay Harry as my mortgage broker. He was professional, knowledgeable, and very responsive throughout the entire mortgage process. He kept me informed every step of the way, answered all of my questions, and worked hard to help me secure my mortgage approval.
       
-      His communication was outstanding — he kept me consistently updated and was always available to answer any questions I had, no matter how small. What really stood out to me was how kind, supportive, and dedicated he was. It was clear that he genuinely cared and worked extremely hard to ensure my mortgage was approved.
-      
-      I truly felt supported throughout the entire process, which made what could have been a very stressful experience feel smooth and manageable. I would highly recommend Verone at True North Mortgage to anyone looking for a knowledgeable, communicative, and trustworthy mortgage broker.
-  - name: "Khadian Gooden"
+      Buying my home was a big milestone, and Ajay made the process much less stressful. I truly appreciate his patience, dedication, and commitment to helping me achieve homeownership. I highly recommend Ajay Harry to anyone looking for a reliable and trustworthy mortgage broker. Thank you for all your hard work and support!
+  - name: "Mateo Alzate"
     rating: 5
     comment: |
-      This was my first time going through the mortgage process, and I couldn’t have asked for a better experience. Working with Verone Rodriques was an absolute pleasure. He was professional, highly knowledgeable, and incredibly easy to work with from start to finish.
-      What stood out most was how genuinely invested he was in my success. He made me feel supported every step of the way, always keeping me informed with regular updates and promptly answering any questions I had. It was clear that he was working hard behind the scenes to ensure I secured the best possible outcome.
-      I’m very pleased with my experience—especially working with Verone. If I could give more than five stars, I absolutely would. True North Mortgage exceeded my expectations in every way.
-      Thank you for making my first experience such a positive one. If you’re looking for someone who is diligent, hardworking, knowledgeable, and genuinely cares about their clients, I highly recommend connecting with Verone.
-      Thanks again to TNM for such an outstanding experience!
-  - name: "Fernando Lopez"
+      I had the pleasure of working with Ajay Harry, and was very impressed at how responsive he was. Whenever I had a question, he often replied to my emails within minutes, which made the whole renewal process much less stressful. They were professional, explained everything clearly, and kept me informed throughout. I would definitely recommend!
+  - name: "cornelius Ade"
     rating: 5
     comment: |
-      Working with Verone was an absolute pleasure from start to finish. He is incredibly knowledgeable, professional, and took the time to clearly explain all of our options, ensuring we felt completely confident in our decisions.
-      
-      The communication throughout the entire process was flawless—he was always prompt, accessible, and proactive in keeping us updated. If you need a dedicated professional who genuinely cares about getting the best results for their clients, look no further than Verone. Highly recommended!
-  - name: "Grace Tebb"
+      Working with Verone Rodriques was a great experience from start to finish. He was knowledgeable, responsive, and made the entire process smooth and stress-free. His communication was excellent, and he took the time to explain every step clearly. I highly recommend him to anyone looking for trustworthy and professional mortgage advice.
+  - name: "Stanley Teichroeb"
     rating: 5
     comment: |
-      This was my me and my fiancés first time buying a home and Joanne did nothing but make the whole process easy and explained everything to us to we understood. She worked fast and efficiently and always made sure to tell us what the next step it. Joanne is the best! and I we will definitely use her again in the future ! :)
+      I had a great experience working with my Kamlesh. He was incredibly responsive, always answered my questions quickly, and was patient throughout the entire process. Communication was excellent, and he kept me informed every step of the way, making everything easy to understand. His professionalism and support made the experience feel smoother then I thought it would be.
 ---

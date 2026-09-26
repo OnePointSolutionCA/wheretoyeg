@@ -44,8 +44,8 @@ reviews:
     rating: 5
     comment: |
       Top Tier Professional right here ✨️ Shawn is great, So easy going. Ask him for any haircut you want he's got you coverd. Shawn has become my regular Barber because he cuts hair exactly how you want. Always has me Looking my best when I leave his Shop.
-  - name: "Tyrell Sylvester"
+  - name: "Darrel Derendorf"
     rating: 5
     comment: |
-      Best barber I’ve found. I’ve been seeing Shawn for years, and he always takes the time to get the cut exactly right. The results are consistently great, and his attention to detail really shows. Professional, friendly, and easy to book with. I leave happy every time. Highly recommend Shawn to anyone looking for a skilled barber who takes pride in his work.
+      Most excellent,  talented barber. Takes his time and does a great job. I highly recommend Shawn. You will not be disappointed.
 ---

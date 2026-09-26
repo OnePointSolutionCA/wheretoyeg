@@ -6,7 +6,7 @@ subcategory: "indian-pakistani"
 neighborhood: "Beaumont"
 address: "4906 30 Ave 104, 106, Beaumont, AB T4X 1V1"
 rating: 4.4
-review_count: 479
+review_count: 494
 tier: "featured"
 phone: "(780) 722-4000"
 website: "https://virsasweetsandrestaurant.com/"

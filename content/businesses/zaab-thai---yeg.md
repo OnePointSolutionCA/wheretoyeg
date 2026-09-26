@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/zaab-thai---yeg-1.jpg", "/photos/zaab-thai---yeg-2.jpg", "/photos/zaab-thai---yeg-3.jpg"]
 rating: 4.8
-review_count: 43
+review_count: 48
 price_range: "$$"
 amenities:
   - "Dine-In"

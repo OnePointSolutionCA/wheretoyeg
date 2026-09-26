@@ -41,6 +41,11 @@ reviews:
       I came into the salon scared of a few things - guilt -on getting a full highlight and spending all this money on myself
       - a failure- of the stylist to blend my new grey hair with my old coloured hair and a result that would have a lot of maintenance (roots)
       Im leaving 100% satisfied! Honestly the price was $100 cheaper than my full highlight 3 years ago and the blend was on spot! Just like the photo I used as a reference! With the help of her mentor Sophie did an amazing job! See for yourself
+  - name: "Lara"
+    rating: 5
+    comment: |
+      Amazing experience from beginning to finish! The stylists truly listened to what I was looking for and executed it .  The owner personally oversees the work to ensure everything meets the clients satisfaction.
+      Thank you, Rady and the entire team, for making our first visit such an unforgettable experience. We absolutely loved it and will definitely be back.
   - name: "Harshaan Sidhu"
     rating: 5
     comment: |
@@ -49,9 +54,4 @@ reviews:
     rating: 5
     comment: |
       Sophie was such a gem!!! I showed her one inspo picture for my haircut (layers and bangs) and she really took it away and did the absolute best with my hair. The service was friendly, welcoming, and kind. I would highly recommend Sophie as your stylist, 1000/10 would go back to her for sure
-  - name: "Emily Collins"
-    rating: 5
-    comment: |
-      What I love most about volume is their intentionality around what is modern/in style.
-      My stylist Sophie is so knowledgeable about current trends, more classic/ timeless styles, and new innovations in the hair industry. She always takes time with me to figure out what will work best for me, taking into consideration things like my styling habits, everyday life, and any upcoming special occasions. I would absolutely recommend Sophie to anyone looking for any type of hair service!
 ---

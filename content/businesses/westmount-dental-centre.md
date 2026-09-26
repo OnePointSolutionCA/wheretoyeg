@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–4:00 PM"
 photos: ["/photos/westmount-dental-centre-1.jpg", "/photos/westmount-dental-centre-2.jpg", "/photos/westmount-dental-centre-3.jpg"]
 rating: 4.6
-review_count: 770
+review_count: 778
 price_range: "$$"
 amenities:
 

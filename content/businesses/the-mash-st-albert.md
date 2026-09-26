@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "St. Albert"
 address: "860 St Albert Trl #830, St. Albert, AB T8N 7V2"
 rating: 4.5
-review_count: 298
+review_count: 301
 tier: "featured"
 phone: "(780) 569-1615"
 website: "http://www.masheats.ca/"
@@ -18,10 +18,6 @@ reviews:
     rating: 5
     comment: |
       Really great pizza. I would recommend the sweet and spicy chicken, the best pizza I have had in a long time. The beer was also good, the tangerine rotating tap was our favorite.
-  - name: "Edward Chan"
-    rating: 5
-    comment: |
-      Wow!  This place was awesome. The name says it all, craft beer and craft pizza. I asked about the beers and instead of explaining it to me the server gave me 3 samples and I actually loved the wildberry beer. Now the pizza... What can I say other than 'delicious'!  We had the hot Hawaiian and the dill pickle and bacon pizza. As you can see... They didn't skimp on the toppings, those pizzas were packed. I was skeptical about the dill pickle but it turned out nice...the chopped up pieces of dill gave the pizza a good crunchy texture. The hot Hawaiian was also spot on... Not too spicy, just enough to wake you up a bit. Over all, great experience. Totally recommend this place. Been to St Albert so many times, not sure how I missed this joint.
   - name: "Original Ouch"
     rating: 5
     comment: |
@@ -42,6 +38,10 @@ reviews:
       Took the whole meal for him to come back to refill our water.  I can say that eating outside would have been cleaner than dining inside the place.
       
       Would we come back? Sure... For takeout pizza but not dine in. Food was 4/5 but everything else? 1/5 and that was being generous.
+  - name: "Edward Chan"
+    rating: 5
+    comment: |
+      Wow!  This place was awesome. The name says it all, craft beer and craft pizza. I asked about the beers and instead of explaining it to me the server gave me 3 samples and I actually loved the wildberry beer. Now the pizza... What can I say other than 'delicious'!  We had the hot Hawaiian and the dill pickle and bacon pizza. As you can see... They didn't skimp on the toppings, those pizzas were packed. I was skeptical about the dill pickle but it turned out nice...the chopped up pieces of dill gave the pizza a good crunchy texture. The hot Hawaiian was also spot on... Not too spicy, just enough to wake you up a bit. Over all, great experience. Totally recommend this place. Been to St Albert so many times, not sure how I missed this joint.
 hours:
   monday: "3:00 PM–9:00 PM"
   tuesday: "3:00 PM–9:00 PM"

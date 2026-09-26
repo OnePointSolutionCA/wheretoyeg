@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/yelod-ice-cream-bake-shoppe-1.jpg", "/photos/yelod-ice-cream-bake-shoppe-2.jpg", "/photos/yelod-ice-cream-bake-shoppe-3.jpg"]
 rating: 4.9
-review_count: 293
+review_count: 295
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -34,6 +34,10 @@ reviews:
     rating: 5
     comment: |
       Great place to come to, especially when you’re craving late night treats. I would recommend there Keso and Moon Mist flavour ice cream and don’t get me started on which cookie is best because they all are so yummy!!! The staff are amazing and super friendly, and I absolutely love the decor. You don’t see a lot of places using purple, but they really pull it off! 💜
+  - name: "Janina Lou Morales (J.Lou)"
+    rating: 5
+    comment: |
+      Oh man I love this place! I bought so much stuff here that day haha shout out to the staff on Aug 8 in the afternoon! Such friendly gals. My favorite was the ube cheesecake! And ahh I didn’t see the tostado ice cream option, the hot ube bun with ice cream of your choice inside ! I need to go back for that. Toyo cookie was great too! So many ube options, it’s like ube fest in there.
   - name: "The Local Nibbler"
     rating: 4
     comment: |
@@ -46,12 +50,12 @@ reviews:
     rating: 5
     comment: |
       Really good ice cream and nice staffs. The place is clean and has a great vibe. We’ll definitely come back again.
-  - name: "Adam Halliday"
+  - name: "Jay"
     rating: 5
     comment: |
-      Great, friendly and attentive staff. Very knowledgeable and helpful. The ice cream flavors are extremely varied and the flavors that I tried are amazing. I plan to come back here and try more flavours every chance I get
-  - name: "Dennis G"
-    rating: 5
-    comment: |
-      A welcome addition to Terwilligar. Delicious flavours of ice cream served by friendly, efficient staff. A plethora of flavours to choose from. It was quite busy when we went but service was quick. Definitely worth a try.
+      I’ve been going to the Whyte Ave location for a long time and finally had the chance to make it down to the Terwillegar location. I’m so glad I did! The Terwillegar location is beautiful, cozy, and has such a nice, welcoming atmosphere.
+      
+      They have all the same amazing flavors I’ve come to love from Yelo’d, along with the same wonderful customer service. Everything tastes fresh and delicious, and of course the ice cream and cookies are always amazing.
+      
+      I’m especially happy that there’s now a convenient south-side location where you can enjoy Yelo’d without having to head all the way to Whyte Ave. Great atmosphere, amazing treats, and friendly service. Shout out to Yelo’d — definitely one of my favorite spots for ice cream and cookies!
 ---

@@ -13,6 +13,19 @@ google_maps: "https://maps.google.com/?cid=5542139200724655632&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/wildflower-hair-salon.jpg"
 reviews:
+  - name: "Calen"
+    rating: 5
+    comment: |
+      38m currently getting my hair permed by Loray and Layla. So far so good. Check back in when process is complete.
+      
+      UPDATE:
+      LOVE my fresh new end of summer perm. Was super nervous I was barrelling into an inevitable, irreversible, all encompassing “weird Al Yankovik” kind of look. All my worries were instantly quashed when the rollers were removed and I caught a glimpse of the new me in the mirror. Thank you Loray and Layla. Turns out two L’s combined make a W.
+      
+      -Calen
+  - name: "Margo Matheson"
+    rating: 5
+    comment: |
+      Allicyn is not just a talented stylist, but also a lovely human. I always leave saying “this might be the best cut and colour yet”, and she always outdoes herself. In all honesty, every single one of the stylists at Wildflower are talented and welcoming. You can’t go wrong here!
   - name: "Shayla Schlecker"
     rating: 5
     comment: |
@@ -25,14 +38,6 @@ reviews:
     rating: 5
     comment: |
       My 14 yr old daughter saw Loray for the teen cut. She did an incredible job. My daughter was extremely happy with her cut and style. She love how Loray listened to what she wanted and the cut looks beautiful.
-  - name: "Johanna Huntley"
-    rating: 5
-    comment: |
-      I had Allicyn do my hair. She was so helpful and kind, she really did an amazing job! I would recommend this place to anyone! I wasn't sure what I wanted, so they gave me a free consultation. I put my trust in her and she did such a nice job. She suggested subtle highlights around the face and layers which ended up complementing me so well! They had me in very quickly, too which was nice! Thank you Allicyn and Wildflower Hair Salon!
-  - name: "Sylvia Schlichenmayer"
-    rating: 5
-    comment: |
-      I recently had the pleasure to meet Sierra at wildflower hair salon. My request was to have a very layered “shag” hair cut and she NAILED it!!! It’s the BEST haircut I have had in years. I will be booking with her again without hesitation.
 hours:
   monday: "Closed"
   tuesday: "12:00 PM–9:00 PM"

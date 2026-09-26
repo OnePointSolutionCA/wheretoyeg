@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/the-gentlemen-pros-plumbing-heating-electrical-1.jpg", "/photos/the-gentlemen-pros-plumbing-heating-electrical-2.jpg", "/photos/the-gentlemen-pros-plumbing-heating-electrical-3.jpg"]
 rating: 4.9
-review_count: 3821
+review_count: 3830
 price_range: "$$"
 amenities:
 
@@ -45,11 +45,6 @@ reviews:
       I was very impressed with the follow-up and the genuine effort to ensure I was happy with my experience. For that reason, I’ve updated my review to 5 stars.
       
       Thank you again to Danny and Beth for the excellent service and support! =)
-  - name: "Emily Dinning"
-    rating: 5
-    comment: |
-      Mohamed S. deserves all of the praise. Our house flooded (twice) and we couldn’t find the source of the overflow. We called and by the next morning Mo was here. He went above and beyond our expectations. He showed up in the midst of chaos and offered his insight. We truly appreciate his professionalism and knowledge. We cannot thank him enough. He did a fantastic job. The gentlemen pros will be who we call whenever we are in need.
-      Mo thank you again!!
   - name: "Sherry Fulton"
     rating: 5
     comment: |
@@ -82,4 +77,8 @@ reviews:
     rating: 5
     comment: |
       Very professional and thorough. Answered every question I had about my home. Great peace of mind.  Conrad did a fantastic job explaining everything and going above expectation with answering my questions. Also the first person I spoke to on the phone to book was very patient and kind and down to earth. Great experience with this company
+  - name: "Tammy G."
+    rating: 5
+    comment: |
+      Riley was fantastic to work with. He was very professional , knowledgeable and friendly. He took time diagnosing and explaining his findings.  As the steam shower will need more intervention and possible total replacement, I feel confident that with his expertise I will have a very satisfactory outcome.  He deserves 5 stars.  I would absolutely recommend Riley B based on his professionalism, expertise and superior customer service.
 ---

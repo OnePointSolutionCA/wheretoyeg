@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Castle Downs"
 address: "9499 137 Ave NW, Edmonton, AB T5E 5R8"
 rating: 4.7
-review_count: 2282
+review_count: 2286
 tier: "featured"
 phone: "(587) 409-4405"
 website: "https://www.dentistsatnorthgate.ca/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Website_URL"
@@ -14,18 +14,6 @@ google_maps: "https://maps.google.com/?cid=5596148117726070814&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/the-dentists-at-northgate-edmonton.jpg"
 reviews:
-  - name: "Najima Abdi"
-    rating: 5
-    comment: |
-      “I had a very good experience at The Dentists at Northgate. The dentist was kind, professional, and explained everything clearly. The front desk staff were friendly, helpful, and provided excellent customer service. I was very happy with the care and support I received. Thank you to the whole team for making my visit comfortable and positive.” 😊.
-      
-      My mother used to go to another dentist, and they never told her that she had a serious gum infection. Whenever she had tooth pain, they would simply remove the tooth. It was not until I transferred her to The Dentists at Northgate that we finally got answers.
-      
-      Thankfully, the doctor at Northgate noticed the problem right away and was very concerned. He immediately referred my mother to a specialist to treat her gum infection and help save her remaining teeth.
-      
-      My mother has diabetes and high blood pressure, so this condition could have become very serious if it had continued untreated. If we had not come to Northgate, she might never have received the proper care she needed.
-      
-      Thank you so much for your professionalism, compassion, and quick action in helping my mother. We are truly grateful for the excellent care and support you provided
   - name: "Paula Diaz Bollain"
     rating: 5
     comment: |
@@ -48,6 +36,12 @@ reviews:
     rating: 5
     comment: |
       I had an excellent experience today. Dr. Musa did my root canal with great professionalism and skill, making the procedure as comfortable as possible. A special thank you to Faith for being so kind, gentle, and reassuring throughout the visit. Amazing care from both of youI highly recommend this clinic.🙏
+  - name: "Barbìè"
+    rating: 5
+    comment: |
+      Had an amazing  visit. The staff are wonderful.at the front desk, patient and understanding. .
+      The Dr was so accommodating and pleasant ,very professional.
+      Highly recommend this office.
 hours:
   monday: "7:00 AM–8:00 PM"
   tuesday: "7:00 AM–8:00 PM"

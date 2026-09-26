@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/time-escape-north-edmonton-1.jpg", "/photos/time-escape-north-edmonton-2.jpg", "/photos/time-escape-north-edmonton-3.jpg"]
 rating: 4.9
-review_count: 1420
+review_count: 1421
 price_range: "$$"
 amenities:
 
@@ -44,8 +44,8 @@ reviews:
     rating: 5
     comment: |
       Great experience,  staff were really friendly and let my daughter finish the game even though our time ran out. It was a great puzzle, we did the Castle Secrets, it was challenging but super fun and interactive . 10/10 and we will definitely go back!
-  - name: "Jennifer Flamont"
+  - name: "Kareem Kassab"
     rating: 5
     comment: |
-      We had so much fun. The staff were so great. The guy who helped us was hilarious. We did Thr Prophecy Room. It was challenging but we got a lot done without the hints. We did escape but had an extra 10mins to finish because there were no bookings after us. Will be going back.
+      Have been here 4 times, escaped twice normally but the rooms are very well thought out and maintained. The employees are all kind and helpful, with very useful hints always being given
 ---

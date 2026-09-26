@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Whyte Ave"
 address: "11111 82 Ave NW #2, Edmonton, AB T6G 0T3"
 rating: 4.8
-review_count: 714
+review_count: 716
 tier: "featured"
 phone: "(587) 407-2192"
 website: "https://www.universitydentalchoice.ca/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Website_URL"
@@ -36,10 +36,10 @@ reviews:
       I have been seeing Dr. Fedoretz for many years, ever since he was at Kingsway Dental, and he is truly an exceptional dentist!
       
       If possible, I would give University Dental Choice a 10-star rating.
-  - name: "Dutch Daddie"
-    rating: 1
+  - name: "John Castle"
+    rating: 5
     comment: |
-      Ive usually had great experiences, except my most recent one. They had rescheduled me, however it was with a temp and not my usual hygienist. My appointment had ran 15 min late due to the staff not knowing where the office was, followed by several interruptions during as he had no idea where certain supplies were located. It had also felt like there wasn't enough time focused on the scaling, and was rushed afterwards during the flossing that it caused gum pain and inflammation for the rest of the day. Very disappointing, again I've had better experiences before this, but its enough to make me consider changing dental offices with how this experience went.
+      I went in on short notice with a difficult tooth extraction an it was painless I got there at 2:30 my appointment wasint tell 3:20 an they had me put by 4:30 4:45 they treated me amazing  answered any questions i had with a smile an the after care instructions are easy to follow
 hours:
   monday: "7:00 AM–7:00 PM"
   tuesday: "7:00 AM–7:00 PM"

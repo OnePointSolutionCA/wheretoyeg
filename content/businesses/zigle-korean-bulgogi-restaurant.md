@@ -6,7 +6,7 @@ subcategory: "korean"
 neighborhood: "Sherwood Park"
 address: "800 Broadmoor Blvd #900, Sherwood Park, AB T8A 4Y6"
 rating: 4.9
-review_count: 506
+review_count: 507
 tier: "featured"
 phone: "(825) 967-1140"
 website: "https://www.zigle.ca/"
@@ -31,10 +31,6 @@ reviews:
       We had a great time.
       Some dishes are not the same as other places or restaurants, which is a nice change.  I will note that the shared bulgogi signature was not my favourite. It was more of a shallow hot pot with too much broth for our taste. This made it difficult for wraps with the lettuce as there was too much liquid running off.
       The japchae was one of the best I’ve had though.
-  - name: "Amanda McLeod"
-    rating: 4
-    comment: |
-      Overall we had a great experience here. Very clean and modern dining area. Service was excellent with the tablet ordering system, it really cut down any unnecessary wait times. The washrooms were also very clean. We ordered the Sweet Chili Crispy Chicken, Bulgogi Bokkeum Bap, Bulgogi Gungjung Ttekbokki, Peach Blossom (cocktail), and Piña Aurora (cocktail). The flavor was excellent on everything. The reason I'm giving 4/5 stars is because of the lack of meat when mixed with beef. In my Bokkeum Bap I had about 1/4 of an onion mixed into my protein leaving it a lot less meat than expected. I don't digest onions well so that amount was quite excessive for me. The drinks were both good with the Piña Aurora being the sweeter of the two.
   - name: "Raul D"
     rating: 5
     comment: |
@@ -45,6 +41,14 @@ reviews:
       DUDEEE this place was so incredible wow, i didn’t even grow up with korean food but the sweet chilli tofu brought me back to my childhood, like that one scene from ratatouille. the cheese tteokbokki was incredible.
       
       very good vegan selection, and easy to edit the dishes to make them vegetarian. great prices as well. staff was so lovely and kind. highly recommend!! i’ll absolutely be back and bringing every single person i know
+  - name: "Marcian Hammer"
+    rating: 4
+    comment: |
+      Nothing to complain about the venue. It is a clean restaurant and service is good.
+      
+      The only thing I can’t give a 5-Star is the food. Don’t get me wrong, my order was not bad. However, my expectation from a 4.9-Star restaurant is high.
+      
+      Zigle’s dishes are westernized. For the price, it is good. But for to earn a 5-Star review, it has room to improve. For instant, I expect the crispy chicken is hot and crispy. But the dish I ordered is not.
 hours:
   monday: "11:30 AM–3:00 PM"
   tuesday: "11:30 AM–3:00 PM"

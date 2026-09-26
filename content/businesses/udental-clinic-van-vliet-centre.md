@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "Complex East Wing, Van Vliet Centre, 8810 114 St NW #1-202, Edmonton, AB T6G 2H9"
 rating: 4.8
-review_count: 550
+review_count: 554
 tier: "featured"
 phone: "(780) 248-1081"
 website: "https://udentalclinic.ca/?utm_source=GBPlisting&utm_medium=organic"
@@ -19,6 +19,10 @@ reviews:
     comment: |
       I had such an amazing experience at this dental office! From the moment I walked in, the receptionist was so kind and welcoming, which immediately put me at ease. The dental hygienist who took my scans was wonderful, and the hygienist who did my cleaning was just as lovely, both were gentle, professional, and made me feel really comfortable throughout the process.
       The doctor was also incredible, very knowledgeable, attentive, and reassuring. I also appreciated that it wasn’t busy, which made the whole visit feel calm and unhurried. Overall, this was such a positive experience that I’d honestly come back weekly if I could. Highly recommend!
+  - name: "Chuks Sunday"
+    rating: 5
+    comment: |
+      My experience at UDental Clinic has always been great and remarkable. Members of Staff, including their Dentists and Higienists, are amazing, polite, knowledgeable, and very professional. I'd strongly recommend UDental Clinic to anyone.
   - name: "Jules Clark"
     rating: 3
     comment: |
@@ -27,10 +31,6 @@ reviews:
     rating: 5
     comment: |
       I had a root canal and a filling done with Dr. Iyad Rold, and I had a really good experience. He was professional and made me feel comfortable throughout the procedures. The staff were also very friendly and helpful.
-  - name: "Pollo Latyshev"
-    rating: 5
-    comment: |
-      For over a decade, I walked with a front tooth damaged by a small cavity, and the great doctors (Dr. Iyad Al-Qishawi and Dr. Tarrabain) let me know that I could get a filling for it. Both of them and the assistants ensured that I was comfortable, and the filling was done super quick and you can barely tell anything is there. Now I can smile in the photos way more confidently. Thank you so much for your kindness, understanding and great work! :)
   - name: "Ahmed Jama"
     rating: 5
     comment: |

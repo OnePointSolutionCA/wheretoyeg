@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–4:00 PM"
 photos: ["/photos/xtreme-creations-salon-barbershop-1.jpg", "/photos/xtreme-creations-salon-barbershop-2.jpg", "/photos/xtreme-creations-salon-barbershop-3.jpg"]
 rating: 5
-review_count: 327
+review_count: 328
 price_range: "$$"
 amenities:
 

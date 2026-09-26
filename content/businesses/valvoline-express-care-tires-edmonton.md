@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "9516 51 Ave NW, Edmonton, AB T6E 5A6"
 rating: 4.8
-review_count: 1775
+review_count: 1792
 tier: "featured"
 phone: "(780) 503-3093"
 website: "http://valvolineedmonton.ca/"

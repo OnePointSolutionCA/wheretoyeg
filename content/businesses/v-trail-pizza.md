@@ -5,8 +5,8 @@ category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "550 Clareview Rd NW Unit 168, Edmonton, AB T5A 4H2"
-rating: 4.8
-review_count: 192
+rating: 4.9
+review_count: 196
 tier: "featured"
 phone: "(780) 503-6340"
 website: "https://vtrailpizza.ca/"

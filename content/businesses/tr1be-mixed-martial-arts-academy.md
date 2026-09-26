@@ -20,7 +20,7 @@ hours:
   sunday: "2:30 PM–5:00 PM"
 photos: ["/photos/tr1be-mixed-martial-arts-academy-1.jpg", "/photos/tr1be-mixed-martial-arts-academy-2.jpg", "/photos/tr1be-mixed-martial-arts-academy-3.jpg"]
 rating: 5
-review_count: 51
+review_count: 52
 price_range: "$$"
 amenities:
 
@@ -46,17 +46,26 @@ reviews:
       Whether you’re a beginner or someone with martial arts experience, I would definitely recommend giving this place a try. Looking forward to coming back!
       
       And they have there own cute dog called Sumo lol. Super friendly and a great sparring partner
-  - name: "Hamza Abdullahi"
-    rating: 5
-    comment: |
-      I’ve had an amazing experience at this gym. The atmosphere is welcoming, motivating, and perfect for anyone looking to improve, whether you’re a beginner or more advanced. The instructors Igor and Yumi are incredible, both extremely knowledgeable, patient, and friendly. They break techniques down in a way that’s easy to understand and make sure everyone gets proper attention. You can tell they truly care about their students’ progress. Highly recommend this gym to anyone wanting to learn skills from passionate coaches.
   - name: "filip ek"
     rating: 5
     comment: |
       Had my first class here yesterday
       and absolutely loved it. The coach was fantastic, explained everything clearly, and the combinations were both fun and challenging. Everyone was welcoming, and the atmosphere made it easy to enjoy the training. Definitely one of the best Muay Thai sessions I’ve been to. Highly recommend!
-  - name: "Serena Magnan"
+  - name: "Valerii Yakubovych"
     rating: 5
     comment: |
-      Amazing atmosphere, super welcoming and great for a newbie like myself just starting their fitness journey. Igor & Yumi are amazing coaches who make you feel motivated and focussed on your goals.
+      Spent a couple of months at the gym. The atmosphere is friendly. Igor's approach is a good balance between learning skills and safety - it's a light free and limited rules sparrings in the end of most training sessions. No ego, no damage, just relax and work.
+      Some folks are new, some experienced. Sessions often go past planned time.
+      Time to time technical exercises were a bit too much for me so I asked Igor to do only a part of an exercise and keep rehearsing the part until I can do it confidently. Igor adjusts to the students pace.
+      Thank you, Igor, Yumi and coach Sumo for a nice place to train!
+  - name: "Owen Zarowny"
+    rating: 5
+    comment: |
+      I had an amazing experience at TR1BE Mixed Martial Arts Academy. I've been wanting to get into martial arts for a long time, but I was always a little hesitant about starting as a complete beginner. From the moment I walked through the doors, everyone made me feel welcome and comfortable.
+      
+      The sense of community here is incredible. The coaches are knowledgeable, supportive, and genuinely care about helping each individual improve. They take the time to work with you, answer questions, and make sure you're progressing, no matter your experience level.
+      
+      What impressed me most was how beginner-friendly the gym is while still providing high-level coaching for more experienced athletes. Everyone is encouraging, respectful, and willing to help each other learn. It's the kind of environment that makes you want to keep showing up and getting better.
+      
+      I can't wait to come back. If you've been thinking about getting into martial arts but are nervous about taking that first step, or if you're looking for a great way to get in shape while being surrounded by an amazing group of people, I highly recommend giving TR1BE a try. They deserve far more recognition than they get.
 ---

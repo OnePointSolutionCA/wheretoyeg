@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "St. Albert"
 address: "10 McKenney Ave #200, St. Albert, AB T8N 5S8"
 rating: 4.4
-review_count: 206
+review_count: 209
 tier: "featured"
 phone: "(780) 569-5911"
 website: "https://locations.tuttifruttidejeuners.com/ab/st-albert/tutti-frutti-st-albert?utm_source=G&utm_medium=LPM&utm_campaign=MTY"

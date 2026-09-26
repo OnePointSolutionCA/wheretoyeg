@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Sherwood Park"
 address: "200 Festival Ln #110, Sherwood Park, AB T8A 4Y8"
 rating: 4.6
-review_count: 110
+review_count: 115
 tier: "featured"
 phone: "(780) 570-8595"
 website: "http://theivysp.ca/"

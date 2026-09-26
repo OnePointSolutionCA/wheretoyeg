@@ -5,7 +5,7 @@ category: "barbers"
 neighborhood: "Spruce Grove"
 address: "700 McLeod Ave #120, Spruce Grove, AB T7X 0C8"
 rating: 5
-review_count: 365
+review_count: 368
 tier: "featured"
 phone: "(825) 220-0751"
 website: "http://toptierbarbershop.ca/"

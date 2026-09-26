@@ -21,7 +21,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/tichi-auto-repair-1.jpg", "/photos/tichi-auto-repair-2.jpg", "/photos/tichi-auto-repair-3.jpg"]
 rating: 4.6
-review_count: 599
+review_count: 601
 price_range: "$$"
 amenities:
   - "General Repair"
@@ -45,6 +45,32 @@ reviews:
       Finding a mechanic shop with this level of honesty and integrity is rare. Kash breaks everything down clearly, offers fair, transparent pricing, and ensures the job is done perfectly the first time.
       
       They are fast, reliable, and truly treat your car like their own. Keep up the great job!
+  - name: "Oli Fuller"
+    rating: 2
+    comment: |
+      This shop completely lost our trust after how they handled my mom’s car.
+      
+      She has been a loyal customer here for a long time and recently came in to have her tires changed. A few days later, she started hearing rattling from the back while driving around 100 km/h, so she returned for balancing and alignment.
+      
+      After leaving the shop, her A/C stopped working, then not long after the vehicle began smoking and overheating. The temperature gauge was extremely high, so she immediately turned the car off and had to get it towed.
+      
+      She called Tichi because all of this happened right after the vehicle had been there. Instead of simply saying they would take a look, they became defensive, shouted at her, and said it was not their problem.
+      
+      The second mechanic she went to said the overheating appeared to be caused by a coolant issue and that the coolant cap was not properly secured. She had never experienced this problem before.
+      
+      Mistakes can happen anywhere, but how a business responds matters. Yelling at a loyal customer who is dealing with a potentially serious engine problem instead of trying to help is extremely unprofessional. After this, we will never bring a vehicle here again.
+  - name: "Akame Curtis"
+    rating: 1
+    comment: |
+      Very disappointed with Tichi, especially because my mom has been a loyal customer here for a long time.
+      
+      She recently had a new set of tires installed here. A few days later, she noticed rattling from the back while driving around 100 km/h, so she brought the car back for balancing and alignment. After picking it up, her A/C suddenly stopped working, and about 20 minutes later the car started smoking and severely overheating. She had to shut it off and get it towed.
+      
+      What made the situation worse was how the shop treated her when she called. Instead of calmly offering to inspect the vehicle, they shouted at her, said it was not their fault, and basically told her it was no longer their problem.
+      
+      Another mechanic later told her the overheating appeared to be related to the coolant system and that the coolant cap had not been properly secured. Her car had no overheating issues before this visit, which makes the timing extremely concerning.
+      
+      We understand problems can happen, but the way a loyal customer was treated was completely unacceptable. After this experience, we have lost trust in this shop and will not be returning.
   - name: "Kynna Welsh"
     rating: 1
     comment: |
@@ -65,12 +91,4 @@ reviews:
     rating: 5
     comment: |
       Incredible service! I contacted them and explained I believed my vehicle needed major mechanical work and I was on a tight timeline. The team quickly saw to my vehicle, provided me with a reasonable quote, and had it returned to me properly sorted very quickly. Definitely my go-to service department moving forward. Much respect!
-  - name: "Michael Hutnan"
-    rating: 5
-    comment: |
-      I have used this auto shop for a few years now, and come back even after moving to the other side of the city, and more recently even to a whole new province. Their service is top notch, and their availability + prices cannot be beat. Happy that I found a reliable and honest shop like Tichi Auto Repair 🤘 Thanks team!
-  - name: "Erich"
-    rating: 5
-    comment: |
-      We were informed about this place from my neighbor, who is a retired maintenance guy from the city of St Albert.  He told us they were good quick and reasonably priced.  We have been here 3 times with various maintenance needs and have had nothing but good experiences every time.
 ---

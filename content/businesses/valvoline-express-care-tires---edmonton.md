@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–5:30 PM"
 photos: ["/photos/valvoline-express-care-tires---edmonton-1.jpg", "/photos/valvoline-express-care-tires---edmonton-2.jpg", "/photos/valvoline-express-care-tires---edmonton-3.jpg"]
 rating: 4.8
-review_count: 1775
+review_count: 1792
 price_range: "$$"
 amenities:
 

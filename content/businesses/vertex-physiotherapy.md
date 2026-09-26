@@ -14,7 +14,7 @@ hours:
   wednesday: "8:00 AM–8:00 PM"
   thursday: "8:00 AM–8:00 PM"
   friday: "8:00 AM–8:00 PM"
-  saturday: "10:00 AM–3:00 PM"
+  saturday: "8:00 AM–12:00 PM"
   sunday: "Closed"
 photos: ["/photos/_stock/clinic.jpg"]
 rating: 4.8
@@ -28,13 +28,6 @@ tags: ["physiotherapy", "sports-injury", "rehab"]
 active: true
 date_listed: "2026-08-18"
 reviews:
-  - name: "Lindsay Canham"
-    rating: 5
-    comment: |
-      Had an excellent time with Radha. She helped me work through ankle sprain recovery. Step wise training and exercises and resources to help me be consistent with my recovery. Something new week over week. She always answered my questions and kept me informed of the plans and next steps.
-      
-      The ladies at the front desk, Joanne and Janet were always friendly and extremely helpful. A pleasure calling them every time and greeted with a warm smile.
-      Would go back again for any physio needs
   - name: "Nicole Tremblay"
     rating: 5
     comment: |
@@ -57,6 +50,13 @@ reviews:
       I highly recommend this team for anybody in the area of Whyte Ave, Argyll, or Otwell…. Or anybody else.
       
       Thank you guys!!! 😁
+  - name: "Lindsay Canham"
+    rating: 5
+    comment: |
+      Had an excellent time with Radha. She helped me work through ankle sprain recovery. Step wise training and exercises and resources to help me be consistent with my recovery. Something new week over week. She always answered my questions and kept me informed of the plans and next steps.
+      
+      The ladies at the front desk, Joanne and Janet were always friendly and extremely helpful. A pleasure calling them every time and greeted with a warm smile.
+      Would go back again for any physio needs
   - name: "Jenna Norman"
     rating: 5
     comment: |

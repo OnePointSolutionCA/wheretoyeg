@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–12:00 AM"
 photos: ["/photos/the-bob-story-korean-kitchen-1.jpg", "/photos/the-bob-story-korean-kitchen-2.jpg", "/photos/the-bob-story-korean-kitchen-3.jpg"]
 rating: 5
-review_count: 79
+review_count: 83
 price_range: "$"
 amenities:
   - "Dine-In"

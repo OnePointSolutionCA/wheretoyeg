@@ -18,7 +18,7 @@ hours:
   sunday: "8:00 AM - 6:00 PM"
 photos: ["/photos/transcend-coffee-1.jpg", "/photos/transcend-coffee-2.jpg", "/photos/transcend-coffee-3.jpg"]
 rating: 4.5
-review_count: 569
+review_count: 567
 price_range: "$$"
 amenities:
   - "Espresso"
@@ -34,10 +34,6 @@ reviews:
     rating: 4
     comment: |
       I love Transcend, especially the Garneau location. It’s a pretty quiet cafe with beautiful sunshine and great coffee. The coffee is a bit on the expensive side and I wish they had more outlets, but the vibe and friendly staff are definitely huge bonuses. I’d give it a 4.5 if google would let me :)
-  - name: "Samm A"
-    rating: 5
-    comment: |
-      Really great oat latte and spinach feta pastry! The lady who served me was so kind and friendly! The latte art is also beautiful. I liked that the windows are frosted so you get some privacy from people walking past but still get natural sunlight. Lovely place
   - name: "Raspberry"
     rating: 2
     comment: |
@@ -50,4 +46,8 @@ reviews:
     rating: 5
     comment: |
       Great new little coffee place attached to both a micro brew and a butcher meat mart.  Coffee is great and they have great coffee equipment for sale.  Brewers.  Grinders etc.  They also have great baked goods and coffee to take home for sale.  Beans or ground.
+  - name: "Samm A"
+    rating: 5
+    comment: |
+      Really great oat latte and spinach feta pastry! The lady who served me was so kind and friendly! The latte art is also beautiful. I liked that the windows are frosted so you get some privacy from people walking past but still get natural sunlight. Lovely place
 ---

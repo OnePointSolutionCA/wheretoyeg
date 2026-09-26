@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "1708 99 St NW #102, Edmonton, AB T6N 1M5"
 rating: 4.5
-review_count: 446
+review_count: 450
 tier: "featured"
 phone: "(587) 635-3405"
 website: "https://www.unapizzeria.com/"
@@ -38,15 +38,14 @@ reviews:
       
       UNA has brought something genuinely special to South Edmonton. Whether it is a casual lunch, a date night, or a group outing, this place delivers consistently. Highly recommended.
       Reviewed as a Google Local Guide
-  - name: "Reviewing experiences good&bad"
-    rating: 5
-    comment: |
-      Highly recommended if you love good food and great service. Stopped in on a whim and was pleasantly surprised, we will be back to try more items on the menu.
-      We left full, but found enough room to take a pizza home for later. (Update - the pizza was horrible and have seen more reviews saying the same thing.) We must have gone a good day.
   - name: "Erin Mae"
     rating: 5
     comment: |
       I went here last weekend for the first time with my family and honestly the most memorable part was the amazing service, Elmo (if Im remembering his name correctly) was absolutely incredible. He had a great sense of humour and made my family’s dining experience here a wonderful one. Not only was the service amazing, the food was delicious as well. Will definitely be coming back here again.
+  - name: "Mil Onnnee"
+    rating: 5
+    comment: |
+      Wow best pastas ever! We got 4 dishes to share with 3 people and it was the perfect way to enjoy it so it's not too much of one thing. It was 10/10 delicious!! Kamryn served us and she was great, no one has ever brought chilli peppers to the table in my life but SHE DID without needing to ask for it, that was the cherry on top it made me so happy. Highly recommend the pastas. Will be back next time to try pizzas
 hours:
   monday: "11:00 AM–10:00 PM"
   tuesday: "11:00 AM–10:00 PM"

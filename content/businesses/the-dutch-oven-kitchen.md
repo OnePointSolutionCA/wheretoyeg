@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Spruce Grove"
 address: "8 McLeod Ave #106, Spruce Grove, AB T7X 3X3"
 rating: 4.8
-review_count: 303
+review_count: 305
 tier: "featured"
 phone: "(587) 286-1424"
 website: "https://www.thedutchoven.ca/"

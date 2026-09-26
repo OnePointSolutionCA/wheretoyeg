@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/windshield-surgeons-auto-glass-1.jpg", "/photos/windshield-surgeons-auto-glass-2.jpg", "/photos/windshield-surgeons-auto-glass-3.jpg"]
 rating: 4.8
-review_count: 1449
+review_count: 1457
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,10 @@ tags: ["edmonton", "windshield"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "MRW"
+    rating: 5
+    comment: |
+      They were SO quick! Great customer service, every person on the phone and in person was top notch at serving efficiently, knowledgably and cheerfully. I highly recommend this as a wonderful reliable place for repairs and best of all it was done in half the time. Great job everyone 😄 (the picture attached is how I brought it in and they took the tape off and my kids said it was better than new since it didn't have fingerprints everywhere like the other side) Kid approved repair job!
   - name: "Brendon Ha"
     rating: 5
     comment: |
@@ -49,10 +53,6 @@ reviews:
       
       Best regards,
       Brendon
-  - name: "MRW"
-    rating: 5
-    comment: |
-      They were SO quick! Great customer service, every person on the phone and in person was top notch at serving efficiently, knowledgably and cheerfully. I highly recommend this as a wonderful reliable place for repairs and best of all it was done in half the time. Great job everyone 😄 (the picture attached is how I brought it in and they took the tape off and my kids said it was better than new since it didn't have fingerprints everywhere like the other side) Kid approved repair job!
   - name: "Andrea Osborne"
     rating: 5
     comment: |

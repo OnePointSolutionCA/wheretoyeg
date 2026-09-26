@@ -13,6 +13,14 @@ google_maps: "https://maps.google.com/?cid=16850379428905609422&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/the-audiology-clinic-edmonton.jpg"
 reviews:
+  - name: "Dick Greuter"
+    rating: 5
+    comment: |
+      Sameera Jaffer conducted the most thorough auditory examination that I have ever experienced.  Her detailed, comprehensive  explanation of the results inspired confidence in the plan to restore my auditory health.  I highly recommend the Audiology Clinic.
+  - name: "Majdi Khelifi"
+    rating: 5
+    comment: |
+      I visited the clinic to inquire about an appointment. Rachel was professional, friendly, and understanding. Her excellent customer service convinced me to book, despite the longer wait time.
   - name: "Lisa-Marie Heschel"
     rating: 5
     comment: |
@@ -21,14 +29,6 @@ reviews:
     rating: 5
     comment: |
       It was a pleasure to attend the Audiology Clinic Edmonton.  Beginning with my initial contact with Rachel, communication was excellent.  Eliza began with  a thorough history conversation and into the audiogram explained every step.  I am so very pleased with my visit and look forward to future.   Thank you!
-  - name: "Max Kamis"
-    rating: 5
-    comment: |
-      Had an excellent visit. Ruhee and the team were fantastic, very friendly and made the whole testing process seamless. I’m really happy with the service I received
-  - name: "Emily Jenkins"
-    rating: 5
-    comment: |
-      No issues booking a hearing exam, service was fantastic, quick, easy and made my fiance felt comfortable during the testing.
   - name: "Serah Mawas"
     rating: 5
     comment: |

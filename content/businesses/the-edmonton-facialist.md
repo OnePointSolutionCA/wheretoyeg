@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–5:00 PM"
 photos: ["/photos/the-edmonton-facialist-1.jpg", "/photos/the-edmonton-facialist-2.jpg", "/photos/the-edmonton-facialist-3.jpg"]
 rating: 5
-review_count: 79
+review_count: 80
 price_range: "$$"
 amenities:
 

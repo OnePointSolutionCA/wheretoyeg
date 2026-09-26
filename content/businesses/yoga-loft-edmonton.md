@@ -9,16 +9,16 @@ address: "10345 106 St NW"
 neighborhood: "Downtown"
 google_maps_url: "https://maps.google.com/?q=The%20Yoga%20Loft%20Edmonton%20Edmonton"
 hours:
-  monday: "7:00 AM–7:00 PM"
-  tuesday: "7:00 AM–7:00 PM"
-  wednesday: "7:00 AM–7:00 PM"
-  thursday: "7:00 AM–7:00 PM"
-  friday: "7:00 AM–6:00 PM"
-  saturday: "9:00 AM–12:00 PM"
-  sunday: "Closed"
+  monday: "9:00 AM–9:00 PM"
+  tuesday: "9:00 AM–9:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
+  saturday: "9:00 AM–2:00 PM"
+  sunday: "9:00 AM–7:00 PM"
 photos: ["/photos/_stock/gym.jpg"]
-rating: 5
-review_count: 8
+rating: 4.9
+review_count: 51
 price_range: "$$"
 amenities:
   - "Drop-Ins"
@@ -28,24 +28,25 @@ tags: ["yoga", "hot-yoga", "vinyasa"]
 active: true
 date_listed: "2026-08-18"
 reviews:
-  - name: "Cody Thompson"
+  - name: "Alison Rombal"
     rating: 5
     comment: |
-      Great yoga classes offered and lead by an amazing instructor - Keira! Kiera opens communication to her class to help target the body parts they want to focus on. I’ve attended multiple classes & each time I am left feeling stretched and welcomed into this studio. The space & vibes are immaculate for the classes offered. I highly would recommend attending a class at the loft!
-  - name: "Raeann Bauman"
+      I LOVE Masa’s hot yoga classes on Monday nights and Friday morning! I get sore I’m the best ways and we don’t stop! Every class is. Different and she really makes an effort to personalize and modify poses, giving options and helping postures as needed.y favorite teacher so far jn my yoga journey. Fridays class tends to be less busy than the Monday night classes too.
+  - name: "diana szafran"
     rating: 5
     comment: |
-      the receptionist Cody recommended the work out classes & I think I found my new yoga spot. instructor Kiera listens to the classes needs and intigrates it into her plans! I’m excited for more time slots to become available. ps very happy about the new pricing
-  - name: "Kimberly Dice"
+      Flo n Glo Yoga Studio is such a wonderful place. I truly enjoyed my time there. The owners are very kind and welcoming, and the studio has a beautiful, peaceful atmosphere. All of the instructors are amazing. They are very caring, patient, and take the time to guide everyone with a smile.
+      It is very clean and well cared for. I highly recommend this place to anyone looking for a relaxing and positive experience. The delicious tea at the end was such a lovely touch. Thank you for creating such a special space!🤗
+  - name: "Tasha Mclay"
     rating: 5
     comment: |
-      I attended a functional strength and conditioning class with Jaco, and I wish I could give it more than 5 stars. Jaco goes out of his way to help you individualize your work out, make sure the movement patterns work for you, and keeps it enjoyable. The work out is well structured and hits all the major muscle groups. Definitely recommend!
-  - name: "Chelsea Thompson"
+      Flo n Glo has incredible instructors.  They guide well whether you're a beginner or you've been practicing for decades. There's always a class for everyone and every mood.  I love the vibes in the studio, I always feel welcome.  When you have friendly, knowledgeable instructors, thoughtful and caring owners it makes for a wonderful place to go and practice.
+  - name: "Amy W"
     rating: 5
     comment: |
-      Beautiful space to attend scheduled fitness classes or to book for a team building event - Group Yoga anyone?!? New, clean and bright space at the Loft.
-  - name: "Jennifer DeNault"
+      A beautiful and clean yoga space! The teachers (especially Masa and Ricky) are AWESOME! Great for all levels, but gives the opportunity for growth in your practice!
+  - name: "Cat Jones"
     rating: 5
     comment: |
-      What a beautiful space. I went to a Slow Flo yoga class and I’ll definitely go again 🙌🏻
+      I would highly recommend Flo N Glo to anyone. They offer a wide variety of classes where you can always learn something new. The social environment of the studio really stood out to me , with the staff being very inclusive and inviting and the studio guests supporting each other. I have attended over 20 yoga studios around North America and Flo n Glo is one of the best I've ever visited.
 ---

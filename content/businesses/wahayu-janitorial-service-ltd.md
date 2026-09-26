@@ -24,14 +24,14 @@ reviews:
     rating: 5
     comment: |
       I love the service they are on time they clean properly  and they are honest and very nice
-  - name: "Teme cool"
-    rating: 5
-    comment: |
-      Basically, in my life, I haven’t seen you
   - name: "Rita worka"
     rating: 5
     comment: |
       Wow they are good cleanere
+  - name: "Teme cool"
+    rating: 5
+    comment: |
+      Basically, in my life, I haven’t seen you
 hours:
   monday: "Closed"
   tuesday: "Closed"

@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/yeg-home-comfort-ltd-1.jpg", "/photos/yeg-home-comfort-ltd-2.jpg", "/photos/yeg-home-comfort-ltd-3.jpg"]
 rating: 4.7
-review_count: 318
+review_count: 319
 price_range: "$$"
 amenities:
 
@@ -40,15 +40,6 @@ reviews:
     rating: 5
     comment: |
       We had such a great happy customer experience with the whole install of our new air conditioner for our home! Brad our HVAC expert explained the whole process to the wonderful installers Terry and Rob! Extremely impressed and happy with their professionalism. Nicole was very friendly and willing to explain and answered all our questions and concerns. They went above and beyond with the install! Extremely happy with how clean the install was, and the result looks fantastic!! Thank you all very much extremely happy with the team effort !! I would highly recommend YEG Home Comfort for anyone looking for reliable local option for their HVAC needs.
-  - name: "Arlen Lorenzana"
-    rating: 5
-    comment: |
-      YEG Home Comfort LTD. was the first company that responded professionally to my request for replacing or repairing my air conditioning system.
-      No fear mongering, no evasive answers, just facts.
-      Excellent, friendly and prompt communication.
-      Brad, the technician was professional and friendly.
-      Very happy with the service I received from beginning to end!
-      I recommend this company for all your AIrCon needs.
   - name: "Christine Schumacher"
     rating: 5
     comment: |
@@ -65,4 +56,13 @@ reviews:
       When I finally called once I was back in town, she still had no notes on my account and seemed scattered brain. I wanted to know if it was still active and how it worked because I was getting a different answer from Home Depot. She told me, “I can’t give you an answer today, but I’ll call you back in a couple of days with an update.” I told her please give me a call back 2-3 days from now because I will be gone again in two weeks so I needed to know what I was going to do before I leave the town again.
       
       One day goes by and nothing, three days goes by and still nothing…it’s been TWO WEEKS! and she still hasn’t called me back, or sent me an email or even text. I was actually excited to get this going but I’m extremely disappointed with the level of service throughout this entire process. It’s left a genuinely bad impression. Honestly if I could give lower than 1 star I would.
+  - name: "Arlen Lorenzana"
+    rating: 5
+    comment: |
+      YEG Home Comfort LTD. was the first company that responded professionally to my request for replacing or repairing my air conditioning system.
+      No fear mongering, no evasive answers, just facts.
+      Excellent, friendly and prompt communication.
+      Brad, the technician was professional and friendly.
+      Very happy with the service I received from beginning to end!
+      I recommend this company for all your AIrCon needs.
 ---

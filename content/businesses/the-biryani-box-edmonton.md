@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/the-biryani-box-edmonton-1.jpg", "/photos/the-biryani-box-edmonton-2.jpg", "/photos/the-biryani-box-edmonton-3.jpg"]
 rating: 4.4
-review_count: 422
+review_count: 424
 price_range: "$$"
 amenities:
   - "Halal"
@@ -53,12 +53,12 @@ reviews:
     rating: 5
     comment: |
       We ordered the full assorted meat platter, and it was absolutely delicious. Every item was perfectly cooked, full of flavour, and incredibly satisfying. The variety made it even better, and each meat stood out in its own way. Everything tasted fresh and well-seasoned, and we truly enjoyed every bite. Everyone at the table loved it, and it was a great experience overall. Highly recommended!
-  - name: "Brenden Grace"
-    rating: 5
-    comment: |
-      I felt ready to pass out. A morning full of meetings and impending gym visit required sustenance. While I was ordering I found multiple options - all well explained by the lively, lovely, and downright likable Host. As advised I chose the Chicken Byrani. I was not disappointed. The only thing more significant than the portion was the flavor! CareFlow thanks you for feeding this beast and keeping the wheels turning.
   - name: "Fathima Nasser"
     rating: 5
     comment: |
       This is my 2nd review after a year of discovering the authentic Indian Biryani, I don't even care if it's 2nd, I want to give this fabulous team and it's restaurant geniuine accolades that they deserve in every way. It was a blizzard day yesterday we suddenly missed something traditional but out food, my family loves enjoying every item of Biryani Box, Edmonton especially when all of us are together. Bang! They prove us right over and over again, as always the food was top notch, the flavors and meat all cooked in the true spirit of the authentic Indian Biryani. And to add to the feast, the Tandoori chicken was like a cherry on the cake. Cheers for being so good even after a year you all have just mastered the quality to excellence. Super impressed. Thank you Team Biryani Box. BarakaAllahu Feekum..
+  - name: "Vivek V"
+    rating: 2
+    comment: |
+      Usually biryani will be good but this time it was too salty and too much colour on tandoori chicken. Colour doesn’t go off hand after washing multiple times. I placed order through their online portal and mentioned to be picked after 1 hour but service staff mentioned good was waiting for long and they made it in 20 min.
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/thrive-catering-co-1.jpg", "/photos/thrive-catering-co-2.jpg", "/photos/thrive-catering-co-3.jpg"]
 rating: 5
-review_count: 46
+review_count: 48
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -50,10 +50,6 @@ reviews:
       One unexpected bonus was that we didn’t specifically request gluten-free options, but we were thrilled to see that many of the dishes were naturally gluten-free, which was perfect for our gluten-intolerant friends. The food labels were also clear, which made it easy for everyone to enjoy the meal without any worry.
       
       To top it all off, Thrive is a local business, right in our neighborhood, which also happened to be where we got married. It felt even more special to support a local gem that really helped make our day unforgettable. If you’re looking for exceptional catering that combines delicious food and stellar service, Thrive Catering is the way to go. You won’t regret it! If we ever host another large event, we will absolutely be calling on them again!
-  - name: "Jim Hunter"
-    rating: 5
-    comment: |
-      We used Thrive Catering for a large celebration and they exceeded our expectations. The food was excellent and had rave reviews from everyone.  Thrive was able to elevate the taste and quality of every dish, even in a big buffet setting.  Lisa and her staff were very professional and hard working and went over and above in service, helping the event go smoothly.  We highly recommend them!
   - name: "Kirsty Wilson"
     rating: 5
     comment: |
@@ -62,4 +58,8 @@ reviews:
       The food was outstanding and we received so much positive feedback from our guests. Everything was beautifully presented and tasted incredible.
       
       I would recommend Thrive Catering in a heartbeat. If you want an event that feels effortless and impresses every guest, they’re the team to choose!
+  - name: "Mona Asadi"
+    rating: 4
+    comment: |
+      Excellent experience with Thrive Catering Co.! The food was fresh, beautifully presented, and full of flavor. The team was professional and attentive, making everything seamless. Highly recommend Thrive Catering Co. for any event!
 ---

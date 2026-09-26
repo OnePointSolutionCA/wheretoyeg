@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–7:00 PM"
 photos: ["/photos/traqlab-1.jpg", "/photos/traqlab-2.jpg", "/photos/traqlab-3.jpg"]
 rating: 5
-review_count: 685
+review_count: 686
 price_range: "$$"
 amenities:
 
@@ -28,10 +28,6 @@ tags: ["edmonton", "karting"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Carson Lu"
-    rating: 5
-    comment: |
-      Tried their 737-8 simulator, and it was amazing. Staff was very friendly, and a great experience. The sim is very nice, feels heavy, but is realistic. I highly recommend this to anyone interested in aviation. Great value for the price
   - name: "Oluwaseun Adewale"
     rating: 5
     comment: |
@@ -42,6 +38,14 @@ reviews:
       You can tell the whole team puts real care into creating a fun, immersive, and memorable environment. Whether you're into racing, aviation, or just looking for something unforgettable to do, TraqLab is absolutely the place to be.
       
       Highly recommended!
+  - name: "Eli Montealegre"
+    rating: 5
+    comment: |
+      So fun but only one thing im picky about is the game maybe use ps5 with gran turismo on it to make it more realistic and immersive
+  - name: "Carson Lu"
+    rating: 5
+    comment: |
+      Tried their 737-8 simulator, and it was amazing. Staff was very friendly, and a great experience. The sim is very nice, feels heavy, but is realistic. I highly recommend this to anyone interested in aviation. Great value for the price
   - name: "Bhuvan Vasudev"
     rating: 5
     comment: |
@@ -55,8 +59,4 @@ reviews:
     rating: 5
     comment: |
       It was a thrill in the sky.  We learned a lot and enjoyed it immensely.  Our instructor was very knowledgeable.
-  - name: "Ryan Debusschere"
-    rating: 5
-    comment: |
-      Josh and the entire Traqlab team truly went above and beyond! My 12-year-old and I spent an incredible couple of hours there and had a great time. The staff were generous with their time. Don't wait—get off your butt and head over there.
 ---

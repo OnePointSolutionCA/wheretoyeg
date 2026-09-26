@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "220 Lakeland Dr #200, Sherwood Park, AB T8H 0N6"
 rating: 4.7
-review_count: 109
+review_count: 118
 tier: "featured"
 phone: "(780) 929-4099"
 website: "https://www.zaynsdinerplus.ca/"
@@ -44,10 +44,10 @@ reviews:
     rating: 5
     comment: |
       Great place with amazing food! Owners came out to chat and were super friendly!
-  - name: "Sean M"
+  - name: "Asia Johnston"
     rating: 5
     comment: |
-      What a fantastic diner. Food is made with fresh ingredients and absolutely delicious. Burger was cooked perfectly and service was great. 10/10 reccomend
+      Really great spot in Sherwood! Tried their breakfast on Canada Day and it was delicious!  Their pancakes are delectable. The staff are super friendly and accommodated me despite a mixup on a special they had. Restaurant is really cozy, will definitely be back!
 hours:
   monday: "7:30 AM–9:00 PM"
   tuesday: "7:30 AM–9:00 PM"

@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/the-mensroom-in-mayfield-chatters-1.jpg", "/photos/the-mensroom-in-mayfield-chatters-2.jpg", "/photos/the-mensroom-in-mayfield-chatters-3.jpg"]
 rating: 4.5
-review_count: 230
+review_count: 231
 price_range: "$$"
 amenities:
 

@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/the-hair-loft-yeg-1.jpg", "/photos/the-hair-loft-yeg-2.jpg", "/photos/the-hair-loft-yeg-3.jpg"]
 rating: 4.8
-review_count: 315
+review_count: 318
 price_range: "$$"
 amenities:
 
@@ -28,16 +28,14 @@ tags: ["edmonton", "cuts-styling"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Ashleigh Baker"
+    rating: 1
+    comment: |
+      Sadly I’ve never left a poor review for any business but this will be my first. I am extremely disappointed as I had Medina for a hair stylist as my first time at this business and I came in wanting to slightly lighten my hair. My two requests were to make sure it blended naturally and to make sure it didn’t look streaky. Unfortunately she lifted my hair far too much and it came out much lighter than the photos she showed me, making it look very unblended. It also looked incredibly streaky which was my main concern. Not to mention I didn’t realize how uneven my hair cut was until I got home and started brushing my hair. I’ve never complained about a service before but ended up calling the salon expressing my upset about the final product hoping to fix it. Fortunately, the owner and stylist Sam were very lovely and offered to get me in right away to fix it. Unfortunately, I went on vacation the next day therefore I went in to see Medina for a fix two weeks later. What I am most upset about is after paying $400 already for the initial service which I was extremely disappointed with, I was then made to pay again when she had to colour correct to fix it. In my opinion, if a customer has to come back in to fix a colour that was wrong, you should never make them pay. I already had to give my time to come back in two weeks later, not to mention going on vacation feeling like my hair was worse than before I went in after paying $400. Unfortunately because of this, I will not be returning.
   - name: "Marissa Lazecki"
     rating: 2
     comment: |
       I've never left a review of a haircut before because I'm not very picky. I get one haircut MAYBE every 2 years, and I just do a walk-in on a whim because again, not picky... But I don't think I've ever had a cut this bad... It's so uneven and choppy, I'm just going to have to keep it up until it grows out and I can get it cut again... The stylist was super nice and lovely to talk with, but once I straightened my hair at home and saw what she did... Definitely won't be going back unfortunately.
-  - name: "Jasmine Cunanan"
-    rating: 5
-    comment: |
-      ⭐⭐⭐⭐⭐
-      
-      I had such a great experience at The Hair Loft! Sam did an amazing job cutting my hair—he really listened to what I wanted and made my hair look so nice! I’m very happy with the result. Sam is also such a kind, friendly, and welcoming owner. You can really tell he cares about his clients and his work. I definitely recommend The Hair Loft and will be coming back again! 💕✂️
   - name: "Dianne Enstrom"
     rating: 5
     comment: |

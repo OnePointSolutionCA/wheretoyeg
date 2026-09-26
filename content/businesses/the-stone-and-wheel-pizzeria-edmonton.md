@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Windermere"
 address: "17 Fairway Dr NW, Edmonton, AB T6J 2C1"
 rating: 4.8
-review_count: 1069
+review_count: 1073
 tier: "featured"
 phone: "(587) 900-0190"
 website: "https://www.thestoneandwheel.ca/"

@@ -17,14 +17,14 @@ reviews:
     rating: 5
     comment: |
       I had a great experience,, I would recommend this notary if anybody needs to get their work done professionally. Everything was smooth and they answered all my queries with patience and went above and beyond to make it work out according to my schedule. Thank you for your amazing service!!
-  - name: "Deep K"
-    rating: 5
-    comment: |
-      Excellent service, the are very cooperative although i was running late they still got my work done , would absolutely recommend
   - name: "R. B."
     rating: 1
     comment: |
       1 star. In my experience, I was advised to send all documents for review, but the process led to confusion and the documents were not accepted in court, which caused delays. When I followed up, the response did not match the initial instructions, and I felt I was not able to fully explain my concerns. Overall, I would not recommend this service.
+  - name: "Deep K"
+    rating: 5
+    comment: |
+      Excellent service, the are very cooperative although i was running late they still got my work done , would absolutely recommend
   - name: "Charndeep Singh"
     rating: 5
     comment: |

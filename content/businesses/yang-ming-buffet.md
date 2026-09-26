@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–8:30 PM"
 photos: ["/photos/yang-ming-buffet-1.jpg", "/photos/yang-ming-buffet-2.jpg", "/photos/yang-ming-buffet-3.jpg"]
 rating: 4.1
-review_count: 4637
+review_count: 4645
 price_range: "$$"
 amenities:
   - "Takeout"

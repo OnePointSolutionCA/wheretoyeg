@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/true-aesthetics-1.jpg", "/photos/true-aesthetics-2.jpg", "/photos/true-aesthetics-3.jpg"]
 rating: 5
-review_count: 618
+review_count: 620
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,12 @@ tags: ["edmonton", "facials"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Vikas Jain"
+    rating: 5
+    comment: |
+      My wife and I visited True Aesthetics for facials today, and we had such a wonderful experience. From the moment we walked in, everyone made us feel welcome. The entire team was incredibly friendly, polite, and professional, and they took the time to make sure we were comfortable throughout our visit.
+      
+      The facial itself was relaxing, and we left feeling refreshed and well taken care of. You can really tell that they care about their clients and creating a great experience. We highly recommend True Aesthetics to anyone looking for excellent service and a welcoming atmosphere. We’ll definitely be back!
   - name: "Nicole Fischer"
     rating: 5
     comment: |
@@ -51,10 +57,4 @@ reviews:
     rating: 5
     comment: |
       The facility was very clean, quiet, and no strong smells. The front staff was very friendly and easy to access. I got botox with Molly and she was amazing! She has been the best injector I have had to date. She was extremely thorough with her explanations and answered all my questions. She did not try to push services on me and was honest about what she thought might benefit my skin and what would not. I was offered to talk wth the surgeon before receiving any treatments (though I did not take this offer because I trust Molly and her thorough knowledge of injections as an RN). Molly was also very gentle with her injections and really put my needle anxieties at ease. I highly recommend this facility and Molly.
-  - name: "Natalia K"
-    rating: 5
-    comment: |
-      I had a wonderful Hydrafacial at True Aesthetic! The staff was welcoming, professional, and made me feel comfortable from the moment I arrived. My aesthetician  Josh explained every step of the treatment and tailored it to my skin's needs.
-      My skin felt incredibly clean, hydrated, and refreshed right after the facial, with a healthy glow that lasted for days. The clinic was spotless, relaxing, and beautifully maintained.
-      I highly recommend Josh to anyone looking for a professional Hydrafacial and excellent customer service. I'll definitely be coming back!
 ---

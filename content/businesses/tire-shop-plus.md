@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/tire-shop-plus-1.jpg", "/photos/tire-shop-plus-2.jpg", "/photos/tire-shop-plus-3.jpg"]
 rating: 4.3
-review_count: 617
+review_count: 619
 price_range: "$$"
 amenities:
 
@@ -55,8 +55,8 @@ reviews:
     comment: |
       Great service and great pricing. No appointment needed. They do your tires on the spot.
       Helped me find a great tire for my vehicle. Ordered it in and they were in the next day. Rob, the owner greets every customer and constantly updates and reassures on time to completion. Very centrally located with lots of parking nearby. I would not consider going anywhere else now.
-  - name: "Charles Dewsbury"
+  - name: "Alvin V"
     rating: 5
     comment: |
-      Great place for new and used tires 💥 They've been at it for twenty years, personable, local ownership, great guy, down to earth, easy to chat with. Quick, efficient service, maybe 15 minutes for 4 tire changeover 💥 Talked to a customer that that came in after me, said he's been using these guys for twenty years 😮 Looks like I'll be going that club 😉 Highly, highly recommended 😁
+      This tireshop is great, been going here for everything tire related. Quick but does great work. No nonsense pricing. They can pretty much source what you need for tires - new/used. Best part is first come first served- which means when you get there and no one is ahead of you. Your tires get done. No waiting around like most tireshops that force you to book an appointment but get stuck waiting after you book an appointment. Highly recommended 👌 👍🏽
 ---

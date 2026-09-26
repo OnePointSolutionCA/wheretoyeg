@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/wing-snob-3-1.jpg", "/photos/wing-snob-3-2.jpg", "/photos/wing-snob-3-3.jpg"]
 rating: 4.7
-review_count: 494
+review_count: 497
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -46,12 +46,14 @@ reviews:
     rating: 5
     comment: |
       My wife and I ordered Buffalo, Lemon Pepper and Garlic Parmesan wings.    As well as the Garlic Parmesan fries.  Everything was absolutely delicious.  Some of the best, if not the best, wings we’ve had yet.  Flavour wise and chicken wing quality.  The fries were insanely delicious too.  This place exceeded our expectations and we will definitely be back soon.  The staff was very nice, helpful and upbeat.  The restaurant was clean and decorated nicely.  We have nothing but good things to say.
+  - name: "Greg"
+    rating: 4
+    comment: |
+      Service was amazing! Staff are super nice to deal with, went there one evening.
+      
+      The fries are amazing. Wings are good, but I wish they had a dedicated fryer. Wing flavors are good, if I was going to suggest anything it would be to play around with cooking times for optimal crispy vs cooked vs tender.
   - name: "jc"
     rating: 5
     comment: |
       Navjot greeted us with as soon as we walked in. She was very welcoming and super sweet. She helped us decide on the menu and even gave us some recommendations. We took her advice with getting a creamy parm dip with our chicken and it was amazing! She knows her stuff. The food and dip complimented each other very well. I came with my boyfriend and my best friend, we all enjoyed it a lot. I would definitely go to this location more often.
-  - name: "Taz Gane"
-    rating: 1
-    comment: |
-      Really disappointed with the wings today. Paying $40+ you expect big juicy wings with heavy sauce and flavour. These wings were sub-par cheap 30 cent wings. The wings also had a terrible smell coming from them. My wife and I just ended up eating the dry fries before tossing the whole thing. Never going to wing snob again…. Highly disappointing
 ---

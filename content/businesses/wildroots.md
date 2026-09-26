@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "St. Albert"
 address: "15 Perron St #150, St. Albert, AB T8N 1E5"
 rating: 4.8
-review_count: 305
+review_count: 308
 tier: "featured"
 phone: "(780) 460-0893"
 website: "https://wildrootsbistro.ca/"
@@ -35,16 +35,10 @@ reviews:
       The coffee was just okay for me, as I found it a little too sweet for my taste, but that’s purely a personal preference. Despite the restaurant being very busy when we visited, we understood the 30+ minute wait. It was a bustling morning, and the lively atmosphere actually added to the charm of the place.
       
       Overall, Wild Roots feels like a hidden gem in St. Albert. The quality of food, the friendly service, and the cozy ambiance make it a spot worth coming back to. We’re already looking forward to returning to try more items from their menu. Highly recommended!
-  - name: "Samantha McConnell"
-    rating: 4
+  - name: "claudio isea"
+    rating: 5
     comment: |
-      Absolutely delicious. I will gladly be coming here again and trying many dishes.
-      
-      I loved that you could see right into the kitchen to see the food being made and the attention to the detail put into each dish.
-      
-      The waitlist is a great way to work it.
-      
-      Only weird thing was the seating to the left of the door. If you're on the bench your backside is the view of everyone walking upto the store.
+      What can I say other tha  best breakfast lunch ive had in the city. Ive known chef Tony for a while working along side with him so I knew it was gonna be good but not to this extend. The food was so fresh and delicious, everything tasted like it was freshly made and just absolutely delicious the French toast was soooo good and the egg Benedict were by far the best ive had. I cannot wait to go back and try the rest!
 hours:
   monday: "Closed"
   tuesday: "9:00 AM–3:00 PM"

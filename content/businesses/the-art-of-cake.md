@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/the-art-of-cake-1.jpg", "/photos/the-art-of-cake-2.jpg", "/photos/the-art-of-cake-3.jpg"]
 rating: 4.7
-review_count: 703
+review_count: 706
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -44,6 +44,14 @@ reviews:
       We had the cherry pie and lemon flan for dessert.  Both were excellent. As was the pot of tea.
       
       Very nice overall with friendly staff and quick service.
+  - name: "Shannon Joseph"
+    rating: 5
+    comment: |
+      This place has one of the best cupcakes I've ever tasted.
+      
+      The cupcake sponge is most, and decadent. The icing on the cake has depth of flavor, and balances the sweetness with the entire cupcake. I usually take the icing off cupcakes after tasting it, but this one was really good and I ate the entire thing.
+      
+      The atmosphere is unique and fun. Definitely a place I would recommend if your looking for quality cupcakes.
   - name: "Greg Vidito"
     rating: 5
     comment: |
@@ -54,9 +62,4 @@ reviews:
     rating: 5
     comment: |
       I was recommended The Art of Cake by a friend to make my sister’s graduation cake and WOW! I will now be recommending them to anyone who asks. They not only nailed the custom design I wanted, but the cake itself was so unbelievably delicious. The bakery team were lovely and professional from initial enquiry to pick up. I wish I could rate them higher than 5 stars!!
-  - name: "Amanda McLeod"
-    rating: 5
-    comment: |
-      Today was my first visit to this hidden gem after finding them through a follower on Instagram. The food is top tier. Today I ordered the Vietnamese Caramelized Pork Bowl (with salad), Chocolate pie, sprinkle cookie sandwich, and an almond matcha latte.  Everything was excellent, especially the lunch meal, it really caught me off guard in the best way. I will be returning again.
-      I would have for sure visited sooner for lunch if it was advertised more via google as I have looked for similar menu items in the area previously over the past 3 years.
 ---

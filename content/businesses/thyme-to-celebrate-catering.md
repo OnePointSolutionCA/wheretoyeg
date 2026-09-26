@@ -13,12 +13,6 @@ google_maps: "https://maps.google.com/?cid=14631903290859782965&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/thyme-to-celebrate-catering.jpg"
 reviews:
-  - name: "Tenesee T."
-    rating: 5
-    comment: |
-      Thyme to Celebrate catered a funeral that I attended and their food was great! Very fresh sandwiches, fruit, and vegetables. There were also what seemed like homemade cookies and other delicious desserts.
-      
-      The owner, Ann, was lovely to chat with. She was professional, personable and on top of her service. I will book with her in the future when we need catering for an event.
   - name: "Karla Carson"
     rating: 5
     comment: |
@@ -33,6 +27,12 @@ reviews:
     rating: 5
     comment: |
       We truly had the most incredible experience with Thyme to Celebrate catering for our wedding this past weekend, we feel so lucky to have had Ann & her team taking care of our big day! The food was delicious, we received many, many compliments & lots of guests up for second helping. The dinner buffet was run smoothly and wonderfully by all staff, food was always fresh, hot and ready. The entire meal was perfectly cooked and of highest quality. We chose flatbread pizza as our late lunch, it was a huge hit! Ann was so lovely to communicate with, we feel so fortunate to have her! I would recommend Thyme to Celebrate to all my friends & family 😊
+  - name: "Tenesee T."
+    rating: 5
+    comment: |
+      Thyme to Celebrate catered a funeral that I attended and their food was great! Very fresh sandwiches, fruit, and vegetables. There were also what seemed like homemade cookies and other delicious desserts.
+      
+      The owner, Ann, was lovely to chat with. She was professional, personable and on top of her service. I will book with her in the future when we need catering for an event.
   - name: "Michael Fiacco"
     rating: 5
     comment: |

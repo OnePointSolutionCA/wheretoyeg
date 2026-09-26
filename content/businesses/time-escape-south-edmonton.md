@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/time-escape-south-edmonton-1.jpg", "/photos/time-escape-south-edmonton-2.jpg", "/photos/time-escape-south-edmonton-3.jpg"]
 rating: 4.8
-review_count: 173
+review_count: 175
 price_range: "$$"
 amenities:
 
@@ -46,8 +46,8 @@ reviews:
       Definitely recommend.  Our host, Justin, was super helpful and friendly. He even gave us a few extra minutes to see the puzzle to the end.
       The props were great and worked well. The puzzles (room 2055) were varied and definitely challenging but made sense.
       Will definitely go again for the next rooms.
-  - name: "Xinhong Li"
+  - name: "Sarah Tso Leodones"
     rating: 5
     comment: |
-      Amazing experience! We did two rooms, 2055 and Sacred treasures. They’re both super fun. A lot of cool puzzles. We were stuck on a few of them but Justin and Zeshawn were really helpful!
+      We had a great experience at Time Escape! The rooms were well prepped with exciting and challenging puzzles. Justin was very kind and provided excellent customer service. I would highly suggest visiting Time Escape!
 ---

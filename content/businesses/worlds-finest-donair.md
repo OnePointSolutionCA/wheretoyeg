@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–12:00 AM"
 photos: ["/photos/worlds-finest-donair-1.jpg", "/photos/worlds-finest-donair-2.jpg", "/photos/worlds-finest-donair-3.jpg"]
 rating: 4.4
-review_count: 596
+review_count: 599
 price_range: "$"
 amenities:
   - "Halal"
@@ -31,16 +31,16 @@ tags: ["edmonton", "donair", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Peter Le"
+    rating: 5
+    comment: |
+      To the guys at finest donair. Nothing is free but when someone really needed a meal you were there for them. I was having a pretty rough day they made me this 1lbs beast. I always go here because they support us and the community. Thank you.
   - name: "Aaron Leo"
     rating: 4
     comment: |
       That king donair is a beast. A little greasy but damn is it filling. I came here 15 years ago and told myself never again. Well the other night I was craving a donair and I wasn't wanting to walk very far. So I came here. Well I don't know if it's new owners or different supplies but that donair was juicy. The veggies tastes fresh and it had a fair amount of sweet sauce.
       The food was delicious and the service was surprisingly quick.
       3.5 to 4 stars
-  - name: "Peter Le (Bender)"
-    rating: 5
-    comment: |
-      Only Love For This Place and Their Team! I was their last customer of the day. Still going strong even after a long day.
   - name: "Sara Diserlais"
     rating: 1
     comment: |
@@ -51,14 +51,9 @@ reviews:
     rating: 5
     comment: |
       The best donair that i’ve put in my mouth by far. The sweet the sauce, beef, and overall donair was perfect juicy and seasoned. The fries were prepared fresh and stayed hot the whole drive home. Amazing portions!
-  - name: "Garden Magic"
+  - name: "Gabrielle Paulgaard"
     rating: 5
     comment: |
-      Size and flavour are top tier. The mixed donair is second to none when it is on point.
-      
-      Simple ingredients and the spice of the meats is excellent.
-      
-      Jumbo is huge... As jumbo should be.
-      
-      Best of the best, put it to the test!!!
+      Great customer service and such delicious food! Great portion sizes for the price. The place was clean and had a nice environment! We will definitely come again! You won’t regret trying this place! :)
+      It is super messy so don’t forget to grab napkins!
 ---

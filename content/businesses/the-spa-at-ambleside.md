@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–6:30 PM"
 photos: ["/photos/the-spa-at-ambleside-1.jpg", "/photos/the-spa-at-ambleside-2.jpg", "/photos/the-spa-at-ambleside-3.jpg"]
 rating: 4.8
-review_count: 267
+review_count: 268
 price_range: "$$"
 amenities:
 
@@ -42,10 +42,6 @@ reviews:
       If you’re looking for a place to truly relax, recharge, and feel taken care of, this is it. Highly, highly recommended!
       
       ~Nina
-  - name: "Rayna"
-    rating: 5
-    comment: |
-      Came here for a massage and the whole experience was amazing. There is a relaxing lounge with high quality teas and drinks + a sauna. Mariah did my massage and it was top notch! She worked wonders and provided such a relaxing, comfortable environment. This spa has great ambiance and pays attention to the small details that results in clients leaving satisfied and zen.
   - name: "Gela"
     rating: 5
     comment: |
@@ -54,6 +50,10 @@ reviews:
     rating: 5
     comment: |
       I've been to Ambleside Spa on multiple occasions for group bookings and I cannot recommend them enough. Melony is an absolute sweetheart and takes great pride in ensuring every guest feels welcome, comfortable and relaxed in the spa lounge. Both Christine and Shelby are extremely professional and knowledgeable, and they ensure every treatment leaves you feeling pampered. The spa itself is very clean, calming and luxurious. Thank you to the incredible team for taking such good care of us!
+  - name: "Rayna"
+    rating: 5
+    comment: |
+      Came here for a massage and the whole experience was amazing. There is a relaxing lounge with high quality teas and drinks + a sauna. Mariah did my massage and it was top notch! She worked wonders and provided such a relaxing, comfortable environment. This spa has great ambiance and pays attention to the small details that results in clients leaving satisfied and zen.
   - name: "Lexie M"
     rating: 5
     comment: |

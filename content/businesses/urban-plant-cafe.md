@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Mill Woods"
 address: "9261 34 Ave NW #18A, Edmonton, AB T6N 1C9"
 rating: 4.3
-review_count: 785
+review_count: 784
 tier: "featured"
 phone: "(780) 490-1377"
 website: "http://www.urbanplant.ca/"

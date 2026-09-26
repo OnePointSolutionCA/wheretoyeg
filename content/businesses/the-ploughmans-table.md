@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Spruce Grove"
 address: "101 First Ave #3, Spruce Grove, AB T7X 2H4"
 rating: 4.7
-review_count: 124
+review_count: 126
 tier: "featured"
 phone: "(825) 220-0984"
 website: "http://www.theploughmanstable.com/"

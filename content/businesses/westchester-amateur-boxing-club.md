@@ -32,14 +32,14 @@ reviews:
     rating: 5
     comment: |
       Louise is the epitome of caring for the community. I’ve had the pleasure of working with her to provide students with “boxing for mental health” programming and it was SO amazing. Her compassion, energy, and genuine care for humans are the backbone of everything she does. Our students were able to find a safe space to just “be”, no matter what that looked like. They were able to make friends, move their bodies, and find empowerment through fitness in a non-conventional setting. If you’re looking for a place to workout, learn new skills, or find a sense of belonging without judgment, Louise is the woman for you! Thank you for all that you do. 💕
-  - name: "J Zach"
-    rating: 5
-    comment: |
-      I’ve visited boxing gyms in Toronto, Canada and Liverpool, UK, but I will admit that Westchester is the best boxing gym I’ve ever visited in my life. The coaches are meticulously attentive to technical details and work towards refining your boxing skills. Thank you for the experience and I look forward to being a part of the club!
   - name: "Jordon Ledger"
     rating: 5
     comment: |
       Westchester Boxing has great trainers, great energy, great space great equipment and awesome people.  Best spot to learn the boxing lifestyle in Edmonton!
+  - name: "J Zach"
+    rating: 5
+    comment: |
+      I’ve visited boxing gyms in Toronto, Canada and Liverpool, UK, but I will admit that Westchester is the best boxing gym I’ve ever visited in my life. The coaches are meticulously attentive to technical details and work towards refining your boxing skills. Thank you for the experience and I look forward to being a part of the club!
   - name: "G Rodrigues"
     rating: 5
     comment: |

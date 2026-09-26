@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "St. Albert"
 address: "4 Versailles Ave Unit 105, St. Albert, AB T8N 7V1"
 rating: 3.8
-review_count: 317
+review_count: 318
 tier: "featured"
 phone: "(587) 290-3463"
 website: "https://www.theridgestalbert.com/"
@@ -22,6 +22,12 @@ reviews:
     comment: |
       My friend and I sat outside. Very nice atmosphere.  The service was initially good but went over the top. Our server approached us 7 times after we got our meal to see if we needed anything.
       The food: My friend had quesadillas which she usually orders, they seemed ok. The pork tacos that I had were less than adequate. The meat tasted stale like it had been sitting in a fridge too long and had no flavour. For the price I expected more.
+  - name: "Trevor Doyle"
+    rating: 5
+    comment: |
+      This was our first visit to the Ridge Eatery.
+      Our server Ella was fantastic and attentive to our needs, just the right balance !
+      The wings were also great! Having been a regular st crown and tower for years, we may have found an amazing alternative in the Ridge Eatery:)
   - name: "Mason Good"
     rating: 2
     comment: |
@@ -32,12 +38,6 @@ reviews:
       We all enjoyed the food here very much! We sat on the shady patio and were served by Hayley she was great, very friendly and attentive. I had the fish and chips and they were really good, a very large piece so unless you are starved you won't need a second piece. The fries, tartar sauce and malt vinegar were all delicious but the coleslaw was just ok, not creamy enough for my taste.
       
       My wife had the fish/shrimp tacos and she really enjoyed them, particularly the mango salsa. Our friend had the chicken tacos and she said they were delicious, we all intend to come back often, highly recommend this restaurant.
-  - name: "antara chatterjee"
-    rating: 5
-    comment: |
-      Best shrimp taco ever tasted !
-      If you are in St albert and want to try shrimp tacos this is the place for you. From the salsa to the shrimps it was a complete package. Wish we ate a few more, now that I’m writing this review I’m craving for more!🤣
-      We also tried the fish and chips that was on offer along with LAMB SLIDERS- omg! The sliders were juicy and fresh!! 10/10 place!
 hours:
   monday: "11:00 AM–11:00 PM"
   tuesday: "11:00 AM–11:00 PM"

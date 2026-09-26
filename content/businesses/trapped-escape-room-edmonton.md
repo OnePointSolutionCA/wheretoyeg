@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/trapped-escape-room-edmonton-1.jpg", "/photos/trapped-escape-room-edmonton-2.jpg", "/photos/trapped-escape-room-edmonton-3.jpg"]
 rating: 4.8
-review_count: 588
+review_count: 590
 price_range: "$$"
 amenities:
 
@@ -32,14 +32,10 @@ reviews:
     rating: 5
     comment: |
       This was our 1st escape room as a family and we had a great time. It was our son's bday and he got in free! Big bonus points! We  chose Jack the Ripper room and it was definitely a challenge for us, our son figured out a lot of the clues. The rooms are clean and very well put together and detailed. The staff were great at offering hints and even gave us extra time to complete it. The guy(sorry can't remember his name)explained very thoroughly. They have an area to lock up your belongings as they don't allow phones in the rooms. Washrooms were very clean and spacious. Will definitely go back to try a different room.
-  - name: "Rubi Wong"
+  - name: "Linda Chau"
     rating: 5
     comment: |
-      Had such a fun time with my daughter and her friends who are first time to play!
-      
-      The theme was engaging, the setup was immersive, and the friendly service really stood out! The staffs there made everyone feel welcome and supported throughout the experience.
-      
-      The kids had an amazing time working together and celebrating each clue they solved. Such a great spot for a fun and memorable outing!
+      This is our favorite escape room location.  We've done pretty much all the rooms except for 'Chaos'.  We love it because the rooms are well maintained.  The props all work.  The clues and puzzles are challenging and fun.  We will definitely be back!!
   - name: "Rio"
     rating: 5
     comment: |

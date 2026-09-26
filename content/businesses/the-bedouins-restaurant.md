@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/the-bedouins-restaurant-1.jpg", "/photos/the-bedouins-restaurant-2.jpg", "/photos/the-bedouins-restaurant-3.jpg"]
 rating: 4.7
-review_count: 1969
+review_count: 1972
 price_range: "$$"
 amenities:
   - "Halal"
@@ -31,6 +31,10 @@ tags: ["edmonton", "halal-chicken", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Oksana Haidai"
+    rating: 5
+    comment: |
+      What a wonderful experience! The Moroccan experience was excellent, this is what lamb should taste like, the prunes and almonds are such a great combination with the rich lamb. Fatima are waitress was so friendly and guided us with all the dishes and what the best ones to pick for our first time here. We will be back for more! Amazing food!
   - name: "Nadezhda Vasilieva"
     rating: 5
     comment: |
@@ -58,14 +62,6 @@ reviews:
       Everything was tasty, though the lamb came with a layer of fat on top — it would be even better if trimmed before serving. My favorite was the grilled chicken — full of flavor and beautifully seasoned. My mom especially loved the long grain rice — soft, fragrant, and perfectly cooked.
       
       Overall, it was a delightful brunch with my buddies — hearty food, great company, and a cozy vibe.
-  - name: "Hussein Abdi"
-    rating: 5
-    comment: |
-      I have been coming here for years now and the service has always been top notch. The lamb haneeth is awesome and the cafe side has the best milkshakes.
-      
-      10/10
-      
-      Edit: Came back for another visit for Lamb Tagine. Was served by Fatima, she was awesome and provided great service.
   - name: "Eng.R"
     rating: 4
     comment: |

@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/twice-cream-1.jpg", "/photos/twice-cream-2.jpg", "/photos/twice-cream-3.jpg"]
 rating: 4.7
-review_count: 507
+review_count: 509
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -57,10 +57,8 @@ reviews:
     rating: 5
     comment: |
       Amazing ice cream shop! The flavors are always interesting, never sickly sweet, and so much care is put into quality ingredients. If you catch it on a beautiful evening when the entire Westmount soccer program descends on it at the same time, it can take a bit to get in, but it's well worth the wait.
-  - name: "Abdulrahman Alawadhi"
+  - name: "Jean Fulker"
     rating: 5
     comment: |
-      Tried the pistachio and Biscoff ice cream at Twice Cream and it was excellent. Both flavors were rich, well-balanced, and clearly high quality — the pistachio was nutty and smooth, and the Biscoff had that perfect caramelized depth without being overpowering.
-      
-      Great texture, generous scoops, and a really enjoyable flavor combo. Definitely a spot I’ll be coming back to and would recommend to anyone looking for standout ice cream.
+      Friendly staff and great ice cream, how can you go wrong. This little hidden gem is a wonderful neighbor ice cream shop. The section is awesome and the cones are made in house.
 ---

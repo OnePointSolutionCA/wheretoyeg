@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/tommie-salon-1.jpg", "/photos/tommie-salon-2.jpg", "/photos/tommie-salon-3.jpg"]
 rating: 4.9
-review_count: 236
+review_count: 237
 price_range: "$$"
 amenities:
 

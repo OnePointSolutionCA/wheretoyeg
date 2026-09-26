@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/vintage-fork-loose-leaf-tea-1.jpg", "/photos/vintage-fork-loose-leaf-tea-2.jpg", "/photos/vintage-fork-loose-leaf-tea-3.jpg"]
 rating: 5
-review_count: 255
+review_count: 257
 price_range: "$$"
 amenities:
   - "Dine-In"

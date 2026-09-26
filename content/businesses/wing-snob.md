@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/wing-snob-1.jpg", "/photos/wing-snob-2.jpg", "/photos/wing-snob-3.jpg"]
 rating: 4.7
-review_count: 200
+review_count: 203
 price_range: "$$"
 amenities:
   - "Dine-In"

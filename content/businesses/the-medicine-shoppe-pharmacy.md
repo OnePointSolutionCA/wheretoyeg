@@ -41,12 +41,12 @@ reviews:
     rating: 5
     comment: |
       I've used this pharmacy several times and find them to be very knowledgeable and professional.  Very friendly and great parking right out front.
+  - name: "Lawna Anderson"
+    rating: 5
+    comment: |
+      Ami is an amazing pharmacist. I have been going here for years and they are all so helpful.
   - name: "Marie Gordon"
     rating: 5
     comment: |
       The very nice pharmacist prescribed an antibiotic for a lung infection, gave me thorough directions on use, and quickly put my insurance coverage to use.  Fabulous service from a pharmacy I’ve never been to before.  I will go back.
-  - name: "Jesse Parkes"
-    rating: 5
-    comment: |
-      The level of service at this pharmacy is phenomenal. Ami is fantastic as a pharmacist and also at the administration of vaccines: My children have historically been very nervous about getting needles but Ami does a great job and they are willing to get their flu shots, etc, without fuss from her.
 ---

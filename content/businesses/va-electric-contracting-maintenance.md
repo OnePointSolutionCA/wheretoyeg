@@ -28,11 +28,6 @@ tags: ["edmonton", "commercial"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Terry Milburn"
-    rating: 5
-    comment: |
-      EV Charger Installation
-      VA Electric responded very quickly to my request for a quote to install a Level 2 EV charger in my garage. They evaluated my electrical to ensure the quote accurately reflected the scope of work. The installation was done quickly and the workmanship was very professional. I definitely recommend them.
   - name: "Ameer"
     rating: 5
     comment: |
@@ -41,6 +36,11 @@ reviews:
     rating: 5
     comment: |
       Mario and the team did an excellent job with my EV charger installation. They were very helpful throughout the entire process and took the time to work within my budget. Mario was responsive and even checked in couple days after install. 💯 Customer service!
+  - name: "Terry Milburn"
+    rating: 5
+    comment: |
+      EV Charger Installation
+      VA Electric responded very quickly to my request for a quote to install a Level 2 EV charger in my garage. They evaluated my electrical to ensure the quote accurately reflected the scope of work. The installation was done quickly and the workmanship was very professional. I definitely recommend them.
   - name: "Stefan Ford"
     rating: 5
     comment: |

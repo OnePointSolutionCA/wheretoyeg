@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/waggytails-1.jpg", "/photos/waggytails-2.jpg", "/photos/waggytails-3.jpg"]
 rating: 4.6
-review_count: 181
+review_count: 182
 price_range: "$$"
 amenities:
 

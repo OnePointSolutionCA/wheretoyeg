@@ -36,20 +36,20 @@ reviews:
       A big thank you to my trainer Vlad for the professional guidance.
       
       I highly recommend Vault to anyone looking for a high-quality gym with an inspiring environment and an excellent team. Definitely a 5-star experience!
+  - name: "Jae S"
+    rating: 5
+    comment: |
+      Best gym I’ve been to and I’ve lived in many cities, even abroad in major cities. Equipment, cold plunge down to 3C and sauna up to 90C, free lockers/towels, great vibe. Maddy at the front desk was very friendly and helpful!
   - name: "Sarah Parker"
     rating: 5
     comment: |
       Beautiful gym!! So clean, vibes are amazing and everyone is so so kind!!!! 10/10 best gym I’ve been to in Edmonton! (Also love the cold essential oil towels lol)
+  - name: "Andrew Croy"
+    rating: 5
+    comment: |
+      Great atmosphere at this gym. Love the attention to detail. Staff are super helpful and friendly.
   - name: "yuliastal"
     rating: 5
     comment: |
       Beautiful gym and best equipment in the city by far. Also Madie at the front desk is one of the sweetest humans I've ever met and makes my day whenever I come in! 10/10
-  - name: "Ryan Short"
-    rating: 5
-    comment: |
-      Great spot! Everyone from staff to members are so nice and helpful. The vault really built a nice community of people who come in to work/ workout that just want to see everyone succeed. Saw others asking each other about how their contest and competitions went. Just a get overall atmosphere to be in.
-  - name: "Sabrina Samoridny"
-    rating: 5
-    comment: |
-      Such a great place to train! This gym has an amazing atmosphere and community. The equipment is top notch and always well taken care of, there’s no other gym like it. Cody (the owner) also deeply cares about the opinions of the vault members, and is always collecting feedback and ideas to make this a space that they truly love.
 ---

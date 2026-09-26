@@ -18,14 +18,14 @@ reviews:
     comment: |
       Great Experience
       Went into the Spruce Grove branch yesterday to open an account for our son. Martin, the teller we dealt with was awesome! Was funny and very helpful and informative and did a great job of explaining everything to our son. Hope the managers check these reviews so that their staff get the recognition when they are doing an exceptional job.
-  - name: "Jay Williams"
-    rating: 5
-    comment: |
-      Easy to get to amazing parking
   - name: "Travel Bug"
     rating: 3
     comment: |
       The sidewalks and park lot need cleaning.
+  - name: "Jay Williams"
+    rating: 5
+    comment: |
+      Easy to get to amazing parking
   - name: "ted van natter"
     rating: 3
     comment: |

@@ -19,8 +19,8 @@ hours:
   saturday: "9:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/winducks-gutter-window-cleaning-edmonton-1.jpg", "/photos/winducks-gutter-window-cleaning-edmonton-2.jpg", "/photos/winducks-gutter-window-cleaning-edmonton-3.jpg"]
-rating: 4.9
-review_count: 166
+rating: 5
+review_count: 165
 price_range: "$$"
 amenities:
 

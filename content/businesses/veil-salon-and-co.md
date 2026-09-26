@@ -5,7 +5,7 @@ category: "hair-salons"
 neighborhood: "Spruce Grove"
 address: "3 Ballpark Wy #213, Spruce Grove, AB T7X 4C2"
 rating: 5
-review_count: 97
+review_count: 98
 tier: "featured"
 phone: "(780) 571-8758"
 website: "https://www.veilsalonandco.ca/"
@@ -13,10 +13,6 @@ google_maps: "https://maps.google.com/?cid=3119417366068697476&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/veil-salon-and-co.jpg"
 reviews:
-  - name: "Madalynne Skousbol"
-    rating: 5
-    comment: |
-      Sarah put in 200 grams of weft extensions for me, and it is safe to say I am in love. The colour, the length, the blend, everything!! I came to Sarah a few months ago with some frieddddd hair for a consult, stuck with the routine we planned, and now I LOVE my hair again! (Attached a photo of what she had to work with, so you can all really see the results lol!)
   - name: "Debbie May"
     rating: 5
     comment: |
@@ -53,6 +49,10 @@ reviews:
       Riley is clearly passionate about her work and about the salon. She had endlessly wonderful things to say about her fellow stylists and the salon owners. It’s nice to hear someone have so much love and respect for their colleagues. She is just a positive ball of empathetic energy and I’m so glad I found her. I’ll be back!
       
       PS. Don’t get me started on the fantastic head massage during the wash!
+  - name: "Renee M"
+    rating: 5
+    comment: |
+      Veil is a beautiful salon with lovely, talented staff. I've had several services at Veil; from eyebrow waxes to hair cuts and colouring. Most recently, several of their stylists did the hair for my wedding. The wonderful Sarah did both my bridal trial and the hair for the big day; Julianne and Maddy styled the hair of my groom and Maid of Honor. Everyone's hair looked beautiful, and Sarah was even able to incorporate my heirloom pearls into my hairstyle. My Maid of Honor dislikes having her hair done as her curls are frequently mistreated, but Maddy took her already beautiful hair up a notch. I highly recommend Veil for any and all services.
 hours:
   monday: "9:00 AM–9:00 PM"
   tuesday: "9:00 AM–9:00 PM"

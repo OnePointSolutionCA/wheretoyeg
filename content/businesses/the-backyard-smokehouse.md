@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/the-backyard-smokehouse-1.jpg", "/photos/the-backyard-smokehouse-2.jpg", "/photos/the-backyard-smokehouse-3.jpg"]
 rating: 4.4
-review_count: 2285
+review_count: 2301
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,16 +30,6 @@ tags: ["edmonton", "family"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Chelsey Miller"
-    rating: 4
-    comment: |
-      We had a mixed experience overall. The food had some really great highlights, but the service could definitely be improved.
-      
-      The meat was flavorful and delicious, and most of the dishes we ordered tasted very good. Unfortunately, the steak was overcooked and much more done than we had requested. It was quite tough, making it difficult to eat, which was disappointing considering everything else was so enjoyable.
-      
-      The service was where we struggled the most. The staff didn’t come across as very welcoming, and we felt a bit uncomfortable at times. We were seated right beside the exit door in a tucked-away spot, even though there seemed to be other tables available. Our food also took quite a while to arrive, and the sauces and spices we ordered with our meal weren’t brought out until well after the food had already been served.
-      
-      That said, the quality of most of the food was genuinely good, and you can tell care goes into the dishes. With friendlier service, better timing, and more attention to cooking the steak as requested, this could be a really great dining experience.
   - name: "Meow moo"
     rating: 5
     comment: |
@@ -76,6 +66,16 @@ reviews:
       The atmosphere was also amazing — warm, relaxing, family-friendly, and perfect for a celebratory outing. It had a great vibe without feeling too crowded or noisy.
       
       Overall, it was a wonderful dining experience and we’ll definitely be coming back again. Highly recommend for anyone looking for good food, generous portions, and a great atmosphere in Edmonton!
+  - name: "Chelsey Miller"
+    rating: 4
+    comment: |
+      We had a mixed experience overall. The food had some really great highlights, but the service could definitely be improved.
+      
+      The meat was flavorful and delicious, and most of the dishes we ordered tasted very good. Unfortunately, the steak was overcooked and much more done than we had requested. It was quite tough, making it difficult to eat, which was disappointing considering everything else was so enjoyable.
+      
+      The service was where we struggled the most. The staff didn’t come across as very welcoming, and we felt a bit uncomfortable at times. We were seated right beside the exit door in a tucked-away spot, even though there seemed to be other tables available. Our food also took quite a while to arrive, and the sauces and spices we ordered with our meal weren’t brought out until well after the food had already been served.
+      
+      That said, the quality of most of the food was genuinely good, and you can tell care goes into the dishes. With friendlier service, better timing, and more attention to cooking the steak as requested, this could be a really great dining experience.
   - name: "Miss Kimchi"
     rating: 4
     comment: |
