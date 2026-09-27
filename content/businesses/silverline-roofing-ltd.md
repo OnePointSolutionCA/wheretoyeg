@@ -21,7 +21,7 @@ hours:
   saturday: "Closed"
   sunday: "Closed"
 photos:
-  - "/photos/silverline-roofing-ltd.png"
+  - "/photos/silverline-roofing-ltd.jpg"
 rating: 4.4
 review_count: 39
 price_range: "$$"
