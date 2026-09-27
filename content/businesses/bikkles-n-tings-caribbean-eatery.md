@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–7:00 PM"
 photos: ["/photos/bikkles-n-tings-caribbean-eatery-1.jpg", "/photos/bikkles-n-tings-caribbean-eatery-2.jpg", "/photos/bikkles-n-tings-caribbean-eatery-3.jpg"]
 rating: 4.8
-review_count: 182
+review_count: 185
 price_range: "$$"
 amenities:
   - "Dine-In"

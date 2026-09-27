@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "3210 118 Ave NW #173, Edmonton, AB T5W 4W1"
 rating: 4.3
-review_count: 1323
+review_count: 1326
 tier: "featured"
 phone: "(780) 760-4190"
 website: "http://amazoneplayzone.com/"

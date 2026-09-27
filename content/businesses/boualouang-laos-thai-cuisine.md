@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–9:00 PM"
 photos: ["/photos/boualouang-laos-thai-cuisine-1.jpg", "/photos/boualouang-laos-thai-cuisine-2.jpg", "/photos/boualouang-laos-thai-cuisine-3.jpg"]
 rating: 4.5
-review_count: 541
+review_count: 542
 price_range: "$$"
 amenities:
   - "Dine-In"

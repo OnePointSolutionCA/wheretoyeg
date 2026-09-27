@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Beverly"
 address: "13140 156 St, Edmonton, AB T5V 1L3"
 rating: 4.7
-review_count: 171
+review_count: 172
 tier: "featured"
 phone: "(780) 482-1155"
 website: "https://www.bestbuyautodirect.ca/"

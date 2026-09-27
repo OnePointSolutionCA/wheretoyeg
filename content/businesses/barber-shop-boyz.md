@@ -5,7 +5,7 @@ category: "barbers"
 neighborhood: "Castle Downs"
 address: "9940 153 Ave NW, Edmonton, AB T5X 6A4"
 rating: 4.6
-review_count: 213
+review_count: 214
 tier: "featured"
 phone: "(780) 476-9011"
 website: "http://barbershopboyz.ca/"

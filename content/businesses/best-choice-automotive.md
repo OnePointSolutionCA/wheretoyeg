@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Mill Woods"
 address: "9928 35 Ave NW, Edmonton, AB T6E 6B2"
 rating: 4.8
-review_count: 412
+review_count: 415
 tier: "featured"
 phone: "(780) 466-8244"
 website: "https://bestchoiceautomotiveltd.com/"

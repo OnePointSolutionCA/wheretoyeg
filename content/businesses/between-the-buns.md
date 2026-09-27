@@ -6,7 +6,7 @@ subcategory: "burgers"
 neighborhood: "Spruce Grove"
 address: "105 King St #100, Spruce Grove, AB T7X 0J6"
 rating: 4.5
-review_count: 312
+review_count: 315
 tier: "featured"
 phone: "(587) 854-3757"
 website: "https://www.btbrestaurants.com/"

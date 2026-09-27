@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "11922 129 Ave NW, Edmonton, AB T5E 0N3"
 rating: 3.6
-review_count: 1128
+review_count: 1130
 tier: "featured"
 phone: "(780) 424-7106"
 website: "http://www.allhourspizza.com/"

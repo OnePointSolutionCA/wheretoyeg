@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/a-to-z-care-pharmacy-1.jpg", "/photos/a-to-z-care-pharmacy-2.jpg", "/photos/a-to-z-care-pharmacy-3.jpg"]
 rating: 5
-review_count: 62
+review_count: 63
 price_range: "$$"
 amenities:
 

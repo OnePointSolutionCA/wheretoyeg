@@ -4,8 +4,8 @@ slug: "6ixty-wings"
 category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "590 Baseline Rd Unit 290, Sherwood Park, AB T8H 1Y4"
-rating: 4.7
-review_count: 98
+rating: 4.8
+review_count: 97
 tier: "featured"
 phone: "(587) 269-1084"
 website: "https://6ixtywings.order.tryperdiem.com/order?locationId=L5GEKJTA76G3H&fulfillmentType=PICKUP"

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/affinity-dental---mayfield-common-1.jpg", "/photos/affinity-dental---mayfield-common-2.jpg", "/photos/affinity-dental---mayfield-common-3.jpg"]
 rating: 4.9
-review_count: 437
+review_count: 439
 price_range: "$$"
 amenities:
 

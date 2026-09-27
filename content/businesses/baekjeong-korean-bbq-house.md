@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/baekjeong-korean-bbq-house-1.jpg", "/photos/baekjeong-korean-bbq-house-2.jpg", "/photos/baekjeong-korean-bbq-house-3.jpg"]
 rating: 4.5
-review_count: 393
+review_count: 392
 price_range: "$$"
 amenities:
   - "Dine-In"

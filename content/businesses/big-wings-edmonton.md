@@ -19,8 +19,8 @@ hours:
   saturday: "12:00 PM–1:00 AM"
   sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/big-wings-edmonton-1.jpg", "/photos/big-wings-edmonton-2.jpg", "/photos/big-wings-edmonton-3.jpg"]
-rating: 4.5
-review_count: 37
+rating: 4.3
+review_count: 39
 price_range: "$"
 amenities:
   - "Dine-In"

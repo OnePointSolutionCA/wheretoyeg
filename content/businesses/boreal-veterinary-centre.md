@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/boreal-veterinary-centre-1.jpg", "/photos/boreal-veterinary-centre-2.jpg", "/photos/boreal-veterinary-centre-3.jpg"]
 rating: 4.4
-review_count: 532
+review_count: 535
 price_range: "$$"
 amenities:
 

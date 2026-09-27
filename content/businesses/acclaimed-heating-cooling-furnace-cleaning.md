@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/acclaimed-heating-cooling-furnace-cleaning-1.jpg", "/photos/acclaimed-heating-cooling-furnace-cleaning-2.jpg", "/photos/acclaimed-heating-cooling-furnace-cleaning-3.jpg"]
 rating: 4.8
-review_count: 1385
+review_count: 1390
 price_range: "$$$$"
 amenities:
 

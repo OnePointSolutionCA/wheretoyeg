@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "South Edmonton"
 google_maps_url: "https://maps.google.com/?q=Big%20Bird%20Fried%20Chicken%20Edmonton"
 hours:
-  monday: "11:00 AM–7:00 PM"
-  tuesday: "11:00 AM–7:00 PM"
-  wednesday: "11:00 AM–7:00 PM"
-  thursday: "11:00 AM–7:00 PM"
-  friday: "11:00 AM–8:00 PM"
-  saturday: "11:00 AM–8:00 PM"
-  sunday: "11:00 AM–7:30 PM"
+  monday: "11:00 AM–11:00 PM"
+  tuesday: "11:00 AM–11:00 PM"
+  wednesday: "11:00 AM–11:00 PM"
+  thursday: "11:00 AM–11:00 PM"
+  friday: "11:00 AM–11:00 PM"
+  saturday: "11:00 AM–11:00 PM"
+  sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/big-bird-fried-chicken-1.jpg", "/photos/big-bird-fried-chicken-2.jpg", "/photos/big-bird-fried-chicken-3.jpg"]
-rating: 5
-review_count: 25
+rating: 4.9
+review_count: 51
 price_range: "$$"
 amenities:
   - "Halal"
@@ -29,27 +29,25 @@ tags: ["halal", "fried-chicken", "sandwiches", "nashville-hot"]
 active: true
 date_listed: "2026-08-18"
 reviews:
-  - name: "YP"
+  - name: "Suri Tablet"
     rating: 5
     comment: |
-      Yangnyeom chicken was so good! As a Korean person, the yangnyeom sauce tasted perfect. Got a half order and it was a lot or chicken. Chicken burger was also delicious and crispy and for $7.5 it's a great value. Tteokbokki was also very good, comes with an egg, fish cakes, and Korean sausage. Highly recommend! They make everything fresh and took around 10 minutes to make which gave me time to wander the aisles of the supermarket. Staff are very friendly too!! Will be back again
-  - name: "Den Joy B."
+      Absolutely amazing food amazing people just had a great time. Get the clucking hot ifykyk
+  - name: "Himanshu (Harry)"
     rating: 5
     comment: |
-      Their bibimpap is fresh and delicious!
-      Their Fried chicken has a nice crunch! They have a display and it is accurate. You can get their chicken while you enjoy the pho in Lucky Supermarket for more protein. I will try their sauces next time!
-  - name: "L Hung"
+      Excellent chicken
+  - name: "Ali M"
     rating: 5
     comment: |
-      I ordered online for pick‑up between 11:45 am and 12:00 pm and received updates confirming my order would be ready early. When I arrived, Kokoriko notified me that my food was ready at 11:49 am.
-      
-      The staff were friendly, and the chicken was hot and fresh. Both the Signature Fried Chicken and Korean Yangnyom were flavorful, with the Signature staying extra crispy. The Yangnyom had a great kick, and the Tteokbokki was a favourite for my granddaughter.
-  - name: "Ceej Bravo"
+      Best hot chicken in the city by far. Amazing staff and service.
+  - name: "Mercedes Cooper"
     rating: 5
     comment: |
-      The fried chicken was absolutely delicious, with a perfectly crispy coating and juicy, flavorful meat inside. Each bite offered a wonderful balance of savory spices that left me wanting more. It's clear that a lot of care goes into preparing this meal. I thoroughly enjoyed every aspect of this dining experience. I highly recommend it to anyone seeking a truly satisfying fried chicken meal.
-  - name: "Melania Hamori"
+      Huge shoutout to Tony! He helped me with a question I had with no hesitation and the food is amazing! Will definitely become one of our regular places!
+      Came back a third time after this initial experience and finally had a chance to chat with and meet the owner, awesome guy! Super personable and just creates a great experience when you’re in there. I highly highly recommend trying them out!
+  - name: "Atong Manayan"
     rating: 5
     comment: |
-      I just ordered from kokoriko for the first time because I wanted to try tteobokki, and god did they deliver!🤩 delicious food, service is amazing, fast, and they gave me a pepsi because I was their first customer for the day🥰 i found a new favourite spot, and I will most definitely try their other foods! 🩷 whoever did this is truly the sweetest person ever and you earned yourself a customer
+      Chicken was great its my third time going here never been dissapointed.
 ---

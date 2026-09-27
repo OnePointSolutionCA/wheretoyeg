@@ -5,8 +5,8 @@ category: "auto-repair"
 subcategory: "general-repair"
 neighborhood: "Beaumont"
 address: "6203 29 Ave, Beaumont, AB T4X 0H5"
-rating: 4.1
-review_count: 145
+rating: 4
+review_count: 146
 tier: "featured"
 phone: "(780) 929-9260"
 google_maps: "https://maps.google.com/?cid=5375765437314610776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

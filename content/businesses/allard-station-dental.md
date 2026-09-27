@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "331 Allard Blvd SW #331, Edmonton, AB T6W 0J2"
 rating: 4.8
-review_count: 656
+review_count: 660
 tier: "featured"
 phone: "(780) 244-4777"
 website: "https://allardstationdental.com/?utm_source=GBP&utm_medium=button&utm_campaign=Home"

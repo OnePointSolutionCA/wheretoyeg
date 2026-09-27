@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Windermere"
 address: "5572 Windermere Rd NW, Edmonton, AB T6W 2P3"
 rating: 4.3
-review_count: 266
+review_count: 267
 tier: "featured"
 phone: "(587) 557-9400"
 website: "https://bmpp.ca/"

@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "9927 51 Ave NW, Edmonton, AB T6E 0A8"
 rating: 4.7
-review_count: 630
+review_count: 632
 tier: "featured"
 phone: "(780) 435-6400"
 website: "https://www.bestwaytire.ca/"

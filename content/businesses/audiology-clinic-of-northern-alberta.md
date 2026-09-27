@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/audiology-clinic-of-northern-alberta-1.jpg", "/photos/audiology-clinic-of-northern-alberta-2.jpg", "/photos/audiology-clinic-of-northern-alberta-3.jpg"]
 rating: 4.9
-review_count: 805
+review_count: 809
 price_range: "$$"
 amenities:
 

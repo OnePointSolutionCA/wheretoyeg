@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "9510 12 Ave SW, Edmonton, AB T6X 0J4"
 rating: 4.2
-review_count: 2651
+review_count: 2654
 tier: "featured"
 phone: "(780) 757-0055"
 website: "http://allstarsplayland.com/"

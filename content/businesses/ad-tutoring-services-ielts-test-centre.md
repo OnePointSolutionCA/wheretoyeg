@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/ad-tutoring-services-ielts-test-centre-1.jpg", "/photos/ad-tutoring-services-ielts-test-centre-2.jpg", "/photos/ad-tutoring-services-ielts-test-centre-3.jpg"]
 rating: 4.6
-review_count: 277
+review_count: 276
 price_range: "$$"
 amenities:
 

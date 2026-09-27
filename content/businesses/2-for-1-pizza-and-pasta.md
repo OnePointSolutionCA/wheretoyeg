@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Spruce Grove"
 address: "100 King St #23, Spruce Grove, AB T7X 4J7"
 rating: 4.2
-review_count: 134
+review_count: 133
 tier: "featured"
 phone: "(780) 962-5904"
 website: "http://www.2for1pizzaandpasta.com/"

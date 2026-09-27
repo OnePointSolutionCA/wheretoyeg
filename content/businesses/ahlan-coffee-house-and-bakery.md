@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "St. Albert"
 address: "130 Bellerose Dr #115, St. Albert, AB T8N 8N8"
 rating: 4.7
-review_count: 680
+review_count: 683
 tier: "featured"
 website: "https://ahlancoffeehouse.com/"
 google_maps: "https://maps.google.com/?cid=15713101016985555220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

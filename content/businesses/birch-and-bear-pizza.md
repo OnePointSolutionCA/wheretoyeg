@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "8210 106 Ave NW, Edmonton, AB T6A 1J1"
 rating: 4.6
-review_count: 125
+review_count: 127
 tier: "featured"
 phone: "(825) 480-1711"
 website: "https://birchandbearpizza.com/"

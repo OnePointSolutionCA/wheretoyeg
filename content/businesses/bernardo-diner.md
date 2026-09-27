@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Mill Woods"
 address: "2331 66 St NW Unit 519, Edmonton, AB T6K 4B4"
 rating: 4.1
-review_count: 44
+review_count: 45
 tier: "featured"
 phone: "(825) 480-1985"
 website: "https://www.facebook.com/profile.php?id=61551077783803&mibextid=LQQJ4d"

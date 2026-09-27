@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Spruce Grove"
 address: "221C First Ave, Spruce Grove, AB T7X 3X2"
 rating: 4.8
-review_count: 759
+review_count: 768
 tier: "featured"
 phone: "(587) 907-8102"
 website: "https://www.blossomfamilydental.ca/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Website_URL"

@@ -21,7 +21,7 @@ hours:
   sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/barber-squad-1.jpg", "/photos/barber-squad-2.jpg", "/photos/barber-squad-3.jpg"]
 rating: 4.9
-review_count: 402
+review_count: 404
 price_range: "$$"
 amenities:
   - "Appointments"

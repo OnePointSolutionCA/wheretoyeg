@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/binhs-nails-meadowlark-1.jpg", "/photos/binhs-nails-meadowlark-2.jpg", "/photos/binhs-nails-meadowlark-3.jpg"]
 rating: 4.9
-review_count: 253
+review_count: 257
 price_range: "$$$"
 amenities:
 

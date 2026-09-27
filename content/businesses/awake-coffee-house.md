@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Windermere"
 address: "11029 9 Ave NW, Edmonton, AB T6J 6T5"
 rating: 4.5
-review_count: 371
+review_count: 372
 tier: "featured"
 phone: "(780) 784-0462"
 website: "http://awake.cafe/"

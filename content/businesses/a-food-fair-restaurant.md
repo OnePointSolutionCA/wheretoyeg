@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/a-food-fair-restaurant-1.jpg", "/photos/a-food-fair-restaurant-2.jpg", "/photos/a-food-fair-restaurant-3.jpg"]
 rating: 4.6
-review_count: 246
+review_count: 247
 price_range: "$"
 amenities:
   - "Halal"

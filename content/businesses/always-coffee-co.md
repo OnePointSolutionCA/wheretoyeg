@@ -4,7 +4,7 @@ slug: "always-coffee-co"
 category: "cafes-coffee-shops"
 neighborhood: "Windermere"
 address: "6070 Andrews Way SW, Edmonton, AB T6W 3S9"
-rating: 4.2
+rating: 4.3
 review_count: 53
 tier: "featured"
 phone: "(780) 951-2952"

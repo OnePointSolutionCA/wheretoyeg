@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/albany-chiropractic-physiotherapy-massage-1.jpg", "/photos/albany-chiropractic-physiotherapy-massage-2.jpg", "/photos/albany-chiropractic-physiotherapy-massage-3.jpg"]
 rating: 4.9
-review_count: 333
+review_count: 335
 price_range: "$$"
 amenities:
   - "Dine-In"

@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "3210 82 St NW, Edmonton, AB T6K 3Y3"
 rating: 4.8
-review_count: 163
+review_count: 168
 tier: "featured"
 phone: "(780) 934-8188"
 website: "https://8stonepizza.ca/"
@@ -53,11 +53,11 @@ reviews:
       
       In a world where some places treat TGTO customers like second-class customers, 8 Stone Pizza did the complete opposite. Definitely earned our respect and we’ll gladly support them again.
 hours:
-  monday: "Closed"
-  tuesday: "11:30 AM–12:00 AM"
-  wednesday: "11:30 AM–12:00 AM"
-  thursday: "11:30 AM–12:00 AM"
-  friday: "11:30 AM–1:00 AM"
-  saturday: "11:30 AM–1:00 AM"
-  sunday: "11:30 AM–12:00 AM"
+  monday: "12:00 PM–12:00 AM"
+  tuesday: "12:00 PM–12:00 AM"
+  wednesday: "12:00 PM–12:00 AM"
+  thursday: "12:00 PM–12:00 AM"
+  friday: "12:00 PM–1:00 AM"
+  saturday: "12:00 PM–1:00 AM"
+  sunday: "12:00 PM–12:00 AM"
 ---

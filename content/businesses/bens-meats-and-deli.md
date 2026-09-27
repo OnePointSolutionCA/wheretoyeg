@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/bens-meats-and-deli-1.jpg", "/photos/bens-meats-and-deli-2.jpg", "/photos/bens-meats-and-deli-3.jpg"]
 rating: 4.8
-review_count: 1092
+review_count: 1095
 price_range: "$$"
 amenities:
 

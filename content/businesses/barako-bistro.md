@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "St. Albert"
 address: "1115 St Albert Trl #310, St. Albert, AB T8N 7X6"
 rating: 4.9
-review_count: 147
+review_count: 160
 tier: "featured"
 phone: "(825) 223-1203"
 website: "https://www.barakobistro.ca/"

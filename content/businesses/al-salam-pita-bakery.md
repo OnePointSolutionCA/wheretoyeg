@@ -21,7 +21,7 @@ hours:
   sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/al-salam-pita-bakery-1.jpg", "/photos/al-salam-pita-bakery-2.jpg", "/photos/al-salam-pita-bakery-3.jpg"]
 rating: 4.3
-review_count: 1536
+review_count: 1538
 price_range: "$"
 amenities:
   - "Halal"

@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Castle Downs"
 address: "12728 167 Ave NW, Edmonton, AB T6V 1J6"
 rating: 5
-review_count: 952
+review_count: 990
 tier: "featured"
 phone: "(780) 761-8882"
 website: "https://www.albanydental.ca/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Website_URL"

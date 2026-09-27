@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–10:00 PM"
 photos: ["/photos/azteca-automotive-tires-1.jpg", "/photos/azteca-automotive-tires-2.jpg", "/photos/azteca-automotive-tires-3.jpg"]
 rating: 5
-review_count: 106
+review_count: 107
 price_range: "$$"
 amenities:
 

@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "Edmonton"
 address: "9906 72 Ave NW, Edmonton, AB T6E 0Z3"
 rating: 4.6
-review_count: 2091
+review_count: 2097
 tier: "featured"
 phone: "(780) 433-3242"
 website: "http://oldcountryinnedmonton.com/"

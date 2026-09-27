@@ -19,8 +19,8 @@ hours:
   saturday: "11:00 AM - 10:00 PM"
   sunday: "11:00 AM - 9:00 PM"
 photos: ["/photos/alberta-uyghur-society-1.jpg", "/photos/alberta-uyghur-society-2.jpg", "/photos/alberta-uyghur-society-3.jpg"]
-rating: 4.7
-review_count: 15
+rating: 4.8
+review_count: 16
 price_range: "$$"
 amenities:
   - "Halal"

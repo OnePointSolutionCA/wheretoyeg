@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "1949 98 St NW, Edmonton, AB T6N 1L5"
 rating: 4.9
-review_count: 1629
+review_count: 1679
 tier: "featured"
 phone: "(587) 480-7446"
 website: "https://playactivate.com/edmonton-south"

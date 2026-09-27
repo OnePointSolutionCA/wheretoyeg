@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/aanchal-indian-restaurant-bakery-1.jpg", "/photos/aanchal-indian-restaurant-bakery-2.jpg", "/photos/aanchal-indian-restaurant-bakery-3.jpg"]
 rating: 4.9
-review_count: 90
+review_count: 101
 price_range: "$"
 amenities:
   - "Halal"

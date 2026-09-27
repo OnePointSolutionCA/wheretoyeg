@@ -19,7 +19,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/black-viper-catering-1.jpg", "/photos/black-viper-catering-2.jpg", "/photos/black-viper-catering-3.jpg"]
 rating: 4.8
-review_count: 53
+review_count: 54
 price_range: "$$"
 amenities:
   - "Dine-In"

@@ -5,7 +5,7 @@ category: "gyms-fitness"
 neighborhood: "Beaumont"
 address: "2321 9 St 102 unit 102, Nisku, AB T9E 7Z3"
 rating: 4.9
-review_count: 86
+review_count: 87
 tier: "featured"
 phone: "(780) 915-7969"
 website: "http://akperformance.ca/"

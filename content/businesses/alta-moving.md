@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/alta-moving-1.jpg", "/photos/alta-moving-2.jpg", "/photos/alta-moving-3.jpg"]
 rating: 4.9
-review_count: 537
+review_count: 538
 price_range: "$$"
 amenities:
 

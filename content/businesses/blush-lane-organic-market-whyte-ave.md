@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/blush-lane-organic-market-whyte-ave-1.jpg", "/photos/blush-lane-organic-market-whyte-ave-2.jpg", "/photos/blush-lane-organic-market-whyte-ave-3.jpg"]
 rating: 4.2
-review_count: 638
+review_count: 637
 price_range: "$$"
 amenities:
 

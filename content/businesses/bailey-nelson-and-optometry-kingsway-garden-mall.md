@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "1 Kingsway NW Unit CRU275, Edmonton, AB T5G 3A6"
 rating: 4.7
-review_count: 287
+review_count: 289
 tier: "featured"
 phone: "(587) 855-2739"
 website: "https://baileynelson.com/pages/optometrist-kingsway-mall/?utm_source=gmb&utm_medium=organic&utm_campaign=kingsway"

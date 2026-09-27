@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–4:00 PM"
 photos: ["/photos/azarko-dental-edmonton-1.jpg", "/photos/azarko-dental-edmonton-2.jpg", "/photos/azarko-dental-edmonton-3.jpg"]
 rating: 4.8
-review_count: 1747
+review_count: 1751
 price_range: "$$"
 amenities:
 

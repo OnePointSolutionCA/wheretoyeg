@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/blossom-cakery-1.jpg", "/photos/blossom-cakery-2.jpg", "/photos/blossom-cakery-3.jpg"]
 rating: 4.6
-review_count: 137
+review_count: 140
 price_range: "$$$$"
 amenities:
   - "Dine-In"

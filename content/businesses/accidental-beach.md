@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/accidental-beach-1.jpg", "/photos/accidental-beach-2.jpg", "/photos/accidental-beach-3.jpg"]
 rating: 4
-review_count: 321
+review_count: 324
 price_range: "$$"
 amenities:
 

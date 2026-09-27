@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/bhardwajco-family-law-1.jpg", "/photos/bhardwajco-family-law-2.jpg", "/photos/bhardwajco-family-law-3.jpg"]
 rating: 4.8
-review_count: 201
+review_count: 202
 price_range: "$$"
 amenities:
 

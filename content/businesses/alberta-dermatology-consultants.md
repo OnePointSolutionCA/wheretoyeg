@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/alberta-dermatology-consultants-1.jpg", "/photos/alberta-dermatology-consultants-2.jpg", "/photos/alberta-dermatology-consultants-3.jpg"]
 rating: 4.1
-review_count: 70
+review_count: 71
 price_range: "$$"
 amenities:
 

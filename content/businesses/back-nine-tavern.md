@@ -4,8 +4,8 @@ slug: "back-nine-tavern"
 category: "restaurants"
 neighborhood: "St. Albert"
 address: "215 McKenney Ave, St. Albert, AB T8T 4M2"
-rating: 4.3
-review_count: 66
+rating: 4.4
+review_count: 71
 tier: "featured"
 phone: "(780) 225-6463"
 website: "https://backninetavern.ca/"

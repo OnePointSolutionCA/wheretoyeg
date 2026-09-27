@@ -5,7 +5,7 @@ category: "barbers"
 neighborhood: "Castle Downs"
 address: "12848 167 Ave NW, Edmonton, AB T6V 1J6"
 rating: 4.6
-review_count: 285
+review_count: 284
 tier: "featured"
 phone: "(780) 761-6060"
 website: "https://www.facebook.com/albanybarbershop"

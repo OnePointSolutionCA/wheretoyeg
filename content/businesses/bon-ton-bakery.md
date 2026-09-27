@@ -18,7 +18,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/bon-ton-bakery-1.jpg", "/photos/bon-ton-bakery-2.jpg", "/photos/bon-ton-bakery-3.jpg"]
 rating: 4.7
-review_count: 1394
+review_count: 1397
 price_range: "$$"
 amenities:
   - "Custom Orders"

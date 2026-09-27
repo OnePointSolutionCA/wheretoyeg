@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/another-world-vr-rc-gaming-1.jpg", "/photos/another-world-vr-rc-gaming-2.jpg", "/photos/another-world-vr-rc-gaming-3.jpg"]
 rating: 5
-review_count: 46
+review_count: 58
 price_range: "$$"
 amenities:
 

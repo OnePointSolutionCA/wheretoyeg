@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/action-security-locksmiths-1.jpg", "/photos/action-security-locksmiths-2.jpg", "/photos/action-security-locksmiths-3.jpg"]
 rating: 4.7
-review_count: 160
+review_count: 161
 price_range: "$$"
 amenities:
 

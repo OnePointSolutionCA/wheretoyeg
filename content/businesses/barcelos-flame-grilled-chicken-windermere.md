@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Windermere"
 address: "6189 Currents Dr NW, Edmonton, AB T6W 0L9"
 rating: 4.6
-review_count: 621
+review_count: 623
 tier: "featured"
 phone: "(587) 523-5523"
 google_maps: "https://maps.google.com/?cid=2646795241373122541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

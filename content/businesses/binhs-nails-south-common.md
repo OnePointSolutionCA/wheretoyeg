@@ -19,8 +19,8 @@ hours:
   saturday: "10:00 AM–6:00 PM"
   sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/binhs-nails-south-common-1.jpg", "/photos/binhs-nails-south-common-2.jpg", "/photos/binhs-nails-south-common-3.jpg"]
-rating: 4.6
-review_count: 433
+rating: 4.5
+review_count: 435
 price_range: "$$"
 amenities:
 

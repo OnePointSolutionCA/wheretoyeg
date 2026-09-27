@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–11:00 PM"
 photos: ["/photos/bb2-korean-bbq-house-century-park-1.jpg", "/photos/bb2-korean-bbq-house-century-park-2.jpg", "/photos/bb2-korean-bbq-house-century-park-3.jpg"]
 rating: 4.7
-review_count: 2763
+review_count: 2795
 price_range: "$$"
 amenities:
   - "Dine-In"

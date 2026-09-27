@@ -5,8 +5,8 @@ category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "3450 99 St NW, Edmonton, AB T6E 5X5"
-rating: 4.5
-review_count: 916
+rating: 4.6
+review_count: 919
 tier: "featured"
 phone: "(780) 489-3499"
 website: "https://www.ameanpizzadonair.ca/"

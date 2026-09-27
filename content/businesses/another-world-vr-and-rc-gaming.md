@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "11482 149 St, Edmonton, AB T5M 1W7"
 rating: 5
-review_count: 46
+review_count: 58
 tier: "featured"
 phone: "(780) 964-4688"
 website: "https://edmonton.another-world.com/"

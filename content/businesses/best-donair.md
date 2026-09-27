@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/best-donair-1.jpg", "/photos/best-donair-2.jpg", "/photos/best-donair-3.jpg"]
 rating: 4.4
-review_count: 533
+review_count: 536
 price_range: "$"
 amenities:
   - "Halal"
@@ -45,7 +45,7 @@ reviews:
     rating: 1
     comment: |
       I paid five extra dollars on the jumbo Donair for extra meat a few times now and I’ve noticed they’re gradually getting smaller and smaller and tonight this is what I received for $22..
-  - name: "Layla Cléroux Gannon"
+  - name: "Layla Marie"
     rating: 5
     comment: |
       One of the best chicken shawarma’s I’ve ever had! My fiancé & I eat here regularly. We come here at least once a week. We used to live right behind Best which is what intrigued us to try it, now, we travel to Jasper Gates just to get their yummy shawarmas. We usually get our shawarmas with tzatziki, garlic & sweet sauce. Thee BEST! Outstanding quick service and yummy food. Nice seating area for dining in. I highly recommend.

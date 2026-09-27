@@ -19,8 +19,8 @@ hours:
   saturday: "10:00 AM–7:00 PM"
   sunday: "10:00 AM–7:00 PM"
 photos: ["/photos/al-madina-halal-meat-deli-1.jpg", "/photos/al-madina-halal-meat-deli-2.jpg", "/photos/al-madina-halal-meat-deli-3.jpg"]
-rating: 4.7
-review_count: 514
+rating: 4.6
+review_count: 503
 price_range: "$$"
 amenities:
   - "Halal"

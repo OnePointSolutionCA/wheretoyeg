@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–4:00 PM"
 photos: ["/photos/aloha-hawaiian-poke-grill-1.jpg", "/photos/aloha-hawaiian-poke-grill-2.jpg", "/photos/aloha-hawaiian-poke-grill-3.jpg"]
 rating: 4.7
-review_count: 474
+review_count: 480
 price_range: "$$"
 amenities:
   - "Dine-In"

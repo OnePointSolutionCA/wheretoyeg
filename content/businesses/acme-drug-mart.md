@@ -41,7 +41,7 @@ reviews:
     rating: 5
     comment: |
       I had an excellent experience with this pharmacy and with Dr. Rose They are incredibly professional, organized, and truly care about their patients. My medication always arrives on time. They consistently provide helpful solutions for any issues with my prescriptions.Dr.Rose is knowledgeable, supportive, and always makes the process smooth and stress-free. I truly appreciate the outstanding service and dedication. Thank you so much for your care and professionalism!
-  - name: "Nicole Alam"
+  - name: "Nicole Hiemstra"
     rating: 5
     comment: |
       Rose and her team at Acme Drug Mart are fantastic. They go above and beyond to provide a friendly, personalized experience every time. You’re always greeted with a smile, and they genuinely take the time to help with any questions or concerns. If you’re looking for a pharmacy where you feel valued and well cared for, this is definitely the place to go

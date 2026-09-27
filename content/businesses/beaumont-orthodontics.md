@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Beaumont"
 address: "5301 Magasin Ave #103, Beaumont, AB T4X 1V8"
 rating: 5
-review_count: 159
+review_count: 162
 tier: "featured"
 phone: "(780) 929-3425"
 website: "https://www.beaumontortho.ca/?utm_source=google&utm_content=gbp"

@@ -5,7 +5,7 @@ category: "barbers"
 neighborhood: "Castle Downs"
 address: "12222 137 Ave NW, Edmonton, AB T5L 4X5"
 rating: 4.7
-review_count: 347
+review_count: 349
 tier: "featured"
 phone: "(780) 456-2010"
 google_maps: "https://maps.google.com/?cid=1130521235294751447&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

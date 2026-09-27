@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/axis-immigration-consultants-1.jpg", "/photos/axis-immigration-consultants-2.jpg", "/photos/axis-immigration-consultants-3.jpg"]
 rating: 4.9
-review_count: 965
+review_count: 969
 price_range: "$$"
 amenities:
 

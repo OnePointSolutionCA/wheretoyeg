@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "501 Bethel Dr #105a, Sherwood Park, AB T8H 0N2"
 rating: 4.9
-review_count: 512
+review_count: 516
 tier: "featured"
 phone: "(780) 467-8822"
 website: "https://www.aspiredental.ca/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Website_URL"

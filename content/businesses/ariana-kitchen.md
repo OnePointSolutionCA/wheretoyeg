@@ -19,8 +19,8 @@ hours:
   saturday: "11:00 AM–10:00 PM"
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/ariana-kitchen-1.jpg", "/photos/ariana-kitchen-2.jpg", "/photos/ariana-kitchen-3.jpg"]
-rating: 4.7
-review_count: 255
+rating: 4.6
+review_count: 281
 price_range: "$$"
 amenities:
   - "Halal"

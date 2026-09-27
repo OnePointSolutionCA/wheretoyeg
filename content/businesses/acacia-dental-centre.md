@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "100 Palisades Way #10, Sherwood Park, AB T8H 0T1"
 rating: 4.9
-review_count: 410
+review_count: 411
 tier: "featured"
 phone: "(780) 449-0405"
 website: "https://www.acaciadentalcentre.com/"

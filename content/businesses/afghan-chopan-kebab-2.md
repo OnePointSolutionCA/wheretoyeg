@@ -19,8 +19,8 @@ hours:
   saturday: "11:00 AM–1:00 AM"
   sunday: "11:00 AM–1:00 AM"
 photos: ["/photos/afghan-chopan-kebab-2-1.jpg", "/photos/afghan-chopan-kebab-2-2.jpg", "/photos/afghan-chopan-kebab-2-3.jpg"]
-rating: 3.9
-review_count: 197
+rating: 4
+review_count: 204
 price_range: "$$"
 amenities:
   - "Halal"

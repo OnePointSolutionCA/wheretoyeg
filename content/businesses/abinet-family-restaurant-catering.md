@@ -19,7 +19,7 @@ hours:
   sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/abinet-family-restaurant-catering-1.jpg", "/photos/abinet-family-restaurant-catering-2.jpg", "/photos/abinet-family-restaurant-catering-3.jpg"]
 rating: 4.7
-review_count: 151
+review_count: 152
 price_range: "$$"
 amenities:
   - "Dine-In"

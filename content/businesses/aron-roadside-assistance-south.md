@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "11623 51 Ave NW, Edmonton, AB T6H 0M4"
 rating: 4.6
-review_count: 257
+review_count: 259
 tier: "featured"
 phone: "(780) 604-2206"
 website: "https://www.aronroadsideassistance.ca/"

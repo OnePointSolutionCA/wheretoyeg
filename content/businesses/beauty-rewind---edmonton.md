@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/beauty-rewind---edmonton-1.jpg", "/photos/beauty-rewind---edmonton-2.jpg", "/photos/beauty-rewind---edmonton-3.jpg"]
 rating: 4.8
-review_count: 1165
+review_count: 1167
 price_range: "$$"
 amenities:
 

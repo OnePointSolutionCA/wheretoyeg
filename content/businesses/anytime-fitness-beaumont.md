@@ -5,7 +5,7 @@ category: "gyms-fitness"
 neighborhood: "Beaumont"
 address: "6304 29 Ave, Beaumont, AB T4X 0H5"
 rating: 4
-review_count: 195
+review_count: 197
 tier: "featured"
 phone: "(780) 737-0435"
 website: "https://www.anytimefitness.ca/gyms/6010/beaumont-ab-t4x-0h5/"

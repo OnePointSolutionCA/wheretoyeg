@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "3810 Sherwood Dr #160, Sherwood Park, AB T8H 0Z9"
 rating: 4.9
-review_count: 385
+review_count: 387
 tier: "featured"
 phone: "(780) 570-0288"
 website: "https://www.aspiresmiles.ca/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Website_URL"

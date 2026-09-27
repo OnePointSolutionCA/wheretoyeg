@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/black-tusk-athletics-1.jpg", "/photos/black-tusk-athletics-2.jpg", "/photos/black-tusk-athletics-3.jpg"]
 rating: 5
-review_count: 93
+review_count: 95
 price_range: "$$"
 amenities:
 

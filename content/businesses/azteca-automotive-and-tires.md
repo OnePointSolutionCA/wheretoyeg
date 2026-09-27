@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "14314 140 St NW, Edmonton, AB T6V 1J8"
 rating: 5
-review_count: 106
+review_count: 107
 tier: "featured"
 phone: "(780) 953-6172"
 website: "https://aztecaautomotive.ca/"

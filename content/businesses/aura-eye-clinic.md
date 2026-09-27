@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "5312 Admiral Girouard St, Edmonton, AB T5E 6Z7"
 rating: 5
-review_count: 47
+review_count: 48
 tier: "featured"
 phone: "(587) 557-7005"
 website: "https://auraeyeclinic.com/"

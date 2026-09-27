@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Spruce Grove"
 address: "485 South Ave, Spruce Grove, AB T7X 2E9"
 rating: 4.3
-review_count: 68
+review_count: 69
 tier: "featured"
 phone: "(587) 853-5673"
 website: "https://www.bluenoseautomotive.ca/"

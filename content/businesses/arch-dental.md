@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Mill Woods"
 address: "7319 29 Ave NW #207, Edmonton, AB T6K 2P1"
 rating: 5
-review_count: 66
+review_count: 70
 tier: "featured"
 phone: "(780) 322-0067"
 website: "https://www.dentistmillwoods.com/"

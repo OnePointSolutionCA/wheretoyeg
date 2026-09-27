@@ -5,7 +5,7 @@ category: "hair-salons"
 neighborhood: "Beaumont"
 address: "5003 30 Ave #105, Beaumont, AB T4X 1T9"
 rating: 4.8
-review_count: 187
+review_count: 189
 tier: "featured"
 phone: "(780) 929-2232"
 website: "https://bbhair.ca/"

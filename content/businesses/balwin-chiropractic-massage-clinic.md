@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–3:00 PM"
 photos: ["/photos/balwin-chiropractic-massage-clinic-1.jpg", "/photos/balwin-chiropractic-massage-clinic-2.jpg", "/photos/balwin-chiropractic-massage-clinic-3.jpg"]
 rating: 4.9
-review_count: 365
+review_count: 368
 price_range: "$$"
 amenities:
 

@@ -19,7 +19,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/afghan-grill-1.jpg", "/photos/afghan-grill-2.jpg", "/photos/afghan-grill-3.jpg"]
 rating: 4.3
-review_count: 43
+review_count: 45
 price_range: "$"
 amenities:
   - "Halal"

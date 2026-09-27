@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–10:30 PM"
 photos: ["/photos/bahubali-indian-cuisine-edmonton-1.jpg", "/photos/bahubali-indian-cuisine-edmonton-2.jpg", "/photos/bahubali-indian-cuisine-edmonton-3.jpg"]
 rating: 4.8
-review_count: 5452
+review_count: 5484
 price_range: "$$"
 amenities:
   - "Halal"

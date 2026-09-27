@@ -5,7 +5,7 @@ category: "gyms-fitness"
 neighborhood: "Beaumont"
 address: "5001 Rue Eaglemont, Beaumont, AB T4X 0H9"
 rating: 4.4
-review_count: 681
+review_count: 683
 tier: "featured"
 phone: "(780) 929-7946"
 website: "https://www.beaumont.ab.ca/recreation-activities/facilities/beaumont-sport-recreation-centre/"

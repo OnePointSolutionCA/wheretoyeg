@@ -20,7 +20,7 @@ hours:
   sunday: "7:00 AM–9:00 PM"
 photos: ["/photos/atlas-cafe-grill-1.jpg", "/photos/atlas-cafe-grill-2.jpg", "/photos/atlas-cafe-grill-3.jpg"]
 rating: 4.8
-review_count: 146
+review_count: 147
 price_range: "$$"
 amenities:
   - "Halal"

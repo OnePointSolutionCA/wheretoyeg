@@ -20,7 +20,7 @@ hours:
   sunday: "7:30 AM–11:00 PM"
 photos: ["/photos/bismillah-restaurant-lmtd-1.jpg", "/photos/bismillah-restaurant-lmtd-2.jpg", "/photos/bismillah-restaurant-lmtd-3.jpg"]
 rating: 4.9
-review_count: 494
+review_count: 497
 price_range: "$$"
 amenities:
   - "Halal"

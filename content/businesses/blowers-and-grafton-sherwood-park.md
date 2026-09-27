@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "7000 Emerald Dr #500, Sherwood Park, AB T8H 0P5"
 rating: 4.7
-review_count: 2359
+review_count: 2373
 tier: "featured"
 phone: "(587) 200-3492"
 website: "https://blowersgrafton.com/"

@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:30 PM"
 photos: ["/photos/best-kabab-restaurant-1.jpg", "/photos/best-kabab-restaurant-2.jpg", "/photos/best-kabab-restaurant-3.jpg"]
 rating: 4.6
-review_count: 4043
+review_count: 4052
 price_range: "$$"
 amenities:
   - "Halal"

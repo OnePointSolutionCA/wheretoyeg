@@ -4,8 +4,8 @@ slug: "beyond-vision-optometrists-oxford"
 category: "medical"
 neighborhood: "Edmonton"
 address: "15158 127 St, Edmonton, AB T6V 0C5"
-rating: 4.8
-review_count: 213
+rating: 4.9
+review_count: 214
 tier: "featured"
 phone: "(780) 705-8816"
 website: "http://beyondvision.ca/"

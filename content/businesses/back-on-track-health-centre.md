@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Spruce Grove"
 address: "101 1 Ave E #1, Spruce Grove, AB T7X 2H8"
 rating: 5
-review_count: 43
+review_count: 44
 tier: "featured"
 phone: "(780) 962-2423"
 website: "http://backontrackhealthcentre.com/"

@@ -17,7 +17,7 @@ hours:
   sunday: "9:00 AM–11:00 PM"
 photos: ["/photos/arya-cafe-1.jpg", "/photos/arya-cafe-2.jpg", "/photos/arya-cafe-3.jpg"]
 rating: 4
-review_count: 535
+review_count: 536
 price_range: "$$"
 amenities:
   - "Halal"

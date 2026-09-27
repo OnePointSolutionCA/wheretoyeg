@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–10:00 PM"
 photos: ["/photos/aejo-restaurant-1.jpg", "/photos/aejo-restaurant-2.jpg", "/photos/aejo-restaurant-3.jpg"]
 rating: 4.6
-review_count: 2323
+review_count: 2331
 price_range: "$$"
 amenities:
   - "Dine-In"

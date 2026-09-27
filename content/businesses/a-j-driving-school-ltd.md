@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/a-j-driving-school-ltd-1.jpg", "/photos/a-j-driving-school-ltd-2.jpg", "/photos/a-j-driving-school-ltd-3.jpg"]
 rating: 4.7
-review_count: 340
+review_count: 341
 price_range: "$$"
 amenities:
 
@@ -28,12 +28,6 @@ tags: ["edmonton", "driving-school"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "emine kurt"
-    rating: 5
-    comment: |
-      I had a great experience with this driving school. The instructors are patient, professional, and really know how to build confidence behind the wheel. They explain everything clearly and make sure you understand both the practical skills and the rules of the road. The lessons are well-structured and tailored to your pace, which makes learning much less stressful.
-      
-      What stood out most was how supportive and encouraging the instructors were, especially if you’re nervous or new to driving. They focus on safety, good habits, and real-world driving situations, not just passing the test. Overall, it’s a reliable and well-organized school that I would definitely recommend to anyone looking to become a confident driver. And also Gurcharan is a very good driving instructor he is very knowledgeable and patient.
   - name: "RAAJ LIKHARI"
     rating: 5
     comment: |
@@ -56,4 +50,10 @@ reviews:
       My experience with A&J driving school was amazing right at the start of my registration, everything was great and professional
       The instructor Raj is kind, and amazing
       I’m looking forward to have the best driving lessons and great experience as well
+  - name: "Arsh Sohi"
+    rating: 5
+    comment: |
+      I had a great experience learning driving at A&J Driving School with Mr. Gurcharan Singh Garcha. He is a very patient, knowledgeable, and supportive instructor.
+      He explains everything clearly and makes sure you understand both the rules and practical driving skills. His calm teaching style really helped build my confidence behind the wheel.
+      I highly recommend A&J Driving School to anyone looking for a reliable and professional driving instructor.
 ---

@@ -19,8 +19,8 @@ hours:
   saturday: "11:00 AM–9:30 PM"
   sunday: "11:00 AM–9:30 PM"
 photos: ["/photos/bag-ocrab-1.jpg", "/photos/bag-ocrab-2.jpg", "/photos/bag-ocrab-3.jpg"]
-rating: 4.8
-review_count: 741
+rating: 4.7
+review_count: 745
 price_range: "$$"
 amenities:
   - "Dine-In"

@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Beaumont"
 address: "Suite 201, 5305 Magasin Ave 2nd Floor, Beaumont, AB T4X 1V8"
 rating: 4.9
-review_count: 128
+review_count: 127
 tier: "featured"
 phone: "(780) 929-1465"
 website: "http://www.beaumontdentureclinic.com/"
@@ -25,14 +25,14 @@ reviews:
     rating: 5
     comment: |
       Service was excellent! Jason was extremely thorough and easy to understand, very pleasant. Susie was very friendly and great to deal with as well!
-  - name: "Dingdon donding"
-    rating: 5
-    comment: |
-      This is a nice and professional clinic where Jason took great care of me from initial advising until getting my dentures on. I strongly recommend it!
   - name: "Ward Brown"
     rating: 5
     comment: |
       Jason was very attentive to my needs and took the time to make sure I am comfortable. I’m happy with my new teeth! My hopes going in today for an adjustment were that Jason could somehow get my bottom plate to fit as comfortable as my top plate (“ which I can actually wear without adhesive!!!”) well not only did he manage that but they feel like I’m not even wearing them!!!!
+  - name: "Bob Rau"
+    rating: 5
+    comment: |
+      Jason is very friendly and thorough. The fitting process went very well!
 hours:
   monday: "8:00 AM–5:00 PM"
   tuesday: "8:00 AM–5:00 PM"

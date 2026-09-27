@@ -17,7 +17,7 @@ hours:
   sunday: "12:00 PM–5:00 PM"
 photos: ["/photos/body-polish-day-spa-1.jpg", "/photos/body-polish-day-spa-2.jpg", "/photos/body-polish-day-spa-3.jpg"]
 rating: 4.5
-review_count: 364
+review_count: 365
 price_range: "$$"
 amenities:
   - "Facials"

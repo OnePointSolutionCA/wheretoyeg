@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/alhuda-pita-bakery-restaurant-1.jpg", "/photos/alhuda-pita-bakery-restaurant-2.jpg", "/photos/alhuda-pita-bakery-restaurant-3.jpg"]
 rating: 4.5
-review_count: 348
+review_count: 352
 price_range: "$$"
 amenities:
   - "Halal"

@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–8:00 PM"
 photos: ["/photos/99-supermarket-ltd-1.jpg", "/photos/99-supermarket-ltd-2.jpg", "/photos/99-supermarket-ltd-3.jpg"]
 rating: 4.1
-review_count: 596
+review_count: 598
 price_range: "$$"
 amenities:
 

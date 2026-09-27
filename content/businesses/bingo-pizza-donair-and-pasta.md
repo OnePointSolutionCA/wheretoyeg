@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "St. Albert"
 address: "2D Sir Winston Churchill Ave, St. Albert, AB T8N 3T6"
 rating: 4.8
-review_count: 34
+review_count: 36
 tier: "featured"
 phone: "(780) 334-9444"
 website: "http://www.bingopizza.ca/"

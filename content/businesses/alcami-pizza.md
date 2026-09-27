@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "North Edmonton"
 google_maps_url: "https://maps.google.com/?q=Alcami%20Pizza%20Edmonton"
 hours:
-  monday: "11:30 AM–11:00 PM"
-  tuesday: "11:30 AM–11:00 PM"
-  wednesday: "11:30 AM–11:00 PM"
-  thursday: "11:30 AM–11:00 PM"
-  friday: "11:30 AM–11:00 PM"
-  saturday: "4:00 PM–11:30 PM"
-  sunday: "11:30 AM–9:00 PM"
+  monday: "11:00 AM–12:00 AM"
+  tuesday: "11:00 AM–12:00 AM"
+  wednesday: "11:00 AM–12:00 AM"
+  thursday: "11:00 AM–12:00 AM"
+  friday: "11:00 AM–1:00 AM"
+  saturday: "11:00 AM–1:00 AM"
+  sunday: "11:00 AM–12:00 AM"
 photos: ["/photos/alcami-pizza-1.jpg", "/photos/alcami-pizza-2.jpg", "/photos/alcami-pizza-3.jpg"]
-rating: 4.2
-review_count: 409
+rating: 4.6
+review_count: 528
 price_range: "$$"
 amenities:
   - "Halal"
@@ -30,24 +30,26 @@ tags: ["pizza", "halal", "family-friendly"]
 active: true
 date_listed: "2026-08-18"
 reviews:
-  - name: "Saunak Kumar Sah"
+  - name: "Tasnim"
     rating: 5
     comment: |
-      Reminded me of flavours back home. The cook actually took time to listen to what I wanted and then prepared it exactly how I asked him to, infact way better. I tried the cheese donair. It was one hell of a donair! First day in Edmonton spent really really well!!! If you're in downtown, do check it out! The food is lip smacking good!
-  - name: "Masood"
-    rating: 3
+      Incredible flavour with all the topping options! They are very generous in all portions. Bbq chicken and tandoori were savoury nothing too salty, perfect crust. We had a complicated order and they accommodated and understood perfectly, Halal is a bonus!! You can taste the difference
+  - name: "Anonymous Anonymous"
+    rating: 1
     comment: |
-      We had a regular falafel wrap and a regular donair wrap. The falafel was tasty, but unfortunately, the doner didn’t taste very good. There were quite a lot of burnt pieces of meat in the doner. Also, our table was dirty, and we had to ask them to clean it.
-  - name: "Adara Hancock"
-    rating: 4
-    comment: |
-      Walk past this place every day, stop in to get dinner sometimes. Big wing fan so I get their salt and pepper wings, pretty salty but really good. Had the chicken strips before which were really good, and mozzarella sticks, which weren’t my fave. The guys here are nice, and one of them tossed in some free fries with my wings! Overall like this place, it’s tasty and convenient and has all your basic burgers, fries, pizza, donair, etc. I’m definitely gonna keep coming back!
-  - name: "Reine Frank"
+      I ordered a pizza and wings  at 5:06 it just arrived at 6:38 and the wings were uncooked. Will never order again. I will have to cook for another 30 minutes at least to make this food edible.
+      
+      I called to let the girl know and she argued that that isn't possible because she made it herself. I am quite disappointed, we waited so long for this food and now I have to recook it myself.
+  - name: "Roaming Smurf"
     rating: 5
     comment: |
-      We had an absolutely amazing experience here today!  The food was fantastic, and well-priced.  The employee was very accommodating, and provided next-level service, despite being the only one working during a busy rush!
-  - name: "arose58"
+      Ordered from home via Skip the dishes as we had a gift card from a friend. Butter chicken pizza and a make your own with pepperoni and donair meat etc. Pizza was delivered fast and exceptional taste and quality. We normally go to Royal Pizza but decided to give Ellwood a try and so glad we did! Will order again.
+  - name: "Tooba Fatima"
     rating: 5
     comment: |
-      We stopped here on the way back from the convention center. I will say we were not disappointed. The meat was tender and nicely spiced, and the sauce was sweet. My wife says it was the best she has had in a long time.
+      Extraordinary Pizza in Ellwood truly lives up to its name! The crust is perfectly crispy, the toppings are fresh, and the flavor is amazing. Great pizza and friendly service—definitely one of the best spots in tow
+  - name: "Tara Aech"
+    rating: 5
+    comment: |
+      Tried this place for Pi day. Decent pricing, excellent flavour for the pizza, and decent wings as well. Definitely loved the donair pizza, and the BBQ chicken was also a hit! Would recommend ordering in advance, as it took 35 minutes to get my order as a walk in.
 ---

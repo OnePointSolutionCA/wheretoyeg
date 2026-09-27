@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–8:00 PM"
 photos: ["/photos/alif-halal-meat-groceries-ltd-1.jpg", "/photos/alif-halal-meat-groceries-ltd-2.jpg", "/photos/alif-halal-meat-groceries-ltd-3.jpg"]
 rating: 4.5
-review_count: 236
+review_count: 237
 price_range: "$$"
 amenities:
   - "Halal"

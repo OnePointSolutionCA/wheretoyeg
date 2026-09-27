@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Beaumont"
 address: "5004 49 Ave, Beaumont, AB T4X 1E4"
 rating: 5
-review_count: 249
+review_count: 252
 tier: "featured"
 phone: "(780) 929-2929"
 website: "https://bdgsmiles.com/"

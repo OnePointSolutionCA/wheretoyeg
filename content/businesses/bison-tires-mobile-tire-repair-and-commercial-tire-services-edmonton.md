@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "5th Ave SW, Edmonton, AB T6X 1E2"
 rating: 4.9
-review_count: 288
+review_count: 291
 tier: "featured"
 phone: "(825) 888-4737"
 website: "https://bisontires.ca/"

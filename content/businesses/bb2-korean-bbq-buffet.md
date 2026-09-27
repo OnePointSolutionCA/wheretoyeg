@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/bb2-korean-bbq-buffet-1.jpg", "/photos/bb2-korean-bbq-buffet-2.jpg", "/photos/bb2-korean-bbq-buffet-3.jpg"]
 rating: 4.4
-review_count: 362
+review_count: 365
 price_range: "$$"
 amenities:
   - "Dine-In"
