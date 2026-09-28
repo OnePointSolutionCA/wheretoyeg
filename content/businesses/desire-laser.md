@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–8:00 PM"
 photos: ["/photos/desire-laser-1.jpg", "/photos/desire-laser-2.jpg", "/photos/desire-laser-3.jpg"]
 rating: 4.9
-review_count: 442
+review_count: 451
 price_range: "$$"
 amenities:
 

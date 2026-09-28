@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Whyte Ave"
 address: "10658 Whyte Ave NW, Edmonton, AB T6E 2A7"
 rating: 4.3
-review_count: 974
+review_count: 977
 tier: "featured"
 phone: "(780) 989-3365"
 website: "https://www.checkerspizzakabab.com/"

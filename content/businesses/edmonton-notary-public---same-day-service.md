@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/edmonton-notary-public---same-day-service-1.jpg", "/photos/edmonton-notary-public---same-day-service-2.jpg", "/photos/edmonton-notary-public---same-day-service-3.jpg"]
 rating: 5
-review_count: 623
+review_count: 624
 price_range: "$$"
 amenities:
 

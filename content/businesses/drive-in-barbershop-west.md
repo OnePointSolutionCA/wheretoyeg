@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–8:00 PM"
 photos: ["/photos/drive-in-barbershop-west-1.jpg", "/photos/drive-in-barbershop-west-2.jpg", "/photos/drive-in-barbershop-west-3.jpg"]
 rating: 5
-review_count: 236
+review_count: 243
 price_range: "$$"
 amenities:
 

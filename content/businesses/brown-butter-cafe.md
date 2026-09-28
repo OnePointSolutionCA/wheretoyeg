@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "Beaumont"
 address: "1528 91 St SW, Edmonton, AB T6X 1M5"
 rating: 4.5
-review_count: 805
+review_count: 810
 tier: "featured"
 phone: "(780) 752-9900"
 website: "http://www.brownbuttercafe.com/"

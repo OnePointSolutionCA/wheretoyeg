@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/chrome-spa-salon-1.jpg", "/photos/chrome-spa-salon-2.jpg", "/photos/chrome-spa-salon-3.jpg"]
 rating: 4.8
-review_count: 450
+review_count: 452
 price_range: "$$$$"
 amenities:
 

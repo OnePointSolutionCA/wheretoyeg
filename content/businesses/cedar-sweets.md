@@ -21,7 +21,7 @@ hours:
   sunday: "8:00 AM–9:00 PM"
 photos: ["/photos/cedar-sweets-1.jpg", "/photos/cedar-sweets-2.jpg", "/photos/cedar-sweets-3.jpg"]
 rating: 4.6
-review_count: 590
+review_count: 591
 price_range: "$"
 amenities:
   - "Halal"

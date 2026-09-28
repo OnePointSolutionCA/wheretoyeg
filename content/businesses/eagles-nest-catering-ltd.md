@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/eagles-nest-catering-ltd-1.jpg", "/photos/eagles-nest-catering-ltd-2.jpg", "/photos/eagles-nest-catering-ltd-3.jpg"]
 rating: 4.9
-review_count: 30
+review_count: 31
 price_range: "$$"
 amenities:
 

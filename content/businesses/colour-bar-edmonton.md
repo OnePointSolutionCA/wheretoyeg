@@ -18,7 +18,7 @@ hours:
   sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/colour-bar-edmonton-1.jpg", "/photos/colour-bar-edmonton-2.jpg", "/photos/colour-bar-edmonton-3.jpg"]
 rating: 4.1
-review_count: 283
+review_count: 285
 price_range: "$$$"
 amenities:
   - "Consultations"

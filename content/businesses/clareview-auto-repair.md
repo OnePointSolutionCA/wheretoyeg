@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Beverly"
 address: "550 Hermitage Rd NW, Edmonton, AB T5A 4N2"
 rating: 4.5
-review_count: 289
+review_count: 290
 tier: "featured"
 phone: "(780) 472-2040"
 google_maps: "https://maps.google.com/?cid=1634826049760018280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

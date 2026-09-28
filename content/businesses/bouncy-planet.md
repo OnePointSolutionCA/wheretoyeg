@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/bouncy-planet-1.jpg", "/photos/bouncy-planet-2.jpg", "/photos/bouncy-planet-3.jpg"]
 rating: 4.9
-review_count: 2320
+review_count: 2323
 price_range: "$$"
 amenities:
 

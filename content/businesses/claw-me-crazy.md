@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "11017 26 Ave NW, Edmonton, AB T6J 4C1"
 rating: 5
-review_count: 276
+review_count: 279
 tier: "featured"
 phone: "(825) 966-9558"
 website: "https://www.clawmecrazy.ca/"

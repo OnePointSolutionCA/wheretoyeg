@@ -20,8 +20,8 @@ hours:
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/city-orthodontics-northeast-1.jpg", "/photos/city-orthodontics-northeast-2.jpg", "/photos/city-orthodontics-northeast-3.jpg"]
-rating: 4.5
-review_count: 42
+rating: 4.4
+review_count: 43
 price_range: "$$$"
 amenities:
   - "Braces"

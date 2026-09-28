@@ -21,7 +21,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/city-orthodontics-south-1.jpg", "/photos/city-orthodontics-south-2.jpg", "/photos/city-orthodontics-south-3.jpg"]
 rating: 4.4
-review_count: 292
+review_count: 293
 price_range: "$$$"
 amenities:
   - "Braces"

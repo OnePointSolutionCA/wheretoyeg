@@ -6,7 +6,7 @@ subcategory: "italian"
 neighborhood: "Sherwood Park"
 address: "590 Baseline Rd, Sherwood Park, AB T8H 1Y4"
 rating: 4.5
-review_count: 736
+review_count: 737
 tier: "featured"
 phone: "(780) 570-0790"
 website: "https://cafecelestebistro.ca/"

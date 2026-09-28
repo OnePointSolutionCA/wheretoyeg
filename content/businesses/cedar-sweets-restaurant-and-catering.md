@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–9:00 PM"
 photos: ["/photos/cedar-sweets-restaurant-and-catering-1.jpg", "/photos/cedar-sweets-restaurant-and-catering-2.jpg", "/photos/cedar-sweets-restaurant-and-catering-3.jpg"]
 rating: 4.6
-review_count: 479
+review_count: 480
 price_range: "$"
 amenities:
   - "Halal"

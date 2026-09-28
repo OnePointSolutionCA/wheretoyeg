@@ -5,7 +5,7 @@ category: "professional-services"
 neighborhood: "Edmonton"
 address: "9636 51 Ave NW #103, Edmonton, AB T6E 6A5"
 rating: 4.9
-review_count: 391
+review_count: 396
 tier: "featured"
 phone: "(780) 231-6709"
 website: "http://instadocservices.ca/"

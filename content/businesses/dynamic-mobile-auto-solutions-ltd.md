@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Spruce Grove"
 address: "114 26116 A Hwy 16, Spruce Grove, AB T7Y 1A1"
 rating: 5
-review_count: 43
+review_count: 42
 tier: "featured"
 phone: "(780) 901-2015"
 google_maps: "https://maps.google.com/?cid=1306295560048829890&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

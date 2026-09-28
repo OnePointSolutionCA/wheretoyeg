@@ -5,7 +5,7 @@ category: "barbers"
 neighborhood: "Castle Downs"
 address: "15155 121 St NW, Edmonton, AB T5X 3C8"
 rating: 4.8
-review_count: 144
+review_count: 145
 tier: "featured"
 phone: "(587) 521-4675"
 website: "https://www.dynamitebarbershop.ca/?gad_source=1&gclid=Cj0KCQjwudexBhDKARIsAI-GWYWZ8-ZHMYHoe5XOX-g5i3nH2hyR-vR2WX6QasbqQvnOBbH-pt2eAU0aArkkEALw_wcB"

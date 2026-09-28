@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/cameron-driver-education-ltd-1.jpg", "/photos/cameron-driver-education-ltd-2.jpg", "/photos/cameron-driver-education-ltd-3.jpg"]
 rating: 4.9
-review_count: 1077
+review_count: 1079
 price_range: "$$"
 amenities:
 

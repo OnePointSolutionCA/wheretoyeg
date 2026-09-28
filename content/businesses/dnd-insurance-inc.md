@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/dnd-insurance-inc-1.jpg", "/photos/dnd-insurance-inc-2.jpg", "/photos/dnd-insurance-inc-3.jpg"]
 rating: 4.9
-review_count: 672
+review_count: 675
 price_range: "$$"
 amenities:
 

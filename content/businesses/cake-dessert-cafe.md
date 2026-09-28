@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–10:30 PM"
 photos: ["/photos/cake-dessert-cafe-1.jpg", "/photos/cake-dessert-cafe-2.jpg", "/photos/cake-dessert-cafe-3.jpg"]
 rating: 4.1
-review_count: 616
+review_count: 617
 price_range: "$$"
 amenities:
   - "Dine-In"

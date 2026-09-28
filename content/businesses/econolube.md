@@ -5,8 +5,8 @@ category: "auto-repair"
 subcategory: "general-repair"
 neighborhood: "Spruce Grove"
 address: "120 St Matthews Ave #8, Spruce Grove, AB T7X 3B5"
-rating: 4.8
-review_count: 751
+rating: 4.9
+review_count: 758
 tier: "featured"
 phone: "(780) 962-1117"
 website: "http://www.econolube.ca/"

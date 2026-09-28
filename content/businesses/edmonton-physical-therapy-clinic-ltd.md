@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/edmonton-physical-therapy-clinic-ltd-1.jpg", "/photos/edmonton-physical-therapy-clinic-ltd-2.jpg", "/photos/edmonton-physical-therapy-clinic-ltd-3.jpg"]
 rating: 4.7
-review_count: 53
+review_count: 54
 price_range: "$$"
 amenities:
 

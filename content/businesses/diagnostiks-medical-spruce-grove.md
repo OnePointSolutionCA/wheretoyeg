@@ -4,8 +4,8 @@ slug: "diagnostiks-medical-spruce-grove"
 category: "medical"
 neighborhood: "Spruce Grove"
 address: "110 Jennifer Heil Way #10, Spruce Grove, AB T7X 3Z3"
-rating: 2.3
-review_count: 3
+rating: 3
+review_count: 4
 tier: "featured"
 phone: "(780) 960-1125"
 website: "https://diagnostiksmedigroup.com/"
@@ -29,6 +29,14 @@ reviews:
       As a parent, hearing that I should wait until my toddler’s condition becomes severe before getting a referral was shocking and deeply concerning. I felt dismissed, ignored, and completely unsupported. Early intervention matters, especially with breathing and airway concerns in young children.
       
       I would never recommend this doctor to families who want their concerns taken seriously.
+  - name: "Racheal Omoniyi"
+    rating: 5
+    comment: |
+      Dr. Uche is a very knowledgeable, compassionate, and caring doctor who genuinely prioritizes the well-being of his patients. He is also wonderful with kids! My children no longer find doctor’s appointments scary or boring because of how warmly and patiently he attends to them.
+      
+      The front desk staff are equally amazing. Princess is always cheerful and helpful, and I recently met Candy who showed such kindness when she noticed I was experiencing a migraine. She offered to turn down the lights to make me more comfortable, which I really appreciated.
+      
+      This staff at this clinic consistently goes above and beyond to accommodate patients, especially when something is urgent. I’m very grateful for the excellent care and compassion shown by the entire team. Highly recommend!
 hours:
   monday: "9:00 AM–6:00 PM"
   tuesday: "9:00 AM–6:00 PM"

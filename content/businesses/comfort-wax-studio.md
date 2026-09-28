@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–6:00 PM"
 photos: ["/photos/comfort-wax-studio-1.jpg", "/photos/comfort-wax-studio-2.jpg", "/photos/comfort-wax-studio-3.jpg"]
 rating: 5
-review_count: 370
+review_count: 375
 price_range: "$$"
 amenities:
 

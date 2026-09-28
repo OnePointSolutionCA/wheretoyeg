@@ -21,7 +21,7 @@ hours:
   sunday: "9:00 AM–4:00 PM"
 photos: ["/photos/credo-coffee-1.jpg", "/photos/credo-coffee-2.jpg", "/photos/credo-coffee-3.jpg"]
 rating: 4.4
-review_count: 727
+review_count: 730
 price_range: "$$"
 amenities:
   - "Espresso"

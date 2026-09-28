@@ -16,7 +16,7 @@ hours:
   thursday: "12:00 PM–10:00 PM"
   friday: "12:00 PM–12:00 AM"
   saturday: "12:00 PM–12:00 AM"
-  sunday: "Closed"
+  sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/chicken-spot-1.jpg", "/photos/chicken-spot-2.jpg", "/photos/chicken-spot-3.jpg"]
 rating: 4.5
 review_count: 748
@@ -32,7 +32,7 @@ reviews:
     rating: 5
     comment: |
       Had a great experience at Chicken Spot! The staff were very friendly and welcoming, and the chicken was crispy and full of flavor. Everything tasted really good, although I personally found it a little bit salty. Overall, still a great spot for fried chicken and I would definitely come back!
-  - name: "Mohamed"
+  - name: "Adre Alexander"
     rating: 5
     comment: |
       Absolutely loved this place! The chicken was perfectly cooked crispy on the outside and juicy on the inside. The flavor was on point, and you can tell they use fresh ingredients. The spot was clean and had a great vibe.

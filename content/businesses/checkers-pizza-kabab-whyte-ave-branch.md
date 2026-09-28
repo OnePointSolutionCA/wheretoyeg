@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–2:00 AM"
 photos: ["/photos/checkers-pizza-kabab-whyte-ave-branch-1.jpg", "/photos/checkers-pizza-kabab-whyte-ave-branch-2.jpg", "/photos/checkers-pizza-kabab-whyte-ave-branch-3.jpg"]
 rating: 4.3
-review_count: 974
+review_count: 977
 price_range: "$"
 amenities:
   - "Halal"

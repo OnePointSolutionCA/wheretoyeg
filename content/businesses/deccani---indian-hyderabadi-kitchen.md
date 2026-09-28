@@ -35,7 +35,7 @@ reviews:
     rating: 5
     comment: |
       We've been twice now and every dish has been great and the staff / owner really nice and willing to explain the various dishes. We've tried the Desai butter chicken, red beef curry, bagjaar-e-baingan, and beef kheema biryani. The bagjaar dish is eggplant with peanut sauce which was really good. Never had anything quite like it before. The Biryani was also really good. Will definitely go back to try more things and would highly recommend.
-  - name: "Henry Du"
+  - name: "Yumcha"
     rating: 4
     comment: |
       The food here is pretty tasty. Quite enjoyed the Apollo Fish, garlic naan and Mutton Biryani. The chicken curry we tried packed quite a bit of heat (even as mild) and while it wasn't bad, was a bit too oily. Very friendly service and nice interior decor.

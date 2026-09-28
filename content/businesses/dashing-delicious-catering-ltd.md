@@ -20,7 +20,7 @@ hours:
   sunday: "6:00 AM–2:00 PM"
 photos: ["/photos/dashing-delicious-catering-ltd-1.jpg", "/photos/dashing-delicious-catering-ltd-2.jpg", "/photos/dashing-delicious-catering-ltd-3.jpg"]
 rating: 4.9
-review_count: 42
+review_count: 43
 price_range: "$$"
 amenities:
 

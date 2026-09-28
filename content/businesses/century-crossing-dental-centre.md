@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Spruce Grove"
 address: "700 McLeod Ave Unit 100, Spruce Grove, AB T7X 0C8"
 rating: 4.8
-review_count: 383
+review_count: 384
 tier: "featured"
 phone: "(780) 962-5223"
 website: "https://centurydental.ca/"

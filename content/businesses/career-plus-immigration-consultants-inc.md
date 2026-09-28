@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/career-plus-immigration-consultants-inc-1.jpg", "/photos/career-plus-immigration-consultants-inc-2.jpg", "/photos/career-plus-immigration-consultants-inc-3.jpg"]
 rating: 4.9
-review_count: 896
+review_count: 898
 price_range: "$$"
 amenities:
 

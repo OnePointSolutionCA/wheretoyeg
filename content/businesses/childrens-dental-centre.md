@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Spruce Grove"
 address: "7 Tri Leisure Way #110, Spruce Grove, AB T7X 0T3"
 rating: 4.9
-review_count: 738
+review_count: 739
 tier: "featured"
 phone: "(780) 428-5437"
 website: "https://www.childrensdental.ca/spruce-grove"

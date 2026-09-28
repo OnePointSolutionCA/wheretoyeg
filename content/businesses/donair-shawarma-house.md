@@ -17,10 +17,10 @@ hours:
   thursday: "11:00 AM–10:00 PM"
   friday: "11:00 AM–12:00 AM"
   saturday: "11:00 AM–12:00 AM"
-  sunday: "11:00 AM–10:00 PM"
+  sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/donair-shawarma-house-1.jpg", "/photos/donair-shawarma-house-2.jpg", "/photos/donair-shawarma-house-3.jpg"]
 rating: 4.8
-review_count: 852
+review_count: 850
 price_range: "$"
 amenities:
   - "Halal"

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/dutch-delicious-bakery-1.jpg", "/photos/dutch-delicious-bakery-2.jpg", "/photos/dutch-delicious-bakery-3.jpg"]
 rating: 4.7
-review_count: 1044
+review_count: 1048
 price_range: "$$"
 amenities:
   - "Dine-In"

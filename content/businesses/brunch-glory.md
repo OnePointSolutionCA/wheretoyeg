@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Whyte Ave"
 address: "10532 Whyte Ave NW, Edmonton, AB T6E 2A4"
 rating: 4.7
-review_count: 93
+review_count: 94
 tier: "featured"
 phone: "(587) 520-3999"
 website: "http://www.brunchglory.ca/"

@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Castle Downs"
 address: "15393 Castle Downs Rd NW, Edmonton, AB T5X 6C3"
 rating: 4.8
-review_count: 446
+review_count: 452
 tier: "featured"
 phone: "(780) 457-6677"
 website: "https://cvcyeg.com/locations/lakeside-castledowns/"

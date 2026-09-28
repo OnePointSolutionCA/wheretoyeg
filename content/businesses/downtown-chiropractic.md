@@ -11,7 +11,7 @@ google_maps_url: "https://maps.google.com/?q=Downtown%20Chiropractic%20Edmonton%
 hours:
   monday: "12:00 PM–6:00 PM"
   tuesday: "8:30 AM–6:00 PM"
-  wednesday: "8:30 AM–12:00 PM"
+  wednesday: "8:30 AM–11:00 AM"
   thursday: "Closed"
   friday: "Closed"
   saturday: "Closed"

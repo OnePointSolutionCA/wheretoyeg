@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–6:00 PM"
 photos: ["/photos/edmonton-west-animal-hospital-1.jpg", "/photos/edmonton-west-animal-hospital-2.jpg", "/photos/edmonton-west-animal-hospital-3.jpg"]
 rating: 4.6
-review_count: 2324
+review_count: 2330
 price_range: "$$"
 amenities:
 

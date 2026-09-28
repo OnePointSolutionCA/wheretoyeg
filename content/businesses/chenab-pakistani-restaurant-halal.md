@@ -11,16 +11,16 @@ phone: "(825) 772-4775"
 website: "http://chenab.ca/"
 google_maps_url: "https://maps.google.com/?cid=6796454371167479051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:00 AM–9:30 PM"
+  monday: "11:30 AM–9:30 PM"
   tuesday: "Closed"
-  wednesday: "11:00 AM–9:30 PM"
-  thursday: "11:00 AM–9:30 PM"
-  friday: "11:00 AM–10:00 PM"
-  saturday: "11:00 AM–10:00 PM"
-  sunday: "11:00 AM–9:30 PM"
+  wednesday: "11:30 AM–9:30 PM"
+  thursday: "11:30 AM–9:30 PM"
+  friday: "11:30 AM–10:00 PM"
+  saturday: "11:30 AM–10:00 PM"
+  sunday: "11:30 AM–9:30 PM"
 photos: ["/photos/chenab-pakistani-restaurant-halal-1.jpg", "/photos/chenab-pakistani-restaurant-halal-2.jpg", "/photos/chenab-pakistani-restaurant-halal-3.jpg"]
 rating: 4.7
-review_count: 170
+review_count: 175
 price_range: "$$"
 amenities:
   - "Halal"

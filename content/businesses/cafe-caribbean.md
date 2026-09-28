@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/cafe-caribbean-1.jpg", "/photos/cafe-caribbean-2.jpg", "/photos/cafe-caribbean-3.jpg"]
 rating: 4.8
-review_count: 177
+review_count: 180
 price_range: "$"
 amenities:
   - "Dine-In"

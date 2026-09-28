@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/chappelle-kitchen-catering-1.jpg", "/photos/chappelle-kitchen-catering-2.jpg", "/photos/chappelle-kitchen-catering-3.jpg"]
 rating: 4.9
-review_count: 262
+review_count: 261
 price_range: "$$"
 amenities:
 

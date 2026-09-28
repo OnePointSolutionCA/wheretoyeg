@@ -5,7 +5,7 @@ category: "professional-services"
 neighborhood: "Edmonton"
 address: "8130 Rowland Rd NW, Edmonton, AB T6A 3W8"
 rating: 5
-review_count: 417
+review_count: 418
 tier: "featured"
 phone: "(587) 336-3343"
 website: "https://www.commissioner-for-oaths-edmonton.com/"

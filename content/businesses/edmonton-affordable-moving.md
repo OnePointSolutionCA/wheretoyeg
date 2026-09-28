@@ -20,7 +20,7 @@ hours:
   sunday: "7:00 AM–10:00 PM"
 photos: ["/photos/edmonton-affordable-moving-1.jpg", "/photos/edmonton-affordable-moving-2.jpg", "/photos/edmonton-affordable-moving-3.jpg"]
 rating: 4.9
-review_count: 544
+review_count: 558
 price_range: "$$$$"
 amenities:
 

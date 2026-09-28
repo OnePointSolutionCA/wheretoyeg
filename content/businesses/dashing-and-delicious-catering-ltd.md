@@ -5,7 +5,7 @@ category: "catering"
 neighborhood: "Edmonton"
 address: "4295 95 St, Edmonton, AB T6E 5R6"
 rating: 4.9
-review_count: 42
+review_count: 43
 tier: "featured"
 phone: "(780) 905-9390"
 website: "https://www.dashinganddeliciouscatering.com/"

@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Spruce Grove"
 address: "10 Westwind Dr #213, Spruce Grove, AB T7X 0Y5"
 rating: 4.4
-review_count: 357
+review_count: 358
 tier: "featured"
 phone: "(780) 488-4875"
 website: "https://sprucegrove.canadianpies.ca/"

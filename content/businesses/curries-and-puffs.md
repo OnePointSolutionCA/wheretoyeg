@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Mill Woods"
 address: "2331 66 St NW, Edmonton, AB T6K 4C2"
 rating: 4.3
-review_count: 644
+review_count: 645
 tier: "featured"
 phone: "(780) 760-6444"
 website: "https://www.curriesandpuffs.com/"

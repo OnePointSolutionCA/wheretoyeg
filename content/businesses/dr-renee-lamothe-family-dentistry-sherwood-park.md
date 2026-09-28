@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "390 Baseline Rd #236, Sherwood Park, AB T8H 1X1"
 rating: 5
-review_count: 244
+review_count: 246
 tier: "featured"
 phone: "(780) 467-7771"
 website: "http://www.familydentistsherwoodpark.com/"

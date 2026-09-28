@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Castle Downs"
 address: "16767 91 St NW, Edmonton, AB T5Z 2X4"
 rating: 4.5
-review_count: 1153
+review_count: 1157
 tier: "featured"
 phone: "(780) 457-4555"
 website: "https://www.eddiesdonair.ca/"

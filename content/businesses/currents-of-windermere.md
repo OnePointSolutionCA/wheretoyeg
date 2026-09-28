@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Windermere"
 address: "6004 Currents Dr NW, Edmonton, AB T6W 0L9"
 rating: 4.3
-review_count: 4821
+review_count: 4828
 tier: "featured"
 phone: "(780) 229-4800"
 website: "http://www.shopcurrents.ca/"

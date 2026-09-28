@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/brokerlink-1.jpg", "/photos/brokerlink-2.jpg", "/photos/brokerlink-3.jpg"]
 rating: 4.9
-review_count: 2649
+review_count: 2648
 price_range: "$$"
 amenities:
 

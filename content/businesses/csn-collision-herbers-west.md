@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/csn-collision-herbers-west-1.jpg", "/photos/csn-collision-herbers-west-2.jpg", "/photos/csn-collision-herbers-west-3.jpg"]
 rating: 4.7
-review_count: 1208
+review_count: 1209
 price_range: "$$"
 amenities:
 

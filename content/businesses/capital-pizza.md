@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Castle Downs"
 address: "8304 160 Ave NW, Edmonton, AB T5Z 3P1"
 rating: 4.1
-review_count: 578
+review_count: 580
 tier: "featured"
 phone: "(780) 457-0909"
 website: "https://edmontoncapitalpizza.com/"

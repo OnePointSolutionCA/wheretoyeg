@@ -19,7 +19,7 @@ hours:
   sunday: "12:00 PM–11:00 PM"
 photos: ["/photos/chayan-1.jpg", "/photos/chayan-2.jpg", "/photos/chayan-3.jpg"]
 rating: 4.6
-review_count: 58
+review_count: 62
 price_range: "$$"
 amenities:
   - "Dine-In"

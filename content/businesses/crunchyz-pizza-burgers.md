@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/crunchyz-pizza-burgers-1.jpg", "/photos/crunchyz-pizza-burgers-2.jpg", "/photos/crunchyz-pizza-burgers-3.jpg"]
 rating: 4.9
-review_count: 507
+review_count: 513
 price_range: "$"
 amenities:
   - "Halal"

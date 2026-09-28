@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Beverly"
 address: "12843 58 St NW, Edmonton, AB T5A 4X1"
 rating: 4.9
-review_count: 39
+review_count: 41
 tier: "featured"
 phone: "(780) 860-0919"
 google_maps: "https://maps.google.com/?cid=7357831437897751420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

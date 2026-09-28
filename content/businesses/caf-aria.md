@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Windermere"
 address: "20023 Lessard Rd, Edmonton, AB T6M 0K4"
 rating: 4
-review_count: 535
+review_count: 536
 tier: "featured"
 phone: "(825) 523-9638"
 website: "http://cafearia.ca/"

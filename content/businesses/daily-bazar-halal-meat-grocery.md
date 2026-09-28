@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/daily-bazar-halal-meat-grocery-1.jpg", "/photos/daily-bazar-halal-meat-grocery-2.jpg", "/photos/daily-bazar-halal-meat-grocery-3.jpg"]
 rating: 4.8
-review_count: 159
+review_count: 165
 price_range: "$$"
 amenities:
   - "Halal"

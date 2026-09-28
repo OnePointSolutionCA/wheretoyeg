@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "St. Albert"
 address: "1 Tache St, St. Albert, AB T8N 7T4"
 rating: 4.7
-review_count: 316
+review_count: 318
 tier: "featured"
 phone: "(780) 458-2922"
 website: "http://whiskco.ca/"

@@ -19,7 +19,7 @@ hours:
   sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/dm-best-east-african-restaurant-1.jpg"]
 rating: 5
-review_count: 7
+review_count: 8
 price_range: "$$"
 amenities:
   - "Halal"

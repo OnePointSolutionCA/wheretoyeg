@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/dirty-blonde-studio-1.jpg", "/photos/dirty-blonde-studio-2.jpg", "/photos/dirty-blonde-studio-3.jpg"]
 rating: 5
-review_count: 80
+review_count: 81
 price_range: "$$"
 amenities:
 

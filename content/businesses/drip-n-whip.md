@@ -19,8 +19,8 @@ hours:
   saturday: "10:00 AM–8:00 PM"
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/drip-n-whip-1.jpg", "/photos/drip-n-whip-2.jpg", "/photos/drip-n-whip-3.jpg"]
-rating: 5
-review_count: 265
+rating: 4.9
+review_count: 175
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,14 +30,6 @@ tags: ["edmonton", "desserts"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Anna"
-    rating: 5
-    comment: |
-      I am personally acquainted with the owner, and I can attest to his exceptional kindness and integrity. The ice cream and all other desserts offered here are truly outstanding. I highly recommend a visit to the premium outlet mall.
-  - name: "evelyn gomez"
-    rating: 5
-    comment: |
-      Its so delicious I recommend it if you are looking for Dubai chocolate strawberry or even ice cream the way they treated us amazing customer service I really recommend it coming here 😊😊
   - name: "Mariana Aragão"
     rating: 5
     comment: |
@@ -48,8 +40,16 @@ reviews:
     rating: 5
     comment: |
       Amazing service , decent priced and filled the cups right up with chocolate and strawberries, 100% recommend
-  - name: "Jon Cristoffer Pecson"
+  - name: "Kanika Bishnoi"
     rating: 5
     comment: |
-      Good Food. The service was beyond expectation. Must try for dessert lovers.
+      Absolutely loved the healthy fruit cups at Whip N Drip. Fresh fruits, generous portions, and very good pricing. This is their new location in the Premium Outlet. Highly recommend—must try!
+  - name: "Ma Patricia Macale"
+    rating: 5
+    comment: |
+      Very nice owner and welcoming,  friendly, please visit them at outlet mall good dessert lot of choices, will definitely come back.
+  - name: "Kate Calda"
+    rating: 5
+    comment: |
+      Amazing service and absolutely delicious food! I tried the spaghetti crepe specifically the dubai chocolate flavor is a must-try. They’ve just opened, and honestly, the quality and portions for the price is unbeatable. Highly recommend checking this place out!
 ---

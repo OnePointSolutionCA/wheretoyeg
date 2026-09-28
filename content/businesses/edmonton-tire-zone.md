@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "9337 45th Ave NW, Edmonton, AB T6E 5Z7"
 rating: 4.8
-review_count: 48
+review_count: 53
 tier: "featured"
 phone: "(587) 982-9308"
 google_maps: "https://maps.google.com/?cid=7229705880694688407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

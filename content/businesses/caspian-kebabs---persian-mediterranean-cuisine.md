@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–10:00 PM"
 photos: ["/photos/caspian-kebabs---persian-mediterranean-cuisine-1.jpg", "/photos/caspian-kebabs---persian-mediterranean-cuisine-2.jpg", "/photos/caspian-kebabs---persian-mediterranean-cuisine-3.jpg"]
 rating: 4.9
-review_count: 702
+review_count: 704
 price_range: "$$"
 amenities:
   - "Halal"

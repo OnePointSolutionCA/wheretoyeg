@@ -18,7 +18,7 @@ hours:
   sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/cafe-bicyclette-1.jpg", "/photos/cafe-bicyclette-2.jpg", "/photos/cafe-bicyclette-3.jpg"]
 rating: 4.4
-review_count: 1201
+review_count: 1202
 price_range: "$$"
 amenities:
   - "Brunch"

@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–9:30 PM"
 photos: ["/photos/dana-nail-studiohome-base-nail-1.jpg", "/photos/dana-nail-studiohome-base-nail-2.jpg", "/photos/dana-nail-studiohome-base-nail-3.jpg"]
 rating: 5
-review_count: 88
+review_count: 91
 price_range: "$$"
 amenities:
 

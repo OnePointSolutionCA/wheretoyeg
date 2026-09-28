@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/chadi-ibrahim-llp-1.jpg", "/photos/chadi-ibrahim-llp-2.jpg"]
 rating: 4.8
-review_count: 560
+review_count: 562
 price_range: "$$"
 amenities:
 

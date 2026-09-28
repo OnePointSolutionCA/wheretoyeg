@@ -19,8 +19,8 @@ hours:
   saturday: "8:00 AM–5:00 PM"
   sunday: "8:00 AM–5:00 PM"
 photos: ["/photos/cartago-1.jpg", "/photos/cartago-2.jpg", "/photos/cartago-3.jpg"]
-rating: 4.7
-review_count: 112
+rating: 4.3
+review_count: 361
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -29,29 +29,24 @@ tags: ["edmonton", "latin"]
 active: true
 date_listed: "2026-08-26"
 reviews:
-  - name: "Poonam Yadav"
+  - name: "Kimberly D"
+    rating: 5
+    comment: |
+      Fantastic find for brunch! I would go back just for another warm pretzel - it was incredible. German eggs benny and the grilled cheese were both amazing. Great cappuccino too. No line on a late Sunday morning, and friendly staff. Will be back.
+  - name: "Britney Williams"
     rating: 3
     comment: |
-      I went there after seeing all the amazing reviews and had high expectations. We tried the black coffee, avocado toast, pork sausage, and a plain croissant.
-      
-      The ingredients tasted fresh and the food quality was decent, but overall the portions felt quite small for the price. Adding a small side like salad or increasing the serving size would definitely improve the experience. The coffee was fairly average and tasted like a regular black coffee without anything particularly special.
-      
-      In terms of pricing, it felt quite expensive for what was offered and not really the kind of place that feels affordable for frequent visits. Overall, it was an okay experience, but I was expecting a bit more considering the reviews and pricing.
-      The servers were great and helpful.
-  - name: "amelia crawford (frances)"
+      Little delayed on the review but we came here with a group of 8 and had a variety of items. Not pictured are the pretzels which we soft and pretty good. The meatballs and the sausage were okay but lacked a lot of flavour. The cucumber salad was hit and miss; half of us liked it and the other half didn’t. ¯\_(ツ)_/¯  I wouldn’t come back for the food, but I would for the drinks and excellent service.
+  - name: "Mateo Gudelj"
     rating: 5
     comment: |
-      Cute cafe! I had the mocha, and it was so creamy and delicious, I don’t normally order mochas but this one was so good I will be returning for another! The atmosphere was great too, with a decent amount of people studying or conversing.
-  - name: "Julian Ilagan"
+      Great food and ambience! Saw this place on the news so I decided to try it out. Food did not disappoint at all, everything was amazing. Even met the manager Katy and she was really nice and introduced herself. Also, loved the great selection of beers available here. Will definitely come back again and recommend this place to friends and family!
+  - name: "Don Perron"
     rating: 5
     comment: |
-      Best customer service I have received in a while! The Manager Jason was so friendly and treated me like family and we just met. He was so kind to his staff and they were all professional. I learned so much about the coffee and pastries from our small little chat and everything tasted just as good as the overall experience! This may just be my new favourite spot! So organized and clean, great music and vibe.
-  - name: "Daniel Ibrahim"
-    rating: 5
+      Great local pub with an earthy feel.  Huge beer selection. Small but tasty menu section. Good service in a clean up scale atmosphere.
+  - name: "DA YE Choi"
+    rating: 3
     comment: |
-      I visited this location yesterday afternoon and had a great experience. It's a cute little café with a good amount of seating, and the staff are incredibly kind. Zoey, the barista I ordered through was very patient with me as I had some issues with my card. I had an iced vanilla latte with a breakfast bagel, and it was so good! I look forward to trying out a hot coffee next time I stop by, and I definitely recommend this location to others.
-  - name: "donna mayer"
-    rating: 4
-    comment: |
-      This review is long overdue …. Four of us were at The Columbian enjoying the excellent lattes and baked goods when one of us asked my friend who had ordered a chai latte why she wasn’t finishing her hot chai latte.  My friend replied very calmly in her normal voice, that it was too sweet.  A few minutes later and to our surprise , the lovely server Rhett, approached our table with a fresh steaming hot chai latte offering it to my friend. When we asked about it, Rhett responded that he had heard my friends comment about the chai latte being too sweet and he had brought her another one (complementary and I also later learned, approved by the manager) that was less sweetened!  All four of us were in total awe and so impressed by this unheard of gesture! Thank you Rhett for this experience that upped our faith in the goodness of humans. Your gesture was so refreshing and so rare!
+      Espresso, cafe latte are great. My husband ordered white negroni. They made so great. He had egg benedict that was really good. I ordered Rösti. That was only one thing I didn't like. I expected real Rösti but it was small, hard, very thin and not even warm in the plate.
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–12:00 PM"
 photos: ["/photos/cyclebar-1.jpg", "/photos/cyclebar-2.jpg", "/photos/cyclebar-3.jpg"]
 rating: 4.9
-review_count: 254
+review_count: 256
 price_range: "$$"
 amenities:
 

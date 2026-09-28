@@ -5,7 +5,7 @@ category: "cleaning-services"
 neighborhood: "Edmonton"
 address: "2098 Blackmud Creek Dr SW, Edmonton, AB T6W 1T7"
 rating: 5
-review_count: 29
+review_count: 32
 tier: "featured"
 phone: "(587) 937-0079"
 website: "https://www.carpetx.ca/"

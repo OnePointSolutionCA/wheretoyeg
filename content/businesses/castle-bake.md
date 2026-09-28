@@ -19,7 +19,7 @@ hours:
   sunday: "8:00 AM–5:00 PM"
 photos: ["/photos/castle-bake-1.jpg", "/photos/castle-bake-2.jpg", "/photos/castle-bake-3.jpg"]
 rating: 4.8
-review_count: 1114
+review_count: 1115
 price_range: "$$"
 amenities:
   - "Halal"

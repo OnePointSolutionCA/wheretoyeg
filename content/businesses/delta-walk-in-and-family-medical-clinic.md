@@ -19,7 +19,7 @@ hours:
   sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/delta-walk-in-and-family-medical-clinic-1.jpg", "/photos/delta-walk-in-and-family-medical-clinic-2.jpg", "/photos/delta-walk-in-and-family-medical-clinic-3.jpg"]
 rating: 3.8
-review_count: 310
+review_count: 311
 price_range: "$$"
 amenities:
 

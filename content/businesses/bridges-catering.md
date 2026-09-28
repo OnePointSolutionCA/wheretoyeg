@@ -5,7 +5,7 @@ category: "catering"
 neighborhood: "Edmonton"
 address: "9203 111 Ave NW, Edmonton, AB T5G 0A2"
 rating: 4.6
-review_count: 78
+review_count: 79
 tier: "featured"
 phone: "(780) 425-0173"
 website: "https://www.bridgescatering.ca/"

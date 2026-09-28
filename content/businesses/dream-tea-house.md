@@ -21,7 +21,7 @@ hours:
   sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/dream-tea-house-1.jpg", "/photos/dream-tea-house-2.jpg", "/photos/dream-tea-house-3.jpg"]
 rating: 4.3
-review_count: 757
+review_count: 758
 price_range: "$"
 amenities:
   - "Bubble Tea"

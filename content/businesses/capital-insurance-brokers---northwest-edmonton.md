@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/capital-insurance-brokers---northwest-edmonton-1.jpg", "/photos/capital-insurance-brokers---northwest-edmonton-2.jpg", "/photos/capital-insurance-brokers---northwest-edmonton-3.jpg"]
 rating: 4.8
-review_count: 246
+review_count: 247
 price_range: "$$"
 amenities:
 

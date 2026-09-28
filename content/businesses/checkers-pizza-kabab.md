@@ -21,7 +21,7 @@ hours:
   sunday: "11:00 AM–2:00 AM"
 photos: ["/photos/checkers-pizza-kabab-1.jpg", "/photos/checkers-pizza-kabab-2.jpg", "/photos/checkers-pizza-kabab-3.jpg"]
 rating: 4.3
-review_count: 974
+review_count: 977
 price_range: "$"
 amenities:
   - "Halal"

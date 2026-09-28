@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/cosw-1.jpg", "/photos/cosw-2.jpg", "/photos/cosw-3.jpg"]
 rating: 4.9
-review_count: 636
+review_count: 655
 price_range: "$$"
 amenities:
   - "Dine-In"

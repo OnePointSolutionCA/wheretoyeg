@@ -19,8 +19,8 @@ hours:
   saturday: "9:00 AM–6:00 PM"
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/corner-pharmacy-1.jpg", "/photos/corner-pharmacy-2.jpg", "/photos/corner-pharmacy-3.jpg"]
-rating: 3.7
-review_count: 81
+rating: 3.6
+review_count: 82
 price_range: "$$"
 amenities:
 

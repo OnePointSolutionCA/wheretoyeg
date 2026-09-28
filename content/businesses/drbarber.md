@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–6:00 PM"
 photos: ["/photos/drbarber-1.jpg", "/photos/drbarber-2.jpg", "/photos/drbarber-3.jpg"]
 rating: 4.8
-review_count: 548
+review_count: 550
 price_range: "$$"
 amenities:
 

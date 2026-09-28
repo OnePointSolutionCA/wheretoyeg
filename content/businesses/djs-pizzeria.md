@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "St. Albert"
 address: "50 St Thomas St, St. Albert, AB T8N 6Z8"
 rating: 4.6
-review_count: 290
+review_count: 292
 tier: "featured"
 phone: "(587) 290-1777"
 website: "https://www.djspizzeria.online/"

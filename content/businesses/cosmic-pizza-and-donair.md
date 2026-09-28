@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Spruce Grove"
 address: "93 McLeod Ave #108, Spruce Grove, AB T7X 2Z7"
 rating: 4
-review_count: 300
+review_count: 301
 tier: "featured"
 phone: "(780) 571-1997"
 website: "https://sprucegrove.cosmicpizza.ca/"

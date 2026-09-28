@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/cafe-mosaics-1.jpg", "/photos/cafe-mosaics-2.jpg", "/photos/cafe-mosaics-3.jpg"]
 rating: 4.4
-review_count: 1347
+review_count: 1350
 price_range: "$$"
 amenities:
   - "Dine-In"

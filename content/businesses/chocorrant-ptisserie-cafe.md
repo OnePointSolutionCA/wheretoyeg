@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–4:00 PM"
 photos: ["/photos/chocorrant-ptisserie-cafe-1.jpg", "/photos/chocorrant-ptisserie-cafe-2.jpg", "/photos/chocorrant-ptisserie-cafe-3.jpg"]
 rating: 4.6
-review_count: 622
+review_count: 624
 price_range: "$"
 amenities:
   - "Dine-In"

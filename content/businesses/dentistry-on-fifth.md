@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Spruce Grove"
 address: "4620 48 St #203, Stony Plain, AB T7Z 1L4"
 rating: 5
-review_count: 461
+review_count: 464
 tier: "featured"
 phone: "(780) 591-0550"
 website: "http://www.dentistryonfifth.ca/"

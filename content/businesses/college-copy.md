@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/college-copy-1.jpg", "/photos/college-copy-2.jpg", "/photos/college-copy-3.jpg"]
 rating: 4.4
-review_count: 131
+review_count: 137
 price_range: "$$"
 amenities:
 

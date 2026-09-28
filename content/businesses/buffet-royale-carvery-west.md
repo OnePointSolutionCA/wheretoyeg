@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/buffet-royale-carvery-west-1.jpg", "/photos/buffet-royale-carvery-west-2.jpg", "/photos/buffet-royale-carvery-west-3.jpg"]
 rating: 3.6
-review_count: 2548
+review_count: 2558
 price_range: "$$"
 amenities:
   - "Dine-In"

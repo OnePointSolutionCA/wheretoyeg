@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Sherwood Park"
 address: "9 Sioux Rd, Sherwood Park, AB T8A 4C7"
 rating: 4.5
-review_count: 637
+review_count: 638
 tier: "featured"
 phone: "(780) 417-5523"
 website: "http://www.cafehaven.ca/"

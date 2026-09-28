@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Mill Woods"
 address: "2943 66 St NW, Edmonton, AB T6K 4C1"
 rating: 4.9
-review_count: 529
+review_count: 530
 tier: "featured"
 phone: "(780) 463-8803"
 website: "https://edmontonsmiles.net/"

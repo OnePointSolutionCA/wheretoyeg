@@ -30,10 +30,6 @@ tags: ["edmonton", "food-truck"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Kaare Boraas"
-    rating: 5
-    comment: |
-      Bully catered our friend’s 25th anniversary party. Food was great. I had the off menu burger with brisket on top. I promised not to tell anyone. Oh well!!!
   - name: "Padam DEV SINGH"
     rating: 1
     comment: |
@@ -54,4 +50,8 @@ reviews:
     rating: 5
     comment: |
       The Bully food truck was one of three chosen for an event at work. They had the largest crowd, and for good reason. The food was excellent. Great choices, tons of flavor, and large enough portions. It was crazy busy but they were prepared and were just churning out the orders in record time. Many of my coworkers agreed that Bully was the best choice for the day.
+  - name: "Sterling Kozak (Skooozak)"
+    rating: 5
+    comment: |
+      We went with these guys for our wedding, and let me tell you I heard all night long from friends and family how amazing the food was. The mountain of food they plated for us was unreal. My biggest sadness was I didn't have enough room to go back for seconds or try a different dish! They were able to provide gluten free options for us as well which made choosing bully food truck a no brainer. I will recommend bully food truck to anyone who is looking for a food truck for an event.
 ---

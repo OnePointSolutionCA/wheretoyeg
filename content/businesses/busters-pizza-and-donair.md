@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Spruce Grove"
 address: "101 1 Ave E Unit 4, Spruce Grove, AB T7X 2H4"
 rating: 4.2
-review_count: 299
+review_count: 300
 tier: "featured"
 phone: "(780) 960-9300"
 website: "https://www.busterspizza.ca/"

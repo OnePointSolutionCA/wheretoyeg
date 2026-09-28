@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/bountiful-farmers-market-1.jpg", "/photos/bountiful-farmers-market-2.jpg", "/photos/bountiful-farmers-market-3.jpg"]
 rating: 4.6
-review_count: 2539
+review_count: 2543
 price_range: "$$"
 amenities:
 

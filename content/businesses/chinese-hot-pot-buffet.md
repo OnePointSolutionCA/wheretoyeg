@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–11:30 PM"
 photos: ["/photos/chinese-hot-pot-buffet-1.jpg", "/photos/chinese-hot-pot-buffet-2.jpg", "/photos/chinese-hot-pot-buffet-3.jpg"]
 rating: 4.4
-review_count: 3540
+review_count: 3544
 price_range: "$$"
 amenities:
   - "Dine-In"

@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Beaumont"
 address: "5303 Magasin Ave #108, Beaumont, AB T4X 1V8"
 rating: 4.9
-review_count: 130
+review_count: 131
 tier: "featured"
 phone: "(780) 929-3521"
 website: "https://drdandental.ca/"

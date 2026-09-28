@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/edmonton-dermatology-cosmetic-skin-surgery-centre-1.jpg", "/photos/edmonton-dermatology-cosmetic-skin-surgery-centre-2.jpg", "/photos/edmonton-dermatology-cosmetic-skin-surgery-centre-3.jpg"]
 rating: 4.7
-review_count: 194
+review_count: 195
 price_range: "$$"
 amenities:
 

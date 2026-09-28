@@ -5,8 +5,8 @@ category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Beaumont"
 address: "5802 50 St, Beaumont, AB T4X 1T8"
-rating: 4.6
-review_count: 268
+rating: 4.7
+review_count: 269
 tier: "featured"
 phone: "(780) 929-0010"
 website: "https://pizza.dominos.ca/beaumont-alberta-10195/"

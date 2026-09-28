@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "11533 158 St NW, Edmonton, AB T5M 3W1"
 rating: 3.9
-review_count: 387
+review_count: 389
 tier: "featured"
 phone: "(780) 910-9761"
 website: "http://edmontontireguys.com/"

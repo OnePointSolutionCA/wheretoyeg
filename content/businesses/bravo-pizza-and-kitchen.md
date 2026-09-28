@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "13240 118 Ave NW, Edmonton, AB T5L 4N4"
 rating: 4.8
-review_count: 319
+review_count: 321
 tier: "featured"
 phone: "(780) 455-2341"
 website: "https://bravopizzakitchen.ca/"
@@ -61,5 +61,5 @@ hours:
   thursday: "11:00 AM–9:00 PM"
   friday: "11:00 AM–9:00 PM"
   saturday: "12:00 PM–9:00 PM"
-  sunday: "Closed"
+  sunday: "4:00 PM–8:30 PM"
 ---

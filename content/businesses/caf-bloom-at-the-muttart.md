@@ -4,7 +4,7 @@ slug: "caf-bloom-at-the-muttart"
 category: "cafes-coffee-shops"
 neighborhood: "Edmonton"
 address: "9626 96a St NW, Edmonton, AB T6C 4L8"
-rating: 4.1
+rating: 4.2
 review_count: 300
 tier: "featured"
 phone: "(587) 498-9752"

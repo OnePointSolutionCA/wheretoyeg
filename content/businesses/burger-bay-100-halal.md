@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Mill Woods"
 address: "101 Granada Blvd #311, Sherwood Park, AB T8A 4W2"
 rating: 4.8
-review_count: 589
+review_count: 594
 tier: "featured"
 phone: "(780) 570-7575"
 google_maps: "https://maps.google.com/?cid=2578273312702354587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

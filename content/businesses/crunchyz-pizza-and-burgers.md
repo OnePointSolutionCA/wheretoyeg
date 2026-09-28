@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Edmonton"
 address: "12544 132 Ave NW, Edmonton, AB T5L 3P9"
 rating: 4.9
-review_count: 507
+review_count: 513
 tier: "featured"
 phone: "(780) 249-9949"
 website: "https://www.crunchyzpizza.ca/"

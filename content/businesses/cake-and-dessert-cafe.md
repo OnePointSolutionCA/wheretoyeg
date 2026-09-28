@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Windermere"
 address: "8278 175 St NW, Edmonton, AB T5T 1V1"
 rating: 4.1
-review_count: 616
+review_count: 617
 tier: "featured"
 phone: "(587) 455-3725"
 website: "https://www.instagram.com/cndedmonton_yeg"

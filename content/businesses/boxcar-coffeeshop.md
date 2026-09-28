@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–5:00 PM"
 photos: ["/photos/boxcar-coffeeshop-1.jpg", "/photos/boxcar-coffeeshop-2.jpg", "/photos/boxcar-coffeeshop-3.jpg"]
 rating: 4.6
-review_count: 801
+review_count: 806
 price_range: "$$"
 amenities:
   - "Dine-In"

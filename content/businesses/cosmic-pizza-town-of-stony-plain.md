@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Spruce Grove"
 address: "5202 50 St, Stony Plain, AB T7Z 1T6"
 rating: 4.5
-review_count: 575
+review_count: 577
 tier: "featured"
 phone: "(780) 591-3001"
 website: "https://stonyplain.cosmicpizza.ca/"

@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "Jasper Ave"
 address: "10030 Jasper Ave, Edmonton, AB T5J 1R2"
 rating: 4.5
-review_count: 1973
+review_count: 1975
 tier: "featured"
 phone: "(587) 520-8841"
 website: "https://dedutch.com/locations/edmonton/"

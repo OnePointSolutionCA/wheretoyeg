@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "584 Griesbach Parade NW, Edmonton, AB T5E 6W9"
 rating: 5
-review_count: 323
+review_count: 325
 tier: "featured"
 phone: "(780) 800-6655"
 website: "https://cleansmiles.ca/"

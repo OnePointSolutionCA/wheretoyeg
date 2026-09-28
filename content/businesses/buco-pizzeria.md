@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "St. Albert"
 address: "130 Bellerose Dr #105, St. Albert, AB T8N 5C9"
 rating: 4.4
-review_count: 1018
+review_count: 1019
 tier: "featured"
 phone: "(780) 569-2826"
 website: "https://bucopizzeria.com/st-albert/"

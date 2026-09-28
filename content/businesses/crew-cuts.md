@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Castle Downs"
 address: "8314 144 Ave NW, Edmonton, AB T5E 2H4"
 rating: 4.7
-review_count: 453
+review_count: 454
 tier: "featured"
 phone: "(780) 478-9995"
 google_maps: "https://maps.google.com/?cid=1465594425828969539&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

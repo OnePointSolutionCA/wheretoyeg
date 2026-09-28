@@ -5,7 +5,7 @@ category: "professional-services"
 neighborhood: "Edmonton"
 address: "15243 88a St NW, Edmonton, AB T5E 6G7"
 rating: 5
-review_count: 623
+review_count: 624
 tier: "featured"
 phone: "(780) 851-5958"
 website: "http://edmonton-notary.ca/?utm_source=google&utm_medium=local&utm_campaign=1&utm_content=primary"

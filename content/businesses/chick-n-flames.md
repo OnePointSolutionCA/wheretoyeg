@@ -20,7 +20,7 @@ hours:
   sunday: "2:00 PM–9:00 PM"
 photos: ["/photos/chick-n-flames-1.jpg", "/photos/chick-n-flames-2.jpg", "/photos/chick-n-flames-3.jpg"]
 rating: 4.4
-review_count: 359
+review_count: 360
 price_range: "$"
 amenities:
   - "Halal"

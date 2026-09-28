@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "Mill Woods"
 address: "5706 75 Street NW, Edmonton, AB T6E 5X6"
 rating: 4
-review_count: 802
+review_count: 801
 tier: "featured"
 phone: "(780) 355-0456"
 website: "https://shop.storerav.com/ecity-flames-and-sportsman-pub"

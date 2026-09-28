@@ -20,7 +20,7 @@ hours:
   sunday: "4:00 PM–9:30 PM"
 photos: ["/photos/cafe-amore-bistro-1.jpg", "/photos/cafe-amore-bistro-2.jpg", "/photos/cafe-amore-bistro-3.jpg"]
 rating: 4.6
-review_count: 2221
+review_count: 2222
 price_range: "$$"
 amenities:
   - "Dine-In"
