@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/in-line-family-chiropractic-1.jpg", "/photos/in-line-family-chiropractic-2.jpg", "/photos/in-line-family-chiropractic-3.jpg"]
 rating: 4.9
-review_count: 83
+review_count: 85
 price_range: "$$"
 amenities:
 

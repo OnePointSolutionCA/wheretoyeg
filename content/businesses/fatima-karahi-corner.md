@@ -21,7 +21,7 @@ hours:
   sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/fatima-karahi-corner-1.jpg", "/photos/fatima-karahi-corner-2.jpg"]
 rating: 4.4
-review_count: 1298
+review_count: 1329
 price_range: "$$"
 amenities:
   - "Halal"

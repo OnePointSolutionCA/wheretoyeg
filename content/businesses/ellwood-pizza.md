@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Edmonton"
 address: "2431 Ellwood Dr SW, Edmonton, AB T6X 0J6"
 rating: 4.6
-review_count: 525
+review_count: 528
 tier: "featured"
 phone: "(780) 465-0014"
 website: "https://www.ellwoodpizza.ca/"

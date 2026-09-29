@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/go2-plumbing-and-heating-1.jpg", "/photos/go2-plumbing-and-heating-2.jpg", "/photos/go2-plumbing-and-heating-3.jpg"]
 rating: 4.9
-review_count: 106
+review_count: 107
 price_range: "$$"
 amenities:
 

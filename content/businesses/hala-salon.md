@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/hala-salon-1.jpg", "/photos/hala-salon-2.jpg", "/photos/hala-salon-3.jpg"]
 rating: 5
-review_count: 486
+review_count: 493
 price_range: "$$"
 amenities:
 

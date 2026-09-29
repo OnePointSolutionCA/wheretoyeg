@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/integral-physiotherapy-sports-clinic-1.jpg", "/photos/integral-physiotherapy-sports-clinic-2.jpg", "/photos/integral-physiotherapy-sports-clinic-3.jpg"]
 rating: 4.9
-review_count: 840
+review_count: 841
 price_range: "$$"
 amenities:
 

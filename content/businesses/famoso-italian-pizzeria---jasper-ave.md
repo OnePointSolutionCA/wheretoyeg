@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/famoso-italian-pizzeria---jasper-ave-1.jpg", "/photos/famoso-italian-pizzeria---jasper-ave-2.jpg", "/photos/famoso-italian-pizzeria---jasper-ave-3.jpg"]
 rating: 4.5
-review_count: 1325
+review_count: 1361
 price_range: "$$"
 amenities:
   - "Delivery"

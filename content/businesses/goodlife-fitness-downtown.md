@@ -18,7 +18,7 @@ hours:
   sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/goodlife-fitness-downtown-1.jpg", "/photos/goodlife-fitness-downtown-2.jpg", "/photos/goodlife-fitness-downtown-3.jpg"]
 rating: 4.4
-review_count: 232
+review_count: 236
 price_range: "$$"
 amenities:
   - "Cardio"

@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–9:30 PM"
 photos: ["/photos/h-mart-1.jpg", "/photos/h-mart-2.jpg", "/photos/h-mart-3.jpg"]
 rating: 4.3
-review_count: 2248
+review_count: 2251
 price_range: "$$"
 amenities:
 

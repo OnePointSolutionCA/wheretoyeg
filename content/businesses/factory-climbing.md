@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/factory-climbing-1.jpg", "/photos/factory-climbing-2.jpg", "/photos/factory-climbing-3.jpg"]
 rating: 4.8
-review_count: 308
+review_count: 310
 price_range: "$$"
 amenities:
 

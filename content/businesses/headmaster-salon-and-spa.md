@@ -5,7 +5,7 @@ category: "hair-salons"
 neighborhood: "Beaumont"
 address: "4906 30 Ave, Beaumont, AB T4X 1V1"
 rating: 4.3
-review_count: 35
+review_count: 36
 tier: "featured"
 phone: "(780) 737-8888"
 google_maps: "https://maps.google.com/?cid=6550500093781985948&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

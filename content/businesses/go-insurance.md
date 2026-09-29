@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/go-insurance-1.jpg", "/photos/go-insurance-2.jpg", "/photos/go-insurance-3.jpg"]
 rating: 4.8
-review_count: 1749
+review_count: 1754
 price_range: "$$"
 amenities:
 

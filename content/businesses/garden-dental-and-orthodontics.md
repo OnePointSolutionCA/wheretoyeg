@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Spruce Grove"
 address: "306 McLeod Ave, Spruce Grove, AB T7X 0J6"
 rating: 4.7
-review_count: 252
+review_count: 254
 tier: "featured"
 phone: "(780) 962-3414"
 website: "https://www.gardendental.ca/?utm_source=GMBListing&utm_medium=Organic"

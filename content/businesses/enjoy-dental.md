@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Castle Downs"
 address: "15277 Castle Downs Rd NW, Edmonton, AB T5X 3N5"
 rating: 4.9
-review_count: 138
+review_count: 139
 tier: "featured"
 phone: "(780) 457-2227"
 website: "https://enjoydental.ca/"

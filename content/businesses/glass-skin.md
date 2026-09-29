@@ -32,10 +32,6 @@ reviews:
     rating: 5
     comment: |
       I get my lashes done by Sophia and she is amazing! She helped me with my wedding lashes and she was so helpful and easy to work with during the trail process. The lashes were perfect and the retention even better!
-  - name: "A Google User"
-    rating: 5
-    comment: |
-      I am obsessed with my lashes!! :) Gina is the sweetest and most helpful, knowledgable lash tech. I really like this studio because they offer a healthier alternative to a traditional lash lift with the keratin option, and if you do come I definitely reccommend seeing Gina as she is skilled and makes you feel at home. 10/10!
   - name: "Ivy Naling"
     rating: 5
     comment: |
@@ -50,4 +46,8 @@ reviews:
     rating: 5
     comment: |
       I’ve been getting my lash extensions done here for a while now, and I’m always impressed with the service. Sophia is an absolute gem—she’s warm, professional, and really pays attention to the details. She not only takes the time to listen to what you want but also provides thoughtful suggestions that suit your look. The salon is spotless, cozy, and the staff is always welcoming. I can’t recommend this place enough—definitely worth a visit!
+  - name: "Grzegorzia Brzęczyszczykiewicz"
+    rating: 5
+    comment: |
+      I've been getting my lash extensions done at this place, and it's always a great experience. Never had an issue once. Special shout-out to Sophia—she's incredibly friendly and precise with her work. She takes the time to understand what you're looking for and offers helpful advice on what will suit you best, whether it's lashes or microblading. The place itself is clean and cozy, and the entire team is welcoming. Highly recommend!
 ---

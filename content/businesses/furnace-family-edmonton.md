@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/furnace-family-edmonton-1.jpg", "/photos/furnace-family-edmonton-2.jpg", "/photos/furnace-family-edmonton-3.jpg"]
 rating: 4.9
-review_count: 3897
+review_count: 3911
 price_range: "$$"
 amenities:
 

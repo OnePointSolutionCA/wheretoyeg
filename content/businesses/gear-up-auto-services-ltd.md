@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Mill Woods"
 address: "9820 47 Ave NW #2, Edmonton, AB T6E 5P3"
 rating: 4.9
-review_count: 221
+review_count: 222
 tier: "featured"
 phone: "(780) 439-1046"
 website: "http://gearupautoservice.com/"

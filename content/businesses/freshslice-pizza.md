@@ -5,8 +5,8 @@ category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "11240 104 Ave NW, Edmonton, AB T5K 2X4"
-rating: 4.8
-review_count: 49
+rating: 4.7
+review_count: 62
 tier: "featured"
 phone: "(587) 453-3302"
 website: "https://freshslice.com/"

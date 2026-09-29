@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/enhanced-health-wellness---south-edmonton-chiropractic-clini-1.jpg", "/photos/enhanced-health-wellness---south-edmonton-chiropractic-clini-2.jpg", "/photos/enhanced-health-wellness---south-edmonton-chiropractic-clini-3.jpg"]
 rating: 4.9
-review_count: 287
+review_count: 289
 price_range: "$$"
 amenities:
 

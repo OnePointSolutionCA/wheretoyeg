@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Windermere"
 address: "16408 Ellerslie Rd SW, Edmonton, AB T6W 4S8"
 rating: 4.7
-review_count: 445
+review_count: 447
 tier: "featured"
 phone: "(780) 800-5100"
 website: "https://www.fengdonburi.ca/"

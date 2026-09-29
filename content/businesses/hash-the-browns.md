@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Spruce Grove"
 address: "636 King St, Spruce Grove, AB T7X 4K5"
 rating: 4.7
-review_count: 775
+review_count: 777
 tier: "featured"
 phone: "(780) 960-0080"
 website: "https://hashthebrowns.com/"

@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–10:00 PM"
 photos: ["/photos/gogi-korean-bbq---edmonton-south-1.jpg", "/photos/gogi-korean-bbq---edmonton-south-2.jpg", "/photos/gogi-korean-bbq---edmonton-south-3.jpg"]
 rating: 4.8
-review_count: 1115
+review_count: 1155
 price_range: "$$"
 amenities:
   - "Dine-In"

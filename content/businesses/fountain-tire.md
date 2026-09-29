@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Beaumont"
 address: "6201 29 Ave, Beaumont, AB T4X 0H5"
 rating: 4.5
-review_count: 278
+review_count: 280
 tier: "featured"
 phone: "(780) 737-7727"
 website: "https://www.fountaintire.com/stores/beaumont-ab"

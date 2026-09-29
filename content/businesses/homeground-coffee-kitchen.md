@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "Windermere"
 address: "Main Rd, Windermere LA23 1DX, UK"
 rating: 4.7
-review_count: 1932
+review_count: 1936
 tier: "featured"
 phone: "015394 44863"
 website: "http://www.homegroundcafe.co.uk/"

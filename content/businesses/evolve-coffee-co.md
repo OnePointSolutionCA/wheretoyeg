@@ -19,7 +19,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/evolve-coffee-co-1.jpg", "/photos/evolve-coffee-co-2.jpg", "/photos/evolve-coffee-co-3.jpg"]
 rating: 5
-review_count: 26
+review_count: 27
 price_range: "$"
 amenities:
   - "Dine-In"

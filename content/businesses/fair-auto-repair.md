@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/fair-auto-repair-1.jpg", "/photos/fair-auto-repair-2.jpg"]
 rating: 5
-review_count: 49
+review_count: 50
 price_range: "$$"
 amenities:
 

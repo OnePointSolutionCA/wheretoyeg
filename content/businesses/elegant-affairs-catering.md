@@ -5,7 +5,7 @@ category: "catering"
 neighborhood: "St. Albert"
 address: "25 Grosvenor Blvd, St. Albert, AB T8N 1P3"
 rating: 4.8
-review_count: 69
+review_count: 71
 tier: "featured"
 phone: "(780) 709-6070"
 website: "http://elegantaffairscatering.ca/"

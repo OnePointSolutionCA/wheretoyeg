@@ -14,9 +14,9 @@ hours:
   monday: "Closed"
   tuesday: "Closed"
   wednesday: "12:00 PM–10:00 PM"
-  thursday: "Closed"
+  thursday: "4:00 PM–10:00 PM"
   friday: "Closed"
-  saturday: "12:00 PM–10:00 PM"
+  saturday: "Closed"
   sunday: "12:00 PM–6:00 PM"
 photos: ["/photos/golden-bites-food-truck-edmonton-1.jpg", "/photos/golden-bites-food-truck-edmonton-2.jpg", "/photos/golden-bites-food-truck-edmonton-3.jpg"]
 rating: 5

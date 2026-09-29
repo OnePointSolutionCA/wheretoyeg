@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–6:00 PM"
 photos: ["/photos/house-of-handsome-barbershop-1.jpg", "/photos/house-of-handsome-barbershop-2.jpg", "/photos/house-of-handsome-barbershop-3.jpg"]
 rating: 4.9
-review_count: 493
+review_count: 491
 price_range: "$$"
 amenities:
 

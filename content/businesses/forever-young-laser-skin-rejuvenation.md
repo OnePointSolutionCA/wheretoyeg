@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–6:00 PM"
 photos: ["/photos/forever-young-laser-skin-rejuvenation-1.jpg", "/photos/forever-young-laser-skin-rejuvenation-2.jpg", "/photos/forever-young-laser-skin-rejuvenation-3.jpg"]
 rating: 4.8
-review_count: 1661
+review_count: 1664
 price_range: "$$"
 amenities:
 

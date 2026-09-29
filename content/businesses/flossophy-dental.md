@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Windermere"
 address: "5540 Windermere Blvd NW #218, Edmonton, AB T6W 2P3"
 rating: 4.9
-review_count: 680
+review_count: 685
 tier: "featured"
 phone: "(780) 306-9333"
 website: "http://flossophy.dentaledmonton.ca/"

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/healing-waters-spa-edmonton-1.jpg", "/photos/healing-waters-spa-edmonton-2.jpg", "/photos/healing-waters-spa-edmonton-3.jpg"]
 rating: 4.9
-review_count: 520
+review_count: 522
 price_range: "$$"
 amenities:
 

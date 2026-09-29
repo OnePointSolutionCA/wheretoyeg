@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Castle Downs"
 address: "5316 Admiral Girouard St, Edmonton, AB T5X 3N5"
 rating: 4.6
-review_count: 180
+review_count: 181
 tier: "featured"
 phone: "(780) 456-5005"
 website: "https://elitepizzaanddonair.com/"

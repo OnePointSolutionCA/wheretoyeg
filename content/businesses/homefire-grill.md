@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/homefire-grill-1.jpg", "/photos/homefire-grill-2.jpg", "/photos/homefire-grill-3.jpg"]
 rating: 4.6
-review_count: 1787
+review_count: 1789
 price_range: "$$"
 amenities:
   - "Dine-In"

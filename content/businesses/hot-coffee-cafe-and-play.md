@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "St. Albert"
 address: "410 St Albert Rd #155, St. Albert, AB T8N 5J9"
 rating: 4.5
-review_count: 149
+review_count: 151
 tier: "featured"
 phone: "(780) 569-0022"
 website: "https://hotcoffeecafe.ca/"

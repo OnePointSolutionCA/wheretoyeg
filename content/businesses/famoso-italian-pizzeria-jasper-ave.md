@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Jasper Ave"
 address: "11750 Jasper Ave, Edmonton, AB T3K 0N3"
 rating: 4.5
-review_count: 1325
+review_count: 1361
 tier: "featured"
 phone: "(780) 732-0700"
 website: "https://famoso.ca/"

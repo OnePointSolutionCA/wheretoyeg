@@ -18,7 +18,7 @@ hours:
   sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/gateway-lanes-1.jpg", "/photos/gateway-lanes-2.jpg", "/photos/gateway-lanes-3.jpg"]
 rating: 3.8
-review_count: 46
+review_count: 47
 price_range: "$$"
 amenities:
   - "Birthday Parties"

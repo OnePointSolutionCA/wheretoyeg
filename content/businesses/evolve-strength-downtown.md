@@ -19,8 +19,8 @@ hours:
   saturday: "7:00 AM–9:00 PM"
   sunday: "7:00 AM–9:00 PM"
 photos: ["/photos/evolve-strength-downtown-1.jpg", "/photos/evolve-strength-downtown-2.jpg", "/photos/evolve-strength-downtown-3.jpg"]
-rating: 4.6
-review_count: 501
+rating: 4.7
+review_count: 527
 price_range: "$$"
 amenities:
 

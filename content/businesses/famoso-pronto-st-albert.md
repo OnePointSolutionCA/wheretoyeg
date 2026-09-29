@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "St. Albert"
 address: "11 Bellerose Dr #39, St. Albert, AB T8N 5C9"
 rating: 4
-review_count: 440
+review_count: 442
 tier: "featured"
 phone: "(780) 459-9599"
 website: "https://famoso.ca/"

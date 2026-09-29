@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/first-detailing-studio-1.jpg", "/photos/first-detailing-studio-2.jpg", "/photos/first-detailing-studio-3.jpg"]
 rating: 4.9
-review_count: 550
+review_count: 552
 price_range: "$$"
 amenities:
 

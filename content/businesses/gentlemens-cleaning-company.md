@@ -5,7 +5,7 @@ category: "cleaning-services"
 neighborhood: "Edmonton"
 address: "1234 Chappelle Blvd SW, Edmonton, AB T6W 4T3"
 rating: 4.9
-review_count: 409
+review_count: 412
 tier: "featured"
 phone: "(825) 925-7115"
 website: "https://gentlemenscleaning.ca/"

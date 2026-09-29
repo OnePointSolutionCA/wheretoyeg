@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "11127 107 Ave NW, Edmonton, AB T5H 3E9"
 rating: 4.7
-review_count: 366
+review_count: 370
 tier: "featured"
 phone: "(587) 401-6302"
 website: "https://www.hellcrustpizza.com/"

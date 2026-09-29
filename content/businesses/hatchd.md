@@ -30,7 +30,7 @@ tags: ["edmonton", "breakfast"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Henry Du"
+  - name: "Yumcha"
     rating: 4
     comment: |
       The sandwiches here are fantastic especially if you're a fan of eggs.  The waffle fries are also quite tasty.  If there is a caveat is that it's not cheap.  A family of 3 will set you back nearly $50 for 3 sandwiches, drinks, and some fries.  Parking can also be a challenge given the area.

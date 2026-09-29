@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Edmonton"
 address: "13723 66 St NW, Edmonton, AB T5C 3E1"
 rating: 4.3
-review_count: 243
+review_count: 244
 tier: "featured"
 phone: "(780) 457-2444"
 website: "https://66stnwedm.greatcanadianpizza.net/"

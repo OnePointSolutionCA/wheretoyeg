@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–6:00 PM"
 photos: ["/photos/honeypot-lashes-1.jpg", "/photos/honeypot-lashes-2.jpg", "/photos/honeypot-lashes-3.jpg"]
 rating: 4.6
-review_count: 169
+review_count: 172
 price_range: "$$$"
 amenities:
 

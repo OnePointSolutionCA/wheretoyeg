@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/garneau-chiropractic-health-clinic-1.jpg", "/photos/garneau-chiropractic-health-clinic-2.jpg", "/photos/garneau-chiropractic-health-clinic-3.jpg"]
 rating: 4.9
-review_count: 202
+review_count: 203
 price_range: "$$"
 amenities:
 

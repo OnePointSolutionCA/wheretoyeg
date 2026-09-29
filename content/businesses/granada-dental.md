@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "101 Granada Blvd #201, Sherwood Park, AB T8A 4W2"
 rating: 4.9
-review_count: 306
+review_count: 309
 tier: "featured"
 phone: "(780) 464-6266"
 website: "http://www.granadadental.ca/"

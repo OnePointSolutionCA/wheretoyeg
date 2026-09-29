@@ -5,7 +5,7 @@ category: "catering"
 neighborhood: "Castle Downs"
 address: "13716 Castle Downs Rd NW, Edmonton, AB T5X 4H7"
 rating: 4.7
-review_count: 194
+review_count: 195
 tier: "featured"
 phone: "(780) 371-8088"
 google_maps: "https://maps.google.com/?cid=1930918924890056035&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

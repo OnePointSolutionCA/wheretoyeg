@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Edmonton"
 address: "3418 99 St NW, Edmonton, AB T6E 5X5"
 rating: 4.8
-review_count: 620
+review_count: 624
 tier: "featured"
 phone: "(780) 993-6766"
 website: "http://fornoflatbreadco.com/"

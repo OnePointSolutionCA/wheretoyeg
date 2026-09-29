@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/heroz-driving-school-1.jpg", "/photos/heroz-driving-school-2.jpg", "/photos/heroz-driving-school-3.jpg"]
 rating: 4.9
-review_count: 623
+review_count: 628
 price_range: "$$"
 amenities:
 

@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–9:00 PM"
 photos: ["/photos/elevate-realty-group-1.jpg", "/photos/elevate-realty-group-2.jpg", "/photos/elevate-realty-group-3.jpg"]
 rating: 5
-review_count: 342
+review_count: 343
 price_range: "$$"
 amenities:
 

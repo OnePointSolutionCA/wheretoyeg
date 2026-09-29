@@ -19,7 +19,7 @@ hours:
   sunday: "9:30 AM–9:00 PM"
 photos: ["/photos/indian-asian-supermarket-1.jpg", "/photos/indian-asian-supermarket-2.jpg", "/photos/indian-asian-supermarket-3.jpg"]
 rating: 4.7
-review_count: 353
+review_count: 355
 price_range: "$$"
 amenities:
   - "Dine-In"

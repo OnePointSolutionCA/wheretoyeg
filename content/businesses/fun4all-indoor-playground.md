@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "4142 101 St NW, Edmonton, AB T6E 0A5"
 rating: 4.8
-review_count: 1428
+review_count: 1432
 tier: "featured"
 website: "https://fun4allinc.com/"
 google_maps: "https://maps.google.com/?cid=12357891000218172239&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

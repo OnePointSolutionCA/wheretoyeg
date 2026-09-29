@@ -5,7 +5,7 @@ category: "catering"
 neighborhood: "Edmonton"
 address: "11316 132 Ave NW, Edmonton, AB T5E 5C1"
 rating: 4.4
-review_count: 301
+review_count: 302
 tier: "featured"
 phone: "(780) 454-8103"
 google_maps: "https://maps.google.com/?cid=12707122571544926734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

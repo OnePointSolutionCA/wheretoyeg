@@ -16,10 +16,10 @@ hours:
   thursday: "12:00 PM–9:30 PM"
   friday: "12:00 PM–9:30 PM"
   saturday: "12:00 PM–9:30 PM"
-  sunday: "12:00 PM–2:30 PM"
+  sunday: "12:00 PM–9:30 PM"
 photos: ["/photos/hibachi-house-food-truck-1.jpg", "/photos/hibachi-house-food-truck-2.jpg", "/photos/hibachi-house-food-truck-3.jpg"]
 rating: 4.8
-review_count: 46
+review_count: 49
 price_range: "$"
 amenities:
   - "Halal"

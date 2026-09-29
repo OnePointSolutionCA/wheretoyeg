@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "170, 8005 Emerald Dr #170, Sherwood Park, AB T8H 0P1"
 rating: 4.8
-review_count: 255
+review_count: 269
 tier: "featured"
 phone: "(587) 269-4900"
 website: "https://www.emeraldhillsdental.ca/"

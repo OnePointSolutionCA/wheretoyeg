@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/hot-stones-spa-1.jpg", "/photos/hot-stones-spa-2.jpg", "/photos/hot-stones-spa-3.jpg"]
 rating: 4.8
-review_count: 200
+review_count: 201
 price_range: "$$"
 amenities:
 

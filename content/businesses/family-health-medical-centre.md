@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/family-health-medical-centre-1.jpg", "/photos/family-health-medical-centre-2.jpg", "/photos/family-health-medical-centre-3.jpg"]
 rating: 4.8
-review_count: 62
+review_count: 63
 price_range: "$$"
 amenities:
 

@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–7:00 PM"
 photos: ["/photos/hus-noodle-nook-1.jpg", "/photos/hus-noodle-nook-2.jpg", "/photos/hus-noodle-nook-3.jpg"]
 rating: 4.7
-review_count: 426
+review_count: 427
 price_range: "$"
 amenities:
   - "Dine-In"

@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–11:00 PM"
 photos: ["/photos/heavenly-desserts-edmonton-1.jpg", "/photos/heavenly-desserts-edmonton-2.jpg", "/photos/heavenly-desserts-edmonton-3.jpg"]
 rating: 4.6
-review_count: 411
+review_count: 418
 price_range: "$$"
 amenities:
   - "Dine-In"

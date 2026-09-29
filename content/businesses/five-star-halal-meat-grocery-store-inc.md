@@ -19,7 +19,7 @@ hours:
   sunday: "9:30 AM–10:00 PM"
 photos: ["/photos/five-star-halal-meat-grocery-store-inc-1.jpg", "/photos/five-star-halal-meat-grocery-store-inc-2.jpg", "/photos/five-star-halal-meat-grocery-store-inc-3.jpg"]
 rating: 5
-review_count: 40
+review_count: 41
 price_range: "$$"
 amenities:
   - "Halal"

@@ -11,14 +11,14 @@ google_maps_url: "https://maps.google.com/?q=Galaxyland%20Amusement%20Park%20Edm
 hours:
   monday: "12:00 PM–5:00 PM"
   tuesday: "12:00 PM–5:00 PM"
-  wednesday: "12:00 PM–5:00 PM"
+  wednesday: "12:00 PM–6:00 PM"
   thursday: "12:00 PM–5:00 PM"
   friday: "12:00 PM–7:00 PM"
   saturday: "11:00 AM–7:00 PM"
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/galaxyland-1.jpg", "/photos/galaxyland-2.jpg", "/photos/galaxyland-3.jpg"]
 rating: 4.3
-review_count: 7200
+review_count: 7211
 price_range: "$$$"
 amenities:
   - "Family Friendly"

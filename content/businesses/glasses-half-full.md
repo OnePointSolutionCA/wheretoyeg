@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/glasses-half-full-1.jpg", "/photos/glasses-half-full-2.jpg", "/photos/glasses-half-full-3.jpg"]
 rating: 4.9
-review_count: 286
+review_count: 287
 price_range: "$$"
 amenities:
 

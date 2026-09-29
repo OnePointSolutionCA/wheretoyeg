@@ -18,7 +18,7 @@ hours:
   sunday: "12:00 PM–4:00 PM"
 photos: ["/photos/fort-edmonton-park-1.jpg", "/photos/fort-edmonton-park-2.jpg", "/photos/fort-edmonton-park-3.jpg"]
 rating: 4.5
-review_count: 5365
+review_count: 5378
 price_range: "$$"
 amenities:
   - "Family Friendly"

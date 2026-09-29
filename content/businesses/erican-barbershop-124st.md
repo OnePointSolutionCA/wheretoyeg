@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–7:00 PM"
 photos: ["/photos/erican-barbershop-124st-1.jpg", "/photos/erican-barbershop-124st-2.jpg", "/photos/erican-barbershop-124st-3.jpg"]
 rating: 4.9
-review_count: 758
+review_count: 761
 price_range: "$$"
 amenities:
 

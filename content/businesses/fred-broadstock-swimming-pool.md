@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–7:00 PM"
 photos: ["/photos/fred-broadstock-swimming-pool-1.jpg", "/photos/fred-broadstock-swimming-pool-2.jpg", "/photos/fred-broadstock-swimming-pool-3.jpg"]
 rating: 4.3
-review_count: 478
+review_count: 479
 price_range: "$$"
 amenities:
 

@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Mill Woods"
 address: "319 Woodvale Rd W, Edmonton, AB T6L 3Z7"
 rating: 4.9
-review_count: 230
+review_count: 233
 tier: "featured"
 phone: "(780) 463-2339"
 website: "http://www.hillviewdental.ca/"

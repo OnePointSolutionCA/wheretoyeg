@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/frenchies-hair-1.jpg", "/photos/frenchies-hair-2.jpg", "/photos/frenchies-hair-3.jpg"]
 rating: 4.9
-review_count: 168
+review_count: 169
 price_range: "$$$"
 amenities:
 

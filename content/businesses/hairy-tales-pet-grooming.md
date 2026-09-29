@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–12:00 PM"
 photos: ["/photos/hairy-tales-pet-grooming-1.jpg", "/photos/hairy-tales-pet-grooming-2.jpg", "/photos/hairy-tales-pet-grooming-3.jpg"]
 rating: 5
-review_count: 39
+review_count: 40
 price_range: "$$"
 amenities:
 

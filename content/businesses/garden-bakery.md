@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–7:00 PM"
 photos: ["/photos/garden-bakery-1.jpg", "/photos/garden-bakery-2.jpg", "/photos/garden-bakery-3.jpg"]
 rating: 4.8
-review_count: 351
+review_count: 355
 price_range: "$$"
 amenities:
   - "Dine-In"

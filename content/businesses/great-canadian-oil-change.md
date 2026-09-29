@@ -18,7 +18,7 @@ hours:
   sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/great-canadian-oil-change-1.jpg", "/photos/great-canadian-oil-change-2.jpg", "/photos/great-canadian-oil-change-3.jpg"]
 rating: 4.4
-review_count: 244
+review_count: 246
 price_range: "$"
 amenities:
   - "Walk-Ins"

@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "Londonderry Mall, 140 Ave NW #134, Edmonton, AB T5C 3C8"
 rating: 4.9
-review_count: 319
+review_count: 322
 tier: "featured"
 phone: "(780) 475-4888"
 website: "http://www.iconvisioncare.ca/"

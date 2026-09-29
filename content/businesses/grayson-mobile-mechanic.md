@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Beverly"
 address: "13401 34 St NW, Edmonton, AB T5A 2P8"
 rating: 4.5
-review_count: 201
+review_count: 202
 tier: "featured"
 phone: "(780) 203-2512"
 website: "https://www.graysonsmobileservices.com/"

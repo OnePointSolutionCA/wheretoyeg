@@ -17,10 +17,10 @@ hours:
   thursday: "9:00 AM–8:00 PM"
   friday: "9:00 AM–8:00 PM"
   saturday: "9:00 AM–8:00 PM"
-  sunday: "11:00 AM–7:00 PM"
+  sunday: "11:00 AM–2:30 PM"
 photos: ["/photos/erican-barbershop-127st-1.jpg", "/photos/erican-barbershop-127st-2.jpg", "/photos/erican-barbershop-127st-3.jpg"]
 rating: 5
-review_count: 157
+review_count: 158
 price_range: "$$"
 amenities:
 

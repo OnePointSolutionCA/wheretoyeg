@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/forum-law-llp-business-family-and-litigation-lawyer-1.jpg", "/photos/forum-law-llp-business-family-and-litigation-lawyer-2.jpg", "/photos/forum-law-llp-business-family-and-litigation-lawyer-3.jpg"]
 rating: 4.8
-review_count: 226
+review_count: 224
 price_range: "$$"
 amenities:
 

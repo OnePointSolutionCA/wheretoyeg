@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Windermere"
 address: "14123 23 Ave NW, Edmonton, AB T6R 0G4"
 rating: 4.3
-review_count: 575
+review_count: 576
 tier: "featured"
 phone: "(780) 436-8799"
 website: "https://famoso.ca/"

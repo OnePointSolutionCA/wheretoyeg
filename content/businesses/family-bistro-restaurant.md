@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "22106 S Cooking Rd suite 2, Sherwood Park, AB T8E 1J1"
 rating: 4.3
-review_count: 17
+review_count: 18
 tier: "featured"
 phone: "(780) 563-2626"
 google_maps: "https://maps.google.com/?cid=17314209891040493069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -36,11 +36,11 @@ reviews:
     comment: |
       Best place to eat for late nights with the family.
 hours:
-  monday: "10:00 AM–8:00 AM"
-  tuesday: "10:00 AM–8:00 PM"
-  wednesday: "10:00 AM–8:00 PM"
-  thursday: "10:00 AM–8:00 PM"
-  friday: "10:00 AM–8:00 PM"
+  monday: "10:00 AM–7:00 AM"
+  tuesday: "10:00 AM–7:00 PM"
+  wednesday: "10:00 AM–7:00 PM"
+  thursday: "10:00 AM–7:00 PM"
+  friday: "10:00 AM–7:00 PM"
   saturday: "10:00 AM–7:00 PM"
   sunday: "12:00 PM–6:00 PM"
 ---

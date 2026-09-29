@@ -21,7 +21,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/gentlemens-cleaning-1.jpg", "/photos/gentlemens-cleaning-2.jpg", "/photos/gentlemens-cleaning-3.jpg"]
 rating: 4.9
-review_count: 409
+review_count: 412
 price_range: "$$"
 amenities:
   - "Recurring Cleans"

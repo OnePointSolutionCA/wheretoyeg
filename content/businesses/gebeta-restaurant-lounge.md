@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–11:00 PM"
 photos: ["/photos/gebeta-restaurant-lounge-1.jpg", "/photos/gebeta-restaurant-lounge-2.jpg", "/photos/gebeta-restaurant-lounge-3.jpg"]
 rating: 4.6
-review_count: 261
+review_count: 257
 price_range: "$$"
 amenities:
   - "Dine-In"

@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "1106 37A Ave NW, Edmonton, AB T6T 0E7"
 rating: 5
-review_count: 148
+review_count: 153
 tier: "featured"
 phone: "(780) 850-1350"
 website: "https://friendstires.ca/"

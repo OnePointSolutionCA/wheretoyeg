@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Castle Downs"
 address: "9934 137 Ave NW #105, Edmonton, AB T5E 6W1"
 rating: 4.8
-review_count: 766
+review_count: 767
 tier: "featured"
 phone: "(587) 525-8248"
 website: "https://www.griesbachdentist.ca/?utm_source=google&utm_medium=organic&utm_campaign=nm_gbp_website&utm_content=website_button"

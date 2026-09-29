@@ -4,8 +4,8 @@ slug: "great-clips"
 category: "hair-salons"
 neighborhood: "Beaumont"
 address: "6410 50 St Ste 106, Beaumont, AB T4X 0B6"
-rating: 4.1
-review_count: 153
+rating: 4
+review_count: 154
 tier: "featured"
 phone: "(780) 929-2171"
 website: "https://salons.greatclips.com/ca/ab/beaumont/6410-50th-st?utm_source=google&utm_medium=organic&utm_campaign=gmb"

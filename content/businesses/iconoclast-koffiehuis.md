@@ -18,7 +18,7 @@ hours:
   sunday: "8:00 AM–6:00 PM"
 photos: ["/photos/iconoclast-koffiehuis-1.jpg", "/photos/iconoclast-koffiehuis-2.jpg", "/photos/iconoclast-koffiehuis-3.jpg"]
 rating: 4.6
-review_count: 773
+review_count: 774
 price_range: "$$"
 amenities:
   - "Espresso"

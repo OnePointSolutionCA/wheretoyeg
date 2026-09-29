@@ -19,7 +19,7 @@ hours:
   sunday: "5:00 AM–10:00 PM"
 photos: ["/photos/hawrelak-park-pond-ice-1.jpg", "/photos/hawrelak-park-pond-ice-2.jpg", "/photos/hawrelak-park-pond-ice-3.jpg"]
 rating: 4.6
-review_count: 1050
+review_count: 1051
 price_range: "$$"
 amenities:
 

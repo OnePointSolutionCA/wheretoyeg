@@ -18,8 +18,8 @@ hours:
   saturday: "9:00 AM–6:00 PM"
   sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/faded-barbershop-1.jpg", "/photos/faded-barbershop-2.jpg", "/photos/faded-barbershop-3.jpg"]
-rating: 4.7
-review_count: 444
+rating: 4.6
+review_count: 442
 price_range: "$$"
 amenities:
 
