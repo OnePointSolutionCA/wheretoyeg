@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "222 Baseline Rd #150, Sherwood Park, AB T8H 1S8"
 rating: 4.7
-review_count: 1179
+review_count: 1181
 tier: "featured"
 phone: "(780) 467-7427"
 website: "http://www.memphisbluesbbq.com/"

@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/la-poutine-1.jpg", "/photos/la-poutine-2.jpg", "/photos/la-poutine-3.jpg"]
 rating: 4.5
-review_count: 1169
+review_count: 1170
 price_range: "$"
 amenities:
   - "Dine-In"

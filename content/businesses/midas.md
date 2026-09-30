@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "13038 97 St NW, Edmonton, AB T5E 4C6"
 rating: 4.5
-review_count: 1093
+review_count: 1101
 tier: "featured"
 phone: "(587) 408-9941"
 website: "https://www.midas.com/store/ab/edmonton/13038-97th-street-t5e-4c6/?shopnum=9351&utm_source=google&utm_medium=organic&utm_campaign=gbp"

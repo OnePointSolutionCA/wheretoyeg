@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/jetco-mechanical-plumbing-heating-1.jpg", "/photos/jetco-mechanical-plumbing-heating-2.jpg", "/photos/jetco-mechanical-plumbing-heating-3.jpg"]
 rating: 4.9
-review_count: 235
+review_count: 236
 price_range: "$$"
 amenities:
 

@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–9:00 PM"
 photos: ["/photos/kelly-d-photography-dad-rock-studio-1.jpg", "/photos/kelly-d-photography-dad-rock-studio-2.jpg", "/photos/kelly-d-photography-dad-rock-studio-3.jpg"]
 rating: 4.7
-review_count: 24
+review_count: 25
 price_range: "$$"
 amenities:
 

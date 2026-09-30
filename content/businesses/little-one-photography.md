@@ -5,7 +5,7 @@ category: "photographers"
 neighborhood: "Edmonton"
 address: "4107 Kinsella Way SW, Edmonton, AB T6W 4J7"
 rating: 5
-review_count: 61
+review_count: 62
 tier: "featured"
 phone: "(780) 264-7302"
 website: "https://littleonephoto.com/"

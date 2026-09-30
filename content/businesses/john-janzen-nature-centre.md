@@ -18,7 +18,7 @@ hours:
   sunday: "10:00 AM - 5:00 PM"
 photos: ["/photos/john-janzen-nature-centre-1.jpg", "/photos/john-janzen-nature-centre-2.jpg", "/photos/john-janzen-nature-centre-3.jpg"]
 rating: 4.5
-review_count: 152
+review_count: 153
 price_range: "$"
 amenities:
   - "Family Friendly"

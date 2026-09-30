@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/jerusalem-shawarma-downtown-1.jpg", "/photos/jerusalem-shawarma-downtown-2.jpg", "/photos/jerusalem-shawarma-downtown-3.jpg"]
 rating: 4.9
-review_count: 5610
+review_count: 5649
 price_range: "$$"
 amenities:
   - "Halal"

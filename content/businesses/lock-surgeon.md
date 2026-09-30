@@ -20,7 +20,7 @@ hours:
   sunday: "7:30 AM–7:00 PM"
 photos: ["/photos/lock-surgeon-1.jpg", "/photos/lock-surgeon-2.jpg", "/photos/lock-surgeon-3.jpg"]
 rating: 4.2
-review_count: 1277
+review_count: 1287
 price_range: "$$"
 amenities:
 

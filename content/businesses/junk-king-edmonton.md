@@ -20,7 +20,7 @@ hours:
   sunday: "5:00 AM–10:00 PM"
 photos: ["/photos/junk-king-edmonton-1.jpg", "/photos/junk-king-edmonton-2.jpg", "/photos/junk-king-edmonton-3.jpg"]
 rating: 5
-review_count: 144
+review_count: 147
 price_range: "$$"
 amenities:
 

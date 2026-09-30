@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–7:00 PM"
 photos: ["/photos/laser-city-laser-tag-1.jpg", "/photos/laser-city-laser-tag-2.jpg", "/photos/laser-city-laser-tag-3.jpg"]
 rating: 4.6
-review_count: 883
+review_count: 885
 price_range: "$$"
 amenities:
 

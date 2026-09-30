@@ -11,16 +11,16 @@ phone: "(780) 760-1616"
 website: "http://www.japonais.ca/"
 google_maps_url: "https://maps.google.com/?cid=988580068688702368&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "11:30 AM–9:00 PM"
-  tuesday: "11:30 AM–10:00 PM"
-  wednesday: "11:30 AM–10:00 PM"
-  thursday: "11:30 AM–10:00 PM"
-  friday: "11:30 AM–11:00 PM"
-  saturday: "11:30 AM–11:00 PM"
-  sunday: "11:30 AM–9:00 PM"
+  monday: "11:30 AM–8:30 PM"
+  tuesday: "11:30 AM–9:30 PM"
+  wednesday: "11:30 AM–9:30 PM"
+  thursday: "11:30 AM–9:30 PM"
+  friday: "11:30 AM–10:30 PM"
+  saturday: "11:30 AM–10:30 PM"
+  sunday: "11:30 AM–8:30 PM"
 photos: ["/photos/japonais-bistro-1.jpg", "/photos/japonais-bistro-2.jpg", "/photos/japonais-bistro-3.jpg"]
 rating: 4.5
-review_count: 1860
+review_count: 1861
 price_range: "$$"
 amenities:
   - "Dine-In"

@@ -6,7 +6,7 @@ subcategory: "korean"
 neighborhood: "Mill Woods"
 address: "9219A 34 Ave NW, Edmonton, AB T6N 1K4"
 rating: 4.4
-review_count: 213
+review_count: 214
 tier: "featured"
 phone: "(780) 757-3612"
 website: "https://jungkoreanrestaurant.com/?utm_source=google&utm_medium=maps&utm_campaign=website"

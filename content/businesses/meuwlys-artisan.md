@@ -18,7 +18,7 @@ hours:
   sunday: "11:00 AM–3:00 PM"
 photos: ["/photos/meuwlys-artisan-1.jpg", "/photos/meuwlys-artisan-2.jpg", "/photos/meuwlys-artisan-3.jpg"]
 rating: 4.8
-review_count: 310
+review_count: 311
 price_range: "$$$"
 amenities:
   - "Takeout"

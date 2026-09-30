@@ -18,7 +18,7 @@ hours:
   sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/italian-centre-shop-1.jpg", "/photos/italian-centre-shop-2.jpg", "/photos/italian-centre-shop-3.jpg"]
 rating: 4.6
-review_count: 3304
+review_count: 3305
 price_range: "$$"
 amenities:
   - "Deli"

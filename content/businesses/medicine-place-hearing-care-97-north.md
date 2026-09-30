@@ -21,7 +21,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/medicine-place-hearing-care-97-north-1.jpg", "/photos/medicine-place-hearing-care-97-north-2.jpg", "/photos/medicine-place-hearing-care-97-north-3.jpg"]
 rating: 5.0
-review_count: 32
+review_count: 33
 price_range: "$$"
 amenities:
   - "Free Hearing Test"

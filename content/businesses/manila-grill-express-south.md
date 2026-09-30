@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Mill Woods"
 address: "6554 28 Ave NW, Edmonton, AB T6L 6N3"
 rating: 4.6
-review_count: 839
+review_count: 847
 tier: "featured"
 phone: "(780) 760-5222"
 website: "https://manilagrillexpress.ca/"

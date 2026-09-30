@@ -19,7 +19,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/m-nails-spa-1.jpg", "/photos/m-nails-spa-2.jpg", "/photos/m-nails-spa-3.jpg"]
 rating: 4.2
-review_count: 600
+review_count: 603
 price_range: "$$"
 amenities:
 

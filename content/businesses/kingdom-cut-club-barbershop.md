@@ -5,7 +5,7 @@ category: "barbers"
 neighborhood: "Castle Downs"
 address: "12909 97 St NW, Edmonton, AB T5E 4C2"
 rating: 4.8
-review_count: 274
+review_count: 275
 tier: "featured"
 phone: "(780) 406-0066"
 website: "https://kingdomcutclub.ca/"

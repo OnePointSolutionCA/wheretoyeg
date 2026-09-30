@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "7210 144 Ave NW #201, Edmonton, AB T5C 2R4"
 rating: 4.8
-review_count: 489
+review_count: 493
 tier: "featured"
 phone: "(587) 404-2401"
 website: "https://www.londonderrydentalchoice.ca/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Website_URL"

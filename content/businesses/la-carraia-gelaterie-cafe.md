@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/la-carraia-gelaterie-cafe-1.jpg", "/photos/la-carraia-gelaterie-cafe-2.jpg", "/photos/la-carraia-gelaterie-cafe-3.jpg"]
 rating: 4.6
-review_count: 631
+review_count: 633
 price_range: "$$"
 amenities:
   - "Dine-In"

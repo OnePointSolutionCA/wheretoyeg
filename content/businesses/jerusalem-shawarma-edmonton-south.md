@@ -15,12 +15,12 @@ hours:
   tuesday: "11:00 AM–10:00 PM"
   wednesday: "11:00 AM–10:00 PM"
   thursday: "11:00 AM–10:00 PM"
-  friday: "11:00 AM–12:00 AM"
-  saturday: "10:00 AM–12:00 AM"
+  friday: "11:00 AM–10:00 PM"
+  saturday: "10:00 AM–10:00 PM"
   sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/jerusalem-shawarma-edmonton-south-1.jpg", "/photos/jerusalem-shawarma-edmonton-south-2.jpg", "/photos/jerusalem-shawarma-edmonton-south-3.jpg"]
 rating: 4.9
-review_count: 22552
+review_count: 22775
 price_range: "$$"
 amenities:
   - "Halal"

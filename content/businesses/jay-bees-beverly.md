@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Beverly"
 address: "3633 118 Ave NW, Edmonton, AB T5W 0Z3"
 rating: 4.2
-review_count: 1163
+review_count: 1166
 tier: "featured"
 phone: "(780) 477-5885"
 website: "https://jaybeesdiner.com/"

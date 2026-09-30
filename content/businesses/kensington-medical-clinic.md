@@ -19,8 +19,8 @@ hours:
   saturday: "10:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/kensington-medical-clinic-1.jpg", "/photos/kensington-medical-clinic-2.jpg", "/photos/kensington-medical-clinic-3.jpg"]
-rating: 2.9
-review_count: 686
+rating: 3
+review_count: 685
 price_range: "$$"
 amenities:
 

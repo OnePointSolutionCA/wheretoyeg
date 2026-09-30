@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Windermere"
 address: "1313 175 St SW, Edmonton, AB T6W 4H3"
 rating: 5
-review_count: 1031
+review_count: 1032
 tier: "featured"
 phone: "(780) 434-3441"
 website: "https://www.keswick-dental.ca/"

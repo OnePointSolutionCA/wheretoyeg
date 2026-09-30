@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Windermere"
 address: "6055 Andrews Way SW, Edmonton, AB T6W 3S9"
 rating: 4.9
-review_count: 460
+review_count: 459
 tier: "featured"
 phone: "(780) 670-7282"
 website: "http://merakidentalclinic.ca/"
@@ -55,11 +55,11 @@ reviews:
       
       Highly recommend to anyone looking for a dentist who truly puts their patients first.
 hours:
-  monday: "Closed"
+  monday: "9:00 AM–3:00 PM"
   tuesday: "11:00 AM–7:00 PM"
-  wednesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–4:00 PM"
   thursday: "9:00 AM–8:00 PM"
-  friday: "9:00 AM–4:00 PM"
+  friday: "9:00 AM–5:00 PM"
   saturday: "9:00 AM–4:00 PM"
   sunday: "Closed"
 ---

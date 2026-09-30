@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/ly-nails---salon-spa-1.jpg", "/photos/ly-nails---salon-spa-2.jpg", "/photos/ly-nails---salon-spa-3.jpg"]
 rating: 4.6
-review_count: 397
+review_count: 399
 price_range: "$$"
 amenities:
 

@@ -18,7 +18,7 @@ hours:
   sunday: "8:00 AM–2:00 PM"
 photos: ["/photos/little-brick-cafe-1.jpg", "/photos/little-brick-cafe-2.jpg", "/photos/little-brick-cafe-3.jpg"]
 rating: 4.5
-review_count: 1498
+review_count: 1502
 price_range: "$$"
 amenities:
   - "Brunch"

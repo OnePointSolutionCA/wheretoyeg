@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/larres-barber-shop-1.jpg", "/photos/larres-barber-shop-2.jpg", "/photos/larres-barber-shop-3.jpg"]
 rating: 4.9
-review_count: 621
+review_count: 601
 price_range: "$$"
 amenities:
 
@@ -44,7 +44,7 @@ reviews:
     rating: 5
     comment: |
       Been coming here for years.  It's a "blast from the past." Like a barber shop from a bygone era.  Charming old building, no appointment, pay in cash, know you by name.  Friendly greeting.  Coffee.  Barber always cuts my hair the way I like it, and we have great conversations.  Highly recommended.
-  - name: "Osura Perera"
+  - name: "iamthatsomeone"
     rating: 5
     comment: |
       You need to come to this place, he has great service and is very friendly, and also he has been doing this for quite a long time, so experience and expertise are never less, and he is open-minded and has room to grow, so he will also do styles you wish to get done. You will be given a nice cup of coffee.

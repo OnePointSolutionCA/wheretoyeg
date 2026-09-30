@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Mill Woods"
 address: "2831 Mill Woods Rd NW, Edmonton, AB T6K 4A9"
 rating: 4.9
-review_count: 289
+review_count: 290
 tier: "featured"
 phone: "(780) 450-2331"
 website: "https://lakewooddentist.ca/?utm_source=google&utm_content=gbp"

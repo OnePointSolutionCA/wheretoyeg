@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/lets-eat-catering-1.jpg", "/photos/lets-eat-catering-2.jpg", "/photos/lets-eat-catering-3.jpg"]
 rating: 5
-review_count: 37
+review_count: 38
 price_range: "$$"
 amenities:
 

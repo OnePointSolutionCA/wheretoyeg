@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:30 PM"
 photos: ["/photos/jamaican-jerk-shak-1.jpg", "/photos/jamaican-jerk-shak-2.jpg", "/photos/jamaican-jerk-shak-3.jpg"]
 rating: 4.7
-review_count: 375
+review_count: 376
 price_range: "$"
 amenities:
   - "Dine-In"

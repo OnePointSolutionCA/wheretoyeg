@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/k-r-plumbing-and-heating-1.jpg", "/photos/k-r-plumbing-and-heating-2.jpg", "/photos/k-r-plumbing-and-heating-3.jpg"]
 rating: 5
-review_count: 214
+review_count: 216
 price_range: "$$"
 amenities:
 

@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "Windermere"
 address: "629 Cameron Heights Dr NW, Edmonton, AB T6M 0L9"
 rating: 4.6
-review_count: 1090
+review_count: 1098
 tier: "featured"
 phone: "(780) 818-1967"
 website: "https://malinabakery.ca/"

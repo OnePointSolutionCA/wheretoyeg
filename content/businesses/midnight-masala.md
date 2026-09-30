@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Beaumont"
 address: "5110 50 Ave, Beaumont, AB T4X 1E3"
 rating: 4.9
-review_count: 73
+review_count: 74
 tier: "featured"
 phone: "(403) 383-4351"
 google_maps: "https://maps.google.com/?cid=8133093691236825674&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

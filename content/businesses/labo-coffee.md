@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/labo-coffee-1.jpg", "/photos/labo-coffee-2.jpg", "/photos/labo-coffee-3.jpg"]
 rating: 4.8
-review_count: 293
+review_count: 297
 price_range: "$"
 amenities:
   - "Dine-In"

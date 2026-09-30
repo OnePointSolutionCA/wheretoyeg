@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–9:00 PM"
 photos: ["/photos/kerala-restaurant-authentic-south-indian-indo-chinese-cuisin-1.jpg", "/photos/kerala-restaurant-authentic-south-indian-indo-chinese-cuisin-2.jpg", "/photos/kerala-restaurant-authentic-south-indian-indo-chinese-cuisin-3.jpg"]
 rating: 4.8
-review_count: 91
+review_count: 92
 price_range: "$$"
 amenities:
   - "Halal"

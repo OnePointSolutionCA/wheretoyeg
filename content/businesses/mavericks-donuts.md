@@ -21,7 +21,7 @@ hours:
   sunday: "8:00 AM–7:00 PM"
 photos: ["/photos/mavericks-donuts-1.jpg", "/photos/mavericks-donuts-2.jpg", "/photos/mavericks-donuts-3.jpg"]
 rating: 4.2
-review_count: 326
+review_count: 327
 price_range: "$$"
 amenities:
   - "Vegan Options"

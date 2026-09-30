@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–8:45 PM"
 photos: ["/photos/meat-the-bun-1.jpg", "/photos/meat-the-bun-2.jpg", "/photos/meat-the-bun-3.jpg"]
 rating: 4.8
-review_count: 80
+review_count: 88
 price_range: "$"
 amenities:
   - "Dine-In"

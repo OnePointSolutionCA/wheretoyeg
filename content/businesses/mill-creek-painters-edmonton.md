@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/mill-creek-painters-edmonton-1.jpg", "/photos/mill-creek-painters-edmonton-2.jpg", "/photos/mill-creek-painters-edmonton-3.jpg"]
 rating: 4.7
-review_count: 202
+review_count: 203
 price_range: "$$"
 amenities:
 

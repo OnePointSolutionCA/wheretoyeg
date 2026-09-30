@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Mill Woods"
 address: "2331 66 St NW Unit 510, Edmonton, AB T6K 4B5"
 rating: 4.8
-review_count: 643
+review_count: 649
 tier: "featured"
 phone: "(587) 805-5940"
 website: "https://www.millwoodsdental.com/site/home?utm_source=G&utm_medium=LPM&utm_campaign=DentalCorp"

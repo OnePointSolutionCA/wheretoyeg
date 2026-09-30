@@ -5,8 +5,8 @@ category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Windermere"
 address: "2812 James Mowatt Trail SW, Edmonton, AB T6W 1A8"
-rating: 4.2
-review_count: 242
+rating: 4.3
+review_count: 243
 tier: "featured"
 phone: "(780) 433-0606"
 website: "https://www.lovepizza.ca/edmonton-heritage-valley"

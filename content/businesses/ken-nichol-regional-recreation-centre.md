@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Beaumont"
 address: "5303 50 St, Beaumont, AB T4X 1E5"
 rating: 4.2
-review_count: 223
+review_count: 224
 tier: "featured"
 phone: "(587) 357-1113"
 website: "https://www.beaumont.ab.ca/recreation-activities/facilities/ken-nichol-regional-rec-centre/"

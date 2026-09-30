@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/jan-pro-edmonton-1.jpg", "/photos/jan-pro-edmonton-2.jpg", "/photos/jan-pro-edmonton-3.jpg"]
 rating: 4.7
-review_count: 136
+review_count: 137
 price_range: "$$"
 amenities:
 

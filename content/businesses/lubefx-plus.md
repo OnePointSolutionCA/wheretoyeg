@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "12621 Fort Rd NW, Edmonton, AB T5C 3C1"
 rating: 4.2
-review_count: 1010
+review_count: 1012
 tier: "featured"
 phone: "(780) 457-7587"
 website: "https://lubefx.com/"

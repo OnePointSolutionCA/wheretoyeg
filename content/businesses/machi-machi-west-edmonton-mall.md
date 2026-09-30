@@ -19,8 +19,8 @@ hours:
   saturday: "10:00 AM–9:00 PM"
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/machi-machi-west-edmonton-mall-1.jpg", "/photos/machi-machi-west-edmonton-mall-2.jpg", "/photos/machi-machi-west-edmonton-mall-3.jpg"]
-rating: 4.5
-review_count: 36
+rating: 4.4
+review_count: 37
 price_range: "$$"
 amenities:
 

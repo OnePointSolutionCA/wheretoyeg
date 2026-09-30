@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "6331 76 Ave NW, Edmonton, AB T6B 0A6"
 rating: 4.6
-review_count: 172
+review_count: 176
 tier: "featured"
 phone: "(587) 709-1007"
 website: "https://ktservices.ca/"

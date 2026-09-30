@@ -20,8 +20,8 @@ hours:
   saturday: "10:00 AM–4:00 PM"
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/medicine-place-walk-in-clinic-downtown-1.jpg", "/photos/medicine-place-walk-in-clinic-downtown-2.jpg", "/photos/medicine-place-walk-in-clinic-downtown-3.jpg"]
-rating: 3.1
-review_count: 154
+rating: 3.2
+review_count: 155
 price_range: "$"
 amenities:
   - "Walk-ins Welcome"

@@ -6,7 +6,7 @@ subcategory: "middle-eastern"
 neighborhood: "Windermere"
 address: "1297 Windermere Way SW, Edmonton, AB T6W 2P3"
 rating: 4.9
-review_count: 4855
+review_count: 4876
 tier: "featured"
 phone: "(587) 400-9088"
 website: "https://jerusalem-edmonton.com/"

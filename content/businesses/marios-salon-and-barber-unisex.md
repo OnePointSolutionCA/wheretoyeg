@@ -5,7 +5,7 @@ category: "barbers"
 neighborhood: "Beaumont"
 address: "5025 52 Ave, Beaumont, AB T4X 1E5"
 rating: 4.7
-review_count: 287
+review_count: 289
 tier: "featured"
 phone: "(780) 929-5551"
 website: "https://marioshairsalon.com/"

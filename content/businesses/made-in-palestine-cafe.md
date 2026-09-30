@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–10:00 PM"
 photos: ["/photos/made-in-palestine-cafe-1.jpg", "/photos/made-in-palestine-cafe-2.jpg", "/photos/made-in-palestine-cafe-3.jpg"]
 rating: 4.8
-review_count: 217
+review_count: 226
 price_range: "$$"
 amenities:
   - "Halal"

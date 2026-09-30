@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–7:30 PM"
 photos: ["/photos/kokoriko-fried-chicken-1.jpg", "/photos/kokoriko-fried-chicken-2.jpg", "/photos/kokoriko-fried-chicken-3.jpg"]
 rating: 5
-review_count: 25
+review_count: 26
 price_range: "$"
 amenities:
   - "Dine-In"

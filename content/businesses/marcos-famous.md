@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–12:00 AM"
 photos: ["/photos/marcos-famous-1.jpg", "/photos/marcos-famous-2.jpg", "/photos/marcos-famous-3.jpg"]
 rating: 4.6
-review_count: 1693
+review_count: 1698
 price_range: "$"
 amenities:
   - "Halal"

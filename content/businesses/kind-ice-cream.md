@@ -21,7 +21,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/kind-ice-cream-1.jpg", "/photos/kind-ice-cream-2.jpg", "/photos/kind-ice-cream-3.jpg"]
 rating: 4.6
-review_count: 1345
+review_count: 1351
 price_range: "$$"
 amenities:
   - "Vegan Options"

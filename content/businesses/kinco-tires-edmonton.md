@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/kinco-tires-edmonton-1.jpg", "/photos/kinco-tires-edmonton-2.jpg", "/photos/kinco-tires-edmonton-3.jpg"]
 rating: 4.4
-review_count: 294
+review_count: 297
 price_range: "$$"
 amenities:
 

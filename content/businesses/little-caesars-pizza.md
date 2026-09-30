@@ -5,8 +5,8 @@ category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Beaumont"
 address: "6102 29 Ave #109, Beaumont, AB T4X 0H5"
-rating: 3.8
-review_count: 70
+rating: 3.7
+review_count: 71
 tier: "featured"
 phone: "(587) 474-1476"
 website: "https://littlecaesars.ca/"

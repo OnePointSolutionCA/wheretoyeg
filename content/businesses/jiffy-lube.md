@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "9608 165 Ave NW, Edmonton, AB T5Z 3L3"
 rating: 4.2
-review_count: 245
+review_count: 247
 tier: "featured"
 phone: "(780) 475-1234"
 website: "https://jiffylubeservice.ca/locations/edmonton/jiffy-edmonton-eaux-claires?utm_source=google&utm_medium=gmb&utm_content=1003/?utm_source=google&utm_medium=gmb"

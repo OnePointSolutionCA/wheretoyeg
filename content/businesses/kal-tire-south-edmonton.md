@@ -18,7 +18,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/kal-tire-south-edmonton-1.jpg", "/photos/kal-tire-south-edmonton-2.jpg", "/photos/kal-tire-south-edmonton-3.jpg"]
 rating: 4.2
-review_count: 409
+review_count: 410
 price_range: "$$"
 amenities:
   - "Free Estimates"

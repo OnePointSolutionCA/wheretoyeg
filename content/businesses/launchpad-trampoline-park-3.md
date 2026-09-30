@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–5:30 PM"
 photos: ["/photos/launchpad-trampoline-park-3-1.jpg", "/photos/launchpad-trampoline-park-3-2.jpg", "/photos/launchpad-trampoline-park-3-3.jpg"]
 rating: 4.5
-review_count: 2280
+review_count: 2282
 price_range: "$$"
 amenities:
 

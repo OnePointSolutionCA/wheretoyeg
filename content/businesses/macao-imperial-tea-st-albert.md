@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/macao-imperial-tea-st-albert-1.jpg", "/photos/macao-imperial-tea-st-albert-2.jpg", "/photos/macao-imperial-tea-st-albert-3.jpg"]
 rating: 4.9
-review_count: 86
+review_count: 87
 price_range: "$$"
 amenities:
   - "Dine-In"

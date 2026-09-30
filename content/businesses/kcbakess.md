@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–6:00 PM"
 photos: ["/photos/kcbakess-1.jpg", "/photos/kcbakess-2.jpg", "/photos/kcbakess-3.jpg"]
 rating: 4.7
-review_count: 151
+review_count: 153
 price_range: "$$"
 amenities:
   - "Dine-In"

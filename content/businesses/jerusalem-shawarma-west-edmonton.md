@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–10:00 PM"
 photos: ["/photos/jerusalem-shawarma-west-edmonton-1.jpg", "/photos/jerusalem-shawarma-west-edmonton-2.jpg", "/photos/jerusalem-shawarma-west-edmonton-3.jpg"]
 rating: 4.9
-review_count: 10624
+review_count: 10777
 price_range: "$$"
 amenities:
   - "Halal"

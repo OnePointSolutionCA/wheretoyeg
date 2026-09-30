@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/la-cocina-latina-1.jpg", "/photos/la-cocina-latina-2.jpg", "/photos/la-cocina-latina-3.jpg"]
 rating: 4.4
-review_count: 1294
+review_count: 1302
 price_range: "$$"
 amenities:
   - "Dine-In"

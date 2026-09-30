@@ -19,7 +19,7 @@ hours:
   sunday: "11:00 AM–2:00 PM"
 photos: ["/photos/menya-mori-1.jpg", "/photos/menya-mori-2.jpg", "/photos/menya-mori-3.jpg"]
 rating: 4.7
-review_count: 668
+review_count: 673
 price_range: "$$"
 amenities:
   - "Dine-In"

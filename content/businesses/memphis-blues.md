@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Castle Downs"
 address: "16907 127 St, Edmonton, AB T5X 5P5"
 rating: 4.5
-review_count: 908
+review_count: 910
 tier: "featured"
 phone: "(780) 758-7427"
 website: "http://www.memphisbluesbbq.com/"

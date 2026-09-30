@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–8:00 PM"
 photos: ["/photos/learnology-1.jpg", "/photos/learnology-2.jpg", "/photos/learnology-3.jpg"]
 rating: 4.8
-review_count: 69
+review_count: 70
 price_range: "$$"
 amenities:
 

@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/istanbul-kebab-and-donair-1.jpg", "/photos/istanbul-kebab-and-donair-2.jpg", "/photos/istanbul-kebab-and-donair-3.jpg"]
 rating: 4.8
-review_count: 2348
+review_count: 2367
 price_range: "$$"
 amenities:
   - "Halal"

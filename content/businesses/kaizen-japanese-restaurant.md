@@ -6,7 +6,7 @@ subcategory: "japanese"
 neighborhood: "St. Albert"
 address: "21 Perron St #100, St. Albert, AB T8N 1E7"
 rating: 4.3
-review_count: 198
+review_count: 199
 tier: "featured"
 phone: "(780) 418-0101"
 website: "http://kaizenjapaneserestaurant.com/"

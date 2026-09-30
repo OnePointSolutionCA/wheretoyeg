@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/lash-up-1.jpg", "/photos/lash-up-2.jpg", "/photos/lash-up-3.jpg"]
 rating: 4.4
-review_count: 399
+review_count: 398
 price_range: "$$"
 amenities:
 

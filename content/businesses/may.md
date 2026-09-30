@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "124 Street"
 address: "10522 124 St, Edmonton, AB T5N 1R9"
 rating: 4.4
-review_count: 260
+review_count: 261
 tier: "featured"
 phone: "(780) 438-6880"
 website: "http://www.restaurantmay.ca/"

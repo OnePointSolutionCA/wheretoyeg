@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "222 Baseline Rd #250, Sherwood Park, AB T8H1M4"
 rating: 4.8
-review_count: 6834
+review_count: 6889
 tier: "featured"
 phone: "(780) 467-6255"
 website: "https://joeyrestaurants.com/location/joey-sherwood"

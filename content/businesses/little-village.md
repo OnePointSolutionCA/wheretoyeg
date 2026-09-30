@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/little-village-1.jpg", "/photos/little-village-2.jpg", "/photos/little-village-3.jpg"]
 rating: 4.8
-review_count: 324
+review_count: 326
 price_range: "$$"
 amenities:
   - "Dine-In"

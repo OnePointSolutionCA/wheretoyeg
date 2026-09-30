@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "109th Street And Princess Elizabeth, #790, Edmonton, AB T5G 3A6"
 rating: 4.8
-review_count: 846
+review_count: 847
 tier: "featured"
 phone: "(780) 477-3340"
 website: "https://local.lenscrafters.com/canada/ab/edmonton/109th-street-and-princess-elizabeth.html?cid=yext_0932&y_source=1_MTIyMDI4Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
@@ -42,9 +42,9 @@ reviews:
 hours:
   monday: "10:00 AM–8:00 PM"
   tuesday: "10:00 AM–8:00 PM"
-  wednesday: "10:00 AM–8:00 PM"
+  wednesday: "11:00 AM–6:00 PM"
   thursday: "10:00 AM–8:00 PM"
   friday: "10:00 AM–8:00 PM"
-  saturday: "10:00 AM–8:00 PM"
-  sunday: "11:00 AM–6:00 PM"
+  saturday: "10:00 AM–7:00 PM"
+  sunday: "10:00 AM–6:00 PM"
 ---

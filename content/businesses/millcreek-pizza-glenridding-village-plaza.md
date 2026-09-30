@@ -5,8 +5,8 @@ category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Windermere"
 address: "16553 Rabbit Hill Rd SW, Edmonton, AB T6W 5P4"
-rating: 4.2
-review_count: 24
+rating: 4.1
+review_count: 26
 tier: "featured"
 phone: "(780) 784-3353"
 website: "http://millcreekpizza.com/"

@@ -5,7 +5,7 @@ category: "gyms-fitness"
 neighborhood: "Beaumont"
 address: "2803 Whitemud Dr NW, Edmonton, AB T6E 5B3"
 rating: 5
-review_count: 31
+review_count: 39
 tier: "featured"
 phone: "(587) 206-0060"
 website: "https://loregym.com/"
@@ -35,10 +35,10 @@ reviews:
       This gym features a unique selection of equipment and an impressive, albeit unfinished, posing room. It currently offers natural lighting for a realistic look, with plans to add professional stage lighting soon. The cardio machines, particularly the stair climbers, are high-quality, and the facility includes a wonderful sauna and a well-equipped classroom. I love the modern style of the bathrooms. If you are looking for a place to lift at any time of day, this is the gym for you; the staff is welcoming, and they even offer a discounted supplement bar. I can def see pull day here being crazy 😜
 hours:
   monday: "4:00 PM–6:00 PM"
-  tuesday: "4:00 PM–6:00 PM"
-  wednesday: "4:00 PM–6:00 PM"
-  thursday: "4:00 PM–6:00 PM"
-  friday: "4:00 PM–6:00 PM"
-  saturday: "12:00 PM–5:00 PM"
-  sunday: "Closed"
+  tuesday: "7:00 AM–11:00 PM"
+  wednesday: "7:00 AM–11:00 PM"
+  thursday: "7:00 AM–11:00 PM"
+  friday: "7:00 PM–11:00 PM"
+  saturday: "7:00 AM–11:00 PM"
+  sunday: "7:00 AM–11:00 PM"
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/lube-city-1.jpg", "/photos/lube-city-2.jpg", "/photos/lube-city-3.jpg"]
 rating: 4.7
-review_count: 863
+review_count: 866
 price_range: "$$"
 amenities:
 

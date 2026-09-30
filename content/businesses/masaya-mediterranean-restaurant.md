@@ -19,8 +19,8 @@ hours:
   saturday: "11:00 AM–11:30 PM"
   sunday: "11:00 AM–11:30 PM"
 photos: ["/photos/masaya-mediterranean-restaurant-1.jpg", "/photos/masaya-mediterranean-restaurant-2.jpg", "/photos/masaya-mediterranean-restaurant-3.jpg"]
-rating: 4.6
-review_count: 123
+rating: 4.5
+review_count: 128
 price_range: "$$"
 amenities:
   - "Dine-In"

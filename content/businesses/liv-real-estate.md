@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/liv-real-estate-1.jpg", "/photos/liv-real-estate-2.jpg", "/photos/liv-real-estate-3.jpg"]
 rating: 4.9
-review_count: 533
+review_count: 539
 price_range: "$$"
 amenities:
 

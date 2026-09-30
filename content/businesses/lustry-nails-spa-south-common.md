@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–7:00 PM"
 photos: ["/photos/lustry-nails-spa-south-common-1.jpg", "/photos/lustry-nails-spa-south-common-2.jpg", "/photos/lustry-nails-spa-south-common-3.jpg"]
 rating: 4.7
-review_count: 395
+review_count: 398
 price_range: "$$"
 amenities:
 

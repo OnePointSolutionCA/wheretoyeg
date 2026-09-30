@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–4:30 PM"
 photos: ["/photos/lube-techz-edmonton-oil-change-tire-services-1.jpg", "/photos/lube-techz-edmonton-oil-change-tire-services-2.jpg", "/photos/lube-techz-edmonton-oil-change-tire-services-3.jpg"]
 rating: 4.3
-review_count: 225
+review_count: 226
 price_range: "$$"
 amenities:
 

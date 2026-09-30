@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/mikado-downtown-1.jpg", "/photos/mikado-downtown-2.jpg", "/photos/mikado-downtown-3.jpg"]
 rating: 4.4
-review_count: 788
+review_count: 789
 price_range: "$$"
 amenities:
   - "Dine-In"

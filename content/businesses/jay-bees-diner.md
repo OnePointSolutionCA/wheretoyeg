@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "Castle Downs"
 address: "12707 140 Ave NW, Edmonton, AB T6V 1G5"
 rating: 4.3
-review_count: 1372
+review_count: 1377
 tier: "featured"
 phone: "(780) 456-1128"
 website: "https://jaybeesdiner.com/"

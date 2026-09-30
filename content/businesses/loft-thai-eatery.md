@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/loft-thai-eatery-1.jpg", "/photos/loft-thai-eatery-2.jpg", "/photos/loft-thai-eatery-3.jpg"]
 rating: 4.4
-review_count: 466
+review_count: 467
 price_range: "$$"
 amenities:
   - "Dine-In"

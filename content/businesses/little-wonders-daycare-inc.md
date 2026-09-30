@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/little-wonders-daycare-inc-1.jpg", "/photos/little-wonders-daycare-inc-2.jpg", "/photos/little-wonders-daycare-inc-3.jpg"]
 rating: 4.8
-review_count: 36
+review_count: 37
 price_range: "$$"
 amenities:
 

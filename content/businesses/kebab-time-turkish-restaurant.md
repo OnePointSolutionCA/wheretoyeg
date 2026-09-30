@@ -19,7 +19,7 @@ hours:
   sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/kebab-time-turkish-restaurant-1.jpg", "/photos/kebab-time-turkish-restaurant-2.jpg", "/photos/kebab-time-turkish-restaurant-3.jpg"]
 rating: 4.6
-review_count: 686
+review_count: 702
 price_range: "$$"
 amenities:
   - "Dine-In"

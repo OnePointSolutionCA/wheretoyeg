@@ -20,7 +20,7 @@ hours:
   sunday: "1:00 PM–12:00 AM"
 photos: ["/photos/linkup-gaming-cafe-1.jpg", "/photos/linkup-gaming-cafe-2.jpg", "/photos/linkup-gaming-cafe-3.jpg"]
 rating: 4.9
-review_count: 54
+review_count: 55
 price_range: "$$"
 amenities:
   - "Dine-In"

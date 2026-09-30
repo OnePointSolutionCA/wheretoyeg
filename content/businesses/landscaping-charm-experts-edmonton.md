@@ -20,7 +20,7 @@ hours:
   sunday: "7:00 AM–7:00 PM"
 photos: ["/photos/landscaping-charm-experts-edmonton-1.jpg", "/photos/landscaping-charm-experts-edmonton-2.jpg", "/photos/landscaping-charm-experts-edmonton-3.jpg"]
 rating: 4.9
-review_count: 67
+review_count: 69
 price_range: "$$"
 amenities:
 

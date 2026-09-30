@@ -21,7 +21,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/khan-kebabs-karahi-1.jpg", "/photos/khan-kebabs-karahi-2.jpg", "/photos/khan-kebabs-karahi-3.jpg"]
 rating: 4.6
-review_count: 2077
+review_count: 2104
 price_range: "$$"
 amenities:
   - "Halal"

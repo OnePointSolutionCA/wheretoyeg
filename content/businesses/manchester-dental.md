@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/manchester-dental-1.jpg", "/photos/manchester-dental-2.jpg", "/photos/manchester-dental-3.jpg"]
 rating: 4.7
-review_count: 415
+review_count: 414
 price_range: "$$"
 amenities:
 

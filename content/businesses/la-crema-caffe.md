@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "St. Albert"
 address: "44 St Thomas St, St. Albert, AB T8N 6N8"
 rating: 4.3
-review_count: 472
+review_count: 473
 tier: "featured"
 phone: "(780) 418-0534"
 google_maps: "https://maps.google.com/?cid=12725834162400523608&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

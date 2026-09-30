@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Spruce Grove"
 address: "636 King St, Spruce Grove, AB T7X 4K5"
 rating: 4
-review_count: 529
+review_count: 531
 tier: "featured"
 phone: "(780) 946-7172"
 website: "http://www.labezt.ca/"

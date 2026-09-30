@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "1 Londonderry Mall NW, Edmonton, AB T5C 3C8"
 rating: 4.3
-review_count: 141
+review_count: 144
 tier: "featured"
 phone: "(780) 476-3188"
 website: "http://www.londonderrydentalcentre2.com/"

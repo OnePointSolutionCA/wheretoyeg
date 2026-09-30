@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–4:00 PM"
 photos: ["/photos/lady-beas-english-tea-house-1.jpg", "/photos/lady-beas-english-tea-house-2.jpg", "/photos/lady-beas-english-tea-house-3.jpg"]
 rating: 4.5
-review_count: 562
+review_count: 565
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -47,7 +47,7 @@ reviews:
       Was here for a ladies' birthday tea for a party of 3 :) So glad that afternoon tea is staying strong, a couple other familiar places have disappeared over the years. Delicious options and sometimes for the seasonal events (eg. Mother's Day) there are extra little gifts to take home.
       
       For those with mobility concerns, there is accessible parking out front, a very wide ramp to the entrance, and a bathroom on the main floor.
-  - name: "Hailey N"
+  - name: "YEG Sparrow"
     rating: 5
     comment: |
       We love a special visit to Lady Bea's for Afternoon Tea. Their menu changes seasonally and it is nice to sample new goodies. The ambiance is delightful and staff is kind! The two times I have been, it has been very busy so we didn't see the waiter as much as we would like (water top ups, hot water for tea), but that's ok - it's tough when you've got a lot of tables to manage!

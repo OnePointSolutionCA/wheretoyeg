@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "10196 109 St NW, Edmonton, AB T5J 1M7"
 rating: 4.4
-review_count: 1014
+review_count: 1015
 tier: "featured"
 phone: "(587) 520-9734"
 website: "https://www.lovepizza.ca/edmonton-downtown-canterra"

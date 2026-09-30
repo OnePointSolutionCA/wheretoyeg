@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/kinder-care-medical-clinic-1.jpg", "/photos/kinder-care-medical-clinic-2.jpg", "/photos/kinder-care-medical-clinic-3.jpg"]
 rating: 3.7
-review_count: 99
+review_count: 100
 price_range: "$$"
 amenities:
 

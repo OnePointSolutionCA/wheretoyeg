@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–6:00 PM"
 photos: ["/photos/luxury-japanese-head-spa-1.jpg", "/photos/luxury-japanese-head-spa-2.jpg", "/photos/luxury-japanese-head-spa-3.jpg"]
 rating: 4.8
-review_count: 204
+review_count: 206
 price_range: "$$"
 amenities:
 

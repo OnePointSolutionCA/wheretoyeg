@@ -25,7 +25,7 @@ reviews:
       My friend and I went here for a facial/head spa service. First impression, absolutely beautiful. An old home revamped and designed with a upscale spa feel but cozy and welcoming vibes. We chatted with the owner when we walked in and she was very nice and personable. The esthetitions were knowlegdeable and had GREAT technique. The scalp work had me nearly needing a drool tray, and my face and hair felt so soft after the treatment. Highly recommend whether you want a pamper day, date night or group booking. And the prices were very reasonable compared to the city, huge bonus.
       
       Thank you LA laser and spa, we will be back!
-  - name: "Krysta F"
+  - name: "Krysta H"
     rating: 5
     comment: |
       The place is beautiful, the theme rooms are beyond lovely, Renee was delightful and kind and informative. She took extra time after my appointment to answer questions and share with me. The appointment/experience itself was amazing. All the little touches were appreciated.

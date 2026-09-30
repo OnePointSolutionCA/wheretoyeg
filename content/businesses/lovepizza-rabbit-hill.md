@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Windermere"
 address: "5011 Mullen Rd, Edmonton, AB T6R 0S9"
 rating: 4.3
-review_count: 297
+review_count: 299
 tier: "featured"
 phone: "(780) 440-3553"
 website: "https://www.lovepizza.ca/edmonton-rabbit-hill"
@@ -36,11 +36,11 @@ reviews:
     comment: |
       Encouraged by friends, we ordered a vegetarian pizza, plain cheese, and tater tots from LovePizza. Sadly, the ingredients were uniformly bland and lacked any real taste. Based on this order, it was more 'loathe' than 'Love'.
 hours:
-  monday: "10:00 AM–9:00 PM"
-  tuesday: "10:00 AM–9:00 PM"
-  wednesday: "10:00 AM–9:00 PM"
-  thursday: "10:00 AM–9:00 PM"
-  friday: "10:00 AM–11:00 PM"
-  saturday: "10:00 AM–11:00 PM"
-  sunday: "10:00 AM–9:00 PM"
+  monday: "11:00 AM–9:00 PM"
+  tuesday: "11:00 AM–9:00 PM"
+  wednesday: "11:00 AM–9:00 PM"
+  thursday: "11:00 AM–9:00 PM"
+  friday: "11:00 AM–11:00 PM"
+  saturday: "11:00 AM–11:00 PM"
+  sunday: "11:00 AM–9:00 PM"
 ---
