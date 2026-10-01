@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "9711 137 Ave NW, Edmonton, AB T5E 2C2"
 rating: 4.6
-review_count: 341
+review_count: 342
 tier: "featured"
 phone: "(780) 540-3500"
 website: "http://www.mydentalgroup.ca/"

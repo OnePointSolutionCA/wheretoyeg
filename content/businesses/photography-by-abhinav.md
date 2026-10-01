@@ -20,7 +20,7 @@ hours:
   sunday: "7:30 AM–11:30 PM"
 photos: ["/photos/photography-by-abhinav-1.jpg", "/photos/photography-by-abhinav-2.jpg", "/photos/photography-by-abhinav-3.jpg"]
 rating: 4.9
-review_count: 145
+review_count: 146
 price_range: "$$"
 amenities:
 

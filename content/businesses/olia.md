@@ -20,7 +20,7 @@ hours:
   sunday: "5:00 PM–10:00 PM"
 photos: ["/photos/olia-1.jpg", "/photos/olia-2.jpg", "/photos/olia-3.jpg"]
 rating: 4.4
-review_count: 483
+review_count: 486
 price_range: "$$$$"
 amenities:
   - "Dine-In"

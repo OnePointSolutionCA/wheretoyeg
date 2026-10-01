@@ -5,7 +5,7 @@ category: "cleaning-services"
 neighborhood: "Edmonton"
 address: "Twin Brooks, Edmonton, AB T6J 5A7"
 rating: 4.9
-review_count: 274
+review_count: 277
 tier: "featured"
 phone: "(780) 399-5578"
 website: "http://powercc.ca/"

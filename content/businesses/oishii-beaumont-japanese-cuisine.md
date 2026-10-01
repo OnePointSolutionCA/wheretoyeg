@@ -6,7 +6,7 @@ subcategory: "japanese"
 neighborhood: "Beaumont"
 address: "5302 50 St #108, Beaumont, AB T4X 2Y2"
 rating: 4.7
-review_count: 319
+review_count: 321
 tier: "featured"
 phone: "(780) 929-1883"
 website: "https://oishiibeaumont.my.canva.site/"

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/onkar-insurance-brokers-1.jpg", "/photos/onkar-insurance-brokers-2.jpg", "/photos/onkar-insurance-brokers-3.jpg"]
 rating: 4.9
-review_count: 599
+review_count: 597
 price_range: "$$"
 amenities:
 
@@ -40,12 +40,12 @@ reviews:
     rating: 1
     comment: |
       What’s the best way to talk to someone in a position of authority in this company. I am having trouble with Onkar insurance with unclear communication and lack of response to my emails. I have been overcharged for travel insurance for somebody who never entered Canada. Everytime I call I speak to a new person and they do nothing to follow up. I’m not getting a response in writing. They deliberately keep it verbal and there is no record of the promises they make. They keep sending me emails about charging me more for no reason at all. I have requested them to put me in touch with someone who can actually do something but they keep making me go round and round in circles. I need help if you are reading this. Please tell me how to reach you.
-  - name: "Gurpreet singh"
-    rating: 5
-    comment: |
-      I had an excellent experience working with Shyna. She was professional, knowledgeable and calm. She took time to explain all my options clearly and helped me choose the coverage that best fits my parents
   - name: "Prince Singla"
     rating: 5
     comment: |
       I had a great experience working with Shaina at Onkar Insurance for my Super Visa insurance needs. She is detail-oriented, thoughtful, and truly cares about her clients. She took the time to explain everything clearly and made the entire process smooth and stress-free. Her customer service is excellent, and I highly recommend her to anyone looking for reliable insurance guidance.
+  - name: "amandeep billing"
+    rating: 5
+    comment: |
+      I am very satisfied with the service provided by Kritika. She explained the entire process in detail and with patience. I highly recommend their services to anyone looking for reliable insurance advice.
 ---

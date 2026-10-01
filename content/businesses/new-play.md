@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "8882 170 St NW #1588, Edmonton, AB T5T 4V4"
 rating: 4
-review_count: 528
+review_count: 529
 tier: "featured"
 phone: "(780) 756-2455"
 website: "https://www.wem.ca/directory/stores/newplay"

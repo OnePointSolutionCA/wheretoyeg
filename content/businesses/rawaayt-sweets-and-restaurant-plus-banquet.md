@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–12:00 AM"
 photos: ["/photos/rawaayt-sweets-and-restaurant-plus-banquet-1.jpg", "/photos/rawaayt-sweets-and-restaurant-plus-banquet-2.jpg", "/photos/rawaayt-sweets-and-restaurant-plus-banquet-3.jpg"]
 rating: 4.5
-review_count: 79
+review_count: 80
 price_range: "$"
 amenities:
   - "Halal"

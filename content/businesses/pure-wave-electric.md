@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–5:00 PM"
 photos: ["/photos/pure-wave-electric-1.jpg", "/photos/pure-wave-electric-2.jpg", "/photos/pure-wave-electric-3.jpg"]
 rating: 5
-review_count: 265
+review_count: 269
 price_range: "$$"
 amenities:
 

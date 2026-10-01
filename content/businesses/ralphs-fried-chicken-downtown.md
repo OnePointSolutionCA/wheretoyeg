@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/ralphs-fried-chicken-downtown-1.jpg", "/photos/ralphs-fried-chicken-downtown-2.jpg", "/photos/ralphs-fried-chicken-downtown-3.jpg"]
 rating: 4.9
-review_count: 302
+review_count: 309
 price_range: "$"
 amenities:
   - "Takeout"

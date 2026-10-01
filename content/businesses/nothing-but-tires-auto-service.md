@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/nothing-but-tires-auto-service-1.jpg", "/photos/nothing-but-tires-auto-service-2.jpg", "/photos/nothing-but-tires-auto-service-3.jpg"]
 rating: 4.8
-review_count: 3587
+review_count: 3591
 price_range: "$$"
 amenities:
 
@@ -73,7 +73,7 @@ reviews:
       Thanks so much, guys, for making this such a good experience (:
       
       —Leland
-  - name: "Kai"
+  - name: "Kai Jasper (Kai)"
     rating: 5
     comment: |
       One of the best place for the tires .Everything is excellent from customer service to tires selection. The prices are very budget friendly,very nice waiting area with free snacks and drinks.

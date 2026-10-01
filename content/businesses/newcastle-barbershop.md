@@ -5,7 +5,7 @@ category: "barbers"
 neighborhood: "Castle Downs"
 address: "16979 127 St, Edmonton, AB T6V 0T1"
 rating: 4.8
-review_count: 378
+review_count: 382
 tier: "featured"
 phone: "(587) 523-5555"
 google_maps: "https://maps.google.com/?cid=4224043697053116281&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

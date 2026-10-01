@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "9450 137 Ave NW Unit 150, Edmonton, AB T5E 6C2"
 rating: 4.5
-review_count: 201
+review_count: 202
 tier: "featured"
 phone: "(780) 478-3205"
 website: "https://www.pearlevision.ca/pv-ca/stores/ab/edmonton/9841/?cid=Yext_9841&y_source=1_MTE2MTQzNy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"

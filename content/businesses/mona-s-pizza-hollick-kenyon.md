@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Castle Downs"
 address: "5954 153 Ave NW, Edmonton, AB T5Y 2W1"
 rating: 4.8
-review_count: 407
+review_count: 408
 tier: "featured"
 phone: "(780) 476-5072"
 website: "http://eatmonaspizza.com/"

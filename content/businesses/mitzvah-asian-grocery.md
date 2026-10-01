@@ -18,8 +18,8 @@ hours:
   saturday: "9:00 AM–7:00 PM"
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/mitzvah-asian-grocery-1.jpg", "/photos/mitzvah-asian-grocery-2.jpg", "/photos/mitzvah-asian-grocery-3.jpg"]
-rating: 4.5
-review_count: 8
+rating: 4.6
+review_count: 9
 price_range: "$$"
 amenities:
 
@@ -43,8 +43,8 @@ reviews:
     rating: 5
     comment: |
       Very friendly place. Great prices, fresh meat. Go have a look.
-  - name: "Erich Garcia"
+  - name: "Mike Hunt"
     rating: 5
     comment: |
-      I really appreciate the accountability this establishment has when handling about a defective product as they actually deal with the situation with communication. Definitely recommend. 😇
+      Everyone was very nice and welcoming.
 ---

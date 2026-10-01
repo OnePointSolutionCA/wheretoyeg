@@ -19,7 +19,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/obies-auto-repair-ltd-1.jpg", "/photos/obies-auto-repair-ltd-2.jpg", "/photos/obies-auto-repair-ltd-3.jpg"]
 rating: 4.6
-review_count: 85
+review_count: 86
 price_range: "$$"
 amenities:
 

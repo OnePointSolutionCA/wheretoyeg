@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/miraculous-maid-inc-1.jpg", "/photos/miraculous-maid-inc-2.jpg", "/photos/miraculous-maid-inc-3.jpg"]
 rating: 4.6
-review_count: 512
+review_count: 516
 price_range: "$$"
 amenities:
 

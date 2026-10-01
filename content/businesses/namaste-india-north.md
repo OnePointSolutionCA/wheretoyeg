@@ -6,7 +6,7 @@ subcategory: "indian-pakistani"
 neighborhood: "Castle Downs"
 address: "16741 100 St NW, Edmonton, AB T5X 3Z9"
 rating: 4.8
-review_count: 1405
+review_count: 1421
 tier: "featured"
 phone: "(780) 473-0234"
 website: "https://www.namasteindiaca.com/?location=135168014"
@@ -18,6 +18,10 @@ reviews:
     rating: 5
     comment: |
       First time at this location and it did not disappoint. The food and service were incredible! Our server went above and beyond for us & our son. The chef also came out to ensure we were enjoying our meal. We will definitely be back! Thanks for the great dining experience!!
+  - name: "Best Review"
+    rating: 5
+    comment: |
+      If you’re in North West Edmonton and craving authentic Indian cuisine, this restaurant is a gem! The flavors are spot-on, with the lamb curry being a standout—tender, spicy, and packed with flavor. The biryani is also exceptional, with just the right blend of spices and perfectly cooked rice. The staff are friendly and welcoming, making you feel right at home. The cozy atmosphere adds to the overall dining experience. Definitely a must-try if you’re in the area!
   - name: "Ruby Maan"
     rating: 1
     comment: |
@@ -40,10 +44,6 @@ reviews:
       The staff is friendly, welcoming, and provides excellent service, which makes the whole experience even better. The atmosphere is clean and comfortable, perfect for dine-in or takeout.
       
       Highly recommend this place if you’re craving authentic, delicious Indian food. We’ll definitely be coming back!
-  - name: "Nilantha Mapa"
-    rating: 1
-    comment: |
-      Ordered butter chicken combo, but received rice combo 😐,  butter chicken came as a side dish and not as the main course. Small portion, even butter naan also bad quality and dry.
 hours:
   monday: "11:00 AM–10:00 PM"
   tuesday: "11:00 AM–10:00 PM"

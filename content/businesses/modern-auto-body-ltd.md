@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/modern-auto-body-ltd-1.jpg", "/photos/modern-auto-body-ltd-2.jpg", "/photos/modern-auto-body-ltd-3.jpg"]
 rating: 4.8
-review_count: 356
+review_count: 359
 price_range: "$$"
 amenities:
 

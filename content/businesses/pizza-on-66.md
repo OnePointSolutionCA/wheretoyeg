@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "4240 66 St NW, Edmonton, AB T6K 4A2"
 rating: 4.9
-review_count: 90
+review_count: 94
 tier: "featured"
 phone: "(780) 850-2500"
 website: "https://www.pizzaon66.com/"

@@ -5,8 +5,8 @@ category: "medical"
 subcategory: "dentists"
 neighborhood: "Spruce Grove"
 address: "280 Pioneer Rd #318, Spruce Grove, AB T7X 2W3"
-rating: 4.9
-review_count: 65
+rating: 5
+review_count: 84
 tier: "featured"
 phone: "(780) 823-1555"
 website: "https://www.ourgrovedentist.ca/?utm_source=google&utm_medium=organic&utm_campaign=nm_gbp_website&utm_content=website_button"

@@ -18,7 +18,7 @@ hours:
   sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/nail-nerd-studio-1.jpg", "/photos/nail-nerd-studio-2.jpg", "/photos/nail-nerd-studio-3.jpg"]
 rating: 4.7
-review_count: 365
+review_count: 373
 price_range: "$$"
 amenities:
   - "Nail Art"

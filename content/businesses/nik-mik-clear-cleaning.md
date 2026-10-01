@@ -5,7 +5,7 @@ category: "cleaning-services"
 neighborhood: "Edmonton"
 address: "7098 Cardinal Way SW, Edmonton, AB T6W 1Z3"
 rating: 5
-review_count: 157
+review_count: 162
 tier: "featured"
 phone: "(780) 238-1818"
 website: "https://www.nikmikclearcleaning.ca/"

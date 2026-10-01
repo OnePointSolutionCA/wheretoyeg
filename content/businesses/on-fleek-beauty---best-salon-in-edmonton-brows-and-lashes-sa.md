@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/on-fleek-beauty---best-salon-in-edmonton-brows-and-lashes-sa-1.jpg", "/photos/on-fleek-beauty---best-salon-in-edmonton-brows-and-lashes-sa-2.jpg", "/photos/on-fleek-beauty---best-salon-in-edmonton-brows-and-lashes-sa-3.jpg"]
 rating: 4.9
-review_count: 277
+review_count: 279
 price_range: "$$$"
 amenities:
 

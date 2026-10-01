@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "11660 95 St, Edmonton, AB T5G 1L8"
 rating: 4.6
-review_count: 425
+review_count: 427
 tier: "featured"
 phone: "(780) 474-2456"
 website: "https://norwood-dental.ca/"

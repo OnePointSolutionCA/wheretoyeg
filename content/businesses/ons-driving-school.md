@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/ons-driving-school-1.jpg", "/photos/ons-driving-school-2.jpg", "/photos/ons-driving-school-3.jpg"]
 rating: 4.8
-review_count: 2758
+review_count: 2766
 price_range: "$$"
 amenities:
 

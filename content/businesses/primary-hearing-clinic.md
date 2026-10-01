@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Castle Downs"
 address: "10807 Castle Downs Rd NW Ste 214, Edmonton, AB T5X 3N7"
 rating: 5
-review_count: 95
+review_count: 96
 tier: "featured"
 phone: "(780) 929-4327"
 website: "https://primaryhearingclinic.com/"

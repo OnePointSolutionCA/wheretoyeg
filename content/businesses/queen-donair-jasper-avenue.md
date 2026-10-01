@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–3:30 AM"
 photos: ["/photos/queen-donair-jasper-avenue-1.jpg", "/photos/queen-donair-jasper-avenue-2.jpg", "/photos/queen-donair-jasper-avenue-3.jpg"]
 rating: 4.8
-review_count: 4562
+review_count: 4579
 price_range: "$"
 amenities:
   - "Halal"

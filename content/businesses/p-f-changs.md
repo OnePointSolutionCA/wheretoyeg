@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Windermere"
 address: "6303 Currents Dr NW, Edmonton, AB T6W 0L9"
 rating: 4.4
-review_count: 4108
+review_count: 4155
 tier: "featured"
 phone: "(780) 924-0478"
 website: "https://pfchangs.ca/"

@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–1:00 AM"
 photos: ["/photos/overklocked-gaming-1.jpg", "/photos/overklocked-gaming-2.jpg", "/photos/overklocked-gaming-3.jpg"]
 rating: 4.6
-review_count: 451
+review_count: 453
 price_range: "$$"
 amenities:
   - "Dine-In"

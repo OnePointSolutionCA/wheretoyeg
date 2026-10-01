@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/natan-barber-shop-1.jpg", "/photos/natan-barber-shop-2.jpg", "/photos/natan-barber-shop-3.jpg"]
 rating: 4.9
-review_count: 311
+review_count: 313
 price_range: "$$"
 amenities:
 

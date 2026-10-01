@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–9:00 PM"
 photos: ["/photos/myo-centre-massage-therapy-dr-of-acupuncture-manual-osteopat-1.jpg", "/photos/myo-centre-massage-therapy-dr-of-acupuncture-manual-osteopat-2.jpg", "/photos/myo-centre-massage-therapy-dr-of-acupuncture-manual-osteopat-3.jpg"]
 rating: 4.8
-review_count: 168
+review_count: 169
 price_range: "$$"
 amenities:
 

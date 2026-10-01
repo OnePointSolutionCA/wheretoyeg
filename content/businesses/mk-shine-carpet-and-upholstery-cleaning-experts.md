@@ -5,7 +5,7 @@ category: "cleaning-services"
 neighborhood: "Edmonton"
 address: "5189 Terwillegar Blvd NW, Edmonton, AB T6R 0S3"
 rating: 5
-review_count: 44
+review_count: 45
 tier: "featured"
 phone: "(587) 372-4798"
 website: "https://mkshine.ca/"

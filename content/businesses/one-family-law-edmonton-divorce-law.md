@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/one-family-law-edmonton-divorce-law-1.jpg", "/photos/one-family-law-edmonton-divorce-law-2.jpg", "/photos/one-family-law-edmonton-divorce-law-3.jpg"]
 rating: 5
-review_count: 24
+review_count: 30
 price_range: "$$"
 amenities:
 

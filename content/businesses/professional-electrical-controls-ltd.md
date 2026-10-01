@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/professional-electrical-controls-ltd-1.jpg", "/photos/professional-electrical-controls-ltd-2.jpg", "/photos/professional-electrical-controls-ltd-3.jpg"]
 rating: 4.7
-review_count: 224
+review_count: 226
 price_range: "$$"
 amenities:
 

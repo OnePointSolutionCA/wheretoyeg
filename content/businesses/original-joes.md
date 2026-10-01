@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Beaumont"
 address: "6410 50 St Unit 111, Beaumont, AB T4X 0B6"
 rating: 4.5
-review_count: 640
+review_count: 643
 tier: "featured"
 phone: "(780) 737-6565"
 website: "https://www.originaljoes.ca/en/locations/ab/beaumont/6410-50-st"

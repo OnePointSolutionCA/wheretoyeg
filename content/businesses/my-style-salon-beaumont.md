@@ -4,8 +4,8 @@ slug: "my-style-salon-beaumont"
 category: "spas-esthetics"
 neighborhood: "Beaumont"
 address: "5305 Magasin Ave #101, Beaumont, AB T4X 1T9"
-rating: 4.8
-review_count: 53
+rating: 4.7
+review_count: 55
 tier: "featured"
 phone: "(780) 737-5111"
 website: "https://mystylesalon.com/"

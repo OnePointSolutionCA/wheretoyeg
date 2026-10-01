@@ -19,8 +19,8 @@ hours:
   saturday: "10:30 AM–5:00 PM"
   sunday: "10:30 AM–5:00 PM"
 photos: ["/photos/orii-vegan-vegetarian-market-1.jpg", "/photos/orii-vegan-vegetarian-market-2.jpg", "/photos/orii-vegan-vegetarian-market-3.jpg"]
-rating: 4.7
-review_count: 113
+rating: 4.6
+review_count: 116
 price_range: "$$"
 amenities:
 

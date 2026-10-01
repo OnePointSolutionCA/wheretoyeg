@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/oh-my-dog-spa-and-grooming-1.jpg", "/photos/oh-my-dog-spa-and-grooming-2.jpg", "/photos/oh-my-dog-spa-and-grooming-3.jpg"]
 rating: 4.9
-review_count: 645
+review_count: 649
 price_range: "$$"
 amenities:
 

@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Mill Woods"
 address: "6420 28 Ave NW, Edmonton, AB T6L 6N3"
 rating: 5
-review_count: 116
+review_count: 118
 tier: "featured"
 phone: "(780) 463-0555"
 website: "https://millwoodsmainstreetdental.com/"

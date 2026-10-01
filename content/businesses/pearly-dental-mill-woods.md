@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Mill Woods"
 address: "103 Millbourne Rd E Northwest, Edmonton, AB T6K 1P6"
 rating: 4.9
-review_count: 441
+review_count: 443
 tier: "featured"
 phone: "(780) 250-1616"
 website: "https://www.pearlydental.ca/"

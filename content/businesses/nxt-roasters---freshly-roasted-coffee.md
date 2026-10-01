@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/nxt-roasters---freshly-roasted-coffee-1.jpg", "/photos/nxt-roasters---freshly-roasted-coffee-2.jpg", "/photos/nxt-roasters---freshly-roasted-coffee-3.jpg"]
 rating: 4.9
-review_count: 111
+review_count: 113
 price_range: "$$"
 amenities:
   - "Dine-In"

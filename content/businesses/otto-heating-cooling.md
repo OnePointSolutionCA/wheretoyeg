@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 AM–11:59 PM"
 photos: ["/photos/otto-heating-cooling-1.jpg", "/photos/otto-heating-cooling-2.jpg", "/photos/otto-heating-cooling-3.jpg"]
 rating: 4.9
-review_count: 693
+review_count: 697
 price_range: "$$"
 amenities:
 

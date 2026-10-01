@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/paws-veterinary-hospital-1.jpg", "/photos/paws-veterinary-hospital-2.jpg", "/photos/paws-veterinary-hospital-3.jpg"]
 rating: 4.8
-review_count: 101
+review_count: 103
 price_range: "$$"
 amenities:
 

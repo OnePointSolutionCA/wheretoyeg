@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "12704 137 Ave NW, Edmonton, AB T5L 1B9"
 rating: 4.3
-review_count: 1059
+review_count: 1060
 tier: "featured"
 phone: "(780) 456-8918"
 website: "https://www.mrlube.com/locations/15?utm_source=G&utm_medium=lpm&utm_campaign=MrLube"

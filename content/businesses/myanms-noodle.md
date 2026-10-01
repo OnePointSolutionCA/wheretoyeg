@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Beaumont"
 address: "5305 Magasin Ave #118, Beaumont, AB T4X 1V8"
 rating: 4.9
-review_count: 251
+review_count: 252
 tier: "featured"
 phone: "(587) 474-1415"
 website: "https://www.clover.com/online-ordering/myanmsnoodle"

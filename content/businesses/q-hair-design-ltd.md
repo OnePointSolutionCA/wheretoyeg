@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/q-hair-design-ltd-1.jpg", "/photos/q-hair-design-ltd-2.jpg", "/photos/q-hair-design-ltd-3.jpg"]
 rating: 4.9
-review_count: 271
+review_count: 272
 price_range: "$$$"
 amenities:
 

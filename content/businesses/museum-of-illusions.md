@@ -17,10 +17,10 @@ hours:
   thursday: "10:00 AM–9:00 PM"
   friday: "10:00 AM–10:00 PM"
   saturday: "10:00 AM–10:00 PM"
-  sunday: "11:00 AM–8:00 PM"
+  sunday: "11:00 AM–7:00 PM"
 photos: ["/photos/museum-of-illusions-1.jpg", "/photos/museum-of-illusions-2.jpg", "/photos/museum-of-illusions-3.jpg"]
 rating: 4.7
-review_count: 383
+review_count: 410
 price_range: "$$"
 amenities:
 

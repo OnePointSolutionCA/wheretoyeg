@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Spruce Grove"
 address: "420 King St #9, Spruce Grove, AB T7X 2C6"
 rating: 4.5
-review_count: 424
+review_count: 425
 tier: "featured"
 phone: "(780) 962-3936"
 website: "http://perkscoffeehouse.ca/"

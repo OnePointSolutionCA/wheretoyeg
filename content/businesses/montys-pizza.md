@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Windermere"
 address: "1027 Potter Greens Dr NW, Edmonton, AB T5T 6A4"
 rating: 4.6
-review_count: 592
+review_count: 596
 tier: "featured"
 phone: "(780) 443-1010"
 website: "http://montyspizza.ca/"

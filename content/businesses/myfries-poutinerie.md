@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/myfries-poutinerie-1.jpg", "/photos/myfries-poutinerie-2.jpg", "/photos/myfries-poutinerie-3.jpg"]
 rating: 4.6
-review_count: 851
+review_count: 854
 price_range: "$"
 amenities:
   - "Dine-In"

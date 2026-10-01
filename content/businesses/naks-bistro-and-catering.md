@@ -5,7 +5,7 @@ category: "catering"
 neighborhood: "Edmonton"
 address: "10451 172 St NW, Edmonton, AB T5S 1K9"
 rating: 4.8
-review_count: 330
+review_count: 331
 tier: "featured"
 phone: "(780) 489-1915"
 website: "http://www.nakscatering.com/"

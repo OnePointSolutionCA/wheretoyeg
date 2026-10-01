@@ -19,8 +19,8 @@ hours:
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/rayacom-inc-1.jpg", "/photos/rayacom-inc-2.jpg", "/photos/rayacom-inc-3.jpg"]
-rating: 4.1
-review_count: 109
+rating: 4
+review_count: 106
 price_range: "$$"
 amenities:
 
@@ -42,17 +42,16 @@ reviews:
       What I love most is their fast turnaround — sometimes even same-day — and their prices are very reasonable compared to others.
       
       They’ve made printing for my business easy and stress-free. Highly recommend them to anyone looking for reliable printing services in Edmonton!
-  - name: "Liam Anderson"
-    rating: 5
-    comment: |
-      Absolutely loved my custom packaging from Rayacom. The product boxes look premium and the structural design is solid. It made my small business feel
-      large and well polished.
-  - name: "Julian Bennett"
-    rating: 5
-    comment: |
-      Rayacom exceeded my expectations with their premium business cards. The finish feels luxurious, colours are rich, and the edges are perfectly done. I’ve received compliments almost every time I share one. Fast delivery too.
   - name: "NAVEED Nasa"
     rating: 5
     comment: |
       If you’re considering invitations that make a statement of elegance, with artisanal detail and enduring style, this package delivers. Highly recommended.
+  - name: "Lucas Bennett"
+    rating: 5
+    comment: |
+      I’ve used Rayacom for several print jobs now, and they’ve been consistently excellent. From business cards to brochures, the colour accuracy and paper quality are spot on. You can tell they care about details, and turnaround times are always reliable.
+  - name: "Brandon Fraser"
+    rating: 5
+    comment: |
+      Ordered custom stickers and labels for my product packaging, and I’m genuinely impressed. The vinyl feels durable, the cuts are clean, and the adhesive holds perfectly. Customer service was friendly and easy to work with—very smooth experience overall.
 ---

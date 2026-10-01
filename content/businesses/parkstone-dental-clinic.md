@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "7000 Emerald Dr # 915, Sherwood Park, AB T8H 0P5"
 rating: 4.9
-review_count: 840
+review_count: 847
 tier: "featured"
 phone: "(587) 269-2999"
 website: "http://www.parkstonedental.com/"

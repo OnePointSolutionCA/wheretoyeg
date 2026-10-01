@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/oliver-park-dental-1.jpg", "/photos/oliver-park-dental-2.jpg", "/photos/oliver-park-dental-3.jpg"]
 rating: 4.7
-review_count: 606
+review_count: 607
 price_range: "$$"
 amenities:
 

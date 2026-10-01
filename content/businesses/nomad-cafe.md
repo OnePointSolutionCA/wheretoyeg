@@ -18,7 +18,7 @@ hours:
   sunday: "7:30 AM–5:00 PM"
 photos: ["/photos/nomad-cafe-1.jpg", "/photos/nomad-cafe-2.jpg", "/photos/nomad-cafe-3.jpg"]
 rating: 4.6
-review_count: 354
+review_count: 355
 price_range: "$$"
 amenities:
   - "Espresso"

@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Beaumont"
 address: "6204 29 Ave, Beaumont, AB T4X 0H5"
 rating: 4.6
-review_count: 225
+review_count: 226
 tier: "featured"
 phone: "(825) 818-1818"
 website: "http://beaumont.pizza64.ca/"

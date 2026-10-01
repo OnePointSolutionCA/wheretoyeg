@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Windermere"
 address: "6131 Currents Dr NW, Edmonton, AB T6W 2Z4"
 rating: 4.9
-review_count: 325
+review_count: 326
 tier: "featured"
 phone: "(780) 430-4333"
 website: "https://www.phandental.com/"

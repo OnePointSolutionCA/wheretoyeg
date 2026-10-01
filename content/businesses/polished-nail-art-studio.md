@@ -18,7 +18,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/polished-nail-art-studio-1.jpg", "/photos/polished-nail-art-studio-2.jpg", "/photos/polished-nail-art-studio-3.jpg"]
 rating: 4.4
-review_count: 232
+review_count: 233
 price_range: "$$"
 amenities:
   - "Nail Art"

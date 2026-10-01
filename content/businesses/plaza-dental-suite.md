@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Windermere"
 address: "316 Windermere Rd NW #201, Edmonton, AB T6W 2Z8"
 rating: 5
-review_count: 22
+review_count: 26
 tier: "featured"
 phone: "(780) 416-3096"
 website: "https://plazadentalsuite.ca/?utm_source=google&utm_content=gbp"

@@ -5,7 +5,7 @@ category: "hair-salons"
 neighborhood: "Beaumont"
 address: "5005 50 St #104, Beaumont, AB T4X 1J9"
 rating: 4.9
-review_count: 94
+review_count: 95
 tier: "featured"
 phone: "(780) 700-7710"
 website: "http://www.musebeautyhaus.ca/"

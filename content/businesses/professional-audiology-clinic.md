@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "11010 101 St NW #107, Edmonton, AB T5H 4B9"
 rating: 4.9
-review_count: 191
+review_count: 192
 tier: "featured"
 phone: "(587) 735-5936"
 website: "https://profaudiology.com/locations/ab/edmonton/"

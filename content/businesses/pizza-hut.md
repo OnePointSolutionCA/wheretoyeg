@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Beaumont"
 address: "5012 50 St Unit 102, Beaumont, AB T4X 1E7"
 rating: 3.7
-review_count: 207
+review_count: 211
 tier: "featured"
 phone: "(780) 929-0031"
 website: "https://www.pizzahut.ca/huts/R62001"

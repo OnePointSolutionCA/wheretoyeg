@@ -12,15 +12,15 @@ website: "https://playdencafe.ca/"
 google_maps_url: "https://maps.google.com/?cid=4529248711670982539&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "9:00 AM–4:00 PM"
-  tuesday: "9:00 AM–4:00 PM"
+  tuesday: "12:00 PM–4:00 PM"
   wednesday: "9:00 AM–4:00 PM"
   thursday: "9:00 AM–4:00 PM"
   friday: "9:00 AM–4:30 PM"
-  saturday: "9:00 AM–5:00 PM"
-  sunday: "9:00 AM–3:00 PM"
+  saturday: "9:00 AM–3:00 PM"
+  sunday: "9:00 AM–2:00 PM"
 photos: ["/photos/playden-kids-cafe-1.jpg", "/photos/playden-kids-cafe-2.jpg", "/photos/playden-kids-cafe-3.jpg"]
 rating: 4.8
-review_count: 67
+review_count: 71
 price_range: "$$"
 amenities:
 

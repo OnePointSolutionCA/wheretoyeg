@@ -19,8 +19,8 @@ hours:
   saturday: "12:00 PM–7:30 PM"
   sunday: "Closed"
 photos: ["/photos/pho-4-seasons-1.jpg", "/photos/pho-4-seasons-2.jpg", "/photos/pho-4-seasons-3.jpg"]
-rating: 4.7
-review_count: 231
+rating: 4.8
+review_count: 232
 price_range: "$"
 amenities:
   - "Dine-In"

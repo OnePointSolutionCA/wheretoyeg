@@ -15,10 +15,10 @@ hours:
   thursday: "8:00 AM–8:00 PM"
   friday: "8:00 AM–8:00 PM"
   saturday: "8:00 AM–6:00 PM"
-  sunday: "8:00 AM–6:00 PM"
+  sunday: "9:00 AM–6:00 PM"
 photos: ["/photos/mr-lube-edmonton-1.jpg", "/photos/mr-lube-edmonton-2.jpg", "/photos/mr-lube-edmonton-3.jpg"]
-rating: 4
-review_count: 641
+rating: 4.1
+review_count: 792
 price_range: "$"
 amenities:
   - "Walk-Ins"
@@ -28,51 +28,40 @@ tags: ["oil-change", "quick-service", "no-appointment"]
 active: true
 date_listed: "2026-08-18"
 reviews:
-  - name: "John Denver"
-    rating: 1
-    comment: |
-      Went in for an oil change and to get my tires swapped over, expecting it to take 45 minutes like it has before. Came back after 2 hours to find my car still without tires on it, 3 other cars and been  in and out that had came in after me. When i asked the manager why it was taking so long he said it is what it is. meko did the work, dont leave your car if you want the work to be done in a normal amount of time, had to pick up my car the next day i was almost late for an appointment becuase it took so long, morning staff was good maybe only go in the morning if you want work to be done
-  - name: "Lyndsie Elliott"
+  - name: "ACE"
     rating: 5
     comment: |
-      Absolutely phenomenal service as always. This is my favorite place for my vehicle maintenance and have been coming here for years. Services are always well done and thorough. I trust their recommendations, never feel sales pressure, and always given an estimate of how urgent a service actually is.
+      Fantastic experience from start to finish! I pulled right in with no appointment and the team got to work immediately. I love that you can just stay in your car while they handle everything. The service was incredibly fast, efficient, and surprisingly affordable. They even cleaned my windows and checked my tire pressure. I will definitely be coming back for my next oil change!
+  - name: "Sam T."
+    rating: 1
+    comment: |
+      My first experience was excellent. I brought my car in and stayed while they worked on it. The team was careful, thorough, respectful, and communicated clearly about the work being done. I was genuinely impressed and satisfied with the service, which is why I decided to return six months later.
       
-      On top an excellent experience, the workers are always friendly and super personable. Shout out to Charlie and his friend (sorry I didn’t catch your name), you were both awesome!
+      Unfortunately, my second experience was the complete opposite. This time, I left the vehicle with them and went out for lunch with a friend after being told the car would be ready in about two hours. When I returned two and a half hours later, my vehicle was still sitting there with the tires removed and nobody working on it, while the staff were busy with other vehicles. When I asked for an update, I was told “about half an hour,” but the vehicle was not ready until 5:30 PM after being dropped off at noon.
       
-      Thank you!!
-  - name: "Lance Dugay"
+      To make matters worse, three of the tire lug nuts were damaged. The damage was clearly fresh, but instead of taking responsibility, the supervisor immediately tried to shift the blame by asking where I had the work done previously. When I told him it was actually their shop, he had no response, yet they still refused to admit responsibility.
+      
+      The biggest issue here is the inconsistency in professionalism and accountability. One visit showed excellent workmanship and communication, while the next demonstrated poor time management, lack of honesty, and disregard for the customer’s time.
+      
+      From my experience, it seems that if you stay there and watch while the work is being done, your vehicle gets proper attention and is completed on time. However, once you leave the vehicle and are no longer present, it feels like the priority shifts toward impressing customers who are waiting in person, while other vehicles are left unattended for hours.
+      
+      The shop clearly has capable workers, but the overall service standard is inconsistent and unreliable, which is disappointing.
+  - name: "EJ A"
+    rating: 1
+    comment: |
+      Horrible customer service. Overcharged for a mistake they made. The recent negative reviews are reflective of the experience you will have. The lower price will be offset by additional fees paid due to the technician’s own incompetence.
+      
+      When asked for manager contact, Harjeet said call tomorrow instead of taking responsibility for their mistake. They even tried to get a signature to sign off on their error and made me pay for it. If you are the manager reading this, take this as a heads up that your techs will cause many more bad reviews.
+  - name: "Mary Gero"
+    rating: 1
+    comment: |
+      I'm not sure if ownership or management changed recently, but I attended here last Saturday for an oil change and was told my transmission fluid needed to be changed, and I was also told I should get the rust spray for the underside of my car. So I did the services without researching and paid almost $700. I was asked to come back in a couple days to re-check my transmission fluid as it was so dirty and they would do it again for free if needed. I went back last night and they did it free, but then I was told, my brake fluid needed to be flushed and was told it was $400, but that they would charge me $300 because I was a repeat customer. They tried to make me pre-pay and the invoice was $360. I said I would come back, but I called my normal Fountain Tire and they told me they charge $125 for a brake flush and that their transmission fluid change was also slightly lower than what I just paid at Mr. Lube.
+      
+      I now have a very bad taste in my mouth and will never attend this location again, probably never attend another Mr. Lube again if I'm being honest, as I just feel like they took advantage of me because I am a woman, and then since it worked on Saturday, they tried again.
+      
+      People l, me included, are already struggling in this economy and being swindled out of more, really upsets me.
+  - name: "Target Pest Control"
     rating: 5
     comment: |
-      Just got my tires changed at Mr. Lube + Tires and honestly, the service was amazing. The team was super friendly and made everything really easy to understand. Perry, the assistant manager, took the time to actually educate me on what my car needed, walked me through the findings, and explained what should be done next without any pressure. Really appreciate how honest and helpful he was. Definitely coming back here, highly recommend!
-      
-      This is your sign to go get your tires changed for winter!
-  - name: "Harsh Kishan Parekh"
-    rating: 1
-    comment: |
-      I had an extremely disappointing and frustrating experience at the Mr. Lube location on Calgary Trail in Edmonton.
-      
-      I stopped by just to get my tire pressure checked, and what should have been a simple and quick visit turned into an unnecessary and unpleasant interaction. An employee named Dan (badge read “Dan – Operations”) immediately started asking for my vehicle details and pushing additional services. I clearly told him that I had already completed my servicing elsewhere and simply mentioned, as general feedback, that I find Mr. Lube’s services to be quite expensive.
-      
-      Instead of taking that professionally, his response was shockingly inappropriate. Out of nowhere, he commented that “I need to pay my guys as well” and implied that they cannot be doing something like tire pressure checks for free. This came across as rude, defensive, and completely uncalled for. If there was a charge, it should have been communicated upfront—not thrown in as a passive-aggressive remark after the fact.
-      
-      Customer service 101 is to treat feedback respectfully. You don’t argue with customers or make them feel uncomfortable for simply sharing their opinion. This interaction felt more like being lectured than being served.
-      To make things worse:
-      
-      I was told I would receive an invoice by email, and I still haven’t received anything.
-      There was a clear attempt to push additional services despite me explicitly declining.
-      The overall tone was dismissive and unprofessional.
-      
-      If you want to charge for a service like tire pressure checks, that’s completely fine—but communicate it clearly and professionally. Don’t make customers feel like they’ve done something wrong for walking in.
-      
-      Dan also mentioned he would like to earn my business. Unfortunately, after this kind of interaction, that is not going to happen. This is simply not how you treat customers.
-      
-      Car details (for reference): White Honda Civic – Plate: CPV-8343
-      
-      Overall, a very poor experience. I will not be returning, and I would strongly recommend management reviews how customers are being spoken to at this location.
-  - name: "Mohammed Nait Taleb Ali"
-    rating: 1
-    comment: |
-      If I can give them less than that 1 star I’ll do it .I went there for one simple service, oil change and they immediately tried to sell me multiple extra services — including a fuel system cleaning that they recommended, not me. Right after they did it, and payed more than 4
-      $480 my car started blowing heavy smoke and running poorly, something it never did before. The dealer later found issues with the catalytic converter and O2 sensors.
-      Even though the problem happened right after their recommended service, they refused to take any responsibility and just said they “do thousands of these with no issues.” Very disappointing and no accountability. I will never recommend this service .
+      I had a great experience at Mr. Lube thanks to Iqbal. He was very professional, friendly, and explained everything clearly before doing the service. He worked efficiently and made sure my car was taken care of properly. It’s always nice dealing with someone who genuinely cares about the customer experience. I highly recommend asking for Iqbal if you visit this location!
 ---

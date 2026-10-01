@@ -18,7 +18,7 @@ hours:
   sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/pho-anh-huyen-1.jpg", "/photos/pho-anh-huyen-2.jpg", "/photos/pho-anh-huyen-3.jpg"]
 rating: 4.6
-review_count: 221
+review_count: 222
 price_range: "$"
 amenities:
   - "Dine-In"

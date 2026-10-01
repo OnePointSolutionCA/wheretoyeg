@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–10:00 PM"
 photos: ["/photos/rayyan-restaurant-1.jpg", "/photos/rayyan-restaurant-2.jpg", "/photos/rayyan-restaurant-3.jpg"]
 rating: 4.8
-review_count: 1019
+review_count: 1029
 price_range: "$"
 amenities:
   - "Halal"

@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/oakberry-aa-bowls-smoothies-1.jpg", "/photos/oakberry-aa-bowls-smoothies-2.jpg", "/photos/oakberry-aa-bowls-smoothies-3.jpg"]
 rating: 4.7
-review_count: 184
+review_count: 187
 price_range: "$"
 amenities:
   - "Dine-In"

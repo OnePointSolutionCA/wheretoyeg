@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "975 Broadmoor Blvd, Sherwood Park, AB T8A 5W9"
 rating: 4.8
-review_count: 732
+review_count: 782
 tier: "featured"
 phone: "(780) 410-7877"
 website: "https://pursimple.com/"

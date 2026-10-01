@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/pro-nails-spa-1.jpg", "/photos/pro-nails-spa-2.jpg", "/photos/pro-nails-spa-3.jpg"]
 rating: 4.4
-review_count: 1093
+review_count: 1100
 price_range: "$$"
 amenities:
 

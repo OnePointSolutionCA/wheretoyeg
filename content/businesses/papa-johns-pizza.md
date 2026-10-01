@@ -37,8 +37,8 @@ reviews:
     comment: |
       I ordered 4 pizzas. They came late, and what I ordered did not show up. So I complained to the driver. He told me that he could order another one but I would have to pay for it. I declined. We took it in and started to eat it. It was probably the worst pizza I've had.. It was stale and hard. I've ordered pizza from there before and have never had a problem. So I called. The employee who answered hung up on me. He then called me back and offered me a credit. I told him I didn't want it, I wanted a refund. I asked for the manager and he told me they would call me back. After 15 minute, I went in. The manager was the same man who delivered it and he was very rude. I told him my complaints. He told me he would not refund me for any of it. I could complain to corporate, but that was it. I'm livid.  Just a word of caution. Their business practices and customer service is terrible.
 hours:
-  monday: "11:00 AM–11:00 PM"
-  tuesday: "11:00 AM–8:00 PM"
+  monday: "3:00 PM–8:00 PM"
+  tuesday: "11:00 AM–11:00 PM"
   wednesday: "11:00 AM–11:00 PM"
   thursday: "11:00 AM–11:00 PM"
   friday: "11:00 AM–11:00 PM"

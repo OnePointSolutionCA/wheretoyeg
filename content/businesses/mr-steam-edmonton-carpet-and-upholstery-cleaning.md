@@ -5,7 +5,7 @@ category: "cleaning-services"
 neighborhood: "Edmonton"
 address: "7108 16 Ave SW, Edmonton, AB T6X 0H3"
 rating: 5
-review_count: 97
+review_count: 98
 tier: "featured"
 phone: "(780) 292-6465"
 website: "https://www.mrsteamedmonton.ca/"

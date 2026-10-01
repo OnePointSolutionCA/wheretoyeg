@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/niche-climbing-1.jpg", "/photos/niche-climbing-2.jpg", "/photos/niche-climbing-3.jpg"]
 rating: 4.8
-review_count: 164
+review_count: 165
 price_range: "$$"
 amenities:
 

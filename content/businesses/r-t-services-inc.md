@@ -6,7 +6,7 @@ subcategory: "general-repair"
 neighborhood: "Edmonton"
 address: "8528 126 Ave NW, Edmonton, AB T5B 1G6"
 rating: 4.8
-review_count: 215
+review_count: 216
 tier: "featured"
 phone: "(780) 292-5180"
 google_maps: "https://maps.google.com/?cid=12564000768550517269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

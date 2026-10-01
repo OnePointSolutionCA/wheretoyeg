@@ -20,7 +20,7 @@ hours:
   sunday: "1:00 PM–7:00 PM"
 photos: ["/photos/plaza-bowling-co-1.jpg", "/photos/plaza-bowling-co-2.jpg", "/photos/plaza-bowling-co-3.jpg"]
 rating: 4.7
-review_count: 871
+review_count: 873
 price_range: "$$"
 amenities:
 

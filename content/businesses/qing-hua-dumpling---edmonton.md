@@ -19,8 +19,8 @@ hours:
   saturday: "11:30 AM–9:00 PM"
   sunday: "11:30 AM–8:30 PM"
 photos: ["/photos/qing-hua-dumpling---edmonton-1.jpg", "/photos/qing-hua-dumpling---edmonton-2.jpg", "/photos/qing-hua-dumpling---edmonton-3.jpg"]
-rating: 4.6
-review_count: 95
+rating: 4.5
+review_count: 98
 price_range: "$"
 amenities:
   - "Dine-In"

@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Sherwood Park"
 address: "667 Wye Rd #180, Sherwood Park, AB T8B 0E5"
 rating: 5
-review_count: 170
+review_count: 172
 tier: "featured"
 phone: "(780) 918-5678"
 website: "https://www.oliveivorydental.ca/"

@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–1:00 PM"
 photos: ["/photos/movenetics-physiotherapy-1.jpg", "/photos/movenetics-physiotherapy-2.jpg", "/photos/movenetics-physiotherapy-3.jpg"]
 rating: 5
-review_count: 333
+review_count: 342
 price_range: "$$"
 amenities:
   - "Dine-In"

@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Beaumont"
 address: "7601 115 St NW, Edmonton, AB T6G 0K5"
 rating: 4.5
-review_count: 411
+review_count: 415
 tier: "featured"
 phone: "(780) 760-6663"
 website: "https://moodcafebakery.com/"
