@@ -3,6 +3,7 @@ title: "Best Italian Restaurants in Edmonton (2026) — Pasta, Pizza & Fine Dini
 seoTitle: "Best Italian Restaurants in Edmonton 2026 — Pasta & Pizza | WhereToYEG"
 slug: "best-italian-restaurants-edmonton-2026"
 description: "Where to find the best Italian food in Edmonton. Fresh pasta, wood-fired pizza, fine dining — the Italian restaurants worth booking a table at."
+draft: true
 publishedDate: "2026-09-21"
 tags: ["italian", "pasta", "restaurants", "fine-dining", "edmonton"]
 ---

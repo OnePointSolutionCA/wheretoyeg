@@ -25,7 +25,6 @@ Halal buyers: several of the meat and prepared-food vendors are halal-certified 
 Whyte has restaurants in every direction from 104 Street to 109 Street. Some go-to picks:
 
 - **[Padmanadi Vegetarian](/restaurants/padmanadi-vegetarian)** — Southeast Asian and Indonesian plant-based dishes. Big portions, no alcohol, Edmonton institution.
-- **[Langano Skies Ethiopian](/restaurants/langano-skies)** on 82 Ave — communal-plate injera dinners. Vegetarian-friendly, alcohol-free.
 - **[Checkers Pizza & Kabab](/restaurants/checkers-pizza-kabab)** — halal pizza and kebab spot that's been on the strip for 16+ years.
 
 Browse all [Whyte Ave / Old Strathcona businesses](/neighborhoods/whyte-ave).
@@ -34,11 +33,9 @@ Browse all [Whyte Ave / Old Strathcona businesses](/neighborhoods/whyte-ave).
 
 Whyte Ave has always been about walking. Poke into vintage shops, record stores, and independents. If you need a proper break, book a treatment at one of the spas — see [Best spas in Edmonton](/blog/best-spas-edmonton-2026).
 
-## Late afternoon: board games, cafe crawl, or read
+## Late afternoon: cafe crawl or read
 
-**[Table Top Cafe Edmonton](/activities-fun/table-top-cafe-edmonton)** on Whyte has 500+ board games and a cover charge by the hour. Perfect rainy-afternoon plan with a friend or a date.
-
-Otherwise, another coffee at Rogue Wave. Nobody's counting.
+Grab a second coffee at Rogue Wave or Credo, find a window seat, and read. Nobody's counting.
 
 ## Dinner (5–9pm)
 
@@ -47,7 +44,7 @@ Otherwise, another coffee at Rogue Wave. Nobody's counting.
 
 Browse the full [restaurants list on WhereToYEG](/restaurants).
 
-## Late night: dessert or drinks (10pm+)
+## Late night: dessert and boba (10pm+)
 
 For late-night sweets and coffee options that are alcohol-free:
 - **[Kind Ice Cream](/cafes-coffee-shops/kind-ice-cream)** — small-batch ice cream, sorbets, affogato options.

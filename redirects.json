@@ -63,5 +63,20 @@
     "source": "/activities-fun/hide-n-seek-indoor-playground-and-cafe",
     "destination": "/activities-fun/hide-n-seek-indoor-playground-cafe",
     "permanent": true
+  },
+  {
+    "source": "/blog/best-italian-restaurants-edmonton-2026",
+    "destination": "/blog/best-pizza-edmonton-2026",
+    "permanent": true
+  },
+  {
+    "source": "/blog/best-mexican-food-edmonton-2026",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/blog/best-sushi-japanese-food-edmonton-2026",
+    "destination": "/blog/halal-sushi-edmonton",
+    "permanent": true
   }
 ]

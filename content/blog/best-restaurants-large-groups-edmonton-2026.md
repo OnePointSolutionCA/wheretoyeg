@@ -20,27 +20,23 @@ It's not just about having a big table. The things that matter when you're 10+:
 
 ## Best for 10-15 people
 
-**Japonais Bistro** has private and semi-private dining rooms that fit up to 16. Japanese cuisine works perfectly for sharing — sashimi platters, tempura, robata. They'll build a set menu if you call ahead. Downtown, easy parking nearby.
+**[Turquaz Kebab House](/restaurants/turquaz-kebab-house)** (4.7★, 9,000+ Google reviews) is one of the most-reviewed restaurants in the city. Halal, with kebab platters, lamb chops, and desserts built for passing around. Book ahead on weekends.
 
-**Sabor** does Latin-inspired sharing plates and they're used to handling big parties. The tapas format means everyone orders a few things for the table and you pass plates around. No one gets stuck waiting for their entree while everyone else eats.
+**[Khan Kebabs & Karahi](/restaurants/khan-kebabs-karahi)** (4.6★, 2,100+ reviews) does Pakistani, Afghan, and Middle Eastern dishes, all halal. Reviewers mention fast, attentive service, which matters when you're feeding a dozen people.
 
-**Rostizado** is the Mexican-inspired sister to Sabor. Same sharing-plate approach, bigger space. Order a couple of platters and let people build their own tacos. Ask which proteins are pork if anyone at the table avoids it.
+**[Taste of Pakistan](/restaurants/taste-of-pakistan)** (4.8★, 1,000+ reviews) is a halal karahi spot. Order a few karahis and a stack of naan for the middle of the table.
 
 ## Best for 15-20+ people
 
-**MEAT** on Whyte Ave can handle large groups and the steakhouse format works — shared appetizers, everyone picks their own protein. The atmosphere is loud enough that your group won't be the problem table.
+**[BB2 Korean BBQ & Buffet](/restaurants/bb2-korean-bbq-buffet)** in West Edmonton is a Korean BBQ buffet. Everyone cooks their own food, so there's no ordering bottleneck, and the buffet format means nobody waits on a slow plate.
 
-**DOSC** downtown has a private dining space and handles corporate groups regularly. More upscale, good for work events or celebrations where you need it to look polished.
-
-**Korean BBQ spots** are secretly the best group dining option in Edmonton. **Gogi Korean BBQ** can seat large groups across multiple tabletop grills. Everyone cooks their own food, so there's no ordering bottleneck. Plus, banchan refills are free.
+**[Root of Beirut](/restaurants/root-of-beirut)** (4.4★, 1,300+ reviews) is halal Lebanese with portions reviewers keep calling huge. Mezze, shawarma, and grill plates scale easily to a big table.
 
 ## Best casual / no-reservation spots
 
-**Three Boars** on Whyte Ave is gastropub-style with a communal-table setup that naturally fits groups. Walk in, push some tables together, order rounds of snacks and drinks. No formality, no deposits.
+**[Jerusalem Shawarma Downtown](/restaurants/jerusalem-shawarma-downtown)** (4.9★, 5,600+ reviews) is the easy, affordable call for a crowd. Halal, fast, and everyone can order their own.
 
-**Have Mercy** downtown does Southern comfort food — fried chicken, brisket, mac and cheese — in a space that's built for noise. Perfect for a birthday or going-away dinner where the vibe matters more than the tablecloth.
-
-**Cartago** is a newer Latin spot that handles groups well. The ceviche and sharing plates are designed to go around the table.
+**[Fattoush](/restaurants/fattoush)** on Whyte Ave (5.0★) works for a relaxed group lunch. Shareable Mediterranean plates and generous portions.
 
 ## Tips for booking
 
@@ -48,7 +44,7 @@ It's not just about having a big table. The things that matter when you're 10+:
 - **Book 2 weeks out minimum.** Private rooms go fast, especially Thursday-Saturday.
 - **Ask about set menus.** Most restaurants offer a fixed-price group menu ($45-75/person) that includes appetizers, mains, and sometimes dessert. It's almost always better value and faster service.
 - **Confirm 48 hours before.** Restaurants hold large-group reservations loosely. One missed confirmation call and your table is gone.
-- **Handle the bill before it arrives.** Decide if it's one card, split evenly, or Venmo before the server asks. Nothing kills a dinner like 12 people doing math.
+- **Handle the bill before it arrives.** Decide if it's one card, split evenly, or e-Transfer before the server asks. Nothing kills a dinner like 12 people doing math.
 
 ## Halal-friendly group dining
 

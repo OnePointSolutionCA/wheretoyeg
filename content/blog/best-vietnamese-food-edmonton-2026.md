@@ -21,8 +21,6 @@ Pho is the gateway, and Edmonton does it right.
 
 [Pho Anh Huyen](/restaurants/pho-anh-huyen) has been serving Edmonton for years. Their special combination pho is loaded — brisket, tendon, tripe, rare beef — and the broth has that deep, star anise-forward flavor that pho purists want.
 
-[Pho 4 Seasons](/restaurants/pho-4-seasons) is a reliable neighborhood spot. Good broth, generous portions, and the kind of place where regulars don't even need to order because the staff already knows.
-
 [Pho Boat Vietnamese](/restaurants/pho-boat-vietnamese) brings a slightly different take with a rich, full-bodied broth. A solid choice if you're on the south side.
 
 ## Beyond pho
@@ -31,15 +29,9 @@ Pho is the gateway, and Edmonton does it right.
 
 [Hanoi Pho Vietnamese Kitchen](/restaurants/hanoi-pho-vietnamese-kitchen) specializes in northern Vietnamese cooking. Hanoi-style pho is different from the southern version — cleaner broth, fewer toppings, and the focus is entirely on the soup itself.
 
-[Halong Bay Noodle House](/restaurants/halong-bay-noodle-house) is known for its noodle soups beyond pho. If you've never tried bun bo hue — the spicy, lemongrass-heavy beef noodle soup from Hue — this is a great place to start.
-
-[Saigon Delights](/restaurants/saigon-delights) and [Saigon Taste](/restaurants/saigon-taste) both serve southern Vietnamese comfort food. Spring rolls, vermicelli, and the kind of dishes that make you feel like you're eating at someone's home in District 1.
-
 ## Modern and fusion
 
 [Kanto 98 Street Eats](/restaurants/kanto-98-street-eats) brings Filipino-Vietnamese crossover flavors to the mix. It's not traditional, but it's delicious.
-
-[Lemongrass Cafe Windermere](/cafes-coffee-shops/lemongrass-cafe-windermere) is the suburban option with a polished feel. Good for families and anyone in the Windermere area who doesn't want to drive to the north side for Vietnamese.
 
 ## Tips for ordering
 

@@ -15,19 +15,17 @@ Edmonton has plenty of expensive restaurants. It has fewer that get the full exp
 
 First dates should not happen at fine dining restaurants. The pressure is too high, the menu is intimidating, and if it's not going well you're stuck for two hours.
 
-**[Pip](/restaurants/pip)** does modern brunch and dinner in a space that's stylish without being stiff. The menu is approachable, portions are shareable, and the energy is conversational. If the date is going badly, you can wrap up in 45 minutes without it being awkward.
-
 **[Fattoush](/restaurants/fattoush)** on Whyte Ave is a 5.0★ Mediterranean spot with nearly 500 Google reviews. Shareable plates, relaxed room, and an easy walk along Whyte afterwards.
 
-**[Cartago](/restaurants/cartago)** is Latin-inspired with sharing plates. Ordering a bunch of small plates together is inherently collaborative, which is better first-date energy than two people staring at their own entrees in silence.
+**[Blue Marlin](/restaurants/blue-marlin)** (4.8★) is a fresh, Mediterranean-leaning seafood spot. Reviewers single out the fish couscous and seafood pasta. Small enough to feel personal, casual enough to stay low-pressure.
 
 ## Anniversary or special occasion
 
-These are the "we're celebrating something" restaurants, where the bill is a deliberate splurge and the experience matches it.
+These are the "we're celebrating something" restaurants, where the meal feels like an occasion.
 
-**[Japonais Bistro](/restaurants/japonais-bistro)** has an intimate atmosphere and the food is precise. The omakase-style approach (let the chef decide) takes the pressure off ordering and creates a shared experience. Black cod, sashimi, and robata: every course is a conversation starter.
+**[Turquaz Kebab House](/restaurants/turquaz-kebab-house)** (4.7★, 9,000+ reviews) is one of the most-loved restaurants in Edmonton. Halal, with lamb chops and kebabs that reviewers rave about, and desserts worth saving room for.
 
-**[DOSC](/restaurants/dosc)** downtown is the power-dinner option. Polished and modern. It's where you take someone when you want the restaurant itself to make a statement.
+**[Masaya Mediterranean Restaurant](/restaurants/masaya-mediterranean-restaurant)** (4.5★) gets praise for plates that arrive fresh and beautifully presented. A good pick when you want the food to feel special without a formal room.
 
 ## Halal date night
 
@@ -51,11 +49,9 @@ Sometimes the best date skips dinner entirely.
 
 If you want to actually hear each other without shouting:
 
-**[Sabor](/restaurants/sabor-restaurant)** on weeknights is excellent. The sharing plates give you things to discuss, the space is intimate, and the Tuesday-Wednesday crowd is small enough that the noise stays low.
-
-**[Café Bicyclette](/cafes-coffee-shops/cafe-bicyclette)** is a French-inspired spot that stays genuinely quiet. It's a slower pace, and the servers read the room about timing.
-
 **[Padmanadi Vegetarian](/restaurants/padmanadi-vegetarian)** downtown is fully vegetarian and 4.7★ across 2,600+ reviews. Calm room, big menu, easy on the wallet.
+
+**[Hanoi Pho Vietnamese Kitchen](/restaurants/hanoi-pho-vietnamese-kitchen)** (4.9★) is small and quiet. Two bowls of pho and a long conversation is an underrated date.
 
 ## What to know
 

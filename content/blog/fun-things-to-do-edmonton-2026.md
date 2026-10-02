@@ -11,8 +11,6 @@ Edmonton has way more to do than people give it credit for. Beyond the malls and
 
 ## Arcades and gaming
 
-[Arkadium Retro Arcade](/activities-fun/arkadium-retro-arcade) is a dream for anyone who grew up in arcades. Retro cabinets, pinball machines, and the satisfying clunk of physical buttons. Great for a nostalgic night out.
-
 [ARCstage Arcade](/activities-fun/arcstage-arcade) brings a modern arcade experience. A good mix of classic games and newer setups that'll keep you planted for hours.
 
 [ClawPark](/activities-fun/clawpark) and [Claw Me Crazy](/activities-fun/claw-me-crazy) are dedicated claw machine spots — rows of machines filled with plushies, figures, and prizes. Weirdly addictive and surprisingly fun for groups.

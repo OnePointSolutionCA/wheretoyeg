@@ -21,8 +21,6 @@ Picking a caterer is one of those decisions that looks simple until you're three
 
 **[Chappelle Kitchen Catering](/catering/chappelle-kitchen-catering)** (4.9★, 260+ Google reviews) — Family-run Middle Eastern and Mediterranean catering that shows up at a lot of Edmonton weddings. Reviewers single out how fresh the food is and how easy the chef is to work with.
 
-**[Thrive Catering Co.](/catering/thrive-catering-co)** (5.0★) — Chef-driven feast menus for weddings and private dinners. Couples mention the menu flexibility for mixed dietary needs and a team that handles the night start to finish.
-
 **[Classic Corporate Catering Inc](/catering/classic-corporate-catering-inc)** (5.0★) — Built for offices. Finger-food spreads, holiday meals, individually packaged dinners, and easy drop-off and pick-up. One reviewer ordered for 60 and fed 100.
 
 ## Halal catering

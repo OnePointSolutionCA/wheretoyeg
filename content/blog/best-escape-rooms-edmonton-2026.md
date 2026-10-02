@@ -56,10 +56,6 @@ Laser tag isn't just for kids' birthdays anymore. The Edmonton spots have steppe
 
 Sometimes you just want to throw a heavy ball at some pins and eat fries.
 
-**[Plaza Bowling Co.](/activities-fun/plaza-bowling-co)** — 4.7 stars. The best bowling experience in Edmonton. Retro vibes, proper lanes, and the kind of place that makes bowling feel cool again.
-
-**[Gateway Lanes](/activities-fun/gateway-lanes)** — 4.4 stars. Classic Edmonton bowling alley. No-frills, honest lanes, good prices.
-
 **[Bronx Bowling](/activities-fun/bronx-bowling)** — 3.9 stars. More of a nightlife + bowling combo. Good for groups who want drinks and lanes together.
 
 ## Which activity fits your group?

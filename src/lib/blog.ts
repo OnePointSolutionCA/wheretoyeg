@@ -20,10 +20,11 @@ export function getBlogPosts(): BlogPost[] {
   return fs
     .readdirSync(DIR)
     .filter((f) => f.endsWith(".md"))
-    .map((file) => {
+    .map((file): BlogPost | null => {
       const raw = fs.readFileSync(path.join(DIR, file), "utf8");
       const { data, content } = matter(raw);
       const words = content.trim().split(/\s+/).length;
+      if (data.draft === true) return null;
       return {
         slug: (data.slug as string) || file.replace(/\.md$/, ""),
         title: data.title as string,
@@ -35,6 +36,7 @@ export function getBlogPosts(): BlogPost[] {
         readingMinutes: Math.max(2, Math.round(words / 220)),
       };
     })
+    .filter((p): p is BlogPost => p !== null)
     .sort((a, b) => b.publishedDate.localeCompare(a.publishedDate));
 }
 

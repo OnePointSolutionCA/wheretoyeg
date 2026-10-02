@@ -3,6 +3,7 @@ title: "Best Sushi & Japanese Food in Edmonton (2026) — Ramen, Izakaya & Omaka
 seoTitle: "Best Sushi Restaurants in Edmonton 2026 — Japanese Food Near Me | WhereToYEG"
 slug: "best-sushi-japanese-food-edmonton-2026"
 description: "Edmonton's best Japanese restaurants — sushi, ramen, izakaya small plates, and omakase experiences. From all-you-can-eat to chef's counter."
+draft: true
 publishedDate: "2026-08-30"
 tags: ["sushi", "japanese", "ramen", "restaurants", "guides"]
 ---
@@ -13,15 +14,9 @@ Edmonton's Japanese food scene splits into two lanes: the all-you-can-eat sushi 
 
 Izakaya is the Japanese equivalent of a tapas bar — small plates, drinks, and a casual atmosphere. It's the best way to eat Japanese food with a group because you order a dozen things and share everything.
 
-**Japonais Bistro** is the gold standard in Edmonton. Their robata-grilled items (skewers cooked over charcoal) are exceptional. The black cod is the dish people come back for — miso-glazed, caramelized, and falling apart. They also do sashimi and nigiri at a higher level than most sushi restaurants in the city.
-
 ## Sushi — beyond all-you-can-eat
 
 AYCE sushi is an Edmonton institution and there's nothing wrong with it. But if you want sushi where the fish quality and rice preparation actually matter:
-
-**Japonais Bistro** again — their nigiri is cut to order and the rice is seasoned properly. Not every sushi restaurant in Edmonton gets the rice right, and it's literally half the dish.
-
-**Sushi AI** in South Edmonton does solid mid-range sushi. Good lunch specials, consistent quality, and they don't drown everything in spicy mayo.
 
 ## Ramen
 

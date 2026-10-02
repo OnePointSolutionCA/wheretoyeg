@@ -27,21 +27,19 @@ Book a group of 4–6. Anything smaller feels sparse, anything bigger and half t
 
 **[Escape City Edmonton](/activities-fun/escape-city-edmonton)** — themed rooms from heists to mysteries. Great for date nights, birthdays, and corporate team-building. 4.8 stars.
 
-## Arcades, esports & video games
+## VR arcades & video games
 
-**[Waypoint Esports Lounge](/activities-fun/waypoint-esports-lounge)** — high-end gaming PCs, console booths, PS5/Xbox rentals by the hour. LAN parties, tournaments, kids' birthday parties. 4.7 stars.
+**[Game OVR](/activities-fun/game-ovr)** — VR arcade with 4.8 stars across nearly 600 reviews. Good for groups and birthday parties.
 
-**[The Rec Room](/activities-fun/rec-room-edmonton)** at West Edmonton Mall — massive entertainment complex. Arcade games, VR, axe throwing, ping pong, shuffleboard, mini bowling, and a food hall. Family-sized fun.
+**[Thrill Lands VR](/activities-fun/thrill-lands-vr-wem1)** at West Edmonton Mall — 4.9 stars. Easy to pair with the rest of a mall day.
+
+**[Another World VR & RC Gaming](/activities-fun/another-world-vr-rc-gaming)** — VR plus RC racing, a perfect 5.0 from its reviewers.
 
 ## Padel & racquet sports
 
 Padel is the fastest-growing racquet sport in the country — think tennis on a smaller court with glass walls you can play off. Easy to pick up, hard to master.
 
 **[Padel Alberta](/activities-fun/padel-alberta)** — dedicated padel courts, coaching, drop-in nights, and league play.
-
-## Bowling
-
-**[Gateway Lanes](/activities-fun/gateway-lanes)** — classic Edmonton bowling. 5-pin and 10-pin, glow bowling on weekends, birthday party packages that actually deliver.
 
 ## Trampoline parks
 
@@ -55,15 +53,9 @@ Coached in the first 10 minutes, so everyone in your group can actually hit the 
 
 **[BATL Axe Throwing Edmonton](/activities-fun/batl-axe-throwing-edmonton)** — walk-ins, private groups, corporate events. 4.7 stars over 340 reviews.
 
-## Karting
+## Racing simulators
 
-**[Grand Prix Kartways](/activities-fun/grand-prix-kartways)** — indoor go-karting on 178 St. Karts hit 50+ km/h. Great birthday party option that also works for corporate.
-
-## Board game cafes
-
-For the rainiest, most miserable Saturdays.
-
-**[Table Top Cafe Edmonton](/activities-fun/table-top-cafe-edmonton)** — 500+ board games available to play in-cafe, plus coffee, snacks, and light meals. Cover charge by the hour. Perfect first-date low-pressure option.
+**[TraqLab](/activities-fun/traqlab)** — pro-grade racing simulators, 5.0 stars over 680+ reviews. The closest thing to track time without leaving the city.
 
 ## Mini golf
 

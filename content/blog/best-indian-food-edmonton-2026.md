@@ -21,17 +21,14 @@ Biryani separates serious Indian restaurants from the rest. Good biryani takes t
 
 Butter chicken, dal makhani, naan fresh from the tandoor — North Indian comfort food is what most Edmontonians think of when they think "Indian food." These places do it best:
 
-- **[New Asian Village](/restaurants/new-asian-village-largest-indian-buffet-in-edmonton)** — Edmonton's largest Indian buffet, and it's been around long enough that your parents probably ate here too. The butter chicken is consistent, the selection is massive, and the value is hard to beat for a group.
-- **[Zaika of India](/restaurants/zaika-of-india)** — Reliable North Indian menu with standout tandoori dishes. The lamb chops and paneer tikka are worth ordering every time.
-- **[Bahubali Indian Cuisine](/restaurants/bahubali-indian-cuisine-edmonton)** — Large portions, bold spicing, and a menu that covers the full range of North Indian classics without cutting corners.
-- **[Lufi Indian Cuisine](/restaurants/lufi-indian-cuisine)** — A newer addition that's quickly earned a loyal following. Clean flavours, good spice balance, and portions that don't leave you hungry.
-- **[Namaste India](/restaurants/namaste-india-north)** — Solid all-rounder for North Indian food. The tikka masala and garlic naan are consistently good.
+- **[Circle of Flavors](/restaurants/circle-of-flavors)** — Halal, 4.8★ across 400+ Google reviews. A strong all-rounder for curries and tandoor dishes.
+- **[Tarrka House by Sareng](/restaurants/tarrka-house-by-sareng-restauranthalal)** — Halal, 4.5★, and a favourite with families.
+- **[Virsa Sweets & Restaurant](/restaurants/virsa-sweets-and-restaurant)** — In Beaumont, 4.4★. One reviewer drove in from Wetaskiwin and called it worth every kilometre. Save room for the sweets counter.
 
 ## South Indian
 
 South Indian food is a different world — dosas, idli, uttapam, sambar, coconut chutneys. It's lighter, more rice-based, and often vegetarian.
 
-- **[Kerala Restaurant](/restaurants/kerala-restaurant-authentic-south-indian-indo-chinese-cuisin)** — One of the few places in Edmonton doing authentic South Indian food. The dosas are crispy and large, the sambar is properly spiced, and the Indo-Chinese dishes (Manchurian, chili chicken) are a welcome bonus.
 - **[Namaste Diner](/restaurants/namaste-diner)** — South Indian breakfast items alongside North Indian staples. Good for when one person wants dosa and another wants butter chicken.
 
 ## Pakistani and Punjabi crossover

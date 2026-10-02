@@ -15,23 +15,21 @@ Here's the honest rundown.
 
 Edmonton has proper Korean BBQ spots with the gas grills built into the table, banchan spreads, and the whole ritual. The key difference between a good one and a bad one: quality of the meat cuts and whether the banchan gets refilled without you asking.
 
-**Gogi Korean BBQ** in South Edmonton is the crowd favourite. The marinated galbi is the move — sweet, charred, wrapped in lettuce with a dab of ssamjang. They don't rush you. Expect to spend 90 minutes and leave uncomfortably full.
+**[BB2 Korean BBQ & Buffet](/restaurants/bb2-korean-bbq-buffet)** in West Edmonton is an all-you-can-eat Korean BBQ buffet. One reviewer who has tried a lot of them ranks it first, and the format is ideal for groups.
 
-**The Bob Story Korean Kitchen** does a more modern take. Smaller menu, but every dish is tight. The bulgogi is thinner-sliced than most places in Edmonton, closer to what you'd get in Koreatown.
+**[The Bob Story Korean Kitchen](/restaurants/the-bob-story-korean-kitchen)** (5.0★) has a huge menu and generous portions. Reviewers call out the fried chili shrimp.
 
 ## Seoul-style fried chicken
 
 Korean fried chicken is double-fried. That's the entire difference and it matters — the coating stays crunchy even after sitting in sauce for 20 minutes. Edmonton has a few spots doing it right.
 
-**SFC Seoul Fried Chicken** is the one people talk about. The yangnyeom (sweet-spicy) chicken is the signature — sticky glaze, not soggy, served with pickled radish that cuts the richness. They also do soy garlic and a straight crispy that holds its crunch.
-
-**Bonchon** at WEM brings the chain-level consistency. You know exactly what you're getting: crispy wings in soy garlic or spicy, reliable every time. Not the most exciting, but never bad.
+**[Bonchon](/restaurants/bonchon-korean-fried-chicken)** on 124 Street brings chain-level consistency. You know exactly what you're getting: crispy wings in soy garlic or spicy, reliable every time. Not the most exciting, but never bad.
 
 ## Noodles and rice bowls
 
 For bibimbap, dolsot (stone pot) is the only way to order it. The crispy rice layer at the bottom is the whole point. Most Korean restaurants in Edmonton offer it, but the execution varies wildly.
 
-**Red Star** does a solid version alongside their broader Asian fusion menu. The stone pot comes out screaming hot, and they don't skimp on the gochujang.
+**[Gangnam & CoCo](/restaurants/gangnam-and-coco-windermere)** in Windermere is a casual pick for rice plates and Korean street snacks. Reviewers rave about the chicken with rice and the corn dogs.
 
 ## What to know before you go
 
