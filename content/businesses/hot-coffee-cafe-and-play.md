@@ -1,6 +1,7 @@
 ---
 name: "Hot Coffee Cafe and Play"
 slug: "hot-coffee-cafe-and-play"
+active: false
 category: "cafes-coffee-shops"
 neighborhood: "St. Albert"
 address: "410 St Albert Rd #155, St. Albert, AB T8N 5J9"

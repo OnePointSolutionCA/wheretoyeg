@@ -26,7 +26,7 @@ amenities:
   - "Takeout"
   - "Vegetarian"
 tags: ["cafe", "chai", "indian-fusion", "halal-friendly"]
-active: true
+active: false
 date_listed: "2026-08-20"
 reviews:
   - name: "Gigi Reviews — YEG • AB • Beyond"

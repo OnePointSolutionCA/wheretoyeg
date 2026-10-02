@@ -26,7 +26,7 @@ amenities:
   - "Family Friendly"
   - "Group Bookings"
 tags: ["board-games", "cafe", "family-friendly"]
-active: true
+active: false
 date_listed: "2026-08-18"
 reviews:
   - name: "it's iris j"

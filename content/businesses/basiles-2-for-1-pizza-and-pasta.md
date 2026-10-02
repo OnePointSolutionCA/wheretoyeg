@@ -1,6 +1,7 @@
 ---
 name: "Basile's 2 For 1 Pizza & Pasta"
 slug: "basiles-2-for-1-pizza-and-pasta"
+active: false
 category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Beaumont"

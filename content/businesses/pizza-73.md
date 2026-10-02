@@ -1,6 +1,7 @@
 ---
 name: "Pizza 73"
 slug: "pizza-73"
+active: false
 category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Spruce Grove"

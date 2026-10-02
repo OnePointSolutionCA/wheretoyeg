@@ -26,7 +26,7 @@ amenities:
   - "Dine-In"
   - "Takeout"
 tags: ["edmonton", "poke"]
-active: true
+active: false
 date_listed: "2026-08-26"
 reviews:
   - name: "John Celadena"

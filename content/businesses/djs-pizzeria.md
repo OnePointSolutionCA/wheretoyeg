@@ -1,6 +1,7 @@
 ---
 name: "DJ's Pizzeria"
 slug: "djs-pizzeria"
+active: false
 category: "restaurants"
 subcategory: "pizza"
 neighborhood: "St. Albert"

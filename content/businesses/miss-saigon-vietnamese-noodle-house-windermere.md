@@ -1,6 +1,7 @@
 ---
 name: "Miss Saigon Vietnamese Noodle House Windermere"
 slug: "miss-saigon-vietnamese-noodle-house-windermere"
+active: false
 category: "restaurants"
 neighborhood: "Windermere"
 address: "6187 Currents Dr NW, Edmonton, AB T6W 0L9"

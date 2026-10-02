@@ -1,6 +1,7 @@
 ---
 name: "The Ridge Social Eatery"
 slug: "the-ridge-social-eatery"
+active: false
 category: "restaurants"
 neighborhood: "St. Albert"
 address: "4 Versailles Ave Unit 105, St. Albert, AB T8N 7V1"

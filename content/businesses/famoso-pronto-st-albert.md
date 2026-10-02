@@ -1,6 +1,7 @@
 ---
 name: "Famoso Pronto - St Albert"
 slug: "famoso-pronto-st-albert"
+active: false
 category: "restaurants"
 subcategory: "pizza"
 neighborhood: "St. Albert"

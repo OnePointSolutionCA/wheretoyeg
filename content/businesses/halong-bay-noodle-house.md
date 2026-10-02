@@ -1,6 +1,7 @@
 ---
 name: "Halong Bay Noodle House"
 slug: "halong-bay-noodle-house"
+active: false
 category: "restaurants"
 subcategory: "vietnamese"
 neighborhood: "Castle Downs"

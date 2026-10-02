@@ -1,6 +1,7 @@
 ---
 name: "The Woodvale Room"
 slug: "the-woodvale-room"
+active: false
 category: "restaurants"
 neighborhood: "Mill Woods"
 address: "4540 50 St NW, Edmonton, AB T6L 1W6"

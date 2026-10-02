@@ -1,6 +1,7 @@
 ---
 name: "Memphis Blues"
 slug: "memphis-blues"
+active: false
 category: "restaurants"
 neighborhood: "Castle Downs"
 address: "16907 127 St, Edmonton, AB T5X 5P5"

@@ -30,7 +30,7 @@ amenities:
   - "Takeout"
   - "Family Friendly"
 tags: ["edmonton", "biryani", "halal"]
-active: true
+active: false
 date_listed: "2026-08-30"
 reviews:
   - name: "Arya Madhu"

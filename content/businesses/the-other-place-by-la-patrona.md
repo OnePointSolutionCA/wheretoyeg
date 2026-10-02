@@ -1,6 +1,7 @@
 ---
 name: "The Other Place by La Patrona"
 slug: "the-other-place-by-la-patrona"
+active: false
 category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "800 Broadmoor Blvd Unit 100, Sherwood Park, AB T8A 4Y6"

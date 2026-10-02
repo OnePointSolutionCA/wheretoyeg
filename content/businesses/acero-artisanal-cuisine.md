@@ -1,6 +1,7 @@
 ---
 name: "ACERO, Artisanal Cuisine"
 slug: "acero-artisanal-cuisine"
+active: false
 category: "restaurants"
 subcategory: "italian"
 neighborhood: "Sherwood Park"

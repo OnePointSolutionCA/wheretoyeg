@@ -1,6 +1,7 @@
 ---
 name: "Glasshouse Cafe"
 slug: "glasshouse-cafe"
+active: false
 category: "cafes-coffee-shops"
 neighborhood: "St. Albert"
 address: "Entrance - Glasshouse Gate, 100, 101 Riel Dr, St. Albert, AB T8N 3X4"

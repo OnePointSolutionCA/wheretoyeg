@@ -1,6 +1,7 @@
 ---
 name: "Capital Pizza"
 slug: "capital-pizza"
+active: false
 category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Castle Downs"

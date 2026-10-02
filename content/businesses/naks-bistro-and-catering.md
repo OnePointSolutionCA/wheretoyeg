@@ -1,6 +1,7 @@
 ---
 name: "Naks Bistro & Catering"
 slug: "naks-bistro-and-catering"
+active: false
 category: "catering"
 neighborhood: "Edmonton"
 address: "10451 172 St NW, Edmonton, AB T5S 1K9"

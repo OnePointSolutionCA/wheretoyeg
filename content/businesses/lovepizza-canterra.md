@@ -1,6 +1,7 @@
 ---
 name: "LOVEPIZZA Canterra"
 slug: "lovepizza-canterra"
+active: false
 category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Edmonton"

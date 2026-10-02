@@ -1,6 +1,7 @@
 ---
 name: "OC WINGS"
 slug: "oc-wings"
+active: false
 category: "restaurants"
 neighborhood: "Spruce Grove"
 address: "280 Pioneer Rd #216, Spruce Grove, AB T7X 2W3"

@@ -1,6 +1,7 @@
 ---
 name: "Famoso Italian Pizzeria - Magrath"
 slug: "famoso-italian-pizzeria-magrath"
+active: false
 category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Windermere"

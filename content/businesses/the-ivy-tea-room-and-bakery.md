@@ -1,6 +1,7 @@
 ---
 name: "The Ivy Tea Room & Bakery"
 slug: "the-ivy-tea-room-and-bakery"
+active: false
 category: "cafes-coffee-shops"
 neighborhood: "Sherwood Park"
 address: "200 Festival Ln #110, Sherwood Park, AB T8A 4Y8"

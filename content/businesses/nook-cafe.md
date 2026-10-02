@@ -25,7 +25,7 @@ amenities:
   - "Dine-In"
   - "Family Friendly"
 tags: ["cafe", "brunch", "breakfast"]
-active: true
+active: false
 date_listed: "2026-08-20"
 reviews:
   - name: "Kirk Dewhurst"

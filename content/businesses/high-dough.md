@@ -1,6 +1,7 @@
 ---
 name: "High Dough"
 slug: "high-dough"
+active: false
 category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Edmonton"

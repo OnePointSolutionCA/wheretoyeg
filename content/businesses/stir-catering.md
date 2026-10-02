@@ -25,7 +25,7 @@ price_range: "$$"
 amenities:
 
 tags: ["edmonton", "corporate-catering"]
-active: true
+active: false
 date_listed: "2026-08-30"
 reviews:
   - name: "Ngan Tran"

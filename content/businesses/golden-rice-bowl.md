@@ -26,7 +26,7 @@ amenities:
   - "Delivery"
   - "Family Friendly"
 tags: ["chinese", "cantonese", "dim-sum"]
-active: true
+active: false
 date_listed: "2026-08-18"
 reviews:
   - name: "yang"

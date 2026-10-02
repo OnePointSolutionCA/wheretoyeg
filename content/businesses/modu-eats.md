@@ -1,6 +1,7 @@
 ---
 name: "Modu Eats"
 slug: "modu-eats"
+active: false
 category: "restaurants"
 neighborhood: "Beaumont"
 address: "3615 11th St #200, Nisku, AB T9E 1C6"

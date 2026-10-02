@@ -1,6 +1,7 @@
 ---
 name: "Flat Boy Burgers"
 slug: "flat-boy-burgers"
+active: false
 category: "restaurants"
 neighborhood: "Beaumont"
 address: "5302 50 St, Beaumont, AB T4X 2Y2"

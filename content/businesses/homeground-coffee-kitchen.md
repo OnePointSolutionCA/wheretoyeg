@@ -1,6 +1,7 @@
 ---
 name: "Homeground Coffee + Kitchen"
 slug: "homeground-coffee-kitchen"
+active: false
 category: "cafes-coffee-shops"
 subcategory: "brunch-cafes"
 neighborhood: "Windermere"

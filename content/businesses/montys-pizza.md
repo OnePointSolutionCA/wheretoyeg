@@ -1,6 +1,7 @@
 ---
 name: "Monty's Pizza"
 slug: "montys-pizza"
+active: false
 category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Windermere"

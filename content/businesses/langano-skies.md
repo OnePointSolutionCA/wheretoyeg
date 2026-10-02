@@ -26,7 +26,7 @@ amenities:
   - "Vegan Options"
   - "Family Friendly"
 tags: ["ethiopian", "vegan-friendly", "communal"]
-active: true
+active: false
 date_listed: "2026-08-18"
 reviews:
   - name: "Jetset Bless"

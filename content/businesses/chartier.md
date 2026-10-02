@@ -1,6 +1,7 @@
 ---
 name: "Chartier"
 slug: "chartier"
+active: false
 category: "restaurants"
 neighborhood: "Beaumont"
 address: "5012 50 St Unit 102, Beaumont, AB T4X 1E7"

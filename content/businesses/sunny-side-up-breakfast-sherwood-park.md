@@ -1,6 +1,7 @@
 ---
 name: "SUNNY SIDE UP Breakfast Sherwood Park"
 slug: "sunny-side-up-breakfast-sherwood-park"
+active: false
 category: "restaurants"
 subcategory: "brunch"
 neighborhood: "Sherwood Park"

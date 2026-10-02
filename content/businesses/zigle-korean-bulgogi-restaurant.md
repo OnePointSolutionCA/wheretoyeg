@@ -1,6 +1,7 @@
 ---
 name: "ZIGLE Korean Bulgogi Restaurant"
 slug: "zigle-korean-bulgogi-restaurant"
+active: false
 category: "restaurants"
 subcategory: "korean"
 neighborhood: "Sherwood Park"

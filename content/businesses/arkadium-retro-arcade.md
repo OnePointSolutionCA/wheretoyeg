@@ -1,6 +1,7 @@
 ---
 name: "Arkadium Retro Arcade"
 slug: "arkadium-retro-arcade"
+active: false
 category: "activities-fun"
 neighborhood: "Sherwood Park"
 address: "130 Broadway Blvd Unit 180, Sherwood Park, AB T8H 2A3"

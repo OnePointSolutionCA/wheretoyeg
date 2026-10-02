@@ -25,7 +25,7 @@ amenities:
   - "Takeout"
   - "Family Friendly"
 tags: ["sushi", "japanese", "family-friendly"]
-active: true
+active: false
 date_listed: "2026-08-18"
 reviews:
   - name: "Brenden Kunimoto"

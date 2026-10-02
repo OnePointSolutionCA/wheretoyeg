@@ -1,6 +1,7 @@
 ---
 name: "Royal Pizza Newcastle"
 slug: "royal-pizza-newcastle"
+active: false
 category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Castle Downs"

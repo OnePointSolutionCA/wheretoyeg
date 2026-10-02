@@ -1,6 +1,7 @@
 ---
 name: "Nagoya Japanese Cuisine"
 slug: "nagoya-japanese-cuisine"
+active: false
 category: "restaurants"
 subcategory: "japanese"
 neighborhood: "Windermere"

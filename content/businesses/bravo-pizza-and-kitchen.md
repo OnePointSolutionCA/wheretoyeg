@@ -1,6 +1,7 @@
 ---
 name: "Bravo Pizza & Kitchen"
 slug: "bravo-pizza-and-kitchen"
+active: false
 category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Edmonton"

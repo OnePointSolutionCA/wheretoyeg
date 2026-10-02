@@ -1,6 +1,7 @@
 ---
 name: "Something Else Restaurant Spruce Grove"
 slug: "something-else-restaurant-spruce-grove"
+active: false
 category: "restaurants"
 neighborhood: "Spruce Grove"
 address: "215 McLeod Ave, Spruce Grove, AB T7X 0G2"

@@ -1,6 +1,7 @@
 ---
 name: "Sorrentino's St. Albert"
 slug: "sorrentinos-st-albert"
+active: false
 category: "restaurants"
 subcategory: "italian"
 neighborhood: "St. Albert"

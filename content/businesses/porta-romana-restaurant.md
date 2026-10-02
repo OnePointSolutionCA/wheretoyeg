@@ -1,6 +1,7 @@
 ---
 name: "Porta Romana Restaurant"
 slug: "porta-romana-restaurant"
+active: false
 category: "restaurants"
 subcategory: "italian"
 neighborhood: "Spruce Grove"

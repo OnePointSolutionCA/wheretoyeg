@@ -1,6 +1,7 @@
 ---
 name: "Cafe Haven"
 slug: "cafe-haven"
+active: false
 category: "cafes-coffee-shops"
 neighborhood: "Sherwood Park"
 address: "9 Sioux Rd, Sherwood Park, AB T8A 4C7"

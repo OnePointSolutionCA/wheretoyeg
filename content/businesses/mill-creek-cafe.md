@@ -1,6 +1,7 @@
 ---
 name: "Mill Creek Cafe"
 slug: "mill-creek-cafe"
+active: false
 category: "cafes-coffee-shops"
 neighborhood: "Mill Woods"
 address: "9562 Whyte Ave NW, Edmonton, AB T6C 1B9"

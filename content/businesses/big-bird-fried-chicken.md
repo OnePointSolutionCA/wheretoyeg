@@ -26,7 +26,7 @@ amenities:
   - "Takeout"
   - "Family Friendly"
 tags: ["halal", "fried-chicken", "sandwiches", "nashville-hot"]
-active: true
+active: false
 date_listed: "2026-08-18"
 reviews:
   - name: "Suri Tablet"

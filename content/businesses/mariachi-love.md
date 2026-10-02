@@ -1,6 +1,7 @@
 ---
 name: "Mariachi Love"
 slug: "mariachi-love"
+active: false
 category: "restaurants"
 neighborhood: "St. Albert"
 address: "11 Bellerose Dr Unit 9, St. Albert, AB T8N 5C9"

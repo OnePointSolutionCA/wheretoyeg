@@ -1,6 +1,7 @@
 ---
 name: "The Cheesecake Cafe"
 slug: "the-cheesecake-cafe"
+active: false
 category: "cafes-coffee-shops"
 neighborhood: "Spruce Grove"
 address: "96 Campsite Rd, Spruce Grove, AB T7X 3Z1"

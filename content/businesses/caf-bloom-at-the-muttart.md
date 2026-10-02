@@ -1,6 +1,7 @@
 ---
 name: "Café Bloom at the Muttart"
 slug: "caf-bloom-at-the-muttart"
+active: false
 category: "cafes-coffee-shops"
 neighborhood: "Edmonton"
 address: "9626 96a St NW, Edmonton, AB T6C 4L8"

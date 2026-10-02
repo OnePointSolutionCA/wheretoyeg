@@ -1,6 +1,7 @@
 ---
 name: "Solar Brunch"
 slug: "solar-brunch"
+active: false
 category: "restaurants"
 subcategory: "brunch"
 neighborhood: "Jasper Ave"

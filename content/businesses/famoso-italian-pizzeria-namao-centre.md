@@ -1,6 +1,7 @@
 ---
 name: "Famoso Italian Pizzeria - Namao Centre"
 slug: "famoso-italian-pizzeria-namao-centre"
+active: false
 category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Castle Downs"

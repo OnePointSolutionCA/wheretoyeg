@@ -27,7 +27,7 @@ amenities:
   - "Family Friendly"
   - "Group Bookings"
 tags: ["arcade", "vr", "family-friendly"]
-active: true
+active: false
 date_listed: "2026-08-18"
 reviews:
   - name: "Tasha Downey"

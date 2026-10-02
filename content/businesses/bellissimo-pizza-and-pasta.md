@@ -1,6 +1,7 @@
 ---
 name: "Bellissimo Pizza & Pasta"
 slug: "bellissimo-pizza-and-pasta"
+active: false
 category: "restaurants"
 neighborhood: "Castle Downs"
 address: "13905 127 St, Edmonton, AB T6V 1A9"

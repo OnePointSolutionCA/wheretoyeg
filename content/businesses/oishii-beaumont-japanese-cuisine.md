@@ -1,6 +1,7 @@
 ---
 name: "Oishii BEAUMONT Japanese Cuisine"
 slug: "oishii-beaumont-japanese-cuisine"
+active: false
 category: "restaurants"
 subcategory: "japanese"
 neighborhood: "Beaumont"

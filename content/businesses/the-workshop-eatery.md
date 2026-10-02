@@ -1,6 +1,7 @@
 ---
 name: "The Workshop Eatery"
 slug: "the-workshop-eatery"
+active: false
 category: "restaurants"
 neighborhood: "Mill Woods"
 address: "2003 91 St SW, Edmonton, AB T6X 0C8"

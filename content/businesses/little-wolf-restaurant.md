@@ -1,6 +1,7 @@
 ---
 name: "Little Wolf Restaurant"
 slug: "little-wolf-restaurant"
+active: false
 category: "restaurants"
 neighborhood: "Mill Woods"
 address: "8424 109 St NW, Edmonton, AB T6G 1E2"

@@ -1,6 +1,7 @@
 ---
 name: "The Woodvale Clubhouse Restaurant"
 slug: "the-woodvale-clubhouse-restaurant"
+active: false
 category: "restaurants"
 neighborhood: "Mill Woods"
 address: "4540 50 St NW, Edmonton, AB T6L 6B6"

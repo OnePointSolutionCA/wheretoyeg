@@ -1,6 +1,7 @@
 ---
 name: "Wildroots"
 slug: "wildroots"
+active: false
 category: "restaurants"
 neighborhood: "St. Albert"
 address: "15 Perron St #150, St. Albert, AB T8N 1E5"

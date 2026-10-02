@@ -1,6 +1,7 @@
 ---
 name: "State & Main"
 slug: "state-and-main"
+active: false
 category: "restaurants"
 neighborhood: "Spruce Grove"
 address: "151 Century Crossing Unit 300, Spruce Grove, AB T7X 0C8"

@@ -1,6 +1,7 @@
 ---
 name: "Lemongrass Cafe Windermere"
 slug: "lemongrass-cafe-windermere"
+active: false
 category: "cafes-coffee-shops"
 subcategory: "international"
 neighborhood: "Windermere"

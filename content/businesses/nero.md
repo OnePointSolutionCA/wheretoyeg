@@ -1,6 +1,7 @@
 ---
 name: "Nero"
 slug: "nero"
+active: false
 category: "restaurants"
 neighborhood: "Beverly"
 address: "12068 104 Ave NW, Edmonton, AB T5K 0K2"

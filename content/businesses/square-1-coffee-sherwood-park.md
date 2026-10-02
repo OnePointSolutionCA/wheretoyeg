@@ -1,6 +1,7 @@
 ---
 name: "Square 1 Coffee - Sherwood Park"
 slug: "square-1-coffee-sherwood-park"
+active: false
 category: "cafes-coffee-shops"
 neighborhood: "Sherwood Park"
 address: "115 Tisbury St #140, Sherwood Park, AB T8B 0E6"

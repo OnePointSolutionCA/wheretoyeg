@@ -1,6 +1,7 @@
 ---
 name: "Kaizen Japanese Restaurant"
 slug: "kaizen-japanese-restaurant"
+active: false
 category: "restaurants"
 subcategory: "japanese"
 neighborhood: "St. Albert"

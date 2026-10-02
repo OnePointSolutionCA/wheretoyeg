@@ -1,6 +1,7 @@
 ---
 name: "Saigon Delights"
 slug: "saigon-delights"
+active: false
 category: "restaurants"
 subcategory: "vietnamese"
 neighborhood: "Beaumont"

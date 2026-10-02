@@ -1,6 +1,7 @@
 ---
 name: "Fox Burger Highlands"
 slug: "fox-burger-highlands"
+active: false
 category: "restaurants"
 subcategory: "burgers"
 neighborhood: "Beverly"

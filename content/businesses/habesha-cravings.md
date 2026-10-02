@@ -26,7 +26,7 @@ amenities:
   - "Takeout"
   - "Family Friendly"
 tags: ["edmonton", "ethiopian"]
-active: true
+active: false
 date_listed: "2026-08-20"
 reviews:
   - name: "Tanya Toledano"

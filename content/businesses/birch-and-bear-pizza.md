@@ -1,6 +1,7 @@
 ---
 name: "Birch & Bear Pizza"
 slug: "birch-and-bear-pizza"
+active: false
 category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Edmonton"

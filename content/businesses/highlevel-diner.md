@@ -1,6 +1,7 @@
 ---
 name: "Highlevel Diner"
 slug: "highlevel-diner"
+active: false
 category: "restaurants"
 neighborhood: "Edmonton"
 address: "10912 88 Ave NW, Edmonton, AB T6G 0Z1"

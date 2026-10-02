@@ -1,6 +1,7 @@
 ---
 name: "Capital Pizza and steak house"
 slug: "capital-pizza-and-steak-house"
+active: false
 category: "restaurants"
 subcategory: "pizza"
 neighborhood: "St. Albert"

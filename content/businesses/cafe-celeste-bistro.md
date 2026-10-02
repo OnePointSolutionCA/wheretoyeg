@@ -1,6 +1,7 @@
 ---
 name: "Cafe Celeste Bistro"
 slug: "cafe-celeste-bistro"
+active: false
 category: "cafes-coffee-shops"
 subcategory: "international"
 neighborhood: "Sherwood Park"

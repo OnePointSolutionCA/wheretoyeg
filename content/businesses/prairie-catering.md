@@ -1,6 +1,7 @@
 ---
 name: "Prairie Catering"
 slug: "prairie-catering"
+active: false
 category: "catering"
 neighborhood: "124 Street"
 address: "10522 124 St, Edmonton, AB T5N 1R9"

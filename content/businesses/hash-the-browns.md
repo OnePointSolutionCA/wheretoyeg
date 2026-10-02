@@ -1,6 +1,7 @@
 ---
 name: "Hash The Browns"
 slug: "hash-the-browns"
+active: false
 category: "restaurants"
 neighborhood: "Spruce Grove"
 address: "636 King St, Spruce Grove, AB T7X 4K5"

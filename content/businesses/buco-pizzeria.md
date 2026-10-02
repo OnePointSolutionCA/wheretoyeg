@@ -1,6 +1,7 @@
 ---
 name: "Buco Pizzeria"
 slug: "buco-pizzeria"
+active: false
 category: "restaurants"
 subcategory: "pizza"
 neighborhood: "St. Albert"

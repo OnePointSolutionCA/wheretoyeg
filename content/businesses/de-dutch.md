@@ -1,6 +1,7 @@
 ---
 name: "De Dutch"
 slug: "de-dutch"
+active: false
 category: "restaurants"
 subcategory: "brunch"
 neighborhood: "Jasper Ave"

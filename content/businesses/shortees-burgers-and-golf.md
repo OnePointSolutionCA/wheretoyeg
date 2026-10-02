@@ -1,6 +1,7 @@
 ---
 name: "Shortees - Burgers & Golf"
 slug: "shortees-burgers-and-golf"
+active: false
 category: "restaurants"
 neighborhood: "Beverly"
 address: "2902 118 Ave NW, Edmonton, AB T5S 2M5"

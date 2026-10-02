@@ -1,6 +1,7 @@
 ---
 name: "Little Brick"
 slug: "little-brick"
+active: false
 category: "restaurants"
 subcategory: "brunch"
 neighborhood: "Edmonton"

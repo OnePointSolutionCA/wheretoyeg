@@ -1,6 +1,7 @@
 ---
 name: "Famoso Italian Pizzeria - Spruce Grove"
 slug: "famoso-italian-pizzeria-spruce-grove"
+active: false
 category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Spruce Grove"

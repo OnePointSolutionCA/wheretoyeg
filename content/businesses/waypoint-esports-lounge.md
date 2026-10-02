@@ -26,7 +26,7 @@ amenities:
   - "Birthday Parties"
   - "Tournaments"
 tags: ["esports", "gaming", "lan"]
-active: true
+active: false
 date_listed: "2026-08-18"
 reviews:
   - name: "Gary Gullic"

@@ -1,6 +1,7 @@
 ---
 name: "Ecity Flame (Best Offer on Website)"
 slug: "ecity-flame-best-offer-on-website"
+active: false
 category: "restaurants"
 subcategory: "brunch"
 neighborhood: "Mill Woods"

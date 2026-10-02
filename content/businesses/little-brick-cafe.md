@@ -27,7 +27,7 @@ amenities:
   - "Dine-In"
   - "Takeout"
 tags: ["cafe", "brunch", "coffee", "family-friendly", "patio"]
-active: true
+active: false
 date_listed: "2026-08-18"
 reviews:
   - name: "Bryce"

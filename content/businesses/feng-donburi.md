@@ -1,6 +1,7 @@
 ---
 name: "Feng Donburi"
 slug: "feng-donburi"
+active: false
 category: "restaurants"
 neighborhood: "Windermere"
 address: "16408 Ellerslie Rd SW, Edmonton, AB T6W 4S8"

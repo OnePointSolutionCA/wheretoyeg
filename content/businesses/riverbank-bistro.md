@@ -1,6 +1,7 @@
 ---
 name: "Riverbank Bistro"
 slug: "riverbank-bistro"
+active: false
 category: "restaurants"
 neighborhood: "St. Albert"
 address: "8 Mission Ave, St. Albert, AB T8N 1H4"

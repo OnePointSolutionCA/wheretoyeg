@@ -25,7 +25,7 @@ amenities:
   - "Birthday Parties"
   - "Corporate Events"
 tags: ["karting", "racing", "birthday-parties"]
-active: true
+active: false
 date_listed: "2026-08-18"
 reviews:
   - name: "Brian Mast"

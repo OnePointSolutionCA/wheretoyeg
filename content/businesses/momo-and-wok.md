@@ -1,6 +1,7 @@
 ---
 name: "MoMo & Wok"
 slug: "momo-and-wok"
+active: false
 category: "restaurants"
 neighborhood: "Mill Woods"
 address: "9348 34 Ave NW, Edmonton, AB T6E 5X8"

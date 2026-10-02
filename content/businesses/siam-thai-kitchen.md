@@ -27,7 +27,7 @@ amenities:
   - "Takeout"
   - "Family Friendly"
 tags: ["edmonton", "thai"]
-active: true
+active: false
 date_listed: "2026-08-20"
 reviews:
   - name: "James D.A McCormick"

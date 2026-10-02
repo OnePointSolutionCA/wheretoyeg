@@ -1,6 +1,7 @@
 ---
 name: "Blowers & Grafton (Sherwood Park)"
 slug: "blowers-and-grafton-sherwood-park"
+active: false
 category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "7000 Emerald Dr #500, Sherwood Park, AB T8H 0P5"

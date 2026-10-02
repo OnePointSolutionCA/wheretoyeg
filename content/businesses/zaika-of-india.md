@@ -1,6 +1,7 @@
 ---
 name: "Zaika of India"
 slug: "zaika-of-india"
+active: false
 category: "restaurants"
 subcategory: "indian"
 neighborhood: "Beaumont"

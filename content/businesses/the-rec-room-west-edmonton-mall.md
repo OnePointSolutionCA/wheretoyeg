@@ -1,6 +1,7 @@
 ---
 name: "The Rec Room West Edmonton Mall"
 slug: "the-rec-room-west-edmonton-mall"
+active: false
 category: "activities-fun"
 neighborhood: "Edmonton"
 address: "8882 170 St NW #2065, Edmonton, AB T5T 3J7"

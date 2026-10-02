@@ -1,6 +1,7 @@
 ---
 name: "Barb & Ernie's Old Country Inn"
 slug: "barb-and-ernies-old-country-inn"
+active: false
 category: "restaurants"
 subcategory: "brunch"
 neighborhood: "Edmonton"

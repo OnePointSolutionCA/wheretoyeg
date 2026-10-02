@@ -26,7 +26,7 @@ amenities:
   - "Dine-In"
   - "Takeout"
 tags: ["edmonton", "latin"]
-active: true
+active: false
 date_listed: "2026-08-26"
 reviews:
   - name: "Shelby M"

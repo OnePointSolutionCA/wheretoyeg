@@ -1,6 +1,7 @@
 ---
 name: "Denny's Restaurant Spruce Grove"
 slug: "dennys-restaurant-spruce-grove"
+active: false
 category: "restaurants"
 neighborhood: "Spruce Grove"
 address: "100 Jennifer Heil Way, Spruce Grove, AB T7X 4R3"

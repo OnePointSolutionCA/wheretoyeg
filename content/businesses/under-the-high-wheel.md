@@ -1,6 +1,7 @@
 ---
 name: "Under The High Wheel"
 slug: "under-the-high-wheel"
+active: false
 category: "restaurants"
 neighborhood: "Edmonton"
 address: "8135 102 St NW, Edmonton, AB T6E 4A4"

@@ -1,6 +1,7 @@
 ---
 name: "Spark Chef"
 slug: "spark-chef"
+active: false
 category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "1020 Sherwood Dr #50, Sherwood Park, AB T8A 2G4"

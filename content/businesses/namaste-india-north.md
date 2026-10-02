@@ -1,6 +1,7 @@
 ---
 name: "Namaste India (North)"
 slug: "namaste-india-north"
+active: false
 category: "restaurants"
 subcategory: "indian"
 neighborhood: "Castle Downs"

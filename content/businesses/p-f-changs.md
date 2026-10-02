@@ -1,6 +1,7 @@
 ---
 name: "P.F. Chang's"
 slug: "p-f-changs"
+active: false
 category: "restaurants"
 neighborhood: "Windermere"
 address: "6303 Currents Dr NW, Edmonton, AB T6W 0L9"

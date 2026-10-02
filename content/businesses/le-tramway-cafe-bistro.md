@@ -1,6 +1,7 @@
 ---
 name: "Le Tramway Cafe Bistro"
 slug: "le-tramway-cafe-bistro"
+active: false
 category: "cafes-coffee-shops"
 subcategory: "brunch-cafes"
 neighborhood: "Edmonton"

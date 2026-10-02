@@ -1,6 +1,7 @@
 ---
 name: "Ragazzi Bistro Italiano"
 slug: "ragazzi-bistro-italiano"
+active: false
 category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Whyte Ave"

@@ -1,6 +1,7 @@
 ---
 name: "Famoso Italian Pizzeria - Jasper Ave"
 slug: "famoso-italian-pizzeria-jasper-ave"
+active: false
 category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Jasper Ave"

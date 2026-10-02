@@ -1,6 +1,7 @@
 ---
 name: "Barbacoa"
 slug: "barbacoa"
+active: false
 category: "restaurants"
 subcategory: "steakhouses"
 neighborhood: "Spruce Grove"

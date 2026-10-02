@@ -26,7 +26,7 @@ amenities:
   - "Takeout"
   - "Bilingual"
 tags: ["cafe", "french", "croissants", "brunch"]
-active: true
+active: false
 date_listed: "2026-08-20"
 reviews:
   - name: "Rodney Dickinson"

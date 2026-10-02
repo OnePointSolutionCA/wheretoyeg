@@ -1,6 +1,7 @@
 ---
 name: "Dogpatch"
 slug: "dogpatch"
+active: false
 category: "restaurants"
 neighborhood: "Beverly"
 address: "10158 90 St NW #101, Edmonton, AB T5H 1R7"

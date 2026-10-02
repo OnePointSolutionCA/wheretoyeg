@@ -26,7 +26,7 @@ amenities:
   - "Glow Bowling"
   - "Family Friendly"
 tags: ["bowling", "5-pin", "10-pin"]
-active: true
+active: false
 date_listed: "2026-08-18"
 reviews:
   - name: "#bisdakincanada"

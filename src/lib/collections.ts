@@ -69,8 +69,9 @@ export const COLLECTIONS: Collection[] = [
     description: "Weekend brunch spots — shakshuka, benedicts, halal Lebanese breakfasts, and coffee that's actually good. Book ahead.",
     gradient: "from-[#f4b183] via-[#e08a3e] to-[#a85715]",
     match: (b) =>
-      b.category === "restaurants" &&
-      (hasAmenity(b, "Weekend Brunch") || hasTag(b, "brunch")),
+      (b.category === "restaurants" &&
+        (b.subcategory === "brunch" || hasAmenity(b, "Weekend Brunch") || hasTag(b, "brunch"))) ||
+      (b.category === "cafes-coffee-shops" && (b.subcategory === "brunch-cafes" || hasAmenity(b, "Brunch"))),
   },
   {
     slug: "halal-foodie-tour",

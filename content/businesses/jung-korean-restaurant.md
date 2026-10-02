@@ -1,6 +1,7 @@
 ---
 name: "Jung KOREAN RESTAURANT 정식당"
 slug: "jung-korean-restaurant"
+active: false
 category: "restaurants"
 subcategory: "korean"
 neighborhood: "Mill Woods"

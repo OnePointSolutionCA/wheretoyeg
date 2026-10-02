@@ -25,7 +25,7 @@ amenities:
   - "Dine-In"
   - "Takeout"
 tags: ["coffee", "espresso", "dutch", "no-wifi"]
-active: true
+active: false
 date_listed: "2026-08-18"
 reviews:
   - name: "Jesse Miller"

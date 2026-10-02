@@ -1,6 +1,7 @@
 ---
 name: "Roasti Coffee Co: Specialty Coffee Roaster And Cafe"
 slug: "roasti-coffee-co-specialty-coffee-roaster-and-cafe"
+active: false
 category: "cafes-coffee-shops"
 neighborhood: "Sherwood Park"
 address: "52 Brentwood Blvd #19, Sherwood Park, AB T8A 2H6"

@@ -1,6 +1,7 @@
 ---
 name: "XIX Nineteen"
 slug: "xix-nineteen"
+active: false
 category: "restaurants"
 neighborhood: "Windermere"
 address: "5940 Mullen Wy NW, Edmonton, AB T6R 0S9"

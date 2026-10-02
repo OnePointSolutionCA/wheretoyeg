@@ -1,6 +1,7 @@
 ---
 name: "EMRLD."
 slug: "emrld"
+active: false
 category: "restaurants"
 neighborhood: "Windermere"
 address: "11026 Jasper Ave, Edmonton, AB T5K 2N8"

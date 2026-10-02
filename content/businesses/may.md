@@ -1,6 +1,7 @@
 ---
 name: "May"
 slug: "may"
+active: false
 category: "restaurants"
 neighborhood: "124 Street"
 address: "10522 124 St, Edmonton, AB T5N 1R9"

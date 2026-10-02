@@ -1,6 +1,7 @@
 ---
 name: "JOEY Sherwood"
 slug: "joey-sherwood"
+active: false
 category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "222 Baseline Rd #250, Sherwood Park, AB T8H1M4"

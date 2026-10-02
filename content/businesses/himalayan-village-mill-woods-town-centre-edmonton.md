@@ -1,6 +1,7 @@
 ---
 name: "Himalayan Village - Mill Woods Town Centre Edmonton"
 slug: "himalayan-village-mill-woods-town-centre-edmonton"
+active: false
 category: "restaurants"
 subcategory: "chinese"
 neighborhood: "Mill Woods"

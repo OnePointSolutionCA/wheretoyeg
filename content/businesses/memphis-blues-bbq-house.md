@@ -1,6 +1,7 @@
 ---
 name: "Memphis Blues BBQ House"
 slug: "memphis-blues-bbq-house"
+active: false
 category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "222 Baseline Rd #150, Sherwood Park, AB T8H 1S8"

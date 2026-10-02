@@ -1,6 +1,7 @@
 ---
 name: "Polos Social Lounge"
 slug: "polos-social-lounge"
+active: false
 category: "restaurants"
 neighborhood: "Sherwood Park"
 address: "950 Emerald Dr, Sherwood Park, AB T8H 0W6"

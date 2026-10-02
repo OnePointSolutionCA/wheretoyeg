@@ -27,7 +27,7 @@ amenities:
   - "Takeout"
   - "Family Friendly"
 tags: ["edmonton", "mexican"]
-active: true
+active: false
 date_listed: "2026-08-30"
 reviews:
   - name: "Jonathan Crumback"
