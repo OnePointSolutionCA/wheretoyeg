@@ -21,7 +21,7 @@ Booking a barber in Edmonton isn't hard. Booking the right barber is. There are 
 
 **[Barber Squad](/barbers/barber-squad)** — Detail-heavy fades, precise beard shaping, and a shop that takes booking seriously. Book at least a week ahead.
 
-**[Compound Cut Club](/barbers/compound-cut-club)** — Modern shop, strong reputation for skin fades and textured cuts. Consistent stylists across the roster.
+**[Compound Cut Club](/barbers/compound-cut-club-barbershop)** — Modern shop, strong reputation for skin fades and textured cuts. Consistent stylists across the roster.
 
 **[Mr. Barber Downtown](/barbers/mr-barber-downtown)** — Central location, quick turnaround for downtown workers, good for a straightforward tune-up between fuller haircuts.
 

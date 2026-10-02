@@ -27,7 +27,7 @@ Edmonton's Thai food scene covers everything from classic pad thai joints to res
 
 ## Hidden gems
 
-[Thai Corner Restaurant & Bakery](/restaurants/thai-corner-restaurant-bakery) does double duty — Thai food and baked goods. It's an unusual combo that works. The curries are legit, and you can grab pastries on your way out.
+[Thai Corner Restaurant & Bakery](/bakeries/thai-corner-restaurant-bakery) does double duty — Thai food and baked goods. It's an unusual combo that works. The curries are legit, and you can grab pastries on your way out.
 
 [Thai Valley Grill](/restaurants/thai-valley-grill) is a neighborhood spot that doesn't get as much attention as the bigger names but delivers quality Thai cooking at fair prices.
 

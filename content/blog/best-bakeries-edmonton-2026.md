@@ -23,7 +23,7 @@ Grocery-store bread has its place — it's called sandwiches you regret. When yo
 
 **[Sunbake Pita Bakery](/bakeries/sunbake-pita-bakery)** — Fresh pita and Middle Eastern flatbreads, halal, baked all day. If you're making shawarma or wraps at home, come here.
 
-**[Al Salam Bakery & Restaurant](/restaurants/al-salam-pita-bakery)** — Bakery + restaurant hybrid, fresh pita, and a full Middle Eastern menu on the restaurant side.
+**[Al Salam Bakery & Restaurant](/bakeries/al-salam-pita-bakery)** — Bakery + restaurant hybrid, fresh pita, and a full Middle Eastern menu on the restaurant side.
 
 **[Cedar Sweets](/bakeries/cedar-sweets)** — Middle Eastern pastries — baklava, kanafeh, ma'amoul. Halal, family-run.
 

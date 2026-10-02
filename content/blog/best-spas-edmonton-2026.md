@@ -19,11 +19,11 @@ Booking a spa in Edmonton is like booking a restaurant in a city you don't know 
 
 ## Top spas in Edmonton
 
-**[Frilly Lilly](/spas-esthetics/frilly-lilly)** — Multi-location Edmonton institution. Waxing (especially Brazilian), lash and brow work, quick in-and-out visits. Book online.
+**[Frilly Lilly](/nail-salons/frilly-lilly)** — Multi-location Edmonton institution. Waxing (especially Brazilian), lash and brow work, quick in-and-out visits. Book online.
 
-**[Henna By Ashiyana](/henna-artists/henna-by-ashiyana)** — Bridal henna, event henna, intricate designs. Book weeks ahead for wedding season.
+**Henna By Ashiyana** — Bridal henna, event henna, intricate designs. Book weeks ahead for wedding season.
 
-Browse all [spas and estheticians in Edmonton](/spas-esthetics) or [henna artists](/henna-artists).
+Browse all [spas and estheticians in Edmonton](/spas-esthetics) or henna artists.
 
 ## What to look for in a spa
 

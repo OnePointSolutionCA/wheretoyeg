@@ -21,9 +21,9 @@ Edmonton's Italian food scene ranges from old-school red-sauce joints to modern 
 
 [Porta Romana Restaurant](/restaurants/porta-romana-restaurant) is a classic. Named after the historic gate in Florence, it serves traditional Italian dishes with proper technique. Their osso buco and veal dishes are standouts.
 
-[Cafe Amore Bistro](/restaurants/cafe-amore-bistro) is cozy and romantic — the name says it all. A good pick for date night when you want Italian food in an intimate setting without the fine-dining price tag.
+[Cafe Amore Bistro](/cafes-coffee-shops/cafe-amore-bistro) is cozy and romantic — the name says it all. A good pick for date night when you want Italian food in an intimate setting without the fine-dining price tag.
 
-[Cafe Celeste Bistro](/restaurants/cafe-celeste-bistro) delivers a similar vibe with its own personality. Fresh pasta, good sauces, and a neighborhood feel that keeps locals coming back.
+[Cafe Celeste Bistro](/cafes-coffee-shops/cafe-celeste-bistro) delivers a similar vibe with its own personality. Fresh pasta, good sauces, and a neighborhood feel that keeps locals coming back.
 
 ## Modern Italian
 

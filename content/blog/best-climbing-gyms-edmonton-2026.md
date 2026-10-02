@@ -11,11 +11,11 @@ Edmonton's climbing scene has exploded. Five years ago there were two gyms. Now 
 
 ## Best climbing gyms in Edmonton
 
-**[Niche Climbing](/activities-fun/niche-climbing)** — 4.9 stars. The newest and arguably the best climbing gym in Edmonton. Clean, modern, and the route-setting is creative without being gimmicky. Great bouldering section. If you're picking one gym to try, this is it.
+**[Niche Climbing](/gyms-fitness/niche-climbing)** — 4.9 stars. The newest and arguably the best climbing gym in Edmonton. Clean, modern, and the route-setting is creative without being gimmicky. Great bouldering section. If you're picking one gym to try, this is it.
 
-**[Boulders Climbing](/activities-fun/boulders-climbing)** — 4.8 stars. Edmonton's bouldering-focused gym. No ropes, no harnesses — just you, the wall, and crash pads. The problems are well-set and rotate regularly. Strong community vibe.
+**[Boulders Climbing](/gyms-fitness/boulders-climbing)** — 4.8 stars. Edmonton's bouldering-focused gym. No ropes, no harnesses — just you, the wall, and crash pads. The problems are well-set and rotate regularly. Strong community vibe.
 
-**[Factory Climbing](/activities-fun/factory-climbing)** — 4.8 stars. Big facility with both bouldering and roped climbing. The wall height is impressive and the setting caters to all levels. Good for groups with mixed experience.
+**[Factory Climbing](/gyms-fitness/factory-climbing)** — 4.8 stars. Big facility with both bouldering and roped climbing. The wall height is impressive and the setting caters to all levels. Good for groups with mixed experience.
 
 **[Vertically Inclined Rock Gym](/activities-fun/vertically-inclined-rock-gym)** — 4.7 stars. One of Edmonton's original climbing gyms. Top rope and lead climbing on tall walls. The route variety is solid and the staff are experienced climbers who actually teach, not just belay.
 
@@ -44,10 +44,10 @@ If you've never climbed before, bouldering is the easiest entry point — show u
 
 Every gym on this list offers intro sessions or beginner courses. Here's where to start based on what you want:
 
-- **Just want to try it?** [Boulders Climbing](/activities-fun/boulders-climbing) — show up, rent shoes, climb. No partner needed.
+- **Just want to try it?** [Boulders Climbing](/gyms-fitness/boulders-climbing) — show up, rent shoes, climb. No partner needed.
 - **Want to learn ropes?** [Vertically Inclined](/activities-fun/vertically-inclined-rock-gym) — their intro to top rope course is thorough.
 - **Taking the kids?** [Rock Jungle Fitness](/activities-fun/rock-jungle-fitness) — built for families.
-- **Want the newest facility?** [Niche Climbing](/activities-fun/niche-climbing) — clean, modern, great holds.
+- **Want the newest facility?** [Niche Climbing](/gyms-fitness/niche-climbing) — clean, modern, great holds.
 
 ## Indoor climbing in Edmonton — winter training
 

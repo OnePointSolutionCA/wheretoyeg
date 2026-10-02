@@ -37,7 +37,7 @@ Full guide: [Best Pakistani Food in Edmonton](/blog/best-pakistani-food-edmonton
 
 - **[Paramount Fine Foods](/restaurants/paramount-fine-foods)** — premium halal Lebanese chain, north Edmonton. Charcoal-grilled shish taouk, kafta, fresh baklava. Weekend brunch is real.
 - **[Zaatar w Zeit Mediterranean](/restaurants/zaatar-w-zeit)** — mezze, manakish, grilled meats. Alcohol-free.
-- **[Al Salam Bakery & Restaurant](/restaurants/al-salam-pita-bakery)** — bakery + restaurant hybrid.
+- **[Al Salam Bakery & Restaurant](/bakeries/al-salam-pita-bakery)** — bakery + restaurant hybrid.
 
 ## Afghan
 
@@ -82,7 +82,7 @@ For cooking at home. See the full [Halal Meat Markets guide](/blog/halal-meat-ma
 
 - **[Tarboosh Halal Meat & Market](/grocery-markets/tarboosh-halal-meat-market)** — halal meat and Middle Eastern groceries.
 - **[Millwoods Grocery & Halal Meat](/grocery-markets/millwoods-grocery-halal)** — south Edmonton staple.
-- **[WestGate Halal Meat & Deli](/grocery-markets/westgate-halal-meat)** — west end butcher plus Mediterranean groceries.
+- **[WestGate Halal Meat & Deli](/grocery-markets/westgate-market-halal-meat-deli)** — west end butcher plus Mediterranean groceries.
 
 ## Halal catering
 

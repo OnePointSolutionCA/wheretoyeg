@@ -22,13 +22,13 @@ Let's start with the places kids will beg you to revisit:
 Weekend brunch with kids can go two ways. These places tip it toward the good way:
 
 - **[Stacked Pancake & Breakfast House](/restaurants/stacked-pancake-and-breakfast-house)** — Big portions, fast service, and a menu that has something for every age. Pancakes for the kids, eggs benny for you. No one's rushing you out.
-- **[Pür & Simple](/restaurants/pr-and-simple)** — Clean, bright, and the menu is built for all-ages brunch. The smoothie bowls and pancake stacks are kid-approved without being dumbed down.
+- **[Pür & Simple](/restaurants/p-r-and-simple)** — Clean, bright, and the menu is built for all-ages brunch. The smoothie bowls and pancake stacks are kid-approved without being dumbed down.
 - **[Barb & Ernie's](/restaurants/barb-and-ernies-old-country-inn)** — Old-school Edmonton brunch spot. It's been serving families for decades. The portions are generous and the staff has seen it all — your toddler throwing a spoon won't phase them.
 
 ## Casual dining that works
 
 - **[LOVEPIZZA](/restaurants/lovepizza)** — Flatbread-style pizza with creative toppings. Kids can stick with cheese, parents can go for something more interesting. Multiple locations, casual atmosphere.
-- **[Famoso Italian Pizzeria](/restaurants/famoso-italian-pizzeria---magrath)** — Neapolitan pizza in a family-friendly setting. The wood-fired oven is fun for kids to watch, and the pizza is legitimately good — thin crust, quality toppings.
+- **[Famoso Italian Pizzeria](/restaurants/famoso-italian-pizzeria-magrath)** — Neapolitan pizza in a family-friendly setting. The wood-fired oven is fun for kids to watch, and the pizza is legitimately good — thin crust, quality toppings.
 - **[myFries Poutinerie](/restaurants/myfries-poutinerie)** — Poutine done right, with creative loaded options. Kids love fries. Parents love poutine. Everyone wins.
 
 ## Cultural food for adventurous families
@@ -36,7 +36,7 @@ Weekend brunch with kids can go two ways. These places tip it toward the good wa
 Exposing kids to different cuisines early is one of the best things you can do. These restaurants make it easy:
 
 - **[Padmanadi](/restaurants/padmanadi)** — Vegetarian Indonesian food that even meat-loving kids enjoy. The satay, fried rice, and spring rolls are approachable entry points. Two locations.
-- **[Boualouang Laos & Thai](/restaurants/boualouang-laos-and-thai-cuisine)** — Thai food with mild options available. The pad thai and mango sticky rice are safe bets for younger eaters.
+- **[Boualouang Laos & Thai](/restaurants/boualouang-laos-thai-cuisine)** — Thai food with mild options available. The pad thai and mango sticky rice are safe bets for younger eaters.
 - **[New Asian Village](/restaurants/new-asian-village-largest-indian-buffet-in-edmonton)** — Buffet format is perfect for kids. They can try small portions of everything, and you're not locked into ordering something they might refuse to eat.
 
 ## Play cafes and activity spots
@@ -44,7 +44,7 @@ Exposing kids to different cuisines early is one of the best things you can do. 
 Some places combine food with activities — which means kids burn energy while you actually finish your coffee:
 
 - **[Infinity Play](/activities-fun/infinity-play)** — Indoor play area with a cafe. Kids play, parents eat and drink coffee. The concept is simple and it works.
-- **[PlayDen Kids Cafe](/cafes-coffee-shops/playden-kids-cafe)** — Dedicated kids cafe with a play area. The food is better than you'd expect from a play cafe, and the space is clean and well-maintained.
+- **[PlayDen Kids Cafe](/activities-fun/playden-kids-cafe)** — Dedicated kids cafe with a play area. The food is better than you'd expect from a play cafe, and the space is clean and well-maintained.
 
 ## Tips for dining out with kids in Edmonton
 

@@ -31,4 +31,4 @@ A smash burger isn't a shape — it's a method. A ball of 80/20 beef gets placed
 
 ## Related
 
-Browse all Edmonton [burger spots](/restaurants/burgers), [halal restaurants](/halal-restaurants), and [halal burgers](/halal-restaurants/halal-burgers) on WhereToYEG.
+Browse all Edmonton [burger spots](/restaurants/burgers), [halal restaurants](/restaurants?amenity=Halal), and [halal burgers](/restaurants/burgers) on WhereToYEG.

@@ -32,9 +32,9 @@ If you have no idea what you want, book a hybrid.
 
 **[Bizou Lash Studio](/lash-techs/bizou-lash-studio)** — Detail-focused work, clean spaces, and a range of set types from natural classic to full mega volume.
 
-**[Frilly Lilly](/lash-techs/frilly-lilly)** — Multi-location Edmonton institution. Consistent training across the roster, easy to book, good for people who want reliability over hunting for one specific tech.
+**[Frilly Lilly](/nail-salons/frilly-lilly)** — Multi-location Edmonton institution. Consistent training across the roster, easy to book, good for people who want reliability over hunting for one specific tech.
 
-**[V5 Nails Salon & Spa](/lash-techs/v5-nails-salon)** — Combines nail work with lashes so you can do both in one visit.
+**[V5 Nails Salon & Spa](/nail-salons/v5-nails-salon)** — Combines nail work with lashes so you can do both in one visit.
 
 Browse all [lash techs in Edmonton](/lash-techs).
 

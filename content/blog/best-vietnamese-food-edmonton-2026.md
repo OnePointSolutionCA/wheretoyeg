@@ -39,7 +39,7 @@ Pho is the gateway, and Edmonton does it right.
 
 [Kanto 98 Street Eats](/restaurants/kanto-98-street-eats) brings Filipino-Vietnamese crossover flavors to the mix. It's not traditional, but it's delicious.
 
-[Lemongrass Cafe Windermere](/restaurants/lemongrass-cafe-windermere) is the suburban option with a polished feel. Good for families and anyone in the Windermere area who doesn't want to drive to the north side for Vietnamese.
+[Lemongrass Cafe Windermere](/cafes-coffee-shops/lemongrass-cafe-windermere) is the suburban option with a polished feel. Good for families and anyone in the Windermere area who doesn't want to drive to the north side for Vietnamese.
 
 ## Tips for ordering
 
