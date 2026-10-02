@@ -18,8 +18,9 @@ import { categoryFaq } from "@/lib/faq";
 import { relatedPosts } from "@/lib/related";
 import { SITE } from "@/lib/site";
 import { toCard } from "@/lib/slim";
+import { edmontonDay } from "@/lib/daily";
 
-export const revalidate = 3600;
+export const revalidate = 600;
 
 export async function generateStaticParams() {
   return getCategories().map((c) => ({ category: c.slug }));
@@ -65,7 +66,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
   const neighborhoods = Array.from(new Set(businesses.map((b) => b.neighborhood))).filter(Boolean).sort();
   const amenities = Array.from(new Set(businesses.flatMap((b) => b.amenities ?? []))).sort();
 
-  const day = Math.floor(Date.now() / 86_400_000);
+  const day = edmontonDay();
 
   // Top Picks: 6 highest-rated, rotated daily
   const topPicks = seededShuffle(

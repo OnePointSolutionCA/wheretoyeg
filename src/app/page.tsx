@@ -15,6 +15,7 @@ import { Carousel } from "@/components/Carousel";
 import { Marquee } from "@/components/home/Marquee";
 import { SectionHead } from "@/components/home/SectionHead";
 import { SITE } from "@/lib/site";
+import { dailyShuffle } from "@/lib/daily";
 import { toCard } from "@/lib/slim";
 import {
   getDiverseFeatured,
@@ -27,7 +28,8 @@ import type { Metadata } from "next";
 
 function toSlug(s: string) { return s.toLowerCase().replace(/\s+/g, "-"); }
 
-export const revalidate = 3600;
+// Short window so the daily rotation flips within minutes of Edmonton midnight.
+export const revalidate = 600;
 
 export const metadata: Metadata = {
   alternates: { canonical: `${SITE.url}/` },
@@ -46,49 +48,46 @@ export default function HomePage() {
   const FEATURED_AREAS = ["Downtown", "Whyte Ave", "West Edmonton", "124 Street", "Sherwood Park", "St. Albert", "Mill Woods", "Windermere", "Spruce Grove", "Beaumont"];
   const featuredAreas = FEATURED_AREAS.map((n) => areaTiles.find((a) => a.name === n)).filter((a): a is (typeof areaTiles)[number] => !!a);
   const otherAreas = areaTiles.filter((a) => !FEATURED_AREAS.includes(a.name));
-  // Diverse activity picks: one per subcategory (top-rated in each), max 6.
-  const rankedActivities = getBusinesses()
-    .filter((b) => b.category === "activities-fun" && (b.photos?.length ?? 0) > 0)
-    .sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0) || (b.review_count ?? 0) - (a.review_count ?? 0));
-  const activities: typeof rankedActivities = [];
-  const seenSubs = new Set<string>();
-  for (const b of rankedActivities) {
-    const sub = b.subcategory ?? "other";
-    if (seenSubs.has(sub)) continue;
-    activities.push(b);
-    seenSubs.add(sub);
-    if (activities.length >= 8) break;
-  }
-  // Fill remaining slots with the next highest-rated regardless of sub
-  if (activities.length < 8) {
-    for (const b of rankedActivities) {
-      if (activities.includes(b)) continue;
-      activities.push(b);
-      if (activities.length >= 8) break;
-    }
-  }
-
-
   const score = (b: (typeof allBusinesses)[number]) => {
     const v = Number(b.review_count) || 0;
     return ((Number(b.rating) || 0) * v + 4.3 * 60) / (v + 60);
   };
   const ranked = allBusinesses.filter((b) => b.photos?.length && b.rating > 0).sort((a, b) => score(b) - score(a));
-  const pickDistinct = (pool: typeof ranked, n: number, cats?: string[]) => {
+  const brandOf = (b: (typeof ranked)[number]) => b.name.toLowerCase().replace(/[^a-z0-9 ]/g, "").split(/\s+/).slice(0, 2).join(" ");
+  /** Picks n from a pool, at most `perCategory` per category and one per brand (chains share review counts). */
+  const pickVaried = (pool: typeof ranked, n: number, perCategory: number, exclude = new Set<string>()) => {
     const out: typeof ranked = [];
-    const seen = new Set<string>();
+    const perCat = new Map<string, number>();
+    const brands = new Set<string>();
     for (const b of pool) {
-      if (cats && !cats.includes(b.category)) continue;
-      if (seen.has(b.category) || b.review_count < 100) continue;
-      seen.add(b.category);
+      const c = perCat.get(b.category) ?? 0;
+      if (c >= perCategory || brands.has(brandOf(b)) || exclude.has(b.slug)) continue;
+      perCat.set(b.category, c + 1);
+      brands.add(brandOf(b));
       out.push(b);
       if (out.length >= n) break;
     }
     return out;
   };
-  const topFive = pickDistinct(ranked, 5, ["restaurants", "cafes-coffee-shops", "bakeries", "activities-fun", "barbers", "spas-esthetics", "grocery-markets", "hair-salons"]);
+
+  // Rotating spots draw a fresh set every Edmonton day from the best-reviewed places, so quality stays high.
+  const TOP_CATS = ["restaurants", "cafes-coffee-shops", "bakeries", "activities-fun", "barbers", "spas-esthetics", "grocery-markets", "hair-salons"];
+  const topPool = ranked.filter((b) => TOP_CATS.includes(b.category) && b.review_count >= 100 && b.rating >= 4.5).slice(0, 40);
+  const topFive = pickVaried(dailyShuffle(topPool, 1), 5, 1).sort((a, b) => score(b) - score(a));
   const topSlugs = new Set(topFive.map((b) => b.slug));
-  const mosaic = activities.filter((b) => !topSlugs.has(b.slug)).slice(0, 5);
+
+  const activityPool = ranked.filter((b) => b.category === "activities-fun" && b.review_count >= 30 && b.rating >= 4.3).slice(0, 24);
+  const mosaic: typeof ranked = [];
+  const seenSubs = new Set<string>();
+  for (const b of dailyShuffle(activityPool, 2)) {
+    const sub = b.subcategory ?? "other";
+    if (seenSubs.has(sub) || topSlugs.has(b.slug)) continue;
+    seenSubs.add(sub);
+    mosaic.push(b);
+    if (mosaic.length >= 5) break;
+  }
+  if (mosaic.length < 5) mosaic.push(...pickVaried(activityPool, 5 - mosaic.length, 9, new Set([...topSlugs, ...mosaic.map((b) => b.slug)])));
+
   const [leadPost, ...morePosts] = allPosts;
   const leadCover = leadPost ? postCover(leadPost) : "";
   const leadCat = leadPost ? postCategory(leadPost) : undefined;
@@ -97,7 +96,8 @@ export default function HomePage() {
   const halalByCat = ["restaurants", "grocery-markets", "catering", "bakeries", "cafes-coffee-shops"]
     .map((slug) => ({ slug, name: catBySlug[slug], count: halal.filter((b) => b.category === slug).length }))
     .filter((x) => x.count > 0);
-  const halalPicks = pickDistinct(ranked.filter((b) => b.amenities?.includes("Halal")), 4);
+  const halalPool = ranked.filter((b) => b.amenities?.includes("Halal") && b.review_count >= 100 && b.rating >= 4.5).slice(0, 24);
+  const halalPicks = pickVaried(dailyShuffle(halalPool, 3), 4, 2, topSlugs);
 
   const usedCovers = new Set<string>();
   const collections = COLLECTIONS.map((c) => {
@@ -222,8 +222,8 @@ export default function HomePage() {
 
             <div className="flex min-w-0 flex-col rounded-3xl border border-line bg-white p-5 shadow-card sm:p-8">
               <div className="flex items-baseline justify-between">
-                <h3 className="font-display text-xl font-extrabold text-teal">Top rated right now</h3>
-                <span className="text-xs font-semibold text-teal-300">via Google reviews</span>
+                <h3 className="font-display text-xl font-extrabold text-teal">Today&apos;s top rated</h3>
+                <span className="text-xs font-semibold text-teal-300">New picks daily</span>
               </div>
               <ol className="mt-4 flex-1 divide-y divide-line">
                 {topFive.map((b, i) => (

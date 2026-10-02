@@ -3,6 +3,7 @@ import path from "node:path";
 import matter from "gray-matter";
 import type { Business, Category, Neighborhood, Subcategory } from "./types";
 import { placeLabel } from "./place";
+import { edmontonDay } from "./daily";
 
 const ROOT = path.join(process.cwd(), "content");
 
@@ -158,7 +159,7 @@ export function getFeaturedBusinesses(limit = 8): Business[] {
 }
 
 export function getDiverseFeatured(limit = 12): Business[] {
-  const day = Math.floor(Date.now() / 86_400_000);
+  const day = edmontonDay();
   const seed = day;
 
   const all = getBusinesses()
@@ -215,7 +216,7 @@ export function getDiverseFeatured(limit = 12): Business[] {
 }
 
 export function getRecentReviews(limit = 4) {
-  const day = Math.floor(Date.now() / 86_400_000);
+  const day = edmontonDay();
   let s = day;
   const perBusiness = getBusinesses()
     .flatMap((b) => {
