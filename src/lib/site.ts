@@ -9,10 +9,6 @@ export const SITE = {
   email: "hello@wheretoyeg.ca",
   /** Where mail actually delivers — form submissions + mailto links land here. */
   deliveryEmail: "info@onepointsolutionsca.com",
-  social: {
-    instagram: "https://instagram.com/wheretoyeg",
-    tiktok: "https://tiktok.com/@wheretoyeg",
-  },
   neighborhoods: [
     "Downtown",
     "Whyte Ave",

@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { neighborhoodStats } from "@/lib/neighborhoods";
+import { AreaTile } from "@/components/AreaTile";
 import { HeroSearch } from "@/components/HeroSearch";
 import { HeroVideo } from "@/components/HeroVideo";
 import { CategoryGrid } from "@/components/CategoryGrid";
@@ -41,9 +42,10 @@ export default function HomePage() {
   const guideCount = allPosts.length;
   const allBusinesses = getBusinesses();
   const totalBusinesses = allBusinesses.length;
-  const areaTiles = SITE.neighborhoods
-    .map((n) => ({ name: n, ...neighborhoodStats(n, allBusinesses) }))
-    .sort((a, b) => b.businesses.length - a.businesses.length);
+  const areaTiles = SITE.neighborhoods.map((n) => ({ name: n, ...neighborhoodStats(n, allBusinesses) }));
+  const FEATURED_AREAS = ["Downtown", "Whyte Ave", "West Edmonton", "124 Street", "Sherwood Park", "St. Albert", "Mill Woods", "Windermere", "Spruce Grove", "Beaumont"];
+  const featuredAreas = FEATURED_AREAS.map((n) => areaTiles.find((a) => a.name === n)).filter((a): a is (typeof areaTiles)[number] => !!a);
+  const otherAreas = areaTiles.filter((a) => !FEATURED_AREAS.includes(a.name));
   // Diverse activity picks: one per subcategory (top-rated in each), max 6.
   const rankedActivities = getBusinesses()
     .filter((b) => b.category === "activities-fun" && (b.photos?.length ?? 0) > 0)
@@ -387,26 +389,24 @@ export default function HomePage() {
       {/* 08 NEIGHBORHOODS */}
       <section className="container-page mt-24 sm:mt-32" data-reveal="up">
         <SectionHead index="08" kicker="Neighborhoods" title="Explore by" accent="where you are." href="/neighborhoods" linkLabel="All neighborhoods" />
-        <div className="mt-10 grid grid-cols-2 gap-3 sm:gap-4 lg:grid-cols-4">
-          {areaTiles.slice(0, 8).map((a) => (
-            <Link
+        <div className="mt-10 grid grid-cols-2 gap-3 sm:gap-4 lg:auto-rows-[230px] lg:grid-cols-4">
+          {featuredAreas.map((a, i) => (
+            <AreaTile
               key={a.name}
+              name={a.name}
               href={`/neighborhoods/${toSlug(a.name)}`}
-              className="group relative flex aspect-[4/3] flex-col justify-end overflow-hidden rounded-3xl bg-teal text-white shadow-card transition-all duration-500 hover:-translate-y-1 hover:shadow-lift"
-            >
-              {a.cover && (
-                <Image src={a.cover} alt="" fill sizes="(max-width: 1024px) 50vw, 300px" className="object-cover transition-transform duration-[1200ms] ease-out group-hover:scale-110" />
-              )}
-              <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/30 to-transparent" aria-hidden="true" />
-              <div className="relative p-4">
-                <div className="font-display text-lg font-extrabold leading-tight drop-shadow sm:text-xl">{a.name}</div>
-                <div className="text-xs font-semibold text-white/75">{a.businesses.length} spots</div>
-              </div>
-            </Link>
+              count={a.businesses.length}
+              photo={a.photo}
+              fallback={a.cover}
+              tags={a.topCategories.map((c) => c.name)}
+              size={i < 2 ? "lg" : "md"}
+              className={i < 2 ? "col-span-2 aspect-[16/10] lg:row-span-2 lg:aspect-auto" : "aspect-square lg:aspect-auto"}
+            />
           ))}
         </div>
-        <div className="mt-5 flex flex-wrap gap-2">
-          {areaTiles.slice(8).map((a) => (
+        <div className="mt-5 flex flex-wrap items-center gap-2">
+          <span className="text-xs font-bold uppercase tracking-[0.14em] text-teal-300">Also:</span>
+          {otherAreas.map((a) => (
             <Link key={a.name} href={`/neighborhoods/${toSlug(a.name)}`} className="chip">
               {a.name} <span className="text-teal-300">{a.businesses.length}</span>
             </Link>

@@ -30,13 +30,6 @@ export default function ContactPage() {
                 </a>
               </div>
             </div>
-            <div>
-              <span className="eyebrow text-teal-500">Social</span>
-              <div className="mt-1 flex gap-2">
-                <a href={SITE.social.instagram} className="chip" target="_blank" rel="noreferrer">Instagram</a>
-                <a href={SITE.social.tiktok} className="chip" target="_blank" rel="noreferrer">TikTok</a>
-              </div>
-            </div>
           </div>
         </div>
 

@@ -10,14 +10,9 @@ export function Footer() {
         <div>
           <div className="font-display text-xl font-extrabold text-teal">WhereToYEG</div>
           <p className="mt-2 max-w-xs text-sm text-teal-500">{SITE.description}</p>
-          <div className="mt-4 flex gap-3">
-            <a href={SITE.social.instagram} className="chip" target="_blank" rel="noreferrer">
-              Instagram
-            </a>
-            <a href={SITE.social.tiktok} className="chip" target="_blank" rel="noreferrer">
-              TikTok
-            </a>
-          </div>
+          <a href={`mailto:${SITE.deliveryEmail}`} className="mt-4 inline-block text-sm font-semibold text-teal hover:text-coral">
+            {SITE.email}
+          </a>
         </div>
         <div>
           <div className="text-xs font-bold uppercase tracking-wider text-coral">Explore</div>

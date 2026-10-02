@@ -1,5 +1,6 @@
 import type { Business } from "./types";
 import { getBusinesses, getCategories } from "./content";
+import { AREA_PHOTOS } from "./areaPhotos";
 
 export const neighborhoodSlug = (s: string) => s.toLowerCase().replace(/\s+/g, "-");
 
@@ -31,7 +32,8 @@ export function neighborhoodStats(name: string, all: Business[] = getBusinesses(
   return {
     businesses,
     topCategories,
-    cover: pickCover(businesses),
+    photo: AREA_PHOTOS[name],
+    cover: AREA_PHOTOS[name]?.src ?? pickCover(businesses),
     avgRating: rated.length ? rated.reduce((s, b) => s + Number(b.rating), 0) / rated.length : 0,
     reviews: rated.reduce((s, b) => s + Number(b.review_count), 0),
   };

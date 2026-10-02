@@ -38,7 +38,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
 export default function NeighborhoodPage({ params }: { params: { slug: string } }) {
   const name = SITE.neighborhoods.find((n) => toSlug(n) === params.slug);
   if (!name) notFound();
-  const { businesses, topCategories, cover, avgRating, reviews } = neighborhoodStats(name);
+  const { businesses, topCategories, cover, avgRating, reviews, photo } = neighborhoodStats(name);
   const cats = Object.fromEntries(getCategories().map((c) => [c.slug, c.name]));
   const others = SITE.neighborhoods.filter((n) => n !== name);
 
@@ -50,7 +50,7 @@ export default function NeighborhoodPage({ params }: { params: { slug: string } 
         { name },
       ])} />
       <section className="relative overflow-hidden bg-teal text-white">
-        {cover && <Image src={cover} alt="" fill priority sizes="100vw" className="object-cover opacity-40" />}
+        {cover && <Image src={cover} alt={photo ? `${name}, Edmonton` : ""} fill priority sizes="100vw" className={"object-cover " + (photo ? "opacity-60" : "opacity-40")} />}
         <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/55 to-black/30" aria-hidden="true" />
         <div className="pointer-events-none absolute -right-24 -top-24 h-96 w-96 rounded-full bg-coral/20 blur-3xl" aria-hidden="true" />
         <div className="container-page relative py-14 sm:py-20" data-reveal="left">
@@ -78,6 +78,20 @@ export default function NeighborhoodPage({ params }: { params: { slug: string } 
             </div>
           )}
         </div>
+        {photo && (
+          <p className="absolute bottom-3 right-4 z-10 text-[10px] text-white/60">
+            Photo:{" "}
+            <a href={photo.source} target="_blank" rel="noreferrer" className="underline decoration-white/30 hover:text-white">{photo.credit}</a>
+            {photo.licenseUrl ? (
+              <>
+                {" · "}
+                <a href={photo.licenseUrl} target="_blank" rel="noreferrer" className="underline decoration-white/30 hover:text-white">{photo.license}</a>
+              </>
+            ) : (
+              <> · {photo.license}</>
+            )}
+          </p>
+        )}
       </section>
 
       {topCategories.length > 1 && (

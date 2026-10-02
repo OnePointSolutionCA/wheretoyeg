@@ -58,7 +58,6 @@ export function organizationSchema() {
     url: SITE.url,
     logo: `${SITE.url}/logo-mark.png`,
     email: SITE.email,
-    sameAs: [SITE.social.instagram, SITE.social.tiktok],
   };
 }
 
