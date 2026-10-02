@@ -5,7 +5,7 @@ import { getBusinesses } from "@/lib/content";
 import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Curated Collections — Edmonton Spots for Every Vibe | WhereToYEG",
+  title: { absolute: "Curated Collections — Edmonton Spots for Every Vibe | WhereToYEG" },
   description: "Late-night eats, weekend brunch, date night, halal foodie tour, self-care Saturdays, hidden gems — the WhereToYEG curated collections.",
   alternates: { canonical: `${SITE.url}/collections` },
 };

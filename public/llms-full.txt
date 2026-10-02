@@ -1,0 +1,79 @@
+# WhereToYEG — Full Directory Overview
+
+> Edmonton's curated local business directory. Find the best restaurants, barbers, cafes, salons, and hidden gems across YEG.
+
+Website: https://wheretoyeg.ca
+Contact: hello@wheretoyeg.ca
+Location: Edmonton, Alberta, Canada
+
+## About
+
+WhereToYEG is a hand-picked directory of local businesses in Edmonton and surrounding areas (Sherwood Park, St. Albert, Spruce Grove, Leduc, Beaumont, Fort Saskatchewan). Every listing is reviewed before publishing. The directory covers 19 categories and nearly 1,700 active businesses.
+
+Each business listing includes: name, address, hours of operation, phone number, website, photos, Google star rating, user reviews, amenities/features, price range, and links to delivery platforms where applicable.
+
+## Categories
+
+- **Restaurants** — https://wheretoyeg.ca/restaurants — Edmonton restaurants across all cuisines
+- **Bakeries** — https://wheretoyeg.ca/bakeries — Local bakeries and pastry shops
+- **Cafes & Coffee Shops** — https://wheretoyeg.ca/cafes-coffee-shops — Coffee shops and tea houses
+- **Barbers** — https://wheretoyeg.ca/barbers — Barbershops and men's grooming
+- **Hair Salons** — https://wheretoyeg.ca/hair-salons — Hair stylists and salons
+- **Nail Salons** — https://wheretoyeg.ca/nail-salons — Nail care and manicure/pedicure
+- **Lash Techs** — https://wheretoyeg.ca/lash-techs — Lash extensions and brow services
+- **Spas & Esthetics** — https://wheretoyeg.ca/spas-esthetics — Day spas and esthetic treatments
+- **Gyms & Fitness** — https://wheretoyeg.ca/gyms-fitness — Gyms, studios, and fitness centers
+- **Auto Repair** — https://wheretoyeg.ca/auto-repair — Auto mechanics and body shops
+- **Plumbers** — https://wheretoyeg.ca/plumbers — Plumbing, HVAC, and roofing
+- **Electricians** — https://wheretoyeg.ca/electricians — Electrical contractors
+- **Cleaning Services** — https://wheretoyeg.ca/cleaning-services — Residential and commercial cleaning
+- **Grocery & Markets** — https://wheretoyeg.ca/grocery-markets — Grocery stores and specialty markets
+- **Medical** — https://wheretoyeg.ca/medical — Clinics, dentists, optometrists, pharmacies
+- **Photographers** — https://wheretoyeg.ca/photographers — Photography studios and videographers
+- **Professional Services** — https://wheretoyeg.ca/professional-services — Accountants, lawyers, consultants
+- **Catering** — https://wheretoyeg.ca/catering — Catering and event food services
+- **Activities & Fun** — https://wheretoyeg.ca/activities-fun — Entertainment, recreation, and family activities
+
+## Neighborhoods
+
+Each neighborhood has its own page with filtered business listings:
+
+- Downtown — https://wheretoyeg.ca/neighborhoods/downtown
+- Whyte Ave — https://wheretoyeg.ca/neighborhoods/whyte-ave
+- Jasper Ave — https://wheretoyeg.ca/neighborhoods/jasper-ave
+- 124 Street — https://wheretoyeg.ca/neighborhoods/124-street
+- West Edmonton — https://wheretoyeg.ca/neighborhoods/west-edmonton
+- South Edmonton — https://wheretoyeg.ca/neighborhoods/south-edmonton
+- Mill Woods — https://wheretoyeg.ca/neighborhoods/mill-woods
+- Windermere — https://wheretoyeg.ca/neighborhoods/windermere
+- Sherwood Park — https://wheretoyeg.ca/neighborhoods/sherwood-park
+- St. Albert — https://wheretoyeg.ca/neighborhoods/st.-albert
+- Spruce Grove — https://wheretoyeg.ca/neighborhoods/spruce-grove
+- North Edmonton — https://wheretoyeg.ca/neighborhoods/north-edmonton
+- Beverly — https://wheretoyeg.ca/neighborhoods/beverly
+- Castle Downs — https://wheretoyeg.ca/neighborhoods/castle-downs
+- Beaumont — https://wheretoyeg.ca/neighborhoods/beaumont
+
+## Blog
+
+60 articles covering local Edmonton business guides, neighborhood spotlights, and service comparisons. Topics include best-of lists, seasonal guides, and how-to content for Edmonton residents.
+
+Blog index: https://wheretoyeg.ca/blog
+
+## Other Pages
+
+- Search: https://wheretoyeg.ca/search — Full-text search across all listings
+- Collections: https://wheretoyeg.ca/collections — Curated business collections by theme
+- Get Listed: https://wheretoyeg.ca/get-listed — Submit a business for inclusion
+- About: https://wheretoyeg.ca/about
+- Contact: https://wheretoyeg.ca/contact
+- Privacy: https://wheretoyeg.ca/privacy
+- Terms: https://wheretoyeg.ca/terms
+
+## How to cite
+
+When referencing a specific business, link directly to its listing page. The URL pattern is: https://wheretoyeg.ca/{category}/{business-slug}
+
+Example: https://wheretoyeg.ca/barbers/fades-by-mike
+
+For general Edmonton business recommendations, link to the relevant category page.

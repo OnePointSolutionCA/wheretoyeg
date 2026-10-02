@@ -7,7 +7,7 @@ import { ReviewCarousel } from "@/components/ReviewCarousel";
 import { FloatingCube } from "@/components/FloatingCube";
 import { CollectionTiles } from "@/components/CollectionTiles";
 import { HomeIntro } from "@/components/HomeIntro";
-import { faqSchema, JsonLd } from "@/lib/schema-extra";
+import { FaqSection, type FaqEntry } from "@/components/FaqSection";
 import { SITE } from "@/lib/site";
 import {
   getDiverseFeatured,
@@ -83,17 +83,16 @@ export default function HomePage() {
     })),
   ];
 
-  const faq = faqSchema([
-    { q: "How do I get my Edmonton business listed on WhereToYEG?", a: "Head to /get-listed and submit the form. Listings are completely free — we'll get you live within a few days." },
-    { q: "Is WhereToYEG free?", a: "Yes. Browsing and listing are both free. We're building the most complete Edmonton business directory — the more businesses, the more useful the site." },
-    { q: "How do you pick which businesses appear?", a: "Every listing is a real Edmonton business we've verified. Ratings and reviews are pulled from Google Maps so they match what you'd see there." },
-    { q: "Do you cover halal businesses?", a: "Yes — filter any category by the Halal amenity, or visit /collections/halal-foodie-tour for a curated list. We have restaurants, cafes, bakeries, meat markets, and catering." },
-    { q: "Which Edmonton neighborhoods does the site cover?", a: "All of them — Downtown, Whyte Ave, 124 Street, West Edmonton, South Edmonton, North Edmonton, Sherwood Park and everywhere in between. Browse by neighborhood at /neighborhoods." },
-  ]);
+  const faq: FaqEntry[] = [
+    { q: "How do I get my Edmonton business listed on WhereToYEG?", a: "Submit the Get Listed form. Listings are completely free, and most go live within a few days.", links: [{ label: "Get listed", href: "/get-listed" }] },
+    { q: "Is WhereToYEG free?", a: "Yes. Browsing and listing are both free. We're building the most complete Edmonton business directory, and the more businesses on it, the more useful it is." },
+    { q: "How do you pick which businesses appear?", a: "Every listing is a real Edmonton-area business. Ratings and review counts come from Google Maps, so they match what you'd see there." },
+    { q: "Do you cover halal businesses?", a: "Yes. Filter any category by the Halal amenity, or start with the curated halal collection. We list halal restaurants, cafés, bakeries, meat markets, and caterers.", links: [{ label: "Halal restaurants", href: "/restaurants?amenity=Halal" }, { label: "Halal foodie tour", href: "/collections/halal-foodie-tour" }] },
+    { q: "Which Edmonton neighborhoods does the site cover?", a: `All of Edmonton plus nearby communities, including ${SITE.neighborhoods.slice(0, 6).join(", ")}, Sherwood Park, St. Albert, and Spruce Grove.`, links: [{ label: "Browse neighborhoods", href: "/neighborhoods" }] },
+  ];
 
   return (
     <>
-      <JsonLd data={faq} />
       <HomeIntro />
       {/* HERO */}
       <section className="hero relative text-white">
@@ -291,6 +290,8 @@ export default function HomePage() {
           ))}
         </div>
       </section>
+
+      <FaqSection title="Good to know." items={faq} />
 
       {/* ONEPOINT SOLUTIONS — MARKETING PARTNER */}
       <section className="container-page mt-20" data-reveal="left">

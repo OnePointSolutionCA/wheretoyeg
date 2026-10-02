@@ -1,6 +1,7 @@
 ---
 name: "Hide N Seek Indoor Playground & Cafe"
 slug: "hide-n-seek-indoor-playground-and-cafe"
+active: false
 category: "activities-fun"
 neighborhood: "Edmonton"
 address: "10830 170 St NW, Edmonton, AB T5S 2H7"

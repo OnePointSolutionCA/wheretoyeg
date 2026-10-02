@@ -1,6 +1,7 @@
 ---
 name: "WestGate Halal Meat & Deli/ Mediterranean foods"
 slug: "westgate-halal-meat-and-deli-mediterranean-foods"
+active: false
 category: "catering"
 neighborhood: "Edmonton"
 address: "9550 163 St NW, Edmonton, AB T5P 3M7"

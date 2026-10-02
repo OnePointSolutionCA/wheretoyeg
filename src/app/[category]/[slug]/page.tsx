@@ -19,11 +19,16 @@ import { BusinessHours } from "@/components/BusinessHours";
 import { QuickActions } from "@/components/QuickActions";
 import { ReviewCard } from "@/components/ReviewCard";
 import { BusinessCard } from "@/components/BusinessCard";
+import { RelatedGuides } from "@/components/RelatedGuides";
+import { relatedPosts } from "@/lib/related";
 import { FilterableList } from "@/components/FilterBar";
 import { SubcategoryPills } from "@/components/SubcategoryPills";
 import { businessSchema } from "@/lib/schema";
+import { breadcrumbSchema, JsonLd } from "@/lib/schema-extra";
 import { deliveryLinks } from "@/lib/delivery";
 import { SITE } from "@/lib/site";
+import { placeLabel } from "@/lib/place";
+import { clip } from "@/lib/text";
 
 const FOOD_CATEGORIES = new Set(["restaurants", "cafes-coffee-shops", "bakeries", "catering", "grocery-markets"]);
 
@@ -78,8 +83,12 @@ export async function generateMetadata({ params }: { params: { category: string;
     ? cat.subcategories?.find((s) => s.slug === b.subcategory)?.name
     : undefined;
   const service = subName || cat.name;
-  const title = `${b.name} — ${service} in ${b.neighborhood}, Edmonton`;
-  const desc = `${b.name}: ${service.toLowerCase()} in ${b.neighborhood}, Edmonton. ${b.description}`.slice(0, 158);
+  const place = placeLabel(b.neighborhood);
+  const title = `${b.name} — ${service} in ${place}`;
+  const desc = clip(
+    b.description.startsWith(b.name) ? b.description : `${b.name}: ${service.toLowerCase()} in ${place}. ${b.description}`,
+    158,
+  );
   return {
     title,
     description: desc,
@@ -88,7 +97,7 @@ export async function generateMetadata({ params }: { params: { category: string;
       `${service} Edmonton`,
       `${service} near me`,
       `best ${service.toLowerCase()} Edmonton`,
-      `${b.neighborhood} ${service.toLowerCase()}`,
+      `${placeLabel(b.neighborhood)} ${service.toLowerCase()}`,
     ],
     alternates: { canonical: `${SITE.url}/${b.category}/${b.slug}` },
     openGraph: {
@@ -125,6 +134,11 @@ function SubcategoryView({ category: c, sub }: { category: ReturnType<typeof get
 
   return (
     <>
+      <JsonLd data={breadcrumbSchema([
+        { name: "Home", href: "/" },
+        { name: c.name, href: `/${c.slug}` },
+        { name: sub.name },
+      ])} />
       <section className="border-b border-line bg-mist">
         <div className="container-page py-12" data-reveal="left">
           <nav className="text-xs text-teal-500">
@@ -185,12 +199,17 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
     ? cat.subcategories?.find((s) => s.slug === b.subcategory)?.name
     : undefined;
 
+  const breadcrumbLinks = [
+    { name: "Home", href: "/" },
+    { name: cat.name, href: `/${b.category}` },
+    ...(subName && b.subcategory ? [{ name: subName, href: `/${b.category}/${b.subcategory}` }] : []),
+    { name: b.name },
+  ];
+
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(businessSchema(b)) }}
-      />
+      <JsonLd data={businessSchema(b)} />
+      <JsonLd data={breadcrumbSchema(breadcrumbLinks)} />
 
       <section className="border-b border-line bg-mist">
         <div className="container-page py-8">
@@ -285,14 +304,16 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
           <div className="mt-10">
             <div className="flex items-end justify-between">
               <h2 className="font-display text-xl font-bold text-teal">Reviews</h2>
-              <a
-                href={reviewFormLink(b.name)}
-                target="_blank"
-                rel="noreferrer"
-                className="text-sm font-semibold text-coral hover:underline"
-              >
-                Write a review →
-              </a>
+              {b.google_maps_url && (
+                <a
+                  href={b.google_maps_url}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="text-sm font-semibold text-coral hover:underline"
+                >
+                  Write a review on Google →
+                </a>
+              )}
             </div>
 
             {/* Aggregate summary — always shown */}
@@ -346,7 +367,9 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
           <div className="rounded-2xl border border-line bg-white p-5">
             <h3 className="font-display text-lg font-bold text-teal">Location</h3>
             <p className="mt-2 text-sm text-teal-500">{b.address}</p>
-            <p className="mt-1 text-sm text-teal-500">Edmonton, AB</p>
+            {!/,\s*(AB|Alberta)\b/i.test(b.address ?? "") && (
+              <p className="mt-1 text-sm text-teal-500">Edmonton, AB</p>
+            )}
             {b.latitude && b.longitude && (
               <div className="mt-3 overflow-hidden rounded-xl border border-line">
                 <iframe
@@ -412,12 +435,10 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
           </div>
         </section>
       )}
+
+      <RelatedGuides posts={relatedPosts(b.category)} title="Related Edmonton guides" />
     </>
   );
-}
-
-function reviewFormLink(businessName: string) {
-  return `https://docs.google.com/forms/d/e/FORM_ID/viewform?entry.0=${encodeURIComponent(businessName)}`;
 }
 
 function CheckIcon() {

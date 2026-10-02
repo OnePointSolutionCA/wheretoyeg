@@ -1,6 +1,7 @@
 ---
 name: "Tarrka House By Sareng Restaurant[HALAL]"
 slug: "tarrka-house-by-sareng-restaurant-halal"
+active: false
 category: "restaurants"
 neighborhood: "Mill Woods"
 address: "326 Saddleback Rd NW, Edmonton, AB T6J 4R7"

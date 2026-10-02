@@ -1,6 +1,7 @@
 ---
 name: "Back Nine Tavern"
 slug: "back-nine-tavern"
+active: false
 category: "restaurants"
 neighborhood: "St. Albert"
 address: "215 McKenney Ave, St. Albert, AB T8T 4M2"

@@ -3,6 +3,7 @@ import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Terms of Service",
+  description: "WhereToYEG terms of service. Rules for listings, reviews, photos, and content accuracy on Edmonton's local business directory.",
   alternates: { canonical: `${SITE.url}/terms` },
 };
 
@@ -15,7 +16,7 @@ export default function TermsPage() {
       <div className="mt-6 max-w-3xl space-y-4 text-teal-500">
         <p>Use of {SITE.name} is subject to these terms. By browsing or submitting information, you agree to them.</p>
         <h2 className="font-display text-xl font-bold text-teal">Listings</h2>
-        <p>Businesses that appear on {SITE.name} pay a monthly or annual fee for the tier they choose (Basic, Featured, Premium). Payment is handled externally via e-transfer or Stripe. Listings may be paused or removed for non-payment or violation of these terms.</p>
+        <p>Listing a business on {SITE.name} is free. We may edit, pause, or remove listings that are inaccurate, permanently closed, duplicated, or in violation of these terms.</p>
         <h2 className="font-display text-xl font-bold text-teal">Reviews and photos</h2>
         <p>Reviews and photos submitted through our forms are moderated before publishing. We reserve the right to reject spam, fake, defamatory, or otherwise inappropriate submissions.</p>
         <h2 className="font-display text-xl font-bold text-teal">Content accuracy</h2>

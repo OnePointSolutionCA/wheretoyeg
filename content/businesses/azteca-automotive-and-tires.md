@@ -1,6 +1,7 @@
 ---
 name: "Azteca Automotive & Tires"
 slug: "azteca-automotive-and-tires"
+active: false
 category: "auto-repair"
 subcategory: "general-repair"
 neighborhood: "Edmonton"

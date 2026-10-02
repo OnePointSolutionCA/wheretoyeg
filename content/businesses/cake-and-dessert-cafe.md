@@ -1,6 +1,7 @@
 ---
 name: "Cake & Dessert Cafe"
 slug: "cake-and-dessert-cafe"
+active: false
 category: "cafes-coffee-shops"
 neighborhood: "Windermere"
 address: "8278 175 St NW, Edmonton, AB T5T 1V1"

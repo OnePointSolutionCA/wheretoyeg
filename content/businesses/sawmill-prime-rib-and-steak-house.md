@@ -1,6 +1,7 @@
 ---
 name: "Sawmill Prime Rib & Steak House"
 slug: "sawmill-prime-rib-and-steak-house"
+active: false
 category: "restaurants"
 subcategory: "steakhouse"
 neighborhood: "Mill Woods"

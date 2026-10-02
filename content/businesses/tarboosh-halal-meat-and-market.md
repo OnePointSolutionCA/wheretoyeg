@@ -1,6 +1,7 @@
 ---
 name: "Tarboosh halal meat & market"
 slug: "tarboosh-halal-meat-and-market"
+active: false
 category: "restaurants"
 neighborhood: "Edmonton"
 address: "6873 Ad Astra Blvd NW, Edmonton, AB T5E 4G6"

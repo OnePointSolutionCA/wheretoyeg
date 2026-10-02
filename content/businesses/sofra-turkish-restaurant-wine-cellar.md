@@ -28,7 +28,7 @@ amenities:
   - "Takeout"
   - "Family Friendly"
 tags: ["edmonton", "turkish", "halal"]
-active: true
+active: false
 date_listed: "2026-08-30"
 reviews:
   - name: "Nico"

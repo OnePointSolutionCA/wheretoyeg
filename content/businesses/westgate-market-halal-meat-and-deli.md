@@ -1,6 +1,7 @@
 ---
 name: "Westgate Market Halal Meat & Deli"
 slug: "westgate-market-halal-meat-and-deli"
+active: false
 category: "catering"
 neighborhood: "Edmonton"
 address: "12512 137 Ave NW, Edmonton, AB T5L 4Y5"

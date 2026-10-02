@@ -6,23 +6,33 @@ import { COLLECTIONS } from "@/lib/collections";
 
 function toSlug(s: string) { return s.toLowerCase().replace(/\s+/g, "-"); }
 
+function validDate(s?: string) {
+  const d = s ? new Date(s) : null;
+  return d && !isNaN(d.getTime()) ? d : undefined;
+}
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const base = SITE.url;
   const now = new Date();
-  const staticRoutes = ["", "/about", "/contact", "/get-listed", "/search", "/privacy", "/terms", "/neighborhoods", "/blog", "/collections"];
-  const cats = getCategories().map((c) => `/${c.slug}`);
-  const subs: string[] = [];
-  for (const c of getCategories()) {
-    for (const s of c.subcategories ?? []) subs.push(`/${c.slug}/${s.slug}`);
-  }
-  const biz = getBusinesses().filter((b) => b.tier === "premium").map((b) => `/${b.category}/${b.slug}`);
-  const neighborhoods = SITE.neighborhoods.map((n) => `/neighborhoods/${toSlug(n)}`);
-  const blog = getBlogPosts().map((p) => `/blog/${p.slug}`);
-  const collections = COLLECTIONS.map((c) => `/collections/${c.slug}`);
-  return [...staticRoutes, ...cats, ...subs, ...biz, ...neighborhoods, ...blog, ...collections].map((p) => ({
-    url: `${base}${p}`,
-    lastModified: now,
+  const entry = (path: string, priority: number, lastModified: Date = now): MetadataRoute.Sitemap[number] => ({
+    url: `${base}${path}`,
+    lastModified,
     changeFrequency: "weekly",
-    priority: p === "" ? 1 : 0.7,
-  }));
+    priority,
+  });
+
+  const staticRoutes = ["/about", "/contact", "/get-listed", "/search", "/privacy", "/terms", "/neighborhoods", "/blog", "/collections"];
+  const cats = getCategories();
+  const posts = getBlogPosts();
+
+  return [
+    entry("", 1),
+    ...staticRoutes.map((p) => entry(p, 0.5)),
+    ...cats.map((c) => entry(`/${c.slug}`, 0.9)),
+    ...cats.flatMap((c) => (c.subcategories ?? []).map((s) => entry(`/${c.slug}/${s.slug}`, 0.7))),
+    ...getBusinesses().map((b) => entry(`/${b.category}/${b.slug}`, 0.6, validDate(b.date_listed) ?? now)),
+    ...SITE.neighborhoods.map((n) => entry(`/neighborhoods/${toSlug(n)}`, 0.7)),
+    ...posts.map((p) => entry(`/blog/${p.slug}`, 0.8, validDate(p.publishedDate) ?? now)),
+    ...COLLECTIONS.map((c) => entry(`/collections/${c.slug}`, 0.7)),
+  ];
 }

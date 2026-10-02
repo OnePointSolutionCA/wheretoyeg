@@ -1,6 +1,7 @@
 ---
 name: "Another World VR & RC Gaming"
 slug: "another-world-vr-and-rc-gaming"
+active: false
 category: "activities-fun"
 neighborhood: "Edmonton"
 address: "11482 149 St, Edmonton, AB T5M 1W7"

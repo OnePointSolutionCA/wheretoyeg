@@ -1,6 +1,7 @@
 ---
 name: "UNA pizza + wine Edmonton: South Common"
 slug: "una-pizza-wine-edmonton-south-common"
+active: false
 category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Edmonton"

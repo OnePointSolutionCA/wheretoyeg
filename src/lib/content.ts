@@ -2,10 +2,23 @@ import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
 import type { Business, Category, Neighborhood, Subcategory } from "./types";
+import { placeLabel } from "./place";
 
 const ROOT = path.join(process.cwd(), "content");
 
+// Content is static per build, so production reuses parsed files instead of re-reading 1,700+ markdown files per call.
+const CACHE = process.env.NODE_ENV === "production";
+const dirCache = new Map<string, { slug: string; data: any; body: string }[]>();
+let businessCache: Business[] | null = null;
+
 function readDir(sub: string): { slug: string; data: any; body: string }[] {
+  if (CACHE && dirCache.has(sub)) return dirCache.get(sub)!;
+  const rows = readDirUncached(sub);
+  if (CACHE) dirCache.set(sub, rows);
+  return rows;
+}
+
+function readDirUncached(sub: string): { slug: string; data: any; body: string }[] {
   const dir = path.join(ROOT, sub);
   if (!fs.existsSync(dir)) return [];
   return fs
@@ -35,9 +48,81 @@ export function getSubcategory(categorySlug: string, subSlug: string): Subcatego
 }
 
 export function getBusinesses(): Business[] {
-  return readDir("businesses")
-    .map(({ data, body }) => ({ ...(data as Business), description: (data as any).description ?? body.trim() }))
+  if (CACHE && businessCache) return [...businessCache];
+  const cats = new Map(getCategories().map((c) => [c.slug, c]));
+  const list = readDir("businesses")
+    .map(({ data, body }) => {
+      const b: Business = { ...(data as Business), description: (data as any).description ?? body.trim() };
+      if (Array.isArray(b.amenities)) b.amenities = Array.from(new Set(b.amenities));
+      if (isAutoDescription(b.description)) b.description = describeBusiness(b, cats.get(b.category));
+      return b;
+    })
     .filter((b) => b.active !== false);
+  if (CACHE) businessCache = list;
+  return [...list];
+}
+
+// Matches importer one-liners like "X — pastry in Edmonton, Edmonton. 1387 Google reviews, 4.7★."
+const AUTO_DESC = /^.{1,120} — .{1,80} in .{1,60}\.( Halal-certified\.)?( [\d,]+ Google reviews, [\d.]+★\.?)?$/;
+
+function isAutoDescription(d?: string) {
+  return !d || AUTO_DESC.test(d.trim());
+}
+
+const CATEGORY_NOUN: Record<string, string> = {
+  restaurants: "restaurant",
+  bakeries: "bakery",
+  "cafes-coffee-shops": "café",
+  barbers: "barbershop",
+  "hair-salons": "hair salon",
+  "nail-salons": "nail salon",
+  "lash-techs": "lash and brow studio",
+  "spas-esthetics": "spa and esthetics studio",
+  "gyms-fitness": "gym and fitness studio",
+  "auto-repair": "auto repair shop",
+  plumbers: "home services company",
+  electricians: "electrical and HVAC contractor",
+  "cleaning-services": "cleaning service",
+  "grocery-markets": "grocery store",
+  medical: "health clinic",
+  photographers: "photography studio",
+  "professional-services": "professional services firm",
+  catering: "catering company",
+  "activities-fun": "activity spot",
+};
+
+const WEEK = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"] as const;
+
+function listJoin(items: string[]) {
+  return items.length <= 1 ? items.join("") : `${items.slice(0, -1).join(", ")} and ${items[items.length - 1]}`;
+}
+
+function describeHours(hours?: Business["hours"]) {
+  if (!hours || WEEK.some((d) => !hours[d])) return "";
+  const closed = WEEK.filter((d) => /closed/i.test(hours[d]));
+  if (closed.length === 0) return "Open 7 days a week.";
+  if (closed.length > 3) return "";
+  return `Closed ${listJoin(closed.map((d) => d[0].toUpperCase() + d.slice(1)))}.`;
+}
+
+function describeBusiness(b: Business, cat?: Category) {
+  const sub = cat?.subcategories?.find((s) => s.slug === b.subcategory)?.name;
+  const noun = CATEGORY_NOUN[b.category] ?? "local business";
+  const article = /^[aeiou]/i.test(noun) ? "an" : "a";
+  const parts = [`${b.name} is ${article} ${noun} in ${placeLabel(b.neighborhood)}${sub ? `, listed on WhereToYEG under ${sub}` : ""}.`];
+  const rating = Number(b.rating);
+  const reviews = Number(b.review_count);
+  if (rating > 0 && reviews > 0) {
+    parts.push(`It holds a ${rating.toFixed(1)}-star rating from ${reviews.toLocaleString("en-CA")} Google review${reviews === 1 ? "" : "s"}.`);
+  }
+  if (/halal-certified/i.test(b.description ?? "")) parts.push("Halal-certified.");
+  else if (b.amenities?.includes("Halal")) parts.push("Marked halal.");
+  const highlights = (b.amenities ?? []).filter((a) => a !== "Halal");
+  if (highlights.length) parts.push(`Highlights: ${highlights.slice(0, 5).join(", ")}.`);
+  const hours = describeHours(b.hours);
+  if (hours) parts.push(hours);
+  if (b.address) parts.push(`Find it at ${b.address}.`);
+  return parts.join(" ");
 }
 
 export function getBusiness(slug: string): Business | undefined {

@@ -1,6 +1,7 @@
 ---
 name: "CRUNCHYZ Pizza & Burgers"
 slug: "crunchyz-pizza-and-burgers"
+active: false
 category: "restaurants"
 neighborhood: "Edmonton"
 address: "12544 132 Ave NW, Edmonton, AB T5L 3P9"

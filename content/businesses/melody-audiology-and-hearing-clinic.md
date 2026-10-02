@@ -1,6 +1,7 @@
 ---
 name: "Melody Audiology & Hearing Clinic"
 slug: "melody-audiology-and-hearing-clinic"
+active: false
 category: "medical"
 neighborhood: "Edmonton"
 address: "11104 102 Ave NW Unit 200, Edmonton, AB T5K 1M1"

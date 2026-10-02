@@ -1,3 +1,5 @@
+const listingRedirects = require("./redirects.json");
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: false,
@@ -18,6 +20,7 @@ const nextConfig = {
         destination: "/restaurants/:slug",
         permanent: true,
       },
+      ...listingRedirects,
     ];
   },
 };

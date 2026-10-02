@@ -57,7 +57,7 @@ export function organizationSchema() {
     name: SITE.name,
     url: SITE.url,
     logo: `${SITE.url}/logo-mark.png`,
-    email: SITE.deliveryEmail,
+    email: SITE.email,
     sameAs: [SITE.social.instagram, SITE.social.tiktok],
   };
 }

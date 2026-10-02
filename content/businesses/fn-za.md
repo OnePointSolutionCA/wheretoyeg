@@ -1,6 +1,7 @@
 ---
 name: "Fn’za"
 slug: "fn-za"
+active: false
 category: "restaurants"
 neighborhood: "Jasper Ave"
 address: "11939 Jasper Ave, Edmonton, AB T5K 0P1"

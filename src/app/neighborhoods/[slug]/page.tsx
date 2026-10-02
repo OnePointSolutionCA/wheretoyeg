@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { SITE } from "@/lib/site";
+import { breadcrumbSchema, JsonLd } from "@/lib/schema-extra";
 import { BusinessCard } from "@/components/BusinessCard";
 import { getBusinesses, getCategories } from "@/lib/content";
 
@@ -31,6 +32,11 @@ export default function NeighborhoodPage({ params }: { params: { slug: string } 
 
   return (
     <>
+      <JsonLd data={breadcrumbSchema([
+        { name: "Home", href: "/" },
+        { name: "Neighborhoods", href: "/neighborhoods" },
+        { name },
+      ])} />
       <section className="border-b border-line bg-mist">
         <div className="container-page py-12" data-reveal="left">
           <nav className="text-xs text-teal-500">

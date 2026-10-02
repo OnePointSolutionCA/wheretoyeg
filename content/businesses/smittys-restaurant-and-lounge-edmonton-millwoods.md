@@ -1,6 +1,7 @@
 ---
 name: "Smitty's Restaurant & Lounge - Edmonton Millwoods"
 slug: "smittys-restaurant-and-lounge-edmonton-millwoods"
+active: false
 category: "restaurants"
 neighborhood: "Mill Woods"
 address: "2331 66 St NW Unit 211, Edmonton, AB T6K 4B4"

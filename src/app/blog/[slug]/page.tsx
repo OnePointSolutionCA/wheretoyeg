@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getBlogPost, getBlogPosts, renderMarkdown } from "@/lib/blog";
+import { breadcrumbSchema, JsonLd } from "@/lib/schema-extra";
 import { SITE } from "@/lib/site";
 
 export const revalidate = 3600;
@@ -14,7 +15,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   const p = getBlogPost(params.slug);
   if (!p) return {};
   return {
-    title: p.title,
+    title: p.seoTitle ? { absolute: p.seoTitle } : p.title,
     description: p.description,
     alternates: { canonical: `${SITE.url}/blog/${p.slug}` },
     openGraph: { title: p.title, description: p.description, type: "article" },
@@ -27,8 +28,27 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
   const html = renderMarkdown(p.body);
   const others = getBlogPosts().filter((x) => x.slug !== p.slug).slice(0, 3);
 
+  const blogPostingSchema = {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    headline: p.title,
+    description: p.description,
+    datePublished: p.publishedDate,
+    url: `${SITE.url}/blog/${p.slug}`,
+    author: { "@type": "Organization", name: SITE.name, url: SITE.url },
+    publisher: { "@type": "Organization", name: SITE.name, logo: { "@type": "ImageObject", url: `${SITE.url}/logo-mark.png` } },
+    mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE.url}/blog/${p.slug}` },
+    ...(p.tags?.length ? { keywords: p.tags.join(", ") } : {}),
+  };
+
   return (
     <>
+      <JsonLd data={blogPostingSchema} />
+      <JsonLd data={breadcrumbSchema([
+        { name: "Home", href: "/" },
+        { name: "Blog", href: "/blog" },
+        { name: p.title },
+      ])} />
       <article className="container-page py-14" data-reveal="left">
         <nav className="text-xs text-teal-500">
           <Link href="/blog" className="hover:text-coral">Blog</Link> <span className="px-1">›</span>{" "}

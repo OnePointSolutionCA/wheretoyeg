@@ -11,6 +11,11 @@ import { BusinessCard } from "@/components/BusinessCard";
 import { Card3D } from "@/components/Card3D";
 import { FilterableList } from "@/components/FilterBar";
 import { SubcategoryPills } from "@/components/SubcategoryPills";
+import { breadcrumbSchema, JsonLd } from "@/lib/schema-extra";
+import { FaqSection } from "@/components/FaqSection";
+import { RelatedGuides } from "@/components/RelatedGuides";
+import { categoryFaq } from "@/lib/faq";
+import { relatedPosts } from "@/lib/related";
 import { SITE } from "@/lib/site";
 
 export const revalidate = 3600;
@@ -25,7 +30,7 @@ export async function generateMetadata({ params }: { params: { category: string 
   const title = c.seo_title || `Best ${c.name} in Edmonton | ${c.name} near me`;
   const desc = c.seo_description || `${c.description} Find the best ${c.name.toLowerCase()} across Edmonton — hours, addresses, ratings and directions.`;
   return {
-    title,
+    title: c.seo_title ? { absolute: c.seo_title } : title,
     description: desc,
     keywords: [
       ...(c.seo_keywords || []),
@@ -96,6 +101,10 @@ export default function CategoryPage({ params }: { params: { category: string } 
 
   return (
     <>
+      <JsonLd data={breadcrumbSchema([
+        { name: "Home", href: "/" },
+        { name: c.name },
+      ])} />
       {/* Photo hero */}
       <section className="relative overflow-hidden text-white">
         {heroPhoto ? (
@@ -193,6 +202,10 @@ export default function CategoryPage({ params }: { params: { category: string } 
           <EmptyState categoryName={c.name} />
         )}
       </section>
+
+      <RelatedGuides posts={relatedPosts(c.slug)} title="Related Edmonton guides" />
+
+      <FaqSection title={`${c.name} in Edmonton: FAQ`} items={categoryFaq(c, businesses)} />
 
       {/* OnePoint Solutions subtle CTA */}
       <section className="container-page mt-4" data-reveal="up">

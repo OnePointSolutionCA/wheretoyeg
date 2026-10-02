@@ -5,6 +5,7 @@ import matter from "gray-matter";
 export type BlogPost = {
   slug: string;
   title: string;
+  seoTitle?: string;
   description: string;
   publishedDate: string;
   tags?: string[];
@@ -26,6 +27,7 @@ export function getBlogPosts(): BlogPost[] {
       return {
         slug: (data.slug as string) || file.replace(/\.md$/, ""),
         title: data.title as string,
+        seoTitle: (data.seoTitle as string) || undefined,
         description: data.description as string,
         publishedDate: data.publishedDate as string,
         tags: (data.tags as string[]) || [],

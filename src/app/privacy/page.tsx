@@ -3,6 +3,7 @@ import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Privacy Policy",
+  description: "WhereToYEG privacy policy. Learn how Edmonton's local business directory handles your data — no accounts, no tracking cookies, no data sales.",
   alternates: { canonical: `${SITE.url}/privacy` },
 };
 

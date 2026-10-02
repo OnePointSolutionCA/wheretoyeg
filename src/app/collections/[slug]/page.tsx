@@ -5,6 +5,7 @@ import { getBusinesses, getCategories } from "@/lib/content";
 import { COLLECTIONS, getCollectionBySlug, getBusinessesForCollection } from "@/lib/collections";
 import { BusinessCard } from "@/components/BusinessCard";
 import { Card3D } from "@/components/Card3D";
+import { breadcrumbSchema, JsonLd } from "@/lib/schema-extra";
 import { SITE } from "@/lib/site";
 
 export const revalidate = 3600;
@@ -18,7 +19,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   if (!c) return {};
   const title = `${c.title} in Edmonton — ${c.headline} | WhereToYEG`;
   return {
-    title,
+    title: { absolute: title },
     description: c.description,
     alternates: { canonical: `${SITE.url}/collections/${c.slug}` },
     openGraph: { title, description: c.description, images: ["/og.png"] },
@@ -36,6 +37,11 @@ export default function CollectionPage({ params }: { params: { slug: string } })
 
   return (
     <>
+      <JsonLd data={breadcrumbSchema([
+        { name: "Home", href: "/" },
+        { name: "Collections", href: "/collections" },
+        { name: c.title },
+      ])} />
       {/* HERO */}
       <section className={"relative overflow-hidden bg-gradient-to-br text-white " + c.gradient}>
         <div className="pointer-events-none absolute -top-24 -right-24 h-96 w-96 rounded-full bg-white/10 blur-3xl" />

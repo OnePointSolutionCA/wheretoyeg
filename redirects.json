@@ -1,0 +1,67 @@
+[
+  {
+    "source": "/restaurants/checkers-pizza-and-kabab-whyte-ave-branch",
+    "destination": "/restaurants/checkers-pizza-kabab-whyte-ave-branch",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/tarboosh-halal-meat-and-market",
+    "destination": "/grocery-markets/tarboosh-halal-meat-market-2",
+    "permanent": true
+  },
+  {
+    "source": "/activities-fun/another-world-vr-and-rc-gaming",
+    "destination": "/activities-fun/another-world-vr-rc-gaming",
+    "permanent": true
+  },
+  {
+    "source": "/catering/westgate-market-halal-meat-and-deli",
+    "destination": "/grocery-markets/westgate-market-halal-meat-deli",
+    "permanent": true
+  },
+  {
+    "source": "/medical/melody-audiology-and-hearing-clinic",
+    "destination": "/medical/melody-audiology-hearing-clinic",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/tarrka-house-by-sareng-restaurant-halal",
+    "destination": "/restaurants/tarrka-house-by-sareng-restauranthalal",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/cake-and-dessert-cafe",
+    "destination": "/cafes-coffee-shops/cake-dessert-cafe",
+    "permanent": true
+  },
+  {
+    "source": "/auto-repair/azteca-automotive-and-tires",
+    "destination": "/auto-repair/azteca-automotive-tires",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/fn-za",
+    "destination": "/restaurants/fnza",
+    "permanent": true
+  },
+  {
+    "source": "/catering/dashing-and-delicious-catering-ltd",
+    "destination": "/catering/dashing-delicious-catering-ltd",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/crunchyz-pizza-and-burgers",
+    "destination": "/restaurants/crunchyz-pizza-burgers",
+    "permanent": true
+  },
+  {
+    "source": "/catering/westgate-halal-meat-and-deli-mediterranean-foods",
+    "destination": "/grocery-markets/westgate-halal-meat-deli-mediterranean-foods",
+    "permanent": true
+  },
+  {
+    "source": "/activities-fun/hide-n-seek-indoor-playground-and-cafe",
+    "destination": "/activities-fun/hide-n-seek-indoor-playground-cafe",
+    "permanent": true
+  }
+]

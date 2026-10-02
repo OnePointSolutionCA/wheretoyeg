@@ -1,0 +1,27 @@
+# WhereToYEG
+
+> Edmonton's curated local business directory. Find the best restaurants, barbers, cafes, salons, and hidden gems across YEG.
+
+WhereToYEG is a hand-picked directory of local businesses in Edmonton, Alberta, Canada. It covers 19 categories and nearly 1,700 listings across neighborhoods like Downtown, Whyte Ave, Sherwood Park, St. Albert, Mill Woods, Windermere, and more.
+
+## Key facts
+
+- URL: https://wheretoyeg.ca
+- Location focus: Edmonton, Alberta, Canada and surrounding areas
+- Categories: restaurants, bakeries, cafes & coffee shops, barbers, hair salons, nail salons, lash techs, spas & esthetics, gyms & fitness, auto repair, plumbers, electricians, cleaning services, grocery & markets, medical, photographers, professional services, catering, activities & fun
+- Neighborhoods: Downtown, Whyte Ave, Jasper Ave, 124 Street, West Edmonton, South Edmonton, Mill Woods, Windermere, Sherwood Park, St. Albert, Spruce Grove, North Edmonton, Beverly, Castle Downs, Beaumont
+- Each listing includes: name, address, hours, phone, photos, Google rating, reviews, amenities, and price range
+- Blog: 60 articles covering local Edmonton business guides, neighborhood spotlights, and service comparisons
+- Contact: hello@wheretoyeg.ca
+
+## Pages
+
+- Homepage: https://wheretoyeg.ca
+- Search: https://wheretoyeg.ca/search
+- Blog: https://wheretoyeg.ca/blog
+- Neighborhoods: https://wheretoyeg.ca/neighborhoods
+- Collections: https://wheretoyeg.ca/collections
+- Get listed: https://wheretoyeg.ca/get-listed
+- About: https://wheretoyeg.ca/about
+- Contact: https://wheretoyeg.ca/contact
+- Full details: https://wheretoyeg.ca/llms-full.txt

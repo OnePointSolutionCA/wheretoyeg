@@ -17,6 +17,7 @@ export const SITE = {
     "Downtown",
     "Whyte Ave",
     "Jasper Ave",
+    "124 Street",
     "West Edmonton",
     "South Edmonton",
     "Mill Woods",

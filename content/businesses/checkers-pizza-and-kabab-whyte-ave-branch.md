@@ -1,6 +1,7 @@
 ---
 name: "Checkers Pizza & Kabab (Whyte Ave. Branch)"
 slug: "checkers-pizza-and-kabab-whyte-ave-branch"
+active: false
 category: "restaurants"
 subcategory: "pizza"
 neighborhood: "Whyte Ave"

@@ -1,6 +1,7 @@
 ---
 name: "Dashing & Delicious Catering, LTD"
 slug: "dashing-and-delicious-catering-ltd"
+active: false
 category: "catering"
 neighborhood: "Edmonton"
 address: "4295 95 St, Edmonton, AB T6E 5R6"
