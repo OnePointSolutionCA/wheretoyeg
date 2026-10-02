@@ -93,11 +93,11 @@ export function BusinessCard({ business, categoryName }: { business: Business; c
         <div className="flex items-start justify-between gap-3">
           <div className="min-w-0">
             <Link href={href} className="block">
-              <h3 className="truncate font-display text-lg font-bold text-teal transition-colors group-hover:text-coral">
+              <h3 className="line-clamp-2 font-display text-lg font-bold leading-snug text-teal transition-colors group-hover:text-coral">
                 {b.name}
               </h3>
             </Link>
-            <div className="mt-0.5 flex items-center gap-2 text-xs text-teal-500">
+            <div className="mt-1 flex flex-wrap items-center gap-x-2 gap-y-0.5 text-xs text-teal-500">
               {categoryName && <span>{categoryName}</span>}
               {categoryName && <span aria-hidden>·</span>}
               <span>{b.neighborhood}</span>
@@ -105,11 +105,10 @@ export function BusinessCard({ business, categoryName }: { business: Business; c
               <span className="font-semibold">{b.price_range}</span>
             </div>
           </div>
-          {b.tier === "premium" && <span className="badge-premium">Premium</span>}
-          {b.tier === "featured" && <span className="badge-featured">Featured</span>}
+          {b.tier === "premium" && <span className="badge-premium shrink-0">Premium</span>}
         </div>
         <StarRating value={b.rating} count={b.review_count} />
-        <p className="line-clamp-2 text-sm text-teal-500">{b.description}</p>
+        {b.description && !b.generatedDescription && <p className="line-clamp-2 text-sm text-teal-500">{b.description}</p>}
         <div className="mt-1 flex flex-wrap gap-1.5">
           {b.amenities?.slice(0, 3).map((a) => (
             <span key={a} className="pill">

@@ -42,6 +42,8 @@ export type Business = {
   active: boolean;
   date_listed: string;
   reviews?: Review[];
+  /** True when description was built from listing data rather than written for the business. */
+  generatedDescription?: boolean;
   /**
    * Per-platform delivery info.
    * For each platform: omit / false → don't show button.

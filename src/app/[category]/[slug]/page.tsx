@@ -16,7 +16,8 @@ import { StarRating } from "@/components/StarRating";
 import { OpenNowBadge } from "@/components/OpenNowBadge";
 import { BusinessGallery } from "@/components/BusinessGallery";
 import { BusinessHours } from "@/components/BusinessHours";
-import { QuickActions } from "@/components/QuickActions";
+import { QuickActions, MobileActionBar } from "@/components/QuickActions";
+import { CheckIcon, ClockIcon, GlobeIcon, InfoIcon, MailIcon, NavIcon, PhoneIcon, PinIcon } from "@/components/icons";
 import { ReviewCard } from "@/components/ReviewCard";
 import { BusinessCard } from "@/components/BusinessCard";
 import { RelatedGuides } from "@/components/RelatedGuides";
@@ -193,11 +194,27 @@ function SubcategoryView({ category: c, sub }: { category: ReturnType<typeof get
 
 // ---------------- Business detail view ----------------
 
+const card = "rounded-2xl border border-line bg-white shadow-card";
+
 function BusinessView({ business: b, category: cat }: { business: ReturnType<typeof getBusiness> & {}; category: ReturnType<typeof getCategoryBySlug> & {} }) {
-  const similar = getBusinessesByCategory(cat.slug).filter((x) => x.slug !== b.slug).slice(0, 3);
   const subName = b.subcategory
     ? cat.subcategories?.find((s) => s.slug === b.subcategory)?.name
     : undefined;
+  const others = getBusinessesByCategory(cat.slug).filter((x) => x.slug !== b.slug);
+  const similar = [
+    ...others.filter((x) => b.subcategory && x.subcategory === b.subcategory),
+    ...others.filter((x) => x.neighborhood === b.neighborhood && x.subcategory !== b.subcategory),
+    ...others,
+  ]
+    .filter((x, i, arr) => arr.findIndex((y) => y.slug === x.slug) === i)
+    .slice(0, 3);
+  const place = placeLabel(b.neighborhood);
+  const delivery = deliveryLinks(b);
+  const socials = [
+    b.instagram && { label: "Instagram", href: b.instagram },
+    b.facebook && { label: "Facebook", href: b.facebook },
+    b.tiktok && { label: "TikTok", href: b.tiktok },
+  ].filter(Boolean) as { label: string; href: string }[];
 
   const breadcrumbLinks = [
     { name: "Home", href: "/" },
@@ -211,136 +228,131 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
       <JsonLd data={businessSchema(b)} />
       <JsonLd data={breadcrumbSchema(breadcrumbLinks)} />
 
-      <section className="border-b border-line bg-mist">
-        <div className="container-page py-8">
-          <nav className="text-xs text-teal-500">
-            <Link href="/" className="hover:text-coral">Home</Link> <span className="px-1">›</span>{" "}
-            <Link href={`/${b.category}`} className="hover:text-coral">{cat.name}</Link>{" "}
+      {/* HEADER */}
+      <section className="relative overflow-hidden border-b border-line bg-gradient-to-b from-mist to-white">
+        <div className="pointer-events-none absolute -right-24 -top-32 h-80 w-80 rounded-full bg-coral/10 blur-3xl" aria-hidden="true" />
+        <div className="container-page relative pb-8 pt-6 sm:pb-10 sm:pt-8">
+          <nav className="flex flex-wrap items-center gap-x-1.5 text-xs text-teal-300" aria-label="Breadcrumb">
+            <Link href="/" className="hover:text-coral">Home</Link>
+            <span aria-hidden>›</span>
+            <Link href={`/${b.category}`} className="hover:text-coral">{cat.name}</Link>
             {subName && b.subcategory && (
               <>
-                <span className="px-1">›</span>
-                <Link href={`/${b.category}/${b.subcategory}`} className="hover:text-coral">{subName}</Link>{" "}
+                <span aria-hidden>›</span>
+                <Link href={`/${b.category}/${b.subcategory}`} className="hover:text-coral">{subName}</Link>
               </>
             )}
-            <span className="px-1">›</span>{" "}
+            <span aria-hidden>›</span>
             <span className="font-semibold text-teal">{b.name}</span>
           </nav>
-          <div className="mt-3 flex flex-wrap items-start justify-between gap-4">
-            <div className="flex min-w-0 items-start gap-4">
+
+          <div className="mt-5 flex flex-col gap-6 lg:flex-row lg:items-end lg:justify-between">
+            <div className="flex min-w-0 items-start gap-4 sm:gap-5">
               {b.logo && (
-                <div className="relative h-16 w-16 shrink-0 overflow-hidden rounded-2xl border border-line bg-white shadow-card sm:h-20 sm:w-20">
-                  <Image src={b.logo} alt="" fill sizes="80px" className="object-contain p-2" />
+                <div className="relative h-16 w-16 shrink-0 overflow-hidden rounded-2xl border border-line bg-white shadow-card sm:h-24 sm:w-24">
+                  <Image src={b.logo} alt="" fill sizes="96px" className="object-contain p-2" />
                 </div>
               )}
               <div className="min-w-0">
-              <div className="mb-2 flex items-center gap-2">
-                {b.tier === "premium" && <span className="badge-premium">Premium</span>}
-                {b.tier === "featured" && <span className="badge-featured">Featured</span>}
-              </div>
-              <h1 className="font-display text-3xl font-extrabold tracking-tight text-teal sm:text-4xl">
-                {b.name}
-              </h1>
-              <div className="mt-2 flex flex-wrap items-center gap-3 text-sm text-teal-500">
-                <StarRating value={b.rating} count={b.review_count} />
-                <span aria-hidden>·</span>
-                <span className="font-semibold">{b.price_range}</span>
-                <span aria-hidden>·</span>
-                <Link href={`/${b.category}`} className="hover:text-coral">{cat.name}</Link>
-                {subName && b.subcategory && (
-                  <>
-                    <span aria-hidden>·</span>
-                    <Link href={`/${b.category}/${b.subcategory}`} className="hover:text-coral">{subName}</Link>
-                  </>
-                )}
-                <span aria-hidden>·</span>
-                <span>{b.neighborhood}</span>
-                <span aria-hidden>·</span>
-                <OpenNowBadge hours={b.hours} />
-              </div>
+                <p className="eyebrow flex flex-wrap items-center gap-2">
+                  {subName ?? cat.name}
+                  {b.tier === "premium" && <span className="badge-premium">Premium</span>}
+                </p>
+                <h1 className="mt-1.5 font-display text-3xl font-extrabold leading-tight tracking-tight text-teal sm:text-5xl">
+                  {b.name}
+                </h1>
+                <div className="mt-3 flex flex-wrap items-center gap-2 text-sm">
+                  {b.rating > 0 && b.review_count > 0 ? (
+                    <a href="#reviews" className="inline-flex min-h-[32px] items-center gap-1.5 rounded-full border border-line bg-white px-3 shadow-sm transition hover:border-teal-300">
+                      <StarRating value={b.rating} count={b.review_count} compact />
+                      <span className="font-bold text-teal">{b.rating.toFixed(1)}</span>
+                      <span className="text-teal-300">({b.review_count.toLocaleString("en-CA")})</span>
+                    </a>
+                  ) : (
+                    <StarRating value={0} />
+                  )}
+                  <span className="inline-flex min-h-[32px] items-center rounded-full border border-line bg-white px-3 font-semibold text-teal shadow-sm">{b.price_range}</span>
+                  <span className="inline-flex min-h-[32px] items-center gap-1.5 rounded-full border border-line bg-white px-3 text-teal shadow-sm">
+                    <PinIcon size={14} className="text-coral" /> {place}
+                  </span>
+                  <span className="inline-flex min-h-[32px] items-center rounded-full border border-line bg-white px-3 shadow-sm">
+                    <OpenNowBadge hours={b.hours} />
+                  </span>
+                </div>
               </div>
             </div>
-            <QuickActions b={b} />
+            <div className="shrink-0">
+              <QuickActions b={b} />
+            </div>
           </div>
         </div>
       </section>
 
-      <section className="container-page mt-8" data-reveal="left">
+      {/* GALLERY */}
+      <section className="container-page mt-6 sm:mt-8">
         <BusinessGallery photos={b.photos} name={b.name} logo={b.logo} categoryName={cat.name} slug={b.slug} />
       </section>
 
-      <section className="container-page mt-10 grid gap-10 lg:grid-cols-3" data-reveal="right">
-        <div className="lg:col-span-2">
-          <h2 className="font-display text-xl font-bold text-teal">About {b.name}</h2>
-          <p className="mt-3 whitespace-pre-line text-teal-500">{b.description}</p>
+      {/* BODY */}
+      <section className="container-page mt-8 grid gap-8 lg:mt-10 lg:grid-cols-[minmax(0,1fr)_360px] lg:gap-10">
+        <div className="min-w-0 space-y-8">
+          <div className={card + " p-6 sm:p-8"}>
+            <h2 className="font-display text-2xl font-bold text-teal">About {b.name}</h2>
+            <p className="mt-3 whitespace-pre-line leading-relaxed text-teal-500">{b.description}</p>
 
-          {FOOD_CATEGORIES.has(b.category) && (
-            <div className="mt-4 rounded-xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-800">
-              <strong>Heads up:</strong> Before visiting, we recommend calling ahead to confirm ingredients and preparation — especially if you have dietary restrictions or allergies (e.g. alcohol in cooking, pork, nuts, gluten). Menu items can change without notice.
-            </div>
-          )}
+            {b.amenities?.length > 0 && (
+              <div className="mt-6">
+                <h3 className="text-xs font-bold uppercase tracking-[0.14em] text-teal-300">Amenities & features</h3>
+                <ul className="mt-3 flex flex-wrap gap-2">
+                  {b.amenities.map((a) => (
+                    <li key={a} className="inline-flex items-center gap-1.5 rounded-full bg-mist px-3 py-1.5 text-sm font-medium text-teal">
+                      <CheckIcon className="text-coral" />
+                      {a}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
 
-          {b.tags?.length > 0 && (
-            <div className="mt-4 flex flex-wrap gap-1.5">
-              {b.tags.map((t) => (
-                <span key={t} className="pill">#{t}</span>
-              ))}
-            </div>
-          )}
-
-          {b.amenities?.length > 0 && (
-            <div className="mt-10">
-              <h2 className="font-display text-xl font-bold text-teal">Amenities & features</h2>
-              <ul className="mt-4 grid gap-2 sm:grid-cols-2">
-                {b.amenities.map((a) => (
-                  <li key={a} className="flex items-center gap-2 text-sm text-teal">
-                    <CheckIcon />
-                    {a}
-                  </li>
+            {b.tags?.length > 0 && (
+              <div className="mt-5 flex flex-wrap gap-1.5">
+                {b.tags.map((t) => (
+                  <span key={t} className="text-xs text-teal-300">#{t}</span>
                 ))}
-              </ul>
-            </div>
-          )}
+              </div>
+            )}
 
-          <div className="mt-10">
-            <div className="flex items-end justify-between">
-              <h2 className="font-display text-xl font-bold text-teal">Reviews</h2>
-              {b.google_maps_url && (
-                <a
-                  href={b.google_maps_url}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="text-sm font-semibold text-coral hover:underline"
-                >
-                  Write a review on Google →
-                </a>
-              )}
-            </div>
+            {FOOD_CATEGORIES.has(b.category) && (
+              <p className="mt-6 flex gap-2.5 border-t border-line pt-5 text-sm text-teal-500">
+                <InfoIcon className="mt-0.5 shrink-0 text-teal-300" />
+                <span>Have dietary needs or allergies? Call ahead to confirm ingredients and preparation. Menus can change without notice.</span>
+              </p>
+            )}
+          </div>
 
-            {/* Aggregate summary — always shown */}
-            <div className="mt-4 flex flex-col gap-4 rounded-2xl border border-line bg-white p-6 shadow-card sm:flex-row sm:items-center sm:justify-between">
-              <div className="flex items-center gap-4">
-                <div className="text-center">
-                  <div className="font-display text-4xl font-extrabold text-teal">{b.rating > 0 ? b.rating.toFixed(1) : "—"}</div>
-                  <StarRating value={b.rating} count={0} />
+          <div id="reviews" className="scroll-mt-28">
+            <div className={card + " flex flex-col gap-5 p-6 sm:flex-row sm:items-center sm:justify-between sm:p-8"}>
+              <div className="flex items-center gap-5">
+                <div className="font-display text-6xl font-extrabold leading-none tracking-tight text-teal">
+                  {b.rating > 0 ? b.rating.toFixed(1) : "—"}
                 </div>
-                <div className="border-l border-line pl-4">
-                  <div className="text-sm font-semibold text-teal">
-                    {b.review_count > 0 ? `Based on ${b.review_count} Google review${b.review_count === 1 ? "" : "s"}` : "No reviews yet"}
+                <div>
+                  {b.rating > 0 && b.review_count > 0 && <StarRating value={b.rating} count={b.review_count} size={18} compact />}
+                  <div className="mt-1.5 font-semibold text-teal">
+                    {b.review_count > 0 ? `${b.review_count.toLocaleString("en-CA")} Google review${b.review_count === 1 ? "" : "s"}` : "No reviews yet"}
                   </div>
-                  <div className="mt-1 text-xs text-teal-500">
-                    Ratings aggregated from Google Maps. Read the individual reviews below or on Google.
-                  </div>
+                  <div className="mt-0.5 text-xs text-teal-300">Ratings from Google Maps</div>
                 </div>
               </div>
               {b.google_maps_url && (
-                <a
-                  href={b.google_maps_url}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="btn-primary shrink-0 text-sm"
-                >
-                  Read on Google →
-                </a>
+                <div className="flex flex-wrap gap-2">
+                  <a href={b.google_maps_url} target="_blank" rel="noreferrer" className="btn-primary min-h-[44px] text-sm">
+                    Read all reviews
+                  </a>
+                  <a href={b.google_maps_url} target="_blank" rel="noreferrer" className="btn-ghost min-h-[44px] text-sm">
+                    Write a review
+                  </a>
+                </div>
               )}
             </div>
 
@@ -354,80 +366,111 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
           </div>
         </div>
 
-        <aside className="space-y-6">
-          <div className="rounded-2xl border border-line bg-white p-5">
-            <h3 className="font-display text-lg font-bold text-teal">Hours</h3>
-            <div className="mt-2">
-              <OpenNowBadge hours={b.hours} />
-            </div>
-            <div className="mt-3">
-              <BusinessHours hours={b.hours} />
-            </div>
-          </div>
-          <div className="rounded-2xl border border-line bg-white p-5">
-            <h3 className="font-display text-lg font-bold text-teal">Location</h3>
-            <p className="mt-2 text-sm text-teal-500">{b.address}</p>
-            {!/,\s*(AB|Alberta)\b/i.test(b.address ?? "") && (
-              <p className="mt-1 text-sm text-teal-500">Edmonton, AB</p>
-            )}
-            {b.latitude && b.longitude && (
-              <div className="mt-3 overflow-hidden rounded-xl border border-line">
-                <iframe
-                  title={`${b.name} map`}
-                  className="h-56 w-full"
-                  loading="lazy"
-                  src={`https://www.openstreetmap.org/export/embed.html?bbox=${b.longitude - 0.005},${b.latitude - 0.003},${b.longitude + 0.005},${b.latitude + 0.003}&layer=mapnik&marker=${b.latitude},${b.longitude}`}
-                />
+        <aside className="min-w-0">
+          <div className="space-y-4 lg:sticky lg:top-28">
+            <div className={card + " divide-y divide-line"}>
+              <div className="p-5">
+                <div className="flex items-center justify-between gap-3">
+                  <h2 className="flex items-center gap-2 font-display text-lg font-bold text-teal">
+                    <ClockIcon className="text-coral" /> Hours
+                  </h2>
+                  <OpenNowBadge hours={b.hours} />
+                </div>
+                <div className="mt-3">
+                  <BusinessHours hours={b.hours} />
+                </div>
               </div>
-            )}
-            {b.google_maps_url && (
-              <a
-                href={b.google_maps_url}
-                target="_blank"
-                rel="noreferrer"
-                className="mt-3 inline-block text-sm font-semibold text-coral hover:underline"
-              >
-                Open in Google Maps →
-              </a>
-            )}
-          </div>
-          {deliveryLinks(b).length > 0 && (
-            <div className="rounded-2xl border border-line bg-white p-5">
-              <h3 className="font-display text-lg font-bold text-teal">Order delivery</h3>
-              <div className="mt-3 flex flex-col gap-2">
-                {deliveryLinks(b).map((d) => (
-                  <a
-                    key={d.label}
-                    href={d.href}
-                    target="_blank"
-                    rel="noreferrer"
-                    className={"flex items-center justify-between rounded-xl px-4 py-2.5 text-sm font-bold transition " + d.brandClass}
-                  >
-                    {d.label}
-                    <span aria-hidden>→</span>
+
+              <div className="p-5">
+                <h2 className="flex items-center gap-2 font-display text-lg font-bold text-teal">
+                  <PinIcon className="text-coral" /> Location
+                </h2>
+                <p className="mt-2 text-sm text-teal-500">{b.address}</p>
+                {!/,\s*(AB|Alberta)\b/i.test(b.address ?? "") && <p className="text-sm text-teal-500">Edmonton, AB</p>}
+                {b.latitude && b.longitude && (
+                  <div className="mt-3 overflow-hidden rounded-xl border border-line">
+                    <iframe
+                      title={`${b.name} map`}
+                      className="h-44 w-full"
+                      loading="lazy"
+                      src={`https://www.openstreetmap.org/export/embed.html?bbox=${b.longitude - 0.005},${b.latitude - 0.003},${b.longitude + 0.005},${b.latitude + 0.003}&layer=mapnik&marker=${b.latitude},${b.longitude}`}
+                    />
+                  </div>
+                )}
+                {b.google_maps_url && (
+                  <a href={b.google_maps_url} target="_blank" rel="noreferrer" className="btn-ghost mt-3 min-h-[44px] w-full gap-2 text-sm">
+                    <NavIcon /> Get directions
                   </a>
-                ))}
+                )}
               </div>
-              <p className="mt-2 text-xs text-teal-500">Opens a search on the delivery app. Availability varies.</p>
+
+              {(b.phone || b.email || b.website || socials.length > 0) && (
+                <div className="p-5">
+                  <h2 className="font-display text-lg font-bold text-teal">Contact</h2>
+                  <ul className="mt-2 space-y-1 text-sm">
+                    {b.phone && (
+                      <li>
+                        <a href={`tel:${b.phone}`} className="flex min-h-[40px] items-center gap-2.5 font-semibold text-teal hover:text-coral">
+                          <PhoneIcon className="text-teal-300" /> {b.phone}
+                        </a>
+                      </li>
+                    )}
+                    {b.email && (
+                      <li>
+                        <a href={`mailto:${b.email}`} className="flex min-h-[40px] items-center gap-2.5 break-all text-teal hover:text-coral">
+                          <MailIcon className="shrink-0 text-teal-300" /> {b.email}
+                        </a>
+                      </li>
+                    )}
+                    {b.website && (
+                      <li>
+                        <a href={b.website} target="_blank" rel="noreferrer" className="flex min-h-[40px] items-center gap-2.5 text-teal hover:text-coral">
+                          <GlobeIcon className="text-teal-300" /> {displayUrl(b.website)}
+                        </a>
+                      </li>
+                    )}
+                  </ul>
+                  {socials.length > 0 && (
+                    <div className="mt-3 flex flex-wrap gap-2">
+                      {socials.map((s) => (
+                        <a key={s.label} href={s.href} target="_blank" rel="noreferrer" className="chip min-h-[36px]">
+                          {s.label} <span aria-hidden>↗</span>
+                        </a>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              )}
             </div>
-          )}
-          <div className="rounded-2xl border border-line bg-white p-5">
-            <h3 className="font-display text-lg font-bold text-teal">Contact</h3>
-            <ul className="mt-2 space-y-1.5 text-sm">
-              {b.phone && <li><a href={`tel:${b.phone}`} className="text-teal hover:text-coral">{b.phone}</a></li>}
-              {b.email && <li><a href={`mailto:${b.email}`} className="text-teal hover:text-coral">{b.email}</a></li>}
-              {b.website && <li><a href={b.website} target="_blank" rel="noreferrer" className="text-teal hover:text-coral">Website ↗</a></li>}
-              {b.instagram && <li><a href={b.instagram} target="_blank" rel="noreferrer" className="text-teal hover:text-coral">Instagram ↗</a></li>}
-              {b.facebook && <li><a href={b.facebook} target="_blank" rel="noreferrer" className="text-teal hover:text-coral">Facebook ↗</a></li>}
-              {b.tiktok && <li><a href={b.tiktok} target="_blank" rel="noreferrer" className="text-teal hover:text-coral">TikTok ↗</a></li>}
-            </ul>
+
+            {delivery.length > 0 && (
+              <div className={card + " p-5"}>
+                <h2 className="font-display text-lg font-bold text-teal">Order delivery</h2>
+                <div className="mt-3 flex flex-col gap-2">
+                  {delivery.map((d) => (
+                    <a
+                      key={d.label}
+                      href={d.href}
+                      target="_blank"
+                      rel="noreferrer"
+                      className={"flex min-h-[44px] items-center justify-between rounded-xl px-4 text-sm font-bold transition " + d.brandClass}
+                    >
+                      {d.label}
+                      <span aria-hidden>→</span>
+                    </a>
+                  ))}
+                </div>
+                <p className="mt-2 text-xs text-teal-300">Opens a search on the delivery app. Availability varies.</p>
+              </div>
+            )}
           </div>
         </aside>
       </section>
 
       {similar.length > 0 && (
-        <section className="container-page mt-20" data-reveal="up">
-          <h2 className="section-title">You might also like</h2>
+        <section className="container-page mt-16 sm:mt-20" data-reveal="up">
+          <p className="eyebrow">Keep exploring</p>
+          <h2 className="section-title mt-1">More like {b.name}</h2>
           <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
             {similar.map((s) => (
               <BusinessCard key={s.slug} business={s} categoryName={cat.name} />
@@ -437,14 +480,22 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
       )}
 
       <RelatedGuides posts={relatedPosts(b.category)} title="Related Edmonton guides" />
+
+      <MobileActionBar b={b} />
     </>
   );
 }
 
-function CheckIcon() {
-  return (
-    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#F1664C" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
-      <path d="m5 12 5 5L20 7" />
-    </svg>
-  );
+function displayUrl(url: string) {
+  try {
+    const u = new URL(url);
+    const host = u.hostname.replace(/^www\./, "");
+    if (/instagram\.com$/.test(host)) return `Instagram ${u.pathname.replace(/\/$/, "").replace(/^\//, "@")}`;
+    if (/facebook\.com$/.test(host)) return "Facebook page";
+    const path = u.pathname === "/" ? "" : u.pathname.replace(/\/$/, "");
+    const s = host + path;
+    return s.length > 34 ? `${s.slice(0, 33)}…` : s;
+  } catch {
+    return "Website";
+  }
 }

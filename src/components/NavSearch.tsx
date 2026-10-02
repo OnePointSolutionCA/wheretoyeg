@@ -66,7 +66,7 @@ export function NavSearch({ index }: { index: SearchIndexItem[] }) {
     <form
       ref={wrapRef}
       onSubmit={(e) => { e.preventDefault(); submit(); }}
-      className="relative hidden md:block"
+      className="relative hidden lg:block"
     >
       <div className="flex items-center rounded-full border border-line bg-white px-3 py-1.5 shadow-sm transition focus-within:border-coral focus-within:ring-2 focus-within:ring-coral/20">
         <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" className="mr-1.5 text-teal-300">
@@ -85,7 +85,7 @@ export function NavSearch({ index }: { index: SearchIndexItem[] }) {
             if (e.key === "Escape")    setOpen(false);
           }}
           placeholder="Search Edmonton…"
-          className="w-40 bg-transparent text-sm text-teal placeholder:text-teal-300 focus:outline-none lg:w-52"
+          className="w-32 bg-transparent text-sm text-teal placeholder:text-teal-300 focus:outline-none xl:w-52"
           aria-label="Search Edmonton businesses"
         />
       </div>

@@ -19,4 +19,7 @@ subcategories:
   - { name: "Drain Cleaning", slug: "drain-cleaning" }
   - { name: "Water Heaters", slug: "water-heaters" }
   - { name: "Renovations", slug: "renovations" }
+  - { name: "Roofing", slug: "roofing" }
+  - { name: "Garage Doors", slug: "garage-door" }
+  - { name: "Locksmiths", slug: "locksmith" }
 ---

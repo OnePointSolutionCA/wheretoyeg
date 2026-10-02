@@ -54,7 +54,10 @@ export function getBusinesses(): Business[] {
     .map(({ data, body }) => {
       const b: Business = { ...(data as Business), description: (data as any).description ?? body.trim() };
       if (Array.isArray(b.amenities)) b.amenities = Array.from(new Set(b.amenities));
-      if (isAutoDescription(b.description)) b.description = describeBusiness(b, cats.get(b.category));
+      if (isAutoDescription(b.description)) {
+        b.description = describeBusiness(b, cats.get(b.category));
+        b.generatedDescription = true;
+      }
       return b;
     })
     .filter((b) => b.active !== false);

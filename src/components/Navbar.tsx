@@ -32,7 +32,7 @@ export function Navbar({ categories = [], searchIndex = [] }: { categories?: Nav
         <Link href="/" className="flex items-center justify-self-start" aria-label="WhereToYEG home">
           <NavLogo height={44} />
         </Link>
-        <nav className="hidden justify-self-center md:flex md:items-center md:gap-8">
+        <nav className="hidden justify-self-center lg:flex lg:items-center lg:gap-6 xl:gap-8">
           {/* Categories dropdown */}
           {categories.length > 0 && (
             <div className="relative" data-nav-menu>
@@ -91,8 +91,8 @@ export function Navbar({ categories = [], searchIndex = [] }: { categories?: Nav
           <Link href="/collections" className="text-sm font-semibold text-teal transition hover:text-coral">Vibes</Link>
           <Link href="/neighborhoods" className="text-sm font-semibold text-teal transition hover:text-coral">Neighborhoods</Link>
           <Link href="/blog" className="text-sm font-semibold text-teal transition hover:text-coral">Blog</Link>
-          <Link href="/about" className="text-sm font-semibold text-teal transition hover:text-coral">About</Link>
-          <Link href="/contact" className="text-sm font-semibold text-teal transition hover:text-coral">Contact</Link>
+          <Link href="/about" className="hidden text-sm font-semibold text-teal transition hover:text-coral xl:inline">About</Link>
+          <Link href="/contact" className="hidden text-sm font-semibold text-teal transition hover:text-coral xl:inline">Contact</Link>
         </nav>
         <div className="flex items-center gap-3 justify-self-end">
           <NavSearch index={searchIndex} />
@@ -103,7 +103,7 @@ export function Navbar({ categories = [], searchIndex = [] }: { categories?: Nav
       </div>
 
       {/* Mobile nav strip — always visible, horizontally scrollable */}
-      <nav className="flex items-center gap-1 overflow-x-auto overscroll-x-contain touch-pan-x border-t border-line/50 px-4 py-2 md:hidden" style={{ scrollbarWidth: "none" }}>
+      <nav className="flex items-center gap-1 overflow-x-auto overscroll-x-contain touch-pan-x border-t border-line/50 px-4 py-2 lg:hidden" style={{ scrollbarWidth: "none" }}>
         <Link href="/#categories" className={mobilePill(false)}>Categories</Link>
         <Link href="/collections" className={mobilePill(pathname === "/collections")}>Vibes</Link>
         <Link href="/neighborhoods" className={mobilePill(pathname === "/neighborhoods")}>Areas</Link>

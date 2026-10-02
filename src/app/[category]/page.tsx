@@ -63,7 +63,7 @@ function slimForCard(b: any): any {
     subcategory: b.subcategory,
     tier: b.tier,
     logo: b.logo,
-    description: b.description,
+    description: b.generatedDescription ? "" : b.description,
     neighborhood: b.neighborhood,
     hours: b.hours,
     photos: b.photos?.slice(0, 1) ?? [],
