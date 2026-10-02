@@ -2,7 +2,7 @@
 name: "CARSTAR Spruce Grove"
 slug: "carstar-spruce-grove"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "collision"
 neighborhood: "Spruce Grove"
 address: "368 Saskatchewan Ave, Spruce Grove, AB T7X 0G6"
 rating: 4.9

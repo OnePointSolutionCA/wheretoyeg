@@ -2,7 +2,7 @@
 name: "Simplicity Car Care Spruce Grove"
 slug: "simplicity-car-care-spruce-grove"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "collision"
 neighborhood: "Spruce Grove"
 address: "347 Saskatchewan Ave, Spruce Grove, AB T7X 3A2"
 rating: 4.8

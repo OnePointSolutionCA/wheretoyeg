@@ -2,7 +2,7 @@
 name: "Hellamaid Cleaning Services Edmonton"
 slug: "hellamaid-cleaning-services-edmonton"
 category: "cleaning-services"
-subcategory: "residential"
+subcategory: "house-cleaning"
 tier: "featured"
 description: "Hellamaid Cleaning Services Edmonton — a residential spot in Edmonton, Edmonton. 210 Google reviews, 4.8★."
 address: "12420 104 Ave NW, Edmonton, AB T5N 3Z9"

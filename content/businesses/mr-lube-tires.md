@@ -2,7 +2,7 @@
 name: "Mr. Lube + Tires"
 slug: "mr-lube-tires"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "oil-change"
 neighborhood: "Edmonton"
 address: "12704 137 Ave NW, Edmonton, AB T5L 1B9"
 rating: 4.3

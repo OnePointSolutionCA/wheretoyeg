@@ -2,7 +2,7 @@
 name: "LJB Auto"
 slug: "ljb-auto"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Spruce Grove"
 address: "124a South Ave, Spruce Grove, AB T7X 3A9"
 rating: 4.4

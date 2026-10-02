@@ -2,7 +2,7 @@
 name: "Best Buy Auto Service"
 slug: "best-buy-auto-service"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beverly"
 address: "13140 156 St, Edmonton, AB T5V 1L3"
 rating: 4.7

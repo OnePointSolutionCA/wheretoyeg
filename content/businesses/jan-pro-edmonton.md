@@ -2,7 +2,7 @@
 name: "JAN-PRO Edmonton"
 slug: "jan-pro-edmonton"
 category: "cleaning-services"
-subcategory: "commercial"
+subcategory: "commercial-cleaning"
 tier: "featured"
 description: "JAN-PRO Edmonton — a commercial spot in Edmonton, Edmonton. 137 Google reviews, 4.6★."
 address: "10459 178 St NW #100, Edmonton, AB T5S 1T1"

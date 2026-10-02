@@ -2,7 +2,7 @@
 name: "Royal Auto Body"
 slug: "royal-auto-body"
 category: "auto-repair"
-subcategory: "body-shop"
+subcategory: "body-shops"
 tier: "featured"
 description: "Royal Auto Body — body shop in Edmonton, Edmonton. 296 Google reviews, 4.8★."
 address: "16831 107 Ave NW, Edmonton, AB T5P 0Y8"

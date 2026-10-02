@@ -2,7 +2,7 @@
 name: "Bountiful Farmers' Market"
 slug: "bountiful-farmers-market"
 category: "grocery-markets"
-subcategory: "farmers-market"
+subcategory: "farmers-markets"
 tier: "featured"
 description: "Bountiful Farmers' Market — farmers market in Edmonton, Edmonton. 2530 Google reviews, 4.6★."
 address: "3696 97 St NW, Edmonton, AB T6E 5S8"

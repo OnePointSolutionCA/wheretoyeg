@@ -2,7 +2,7 @@
 name: "DIDI AUTO CARE"
 slug: "didi-auto-care"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beverly"
 address: "12156 66 St NW, Edmonton, AB T5B 1J8"
 rating: 4.7

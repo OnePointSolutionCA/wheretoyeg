@@ -2,7 +2,7 @@
 name: "Hey I am Yogost 我是酸奶君"
 slug: "hey-i-am-yogost"
 category: "cafes-coffee-shops"
-subcategory: "bubble-tea"
+subcategory: "boba-bubble-tea"
 tier: "featured"
 description: "Hey I am Yogost 我是酸奶君 — bubble tea in Edmonton, Edmonton. 93 Google reviews, 4.7★."
 address: "8126 106 St, Edmonton, AB T6E 2A6"

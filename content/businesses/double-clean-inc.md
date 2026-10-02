@@ -2,7 +2,7 @@
 name: "Double Clean Inc."
 slug: "double-clean-inc"
 category: "cleaning-services"
-subcategory: "commercial"
+subcategory: "commercial-cleaning"
 tier: "featured"
 description: "Double Clean Inc. — a commercial spot in Edmonton, Edmonton. 197 Google reviews, 4.7★."
 address: "18203 105 Ave NW, Edmonton, AB T5S 2L5"

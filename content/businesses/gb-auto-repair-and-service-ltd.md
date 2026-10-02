@@ -2,7 +2,7 @@
 name: "GB Auto Repair & Service LTD"
 slug: "gb-auto-repair-and-service-ltd"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Mill Woods"
 address: "8108 Davies Rd NW, Edmonton, AB T6E 4N2"
 rating: 4.8

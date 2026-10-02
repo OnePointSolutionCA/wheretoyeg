@@ -2,7 +2,7 @@
 name: "Beaumont Automotive"
 slug: "beaumont-automotive"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beaumont"
 address: "6203 29 Ave, Beaumont, AB T4X 0H5"
 rating: 4

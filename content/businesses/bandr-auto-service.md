@@ -2,7 +2,7 @@
 name: "B&R Auto Service"
 slug: "bandr-auto-service"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beverly"
 address: "9504 106 Ave NW, Edmonton, AB T5H 0N2"
 rating: 4.9

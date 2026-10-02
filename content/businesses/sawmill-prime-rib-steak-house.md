@@ -2,7 +2,7 @@
 name: "Sawmill Prime Rib & Steak House"
 slug: "sawmill-prime-rib-steak-house"
 category: "restaurants"
-subcategory: "steakhouse"
+subcategory: "steakhouses"
 tier: "featured"
 description: "Sawmill Prime Rib & Steak House — steakhouse in Edmonton, Edmonton. 2351 Google reviews, 4.2★."
 address: "South Entrance, 4810 Calgary Trl NW, Edmonton, AB T6H 5H5"

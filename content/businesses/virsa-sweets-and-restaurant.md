@@ -2,7 +2,7 @@
 name: "Virsa Sweets & Restaurant"
 slug: "virsa-sweets-and-restaurant"
 category: "restaurants"
-subcategory: "indian-pakistani"
+subcategory: "indian"
 neighborhood: "Beaumont"
 address: "4906 30 Ave 104, 106, Beaumont, AB T4X 1V1"
 rating: 4.4

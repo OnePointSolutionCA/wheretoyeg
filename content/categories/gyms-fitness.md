@@ -22,4 +22,9 @@ subcategories:
   - { name: "Martial Arts", slug: "martial-arts" }
   - { name: "Personal Training", slug: "personal-training" }
   - { name: "Womens-Only", slug: "womens-only" }
+  - { name: "Dance Studios", slug: "dance" }
+  - { name: "Climbing Gyms", slug: "climbing" }
+  - { name: "Cycling & Spin", slug: "cycling" }
+  - { name: "Sports Physiotherapy", slug: "physiotherapy" }
+  - { name: "Swimming", slug: "swimming" }
 ---

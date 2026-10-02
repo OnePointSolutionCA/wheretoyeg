@@ -2,7 +2,7 @@
 name: "Mha Auto Repair"
 slug: "mha-auto-repair"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beverly"
 address: "12631 Fort Rd NW, Edmonton, AB T5C 3C2"
 rating: 4.8

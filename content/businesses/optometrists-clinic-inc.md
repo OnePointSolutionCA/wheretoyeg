@@ -2,7 +2,7 @@
 name: "Optometrists Clinic Inc"
 slug: "optometrists-clinic-inc"
 category: "medical"
-subcategory: "optometrists"
+subcategory: "eye-care"
 tier: "featured"
 description: "Optometrists Clinic Inc — optometrists in Downtown, Edmonton. 71 Google reviews, 4.6★."
 address: "12318 Jasper Ave, Edmonton, AB T5N 3K5"

@@ -2,7 +2,7 @@
 name: "Hatch'd"
 slug: "hatchd"
 category: "restaurants"
-subcategory: "breakfast"
+subcategory: "brunch"
 tier: "featured"
 description: "Hatch'd — breakfast in Edmonton, Edmonton. 117 Google reviews, 4.5★."
 address: "8315 112 St NW, Edmonton, AB T6G 1K4"

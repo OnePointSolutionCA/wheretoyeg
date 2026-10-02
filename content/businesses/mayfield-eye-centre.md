@@ -2,7 +2,7 @@
 name: "Mayfield Eye Centre"
 slug: "mayfield-eye-centre"
 category: "medical"
-subcategory: "optometrists"
+subcategory: "eye-care"
 tier: "featured"
 description: "Mayfield Eye Centre — optometrists in Edmonton, Edmonton. 62 Google reviews, 4.2★."
 address: "280 Mayfield Common Northwest, Edmonton, AB T5P 4B3"

@@ -2,7 +2,7 @@
 name: "ESM Fine Cakes & Pastries"
 slug: "esm-fine-cakes-pastries"
 category: "bakeries"
-subcategory: "cakes"
+subcategory: "custom-cakes"
 tier: "featured"
 description: "ESM Fine Cakes & Pastries — cakes in Edmonton, Edmonton. 816 Google reviews, 4.8★."
 address: "9261 34 Ave NW Unit 19, Edmonton, AB T6N 1C9"

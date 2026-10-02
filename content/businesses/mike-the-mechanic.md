@@ -2,7 +2,7 @@
 name: "Mike The Mechanic"
 slug: "mike-the-mechanic"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Mill Woods"
 address: "8803 51 Ave NW, Edmonton, AB T6E 5H1"
 rating: 4.8

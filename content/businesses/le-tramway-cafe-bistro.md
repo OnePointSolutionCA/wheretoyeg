@@ -2,7 +2,7 @@
 name: "Le Tramway Cafe Bistro"
 slug: "le-tramway-cafe-bistro"
 category: "cafes-coffee-shops"
-subcategory: "brunch"
+subcategory: "brunch-cafes"
 neighborhood: "Edmonton"
 address: "9420 91 St, Edmonton, AB T6C 3P4"
 rating: 4.7

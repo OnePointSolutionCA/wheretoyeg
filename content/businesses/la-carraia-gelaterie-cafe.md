@@ -2,7 +2,7 @@
 name: "La Carraia Gelaterie Cafe"
 slug: "la-carraia-gelaterie-cafe"
 category: "cafes-coffee-shops"
-subcategory: "ice-cream"
+subcategory: "dessert-cafes"
 tier: "featured"
 description: "La Carraia Gelaterie Cafe — ice cream in Edmonton, Edmonton. 630 Google reviews, 4.6★."
 address: "10067 109 St NW, Edmonton, AB T5J 0J7"

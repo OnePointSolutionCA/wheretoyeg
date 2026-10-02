@@ -2,7 +2,7 @@
 name: "Fresh 2 door Indian Grocery Supermarket & Wholesaler"
 slug: "fresh-2-door-indian-grocery-supermarket-wholesaler"
 category: "grocery-markets"
-subcategory: "indian"
+subcategory: "south-asian"
 tier: "featured"
 description: "Fresh 2 door Indian Grocery Supermarket & Wholesaler — indian in Edmonton, Edmonton. 60 Google reviews, 4.4★."
 address: "10080 164 St NW, Edmonton, AB T5P 4Y3"

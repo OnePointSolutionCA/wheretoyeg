@@ -2,7 +2,7 @@
 name: "EconoLube"
 slug: "econolube"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "oil-change"
 neighborhood: "Spruce Grove"
 address: "120 St Matthews Ave #8, Spruce Grove, AB T7X 3B5"
 rating: 4.9

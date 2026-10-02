@@ -2,7 +2,7 @@
 name: "stardom truck and trailer mobile repair"
 slug: "stardom-truck-and-trailer-mobile-repair"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beaumont"
 address: "5705 Rue Eaglemont, Beaumont, AB T4X 0G9"
 rating: 5

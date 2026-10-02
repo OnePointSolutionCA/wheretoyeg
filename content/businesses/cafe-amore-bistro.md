@@ -2,7 +2,7 @@
 name: "Cafe Amore Bistro"
 slug: "cafe-amore-bistro"
 category: "cafes-coffee-shops"
-subcategory: "italian"
+subcategory: "international"
 tier: "featured"
 description: "Cafe Amore Bistro — italian in Edmonton, Edmonton. 2213 Google reviews, 4.6★."
 address: "10807 106 Ave NW, Edmonton, AB T5H 2Z9"

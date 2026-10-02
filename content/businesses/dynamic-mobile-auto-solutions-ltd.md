@@ -2,7 +2,7 @@
 name: "Dynamic Mobile Auto Solutions LTD."
 slug: "dynamic-mobile-auto-solutions-ltd"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Spruce Grove"
 address: "114 26116 A Hwy 16, Spruce Grove, AB T7Y 1A1"
 rating: 5

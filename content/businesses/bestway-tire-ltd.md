@@ -2,7 +2,7 @@
 name: "BESTWAY TIRE LTD."
 slug: "bestway-tire-ltd"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "tires"
 neighborhood: "Edmonton"
 address: "9927 51 Ave NW, Edmonton, AB T6E 0A8"
 rating: 4.7

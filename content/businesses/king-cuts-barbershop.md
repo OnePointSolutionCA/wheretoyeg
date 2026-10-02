@@ -2,7 +2,7 @@
 name: "King Cuts Barbershop"
 slug: "king-cuts-barbershop"
 category: "barbers"
-subcategory: "classic-cuts"
+subcategory: "mens-haircuts"
 tier: "featured"
 description: "King Cuts Barbershop — classic cuts in Edmonton, Edmonton. 425 Google reviews, 4.9★."
 address: "9408 137 Ave NW, Edmonton, AB T5E 6C2"

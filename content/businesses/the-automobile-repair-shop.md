@@ -2,7 +2,7 @@
 name: "The Automobile Repair Shop"
 slug: "the-automobile-repair-shop"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beverly"
 address: "33 Evergreen Park NW, Edmonton, AB T5Y 4M2"
 rating: 5

@@ -2,7 +2,7 @@
 name: "iland Vybes Jamaican cafe"
 slug: "iland-vybes-jamaican-cafe"
 category: "cafes-coffee-shops"
-subcategory: "jamaican"
+subcategory: "international"
 tier: "featured"
 description: "iland Vybes Jamaican cafe — jamaican in Downtown, Edmonton. 197 Google reviews, 4.8★."
 address: "10807 Jasper Ave, Edmonton, AB T5J 2B2"

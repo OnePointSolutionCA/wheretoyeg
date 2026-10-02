@@ -2,7 +2,7 @@
 name: "Core Auto Repair"
 slug: "core-auto-repair"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beverly"
 address: "12843 58 St NW, Edmonton, AB T5A 4X1"
 rating: 4.9

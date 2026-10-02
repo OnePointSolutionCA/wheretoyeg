@@ -2,7 +2,7 @@
 name: "Local Tire and Auto"
 slug: "local-tire-and-auto"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "tires"
 neighborhood: "Edmonton"
 address: "Head, 13420 149 St #109, Edmonton, AB T5V 0B7"
 rating: 1

@@ -2,7 +2,7 @@
 name: "Oxford Barbershop"
 slug: "oxford-barbershop"
 category: "barbers"
-subcategory: "classic-cuts"
+subcategory: "mens-haircuts"
 tier: "featured"
 description: "Oxford Barbershop — classic cuts in Edmonton, Edmonton. 237 Google reviews, 4.8★."
 address: "15164 127 St, Edmonton, AB T6V 0C5"

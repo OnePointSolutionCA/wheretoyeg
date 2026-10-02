@@ -2,7 +2,7 @@
 name: "POM Grand Persian Grill"
 slug: "pom-grand-persian-grill"
 category: "restaurants"
-subcategory: "persian"
+subcategory: "middle-eastern"
 tier: "featured"
 description: "POM Grand Persian Grill — persian in Whyte Ave, Edmonton. 752 Google reviews, 4.5★."
 address: "10812 Whyte Ave NW, Edmonton, AB T6E 2B3"

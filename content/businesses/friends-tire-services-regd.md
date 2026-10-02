@@ -2,7 +2,7 @@
 name: "Friends Tire Services (Regd.)"
 slug: "friends-tire-services-regd"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "tires"
 neighborhood: "Edmonton"
 address: "1106 37A Ave NW, Edmonton, AB T6T 0E7"
 rating: 5

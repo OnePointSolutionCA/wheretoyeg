@@ -2,7 +2,7 @@
 name: "The Art of Cake"
 slug: "the-art-of-cake"
 category: "bakeries"
-subcategory: "cakes"
+subcategory: "custom-cakes"
 tier: "featured"
 description: "The Art of Cake — cakes in Edmonton, Edmonton. 700 Google reviews, 4.7★."
 address: "11811 105 Ave NW, Edmonton, AB T5H 0L9"

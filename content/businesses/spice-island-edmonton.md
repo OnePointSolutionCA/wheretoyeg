@@ -2,7 +2,7 @@
 name: "Spice Island Edmonton"
 slug: "spice-island-edmonton"
 category: "grocery-markets"
-subcategory: "indian"
+subcategory: "south-asian"
 tier: "featured"
 description: "Spice Island Edmonton — indian in Edmonton, Edmonton. 107 Google reviews, 4.1★."
 address: "10058 163 St NW, Edmonton, AB T5P 3N4"

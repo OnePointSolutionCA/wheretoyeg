@@ -2,7 +2,7 @@
 name: "Alberta Dermatology Consultants"
 slug: "alberta-dermatology-consultants"
 category: "medical"
-subcategory: "dermatologists"
+subcategory: "dermatology"
 tier: "featured"
 description: "Alberta Dermatology Consultants — dermatologists in Edmonton, Edmonton. 69 Google reviews, 4.1★."
 address: "201B, 14101 West Block Dr NW, Edmonton, AB T5N 1L5"

@@ -2,7 +2,7 @@
 name: "Optimum Health Vitamins"
 slug: "optimum-health-vitamins"
 category: "grocery-markets"
-subcategory: "health-food"
+subcategory: "bulk-health"
 tier: "featured"
 description: "Optimum Health Vitamins — health food in Edmonton, Edmonton. 158 Google reviews, 4.5★."
 address: "11810 104 Ave NW, Edmonton, AB T5K 2T8"

@@ -27,4 +27,8 @@ subcategories:
   - { name: "Dermatology", slug: "dermatology" }
   - { name: "Diagnostic Imaging", slug: "diagnostic-imaging" }
   - { name: "Medical Supplies", slug: "medical-supplies" }
+  - { name: "Pediatricians", slug: "pediatricians" }
+  - { name: "Veterinarians", slug: "veterinarians" }
+  - { name: "Counselling", slug: "counselling" }
+  - { name: "Acupuncture", slug: "acupuncture" }
 ---

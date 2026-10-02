@@ -2,7 +2,7 @@
 name: "Qarrey Automotive Repair"
 slug: "qarrey-automotive-repair"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beverly"
 address: "12811 56 St NW, Edmonton, AB T5A 0C9"
 rating: 4.2

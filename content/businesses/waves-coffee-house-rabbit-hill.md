@@ -2,7 +2,7 @@
 name: "Waves Coffee House - Rabbit Hill"
 slug: "waves-coffee-house-rabbit-hill"
 category: "cafes-coffee-shops"
-subcategory: "brunch"
+subcategory: "brunch-cafes"
 neighborhood: "Windermere"
 address: "5124 Mullen Rd, Edmonton, AB T6R 0S9"
 rating: 4.1

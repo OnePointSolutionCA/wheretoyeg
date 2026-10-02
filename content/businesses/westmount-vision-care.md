@@ -2,7 +2,7 @@
 name: "Westmount Vision Care"
 slug: "westmount-vision-care"
 category: "medical"
-subcategory: "optometrists"
+subcategory: "eye-care"
 tier: "featured"
 description: "Westmount Vision Care — optometrists in Edmonton, Edmonton. 443 Google reviews, 4.9★."
 address: "11152 142 St NW, Edmonton, AB T5M 4G5"

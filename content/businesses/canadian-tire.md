@@ -2,7 +2,7 @@
 name: "Canadian Tire"
 slug: "canadian-tire"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "tires"
 neighborhood: "Edmonton"
 address: "11839 Kingsway NW, Edmonton, AB T5G 3J7"
 rating: 3.9

@@ -2,7 +2,7 @@
 name: "Blonde Brunette Hair Studio"
 slug: "blonde-brunette-hair-studio-2"
 category: "hair-salons"
-subcategory: "color"
+subcategory: "colour"
 tier: "featured"
 description: "Blonde Brunette Hair Studio — a color spot in Downtown, Edmonton. 70 Google reviews, 4.9★."
 address: "11235b Jasper Ave, Edmonton, AB T5K 2V2"

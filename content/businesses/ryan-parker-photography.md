@@ -2,7 +2,7 @@
 name: "Ryan Parker Photography"
 slug: "ryan-parker-photography"
 category: "photographers"
-subcategory: "portrait"
+subcategory: "portraits"
 tier: "featured"
 description: "Ryan Parker Photography — a portrait spot in Edmonton, Edmonton. 292 Google reviews, 5.0★."
 address: "5950 87 St NW, Edmonton, AB T6E 2Y4"

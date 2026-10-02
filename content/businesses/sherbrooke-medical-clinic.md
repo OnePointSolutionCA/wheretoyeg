@@ -2,7 +2,7 @@
 name: "Sherbrooke Medical Clinic"
 slug: "sherbrooke-medical-clinic"
 category: "medical"
-subcategory: "walk-in-clinic"
+subcategory: "walk-in-clinics"
 tier: "featured"
 description: "Sherbrooke Medical Clinic — walk in clinic in Edmonton, Edmonton. 170 Google reviews, 2.8★."
 address: "13168 118 Ave NW, Edmonton, AB T5L 5B4"

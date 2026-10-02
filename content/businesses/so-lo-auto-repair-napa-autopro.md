@@ -2,7 +2,7 @@
 name: "So-Lo Auto Repair/NAPA Autopro"
 slug: "so-lo-auto-repair-napa-autopro"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Spruce Grove"
 address: "469 South Ave, Spruce Grove, AB T7X 3B5"
 rating: 4.6

@@ -2,7 +2,7 @@
 name: "Bluenose Automotive"
 slug: "bluenose-automotive"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Spruce Grove"
 address: "485 South Ave, Spruce Grove, AB T7X 2E9"
 rating: 4.3

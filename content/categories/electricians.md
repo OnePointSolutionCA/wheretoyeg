@@ -18,4 +18,5 @@ subcategories:
   - { name: "Panel Upgrades", slug: "panel-upgrades" }
   - { name: "Lighting", slug: "lighting" }
   - { name: "Emergency", slug: "emergency" }
+  - { name: "Furnace & HVAC", slug: "hvac" }
 ---

@@ -2,7 +2,7 @@
 name: "yegportrait"
 slug: "yegportrait"
 category: "photographers"
-subcategory: "headshots"
+subcategory: "portraits"
 tier: "featured"
 description: "yegportrait — headshots in Edmonton, Edmonton. 16 Google reviews, 5.0★."
 address: "9662 101A Ave, Edmonton, AB T5H 0A7"

@@ -2,7 +2,7 @@
 name: "CSN Collision Herbers West"
 slug: "csn-collision-herbers-west"
 category: "auto-repair"
-subcategory: "body-shop"
+subcategory: "body-shops"
 tier: "featured"
 description: "CSN Collision Herbers West — body shop in Edmonton, Edmonton. 1204 Google reviews, 4.7★."
 address: "16929 107 Ave NW, Edmonton, AB T5P 4H7"

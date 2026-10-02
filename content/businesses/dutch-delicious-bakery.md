@@ -2,7 +2,7 @@
 name: "Dutch Delicious Bakery"
 slug: "dutch-delicious-bakery"
 category: "bakeries"
-subcategory: "pastry"
+subcategory: "pastries"
 tier: "featured"
 description: "Dutch Delicious Bakery — pastry in Edmonton, Edmonton. 1030 Google reviews, 4.7★."
 address: "13232 118 Ave NW, Edmonton, AB T5L 4N4"

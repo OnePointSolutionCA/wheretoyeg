@@ -2,7 +2,7 @@
 name: "Timely Auto Service"
 slug: "timely-auto-service"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Mill Woods"
 address: "9756 45th Ave NW, Edmonton, AB T6E 5C5"
 rating: 4.7

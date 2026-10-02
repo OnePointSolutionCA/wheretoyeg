@@ -2,7 +2,7 @@
 name: "H&W Produce"
 slug: "hw-produce"
 category: "grocery-markets"
-subcategory: "organic"
+subcategory: "bulk-health"
 tier: "featured"
 description: "H&W Produce — organic in Edmonton, Edmonton. 910 Google reviews, 4.4★."
 address: "12510 132 Ave NW, Edmonton, AB T5L 3P9"

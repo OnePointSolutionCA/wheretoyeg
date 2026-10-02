@@ -2,7 +2,7 @@
 name: "VIDA Dermatology - West Edmonton Dermatologist"
 slug: "vida-dermatology---west-edmonton-dermatologist"
 category: "medical"
-subcategory: "dermatologists"
+subcategory: "dermatology"
 tier: "featured"
 description: "VIDA Dermatology - West Edmonton Dermatologist — dermatologists in Edmonton, Edmonton. 69 Google reviews, 4.3★."
 address: "17060 107 Ave NW #201, Edmonton, AB T5S 1L8"

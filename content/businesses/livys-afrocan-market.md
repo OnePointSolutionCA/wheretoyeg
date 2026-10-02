@@ -2,7 +2,7 @@
 name: "Livy's Afrocan Market"
 slug: "livys-afrocan-market"
 category: "grocery-markets"
-subcategory: "african"
+subcategory: "african-caribbean"
 tier: "featured"
 description: "Livy's Afrocan Market — african in Edmonton, Edmonton. 6 Google reviews, 4.2★."
 address: "11094 156 St, Edmonton, AB T5P 4M8"

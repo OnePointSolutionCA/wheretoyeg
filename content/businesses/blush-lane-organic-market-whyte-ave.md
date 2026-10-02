@@ -2,7 +2,7 @@
 name: "Blush Lane Organic Market Whyte Ave"
 slug: "blush-lane-organic-market-whyte-ave"
 category: "grocery-markets"
-subcategory: "organic"
+subcategory: "bulk-health"
 tier: "featured"
 description: "Blush Lane Organic Market Whyte Ave — organic in Edmonton, Edmonton. 637 Google reviews, 4.2★."
 address: "8135 102 St NW, Edmonton, AB T6E 4A4"

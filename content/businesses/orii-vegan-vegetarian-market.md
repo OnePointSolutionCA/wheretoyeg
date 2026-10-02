@@ -2,7 +2,7 @@
 name: "Orii Vegan & Vegetarian Market 原生隆"
 slug: "orii-vegan-vegetarian-market"
 category: "grocery-markets"
-subcategory: "organic"
+subcategory: "bulk-health"
 tier: "featured"
 description: "Orii Vegan & Vegetarian Market 原生隆 — organic in Edmonton, Edmonton. 113 Google reviews, 4.7★."
 address: "10156 114 St NW Unit 5, Edmonton, AB T5K 1R7"

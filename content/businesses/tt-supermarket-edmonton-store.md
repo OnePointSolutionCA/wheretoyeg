@@ -2,7 +2,7 @@
 name: "T&T Supermarket Edmonton Store"
 slug: "tt-supermarket-edmonton-store"
 category: "grocery-markets"
-subcategory: "asian"
+subcategory: "east-asian"
 tier: "featured"
 description: "T&T Supermarket Edmonton Store — asian in West Edmonton, Edmonton. 4182 Google reviews, 4.3★."
 address: "8882 170 St NW #2580, Edmonton, AB T5T 4M2"

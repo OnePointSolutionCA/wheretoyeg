@@ -2,7 +2,7 @@
 name: "YEG Home Comfort LTD"
 slug: "yeg-home-comfort-ltd"
 category: "electricians"
-subcategory: "furnace"
+subcategory: "hvac"
 tier: "featured"
 description: "YEG Home Comfort LTD — furnace in Edmonton, Edmonton. 318 Google reviews, 4.7★."
 address: "15821 116 Ave NW #5, Edmonton, AB T5M 3W1"

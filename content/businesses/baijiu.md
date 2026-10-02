@@ -2,7 +2,7 @@
 name: "Baijiu"
 slug: "baijiu"
 category: "restaurants"
-subcategory: "asian-fusion"
+subcategory: "chinese"
 tier: "featured"
 description: "Baijiu — a popular asian-fusion spot in Edmonton, Edmonton. 1115 Google reviews, 4.5★."
 address: "10359 104 Street NW, Edmonton, AB T5J 1C1"

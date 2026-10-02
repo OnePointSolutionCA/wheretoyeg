@@ -2,7 +2,7 @@
 name: "Setph Studio"
 slug: "setph-studio"
 category: "photographers"
-subcategory: "portrait"
+subcategory: "portraits"
 tier: "featured"
 description: "Setph Studio — a portrait spot in Edmonton, Edmonton. 142 Google reviews, 5.0★."
 address: "10638 178 St NW #100, Edmonton, AB T5S 1H4"

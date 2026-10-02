@@ -2,7 +2,7 @@
 name: "Lucky13 Auto Body and Paint"
 slug: "lucky13-auto-body-and-paint"
 category: "auto-repair"
-subcategory: "body-shop"
+subcategory: "body-shops"
 tier: "featured"
 description: "Lucky13 Auto Body and Paint — body shop in Edmonton, Edmonton. 149 Google reviews, 4.9★."
 address: "16813 113 Ave NW Unit 101, Edmonton, AB T5M 2X2"

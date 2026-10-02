@@ -2,7 +2,7 @@
 name: "Miraculous Maid Inc."
 slug: "miraculous-maid-inc"
 category: "cleaning-services"
-subcategory: "residential"
+subcategory: "house-cleaning"
 tier: "featured"
 description: "Miraculous Maid Inc. — a residential spot in Edmonton, Edmonton. 508 Google reviews, 4.6★."
 address: "11511 160 St NW, Edmonton, AB T5M 3V9"

@@ -2,7 +2,7 @@
 name: "Gear Up Auto Services Ltd"
 slug: "gear-up-auto-services-ltd"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Mill Woods"
 address: "9820 47 Ave NW #2, Edmonton, AB T6E 5P3"
 rating: 4.9

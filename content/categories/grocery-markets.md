@@ -20,4 +20,5 @@ subcategories:
   - { name: "African & Caribbean", slug: "african-caribbean" }
   - { name: "Farmers Markets", slug: "farmers-markets" }
   - { name: "Bulk & Health Food", slug: "bulk-health" }
+  - { name: "Butcher Shops", slug: "butcher" }
 ---

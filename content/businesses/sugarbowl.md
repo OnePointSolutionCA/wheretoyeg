@@ -2,7 +2,7 @@
 name: "Sugarbowl"
 slug: "sugarbowl"
 category: "restaurants"
-subcategory: "breakfast"
+subcategory: "brunch"
 tier: "featured"
 description: "Sugarbowl — breakfast in Edmonton, Edmonton. 3003 Google reviews, 4.5★."
 address: "10922 88 Ave NW, Edmonton, AB T6G 0Z1"

@@ -2,7 +2,7 @@
 name: "Almaden Auto Mechanic Ltd."
 slug: "almaden-auto-mechanic-ltd"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beverly"
 address: "12833 55 St NW, Edmonton, AB T5A 0C5"
 rating: 4.9

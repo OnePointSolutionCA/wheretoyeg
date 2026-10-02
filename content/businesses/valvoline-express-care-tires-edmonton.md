@@ -2,7 +2,7 @@
 name: "Valvoline Express Care + Tires - Edmonton"
 slug: "valvoline-express-care-tires-edmonton"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "oil-change"
 neighborhood: "Edmonton"
 address: "9516 51 Ave NW, Edmonton, AB T6E 5A6"
 rating: 4.8

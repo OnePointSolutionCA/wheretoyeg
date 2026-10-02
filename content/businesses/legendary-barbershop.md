@@ -2,7 +2,7 @@
 name: "Legendary Barbershop"
 slug: "legendary-barbershop"
 category: "barbers"
-subcategory: "classic-cuts"
+subcategory: "mens-haircuts"
 tier: "featured"
 description: "Legendary Barbershop — a classic-cuts spot in Downtown, Edmonton. 320 Google reviews, 4.8★."
 address: "11802 Jasper Ave, Edmonton, AB T5K 0N7"

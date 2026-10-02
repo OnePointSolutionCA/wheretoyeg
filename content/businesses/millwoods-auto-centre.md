@@ -2,7 +2,7 @@
 name: "Millwoods Auto Centre"
 slug: "millwoods-auto-centre"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Mill Woods"
 address: "3930 91 St NW, Edmonton, AB T6E 5K7"
 rating: 3.7

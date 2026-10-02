@@ -2,7 +2,7 @@
 name: "Grayson Mobile Mechanic"
 slug: "grayson-mobile-mechanic"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beverly"
 address: "13401 34 St NW, Edmonton, AB T5A 2P8"
 rating: 4.5

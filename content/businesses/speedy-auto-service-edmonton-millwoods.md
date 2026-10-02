@@ -2,7 +2,7 @@
 name: "Speedy Auto Service Edmonton Millwoods"
 slug: "speedy-auto-service-edmonton-millwoods"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Mill Woods"
 address: "2404 50 St NW, Edmonton, AB T6L 6Z4"
 rating: 4.6

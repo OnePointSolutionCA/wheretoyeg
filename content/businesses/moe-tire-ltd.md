@@ -2,7 +2,7 @@
 name: "Moe Tire LTD"
 slug: "moe-tire-ltd"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "tires"
 neighborhood: "Edmonton"
 address: "12820 52 St NW, Edmonton, AB T5A 0B6"
 rating: 3.7

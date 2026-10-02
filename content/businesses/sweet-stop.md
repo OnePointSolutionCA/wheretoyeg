@@ -2,7 +2,7 @@
 name: "Sweet stop"
 slug: "sweet-stop"
 category: "cafes-coffee-shops"
-subcategory: "desserts"
+subcategory: "dessert-cafes"
 tier: "featured"
 description: "Sweet stop — desserts in North Edmonton, Edmonton. 244 Google reviews, 5.0★."
 address: "15277 Castle Downs Rd NW #116, Edmonton, AB T5X 3N5"

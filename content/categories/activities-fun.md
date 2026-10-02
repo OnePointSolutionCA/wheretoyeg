@@ -27,5 +27,11 @@ subcategories:
   - { name: "Board Game Cafes", slug: "board-games" }
   - { name: "Mini Golf", slug: "mini-golf" }
   - { name: "Laser Tag", slug: "laser-tag" }
+  - { name: "Indoor Playgrounds", slug: "indoor-playground" }
+  - { name: "Museums", slug: "museums" }
+  - { name: "Parks & Outdoors", slug: "outdoor" }
+  - { name: "Skating", slug: "skating" }
+  - { name: "VR Arcades", slug: "vr-arcade" }
+  - { name: "Paintball", slug: "paintball" }
 ---
 Great for a rainy Saturday, a first date, or a birthday party you can't be bothered planning. Edmonton has a bigger activity scene than most people realize — indoor climbing that rivals big cities, padel courts (the fastest-growing sport in Canada), escape rooms that are actually clever, and board game cafes where you can spend six hours arguing about Catan.

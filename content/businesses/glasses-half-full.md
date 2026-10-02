@@ -2,7 +2,7 @@
 name: "Glasses Half Full"
 slug: "glasses-half-full"
 category: "medical"
-subcategory: "optometrists"
+subcategory: "eye-care"
 tier: "featured"
 description: "Glasses Half Full — optometrists in 124 Street, Edmonton. 286 Google reviews, 4.9★."
 address: "10625 124 St, Edmonton, AB T5N 1S5"

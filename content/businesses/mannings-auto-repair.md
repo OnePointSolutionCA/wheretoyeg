@@ -2,7 +2,7 @@
 name: "Manning's Auto Repair"
 slug: "mannings-auto-repair"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beverly"
 address: "12823 53 St NW, Edmonton, AB T5A 4J6"
 rating: 4.3

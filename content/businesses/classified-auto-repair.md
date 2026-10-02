@@ -2,7 +2,7 @@
 name: "Classified Auto Repair"
 slug: "classified-auto-repair"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Mill Woods"
 address: "3215 92 St NW, Edmonton, AB T6N 1B9"
 rating: 4.6

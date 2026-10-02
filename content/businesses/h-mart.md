@@ -2,7 +2,7 @@
 name: "H-Mart"
 slug: "h-mart"
 category: "grocery-markets"
-subcategory: "korean"
+subcategory: "east-asian"
 tier: "featured"
 description: "H-Mart — korean in Edmonton, Edmonton. 2235 Google reviews, 4.3★."
 address: "3803 Calgary Trl NW #570, Edmonton, AB T6J 5M8"

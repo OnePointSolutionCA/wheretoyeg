@@ -2,7 +2,7 @@
 name: "Seafood City Supermarket"
 slug: "seafood-city-supermarket"
 category: "grocery-markets"
-subcategory: "korean"
+subcategory: "east-asian"
 tier: "featured"
 description: "Seafood City Supermarket — korean in Edmonton, Edmonton. 1890 Google reviews, 4.1★."
 address: "17540 100 Ave NW, Edmonton, AB T5S 2S2"

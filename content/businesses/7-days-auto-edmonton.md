@@ -2,7 +2,7 @@
 name: "7 Days Auto Edmonton"
 slug: "7-days-auto-edmonton"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beverly"
 address: "11719 A 46 St NW, Edmonton, AB T5W 2V5"
 rating: 3.8

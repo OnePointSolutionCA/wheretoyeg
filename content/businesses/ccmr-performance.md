@@ -2,7 +2,7 @@
 name: "CCMR Performance"
 slug: "ccmr-performance"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Spruce Grove"
 address: "65 Alberta Ave, Spruce Grove, AB T7X 3A7"
 rating: 4.5

@@ -2,7 +2,7 @@
 name: "Helio Optometry"
 slug: "helio-optometry"
 category: "medical"
-subcategory: "optometrists"
+subcategory: "eye-care"
 tier: "featured"
 description: "Helio Optometry — optometrists in Edmonton, Edmonton. 139 Google reviews, 5.0★."
 address: "9516 149 St, Edmonton, AB T5P 1J8"

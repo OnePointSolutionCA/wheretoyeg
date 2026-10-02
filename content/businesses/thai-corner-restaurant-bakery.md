@@ -2,7 +2,7 @@
 name: "Thai Corner Restaurant & Bakery"
 slug: "thai-corner-restaurant-bakery"
 category: "bakeries"
-subcategory: "thai"
+subcategory: "pastries"
 tier: "featured"
 description: "Thai Corner Restaurant & Bakery — thai in Edmonton, Edmonton. 704 Google reviews, 4.8★."
 address: "9314 34 Ave NW, Edmonton, AB T6E 5X8"

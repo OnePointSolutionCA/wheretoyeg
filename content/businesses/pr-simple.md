@@ -2,7 +2,7 @@
 name: "Pür & Simple"
 slug: "pr-simple"
 category: "restaurants"
-subcategory: "breakfast"
+subcategory: "brunch"
 tier: "featured"
 description: "Pür & Simple — breakfast in Edmonton, Edmonton. 2894 Google reviews, 4.8★."
 address: "1 Kingsway Gdn Mall NW Unit 2001, Edmonton, AB T5G 3A6"

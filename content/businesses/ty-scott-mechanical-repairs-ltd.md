@@ -2,7 +2,7 @@
 name: "Ty Scott Mechanical Repairs Ltd"
 slug: "ty-scott-mechanical-repairs-ltd"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Spruce Grove"
 address: "70 Madison Crescent, Spruce Grove, AB T7X 4E4"
 rating: 4.8

@@ -2,7 +2,7 @@
 name: "DOSC"
 slug: "dosc"
 category: "restaurants"
-subcategory: "steakhouse"
+subcategory: "steakhouses"
 tier: "featured"
 description: "DOSC — a popular steakhouse spot in Edmonton, Edmonton. 2192 Google reviews, 4.4★."
 address: "10190 104 Street NW, Edmonton, AB T5J 1A7"

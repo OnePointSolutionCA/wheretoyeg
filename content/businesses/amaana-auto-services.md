@@ -2,7 +2,7 @@
 name: "Amaana Auto services"
 slug: "amaana-auto-services"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beverly"
 address: "12809 56 St NW, Edmonton, AB T5A 0C9"
 rating: 4.2

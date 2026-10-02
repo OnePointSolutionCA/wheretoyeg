@@ -2,7 +2,7 @@
 name: "Cake & Dessert Cafe"
 slug: "cake-dessert-cafe"
 category: "cafes-coffee-shops"
-subcategory: "desserts"
+subcategory: "dessert-cafes"
 tier: "featured"
 description: "Cake & Dessert Cafe — desserts in Edmonton, Edmonton. 611 Google reviews, 4.1★."
 address: "8278 175 St NW, Edmonton, AB T5T 1V1"

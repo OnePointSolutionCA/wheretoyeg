@@ -2,7 +2,7 @@
 name: "RPM Custom Repair"
 slug: "rpm-custom-repair"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Spruce Grove"
 address: "60 Shep St #3, Spruce Grove, AB T7X 2K6"
 rating: 5

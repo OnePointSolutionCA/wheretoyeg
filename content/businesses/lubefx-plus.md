@@ -2,7 +2,7 @@
 name: "LubeFx Plus"
 slug: "lubefx-plus"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "oil-change"
 neighborhood: "Edmonton"
 address: "12621 Fort Rd NW, Edmonton, AB T5C 3C1"
 rating: 4.2

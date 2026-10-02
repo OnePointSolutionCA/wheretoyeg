@@ -2,7 +2,7 @@
 name: "PAC AUTO TIRE & MAINTENANCE"
 slug: "pac-auto-tire-and-maintenance"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "tires"
 neighborhood: "Mill Woods"
 address: "917 Millbourne Rd E Northwest, Edmonton, AB T6K 2Z6"
 rating: 5

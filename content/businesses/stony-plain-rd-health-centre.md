@@ -2,7 +2,7 @@
 name: "Stony Plain Rd Health Centre"
 slug: "stony-plain-rd-health-centre"
 category: "medical"
-subcategory: "walk-in-clinic"
+subcategory: "walk-in-clinics"
 tier: "featured"
 description: "Stony Plain Rd Health Centre — walk in clinic in Edmonton, Edmonton. 22 Google reviews, 4.6★."
 address: "15210 Stony Plain Rd, Edmonton, AB T5P 3Y5"

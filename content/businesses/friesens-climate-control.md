@@ -2,7 +2,7 @@
 name: "Friesen's Climate Control"
 slug: "friesens-climate-control"
 category: "electricians"
-subcategory: "furnace"
+subcategory: "hvac"
 tier: "featured"
 description: "Friesen's Climate Control — furnace in Edmonton, Edmonton. 1078 Google reviews, 4.9★."
 address: "10812 181 St NW, Edmonton, AB T5S 1K4"

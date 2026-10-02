@@ -2,7 +2,7 @@
 name: "Millwoods Auto Inspection & Repairs"
 slug: "millwoods-auto-inspection-and-repairs"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Mill Woods"
 address: "3456 91 St NW, Edmonton, AB T6E 5R1"
 rating: 3.5

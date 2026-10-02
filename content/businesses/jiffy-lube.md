@@ -2,7 +2,7 @@
 name: "Jiffy Lube"
 slug: "jiffy-lube"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "oil-change"
 neighborhood: "Edmonton"
 address: "9608 165 Ave NW, Edmonton, AB T5Z 3L3"
 rating: 4.2

@@ -2,7 +2,7 @@
 name: "Midas"
 slug: "midas"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Edmonton"
 address: "13038 97 St NW, Edmonton, AB T5E 4C6"
 rating: 4.5

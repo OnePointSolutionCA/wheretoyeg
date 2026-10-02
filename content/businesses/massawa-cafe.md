@@ -2,7 +2,7 @@
 name: "Massawa Cafe"
 slug: "massawa-cafe"
 category: "cafes-coffee-shops"
-subcategory: "eritrean"
+subcategory: "international"
 tier: "featured"
 description: "Massawa Cafe — eritrean in Edmonton, Edmonton. 85 Google reviews, 4.5★."
 address: "10531 107 Ave NW, Edmonton, AB T5H 2X7"

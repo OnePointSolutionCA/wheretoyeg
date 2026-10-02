@@ -2,7 +2,7 @@
 name: "Edmonton 24/7 Mobile Tire Service"
 slug: "edmonton-24-7-mobile-tire-service"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "tires"
 neighborhood: "Edmonton"
 address: "10620 104 Street NW #102, Edmonton, AB T5H 2W2"
 rating: 4.2

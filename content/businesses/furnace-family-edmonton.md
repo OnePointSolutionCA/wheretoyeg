@@ -2,7 +2,7 @@
 name: "Furnace Family Edmonton"
 slug: "furnace-family-edmonton"
 category: "electricians"
-subcategory: "furnace"
+subcategory: "hvac"
 tier: "featured"
 description: "Furnace Family Edmonton — furnace in Edmonton, Edmonton. 3866 Google reviews, 4.9★."
 address: "10351 61 Ave NW, Edmonton, AB T6H 1L1"

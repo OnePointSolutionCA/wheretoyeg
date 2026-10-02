@@ -2,7 +2,7 @@
 name: "R/T Services Inc"
 slug: "r-t-services-inc"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Edmonton"
 address: "8528 126 Ave NW, Edmonton, AB T5B 1G6"
 rating: 4.8

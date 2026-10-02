@@ -2,7 +2,7 @@
 name: "Napa Auto Care Center"
 slug: "napa-auto-care-center"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Mill Woods"
 address: "1035 Knottwood Rd E Northwest, Edmonton, AB T6K 3N5"
 rating: 4.4

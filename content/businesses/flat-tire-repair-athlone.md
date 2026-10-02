@@ -2,7 +2,7 @@
 name: "Flat Tire Repair Athlone"
 slug: "flat-tire-repair-athlone"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "tires"
 neighborhood: "Edmonton"
 address: "12920 127 St #2, Edmonton, AB T5L 1A9"
 rating: 0

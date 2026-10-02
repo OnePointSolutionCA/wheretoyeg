@@ -2,7 +2,7 @@
 name: "Community Natural Foods"
 slug: "community-natural-foods"
 category: "grocery-markets"
-subcategory: "organic"
+subcategory: "bulk-health"
 tier: "featured"
 description: "Community Natural Foods — organic in Edmonton, Edmonton. 127 Google reviews, 4.2★."
 address: "7917 104 Street NW, Edmonton, AB T6E 4E1"

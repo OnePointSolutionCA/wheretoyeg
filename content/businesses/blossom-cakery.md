@@ -2,7 +2,7 @@
 name: "Blossom Cakery"
 slug: "blossom-cakery"
 category: "bakeries"
-subcategory: "cakes"
+subcategory: "custom-cakes"
 tier: "featured"
 description: "Blossom Cakery — cakes in South Edmonton, Edmonton. 136 Google reviews, 4.6★."
 address: "5677A Riverbend Rd NW, Edmonton, AB T6H 5K4"

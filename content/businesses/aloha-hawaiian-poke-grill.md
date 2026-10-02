@@ -2,7 +2,7 @@
 name: "Aloha Hawaiian Poke & Grill"
 slug: "aloha-hawaiian-poke-grill"
 category: "restaurants"
-subcategory: "poke"
+subcategory: "seafood"
 tier: "featured"
 description: "Aloha Hawaiian Poke & Grill — a popular poke spot in Edmonton, Edmonton. 468 Google reviews, 4.7★."
 address: "11315 174 St NW, Edmonton, AB T5S 0B7"

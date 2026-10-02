@@ -2,7 +2,7 @@
 name: "The Mensroom in MAYFIELD CHATTERS"
 slug: "the-mensroom-in-mayfield-chatters"
 category: "barbers"
-subcategory: "classic-cuts"
+subcategory: "mens-haircuts"
 tier: "featured"
 description: "The Mensroom in MAYFIELD CHATTERS — a classic-cuts spot in Edmonton, Edmonton. 231 Google reviews, 4.5★."
 address: "150 Mayfield Common Northwest, Edmonton, AB T5P 4B3"

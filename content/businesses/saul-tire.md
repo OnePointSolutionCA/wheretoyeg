@@ -2,7 +2,7 @@
 name: "Saul Tire"
 slug: "saul-tire"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "tires"
 neighborhood: "Edmonton"
 address: "8632 53 Ave NW, Edmonton, AB T6E 5G2"
 rating: 4

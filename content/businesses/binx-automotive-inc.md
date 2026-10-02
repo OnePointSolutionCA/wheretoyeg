@@ -2,7 +2,7 @@
 name: "Binx Automotive Inc."
 slug: "binx-automotive-inc"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Spruce Grove"
 address: "4721 50 St, Stony Plain, AB T7Z 1T1"
 rating: 4.9

@@ -2,7 +2,7 @@
 name: "2JZ Automotive"
 slug: "2jz-automotive"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Mill Woods"
 address: "3516 78 St NW, Edmonton, AB T6K 0E9"
 rating: 5

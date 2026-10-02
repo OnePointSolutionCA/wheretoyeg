@@ -2,7 +2,7 @@
 name: "Rejuvenation Dermatology Clinic - Downtown"
 slug: "rejuvenation-dermatology-clinic---downtown"
 category: "medical"
-subcategory: "dermatologists"
+subcategory: "dermatology"
 tier: "featured"
 description: "Rejuvenation Dermatology Clinic - Downtown — dermatologists in Downtown, Edmonton. 1517 Google reviews, 4.8★."
 address: "10665 Jasper Ave 780, Floor 7, Edmonton, AB T5J 3S9"

@@ -2,7 +2,7 @@
 name: "Nakatsui DermaSurgery"
 slug: "nakatsui-dermasurgery"
 category: "medical"
-subcategory: "dermatologists"
+subcategory: "dermatology"
 tier: "featured"
 description: "Nakatsui DermaSurgery — dermatologists in Edmonton, Edmonton. 345 Google reviews, 4.7★."
 address: "9670 142 St NW Ste 200, Edmonton, AB T5N 4B2"

@@ -2,7 +2,7 @@
 name: "Blitz Auto Canada"
 slug: "blitz-auto-canada"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Mill Woods"
 address: "3814 97 St NW, Edmonton, AB T6E 6N2"
 rating: 4.7

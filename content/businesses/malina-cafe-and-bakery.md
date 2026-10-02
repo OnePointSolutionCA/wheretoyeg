@@ -2,7 +2,7 @@
 name: "Malina Cafe and Bakery"
 slug: "malina-cafe-and-bakery"
 category: "cafes-coffee-shops"
-subcategory: "brunch"
+subcategory: "brunch-cafes"
 neighborhood: "Windermere"
 address: "629 Cameron Heights Dr NW, Edmonton, AB T6M 0L9"
 rating: 4.6

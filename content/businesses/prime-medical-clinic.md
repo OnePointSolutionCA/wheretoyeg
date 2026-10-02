@@ -2,7 +2,7 @@
 name: "Prime Medical Clinic"
 slug: "prime-medical-clinic"
 category: "medical"
-subcategory: "walk-in-clinic"
+subcategory: "walk-in-clinics"
 tier: "featured"
 description: "Prime Medical Clinic — walk in clinic in Edmonton, Edmonton. 3 Google reviews, 5.0★."
 address: "5358 Admiral Girouard St, Edmonton, AB T5E 6Z7"

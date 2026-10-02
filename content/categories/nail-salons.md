@@ -19,4 +19,5 @@ subcategories:
   - { name: "Nail Art", slug: "nail-art" }
   - { name: "Pedicures", slug: "pedicures" }
   - { name: "French Manicures", slug: "french" }
+  - { name: "Manicures & Pedicures", slug: "mani-pedi" }
 ---

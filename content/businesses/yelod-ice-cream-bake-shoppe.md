@@ -2,7 +2,7 @@
 name: "Yelo'd Ice Cream & Bake Shoppe"
 slug: "yelod-ice-cream-bake-shoppe"
 category: "bakeries"
-subcategory: "ice-cream"
+subcategory: "pastries"
 tier: "featured"
 description: "Yelo'd Ice Cream & Bake Shoppe — ice cream in Edmonton, Edmonton. 284 Google reviews, 4.9★."
 address: "2327 Rabbit Hill Rd NW, Edmonton, AB T6R 3A8"

@@ -2,7 +2,7 @@
 name: "Grove Collision Repairs"
 slug: "grove-collision-repairs"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "collision"
 neighborhood: "Spruce Grove"
 address: "120 South Ave, Spruce Grove, AB T7X 3B1"
 rating: 4.7

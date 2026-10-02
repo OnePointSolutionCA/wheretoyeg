@@ -2,7 +2,7 @@
 name: "Westmount Eye Care"
 slug: "westmount-eye-care"
 category: "medical"
-subcategory: "optometrists"
+subcategory: "eye-care"
 tier: "featured"
 description: "Westmount Eye Care — optometrists in St. Albert, Edmonton. 20 Google reviews, 3.2★."
 address: "11818 St Albert Trail NW, Edmonton, AB T5L 4G4"

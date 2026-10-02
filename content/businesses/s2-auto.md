@@ -2,7 +2,7 @@
 name: "S2 AUTO"
 slug: "s2-auto"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Mill Woods"
 address: "5604 34 St NW, Edmonton, AB T6B 3S9"
 rating: 4.7

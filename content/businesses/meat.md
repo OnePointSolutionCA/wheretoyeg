@@ -2,7 +2,7 @@
 name: "MEAT"
 slug: "meat"
 category: "restaurants"
-subcategory: "steakhouse"
+subcategory: "steakhouses"
 tier: "featured"
 description: "MEAT — a popular steakhouse spot in Edmonton, Edmonton. 3645 Google reviews, 4.6★."
 address: "8216 104 Street NW, Edmonton, AB T6E 4E5"

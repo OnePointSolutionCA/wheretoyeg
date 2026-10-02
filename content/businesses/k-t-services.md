@@ -2,7 +2,7 @@
 name: "K T Services"
 slug: "k-t-services"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Edmonton"
 address: "6331 76 Ave NW, Edmonton, AB T6B 0A6"
 rating: 4.6

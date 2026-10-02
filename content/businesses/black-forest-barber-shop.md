@@ -2,7 +2,7 @@
 name: "Black Forest Barber Shop"
 slug: "black-forest-barber-shop"
 category: "barbers"
-subcategory: "classic-cuts"
+subcategory: "mens-haircuts"
 tier: "featured"
 description: "Black Forest Barber Shop — classic cuts in Edmonton, Edmonton. 270 Google reviews, 4.9★."
 address: "9910 137 Ave NW #103, Edmonton, AB T5E 6W1"

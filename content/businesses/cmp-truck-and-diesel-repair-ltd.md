@@ -2,7 +2,7 @@
 name: "CMP Truck & Diesel Repair Ltd."
 slug: "cmp-truck-and-diesel-repair-ltd"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beaumont"
 address: "4716 67 St, Beaumont, AB T4X 1Z9"
 rating: 5

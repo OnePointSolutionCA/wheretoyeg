@@ -2,7 +2,7 @@
 name: "Eyes On White Oaks"
 slug: "eyes-on-white-oaks"
 category: "medical"
-subcategory: "optometrists"
+subcategory: "eye-care"
 tier: "featured"
 description: "Eyes On White Oaks — optometrists in Edmonton, Edmonton. 12 Google reviews, 5.0★."
 address: "12222 137 Ave NW #113, Edmonton, AB T5L 4X5"

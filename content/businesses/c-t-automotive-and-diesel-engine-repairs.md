@@ -2,7 +2,7 @@
 name: "C T Automotive & Diesel Engine Repairs"
 slug: "c-t-automotive-and-diesel-engine-repairs"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Spruce Grove"
 address: "10 South Ave, Spruce Grove, AB T7X 0A0"
 rating: 4.8

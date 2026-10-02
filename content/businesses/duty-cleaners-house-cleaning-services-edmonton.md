@@ -2,7 +2,7 @@
 name: "Duty Cleaners House Cleaning Services Edmonton"
 slug: "duty-cleaners-house-cleaning-services-edmonton"
 category: "cleaning-services"
-subcategory: "residential"
+subcategory: "house-cleaning"
 tier: "featured"
 description: "Duty Cleaners House Cleaning Services Edmonton — a residential spot in Edmonton, Edmonton. 234 Google reviews, 4.9★."
 address: "18615 71 Ave NW, Edmonton, AB T5T 2V9"

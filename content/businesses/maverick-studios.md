@@ -2,7 +2,7 @@
 name: "Maverick Studios"
 slug: "maverick-studios"
 category: "photographers"
-subcategory: "portrait"
+subcategory: "portraits"
 tier: "featured"
 description: "Maverick Studios — a portrait spot in Edmonton, Edmonton. 73 Google reviews, 5.0★."
 address: "11217 143 St NW, Edmonton, AB T5M 3P8"

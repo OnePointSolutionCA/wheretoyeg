@@ -3,7 +3,7 @@ name: "Azteca Automotive & Tires"
 slug: "azteca-automotive-and-tires"
 active: false
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "tires"
 neighborhood: "Edmonton"
 address: "14314 140 St NW, Edmonton, AB T6V 1J8"
 rating: 5

@@ -2,7 +2,7 @@
 name: "One stop halal and cafe"
 slug: "one-stop-halal-and-cafe"
 category: "cafes-coffee-shops"
-subcategory: "halal-chicken"
+subcategory: "international"
 tier: "featured"
 description: "One stop halal and cafe — halal chicken in Edmonton, Edmonton. Halal-certified. 32 Google reviews, 4.8★."
 address: "11748 81 St NW, Edmonton, AB T5B 2S4"

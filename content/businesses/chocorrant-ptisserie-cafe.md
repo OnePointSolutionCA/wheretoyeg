@@ -2,7 +2,7 @@
 name: "Chocorrant Pâtisserie + Cafe"
 slug: "chocorrant-ptisserie-cafe"
 category: "bakeries"
-subcategory: "pastry"
+subcategory: "pastries"
 tier: "featured"
 description: "Chocorrant Pâtisserie + Cafe — pastry in 124 Street, Edmonton. 620 Google reviews, 4.6★."
 address: "10328 124 St, Edmonton, AB T5N 1R2"

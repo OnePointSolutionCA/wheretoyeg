@@ -2,7 +2,7 @@
 name: "Wild Rose Auto Repair And Sale Ab Ltd."
 slug: "wild-rose-auto-repair-and-sale-ab-ltd"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Mill Woods"
 address: "9340 31 Ave NW, Edmonton, AB T6N 1C4"
 rating: 4.4

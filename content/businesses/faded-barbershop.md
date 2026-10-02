@@ -2,7 +2,7 @@
 name: "Faded Barbershop"
 slug: "faded-barbershop"
 category: "barbers"
-subcategory: "classic-cuts"
+subcategory: "mens-haircuts"
 tier: "featured"
 description: "Faded Barbershop — classic cuts in Edmonton, Edmonton. 442 Google reviews, 4.6★."
 address: "6610 127 Ave NW, Edmonton, AB T5C 1P9"

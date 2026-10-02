@@ -3,7 +3,7 @@ name: "Sawmill Prime Rib & Steak House"
 slug: "sawmill-prime-rib-and-steak-house"
 active: false
 category: "restaurants"
-subcategory: "steakhouse"
+subcategory: "steakhouses"
 neighborhood: "Mill Woods"
 address: "South Entrance, 4810 Calgary Trl NW, Edmonton, AB T6H 5H5"
 rating: 4.2

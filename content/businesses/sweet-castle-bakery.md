@@ -2,7 +2,7 @@
 name: "Sweet Castle Bakery"
 slug: "sweet-castle-bakery"
 category: "cafes-coffee-shops"
-subcategory: "desserts"
+subcategory: "dessert-cafes"
 tier: "featured"
 description: "Sweet Castle Bakery — desserts in Edmonton, Edmonton. 1005 Google reviews, 4.8★."
 address: "3019 66 St NW, Edmonton, AB T6K 4B2"

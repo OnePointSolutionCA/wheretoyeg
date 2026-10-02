@@ -2,7 +2,7 @@
 name: "Brown Butter Cafe"
 slug: "brown-butter-cafe"
 category: "cafes-coffee-shops"
-subcategory: "brunch"
+subcategory: "brunch-cafes"
 neighborhood: "Beaumont"
 address: "1528 91 St SW, Edmonton, AB T6X 1M5"
 rating: 4.5

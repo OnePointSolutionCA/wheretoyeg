@@ -2,7 +2,7 @@
 name: "127 Auto Mechanic"
 slug: "127-auto-mechanic"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beverly"
 address: "12527 127 St, Edmonton, AB T5L 1A3"
 rating: 4.3

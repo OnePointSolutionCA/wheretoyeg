@@ -2,7 +2,7 @@
 name: "Genesis Auto Repair Ltd"
 slug: "genesis-auto-repair-ltd"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Mill Woods"
 address: "9827 33 Ave NW, Edmonton, AB T6N 1B6"
 rating: 4.9

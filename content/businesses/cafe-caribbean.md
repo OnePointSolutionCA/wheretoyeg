@@ -2,7 +2,7 @@
 name: "Cafe Caribbean"
 slug: "cafe-caribbean"
 category: "cafes-coffee-shops"
-subcategory: "caribbean"
+subcategory: "international"
 tier: "featured"
 description: "Cafe Caribbean — caribbean in Edmonton, Edmonton. 175 Google reviews, 4.8★."
 address: "10140 117 St NW, Edmonton, AB T5K 1X3"

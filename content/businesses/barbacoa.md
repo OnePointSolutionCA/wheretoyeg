@@ -2,7 +2,7 @@
 name: "Barbacoa"
 slug: "barbacoa"
 category: "restaurants"
-subcategory: "steakhouse"
+subcategory: "steakhouses"
 neighborhood: "Spruce Grove"
 address: "470 South Ave Unit C, Spruce Grove, AB T7X 2E9"
 rating: 4.8

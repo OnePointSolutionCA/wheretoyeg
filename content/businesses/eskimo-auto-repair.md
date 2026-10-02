@@ -2,7 +2,7 @@
 name: "Eskimo Auto Repair"
 slug: "eskimo-auto-repair"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beverly"
 address: "12940 53 St NW, Edmonton, AB T5A 0B9"
 rating: 5

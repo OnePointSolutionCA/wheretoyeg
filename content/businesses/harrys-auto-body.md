@@ -2,7 +2,7 @@
 name: "Harry's Auto Body"
 slug: "harrys-auto-body"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "body-shops"
 neighborhood: "Beverly"
 address: "12839 53 St NW, Edmonton, AB T5A 4J6"
 rating: 4.5

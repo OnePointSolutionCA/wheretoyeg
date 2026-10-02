@@ -2,7 +2,7 @@
 name: "New Image Commercial Cleaning Services"
 slug: "new-image-commercial-cleaning-services"
 category: "cleaning-services"
-subcategory: "commercial"
+subcategory: "commercial-cleaning"
 tier: "featured"
 description: "New Image Commercial Cleaning Services — a commercial spot in Edmonton, Edmonton. 44 Google reviews, 5.0★."
 address: "4712 27 Ave NW, Edmonton, AB T6L 4P9"

@@ -2,7 +2,7 @@
 name: "Fluffy Bakery"
 slug: "fluffy-bakery"
 category: "bakeries"
-subcategory: "pastry"
+subcategory: "pastries"
 tier: "featured"
 description: "Fluffy Bakery — pastry in Edmonton, Edmonton. 148 Google reviews, 4.6★."
 address: "10504 99 Ave NW #101, Edmonton, AB T5K 1B2"

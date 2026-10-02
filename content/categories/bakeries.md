@@ -20,4 +20,6 @@ subcategories:
   - { name: "Gluten-Free", slug: "gluten-free" }
   - { name: "Halal Bakeries", slug: "halal-bakeries" }
   - { name: "Wedding Cakes", slug: "wedding-cakes" }
+  - { name: "Artisan Bread", slug: "artisan-bread" }
+  - { name: "Middle Eastern Bakeries", slug: "middle-eastern" }
 ---

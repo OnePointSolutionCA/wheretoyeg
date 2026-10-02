@@ -2,7 +2,7 @@
 name: "Fountain Tire"
 slug: "fountain-tire"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "tires"
 neighborhood: "Beaumont"
 address: "6201 29 Ave, Beaumont, AB T4X 0H5"
 rating: 4.5

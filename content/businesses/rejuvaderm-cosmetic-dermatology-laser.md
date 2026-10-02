@@ -2,7 +2,7 @@
 name: "RejuvaDERM Cosmetic Dermatology & Laser"
 slug: "rejuvaderm-cosmetic-dermatology-laser"
 category: "medical"
-subcategory: "dermatologists"
+subcategory: "dermatology"
 tier: "featured"
 description: "RejuvaDERM Cosmetic Dermatology & Laser — dermatologists in Edmonton, Edmonton. 364 Google reviews, 4.9★."
 address: "14101 West Block Dr NW #201A, Edmonton, AB T5N 1L5"

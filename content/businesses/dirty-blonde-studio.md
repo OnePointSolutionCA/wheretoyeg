@@ -2,7 +2,7 @@
 name: "Dirty Blonde Studio"
 slug: "dirty-blonde-studio"
 category: "hair-salons"
-subcategory: "color"
+subcategory: "colour"
 tier: "featured"
 description: "Dirty Blonde Studio — a color spot in Edmonton, Edmonton. 80 Google reviews, 5.0★."
 address: "10529 81 Ave NW, Edmonton, AB T6E 1X7"

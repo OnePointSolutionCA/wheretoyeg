@@ -19,4 +19,5 @@ subcategories:
   - { name: "Mega Volume", slug: "mega-volume" }
   - { name: "Lash Lifts & Tints", slug: "lash-lifts" }
   - { name: "Brow Services", slug: "brow-services" }
+  - { name: "Lash Extensions", slug: "lash-extensions" }
 ---

@@ -2,7 +2,7 @@
 name: "Atlas Automotive"
 slug: "atlas-automotive"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Mill Woods"
 address: "5019 99 St NW, Edmonton, AB T6E 4Y1"
 rating: 4.7

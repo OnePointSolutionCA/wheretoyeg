@@ -2,7 +2,7 @@
 name: "Movenetics Physiotherapy"
 slug: "movenetics-physiotherapy"
 category: "gyms-fitness"
-subcategory: "functional-training"
+subcategory: "physiotherapy"
 tier: "featured"
 description: "Movenetics Physiotherapy — a popular functional-training spot in Edmonton, Edmonton. 309 Google reviews, 5.0★."
 address: "5300 Admiral Girouard St, Edmonton, AB T5E 6Z7"

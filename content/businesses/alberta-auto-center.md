@@ -2,7 +2,7 @@
 name: "Alberta Auto Center"
 slug: "alberta-auto-center"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beaumont"
 address: "5610 34 St SW, Edmonton, AB T6X 2E2"
 rating: 4.6

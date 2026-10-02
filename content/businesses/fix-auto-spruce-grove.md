@@ -2,7 +2,7 @@
 name: "FIX AUTO SPRUCE GROVE"
 slug: "fix-auto-spruce-grove"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "collision"
 neighborhood: "Spruce Grove"
 address: "110 Oswald Dr, Spruce Grove, AB T7X 2Y3"
 rating: 4.6

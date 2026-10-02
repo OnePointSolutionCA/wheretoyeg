@@ -2,7 +2,7 @@
 name: "Namaste India (North)"
 slug: "namaste-india-north"
 category: "restaurants"
-subcategory: "indian-pakistani"
+subcategory: "indian"
 neighborhood: "Castle Downs"
 address: "16741 100 St NW, Edmonton, AB T5X 3Z9"
 rating: 4.8

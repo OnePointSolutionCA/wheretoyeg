@@ -2,7 +2,7 @@
 name: "Taste Of Persia Restaurant"
 slug: "taste-of-persia-restaurant"
 category: "restaurants"
-subcategory: "persian"
+subcategory: "middle-eastern"
 tier: "featured"
 description: "Taste Of Persia Restaurant — persian in Edmonton, Edmonton. 1397 Google reviews, 4.7★."
 address: "17620 100 Ave NW, Edmonton, AB T5S 1S9"

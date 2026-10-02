@@ -2,7 +2,7 @@
 name: "Larre's Barber Shop"
 slug: "larres-barber-shop"
 category: "barbers"
-subcategory: "classic-cuts"
+subcategory: "mens-haircuts"
 tier: "featured"
 description: "Larre's Barber Shop — a classic-cuts spot in 124 Street, Edmonton. 622 Google reviews, 4.9★."
 address: "10325 124 St, Edmonton, AB T5N 1R1"

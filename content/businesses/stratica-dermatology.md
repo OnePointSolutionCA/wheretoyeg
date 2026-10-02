@@ -2,7 +2,7 @@
 name: "Stratica Dermatology"
 slug: "stratica-dermatology"
 category: "medical"
-subcategory: "dermatologists"
+subcategory: "dermatology"
 tier: "featured"
 description: "Stratica Dermatology — dermatologists in Edmonton, Edmonton. 3255 Google reviews, 4.7★."
 address: "10140 117 St NW #200-300, Edmonton, AB T5K 1X3"

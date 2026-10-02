@@ -2,7 +2,7 @@
 name: "Beaumont Chip Repair"
 slug: "beaumont-chip-repair"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "windshield"
 neighborhood: "Beaumont"
 address: "4413 42 St, Beaumont, AB T4X 1G9"
 rating: 5

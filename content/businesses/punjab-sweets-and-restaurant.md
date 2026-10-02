@@ -2,7 +2,7 @@
 name: "Punjab Sweets & Restaurant"
 slug: "punjab-sweets-and-restaurant"
 category: "restaurants"
-subcategory: "indian-pakistani"
+subcategory: "indian"
 neighborhood: "Mill Woods"
 address: "9393 34 Ave NW, Edmonton, AB T6E 5W8"
 rating: 3.7

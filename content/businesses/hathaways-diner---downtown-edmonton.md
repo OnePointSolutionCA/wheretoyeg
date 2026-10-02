@@ -2,7 +2,7 @@
 name: "Hathaway’s Diner - Downtown Edmonton"
 slug: "hathaways-diner---downtown-edmonton"
 category: "restaurants"
-subcategory: "breakfast"
+subcategory: "brunch"
 tier: "featured"
 description: "Hathaway’s Diner - Downtown Edmonton — breakfast in 124 Street, Edmonton. 265 Google reviews, 4.7★."
 address: "10151 124 St, Edmonton, AB T5N 1P5"

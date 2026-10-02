@@ -2,7 +2,7 @@
 name: "Health Matters Store & Wellness Clinic"
 slug: "health-matters-store-wellness-clinic"
 category: "grocery-markets"
-subcategory: "health-food"
+subcategory: "bulk-health"
 tier: "featured"
 description: "Health Matters Store & Wellness Clinic — health food in Edmonton, Edmonton. 133 Google reviews, 4.6★."
 address: "9977 178 St NW Unit 5, Edmonton, AB T5T 6J6"

@@ -2,7 +2,7 @@
 name: "Optiks International - Edmonton - Mayfield Common"
 slug: "optiks-international---edmonton---mayfield-common"
 category: "medical"
-subcategory: "optometrists"
+subcategory: "eye-care"
 tier: "featured"
 description: "Optiks International - Edmonton - Mayfield Common — optometrists in Edmonton, Edmonton. 194 Google reviews, 4.6★."
 address: "156 Mayfield Common Northwest, Edmonton, AB T5P 4B3"

@@ -2,7 +2,7 @@
 name: "Vitality Health Foods"
 slug: "vitality-health-foods"
 category: "grocery-markets"
-subcategory: "health-food"
+subcategory: "bulk-health"
 tier: "featured"
 description: "Vitality Health Foods — health food in Edmonton, Edmonton. 27 Google reviews, 4.6★."
 address: "14963 Stony Plain Rd, Edmonton, AB T5P 4W1"

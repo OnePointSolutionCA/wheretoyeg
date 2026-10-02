@@ -2,7 +2,7 @@
 name: "Cedar sweets restaurant and catering"
 slug: "cedar-sweets-restaurant-and-catering"
 category: "catering"
-subcategory: "middle-eastern-catering"
+subcategory: "halal-catering"
 tier: "featured"
 description: "Cedar sweets restaurant and catering — middle eastern catering in West Edmonton, Edmonton. Halal-certified. 474 Google reviews, 4.6★."
 address: "9951 170 St NW, Edmonton, AB T5T 6G7"

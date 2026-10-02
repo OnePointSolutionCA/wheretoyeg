@@ -2,7 +2,7 @@
 name: "Shakur Roadside Assistance - Tire Repair - Battery Boost Edmonton"
 slug: "shakur-roadside-assistance-tire-repair-battery-boost-edmonton"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "tires"
 neighborhood: "Edmonton"
 address: "14308 121 St NW, Edmonton, AB T5X 3S4"
 rating: 5

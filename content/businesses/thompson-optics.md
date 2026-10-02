@@ -2,7 +2,7 @@
 name: "Thompson Optics"
 slug: "thompson-optics"
 category: "medical"
-subcategory: "optometrists"
+subcategory: "eye-care"
 tier: "featured"
 description: "Thompson Optics — optometrists in Edmonton, Edmonton. 280 Google reviews, 4.6★."
 address: "11208 104 Ave NW, Edmonton, AB T5K 2X4"

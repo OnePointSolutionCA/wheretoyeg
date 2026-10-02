@@ -21,4 +21,10 @@ subcategories:
   - { name: "Brunch Cafes", slug: "brunch-cafes" }
   - { name: "Laptop-Friendly", slug: "laptop-friendly" }
   - { name: "Late-Night Cafes", slug: "late-night-cafes" }
+  - { name: "International Cafes", slug: "international" }
+  - { name: "Specialty Coffee", slug: "specialty" }
+  - { name: "Juice Bars", slug: "juice-bar" }
+  - { name: "Tea Shops", slug: "tea" }
+  - { name: "Gaming & Internet Cafes", slug: "internet-cafe" }
+  - { name: "Vegan Cafes", slug: "vegan" }
 ---

@@ -2,7 +2,7 @@
 name: "Chutney Restaurant Halal Pakistani. Due to Fire next door will opening soon"
 slug: "chutney-restaurant-halal-pakistani-due-to-fire-next-door-will-opening-soon"
 category: "restaurants"
-subcategory: "indian-pakistani"
+subcategory: "pakistani"
 neighborhood: "Mill Woods"
 address: "9266 34 Ave NW, Edmonton, AB T6N 1C9"
 rating: 4

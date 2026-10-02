@@ -2,7 +2,7 @@
 name: "Beaumont Autobody & Towing"
 slug: "beaumont-autobody-and-towing"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "body-shops"
 neighborhood: "Beaumont"
 address: "50009 AB-814, Leduc County, AB T4X 0K2"
 rating: 4.8

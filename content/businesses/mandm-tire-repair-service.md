@@ -2,7 +2,7 @@
 name: "M&M TIRE REPAIR SERVICE"
 slug: "mandm-tire-repair-service"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "tires"
 neighborhood: "Edmonton"
 address: "15206 Stony Plain Rd, Edmonton, AB T5P 3Y5"
 rating: 0

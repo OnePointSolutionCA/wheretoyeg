@@ -2,7 +2,7 @@
 name: "Safari Outpost"
 slug: "safari-outpost"
 category: "grocery-markets"
-subcategory: "african"
+subcategory: "african-caribbean"
 tier: "featured"
 description: "Safari Outpost — african in West Edmonton, Edmonton. 24 Google reviews, 4.8★."
 address: "9968 170 St NW, Edmonton, AB T5T 6G7"

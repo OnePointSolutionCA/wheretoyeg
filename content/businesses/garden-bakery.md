@@ -2,7 +2,7 @@
 name: "Garden Bakery"
 slug: "garden-bakery"
 category: "bakeries"
-subcategory: "cakes"
+subcategory: "custom-cakes"
 tier: "featured"
 description: "Garden Bakery — cakes in Edmonton, Edmonton. 348 Google reviews, 4.8★."
 address: "1731 102 St NW, Edmonton, AB T6N 0B1"

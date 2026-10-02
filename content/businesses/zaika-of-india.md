@@ -2,7 +2,7 @@
 name: "Zaika of India"
 slug: "zaika-of-india"
 category: "restaurants"
-subcategory: "indian-pakistani"
+subcategory: "indian"
 neighborhood: "Beaumont"
 address: "5009a 52 Ave, Beaumont, AB T4X 1E5"
 rating: 4.5

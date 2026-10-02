@@ -2,7 +2,7 @@
 name: "Edmonton Tire Guys"
 slug: "edmonton-tire-guys"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "tires"
 neighborhood: "Edmonton"
 address: "11533 158 St NW, Edmonton, AB T5M 3W1"
 rating: 3.9

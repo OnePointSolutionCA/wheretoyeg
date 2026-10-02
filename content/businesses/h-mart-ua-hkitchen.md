@@ -2,7 +2,7 @@
 name: "H-MART UA H.KITCHEN"
 slug: "h-mart-ua-hkitchen"
 category: "grocery-markets"
-subcategory: "korean"
+subcategory: "east-asian"
 tier: "featured"
 description: "H-MART UA H.KITCHEN — korean in Edmonton, Edmonton. 44 Google reviews, 4.2★."
 address: "8225 112 St NW, Edmonton, AB T6G 2L9"

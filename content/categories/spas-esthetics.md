@@ -20,4 +20,7 @@ subcategories:
   - { name: "Microneedling", slug: "microneedling" }
   - { name: "Body Treatments", slug: "body-treatments" }
   - { name: "Manicures & Pedicures", slug: "mani-pedi" }
+  - { name: "Day Spas", slug: "day-spas" }
+  - { name: "Massage", slug: "massage" }
+  - { name: "Medical Spas", slug: "medspa" }
 ---

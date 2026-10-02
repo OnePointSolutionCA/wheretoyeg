@@ -2,7 +2,7 @@
 name: "The Modern Man"
 slug: "the-modern-man"
 category: "barbers"
-subcategory: "classic-cuts"
+subcategory: "mens-haircuts"
 tier: "featured"
 description: "The Modern Man — a classic-cuts spot in West Edmonton, Edmonton. 86 Google reviews, 5.0★."
 address: "9972 170 St NW, Edmonton, AB T5T 5X4"

@@ -2,7 +2,7 @@
 name: "cargroomers windows tint & car detailing"
 slug: "cargroomers-windows-tint-and-car-detailing"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "detailing"
 neighborhood: "Beaumont"
 address: "132 Rue Montalet, Beaumont, AB T4X 0W3"
 rating: 5

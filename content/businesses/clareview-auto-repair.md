@@ -2,7 +2,7 @@
 name: "Clareview Auto Repair"
 slug: "clareview-auto-repair"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beverly"
 address: "550 Hermitage Rd NW, Edmonton, AB T5A 4N2"
 rating: 4.5

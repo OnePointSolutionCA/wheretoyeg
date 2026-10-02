@@ -2,7 +2,7 @@
 name: "The Emerald Breakfast and Lunch"
 slug: "the-emerald-breakfast-and-lunch"
 category: "restaurants"
-subcategory: "breakfast"
+subcategory: "brunch"
 tier: "featured"
 description: "The Emerald Breakfast and Lunch — breakfast in Edmonton, Edmonton. 69 Google reviews, 4.7★."
 address: "6604 178 Ave NW, Edmonton, AB T5Z 0E2"

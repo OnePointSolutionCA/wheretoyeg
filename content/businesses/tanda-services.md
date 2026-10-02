@@ -2,7 +2,7 @@
 name: "T&A Services"
 slug: "tanda-services"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Spruce Grove"
 address: "20 Madison Crescent, Spruce Grove, AB T7X 4H4"
 rating: 4.5

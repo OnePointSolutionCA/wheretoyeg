@@ -2,7 +2,7 @@
 name: "Aron Roadside Assistance - South"
 slug: "aron-roadside-assistance-south"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Edmonton"
 address: "11623 51 Ave NW, Edmonton, AB T6H 0M4"
 rating: 4.6

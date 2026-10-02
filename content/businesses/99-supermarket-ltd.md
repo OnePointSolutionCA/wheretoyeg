@@ -2,7 +2,7 @@
 name: "99 Supermarket Ltd."
 slug: "99-supermarket-ltd"
 category: "grocery-markets"
-subcategory: "asian"
+subcategory: "east-asian"
 tier: "featured"
 description: "99 Supermarket Ltd. — asian in Edmonton, Edmonton. 595 Google reviews, 4.1★."
 address: "10768 99 St NW, Edmonton, AB T5H 1N7"

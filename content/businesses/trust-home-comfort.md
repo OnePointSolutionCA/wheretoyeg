@@ -2,7 +2,7 @@
 name: "Trust Home Comfort"
 slug: "trust-home-comfort"
 category: "electricians"
-subcategory: "furnace"
+subcategory: "hvac"
 tier: "featured"
 description: "Trust Home Comfort — furnace in Edmonton, Edmonton. 795 Google reviews, 5.0★."
 address: "9756 27 Ave NW, Edmonton, AB T6N 1B2"

@@ -2,7 +2,7 @@
 name: "Spice Centre"
 slug: "spice-centre"
 category: "grocery-markets"
-subcategory: "indian"
+subcategory: "south-asian"
 tier: "featured"
 description: "Spice Centre — indian in Edmonton, Edmonton. 1177 Google reviews, 4.3★."
 address: "9149 34a Ave NW, Edmonton, AB T6E 5P4"

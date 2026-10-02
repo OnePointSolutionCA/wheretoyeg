@@ -2,7 +2,7 @@
 name: "Mitzvah Asian Grocery"
 slug: "mitzvah-asian-grocery"
 category: "grocery-markets"
-subcategory: "asian"
+subcategory: "east-asian"
 tier: "featured"
 description: "Mitzvah Asian Grocery — asian in Edmonton, Edmonton. 6 Google reviews, 4.3★."
 address: "16638 109 Ave, Edmonton, AB T5P 1C2"

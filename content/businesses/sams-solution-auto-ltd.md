@@ -2,7 +2,7 @@
 name: "Sams Solution Auto Ltd"
 slug: "sams-solution-auto-ltd"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beverly"
 address: "12309 67 St NW, Edmonton, AB T5B 1N1"
 rating: 4.6

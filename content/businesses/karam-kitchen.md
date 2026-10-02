@@ -2,7 +2,7 @@
 name: "Karam Kitchen"
 slug: "karam-kitchen"
 category: "catering"
-subcategory: "middle-eastern-catering"
+subcategory: "halal-catering"
 tier: "featured"
 description: "Karam Kitchen — middle eastern catering in North Edmonton, Edmonton. Halal-certified. 15 Google reviews, 4.3★."
 address: "12922 167 Ave NW, Edmonton, AB T6V 1J6"

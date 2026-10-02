@@ -2,7 +2,7 @@
 name: "Finetread & Tires Ab ltd"
 slug: "finetread-and-tires-ab-ltd"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "tires"
 neighborhood: "Edmonton"
 address: "9499 137 Ave NW, Edmonton, AB T5E 6C2"
 rating: 5

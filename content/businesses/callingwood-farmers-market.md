@@ -2,7 +2,7 @@
 name: "Callingwood Farmers' Market"
 slug: "callingwood-farmers-market"
 category: "grocery-markets"
-subcategory: "farmers-market"
+subcategory: "farmers-markets"
 tier: "featured"
 description: "Callingwood Farmers' Market — farmers market in Edmonton, Edmonton. 678 Google reviews, 4.6★."
 address: "6655-178 street, 69 Ave NW, Edmonton, AB T5T 4J5"

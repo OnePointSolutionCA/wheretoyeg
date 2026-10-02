@@ -2,7 +2,7 @@
 name: "Southwest Edmonton Farmers' Market"
 slug: "southwest-edmonton-farmers-market"
 category: "grocery-markets"
-subcategory: "farmers-market"
+subcategory: "farmers-markets"
 tier: "featured"
 description: "Southwest Edmonton Farmers' Market — farmers market in Edmonton, Edmonton. 150 Google reviews, 4.6★."
 address: "2051 Leger Rd NW, Edmonton, AB T6R 0R8"

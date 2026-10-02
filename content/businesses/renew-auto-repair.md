@@ -2,7 +2,7 @@
 name: "Renew Auto Repair"
 slug: "renew-auto-repair"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beverly"
 address: "4939 127 Ave NW, Edmonton, AB T5A 2W9"
 rating: 4.8

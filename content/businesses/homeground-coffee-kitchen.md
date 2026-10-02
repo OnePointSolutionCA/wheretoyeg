@@ -2,7 +2,7 @@
 name: "Homeground Coffee + Kitchen"
 slug: "homeground-coffee-kitchen"
 category: "cafes-coffee-shops"
-subcategory: "brunch"
+subcategory: "brunch-cafes"
 neighborhood: "Windermere"
 address: "Main Rd, Windermere LA23 1DX, UK"
 rating: 4.7

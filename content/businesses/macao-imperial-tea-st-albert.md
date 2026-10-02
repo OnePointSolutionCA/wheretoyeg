@@ -2,7 +2,7 @@
 name: "Macao Imperial Tea St. Albert"
 slug: "macao-imperial-tea-st-albert"
 category: "cafes-coffee-shops"
-subcategory: "bubble-tea"
+subcategory: "boba-bubble-tea"
 tier: "featured"
 description: "Macao Imperial Tea St. Albert — bubble tea in St. Albert, Edmonton. 86 Google reviews, 4.9★."
 address: "3506B TUDOR GLEN MRKT, St. Albert, AB T8N 3V3"

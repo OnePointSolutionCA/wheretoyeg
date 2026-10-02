@@ -2,7 +2,7 @@
 name: "Jamaican Jerk Shak"
 slug: "jamaican-jerk-shak"
 category: "restaurants"
-subcategory: "jamaican"
+subcategory: "caribbean"
 tier: "featured"
 description: "Jamaican Jerk Shak — jamaican in West Edmonton, Edmonton. 370 Google reviews, 4.7★."
 address: "8882 170 St NW Unit 1532, Edmonton, AB T5T 4V4"

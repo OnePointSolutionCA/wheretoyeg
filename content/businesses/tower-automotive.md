@@ -2,7 +2,7 @@
 name: "Tower Automotive"
 slug: "tower-automotive"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Mill Woods"
 address: "5921 91 St NW, Edmonton, AB T6E 6A7"
 rating: 4.8

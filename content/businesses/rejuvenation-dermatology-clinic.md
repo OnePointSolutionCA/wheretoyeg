@@ -2,7 +2,7 @@
 name: "Rejuvenation Dermatology Clinic"
 slug: "rejuvenation-dermatology-clinic"
 category: "medical"
-subcategory: "dermatologists"
+subcategory: "dermatology"
 tier: "featured"
 description: "Rejuvenation Dermatology Clinic — dermatologists in South Edmonton, Edmonton. 1647 Google reviews, 4.8★."
 address: "5083 Windermere Blvd Unit 101, Edmonton, AB T6W 0J5"

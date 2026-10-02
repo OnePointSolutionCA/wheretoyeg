@@ -2,7 +2,7 @@
 name: "Lucky Supermarket"
 slug: "lucky-supermarket-3"
 category: "grocery-markets"
-subcategory: "asian"
+subcategory: "east-asian"
 tier: "featured"
 description: "Lucky Supermarket — asian in Edmonton, Edmonton. 3082 Google reviews, 4.1★."
 address: "10725 97 St NW, Edmonton, AB T5H 2L9"

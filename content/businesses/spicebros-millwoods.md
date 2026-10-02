@@ -2,7 +2,7 @@
 name: "Spicebros Millwoods"
 slug: "spicebros-millwoods"
 category: "restaurants"
-subcategory: "indian-pakistani"
+subcategory: "indian"
 neighborhood: "Mill Woods"
 address: "5317 23 Ave NW, Edmonton, AB T6L 7G4"
 rating: 4.6

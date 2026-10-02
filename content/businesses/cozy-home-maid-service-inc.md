@@ -2,7 +2,7 @@
 name: "Cozy Home Maid Service Inc."
 slug: "cozy-home-maid-service-inc"
 category: "cleaning-services"
-subcategory: "residential"
+subcategory: "house-cleaning"
 tier: "featured"
 description: "Cozy Home Maid Service Inc. — a residential spot in Edmonton, Edmonton. 185 Google reviews, 4.8★."
 address: "10050 112 St NW STE 904, Edmonton, AB T5K 2J1"

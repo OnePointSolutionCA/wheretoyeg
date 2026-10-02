@@ -2,7 +2,7 @@
 name: "Jiffy Lube + Tires"
 slug: "jiffy-lube-tires"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "oil-change"
 neighborhood: "Beaumont"
 address: "6308 50 St, Beaumont, AB T4X 0B6"
 rating: 4.4

@@ -2,7 +2,7 @@
 name: "Drip N Whip"
 slug: "drip-n-whip"
 category: "cafes-coffee-shops"
-subcategory: "desserts"
+subcategory: "dessert-cafes"
 tier: "featured"
 description: "Drip N Whip — desserts in Edmonton, Edmonton. 262 Google reviews, 5.0★."
 address: "C Nisku, Intl Airport, 1 Outlet Collection Way Ab 617C, Edmonton, AB T9E 1J5"

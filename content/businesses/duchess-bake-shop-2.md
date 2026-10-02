@@ -2,7 +2,7 @@
 name: "Duchess Bake Shop"
 slug: "duchess-bake-shop-2"
 category: "bakeries"
-subcategory: "pastry"
+subcategory: "pastries"
 tier: "featured"
 description: "Duchess Bake Shop — pastry in 124 Street, Edmonton. 3039 Google reviews, 4.6★."
 address: "10718 124 St, Edmonton, AB T5M 0H1"

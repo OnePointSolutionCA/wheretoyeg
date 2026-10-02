@@ -2,7 +2,7 @@
 name: "Garage97 Auto Repair & Mobile Service"
 slug: "garage97-auto-repair-and-mobile-service"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beverly"
 address: "18358 Lessard Rd, Edmonton, AB T6M 2W8"
 rating: 4.9

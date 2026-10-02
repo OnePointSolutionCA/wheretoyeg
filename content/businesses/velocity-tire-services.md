@@ -2,7 +2,7 @@
 name: "Velocity Tire Services"
 slug: "velocity-tire-services"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "tires"
 neighborhood: "Edmonton"
 address: "3710 4 St NW, Edmonton, AB T6T 2L7"
 rating: 4.9

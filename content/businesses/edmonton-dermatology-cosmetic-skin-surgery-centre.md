@@ -2,7 +2,7 @@
 name: "Edmonton Dermatology Cosmetic & Skin Surgery Centre"
 slug: "edmonton-dermatology-cosmetic-skin-surgery-centre"
 category: "medical"
-subcategory: "dermatologists"
+subcategory: "dermatology"
 tier: "featured"
 description: "Edmonton Dermatology Cosmetic & Skin Surgery Centre — dermatologists in South Edmonton, Edmonton. 193 Google reviews, 4.7★."
 address: "207, 5540 Windermere Boulevard SW, 2nd Floor, Edmonton, AB T6W 2P3"

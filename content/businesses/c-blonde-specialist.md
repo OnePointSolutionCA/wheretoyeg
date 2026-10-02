@@ -2,7 +2,7 @@
 name: "C-Blonde Specialist"
 slug: "c-blonde-specialist"
 category: "hair-salons"
-subcategory: "color"
+subcategory: "colour"
 tier: "featured"
 description: "C-Blonde Specialist — a color spot in West Edmonton, Edmonton. 26 Google reviews, 5.0★."
 address: "10642 170 St NW, Edmonton, AB T5S 1P3"

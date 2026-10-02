@@ -2,7 +2,7 @@
 name: "Beattie's Automotive Services"
 slug: "beatties-automotive-services"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Spruce Grove"
 address: "301 Saskatchewan Ave #206, Spruce Grove, AB T7X 0G6"
 rating: 4.9

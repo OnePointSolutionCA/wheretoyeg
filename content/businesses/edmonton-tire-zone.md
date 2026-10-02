@@ -2,7 +2,7 @@
 name: "Edmonton Tire Zone"
 slug: "edmonton-tire-zone"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "tires"
 neighborhood: "Edmonton"
 address: "9337 45th Ave NW, Edmonton, AB T6E 5Z7"
 rating: 4.8

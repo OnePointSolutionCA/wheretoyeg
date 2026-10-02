@@ -2,7 +2,7 @@
 name: "RJ PRO AUTO REPAIR SHOP"
 slug: "rj-pro-auto-repair-shop"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beaumont"
 address: "5608 60 St, Beaumont, AB T4X 0G8"
 rating: 4.4

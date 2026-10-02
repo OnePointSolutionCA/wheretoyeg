@@ -2,7 +2,7 @@
 name: "Namaste India Grocery (McConachie)"
 slug: "namaste-india-grocery-mcconachie"
 category: "grocery-markets"
-subcategory: "indian"
+subcategory: "south-asian"
 tier: "featured"
 description: "Namaste India Grocery (McConachie) — indian in Edmonton, Edmonton. 74 Google reviews, 4.4★."
 address: "6522 170 Ave NW, Edmonton, AB T5Y 3X6"

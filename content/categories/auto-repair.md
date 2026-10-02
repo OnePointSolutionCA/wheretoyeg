@@ -22,4 +22,6 @@ subcategories:
   - { name: "European Cars", slug: "european-cars" }
   - { name: "Japanese Cars", slug: "japanese-cars" }
   - { name: "Body Shops", slug: "body-shops" }
+  - { name: "Car Washes", slug: "car-wash" }
+  - { name: "Windshield & Auto Glass", slug: "windshield" }
 ---

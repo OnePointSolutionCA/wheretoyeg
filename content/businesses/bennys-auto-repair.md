@@ -2,7 +2,7 @@
 name: "Benny's Auto Repair"
 slug: "bennys-auto-repair"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Spruce Grove"
 address: "Box 3492, 75B Shep St, Spruce Grove, AB T7X 3A7"
 rating: 4.7

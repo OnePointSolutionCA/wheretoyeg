@@ -2,7 +2,7 @@
 name: "Bison Tires – Mobile Tire Repair & Commercial Tire Services Edmonton"
 slug: "bison-tires-mobile-tire-repair-and-commercial-tire-services-edmonton"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "tires"
 neighborhood: "Edmonton"
 address: "5th Ave SW, Edmonton, AB T6X 1E2"
 rating: 4.9

@@ -2,7 +2,7 @@
 name: "Fuss Art of Hair"
 slug: "fuss-art-of-hair"
 category: "hair-salons"
-subcategory: "color"
+subcategory: "colour"
 tier: "featured"
 description: "Fuss Art of Hair — a color spot in Edmonton, Edmonton. 249 Google reviews, 4.7★."
 address: "10411 122 St NW #102, Edmonton, AB T5N 4C2"

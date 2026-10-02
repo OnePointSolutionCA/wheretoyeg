@@ -2,7 +2,7 @@
 name: "Delta Walk-in and Family Medical Clinic"
 slug: "delta-walk-in-and-family-medical-clinic"
 category: "medical"
-subcategory: "walk-in-clinic"
+subcategory: "walk-in-clinics"
 tier: "featured"
 description: "Delta Walk-in and Family Medical Clinic — walk in clinic in Edmonton, Edmonton. 304 Google reviews, 3.8★."
 address: "12143 97 St NW, Edmonton, AB T5G 1Z1"

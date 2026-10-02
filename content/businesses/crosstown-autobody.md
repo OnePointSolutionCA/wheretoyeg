@@ -2,7 +2,7 @@
 name: "Crosstown Autobody"
 slug: "crosstown-autobody"
 category: "auto-repair"
-subcategory: "body-shop"
+subcategory: "body-shops"
 tier: "featured"
 description: "Crosstown Autobody — body shop in Edmonton, Edmonton. 169 Google reviews, 4.6★."
 address: "11725 156 St, Edmonton, AB T5M 3N4"

@@ -2,7 +2,7 @@
 name: "Westgrove Medicentres Family Care Clinics"
 slug: "westgrove-medicentres-family-care-clinics"
 category: "medical"
-subcategory: "walk-in-clinic"
+subcategory: "walk-in-clinics"
 tier: "featured"
 description: "Westgrove Medicentres Family Care Clinics — walk in clinic in Edmonton, Edmonton. 300 Google reviews, 4.2★."
 address: "10232 142 St NW, Edmonton, AB T5N 3Y6"

@@ -2,7 +2,7 @@
 name: "Red Rabbit Automotive"
 slug: "red-rabbit-automotive"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Beaumont"
 address: "3004 Montrose Blvd, Beaumont, AB T4X 0C1"
 rating: 5

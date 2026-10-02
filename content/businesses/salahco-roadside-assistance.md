@@ -2,7 +2,7 @@
 name: "Salahco Roadside Assistance"
 slug: "salahco-roadside-assistance"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Edmonton"
 address: "58 Airport Rd NW, Edmonton, AB T5G 0W6"
 rating: 4.7

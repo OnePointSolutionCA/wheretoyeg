@@ -2,7 +2,7 @@
 name: "Atlas Cafe & Grill"
 slug: "atlas-cafe-grill"
 category: "cafes-coffee-shops"
-subcategory: "moroccan"
+subcategory: "international"
 tier: "featured"
 description: "Atlas Cafe & Grill — moroccan in Edmonton, Edmonton. Halal-certified. 146 Google reviews, 4.8★."
 address: "10588 109 St NW, Edmonton, AB T5H 3B2"

@@ -2,7 +2,7 @@
 name: "Yafo Shawarma Cafe"
 slug: "yafo-shawarma-cafe"
 category: "cafes-coffee-shops"
-subcategory: "shawarma"
+subcategory: "international"
 tier: "featured"
 description: "Yafo Shawarma Cafe — shawarma in Edmonton, Edmonton. Halal-certified. 19 Google reviews, 5.0★."
 address: "10502 107 Ave NW Unit 6, Edmonton, AB T5H 0W2"

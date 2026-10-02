@@ -19,4 +19,6 @@ subcategories:
   - { name: "Halal Catering", slug: "halal-catering" }
   - { name: "Buffets", slug: "buffets" }
   - { name: "Food Trucks", slug: "food-trucks" }
+  - { name: "Event Catering", slug: "event-catering" }
+  - { name: "Indian Catering", slug: "indian-catering" }
 ---

@@ -2,7 +2,7 @@
 name: "Old Strathcona Farmers' Market"
 slug: "old-strathcona-farmers-market-2"
 category: "grocery-markets"
-subcategory: "farmers-market"
+subcategory: "farmers-markets"
 tier: "featured"
 description: "Old Strathcona Farmers' Market — farmers market in Edmonton, Edmonton. 2724 Google reviews, 4.6★."
 address: "10310 83 Ave NW, Edmonton, AB T6E 5C3"

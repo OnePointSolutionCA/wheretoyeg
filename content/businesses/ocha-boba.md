@@ -2,7 +2,7 @@
 name: "OCHA + BOBA"
 slug: "ocha-boba"
 category: "cafes-coffee-shops"
-subcategory: "bubble-tea"
+subcategory: "boba-bubble-tea"
 tier: "featured"
 description: "OCHA + BOBA — bubble tea in Edmonton, Edmonton. 583 Google reviews, 4.4★."
 address: "9940 137 Ave NW #104, Edmonton, AB T5E 6W1"

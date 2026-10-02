@@ -20,4 +20,9 @@ subcategories:
   - { name: "Carpet Cleaning", slug: "carpet" }
   - { name: "Window Cleaning", slug: "windows" }
   - { name: "Airbnb Turnovers", slug: "airbnb" }
+  - { name: "Junk Removal", slug: "junk-removal" }
+  - { name: "Landscaping", slug: "landscaping" }
+  - { name: "Movers", slug: "moving" }
+  - { name: "Painters", slug: "painting" }
+  - { name: "Pest Control", slug: "pest-control" }
 ---

@@ -2,7 +2,7 @@
 name: "BOBA + BREW"
 slug: "boba-brew"
 category: "cafes-coffee-shops"
-subcategory: "bubble-tea"
+subcategory: "boba-bubble-tea"
 tier: "featured"
 description: "BOBA + BREW — bubble tea in Edmonton, Edmonton. 159 Google reviews, 4.7★."
 address: "4962A 98 Ave NW, Edmonton, AB T6B 2Y7"

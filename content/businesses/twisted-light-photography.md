@@ -2,7 +2,7 @@
 name: "Twisted Light Photography"
 slug: "twisted-light-photography"
 category: "photographers"
-subcategory: "headshots"
+subcategory: "portraits"
 tier: "featured"
 description: "Twisted Light Photography — headshots in Edmonton, Edmonton. 50 Google reviews, 4.9★."
 address: "10832 61 Ave NW #4, Edmonton, AB T6H 1M1"

@@ -2,7 +2,7 @@
 name: "Maids in Pink Edmonton"
 slug: "maids-in-pink-edmonton"
 category: "cleaning-services"
-subcategory: "residential"
+subcategory: "house-cleaning"
 tier: "featured"
 description: "Maids in Pink Edmonton — a residential spot in Edmonton, Edmonton. 48 Google reviews, 4.8★."
 address: "11420 142 St NW, Edmonton, AB T5M 1V1"

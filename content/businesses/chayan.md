@@ -2,7 +2,7 @@
 name: "CHAYAN 茶宴"
 slug: "chayan"
 category: "cafes-coffee-shops"
-subcategory: "bubble-tea"
+subcategory: "boba-bubble-tea"
 tier: "featured"
 description: "CHAYAN 茶宴 — bubble tea in Whyte Ave, Edmonton. 55 Google reviews, 4.6★."
 address: "10746 82 Ave NW, Edmonton, AB T6E 6P4"

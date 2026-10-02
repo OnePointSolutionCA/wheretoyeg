@@ -2,7 +2,7 @@
 name: "Lotus House of Kebab & Grocery"
 slug: "lotus-house-of-kebab-grocery"
 category: "grocery-markets"
-subcategory: "persian"
+subcategory: "middle-eastern"
 tier: "featured"
 description: "Lotus House of Kebab & Grocery — persian in Whyte Ave, Edmonton. 505 Google reviews, 4.7★."
 address: "10015 82 Ave NW, Edmonton, AB T6E 4Z7"

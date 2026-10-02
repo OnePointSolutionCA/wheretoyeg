@@ -2,7 +2,7 @@
 name: "KASOA Tropical Food Market."
 slug: "kasoa-tropical-food-market"
 category: "grocery-markets"
-subcategory: "african"
+subcategory: "african-caribbean"
 tier: "featured"
 description: "KASOA Tropical Food Market. — african in Edmonton, Edmonton. 523 Google reviews, 4.2★."
 address: "9320 118 Ave NW, Edmonton, AB T5G 0N4"

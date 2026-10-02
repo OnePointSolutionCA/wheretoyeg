@@ -2,7 +2,7 @@
 name: "auto mchaick corporation"
 slug: "auto-mchaick-corporation"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Mill Woods"
 address: "6835 39 Ave NW, Edmonton, AB T6K 2N6"
 rating: 5

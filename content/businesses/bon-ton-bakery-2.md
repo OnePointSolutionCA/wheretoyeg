@@ -2,7 +2,7 @@
 name: "Bon Ton Bakery"
 slug: "bon-ton-bakery-2"
 category: "bakeries"
-subcategory: "pastry"
+subcategory: "pastries"
 tier: "featured"
 description: "Bon Ton Bakery — pastry in Edmonton, Edmonton. 1387 Google reviews, 4.7★."
 address: "8720 149 St, Edmonton, AB T5R 1B6"

@@ -2,7 +2,7 @@
 name: "Pete's Automotive & Speed Shop"
 slug: "petes-automotive-and-speed-shop"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Spruce Grove"
 address: "309 First Ave, Spruce Grove, AB T7X 3X2"
 rating: 4.8

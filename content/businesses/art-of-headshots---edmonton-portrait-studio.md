@@ -2,7 +2,7 @@
 name: "Art of Headshots® - Edmonton Portrait Studio"
 slug: "art-of-headshots---edmonton-portrait-studio"
 category: "photographers"
-subcategory: "headshots"
+subcategory: "portraits"
 tier: "featured"
 description: "Art of Headshots® - Edmonton Portrait Studio — headshots in Edmonton, Edmonton. 18 Google reviews, 4.6★."
 address: "9662 Okisikow Wy N W #203, Edmonton, AB T5H 0A7"

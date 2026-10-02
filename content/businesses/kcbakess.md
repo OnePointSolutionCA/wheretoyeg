@@ -2,7 +2,7 @@
 name: "KCBAKESS"
 slug: "kcbakess"
 category: "bakeries"
-subcategory: "cakes"
+subcategory: "custom-cakes"
 tier: "featured"
 description: "KCBAKESS — cakes in Edmonton, Edmonton. 150 Google reviews, 4.7★."
 address: "9528 163 St NW, Edmonton, AB T5P 3M7"

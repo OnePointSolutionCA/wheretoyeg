@@ -2,7 +2,7 @@
 name: "EcoTire Shop"
 slug: "ecotire-shop"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "tires"
 neighborhood: "Edmonton"
 address: "7340 Yellowhead Trail NW, Edmonton, AB T5B 4K2"
 rating: 4.6

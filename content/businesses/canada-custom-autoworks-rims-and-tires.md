@@ -2,7 +2,7 @@
 name: "Canada Custom Autoworks - Rims and Tires"
 slug: "canada-custom-autoworks-rims-and-tires"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "tires"
 neighborhood: "Spruce Grove"
 address: "495 South Ave Unit 156, Spruce Grove, AB T7X4G2"
 rating: 4.9

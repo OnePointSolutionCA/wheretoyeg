@@ -2,7 +2,7 @@
 name: "Best Choice Automotive"
 slug: "best-choice-automotive"
 category: "auto-repair"
-subcategory: "general-repair"
+subcategory: "mechanics"
 neighborhood: "Mill Woods"
 address: "9928 35 Ave NW, Edmonton, AB T6E 6B2"
 rating: 4.8
