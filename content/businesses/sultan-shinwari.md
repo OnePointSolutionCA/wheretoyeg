@@ -20,7 +20,7 @@ hours:
   sunday: "2:00 PM–11:00 PM"
 photos: ["/photos/sultan-shinwari-1.jpg", "/photos/sultan-shinwari-2.jpg", "/photos/sultan-shinwari-3.jpg"]
 rating: 4.7
-review_count: 228
+review_count: 233
 price_range: "$$"
 amenities:
   - "Halal"

@@ -18,7 +18,7 @@ hours:
   sunday: "9:00 AM–8:00 PM"
 photos: ["/photos/sunterra-market-1.jpg", "/photos/sunterra-market-2.jpg", "/photos/sunterra-market-3.jpg"]
 rating: 4.3
-review_count: 1180
+review_count: 1181
 price_range: "$$$"
 amenities:
   - "Prepared Meals"

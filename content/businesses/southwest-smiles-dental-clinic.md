@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Windermere"
 address: "1113 Windermere Way SW, Edmonton, AB T6W 2P3"
 rating: 4.7
-review_count: 468
+review_count: 469
 tier: "featured"
 phone: "(587) 773-9292"
 website: "http://www.southwestsmiles.ca/"

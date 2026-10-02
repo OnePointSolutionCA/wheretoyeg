@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/stratica-dermatology-1.jpg", "/photos/stratica-dermatology-2.jpg", "/photos/stratica-dermatology-3.jpg"]
 rating: 4.7
-review_count: 3282
+review_count: 3288
 price_range: "$$"
 amenities:
 

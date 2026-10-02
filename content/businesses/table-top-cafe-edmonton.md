@@ -18,7 +18,7 @@ hours:
   sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/table-top-cafe-edmonton-1.jpg", "/photos/table-top-cafe-edmonton-2.jpg", "/photos/table-top-cafe-edmonton-3.jpg"]
 rating: 4.7
-review_count: 1007
+review_count: 1008
 price_range: "$$"
 amenities:
   - "500+ Games"
@@ -47,7 +47,7 @@ reviews:
     rating: 5
     comment: |
       I've visited Table Top Café several times now with friends. It's consistent, the food and drink are good, the games are kept in pretty good condition overall, and the variety of games to try is solid. I've always left feeling that I've had a great time with friends.
-  - name: "Danielle Jeanene"
+  - name: "Dani"
     rating: 5
     comment: |
       I always have a fantastic experience at Table Top. I first visited a few months ago, and since then have been going regularly every few weeks. It is always clean and the games are well-maintained. The space also feels really inclusive, from gender neutral restrooms to the extremely kind and accommodating staff. They feel like a board game space first and cafe second, but the food and drinks are tasty and comforting—big fan of the nachos! Prices are also so reasonable so it's easy to spend a day here. I do sometimes find it a bit cold in the space, so I like to bring a big scarf/small blanket.

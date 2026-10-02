@@ -21,7 +21,7 @@ hours:
 photos:
   - "/photos/shine-above-inc-2.jpg"
 rating: 4.8
-review_count: 310
+review_count: 311
 price_range: "$$"
 amenities:
 

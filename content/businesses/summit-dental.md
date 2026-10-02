@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/summit-dental-1.jpg", "/photos/summit-dental-2.jpg", "/photos/summit-dental-3.jpg"]
 rating: 4.9
-review_count: 1261
+review_count: 1264
 price_range: "$$"
 amenities:
 

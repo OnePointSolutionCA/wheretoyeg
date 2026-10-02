@@ -6,7 +6,7 @@ subcategory: "mechanics"
 neighborhood: "Beverly"
 address: "4939 127 Ave NW, Edmonton, AB T5A 2W9"
 rating: 4.8
-review_count: 16
+review_count: 18
 tier: "featured"
 phone: "(780) 249-4321"
 website: "https://renewautorepair.ca/"

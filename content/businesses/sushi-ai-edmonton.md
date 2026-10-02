@@ -18,7 +18,7 @@ hours:
   sunday: "12:00 PM–2:30 PM"
 photos: ["/photos/sushi-ai-edmonton-1.jpg", "/photos/sushi-ai-edmonton-2.jpg", "/photos/sushi-ai-edmonton-3.jpg"]
 rating: 4.6
-review_count: 1076
+review_count: 1079
 price_range: "$$"
 amenities:
   - "Dine-In"

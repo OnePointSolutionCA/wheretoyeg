@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "3208 Parsons Rd NW, Edmonton, AB T6N 1M2"
 rating: 5
-review_count: 18
+review_count: 23
 tier: "featured"
 phone: "(780) 676-4939"
 website: "https://southedmontonemergencydental.ca/"

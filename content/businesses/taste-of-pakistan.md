@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–10:00 PM"
 photos: ["/photos/taste-of-pakistan-1.jpg", "/photos/taste-of-pakistan-2.jpg", "/photos/taste-of-pakistan-3.jpg"]
 rating: 4.8
-review_count: 1006
+review_count: 1016
 price_range: "$"
 amenities:
   - "Halal"

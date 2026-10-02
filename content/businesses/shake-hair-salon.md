@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/shake-hair-salon-1.jpg", "/photos/shake-hair-salon-2.jpg", "/photos/shake-hair-salon-3.jpg"]
 rating: 4.8
-review_count: 1351
+review_count: 1358
 price_range: "$$"
 amenities:
 

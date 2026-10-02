@@ -21,7 +21,7 @@ hours:
   sunday: "8:00 AM–7:00 PM"
 photos: ["/photos/sunbake-pita-bakery-1.jpg", "/photos/sunbake-pita-bakery-2.jpg", "/photos/sunbake-pita-bakery-3.jpg"]
 rating: 4.6
-review_count: 2192
+review_count: 2195
 price_range: "$"
 amenities:
   - "Halal"

@@ -5,7 +5,7 @@ category: "cleaning-services"
 neighborhood: "Edmonton"
 address: "10537 170 St NW, Edmonton, AB T5P 4W2"
 rating: 4.7
-review_count: 584
+review_count: 586
 tier: "featured"
 phone: "(780) 705-7322"
 website: "https://steamdrycanada.com/franchise/edmonton/?utm_source=google&utm_medium=organic&utm_campaign=gmb"

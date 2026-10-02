@@ -13,17 +13,17 @@ google_maps_url: "https://maps.google.com/?cid=7421001418471935839&g_mp=Cidnb29n
 hours:
   monday: "6:00 PM–9:30 PM"
   tuesday: "6:00 PM–9:30 PM"
-  wednesday: "4:30 PM–11:00 PM"
-  thursday: "6:00 PM–11:00 PM"
+  wednesday: "3:00 PM–11:00 PM"
+  thursday: "4:30 PM–11:00 PM"
   friday: "4:30 PM–12:30 AM"
-  saturday: "12:00 PM–12:30 AM"
+  saturday: "10:30 AM–12:30 AM"
   sunday: "12:00 PM–11:00 PM"
 photos:
   - "/photos/tactical-laser-tag-classified-yeg-g2.jpg"
   - "/photos/tactical-laser-tag-classified-yeg-g3.jpg"
   - "/photos/tactical-laser-tag-classified-yeg-g0.jpg"
 rating: 4.9
-review_count: 1142
+review_count: 1178
 price_range: "$$"
 amenities:
 

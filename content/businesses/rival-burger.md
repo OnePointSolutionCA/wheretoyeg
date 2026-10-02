@@ -22,7 +22,7 @@ photos:
   - "/photos/rival-burger-3.jpg"
   - "/photos/rival-burger-2.jpg"
 rating: 4.9
-review_count: 395
+review_count: 399
 price_range: "$"
 amenities:
   - "Dine-In"

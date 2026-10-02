@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/steam-dry-canada---home-depot-cleaning-services--edmonton-1.jpg", "/photos/steam-dry-canada---home-depot-cleaning-services--edmonton-2.jpg", "/photos/steam-dry-canada---home-depot-cleaning-services--edmonton-3.jpg"]
 rating: 4.7
-review_count: 584
+review_count: 586
 price_range: "$$"
 amenities:
 

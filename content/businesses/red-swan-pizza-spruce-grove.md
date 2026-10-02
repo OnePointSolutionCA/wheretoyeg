@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Spruce Grove"
 address: "Next to Orange Theory, 7 McLeod Ave #112, Spruce Grove, AB T7X 4H2"
 rating: 4.6
-review_count: 205
+review_count: 207
 tier: "featured"
 phone: "(780) 571-0066"
 website: "https://redswanpizza.ca/"

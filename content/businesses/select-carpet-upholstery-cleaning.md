@@ -33,7 +33,7 @@ reviews:
     rating: 5
     comment: |
       Technician was professional, thorough and polite. I was satisfied with the work done. Would definitely refer and use them again.
-  - name: "mekaiah earl"
+  - name: "Meiah Rae"
     rating: 5
     comment: |
       Had a great experience with Select Carpet and Upholstery Cleaning. Did a great job on our family couches (they were looking pretty grimy from our kids before the cleaning and came out looking new again!) would definitely have them back!

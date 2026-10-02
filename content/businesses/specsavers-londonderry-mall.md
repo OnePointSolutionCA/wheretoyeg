@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "1 Londonderry Mall NW Unit 0229, Edmonton, AB T5C 3C8"
 rating: 4.8
-review_count: 767
+review_count: 771
 tier: "featured"
 phone: "(587) 760-2215"
 website: "https://www.specsavers.ca/stores/londonderrymall?utm_source=yext&utm_medium=places&utm_content=londonderrymall&utm_campaign=googleplaces&y_source=1_NjE2NzE4MDctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"

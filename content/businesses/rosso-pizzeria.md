@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/rosso-pizzeria-1.jpg", "/photos/rosso-pizzeria-2.jpg", "/photos/rosso-pizzeria-3.jpg"]
 rating: 4.5
-review_count: 1430
+review_count: 1431
 price_range: "$$"
 amenities:
   - "Dine-In"

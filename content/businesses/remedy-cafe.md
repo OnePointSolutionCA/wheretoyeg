@@ -18,7 +18,7 @@ hours:
   sunday: "8:00 AM–10:00 PM"
 photos: ["/photos/remedy-cafe-1.jpg", "/photos/remedy-cafe-2.jpg", "/photos/remedy-cafe-3.jpg"]
 rating: 4.4
-review_count: 2278
+review_count: 2280
 price_range: "$$"
 amenities:
   - "Halal Options"

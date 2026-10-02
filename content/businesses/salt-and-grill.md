@@ -19,8 +19,8 @@ hours:
   saturday: "10:00 AM–10:00 PM"
   sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/salt-and-grill-1.jpg", "/photos/salt-and-grill-2.jpg", "/photos/salt-and-grill-3.jpg"]
-rating: 4.7
-review_count: 22
+rating: 4.8
+review_count: 24
 price_range: "$"
 amenities:
   - "Halal"

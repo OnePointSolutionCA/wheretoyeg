@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/seitans-formerly-die-pie-1.jpg", "/photos/seitans-formerly-die-pie-2.jpg", "/photos/seitans-formerly-die-pie-3.jpg"]
 rating: 4.5
-review_count: 1055
+review_count: 1060
 price_range: "$$"
 amenities:
   - "Delivery"

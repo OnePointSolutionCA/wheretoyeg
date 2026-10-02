@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "West Edmonton"
 google_maps_url: "https://maps.google.com/?q=Thai%20Boat%20Edmonton"
 hours:
-  monday: "11:00 AM–8:00 PM"
-  tuesday: "Closed"
-  wednesday: "11:00 AM–8:00 PM"
-  thursday: "11:00 AM–8:00 PM"
-  friday: "11:00 AM–8:00 PM"
-  saturday: "11:00 AM–8:00 PM"
-  sunday: "11:00 AM–8:00 PM"
+  monday: "Closed"
+  tuesday: "11:00 AM–9:00 PM"
+  wednesday: "11:00 AM–9:00 PM"
+  thursday: "11:00 AM–9:00 PM"
+  friday: "11:00 AM–9:00 PM"
+  saturday: "11:30 AM–9:00 PM"
+  sunday: "11:30 AM–9:00 PM"
 photos: ["/photos/thai-boat-1.jpg", "/photos/thai-boat-2.jpg", "/photos/thai-boat-3.jpg"]
-rating: 4.6
-review_count: 129
+rating: 4.7
+review_count: 610
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -28,43 +28,43 @@ tags: ["thai", "curry", "pad-thai"]
 active: true
 date_listed: "2026-08-18"
 reviews:
-  - name: "Tommy Souravong"
+  - name: "Dani Le"
     rating: 5
     comment: |
-      You know a place is legit when the majority of the customers coming in are of the same ethnicity as the owners of it, like this restaurant, Thai Boat Noodle!
+      Came here to check out their menu, and it really hit the spot. The Pad Thai was perfectly cooked and had a great balance of flavors, slightly sweet, a little tangy, and not too heavy. Everything tasted fresh, and the portion size was just right.
       
-      I ordered the pork larb/larb muu (extra spicy), Lao papaya salad/thum mak hoong (with seven peppers), and tri-color nava! I love how fishy the papaya salad tastes, just like how I like it and would make it at home, and how they let you adjust how many peppers go into it, but the pork larb’s on another level, as it has to be one of the best larbs I’ve ever ordered at a restaurant. What makes their larb stand out so much is the mix of how tender and juicy the pork is and how vibrant and fishy and bitter and sour the sauce is. I’ve had my fair share of ordering larb at restaurants these past eight years, and I usually only get larb this amazing when I make it myself. The tri-color nava isn’t something you see at just any restaurant, as it’s more of something you have at someone’s house or at some other private gathering, and it doesn’t disappoint. The ingredients inside are chewy and fresh, plus the drink tastes fresh and not stale or old in the slightest! I hardy had to wait for my order, and loved how the workers came to check up on me from time to time!
+      The atmosphere was relaxed and cozy, making it a good place to sit down and enjoy your meal. Service was quick and friendly, and everything came out without a long wait.
       
-      My favorite part of this visit was seeing how many other customers seemingly enjoyed what they ordered just as much as I did, and makes me want to visit again when I have the chance! This restaurant soft-opened last March, and it’s amazing to see how they’re doing so well!
-  - name: "Peng-Sue Vang"
-    rating: 4
-    comment: |
-      Thai Boat Noodle in Sun Prairie is a hidden gem for anyone craving bold, authentic Thai flavors. The boat noodles are rich, savory, and deeply satisfying—perfectly balanced with tender meat, fresh herbs, and just the right amount of spice. Every bowl tastes thoughtfully made and full of comfort.
-      
-      The menu offers a great variety, whether you’re in the mood for noodles, appetizers, or something a little spicy. Portions are generous, prices are reasonable, and the service is friendly and welcoming. The cozy atmosphere makes it a great spot for a casual meal or a quick lunch.
-      
-      If you’re looking for authentic Thai food with big flavors, Thai Boat Noodle is absolutely worth a visit. Highly recommended!
-  - name: "Lauren Elkins"
+      Overall, it was a really solid experience. Nothing over-the-top fancy, but dependable and enjoyable. If you’re craving Thai food, especially pad thai, this place is definitely worth checking out. I’d come back again and try more from the menu.
+  - name: "Marc D."
     rating: 5
     comment: |
-      The boat noodles might sound a little intimidating, but they are delicious!! Absolutely worth a try. My husband got those and I tried the mango curry. It had big chunks of mango in it that were so good.
-  - name: "A.H. Nedeau-Owen"
+      We've been on the hunt for a new Thai restaurant and I believe we've found our new favourite spot in Thai Avenue.
+      
+      We stopped in for lunch on Friday afternoon. It was busy, but there wasn't a wait for any tables. The restaurant is very nicely appointed and very clean inside.
+      
+      We started with some kimchi and a green onion cake, both of which were very tasty, especially the green onion cake. We both ended up choosing one of their lunch specials, which happened to be yellow curry with chicken and coconut rice for both of us. It also included Tom Yum soup along with a vegetable spring roll and some fried tofu. The Tom Yum soup and yellow curry were extremely flavourful and very well spiced. We also both greatly enjoyed the coconut rice and vegetable spring roll. I didn't mind the fried tofu, but honestly tofu isn't my thing to begin with, but I still tried it nonetheless.
+      
+      Everything was reasonably priced and came out freshly prepared as well. Our server was also very hospitable and provided exceptional service.
+      
+      It's probably a good thing we don't live nearby, otherwise I'd be coming Thai Avenue Restaurant a lot more often for all their delicious food.
+  - name: "Laimen Chiu"
     rating: 5
     comment: |
-      Delicious find - leaves me craving their food. Been back many times since my initial visit. Pho is great, I particularly love the chicken wings on their appetizer menu. Pleasant atmosphere and attentive, kind staff. Highly recommend.
-  - name: "Zer Moua"
-    rating: 4
+      Amazing experience! A+++++++  We had the Pad Thai, chicken noodle curry soup, & basil fried rice. Delicious! Service was lovely. I think this is place is a hidden gem in this city!! We will definitely return very soon.
+  - name: "Csyra Piañar"
+    rating: 5
     comment: |
-      Overall, the food was good. We ordered spring rolls, egg rolls, Lao Papaya Salad, Thai Boat Noodles, and Pad Thai.
+      The food was very yummy and the portions were generous. The Crispy Chicken Salt & Pepper Stiry fry was very light, crispy and flavourful. The Green Curry w/ Beef had a nice mild spice to it and was a great topping for our coconut rice. For dessert we had the Rainbow Mango (mango sticky rice with mango ice cream) and was also very yummy and not too sweet. Will definitely be back.
+  - name: "Y.Kim"
+    rating: 5
+    comment: |
+      She had a reason for confidently recommending the Tom Yum—and She was right. The moment I tried the Tom Yum soup from the lunch set, I was genuinely surprised. It tasted just like what I had in Thailand.
+      •	Even the basics like the coconut rice were perfect—the flavor and texture were so good that I could’ve enjoyed it on its own.
+      •	The green curry was nicely balanced—spicy yet smooth—and the pad thai stood out with its well-seasoned, nutty flavor without being overly salty.(so many thai restaurant tend to use too much sauce)
+      •	What really made the experience memorable was the staff—their bright smiles and genuine friendliness.
       
-      Spring rolls - (2/10) mostly lettuce inside, vermicelli noodle, pork meat loaf, and shrimp. The dipping sauce was nothing special.
-      Eggeolls - very good and flavorful! We would order again! (7/10).
+      This is easily one of the best Thai restaurants I’ve had in Canada recently, and I’ll definitely be coming back.
       
-      Lao Papaya Salad - (7/10) although tasty, I would not buy it again because it was a small portion for the cost.
-      
-      Thai Boat Noodles - (8/10) very, very tasty! I would definitely buy again! It was a good portion and came with good noodle to meat ratio! It was quite delicious.
-      
-      Pad Thai - (8/10) it was so good! I have been looking for the best pad Thai in the area, and so far, compared to Sai Bai Thong, Pho Nam, Moon Siam, Thai Basil, this has been the best!
-      
-      We would definitely make the trip and visit this place again!
+      P.S. The Thai iced coffee is much sweeter than you might expect.
 ---

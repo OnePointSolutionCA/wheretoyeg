@@ -19,7 +19,7 @@ hours:
   sunday: "10:00 AM–7:00 PM"
 photos: ["/photos/sugba-by-food-dlicious-1.jpg", "/photos/sugba-by-food-dlicious-2.jpg", "/photos/sugba-by-food-dlicious-3.jpg"]
 rating: 4.5
-review_count: 148
+review_count: 150
 price_range: "$$"
 amenities:
   - "Dine-In"

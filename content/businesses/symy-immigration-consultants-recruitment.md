@@ -22,7 +22,7 @@ photos:
   - "/photos/symy-immigration-consultants-recruitment-3.jpg"
   - "/photos/symy-immigration-consultants-recruitment-2.jpg"
 rating: 4.7
-review_count: 1185
+review_count: 1189
 price_range: "$$"
 amenities:
 

@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Beaumont"
 address: "6002 29 Ave Unit 110, Beaumont, AB T4X 0H5"
 rating: 4.4
-review_count: 376
+review_count: 377
 tier: "featured"
 phone: "(780) 737-5777"
 website: "https://tastypizzaandindiancuisine.com/"

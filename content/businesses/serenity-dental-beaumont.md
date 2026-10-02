@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Beaumont"
 address: "5601 Magasin Ave #102, Beaumont, AB T4X 1V8"
 rating: 5
-review_count: 356
+review_count: 361
 tier: "featured"
 phone: "(780) 929-4138"
 website: "https://dentalserenity.ca/"

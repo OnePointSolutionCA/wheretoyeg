@@ -19,7 +19,7 @@ hours:
   sunday: "11:00 AM–8:00 PM"
 photos: ["/photos/shanghai-456-1.jpg", "/photos/shanghai-456-2.jpg", "/photos/shanghai-456-3.jpg"]
 rating: 4.2
-review_count: 664
+review_count: 665
 price_range: "$$"
 amenities:
   - "Delivery"

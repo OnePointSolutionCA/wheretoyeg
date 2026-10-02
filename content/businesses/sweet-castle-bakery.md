@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–6:30 PM"
 photos: ["/photos/sweet-castle-bakery-1.jpg", "/photos/sweet-castle-bakery-2.jpg", "/photos/sweet-castle-bakery-3.jpg"]
 rating: 4.8
-review_count: 1023
+review_count: 1028
 price_range: "$$"
 amenities:
   - "Dine-In"

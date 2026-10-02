@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "St. Albert"
 address: "31 Fairview Blvd #101, St. Albert, AB T8N 3M5"
 rating: 4.8
-review_count: 108
+review_count: 109
 tier: "featured"
 phone: "(587) 290-1401"
 website: "https://www.tasteayours.com/"

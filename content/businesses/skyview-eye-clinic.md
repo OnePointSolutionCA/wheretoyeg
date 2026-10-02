@@ -5,7 +5,7 @@ category: "medical"
 neighborhood: "Edmonton"
 address: "14613 127 St, Edmonton, AB T6V 0N1"
 rating: 4.9
-review_count: 121
+review_count: 123
 tier: "featured"
 phone: "(780) 244-6878"
 website: "https://sveyeclinic.ca/"
@@ -26,7 +26,7 @@ reviews:
     rating: 5
     comment: |
       I had a great experience at Skyview Eye Clinic. The service was professional, and the clinic was very welcoming. The gentleman Sam at the front desk was especially outstanding—friendly, respectful, and very helpful from the moment I arrived.
-  - name: "Nga Jones"
+  - name: "Anna Jones"
     rating: 5
     comment: |
       Had a great experience at this clinic. The staff were friendly and welcoming, and the eye exam was very thorough. The doctor explained everything clearly and made me feel comfortable. Highly recommend!

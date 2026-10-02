@@ -6,8 +6,8 @@ category: "restaurants"
 subcategory: "brunch"
 neighborhood: "Jasper Ave"
 address: "10357 Jasper Ave, Edmonton, AB T5J 4H8"
-rating: 4.3
-review_count: 88
+rating: 4.2
+review_count: 95
 tier: "featured"
 phone: "(587) 545-2866"
 website: "http://solarbrunch.ca/"

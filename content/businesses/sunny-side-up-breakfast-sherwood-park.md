@@ -7,7 +7,7 @@ subcategory: "brunch"
 neighborhood: "Sherwood Park"
 address: "10-A Main Blvd Unit#200, Sherwood Park, AB T8A 3W8"
 rating: 4.6
-review_count: 371
+review_count: 375
 tier: "featured"
 phone: "(780) 379-1111"
 website: "http://ssup.ca/"

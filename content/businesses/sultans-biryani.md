@@ -22,7 +22,7 @@ photos:
   - "/photos/sultans-biryani-g2.jpg"
   - "/photos/sultans-biryani-3.jpg"
 rating: 4.9
-review_count: 172
+review_count: 173
 price_range: "$"
 amenities:
   - "Halal"

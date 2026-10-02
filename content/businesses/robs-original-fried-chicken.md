@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/robs-original-fried-chicken-1.jpg", "/photos/robs-original-fried-chicken-2.jpg", "/photos/robs-original-fried-chicken-3.jpg"]
 rating: 4.8
-review_count: 2480
+review_count: 2495
 price_range: "$$"
 amenities:
   - "Dine-In"

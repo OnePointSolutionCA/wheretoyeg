@@ -40,11 +40,11 @@ reviews:
     comment: |
       We had the best catered meal, and the set up and service I received was exceptional. We had a group of 50 and had everything we needed. We will order again.
 hours:
-  monday: "Closed"
-  tuesday: "Closed"
-  wednesday: "Closed"
-  thursday: "Closed"
-  friday: "Closed"
+  monday: "9:00 AM–5:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–5:00 PM"
+  thursday: "9:00 AM–5:00 PM"
+  friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
-  sunday: "12:00 AM–11:59 PM"
+  sunday: "Closed"
 ---

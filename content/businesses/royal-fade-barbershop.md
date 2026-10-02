@@ -4,8 +4,8 @@ slug: "royal-fade-barbershop"
 category: "barbers"
 neighborhood: "Castle Downs"
 address: "15277 Castle Downs Rd NW, Edmonton, AB T5X 3N5"
-rating: 4.6
-review_count: 172
+rating: 4.7
+review_count: 180
 tier: "featured"
 phone: "(780) 457-1333"
 google_maps: "https://maps.google.com/?cid=6262295077518290845&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

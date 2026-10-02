@@ -19,8 +19,8 @@ hours:
   saturday: "11:00 AM–3:00 AM"
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/smokes-poutinerie-edmonton-1.jpg", "/photos/smokes-poutinerie-edmonton-2.jpg", "/photos/smokes-poutinerie-edmonton-3.jpg"]
-rating: 4.4
-review_count: 289
+rating: 4.3
+review_count: 291
 price_range: "$"
 amenities:
   - "Dine-In"

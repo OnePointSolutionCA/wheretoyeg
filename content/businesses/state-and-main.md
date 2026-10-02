@@ -6,7 +6,7 @@ category: "restaurants"
 neighborhood: "Spruce Grove"
 address: "151 Century Crossing Unit 300, Spruce Grove, AB T7X 0C8"
 rating: 4.2
-review_count: 1143
+review_count: 1163
 tier: "featured"
 phone: "(780) 948-1445"
 website: "https://www.stateandmain.ca/en/locations/ab/spruce-grove/151-century-crossing"

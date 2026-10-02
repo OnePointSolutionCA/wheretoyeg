@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Beaumont"
 address: "4904 30 Ave #104, Beaumont, AB T4X 1S6"
 rating: 4.7
-review_count: 71
+review_count: 72
 tier: "featured"
 phone: "(780) 485-1213"
 website: "https://supremepizzaonline.ca/"

@@ -6,7 +6,7 @@ category: "restaurants"
 neighborhood: "Mill Woods"
 address: "2331 66 St NW Unit 211, Edmonton, AB T6K 4B4"
 rating: 4.1
-review_count: 683
+review_count: 686
 tier: "featured"
 phone: "(780) 461-1825"
 website: "https://smittys.ca/location/millwoods/"

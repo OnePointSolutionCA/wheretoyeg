@@ -20,7 +20,7 @@ hours:
   sunday: "11:30 AM–9:00 PM"
 photos: ["/photos/thai-avenue-restaurant-1.jpg", "/photos/thai-avenue-restaurant-2.jpg", "/photos/thai-avenue-restaurant-3.jpg"]
 rating: 4.7
-review_count: 602
+review_count: 610
 price_range: "$$"
 amenities:
   - "Dine-In"

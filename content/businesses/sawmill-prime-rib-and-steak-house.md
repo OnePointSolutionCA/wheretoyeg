@@ -7,7 +7,7 @@ subcategory: "steakhouses"
 neighborhood: "Mill Woods"
 address: "South Entrance, 4810 Calgary Trl NW, Edmonton, AB T6H 5H5"
 rating: 4.2
-review_count: 2365
+review_count: 2369
 tier: "featured"
 phone: "(780) 437-5616"
 website: "http://www.sawmill.ca/"

@@ -6,7 +6,7 @@ subcategory: "collision"
 neighborhood: "Spruce Grove"
 address: "347 Saskatchewan Ave, Spruce Grove, AB T7X 3A2"
 rating: 4.8
-review_count: 135
+review_count: 136
 tier: "featured"
 phone: "(780) 960-6612"
 website: "https://simplicitycarcare.ca/location/simplicity-spruce-grove/"

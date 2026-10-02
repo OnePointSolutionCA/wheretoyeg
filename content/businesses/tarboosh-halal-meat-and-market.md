@@ -6,7 +6,7 @@ category: "restaurants"
 neighborhood: "Edmonton"
 address: "6873 Ad Astra Blvd NW, Edmonton, AB T5E 4G6"
 rating: 4.9
-review_count: 284
+review_count: 286
 tier: "featured"
 phone: "(587) 200-0200"
 website: "https://tarbooshmarket.ca/"

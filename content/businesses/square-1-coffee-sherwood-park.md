@@ -6,7 +6,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Sherwood Park"
 address: "115 Tisbury St #140, Sherwood Park, AB T8B 0E6"
 rating: 4.7
-review_count: 206
+review_count: 209
 tier: "featured"
 phone: "(587) 900-0055"
 website: "https://square1coffee.ca/"

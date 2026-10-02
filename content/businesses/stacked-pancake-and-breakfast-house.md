@@ -6,7 +6,7 @@ subcategory: "brunch"
 neighborhood: "Spruce Grove"
 address: "183 Hwy 16A #111, Spruce Grove, AB T7X 4P9"
 rating: 4.6
-review_count: 558
+review_count: 570
 tier: "featured"
 phone: "(825) 220-7825"
 website: "https://www.stackedpancakehouse.ca/restaurant/spruce-grove-hwy-16"

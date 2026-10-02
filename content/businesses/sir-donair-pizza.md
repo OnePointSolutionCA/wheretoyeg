@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/sir-donair-pizza-1.jpg", "/photos/sir-donair-pizza-2.jpg", "/photos/sir-donair-pizza-3.jpg"]
 rating: 4.6
-review_count: 512
+review_count: 513
 price_range: "$"
 amenities:
   - "Halal"

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/success-accounting-services-licensed-public-business-account-1.jpg", "/photos/success-accounting-services-licensed-public-business-account-2.jpg", "/photos/success-accounting-services-licensed-public-business-account-3.jpg"]
 rating: 4.9
-review_count: 625
+review_count: 624
 price_range: "$$"
 amenities:
 

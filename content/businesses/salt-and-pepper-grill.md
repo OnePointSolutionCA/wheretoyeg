@@ -9,16 +9,16 @@ address: "Edmonton"
 neighborhood: "South Edmonton"
 google_maps_url: "https://maps.google.com/?q=Salt%20%26%20Pepper%20Grill%20Edmonton"
 hours:
-  monday: "6:00 AM–4:00 PM"
-  tuesday: "6:00 AM–4:00 PM"
-  wednesday: "6:00 AM–4:00 PM"
-  thursday: "6:00 AM–4:00 PM"
-  friday: "6:00 AM–4:00 PM"
-  saturday: "7:00 AM–4:00 PM"
-  sunday: "7:00 AM–3:00 PM"
+  monday: "5:00 PM–10:00 PM"
+  tuesday: "5:00 PM–10:00 PM"
+  wednesday: "5:00 PM–10:00 PM"
+  thursday: "5:00 PM–10:00 PM"
+  friday: "5:00 PM–10:00 PM"
+  saturday: "11:00 AM–10:00 PM"
+  sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/salt-and-pepper-grill-1.jpg", "/photos/salt-and-pepper-grill-2.jpg", "/photos/salt-and-pepper-grill-3.jpg"]
 rating: 4.6
-review_count: 133
+review_count: 1569
 price_range: "$$"
 amenities:
   - "Halal"
@@ -29,28 +29,28 @@ tags: ["pakistani", "halal", "grill", "biryani", "tandoori"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Diabolik BaconIceCream"
+  - name: "Steven Baines"
     rating: 5
     comment: |
-      Everything was great. We tried some double decker sandwiches, breakfast burritos and breakfast sandwhich. The home fries were well seasoned and delicious, the sweet potatoes fries were perfect texture and the macaroni salad was the best I've had in years.
+      The Food was exquisite... the croquettes were creamy, soft and delicious... The buffalo wings were a pleasant spicy taste, and probably the best I've ever had. The steak was perfectly cooked and well presented... The chicken was my favourite, absolutely unbelievable flavour and so soft n juicy... if you haven't tried here before your definitely missing out...
+  - name: "KAREN NG"
+    rating: 5
+    comment: |
+      Had a great experience at this dinner buffet! The all-you-can-eat menu offers a really good variety — from starters like buffalo wings and croquettes to mains like steak, barramundi, and pasta. Everything came out fresh and well-seasoned.
       
-      We'll be back soon to check out the buffet they offer (we missed it by an hour).
-      
-      All in all, highly recommended!
-  - name: "Christy Kilpatrick"
+      Service was friendly and attentive, and the atmosphere was relaxed and cozy. Definitely good value for the price — perfect for sharing with friends. Will be back!
+  - name: "Muhammad Ahmed"
     rating: 5
     comment: |
-      One of the delicious breakfasts I have had I a long time. Gallo Pinto. Perfectly cooked plantains and the rice and black beans were so so yummy.Flank steak flavorful and tender.😘
-  - name: "Jillian Koncz"
+      The penne pesto pasta is amazing! The pasta was cooked perfectly, and the pesto sauce was fresh, flavorful, and rich without being too heavy. Every bite had a great balance of herbs, garlic, and cheese. Easily one of the best pasta dishes I've had. Highly recommend it to anyone visiting this restaurant!
+  - name: "M O R M E N"
     rating: 5
     comment: |
-      Excellent lunch with friendly staff who work quickly and efficiently.  Their French fries are the skinny perfectly crispy ones that are lightly seasoned!  Menu is extensive!  I had a cheesesteak I would rate 11/10.
-  - name: "Alexandra Horwood"
+      S Tier Halal Spot, for their buffet it's pretty decent if you are a big back. If not you are probably better off trying their single menus.
+      The food was solid and delicious, specially the carbonara and the cheesy potato fired balls.
+      Highly recommend trying them. Don't eat more than you think you can, you shouldn't waste food so stop while you feel 80% full.
+  - name: "Kyreal"
     rating: 5
     comment: |
-      Got the breakfast burrito with bacon. fabulous, fresh and hot. My mom got the chicken quesidilla which was also very good. First time here. I will be back. Everyone was ordering beans and rice and it smelled so good in the place. It also came with salsa Verde which isn't in the photo.
-  - name: "Tara Reiner"
-    rating: 4
-    comment: |
-      I see tons of cars pulling in everyday on my to to RVCC and finally had time to stop in. The deli is clean and decorated nicely. There were a few tables full of people eating breakfast which I thought was great for a weekday. I ordered a sausage and cheese on a hardroll. The person that took my order wasn't rude, but wasn't friendly either. While waiting I saw huge breakfast platters being served that looked amazing! Note to self, go when you have time to order in!  My sandwich was cooked to order and was pretty much what I ordered except it wasn't a sausage pattie, it was links cut up. Weird yes,but tasted good. The roll was excellent...
+      Enjoyed our dinner time at this sensational grill place. Food serving was bountiful and the meats (MB3+) were cooked to perfection. Definitely worth the time making our way here.
 ---

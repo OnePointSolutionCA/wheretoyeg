@@ -6,7 +6,7 @@ category: "restaurants"
 neighborhood: "St. Albert"
 address: "8 Mission Ave, St. Albert, AB T8N 1H4"
 rating: 4.7
-review_count: 542
+review_count: 545
 tier: "featured"
 phone: "(587) 290-1655"
 website: "http://riverbankbistro.ca/"

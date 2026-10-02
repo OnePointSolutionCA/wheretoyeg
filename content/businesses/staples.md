@@ -4,8 +4,8 @@ slug: "staples"
 category: "professional-services"
 neighborhood: "Edmonton"
 address: "13154 137 Ave NW, Edmonton, AB T5L 4G2"
-rating: 4
-review_count: 814
+rating: 3.9
+review_count: 815
 tier: "featured"
 phone: "(780) 447-4949"
 website: "https://stores.staples.ca/ab/edmonton/office-supplies-ca-244.html"

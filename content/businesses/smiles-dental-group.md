@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Spruce Grove"
 address: "141 Century Crossing #206, Spruce Grove, AB T7X 0C8"
 rating: 4.8
-review_count: 962
+review_count: 965
 tier: "featured"
 phone: "(587) 410-5939"
 website: "https://smilesdentalgroup.com/dental-clinics/spruce-grove-dental-clinic/"

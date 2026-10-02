@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Beaumont"
 address: "6302 29 Ave #101, Beaumont, AB T4X 0H5"
 rating: 4.9
-review_count: 67
+review_count: 69
 tier: "featured"
 phone: "(780) 254-4343"
 website: "https://online.skytab.com/d7c04c264735bf54083b9da12bee7637"

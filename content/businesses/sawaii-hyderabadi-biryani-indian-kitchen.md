@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–2:00 AM"
 photos: ["/photos/sawaii-hyderabadi-biryani-indian-kitchen-1.jpg", "/photos/sawaii-hyderabadi-biryani-indian-kitchen-2.jpg", "/photos/sawaii-hyderabadi-biryani-indian-kitchen-3.jpg"]
 rating: 4.5
-review_count: 296
+review_count: 301
 price_range: "$"
 amenities:
   - "Halal"

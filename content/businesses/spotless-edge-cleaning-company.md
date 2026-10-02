@@ -5,7 +5,7 @@ category: "cleaning-services"
 neighborhood: "Edmonton"
 address: "12955 101 St NW, Edmonton, AB T5E 4E8"
 rating: 5
-review_count: 9
+review_count: 10
 tier: "featured"
 phone: "(437) 484-4836"
 website: "http://spotlessedgecleaning.ca/"
@@ -22,6 +22,10 @@ reviews:
     rating: 5
     comment: |
       The best right now in the city kudos
+  - name: "Nakabugo Sharon"
+    rating: 5
+    comment: |
+      Great service,Very professional, friendly, and efficient. My carpets look so clean and fresh. Highly recommend!
   - name: "Violet Mukisa"
     rating: 5
     comment: |
@@ -30,10 +34,6 @@ reviews:
     rating: 5
     comment: |
       Excellent service. They go over and beyond to ensure clients’ satisfaction. Hire their service an thank me later.
-  - name: "bridgeofhope privatecare"
-    rating: 5
-    comment: |
-      Amazing service! My carpet was cleaned so beautifully and looks fresh and spotless. I was also very impressed with how quickly they responded when I reached out. The service was fast, professional, and efficient. I would definitely recommend them to anyone looking for great carpet cleaning! I already booked them for my deep cleaning 😊thanks guys !
 hours:
   monday: "7:00 AM–10:00 PM"
   tuesday: "7:00 AM–10:00 PM"

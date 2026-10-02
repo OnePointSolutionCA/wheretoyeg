@@ -6,7 +6,7 @@ subcategory: "mechanics"
 neighborhood: "Spruce Grove"
 address: "469 South Ave, Spruce Grove, AB T7X 3B5"
 rating: 4.6
-review_count: 138
+review_count: 139
 tier: "featured"
 phone: "(780) 962-4478"
 website: "http://soloauto.ca/"

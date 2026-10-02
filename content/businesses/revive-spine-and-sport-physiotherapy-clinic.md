@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/revive-spine-and-sport-physiotherapy-clinic-1.jpg", "/photos/revive-spine-and-sport-physiotherapy-clinic-2.jpg", "/photos/revive-spine-and-sport-physiotherapy-clinic-3.jpg"]
 rating: 4.9
-review_count: 507
+review_count: 508
 price_range: "$$"
 amenities:
 

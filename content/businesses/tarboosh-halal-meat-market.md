@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–7:00 PM"
 photos: ["/photos/tarboosh-halal-meat-market-1.jpg", "/photos/tarboosh-halal-meat-market-2.jpg", "/photos/tarboosh-halal-meat-market-3.jpg"]
 rating: 4.9
-review_count: 284
+review_count: 286
 price_range: "$$"
 amenities:
   - "Halal Certified"

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/setph-studio-1.jpg", "/photos/setph-studio-2.jpg", "/photos/setph-studio-3.jpg"]
 rating: 5
-review_count: 147
+review_count: 148
 price_range: "$$"
 amenities:
 

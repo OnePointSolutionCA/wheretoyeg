@@ -6,7 +6,7 @@ subcategory: "mechanics"
 neighborhood: "Beverly"
 address: "12309 67 St NW, Edmonton, AB T5B 1N1"
 rating: 4.6
-review_count: 100
+review_count: 101
 tier: "featured"
 phone: "(780) 452-2502"
 google_maps: "https://maps.google.com/?cid=9510277535367272058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

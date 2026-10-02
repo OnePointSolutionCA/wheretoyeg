@@ -21,7 +21,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/sparkle-and-sheen-1.jpg", "/photos/sparkle-and-sheen-2.jpg", "/photos/sparkle-and-sheen-3.jpg"]
 rating: 4.7
-review_count: 484
+review_count: 487
 price_range: "$$"
 amenities:
   - "Residential Cleaning"

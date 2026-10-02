@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/south-side-chiropractic-1.jpg", "/photos/south-side-chiropractic-2.jpg", "/photos/south-side-chiropractic-3.jpg"]
 rating: 4.8
-review_count: 204
+review_count: 205
 price_range: "$$"
 amenities:
 

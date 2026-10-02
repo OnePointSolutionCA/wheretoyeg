@@ -5,7 +5,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Mill Woods"
 address: "Inside Community Health Center, 7319 29 Ave NW #111, Edmonton, AB T6K 2P1"
 rating: 4.9
-review_count: 57
+review_count: 60
 tier: "featured"
 phone: "(825) 465-7687"
 website: "https://www.square1coffee.ca/"

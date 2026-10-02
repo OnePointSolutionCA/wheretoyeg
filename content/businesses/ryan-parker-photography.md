@@ -20,7 +20,7 @@ hours:
   sunday: "5:00 AM–12:00 AM"
 photos: ["/photos/ryan-parker-photography-1.jpg", "/photos/ryan-parker-photography-2.jpg", "/photos/ryan-parker-photography-3.jpg"]
 rating: 5
-review_count: 297
+review_count: 299
 price_range: "$$"
 amenities:
 

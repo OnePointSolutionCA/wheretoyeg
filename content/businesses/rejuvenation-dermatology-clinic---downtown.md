@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: []
 rating: 4.8
-review_count: 1522
+review_count: 1525
 price_range: "$$"
 amenities:
 

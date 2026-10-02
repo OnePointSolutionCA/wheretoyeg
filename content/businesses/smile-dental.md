@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "590 Baseline Rd #320, Sherwood Park, AB T8H 1Y4"
 rating: 4.8
-review_count: 450
+review_count: 453
 tier: "featured"
 phone: "(780) 449-5467"
 website: "http://www.smiledentalcenter.ca/"

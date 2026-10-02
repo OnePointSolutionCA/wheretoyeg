@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/taste-of-persia-restaurant-1.jpg", "/photos/taste-of-persia-restaurant-2.jpg", "/photos/taste-of-persia-restaurant-3.jpg"]
 rating: 4.7
-review_count: 1413
+review_count: 1417
 price_range: "$$"
 amenities:
   - "Dine-In"

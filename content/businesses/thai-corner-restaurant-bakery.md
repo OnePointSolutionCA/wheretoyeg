@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–2:30 PM"
 photos: ["/photos/thai-corner-restaurant-bakery-1.jpg", "/photos/thai-corner-restaurant-bakery-2.jpg", "/photos/thai-corner-restaurant-bakery-3.jpg"]
 rating: 4.8
-review_count: 712
+review_count: 714
 price_range: "$$"
 amenities:
   - "Dine-In"

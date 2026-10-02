@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/safari-outpost-1.jpg", "/photos/safari-outpost-2.jpg", "/photos/safari-outpost-3.jpg"]
 rating: 4.8
-review_count: 27
+review_count: 28
 price_range: "$$"
 amenities:
 

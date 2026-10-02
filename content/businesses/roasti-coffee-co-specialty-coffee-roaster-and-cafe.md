@@ -6,7 +6,7 @@ category: "cafes-coffee-shops"
 neighborhood: "Sherwood Park"
 address: "52 Brentwood Blvd #19, Sherwood Park, AB T8A 2H6"
 rating: 4.8
-review_count: 889
+review_count: 891
 tier: "featured"
 phone: "(780) 908-0104"
 website: "https://roasti.ca/"

@@ -50,7 +50,7 @@ reviews:
     rating: 4
     comment: |
       I’ve been wanting to try this place for months after hearing rave reviews. We ordered a bunch of food. The portions are huge and the food is extremely fresh. The chicken balls in particular were some of the best I’ve ever had and the ho fan was divine. My one complaint is the meat was extremely chewy and poor quality - the szechuan beef was so fatty and chewy it was barely edible and everyone who ate it struggled to chew through it. For 20$ I expected so much more. Other than that, it’s a really decent Western-style Chinese restaurant.
-  - name: "Michael Guenter"
+  - name: "Michael G"
     rating: 5
     comment: |
       Second time here and it’s great again!  Generous portions, incredibly delicious.  It will be a regular stop now, and we will be getting take out for our next large family gathering.

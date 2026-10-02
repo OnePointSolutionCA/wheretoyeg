@@ -5,7 +5,7 @@ category: "restaurants"
 neighborhood: "Beverly"
 address: "3945 118 Ave NW, Edmonton, AB T5W 0Z8"
 rating: 4.6
-review_count: 48
+review_count: 49
 tier: "featured"
 phone: "(587) 405-4322"
 website: "https://estatelensstudio.com/wp-admin/post.php?post=8&action=elemento"

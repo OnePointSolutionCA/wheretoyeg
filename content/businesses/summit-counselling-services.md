@@ -19,8 +19,8 @@ hours:
   saturday: "9:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/summit-counselling-services-1.jpg", "/photos/summit-counselling-services-2.jpg", "/photos/summit-counselling-services-3.jpg"]
-rating: 4.4
-review_count: 27
+rating: 4.5
+review_count: 29
 price_range: "$$"
 amenities:
 
