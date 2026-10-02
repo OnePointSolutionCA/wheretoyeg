@@ -3,13 +3,17 @@ import { faqSchema, JsonLd } from "@/lib/schema-extra";
 
 export type FaqEntry = { q: string; a: string; links?: { label: string; href: string }[] };
 
-export function FaqSection({ title, items, eyebrow = "Questions, answered", className = "mt-16 sm:mt-20" }: { title: string; items: FaqEntry[]; eyebrow?: string; className?: string }) {
+export function FaqSection({ title, items, eyebrow = "Questions, answered", className = "mt-16 sm:mt-20", showHeader = true }: { title: string; items: FaqEntry[]; eyebrow?: string; className?: string; showHeader?: boolean }) {
   if (!items.length) return null;
   return (
     <section className={"container-page " + className} data-reveal="up">
       <JsonLd data={faqSchema(items.map(({ q, a }) => ({ q, a })))} />
-      <p className="eyebrow">{eyebrow}</p>
-      <h2 className="section-title mt-1">{title}</h2>
+      {showHeader && (
+        <>
+          <p className="eyebrow">{eyebrow}</p>
+          <h2 className="section-title mt-1">{title}</h2>
+        </>
+      )}
       <div className="mt-6 divide-y divide-line overflow-hidden rounded-2xl border border-line bg-white shadow-card">
         {items.map((it, i) => (
           <details key={it.q} className="group" open={i === 0}>

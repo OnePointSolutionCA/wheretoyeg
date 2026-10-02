@@ -27,42 +27,46 @@ export function CategoryGrid() {
 
   return (
     <div id="categories">
-      {/* Hero photo tiles */}
-      <div className="grid grid-cols-2 gap-3 sm:gap-4 lg:grid-cols-4">
-        {heroCats.map((c) => {
+      {/* Bento: one lead tile, one tall tile, the rest fill around them */}
+      <div className="grid grid-cols-2 gap-3 sm:gap-4 lg:auto-rows-[200px] lg:grid-cols-4">
+        {heroCats.map((c, i) => {
           const info = counts[c.slug];
-          // Prefer the curated editorial hero image for the category over
-          // the top business's photo.
           const photo = `/photos/_hero/${c.slug}.jpg`;
-
+          const lead = i === 0;
+          const tall = i === 2;
+          const closing = i === heroCats.length - 1 && (heroCats.length - 1) % 2 === 1;
+          const placement = lead
+            ? "col-span-2 aspect-[16/10] lg:row-span-2 lg:aspect-auto"
+            : tall
+              ? "aspect-square lg:row-span-2 lg:aspect-auto"
+              : closing
+                ? "col-span-2 aspect-[16/9] lg:col-span-1 lg:aspect-auto"
+                : "aspect-square lg:aspect-auto";
           return (
             <Link
               key={c.slug}
               href={`/${c.slug}`}
-              className="cat-hero group relative flex aspect-[4/5] flex-col justify-end overflow-hidden rounded-2xl bg-teal-900 shadow-card transition-all duration-300 hover:-translate-y-1 hover:shadow-lift sm:aspect-[3/4]"
+              className={"cat-hero group relative flex flex-col justify-end overflow-hidden rounded-3xl bg-teal-900 shadow-card transition-all duration-500 hover:shadow-lift " + placement}
             >
-              {photo ? (
-                <div
-                  className="absolute inset-0 bg-cover bg-center transition-transform duration-700 group-hover:scale-110"
-                  style={{ backgroundImage: `url(${photo})` }}
-                  aria-hidden="true"
-                />
-              ) : (
-                <div className="absolute inset-0 bg-gradient-to-br from-teal to-teal-900" aria-hidden="true" />
-              )}
-              {/* Dark gradient overlay for text legibility */}
-              <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/30 to-black/10" />
-
-              {/* Icon top-right */}
-              <div className="absolute right-2.5 top-2.5 flex h-8 w-8 items-center justify-center rounded-full bg-white/15 text-white backdrop-blur-sm sm:right-3 sm:top-3 sm:h-9 sm:w-9">
+              <div
+                className="absolute inset-0 bg-cover bg-center transition-transform duration-[1200ms] ease-out group-hover:scale-110"
+                style={{ backgroundImage: `url(${photo})` }}
+                aria-hidden="true"
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/25 to-black/5" />
+              <div className="absolute right-3 top-3 flex h-9 w-9 items-center justify-center rounded-full bg-white/15 text-white backdrop-blur-sm transition group-hover:bg-coral">
                 <CategoryIcon name={c.icon} />
               </div>
-
-              {/* Text bottom-left */}
-              <div className="relative z-10 p-3 text-white sm:p-4">
-                <div className="font-display text-base font-extrabold leading-tight drop-shadow-lg sm:text-2xl">{c.name}</div>
-                <div className="mt-1 text-xs font-medium text-white/85">
+              <div className={"relative z-10 text-white " + (lead ? "p-5 sm:p-7" : "p-3 sm:p-4")}>
+                <div className="text-[11px] font-bold uppercase tracking-[0.18em] text-white/70">
                   {info?.count ? `${info.count} listing${info.count === 1 ? "" : "s"}` : "New category"}
+                </div>
+                <div className={"mt-1 font-display font-extrabold leading-tight drop-shadow-lg " + (lead ? "text-3xl sm:text-5xl" : "text-base sm:text-2xl")}>
+                  {c.name}
+                </div>
+                {lead && <p className="mt-2 hidden max-w-md text-sm text-white/80 sm:block">{c.description}</p>}
+                <div className="mt-2 inline-flex items-center gap-1 text-xs font-bold uppercase tracking-wider text-coral-300 opacity-0 transition-all duration-300 group-hover:translate-x-1 group-hover:opacity-100">
+                  Explore <span aria-hidden>→</span>
                 </div>
               </div>
             </Link>

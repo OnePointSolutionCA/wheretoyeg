@@ -36,6 +36,7 @@ const config: Config = {
       fontFamily: {
         sans: ["var(--font-inter)", "system-ui", "sans-serif"],
         display: ["var(--font-inter)", "system-ui", "sans-serif"],
+        editorial: ["var(--font-editorial)", "Georgia", "serif"],
       },
       boxShadow: {
         card: "0 1px 2px rgba(5,63,82,.04), 0 8px 24px -8px rgba(5,63,82,.10)",
