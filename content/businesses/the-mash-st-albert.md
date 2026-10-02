@@ -1,6 +1,7 @@
 ---
 name: "The Mash | St. Albert"
 slug: "the-mash-st-albert"
+active: false
 category: "restaurants"
 subcategory: "pizza"
 neighborhood: "St. Albert"

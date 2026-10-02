@@ -60,4 +60,4 @@ Edmonton has one of the best selections of halal butchers in Canada. These aren'
 
 ## The bottom line
 
-Edmonton's grocery diversity is one of its best-kept secrets. You can buy fresh halal lamb, Korean gochujang, Italian prosciutto, and organic kale — all within a 20-minute drive. Skip the big chains when you can. These shops are where the real food is.
+Edmonton's grocery diversity is one of its best-kept secrets. You can buy fresh halal lamb, Korean gochujang, Italian cheeses, and organic kale — all within a 20-minute drive. Skip the big chains when you can. These shops are where the real food is.

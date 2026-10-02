@@ -15,44 +15,52 @@ Edmonton has plenty of expensive restaurants. It has fewer that get the full exp
 
 First dates should not happen at fine dining restaurants. The pressure is too high, the menu is intimidating, and if it's not going well you're stuck for two hours.
 
-**Pip** does modern brunch and dinner in a space that's stylish without being stiff. The menu is approachable, portions are shareable, and the energy is conversational. If the date is going badly, you can wrap up in 45 minutes without it being awkward.
+**[Pip](/restaurants/pip)** does modern brunch and dinner in a space that's stylish without being stiff. The menu is approachable, portions are shareable, and the energy is conversational. If the date is going badly, you can wrap up in 45 minutes without it being awkward.
 
-**Three Boars** on Whyte Ave is gastropub-style — quality food, good drinks, and a vibe that says "I have taste but I'm not trying to impress you with a $300 wine pairing." The charcuterie board is a great first-date order because it gives you something to do with your hands.
+**[Fattoush](/restaurants/fattoush)** on Whyte Ave is a 5.0★ Mediterranean spot with nearly 500 Google reviews. Shareable plates, relaxed room, and an easy walk along Whyte afterwards.
 
-**Cartago** is Latin-inspired with sharing plates. Ordering a bunch of small plates together is inherently collaborative, which is better first-date energy than two people staring at their own entrees in silence.
+**[Cartago](/restaurants/cartago)** is Latin-inspired with sharing plates. Ordering a bunch of small plates together is inherently collaborative, which is better first-date energy than two people staring at their own entrees in silence.
 
 ## Anniversary or special occasion
 
-These are the "we're celebrating something" restaurants — where the bill is a deliberate splurge and the experience matches it.
+These are the "we're celebrating something" restaurants, where the bill is a deliberate splurge and the experience matches it.
 
-**Japonais Bistro** has an intimate atmosphere and the food is precise. The omakase-style approach (let the chef decide) takes the pressure off ordering and creates a shared experience. Black cod, sashimi, and robata — every course is a conversation starter.
+**[Japonais Bistro](/restaurants/japonais-bistro)** has an intimate atmosphere and the food is precise. The omakase-style approach (let the chef decide) takes the pressure off ordering and creates a shared experience. Black cod, sashimi, and robata: every course is a conversation starter.
 
-**MEAT** on Whyte Ave does upscale steakhouse right. The cuts are excellent, the sides are generous, and the dark-wood atmosphere feels celebratory without being pretentious. Good for people who want a classic anniversary dinner.
+**[DOSC](/restaurants/dosc)** downtown is the power-dinner option. Polished and modern. It's where you take someone when you want the restaurant itself to make a statement.
 
-**Biera** is for the couple that cares about craft. The beer list is curated, the food is creative, and the space feels like somewhere special without the white-tablecloth formality. Their pizzas and small plates are built for sharing over a long meal.
+## Halal date night
 
-**DOSC** downtown is the power-dinner option. Polished, modern, good wine list. It's where you take someone when you want the restaurant itself to make a statement.
+Edmonton's best halal restaurants are some of its best date spots, full stop.
 
-## The vibe date — cocktails + small plates
+**[Tajine House](/restaurants/tajine-house-restaurant-moroccan-and-mediterranean-cuisine)** (4.9★, 960+ reviews) serves Moroccan and Mediterranean dishes. Slow-cooked tagines are made for sharing and lingering over.
 
-Sometimes the food is secondary. You want good drinks, a cool room, and an excuse to sit close.
+**[Caspian Kebabs](/restaurants/caspian-kebabs---persian-mediterranean-cuisine)** (4.9★, 700+ reviews) does Persian and Mediterranean plates. Order a mixed kebab platter for two.
 
-**Baijiu** nails this. The cocktail program is one of the best in Edmonton, and the small plates (dumplings, bao, skewers) are designed for picking at while you talk. Low light, good music, no rush.
+## The dessert-and-coffee date
 
-**Have Mercy** does Southern comfort food and cocktails in a space that feels like a really good house party. Less romantic, more fun — perfect for dating someone you're already comfortable with.
+Sometimes the best date skips dinner entirely.
+
+**[Duchess Bake Shop](/bakeries/duchess-bake-shop-2)** on 124 Street is an Edmonton institution with 3,000+ reviews. Pastries, coffee, and a 124 Street stroll before or after.
+
+**[Kahwa Raw Cafe](/cafes-coffee-shops/kahwa-raw-cafe)** in North Edmonton is halal, open late, and a good fit for a long conversation over coffee and dessert.
+
+**[Made in Palestine Culture Café](/cafes-coffee-shops/made-in-palestine-cafe)** (4.8★) pairs coffee and sweets with a warm, cultural space that gives you plenty to talk about.
 
 ## Quiet dinner — conversation-first
 
 If you want to actually hear each other without shouting:
 
-**Sabor** on weeknights is excellent. The sharing plates give you things to discuss, the space is intimate, and the Tuesday-Wednesday crowd is small enough that the noise stays low.
+**[Sabor](/restaurants/sabor-restaurant)** on weeknights is excellent. The sharing plates give you things to discuss, the space is intimate, and the Tuesday-Wednesday crowd is small enough that the noise stays low.
 
-**Café Bicyclette** is a French-inspired spot that stays genuinely quiet. It's a slower pace — multiple courses, wine pairings, and a server who reads the room about timing.
+**[Café Bicyclette](/cafes-coffee-shops/cafe-bicyclette)** is a French-inspired spot that stays genuinely quiet. It's a slower pace, and the servers read the room about timing.
+
+**[Padmanadi Vegetarian](/restaurants/padmanadi-vegetarian)** downtown is fully vegetarian and 4.7★ across 2,600+ reviews. Calm room, big menu, easy on the wallet.
 
 ## What to know
 
-- **Reservations matter.** Friday and Saturday at any decent Edmonton restaurant require booking 5–7 days ahead. Walk-ins work Tuesday through Thursday.
-- **Budget $80–150 for two.** That covers apps, mains, and a drink each. Add $30–50 for dessert and more drinks.
+- **Reservations matter.** Friday and Saturday at any decent Edmonton restaurant require booking 5 to 7 days ahead. Walk-ins work Tuesday through Thursday.
+- **Budget $60 to $140 for two.** That covers starters, mains, and dessert at most places on this list.
 - **Parking downtown is free after 6 PM and weekends.** Don't pay for a lot if you don't have to.
 - **Dress code is relaxed.** Edmonton is not a suit-and-tie dining city. Clean jeans and a nice top are fine almost everywhere.
 

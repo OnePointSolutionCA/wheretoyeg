@@ -15,8 +15,6 @@ Izakaya is the Japanese equivalent of a tapas bar — small plates, drinks, and 
 
 **Japonais Bistro** is the gold standard in Edmonton. Their robata-grilled items (skewers cooked over charcoal) are exceptional. The black cod is the dish people come back for — miso-glazed, caramelized, and falling apart. They also do sashimi and nigiri at a higher level than most sushi restaurants in the city.
 
-**Baijiu** blends Japanese and Chinese influences. Not strictly Japanese, but the dumpling and small plate menu draws from izakaya culture. The cocktail program is serious — this is where you go when you want food and drinks to be equally good.
-
 ## Sushi — beyond all-you-can-eat
 
 AYCE sushi is an Edmonton institution and there's nothing wrong with it. But if you want sushi where the fish quality and rice preparation actually matter:
@@ -37,7 +35,7 @@ Start simple:
 
 - **Salmon nigiri** — raw salmon on rice. Clean, approachable, and it tells you immediately how good the restaurant is.
 - **Chicken karaage** — Japanese fried chicken. Juicy inside, crispy outside, served with lemon and mayo.
-- **Gyoza** — pan-fried dumplings. Pork is traditional. Look for a crispy bottom and a juicy filling.
+- **Gyoza** — pan-fried dumplings. Fillings vary, so ask if you avoid pork. Look for a crispy bottom and a juicy filling.
 - **Miso soup** — not the watery stuff from AYCE places. A good miso soup has depth and umami.
 - **Edamame** — steamed soybeans with salt. Simple, addictive, and a good table snack while you decide what else to order.
 

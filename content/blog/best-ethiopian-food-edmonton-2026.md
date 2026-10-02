@@ -17,8 +17,6 @@ If you've never had Ethiopian food, here's the short version: everything comes o
 
 **Habesha Cravings** does a slightly more modern take. Smaller menu, but everything on it is solid. Their tibs (stir-fried meat with peppers and onions) are well-seasoned and not over-oiled, which is a common issue at less careful spots.
 
-**Gebeta Restaurant & Lounge** is a newer addition. They lean into the lounge atmosphere — good for a night out, not just a quick dinner. The kitfo (Ethiopian steak tartare with spiced butter) is the move if you like your meat rare.
-
 **Awash Ethiopian Restaurant** rounds out the main options. Reliable, no-frills, and the injera is made fresh. Their vegetarian combo is one of the best meatless meals you can get in Edmonton.
 
 ## What to order

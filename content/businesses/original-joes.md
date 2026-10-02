@@ -1,6 +1,7 @@
 ---
 name: "Original Joe's"
 slug: "original-joes"
+active: false
 category: "restaurants"
 neighborhood: "Beaumont"
 address: "6410 50 St Unit 111, Beaumont, AB T4X 0B6"

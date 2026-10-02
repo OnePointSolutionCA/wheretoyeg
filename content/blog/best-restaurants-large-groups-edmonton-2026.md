@@ -24,7 +24,7 @@ It's not just about having a big table. The things that matter when you're 10+:
 
 **Sabor** does Latin-inspired sharing plates and they're used to handling big parties. The tapas format means everyone orders a few things for the table and you pass plates around. No one gets stuck waiting for their entree while everyone else eats.
 
-**Rostizado** is the Mexican-inspired sister to Sabor. Same sharing-plate approach, bigger space. The al pastor is the move for a group — order two platters and let people build their own tacos.
+**Rostizado** is the Mexican-inspired sister to Sabor. Same sharing-plate approach, bigger space. Order a couple of platters and let people build their own tacos. Ask which proteins are pork if anyone at the table avoids it.
 
 ## Best for 15-20+ people
 

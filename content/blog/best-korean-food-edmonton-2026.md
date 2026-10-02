@@ -37,7 +37,6 @@ For bibimbap, dolsot (stone pot) is the only way to order it. The crispy rice la
 
 - **Korean BBQ is not fast food.** Budget 60-90 minutes minimum. It's a sit-down, cook-your-own experience.
 - **Banchan is free.** Those little side dishes (kimchi, pickled radish, bean sprouts) come with every meal and refills are free. If a spot charges extra, leave.
-- **Soju is cheap.** Most Korean restaurants sell soju for $8-12 a bottle. It goes down easy — pace yourself.
 - **Lunch specials exist.** Most Korean BBQ places run lunch combos that are 30-40% cheaper than dinner. Same quality, smaller portions.
 
 ## Where to find Korean food in Edmonton

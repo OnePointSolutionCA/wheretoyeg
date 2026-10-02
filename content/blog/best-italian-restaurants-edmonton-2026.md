@@ -11,9 +11,9 @@ Edmonton's Italian food scene ranges from old-school red-sauce joints to modern 
 
 ## Fine dining and special occasions
 
-[ACERO, Artisanal Cuisine](/restaurants/acero-artisanal-cuisine) is one of Edmonton's best restaurants, period. Modern Italian cooking with precision — handmade pasta, seasonal ingredients, and a wine list that'll keep you browsing. This is where you go for anniversaries, promotions, or any night you want to eat really well.
+[ACERO, Artisanal Cuisine](/restaurants/acero-artisanal-cuisine) is one of Edmonton's best restaurants, period. Modern Italian cooking with precision — handmade pasta and seasonal ingredients. This is where you go for anniversaries, promotions, or any night you want to eat really well.
 
-[Sorrentino's St. Albert](/restaurants/sorrentinos-st-albert) is an Edmonton institution. The Sorrentino's name has been part of the city's dining scene for years, and the St. Albert location keeps the standard high. Classic Italian dishes done with care, a strong wine program, and the kind of service that makes a regular Tuesday feel special.
+[Sorrentino's St. Albert](/restaurants/sorrentinos-st-albert) is an Edmonton institution. The Sorrentino's name has been part of the city's dining scene for years, and the St. Albert location keeps the standard high. Classic Italian dishes done with care and the kind of service that makes a regular Tuesday feel special.
 
 ## Trattoria style
 

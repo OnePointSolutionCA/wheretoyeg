@@ -7,13 +7,13 @@ publishedDate: "2026-08-18"
 tags: ["brunch", "restaurants", "weekend", "breakfast", "guides"]
 ---
 
-Brunch in Edmonton has grown up. It's no longer just eggs benny at the diner — there are proper weekend brunches with mimosas, halal brunches with shakshuka and manakish, and casual patio brunches on Whyte Ave. Here's where to go.
+Brunch in Edmonton has grown up. It's no longer just eggs benny at the diner — there are proper weekend brunches with fresh-pressed juice, halal brunches with shakshuka and manakish, and casual patio brunches on Whyte Ave. Here's where to go.
 
 ## What separates a good brunch from a sad one
 
 - **Real coffee.** Not just pot coffee reheated three times. If the shop has a proper espresso machine, everything else is more likely to be good.
 - **Fresh eggs.** Poached eggs that hold their shape, benedicts with real hollandaise (not Ken's Lite Buttermilk from a bottle).
-- **A brunch cocktail worth ordering.** Fresh-squeezed mimosas or a proper Caesar (Alberta is Caesar country).
+- **Drinks beyond drip coffee.** Fresh-squeezed juice, a proper latte, chai, or Turkish coffee.
 - **Reasonable waits.** A great spot might have a 20-minute wait. A 90-minute wait is a marketing problem, not a food problem.
 - **Menu focus.** Ten brunch dishes done well beats a 40-item menu of everything.
 
@@ -41,12 +41,12 @@ Halal brunch is one of Edmonton's underrated scenes. Paramount is the flagship, 
 
 Most Edmonton brunch spots take reservations for parties of 4+. For parties of 2, walk-in works if you arrive by 9:30am or after 1pm. Weekends from 10am–12:30pm are peak — expect a wait unless you booked.
 
-## Brunch cocktails
+## Brunch drinks worth ordering
 
-- **Mimosa** — fresh-squeezed OJ, dry sparkling wine. If it's from concentrate, ask for a different cocktail.
-- **Caesar** — Alberta invented it. A good Caesar has proper spice, a garnish worth talking about, and Clamato that hasn't sat open for three days.
-- **Bloody Mary** — for the Ontario transplants.
-- **Espresso Martini** — not brunch traditionally but 100% of tables order one now.
+- **Fresh-squeezed orange juice** — if it's from concentrate, order something else.
+- **A proper latte or flat white** — the fastest test of whether a café takes coffee seriously.
+- **Karak chai or Turkish coffee** — standard at Edmonton's halal brunch spots, and worth the switch.
+- **Fresh mint lemonade** — the summer patio order.
 
 ## Best brunch neighborhoods
 

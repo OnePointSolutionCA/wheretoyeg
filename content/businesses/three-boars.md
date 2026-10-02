@@ -25,7 +25,7 @@ amenities:
   - "Dine-In"
   - "Takeout"
 tags: ["edmonton", "gastropub"]
-active: true
+active: false
 date_listed: "2026-08-26"
 reviews:
   - name: "Kelsey Chow"

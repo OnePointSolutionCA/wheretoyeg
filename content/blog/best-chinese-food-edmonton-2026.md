@@ -25,13 +25,13 @@ Dim sum is a weekend tradition in Edmonton, and the city has proper cart-service
 
 [Emperor's Palace Chinese Cuisine](/restaurants/emperors-palace-chinese-cuisine) is a classic banquet-style Chinese restaurant. It's the kind of place you go for a big family dinner — lazy susan spinning, ten courses, someone's birthday. Their seafood dishes are strong, and the Peking duck is worth ordering ahead.
 
-[The Lingnan](/restaurants/the-lingnan) is a staple. Cantonese comfort food, generous portions, and the kind of old-school Chinese restaurant vibe that's getting harder to find. Chow mein, fried rice, and sweet and sour pork done the way you remember it.
+[The Lingnan](/restaurants/the-lingnan) is a staple. Cantonese comfort food, generous portions, and the kind of old-school Chinese restaurant vibe that's getting harder to find. Chow mein, fried rice, and sweet and sour dishes done the way you remember them.
 
 [Golden Rice Bowl](/restaurants/golden-rice-bowl) serves reliable Chinese-Canadian dishes alongside more traditional Cantonese cooking. It's a neighborhood spot that keeps regulars coming back week after week.
 
 ## Worth the trip
 
-[Shanghai 456](/restaurants/shanghai-456) brings Shanghainese flavors — xiao long bao (soup dumplings), lion's head meatballs, and braised pork belly. Shanghai cuisine is sweeter and more delicate than Cantonese or Szechuan, and this spot does it justice.
+[Shanghai 456](/restaurants/shanghai-456) brings Shanghainese flavors — xiao long bao (soup dumplings), noodles, and slow-braised dishes. Shanghai cuisine is sweeter and more delicate than Cantonese or Szechuan, and this spot does it justice.
 
 [Himalayan Village](/restaurants/himalayan-village-mill-woods-town-centre-edmonton) in Mill Woods blends Chinese and South Asian influences. It's a unique crossover that reflects Edmonton's multicultural food scene.
 

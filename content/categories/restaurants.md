@@ -64,7 +64,6 @@ subcategories:
   - { name: "Somali", slug: "somali" }
   - { name: "Sudanese", slug: "sudanese" }
   - { name: "Eritrean", slug: "eritrean" }
-  - { name: "Gastropubs", slug: "gastropub" }
   - { name: "Ice Cream", slug: "ice-cream" }
   - { name: "Uyghur", slug: "uyghur" }
 ---
