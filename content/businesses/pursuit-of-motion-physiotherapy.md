@@ -18,7 +18,10 @@ hours:
   friday: "7:00 AM–8:00 PM"
   saturday: "8:00 AM–3:00 PM"
   sunday: "Closed"
-photos: ["/photos/pursuit-of-motion-physiotherapy-1.jpg", "/photos/pursuit-of-motion-physiotherapy-2.jpg", "/photos/pursuit-of-motion-physiotherapy-3.jpg"]
+photos:
+  - "/photos/pursuit-of-motion-physiotherapy-3.jpg"
+  - "/photos/pursuit-of-motion-physiotherapy-g2.jpg"
+  - "/photos/pursuit-of-motion-physiotherapy-g3.jpg"
 rating: 4.9
 review_count: 190
 price_range: "$$"

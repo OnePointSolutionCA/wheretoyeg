@@ -18,7 +18,8 @@ hours:
   friday: "8:30 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/jeffs-auto-glass-1.jpg", "/photos/jeffs-auto-glass-2.jpg", "/photos/jeffs-auto-glass-3.jpg"]
+photos:
+  - "/photos/jeffs-auto-glass-2.jpg"
 rating: 4.8
 review_count: 473
 price_range: "$$"

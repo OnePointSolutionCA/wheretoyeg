@@ -18,7 +18,8 @@ hours:
   friday: "12:00 PM–6:00 PM"
   saturday: "10:00 AM–2:00 PM"
   sunday: "Closed"
-photos: ["/photos/vida-dermatology---west-edmonton-dermatologist-1.jpg", "/photos/vida-dermatology---west-edmonton-dermatologist-2.jpg", "/photos/vida-dermatology---west-edmonton-dermatologist-3.jpg"]
+photos:
+  - "/photos/vida-dermatology---west-edmonton-dermatologist-g0.jpg"
 rating: 4.3
 review_count: 72
 price_range: "$$"

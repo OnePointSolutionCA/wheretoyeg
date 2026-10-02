@@ -12,7 +12,8 @@ phone: "(587) 269-2697"
 website: "http://www.mhdental.ca/"
 google_maps: "https://maps.google.com/?cid=175952005695875929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/mills-haven-dental.jpg"
+  - "/photos/mills-haven-dental-g1.jpg"
+  - "/photos/mills-haven-dental-g4.jpg"
 reviews:
   - name: "Sharifah Usman"
     rating: 5

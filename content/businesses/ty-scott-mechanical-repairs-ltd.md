@@ -23,4 +23,5 @@ reviews:
     rating: 4
     comment: |
       Always a pleasure going here
+photos: []
 ---

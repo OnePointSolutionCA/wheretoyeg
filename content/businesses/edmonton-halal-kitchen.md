@@ -17,7 +17,9 @@ hours:
   friday: "11:00 AM–8:30 PM"
   saturday: "11:00 AM–8:30 PM"
   sunday: "11:00 AM–8:30 PM"
-photos: ["/photos/edmonton-halal-kitchen-1.jpg", "/photos/edmonton-halal-kitchen-2.jpg", "/photos/edmonton-halal-kitchen-3.jpg"]
+photos:
+  - "/photos/edmonton-halal-kitchen-2.jpg"
+  - "/photos/edmonton-halal-kitchen-3.jpg"
 rating: 5
 review_count: 1
 price_range: "$$"

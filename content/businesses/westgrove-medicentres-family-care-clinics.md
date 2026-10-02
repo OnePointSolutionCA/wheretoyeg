@@ -18,7 +18,9 @@ hours:
   friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/westgrove-medicentres-family-care-clinics-1.jpg", "/photos/westgrove-medicentres-family-care-clinics-2.jpg", "/photos/westgrove-medicentres-family-care-clinics-3.jpg"]
+photos:
+  - "/photos/westgrove-medicentres-family-care-clinics-2.jpg"
+  - "/photos/westgrove-medicentres-family-care-clinics-3.jpg"
 rating: 4.2
 review_count: 305
 price_range: "$$"

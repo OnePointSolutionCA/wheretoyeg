@@ -18,7 +18,7 @@ hours:
   friday: "10:00 AM–8:00 PM"
   saturday: "12:00 PM–6:00 PM"
   sunday: "10:00 AM–5:00 PM"
-photos: ["/photos/salhab-lash-1.jpg", "/photos/salhab-lash-2.jpg", "/photos/salhab-lash-3.jpg"]
+photos: []
 rating: 5
 review_count: 8
 price_range: "$$"

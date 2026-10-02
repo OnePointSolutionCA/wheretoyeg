@@ -11,7 +11,9 @@ phone: "(587) 936-5437"
 website: "https://www.soscleaningservices.ca/"
 google_maps: "https://maps.google.com/?cid=8624240060892059237&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/sos-professional-cleaning-services.jpg"
+  - "/photos/sos-professional-cleaning-services-g2.jpg"
+  - "/photos/sos-professional-cleaning-services-g1.jpg"
+  - "/photos/sos-professional-cleaning-services-g3.jpg"
 reviews:
   - name: "Diane Dunphy"
     rating: 5

@@ -11,7 +11,8 @@ tier: "featured"
 phone: "(780) 292-5180"
 google_maps: "https://maps.google.com/?cid=12564000768550517269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/r-t-services-inc.jpg"
+  - "/photos/r-t-services-inc-g2.jpg"
+  - "/photos/r-t-services-inc-g0.jpg"
 reviews:
   - name: "Shawn F"
     rating: 5

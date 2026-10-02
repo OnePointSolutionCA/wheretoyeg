@@ -18,7 +18,10 @@ hours:
   friday: "Closed"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/sheri-colautti-1.jpg", "/photos/sheri-colautti-2.jpg", "/photos/sheri-colautti-3.jpg"]
+photos:
+  - "/photos/sheri-colautti-g3.jpg"
+  - "/photos/sheri-colautti-g1.jpg"
+  - "/photos/sheri-colautti-2.jpg"
 rating: 4.9
 review_count: 73
 price_range: "$$"

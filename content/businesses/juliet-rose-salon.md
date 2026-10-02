@@ -11,7 +11,7 @@ phone: "(587) 461-1710"
 website: "https://www.julietrosesalon.com/"
 google_maps: "https://maps.google.com/?cid=17771729650105548870&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/juliet-rose-salon.jpg"
+  - "/photos/juliet-rose-salon-g0.jpg"
 reviews:
   - name: "Taryn Noël"
     rating: 5

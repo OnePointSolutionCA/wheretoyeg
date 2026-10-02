@@ -11,7 +11,7 @@ phone: "(780) 660-3507"
 website: "http://www.studiooneyeg.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=954925685154772504"
 google_maps: "https://maps.google.com/?cid=13237037819144144560&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/studio-one.jpg"
+  - "/photos/studio-one-g1.jpg"
 reviews:
   - name: "Ju Park"
     rating: 5

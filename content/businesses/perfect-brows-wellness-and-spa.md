@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(780) 667-3384"
 website: "https://perfectbrows.janeapp.com/"
 google_maps: "https://maps.google.com/?cid=11523281524251826494&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/perfect-brows-wellness-and-spa.jpg"
+photos: []
 reviews:
   - name: "Joytvinder Bhatti"
     rating: 5

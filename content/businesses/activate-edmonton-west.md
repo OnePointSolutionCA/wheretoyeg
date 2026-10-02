@@ -11,7 +11,7 @@ phone: "(780) 652-0751"
 website: "https://playactivate.com/edmonton-west"
 google_maps: "https://maps.google.com/?cid=10283866114046503273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/activate-edmonton-west.jpg"
+  - "/photos/activate-edmonton-west-g2.jpg"
 reviews:
   - name: "Phillipe Ouellet"
     rating: 5

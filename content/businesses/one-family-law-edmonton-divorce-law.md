@@ -18,7 +18,7 @@ hours:
   friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/one-family-law-edmonton-divorce-law-1.jpg", "/photos/one-family-law-edmonton-divorce-law-2.jpg", "/photos/one-family-law-edmonton-divorce-law-3.jpg"]
+photos: []
 rating: 5
 review_count: 30
 price_range: "$$"

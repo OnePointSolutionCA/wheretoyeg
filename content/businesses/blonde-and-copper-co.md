@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(780) 571-8455"
 website: "http://blondeandcopperco.com/"
 google_maps: "https://maps.google.com/?cid=16282333205132400150&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/blonde-and-copper-co.jpg"
+photos: []
 reviews:
   - name: "Latasha McKinnon"
     rating: 5

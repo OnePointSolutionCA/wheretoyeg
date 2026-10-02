@@ -18,7 +18,10 @@ hours:
   friday: "8:00 AM–5:00 PM"
   saturday: "8:00 AM–5:00 PM"
   sunday: "Closed"
-photos: ["/photos/hq-salonspa-the-wig-room-1.jpg", "/photos/hq-salonspa-the-wig-room-2.jpg", "/photos/hq-salonspa-the-wig-room-3.jpg"]
+photos:
+  - "/photos/hq-salonspa-the-wig-room-2.jpg"
+  - "/photos/hq-salonspa-the-wig-room-g3.jpg"
+  - "/photos/hq-salonspa-the-wig-room-g2.jpg"
 rating: 4.7
 review_count: 424
 price_range: "$$$$"

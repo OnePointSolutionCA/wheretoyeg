@@ -3,27 +3,13 @@ import Image from "next/image";
 import type { Business } from "@/lib/types";
 import { StarRating } from "./StarRating";
 import { OpenNowBadge } from "./OpenNowBadge";
+import { CategoryPlaceholder } from "./CategoryPlaceholder";
 
-// Deterministic gradient per business so no-photo cards feel varied but stable.
-const GRADIENTS = [
-  "from-teal via-teal-700 to-teal-900",
-  "from-[#0d5a75] via-teal to-[#062a38]",
-  "from-[#8a3418] via-coral to-[#5d2210]",
-  "from-[#1a4d5c] via-[#0a3441] to-[#062a38]",
-  "from-coral via-[#c56430] to-[#7a3c1c]",
-  "from-[#154b5d] via-[#0b3345] to-[#04212e]",
-];
-function hashPick<T>(arr: T[], key: string): T {
-  let h = 0;
-  for (let i = 0; i < key.length; i++) h = (h * 31 + key.charCodeAt(i)) | 0;
-  return arr[Math.abs(h) % arr.length];
-}
 
 export function BusinessCard({ business, categoryName }: { business: Business; categoryName?: string }) {
   const b = business;
   const href = `/${b.category}/${b.slug}`;
   const photo = b.photos?.[0];
-  const gradient = hashPick(GRADIENTS, b.slug ?? b.name ?? "x");
 
   return (
     <article
@@ -45,38 +31,7 @@ export function BusinessCard({ business, categoryName }: { business: Business; c
               loading="lazy"
             />
           )}
-          {!photo && (
-            <div className={"absolute inset-0 bg-gradient-to-br " + gradient}>
-              {/* Ambient orb accents */}
-              <div className="absolute -top-8 -right-8 h-32 w-32 rounded-full bg-white/8 blur-2xl" />
-              <div className="absolute -bottom-10 -left-6 h-40 w-40 rounded-full bg-white/6 blur-3xl" />
-              {/* Faint pattern grid */}
-              <div
-                className="absolute inset-0 opacity-[0.07]"
-                style={{
-                  backgroundImage:
-                    "radial-gradient(circle at 1px 1px, white 1px, transparent 0)",
-                  backgroundSize: "18px 18px",
-                }}
-              />
-              <div className="absolute inset-0 flex flex-col items-center justify-center gap-2 p-6 text-center">
-                {b.logo ? (
-                  <div className="relative flex h-20 w-20 items-center justify-center rounded-2xl bg-white p-3 shadow-lift transition-transform duration-500 group-hover:scale-110 group-hover:rotate-3">
-                    <Image src={b.logo} alt="" fill sizes="80px" className="object-contain p-3" />
-                  </div>
-                ) : (
-                  <div className="flex h-20 w-20 items-center justify-center rounded-2xl bg-white/15 backdrop-blur-sm ring-1 ring-white/25 transition-transform duration-500 group-hover:scale-110">
-                    <span className="font-display text-4xl font-extrabold text-white">
-                      {b.name.slice(0, 1)}
-                    </span>
-                  </div>
-                )}
-                <span className="mt-1 max-w-[80%] truncate text-xs font-bold uppercase tracking-wider text-white/70">
-                  {categoryName ?? b.neighborhood}
-                </span>
-              </div>
-            </div>
-          )}
+          {!photo && <CategoryPlaceholder category={b.category} name={b.name} logo={b.logo} label={categoryName ?? b.neighborhood} />}
           {/* Gradient overlay on photos, keeps text pop if we ever add captions */}
           {photo && (
             <div className="absolute inset-0 bg-gradient-to-t from-black/25 via-transparent to-transparent" />
@@ -101,8 +56,12 @@ export function BusinessCard({ business, categoryName }: { business: Business; c
               {categoryName && <span>{categoryName}</span>}
               {categoryName && <span aria-hidden>·</span>}
               <span>{b.neighborhood}</span>
-              <span aria-hidden>·</span>
-              <span className="font-semibold">{b.price_range}</span>
+              {b.price_range && (
+                <>
+                  <span aria-hidden>·</span>
+                  <span className="font-semibold">{b.price_range}</span>
+                </>
+              )}
             </div>
           </div>
           {b.tier === "premium" && <span className="badge-premium shrink-0">Premium</span>}

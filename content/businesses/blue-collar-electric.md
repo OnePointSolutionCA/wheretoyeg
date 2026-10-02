@@ -18,7 +18,8 @@ hours:
   friday: "8:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/blue-collar-electric-1.jpg", "/photos/blue-collar-electric-2.jpg", "/photos/blue-collar-electric-3.jpg"]
+photos:
+  - "/photos/blue-collar-electric-3.jpg"
 rating: 4.8
 review_count: 80
 price_range: "$$"

@@ -11,7 +11,8 @@ phone: "(780) 475-4707"
 website: "http://www.gentlesteam.com/"
 google_maps: "https://maps.google.com/?cid=8840847629054869039&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/gentle-steam.jpg"
+  - "/photos/gentle-steam-g3.jpg"
+  - "/photos/gentle-steam-g1.jpg"
 reviews:
   - name: "Jon Bersamina"
     rating: 5

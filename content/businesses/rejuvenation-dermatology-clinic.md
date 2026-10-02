@@ -18,7 +18,9 @@ hours:
   friday: "7:00 AM–7:00 PM"
   saturday: "9:00 AM–4:00 PM"
   sunday: "9:00 AM–4:00 PM"
-photos: ["/photos/rejuvenation-dermatology-clinic-1.jpg", "/photos/rejuvenation-dermatology-clinic-2.jpg", "/photos/rejuvenation-dermatology-clinic-3.jpg"]
+photos:
+  - "/photos/rejuvenation-dermatology-clinic-2.jpg"
+  - "/photos/rejuvenation-dermatology-clinic-3.jpg"
 rating: 4.8
 review_count: 1655
 price_range: "$$"

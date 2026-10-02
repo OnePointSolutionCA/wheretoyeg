@@ -18,7 +18,10 @@ hours:
   friday: "8:30 AM–5:30 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/jrs-auto-detailing-edmontons-best-ppf-9h-ceramic-graphene-co-1.jpg", "/photos/jrs-auto-detailing-edmontons-best-ppf-9h-ceramic-graphene-co-2.jpg", "/photos/jrs-auto-detailing-edmontons-best-ppf-9h-ceramic-graphene-co-3.jpg"]
+photos:
+  - "/photos/jrs-auto-detailing-edmontons-best-ppf-9h-ceramic-graphene-co-g4.jpg"
+  - "/photos/jrs-auto-detailing-edmontons-best-ppf-9h-ceramic-graphene-co-3.jpg"
+  - "/photos/jrs-auto-detailing-edmontons-best-ppf-9h-ceramic-graphene-co-g3.jpg"
 rating: 4.9
 review_count: 1171
 price_range: "$$"

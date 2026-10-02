@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(587) 926-2333"
 website: "https://truewayprocessserver.godaddysites.com/"
 google_maps: "https://maps.google.com/?cid=6561465023834945804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/trueway-process-server-notary-public-and-commissioner-for-oaths.jpg"
+photos: []
 reviews:
   - name: "Sonia Saini"
     rating: 5

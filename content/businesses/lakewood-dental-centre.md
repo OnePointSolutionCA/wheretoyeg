@@ -12,7 +12,9 @@ phone: "(780) 450-2331"
 website: "https://lakewooddentist.ca/?utm_source=google&utm_content=gbp"
 google_maps: "https://maps.google.com/?cid=5889750003225512510&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/lakewood-dental-centre.jpg"
+  - "/photos/lakewood-dental-centre-g2.jpg"
+  - "/photos/lakewood-dental-centre-g0.jpg"
+  - "/photos/lakewood-dental-centre-g1.jpg"
 reviews:
   - name: "Mia Metselaar"
     rating: 5

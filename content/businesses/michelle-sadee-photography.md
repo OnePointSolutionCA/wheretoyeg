@@ -11,7 +11,9 @@ phone: "(780) 690-2361"
 website: "https://michellesadeephotography.ca/"
 google_maps: "https://maps.google.com/?cid=5546393691851049076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/michelle-sadee-photography.jpg"
+  - "/photos/michelle-sadee-photography-g3.jpg"
+  - "/photos/michelle-sadee-photography-g2.jpg"
+  - "/photos/michelle-sadee-photography-g4.jpg"
 reviews:
   - name: "Qin Dong"
     rating: 5

@@ -11,8 +11,7 @@ tier: "featured"
 phone: "(780) 929-6611"
 website: "https://locations.papajohns.com/canada/ab/t4x-0b6/beaumont/6410-50th-street?utm_source=yext-listings&utm_medium=referral&y_source=1_MTIwNjQ3MTktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
 google_maps: "https://maps.google.com/?cid=18211966246309489812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/papa-johns-pizza.jpg"
+photos: []
 reviews:
   - name: "Becky Ng"
     rating: 5

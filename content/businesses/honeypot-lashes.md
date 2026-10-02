@@ -18,7 +18,8 @@ hours:
   friday: "10:00 AM–9:00 PM"
   saturday: "10:00 AM–7:00 PM"
   sunday: "12:00 PM–6:00 PM"
-photos: ["/photos/honeypot-lashes-1.jpg", "/photos/honeypot-lashes-2.jpg", "/photos/honeypot-lashes-3.jpg"]
+photos:
+  - "/photos/honeypot-lashes-g1.jpg"
 rating: 4.6
 review_count: 172
 price_range: "$$$"

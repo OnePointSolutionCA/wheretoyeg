@@ -12,7 +12,7 @@ phone: "(780) 233-1509"
 website: "https://www.facebook.com/share/1DdvNG8bKR/"
 google_maps: "https://maps.google.com/?cid=7890400446741091320&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/beaumont-chip-repair.jpg"
+  - "/photos/beaumont-chip-repair-g0.jpg"
 reviews:
   - name: "Taylor Jorgensen"
     rating: 5

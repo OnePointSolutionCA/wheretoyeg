@@ -18,7 +18,9 @@ hours:
   friday: "9:00 AM–5:00 PM"
   saturday: "10:30 AM–1:30 PM"
   sunday: "Closed"
-photos: ["/photos/career-plus-immigration-consultants-inc-1.jpg", "/photos/career-plus-immigration-consultants-inc-2.jpg", "/photos/career-plus-immigration-consultants-inc-3.jpg"]
+photos:
+  - "/photos/career-plus-immigration-consultants-inc-2.jpg"
+  - "/photos/career-plus-immigration-consultants-inc-3.jpg"
 rating: 4.9
 review_count: 898
 price_range: "$$"

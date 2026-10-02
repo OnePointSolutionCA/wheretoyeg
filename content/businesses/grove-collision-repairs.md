@@ -12,7 +12,8 @@ phone: "(780) 962-3755"
 website: "http://www.grovecollision.ca/?utm_campaign=gmb"
 google_maps: "https://maps.google.com/?cid=14122792020248737353&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/grove-collision-repairs.jpg"
+  - "/photos/grove-collision-repairs-g2.jpg"
+  - "/photos/grove-collision-repairs-g1.jpg"
 reviews:
   - name: "Prashil Maharaj"
     rating: 5

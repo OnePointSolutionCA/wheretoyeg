@@ -11,7 +11,7 @@ phone: "(780) 962-9191"
 website: "http://www.evergreenfamilydentistry.ca/"
 google_maps: "https://maps.google.com/?cid=15404992635236208786&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/evergreen-family-dentistry.jpg"
+  - "/photos/evergreen-family-dentistry-g1.jpg"
 reviews:
   - name: "ian hamilton"
     rating: 5

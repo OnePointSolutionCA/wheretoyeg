@@ -18,7 +18,8 @@ hours:
   friday: "8:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/hga-chartered-professional-accountants-1.jpg", "/photos/hga-chartered-professional-accountants-2.jpg", "/photos/hga-chartered-professional-accountants-3.jpg"]
+photos:
+  - "/photos/hga-chartered-professional-accountants-2.jpg"
 rating: 4.8
 review_count: 80
 price_range: "$$"

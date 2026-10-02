@@ -11,7 +11,8 @@ phone: "(780) 475-4888"
 website: "http://www.iconvisioncare.ca/"
 google_maps: "https://maps.google.com/?cid=6791120755438525266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/icon-vision-care-londonderry.jpg"
+  - "/photos/icon-vision-care-londonderry-g0.jpg"
+  - "/photos/icon-vision-care-londonderry-g1.jpg"
 reviews:
   - name: "Fovea Wong"
     rating: 5

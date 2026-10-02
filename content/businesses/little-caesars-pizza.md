@@ -11,8 +11,7 @@ tier: "featured"
 phone: "(587) 474-1476"
 website: "https://littlecaesars.ca/"
 google_maps: "https://maps.google.com/?cid=12820458029951154097&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/little-caesars-pizza.jpg"
+photos: []
 reviews:
   - name: "White Widow"
     rating: 5

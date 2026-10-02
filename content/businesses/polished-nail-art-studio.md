@@ -16,7 +16,8 @@ hours:
   friday: "10:00 AM–7:00 PM"
   saturday: "10:00 AM–6:00 PM"
   sunday: "Closed"
-photos: ["/photos/polished-nail-art-studio-1.jpg", "/photos/polished-nail-art-studio-2.jpg", "/photos/polished-nail-art-studio-3.jpg"]
+photos:
+  - "/photos/polished-nail-art-studio-g2.jpg"
 rating: 4.4
 review_count: 233
 price_range: "$$"

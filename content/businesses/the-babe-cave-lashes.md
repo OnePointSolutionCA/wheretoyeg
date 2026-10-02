@@ -9,8 +9,7 @@ review_count: 24
 tier: "featured"
 phone: "(780) 226-9680"
 google_maps: "https://maps.google.com/?cid=8006740228653190950&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/the-babe-cave-lashes.jpg"
+photos: []
 reviews:
   - name: "Andrea S"
     rating: 5

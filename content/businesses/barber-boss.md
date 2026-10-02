@@ -10,7 +10,7 @@ tier: "featured"
 phone: "(780) 929-2922"
 google_maps: "https://maps.google.com/?cid=15738802588435752748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/barber-boss.jpg"
+  - "/photos/barber-boss-g0.jpg"
 reviews:
   - name: "Harman sidhu"
     rating: 5

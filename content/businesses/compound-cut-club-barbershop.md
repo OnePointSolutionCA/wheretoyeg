@@ -18,7 +18,9 @@ hours:
   friday: "11:00 AM–7:00 PM"
   saturday: "11:00 AM–5:00 PM"
   sunday: "11:00 AM–5:00 PM"
-photos: ["/photos/compound-cut-club-barbershop-1.jpg", "/photos/compound-cut-club-barbershop-2.jpg", "/photos/compound-cut-club-barbershop-3.jpg"]
+photos:
+  - "/photos/compound-cut-club-barbershop-g0.jpg"
+  - "/photos/compound-cut-club-barbershop-g1.jpg"
 rating: 4.9
 review_count: 1305
 price_range: "$$$"

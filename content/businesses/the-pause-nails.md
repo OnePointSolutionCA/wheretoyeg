@@ -18,7 +18,9 @@ hours:
   friday: "9:30 AM–7:00 PM"
   saturday: "9:30 AM–6:00 PM"
   sunday: "11:30 AM–5:00 PM"
-photos: ["/photos/the-pause-nails-1.jpg", "/photos/the-pause-nails-2.jpg", "/photos/the-pause-nails-3.jpg"]
+photos:
+  - "/photos/the-pause-nails-g2.jpg"
+  - "/photos/the-pause-nails-2.jpg"
 rating: 4.9
 review_count: 133
 price_range: "$$$"

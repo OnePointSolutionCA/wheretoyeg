@@ -11,8 +11,7 @@ tier: "featured"
 phone: "(866) 310-0001"
 website: "http://www.panago.com/"
 google_maps: "https://maps.google.com/?cid=6438588341534038079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/panago-pizza.jpg"
+photos: []
 reviews:
   - name: "Jess Tolley"
     rating: 3

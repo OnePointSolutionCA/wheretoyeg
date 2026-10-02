@@ -11,7 +11,7 @@ phone: "(780) 760-6663"
 website: "https://moodcafebakery.com/"
 google_maps: "https://maps.google.com/?cid=16390805789740098154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/mood-cafe.jpg"
+  - "/photos/mood-cafe-g0.jpg"
 reviews:
   - name: "T-Bird"
     rating: 2

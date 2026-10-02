@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(587) 461-0159"
 website: "http://www.johnkenneth.ca/"
 google_maps: "https://maps.google.com/?cid=11668974415601401456&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/john-kenneth-hair-salon.jpg"
+photos: []
 reviews:
   - name: "Emma Koch"
     rating: 5

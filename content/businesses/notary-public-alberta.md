@@ -18,7 +18,7 @@ hours:
   friday: "10:00 AM–6:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/notary-public-alberta-1.jpg", "/photos/notary-public-alberta-2.jpg"]
+photos: []
 rating: 4.4
 review_count: 21
 price_range: "$$"

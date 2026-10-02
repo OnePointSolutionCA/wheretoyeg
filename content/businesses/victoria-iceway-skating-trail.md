@@ -18,7 +18,10 @@ hours:
   friday: "10:00 AM–10:00 PM"
   saturday: "10:00 AM–10:00 PM"
   sunday: "10:00 AM–10:00 PM"
-photos: ["/photos/victoria-iceway-skating-trail-1.jpg", "/photos/victoria-iceway-skating-trail-2.jpg", "/photos/victoria-iceway-skating-trail-3.jpg"]
+photos:
+  - "/photos/victoria-iceway-skating-trail-g1.jpg"
+  - "/photos/victoria-iceway-skating-trail-3.jpg"
+  - "/photos/victoria-iceway-skating-trail-g3.jpg"
 rating: 4.6
 review_count: 120
 price_range: "$$"

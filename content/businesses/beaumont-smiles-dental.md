@@ -11,8 +11,7 @@ tier: "featured"
 phone: "(780) 737-9125"
 website: "https://www.beaumontsmiles.ca/"
 google_maps: "https://maps.google.com/?cid=3192703719819925532&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/beaumont-smiles-dental.jpg"
+photos: []
 reviews:
   - name: "Matt Caffrey"
     rating: 5

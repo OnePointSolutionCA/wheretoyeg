@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(780) 929-9840"
 website: "http://salonlhirondelle.com/"
 google_maps: "https://maps.google.com/?cid=2082070108609491478&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/salon-lhirondelle.jpg"
+photos: []
 reviews:
   - name: "Cazandra Erasmus-Diener"
     rating: 5

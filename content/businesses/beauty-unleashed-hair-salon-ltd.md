@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(780) 938-8984"
 website: "http://beauty-unleashed-hair-studio.square.site/"
 google_maps: "https://maps.google.com/?cid=9921777534988731423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/beauty-unleashed-hair-salon-ltd.jpg"
+photos: []
 reviews:
   - name: "Krystal O"
     rating: 5

@@ -18,7 +18,10 @@ hours:
   friday: "8:00 AM–4:00 PM"
   saturday: "8:00 AM–2:00 PM"
   sunday: "Closed"
-photos: ["/photos/sherbrooke-family-dental-1.jpg", "/photos/sherbrooke-family-dental-2.jpg", "/photos/sherbrooke-family-dental-3.jpg"]
+photos:
+  - "/photos/sherbrooke-family-dental-g4.jpg"
+  - "/photos/sherbrooke-family-dental-3.jpg"
+  - "/photos/sherbrooke-family-dental-2.jpg"
 rating: 4.6
 review_count: 349
 price_range: "$$"

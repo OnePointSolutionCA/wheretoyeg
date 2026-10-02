@@ -11,7 +11,7 @@ phone: "(780) 238-1818"
 website: "https://www.nikmikclearcleaning.ca/"
 google_maps: "https://maps.google.com/?cid=14878169893709445203&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/nik-mik-clear-cleaning.jpg"
+  - "/photos/nik-mik-clear-cleaning-g1.jpg"
 reviews:
   - name: "Little House Technologies"
     rating: 5

@@ -18,7 +18,9 @@ hours:
   friday: "8:00 AM–8:00 PM"
   saturday: "9:00 AM–4:00 PM"
   sunday: "10:00 AM–3:00 PM"
-photos: ["/photos/4-points-health-and-wellness-1.jpg", "/photos/4-points-health-and-wellness-2.jpg", "/photos/4-points-health-and-wellness-3.jpg"]
+photos:
+  - "/photos/4-points-health-and-wellness-3.jpg"
+  - "/photos/4-points-health-and-wellness-g2.jpg"
 rating: 4.9
 review_count: 375
 price_range: "$$"

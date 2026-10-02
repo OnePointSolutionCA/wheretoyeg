@@ -18,7 +18,10 @@ hours:
   friday: "9:00 AM–8:00 PM"
   saturday: "9:00 AM–8:00 PM"
   sunday: "9:00 AM–8:00 PM"
-photos: ["/photos/on-top-barbershop-1.jpg", "/photos/on-top-barbershop-2.jpg", "/photos/on-top-barbershop-3.jpg"]
+photos:
+  - "/photos/on-top-barbershop-2.jpg"
+  - "/photos/on-top-barbershop-3.jpg"
+  - "/photos/on-top-barbershop-g1.jpg"
 rating: 4.9
 review_count: 154
 price_range: "$$"

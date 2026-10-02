@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(780) 399-4555"
 website: "https://www.ironhillathletics.ca/"
 google_maps: "https://maps.google.com/?cid=2425447930338778253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/ironhill-athletics.jpg"
+photos: []
 reviews:
   - name: "Brandan Chretien"
     rating: 5

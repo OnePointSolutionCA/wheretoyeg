@@ -31,4 +31,5 @@ reviews:
     rating: 5
     comment: |
       The staff  go the second mile to help you in a time of need.  Thank you so much for your empathy and concern,  I so appreciate it!  Hats off to you all!
+photos: []
 ---

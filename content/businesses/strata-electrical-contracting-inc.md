@@ -18,7 +18,9 @@ hours:
   friday: "7:30 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/strata-electrical-contracting-inc-1.jpg", "/photos/strata-electrical-contracting-inc-2.jpg", "/photos/strata-electrical-contracting-inc-3.jpg"]
+photos:
+  - "/photos/strata-electrical-contracting-inc-g4.jpg"
+  - "/photos/strata-electrical-contracting-inc-g3.jpg"
 rating: 4.9
 review_count: 265
 price_range: "$$"

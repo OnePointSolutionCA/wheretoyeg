@@ -11,7 +11,8 @@ phone: "(437) 484-4836"
 website: "http://spotlessedgecleaning.ca/"
 google_maps: "https://maps.google.com/?cid=11384273920755584278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/spotless-edge-cleaning-company.jpg"
+  - "/photos/spotless-edge-cleaning-company-g2.jpg"
+  - "/photos/spotless-edge-cleaning-company-g0.jpg"
 reviews:
   - name: "Julie Gimei"
     rating: 5

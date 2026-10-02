@@ -16,7 +16,9 @@ hours:
   friday: "2:00 PM–12:00 AM"
   saturday: "10:00 AM–12:00 AM"
   sunday: "12:00 PM–8:00 PM"
-photos: ["/photos/batl-axe-throwing-edmonton-1.jpg", "/photos/batl-axe-throwing-edmonton-2.jpg", "/photos/batl-axe-throwing-edmonton-3.jpg"]
+photos:
+  - "/photos/batl-axe-throwing-edmonton-3.jpg"
+  - "/photos/batl-axe-throwing-edmonton-2.jpg"
 rating: 4.8
 review_count: 807
 price_range: "$$"

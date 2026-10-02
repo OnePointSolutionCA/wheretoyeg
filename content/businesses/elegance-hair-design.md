@@ -11,7 +11,7 @@ phone: "(780) 962-9364"
 website: "http://www.elegancehair.com/"
 google_maps: "https://maps.google.com/?cid=15395847278162601052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/elegance-hair-design.jpg"
+  - "/photos/elegance-hair-design-g0.jpg"
 reviews:
   - name: "Annissa Anderson"
     rating: 2

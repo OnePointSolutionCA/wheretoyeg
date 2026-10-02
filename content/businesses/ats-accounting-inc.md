@@ -18,7 +18,8 @@ hours:
   friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/ats-accounting-inc-1.jpg", "/photos/ats-accounting-inc-2.jpg", "/photos/ats-accounting-inc-3.jpg"]
+photos:
+  - "/photos/ats-accounting-inc-3.jpg"
 rating: 4.8
 review_count: 429
 price_range: "$$"

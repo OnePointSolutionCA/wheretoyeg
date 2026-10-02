@@ -18,7 +18,7 @@ hours:
   friday: "9:00 AM–5:00 PM"
   saturday: "9:00 AM–5:00 PM"
   sunday: "Closed"
-photos: ["/photos/creologic-design-inc-1.jpg", "/photos/creologic-design-inc-2.jpg", "/photos/creologic-design-inc-3.jpg"]
+photos: []
 rating: 4.9
 review_count: 95
 price_range: "$$"

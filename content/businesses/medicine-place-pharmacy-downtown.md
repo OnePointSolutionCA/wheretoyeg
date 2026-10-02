@@ -19,7 +19,7 @@ hours:
   friday: "9:00 AM–5:00 PM"
   saturday: "10:00 AM–4:00 PM"
   sunday: "10:00 AM–4:00 PM"
-photos: ["/photos/medicine-place-pharmacy-downtown.jpg"]
+photos: []
 rating: 3.1
 review_count: 8
 price_range: "$"

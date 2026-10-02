@@ -18,7 +18,8 @@ hours:
   friday: "8:00 AM–6:00 PM"
   saturday: "9:00 AM–5:00 PM"
   sunday: "9:00 AM–5:00 PM"
-photos: ["/photos/cozy-home-maid-service-inc-1.jpg", "/photos/cozy-home-maid-service-inc-2.jpg", "/photos/cozy-home-maid-service-inc-3.jpg"]
+photos:
+  - "/photos/cozy-home-maid-service-inc-3.jpg"
 rating: 4.8
 review_count: 186
 price_range: "$$"

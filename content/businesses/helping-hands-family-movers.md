@@ -18,7 +18,10 @@ hours:
   friday: "8:00 AM–7:00 PM"
   saturday: "8:00 AM–7:00 PM"
   sunday: "9:00 AM–5:30 PM"
-photos: ["/photos/helping-hands-family-movers-1.jpg", "/photos/helping-hands-family-movers-2.jpg", "/photos/helping-hands-family-movers-3.jpg"]
+photos:
+  - "/photos/helping-hands-family-movers-g3.jpg"
+  - "/photos/helping-hands-family-movers-g2.jpg"
+  - "/photos/helping-hands-family-movers-2.jpg"
 rating: 4.8
 review_count: 440
 price_range: "$$$$"

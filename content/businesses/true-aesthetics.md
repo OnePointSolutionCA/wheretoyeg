@@ -18,7 +18,9 @@ hours:
   friday: "10:00 AM–6:00 PM"
   saturday: "10:00 AM–5:00 PM"
   sunday: "Closed"
-photos: ["/photos/true-aesthetics-1.jpg", "/photos/true-aesthetics-2.jpg", "/photos/true-aesthetics-3.jpg"]
+photos:
+  - "/photos/true-aesthetics-2.jpg"
+  - "/photos/true-aesthetics-3.jpg"
 rating: 5
 review_count: 620
 price_range: "$$"

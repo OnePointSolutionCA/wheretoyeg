@@ -19,7 +19,10 @@ hours:
   friday: "9:00 AM–2:00 PM"
   saturday: "8:00 AM–3:00 PM"
   sunday: "8:00 AM–4:00 PM"
-photos: ["/photos/club-pilates-meadowlark-1.jpg", "/photos/club-pilates-meadowlark-2.jpg", "/photos/club-pilates-meadowlark-3.jpg"]
+photos:
+  - "/photos/club-pilates-meadowlark-3.jpg"
+  - "/photos/club-pilates-meadowlark-g2.jpg"
+  - "/photos/club-pilates-meadowlark-g4.jpg"
 rating: 3.9
 review_count: 17
 price_range: "$$"

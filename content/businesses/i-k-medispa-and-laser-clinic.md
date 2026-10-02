@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(780) 699-3160"
 website: "http://www.ikmedispa.com/"
 google_maps: "https://maps.google.com/?cid=17589917658714449822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/i-k-medispa-and-laser-clinic.jpg"
+photos: []
 reviews:
   - name: "Babita Rawat"
     rating: 5

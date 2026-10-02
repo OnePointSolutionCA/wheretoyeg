@@ -16,7 +16,8 @@ hours:
   friday: "8:00 AM–8:00 PM"
   saturday: "10:00 AM–5:00 PM"
   sunday: "12:00 PM–4:00 PM"
-photos: ["/photos/molly-maid-edmonton-1.jpg", "/photos/molly-maid-edmonton-2.jpg", "/photos/molly-maid-edmonton-3.jpg"]
+photos:
+  - "/photos/molly-maid-edmonton-3.jpg"
 rating: 4
 review_count: 60
 price_range: "$$"

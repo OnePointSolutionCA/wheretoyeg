@@ -12,7 +12,9 @@ phone: "(780) 248-1081"
 website: "https://udentalclinic.ca/?utm_source=GBPlisting&utm_medium=organic"
 google_maps: "https://maps.google.com/?cid=2335518211209665632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/udental-clinic-van-vliet-centre.jpg"
+  - "/photos/udental-clinic-van-vliet-centre-g1.jpg"
+  - "/photos/udental-clinic-van-vliet-centre-g2.jpg"
+  - "/photos/udental-clinic-van-vliet-centre-g3.jpg"
 reviews:
   - name: "Juru"
     rating: 5

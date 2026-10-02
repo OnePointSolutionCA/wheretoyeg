@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(780) 676-4939"
 website: "https://southedmontonemergencydental.ca/"
 google_maps: "https://maps.google.com/?cid=2615720875514799275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/south-edmonton-emergency-dental.jpg"
+photos: []
 reviews:
   - name: "Aleah Reid"
     rating: 5

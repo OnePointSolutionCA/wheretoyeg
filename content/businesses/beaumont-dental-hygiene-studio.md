@@ -11,7 +11,8 @@ phone: "(780) 298-3494"
 website: "http://beaumontdentalhygiene.com/"
 google_maps: "https://maps.google.com/?cid=10208300629490887371&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/beaumont-dental-hygiene-studio.jpg"
+  - "/photos/beaumont-dental-hygiene-studio-g1.jpg"
+  - "/photos/beaumont-dental-hygiene-studio-g2.jpg"
 reviews:
   - name: "Hannah Oakley-Donaldson"
     rating: 5

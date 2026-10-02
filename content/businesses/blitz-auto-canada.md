@@ -12,7 +12,7 @@ phone: "(780) 463-2886"
 website: "http://blitzautocanada.ca/"
 google_maps: "https://maps.google.com/?cid=410263428139833109&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/blitz-auto-canada.jpg"
+  - "/photos/blitz-auto-canada-g1.jpg"
 reviews:
   - name: "Rindha M"
     rating: 5

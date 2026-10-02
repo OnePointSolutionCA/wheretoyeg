@@ -18,7 +18,8 @@ hours:
   friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/miraculous-maid-inc-1.jpg", "/photos/miraculous-maid-inc-2.jpg", "/photos/miraculous-maid-inc-3.jpg"]
+photos:
+  - "/photos/miraculous-maid-inc-2.jpg"
 rating: 4.6
 review_count: 516
 price_range: "$$"

@@ -16,7 +16,9 @@ hours:
   friday: "5:00 AM–9:00 AM"
   saturday: "7:15 AM–11:30 AM"
   sunday: "Closed"
-photos: ["/photos/crossfit-terminus-1.jpg", "/photos/crossfit-terminus-2.jpg", "/photos/crossfit-terminus-3.jpg"]
+photos:
+  - "/photos/crossfit-terminus-2.jpg"
+  - "/photos/crossfit-terminus-3.jpg"
 rating: 4.9
 review_count: 154
 price_range: "$$$"

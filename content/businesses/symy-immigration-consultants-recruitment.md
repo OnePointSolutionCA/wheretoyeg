@@ -18,7 +18,9 @@ hours:
   friday: "8:30 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/symy-immigration-consultants-recruitment-1.jpg", "/photos/symy-immigration-consultants-recruitment-2.jpg", "/photos/symy-immigration-consultants-recruitment-3.jpg"]
+photos:
+  - "/photos/symy-immigration-consultants-recruitment-3.jpg"
+  - "/photos/symy-immigration-consultants-recruitment-2.jpg"
 rating: 4.7
 review_count: 1185
 price_range: "$$"

@@ -12,7 +12,9 @@ phone: "(780) 463-8803"
 website: "https://edmontonsmiles.net/"
 google_maps: "https://maps.google.com/?cid=8390039189735995783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/dr-molly-rodgers-dental-and-associates.jpg"
+  - "/photos/dr-molly-rodgers-dental-and-associates-g4.jpg"
+  - "/photos/dr-molly-rodgers-dental-and-associates-g1.jpg"
+  - "/photos/dr-molly-rodgers-dental-and-associates-g3.jpg"
 reviews:
   - name: "Sterling"
     rating: 5

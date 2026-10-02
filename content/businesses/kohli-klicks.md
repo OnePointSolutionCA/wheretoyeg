@@ -11,7 +11,9 @@ phone: "(780) 266-5405"
 website: "http://www.kohliklicks.com/"
 google_maps: "https://maps.google.com/?cid=8381382343123741789&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/kohli-klicks.jpg"
+  - "/photos/kohli-klicks-g2.jpg"
+  - "/photos/kohli-klicks-g1.jpg"
+  - "/photos/kohli-klicks-g4.jpg"
 reviews:
   - name: "Manpreet Kaur"
     rating: 5

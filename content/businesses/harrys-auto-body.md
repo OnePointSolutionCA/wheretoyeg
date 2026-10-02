@@ -11,7 +11,8 @@ tier: "featured"
 phone: "(780) 473-1677"
 google_maps: "https://maps.google.com/?cid=13723103847625115300&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/harrys-auto-body.jpg"
+  - "/photos/harrys-auto-body-g2.jpg"
+  - "/photos/harrys-auto-body-g0.jpg"
 reviews:
   - name: "Genet Kolech"
     rating: 5

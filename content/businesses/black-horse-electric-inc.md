@@ -18,7 +18,9 @@ hours:
   friday: "8:00 AM–6:00 PM"
   saturday: "8:00 AM–6:00 PM"
   sunday: "8:00 AM–6:00 PM"
-photos: ["/photos/black-horse-electric-inc-1.jpg", "/photos/black-horse-electric-inc-2.jpg", "/photos/black-horse-electric-inc-3.jpg"]
+photos:
+  - "/photos/black-horse-electric-inc-2.jpg"
+  - "/photos/black-horse-electric-inc-g2.jpg"
 rating: 5
 review_count: 48
 price_range: "$$"

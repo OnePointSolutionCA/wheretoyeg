@@ -17,7 +17,9 @@ hours:
   friday: "9:30 AM–7:00 PM"
   saturday: "11:00 AM–7:00 PM"
   sunday: "6:30 PM–8:00 PM"
-photos: ["/photos/bare-body-wax-boutique-1.jpg", "/photos/bare-body-wax-boutique-2.jpg", "/photos/bare-body-wax-boutique-3.jpg"]
+photos:
+  - "/photos/bare-body-wax-boutique-2.jpg"
+  - "/photos/bare-body-wax-boutique-3.jpg"
 rating: 4.9
 review_count: 47
 price_range: "$$"

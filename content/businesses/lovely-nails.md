@@ -18,7 +18,7 @@ hours:
   friday: "10:00 AM–10:00 PM"
   saturday: "10:00 AM–6:00 PM"
   sunday: "11:00 AM–6:00 PM"
-photos: ["/photos/lovely-nails-1.jpg", "/photos/lovely-nails-2.jpg", "/photos/lovely-nails-3.jpg"]
+photos: []
 rating: 4.8
 review_count: 967
 price_range: "$$$"

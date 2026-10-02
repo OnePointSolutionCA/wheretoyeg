@@ -17,7 +17,9 @@ hours:
   friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/schwan-associates-chartered-professional-accountant-1.jpg", "/photos/schwan-associates-chartered-professional-accountant-2.jpg", "/photos/schwan-associates-chartered-professional-accountant-3.jpg"]
+photos:
+  - "/photos/schwan-associates-chartered-professional-accountant-2.jpg"
+  - "/photos/schwan-associates-chartered-professional-accountant-g3.jpg"
 rating: 4.8
 review_count: 75
 price_range: "$$"

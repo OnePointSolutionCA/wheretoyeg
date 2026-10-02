@@ -11,7 +11,9 @@ phone: "(780) 473-3998"
 website: "http://ab-eyes.com/"
 google_maps: "https://maps.google.com/?cid=17325290334157529175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/village-eye-centre.jpg"
+  - "/photos/village-eye-centre-g3.jpg"
+  - "/photos/village-eye-centre-g0.jpg"
+  - "/photos/village-eye-centre-g1.jpg"
 reviews:
   - name: "Petra"
     rating: 5

@@ -18,7 +18,10 @@ hours:
   friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/lucky13-auto-body-and-paint-1.jpg", "/photos/lucky13-auto-body-and-paint-2.jpg", "/photos/lucky13-auto-body-and-paint-3.jpg"]
+photos:
+  - "/photos/lucky13-auto-body-and-paint-g3.jpg"
+  - "/photos/lucky13-auto-body-and-paint-g1.jpg"
+  - "/photos/lucky13-auto-body-and-paint-g2.jpg"
 rating: 4.9
 review_count: 154
 price_range: "$$"

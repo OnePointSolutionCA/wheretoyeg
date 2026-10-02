@@ -11,7 +11,8 @@ phone: "(780) 722-4020"
 website: "https://www.stratusclean.com/locations/edmonton"
 google_maps: "https://maps.google.com/?cid=9382299440842341357&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/stratus-clean-edmonton.jpg"
+  - "/photos/stratus-clean-edmonton-g1.jpg"
+  - "/photos/stratus-clean-edmonton-g3.jpg"
 reviews:
   - name: "Sarah Jane Romasanta Romasanta"
     rating: 5

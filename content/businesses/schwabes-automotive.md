@@ -19,7 +19,7 @@ hours:
   friday: "7:30 AM–5:30 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/schwabes-automotive.png"]
+photos: []
 rating: 4.5
 review_count: 141
 price_range: "$$"

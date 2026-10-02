@@ -18,7 +18,10 @@ hours:
   friday: "5:30 AM–1:30 PM"
   saturday: "7:30 AM–1:30 PM"
   sunday: "7:30 AM–1:30 PM"
-photos: ["/photos/yeg-cycle-spin-studio---jasper-ave-1.jpg", "/photos/yeg-cycle-spin-studio---jasper-ave-2.jpg", "/photos/yeg-cycle-spin-studio---jasper-ave-3.jpg"]
+photos:
+  - "/photos/yeg-cycle-spin-studio---jasper-ave-2.jpg"
+  - "/photos/yeg-cycle-spin-studio---jasper-ave-g1.jpg"
+  - "/photos/yeg-cycle-spin-studio---jasper-ave-3.jpg"
 rating: 4.7
 review_count: 229
 price_range: "$$"

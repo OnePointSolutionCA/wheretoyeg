@@ -11,7 +11,8 @@ phone: "(780) 667-3657"
 website: "https://365daysservices.ca/"
 google_maps: "https://maps.google.com/?cid=7941077785925290487&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/365-days-services-inc.jpg"
+  - "/photos/365-days-services-inc-g3.jpg"
+  - "/photos/365-days-services-inc-g0.jpg"
 reviews:
   - name: "Joie Shapcott"
     rating: 5

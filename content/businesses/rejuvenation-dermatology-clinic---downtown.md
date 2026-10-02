@@ -18,7 +18,7 @@ hours:
   friday: "7:00 AM–6:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/rejuvenation-dermatology-clinic---downtown-1.jpg", "/photos/rejuvenation-dermatology-clinic---downtown-2.jpg"]
+photos: []
 rating: 4.8
 review_count: 1522
 price_range: "$$"

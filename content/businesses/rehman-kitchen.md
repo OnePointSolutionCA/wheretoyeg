@@ -18,7 +18,9 @@ hours:
   friday: "11:00 AM–12:00 AM"
   saturday: "12:00 PM–12:00 AM"
   sunday: "1:00 PM–8:00 PM"
-photos: ["/photos/rehman-kitchen-1.jpg", "/photos/rehman-kitchen-2.jpg", "/photos/rehman-kitchen-3.jpg"]
+photos:
+  - "/photos/rehman-kitchen-2.jpg"
+  - "/photos/rehman-kitchen-g2.jpg"
 rating: 4.7
 review_count: 168
 price_range: "$"

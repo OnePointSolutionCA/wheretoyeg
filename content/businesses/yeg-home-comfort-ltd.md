@@ -18,7 +18,8 @@ hours:
   friday: "Closed"
   saturday: "Closed"
   sunday: "12:00 AM–11:59 PM"
-photos: ["/photos/yeg-home-comfort-ltd-1.jpg", "/photos/yeg-home-comfort-ltd-2.jpg", "/photos/yeg-home-comfort-ltd-3.jpg"]
+photos:
+  - "/photos/yeg-home-comfort-ltd-2.jpg"
 rating: 4.7
 review_count: 319
 price_range: "$$"

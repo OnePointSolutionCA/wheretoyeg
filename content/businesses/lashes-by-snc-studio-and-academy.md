@@ -18,7 +18,7 @@ hours:
   friday: "8:00 AM–10:00 PM"
   saturday: "9:00 AM–7:00 PM"
   sunday: "7:00 AM–9:00 PM"
-photos: ["/photos/lashes-by-snc-studio-and-academy-1.jpg", "/photos/lashes-by-snc-studio-and-academy-2.jpg", "/photos/lashes-by-snc-studio-and-academy-3.jpg"]
+photos: []
 rating: 5
 review_count: 79
 price_range: "$$$$"

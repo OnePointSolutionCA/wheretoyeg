@@ -15,7 +15,9 @@ hours:
   friday: "10:00 AM–6:30 PM"
   saturday: "10:00 AM–5:00 PM"
   sunday: "12:00 PM–5:00 PM"
-photos: ["/photos/si-salon-and-spa-1.jpg", "/photos/si-salon-and-spa-2.jpg", "/photos/si-salon-and-spa-3.jpg"]
+photos:
+  - "/photos/si-salon-and-spa-2.jpg"
+  - "/photos/si-salon-and-spa-g1.jpg"
 rating: 4.4
 review_count: 151
 price_range: "$$"

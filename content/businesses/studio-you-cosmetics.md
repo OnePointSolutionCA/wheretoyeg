@@ -18,7 +18,7 @@ hours:
   friday: "10:00 AM–5:00 PM"
   saturday: "10:00 AM–4:00 PM"
   sunday: "Closed"
-photos: ["/photos/studio-you-cosmetics-1.jpg", "/photos/studio-you-cosmetics-2.jpg", "/photos/studio-you-cosmetics-3.jpg"]
+photos: []
 rating: 5
 review_count: 181
 price_range: "$$"

@@ -18,7 +18,8 @@ hours:
   friday: "10:00 AM–7:00 PM"
   saturday: "10:00 AM–5:00 PM"
   sunday: "10:00 AM–5:00 PM"
-photos: ["/photos/ceci-spa-1.jpg", "/photos/ceci-spa-2.jpg", "/photos/ceci-spa-3.jpg"]
+photos:
+  - "/photos/ceci-spa-g1.jpg"
 rating: 5
 review_count: 36
 price_range: "$$$"

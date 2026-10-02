@@ -18,7 +18,8 @@ hours:
   friday: "11:00 AM–6:00 PM"
   saturday: "11:00 AM–6:00 PM"
   sunday: "12:00 PM–5:00 PM"
-photos: ["/photos/urban-brows-1.jpg", "/photos/urban-brows-2.jpg", "/photos/urban-brows-3.jpg"]
+photos:
+  - "/photos/urban-brows-g1.jpg"
 rating: 4.6
 review_count: 62
 price_range: "$$"

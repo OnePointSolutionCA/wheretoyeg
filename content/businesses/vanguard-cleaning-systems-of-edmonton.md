@@ -11,7 +11,8 @@ phone: "(780) 988-0590"
 website: "https://www.vanguardcleaning.ca/cleaning/edmonton-alberta/?utm_source=GMB&utm_medium=organic&utm_campaign=gbp-profile"
 google_maps: "https://maps.google.com/?cid=9136845859513804400&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/vanguard-cleaning-systems-of-edmonton.jpg"
+  - "/photos/vanguard-cleaning-systems-of-edmonton-g0.jpg"
+  - "/photos/vanguard-cleaning-systems-of-edmonton-g1.jpg"
 reviews:
   - name: "Nicco Holley"
     rating: 5

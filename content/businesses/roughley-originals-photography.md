@@ -10,7 +10,8 @@ tier: "featured"
 website: "http://roughleyoriginals.com/"
 google_maps: "https://maps.google.com/?cid=2554752305149994760&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/roughley-originals-photography.jpg"
+  - "/photos/roughley-originals-photography-g3.jpg"
+  - "/photos/roughley-originals-photography-g4.jpg"
 reviews:
   - name: "Sydney White"
     rating: 5

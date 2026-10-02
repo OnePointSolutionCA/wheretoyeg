@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(780) 893-7725"
 website: "https://re4orm.ca/about-us/"
 google_maps: "https://maps.google.com/?cid=11952502428903123523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/re4orm-wellness-studio.jpg"
+photos: []
 reviews:
   - name: "Mirine Yoon"
     rating: 5

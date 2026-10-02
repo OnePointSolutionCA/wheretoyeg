@@ -11,7 +11,7 @@ phone: "(780) 929-2171"
 website: "https://salons.greatclips.com/ca/ab/beaumont/6410-50th-st?utm_source=google&utm_medium=organic&utm_campaign=gmb"
 google_maps: "https://maps.google.com/?cid=8716955569804788619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/great-clips.jpg"
+  - "/photos/great-clips-g0.jpg"
 reviews:
   - name: "Gord Kuhn"
     rating: 5

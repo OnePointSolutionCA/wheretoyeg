@@ -18,7 +18,8 @@ hours:
   friday: "10:00 AM–7:00 PM"
   saturday: "10:00 AM–5:00 PM"
   sunday: "12:00 PM–5:00 PM"
-photos: ["/photos/goddess-beauty-bar-spa-1.jpg", "/photos/goddess-beauty-bar-spa-2.jpg", "/photos/goddess-beauty-bar-spa-3.jpg"]
+photos:
+  - "/photos/goddess-beauty-bar-spa-3.jpg"
 rating: 4.9
 review_count: 206
 price_range: "$$"

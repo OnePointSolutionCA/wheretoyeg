@@ -18,7 +18,9 @@ hours:
   friday: "8:00 AM–5:00 PM"
   saturday: "8:00 AM–5:00 PM"
   sunday: "Closed"
-photos: ["/photos/stud-electric-1.jpg", "/photos/stud-electric-2.jpg", "/photos/stud-electric-3.jpg"]
+photos:
+  - "/photos/stud-electric-3.jpg"
+  - "/photos/stud-electric-2.jpg"
 rating: 5
 review_count: 75
 price_range: "$$"

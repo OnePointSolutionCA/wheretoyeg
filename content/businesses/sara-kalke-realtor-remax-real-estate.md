@@ -18,7 +18,8 @@ hours:
   friday: "9:00 AM–9:00 PM"
   saturday: "9:00 AM–9:00 PM"
   sunday: "9:00 AM–9:00 PM"
-photos: ["/photos/sara-kalke-realtor-remax-real-estate-1.jpg", "/photos/sara-kalke-realtor-remax-real-estate-2.jpg", "/photos/sara-kalke-realtor-remax-real-estate-3.jpg"]
+photos:
+  - "/photos/sara-kalke-realtor-remax-real-estate-2.jpg"
 rating: 4.8
 review_count: 191
 price_range: "$$"

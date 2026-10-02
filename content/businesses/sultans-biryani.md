@@ -18,7 +18,9 @@ hours:
   friday: "5:00 PM–11:00 PM"
   saturday: "2:00 PM–11:00 PM"
   sunday: "3:00 PM–11:00 PM"
-photos: ["/photos/sultans-biryani-1.jpg", "/photos/sultans-biryani-2.jpg", "/photos/sultans-biryani-3.jpg"]
+photos:
+  - "/photos/sultans-biryani-g2.jpg"
+  - "/photos/sultans-biryani-3.jpg"
 rating: 4.9
 review_count: 172
 price_range: "$"

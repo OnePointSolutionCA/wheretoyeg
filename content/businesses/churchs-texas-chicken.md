@@ -18,7 +18,9 @@ hours:
   friday: "11:00 AM–12:00 AM"
   saturday: "11:00 AM–12:00 AM"
   sunday: "11:00 AM–11:00 PM"
-photos: ["/photos/churchs-texas-chicken-1.jpg", "/photos/churchs-texas-chicken-2.jpg", "/photos/churchs-texas-chicken-3.jpg"]
+photos:
+  - "/photos/churchs-texas-chicken-g0.jpg"
+  - "/photos/churchs-texas-chicken-2.jpg"
 rating: 4.6
 review_count: 3110
 price_range: "$"

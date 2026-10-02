@@ -18,7 +18,9 @@ hours:
   friday: "10:00 AM–5:00 PM"
   saturday: "10:00 AM–3:00 PM"
   sunday: "Closed"
-photos: ["/photos/red-leaf-wellness-1.jpg", "/photos/red-leaf-wellness-2.jpg", "/photos/red-leaf-wellness-3.jpg"]
+photos:
+  - "/photos/red-leaf-wellness-2.jpg"
+  - "/photos/red-leaf-wellness-3.jpg"
 rating: 5
 review_count: 277
 price_range: "$$"

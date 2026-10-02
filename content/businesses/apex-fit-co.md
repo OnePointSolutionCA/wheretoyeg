@@ -18,7 +18,9 @@ hours:
   friday: "6:00 AM–6:00 PM"
   saturday: "8:00 AM–12:00 PM"
   sunday: "8:00 AM–12:00 PM"
-photos: ["/photos/apex-fit-co-1.jpg", "/photos/apex-fit-co-2.jpg", "/photos/apex-fit-co-3.jpg"]
+photos:
+  - "/photos/apex-fit-co-2.jpg"
+  - "/photos/apex-fit-co-g3.jpg"
 rating: 5
 review_count: 22
 price_range: "$$"

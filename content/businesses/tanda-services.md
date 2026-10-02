@@ -11,8 +11,7 @@ tier: "featured"
 phone: "(587) 461-8888"
 website: "http://tandaserv.ca/"
 google_maps: "https://maps.google.com/?cid=1706093665737705983&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/tanda-services.jpg"
+photos: []
 reviews:
   - name: "Joe Bryenton"
     rating: 5

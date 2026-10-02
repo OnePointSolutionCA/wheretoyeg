@@ -15,4 +15,5 @@ reviews:
     rating: 5
     comment: |
       So warm and welcoming. You could sit and socialize, or take your lunch to go. It was chilli when I visited, and normally I am not a fan of chilli, but it was sooo good!!!
+photos: []
 ---

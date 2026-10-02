@@ -18,7 +18,7 @@ hours:
   friday: "8:15 AM–6:30 PM"
   saturday: "9:00 AM–1:00 PM"
   sunday: "9:00 AM–1:00 PM"
-photos: ["/photos/catalyst-physio-and-sports-performance-inc-1.jpg", "/photos/catalyst-physio-and-sports-performance-inc-2.jpg", "/photos/catalyst-physio-and-sports-performance-inc-3.jpg"]
+photos: []
 rating: 5
 review_count: 168
 price_range: "$$"

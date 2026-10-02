@@ -12,7 +12,7 @@ phone: "(780) 962-4226"
 website: "https://www.grovedental.ca/?utm_source=google&utm_medium=google_business_profile&utm_campaign=website_click"
 google_maps: "https://maps.google.com/?cid=913958873141503242&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/grove-dental.jpg"
+  - "/photos/grove-dental-g1.jpg"
 reviews:
   - name: "Sam NAJMEDDINE"
     rating: 5

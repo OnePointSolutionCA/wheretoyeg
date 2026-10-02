@@ -11,7 +11,8 @@ phone: "(780) 929-2929"
 website: "https://bdgsmiles.com/"
 google_maps: "https://maps.google.com/?cid=14346598764807591980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/bellevue-dental-group.jpg"
+  - "/photos/bellevue-dental-group-g0.jpg"
+  - "/photos/bellevue-dental-group-g2.jpg"
 reviews:
   - name: "Natasha Mosher"
     rating: 5

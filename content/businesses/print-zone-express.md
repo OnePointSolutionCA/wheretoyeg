@@ -18,7 +18,8 @@ hours:
   friday: "10:30 AM–5:00 PM"
   saturday: "1:00 PM–5:00 PM"
   sunday: "Closed"
-photos: ["/photos/print-zone-express-1.jpg", "/photos/print-zone-express-2.jpg", "/photos/print-zone-express-3.jpg"]
+photos:
+  - "/photos/print-zone-express-2.jpg"
 rating: 4.8
 review_count: 74
 price_range: "$$"

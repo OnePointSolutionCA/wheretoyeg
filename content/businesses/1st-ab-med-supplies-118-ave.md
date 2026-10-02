@@ -19,7 +19,8 @@ hours:
   friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/1st-ab-med-supplies-118-ave.png"]
+photos:
+  - "/photos/1st-ab-med-supplies-116-ave-g0.jpg"
 rating: 5
 review_count: 4
 price_range: "$$"

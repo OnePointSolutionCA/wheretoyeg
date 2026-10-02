@@ -18,7 +18,10 @@ hours:
   friday: "9:00 AM–8:00 PM"
   saturday: "9:00 AM–4:00 PM"
   sunday: "Closed"
-photos: ["/photos/dynamic-chiropractic-massage-1.jpg", "/photos/dynamic-chiropractic-massage-2.jpg", "/photos/dynamic-chiropractic-massage-3.jpg"]
+photos:
+  - "/photos/dynamic-chiropractic-massage-g4.jpg"
+  - "/photos/dynamic-chiropractic-massage-3.jpg"
+  - "/photos/dynamic-chiropractic-massage-2.jpg"
 rating: 4.9
 review_count: 134
 price_range: "$$"

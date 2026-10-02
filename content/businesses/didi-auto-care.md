@@ -11,7 +11,9 @@ tier: "featured"
 phone: "(780) 756-6660"
 google_maps: "https://maps.google.com/?cid=8616389300653933211&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/didi-auto-care.jpg"
+  - "/photos/didi-auto-care-g1.jpg"
+  - "/photos/didi-auto-care-g3.jpg"
+  - "/photos/didi-auto-care-g4.jpg"
 reviews:
   - name: "Sheralee Seabrook"
     rating: 5

@@ -18,7 +18,8 @@ hours:
   friday: "9:00 AM–6:00 PM"
   saturday: "10:00 AM–4:00 PM"
   sunday: "Closed"
-photos: ["/photos/the-lash-and-brow-studio-west-edmonton-1.jpg", "/photos/the-lash-and-brow-studio-west-edmonton-2.jpg", "/photos/the-lash-and-brow-studio-west-edmonton-3.jpg"]
+photos:
+  - "/photos/the-lash-and-brow-studio-west-edmonton-g2.jpg"
 rating: 4.6
 review_count: 34
 price_range: "$$"

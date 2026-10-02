@@ -18,7 +18,7 @@ hours:
   friday: "8:00 AM–8:00 PM"
   saturday: "8:00 AM–8:00 PM"
   sunday: "9:00 AM–5:00 PM"
-photos: ["/photos/jason-scott---tmg-the-mortgage-group---edmonton-mortgage-bro-1.jpg", "/photos/jason-scott---tmg-the-mortgage-group---edmonton-mortgage-bro-2.jpg", "/photos/jason-scott---tmg-the-mortgage-group---edmonton-mortgage-bro-3.jpg"]
+photos: []
 rating: 5
 review_count: 534
 price_range: "$$"

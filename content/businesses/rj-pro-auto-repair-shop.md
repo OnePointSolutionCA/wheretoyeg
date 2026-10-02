@@ -10,8 +10,7 @@ review_count: 28
 tier: "featured"
 phone: "(587) 579-4020"
 google_maps: "https://maps.google.com/?cid=5032646994182966841&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/rj-pro-auto-repair-shop.jpg"
+photos: []
 reviews:
   - name: "kathy davidson"
     rating: 5

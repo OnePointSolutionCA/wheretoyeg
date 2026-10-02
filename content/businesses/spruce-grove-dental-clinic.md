@@ -42,4 +42,5 @@ hours:
   friday: "8:00 AM–2:00 PM"
   saturday: "Closed"
   sunday: "Closed"
+photos: []
 ---

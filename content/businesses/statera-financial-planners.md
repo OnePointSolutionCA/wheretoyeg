@@ -18,7 +18,9 @@ hours:
   friday: "8:00 AM–4:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/statera-financial-planners-1.jpg", "/photos/statera-financial-planners-2.jpg", "/photos/statera-financial-planners-3.jpg"]
+photos:
+  - "/photos/statera-financial-planners-g1.jpg"
+  - "/photos/statera-financial-planners-2.jpg"
 rating: 5
 review_count: 15
 price_range: "$$"

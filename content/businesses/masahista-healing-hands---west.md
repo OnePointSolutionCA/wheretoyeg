@@ -18,7 +18,10 @@ hours:
   friday: "9:00 AM–9:00 PM"
   saturday: "9:00 AM–9:00 PM"
   sunday: "9:00 AM–5:00 PM"
-photos: ["/photos/masahista-healing-hands---west-1.jpg", "/photos/masahista-healing-hands---west-2.jpg", "/photos/masahista-healing-hands---west-3.jpg"]
+photos:
+  - "/photos/masahista-healing-hands---west-2.jpg"
+  - "/photos/masahista-healing-hands---west-g4.jpg"
+  - "/photos/masahista-healing-hands---west-g2.jpg"
 rating: 4.9
 review_count: 574
 price_range: "$$"

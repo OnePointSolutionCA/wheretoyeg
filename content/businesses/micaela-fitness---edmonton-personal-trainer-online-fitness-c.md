@@ -17,7 +17,8 @@ hours:
   friday: "8:00 AM–6:30 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/micaela-fitness---edmonton-personal-trainer-online-fitness-c-1.jpg", "/photos/micaela-fitness---edmonton-personal-trainer-online-fitness-c-2.jpg", "/photos/micaela-fitness---edmonton-personal-trainer-online-fitness-c-3.jpg"]
+photos:
+  - "/photos/micaela-fitness---edmonton-personal-trainer-online-fitness-c-g2.jpg"
 rating: 4.9
 review_count: 35
 price_range: "$$"

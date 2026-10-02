@@ -18,7 +18,10 @@ hours:
   friday: "12:00 PM–3:00 AM"
   saturday: "11:00 AM–3:00 AM"
   sunday: "11:00 AM–1:00 AM"
-photos: ["/photos/overklocked-gaming-1.jpg", "/photos/overklocked-gaming-2.jpg", "/photos/overklocked-gaming-3.jpg"]
+photos:
+  - "/photos/overklocked-gaming-3.jpg"
+  - "/photos/overklocked-gaming-g3.jpg"
+  - "/photos/overklocked-gaming-2.jpg"
 rating: 4.6
 review_count: 453
 price_range: "$$"

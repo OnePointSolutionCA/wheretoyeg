@@ -18,7 +18,8 @@ hours:
   friday: "8:00 AM–9:00 PM"
   saturday: "8:00 AM–9:00 PM"
   sunday: "Closed"
-photos: ["/photos/iconic-junk-removal-edmonton-1.jpg", "/photos/iconic-junk-removal-edmonton-2.jpg", "/photos/iconic-junk-removal-edmonton-3.jpg"]
+photos:
+  - "/photos/iconic-junk-removal-edmonton-3.jpg"
 rating: 5
 review_count: 23
 price_range: "$$"

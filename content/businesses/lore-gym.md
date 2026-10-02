@@ -11,7 +11,8 @@ phone: "(587) 206-0060"
 website: "https://loregym.com/"
 google_maps: "https://maps.google.com/?cid=1539390420950091513&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/lore-gym.jpg"
+  - "/photos/lore-gym-g1.jpg"
+  - "/photos/lore-gym-g0.jpg"
 reviews:
   - name: "Adam Kirby"
     rating: 5

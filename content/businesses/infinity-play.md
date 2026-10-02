@@ -10,7 +10,8 @@ tier: "featured"
 phone: "(780) 999-1003"
 google_maps: "https://maps.google.com/?cid=230405725779518153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/infinity-play.jpg"
+  - "/photos/infinity-play-g0.jpg"
+  - "/photos/infinity-play-g1.jpg"
 reviews:
   - name: "Ayan Ali"
     rating: 5

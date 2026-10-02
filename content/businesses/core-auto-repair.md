@@ -10,8 +10,7 @@ review_count: 41
 tier: "featured"
 phone: "(780) 860-0919"
 google_maps: "https://maps.google.com/?cid=7357831437897751420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/core-auto-repair.jpg"
+photos: []
 reviews:
   - name: "Nick V"
     rating: 5

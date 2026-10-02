@@ -18,7 +18,10 @@ hours:
   friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/black-sheep-realty-1.jpg", "/photos/black-sheep-realty-2.jpg", "/photos/black-sheep-realty-3.jpg"]
+photos:
+  - "/photos/black-sheep-realty-2.jpg"
+  - "/photos/black-sheep-realty-g3.jpg"
+  - "/photos/black-sheep-realty-3.jpg"
 rating: 5
 review_count: 159
 price_range: "$$"

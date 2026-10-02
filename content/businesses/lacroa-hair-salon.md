@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(825) 220-0211"
 website: "https://www.instagram.com/lacroa.studio?igsh=ZnRzMDNrNW4yMm4x&utm_source=qr"
 google_maps: "https://maps.google.com/?cid=270627580195350279&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/lacroa-hair-salon.jpg"
+photos: []
 reviews:
   - name: "Darlene F"
     rating: 5

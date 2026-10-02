@@ -12,7 +12,7 @@ phone: "(780) 460-4663"
 website: "http://www.pisapizzastalbert.ca/"
 google_maps: "https://maps.google.com/?cid=7678608768758788996&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/pisa-pizza-and-pasta.jpg"
+  - "/photos/pisa-pizza-and-pasta-g1.jpg"
 reviews:
   - name: "willinator 79"
     rating: 1

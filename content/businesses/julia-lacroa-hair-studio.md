@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(825) 220-0211"
 website: "https://book.squareup.com/appointments/pvrl2uvc42q8b2/location/L8EQ7PA9G64DT?ahbb=1&gei=PHYXad7hG_Oo0PEPyOyamAg&gsas=1&hl=en-CA&rwg_token=ACgRB3fyZiHLCVHIYa-AIgTYDzeI7J-YHUK4nJKJ3BB-QlY1fdS_y1NTKimZcDH2bDtlL-N_jqhmX6ilKXUDa0P-aLLqqquS7A%3D%3D"
 google_maps: "https://maps.google.com/?cid=14485731713871617092&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/julia-lacroa-hair-studio.jpg"
+photos: []
 reviews:
   - name: "Raynna Matheson"
     rating: 5

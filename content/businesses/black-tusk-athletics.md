@@ -18,7 +18,8 @@ hours:
   friday: "6:00 AM–7:00 PM"
   saturday: "9:00 AM–12:30 PM"
   sunday: "Closed"
-photos: ["/photos/black-tusk-athletics-1.jpg", "/photos/black-tusk-athletics-2.jpg", "/photos/black-tusk-athletics-3.jpg"]
+photos:
+  - "/photos/black-tusk-athletics-g2.jpg"
 rating: 5
 review_count: 95
 price_range: "$$"

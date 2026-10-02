@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(780) 232-5888"
 website: "https://opalrose.square.site/"
 google_maps: "https://maps.google.com/?cid=8976394328431461472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/opal-and-rose.jpg"
+photos: []
 reviews:
   - name: "Cassie Boogers"
     rating: 5

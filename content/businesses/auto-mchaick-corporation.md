@@ -11,7 +11,7 @@ tier: "featured"
 phone: "(780) 716-4451"
 google_maps: "https://maps.google.com/?cid=8604403116647930802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/auto-mchaick-corporation.jpg"
+  - "/photos/auto-mchaick-corporation-g0.jpg"
 reviews:
   - name: "Josef frht"
     rating: 5

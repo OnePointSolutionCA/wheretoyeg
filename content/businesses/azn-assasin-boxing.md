@@ -18,7 +18,9 @@ hours:
   friday: "6:00 AM–8:00 PM"
   saturday: "8:00 AM–2:00 PM"
   sunday: "10:00 AM–2:00 PM"
-photos: ["/photos/azn-assasin-boxing-1.jpg", "/photos/azn-assasin-boxing-2.jpg", "/photos/azn-assasin-boxing-3.jpg"]
+photos:
+  - "/photos/azn-assasin-boxing-3.jpg"
+  - "/photos/azn-assasin-boxing-2.jpg"
 rating: 5
 review_count: 31
 price_range: "$$"

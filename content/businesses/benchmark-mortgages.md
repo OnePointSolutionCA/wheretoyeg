@@ -18,7 +18,9 @@ hours:
   friday: "8:30 AM–4:30 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/benchmark-mortgages-1.jpg", "/photos/benchmark-mortgages-2.jpg", "/photos/benchmark-mortgages-3.jpg"]
+photos:
+  - "/photos/benchmark-mortgages-2.jpg"
+  - "/photos/benchmark-mortgages-g3.jpg"
 rating: 5
 review_count: 602
 price_range: "$$"

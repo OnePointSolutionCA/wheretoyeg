@@ -18,7 +18,9 @@ hours:
   friday: "8:30 AM–4:30 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/dnd-insurance-inc-1.jpg", "/photos/dnd-insurance-inc-2.jpg", "/photos/dnd-insurance-inc-3.jpg"]
+photos:
+  - "/photos/dnd-insurance-inc-2.jpg"
+  - "/photos/dnd-insurance-inc-3.jpg"
 rating: 4.9
 review_count: 675
 price_range: "$$"

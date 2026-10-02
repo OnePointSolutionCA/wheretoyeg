@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(587) 590-4967"
 website: "https://tanjerynestudio.com/"
 google_maps: "https://maps.google.com/?cid=14913982484009877276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/tanjeryne-studio.jpg"
+photos: []
 reviews:
   - name: "Carmen Wall"
     rating: 5

@@ -10,7 +10,8 @@ tier: "featured"
 website: "http://amandajoyphotography.ca/"
 google_maps: "https://maps.google.com/?cid=2647204783282401295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/amanda-joy-photography.jpg"
+  - "/photos/amanda-joy-photography-g4.jpg"
+  - "/photos/amanda-joy-photography-g2.jpg"
 reviews:
   - name: "Michelle Yarmuch"
     rating: 5

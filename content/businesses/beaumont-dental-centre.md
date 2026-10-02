@@ -11,8 +11,7 @@ tier: "featured"
 phone: "(780) 929-2828"
 website: "https://www.beaumontdental.ca/"
 google_maps: "https://maps.google.com/?cid=14040092560425415852&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/beaumont-dental-centre.jpg"
+photos: []
 reviews:
   - name: "JIll Restau"
     rating: 5

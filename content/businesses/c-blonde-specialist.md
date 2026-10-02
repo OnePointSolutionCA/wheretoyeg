@@ -17,7 +17,7 @@ hours:
   friday: "11:00 AM–9:00 PM"
   saturday: "9:00 AM–6:00 PM"
   sunday: "9:00 AM–5:00 PM"
-photos: ["/photos/c-blonde-specialist-1.jpg", "/photos/c-blonde-specialist-2.jpg", "/photos/c-blonde-specialist-3.jpg"]
+photos: []
 rating: 5
 review_count: 26
 price_range: "$$"

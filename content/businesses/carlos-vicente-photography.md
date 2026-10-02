@@ -18,7 +18,9 @@ hours:
   friday: "Closed"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/carlos-vicente-photography-1.jpg", "/photos/carlos-vicente-photography-2.jpg", "/photos/carlos-vicente-photography-3.jpg"]
+photos:
+  - "/photos/carlos-vicente-photography-g0.jpg"
+  - "/photos/carlos-vicente-photography-2.jpg"
 rating: 5
 review_count: 155
 price_range: "$$"

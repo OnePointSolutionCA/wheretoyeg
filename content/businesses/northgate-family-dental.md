@@ -16,7 +16,9 @@ hours:
   friday: "9:00 AM–5:00 PM"
   saturday: "9:00 AM–5:00 PM"
   sunday: "9:00 AM–4:30 PM"
-photos: ["/photos/northgate-family-dental-1.jpg", "/photos/northgate-family-dental-2.jpg", "/photos/northgate-family-dental-3.jpg"]
+photos:
+  - "/photos/northgate-family-dental-2.jpg"
+  - "/photos/northgate-family-dental-3.jpg"
 rating: 4.7
 review_count: 2289
 price_range: "$$"

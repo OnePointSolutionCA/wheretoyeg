@@ -18,7 +18,9 @@ hours:
   friday: "10:00 AM–7:00 PM"
   saturday: "10:00 AM–2:00 PM"
   sunday: "Closed"
-photos: ["/photos/kumon-math-and-reading-centre-of-edmonton---westmount-1.jpg", "/photos/kumon-math-and-reading-centre-of-edmonton---westmount-2.jpg", "/photos/kumon-math-and-reading-centre-of-edmonton---westmount-3.jpg"]
+photos:
+  - "/photos/kumon-math-and-reading-centre-of-edmonton---westmount-g0.jpg"
+  - "/photos/kumon-math-and-reading-centre-of-edmonton---westmount-3.jpg"
 rating: 5
 review_count: 22
 price_range: "$$"

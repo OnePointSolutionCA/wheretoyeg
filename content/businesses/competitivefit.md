@@ -18,7 +18,7 @@ hours:
   friday: "Closed"
   saturday: "Closed"
   sunday: "12:00 AM–11:59 PM"
-photos: ["/photos/competitivefit-1.jpg", "/photos/competitivefit-2.jpg", "/photos/competitivefit-3.jpg"]
+photos: []
 rating: 5
 review_count: 17
 price_range: "$$"

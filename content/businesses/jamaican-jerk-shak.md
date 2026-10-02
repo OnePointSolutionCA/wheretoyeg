@@ -18,7 +18,9 @@ hours:
   friday: "11:00 AM–9:30 PM"
   saturday: "11:00 AM–9:30 PM"
   sunday: "11:00 AM–6:30 PM"
-photos: ["/photos/jamaican-jerk-shak-1.jpg", "/photos/jamaican-jerk-shak-2.jpg", "/photos/jamaican-jerk-shak-3.jpg"]
+photos:
+  - "/photos/jamaican-jerk-shak-2.jpg"
+  - "/photos/jamaican-jerk-shak-g0.jpg"
 rating: 4.7
 review_count: 376
 price_range: "$"

@@ -18,7 +18,9 @@ hours:
   friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/kinder-care-medical-clinic-1.jpg", "/photos/kinder-care-medical-clinic-2.jpg", "/photos/kinder-care-medical-clinic-3.jpg"]
+photos:
+  - "/photos/kinder-care-medical-clinic-2.jpg"
+  - "/photos/kinder-care-medical-clinic-g1.jpg"
 rating: 3.7
 review_count: 100
 price_range: "$$"

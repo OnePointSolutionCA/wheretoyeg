@@ -18,7 +18,9 @@ hours:
   friday: "10:00 AM–9:00 PM"
   saturday: "10:00 AM–9:00 PM"
   sunday: "11:00 AM–6:00 PM"
-photos: ["/photos/elite-massage-care-clinic-inc-1.jpg", "/photos/elite-massage-care-clinic-inc-2.jpg", "/photos/elite-massage-care-clinic-inc-3.jpg"]
+photos:
+  - "/photos/elite-massage-care-clinic-inc-2.jpg"
+  - "/photos/elite-massage-care-clinic-inc-3.jpg"
 rating: 4.9
 review_count: 200
 price_range: "$$"

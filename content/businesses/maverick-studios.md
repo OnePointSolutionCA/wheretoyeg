@@ -18,7 +18,9 @@ hours:
   friday: "12:00 PM–9:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/maverick-studios-1.jpg", "/photos/maverick-studios-2.jpg", "/photos/maverick-studios-3.jpg"]
+photos:
+  - "/photos/maverick-studios-g2.jpg"
+  - "/photos/maverick-studios-g0.jpg"
 rating: 5
 review_count: 74
 price_range: "$$"

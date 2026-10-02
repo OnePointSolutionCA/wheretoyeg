@@ -12,7 +12,9 @@ phone: "(587) 805-5502"
 website: "https://kensingtondentalclinic.ca/?utm_source=GMB&utm_medium=seo&utm_campaign=GBP"
 google_maps: "https://maps.google.com/?cid=10671656649904313720&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/kensington-dental-clinic-edmonton.jpg"
+  - "/photos/kensington-dental-clinic-edmonton-g0.jpg"
+  - "/photos/kensington-dental-clinic-edmonton-g3.jpg"
+  - "/photos/kensington-dental-clinic-edmonton-g2.jpg"
 reviews:
   - name: "Samiha Ibrahim"
     rating: 5

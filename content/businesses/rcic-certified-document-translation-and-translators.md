@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(780) 239-6539"
 website: "http://rcicimmigration.com/"
 google_maps: "https://maps.google.com/?cid=7737692277541760176&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/rcic-certified-document-translation-and-translators.jpg"
+photos: []
 reviews:
   - name: "Sami Mohammed"
     rating: 5

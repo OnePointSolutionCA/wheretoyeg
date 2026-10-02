@@ -18,7 +18,9 @@ hours:
   friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/cdc-tiffin-catering-services-1.jpg", "/photos/cdc-tiffin-catering-services-2.jpg", "/photos/cdc-tiffin-catering-services-3.jpg"]
+photos:
+  - "/photos/cdc-tiffin-catering-services-g1.jpg"
+  - "/photos/cdc-tiffin-catering-services-g0.jpg"
 rating: 5
 review_count: 124
 price_range: "$"

@@ -17,7 +17,9 @@ hours:
   friday: "8:00 AM–10:00 PM"
   saturday: "8:00 AM–10:00 PM"
   sunday: "8:00 AM–10:00 PM"
-photos: ["/photos/hotshot-touchless-auto-wash-1.jpg", "/photos/hotshot-touchless-auto-wash-2.jpg", "/photos/hotshot-touchless-auto-wash-3.jpg"]
+photos:
+  - "/photos/hotshot-touchless-auto-wash-g1.jpg"
+  - "/photos/hotshot-touchless-auto-wash-g3.jpg"
 rating: 4.3
 review_count: 292
 price_range: "$$"

@@ -18,7 +18,9 @@ hours:
   friday: "10:00 AM–7:00 PM"
   saturday: "10:00 AM–6:00 PM"
   sunday: "Closed"
-photos: ["/photos/golden-brows-ltd-1.jpg", "/photos/golden-brows-ltd-2.jpg", "/photos/golden-brows-ltd-3.jpg"]
+photos:
+  - "/photos/golden-brows-ltd-3.jpg"
+  - "/photos/golden-brows-ltd-2.jpg"
 rating: 4.9
 review_count: 322
 price_range: "$$"

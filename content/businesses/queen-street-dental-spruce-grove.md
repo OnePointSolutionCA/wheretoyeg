@@ -12,7 +12,7 @@ phone: "(587) 853-6844"
 website: "https://www.sprucegrovedentist.ca/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Website_URL"
 google_maps: "https://maps.google.com/?cid=17003112302759867415&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/queen-street-dental-spruce-grove.jpg"
+  - "/photos/queen-street-dental-spruce-grove-g0.jpg"
 reviews:
   - name: "Asmir B"
     rating: 5

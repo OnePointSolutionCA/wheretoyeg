@@ -18,7 +18,10 @@ hours:
   friday: "9:00 AM–6:00 PM"
   saturday: "10:00 AM–5:00 PM"
   sunday: "10:00 AM–5:00 PM"
-photos: ["/photos/jane-rose-photography-1.jpg", "/photos/jane-rose-photography-2.jpg", "/photos/jane-rose-photography-3.jpg"]
+photos:
+  - "/photos/jane-rose-photography-g4.jpg"
+  - "/photos/jane-rose-photography-3.jpg"
+  - "/photos/jane-rose-photography-g3.jpg"
 rating: 5
 review_count: 84
 price_range: "$$"

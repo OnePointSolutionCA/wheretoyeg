@@ -11,8 +11,7 @@ tier: "featured"
 phone: "(587) 853-5673"
 website: "https://www.bluenoseautomotive.ca/"
 google_maps: "https://maps.google.com/?cid=17892374163238324011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/bluenose-automotive.jpg"
+photos: []
 reviews:
   - name: "Grant Cantin"
     rating: 1

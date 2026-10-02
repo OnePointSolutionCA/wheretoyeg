@@ -18,7 +18,7 @@ hours:
   friday: "8:30 AM–4:30 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/capital-insurance-brokers---northwest-edmonton-1.jpg", "/photos/capital-insurance-brokers---northwest-edmonton-2.jpg", "/photos/capital-insurance-brokers---northwest-edmonton-3.jpg"]
+photos: []
 rating: 4.8
 review_count: 247
 price_range: "$$"

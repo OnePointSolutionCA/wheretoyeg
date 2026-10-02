@@ -11,7 +11,8 @@ phone: "(587) 480-7446"
 website: "https://playactivate.com/edmonton-south"
 google_maps: "https://maps.google.com/?cid=1855353968865242944&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/activate-edmonton-south.jpg"
+  - "/photos/activate-edmonton-south-g1.jpg"
+  - "/photos/activate-edmonton-south-g2.jpg"
 reviews:
   - name: "Nicole Y."
     rating: 5

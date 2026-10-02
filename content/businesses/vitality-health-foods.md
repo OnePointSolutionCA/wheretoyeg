@@ -18,7 +18,8 @@ hours:
   friday: "10:00 AM–6:00 PM"
   saturday: "10:00 AM–5:30 PM"
   sunday: "12:00 PM–5:00 PM"
-photos: ["/photos/vitality-health-foods-1.jpg", "/photos/vitality-health-foods-2.jpg", "/photos/vitality-health-foods-3.jpg"]
+photos:
+  - "/photos/vitality-health-foods-2.jpg"
 rating: 4.6
 review_count: 27
 price_range: "$$"

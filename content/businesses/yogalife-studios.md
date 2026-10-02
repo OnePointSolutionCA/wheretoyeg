@@ -18,7 +18,10 @@ hours:
   friday: "9:00 AM–12:00 PM"
   saturday: "8:00 AM–2:00 PM"
   sunday: "9:00 AM–5:00 PM"
-photos: ["/photos/yogalife-studios-1.jpg", "/photos/yogalife-studios-2.jpg", "/photos/yogalife-studios-3.jpg"]
+photos:
+  - "/photos/yogalife-studios-3.jpg"
+  - "/photos/yogalife-studios-g2.jpg"
+  - "/photos/yogalife-studios-g3.jpg"
 rating: 4.6
 review_count: 212
 price_range: "$$"

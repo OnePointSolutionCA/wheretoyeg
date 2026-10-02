@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(780) 616-0398"
 website: "https://www.bright-shine-clinic.com/"
 google_maps: "https://maps.google.com/?cid=10164584880893076545&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/bright-and-shine-teeth-whitening.jpg"
+photos: []
 reviews:
   - name: "isha verma"
     rating: 5

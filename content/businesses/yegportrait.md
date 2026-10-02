@@ -18,7 +18,10 @@ hours:
   friday: "9:00 AM–5:00 PM"
   saturday: "9:00 AM–5:00 PM"
   sunday: "Closed"
-photos: ["/photos/yegportrait-1.jpg", "/photos/yegportrait-2.jpg", "/photos/yegportrait-3.jpg"]
+photos:
+  - "/photos/yegportrait-2.jpg"
+  - "/photos/yegportrait-g1.jpg"
+  - "/photos/yegportrait-g2.jpg"
 rating: 5
 review_count: 16
 price_range: "$$"

@@ -18,7 +18,9 @@ hours:
   friday: "6:30 AM–7:00 PM"
   saturday: "8:00 AM–5:00 PM"
   sunday: "Closed"
-photos: ["/photos/waggytails-1.jpg", "/photos/waggytails-2.jpg", "/photos/waggytails-3.jpg"]
+photos:
+  - "/photos/waggytails-3.jpg"
+  - "/photos/waggytails-2.jpg"
 rating: 4.6
 review_count: 182
 price_range: "$$"

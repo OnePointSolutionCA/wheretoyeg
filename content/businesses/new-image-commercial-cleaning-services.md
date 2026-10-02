@@ -18,7 +18,8 @@ hours:
   friday: "9:00 AM - 7:00 PM"
   saturday: "9:00 AM - 7:00 PM"
   sunday: "Closed"
-photos: ["/photos/new-image-commercial-cleaning-services-1.jpg", "/photos/new-image-commercial-cleaning-services-2.jpg", "/photos/new-image-commercial-cleaning-services-3.jpg"]
+photos:
+  - "/photos/new-image-commercial-cleaning-services-3.jpg"
 rating: 5
 review_count: 44
 price_range: "$$"

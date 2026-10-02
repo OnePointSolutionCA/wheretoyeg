@@ -9,8 +9,7 @@ review_count: 16
 tier: "featured"
 phone: "(780) 665-6764"
 google_maps: "https://maps.google.com/?cid=2933808873985763834&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/koko-grill.jpg"
+photos: []
 reviews:
   - name: "Randy Rusnell"
     rating: 5

@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(780) 571-2121"
 website: "http://www.dispensariesltd.ca/"
 google_maps: "https://maps.google.com/?cid=6610957427643045847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/progressive-health-pharmacy-now-dispensaries-ltd.jpg"
+photos: []
 reviews:
   - name: "Kayle"
     rating: 5

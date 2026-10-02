@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(780) 406-3937"
 website: "http://northtownoptometry.com/"
 google_maps: "https://maps.google.com/?cid=4255202175655791233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/north-town-optometry.jpg"
+photos: []
 reviews:
   - name: "Morris Chaban"
     rating: 5

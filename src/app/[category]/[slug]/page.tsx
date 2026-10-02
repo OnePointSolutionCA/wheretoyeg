@@ -307,7 +307,9 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
                   ) : (
                     <StarRating value={0} />
                   )}
-                  <span className="inline-flex min-h-[32px] items-center rounded-full border border-line bg-white px-3 font-semibold text-teal shadow-sm">{b.price_range}</span>
+                  {b.price_range && (
+                    <span className="inline-flex min-h-[32px] items-center rounded-full border border-line bg-white px-3 font-semibold text-teal shadow-sm">{b.price_range}</span>
+                  )}
                   <span className="inline-flex min-h-[32px] items-center gap-1.5 rounded-full border border-line bg-white px-3 text-teal shadow-sm">
                     <PinIcon size={14} className="text-coral" /> {place}
                   </span>
@@ -326,7 +328,7 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
 
       {/* GALLERY */}
       <section className="container-page mt-6 sm:mt-8">
-        <BusinessGallery photos={b.photos} name={b.name} logo={b.logo} categoryName={cat.name} slug={b.slug} />
+        <BusinessGallery photos={b.photos} name={b.name} logo={b.logo} categoryName={cat.name} category={b.category} />
       </section>
 
       {/* BODY */}

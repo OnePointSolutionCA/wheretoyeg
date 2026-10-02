@@ -18,7 +18,9 @@ hours:
   friday: "5:30 AM–12:00 PM"
   saturday: "7:00 AM–1:00 PM"
   sunday: "7:30 AM–2:00 PM"
-photos: ["/photos/house-of-lagree---central-1.jpg", "/photos/house-of-lagree---central-2.jpg", "/photos/house-of-lagree---central-3.jpg"]
+photos:
+  - "/photos/house-of-lagree---central-2.jpg"
+  - "/photos/house-of-lagree---central-3.jpg"
 rating: 5
 review_count: 162
 price_range: "$$"

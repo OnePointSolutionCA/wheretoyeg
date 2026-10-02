@@ -18,7 +18,8 @@ hours:
   friday: "8:00 AM–6:00 PM"
   saturday: "8:00 AM–12:00 PM"
   sunday: "8:00 AM–12:00 PM"
-photos: ["/photos/select-carpet-upholstery-cleaning-1.jpg", "/photos/select-carpet-upholstery-cleaning-2.jpg", "/photos/select-carpet-upholstery-cleaning-3.jpg"]
+photos:
+  - "/photos/select-carpet-upholstery-cleaning-2.jpg"
 rating: 4.7
 review_count: 136
 price_range: "$$$$"

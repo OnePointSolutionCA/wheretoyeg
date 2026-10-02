@@ -18,7 +18,9 @@ hours:
   friday: "6:30 AM–6:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/little-wonders-daycare-inc-1.jpg", "/photos/little-wonders-daycare-inc-2.jpg", "/photos/little-wonders-daycare-inc-3.jpg"]
+photos:
+  - "/photos/little-wonders-daycare-inc-g3.jpg"
+  - "/photos/little-wonders-daycare-inc-2.jpg"
 rating: 4.8
 review_count: 37
 price_range: "$$"

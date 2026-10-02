@@ -12,7 +12,9 @@ phone: "(780) 989-5733"
 website: "https://smilezone.net/?utm_source=GBP&utm_medium=button&utm_campaign=Home"
 google_maps: "https://maps.google.com/?cid=9648596344216002999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/smile-zone.jpg"
+  - "/photos/smile-zone-g1.jpg"
+  - "/photos/smile-zone-g2.jpg"
+  - "/photos/smile-zone-g3.jpg"
 reviews:
   - name: "Yoreana Ramos"
     rating: 5

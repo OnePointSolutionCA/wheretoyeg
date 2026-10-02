@@ -10,8 +10,7 @@ review_count: 6
 tier: "featured"
 phone: "(306) 261-6510"
 google_maps: "https://maps.google.com/?cid=12549912533597391957&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/stardom-truck-and-trailer-mobile-repair.jpg"
+photos: []
 reviews:
   - name: "Anhad Biyan"
     rating: 5

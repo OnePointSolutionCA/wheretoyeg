@@ -18,7 +18,10 @@ hours:
   friday: "1:30 PM–8:45 PM"
   saturday: "11:00 AM–10:00 PM"
   sunday: "11:00 AM–6:30 PM"
-photos: ["/photos/game-ovr-1.jpg", "/photos/game-ovr-2.jpg", "/photos/game-ovr-3.jpg"]
+photos:
+  - "/photos/game-ovr-3.jpg"
+  - "/photos/game-ovr-g2.jpg"
+  - "/photos/game-ovr-g3.jpg"
 rating: 4.8
 review_count: 599
 price_range: "$$"

@@ -18,7 +18,10 @@ hours:
   friday: "7:00 AM–8:00 PM"
   saturday: "7:00 AM–8:00 PM"
   sunday: "7:00 AM–8:00 PM"
-photos: ["/photos/the-breadhaus-1.jpg", "/photos/the-breadhaus-2.jpg", "/photos/the-breadhaus-3.jpg"]
+photos:
+  - "/photos/the-breadhaus-3.jpg"
+  - "/photos/the-breadhaus-2.jpg"
+  - "/photos/the-breadhaus-g1.jpg"
 rating: 4.2
 review_count: 132
 price_range: "$$"

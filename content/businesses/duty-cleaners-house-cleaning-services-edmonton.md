@@ -18,7 +18,8 @@ hours:
   friday: "8:00 AM–8:00 PM"
   saturday: "8:00 AM–8:00 PM"
   sunday: "9:00 AM–3:00 PM"
-photos: ["/photos/duty-cleaners-house-cleaning-services-edmonton-1.jpg", "/photos/duty-cleaners-house-cleaning-services-edmonton-2.jpg", "/photos/duty-cleaners-house-cleaning-services-edmonton-3.jpg"]
+photos:
+  - "/photos/duty-cleaners-house-cleaning-services-edmonton-2.jpg"
 rating: 4.9
 review_count: 240
 price_range: "$$"

@@ -9,8 +9,7 @@ review_count: 36
 tier: "featured"
 website: "https://breeziehairloft.com/"
 google_maps: "https://maps.google.com/?cid=9738972812791368123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/breezie-hair-loft.jpg"
+photos: []
 reviews:
   - name: "K Ibsen"
     rating: 5

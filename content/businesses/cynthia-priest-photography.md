@@ -18,7 +18,10 @@ hours:
   friday: "10:00 AM–11:00 AM"
   saturday: "8:00 AM–9:00 PM"
   sunday: "10:00 AM–8:00 PM"
-photos: ["/photos/cynthia-priest-photography-1.jpg", "/photos/cynthia-priest-photography-2.jpg", "/photos/cynthia-priest-photography-3.jpg"]
+photos:
+  - "/photos/cynthia-priest-photography-2.jpg"
+  - "/photos/cynthia-priest-photography-g4.jpg"
+  - "/photos/cynthia-priest-photography-g2.jpg"
 rating: 4.9
 review_count: 96
 price_range: "$$"

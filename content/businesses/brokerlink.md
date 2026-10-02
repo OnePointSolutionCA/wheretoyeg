@@ -18,7 +18,9 @@ hours:
   friday: "8:30 AM–4:30 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/brokerlink-1.jpg", "/photos/brokerlink-2.jpg", "/photos/brokerlink-3.jpg"]
+photos:
+  - "/photos/brokerlink-g0.jpg"
+  - "/photos/brokerlink-g3.jpg"
 rating: 4.9
 review_count: 2648
 price_range: "$$"

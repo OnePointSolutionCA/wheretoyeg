@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(780) 706-0832"
 website: "https://www.kaitysbeautique.ca/"
 google_maps: "https://maps.google.com/?cid=15260105033322708356&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/kaitys-beautique.jpg"
+photos: []
 reviews:
   - name: "Corissa L"
     rating: 5

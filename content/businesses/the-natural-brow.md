@@ -18,7 +18,7 @@ hours:
   friday: "10:00 AM–6:00 PM"
   saturday: "9:00 AM–3:00 PM"
   sunday: "Closed"
-photos: ["/photos/the-natural-brow-1.jpg", "/photos/the-natural-brow-2.jpg", "/photos/the-natural-brow-3.jpg"]
+photos: []
 rating: 4.9
 review_count: 41
 price_range: "$$"

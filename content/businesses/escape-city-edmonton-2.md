@@ -18,7 +18,10 @@ hours:
   friday: "2:30 PM–12:00 AM"
   saturday: "10:30 AM–12:00 AM"
   sunday: "10:30 AM–10:00 PM"
-photos: ["/photos/escape-city-edmonton-2-1.jpg", "/photos/escape-city-edmonton-2-2.jpg", "/photos/escape-city-edmonton-2-3.jpg"]
+photos:
+  - "/photos/escape-city-edmonton-2-g1.jpg"
+  - "/photos/escape-city-edmonton-2-g3.jpg"
+  - "/photos/escape-city-edmonton-2-3.jpg"
 rating: 4.7
 review_count: 1073
 price_range: "$$"

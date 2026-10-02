@@ -11,7 +11,8 @@ phone: "(780) 960-3666"
 website: "http://www.atmospherebeautylounge.com/"
 google_maps: "https://maps.google.com/?cid=5407896108016922390&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/atmosphere-beauty-lounge-inc.jpg"
+  - "/photos/atmosphere-beauty-lounge-inc-g0.jpg"
+  - "/photos/atmosphere-beauty-lounge-inc-g1.jpg"
 reviews:
   - name: "Paige Tracy"
     rating: 5

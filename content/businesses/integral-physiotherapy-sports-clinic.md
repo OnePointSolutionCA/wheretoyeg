@@ -18,7 +18,9 @@ hours:
   friday: "7:30 AM–7:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/integral-physiotherapy-sports-clinic-1.jpg", "/photos/integral-physiotherapy-sports-clinic-2.jpg", "/photos/integral-physiotherapy-sports-clinic-3.jpg"]
+photos:
+  - "/photos/integral-physiotherapy-sports-clinic-3.jpg"
+  - "/photos/integral-physiotherapy-sports-clinic-2.jpg"
 rating: 4.9
 review_count: 841
 price_range: "$$"

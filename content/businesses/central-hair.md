@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(780) 962-4142"
 website: "https://www.vagaro.com/centralhair"
 google_maps: "https://maps.google.com/?cid=3455089340339944930&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/central-hair.jpg"
+photos: []
 reviews:
   - name: "Jessika Kelsi"
     rating: 5

@@ -11,8 +11,7 @@ tier: "featured"
 phone: "(780) 760-7467"
 website: "http://www.127automechanic.ca/"
 google_maps: "https://maps.google.com/?cid=816722349452796087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/127-auto-mechanic.jpg"
+photos: []
 reviews:
   - name: "Aryaman Theregoda"
     rating: 1

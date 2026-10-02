@@ -11,7 +11,8 @@ phone: "(780) 700-6690"
 website: "http://www.elizabethfayephotography.com/"
 google_maps: "https://maps.google.com/?cid=1794509564247920924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/elizabeth-faye-photography.jpg"
+  - "/photos/elizabeth-faye-photography-g3.jpg"
+  - "/photos/elizabeth-faye-photography-g2.jpg"
 reviews:
   - name: "De La Torre"
     rating: 5

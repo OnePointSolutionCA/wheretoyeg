@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(780) 900-3848"
 website: "https://www.chateaucleaning.ca/"
 google_maps: "https://maps.google.com/?cid=412225857736095212&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/chateau-clean.jpg"
+photos: []
 reviews:
   - name: "Victor V"
     rating: 5

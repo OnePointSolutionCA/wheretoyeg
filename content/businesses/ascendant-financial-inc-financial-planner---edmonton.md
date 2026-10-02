@@ -18,7 +18,7 @@ hours:
   friday: "8:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/ascendant-financial-inc-financial-planner---edmonton-1.jpg", "/photos/ascendant-financial-inc-financial-planner---edmonton-2.jpg"]
+photos: []
 rating: 5
 review_count: 762
 price_range: "$$"

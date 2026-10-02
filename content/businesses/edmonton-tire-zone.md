@@ -10,8 +10,7 @@ review_count: 53
 tier: "featured"
 phone: "(587) 982-9308"
 google_maps: "https://maps.google.com/?cid=7229705880694688407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/edmonton-tire-zone.jpg"
+photos: []
 reviews:
   - name: "Baldeep Singh"
     rating: 5

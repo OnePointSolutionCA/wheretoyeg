@@ -18,7 +18,10 @@ hours:
   friday: "10:00 AM–10:00 PM"
   saturday: "10:00 AM–10:00 PM"
   sunday: "10:00 AM–10:00 PM"
-photos: ["/photos/juicy-chills-1.jpg", "/photos/juicy-chills-2.jpg", "/photos/juicy-chills-3.jpg"]
+photos:
+  - "/photos/juicy-chills-2.jpg"
+  - "/photos/juicy-chills-g2.jpg"
+  - "/photos/juicy-chills-g0.jpg"
 rating: 4.4
 review_count: 502
 price_range: "$"

@@ -11,7 +11,8 @@ phone: "(780) 463-6055"
 website: "http://sidhulaw.com/"
 google_maps: "https://maps.google.com/?cid=8239962104736903987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/r-k-sidhu-law-office.jpg"
+  - "/photos/r-k-sidhu-law-office-g0.jpg"
+  - "/photos/r-k-sidhu-law-office-g1.jpg"
 reviews:
   - name: "Joan Valladares"
     rating: 5

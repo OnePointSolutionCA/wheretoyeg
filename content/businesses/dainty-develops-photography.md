@@ -17,7 +17,10 @@ hours:
   friday: "Closed"
   saturday: "Closed"
   sunday: "12:00 AM–11:59 PM"
-photos: ["/photos/dainty-develops-photography-1.jpg", "/photos/dainty-develops-photography-2.jpg", "/photos/dainty-develops-photography-3.jpg"]
+photos:
+  - "/photos/dainty-develops-photography-g1.jpg"
+  - "/photos/dainty-develops-photography-2.jpg"
+  - "/photos/dainty-develops-photography-g2.jpg"
 rating: 5
 review_count: 63
 price_range: "$$"

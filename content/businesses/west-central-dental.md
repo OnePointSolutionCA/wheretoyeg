@@ -18,7 +18,10 @@ hours:
   friday: "7:00 AM–3:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/west-central-dental-1.jpg", "/photos/west-central-dental-2.jpg", "/photos/west-central-dental-3.jpg"]
+photos:
+  - "/photos/west-central-dental-3.jpg"
+  - "/photos/west-central-dental-g3.jpg"
+  - "/photos/west-central-dental-g2.jpg"
 rating: 4.9
 review_count: 387
 price_range: "$$"

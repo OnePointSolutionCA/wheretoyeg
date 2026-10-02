@@ -18,7 +18,9 @@ hours:
   friday: "11:30 AM–12:00 AM"
   saturday: "11:30 AM–12:00 AM"
   sunday: "11:30 AM–10:00 PM"
-photos: ["/photos/mr-halal-burger-3-1.jpg", "/photos/mr-halal-burger-3-2.jpg", "/photos/mr-halal-burger-3-3.jpg"]
+photos:
+  - "/photos/mr-halal-burger-3-3.jpg"
+  - "/photos/mr-halal-burger-3-g3.jpg"
 rating: 4.4
 review_count: 58
 price_range: "$"

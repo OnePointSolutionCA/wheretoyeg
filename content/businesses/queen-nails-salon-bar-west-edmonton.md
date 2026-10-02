@@ -18,7 +18,7 @@ hours:
   friday: "9:30 AM–8:00 PM"
   saturday: "9:30 AM–8:00 PM"
   sunday: "10:00 AM–8:00 PM"
-photos: ["/photos/queen-nails-salon-bar-west-edmonton-1.jpg", "/photos/queen-nails-salon-bar-west-edmonton-2.jpg", "/photos/queen-nails-salon-bar-west-edmonton-3.jpg"]
+photos: []
 rating: 4.7
 review_count: 210
 price_range: "$$"

@@ -18,7 +18,10 @@ hours:
   friday: "7:00 AM–7:00 PM"
   saturday: "8:00 AM–5:30 PM"
   sunday: "8:00 AM–5:30 PM"
-photos: ["/photos/two-small-men-with-big-hearts-moving-1.jpg", "/photos/two-small-men-with-big-hearts-moving-2.jpg", "/photos/two-small-men-with-big-hearts-moving-3.jpg"]
+photos:
+  - "/photos/two-small-men-with-big-hearts-moving-2.jpg"
+  - "/photos/two-small-men-with-big-hearts-moving-g3.jpg"
+  - "/photos/two-small-men-with-big-hearts-moving-g2.jpg"
 rating: 4.7
 review_count: 1519
 price_range: "$$$$"

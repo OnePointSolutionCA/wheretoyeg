@@ -18,7 +18,9 @@ hours:
   friday: "7:00 AM–9:00 PM"
   saturday: "7:00 AM–9:00 PM"
   sunday: "9:00 AM–9:00 PM"
-photos: ["/photos/new-skin-laser-studio-1.jpg", "/photos/new-skin-laser-studio-2.jpg", "/photos/new-skin-laser-studio-3.jpg"]
+photos:
+  - "/photos/new-skin-laser-studio-3.jpg"
+  - "/photos/new-skin-laser-studio-g3.jpg"
 rating: 4.8
 review_count: 312
 price_range: "$$"

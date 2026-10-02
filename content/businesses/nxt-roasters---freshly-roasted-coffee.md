@@ -18,7 +18,9 @@ hours:
   friday: "8:00 AM–5:30 PM"
   saturday: "8:00 AM–5:30 PM"
   sunday: "Closed"
-photos: ["/photos/nxt-roasters---freshly-roasted-coffee-1.jpg", "/photos/nxt-roasters---freshly-roasted-coffee-2.jpg", "/photos/nxt-roasters---freshly-roasted-coffee-3.jpg"]
+photos:
+  - "/photos/nxt-roasters---freshly-roasted-coffee-g0.jpg"
+  - "/photos/nxt-roasters---freshly-roasted-coffee-2.jpg"
 rating: 4.9
 review_count: 113
 price_range: "$$"

@@ -18,7 +18,9 @@ hours:
   friday: "6:30 AM–6:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/little-nemos-daycare-1.jpg", "/photos/little-nemos-daycare-2.jpg", "/photos/little-nemos-daycare-3.jpg"]
+photos:
+  - "/photos/little-nemos-daycare-2.jpg"
+  - "/photos/little-nemos-daycare-g4.jpg"
 rating: 4.8
 review_count: 33
 price_range: "$$"

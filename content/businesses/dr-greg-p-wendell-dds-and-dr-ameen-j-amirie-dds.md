@@ -11,8 +11,7 @@ tier: "featured"
 phone: "(780) 962-4226"
 website: "http://grovedental.ca/"
 google_maps: "https://maps.google.com/?cid=7123170004437818247&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/dr-greg-p-wendell-dds-and-dr-ameen-j-amirie-dds.jpg"
+photos: []
 reviews:
   - name: "Kurt Fadrny"
     rating: 5

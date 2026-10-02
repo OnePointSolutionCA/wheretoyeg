@@ -18,7 +18,8 @@ hours:
   friday: "Closed"
   saturday: "Closed"
   sunday: "12:00 AM–11:59 PM"
-photos: ["/photos/edmonton-junk-removal-garbage-bin-rentals-1.jpg", "/photos/edmonton-junk-removal-garbage-bin-rentals-2.jpg", "/photos/edmonton-junk-removal-garbage-bin-rentals-3.jpg"]
+photos:
+  - "/photos/edmonton-junk-removal-garbage-bin-rentals-2.jpg"
 rating: 5
 review_count: 399
 price_range: "$$"

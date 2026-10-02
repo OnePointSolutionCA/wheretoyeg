@@ -18,7 +18,9 @@ hours:
   friday: "8:00 AM–6:00 PM"
   saturday: "8:00 AM–4:00 PM"
   sunday: "Closed"
-photos: ["/photos/oh-my-dog-spa-and-grooming-1.jpg", "/photos/oh-my-dog-spa-and-grooming-2.jpg", "/photos/oh-my-dog-spa-and-grooming-3.jpg"]
+photos:
+  - "/photos/oh-my-dog-spa-and-grooming-2.jpg"
+  - "/photos/oh-my-dog-spa-and-grooming-g0.jpg"
 rating: 4.9
 review_count: 649
 price_range: "$$"

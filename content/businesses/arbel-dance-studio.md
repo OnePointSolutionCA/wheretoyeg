@@ -18,7 +18,7 @@ hours:
   friday: "5:00 PM–8:00 PM"
   saturday: "1:00 PM–5:00 PM"
   sunday: "Closed"
-photos: ["/photos/arbel-dance-studio-1.jpg"]
+photos: []
 rating: 5
 review_count: 18
 price_range: "$$"

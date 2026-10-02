@@ -18,7 +18,10 @@ hours:
   friday: "9:00 AM–5:00 PM"
   saturday: "9:00 AM–5:00 PM"
   sunday: "9:00 AM–5:00 PM"
-photos: ["/photos/wild-love-photos-1.jpg", "/photos/wild-love-photos-2.jpg", "/photos/wild-love-photos-3.jpg"]
+photos:
+  - "/photos/wild-love-photos-g4.jpg"
+  - "/photos/wild-love-photos-g0.jpg"
+  - "/photos/wild-love-photos-g3.jpg"
 rating: 5
 review_count: 119
 price_range: "$$"

@@ -18,7 +18,9 @@ hours:
   friday: "8:00 AM–5:00 PM"
   saturday: "9:00 AM–3:00 PM"
   sunday: "Closed"
-photos: ["/photos/windshield-surgeons-auto-glass-1.jpg", "/photos/windshield-surgeons-auto-glass-2.jpg", "/photos/windshield-surgeons-auto-glass-3.jpg"]
+photos:
+  - "/photos/windshield-surgeons-auto-glass-3.jpg"
+  - "/photos/windshield-surgeons-auto-glass-g4.jpg"
 rating: 4.8
 review_count: 1457
 price_range: "$$"

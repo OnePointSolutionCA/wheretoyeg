@@ -17,7 +17,9 @@ hours:
   friday: "8:30 AM–5:00 PM"
   saturday: "10:00 AM–3:00 PM"
   sunday: "10:00 AM–1:00 PM"
-photos: ["/photos/med-supplies-edmonton-1.jpg", "/photos/med-supplies-edmonton-2.jpg", "/photos/med-supplies-edmonton-3.jpg"]
+photos:
+  - "/photos/med-supplies-edmonton-g1.jpg"
+  - "/photos/med-supplies-edmonton-g2.jpg"
 rating: 4.8
 review_count: 250
 price_range: "$$"

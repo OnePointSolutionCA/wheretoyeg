@@ -11,7 +11,8 @@ phone: "(587) 841-5239"
 website: "https://certifiedgreencleaning.com/edmonton-janitorial"
 google_maps: "https://maps.google.com/?cid=17650372623953665285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/certified-green-cleaning-edmonton.jpg"
+  - "/photos/certified-green-cleaning-edmonton-g0.jpg"
+  - "/photos/certified-green-cleaning-edmonton-g2.jpg"
 hours:
   monday: "9:00 AM–5:00 PM"
   tuesday: "9:00 AM–5:00 PM"

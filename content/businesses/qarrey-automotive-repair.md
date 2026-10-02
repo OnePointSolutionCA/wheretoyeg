@@ -11,8 +11,7 @@ tier: "featured"
 phone: "(780) 705-8161"
 website: "http://qarreyauto.com/"
 google_maps: "https://maps.google.com/?cid=6798991786349624398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/qarrey-automotive-repair.jpg"
+photos: []
 reviews:
   - name: "Oyuki San (私の殺人的な胸)"
     rating: 5

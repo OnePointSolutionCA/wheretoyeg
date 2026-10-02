@@ -18,7 +18,9 @@ hours:
   friday: "9:00 AM–7:00 PM"
   saturday: "10:00 AM–6:00 PM"
   sunday: "11:00 AM–4:00 PM"
-photos: ["/photos/health-matters-store-wellness-clinic-1.jpg", "/photos/health-matters-store-wellness-clinic-2.jpg", "/photos/health-matters-store-wellness-clinic-3.jpg"]
+photos:
+  - "/photos/health-matters-store-wellness-clinic-g0.jpg"
+  - "/photos/health-matters-store-wellness-clinic-2.jpg"
 rating: 4.6
 review_count: 133
 price_range: "$$"

@@ -18,7 +18,10 @@ hours:
   friday: "Closed"
   saturday: "Closed"
   sunday: "12:00 AM–11:59 PM"
-photos: ["/photos/painters-edmonton-co-1.jpg", "/photos/painters-edmonton-co-2.jpg", "/photos/painters-edmonton-co-3.jpg"]
+photos:
+  - "/photos/painters-edmonton-co-2.jpg"
+  - "/photos/painters-edmonton-co-g1.jpg"
+  - "/photos/painters-edmonton-co-g3.jpg"
 rating: 5
 review_count: 47
 price_range: "$$"

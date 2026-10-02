@@ -18,7 +18,10 @@ hours:
   friday: "6:00 AM–11:00 PM"
   saturday: "6:00 AM–11:00 PM"
   sunday: "6:00 AM–11:00 PM"
-photos: ["/photos/albatross-roofing-1.jpg", "/photos/albatross-roofing-2.jpg", "/photos/albatross-roofing-3.jpg"]
+photos:
+  - "/photos/albatross-roofing-g3.jpg"
+  - "/photos/albatross-roofing-3.jpg"
+  - "/photos/albatross-roofing-g4.jpg"
 rating: 4.8
 review_count: 136
 price_range: "$$"

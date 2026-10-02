@@ -18,7 +18,8 @@ hours:
   friday: "10:00 AM–8:00 PM"
   saturday: "10:00 AM–8:00 PM"
   sunday: "11:00 AM–6:00 PM"
-photos: ["/photos/drip-n-whip-1.jpg", "/photos/drip-n-whip-2.jpg", "/photos/drip-n-whip-3.jpg"]
+photos:
+  - "/photos/drip-n-whip-3.jpg"
 rating: 4.9
 review_count: 175
 price_range: "$$"

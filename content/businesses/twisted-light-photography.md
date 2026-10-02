@@ -18,7 +18,8 @@ hours:
   friday: "10:00 AM–4:00 PM"
   saturday: "10:00 AM–4:00 PM"
   sunday: "Closed"
-photos: ["/photos/twisted-light-photography-1.jpg", "/photos/twisted-light-photography-2.jpg", "/photos/twisted-light-photography-3.jpg"]
+photos:
+  - "/photos/twisted-light-photography-g3.jpg"
 rating: 4.9
 review_count: 50
 price_range: "$$"

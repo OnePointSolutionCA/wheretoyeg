@@ -18,7 +18,10 @@ hours:
   friday: "8:30 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/jan-pro-edmonton-1.jpg", "/photos/jan-pro-edmonton-2.jpg", "/photos/jan-pro-edmonton-3.jpg"]
+photos:
+  - "/photos/jan-pro-edmonton-g2.jpg"
+  - "/photos/jan-pro-edmonton-g4.jpg"
+  - "/photos/jan-pro-edmonton-g1.jpg"
 rating: 4.7
 review_count: 137
 price_range: "$$"

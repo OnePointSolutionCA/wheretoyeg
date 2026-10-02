@@ -18,7 +18,10 @@ hours:
   friday: "6:00 AM–7:00 PM"
   saturday: "7:00 AM–2:00 PM"
   sunday: "Closed"
-photos: ["/photos/body-in-fushion-inc-1.jpg", "/photos/body-in-fushion-inc-2.jpg", "/photos/body-in-fushion-inc-3.jpg"]
+photos:
+  - "/photos/body-in-fushion-inc-g1.jpg"
+  - "/photos/body-in-fushion-inc-3.jpg"
+  - "/photos/body-in-fushion-inc-g4.jpg"
 rating: 5
 review_count: 72
 price_range: "$$"

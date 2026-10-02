@@ -12,7 +12,8 @@ phone: "(587) 453-3302"
 website: "https://freshslice.com/"
 google_maps: "https://maps.google.com/?cid=18266134303646244932&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/freshslice-pizza.jpg"
+  - "/photos/freshslice-pizza-g0.jpg"
+  - "/photos/freshslice-pizza-g3.jpg"
 reviews:
   - name: "Maksim Mamlyuk"
     rating: 5

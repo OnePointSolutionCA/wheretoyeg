@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(780) 716-6334"
 website: "https://khalidcleaning.com/"
 google_maps: "https://maps.google.com/?cid=14594040939521440196&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/khalid-cleaning.jpg"
+photos: []
 reviews:
   - name: "Christian Biglete"
     rating: 5

@@ -18,7 +18,9 @@ hours:
   friday: "Closed"
   saturday: "Closed"
   sunday: "12:00 AM–11:59 PM"
-photos: ["/photos/jeneen-marchant-1.jpg", "/photos/jeneen-marchant-2.jpg", "/photos/jeneen-marchant-3.jpg"]
+photos:
+  - "/photos/jeneen-marchant-g2.jpg"
+  - "/photos/jeneen-marchant-2.jpg"
 rating: 5
 review_count: 200
 price_range: "$$"

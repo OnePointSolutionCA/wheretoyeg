@@ -9,8 +9,7 @@ review_count: 10
 tier: "featured"
 phone: "(780) 885-3411"
 google_maps: "https://maps.google.com/?cid=5012963096868332595&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/beaumont-spa-and-beauty.jpg"
+photos: []
 reviews:
   - name: "Sukhman Bains"
     rating: 5

@@ -18,7 +18,7 @@ hours:
   friday: "11:00 AM–6:00 PM"
   saturday: "9:00 AM–4:00 PM"
   sunday: "Closed"
-photos: ["/photos/dirty-blonde-studio-1.jpg", "/photos/dirty-blonde-studio-2.jpg", "/photos/dirty-blonde-studio-3.jpg"]
+photos: []
 rating: 5
 review_count: 81
 price_range: "$$"

@@ -18,7 +18,8 @@ hours:
   friday: "10:00 AM–6:30 PM"
   saturday: "10:00 AM–4:00 PM"
   sunday: "Closed"
-photos: ["/photos/lash-common-1.jpg", "/photos/lash-common-2.jpg", "/photos/lash-common-3.jpg"]
+photos:
+  - "/photos/lash-common-g1.jpg"
 rating: 4.4
 review_count: 170
 price_range: "$$"

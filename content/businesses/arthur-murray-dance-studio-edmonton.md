@@ -18,7 +18,9 @@ hours:
   friday: "12:00 PM–10:00 PM"
   saturday: "11:00 AM–5:00 PM"
   sunday: "Closed"
-photos: ["/photos/arthur-murray-dance-studio-edmonton-1.jpg", "/photos/arthur-murray-dance-studio-edmonton-2.jpg", "/photos/arthur-murray-dance-studio-edmonton-3.jpg"]
+photos:
+  - "/photos/arthur-murray-dance-studio-edmonton-g1.jpg"
+  - "/photos/arthur-murray-dance-studio-edmonton-3.jpg"
 rating: 4.6
 review_count: 54
 price_range: "$$"

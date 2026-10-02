@@ -11,8 +11,7 @@ tier: "featured"
 phone: "(780) 467-2208"
 website: "http://sherwoodparkdentistry.com/"
 google_maps: "https://maps.google.com/?cid=18393156469324300915&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/sherwood-park-dental-care-centre.jpg"
+photos: []
 reviews:
   - name: "Renée Wood"
     rating: 5

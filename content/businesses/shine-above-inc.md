@@ -18,7 +18,8 @@ hours:
   friday: "9:00 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/shine-above-inc-1.jpg", "/photos/shine-above-inc-2.jpg", "/photos/shine-above-inc-3.jpg"]
+photos:
+  - "/photos/shine-above-inc-2.jpg"
 rating: 4.8
 review_count: 310
 price_range: "$$"

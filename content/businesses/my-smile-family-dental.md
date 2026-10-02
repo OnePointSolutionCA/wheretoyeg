@@ -18,7 +18,9 @@ hours:
   friday: "8:00 AM–5:00 PM"
   saturday: "8:00 AM–3:00 PM"
   sunday: "10:00 AM–4:00 PM"
-photos: ["/photos/my-smile-family-dental-1.jpg", "/photos/my-smile-family-dental-2.jpg", "/photos/my-smile-family-dental-3.jpg"]
+photos:
+  - "/photos/my-smile-family-dental-2.jpg"
+  - "/photos/my-smile-family-dental-g3.jpg"
 rating: 4.7
 review_count: 1304
 price_range: "$$"

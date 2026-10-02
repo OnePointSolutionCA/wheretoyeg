@@ -18,7 +18,8 @@ hours:
   friday: "10:00 AM–6:00 PM"
   saturday: "9:00 AM–5:00 PM"
   sunday: "Closed"
-photos: ["/photos/the-injectionist-aesthetics-1.jpg", "/photos/the-injectionist-aesthetics-2.jpg", "/photos/the-injectionist-aesthetics-3.jpg"]
+photos:
+  - "/photos/the-injectionist-aesthetics-2.jpg"
 rating: 4.7
 review_count: 281
 price_range: "$$"

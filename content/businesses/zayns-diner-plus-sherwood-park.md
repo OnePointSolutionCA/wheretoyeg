@@ -11,7 +11,8 @@ phone: "(780) 929-4099"
 website: "https://www.zaynsdinerplus.ca/"
 google_maps: "https://maps.google.com/?cid=10687400362460845121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/zayns-diner-plus-sherwood-park.jpg"
+  - "/photos/zayns-diner-plus-sherwood-park-g3.jpg"
+  - "/photos/zayns-diner-plus-sherwood-park-g1.jpg"
 reviews:
   - name: "lovepeace joy"
     rating: 5

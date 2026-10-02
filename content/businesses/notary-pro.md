@@ -11,7 +11,7 @@ phone: "(888) 313-0909"
 website: "https://www.notarypro.ca/notary/41/?utm_campaign=gbp-listing-stpl&utm_medium=organic&utm_source=gbp&utm_content=STPL_AB_T5T"
 google_maps: "https://maps.google.com/?cid=15173081079180319952&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/notary-pro.jpg"
+  - "/photos/notary-pro-g1.jpg"
 reviews:
   - name: "Glendys Riveron Alvarez"
     rating: 5

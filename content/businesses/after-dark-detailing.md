@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(780) 517-9076"
 website: "http://pds-auto.com/"
 google_maps: "https://maps.google.com/?cid=5181394763717591400&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/after-dark-detailing.jpg"
+photos: []
 reviews:
   - name: "bhasquad"
     rating: 5

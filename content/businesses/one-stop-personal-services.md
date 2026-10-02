@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(780) 666-5741"
 website: "https://onestoppersonalservices.com/"
 google_maps: "https://maps.google.com/?cid=2907001595052599981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/one-stop-personal-services.jpg"
+photos: []
 reviews:
   - name: "Nydia Hefflick"
     rating: 5

@@ -11,8 +11,7 @@ tier: "featured"
 phone: "(825) 333-3368"
 website: "https://edmontonemergencydentists.com/"
 google_maps: "https://maps.google.com/?cid=5770677396393874865&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/edmonton-emergency-dentists.jpg"
+photos: []
 reviews:
   - name: "Chona Llamoso"
     rating: 5

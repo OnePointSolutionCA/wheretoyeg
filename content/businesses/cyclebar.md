@@ -18,7 +18,9 @@ hours:
   friday: "5:45 AM–11:00 AM"
   saturday: "8:30 AM–12:00 PM"
   sunday: "9:00 AM–12:00 PM"
-photos: ["/photos/cyclebar-1.jpg", "/photos/cyclebar-2.jpg", "/photos/cyclebar-3.jpg"]
+photos:
+  - "/photos/cyclebar-3.jpg"
+  - "/photos/cyclebar-2.jpg"
 rating: 4.9
 review_count: 256
 price_range: "$$"

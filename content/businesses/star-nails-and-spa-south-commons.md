@@ -18,7 +18,7 @@ hours:
   friday: "10:00 AM–7:30 PM"
   saturday: "10:00 AM–6:00 PM"
   sunday: "11:00 AM–5:00 PM"
-photos: ["/photos/star-nails-and-spa-south-commons-1.jpg", "/photos/star-nails-and-spa-south-commons-2.jpg", "/photos/star-nails-and-spa-south-commons-3.jpg"]
+photos: []
 rating: 4.8
 review_count: 244
 price_range: "$$$"

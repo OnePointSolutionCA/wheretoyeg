@@ -18,7 +18,10 @@ hours:
   friday: "9:00 AM–5:00 PM"
   saturday: "9:00 AM–4:00 PM"
   sunday: "Closed"
-photos: ["/photos/kensington-dental-clinic---edmonton-1.jpg", "/photos/kensington-dental-clinic---edmonton-2.jpg", "/photos/kensington-dental-clinic---edmonton-3.jpg"]
+photos:
+  - "/photos/kensington-dental-clinic---edmonton-2.jpg"
+  - "/photos/kensington-dental-clinic---edmonton-g3.jpg"
+  - "/photos/kensington-dental-clinic---edmonton-g2.jpg"
 rating: 4.9
 review_count: 514
 price_range: "$$"

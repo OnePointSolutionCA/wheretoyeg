@@ -18,7 +18,10 @@ hours:
   friday: "10:00 AM–9:00 PM"
   saturday: "10:00 AM–9:00 PM"
   sunday: "10:00 AM–5:00 PM"
-photos: ["/photos/lauren-hannah-photography-1.jpg", "/photos/lauren-hannah-photography-2.jpg", "/photos/lauren-hannah-photography-3.jpg"]
+photos:
+  - "/photos/lauren-hannah-photography-2.jpg"
+  - "/photos/lauren-hannah-photography-g0.jpg"
+  - "/photos/lauren-hannah-photography-g4.jpg"
 rating: 5
 review_count: 80
 price_range: "$$"

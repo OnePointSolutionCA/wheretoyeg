@@ -11,7 +11,9 @@ phone: "(780) 934-8641"
 website: "http://rhiannonsarahphotography.com/"
 google_maps: "https://maps.google.com/?cid=16274605646876602514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/rhiannon-sarah-photography.jpg"
+  - "/photos/rhiannon-sarah-photography-g3.jpg"
+  - "/photos/rhiannon-sarah-photography-g1.jpg"
+  - "/photos/rhiannon-sarah-photography-g4.jpg"
 reviews:
   - name: "Hannah Gray"
     rating: 5

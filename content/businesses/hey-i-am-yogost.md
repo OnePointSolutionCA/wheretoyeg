@@ -18,7 +18,8 @@ hours:
   friday: "11:00 AM–10:00 PM"
   saturday: "11:00 AM–10:00 PM"
   sunday: "11:00 AM–10:00 PM"
-photos: ["/photos/hey-i-am-yogost-1.jpg", "/photos/hey-i-am-yogost-2.jpg", "/photos/hey-i-am-yogost-3.jpg"]
+photos:
+  - "/photos/hey-i-am-yogost-3.jpg"
 rating: 4.7
 review_count: 95
 price_range: "$$"

@@ -18,7 +18,7 @@ hours:
   friday: "8:00 AM–4:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/urbanlawyers-1.jpg", "/photos/urbanlawyers-2.jpg"]
+photos: []
 rating: 4.8
 review_count: 95
 price_range: "$$"

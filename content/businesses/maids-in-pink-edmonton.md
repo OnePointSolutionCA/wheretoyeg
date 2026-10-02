@@ -18,7 +18,9 @@ hours:
   friday: "7:00 AM–8:00 PM"
   saturday: "8:00 AM–8:00 PM"
   sunday: "8:00 AM–8:00 PM"
-photos: ["/photos/maids-in-pink-edmonton-1.jpg", "/photos/maids-in-pink-edmonton-2.jpg", "/photos/maids-in-pink-edmonton-3.jpg"]
+photos:
+  - "/photos/maids-in-pink-edmonton-2.jpg"
+  - "/photos/maids-in-pink-edmonton-3.jpg"
 rating: 4.8
 review_count: 48
 price_range: "$$"

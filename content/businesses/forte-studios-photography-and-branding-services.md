@@ -11,7 +11,7 @@ phone: "(780) 707-6932"
 website: "http://www.kmhforte.com/"
 google_maps: "https://maps.google.com/?cid=13588858989799501525&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/forte-studios-photography-and-branding-services.jpg"
+  - "/photos/forte-studios-photography-and-branding-services-g0.jpg"
 reviews:
   - name: "Kirstyn Burkholder"
     rating: 5

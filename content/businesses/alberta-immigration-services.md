@@ -16,7 +16,7 @@ hours:
   friday: "10:30 AM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: ["/photos/alberta-immigration-services-1.jpg", "/photos/alberta-immigration-services-2.jpg", "/photos/alberta-immigration-services-3.jpg"]
+photos: []
 rating: 4.9
 review_count: 191
 price_range: "$$$"

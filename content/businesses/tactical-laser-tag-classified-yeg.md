@@ -18,7 +18,10 @@ hours:
   friday: "4:30 PM–12:30 AM"
   saturday: "12:00 PM–12:30 AM"
   sunday: "12:00 PM–11:00 PM"
-photos: ["/photos/tactical-laser-tag-classified-yeg-1.jpg", "/photos/tactical-laser-tag-classified-yeg-2.jpg", "/photos/tactical-laser-tag-classified-yeg-3.jpg"]
+photos:
+  - "/photos/tactical-laser-tag-classified-yeg-g2.jpg"
+  - "/photos/tactical-laser-tag-classified-yeg-g3.jpg"
+  - "/photos/tactical-laser-tag-classified-yeg-g0.jpg"
 rating: 4.9
 review_count: 1142
 price_range: "$$"

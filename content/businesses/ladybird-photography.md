@@ -19,7 +19,10 @@ hours:
   friday: "Closed"
   saturday: "10:00 AM–3:00 PM"
   sunday: "10:00 AM–8:00 PM"
-photos: ["/photos/ladybird-photography-1.jpg", "/photos/ladybird-photography-2.jpg", "/photos/ladybird-photography-3.jpg"]
+photos:
+  - "/photos/ladybird-photography-g2.jpg"
+  - "/photos/ladybird-photography-g1.jpg"
+  - "/photos/ladybird-photography-g3.jpg"
 rating: 5.0
 review_count: 66
 price_range: "$$$"

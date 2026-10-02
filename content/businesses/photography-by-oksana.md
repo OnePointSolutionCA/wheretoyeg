@@ -11,7 +11,9 @@ phone: "(780) 982-8557"
 website: "http://www.byoksana.ca/"
 google_maps: "https://maps.google.com/?cid=8046521627807424238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/photography-by-oksana.jpg"
+  - "/photos/photography-by-oksana-g2.jpg"
+  - "/photos/photography-by-oksana-g3.jpg"
+  - "/photos/photography-by-oksana-g4.jpg"
 reviews:
   - name: "Samantha Tomkow"
     rating: 5

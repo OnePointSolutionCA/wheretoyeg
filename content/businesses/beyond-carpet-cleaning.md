@@ -11,7 +11,8 @@ phone: "(780) 708-1590"
 website: "http://www.beyondcarpet.ca/"
 google_maps: "https://maps.google.com/?cid=11149956464154068269&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/beyond-carpet-cleaning.jpg"
+  - "/photos/beyond-carpet-cleaning-g0.jpg"
+  - "/photos/beyond-carpet-cleaning-g1.jpg"
 reviews:
   - name: "Shaun Cunningham"
     rating: 5

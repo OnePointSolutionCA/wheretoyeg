@@ -18,7 +18,10 @@ hours:
   friday: "8:00 AM–6:00 PM"
   saturday: "8:00 AM–3:00 PM"
   sunday: "Closed"
-photos: ["/photos/glenora-family-pet-clinic-1.jpg", "/photos/glenora-family-pet-clinic-2.jpg", "/photos/glenora-family-pet-clinic-3.jpg"]
+photos:
+  - "/photos/glenora-family-pet-clinic-3.jpg"
+  - "/photos/glenora-family-pet-clinic-2.jpg"
+  - "/photos/glenora-family-pet-clinic-g3.jpg"
 rating: 4.8
 review_count: 965
 price_range: "$$"

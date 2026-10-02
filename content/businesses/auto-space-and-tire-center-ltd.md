@@ -11,7 +11,8 @@ phone: "(780) 244-5766"
 website: "https://autospaceservice.ca/"
 google_maps: "https://maps.google.com/?cid=18336538798325243324&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/auto-space-and-tire-center-ltd.jpg"
+  - "/photos/auto-space-and-tire-center-ltd-g1.jpg"
+  - "/photos/auto-space-and-tire-center-ltd-g2.jpg"
 reviews:
   - name: "Amritpal Singh"
     rating: 5

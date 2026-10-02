@@ -17,7 +17,7 @@ hours:
   friday: "6:00 AM–9:00 PM"
   saturday: "6:00 AM–9:00 PM"
   sunday: "9:00 AM–10:00 PM"
-photos: ["/photos/tinalashpro-1.jpg", "/photos/tinalashpro-2.jpg", "/photos/tinalashpro-3.jpg"]
+photos: []
 rating: 4.8
 review_count: 138
 price_range: "$$"

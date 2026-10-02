@@ -18,7 +18,10 @@ hours:
   friday: "9:00 AM–6:00 PM"
   saturday: "9:00 AM–6:00 PM"
   sunday: "10:00 AM–5:00 PM"
-photos: ["/photos/larres-barber-shop-1.jpg", "/photos/larres-barber-shop-2.jpg", "/photos/larres-barber-shop-3.jpg"]
+photos:
+  - "/photos/larres-barber-shop-2.jpg"
+  - "/photos/larres-barber-shop-g1.jpg"
+  - "/photos/larres-barber-shop-g3.jpg"
 rating: 4.9
 review_count: 601
 price_range: "$$"

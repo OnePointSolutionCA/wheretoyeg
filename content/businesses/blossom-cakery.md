@@ -18,7 +18,9 @@ hours:
   friday: "11:00 AM–7:00 PM"
   saturday: "11:00 AM–5:30 PM"
   sunday: "Closed"
-photos: ["/photos/blossom-cakery-1.jpg", "/photos/blossom-cakery-2.jpg", "/photos/blossom-cakery-3.jpg"]
+photos:
+  - "/photos/blossom-cakery-2.jpg"
+  - "/photos/blossom-cakery-3.jpg"
 rating: 4.6
 review_count: 140
 price_range: "$$$$"

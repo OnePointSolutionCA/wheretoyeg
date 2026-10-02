@@ -11,7 +11,8 @@ phone: "(780) 232-0965"
 website: "http://www.lalaserandspa.ca/"
 google_maps: "https://maps.google.com/?cid=4257832843400936843&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/la-laser-and-spa.jpg"
+  - "/photos/la-laser-and-spa-g0.jpg"
+  - "/photos/la-laser-and-spa-g3.jpg"
 reviews:
   - name: "Rebecca Marr"
     rating: 5

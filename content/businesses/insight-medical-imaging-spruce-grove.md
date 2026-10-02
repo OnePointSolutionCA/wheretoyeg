@@ -11,7 +11,9 @@ phone: "(780) 669-2222"
 website: "https://x-ray.ca/location/spruce-grove"
 google_maps: "https://maps.google.com/?cid=12935730423782288202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/insight-medical-imaging-spruce-grove.jpg"
+  - "/photos/insight-medical-imaging-spruce-grove-g2.jpg"
+  - "/photos/insight-medical-imaging-spruce-grove-g4.jpg"
+  - "/photos/insight-medical-imaging-spruce-grove-g1.jpg"
 reviews:
   - name: "Alrick Campbell"
     rating: 5

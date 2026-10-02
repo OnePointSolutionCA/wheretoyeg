@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(780) 929-5551"
 website: "https://marioshairsalon.com/"
 google_maps: "https://maps.google.com/?cid=3202003690724440770&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/marios-salon-and-barber-unisex.jpg"
+photos: []
 reviews:
   - name: "Jasmine Tiwana"
     rating: 5

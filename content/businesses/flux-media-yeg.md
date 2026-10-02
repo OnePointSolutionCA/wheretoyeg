@@ -11,7 +11,9 @@ phone: "(780) 655-9116"
 website: "https://fluxmediayeg.com/"
 google_maps: "https://maps.google.com/?cid=7971869121257839418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
-  - "/images/businesses/flux-media-yeg.jpg"
+  - "/photos/flux-media-yeg-g1.jpg"
+  - "/photos/flux-media-yeg-g3.jpg"
+  - "/photos/flux-media-yeg-g2.jpg"
 reviews:
   - name: "Lindsay Robertson"
     rating: 5

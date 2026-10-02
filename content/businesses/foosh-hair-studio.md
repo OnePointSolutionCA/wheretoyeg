@@ -10,8 +10,7 @@ tier: "featured"
 phone: "(780) 886-0088"
 website: "http://foosh.salonmonster.com/"
 google_maps: "https://maps.google.com/?cid=10888379564257014530&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/foosh-hair-studio.jpg"
+photos: []
 reviews:
   - name: "Kelsey Hannah"
     rating: 5

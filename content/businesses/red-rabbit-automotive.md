@@ -11,8 +11,7 @@ tier: "featured"
 phone: "(604) 441-9583"
 website: "https://www.instagram.com/red_rabbit_car_care?igsh=MXZmOHgzamlmbzdpbA==&utm_source=qr"
 google_maps: "https://maps.google.com/?cid=9657186214288104731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos:
-  - "/images/businesses/red-rabbit-automotive.jpg"
+photos: []
 reviews:
   - name: "Emily Miguel"
     rating: 5

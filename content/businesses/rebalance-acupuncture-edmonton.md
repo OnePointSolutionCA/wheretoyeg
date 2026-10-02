@@ -18,7 +18,9 @@ hours:
   friday: "8:00 AM–10:00 PM"
   saturday: "8:00 AM–10:00 PM"
   sunday: "Closed"
-photos: ["/photos/rebalance-acupuncture-edmonton-1.jpg", "/photos/rebalance-acupuncture-edmonton-2.jpg", "/photos/rebalance-acupuncture-edmonton-3.jpg"]
+photos:
+  - "/photos/rebalance-acupuncture-edmonton-2.jpg"
+  - "/photos/rebalance-acupuncture-edmonton-3.jpg"
 rating: 5
 review_count: 57
 price_range: "$$"
