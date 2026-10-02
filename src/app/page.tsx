@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { HeroSearch, type SearchIndexItem } from "@/components/HeroSearch";
+import { HeroSearch } from "@/components/HeroSearch";
 import { HeroVideo } from "@/components/HeroVideo";
 import { CategoryGrid } from "@/components/CategoryGrid";
 import { FeaturedCarousel } from "@/components/FeaturedCarousel";
@@ -8,7 +8,10 @@ import { FloatingCube } from "@/components/FloatingCube";
 import { CollectionTiles } from "@/components/CollectionTiles";
 import { HomeIntro } from "@/components/HomeIntro";
 import { FaqSection, type FaqEntry } from "@/components/FaqSection";
+import { GuideCard } from "@/components/RelatedGuides";
+import { distinctCovers } from "@/lib/blogMedia";
 import { SITE } from "@/lib/site";
+import { toCard } from "@/lib/slim";
 import {
   getDiverseFeatured,
   getRecentReviews,
@@ -32,6 +35,7 @@ export default function HomePage() {
   const cats = getCategories();
   const catBySlug = Object.fromEntries(cats.map((c) => [c.slug, c.name]));
   const blog = getBlogPosts().slice(0, 3);
+  const blogCovers = distinctCovers(blog);
   // Diverse activity picks: one per subcategory (top-rated in each), max 6.
   const rankedActivities = getBusinesses()
     .filter((b) => b.category === "activities-fun" && (b.photos?.length ?? 0) > 0)
@@ -54,34 +58,6 @@ export default function HomePage() {
     }
   }
 
-  const index: SearchIndexItem[] = [
-    ...cats.map((c) => ({
-      kind: "category" as const,
-      name: c.name,
-      href: `/${c.slug}`,
-      hint: c.description,
-    })),
-    ...cats.flatMap((c) =>
-      (c.subcategories ?? []).map((s) => ({
-        kind: "category" as const,
-        name: s.name,
-        href: `/${c.slug}/${s.slug}`,
-        hint: `${c.name} · in Edmonton`,
-      })),
-    ),
-    ...SITE.neighborhoods.map((n) => ({
-      kind: "neighborhood" as const,
-      name: n,
-      href: `/neighborhoods/${toSlug(n)}`,
-      hint: "Neighborhood",
-    })),
-    ...getBusinesses().map((b) => ({
-      kind: "business" as const,
-      name: b.name,
-      href: `/${b.category}/${b.slug}`,
-      hint: `${catBySlug[b.category] ?? b.category} · ${b.neighborhood}`,
-    })),
-  ];
 
   const faq: FaqEntry[] = [
     { q: "How do I get my Edmonton business listed on WhereToYEG?", a: "Submit the Get Listed form. Listings are completely free, and most go live within a few days.", links: [{ label: "Get listed", href: "/get-listed" }] },
@@ -117,7 +93,7 @@ export default function HomePage() {
               Your trusted shortcut to the shops, restaurants, and services worth checking out.
             </p>
             <div className="hero-foot rise-3">
-              <HeroSearch neighborhoods={SITE.neighborhoods} index={index} />
+              <HeroSearch neighborhoods={SITE.neighborhoods} />
             </div>
           </div>
         </div>
@@ -149,7 +125,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="mt-8">
-            <FeaturedCarousel businesses={featured} categoryNames={catBySlug} />
+            <FeaturedCarousel businesses={featured.map(toCard)} categoryNames={catBySlug} />
           </div>
         </section>
       )}
@@ -234,18 +210,7 @@ export default function HomePage() {
           </div>
           <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
             {blog.map((p) => (
-              <Link
-                key={p.slug}
-                href={`/blog/${p.slug}`}
-                className="group flex flex-col rounded-2xl border border-line bg-white p-6 transition hover:-translate-y-0.5 hover:border-teal-300 hover:shadow-card"
-              >
-                <div className="text-xs text-teal-500">
-                  {new Date(p.publishedDate).toLocaleDateString("en-CA", { year: "numeric", month: "long", day: "numeric" })} · {p.readingMinutes} min read
-                </div>
-                <h3 className="mt-2 font-display text-xl font-bold text-teal group-hover:text-coral">{p.title}</h3>
-                <p className="mt-2 line-clamp-3 text-sm text-teal-500">{p.description}</p>
-                <span className="mt-auto pt-4 text-xs font-bold uppercase tracking-wider text-coral">Read →</span>
-              </Link>
+              <GuideCard key={p.slug} post={p} cover={blogCovers.get(p.slug)} />
             ))}
           </div>
         </section>
@@ -261,7 +226,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="mt-8">
-            <ReviewCarousel reviews={recent} />
+            <ReviewCarousel reviews={recent.map((r) => ({ ...r, business: { name: r.business.name, slug: r.business.slug, category: r.business.category } }))} />
           </div>
         </section>
       )}

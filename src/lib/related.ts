@@ -1,6 +1,6 @@
 import { getBlogPosts, type BlogPost } from "./blog";
 
-const KEYWORDS: Record<string, string[]> = {
+export const KEYWORDS: Record<string, string[]> = {
   restaurants: ["restaurant", "food", "shawarma", "pizza", "sushi", "brunch", "burger", "where-to-eat", "mexican", "thai", "korean", "chinese", "vietnamese", "italian", "ethiopian", "pakistani", "indian"],
   bakeries: ["bakeries", "bakery", "dessert"],
   "cafes-coffee-shops": ["coffee", "cafe", "boba", "bubble-tea", "dessert"],

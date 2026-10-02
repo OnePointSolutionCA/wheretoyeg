@@ -17,6 +17,7 @@ import { RelatedGuides } from "@/components/RelatedGuides";
 import { categoryFaq } from "@/lib/faq";
 import { relatedPosts } from "@/lib/related";
 import { SITE } from "@/lib/site";
+import { toCard } from "@/lib/slim";
 
 export const revalidate = 3600;
 
@@ -55,28 +56,6 @@ function seededShuffle<T>(arr: T[], seed: number): T[] {
   return a;
 }
 
-function slimForCard(b: any): any {
-  return {
-    name: b.name,
-    slug: b.slug,
-    category: b.category,
-    subcategory: b.subcategory,
-    tier: b.tier,
-    logo: b.logo,
-    description: b.generatedDescription ? "" : b.description,
-    neighborhood: b.neighborhood,
-    hours: b.hours,
-    photos: b.photos?.slice(0, 1) ?? [],
-    rating: b.rating,
-    review_count: b.review_count,
-    price_range: b.price_range,
-    amenities: b.amenities,
-    date_listed: b.date_listed,
-    address: "",
-    tags: [],
-    active: true,
-  };
-}
 
 export default function CategoryPage({ params }: { params: { category: string } }) {
   const c = getCategoryBySlug(params.category);
@@ -95,7 +74,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
   ).slice(0, 6);
 
   // Rotated main listing — slimmed to only card-visible fields to cut page weight
-  const rotatedBusinesses = seededShuffle(businesses, day + 999).map(slimForCard);
+  const rotatedBusinesses = seededShuffle(businesses, day + 999).map(toCard);
 
   const heroPhoto = `/photos/_hero/${c.slug}.jpg`;
 

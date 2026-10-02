@@ -55,9 +55,20 @@ function distinct(list: Business[], n: number) {
 const href = (b: Business) => `/${b.category}/${b.slug}`;
 const mention = (b: Business) => `${b.name} (${Number(b.rating).toFixed(1)}★, ${nf(b.review_count)} reviews)`;
 
-export function categoryFaq(c: Category, businesses: Business[]): FaqEntry[] {
+/** Full display name for a subcategory, e.g. "Mexican" under Restaurants becomes "Mexican Restaurants". */
+export function subLabel(categorySlug: string, subName: string) {
+  return categorySlug === "restaurants" && !/restaurant/i.test(subName) ? `${subName} Restaurants` : subName;
+}
+
+/** Same label for use mid-sentence: cuisine names keep their capital, generic words go lowercase. */
+export function subNoun(categorySlug: string, subName: string) {
+  return categorySlug === "restaurants" && !/restaurant/i.test(subName) ? `${subName} restaurants` : subName.toLowerCase();
+}
+
+export function categoryFaq(c: Category, businesses: Business[], opts: { noun?: string; basePath?: string } = {}): FaqEntry[] {
   if (businesses.length === 0) return [];
-  const noun = NOUN[c.slug] ?? c.name.toLowerCase();
+  const noun = opts.noun ?? NOUN[c.slug] ?? c.name.toLowerCase();
+  const basePath = opts.basePath ?? `/${c.slug}`;
   const items: FaqEntry[] = [];
 
   const top = distinct(businesses.filter((b) => b.rating > 0 && b.review_count >= 10).sort(byScore), 3);
@@ -75,9 +86,9 @@ export function categoryFaq(c: Category, businesses: Business[]): FaqEntry[] {
     counts.set(b.neighborhood, (counts.get(b.neighborhood) ?? 0) + 1);
   }
   const areas = [...counts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 3).map(([n]) => n);
-  items.push({
+  if (businesses.length >= 3) items.push({
     q: `How many ${noun} are listed on WhereToYEG?`,
-    a: `${nf(businesses.length)} ${noun} across Edmonton and nearby communities${areas.length ? `, with the most listings in ${join(areas)}` : ""}. Filter by neighborhood or amenity at the top of this page.`,
+    a: `${nf(businesses.length)} ${noun} across Edmonton and nearby communities${areas.length ? `, with the most listings in ${join(areas)}` : ""}. Filter by price, rating, or amenity at the top of this page.`,
     links: areas.filter((n) => SITE.neighborhoods.includes(n)).map((n) => ({ label: n, href: `/neighborhoods/${slugify(n)}` })),
   });
 
@@ -98,7 +109,7 @@ export function categoryFaq(c: Category, businesses: Business[]): FaqEntry[] {
     items.push({
       q: `Are there halal ${noun} in Edmonton?`,
       a: `Yes. ${nf(halal.length)} ${noun} on WhereToYEG are marked halal, including ${join(distinct(halal, 3).map((b) => b.name))}. If certification matters to you, confirm it with the business directly.`,
-      links: [{ label: `All halal ${noun}`, href: `/${c.slug}?amenity=Halal` }],
+      links: [{ label: `All halal ${noun}`, href: `${basePath}?amenity=Halal` }],
     });
   }
 

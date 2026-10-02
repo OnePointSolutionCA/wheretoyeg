@@ -22,6 +22,8 @@ import { ReviewCard } from "@/components/ReviewCard";
 import { BusinessCard } from "@/components/BusinessCard";
 import { RelatedGuides } from "@/components/RelatedGuides";
 import { relatedPosts } from "@/lib/related";
+import { categoryFaq, subLabel, subNoun } from "@/lib/faq";
+import { FaqSection } from "@/components/FaqSection";
 import { FilterableList } from "@/components/FilterBar";
 import { SubcategoryPills } from "@/components/SubcategoryPills";
 import { businessSchema } from "@/lib/schema";
@@ -29,6 +31,7 @@ import { breadcrumbSchema, JsonLd } from "@/lib/schema-extra";
 import { deliveryLinks } from "@/lib/delivery";
 import { SITE } from "@/lib/site";
 import { placeLabel } from "@/lib/place";
+import { toCard } from "@/lib/slim";
 import { clip } from "@/lib/text";
 
 const FOOD_CATEGORIES = new Set(["restaurants", "cafes-coffee-shops", "bakeries", "catering", "grocery-markets"]);
@@ -63,8 +66,10 @@ export async function generateMetadata({ params }: { params: { category: string;
   if (!cat) return {};
   const sub = getSubcategory(params.category, params.slug);
   if (sub) {
-    const title = `Best ${sub.name} in Edmonton | ${sub.name} near me`;
-    const desc = `Find the best ${sub.name.toLowerCase()} in Edmonton. Local, hand-picked ${cat.name.toLowerCase()} listings — hours, addresses, ratings and directions.`;
+    const label = subLabel(cat.slug, sub.name);
+    const count = getBusinessesBySubcategory(cat.slug, sub.slug).length;
+    const title = `Best ${label} in Edmonton | ${label} near me`;
+    const desc = clip(`Find the best ${subNoun(cat.slug, sub.name)} in Edmonton${count ? `: ${count} local spots ranked by Google rating` : ""}. Hours, addresses, photos, and directions on WhereToYEG.`, 158);
     return {
       title,
       description: desc,
@@ -75,7 +80,8 @@ export async function generateMetadata({ params }: { params: { category: string;
         `top ${sub.name.toLowerCase()} Edmonton`,
       ],
       alternates: { canonical: `${SITE.url}/${cat.slug}/${sub.slug}` },
-      openGraph: { title, description: desc, images: ["/og.png"] },
+      openGraph: { title, description: desc, images: [`/photos/_hero/${cat.slug}.jpg`] },
+      ...(count === 0 ? { robots: { index: false, follow: true } } : {}),
     };
   }
   const b = getBusiness(params.slug);
@@ -132,6 +138,12 @@ function SubcategoryView({ category: c, sub }: { category: ReturnType<typeof get
   const subCounts = countBySubcategory(c.slug);
   const neighborhoods = Array.from(new Set(businesses.map((b) => b.neighborhood))).filter(Boolean).sort();
   const amenities = Array.from(new Set(businesses.flatMap((b) => b.amenities ?? []))).sort();
+  const label = subLabel(c.slug, sub.name);
+  const noun = subNoun(c.slug, sub.name);
+  const rated = businesses.filter((b) => b.rating > 0 && b.review_count > 0);
+  const avg = rated.length ? rated.reduce((s, b) => s + Number(b.rating), 0) / rated.length : 0;
+  const reviews = rated.reduce((s, b) => s + Number(b.review_count), 0);
+  const halal = businesses.filter((b) => b.amenities?.includes("Halal")).length;
 
   return (
     <>
@@ -140,37 +152,53 @@ function SubcategoryView({ category: c, sub }: { category: ReturnType<typeof get
         { name: c.name, href: `/${c.slug}` },
         { name: sub.name },
       ])} />
-      <section className="border-b border-line bg-mist">
-        <div className="container-page py-12" data-reveal="left">
-          <nav className="text-xs text-teal-500">
-            <Link href="/" className="hover:text-coral">Home</Link> <span className="px-1">›</span>{" "}
-            <Link href={`/${c.slug}`} className="hover:text-coral">{c.name}</Link>{" "}
-            <span className="px-1">›</span>{" "}
-            <span className="font-semibold text-teal">{sub.name}</span>
+      <section className="relative overflow-hidden bg-teal text-white">
+        <Image src={`/photos/_hero/${c.slug}.jpg`} alt="" fill priority sizes="100vw" className="object-cover opacity-50" />
+        <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/55 to-black/35" aria-hidden="true" />
+        <div className="container-page relative py-14 sm:py-20" data-reveal="left">
+          <nav className="flex flex-wrap items-center gap-x-1.5 text-xs text-white/70" aria-label="Breadcrumb">
+            <Link href="/" className="hover:text-white">Home</Link>
+            <span aria-hidden>›</span>
+            <Link href={`/${c.slug}`} className="hover:text-white">{c.name}</Link>
+            <span aria-hidden>›</span>
+            <span className="font-semibold text-white">{sub.name}</span>
           </nav>
-          <h1 className="mt-3 font-display text-4xl font-extrabold tracking-tight text-teal sm:text-5xl">
-            Best {sub.name} in Edmonton
+          <h1 className="mt-3 font-display text-4xl font-extrabold leading-[1.05] tracking-tight drop-shadow-lg sm:text-6xl">
+            Best {label}<br className="hidden sm:block" /> <span className="text-coral">in Edmonton</span>
           </h1>
-          <p className="mt-3 max-w-2xl text-teal-500">
-            {sub.name} across Edmonton — filtered from {c.name.toLowerCase()} listed on WhereToYEG.
+          <p className="mt-4 max-w-2xl text-white/85 sm:text-lg">
+            {businesses.length
+              ? `${businesses.length} ${noun} across Edmonton and nearby communities, ranked by Google rating and review volume.`
+              : `We're adding ${noun} to the map right now.`}
           </p>
-          {c.subcategories && (
-            <div className="mt-6">
-              <SubcategoryPills
-                categorySlug={c.slug}
-                subcategories={c.subcategories}
-                activeSlug={sub.slug}
-                counts={subCounts}
-              />
+          {businesses.length > 0 && (
+            <div className="mt-5 flex flex-wrap gap-2 text-xs font-bold uppercase tracking-wider">
+              <span className="rounded-full bg-white/15 px-3 py-1.5 backdrop-blur">{businesses.length} {businesses.length === 1 ? "spot" : "spots"}</span>
+              {avg > 0 && <span className="rounded-full bg-white/15 px-3 py-1.5 backdrop-blur">★ {avg.toFixed(1)} avg rating</span>}
+              {reviews > 0 && <span className="rounded-full bg-white/15 px-3 py-1.5 backdrop-blur">{reviews.toLocaleString("en-CA")} Google reviews</span>}
+              {halal > 0 && <span className="rounded-full bg-coral/90 px-3 py-1.5">{halal} halal</span>}
             </div>
           )}
         </div>
       </section>
 
+      {c.subcategories && (
+        <section className="border-b border-line bg-mist">
+          <div className="container-page py-5">
+            <SubcategoryPills
+              categorySlug={c.slug}
+              subcategories={c.subcategories}
+              activeSlug={sub.slug}
+              counts={subCounts}
+            />
+          </div>
+        </section>
+      )}
+
       <section className="container-page py-10">
         {businesses.length > 0 ? (
           <FilterableList
-            businesses={businesses}
+            businesses={businesses.map(toCard)}
             categoryName={c.name}
             neighborhoods={neighborhoods}
             amenities={amenities}
@@ -178,7 +206,7 @@ function SubcategoryView({ category: c, sub }: { category: ReturnType<typeof get
         ) : (
           <div className="rounded-2xl border border-dashed border-line bg-mist p-12 text-center">
             <p className="font-display text-2xl font-bold text-teal">
-              No {sub.name.toLowerCase()} listed yet.
+              No {noun} listed yet.
             </p>
             <p className="mt-2 text-teal-500">Know one worth adding? Send it our way.</p>
             <div className="mt-5 flex justify-center gap-3">
@@ -188,6 +216,14 @@ function SubcategoryView({ category: c, sub }: { category: ReturnType<typeof get
           </div>
         )}
       </section>
+
+      <RelatedGuides posts={relatedPosts(c.slug)} title="Related Edmonton guides" />
+
+      <FaqSection
+        title={`${label} in Edmonton: FAQ`}
+        items={categoryFaq(c, businesses, { noun: noun, basePath: `/${c.slug}/${sub.slug}` })}
+      />
+      <div className="h-16" aria-hidden="true" />
     </>
   );
 }

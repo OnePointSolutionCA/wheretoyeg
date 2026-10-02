@@ -42,33 +42,72 @@ export function getBlogPost(slug: string) {
   return getBlogPosts().find((p) => p.slug === slug);
 }
 
+export function headingId(text: string) {
+  return text
+    .toLowerCase()
+    .replace(/<[^>]+>|\*\*|\*|\[|\]\([^)]*\)/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
+}
+
+/** Level-2 headings, for the in-article table of contents. */
+export function getHeadings(md: string): { id: string; text: string }[] {
+  return md
+    .split(/\r?\n/)
+    .map((l) => l.match(/^## (.+)/)?.[1])
+    .filter((x): x is string => !!x)
+    .map((text) => {
+      const clean = text.replace(/\*\*|\*/g, "").replace(/\[([^\]]+)\]\([^)]+\)/g, "$1");
+      return { id: headingId(clean), text: clean };
+    });
+}
+
 export function renderMarkdown(md: string): string {
-  // Minimal markdown: headings, bold, italics, links, paragraphs, lists.
+  // Minimal markdown: headings, bold, italics, links, paragraphs, bullet and numbered lists, tables.
   const escape = (s: string) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
-  const lines = md.split(/\r?\n/);
-  const out: string[] = [];
-  let inList = false;
-  const flushList = () => { if (inList) { out.push("</ul>"); inList = false; } };
   const inline = (s: string) =>
     escape(s)
       .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
       .replace(/\*(.+?)\*/g, "<em>$1</em>")
-      .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" class="text-coral hover:underline">$1</a>');
+      .replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_m, text: string, href: string) =>
+        /^https?:\/\//.test(href) ? `<a href="${href}" target="_blank" rel="noreferrer">${text}</a>` : `<a href="${href}">${text}</a>`,
+      );
+  const cells = (row: string) => row.trim().replace(/^\||\|$/g, "").split("|").map((c) => c.trim());
+
+  const lines = md.split(/\r?\n/);
+  const out: string[] = [];
+  let list: "ul" | "ol" | null = null;
+  let table: string[] = [];
+  const flushList = () => { if (list) { out.push(`</${list}>`); list = null; } };
+  const flushTable = () => {
+    if (!table.length) return;
+    const rows = table.filter((r) => !/^\|?\s*:?-{2,}/.test(r.trim()));
+    const [head, ...body] = rows;
+    out.push(
+      `<div class="table-wrap"><table><thead><tr>${cells(head).map((c) => `<th>${inline(c)}</th>`).join("")}</tr></thead><tbody>${body
+        .map((r) => `<tr>${cells(r).map((c) => `<td>${inline(c)}</td>`).join("")}</tr>`)
+        .join("")}</tbody></table></div>`,
+    );
+    table = [];
+  };
+  const openList = (kind: "ul" | "ol") => {
+    if (list !== kind) { flushList(); out.push(`<${kind}>`); list = kind; }
+  };
 
   for (const line of lines) {
+    if (/^\s*\|/.test(line)) { flushList(); table.push(line); continue; }
+    flushTable();
     if (/^\s*$/.test(line)) { flushList(); continue; }
     let m: RegExpMatchArray | null;
-    if ((m = line.match(/^### (.+)/))) { flushList(); out.push(`<h3 class="mt-8 font-display text-xl font-bold text-teal">${inline(m[1])}</h3>`); continue; }
-    if ((m = line.match(/^## (.+)/))) { flushList(); out.push(`<h2 class="mt-10 font-display text-2xl font-bold text-teal">${inline(m[1])}</h2>`); continue; }
-    if ((m = line.match(/^# (.+)/))) { flushList(); out.push(`<h1 class="mt-10 font-display text-3xl font-extrabold text-teal">${inline(m[1])}</h1>`); continue; }
-    if ((m = line.match(/^[-*] (.+)/))) {
-      if (!inList) { out.push('<ul class="mt-3 list-disc space-y-1 pl-5 text-teal-500">'); inList = true; }
-      out.push(`<li>${inline(m[1])}</li>`);
-      continue;
-    }
+    if ((m = line.match(/^### (.+)/))) { flushList(); out.push(`<h3 id="${headingId(m[1])}">${inline(m[1])}</h3>`); continue; }
+    if ((m = line.match(/^## (.+)/))) { flushList(); out.push(`<h2 id="${headingId(m[1])}">${inline(m[1])}</h2>`); continue; }
+    if ((m = line.match(/^# (.+)/))) { flushList(); out.push(`<h2 id="${headingId(m[1])}">${inline(m[1])}</h2>`); continue; }
+    if ((m = line.match(/^[-*] (.+)/))) { openList("ul"); out.push(`<li>${inline(m[1])}</li>`); continue; }
+    if ((m = line.match(/^\d+\. (.+)/))) { openList("ol"); out.push(`<li>${inline(m[1])}</li>`); continue; }
     flushList();
-    out.push(`<p class="mt-4 text-teal-500">${inline(line)}</p>`);
+    out.push(`<p>${inline(line)}</p>`);
   }
   flushList();
+  flushTable();
   return out.join("\n");
 }
