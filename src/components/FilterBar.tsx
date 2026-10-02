@@ -15,11 +15,13 @@ function toggle<T>(arr: T[], v: T): T[] {
 export function FilterableList({
   businesses,
   categoryName,
+  categoryNames,
   neighborhoods,
   amenities,
 }: {
   businesses: Business[];
   categoryName?: string;
+  categoryNames?: Record<string, string>;
   neighborhoods: string[];
   amenities: string[];
 }) {
@@ -115,6 +117,7 @@ export function FilterableList({
           </button>
 
           {/* Neighborhoods (multi) */}
+          {neighborhoods.length > 1 && (
           <div className="relative" data-filter-menu>
             <button
               onClick={(e) => { e.stopPropagation(); setOpenMenu(openMenu === "neighborhoods" ? null : "neighborhoods"); }}
@@ -139,6 +142,7 @@ export function FilterableList({
               </div>
             )}
           </div>
+          )}
 
           {/* Amenities (multi) */}
           {amenities.length > 0 && (
@@ -224,7 +228,7 @@ export function FilterableList({
       <div className="mt-6 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
         {filtered.slice(0, visible).map((b) => (
           <Card3D key={b.slug}>
-            <BusinessCard business={b} categoryName={categoryName} />
+            <BusinessCard business={b} categoryName={categoryNames?.[b.category] ?? categoryName} />
           </Card3D>
         ))}
       </div>

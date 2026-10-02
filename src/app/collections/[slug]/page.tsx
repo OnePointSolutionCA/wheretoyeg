@@ -3,8 +3,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getBusinesses, getCategories } from "@/lib/content";
 import { COLLECTIONS, getCollectionBySlug, getBusinessesForCollection } from "@/lib/collections";
-import { BusinessCard } from "@/components/BusinessCard";
-import { Card3D } from "@/components/Card3D";
+import { FilterableList } from "@/components/FilterBar";
+import { toCard } from "@/lib/slim";
 import { breadcrumbSchema, JsonLd } from "@/lib/schema-extra";
 import { SITE } from "@/lib/site";
 
@@ -77,13 +77,12 @@ export default function CollectionPage({ params }: { params: { slug: string } })
       {/* LISTINGS */}
       <section className="container-page mt-10">
         {businesses.length > 0 ? (
-          <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-            {businesses.map((b) => (
-              <Card3D key={b.slug}>
-                <BusinessCard business={b} categoryName={catBySlug[b.category]} />
-              </Card3D>
-            ))}
-          </div>
+          <FilterableList
+            businesses={businesses.map(toCard)}
+            categoryNames={catBySlug}
+            neighborhoods={Array.from(new Set(businesses.map((b) => b.neighborhood))).filter(Boolean).sort()}
+            amenities={Array.from(new Set(businesses.flatMap((b) => b.amenities ?? []))).sort()}
+          />
         ) : (
           <div className="rounded-2xl border border-dashed border-line bg-mist p-10 text-center">
             <p className="font-semibold text-teal">Nothing here yet.</p>

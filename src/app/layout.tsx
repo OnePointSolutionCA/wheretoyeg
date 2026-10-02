@@ -5,12 +5,9 @@ import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
 import { ScrollOrbs } from "@/components/ScrollOrbs";
 import { Analytics } from "@/components/Analytics";
-import type { SearchIndexItem } from "@/components/HeroSearch";
-import { getCategories, getBusinesses } from "@/lib/content";
+import { getCategories } from "@/lib/content";
 import { organizationSchema, siteSearchSchema, JsonLd } from "@/lib/schema-extra";
 import { SITE } from "@/lib/site";
-
-function toSlug(s: string) { return s.toLowerCase().replace(/\s+/g, "-"); }
 
 const inter = Inter({
   subsets: ["latin"],
@@ -93,37 +90,8 @@ export const viewport: Viewport = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   const cats = getCategories();
   const navCategories = cats.map((c) => ({ name: c.name, slug: c.slug }));
-  const catBySlug: Record<string, string> = Object.fromEntries(cats.map((c) => [c.slug, c.name]));
-  const searchIndex: SearchIndexItem[] = [
-    ...cats.map((c) => ({
-      kind: "category" as const,
-      name: c.name,
-      href: `/${c.slug}`,
-      hint: c.description,
-    })),
-    ...cats.flatMap((c) =>
-      (c.subcategories ?? []).map((s) => ({
-        kind: "category" as const,
-        name: s.name,
-        href: `/${c.slug}/${s.slug}`,
-        hint: `${c.name} · in Edmonton`,
-      })),
-    ),
-    ...SITE.neighborhoods.map((n) => ({
-      kind: "neighborhood" as const,
-      name: n,
-      href: `/neighborhoods/${toSlug(n)}`,
-      hint: "Neighborhood",
-    })),
-    ...getBusinesses().map((b) => ({
-      kind: "business" as const,
-      name: b.name,
-      href: `/${b.category}/${b.slug}`,
-      hint: `${catBySlug[b.category] ?? b.category} · ${b.neighborhood}`,
-    })),
-  ];
   return (
-    <html lang="en" className={inter.variable}>
+    <html lang="en" className={inter.variable} suppressHydrationWarning>
       <body className="font-sans antialiased">
         <script
           dangerouslySetInnerHTML={{
@@ -140,7 +108,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <JsonLd data={organizationSchema()} />
         <JsonLd data={siteSearchSchema()} />
         <ScrollOrbs />
-        <Navbar categories={navCategories} searchIndex={searchIndex} />
+        <Navbar categories={navCategories} />
         <main id="main">{children}</main>
         <Footer />
       </body>

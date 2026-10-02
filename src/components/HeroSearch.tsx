@@ -3,6 +3,7 @@
 import { useRouter } from "next/navigation";
 import { useEffect, useMemo, useRef, useState } from "react";
 import Fuse from "fuse.js";
+import { useRemoteJson } from "./useRemoteJson";
 
 export type SearchIndexItem = {
   kind: "business" | "category" | "neighborhood";
@@ -11,13 +12,9 @@ export type SearchIndexItem = {
   hint?: string;
 };
 
-export function HeroSearch({
-  neighborhoods,
-  index,
-}: {
-  neighborhoods: string[];
-  index: SearchIndexItem[];
-}) {
+export function HeroSearch({ neighborhoods }: { neighborhoods: string[] }) {
+  const [loaded, loadIndex] = useRemoteJson<SearchIndexItem[]>("/search-index.json");
+  const index = useMemo(() => loaded ?? [], [loaded]);
   const router = useRouter();
   const [q, setQ] = useState("");
   const [n, setN] = useState("");
@@ -89,7 +86,7 @@ export function HeroSearch({
         <input
           value={q}
           onChange={(e) => { setQ(e.target.value); setOpen(true); setActive(0); }}
-          onFocus={() => setOpen(true)}
+          onFocus={() => { setOpen(true); loadIndex(); }}
           onKeyDown={(e) => {
             if (!open || suggestions.length === 0) return;
             if (e.key === "ArrowDown") { e.preventDefault(); setActive((a) => Math.min(a + 1, suggestions.length - 1)); }

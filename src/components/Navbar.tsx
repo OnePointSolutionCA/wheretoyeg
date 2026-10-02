@@ -5,11 +5,10 @@ import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import { NavLogo } from "./NavLogo";
 import { NavSearch } from "./NavSearch";
-import type { SearchIndexItem } from "./HeroSearch";
 
 type NavCategory = { name: string; slug: string };
 
-export function Navbar({ categories = [], searchIndex = [] }: { categories?: NavCategory[]; searchIndex?: SearchIndexItem[] }) {
+export function Navbar({ categories = [] }: { categories?: NavCategory[] }) {
   const pathname = usePathname();
   const [openMenu, setOpenMenu] = useState<"categories" | null>(null);
 
@@ -95,7 +94,7 @@ export function Navbar({ categories = [], searchIndex = [] }: { categories?: Nav
           <Link href="/contact" className="hidden text-sm font-semibold text-teal transition hover:text-coral xl:inline">Contact</Link>
         </nav>
         <div className="flex items-center gap-3 justify-self-end">
-          <NavSearch index={searchIndex} />
+          <NavSearch />
           <Link href="/get-listed" className="shrink-0 whitespace-nowrap rounded-full bg-coral px-3 py-1.5 text-xs font-semibold text-white transition hover:bg-coral-500 md:px-5 md:py-2.5 md:text-sm">
             Get Listed
           </Link>
