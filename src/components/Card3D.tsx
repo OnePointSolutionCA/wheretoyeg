@@ -30,12 +30,12 @@ export function Card3D({ children, className = "" }: { children: React.ReactNode
   return (
     <div
       ref={wrapRef}
-      className={"card-3d " + className}
+      className={"card-3d h-full " + className}
       onMouseMove={onMove}
       onMouseLeave={onLeave}
       style={{ perspective: "1000px" }}
     >
-      <div ref={innerRef} className="card-3d-inner" style={{ transformStyle: "preserve-3d", transition: "transform 200ms ease-out", pointerEvents: "auto" }}>
+      <div ref={innerRef} className="card-3d-inner h-full" style={{ transformStyle: "preserve-3d", transition: "transform 200ms ease-out", pointerEvents: "auto" }}>
         {children}
       </div>
     </div>

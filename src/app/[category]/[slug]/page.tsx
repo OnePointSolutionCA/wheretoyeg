@@ -217,13 +217,13 @@ function SubcategoryView({ category: c, sub }: { category: ReturnType<typeof get
         )}
       </section>
 
-      <RelatedGuides posts={relatedPosts(c.slug)} title="Related Edmonton guides" />
-
-      <FaqSection
-        title={`${label} in Edmonton: FAQ`}
-        items={categoryFaq(c, businesses, { noun: noun, basePath: `/${c.slug}/${sub.slug}` })}
-      />
-      <div className="h-16" aria-hidden="true" />
+      <div className="mt-10 bg-mist pb-14 pt-2 sm:pb-20">
+        <RelatedGuides posts={relatedPosts(c.slug)} title="Related Edmonton guides" />
+        <FaqSection
+          title={`${label} in Edmonton: FAQ`}
+          items={categoryFaq(c, businesses, { noun, basePath: `/${c.slug}/${sub.slug}` })}
+        />
+      </div>
     </>
   );
 }

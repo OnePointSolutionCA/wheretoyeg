@@ -77,6 +77,10 @@ export default function CategoryPage({ params }: { params: { category: string } 
   const rotatedBusinesses = seededShuffle(businesses, day + 999).map(toCard);
 
   const heroPhoto = `/photos/_hero/${c.slug}.jpg`;
+  const rated = businesses.filter((b) => b.rating > 0 && b.review_count > 0);
+  const avgRating = rated.length ? rated.reduce((s, b) => s + Number(b.rating), 0) / rated.length : 0;
+  const totalReviews = rated.reduce((s, b) => s + Number(b.review_count), 0);
+  const halalCount = businesses.filter((b) => b.amenities?.includes("Halal")).length;
 
   return (
     <>
@@ -108,8 +112,13 @@ export default function CategoryPage({ params }: { params: { category: string } 
             Best {c.name}<br className="hidden sm:block" /> <span className="text-coral">in Edmonton</span>
           </h1>
           <p className="mt-4 max-w-2xl text-white/85 sm:text-lg">{c.description}</p>
-          <div className="mt-4 inline-flex items-center gap-2 rounded-full bg-white/15 px-3 py-1 text-xs font-bold uppercase tracking-wider backdrop-blur">
-            {businesses.length} {businesses.length === 1 ? "spot" : "spots"} listed
+          <div className="mt-5 flex flex-wrap gap-2 text-xs font-bold uppercase tracking-wider">
+            <span className="rounded-full bg-white/15 px-3 py-1.5 backdrop-blur">
+              {businesses.length} {businesses.length === 1 ? "spot" : "spots"} listed
+            </span>
+            {avgRating > 0 && <span className="rounded-full bg-white/15 px-3 py-1.5 backdrop-blur">★ {avgRating.toFixed(1)} avg rating</span>}
+            {totalReviews > 0 && <span className="rounded-full bg-white/15 px-3 py-1.5 backdrop-blur">{totalReviews.toLocaleString("en-CA")} Google reviews</span>}
+            {halalCount > 0 && <span className="rounded-full bg-coral/90 px-3 py-1.5">{halalCount} halal</span>}
           </div>
         </div>
       </section>
@@ -182,12 +191,13 @@ export default function CategoryPage({ params }: { params: { category: string } 
         )}
       </section>
 
-      <RelatedGuides posts={relatedPosts(c.slug)} title="Related Edmonton guides" />
-
-      <FaqSection title={`${c.name} in Edmonton: FAQ`} items={categoryFaq(c, businesses)} />
+      <div className="mt-16 bg-mist pb-14 pt-2 sm:pb-20">
+        <RelatedGuides posts={relatedPosts(c.slug)} title="Related Edmonton guides" />
+        <FaqSection title={`${c.name} in Edmonton: FAQ`} items={categoryFaq(c, businesses)} />
+      </div>
 
       {/* OnePoint Solutions subtle CTA */}
-      <section className="container-page mt-4" data-reveal="up">
+      <section className="container-page mt-12" data-reveal="up">
         <div className="relative overflow-hidden rounded-2xl border border-coral/20 bg-gradient-to-r from-coral/5 via-white to-teal/5 p-6 sm:p-8">
           <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
             <div>

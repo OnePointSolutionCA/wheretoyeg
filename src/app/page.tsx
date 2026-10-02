@@ -1,10 +1,11 @@
+import Image from "next/image";
 import Link from "next/link";
+import { neighborhoodStats } from "@/lib/neighborhoods";
 import { HeroSearch } from "@/components/HeroSearch";
 import { HeroVideo } from "@/components/HeroVideo";
 import { CategoryGrid } from "@/components/CategoryGrid";
 import { FeaturedCarousel } from "@/components/FeaturedCarousel";
 import { ReviewCarousel } from "@/components/ReviewCarousel";
-import { FloatingCube } from "@/components/FloatingCube";
 import { CollectionTiles } from "@/components/CollectionTiles";
 import { HomeIntro } from "@/components/HomeIntro";
 import { FaqSection, type FaqEntry } from "@/components/FaqSection";
@@ -34,7 +35,14 @@ export default function HomePage() {
   const recent = getRecentReviews(8);
   const cats = getCategories();
   const catBySlug = Object.fromEntries(cats.map((c) => [c.slug, c.name]));
-  const blog = getBlogPosts().slice(0, 3);
+  const allPosts = getBlogPosts();
+  const blog = allPosts.slice(0, 3);
+  const guideCount = allPosts.length;
+  const allBusinesses = getBusinesses();
+  const totalBusinesses = allBusinesses.length;
+  const areaTiles = SITE.neighborhoods
+    .map((n) => ({ name: n, ...neighborhoodStats(n, allBusinesses) }))
+    .sort((a, b) => b.businesses.length - a.businesses.length);
   const blogCovers = distinctCovers(blog);
   // Diverse activity picks: one per subcategory (top-rated in each), max 6.
   const rankedActivities = getBusinesses()
@@ -94,7 +102,33 @@ export default function HomePage() {
             </p>
             <div className="hero-foot rise-3">
               <HeroSearch neighborhoods={SITE.neighborhoods} />
+              <div className="mt-5 flex flex-wrap items-center justify-center gap-2">
+                <span className="text-xs font-semibold uppercase tracking-wider text-white/60">Popular:</span>
+                {SITE.popularSearches.map((s) => (
+                  <Link
+                    key={s.href}
+                    href={s.href}
+                    className="rounded-full border border-white/20 bg-white/10 px-3 py-1.5 text-xs font-semibold text-white backdrop-blur transition hover:border-white/40 hover:bg-white/20"
+                  >
+                    {s.label}
+                  </Link>
+                ))}
+              </div>
             </div>
+            <dl className="hero-foot rise-3 mx-auto mt-10 grid max-w-2xl grid-cols-2 gap-y-4 border-t border-white/15 pt-6 sm:grid-cols-4">
+              {[
+                [totalBusinesses.toLocaleString("en-CA"), "local businesses"],
+                [String(cats.length), "categories"],
+                [String(guideCount), "local guides"],
+                [String(SITE.neighborhoods.length), "neighborhoods"],
+              ].map(([n, l]) => (
+                <div key={l} className="text-center">
+                  <dt className="sr-only">{l}</dt>
+                  <dd className="font-display text-2xl font-extrabold sm:text-3xl">{n}</dd>
+                  <dd className="text-xs font-semibold uppercase tracking-wider text-white/65">{l}</dd>
+                </div>
+              ))}
+            </dl>
           </div>
         </div>
       </section>
@@ -117,7 +151,8 @@ export default function HomePage() {
 
       {/* FEATURED */}
       {featured.length > 0 && (
-        <section className="container-page mt-20" data-reveal="right">
+        <section className="mt-16 bg-mist py-14 sm:mt-24 sm:py-20" data-reveal="right">
+          <div className="container-page">
           <div className="flex items-end justify-between gap-6">
             <div>
               <p className="eyebrow">Featured this week</p>
@@ -127,10 +162,9 @@ export default function HomePage() {
           <div className="mt-8">
             <FeaturedCarousel businesses={featured.map(toCard)} categoryNames={catBySlug} />
           </div>
+          </div>
         </section>
       )}
-
-      <FloatingCube />
 
       {/* THINGS TO DO */}
       {activities.length > 0 && (
@@ -198,7 +232,8 @@ export default function HomePage() {
 
       {/* BLOG */}
       {blog.length > 0 && (
-        <section className="container-page mt-20" data-reveal="left">
+        <section className="mt-20 bg-mist py-14 sm:py-20" data-reveal="left">
+          <div className="container-page">
           <div className="flex items-end justify-between gap-6">
             <div>
               <p className="eyebrow">From the blog</p>
@@ -213,20 +248,21 @@ export default function HomePage() {
               <GuideCard key={p.slug} post={p} cover={blogCovers.get(p.slug)} />
             ))}
           </div>
+          </div>
         </section>
       )}
 
       {/* RECENT REVIEWS */}
       {recent.length > 0 && (
-        <section className="container-page mt-20" data-reveal="right">
-          <div className="flex items-end justify-between gap-6">
-            <div>
-              <p className="eyebrow">Verified Google Reviews</p>
-              <h2 className="section-title mt-1">What Edmontonians are saying.</h2>
+        <section className="relative overflow-hidden bg-teal py-14 text-white sm:py-20" data-reveal="right">
+          <div className="pointer-events-none absolute -right-24 -top-24 h-80 w-80 rounded-full bg-coral/20 blur-3xl" aria-hidden="true" />
+          <div className="pointer-events-none absolute -bottom-32 -left-16 h-96 w-96 rounded-full bg-teal-300/15 blur-3xl" aria-hidden="true" />
+          <div className="container-page relative">
+            <p className="text-xs font-bold uppercase tracking-[0.18em] text-coral-300">Verified Google reviews</p>
+            <h2 className="mt-1 font-display text-3xl font-bold tracking-tight sm:text-4xl">What Edmontonians are saying.</h2>
+            <div className="mt-8">
+              <ReviewCarousel tone="dark" reviews={recent.map((r) => ({ ...r, business: { name: r.business.name, slug: r.business.slug, category: r.business.category } }))} />
             </div>
-          </div>
-          <div className="mt-8">
-            <ReviewCarousel reviews={recent.map((r) => ({ ...r, business: { name: r.business.name, slug: r.business.slug, category: r.business.category } }))} />
           </div>
         </section>
       )}
@@ -242,21 +278,36 @@ export default function HomePage() {
             All neighborhoods →
           </Link>
         </div>
-        <div className="mt-8 grid gap-3 sm:grid-cols-3 lg:grid-cols-4">
-          {SITE.neighborhoods.map((n) => (
+        <div className="mt-8 grid grid-cols-2 gap-3 sm:gap-4 lg:grid-cols-4">
+          {areaTiles.slice(0, 8).map((a) => (
             <Link
-              key={n}
-              href={`/neighborhoods/${toSlug(n)}`}
-              className="group flex items-center justify-between rounded-2xl border border-line bg-white p-4 transition hover:border-teal-300 hover:shadow-card"
+              key={a.name}
+              href={`/neighborhoods/${toSlug(a.name)}`}
+              className="group relative flex aspect-[4/3] flex-col justify-end overflow-hidden rounded-2xl bg-teal text-white shadow-card transition-all duration-300 hover:-translate-y-1 hover:shadow-lift"
             >
-              <span className="font-display font-semibold text-teal group-hover:text-coral">{n}</span>
-              <span className="text-teal-300 transition group-hover:translate-x-1 group-hover:text-coral">→</span>
+              {a.cover && (
+                <Image src={a.cover} alt="" fill sizes="(max-width: 1024px) 50vw, 300px" className="object-cover transition-transform duration-700 group-hover:scale-105" />
+              )}
+              <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/30 to-transparent" aria-hidden="true" />
+              <div className="relative p-4">
+                <div className="font-display text-lg font-extrabold leading-tight drop-shadow sm:text-xl">{a.name}</div>
+                <div className="text-xs font-semibold text-white/75">{a.businesses.length} spots</div>
+              </div>
+            </Link>
+          ))}
+        </div>
+        <div className="mt-5 flex flex-wrap gap-2">
+          {areaTiles.slice(8).map((a) => (
+            <Link key={a.name} href={`/neighborhoods/${toSlug(a.name)}`} className="chip">
+              {a.name} <span className="text-teal-300">{a.businesses.length}</span>
             </Link>
           ))}
         </div>
       </section>
 
-      <FaqSection title="Good to know." items={faq} />
+      <div className="mt-20 bg-mist py-14 sm:py-20">
+        <FaqSection title="Good to know." items={faq} className="" />
+      </div>
 
       {/* ONEPOINT SOLUTIONS — MARKETING PARTNER */}
       <section className="container-page mt-20" data-reveal="left">

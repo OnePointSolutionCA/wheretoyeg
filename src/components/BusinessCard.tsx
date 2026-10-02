@@ -28,7 +28,7 @@ export function BusinessCard({ business, categoryName }: { business: Business; c
   return (
     <article
       id={b.slug}
-      className="group relative flex flex-col overflow-hidden rounded-2xl border border-line bg-white shadow-card transition-all duration-300 hover:-translate-y-1 hover:shadow-lift"
+      className="group relative flex h-full flex-col overflow-hidden rounded-2xl border border-line bg-white shadow-card transition-all duration-300 hover:-translate-y-1 hover:shadow-lift"
     >
       <Link href={href} className="block">
         <div

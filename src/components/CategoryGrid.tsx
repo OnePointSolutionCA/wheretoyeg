@@ -28,7 +28,7 @@ export function CategoryGrid() {
   return (
     <div id="categories">
       {/* Hero photo tiles */}
-      <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+      <div className="grid grid-cols-2 gap-3 sm:gap-4 lg:grid-cols-4">
         {heroCats.map((c) => {
           const info = counts[c.slug];
           // Prefer the curated editorial hero image for the category over
@@ -54,13 +54,13 @@ export function CategoryGrid() {
               <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/30 to-black/10" />
 
               {/* Icon top-right */}
-              <div className="absolute right-3 top-3 flex h-9 w-9 items-center justify-center rounded-full bg-white/15 text-white backdrop-blur-sm">
+              <div className="absolute right-2.5 top-2.5 flex h-8 w-8 items-center justify-center rounded-full bg-white/15 text-white backdrop-blur-sm sm:right-3 sm:top-3 sm:h-9 sm:w-9">
                 <CategoryIcon name={c.icon} />
               </div>
 
               {/* Text bottom-left */}
-              <div className="relative z-10 p-4 text-white">
-                <div className="font-display text-xl font-extrabold leading-tight drop-shadow-lg sm:text-2xl">{c.name}</div>
+              <div className="relative z-10 p-3 text-white sm:p-4">
+                <div className="font-display text-base font-extrabold leading-tight drop-shadow-lg sm:text-2xl">{c.name}</div>
                 <div className="mt-1 text-xs font-medium text-white/85">
                   {info?.count ? `${info.count} listing${info.count === 1 ? "" : "s"}` : "New category"}
                 </div>

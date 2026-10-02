@@ -32,7 +32,7 @@ export function ReviewCard({ review }: { review: Review }) {
   const color = pickColor(review.name ?? "");
 
   return (
-    <div className="group relative overflow-hidden rounded-2xl border border-line bg-white p-5 shadow-card transition-all duration-300 hover:-translate-y-0.5 hover:shadow-lift">
+    <div className="group relative h-full overflow-hidden rounded-2xl border border-line bg-white p-5 shadow-card transition-all duration-300 hover:-translate-y-0.5 hover:shadow-lift">
       {/* Faint quote mark in the background */}
       <div
         aria-hidden="true"
