@@ -5,8 +5,10 @@ category: "plumbers"
 tier: "featured"
 logo: "/logos/mr-rooter-plumbing-edmonton.png"
 description: "24/7 plumbing service in Edmonton — drain cleaning, water heater repair and installation, leak detection, sewer line repair, and emergency service. Licensed and insured, upfront pricing."
-address: "Edmonton"
-neighborhood: "Edmonton (all areas)"
+address: "18604 106a Ave NW, Edmonton, AB T5S 2L9"
+longitude: -113.644625
+latitude: 53.552915
+neighborhood: "West Edmonton"
 website: "https://www.mrrooter.ca/edmonton"
 phone: "780-484-3402"
 google_maps_url: "https://maps.google.com/?q=Mr+Rooter+Plumbing+Edmonton"

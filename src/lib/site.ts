@@ -25,6 +25,9 @@ export const SITE = {
     "Beverly",
     "Castle Downs",
     "Beaumont",
+    "Leduc",
+    "Fort Saskatchewan",
+    "Stony Plain",
   ],
   popularSearches: [
     { label: "Halal", href: "/restaurants?amenity=Halal" },

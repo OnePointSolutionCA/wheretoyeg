@@ -5,8 +5,10 @@ category: "nail-salons"
 subcategory: "nail-art"
 tier: "featured"
 description: "Detail-heavy nail art studio in Edmonton — gel, acrylic, dip powder, hand-painted designs. Sanitized tools, appointment-only."
-address: "Edmonton"
-neighborhood: "Central Edmonton"
+address: "398 St Albert Trl #103, St. Albert, AB T8N 5J9"
+longitude: -113.628087
+latitude: 53.644776
+neighborhood: "St. Albert"
 google_maps_url: "https://maps.google.com/?q=Nail%20Nerd%20Studio%20Edmonton"
 hours:
   monday: "10:00 AM–8:00 PM"

@@ -4,8 +4,10 @@ slug: "made-in-palestine-cafe"
 category: "cafes-coffee-shops"
 tier: "featured"
 description: "Palestinian cultural café founded by two Palestinian-Canadian women. Authentic Palestinian food, traditional coffee, heritage products, and a warm space that celebrates Palestinian culture."
-address: "12728 127 St NW"
-neighborhood: "North Edmonton"
+address: "15166 127 St, Edmonton, AB T6V 0C5"
+longitude: -113.543413
+latitude: 53.614734
+neighborhood: "Castle Downs"
 phone: "587-488-0893"
 google_maps_url: "https://maps.google.com/?q=Made+in+Palestine+Culture+Cafe+Edmonton"
 instagram: "https://www.instagram.com/madeinpalestine.ca/"

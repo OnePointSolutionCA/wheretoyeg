@@ -17,4 +17,6 @@ export const AREA_PHOTOS: Record<string, AreaPhoto> = {
   "Beverly": { src: "/photos/_areas/beverly.jpg", credit: "Mack Male", license: "CC BY-SA 2.0", licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/", source: "https://commons.wikimedia.org/wiki/File:Beverly_(19354503558).jpg" },
   "Castle Downs": { src: "/photos/_areas/castle-downs.jpg", credit: "dfaulder", license: "CC BY 2.0", licenseUrl: "https://creativecommons.org/licenses/by/2.0/", source: "https://commons.wikimedia.org/wiki/File:Common_Loons_on_Beaumaris_Lake_(8696976751).jpg" },
   "Beaumont": { src: "/photos/_areas/beaumont.jpg", credit: "WinterE229 WinterforceMedia", license: "Public domain", licenseUrl: "", source: "https://commons.wikimedia.org/wiki/File:Saint_Vital_Roman_Catholic_Church_Beaumont_Alberta_Canada_01A.jpg" },
+  "Leduc": { src: "/photos/_areas/leduc.jpg", credit: "Jeffery J. Nichols", license: "CC BY-SA 4.0", licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/", source: "https://commons.wikimedia.org/wiki/File:Alberta_Wheat_Pool_complex_in_Leduc_(north).JPG" },
+  "Fort Saskatchewan": { src: "/photos/_areas/fort-saskatchewan.jpg", credit: "Jeffery J. Nichols", license: "CC BY-SA 4.0", licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/", source: "https://commons.wikimedia.org/wiki/File:Fort_Saskatchewan_Old_Court_House.jpg" },
 };

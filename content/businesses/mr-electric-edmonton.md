@@ -5,8 +5,10 @@ category: "electricians"
 tier: "featured"
 logo: "/logos/mr-electric-edmonton.png"
 description: "Full-service Edmonton electrician — residential and commercial. Panel upgrades, wiring, EV charger installation, lighting, generator installs. Licensed, insured, upfront pricing."
-address: "Edmonton"
-neighborhood: "Edmonton (all areas)"
+address: "9426 51 Ave NW #201, Edmonton, AB T6E 5A6"
+longitude: -113.474028
+latitude: 53.488467
+neighborhood: "South Edmonton"
 website: "https://mrelectric.com/edmonton"
 phone: "780-244-4776"
 google_maps_url: "https://maps.google.com/?q=Mr+Electric+Edmonton"
