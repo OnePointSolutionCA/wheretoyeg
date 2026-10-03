@@ -34,12 +34,10 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Ameris Soul"
     rating: 5
-    date: "2025-11-08"
     comment: |
       We booked some bays for my father in laws birthday and I was so impressed with how clean and comfortable the facility was, we had an amazing time as a family and would 100% come back again. The staff were accommodating and friendly, everything was excellent!
   - name: "Rami Mouallem"
     rating: 5
-    date: "2026-06-24"
     comment: |
       Been my favourite place to come and golf with friends, or just to practice alone.
       
@@ -48,7 +46,6 @@ reviews:
       Would highly recommend anyone to come golf here if they wanna have a good time.
   - name: "Ryan Mouallem"
     rating: 5
-    date: "2026-07-12"
     comment: |
       loved coming here with my brother after he recommended it to me.
       
@@ -57,9 +54,12 @@ reviews:
       Evelyn is very friendly.
       
       Had a great time, will definitely be coming back.
+  - name: "AJ"
+    rating: 3
+    comment: |
+      It was just fine of an experience. Could be much better when it comes to tech and aligning it with the play.
   - name: "Donna C"
     rating: 5
-    date: "2023-04-28"
     comment: |
       Great brand new facility conveniently located on the Northside and just off of the Henday! The bays are well sized and their golf program has both fun mini games for beginners / kids and more traditional virtual golf with great accuracy for more seasoned players to improve their game.
       
