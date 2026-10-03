@@ -9,10 +9,14 @@
  * serving beer or wine; no bars/pubs/pork-focused names; no duplicates of any existing file (active or not).
  * Writes content/businesses/<slug>.md with an empty description (the site generates one from data),
  * map coordinates, and up to 2 landscape Google photos. A list of new slugs goes to scripts/.discover-v3-new.json.
+ *
+ * Stops when this month's free Google allowance runs out (see places-budget.mjs).
+ * Pass --allow-paid to keep going past it.
  */
 import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { addUsage, costOf, freeLeft } from "./places-budget.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DIR = path.join(ROOT, "content/businesses");
@@ -20,6 +24,7 @@ const PHOTO_DIR = path.join(ROOT, "public/photos");
 const KEY = process.env.GOOGLE_PLACES_API_KEY;
 const ARGS = process.argv.slice(2);
 const PLAN = ARGS.includes("--plan");
+const ALLOW_PAID = ARGS.includes("--allow-paid");
 const MAX = parseInt(ARGS.find((a) => a.startsWith("--max="))?.split("=")[1] ?? "700", 10);
 const TODAY = new Intl.DateTimeFormat("en-CA", { timeZone: "America/Edmonton" }).format(new Date());
 
@@ -196,7 +201,9 @@ function extractHours(p) {
 let searches = 0, photoCalls = 0;
 async function search(textQuery, pageToken) {
   if (searches >= MAX) throw new Error("search cap reached");
+  if (!ALLOW_PAID && !freeLeft("search")) throw new Error("free search cap reached");
   searches++;
+  addUsage("search");
   const res = await fetch("https://places.googleapis.com/v1/places:searchText", {
     method: "POST",
     headers: { "Content-Type": "application/json", "X-Goog-Api-Key": KEY, "X-Goog-FieldMask": FIELD_MASK },
@@ -207,6 +214,7 @@ async function search(textQuery, pageToken) {
 }
 async function photo(name) {
   photoCalls++;
+  addUsage("photo");
   const res = await fetch(`https://places.googleapis.com/v1/${name}/media?maxWidthPx=1400&key=${KEY}`, { redirect: "follow" });
   if (!res.ok) return null;
   const buf = Buffer.from(await res.arrayBuffer());
@@ -241,7 +249,8 @@ async function main() {
   const maxReq = jobs.reduce((s, j) => s + j.pages, 0);
   if (PLAN || !KEY) {
     console.log(`${jobs.length} queries, up to ${maxReq} search requests (cap ${MAX}).`);
-    console.log(`Rough max cost: searches ~$${(Math.min(maxReq, MAX) * 0.04).toFixed(0)} + photos (2 per new listing) at ~$0.007 each.`);
+    console.log(`Free this month: ${freeLeft("search")} searches, ${freeLeft("photo")} photos (2 per new listing).`);
+    if (ALLOW_PAID) console.log(`--allow-paid: up to ~$${costOf("search", Math.min(maxReq, MAX)).toFixed(0)} in searches + $0.007 per photo past the free allowance.`);
     if (!KEY) console.log("Set GOOGLE_PLACES_API_KEY to run.");
     return;
   }
@@ -279,6 +288,7 @@ async function main() {
         if (takenSlugs.has(slug)) slug = slugify(`${name} ${neighborhood(addr, p.location)}`);
         for (let n = 2; takenSlugs.has(slug); n++) slug = `${slugify(name)}-${n}`;
 
+        if (!ALLOW_PAID && freeLeft("photo") < 2) { console.log("  Free photo allowance used up this month."); return finish(added, reasons); }
         const shots = (p.photos ?? []).filter((ph) => ph.widthPx >= 800 && ph.widthPx >= ph.heightPx * 1.2).slice(0, 2);
         const photos = [];
         for (const [i, ph] of shots.entries()) {
@@ -339,7 +349,7 @@ async function finish(added, reasons) {
   console.log(`\nAdded ${added.length} · searches ${searches} · photos ${photoCalls}`);
   console.log("By category:", byCat);
   console.log("Skipped:", reasons);
-  console.log(`Approx cost: $${(searches * 0.04 + photoCalls * 0.007).toFixed(2)}`);
+  console.log(`Free left this month: ${freeLeft("search")} searches, ${freeLeft("photo")} photos.`);
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });

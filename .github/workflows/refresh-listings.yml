@@ -2,7 +2,7 @@ name: Refresh Listings
 
 on:
   schedule:
-    # Every day at 10:00 UTC (4:00 AM MST)
+    # Every day at 10:00 UTC (4:00 AM MST). Batch size comes from the free Google allowance.
     - cron: "0 10 * * *"
   workflow_dispatch:
 
@@ -28,7 +28,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add content/businesses/
+          git add content/businesses/ scripts/places-usage.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else

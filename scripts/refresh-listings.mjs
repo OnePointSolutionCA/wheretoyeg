@@ -3,8 +3,9 @@
  * Refresh business listings from Google Places API (New).
  * Updates: rating, review_count, hours, reviews, phone, website.
  *
- * Runs in daily batches (~250/day) so all 1700+ businesses refresh weekly,
- * staying within Google's $200/month free credit.
+ * Each run refreshes an even share of what's left of Google's free monthly
+ * Text Search allowance (see places-budget.mjs), so it never costs money.
+ * Active listings are cycled in order via a cursor in places-usage.json.
  *
  * Requires: GOOGLE_PLACES_API_KEY env var.
  *
@@ -12,8 +13,7 @@
  *   GOOGLE_PLACES_API_KEY=xxx node scripts/refresh-listings.mjs
  *
  * Flags:
- *   --batch=N     Batch size per run (default 250)
- *   --day=N       Force day index 0-6 (default: auto from day-of-week)
+ *   --batch=N     Max listings per run (default 250; the free budget usually sets fewer)
  *   --slug=x      Refresh only one business
  *   --dry         Print changes without writing
  *   --all         Refresh all businesses (ignore batching)
@@ -21,6 +21,7 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { addUsage, daysLeftInMonth, freeLeft, loadUsage, saveUsage } from "./places-budget.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const BUSINESS_DIR = path.join(ROOT, "content/businesses");
@@ -35,13 +36,12 @@ const DRY = ARGS.includes("--dry");
 const ALL = ARGS.includes("--all");
 const ONLY = ARGS.find((a) => a.startsWith("--slug="))?.split("=")[1];
 const BATCH = parseInt(ARGS.find((a) => a.startsWith("--batch="))?.split("=")[1] ?? "250", 10);
-const DAY_OVERRIDE = ARGS.find((a) => a.startsWith("--day="))?.split("=")[1];
-const DAY_INDEX = DAY_OVERRIDE != null ? parseInt(DAY_OVERRIDE, 10) : new Date().getDay();
 
 const DAYS_MAP = ["sun", "mon", "tue", "wed", "thu", "fri", "sat"];
 const HOURS_KEYS = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"];
 
 async function textSearch(query) {
+  addUsage("search");
   const res = await fetch("https://places.googleapis.com/v1/places:searchText", {
     method: "POST",
     headers: {
@@ -271,11 +271,22 @@ async function main() {
     files = allFiles;
     console.log(`Refreshing all ${total} businesses...\n`);
   } else {
-    const batchCount = Math.ceil(total / BATCH);
-    const batchIndex = DAY_INDEX % batchCount;
-    const start = batchIndex * BATCH;
-    files = allFiles.slice(start, start + BATCH);
-    console.log(`Day ${DAY_INDEX} → batch ${batchIndex + 1}/${batchCount} (${files.length} businesses, #${start + 1}–${start + files.length} of ${total})\n`);
+    const active = [];
+    for (const f of allFiles) {
+      const raw = await fs.readFile(path.join(BUSINESS_DIR, f), "utf8");
+      if (!/^active:\s*false/m.test(raw)) active.push(f);
+    }
+    const left = freeLeft("search");
+    const count = Math.min(BATCH, active.length, Math.floor(left / daysLeftInMonth()));
+    if (!count) {
+      console.log(`Free Text Search allowance used up this month (${left} left). Skipping to stay free.`);
+      return;
+    }
+    const usage = loadUsage();
+    const start = (usage.refreshCursor ?? 0) % active.length;
+    files = [...active.slice(start), ...active.slice(0, start)].slice(0, count);
+    if (!DRY) saveUsage({ ...loadUsage(), refreshCursor: (start + count) % active.length });
+    console.log(`Refreshing ${count} of ${active.length} active listings from #${start + 1} (${left} free searches left this month)\n`);
   }
 
   let ok = 0, noChange = 0, fail = 0;
