@@ -17,7 +17,7 @@ hours:
   thursday: "Closed"
   friday: "Closed"
   saturday: "Closed"
-  sunday: "12:00 AM–11:59 PM"
+  sunday: "Open 24 hours"
 photos: ["/photos/friesens-climate-control-1.jpg", "/photos/friesens-climate-control-2.jpg", "/photos/friesens-climate-control-3.jpg"]
 rating: 4.9
 review_count: 1093

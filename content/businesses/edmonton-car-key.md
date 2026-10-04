@@ -17,7 +17,7 @@ hours:
   thursday: "Closed"
   friday: "Closed"
   saturday: "Closed"
-  sunday: "12:00 AM–11:59 PM"
+  sunday: "Open 24 hours"
 photos: ["/photos/edmonton-car-key-1.jpg", "/photos/edmonton-car-key-2.jpg", "/photos/edmonton-car-key-3.jpg"]
 rating: 4.6
 review_count: 113

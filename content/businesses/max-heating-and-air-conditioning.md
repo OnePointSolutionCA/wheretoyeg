@@ -17,7 +17,7 @@ hours:
   thursday: "Closed"
   friday: "Closed"
   saturday: "Closed"
-  sunday: "12:00 AM–11:59 PM"
+  sunday: "Open 24 hours"
 photos: ["/photos/max-heating-and-air-conditioning-1.jpg", "/photos/max-heating-and-air-conditioning-2.jpg", "/photos/max-heating-and-air-conditioning-3.jpg"]
 rating: 4.8
 review_count: 335

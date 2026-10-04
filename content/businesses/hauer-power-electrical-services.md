@@ -17,7 +17,7 @@ hours:
   thursday: "Closed"
   friday: "Closed"
   saturday: "Closed"
-  sunday: "12:00 AM–11:59 PM"
+  sunday: "Open 24 hours"
 photos: ["/photos/hauer-power-electrical-services-1.jpg", "/photos/hauer-power-electrical-services-2.jpg", "/photos/hauer-power-electrical-services-3.jpg"]
 rating: 4.9
 review_count: 967

@@ -17,7 +17,7 @@ hours:
   thursday: "Closed"
   friday: "Closed"
   saturday: "Closed"
-  sunday: "12:00 AM–11:59 PM"
+  sunday: "Open 24 hours"
 photos: ["/photos/capital-plumbing-heating-1.jpg", "/photos/capital-plumbing-heating-2.jpg", "/photos/capital-plumbing-heating-3.jpg"]
 rating: 4.8
 review_count: 1701

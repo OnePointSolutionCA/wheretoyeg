@@ -17,6 +17,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { addUsage, costOf, freeLeft } from "./places-budget.mjs";
+import { googleHours } from "./google-hours.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DIR = path.join(ROOT, "content/businesses");
@@ -181,22 +182,8 @@ const norm = (s) => (s ?? "").toLowerCase().replace(/[^a-z0-9]/g, "");
 function priceLevel(level) {
   return { PRICE_LEVEL_INEXPENSIVE: "$", PRICE_LEVEL_FREE: "$", PRICE_LEVEL_MODERATE: "$$", PRICE_LEVEL_EXPENSIVE: "$$$", PRICE_LEVEL_VERY_EXPENSIVE: "$$$$" }[level] ?? "";
 }
-const DAYS = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"];
-const fmtTime = (h = 0, m = 0) => `${h === 0 ? 12 : h > 12 ? h - 12 : h}:${String(m).padStart(2, "0")} ${h >= 12 ? "PM" : "AM"}`;
 // Same "9:00 AM–5:00 PM" format the refresh job writes, built from structured periods.
-function extractHours(p) {
-  const periods = p.regularOpeningHours?.periods;
-  if (!periods?.length) return null;
-  if (periods.length === 1 && !periods[0].close) return Object.fromEntries(DAYS.map((d) => [d, "Open 24 hours"]));
-  const out = Object.fromEntries(DAYS.map((d) => [d, "Closed"]));
-  for (const per of periods) {
-    if (per.open?.day == null) continue;
-    const day = DAYS[per.open.day === 0 ? 6 : per.open.day - 1];
-    const close = per.close ? fmtTime(per.close.hour, per.close.minute) : "11:59 PM";
-    if (out[day] === "Closed") out[day] = `${fmtTime(per.open.hour, per.open.minute)}–${close}`;
-  }
-  return out;
-}
+const extractHours = (p) => googleHours(p.regularOpeningHours);
 
 let searches = 0, photoCalls = 0;
 async function search(textQuery, pageToken) {

@@ -13,13 +13,13 @@ google_maps_url: "https://maps.google.com/?cid=10372732248439113242&g_mp=Cidnb29
 latitude: 53.489619
 longitude: -113.455620
 hours:
-  monday: "12:00 PM–1:00 PM"
+  monday: "12:00 PM–1:00 PM, 5:00 PM–8:45 PM"
   tuesday: "5:00 PM–9:30 PM"
-  wednesday: "12:00 PM–1:00 PM"
+  wednesday: "12:00 PM–1:00 PM, 5:00 PM–8:45 PM"
   thursday: "5:00 PM–9:30 PM"
-  friday: "12:00 PM–1:00 PM"
+  friday: "12:00 PM–1:00 PM, 5:00 PM–8:45 PM"
   saturday: "10:00 AM–2:00 PM"
-  sunday: "10:30 AM–2:00 PM"
+  sunday: "12:00 PM–2:00 PM"
 photos:
   - "/photos/bairro-martial-arts-academy-south-g2.jpg"
 rating: 4.9

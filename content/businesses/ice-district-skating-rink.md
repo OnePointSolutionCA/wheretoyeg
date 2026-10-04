@@ -17,7 +17,7 @@ hours:
   thursday: "Closed"
   friday: "Closed"
   saturday: "Closed"
-  sunday: "12:00 AM–11:59 PM"
+  sunday: "Open 24 hours"
 photos: ["/photos/ice-district-skating-rink-1.jpg", "/photos/ice-district-skating-rink-2.jpg", "/photos/ice-district-skating-rink-3.jpg"]
 rating: 4.3
 review_count: 19

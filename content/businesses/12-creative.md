@@ -32,12 +32,10 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Sarah Itani"
     rating: 5
-    date: "2026-05-25"
     comment: |
       Eric and his team are absolute superstars - so great at their work and very professional to work with. I highly recommend 12 Creative to anyone looking for quality work and a very collaborative team.
   - name: "Montorio Homes Master Builder"
     rating: 5
-    date: "2026-03-04"
     comment: |
       Working with 12 Creative has been a great experience. Since partnering with them, we have seen a noticeable increase in traffic to our show homes, which has translated into more qualified buyers walking through the door and ultimately more home sales.
       
@@ -46,7 +44,6 @@ reviews:
       — Montorio Homes
   - name: "Diah Nibre"
     rating: 5
-    date: "2025-10-12"
     comment: |
       I’ve worked with Eric and his team at 12 Creative a few times, and they always deliver more than we expect.
       
@@ -57,14 +54,12 @@ reviews:
       We’re now working with them on more projects because of the great experience!
   - name: "Henny sunner"
     rating: 5
-    date: "2025-10-07"
     comment: |
       I lead the marketing team at Durabuilt Windows and Doors, and after working with many agencies over the years, I’m really glad we found 12 Creative. Eric and his team combine strong creative work with great business understanding, which is a rare and valuable mix. They care about the work, move fast, and are easy to collaborate with.
       
       We’ve worked with them on several projects including the branding for Greenbuilt Steel Structures (website, truck decals, collateral, brand guidelines etc.), the website for Glassbuilt Manufacturing, and our Winter Promotion campaign for Durabuilt Windows and Doors. It’s been a great experience working with a local team that truly gets both the creative and the business sides of marketing. We’re looking forward to continuing our partnership!
   - name: "Paul Tran"
     rating: 5
-    date: "2019-11-20"
     comment: |
       My company hired 12 Creative to develop a custom website. We are very happy with their services. Eric and his team are super talented and passionate about what they do.
       

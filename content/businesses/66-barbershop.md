@@ -16,7 +16,7 @@ hours:
   tuesday: "9:00 AM–8:00 PM"
   wednesday: "9:00 AM–8:00 PM"
   thursday: "9:00 AM–8:00 PM"
-  friday: "9:00 AM–1:00 PM"
+  friday: "9:00 AM–1:00 PM, 3:00 PM–8:00 PM"
   saturday: "9:00 AM–6:00 PM"
   sunday: "11:00 AM–5:00 PM"
 photos:

@@ -17,7 +17,7 @@ hours:
   thursday: "Closed"
   friday: "Closed"
   saturday: "Closed"
-  sunday: "12:00 AM–11:59 PM"
+  sunday: "Open 24 hours"
 photos:
   - "/photos/edmonton-junk-removal-garbage-bin-rentals-2.jpg"
 rating: 5

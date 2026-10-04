@@ -17,7 +17,7 @@ hours:
   thursday: "Closed"
   friday: "Closed"
   saturday: "Closed"
-  sunday: "12:00 AM–11:59 PM"
+  sunday: "Open 24 hours"
 photos: ["/photos/boreal-veterinary-centre-1.jpg", "/photos/boreal-veterinary-centre-2.jpg", "/photos/boreal-veterinary-centre-3.jpg"]
 rating: 4.4
 review_count: 535

@@ -17,7 +17,7 @@ hours:
   thursday: "Closed"
   friday: "Closed"
   saturday: "Closed"
-  sunday: "12:00 AM–11:59 PM"
+  sunday: "Open 24 hours"
 photos: ["/photos/iron-24-fitness-recovery-1.jpg", "/photos/iron-24-fitness-recovery-2.jpg", "/photos/iron-24-fitness-recovery-3.jpg"]
 rating: 4.9
 review_count: 162

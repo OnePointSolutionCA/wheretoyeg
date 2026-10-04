@@ -5,7 +5,8 @@
  *
  * Each run refreshes an even share of what's left of Google's free monthly
  * Text Search allowance (see places-budget.mjs), so it never costs money.
- * Active listings are cycled in order via a cursor in places-usage.json.
+ * Slugs listed in refresh-priority.json go first; then active listings are
+ * cycled in order via a cursor in places-usage.json.
  *
  * Requires: GOOGLE_PLACES_API_KEY env var.
  *
@@ -13,7 +14,7 @@
  *   GOOGLE_PLACES_API_KEY=xxx node scripts/refresh-listings.mjs
  *
  * Flags:
- *   --batch=N     Max listings per run (default 250; the free budget usually sets fewer)
+ *   --batch=N     Max listings per run (default 30, under the 32 a day Text Search quota)
  *   --slug=x      Refresh only one business
  *   --dry         Print changes without writing
  *   --all         Refresh all businesses (ignore batching)
@@ -22,9 +23,15 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { addUsage, daysLeftInMonth, freeLeft, loadUsage, saveUsage } from "./places-budget.mjs";
+import { googleHours } from "./google-hours.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const BUSINESS_DIR = path.join(ROOT, "content/businesses");
+const PRIORITY_FILE = path.join(ROOT, "scripts/refresh-priority.json");
+
+async function readPriority() {
+  try { return JSON.parse(await fs.readFile(PRIORITY_FILE, "utf8")); } catch { return []; }
+}
 const KEY = process.env.GOOGLE_PLACES_API_KEY;
 if (!KEY) {
   console.error("Missing GOOGLE_PLACES_API_KEY env var.");
@@ -35,22 +42,26 @@ const ARGS = process.argv.slice(2);
 const DRY = ARGS.includes("--dry");
 const ALL = ARGS.includes("--all");
 const ONLY = ARGS.find((a) => a.startsWith("--slug="))?.split("=")[1];
-const BATCH = parseInt(ARGS.find((a) => a.startsWith("--batch="))?.split("=")[1] ?? "250", 10);
+const BATCH = parseInt(ARGS.find((a) => a.startsWith("--batch="))?.split("=")[1] ?? "30", 10);
 
 const DAYS_MAP = ["sun", "mon", "tue", "wed", "thu", "fri", "sat"];
 const HOURS_KEYS = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"];
 
-async function textSearch(query) {
-  addUsage("search");
+// Hours-only lookups skip reviews, so Google bills them under a cheaper SKU with its own free allowance.
+const FULL_MASK =
+  "places.id,places.displayName,places.rating,places.userRatingCount," +
+  "places.regularOpeningHours,places.reviews,places.nationalPhoneNumber," +
+  "places.websiteUri";
+const HOURS_MASK = "places.id,places.displayName,places.regularOpeningHours";
+
+async function textSearch(query, hoursOnly = false) {
+  addUsage(hoursOnly ? "hours" : "search");
   const res = await fetch("https://places.googleapis.com/v1/places:searchText", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
       "X-Goog-Api-Key": KEY,
-      "X-Goog-FieldMask":
-        "places.id,places.displayName,places.rating,places.userRatingCount," +
-        "places.regularOpeningHours,places.reviews,places.nationalPhoneNumber," +
-        "places.websiteUri",
+      "X-Goog-FieldMask": hoursOnly ? HOURS_MASK : FULL_MASK,
     },
     body: JSON.stringify({
       textQuery: query,
@@ -119,34 +130,6 @@ function updateScalarField(fmRaw, key, value) {
   return lines.join("\n");
 }
 
-function parseGoogleHours(regularOpeningHours) {
-  if (!regularOpeningHours?.periods) return null;
-  const hours = {};
-  for (const day of HOURS_KEYS) hours[day] = "Closed";
-
-  for (const period of regularOpeningHours.periods) {
-    const openDay = period.open?.day;
-    const closeDay = period.close?.day;
-    if (openDay == null) continue;
-
-    const dayName = HOURS_KEYS[openDay === 0 ? 6 : openDay - 1];
-    const openTime = formatTime(period.open?.hour, period.open?.minute);
-    const closeTime = period.close ? formatTime(period.close.hour, period.close.minute) : "11:59 PM";
-
-    if (hours[dayName] === "Closed") {
-      hours[dayName] = `${openTime}–${closeTime}`;
-    }
-  }
-  return hours;
-}
-
-function formatTime(hour, minute) {
-  const h = hour ?? 0;
-  const m = minute ?? 0;
-  const ampm = h >= 12 ? "PM" : "AM";
-  const h12 = h === 0 ? 12 : h > 12 ? h - 12 : h;
-  return m === 0 ? `${h12}:00 ${ampm}` : `${h12}:${String(m).padStart(2, "0")} ${ampm}`;
-}
 
 function updateHoursBlock(fmRaw, hours) {
   if (!hours) return fmRaw;
@@ -197,7 +180,7 @@ function updateReviewsBlock(fmRaw, gReviews) {
   return [...lines.slice(0, idx), ...yaml.split("\n"), ...lines.slice(end)].join("\n");
 }
 
-async function processOne(file) {
+async function processOne(file, hoursOnly = false) {
   const filePath = path.join(BUSINESS_DIR, file);
   const raw = await fs.readFile(filePath, "utf8");
   const parsed = parseFrontmatter(raw);
@@ -215,7 +198,7 @@ async function processOne(file) {
 
   let places;
   try {
-    places = await textSearch(query);
+    places = await textSearch(query, hoursOnly);
   } catch (e) {
     return { slug, status: "search-error", error: e.message };
   }
@@ -226,6 +209,13 @@ async function processOne(file) {
 
   let fm = parsed.fmRaw;
   const changes = [];
+
+  if (hoursOnly) {
+    const hours = googleHours(best.regularOpeningHours);
+    if (!hours) return { slug, status: "no-changes", matched: best.displayName?.text };
+    if (!DRY) await fs.writeFile(filePath, `---\n${updateHoursBlock(fm, hours)}\n---\n${parsed.body}`);
+    return { slug, status: "ok", changes: ["hours"], matched: best.displayName?.text };
+  }
 
   const oldRating = parseFloat(peekField(fm, "rating")) || 0;
   const oldCount = parseInt(peekField(fm, "review_count")) || 0;
@@ -241,7 +231,7 @@ async function processOne(file) {
     changes.push(`reviews ${oldCount}→${newCount}`);
   }
 
-  const hours = parseGoogleHours(best.regularOpeningHours);
+  const hours = googleHours(best.regularOpeningHours);
   if (hours) {
     fm = updateHoursBlock(fm, hours);
     changes.push("hours");
@@ -265,6 +255,7 @@ async function main() {
   const total = allFiles.length;
 
   let files;
+  let hoursOnlyFiles = new Set();
   if (ONLY) {
     files = allFiles;
   } else if (ALL) {
@@ -277,21 +268,30 @@ async function main() {
       if (!/^active:\s*false/m.test(raw)) active.push(f);
     }
     const left = freeLeft("search");
-    const count = Math.min(BATCH, active.length, Math.floor(left / daysLeftInMonth()));
-    if (!count) {
-      console.log(`Free Text Search allowance used up this month (${left} left). Skipping to stay free.`);
+    const rotation = Math.min(BATCH, active.length, Math.floor(left / daysLeftInMonth()));
+    // Listings queued in refresh-priority.json (suspected wrong hours) get an hours-only
+    // lookup in whatever room the daily quota has left after the rotation.
+    const activeSet = new Set(active);
+    const queued = (await readPriority()).filter((s) => activeSet.has(`${s}.md`));
+    const first = queued.slice(0, Math.max(0, Math.min(BATCH - rotation, freeLeft("hours")))).map((s) => `${s}.md`);
+    if (!rotation && !first.length) {
+      console.log(`Free Google allowance used up for now (${left} full searches left this month). Skipping to stay free.`);
       return;
     }
     const usage = loadUsage();
     const start = (usage.refreshCursor ?? 0) % active.length;
-    files = [...active.slice(start), ...active.slice(0, start)].slice(0, count);
-    if (!DRY) saveUsage({ ...loadUsage(), refreshCursor: (start + count) % active.length });
-    console.log(`Refreshing ${count} of ${active.length} active listings from #${start + 1} (${left} free searches left this month)\n`);
+    hoursOnlyFiles = new Set(first);
+    files = [...first, ...[...active.slice(start), ...active.slice(0, start)].slice(0, rotation)];
+    if (!DRY) {
+      saveUsage({ ...loadUsage(), refreshCursor: (start + rotation) % active.length });
+      await fs.writeFile(PRIORITY_FILE, JSON.stringify(queued.slice(first.length), null, 0) + "\n");
+    }
+    console.log(`Refreshing ${rotation} listings from #${start + 1} and checking hours for ${first.length} queued (${left} full searches left this month)\n`);
   }
 
   let ok = 0, noChange = 0, fail = 0;
   for (const file of files) {
-    const r = await processOne(file);
+    const r = await processOne(file, hoursOnlyFiles.has(file));
     if (r.status === "ok") {
       console.log(`  ✓ ${r.slug} → ${r.changes.join(", ")} (${r.matched})`);
       ok++;

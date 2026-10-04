@@ -16,7 +16,7 @@ hours:
   thursday: "Closed"
   friday: "Closed"
   saturday: "Closed"
-  sunday: "12:00 AM–11:59 PM"
+  sunday: "Open 24 hours"
 photos:
   - "/photos/dainty-develops-photography-g1.jpg"
   - "/photos/dainty-develops-photography-2.jpg"

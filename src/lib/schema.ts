@@ -1,6 +1,7 @@
 import { SITE } from "./site";
 import type { Business, Hours } from "./types";
 import { parseAddress } from "./place";
+import { parseDayHours } from "./openNow";
 
 const CATEGORY_TYPE: Record<string, string> = {
   restaurants: "Restaurant",
@@ -33,37 +34,28 @@ const DAY_MAP: Record<keyof Hours, string> = {
   sunday: "Sunday",
 };
 
+function hhmm(mins: number): string {
+  const t = mins % 1440;
+  return `${String(Math.floor(t / 60)).padStart(2, "0")}:${String(t % 60).padStart(2, "0")}`;
+}
+
 function parseHoursSpec(hours: Hours | undefined) {
   if (!hours) return [];
   const specs: object[] = [];
   for (const [key, value] of Object.entries(hours)) {
     const day = DAY_MAP[key as keyof Hours];
-    if (!day || !value || value.toLowerCase() === "closed") continue;
-    const match = value.match(/(\d{1,2}:\d{2}\s*[AP]M)\s*-\s*(\d{1,2}:\d{2}\s*[AP]M)/i);
-    if (!match) continue;
-    const opens = to24(match[1]);
-    const closes = to24(match[2]);
-    if (opens && closes) {
+    if (!day) continue;
+    for (const [open, close] of parseDayHours(value) ?? []) {
       specs.push({
         "@type": "OpeningHoursSpecification",
         dayOfWeek: day,
-        opens,
-        closes,
+        opens: hhmm(open),
+        // A close earlier than the open means the next morning; a midnight close reads as the end of the day.
+        closes: close === 1440 ? "23:59" : hhmm(close),
       });
     }
   }
   return specs;
-}
-
-function to24(t: string): string | null {
-  const m = t.match(/(\d{1,2}):(\d{2})\s*(AM|PM)/i);
-  if (!m) return null;
-  let h = parseInt(m[1], 10);
-  const min = m[2];
-  const ampm = m[3].toUpperCase();
-  if (ampm === "PM" && h < 12) h += 12;
-  if (ampm === "AM" && h === 12) h = 0;
-  return `${String(h).padStart(2, "0")}:${min}`;
 }
 
 export function businessSchema(b: Business) {

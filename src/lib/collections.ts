@@ -1,5 +1,5 @@
 import type { Business } from "./types";
-import { openStatus } from "./openNow";
+import { parseDayHours, weekIntervals } from "./openNow";
 
 export type Collection = {
   slug: string;
@@ -19,34 +19,14 @@ const hasTag = (b: Business, ...ts: string[]) => {
   return ts.some((t) => set.has(t));
 };
 
-// Parse "10:00 PM" → 22, "12:00 AM" → 24 (represents end-of-day)
-function parseHour(s: string): number | null {
-  const m = s.match(/(\d{1,2}):?(\d{0,2})\s*(AM|PM)/i);
-  if (!m) return null;
-  let h = parseInt(m[1], 10);
-  const suf = m[3].toUpperCase();
-  if (suf === "PM" && h !== 12) h += 12;
-  if (suf === "AM" && h === 12) h = 24;
-  return h;
-}
-
+// Open until 10 PM or later (24-hour days count) on at least three days of the week.
 function isOpenLate(b: Business): boolean {
-  const days = ["monday","tuesday","wednesday","thursday","friday","saturday","sunday"] as const;
-  let lateCount = 0;
-  for (const d of days) {
-    const range = b.hours?.[d] ?? "";
-    if (/24 hours/i.test(range)) return true;
-    const parts = range.split("-");
-    if (parts.length !== 2) continue;
-    const end = parseHour(parts[1]);
-    if (end != null && end >= 22) lateCount++;
-  }
-  return lateCount >= 3;
+  const lateDays = weekIntervals(b.hours).filter((day) => day?.some(([, close]) => close >= 22 * 60)).length;
+  return lateDays >= 3;
 }
 
 function isOpenSunday(b: Business): boolean {
-  const s = b.hours?.sunday ?? "";
-  return !!s && !/closed/i.test(s);
+  return (parseDayHours(b.hours?.sunday)?.length ?? 0) > 0;
 }
 
 export const COLLECTIONS: Collection[] = [

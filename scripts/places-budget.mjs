@@ -4,18 +4,20 @@
  * Google dropped the $200 monthly credit in March 2025. Each SKU now has its own
  * free allowance per billing month (Pacific time), then bills per call:
  *   search: Text Search Enterprise + Atmosphere (reviews / servesBeer fields) · 1,000 free, then $40 per 1,000
+ *   hours:  Text Search Enterprise (opening hours only, no reviews)          · 1,000 free, then $35 per 1,000
  *   photo:  Place Details Photos                                             · 1,000 free, then $7 per 1,000
  *
  * Every script that calls Places records its calls in scripts/places-usage.json
- * (committed, so the GitHub Action and local runs share one count).
+ * (committed, so the GitHub Action and local runs share one count). On top of the
+ * monthly caps, the Cloud console caps each request type at 32 a day.
  */
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const FILE = path.join(path.dirname(fileURLToPath(import.meta.url)), "places-usage.json");
-export const FREE_CAP = { search: 1000, photo: 1000 };
-export const PRICE = { search: 0.04, photo: 0.007 };
+export const FREE_CAP = { search: 1000, hours: 1000, photo: 1000 };
+export const PRICE = { search: 0.04, hours: 0.035, photo: 0.007 };
 const HEADROOM = 50; // left for manual tests
 
 function pacificParts(d = new Date()) {
