@@ -5,6 +5,7 @@ import { StarRating } from "./StarRating";
 import { OpenNowBadge } from "./OpenNowBadge";
 import { CategoryPlaceholder } from "./CategoryPlaceholder";
 import { placeLabel } from "@/lib/place";
+import { plainDashes } from "@/lib/text";
 
 
 export function BusinessCard({ business, categoryName }: { business: Business; categoryName?: string }) {
@@ -39,7 +40,7 @@ export function BusinessCard({ business, categoryName }: { business: Business; c
           )}
         </div>
       </Link>
-      {/* Logo badge — only shown when there IS a photo, so the logo sits over it like Yelp */}
+      {/* Logo badge, only shown when there IS a photo, so the logo sits over it like Yelp */}
       {photo && b.logo && (
         <div className="absolute left-4 top-4 flex h-12 w-12 items-center justify-center overflow-hidden rounded-xl border border-white/70 bg-white shadow-card">
           <Image src={b.logo} alt="" fill sizes="48px" className="object-contain p-1.5" />
@@ -68,7 +69,7 @@ export function BusinessCard({ business, categoryName }: { business: Business; c
           {b.tier === "premium" && <span className="badge-premium shrink-0">Premium</span>}
         </div>
         <StarRating value={b.rating} count={b.review_count} />
-        {b.description && !b.generatedDescription && <p className="line-clamp-2 text-sm text-teal-500">{b.description}</p>}
+        {b.description && !b.generatedDescription && <p className="line-clamp-2 text-sm text-teal-500">{plainDashes(b.description)}</p>}
         <div className="mt-1 flex flex-wrap gap-1.5">
           {b.amenities?.slice(0, 3).map((a) => (
             <span key={a} className="pill">

@@ -13,6 +13,7 @@ import { byRank, hubCount, hubHref } from "@/lib/areas";
 import { fitTitle, listJoin, metaDescription, nf } from "@/lib/seo";
 import { toCard } from "@/lib/slim";
 import { SITE } from "@/lib/site";
+import { displayDayHours } from "@/lib/openNow";
 
 /** One indexable page for the site's biggest niche: every restaurant marked halal. */
 
@@ -102,7 +103,7 @@ export default function HalalRestaurantsPage() {
     ...(sunday.length >= 3
       ? [{
           q: "Which halal restaurants are open on Sunday?",
-          a: `${nf(sunday.length)} of the halal restaurants listed here show Sunday hours, including ${listJoin(distinct(sunday, 3).map((b) => `${b.name} (${b.hours.sunday})`))}. Hours change, so check the listing or call ahead.`,
+          a: `${nf(sunday.length)} of the halal restaurants listed here show Sunday hours, including ${listJoin(distinct(sunday, 3).map((b) => `${b.name} (${displayDayHours(b.hours.sunday)})`))}. Hours change, so check the listing or call ahead.`,
           links: distinct(sunday, 3).map((b) => ({ label: b.name, href: `/${b.category}/${b.slug}` })),
         }]
       : []),

@@ -97,7 +97,7 @@ export default function CollectionPage({ params }: { params: { slug: string } })
         ) : (
           <div className="rounded-2xl border border-dashed border-line bg-mist p-10 text-center">
             <p className="font-semibold text-teal">Nothing here yet.</p>
-            <p className="mt-1 text-sm text-teal-500">Check back soon — we&apos;re always adding new spots.</p>
+            <p className="mt-1 text-sm text-teal-500">Check back soon. We&apos;re always adding new spots.</p>
           </div>
         )}
       </section>

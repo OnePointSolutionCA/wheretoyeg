@@ -1,8 +1,8 @@
 ---
-title: "Best Barbers in Edmonton (2026) — Fades, Beard Trims & Straight-Razor Shaves"
-seoTitle: "Best Barbers in Edmonton 2026 — Top Barbershops Near Me | WhereToYEG"
+title: "Best Barbers in Edmonton (2026) | Fades, Beard Trims & Straight-Razor Shaves"
+seoTitle: "Best Barbers in Edmonton 2026 | Top Barbershops Near Me | WhereToYEG"
 slug: "best-barbers-edmonton-2026"
-description: "Where to get the best haircut in Edmonton. Skin fades, beard trims, straight-razor shaves — the barbershops locals book weeks in advance."
+description: "Where to get the best haircut in Edmonton. Skin fades, beard trims, straight-razor shaves, the barbershops locals book weeks in advance."
 publishedDate: "2026-08-18"
 tags: ["barbers", "haircut", "fades", "grooming", "guides"]
 ---
@@ -19,21 +19,21 @@ Booking a barber in Edmonton isn't hard. Booking the right barber is. There are 
 
 ## Top barbershops in Edmonton
 
-**[Barber Squad](/barbers/barber-squad)** — Detail-heavy fades, precise beard shaping, and a shop that takes booking seriously. Book at least a week ahead.
+**[Barber Squad](/barbers/barber-squad):** Detail-heavy fades, precise beard shaping, and a shop that takes booking seriously. Book at least a week ahead.
 
-**[Compound Cut Club](/barbers/compound-cut-club-barbershop)** — Modern shop, strong reputation for skin fades and textured cuts. Consistent stylists across the roster.
+**[Compound Cut Club](/barbers/compound-cut-club-barbershop):** Modern shop, strong reputation for skin fades and textured cuts. Consistent stylists across the roster.
 
-**[Mr. Barber Downtown](/barbers/mr-barber-downtown)** — Central location, quick turnaround for downtown workers, good for a straightforward tune-up between fuller haircuts.
+**[Mr. Barber Downtown](/barbers/mr-barber-downtown):** Central location, quick turnaround for downtown workers, good for a straightforward tune-up between fuller haircuts.
 
 Browse all [barbershops in Edmonton](/barbers) on WhereToYEG.
 
-## Fade types — what to actually ask for
+## Fade types, what to actually ask for
 
-- **Low fade** — starts at the ear, most conservative, easiest to grow out.
-- **Mid fade** — starts halfway up the head, most versatile.
-- **High fade / skin fade** — starts near the temples, cleanest look, needs a touch-up every 2–3 weeks.
-- **Taper** — very subtle fade around the ears and neck, keeps length on top and sides. Corporate-safe.
-- **Burst fade** — fade radiates around the ear, mostly paired with mullets or mohawks.
+- **Low fade:** starts at the ear, most conservative, easiest to grow out.
+- **Mid fade:** starts halfway up the head, most versatile.
+- **High fade / skin fade:** starts near the temples, cleanest look, needs a touch-up every 2 to 3 weeks.
+- **Taper:** very subtle fade around the ears and neck, keeps length on top and sides. Corporate-safe.
+- **Burst fade:** fade radiates around the ear, mostly paired with mullets or mohawks.
 
 If you have no idea what you want, ask for "a mid-fade with about 2 inches on top, styled easy." A good barber will take it from there.
 
@@ -41,28 +41,28 @@ If you have no idea what you want, ask for "a mid-fade with about 2 inches on to
 
 Every barber offers beard work but not every barber is good at it. If the beard is the main point:
 
-- **Ask for a "trim and shape"** — not a "trim." A shape acknowledges you have a chin line and cheek line that need thinking about.
+- **Ask for a "trim and shape":** not a "trim." A shape acknowledges you have a chin line and cheek line that need thinking about.
 - **Bring a photo.** Not to copy, but to communicate density and length.
 - **A hot-towel finish** should be included on a proper beard service. If it isn't, the shop is cutting corners.
 
-## Straight-razor shaves — worth it?
+## Straight-razor shaves, worth it?
 
-For a special occasion (wedding, big trip), yes. As a weekly habit, expensive. A proper straight-razor shave is 45 minutes, includes hot towels, pre-shave oil, lather with a brush, two passes of the blade, and post-shave balm. Expect to pay $45–$70. It won't cut as close as an electric razor at home, but it feels incredible.
+For a special occasion (wedding, big trip), yes. As a weekly habit, expensive. A proper straight-razor shave is 45 minutes, includes hot towels, pre-shave oil, lather with a brush, two passes of the blade, and post-shave balm. Expect to pay $45 to $70. It won't cut as close as an electric razor at home, but it feels incredible.
 
 ## What you should pay
 
-- **Cheap cut** — $18–$25. Fine for a maintenance trim between real haircuts.
-- **Standard shop** — $35–$45. What most working barbers charge for a fade and style.
-- **Premium shop** — $55–$75. Longer appointment, more attention, better product.
-- **Beard trim add-on** — $15–$25 extra on top of a haircut.
-- **Straight-razor shave** — $45–$70.
+- **Cheap cut:** $18 to $25. Fine for a maintenance trim between real haircuts.
+- **Standard shop:** $35 to $45. What most working barbers charge for a fade and style.
+- **Premium shop:** $55 to $75. Longer appointment, more attention, better product.
+- **Beard trim add-on:** $15 to $25 extra on top of a haircut.
+- **Straight-razor shave:** $45 to $70.
 
 ## Best areas for barbershops in Edmonton
 
-- **Downtown / Jasper Ave** — Quick lunch cuts for office workers.
-- **124 Street** — Higher-end, style-forward shops.
-- **South Edmonton** — Strong halal and multicultural barber scene along 34 Ave and Gateway.
-- **North Edmonton** — Neighborhood shops with regulars going back years.
+- **Downtown / Jasper Ave:** Quick lunch cuts for office workers.
+- **124 Street:** Higher-end, style-forward shops.
+- **South Edmonton:** Strong halal and multicultural barber scene along 34 Ave and Gateway.
+- **North Edmonton:** Neighborhood shops with regulars going back years.
 
 ## Related reading
 

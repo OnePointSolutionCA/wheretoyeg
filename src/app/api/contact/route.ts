@@ -12,7 +12,7 @@ export async function POST(req: Request) {
   try {
     const data = await req.json().catch(() => ({}));
 
-    // Honeypot — if a bot filled it, silently 200
+    // Honeypot, if a bot filled it, silently 200
     if (typeof data.website_url === "string" && data.website_url.length > 0) {
       return NextResponse.json({ ok: true });
     }

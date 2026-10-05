@@ -121,8 +121,8 @@ function labelBranches(list: Business[]) {
   }
 }
 
-// Matches importer one-liners like "X — pastry in Edmonton, Edmonton. 1387 Google reviews, 4.7★."
-const AUTO_DESC = /^.{1,120} — .{1,80} in .{1,60}\.( Halal-certified\.)?( [\d,]+ Google reviews, [\d.]+★\.?)?$/;
+// Matches importer one-liners like "X, pastry in Edmonton, Edmonton. 1387 Google reviews, 4.7★."
+const AUTO_DESC = /^.{1,120} .{1,80} in .{1,60}\.( Halal-certified\.)?( [\d,]+ Google reviews, [\d.]+★\.?)?$/;
 
 function isAutoDescription(d?: string) {
   return !d || AUTO_DESC.test(d.trim());

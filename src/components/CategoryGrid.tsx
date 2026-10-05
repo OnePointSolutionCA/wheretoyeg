@@ -3,7 +3,7 @@ import { getCategories, countByCategory } from "@/lib/content";
 import { CategoryIcon } from "./CategoryIcon";
 
 // Categories that get the big hero-photo treatment on the homepage.
-// Order matters — it's the order they render.
+// Order matters. It's the order they render.
 const HERO_CATEGORY_SLUGS = [
   "restaurants",
   "cafes-coffee-shops",

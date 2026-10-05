@@ -18,7 +18,7 @@ export default function ContactPage() {
             Say hi.
           </h1>
           <p className="mt-4 max-w-md text-teal-500">
-            Business listings, corrections, tips, partnerships — send it all to the same inbox. We reply within 1 business day.
+            Business listings, corrections, tips, partnerships, send it all to the same inbox. We reply within 1 business day.
           </p>
 
           <div className="mt-8 space-y-4 text-teal">

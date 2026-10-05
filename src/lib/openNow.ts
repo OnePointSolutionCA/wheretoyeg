@@ -101,9 +101,10 @@ export function openStatus(hours: Hours | undefined, now: Date = edmontonNow()):
 
 /** How a day's hours read on the page. */
 export function displayDayHours(value?: string): string {
-  if (!value) return "—";
+  if (!value) return "Not listed";
   const v = clean(value);
-  return /^12:00 AM\s*[–-]\s*11:59 PM$/i.test(v) ? "Open 24 hours" : v;
+  // Shown to visitors as "9:00 AM to 5:00 PM" (no dashes); parsing above still reads the raw value.
+  return /^12:00 AM\s*[–-]\s*11:59 PM$/i.test(v) ? "Open 24 hours" : v.replace(/\s*[–—]\s*/g, " to ");
 }
 
 function fmt(mins: number): string {

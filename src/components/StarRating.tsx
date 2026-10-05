@@ -13,7 +13,7 @@ export function StarRating({
 }) {
   const baseId = useId();
 
-  // No reviews yet — show a neutral badge instead of empty stars + 0.0
+  // No reviews yet, show a neutral badge instead of empty stars + 0.0
   if (!value || !count) {
     return (
       <span className="inline-flex items-center gap-1.5 rounded-full bg-mist px-2 py-0.5 text-[11px] font-semibold uppercase tracking-wide text-teal-500 align-middle">

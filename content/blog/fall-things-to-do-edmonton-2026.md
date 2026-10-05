@@ -1,6 +1,6 @@
 ---
-title: "Fall Things to Do in Edmonton (2026) — Before the Snow Hits"
-seoTitle: "Fall Things to Do in Edmonton 2026 — Seasonal Activities & Events | WhereToYEG"
+title: "Fall Things to Do in Edmonton (2026) | Before the Snow Hits"
+seoTitle: "Fall Things to Do in Edmonton 2026 | Seasonal Activities & Events | WhereToYEG"
 slug: "fall-things-to-do-edmonton-2026"
 description: "The best things to do in Edmonton this fall. River valley hikes, corn mazes, local food events, and indoor activities before winter arrives."
 publishedDate: "2026-09-30"
@@ -9,7 +9,7 @@ tags: ["activities", "fall", "edmonton", "events", "guides"]
 
 Edmonton fall lasts about six weeks. The leaves turn gold around mid-September, the first frost hits in late September or early October, and by November you're fully in winter mode. That window is short, but it might be the best time of year in the city. Here's how to use it.
 
-## Outdoor stuff — do this first
+## Outdoor stuff, do this first
 
 The window is closing. Prioritize anything outside before the snow sticks.
 
@@ -17,10 +17,10 @@ The window is closing. Prioritize anything outside before the snow sticks.
 
 Edmonton's river valley is 7,400 hectares of parkland cutting through the center of the city. In fall, it turns into a golden tunnel. Best trails for fall color:
 
-- **Terwillegar Park** — Wide trails, big trees, dog-friendly. The footbridge over the river is worth the walk alone.
-- **Mill Creek Ravine** — South side. Paved path through a deep ravine that explodes with yellow and orange in late September.
-- **Goldbar Park to Rundle Park** — East side. Quieter, fewer crowds, excellent leaf coverage.
-- **Whitemud Ravine** — Southwest. Feels like you're not in a city. Best on a weekday morning when you might have the trail to yourself.
+- **Terwillegar Park:** Wide trails, big trees, dog-friendly. The footbridge over the river is worth the walk alone.
+- **Mill Creek Ravine:** South side. Paved path through a deep ravine that explodes with yellow and orange in late September.
+- **Goldbar Park to Rundle Park:** East side. Quieter, fewer crowds, excellent leaf coverage.
+- **Whitemud Ravine:** Southwest. Feels like you're not in a city. Best on a weekday morning when you might have the trail to yourself.
 
 Wear layers. Morning hikes start at 2-5°C in October. By noon it can be 15°C.
 
@@ -28,17 +28,17 @@ Wear layers. Morning hikes start at 2-5°C in October. By noon it can be 15°C.
 
 This is peak season. Check each farm's dates and hours before you drive out:
 
-- **Edmonton Corn Maze** — West of the city. The classic fall outing for families. Busy on weekends.
-- **Kraay Family Farm** — In Lacombe, about 90 minutes south. A huge corn maze and a full day of farm activities. Worth the drive if you have kids.
-- **Prairie Gardens & Adventure Farm** — Bon Accord, north of St. Albert. Pumpkin patch and fall harvest weekends.
+- **Edmonton Corn Maze:** West of the city. The classic fall outing for families. Busy on weekends.
+- **Kraay Family Farm:** In Lacombe, about 90 minutes south. A huge corn maze and a full day of farm activities. Worth the drive if you have kids.
+- **Prairie Gardens & Adventure Farm:** Bon Accord, north of St. Albert. Pumpkin patch and fall harvest weekends.
 
 Go on a weekday if you can. Weekend lineups at the popular farms are real.
 
-### Farmers markets — last calls
+### Farmers markets, last calls
 
 The **Old Strathcona Farmers' Market** runs year-round indoors. Outdoor markets like the **St. Albert Farmers' Market** and the **124 Grand Market** wind down as fall sets in, so check their final dates. Stock up on local produce, preserves, and baking while you can.
 
-## Indoor activities — when it gets cold
+## Indoor activities, when it gets cold
 
 ### Escape rooms
 
@@ -56,15 +56,15 @@ Fall is the right time to book a spa day before the holiday rush. Local spas fil
 
 ### Thanksgiving dinner prep
 
-Thanksgiving is October 12 this year. If you're cooking, hit the farmers market the weekend before for turkey, root vegetables, and pie. If you're not cooking, several Edmonton restaurants do Thanksgiving prix fixe menus — call and reserve by early October.
+Thanksgiving is October 12 this year. If you're cooking, hit the farmers market the weekend before for turkey, root vegetables, and pie. If you're not cooking, several Edmonton restaurants do Thanksgiving prix fixe menus, call and reserve by early October.
 
 ### Fall comfort food
 
 The best time of year for Edmonton's soup, stew, and ramen spots. A few categories to explore:
 
-- [Vietnamese restaurants](/restaurants/vietnamese) — Pho season is officially here
-- [Korean food](/blog/best-korean-food-edmonton-2026) — Hot stone bibimbap weather
-- [Indian food](/blog/best-indian-food-edmonton-2026) — Butter chicken hits different when it's 3°C outside
+- [Vietnamese restaurants](/restaurants/vietnamese): Pho season is officially here
+- [Korean food](/blog/best-korean-food-edmonton-2026): Hot stone bibimbap weather
+- [Indian food](/blog/best-indian-food-edmonton-2026): Butter chicken hits different when it's 3°C outside
 
 ### Coffee shop season
 
@@ -83,4 +83,4 @@ Fall is also prep season. A few things to knock out before November:
 
 Edmonton fall is beautiful, brief, and packed. Hike the river valley while the leaves are up, hit a corn maze on a weekday, book your winter tire swap now, and find a coffee shop you'll spend the next five months in. By mid-November the snow is here and the priorities shift entirely.
 
-Find everything you need at [WhereToYEG](/) — 1,700+ local businesses across Edmonton.
+Find everything you need at [WhereToYEG](/), 1,700+ local businesses across Edmonton.

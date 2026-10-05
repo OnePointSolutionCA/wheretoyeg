@@ -1,6 +1,6 @@
 ---
-title: "Best Restaurants for Large Groups in Edmonton (2026) — Where to Actually Fit 10+ People"
-seoTitle: "Best Restaurants for Large Groups in Edmonton 2026 — Group Dining | WhereToYEG"
+title: "Best Restaurants for Large Groups in Edmonton (2026) | Where to Actually Fit 10+ People"
+seoTitle: "Best Restaurants for Large Groups in Edmonton 2026 | Group Dining | WhereToYEG"
 slug: "best-restaurants-large-groups-edmonton-2026"
 description: "Planning dinner for 10, 15, or 20 people in Edmonton? These restaurants handle big groups without making you wait two hours or split the bill by hand."
 publishedDate: "2026-08-26"
@@ -48,6 +48,6 @@ It's not just about having a big table. The things that matter when you're 10+:
 
 ## Halal-friendly group dining
 
-For halal groups, **Paramount Fine Foods** handles big parties and everything is halal-certified. **Sultan Shinwari** can accommodate large groups for Pakistani/Afghan cuisine — call ahead for their group platters.
+For halal groups, **Paramount Fine Foods** handles big parties and everything is halal-certified. **Sultan Shinwari** can accommodate large groups for Pakistani/Afghan cuisine, call ahead for their group platters.
 
-Browse all [Edmonton restaurants](/restaurants) on WhereToYEG — filter by amenity, neighborhood, or cuisine to find the right fit.
+Browse all [Edmonton restaurants](/restaurants) on WhereToYEG, filter by amenity, neighborhood, or cuisine to find the right fit.

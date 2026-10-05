@@ -1,8 +1,8 @@
 ---
-title: "Best Chinese Food in Edmonton (2026) — Dim Sum, Szechuan & More"
-seoTitle: "Best Chinese Restaurants in Edmonton 2026 — Dim Sum & Szechuan | WhereToYEG"
+title: "Best Chinese Food in Edmonton (2026) | Dim Sum, Szechuan & More"
+seoTitle: "Best Chinese Restaurants in Edmonton 2026 | Dim Sum & Szechuan | WhereToYEG"
 slug: "best-chinese-food-edmonton-2026"
-description: "Where to find the best Chinese food in Edmonton. Dim sum, Szechuan, Cantonese, hand-pulled noodles — the Chinese restaurants locals actually recommend."
+description: "Where to find the best Chinese food in Edmonton. Dim sum, Szechuan, Cantonese, hand-pulled noodles, the Chinese restaurants locals actually recommend."
 publishedDate: "2026-09-21"
 tags: ["chinese", "dim-sum", "szechuan", "restaurants", "edmonton"]
 ---
@@ -21,10 +21,10 @@ Dim sum is a weekend tradition in Edmonton, and the city has proper cart-service
 
 ## What to know before you go
 
-- **Dim sum timing** — go between 10 AM and noon on weekends for the best selection. By 1 PM the popular dishes start running out.
-- **Family style** — most Chinese restaurants are built for sharing. Order one dish per person plus one extra, put everything in the middle, and pass it around.
-- **Tea service** — at dim sum, your tea is refilled for free. Flip the teapot lid open when you need more — that's the signal to the server.
-- **Cash vs. card** — some of the older spots still prefer cash. Check before you sit down.
-- **MSG** — many traditional Chinese restaurants use MSG. It's a flavor enhancer, not something to fear. If you have a sensitivity, ask, but don't assume it's bad.
+- **Dim sum timing:** go between 10 AM and noon on weekends for the best selection. By 1 PM the popular dishes start running out.
+- **Family style:** most Chinese restaurants are built for sharing. Order one dish per person plus one extra, put everything in the middle, and pass it around.
+- **Tea service:** at dim sum, your tea is refilled for free. Flip the teapot lid open when you need more: that's the signal to the server.
+- **Cash vs. card:** some of the older spots still prefer cash. Check before you sit down.
+- **MSG:** many traditional Chinese restaurants use MSG. It's a flavor enhancer, not something to fear. If you have a sensitivity, ask, but don't assume it's bad.
 
 Edmonton's Chinese food is the real thing. Skip the food court versions and eat where the families eat.

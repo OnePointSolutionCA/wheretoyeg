@@ -10,7 +10,7 @@ const CATEGORIES = [
   "Activities & Fun", "Professional Services", "Other",
 ];
 
-const TIERS = ["Free listing", "Basic — $25/mo", "Featured — $50/mo", "Premium — $100/mo", "Not sure yet"];
+const TIERS = ["Free listing", "Basic ($25/mo)", "Featured ($50/mo)", "Premium ($100/mo)", "Not sure yet"];
 
 export function GetListedForm({ defaultTier }: { defaultTier?: string }) {
   const [businessName, setBusinessName] = useState("");

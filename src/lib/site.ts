@@ -7,7 +7,7 @@ export const SITE = {
     "Edmonton's local business directory. Discover the best restaurants, barbers, cafes, and hidden gems across YEG.",
   /** Shown to visitors as our contact address. */
   email: "hello@wheretoyeg.ca",
-  /** Where mail actually delivers — form submissions + mailto links land here. */
+  /** Where mail actually delivers, form submissions + mailto links land here. */
   deliveryEmail: "info@onepointsolutionsca.com",
   neighborhoods: [
     "Downtown",

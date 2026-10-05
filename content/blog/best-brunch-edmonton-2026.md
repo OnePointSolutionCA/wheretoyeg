@@ -1,13 +1,13 @@
 ---
-title: "Best Brunch in Edmonton (2026) — Weekend Spots & Sunday Institutions"
-seoTitle: "Best Brunch in Edmonton 2026 — Weekend Brunch Near Me | WhereToYEG"
+title: "Best Brunch in Edmonton (2026) | Weekend Spots & Sunday Institutions"
+seoTitle: "Best Brunch in Edmonton 2026 | Weekend Brunch Near Me | WhereToYEG"
 slug: "best-brunch-edmonton-2026"
-description: "The best brunch spots in Edmonton. Weekend brunch, halal options, patio brunch on Whyte Ave — where to book and what to order."
+description: "The best brunch spots in Edmonton. Weekend brunch, halal options, patio brunch on Whyte Ave, where to book and what to order."
 publishedDate: "2026-08-18"
 tags: ["brunch", "restaurants", "weekend", "breakfast", "guides"]
 ---
 
-Brunch in Edmonton has grown up. It's no longer just eggs benny at the diner — there are proper weekend brunches with fresh-pressed juice, halal brunches with shakshuka and manakish, and casual patio brunches on Whyte Ave. Here's where to go.
+Brunch in Edmonton has grown up. It's no longer just eggs benny at the diner, there are proper weekend brunches with fresh-pressed juice, halal brunches with shakshuka and manakish, and casual patio brunches on Whyte Ave. Here's where to go.
 
 ## What separates a good brunch from a sad one
 
@@ -19,41 +19,41 @@ Brunch in Edmonton has grown up. It's no longer just eggs benny at the diner —
 
 ## Top brunch spots in Edmonton
 
-**[Paramount Fine Foods](/restaurants/paramount-fine-foods)** — Premium halal Lebanese, weekend brunch runs the classics — shakshuka, manakish, foul mudammas, fresh baklava on the way out. 4.4 stars over 288 reviews.
+**[Paramount Fine Foods](/restaurants/paramount-fine-foods):** Premium halal Lebanese, weekend brunch runs the classics, shakshuka, manakish, foul mudammas, fresh baklava on the way out. 4.4 stars over 288 reviews.
 
-**[Duchess Bake Shop](/bakeries/duchess-bake-shop)** — Not a full brunch menu but a pastry and coffee stop that anchors a proper morning. Croissants, quiche, and coffee that's actually good.
+**[Duchess Bake Shop](/bakeries/duchess-bake-shop):** Not a full brunch menu but a pastry and coffee stop that anchors a proper morning. Croissants, quiche, and coffee that's actually good.
 
 Browse all [Edmonton restaurants](/restaurants) and filter for [Weekend Brunch](/restaurants?amenity=Weekend+Brunch).
 
 ## What to order
 
-- **Eggs Benedict** — the test. Poached eggs should have runny yolks, English muffin toasted, hollandaise made that morning.
-- **Shakshuka** — eggs poached in spiced tomato sauce, served with warm bread. Halal-friendly, endlessly comforting.
-- **Chicken and waffles** — done right, one of the best brunch inventions. Look for buttermilk brined chicken.
-- **Avocado toast** — hard to mess up, easy to overpay for. Should be $12–$16 max.
-- **Manakish (Lebanese flatbread)** — za'atar or cheese. Best brunch bread in the city if you find it done properly.
+- **Eggs Benedict:** the test. Poached eggs should have runny yolks, English muffin toasted, hollandaise made that morning.
+- **Shakshuka:** eggs poached in spiced tomato sauce, served with warm bread. Halal-friendly, endlessly comforting.
+- **Chicken and waffles:** done right, one of the best brunch inventions. Look for buttermilk brined chicken.
+- **Avocado toast:** hard to mess up, easy to overpay for. Should be $12 to $16 max.
+- **Manakish (Lebanese flatbread):** za'atar or cheese. Best brunch bread in the city if you find it done properly.
 
 ## Halal brunch options
 
 Halal brunch is one of Edmonton's underrated scenes. Paramount is the flagship, but there are neighborhood spots serving fried halal chicken, halal beef bacon, and shakshuka every weekend. Filter [restaurants by Halal](/halal-restaurants) for the full list.
 
-## Reservations — book them
+## Reservations, book them
 
-Most Edmonton brunch spots take reservations for parties of 4+. For parties of 2, walk-in works if you arrive by 9:30am or after 1pm. Weekends from 10am–12:30pm are peak — expect a wait unless you booked.
+Most Edmonton brunch spots take reservations for parties of 4+. For parties of 2, walk-in works if you arrive by 9:30am or after 1pm. Weekends from 10am to 12:30pm are peak, expect a wait unless you booked.
 
 ## Brunch drinks worth ordering
 
-- **Fresh-squeezed orange juice** — if it's from concentrate, order something else.
-- **A proper latte or flat white** — the fastest test of whether a café takes coffee seriously.
-- **Karak chai or Turkish coffee** — standard at Edmonton's halal brunch spots, and worth the switch.
-- **Fresh mint lemonade** — the summer patio order.
+- **Fresh-squeezed orange juice:** if it's from concentrate, order something else.
+- **A proper latte or flat white:** the fastest test of whether a café takes coffee seriously.
+- **Karak chai or Turkish coffee:** standard at Edmonton's halal brunch spots, and worth the switch.
+- **Fresh mint lemonade:** the summer patio order.
 
 ## Best brunch neighborhoods
 
-- **Whyte Ave / Old Strathcona** — patio brunch capital, walkable, cluster of options.
-- **124 Street** — brunch-heavy, third-wave coffee, higher-end vibe.
-- **Downtown / 104 St** — Sunday brunch has become a proper thing here.
-- **South Edmonton (Windermere)** — newer spots, family-friendly, easier parking.
+- **Whyte Ave / Old Strathcona:** patio brunch capital, walkable, cluster of options.
+- **124 Street:** brunch-heavy, third-wave coffee, higher-end vibe.
+- **Downtown / 104 St:** Sunday brunch has become a proper thing here.
+- **South Edmonton (Windermere):** newer spots, family-friendly, easier parking.
 
 ## Related reading
 

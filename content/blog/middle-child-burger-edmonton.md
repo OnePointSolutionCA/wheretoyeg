@@ -1,5 +1,5 @@
 ---
-title: "Middle Child Burger — Edmonton's Trending Halal Smash Burger"
+title: "Middle Child Burger | Edmonton's Trending Halal Smash Burger"
 slug: "middle-child-burger-edmonton"
 seoTitle: "Middle Child Burger Edmonton: Review, Hours & What to Order"
 description: "Middle Child Burger on 152 Ave NW in North Edmonton makes halal smash burgers and is open 7 days. Our review, the hours, and what to order on your first visit."
@@ -7,17 +7,17 @@ publishedDate: "2026-08-17"
 tags: ["burgers", "halal", "restaurants", "north-edmonton"]
 ---
 
-If you've been anywhere near Edmonton's food scene lately, you've probably heard the name. Middle Child Burger at 12618 152 Ave NW has quietly become one of the city's most talked-about burger spots — and the reviews back it up. 4.7 stars across nearly 200 Google reviews, almost entirely from regulars who keep coming back.
+If you've been anywhere near Edmonton's food scene lately, you've probably heard the name. Middle Child Burger at 12618 152 Ave NW has quietly become one of the city's most talked-about burger spots, and the reviews back it up. 4.7 stars across nearly 200 Google reviews, almost entirely from regulars who keep coming back.
 
 ## What they do
 
 Smash burgers. That's it. No 40-item menu, no trendy sides trying to steal the show. A short, focused lineup of smash patties done on a screaming-hot flat-top, cheese melted into the sear, served on a toasted bun that actually holds together.
 
-The beef is halal. No separate section, no asterisk — it's just how they operate.
+The beef is halal. No separate section, no asterisk. It's just how they operate.
 
 ## Why it's trending
 
-Edmonton's halal food scene has been growing fast, but smash burgers specifically have hit a different gear in 2025–2026. The format is perfect: fast, affordable, deeply satisfying, and hard to fake. You either nail the crust or you don't.
+Edmonton's halal food scene has been growing fast, but smash burgers specifically have hit a different gear in 2025 to 2026. The format is perfect: fast, affordable, deeply satisfying, and hard to fake. You either nail the crust or you don't.
 
 Middle Child nails the crust.
 
@@ -25,14 +25,14 @@ The double smash with cheese is the move on your first visit. Thin patties, maxi
 
 ## The vibe
 
-Small spot, no frills. You're not going for the decor — you're going because the food is genuinely excellent and the prices are fair. Dine-in or takeout, family-friendly, free parking. Open seven days a week, 11 AM to 9 PM (10 PM Fridays and Saturdays).
+Small spot, no frills. You're not going for the decor. You're going because the food is genuinely excellent and the prices are fair. Dine-in or takeout, family-friendly, free parking. Open seven days a week, 11 AM to 9 PM (10 PM Fridays and Saturdays).
 
 The kind of place where the regulars don't want you to know about it, but word got out anyway.
 
 ## What to order
 
-- **Double smash with cheese** — the baseline. If you're going once, this is it.
-- **Add pickles and grilled onions** — classic combo that works perfectly here.
+- **Double smash with cheese:** the baseline. If you're going once, this is it.
+- **Add pickles and grilled onions:** classic combo that works perfectly here.
 - **Keep it simple first.** You want to taste the crust and the beef, not a signature sauce.
 
 ## Getting there

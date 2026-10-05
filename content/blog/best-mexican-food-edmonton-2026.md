@@ -1,6 +1,6 @@
 ---
-title: "Best Mexican Food in Edmonton (2026) — Tacos, Birria & Authentic Mexican Restaurants"
-seoTitle: "Best Mexican Food in Edmonton 2026 — Tacos & Mexican Restaurants | WhereToYEG"
+title: "Best Mexican Food in Edmonton (2026) | Tacos, Birria & Authentic Mexican Restaurants"
+seoTitle: "Best Mexican Food in Edmonton 2026 | Tacos & Mexican Restaurants | WhereToYEG"
 slug: "best-mexican-food-edmonton-2026"
 description: "Where to find the best Mexican food in Edmonton. Taquerias, birria tacos, carne asada, and sit-down Mexican restaurants locals rate highest on Google."
 draft: true
@@ -19,15 +19,15 @@ Edmonton's Mexican food scene has quietly become one of the best on the prairies
 
 ## Top Mexican restaurants in Edmonton
 
-**[Carne Asada Mexican Taqueria](/restaurants/carne-asada-mexican-taqueria)** (4.9★, 310+ Google reviews) — Downtown. The highest-rated taqueria on our list. The name tells you what to order. Reviewers rave about the asada and chicken tacos and the friendly counter service.
+**[Carne Asada Mexican Taqueria](/restaurants/carne-asada-mexican-taqueria)** (4.9★, 310+ Google reviews): Downtown. The highest-rated taqueria on our list. The name tells you what to order. Reviewers rave about the asada and chicken tacos and the friendly counter service.
 
-**[La Morenita](/restaurants/la-morenita)** (4.7★, 700+ reviews) — Owner-run and properly authentic. Reviewers keep mentioning how kind the owners are, and plenty of people say it's the best Mexican food they've had in the city.
+**[La Morenita](/restaurants/la-morenita)** (4.7★, 700+ reviews): Owner-run and properly authentic. Reviewers keep mentioning how kind the owners are, and plenty of people say it's the best Mexican food they've had in the city.
 
-**[Juana Ines Mexican Restaurant](/restaurants/juana-ines-mexican-restaurant)** (4.5★) — A sit-down spot with a nicely decorated room, free parking, and a Taco Tuesday that brings people back.
+**[Juana Ines Mexican Restaurant](/restaurants/juana-ines-mexican-restaurant)** (4.5★): A sit-down spot with a nicely decorated room, free parking, and a Taco Tuesday that brings people back.
 
-**[El Mero Mero Taqueria](/restaurants/el-mero-mero-taqueria)** (4.4★, 1,350+ reviews) — Loud, colourful, and built for a night out. The birria tacos are the order. Shrimp tacos are a good second pick.
+**[El Mero Mero Taqueria](/restaurants/el-mero-mero-taqueria)** (4.4★, 1,350+ reviews): Loud, colourful, and built for a night out. The birria tacos are the order. Shrimp tacos are a good second pick.
 
-**[La Cocina Latina](/restaurants/la-cocina-latina)** (4.4★, 1,280+ reviews) — Big menu, generous portions, and a sauce lineup reviewers call out by name. Good for groups. Service can be slow at peak hours.
+**[La Cocina Latina](/restaurants/la-cocina-latina)** (4.4★, 1,280+ reviews): Big menu, generous portions, and a sauce lineup reviewers call out by name. Good for groups. Service can be slow at peak hours.
 
 Browse every [Mexican restaurant in Edmonton](/restaurants/mexican) on WhereToYEG.
 
@@ -37,12 +37,12 @@ A lot of classic Mexican dishes are pork-based (al pastor, carnitas, chorizo), a
 
 ## Beef and chicken tacos worth knowing
 
-- **Carne asada** — Grilled marinated beef, chopped and served with onion and cilantro. The benchmark.
-- **Birria** — Beef stewed in a rich chili broth. Served with consommé for dipping.
-- **Barbacoa** — Slow-cooked beef cheek. Rich and fatty, and it melts.
-- **Suadero** — Thin-cut beef, crisped on the edges.
-- **Lengua** — Beef tongue. Sounds intimidating, but done right it's tender and buttery.
-- **Pollo asado** — Grilled marinated chicken. The safe pick that's still good.
+- **Carne asada:** Grilled marinated beef, chopped and served with onion and cilantro. The benchmark.
+- **Birria:** Beef stewed in a rich chili broth. Served with consommé for dipping.
+- **Barbacoa:** Slow-cooked beef cheek. Rich and fatty, and it melts.
+- **Suadero:** Thin-cut beef, crisped on the edges.
+- **Lengua:** Beef tongue. Sounds intimidating, but done right it's tender and buttery.
+- **Pollo asado:** Grilled marinated chicken. The safe pick that's still good.
 
 ## How much should tacos cost in Edmonton?
 

@@ -48,7 +48,7 @@ export function faqSchema(items: FaqItem[]) {
 }
 
 /**
- * Website + SearchAction schema — enables Google to show a sitelinks
+ * Website + SearchAction schema: enables Google to show a sitelinks
  * search box for the domain in the SERP.
  */
 export function siteSearchSchema() {
@@ -66,7 +66,7 @@ export function siteSearchSchema() {
 }
 
 /**
- * Organization schema — helps Google understand the publisher entity.
+ * Organization schema: helps Google understand the publisher entity.
  */
 export function organizationSchema() {
   return {

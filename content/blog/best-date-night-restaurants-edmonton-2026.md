@@ -1,8 +1,8 @@
 ---
-title: "Best Date Night Restaurants in Edmonton (2026) — Romantic Spots That Aren't Cheesy"
-seoTitle: "Best Date Night Restaurants in Edmonton 2026 — Romantic Dining | WhereToYEG"
+title: "Best Date Night Restaurants in Edmonton (2026) | Romantic Spots That Aren't Cheesy"
+seoTitle: "Best Date Night Restaurants in Edmonton 2026 | Romantic Dining | WhereToYEG"
 slug: "best-date-night-restaurants-edmonton-2026"
-description: "Edmonton's best restaurants for date night — intimate lighting, great food, and an atmosphere that doesn't try too hard. First dates, anniversaries, and everything in between."
+description: "Edmonton's best restaurants for date night, intimate lighting, great food, and an atmosphere that doesn't try too hard. First dates, anniversaries, and everything in between."
 publishedDate: "2026-08-30"
 tags: ["date-night", "restaurants", "romantic", "dining", "guides"]
 ---
@@ -11,7 +11,7 @@ A good date night restaurant does three things: the food is good enough that you
 
 Edmonton has plenty of expensive restaurants. It has fewer that get the full experience right. Here's where to go depending on the vibe you want.
 
-## First date — casual, low pressure
+## First date, casual, low pressure
 
 First dates should not happen at fine dining restaurants. The pressure is too high, the menu is intimidating, and if it's not going well you're stuck for two hours.
 
@@ -45,7 +45,7 @@ Sometimes the best date skips dinner entirely.
 
 **[Made in Palestine Culture Café](/cafes-coffee-shops/made-in-palestine-cafe)** (4.8★) pairs coffee and sweets with a warm, cultural space that gives you plenty to talk about.
 
-## Quiet dinner — conversation-first
+## Quiet dinner, conversation-first
 
 If you want to actually hear each other without shouting:
 

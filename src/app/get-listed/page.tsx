@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 };
 
 const BENEFITS = [
-  "Your business name, address, phone, and website — front and centre",
+  "Your business name, address, phone, and website, front and centre",
   "Up to 5 photos pulled from your Google listing",
   "Real Google reviews displayed on your page",
   "Listed on your category page and searchable site-wide",
@@ -38,7 +38,7 @@ export default function GetListedPage() {
         <div className="mx-auto max-w-2xl rounded-3xl border border-line bg-white p-8 sm:p-12">
           <div className="text-center">
             <div className="inline-flex items-center gap-2 rounded-full bg-coral/10 px-4 py-2 text-sm font-bold text-coral">
-              100% Free — No Catch
+              100% Free: No Catch
             </div>
             <h2 className="mt-4 font-display text-3xl font-extrabold text-teal">
               Every listing includes
@@ -57,7 +57,7 @@ export default function GetListedPage() {
             <a href="mailto:hello@wheretoyeg.ca" className="text-coral hover:underline">
               Reach out
             </a>{" "}
-            — we'll work something out.
+            we'll work something out.
           </p>
         </div>
       </section>
@@ -69,7 +69,7 @@ export default function GetListedPage() {
             Tell us about your business.
           </h2>
           <p className="mt-2 max-w-xl text-teal-500">
-            Fill out the form below. We&apos;ll get your listing live within a few days — no payment required.
+            Fill out the form below. We&apos;ll get your listing live within a few days, no payment required.
           </p>
           <div className="mt-8 rounded-2xl bg-white p-6 shadow-card sm:p-8">
             <GetListedForm />

@@ -87,7 +87,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
     ),
   ].slice(0, 6);
 
-  // Rotated main listing — slimmed to only card-visible fields to cut page weight
+  // Rotated main listing, slimmed to only card-visible fields to cut page weight
   const rotatedBusinesses = seededShuffle(businesses, day + 999).map(toCard);
 
   const heroPhoto = `/photos/_hero/${c.slug}.jpg`;
@@ -181,7 +181,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
         </div>
       </section>
 
-      {/* Top Picks — rotates daily */}
+      {/* Top Picks, rotates daily */}
       {topPicks.length >= 3 && (
         <section className="container-page mt-10" data-reveal="right">
           <div className="flex items-end justify-between gap-4">
@@ -277,7 +277,7 @@ function EmptyState({ categoryName }: { categoryName: string }) {
         We&apos;re adding {categoryName} to the map.
       </p>
       <p className="mt-2 text-teal-500">
-        Know a spot worth listing? Tell us — listings are free.
+        Know a spot worth listing? Tell us, listings are free.
       </p>
       <div className="mt-5 flex justify-center gap-3">
         <Link href="/get-listed" className="btn-primary">Get listed</Link>

@@ -95,7 +95,7 @@ export function Navbar({ categories = [] }: { categories?: NavCategory[] }) {
         </div>
       </div>
 
-      {/* Mobile nav strip — always visible, horizontally scrollable */}
+      {/* Mobile nav strip, always visible, horizontally scrollable */}
       <nav className="flex items-center gap-1 overflow-x-auto overscroll-x-contain touch-pan-x border-t border-line/50 px-4 py-2 lg:hidden" style={{ scrollbarWidth: "none" }}>
         {categories.length > 0 ? (
           <button

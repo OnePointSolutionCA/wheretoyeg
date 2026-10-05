@@ -1,8 +1,8 @@
 ---
-title: "Fun Things to Do in Edmonton (2026) — Activities, Arcades & Adventures"
-seoTitle: "Fun Things to Do in Edmonton 2026 — Activities & Entertainment | WhereToYEG"
+title: "Fun Things to Do in Edmonton (2026) | Activities, Arcades & Adventures"
+seoTitle: "Fun Things to Do in Edmonton 2026 | Activities & Entertainment | WhereToYEG"
 slug: "fun-things-to-do-edmonton-2026"
-description: "The best fun things to do in Edmonton this year. Arcades, axe throwing, VR, bowling, trampoline parks, escape rooms and more — all rated by locals."
+description: "The best fun things to do in Edmonton this year. Arcades, axe throwing, VR, bowling, trampoline parks, escape rooms and more, all rated by locals."
 publishedDate: "2026-09-21"
 tags: ["activities", "fun", "entertainment", "things-to-do", "edmonton"]
 ---
@@ -13,9 +13,9 @@ Edmonton has way more to do than people give it credit for. Beyond the malls and
 
 [ARCstage Arcade](/activities-fun/arcstage-arcade) brings a modern arcade experience. A good mix of classic games and newer setups that'll keep you planted for hours.
 
-[ClawPark](/activities-fun/clawpark) and [Claw Me Crazy](/activities-fun/claw-me-crazy) are dedicated claw machine spots — rows of machines filled with plushies, figures, and prizes. Weirdly addictive and surprisingly fun for groups.
+[ClawPark](/activities-fun/clawpark) and [Claw Me Crazy](/activities-fun/claw-me-crazy) are dedicated claw machine spots, rows of machines filled with plushies, figures, and prizes. Weirdly addictive and surprisingly fun for groups.
 
-[Another World VR & RC Gaming](/activities-fun/another-world-vr-rc-gaming) combines virtual reality with RC cars. If you haven't tried modern VR, this is a good entry point — multiplayer experiences that'll have your group laughing.
+[Another World VR & RC Gaming](/activities-fun/another-world-vr-rc-gaming) combines virtual reality with RC cars. If you haven't tried modern VR, this is a good entry point, multiplayer experiences that'll have your group laughing.
 
 ## Axe throwing and physical stuff
 
@@ -29,7 +29,7 @@ Edmonton has way more to do than people give it credit for. Beyond the malls and
 
 [DRIVE](/activities-fun/drive) is Edmonton's go-kart spot. Indoor karting with electric karts that are faster than you'd expect. Competitive, loud, and an absolute blast.
 
-[Edmonton Paintball Centre](/activities-fun/edmonton-paintball-centre) is exactly what it sounds like — outdoor and indoor paintball for groups. Bring friends, wear layers, and prepare to get hit.
+[Edmonton Paintball Centre](/activities-fun/edmonton-paintball-centre) is exactly what it sounds like, outdoor and indoor paintball for groups. Bring friends, wear layers, and prepare to get hit.
 
 ## Bowling
 
@@ -39,7 +39,7 @@ Edmonton has way more to do than people give it credit for. Beyond the malls and
 
 ## Escape rooms
 
-Edmonton has a solid escape room scene. [Escape Hour Edmonton](/activities-fun/escape-hour-edmonton), [Escape City Edmonton](/activities-fun/escape-city-edmonton), and [Escape street](/activities-fun/escape-street) all offer well-designed rooms with different themes and difficulty levels. If you haven't done one, grab four friends and try it — 60 minutes to solve puzzles and get out.
+Edmonton has a solid escape room scene. [Escape Hour Edmonton](/activities-fun/escape-hour-edmonton), [Escape City Edmonton](/activities-fun/escape-city-edmonton), and [Escape street](/activities-fun/escape-street) all offer well-designed rooms with different themes and difficulty levels. If you haven't done one, grab four friends and try it, 60 minutes to solve puzzles and get out.
 
 ## Kids and families
 
@@ -55,7 +55,7 @@ Edmonton has a solid escape room scene. [Escape Hour Edmonton](/activities-fun/e
 
 [Elk Island National Park](/activities-fun/elk-island-national-park) is just 35 minutes east of the city. Bison herds, hiking trails, and dark sky preserves for stargazing. A full day trip that feels like you're hours from civilization.
 
-[Accidental Beach](/activities-fun/accidental-beach) is Edmonton's urban beach along the North Saskatchewan River. On a hot summer day, it's packed — bring a blanket, some snacks, and soak up the sun.
+[Accidental Beach](/activities-fun/accidental-beach) is Edmonton's urban beach along the North Saskatchewan River. On a hot summer day, it's packed, bring a blanket, some snacks, and soak up the sun.
 
 [Beaumaris Lake](/activities-fun/beaumaris-lake) is a peaceful spot on the north side. Walking paths, picnic areas, and a calm break from the city without leaving it.
 
@@ -69,4 +69,4 @@ Edmonton has a solid escape room scene. [Escape Hour Edmonton](/activities-fun/e
 
 ## The bottom line
 
-Edmonton is not a boring city. From VR gaming to national parks, retro arcades to axe throwing — there's something for every mood and every budget. Stop scrolling and go do something.
+Edmonton is not a boring city. From VR gaming to national parks, retro arcades to axe throwing. There's something for every mood and every budget. Stop scrolling and go do something.

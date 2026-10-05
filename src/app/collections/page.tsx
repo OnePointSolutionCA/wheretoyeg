@@ -25,7 +25,7 @@ export default function CollectionsIndexPage() {
             Perfect for<span className="text-coral">…</span>
           </h1>
           <p className="mt-3 max-w-2xl text-teal-500">
-            Curated groups of Edmonton spots for a specific vibe or moment. Late-night eats, weekend brunch, self-care Saturdays — the way locals actually plan a day.
+            Curated groups of Edmonton spots for a specific vibe or moment. Late-night eats, weekend brunch, self-care Saturdays, the way locals actually plan a day.
           </p>
         </div>
       </section>

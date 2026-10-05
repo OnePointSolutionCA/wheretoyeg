@@ -2,6 +2,7 @@ import type { FaqEntry } from "@/components/FaqSection";
 import type { Business, Category } from "./types";
 import { SITE } from "./site";
 import { areaSlug } from "./place";
+import { displayDayHours } from "./openNow";
 import { SUB_HEADING, lowerHeading } from "./seo";
 
 const NOUN: Record<string, string> = {
@@ -129,7 +130,7 @@ export function categoryFaq(
     const picks = distinct(sunday, 3);
     items.push({
       q: `Which ${noun} are open on Sunday in ${where}?`,
-      a: `${nf(sunday.length)} of the listed ${noun} show Sunday hours, including ${join(picks.map((b) => `${b.name} (${b.hours.sunday})`))}. Hours change, so check the listing or call ahead.`,
+      a: `${nf(sunday.length)} of the listed ${noun} show Sunday hours, including ${join(picks.map((b) => `${b.name} (${displayDayHours(b.hours.sunday)})`))}. Hours change, so check the listing or call ahead.`,
       links: picks.map((b) => ({ label: b.name, href: href(b) })),
     });
   }

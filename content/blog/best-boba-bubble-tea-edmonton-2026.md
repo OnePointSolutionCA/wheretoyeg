@@ -1,8 +1,8 @@
 ---
-title: "Best Boba & Bubble Tea in Edmonton (2026) — The Real List"
-seoTitle: "Best Bubble Tea in Edmonton 2026 — Boba Near Me | WhereToYEG"
+title: "Best Boba & Bubble Tea in Edmonton (2026) | The Real List"
+seoTitle: "Best Bubble Tea in Edmonton 2026 | Boba Near Me | WhereToYEG"
 slug: "best-boba-bubble-tea-edmonton-2026"
-description: "Where to find the best boba in Edmonton — brown sugar milk tea, taro, fresh-brewed jasmine, Taiwanese classics. The bubble tea shops locals actually go to."
+description: "Where to find the best boba in Edmonton, brown sugar milk tea, taro, fresh-brewed jasmine, Taiwanese classics. The bubble tea shops locals actually go to."
 publishedDate: "2026-08-18"
 tags: ["boba", "bubble-tea", "taiwanese", "dessert", "guides"]
 ---
@@ -19,45 +19,45 @@ Bubble tea in Edmonton has quietly become excellent. The chains are fine, but th
 
 ## Top bubble tea in Edmonton
 
-**[Tiger Sugar](/cafes-coffee-shops/tiger-sugar)** — the brown-sugar boba shop. Their signature brown sugar milk tea with tiger-stripe caramel is the drink that put them on the map. Also a board game cafe, which is a nice touch.
+**[Tiger Sugar](/cafes-coffee-shops/tiger-sugar):** the brown-sugar boba shop. Their signature brown sugar milk tea with tiger-stripe caramel is the drink that put them on the map. Also a board game cafe, which is a nice touch.
 
-**[Presotea](/cafes-coffee-shops/presotea-edmonton)** — Taiwanese chain that fresh-brews every tea per order. Best jasmine and oolong drinks in the city. Great for a caffeine hit that isn't coffee.
+**[Presotea](/cafes-coffee-shops/presotea-edmonton):** Taiwanese chain that fresh-brews every tea per order. Best jasmine and oolong drinks in the city. Great for a caffeine hit that isn't coffee.
 
-**[Dream Tea House](/cafes-coffee-shops/dream-tea-house)** — more of a full menu (tea + Asian snacks + hot food), one of the best bubble teas in south Edmonton.
+**[Dream Tea House](/cafes-coffee-shops/dream-tea-house):** more of a full menu (tea + Asian snacks + hot food), one of the best bubble teas in south Edmonton.
 
 Browse all [cafes and coffee shops in Edmonton](/cafes-coffee-shops).
 
-## Drink cheat sheet — what to order
+## Drink cheat sheet, what to order
 
-- **Classic milk tea** — the entry drink. Solid at any shop. Get 50% sugar.
-- **Brown sugar milk tea (Tiger Sugar style)** — deep caramel, no tea flavor to speak of. Dessert in a cup. Skip if you actually want tea.
-- **Fresh jasmine milk tea** — the best drink at a fresh-brew shop like Presotea.
-- **Taro milk tea** — purple taro flavor, mildly sweet, works with or without boba.
-- **Matcha latte** — grassy, needs milk to soften. Get with red bean instead of tapioca.
-- **Peach fruit tea** — refreshing, lighter, no milk. Good hot-day drink.
+- **Classic milk tea:** the entry drink. Solid at any shop. Get 50% sugar.
+- **Brown sugar milk tea (Tiger Sugar style):** deep caramel, no tea flavor to speak of. Dessert in a cup. Skip if you actually want tea.
+- **Fresh jasmine milk tea:** the best drink at a fresh-brew shop like Presotea.
+- **Taro milk tea:** purple taro flavor, mildly sweet, works with or without boba.
+- **Matcha latte:** grassy, needs milk to soften. Get with red bean instead of tapioca.
+- **Peach fruit tea:** refreshing, lighter, no milk. Good hot-day drink.
 
 ## Toppings
 
-- **Tapioca (boba)** — the classic. Chewy black pearls.
-- **Popping boba** — juice-filled spheres that burst. Fun but polarizing.
-- **Grass jelly** — herbal, slightly bitter, cools you down.
-- **Aloe vera** — mildly sweet, weird texture, an acquired taste.
-- **Red bean** — creamy, mild, best paired with matcha.
-- **Pudding** — silky egg pudding, best with brown sugar drinks.
+- **Tapioca (boba):** the classic. Chewy black pearls.
+- **Popping boba:** juice-filled spheres that burst. Fun but polarizing.
+- **Grass jelly:** herbal, slightly bitter, cools you down.
+- **Aloe vera:** mildly sweet, weird texture, an acquired taste.
+- **Red bean:** creamy, mild, best paired with matcha.
+- **Pudding:** silky egg pudding, best with brown sugar drinks.
 
 ## Best neighborhoods for boba in Edmonton
 
-- **South Edmonton (near WEM and Ellerslie)** — Densest cluster, most competition, most consistent quality.
-- **Whyte Ave** — Tiger Sugar and a couple others make this a solid stop.
-- **Downtown** — Presotea's Kingsway Mall location catches office traffic.
-- **North Edmonton** — Newer shops opening; watch this space.
+- **South Edmonton (near WEM and Ellerslie):** Densest cluster, most competition, most consistent quality.
+- **Whyte Ave:** Tiger Sugar and a couple others make this a solid stop.
+- **Downtown:** Presotea's Kingsway Mall location catches office traffic.
+- **North Edmonton:** Newer shops opening; watch this space.
 
 ## Boba etiquette
 
 - **Order at the counter, then wait.** Most shops don't take table orders.
 - **Stir before you sip.** The syrup pools at the bottom.
-- **The straw is wide for a reason** — the tapioca fits through it. Don't use a normal straw and complain.
-- **Drink boba within 2 hours** — tapioca starts hardening after that. It won't kill you but it's not great.
+- **The straw is wide for a reason:** the tapioca fits through it. Don't use a normal straw and complain.
+- **Drink boba within 2 hours:** tapioca starts hardening after that. It won't kill you but it's not great.
 
 ## Related reading
 

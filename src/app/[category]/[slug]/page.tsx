@@ -47,7 +47,7 @@ import {
   namePlaceCount,
 } from "@/lib/areas";
 import { CATEGORY_HEADING, CATEGORY_PLURAL, TITLE_MAX, businessType, fitTitle, metaDescription, nf, titleCase } from "@/lib/seo";
-import { clip } from "@/lib/text";
+import { clip, plainDashes } from "@/lib/text";
 
 const FOOD_CATEGORIES = new Set(["restaurants", "cafes-coffee-shops", "bakeries", "catering", "grocery-markets"]);
 
@@ -473,7 +473,7 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
         <div className="min-w-0 space-y-8">
           <div className={card + " p-6 sm:p-8"}>
             <h2 className="font-display text-2xl font-bold text-teal">About {b.name}</h2>
-            <p className="mt-3 whitespace-pre-line leading-relaxed text-teal-500">{b.description}</p>
+            <p className="mt-3 whitespace-pre-line leading-relaxed text-teal-500">{plainDashes(b.description)}</p>
 
             {b.amenities?.length > 0 && (
               <div className="mt-6">
@@ -509,7 +509,7 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
             <div className={card + " flex flex-col gap-5 p-6 sm:flex-row sm:items-center sm:justify-between sm:p-8"}>
               <div className="flex items-center gap-5">
                 <div className="font-display text-6xl font-extrabold leading-none tracking-tight text-teal">
-                  {b.rating > 0 ? b.rating.toFixed(1) : "—"}
+                  {b.rating > 0 ? b.rating.toFixed(1) : "No rating"}
                 </div>
                 <div>
                   {b.rating > 0 && b.review_count > 0 && <StarRating value={b.rating} count={b.review_count} size={18} compact />}

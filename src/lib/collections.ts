@@ -46,7 +46,7 @@ export const COLLECTIONS: Collection[] = [
     emoji: "🥞",
     title: "Weekend Brunch",
     headline: "Where locals actually go",
-    description: "Weekend brunch spots — shakshuka, benedicts, halal Lebanese breakfasts, and coffee that's actually good. Book ahead.",
+    description: "Weekend brunch spots, shakshuka, benedicts, halal Lebanese breakfasts, and coffee that's actually good. Book ahead.",
     gradient: "from-[#f4b183] via-[#e08a3e] to-[#a85715]",
     match: (b) =>
       (b.category === "restaurants" &&
@@ -58,7 +58,7 @@ export const COLLECTIONS: Collection[] = [
     emoji: "🥩",
     title: "Halal Foodie Tour",
     headline: "The city's best halal",
-    description: "From smash burgers to shawarma to Pakistani karahi — Edmonton's halal food scene, curated by locals.",
+    description: "From smash burgers to shawarma to Pakistani karahi: Edmonton's halal food scene, curated by locals.",
     gradient: "from-[#2b5747] via-[#3d7c60] to-[#5aad83]",
     match: (b) =>
       (b.category === "restaurants" || b.category === "bakeries") &&
@@ -103,7 +103,7 @@ export const COLLECTIONS: Collection[] = [
     emoji: "👨‍👩‍👧",
     title: "Family Sundays",
     headline: "Kid-friendly & open",
-    description: "Sunday-open spots that welcome the whole family — big portions, no attitude, easy parking.",
+    description: "Sunday-open spots that welcome the whole family, big portions, no attitude, easy parking.",
     gradient: "from-[#1e5a5f] via-[#2d8a91] to-[#4fc3cb]",
     match: (b) =>
       hasAmenity(b, "Family Friendly") && isOpenSunday(b),
@@ -146,7 +146,7 @@ export const COLLECTIONS: Collection[] = [
     emoji: "🥙",
     title: "Middle Eastern Favourites",
     headline: "Shawarma, kebabs, mezze",
-    description: "Lebanese, Palestinian, Syrian, Yemeni, and Afghan food across Edmonton — the halal Middle Eastern scene locals live off.",
+    description: "Lebanese, Palestinian, Syrian, Yemeni, and Afghan food across Edmonton, the halal Middle Eastern scene locals live off.",
     gradient: "from-[#5c2f1a] via-[#8a4d2b] to-[#c07546]",
     match: (b) =>
       hasTag(b, "shawarma", "lebanese", "palestinian", "middle-eastern", "afghan", "yemeni", "syrian", "kebab"),
@@ -156,7 +156,7 @@ export const COLLECTIONS: Collection[] = [
     emoji: "✨",
     title: "New in Edmonton",
     headline: "Just added to the map",
-    description: "The newest listings on WhereToYEG — cafes, shops, and services that opened recently.",
+    description: "The newest listings on WhereToYEG, cafes, shops, and services that opened recently.",
     gradient: "from-[#6a4a1e] via-[#a37432] to-[#dba458]",
     match: (b) => {
       const d = b.date_listed || "";
