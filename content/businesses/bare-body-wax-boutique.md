@@ -13,7 +13,7 @@ hours:
   monday: "9:30 AM–9:00 PM"
   tuesday: "9:30 AM–9:00 PM"
   wednesday: "1:00 PM–9:00 PM"
-  thursday: "9:00 AM–10:00 AM"
+  thursday: "9:00 AM–10:00 AM, 6:30 PM–8:00 PM"
   friday: "9:30 AM–7:00 PM"
   saturday: "11:00 AM–7:00 PM"
   sunday: "6:30 PM–8:00 PM"

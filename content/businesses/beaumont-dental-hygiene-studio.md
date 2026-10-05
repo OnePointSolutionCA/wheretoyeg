@@ -37,9 +37,9 @@ reviews:
     comment: |
       Cant give Jacquelyn enough stars! Beaumont Dental Hygiene Studio was the best dental experience I have ever had. Clean, comfortable and amazing services! Jacquelyn is extremely professional, friendly and makes you feel right at home! Recommending to anyone looking for excellent dental hygiene services
 hours:
-  monday: "9:00 AM–12:00 PM"
+  monday: "9:00 AM–12:00 PM, 4:30 PM–8:00 PM"
   tuesday: "9:00 AM–1:30 PM"
-  wednesday: "9:00 AM–12:00 PM"
+  wednesday: "9:00 AM–12:00 PM, 4:30 PM–8:00 PM"
   thursday: "9:00 AM–4:30 PM"
   friday: "9:00 AM–1:30 PM"
   saturday: "10:00 AM–3:00 PM"
