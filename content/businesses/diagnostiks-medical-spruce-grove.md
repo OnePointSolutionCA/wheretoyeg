@@ -2,6 +2,7 @@
 name: "Diagnostiks Medical - Spruce Grove"
 slug: "diagnostiks-medical-spruce-grove"
 category: "medical"
+subcategory: "diagnostic-imaging"
 neighborhood: "Spruce Grove"
 address: "110 Jennifer Heil Way #10, Spruce Grove, AB T7X 3Z3"
 rating: 3

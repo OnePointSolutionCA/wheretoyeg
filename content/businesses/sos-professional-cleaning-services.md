@@ -2,6 +2,7 @@
 name: "SOS Professional Cleaning Services"
 slug: "sos-professional-cleaning-services"
 category: "cleaning-services"
+subcategory: "house-cleaning"
 neighborhood: "Jasper Ave"
 address: "10060 Jasper Ave Tower 1, Suite 2020, unit 2, Edmonton, AB T5J 3R8"
 rating: 5

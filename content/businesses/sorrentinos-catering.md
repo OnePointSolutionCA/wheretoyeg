@@ -2,6 +2,7 @@
 name: "Sorrentino's Catering"
 slug: "sorrentinos-catering"
 category: "catering"
+subcategory: "event-catering"
 neighborhood: "Edmonton"
 address: "10665 109 St NW, Edmonton, AB T5H 3B5"
 rating: 5

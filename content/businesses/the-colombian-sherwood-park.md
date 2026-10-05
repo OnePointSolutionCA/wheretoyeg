@@ -2,6 +2,7 @@
 name: "The Colombian - Sherwood Park"
 slug: "the-colombian-sherwood-park"
 category: "restaurants"
+subcategory: "latin"
 neighborhood: "Sherwood Park"
 address: "11 Athabascan Ave #160, Sherwood Park, AB T8A 4H4"
 rating: 4.7

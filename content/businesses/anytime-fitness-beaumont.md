@@ -2,6 +2,7 @@
 name: "Anytime Fitness (Beaumont)"
 slug: "anytime-fitness-beaumont"
 category: "gyms-fitness"
+subcategory: "24-7-gyms"
 neighborhood: "Beaumont"
 address: "6304 29 Ave, Beaumont, AB T4X 0H5"
 rating: 4

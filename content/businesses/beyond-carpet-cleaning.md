@@ -2,6 +2,7 @@
 name: "Beyond Carpet Cleaning"
 slug: "beyond-carpet-cleaning"
 category: "cleaning-services"
+subcategory: "carpet"
 neighborhood: "Edmonton"
 address: "4066, 10301 104 Street NW, Edmonton, AB T5J 1C1"
 rating: 4.7

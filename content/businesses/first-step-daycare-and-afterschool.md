@@ -1,8 +1,8 @@
 ---
 name: "First Step Daycare and Afterschool"
 slug: "first-step-daycare-and-afterschool"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "Building 7, 9810 137 Ave NW #101, Edmonton, AB T5E 4H5"
@@ -23,6 +23,7 @@ photos: []
 rating: 4.5
 review_count: 126
 amenities:
+  - "Out of School Care"
   - "Wheelchair Accessible"
 tags: ["edmonton", "childcare"]
 active: true

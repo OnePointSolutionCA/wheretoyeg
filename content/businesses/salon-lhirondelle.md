@@ -2,6 +2,7 @@
 name: "Salon L'Hirondelle"
 slug: "salon-lhirondelle"
 category: "hair-salons"
+subcategory: "cuts-styling"
 neighborhood: "Beaumont"
 address: "6110 50 St, Beaumont, AB T4X 1T8"
 rating: 4.5

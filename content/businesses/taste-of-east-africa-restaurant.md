@@ -2,6 +2,7 @@
 name: "Taste of East Africa restaurant"
 slug: "taste-of-east-africa-restaurant"
 category: "restaurants"
+subcategory: "ethiopian"
 neighborhood: "Beverly"
 address: "3945 118 Ave NW, Edmonton, AB T5W 0Z8"
 rating: 4.6

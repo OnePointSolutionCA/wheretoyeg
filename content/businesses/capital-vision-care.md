@@ -2,6 +2,7 @@
 name: "Capital Vision Care"
 slug: "capital-vision-care"
 category: "medical"
+subcategory: "eye-care"
 neighborhood: "Castle Downs"
 address: "15393 Castle Downs Rd NW, Edmonton, AB T5X 6C3"
 rating: 4.8

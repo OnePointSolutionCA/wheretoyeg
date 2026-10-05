@@ -1,8 +1,8 @@
 ---
 name: "Riverside Daycare and OSC"
 slug: "riverside-daycare-and-osc"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "10 Rose Gate #600, St. Albert, AB T8N 7Y3"
@@ -26,6 +26,7 @@ photos:
 rating: 4.7
 review_count: 27
 amenities:
+  - "Out of School Care"
   - "Wheelchair Accessible"
 tags: ["edmonton", "childcare"]
 active: true

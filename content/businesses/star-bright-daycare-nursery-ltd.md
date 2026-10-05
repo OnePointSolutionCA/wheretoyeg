@@ -1,8 +1,8 @@
 ---
 name: "Star Bright Daycare Nursery Ltd"
 slug: "star-bright-daycare-nursery-ltd"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "4823 47 Ave, Stony Plain, AB T7Z 1L7"

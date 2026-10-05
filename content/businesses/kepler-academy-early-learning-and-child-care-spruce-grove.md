@@ -1,8 +1,8 @@
 ---
 name: "Kepler Academy Early Learning and Child Care - Spruce Grove"
 slug: "kepler-academy-early-learning-and-child-care-spruce-grove"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "early-learning"
 tier: "featured"
 description: ""
 address: "11 Westwind Dr #511, Spruce Grove, AB T7X 0V6"

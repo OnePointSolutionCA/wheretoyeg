@@ -2,6 +2,7 @@
 name: "Auto Mobile Car Detailing Beaumont"
 slug: "auto-mobile-car-detailing-beaumont"
 category: "auto-repair"
+subcategory: "detailing"
 neighborhood: "Beaumont"
 address: "5104 47 Ave, Beaumont, AB T4X 1C8"
 rating: 0

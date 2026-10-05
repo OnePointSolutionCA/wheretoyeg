@@ -1,8 +1,8 @@
 ---
 name: "Moms dream daycare"
 slug: "moms-dream-daycare"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "9008 135 Ave, Edmonton, AB T5E 1N4"

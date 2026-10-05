@@ -2,6 +2,7 @@
 name: "Posh N Plush Spa"
 slug: "posh-n-plush-spa"
 category: "spas-esthetics"
+subcategory: "day-spas"
 neighborhood: "Beaumont"
 address: "5005 50 St #104, Beaumont, AB T4X 1J9"
 rating: 3.8

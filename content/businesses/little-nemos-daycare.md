@@ -1,8 +1,8 @@
 ---
 name: "Little Nemo's Daycare"
 slug: "little-nemos-daycare"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: "Little Nemo's Daycare — childcare in St. Albert, Edmonton. 33 Google reviews, 4.8★."
 address: "11824 St Albert Trail NW, Edmonton, AB T5L 4G4"

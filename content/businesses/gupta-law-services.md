@@ -2,6 +2,7 @@
 name: "Gupta Law Services"
 slug: "gupta-law-services"
 category: "professional-services"
+subcategory: "legal"
 neighborhood: "Edmonton"
 address: "Remax Elite locations, 8104 160 Ave NW, Edmonton, AB T5Z 3J8"
 rating: 4.4

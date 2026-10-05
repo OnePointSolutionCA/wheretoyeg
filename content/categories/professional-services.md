@@ -21,7 +21,6 @@ subcategories:
   - { name: "Notaries", slug: "notaries" }
   - { name: "Real Estate Agents", slug: "real-estate" }
   - { name: "Insurance", slug: "insurance" }
-  - { name: "Childcare", slug: "childcare" }
   - { name: "Driving Schools", slug: "driving-school" }
   - { name: "Pet Grooming", slug: "pet-grooming" }
   - { name: "Mortgage Brokers", slug: "mortgage" }

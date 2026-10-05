@@ -2,6 +2,7 @@
 name: "Staples"
 slug: "staples"
 category: "professional-services"
+subcategory: "printing"
 neighborhood: "Edmonton"
 address: "13154 137 Ave NW, Edmonton, AB T5L 4G2"
 rating: 3.9

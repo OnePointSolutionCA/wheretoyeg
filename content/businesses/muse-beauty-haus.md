@@ -2,6 +2,7 @@
 name: "Muse Beauty Haus"
 slug: "muse-beauty-haus"
 category: "hair-salons"
+subcategory: "cuts-styling"
 neighborhood: "Beaumont"
 address: "5005 50 St #104, Beaumont, AB T4X 1J9"
 rating: 4.9

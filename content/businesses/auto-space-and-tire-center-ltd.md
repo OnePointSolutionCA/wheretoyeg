@@ -1,7 +1,8 @@
 ---
 name: "Auto Space and Tire Center Ltd."
 slug: "auto-space-and-tire-center-ltd"
-category: "medical"
+category: "auto-repair"
+subcategory: "tires"
 neighborhood: "Mill Woods"
 address: "9766 51 Ave NW, Edmonton, AB T6E 0A6"
 rating: 4.9

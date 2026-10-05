@@ -2,6 +2,7 @@
 name: "Edmonton Notary Public - Same Day Service"
 slug: "edmonton-notary-public-same-day-service"
 category: "professional-services"
+subcategory: "notaries"
 neighborhood: "Edmonton"
 address: "15243 88a St NW, Edmonton, AB T5E 6G7"
 rating: 5
@@ -9,6 +10,7 @@ review_count: 624
 tier: "featured"
 phone: "(780) 851-5958"
 website: "http://edmonton-notary.ca/?utm_source=google&utm_medium=local&utm_campaign=1&utm_content=primary"
+google_maps_url: "https://maps.google.com/?cid=14447150494344183580&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 google_maps: "https://maps.google.com/?cid=14447150494344183580&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/edmonton-notary-public-same-day-service.jpg"

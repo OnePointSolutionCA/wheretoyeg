@@ -2,6 +2,7 @@
 name: "Awake Coffee House"
 slug: "awake-coffee-house"
 category: "cafes-coffee-shops"
+subcategory: "specialty"
 neighborhood: "Windermere"
 address: "11029 9 Ave NW, Edmonton, AB T6J 6T5"
 rating: 4.5

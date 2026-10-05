@@ -2,6 +2,7 @@
 name: "Perks Coffee House"
 slug: "perks-coffee-house"
 category: "cafes-coffee-shops"
+subcategory: "specialty"
 neighborhood: "Spruce Grove"
 address: "420 King St #9, Spruce Grove, AB T7X 2C6"
 rating: 4.5

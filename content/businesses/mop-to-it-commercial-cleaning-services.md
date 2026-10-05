@@ -2,6 +2,7 @@
 name: "Mop to It Commercial Cleaning Services"
 slug: "mop-to-it-commercial-cleaning-services"
 category: "cleaning-services"
+subcategory: "commercial-cleaning"
 neighborhood: "St. Albert"
 address: "395 3, 11 Bellerose Dr, St. Albert, AB T8N 5C9"
 rating: 4.9

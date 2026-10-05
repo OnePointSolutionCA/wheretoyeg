@@ -2,6 +2,7 @@
 name: "Albany Barbershop"
 slug: "albany-barbershop"
 category: "barbers"
+subcategory: "mens-haircuts"
 neighborhood: "Castle Downs"
 address: "12848 167 Ave NW, Edmonton, AB T6V 1J6"
 rating: 4.6

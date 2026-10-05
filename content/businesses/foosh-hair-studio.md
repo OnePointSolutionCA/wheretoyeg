@@ -2,6 +2,7 @@
 name: "Foosh Hair Studio"
 slug: "foosh-hair-studio"
 category: "hair-salons"
+subcategory: "cuts-styling"
 neighborhood: "Spruce Grove"
 address: "36 Weston Dr, Spruce Grove, AB T7X 3K5"
 rating: 5

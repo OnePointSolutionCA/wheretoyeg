@@ -2,6 +2,7 @@
 name: "Juliet Rose Salon"
 slug: "juliet-rose-salon"
 category: "hair-salons"
+subcategory: "cuts-styling"
 neighborhood: "Spruce Grove"
 address: "2 Deer Park Dr, Spruce Grove, AB T7X 0K8"
 rating: 5

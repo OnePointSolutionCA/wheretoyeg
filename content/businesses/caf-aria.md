@@ -2,6 +2,7 @@
 name: "Café Aria"
 slug: "caf-aria"
 category: "cafes-coffee-shops"
+subcategory: "specialty"
 neighborhood: "Windermere"
 address: "20023 Lessard Rd, Edmonton, AB T6M 0K4"
 rating: 4

@@ -1,8 +1,8 @@
 ---
 name: "Eduplay Academy Daycare & Out of School Care"
 slug: "eduplay-academy-daycare-out-of-school-care"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: "Eduplay Academy Daycare & Out of School Care — childcare in Edmonton, Edmonton. 64 Google reviews, 4.7★."
 address: "11082 156 St, Edmonton, AB T5P 4M8"

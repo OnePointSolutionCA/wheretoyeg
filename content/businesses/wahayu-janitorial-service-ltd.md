@@ -2,6 +2,7 @@
 name: "WAHAYU JANITORIAL SERVICE LTD,"
 slug: "wahayu-janitorial-service-ltd"
 category: "cleaning-services"
+subcategory: "commercial-cleaning"
 neighborhood: "Edmonton"
 address: "10620 102 St NW, Edmonton, AB T5H 2T5"
 rating: 4.9

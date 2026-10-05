@@ -2,6 +2,7 @@
 name: "Citrus Carpet Cleaners"
 slug: "citrus-carpet-cleaners"
 category: "cleaning-services"
+subcategory: "carpet"
 neighborhood: "Edmonton"
 address: "9523 133 Ave NW, Edmonton, AB T5E 1C7"
 rating: 5

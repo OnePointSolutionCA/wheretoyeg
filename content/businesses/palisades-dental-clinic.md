@@ -2,6 +2,7 @@
 name: "Palisades Dental Clinic"
 slug: "palisades-dental-clinic"
 category: "medical"
+subcategory: "dentists"
 neighborhood: "Castle Downs"
 address: "12552 137 Ave NW, Edmonton, AB T6V 1A8"
 rating: 4.9

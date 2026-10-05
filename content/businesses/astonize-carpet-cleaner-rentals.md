@@ -2,6 +2,7 @@
 name: "Astonize Carpet Cleaner Rentals"
 slug: "astonize-carpet-cleaner-rentals"
 category: "cleaning-services"
+subcategory: "carpet"
 neighborhood: "Edmonton"
 address: "8944 182 St NW, Edmonton, AB T5T 2K6"
 rating: 5

@@ -2,6 +2,7 @@
 name: "Olive + Ivory Dental Studio"
 slug: "olive-ivory-dental-studio"
 category: "medical"
+subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "667 Wye Rd #180, Sherwood Park, AB T8B 0E5"
 rating: 5

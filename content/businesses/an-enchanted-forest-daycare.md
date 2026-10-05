@@ -1,8 +1,8 @@
 ---
 name: "An Enchanted Forest Daycare"
 slug: "an-enchanted-forest-daycare"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "500 Rivercrest Crescent, St. Albert, AB T8N 3B9"

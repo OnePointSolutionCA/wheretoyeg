@@ -2,6 +2,7 @@
 name: "Connect Hearing Edmonton - Lakeside Landing"
 slug: "connect-hearing-edmonton-lakeside-landing"
 category: "medical"
+subcategory: "hearing-care"
 neighborhood: "Castle Downs"
 address: "15351 Castle Downs Rd NW, Edmonton, AB T5X 6C3"
 rating: 4.7

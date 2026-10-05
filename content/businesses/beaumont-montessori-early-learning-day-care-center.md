@@ -1,8 +1,8 @@
 ---
 name: "Beaumont Montessori Early Learning day care center"
 slug: "beaumont-montessori-early-learning-day-care-center"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "montessori"
 tier: "featured"
 description: ""
 address: "5601 Magasin Ave #105, Beaumont, AB T4X 1V8"

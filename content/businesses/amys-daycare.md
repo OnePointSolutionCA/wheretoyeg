@@ -1,8 +1,8 @@
 ---
 name: "Amy's Daycare"
 slug: "amys-daycare"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "4317 167 Ave NW, Edmonton, AB T5Y 6L9"

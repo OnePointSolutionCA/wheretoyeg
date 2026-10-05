@@ -2,6 +2,7 @@
 name: "Meet The Pho"
 slug: "meet-the-pho"
 category: "restaurants"
+subcategory: "pho"
 neighborhood: "Beverly"
 address: "592 Hermitage Rd NW, Edmonton, AB T5A 4N2"
 rating: 4.8

@@ -1,8 +1,8 @@
 ---
 name: "Sherwood Forest Learning Centre"
 slug: "sherwood-forest-learning-centre"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "early-learning"
 tier: "featured"
 description: ""
 address: "1604 Sherwood Dr, Sherwood Park, AB T8A 0Z2"

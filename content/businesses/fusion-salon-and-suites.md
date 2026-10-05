@@ -2,6 +2,7 @@
 name: "Fusion Salon And Suites"
 slug: "fusion-salon-and-suites"
 category: "hair-salons"
+subcategory: "cuts-styling"
 neighborhood: "Spruce Grove"
 address: "128 Queen St, Spruce Grove, AB T7X 2Z7"
 rating: 4.6

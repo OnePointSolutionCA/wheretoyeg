@@ -2,6 +2,7 @@
 name: "Nik Mik Clear Cleaning"
 slug: "nik-mik-clear-cleaning"
 category: "cleaning-services"
+subcategory: "house-cleaning"
 neighborhood: "Edmonton"
 address: "7098 Cardinal Way SW, Edmonton, AB T6W 1Z3"
 rating: 5

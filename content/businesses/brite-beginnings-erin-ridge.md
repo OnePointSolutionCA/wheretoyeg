@@ -1,8 +1,8 @@
 ---
 name: "Brite Beginnings - Erin Ridge"
 slug: "brite-beginnings-erin-ridge"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "1115 St Albert Trl Unit 740, St. Albert, AB T8N 7X6"

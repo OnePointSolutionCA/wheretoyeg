@@ -8,7 +8,7 @@ Location: Edmonton, Alberta, Canada
 
 ## About
 
-WhereToYEG is a hand-picked directory of local businesses in Edmonton and surrounding areas (Sherwood Park, St. Albert, Spruce Grove, Stony Plain, Leduc, Beaumont, Fort Saskatchewan). Every listing is reviewed before publishing. The directory covers 19 categories and nearly 4,000 active businesses.
+WhereToYEG is a hand-picked directory of local businesses in Edmonton and surrounding areas (Sherwood Park, St. Albert, Spruce Grove, Stony Plain, Leduc, Beaumont, Fort Saskatchewan). Every listing is reviewed before publishing. The directory covers 20 categories and nearly 4,000 active businesses.
 
 Each business listing includes: name, address, hours of operation, phone number, website, photos, Google star rating, user reviews, amenities/features, price range, and links to delivery platforms where applicable.
 
@@ -31,6 +31,7 @@ Each business listing includes: name, address, hours of operation, phone number,
 - **Medical** — https://wheretoyeg.ca/medical — Clinics, dentists, optometrists, pharmacies
 - **Photographers** — https://wheretoyeg.ca/photographers — Photography studios and videographers
 - **Professional Services** — https://wheretoyeg.ca/professional-services — Accountants, lawyers, consultants
+- **Childcare & Daycares** — https://wheretoyeg.ca/childcare — Daycares, early learning centres, preschools, Montessori and out of school care
 - **Catering** — https://wheretoyeg.ca/catering — Catering and event food services
 - **Activities & Fun** — https://wheretoyeg.ca/activities-fun — Entertainment, recreation, and family activities
 

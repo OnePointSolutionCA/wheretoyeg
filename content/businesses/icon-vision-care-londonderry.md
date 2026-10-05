@@ -2,6 +2,7 @@
 name: "Icon Vision Care (Londonderry)"
 slug: "icon-vision-care-londonderry"
 category: "medical"
+subcategory: "eye-care"
 neighborhood: "Edmonton"
 address: "Londonderry Mall, 140 Ave NW #134, Edmonton, AB T5C 3C8"
 rating: 4.9

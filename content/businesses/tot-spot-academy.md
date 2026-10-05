@@ -1,8 +1,8 @@
 ---
 name: "Tot Spot Academy"
 slug: "tot-spot-academy"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "early-learning"
 tier: "featured"
 description: ""
 address: "86 McKenney Ave #9420, St. Albert, AB T8N 2G4"

@@ -2,6 +2,7 @@
 name: "Kahwa Raw Cafe"
 slug: "kahwa-raw-cafe"
 category: "cafes-coffee-shops"
+subcategory: "international"
 tier: "featured"
 description: "Late-night Middle Eastern cafe on Edmonton's north side. Signature Karak tea, specialty lattes, mojitos, smoothies, and fresh pastries — open until midnight, halal."
 address: "180 Mistatim Rd NW"

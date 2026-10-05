@@ -1,8 +1,8 @@
 ---
 name: "Wee Care Family Day Homes Inc"
 slug: "wee-care-family-day-homes-inc"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "day-homes"
 tier: "featured"
 description: ""
 address: "9904 103 St, Fort Saskatchewan, AB T8L 2C9"

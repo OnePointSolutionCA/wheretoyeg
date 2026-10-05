@@ -2,6 +2,7 @@
 name: "Monacci Coffeehouse"
 slug: "monacci-coffeehouse"
 category: "cafes-coffee-shops"
+subcategory: "specialty"
 neighborhood: "Windermere"
 address: "2055 163 St SW, Edmonton, AB T6W 4V5"
 rating: 4.7

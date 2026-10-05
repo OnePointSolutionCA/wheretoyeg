@@ -2,6 +2,7 @@
 name: "Studio one"
 slug: "studio-one"
 category: "photographers"
+subcategory: "portraits"
 neighborhood: "Edmonton"
 address: "10354 68 Ave NW #201, Edmonton, AB T6H 2A7"
 rating: 5

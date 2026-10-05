@@ -2,6 +2,7 @@
 name: "Hearing Care Clinic (Hear Right Canada)"
 slug: "hearing-care-clinic-hear-right-canada"
 category: "medical"
+subcategory: "hearing-care"
 neighborhood: "Edmonton"
 address: "1 Londonderry Mall NW Unit 184A, Edmonton, AB T5C 3C8"
 rating: 4.8

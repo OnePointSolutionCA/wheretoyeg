@@ -2,6 +2,7 @@
 name: "Malwa91 Barber"
 slug: "malwa91-barber"
 category: "barbers"
+subcategory: "mens-haircuts"
 neighborhood: "Beaumont"
 address: "3107 Pelerin Cres, Beaumont, AB T4X 2X8"
 rating: 5

@@ -1,8 +1,8 @@
 ---
 name: "Emerald Hills Daycare & OSC"
 slug: "emerald-hills-daycare-osc"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "8005 Emerald Dr #920, Sherwood Park, AB T8H 0J1"
@@ -24,7 +24,8 @@ photos:
   - "/photos/emerald-hills-daycare-osc-g1.jpg"
 rating: 4.7
 review_count: 30
-amenities: []
+amenities:
+  - "Out of School Care"
 tags: ["edmonton", "childcare"]
 active: true
 date_listed: "2026-10-02"

@@ -2,6 +2,7 @@
 name: "Farmers cafe"
 slug: "farmers-cafe"
 category: "cafes-coffee-shops"
+subcategory: "specialty"
 neighborhood: "Mill Woods"
 address: "1648 24 St NW, Edmonton, AB T6T 1J1"
 rating: 4.4

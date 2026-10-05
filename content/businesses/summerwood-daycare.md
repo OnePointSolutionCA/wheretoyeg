@@ -1,8 +1,8 @@
 ---
 name: "Summerwood Daycare"
 slug: "summerwood-daycare"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "4005 Clover Bar Rd #62, Sherwood Park, AB T8H 0M4"

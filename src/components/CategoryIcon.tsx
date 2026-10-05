@@ -28,6 +28,7 @@ const PATHS: Record<string, string> = {
   target: "M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zM12 6a6 6 0 1 0 0 12 6 6 0 0 0 0-12zM12 10a2 2 0 1 0 0 4 2 2 0 0 0 0-4z",
   eye: "M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8zM12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6z",
   leaf: "M6 3v8a5 5 0 0 0 10 0V3M6 3h10M3 21c2-6 5-9 9-9",
+  blocks: "M3 14h7v7H3zM14 14h7v7h-7zM8.5 3h7v7h-7zM6.5 17.5h.01M17.5 17.5h.01M12 6.5h.01",
 };
 
 export function CategoryIcon({ name, size = 20 }: { name?: string; size?: number }) {

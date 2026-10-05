@@ -1,8 +1,8 @@
 ---
 name: "Bright Eyes Daycare & OSC"
 slug: "bright-eyes-daycare-osc"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "5303 Magasin Ave #101, Beaumont, AB T4X 1V8"
@@ -25,7 +25,8 @@ photos:
   - "/photos/bright-eyes-daycare-osc-g2.jpg"
 rating: 4.8
 review_count: 16
-amenities: []
+amenities:
+  - "Out of School Care"
 tags: ["edmonton", "childcare"]
 active: true
 date_listed: "2026-10-02"

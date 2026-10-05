@@ -2,6 +2,7 @@
 name: "Urban Plant Cafe"
 slug: "urban-plant-cafe"
 category: "cafes-coffee-shops"
+subcategory: "specialty"
 neighborhood: "Mill Woods"
 address: "9261 34 Ave NW #18A, Edmonton, AB T6N 1C9"
 rating: 4.3

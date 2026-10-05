@@ -2,6 +2,7 @@
 name: "Thyme To Celebrate Catering"
 slug: "thyme-to-celebrate-catering"
 category: "catering"
+subcategory: "event-catering"
 neighborhood: "St. Albert"
 address: "78 McKenney Ave, St. Albert, AB T8N 7E6"
 rating: 5

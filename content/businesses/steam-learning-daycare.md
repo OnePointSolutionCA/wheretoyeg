@@ -1,8 +1,8 @@
 ---
 name: "STEAM Learning Daycare"
 slug: "steam-learning-daycare"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "9105 118 Ave NW, Edmonton, AB T5B 0T9"

@@ -2,6 +2,7 @@
 name: "Mr Steam Edmonton Carpet & Upholstery Cleaning"
 slug: "mr-steam-edmonton-carpet-and-upholstery-cleaning"
 category: "cleaning-services"
+subcategory: "carpet"
 neighborhood: "Edmonton"
 address: "7108 16 Ave SW, Edmonton, AB T6X 0H3"
 rating: 5

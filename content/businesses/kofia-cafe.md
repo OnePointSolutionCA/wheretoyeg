@@ -2,6 +2,7 @@
 name: "Kofia cafe"
 slug: "kofia-cafe"
 category: "cafes-coffee-shops"
+subcategory: "international"
 neighborhood: "Spruce Grove"
 address: "16735 71 St NW, Edmonton, AB T5Z 0G9"
 rating: 4.9

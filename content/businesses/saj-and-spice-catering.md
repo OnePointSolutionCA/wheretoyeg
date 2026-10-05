@@ -2,6 +2,7 @@
 name: "Saj & Spice Catering"
 slug: "saj-and-spice-catering"
 category: "catering"
+subcategory: "event-catering"
 neighborhood: "Edmonton"
 address: "NW Private Roadway, Edmonton, AB T5G 0G0"
 rating: 5

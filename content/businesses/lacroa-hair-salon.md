@@ -2,6 +2,7 @@
 name: "LACROA HAIR SALON"
 slug: "lacroa-hair-salon"
 category: "hair-salons"
+subcategory: "cuts-styling"
 neighborhood: "Spruce Grove"
 address: "210 McLeod Ave Unit 80, Spruce Grove, AB T7X 2K5"
 rating: 5
@@ -10,7 +11,8 @@ tier: "featured"
 phone: "(825) 220-0211"
 website: "https://www.instagram.com/lacroa.studio?igsh=ZnRzMDNrNW4yMm4x&utm_source=qr"
 google_maps: "https://maps.google.com/?cid=270627580195350279&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
-photos: []
+photos:
+  - "/images/businesses/ivana-lacroa-hair-studio.jpg"
 reviews:
   - name: "Darlene F"
     rating: 5

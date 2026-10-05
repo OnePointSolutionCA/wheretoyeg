@@ -2,6 +2,7 @@
 name: "Greg’s Janitorial Services"
 slug: "greg-s-janitorial-services"
 category: "cleaning-services"
+subcategory: "commercial-cleaning"
 neighborhood: "Edmonton"
 address: "6510 Gateway Blvd NW, Edmonton, AB T6H 5Z5"
 rating: 5

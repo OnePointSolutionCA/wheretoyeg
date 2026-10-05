@@ -2,6 +2,7 @@
 name: "Si Salon and Spa"
 slug: "si-salon-and-spa"
 category: "spas-esthetics"
+subcategory: "day-spas"
 tier: "featured"
 description: "West Edmonton salon and spa offering facials, waxing, brow work, and skincare treatments. 4.9-star rated with a loyal local following."
 address: "7225 Winterburn Rd NW"

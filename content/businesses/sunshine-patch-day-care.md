@@ -1,8 +1,8 @@
 ---
 name: "Sunshine Patch Day Care"
 slug: "sunshine-patch-day-care"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "Ave Stn Main, 6002 29 Ave, Beaumont, AB T4X 0H5"

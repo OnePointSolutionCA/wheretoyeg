@@ -1,8 +1,8 @@
 ---
 name: "Trinity Early Learning & OSC"
 slug: "trinity-early-learning-osc"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "early-learning"
 tier: "featured"
 description: ""
 address: "398 St Albert Trl #200, St. Albert, AB T8N 5J9"
@@ -25,6 +25,7 @@ photos:
 rating: 5.0
 review_count: 18
 amenities:
+  - "Out of School Care"
   - "Wheelchair Accessible"
 tags: ["edmonton", "childcare"]
 active: true

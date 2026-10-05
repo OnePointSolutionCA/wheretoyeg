@@ -2,6 +2,7 @@
 name: "Gentlemen's Cleaning Company"
 slug: "gentlemens-cleaning-company"
 category: "cleaning-services"
+subcategory: "house-cleaning"
 neighborhood: "Edmonton"
 address: "1234 Chappelle Blvd SW, Edmonton, AB T6W 4T3"
 rating: 4.9

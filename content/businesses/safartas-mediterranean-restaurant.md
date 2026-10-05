@@ -2,6 +2,7 @@
 name: "Safartas Mediterranean Restaurant"
 slug: "safartas-mediterranean-restaurant"
 category: "restaurants"
+subcategory: "mediterranean"
 neighborhood: "Castle Downs"
 address: "12110 161 Ave NW, Edmonton, AB T5X 5M8"
 rating: 4.5

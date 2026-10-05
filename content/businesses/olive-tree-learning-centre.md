@@ -1,8 +1,8 @@
 ---
 name: "Olive Tree Learning Centre"
 slug: "olive-tree-learning-centre"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "early-learning"
 tier: "featured"
 description: ""
 address: "205 Fir St, Sherwood Park, AB T8A 2G6"

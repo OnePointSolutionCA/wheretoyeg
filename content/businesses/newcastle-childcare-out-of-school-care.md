@@ -1,8 +1,8 @@
 ---
 name: "Newcastle Childcare & Out of School Care"
 slug: "newcastle-childcare-out-of-school-care"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "16947 127 St, Edmonton, AB T5X 5P5"

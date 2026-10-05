@@ -1,8 +1,8 @@
 ---
 name: "Strathcona Child Development Centre"
 slug: "strathcona-child-development-centre"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "early-learning"
 tier: "featured"
 description: ""
 address: "200 Festival Ln #300, Sherwood Park, AB T8A 4Y8"

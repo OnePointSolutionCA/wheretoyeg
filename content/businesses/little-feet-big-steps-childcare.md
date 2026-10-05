@@ -1,8 +1,8 @@
 ---
 name: "Little Feet Big Steps Childcare"
 slug: "little-feet-big-steps-childcare"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "121 Town Crest Rd #117, Fort Saskatchewan, AB T8L 0G7"

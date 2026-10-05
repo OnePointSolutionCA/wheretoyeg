@@ -1,8 +1,8 @@
 ---
 name: "Red Rose Day Care"
 slug: "red-rose-day-care"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "15830 Stony Plain Rd, Edmonton, AB T5P 3Z6"

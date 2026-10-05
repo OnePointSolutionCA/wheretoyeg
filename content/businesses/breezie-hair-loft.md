@@ -2,6 +2,7 @@
 name: "Breezie Hair Loft"
 slug: "breezie-hair-loft"
 category: "hair-salons"
+subcategory: "cuts-styling"
 neighborhood: "Spruce Grove"
 address: "315 First Ave #5, Spruce Grove, AB T7X 3X2"
 rating: 5

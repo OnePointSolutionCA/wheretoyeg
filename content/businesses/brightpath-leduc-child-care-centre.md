@@ -1,8 +1,8 @@
 ---
 name: "BrightPath Leduc Child Care Centre"
 slug: "brightpath-leduc-child-care-centre"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "5010 48a St, Leduc, AB T9E 6Y1"

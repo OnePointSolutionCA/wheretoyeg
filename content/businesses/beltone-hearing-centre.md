@@ -2,6 +2,7 @@
 name: "Beltone Hearing Centre"
 slug: "beltone-hearing-centre"
 category: "medical"
+subcategory: "hearing-care"
 neighborhood: "Castle Downs"
 address: "15277 Castle Downs Rd NW Unit 134, Edmonton, AB T5X 3N5"
 rating: 4.8

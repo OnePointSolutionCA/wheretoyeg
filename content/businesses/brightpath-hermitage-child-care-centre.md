@@ -1,8 +1,8 @@
 ---
 name: "BrightPath Hermitage Child Care Centre"
 slug: "brightpath-hermitage-child-care-centre"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "570 Hermitage Rd NW, Edmonton, AB T5A 4N2"

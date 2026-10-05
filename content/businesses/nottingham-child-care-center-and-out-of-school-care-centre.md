@@ -1,8 +1,8 @@
 ---
 name: "NOTTINGHAM CHILD CARE CENTER AND OUT OF SCHOOL CARE CENTRE"
 slug: "nottingham-child-care-center-and-out-of-school-care-centre"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "664 Wye Rd #110, Sherwood Park, AB T8B 1N2"
@@ -26,6 +26,7 @@ photos:
 rating: 5.0
 review_count: 40
 amenities:
+  - "Out of School Care"
   - "Wheelchair Accessible"
 tags: ["edmonton", "childcare"]
 active: true

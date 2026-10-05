@@ -2,6 +2,7 @@
 name: "Vanity Collective Salon And Spa"
 slug: "vanity-collective-salon-and-spa"
 category: "spas-esthetics"
+subcategory: "day-spas"
 neighborhood: "Spruce Grove"
 address: "1 Hawthorne Gate #116, Spruce Grove, AB T7X 0A6"
 rating: 4.9

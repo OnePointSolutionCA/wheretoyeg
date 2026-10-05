@@ -1,8 +1,8 @@
 ---
 name: "Kidz In The Park Ltd"
 slug: "kidz-in-the-park-ltd"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "2051 Sherwood Dr, Sherwood Park, AB T8A 3W9"

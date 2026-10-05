@@ -2,6 +2,7 @@
 name: "The Audiology Clinic Edmonton"
 slug: "the-audiology-clinic-edmonton"
 category: "medical"
+subcategory: "hearing-care"
 neighborhood: "Edmonton"
 address: "8861 75 Street NW, Edmonton, AB T6B 0M4"
 rating: 5

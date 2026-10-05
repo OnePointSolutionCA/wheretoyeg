@@ -2,6 +2,7 @@
 name: "CarpetX Cleaning Services"
 slug: "carpetx-cleaning-services"
 category: "cleaning-services"
+subcategory: "carpet"
 neighborhood: "Edmonton"
 address: "2098 Blackmud Creek Dr SW, Edmonton, AB T6W 1T7"
 rating: 5

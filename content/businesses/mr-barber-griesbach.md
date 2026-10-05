@@ -2,6 +2,7 @@
 name: "Mr. Barber Griesbach"
 slug: "mr-barber-griesbach"
 category: "barbers"
+subcategory: "mens-haircuts"
 neighborhood: "Castle Downs"
 address: "5328A Admiral Girouard St, Edmonton, AB T5X 3N5"
 rating: 5

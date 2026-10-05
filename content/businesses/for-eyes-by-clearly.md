@@ -2,6 +2,7 @@
 name: "For Eyes By Clearly"
 slug: "for-eyes-by-clearly"
 category: "medical"
+subcategory: "eye-care"
 neighborhood: "Edmonton"
 address: "8882 170 St NW 2167 phase ii, Edmonton, AB T5T 4J2"
 rating: 4.5

@@ -2,6 +2,7 @@
 name: "Express Pizza"
 slug: "express-pizza"
 category: "restaurants"
+subcategory: "pizza"
 neighborhood: "St. Albert"
 address: "1115 St Albert Trl Unit 130, St. Albert, AB T8N 7X6"
 rating: 4.7

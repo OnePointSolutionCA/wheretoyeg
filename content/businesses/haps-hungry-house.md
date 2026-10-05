@@ -2,6 +2,7 @@
 name: "Hap's Hungry House"
 slug: "haps-hungry-house"
 category: "restaurants"
+subcategory: "family"
 neighborhood: "Edmonton"
 address: "16060 Stony Plain Rd, Edmonton, AB T5P 3Z9"
 rating: 4.6

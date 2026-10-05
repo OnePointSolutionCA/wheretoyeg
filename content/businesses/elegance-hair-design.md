@@ -2,6 +2,7 @@
 name: "Elegance Hair Design"
 slug: "elegance-hair-design"
 category: "hair-salons"
+subcategory: "cuts-styling"
 neighborhood: "Spruce Grove"
 address: "70 McLeod Ave, Spruce Grove, AB T7X 3C7"
 rating: 4.3

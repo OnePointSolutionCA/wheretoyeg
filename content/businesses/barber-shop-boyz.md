@@ -2,6 +2,7 @@
 name: "Barber Shop Boyz"
 slug: "barber-shop-boyz"
 category: "barbers"
+subcategory: "mens-haircuts"
 neighborhood: "Castle Downs"
 address: "9940 153 Ave NW, Edmonton, AB T5X 6A4"
 rating: 4.6

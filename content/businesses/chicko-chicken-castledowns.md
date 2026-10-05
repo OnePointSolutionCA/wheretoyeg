@@ -2,6 +2,7 @@
 name: "Chicko Chicken Castledowns"
 slug: "chicko-chicken-castledowns"
 category: "restaurants"
+subcategory: "fried-chicken"
 neighborhood: "Castle Downs"
 address: "15277 Castle Downs Rd NW, Edmonton, AB T5X 3N5"
 rating: 4.8

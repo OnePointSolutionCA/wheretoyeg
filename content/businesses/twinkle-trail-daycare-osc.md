@@ -1,8 +1,8 @@
 ---
 name: "Twinkle Trail Daycare & OSC"
 slug: "twinkle-trail-daycare-osc"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "15926 Stony Plain Rd, Edmonton, AB T5P 3Z8"
@@ -25,7 +25,8 @@ photos:
   - "/photos/twinkle-trail-daycare-osc-g2.jpg"
 rating: 4.9
 review_count: 17
-amenities: []
+amenities:
+  - "Out of School Care"
 tags: ["edmonton", "childcare"]
 active: true
 date_listed: "2026-10-02"

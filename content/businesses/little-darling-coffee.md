@@ -2,6 +2,7 @@
 name: "Little Darling Coffee"
 slug: "little-darling-coffee"
 category: "cafes-coffee-shops"
+subcategory: "specialty"
 neighborhood: "St. Albert"
 address: "46D St Michael St, St. Albert, AB T8N 1C9"
 rating: 4.7

@@ -1,8 +1,8 @@
 ---
 name: "Kids Haven Childcare"
 slug: "kids-haven-childcare"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "2 E Sir Winston Churchill Ave, St. Albert, AB T8N 3T6"

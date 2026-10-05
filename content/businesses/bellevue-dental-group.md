@@ -2,6 +2,7 @@
 name: "Bellevue Dental Group"
 slug: "bellevue-dental-group"
 category: "medical"
+subcategory: "dentists"
 neighborhood: "Beaumont"
 address: "5004 49 Ave, Beaumont, AB T4X 1E4"
 rating: 5

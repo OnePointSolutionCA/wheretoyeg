@@ -1,8 +1,8 @@
 ---
 name: "Happy Faces Child Care"
 slug: "happy-faces-child-care"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "65 Graham Rd F, Sherwood Park, AB T8A 3V5"

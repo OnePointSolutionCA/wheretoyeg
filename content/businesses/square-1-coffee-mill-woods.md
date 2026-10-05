@@ -2,6 +2,7 @@
 name: "Square 1 Coffee - Mill Woods"
 slug: "square-1-coffee-mill-woods"
 category: "cafes-coffee-shops"
+subcategory: "specialty"
 neighborhood: "Mill Woods"
 address: "Inside Community Health Center, 7319 29 Ave NW #111, Edmonton, AB T6K 2P1"
 rating: 4.9

@@ -1,8 +1,8 @@
 ---
 name: "Kepler Academy Early Learning and Child Care - St. Albert"
 slug: "kepler-academy-early-learning-and-child-care-st-albert"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "early-learning"
 tier: "featured"
 description: ""
 address: "625 St Albert Trl Ste 300, St. Albert, AB T8N 3L3"

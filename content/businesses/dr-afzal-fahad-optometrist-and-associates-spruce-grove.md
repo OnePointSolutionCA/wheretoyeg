@@ -20,7 +20,9 @@ hours:
   friday: "10:00 AM–5:00 PM"
   saturday: "10:00 AM–1:00 PM"
   sunday: "Closed"
-photos: []
+photos:
+  - "/photos/true-vision-eye-centre-now-pearle-vision-g1.jpg"
+  - "/photos/true-vision-eye-centre-now-pearle-vision-g2.jpg"
 rating: 5.0
 review_count: 132
 amenities:

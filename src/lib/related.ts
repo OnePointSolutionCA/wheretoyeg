@@ -18,6 +18,7 @@ export const KEYWORDS: Record<string, string[]> = {
   medical: ["dentist", "eye-care", "hearing", "chiropractic", "pharmac", "walk-in", "diagnostic", "medical", "braces"],
   photographers: ["photographer"],
   "professional-services": ["law"],
+  childcare: ["daycare", "childcare"],
   catering: ["catering"],
   "activities-fun": ["things-to-do", "escape", "climbing", "activities"],
 };

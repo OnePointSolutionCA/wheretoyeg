@@ -1,8 +1,8 @@
 ---
 name: "Glengarry Child Care Society"
 slug: "glengarry-child-care-society"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "13315 89 St NW, Edmonton, AB T5E 3K3"

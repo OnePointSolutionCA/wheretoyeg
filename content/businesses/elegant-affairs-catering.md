@@ -2,6 +2,7 @@
 name: "Elegant Affairs Catering"
 slug: "elegant-affairs-catering"
 category: "catering"
+subcategory: "event-catering"
 neighborhood: "St. Albert"
 address: "25 Grosvenor Blvd, St. Albert, AB T8N 1P3"
 rating: 4.8

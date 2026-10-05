@@ -2,6 +2,7 @@
 name: "Beaumont Spa & Beauty"
 slug: "beaumont-spa-and-beauty"
 category: "spas-esthetics"
+subcategory: "day-spas"
 neighborhood: "Beaumont"
 address: "3012 48 St, Beaumont, AB T4X 1V1"
 rating: 4.2

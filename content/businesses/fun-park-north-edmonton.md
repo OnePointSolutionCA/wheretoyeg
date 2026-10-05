@@ -2,6 +2,7 @@
 name: "Fun Park - North Edmonton"
 slug: "fun-park-north-edmonton"
 category: "activities-fun"
+subcategory: "indoor-playground"
 neighborhood: "Edmonton"
 address: "6810 125 Ave NW, Edmonton, AB T5C 1R3"
 rating: 4
@@ -9,6 +10,7 @@ review_count: 314
 tier: "featured"
 phone: "(587) 402-6624"
 website: "https://funparkcanada.ca/"
+google_maps_url: "https://maps.google.com/?cid=13410879663225832000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 google_maps: "https://maps.google.com/?cid=13410879663225832000&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/fun-park-north-edmonton.jpg"

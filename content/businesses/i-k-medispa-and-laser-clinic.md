@@ -2,6 +2,7 @@
 name: "I.k Medispa & Laser Clinic"
 slug: "i-k-medispa-and-laser-clinic"
 category: "spas-esthetics"
+subcategory: "medspa"
 neighborhood: "Beaumont"
 address: "4003 47 Ave, Beaumont, AB T4X 2A8"
 rating: 5

@@ -2,6 +2,7 @@
 name: "D Spot Desserts Sherwood Park"
 slug: "d-spot-desserts-sherwood-park"
 category: "restaurants"
+subcategory: "ice-cream"
 neighborhood: "Sherwood Park"
 address: "270 Baseline Rd #330, Sherwood Park, AB T8H 1R4"
 rating: 4.6

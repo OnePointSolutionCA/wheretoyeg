@@ -1,8 +1,8 @@
 ---
 name: "Hillshire Daycare and OSC"
 slug: "hillshire-daycare-and-osc"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "667 Wye Rd #210, Sherwood Park, AB T8B 1N2"
@@ -24,7 +24,8 @@ photos:
   - "/photos/hillshire-daycare-and-osc-g1.jpg"
 rating: 5.0
 review_count: 29
-amenities: []
+amenities:
+  - "Out of School Care"
 tags: ["edmonton", "childcare"]
 active: true
 date_listed: "2026-10-02"

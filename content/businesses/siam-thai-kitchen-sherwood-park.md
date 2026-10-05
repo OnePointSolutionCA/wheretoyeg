@@ -2,6 +2,7 @@
 name: "Siam Thai Kitchen (Sherwood Park)"
 slug: "siam-thai-kitchen-sherwood-park"
 category: "restaurants"
+subcategory: "thai"
 neighborhood: "Sherwood Park"
 address: "205 Festival Way #560, Sherwood Park, AB T8A 4Y7"
 rating: 4.8

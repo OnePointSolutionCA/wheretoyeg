@@ -2,6 +2,7 @@
 name: "Iron Lore Gym"
 slug: "iron-lore-gym"
 category: "gyms-fitness"
+subcategory: "gyms"
 neighborhood: "Beaumont"
 address: "5305 Magasin Ave #102, Beaumont, AB T4X 1V8"
 rating: 4.9

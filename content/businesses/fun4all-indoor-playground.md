@@ -2,6 +2,7 @@
 name: "Fun4all Indoor Playground"
 slug: "fun4all-indoor-playground"
 category: "activities-fun"
+subcategory: "indoor-playground"
 neighborhood: "Edmonton"
 address: "4142 101 St NW, Edmonton, AB T6E 0A5"
 rating: 4.8

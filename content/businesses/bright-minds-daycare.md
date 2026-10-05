@@ -1,8 +1,8 @@
 ---
 name: "Bright Minds Daycare"
 slug: "bright-minds-daycare"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "3805 49 Ave #108, Stony Plain, AB T7Z 2J7"

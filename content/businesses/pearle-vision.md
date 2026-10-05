@@ -2,6 +2,7 @@
 name: "Pearle Vision"
 slug: "pearle-vision"
 category: "medical"
+subcategory: "eye-care"
 neighborhood: "Edmonton"
 address: "9450 137 Ave NW Unit 150, Edmonton, AB T5E 6C2"
 rating: 4.5

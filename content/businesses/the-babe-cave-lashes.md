@@ -1,7 +1,8 @@
 ---
 name: "The Babe Cave Lashes"
 slug: "the-babe-cave-lashes"
-category: "spas-esthetics"
+category: "lash-techs"
+subcategory: "lash-extensions"
 neighborhood: "Beaumont"
 address: "5025 52 Ave, Beaumont, AB T4X 1E5"
 rating: 5

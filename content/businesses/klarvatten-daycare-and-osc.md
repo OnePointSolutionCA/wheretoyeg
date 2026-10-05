@@ -1,8 +1,8 @@
 ---
 name: "Klarvatten Daycare and OSC"
 slug: "klarvatten-daycare-and-osc"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "16717 84 St NW, Edmonton, AB T5Z 0P9"
@@ -26,6 +26,7 @@ photos:
 rating: 4.4
 review_count: 35
 amenities:
+  - "Out of School Care"
   - "Wheelchair Accessible"
 tags: ["edmonton", "childcare"]
 active: true

@@ -2,6 +2,7 @@
 name: "Steven Li Studio"
 slug: "steven-li-studio"
 category: "photographers"
+subcategory: "portraits"
 neighborhood: "Edmonton"
 address: "10612 73 Ave NW, Edmonton, AB T6E 1C4"
 rating: 4.9

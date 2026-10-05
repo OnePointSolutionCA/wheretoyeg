@@ -2,6 +2,7 @@
 name: "Total Focus Northgate and Dry Eye Clinic"
 slug: "total-focus-northgate-and-dry-eye-clinic"
 category: "medical"
+subcategory: "eye-care"
 neighborhood: "Edmonton"
 address: "9499 137 Ave NW Ste 1100, Edmonton, AB T5E 5R8"
 rating: 4.6

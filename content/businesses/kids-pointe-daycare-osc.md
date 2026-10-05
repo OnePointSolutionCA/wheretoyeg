@@ -1,8 +1,8 @@
 ---
 name: "Kids Pointe Daycare & OSC"
 slug: "kids-pointe-daycare-osc"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "75 Neil Ross Rd #210, St. Albert, AB T8T 7W1"
@@ -20,12 +20,11 @@ hours:
   friday: "6:30 AM–6:00 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos:
-  - "/photos/kids-pointe-daycare-osc-g1.jpg"
-  - "/photos/kids-pointe-daycare-osc-g2.jpg"
+photos: []
 rating: 5.0
 review_count: 37
-amenities: []
+amenities:
+  - "Out of School Care"
 tags: ["edmonton", "childcare"]
 active: true
 date_listed: "2026-10-02"

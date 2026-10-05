@@ -2,6 +2,7 @@
 name: "Lavazio Barbershop"
 slug: "lavazio-barbershop"
 category: "barbers"
+subcategory: "mens-haircuts"
 neighborhood: "Castle Downs"
 address: "15361 97 St NW, Edmonton, AB T5X 5V3"
 rating: 4.8

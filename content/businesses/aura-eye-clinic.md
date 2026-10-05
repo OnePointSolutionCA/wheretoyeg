@@ -2,6 +2,7 @@
 name: "Aura Eye Clinic"
 slug: "aura-eye-clinic"
 category: "medical"
+subcategory: "eye-care"
 neighborhood: "Edmonton"
 address: "5312 Admiral Girouard St, Edmonton, AB T5E 6Z7"
 rating: 5

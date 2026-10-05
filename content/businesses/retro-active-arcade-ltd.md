@@ -2,6 +2,7 @@
 name: "Retro Active Arcade ltd."
 slug: "retro-active-arcade-ltd"
 category: "activities-fun"
+subcategory: "arcades"
 neighborhood: "Edmonton"
 address: "4718 97 St NW, Edmonton, AB T6E 5S1"
 rating: 4.8

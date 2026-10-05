@@ -1,8 +1,8 @@
 ---
 name: "Friendly Forest Child Care Centre"
 slug: "friendly-forest-child-care-centre"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "16833 109 St NW, Edmonton, AB T5X 2R5"

@@ -2,6 +2,7 @@
 name: "Eye Masters Family Eye Care"
 slug: "eye-masters-family-eye-care"
 category: "medical"
+subcategory: "eye-care"
 neighborhood: "Edmonton"
 address: "15311 97 St NW, Edmonton, AB T5X 5V3"
 rating: 4.6

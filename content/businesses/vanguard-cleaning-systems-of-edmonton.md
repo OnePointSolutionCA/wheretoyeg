@@ -2,6 +2,7 @@
 name: "Vanguard Cleaning Systems of Edmonton"
 slug: "vanguard-cleaning-systems-of-edmonton"
 category: "cleaning-services"
+subcategory: "house-cleaning"
 neighborhood: "Edmonton"
 address: "4986 92 Ave, Edmonton, AB T6B 2V4"
 rating: 4.7

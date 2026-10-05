@@ -2,6 +2,7 @@
 name: "Reinette Café & Patisserie"
 slug: "reinette-caf-and-patisserie"
 category: "cafes-coffee-shops"
+subcategory: "dessert-cafes"
 neighborhood: "Mill Woods"
 address: "301 Woodvale Rd W, Edmonton, AB T6L 3Z7"
 rating: 4.7

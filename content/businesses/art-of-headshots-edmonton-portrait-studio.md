@@ -2,6 +2,7 @@
 name: "Art of Headshots® - Edmonton Portrait Studio"
 slug: "art-of-headshots-edmonton-portrait-studio"
 category: "photographers"
+subcategory: "portraits"
 neighborhood: "Edmonton"
 address: "9662 Okisikow Wy N W #203, Edmonton, AB T5H 0A7"
 rating: 4.6
@@ -9,6 +10,7 @@ review_count: 18
 tier: "featured"
 phone: "(877) 874-6867"
 website: "https://artofportraits.com/edmonton/"
+google_maps_url: "https://maps.google.com/?cid=6281178792834899087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 google_maps: "https://maps.google.com/?cid=6281178792834899087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/art-of-headshots-edmonton-portrait-studio.jpg"

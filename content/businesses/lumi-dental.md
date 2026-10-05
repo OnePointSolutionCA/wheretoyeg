@@ -2,6 +2,7 @@
 name: "Lumi Dental"
 slug: "lumi-dental"
 category: "medical"
+subcategory: "dentists"
 neighborhood: "Beaumont"
 address: "4905 30 Ave Unit 101, Beaumont, AB T4X 1T9"
 rating: 5

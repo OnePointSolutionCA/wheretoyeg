@@ -1,8 +1,8 @@
 ---
 name: "County Place Early Learning & Care Centre"
 slug: "county-place-early-learning-care-centre"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "early-learning"
 tier: "featured"
 description: ""
 address: "922 Ash St, Sherwood Park, AB T8A 2G1"

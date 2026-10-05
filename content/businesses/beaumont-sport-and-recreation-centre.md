@@ -2,6 +2,7 @@
 name: "Beaumont Sport and Recreation Centre"
 slug: "beaumont-sport-and-recreation-centre"
 category: "gyms-fitness"
+subcategory: "swimming"
 neighborhood: "Beaumont"
 address: "5001 Rue Eaglemont, Beaumont, AB T4X 0H9"
 rating: 4.4

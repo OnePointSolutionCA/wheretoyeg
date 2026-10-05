@@ -2,6 +2,7 @@
 name: "Robin Ben Photography (The Portrait Patch)"
 slug: "robin-ben-photography-the-portrait-patch"
 category: "photographers"
+subcategory: "portraits"
 neighborhood: "Edmonton"
 address: "118 St SW, Edmonton, AB T6W 2E4"
 rating: 5

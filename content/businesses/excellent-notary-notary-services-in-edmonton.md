@@ -2,6 +2,7 @@
 name: "Excellent Notary | Notary services in edmonton"
 slug: "excellent-notary-notary-services-in-edmonton"
 category: "professional-services"
+subcategory: "notaries"
 neighborhood: "Edmonton"
 address: "4275 23 Ave NW, Edmonton, AB T6L 5Z8"
 rating: 4.9

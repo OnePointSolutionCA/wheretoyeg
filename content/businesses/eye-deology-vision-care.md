@@ -2,6 +2,7 @@
 name: "Eye-deology Vision Care"
 slug: "eye-deology-vision-care"
 category: "medical"
+subcategory: "eye-care"
 neighborhood: "Edmonton"
 address: "9641 167 Ave NW, Edmonton, AB T5Z 3S3"
 rating: 4.2

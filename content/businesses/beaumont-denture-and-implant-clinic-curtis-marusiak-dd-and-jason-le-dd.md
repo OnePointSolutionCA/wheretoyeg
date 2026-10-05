@@ -2,6 +2,7 @@
 name: "Beaumont Denture & Implant Clinic - Curtis Marusiak DD & Jason Le DD"
 slug: "beaumont-denture-and-implant-clinic-curtis-marusiak-dd-and-jason-le-dd"
 category: "medical"
+subcategory: "dentists"
 neighborhood: "Beaumont"
 address: "Suite 201, 5305 Magasin Ave 2nd Floor, Beaumont, AB T4X 1V8"
 rating: 4.9

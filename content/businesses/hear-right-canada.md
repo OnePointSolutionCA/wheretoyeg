@@ -2,6 +2,7 @@
 name: "Hear Right Canada"
 slug: "hear-right-canada"
 category: "medical"
+subcategory: "hearing-care"
 neighborhood: "Edmonton"
 address: "12526 132 Ave NW, Edmonton, AB T5L 3P9"
 rating: 4.7

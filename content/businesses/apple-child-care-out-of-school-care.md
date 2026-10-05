@@ -1,8 +1,8 @@
 ---
 name: "Apple Child Care & Out of School Care"
 slug: "apple-child-care-out-of-school-care"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "6120 Schonsee Way Unit 102, Edmonton, AB T5Z 0K5"

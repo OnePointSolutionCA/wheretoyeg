@@ -1,8 +1,8 @@
 ---
 name: "PERFECT DAYCARE"
 slug: "perfect-daycare"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "5302 50 St, Beaumont, AB T4X 2Y2"

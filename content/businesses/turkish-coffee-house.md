@@ -2,6 +2,7 @@
 name: "Turkish Coffee House"
 slug: "turkish-coffee-house"
 category: "cafes-coffee-shops"
+subcategory: "international"
 neighborhood: "St. Albert"
 address: "24 Perron St Unit 50, St. Albert, AB T8N 1E7"
 rating: 4.6

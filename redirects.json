@@ -1,12 +1,12 @@
 [
   {
     "source": "/restaurants/checkers-pizza-and-kabab-whyte-ave-branch",
-    "destination": "/restaurants/checkers-pizza-kabab-whyte-ave-branch",
+    "destination": "/restaurants/checkers-pizza-kabab",
     "permanent": true
   },
   {
     "source": "/restaurants/tarboosh-halal-meat-and-market",
-    "destination": "/grocery-markets/tarboosh-halal-meat-market-2",
+    "destination": "/grocery-markets/tarboosh-halal-meat-market",
     "permanent": true
   },
   {
@@ -77,6 +77,781 @@
   {
     "source": "/blog/best-sushi-japanese-food-edmonton-2026",
     "destination": "/blog/halal-sushi-edmonton",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/afghan-chopan-kebab-2",
+    "destination": "/restaurants/afghan-chopan-kebab",
+    "permanent": true
+  },
+  {
+    "source": "/activities-fun/alberta-aviation-museum-2",
+    "destination": "/activities-fun/alberta-aviation-museum",
+    "permanent": true
+  },
+  {
+    "source": "/photographers/art-of-headshots---edmonton-portrait-studio",
+    "destination": "/photographers/art-of-headshots-edmonton-portrait-studio",
+    "permanent": true
+  },
+  {
+    "source": "/hair-salons/blonde-brunette-hair-studio-2",
+    "destination": "/hair-salons/blonde-brunette-hair-studio",
+    "permanent": true
+  },
+  {
+    "source": "/bakeries/bon-ton-bakery-2",
+    "destination": "/bakeries/bon-ton-bakery",
+    "permanent": true
+  },
+  {
+    "source": "/bakeries/cedar-sweets-2",
+    "destination": "/bakeries/cedar-sweets",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/checkers-pizza-kabab-whyte-ave-branch",
+    "destination": "/restaurants/checkers-pizza-kabab",
+    "permanent": true
+  },
+  {
+    "source": "/bakeries/duchess-bake-shop-2",
+    "destination": "/bakeries/duchess-bake-shop",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/edmonton-notary-public---same-day-service",
+    "destination": "/professional-services/edmonton-notary-public-same-day-service",
+    "permanent": true
+  },
+  {
+    "source": "/grocery-markets/elsafadi-supermarket",
+    "destination": "/grocery-markets/elsafadi-mediterranean-supermarket",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/fatima-karahi",
+    "destination": "/restaurants/fatima-karahi-corner",
+    "permanent": true
+  },
+  {
+    "source": "/auto-repair/fix-auto-sherwood-north-sherwood-park",
+    "destination": "/auto-repair/fix-auto-sherwood-north",
+    "permanent": true
+  },
+  {
+    "source": "/activities-fun/fun-park---north-edmonton",
+    "destination": "/activities-fun/fun-park-north-edmonton",
+    "permanent": true
+  },
+  {
+    "source": "/cleaning-services/gentlemens-cleaning",
+    "destination": "/cleaning-services/gentlemens-cleaning-company",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/jerusalem-shawarma-edmonton-south",
+    "destination": "/restaurants/jerusalem-shawarma",
+    "permanent": true
+  },
+  {
+    "source": "/medical/kensington-dental-clinic-edmonton",
+    "destination": "/medical/kensington-dental-clinic---edmonton",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/khan-kebabs-karahi-halal---authentic-pakistani-afghani-cuisi",
+    "destination": "/restaurants/khan-kebabs-and-karahi-halal-authentic-pakistani-and-afghani-cuisine-edmonton",
+    "permanent": true
+  },
+  {
+    "source": "/photographers/ladybird-photography-2",
+    "destination": "/photographers/ladybird-photography",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/middle-child-burger-2",
+    "destination": "/restaurants/middle-child-burger",
+    "permanent": true
+  },
+  {
+    "source": "/grocery-markets/old-strathcona-farmers-market-2",
+    "destination": "/grocery-markets/old-strathcona-farmers-market",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/rogue-wave-coffee-2",
+    "destination": "/cafes-coffee-shops/rogue-wave-coffee",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/root-of-beirut-2",
+    "destination": "/restaurants/root-of-beirut",
+    "permanent": true
+  },
+  {
+    "source": "/activities-fun/royal-alberta-museum-2",
+    "destination": "/activities-fun/royal-alberta-museum",
+    "permanent": true
+  },
+  {
+    "source": "/photographers/shadow-box-studios-edmonton",
+    "destination": "/photographers/shadow-box-studios",
+    "permanent": true
+  },
+  {
+    "source": "/cleaning-services/steam-dry-canada---home-depot-cleaning-services--edmonton",
+    "destination": "/cleaning-services/steam-dry-canada-home-depot-cleaning-services-edmonton",
+    "permanent": true
+  },
+  {
+    "source": "/bakeries/sunbake-pita-bakery-2",
+    "destination": "/bakeries/sunbake-pita-bakery",
+    "permanent": true
+  },
+  {
+    "source": "/grocery-markets/tarboosh-halal-meat-market-2",
+    "destination": "/grocery-markets/tarboosh-halal-meat-market",
+    "permanent": true
+  },
+  {
+    "source": "/nail-salons/v5-nails-salon-and-spa",
+    "destination": "/nail-salons/v5-nails-salon",
+    "permanent": true
+  },
+  {
+    "source": "/auto-repair/valvoline-express-care-tires---edmonton",
+    "destination": "/auto-repair/valvoline-express-care-tires-edmonton",
+    "permanent": true
+  },
+  {
+    "source": "/medical/instep-physical-therapy-salutaris-centre-for-lymphatic-osteo",
+    "destination": "/medical/in-step-physical-therapy-edmonton-accident-dizziness-pelvic-",
+    "permanent": true
+  },
+  {
+    "source": "/grocery-markets/h-mart-ua-hkitchen",
+    "destination": "/grocery-markets/h-mart-2",
+    "permanent": true
+  },
+  {
+    "source": "/medical/pearle-vision-spruce-grove",
+    "destination": "/medical/dr-afzal-fahad-optometrist-and-associates-spruce-grove",
+    "permanent": true
+  },
+  {
+    "source": "/medical/true-vision-eye-centre-now-pearle-vision",
+    "destination": "/medical/dr-afzal-fahad-optometrist-and-associates-spruce-grove",
+    "permanent": true
+  },
+  {
+    "source": "/medical/dr-greg-p-wendell-dds-and-dr-ameen-j-amirie-dds",
+    "destination": "/medical/grove-dental",
+    "permanent": true
+  },
+  {
+    "source": "/medical/dr-maryna-karpiyevich",
+    "destination": "/medical/westland-family-practice-clinic",
+    "permanent": true
+  },
+  {
+    "source": "/medical/redmond-denis-dr",
+    "destination": "/medical/bellevue-dental-group",
+    "permanent": true
+  },
+  {
+    "source": "/medical/richard-ng-dds",
+    "destination": "/medical/enjoy-dental",
+    "permanent": true
+  },
+  {
+    "source": "/medical/spruce-grove-clinic",
+    "destination": "/medical/dynamic-physiotherapy-and-wellness",
+    "permanent": true
+  },
+  {
+    "source": "/hair-salons/ivana-lacroa-hair-studio",
+    "destination": "/hair-salons/lacroa-hair-salon",
+    "permanent": true
+  },
+  {
+    "source": "/hair-salons/julia-lacroa-hair-studio",
+    "destination": "/hair-salons/lacroa-hair-salon",
+    "permanent": true
+  },
+  {
+    "source": "/photographers/flux-weddings",
+    "destination": "/photographers/flux-media-yeg",
+    "permanent": true
+  },
+  {
+    "source": "/auto-repair/minute-muffler-speedy-auto",
+    "destination": "/auto-repair/speedy-auto-service-fort-saskatchewan",
+    "permanent": true
+  },
+  {
+    "source": "/auto-repair/salahco-roadside-assistance",
+    "destination": "/auto-repair/fast-auto-service",
+    "permanent": true
+  },
+  {
+    "source": "/auto-repair/richs-garage-ltd",
+    "destination": "/auto-repair/cjs-automotive",
+    "permanent": true
+  },
+  {
+    "source": "/catering/karam-kitchen",
+    "destination": "/restaurants/paramount-fine-foods",
+    "permanent": true
+  },
+  {
+    "source": "/cleaning-services/alberta-carpet-cleaning-2",
+    "destination": "/cleaning-services/alberta-carpet-cleaning",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/alberta-law-office-2",
+    "destination": "/professional-services/alberta-law-office",
+    "permanent": true
+  },
+  {
+    "source": "/activities-fun/escape-city-edmonton-2",
+    "destination": "/activities-fun/escape-city-edmonton",
+    "permanent": true
+  },
+  {
+    "source": "/activities-fun/launchpad-trampoline-park-3",
+    "destination": "/activities-fun/launchpad-trampoline-park",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/a-d-child-care-centre-and-out-of-school-care",
+    "destination": "/childcare/a-d-child-care-centre-and-out-of-school-care",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/a-nanas-love-daycare-and-osc",
+    "destination": "/childcare/a-nanas-love-daycare-and-osc",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/achievers-early-learning-and-childcare",
+    "destination": "/childcare/achievers-early-learning-and-childcare",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/amys-daycare",
+    "destination": "/childcare/amys-daycare",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/an-enchanted-forest-daycare",
+    "destination": "/childcare/an-enchanted-forest-daycare",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/apple-child-care-out-of-school-care",
+    "destination": "/childcare/apple-child-care-out-of-school-care",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/balwin-day-care-ctr",
+    "destination": "/childcare/balwin-day-care-ctr",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/bambini-learning-group-st-albert",
+    "destination": "/childcare/bambini-learning-group-st-albert",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/beaumont-montessori-early-learning-day-care-center",
+    "destination": "/childcare/beaumont-montessori-early-learning-day-care-center",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/best-start-daycare",
+    "destination": "/childcare/best-start-daycare",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/blooming-stars-daycare-and-osc-ltd",
+    "destination": "/childcare/blooming-stars-daycare-and-osc-ltd",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/bright-eyes-daycare-osc",
+    "destination": "/childcare/bright-eyes-daycare-osc",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/bright-minds-daycare",
+    "destination": "/childcare/bright-minds-daycare",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/brightpath-hermitage-child-care-centre",
+    "destination": "/childcare/brightpath-hermitage-child-care-centre",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/brightpath-leduc-child-care-centre",
+    "destination": "/childcare/brightpath-leduc-child-care-centre",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/brightpath-sherwood-park-child-care-center",
+    "destination": "/childcare/brightpath-sherwood-park-child-care-center",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/brite-beginnings-erin-ridge",
+    "destination": "/childcare/brite-beginnings-erin-ridge",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/county-place-early-learning-care-centre",
+    "destination": "/childcare/county-place-early-learning-care-centre",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/creative-childrens-daycare-ltd",
+    "destination": "/childcare/creative-childrens-daycare-ltd",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/eduplay-academy-daycare-out-of-school-care",
+    "destination": "/childcare/eduplay-academy-daycare-out-of-school-care",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/emelias-child-development-centre",
+    "destination": "/childcare/emelias-child-development-centre",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/emerald-hills-daycare-osc",
+    "destination": "/childcare/emerald-hills-daycare-osc",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/everbright-academy",
+    "destination": "/childcare/everbright-academy",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/first-step-daycare-and-afterschool",
+    "destination": "/childcare/first-step-daycare-and-afterschool",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/fort-crossing-daycare-osc",
+    "destination": "/childcare/fort-crossing-daycare-osc",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/fort-road-day-care-out-of-school-care",
+    "destination": "/childcare/fort-road-day-care-out-of-school-care",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/fort-saskatchewan-childcare",
+    "destination": "/childcare/fort-saskatchewan-childcare",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/friendly-forest-child-care-centre",
+    "destination": "/childcare/friendly-forest-child-care-centre",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/glengarry-child-care-society",
+    "destination": "/childcare/glengarry-child-care-society",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/global-childcare-centre",
+    "destination": "/childcare/global-childcare-centre",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/happy-faces-child-care",
+    "destination": "/childcare/happy-faces-child-care",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/heartland-childcare-centre",
+    "destination": "/childcare/heartland-childcare-centre",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/hillshire-daycare-and-osc",
+    "destination": "/childcare/hillshire-daycare-and-osc",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/kepler-academy-early-learning-and-child-care-spruce-grove",
+    "destination": "/childcare/kepler-academy-early-learning-and-child-care-spruce-grove",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/kepler-academy-early-learning-and-child-care-st-albert",
+    "destination": "/childcare/kepler-academy-early-learning-and-child-care-st-albert",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/kids-county-daycare-osc",
+    "destination": "/childcare/kids-county-daycare-osc",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/kids-haven-childcare",
+    "destination": "/childcare/kids-haven-childcare",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/kids-pointe-daycare-osc",
+    "destination": "/childcare/kids-pointe-daycare-osc",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/kids-r-us-daycare1-edmonton-day-care-after-school",
+    "destination": "/childcare/kids-r-us-daycare1-edmonton-day-care-after-school",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/kids-valley-daycare-osc",
+    "destination": "/childcare/kids-valley-daycare-osc",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/kidz-club-daycare-pre-school-out-of-school-care",
+    "destination": "/childcare/kidz-club-daycare-pre-school-out-of-school-care",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/kidz-in-the-park-ltd",
+    "destination": "/childcare/kidz-in-the-park-ltd",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/klarvatten-daycare-and-osc",
+    "destination": "/childcare/klarvatten-daycare-and-osc",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/lakeland-ridge-childcare-out-of-school-care-ltd",
+    "destination": "/childcare/lakeland-ridge-childcare-out-of-school-care-ltd",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/little-bear-daycare",
+    "destination": "/childcare/little-bear-daycare",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/little-bunnies-learning-centre-and-osc",
+    "destination": "/childcare/little-bunnies-learning-centre-and-osc",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/little-caterpillars-academy",
+    "destination": "/childcare/little-caterpillars-academy",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/little-cucumber-daycare",
+    "destination": "/childcare/little-cucumber-daycare",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/little-feet-big-steps-childcare",
+    "destination": "/childcare/little-feet-big-steps-childcare",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/little-learners-daycare-osc-campbell",
+    "destination": "/childcare/little-learners-daycare-osc-campbell",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/little-legend-childcare",
+    "destination": "/childcare/little-legend-childcare",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/little-lightbulbs-learning-centre-ltd",
+    "destination": "/childcare/little-lightbulbs-learning-centre-ltd",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/little-nemos-daycare",
+    "destination": "/childcare/little-nemos-daycare",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/little-wonder-child-development-centre",
+    "destination": "/childcare/little-wonder-child-development-centre",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/little-wonders-daycare-inc",
+    "destination": "/childcare/little-wonders-daycare-inc",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/manning-crossing-daycare-centre",
+    "destination": "/childcare/manning-crossing-daycare-centre",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/michelles-little-learners-preschool",
+    "destination": "/childcare/michelles-little-learners-preschool",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/mindful-moments-child-care",
+    "destination": "/childcare/mindful-moments-child-care",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/moms-dream-daycare",
+    "destination": "/childcare/moms-dream-daycare",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/moonlite-montessori-academy",
+    "destination": "/childcare/moonlite-montessori-academy",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/newcastle-childcare-out-of-school-care",
+    "destination": "/childcare/newcastle-childcare-out-of-school-care",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/nottingham-child-care-center-and-out-of-school-care-centre",
+    "destination": "/childcare/nottingham-child-care-center-and-out-of-school-care-centre",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/olive-tree-learning-centre",
+    "destination": "/childcare/olive-tree-learning-centre",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/park-plaza-day-care-osc",
+    "destination": "/childcare/park-plaza-day-care-osc",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/perfect-daycare",
+    "destination": "/childcare/perfect-daycare",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/polk-a-dot-daycare-and-osc",
+    "destination": "/childcare/polk-a-dot-daycare-and-osc",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/red-rose-day-care",
+    "destination": "/childcare/red-rose-day-care",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/rising-star-day-care-osc-ltd",
+    "destination": "/childcare/rising-star-day-care-osc-ltd",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/riverside-daycare-and-osc",
+    "destination": "/childcare/riverside-daycare-and-osc",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/seeds-and-sprouts-early-learning-and-childcare-st-albert-12",
+    "destination": "/childcare/seeds-and-sprouts-early-learning-and-childcare-st-albert-12",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/sherwood-forest-learning-centre",
+    "destination": "/childcare/sherwood-forest-learning-centre",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/small-wonders-daycare",
+    "destination": "/childcare/small-wonders-daycare",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/smart-kids-daycare-osc",
+    "destination": "/childcare/smart-kids-daycare-osc",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/st-albert-montessori-school-and-daycare",
+    "destination": "/childcare/st-albert-montessori-school-and-daycare",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/star-bright-daycare-nursery-ltd",
+    "destination": "/childcare/star-bright-daycare-nursery-ltd",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/steam-learning-daycare",
+    "destination": "/childcare/steam-learning-daycare",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/stony-plain-childcare-place",
+    "destination": "/childcare/stony-plain-childcare-place",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/strathcona-child-development-centre",
+    "destination": "/childcare/strathcona-child-development-centre",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/summerwood-daycare",
+    "destination": "/childcare/summerwood-daycare",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/sunrays-daycare-and-osc",
+    "destination": "/childcare/sunrays-daycare-and-osc",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/sunshine-patch-day-care",
+    "destination": "/childcare/sunshine-patch-day-care",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/suntree-daycare-osc-centre",
+    "destination": "/childcare/suntree-daycare-osc-centre",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/the-child-club-daycare-osc-stony-plain",
+    "destination": "/childcare/the-child-club-daycare-osc-stony-plain",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/tiny-hoppers-day-care-river-valley-edmonton",
+    "destination": "/childcare/tiny-hoppers-day-care-river-valley-edmonton",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/tiny-hoppers-st-albert-south",
+    "destination": "/childcare/tiny-hoppers-st-albert-south",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/tot-spot-academy",
+    "destination": "/childcare/tot-spot-academy",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/trinity-early-learning-osc",
+    "destination": "/childcare/trinity-early-learning-osc",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/twinkle-trail-daycare-osc",
+    "destination": "/childcare/twinkle-trail-daycare-osc",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/wee-care-family-day-homes-inc",
+    "destination": "/childcare/wee-care-family-day-homes-inc",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/wonder-wings-daycare-osc",
+    "destination": "/childcare/wonder-wings-daycare-osc",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/woods-early-learning-center",
+    "destination": "/childcare/woods-early-learning-center",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/world-of-wonders",
+    "destination": "/childcare/world-of-wonders",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/childcare",
+    "destination": "/childcare",
+    "permanent": true
+  },
+  {
+    "source": "/medical/auto-space-and-tire-center-ltd",
+    "destination": "/auto-repair/auto-space-and-tire-center-ltd",
+    "permanent": true
+  },
+  {
+    "source": "/spas-esthetics/beauty-unleashed-hair-salon-ltd",
+    "destination": "/hair-salons/beauty-unleashed-hair-salon-ltd",
+    "permanent": true
+  },
+  {
+    "source": "/nail-salons/brow-more-studio",
+    "destination": "/lash-techs/brow-more-studio",
+    "permanent": true
+  },
+  {
+    "source": "/medical/central-hair",
+    "destination": "/hair-salons/central-hair",
+    "permanent": true
+  },
+  {
+    "source": "/medical/crew-cuts",
+    "destination": "/hair-salons/crew-cuts",
+    "permanent": true
+  },
+  {
+    "source": "/bakeries/elsafadi-supermarket-castle-downs",
+    "destination": "/grocery-markets/elsafadi-supermarket-castle-downs",
+    "permanent": true
+  },
+  {
+    "source": "/catering/fayads-halal-meats-and-deli",
+    "destination": "/grocery-markets/fayads-halal-meats-and-deli",
+    "permanent": true
+  },
+  {
+    "source": "/catering/ibrahims-halal-meats",
+    "destination": "/grocery-markets/ibrahims-halal-meats",
+    "permanent": true
+  },
+  {
+    "source": "/catering/northeast-halal-food-and-meat",
+    "destination": "/grocery-markets/northeast-halal-food-and-meat",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/paris-baguette",
+    "destination": "/bakeries/paris-baguette",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/tealicious-blend",
+    "destination": "/cafes-coffee-shops/tealicious-blend",
+    "permanent": true
+  },
+  {
+    "source": "/spas-esthetics/the-babe-cave-lashes",
+    "destination": "/lash-techs/the-babe-cave-lashes",
+    "permanent": true
+  },
+  {
+    "source": "/spas-esthetics/wildflower-hair-salon",
+    "destination": "/hair-salons/wildflower-hair-salon",
     "permanent": true
   }
 ]

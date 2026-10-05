@@ -1,8 +1,8 @@
 ---
 name: "The Child Club Daycare & OSC Stony Plain"
 slug: "the-child-club-daycare-osc-stony-plain"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "114 Genesis Drive, Stony Plain, AB T7Z 0K4"
@@ -26,6 +26,7 @@ photos:
 rating: 4.5
 review_count: 53
 amenities:
+  - "Out of School Care"
   - "Wheelchair Accessible"
 tags: ["edmonton", "childcare"]
 active: true

@@ -2,6 +2,7 @@
 name: "VEIL Salon & Co."
 slug: "veil-salon-and-co"
 category: "hair-salons"
+subcategory: "cuts-styling"
 neighborhood: "Spruce Grove"
 address: "3 Ballpark Wy #213, Spruce Grove, AB T7X 4C2"
 rating: 5

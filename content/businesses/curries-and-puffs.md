@@ -2,6 +2,7 @@
 name: "Curries & Puffs"
 slug: "curries-and-puffs"
 category: "restaurants"
+subcategory: "indian"
 neighborhood: "Mill Woods"
 address: "2331 66 St NW, Edmonton, AB T6K 4C2"
 rating: 4.3

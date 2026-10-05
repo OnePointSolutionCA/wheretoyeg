@@ -2,6 +2,7 @@
 name: "Barber Boss"
 slug: "barber-boss"
 category: "barbers"
+subcategory: "mens-haircuts"
 neighborhood: "Beaumont"
 address: "5302 50 St, Beaumont, AB T4X 2Y2"
 rating: 4.9

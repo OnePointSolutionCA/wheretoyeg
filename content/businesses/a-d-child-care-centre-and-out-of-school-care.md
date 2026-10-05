@@ -1,8 +1,8 @@
 ---
 name: "A & D Child Care Centre and Out of School Care"
 slug: "a-d-child-care-centre-and-out-of-school-care"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "957 Fir St, Sherwood Park, AB T8A 4N6"

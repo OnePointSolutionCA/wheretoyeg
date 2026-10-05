@@ -2,6 +2,7 @@
 name: "PROGRESSIVE HEALTH PHARMACY NOW Dispensaries Ltd"
 slug: "progressive-health-pharmacy-now-dispensaries-ltd"
 category: "medical"
+subcategory: "pharmacies"
 neighborhood: "Spruce Grove"
 address: "96 Campsite Rd #26, Spruce Grove, AB T7X 4H4"
 rating: 4.2

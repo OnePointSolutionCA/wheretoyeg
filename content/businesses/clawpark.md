@@ -2,6 +2,7 @@
 name: "ClawPark"
 slug: "clawpark"
 category: "activities-fun"
+subcategory: "arcades"
 neighborhood: "Edmonton"
 address: "6952 Ellerslie Rd SW, Edmonton, AB T6X 1A3"
 rating: 4.6

@@ -1,8 +1,8 @@
 ---
 name: "Small Wonders Daycare"
 slug: "small-wonders-daycare"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "4202 Park West Place #103, Stony Plain, AB T7Z 0N1"

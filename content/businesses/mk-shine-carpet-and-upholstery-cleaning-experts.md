@@ -2,6 +2,7 @@
 name: "MK Shine Carpet & Upholstery Cleaning Experts"
 slug: "mk-shine-carpet-and-upholstery-cleaning-experts"
 category: "cleaning-services"
+subcategory: "carpet"
 neighborhood: "Edmonton"
 address: "5189 Terwillegar Blvd NW, Edmonton, AB T6R 0S3"
 rating: 5

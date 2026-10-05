@@ -2,6 +2,7 @@
 name: "Baby Bee Photography"
 slug: "baby-bee-photography"
 category: "photographers"
+subcategory: "family"
 neighborhood: "Edmonton"
 address: "1669 Erker Way NW, Edmonton, AB T6M 0Z9"
 rating: 4.8

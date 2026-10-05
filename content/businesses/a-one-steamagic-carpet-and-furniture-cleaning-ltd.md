@@ -2,6 +2,7 @@
 name: "A ONE STEAMAGIC Carpet and Furniture Cleaning Ltd."
 slug: "a-one-steamagic-carpet-and-furniture-cleaning-ltd"
 category: "cleaning-services"
+subcategory: "carpet"
 neighborhood: "Edmonton"
 address: "8315 105 St NW, Edmonton, AB T6E 4H3"
 rating: 5

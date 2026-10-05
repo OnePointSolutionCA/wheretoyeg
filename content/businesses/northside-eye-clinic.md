@@ -2,6 +2,7 @@
 name: "Northside Eye Clinic"
 slug: "northside-eye-clinic"
 category: "medical"
+subcategory: "eye-care"
 neighborhood: "Castle Downs"
 address: "10807 Castle Downs Rd NW #118, Edmonton, AB T5X 3N7"
 rating: 4.9

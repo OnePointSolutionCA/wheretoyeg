@@ -2,6 +2,7 @@
 name: "LensCrafters"
 slug: "lenscrafters"
 category: "medical"
+subcategory: "eye-care"
 neighborhood: "Edmonton"
 address: "109th Street And Princess Elizabeth, #790, Edmonton, AB T5G 3A6"
 rating: 4.8

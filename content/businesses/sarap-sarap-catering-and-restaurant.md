@@ -2,6 +2,7 @@
 name: "Sarap Sarap Catering and Restaurant"
 slug: "sarap-sarap-catering-and-restaurant"
 category: "catering"
+subcategory: "event-catering"
 neighborhood: "Edmonton"
 address: "10130 107 Ave NW, Edmonton, AB T5H 0V4"
 rating: 4.8

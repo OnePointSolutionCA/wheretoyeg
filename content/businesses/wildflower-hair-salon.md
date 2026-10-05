@@ -1,7 +1,8 @@
 ---
 name: "Wildflower Hair Salon"
 slug: "wildflower-hair-salon"
-category: "spas-esthetics"
+category: "hair-salons"
+subcategory: "cuts-styling"
 neighborhood: "Spruce Grove"
 address: "201 McLeod Ave Unit 23, Spruce Grove, AB T7X 4H2"
 rating: 4.9

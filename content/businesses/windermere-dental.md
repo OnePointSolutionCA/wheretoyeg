@@ -2,6 +2,7 @@
 name: "Windermere Dental"
 slug: "windermere-dental"
 category: "medical"
+subcategory: "dentists"
 neighborhood: "Windermere"
 address: "6042 Currents Dr NW, Edmonton, AB T6W 0L7"
 rating: 4.8

@@ -2,6 +2,7 @@
 name: "Customeyes Optometry"
 slug: "customeyes-optometry"
 category: "medical"
+subcategory: "eye-care"
 neighborhood: "Edmonton"
 address: "12534 132 Ave NW, Edmonton, AB T5L 3P9"
 rating: 4.9

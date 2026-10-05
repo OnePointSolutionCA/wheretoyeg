@@ -2,6 +2,7 @@
 name: "Griesbach Family Dental"
 slug: "griesbach-family-dental"
 category: "medical"
+subcategory: "dentists"
 neighborhood: "Castle Downs"
 address: "6893 Ad Astra Blvd NW, Edmonton, AB T5E 6X3"
 rating: 4.7

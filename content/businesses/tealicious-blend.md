@@ -1,7 +1,8 @@
 ---
 name: "Tealicious Blend"
 slug: "tealicious-blend"
-category: "restaurants"
+category: "cafes-coffee-shops"
+subcategory: "tea"
 neighborhood: "St. Albert"
 address: "11 St Anne St, St. Albert, AB T8N 1E8"
 rating: 4.7

@@ -2,6 +2,7 @@
 name: "B&B Hair Co."
 slug: "bandb-hair-co"
 category: "hair-salons"
+subcategory: "cuts-styling"
 neighborhood: "Beaumont"
 address: "5003 30 Ave #105, Beaumont, AB T4X 1T9"
 rating: 4.8

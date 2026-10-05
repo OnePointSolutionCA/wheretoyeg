@@ -8,6 +8,7 @@ description: "Elsafadi Mediterranean Supermarket — halal meat in Edmonton, Edm
 address: "11316 134 Ave NW, Edmonton, AB T5E 1K5"
 neighborhood: "Edmonton"
 phone: "(780) 475-4909"
+website: "https://elsafadisupermarket.ca"
 google_maps_url: "https://maps.google.com/?cid=17466489357343078393&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "9:00 AM–9:00 PM"

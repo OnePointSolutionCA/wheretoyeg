@@ -1,8 +1,8 @@
 ---
 name: "Global Childcare Centre"
 slug: "global-childcare-centre"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "4723 50th Ave, Leduc, AB T7Z 0A9"

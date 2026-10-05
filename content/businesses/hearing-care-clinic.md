@@ -2,6 +2,7 @@
 name: "Hearing Care Clinic"
 slug: "hearing-care-clinic"
 category: "medical"
+subcategory: "hearing-care"
 neighborhood: "Edmonton"
 address: "137 Ave NW #137, Edmonton, AB T5C 3C8"
 rating: 0

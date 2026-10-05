@@ -2,6 +2,7 @@
 name: "Deep 24/7 Cleaning Services Ltd."
 slug: "deep-24-7-cleaning-services-ltd"
 category: "cleaning-services"
+subcategory: "house-cleaning"
 neighborhood: "Edmonton"
 address: "2617 15A Ave NW, Edmonton, AB T6T 2T7"
 rating: 5

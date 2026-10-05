@@ -2,6 +2,7 @@
 name: "Precision Dental Hygiene"
 slug: "precision-dental-hygiene"
 category: "medical"
+subcategory: "dentists"
 neighborhood: "Spruce Grove"
 address: "636 King St #120, Spruce Grove, AB T7X 4K5"
 rating: 5

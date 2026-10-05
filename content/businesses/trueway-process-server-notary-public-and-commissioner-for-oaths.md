@@ -2,6 +2,7 @@
 name: "Trueway Process Server, Notary Public & Commissioner for Oaths"
 slug: "trueway-process-server-notary-public-and-commissioner-for-oaths"
 category: "professional-services"
+subcategory: "notaries"
 neighborhood: "Edmonton"
 address: "3232 25 Ave NW, Edmonton, AB T6T 0C7"
 rating: 4.9

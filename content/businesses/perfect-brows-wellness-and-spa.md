@@ -2,6 +2,7 @@
 name: "PERFECT BROWS WELLNESS AND SPA"
 slug: "perfect-brows-wellness-and-spa"
 category: "spas-esthetics"
+subcategory: "day-spas"
 neighborhood: "Beaumont"
 address: "78 Rue Montalet, Beaumont, AB T4X 0C5"
 rating: 5

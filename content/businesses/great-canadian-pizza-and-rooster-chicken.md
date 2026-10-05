@@ -2,6 +2,7 @@
 name: "Great Canadian Pizza & Rooster Chicken"
 slug: "great-canadian-pizza-and-rooster-chicken"
 category: "restaurants"
+subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "13723 66 St NW, Edmonton, AB T5C 3E1"
 rating: 4.3

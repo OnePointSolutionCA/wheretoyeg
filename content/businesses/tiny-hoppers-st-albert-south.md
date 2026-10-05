@@ -1,8 +1,8 @@
 ---
 name: "Tiny Hoppers St Albert South"
 slug: "tiny-hoppers-st-albert-south"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "The Enjoy Centre, 100, 101 Riel Dr, St. Albert, AB T8N 3X4"

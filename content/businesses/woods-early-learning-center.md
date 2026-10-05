@@ -1,8 +1,8 @@
 ---
 name: "Woods Early Learning Center"
 slug: "woods-early-learning-center"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "early-learning"
 tier: "featured"
 description: ""
 address: "4812A 43a Ave #101A, Leduc, AB T9E 1P3"

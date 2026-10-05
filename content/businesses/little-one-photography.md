@@ -2,6 +2,7 @@
 name: "Little One Photography"
 slug: "little-one-photography"
 category: "photographers"
+subcategory: "family"
 neighborhood: "Edmonton"
 address: "4107 Kinsella Way SW, Edmonton, AB T6W 4J7"
 rating: 5

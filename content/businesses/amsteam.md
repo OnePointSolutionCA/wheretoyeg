@@ -2,6 +2,7 @@
 name: "AmSteam"
 slug: "amsteam"
 category: "cleaning-services"
+subcategory: "carpet"
 neighborhood: "Edmonton"
 address: "13051 156 St, Edmonton, AB T5V 0A4"
 rating: 4.6

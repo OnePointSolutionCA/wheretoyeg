@@ -1,7 +1,8 @@
 ---
 name: "Fayad's Halal Meats & Deli"
 slug: "fayads-halal-meats-and-deli"
-category: "catering"
+category: "grocery-markets"
+subcategory: "halal-meat"
 neighborhood: "Edmonton"
 address: "11316 132 Ave NW, Edmonton, AB T5E 5C1"
 rating: 4.4

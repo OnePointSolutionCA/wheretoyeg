@@ -2,6 +2,7 @@
 name: "Insight Medical Imaging - Spruce Grove"
 slug: "insight-medical-imaging-spruce-grove"
 category: "medical"
+subcategory: "diagnostic-imaging"
 neighborhood: "Spruce Grove"
 address: "505 Queen St #107, Spruce Grove, AB T7X 2V2"
 rating: 4.5

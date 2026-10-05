@@ -2,6 +2,7 @@
 name: "Kadak Café"
 slug: "kadak-caf"
 category: "cafes-coffee-shops"
+subcategory: "international"
 neighborhood: "Beaumont"
 address: "6818 Ellerslie Rd SW, Edmonton, AB T6X 1A3"
 rating: 4.6

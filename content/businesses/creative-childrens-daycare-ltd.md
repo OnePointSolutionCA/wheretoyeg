@@ -1,8 +1,8 @@
 ---
 name: "Creative Children's Daycare Ltd"
 slug: "creative-childrens-daycare-ltd"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "222 Main St, Spruce Grove, AB T7X 0G2"

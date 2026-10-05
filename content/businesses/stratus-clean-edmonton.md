@@ -2,6 +2,7 @@
 name: "Stratus Clean Edmonton"
 slug: "stratus-clean-edmonton"
 category: "cleaning-services"
+subcategory: "house-cleaning"
 neighborhood: "Edmonton"
 address: "4314 97 St NW, Edmonton, AB T6E 5R9"
 rating: 4.9

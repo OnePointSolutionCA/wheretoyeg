@@ -1,8 +1,8 @@
 ---
 name: "Balwin Day Care Ctr"
 slug: "balwin-day-care-ctr"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "13112 68 St NW, Edmonton, AB T5C 0E9"

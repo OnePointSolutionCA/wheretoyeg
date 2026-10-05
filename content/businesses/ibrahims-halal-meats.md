@@ -1,7 +1,8 @@
 ---
 name: "Ibrahim's Halal Meats"
 slug: "ibrahims-halal-meats"
-category: "catering"
+category: "grocery-markets"
+subcategory: "halal-meat"
 neighborhood: "Castle Downs"
 address: "13716 Castle Downs Rd NW, Edmonton, AB T5X 4H7"
 rating: 4.7

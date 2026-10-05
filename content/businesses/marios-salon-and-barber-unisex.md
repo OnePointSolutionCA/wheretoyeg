@@ -2,6 +2,7 @@
 name: "MARIOS SALON & BARBER UNISEX"
 slug: "marios-salon-and-barber-unisex"
 category: "barbers"
+subcategory: "mens-haircuts"
 neighborhood: "Beaumont"
 address: "5025 52 Ave, Beaumont, AB T4X 1E5"
 rating: 4.7

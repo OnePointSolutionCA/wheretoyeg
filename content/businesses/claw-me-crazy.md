@@ -2,6 +2,7 @@
 name: "Claw Me Crazy"
 slug: "claw-me-crazy"
 category: "activities-fun"
+subcategory: "arcades"
 neighborhood: "Edmonton"
 address: "11017 26 Ave NW, Edmonton, AB T6J 4C1"
 rating: 5

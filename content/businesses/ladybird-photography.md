@@ -10,7 +10,7 @@ address: "11436 156 Street NW, Edmonton, AB T5M 3N2"
 neighborhood: "Britannia Youngstown"
 phone: "(587) 990-8144"
 website: "https://ladybird-photography.com"
-google_maps_url: "https://maps.google.com/?q=Ladybird+Photography+Edmonton"
+google_maps_url: "https://maps.google.com/?cid=14091908709812593897&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "10:00 AM–3:00 AM"
   tuesday: "10:00 AM–3:00 PM"

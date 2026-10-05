@@ -2,6 +2,7 @@
 name: "Mokha Coffee House"
 slug: "mokha-coffee-house"
 category: "cafes-coffee-shops"
+subcategory: "international"
 tier: "featured"
 logo: "/logos/mokha-coffee-house.png"
 description: "Yemeni coffee house serving traditional Mofawar (Yemeni coffee) and Adani tea alongside baklava, honeycomb buns, and croissants. Completely halal, late-night hours, popular for socializing."

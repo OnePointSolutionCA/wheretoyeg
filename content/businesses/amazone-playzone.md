@@ -2,6 +2,7 @@
 name: "Amazone Playzone"
 slug: "amazone-playzone"
 category: "activities-fun"
+subcategory: "indoor-playground"
 neighborhood: "Edmonton"
 address: "3210 118 Ave NW #173, Edmonton, AB T5W 4W1"
 rating: 4.3

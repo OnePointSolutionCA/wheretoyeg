@@ -2,6 +2,7 @@
 name: "Sweet Hugs Photography"
 slug: "sweet-hugs-photography"
 category: "photographers"
+subcategory: "family"
 neighborhood: "Edmonton"
 address: "12523 127 St, Edmonton, AB T5L 1A3"
 rating: 5

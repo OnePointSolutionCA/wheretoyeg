@@ -2,6 +2,7 @@
 name: "ChcKen"
 slug: "chcken"
 category: "restaurants"
+subcategory: "fried-chicken"
 neighborhood: "Spruce Grove"
 address: "240 St Matthews Ave, Spruce Grove, AB T7X 3B1"
 rating: 4.1

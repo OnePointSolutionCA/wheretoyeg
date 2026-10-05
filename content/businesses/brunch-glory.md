@@ -2,6 +2,7 @@
 name: "Brunch Glory"
 slug: "brunch-glory"
 category: "restaurants"
+subcategory: "brunch"
 neighborhood: "Whyte Ave"
 address: "10532 Whyte Ave NW, Edmonton, AB T6E 2A4"
 rating: 4.7

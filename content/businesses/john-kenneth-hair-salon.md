@@ -2,6 +2,7 @@
 name: "John Kenneth Hair Salon"
 slug: "john-kenneth-hair-salon"
 category: "hair-salons"
+subcategory: "cuts-styling"
 neighborhood: "Spruce Grove"
 address: "420 King St, Spruce Grove, AB T7X 2C6"
 rating: 4.7

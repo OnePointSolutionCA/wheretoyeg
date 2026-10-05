@@ -10,6 +10,7 @@ review_count: 1792
 tier: "featured"
 phone: "(780) 503-3093"
 website: "http://valvolineedmonton.ca/"
+google_maps_url: "https://maps.google.com/?cid=6271541834208623132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 google_maps: "https://maps.google.com/?cid=6271541834208623132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/valvoline-express-care-tires-edmonton.jpg"

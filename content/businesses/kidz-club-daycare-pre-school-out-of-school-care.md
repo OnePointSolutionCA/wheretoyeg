@@ -1,8 +1,8 @@
 ---
 name: "Kidz Club Daycare, Pre-School & Out of School Care"
 slug: "kidz-club-daycare-pre-school-out-of-school-care"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "120 Wye Rd #139, Sherwood Park, AB T8A 6P2"

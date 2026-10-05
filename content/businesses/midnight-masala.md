@@ -2,6 +2,7 @@
 name: "Midnight Masala"
 slug: "midnight-masala"
 category: "restaurants"
+subcategory: "indian"
 neighborhood: "Beaumont"
 address: "5110 50 Ave, Beaumont, AB T4X 1E3"
 rating: 4.9

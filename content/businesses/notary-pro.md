@@ -2,6 +2,7 @@
 name: "Notary Pro"
 slug: "notary-pro"
 category: "professional-services"
+subcategory: "notaries"
 neighborhood: "Edmonton"
 address: "9580 170 St NW, Edmonton, AB T5T 5R5"
 rating: 4.8

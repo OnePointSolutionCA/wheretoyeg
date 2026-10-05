@@ -2,6 +2,7 @@
 name: "Quetzal Cafe"
 slug: "quetzal-cafe"
 category: "cafes-coffee-shops"
+subcategory: "international"
 neighborhood: "Spruce Grove"
 address: "101 Main St B, Spruce Grove, AB T7X 3X2"
 rating: 4.6

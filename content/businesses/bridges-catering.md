@@ -2,6 +2,7 @@
 name: "Bridges Catering"
 slug: "bridges-catering"
 category: "catering"
+subcategory: "event-catering"
 neighborhood: "Edmonton"
 address: "9203 111 Ave NW, Edmonton, AB T5G 0A2"
 rating: 4.6

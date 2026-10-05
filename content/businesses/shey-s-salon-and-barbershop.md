@@ -2,6 +2,7 @@
 name: "Shey’s Salon and Barbershop 💈"
 slug: "shey-s-salon-and-barbershop"
 category: "barbers"
+subcategory: "mens-haircuts"
 neighborhood: "Castle Downs"
 address: "11320 132 Ave NW, Edmonton, AB T5E 1A1"
 rating: 4.8

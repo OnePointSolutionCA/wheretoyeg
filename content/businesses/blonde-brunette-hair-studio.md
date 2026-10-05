@@ -10,7 +10,7 @@ address: "11235 B Jasper Ave NW, Edmonton, AB T5K 2V2"
 neighborhood: "Oliver"
 phone: "(780) 761-5151"
 website: "https://www.blondebrunette.ca"
-google_maps_url: "https://maps.google.com/?q=Blonde+Brunette+Hair+Studio+Edmonton"
+google_maps_url: "https://maps.google.com/?cid=3863600535863750795&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
   tuesday: "10:00 AM–8:00 PM"

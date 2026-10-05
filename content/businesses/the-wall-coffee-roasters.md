@@ -2,6 +2,7 @@
 name: "The Wall Coffee Roasters"
 slug: "the-wall-coffee-roasters"
 category: "cafes-coffee-shops"
+subcategory: "roasters"
 neighborhood: "Spruce Grove"
 address: "27717 Acheson Rd, Acheson, AB T7X 6B1"
 rating: 4.9

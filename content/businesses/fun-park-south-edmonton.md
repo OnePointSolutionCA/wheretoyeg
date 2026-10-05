@@ -2,6 +2,7 @@
 name: "Fun Park - South Edmonton"
 slug: "fun-park-south-edmonton"
 category: "activities-fun"
+subcategory: "indoor-playground"
 neighborhood: "Edmonton"
 address: "6018 75 Street NW, Edmonton, AB T6E 2W6"
 rating: 3.9

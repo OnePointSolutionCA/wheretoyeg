@@ -2,6 +2,7 @@
 name: "Opal & Rose"
 slug: "opal-and-rose"
 category: "hair-salons"
+subcategory: "cuts-styling"
 neighborhood: "Beaumont"
 address: "16 Rue Bouchard, Beaumont, AB T4X 1N5"
 rating: 5

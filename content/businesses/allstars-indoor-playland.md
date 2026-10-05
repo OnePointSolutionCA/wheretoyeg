@@ -2,6 +2,7 @@
 name: "Allstars Indoor Playland"
 slug: "allstars-indoor-playland"
 category: "activities-fun"
+subcategory: "indoor-playground"
 neighborhood: "Edmonton"
 address: "9510 12 Ave SW, Edmonton, AB T6X 0J4"
 rating: 4.2

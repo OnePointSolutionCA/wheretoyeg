@@ -2,6 +2,7 @@
 name: "Royal Fade Barbershop"
 slug: "royal-fade-barbershop"
 category: "barbers"
+subcategory: "mens-haircuts"
 neighborhood: "Castle Downs"
 address: "15277 Castle Downs Rd NW, Edmonton, AB T5X 3N5"
 rating: 4.7

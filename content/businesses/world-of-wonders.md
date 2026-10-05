@@ -1,8 +1,8 @@
 ---
 name: "World Of Wonders"
 slug: "world-of-wonders"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "52 Brentwood Blvd, Sherwood Park, AB T8A 2H6"

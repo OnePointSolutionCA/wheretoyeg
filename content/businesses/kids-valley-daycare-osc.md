@@ -1,8 +1,8 @@
 ---
 name: "Kids Valley Daycare & OSC"
 slug: "kids-valley-daycare-osc"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "200 Awentia Dr, Leduc, AB T9E 0C4"
@@ -25,6 +25,7 @@ photos:
 rating: 4.3
 review_count: 30
 amenities:
+  - "Out of School Care"
   - "Wheelchair Accessible"
 tags: ["edmonton", "childcare"]
 active: true

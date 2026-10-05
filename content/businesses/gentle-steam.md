@@ -2,6 +2,7 @@
 name: "Gentle Steam"
 slug: "gentle-steam"
 category: "cleaning-services"
+subcategory: "carpet"
 neighborhood: "Edmonton"
 address: "10554 114 St NW, Edmonton, AB T5H 3J7"
 rating: 4.3

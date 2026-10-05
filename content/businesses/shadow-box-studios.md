@@ -8,9 +8,11 @@ logo: "/logos/shadow-box-studios.png"
 description: "Perfect 5.0-star photography studio in Capilano with 180 reviews. Business headshots, portrait sessions, and event photography. Studio rental available."
 address: "#202, 9267 50 Street NW, Edmonton, AB T6B 3S1"
 neighborhood: "Capilano"
-phone: "(587) 987-0867"
+phone: "(587) 557-5853"
 website: "https://shadowboxstudios.ca"
-google_maps_url: "https://maps.google.com/?q=Shadow+Box+Studios+Edmonton"
+google_maps_url: "https://maps.google.com/?cid=18317237153942467076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+latitude: 53.529372
+longitude: -113.417517
 hours:
   monday: "9:00 AM–9:00 PM"
   tuesday: "9:00 AM–9:00 PM"

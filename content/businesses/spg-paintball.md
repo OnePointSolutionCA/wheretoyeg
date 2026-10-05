@@ -2,6 +2,7 @@
 name: "SPG Paintball"
 slug: "spg-paintball"
 category: "activities-fun"
+subcategory: "paintball"
 neighborhood: "Edmonton"
 address: "25212 Township Rd 562, Sturgeon County, AB T8R 2C4"
 rating: 4.8

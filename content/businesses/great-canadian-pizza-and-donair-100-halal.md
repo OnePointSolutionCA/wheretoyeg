@@ -2,6 +2,7 @@
 name: "Great Canadian Pizza & Donair - 100% Halal"
 slug: "great-canadian-pizza-and-donair-100-halal"
 category: "restaurants"
+subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "10707 109 St NW, Edmonton, AB T5H 3B7"
 rating: 4.2

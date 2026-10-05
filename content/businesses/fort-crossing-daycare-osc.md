@@ -1,8 +1,8 @@
 ---
 name: "Fort Crossing Daycare & OSC"
 slug: "fort-crossing-daycare-osc"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "12833 Fort Rd NW, Edmonton, AB T5A 2K5"
@@ -26,6 +26,7 @@ photos:
 rating: 4.7
 review_count: 32
 amenities:
+  - "Out of School Care"
   - "Wheelchair Accessible"
 tags: ["edmonton", "childcare"]
 active: true

@@ -1,8 +1,8 @@
 ---
 name: "Michelle's Little Learners Preschool"
 slug: "michelles-little-learners-preschool"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "preschools"
 tier: "featured"
 description: ""
 address: "221B 1 Ave E, Spruce Grove, AB T7X 3X2"

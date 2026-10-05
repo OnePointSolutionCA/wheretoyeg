@@ -2,6 +2,7 @@
 name: "R.D. Beauty & Laser Clinic"
 slug: "r-d-beauty-and-laser-clinic"
 category: "spas-esthetics"
+subcategory: "laser-hair-removal"
 neighborhood: "Beaumont"
 address: "3913 49 Ave, Beaumont, AB T4X 1Y7"
 rating: 5

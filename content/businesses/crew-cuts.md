@@ -1,7 +1,8 @@
 ---
 name: "Crew Cuts"
 slug: "crew-cuts"
-category: "medical"
+category: "hair-salons"
+subcategory: "cuts-styling"
 neighborhood: "Castle Downs"
 address: "8314 144 Ave NW, Edmonton, AB T5E 2H4"
 rating: 4.7

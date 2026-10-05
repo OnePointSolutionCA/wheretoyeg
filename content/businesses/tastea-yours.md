@@ -2,6 +2,7 @@
 name: "TasTea Yours"
 slug: "tastea-yours"
 category: "cafes-coffee-shops"
+subcategory: "tea"
 neighborhood: "St. Albert"
 address: "31 Fairview Blvd #101, St. Albert, AB T8N 3M5"
 rating: 4.8

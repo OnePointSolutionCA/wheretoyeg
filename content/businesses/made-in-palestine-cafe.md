@@ -2,6 +2,7 @@
 name: "Made in Palestine Culture Café"
 slug: "made-in-palestine-cafe"
 category: "cafes-coffee-shops"
+subcategory: "international"
 tier: "featured"
 description: "Palestinian cultural café founded by two Palestinian-Canadian women. Authentic Palestinian food, traditional coffee, heritage products, and a warm space that celebrates Palestinian culture."
 address: "15166 127 St, Edmonton, AB T6V 0C5"

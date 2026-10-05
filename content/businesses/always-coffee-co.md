@@ -2,6 +2,7 @@
 name: "Always Coffee Co"
 slug: "always-coffee-co"
 category: "cafes-coffee-shops"
+subcategory: "specialty"
 neighborhood: "Windermere"
 address: "6070 Andrews Way SW, Edmonton, AB T6W 3S9"
 rating: 4.3

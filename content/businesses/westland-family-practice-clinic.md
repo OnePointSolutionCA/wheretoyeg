@@ -2,6 +2,7 @@
 name: "Westland Family Practice Clinic"
 slug: "westland-family-practice-clinic"
 category: "medical"
+subcategory: "family-doctors"
 neighborhood: "Spruce Grove"
 address: "70 McLeod Ave #240, Spruce Grove, AB T7X 3C7"
 rating: 3.5

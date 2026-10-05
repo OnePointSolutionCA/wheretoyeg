@@ -2,6 +2,7 @@
 name: "Denny's Restaurant St. Albert"
 slug: "dennys-restaurant-st-albert"
 category: "restaurants"
+subcategory: "family"
 neighborhood: "St. Albert"
 address: "860 St Albert Trl #730, St. Albert, AB T8N 7V2"
 rating: 4.7

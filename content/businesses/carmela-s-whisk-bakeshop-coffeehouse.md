@@ -2,6 +2,7 @@
 name: "Carmela’s Whisk Bakeshop + Coffeehouse"
 slug: "carmela-s-whisk-bakeshop-coffeehouse"
 category: "cafes-coffee-shops"
+subcategory: "dessert-cafes"
 neighborhood: "St. Albert"
 address: "1 Tache St, St. Albert, AB T8N 7T4"
 rating: 4.7

@@ -2,6 +2,7 @@
 name: "Elk Island National Park"
 slug: "elk-island-national-park"
 category: "activities-fun"
+subcategory: "outdoor"
 tier: "featured"
 description: "Bison, elk, over 250 species of birds, hiking trails, camping, and dark-sky stargazing. 35 min east of Edmonton. Free to enter with a park pass."
 address: "54401 Range Rd 203"

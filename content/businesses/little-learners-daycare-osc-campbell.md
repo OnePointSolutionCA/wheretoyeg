@@ -1,8 +1,8 @@
 ---
 name: "Little Learners Daycare & OSC Campbell"
 slug: "little-learners-daycare-osc-campbell"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "310 Carleton Dr, St. Albert, AB T8N 7L3"
@@ -25,7 +25,8 @@ photos:
   - "/photos/little-learners-daycare-osc-campbell-g2.jpg"
 rating: 4.7
 review_count: 25
-amenities: []
+amenities:
+  - "Out of School Care"
 tags: ["edmonton", "childcare"]
 active: true
 date_listed: "2026-10-02"

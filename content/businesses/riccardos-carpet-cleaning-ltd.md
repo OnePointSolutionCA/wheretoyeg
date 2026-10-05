@@ -2,6 +2,7 @@
 name: "Riccardo's Carpet Cleaning LTD"
 slug: "riccardos-carpet-cleaning-ltd"
 category: "cleaning-services"
+subcategory: "carpet"
 neighborhood: "Edmonton"
 address: "2060 Tanner Wynd NW, Edmonton, AB T6R 2R4"
 rating: 4.9

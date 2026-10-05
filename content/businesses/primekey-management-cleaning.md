@@ -2,6 +2,7 @@
 name: "Primekey Management Cleaning"
 slug: "primekey-management-cleaning"
 category: "cleaning-services"
+subcategory: "house-cleaning"
 neighborhood: "Edmonton"
 address: "11810 Kingsway NW Unit 34, Edmonton, AB T5G 0X5"
 rating: 4.9

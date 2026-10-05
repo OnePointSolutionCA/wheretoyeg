@@ -1,8 +1,8 @@
 ---
 name: "Rising Star Day Care & O.S.C Ltd"
 slug: "rising-star-day-care-osc-ltd"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "6102 29 Ave #101, Beaumont, AB T4X 0H5"
@@ -26,6 +26,7 @@ photos:
 rating: 4.6
 review_count: 19
 amenities:
+  - "Out of School Care"
   - "Wheelchair Accessible"
 tags: ["edmonton", "childcare"]
 active: true

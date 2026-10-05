@@ -2,6 +2,7 @@
 name: "Auggie's Café"
 slug: "auggies-caf"
 category: "cafes-coffee-shops"
+subcategory: "specialty"
 neighborhood: "Spruce Grove"
 address: "131 Church Rd, Spruce Grove, AB T7X 2K4"
 rating: 5

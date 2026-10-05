@@ -2,6 +2,7 @@
 name: "Infinity Play"
 slug: "infinity-play"
 category: "activities-fun"
+subcategory: "indoor-playground"
 neighborhood: "Edmonton"
 address: "13560 Fort Rd NW, Edmonton, AB T5A 1C5"
 rating: 4.7

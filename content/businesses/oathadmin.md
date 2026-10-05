@@ -2,6 +2,7 @@
 name: "Oathadmin"
 slug: "oathadmin"
 category: "professional-services"
+subcategory: "notaries"
 neighborhood: "Edmonton"
 address: "6223 164 Ave NW, Edmonton, AB T5Y 3K4"
 rating: 5

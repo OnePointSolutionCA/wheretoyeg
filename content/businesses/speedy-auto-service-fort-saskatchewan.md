@@ -20,7 +20,8 @@ hours:
   friday: "8:00 AM–4:30 PM"
   saturday: "Closed"
   sunday: "Closed"
-photos: []
+photos:
+  - "/photos/minute-muffler-speedy-auto-g1.jpg"
 rating: 4.6
 review_count: 71
 amenities: []

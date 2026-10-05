@@ -2,6 +2,7 @@
 name: "Spruce Park Ranch Country Store & Coffee Shop"
 slug: "spruce-park-ranch-country-store-and-coffee-shop"
 category: "cafes-coffee-shops"
+subcategory: "specialty"
 neighborhood: "Spruce Grove"
 address: "51432 Range Rd 273, Spruce Grove, AB T7Y 1H7"
 rating: 4.6

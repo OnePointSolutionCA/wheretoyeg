@@ -1,8 +1,8 @@
 ---
 name: "Bambini Learning Group St Albert"
 slug: "bambini-learning-group-st-albert"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "880 St Albert Trl #910, St. Albert, AB T8N 7V2"

@@ -2,6 +2,7 @@
 name: "Zayn's Diner Plus Sherwood Park"
 slug: "zayns-diner-plus-sherwood-park"
 category: "restaurants"
+subcategory: "family"
 neighborhood: "Sherwood Park"
 address: "220 Lakeland Dr #200, Sherwood Park, AB T8H 0N6"
 rating: 4.7

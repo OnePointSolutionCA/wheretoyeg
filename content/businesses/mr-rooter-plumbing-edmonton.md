@@ -2,6 +2,7 @@
 name: "Mr. Rooter Plumbing of Edmonton"
 slug: "mr-rooter-plumbing-edmonton"
 category: "plumbers"
+subcategory: "residential"
 tier: "featured"
 logo: "/logos/mr-rooter-plumbing-edmonton.png"
 description: "24/7 plumbing service in Edmonton — drain cleaning, water heater repair and installation, leak detection, sewer line repair, and emergency service. Licensed and insured, upfront pricing."

@@ -2,6 +2,7 @@
 name: "South Edmonton Emergency Dental"
 slug: "south-edmonton-emergency-dental"
 category: "medical"
+subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "3208 Parsons Rd NW, Edmonton, AB T6N 1M2"
 rating: 5

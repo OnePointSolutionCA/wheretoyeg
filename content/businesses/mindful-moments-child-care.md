@@ -1,8 +1,8 @@
 ---
 name: "Mindful Moments Child Care"
 slug: "mindful-moments-child-care"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "48 Brentwood Blvd #46, Sherwood Park, AB T8A 2H5"

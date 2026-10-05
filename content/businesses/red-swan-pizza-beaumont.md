@@ -2,6 +2,7 @@
 name: "Red Swan Pizza Beaumont"
 slug: "red-swan-pizza-beaumont"
 category: "restaurants"
+subcategory: "pizza"
 neighborhood: "Beaumont"
 address: "5005 50 St unit 101, Beaumont, AB T4X 1J9"
 rating: 4.5

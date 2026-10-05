@@ -2,6 +2,7 @@
 name: "Meraki Dental"
 slug: "meraki-dental"
 category: "medical"
+subcategory: "dentists"
 neighborhood: "Windermere"
 address: "6055 Andrews Way SW, Edmonton, AB T6W 3S9"
 rating: 4.9

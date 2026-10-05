@@ -2,6 +2,7 @@
 name: "Blonde and Copper Co."
 slug: "blonde-and-copper-co"
 category: "hair-salons"
+subcategory: "cuts-styling"
 neighborhood: "Spruce Grove"
 address: "101D Main St, Spruce Grove, AB T7X 3X2"
 rating: 5

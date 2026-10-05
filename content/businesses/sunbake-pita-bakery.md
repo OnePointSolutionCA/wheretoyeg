@@ -10,7 +10,7 @@ address: "10728 134 Avenue NW, Edmonton, AB T5E 1J8"
 neighborhood: "Killarney"
 phone: "(780) 472-8405"
 website: "https://www.sunbakepita.ca"
-google_maps_url: "https://maps.google.com/?q=Sunbake+Pita+Bakery+Edmonton"
+google_maps_url: "https://maps.google.com/?cid=11814902555936948735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "8:00 AM–8:00 PM"
   tuesday: "8:00 AM–8:00 PM"

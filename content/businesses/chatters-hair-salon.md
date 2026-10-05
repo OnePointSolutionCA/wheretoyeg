@@ -2,6 +2,7 @@
 name: "Chatters Hair Salon"
 slug: "chatters-hair-salon"
 category: "hair-salons"
+subcategory: "cuts-styling"
 neighborhood: "Spruce Grove"
 address: "151 Century Crossing #200, Spruce Grove, AB T7X 0C8"
 rating: 3.9

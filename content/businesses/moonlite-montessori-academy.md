@@ -1,8 +1,8 @@
 ---
 name: "Moonlite Montessori Academy"
 slug: "moonlite-montessori-academy"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "montessori"
 tier: "featured"
 description: ""
 address: "5007 48 St, Stony Plain, AB T7Z 1L8"

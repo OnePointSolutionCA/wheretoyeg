@@ -2,6 +2,7 @@
 name: "Ahlan Coffee House & Bakery"
 slug: "ahlan-coffee-house-and-bakery"
 category: "cafes-coffee-shops"
+subcategory: "dessert-cafes"
 neighborhood: "St. Albert"
 address: "130 Bellerose Dr #115, St. Albert, AB T8N 8N8"
 rating: 4.7

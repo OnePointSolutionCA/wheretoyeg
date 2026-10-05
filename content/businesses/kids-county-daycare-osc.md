@@ -1,8 +1,8 @@
 ---
 name: "Kids County Daycare & OSC"
 slug: "kids-county-daycare-osc"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "2020 Sherwood Dr #106, Sherwood Park, AB T8A 3H9"
@@ -26,6 +26,7 @@ photos:
 rating: 5.0
 review_count: 26
 amenities:
+  - "Out of School Care"
   - "Wheelchair Accessible"
 tags: ["edmonton", "childcare"]
 active: true

@@ -2,6 +2,7 @@
 name: "Steam Dry Canada - Home Depot Cleaning Services- Edmonton"
 slug: "steam-dry-canada-home-depot-cleaning-services-edmonton"
 category: "cleaning-services"
+subcategory: "carpet"
 neighborhood: "Edmonton"
 address: "10537 170 St NW, Edmonton, AB T5P 4W2"
 rating: 4.7
@@ -9,6 +10,7 @@ review_count: 586
 tier: "featured"
 phone: "(780) 705-7322"
 website: "https://steamdrycanada.com/franchise/edmonton/?utm_source=google&utm_medium=organic&utm_campaign=gmb"
+google_maps_url: "https://maps.google.com/?cid=4300342226350466820&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 google_maps: "https://maps.google.com/?cid=4300342226350466820&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/steam-dry-canada-home-depot-cleaning-services-edmonton.jpg"

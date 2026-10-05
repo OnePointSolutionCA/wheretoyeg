@@ -2,6 +2,7 @@
 name: "Bailey Nelson & Optometry - Kingsway Garden Mall"
 slug: "bailey-nelson-and-optometry-kingsway-garden-mall"
 category: "medical"
+subcategory: "eye-care"
 neighborhood: "Edmonton"
 address: "1 Kingsway NW Unit CRU275, Edmonton, AB T5G 3A6"
 rating: 4.7

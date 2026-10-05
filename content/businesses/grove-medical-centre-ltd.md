@@ -2,6 +2,7 @@
 name: "Grove Medical Centre Ltd"
 slug: "grove-medical-centre-ltd"
 category: "medical"
+subcategory: "family-doctors"
 neighborhood: "Spruce Grove"
 address: "187 Hwy 16A Unit 115, Spruce Grove, AB T7X 4P9"
 rating: 4.2

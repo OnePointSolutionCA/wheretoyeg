@@ -2,6 +2,7 @@
 name: "Northside Dental"
 slug: "northside-dental"
 category: "medical"
+subcategory: "dentists"
 neighborhood: "Castle Downs"
 address: "10807 Castle Downs Rd NW #202, Edmonton, AB T5X 3N7"
 rating: 4.9

@@ -1,7 +1,8 @@
 ---
 name: "Beauty Unleashed Hair Salon Ltd"
 slug: "beauty-unleashed-hair-salon-ltd"
-category: "spas-esthetics"
+category: "hair-salons"
+subcategory: "cuts-styling"
 neighborhood: "Beaumont"
 address: "5025 58 St, Beaumont, AB T4X 1B8"
 rating: 5

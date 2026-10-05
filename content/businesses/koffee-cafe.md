@@ -2,6 +2,7 @@
 name: "Koffee Cafe"
 slug: "koffee-cafe"
 category: "cafes-coffee-shops"
+subcategory: "specialty"
 neighborhood: "Mill Woods"
 address: "6120 28 Ave NW, Edmonton, AB T6L 6N4"
 rating: 4.6

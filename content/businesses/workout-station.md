@@ -2,6 +2,7 @@
 name: "Workout Station"
 slug: "workout-station"
 category: "gyms-fitness"
+subcategory: "gyms"
 neighborhood: "Beaumont"
 address: "Beaumont, AB T4X 2Z7"
 rating: 0

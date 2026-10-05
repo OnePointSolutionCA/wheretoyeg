@@ -2,6 +2,7 @@
 name: "Hear In Edmonton Inc"
 slug: "hear-in-edmonton-inc"
 category: "medical"
+subcategory: "hearing-care"
 neighborhood: "Edmonton"
 address: "16864 111 Ave NW, Edmonton, AB T5M 4C9"
 rating: 5

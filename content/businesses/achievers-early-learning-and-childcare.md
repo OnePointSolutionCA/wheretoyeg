@@ -1,8 +1,8 @@
 ---
 name: "Achievers Early Learning and Childcare"
 slug: "achievers-early-learning-and-childcare"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "early-learning"
 tier: "featured"
 description: ""
 address: "8711 101 St Unit 109,111, Fort Saskatchewan, AB T8L 0H9"

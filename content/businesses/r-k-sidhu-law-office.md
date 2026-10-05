@@ -2,6 +2,7 @@
 name: "R K Sidhu Law Office"
 slug: "r-k-sidhu-law-office"
 category: "professional-services"
+subcategory: "legal"
 neighborhood: "Edmonton"
 address: "5328 Admiral Girouard St #203, Edmonton, AB T5E 6Z7"
 rating: 4.9

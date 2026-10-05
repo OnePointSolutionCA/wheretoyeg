@@ -2,6 +2,7 @@
 name: "Beaumont Dental Hygiene Studio"
 slug: "beaumont-dental-hygiene-studio"
 category: "medical"
+subcategory: "dentists"
 neighborhood: "Beaumont"
 address: "15 Rue Bouchard, Beaumont, AB T4X 1N5"
 rating: 5

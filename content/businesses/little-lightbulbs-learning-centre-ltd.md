@@ -1,8 +1,8 @@
 ---
 name: "Little Lightbulbs Learning Centre Ltd."
 slug: "little-lightbulbs-learning-centre-ltd"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "early-learning"
 tier: "featured"
 description: ""
 address: "636 King St #128, Spruce Grove, AB T7X 4K5"

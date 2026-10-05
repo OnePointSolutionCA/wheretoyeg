@@ -2,6 +2,7 @@
 name: "Rampage Paintball & Airsoft Edmonton"
 slug: "rampage-paintball-and-airsoft-edmonton"
 category: "activities-fun"
+subcategory: "paintball"
 neighborhood: "Edmonton"
 address: "22325 Range rd 224, Township Rd 570, Redwater, AB T0A 1N0"
 rating: 4.8

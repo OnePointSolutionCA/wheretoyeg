@@ -2,6 +2,7 @@
 name: "RCIC Certified Document Translation and Translators"
 slug: "rcic-certified-document-translation-and-translators"
 category: "professional-services"
+subcategory: "immigration"
 neighborhood: "Edmonton"
 address: "8207 137 Ave NW, Edmonton, AB T5E 1Y1"
 rating: 5

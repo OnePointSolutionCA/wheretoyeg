@@ -1,8 +1,8 @@
 ---
 name: "Brow & More Studio"
 slug: "brow-more-studio"
-category: "nail-salons"
-subcategory: "gel"
+category: "lash-techs"
+subcategory: "brow-services"
 tier: "featured"
 description: ""
 address: "5010 50 St #203, Beaumont, AB T4X 1E6"

@@ -1,8 +1,8 @@
 ---
 name: "SMART KIDS DAYCARE & OSC"
 slug: "smart-kids-daycare-osc"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "6622 127 Ave NW, Edmonton, AB T5C 1R6"
@@ -24,7 +24,8 @@ photos:
   - "/photos/smart-kids-daycare-osc-g1.jpg"
 rating: 4.6
 review_count: 27
-amenities: []
+amenities:
+  - "Out of School Care"
 tags: ["edmonton", "childcare"]
 active: true
 date_listed: "2026-10-02"

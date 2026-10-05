@@ -2,6 +2,7 @@
 name: "Khan Kebabs & Karahi (Halal) - Authentic Pakistani & Afghani Cuisine Edmonton"
 slug: "khan-kebabs-and-karahi-halal-authentic-pakistani-and-afghani-cuisine-edmonton"
 category: "restaurants"
+subcategory: "pakistani"
 neighborhood: "Mill Woods"
 address: "2619 Ellwood Dr SW, Edmonton, AB T6X 0P7"
 rating: 4.6
@@ -9,6 +10,7 @@ review_count: 2104
 tier: "featured"
 phone: "(780) 450-9100"
 website: "http://www.khankebabs.ca/"
+google_maps_url: "https://maps.google.com/?cid=4881614941362680264&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 google_maps: "https://maps.google.com/?cid=4881614941362680264&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/khan-kebabs-and-karahi-halal-authentic-pakistani-and-afghani-cuisine-edmonton.jpg"

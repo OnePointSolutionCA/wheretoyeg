@@ -2,6 +2,7 @@
 name: "After Dark Detailing"
 slug: "after-dark-detailing"
 category: "auto-repair"
+subcategory: "detailing"
 neighborhood: "Beaumont"
 address: "5010 49 St, Beaumont, AB T4X 1H6"
 rating: 5

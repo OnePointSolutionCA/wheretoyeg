@@ -1,8 +1,8 @@
 ---
 name: "Best Start Daycare"
 slug: "best-start-daycare"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "2A Hebert Rd Unit 200, St. Albert, AB T8N 5T8"

@@ -2,6 +2,7 @@
 name: "Barcelos Flame Grilled Chicken, (Windermere)"
 slug: "barcelos-flame-grilled-chicken-windermere"
 category: "restaurants"
+subcategory: "fried-chicken"
 neighborhood: "Windermere"
 address: "6189 Currents Dr NW, Edmonton, AB T6W 0L9"
 rating: 4.6

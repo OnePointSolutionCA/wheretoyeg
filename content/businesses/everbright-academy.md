@@ -1,8 +1,8 @@
 ---
 name: "EverBright Academy"
 slug: "everbright-academy"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "early-learning"
 tier: "featured"
 description: ""
 address: "897 Pembina Rd Unit 201, Sherwood Park, AB T8H 3A5"

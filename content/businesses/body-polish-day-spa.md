@@ -2,6 +2,7 @@
 name: "Body Polish Day Spa"
 slug: "body-polish-day-spa"
 category: "spas-esthetics"
+subcategory: "day-spas"
 tier: "featured"
 description: "Full-service Edmonton day spa offering facials, waxing, laser hair removal, massage therapy, manicures, and pedicures. Registered massage therapists on staff, direct-billing available."
 address: "Edmonton (Off Anthony Henday, 97 St exit)"

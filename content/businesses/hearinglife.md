@@ -2,6 +2,7 @@
 name: "HearingLife"
 slug: "hearinglife"
 category: "medical"
+subcategory: "hearing-care"
 neighborhood: "Edmonton"
 address: "8028 118 Ave NW, Edmonton, AB T5B 0R8"
 rating: 4.3

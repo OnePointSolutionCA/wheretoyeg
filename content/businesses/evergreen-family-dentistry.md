@@ -2,6 +2,7 @@
 name: "Evergreen Family Dentistry"
 slug: "evergreen-family-dentistry"
 category: "medical"
+subcategory: "dentists"
 neighborhood: "Spruce Grove"
 address: "115 McLeod Ave, Spruce Grove, AB T7X 2H8"
 rating: 4.9

@@ -2,6 +2,7 @@
 name: "Spearmint Cleaning Inc."
 slug: "spearmint-cleaning-inc"
 category: "cleaning-services"
+subcategory: "house-cleaning"
 neighborhood: "Edmonton"
 address: "565 Griesbach Parade NW, Edmonton, AB T5E 4H5"
 rating: 5

@@ -2,6 +2,7 @@
 name: "6th Sense Cafe"
 slug: "6th-sense-cafe"
 category: "cafes-coffee-shops"
+subcategory: "specialty"
 neighborhood: "Mill Woods"
 address: "2331 66 St NW #605A, Edmonton, AB T6L 3L1"
 rating: 4.2

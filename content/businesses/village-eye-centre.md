@@ -2,6 +2,7 @@
 name: "Village Eye Centre"
 slug: "village-eye-centre"
 category: "medical"
+subcategory: "eye-care"
 neighborhood: "Edmonton"
 address: "12765 50 St NW, Edmonton, AB T5A 4L8"
 rating: 4.9

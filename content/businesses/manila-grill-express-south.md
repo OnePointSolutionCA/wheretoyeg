@@ -2,6 +2,7 @@
 name: "Manila Grill Express - South"
 slug: "manila-grill-express-south"
 category: "restaurants"
+subcategory: "filipino"
 neighborhood: "Mill Woods"
 address: "6554 28 Ave NW, Edmonton, AB T6L 6N3"
 rating: 4.6

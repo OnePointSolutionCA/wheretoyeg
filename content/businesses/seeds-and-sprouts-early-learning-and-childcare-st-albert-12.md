@@ -1,8 +1,8 @@
 ---
 name: "Seeds and Sprouts Early Learning and Childcare St. Albert 12 Hebert Road T8N 5T8"
 slug: "seeds-and-sprouts-early-learning-and-childcare-st-albert-12"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "early-learning"
 tier: "featured"
 description: ""
 address: "12 Hebert Rd, St. Albert, AB T8N 5T8"

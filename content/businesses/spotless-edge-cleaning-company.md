@@ -2,6 +2,7 @@
 name: "Spotless edge cleaning company"
 slug: "spotless-edge-cleaning-company"
 category: "cleaning-services"
+subcategory: "house-cleaning"
 neighborhood: "Edmonton"
 address: "12955 101 St NW, Edmonton, AB T5E 4E8"
 rating: 5

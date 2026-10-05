@@ -1,8 +1,8 @@
 ---
 name: "Tiny Hoppers Day Care River Valley- Edmonton"
 slug: "tiny-hoppers-day-care-river-valley-edmonton"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "9707 110 St NW Ste 104, Edmonton, AB T5K 2L9"

@@ -1,8 +1,8 @@
 ---
 name: "Park Plaza Day Care & OSC"
 slug: "park-plaza-day-care-osc"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "101 Granada Blvd #116, Sherwood Park, AB T8A 4W2"
@@ -26,6 +26,7 @@ photos:
 rating: 5.0
 review_count: 20
 amenities:
+  - "Out of School Care"
   - "Wheelchair Accessible"
 tags: ["edmonton", "childcare"]
 active: true

@@ -2,6 +2,7 @@
 name: "Bernardo Diner"
 slug: "bernardo-diner"
 category: "restaurants"
+subcategory: "family"
 neighborhood: "Mill Woods"
 address: "2331 66 St NW Unit 519, Edmonton, AB T6K 4B4"
 rating: 4.1

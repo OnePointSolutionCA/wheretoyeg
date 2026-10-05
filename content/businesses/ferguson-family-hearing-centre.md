@@ -2,6 +2,7 @@
 name: "Ferguson Family Hearing Centre"
 slug: "ferguson-family-hearing-centre"
 category: "medical"
+subcategory: "hearing-care"
 neighborhood: "Edmonton"
 address: "12222 137 Ave NW #114, Edmonton, AB T5L 4X5"
 rating: 5

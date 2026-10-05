@@ -2,6 +2,7 @@
 name: "Professional Audiology Clinic"
 slug: "professional-audiology-clinic"
 category: "medical"
+subcategory: "hearing-care"
 neighborhood: "Edmonton"
 address: "11010 101 St NW #107, Edmonton, AB T5H 4B9"
 rating: 4.9

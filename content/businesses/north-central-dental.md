@@ -2,6 +2,7 @@
 name: "North Central Dental"
 slug: "north-central-dental"
 category: "medical"
+subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "13030 82 St NW, Edmonton, AB T5E 2T5"
 rating: 4.9

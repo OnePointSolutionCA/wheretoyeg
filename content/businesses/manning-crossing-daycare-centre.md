@@ -1,8 +1,8 @@
 ---
 name: "Manning Crossing Daycare Centre"
 slug: "manning-crossing-daycare-centre"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "662 Manning Crossing NW, Edmonton, AB T5A 5A1"

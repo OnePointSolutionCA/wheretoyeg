@@ -10,7 +10,7 @@ address: "3424 99 Street NW, Edmonton, AB T6E 5X5"
 neighborhood: "Duggan"
 phone: "(780) 988-8551"
 website: "https://www.v5nails.com"
-google_maps_url: "https://maps.google.com/?q=V5+Nails+Salon+Spa+Edmonton"
+google_maps_url: "https://maps.google.com/?cid=14971336291866056680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "10:00 AM–7:00 PM"
   tuesday: "10:00 AM–7:00 PM"

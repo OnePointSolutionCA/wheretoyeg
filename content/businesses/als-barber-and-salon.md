@@ -2,6 +2,7 @@
 name: "Al's Barber & Salon"
 slug: "als-barber-and-salon"
 category: "barbers"
+subcategory: "mens-haircuts"
 neighborhood: "Castle Downs"
 address: "12222 137 Ave NW, Edmonton, AB T5L 4X5"
 rating: 4.7

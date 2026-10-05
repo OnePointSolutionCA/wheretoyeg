@@ -2,6 +2,7 @@
 name: "Castledowns Vision Centre | Optometrist Edmonton North"
 slug: "castledowns-vision-centre-optometrist-edmonton-north"
 category: "medical"
+subcategory: "eye-care"
 neighborhood: "Castle Downs"
 address: "15277 Castle Downs Rd NW #148, Edmonton, AB T5X 3N5"
 rating: 4.7

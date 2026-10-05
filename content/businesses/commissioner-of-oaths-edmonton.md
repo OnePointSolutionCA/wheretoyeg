@@ -2,6 +2,7 @@
 name: "Commissioner of Oaths Edmonton"
 slug: "commissioner-of-oaths-edmonton"
 category: "professional-services"
+subcategory: "notaries"
 neighborhood: "Edmonton"
 address: "8130 Rowland Rd NW, Edmonton, AB T6A 3W8"
 rating: 5

@@ -10,7 +10,7 @@ address: "2213 101 St NW, Edmonton, AB T6N 1K1"
 neighborhood: "South Edmonton Common"
 phone: "(780) 450-0660"
 website: "https://jerusalemedmonton.com"
-google_maps_url: "https://maps.google.com/?q=Jerusalem+Shawarma+South+Edmonton+Common"
+google_maps_url: "https://maps.google.com/?cid=2875853474201718918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "11:00 AM–10:00 PM"
   tuesday: "11:00 AM–10:00 PM"

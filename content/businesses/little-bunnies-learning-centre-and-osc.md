@@ -1,8 +1,8 @@
 ---
 name: "Little Bunnies Learning Centre and OSC"
 slug: "little-bunnies-learning-centre-and-osc"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "early-learning"
 tier: "featured"
 description: ""
 address: "9540 111 Ave NW, Edmonton, AB T5G 0A7"
@@ -25,7 +25,8 @@ photos:
   - "/photos/little-bunnies-learning-centre-and-osc-g2.jpg"
 rating: 5.0
 review_count: 43
-amenities: []
+amenities:
+  - "Out of School Care"
 tags: ["edmonton", "childcare"]
 active: true
 date_listed: "2026-10-02"

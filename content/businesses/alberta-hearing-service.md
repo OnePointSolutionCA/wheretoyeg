@@ -2,6 +2,7 @@
 name: "Alberta Hearing Service"
 slug: "alberta-hearing-service"
 category: "medical"
+subcategory: "hearing-care"
 neighborhood: "St. Albert"
 address: "11808 St Albert Trail NW Unit 320, Edmonton, AB T5G 3C8"
 rating: 5

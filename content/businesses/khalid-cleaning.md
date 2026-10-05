@@ -2,6 +2,7 @@
 name: "Khalid Cleaning"
 slug: "khalid-cleaning"
 category: "cleaning-services"
+subcategory: "house-cleaning"
 neighborhood: "Edmonton"
 address: "11444 132 St NW, Edmonton, AB T5M 3K3"
 rating: 4.9

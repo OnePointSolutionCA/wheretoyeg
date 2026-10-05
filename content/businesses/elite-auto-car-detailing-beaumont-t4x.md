@@ -2,6 +2,7 @@
 name: "Elite Auto Car Detailing Beaumont T4X"
 slug: "elite-auto-car-detailing-beaumont-t4x"
 category: "auto-repair"
+subcategory: "detailing"
 neighborhood: "Beaumont"
 address: "55 Ave, Beaumont, AB T4X 1S7"
 rating: 0

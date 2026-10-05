@@ -2,6 +2,7 @@
 name: "Jef's Café"
 slug: "jefs-caf"
 category: "cafes-coffee-shops"
+subcategory: "specialty"
 neighborhood: "Beaumont"
 address: "5012 50 St, Beaumont, AB T4X 1E7"
 rating: 4.4

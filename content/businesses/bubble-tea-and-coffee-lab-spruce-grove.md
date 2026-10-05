@@ -2,6 +2,7 @@
 name: "Bubble Tea & Coffee Lab -Spruce Grove"
 slug: "bubble-tea-and-coffee-lab-spruce-grove"
 category: "cafes-coffee-shops"
+subcategory: "boba-bubble-tea"
 neighborhood: "Spruce Grove"
 address: "100 King St #3, Spruce Grove, AB T7X 0J6"
 rating: 4.6

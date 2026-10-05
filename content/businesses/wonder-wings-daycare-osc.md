@@ -1,8 +1,8 @@
 ---
 name: "Wonder Wings Daycare & OSC"
 slug: "wonder-wings-daycare-osc"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "11803 123 St NW, Edmonton, AB T5L 2K1"
@@ -25,7 +25,8 @@ photos:
   - "/photos/wonder-wings-daycare-osc-g2.jpg"
 rating: 5.0
 review_count: 27
-amenities: []
+amenities:
+  - "Out of School Care"
 tags: ["edmonton", "childcare"]
 active: true
 date_listed: "2026-10-02"

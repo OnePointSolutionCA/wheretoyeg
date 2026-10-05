@@ -2,6 +2,7 @@
 name: "Top Tier Barbershop"
 slug: "top-tier-barbershop"
 category: "barbers"
+subcategory: "mens-haircuts"
 neighborhood: "Spruce Grove"
 address: "700 McLeod Ave #120, Spruce Grove, AB T7X 0C8"
 rating: 5

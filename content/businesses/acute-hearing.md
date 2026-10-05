@@ -2,6 +2,7 @@
 name: "Acute Hearing"
 slug: "acute-hearing"
 category: "medical"
+subcategory: "hearing-care"
 neighborhood: "Edmonton"
 address: "12846 97 St NW, Edmonton, AB T5E 6Z4"
 rating: 4.9

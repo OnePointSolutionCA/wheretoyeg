@@ -1,8 +1,8 @@
 ---
 name: "Little Wonders Daycare Inc."
 slug: "little-wonders-daycare-inc"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: "Little Wonders Daycare Inc. — childcare in Edmonton, Edmonton. 36 Google reviews, 4.8★."
 address: "15976 109 Ave, Edmonton, AB T5P 1B7"

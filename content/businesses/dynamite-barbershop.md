@@ -2,6 +2,7 @@
 name: "Dynamite Barbershop"
 slug: "dynamite-barbershop"
 category: "barbers"
+subcategory: "mens-haircuts"
 neighborhood: "Castle Downs"
 address: "15155 121 St NW, Edmonton, AB T5X 3C8"
 rating: 4.8

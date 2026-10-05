@@ -2,6 +2,7 @@
 name: "U-Play Indoor Playground in Edmonton"
 slug: "u-play-indoor-playground-in-edmonton"
 category: "activities-fun"
+subcategory: "indoor-playground"
 neighborhood: "Edmonton"
 address: "13983 156 St, Edmonton, AB T6V 1J1"
 rating: 4.5

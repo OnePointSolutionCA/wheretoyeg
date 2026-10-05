@@ -2,6 +2,7 @@
 name: "Chateau Clean"
 slug: "chateau-clean"
 category: "cleaning-services"
+subcategory: "house-cleaning"
 neighborhood: "Edmonton"
 address: "10180 101 St NW #3400, Edmonton, AB T5J 3S4"
 rating: 5

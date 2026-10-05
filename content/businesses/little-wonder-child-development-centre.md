@@ -1,8 +1,8 @@
 ---
 name: "Little Wonder Child Development Centre"
 slug: "little-wonder-child-development-centre"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "early-learning"
 tier: "featured"
 description: ""
 address: "9811 108 St, Fort Saskatchewan, AB T8L 2J2"

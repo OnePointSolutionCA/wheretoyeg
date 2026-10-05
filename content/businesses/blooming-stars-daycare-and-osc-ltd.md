@@ -1,8 +1,8 @@
 ---
 name: "Blooming Stars Daycare and OSC Ltd"
 slug: "blooming-stars-daycare-and-osc-ltd"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "15224 Stony Plain Rd, Edmonton, AB T5P 3Y5"
@@ -25,6 +25,7 @@ photos:
 rating: 5.0
 review_count: 19
 amenities:
+  - "Out of School Care"
   - "Wheelchair Accessible"
 tags: ["edmonton", "childcare"]
 active: true

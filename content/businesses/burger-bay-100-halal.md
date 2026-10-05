@@ -2,6 +2,7 @@
 name: "Burger Bay (100% Halal)"
 slug: "burger-bay-100-halal"
 category: "restaurants"
+subcategory: "burgers"
 neighborhood: "Mill Woods"
 address: "101 Granada Blvd #311, Sherwood Park, AB T8A 4W2"
 rating: 4.8

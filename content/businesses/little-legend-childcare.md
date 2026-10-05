@@ -1,8 +1,8 @@
 ---
 name: "Little Legend Childcare"
 slug: "little-legend-childcare"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "490 Mistatim Way NW, Edmonton, AB T6V 1H5"

@@ -1,8 +1,8 @@
 ---
 name: "Fort Road Day Care & Out of School Care"
 slug: "fort-road-day-care-out-of-school-care"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "204 Manning Crossing NW, Edmonton, AB T5A 5A1"

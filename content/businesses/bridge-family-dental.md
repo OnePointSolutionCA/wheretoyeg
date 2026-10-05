@@ -2,6 +2,7 @@
 name: "Bridge Family Dental"
 slug: "bridge-family-dental"
 category: "medical"
+subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "13641 119 St NW, Edmonton, AB T5E 5N2"
 rating: 5

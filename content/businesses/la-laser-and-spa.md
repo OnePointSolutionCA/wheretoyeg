@@ -2,6 +2,7 @@
 name: "LA Laser & Spa"
 slug: "la-laser-and-spa"
 category: "spas-esthetics"
+subcategory: "laser-hair-removal"
 neighborhood: "Beaumont"
 address: "5001 48 St, Beaumont, AB T4X 1H7"
 rating: 4.8

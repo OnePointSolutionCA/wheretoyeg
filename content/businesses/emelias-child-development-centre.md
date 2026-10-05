@@ -1,8 +1,8 @@
 ---
 name: "Emelia's Child Development Centre"
 slug: "emelias-child-development-centre"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "early-learning"
 tier: "featured"
 description: ""
 address: "100 Centre St #202, St. Albert, AB T8N 3W2"

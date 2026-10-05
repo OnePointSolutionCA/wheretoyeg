@@ -1,8 +1,8 @@
 ---
 name: "Little Cucumber Daycare"
 slug: "little-cucumber-daycare"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: "Little Cucumber Daycare — childcare in Edmonton, Edmonton. 12 Google reviews, 5.0★."
 address: "12604 130 Ave NW, Edmonton, AB T5L 3L3"

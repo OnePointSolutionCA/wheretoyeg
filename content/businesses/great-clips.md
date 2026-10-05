@@ -2,6 +2,7 @@
 name: "Great Clips"
 slug: "great-clips"
 category: "hair-salons"
+subcategory: "cuts-styling"
 neighborhood: "Beaumont"
 address: "6410 50 St Ste 106, Beaumont, AB T4X 0B6"
 rating: 4

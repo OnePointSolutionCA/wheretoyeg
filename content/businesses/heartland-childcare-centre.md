@@ -1,8 +1,8 @@
 ---
 name: "Heartland Childcare Centre"
 slug: "heartland-childcare-centre"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "9935 93 Ave, Fort Saskatchewan, AB T8L 1N6"

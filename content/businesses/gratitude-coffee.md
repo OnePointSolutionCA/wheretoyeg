@@ -2,6 +2,7 @@
 name: "Gratitude Coffee"
 slug: "gratitude-coffee"
 category: "cafes-coffee-shops"
+subcategory: "specialty"
 neighborhood: "Sherwood Park"
 address: "897 Pembina Rd #151, Sherwood Park, AB T8H 3A5"
 rating: 4.9

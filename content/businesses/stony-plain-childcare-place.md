@@ -1,8 +1,8 @@
 ---
 name: "Stony Plain Childcare Place"
 slug: "stony-plain-childcare-place"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "4919 47 Ave, Stony Plain, AB T7Z 1L7"

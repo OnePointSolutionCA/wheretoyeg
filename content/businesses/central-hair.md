@@ -1,7 +1,8 @@
 ---
 name: "Central Hair"
 slug: "central-hair"
-category: "medical"
+category: "hair-salons"
+subcategory: "cuts-styling"
 neighborhood: "Spruce Grove"
 address: "250 King St #3, Spruce Grove, AB T7X 2C6"
 rating: 4.6

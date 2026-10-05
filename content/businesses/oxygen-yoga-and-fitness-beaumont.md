@@ -2,6 +2,7 @@
 name: "Oxygen Yoga & Fitness Beaumont"
 slug: "oxygen-yoga-and-fitness-beaumont"
 category: "gyms-fitness"
+subcategory: "yoga"
 neighborhood: "Beaumont"
 address: "7101 49 St, Beaumont, AB T4X 0T2"
 rating: 4.9

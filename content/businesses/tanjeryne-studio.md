@@ -2,6 +2,7 @@
 name: "Tanjeryne Studio"
 slug: "tanjeryne-studio"
 category: "photographers"
+subcategory: "portraits"
 neighborhood: "Edmonton"
 address: "16020 101A Ave, Edmonton, AB T5V 1B2"
 rating: 5

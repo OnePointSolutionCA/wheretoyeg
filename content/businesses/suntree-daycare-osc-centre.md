@@ -1,8 +1,8 @@
 ---
 name: "Suntree Daycare & OSC Centre"
 slug: "suntree-daycare-osc-centre"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "101 Sandalwood Pl #5, Leduc, AB T9E 1C4"
@@ -24,7 +24,8 @@ photos:
   - "/photos/suntree-daycare-osc-centre-g1.jpg"
 rating: 5.0
 review_count: 18
-amenities: []
+amenities:
+  - "Out of School Care"
 tags: ["edmonton", "childcare"]
 active: true
 date_listed: "2026-10-02"

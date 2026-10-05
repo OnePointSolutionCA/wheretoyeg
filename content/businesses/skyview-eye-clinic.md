@@ -2,6 +2,7 @@
 name: "Skyview Eye Clinic"
 slug: "skyview-eye-clinic"
 category: "medical"
+subcategory: "eye-care"
 neighborhood: "Edmonton"
 address: "14613 127 St, Edmonton, AB T6V 0N1"
 rating: 4.9

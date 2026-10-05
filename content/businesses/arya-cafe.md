@@ -2,6 +2,7 @@
 name: "Arya Cafe"
 slug: "arya-cafe"
 category: "cafes-coffee-shops"
+subcategory: "international"
 tier: "featured"
 description: "Persian-influenced Edmonton cafe serving traditional coffee, chai, and light Middle Eastern bites. Family-friendly, halal-friendly atmosphere popular with the local Iranian and Middle Eastern communities."
 address: "Edmonton"

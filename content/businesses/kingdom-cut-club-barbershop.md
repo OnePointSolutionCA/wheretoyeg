@@ -2,6 +2,7 @@
 name: "Kingdom Cut Club BARBERSHOP"
 slug: "kingdom-cut-club-barbershop"
 category: "barbers"
+subcategory: "mens-haircuts"
 neighborhood: "Castle Downs"
 address: "12909 97 St NW, Edmonton, AB T5E 4C2"
 rating: 4.8

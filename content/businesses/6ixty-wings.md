@@ -2,6 +2,7 @@
 name: "6IXTY WINGS"
 slug: "6ixty-wings"
 category: "restaurants"
+subcategory: "wings"
 neighborhood: "Sherwood Park"
 address: "590 Baseline Rd Unit 290, Sherwood Park, AB T8H 1Y4"
 rating: 4.8

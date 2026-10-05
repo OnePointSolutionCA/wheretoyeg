@@ -1,8 +1,8 @@
 ---
 name: "Kids 'R' Us Daycare#1 Edmonton Day Care & After school"
 slug: "kids-r-us-daycare1-edmonton-day-care-after-school"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "Vanguard college, 12140 103 St NW, Edmonton, AB T5G 3K3"
@@ -25,6 +25,7 @@ photos:
 rating: 4.9
 review_count: 51
 amenities:
+  - "Out of School Care"
   - "Wheelchair Accessible"
 tags: ["edmonton", "childcare"]
 active: true

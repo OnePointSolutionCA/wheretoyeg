@@ -2,6 +2,7 @@
 name: "Capital City Audiology & Hearing Centre - West Edmonton"
 slug: "capital-city-audiology-and-hearing-centre-west-edmonton"
 category: "medical"
+subcategory: "hearing-care"
 neighborhood: "Edmonton"
 address: "8770 149 St, Edmonton, AB T5R 1B6"
 rating: 4.9

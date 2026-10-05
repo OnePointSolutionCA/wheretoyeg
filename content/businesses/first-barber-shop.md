@@ -2,6 +2,7 @@
 name: "First Barber Shop"
 slug: "first-barber-shop"
 category: "barbers"
+subcategory: "mens-haircuts"
 neighborhood: "Castle Downs"
 address: "13733 127 St, Edmonton, AB T6V 1A8"
 rating: 4.5

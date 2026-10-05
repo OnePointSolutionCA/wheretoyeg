@@ -1,8 +1,8 @@
 ---
 name: "BrightPath Sherwood Park Child Care Center"
 slug: "brightpath-sherwood-park-child-care-center"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "20 Main Blvd, Sherwood Park, AB T8A 3W8"

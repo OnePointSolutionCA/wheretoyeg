@@ -2,6 +2,7 @@
 name: "WestView Primary Care Network"
 slug: "westview-primary-care-network"
 category: "medical"
+subcategory: "family-doctors"
 neighborhood: "Spruce Grove"
 address: "505 Queen St #205, Spruce Grove, AB T7X 2V2"
 rating: 3.8

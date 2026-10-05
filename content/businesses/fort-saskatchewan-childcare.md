@@ -1,8 +1,8 @@
 ---
 name: "FORT SASKATCHEWAN CHILDCARE"
 slug: "fort-saskatchewan-childcare"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "9907 103 St, Fort Saskatchewan, AB T8L 2C8"

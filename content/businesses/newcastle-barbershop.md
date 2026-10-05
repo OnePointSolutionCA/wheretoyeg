@@ -2,6 +2,7 @@
 name: "Newcastle Barbershop"
 slug: "newcastle-barbershop"
 category: "barbers"
+subcategory: "mens-haircuts"
 neighborhood: "Castle Downs"
 address: "16979 127 St, Edmonton, AB T6V 0T1"
 rating: 4.8

@@ -2,6 +2,7 @@
 name: "Marrazzo Law Office"
 slug: "marrazzo-law-office"
 category: "professional-services"
+subcategory: "legal"
 neighborhood: "Edmonton"
 address: "5003 Dewolf Rd NW, Edmonton, AB T5E 6R5"
 rating: 4.8

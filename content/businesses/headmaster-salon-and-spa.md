@@ -2,6 +2,7 @@
 name: "Headmaster salon and spa"
 slug: "headmaster-salon-and-spa"
 category: "hair-salons"
+subcategory: "cuts-styling"
 neighborhood: "Beaumont"
 address: "4906 30 Ave, Beaumont, AB T4X 1V1"
 rating: 4.3

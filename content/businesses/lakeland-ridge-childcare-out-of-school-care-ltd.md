@@ -1,8 +1,8 @@
 ---
 name: "Lakeland Ridge Childcare & Out of School Care LTD."
 slug: "lakeland-ridge-childcare-out-of-school-care-ltd"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "550 Baseline Rd #340, Sherwood Park, AB T8H 2G8"

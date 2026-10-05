@@ -2,6 +2,7 @@
 name: "Lore Gym"
 slug: "lore-gym"
 category: "gyms-fitness"
+subcategory: "gyms"
 neighborhood: "Beaumont"
 address: "2803 Whitemud Dr NW, Edmonton, AB T6E 5B3"
 rating: 5

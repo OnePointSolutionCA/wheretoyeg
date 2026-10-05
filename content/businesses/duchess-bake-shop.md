@@ -10,7 +10,7 @@ address: "10718 124 Street, Edmonton, AB T5M 0H1"
 neighborhood: "Westmount"
 phone: "(780) 488-4999"
 website: "https://duchessbakeshop.com"
-google_maps_url: "https://maps.google.com/?q=Duchess+Bake+Shop+Edmonton"
+google_maps_url: "https://maps.google.com/?cid=6322710800857215222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "9:00 AM–6:00 PM"
   tuesday: "9:00 AM–6:00 PM"

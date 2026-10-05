@@ -1,7 +1,8 @@
 ---
 name: "Northeast Halal Food & Meat"
 slug: "northeast-halal-food-and-meat"
-category: "catering"
+category: "grocery-markets"
+subcategory: "halal-meat"
 neighborhood: "Edmonton"
 address: "7614 144 Ave NW, Edmonton, AB T5C 2R7"
 rating: 4.4

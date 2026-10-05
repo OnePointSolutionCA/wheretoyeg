@@ -2,6 +2,7 @@
 name: "Primary Hearing Clinic"
 slug: "primary-hearing-clinic"
 category: "medical"
+subcategory: "hearing-care"
 neighborhood: "Castle Downs"
 address: "10807 Castle Downs Rd NW Ste 214, Edmonton, AB T5X 3N7"
 rating: 5

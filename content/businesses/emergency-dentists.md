@@ -2,6 +2,7 @@
 name: "Emergency Dentists"
 slug: "emergency-dentists"
 category: "medical"
+subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "2410 Rabbit Hill Rd NW, Edmonton, AB T6R 3B5"
 rating: 4.4

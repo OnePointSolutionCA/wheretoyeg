@@ -1,8 +1,8 @@
 ---
 name: "POLK -A-DOT Daycare and OSC"
 slug: "polk-a-dot-daycare-and-osc"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "220 Century Rd, Spruce Grove, AB T7X 3X7"
@@ -23,7 +23,8 @@ hours:
 photos: []
 rating: 4.4
 review_count: 30
-amenities: []
+amenities:
+  - "Out of School Care"
 tags: ["edmonton", "childcare"]
 active: true
 date_listed: "2026-10-02"

@@ -2,6 +2,7 @@
 name: "Certified Green Cleaning - Edmonton"
 slug: "certified-green-cleaning-edmonton"
 category: "cleaning-services"
+subcategory: "house-cleaning"
 neighborhood: "Edmonton"
 address: "4320 116 St NW, Edmonton, AB T6J 1R9"
 rating: 5

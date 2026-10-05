@@ -2,6 +2,7 @@
 name: "IRIS Optometrists and Opticians - Londonderry"
 slug: "iris-optometrists-and-opticians-londonderry"
 category: "medical"
+subcategory: "eye-care"
 neighborhood: "Edmonton"
 address: "1 Londonderry Mall NW #2112, Edmonton, AB T5C 3C8"
 rating: 4

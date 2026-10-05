@@ -2,6 +2,7 @@
 name: "ARCstage Arcade"
 slug: "arcstage-arcade"
 category: "activities-fun"
+subcategory: "arcades"
 neighborhood: "124 Street"
 address: "10612 124 St, Edmonton, AB T5N 1S4"
 rating: 4.8

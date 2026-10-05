@@ -2,6 +2,7 @@
 name: "Family bistro restaurant"
 slug: "family-bistro-restaurant"
 category: "restaurants"
+subcategory: "family"
 neighborhood: "Sherwood Park"
 address: "22106 S Cooking Rd suite 2, Sherwood Park, AB T8E 1J1"
 rating: 4.3

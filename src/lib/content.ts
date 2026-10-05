@@ -62,8 +62,63 @@ export function getBusinesses(): Business[] {
       return b;
     })
     .filter((b) => b.active !== false);
+  labelBranches(list);
   if (CACHE) businessCache = list;
   return [...list];
+}
+
+const GENERIC_AREAS = new Set(["", "edmonton", "edmonton (city-wide)", "edmonton (multiple locations)", "multiple locations"]);
+
+const STREET_TYPE = /^(St|Ave|Rd|Blvd|Dr|Trl|Trail|Way|Cres|Ct|Pl|Gate|Gln|Ln|Lane|Close)\b/i;
+
+/** First line of the address without the unit: "12620C 132 Ave NW #4, Edmonton" -> "12620C 132 Ave" */
+function addressLine(address?: string) {
+  return (address ?? "")
+    .split(",")[0]
+    .replace(/(#|\bunit\b|\bsuite\b|\bste\.?|\bbldg\b)\s*\S+/gi, "")
+    .replace(/\s+(NW|SW|NE|SE|N|S|E|W)\s*$/i, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+/** "12620C 132 Ave NW, Edmonton, AB" -> "132 Ave"; "112 St NW" stays "112 St". */
+function streetOf(address?: string) {
+  const line = addressLine(address);
+  const rest = line.replace(/^\d+[a-z]?\s+/i, "");
+  return rest && !STREET_TYPE.test(rest) ? rest : line;
+}
+
+// Branches of the same business share a name, so their cards read as duplicates.
+// Add where each one is: the area when that tells them apart, otherwise the street.
+function labelBranches(list: Business[]) {
+  const groups = new Map<string, Business[]>();
+  for (const b of list) {
+    const key = b.name.trim().toLowerCase().replace(/\s+/g, " ");
+    groups.set(key, [...(groups.get(key) ?? []), b]);
+  }
+  for (const group of groups.values()) {
+    if (group.length < 2) continue;
+    const areaCount = new Map<string, number>();
+    for (const b of group) areaCount.set(b.neighborhood ?? "", (areaCount.get(b.neighborhood ?? "") ?? 0) + 1);
+    const labels = group.map((b) => {
+      const area = b.neighborhood ?? "";
+      if (!GENERIC_AREAS.has(area.toLowerCase()) && areaCount.get(area) === 1) return area;
+      return streetOf(b.address) || area;
+    });
+    // Same area and same street: fall back to the street address with its number.
+    const counts = new Map<string, number>();
+    for (const l of labels) counts.set(l, (counts.get(l) ?? 0) + 1);
+    labels.forEach((l, i) => {
+      if (counts.get(l)! > 1) labels[i] = addressLine(group[i].address) || l;
+    });
+    const seen = new Map<string, number>();
+    for (const l of labels) seen.set(l, (seen.get(l) ?? 0) + 1);
+    group.forEach((b, i) => {
+      const label = labels[i];
+      if (!label || seen.get(label)! > 1 || b.name.toLowerCase().includes(label.toLowerCase())) return;
+      b.name = `${b.name} (${label})`;
+    });
+  }
 }
 
 // Matches importer one-liners like "X — pastry in Edmonton, Edmonton. 1387 Google reviews, 4.7★."
@@ -91,6 +146,7 @@ const CATEGORY_NOUN: Record<string, string> = {
   medical: "health clinic",
   photographers: "photography studio",
   "professional-services": "professional services firm",
+  childcare: "childcare centre",
   catering: "catering company",
   "activities-fun": "activity spot",
 };

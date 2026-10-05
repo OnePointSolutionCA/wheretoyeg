@@ -1,8 +1,8 @@
 ---
 name: "A Nana's Love Daycare and OSC"
 slug: "a-nanas-love-daycare-and-osc"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "570 St Albert Trl, St. Albert, AB T8N 5Z1"
@@ -26,6 +26,7 @@ photos:
 rating: 4.7
 review_count: 49
 amenities:
+  - "Out of School Care"
   - "Wheelchair Accessible"
 tags: ["edmonton", "childcare"]
 active: true

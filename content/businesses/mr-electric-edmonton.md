@@ -2,6 +2,7 @@
 name: "Mr. Electric of Edmonton"
 slug: "mr-electric-edmonton"
 category: "electricians"
+subcategory: "residential"
 tier: "featured"
 logo: "/logos/mr-electric-edmonton.png"
 description: "Full-service Edmonton electrician — residential and commercial. Panel upgrades, wiring, EV charger installation, lighting, generator installs. Licensed, insured, upfront pricing."

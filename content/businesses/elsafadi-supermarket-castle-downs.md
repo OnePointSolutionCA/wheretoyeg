@@ -1,8 +1,8 @@
 ---
 name: "Elsafadi Supermarket"
 slug: "elsafadi-supermarket-castle-downs"
-category: "bakeries"
-subcategory: "halal-bakeries"
+category: "grocery-markets"
+subcategory: "middle-eastern"
 tier: "featured"
 description: ""
 address: "10807 Castle Downs Rd NW #209, Edmonton, AB T5X 2J5"

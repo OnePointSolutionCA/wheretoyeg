@@ -2,6 +2,7 @@
 name: "Mood Cafe"
 slug: "mood-cafe"
 category: "cafes-coffee-shops"
+subcategory: "specialty"
 neighborhood: "Beaumont"
 address: "7601 115 St NW, Edmonton, AB T6G 0K5"
 rating: 4.5

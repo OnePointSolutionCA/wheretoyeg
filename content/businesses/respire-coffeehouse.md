@@ -2,6 +2,7 @@
 name: "Respire Coffeehouse"
 slug: "respire-coffeehouse"
 category: "cafes-coffee-shops"
+subcategory: "specialty"
 neighborhood: "Mill Woods"
 address: "3550 76 Ave NW, Edmonton, AB T6B 2N8"
 rating: 4.9

@@ -2,6 +2,7 @@
 name: "Ellwood Pizza"
 slug: "ellwood-pizza"
 category: "restaurants"
+subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "2431 Ellwood Dr SW, Edmonton, AB T6X 0J6"
 rating: 4.6

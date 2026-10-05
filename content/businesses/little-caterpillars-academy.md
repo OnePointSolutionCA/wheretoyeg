@@ -1,8 +1,8 @@
 ---
 name: "Little Caterpillars Academy"
 slug: "little-caterpillars-academy"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "early-learning"
 tier: "featured"
 description: ""
 address: "1115 St Albert Trl #910, St. Albert, AB T8N 7X6"

@@ -1,8 +1,8 @@
 ---
 name: "Sunrays Daycare and OSC"
 slug: "sunrays-daycare-and-osc"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "6204 29 Ave, Beaumont, AB T4X 0H5"
@@ -25,7 +25,8 @@ photos:
   - "/photos/sunrays-daycare-and-osc-g2.jpg"
 rating: 4.8
 review_count: 21
-amenities: []
+amenities:
+  - "Out of School Care"
 tags: ["edmonton", "childcare"]
 active: true
 date_listed: "2026-10-02"

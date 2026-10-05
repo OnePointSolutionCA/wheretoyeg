@@ -1,8 +1,8 @@
 ---
 name: "Little Bear Daycare"
 slug: "little-bear-daycare"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "daycares"
 tier: "featured"
 description: ""
 address: "4409 Black Gold Dr, Leduc, AB T9E 8E1"

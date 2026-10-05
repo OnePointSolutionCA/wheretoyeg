@@ -2,6 +2,7 @@
 name: "Power Carpet Cleaning"
 slug: "power-carpet-cleaning"
 category: "cleaning-services"
+subcategory: "carpet"
 neighborhood: "Edmonton"
 address: "Twin Brooks, Edmonton, AB T6J 5A7"
 rating: 4.9

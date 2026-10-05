@@ -2,6 +2,7 @@
 name: "HearCANADA"
 slug: "hearcanada"
 category: "medical"
+subcategory: "hearing-care"
 neighborhood: "Edmonton"
 address: "9499 137 Ave NW #2008, Edmonton, AB T5E 6K9"
 rating: 4.6

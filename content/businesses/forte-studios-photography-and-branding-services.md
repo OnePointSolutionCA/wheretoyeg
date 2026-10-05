@@ -2,6 +2,7 @@
 name: "Forte Studios | Photography and Branding Services"
 slug: "forte-studios-photography-and-branding-services"
 category: "photographers"
+subcategory: "portraits"
 neighborhood: "Edmonton"
 address: "10301 109 St NW #203, Edmonton, AB T5J 1N4"
 rating: 5

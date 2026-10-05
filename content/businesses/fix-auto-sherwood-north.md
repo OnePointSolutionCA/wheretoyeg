@@ -6,12 +6,12 @@ subcategory: "collision"
 tier: "premium"
 logo: "/logos/fix-auto.png"
 description: "Full-service collision repair shop in Sherwood Park. Insurance-approved for all major providers, lifetime warranty on repairs, and free courtesy vehicles. Fast estimates and honest timelines."
-address: "Unit 100, 167 Provincial Ave"
+address: "Unit 100, 167 Provincial Ave, Sherwood Park, AB T8H 0M3"
 neighborhood: "Sherwood Park"
-phone: "780-449-6688"
+phone: "(780) 416-3158"
 email: "sherwoodnorth@fixauto.com"
-website: "https://fixauto.com/en-ca/locations/sherwood-north"
-google_maps_url: "https://maps.google.com/?q=167+Provincial+Ave+Sherwood+Park"
+website: "https://fixauto.com/ca/en/shop/fix-auto-sherwood-north/"
+google_maps_url: "https://maps.google.com/?cid=17810020850567307333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "8:00 AM–5:00 PM"
   tuesday: "8:00 AM–5:00 PM"
@@ -22,7 +22,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/fix-auto-sherwood-north-1.jpg", "/photos/fix-auto-sherwood-north-2.jpg", "/photos/fix-auto-sherwood-north-3.jpg"]
 rating: 4.8
-review_count: 121
+review_count: 122
 price_range: "$$$"
 amenities:
   - "Insurance Approved"
@@ -31,8 +31,8 @@ amenities:
   - "Free Estimates"
   - "Free Parking"
 tags: ["collision repair", "auto body", "sherwood park"]
-latitude: 53.5225
-longitude: -113.2827
+latitude: 53.568543
+longitude: -113.313860
 featured: true
 active: true
 date_listed: "2026-08-17"

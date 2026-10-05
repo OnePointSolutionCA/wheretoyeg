@@ -2,6 +2,7 @@
 name: "The White Feather Salon"
 slug: "the-white-feather-salon"
 category: "hair-salons"
+subcategory: "cuts-styling"
 neighborhood: "Spruce Grove"
 address: "20 McLeod Ave #6, Spruce Grove, AB T7X 3Y1"
 rating: 5

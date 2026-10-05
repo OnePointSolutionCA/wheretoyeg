@@ -2,6 +2,7 @@
 name: "Beyond Vision Optometrists Oxford"
 slug: "beyond-vision-optometrists-oxford"
 category: "medical"
+subcategory: "eye-care"
 neighborhood: "Edmonton"
 address: "15158 127 St, Edmonton, AB T6V 0C5"
 rating: 4.9

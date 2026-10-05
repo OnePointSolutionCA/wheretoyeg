@@ -1,8 +1,8 @@
 ---
 name: "St. Albert Montessori School and Daycare"
 slug: "st-albert-montessori-school-and-daycare"
-category: "professional-services"
-subcategory: "childcare"
+category: "childcare"
+subcategory: "montessori"
 tier: "featured"
 description: ""
 address: "6 Bernard Dr, St. Albert, AB T8N 0B4"

@@ -1,7 +1,8 @@
 ---
 name: "Paris Baguette"
 slug: "paris-baguette"
-category: "restaurants"
+category: "bakeries"
+subcategory: "pastries"
 neighborhood: "Windermere"
 address: "10607 82 Ave NW Unit #8, Edmonton, AB T6E 2A3"
 rating: 4.2

@@ -2,6 +2,7 @@
 name: "137 Ave Mediterranean Cuisine"
 slug: "137-ave-mediterranean-cuisine"
 category: "restaurants"
+subcategory: "mediterranean"
 neighborhood: "Castle Downs"
 address: "13716 Castle Downs Rd NW, Edmonton, AB T5X 4H7"
 rating: 4.7

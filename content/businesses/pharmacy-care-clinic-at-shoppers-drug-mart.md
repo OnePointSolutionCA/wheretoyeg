@@ -2,6 +2,7 @@
 name: "Pharmacy Care Clinic at Shoppers Drug Mart"
 slug: "pharmacy-care-clinic-at-shoppers-drug-mart"
 category: "medical"
+subcategory: "pharmacies"
 neighborhood: "Spruce Grove"
 address: "131 Century Crossing, Spruce Grove, AB T7X 0C8"
 rating: 4.4

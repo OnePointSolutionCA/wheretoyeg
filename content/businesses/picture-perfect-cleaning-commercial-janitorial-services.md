@@ -2,6 +2,7 @@
 name: "Picture Perfect Cleaning – Commercial Janitorial Services"
 slug: "picture-perfect-cleaning-commercial-janitorial-services"
 category: "cleaning-services"
+subcategory: "commercial-cleaning"
 neighborhood: "Jasper Ave"
 address: "11007 Jasper Ave #469, Edmonton, AB T5K 0K6"
 rating: 5

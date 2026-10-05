@@ -2,6 +2,7 @@
 name: "Old Beverly Cafe"
 slug: "old-beverly-cafe"
 category: "cafes-coffee-shops"
+subcategory: "specialty"
 neighborhood: "Beverly"
 address: "3908 118 Ave NW, Edmonton, AB T5W 0Z9"
 rating: 4.5

@@ -2,6 +2,7 @@
 name: "BE Coffee"
 slug: "be-coffee"
 category: "cafes-coffee-shops"
+subcategory: "specialty"
 neighborhood: "Mill Woods"
 address: "11015 26 Ave NW, Edmonton, AB T6J 5V3"
 rating: 4.6

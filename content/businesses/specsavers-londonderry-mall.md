@@ -2,6 +2,7 @@
 name: "Specsavers Londonderry Mall"
 slug: "specsavers-londonderry-mall"
 category: "medical"
+subcategory: "eye-care"
 neighborhood: "Edmonton"
 address: "1 Londonderry Mall NW Unit 0229, Edmonton, AB T5C 3C8"
 rating: 4.8
