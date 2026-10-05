@@ -9,6 +9,7 @@ export function toCard(b: Business): Business {
     category: b.category,
     subcategory: b.subcategory,
     tier: b.tier,
+    pinned: b.pinned,
     logo: b.logo,
     description: desc.length > 180 ? `${desc.slice(0, 177)}…` : desc,
     generatedDescription: b.generatedDescription,

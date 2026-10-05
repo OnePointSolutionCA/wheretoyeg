@@ -68,11 +68,14 @@ export default function CategoryPage({ params }: { params: { category: string } 
 
   const day = edmontonDay();
 
-  // Top Picks: 6 highest-rated, rotated daily
-  const topPicks = seededShuffle(
-    businesses.filter((b) => (b.rating ?? 0) >= 4.3 && (b.review_count ?? 0) >= 10),
-    day
-  ).slice(0, 6);
+  // Top Picks: 6 highest-rated, rotated daily. Pinned listings always lead.
+  const topPicks = [
+    ...businesses.filter((b) => b.pinned),
+    ...seededShuffle(
+      businesses.filter((b) => !b.pinned && (b.rating ?? 0) >= 4.3 && (b.review_count ?? 0) >= 10),
+      day
+    ),
+  ].slice(0, 6);
 
   // Rotated main listing — slimmed to only card-visible fields to cut page weight
   const rotatedBusinesses = seededShuffle(businesses, day + 999).map(toCard);

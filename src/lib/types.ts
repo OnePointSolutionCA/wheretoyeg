@@ -39,6 +39,8 @@ export type Business = {
   latitude?: number;
   longitude?: number;
   featured?: boolean;
+  /** Always shown first in category, service, area and search lists. */
+  pinned?: boolean;
   active: boolean;
   date_listed: string;
   reviews?: Review[];

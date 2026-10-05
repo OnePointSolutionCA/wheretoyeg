@@ -7,6 +7,7 @@ import { useSearchParams } from "next/navigation";
 import { BusinessCard } from "@/components/BusinessCard";
 import { useRemoteJson } from "@/components/useRemoteJson";
 import type { SearchBusiness } from "@/lib/slim";
+import { pinnedFirst } from "@/lib/pin";
 
 const PAGE = 24;
 const SUGGESTIONS = ["Shawarma", "Halal", "Barber", "Coffee", "Lash", "Brunch", "Dentist", "Mechanic"];
@@ -52,7 +53,7 @@ export function SearchClient({ neighborhoods, categories }: { neighborhoods: str
     let list = q.trim() ? fuse.search(q.trim()).map((r) => r.item) : [...data].sort((a, b) => (b.review_count ?? 0) - (a.review_count ?? 0));
     if (cat) list = list.filter((b) => b.category === cat);
     if (n) list = list.filter((b) => b.neighborhood === n);
-    return list;
+    return pinnedFirst(list);
   }, [q, n, cat, fuse, data]);
 
   const picked = categories.find((c) => c.slug === cat);

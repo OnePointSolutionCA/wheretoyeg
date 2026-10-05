@@ -5,6 +5,7 @@ import type { Business } from "@/lib/types";
 import { BusinessCard } from "./BusinessCard";
 import { Card3D } from "./Card3D";
 import { openStatus } from "@/lib/openNow";
+import { pinnedFirst } from "@/lib/pin";
 
 const PRICES = ["$", "$$", "$$$", "$$$$"] as const;
 
@@ -66,7 +67,7 @@ export function FilterableList({
     if (sort === "rating") out.sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0));
     else if (sort === "reviews") out.sort((a, b) => (b.review_count ?? 0) - (a.review_count ?? 0));
     else if (sort === "newest") out.sort((a, b) => b.date_listed.localeCompare(a.date_listed));
-    return out;
+    return pinnedFirst(out);
   }, [businesses, prices, rating, openNow, selNeighborhoods, selAmenities, sort]);
 
   useEffect(() => { setVisible(24); }, [prices, rating, openNow, selNeighborhoods, selAmenities, sort]);

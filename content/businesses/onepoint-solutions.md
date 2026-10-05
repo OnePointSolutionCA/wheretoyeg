@@ -5,14 +5,14 @@ category: "professional-services"
 subcategory: "marketing-web"
 tier: "premium"
 logo: "/logos/onepoint.png"
-description: "Edmonton-based marketing agency for local businesses. SEO, Google Business Profile management, social media, and websites — $149/month, no contracts, everything included. OnePoint powers the WhereToYEG directory itself."
-address: "15020 116 Ave NW Unit 2"
+description: "OnePoint Solutions is an Edmonton marketing agency for businesses of every size. We handle SEO, Google Business Profile management, social media and websites, with prices published right on our site. OnePoint also runs the WhereToYEG directory."
+address: "15020 116 Ave NW Unit 2, Edmonton, AB T5Y 3V8"
 neighborhood: "North Edmonton"
-phone: "780-666-8888"
+phone: "(780) 229-8464"
 email: "info@onepointsolution.ca"
 website: "https://onepointsolution.ca"
 instagram: "https://instagram.com/onepointsolutionsyeg"
-google_maps_url: "https://maps.google.com/?q=15020+116+Ave+NW+Edmonton"
+google_maps_url: "https://maps.google.com/?cid=15483662139132077537"
 hours:
   monday: "9:00 AM–5:00 PM"
   tuesday: "9:00 AM–5:00 PM"
@@ -23,16 +23,18 @@ hours:
   sunday: "Closed"
 photos: []
 rating: 5
-review_count: 28
+review_count: 31
 price_range: "$$"
 amenities:
   - "Free Consultation"
   - "Local Team"
   - "Month-to-Month"
 tags: ["seo", "google business profile", "websites", "social media"]
-latitude: 53.5779
-longitude: -113.6106
+latitude: 53.568082
+longitude: -113.580614
 featured: true
+# Always listed first in its category, service and area lists (shown with the Premium badge).
+pinned: true
 active: true
 date_listed: "2026-08-17"
 reviews:
