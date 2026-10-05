@@ -9,9 +9,9 @@ import { SITE } from "@/lib/site";
 export const revalidate = 3600;
 
 export const metadata: Metadata = {
-  title: "The WhereToYEG Blog",
+  title: { absolute: "Edmonton Guides & Best Of Lists | The WhereToYEG Blog" },
   description:
-    "Neighborhood guides, best-of lists, and local Edmonton picks from the WhereToYEG team. Where to eat, who to call, and what to do across YEG.",
+    "Neighborhood guides, best of lists and local Edmonton picks from the WhereToYEG team. Where to eat, who to call, and what to do in Edmonton and nearby towns.",
   alternates: { canonical: `${SITE.url}/blog` },
 };
 

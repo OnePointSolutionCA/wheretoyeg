@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Terms of Service",
-  description: "WhereToYEG terms of service. Rules for listings, reviews, photos, and content accuracy on Edmonton's local business directory.",
+  title: { absolute: "Terms of Service | WhereToYEG" },
+  description: "WhereToYEG terms of service: the rules for listings, reviews, photos and content accuracy on Edmonton's local business directory. Please read before using it.",
   alternates: { canonical: `${SITE.url}/terms` },
 };
 

@@ -1,10 +1,10 @@
 ---
 name: "Photographers"
 slug: "photographers"
-description: "Wedding, family, brand and event photographers in Edmonton."
+description: "Wedding, family, brand, event, headshot and real estate photographers across Edmonton."
 icon: "camera"
-seo_title: "Best Photographers in Edmonton | WhereToYEG"
-seo_description: "Wedding, family, brand, event, portrait and real-estate photographers across Edmonton."
+seo_title: "Best Photographers in Edmonton | Wedding, Family & Headshots"
+seo_description: "Find photographers in Edmonton for weddings, families and newborns, headshots, events, products and real estate. Compare by Google rating, reviews and photos."
 seo_keywords:
   - "photographer Edmonton"
   - "wedding photographer Edmonton"
@@ -22,3 +22,4 @@ subcategories:
   - { name: "Maternity", slug: "maternity" }
   - { name: "Graduation", slug: "graduation" }
 ---
+Look at the portfolio first, then the reviews. Compare Edmonton photographers for weddings, family sessions, headshots, events, products and real estate, ranked by Google rating and review count.

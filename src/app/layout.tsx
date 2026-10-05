@@ -25,13 +25,17 @@ const fraunces = Fraunces({
 
 const OG = "/og.png";
 
+const DEFAULT_TITLE = `Edmonton Business Directory | ${SITE.name}`;
+const DEFAULT_DESCRIPTION =
+  "Find the best restaurants, barbers, dentists, mechanics and things to do in Edmonton, Sherwood Park and St. Albert, with Google ratings, hours and directions.";
+
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
   title: {
-    default: `${SITE.name} — Find the best local businesses in Edmonton`,
-    template: `%s · ${SITE.name}`,
+    default: DEFAULT_TITLE,
+    template: `%s | ${SITE.name}`,
   },
-  description: SITE.description,
+  description: DEFAULT_DESCRIPTION,
   keywords: [
     "Edmonton businesses",
     "Edmonton directory",
@@ -47,8 +51,8 @@ export const metadata: Metadata = {
   creator: SITE.name,
   publisher: SITE.name,
   openGraph: {
-    title: `${SITE.name} — Find the best local businesses in Edmonton`,
-    description: SITE.description,
+    title: DEFAULT_TITLE,
+    description: DEFAULT_DESCRIPTION,
     url: SITE.url,
     siteName: SITE.name,
     type: "website",
@@ -58,14 +62,14 @@ export const metadata: Metadata = {
         url: OG,
         width: 1200,
         height: 630,
-        alt: `${SITE.name} — ${SITE.tagline}`,
+        alt: `${SITE.name}: ${SITE.tagline}`,
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: `${SITE.name} — Find the best local businesses in Edmonton`,
-    description: SITE.description,
+    title: DEFAULT_TITLE,
+    description: DEFAULT_DESCRIPTION,
     images: [OG],
   },
   icons: {

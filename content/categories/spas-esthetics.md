@@ -1,10 +1,10 @@
 ---
 name: "Spas & Esthetics"
 slug: "spas-esthetics"
-description: "Facials, waxing, laser, massage and full-service spas in Edmonton."
+description: "Facials, waxing, laser, massage and full service day spas across Edmonton."
 icon: "leaf"
-seo_title: "Best Spas & Esthetics in Edmonton | WhereToYEG"
-seo_description: "Edmonton spas and esthetics — facials, waxing, laser hair removal, hydrafacials, and full-service treatments."
+seo_title: "Best Spas in Edmonton | Facials, Massage & Day Spas"
+seo_description: "Find the best spas in Edmonton for facials, massage, waxing, laser hair removal and medical spa treatments. Compare day spas by Google rating and photos."
 seo_keywords:
   - "best spa Edmonton"
   - "facial Edmonton"
@@ -24,3 +24,4 @@ subcategories:
   - { name: "Massage", slug: "massage" }
   - { name: "Medical Spas", slug: "medspa" }
 ---
+Book a facial, a massage, or a full spa day. Compare Edmonton spas and esthetics studios for facials, waxing, laser hair removal and medical spa treatments, ranked by Google rating and review count.

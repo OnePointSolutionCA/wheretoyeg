@@ -3,8 +3,8 @@ name: "Hair Salons"
 slug: "hair-salons"
 description: "Colour specialists, curl experts, cuts and extensions across Edmonton."
 icon: "scissors"
-seo_title: "Best Hair Salons in Edmonton | WhereToYEG"
-seo_description: "Edmonton's top hair salons for balayage, colour, cuts, extensions, keratin treatments and curl care."
+seo_title: "Best Hair Salons in Edmonton | Colour, Cuts & Balayage"
+seo_description: "Find the best hair salons in Edmonton for cuts, colour, balayage, extensions and curly hair. Compare salons by Google rating, with photos, hours and directions."
 seo_keywords:
   - "best hair salon Edmonton"
   - "hair colour Edmonton"
@@ -22,3 +22,4 @@ subcategories:
   - { name: "Bridal Hair", slug: "bridal-hair" }
   - { name: "Blowouts", slug: "blowouts" }
 ---
+Finding a stylist you trust takes time, so let the reviews do some of the work. Compare Edmonton hair salons for cuts, colour, balayage, extensions and curly hair, ranked by Google rating and review count.

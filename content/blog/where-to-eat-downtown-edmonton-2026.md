@@ -19,14 +19,14 @@ If you're an office worker with 45 minutes:
 
 ## Halal lunch options downtown
 
-Downtown Edmonton has strong halal representation. Filter [halal restaurants](/restaurants?amenity=Halal) or hit the shawarma / kebab spots on Jasper Ave.
+Downtown Edmonton has strong halal representation. Filter [halal restaurants](/halal-restaurants) or hit the shawarma / kebab spots on Jasper Ave.
 
 ## Dinner (5pm–9pm)
 
 For a proper sit-down dinner:
 
 - **[Paramount Fine Foods](/restaurants/paramount-fine-foods)** — Not downtown proper but close, premium halal Lebanese, charcoal grills. Good for family dinners.
-Browse all [Edmonton restaurants](/restaurants) and filter by [Halal](/restaurants?amenity=Halal), price, or neighborhood.
+Browse all [Edmonton restaurants](/restaurants) and filter by [Halal](/halal-restaurants), price, or neighborhood.
 
 ## Post-Rogers Place late-night
 

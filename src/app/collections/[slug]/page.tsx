@@ -7,6 +7,7 @@ import { FilterableList } from "@/components/FilterBar";
 import { toCard } from "@/lib/slim";
 import { breadcrumbSchema, JsonLd } from "@/lib/schema-extra";
 import { SITE } from "@/lib/site";
+import { fitTitle, metaDescription } from "@/lib/seo";
 
 export const revalidate = 3600;
 
@@ -17,12 +18,22 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
   const c = getCollectionBySlug(params.slug);
   if (!c) return {};
-  const title = `${c.title} in Edmonton — ${c.headline} | WhereToYEG`;
+  const count = getBusinessesForCollection(c, getBusinesses()).length;
+  const title = fitTitle([
+    `${c.title} in Edmonton | ${c.headline} | WhereToYEG`,
+    `${c.title} in Edmonton | ${c.headline}`,
+    `${c.title} in Edmonton | ${count} Spots`,
+    `${c.title} in Edmonton`,
+  ]);
+  const description = metaDescription(
+    [c.description, `${count} Edmonton spots, sorted by Google rating.`],
+    ["Hours, photos and directions for each one.", "Hours and directions for each one.", "Free to browse.", "No sign up."],
+  );
   return {
     title: { absolute: title },
-    description: c.description,
+    description,
     alternates: { canonical: `${SITE.url}/collections/${c.slug}` },
-    openGraph: { title, description: c.description, images: ["/og.png"] },
+    openGraph: { title, description, images: ["/og.png"] },
   };
 }
 

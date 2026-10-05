@@ -37,4 +37,4 @@ A good halal butcher makes the difference between an average dinner and one peop
 
 ## Related
 
-Browse all Edmonton [halal restaurants](/restaurants?amenity=Halal), [grocery markets](/grocery-markets), and [Middle Eastern groceries](/grocery-markets/middle-eastern) on WhereToYEG.
+Browse all Edmonton [halal restaurants](/halal-restaurants), [grocery markets](/grocery-markets), and [Middle Eastern groceries](/grocery-markets/middle-eastern) on WhereToYEG.

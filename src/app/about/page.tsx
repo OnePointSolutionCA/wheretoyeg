@@ -3,9 +3,9 @@ import Link from "next/link";
 import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "About WhereToYEG",
+  title: { absolute: "About WhereToYEG | Edmonton's Local Business Directory" },
   description:
-    "WhereToYEG is a local discovery directory built to make Edmonton easier and more exciting to explore.",
+    "WhereToYEG is a free directory of businesses in Edmonton and nearby towns, built for people who live, work and eat here. See how it works and list your spot.",
   alternates: { canonical: `${SITE.url}/about` },
 };
 

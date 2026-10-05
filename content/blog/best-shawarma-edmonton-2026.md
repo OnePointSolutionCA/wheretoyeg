@@ -53,4 +53,4 @@ Every shawarma shop in this guide is halal. If halal certification matters to yo
 
 - [Edmonton's Halal Smash Burger Scene](/blog/edmonton-halal-smash-burgers)
 - [Halal Meat Markets in Edmonton](/blog/halal-meat-markets-edmonton)
-- Browse all [Edmonton restaurants](/restaurants) or filter by [Halal](/restaurants?amenity=Halal)
+- Browse all [Edmonton restaurants](/restaurants) or filter by [Halal](/halal-restaurants)

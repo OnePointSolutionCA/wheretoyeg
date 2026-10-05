@@ -9,6 +9,7 @@ import { breadcrumbSchema, JsonLd } from "@/lib/schema-extra";
 import { BusinessCard } from "@/components/BusinessCard";
 import { RelatedGuides } from "@/components/RelatedGuides";
 import { SITE } from "@/lib/site";
+import { fitTitle, metaDescription } from "@/lib/seo";
 
 export const revalidate = 3600;
 
@@ -20,11 +21,20 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   const p = getBlogPost(params.slug);
   if (!p) return {};
   const cover = postCover(p);
+  // Titles and descriptions written in frontmatter can carry dashes or run long; fit them to the template.
+  const brandless = (t: string) => t.replace(/\s*\|\s*WhereToYEG\s*$/i, "");
+  const head = (t: string) => t.split(/\s+[—–-]\s+/)[0];
+  const title = fitTitle(
+    [p.seoTitle, p.seoTitle && brandless(p.seoTitle), `${p.title} | WhereToYEG`, p.title, p.seoTitle && head(brandless(p.seoTitle)), head(p.title)].filter(
+      (t): t is string => !!t,
+    ),
+  );
+  const description = metaDescription([p.description], ["A local guide from the WhereToYEG team.", "A local guide from WhereToYEG.", "Read the full guide.", "A local guide."]);
   return {
-    title: p.seoTitle ? { absolute: p.seoTitle } : p.title,
-    description: p.description,
+    title: { absolute: title },
+    description,
     alternates: { canonical: `${SITE.url}/blog/${p.slug}` },
-    openGraph: { title: p.title, description: p.description, type: "article", publishedTime: p.publishedDate, images: [cover] },
+    openGraph: { title, description, type: "article", publishedTime: p.publishedDate, images: [cover] },
   };
 }
 

@@ -23,7 +23,7 @@ Pizza is one of those things Edmonton has quietly gotten good at. The city has p
 
 **[Checkers Pizza & Kabab](/restaurants/checkers-pizza-kabab)** on Whyte Ave — halal pizzeria that also does kebabs and karahi. 16+ years on the strip. 4.3 stars over 290 reviews.
 
-Browse all [pizza spots in Edmonton](/restaurants/pizza) or filter [restaurants by Halal](/restaurants?amenity=Halal).
+Browse all [pizza spots in Edmonton](/restaurants/pizza) or filter [restaurants by Halal](/halal-restaurants).
 
 ## Pizza styles — what to order
 
@@ -59,5 +59,5 @@ Every restaurant profile on WhereToYEG links directly to Uber Eats, DoorDash, an
 ## Related reading
 
 - [Best halal smash burgers in Edmonton](/blog/edmonton-halal-smash-burgers)
-- [Best restaurants in Edmonton — Halal-only filter](/restaurants?amenity=Halal)
+- [Best restaurants in Edmonton — Halal-only filter](/halal-restaurants)
 - [Late-Night Eats collection](/collections/late-night-eats)

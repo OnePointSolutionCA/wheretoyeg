@@ -1,10 +1,10 @@
 ---
 name: "Cafes & Coffee Shops"
 slug: "cafes-coffee-shops"
-description: "Independent cafes worth showing up early for — espresso, pour-over, laptop-friendly nooks."
+description: "Independent cafes worth showing up early for: espresso, pour over, bubble tea and laptop friendly corners."
 icon: "coffee"
-seo_title: "Best Cafes & Coffee Shops in Edmonton | WhereToYEG"
-seo_description: "Edmonton's best independent cafes. Espresso, pour-over, boba, dessert cafes and quiet spots to work — hand-picked across YEG."
+seo_title: "Best Coffee Shops & Cafes in Edmonton | Local Favourites"
+seo_description: "Find the best coffee shops in Edmonton: espresso bars, roasters, bubble tea, dessert cafes and quiet spots to work, ranked by Google rating, with hours."
 seo_keywords:
   - "best cafes Edmonton"
   - "coffee shop Edmonton"
@@ -28,3 +28,4 @@ subcategories:
   - { name: "Gaming & Internet Cafes", slug: "internet-cafe" }
   - { name: "Vegan Cafes", slug: "vegan" }
 ---
+Need a quiet table to work, a proper flat white, or bubble tea with friends? We list coffee shops and cafes across Edmonton and nearby towns, ranked by Google rating and review count. Use the Open now filter to find one that's still serving.

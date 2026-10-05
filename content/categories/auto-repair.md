@@ -1,10 +1,10 @@
 ---
 name: "Auto Repair"
 slug: "auto-repair"
-description: "Independent mechanics, collision repair, and specialty shops across Edmonton."
+description: "Independent mechanics, collision repair, tires, glass and specialty shops across Edmonton."
 icon: "car"
-seo_title: "Best Auto Repair Shops in Edmonton | WhereToYEG"
-seo_description: "Edmonton auto repair — independent mechanics, collision, tires, transmission, detailing and specialty shops."
+seo_title: "Best Auto Repair Shops in Edmonton | Mechanics Near You"
+seo_description: "Find a good mechanic in Edmonton. Compare auto repair shops, collision centres, tire shops, oil change spots and car washes by Google rating, with hours."
 seo_keywords:
   - "auto repair Edmonton"
   - "mechanic Edmonton"
@@ -25,3 +25,4 @@ subcategories:
   - { name: "Car Washes", slug: "car-wash" }
   - { name: "Windshield & Auto Glass", slug: "windshield" }
 ---
+A good mechanic is worth driving across town for. Compare general repair shops, collision centres, tire and glass shops, and specialists for European and Japanese cars, all ranked by Google rating and review count. Read the reviews, then call ahead for a quote.

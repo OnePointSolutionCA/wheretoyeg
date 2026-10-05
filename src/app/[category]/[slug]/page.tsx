@@ -30,8 +30,23 @@ import { businessSchema } from "@/lib/schema";
 import { breadcrumbSchema, JsonLd } from "@/lib/schema-extra";
 import { deliveryLinks } from "@/lib/delivery";
 import { SITE } from "@/lib/site";
-import { placeLabel } from "@/lib/place";
+import { areaSlug, placeLabel } from "@/lib/place";
 import { toCard } from "@/lib/slim";
+import { ListingIndex } from "@/components/ListingIndex";
+import { AreaHub, areaHubMetadata } from "@/components/AreaHub";
+import { itemListSchema } from "@/lib/schema-extra";
+import {
+  HUB_MIN,
+  allHubs,
+  areaFromSlug,
+  byRank,
+  duplicateCanonicals,
+  hubCount,
+  hubHref,
+  hubsForCategory,
+  namePlaceCount,
+} from "@/lib/areas";
+import { CATEGORY_HEADING, CATEGORY_PLURAL, TITLE_MAX, businessType, fitTitle, metaDescription, nf, titleCase } from "@/lib/seo";
 import { clip } from "@/lib/text";
 
 const FOOD_CATEGORIES = new Set(["restaurants", "cafes-coffee-shops", "bakeries", "catering", "grocery-markets"]);
@@ -54,6 +69,10 @@ export async function generateStaticParams() {
       params.push({ category: c.slug, slug: s.slug });
     }
   }
+  // Category hubs per area, e.g. /restaurants/sherwood-park
+  for (const h of allHubs()) {
+    if (!h.sub) params.push({ category: h.category, slug: areaSlug(h.area) });
+  }
   // Business detail URLs (every business, not just premium)
   for (const b of getBusinesses()) {
     params.push({ category: b.category, slug: b.slug });
@@ -61,17 +80,40 @@ export async function generateStaticParams() {
   return params;
 }
 
+/** A category's listings in one named area, when there are enough for a hub page. */
+function areaHub(categorySlug: string, slug: string) {
+  const area = areaFromSlug(slug);
+  if (!area) return null;
+  const businesses = getBusinessesByCategory(categorySlug).filter((b) => b.neighborhood === area);
+  return businesses.length >= HUB_MIN ? { area, businesses } : null;
+}
+
 export async function generateMetadata({ params }: { params: { category: string; slug: string } }): Promise<Metadata> {
   const cat = getCategoryBySlug(params.category);
   if (!cat) return {};
   const sub = getSubcategory(params.category, params.slug);
   if (sub) {
-    const label = subLabel(cat.slug, sub.name);
-    const count = getBusinessesBySubcategory(cat.slug, sub.slug).length;
-    const title = `Best ${label} in Edmonton | ${label} near me`;
-    const desc = clip(`Find the best ${subNoun(cat.slug, sub.name)} in Edmonton${count ? `: ${count} local spots ranked by Google rating` : ""}. Hours, addresses, photos, and directions on WhereToYEG.`, 158);
+    const label = subLabel(cat.slug, sub.name, sub.slug);
+    const noun = subNoun(cat.slug, sub.name, sub.slug);
+    const list = getBusinessesBySubcategory(cat.slug, sub.slug);
+    const count = list.length;
+    const title = fitTitle([
+      `Best ${label} in Edmonton | ${count} Spots Near Me | WhereToYEG`,
+      `Best ${label} in Edmonton | ${count} Spots Near Me`,
+      `Best ${label} in Edmonton (${count} Spots)`,
+      `Best ${label} in Edmonton`,
+      `${label} in Edmonton`,
+    ]);
+    const top = [...list].filter((b) => b.rating > 0 && b.review_count >= 10).sort(byRank).slice(0, 2);
+    const desc = metaDescription(
+      [
+        `Looking for ${noun} near me in Edmonton? Compare ${count} local ${count === 1 ? "spot" : "spots"} ranked by Google rating, with hours, photos and directions.`,
+        top.length === 2 ? `Top rated: ${top[0].name} and ${top[1].name}.` : "",
+      ],
+      ["Filter by price, rating or open now.", "Filter by rating or open now.", "Filter by open now.", "Free to browse.", "No sign up."],
+    );
     return {
-      title,
+      title: { absolute: title },
       description: desc,
       keywords: [
         `best ${sub.name.toLowerCase()} Edmonton`,
@@ -81,23 +123,70 @@ export async function generateMetadata({ params }: { params: { category: string;
       ],
       alternates: { canonical: `${SITE.url}/${cat.slug}/${sub.slug}` },
       openGraph: { title, description: desc, images: [`/photos/_hero/${cat.slug}.jpg`] },
-      ...(count === 0 ? { robots: { index: false, follow: true } } : {}),
+      // Pages with only one or two listings are too thin to index until more are added.
+      ...(count < 3 ? { robots: { index: false, follow: true } } : {}),
     };
   }
+  const hub = areaHub(cat.slug, params.slug);
+  if (hub) return areaHubMetadata({ category: cat, area: hub.area, businesses: hub.businesses });
   const b = getBusiness(params.slug);
   if (!b) return {};
-  const subName = b.subcategory
-    ? cat.subcategories?.find((s) => s.slug === b.subcategory)?.name
-    : undefined;
+  const subObj = b.subcategory ? cat.subcategories?.find((s) => s.slug === b.subcategory) : undefined;
+  const subName = subObj?.name;
   const service = subName || cat.name;
+  const type = businessType(cat.slug, subObj);
   const place = placeLabel(b.neighborhood);
-  const title = `${b.name} — ${service} in ${place}`;
-  const desc = clip(
-    b.description.startsWith(b.name) ? b.description : `${b.name}: ${service.toLowerCase()} in ${place}. ${b.description}`,
-    158,
+  // Two branches with the same name in the same area get their street in the title.
+  const streetLine = (b.address ?? "").split(",")[0].trim();
+  const branch = namePlaceCount(b) > 1 && streetLine ? streetLine : "";
+  const Type = titleCase(type);
+  const title = fitTitle(
+    branch
+      ? [
+          `${b.name}, ${branch}, ${place} | Reviews & Hours`,
+          `${b.name}, ${branch} | Reviews & Hours`,
+          `${b.name} | ${branch}, ${place}`,
+          `${b.name} | ${branch}`,
+          `${b.name}, ${branch}`,
+          // Very long names: shorten the name, not the street, so each branch keeps a unique title.
+          `${clip(b.name, TITLE_MAX - branch.length - 2)}, ${branch}`,
+        ]
+      : [
+          `${b.name}: ${Type} in ${place} | Reviews & Hours`,
+          `${b.name}, ${place} | Reviews & Hours`,
+          `${b.name}: ${Type} in ${place}`,
+          `${b.name} | ${place}`,
+          b.name,
+          // Very long names: shorten the name, not the area, so the title stays specific.
+          `${clip(b.name, TITLE_MAX - place.length - 2)}, ${place}`,
+        ],
   );
+  const article = /^[aeiou]/i.test(type) ? "an" : "a";
+  const written = !b.generatedDescription && b.description ? b.description : "";
+  const rating =
+    b.rating > 0 && b.review_count > 0
+      ? `Rated ${Number(b.rating).toFixed(1)} stars from ${nf(b.review_count)} Google review${b.review_count === 1 ? "" : "s"}.`
+      : "";
+  const sevenDays = b.hours && Object.values(b.hours).length === 7 && Object.values(b.hours).every((h) => h && !/closed/i.test(h));
+  const desc = metaDescription(
+    [
+      written || `${b.name} is ${article} ${type} in ${place}.`,
+      rating,
+      streetLine && !written ? `Find it at ${streetLine}.` : "",
+      sevenDays ? "Open 7 days a week." : "",
+    ],
+    [
+      "See hours, photos, reviews and directions.",
+      "See photos, reviews and directions.",
+      "See photos and Google reviews.",
+      "See photos and reviews.",
+      "Get directions.",
+      "Call ahead.",
+    ],
+  );
+  const canonicalPath = duplicateCanonicals().get(b.slug) ?? `/${b.category}/${b.slug}`;
   return {
-    title,
+    title: { absolute: title },
     description: desc,
     keywords: [
       `${b.name} Edmonton`,
@@ -106,7 +195,7 @@ export async function generateMetadata({ params }: { params: { category: string;
       `best ${service.toLowerCase()} Edmonton`,
       `${placeLabel(b.neighborhood)} ${service.toLowerCase()}`,
     ],
-    alternates: { canonical: `${SITE.url}/${b.category}/${b.slug}` },
+    alternates: { canonical: `${SITE.url}${canonicalPath}` },
     openGraph: {
       title,
       description: desc,
@@ -124,6 +213,10 @@ export default function CategoryOrBusinessPage({ params }: { params: { category:
   const sub = getSubcategory(params.category, params.slug);
   if (sub) return <SubcategoryView category={cat} sub={sub} />;
 
+  // Category hub for one area, e.g. /restaurants/sherwood-park
+  const hub = areaHub(cat.slug, params.slug);
+  if (hub) return <AreaHub category={cat} area={hub.area} businesses={hub.businesses} />;
+
   // Business detail view?
   const b = getBusiness(params.slug);
   if (b && b.category === params.category) return <BusinessView business={b} category={cat} />;
@@ -138,12 +231,13 @@ function SubcategoryView({ category: c, sub }: { category: ReturnType<typeof get
   const subCounts = countBySubcategory(c.slug);
   const neighborhoods = Array.from(new Set(businesses.map((b) => b.neighborhood))).filter(Boolean).sort();
   const amenities = Array.from(new Set(businesses.flatMap((b) => b.amenities ?? []))).sort();
-  const label = subLabel(c.slug, sub.name);
-  const noun = subNoun(c.slug, sub.name);
+  const label = subLabel(c.slug, sub.name, sub.slug);
+  const noun = subNoun(c.slug, sub.name, sub.slug);
   const rated = businesses.filter((b) => b.rating > 0 && b.review_count > 0);
   const avg = rated.length ? rated.reduce((s, b) => s + Number(b.rating), 0) / rated.length : 0;
   const reviews = rated.reduce((s, b) => s + Number(b.review_count), 0);
   const halal = businesses.filter((b) => b.amenities?.includes("Halal")).length;
+  const areaHubs = hubsForCategory(c.slug, sub.slug);
 
   return (
     <>
@@ -152,6 +246,15 @@ function SubcategoryView({ category: c, sub }: { category: ReturnType<typeof get
         { name: c.name, href: `/${c.slug}` },
         { name: sub.name },
       ])} />
+      {businesses.length > 0 && (
+        <JsonLd
+          data={itemListSchema(
+            `Best ${label} in Edmonton`,
+            `/${c.slug}/${sub.slug}`,
+            [...businesses].sort(byRank).map((b) => ({ name: b.name, href: `/${b.category}/${b.slug}` })),
+          )}
+        />
+      )}
       <section className="relative overflow-hidden bg-teal text-white">
         <Image src={`/photos/_hero/${c.slug}.jpg`} alt="" fill priority sizes="100vw" className="object-cover opacity-50" />
         <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/55 to-black/35" aria-hidden="true" />
@@ -191,6 +294,16 @@ function SubcategoryView({ category: c, sub }: { category: ReturnType<typeof get
               activeSlug={sub.slug}
               counts={subCounts}
             />
+            {areaHubs.length > 0 && (
+              <div className="mt-3 flex items-center gap-2 overflow-x-auto" style={{ scrollbarWidth: "none" }}>
+                <span className="shrink-0 text-xs font-bold uppercase tracking-wider text-teal-300">By area:</span>
+                {areaHubs.map((x) => (
+                  <Link key={x.area} href={x.href} className="chip shrink-0">
+                    {x.area} <span className="text-teal-300">{x.count}</span>
+                  </Link>
+                ))}
+              </div>
+            )}
           </div>
         </section>
       )}
@@ -217,11 +330,17 @@ function SubcategoryView({ category: c, sub }: { category: ReturnType<typeof get
         )}
       </section>
 
+      <ListingIndex businesses={businesses} title={`${label} in Edmonton, A to Z`} className="container-page" />
+
       <div className="mt-10 bg-mist pb-14 pt-2 sm:pb-20">
         <RelatedGuides posts={relatedPosts(c.slug)} title="Related Edmonton guides" />
         <FaqSection
           title={`${label} in Edmonton: FAQ`}
-          items={categoryFaq(c, businesses, { noun, basePath: `/${c.slug}/${sub.slug}` })}
+          items={categoryFaq(c, businesses, {
+            noun,
+            basePath: `/${c.slug}/${sub.slug}`,
+            areaHref: (n) => (hubCount(c.slug, n, sub.slug) >= HUB_MIN ? hubHref(c.slug, n, sub.slug) : undefined),
+          })}
         />
       </div>
     </>
@@ -236,15 +355,33 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
   const subName = b.subcategory
     ? cat.subcategories?.find((s) => s.slug === b.subcategory)?.name
     : undefined;
-  const others = getBusinessesByCategory(cat.slug).filter((x) => x.slug !== b.slug);
-  const similar = [
-    ...others.filter((x) => b.subcategory && x.subcategory === b.subcategory),
-    ...others.filter((x) => x.neighborhood === b.neighborhood && x.subcategory !== b.subcategory),
+  const subObj = b.subcategory ? cat.subcategories?.find((s) => s.slug === b.subcategory) : undefined;
+  const others = getBusinessesByCategory(cat.slug).filter((x) => x.slug !== b.slug && x.name !== b.name);
+  const sameSub = (x: typeof b) => !!b.subcategory && x.subcategory === b.subcategory;
+  const sameArea = (x: typeof b) => x.neighborhood === b.neighborhood;
+  const ordered = [
+    ...others.filter((x) => sameSub(x) && sameArea(x)),
+    ...others.filter((x) => sameSub(x)),
+    ...others.filter((x) => sameArea(x)),
     ...others,
-  ]
-    .filter((x, i, arr) => arr.findIndex((y) => y.slug === x.slug) === i)
-    .slice(0, 3);
+  ].filter((x, i, arr) => arr.findIndex((y) => y.slug === x.slug) === i);
+  const similar = ordered.slice(0, 3);
+  // Plain links to more nearby listings, so every listing is a click or two from its neighbours.
+  const nearby = ordered.slice(3, 11);
   const place = placeLabel(b.neighborhood);
+  const type = businessType(cat.slug, subObj);
+  const namedArea = SITE.neighborhoods.includes(b.neighborhood) ? b.neighborhood : undefined;
+  const exploreLinks = [
+    ...(namedArea && subObj && hubCount(cat.slug, namedArea, subObj.slug) >= HUB_MIN
+      ? [{ label: `${subLabel(cat.slug, subObj.name, subObj.slug)} in ${namedArea}`, href: hubHref(cat.slug, namedArea, subObj.slug) }]
+      : []),
+    ...(namedArea && hubCount(cat.slug, namedArea) >= HUB_MIN
+      ? [{ label: `${CATEGORY_HEADING[cat.slug] ?? cat.name} in ${namedArea}`, href: hubHref(cat.slug, namedArea) }]
+      : []),
+    ...(namedArea ? [{ label: `Everything in ${namedArea}`, href: `/neighborhoods/${areaSlug(namedArea)}` }] : []),
+    ...(subObj ? [{ label: `All ${subLabel(cat.slug, subObj.name, subObj.slug)} in Edmonton`, href: `/${cat.slug}/${subObj.slug}` }] : []),
+    { label: `All ${cat.name} in Edmonton`, href: `/${cat.slug}` },
+  ];
   const delivery = deliveryLinks(b);
   const socials = [
     b.instagram && { label: "Instagram", href: b.instagram },
@@ -328,7 +465,7 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
 
       {/* GALLERY */}
       <section className="container-page mt-6 sm:mt-8">
-        <BusinessGallery photos={b.photos} name={b.name} logo={b.logo} categoryName={cat.name} category={b.category} />
+        <BusinessGallery photos={b.photos} name={b.name} logo={b.logo} categoryName={cat.name} category={b.category} altBase={`${b.name}, ${type} in ${place}`} />
       </section>
 
       {/* BODY */}
@@ -516,6 +653,34 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
           </div>
         </section>
       )}
+
+      <section className="container-page mt-10" data-reveal="up">
+        <div className="grid gap-6 lg:grid-cols-2">
+          {nearby.length > 0 && (
+            <div className="rounded-2xl border border-line bg-mist p-6">
+              <h2 className="font-display text-xl font-bold text-teal">
+                Other {subObj ? subNoun(cat.slug, subObj.name, subObj.slug) : CATEGORY_PLURAL[cat.slug] ?? cat.name.toLowerCase()} to check out
+              </h2>
+              <ul className="mt-3 grid gap-x-6 gap-y-1.5 text-sm sm:grid-cols-2">
+                {nearby.map((x) => (
+                  <li key={x.slug}>
+                    <Link href={`/${x.category}/${x.slug}`} prefetch={false} className="font-medium text-teal hover:text-coral">{x.name}</Link>
+                    <span className="text-teal-300"> · {x.neighborhood}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+          <div className="rounded-2xl border border-line bg-mist p-6">
+            <h2 className="font-display text-xl font-bold text-teal">Explore more like this</h2>
+            <div className="mt-3 flex flex-wrap gap-2">
+              {exploreLinks.map((l) => (
+                <Link key={l.href} href={l.href} className="chip">{l.label}</Link>
+              ))}
+            </div>
+          </div>
+        </div>
+      </section>
 
       <RelatedGuides posts={relatedPosts(b.category)} title="Related Edmonton guides" />
 

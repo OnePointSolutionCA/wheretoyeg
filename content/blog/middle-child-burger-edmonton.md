@@ -1,7 +1,8 @@
 ---
 title: "Middle Child Burger — Edmonton's Trending Halal Smash Burger"
 slug: "middle-child-burger-edmonton"
-description: "Middle Child Burger at 12618 152 Ave NW is one of Edmonton's most talked-about halal smash burger spots. Here's what makes it worth the drive."
+seoTitle: "Middle Child Burger Edmonton: Review, Hours & What to Order"
+description: "Middle Child Burger on 152 Ave NW in North Edmonton makes halal smash burgers and is open 7 days. Our review, the hours, and what to order on your first visit."
 publishedDate: "2026-08-17"
 tags: ["burgers", "halal", "restaurants", "north-edmonton"]
 ---

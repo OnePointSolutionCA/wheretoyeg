@@ -8,9 +8,9 @@ import { AreaTile } from "@/components/AreaTile";
 export const revalidate = 3600;
 
 export const metadata: Metadata = {
-  title: "Edmonton neighborhoods",
+  title: { absolute: "Edmonton Neighborhoods & Nearby Towns | Local Guides" },
   description:
-    "Browse Edmonton neighborhoods: Downtown, Whyte Ave, 124 Street, Mill Woods, Windermere, Sherwood Park and more. Find the best local businesses near you.",
+    "Browse local businesses by area: Downtown, Whyte Ave, 124 Street, Mill Woods and Windermere, plus Sherwood Park, St. Albert, Spruce Grove, Leduc and more.",
   alternates: { canonical: `${SITE.url}/neighborhoods` },
 };
 

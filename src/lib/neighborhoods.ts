@@ -1,8 +1,9 @@
 import type { Business } from "./types";
 import { getBusinesses, getCategories } from "./content";
 import { AREA_PHOTOS } from "./areaPhotos";
+import { areaSlug } from "./place";
 
-export const neighborhoodSlug = (s: string) => s.toLowerCase().replace(/\s+/g, "-");
+export const neighborhoodSlug = areaSlug;
 
 const score = (b: Business) => {
   const v = Number(b.review_count) || 0;

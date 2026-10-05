@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy",
-  description: "WhereToYEG privacy policy. Learn how Edmonton's local business directory handles your data — no accounts, no tracking cookies, no data sales.",
+  title: { absolute: "Privacy Policy | WhereToYEG" },
+  description: "The WhereToYEG privacy policy: how Edmonton's local business directory handles your data. No accounts, no tracking cookies and no data sales. Read the details.",
   alternates: { canonical: `${SITE.url}/privacy` },
 };
 

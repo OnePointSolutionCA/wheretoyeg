@@ -1,10 +1,10 @@
 ---
 name: "Restaurants"
 slug: "restaurants"
-description: "Edmonton's dining scene, from patio brunch on Whyte to late-night eats downtown."
+description: "Edmonton's dining scene, from patio brunch on Whyte Ave to late night eats downtown."
 icon: "utensils"
-seo_title: "Best Restaurants in Edmonton — Halal, Shawarma, Pizza & More | WhereToYEG"
-seo_description: "Find the best restaurants in Edmonton. Halal, shawarma, burgers, Mediterranean, Pakistani, pizza, brunch, biryani and more across YEG. Filter by cuisine, neighborhood, and price."
+seo_title: "Best Restaurants in Edmonton | Halal, Pizza, Shawarma & More"
+seo_description: "Find the best restaurants in Edmonton and nearby towns: halal, shawarma, Pakistani, pizza, burgers and brunch, ranked by Google rating with hours and maps."
 seo_keywords:
   - "best restaurants Edmonton"
   - "restaurants near me Edmonton"
@@ -67,4 +67,4 @@ subcategories:
   - { name: "Ice Cream", slug: "ice-cream" }
   - { name: "Uyghur", slug: "uyghur" }
 ---
-Whether you're looking for a first-date spot on Jasper Ave or a low-key patio in Old Strathcona, Edmonton's restaurant scene has serious range. Browse independently owned kitchens across the city, filtered by cuisine, neighborhood, and price.
+Looking for a first date spot on Jasper Ave or a quick shawarma after work? Every restaurant here is ranked by Google rating and review count, so the places people keep going back to rise to the top. Filter by cuisine, area, price or what's open right now.

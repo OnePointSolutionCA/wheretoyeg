@@ -1,10 +1,10 @@
 ---
 name: "Professional Services"
 slug: "professional-services"
-description: "Lawyers, accountants, marketing agencies, notaries and other Edmonton professional services."
+description: "Lawyers, accountants, marketing agencies, notaries and other professional services in Edmonton."
 icon: "briefcase"
-seo_title: "Professional Services in Edmonton | WhereToYEG"
-seo_description: "Edmonton lawyers, accountants, marketing agencies, notaries, immigration consultants and financial advisors."
+seo_title: "Edmonton Lawyers, Accountants & Professional Services"
+seo_description: "Find lawyers, accountants, immigration consultants, notaries, realtors, mortgage brokers and more in Edmonton, ranked by Google rating and reviews."
 seo_keywords:
   - "lawyer Edmonton"
   - "accountant Edmonton"
@@ -28,3 +28,4 @@ subcategories:
   - { name: "Tutoring", slug: "tutoring" }
   - { name: "Security Services", slug: "security-services" }
 ---
+From a notary for a quick signature to an accountant at tax time, find local professionals here. Compare Edmonton law offices, accountants, immigration consultants, realtors, mortgage brokers and more by Google rating and review count.

@@ -26,7 +26,7 @@ Pakistani food in Edmonton has come into its own. What used to be a handful of I
 
 **[Checkers Pizza & Kabab](/restaurants/checkers-pizza-kabab)** — Halal pizzeria that also does kebabs and karahi. Old Strathcona institution for 16+ years.
 
-Browse all [Pakistani restaurants in Edmonton](/restaurants/pakistani) or filter [Halal restaurants](/restaurants?amenity=Halal).
+Browse all [Pakistani restaurants in Edmonton](/restaurants/pakistani) or filter [Halal restaurants](/halal-restaurants).
 
 ## What to order the first time
 
@@ -57,4 +57,4 @@ Chapli kebab is Pashtun, not strictly Pakistani, but the best ones in Edmonton a
 - [Best Shawarma in Edmonton](/blog/best-shawarma-edmonton-2026)
 - [Halal Meat Markets in Edmonton](/blog/halal-meat-markets-edmonton)
 - [Edmonton's Halal Smash Burger Scene](/blog/edmonton-halal-smash-burgers)
-- Browse all [Edmonton restaurants](/restaurants) filtered by [Halal](/restaurants?amenity=Halal)
+- Browse all [Edmonton restaurants](/restaurants) filtered by [Halal](/halal-restaurants)

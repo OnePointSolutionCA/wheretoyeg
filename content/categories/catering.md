@@ -1,10 +1,10 @@
 ---
 name: "Catering"
 slug: "catering"
-description: "Wedding, corporate, private event caterers who show up and deliver."
+description: "Wedding, corporate and private event caterers across Edmonton, including halal catering."
 icon: "utensils"
-seo_title: "Catering in Edmonton | WhereToYEG"
-seo_description: "Edmonton catering companies for weddings, corporate events, private gatherings, and halal catering — vetted local caterers."
+seo_title: "Catering in Edmonton | Halal, Wedding & Corporate Caterers"
+seo_description: "Find caterers in Edmonton for weddings, office lunches, private parties and halal events. Compare local catering companies by Google rating and reviews."
 seo_keywords:
   - "catering Edmonton"
   - "wedding catering Edmonton"
@@ -22,3 +22,4 @@ subcategories:
   - { name: "Event Catering", slug: "event-catering" }
   - { name: "Indian Catering", slug: "indian-catering" }
 ---
+Planning a wedding, an office lunch or a family get together? Compare Edmonton caterers by Google rating and reviews, then reach out directly for menus and quotes. Look for the Halal tag if you need a halal menu.

@@ -11,8 +11,9 @@ const nextConfig = {
   async redirects() {
     return [
       {
-        source: "/halal-restaurants",
-        destination: "/restaurants?amenity=Halal",
+        // Old neighborhood slug kept its period; new URLs drop it.
+        source: "/neighborhoods/st.-albert",
+        destination: "/neighborhoods/st-albert",
         permanent: true,
       },
       {

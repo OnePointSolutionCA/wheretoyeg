@@ -11,7 +11,7 @@ Edmonton's halal food scene has quietly become one of the strongest in Canada. F
 
 ## Where to start on WhereToYEG
 
-- All [halal-certified restaurants](/restaurants?amenity=Halal) filtered in one place
+- All [halal-certified restaurants](/halal-restaurants) filtered in one place
 - The [Halal Foodie Tour collection](/collections/halal-foodie-tour) with our top-rated picks
 - The [Middle Eastern Favourites collection](/collections/middle-eastern-favourites) for Lebanese, Palestinian, Syrian, and Afghan food
 
@@ -94,7 +94,7 @@ For cooking at home. See the full [Halal Meat Markets guide](/blog/halal-meat-ma
 - **Halal-friendly** — restaurant serves some halal options but the kitchen isn't fully halal. Usually seafood and vegetarian dishes are safe.
 - **Not halal** — obvious, but ask if you're unsure.
 
-On WhereToYEG, use the [Halal filter](/restaurants?amenity=Halal) — only businesses that list Halal in their amenities show up.
+On WhereToYEG, use the [Halal filter](/halal-restaurants) — only businesses that list Halal in their amenities show up.
 
 ## Halal by neighborhood
 

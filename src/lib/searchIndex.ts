@@ -2,7 +2,9 @@ import type { SearchIndexItem } from "@/components/HeroSearch";
 import { getBusinesses, getCategories } from "./content";
 import { SITE } from "./site";
 
-const toSlug = (s: string) => s.toLowerCase().replace(/\s+/g, "-");
+import { areaSlug } from "./place";
+
+const toSlug = areaSlug;
 
 export function buildSearchIndex(): SearchIndexItem[] {
   const cats = getCategories();

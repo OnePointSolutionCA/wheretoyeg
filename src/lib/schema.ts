@@ -58,6 +58,11 @@ function parseHoursSpec(hours: Hours | undefined) {
   return specs;
 }
 
+/**
+ * LocalBusiness markup for a listing page.
+ * Ratings and reviews come from Google Maps, so they are shown on the page but left out of the markup:
+ * Google's review snippet rules don't allow marking up ratings collected on another site.
+ */
 export function businessSchema(b: Business) {
   const schemaType = CATEGORY_TYPE[b.category] || "LocalBusiness";
   const sameAs: string[] = [];
@@ -70,12 +75,15 @@ export function businessSchema(b: Business) {
   const hoursSpec = parseHoursSpec(b.hours);
   const { locality, postalCode } = parseAddress(b.address);
 
+  const pageUrl = `${SITE.url}/${b.category}/${b.slug}`;
+
   return {
     "@context": "https://schema.org",
     "@type": schemaType,
+    "@id": `${pageUrl}#business`,
     name: b.name,
     description: b.description,
-    url: `${SITE.url}/${b.category}/${b.slug}`,
+    url: pageUrl,
     address: {
       "@type": "PostalAddress",
       streetAddress: b.address,
@@ -91,30 +99,8 @@ export function businessSchema(b: Business) {
     ...(b.logo ? { logo: `${SITE.url}${b.logo}` } : {}),
     ...(b.photos?.length ? { image: `${SITE.url}${b.photos[0]}` } : {}),
     priceRange: b.price_range,
-    areaServed: { "@type": "City", name: "Edmonton" },
+    areaServed: { "@type": "City", name: locality },
     ...(sameAs.length ? { sameAs } : {}),
     ...(hoursSpec.length ? { openingHoursSpecification: hoursSpec } : {}),
-    ...(b.rating && b.review_count
-      ? {
-          aggregateRating: {
-            "@type": "AggregateRating",
-            ratingValue: b.rating,
-            reviewCount: b.review_count,
-            bestRating: "5",
-            worstRating: "1",
-          },
-        }
-      : {}),
-    ...(b.reviews?.length
-      ? {
-          review: b.reviews.map((r) => ({
-            "@type": "Review",
-            author: { "@type": "Person", name: r.name },
-            datePublished: r.date,
-            reviewRating: { "@type": "Rating", ratingValue: r.rating },
-            reviewBody: r.comment,
-          })),
-        }
-      : {}),
   };
 }

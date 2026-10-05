@@ -15,6 +15,24 @@ export function breadcrumbSchema(links: BreadcrumbLink[]) {
   };
 }
 
+/** ItemList for list pages (summary style: each item links to its own listing page). */
+export function itemListSchema(name: string, path: string, items: { name: string; href: string }[], max = 30) {
+  const list = items.slice(0, max);
+  return {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name,
+    url: `${SITE.url}${path}`,
+    numberOfItems: list.length,
+    itemListElement: list.map((it, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      name: it.name,
+      url: it.href.startsWith("http") ? it.href : `${SITE.url}${it.href}`,
+    })),
+  };
+}
+
 export type FaqItem = { q: string; a: string };
 
 export function faqSchema(items: FaqItem[]) {

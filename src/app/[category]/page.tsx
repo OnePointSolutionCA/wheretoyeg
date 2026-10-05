@@ -11,7 +11,10 @@ import { BusinessCard } from "@/components/BusinessCard";
 import { Card3D } from "@/components/Card3D";
 import { FilterableList } from "@/components/FilterBar";
 import { SubcategoryPills } from "@/components/SubcategoryPills";
-import { breadcrumbSchema, JsonLd } from "@/lib/schema-extra";
+import { breadcrumbSchema, itemListSchema, JsonLd } from "@/lib/schema-extra";
+import { ListingIndex } from "@/components/ListingIndex";
+import { HUB_MIN, byRank, hubCount, hubHref, hubsForCategory } from "@/lib/areas";
+import { CATEGORY_PLURAL, fitTitle, metaDescription } from "@/lib/seo";
 import { FaqSection } from "@/components/FaqSection";
 import { RelatedGuides } from "@/components/RelatedGuides";
 import { categoryFaq } from "@/lib/faq";
@@ -29,10 +32,17 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: { params: { category: string } }): Promise<Metadata> {
   const c = getCategoryBySlug(params.category);
   if (!c) return {};
-  const title = c.seo_title || `Best ${c.name} in Edmonton | ${c.name} near me`;
-  const desc = c.seo_description || `${c.description} Find the best ${c.name.toLowerCase()} across Edmonton — hours, addresses, ratings and directions.`;
+  const count = getBusinessesByCategory(c.slug).length;
+  const noun = CATEGORY_PLURAL[c.slug] ?? c.name.toLowerCase();
+  const title = fitTitle([c.seo_title ?? "", `Best ${c.name} in Edmonton | ${count} Local Spots`, `Best ${c.name} in Edmonton`].filter(Boolean));
+  const desc = c.seo_description
+    ? metaDescription([c.seo_description])
+    : metaDescription(
+        [`Find the best ${noun} in Edmonton. Compare ${count} local spots by Google rating, with hours, photos and directions.`],
+        ["Filter by area, price or open now.", "Free to browse."],
+      );
   return {
-    title: c.seo_title ? { absolute: c.seo_title } : title,
+    title: { absolute: title },
     description: desc,
     keywords: [
       ...(c.seo_keywords || []),
@@ -85,6 +95,8 @@ export default function CategoryPage({ params }: { params: { category: string } 
   const avgRating = rated.length ? rated.reduce((s, b) => s + Number(b.rating), 0) / rated.length : 0;
   const totalReviews = rated.reduce((s, b) => s + Number(b.review_count), 0);
   const halalCount = businesses.filter((b) => b.amenities?.includes("Halal")).length;
+  const areaHubs = hubsForCategory(c.slug);
+  const noun = CATEGORY_PLURAL[c.slug] ?? c.name.toLowerCase();
 
   return (
     <>
@@ -92,6 +104,13 @@ export default function CategoryPage({ params }: { params: { category: string } 
         { name: "Home", href: "/" },
         { name: c.name },
       ])} />
+      <JsonLd
+        data={itemListSchema(
+          `Best ${c.name} in Edmonton`,
+          `/${c.slug}`,
+          [...businesses].sort(byRank).map((b) => ({ name: b.name, href: `/${b.category}/${b.slug}` })),
+        )}
+      />
       {/* Photo hero */}
       <section className="relative overflow-hidden text-white">
         {heroPhoto ? (
@@ -138,10 +157,20 @@ export default function CategoryPage({ params }: { params: { category: string } 
               counts={subCounts}
             />
           )}
+          {areaHubs.length > 0 && (
+            <div className="mt-3 flex items-center gap-2 overflow-x-auto" style={{ scrollbarWidth: "none" }}>
+              <span className="shrink-0 text-xs font-bold uppercase tracking-wider text-teal-300">By area:</span>
+              {areaHubs.map((x) => (
+                <Link key={x.area} href={x.href} className="chip shrink-0">
+                  {x.area} <span className="text-teal-300">{x.count}</span>
+                </Link>
+              ))}
+            </div>
+          )}
           {c.slug === "restaurants" && (
             <div className="mt-3">
               <Link
-                href="/restaurants?amenity=Halal"
+                href="/halal-restaurants"
                 className="inline-flex items-center gap-2 rounded-full border border-coral bg-coral/10 px-4 py-2 text-sm font-bold text-coral transition hover:bg-coral hover:text-white"
               >
                 <span aria-hidden>🥩</span>
@@ -195,9 +224,18 @@ export default function CategoryPage({ params }: { params: { category: string } 
         )}
       </section>
 
+      <ListingIndex businesses={businesses} title={`Every listing in ${c.name}, A to Z`} className="container-page" />
+
       <div className="mt-16 bg-mist pb-14 pt-2 sm:pb-20">
         <RelatedGuides posts={relatedPosts(c.slug)} title="Related Edmonton guides" />
-        <FaqSection title={`${c.name} in Edmonton: FAQ`} items={categoryFaq(c, businesses)} />
+        <FaqSection
+          title={`${c.name} in Edmonton: FAQ`}
+          items={categoryFaq(c, businesses, {
+            noun,
+            areaHref: (n) => (hubCount(c.slug, n) >= HUB_MIN ? hubHref(c.slug, n) : undefined),
+            ...(c.slug === "restaurants" ? { halalHref: "/halal-restaurants" } : {}),
+          })}
+        />
       </div>
 
       {/* OnePoint Solutions subtle CTA */}
@@ -220,7 +258,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
         <div className="rounded-2xl border border-line bg-mist p-6">
           <p className="eyebrow">Also on WhereToYEG</p>
           <div className="mt-3 flex flex-wrap gap-2">
-            {getCategories().filter((x) => x.slug !== c.slug).slice(0, 10).map((x) => (
+            {getCategories().filter((x) => x.slug !== c.slug).map((x) => (
               <Link key={x.slug} href={`/${x.slug}`} className="chip">
                 {x.name}
               </Link>

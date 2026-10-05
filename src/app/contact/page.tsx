@@ -3,8 +3,8 @@ import { ContactForm } from "@/components/ContactForm";
 import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Contact",
-  description: `Get in touch with the ${SITE.name} team.`,
+  title: { absolute: "Contact WhereToYEG | Suggest a Business or Fix a Listing" },
+  description: "Have a question, a business we should add, or a listing that needs fixing? Send the WhereToYEG team a message and we'll get back to you as soon as we can.",
   alternates: { canonical: `${SITE.url}/contact` },
 };
 

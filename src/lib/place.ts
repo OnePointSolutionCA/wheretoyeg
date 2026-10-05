@@ -12,6 +12,27 @@ const OUTSIDE_EDMONTON = new Set([
   "Nisku",
 ]);
 
+/** URL slug for a neighborhood or town. Drops periods so "St. Albert" becomes "st-albert". */
+export function areaSlug(name: string): string {
+  return name.toLowerCase().replace(/\./g, "").replace(/\s+/g, "-");
+}
+
+/** True for the towns around Edmonton (Sherwood Park, St. Albert, Leduc...). */
+export function isOutsideEdmonton(neighborhood?: string): boolean {
+  return OUTSIDE_EDMONTON.has((neighborhood ?? "").trim());
+}
+
+/**
+ * Short place name for titles and headings, the way people search it:
+ * "Sherwood Park", "Downtown Edmonton", "Mill Woods, Edmonton", "West Edmonton".
+ */
+export function areaTitle(neighborhood: string): string {
+  const n = neighborhood.trim();
+  if (OUTSIDE_EDMONTON.has(n) || /edmonton/i.test(n)) return n;
+  if (n === "Downtown") return "Downtown Edmonton";
+  return `${n}, Edmonton`;
+}
+
 /** Human place name for titles/copy: avoids "Edmonton, Edmonton" and mislabelling nearby towns as Edmonton. */
 export function placeLabel(neighborhood?: string): string {
   const n = (neighborhood ?? "").trim();

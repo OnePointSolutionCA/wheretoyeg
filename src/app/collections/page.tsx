@@ -5,8 +5,8 @@ import { getBusinesses } from "@/lib/content";
 import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: { absolute: "Curated Collections — Edmonton Spots for Every Vibe | WhereToYEG" },
-  description: "Late-night eats, weekend brunch, date night, halal foodie tour, self-care Saturdays, hidden gems — the WhereToYEG curated collections.",
+  title: { absolute: "Edmonton Collections | Late Night Eats, Brunch & Date Night" },
+  description: "Handpicked Edmonton lists for every plan: late night eats, weekend brunch, date night, a halal foodie tour, self-care Saturdays and hidden gems worth a visit.",
   alternates: { canonical: `${SITE.url}/collections` },
 };
 

@@ -1,10 +1,10 @@
 ---
 name: "Medical Care"
 slug: "medical"
-description: "Doctors, dentists, pharmacies, eye care, hearing care, and medical supplies across Edmonton."
+description: "Walk in clinics, dentists, pharmacies, eye and hearing care, physio and vets across Edmonton."
 icon: "heart"
-seo_title: "Medical Clinics & Health Services in Edmonton | WhereToYEG"
-seo_description: "Find walk-in clinics, dentists, pharmacies, eye care, hearing care, physiotherapy and medical supplies across Edmonton."
+seo_title: "Medical Clinics in Edmonton | Dentists, Physio & Pharmacies"
+seo_description: "Find walk in clinics, dentists, pharmacies, eye care, physiotherapy, chiropractors and vets in Edmonton. Compare clinics by Google rating, with hours."
 seo_keywords:
   - "medical clinic Edmonton"
   - "walk-in clinic Edmonton"
@@ -32,3 +32,4 @@ subcategories:
   - { name: "Counselling", slug: "counselling" }
   - { name: "Acupuncture", slug: "acupuncture" }
 ---
+Need a walk in clinic today, a new dentist, or a physio after an injury? Compare Edmonton health clinics by Google rating and review count, check their hours, and call ahead. For emergencies, call 911.

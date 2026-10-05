@@ -48,7 +48,7 @@ Each neighborhood has its own page with filtered business listings:
 - Mill Woods — https://wheretoyeg.ca/neighborhoods/mill-woods
 - Windermere — https://wheretoyeg.ca/neighborhoods/windermere
 - Sherwood Park — https://wheretoyeg.ca/neighborhoods/sherwood-park
-- St. Albert — https://wheretoyeg.ca/neighborhoods/st.-albert
+- St. Albert — https://wheretoyeg.ca/neighborhoods/st-albert
 - Spruce Grove — https://wheretoyeg.ca/neighborhoods/spruce-grove
 - North Edmonton — https://wheretoyeg.ca/neighborhoods/north-edmonton
 - Beverly — https://wheretoyeg.ca/neighborhoods/beverly

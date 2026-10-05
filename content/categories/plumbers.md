@@ -1,10 +1,10 @@
 ---
 name: "Plumbers"
 slug: "plumbers"
-description: "Licensed Edmonton plumbers — emergency, residential, and commercial."
+description: "Edmonton plumbers for emergencies, drains, water heaters and renos, plus roofing, garage doors and locksmiths."
 icon: "wrench"
-seo_title: "Best Plumbers in Edmonton | WhereToYEG"
-seo_description: "Licensed Edmonton plumbers for emergency, residential, commercial, drain cleaning and water heater jobs."
+seo_title: "Best Plumbers in Edmonton | Compare Local Plumbing Companies"
+seo_description: "Find a plumber in Edmonton for leaks, drains, water heaters, renos and emergencies, plus roofers, garage door and locksmith pros, ranked by Google rating."
 seo_keywords:
   - "plumber Edmonton"
   - "emergency plumber Edmonton"
@@ -23,3 +23,4 @@ subcategories:
   - { name: "Garage Doors", slug: "garage-door" }
   - { name: "Locksmiths", slug: "locksmith" }
 ---
+A burst pipe or a cold shower can't wait. Compare Edmonton plumbing companies by Google rating and review count, check who's open now, and call for a quote. You'll also find roofers, garage door companies and locksmiths here.

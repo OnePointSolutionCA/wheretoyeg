@@ -4,6 +4,7 @@ import type { Business } from "@/lib/types";
 import { StarRating } from "./StarRating";
 import { OpenNowBadge } from "./OpenNowBadge";
 import { CategoryPlaceholder } from "./CategoryPlaceholder";
+import { placeLabel } from "@/lib/place";
 
 
 export function BusinessCard({ business, categoryName }: { business: Business; categoryName?: string }) {
@@ -24,7 +25,7 @@ export function BusinessCard({ business, categoryName }: { business: Business; c
           {photo && (
             <Image
               src={photo}
-              alt={b.name}
+              alt={`${b.name}${b.neighborhood ? ` in ${placeLabel(b.neighborhood)}` : ""}`}
               fill
               sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
               className="object-cover"

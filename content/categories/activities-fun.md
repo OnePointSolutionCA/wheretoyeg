@@ -1,10 +1,10 @@
 ---
 name: "Activities & Fun"
 slug: "activities-fun"
-description: "Edmonton's best rainy-day and date-night activities — climbing gyms, escape rooms, arcades, padel courts, bowling, and board game cafes."
+description: "Rainy day plans, date nights and birthday outings: climbing gyms, escape rooms, arcades, padel courts, bowling and board game cafes."
 icon: "target"
-seo_title: "Best Activities in Edmonton — Fun Things To Do | WhereToYEG"
-seo_description: "Fun things to do in Edmonton — climbing gyms, escape rooms, padel courts, arcades, bowling, karting, trampoline parks, axe throwing, and board game cafes."
+seo_title: "Things to Do in Edmonton | Fun Activities, Ranked"
+seo_description: "Fun things to do in Edmonton: climbing gyms, escape rooms, padel, arcades, bowling, go karts, trampoline parks, axe throwing and board game cafes, by rating."
 seo_keywords:
   - "things to do Edmonton"
   - "fun activities Edmonton"
@@ -34,4 +34,4 @@ subcategories:
   - { name: "VR Arcades", slug: "vr-arcade" }
   - { name: "Paintball", slug: "paintball" }
 ---
-Great for a rainy Saturday, a first date, or a birthday party you can't be bothered planning. Edmonton has a bigger activity scene than most people realize — indoor climbing that rivals big cities, padel courts (the fastest-growing sport in Canada), escape rooms that are actually clever, and board game cafes where you can spend six hours arguing about Catan.
+Good for a rainy Saturday, a first date, or a birthday party you don't want to plan from scratch. Edmonton has more going on than people think: indoor climbing, padel courts, escape rooms, arcades and board game cafes where an afternoon disappears fast. Everything here is ranked by Google rating, so you can see what locals think before you go.

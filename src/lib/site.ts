@@ -30,7 +30,7 @@ export const SITE = {
     "Stony Plain",
   ],
   popularSearches: [
-    { label: "Halal", href: "/restaurants?amenity=Halal" },
+    { label: "Halal", href: "/halal-restaurants" },
     { label: "Shawarma", href: "/restaurants/shawarma" },
     { label: "Barbers", href: "/barbers" },
     { label: "Coffee", href: "/cafes-coffee-shops" },

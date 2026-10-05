@@ -1,10 +1,10 @@
 ---
 name: "Gyms & Fitness"
 slug: "gyms-fitness"
-description: "Gyms, boutique studios, CrossFit, yoga and personal trainers in Edmonton."
+description: "Gyms, boutique studios, CrossFit, yoga, boxing and personal trainers across Edmonton."
 icon: "dumbbell"
-seo_title: "Best Gyms & Fitness Studios in Edmonton | WhereToYEG"
-seo_description: "Edmonton's best gyms, boutique fitness studios, CrossFit boxes, yoga and pilates studios."
+seo_title: "Best Gyms in Edmonton | Fitness Studios, Yoga & CrossFit"
+seo_description: "Find the best gyms in Edmonton: 24 hour gyms, CrossFit, yoga, Pilates, boxing, martial arts and women's only studios, ranked by Google rating, with hours."
 seo_keywords:
   - "best gym Edmonton"
   - "yoga studio Edmonton"
@@ -28,3 +28,4 @@ subcategories:
   - { name: "Sports Physiotherapy", slug: "physiotherapy" }
   - { name: "Swimming", slug: "swimming" }
 ---
+Whether you want a 24 hour gym near home, a women's only studio, or a boxing class that pushes you, start here. Compare Edmonton gyms and studios by Google rating and review count, then check hours and drop in rates with the gym.

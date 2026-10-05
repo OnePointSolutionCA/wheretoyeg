@@ -59,4 +59,4 @@ The landscape is changing. A few years ago you had zero dedicated halal sushi sp
 
 Edmonton's halal food market is one of the fastest-growing in Canada. Restaurants that add halal sushi options or get halal certification are tapping into a large, underserved market. If you're a restaurant owner reading this — the demand is already there. The customers are searching for it every day.
 
-Browse halal restaurants on [WhereToYEG](/restaurants?amenity=Halal) or check the [Halal Foodie Tour collection](/collections/halal-foodie-tour).
+Browse halal restaurants on [WhereToYEG](/halal-restaurants) or check the [Halal Foodie Tour collection](/collections/halal-foodie-tour).

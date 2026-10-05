@@ -4,9 +4,9 @@ import { GetListedForm } from "@/components/GetListedForm";
 import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Get your Edmonton business listed",
+  title: { absolute: "Get Your Edmonton Business Listed Free | WhereToYEG" },
   description:
-    "Get your business listed on WhereToYEG for free. Show up when Edmontonians search for what you do.",
+    "Add your Edmonton business to WhereToYEG for free. Show up when people search for what you do, with your hours, photos, reviews and directions in one place.",
   alternates: { canonical: `${SITE.url}/get-listed` },
 };
 

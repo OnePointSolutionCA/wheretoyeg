@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { SITE } from "@/lib/site";
+import { areaSlug } from "@/lib/place";
 import { getCategories } from "@/lib/content";
 
 export function Footer() {
@@ -32,7 +33,7 @@ export function Footer() {
             {SITE.neighborhoods.slice(0, 8).map((n) => (
               <li key={n}>
                 <Link
-                  href={`/neighborhoods/${n.toLowerCase().replace(/\s+/g, "-")}`}
+                  href={`/neighborhoods/${areaSlug(n)}`}
                   className="text-teal hover:text-coral"
                 >
                   {n}

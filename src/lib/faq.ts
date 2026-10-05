@@ -1,6 +1,8 @@
 import type { FaqEntry } from "@/components/FaqSection";
 import type { Business, Category } from "./types";
 import { SITE } from "./site";
+import { areaSlug } from "./place";
+import { SUB_HEADING, lowerHeading } from "./seo";
 
 const NOUN: Record<string, string> = {
   restaurants: "restaurants",
@@ -27,7 +29,7 @@ const NOUN: Record<string, string> = {
 const HALAL_RELEVANT = new Set(["restaurants", "bakeries", "cafes-coffee-shops", "grocery-markets", "catering"]);
 
 const nf = (n: number) => n.toLocaleString("en-CA");
-const slugify = (s: string) => s.toLowerCase().replace(/\s+/g, "-");
+const slugify = areaSlug;
 const join = (xs: string[]) => (xs.length <= 1 ? xs.join("") : `${xs.slice(0, -1).join(", ")} and ${xs[xs.length - 1]}`);
 
 /** Bayesian average so a 5.0 with 3 reviews doesn't outrank a 4.8 with 900. */
@@ -56,25 +58,46 @@ const href = (b: Business) => `/${b.category}/${b.slug}`;
 const mention = (b: Business) => `${b.name} (${Number(b.rating).toFixed(1)}★, ${nf(b.review_count)} reviews)`;
 
 /** Full display name for a subcategory, e.g. "Mexican" under Restaurants becomes "Mexican Restaurants". */
-export function subLabel(categorySlug: string, subName: string) {
+export function subLabel(categorySlug: string, subName: string, subSlug?: string) {
+  const heading = subSlug ? SUB_HEADING[categorySlug]?.[subSlug] : undefined;
+  if (heading) return heading;
   return categorySlug === "restaurants" && !/restaurant/i.test(subName) ? `${subName} Restaurants` : subName;
 }
 
 /** Same label for use mid-sentence: cuisine names keep their capital, generic words go lowercase. */
-export function subNoun(categorySlug: string, subName: string) {
+export function subNoun(categorySlug: string, subName: string, subSlug?: string) {
+  const heading = subSlug ? SUB_HEADING[categorySlug]?.[subSlug] : undefined;
+  if (heading) return lowerHeading(heading);
   return categorySlug === "restaurants" && !/restaurant/i.test(subName) ? `${subName} restaurants` : subName.toLowerCase();
 }
 
-export function categoryFaq(c: Category, businesses: Business[], opts: { noun?: string; basePath?: string } = {}): FaqEntry[] {
+export function categoryFaq(
+  c: Category,
+  businesses: Business[],
+  opts: {
+    noun?: string;
+    basePath?: string;
+    /** Area name for hub pages ("Sherwood Park"); questions then ask about that area instead of Edmonton. */
+    place?: string;
+    /** Display form of the area for answers ("Sherwood Park, AB"). */
+    placeFull?: string;
+    /** Link for an area's hub page, when one exists. */
+    areaHref?: (area: string) => string | undefined;
+    /** Where the "all halal" link should go. */
+    halalHref?: string;
+  } = {},
+): FaqEntry[] {
   if (businesses.length === 0) return [];
   const noun = opts.noun ?? NOUN[c.slug] ?? c.name.toLowerCase();
   const basePath = opts.basePath ?? `/${c.slug}`;
+  const where = opts.place ?? "Edmonton";
+  const whereFull = opts.placeFull ?? where;
   const items: FaqEntry[] = [];
 
   const top = distinct(businesses.filter((b) => b.rating > 0 && b.review_count >= 10).sort(byScore), 3);
   if (top.length >= 2) {
     items.push({
-      q: `What are the best ${noun} in Edmonton?`,
+      q: `What are the best ${noun} in ${where}?`,
       a: `Ranked by Google rating and review volume, the top ${noun} on WhereToYEG right now are ${join(top.map(mention))}. Ratings refresh as new reviews come in.`,
       links: top.map((b) => ({ label: b.name, href: href(b) })),
     });
@@ -86,10 +109,17 @@ export function categoryFaq(c: Category, businesses: Business[], opts: { noun?: 
     counts.set(b.neighborhood, (counts.get(b.neighborhood) ?? 0) + 1);
   }
   const areas = [...counts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 3).map(([n]) => n);
-  if (businesses.length >= 3) items.push({
+  if (businesses.length >= 3 && opts.place) items.push({
+    q: `How many ${noun} are in ${where}?`,
+    a: `WhereToYEG lists ${nf(businesses.length)} ${noun} in ${whereFull}. Filter by price, rating, or amenity at the top of this page, or use the Open now filter to see who is open.`,
+    links: [{ label: `Everything in ${where}`, href: `/neighborhoods/${slugify(where)}` }],
+  });
+  else if (businesses.length >= 3) items.push({
     q: `How many ${noun} are listed on WhereToYEG?`,
     a: `${nf(businesses.length)} ${noun} across Edmonton and nearby communities${areas.length ? `, with the most listings in ${join(areas)}` : ""}. Filter by price, rating, or amenity at the top of this page.`,
-    links: areas.filter((n) => SITE.neighborhoods.includes(n)).map((n) => ({ label: n, href: `/neighborhoods/${slugify(n)}` })),
+    links: areas
+      .filter((n) => SITE.neighborhoods.includes(n))
+      .map((n) => ({ label: `${n}`, href: opts.areaHref?.(n) ?? `/neighborhoods/${slugify(n)}` })),
   });
 
   const sunday = businesses
@@ -98,7 +128,7 @@ export function categoryFaq(c: Category, businesses: Business[], opts: { noun?: 
   if (sunday.length >= 3) {
     const picks = distinct(sunday, 3);
     items.push({
-      q: `Which ${noun} are open on Sunday in Edmonton?`,
+      q: `Which ${noun} are open on Sunday in ${where}?`,
       a: `${nf(sunday.length)} of the listed ${noun} show Sunday hours, including ${join(picks.map((b) => `${b.name} (${b.hours.sunday})`))}. Hours change, so check the listing or call ahead.`,
       links: picks.map((b) => ({ label: b.name, href: href(b) })),
     });
@@ -107,9 +137,9 @@ export function categoryFaq(c: Category, businesses: Business[], opts: { noun?: 
   const halal = businesses.filter((b) => b.amenities?.includes("Halal")).sort(byScore);
   if (HALAL_RELEVANT.has(c.slug) && halal.length >= 2) {
     items.push({
-      q: `Are there halal ${noun} in Edmonton?`,
+      q: `Are there halal ${noun} in ${where}?`,
       a: `Yes. ${nf(halal.length)} ${noun} on WhereToYEG are marked halal, including ${join(distinct(halal, 3).map((b) => b.name))}. If certification matters to you, confirm it with the business directly.`,
-      links: [{ label: `All halal ${noun}`, href: `${basePath}?amenity=Halal` }],
+      links: [{ label: `All halal ${noun}`, href: opts.halalHref ?? `${basePath}?amenity=Halal` }],
     });
   }
 

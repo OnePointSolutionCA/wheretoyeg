@@ -35,7 +35,7 @@ Browse all [Edmonton restaurants](/restaurants) and filter for [Weekend Brunch](
 
 ## Halal brunch options
 
-Halal brunch is one of Edmonton's underrated scenes. Paramount is the flagship, but there are neighborhood spots serving fried halal chicken, halal beef bacon, and shakshuka every weekend. Filter [restaurants by Halal](/restaurants?amenity=Halal) for the full list.
+Halal brunch is one of Edmonton's underrated scenes. Paramount is the flagship, but there are neighborhood spots serving fried halal chicken, halal beef bacon, and shakshuka every weekend. Filter [restaurants by Halal](/halal-restaurants) for the full list.
 
 ## Reservations — book them
 

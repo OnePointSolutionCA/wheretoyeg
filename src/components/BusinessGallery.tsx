@@ -8,12 +8,15 @@ export function BusinessGallery({
   logo,
   categoryName,
   category,
+  altBase,
 }: {
   photos: string[];
   name: string;
   logo?: string;
   categoryName?: string;
   category?: string;
+  /** Descriptive alt text, e.g. "Bronx Bowling, bowling alley in Edmonton". */
+  altBase?: string;
 }) {
   if (!photos?.length) {
     return (
@@ -54,7 +57,7 @@ export function BusinessGallery({
         >
           <Image
             src={p}
-            alt={i === 0 ? `${name} main photo` : `${name} photo ${i + 1}`}
+            alt={i === 0 ? altBase ?? `${name} main photo` : `${altBase ?? name}, photo ${i + 1}`}
             fill
             sizes={i === 0 ? "(max-width: 640px) 86vw, (max-width: 1200px) 50vw, 600px" : "(max-width: 640px) 86vw, (max-width: 1200px) 25vw, 300px"}
             className="object-cover transition-transform duration-700 group-hover:scale-[1.03]"

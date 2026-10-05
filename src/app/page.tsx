@@ -26,14 +26,26 @@ import {
 import { getBlogPosts } from "@/lib/blog";
 import type { Metadata } from "next";
 
-function toSlug(s: string) { return s.toLowerCase().replace(/\s+/g, "-"); }
+import { areaSlug } from "@/lib/place";
+
+const toSlug = areaSlug;
 
 // Short window so the daily rotation flips within minutes of Edmonton midnight.
 export const revalidate = 600;
 
-export const metadata: Metadata = {
-  alternates: { canonical: `${SITE.url}/` },
-};
+export function generateMetadata(): Metadata {
+  // Rounded down to the hundred so the title doesn't change with every new listing.
+  const count = Math.floor(getBusinesses().length / 100) * 100;
+  const title = `Edmonton Business Directory | ${count.toLocaleString("en-CA")}+ Spots | ${SITE.name}`;
+  const description =
+    "Find the best restaurants, barbers, dentists, mechanics and things to do in Edmonton, Sherwood Park and St. Albert, with Google ratings, hours and directions.";
+  return {
+    title: { absolute: title },
+    description,
+    alternates: { canonical: `${SITE.url}/` },
+    openGraph: { title, description, url: SITE.url, images: ["/og.png"] },
+  };
+}
 
 export default function HomePage() {
   const featured = getDiverseFeatured(20);
@@ -126,7 +138,7 @@ export default function HomePage() {
     { q: "How do I get my Edmonton business listed on WhereToYEG?", a: "Submit the Get Listed form. Listings are completely free, and most go live within a few days.", links: [{ label: "Get listed", href: "/get-listed" }] },
     { q: "Is WhereToYEG free?", a: "Yes. Browsing and listing are both free. We're building the most complete Edmonton business directory, and the more businesses on it, the more useful it is." },
     { q: "How do you pick which businesses appear?", a: "Every listing is a real Edmonton-area business. Ratings and review counts come from Google Maps, so they match what you'd see there." },
-    { q: "Do you cover halal businesses?", a: "Yes. Filter any category by the Halal amenity, or start with the curated halal collection. We list halal restaurants, cafés, bakeries, meat markets, and caterers.", links: [{ label: "Halal restaurants", href: "/restaurants?amenity=Halal" }, { label: "Halal foodie tour", href: "/collections/halal-foodie-tour" }] },
+    { q: "Do you cover halal businesses?", a: "Yes. Filter any category by the Halal amenity, or start with the curated halal collection. We list halal restaurants, cafés, bakeries, meat markets, and caterers.", links: [{ label: "Halal restaurants", href: "/halal-restaurants" }, { label: "Halal foodie tour", href: "/collections/halal-foodie-tour" }] },
     { q: "Which Edmonton neighborhoods does the site cover?", a: `All of Edmonton plus nearby communities, including ${SITE.neighborhoods.slice(0, 6).join(", ")}, Sherwood Park, St. Albert, and Spruce Grove.`, links: [{ label: "Browse neighborhoods", href: "/neighborhoods" }] },
   ];
 
@@ -289,7 +301,7 @@ export default function HomePage() {
               </p>
               <div className="mt-6 flex flex-wrap gap-2">
                 {halalByCat.map((h) => (
-                  <Link key={h.slug} href={`/${h.slug}?amenity=Halal`} className="rounded-full border border-white/20 bg-white/10 px-4 py-2 text-sm font-semibold backdrop-blur transition hover:bg-white hover:text-teal">
+                  <Link key={h.slug} href={h.slug === "restaurants" ? "/halal-restaurants" : `/${h.slug}?amenity=Halal`} className="rounded-full border border-white/20 bg-white/10 px-4 py-2 text-sm font-semibold backdrop-blur transition hover:bg-white hover:text-teal">
                     {h.name} <span className="text-white/60">{h.count}</span>
                   </Link>
                 ))}
