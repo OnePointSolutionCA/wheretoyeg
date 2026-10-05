@@ -11,19 +11,23 @@ import type { SearchBusiness } from "@/lib/slim";
 const PAGE = 24;
 const SUGGESTIONS = ["Shawarma", "Halal", "Barber", "Coffee", "Lash", "Brunch", "Dentist", "Mechanic"];
 
-export function SearchClient({ neighborhoods }: { neighborhoods: string[] }) {
+type PickerCategory = { name: string; slug: string; subs: { name: string; slug: string }[] };
+
+export function SearchClient({ neighborhoods, categories }: { neighborhoods: string[]; categories: PickerCategory[] }) {
   const sp = useSearchParams();
   const [q, setQ] = useState(sp.get("q") ?? "");
   const [n, setN] = useState(sp.get("neighborhood") ?? "");
+  const [cat, setCat] = useState(sp.get("category") ?? "");
   const [visible, setVisible] = useState(PAGE);
   const [data] = useRemoteJson<SearchBusiness[]>("/search-data.json", true);
 
   useEffect(() => {
     setQ(sp.get("q") ?? "");
     setN(sp.get("neighborhood") ?? "");
+    setCat(sp.get("category") ?? "");
   }, [sp]);
 
-  useEffect(() => setVisible(PAGE), [q, n]);
+  useEffect(() => setVisible(PAGE), [q, n, cat]);
 
   const fuse = useMemo(
     () =>
@@ -46,9 +50,13 @@ export function SearchClient({ neighborhoods }: { neighborhoods: string[] }) {
   const results = useMemo(() => {
     if (!data) return [];
     let list = q.trim() ? fuse.search(q.trim()).map((r) => r.item) : [...data].sort((a, b) => (b.review_count ?? 0) - (a.review_count ?? 0));
+    if (cat) list = list.filter((b) => b.category === cat);
     if (n) list = list.filter((b) => b.neighborhood === n);
     return list;
-  }, [q, n, fuse, data]);
+  }, [q, n, cat, fuse, data]);
+
+  const picked = categories.find((c) => c.slug === cat);
+  const catName = picked?.name;
 
   return (
     <div>
@@ -73,7 +81,22 @@ export function SearchClient({ neighborhoods }: { neighborhoods: string[] }) {
           />
         </label>
         <div className="hidden w-px shrink-0 self-stretch bg-line sm:block" />
-        <label className="flex items-center gap-3 border-t border-line px-4 py-3 sm:min-w-[220px] sm:border-t-0">
+        <label className="flex items-center gap-3 border-t border-line px-4 py-3 sm:min-w-[200px] sm:border-t-0">
+          <span className="sr-only">Category</span>
+          <select
+            value={cat}
+            onChange={(e) => setCat(e.target.value)}
+            className="w-full appearance-none bg-transparent text-base text-teal focus:outline-none"
+          >
+            <option value="">All categories</option>
+            {categories.map((c) => (
+              <option key={c.slug} value={c.slug}>{c.name}</option>
+            ))}
+          </select>
+          <span aria-hidden className="text-xs text-teal-300">▾</span>
+        </label>
+        <div className="hidden w-px shrink-0 self-stretch bg-line sm:block" />
+        <label className="flex items-center gap-3 border-t border-line px-4 py-3 sm:min-w-[200px] sm:border-t-0">
           <span className="sr-only">Neighborhood</span>
           <select
             value={n}
@@ -89,6 +112,17 @@ export function SearchClient({ neighborhoods }: { neighborhoods: string[] }) {
         </label>
       </form>
 
+      {picked && picked.subs.length > 0 && (
+        <div className="mt-4 flex flex-wrap items-center gap-2">
+          <span className="text-xs font-semibold uppercase tracking-wider text-teal-300">{picked.name}:</span>
+          {picked.subs.map((s) => (
+            <Link key={s.slug} href={`/${picked.slug}/${s.slug}`} className="chip min-h-[36px]">
+              {s.name}
+            </Link>
+          ))}
+        </div>
+      )}
+
       <div className="mt-4 flex flex-wrap items-center gap-2">
         <span className="text-xs font-semibold uppercase tracking-wider text-teal-300">Popular:</span>
         {SUGGESTIONS.map((s) => (
@@ -101,7 +135,7 @@ export function SearchClient({ neighborhoods }: { neighborhoods: string[] }) {
       <p className="mt-6 text-sm text-teal-500" aria-live="polite">
         {!data
           ? "Loading listings…"
-          : `${results.length.toLocaleString("en-CA")} result${results.length === 1 ? "" : "s"}${q ? ` for “${q}”` : ""}${n ? ` in ${n}` : ""}`}
+          : `${results.length.toLocaleString("en-CA")} result${results.length === 1 ? "" : "s"}${q ? ` for “${q}”` : ""}${catName ? ` in ${catName}` : ""}${n ? ` in ${n}` : ""}`}
       </p>
 
       {!data ? (

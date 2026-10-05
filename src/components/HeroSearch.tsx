@@ -12,12 +12,13 @@ export type SearchIndexItem = {
   hint?: string;
 };
 
-export function HeroSearch({ neighborhoods }: { neighborhoods: string[] }) {
+export function HeroSearch({ neighborhoods, categories = [] }: { neighborhoods: string[]; categories?: { name: string; slug: string }[] }) {
   const [loaded, loadIndex] = useRemoteJson<SearchIndexItem[]>("/search-index.json");
   const index = useMemo(() => loaded ?? [], [loaded]);
   const router = useRouter();
   const [q, setQ] = useState("");
   const [n, setN] = useState("");
+  const [cat, setCat] = useState("");
   const [open, setOpen] = useState(false);
   const [active, setActive] = useState(0);
   const wrapRef = useRef<HTMLDivElement>(null);
@@ -51,11 +52,12 @@ export function HeroSearch({ neighborhoods }: { neighborhoods: string[] }) {
       return { item: r.item, score: (r.score ?? 1) + (strongMatch ? -0.3 : 0) };
     });
     return scored
+      .filter((r) => !cat || r.item.href.startsWith(`/${cat}`))
       .sort((a, b) => a.score - b.score)
       .filter((r) => r.score <= 0.55)
       .slice(0, 5)
       .map((r) => r.item);
-  }, [q, fuse]);
+  }, [q, fuse, cat]);
 
   useEffect(() => {
     function onDoc(e: MouseEvent) {
@@ -71,7 +73,15 @@ export function HeroSearch({ neighborhoods }: { neighborhoods: string[] }) {
       return;
     }
     const params = new URLSearchParams();
+    // A category with nothing typed goes straight to that category's page.
+    if (cat && !q.trim()) {
+      if (n) params.set("neighborhood", n);
+      const qs = params.toString();
+      router.push(`/${cat}${qs ? `?${qs}` : ""}`);
+      return;
+    }
     if (q) params.set("q", q);
+    if (cat) params.set("category", cat);
     if (n) params.set("neighborhood", n);
     router.push(`/search?${params.toString()}`);
   }
@@ -81,7 +91,7 @@ export function HeroSearch({ neighborhoods }: { neighborhoods: string[] }) {
       onSubmit={(e) => { e.preventDefault(); submit(); }}
       className="mx-auto mt-8 flex w-full max-w-3xl flex-col overflow-visible rounded-2xl border border-line bg-white p-1.5 shadow-lift sm:flex-row"
     >
-      <div ref={wrapRef} className="relative flex flex-1 items-center gap-3 px-4 py-3">
+      <div ref={wrapRef} className="relative flex min-w-0 flex-1 items-center gap-3 px-4 py-3">
         <SearchIcon />
         <input
           value={q}
@@ -136,8 +146,28 @@ export function HeroSearch({ neighborhoods }: { neighborhoods: string[] }) {
           </ul>
         )}
       </div>
+      {categories.length > 0 && (
+        <>
+          <div className="hidden w-px shrink-0 self-stretch bg-line sm:block" />
+          <div className="flex items-center gap-2.5 border-t border-line px-4 py-3 sm:w-[172px] sm:shrink-0 sm:border-t-0 sm:px-3">
+            <GridIcon />
+            <select
+              value={cat}
+              onChange={(e) => setCat(e.target.value)}
+              className="w-full appearance-none bg-transparent text-teal focus:outline-none"
+              aria-label="Category"
+            >
+              <option value="">All categories</option>
+              {categories.map((c) => (
+                <option key={c.slug} value={c.slug}>{c.name}</option>
+              ))}
+            </select>
+            <span aria-hidden className="text-xs text-teal-300">▾</span>
+          </div>
+        </>
+      )}
       <div className="hidden w-px shrink-0 self-stretch bg-line sm:block" />
-      <div className="flex items-center gap-3 px-4 py-3 sm:min-w-[220px]">
+      <div className="flex items-center gap-2.5 border-t border-line px-4 py-3 sm:w-[172px] sm:shrink-0 sm:border-t-0 sm:px-3">
         <PinIcon />
         <select
           value={n}
@@ -150,8 +180,9 @@ export function HeroSearch({ neighborhoods }: { neighborhoods: string[] }) {
             <option key={nh} value={nh}>{nh}</option>
           ))}
         </select>
+        <span aria-hidden className="text-xs text-teal-300">▾</span>
       </div>
-      <button type="submit" className="btn-primary m-1.5 shrink-0 px-6 py-3">
+      <button type="submit" className="btn-primary m-1.5 shrink-0 px-5 py-3">
         Search
       </button>
     </form>
@@ -189,6 +220,13 @@ function SuggestionIcon({ kind }: { kind: SearchIndexItem["kind"] }) {
     <span className={"flex h-8 w-8 shrink-0 items-center justify-center rounded-lg " + bg}>
       {icon}
     </span>
+  );
+}
+function GridIcon() {
+  return (
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="shrink-0 text-teal-300" aria-hidden="true">
+      <rect x="3" y="3" width="7" height="7" rx="1.5" /><rect x="14" y="3" width="7" height="7" rx="1.5" /><rect x="3" y="14" width="7" height="7" rx="1.5" /><rect x="14" y="14" width="7" height="7" rx="1.5" />
+    </svg>
   );
 }
 function SearchIcon() {

@@ -156,7 +156,7 @@ export default function HomePage() {
               Your trusted shortcut to the shops, restaurants, and services worth checking out.
             </p>
             <div className="hero-foot rise-3">
-              <HeroSearch neighborhoods={SITE.neighborhoods} />
+              <HeroSearch neighborhoods={SITE.neighborhoods} categories={cats.map((c) => ({ name: c.name, slug: c.slug }))} />
               <div className="mt-5 flex flex-wrap items-center justify-center gap-2">
                 <span className="text-xs font-semibold uppercase tracking-wider text-white/60">Popular:</span>
                 {SITE.popularSearches.map((s) => (

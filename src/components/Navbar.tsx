@@ -10,7 +10,7 @@ type NavCategory = { name: string; slug: string };
 
 export function Navbar({ categories = [] }: { categories?: NavCategory[] }) {
   const pathname = usePathname();
-  const [openMenu, setOpenMenu] = useState<"categories" | null>(null);
+  const [openMenu, setOpenMenu] = useState<"categories" | "mobile-categories" | null>(null);
 
   useEffect(() => {
     setOpenMenu(null);
@@ -46,17 +46,11 @@ export function Navbar({ categories = [] }: { categories?: NavCategory[] }) {
               {openMenu === "categories" && (
                 <div className="dropdown-anim absolute left-1/2 top-full z-50 mt-3 w-[520px] -translate-x-1/2 overflow-hidden rounded-2xl border border-line bg-white shadow-lift">
                   <Link
-                    href="/#categories"
-                    onClick={(e) => {
-                      setOpenMenu(null);
-                      if (pathname === "/") {
-                        e.preventDefault();
-                        document.getElementById("categories")?.scrollIntoView({ behavior: "smooth" });
-                      }
-                    }}
+                    href="/categories"
+                    onClick={() => setOpenMenu(null)}
                     className="flex items-center justify-between border-b border-line bg-mist/60 px-4 py-3 text-sm font-bold text-coral transition hover:bg-mist"
                   >
-                    <span>See all categories</span>
+                    <span>Every category and service</span>
                     <span aria-hidden>→</span>
                   </Link>
                   <div className="grid grid-cols-2 gap-1 p-3">
@@ -103,13 +97,59 @@ export function Navbar({ categories = [] }: { categories?: NavCategory[] }) {
 
       {/* Mobile nav strip — always visible, horizontally scrollable */}
       <nav className="flex items-center gap-1 overflow-x-auto overscroll-x-contain touch-pan-x border-t border-line/50 px-4 py-2 lg:hidden" style={{ scrollbarWidth: "none" }}>
-        <Link href="/#categories" className={mobilePill(false)}>Categories</Link>
+        {categories.length > 0 ? (
+          <button
+            type="button"
+            data-nav-menu
+            onClick={(e) => { e.stopPropagation(); setOpenMenu(openMenu === "mobile-categories" ? null : "mobile-categories"); }}
+            className={mobilePill(openMenu === "mobile-categories" || pathname === "/categories") + " inline-flex items-center gap-1"}
+            aria-expanded={openMenu === "mobile-categories"}
+            aria-controls="mobile-categories"
+          >
+            Categories <span className="text-[10px]" aria-hidden>{openMenu === "mobile-categories" ? "▴" : "▾"}</span>
+          </button>
+        ) : (
+          <Link href="/categories" className={mobilePill(pathname === "/categories")}>Categories</Link>
+        )}
         <Link href="/collections" className={mobilePill(pathname === "/collections")}>Vibes</Link>
         <Link href="/neighborhoods" className={mobilePill(pathname === "/neighborhoods")}>Areas</Link>
         <Link href="/blog" className={mobilePill(pathname === "/blog")}>Blog</Link>
         <Link href="/about" className={mobilePill(pathname === "/about")}>About</Link>
         <Link href="/contact" className={mobilePill(pathname === "/contact")}>Contact</Link>
       </nav>
+
+      {/* Mobile categories panel */}
+      {openMenu === "mobile-categories" && (
+        <div
+          id="mobile-categories"
+          data-nav-menu
+          className="dropdown-anim max-h-[70vh] overflow-y-auto overscroll-contain border-t border-line bg-white shadow-lift lg:hidden"
+        >
+          <div className="grid grid-cols-2 gap-1 px-3 py-3">
+            {categories.map((c) => (
+              <Link
+                key={c.slug}
+                href={`/${c.slug}`}
+                onClick={() => setOpenMenu(null)}
+                className={
+                  "flex min-h-[44px] items-center rounded-xl px-3 text-sm font-semibold transition " +
+                  (pathname === `/${c.slug}` || pathname.startsWith(`/${c.slug}/`) ? "bg-teal text-white" : "bg-mist/60 text-teal active:bg-mist")
+                }
+              >
+                {c.name}
+              </Link>
+            ))}
+          </div>
+          <Link
+            href="/categories"
+            onClick={() => setOpenMenu(null)}
+            className="flex min-h-[48px] items-center justify-between border-t border-line bg-mist/60 px-4 text-sm font-bold text-coral"
+          >
+            <span>Every category and service</span>
+            <span aria-hidden>→</span>
+          </Link>
+        </div>
+      )}
     </header>
   );
 }

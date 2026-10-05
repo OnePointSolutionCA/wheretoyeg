@@ -21,7 +21,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority,
   });
 
-  const staticRoutes = ["/about", "/contact", "/get-listed", "/privacy", "/terms", "/neighborhoods", "/blog", "/collections"];
+  const staticRoutes = ["/about", "/contact", "/get-listed", "/privacy", "/terms", "/categories", "/neighborhoods", "/blog", "/collections"];
   const cats = getCategories();
   const posts = getBlogPosts();
   const businesses = getBusinesses();
