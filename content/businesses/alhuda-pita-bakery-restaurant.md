@@ -4,11 +4,11 @@ slug: "alhuda-pita-bakery-restaurant"
 category: "bakeries"
 subcategory: "middle-eastern"
 tier: "featured"
-description: "Alhuda Pita Bakery & Restaurant — middle eastern in Edmonton, Edmonton. Halal-certified. 337 Google reviews, 4.5★."
+description: "Alhuda Pita Bakery & Restaurant is a family run Lebanese bakery and restaurant on 97 Street in North Edmonton. They bake white and whole wheat pita without preservatives and supply local restaurants and stores. The restaurant serves manakeesh, shawarma, falafel and grilled platters, with dine in, takeout, delivery and catering."
 address: "12810 97 St NW, Edmonton, AB T5E 6Z2"
-neighborhood: "Edmonton"
+neighborhood: "North Edmonton"
 phone: "(825) 200-9898"
-website: "https://alhudapita.com/"
+website: "https://www.alhudapita.com"
 google_maps_url: "https://maps.google.com/?cid=5520980956117973124&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "8:00 AM–8:00 PM"
@@ -26,6 +26,7 @@ amenities:
   - "Halal"
   - "Dine-In"
   - "Takeout"
+  - "Delivery"
   - "Family Friendly"
 tags: ["edmonton", "middle-eastern", "halal"]
 active: true

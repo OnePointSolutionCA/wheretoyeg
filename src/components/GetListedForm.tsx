@@ -10,7 +10,7 @@ const CATEGORIES = [
   "Activities & Fun", "Professional Services", "Other",
 ];
 
-const TIERS = ["Basic — $25/mo", "Featured — $50/mo", "Premium — $100/mo", "Not sure yet"];
+const TIERS = ["Free listing", "Basic — $25/mo", "Featured — $50/mo", "Premium — $100/mo", "Not sure yet"];
 
 export function GetListedForm({ defaultTier }: { defaultTier?: string }) {
   const [businessName, setBusinessName] = useState("");
@@ -19,7 +19,7 @@ export function GetListedForm({ defaultTier }: { defaultTier?: string }) {
   const [phone, setPhone] = useState("");
   const [website, setWebsite] = useState("");
   const [category, setCategory] = useState("");
-  const [tier, setTier] = useState(defaultTier ?? "");
+  const [tier, setTier] = useState(defaultTier ?? "Free listing");
   const [notes, setNotes] = useState("");
   const [website_url, setHoney] = useState("");
   const [state, setState] = useState<"idle" | "sending" | "sent" | "error">("idle");
