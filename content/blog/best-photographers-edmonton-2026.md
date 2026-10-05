@@ -3,7 +3,7 @@ title: "Best Photographers in Edmonton (2026) | Wedding, Portrait & Real Estate"
 seoTitle: "Best Photographers in Edmonton 2026 | Wedding & Portrait Photography | WhereToYEG"
 slug: "best-photographers-edmonton-2026"
 description: "Edmonton's top photographers for weddings, portraits, headshots, and real estate. What to expect to pay, how to book, and who actually delivers on time."
-publishedDate: "2026-08-30"
+publishedDate: "2026-06-23"
 tags: ["photographers", "wedding", "portraits", "headshots", "guides"]
 ---
 

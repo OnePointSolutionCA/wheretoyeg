@@ -2,7 +2,7 @@
 title: "Edmonton Pharmacies Worth Knowing (2026)"
 slug: "edmonton-pharmacies-worth-knowing"
 description: "Independent and community pharmacies across Edmonton, compounding, delivery, blister packs, and pharmacies attached to walk-in clinics."
-publishedDate: "2026-08-17"
+publishedDate: "2026-02-15"
 tags: ["pharmacies", "medical", "guides"]
 ---
 

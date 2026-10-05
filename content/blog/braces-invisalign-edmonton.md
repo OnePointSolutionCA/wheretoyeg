@@ -2,7 +2,7 @@
 title: "Braces & Invisalign in Edmonton | 2026 Local Guide"
 slug: "braces-invisalign-edmonton"
 description: "Getting braces or Invisalign in Edmonton, what to expect, what it costs, and the family-focused orthodontists locals trust."
-publishedDate: "2026-08-17"
+publishedDate: "2026-01-22"
 tags: ["orthodontists", "medical", "guides"]
 ---
 

@@ -4,7 +4,7 @@ seoTitle: "Best Sushi Restaurants in Edmonton 2026 | Japanese Food Near Me | Whe
 slug: "best-sushi-japanese-food-edmonton-2026"
 description: "Edmonton's best Japanese restaurants, sushi, ramen, izakaya small plates, and omakase experiences. From all-you-can-eat to chef's counter."
 draft: true
-publishedDate: "2026-08-30"
+publishedDate: "2026-07-01"
 tags: ["sushi", "japanese", "ramen", "restaurants", "guides"]
 ---
 

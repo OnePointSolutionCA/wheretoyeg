@@ -3,7 +3,7 @@ title: "Best Dessert Spots in Edmonton (2026) | Sweet Treats Worth the Drive"
 seoTitle: "Best Dessert Spots in Edmonton 2026 | Cakes, Ice Cream, Pancakes | WhereToYEG"
 slug: "best-dessert-spots-edmonton-2026"
 description: "The best dessert spots in Edmonton for 2026. From mini pancakes and gelato to custom cakes and ice cream, where locals go when the sweet tooth hits."
-publishedDate: "2026-09-15"
+publishedDate: "2026-08-02"
 tags: ["desserts", "ice-cream", "pancakes", "bakeries", "cafes", "food"]
 ---
 

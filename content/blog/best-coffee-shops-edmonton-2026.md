@@ -3,7 +3,7 @@ title: "Best Coffee Shops in Edmonton (2026) | Where to Actually Get a Flat Whit
 seoTitle: "Best Coffee Shops in Edmonton 2026 | Independent Cafes Near Me | WhereToYEG"
 slug: "best-coffee-shops-edmonton-2026"
 description: "The best independent coffee shops in Edmonton. Third-wave roasters, weekend brunch spots, and reliable wifi cafes to work from, mapped by neighborhood."
-publishedDate: "2026-08-18"
+publishedDate: "2026-04-04"
 tags: ["coffee", "cafes", "brunch", "wifi", "guides"]
 ---
 

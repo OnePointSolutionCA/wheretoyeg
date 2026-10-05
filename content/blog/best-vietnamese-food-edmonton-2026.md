@@ -3,7 +3,7 @@ title: "Best Vietnamese Food in Edmonton (2026) | Pho, Banh Mi & More"
 seoTitle: "Best Vietnamese Restaurants in Edmonton 2026 | Pho & Banh Mi | WhereToYEG"
 slug: "best-vietnamese-food-edmonton-2026"
 description: "Where to find the best Vietnamese food in Edmonton. Pho, banh mi, bun bo hue, vermicelli bowls, the spots locals actually go to, rated and reviewed."
-publishedDate: "2026-09-21"
+publishedDate: "2026-09-07"
 tags: ["vietnamese", "pho", "restaurants", "banh-mi", "edmonton"]
 ---
 

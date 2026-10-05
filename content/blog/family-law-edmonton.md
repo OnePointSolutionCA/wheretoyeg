@@ -2,7 +2,7 @@
 title: "Family Law in Edmonton | When You Need a Lawyer, What They Do"
 slug: "family-law-edmonton"
 description: "Family law in Edmonton, divorce, custody, matrimonial property, prenups. When you actually need a lawyer, what a first consultation looks like, and where to book."
-publishedDate: "2026-08-17"
+publishedDate: "2026-02-19"
 tags: ["legal", "professional-services", "guides"]
 ---
 

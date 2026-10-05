@@ -3,7 +3,7 @@ title: "Best Shawarma in Edmonton (2026) | Where Locals Actually Go"
 seoTitle: "Best Shawarma in Edmonton 2026 | Halal Shawarma Near Me | WhereToYEG"
 slug: "best-shawarma-edmonton-2026"
 description: "Where to find the best shawarma in Edmonton. Halal, hand-carved, garlic sauce done right, the shops locals actually eat at, ranked by what matters."
-publishedDate: "2026-08-18"
+publishedDate: "2026-04-28"
 tags: ["shawarma", "halal", "restaurants", "lebanese", "middle-eastern", "food"]
 ---
 

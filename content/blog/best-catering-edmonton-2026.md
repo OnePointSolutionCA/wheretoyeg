@@ -3,7 +3,7 @@ title: "Best Catering in Edmonton (2026) | Corporate, Weddings & Private Events"
 seoTitle: "Best Catering in Edmonton 2026 | Event & Wedding Caterers | WhereToYEG"
 slug: "best-catering-edmonton-2026"
 description: "Top catering companies in Edmonton for weddings, corporate events, and private parties. Halal options, tiffin services, and full-service banquet caterers."
-publishedDate: "2026-09-03"
+publishedDate: "2026-07-13"
 tags: ["catering", "weddings", "corporate", "events", "halal", "tiffin", "guides"]
 ---
 

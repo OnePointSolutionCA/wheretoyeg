@@ -2,7 +2,7 @@
 title: "Where to Get an X-Ray or Ultrasound in Edmonton"
 slug: "diagnostic-imaging-edmonton"
 description: "Diagnostic imaging in Edmonton, where to get an X-ray, ultrasound, or same-day imaging, what a requisition looks like, and how the billing works."
-publishedDate: "2026-08-17"
+publishedDate: "2026-01-30"
 tags: ["diagnostic-imaging", "medical", "guides"]
 ---
 

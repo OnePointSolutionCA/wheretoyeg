@@ -2,7 +2,7 @@
 title: "Where to Buy Medical Supplies & Mobility Aids in Edmonton"
 slug: "medical-supplies-edmonton"
 description: "Walkers, wheelchairs, wound care, blister packs, incontinence supplies, where to buy medical supplies in Edmonton, with delivery and curbside pickup options."
-publishedDate: "2026-08-17"
+publishedDate: "2026-03-03"
 tags: ["medical-supplies", "medical", "guides"]
 ---
 

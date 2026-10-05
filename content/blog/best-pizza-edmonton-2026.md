@@ -3,7 +3,7 @@ title: "Best Pizza in Edmonton (2026) | Halal, Wood-Fired, & Late-Night"
 seoTitle: "Best Pizza in Edmonton 2026 | Halal Pizza Near Me | WhereToYEG"
 slug: "best-pizza-edmonton-2026"
 description: "Where to find the best pizza in Edmonton, halal pizzerias, wood-fired NY-style, late-night slices. Where locals actually get their pizza."
-publishedDate: "2026-08-18"
+publishedDate: "2026-04-24"
 tags: ["pizza", "halal", "restaurants", "italian", "guides"]
 ---
 

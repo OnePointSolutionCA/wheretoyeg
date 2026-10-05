@@ -3,7 +3,7 @@ title: "Best Date Night Restaurants in Edmonton (2026) | Romantic Spots That Are
 seoTitle: "Best Date Night Restaurants in Edmonton 2026 | Romantic Dining | WhereToYEG"
 slug: "best-date-night-restaurants-edmonton-2026"
 description: "Edmonton's best restaurants for date night, intimate lighting, great food, and an atmosphere that doesn't try too hard. First dates, anniversaries, and everything in between."
-publishedDate: "2026-08-30"
+publishedDate: "2026-06-11"
 tags: ["date-night", "restaurants", "romantic", "dining", "guides"]
 ---
 

@@ -3,7 +3,7 @@ title: "Moving to Edmonton in 2026 | What You Actually Need to Know"
 seoTitle: "Moving to Edmonton 2026 | Neighborhoods, Cost of Living & Local Guide | WhereToYEG"
 slug: "moving-to-edmonton-guide-2026"
 description: "Everything you need to know about moving to Edmonton in 2026. Neighborhoods, cost of living, weather prep, transit, and where to find the best local businesses."
-publishedDate: "2026-09-22"
+publishedDate: "2026-09-15"
 tags: ["edmonton", "moving", "neighborhoods", "guide"]
 ---
 

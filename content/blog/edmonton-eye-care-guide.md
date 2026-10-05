@@ -2,7 +2,7 @@
 title: "Edmonton Eye Care | Where to Get an Eye Exam"
 slug: "edmonton-eye-care-guide"
 description: "Where to book an eye exam in Edmonton, what an exam includes, how often you need one, and what insurance covers."
-publishedDate: "2026-08-17"
+publishedDate: "2026-02-07"
 tags: ["eye-care", "medical", "guides"]
 ---
 

@@ -3,7 +3,7 @@ title: "Best Auto Repair Shops in Edmonton (2026) | Mechanics You Can Trust"
 seoTitle: "Best Auto Repair in Edmonton 2026 | Mechanics Near Me | WhereToYEG"
 slug: "best-auto-repair-edmonton-2026"
 description: "Finding an honest mechanic in Edmonton. Collision repair, oil changes, brakes, diagnostics, the shops that won't upsell you on repairs you don't need."
-publishedDate: "2026-08-18"
+publishedDate: "2026-03-15"
 tags: ["auto-repair", "mechanic", "collision", "cars", "guides"]
 ---
 

@@ -3,7 +3,7 @@ title: "Best Ethiopian Food in Edmonton (2026) | Injera, Tibs & Kitfo Worth the 
 seoTitle: "Best Ethiopian Restaurants in Edmonton 2026 | Ethiopian Food Near Me | WhereToYEG"
 slug: "best-ethiopian-food-edmonton-2026"
 description: "Edmonton has one of the best Ethiopian food scenes in Canada. Injera platters, siga tibs, kitfo, and coffee ceremonies, where to eat and what to order."
-publishedDate: "2026-08-30"
+publishedDate: "2026-06-15"
 tags: ["ethiopian", "restaurants", "african", "injera", "guides"]
 ---
 

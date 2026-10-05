@@ -3,7 +3,7 @@ title: "Whyte Ave & Old Strathcona Guide (2026) | Where to Eat, Drink Coffee, an
 seoTitle: "Whyte Ave Guide 2026 | Best Restaurants & Coffee in Old Strathcona | WhereToYEG"
 slug: "whyte-ave-old-strathcona-guide-2026"
 description: "The complete Whyte Ave guide, coffee, brunch, halal restaurants, farmers market, spa breaks, and the shops that keep locals coming back."
-publishedDate: "2026-08-18"
+publishedDate: "2026-05-18"
 tags: ["whyte-ave", "old-strathcona", "neighborhoods", "guides"]
 ---
 

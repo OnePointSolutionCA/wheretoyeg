@@ -3,7 +3,7 @@ title: "Best Indian Food in Edmonton (2026) | From Biryani to Butter Chicken"
 seoTitle: "Best Indian Food in Edmonton 2026 | Curry, Biryani, Dosa Near Me | WhereToYEG"
 slug: "best-indian-food-edmonton-2026"
 description: "Where to find the best Indian food in Edmonton. Biryani, butter chicken, dosa, and street food, the restaurants locals recommend, not just the ones with the biggest signs."
-publishedDate: "2026-09-15"
+publishedDate: "2026-08-14"
 tags: ["indian", "biryani", "curry", "halal", "restaurants", "food"]
 ---
 

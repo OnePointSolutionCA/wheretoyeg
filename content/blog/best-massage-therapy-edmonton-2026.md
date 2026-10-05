@@ -3,7 +3,7 @@ title: "Best Massage Therapy & Spas in Edmonton (2026) | Deep Tissue, Thai & Rel
 seoTitle: "Best Massage Therapy in Edmonton 2026 | Spas & RMTs Near Me | WhereToYEG"
 slug: "best-massage-therapy-edmonton-2026"
 description: "Edmonton's top massage therapists and spas ranked. Deep tissue, Thai massage, hot stone, relaxation, where to book when your body is wrecked."
-publishedDate: "2026-08-26"
+publishedDate: "2026-05-26"
 tags: ["massage", "spas", "wellness", "self-care", "guides"]
 ---
 

@@ -3,7 +3,7 @@ title: "Best Hair Salons in Edmonton (2026) | Cuts, Colour & Blowouts Worth Book
 seoTitle: "Best Hair Salons in Edmonton 2026 | Top Stylists Near Me | WhereToYEG"
 slug: "best-hair-salons-edmonton-2026"
 description: "Edmonton's best hair salons for cuts, balayage, colour correction, and blowouts. The stylists locals actually rebook, not just the ones with the most Instagram followers."
-publishedDate: "2026-08-30"
+publishedDate: "2026-06-19"
 tags: ["hair-salons", "haircut", "balayage", "colour", "guides"]
 ---
 

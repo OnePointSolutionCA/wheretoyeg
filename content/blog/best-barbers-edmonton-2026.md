@@ -3,7 +3,7 @@ title: "Best Barbers in Edmonton (2026) | Fades, Beard Trims & Straight-Razor Sh
 seoTitle: "Best Barbers in Edmonton 2026 | Top Barbershops Near Me | WhereToYEG"
 slug: "best-barbers-edmonton-2026"
 description: "Where to get the best haircut in Edmonton. Skin fades, beard trims, straight-razor shaves, the barbershops locals book weeks in advance."
-publishedDate: "2026-08-18"
+publishedDate: "2026-03-23"
 tags: ["barbers", "haircut", "fades", "grooming", "guides"]
 ---
 
