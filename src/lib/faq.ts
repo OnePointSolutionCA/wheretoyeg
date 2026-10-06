@@ -123,6 +123,17 @@ export function categoryFaq(
       .map((n) => ({ label: `${n}`, href: opts.areaHref?.(n) ?? `/neighborhoods/${slugify(n)}` })),
   });
 
+  if (businesses.length >= 3 && areas.length >= 2) {
+    const near = distinct(businesses.filter((b) => b.rating > 0 && b.review_count >= 10).sort(byScore), 3);
+    if (near.length >= 2) {
+      items.push({
+        q: `Where can I find ${noun} near me in ${where}?`,
+        a: `${where} has ${noun} spread across ${join(areas)}${areas.length < counts.size ? ` and ${counts.size - areas.length} other neighbourhood${counts.size - areas.length === 1 ? "" : "s"}` : ""}. Pick a neighbourhood for the closest option, or filter by Open now at the top of this page to see who is open right now. Highly rated nearby picks include ${join(near.map(mention))}.`,
+        links: near.map((b) => ({ label: b.name, href: href(b) })),
+      });
+    }
+  }
+
   const sunday = businesses
     .filter((b) => b.hours?.sunday && !/closed/i.test(b.hours.sunday) && b.rating > 0)
     .sort(byScore);

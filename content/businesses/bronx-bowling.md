@@ -4,9 +4,9 @@ slug: "bronx-bowling"
 category: "activities-fun"
 subcategory: "bowling"
 tier: "featured"
-description: "Bronx Bowling — bowling in Edmonton, Edmonton. 676 Google reviews, 3.9★."
+description: "Bronx Bowling is a family-friendly bowling alley in north Edmonton on 127 Street, popular for birthday parties, school field trips and casual group outings. Lanes are open seven days a week until 10 pm (midnight on Fridays and Saturdays), and the on-site kitchen is known for pizza made fresh from scratch, dough and all."
 address: "12940 127 St, Edmonton, AB T5L 1A9"
-neighborhood: "Edmonton"
+neighborhood: "North Edmonton"
 phone: "(780) 455-2366"
 website: "http://www.bronxbowling.ca/"
 google_maps_url: "https://maps.google.com/?cid=5974188754387678382&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -23,8 +23,13 @@ rating: 3.9
 review_count: 678
 price_range: "$$"
 amenities:
-
-tags: ["edmonton", "bowling"]
+  - "Family Friendly"
+  - "Birthday Parties"
+  - "Group Bookings"
+  - "Dine-In"
+  - "Late Night"
+  - "Wheelchair Accessible"
+tags: ["edmonton", "bowling", "family"]
 active: true
 date_listed: "2026-08-30"
 reviews:
