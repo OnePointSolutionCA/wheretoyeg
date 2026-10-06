@@ -4,7 +4,7 @@ seoTitle: "Best Mexican Food in Edmonton 2026 | Tacos & Mexican Restaurants | Wh
 slug: "best-mexican-food-edmonton-2026"
 description: "Where to find the best Mexican food in Edmonton. Taquerias, birria tacos, carne asada, and sit-down Mexican restaurants locals rate highest on Google."
 draft: true
-publishedDate: "2026-07-29"
+publishedDate: "2026-02-10"
 tags: ["restaurants", "mexican", "tacos", "food", "guides"]
 ---
 

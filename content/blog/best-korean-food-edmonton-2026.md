@@ -3,7 +3,7 @@ title: "Best Korean Food in Edmonton (2026) | BBQ, Fried Chicken & Bibimbap"
 seoTitle: "Best Korean Restaurants in Edmonton 2026 | Korean BBQ & Fried Chicken | WhereToYEG"
 slug: "best-korean-food-edmonton-2026"
 description: "Edmonton's Korean food scene has exploded. Korean BBQ with tabletop grills, Seoul-style fried chicken, hand-pulled noodles, and bibimbap bowls worth the drive."
-publishedDate: "2026-05-22"
+publishedDate: "2025-06-17"
 tags: ["korean", "restaurants", "korean-bbq", "fried-chicken", "guides"]
 ---
 

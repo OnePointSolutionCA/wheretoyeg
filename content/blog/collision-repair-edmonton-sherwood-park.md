@@ -2,7 +2,7 @@
 title: "Collision Repair in Edmonton & Sherwood Park | What to Know"
 slug: "collision-repair-edmonton-sherwood-park"
 description: "After an accident: how collision repair works, what your insurance covers, and how to pick an auto body shop in Edmonton or Sherwood Park."
-publishedDate: "2026-01-26"
+publishedDate: "2024-05-07"
 tags: ["collision", "auto-repair", "guides"]
 ---
 

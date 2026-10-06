@@ -3,7 +3,7 @@ title: "Best Chinese Food in Edmonton (2026) | Dim Sum, Szechuan & More"
 seoTitle: "Best Chinese Restaurants in Edmonton 2026 | Dim Sum & Szechuan | WhereToYEG"
 slug: "best-chinese-food-edmonton-2026"
 description: "Where to find the best Chinese food in Edmonton. Dim sum, Szechuan, Cantonese, hand-pulled noodles, the Chinese restaurants locals actually recommend."
-publishedDate: "2026-08-26"
+publishedDate: "2026-05-19"
 tags: ["chinese", "dim-sum", "szechuan", "restaurants", "edmonton"]
 ---
 

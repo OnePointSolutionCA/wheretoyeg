@@ -3,7 +3,7 @@ title: "Best Dentists in Edmonton (2026) | Emergency, Walk-In & Family Dental Cl
 seoTitle: "Best Dentists Edmonton 2026 | Emergency Dentist Near Me | WhereToYEG"
 slug: "best-dentists-edmonton-2026"
 description: "The best dentists in Edmonton, emergency dental clinics, walk-in dentists, affordable family dental care. Where Edmontonians actually go when it hurts."
-publishedDate: "2026-07-21"
+publishedDate: "2026-01-13"
 tags: ["dentist", "emergency-dental", "medical", "healthcare", "guides"]
 ---
 

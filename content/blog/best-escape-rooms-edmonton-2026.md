@@ -3,7 +3,7 @@ title: "Best Escape Rooms in Edmonton (2026) | Plus Axe Throwing, Laser Tag & Bo
 seoTitle: "Best Escape Rooms Edmonton 2026 | Escape Street, GTFO, Axe Throwing | WhereToYEG"
 slug: "best-escape-rooms-edmonton-2026"
 description: "The best escape rooms in Edmonton ranked, plus axe throwing, laser tag, bowling, and go-karts. Where locals actually go for group activities."
-publishedDate: "2026-07-25"
+publishedDate: "2026-01-27"
 tags: ["escape-rooms", "activities", "axe-throwing", "laser-tag", "bowling", "guides"]
 ---
 

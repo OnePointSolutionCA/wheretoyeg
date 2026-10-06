@@ -3,7 +3,7 @@ title: "Best Family-Friendly Restaurants in Edmonton (2026)"
 seoTitle: "Best Family-Friendly Restaurants in Edmonton 2026 | Kid-Friendly Dining | WhereToYEG"
 slug: "best-family-restaurants-edmonton-2026"
 description: "The best family-friendly restaurants in Edmonton where kids are actually welcome. High chairs, kid menus, play areas, and food parents enjoy too."
-publishedDate: "2026-08-06"
+publishedDate: "2026-03-10"
 tags: ["family", "kids", "restaurants", "cafes", "food"]
 ---
 

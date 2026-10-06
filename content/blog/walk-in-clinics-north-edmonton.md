@@ -2,7 +2,7 @@
 title: "Best Walk-in Clinics in Edmonton | Where to Get Seen Same-Day"
 slug: "walk-in-clinics-north-edmonton"
 description: "Edmonton walk-in clinics that take you same-day, locations, hours, on-site pharmacies, and what to expect. Updated for 2026."
-publishedDate: "2026-03-11"
+publishedDate: "2024-10-08"
 tags: ["walk-in-clinics", "medical", "guides"]
 ---
 

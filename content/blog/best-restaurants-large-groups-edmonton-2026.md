@@ -3,7 +3,7 @@ title: "Best Restaurants for Large Groups in Edmonton (2026) | Where to Actually
 seoTitle: "Best Restaurants for Large Groups in Edmonton 2026 | Group Dining | WhereToYEG"
 slug: "best-restaurants-large-groups-edmonton-2026"
 description: "Planning dinner for 10, 15, or 20 people in Edmonton? These restaurants handle big groups without making you wait two hours or split the bill by hand."
-publishedDate: "2026-05-30"
+publishedDate: "2025-07-15"
 tags: ["restaurants", "groups", "dining", "family", "guides"]
 ---
 

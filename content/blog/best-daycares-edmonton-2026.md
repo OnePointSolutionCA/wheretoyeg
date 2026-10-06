@@ -3,7 +3,7 @@ title: "Best Daycares & Childcare in Edmonton (2026) | Early Learning, OSC & Day
 seoTitle: "Best Edmonton Daycares & Childcare 2026 | Day Homes, OSC & Montessori | WhereToYEG"
 slug: "best-daycares-edmonton-2026"
 description: "Edmonton daycares and childcare centres that actually have great reviews. Licensed centres, early learning programs, Montessori and out of school care across the city."
-publishedDate: "2026-10-01"
+publishedDate: "2026-09-22"
 tags: ["daycare", "childcare", "family", "guides"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Edmonton's Halal Smash Burger Scene (2026)"
 slug: "edmonton-halal-smash-burgers"
 description: "Halal smash burgers in Edmonton, who's making them right, how the smash technique works, and where locals go for a real one."
-publishedDate: "2026-02-11"
+publishedDate: "2024-07-02"
 tags: ["burgers", "halal", "restaurants"]
 ---
 

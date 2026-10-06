@@ -3,7 +3,7 @@ title: "Best Veterinarians in Edmonton (2026) | Vet Clinics, Animal Hospitals & 
 seoTitle: "Best Vets in Edmonton 2026 | Animal Hospitals, Emergency Vet & Pet Clinics | WhereToYEG"
 slug: "best-veterinarians-edmonton-2026"
 description: "The best vets and animal hospitals in Edmonton. Family pet clinics, 24-hour emergency care, spay and neuter, and specialists across every corner of the city."
-publishedDate: "2026-09-19"
+publishedDate: "2026-08-11"
 tags: ["veterinarians", "pets", "medical", "guides"]
 ---
 

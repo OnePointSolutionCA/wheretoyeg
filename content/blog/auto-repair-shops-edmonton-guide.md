@@ -3,7 +3,7 @@ title: "Auto Repair Shops in Edmonton | How to Find a Mechanic You Can Trust"
 seoTitle: "Best Auto Repair Shops in Edmonton | Trusted Mechanics Near Me | WhereToYEG"
 slug: "auto-repair-shops-edmonton-guide"
 description: "Edmonton's most trusted auto repair shops for oil changes, brake jobs, collision repair, and everything in between. How to find an honest mechanic and avoid getting ripped off."
-publishedDate: "2026-06-03"
+publishedDate: "2025-07-29"
 tags: ["auto-repair", "mechanics", "collision", "cars", "guides"]
 ---
 

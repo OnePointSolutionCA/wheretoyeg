@@ -3,7 +3,7 @@ title: "Best Grocery Stores & Ethnic Markets in Edmonton (2026)"
 seoTitle: "Best Grocery Stores & Ethnic Markets in Edmonton 2026 | Halal, Asian, Mediterranean | WhereToYEG"
 slug: "best-grocery-stores-edmonton-2026"
 description: "The best grocery stores and ethnic food markets in Edmonton. Halal meat shops, Asian supermarkets, Mediterranean delis, and farmers' markets locals actually shop at."
-publishedDate: "2026-08-10"
+publishedDate: "2026-03-24"
 tags: ["grocery", "markets", "halal", "asian", "mediterranean", "shopping"]
 ---
 

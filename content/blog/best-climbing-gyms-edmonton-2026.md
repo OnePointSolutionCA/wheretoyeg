@@ -3,7 +3,7 @@ title: "Best Rock Climbing Gyms in Edmonton (2026) | Bouldering, Top Rope & Indo
 seoTitle: "Best Rock Climbing Gyms Edmonton 2026 | Indoor Climbing & Bouldering | WhereToYEG"
 slug: "best-climbing-gyms-edmonton-2026"
 description: "The best rock climbing gyms in Edmonton, indoor bouldering, top rope, lead climbing. Where locals actually climb, from beginners to experienced climbers."
-publishedDate: "2026-07-17"
+publishedDate: "2025-12-30"
 tags: ["climbing", "bouldering", "fitness", "activities", "guides"]
 ---
 

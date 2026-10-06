@@ -3,7 +3,7 @@ title: "Best Thai Food in Edmonton (2026) | Pad Thai, Curries & Street Eats"
 seoTitle: "Best Thai Restaurants in Edmonton 2026 | Curries & Pad Thai | WhereToYEG"
 slug: "best-thai-food-edmonton-2026"
 description: "Where to find the best Thai food in Edmonton. Pad thai, green curry, tom yum, som tum, the Thai restaurants locals swear by, reviewed and rated."
-publishedDate: "2026-09-03"
+publishedDate: "2026-06-16"
 tags: ["thai", "restaurants", "curry", "pad-thai", "edmonton"]
 ---
 

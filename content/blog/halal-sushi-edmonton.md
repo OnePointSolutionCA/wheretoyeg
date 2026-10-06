@@ -3,7 +3,7 @@ title: "Halal Sushi in Edmonton | Where to Find It and What to Order"
 seoTitle: "Halal Sushi in Edmonton | Halal Japanese Restaurants Near Me | WhereToYEG"
 slug: "halal-sushi-edmonton"
 description: "Looking for halal sushi in Edmonton? Here's where to find halal-certified or halal-friendly Japanese food, sushi rolls, bento, ramen, and more."
-publishedDate: "2026-07-09"
+publishedDate: "2025-12-02"
 tags: ["halal", "sushi", "japanese", "restaurants", "guides"]
 ---
 

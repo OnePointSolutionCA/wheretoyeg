@@ -3,7 +3,7 @@ title: "Fall Things to Do in Edmonton (2026) | Before the Snow Hits"
 seoTitle: "Fall Things to Do in Edmonton 2026 | Seasonal Activities & Events | WhereToYEG"
 slug: "fall-things-to-do-edmonton-2026"
 description: "The best things to do in Edmonton this fall. River valley hikes, corn mazes, local food events, and indoor activities before winter arrives."
-publishedDate: "2026-09-27"
+publishedDate: "2026-09-08"
 tags: ["activities", "fall", "edmonton", "events", "guides"]
 ---
 

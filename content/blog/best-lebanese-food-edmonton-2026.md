@@ -3,7 +3,7 @@ title: "Best Lebanese & Mediterranean Food in Edmonton (2026) | Shawarma, Manake
 seoTitle: "Best Lebanese Food Edmonton 2026 | Shawarma, Falafel, Pita & Mediterranean | WhereToYEG"
 slug: "best-lebanese-food-edmonton-2026"
 description: "The best Lebanese and Mediterranean food in Edmonton. Shawarma, falafel, manakeesh, grilled platters, and the local favourites locals keep going back to."
-publishedDate: "2026-08-22"
+publishedDate: "2026-05-05"
 tags: ["lebanese", "mediterranean", "shawarma", "halal", "restaurants", "guides"]
 ---
 

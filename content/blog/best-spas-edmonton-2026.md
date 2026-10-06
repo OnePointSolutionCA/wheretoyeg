@@ -3,7 +3,7 @@ title: "Best Spas & Esthetics in Edmonton (2026) | Facials, Massages & Waxing"
 seoTitle: "Best Spas in Edmonton 2026 | Facials, Massages & Waxing Near Me | WhereToYEG"
 slug: "best-spas-edmonton-2026"
 description: "Best day spas, estheticians, and wellness studios in Edmonton. Facials, massages, waxing, brow work, what to book and where."
-publishedDate: "2026-05-02"
+publishedDate: "2025-04-08"
 tags: ["spa", "facials", "massage", "waxing", "esthetics", "guides"]
 ---
 

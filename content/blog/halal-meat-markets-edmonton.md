@@ -2,7 +2,7 @@
 title: "Best Halal Meat Markets in Edmonton"
 slug: "halal-meat-markets-edmonton"
 description: "Fresh halal butcher shops in Edmonton: Lebanese, Middle Eastern, South Asian and international meat markets. Where to buy, what to look for."
-publishedDate: "2026-02-23"
+publishedDate: "2024-08-13"
 tags: ["halal-meat", "grocery-markets", "guides"]
 ---
 

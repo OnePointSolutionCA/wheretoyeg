@@ -3,7 +3,7 @@ title: "Best Nail Salons in Edmonton (2026) | Gel, Acrylic & Dip Powder"
 seoTitle: "Best Nail Salons in Edmonton 2026 | Manicure & Pedicure Near Me | WhereToYEG"
 slug: "best-nail-salons-edmonton-2026"
 description: "Best nail salons in Edmonton, gel, acrylic, dip powder, and pedicures. What to expect, what it costs, and the spots that actually book out."
-publishedDate: "2026-04-16"
+publishedDate: "2025-02-11"
 tags: ["nails", "manicure", "pedicure", "beauty", "guides"]
 ---
 

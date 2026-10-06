@@ -3,7 +3,7 @@ title: "Best Brunch in Edmonton (2026) | Weekend Spots & Sunday Institutions"
 seoTitle: "Best Brunch in Edmonton 2026 | Weekend Brunch Near Me | WhereToYEG"
 slug: "best-brunch-edmonton-2026"
 description: "The best brunch spots in Edmonton. Weekend brunch, halal options, patio brunch on Whyte Ave, where to book and what to order."
-publishedDate: "2026-03-31"
+publishedDate: "2024-12-17"
 tags: ["brunch", "restaurants", "weekend", "breakfast", "guides"]
 ---
 

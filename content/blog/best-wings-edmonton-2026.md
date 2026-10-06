@@ -3,7 +3,7 @@ title: "Best Wings in Edmonton (2026) | Where Locals Actually Order Wings"
 seoTitle: "Best Wings in Edmonton 2026 | Hot, Honey Garlic, Dry Rub & Halal | WhereToYEG"
 slug: "best-wings-edmonton-2026"
 description: "The best wings in Edmonton. Hot, honey garlic, dry rub, boneless, halal. From Wing Snob to local spots, with ratings and locations across the city."
-publishedDate: "2026-09-23"
+publishedDate: "2026-08-25"
 tags: ["wings", "restaurants", "takeout", "guides"]
 ---
 

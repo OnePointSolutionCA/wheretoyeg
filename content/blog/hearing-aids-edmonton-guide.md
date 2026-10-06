@@ -2,7 +2,7 @@
 title: "Where to Get Hearing Aids in Edmonton | 2026 Local Guide"
 slug: "hearing-aids-edmonton-guide"
 description: "A practical guide to hearing aid clinics in Edmonton, where to book a free test, what to expect at your fitting, and the trusted local clinics we recommend."
-publishedDate: "2026-02-27"
+publishedDate: "2024-08-27"
 tags: ["hearing-care", "medical", "guides"]
 ---
 

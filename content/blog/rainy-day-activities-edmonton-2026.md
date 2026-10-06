@@ -3,7 +3,7 @@ title: "Rainy-Day Activities in Edmonton (2026) | Indoor Fun When the Weather's 
 seoTitle: "Rainy Day Activities in Edmonton 2026 | Indoor Fun Near Me | WhereToYEG"
 slug: "rainy-day-activities-edmonton-2026"
 description: "Best indoor things to do in Edmonton, climbing gyms, escape rooms, arcades, padel courts, bowling, board game cafes, and axe throwing. Rain or -30, we've got you."
-publishedDate: "2026-05-10"
+publishedDate: "2025-05-06"
 tags: ["activities", "rainy-day", "indoor", "date-night", "family-friendly", "guides"]
 ---
 

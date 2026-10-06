@@ -2,7 +2,7 @@
 title: "Chiropractic Care in Edmonton | What to Know Before You Book"
 slug: "edmonton-chiropractic-guide"
 description: "Chiropractic in Edmonton, what a first visit looks like, what conditions it actually helps, and how to pick a chiropractor who won't oversell."
-publishedDate: "2026-02-03"
+publishedDate: "2024-06-04"
 tags: ["chiropractors", "medical", "guides"]
 ---
 

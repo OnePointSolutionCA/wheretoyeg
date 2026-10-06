@@ -3,7 +3,7 @@ title: "Fun Things to Do in Edmonton (2026) | Activities, Arcades & Adventures"
 seoTitle: "Fun Things to Do in Edmonton 2026 | Activities & Entertainment | WhereToYEG"
 slug: "fun-things-to-do-edmonton-2026"
 description: "The best fun things to do in Edmonton this year. Arcades, axe throwing, VR, bowling, trampoline parks, escape rooms and more, all rated by locals."
-publishedDate: "2026-09-11"
+publishedDate: "2026-07-14"
 tags: ["activities", "fun", "entertainment", "things-to-do", "edmonton"]
 ---
 

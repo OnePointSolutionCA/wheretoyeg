@@ -3,7 +3,7 @@ title: "Where to Eat Downtown Edmonton (2026) | Lunch, Dinner & Late Night"
 seoTitle: "Where to Eat Downtown Edmonton 2026 | Best Restaurants Downtown YEG | WhereToYEG"
 slug: "where-to-eat-downtown-edmonton-2026"
 description: "Downtown Edmonton restaurants worth walking to. Lunch spots for office workers, dinner for a date, late-night eats after events at Rogers Place."
-publishedDate: "2026-05-14"
+publishedDate: "2025-05-20"
 tags: ["downtown", "restaurants", "lunch", "dinner", "guides"]
 ---
 

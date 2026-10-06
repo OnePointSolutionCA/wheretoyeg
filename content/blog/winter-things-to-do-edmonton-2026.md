@@ -3,7 +3,7 @@ title: "Winter Things to Do in Edmonton (2026) | Indoor & Outdoor for the Cold M
 seoTitle: "Winter Activities in Edmonton 2026 | Skating, Museums, Indoor Play | WhereToYEG"
 slug: "winter-things-to-do-edmonton-2026"
 description: "The best winter activities in Edmonton. Skating trails, museums, indoor playgrounds, bouldering, and warm places to go when it's -20 outside."
-publishedDate: "2026-10-05"
+publishedDate: "2026-10-06"
 tags: ["winter", "activities", "families", "guides"]
 ---
 
