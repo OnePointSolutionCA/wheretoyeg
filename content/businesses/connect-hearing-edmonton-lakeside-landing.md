@@ -36,11 +36,11 @@ reviews:
     comment: |
       Best place in Edmonton to get hear aid done nicest wonderful place so peaceful and excellent service
 hours:
-  monday: "9:00 AM–12:00 PM"
-  tuesday: "9:00 AM–12:00 PM"
-  wednesday: "9:00 AM–12:00 PM"
-  thursday: "9:00 AM–12:00 PM"
-  friday: "9:00 AM–12:00 PM"
+  monday: "9:00 AM–12:00 PM, 1:00 PM–5:00 PM"
+  tuesday: "9:00 AM–12:00 PM, 1:00 PM–5:00 PM"
+  wednesday: "9:00 AM–12:00 PM, 1:00 PM–5:00 PM"
+  thursday: "9:00 AM–12:00 PM, 1:00 PM–5:00 PM"
+  friday: "9:00 AM–12:00 PM, 1:00 PM–5:00 PM"
   saturday: "Closed"
   sunday: "Closed"
 ---

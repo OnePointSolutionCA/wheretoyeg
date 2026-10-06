@@ -15,7 +15,7 @@ hours:
   tuesday: "11:00 AM–11:00 PM"
   wednesday: "11:00 AM–11:00 PM"
   thursday: "11:00 AM–11:00 PM"
-  friday: "11:00 AM–2:30 PM"
+  friday: "11:00 AM–2:30 PM, 4:00 PM–11:00 PM"
   saturday: "11:00 AM–11:00 PM"
   sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/donair-station-1.jpg", "/photos/donair-station-2.jpg", "/photos/donair-station-3.jpg"]

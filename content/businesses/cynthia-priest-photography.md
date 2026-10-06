@@ -11,11 +11,11 @@ phone: "(780) 707-3668"
 website: "https://www.cynthiapriestphotography.com/"
 google_maps_url: "https://maps.google.com/?cid=15864060558246796448&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "10:00 AM–11:00 AM"
+  monday: "10:00 AM–11:00 AM, 1:00 PM–9:00 PM"
   tuesday: "9:00 AM–7:00 PM"
   wednesday: "Closed"
   thursday: "9:00 AM–5:30 PM"
-  friday: "10:00 AM–11:00 AM"
+  friday: "10:00 AM–11:00 AM, 1:00 PM–5:00 PM"
   saturday: "8:00 AM–9:00 PM"
   sunday: "10:00 AM–8:00 PM"
 photos:
