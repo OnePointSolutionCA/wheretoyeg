@@ -3,31 +3,21 @@
 import Image from "next/image";
 import { useEffect, useState } from "react";
 
-const STORAGE_KEY = "onepoint-popup-dismissed-v1";
-const DELAY_MS = 6000;
-const COOLDOWN_DAYS = 7;
+const DELAY_MS = 4000;
 
 /**
- * Dismissible popup for OnePoint Solutions, shown once per visitor every COOLDOWN_DAYS days.
- * Slides up from the bottom right after a short delay so it does not fight with the hero.
+ * Dismissible popup for OnePoint Solutions. Shows every page load after a short
+ * delay so visitors see it on every refresh.
  */
 export function OnePointPopup() {
   const [open, setOpen] = useState(false);
 
   useEffect(() => {
-    try {
-      const raw = localStorage.getItem(STORAGE_KEY);
-      if (raw) {
-        const dismissedAt = parseInt(raw, 10);
-        if (Date.now() - dismissedAt < COOLDOWN_DAYS * 24 * 60 * 60 * 1000) return;
-      }
-    } catch {}
     const t = setTimeout(() => setOpen(true), DELAY_MS);
     return () => clearTimeout(t);
   }, []);
 
   function dismiss() {
-    try { localStorage.setItem(STORAGE_KEY, String(Date.now())); } catch {}
     setOpen(false);
   }
 
