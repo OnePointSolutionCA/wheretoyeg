@@ -9,6 +9,7 @@ import { breadcrumbSchema, JsonLd } from "@/lib/schema-extra";
 import { BusinessCard } from "@/components/BusinessCard";
 import { RelatedGuides } from "@/components/RelatedGuides";
 import { OnePointAd } from "@/components/OnePointAd";
+import { pickAdvertiser } from "@/lib/advertisers";
 import { SITE } from "@/lib/site";
 import { fitTitle, metaDescription } from "@/lib/seo";
 
@@ -50,6 +51,7 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
   const catNames = Object.fromEntries((cat ? [cat] : []).map((c) => [c.slug, c.name]));
   const related = relatedPosts(cat?.slug ?? "restaurants", 3, p.slug);
   const more = related.length >= 3 ? related : [...related, ...getBlogPosts().filter((x) => x.slug !== p.slug && !related.includes(x))].slice(0, 3);
+  const adAdvertiser = pickAdvertiser({ category: cat?.slug, tags: p.tags });
 
   const blogPostingSchema = {
     "@context": "https://schema.org",
@@ -137,7 +139,7 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
                 </Link>
               </div>
             )}
-            <OnePointAd placement="blog-sidebar" variant="sidebar" />
+            <OnePointAd placement="blog-sidebar" variant="sidebar" advertiser={adAdvertiser} />
           </div>
         </aside>
       </div>
@@ -155,7 +157,7 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
       )}
 
       <section className="container-page mt-16 sm:mt-20">
-        <OnePointAd placement="blog-footer" variant="banner" />
+        <OnePointAd placement="blog-footer" variant="banner" advertiser={adAdvertiser} />
       </section>
 
       <RelatedGuides posts={more} title="Keep reading" />

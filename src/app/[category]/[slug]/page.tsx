@@ -18,6 +18,7 @@ import { BusinessGallery } from "@/components/BusinessGallery";
 import { BusinessHours } from "@/components/BusinessHours";
 import { QuickActions, MobileActionBar } from "@/components/QuickActions";
 import { OnePointAd } from "@/components/OnePointAd";
+import { pickAdvertiser } from "@/lib/advertisers";
 import { CheckIcon, ClockIcon, GlobeIcon, InfoIcon, MailIcon, NavIcon, PhoneIcon, PinIcon } from "@/components/icons";
 import { ReviewCard } from "@/components/ReviewCard";
 import { BusinessCard } from "@/components/BusinessCard";
@@ -639,7 +640,7 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
                 <p className="mt-2 text-xs text-teal-300">Opens a search on the delivery app. Availability varies.</p>
               </div>
             )}
-            <OnePointAd placement="business-sidebar" variant="sidebar" />
+            <OnePointAd placement="business-sidebar" variant="sidebar" advertiser={pickAdvertiser({ category: b.category, subcategory: b.subcategory, tags: b.tags })} />
           </div>
         </aside>
       </section>

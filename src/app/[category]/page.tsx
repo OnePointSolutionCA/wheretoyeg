@@ -18,6 +18,7 @@ import { CATEGORY_PLURAL, fitTitle, metaDescription } from "@/lib/seo";
 import { FaqSection } from "@/components/FaqSection";
 import { RelatedGuides } from "@/components/RelatedGuides";
 import { OnePointAd } from "@/components/OnePointAd";
+import { pickAdvertiser } from "@/lib/advertisers";
 import { categoryFaq } from "@/lib/faq";
 import { relatedPosts } from "@/lib/related";
 import { SITE } from "@/lib/site";
@@ -241,7 +242,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
 
       {/* Sponsored: OnePoint Solutions display ad */}
       <section className="container-page mt-12" data-reveal="up">
-        <OnePointAd placement="category-footer" variant="banner" />
+        <OnePointAd placement="category-footer" variant="banner" advertiser={pickAdvertiser({ category: c.slug })} />
       </section>
 
       <section className="container-page mt-6" data-reveal="left">
