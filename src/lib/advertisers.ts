@@ -66,9 +66,9 @@ const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
   oxford: {
     id: "oxford",
     name: "Oxford Chiropractic & Wellness",
-    logoSrc: "/logos/oxford-chiro.png",
+    logoSrc: "/logos/oxford-chiro-horizontal.png",
     logoAlt: "Oxford Chiropractic & Wellness",
-    logoHeightPx: 72,
+    logoHeightPx: 40,
     tagline: "Chiropractic & wellness",
     headline: "Back pain? See an",
     highlight: "Edmonton chiro.",
@@ -87,7 +87,12 @@ export function advertiser(id: AdvertiserId): Advertiser {
   return ADVERTISERS[id];
 }
 
-/** Pick which advertiser fits the current page. Falls back to OnePoint when nothing matches. */
+/**
+ * Pick which advertiser fits the current page.
+ *   - Strong contextual match wins (auto-repair → Fix Auto, chiro / physio / massage → Oxford).
+ *   - Otherwise rotates between all 3 so Oxford and Fix Auto show across the site
+ *     too, not only on their own category pages.
+ */
 export function pickAdvertiser(ctx: { category?: string; subcategory?: string; tags?: string[] }): AdvertiserId {
   const text = `${ctx.category ?? ""} ${ctx.subcategory ?? ""} ${(ctx.tags ?? []).join(" ")}`.toLowerCase();
   if (ctx.category === "auto-repair" || /\b(auto|collision|body-shops?|tires?|mechanic|paintless|dent)\b/.test(text)) {
@@ -101,7 +106,11 @@ export function pickAdvertiser(ctx: { category?: string; subcategory?: string; t
     return "oxford";
   }
   if (/\b(chiropract|physiotherapy|back pain|neck pain|whiplash|sciatica)\b/.test(text)) return "oxford";
-  return "onepoint";
+  // Spread the three advertisers across every other page by hashing a stable key for this page.
+  const key = `${ctx.category ?? ""}|${ctx.subcategory ?? ""}|${(ctx.tags ?? []).join(",")}`;
+  let hash = 0;
+  for (let i = 0; i < key.length; i++) hash = (hash * 31 + key.charCodeAt(i)) | 0;
+  return rotateAdvertiser(hash);
 }
 
 /** Deterministic rotation across all 3 advertisers; same answer for the whole day in Edmonton. */
