@@ -27,6 +27,7 @@ rating: 4.7
 review_count: 836
 price_range: "$$"
 amenities:
+  - "Kosher"
   - "Takeout"
   - "Wheelchair Accessible"
 tags: ["edmonton", "pastries"]

@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { getBusinesses, getBusinessesByCategory, getCategoryBySlug } from "@/lib/content";
 import { getBlogPosts } from "@/lib/blog";
 import { FilterableList } from "@/components/FilterBar";
+import { BusinessCard } from "@/components/BusinessCard";
 import { FaqSection, type FaqEntry } from "@/components/FaqSection";
 import { RelatedGuides } from "@/components/RelatedGuides";
 import { ListingIndex } from "@/components/ListingIndex";
@@ -85,6 +86,10 @@ export default function HalalRestaurantsPage() {
   const halalMeat = all.filter((b) => b.category === "grocery-markets" && b.subcategory === "halal-meat");
   const halalBakeries = all.filter((b) => b.category === "bakeries" && b.amenities?.includes("Halal"));
   const amenities = Array.from(new Set(list.flatMap((b) => b.amenities ?? []))).sort();
+  // Certified kosher kitchens, plus grocery stores that carry a kosher section.
+  const kosher = all.filter((b) => b.amenities?.includes("Kosher")).sort(byRank);
+  const kosherGroceries = all.filter((b) => b.amenities?.includes("Kosher Section")).sort(byRank);
+  const catNames = new Map([...new Set(kosher.map((b) => b.category))].map((slug) => [slug, getCategoryBySlug(slug)?.name ?? slug]));
   const guides = getBlogPosts().filter((p) => p.slug.includes("halal") || p.tags?.includes("halal")).slice(0, 3);
 
   const faq: FaqEntry[] = [
@@ -119,6 +124,13 @@ export default function HalalRestaurantsPage() {
             { label: "Halal butchers", href: "/grocery-markets/halal-meat" },
             { label: "Halal meat market guide", href: "/blog/halal-meat-markets-edmonton" },
           ],
+        }]
+      : []),
+    ...(kosher.length + kosherGroceries.length > 0
+      ? [{
+          q: "Where can I find kosher food in Edmonton?",
+          a: `${listJoin([...kosher, ...kosherGroceries].map((b) => b.name))} ${kosher.length + kosherGroceries.length === 1 ? "is" : "are"} listed on WhereToYEG for kosher food. Kosher and halal are separate standards, so if either one matters to you, check the certification with the business before you buy.`,
+          links: [...kosher, ...kosherGroceries].map((b) => ({ label: b.name, href: `/${b.category}/${b.slug}` })),
         }]
       : []),
   ];
@@ -211,9 +223,42 @@ export default function HalalRestaurantsPage() {
             <Link href="/catering/halal-catering" className="chip">Halal catering</Link>
             <Link href="/collections/halal-foodie-tour" className="chip">Halal foodie tour</Link>
             <Link href="/blog/halal-food-guide-edmonton-2026" className="chip">Halal food guide</Link>
+            {kosher.length + kosherGroceries.length > 0 && <a href="#kosher" className="chip">Kosher spots <span className="text-teal-300">{kosher.length + kosherGroceries.length}</span></a>}
           </div>
         </div>
       </section>
+
+      {kosher.length + kosherGroceries.length > 0 && (
+        <section id="kosher" className="container-page mt-12 scroll-mt-28" data-reveal="up">
+          <p className="eyebrow">Kosher in Edmonton</p>
+          <h2 className="section-title mt-1">Kosher spots</h2>
+          <p className="mt-3 max-w-3xl text-teal-500">
+            Many halal diners also choose certified kosher spots, especially for baked goods and packaged food. Kosher and halal are
+            separate religious standards with their own rules, so one is not a stand in for the other. If it matters to you, check the
+            certification with the business before you buy.
+          </p>
+          {kosher.length > 0 && (
+            <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+              {kosher.map((b) => (
+                <BusinessCard key={b.slug} business={toCard(b)} categoryName={catNames.get(b.category)} />
+              ))}
+            </div>
+          )}
+          {kosherGroceries.length > 0 && (
+            <div className="mt-6 rounded-2xl border border-line bg-mist p-5">
+              <p className="text-sm font-bold text-teal">Grocery stores with a kosher section</p>
+              <p className="mt-1 text-sm text-teal-500">These are regular supermarkets that stock kosher meat, dairy and baked goods. Look for the hechsher on each product.</p>
+              <div className="mt-3 flex flex-wrap gap-2">
+                {kosherGroceries.map((b) => (
+                  <Link key={b.slug} href={`/${b.category}/${b.slug}`} className="chip">
+                    {b.name} {b.neighborhood && <span className="text-teal-300">{b.neighborhood}</span>}
+                  </Link>
+                ))}
+              </div>
+            </div>
+          )}
+        </section>
+      )}
 
       <div className="mt-12 bg-mist pb-14 pt-2 sm:pb-20">
         <RelatedGuides posts={guides} title="Halal guides for Edmonton" />

@@ -25,6 +25,11 @@ export function Footer() {
                 </Link>
               </li>
             ))}
+            <li>
+              <Link href="/halal-restaurants" className="text-teal hover:text-coral">
+                Halal Restaurants
+              </Link>
+            </li>
           </ul>
         </div>
         <div>

@@ -81,6 +81,7 @@ export function Navbar({ categories = [] }: { categories?: NavCategory[] }) {
           >
             Browse
           </a>
+          <Link href="/halal-restaurants" className="text-sm font-semibold text-teal transition hover:text-coral">Halal</Link>
           <Link href="/collections" className="text-sm font-semibold text-teal transition hover:text-coral">Vibes</Link>
           <Link href="/neighborhoods" className="text-sm font-semibold text-teal transition hover:text-coral">Neighborhoods</Link>
           <Link href="/blog" className="text-sm font-semibold text-teal transition hover:text-coral">Blog</Link>
@@ -111,6 +112,7 @@ export function Navbar({ categories = [] }: { categories?: NavCategory[] }) {
         ) : (
           <Link href="/categories" className={mobilePill(pathname === "/categories")}>Categories</Link>
         )}
+        <Link href="/halal-restaurants" className={mobilePill(pathname === "/halal-restaurants")}>Halal</Link>
         <Link href="/collections" className={mobilePill(pathname === "/collections")}>Vibes</Link>
         <Link href="/neighborhoods" className={mobilePill(pathname === "/neighborhoods")}>Areas</Link>
         <Link href="/blog" className={mobilePill(pathname === "/blog")}>Blog</Link>
