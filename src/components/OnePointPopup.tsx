@@ -39,12 +39,13 @@ export function OnePointPopup() {
           onClick={dismiss}
           onTouchEnd={(e) => { e.preventDefault(); dismiss(); }}
           aria-label="Close ad"
-          className="absolute right-2 top-2 z-10 flex h-11 w-11 cursor-pointer items-center justify-center rounded-full bg-white/15 text-white transition active:scale-95 hover:bg-white/25"
+          className="absolute right-2.5 top-2.5 z-20 flex h-9 w-9 cursor-pointer items-center justify-center rounded-full bg-[#2D3E50] text-white shadow-md ring-2 ring-white transition active:scale-95 hover:bg-black"
           style={{ touchAction: "manipulation", WebkitTapHighlightColor: "transparent" }}
         >
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" aria-hidden="true">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" aria-hidden="true">
             <path d="M6 6l12 12M6 18L18 6" />
           </svg>
+          <span className="sr-only">Close</span>
         </button>
         {/* White strip so the full-colour OnePoint logo always reads, including on mobile where CSS filter inversions can fail. */}
         <div className="relative bg-white px-5 pb-3 pt-4 pr-14 sm:pr-16">
