@@ -31,7 +31,7 @@
   },
   {
     "source": "/cafes-coffee-shops/cake-and-dessert-cafe",
-    "destination": "/cafes-coffee-shops/cake-dessert-cafe",
+    "destination": "/cafes-coffee-shops/dessert-cafes",
     "permanent": true
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "source": "/restaurants/fn-za",
-    "destination": "/restaurants/fnza",
+    "destination": "/restaurants/pizza",
     "permanent": true
   },
   {
@@ -852,6 +852,1081 @@
   {
     "source": "/spas-esthetics/wildflower-hair-salon",
     "destination": "/hair-salons/wildflower-hair-salon",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/the-moth-cafe",
+    "destination": "/cafes-coffee-shops",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/the-other-place-by-la-patrona",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/porta-romana-restaurant",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/famoso-italian-pizzeria---jasper-ave",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/famoso-italian-pizzeria-spruce-grove",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/rockin-robyns",
+    "destination": "/restaurants/family",
+    "permanent": true
+  },
+  {
+    "source": "/activities-fun/gateway-lanes",
+    "destination": "/activities-fun",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/emperors-palace-chinese-cuisine",
+    "destination": "/restaurants/chinese",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/oishii-beaumont-japanese-cuisine",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/lufi-indian-cuisine",
+    "destination": "/restaurants/indian",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/boualouang-laos-thai-cuisine",
+    "destination": "/restaurants/thai",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/loft-thai-eatery",
+    "destination": "/restaurants/thai",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/montys-pizza",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/dang-good-restaurant",
+    "destination": "/restaurants/pho",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/lemongrass-cafe-windermere",
+    "destination": "/cafes-coffee-shops/international",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/una-pizza-wine-edmonton-south-common",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/la-morenita",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/iconoclast-coffee-roasters",
+    "destination": "/cafes-coffee-shops/roasters",
+    "permanent": true
+  },
+  {
+    "source": "/activities-fun/waypoint-esports-lounge",
+    "destination": "/activities-fun/arcades",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/remedy-cafe",
+    "destination": "/cafes-coffee-shops/espresso-bars",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/ecity-flame-best-offer-on-website",
+    "destination": "/restaurants/brunch",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/bag-ocrab",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/namaste-india-north",
+    "destination": "/restaurants/indian",
+    "permanent": true
+  },
+  {
+    "source": "/catering/sawmill-banquet-and-catering-services",
+    "destination": "/catering/wedding-catering",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/fox-burger-highlands",
+    "destination": "/restaurants/burgers",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/memphis-blues-bbq-house",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/bellissimo-pizza-and-pasta",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/memphis-blues",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/bb2-korean-bbq-house-century-park",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/buffet-royale-carvery-west",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/dim-sum-delight-chinese-cuisine",
+    "destination": "/restaurants/chinese",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/famoso-pronto-st-albert",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/state-and-main",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/birch-and-bear-pizza",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/biera",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/p-f-changs",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/le-tramway-cafe-bistro",
+    "destination": "/cafes-coffee-shops/brunch-cafes",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/olia",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/thai-valley-grill",
+    "destination": "/restaurants/thai",
+    "permanent": true
+  },
+  {
+    "source": "/activities-fun/arkadium-retro-arcade",
+    "destination": "/activities-fun",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/buco-pizzeria",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/langano-skies",
+    "destination": "/restaurants/ethiopian",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/have-mercy-food-booze",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/square-1-coffee-sherwood-park",
+    "destination": "/cafes-coffee-shops",
+    "permanent": true
+  },
+  {
+    "source": "/activities-fun/rec-room-edmonton",
+    "destination": "/activities-fun/arcades",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/the-ivy-tea-room-and-bakery",
+    "destination": "/cafes-coffee-shops",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/dennys-restaurant-spruce-grove",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/jung-korean-restaurant",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/beijing-beijing-dim-sum-seafood-restaurant",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/mariachi-love",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/momo-and-wok",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/caf-bloom-at-the-muttart",
+    "destination": "/cafes-coffee-shops",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/mesob-habesha-fusion",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/cake-dessert-cafe",
+    "destination": "/cafes-coffee-shops/dessert-cafes",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/numchok-wilai-restaurant",
+    "destination": "/restaurants/thai",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/barb-and-ernies-old-country-inn",
+    "destination": "/restaurants/brunch",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/rosso-pizzeria",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/fnza",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/japonais-windermere",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/the-ridge-social-eatery",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/kebab-time-turkish-restaurant",
+    "destination": "/restaurants/mediterranean",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/yang-ming-buffet",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/basiles-2-for-1-pizza-and-pasta",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/cafe-haven",
+    "destination": "/cafes-coffee-shops",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/cafe-celeste-bistro",
+    "destination": "/cafes-coffee-shops/international",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/pho-4-seasons",
+    "destination": "/restaurants/vietnamese",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/high-dough",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/famoso-italian-pizzeria-jasper-ave",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/tansen-izakaya-edmonton",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/district-cafe",
+    "destination": "/cafes-coffee-shops/brunch-cafes",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/big-bird-fried-chicken",
+    "destination": "/restaurants/brunch",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/cartago",
+    "destination": "/restaurants/latin",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/the-woodvale-room",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/catering/thrive-catering-co",
+    "destination": "/catering/event-catering",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/aejo-restaurant",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/ouzo-taverna",
+    "destination": "/restaurants/mediterranean",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/joey-sherwood",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/pip",
+    "destination": "/restaurants/brunch",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/saigon-delights",
+    "destination": "/restaurants/vietnamese",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/saigon-taste",
+    "destination": "/restaurants/vietnamese",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/siam-thai-kitchen-st-albert-trail",
+    "destination": "/restaurants/thai",
+    "permanent": true
+  },
+  {
+    "source": "/catering/prairie-catering",
+    "destination": "/catering",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/nero",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/capital-pizza",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/sugarbowl",
+    "destination": "/restaurants/brunch",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/cafe-bicyclette",
+    "destination": "/cafes-coffee-shops/brunch-cafes",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/smittys-restaurant-and-lounge-edmonton-millwoods",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/glasshouse-cafe",
+    "destination": "/cafes-coffee-shops",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/nook-cafe",
+    "destination": "/cafes-coffee-shops/brunch-cafes",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/aloha-hawaiian-poke-grill",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/feng-donburi",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/iconoclast-koffiehuis",
+    "destination": "/cafes-coffee-shops/espresso-bars",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/oc-wings",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/tonys-pizza-palace",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/back-nine-tavern",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/hathaways-diner---downtown-edmonton",
+    "destination": "/restaurants/brunch",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/the-woodvale-clubhouse-restaurant",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/famoso-italian-pizzeria-namao-centre",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/something-else-restaurant-spruce-grove",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/kerala-restaurant-authentic-south-indian-indo-chinese-cuisin",
+    "destination": "/restaurants/biryani",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/dosc",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/gintaro-japanese-kitchen",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/the-mash-st-albert",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/hus-noodle-nook",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/miss-saigon-vietnamese-noodle-house-windermere",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/sabor-restaurant",
+    "destination": "/restaurants/latin",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/robs-original-fried-chicken",
+    "destination": "/restaurants/fried-chicken",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/hash-the-browns",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/red-star-bar",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/nagoya-japanese-cuisine",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/activities-fun/table-top-cafe-edmonton",
+    "destination": "/activities-fun/board-games",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/royal-pizza-newcastle",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/may",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/activities-fun/plaza-bowling-co",
+    "destination": "/activities-fun",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/bianco",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/chinese-hot-pot-buffet",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/kokoro-tokyo-mazesoba-u-of-a",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/original-joes",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/vaticano-cucina",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/hot-coffee-cafe-and-play",
+    "destination": "/cafes-coffee-shops",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/three-boars",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/lovepizza-canterra",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/mikado-downtown",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/halong-bay-noodle-house",
+    "destination": "/restaurants/vietnamese",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/gogi-korean-bbq---edmonton-south",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/paninis-italian-cucina-149-street",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/happy-and-olive",
+    "destination": "/restaurants/family",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/lovepizza",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/little-wolf-restaurant",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/barbacoa",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/activities-fun/grand-prix-kartways",
+    "destination": "/activities-fun/karting",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/blowers-and-grafton-sherwood-park",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/the-captains-boil",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/myes-ribs",
+    "destination": "/restaurants/filipino",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/zaika-of-india",
+    "destination": "/restaurants/indian",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/de-dutch",
+    "destination": "/restaurants/brunch",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/baekjeong-korean-bbq-house",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/baijiu",
+    "destination": "/restaurants/chinese",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/polos-social-lounge",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/bahubali-indian-cuisine-edmonton",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/jacks-burger-shack",
+    "destination": "/restaurants/burgers",
+    "permanent": true
+  },
+  {
+    "source": "/catering/joannes-food-truck-catering",
+    "destination": "/catering",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/modu-eats",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/bravo-pizza-and-kitchen",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/sawmill-prime-rib-and-steak-house",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/dogpatch",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/flat-boy-burgers",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/baekjeong-korean-bbq-house-2",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/massawa-cafe",
+    "destination": "/cafes-coffee-shops/international",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/japonais-bistro",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/lucky-kitchen-all-day-dimsum-restaurant",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/la-cocina-latina",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/acero-artisanal-cuisine",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/chartier",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/kaizen-japanese-restaurant",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/pizza-73",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/spark-chef",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/out-of-bounds-restaurant",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/riverbank-bistro",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/homefire-grill",
+    "destination": "/restaurants/family",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/the-cheesecake-cafe",
+    "destination": "/cafes-coffee-shops",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/sunny-side-up-breakfast-sherwood-park",
+    "destination": "/restaurants/brunch",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/himalayan-village-mill-woods-town-centre-edmonton",
+    "destination": "/restaurants/chinese",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/washoku-bistro",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/homeground-coffee-kitchen",
+    "destination": "/cafes-coffee-shops/brunch-cafes",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/solar-brunch",
+    "destination": "/restaurants/brunch",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/capital-pizza-and-steak-house",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/hathaways-diner",
+    "destination": "/restaurants/family",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/siam-thai-kitchen",
+    "destination": "/restaurants/thai",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/atlas-cafe-grill",
+    "destination": "/cafes-coffee-shops/international",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/famoso-italian-pizzeria-magrath",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/djs-pizzeria",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/new-asian-village-largest-indian-buffet-in-edmonton",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/roasti-coffee-co-specialty-coffee-roaster-and-cafe",
+    "destination": "/cafes-coffee-shops",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/mill-creek-cafe",
+    "destination": "/cafes-coffee-shops",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/the-workshop-eatery",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/ragazzi-bistro-italiano",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/little-brick",
+    "destination": "/restaurants/brunch",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/gebeta-restaurant-lounge",
+    "destination": "/restaurants/ethiopian",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/little-brick-cafe",
+    "destination": "/cafes-coffee-shops/brunch-cafes",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/zigle-korean-bulgogi-restaurant",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/sushi-ai-edmonton",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/the-pizza-spot",
+    "destination": "/restaurants/pizza",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/xix-nineteen",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/cafe-amore-bistro",
+    "destination": "/cafes-coffee-shops/international",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/sofra-turkish-restaurant-wine-cellar",
+    "destination": "/restaurants/turkish",
+    "permanent": true
+  },
+  {
+    "source": "/catering/stir-catering",
+    "destination": "/catering",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/lady-beas-english-tea-house",
+    "destination": "/cafes-coffee-shops/tea",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/jumbo-dim-sum",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/shanghai-456",
+    "destination": "/restaurants/chinese",
+    "permanent": true
+  },
+  {
+    "source": "/catering/naks-bistro-and-catering",
+    "destination": "/catering",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/cafe-mosaics",
+    "destination": "/cafes-coffee-shops",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/highlevel-diner",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/menya-mori",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/habesha-cravings",
+    "destination": "/restaurants/ethiopian",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/yiannis-taverna-greek-restaurant",
+    "destination": "/restaurants/greek",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/thai-avenue-restaurant",
+    "destination": "/restaurants/thai",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/wildroots",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/el-mero-mero-taqueria",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/juana-ines-mexican-restaurant",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/sfc-seoul-fried-chicken",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/the-lingnan",
+    "destination": "/restaurants/chinese",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/nagaiki-ramen",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/emrld",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/sorrentinos-st-albert",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/meat",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/seitans-formerly-die-pie",
+    "destination": "/restaurants/vegan",
+    "permanent": true
+  },
+  {
+    "source": "/activities-fun/the-rec-room-west-edmonton-mall",
+    "destination": "/activities-fun",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/shortees-burgers-and-golf",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/mrbun-shanghai-dumplings-noodles",
+    "destination": "/restaurants/dumplings",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/sawmill-prime-rib-steak-house",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/golden-rice-bowl",
+    "destination": "/restaurants/chinese",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/koutouki",
+    "destination": "/restaurants/greek",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/under-the-high-wheel",
+    "destination": "/restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/cafes-coffee-shops/boxcar-coffeeshop",
+    "destination": "/cafes-coffee-shops/specialty",
     "permanent": true
   }
 ]
