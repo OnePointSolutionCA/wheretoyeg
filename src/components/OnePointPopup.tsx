@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import { useEffect, useState } from "react";
 
 const DELAY_MS = 4000;
@@ -47,15 +46,19 @@ export function OnePointPopup() {
             <path d="M6 6l12 12M6 18L18 6" />
           </svg>
         </button>
-        <div className="relative p-5 pr-14 sm:p-6 sm:pr-16">
-          <span className="inline-block rounded-full border border-white/20 bg-white/5 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider text-white/70">Sponsored</span>
-          <Image
+        {/* White strip so the full-colour OnePoint logo always reads, including on mobile where CSS filter inversions can fail. */}
+        <div className="relative bg-white px-5 pb-3 pt-4 pr-14 sm:pr-16">
+          <span className="absolute left-5 top-3 inline-block rounded-full bg-slate-100 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider text-slate-500">Sponsored</span>
+          <img
             src="/logos/onepoint-horizontal.png"
             alt="OnePoint Solutions Marketing Agency"
             width={176}
             height={44}
-            className="mt-3 h-8 w-auto brightness-0 invert"
+            className="mt-5 block"
+            style={{ height: "36px", width: "auto" }}
           />
+        </div>
+        <div className="relative p-5 sm:p-6">
           <h3 className="mt-3 font-display text-xl font-extrabold leading-tight sm:text-2xl">
             Rank higher on Google in Edmonton.
           </h3>
