@@ -13,13 +13,13 @@ google_maps_url: "https://maps.google.com/?cid=8721264257720812917&g_mp=Cidnb29n
 latitude: 53.500574
 longitude: -113.498181
 hours:
-  monday: "9:30 AM–8:00 PM"
-  tuesday: "9:30 AM–8:00 PM"
-  wednesday: "9:30 AM–11:30 AM"
-  thursday: "9:30 AM–8:00 PM"
+  monday: "10:00 AM–8:00 PM"
+  tuesday: "10:00 AM–12:00 PM"
+  wednesday: "10:00 AM–8:00 PM"
+  thursday: "10:00 AM–8:00 PM"
   friday: "10:00 AM–8:00 PM"
   saturday: "4:00 PM–6:00 PM"
-  sunday: "1:30 PM–6:00 PM"
+  sunday: "2:00 PM–6:00 PM"
 photos:
   - "/photos/en-yang-acupuncture-clinic-edmonton-g1.jpg"
   - "/photos/en-yang-acupuncture-clinic-edmonton-g2.jpg"

@@ -14,12 +14,12 @@ latitude: 53.338320
 longitude: -113.418690
 hours:
   monday: "4:30 PM–8:30 PM"
-  tuesday: "6:00 AM–11:00 AM"
-  wednesday: "6:00 AM–11:00 AM"
-  thursday: "6:00 AM–11:00 AM"
-  friday: "6:00 AM–11:00 AM"
+  tuesday: "6:00 AM–11:00 AM, 6:00 PM–8:30 PM"
+  wednesday: "6:00 AM–11:00 AM, 4:30 PM–8:30 PM"
+  thursday: "6:00 AM–11:00 AM, 5:30 PM–8:30 PM"
+  friday: "6:00 AM–11:00 AM, 6:00 PM–8:30 PM"
   saturday: "9:00 AM–1:30 PM"
-  sunday: "9:00 AM–10:30 AM"
+  sunday: "9:00 AM–10:30 AM, 7:00 PM–8:30 PM"
 photos:
   - "/photos/element-yoga-g1.jpg"
   - "/photos/element-yoga-g2.jpg"

@@ -6,7 +6,7 @@ subcategory: "mechanics"
 neighborhood: "Beverly"
 address: "12527 127 St, Edmonton, AB T5L 1A3"
 rating: 4.3
-review_count: 60
+review_count: 61
 tier: "featured"
 phone: "(780) 760-7467"
 website: "http://www.127automechanic.ca/"
