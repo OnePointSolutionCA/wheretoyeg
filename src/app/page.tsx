@@ -3,6 +3,7 @@ import Link from "next/link";
 import { neighborhoodStats } from "@/lib/neighborhoods";
 import { AreaTile } from "@/components/AreaTile";
 import { HeroSearch } from "@/components/HeroSearch";
+import { OnePointPopup } from "@/components/OnePointPopup";
 import { HeroVideo } from "@/components/HeroVideo";
 import { CategoryGrid } from "@/components/CategoryGrid";
 import { FeaturedCarousel } from "@/components/FeaturedCarousel";
@@ -144,6 +145,7 @@ export default function HomePage() {
 
   return (
     <>
+      <OnePointPopup />
       <HomeIntro />
       {/* HERO */}
       <section className="hero relative text-white">

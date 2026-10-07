@@ -17,6 +17,7 @@ import { HUB_MIN, byRank, hubCount, hubHref, hubsForCategory } from "@/lib/areas
 import { CATEGORY_PLURAL, fitTitle, metaDescription } from "@/lib/seo";
 import { FaqSection } from "@/components/FaqSection";
 import { RelatedGuides } from "@/components/RelatedGuides";
+import { OnePointAd } from "@/components/OnePointAd";
 import { categoryFaq } from "@/lib/faq";
 import { relatedPosts } from "@/lib/related";
 import { SITE } from "@/lib/site";
@@ -238,20 +239,9 @@ export default function CategoryPage({ params }: { params: { category: string } 
         />
       </div>
 
-      {/* OnePoint Solutions subtle CTA */}
+      {/* Sponsored: OnePoint Solutions display ad */}
       <section className="container-page mt-12" data-reveal="up">
-        <div className="relative overflow-hidden rounded-2xl border border-coral/20 bg-gradient-to-r from-coral/5 via-white to-teal/5 p-6 sm:p-8">
-          <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
-            <div>
-              <p className="text-sm font-bold text-teal">Get found by more Edmonton customers</p>
-              <p className="mt-1 text-xs text-teal-500">Add your business to WhereToYEG for free. Want help growing online? <strong className="text-coral">OnePoint Solutions</strong> can manage your SEO, social media, and Google Business Profile so you can focus on what you do best.</p>
-            </div>
-            <div className="flex shrink-0 gap-2">
-              <Link href="/get-listed" className="rounded-full bg-teal px-4 py-2 text-xs font-bold text-white transition hover:bg-teal-600">Get Listed Free</Link>
-              <a href="https://onepointsolution.ca" target="_blank" rel="noreferrer" className="rounded-full border border-coral px-4 py-2 text-xs font-bold text-coral transition hover:bg-coral hover:text-white">OnePoint Solutions ↗</a>
-            </div>
-          </div>
-        </div>
+        <OnePointAd placement="category-footer" variant="banner" />
       </section>
 
       <section className="container-page mt-6" data-reveal="left">

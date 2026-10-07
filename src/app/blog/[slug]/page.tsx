@@ -8,6 +8,7 @@ import { relatedPosts } from "@/lib/related";
 import { breadcrumbSchema, JsonLd } from "@/lib/schema-extra";
 import { BusinessCard } from "@/components/BusinessCard";
 import { RelatedGuides } from "@/components/RelatedGuides";
+import { OnePointAd } from "@/components/OnePointAd";
 import { SITE } from "@/lib/site";
 import { fitTitle, metaDescription } from "@/lib/seo";
 
@@ -136,6 +137,7 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
                 </Link>
               </div>
             )}
+            <OnePointAd placement="blog-sidebar" variant="sidebar" />
           </div>
         </aside>
       </div>
@@ -151,6 +153,10 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
           </div>
         </section>
       )}
+
+      <section className="container-page mt-16 sm:mt-20">
+        <OnePointAd placement="blog-footer" variant="banner" />
+      </section>
 
       <RelatedGuides posts={more} title="Keep reading" />
       <div className="h-16 sm:h-20" aria-hidden="true" />
