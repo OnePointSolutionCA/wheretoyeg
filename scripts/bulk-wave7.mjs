@@ -11,7 +11,12 @@
 import fs from "node:fs";
 import path from "node:path";
 
-const API_KEY = "AIzaSyAoPEJjfB2boLaH4zoO9krgc4Gdqijz3ks";
+// Read from the environment like the other scripts; never hardcode keys in this public repo.
+const API_KEY = process.env.GOOGLE_PLACES_API_KEY;
+if (!API_KEY) {
+  console.error("Set GOOGLE_PLACES_API_KEY before running this script.");
+  process.exit(1);
+}
 const BIZ_DIR = path.join(process.cwd(), "content/businesses");
 const IMG_DIR = path.join(process.cwd(), "public/images/businesses");
 
