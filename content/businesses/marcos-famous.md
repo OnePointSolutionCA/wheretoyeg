@@ -2,9 +2,9 @@
 name: "Marco’s Famous"
 slug: "marcos-famous"
 category: "restaurants"
-subcategory: "halal-fast-food"
+subcategory: "burgers"
 tier: "featured"
-description: "Marco’s Famous — halal fast food in Edmonton, Edmonton. Halal-certified. 1680 Google reviews, 4.6★."
+description: "Marco’s Famous: burgers, donairs, hot dogs and fries on 112 St NW in Edmonton. 1680 Google reviews, 4.6★."
 address: "10371 112 St NW, Edmonton, AB T5K 1M9"
 neighborhood: "Edmonton"
 phone: "(780) 425-2226"
@@ -23,17 +23,16 @@ rating: 4.6
 review_count: 1698
 price_range: "$"
 amenities:
-  - "Halal"
   - "Dine-In"
   - "Takeout"
   - "Family Friendly"
-tags: ["edmonton", "halal-fast-food", "halal"]
+tags: ["edmonton", "burgers", "donair"]
 short_name: "Marco's Famous"
-seo_title: "Marco's Famous Edmonton: Menu, Halal Info & Reviews"
-seo_description: "Marco's Famous on 112 St NW in Edmonton serves burgers, donairs, hot dogs and fries, open to 3 AM Thursday to Saturday. See halal info, menu, hours and reviews."
+seo_title: "Marco's Famous Edmonton: Menu, Hours & Reviews"
+seo_description: "Marco's Famous on 112 St NW in Edmonton serves burgers, donairs, hot dogs and fries, open to 3 AM Thursday to Saturday. See the menu, hours and reviews."
 faq:
   - q: "Is Marco's Famous halal?"
-    a: "Marco's Famous is marked halal on WhereToYEG, but its own website does not mention halal certification. If halal matters to you, call (780) 425-2226 and ask which items are halal before you order."
+    a: "We have not been able to confirm halal certification for Marco's Famous, and its own website does not mention it. If halal matters to you, call (780) 425-2226 and ask before you order, or see our halal restaurants page for confirmed halal spots."
   - q: "What is on the Marco's Famous menu?"
     a: "Burgers, donairs, hot dogs, combos and fries. Reviewers single out the packed donairs, the burgers and the seasoned fries. The full menu and online ordering are linked from marcosfamous.net."
 active: true

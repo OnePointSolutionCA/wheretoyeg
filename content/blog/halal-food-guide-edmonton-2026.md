@@ -55,7 +55,6 @@ Full guide: [Best Pakistani Food in Edmonton](/blog/best-pakistani-food-edmonton
 Halal smash burgers have become a legitimate Edmonton scene.
 
 - **[Middle Child Burger](/restaurants/middle-child-burger):** north Edmonton smash burger spot doing it right. See our [Middle Child Burger menu, hours and review](/blog/middle-child-burger-edmonton).
-- **[Marco's Famous](/restaurants/marcos-famous):** burgers, donairs and fries on 112 St NW, open to 3 AM Thursday to Saturday. It is marked halal here, but ask which items are halal when you order.
 
 Full guide: [Edmonton's Halal Smash Burger Scene](/blog/edmonton-halal-smash-burgers).
 
