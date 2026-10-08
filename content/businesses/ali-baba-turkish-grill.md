@@ -4,7 +4,7 @@ slug: "ali-baba-turkish-grill"
 category: "restaurants"
 subcategory: "turkish"
 tier: "featured"
-description: "Ali Baba Turkish Grill — turkish in Edmonton, Edmonton. Halal-certified. 504 Google reviews, 4.7★."
+description: "Ali Baba Turkish Grill — turkish in Edmonton, Edmonton. 504 Google reviews, 4.7★."
 address: "15327 97 St NW, Edmonton, AB T5X 5V3"
 neighborhood: "Edmonton"
 phone: "(780) 244-0808"
@@ -23,16 +23,15 @@ rating: 4.7
 review_count: 507
 price_range: "$$"
 amenities:
-  - "Halal"
   - "Dine-In"
   - "Takeout"
   - "Family Friendly"
-tags: ["edmonton", "turkish", "halal"]
-seo_title: "Ali Baba Turkish Grill Edmonton: Menu, Halal & Reviews"
-seo_description: "Ali Baba Turkish Grill is a halal Turkish restaurant at 15327 97 St NW, Edmonton, known for kebab platters and Iskender. See the menu, hours and reviews."
+tags: ["edmonton", "turkish"]
+seo_title: "Ali Baba Turkish Grill Edmonton: Menu, Hours & Reviews"
+seo_description: "Ali Baba Turkish Grill is a Turkish restaurant at 15327 97 St NW, Edmonton, known for kebab platters, Iskender and doner wraps. See the menu, hours and reviews."
 faq:
   - q: "Is Ali Baba Turkish Grill halal?"
-    a: "Yes. Ali Baba Turkish Grill is marked halal on WhereToYEG. If certification matters to you, call (780) 244-0808 to confirm before you order."
+    a: "Ali Baba Turkish Grill does not say it is halal on its own website, and we could not find a halal certification for it. If halal matters to you, call (780) 244-0808 to ask before you order."
   - q: "What is on the Ali Baba Turkish Grill menu?"
     a: "Turkish grill classics. Reviewers mention the trio kebab platter, Iskender, doner wraps, chicken pie bread, baba ganoush and a daily fish platter, served with fresh bread and tea. The full menu and online ordering are on alibabaturkishgrillab.com."
 active: true

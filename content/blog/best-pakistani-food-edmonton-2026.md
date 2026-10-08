@@ -26,7 +26,7 @@ Pakistani food in Edmonton has come into its own. What used to be a handful of I
 
 **[Checkers Pizza & Kabab](/restaurants/checkers-pizza-kabab):** Halal pizzeria that also does kebabs and karahi. Old Strathcona institution for 16+ years.
 
-**[Salt and Grill](/restaurants/salt-and-grill):** Halal Pakistani spot at 6920 76 Ave NW, open daily from 10 AM. The menu runs from halwa puri and parathas in the morning to karahi, rice dishes and bun kebabs later on. Reviewers keep mentioning the halwa puri, aloo paratha and the chai.
+**[Salt and Grill](/restaurants/salt-and-grill):** Pakistani spot at 6920 76 Ave NW, open daily from 10 AM. The menu runs from halwa puri and parathas in the morning to karahi, rice dishes and bun kebabs later on. Reviewers keep mentioning the halwa puri, aloo paratha and the chai.
 
 Browse all [Pakistani restaurants in Edmonton](/restaurants/pakistani) or filter [Halal restaurants](/halal-restaurants).
 
