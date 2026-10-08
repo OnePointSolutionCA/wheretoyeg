@@ -17,10 +17,10 @@ export async function POST(req: Request) {
       return NextResponse.json({ ok: true });
     }
 
-    const name = String(data.name ?? "").trim();
-    const email = String(data.email ?? "").trim();
+    const name = String(data.name ?? "").trim().slice(0, 120);
+    const email = String(data.email ?? "").trim().slice(0, 254);
     const message = String(data.message ?? "").trim();
-    const subject = String(data.subject ?? "").trim();
+    const subject = String(data.subject ?? "").trim().slice(0, 200);
 
     if (!name || name.length < 2) return NextResponse.json({ error: "Name is required." }, { status: 400 });
     if (!validEmail(email)) return NextResponse.json({ error: "Valid email is required." }, { status: 400 });

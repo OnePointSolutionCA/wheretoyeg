@@ -79,11 +79,12 @@ export function organizationSchema() {
   };
 }
 
+// "<" is escaped so listing text can never close the script tag; JSON parsers read it back as "<".
 export function JsonLd({ data }: { data: unknown }) {
   return (
     <script
       type="application/ld+json"
-      dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }}
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(data).replace(/</g, "\\u003c") }}
     />
   );
 }

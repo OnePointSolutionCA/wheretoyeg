@@ -16,13 +16,13 @@ export async function POST(req: Request) {
       return NextResponse.json({ ok: true });
     }
 
-    const businessName = String(data.businessName ?? "").trim();
-    const contactName = String(data.contactName ?? "").trim();
-    const email = String(data.email ?? "").trim();
-    const phone = String(data.phone ?? "").trim();
-    const website = String(data.website ?? "").trim();
-    const category = String(data.category ?? "").trim();
-    const tier = String(data.tier ?? "").trim();
+    const businessName = String(data.businessName ?? "").trim().slice(0, 200);
+    const contactName = String(data.contactName ?? "").trim().slice(0, 120);
+    const email = String(data.email ?? "").trim().slice(0, 254);
+    const phone = String(data.phone ?? "").trim().slice(0, 40);
+    const website = String(data.website ?? "").trim().slice(0, 300);
+    const category = String(data.category ?? "").trim().slice(0, 120);
+    const tier = String(data.tier ?? "").trim().slice(0, 60);
     const notes = String(data.notes ?? "").trim();
 
     if (!businessName || businessName.length < 2) return NextResponse.json({ error: "Business name is required." }, { status: 400 });

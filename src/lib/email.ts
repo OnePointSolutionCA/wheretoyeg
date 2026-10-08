@@ -50,6 +50,9 @@ export type ContactPayload = {
   subject?: string;
 };
 
+// Subjects come from form input: keep them on one line and a sane length.
+const oneLine = (s: string, max = 200) => s.replace(/[\r\n]+/g, " ").slice(0, max);
+
 export async function sendContactEmail(p: ContactPayload) {
   const fields = {
     "From": `${p.name} <${p.email}>`,
@@ -60,7 +63,7 @@ export async function sendContactEmail(p: ContactPayload) {
     from: FROM_EMAIL,
     to: TO_EMAIL,
     replyTo: p.email,
-    subject: `[WhereToYEG] Contact, ${p.name}${p.subject ? `, ${p.subject}` : ""}`,
+    subject: oneLine(`[WhereToYEG] Contact, ${p.name}${p.subject ? `, ${p.subject}` : ""}`),
     html: toEmailHtml("New contact form submission", fields),
     text: toEmailText("New contact form submission", fields),
   });
@@ -91,7 +94,7 @@ export async function sendGetListedEmail(p: GetListedPayload) {
     from: FROM_EMAIL,
     to: TO_EMAIL,
     replyTo: p.email,
-    subject: `[WhereToYEG] New listing request, ${p.businessName}${p.tier ? ` (${p.tier})` : ""}`,
+    subject: oneLine(`[WhereToYEG] New listing request, ${p.businessName}${p.tier ? ` (${p.tier})` : ""}`),
     html: toEmailHtml("New Get Listed submission", fields),
     text: toEmailText("New Get Listed submission", fields),
   });
