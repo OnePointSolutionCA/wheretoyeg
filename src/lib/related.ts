@@ -39,3 +39,39 @@ export function relatedPosts(category: string, limit = 3, exclude?: string): Blo
     .slice(0, limit)
     .map((x) => x.p);
 }
+
+/** Posts whose slug carries the subcategory as a whole word ("brunch" matches best-brunch-edmonton-2026, "pho" skips photographers). */
+function postsForSub(sub: string): BlogPost[] {
+  return getBlogPosts().filter((p) => `-${p.slug}-`.includes(`-${sub}-`));
+}
+
+let linkIndex: Map<string, BlogPost[]> | null = null;
+/** Posts that link straight to a listing path like "/restaurants/salt-and-grill", built once per process. */
+function postsLinkingTo(path: string): BlogPost[] {
+  if (!linkIndex) {
+    linkIndex = new Map();
+    for (const p of getBlogPosts()) {
+      for (const [, href] of p.body.matchAll(/\]\((\/[a-z0-9-]+\/[a-z0-9-]+)\)/g)) {
+        const list = linkIndex.get(href) ?? [];
+        if (!list.includes(p)) list.push(p);
+        linkIndex.set(href, list);
+      }
+    }
+  }
+  return linkIndex.get(path) ?? [];
+}
+
+/**
+ * Guides for a subcategory or listing page: posts that mention the listing first, then posts about
+ * the subcategory, then the category's usual related posts.
+ */
+export function relatedPostsFor(category: string, opts: { sub?: string; listingPath?: string }, limit = 3): BlogPost[] {
+  const out: BlogPost[] = [];
+  const add = (list: BlogPost[]) => {
+    for (const p of list) if (out.length < limit && !out.some((x) => x.slug === p.slug)) out.push(p);
+  };
+  if (opts.listingPath) add(postsLinkingTo(opts.listingPath));
+  if (opts.sub) add(postsForSub(opts.sub));
+  add(relatedPosts(category, limit));
+  return out;
+}

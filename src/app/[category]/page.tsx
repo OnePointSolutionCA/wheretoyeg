@@ -14,7 +14,7 @@ import { SubcategoryPills } from "@/components/SubcategoryPills";
 import { breadcrumbSchema, itemListSchema, JsonLd } from "@/lib/schema-extra";
 import { ListingIndex } from "@/components/ListingIndex";
 import { HUB_MIN, byRank, hubCount, hubHref, hubsForCategory } from "@/lib/areas";
-import { CATEGORY_PLURAL, fitTitle, metaDescription } from "@/lib/seo";
+import { CATEGORY_PLURAL, fitTitle, metaDescription, nf } from "@/lib/seo";
 import { FaqSection } from "@/components/FaqSection";
 import { RelatedGuides } from "@/components/RelatedGuides";
 import { OnePointAd } from "@/components/OnePointAd";
@@ -36,7 +36,9 @@ export async function generateMetadata({ params }: { params: { category: string 
   if (!c) return {};
   const count = getBusinessesByCategory(c.slug).length;
   const noun = CATEGORY_PLURAL[c.slug] ?? c.name.toLowerCase();
-  const title = fitTitle([c.seo_title ?? "", `Best ${c.name} in Edmonton | ${count} Local Spots`, `Best ${c.name} in Edmonton`].filter(Boolean));
+  // "{count}" in a written seo_title becomes the live listing count.
+  const seoTitle = c.seo_title?.replace("{count}", nf(count));
+  const title = fitTitle([seoTitle ?? "", `Best ${c.name} in Edmonton | ${count} Local Spots`, `Best ${c.name} in Edmonton`].filter(Boolean));
   const desc = c.seo_description
     ? metaDescription([c.seo_description])
     : metaDescription(
@@ -134,7 +136,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
             <span className="font-semibold text-white">{c.name}</span>
           </nav>
           <h1 className="mt-3 font-display text-4xl font-extrabold tracking-tight drop-shadow-lg sm:text-6xl">
-            Best {c.name}<br className="hidden sm:block" /> <span className="text-coral">in Edmonton</span>
+            {c.h1 ? c.h1.replace(/\s*in Edmonton$/i, "") : `Best ${c.name}`}<br className="hidden sm:block" /> <span className="text-coral">in Edmonton</span>
           </h1>
           <p className="mt-4 max-w-2xl text-white/85 sm:text-lg">{c.description}</p>
           <div className="mt-5 flex flex-wrap gap-2 text-xs font-bold uppercase tracking-wider">
@@ -151,13 +153,29 @@ export default function CategoryPage({ params }: { params: { category: string } 
       {/* Subcategory chips + intro */}
       <section className="border-b border-line bg-mist">
         <div className="container-page py-6">
-          {c.intro && <p className="mb-4 max-w-2xl text-teal-500">{c.intro}</p>}
+          {c.intro && (
+            <div className="mb-4 max-w-2xl space-y-3 text-teal-500">
+              {c.intro.split(/\n\s*\n/).map((para, i) => (
+                <p key={i}>{withLinks(para)}</p>
+              ))}
+            </div>
+          )}
           {c.subcategories && c.subcategories.length > 0 && (
             <SubcategoryPills
               categorySlug={c.slug}
               subcategories={c.subcategories}
               counts={subCounts}
             />
+          )}
+          {c.guides && c.guides.length > 0 && (
+            <div className="mt-3 flex items-center gap-2 overflow-x-auto" style={{ scrollbarWidth: "none" }}>
+              <span className="shrink-0 text-xs font-bold uppercase tracking-wider text-teal-300">Guides:</span>
+              {c.guides.map((g) => (
+                <Link key={g.href} href={g.href} className="chip shrink-0">
+                  {g.label}
+                </Link>
+              ))}
+            </div>
           )}
           {areaHubs.length > 0 && (
             <div className="mt-3 flex items-center gap-2 overflow-x-auto" style={{ scrollbarWidth: "none" }}>
@@ -259,6 +277,24 @@ export default function CategoryPage({ params }: { params: { category: string } 
       </section>
     </>
   );
+}
+
+/** Turns [text](/path) in a category intro into links; everything else stays plain text. */
+function withLinks(text: string) {
+  const parts: React.ReactNode[] = [];
+  const re = /\[([^\]]+)\]\((\/[^)\s]*)\)/g;
+  let last = 0;
+  for (const m of text.matchAll(re)) {
+    if (m.index! > last) parts.push(text.slice(last, m.index));
+    parts.push(
+      <Link key={m.index} href={m[2]} className="font-semibold text-[#C63A22] underline decoration-coral/35 decoration-2 underline-offset-[3px] transition hover:text-coral hover:decoration-current">
+        {m[1]}
+      </Link>,
+    );
+    last = m.index! + m[0].length;
+  }
+  if (last < text.length) parts.push(text.slice(last));
+  return parts;
 }
 
 function EmptyState({ categoryName }: { categoryName: string }) {

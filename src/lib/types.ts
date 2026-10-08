@@ -46,6 +46,14 @@ export type Business = {
   reviews?: Review[];
   /** True when description was built from listing data rather than written for the business. */
   generatedDescription?: boolean;
+  /** Hand written page title for listings with a clear search intent (menu, halal, hours). Used before the template. */
+  seo_title?: string;
+  /** Hand written meta description; replaces the generated one when set. */
+  seo_description?: string;
+  /** Everyday name for questions and copy when the listed name is long ("Tajine House"). */
+  short_name?: string;
+  /** Short listing FAQ, only for facts the listing data supports. Rendered with FAQPage schema. */
+  faq?: { q: string; a: string }[];
   /**
    * Per-platform delivery info.
    * For each platform: omit / false → don't show button.
@@ -70,6 +78,10 @@ export type Category = {
   seo_title?: string;
   seo_description?: string;
   seo_keywords?: string[];
+  /** Hub H1 override, e.g. "Restaurants in Edmonton". The trailing "in Edmonton" is highlighted. */
+  h1?: string;
+  /** Guide links shown as chips under the hub intro. */
+  guides?: { label: string; href: string }[];
   intro?: string;
   order?: number;
   active: boolean;

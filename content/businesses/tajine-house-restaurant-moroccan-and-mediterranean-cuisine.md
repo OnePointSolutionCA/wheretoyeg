@@ -29,6 +29,16 @@ amenities:
   - "Takeout"
   - "Family Friendly"
 tags: ["edmonton", "halal-chicken", "halal"]
+short_name: "Tajine House"
+seo_title: "Tajine House Edmonton: Halal Moroccan Menu & Reviews"
+seo_description: "Tajine House is a 100% halal certified Moroccan and Mediterranean restaurant at 16642 109 Ave NW, Edmonton. See the menu, hours, photos and Google reviews."
+faq:
+  - q: "Is Tajine House halal?"
+    a: "Yes. Tajine House says on its own website that it is 100% halal certified, and it is marked halal on WhereToYEG."
+  - q: "What is on the Tajine House menu?"
+    a: "Moroccan and Mediterranean cooking. Reviewers mention lamb tajine, chicken tajine, kofta tajine, seafood pastilla and Moroccan mint tea, with bread and marinated olives served with the meal. The full menu is on tajinehouserestaurant.com."
+  - q: "Is Tajine House any good?"
+    a: "It is one of the highest rated restaurants in Edmonton, with 4.9 stars from more than 900 Google reviews as of October 2026. Reviewers often mention the warm service and the mint tea pour."
 active: true
 date_listed: "2026-08-30"
 reviews:

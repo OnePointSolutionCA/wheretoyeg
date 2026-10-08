@@ -14,7 +14,7 @@ A smash burger isn't a shape. It's a method. A ball of 80/20 beef gets placed on
 
 ## Where to go in Edmonton
 
-**[Middle Child Burger](/restaurants/burgers)** at 12618 152 Ave NW is a north-side favourite, a small, focused menu of smash burgers done right. 4.7 stars over 188 reviews, halal, dine-in and takeout.
+**[Middle Child Burger](/restaurants/middle-child-burger)** at 12618 152 Ave NW is a north side favourite, with a small, focused menu of smash burgers done right. 4.8 stars over 229 Google reviews, halal, dine in and takeout. Read our full [Middle Child Burger menu, hours and review](/blog/middle-child-burger-edmonton).
 
 ## What to order the first time
 

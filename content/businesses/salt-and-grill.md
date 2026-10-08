@@ -28,6 +28,13 @@ amenities:
   - "Takeout"
   - "Family Friendly"
 tags: ["edmonton", "pakistani", "halal"]
+seo_title: "Salt and Grill Edmonton: Halal Pakistani Menu & Reviews"
+seo_description: "Salt and Grill is a halal Pakistani restaurant at 6920 76 Ave NW, Edmonton, known for halwa puri, karahi and chai. See the menu, hours, photos and reviews."
+faq:
+  - q: "Is Salt and Grill halal?"
+    a: "Yes. Salt and Grill is marked halal on WhereToYEG, and Google reviewers describe it as a Pakistani halal restaurant. If certification matters to you, ask the staff to confirm when you order."
+  - q: "What is on the Salt and Grill menu?"
+    a: "Pakistani food from breakfast to dinner: parathas, karahi, rice dishes, vegetarian curries, street food, bun kebabs, wraps, fresh bread, sweets and chai. Reviewers rave about the halwa puri, aloo paratha and cholay bhature. The full menu with prices is at saltandgrill.ca/menu."
 active: true
 date_listed: "2026-08-20"
 reviews:

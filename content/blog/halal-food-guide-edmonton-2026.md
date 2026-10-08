@@ -31,6 +31,8 @@ Karahi houses, biryani, chapli kebabs, chai.
 
 - **[Khan Kebabs & Karahi](/restaurants/khan-kebabs-karahi):** 106 Street, Shinwari and Lahori karahi. 4.6 stars, 300+ reviews.
 - **[Fatima Karahi Corner](/restaurants/fatima-karahi-corner):** Ellerslie, family-owned.
+- **[Salt and Grill](/restaurants/salt-and-grill):** 76 Ave NW, Pakistani breakfast through dinner. Regulars come for the halwa puri, aloo paratha, karahi and chai.
+
 Full guide: [Best Pakistani Food in Edmonton](/blog/best-pakistani-food-edmonton-2026).
 
 ## Lebanese
@@ -43,11 +45,17 @@ Full guide: [Best Pakistani Food in Edmonton](/blog/best-pakistani-food-edmonton
 
 - **[Afghan Chopan Kebab](/restaurants/afghan-chopan-kebab):** traditional clay-oven kebabs, Qabeli Pallaw rice, Mantu dumplings, and Bolani in Heritage Valley.
 
+## Turkish and Moroccan
+
+- **[Ali Baba Turkish Grill](/restaurants/ali-baba-turkish-grill):** 97 St NW in north Edmonton. Trio kebab platters, Iskender and doner wraps with fresh bread and tea. Closed Mondays.
+- **[Tajine House](/restaurants/tajine-house-restaurant-moroccan-and-mediterranean-cuisine):** 109 Ave NW in the west end. Lamb and chicken tajine, seafood pastilla and Moroccan mint tea. The restaurant says it is 100% halal certified.
+
 ## Halal burgers
 
 Halal smash burgers have become a legitimate Edmonton scene.
 
-- **[Middle Child Burger](/restaurants/middle-child-burger):** north Edmonton smash burger spot doing it right.
+- **[Middle Child Burger](/restaurants/middle-child-burger):** north Edmonton smash burger spot doing it right. See our [Middle Child Burger menu, hours and review](/blog/middle-child-burger-edmonton).
+- **[Marco's Famous](/restaurants/marcos-famous):** burgers, donairs and fries on 112 St NW, open to 3 AM Thursday to Saturday. It is marked halal here, but ask which items are halal when you order.
 
 Full guide: [Edmonton's Halal Smash Burger Scene](/blog/edmonton-halal-smash-burgers).
 

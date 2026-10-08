@@ -32,6 +32,7 @@ Browse all [Edmonton restaurants](/restaurants) and filter by [Halal](/halal-res
 
 Games and concerts let out around 10pm. Most downtown restaurants have last-call for kitchens by 10:30. Your options after 10pm:
 
+- **[Marco's Famous](/restaurants/marcos-famous):** burgers, donairs, hot dogs and fries on 112 St NW. Open until midnight Sunday to Wednesday and until 3 AM Thursday to Saturday.
 - **Shawarma spots:** Jerusalem and independents on Jasper stay open late.
 - **Pizza:** a few 24-hour and late-close pizza shops.
 - **Fast food chains:** MacEwan / 104 St has the big three.

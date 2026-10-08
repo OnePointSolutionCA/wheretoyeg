@@ -1,8 +1,8 @@
 ---
-title: "Best Brunch in Edmonton (2026) | Weekend Spots & Sunday Institutions"
-seoTitle: "Best Brunch in Edmonton 2026 | Weekend Brunch Near Me | WhereToYEG"
+title: "Best Brunch in Edmonton (2026): Weekend Spots Worth the Wait"
+seoTitle: "Brunch in Edmonton 2026: Best Weekend Brunch Spots"
 slug: "best-brunch-edmonton-2026"
-description: "The best brunch spots in Edmonton. Weekend brunch, halal options, patio brunch on Whyte Ave, where to book and what to order."
+description: "Brunch in Edmonton, sorted: the best rated breakfast and brunch spots from Whyte Ave to Mill Woods and St. Albert, plus halal brunch options and what to order."
 publishedDate: "2024-12-17"
 tags: ["brunch", "restaurants", "weekend", "breakfast", "guides"]
 ---
@@ -19,11 +19,27 @@ Brunch in Edmonton has grown up. It's no longer just eggs benny at the diner, th
 
 ## Top brunch spots in Edmonton
 
+**[Pür & Simple](/restaurants/pr-simple):** The most reviewed brunch spot in the city, with 4.8 stars over nearly 3,000 Google reviews at its Kingsway Mall location. There is a second [Pür & Simple in South Edmonton](/restaurants/pur-simple) on James Mowatt Trail SW.
+
+**[Stacked Pancake & Breakfast House](/restaurants/stacked-pancake-breakfast-house):** Pancakes and full breakfast plates in a family friendly room. The Mill Woods location on 28 Ave has 1,600+ reviews, and there are branches on [Gateway Blvd in South Edmonton](/restaurants/stacked-pancake-breakfast-house-south-edmonton), in [Fort Saskatchewan](/restaurants/stacked-pancake-breakfast-house-fort-saskatchewan) and in [Spruce Grove](/restaurants/stacked-pancake-and-breakfast-house).
+
+**[Brunch Glory](/restaurants/brunch-glory):** Right on Whyte Ave, 4.7 stars. The easy pick if you want brunch and a walk around Old Strathcona after.
+
+**[Hatch'd](/restaurants/hatchd):** On 112 St NW near the University of Alberta, with 4.4 stars from 120+ Google reviews.
+
+**[The Emerald Breakfast and Lunch](/restaurants/the-emerald-breakfast-and-lunch):** A north west Edmonton favourite on 178 Ave NW with 4.7 stars. Open from 7 AM every day (8 AM on Sundays) until 3 PM, so it works for an early breakfast or a late weekend brunch.
+
+**[Jay Bee's Diner](/restaurants/jay-bees-diner):** A classic diner breakfast in Castle Downs with more than 1,300 reviews.
+
+**[Toast Breakfast & Lunch](/restaurants/toast-breakfast-and-lunch):** A Windermere breakfast and lunch spot with 4.4 stars from nearly 400 reviews, handy if you live on the south side.
+
+**[Hathaway's Diner](/restaurants/hathaway-s-diner):** A St. Albert breakfast diner on Bellerose Dr with 4.5 stars from 360+ reviews.
+
 **[Paramount Fine Foods](/restaurants/paramount-fine-foods):** Premium halal Lebanese, weekend brunch runs the classics, shakshuka, manakish, foul mudammas, fresh baklava on the way out. 4.4 stars over 288 reviews.
 
 **[Duchess Bake Shop](/bakeries/duchess-bake-shop):** Not a full brunch menu but a pastry and coffee stop that anchors a proper morning. Croissants, quiche, and coffee that's actually good.
 
-Browse all [Edmonton restaurants](/restaurants) and filter for [Weekend Brunch](/restaurants?amenity=Weekend+Brunch).
+See every [brunch spot in Edmonton](/restaurants/brunch) ranked by rating, or browse all [restaurants in Edmonton](/restaurants).
 
 ## What to order
 

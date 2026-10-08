@@ -133,6 +133,7 @@ export default function HomePage() {
     { label: "Halal butchers", href: "/grocery-markets?amenity=Halal" },
     { label: "Weekend brunch", href: "/collections/brunch-spots" },
     { label: "Climbing gyms", href: "/blog/best-climbing-gyms-edmonton-2026" },
+    { label: "Halloween events", href: "/blog/halloween-edmonton-2026" },
   ];
 
   const faq: FaqEntry[] = [

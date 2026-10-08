@@ -23,9 +23,11 @@ import { CheckIcon, ClockIcon, GlobeIcon, InfoIcon, MailIcon, NavIcon, PhoneIcon
 import { ReviewCard } from "@/components/ReviewCard";
 import { BusinessCard } from "@/components/BusinessCard";
 import { RelatedGuides } from "@/components/RelatedGuides";
-import { relatedPosts } from "@/lib/related";
+import { relatedPostsFor } from "@/lib/related";
 import { categoryFaq, subLabel, subNoun } from "@/lib/faq";
-import { FaqSection } from "@/components/FaqSection";
+import { FaqSection, type FaqEntry } from "@/components/FaqSection";
+import { displayDayHours } from "@/lib/openNow";
+import type { Business } from "@/lib/types";
 import { FilterableList } from "@/components/FilterBar";
 import { SubcategoryPills } from "@/components/SubcategoryPills";
 import { businessSchema } from "@/lib/schema";
@@ -143,7 +145,9 @@ export async function generateMetadata({ params }: { params: { category: string;
   const branch = namePlaceCount(b) > 1 && streetLine ? streetLine : "";
   const Type = titleCase(type);
   const title = fitTitle(
-    branch
+    [
+      ...(b.seo_title ? [b.seo_title] : []),
+      ...(branch
       ? [
           `${b.name}, ${branch}, ${place} | Reviews & Hours`,
           `${b.name}, ${branch} | Reviews & Hours`,
@@ -161,7 +165,8 @@ export async function generateMetadata({ params }: { params: { category: string;
           b.name,
           // Very long names: shorten the name, not the area, so the title stays specific.
           `${clip(b.name, TITLE_MAX - place.length - 2)}, ${place}`,
-        ],
+        ]),
+    ],
   );
   const article = /^[aeiou]/i.test(type) ? "an" : "a";
   const written = !b.generatedDescription && b.description ? b.description : "";
@@ -170,7 +175,7 @@ export async function generateMetadata({ params }: { params: { category: string;
       ? `Rated ${Number(b.rating).toFixed(1)} stars from ${nf(b.review_count)} Google review${b.review_count === 1 ? "" : "s"}.`
       : "";
   const sevenDays = b.hours && Object.values(b.hours).length === 7 && Object.values(b.hours).every((h) => h && !/closed/i.test(h));
-  const desc = metaDescription(
+  const desc = b.seo_description ? metaDescription([b.seo_description]) : metaDescription(
     [
       written || `${b.name} is ${article} ${type} in ${place}.`,
       rating,
@@ -335,7 +340,7 @@ function SubcategoryView({ category: c, sub }: { category: ReturnType<typeof get
       <ListingIndex businesses={businesses} title={`${label} in Edmonton, A to Z`} className="container-page" />
 
       <div className="mt-10 bg-mist pb-14 pt-2 sm:pb-20">
-        <RelatedGuides posts={relatedPosts(c.slug)} title="Related Edmonton guides" />
+        <RelatedGuides posts={relatedPostsFor(c.slug, { sub: sub.slug })} title="Related Edmonton guides" />
         <FaqSection
           title={`${label} in Edmonton: FAQ`}
           items={categoryFaq(c, businesses, {
@@ -685,11 +690,57 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
         </div>
       </section>
 
-      <RelatedGuides posts={relatedPosts(b.category)} title="Related Edmonton guides" />
+      {b.faq && b.faq.length > 0 && <FaqSection title={`${b.short_name ?? b.name}: FAQ`} items={listingFaq(b)} />}
+
+      <RelatedGuides posts={relatedPostsFor(b.category, { sub: b.subcategory, listingPath: `/${b.category}/${b.slug}` })} title="Related Edmonton guides" />
 
       <MobileActionBar b={b} />
     </>
   );
+}
+
+const DAYS = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"] as const;
+const cap = (d: string) => d.charAt(0).toUpperCase() + d.slice(1);
+
+/** "Monday to Thursday, 10:00 AM to 9:00 PM. Friday and Saturday, 10:00 AM to 10:00 PM." from the listing's hours. */
+function hoursSentence(hours?: Business["hours"]): string {
+  if (!hours) return "";
+  const runs: { from: (typeof DAYS)[number]; to: (typeof DAYS)[number]; value: string }[] = [];
+  for (const d of DAYS) {
+    const raw = hours[d];
+    if (!raw) return "";
+    const value = /closed/i.test(raw) ? "closed" : displayDayHours(raw).replace(/\s+-\s+/g, " to ");
+    const last = runs[runs.length - 1];
+    if (last && last.value === value) last.to = d;
+    else runs.push({ from: d, to: d, value });
+  }
+  if (runs.length === 1) return `Open every day, ${runs[0].value}.`;
+  return runs
+    .map((r) => {
+      const days = r.from === r.to ? cap(r.from) : DAYS.indexOf(r.to) - DAYS.indexOf(r.from) === 1 ? `${cap(r.from)} and ${cap(r.to)}` : `${cap(r.from)} to ${cap(r.to)}`;
+      return `${days}, ${r.value}.`;
+    })
+    .join(" ");
+}
+
+/** Hand written listing questions, then hours and location built from the listing data so they never go stale. */
+function listingFaq(b: Business): FaqEntry[] {
+  const items: FaqEntry[] = (b.faq ?? []).map(({ q, a }) => ({ q, a }));
+  const name = b.short_name ?? b.name;
+  const hours = hoursSentence(b.hours);
+  if (hours) {
+    items.push({
+      q: `What are the hours at ${name}?`,
+      a: `${hours} Hours can change on holidays${b.phone ? `, so call ${b.phone} to check` : ""}.`,
+    });
+  }
+  if (b.address) {
+    items.push({
+      q: `Where is ${name} in Edmonton?`,
+      a: `${name} is at ${b.address}. Tap Get directions on this page for a map${b.amenities?.includes("Takeout") ? ", or call ahead for takeout" : ""}.`,
+    });
+  }
+  return items;
 }
 
 function displayUrl(url: string) {
