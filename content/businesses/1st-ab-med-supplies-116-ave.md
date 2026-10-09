@@ -21,8 +21,8 @@ hours:
   sunday: "Closed"
 photos:
   - "/photos/1st-ab-med-supplies-116-ave-g0.jpg"
-rating: 4.4
-review_count: 13
+rating: 4.3
+review_count: 12
 price_range: "$$"
 amenities:
   - "In-Store Shopping"
