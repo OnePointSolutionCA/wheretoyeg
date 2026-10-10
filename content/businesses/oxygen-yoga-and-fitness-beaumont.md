@@ -36,11 +36,11 @@ reviews:
     comment: |
       I just tried out the new OYF in Beaumont and I am soo thrilled that they opened in our community. They offer different types of classes which accommodates all kids of fitness levels.The place is brand new and the instructors are fun and upbeat. The studio has showers as well so you can get ready after your class. Lots of free parking available! Highly recommend
 hours:
-  monday: "9:00 AM–1:00 PM"
-  tuesday: "9:00 AM–1:00 PM"
-  wednesday: "9:00 AM–12:00 PM"
-  thursday: "9:00 AM–12:00 PM"
-  friday: "9:00 AM–1:00 PM"
-  saturday: "9:00 AM–1:00 PM"
-  sunday: "9:00 AM–1:00 PM"
+  monday: "9:00 AM–1:00 PM, 4:30 PM–9:30 PM"
+  tuesday: "9:00 AM–1:00 PM, 4:30 PM–9:30 PM"
+  wednesday: "9:00 AM–12:00 PM, 4:30 PM–8:30 PM"
+  thursday: "9:00 AM–12:00 PM, 5:30 PM–9:30 PM"
+  friday: "9:00 AM–1:00 PM, 5:00 PM–7:30 PM"
+  saturday: "9:00 AM–1:00 PM, 4:30 PM–7:30 PM"
+  sunday: "9:00 AM–1:00 PM, 7:00 PM–8:30 PM"
 ---

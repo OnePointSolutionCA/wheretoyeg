@@ -13,11 +13,11 @@ google_maps_url: "https://maps.google.com/?cid=7948932364342704442&g_mp=Cidnb29n
 latitude: 53.511377
 longitude: -113.497260
 hours:
-  monday: "11:40 AM–1:30 PM"
+  monday: "11:40 AM–1:30 PM, 5:20 PM–7:00 PM"
   tuesday: "5:20 PM–8:30 PM"
-  wednesday: "5:40 AM–8:00 AM"
-  thursday: "9:00 AM–10:40 AM"
-  friday: "5:40 AM–8:00 AM"
+  wednesday: "5:40 AM–8:00 AM, 11:40 AM–1:30 PM, 5:20 PM–8:30 PM"
+  thursday: "9:00 AM–10:40 AM, 5:40 PM–7:30 PM"
+  friday: "5:40 AM–8:00 AM, 11:40 AM–1:30 PM, 5:20 PM–7:00 PM"
   saturday: "9:00 AM–12:30 PM"
   sunday: "9:00 AM–12:30 PM"
 photos:
