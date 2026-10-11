@@ -15,11 +15,11 @@ longitude: -113.638313
 hours:
   monday: "8:00 AM–6:00 PM"
   tuesday: "8:00 AM–6:00 PM"
-  wednesday: "8:00 AM–10:00 AM"
+  wednesday: "8:00 AM–10:00 AM, 4:00 PM–6:00 PM"
   thursday: "8:00 AM–6:00 PM"
   friday: "8:00 AM–6:00 PM"
   saturday: "8:00 AM–4:00 PM"
-  sunday: "9:00 AM–10:00 AM"
+  sunday: "9:00 AM–10:00 AM, 4:00 PM–6:00 PM"
 photos:
   - "/photos/second-home-pet-resort-g1.jpg"
   - "/photos/second-home-pet-resort-g2.jpg"
