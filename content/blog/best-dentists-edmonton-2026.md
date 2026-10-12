@@ -78,4 +78,4 @@ For pediatric dentistry and orthodontics, [City Orthodontics](/medical/city-orth
 - **Ask about direct billing:** saves you from paying upfront and waiting for reimbursement
 - **First visit is diagnostic:** a good dentist does X-rays and an exam before recommending anything
 
-Browse all [medical clinics in Edmonton](/medical) or find [walk-in clinics in north Edmonton](/blog/walk-in-clinics-north-edmonton).
+Compare every [dentist in Edmonton](/medical/dentists) by rating and neighbourhood, browse all [medical clinics in Edmonton](/medical), or find [walk-in clinics in north Edmonton](/blog/walk-in-clinics-north-edmonton).

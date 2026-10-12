@@ -25,6 +25,10 @@ Booking a barber in Edmonton isn't hard. Booking the right barber is. There are 
 
 **[Mr. Barber Downtown](/barbers/mr-barber-downtown):** Central location, quick turnaround for downtown workers, good for a straightforward tune-up between fuller haircuts.
 
+**[Erican Barbershop 127 St](/barbers/erican-barbershop-127st):** A fade shop at 11904 127 St with a 5.0 Google rating, open seven days a week. Erican also has a second shop on [124 Street](/barbers/erican-barbershop-124st).
+
+**[Lavazio Barbershop](/barbers/lavazio-barbershop):** Men's haircuts in Castle Downs at 15361 97 St NW, rated 4.8 on Google. A good pick if you live on the north side.
+
 Browse all [barbershops in Edmonton](/barbers) on WhereToYEG.
 
 ## Fade types, what to actually ask for

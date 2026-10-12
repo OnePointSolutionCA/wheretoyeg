@@ -27,7 +27,22 @@ subcategories:
   - { name: "Board Game Cafes", slug: "board-games" }
   - { name: "Mini Golf", slug: "mini-golf" }
   - { name: "Laser Tag", slug: "laser-tag" }
-  - { name: "Indoor Playgrounds", slug: "indoor-playground" }
+  - name: "Indoor Playgrounds"
+    slug: "indoor-playground"
+    intro: "Indoor playgrounds give kids somewhere to climb, slide and burn off energy when it is too cold or wet to play outside. Edmonton has them on the south side, in the west end, on the north side and out in Sherwood Park, plus a couple of play cafes. Most of the places listed here are open seven days a week."
+    faq:
+      - q: "What can kids do indoors in Edmonton in winter?"
+        a: "Indoor playgrounds are the easy answer on a cold day, and most of the ones on this page are open seven days a week. Trampoline parks, mini golf and museums are good options too, and our winter guide has more ideas for the cold months."
+        links:
+          - { label: "Trampoline parks", href: "/activities-fun/trampoline" }
+          - { label: "Winter things to do", href: "/blog/winter-things-to-do-edmonton-2026" }
+      - q: "Are there play cafes for little kids in Edmonton?"
+        a: "Yes. PlayDen Kids Cafe on Airport Road and Hide N Seek Indoor Playground & Cafe on 170 Street in West Edmonton both pair a play area with a cafe."
+        links:
+          - { label: "PlayDen Kids Cafe", href: "/activities-fun/playden-kids-cafe" }
+          - { label: "Hide N Seek Indoor Playground & Cafe", href: "/activities-fun/hide-n-seek-indoor-playground-cafe" }
+      - q: "What should I check before going to an indoor playground?"
+        a: "Rules on age groups, socks, booking ahead and birthday parties are different at every place, so check the business's website or call before you go. Each listing shows the phone number, website and hours when we have them."
   - { name: "Museums", slug: "museums" }
   - { name: "Parks & Outdoors", slug: "outdoor" }
   - { name: "Skating", slug: "skating" }

@@ -49,7 +49,7 @@ When your kid needs to burn energy and it's -25:
 
 **[LaunchPad Trampoline Park (184 St)](/activities-fun/launchpad-trampoline-park-2):** 4.7 stars, 1,469 reviews. Older kids and teens burn hours here.
 
-Browse every [indoor playground](/activities-fun/indoor-playground) and every [trampoline park](/activities-fun/trampoline).
+Browse every [indoor playground in Edmonton](/activities-fun/indoor-playground) and every [trampoline park](/activities-fun/trampoline).
 
 ## Climbing when it's grey outside
 

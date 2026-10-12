@@ -27,7 +27,7 @@ import { relatedPostsFor } from "@/lib/related";
 import { categoryFaq, subLabel, subNoun } from "@/lib/faq";
 import { FaqSection, type FaqEntry } from "@/components/FaqSection";
 import { displayDayHours } from "@/lib/openNow";
-import type { Business } from "@/lib/types";
+import type { Business, Subcategory } from "@/lib/types";
 import { FilterableList } from "@/components/FilterBar";
 import { SubcategoryPills } from "@/components/SubcategoryPills";
 import { businessSchema } from "@/lib/schema";
@@ -233,7 +233,7 @@ export default function CategoryOrBusinessPage({ params }: { params: { category:
 
 // ---------------- Subcategory view ----------------
 
-function SubcategoryView({ category: c, sub }: { category: ReturnType<typeof getCategoryBySlug> & {}; sub: { name: string; slug: string } }) {
+function SubcategoryView({ category: c, sub }: { category: ReturnType<typeof getCategoryBySlug> & {}; sub: Subcategory }) {
   const businesses = getBusinessesBySubcategory(c.slug, sub.slug);
   const subCounts = countBySubcategory(c.slug);
   const neighborhoods = Array.from(new Set(businesses.map((b) => b.neighborhood))).filter(Boolean).sort();
@@ -295,6 +295,13 @@ function SubcategoryView({ category: c, sub }: { category: ReturnType<typeof get
       {c.subcategories && (
         <section className="border-b border-line bg-mist">
           <div className="container-page py-5">
+            {sub.intro && (
+              <div className="mb-4 max-w-2xl space-y-3 text-teal-500">
+                {sub.intro.split(/\n\s*\n/).map((para, i) => (
+                  <p key={i}>{para}</p>
+                ))}
+              </div>
+            )}
             <SubcategoryPills
               categorySlug={c.slug}
               subcategories={c.subcategories}
@@ -347,6 +354,7 @@ function SubcategoryView({ category: c, sub }: { category: ReturnType<typeof get
             noun,
             basePath: `/${c.slug}/${sub.slug}`,
             areaHref: (n) => (hubCount(c.slug, n, sub.slug) >= HUB_MIN ? hubHref(c.slug, n, sub.slug) : undefined),
+            extra: sub.faq,
           })}
         />
       </div>

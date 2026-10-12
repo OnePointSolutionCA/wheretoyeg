@@ -68,6 +68,10 @@ export type Business = {
 export type Subcategory = {
   name: string;
   slug: string;
+  /** Short hand-written intro shown above the listings on the subcategory page. */
+  intro?: string;
+  /** Hand-written questions added to the generated FAQ on the subcategory page. */
+  faq?: { q: string; a: string; links?: { label: string; href: string }[] }[];
 };
 
 export type Category = {

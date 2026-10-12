@@ -128,6 +128,7 @@ export default function HomePage() {
     { label: "Lash lifts", href: "/lash-techs" },
     { label: "Dim sum", href: "/restaurants/chinese" },
     { label: "Escape rooms", href: "/activities-fun" },
+    { label: "Indoor playgrounds", href: "/activities-fun/indoor-playground" },
     { label: "Biryani", href: "/restaurants/indian" },
     { label: "Boba", href: "/cafes-coffee-shops" },
     { label: "Halal butchers", href: "/grocery-markets?amenity=Halal" },

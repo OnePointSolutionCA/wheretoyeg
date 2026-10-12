@@ -1,8 +1,8 @@
 ---
 title: "Middle Child Burger Edmonton: Menu, Hours and Our Review"
 slug: "middle-child-burger-edmonton"
-seoTitle: "Middle Child Burger Edmonton: Menu, Hours & Reviews"
-description: "Middle Child Burger menu, hours and reviews: halal smash burgers on 152 Ave NW in North Edmonton, rated 4.8 stars, open 7 days. Plus what to order first."
+seoTitle: "Middle Child Burger Edmonton: Review, Menu & What to Order"
+description: "Our Middle Child Burger review: what to order first, the smash burger menu, hours (open 7 days) and free parking. Halal, rated 4.8 stars in North Edmonton."
 publishedDate: "2024-09-24"
 tags: ["burgers", "halal", "restaurants", "north-edmonton"]
 ---

@@ -43,6 +43,7 @@ Full guide: [Best Pakistani Food in Edmonton](/blog/best-pakistani-food-edmonton
 ## Afghan
 
 - **[Afghan Chopan Kebab](/restaurants/afghan-chopan-kebab):** traditional clay-oven kebabs, Qabeli Pallaw rice, Mantu dumplings, and Bolani in Heritage Valley.
+- **[Ariana Kitchen](/restaurants/ariana-kitchen):** Afghan restaurant at 13720 50 St NW, listed as halal-certified. Dine in or takeout, open seven days a week.
 
 ## Turkish and Moroccan
 

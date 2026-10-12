@@ -86,6 +86,8 @@ export function categoryFaq(
     areaHref?: (area: string) => string | undefined;
     /** Where the "all halal" link should go. */
     halalHref?: string;
+    /** Hand-written questions, placed before the closing "add my business" question. */
+    extra?: FaqEntry[];
   } = {},
 ): FaqEntry[] {
   if (businesses.length === 0) return [];
@@ -154,6 +156,8 @@ export function categoryFaq(
       links: [{ label: `All halal ${noun}`, href: opts.halalHref ?? `${basePath}?amenity=Halal` }],
     });
   }
+
+  items.push(...(opts.extra ?? []));
 
   items.push({
     q: `How do I add my business to WhereToYEG?`,
