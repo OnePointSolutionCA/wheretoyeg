@@ -64,7 +64,7 @@ Winter date nights that don't involve a parka outdoors:
 
 ## Fort Edmonton Park and the Botanic Garden
 
-**[Fort Edmonton Park](/activities-fun/fort-edmonton-park):** 4.5 stars, 5,378 reviews. Winter hours are limited, but the Dark Fort and Christmas events are worth planning around.
+**[Fort Edmonton Park](/activities-fun/fort-edmonton-park):** 4.5 stars, 5,378 reviews. Winter hours are limited, but the Christmas events are worth planning around.
 
 **[U of A Botanic Garden](/activities-fun/u-of-a-botanic-garden):** 4.6 stars, 3,320 reviews. The Luminaria event in December is one of Edmonton's best winter traditions. Book early.
 
