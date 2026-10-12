@@ -14,10 +14,10 @@ latitude: 53.595722
 longitude: -113.391594
 hours:
   monday: "Closed"
-  tuesday: "9:00 AM–2:30 PM"
-  wednesday: "9:00 AM–2:30 PM"
+  tuesday: "9:00 AM–2:30 PM, 5:00 PM–7:30 PM"
+  wednesday: "9:00 AM–2:30 PM, 5:00 PM–7:30 PM"
   thursday: "5:00 PM–7:30 PM"
-  friday: "9:00 AM–2:30 PM"
+  friday: "9:00 AM–2:30 PM, 5:00 PM–7:30 PM"
   saturday: "9:00 AM–6:00 PM"
   sunday: "9:00 AM–5:00 PM"
 photos:

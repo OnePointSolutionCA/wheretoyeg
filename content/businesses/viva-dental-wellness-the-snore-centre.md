@@ -39,7 +39,7 @@ reviews:
       Thank you Dr. Gidda and Rayanne!
 hours:
   monday: "8:00 AM–7:00 PM"
-  tuesday: "12:00 PM–7:00 PM"
+  tuesday: "11:30 AM–7:00 PM"
   wednesday: "8:00 AM–3:00 PM"
   thursday: "8:00 AM–3:00 PM"
   friday: "8:00 AM–1:00 PM"

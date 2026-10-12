@@ -12,7 +12,7 @@ latitude: 53.520381
 longitude: -113.996182
 hours:
   monday: "6:00 AM–11:00 PM"
-  tuesday: "12:00 AM–2:00 AM"
+  tuesday: "12:00 AM–2:00 AM, 6:00 AM–11:00 PM"
   wednesday: "6:00 AM–11:00 PM"
   thursday: "6:00 AM–11:00 PM"
   friday: "6:00 AM–11:00 PM"

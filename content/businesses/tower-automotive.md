@@ -49,7 +49,7 @@ hours:
   tuesday: "9:00 AM–6:30 PM"
   wednesday: "9:00 AM–6:30 PM"
   thursday: "9:00 AM–6:30 PM"
-  friday: "9:00 AM–1:00 PM"
+  friday: "9:00 AM–1:00 PM, 3:00 PM–6:30 PM"
   saturday: "Closed"
   sunday: "Closed"
 ---
