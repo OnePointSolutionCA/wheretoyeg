@@ -23,12 +23,12 @@ reviews:
     comment: |
       Amazing work. I went in for an oil change for my Honda civic and was in and out in 15 minutes.  You do have to take your own oil and filter.
 hours:
-  monday: "Closed"
-  tuesday: "Closed"
-  wednesday: "Closed"
-  thursday: "Closed"
-  friday: "Closed"
-  saturday: "Closed"
+  monday: "Open 24 hours"
+  tuesday: "Open 24 hours"
+  wednesday: "Open 24 hours"
+  thursday: "Open 24 hours"
+  friday: "Open 24 hours"
+  saturday: "Open 24 hours"
   sunday: "Open 24 hours"
 photos: []
 ---
