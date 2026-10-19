@@ -27,7 +27,7 @@ Edmonton has a surprisingly deep ice cream scene:
 
 For baked desserts, Edmonton punches well above its weight:
 
-- **[Duchess Bake Shop](/bakeries/duchess-bake-shop-2):** The gold standard. French pastries made with precision and ingredients you can taste. The croissants alone are worth the trip.
+- **[Duchess Bake Shop](/bakeries/duchess-bake-shop):** The gold standard. French pastries made with precision and ingredients you can taste. The croissants alone are worth the trip.
 - **[Chocorrant Pâtisserie](/bakeries/chocorrant-ptisserie-cafe):** Beautiful French pastries in a cozy setting. Everything looks like it belongs in a magazine, and it actually tastes even better.
 - **[Paradiso Pastries](/bakeries/paradiso-pastries):** Italian pastries, cannoli, and cakes. Old-school quality that hasn't changed in decades: and that's the point.
 - **[Sweet Castle Bakery](/cafes-coffee-shops/sweet-castle-bakery):** Custom cakes and sweet treats that deliver on both presentation and flavour.
@@ -50,7 +50,7 @@ Sometimes you want to actually sit down, order a plate, and take your time:
 
 Edmonton's cultural diversity shows up in its sweets:
 
-- **[Cedar Sweets](/bakeries/cedar-sweets-2):** Baklava, knafeh, and Middle Eastern pastries made fresh. The real thing, not a watered-down version.
+- **[Cedar Sweets](/bakeries/cedar-sweets):** Baklava, knafeh, and Middle Eastern pastries made fresh. The real thing, not a watered-down version.
 - **[Parkash Sweets](/bakeries/parkash-sweets):** Traditional South Asian sweets: gulab jamun, jalebi, barfi, made the way your grandmother would approve of.
 
 ## How to pick the right spot

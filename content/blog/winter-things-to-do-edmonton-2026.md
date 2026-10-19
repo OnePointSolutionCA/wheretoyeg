@@ -70,4 +70,4 @@ Winter date nights that don't involve a parka outdoors:
 
 ## Keep exploring
 
-Browse all [things to do in Edmonton](/activities-fun). For spring and summer, see the [fun things to do guide](/blog/fun-things-to-do-edmonton-2026).
+Browse all [things to do in Edmonton](/activities-fun). For spring and summer, see the [fun things to do guide](/blog/fun-things-to-do-edmonton-2026), and for the weeks before the snow, our [fall things to do in Edmonton](/blog/fall-things-to-do-edmonton-2026) guide.

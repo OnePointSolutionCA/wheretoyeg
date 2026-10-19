@@ -81,7 +81,7 @@ The 7 PM shows are the family picks. The late shows are real horror movies, so c
 
 ## What about Boo at the Zoo?
 
-The Edmonton Valley Zoo has run Boo at the Zoo on late October weekends in past years, with costume trick or treating around the zoo. We could not find confirmed 2026 dates yet, so check the [City of Edmonton zoo page](https://www.edmonton.ca/attractions_events/edmonton_valley_zoo) before you plan around it.
+The Edmonton Valley Zoo has run Boo at the Zoo on late October weekends in past years, with costume trick or treating around the zoo. We could not find confirmed 2026 dates yet, so check the [City of Edmonton zoo page](https://www.edmonton.ca/attractions_events/edmonton-valley-zoo) before you plan around it.
 
 ## Rainy day or too cold? Indoor Halloween backups
 
@@ -93,7 +93,7 @@ Edmonton weather does not care about your costume. If the forecast turns, these 
 
 ## Grab dinner after
 
-Corn mazes make people hungry. If you're looking for a halal dinner on the way home, start with our ranked list of [halal restaurants in Edmonton](/halal-restaurants). For more ideas, see [rainy day activities in Edmonton](/blog/rainy-day-activities-edmonton-2026) and the full [Activities & Fun listings](/activities-fun).
+Corn mazes make people hungry. If you're looking for a halal dinner on the way home, start with our ranked list of [halal restaurants in Edmonton](/halal-restaurants). For more ideas, see our guide to [fall things to do in Edmonton](/blog/fall-things-to-do-edmonton-2026), [rainy day activities in Edmonton](/blog/rainy-day-activities-edmonton-2026) and the full [Activities & Fun listings](/activities-fun).
 
 ## Halloween in Edmonton: quick tips
 

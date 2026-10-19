@@ -30,6 +30,11 @@ export function Footer() {
                 Halal Restaurants
               </Link>
             </li>
+            <li>
+              <Link href="/categories" className="text-teal hover:text-coral">
+                All Categories
+              </Link>
+            </li>
           </ul>
         </div>
         <div>

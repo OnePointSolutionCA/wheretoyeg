@@ -8,7 +8,7 @@ description: ""
 address: "10451 99 Ave, Fort Saskatchewan, AB T8L 0V6"
 neighborhood: "Fort Saskatchewan"
 phone: "(587) 744-2136"
-website: "http://soul2solestudio.com/"
+website: "https://www.soul2solestudio.com/"
 google_maps_url: "https://maps.google.com/?cid=8434968548548419059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.711739
 longitude: -113.205879

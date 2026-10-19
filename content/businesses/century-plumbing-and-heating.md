@@ -8,7 +8,7 @@ description: ""
 address: "34 Sioux Rd, Sherwood Park, AB T8A 4X1"
 neighborhood: "Sherwood Park"
 phone: "(780) 417-4044"
-website: "http://www.hirecentury.ca/"
+website: "https://www.hirecentury.ca/"
 google_maps_url: "https://maps.google.com/?cid=6293972455529342462&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.534708
 longitude: -113.322306

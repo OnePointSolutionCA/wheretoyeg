@@ -8,7 +8,7 @@ description: ""
 address: "945 St Albert Trl #130, St. Albert, AB T8N 4K6"
 neighborhood: "St. Albert"
 phone: "(780) 544-8350"
-website: "https://www.gongchacanada.ca/stalbert"
+website: "https://www.gongchacanada.ca/"
 google_maps_url: "https://maps.google.com/?cid=5655683787219010908&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.668792
 longitude: -113.633188

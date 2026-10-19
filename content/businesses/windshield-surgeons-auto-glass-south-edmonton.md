@@ -8,7 +8,7 @@ description: ""
 address: "9912 35 Ave NW, Edmonton, AB T6E 6B2"
 neighborhood: "South Edmonton"
 phone: "(780) 435-0262"
-website: "http://www.windshieldsurgeons.com/"
+website: "https://windshieldsurgeons.com/"
 google_maps_url: "https://maps.google.com/?cid=15503293710896007313&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.469363
 longitude: -113.487075

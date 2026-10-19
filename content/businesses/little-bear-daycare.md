@@ -8,7 +8,6 @@ description: ""
 address: "4409 Black Gold Dr, Leduc, AB T9E 8E1"
 neighborhood: "Leduc"
 phone: "(780) 612-1256"
-website: "https://little-bears-daycare-center1.odoo.com/"
 google_maps_url: "https://maps.google.com/?cid=9957942094349563860&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.257647
 longitude: -113.540426

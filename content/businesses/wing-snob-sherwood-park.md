@@ -8,7 +8,7 @@ description: ""
 address: "1020 Sherwood Dr #80, Sherwood Park, AB T8A 2G4"
 neighborhood: "Sherwood Park"
 phone: "(587) 269-1016"
-website: "http://www.wingsnob.ca/"
+website: "https://wingsnob.ca/"
 google_maps_url: "https://maps.google.com/?cid=14718527497190164845&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.513248
 longitude: -113.318055

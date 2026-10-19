@@ -9,7 +9,6 @@ rating: 4.3
 review_count: 46
 tier: "featured"
 phone: "(780) 801-7360"
-website: "https://beaumont.pizzapalazzo.ca/"
 google_maps: "https://maps.google.com/?cid=9434574440893492266&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/pizza-palazzo-beaumont.jpg"

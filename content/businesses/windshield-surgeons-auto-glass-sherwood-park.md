@@ -8,7 +8,7 @@ description: ""
 address: "139 Seneca Rd, Sherwood Park, AB T8A 4G6"
 neighborhood: "Sherwood Park"
 phone: "(780) 417-0755"
-website: "http://www.windshieldsurgeons.com/"
+website: "https://windshieldsurgeons.com/"
 google_maps_url: "https://maps.google.com/?cid=4214446445827763701&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.540251
 longitude: -113.326275

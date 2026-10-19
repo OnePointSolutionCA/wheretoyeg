@@ -3,9 +3,58 @@
  * Copy rules: keyword first, titles at most about 60 characters, descriptions 150 to 160, and no dashes.
  */
 
+import type { Metadata } from "next";
 import { clip } from "./text";
+import { SITE } from "./site";
 
 export const TITLE_MAX = 60;
+
+const DEFAULT_OG_IMAGE = { url: "/og.png", width: 1200, height: 630, alt: `${SITE.name}: ${SITE.tagline}` };
+
+/**
+ * Canonical, Open Graph and Twitter tags for one page. Next.js replaces (does not merge) the root
+ * layout's openGraph and twitter objects, so every page builds the full set here: og:url always
+ * matches the canonical, and og:type, og:site_name and the Twitter card never go missing.
+ */
+export function pageMeta(opts: {
+  /** Path from the site root, e.g. "/restaurants" or "/" for the homepage. */
+  path: string;
+  title: string;
+  description: string;
+  image?: string;
+  type?: "website" | "article";
+  publishedTime?: string;
+  modifiedTime?: string;
+}): Pick<Metadata, "alternates" | "openGraph" | "twitter"> {
+  const url = `${SITE.url}${opts.path.startsWith("/") ? opts.path : `/${opts.path}`}`;
+  const images = opts.image ? [opts.image] : [DEFAULT_OG_IMAGE];
+  const base = {
+    title: opts.title,
+    description: opts.description,
+    url,
+    siteName: SITE.name,
+    locale: "en_CA",
+    images,
+  };
+  return {
+    alternates: { canonical: url },
+    openGraph:
+      opts.type === "article"
+        ? {
+            ...base,
+            type: "article",
+            ...(opts.publishedTime ? { publishedTime: opts.publishedTime } : {}),
+            ...(opts.modifiedTime ? { modifiedTime: opts.modifiedTime } : {}),
+          }
+        : { ...base, type: "website" },
+    twitter: {
+      card: "summary_large_image",
+      title: opts.title,
+      description: opts.description,
+      images: [opts.image ?? DEFAULT_OG_IMAGE.url],
+    },
+  };
+}
 export const DESC_MIN = 150;
 export const DESC_MAX = 160;
 

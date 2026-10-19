@@ -2,12 +2,17 @@ import { Suspense } from "react";
 import type { Metadata } from "next";
 import { SearchClient } from "./SearchClient";
 import { SITE } from "@/lib/site";
+import { pageMeta } from "@/lib/seo";
 import { getBusinesses, getCategories } from "@/lib/content";
 
+const TITLE = "Search Edmonton businesses";
+const DESCRIPTION =
+  `Search every business listed on ${SITE.name} by name, cuisine, service, or neighborhood.`;
+
 export const metadata: Metadata = {
-  title: "Search Edmonton businesses",
-  description: `Search every business listed on ${SITE.name} by name, cuisine, service, or neighborhood.`,
-  alternates: { canonical: `${SITE.url}/search` },
+  title: TITLE,
+  description: DESCRIPTION,
+  ...pageMeta({ path: "/search", title: `${TITLE} | ${SITE.name}`, description: DESCRIPTION }),
   robots: { index: false, follow: true },
 };
 

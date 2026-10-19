@@ -9,7 +9,8 @@ const CATEGORY_TYPE: Record<string, string> = {
   bakeries: "Bakery",
   catering: "FoodEstablishment",
   "grocery-markets": "GroceryStore",
-  barbers: "BarberShop",
+  // schema.org has no BarberShop type (validators flag it); HairSalon is the closest real one.
+  barbers: "HairSalon",
   "hair-salons": "HairSalon",
   "nail-salons": "NailSalon",
   "lash-techs": "BeautySalon",

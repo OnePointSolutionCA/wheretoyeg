@@ -8,7 +8,7 @@ description: ""
 address: "10856 170 St NW, Edmonton, AB T5S 2H7"
 neighborhood: "West Edmonton"
 phone: "(780) 447-4923"
-website: "http://www.windshieldsurgeons.com/"
+website: "https://windshieldsurgeons.com/"
 google_maps_url: "https://maps.google.com/?cid=1525409662247652897&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.555179
 longitude: -113.617030

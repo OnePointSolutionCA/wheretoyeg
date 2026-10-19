@@ -8,7 +8,7 @@ description: ""
 address: "815 St Albert Trl Unit #5a, St. Albert, AB T8N 3X9"
 neighborhood: "St. Albert"
 phone: "(403) 363-5309"
-website: "https://www.chick-fil-a.ca/locations/ab/st-albert?utm_source=google&utm_medium=gmb"
+website: "https://www.chick-fil-a.ca/"
 google_maps_url: "https://maps.google.com/?cid=16165726555924962986&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.664308
 longitude: -113.631615
@@ -33,7 +33,7 @@ amenities:
   - "Family Friendly"
   - "Wheelchair Accessible"
 tags: ["edmonton", "shawarma"]
-active: true
+active: false
 date_listed: "2026-10-02"
 reviews:
   - name: "Spencer"

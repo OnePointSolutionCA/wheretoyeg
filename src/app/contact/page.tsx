@@ -1,11 +1,16 @@
 import type { Metadata } from "next";
 import { ContactForm } from "@/components/ContactForm";
 import { SITE } from "@/lib/site";
+import { pageMeta } from "@/lib/seo";
+
+const TITLE = "Contact WhereToYEG | Suggest a Business or Fix a Listing";
+const DESCRIPTION =
+  "Have a question, a business we should add, or a listing that needs fixing? Send the WhereToYEG team a message and we'll get back to you as soon as we can.";
 
 export const metadata: Metadata = {
-  title: { absolute: "Contact WhereToYEG | Suggest a Business or Fix a Listing" },
-  description: "Have a question, a business we should add, or a listing that needs fixing? Send the WhereToYEG team a message and we'll get back to you as soon as we can.",
-  alternates: { canonical: `${SITE.url}/contact` },
+  title: { absolute: TITLE },
+  description: DESCRIPTION,
+  ...pageMeta({ path: "/contact", title: TITLE, description: DESCRIPTION }),
 };
 
 export default function ContactPage() {

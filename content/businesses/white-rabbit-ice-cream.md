@@ -8,7 +8,7 @@ description: "White Rabbit Ice Cream — ice cream in Edmonton, Edmonton. 413 Go
 address: "10546 110 St NW, Edmonton, AB T5H 3C5"
 neighborhood: "Edmonton"
 phone: "(780) 818-2180"
-website: "http://www.whiterabbiticecream.com/"
+website: "https://whiterabbiticecream.com/"
 google_maps_url: "https://maps.google.com/?cid=13371898611228917632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "12:00 PM–10:00 PM"

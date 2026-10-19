@@ -39,7 +39,7 @@ Edmonton's best halal restaurants are some of its best date spots, full stop.
 
 Sometimes the best date skips dinner entirely.
 
-**[Duchess Bake Shop](/bakeries/duchess-bake-shop-2)** on 124 Street is an Edmonton institution with 3,000+ reviews. Pastries, coffee, and a 124 Street stroll before or after.
+**[Duchess Bake Shop](/bakeries/duchess-bake-shop)** on 124 Street is an Edmonton institution with 3,000+ reviews. Pastries, coffee, and a 124 Street stroll before or after.
 
 **[Kahwa Raw Cafe](/cafes-coffee-shops/kahwa-raw-cafe)** in North Edmonton is halal, open late, and a good fit for a long conversation over coffee and dessert.
 

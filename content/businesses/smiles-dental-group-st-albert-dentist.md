@@ -8,7 +8,7 @@ description: ""
 address: "101 St Albert Trl Unit 40, St. Albert, AB T8N 5T8"
 neighborhood: "St. Albert"
 phone: "(587) 410-4843"
-website: "https://smilesdentalgroup.com/dental-clinics%2Fst-albert-dental-clinic/?utm_source=google&utm_medium=organic&utm_campaign=googlemaps&utm_term=st-albert"
+website: "https://smilesdentalgroup.com/dental-clinics/st-albert-dentist/"
 google_maps_url: "https://maps.google.com/?cid=14057366517424528436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.621229
 longitude: -113.607703

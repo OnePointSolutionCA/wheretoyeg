@@ -5,12 +5,12 @@ category: "medical"
 subcategory: "chiropractors"
 tier: "premium"
 logo: "/logos/oxford-chiro.png"
-description: "Family chiropractic and wellness clinic in northwest Edmonton. Adjustments, sports injury care, prenatal chiropractic, and massage therapy. Direct billing to most insurers."
-address: "15152 127 St NW"
-neighborhood: "North Edmonton"
-phone: "780-457-3311"
-email: "info@oxfordchiro.ca"
-website: "https://oxfordchiro.ca"
+description: "Chiropractic and massage therapy clinic in the Cumberland area of Castle Downs, north Edmonton. Chiropractic care, massage therapy, motor vehicle accident treatment, WCB work injury rehab, sports injury care, prenatal and pediatric chiropractic and custom orthotics. No referral needed, walk ins welcome, free parking and direct billing to most major insurance plans."
+address: "15152 127 St NW, Edmonton, AB T6V 0C5"
+neighborhood: "Castle Downs"
+phone: "(825) 394-3641"
+email: "oxfordchiropractic@telus.net"
+website: "https://oxfordchiropractic.ca/"
 google_maps_url: "https://maps.google.com/?q=15152+127+St+NW+Edmonton"
 hours:
   monday: "10:00 AM–6:30 PM"
@@ -26,13 +26,13 @@ review_count: 21
 price_range: "$$"
 amenities:
   - "Direct Billing"
-  - "Massage On-Site"
+  - "Massage Therapy"
+  - "Walk-Ins Welcome"
+  - "No Referral Needed"
   - "Free Parking"
-  - "Wheelchair Accessible"
-  - "Evening Hours"
-tags: ["chiropractic", "massage therapy", "prenatal", "sports injury"]
-latitude: 53.6015
-longitude: -113.5720
+tags: ["chiropractic", "massage therapy", "prenatal", "sports injury", "castle downs"]
+latitude: 53.614581
+longitude: -113.542667
 featured: true
 active: true
 date_listed: "2026-08-17"

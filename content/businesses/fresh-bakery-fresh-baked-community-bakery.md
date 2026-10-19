@@ -8,7 +8,6 @@ description: ""
 address: "6410 50 St Unit 107, Beaumont, AB T4X 0B6"
 neighborhood: "Beaumont"
 phone: "(780) 929-7891"
-website: "https://www.freshbakerybeaumont.ca/"
 google_maps_url: "https://maps.google.com/?cid=13359594616867891995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.364750
 longitude: -113.417997

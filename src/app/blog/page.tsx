@@ -4,15 +4,18 @@ import type { Metadata } from "next";
 import { getBlogPosts } from "@/lib/blog";
 import { distinctCovers, postCategory } from "@/lib/blogMedia";
 import { GuideCard, formatDate } from "@/components/RelatedGuides";
-import { SITE } from "@/lib/site";
+import { pageMeta } from "@/lib/seo";
 
 export const revalidate = 3600;
 
+const TITLE = "Edmonton Guides & Best Of Lists | The WhereToYEG Blog";
+const DESCRIPTION =
+  "Neighborhood guides, best of lists and local Edmonton picks from the WhereToYEG team. Where to eat, who to call, and what to do in Edmonton and nearby towns.";
+
 export const metadata: Metadata = {
-  title: { absolute: "Edmonton Guides & Best Of Lists | The WhereToYEG Blog" },
-  description:
-    "Neighborhood guides, best of lists and local Edmonton picks from the WhereToYEG team. Where to eat, who to call, and what to do in Edmonton and nearby towns.",
-  alternates: { canonical: `${SITE.url}/blog` },
+  title: { absolute: TITLE },
+  description: DESCRIPTION,
+  ...pageMeta({ path: "/blog", title: TITLE, description: DESCRIPTION }),
 };
 
 export default function BlogIndex() {

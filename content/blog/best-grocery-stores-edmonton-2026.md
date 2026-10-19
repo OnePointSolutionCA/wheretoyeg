@@ -22,7 +22,7 @@ Edmonton's Asian grocery game is strong, and these stores carry everything from 
 
 Edmonton has one of the best selections of halal butchers in Canada. These aren't just halal-certified. They're shops where the butcher knows your name and cuts meat to order:
 
-- **[Tarboosh Halal Meat & Market](/grocery-markets/tarboosh-halal-meat-market-2):** Mediterranean and Middle Eastern groceries alongside fresh halal meat. The quality of the lamb and chicken here is consistently high.
+- **[Tarboosh Halal Meat & Market](/grocery-markets/tarboosh-halal-meat-market):** Mediterranean and Middle Eastern groceries alongside fresh halal meat. The quality of the lamb and chicken here is consistently high.
 - **[WestGate Halal Meat & Deli](/grocery-markets/westgate-halal-meat-deli-mediterranean-foods):** Halal meat, Mediterranean groceries, and a deli counter. Good selection of spices and flatbreads.
 - **[Al Madina Halal Meat & Deli](/grocery-markets/al-madina-halal-meat-deli):** Clean, well-organized, and the meat is always fresh. A reliable halal shop that doesn't try to be everything: it just does meat well.
 - **[Daily Bazar Halal Meat & Grocery](/grocery-markets/daily-bazar-halal-meat-grocery):** South Asian and Middle Eastern groceries alongside halal meat. Good prices and a wide selection of spices and lentils.

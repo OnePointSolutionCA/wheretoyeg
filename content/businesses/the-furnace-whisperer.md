@@ -8,7 +8,6 @@ description: ""
 address: "10608 152 Ave NW, Edmonton, AB T5E 2S3"
 neighborhood: "Castle Downs"
 phone: "(780) 850-2073"
-website: "https://thefurnacewhisperer.jobbersites.com/"
 google_maps_url: "https://maps.google.com/?cid=333881450461400043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.612445
 longitude: -113.503619

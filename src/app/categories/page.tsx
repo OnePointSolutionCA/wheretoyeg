@@ -1,17 +1,21 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import { SITE } from "@/lib/site";
+import { pageMeta } from "@/lib/seo";
 import { getBusinesses, getCategories } from "@/lib/content";
 import { breadcrumbSchema, JsonLd } from "@/lib/schema-extra";
 import { CategoryIcon } from "@/components/CategoryIcon";
 
 export const revalidate = 3600;
 
+const TITLE = "All categories and services in Edmonton";
+const DESCRIPTION =
+  "Every category on WhereToYEG in one place: restaurants, auto repair and body shops, medical, professional services, salons, gyms and more across Edmonton.";
+
 export const metadata: Metadata = {
-  title: "All categories and services in Edmonton",
-  description:
-    "Every category on WhereToYEG in one place: restaurants, auto repair and body shops, medical, professional services, salons, gyms and more across Edmonton.",
-  alternates: { canonical: `${SITE.url}/categories` },
+  title: TITLE,
+  description: DESCRIPTION,
+  ...pageMeta({ path: "/categories", title: `${TITLE} | ${SITE.name}`, description: DESCRIPTION }),
 };
 
 export default function CategoriesPage() {

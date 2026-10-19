@@ -8,7 +8,7 @@ description: ""
 address: "5901 50 St, Leduc, AB T9E 8E3"
 neighborhood: "Leduc"
 phone: "(780) 739-1540"
-website: "http://soul2solestudio.com/"
+website: "https://www.soul2solestudio.com/"
 google_maps_url: "https://maps.google.com/?cid=4832046238456110757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.272804
 longitude: -113.549199

@@ -1933,5 +1933,10 @@
     "source": "/gyms-fitness/lore-gym",
     "destination": "/gyms-fitness/iron-lore-gym-edmonton",
     "permanent": true
+  },
+  {
+    "source": "/restaurants/chick-fil-a",
+    "destination": "/restaurants",
+    "permanent": true
   }
 ]

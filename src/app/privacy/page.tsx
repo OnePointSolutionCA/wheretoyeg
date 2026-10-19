@@ -1,10 +1,15 @@
 import type { Metadata } from "next";
 import { SITE } from "@/lib/site";
+import { pageMeta } from "@/lib/seo";
+
+const TITLE = "Privacy Policy | WhereToYEG";
+const DESCRIPTION =
+  "The WhereToYEG privacy policy: how Edmonton's local business directory handles your data. No accounts, no tracking cookies and no data sales. Read the details.";
 
 export const metadata: Metadata = {
-  title: { absolute: "Privacy Policy | WhereToYEG" },
-  description: "The WhereToYEG privacy policy: how Edmonton's local business directory handles your data. No accounts, no tracking cookies and no data sales. Read the details.",
-  alternates: { canonical: `${SITE.url}/privacy` },
+  title: { absolute: TITLE },
+  description: DESCRIPTION,
+  ...pageMeta({ path: "/privacy", title: TITLE, description: DESCRIPTION }),
 };
 
 export default function PrivacyPage() {

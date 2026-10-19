@@ -14,14 +14,13 @@ import { SubcategoryPills } from "@/components/SubcategoryPills";
 import { breadcrumbSchema, itemListSchema, JsonLd } from "@/lib/schema-extra";
 import { ListingIndex } from "@/components/ListingIndex";
 import { HUB_MIN, byRank, hubCount, hubHref, hubsForCategory } from "@/lib/areas";
-import { CATEGORY_PLURAL, fitTitle, metaDescription, nf } from "@/lib/seo";
+import { CATEGORY_PLURAL, fitTitle, metaDescription, nf, pageMeta } from "@/lib/seo";
 import { FaqSection } from "@/components/FaqSection";
 import { RelatedGuides } from "@/components/RelatedGuides";
 import { OnePointAd } from "@/components/OnePointAd";
 import { pickAdvertiser } from "@/lib/advertisers";
 import { categoryFaq } from "@/lib/faq";
 import { relatedPosts } from "@/lib/related";
-import { SITE } from "@/lib/site";
 import { toCard } from "@/lib/slim";
 import { edmontonDay } from "@/lib/daily";
 
@@ -54,8 +53,7 @@ export async function generateMetadata({ params }: { params: { category: string 
       `${c.name.toLowerCase()} near me`,
       `${c.name.toLowerCase()} YEG`,
     ],
-    alternates: { canonical: `${SITE.url}/${c.slug}` },
-    openGraph: { title, description: desc, images: ["/og.png"] },
+    ...pageMeta({ path: `/${c.slug}`, title, description: desc }),
   };
 }
 

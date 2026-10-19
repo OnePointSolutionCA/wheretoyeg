@@ -8,7 +8,7 @@ description: ""
 address: "120 Railway Ave, Spruce Grove, AB T7X 3A6"
 neighborhood: "Spruce Grove"
 phone: "(780) 960-4600"
-website: "https://sprucegroveagsociety.com/the-site"
+website: "https://sprucegroveagsociety.com/"
 google_maps_url: "https://maps.google.com/?cid=7583018423887428779&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.540400
 longitude: -113.901798

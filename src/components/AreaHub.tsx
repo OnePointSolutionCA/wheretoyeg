@@ -10,7 +10,6 @@ import { breadcrumbSchema, itemListSchema, JsonLd } from "@/lib/schema-extra";
 import { categoryFaq, subLabel, subNoun } from "@/lib/faq";
 import { relatedPosts } from "@/lib/related";
 import { toCard } from "@/lib/slim";
-import { SITE } from "@/lib/site";
 import { areaSlug, areaTitle, placeLabel } from "@/lib/place";
 import {
   AREA_INTRO,
@@ -23,7 +22,7 @@ import {
   hubsForCategory,
   subHubsForArea,
 } from "@/lib/areas";
-import { CATEGORY_HEADING, CATEGORY_PLURAL, fitTitle, listJoin, metaDescription, nf } from "@/lib/seo";
+import { CATEGORY_HEADING, CATEGORY_PLURAL, fitTitle, listJoin, metaDescription, nf, pageMeta } from "@/lib/seo";
 
 type HubProps = { category: Category; sub?: Subcategory; area: string; businesses: Business[] };
 
@@ -70,8 +69,7 @@ export function areaHubMetadata({ category: c, sub, area, businesses }: HubProps
   return {
     title: { absolute: title },
     description,
-    alternates: { canonical: `${SITE.url}${canonical}` },
-    openGraph: { title, description, images: [`/photos/_hero/${c.slug}.jpg`] },
+    ...pageMeta({ path: canonical, title, description, image: `/photos/_hero/${c.slug}.jpg` }),
     ...(n < HUB_INDEX ? { robots: { index: false, follow: true } } : {}),
   };
 }

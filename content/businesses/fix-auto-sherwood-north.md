@@ -5,7 +5,7 @@ category: "auto-repair"
 subcategory: "collision"
 tier: "premium"
 logo: "/logos/fix-auto.png"
-description: "Full-service collision repair shop in Sherwood Park. Insurance-approved for all major providers, lifetime warranty on repairs, and free courtesy vehicles. Fast estimates and honest timelines."
+description: "Collision repair and auto body shop on Provincial Avenue in Sherwood Park. Dent repair, bumper scratch and scuff repair, minor rust repair, vehicle diagnostics, windshield replacement and mechanical repair. They help with the insurance claims process and back repair work with a nationwide limited lifetime warranty. AMVIC licensed."
 address: "Unit 100, 167 Provincial Ave, Sherwood Park, AB T8H 0M3"
 neighborhood: "Sherwood Park"
 phone: "(780) 416-3158"
@@ -25,11 +25,12 @@ rating: 4.8
 review_count: 122
 price_range: "$$$"
 amenities:
-  - "Insurance Approved"
+  - "Collision Repair"
+  - "AMVIC Licensed"
+  - "Insurance Claims Help"
   - "Lifetime Warranty"
-  - "Courtesy Vehicles"
-  - "Free Estimates"
-  - "Free Parking"
+  - "Windshield Replacement"
+  - "Mechanical Repair"
 tags: ["collision repair", "auto body", "sherwood park"]
 latitude: 53.568543
 longitude: -113.313860

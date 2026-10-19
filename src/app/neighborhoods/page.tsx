@@ -1,17 +1,21 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import { SITE } from "@/lib/site";
+import { pageMeta } from "@/lib/seo";
 import { getBusinesses } from "@/lib/content";
 import { neighborhoodSlug, neighborhoodStats } from "@/lib/neighborhoods";
 import { AreaTile } from "@/components/AreaTile";
 
 export const revalidate = 3600;
 
+const TITLE = "Edmonton Neighborhoods & Nearby Towns | Local Guides";
+const DESCRIPTION =
+  "Browse local businesses by area: Downtown, Whyte Ave, 124 Street, Mill Woods and Windermere, plus Sherwood Park, St. Albert, Spruce Grove, Leduc and more.";
+
 export const metadata: Metadata = {
-  title: { absolute: "Edmonton Neighborhoods & Nearby Towns | Local Guides" },
-  description:
-    "Browse local businesses by area: Downtown, Whyte Ave, 124 Street, Mill Woods and Windermere, plus Sherwood Park, St. Albert, Spruce Grove, Leduc and more.",
-  alternates: { canonical: `${SITE.url}/neighborhoods` },
+  title: { absolute: TITLE },
+  description: DESCRIPTION,
+  ...pageMeta({ path: "/neighborhoods", title: TITLE, description: DESCRIPTION }),
 };
 
 export default function NeighborhoodsPage() {

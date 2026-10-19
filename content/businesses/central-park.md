@@ -8,7 +8,6 @@ description: ""
 address: "450 King St, Spruce Grove, AB T7X 2C6"
 neighborhood: "Spruce Grove"
 phone: "(780) 962-2611"
-website: "https://www.sprucegrove.org/community/parks/central-park/"
 google_maps_url: "https://maps.google.com/?cid=983533347255876728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.547510
 longitude: -113.899569

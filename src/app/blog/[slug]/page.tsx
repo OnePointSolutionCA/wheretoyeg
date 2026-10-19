@@ -11,7 +11,7 @@ import { RelatedGuides } from "@/components/RelatedGuides";
 import { OnePointAd } from "@/components/OnePointAd";
 import { pickAdvertiser } from "@/lib/advertisers";
 import { SITE } from "@/lib/site";
-import { fitTitle, metaDescription } from "@/lib/seo";
+import { fitTitle, metaDescription, pageMeta } from "@/lib/seo";
 
 export const revalidate = 3600;
 
@@ -35,8 +35,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   return {
     title: { absolute: title },
     description,
-    alternates: { canonical: `${SITE.url}/blog/${p.slug}` },
-    openGraph: { title, description, type: "article", publishedTime: p.publishedDate, images: [cover] },
+    ...pageMeta({ path: `/blog/${p.slug}`, title, description, image: cover, type: "article", publishedTime: p.publishedDate }),
   };
 }
 

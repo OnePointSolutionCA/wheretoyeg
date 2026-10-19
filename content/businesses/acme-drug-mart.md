@@ -5,19 +5,19 @@ category: "medical"
 subcategory: "pharmacies"
 tier: "premium"
 logo: "/logos/acme-drug-mart.png"
-description: "Independent Edmonton pharmacy on 87 Avenue serving west-end residents. Prescription fills, medication reviews, compounding, immunizations, and free local delivery. Personal, unhurried service."
-address: "15508 87 Ave NW Unit 103"
+description: "Independent, family owned pharmacy inside the Meadowlark Health Centre in west Edmonton, with free parking right outside. Pharmacists can treat minor ailments, prescribe for UTIs and birth control, and extend prescriptions with no doctor's appointment needed. Travel vaccines, GLP-1 weight loss support, quit smoking help, free take home naloxone kits and free prescription delivery anywhere in Edmonton with no minimum."
+address: "Unit 103, 15508 87 Ave NW, Edmonton, AB T5R 4G5"
 neighborhood: "West Edmonton"
-phone: "780-483-1146"
-website: "https://acmedrugmart.ca"
-google_maps_url: "https://maps.google.com/?q=15508+87+Ave+NW+Edmonton"
+phone: "(780) 443-0202"
+website: "https://acmedrugmart.com/"
+google_maps_url: "https://maps.google.com/?q=15508+87+Ave+NW+Edmonton+AB"
 hours:
-  monday: "9:00 AM–6:00 PM"
+  monday: "9:00 AM–5:00 PM"
   tuesday: "9:00 AM–6:00 PM"
   wednesday: "9:00 AM–6:00 PM"
   thursday: "9:00 AM–6:00 PM"
   friday: "9:00 AM–6:00 PM"
-  saturday: "10:00 AM–5:00 PM"
+  saturday: "11:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/acme-drug-mart-1.jpg", "/photos/acme-drug-mart-2.jpg", "/photos/acme-drug-mart-3.jpg"]
 rating: 5
@@ -25,14 +25,13 @@ review_count: 59
 price_range: "$"
 amenities:
   - "Free Delivery"
-  - "Compounding"
-  - "Immunizations"
-  - "Blister Packs"
-  - "Wheelchair Accessible"
+  - "Pharmacist Prescribing"
+  - "Travel Vaccines"
+  - "Free Naloxone Kits"
   - "Free Parking"
-tags: ["pharmacy", "compounding", "delivery", "west edmonton"]
-latitude: 53.5233
-longitude: -113.6329
+tags: ["pharmacy", "delivery", "travel vaccines", "west edmonton"]
+latitude: 53.5232
+longitude: -113.6172
 featured: true
 active: true
 date_listed: "2026-08-17"

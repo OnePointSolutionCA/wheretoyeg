@@ -8,7 +8,7 @@ description: ""
 address: "3630 153 Ave NW, Edmonton, AB T5Y 0S5"
 neighborhood: "North Edmonton"
 phone: "(780) 509-7438"
-website: "http://www.osmows.com/"
+website: "https://osmows.com/"
 google_maps_url: "https://maps.google.com/?cid=5689745669755092105&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.614936
 longitude: -113.398755

@@ -1,10 +1,15 @@
 import type { Metadata } from "next";
 import { SITE } from "@/lib/site";
+import { pageMeta } from "@/lib/seo";
+
+const TITLE = "Terms of Service | WhereToYEG";
+const DESCRIPTION =
+  "WhereToYEG terms of service: the rules for listings, reviews, photos and content accuracy on Edmonton's local business directory. Please read before using it.";
 
 export const metadata: Metadata = {
-  title: { absolute: "Terms of Service | WhereToYEG" },
-  description: "WhereToYEG terms of service: the rules for listings, reviews, photos and content accuracy on Edmonton's local business directory. Please read before using it.",
-  alternates: { canonical: `${SITE.url}/terms` },
+  title: { absolute: TITLE },
+  description: DESCRIPTION,
+  ...pageMeta({ path: "/terms", title: TITLE, description: DESCRIPTION }),
 };
 
 export default function TermsPage() {

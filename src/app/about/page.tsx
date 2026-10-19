@@ -1,12 +1,15 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { SITE } from "@/lib/site";
+import { pageMeta } from "@/lib/seo";
+
+const TITLE = "About WhereToYEG | Edmonton's Local Business Directory";
+const DESCRIPTION =
+  "WhereToYEG is a free directory of businesses in Edmonton and nearby towns, built for people who live, work and eat here. See how it works and list your spot.";
 
 export const metadata: Metadata = {
-  title: { absolute: "About WhereToYEG | Edmonton's Local Business Directory" },
-  description:
-    "WhereToYEG is a free directory of businesses in Edmonton and nearby towns, built for people who live, work and eat here. See how it works and list your spot.",
-  alternates: { canonical: `${SITE.url}/about` },
+  title: { absolute: TITLE },
+  description: DESCRIPTION,
+  ...pageMeta({ path: "/about", title: TITLE, description: DESCRIPTION }),
 };
 
 export default function AboutPage() {

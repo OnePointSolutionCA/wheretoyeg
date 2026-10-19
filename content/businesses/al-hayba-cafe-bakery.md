@@ -8,7 +8,6 @@ description: ""
 address: "11842 145 Ave NW, Edmonton, AB T5X 2E3"
 neighborhood: "Castle Downs"
 phone: "(780) 488-7212"
-website: "http://alhayba.ca/"
 google_maps_url: "https://maps.google.com/?cid=7978815154608496395&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.608184
 longitude: -113.526813

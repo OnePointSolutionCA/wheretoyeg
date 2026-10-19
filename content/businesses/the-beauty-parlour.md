@@ -8,7 +8,7 @@ description: ""
 address: "10011 Whyte Ave NW 2nd Floor, Edmonton, AB T6E 1Z2"
 neighborhood: "Whyte Ave"
 phone: "(780) 429-4242"
-website: "http://organicbeautyparlour.com/"
+website: "https://organicbeautyparlour.com/"
 google_maps_url: "https://maps.google.com/?cid=15476725909936674401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.517861
 longitude: -113.489318

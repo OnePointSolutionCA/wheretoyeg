@@ -9,7 +9,6 @@ rating: 4
 review_count: 244
 tier: "featured"
 phone: "(780) 483-4011"
-website: "https://northtown.pizzapalazzo.ca/"
 google_maps: "https://maps.google.com/?cid=12573965668559477090&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/pizza-palace-north-town-centre.jpg"

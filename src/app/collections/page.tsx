@@ -2,12 +2,16 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { COLLECTIONS } from "@/lib/collections";
 import { getBusinesses } from "@/lib/content";
-import { SITE } from "@/lib/site";
+import { pageMeta } from "@/lib/seo";
+
+const TITLE = "Edmonton Collections | Late Night Eats, Brunch & Date Night";
+const DESCRIPTION =
+  "Handpicked Edmonton lists for every plan: late night eats, weekend brunch, date night, a halal foodie tour, self-care Saturdays and hidden gems worth a visit.";
 
 export const metadata: Metadata = {
-  title: { absolute: "Edmonton Collections | Late Night Eats, Brunch & Date Night" },
-  description: "Handpicked Edmonton lists for every plan: late night eats, weekend brunch, date night, a halal foodie tour, self-care Saturdays and hidden gems worth a visit.",
-  alternates: { canonical: `${SITE.url}/collections` },
+  title: { absolute: TITLE },
+  description: DESCRIPTION,
+  ...pageMeta({ path: "/collections", title: TITLE, description: DESCRIPTION }),
 };
 
 export default function CollectionsIndexPage() {

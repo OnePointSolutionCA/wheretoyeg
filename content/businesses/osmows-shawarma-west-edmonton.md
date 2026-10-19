@@ -8,7 +8,7 @@ description: ""
 address: "10009 170 St NW, Edmonton, AB T5P 4R5"
 neighborhood: "West Edmonton"
 phone: "(825) 601-5909"
-website: "http://www.osmows.com/"
+website: "https://osmows.com/"
 google_maps_url: "https://maps.google.com/?cid=2331731224635814283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.539808
 longitude: -113.614373

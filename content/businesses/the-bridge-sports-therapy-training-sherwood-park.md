@@ -8,7 +8,7 @@ description: ""
 address: "2055 Premier Way #109, Sherwood Park, AB T8H 0G2"
 neighborhood: "Sherwood Park"
 phone: "(780) 570-0225"
-website: "http://thebridge.fit/"
+website: "https://www.thebridge.fit/"
 google_maps_url: "https://maps.google.com/?cid=6004739339063922073&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.559145
 longitude: -113.317693

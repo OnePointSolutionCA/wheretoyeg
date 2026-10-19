@@ -8,7 +8,6 @@ description: ""
 address: "4723 50th Ave, Leduc, AB T7Z 0A9"
 neighborhood: "Leduc"
 phone: "(780) 980-9700"
-website: "https://www.globalchildcarecentre.com/"
 google_maps_url: "https://maps.google.com/?cid=4341294194375537461&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.264583
 longitude: -113.547716

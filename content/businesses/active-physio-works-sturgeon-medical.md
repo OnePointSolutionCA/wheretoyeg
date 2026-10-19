@@ -8,7 +8,7 @@ description: ""
 address: "625 St Albert Trl #200, St. Albert, AB T8N 3L3"
 neighborhood: "St. Albert"
 phone: "(780) 809-8700"
-website: "http://activephysioworks.com/"
+website: "https://www.activephysioworks.com/"
 google_maps_url: "https://maps.google.com/?cid=629672030975653359&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.655982
 longitude: -113.628045

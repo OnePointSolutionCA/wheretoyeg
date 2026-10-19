@@ -8,7 +8,7 @@ description: ""
 address: "4351 167 Ave NW, Edmonton, AB T5Y 6L9"
 neighborhood: "North Edmonton"
 phone: "(780) 424-4256"
-website: "http://www.dosaguru.ca/"
+website: "https://dosaguru.ca/"
 google_maps_url: "https://maps.google.com/?cid=1456210179138457505&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.627866
 longitude: -113.406898

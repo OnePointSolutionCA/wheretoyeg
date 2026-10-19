@@ -16,6 +16,7 @@ import { Carousel } from "@/components/Carousel";
 import { Marquee } from "@/components/home/Marquee";
 import { SectionHead } from "@/components/home/SectionHead";
 import { SITE } from "@/lib/site";
+import { pageMeta } from "@/lib/seo";
 import { dailyShuffle } from "@/lib/daily";
 import { toCard } from "@/lib/slim";
 import {
@@ -43,8 +44,7 @@ export function generateMetadata(): Metadata {
   return {
     title: { absolute: title },
     description,
-    alternates: { canonical: `${SITE.url}/` },
-    openGraph: { title, description, url: SITE.url, images: ["/og.png"] },
+    ...pageMeta({ path: "/", title, description }),
   };
 }
 

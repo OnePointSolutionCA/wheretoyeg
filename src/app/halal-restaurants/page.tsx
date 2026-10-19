@@ -11,7 +11,7 @@ import { RelatedGuides } from "@/components/RelatedGuides";
 import { ListingIndex } from "@/components/ListingIndex";
 import { breadcrumbSchema, itemListSchema, JsonLd } from "@/lib/schema-extra";
 import { byRank, hubCount, hubHref } from "@/lib/areas";
-import { fitTitle, listJoin, metaDescription, nf } from "@/lib/seo";
+import { fitTitle, listJoin, metaDescription, nf, pageMeta } from "@/lib/seo";
 import { toCard } from "@/lib/slim";
 import { SITE } from "@/lib/site";
 import { displayDayHours } from "@/lib/openNow";
@@ -59,8 +59,7 @@ export function generateMetadata(): Metadata {
   return {
     title: { absolute: title },
     description,
-    alternates: { canonical: `${SITE.url}${PATH}` },
-    openGraph: { title, description, images: ["/photos/_hero/restaurants.jpg"] },
+    ...pageMeta({ path: PATH, title, description, image: "/photos/_hero/restaurants.jpg" }),
   };
 }
 

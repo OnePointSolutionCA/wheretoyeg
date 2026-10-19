@@ -50,7 +50,7 @@ import {
   hubsForCategory,
   namePlaceCount,
 } from "@/lib/areas";
-import { CATEGORY_HEADING, CATEGORY_PLURAL, TITLE_MAX, businessType, fitTitle, metaDescription, nf, titleCase } from "@/lib/seo";
+import { CATEGORY_HEADING, CATEGORY_PLURAL, TITLE_MAX, businessType, fitTitle, metaDescription, nf, pageMeta, titleCase } from "@/lib/seo";
 import { clip, plainDashes } from "@/lib/text";
 
 const FOOD_CATEGORIES = new Set(["restaurants", "cafes-coffee-shops", "bakeries", "catering", "grocery-markets"]);
@@ -125,8 +125,7 @@ export async function generateMetadata({ params }: { params: { category: string;
         `${sub.name.toLowerCase()} YEG`,
         `top ${sub.name.toLowerCase()} Edmonton`,
       ],
-      alternates: { canonical: `${SITE.url}/${cat.slug}/${sub.slug}` },
-      openGraph: { title, description: desc, images: [`/photos/_hero/${cat.slug}.jpg`] },
+      ...pageMeta({ path: `/${cat.slug}/${sub.slug}`, title, description: desc, image: `/photos/_hero/${cat.slug}.jpg` }),
       // Pages with only one or two listings are too thin to index until more are added.
       ...(count < 3 ? { robots: { index: false, follow: true } } : {}),
     };
@@ -202,13 +201,7 @@ export async function generateMetadata({ params }: { params: { category: string;
       `best ${service.toLowerCase()} Edmonton`,
       `${placeLabel(b.neighborhood)} ${service.toLowerCase()}`,
     ],
-    alternates: { canonical: `${SITE.url}${canonicalPath}` },
-    openGraph: {
-      title,
-      description: desc,
-      type: "website",
-      images: b.photos?.[0] ? [b.photos[0]] : b.logo ? [b.logo] : ["/og.png"],
-    },
+    ...pageMeta({ path: canonicalPath, title, description: desc, image: b.photos?.[0] || b.logo || undefined }),
   };
 }
 

@@ -8,7 +8,6 @@ description: ""
 address: "5014 55 Ave, Beaumont, AB T4X 1A4"
 neighborhood: "Beaumont"
 phone: "(780) 929-8782"
-website: "https://www.beaumont.ab.ca/Facilities/Facility/Details/Parc-Gobeil-Park-10"
 google_maps_url: "https://maps.google.com/?cid=8220306977807925531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.356258
 longitude: -113.417208

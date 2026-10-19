@@ -8,7 +8,6 @@ description: ""
 address: "47 Athabascan Ave #101, Sherwood Park, AB T8A 4H3"
 neighborhood: "Sherwood Park"
 phone: "(780) 467-8020"
-website: "https://www.getrefreshednow.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing"
 google_maps_url: "https://maps.google.com/?cid=14088621614445639441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.535983
 longitude: -113.323118

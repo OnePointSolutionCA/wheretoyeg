@@ -8,7 +8,7 @@ description: ""
 address: "4800 55th Ave, Stony Plain, AB T7Z 1P9"
 neighborhood: "Stony Plain"
 phone: "(780) 963-2261"
-website: "https://gss.org/locations/stony-plain-care-centre/"
+website: "https://gss.org/"
 google_maps_url: "https://maps.google.com/?cid=365667374329406176&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.523560
 longitude: -114.003068

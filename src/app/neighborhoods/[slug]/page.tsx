@@ -6,7 +6,7 @@ import { SITE } from "@/lib/site";
 import { breadcrumbSchema, itemListSchema, JsonLd } from "@/lib/schema-extra";
 import { ListingIndex } from "@/components/ListingIndex";
 import { AREA_INTRO, areaFromSlug, hubsForArea } from "@/lib/areas";
-import { CATEGORY_HEADING, fitTitle, listJoin, metaDescription, nf } from "@/lib/seo";
+import { CATEGORY_HEADING, fitTitle, listJoin, metaDescription, nf, pageMeta } from "@/lib/seo";
 import { FilterableList } from "@/components/FilterBar";
 import { toCard } from "@/lib/slim";
 import { getCategories } from "@/lib/content";
@@ -47,8 +47,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   return {
     title: { absolute: title },
     description: desc,
-    alternates: { canonical: `${SITE.url}/neighborhoods/${toSlug(name)}` },
-    openGraph: { title, description: desc, images: cover ? [cover] : ["/og.png"] },
+    ...pageMeta({ path: `/neighborhoods/${toSlug(name)}`, title, description: desc, image: cover || undefined }),
   };
 }
 

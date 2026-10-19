@@ -8,7 +8,7 @@ description: ""
 address: "205 Festival Way #540, Sherwood Park, AB T8A 4Y7"
 neighborhood: "Sherwood Park"
 phone: "(587) 489-9718"
-website: "http://soul2solestudio.com/"
+website: "https://www.soul2solestudio.com/"
 google_maps_url: "https://maps.google.com/?cid=11333106116493113890&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.527028
 longitude: -113.296178

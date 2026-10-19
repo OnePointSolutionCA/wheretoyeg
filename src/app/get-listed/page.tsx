@@ -1,13 +1,16 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import { GetListedForm } from "@/components/GetListedForm";
-import { SITE } from "@/lib/site";
+import { pageMeta } from "@/lib/seo";
+
+const TITLE = "Get Your Edmonton Business Listed Free | WhereToYEG";
+const DESCRIPTION =
+  "Add your Edmonton business to WhereToYEG for free. Show up when people search for what you do, with your hours, photos, reviews and directions in one place.";
 
 export const metadata: Metadata = {
-  title: { absolute: "Get Your Edmonton Business Listed Free | WhereToYEG" },
-  description:
-    "Add your Edmonton business to WhereToYEG for free. Show up when people search for what you do, with your hours, photos, reviews and directions in one place.",
-  alternates: { canonical: `${SITE.url}/get-listed` },
+  title: { absolute: TITLE },
+  description: DESCRIPTION,
+  ...pageMeta({ path: "/get-listed", title: TITLE, description: DESCRIPTION }),
 };
 
 const BENEFITS = [

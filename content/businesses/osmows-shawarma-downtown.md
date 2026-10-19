@@ -8,7 +8,7 @@ description: ""
 address: "10192 109 St NW, Edmonton, AB T5J 1M7"
 neighborhood: "Downtown"
 phone: "(587) 454-1479"
-website: "http://www.osmows.com/"
+website: "https://osmows.com/"
 google_maps_url: "https://maps.google.com/?cid=3003468098581320455&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.541706
 longitude: -113.508914

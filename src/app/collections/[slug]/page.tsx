@@ -6,8 +6,7 @@ import { COLLECTIONS, getCollectionBySlug, getBusinessesForCollection } from "@/
 import { FilterableList } from "@/components/FilterBar";
 import { toCard } from "@/lib/slim";
 import { breadcrumbSchema, JsonLd } from "@/lib/schema-extra";
-import { SITE } from "@/lib/site";
-import { fitTitle, metaDescription } from "@/lib/seo";
+import { fitTitle, metaDescription, pageMeta } from "@/lib/seo";
 
 export const revalidate = 3600;
 
@@ -32,8 +31,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   return {
     title: { absolute: title },
     description,
-    alternates: { canonical: `${SITE.url}/collections/${c.slug}` },
-    openGraph: { title, description, images: ["/og.png"] },
+    ...pageMeta({ path: `/collections/${c.slug}`, title, description }),
   };
 }
 
