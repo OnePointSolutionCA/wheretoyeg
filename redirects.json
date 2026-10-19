@@ -1928,5 +1928,10 @@
     "source": "/cafes-coffee-shops/boxcar-coffeeshop",
     "destination": "/cafes-coffee-shops/specialty",
     "permanent": true
+  },
+  {
+    "source": "/gyms-fitness/lore-gym",
+    "destination": "/gyms-fitness/iron-lore-gym-edmonton",
+    "permanent": true
   }
 ]
