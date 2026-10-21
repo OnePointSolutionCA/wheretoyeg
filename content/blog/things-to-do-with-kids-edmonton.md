@@ -60,7 +60,7 @@ Check the days before you go. The museum is closed Mondays and Tuesdays, except 
 
 ## A heads up about TELUS World of Science
 
-A lot of parents still have the science centre at the top of their list. As of this week, the [TELUS World of Science Edmonton](https://telusworldofscienceedmonton.ca/) website says it is temporarily closed. The building was damaged in the July 2026 storms, and news reports in August said the closure would stretch into 2027. Check their site for updates before you promise the kids a visit.
+A lot of parents still have the science centre at the top of their list. It is closed right now. [TELUS World of Science Edmonton](/activities-fun/telus-world-of-science) shut after storm flooding in July 2026, and its [August 18 news release](https://telusworldofscienceedmonton.ca/about-us/media/) says reopening is planned for early 2027. Check their site for updates before you promise the kids a visit.
 
 ## World Waterpark and Galaxyland
 

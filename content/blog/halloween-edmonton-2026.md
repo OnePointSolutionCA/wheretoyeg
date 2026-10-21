@@ -89,7 +89,7 @@ Edmonton weather does not care about your costume. If the forecast turns, these 
 
 - **Escape rooms:** a horror themed room is a good haunted house swap for teens. Try [Escape Hour Edmonton](/activities-fun/escape-hour-edmonton) or [Time Escape North Edmonton](/activities-fun/time-escape-north-edmonton), or browse all [Edmonton escape rooms](/activities-fun/escape-rooms).
 - **Little kids:** burn off the candy energy at [Bouncy Planet](/activities-fun/bouncy-planet) or another [indoor playground](/activities-fun/indoor-playground).
-- **Big day out:** [Galaxyland](/activities-fun/galaxyland), [TELUS World of Science](/activities-fun/telus-world-of-science) and [Fort Edmonton Park](/activities-fun/fort-edmonton-park) are year round options. Check each one's site for Halloween hours and any special events.
+- **Big day out:** [Galaxyland](/activities-fun/galaxyland), the [Royal Alberta Museum](/activities-fun/royal-alberta-museum) and [Fort Edmonton Park](/activities-fun/fort-edmonton-park) are year round options. [TELUS World of Science](/activities-fun/telus-world-of-science) is closed after storm flooding in July 2026, and the science centre says its reopening is planned for early 2027. Check each one's site for Halloween hours and any special events.
 
 ## Grab dinner after
 

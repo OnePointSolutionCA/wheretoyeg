@@ -25,8 +25,6 @@ For indoor skating when it's too cold even for Edmontonians, see the full list o
 
 ## Museums and warm indoor stops
 
-**[TELUS World of Science Edmonton](/activities-fun/telus-world-of-science):** 4.5 stars, 2,324 reviews. West Edmonton. The go-to with kids. The Science Garage and the IMAX fill a full day.
-
 **[Royal Alberta Museum](/activities-fun/royal-alberta-museum):** 4.6 stars, 5,039 reviews. Downtown. Massive. Natural history on main, culture upstairs. Easy half day.
 
 **[Muttart Conservatory](/activities-fun/muttart-conservatory):** 4.7 stars, 2,548 reviews. Central Edmonton. The warm pyramids in the middle of a freezing day are one of the best ideas Edmonton ever had.
@@ -36,6 +34,8 @@ For indoor skating when it's too cold even for Edmontonians, see the full list o
 **[Museum of Illusions](/activities-fun/museum-of-illusions):** 4.7 stars. West Edmonton. More fun with kids and teens than you'd expect.
 
 **[Neon Sign Museum](/activities-fun/neon-sign-museum):** 4.5 stars. Downtown. Free, outdoor, surprisingly fun to walk past at night.
+
+**Heads up:** [TELUS World of Science Edmonton](/activities-fun/telus-world-of-science) is closed for now. It shut after storm flooding in July 2026, and the science centre says its reopening is planned for early 2027. Check [its website](https://telusworldofscienceedmonton.ca/about-us/media/) for updates.
 
 ## Best indoor playgrounds for kids
 

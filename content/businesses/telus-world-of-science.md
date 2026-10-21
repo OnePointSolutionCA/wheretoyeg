@@ -4,18 +4,19 @@ slug: "telus-world-of-science"
 category: "activities-fun"
 subcategory: "arcades"
 tier: "featured"
-description: "Edmonton's science centre — IMAX dome, planetarium, hands-on exhibits for kids and adults, and rotating world-class touring exhibitions. All-day family destination."
+description: "Temporarily closed. Edmonton's science centre closed after storm flooding in July 2026, and it says its reopening is planned for early 2027. Check its website for updates."
 address: "11211 142 St NW"
 neighborhood: "West Edmonton"
 google_maps_url: "https://maps.google.com/?q=TELUS%20World%20of%20Science%20Edmonton%20Edmonton"
+website: "https://telusworldofscienceedmonton.ca/"
 hours:
-  monday: "10:00 AM - 5:00 PM"
-  tuesday: "10:00 AM - 5:00 PM"
-  wednesday: "10:00 AM - 5:00 PM"
-  thursday: "10:00 AM - 5:00 PM"
-  friday: "10:00 AM - 9:00 PM"
-  saturday: "10:00 AM - 9:00 PM"
-  sunday: "10:00 AM - 5:00 PM"
+  monday: "Closed"
+  tuesday: "Closed"
+  wednesday: "Closed"
+  thursday: "Closed"
+  friday: "Closed"
+  saturday: "Closed"
+  sunday: "Closed"
 photos: ["/photos/telus-world-of-science-1.jpg", "/photos/telus-world-of-science-2.jpg", "/photos/telus-world-of-science-3.jpg"]
 rating: 4.5
 review_count: 2324
@@ -29,6 +30,9 @@ amenities:
 tags: ["science-centre", "family-friendly", "imax", "planetarium", "kids"]
 active: true
 date_listed: "2026-08-18"
+faq:
+  - q: "Is TELUS World of Science Edmonton open?"
+    a: "Not right now. The science centre has been closed since storm flooding in July 2026. Its August 18, 2026 news release says reopening is planned for early 2027. Check telusworldofscienceedmonton.ca for the latest before you go."
 reviews:
   - name: "Sheena Rogers"
     rating: 5
