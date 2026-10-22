@@ -5,7 +5,7 @@ category: "cleaning-services"
 neighborhood: "Edmonton"
 address: "5177 55 Ave NW, Edmonton, AB T6B 3V1"
 rating: 4.9
-review_count: 89
+review_count: 90
 tier: "featured"
 phone: "(780) 667-3657"
 website: "https://365daysservices.ca/"
@@ -36,11 +36,11 @@ reviews:
       Excellent installation of vinyl flooring, baseboard and plumbing hookups.  Ahmed and crew was great to deal with and price was very reasonable.
       I would definitely use 365 Days Services again.
 hours:
-  monday: "Closed"
-  tuesday: "Closed"
-  wednesday: "Closed"
-  thursday: "Closed"
-  friday: "Closed"
-  saturday: "Closed"
+  monday: "Open 24 hours"
+  tuesday: "Open 24 hours"
+  wednesday: "Open 24 hours"
+  thursday: "Open 24 hours"
+  friday: "Open 24 hours"
+  saturday: "Open 24 hours"
   sunday: "Open 24 hours"
 ---
