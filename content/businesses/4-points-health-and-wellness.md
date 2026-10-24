@@ -22,7 +22,7 @@ photos:
   - "/photos/4-points-health-and-wellness-3.jpg"
   - "/photos/4-points-health-and-wellness-g2.jpg"
 rating: 4.9
-review_count: 375
+review_count: 379
 price_range: "$$"
 amenities:
 
@@ -66,14 +66,8 @@ reviews:
       Dr. Sieben is also extremely knowledgeable and took the time to explain everything clearly so we felt confident in the care we were receiving. It’s obvious he genuinely cares about his patients and wants the best outcomes for them.
       
       We highly recommend Dr. Cody Sieben to anyone looking for an amazing chiropractor at 4 Points Health and Wellness. Our whole family is so grateful!
-  - name: "Rayelle McHargue"
+  - name: "Rejean Joyce Ando"
     rating: 5
     comment: |
-      I had an anmazing experience with Dr. Jenna, one of the  chiropractors. From the moment I walked in, she was kind, welcoming, and incredibly professional. What really stood out to me was how thorough she was—she didn’t just focus on one issue, but took the time to assess my entire body and understand my concerns.
-      
-      She addressed every area I mentioned (and even some I didn’t realize needed attention), explaining everything clearly along the way. I always felt comfortable and respected.
-      
-      My 93 year old grandma also see Dr.Jenna and treats her soo great. It is nice having a chiropractor that is gentle and patient with my grandma. Dr.Jenna uses various tools along with other techniques that don’t include manual cracking to treat her. I’ve noticed a huge difference in my grandmas ability to stand up properly and walk independently and my grandma also experiences less pain since starting with Dr.Jenna.
-      
-      She goes above and beyond to make sure you not only feel better physically, but also have an overall amazing experience. I highly recommend her to anyone looking for thoughtful, effective, and personalized care.
+      This was my first time ever seeing a chiropractor! I had previously tried getting a massage thinking it would ease the pain, but it didn't remove the soreness from my neck and shoulder. I was having a lot of trouble sleeping because of the pain, so I decided I needed to try a chiropractor instead. I am so lucky I found Dr. Cody Sieben! The second I walked in, I could feel how amazing the clinic atmosphere is, and Dr. Cody even made me laugh right away. He was incredibly thorough, asked me everything about my symptoms, and focused the treatment on making sure I finally get a good night's sleep tonight. I feel much better now and have absolutely no regrets. I am already waiting for my next appointment, which I know will help me become completely free from what has been keeping me awake. Highly recommend! Big thanks to dr cody!
 ---
