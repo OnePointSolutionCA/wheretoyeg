@@ -29,7 +29,7 @@ Booking a barber in Edmonton isn't hard. Booking the right barber is. There are 
 
 **[Lavazio Barbershop](/barbers/lavazio-barbershop):** Men's haircuts in Castle Downs at 15361 97 St NW, rated 4.8 on Google. A good pick if you live on the north side.
 
-Browse all [barbershops in Edmonton](/barbers) on WhereToYEG.
+Browse all [barbers in Edmonton](/barbers) on WhereToYEG.
 
 ## Fade types, what to actually ask for
 

@@ -11,7 +11,7 @@ Edmonton's halal food scene has quietly become one of the strongest in Canada. F
 
 ## Where to start on WhereToYEG
 
-- All [halal-certified restaurants](/halal-restaurants) filtered in one place
+- All [halal restaurants in Edmonton](/halal-restaurants) filtered in one place
 - The [Halal Foodie Tour collection](/collections/halal-foodie-tour) with our top-rated picks
 - The [Middle Eastern Favourites collection](/collections/middle-eastern-favourites) for Lebanese, Palestinian, Syrian, and Afghan food
 

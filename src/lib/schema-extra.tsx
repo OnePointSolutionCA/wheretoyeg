@@ -55,8 +55,12 @@ export function siteSearchSchema() {
   return {
     "@context": "https://schema.org",
     "@type": "WebSite",
+    "@id": `${SITE.url}/#website`,
     name: SITE.name,
     url: SITE.url,
+    description: SITE.description,
+    inLanguage: "en-CA",
+    publisher: { "@id": `${SITE.url}/#organization` },
     potentialAction: {
       "@type": "SearchAction",
       target: `${SITE.url}/search?q={search_term_string}`,
@@ -65,17 +69,44 @@ export function siteSearchSchema() {
   };
 }
 
+// Towns outside Edmonton that have their own area pages on the site.
+const NEARBY_TOWNS = ["Sherwood Park", "St. Albert", "Spruce Grove", "Beaumont", "Leduc", "Fort Saskatchewan", "Stony Plain"];
+
 /**
- * Organization schema: helps Google understand the publisher entity.
+ * Organization schema: helps Google and AI search understand the publisher entity.
+ * WhereToYEG is an online directory, so no street address or LocalBusiness type.
+ * sameAs is left out on purpose: no public social profile is confirmed yet
+ * (checked 2026-10-25). Only add a profile that loads and clearly belongs to the site.
  */
 export function organizationSchema() {
   return {
     "@context": "https://schema.org",
     "@type": "Organization",
+    "@id": `${SITE.url}/#organization`,
     name: SITE.name,
     url: SITE.url,
-    logo: `${SITE.url}/logo-mark.png`,
+    description: SITE.description,
+    slogan: SITE.tagline,
+    logo: {
+      "@type": "ImageObject",
+      url: `${SITE.url}/logo-mark.png`,
+      width: 353,
+      height: 450,
+    },
+    image: `${SITE.url}/og.png`,
     email: SITE.email,
+    contactPoint: {
+      "@type": "ContactPoint",
+      contactType: "customer support",
+      email: SITE.email,
+      url: `${SITE.url}/contact`,
+      areaServed: "CA",
+      availableLanguage: "English",
+    },
+    areaServed: [
+      { "@type": "City", name: "Edmonton", containedInPlace: { "@type": "AdministrativeArea", name: "Alberta" } },
+      ...NEARBY_TOWNS.filter((t) => SITE.neighborhoods.includes(t)).map((name) => ({ "@type": "Place", name })),
+    ],
   };
 }
 
