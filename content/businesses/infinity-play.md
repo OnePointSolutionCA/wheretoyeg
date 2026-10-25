@@ -47,3 +47,7 @@ hours:
   saturday: "2:00 PM–3:00 AM"
   sunday: "2:00 PM–1:00 AM"
 ---
+
+Infinity Play is a game lounge and indoor play spot in Edmonton with billiards, PlayStation, Nintendo, VR, racing games and a private room, plus snacks and drinks.
+
+Open late: until 1 AM most nights, 2 AM on Thursdays and 3 AM on Fridays and Saturdays.
