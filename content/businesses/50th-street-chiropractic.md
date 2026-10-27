@@ -33,7 +33,6 @@ date_listed: "2026-10-02"
 reviews:
   - name: "karen calkins"
     rating: 5
-    date: "2026-03-27"
     comment: |
       Dr Garda is a caring and accomplished professional.  He has helped me more than anyone else and I have seen multi therapists including physio, acupuncture, shockwave therapy and other chiropractors.
       His work is gentle and effective.  I have often walked in to the office in pain and walked out always better.  I have had serious injuries to my legs, ankles, back and neck.  Dr. Garda knows how to balance the body.
@@ -42,17 +41,18 @@ reviews:
       Go and see for yourself. It's a good decision.
   - name: "Fred Imough"
     rating: 5
-    date: "2025-12-10"
     comment: |
       Friendly and professional staff.  Always a welcome with a smile.  Dr Garda knows what he's doing.  He doesn't believe in the sudden cracking of your spine, but a more gentle permanent fix to your discomfort.  I recommend.
   - name: "Britney Ewasiuk"
     rating: 5
-    date: "2025-07-02"
     comment: |
       Highly recommend Dr. Garda. They have a wonderful family friendly office. He's adjusted my children since they were newborns. I've always had amazing results with my adjustments, especially during pregnancies. He is very knowledgeable and keeps you well informed on what's going on with your body.
+  - name: "Bing Xu"
+    rating: 1
+    comment: |
+      Not a very professional osteopath. My knees popped. He spent a lot of time checking my arms and upper body. When it came to treating my knees, he just tapped them with a small tool and said they were done. I didn't feel any effect at all. I'm easily fooled.
   - name: "bob harrison"
     rating: 5
-    date: "2025-09-15"
     comment: |
       I have been seeing Dr. Garda for my back problems, The Level of care was exceptional. The office was Professional. I would recommend 50th ST Chiropractic  to All.
       Bob Harrison CPA
