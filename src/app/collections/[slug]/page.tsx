@@ -5,7 +5,7 @@ import { getBusinesses, getCategories } from "@/lib/content";
 import { COLLECTIONS, getCollectionBySlug, getBusinessesForCollection } from "@/lib/collections";
 import { FilterableList } from "@/components/FilterBar";
 import { toCard } from "@/lib/slim";
-import { breadcrumbSchema, JsonLd } from "@/lib/schema-extra";
+import { breadcrumbSchema, itemListSchema, JsonLd } from "@/lib/schema-extra";
 import { fitTitle, metaDescription, pageMeta } from "@/lib/seo";
 
 export const revalidate = 3600;
@@ -51,6 +51,9 @@ export default function CollectionPage({ params }: { params: { slug: string } })
         { name: "Collections", href: "/collections" },
         { name: c.title },
       ])} />
+      {businesses.length > 0 && (
+        <JsonLd data={itemListSchema(`${c.title} in Edmonton`, `/collections/${c.slug}`, businesses.map((b) => ({ name: b.name, href: `/${b.category}/${b.slug}` })))} />
+      )}
       {/* HERO */}
       <section className={"relative overflow-hidden bg-gradient-to-br text-white " + c.gradient}>
         <div className="pointer-events-none absolute -top-24 -right-24 h-96 w-96 rounded-full bg-white/10 blur-3xl" />
