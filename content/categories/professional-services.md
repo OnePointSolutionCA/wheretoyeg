@@ -27,5 +27,6 @@ subcategories:
   - { name: "Printing", slug: "printing" }
   - { name: "Tutoring", slug: "tutoring" }
   - { name: "Security Services", slug: "security-services" }
+  - { name: "Florists", slug: "florists" }
 ---
 From a notary for a quick signature to an accountant at tax time, find local professionals here. Compare Edmonton law offices, accountants, immigration consultants, realtors, mortgage brokers and more by Google rating and review count.
