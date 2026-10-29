@@ -22,14 +22,14 @@ reviews:
     rating: 5
     comment: |
       I had the best wings here. The food was fresh and delicious, the staff were friendly, and the service was quick. The restaurant was clean and welcoming. I would definitely recommend it and look forward to coming back.
-  - name: "2SockZ"
-    rating: 4
-    comment: |
-      The service was ok, does take a while to get the wings waited about 15 minutes and it wasn't that busy. The sauces on the wings were cool or cold. But still tasteful. The single combo came with good portion of fries.
   - name: "danny CrackChipRepair dot com"
     rating: 5
     comment: |
       This is absolutely the best place for wings. I went back there today and I had a hamburger that it was the best thickest hamburger I’ve ever had in my life.
+  - name: "2SockZ"
+    rating: 4
+    comment: |
+      The service was ok, does take a while to get the wings waited about 15 minutes and it wasn't that busy. The sauces on the wings were cool or cold. But still tasteful. The single combo came with good portion of fries.
   - name: "Nikkoh Sison"
     rating: 5
     comment: |
