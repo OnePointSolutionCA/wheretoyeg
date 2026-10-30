@@ -4,11 +4,14 @@ slug: "supreme-barbershop"
 category: "barbers"
 subcategory: "fades"
 tier: "featured"
-description: ""
+logo: "/logos/supreme-barbershop.png"
+description: "Supreme Barbershop is a walk in friendly barbershop inside the Old Strathcona Shopping Centre at 7906A 104 Street NW, a few blocks south of Whyte Ave. Ali, Max, Kris and Vicente bring over 15 years of experience to haircuts, skin fades, beard trims, straight razor lineups, hot towel shaves, buzz cuts and hair wash and style, with reduced prices on kids cuts for children under 12. Premium branded products, open 7 days, and you can walk in or book online through their website."
 address: "7906A 104 Street NW, Edmonton, AB T6E 4C8"
 neighborhood: "Whyte Ave"
 phone: "(780) 705-0790"
+email: "SupremeBarber104@gmail.com"
 website: "https://supremebarbershop104.com/"
+facebook: "https://www.facebook.com/p/Supreme-BarberShop-61579874392554/"
 google_maps_url: "https://maps.google.com/?cid=17133689968967075682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.515602
 longitude: -113.498003
@@ -27,9 +30,13 @@ rating: 5.0
 review_count: 324
 price_range: "$$"
 amenities:
+  - "Walk-Ins Welcome"
+  - "Online Booking"
+  - "Kids Cuts"
+  - "Hot Towel Shaves"
   - "Family Friendly"
   - "Wheelchair Accessible"
-tags: ["edmonton", "fades"]
+tags: ["edmonton", "fades", "skin-fade", "beard-trim", "hot-towel-shave", "kids-haircut", "walk-in-barber", "whyte-ave", "old-strathcona"]
 active: true
 date_listed: "2026-10-02"
 reviews:
