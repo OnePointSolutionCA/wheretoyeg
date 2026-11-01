@@ -19,8 +19,8 @@ hours:
   saturday: "11:00 AM–12:00 AM"
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/aanchal-indian-restaurant-bakery-1.jpg", "/photos/aanchal-indian-restaurant-bakery-2.jpg", "/photos/aanchal-indian-restaurant-bakery-3.jpg"]
-rating: 4.9
-review_count: 101
+rating: 4.8
+review_count: 116
 price_range: "$"
 amenities:
   - "Halal"
@@ -33,20 +33,26 @@ reviews:
     rating: 5
     comment: |
       Best Indian food I've ever eaten .  Even better that what I've had in London or Dublin.  Service was great and we were treated to a complimentary dessert.  This is a small restaurant geared more to take out but was very enjoyable eating in as well
+  - name: "Faris Jawahir"
+    rating: 5
+    comment: |
+      Food: Phenomenal! Service: Lowkey lovely and the best there ever was! The staff there are super nice. The place is lacking attention (hidden gem), though. Hence, I hope everyone seeing this review to go and visit this amazing place. Trust me, it's worth it!
+  - name: "MRW"
+    rating: 5
+    comment: |
+      The food was DELICIOUS!! As Indians, we know Indian food and every dish we got was absolutely delicious in our eyes. The food was a bit spicy 🥵 for the kids but they are half Indian so it's good for them eat up (but for others it may be good to ask about the spice level since some people are sensitive to that).
+      
+      Even better than the food was the customer service!! My Brother and I were just talking about what sets some restaurants apart from others. And this business has the it factor!! There are a few little things they did that made them stand out from the crowd and my family and I will definitely be eating here again.
+      
+      We ordered chicken tandoori, goat curry, coconut curry fish and paneer curry and everything was sooo good.
+      
+      If you haven't tried it hurry up and go! They truly deserve their 5 star ⭐⭐⭐⭐⭐ rating! I wish the owners nothing but success in their future. God bless your business.
   - name: "Eden Arthur"
     rating: 5
     comment: |
       Forgot to get the servers name BUT, they were lovely 😄. Food was delicious and so fresh. My Mom, and husband enjoyed their meals as well.
-  - name: "Ritu Pokhriyal"
-    rating: 5
-    comment: |
-      Had a great experience at Aanchal Indian Restaurant! The pani puri was fresh and full of flavor, the dahi bhalla papdi was delicious and perfectly balanced, and the pizza was tasty with a nice crispy base.
   - name: "Amit Bhagat"
     rating: 5
     comment: |
       Had a great experience at Aanchal Restaurant! The butter chicken was rich, creamy, and full of flavor. The naan was fresh and soft, and the samosas were crispy and delicious. Really enjoyed the food and would definitely visit again!
-  - name: "Andre C"
-    rating: 5
-    comment: |
-      The food here is absolutely spectacular. Had the Chicken Curry with Garlic Naan with Basmatti Rice. So good. Also had the Butter Chicken Samosa. Amazing. Will definetly be coming back here for more food!
 ---

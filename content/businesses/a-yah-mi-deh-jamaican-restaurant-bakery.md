@@ -24,7 +24,7 @@ photos:
   - "/photos/a-yah-mi-deh-jamaican-restaurant-bakery-g1.jpg"
   - "/photos/a-yah-mi-deh-jamaican-restaurant-bakery-g2.jpg"
 rating: 4.3
-review_count: 517
+review_count: 523
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -38,7 +38,6 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Venessa"
     rating: 4
-    date: "2025-10-04"
     comment: |
       This is my second time trying this restaurant and it has improved since then. I’ve included some photos so that you can determine whether this is a good portion or not. Everything came to $52.
       
@@ -60,21 +59,22 @@ reviews:
       Coleslaw: This tasted like they added seasoning or used a dressing that is close to tasting like coleslaw but not quite.
       
       Fried dumpling: This tasted so good. Nicely flavoured, soft, and actually delicious. I would definitely order this again.
+  - name: "Natty Royalist"
+    rating: 3
+    comment: |
+      I ordered a red peas soup and beef patty. The soup was too thick, and lacked flavour. I got only one piece of beef. In the entire tub of large soup (disappointed) 5/10 perhaps
   - name: "Dalkeith McDonald"
     rating: 5
-    date: "2026-05-09"
     comment: |
       I had the oxtail with rice and peas, and it was absolutely outstanding!. As someone born and raised in Jamaica, I can honestly say the flavors were authentic, rich, and deeply satisfying. I could truly taste the care put into the food.
       
       I also loved the exceptional customer service, the environment was warm, friendly, and genuinely welcoming from the moment I walked in. This was my second visit, and it definitely won’t be my last.
   - name: "Rob Brietzke"
     rating: 4
-    date: "2026-05-30"
     comment: |
       The chicken and fritters were amazing but the rice was a little less than expected.  The ladies were great. The juices were awesome as well. You must try their in house ginger juice... one of the best I've ever had! Over all it was worth the experience!
   - name: "Shelley Morrison"
     rating: 4
-    date: "2026-07-12"
     comment: |
       Loved it! I wanted ackee and salt fish and provisions ( dumplings, yam,bananas) . The meal was tasty, yummy and flavorable. It was a nice surprise as I have not been there in years.
 ---

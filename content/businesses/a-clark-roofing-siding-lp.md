@@ -24,7 +24,7 @@ photos:
   - "/photos/a-clark-roofing-siding-lp-g1.jpg"
   - "/photos/a-clark-roofing-siding-lp-g2.jpg"
 rating: 4.5
-review_count: 358
+review_count: 365
 price_range: "$$$$"
 amenities:
   - "Wheelchair Accessible"
@@ -34,7 +34,6 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Addie 778"
     rating: 5
-    date: "2026-03-26"
     comment: |
       Excellent experience. Professional. Fast work.
       
@@ -49,28 +48,24 @@ reviews:
       In the very near future I will have to replace the roof on my house and I will definitely be using A. Clark. again.
       
       Pictures of the damaged roof by wind storm attached.
+  - name: "Lorne Hiscock"
+    rating: 5
+    comment: |
+      We had Clark Roofing replace the siding on our house, they were very professional from start to finish, from getting the quote to the final clean up. No complaints. Any issues or questions I had they clarified. We are happy with the work done.
   - name: "Jason Park"
     rating: 5
-    date: "2026-04-23"
     comment: |
       I needed to get my roofing done as quickly as possible, and they responded right away by coming out promptly and providing an estimate. The pricing was very reasonable, and the work was completed neatly and professionally.
       After the job was finished, they even followed up with a thorough inspection, which I really appreciated. They didn’t ask for any deposit, which made the whole process feel more trustworthy.
       Overall, everyone was friendly, reliable, and easy to work with. I’m very satisfied with their service and would highly recommend them.
-  - name: "Lorne Hiscock"
-    rating: 5
-    date: "2026-05-13"
-    comment: |
-      We had Clark Roofing replace the siding on our house, they were very professional from start to finish, from getting the quote to the final clean up. No complaints. Any issues or questions I had they clarified. We are happy with the work done.
-  - name: "Vaughn Corazza"
-    rating: 5
-    date: "2026-07-21"
-    comment: |
-      We had A Clark Roofing install new siding on our mobile home and they did a superb job on it. The crew were super nice and they didn’t waste any time. Took about 5 days and they were done. I would recommend these guys to anyone! And the price in our opinion was reasonable considering we had quotes from 12k - 34k. All over the map.. thank you Adam and Wayne for the crew that you have.They are hard working and just know what their doing. Thank you to Cliff for your sales expertise and working with us as all of you did. We love our place and couldn’t be happier. Cheers to all of you.
   - name: "Mirela Stevens"
     rating: 5
-    date: "2026-06-21"
     comment: |
       A. Clark Roofing took off our old shingles and replaced our entire roof, professionally and in a timely fashion (3 days).  The team kept our area around the house quite neat and without garbage, nails, etc.  The final service technician Mike was an absolute treat!   He made sure everything was completed to perfection on his review, touched up anything that remained and went out of his way to do an exceptional clean on our deck.  I was amazed!  Thank you A Clark!
       
       I would refer them in a heartbeat for any roof replacement work !
+  - name: "Juztin J E Thiessen"
+    rating: 5
+    comment: |
+      They did a great job on my new eaves troughs! Took the time to tell me everything they were doing and when they gave me a time frame they stuck with it. Kept me informed on when they were coming and everything went smoothly. Very professional and nice people.
 ---

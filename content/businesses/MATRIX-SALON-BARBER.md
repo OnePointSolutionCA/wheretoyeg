@@ -23,7 +23,7 @@ hours:
 photos:
   - "/photos/MATRIX-SALON-BARBER-g1.jpg"
 rating: 4.7
-review_count: 539
+review_count: 544
 price_range: "$$$$"
 amenities:
   - "Family Friendly"
@@ -32,9 +32,26 @@ tags: ["edmonton", "cuts-styling"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Mara S"
+    rating: 5
+    comment: |
+      IRYNA is the GOAT at colour Correction.
+      
+      I came in looking ratchet and worn, roots grown out, multiple colours, and colour banding- it was a mess and hot a hot one 😉.
+      
+      I’ve been seeing Iryna for a while now to snip my hair up into shape. I finally decided to go for a dye and colour correction to transform me into a juicy kissable redhead.💋
+      
+      Iryna is incredible in her craft. She has many certifications for hair- probably more than any stylist I have met before. She’s serious about her craft and it shows in her work.
+      
+      20/10 would come again.
+      
+      If your hair is a mess, in need of a touch up or like me you’ve got a mess of colours just begging for some attention- Iryna is your gal.
+      
+      Don’t believe me?
+      
+      My my before & after’s definitely speak for themselves 💯
   - name: "Tasha Bowman"
     rating: 5
-    date: "2026-04-12"
     comment: |
       ⸻
       
@@ -51,32 +68,17 @@ reviews:
       If you’ve had a box dye disaster, don’t panic—Basima is basically a hair surgeon with a cape.
       
       Highly recommend Matrix Salon. I’ll never cheat on them again. (And I’ll never touch a box dye again either. Lesson learned.)
-  - name: "A G"
-    rating: 5
-    date: "2026-07-16"
-    comment: |
-      My daughter loved her cut and color! Basima was so great - professional and very patient in asking questions to understand exactly the hairstyle my daughter wants. We’ll surely come back. Thank you again, Basima 🥰
   - name: "Dahiya"
     rating: 5
-    date: "2026-05-31"
     comment: |
       I had such an amazing experience with Iryna!
       🤩🤩She gave me an incredible haircut and made the whole experience so comfortable and welcoming from start to finish. She is kind, friendly, and truly makes you feel beautiful and confident when you leave. Not only is she talented, but she’s also such an amazing person to talk to. I highly recommend Iryna, if you’re looking for someone who genuinely cares, takes time and does an amazing job, definitely go to her!” ✨💇‍♀️❤️
   - name: "Heba Hakimi"
     rating: 5
-    date: "2026-05-20"
     comment: |
       I’m very happy with the results I got. Me and my sisters got a long layered cuts. We all are very satisfied with how the haircuts turned out. The environment is comfortable and great staff!! Basima did a great job!! I trusted her the moment I met her kind self.
-  - name: "S. S"
+  - name: "A G"
     rating: 5
-    date: "2026-02-03"
     comment: |
-      Hey guys wow what a place! Ramia and Iryna are amazing. I've had my hair done by both of them!
-      
-      Iryna did mine for this review and the pictures speak for themselves. She took time to listen to what I wanted. She asked me for photos of inspiration and then in less than an hour I had a style that you dream of and see on tv! Thank you Iryna for making my hair hair perfect for my photo shoot. As a mom of 4 I don't get to have time to do these kinds of things. You took extra care to listen to my stories, to make me feel comfortable and it's honestly more than just a hair cut when we come to you so thank you. I cannot wait to come back!
-      
-      Ramia! I miss you too! I hope you are enjoying your vacation but I will be back to get my hair done with you too! I look forward to doing some fun out of my comfort zone styles. Ramia makes you feel so comfortable and she has the biggest heart. I wouldn't normally try any new styles but she has this way of making you see beyond what you think you want and the results are always stunning so be sure to check out Ramia at the salon too. Don't be shy to try something new. You won't be disappointed
-      
-      Thanks ladies
-      Xoxo mama of four
+      My daughter loved her cut and color! Basima was so great - professional and very patient in asking questions to understand exactly the hairstyle my daughter wants. We’ll surely come back. Thank you again, Basima 🥰
 ---

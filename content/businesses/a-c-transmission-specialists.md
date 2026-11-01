@@ -33,12 +33,20 @@ date_listed: "2026-10-02"
 reviews:
   - name: "商加杰"
     rating: 5
-    date: "2026-06-05"
     comment: |
       I accidentally stripped the threads of the transmission aluminium casing while tightening the drain bolt for a routine drain and fill. I explained the situation to Todd and he was willing to help me immediately, and suggested a Helicoil. Todd and his staff were waiting for me the moment the vehicle got towed to the shop, and the process of repair began immediately. After inspection, he determined that a Helicoil is not appropriate as the flange was too thin. Instead of forcing an incorrect fix, he instead pivoted towards a different solution; he used a torque converter bolt to save the taper for the o-ring, machined it down to fit the clearance, and put liquid Teflon as a secondary measure to prevent any chances of leaks. This was done in almost an hour and on top of it all, I was charged at an extremely generous price for this specialized custom fix. I went to the right place and would not hesitate to come back and recommend this place to others. Thank you Todd and to your staff for doing an exceptional job!
+  - name: "Theo Reviews"
+    rating: 1
+    comment: |
+      Asked me to call them back in a week.. for them to be ABLE to maybe book me in for a month later.
+      
+      Got it done in that week with Alberta driveline, 1000$ cheaper than quoted here.
+  - name: "InfatuatedSpiders"
+    rating: 5
+    comment: |
+      I’ve seen Todd a couple times regarding issues with my jeep, very reasonable prices and he never tries to sell repairs that aren’t needed unlike other places
   - name: "Simona Abel"
     rating: 5
-    date: "2025-10-16"
     comment: |
       ⭐️⭐️⭐️⭐️⭐️
       We were traveling through Edmonton from BC with our truck and camper when our transmission cracked and we lost most of the fluid. We were so blessed to find A&C Transmission Specialists (Allison Transmission)! They got us in quickly, diagnosed and repaired the issue efficiently, and even gave us a safe place to park our camper for the long weekend since we’d been towed in and couldn’t move it.
@@ -46,13 +54,6 @@ reviews:
       Their staff were incredibly kind, helpful, and knowledgeable — true professionals who went above and beyond to get us back on the road safely. Highly recommend this shop to anyone needing honest and expert transmission service!
   - name: "Ransford Toe"
     rating: 5
-    date: "2026-01-07"
     comment: |
       Gave them my company truck to diagnose. It took longer than expected to get a response, but Todd was very kind and apologetic, and he didn't charge me for any of the work done as a result. This is a company that goes above and beyond to make things right, in the very rare chance they go wrong. I would highly recommend them to anyone in need of services.
-  - name: "Cody Proskow"
-    rating: 5
-    date: "2026-02-06"
-    comment: |
-      Todd was willing to help me out right away.
-      Great customer service .
 ---

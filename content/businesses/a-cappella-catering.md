@@ -19,8 +19,8 @@ hours:
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/a-cappella-catering-1.jpg", "/photos/a-cappella-catering-2.jpg", "/photos/a-cappella-catering-3.jpg"]
-rating: 4.3
-review_count: 328
+rating: 4.4
+review_count: 338
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -34,6 +34,10 @@ reviews:
     rating: 5
     comment: |
       We had the pleasure of having A Capella for our wedding and we were blown away with how good the food, desserts and service were. Very professional and one of the best vendors to email with. Respond very fast and are very helpful and understanding. I would recommend them to anyone 10/10 times. One of the biggest compliments we got from our wedding was how good the catering was. We couldn’t be happier with them and would book them again any day.
+  - name: "Jaclyn Twa"
+    rating: 5
+    comment: |
+      Book A Capella for your next event, you will not be disappointed! The team was incredibly helpful, friendly, easy to work with & always responded very promptly. They also offer the best bang for you buck - save yourself the research. Everyone always remembers the food at a wedding & our guests are still talking about it weeks later… “Best chicken I’ve ever had” and “I went for thirds” were just 2 comments of many! Easy 5 stars. Thank you for the delicious, memorable meal for our big day!
   - name: "Sierra Hood"
     rating: 5
     comment: |
@@ -50,8 +54,4 @@ reviews:
     rating: 5
     comment: |
       Extremely professional!  My husband and I had the pleasure of working with Trinity last night at my nieces wedding.   My husband is a former caterer and knew what to expect.   She did her job perfectly.  She was right on time, knew exactly what was in the order, set up quickly and layed everything out in a logical order.  The food was also amazing and everyone was very happy with the meal.  We will be calling again for our next event.
-  - name: "David D M"
-    rating: 5
-    comment: |
-      A Capella did our wedding dinner in June 2026, and the service and food (Mushroom Madeira Chicken) were excellent – we got compliments from our guests all night. The staff were very professional and courteous and even helped us move the tables, which was not their job. I highly recommend A Capella and will use them again – hopefully not for another wedding though!
 ---

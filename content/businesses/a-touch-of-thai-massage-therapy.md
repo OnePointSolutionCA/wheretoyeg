@@ -24,40 +24,35 @@ photos:
   - "/photos/a-touch-of-thai-massage-therapy-g1.jpg"
   - "/photos/a-touch-of-thai-massage-therapy-g2.jpg"
 rating: 4.8
-review_count: 465
+review_count: 469
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "massage-therapy"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "May Grantos"
-    rating: 5
-    date: "2026-06-02"
-    comment: |
-      I had an excellent experience with my massage therapist Mr. Ohm. He was professional, attentive, and took the time to understand my specific concerns before the session. The massage was both relaxing and effective, helping to relieve tension and soreness in areas that had been bothering me for weeks.
-      The atmosphere was welcoming and comfortable.  The Front office staff- Jhavi and Alexandra were very helpful, welcoming and friendly.
-      
-      Their skill, attention to detail, and genuine care for their clients really stood out. I left feeling refreshed, relaxed, and noticeably better. Highly recommend!
   - name: "Chelsey S"
     rating: 5
-    date: "2026-06-14"
     comment: |
       Love this place! I have been seeing Pla for a couple of years, she is fantastic! I recommend her to everyone. She always goes above and beyond paying attention to every little detail during my relaxation massages. I always leave feeling relaxed and refreshed. I have also seen Maria a number of times as well, and definitely recommend her for a deeper tissue massage. The front end staff are also very kind and helpful when booking and handling insurance.
       Thank you so much touch of Thai!
-  - name: "Max Omar"
+  - name: "Jahvee Gale"
     rating: 5
-    date: "2026-06-04"
     comment: |
-      Kate is an excellent massage therapist. She is professional, knowledgeable, and attentive to her clients' needs. She took the time to understand my concerns and focused on the areas that needed the most attention. The treatment was both relaxing and effective, and I left feeling significantly better. I highly recommend Kate to anyone looking for quality massage therapy and outstanding customer care.
-  - name: "Cheryl McDonald"
+      Absolutely loved my experience here! The treatment was both relaxing and effective, and I felt so much better afterward. The entire experience was professional and comfortable from start to finish. Highly recommend this place if you’re looking for quality care and a great massage experience. ✨
+  - name: "Aftab Pirani"
     rating: 5
-    date: "2026-06-12"
     comment: |
-      I’ve been coming here for quite some time and every time I leave I feel so rejuvenated and refreshed! Victoria does such a good job and she’s so knowledgable about the body. When I first started, I could barely walk with knee issues and now my knee is so much better!
-  - name: "sabina lama"
+      Had an amazing experience at Location 1 with both Winnie and Thiwa! It was truly the best massage and overall experience. They greet you with genuine smiles and maintain a perfect balance of professionalism and friendliness. A special shout-out to Thiwa at the front desk—she was so welcoming, energetic, and made the visit even more enjoyable. Highly recommend this place!
+  - name: "Olga Romero"
     rating: 5
-    date: "2026-06-03"
     comment: |
-      This is our go-to massage spot. I always come here with my mom and we absolutely love it. We usually book with Jira and Meya, and they have both been amazing. We both carry a lot of tension and knots in our shoulders, and they are excellent at working them out. Every appointment we’ve had here has been consistently great, and booking is always easy and convenient.
+      Fatima did well with my massage today, June 7th! My shoulders were so tight but she was able to loosen it up. Thank you, Fatima and until next appointment!
+      Moving capping again please and thank you!
+      Tight hugs!
+      -Olga
+  - name: "Emily Douglas"
+    rating: 5
+    comment: |
+      Been coming to Touch of Thai for the last decade. Have always had great experiences with all the massage therapists here, as well as the administrative staff. All are professional and experts in their practice. They really do provide catered individualized service. Direct billing too, which is nice. In addition, their online booking tool is easy to navigate.
 ---

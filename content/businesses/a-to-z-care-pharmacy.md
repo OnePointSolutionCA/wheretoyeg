@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/a-to-z-care-pharmacy-1.jpg", "/photos/a-to-z-care-pharmacy-2.jpg", "/photos/a-to-z-care-pharmacy-3.jpg"]
 rating: 5
-review_count: 63
+review_count: 64
 price_range: "$$"
 amenities:
 
@@ -28,10 +28,6 @@ tags: ["edmonton", "pharmacies"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Oliver Mills"
-    rating: 5
-    comment: |
-      Knowledgeable, friendly pharmacist here! Dipak has been amazingly helpful as I've navigated insurance changes and various treatments. Highly recommend anyone in the area to switch over.
   - name: "Tim Atrazhev"
     rating: 5
     comment: |
@@ -46,8 +42,12 @@ reviews:
     rating: 5
     comment: |
       Dipak is amazing!! He's truly very knowledgeable, kind, caring, sincere, professional & a very efficient pharmacist. He always goes about and beyond to be helpful and of service. Highly recommend this pharmacy!!
-  - name: "Devendra Vaddoriya"
+  - name: "Benoit Roy"
     rating: 5
     comment: |
-      I’ve had an excellent experience with this pharmacy. Dipak is always friendly, knowledgeable, and willing to go the extra mile to answer any questions I have. Prescriptions are filled quickly and accurately, and the service is consistently reliable. The store is clean, well-organized, and carries a good selection of over-the-counter medications and health products. Highly recommended for anyone looking for a trustworthy and efficient pharmacy.
+      Amazing pharmacy, the pharmacist is very knowledgeable and friendly. Amazing service with care each time.
+  - name: "kiran Bhoi"
+    rating: 5
+    comment: |
+      Great place in the neighbourhood, specially the owner, Deepak is very supportive of the individual needs, highly recommended place.
 ---

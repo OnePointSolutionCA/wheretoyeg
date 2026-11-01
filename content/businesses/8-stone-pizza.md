@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "3210 82 St NW, Edmonton, AB T6K 3Y3"
 rating: 4.8
-review_count: 168
+review_count: 177
 tier: "featured"
 phone: "(780) 934-8188"
 website: "https://8stonepizza.ca/"
@@ -24,6 +24,10 @@ reviews:
       And did I mention the pizza is fantastic?
       They have great interesting pizzas too, Indian choices, one of the best Donair pizzas I've ever had, chicken pesto is great.
       Did I mention they have Fantastic pizza?
+  - name: "Parminder Singh"
+    rating: 5
+    comment: |
+      Finally found a gluten-free pizza that’s actually delicious! The crust was crispy, the toppings were fresh, and everything tasted amazing.  It’s great to see a local pizza place offering such a delicious gluten-free choice without compromising on quality. The staff were friendly, the service was quick, and you can tell they take pride in what they make. Highly recommend! Best local pizza place so far with exceptional taste.!!!!!
   - name: "Carly Perrigo"
     rating: 5
     comment: |
@@ -44,20 +48,12 @@ reviews:
       My order was made fresh and only took 15 minutes.
       
       The store is really close so I’ll definitely be back!
-  - name: "Patrick Lam"
-    rating: 4
-    comment: |
-      Had a surprisingly great experience at 8 Stone Pizza today. We ordered a 12” pizza through TGTO, fully expecting the usual leftover slices or something that had been sitting around for hours — but instead, they gave us a freshly baked pepperoni pizza straight out of the oven. That genuinely caught us off guard in the best way possible.
-      
-      The staff were super friendly and generous, and you could really feel that they cared about the customer experience instead of just “getting rid of extras.” The pizza itself was hot, fresh, cheesy, and honestly much better than expected.
-      
-      In a world where some places treat TGTO customers like second-class customers, 8 Stone Pizza did the complete opposite. Definitely earned our respect and we’ll gladly support them again.
 hours:
-  monday: "12:00 PM–12:00 AM"
-  tuesday: "12:00 PM–12:00 AM"
-  wednesday: "12:00 PM–12:00 AM"
+  monday: "Closed"
+  tuesday: "11:00 AM–11:00 PM"
+  wednesday: "11:00 AM–11:00 PM"
   thursday: "12:00 PM–12:00 AM"
-  friday: "12:00 PM–1:00 AM"
-  saturday: "12:00 PM–1:00 AM"
+  friday: "12:00 PM–12:00 AM"
+  saturday: "12:00 PM–12:00 AM"
   sunday: "12:00 PM–12:00 AM"
 ---

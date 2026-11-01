@@ -24,38 +24,33 @@ photos:
   - "/photos/a-service-g1.jpg"
   - "/photos/a-service-g2.jpg"
 rating: 5.0
-review_count: 44
+review_count: 59
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "mechanics"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Viktoriia Павленко"
-    rating: 5
-    date: "2026-08-27"
-    comment: |
-      Amazing service! The team was incredibly professional, efficient, and helpful.
-      
-      Everything was handled quickly and with great attention to detail. I honestly haven’t experienced this level of service anywhere else. Highly recommend!
   - name: "Alexander Boroday"
     rating: 5
-    date: "2026-09-06"
     comment: |
       Great auto repair shop! Very convenient that you can drop your car off and pick it up at the agreed time. Top-notch service: the mechanics explain everything in plain language, without confusing jargon. They never try to upsell or add unnecessary work—only what actually needs to be done. They showed me the parts, explained everything clearly, and gave solid advice for the future at a very reasonable price. Highly recommend!
   - name: "A. V."
     rating: 5
-    date: "2026-08-01"
     comment: |
       I would like to sincerely thank the A-Service Team at this auto repair shop for their outstanding work! They replaced the sway bar links and tie rods on my vehicle. The job was completed professionally, on time, and with great attention to detail. It's a pleasure to deal with mechanics who are skilled, honest, and truly care about their customers. My car drives perfectly now, and I am extremely satisfied with the quality of the service. I highly recommend this shop to anyone looking for reliable and professional automotive service!
-  - name: "Алексей Калужский"
-    rating: 5
-    date: "2026-09-07"
-    comment: |
-      I stumbled upon this service by chance. I didn't even expect such attention and customer focus. All the work was done quickly and efficiently. I can recommend them to everyone. I'm now a regular customer.
   - name: "Svitlana"
     rating: 5
-    date: "2026-07-27"
     comment: |
       Friendly staff, excellent service, and fast work. Their prices are affordable, and the business hours are very convenient. I highly recommend this place to anyone looking for a reliable mechanic!
+  - name: "Viktoriia Pavlenko"
+    rating: 5
+    comment: |
+      Amazing service! The team was incredibly professional, efficient, and helpful.
+      
+      Everything was handled quickly and with great attention to detail. I honestly haven’t experienced this level of service anywhere else. Highly recommend!
+  - name: "BIZNES DUNYOSI (БИЗНЕС МИР)"
+    rating: 5
+    comment: |
+      Had my car repaired here today and couldn’t be happier with the service. The team is professional, very punctual, and communication was clear from start to finish. Honest, reliable work. 100% recommended!
 ---

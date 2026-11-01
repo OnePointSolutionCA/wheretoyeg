@@ -33,24 +33,24 @@ tags: ["edmonton", "fades"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "D R"
+    rating: 5
+    comment: |
+      The newer lady, Reem (unsure of spelling), is an absolute wizard barber. Highly recommend. Best hair cut I have had in awhile and amazingly friendly.
+  - name: "Mostafa Hammoud"
+    rating: 5
+    comment: |
+      I took my kids there one is a 2 year old and one is a 4 year my kids normally cry while having a haircut but the workers there are so easy on them very patient with them and the kids didn’t even say a word they actually liked getting a haircut really recommend going here especially if you have little kids that don’t like getting haircuts after coming here they will really love getting a haircut they very much like it.
   - name: "Mostafa Khalaf"
     rating: 5
-    date: "2026-04-01"
     comment: |
       Thanks you guys we really  love the haircut best haircut in a while i took my kids there not easy to please but it worked out great and we were happy highly recommend them
-  - name: "Ahmad 0 Ahmet0"
-    rating: 5
-    date: "2026-04-01"
+  - name: "Dylan R"
+    rating: 1
     comment: |
-      Great haircut at a really good price.  Staff is friendly and professional.  Top quality service, great attention to detail and an excellent shave as well!
-  - name: "Aleasha"
-    rating: 5
-    date: "2025-08-28"
-    comment: |
-      I have been coming to mo and his brother now for the last few years for my son.  They are always so nice and welcoming. The shop is always clean.  You show them a picture of what you want and they exceeded expectations.  My son always has curly hair and a cow lick and they always cut it perfectly every time.  Will forever be my son's barber.
+      I asked for a couple of inches off my neck the other day and received a couple of inches off of everything without warning. I guess he didnt understand what I asked for. I stopped the barber after the first few cuts of my length but it was too late. It was a mess and I'm pretty upset about it. I had to completely change my style and part with my long hair routine. I received a lot of apologies, but was still charged for the cut. If its a total mess up, the customer shouldn't be charged. I'll leave my 1 star here today until my hair grows back. I reckon it'll be 8-10 months until my hair hits my ears again. In the end, its just hair and it will grow back, but it sure stings.
   - name: "Nour Alessa Nour"
     rating: 5
-    date: "2025-12-30"
     comment: |
       The best haircut I've got in a while.it was a great experience.nice atmosphere the guys were great.will Definitely be back.
 ---

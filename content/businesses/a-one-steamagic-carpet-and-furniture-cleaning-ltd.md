@@ -6,7 +6,7 @@ subcategory: "carpet"
 neighborhood: "Edmonton"
 address: "8315 105 St NW, Edmonton, AB T6E 4H3"
 rating: 5
-review_count: 109
+review_count: 111
 tier: "featured"
 phone: "(780) 437-1136"
 website: "http://www.aonesteamagic.com/"
@@ -14,10 +14,14 @@ google_maps: "https://maps.google.com/?cid=3162872781905360642&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/a-one-steamagic-carpet-and-furniture-cleaning-ltd.jpg"
 reviews:
-  - name: "kleinnel"
+  - name: "donna yarmuch"
     rating: 5
     comment: |
-      Mark has been looking after the carpets at my office and has done a wonderful job.  He's also a very good guy and pleasant to deal with.  I don't endorse people I don't believe in.
+      I was extremely impressed with A1 Steam Magic Carpet Cleaning. They were punctual, efficient, professional, and incredibly thorough. They took the time to do the job properly, and my furniture looked and felt noticeably cleaner when they were finished.
+      
+      Their prices are extremely reasonable, especially considering the quality of the work and the excellent service. Friendly, reliable, hardworking, and very easy to deal with.
+      
+      I would absolutely use A1 Carpet Cleaning again and would highly recommend them to anyone looking for excellent furniture cleaning at a very reasonable price. 5/5!
   - name: "Mary Ann Dempsey"
     rating: 5
     comment: |
@@ -33,10 +37,10 @@ reviews:
     rating: 5
     comment: |
       A-One Steamagic did a great job cleaning the carpet on our stairs and floors! Mark and his colleague were extremely professional, knowledgable, and completed the job in no time!
-  - name: "Deanne Leah (Home Sewn)"
+  - name: "Sir Kodlington"
     rating: 5
     comment: |
-      Mark did such a great job on my pullout sofa that I had him do my nest chair while he was here as well. He was very nice and professional. Would definitely use him again and would recommend!
+      We awarded Mark from A One Steammagic the job of cleaning carpets in a 15000 sq foot office space. His quote was not lowest in price, but I could tell from our discussion he has significant experience and this was going to be a "you get what you pay for scenario". Sure enough these guys knocked it out of the park! The carpets havent been cleaned since prior to covid and are over 15 years old. Before and after is amazing. Call them, you wont be disappointed.
 hours:
   monday: "9:00 AM–6:00 PM"
   tuesday: "9:00 AM–6:00 PM"

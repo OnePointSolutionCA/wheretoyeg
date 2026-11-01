@@ -24,7 +24,7 @@ photos:
   - "/photos/a-nanas-love-daycare-and-osc-g1.jpg"
   - "/photos/a-nanas-love-daycare-and-osc-g2.jpg"
 rating: 4.7
-review_count: 49
+review_count: 48
 amenities:
   - "Out of School Care"
   - "Wheelchair Accessible"
@@ -34,7 +34,6 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Mourad"
     rating: 5
-    date: "2026-08-31"
     comment: |
       Absolutely love Nanas Love daycare!
       
@@ -45,7 +44,6 @@ reviews:
       KK Amar and Naïm !
   - name: "Cee-Cee Rockwell"
     rating: 5
-    date: "2026-08-09"
     comment: |
       My 1 year old son was taken care of here for the duration of his regular daycare being closed.
       Wonderful Staff!! Easygoing, nuturing and dependable. I could tell my baby was genuinely comfortable with them by the end of the FIRST day. They did so much with him in only 4 days. Stroller rides, wagon rides, a variety of indoor toys and tasks they had him doing as well. Had a drummer for entertainment for the kids.
@@ -54,7 +52,6 @@ reviews:
       Thank-you Nana's Daycare for watching my baby boy. 😊
   - name: "Laura Beauchamp"
     rating: 5
-    date: "2026-06-21"
     comment: |
       My 7 year old son is so happy at this daycare. He buses there from Muriel Martin. He has made friends and has fun with the numerous activities and toys. I was very happ with the no screen policy (no cell phones or tablets).
       
@@ -65,28 +62,18 @@ reviews:
       When I mentioned to my son that he might be able to get into his schools day care sometime next year he protested and whinned, "But I don't want to leave. I want to stay here (at Nana's)". What more is there to say to that?
       
       Thank you Nana's, for everything you do!
+  - name: "Jeremy"
+    rating: 5
+    comment: |
+      We couldn’t be happier with Nana’s Love Daycare! The care, kindness, and dedication they show every single day is truly exceptional. Knowing that Hunter, Easton, Carter & Elayna are in such a safe, loving, and nurturing environment gives us complete peace of mind.
+      
+      The staff genuinely care about the children, and it shows in everything they do. My kids are always excited to go, come home happy, and have learned so much since attending. It’s crazy how fast they grow… The communication with parents is excellent, and it’s clear they go above and beyond to create a positive, engaging environment for every child.
+      
+      If you’re looking for a daycare where your children will be treated like family and receive outstanding care, I can’t recommend Nana’s Love Daycare highly enough. Thank you for everything you do for our boys & girl. We’re incredibly grateful! Keep it up!!
   - name: "Alexandra Tarcu"
     rating: 5
-    date: "2026-06-19"
     comment: |
       We are so in love with this daycare. The staff is very kind, flexible and my son is always happy to go. The food they get is delicious and they just take really great care of the kids. I potty trained my son recently and it was definitely a harder task for the daycare ladies but they helped him become comfortable with it. We are very happy.
       
       Thank you to all of you working there and for all the love you show these children when we are away at work.
-  - name: "Michelle Yochim"
-    rating: 4
-    date: "2026-04-15"
-    comment: |
-      Our children have been attending Nana’s Love Daycare for the past four years, and overall, it has been a very positive experience in all the rooms from baby room to osc. Like any daycare, there have been changes over time; staff moving on to new opportunities and ownership transitions, but what has always remained constant is the genuine love and care shown to the children. That consistency is what matters most to our family.
-      
-      The owner is incredibly kind, approachable, and clearly takes pride in the daycare. She is always looking for ways to improve, whether through small updates like new boot racks and carpets or larger additions like new activity centers. It’s evident that she truly cares about creating a welcoming and supportive environment for both the children and their families.
-      
-      I could give a shoutout to many of the long-term and newer staff who have been part of our children’s journey, but I prefer not to include or exclude names in a review. What I can say is that we have experienced kindness, patience, and dedication from so many individuals at this center, and it does not go unnoticed.
-      
-      I especially appreciate being able to see daily photos through the app, showing the kids engaged in fun and meaningful activities. The daycare also plans enjoyable field trips during school breaks, which adds to the experience. Watching my children grow and thrive in a nurturing environment means so much to me. As a parent, it’s never easy leaving your children in someone else’s care, but hearing directly from them that they are happy brings a lot of comfort.
-      
-      Of course, no daycare or person is perfect, and there are occasional challenges. However, the balance of care, communication, and dedication from the owner, president and staff is what keeps us confident in our choice. They show genuine care not just for our children, but for our entire family.
-      
-      The outdoor space is another highlight. The backyard offers plenty of activities, and in the summer, the kids especially love the bouncy castle. With daily outdoor play, sports, and walks to nearby parks and fields, the children have great opportunities to stay active and burn off energy.
-      
-      Overall, we are grateful to have found a place where our children feel happy, supported, and cared for. Keep up the great work Nana's Love.
 ---

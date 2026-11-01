@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/a-j-driving-school-ltd-1.jpg", "/photos/a-j-driving-school-ltd-2.jpg", "/photos/a-j-driving-school-ltd-3.jpg"]
 rating: 4.7
-review_count: 341
+review_count: 352
 price_range: "$$"
 amenities:
 
@@ -28,16 +28,18 @@ tags: ["edmonton", "driving-school"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "RAAJ LIKHARI"
+  - name: "Ivanna Mytulynska"
     rating: 5
     comment: |
-      completed my full Class 3 package with Air Brake training at AG Driving Education, and I’m happy to say I passed my road test on the first attempt! I was quite nervous in the beginning, but the team was very supportive and helped me build confidence throughout the training.
-      A big thank you to Parampal and Param, as well as all the instructors. Even though I don’t remember their names, each instructor was highly experienced, patient, and professional.
-      Great experience overall I highly recommend AG Driving Education to anyone looking for quality training. I’ll definitely be coming back soon to upgrade my license to Class license
+      I’m really glad I chose this school to learn to drive and the rules of the road. Everything is clear and easy to understand. There’s a friendly atmosphere in the classroom. I’d highly recommend it!!
   - name: "Rashid Mubiru"
     rating: 5
     comment: |
       I had a great experience with AJ Driving School. The instructors were patient and explained everything in a simple way that helped me feel more confident while driving. They gave me useful tips that helped me prepare for my road test. I also really appreciated that they let me use their car for the road test, and it was clean and easy to drive which made me feel more comfortable. Overall, I would recommend AJ Driving School to anyone looking to learn and pass their test.
+  - name: "Andrew Caton"
+    rating: 5
+    comment: |
+      I had a great experience with this A&J driving school. The in-class theory lessons were very good, and the instructor was knowledgeable and explained everything clearly. The administrator was also friendly, helpful, and quick to respond whenever I had questions reg packages or payments. Overall, I’m very happy with the service and would definitely recommend this driving school.
   - name: "Simran Kaur Grewal"
     rating: 5
     comment: |
@@ -50,10 +52,4 @@ reviews:
       My experience with A&J driving school was amazing right at the start of my registration, everything was great and professional
       The instructor Raj is kind, and amazing
       I’m looking forward to have the best driving lessons and great experience as well
-  - name: "Arsh Sohi"
-    rating: 5
-    comment: |
-      I had a great experience learning driving at A&J Driving School with Mr. Gurcharan Singh Garcha. He is a very patient, knowledgeable, and supportive instructor.
-      He explains everything clearly and makes sure you understand both the rules and practical driving skills. His calm teaching style really helped build my confidence behind the wheel.
-      I highly recommend A&J Driving School to anyone looking for a reliable and professional driving instructor.
 ---
