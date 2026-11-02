@@ -4,12 +4,17 @@ slug: "vertex-physiotherapy"
 category: "medical"
 subcategory: "physiotherapy"
 tier: "featured"
-description: "Registered physiotherapists specializing in sports injuries, post-surgical rehab, and chronic pain. Direct-billing to Alberta Blue Cross and most insurers."
+logo: "/logos/vertex-physiotherapy.png"
+description: "Vertex Physiotherapy is a multidisciplinary clinic in southeast Edmonton at 6958 76 Ave NW, Suite 205, with physiotherapy, massage therapy and psychology under one roof. No referral is needed. Your first visit is a 45 minute assessment, and treatment starts the same day.\n\nThey treat back and neck pain, sports injuries, joint pain and arthritis, concussion, dizziness and vertigo, pelvic floor problems, and recovery before and after surgery. Treatments include manual therapy, exercise programs, dry needling and IMS, shockwave therapy, acupuncture, lymphatic drainage massage and custom orthotics. In-home physiotherapy is available if getting to the clinic is hard for you, and virtual sessions are offered too.\n\nVertex bills most extended health plans directly, along with Section B motor vehicle accident claims and WCB. Free parking and wheelchair access."
 address: "6958 76 Ave NW #205, Edmonton, AB T6B 2R2"
 neighborhood: "South Edmonton"
-google_maps_url: "https://maps.google.com/?q=6958+76+Ave+NW+Edmonton+AB"
 phone: "(825) 525-2852"
-website: "https://vertexphysio.ca/"
+email: "southclinic@vertexphysio.ca"
+website: "https://www.vertexphysio.ca/"
+facebook: "https://www.facebook.com/vertexphysio/"
+google_maps_url: "https://maps.google.com/?cid=16577970360382620924"
+latitude: 53.5128059
+longitude: -113.4355392
 hours:
   monday: "8:00 AM–8:00 PM"
   tuesday: "8:00 AM–8:00 PM"
@@ -18,15 +23,21 @@ hours:
   friday: "8:00 AM–8:00 PM"
   saturday: "8:00 AM–12:00 PM"
   sunday: "Closed"
-photos: []
+photos:
+  - "/photos/vertex-physiotherapy-g1.jpg"
 rating: 4.8
-review_count: 118
+review_count: 117
 price_range: "$$"
 amenities:
+  - "No Referral Needed"
   - "Direct Billing"
-  - "Sports Injury"
+  - "In-Home Physiotherapy"
+  - "Virtual Physiotherapy"
+  - "MVA (Section B) & WCB"
+  - "Free Parking"
+  - "Wheelchair Accessible"
   - "New Patients Welcome"
-tags: ["physiotherapy", "sports-injury", "rehab"]
+tags: ["physiotherapy", "sports-injury", "rehab", "in-home-physiotherapy", "pelvic-floor-physiotherapy", "vestibular-rehab", "concussion", "mva-physiotherapy", "wcb", "massage-therapy", "dry-needling", "shockwave-therapy", "southeast-edmonton"]
 active: true
 date_listed: "2026-08-18"
 reviews:
