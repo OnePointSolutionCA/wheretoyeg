@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "100 Palisades Way #10, Sherwood Park, AB T8H 0T1"
 rating: 4.9
-review_count: 411
+review_count: 417
 tier: "featured"
 phone: "(780) 449-0405"
 website: "https://www.acaciadentalcentre.com/"
@@ -14,6 +14,10 @@ google_maps: "https://maps.google.com/?cid=10204708059424079521&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/acacia-dental-centre.jpg"
 reviews:
+  - name: "Angie"
+    rating: 5
+    comment: |
+      I am a new client to Acacia and I can truly say how wonderful they are! I had my second visit today and I had to call my husband right away and tell him just how amazing they all are! From when you walk in the ladies are super helpful and sooo nice… to my hygienist which let me tell you she is so thorough and kind and gentle to the point that I could have fallen asleep. Lol! She explained so much to me ! And my dentist is super friendly and so knowledgeable that I feel a great level of comfort!  Lovely people there!
   - name: "Stu"
     rating: 5
     comment: |
@@ -30,10 +34,6 @@ reviews:
     rating: 5
     comment: |
       I have had the best experience going through the Invisalign process. Dr.Moen and Kelsey were absolutely wonderful to deal with. They are true professionals! I would highly recommend them!
-  - name: "Gabriella Wild"
-    rating: 5
-    comment: |
-      Dr. Nassar and the whole team are great! Everyone is always so friendly, and make the visits as quick and painless as possible. I can't recommend them enough!!
 hours:
   monday: "7:00 AM–5:00 PM"
   tuesday: "7:00 AM–4:00 PM"

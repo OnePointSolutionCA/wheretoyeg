@@ -30,12 +30,6 @@ reviews:
       The entire team is professional and highly skilled, and I have to give special recognition to Nicole at the front desk. She does an amazing job with insurance claims and makes the whole process smooth and effortless. Her friendliness and efficiency really add to the great experience.
       
       ABC Dental Care Windermere has earned my full trust over the years. I highly recommend them to anyone looking for excellent dental care and a team that truly puts patients first.
-  - name: "nina cat"
-    rating: 5
-    comment: |
-      I’m here to give a testimony for ABC dental care, both ABC dental clinics (Westend and SW) provide the best care, plus they have the top notch equipments as well as clean environment. The Dentists and the staffs are very professional and caring, make the visit very pleasant. I will strongly recommend ABC dental clinic as your primary choice for dental care.
-      
-      Thank you Doctor Monica Lau and Doctor Philip Wu, and salute to the all of your staff !
   - name: "grace ray"
     rating: 5
     comment: |
@@ -44,7 +38,13 @@ reviews:
       I especially want to thank Tingyi — she went above and beyond to help me resolve an issue with my billing. It wasn’t a simple situation, but she followed up multiple times, communicated clearly, and made sure everything was handled properly. I really appreciate her patience and dedication.
       
       Highly recommend this clinic if you’re looking for a place that truly cares about their patients!
-  - name: "Kristel Joy Efe"
+  - name: "nina cat"
+    rating: 5
+    comment: |
+      I’m here to give a testimony for ABC dental care, both ABC dental clinics (Westend and SW) provide the best care, plus they have the top notch equipments as well as clean environment. The Dentists and the staffs are very professional and caring, make the visit very pleasant. I will strongly recommend ABC dental clinic as your primary choice for dental care.
+      
+      Thank you Doctor Monica Lau and Doctor Philip Wu, and salute to the all of your staff !
+  - name: "Ktel J"
     rating: 5
     comment: |
       I had a wonderful experience at this dental clinic. From the moment I walked in, the staff were very welcoming and friendly, which immediately made me feel comfortable.

@@ -24,7 +24,7 @@ photos:
   - "/photos/acaster-chiropractic-collective-g1.jpg"
   - "/photos/acaster-chiropractic-collective-g2.jpg"
 rating: 5.0
-review_count: 22
+review_count: 29
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "chiropractors"]
@@ -33,27 +33,26 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Brandyn"
     rating: 5
-    date: "2026-05-08"
     comment: |
       Chris is amazing. I’ve struggled with back issues for many years, and he is the only person who has truly helped resolve them. He is also one of the kindest people I’ve ever met. I highly recommend Chris for his exceptional skills and outstanding customer service. I’m so happy to see him starting his own practice!
+  - name: "kittyfromsk"
+    rating: 5
+    comment: |
+      Always an exceptional care. I'd follow Chris anywhere. Always so caring and amazing at what he does. Very knowledgeable as well. Very proud of him opening his own practice!
   - name: "edon halimi"
     rating: 5
-    date: "2026-06-13"
     comment: |
       Great experience with Chris. Professional, friendly, and very knowledgeable. He helped me a lot to relieve my pain and always takes the time to explain the treatment. Highly recommended
-  - name: "Tyler O'Keefe"
+  - name: "Anne Lamers"
     rating: 5
-    date: "2026-06-01"
     comment: |
-      Chris is awesome, very knowledgeable. Always willing to stay late to help a client. Helps with any other stuff you need from doctors and such. Highly recommend.
-  - name: "DK"
+      I so appreciate Dr. Chris’ thoroughness and kind approach to my issues. He explains things in detail, provides excellent treatment and options for homework! Definitely recommend!!
+  - name: "Adam Southam"
     rating: 5
-    date: "2026-04-28"
     comment: |
-      I’ve been seeing Dr. Chris for nearly 4 years now, and I wouldn’t go anywhere else. After trying so many places before finding him, I can confidently say he’s the real deal 👏Highly recommend!
-  - name: "Marina Webb"
-    rating: 5
-    date: "2026-05-21"
-    comment: |
-      Chris is the best! I have been seeing him for the past few years and he always knows how to fix me! I would highly recommend him to anyone who is in need of a chiropractor. Super stoked that he has opened up his new practice!
+      I’ve been seeing Chris for chiropractic care for the past five years and couldn’t be happier with the treatment I’ve received. He always takes the time to listen, understand what’s going on with my body and tailor each appointment accordingly. I consistently leave feeling noticeably better.
+      
+      I’ve had an equally positive experience with Megan and Sarah for massage therapy. I have a long-term injury that has caused a lot of discomfort and limited what I’ve been able to do over the years. Their knowledge and treatment has helped make a huge improvement. I’m far more comfortable and can now work through exercises that my injury previously prevented me from doing.
+      
+      Thanks to the care and support of the whole team, I’m now pain-free most of the time. If an issue does begin to creep back in, I feel confident knowing they’ll help get me back on track. I wouldn’t hesitate to recommend them to anyone looking for knowledgeable, attentive and effective chiropractic or massage therapy.
 ---

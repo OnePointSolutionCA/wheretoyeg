@@ -24,38 +24,30 @@ photos:
   - "/photos/achievers-early-learning-and-childcare-g1.jpg"
   - "/photos/achievers-early-learning-and-childcare-g2.jpg"
 rating: 5.0
-review_count: 18
+review_count: 21
 amenities: []
 tags: ["edmonton", "childcare"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Jam Jerry"
+    rating: 5
+    comment: |
+      I’m very happy with the experience at this childcare centre. The staff are caring, friendly, and attentive to the children’s needs. The environment is clean, welcoming, and safe, and the children have lots of opportunities to learn and enjoy different activities. I really appreciate the dedication and kindness of the educators. Highly recommend this childcare centre to families looking for a caring and positive environment for their little ones! ❤️
   - name: "Jaskarn Bhatti"
     rating: 5
-    date: "2026-07-07"
     comment: |
       We’ve had a wonderful experience with this daycare. The staff are caring, patient, and truly dedicated to the children’s well-being. The facility is clean, safe, and welcoming, and the activities keep the kids engaged while helping them learn and grow. Communication with parents is excellent, and it’s reassuring to know our child is in such good hands. I highly recommend this daycare to any family looking for a caring and trustworthy place for their little ones.
   - name: "Munik The savannah cat"
     rating: 5
-    date: "2026-07-07"
     comment: |
       Amazing child care with caring and friendly staff! My child is always happy, safe, and excited to go each day. The team does a wonderful job creating a fun and nurturing environment. Highly recommend!
+  - name: "Austin Mckay"
+    rating: 5
+    comment: |
+      Awesome daycare great staff and friendly atmosphere. My kids love going to “school” as they call it, they have lots of toys for the kids. It’s also very bright inside and not gloomy which is nice. Definitely recommend looking into this daycare if you’re on the hunt for great child care.
   - name: "Honey Thind"
     rating: 5
-    date: "2026-07-08"
     comment: |
       Achievers Daycare is amazing! The staff are caring, friendly, and truly dedicated to the kids. The environment is clean, safe, and full of fun learning activities. My child has grown so much in confidence and skills since starting here. Highly recommend to any parent.
-  - name: "Hayley Hayes."
-    rating: 5
-    date: "2026-08-27"
-    comment: |
-      So far my daughter absolutely loves achievers early learning and childcare, they are wonderful and very polite down to earth teachers/directors my daughter is always very happy and excited to go every morning and the same way when I pick her up. Definitely recommend!!!
-  - name: "Abbi Haile"
-    rating: 5
-    date: "2026-03-23"
-    comment: |
-      I highly recommend  Achivers child care center .
-      Both of my children had teachers here, and even after 8 years, they still remember them. That shows how caring and impactful the staff are. If you enroll your child here, they will be in good hands. Highly recommended!
-      
-      Abbi
 ---

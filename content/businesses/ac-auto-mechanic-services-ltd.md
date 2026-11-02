@@ -30,31 +30,24 @@ tags: ["edmonton", "mechanics"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Ali Baran Gündoğan"
-    rating: 5
-    date: "2026-06-27"
-    comment: |
-      Excellent service from start to finish. The staff were friendly, honest, and took the time to explain what was wrong with my vehicle before starting the repair. The work was completed on time, and my car runs great now. Their prices were fair, and there were no unexpected charges. It’s hard to find a mechanic you can trust, but I definitely recommend this shop and will be coming back for future maintenance and repairs.
   - name: "Mohit Seharawat"
     rating: 5
-    date: "2026-07-20"
     comment: |
       I brought my 2016 Chevrolet Impala LT V6 in for an A/C compressor replacement, and I couldn’t be happier with the service. The mechanic was honest, respectful, and charged a very fair price. He explained the work clearly, didn’t try to sell me anything I didn’t need, and completed the job professionally. My A/C is now blowing ice cold and working perfectly. It’s hard to find a genuine and trustworthy mechanic these days, and I highly recommend this shop to anyone looking for quality work at a reasonable price. Thank you again!
-  - name: "Trevor Tribble"
-    rating: 5
-    date: "2026-04-22"
-    comment: |
-      This was good old fashion honest and fair service. He kept me informed of what was going on with my vehicle via text with pics. The price was literally half of what Canadian tire quoted me.
-      Bill was exactly what it said on the estimate.
-      Happy with this place. I will come back.
   - name: "Metin Burhanlı"
     rating: 5
-    date: "2026-06-27"
     comment: |
       I had a great experience here. From the moment I walked in, the staff was extremely polite and welcoming. They diagnosed the issue quickly and finished the job right on time, exactly as promised. No hidden fees, no unnecessary delays. If you’re looking for a reliable and fast mechanic, look no further!
+  - name: "Ali Baran Gündoğan"
+    rating: 5
+    comment: |
+      Excellent service from start to finish. The staff were friendly, honest, and took the time to explain what was wrong with my vehicle before starting the repair. The work was completed on time, and my car runs great now. Their prices were fair, and there were no unexpected charges. It’s hard to find a mechanic you can trust, but I definitely recommend this shop and will be coming back for future maintenance and repairs.
   - name: "jason brogden"
     rating: 5
-    date: "2026-05-15"
     comment: |
       Had an excellent experience they got me in next day on a Friday diagnosed my Ac at a great price lower than any other Ac company I called. Got me in Tuesday morning they got it all done even made a custom line to replace an original corroded one for free. Great price service and same day pickup. I’m very impressed!
+  - name: "Jeffrey Tan"
+    rating: 5
+    comment: |
+      Highly recommended shop! The staff are very kind, honest, and easy to deal with. They explained everything clearly and provided excellent customer service. The shop is trustworthy, professional, and treats customers with respect. I’m very satisfied with my experience and will definitely come back again. Thank you for the great service!
 ---

@@ -23,7 +23,7 @@ photos:
   - "/photos/abu-nawras-restaurant-g1.jpg"
   - "/photos/abu-nawras-restaurant-g2.jpg"
 rating: 4.5
-review_count: 569
+review_count: 574
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -35,28 +35,35 @@ tags: ["edmonton", "shawarma"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Josh Stinsman"
+    rating: 5
+    comment: |
+      Been here multiple times now.
+      The food is absolutely amazing every time! Worth every penny and worth coming back for!
+      
+      There is a small language barrier but the staff are friendly and do their best to use the menu to accommodate you in English.
+      
+      The restaurant is kept clean and has a number of tables. A new menu adds a nice touch to an otherwise bland interior. It is kept plain and unassuming. While plain it still does have an authentic charm. A tv in the eating area is usually set to play international music or it is off.
+      
+      Overall it was an excellent food experience! The flavours of the dishes served are incredibly well executed and each dish is done to perfection.
+      The staff are fluent in Arabic but can struggle in English, be patient with them and they will still provide excellent service. 😊
   - name: "Jilleen Meckling"
     rating: 5
-    date: "2024-06-23"
     comment: |
       The food was absolutely delicious. I ordered way too much so I could try more and have lunch the next day. Very reasonably priced. My husband had a burger and said it was very good (and he is a burger snob).
       Will definitely be back again.
-  - name: "Catherine Le"
-    rating: 5
-    date: "2024-04-12"
+  - name: "Nisreen Shorbaji"
+    rating: 2
     comment: |
-      Best falafel in the city! Fried fresh to order. Most recommended falafel place for both my husband and me. We were very pleased with our first visit and will be back again.
-      They had a deal on their Shawarma sandwich, also delicious. The wrap was perfectly toasted, thin and crispy.
-      
-      Will definitely return again and easily recommend when people ask for a falafel spot!
+      Unfortunately, cleanliness does not seem to be a priority here. I noticed that the staff were preparing food without wearing gloves, which was concerning. I hope they improve their food handling and hygiene practices, as this would help customers feel safer and reduce the risk of stomach discomfort or foodborne illness. I believe better attention to cleanliness would greatly improve the overall experience.
   - name: "Hammad Tawfig"
     rating: 5
-    date: "2024-03-03"
     comment: |
       You should try this place and you will not be disappointed. I got here looking to buy some falafel, but then I decided to go with Ful & Tahini and Fried Eggs. I also got veggie plate on the side, pita bread and tea. Excellent food quick and easy and it really hits the spot.  I’ve taken some pictures to show you what I had for brunch.
-  - name: "Zain Ibdah"
+  - name: "Karim Rawajih"
     rating: 5
-    date: "2026-05-10"
     comment: |
-      This is hands down the most underrated restaurant in all of Edmonton. Everything about the food was absolutely delicious and the service was just filled with pure kindness. I really appreciated every aspect and if I could choose only one restaurant to eat from in Edmonton , I would choose this one ! I recommend everyone too come try food from here at least once in your life
+      The mansaf we tasted was an original mansaf, as if you were eating in Jordan.The place was quiet, nice and clean, and the services were excellent.We ordered a big  dish for three people. What they gave us was enough
+      for  six people,
+      I highly recommend it.
 ---

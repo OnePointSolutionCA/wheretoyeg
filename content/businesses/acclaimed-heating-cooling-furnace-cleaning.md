@@ -11,16 +11,16 @@ phone: "(587) 741-7517"
 website: "https://www.acclaimedfurnace.com/"
 google_maps_url: "https://maps.google.com/?cid=14566794201197820198&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "Closed"
-  tuesday: "Closed"
-  wednesday: "Closed"
-  thursday: "Closed"
-  friday: "Closed"
-  saturday: "Closed"
+  monday: "Open 24 hours"
+  tuesday: "Open 24 hours"
+  wednesday: "Open 24 hours"
+  thursday: "Open 24 hours"
+  friday: "Open 24 hours"
+  saturday: "Open 24 hours"
   sunday: "Open 24 hours"
 photos: ["/photos/acclaimed-heating-cooling-furnace-cleaning-1.jpg", "/photos/acclaimed-heating-cooling-furnace-cleaning-2.jpg", "/photos/acclaimed-heating-cooling-furnace-cleaning-3.jpg"]
 rating: 4.8
-review_count: 1390
+review_count: 1432
 price_range: "$$$$"
 amenities:
 
@@ -28,40 +28,38 @@ tags: ["edmonton", "hvac"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Miranda Melnychuk"
+    rating: 5
+    comment: |
+      We recently replaced our entire HVAC system and couldn’t be happier with the experience from start to finish.
+      
+      It started with an AC coil leak, and Cory came out to diagnose it. What seemed like a minor issue uncovered several much bigger problems with our existing system. With a basement flood and construction already underway, we decided it was time to bite the bullet and replace the system.
+      
+      Keven and Bernie were fantastic in helping us understand our options, and we ended up with a fully modulating, communicating heat pump/gas furnace system. Communication throughout the process was excellent, and we always knew what to expect.
+      
+      Stephanie, Max and Mason handled the installation over 2.5 days and did an amazing job. They worked incredibly hard, took great care of our home, kept everything clean, and the finished installation is beautiful. The return air and ductwork are exceptionally neat.
+      
+      We especially appreciated watching Stephanie confidently teach Max and Mason throughout the install, answering their questions and making sure they understood what they were doing. Stephanie is truly a master at her craft.
+      
+      The startup was just as thorough, with everything checked, the new thermostat explained, and the system tested perfectly.
+      
+      We’ve had a LOT going on with our basement flood, so having this process go so smoothly was a huge relief. Great communication, excellent workmanship, and an awesome team. Huge thanks to Cory, Keven, Bernie, Stephanie, Max and Mason. Highly recommend!
+  - name: "Umesh Pardeshi"
+    rating: 5
+    comment: |
+      Excellent service from Acclaimed. The entire process was handled professionally and promptly. Ed Patenaude arrived on time, quickly diagnosed the furnace heating issue, and fixed it efficiently. Ed demonstrated exceptional technical knowledge, strong troubleshooting skills, and a deep understanding of furnace systems. Professional, courteous, and highly skilled. I highly recommend Ed and the Acclaimed team for any HVAC service needs. Great job! 👍
+  - name: "Hawwi Rufo"
+    rating: 1
+    comment: |
+      ⭐ 1 Star
+      I am extremely disappointed with this service. I was charged nearly $800 and was told that my air filter had been replaced. However, after they left, I found that the work had not been done. I paid for a service that I did not receive.
+      I strongly advise others to be careful and to confirm that the work has actually been completed before making payment. Based on my experience, I would not recommend this company.
+  - name: "Jeff McCann"
+    rating: 5
+    comment: |
+      I just had my Furnace Serviced and used Acclaimed for the first time and the service was OUTSTANDING. Ed was the service agent and his level of experience and customer service was absolutely amazing. In an age where great service is like a Unicorn, Acclaimed is for sure one of the Unicorns.
   - name: "Kayla Morin"
     rating: 5
     comment: |
       Acclaimed had installed our furnace, unfortunately our A/C decided to not turn on after the fact. Ed came by to check things out and was thorough and diligent with figuring out our issue. It was a small error because a wire was not connected. Great service and super friendly! Would not recommend anyone but this company for your furnace/AC needs :)
-  - name: "Zachary Bundun"
-    rating: 5
-    comment: |
-      Editing my previous review, as previously I had Acclaimed! install a central humidifier but now they came back to install a new water tank and heat pump.
-      
-      First, they managed to squeeze the hot water tank and heat pump install the very next day after I received and approved my estimate. As they normally book a few weeks out for cooling in the summertime, I was ecstatic to hear they could get me in so fast!
-      
-      Then, the following morning the crew showed up right on time to begin emptying the old tank and begin the prep for installing the heat pump and new water tank.
-      
-      All of the crew (Stephanie, Logan, Mason) were very professional and nice to ask questions and talk with. They had to deal with a 1980's house, yet nothing phased them and at no point did they lose confidence about getting everything installed.
-      
-      The install itself was so clean, I was impressed how they navigated the odd layout of the house to get everything done right.
-      
-      Overall, I'm super impressed and very happy with both new systems. Thank you for doing such a great job on easily the fastest turnaround I've ever seen!
-      
-      I'm one happy repeat customer!
-  - name: "Scotties 1938"
-    rating: 5
-    comment: |
-      Ed P is so awesome!  Took the time to explain everything to me and show me. And did a wonderful job. He even cleaned my floor floors after his shoes, tracked a little bit of dust! Appreciate having such an informed and skilled individual to help support me with my Furnace and AC needs. Acclaim hires good, Knowledgable professionals.
-  - name: "Jack W"
-    rating: 5
-    comment: |
-      Acclaimed fitted an air conditioning unit 5 years ago and I had to call them due to the unit stopping working. Not only did I manage to get an appointment for a technician to come out and fix it within 3 days, the issue was resolved in less than a few hours, completely under warranty. Ed was the technician and did a superb job fixing the unit and communicating with me throughout. He is a testament for your business, and has set a new benchmark for my expectations when dealing with all trades. Thank you Acclaimed, thank you Ed - keep providing excellent customer service, fitting great products, and standing behind them when there are issues.
-  - name: "Racquel Hardy"
-    rating: 5
-    comment: |
-      I had a great experience with Ed from Acclaimed. He came out to check my A/C unit and was very thorough, taking the time to carefully go through everything and make sure nothing was missed. He explained things clearly and in a way that was easy to understand, which I really appreciated, and made the whole experience feel smooth and stress-free.
-      
-      He was also very kind and patient with my kids while he was here. It’s clear that he takes pride in his work and genuinely cares about doing a good job.
-      
-      Overall, I’m really happy with the service and would definitely recommend Ed and Acclaimed.
 ---

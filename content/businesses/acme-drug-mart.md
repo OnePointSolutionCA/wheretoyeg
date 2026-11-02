@@ -12,12 +12,12 @@ phone: "(780) 443-0202"
 website: "https://acmedrugmart.com/"
 google_maps_url: "https://maps.google.com/?q=15508+87+Ave+NW+Edmonton+AB"
 hours:
-  monday: "9:00 AM–5:00 PM"
+  monday: "9:00 AM–6:00 PM"
   tuesday: "9:00 AM–6:00 PM"
   wednesday: "9:00 AM–6:00 PM"
   thursday: "9:00 AM–6:00 PM"
   friday: "9:00 AM–6:00 PM"
-  saturday: "11:00 AM–5:00 PM"
+  saturday: "10:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/acme-drug-mart-1.jpg", "/photos/acme-drug-mart-2.jpg", "/photos/acme-drug-mart-3.jpg"]
 rating: 5
@@ -52,8 +52,8 @@ reviews:
     rating: 5
     comment: |
       Rose is the best Pharmacist. She takes care of my wife’s prescriptions.  She keeps my Flu and Covid shots up to date. The personal service is above and beyond anything you get at a corporate store.
-  - name: "Solomiia Basarab"
+  - name: "Ajak Monyror"
     rating: 5
     comment: |
-      “I really appreciate the team at this pharmacy. They’re always kind, helpful, and make you feel comfortable asking questions. It’s nice to have a place where you feel taken care of. Thank you!”
+      This is the best pharmacy I’ve ever been to! Everyone was so kind and specifically the owner made sure I was taken care of and offered me coffee water and chips while I waited.
 ---

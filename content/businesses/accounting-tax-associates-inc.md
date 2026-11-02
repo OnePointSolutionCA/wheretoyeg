@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/accounting-tax-associates-inc-1.jpg", "/photos/accounting-tax-associates-inc-2.jpg", "/photos/accounting-tax-associates-inc-3.jpg"]
 rating: 4.9
-review_count: 178
+review_count: 179
 price_range: "$$"
 amenities:
 
@@ -40,10 +40,6 @@ reviews:
     rating: 5
     comment: |
       I had an excellent experience with Bharat Rath for tax services. He did an amazing and fantastic job handling everything professionally and efficiently. He was extremely knowledgeable, patient, and took the time to explain every detail clearly. The entire process was smooth, stress-free, and completed with great attention to detail.
-  - name: "Mexmet Kar"
-    rating: 5
-    comment: |
-      Thad a very good experience with Accounting & Tax Associate Inc. Raj Rajpara was professional, knowledgeable, and easy to work with. He explained everything clearly and made sure all my questions were answered. The process was smooth, quick, and stress-free, and I felt confident that my taxes were done accurately. I would definitely recommend their services to anyone looking for reliable and efficient tax help.
   - name: "Bhavisha Patel"
     rating: 5
     comment: |
@@ -52,4 +48,8 @@ reviews:
     rating: 5
     comment: |
       Normally I go to happy tax, however I didn't want to wait in a 2+ hour line up and after seeing all the positive reviews here I decided to stop in. The guy I dropped my taxes off to was incredibly nice and what I loved about this place was I walked right in, handed my T4s and they said they will call me once everything is completed. They make it incredibly easy and they're incredibly reasonable when it comes to pricing. If you're looking for some really nice people to handle your tax needs, come give these guys a visit!
+  - name: "Ashish Rana"
+    rating: 5
+    comment: |
+      I had a fantastic experience with Raj. He is extremely knowledgeable, thorough, and professional throughout the entire process. They took the time to explain everything clearly. His behaviour is very friendly.
 ---

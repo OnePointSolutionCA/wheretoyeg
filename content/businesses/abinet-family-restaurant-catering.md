@@ -19,7 +19,7 @@ hours:
   sunday: "11:00 AM–11:00 PM"
 photos: ["/photos/abinet-family-restaurant-catering-1.jpg", "/photos/abinet-family-restaurant-catering-2.jpg", "/photos/abinet-family-restaurant-catering-3.jpg"]
 rating: 4.7
-review_count: 152
+review_count: 155
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -29,10 +29,6 @@ tags: ["edmonton", "eritrean"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "S"
-    rating: 5
-    comment: |
-      Soo delicious!! My favourite spot downtown for Ethiopian..been a loyal diner for the last three years now
   - name: "Lerynne Biton"
     rating: 5
     comment: |
@@ -41,6 +37,10 @@ reviews:
     rating: 5
     comment: |
       Food is incredible!! I would recommend this place to all. Very authentic and family oriented
+  - name: "S"
+    rating: 5
+    comment: |
+      Soo delicious!! My favourite spot downtown for Ethiopian..been a loyal diner for the last three years now
   - name: "Awila Mohammed"
     rating: 5
     comment: |
