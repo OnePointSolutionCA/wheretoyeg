@@ -8,11 +8,11 @@
  *   node scripts/indexnow.mjs /restaurants /blog/some-post   # submits only these paths
  *
  * The key file must be live at:
- *   https://wheretoyeg.ca/ab3b4d13f61a4995bd7edbc67fcd8ec5.txt
+ *   https://wheretoyeg.ca/7cbef1d91e87cc0bd4fcec6ce3b286cd.txt
  */
 
 const HOST = 'wheretoyeg.ca'
-const KEY = 'ab3b4d13f61a4995bd7edbc67fcd8ec5'
+const KEY = '7cbef1d91e87cc0bd4fcec6ce3b286cd'
 const KEY_LOCATION = `https://${HOST}/${KEY}.txt`
 const BASE = `https://${HOST}`
 
