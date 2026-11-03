@@ -8,7 +8,6 @@ description: "AR Royal Kitchen — bangladeshi in Edmonton, Edmonton. Halal-cert
 address: "3811 99 St NW, Edmonton, AB T6E 6J1"
 neighborhood: "Edmonton"
 phone: "(780) 225-3300"
-website: "http://www.arroyalkitchen.com/"
 google_maps_url: "https://maps.google.com/?cid=4918469491760972223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"

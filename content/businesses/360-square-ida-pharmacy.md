@@ -8,7 +8,6 @@ description: "360 Square IDA Pharmacy — pharmacies in Edmonton, Edmonton. 33 G
 address: "13202 118 Ave NW, Edmonton, AB T5L 4N4"
 neighborhood: "Edmonton"
 phone: "(825) 401-3606"
-website: "http://www.360squareidapharamcy.ca/"
 google_maps_url: "https://maps.google.com/?cid=4667806654847676771&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "9:00 AM–6:00 PM"

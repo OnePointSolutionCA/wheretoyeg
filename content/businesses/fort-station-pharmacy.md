@@ -8,7 +8,7 @@ description: ""
 address: "10490 98 Ave Unit#629, Fort Saskatchewan, AB T8L 0V6"
 neighborhood: "Fort Saskatchewan"
 phone: "(780) 589-1314"
-website: "http://www.pharmachoice.com/ab/fort-station-pharmacy"
+website: "https://www.pharmachoice.com/locations/fort-station-pharmacy/"
 google_maps_url: "https://maps.google.com/?cid=1830066654666313751&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.711410
 longitude: -113.204822

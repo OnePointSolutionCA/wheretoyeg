@@ -8,7 +8,6 @@ description: "East-West Combatives — martial arts in Edmonton, Edmonton. 36 Go
 address: "12832 141 St NW, Edmonton, AB T5L 4N8, Edmonton, AB T5L 4N8"
 neighborhood: "Edmonton"
 phone: "(587) 778-3084"
-website: "https://www.ewcombatives.com/"
 google_maps_url: "https://maps.google.com/?cid=16973662908854734138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"

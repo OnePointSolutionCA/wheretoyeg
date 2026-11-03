@@ -9,7 +9,7 @@ rating: 4.2
 review_count: 1043
 tier: "featured"
 phone: "(587) 520-8716"
-website: "https://www.parisbaguette.ca/fr/locations/ab/edmonton/10607-82-avenue-nw/"
+website: "https://parisbaguette.ca/locations/ab/edmonton/10607-82-avenue-nw"
 google_maps: "https://maps.google.com/?cid=266309903039329151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/paris-baguette.jpg"

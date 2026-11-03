@@ -8,7 +8,6 @@ description: ""
 address: "8020 Sparrow Dr, Leduc, AB T9E 7G3"
 neighborhood: "Leduc"
 phone: "(780) 739-2023"
-website: "https://sparrowdrive.bashachef.com/"
 google_maps_url: "https://maps.google.com/?cid=15388315523049675606&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.303080
 longitude: -113.544025

@@ -9,7 +9,7 @@ rating: 5
 review_count: 17
 tier: "featured"
 phone: "(780) 701-5188"
-website: "https://www.pictureperfectcleaning.ca/commercial-janitorial-cleaning-edmonton/"
+website: "https://pictureperfectcleaning.ca/"
 google_maps: "https://maps.google.com/?cid=7492248852744440840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/picture-perfect-cleaning-commercial-janitorial-services.jpg"

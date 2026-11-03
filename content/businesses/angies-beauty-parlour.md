@@ -8,7 +8,6 @@ description: ""
 address: "4003 Gateway Blvd NW, Edmonton, AB T6H 5R7"
 neighborhood: "South Edmonton"
 phone: "(780) 800-0895"
-website: "http://www.angiesbeautyparlour.com/"
 google_maps_url: "https://maps.google.com/?cid=3387059985436883016&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.476218
 longitude: -113.491233

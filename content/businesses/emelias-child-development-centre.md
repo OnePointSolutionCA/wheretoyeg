@@ -8,7 +8,6 @@ description: ""
 address: "100 Centre St #202, St. Albert, AB T8N 3W2"
 neighborhood: "St. Albert"
 phone: "(780) 458-5355"
-website: "http://emelia-daycare.com/"
 google_maps_url: "https://maps.google.com/?cid=9007265114417543838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.648237
 longitude: -113.572591

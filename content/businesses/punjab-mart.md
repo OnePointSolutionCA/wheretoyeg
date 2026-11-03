@@ -8,7 +8,6 @@ description: ""
 address: "4906 30 Ave, Beaumont, AB T4X 1T9"
 neighborhood: "Beaumont"
 phone: "(780) 737-0424"
-website: "https://www.punjabmartedm.ca/"
 google_maps_url: "https://maps.google.com/?cid=2543051159100282025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.340123
 longitude: -113.413292

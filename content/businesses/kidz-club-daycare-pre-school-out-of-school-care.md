@@ -8,7 +8,6 @@ description: ""
 address: "120 Wye Rd #139, Sherwood Park, AB T8A 6P2"
 neighborhood: "Sherwood Park"
 phone: "(780) 467-7000"
-website: "http://kidzclubdaycare.ca/"
 google_maps_url: "https://maps.google.com/?cid=12177042269766790389&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.512913
 longitude: -113.327026

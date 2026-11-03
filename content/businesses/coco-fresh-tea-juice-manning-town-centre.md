@@ -8,7 +8,7 @@ description: ""
 address: "15542 37 St NW, Edmonton, AB T5Y 0S5"
 neighborhood: "North Edmonton"
 phone: "(780) 752-3320"
-website: "https://www.cocoedmonton.com/"
+website: "https://cocoedmonton.com/"
 google_maps_url: "https://maps.google.com/?cid=12440152566944424467&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.616590
 longitude: -113.398611

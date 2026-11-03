@@ -8,7 +8,7 @@ description: ""
 address: "65512 45 St, Leduc, AB T9E 7B2"
 neighborhood: "Leduc"
 phone: "(780) 288-8520"
-website: "https://mightycleanautospa.com/might"
+website: "https://www.mightycleanautospa.com/"
 google_maps_url: "https://maps.google.com/?cid=10654612939504116877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.270680
 longitude: -113.542757

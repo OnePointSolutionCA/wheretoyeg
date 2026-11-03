@@ -8,7 +8,7 @@ description: ""
 address: "5340 Ellerslie Rd SW, Edmonton, AB T6X 1A4"
 neighborhood: "South Edmonton"
 phone: "(825) 402-5368"
-website: "https://www.cocoedmonton.com/"
+website: "https://cocoedmonton.com/"
 google_maps_url: "https://maps.google.com/?cid=6505669015184192225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.426112
 longitude: -113.425230

@@ -8,7 +8,6 @@ description: ""
 address: "Ave Stn Main, 6002 29 Ave, Beaumont, AB T4X 0H5"
 neighborhood: "Beaumont"
 phone: "(780) 929-2298"
-website: "http://www.sunshinepatch.ca/"
 google_maps_url: "https://maps.google.com/?cid=16656520865745450086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.338999
 longitude: -113.428789

@@ -8,7 +8,6 @@ description: "La Carraia Gelaterie Cafe — ice cream in Edmonton, Edmonton. 630
 address: "10067 109 St NW, Edmonton, AB T5J 0J7"
 neighborhood: "Edmonton"
 phone: "(780) 244-0648"
-website: "http://www.lacarraiacanada.ca/"
 google_maps_url: "https://maps.google.com/?cid=1699110623384412890&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "11:00 AM–10:00 PM"

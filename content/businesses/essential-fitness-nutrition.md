@@ -8,7 +8,6 @@ description: ""
 address: "60 Railway Ave, Spruce Grove, AB T7X 3B5"
 neighborhood: "Spruce Grove"
 phone: "(587) 989-0897"
-website: "http://www.essentialfitnut.com/"
 google_maps_url: "https://maps.google.com/?cid=1654919291743032029&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.540004
 longitude: -113.905688

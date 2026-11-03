@@ -9,7 +9,6 @@ description: "North Edmonton smash-burger spot known for juicy patties, crisp bu
 address: "12618 152 Ave NW, Edmonton, AB T5X 6B2"
 neighborhood: "North Edmonton"
 phone: "(780) 287-9009"
-website: "https://middlechildburger.ca"
 google_maps_url: "https://maps.google.com/?cid=3706415875507335086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "11:00 AM - 9:00 PM"

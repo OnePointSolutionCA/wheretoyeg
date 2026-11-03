@@ -8,7 +8,6 @@ description: ""
 address: "10539 108 St NW, Edmonton, AB T5H 2Z8"
 neighborhood: "Downtown"
 phone: "(780) 915-0828"
-website: "http://www.canadamatialats.ca/"
 google_maps_url: "https://maps.google.com/?cid=16555982485006037355&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.548518
 longitude: -113.506261

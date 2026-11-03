@@ -8,7 +8,6 @@ description: ""
 address: "10543 86 Ave NW, Edmonton, AB T6E 2M7"
 neighborhood: "Whyte Ave"
 phone: "(825) 888-5865"
-website: "https://affordablejunkremover.com/"
 google_maps_url: "https://maps.google.com/?cid=6140660690436570535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.521586
 longitude: -113.502372

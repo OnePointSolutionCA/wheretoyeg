@@ -8,7 +8,6 @@ description: "Alif Halal Meat & Groceries Ltd — halal meat in Edmonton, Edmont
 address: "3819 99 St NW, Edmonton, AB T6E 6J1"
 neighborhood: "Edmonton"
 phone: "(780) 463-9722"
-website: "http://alifhalalmeat.ca/"
 google_maps_url: "https://maps.google.com/?cid=4681536589002557036&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "10:00 AM–8:00 PM"

@@ -7,7 +7,6 @@ tier: "featured"
 description: ""
 address: "4905 51 Ave, Stony Plain, AB T7Z 1C4"
 neighborhood: "Stony Plain"
-website: "http://www.stonyplain.com/Town-Hall/Departments/Community-and-Protective-Services/Parks-and-Trails/Shikaoi-Park.htm"
 google_maps_url: "https://maps.google.com/?cid=4727777541098274162&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.529056
 longitude: -114.005082

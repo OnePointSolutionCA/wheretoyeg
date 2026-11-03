@@ -8,7 +8,6 @@ description: ""
 address: "11 Boulder Blvd, Stony Plain, AB T7Z 0E7"
 neighborhood: "Stony Plain"
 phone: "(780) 963-5978"
-website: "https://mcmillanmechanicalltd.com/"
 google_maps_url: "https://maps.google.com/?cid=10533552742315444328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.546129
 longitude: -113.993355

@@ -8,7 +8,6 @@ description: ""
 address: "367 St Albert Trl, St. Albert, AB T8N 0R1"
 neighborhood: "St. Albert"
 phone: "(780) 458-6663"
-website: "https://barber-house.ca/"
 google_maps_url: "https://maps.google.com/?cid=1073127415761416944&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.638324
 longitude: -113.623594

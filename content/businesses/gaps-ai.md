@@ -8,7 +8,6 @@ description: ""
 address: "9131 39 Ave NW Unit 206, Edmonton, AB T6E 5Y2"
 neighborhood: "South Edmonton"
 phone: "(587) 986-2650"
-website: "https://gapsai.ca/"
 google_maps_url: "https://maps.google.com/?cid=17947102831221669879&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.473678
 longitude: -113.469535

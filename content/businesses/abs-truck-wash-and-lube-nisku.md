@@ -8,7 +8,6 @@ description: ""
 address: "2010 Sparrow Dr, Leduc, AB T9E 8A2"
 neighborhood: "Leduc"
 phone: "(780) 334-1900"
-website: "https://www.abstruckwash.com/"
 google_maps_url: "https://maps.google.com/?cid=4676552054669463487&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.338631
 longitude: -113.545191

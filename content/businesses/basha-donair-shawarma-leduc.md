@@ -8,7 +8,6 @@ description: ""
 address: "5110 50 St, Leduc, AB T9E 2A2"
 neighborhood: "Leduc"
 phone: "(780) 739-2020"
-website: "https://leduc.bashachef.com/"
 google_maps_url: "https://maps.google.com/?cid=5939971212448871824&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.266123
 longitude: -113.552963

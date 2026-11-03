@@ -8,7 +8,6 @@ description: "Lube Techz Edmonton Oil Change & Tire Services — oil change in E
 address: "15831 Stony Plain Rd, Edmonton, AB T5P 3Z7"
 neighborhood: "Edmonton"
 phone: "(587) 521-5933"
-website: "http://www.lubetechz.com/"
 google_maps_url: "https://maps.google.com/?cid=5434152564256424787&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "8:00 AM–4:30 PM"

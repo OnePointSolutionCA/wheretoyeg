@@ -8,7 +8,7 @@ description: ""
 address: "10013 96 Ave, Fort Saskatchewan, AB T8L 1P9"
 neighborhood: "Fort Saskatchewan"
 phone: "(780) 992-6256"
-website: "https://facilities.fortsask.ca/Home/Detail?Id=6c33a98d-6e2f-42ca-8c22-f9d1c40fa22e"
+website: "https://www.fortsask.ca/culture-tourism/facility-event-rentals/sports-recreation-facilities/jubilee-recreation-centre-arena/"
 google_maps_url: "https://maps.google.com/?cid=5719317735497702026&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.704306
 longitude: -113.210523

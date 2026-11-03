@@ -8,7 +8,6 @@ description: ""
 address: "1115 St Albert Trail, Erin Rdg Centre, St. Albert, AB T8N 4K6"
 neighborhood: "St. Albert"
 phone: "(780) 544-1324"
-website: "https://st-albert.bashachef.com/"
 google_maps_url: "https://maps.google.com/?cid=12605749054985579395&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.672976
 longitude: -113.638726

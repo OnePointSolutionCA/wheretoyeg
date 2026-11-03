@@ -8,7 +8,6 @@ description: ""
 address: "9124 137 Ave NW, Edmonton, AB T5E 1Y5"
 neighborhood: "North Edmonton"
 phone: "(780) 935-5429"
-website: "https://quyennails.com/"
 google_maps_url: "https://maps.google.com/?cid=7647002661421380571&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.599941
 longitude: -113.483470

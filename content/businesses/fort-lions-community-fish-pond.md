@@ -8,7 +8,7 @@ description: ""
 address: "1875 River Valley Dr, Fort Saskatchewan, AB T8L 0B1"
 neighborhood: "Fort Saskatchewan"
 phone: "(780) 992-6266"
-website: "http://www.fortsask.ca/residents/recreation/west-river-s-edge"
+website: "https://www.fortsask.ca/culture-tourism/facility-event-rentals/halls-meetings-rooms/west-rivers-edge-pavilion/"
 google_maps_url: "https://maps.google.com/?cid=7131519754511374999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.684541
 longitude: -113.272480

@@ -8,7 +8,6 @@ description: ""
 address: "110 Genesis Drive, Stony Plain, AB T7Z 0G6"
 neighborhood: "Stony Plain"
 phone: "(780) 224-4227"
-website: "http://www.milkandhoneybeautystudio.com/"
 google_maps_url: "https://maps.google.com/?cid=18115266564762577076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.511253
 longitude: -114.002533

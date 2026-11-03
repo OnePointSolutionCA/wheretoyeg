@@ -8,7 +8,6 @@ description: "Hairy Tales Pet Grooming — pet grooming in Edmonton, Edmonton. 3
 address: "15014 83 Ave NW, Edmonton, AB T5R 3T2"
 neighborhood: "Edmonton"
 phone: "(587) 597-2206"
-website: "https://hairytales.ca/"
 google_maps_url: "https://maps.google.com/?cid=5369219915880975416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "10:00 AM–3:00 PM"

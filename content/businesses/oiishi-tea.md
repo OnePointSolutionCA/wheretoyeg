@@ -8,7 +8,6 @@ description: ""
 address: "2230 Trumpeter Wy NW #107, Edmonton, AB T5S 0N5"
 neighborhood: "Edmonton"
 phone: "(780) 847-0111"
-website: "https://oiishitea.ca/"
 google_maps_url: "https://maps.google.com/?cid=8636600260897613893&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.589219
 longitude: -113.679049

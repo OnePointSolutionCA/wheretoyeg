@@ -9,7 +9,6 @@ rating: 4.4
 review_count: 16
 tier: "featured"
 phone: "(780) 655-5131"
-website: "http://dentalemergencyedmonton.ca/"
 google_maps: "https://maps.google.com/?cid=16471403498816142436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/emergency-dentists.jpg"

@@ -8,7 +8,6 @@ rating: 4.2
 review_count: 39
 tier: "featured"
 phone: "(780) 945-4709"
-website: "https://www.melcor.ca/retail/alberta/spruce-grove/westgrove-common/"
 google_maps: "https://maps.google.com/?cid=11725588023396051987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/westgrove-common.jpg"

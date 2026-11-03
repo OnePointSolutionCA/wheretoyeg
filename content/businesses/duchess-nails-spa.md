@@ -8,7 +8,6 @@ description: ""
 address: "37 Athabascan Ave Unit 109B, Sherwood Park, AB T8A 4H3"
 neighborhood: "Sherwood Park"
 phone: "(780) 884-9390"
-website: "http://duchessnailsandspa.cloveronline.com/"
 google_maps_url: "https://maps.google.com/?cid=2003012753328114405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.536109
 longitude: -113.323004

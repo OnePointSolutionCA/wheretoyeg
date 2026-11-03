@@ -8,7 +8,6 @@ description: ""
 address: "8023 86 Ave NW, Edmonton, AB T6C 1J2"
 neighborhood: "Edmonton"
 phone: "(587) 982-5052"
-website: "http://www.thelittlebakeshop.ca/"
 google_maps_url: "https://maps.google.com/?cid=9747413509422753780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.521610
 longitude: -113.451843

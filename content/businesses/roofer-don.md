@@ -8,7 +8,6 @@ description: ""
 address: "12726 95a St NW, Edmonton, AB T5E 3Z6"
 neighborhood: "North Edmonton"
 phone: "(587) 783-9174"
-website: "http://www.rooferdon.com/"
 google_maps_url: "https://maps.google.com/?cid=3824843643861887619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.585670
 longitude: -113.489270

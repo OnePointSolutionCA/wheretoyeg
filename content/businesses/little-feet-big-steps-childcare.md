@@ -8,7 +8,6 @@ description: ""
 address: "121 Town Crest Rd #117, Fort Saskatchewan, AB T8L 0G7"
 neighborhood: "Fort Saskatchewan"
 phone: "(587) 708-9006"
-website: "http://www.littlefeetbigsteps.ca/"
 google_maps_url: "https://maps.google.com/?cid=11020264457055489965&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.681945
 longitude: -113.239069

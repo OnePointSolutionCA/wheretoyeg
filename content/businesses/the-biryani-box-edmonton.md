@@ -8,7 +8,7 @@ description: "The Biryani Box Edmonton — a indian spot in Edmonton, Edmonton. 
 address: "4440 Calgary Trl NW, Edmonton, AB T6H 5W6"
 neighborhood: "Edmonton"
 phone: "(825) 480-1666"
-website: "https://www.thebiryanibox.ca/edmonton"
+website: "https://www.thebiryanibox.ca/"
 google_maps_url: "https://maps.google.com/?cid=12787959490764309539&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "12:00 PM–9:00 PM"

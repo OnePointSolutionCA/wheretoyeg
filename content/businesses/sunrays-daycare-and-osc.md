@@ -8,7 +8,6 @@ description: ""
 address: "6204 29 Ave, Beaumont, AB T4X 0H5"
 neighborhood: "Beaumont"
 phone: "(587) 474-1042"
-website: "https://sunraysdaycare.ca/"
 google_maps_url: "https://maps.google.com/?cid=788132980911917082&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.339550
 longitude: -113.431544

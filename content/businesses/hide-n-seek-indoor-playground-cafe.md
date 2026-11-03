@@ -8,7 +8,7 @@ description: "Hide N Seek Indoor Playground & Cafe — indoor playground in West
 address: "10830 170 St NW, Edmonton, AB T5S 2H7"
 neighborhood: "West Edmonton"
 phone: "(780) 482-7244"
-website: "https://www.hidenseekplayground.ca/hnsedm/"
+website: "https://www.hidenseekplayground.ca/"
 google_maps_url: "https://maps.google.com/?cid=9303942804616705720&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "9:30 AM–8:00 PM"

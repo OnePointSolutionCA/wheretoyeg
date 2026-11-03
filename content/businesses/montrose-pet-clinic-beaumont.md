@@ -8,7 +8,6 @@ description: ""
 address: "6002 29 Ave, Beaumont, AB T4X 0H5"
 neighborhood: "Beaumont"
 phone: "(780) 929-7363"
-website: "http://www.montrosepetclinic.com/"
 google_maps_url: "https://maps.google.com/?cid=7402331436487793792&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.338980
 longitude: -113.428431

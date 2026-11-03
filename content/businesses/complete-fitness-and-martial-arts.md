@@ -8,7 +8,6 @@ description: ""
 address: "40 Chisholm Ave Unit 60, St. Albert, AB T8N 7K6"
 neighborhood: "St. Albert"
 phone: "(587) 987-1220"
-website: "http://www.stalbertmartialarts.com/"
 google_maps_url: "https://maps.google.com/?cid=12411501390688785781&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.636893
 longitude: -113.570703
