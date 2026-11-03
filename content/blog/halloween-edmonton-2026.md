@@ -9,7 +9,7 @@ tags: ["halloween", "activities", "families", "family-friendly", "fall", "guides
 
 October in Edmonton goes fast. One weekend it's sunflowers, the next it's frost on the windshield. If you want a haunted house, a corn maze or a pumpkin patch this year, you need dates, not vibes. So here they are.
 
-Every event below is a real 2026 event we checked on the organizer's own site or in 2026 news coverage. We kept this list family friendly: no bar nights, and nothing built around drinks. A few of the city's big haunts run licensed bars on site, so we left them off. Dates and prices can change, so check the official link before you drive out.
+Every event below is a real 2026 event we checked on the organizer's own site or in 2026 news coverage. We kept this list family friendly. Dates and prices can change, so check the official link before you drive out.
 
 ## Quick list: Halloween in Edmonton 2026
 

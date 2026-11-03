@@ -9,7 +9,7 @@ tags: ["christmas", "holiday", "markets", "winter", "activities", "guides"]
 
 Christmas market season in Edmonton is short. Most of the good ones land on two or three weekends between late November and early December, and the dates are announced months ahead. Here is what is confirmed for 2026 so you can plan your gift shopping now.
 
-Every market below is a real 2026 event we checked on the organizer's own site or the local municipal or tourism site. We kept this guide to craft and holiday markets without a drinks focus. Edmonton's biggest outdoor Christmas market features mulled wine, so we left it off. Hours and prices can change, so check the official link before you go.
+Every market below is a real 2026 event we checked on the organizer's own site or the local municipal or tourism site. Hours and prices can change, so check the official link before you go.
 
 ## Quick list: Christmas markets in Edmonton 2026
 
