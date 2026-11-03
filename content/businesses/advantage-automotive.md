@@ -24,7 +24,7 @@ photos:
   - "/photos/advantage-automotive-g1.jpg"
   - "/photos/advantage-automotive-g2.jpg"
 rating: 4.9
-review_count: 133
+review_count: 134
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "mechanics"]
@@ -33,28 +33,23 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Amber Duffield"
     rating: 5
-    date: "2026-08-08"
     comment: |
       Absolutely phenomenal service, from the first call on. Mike was the only mechanic I had called who took the time to listen to what our issue was before we got our car towed to the shop.
       He set realistic expectations, and the  found the issue and had it fixed far faster than estimated. Costs were incredibly reasonable for the work done.
+  - name: "Nic West"
+    rating: 5
+    comment: |
+      Amazing service start to finish. Came in from out of town with my car broken down, called at least 5 other mechanics and Mike was the first one who didn't sound like I was an inconvenience for needing my car looked at. Asked follow up questions was very upfront about prices. Was able to see my car same day, had it fixed and arranged payment and pickup in a way that was the most convenient to me. One of the best experiences I've ever had with a mechanic.
   - name: "Ty Wilkins"
     rating: 5
-    date: "2026-05-15"
     comment: |
       My car died on the Anthony Henday and the tow truck driver said one of his customers spoke very highly of the mechanics here. I was impressed when we arrived: it's a very clean shop. They had my alternator issue diagnosed and repaired by the end of the day at a great price. Paired with the friendly advice from Dennis and Mike, I can say I look forward to my next automotive breakdown lol. You can trust these guys for excellent work 💯
-  - name: "jordan dhillon"
+  - name: "Lillian Mah"
     rating: 5
-    date: "2025-10-03"
     comment: |
-      I brought my truck in to have a new exhaust installed, and Mike’s quote was very fair. He got me in quickly and took care of the job. After the initial install, the tips weren’t sitting evenly, but Mike had me back in, re-adjusted everything, and made sure it was right at no extra charge. I also noticed he polished up the tips again, which was a really thoughtful touch. It’s clear Mike cares about the quality of his work and his customers. I’ll definitely be coming back.
-  - name: "jeffrey mcelroy"
+      Okay ladies - this mechanic -Mike- you can trust. My first time at this shop - I brought my old in very good condition Honda Accord to him because I needed a shop close to home. Mike diagnosed the problem, explained in detail the problem, the fix and the cost .  He takes care of your vehicle like it’s his own. Thanks Mike for repairing my car!
+  - name: "Shayla L"
     rating: 5
-    date: "2026-06-18"
     comment: |
-      I was very impressed with the honest quote on work and the job was done on time. It was also nice to have them advise me of possible future issues they noticed without the pressure. Very good experience with them!
-  - name: "JAY FEZ"
-    rating: 5
-    date: "2025-08-12"
-    comment: |
-      My daughter’s car had front end issues and AC that did not work. My normal shop could not repair it properly. Went off the the reviews about Advantage and decided to give them a try. I’m sure glad I did. They easily diagnosed the issues and repaired them in a timely matter and at a reasonable price. Very friendly and easy to deal with. I will definitely use them as my new shop. Would recommend to anyone to give them a try.
+      Wonderful experience working with Mike. He explained things in a way that was easy to understand and the work was completed in a convenient amount of time. I’ll definitely be using Advantage Automotive in the future.
 ---

@@ -31,15 +31,8 @@ tags: ["edmonton", "physiotherapy"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Mya Gaumond"
-    rating: 5
-    date: "2026-05-27"
-    comment: |
-      Eric Franks was my physio therapist for a little longer than three months. I sprained my knee and needed to play a tournament for volleyball in two months. Eric was able to help me recover stronger than what I thought was possible in the time frame. He's very professional and an amazing physiotherapist. He makes sure you are comfortable and has the best excersises to strengthen the muscles and limbs. He's very easy to talk to and makes every appointment enjoyable, even when there's little progress made. Truly an amazing experience and a great professional, 10/10 recommend.
-      Thank you so much for helping me recover!
   - name: "Wesley Jones"
     rating: 5
-    date: "2026-04-28"
     comment: |
       Location: Bright with lots of natural light, well maintained, comfortable, and pretty quiet even with multiple people being treated.
       
@@ -50,18 +43,25 @@ reviews:
       The physio was high quality. I did several assessment movements that I have not been asked to do by other physiotherapists, and she told me exactly which muscles were struggling and explained the relevant anatomy to me. I was provided with a large number of exercises that did make a difference and I recovered quickly. I attribute some of the quick recovery to it not feeling like she was going through the motions, and each session consisted almost entirely of manual manipulation and pressure, which helped work out troubled spots and knots in the span of a single session. I literally asked how to describe it to a massage therapist so I could replicate the experience outside of an injury context.
       
       10/10 would recommend Mariah and this clinic.
-  - name: "Teya Salas"
+  - name: "Mya Gaumond"
     rating: 5
-    date: "2026-05-17"
     comment: |
-      I want to express my sincerest gratitude on Nilam! She is a kind-hearted physiotherapist who knows how to listen to her client and help them recover as best as she can with different ways she finds appropriate.
-      
-      I would also like to thank the staff of this place as they always greet you with a smile as soon as you arrive at the facility. They are awesome and welcoming! :)
+      Eric Franks was my physio therapist for a little longer than three months. I sprained my knee and needed to play a tournament for volleyball in two months. Eric was able to help me recover stronger than what I thought was possible in the time frame. He's very professional and an amazing physiotherapist. He makes sure you are comfortable and has the best excersises to strengthen the muscles and limbs. He's very easy to talk to and makes every appointment enjoyable, even when there's little progress made. Truly an amazing experience and a great professional, 10/10 recommend.
+      Thank you so much for helping me recover!
   - name: "Christna Garcia"
     rating: 5
-    date: "2026-02-20"
     comment: |
       I’m so grateful for this clinic! Mariah has been incredible in helping me recover after two accidents and manage the ongoing strain from it. I feel such relief in each visit.
       
       The receptionist and clinic is warm and welcoming, and the coffee and hot chocolate are such a thoughtful touch. Highly recommend!
+  - name: "Teya Salas"
+    rating: 5
+    comment: |
+      I want to express my sincerest gratitude on Nilam! She is a kind-hearted physiotherapist who knows how to listen to her client and help them recover as best as she can with different ways she finds appropriate.
+      
+      I would also like to thank the staff of this place as they always greet you with a smile as soon as you arrive at the facility. They are awesome and welcoming! :)
+  - name: "Stephen Burdett"
+    rating: 2
+    comment: |
+      Our family has attended for various reasons for 5 years.  We have seen a lot of staff turn over, booking miscommunications etc.  The staff members have been kind and approachable, but have not seen much progress with injuries/pain.  We’ve moved to other clinics and noticed improvements in the areas noted above.  Experience is likely heavily dependent on your PT/RMT, or injury?
 ---

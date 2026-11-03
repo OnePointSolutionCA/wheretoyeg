@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/action-security-locksmiths-1.jpg", "/photos/action-security-locksmiths-2.jpg", "/photos/action-security-locksmiths-3.jpg"]
 rating: 4.7
-review_count: 161
+review_count: 164
 price_range: "$$"
 amenities:
 
@@ -35,6 +35,14 @@ reviews:
       Vincent is extremely professional and knowledgable and solved our lock and door problems.  He worked hard and made sure that all of our aging locks and doors were working smoothly  before he left. It was clear to us that Vincent really enjoyed his work.
       We are very impressed with Vincent and his company.
       We would highly recommend this company and Vincent for anyone considering locksmith repairs and services.
+  - name: "Don Purcell"
+    rating: 5
+    comment: |
+      I have a cast iron bank that requires a key which was lost in the '60s. This bank is from the '40s. They're going to cut two new keys for me. Might take him a week or so but at least I don't lose the original lock and no extra scratches. Thanks guys
+  - name: "nick paz"
+    rating: 5
+    comment: |
+      These people are absolutely wonderful and professional and i highly recommend them to anyone. Vincent is an absolute legend for help me out with i was having car trouble. Thank you guys so much!!
   - name: "Nick"
     rating: 5
     comment: |
@@ -47,14 +55,4 @@ reviews:
       The place was clean, and their staffs were friendly and professional. The service was very quick that I have been in and out of the place for about less than 15 minutes.
       
       Davis was the one who helped me. He was very polite and knowledgeable of his craft. Thank you for your help and very efficient work!
-  - name: "Water Melon"
-    rating: 5
-    comment: |
-      Amazing service! Timely and efficient, shout out to Vincent for being an exceptional professional 😊
-  - name: "ANDREA GUERRERO"
-    rating: 5
-    comment: |
-      There are no words to describe how much they helped us, we had a problem with an old lock and they helped us in just 10 minutes.
-      
-      The place is spacious and clean, the staff is friendly and the prices are affordable. 100% recommendable
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/affinity-dental---mayfield-common-1.jpg", "/photos/affinity-dental---mayfield-common-2.jpg", "/photos/affinity-dental---mayfield-common-3.jpg"]
 rating: 4.9
-review_count: 439
+review_count: 450
 price_range: "$$"
 amenities:
 
@@ -28,28 +28,28 @@ tags: ["edmonton", "dentists"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Avash Raut"
+    rating: 5
+    comment: |
+      As someone who hasn’t had much to any prior dental experience, I was thoroughly impressed!  Every appointment and procedure was absolutely phenomenal. The team is highly professional, exceptionally detailed, and radiates a kind, caring energy that made me feel completely comfortable and at ease.
+  - name: "Maria Theresa Llona Deagle"
+    rating: 5
+    comment: |
+      Very good experience at Affinity Dental! All the staff, Dentist and hygienists are very nice, helpful, and professional. They were so gentle and patient with my kids and made them feel comfortable. The clinic is clean, welcoming, and well-organized. Thank you for taking such great care of my family! Highly recommended! 🦷💙
+  - name: "Danielle Newman"
+    rating: 5
+    comment: |
+      I hated going to the dentist… I avoided it for many years. A friend of mine recommended Dr. Randy at Affinity Dental, and while it’s still not my fav experience in life, I’ve now been a client for over 10 years. If you are a scaredy-cat, definitely try Affinity Dental in Mayfield. Also, shout out to Veronica who is so so so gentle with me during my cleanings. I hope she never retires so I can see her forever. The front desk staff are gems, especially Liz, who makes you feel so safe and taken care of. Wonderful wonderful place - can’t recommend it enough.
+  - name: "NIHILIST WOLFE (Nihilist Wolfe)"
+    rating: 5
+    comment: |
+      This clinic has wonderful and kind staff. They are very accommodating and make you feel at home there. They're transparent with what needs to be done and what is covered under insurance. To the point and simple! :)
+      
+      - Dan Dutton
   - name: "Chase Campeau"
     rating: 5
     comment: |
       The receptionists are very nice. Helped me with my insurance problems and were so patient despite how late I dragged my appointment. Also the assistants in the chair were so good to me and helped me breathe through the process as it has been a long time since I've gotten numbed. The dentist was friendly and did an amazing job on my teeth, I barely even notice the calculus buildup from my braces.
       
       Thanks everyone, really know how to make a native feel welcomed and appreciated.
-  - name: "Edith Rhine"
-    rating: 5
-    comment: |
-      Dr. Crowell should be very pleased with his staff that represents his clinic on a daily basis. Liz, Veronica are 2 very amazing, kind and caring people making going to the dentist a pleasure( if you can say that about a dentist appt 😁) I drive 30 minutes one way just to continue attending the clinic and receiving excellent service always !! Would recommend this clinic and people any day, please keep up the amazing service !!
-  - name: "Tammendra De Kauwe"
-    rating: 5
-    comment: |
-      I had a fantastic experience at Affinity Dental!! Friendly staff!! Dr. Southwood and Tracy are professional, gentle and they take time to explain every step of the procedure. The office is spotless, I had two cavity fillings done completely pain-free. I highly recommend this dental clinic to anyone looking for a trustworthy and compassionate dentist.
-  - name: "Janet Reiniger"
-    rating: 5
-    comment: |
-      Thank you to Taruna and Dr Randy for your warm empathy , encouragement and professionalism .
-      After taking a break from going to the dentist for “several” years, there was no judgment and I will not hesitate to go back in 6 months .
-      For anyone who experiences anxiety at the dentist, you will be put at ease here .
-  - name: "Cindy Bouw"
-    rating: 5
-    comment: |
-      I had a traumatic experience with a dentist as a child. My fear continued. I only saw the dentist for emergencies. I have found Randy and Marisa and albeit I am still nervous I am no longer scared. Everything is explained, they go very slow when I need it I feel blessed to have found this dental clinic!
 ---

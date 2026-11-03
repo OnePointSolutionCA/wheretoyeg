@@ -22,7 +22,7 @@ hours:
 photos:
   - "/photos/adore-nails-spa-g1.jpg"
 rating: 4.8
-review_count: 670
+review_count: 682
 price_range: "$$$"
 amenities:
   - "Family Friendly"
@@ -33,25 +33,25 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Keely Thomas"
     rating: 5
-    date: "2026-05-18"
     comment: |
       I love everyone here! I’ve had pedicures and multiple sets of nails done here! Recently I got my dream birthday set of nails done and they look better than the pintrest photos I gave them as inspo! I’m so happy with them thank you so much! Emmy is a superstar!!
-  - name: "Izabella Tanner"
+  - name: "Shandi Rankin"
     rating: 5
-    date: "2025-12-19"
     comment: |
-      Never have a bad experience when I come here, they are always super welcoming and inviting. Today I went in for my Christmas set and I couldn’t be more happy with them. Mila did such a great job on the designs. I left there feeling very happy.
-  - name: "Jennifer Tucker"
+      Fantastic service, as well as patient while choosing colours. Nailtech have a great eye for designs and coliur matching. Essentially we loved our visit. Will be back
+  - name: "Kathy Giroux"
     rating: 5
-    date: "2026-08-24"
     comment: |
-      Mila is absolutely amazing! My nails turned out perfect.. the shape is flawless, so clean and precise, and the ombré is blended beautifully. She has such an eye for detail and took the time to make sure every nail was exactly right. Easily one of the best sets I’ve had. Highly recommend Mila! 💅
+      Have been coming here for 6 years and today I brought both of my sisters in law and what an amazing experience!! Definitely recommend for last minute planning, the staff are very respectful and the nail art is out of this world.  We had the paraffin wax treatment as well
   - name: "Candice Gallichan"
     rating: 5
-    date: "2026-08-07"
     comment: |
       My mother in law had Kim and I had Viun.  Fantastic job. Tried the almond shape with a nice black glitter.
       Viun was very fast and efficient. 10/10 recommend. My mother in law got the round shape and a fun gasoline shine color.
       
       I will return!
+  - name: "gabby Kotylak"
+    rating: 5
+    comment: |
+      amy is amazing! she does my nails everytime and i love them, she is great at her job!!
 ---

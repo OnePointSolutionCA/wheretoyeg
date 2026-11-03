@@ -30,33 +30,26 @@ tags: ["edmonton", "day-spas"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Roisin Murphy"
+    rating: 5
+    comment: |
+      I cannot recommend Haleema highly enough! Her professionalism is second to none, and from the moment you walk through the door, you feel completely welcomed and cared for.
+      The quality of her treatments and the products she uses are exceptional. Haleema is incredibly knowledgeable, attentive, and passionate about what she does, and it truly shows in every appointment. I always leave feeling refreshed, relaxed, and looking my very best.
+      Her services are outstanding and consistently exceed my expectations. I genuinely look forward to every appointment and always rebook before I leave. If you’re looking for someone who is highly skilled, professional, and dedicated to delivering the best experience, Haleema is the one. I would recommend her to anyone without hesitation!
+  - name: "Ola Mcintosh"
+    rating: 5
+    comment: |
+      I’m only giving five stars as that is the highest possible! Haleema is amazing! She is personable and caring and is an expert in skincare and treatments. I always feel relaxed and happy when I have seen Haleema for a facial! I am looking forward to my next visit as I am trusting her to make me look my best for my wedding!
+  - name: "Shawnene Schultz"
+    rating: 5
+    comment: |
+      I have been going to Haleema for almost a year and travel from outside of st. albert. She is so worth taking the drive if you’re out of town to see. I have seen other practitioners over the years and she takes so much pride in her craft I always know it’s money well spent. about to mention she is the kindest human you will ever come across that is icing on the cake! Can’t wait to see her practice grow!
   - name: "Kathy Junas"
     rating: 5
-    date: "2026-08-26"
     comment: |
       I went to see Haleema for the first time and had microdermabrasion,dermaplaning, and red light therapy. I don’t think my skin has ever felt so good. I definitely received 5 star treatment with a relaxing and professional experience.
-  - name: "Cammille Fedun"
-    rating: 5
-    date: "2026-04-07"
-    comment: |
-      I have been seeing Heleema for over 15 years maybe even closer to 20 and every time I go see her I always leave feeling so much better than when I got there. She is a true light and takes so much pride in her practice. I highly recommend seeing her for all of your skin needs.
   - name: "Roxana Necsa"
     rating: 5
-    date: "2025-08-08"
     comment: |
       Absolutely amazing experience! From the moment I walked in, I felt welcomed, relaxed, and truly cared for. The atmosphere at Aesthetic Plus Holistic is beautiful and calming, and every detail is focused on making you feel comfortable. Haleema is not only professional but also incredibly kind and attentive, taking the time to understand my needs and explain everything clearly. I left feeling refreshed, glowing, and completely at ease. It’s rare to find a place that combines expertise with such genuine care – Aesthetic Plus Holistic does it perfectly! Highly recommend to anyone looking for both results and a truly holistic, pampering experience.
-  - name: "Ivy Sacobie"
-    rating: 5
-    date: "2025-06-21"
-    comment: |
-      I went to the open house at Aesthetic Plus Holistic and had such a great time! The place is really calm and welcoming, and the staff are so kind and helpful. I tried the red light therapy and it was super relaxing.
-      
-      They also give free facial consultations, which was awesome. They carefully looked at my skin, explained everything in simple words, and made a plan just for me. I left feeling really good about it.
-      
-      I definitely recommend Aesthetic Plus Holistic if you want great care in a nice, peaceful place!
-  - name: "Zanib hajra"
-    rating: 5
-    date: "2025-08-30"
-    comment: |
-      A wonderful experience! I received a HydraFacial today, and my skin feels so refreshed and glowy. The entire session was incredibly relaxing and peaceful. Haleema made me feel completely at ease.  She  was warm, attentive, and took great care of my sensitive skin. She explained each product she used and made sure everything was suitable for my skin type, which I really appreciated. It was such a pampering experience, and the results speak for themselves. I’ll definitely be coming back for another calming facial!
 ---

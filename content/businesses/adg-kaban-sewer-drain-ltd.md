@@ -23,15 +23,28 @@ hours:
 photos:
   - "/photos/adg-kaban-sewer-drain-ltd-g1.jpg"
 rating: 5.0
-review_count: 53
+review_count: 52
 amenities: []
 tags: ["edmonton", "residential"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Mike B"
+    rating: 5
+    comment: |
+      These folks are awesome. I needed some things fixed and some replaced in my home, I contacted Troy for a quote. He provided an accurate quote, actually came in a little under the quoted price. Lee and Seth did an amazing job. went above and beyond what we expected and they were quick and efficient. great job and everything looks awesome. definitely would recommend these guys any time.
+      
+      Thank you for the exceptional service.
+  - name: "Denise Elvina"
+    rating: 5
+    comment: |
+      Had an issue with my toilet flushing. Troy was able to send out someone to look at the next day. The guys knew exactly the issue and were able to make the repairs quickly & everything was working perfectly. Very reasonably priced. Highly recommend & will be using them again.
+  - name: "Scott H."
+    rating: 5
+    comment: |
+      I was in a bit of a time crunch due to an unexpected situation so I reached out to Troy to see if he could help. He replied last night, sent out some great guys from the team today (thanks Lee & Seth) to remedy a plumbing issue. They did the job quickly and beautifully. Highly recommend this great company in St. Albert. And now, I finally found a plumber! Thanks very much Troy, really appreciate the quick turnaround.
   - name: "Maxine Mccormick"
     rating: 5
-    date: "2026-07-07"
     comment: |
       Last Saturday our sump pump stopped working and it started to flood the basement
       After calling five places they said they couldn’t come over to help until the following Friday. Then I called ADG sewer and drain and spoke with Troy Kaban. He said he was just finishing installing a pump and said he would come over. 20 minutes later he arrived at the door with a new pump and installed it.
@@ -40,33 +53,6 @@ reviews:
       Now Ron and ADG are our new plumbers for the future. We highly recommend Ron and ADG for anyone looking for a great plumber and impeccable service.Thanks again Ron!!
   - name: "Nate James"
     rating: 5
-    date: "2026-03-29"
     comment: |
       Had Troy and Lee come out to our acreage to connect 3 sinks and our dishwasher. They are a perfect blend of professional and customer service. We bonded over old jobs, dogs, and hockey. Extremely efficient as well! Would recommend to anyone looking for the job to be done right and a very reasonable price!
-  - name: "Pierre Racicot"
-    rating: 5
-    date: "2026-03-12"
-    comment: |
-      Good day. My house furnace quit functioning this morning. I emailed Kaban about the situation and they responded very quickly in the morning. They were able to replace non functioning key items and do an overall clean of the furnace. The gentleman who came over was very professional and replaced all items in a very quick timely matter. Highly recommend this company! Thank you Kaban
-  - name: "Tim Osborne"
-    rating: 5
-    date: "2026-06-22"
-    comment: |
-      After days of rain, our sump pump died and was full to the brim. Within a couple of hours, the good folks at ADG had come over and replaced the sump. Saved us what would likely have been a major disaster within the next 24 hours!
-  - name: "Scott Greenhalgh"
-    rating: 5
-    date: "2024-11-15"
-    comment: |
-      Troy and his team are fantastic.
-      
-      When my 15 year old water heater was on the way out,  they came in and  installed a new water heater in my house.  The price was very fair, the installation was clean and well done and they answered my questions and kept me informed along through the process.
-      
-      Their communication leading up the appointment, taking the time to share and talk about what models they used and their experience with them was appreciated.
-      
-      A short while later, I had some issues with my master bathroom shower.  I called and they were out shortly after to snake my shower drain, helped clean my roof vent and got the problem solved!
-      
-      A caring company that goes the extra mile to make sure you are happy with your service.
-      
-      Thanks
-      Scott
 ---

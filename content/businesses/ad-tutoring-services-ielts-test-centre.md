@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/ad-tutoring-services-ielts-test-centre-1.jpg", "/photos/ad-tutoring-services-ielts-test-centre-2.jpg", "/photos/ad-tutoring-services-ielts-test-centre-3.jpg"]
 rating: 4.6
-review_count: 276
+review_count: 282
 price_range: "$$"
 amenities:
 
@@ -32,14 +32,6 @@ reviews:
     rating: 5
     comment: |
       I had a great experience with A&D Tutoring in Edmonton while preparing for my IELTS exam. The team was welcoming, professional, and very supportive throughout the process, and their guidance really helped improve my confidence and understanding of the test. As a newcomer in Canada, I truly appreciated their patience and encouragement. I will definitely be coming back soon for more tests and preparation sessions. Highly recommended for anyone looking to improve their English skills and succeed in IELTS!
-  - name: "Prayas Shrestha"
-    rating: 5
-    comment: |
-      I had a great experience at the IELTS test centre where I took my exam in January. From the moment I arrived, the staff were extremely welcoming, professional, and supportive, which really helped reduce my exam-day stress.
-      
-      The registration and verification process was smooth and well-organized, and the staff clearly explained every step before the test began. They were patient, polite, and always ready to help whenever candidates had questions or concerns. The exam rooms were clean, quiet, and comfortable, creating a very suitable environment for concentration.
-      
-      Overall, the wonderful attitude and efficiency of the staff made a big difference in my experience. I truly appreciate their support and professionalism, and I would highly recommend this IELTS centre to anyone planning to take the exam.
   - name: "Jareth Digor"
     rating: 3
     comment: |
@@ -48,12 +40,31 @@ reviews:
       The area felt very cramped, with narrow walkways and limited space to wait or even use the washroom comfortably. I honestly expected a more professional and comfortable testing environment.
       
       I came from a country where IELTS exam venues are usually held in hotels or well-presented buildings that make candidates feel comfortable and at ease during such an important exam. Unfortunately, this venue did not feel worth the payment.
-  - name: "Samira Mohammadnezhad"
+  - name: "Saab Gill"
+    rating: 1
+    comment: |
+      I took my IELTS exam at A&D Phonetic Reading Centre, Inc. (16412 – 100 Ave) check this location ,
+      and my experience was extremely upsetting and unacceptable.👎🏻Being a girl i felt so upset and Bullied by staff member
+      
+      During the check-in process, I was singled out by a staff member and forced to remove my hoodie, while many other students standing around me wearing similar clothing were not asked to do the same. This clearly showed inconsistent and unfair treatment.
+      
+      When I questioned why I was being specifically targeted, the staff member could not provide any valid explanation. I repeatedly requested her to either allow me to keep my hoodie on or apply the same rule to everyone, but she ignored my concerns completely.
+      
+      For identification purposes, the staff member was a short-height woman, approximately 40- 50 years old, with short “boy-cut” hair, appearing to be of chinnese or East Asian background. I am describing her so that management can review CCTV footage from that date and time and identify her behavior.
+      
+      I also informed her that I was feeling extremely cold and uncomfortable, especially as I was wearing a short top underneath. Despite this, she showed no empathy or professionalism. Because of this situation, I was shivering during my exam and felt physically unwell, which directly impacted my performance despite being well prepared.
+      
+      This kind of behavior is completely unacceptable in a professional testing environment. No candidate should feel targeted, humiliated, or physically uncomfortable before such an important exam.
+      
+      I strongly urge the management to review the CCTV footage of December 20 ,2025,
+      ( 9 Am )investigate this incident seriously, and ensure that all staff follow fair, respectful, and consistent procedures for every candidate.
+      
+      Based on my experience, I would not recommend this test centre to anyone.
+  - name: "Оля Пукас"
     rating: 5
     comment: |
-      I recently took my IELTS test at this centre and I highly, highly recommend it. What stood out for me was their incredible support—they are very responsive to emails and extremely helpful in guiding you through the process if you face any issues.
-      On the exam day, the environment was very calming for me, and I felt much less anxious than I expected. My IELTS Speaking examiner was such a positive and energetic person; as soon as I started speaking with him, all my nervousness disappeared. I ended up getting a 7.5 in Speaking, which I was thrilled about!
-      Overall, the people here are very kind and supportive. If you are looking for a stress-free environment to take your test, this centre is the best choice!
+      Recently I passed my IELTS academic exam at A&D tutoring center . I really liked the spot , there weren’t many exam takers , the procedure of registration was fast and clear .
+      Staff is quite helpful and supportive . They deserve 5 stars ⭐️ ⭐️⭐️⭐️⭐️
   - name: "Ashish Anghan"
     rating: 4
     comment: |

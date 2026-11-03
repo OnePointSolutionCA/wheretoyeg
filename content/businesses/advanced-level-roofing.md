@@ -13,18 +13,18 @@ google_maps_url: "https://maps.google.com/?cid=17534750268745426713&g_mp=Cidnb29
 latitude: 53.590802
 longitude: -113.596157
 hours:
-  monday: "9:00 AM–5:00 PM"
-  tuesday: "9:00 AM–5:00 PM"
-  wednesday: "9:00 AM–5:00 PM"
-  thursday: "9:00 AM–5:00 PM"
-  friday: "9:00 AM–5:00 PM"
-  saturday: "Closed"
+  monday: "8:00 AM–6:00 PM"
+  tuesday: "8:00 AM–6:00 PM"
+  wednesday: "8:00 AM–6:00 PM"
+  thursday: "8:00 AM–6:00 PM"
+  friday: "8:00 AM–6:00 PM"
+  saturday: "10:00 AM–4:00 PM"
   sunday: "Closed"
 photos:
   - "/photos/advanced-level-roofing-g1.jpg"
   - "/photos/advanced-level-roofing-g2.jpg"
 rating: 4.5
-review_count: 247
+review_count: 249
 price_range: "$$$$"
 amenities:
   - "Wheelchair Accessible"
@@ -34,7 +34,6 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Carloize Pinili"
     rating: 5
-    date: "2026-06-04"
     comment: |
       I recently had the pleasure of working with Advanced Level Roofing, and I couldn't be more satisfied with the experience. From the initial consultation to the completion of the project, their team demonstrated professionalism, expertise, and outstanding customer service.
       
@@ -47,25 +46,18 @@ reviews:
       I highly recommend Advanced Level Roofing to anyone looking for a reliable, knowledgeable, and trustworthy roofing company. They exceeded my expectations, and I would not hesitate to use their services again in the future.
   - name: "Hector Villania"
     rating: 5
-    date: "2026-05-22"
     comment: |
       Troy and Nicholas did a great job for our roof repair. Great workmanship and customer service. I would recommend them.
-  - name: "Jeff Thiel"
+  - name: "Bob Maslanko"
     rating: 5
-    date: "2026-02-04"
     comment: |
-      Fantastic group of people, very professional and got the Job done to complete satisfaction. Even had a small issue with remaining debris, we called and they come over next day to clean everything up.
-      Reasonable Prices, Great Warranty and most of all peace of mind!
-      Highly recommend to use them.
-  - name: "Richard Pratch"
+      Advanced Level Roofing repaired our roof after a wind storm blew off shingles. They were very thorough and reliable. I’ve hired them to install electric heat trace on our roof to prevent ice damming issues we have.
+  - name: "Tyler McGregor"
     rating: 5
-    date: "2026-05-11"
     comment: |
-      Staff was courteous and returned my call when I was looking for a quote. Spoke to 3 other companies requesting a quote. They either didn’t show or told me I would have to call back. Crew that did the job was on time, courteous about the noise and made sure they were not disturbing the neighbours. Work was done fast, within 2 days. Clean up was well done. Laid down tarps used a magnet to pick up any nails. Admin staff kept me in the loop throughout the process so we always knew when things were planned. Roofing is an expensive bill for any home owner. These guys did a 50% down with a 50% when job was completed and the final price matched the quote.they did not hit with any extras. Would definitely use them again.
-  - name: "Charlene Johnson"
+      Everyone from the support staff at advanced level roofing to the roofing crew were exceptional! Everyone involved were professional and never hesitated in answering any questions I had. I would recommend advanced level roofing to anyone who is looking for an exceptional roof at a reasonable price.
+  - name: "Chris Poirier"
     rating: 5
-    date: "2026-02-17"
     comment: |
-      We knew we needed to have our roof fone andkept putting it off. Tristan was in the neighborhood using a drone to look at roofs in our neighborhood. He stopped by and we set up a visit the next day. He was so thorough and answered all our questions. Even came by again after I changed my mind on the color. He had said said since it was the busy season, we could expect it in the fall, late September. To my Surprise they installed it in August. The crew were fantastic. They took care of all the cleanup. In less then 7 hours it was done.
-      Would recommend them 100%
+      The process was seamless from Nicolas knocking on our door and getting the ball rolling to Amir and his team completing the job quickly, right through to the final inspection. The admin team was also fantastic and addressed all of our questions and concerns promptly. Would highly reccomend to anyone needing their shingles replaced.
 ---

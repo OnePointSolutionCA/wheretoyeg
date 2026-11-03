@@ -5,7 +5,7 @@ category: "activities-fun"
 neighborhood: "Edmonton"
 address: "1949 98 St NW, Edmonton, AB T6N 1L5"
 rating: 4.9
-review_count: 1679
+review_count: 1820
 tier: "featured"
 phone: "(587) 480-7446"
 website: "https://playactivate.com/edmonton-south"
@@ -22,18 +22,18 @@ reviews:
     rating: 5
     comment: |
       First time at this location and had a blast! We went at a later time and even though they were busy, staff went above and beyond when we had issues with our wristbands. Justin, Jeremy, Azalfa, Sora, Gabby, Michael, and Aaron were super friendly. This location has a very nice atmosphere and super fun games. Worth the drive and will 100% be back again!
-  - name: "Calvin Pittao"
+  - name: "Manam Imtiaz"
     rating: 5
     comment: |
-      We had an amazing experience at Activate! My kids had an absolute blast from start to finish and didn't want to leave. They had so much fun, and by the time we got home they were completely worn out—in the best way! It's a fantastic place for kids to burn off energy while having an unforgettable time. We'll definitely be back and highly recommend Activate to other families!
+      Azalfa, Gabby, Justin, Aaron were amazing during my time at Activate. They had very positive attitudes making it a perfect family/friends experience. Very clean and fresh environment. 10/10 recomm. this location
   - name: "Justin Swendsen"
     rating: 5
     comment: |
       Absolutely amazing experience! Activate Edmonton is one of the most fun places I’ve been. The games are exciting, interactive, and perfect for all skill levels. Every room offers a different challenge, so there’s always something new to try. The staff were welcoming, friendly, and made the experience even better. The facility was clean, well maintained, and organized. It was a fantastic way to spend time with friends while staying active. I highly recommend Activate Edmonton and will definitely be coming back!
-  - name: "Ronnie Gay"
+  - name: "Lucas Currie"
     rating: 5
     comment: |
-      Had a great experience, lots of fun with my friends. Michael was super friendly and made sure we were taken care of! Would recommend for anyone looking to work up a sweat and have a good time!
+      I recently visited Activate in South Edmonton with 7 of my colleagues, and we had an absolutely fantastic time! The staff were incredible—a massive shoutout to Chris, who was super accommodating and patient with our group. They even took the time to snap multiple team photos for us, which we really appreciated. The games themselves were a blast, and I was thrilled to rack up enough points to take home a souvenir basketball! I highly recommend this location for team building or just a fun night out.
 hours:
   monday: "11:00 AM–10:00 PM"
   tuesday: "11:00 AM–10:00 PM"

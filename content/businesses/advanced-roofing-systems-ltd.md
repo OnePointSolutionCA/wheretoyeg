@@ -23,37 +23,36 @@ hours:
 photos:
   - "/photos/advanced-roofing-systems-ltd-g1.jpg"
   - "/photos/advanced-roofing-systems-ltd-g2.jpg"
-rating: 4.5
-review_count: 113
+rating: 4.6
+review_count: 114
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "roofing"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Mark Simpson"
+    rating: 5
+    comment: |
+      Advanced Roofing Systems replaced our old tar and gravel flat roof with a state-of-the-art one in 2021. Today Justin came by to help us out by removing debris built up from surrounding trees in preparation for the winter — and didn't even charge us for the service. Terrific customer support from ARS!
   - name: "Brett"
     rating: 5
-    date: "2026-06-25"
     comment: |
       5 stars for Advanced Roofing Systems. They re-did the asphalt shingles on my very outdated garage roof, and installed two vents as requested.
       
       Chris Allard was great to deal with when quoting, scheduling and following up, and John/Marc were fantastic with both the install and clean up. Pricing was very solid (better than a few others I had gotten quoted by), and the warranty on workmanship is fantastic.
       
       Would highly recommend to anyone in Edmonton and area.
-  - name: "Zoey Ngo"
-    rating: 5
-    date: "2026-06-22"
-    comment: |
-      Contacted them to inspect the roof at my new place during the heavy rains we’ve being getting lately. Justin was very responsive and knowledgeable. He pointed out issues with my gutter and cleaned them up nicely. Communication was great from start to finish.
-      Can’t attest for any installation work though.
   - name: "Susan king"
     rating: 5
-    date: "2026-08-13"
     comment: |
       Advance roofing did my roof a few years back with all the rain and the wind. I've had a bit of a leak. There were no issues they came right out and fixed the problem. Did an excellent job.   Anthony was went above and beyond making sure everything was OK. Definitely will recommend them and definitely will get them again. Buy that man a beer or give a bonus ✔️👍
+  - name: "Derek Wynnychuk"
+    rating: 5
+    comment: |
+      Advanced Roofing was great!! Anthony came out to my home and diagnosed the source of my leak and fixed it quickly and for a reasonable price. He inspected my attic and well as my shingles. Anthony gave me real piece of mind knowing my roof is in great shape. I would highly recommend them.
   - name: "Barry Roy"
     rating: 5
-    date: "2026-07-24"
     comment: |
       Imagine our surprise when our 5 year old roof began leaking in three different locations during one of the recent downpours. We contacted 3 different roofing specialists to obtain an inspection and quote to deal with the problem. Justin from Advanced Roofing Systems contacted us immediately and maintained the prompt and professional service throughout the entire estimation process.
       The Advanced Roofing System crew arrived at the first window of opportunity between rain storms and made short work of the old roofing material. The new roof, complete with proper water barrier/ice barrier, new venting and additional attic venting was installed, complete with site clean-up long before supper!

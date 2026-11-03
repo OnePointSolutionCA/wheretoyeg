@@ -13,60 +13,42 @@ google_maps_url: "https://maps.google.com/?cid=7450833487191083380&g_mp=Cidnb29n
 latitude: 53.644589
 longitude: -113.574387
 hours:
-  monday: "7:00 AM–8:30 PM"
-  tuesday: "7:00 AM–8:30 PM"
-  wednesday: "7:00 AM–8:30 PM"
-  thursday: "7:00 AM–8:30 PM"
-  friday: "7:00 AM–8:30 PM"
-  saturday: "8:30 AM–1:00 PM"
+  monday: "7:00 AM–8:00 PM"
+  tuesday: "7:00 AM–8:00 PM"
+  wednesday: "7:00 AM–8:00 PM"
+  thursday: "7:00 AM–8:00 PM"
+  friday: "7:00 AM–7:00 PM"
+  saturday: "8:00 AM–12:00 PM"
   sunday: "Closed"
 photos:
   - "/photos/active-physio-works-st-albert-g1.jpg"
   - "/photos/active-physio-works-st-albert-g2.jpg"
 rating: 4.9
-review_count: 316
+review_count: 284
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "physiotherapy"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Hanin Jaafar"
+  - name: "Munir Bahbah"
     rating: 5
-    date: "2026-06-16"
     comment: |
-      I’ve been going to Active Physio Works after my accident, and I’ve had a wonderful experience every visit. Shahnaz has been helping me with physiotherapy and Natascha with massage therapy, and they are both professional, knowledgeable, and genuinely caring.
-      
-      They always take the time to listen, explain the treatment, and make me feel comfortable. Thanks to their dedication and expertise, I’m feeling so much better and have noticed a significant improvement in my recovery. I truly appreciate the care and support I’ve received and highly recommend Active Physio Works to anyone looking for exceptional treatment. Thank you, Shahnaz and Natascha! 😊
-  - name: "J.G."
+      I had the pleasure to deal with Riley and I am so glad I did! He really actually cares about my issues and dealt with them accordingly. Not like some places where they just want you in and out quick. This place will definitely be my go too and Riley is top notch. Thank you again!
+  - name: "Erik Lange"
     rating: 5
-    date: "2026-06-26"
     comment: |
-      Active Physio Works is an amazing physio clinic .
-      
-      From the front staff to all the Physio therapists I've had the pleasure of meeting.
-      
-      4 years, 3 surgeries later I am able to walk and bend again.
-      
-      But without Marissa this would not be possible.  She's an amazing physio therapist who will actually listen.
-      
-      No mater who you are,  age, background she will always find a way to communicate effectively everything you may need.
-      
-      She will fight to make sure you get the treatments needed for as long as it takes.
-      
-      She's always positive and hopeful and wants you to feel the best you can be.
-      
-      She's inspired me to keep going and to never give up.
-  - name: "Kaitlyn M"
+      I started seeing Riley for Physiotherapy after I tore my Quadriceps Tendon. It is a long road to recovery and Riley was there every step of the way. His expertise and knowledge made the whole process an almost “enjoyable” process. I highly recommend Riley to anyone that needs Physio to help them with their issues.
+  - name: "Curtis Poirier"
     rating: 5
-    date: "2026-06-25"
     comment: |
-      I've been seeing Marissa and her angel hands for a couple years now and I'm so thankful for the treatment I've received. She has given me so much quality of life back. I've had jaw problems for years and thought I just had to deal with it prior to seeing Marissa. That's not the case anymore. She's so knowledgeable about different treatments and it's so helpful!
-      
-      The ladies at the front desk are lovely and so helpful. Everyone I have interacted with at the clinic has been great.
-  - name: "Alexandra Nees"
+      Alyssa McNamara at Active Physio Works is an incredibly experienced and professional physiotherapist—truly one of a kind!  Once in a while, and to my surprise, she either brings out random body parts—like a human spine— from storage somewhere hidden in the backroom or a tablet with only 10% power remaining before it runs out, showing every muscle, tendon, and bone, even with that limited battery to showcase her knowledge and expertise of the human anatomy before it dies! On top of that, she’s a comedic powerhouse—so satirical, witty, and full of charm. If I could give her 10,000 Google stars and $10,000 and include a decade old pre-owned Honda Odyssey to advertise her business to headline my comedy club, that would be a bargain!  People would pay just to see her... even if they didn’t need physio and just want an appointment!  Alyssa makes physiotherapy fun and memorable - highest recommendation possible!
+  - name: "John Tolmie"
     rating: 5
-    date: "2026-05-22"
     comment: |
-      I just ended a one year long treatment after a bad car accident that left me with a concussion and bad neck and back problems.  I would highly recommend this clinic. The girls at the front desk are the sweetest special shoutout Bami and Emily I loved having a little yap with you both and I will miss it from now on. Taylor has got me to a point where I can rebuilt my muscles and work out without being in pain again and I’m incredibly forever thankful for that. Also thanks to Amy who has taken away my fear of chiropractors! I will always come back to see this incredible team if I run into any problems from here on. That being said thank you so much to everyone that made me feel welcome after my accident and gave me hope to feel better.
+      Riley and his team at APW read my experience with rotator cuff surgery, very pleasant and Comfortable. Even when a headset backs, or I was working it too hard Riley corrected me on the ways I should be handling my recovery With the proper home exercises and how often I should be doing them I truly recommend active Physio Work to anybody who has pain issues or discomfort.
+  - name: "Rose Garon"
+    rating: 5
+    comment: |
+      I was recommended to Active Physio Works in St Alberta after my accident and I had a great experience with my recovery!  Riley supported me every step of the way with treatments, exercises and positive support!  Riley is an excellent physiotherapist!  Always a smile and welcoming when I entered the clinic. I have recommended Riley to family and friends and will be my ‘go to’ in the future.
 ---

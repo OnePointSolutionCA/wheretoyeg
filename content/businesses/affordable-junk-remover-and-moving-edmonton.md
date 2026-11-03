@@ -31,17 +31,14 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Jaskaran Gill"
     rating: 5
-    date: "2024-12-19"
     comment: |
       Very affordable and efficient moving company. They helped me in moving to my new home. Did amazing job in handling the stuff and were fast. Also they removed old worn out furniture for me at reasonable and unbeatable price. Recommended!
   - name: "shivani gupta"
     rating: 5
-    date: "2025-04-28"
     comment: |
       Affordable Junk Remover and Moving gave me fast, affordable junk removal in Edmonton. They were on time, professional, and handled my old furniture and mattress quickly. Great service and best prices for junk pickup and moving help!
   - name: "Mohit Ahuja"
     rating: 5
-    date: "2024-09-14"
     comment: |
       I recently used affordable junk removal for a major junk removal job, and I couldn’t be more impressed. From start to finish, their service was top-notch. Scheduling was easy, and the team arrived on time, equipped, and ready to work. They handled everything efficiently, from heavy furniture to piles of old boxes, all while being professional and courteous.
       
@@ -50,12 +47,10 @@ reviews:
       I highly recommend affordable junk removal for anyone needing reliable and responsible junk removal. They made a potentially stressful task smooth and hassle-free!
   - name: "Chandan Sehgal"
     rating: 5
-    date: "2024-09-14"
     comment: |
       Nice crew. Very affordable prices. Had to haul my old A/C’s from the hotel and they made sure that we got the best service at best price. They beat the competitors quotes by 10%. Will definitely call them back.
   - name: "Ame Hdz"
     rating: 5
-    date: "2024-09-26"
     comment: |
       I recently move out and I discovered I needed to throw away multiple items. Quoting around the prices were crazy and the schedules were inflexible. These guys were awesome! Affordable, efficient and offered an excellent price. Highly recommended
 ---
