@@ -8,17 +8,17 @@ draft: true
 tags: ["christmas", "holiday", "lights", "winter", "activities", "families", "guides"]
 ---
 
-The best Christmas lights in Edmonton for 2026 are Candy Cane Lane in Crestwood (December 11 to January 2), Zoominescence at the Edmonton Valley Zoo (from November 27), the Muttart Conservatory's Classic Christmas pyramid (from November 21) and the Alberta Legislature grounds, which light up on December 1. For a walk just outside the city, go to [Leduc Country Lights](/activities-fun/leduc-country-lights).
+The best Christmas lights in Edmonton for 2026 are Candy Cane Lane in Crestwood (December 11 to January 2), Zoominescence at the Edmonton Valley Zoo (late November or early December, check the zoo's page), the Muttart Conservatory's Classic Christmas pyramid (from November 21) and the Alberta Legislature grounds, which light up on December 1. For a walk just outside the city, go to [Leduc Country Lights](/activities-fun/leduc-country-lights).
 
-Every date below comes from the organizer's own website, checked in early November 2026. Where a 2026 date was not posted yet, we say so instead of guessing. We kept this list family friendly. One of the big indoor light festivals serves alcohol on site, so we left it off.
+Every date below comes from the organizer's own website, checked in early November 2026. Where a 2026 date was not posted yet, we say so instead of guessing. We kept this list family friendly and left out events built around drinks.
 
 ## Where are the best Christmas lights in Edmonton in 2026?
 
 | Display | Where | 2026 dates | Cost |
 |---|---|---|---|
 | Classic Christmas at the Muttart | Muttart Conservatory, central Edmonton | Nov 21 to Jan 3 | Regular admission |
-| Zoominescence | Edmonton Valley Zoo | Nov 27 to Jan 3, select nights | Check site |
-| Light Up at the Legislature | Alberta Legislature grounds | Dec 1, 6 to 8 PM | Check site |
+| Zoominescence | Edmonton Valley Zoo | Late Nov or early Dec to Jan 3, select nights (to be confirmed) | Check site |
+| Light Up at the Legislature | Alberta Legislature grounds | Dec 1, 6 to 8 PM | Free |
 | Candy Cane Lane | 148 Street, Crestwood | Dec 11 to Jan 2 | Free, bring a food bank donation |
 | Leduc Country Lights | Near Leduc | Not posted yet | $3 a person |
 
@@ -36,7 +36,7 @@ Every date below comes from the organizer's own website, checked in early Novemb
 
 [Zoominescence](https://www.buildingourzoo.com/events/zoominescence/) turns the Edmonton Valley Zoo (13315 Buena Vista Road) into a trail of light art made by local artists. The Valley Zoo Development Society runs it to raise money for the zoo.
 
-**2026 nights:** November 27 to 29, December 4 to 6, 11 to 13, 18 to 23 and 26 to 31, then January 1 to 3.
+**Posted nights (no year shown yet):** November 27 to 29, December 4 to 6, 11 to 13, 18 to 23 and 26 to 31, then January 1 to 3. The society's events page says December 2026, so check before you go.
 
 **Hours:** 5 to 10 PM, last entry at 9 PM.
 
@@ -58,9 +58,9 @@ The grounds are an easy walk on a clear night. Pair it with a stop at a nearby [
 
 ## Is Leduc Country Lights open in 2026, and what does it cost?
 
-[Leduc Country Lights](/activities-fun/leduc-country-lights) is a walk through light display in the countryside near Leduc, south of Edmonton. It is run entirely by volunteers with the Leduc Kinsmen, and every cent of profit goes back into the Leduc community. Our listing shows a 4.8 rating from 730 Google reviews.
+[Leduc Country Lights](/activities-fun/leduc-country-lights) is a walk through light display in the countryside near Leduc, south of Edmonton. It is run entirely by volunteers with the Leduc Kinsmen, and its profits fund community programs run by the Leduc Kinsmen. Our listing shows a 4.8 rating from 730 Google reviews.
 
-**2026 dates:** Not posted yet when we checked. Last season ran November 29 to December 31, 5 to 9 PM Sunday to Thursday and 5 to 10 PM Friday and Saturday, closed on Christmas Day. Check [leduccountrylights.ca](https://leduccountrylights.ca/) before you drive out.
+**2026 dates:** Not posted yet when we checked. Last season ran November 29 to December 31, 5 to 9 PM Sunday to Thursday and 5 to 10 PM Friday and Saturday, closing at 8 PM on December 24 and 31 and closed on Christmas Day. Check [leduccountrylights.ca](https://leduccountrylights.ca/) before you drive out.
 
 **Cost:** $3 a person, and kids under 2 get in free. Bring exact cash, or pay ahead online through PayPal. There is no card machine at the gate, and you do not need to book a time.
 
@@ -72,11 +72,11 @@ The [Victoria IceWay](/activities-fun/victoria-iceway-skating-trail) winds throu
 
 ## Which Christmas lights in Edmonton are free?
 
-Candy Cane Lane is free, with a food bank donation encouraged. The Legislature grounds are outdoors and open to walk once the lights are on. Leduc Country Lights costs just $3 a person. Zoominescence and the Muttart charge admission.
+Candy Cane Lane is free, with a food bank donation encouraged. The Legislature's Light Up and Celebrate the Season are free. Leduc Country Lights costs just $3 a person. Zoominescence and the Muttart charge admission.
 
 ## How do you plan a Christmas lights night in Edmonton?
 
-- **Pick a quieter night.** Candy Cane Lane is open every night, so a Monday to Thursday visit beats the weekend crowds. Zoominescence is mostly a weekend event, so arrive soon after 5 PM or go on a weeknight: December 21 to 23 or 28 to 31.
+- **Pick a quieter night.** Candy Cane Lane is open every night, so a Monday to Thursday visit beats the weekend crowds. Zoominescence is mostly a weekend event, so arrive soon after 5 PM or go on a weeknight such as December 21 to 23 or 28 to 31, if the posted nights hold.
 - **Dress for standing still.** Walking slowly in the dark at minus 15 feels much colder than a quick walk to the car. Warm boots, a hat and mitts make the night.
 - **Bring cash and a food donation.** Leduc Country Lights takes cash at the gate, and both Candy Cane Lane and Leduc collect for the food bank.
 - **Check the link the day of.** Cold weather closures and schedule changes get posted on the organizers' own pages first.
