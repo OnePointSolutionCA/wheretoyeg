@@ -10,7 +10,7 @@ tags: ["christmas", "holiday", "lights", "winter", "activities", "families", "gu
 
 The best Christmas lights in Edmonton for 2026 are Candy Cane Lane in Crestwood (December 11 to January 2), Zoominescence at the Edmonton Valley Zoo (late November or early December, check the zoo's page), the Muttart Conservatory's Classic Christmas pyramid (from November 21) and the Alberta Legislature grounds, which light up on December 1. For a walk just outside the city, go to [Leduc Country Lights](/activities-fun/leduc-country-lights).
 
-Every date below comes from the organizer's own website, checked in early November 2026. Where a 2026 date was not posted yet, we say so instead of guessing. We kept this list family friendly and left out events built around drinks.
+Every date below comes from the organizer's own website, checked in early November 2026. Where a 2026 date was not posted yet, we say so instead of guessing. We kept this list family friendly.
 
 ## Where are the best Christmas lights in Edmonton in 2026?
 
@@ -72,7 +72,7 @@ The [Victoria IceWay](/activities-fun/victoria-iceway-skating-trail) winds throu
 
 ## Which Christmas lights in Edmonton are free?
 
-Candy Cane Lane is free, with a food bank donation encouraged. The Legislature's Light Up and Celebrate the Season are free. Leduc Country Lights costs just $3 a person. Zoominescence and the Muttart charge admission.
+Candy Cane Lane is free, with a food bank donation encouraged. The Legislature's Light Up and Celebrate the Season are free. Leduc Country Lights costs just $3 a person. The Muttart charges regular admission, and Zoominescence ticket prices were not posted yet when we checked.
 
 ## How do you plan a Christmas lights night in Edmonton?
 
