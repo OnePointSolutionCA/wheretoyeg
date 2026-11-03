@@ -61,7 +61,7 @@ What makes it work for families is the split schedule:
 
 **Who it's for:** Recommended for ages 12 and up. Expect fog, strobe lights, loud noises, fake blood and actors who get close.
 
-**Cost:** $22 per person, $77 for a family of up to 4, or $175 for a group of up to 10. There's a campfire with snacks and warm drinks for after. Tickets are on the [Warwa Woods registration page](https://warwawoods.campbrainregistration.com/).
+**Cost:** $22 per person, $77 for a family of up to 4, or $175 for a group of up to 10. There's a campfire with snacks for after. Tickets are on the [Warwa Woods registration page](https://warwawoods.campbrainregistration.com/).
 
 ## Halloween movies at the zoo: Horizon Drive In
 
@@ -71,7 +71,7 @@ What makes it work for families is the split schedule:
 - **Friday, Oct 30:** The Nightmare Before Christmas (7 PM), Beetlejuice (9:30 PM), Final Destination (11:45 PM)
 - **Saturday, Oct 31:** Hocus Pocus (7 PM), Ghostbusters (9:30 PM), Scream (11:45 PM)
 
-The 7 PM shows are the family picks. The late shows are real horror movies, so check ratings before you bring kids. Car tickets are $15 per person, $10 for kids 15 and under, and walk in seats are $10, all plus fees. Alcohol is not allowed on site. Bring an FM radio if your car stereo is iffy, or grab a seat in the front row area with a speaker.
+The 7 PM shows are the family picks. The late shows are real horror movies, so check ratings before you bring kids. Car tickets are $15 per person, $10 for kids 15 and under, and walk in seats are $10, all plus fees. Bring an FM radio if your car stereo is iffy, or grab a seat in the front row area with a speaker.
 
 ## Day trip: Kraay Family Farm
 
