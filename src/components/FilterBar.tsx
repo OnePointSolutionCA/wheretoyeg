@@ -69,7 +69,7 @@ export function FilterableList({
     let out = businesses.slice();
     if (prices.length) out = out.filter((b) => prices.includes(b.price_range));
     if (rating != null) out = out.filter((b) => (b.rating ?? 0) >= rating);
-    if (openNow) out = out.filter((b) => openStatus(b.hours).isOpen);
+    if (openNow) out = out.filter((b) => openStatus(b.hours, new Date(), b.season).isOpen);
     if (selNeighborhoods.length) out = out.filter((b) => selNeighborhoods.includes(b.neighborhood));
     if (selAmenities.length) out = out.filter((b) => selAmenities.every((a) => b.amenities?.includes(a)));
     if (sort === "rating") out.sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0));

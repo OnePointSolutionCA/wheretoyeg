@@ -15,6 +15,7 @@ export function toCard(b: Business): Business {
     generatedDescription: b.generatedDescription,
     neighborhood: b.neighborhood,
     hours: b.hours,
+    season: b.season,
     photos: b.photos?.slice(0, 1) ?? [],
     rating: b.rating,
     review_count: b.review_count,

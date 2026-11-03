@@ -78,7 +78,7 @@ export function BusinessCard({ business, categoryName }: { business: Business; c
           ))}
         </div>
         <div className="mt-auto flex items-center justify-between pt-3">
-          <OpenNowBadge hours={b.hours} />
+          <OpenNowBadge hours={b.hours} season={b.season} />
           <Link
             href={href}
             className="group/link inline-flex items-center gap-1 text-xs font-bold uppercase tracking-wider text-coral transition-transform hover:translate-x-0.5"

@@ -4,7 +4,7 @@ import assert from "node:assert/strict";
 import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
-import { edmontonTime, openStatus, suspiciousDays } from "../src/lib/openNow.ts";
+import { edmontonTime, openStatus, parseDayHours, suspiciousDays } from "../src/lib/openNow.ts";
 
 // Edmonton wall-clock time from 1 Nov 2026 on is UTC-6 all year (Alberta Time).
 const at = (iso: string) => new Date(iso);
@@ -85,6 +85,61 @@ test("missing or unreadable hours never show as open", () => {
 test("open 24 hours", () => {
   const h = Object.fromEntries(Object.keys(pizzaPalace).map((d) => [d, "Open 24 hours"])) as typeof pizzaPalace;
   assert.deepEqual(openStatus(h, at("2026-11-03T07:14:00Z")), { isOpen: true, label: "Open 24 hours" });
+});
+
+// Leduc Country Lights, a Christmas light display open only in its season.
+const lights = {
+  monday: "5:00 PM–9:00 PM",
+  tuesday: "5:00 PM–9:00 PM",
+  wednesday: "5:00 PM–9:00 PM",
+  thursday: "5:00 PM–9:00 PM",
+  friday: "5:00 PM–10:00 PM",
+  saturday: "5:00 PM–10:00 PM",
+  sunday: "5:00 PM–9:00 PM",
+};
+const specialDays = { "2026-12-24": "5:00 PM–8:00 PM", "2026-12-25": "Closed", "2026-12-31": "5:00 PM–8:00 PM" };
+
+test("seasonal place with no confirmed dates is closed at every hour", () => {
+  const season = { note: "Christmas season only.", dates: specialDays };
+  assert.deepEqual(openStatus(lights, at("2026-11-04T01:00:00Z"), season), { isOpen: false, label: "Closed for the season" }); // Tue Nov 3, 7 PM
+  for (let h = 0; h < 24 * 7; h++) {
+    assert.equal(openStatus(lights, new Date(Date.UTC(2026, 11, 1, h)), season).isOpen, false); // a full week in December
+  }
+});
+
+test("seasonal place with confirmed dates: opens with the season, keeps its special days, closes after", () => {
+  const season = { note: "Christmas season only.", from: "2026-11-29", to: "2026-12-31", dates: specialDays };
+  const s = (iso: string) => openStatus(lights, at(iso), season);
+  assert.deepEqual(s("2026-11-04T01:00:00Z"), { isOpen: false, label: "Closed · Season opens Nov 29" }); // Tue Nov 3, 7 PM
+  assert.deepEqual(s("2026-11-29T00:00:00Z"), { isOpen: false, label: "Closed · Opens Tomorrow 5 PM" }); // Sat Nov 28, 6 PM
+  assert.deepEqual(s("2026-11-30T01:00:00Z"), { isOpen: true, label: "Open · Closes 9 PM" }); // Sun Nov 29, 7 PM
+  assert.deepEqual(s("2026-12-25T01:30:00Z"), { isOpen: true, label: "Open · Closes 8 PM" }); // Thu Dec 24, 7:30 PM
+  assert.deepEqual(s("2026-12-25T02:30:00Z"), { isOpen: false, label: "Closed · Opens Saturday 5 PM" }); // Dec 24, 8:30 PM, Christmas Day closed
+  assert.deepEqual(s("2026-12-26T01:00:00Z"), { isOpen: false, label: "Closed · Opens Tomorrow 5 PM" }); // Christmas Day, 7 PM
+  assert.deepEqual(s("2027-01-01T02:30:00Z"), { isOpen: false, label: "Closed for the season" }); // Thu Dec 31, 8:30 PM
+  assert.deepEqual(s("2027-01-02T01:00:00Z"), { isOpen: false, label: "Closed for the season" }); // Fri Jan 1, 7 PM
+});
+
+test("seasonal listings have a note, quoted dates and readable special days", () => {
+  const root = path.resolve(import.meta.dirname, "..");
+  const dir = path.join(root, "content/businesses");
+  const iso = /^\d{4}-\d{2}-\d{2}$/;
+  for (const file of fs.readdirSync(dir).filter((f) => f.endsWith(".md"))) {
+    const { data } = matter(fs.readFileSync(path.join(dir, file), "utf8"));
+    const season = data.season;
+    if (!season) continue;
+    assert.equal(typeof season.note, "string", `${data.slug}: season note`);
+    assert.ok(!/[–—]/.test(season.note), `${data.slug}: no dashes in the season note`);
+    assert.equal(season.from == null, season.to == null, `${data.slug}: season needs both from and to, or neither`);
+    if (season.from != null) assert.ok(iso.test(season.from) && iso.test(season.to) && season.from <= season.to, `${data.slug}: season dates must be quoted "YYYY-MM-DD"`);
+    for (const [date, value] of Object.entries(season.dates ?? {})) {
+      assert.ok(iso.test(date), `${data.slug}: special day ${date} must be "YYYY-MM-DD"`);
+      assert.ok(parseDayHours(value as string) != null, `${data.slug}: special day ${date} hours "${value}" can't be read`);
+    }
+    if (season.from == null) {
+      for (let h = 0; h < 24 * 7; h++) assert.equal(openStatus(data.hours, new Date(Date.UTC(2026, 11, 1, h)), season).isOpen, false, `${data.slug} shows open with no season dates`);
+    }
+  }
 });
 
 test("Google typos are caught before they reach the site", () => {

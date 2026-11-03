@@ -459,7 +459,7 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
                     <PinIcon size={14} className="text-coral" /> {place}
                   </span>
                   <span className="inline-flex min-h-[32px] items-center rounded-full border border-line bg-white px-3 shadow-sm">
-                    <OpenNowBadge hours={b.hours} />
+                    <OpenNowBadge hours={b.hours} season={b.season} />
                   </span>
                 </div>
               </div>
@@ -557,10 +557,10 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
                   <h2 className="flex items-center gap-2 font-display text-lg font-bold text-teal">
                     <ClockIcon className="text-coral" /> Hours
                   </h2>
-                  <OpenNowBadge hours={b.hours} />
+                  <OpenNowBadge hours={b.hours} season={b.season} />
                 </div>
                 <div className="mt-3">
-                  <BusinessHours hours={b.hours} />
+                  <BusinessHours hours={b.hours} season={b.season} />
                 </div>
               </div>
 
@@ -732,7 +732,9 @@ function listingFaq(b: Business): FaqEntry[] {
   if (hours) {
     items.push({
       q: `What are the hours at ${name}?`,
-      a: `${hours} Hours can change on holidays${b.phone ? `, so call ${b.phone} to check` : ""}.`,
+      a: b.season
+        ? `${b.season.note} During the season: ${hours}`
+        : `${hours} Hours can change on holidays${b.phone ? `, so call ${b.phone} to check` : ""}.`,
     });
   }
   if (b.address) {

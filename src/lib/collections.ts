@@ -1,5 +1,5 @@
 import type { Business } from "./types";
-import { parseDayHours, weekIntervals } from "./openNow";
+import { inSeason, parseDayHours, weekIntervals } from "./openNow";
 
 export type Collection = {
   slug: string;
@@ -21,11 +21,13 @@ const hasTag = (b: Business, ...ts: string[]) => {
 
 // Open until 10 PM or later (24-hour days count) on at least three days of the week.
 function isOpenLate(b: Business): boolean {
+  if (!inSeason(b.season)) return false;
   const lateDays = weekIntervals(b.hours).filter((day) => day?.some(([, close]) => close >= 22 * 60)).length;
   return lateDays >= 3;
 }
 
 function isOpenSunday(b: Business): boolean {
+  if (!inSeason(b.season)) return false;
   return (parseDayHours(b.hours?.sunday)?.length ?? 0) > 0;
 }
 

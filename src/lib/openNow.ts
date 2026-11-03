@@ -1,4 +1,4 @@
-import type { Hours } from "./types";
+import type { Hours, Season } from "./types";
 
 const DAYS = ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"] as const;
 
@@ -86,24 +86,43 @@ export function edmontonTime(at: Date = new Date()): { day: number; minutes: num
   return { day: local.getUTCDay(), minutes: local.getUTCHours() * 60 + local.getUTCMinutes() };
 }
 
+/** Edmonton calendar date ("YYYY-MM-DD") at that instant, moved by whole days. */
+export function edmontonDate(at: Date = new Date(), days = 0): string {
+  return new Date(at.getTime() + edmontonOffset(at) * 60_000 + days * 86_400_000).toISOString().slice(0, 10);
+}
+
+/** Whether a seasonal place is open for the season on that Edmonton date. Dates not confirmed yet count as closed. */
+export function inSeason(season: Season | undefined, date: string = edmontonDate()): boolean {
+  if (!season) return true;
+  return !!season.from && !!season.to && date >= season.from && date <= season.to;
+}
+
 export type OpenStatus = {
   isOpen: boolean;
   label: string;
 };
 
-export function openStatus(hours: Hours | undefined, at: Date = new Date()): OpenStatus {
+export function openStatus(hours: Hours | undefined, at: Date = new Date(), season?: Season): OpenStatus {
   const week = weekIntervals(hours);
   if (week.every((d) => d == null)) return { isOpen: false, label: "Hours unavailable" };
   const { day, minutes } = edmontonTime(at);
-  const today = week[day] ?? [];
-  const tomorrow = week[(day + 1) % 7] ?? [];
+  // Hours for the day `i` days from today: the weekday's, or for a seasonal place its own date's, or closed out of season.
+  const raw = (i: number) => (season ? season.dates?.[edmontonDate(at, i)] : undefined) ?? hours?.[DAYS[(day + i + 7) % 7]];
+  const on = (i: number): Interval[] | null => {
+    if (!season) return week[(day + i + 7) % 7];
+    const date = edmontonDate(at, i);
+    if (!inSeason(season, date)) return [];
+    return season.dates?.[date] ? parseDayHours(season.dates[date]) : week[(day + i + 7) % 7];
+  };
+  const today = on(0);
+  const tomorrow = on(1) ?? [];
 
   // Still inside a shift that started yesterday and runs past midnight.
-  for (const [, close] of week[(day + 6) % 7] ?? []) {
+  for (const [, close] of on(-1) ?? []) {
     if (close > 1440 && minutes < close - 1440) return { isOpen: true, label: `Open · Closes ${fmt(close)}` };
   }
   // Today's hours can't be read ("By appointment", or held back as a likely typo): never guess.
-  if (week[day] == null) return { isOpen: false, label: hours?.[DAYS[day]] ? displayDayHours(hours[DAYS[day]]) : "Hours not listed today" };
+  if (today == null) return { isOpen: false, label: raw(0) ? displayDayHours(raw(0)) : "Hours not listed today" };
   for (const [open, close] of today) {
     if (minutes >= open && minutes < close) {
       const allDay = open === 0 && close === 1440 && tomorrow[0]?.[0] === 0;
@@ -113,12 +132,14 @@ export function openStatus(hours: Hours | undefined, at: Date = new Date()): Ope
   const later = today.find(([open]) => open > minutes);
   if (later) return { isOpen: false, label: `Closed · Opens ${fmt(later[0])}` };
   for (let i = 1; i <= 7; i++) {
-    const next = week[(day + i) % 7];
+    const next = on(i);
     if (next?.length) {
       const dayLabel = i === 1 ? "Tomorrow" : capitalise(DAYS[(day + i) % 7]);
       return { isOpen: false, label: `Closed · Opens ${dayLabel} ${fmt(next[0][0])}` };
     }
   }
+  if (season?.from && edmontonDate(at) < season.from) return { isOpen: false, label: `Closed · Season opens ${monthDay(season.from)}` };
+  if (season) return { isOpen: false, label: "Closed for the season" };
   return { isOpen: false, label: "Closed" };
 }
 
@@ -183,6 +204,11 @@ function fmt(mins: number): string {
   const ap = h >= 12 ? "PM" : "AM";
   const h12 = ((h + 11) % 12) + 1;
   return `${h12}${m ? ":" + String(m).padStart(2, "0") : ""} ${ap}`;
+}
+/** "2026-11-29" -> "Nov 29" */
+export function monthDay(iso: string): string {
+  const [, m, d] = iso.split("-").map(Number);
+  return `${["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"][m - 1]} ${d}`;
 }
 function capitalise(s: string) {
   return s.slice(0, 1).toUpperCase() + s.slice(1);

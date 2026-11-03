@@ -2,7 +2,7 @@ import type { FaqEntry } from "@/components/FaqSection";
 import type { Business, Category } from "./types";
 import { SITE } from "./site";
 import { areaSlug } from "./place";
-import { displayDayHours } from "./openNow";
+import { displayDayHours, inSeason } from "./openNow";
 import { SUB_HEADING, lowerHeading } from "./seo";
 
 const NOUN: Record<string, string> = {
@@ -137,7 +137,7 @@ export function categoryFaq(
   }
 
   const sunday = businesses
-    .filter((b) => b.hours?.sunday && !/closed/i.test(b.hours.sunday) && b.rating > 0)
+    .filter((b) => b.hours?.sunday && !/closed/i.test(b.hours.sunday) && inSeason(b.season) && b.rating > 0)
     .sort(byScore);
   if (sunday.length >= 3) {
     const picks = distinct(sunday, 3);

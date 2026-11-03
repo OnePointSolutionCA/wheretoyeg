@@ -5,7 +5,7 @@ category: "activities-fun"
 subcategory: "outdoor"
 tier: "featured"
 description: ""
-address: "25574 Township Road 492, Leduc, AB T4X 2E7"
+address: "49541 Range Rd 260, Calmar, AB T0C 0V0"
 neighborhood: "Leduc"
 phone: "(780) 721-9497"
 website: "http://leduccountrylights.ca/"
@@ -20,6 +20,15 @@ hours:
   friday: "5:00 PM–10:00 PM"
   saturday: "5:00 PM–10:00 PM"
   sunday: "5:00 PM–9:00 PM"
+# Christmas light display, open only in its season (leduccountrylights.ca). Add from and to once the
+# 2026 dates are posted; until then the listing shows "Closed for the season" at every hour.
+season:
+  note: "Open evenings for the Christmas season only. Last season ran November 29 to December 31, and the 2026 dates are not posted yet."
+  # Same special days as the 2024 and 2025 seasons; check them against the 2026 dates when they are posted.
+  dates:
+    "2026-12-24": "5:00 PM–8:00 PM"
+    "2026-12-25": "Closed"
+    "2026-12-31": "5:00 PM–8:00 PM"
 photos:
   - "/photos/leduc-country-lights-g1.jpg"
   - "/photos/leduc-country-lights-g2.jpg"
@@ -27,7 +36,6 @@ rating: 4.8
 review_count: 730
 amenities:
   - "Family Friendly"
-  - "Wheelchair Accessible"
 tags: ["edmonton", "outdoor"]
 active: true
 date_listed: "2026-10-02"

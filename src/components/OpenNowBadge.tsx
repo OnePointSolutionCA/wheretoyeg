@@ -1,21 +1,21 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import type { Hours } from "@/lib/types";
+import type { Hours, Season } from "@/lib/types";
 import { openStatus, type OpenStatus } from "@/lib/openNow";
 
 // Worked out in the visitor's browser and refreshed every minute. Pages are cached,
 // so a status rendered on the server would go stale (a page built at 7 PM would
 // still say "Open" at 1 AM).
-export function OpenNowBadge({ hours, className = "" }: { hours: Hours; className?: string }) {
+export function OpenNowBadge({ hours, season, className = "" }: { hours: Hours; season?: Season; className?: string }) {
   const [s, setS] = useState<OpenStatus | null>(null);
 
   useEffect(() => {
-    const tick = () => setS(openStatus(hours));
+    const tick = () => setS(openStatus(hours, new Date(), season));
     tick();
     const id = setInterval(tick, 60_000);
     return () => clearInterval(id);
-  }, [hours]);
+  }, [hours, season]);
 
   return (
     <span

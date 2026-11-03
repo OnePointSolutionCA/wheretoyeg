@@ -179,7 +179,7 @@ function describeBusiness(b: Business, cat?: Category) {
   else if (b.amenities?.includes("Halal")) parts.push("Marked halal.");
   const highlights = (b.amenities ?? []).filter((a) => a !== "Halal");
   if (highlights.length) parts.push(`Highlights: ${highlights.slice(0, 5).join(", ")}.`);
-  const hours = describeHours(b.hours);
+  const hours = b.season?.note ?? describeHours(b.hours);
   if (hours) parts.push(hours);
   if (b.address) parts.push(`Find it at ${b.address}.`);
   return parts.join(" ");

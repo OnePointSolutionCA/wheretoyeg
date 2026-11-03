@@ -5,6 +5,17 @@ export type Hours = Record<
   string
 >;
 
+/** A place open only part of the year, like a Christmas light display. Outside the season it always shows closed. */
+export type Season = {
+  /** First and last open day as quoted "YYYY-MM-DD". Leave both out until the dates are confirmed: the listing then shows closed. */
+  from?: string;
+  to?: string;
+  /** Shown with the hours, e.g. "Open evenings for the Christmas season only." */
+  note: string;
+  /** Days inside the season with their own hours, e.g. { "2026-12-25": "Closed" }. */
+  dates?: Record<string, string>;
+};
+
 export type Review = {
   name: string;
   rating: number;
@@ -30,6 +41,7 @@ export type Business = {
   tiktok?: string;
   google_maps_url?: string;
   hours: Hours;
+  season?: Season;
   photos: string[];
   rating: number;
   review_count: number;

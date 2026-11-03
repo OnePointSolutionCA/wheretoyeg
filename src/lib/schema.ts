@@ -60,6 +60,29 @@ function parseHoursSpec(hours: Hours | undefined) {
 }
 
 /**
+ * A seasonal place's weekly hours only hold between its confirmed dates, with its special days on top
+ * (a closed day reads 00:00 to 00:00). Until the dates are confirmed no hours are given, so search
+ * engines never read them as all year.
+ */
+function seasonHoursSpec(b: Business) {
+  const s = b.season;
+  if (!s) return parseHoursSpec(b.hours);
+  if (!s.from || !s.to) return [];
+  const special = Object.entries(s.dates ?? {}).flatMap(([date, value]) => {
+    const intervals = parseDayHours(value);
+    if (intervals == null) return [];
+    return (intervals.length ? intervals : [[0, 0]]).map(([open, close]) => ({
+      "@type": "OpeningHoursSpecification",
+      opens: hhmm(open),
+      closes: close === 1440 ? "23:59" : hhmm(close),
+      validFrom: date,
+      validThrough: date,
+    }));
+  });
+  return [...parseHoursSpec(b.hours).map((spec) => ({ ...spec, validFrom: s.from, validThrough: s.to })), ...special];
+}
+
+/**
  * LocalBusiness markup for a listing page.
  * Ratings and reviews come from Google Maps, so they are shown on the page but left out of the markup:
  * Google's review snippet rules don't allow marking up ratings collected on another site.
@@ -73,7 +96,7 @@ export function businessSchema(b: Business) {
   if (b.tiktok) sameAs.push(b.tiktok);
   if (b.google_maps_url) sameAs.push(b.google_maps_url);
 
-  const hoursSpec = parseHoursSpec(b.hours);
+  const hoursSpec = seasonHoursSpec(b);
   const { locality, postalCode } = parseAddress(b.address);
 
   const pageUrl = `${SITE.url}/${b.category}/${b.slug}`;
