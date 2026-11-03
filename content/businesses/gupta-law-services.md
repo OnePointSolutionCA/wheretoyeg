@@ -35,7 +35,7 @@ reviews:
     comment: |
       Gupta Law Services has been a game-changer for my family law needs. Their knowledgeable and compassionate team guided us through a complex legal process, providing excellent advice and support. They exhibited exceptional professionalism and attention to detail, ensuring all our concerns were addressed promptly. I truly appreciate their dedication and expertise in resolving our case successfully. Gupta Law Services exceeded my expectations, and I highly recommend their services to anyone seeking top-notch family law representation. Thank you for all your help and outstanding service!
 hours:
-  monday: "9:00 AM–5:00 AM"
+  monday: "9:00 AM–5:00 PM"
   tuesday: "9:00 AM–5:00 PM"
   wednesday: "9:00 AM–5:00 PM"
   thursday: "9:00 AM–5:00 PM"

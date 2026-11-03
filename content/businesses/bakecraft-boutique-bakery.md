@@ -14,7 +14,7 @@ latitude: 53.529109
 longitude: -114.007563
 hours:
   monday: "Closed"
-  tuesday: "12:00 AM–4:00 PM"
+  tuesday: "12:00 PM–4:00 PM"
   wednesday: "Closed"
   thursday: "12:00 PM–4:00 PM"
   friday: "12:00 PM–4:00 PM"

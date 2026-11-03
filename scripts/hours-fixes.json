@@ -1,0 +1,285 @@
+{
+  "_about": "Checked corrections for hours that are wrong on Google. scripts/refresh-listings.mjs writes `use` while Google still shows `google` for that day; once Google changes, its new hours are taken (or held back if they look like a typo too).",
+  "adam-got-me-a-mortgage": {
+    "monday": {
+      "google": "12:00 AM–4:00 PM",
+      "use": "By appointment",
+      "why": "Google shows Monday from midnight and every other day closed; the website only offers booked appointments",
+      "checked": "2026-11-03"
+    }
+  },
+  "authentic-punjabi-tiffin-catering": {
+    "monday": {
+      "google": "12:30 AM–7:00 AM, 10:00 AM–7:00 PM",
+      "use": "10:00 AM–7:00 PM",
+      "why": "Google adds a 12:30 AM to 7 AM block to a tiffin service; kept only the daytime hours",
+      "checked": "2026-11-03"
+    },
+    "tuesday": {
+      "google": "12:30 AM–7:00 AM, 10:00 AM–7:00 PM",
+      "use": "10:00 AM–7:00 PM",
+      "why": "Google adds a 12:30 AM to 7 AM block to a tiffin service; kept only the daytime hours",
+      "checked": "2026-11-03"
+    },
+    "wednesday": {
+      "google": "12:30 AM–7:00 AM, 10:00 AM–7:00 PM",
+      "use": "10:00 AM–7:00 PM",
+      "why": "Google adds a 12:30 AM to 7 AM block to a tiffin service; kept only the daytime hours",
+      "checked": "2026-11-03"
+    },
+    "thursday": {
+      "google": "12:30 AM–7:00 AM, 10:00 AM–7:00 PM",
+      "use": "10:00 AM–7:00 PM",
+      "why": "Google adds a 12:30 AM to 7 AM block to a tiffin service; kept only the daytime hours",
+      "checked": "2026-11-03"
+    },
+    "friday": {
+      "google": "12:30 AM–7:00 AM, 10:00 AM–7:00 PM",
+      "use": "10:00 AM–7:00 PM",
+      "why": "Google adds a 12:30 AM to 7 AM block to a tiffin service; kept only the daytime hours",
+      "checked": "2026-11-03"
+    },
+    "saturday": {
+      "google": "12:30 AM–7:00 AM, 10:00 AM–7:00 PM",
+      "use": "10:00 AM–7:00 PM",
+      "why": "Google adds a 12:30 AM to 7 AM block to a tiffin service; kept only the daytime hours",
+      "checked": "2026-11-03"
+    }
+  },
+  "bakecraft-boutique-bakery": {
+    "tuesday": {
+      "google": "12:00 AM–4:00 PM",
+      "use": "12:00 PM–4:00 PM",
+      "why": "Every other open day is noon to 4 PM; midnight is a typo on Google",
+      "checked": "2026-11-03"
+    }
+  },
+  "best-buy-auto-service": {
+    "monday": {
+      "google": "8:30 AM–5:00 AM",
+      "use": "8:30 AM–5:00 PM",
+      "why": "Same closing time as the other days, typed as AM instead of PM on Google",
+      "checked": "2026-11-03"
+    }
+  },
+  "bombshell-brow-and-hair-studio": {
+    "thursday": {
+      "google": "10:00 AM–8:30 AM",
+      "use": "10:00 AM–8:30 PM",
+      "why": "Closing time typed as AM instead of PM on Google",
+      "checked": "2026-11-03"
+    }
+  },
+  "brunch-glory": {
+    "monday": {
+      "google": "8:00 AM–8:00 PM",
+      "use": "7:00 AM–3:00 PM",
+      "why": "brunchglory.ca lists the Whyte Ave location as 7 AM to 3 PM every day; Google had it open to 2 AM on weekends",
+      "checked": "2026-11-03"
+    },
+    "tuesday": {
+      "google": "8:00 AM–8:00 PM",
+      "use": "7:00 AM–3:00 PM",
+      "why": "brunchglory.ca lists the Whyte Ave location as 7 AM to 3 PM every day; Google had it open to 2 AM on weekends",
+      "checked": "2026-11-03"
+    },
+    "wednesday": {
+      "google": "8:00 AM–8:00 PM",
+      "use": "7:00 AM–3:00 PM",
+      "why": "brunchglory.ca lists the Whyte Ave location as 7 AM to 3 PM every day; Google had it open to 2 AM on weekends",
+      "checked": "2026-11-03"
+    },
+    "thursday": {
+      "google": "8:00 AM–8:00 PM",
+      "use": "7:00 AM–3:00 PM",
+      "why": "brunchglory.ca lists the Whyte Ave location as 7 AM to 3 PM every day; Google had it open to 2 AM on weekends",
+      "checked": "2026-11-03"
+    },
+    "friday": {
+      "google": "7:00 AM–2:00 AM",
+      "use": "7:00 AM–3:00 PM",
+      "why": "brunchglory.ca lists the Whyte Ave location as 7 AM to 3 PM every day; Google had it open to 2 AM on weekends",
+      "checked": "2026-11-03"
+    },
+    "saturday": {
+      "google": "7:00 AM–2:00 AM",
+      "use": "7:00 AM–3:00 PM",
+      "why": "brunchglory.ca lists the Whyte Ave location as 7 AM to 3 PM every day; Google had it open to 2 AM on weekends",
+      "checked": "2026-11-03"
+    },
+    "sunday": {
+      "google": "7:00 AM–5:00 PM",
+      "use": "7:00 AM–3:00 PM",
+      "why": "brunchglory.ca lists the Whyte Ave location as 7 AM to 3 PM every day; Google had it open to 2 AM on weekends",
+      "checked": "2026-11-03"
+    }
+  },
+  "comfort-wax-studio": {
+    "thursday": {
+      "google": "10:00 AM–12:30 AM",
+      "use": "11:00 AM–7:30 PM",
+      "why": "comfortwaxstudio.com lists Thursday as 11 AM to 7:30 PM",
+      "checked": "2026-11-03"
+    }
+  },
+  "dow-centennial-centre-shell-theatre": {
+    "saturday": {
+      "google": "9:00 AM–5:00 AM",
+      "use": "9:00 AM–5:00 PM",
+      "why": "Same closing time as the other days, typed as AM instead of PM on Google",
+      "checked": "2026-11-03"
+    },
+    "sunday": {
+      "google": "9:00 AM–5:00 AM",
+      "use": "9:00 AM–5:00 PM",
+      "why": "Same closing time as the other days, typed as AM instead of PM on Google",
+      "checked": "2026-11-03"
+    }
+  },
+  "external-affairs-medical-spa---edmonton": {
+    "thursday": {
+      "google": "11:00 AM–6:00 AM",
+      "use": "11:00 AM–6:00 PM",
+      "why": "Same closing time as the other days, typed as AM instead of PM on Google",
+      "checked": "2026-11-03"
+    }
+  },
+  "family-bistro-restaurant": {
+    "monday": {
+      "google": "10:00 AM–7:00 AM",
+      "use": "10:00 AM–7:00 PM",
+      "why": "Same closing time as the other days, typed as AM instead of PM on Google",
+      "checked": "2026-11-03"
+    }
+  },
+  "gupta-law-services": {
+    "monday": {
+      "google": "9:00 AM–5:00 AM",
+      "use": "9:00 AM–5:00 PM",
+      "why": "Same closing time as the other days, typed as AM instead of PM on Google",
+      "checked": "2026-11-03"
+    }
+  },
+  "ladybird-photography": {
+    "monday": {
+      "google": "10:00 AM–3:00 AM",
+      "use": "10:00 AM–3:00 PM",
+      "why": "Same closing time as the other days, typed as AM instead of PM on Google",
+      "checked": "2026-11-03"
+    }
+  },
+  "pizza-palace-north-town-centre": {
+    "tuesday": {
+      "google": "1:00 AM–11:00 PM",
+      "use": "11:00 AM–11:00 PM",
+      "why": "Every other day opens at 11 AM; 1 AM is a typo on their Google profile",
+      "checked": "2026-11-03"
+    }
+  },
+  "prime-medical-clinic": {
+    "wednesday": {
+      "google": "9:00 AM–5:00 AM",
+      "use": "9:00 AM–5:00 PM",
+      "why": "Same closing time as the other days, typed as AM instead of PM on Google",
+      "checked": "2026-11-03"
+    }
+  },
+  "putting-horse-ranch": {
+    "monday": {
+      "google": "9:00 AM–7:30 PM",
+      "use": "9:00 AM–9:00 PM",
+      "why": "puttinghorseranch.com says 9 to 9 daily; Google had Wednesday open to 1:30 AM",
+      "checked": "2026-11-03"
+    },
+    "tuesday": {
+      "google": "9:00 AM–7:30 PM",
+      "use": "9:00 AM–9:00 PM",
+      "why": "puttinghorseranch.com says 9 to 9 daily; Google had Wednesday open to 1:30 AM",
+      "checked": "2026-11-03"
+    },
+    "wednesday": {
+      "google": "9:00 AM–1:30 AM",
+      "use": "9:00 AM–9:00 PM",
+      "why": "puttinghorseranch.com says 9 to 9 daily; Google had Wednesday open to 1:30 AM",
+      "checked": "2026-11-03"
+    },
+    "thursday": {
+      "google": "9:00 AM–7:30 PM",
+      "use": "9:00 AM–9:00 PM",
+      "why": "puttinghorseranch.com says 9 to 9 daily; Google had Wednesday open to 1:30 AM",
+      "checked": "2026-11-03"
+    },
+    "friday": {
+      "google": "9:00 AM–7:30 PM",
+      "use": "9:00 AM–9:00 PM",
+      "why": "puttinghorseranch.com says 9 to 9 daily; Google had Wednesday open to 1:30 AM",
+      "checked": "2026-11-03"
+    },
+    "saturday": {
+      "google": "9:00 AM–7:30 PM",
+      "use": "9:00 AM–9:00 PM",
+      "why": "puttinghorseranch.com says 9 to 9 daily; Google had Wednesday open to 1:30 AM",
+      "checked": "2026-11-03"
+    },
+    "sunday": {
+      "google": "9:00 AM–7:00 PM",
+      "use": "9:00 AM–9:00 PM",
+      "why": "puttinghorseranch.com says 9 to 9 daily; Google had Wednesday open to 1:30 AM",
+      "checked": "2026-11-03"
+    }
+  },
+  "special-force-taekwondo-north": {
+    "wednesday": {
+      "google": "3:00 AM–8:30 PM",
+      "use": "3:00 PM–8:30 PM",
+      "why": "Every other weekday opens at 3 PM; AM is a typo on Google",
+      "checked": "2026-11-03"
+    }
+  },
+  "spice-valley-indian-grocery-store": {
+    "sunday": {
+      "google": "12:00 AM–9:00 PM",
+      "use": "12:00 PM–9:00 PM",
+      "why": "Sunday typed as opening at midnight on Google; noon is the likely meaning",
+      "checked": "2026-11-03"
+    }
+  },
+  "the-code-yeg": {
+    "wednesday": {
+      "google": "4:30 AM–9:00 PM",
+      "use": "4:30 PM–9:00 PM",
+      "why": "Every other weekday opens at 4:30 PM; AM is a typo on Google",
+      "checked": "2026-11-03"
+    }
+  },
+  "trendz-optical-ltd-where-vision-meets-style": {
+    "thursday": {
+      "google": "10:00 AM–5:30 AM",
+      "use": "10:00 AM–5:30 PM",
+      "why": "Same closing time as the other days, typed as AM instead of PM on Google",
+      "checked": "2026-11-03"
+    }
+  },
+  "willow-park-natural-area": {
+    "tuesday": {
+      "google": "12:00 AM–2:00 AM, 6:00 AM–11:00 PM",
+      "use": "6:00 AM–11:00 PM",
+      "why": "Stray midnight to 2 AM block on Google; every other day is 6 AM to 11 PM",
+      "checked": "2026-11-03"
+    }
+  },
+  "yazen-al-badran-dental": {
+    "monday": {
+      "google": "8:00 AM–4:30 AM",
+      "use": "8:00 AM–4:30 PM",
+      "why": "Same closing time as the other days, typed as AM instead of PM on Google",
+      "checked": "2026-11-03"
+    },
+    "tuesday": {
+      "google": "8:00 AM–4:30 AM",
+      "use": "8:00 AM–4:30 PM",
+      "why": "Same closing time as the other days, typed as AM instead of PM on Google",
+      "checked": "2026-11-03"
+    }
+  }
+}

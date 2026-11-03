@@ -51,7 +51,7 @@ reviews:
       
       It’s not always easy to find someone you can trust with your vehicle, but Rod definitely delivered. Highly recommend Best Buy Auto Service if you’re looking for dependable and knowledgeable service!
 hours:
-  monday: "8:30 AM–5:00 AM"
+  monday: "8:30 AM–5:00 PM"
   tuesday: "8:30 AM–5:00 PM"
   wednesday: "8:30 AM–5:00 PM"
   thursday: "8:30 AM–5:00 PM"

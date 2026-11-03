@@ -43,7 +43,7 @@ reviews:
       We really enjoyed the Pizza! Unlimited toppings is awesome. Everything tasted fresh and good quality. Next day the pizza tasted even better. Service was not friendly but im a business man so it wasnt a deal breaker. The pizza spoke for itself.
 hours:
   monday: "11:00 AM–11:00 PM"
-  tuesday: "1:00 AM–11:00 PM"
+  tuesday: "11:00 AM–11:00 PM"
   wednesday: "11:00 AM–11:00 PM"
   thursday: "11:00 AM–12:00 AM"
   friday: "11:00 AM–1:00 AM"

@@ -14,7 +14,7 @@ hours:
   monday: "10:00 AM–5:00 PM"
   tuesday: "10:00 AM–6:00 PM"
   wednesday: "10:00 AM–6:00 PM"
-  thursday: "11:00 AM–6:00 AM"
+  thursday: "11:00 AM–6:00 PM"
   friday: "10:00 AM–6:00 PM"
   saturday: "Closed"
   sunday: "Closed"

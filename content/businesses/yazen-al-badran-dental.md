@@ -34,8 +34,8 @@ reviews:
     comment: |
       Had an amazing experience with Dr. Yazen. He gives you the time you need without rushing you and explains the work he is doing ahead of time. Smooth interaction with him and provides honest feedback, which is very important to me! My family and I are a forever clients with Dr. Yazen!
 hours:
-  monday: "8:00 AM–4:30 AM"
-  tuesday: "8:00 AM–4:30 AM"
+  monday: "8:00 AM–4:30 PM"
+  tuesday: "8:00 AM–4:30 PM"
   wednesday: "10:00 AM–6:00 PM"
   thursday: "10:00 AM–6:00 PM"
   friday: "8:00 AM–4:00 PM"

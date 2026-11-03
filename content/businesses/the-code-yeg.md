@@ -13,7 +13,7 @@ google_maps_url: "https://maps.google.com/?cid=3265243333329216883&g_mp=Cidnb29n
 hours:
   monday: "4:30 PM–9:00 PM"
   tuesday: "4:30 PM–9:00 PM"
-  wednesday: "4:30 AM–9:00 PM"
+  wednesday: "4:30 PM–9:00 PM"
   thursday: "4:30 PM–9:00 PM"
   friday: "5:30 PM–9:00 PM"
   saturday: "10:00 AM–4:00 PM"

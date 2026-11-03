@@ -1,10 +1,8 @@
-/** Day number that ticks over at midnight Edmonton time (handles MST/MDT). */
+import { edmontonOffset } from "./openNow";
+
+/** Day number that ticks over at midnight Edmonton time (MST/MDT before Nov 2026, Alberta Time after). */
 export function edmontonDay(now = new Date()): number {
-  const [y, m, d] = new Intl.DateTimeFormat("en-CA", { timeZone: "America/Edmonton", year: "numeric", month: "2-digit", day: "2-digit" })
-    .format(now)
-    .split("-")
-    .map(Number);
-  return Math.floor(Date.UTC(y, m - 1, d) / 86_400_000);
+  return Math.floor((now.getTime() + edmontonOffset(now) * 60_000) / 86_400_000);
 }
 
 /** Deterministic shuffle: same order all day, new order each Edmonton day. `salt` keeps different sections from moving in lockstep. */

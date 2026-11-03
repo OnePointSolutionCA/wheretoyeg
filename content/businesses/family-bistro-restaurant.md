@@ -37,7 +37,7 @@ reviews:
     comment: |
       Best place to eat for late nights with the family.
 hours:
-  monday: "10:00 AM–7:00 AM"
+  monday: "10:00 AM–7:00 PM"
   tuesday: "10:00 AM–7:00 PM"
   wednesday: "10:00 AM–7:00 PM"
   thursday: "10:00 AM–7:00 PM"

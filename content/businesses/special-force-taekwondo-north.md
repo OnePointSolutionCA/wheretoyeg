@@ -15,7 +15,7 @@ longitude: -113.407442
 hours:
   monday: "3:00 PM–8:30 PM"
   tuesday: "3:00 PM–8:30 PM"
-  wednesday: "3:00 AM–8:30 PM"
+  wednesday: "3:00 PM–8:30 PM"
   thursday: "3:00 PM–8:30 PM"
   friday: "3:00 PM–8:30 PM"
   saturday: "9:00 AM–1:00 PM"

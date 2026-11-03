@@ -13,7 +13,7 @@ google_maps_url: "https://maps.google.com/?cid=4518816367649632354&g_mp=Cidnb29n
 latitude: 53.550756
 longitude: -113.614220
 hours:
-  monday: "12:00 AM–4:00 PM"
+  monday: "By appointment"
   tuesday: "Closed"
   wednesday: "Closed"
   thursday: "Closed"

@@ -24,10 +24,13 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { addUsage, daysLeftInMonth, freeLeft, loadUsage, saveUsage } from "./places-budget.mjs";
 import { googleHours } from "./google-hours.mjs";
+// Shared with the site so the refresh and the Open now badge read hours the same way (needs Node 22.18+).
+import { suspiciousDays } from "../src/lib/openNow.ts";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const BUSINESS_DIR = path.join(ROOT, "content/businesses");
 const PRIORITY_FILE = path.join(ROOT, "scripts/refresh-priority.json");
+const HOURS_FIXES = JSON.parse(await fs.readFile(path.join(ROOT, "scripts/hours-fixes.json"), "utf8"));
 
 async function readPriority() {
   try { return JSON.parse(await fs.readFile(PRIORITY_FILE, "utf8")); } catch { return []; }
@@ -131,6 +134,34 @@ function updateScalarField(fmRaw, key, value) {
 }
 
 
+/** The hours block already on a listing, as { monday: "…", … }. */
+function peekHours(fmRaw) {
+  const hours = {};
+  for (const m of fmRaw.matchAll(/^  (monday|tuesday|wednesday|thursday|friday|saturday|sunday): "(.*)"$/gm)) {
+    hours[m[1]] = m[2].replace(/\\"/g, '"');
+  }
+  return hours;
+}
+
+/**
+ * Google's hours with the checked corrections in hours-fixes.json applied. Any other day that
+ * looks like a typo (a dentist "8:00 AM–4:30 AM") keeps what the listing already shows, or
+ * "Hours not confirmed" if that looks wrong too, so the site never shows a place open at 3 AM by mistake.
+ */
+function checkedHours(slug, google, current) {
+  const fixes = HOURS_FIXES[slug] ?? {};
+  const hours = { ...google };
+  for (const [day, fix] of Object.entries(fixes)) if (hours[day] === fix.google) hours[day] = fix.use;
+  const held = [];
+  for (const { day, reason } of suspiciousDays(hours)) {
+    const keepCurrent = current[day] && !suspiciousDays({ ...hours, [day]: current[day] }).some((f) => f.day === day);
+    const keep = keepCurrent ? current[day] : "Hours not confirmed";
+    held.push(`${day} "${hours[day]}" (${reason}), kept "${keep}"`);
+    hours[day] = keep;
+  }
+  return { hours, held };
+}
+
 function updateHoursBlock(fmRaw, hours) {
   if (!hours) return fmRaw;
   const lines = fmRaw.split("\n");
@@ -210,8 +241,11 @@ async function processOne(file, hoursOnly = false) {
   let fm = parsed.fmRaw;
   const changes = [];
 
+  const google = googleHours(best.regularOpeningHours);
+  const { hours, held } = google ? checkedHours(slug, google, peekHours(fm)) : { hours: null, held: [] };
+  if (held.length) console.log(`  ! ${slug}: Google hours look wrong, check by hand: ${held.join("; ")}`);
+
   if (hoursOnly) {
-    const hours = googleHours(best.regularOpeningHours);
     if (!hours) return { slug, status: "no-changes", matched: best.displayName?.text };
     if (!DRY) await fs.writeFile(filePath, `---\n${updateHoursBlock(fm, hours)}\n---\n${parsed.body}`);
     return { slug, status: "ok", changes: ["hours"], matched: best.displayName?.text };
@@ -231,7 +265,6 @@ async function processOne(file, hoursOnly = false) {
     changes.push(`reviews ${oldCount}→${newCount}`);
   }
 
-  const hours = googleHours(best.regularOpeningHours);
   if (hours) {
     fm = updateHoursBlock(fm, hours);
     changes.push("hours");

@@ -59,9 +59,31 @@ export function weekIntervals(hours?: Hours): (Interval[] | null)[] {
   return DAYS.map((d) => parseDayHours(hours?.[d]));
 }
 
-/** The current wall-clock time in Edmonton, as a Date whose local fields read Edmonton time. */
-export function edmontonNow(at: Date = new Date()): Date {
-  return new Date(at.toLocaleString("en-US", { timeZone: "America/Edmonton" }));
+// Alberta stopped changing clocks on 1 Nov 2026 and stays on UTC-6 ("Alberta Time") all year.
+// Phones and browsers with older time zone data still put America/Edmonton on UTC-7 in winter,
+// which made every open/closed check an hour early, so the offset is worked out here instead.
+const ALBERTA_TIME_FROM = Date.UTC(2026, 10, 1, 8); // 2:00 AM MDT, Sunday 1 Nov 2026
+
+/** Minutes to add to UTC to get Edmonton wall-clock time at that instant (-360 or -420). */
+export function edmontonOffset(at: Date = new Date()): number {
+  const t = at.getTime();
+  if (t >= ALBERTA_TIME_FROM) return -360;
+  // Before the switch: MDT from 2 AM on the second Sunday of March to 2 AM on the first Sunday of November.
+  const y = at.getUTCFullYear();
+  const mdtStart = nthSunday(y, 2, 2) + 9 * 3_600_000;
+  const mdtEnd = nthSunday(y, 10, 1) + 8 * 3_600_000;
+  return t >= mdtStart && t < mdtEnd ? -360 : -420;
+}
+
+function nthSunday(year: number, month: number, n: number): number {
+  const first = new Date(Date.UTC(year, month, 1)).getUTCDay();
+  return Date.UTC(year, month, 1 + ((7 - first) % 7) + 7 * (n - 1));
+}
+
+/** Edmonton day of the week (0 = Sunday) and minutes after midnight at that instant. */
+export function edmontonTime(at: Date = new Date()): { day: number; minutes: number } {
+  const local = new Date(at.getTime() + edmontonOffset(at) * 60_000);
+  return { day: local.getUTCDay(), minutes: local.getUTCHours() * 60 + local.getUTCMinutes() };
 }
 
 export type OpenStatus = {
@@ -69,11 +91,10 @@ export type OpenStatus = {
   label: string;
 };
 
-export function openStatus(hours: Hours | undefined, now: Date = edmontonNow()): OpenStatus {
+export function openStatus(hours: Hours | undefined, at: Date = new Date()): OpenStatus {
   const week = weekIntervals(hours);
   if (week.every((d) => d == null)) return { isOpen: false, label: "Hours unavailable" };
-  const day = now.getDay();
-  const minutes = now.getHours() * 60 + now.getMinutes();
+  const { day, minutes } = edmontonTime(at);
   const today = week[day] ?? [];
   const tomorrow = week[(day + 1) % 7] ?? [];
 
@@ -81,6 +102,8 @@ export function openStatus(hours: Hours | undefined, now: Date = edmontonNow()):
   for (const [, close] of week[(day + 6) % 7] ?? []) {
     if (close > 1440 && minutes < close - 1440) return { isOpen: true, label: `Open · Closes ${fmt(close)}` };
   }
+  // Today's hours can't be read ("By appointment", or held back as a likely typo): never guess.
+  if (week[day] == null) return { isOpen: false, label: hours?.[DAYS[day]] ? displayDayHours(hours[DAYS[day]]) : "Hours not listed today" };
   for (const [open, close] of today) {
     if (minutes >= open && minutes < close) {
       const allDay = open === 0 && close === 1440 && tomorrow[0]?.[0] === 0;
@@ -97,6 +120,51 @@ export function openStatus(hours: Hours | undefined, now: Date = edmontonNow()):
     }
   }
   return { isOpen: false, label: "Closed" };
+}
+
+export type HoursFlag = { day: (typeof DAYS)[number]; reason: string };
+
+/**
+ * Days whose hours look like a typo on Google rather than real hours, e.g. "8:30 AM–5:00 AM"
+ * or "1:00 AM–11:00 PM" when every other day opens at 11 AM. Left alone, these make a place
+ * show as open in the middle of the night. scripts/hours-fixes.json holds the checked answer
+ * for each day flagged here, and the refresh job holds back any new one until it is checked.
+ */
+export function suspiciousDays(hours?: Hours): HoursFlag[] {
+  const week = weekIntervals(hours).map((d) => (d ?? []).filter(([o, c]) => !(o === 0 && c === 1440)));
+  const reasons = new Map<number, string[]>();
+  const flag = (i: number, why: string) => reasons.set(i, [...(reasons.get(i) ?? []), why]);
+  const openDays = week.map((d, i) => (d.length ? i : -1)).filter((i) => i >= 0);
+
+  week.forEach((d, i) => {
+    for (const [o, c] of d) if (c - o > 20 * 60) flag(i, `open ${Math.round((c - o) / 60)} hours straight`);
+  });
+
+  // A shift that starts at midnight, or runs only through the night, without carrying on from the day before.
+  const continues = (i: number) => week[(i + 6) % 7].some(([, c]) => c >= 1440);
+  week.forEach((d, i) => {
+    for (const [o, c] of d) {
+      if (o === 0 && !continues(i)) flag(i, "opens at midnight");
+      else if (o < 300 && c <= 720 && !continues(i)) flag(i, `open only overnight, ${fmt(o)} to ${fmt(c)}`);
+    }
+  });
+
+  // Opens before 5 AM on one or two days while the rest of the week opens at 6 AM or later.
+  const early = openDays.filter((i) => week[i][0][0] > 0 && week[i][0][0] < 300);
+  const lateOpeners = openDays.filter((i) => week[i][0][0] >= 360);
+  if (early.length && early.length <= 2 && lateOpeners.length >= 3) {
+    for (const i of early) flag(i, `opens at ${fmt(week[i][0][0])} but other days open after 6 AM`);
+  }
+
+  // Closes after midnight on one or two days while the rest of the week closes by 8 PM.
+  const lastClose = (i: number) => week[i][week[i].length - 1][1];
+  const late = openDays.filter((i) => lastClose(i) > 1440);
+  const others = openDays.filter((i) => !late.includes(i));
+  if (late.length && late.length <= 2 && others.length >= 3 && others.every((i) => lastClose(i) <= 20 * 60)) {
+    for (const i of late) flag(i, `closes at ${fmt(lastClose(i))} but other days close by 8 PM`);
+  }
+
+  return [...reasons].sort(([a], [b]) => a - b).map(([i, why]) => ({ day: DAYS[i], reason: why.join("; ") }));
 }
 
 /** How a day's hours read on the page. */

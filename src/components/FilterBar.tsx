@@ -57,6 +57,14 @@ export function FilterableList({
     return () => document.removeEventListener("click", close);
   }, [openMenu]);
 
+  // Re-check Open now every minute while it is on, so a page left open never keeps a place that just closed.
+  const [minute, setMinute] = useState(0);
+  useEffect(() => {
+    if (!openNow) return;
+    const id = setInterval(() => setMinute((m) => m + 1), 60_000);
+    return () => clearInterval(id);
+  }, [openNow]);
+
   const filtered = useMemo(() => {
     let out = businesses.slice();
     if (prices.length) out = out.filter((b) => prices.includes(b.price_range));
@@ -68,7 +76,7 @@ export function FilterableList({
     else if (sort === "reviews") out.sort((a, b) => (b.review_count ?? 0) - (a.review_count ?? 0));
     else if (sort === "newest") out.sort((a, b) => b.date_listed.localeCompare(a.date_listed));
     return pinnedFirst(out);
-  }, [businesses, prices, rating, openNow, selNeighborhoods, selAmenities, sort]);
+  }, [businesses, prices, rating, openNow, minute, selNeighborhoods, selAmenities, sort]);
 
   useEffect(() => { setVisible(24); }, [prices, rating, openNow, selNeighborhoods, selAmenities, sort]);
 

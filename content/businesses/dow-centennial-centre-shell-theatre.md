@@ -18,8 +18,8 @@ hours:
   wednesday: "8:00 AM–8:00 PM"
   thursday: "8:00 AM–8:00 PM"
   friday: "8:00 AM–8:00 PM"
-  saturday: "9:00 AM–5:00 AM"
-  sunday: "9:00 AM–5:00 AM"
+  saturday: "9:00 AM–5:00 PM"
+  sunday: "9:00 AM–5:00 PM"
 photos:
   - "/photos/dow-centennial-centre-shell-theatre-g1.jpg"
   - "/photos/dow-centennial-centre-shell-theatre-g2.jpg"

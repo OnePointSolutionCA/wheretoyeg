@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import type { Hours } from "@/lib/types";
-import { displayDayHours, edmontonNow } from "@/lib/openNow";
+import { displayDayHours, edmontonTime } from "@/lib/openNow";
 
 const DAYS: (keyof Hours)[] = [
   "monday","tuesday","wednesday","thursday","friday","saturday","sunday",
@@ -12,7 +12,7 @@ export function BusinessHours({ hours }: { hours: Hours }) {
   // Today's row is picked in the browser so a cached page never highlights yesterday.
   const [todayIdx, setTodayIdx] = useState(-1);
   useEffect(() => {
-    const tick = () => setTodayIdx((edmontonNow().getDay() + 6) % 7); // Monday=0
+    const tick = () => setTodayIdx((edmontonTime().day + 6) % 7); // Monday=0
     tick();
     const id = setInterval(tick, 60_000);
     return () => clearInterval(id);

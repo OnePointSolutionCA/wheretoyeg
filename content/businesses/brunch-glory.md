@@ -41,11 +41,11 @@ reviews:
     comment: |
       A wonderful breakfast experience from start to finish. The food was fresh, beautifully presented, and absolutely delicious. Everything we tried was full of flavor and perfectly prepared, which really made the meal enjoyable
 hours:
-  monday: "8:00 AM–8:00 PM"
-  tuesday: "8:00 AM–8:00 PM"
-  wednesday: "8:00 AM–8:00 PM"
-  thursday: "8:00 AM–8:00 PM"
-  friday: "7:00 AM–2:00 AM"
-  saturday: "7:00 AM–2:00 AM"
-  sunday: "7:00 AM–5:00 PM"
+  monday: "7:00 AM–3:00 PM"
+  tuesday: "7:00 AM–3:00 PM"
+  wednesday: "7:00 AM–3:00 PM"
+  thursday: "7:00 AM–3:00 PM"
+  friday: "7:00 AM–3:00 PM"
+  saturday: "7:00 AM–3:00 PM"
+  sunday: "7:00 AM–3:00 PM"
 ---

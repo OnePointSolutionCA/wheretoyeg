@@ -18,7 +18,7 @@ hours:
   thursday: "9:00 AM–9:00 PM"
   friday: "9:00 AM–9:00 PM"
   saturday: "9:00 AM–9:00 PM"
-  sunday: "12:00 AM–9:00 PM"
+  sunday: "12:00 PM–9:00 PM"
 photos:
   - "/photos/spice-valley-indian-grocery-store-g1.jpg"
 rating: 4.6

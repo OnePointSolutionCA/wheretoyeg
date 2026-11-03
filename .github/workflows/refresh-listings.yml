@@ -17,12 +17,13 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          # 24 runs the shared TypeScript hours check in src/lib/openNow.ts directly.
+          node-version: 24
 
       - name: Refresh batch
         env:
           GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
-        run: node scripts/refresh-listings.mjs
+        run: npm run refresh
 
       - name: Commit and push
         run: |

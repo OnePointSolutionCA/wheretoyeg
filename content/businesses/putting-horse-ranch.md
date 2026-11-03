@@ -13,13 +13,13 @@ google_maps_url: "https://maps.google.com/?cid=10848512177608380132&g_mp=Cidnb29
 latitude: 53.587828
 longitude: -113.885715
 hours:
-  monday: "9:00 AM–7:30 PM"
-  tuesday: "9:00 AM–7:30 PM"
-  wednesday: "9:00 AM–1:30 AM"
-  thursday: "9:00 AM–7:30 PM"
-  friday: "9:00 AM–7:30 PM"
-  saturday: "9:00 AM–7:30 PM"
-  sunday: "9:00 AM–7:00 PM"
+  monday: "9:00 AM–9:00 PM"
+  tuesday: "9:00 AM–9:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
+  saturday: "9:00 AM–9:00 PM"
+  sunday: "9:00 AM–9:00 PM"
 photos:
   - "/photos/putting-horse-ranch-g1.jpg"
   - "/photos/putting-horse-ranch-g2.jpg"
