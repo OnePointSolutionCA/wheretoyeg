@@ -4,7 +4,6 @@ seoTitle: "Christmas Lights Edmonton 2026: Best Displays & Light Walks"
 slug: "christmas-lights-edmonton-2026"
 description: "Christmas lights in Edmonton for 2026 with real dates: Candy Cane Lane, Zoominescence at the Valley Zoo, the Muttart, the Legislature and Leduc Country Lights."
 publishedDate: "2026-11-04"
-draft: true
 tags: ["christmas", "holiday", "lights", "winter", "activities", "families", "guides"]
 ---
 
@@ -40,7 +39,7 @@ Every date below comes from the organizer's own website, checked in early Novemb
 
 **Hours:** 5 to 10 PM, last entry at 9 PM.
 
-**Good to know:** Ticket prices were not posted yet when we checked, so look at the event page before you go. The society describes it as a night of light, animals and hot chocolate for the whole family. It sits in the river valley, so dress for colder air than downtown.
+**Good to know:** Ticket prices were not posted yet when we checked, so look at the event page before you go. The society calls it a unique way to see the zoo at night. It sits in the river valley, so dress for colder air than downtown.
 
 ## What is the Muttart Conservatory's Christmas display this year?
 
@@ -58,7 +57,7 @@ The grounds are an easy walk on a clear night. Pair it with a stop at a nearby [
 
 ## Is Leduc Country Lights open in 2026, and what does it cost?
 
-[Leduc Country Lights](/activities-fun/leduc-country-lights) is a walk through light display in the countryside near Leduc, south of Edmonton. It is run entirely by volunteers with the Leduc Kinsmen, and its profits fund community programs run by the Leduc Kinsmen. Our listing shows a 4.8 rating from 730 Google reviews.
+[Leduc Country Lights](/activities-fun/leduc-country-lights) is a walk through light display in the countryside near Leduc, south of Edmonton. It is run by volunteers with the Leduc Kinsmen, in partnership with the Leduc West Antique Society. Our listing shows a 4.8 rating from 730 Google reviews.
 
 **2026 dates:** Not posted yet when we checked. Last season ran November 29 to December 31, 5 to 9 PM Sunday to Thursday and 5 to 10 PM Friday and Saturday, closing at 8 PM on December 24 and 31 and closed on Christmas Day. Check [leduccountrylights.ca](https://leduccountrylights.ca/) before you drive out.
 
