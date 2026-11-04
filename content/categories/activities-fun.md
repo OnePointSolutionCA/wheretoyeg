@@ -15,6 +15,9 @@ seo_keywords:
   - "board game cafe Edmonton"
 order: 5
 active: true
+guides:
+  - { label: "Christmas lights in Edmonton", href: "/blog/christmas-lights-edmonton-2026" }
+  - { label: "Winter things to do", href: "/blog/winter-things-to-do-edmonton-2026" }
 subcategories:
   - { name: "Climbing Gyms", slug: "climbing" }
   - { name: "Padel & Racquet", slug: "padel" }
