@@ -101,10 +101,11 @@ export async function generateMetadata({ params }: { params: { category: string;
     const noun = subNoun(cat.slug, sub.name, sub.slug);
     const list = getBusinessesBySubcategory(cat.slug, sub.slug);
     const count = list.length;
+    const spots = count === 1 ? "Spot" : "Spots";
     const title = fitTitle([
-      `Best ${label} in Edmonton | ${count} Spots Near Me | WhereToYEG`,
-      `Best ${label} in Edmonton | ${count} Spots Near Me`,
-      `Best ${label} in Edmonton (${count} Spots)`,
+      `Best ${label} in Edmonton | ${count} ${spots} Near Me | WhereToYEG`,
+      `Best ${label} in Edmonton | ${count} ${spots} Near Me`,
+      `Best ${label} in Edmonton (${count} ${spots})`,
       `Best ${label} in Edmonton`,
       `${label} in Edmonton`,
     ]);

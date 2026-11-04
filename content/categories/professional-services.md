@@ -28,5 +28,6 @@ subcategories:
   - { name: "Tutoring", slug: "tutoring" }
   - { name: "Security Services", slug: "security-services" }
   - { name: "Florists", slug: "florists" }
+  - { name: "First Aid & CPR Training", slug: "first-aid-training" }
 ---
 From a notary for a quick signature to an accountant at tax time, find local professionals here. Compare Edmonton law offices, accountants, immigration consultants, realtors, mortgage brokers and more by Google rating and review count.
