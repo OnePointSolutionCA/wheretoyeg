@@ -23,8 +23,8 @@ hours:
 photos:
   - "/photos/agnii-the-authentic-indian-cuisine-g1.jpg"
   - "/photos/agnii-the-authentic-indian-cuisine-g2.jpg"
-rating: 4.7
-review_count: 30
+rating: 4.8
+review_count: 51
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -35,9 +35,35 @@ tags: ["edmonton", "indian"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Parie Zolala"
+    rating: 5
+    comment: |
+      I walked into this restaurant because it’s in our neighborhood but I’m very glad I did. The atmosphere is great real authentic Indian! The food is great smells AMAZING and tastes even better very rich in flavour. They kindly offered free drinks too. Friendly staff that go the extra mile to make you happy. Strongly recommended
+      The photo I shared was after I was done with my food haha but I just couldn’t resist it 😋
+  - name: "satyam kumar"
+    rating: 5
+    comment: |
+      Had a wonderful experience with family and friends at Agnii Restaurant! The food was delicious, the atmosphere was welcoming, and the service was excellent. The staff were very friendly, attentive, and helpful. Everything was served fresh and with great presentation. Definitely a great place to enjoy authentic Indian food with family and friends. Highly recommended!
+  - name: "Akash Singh"
+    rating: 5
+    comment: |
+      Had an amazing experience at Agni! The food was absolutely delicious, authentic, and full of flavour. Every dish we tried was fresh, well-prepared, and had that perfect Indian taste.
+      
+      A special shoutout to Chef Bharat — you can really tell how much passion and skill goes into the food. Everything was cooked perfectly!
+      
+      Also, Daman, the Customer Service Specialist, was fantastic. Very welcoming, attentive, and made sure we had a great experience from start to finish.
+      
+      Great food, excellent service, and a wonderful atmosphere. Definitely a place I would recommend to anyone looking for a great Indian restaurant. Will definitely be coming back!
+  - name: "Surjit Singh"
+    rating: 5
+    comment: |
+      We missed this ambience in Windermere, finally opened and the same taste as before.
+      
+      Keep up the good taste and spirit! Your team  will succeed. Good job Daman!!!!!
+      
+      This is just the welcome treat pic....tried Shole Bature yum yum..Edmonton u wil luv them
   - name: "Manish Rana"
     rating: 5
-    date: "2026-10-01"
     comment: |
       ⭐️⭐️⭐️⭐️⭐️
       
@@ -48,25 +74,4 @@ reviews:
       The server was also amazing — very professional, friendly, and attentive throughout the visit.
       
       Great food, great service, and amazing hospitality. Highly recommended! ⭐️⭐️⭐️⭐️⭐️
-  - name: "Shq Shq"
-    rating: 5
-    date: "2026-10-01"
-    comment: |
-      Amazing food,excellent service.
-      I highly recommend this place.
-  - name: "Harsh Shah"
-    rating: 5
-    date: "2026-09-30"
-    comment: |
-      We ordered a couple of dishes, and everything served was fresh, perfectly cooked, and flavorful. Absolutely loved the food!
-  - name: "Raman Deep"
-    rating: 5
-    date: "2026-09-30"
-    comment: |
-      Food was super delicious, recommend everyone to go there 🤩
-  - name: "Utsav Thakkar"
-    rating: 5
-    date: "2026-09-27"
-    comment: |
-      Food was really good Dahi kebab was good🥳
 ---

@@ -24,30 +24,29 @@ photos:
   - "/photos/aim-fitness-g1.jpg"
   - "/photos/aim-fitness-g2.jpg"
 rating: 5.0
-review_count: 28
+review_count: 30
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "personal-training"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Sydney Karpman"
+  - name: "Rebecca Seaman"
     rating: 5
-    date: "2026-06-26"
     comment: |
-      If you are looking for personal training in a chill, welcoming, friendly and supportive environment, look no further! I have been working with Trevor for about 4 years and he has helped me stay fit through two pregnancies and two postpartum periods and I truly believe I am stronger than I was before I had kids. I love the environment at AIM Fitness because everyone is so friendly. The other trainers and their clients will always greet you with a smile or a friendly hello. I also love that it’s not over crowded when I’m there and can get the best out of every workout without having to wait for equipment to come available. This place is the best for personal training!!
-  - name: "Tyler Newell"
+      Aim Fitness has been a welcoming, encouraging and fun place to get back into personal training. Never too crowded, has all the equipment you’ll need and the facility is always clean and well kept. Trevor is amazing and has been stellar at creating a hybrid program that caters perfectly to our needs. He meets you where you’re at and encourages a positive outlook on fitness. It’s fun to be in an atmosphere that promotes wellness and fitness while still feeling safe and inclusive for all!
+  - name: "Nicole Milner"
     rating: 5
-    date: "2026-06-26"
     comment: |
-      I love my sessions at Aim Fitness. I appreciate the knowledge and professionalism of their trainers. The gym itself is clean, well-equipped, immaculately maintained, and I always have lots of space. Most importantly to me, the vibe is always fun and positive. 3 years later and I still look forward to my training sessions each week.
+      We absolutely love AIM Fitness. It feels less like a typical gym and more like a private fitness retreat.
       
-      They've helped me accelerate my recovery from long term injuries, and my overall strength level now is higher than it ever has been, more so than when I was in my 20s even.
+      The owner is incredibly professional, personable and genuinely supportive of his clients, and that same philosophy is reflected in the trainers. They take the time to understand your individual goals and abilities and readily make adaptations or accommodations so you can feel both challenged and successful.
       
-      I don't write reviews because I want a small internet footprint. That said, for Trevor, Amy, and the team, it's worth taking that step. I highly recommend Aim Fitness for private or partner sessions. Both those experiences have been top notch!
+      The facility itself is immaculate, comfortable and thoughtfully maintained. Fresh cold water is always available, along with three private unisex bathrooms, two full showers, fresh linens and toiletries.
+      
+      What really sets AIM apart is how personal the experience feels. You never feel like just another gym membership. There is a genuine sense that the people here care about you, your progress and helping you reach your goals. We feel incredibly fortunate to have found AIM and highly recommend it!
   - name: "Jen Salamandick"
     rating: 5
-    date: "2026-08-02"
     comment: |
       I was nervous to come to my initial assessment (in 2023), but I am SO glad that I did. So if you are having any hesitations, please just believe in yourself and put your trust in this team because you really cannot go wrong with any of these trainers.
       
@@ -60,14 +59,12 @@ reviews:
       I have made significant progress since I started coming here, and I’ve also had a time when I had to pull back a bit to recover from a “frozen shoulder” situation. I’m lucky that because I had professional support at this gym, I never felt like I was losing what I’d built so far or like I’d be starting back at square one. Part of that is probably improved mental toughness that has come from feeling stronger as well.
       
       Investing in yourself at a gym like this with trainers like these will improve all parts of your life!
-  - name: "Rebecca Seaman"
+  - name: "Sydney Karpman"
     rating: 5
-    date: "2026-07-07"
     comment: |
-      Aim Fitness has been a welcoming, encouraging and fun place to get back into personal training. Never too crowded, has all the equipment you’ll need and the facility is always clean and well kept. Trevor is amazing and has been stellar at creating a hybrid program that caters perfectly to our needs. He meets you where you’re at and encourages a positive outlook on fitness. It’s fun to be in an atmosphere that promotes wellness and fitness while still feeling safe and inclusive for all!
-  - name: "Leticia Michalishen"
+      If you are looking for personal training in a chill, welcoming, friendly and supportive environment, look no further! I have been working with Trevor for about 4 years and he has helped me stay fit through two pregnancies and two postpartum periods and I truly believe I am stronger than I was before I had kids. I love the environment at AIM Fitness because everyone is so friendly. The other trainers and their clients will always greet you with a smile or a friendly hello. I also love that it’s not over crowded when I’m there and can get the best out of every workout without having to wait for equipment to come available. This place is the best for personal training!!
+  - name: "Jen Sak"
     rating: 5
-    date: "2026-06-29"
     comment: |
-      I've been training with Trevor for several years now. His gym and the trainers in it are all very professional, inclusive, and feel like a community of people who value meeting you where you're at and supporting you to go where you want to go. Trevor is skilled at modifying programs when I have a hiccup with an injury or niggle, which has completely changed my mindset about having to sideline myself. Safe movement almost always has me feeling better. I've learned to push myself when I'm uncomfortable and that's translated far beyond the walls of Aim Fitness! Highly recommend coming here.
+      Aim fitness is an amazing place to properly and safety move your body. Whatever your physical goals might be, Aim fitness can help you get there. I’ve experienced other personal training gyms around the city and I love this one. The space is perfect for every type of exercise. They never have more than a couple of groups working at the same time and we have been the only ones there a few times. Trevor is so positive and well educated.  He also makes us programs to do with our own equipment at home. He takes into account our previous injuries and makes specialized workouts just for us. Would totally recommend this place to others.
 ---

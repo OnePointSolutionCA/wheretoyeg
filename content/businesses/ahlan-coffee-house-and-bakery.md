@@ -6,21 +6,25 @@ subcategory: "dessert-cafes"
 neighborhood: "St. Albert"
 address: "130 Bellerose Dr #115, St. Albert, AB T8N 8N8"
 rating: 4.7
-review_count: 683
+review_count: 698
 tier: "featured"
 website: "https://ahlancoffeehouse.com/"
 google_maps: "https://maps.google.com/?cid=15713101016985555220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/ahlan-coffee-house-and-bakery.jpg"
 reviews:
-  - name: "Cheyanne W"
+  - name: "Navneet Kaur"
+    rating: 4
+    comment: |
+      Had such a lovely time at Ahlan Coffee House! I came here with my mom l and sister and we absolutely loved it. The space is so beautiful and spacious, and because it wasn't too busy, it was the perfect spot to sit and catch up. All the drinks and the desserts were amazing. Such a great addition to St. Albert—we'll definitely be back! 🍰☕
+  - name: "Cindy"
+    rating: 3
+    comment: |
+      First time visiting this place. As a coffee lover, I’m always looking for new places to try. Found this place and had to try it. It’s a beautiful coffee place in St Albert, a few stores down by Mercatos. Ahlan coffee house is beautiful inside with gorgeous wood work, modern, chic tables and chairs and all around a great place to have coffee. The staff were friendly, but it was busy and we had to wait for our coffee, we were given a small pager, to let us know when our order was done. They did have display case filled with fake food as their were one of each item. I highly doubt they make the baked goods there. It’s very pricey for a coffee. As you see the size in the picture. My caramel macchiato was lukewarm, I couldn’t taste the caramel and my husband’s coffee was also lukewarm. We did drink our coffees outside as it was warmer outside than inside. It’s just another coffee place with regular coffee☕️
+  - name: "Michelle Louise"
     rating: 5
     comment: |
-      We have found our new "treat yourself" coffee shop. This place is the hot older sister that Starbucks wishes she was. We had the Spanish Pistachio Iced Latte and the Cloud Peach Mango Burst - both were EXCEPTIONAL. The Dubai Crepe was huge, crunchy, dripping with pistachio and chocolate creme. I would definitely recommend splitting it between at least two people, maybe even a group of four! The atmosphere is perfect - bright, airy, luxuriant. The staff are cheerful and friendly. Honestly, we're coming back tomorrow and bringing friends!
-  - name: "Mi It"
-    rating: 5
-    comment: |
-      Highly recommended. Everything we tried was amazing. This is our favorite spot. We tried the Ahlan sunrise toast a very good breakfast choice and fulfilling and flavorful. We tried the blueberry mousse cake which is so good, the flavors are so balanced. We tried the fruit cocktail cup which was so fresh and diverse in flavors. And as always we get the karak tea pot, everyone's favorite. Employees are so friendly and nice. Thats without mentioning how fancy is the place... highly recommended with very nice ambiance.
+      My daughter wants to own a café when she grows up so has been going to various places with her tutor and checking out what she likes and doesn’t. This place is 5 star all the way. Amazing service! They are always so kind to her. She absolutely adores the food and especially loves some of the viral trend options. The atmosphere is stunning and bright, very classy! Our son and his girlfriend went to study and adored all the options and the cheesecake. Highly recommend stopping in as there are so many cool things to try.
   - name: "Doodleworx Reviews!"
     rating: 5
     comment: |
@@ -31,14 +35,10 @@ reviews:
       We had a chai latte and a coffee and chose two stunning dessert.  The quality was Paris level, with its presentation and flavours. The chocolate cake was one of the best I’ve ever had and I loved the white plates and the gold utensils.
       
       Classy and delicious in a unique combination. ‘Top notch,’ as my wife says. Highly recommended.
-  - name: "Navneet Kaur"
-    rating: 4
+  - name: "S G"
+    rating: 5
     comment: |
-      Had such a lovely time at Ahlan Coffee House! I came here with my mom l and sister and we absolutely loved it. The space is so beautiful and spacious, and because it wasn't too busy, it was the perfect spot to sit and catch up. All the drinks and the desserts were amazing. Such a great addition to St. Albert—we'll definitely be back! 🍰☕
-  - name: "Cindy"
-    rating: 3
-    comment: |
-      First time visiting this place. As a coffee lover, I’m always looking for new places to try. Found this place and had to try it. It’s a beautiful coffee place in St Albert, a few stores down by Mercatos. Ahlan coffee house is beautiful inside with gorgeous wood work, modern, chic tables and chairs and all around a great place to have coffee. The staff were friendly, but it was busy and we had to wait for our coffee, we were given a small pager, to let us know when our order was done. They did have display case filled with fake food as their were one of each item. I highly doubt they make the baked goods there. It’s very pricey for a coffee. As you see the size in the picture. My caramel macchiato was lukewarm, I couldn’t taste the caramel and my husband’s coffee was also lukewarm. We did drink our coffees outside as it was warmer outside than inside. It’s just another coffee place with regular coffee☕️
+      We visited the Ahlan Coffee House in St. Albert today for the first time.  Outstanding.  The entire place is clean, sparkling and elegant. The large windows make the spacious seating area so bright.    They have some very unique drinks like the Banana Pudding Latte, Tiramisu Latte, Strawberry Shortcake Latte and a Brown Sugar Shaken Espresso.   This cold and refreshing drink is shaken expresso with a signature house-made brown sugar syrup, creamy milk, topped with vanilla sugar cold foam. and sprinkled with cinnamon.  This was so delightful and would highly recommend if you enjoy a stronger coffee.    The service  is equally as lovely as the drinks.  Thank you for a wonderful experience today, Ahlan staff.
 hours:
   monday: "8:00 AM–12:00 AM"
   tuesday: "8:00 AM–12:00 AM"

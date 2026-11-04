@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Castle Downs"
 address: "12728 167 Ave NW, Edmonton, AB T6V 1J6"
 rating: 5
-review_count: 990
+review_count: 1012
 tier: "featured"
 phone: "(780) 761-8882"
 website: "https://www.albanydental.ca/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Website_URL"
@@ -14,26 +14,31 @@ google_maps: "https://maps.google.com/?cid=7901652226846732877&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/albany-dental-edmonton.jpg"
 reviews:
-  - name: "Liz B"
+  - name: "Hard Work"
     rating: 5
     comment: |
-      It's no surprise why this clinic has so many 5 star reviews. It's evident they truly care about their customers. From the cozy slides offered at the front to the cleanliness of the waiting area to the AMAZING front end staff. I'm honestly so impressed. I just saw the hygienist for my first appointment but wow. I have nothing but amazing things to say about this clinic and I'll definitely be going here for all future dental needs. My hygienist was so friendly yet professional and very gentle. I felt comfortable the entire time and truly cared for. I've been looking for a new dental clinic for a while now and am happy I took the chance on Albany Dental. Thanks all!
-  - name: "Max Tran"
+      Visited this clinic today for a routine check up for my daughter, Josephine, the dental hygienist provided excellent customer service while working with my 6-year-old. She was very patient, gentle, and friendly, and took the time to explain each step in a way my child could understand. She helped make the dental visit comfortable and positive, and my child felt safe, happy and cared for throughout the appointment. As a mom,It was so satisfying seeing how she interact with my daughter.
+      I truly appreciated her professionalism and wonderful approach with children.Thank you very much.
+  - name: "Sam Davidson"
     rating: 5
     comment: |
-      I had a great experience at Albany Dental for my dental hygiene appointment. Natalie was friendly, accommodating, and thorough, making the cleaning comfortable from start to finish. The staff were welcoming, and the clinic was clean and professional. I really appreciated the excellent care and would definitely recommend Albany Dental to anyone looking for quality dental care.
-  - name: "Amanda K"
+      Great experience here. Started coming here after no seeing a dentist in over 8 years as I have anxiety with going. They are amazing keeping you calm. I also have brought my daughter here she is 6, they have been amazing with her dental fears. I would highly recommend!
+  - name: "Magic Ezibai"
     rating: 5
     comment: |
-      I had a wonderful experience at this dental office. The girls at the reception desk were warm, welcoming, and very helpful from the moment I walked in, and the whole space was exceptionally clean and beautifully kept. I also loved the plants and thoughtful decor throughout the office, which made it feel calm and inviting. The hygienist was gentle, thorough, and made me feel completely comfortable, and the dentist was professional, kind, and took the time to explain everything clearly. Overall, the entire team provided excellent care, and I would definitely recommend this office to anyone looking for a positive dental experience.
-  - name: "Shania Peltonen"
+      I had a great experience at Albany Dental! From the moment I walked in, the atmosphere was very friendly and welcoming, and the receptionists were kind and helpful.
+      
+      I went in for a dental scaling and cleaning, and my hygienist was fantastic. She was very informative and took the time to explain the entire process to me as she went along. She also pointed out a few things I was doing wrong with my dental routine, such as brushing too hard. She recommended switching to a soft-bristle toothbrush, which I’ve noticed has helped me a lot already.
+      
+      The whole experience was very refreshing, and I left feeling like I had learned a lot about taking better care of my teeth. Overall, I was very pleased with the service and will definitely be choosing Albany Dental for all of my future dental needs. Highly recommend!
+  - name: "Gabriella Lemke"
     rating: 5
     comment: |
-      Albany dental has been one of my more enjoyable dental experiences in a long time. Josephine has easily become my go to Dental Hygenist and makes me feel comfortable and cared for. She understands that my depression hinders me from taking care of my teeth well and i don't feel judged or lectured by her, only well informed and that she wants the best for my oral health. Dr. La is also very personable and nice. The technology/upgrades this office has and the TV on the ceiling is also a huge plus! I would recommend coming here for a regular cleaning :)
-  - name: "Lay Lay"
-    rating: 4
+      Super nice dental office with amazing staff! I’ve been going here for years and have never had a bad experience. The waiting room was recently renovated and has coffee and tea available while you wait—not that you’ll be waiting long. They also have TVs on the wall and ceiling of each operatory with Netflix, so you can pick something to watch during your appointment. All of the hygienists are super friendly, and the dentist I always see, Dr. Anmol Dhaliwal, is the best! I highly recommend this dental clinic for anybody looking for a friendly, professional, and comfortable experience.
+  - name: "Arvin Mendoza"
+    rating: 5
     comment: |
-      This was my first time visiting Albany Dental. I had a wonderful experience with the first two staff members. The dental hygienist who did my cleaning was amazing—very gentle, friendly, and highly patient with me. The second staff member who took my X-rays was also incredibly polite and welcoming.However, my experience with the third person (the doctor) was a bit disappointing. I am sharing this feedback here so management and the clinic team can address this internally to improve her overall attitude toward patients.
+      I’ve been a long-time patient here, and I couldn't be happier with the care I receive. From all my general dental procedures to getting braces, the entire team has been absolutely incredible. They guided me through every step of the process, kept me comfortable, and truly went above and beyond to make sure my teeth look and feel amazing. If you're looking for a dedicated, caring dental clinic, this is the place to go. Highly recommend!
 hours:
   monday: "8:30 AM–3:00 PM"
   tuesday: "8:00 AM–7:00 PM"

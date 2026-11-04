@@ -24,7 +24,7 @@ photos:
   - "/photos/alberta-aviation-museum-2.jpg"
   - "/photos/alberta-aviation-museum-3.jpg"
 rating: 4.6
-review_count: 1765
+review_count: 1792
 price_range: "$$"
 amenities:
   - "Family Friendly"
@@ -35,34 +35,36 @@ tags: ["museum", "aviation", "kids", "family-friendly", "indoor"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Mick M. Sahib"
+    rating: 5
+    comment: |
+      Very nice museum with excellent volunteers and staff. It’s quite a large place with ample room to move around and see exhibits. There is also a really neat simulator that kids can try that accurately mimics flying a real airplane.
+      
+      We went during open cockpit days where kids can actually go inside the planes and sit in the cockpit. Pretty neat to say the least.
+      
+      Family pass was $67 which was quite affordable. Definitely worth checking out!
+  - name: "The Hooting Owl"
+    rating: 5
+    comment: |
+      Spectacular place for anyone who loves everything aviation and wants to learn the history
+      
+      Also great place to spend an hour or two. There is lots to see, and you can get a guided tou. They also have a simulation for young people.
+      
+      Would recommend if you are visiting Edmonton Canada 🇨🇦.
+      
+      Staff are also super friendly.
   - name: "sam h.wydrych"
     rating: 5
     comment: |
       I had a wonderful experience at the museum. Rick was kind enough to show me around, gear the visit to my specific interests and even threw in some jokes for free! I only wish I had organized myself to have been able to stay for longer.
       Everyone was friendly and knowledgeable. There is a bathroom on site. The gift shop has some cool things.
       I highly recommend a visit for newbies in Edmonton!
-  - name: "Zaheer Pirani"
-    rating: 4
+  - name: "Almoghiera Alhabbal"
+    rating: 5
     comment: |
-      This is one of the must visit destinations in Edmonton especially if you like historical planes and the history of Canadian aviation. Although it is smaller than what I had expected, it still has some great models of older Airplanes on display. The museum is accessible by bus and has enough parking available as well.
+      We had a great time visiting the Alberta Aviation Museum! It was really interesting to learn about the different types of aircraft, airlines, and how aviation has evolved over the years. There’s a lot to see and learn, and it was an enjoyable experience. I highly recommend getting a guide to make the most of your visit rather than just walking around on your own. Definitely worth checking out if you’re interested in aviation or history!
   - name: "David Hambidge"
     rating: 5
     comment: |
-      What an interesting place. They don't just have details of the planes. They have pioneering stores of early 1920 bush flight into the most hospitable winter conditions. I loved it.
-  - name: "Ginny Explores"
-    rating: 5
-    comment: |
-      Alberta Aviation Museum is an impressive and thoughtfully curated experience. The historical detail is rich and comprehensive, covering not only Canada’s aviation development during World War I and World War II, but also highlighting the many individuals who contributed — including the important roles women played in aviation history.
-      
-      The museum does a great job presenting the personal stories and biographies of pilots and aviation pioneers, bringing history to life beyond just aircraft displays.
-      
-      There is a wide variety of aircraft on display from different sectors, including military, training, law enforcement, and civil aviation. The exhibits also explore aircraft maintenance, pilot training, technological development, and the growth of aviation companies.
-      
-      For families, there are interactive flight simulators and hands-on activities that allow children to experience aviation in a playful way. There’s even a creative corner where kids can color aviation-themed drawings with crayons — a thoughtful touch that keeps younger visitors engaged.
-      
-      Overall, the number of aircraft on display is impressive, and the museum conveys a powerful sense of Canada’s aviation heritage and innovation. It’s both educational and inspiring. Walking through the exhibits truly gives you a sense of how aviation shaped the country’s development and how technology once led to remarkable achievements.
-  - name: "Zack MacGregor"
-    rating: 5
-    comment: |
-      Loved it. There are so many exhibits and most of them have scenery with them. Plus anywhere that has a mosquito and a B25 is worth visiting. Definitely check it out if you are in the area.
+      What an interesting place. They don't just have details of the planes. They have pioneering stores of early 1920 bush flight into the most inhospitable winter conditions. I loved it.
 ---

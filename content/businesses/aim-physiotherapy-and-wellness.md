@@ -24,40 +24,23 @@ photos:
   - "/photos/aim-physiotherapy-and-wellness-g1.jpg"
   - "/photos/aim-physiotherapy-and-wellness-g2.jpg"
 rating: 5.0
-review_count: 134
+review_count: 141
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "physiotherapy"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Brienna Stawnicky"
+  - name: "Mandeep Kaur"
     rating: 5
-    date: "2026-06-03"
     comment: |
-      I’ve had a great experience with my physiotherapist. They are knowledgeable, professional, and genuinely care about their patients’ progress. They took the time to listen to my concerns, explain my treatment plan clearly, and make sure I felt comfortable throughout each appointment. I’ve noticed significant improvements since starting treatment and always leave feeling supported and motivated. I highly recommend them to anyone looking for a skilled and compassionate physiotherapist.
-  - name: "Dave Sergi"
+      I have really great experience with Chirag. He took his time and give appropriate time to each patient. With a lot of pain going on from long time I start feeling better now. All thanks to him. Highly recommend
+  - name: "Navjot Brar"
     rating: 5
-    date: "2026-06-03"
     comment: |
-      I’ve had treatment at Aim Physiotherapy myself, and my daughter is currently receiving treatment there as well. The staff are always friendly, welcoming, and easy to deal with.
-      
-      They are very knowledgeable and do a great job of working within your comfort level and tolerances while helping you make progress. They take the time to listen, explain things clearly, and make you feel comfortable throughout the process. I would definitely recommend Aim Physiotherapy to anyone looking for treatment.
-  - name: "baljinder K"
-    rating: 5
-    date: "2026-08-11"
-    comment: |
-      I had a wonderful massage experience with Richa. She was very professional, caring, and attentive to my needs. She took the time to understand where I was experiencing tension and made sure I was comfortable throughout the session. Her technique was excellent, and I felt relaxed and refreshed afterward.
-      
-      I highly recommend Richa to anyone looking for a skilled and caring massage therapist. I will definitely be coming back! 💆‍♀️✨
-  - name: "Tanya Caketop"
-    rating: 5
-    date: "2026-06-30"
-    comment: |
-      I have only had one visit so far, but I left feeling very happy with my experience. The physiotherapist and all of the staff were welcoming, kind, and professional. They made me feel comfortable and took the time to listen to my concerns. I am grateful for the excellent care and positive atmosphere. I would definitely recommend this clinic to others. Thank you!
+      I had a great experience with my physiotherapist and massage therapist. They are very caring, professional, and knowledgeable. They took the time to understand my concerns and always made me feel comfortable throughout my treatment. I really appreciate their patience, guidance, and support during my recovery after MVA. I would definitely recommend them to anyone looking for a great physiotherapist and massage therapist l.
   - name: "Nick Anderson"
     rating: 5
-    date: "2026-06-18"
     comment: |
       ⭐⭐⭐⭐⭐
       
@@ -70,4 +53,14 @@ reviews:
       What stood out most was his ability to understand the underlying issue and develop a treatment plan that addressed the root cause rather than just the symptoms.
       
       I would highly recommend AIM Physiotherapy Clinic to anyone looking for professional physiotherapy services. Thank you to the team for providing such a positive experience and excellent care.
+  - name: "baljinder K"
+    rating: 5
+    comment: |
+      I had a wonderful massage experience with Richa. She was very professional, caring, and attentive to my needs. She took the time to understand where I was experiencing tension and made sure I was comfortable throughout the session. Her technique was excellent, and I felt relaxed and refreshed afterward.
+      
+      I highly recommend Richa to anyone looking for a skilled and caring massage therapist. I will definitely be coming back! 💆‍♀️✨
+  - name: "Tanya Caketop"
+    rating: 5
+    comment: |
+      I have only had one visit so far, but I left feeling very happy with my experience. The physiotherapist and all of the staff were welcoming, kind, and professional. They made me feel comfortable and took the time to listen to my concerns. I am grateful for the excellent care and positive atmosphere. I would definitely recommend this clinic to others. Thank you!
 ---

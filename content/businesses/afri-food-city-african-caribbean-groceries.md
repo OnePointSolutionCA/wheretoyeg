@@ -23,43 +23,34 @@ hours:
 photos:
   - "/photos/afri-food-city-african-caribbean-groceries-g1.jpg"
 rating: 5.0
-review_count: 32
+review_count: 36
 amenities:
   - "Delivery"
 tags: ["edmonton", "african-caribbean"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Samson Animashaun"
+  - name: "Ladouce Kaluta"
     rating: 5
-    date: "2026-07-07"
     comment: |
-      Great African store with quality products and reasonable prices. I bought turkey here, and it was fresh and well packaged. The staff were friendly, and I had a great shopping experience. I’ll definitely be coming back. Highly recommended!
-  - name: "Eric Kobina Idun"
-    rating: 5
-    date: "2026-06-22"
-    comment: |
-      ⭐⭐⭐⭐⭐
-      
-      “I had an urgent situation and needed help right away, and the service I received was exceptional. The owner was very helpful, professional, and went above and beyond to assist me. He made sure I got everything I needed on time, even in an emergency. The customer service was outstanding, and I truly appreciate his kindness and willingness to help. Thank you for making a stressful situation so much easier. I highly recommend this African shop to anyone looking for great products and excellent customer service!”
-      
-      Thank you again for your support and assistance! 🙏🏾😊
-  - name: "Rhonda B"
-    rating: 5
-    date: "2026-06-22"
-    comment: |
-      This store is conveniently located with lots of free parking. It’s clean and organized. There is a wide variety of merchandise of top notch quality. The freezers are filled with meat, fish, and poultry, all of great quality. And the staff are friendly, welcoming, and helpful. Always a delightful experience to shop there.
-  - name: "Chidera Ogueri"
-    rating: 5
-    date: "2026-06-16"
-    comment: |
-      Their prices are wonderful. They have a lot of items. I'm usually a snack person and they have a wide variety. The owner was also delightful to meet. My delivery came on time. I'm a happy customer! Will definitely keep shopping here ☺️
+      Excellent costumer service. Any thing you are looking for it’s here and you can find it. The owner will bring it. Great listener to the costumer suggestion and preference. I am very happy with the service I get here each time I come shopping.
   - name: "Adeniji Omoshalewa Toheebah"
     rating: 5
-    date: "2026-07-07"
     comment: |
       Excellent customer service.
       I was really impressed by their warm welcome and service provided.
       Prices are reasonable as well.
       I didn’t regret stopping by their store.
+  - name: "Chidera Ogueri"
+    rating: 5
+    comment: |
+      Their prices are wonderful. They have a lot of items. I'm usually a snack person and they have a wide variety. The owner was also delightful to meet. My delivery came on time. I'm a happy customer! Will definitely keep shopping here ☺️
+  - name: "Samson Animashaun"
+    rating: 5
+    comment: |
+      Great African store with quality products and reasonable prices. I bought turkey here, and it was fresh and well packaged. The staff were friendly, and I had a great shopping experience. I’ll definitely be coming back. Highly recommended!
+  - name: "McDonald Godwin"
+    rating: 5
+    comment: |
+      This is is my best spot for Afro food and all, plus their customer service is good…. They have all the African good stuffs…. 🕺🕺
 ---

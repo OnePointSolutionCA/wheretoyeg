@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–7:00 PM"
 photos: ["/photos/al-madina-halal-meat-deli-1.jpg", "/photos/al-madina-halal-meat-deli-2.jpg", "/photos/al-madina-halal-meat-deli-3.jpg"]
 rating: 4.6
-review_count: 503
+review_count: 484
 price_range: "$$"
 amenities:
   - "Halal"
@@ -28,6 +28,10 @@ tags: ["edmonton", "halal-meat", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Khaled Fayad"
+    rating: 5
+    comment: |
+      We chose Al Madina to supply meat for our company barbecue. It was a hit. The burgers were beautifully seasoned and prepared, the beef shishkabobs and chicken tawook were marinated so delicious. No complaints! Many inquired about where it came from. Great quality meat, I will definitely consider a repeat for any occasion. Thank you again.
   - name: "Will Leo"
     rating: 5
     comment: |
@@ -36,16 +40,12 @@ reviews:
     rating: 5
     comment: |
       I recently hosted a large family gathering and was responsible for preparing most of the food. Anyone who cooks for a big group knows how stressful it can be when you're worried about the quality of your ingredients. After shopping here, that was one less thing I had to think about. Everything I purchased was exactly what I was looking for, and the quality showed once it hit the table. Several family members asked where I had bought the meat because they noticed how good it tasted. What stood out to me most was the confidence I felt throughout the process. I knew I was serving something I could be proud of. It's not often you find a business that combines quality products with people who genuinely care about their customers. That experience turned me from a first-time visitor into a regular customer.
-  - name: "Taylor D'Amours"
+  - name: "Tanner Hellquist"
     rating: 5
     comment: |
-      My husband & I, but ESPECIALLY our pups, LOVE this place. We regularly give them a call to see if they have any cuts of meat to do up for our dogs (our girl is nearly 100lbs, our boy is about 40lbs). They always make us up HUGE bags of great cuts of meat of varying sizes. My dogs take hours gnawing the meat of the bones & thoroughly enjoying them fresh or frozen, but these are easily of good enough quality to be used as soup bones! They only charge us $10 for bags that fill up 3-4 freezer bags or more and the men that work here are all so sweet, they’ll help me carry the bags to my car and care about their customers. :)
+      For the past 5 years our construction site has hosted an appreciation BBQ for our crew with the steaks provided by Al Madina. This year's total of 80 steaks was the most yet and they have consistently been the best steaks I've had. Can't recommend Al Madina enough, highest quality of meat and amazing staff!
   - name: "ALEJANDRA RUIZ"
     rating: 5
     comment: |
       Shopping here feels personal in the best possible way. The staff take time to get to know their customers and remember preferences. It creates a level of trust that keeps me coming back. When I need quality products and reliable service, this is always my first choice.
-  - name: "Annisha EUGENE"
-    rating: 5
-    comment: |
-      I have recommended this place to several friends and family members over the years. Every single person who has visited has had positive things to say. It is rare to find a business that consistently delivers both quality products and excellent service.
 ---

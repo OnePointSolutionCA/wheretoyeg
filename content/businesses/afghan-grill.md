@@ -18,8 +18,8 @@ hours:
   saturday: "10:00 AM–9:00 PM"
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/afghan-grill-1.jpg", "/photos/afghan-grill-2.jpg", "/photos/afghan-grill-3.jpg"]
-rating: 4.3
-review_count: 45
+rating: 4.2
+review_count: 59
 price_range: "$"
 amenities:
   - "Halal"
@@ -30,28 +30,29 @@ tags: ["edmonton", "afghan", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "arif mohammady"
-    rating: 1
-    comment: |
-      I was very disappointed with this restaurant. The prices are very high, but the food quality does not match the cost.
-      The Afghan hamburger was mostly potatoes inside a bun, with almost no meat, and it cost about $9. The ayran was also overpriced at around $4.50.
-      We told them twice not to make our food spicy, but they still made it very spicy.
-      The manti was full of oil and had almost no meat inside. The bolani had so little filling that it was hard to tell if there was anything inside at all.
-      I don’t recommend this restaurant. In my opinion, it is not worth the money. Save your money and choose another place.
-  - name: "Deon Beattie"
+  - name: "Thamir Murtadha"
     rating: 5
     comment: |
-      Excellent food at good prices. And a welcome addition to variety at WEM. If you are looking for something different I strongly recommend.
+      We actually came all the way from Vancouver, and I have to say, this restaurant inside the West Mall is absolutely worth the trip!
+      
+      The lamb biryani was the best biryani I have ever tasted—the lamb was incredibly tender, the rice was perfectly cooked, and the flavors were rich and delicious. Everything tasted fresh and authentic.
+      
+      Highly recommended! I will definitely come back again.
+  - name: "Aimal Rahemi"
+    rating: 5
+    comment: |
+      I had Lamb Kebab and it really tasted delicious, felt like trying the Kebab in KBL. If you are craving Afghani food this is the place to visit.
+      Highly recommend and appreciate the service
+  - name: "Md. Sohel Miah"
+    rating: 1
+    comment: |
+      Very disappointed with the food quality, price and service. The food was not worth the price. Unfortunately, I would not recommend this place.
+  - name: "lakmali motha"
+    rating: 5
+    comment: |
+      Our first experience of Afghanistan food.we love the food and the owner is very nice. We had lamb rice for $20 but it was more than  enough for two people. Worth the money and delicious.we will definitely coming back. Strongly recommend this place .
   - name: "Ali SM"
     rating: 5
     comment: |
       Extremely delicious and authentic Afghani food, the owner was very nice and really filled our plates! For the price it’s definitely worth what you’re getting. I would recommend the lamb, or there kebabs. 10/10
-  - name: "Alex Yeoh"
-    rating: 5
-    comment: |
-      I ordered the lamb and okra with plain rice and it was very delicious. Highly recommended. This is the first time I've tried Afghan food and I really like it. The lamb sauce is very meaty flavoured and the okra sauce is also very tasty but I don't know how they made it. Lovers of Asian food will love this food as it is easy to transition to. A++
-  - name: "Noor Rezai"
-    rating: 4
-    comment: |
-      The food tasted good overall, and the service was enjoyable. However, I felt the prices were a bit high for the portion sizes. The Kabuli Palau was flavorful, but it was slightly too oily. Overall, a decent experience, with some room for improvement.
 ---

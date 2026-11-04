@@ -24,36 +24,31 @@ photos:
   - "/photos/alberta-acupuncture-massage-clinic-south-edmonton-g1.jpg"
   - "/photos/alberta-acupuncture-massage-clinic-south-edmonton-g2.jpg"
 rating: 4.9
-review_count: 93
+review_count: 95
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "acupuncture"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Janice Ryan"
+  - name: "Benjamin Kovacevich"
     rating: 5
-    date: "2026-03-20"
     comment: |
-      Alina’s deep understanding of biomechanics, soft tissue, joints and nerves allows her to provide successful results using acupuncture beyond my expectations. I went in today with a severe neck and hip issue, and left pain-free and able to turn my neck again. My experiences with Alina have been truly amazing.
+      Jaspreet was amazing! Felt very relaxed after and he got deep in there which helped a lot with lower back pain and my neck. Would recommend!
   - name: "Lori Mckinnon"
     rating: 5
-    date: "2026-06-20"
     comment: |
       Jaspreet was a great listener and accommodated me very well! I felt he understood my condition & was very professional in our interactions! Thank You!
+  - name: "Erika Gullickson"
+    rating: 5
+    comment: |
+      Jaspreet is very professional and detail oriented. I felt very safe and had one of the best massages
+  - name: "Janice Ryan"
+    rating: 5
+    comment: |
+      Alina’s deep understanding of biomechanics, soft tissue, joints and nerves allows her to provide successful results using acupuncture beyond my expectations. I went in today with a severe neck and hip issue, and left pain-free and able to turn my neck again. My experiences with Alina have been truly amazing.
   - name: "Vincent Huang"
     rating: 5
-    date: "2026-07-26"
     comment: |
       Jaspreet provided exceptional service! Was attentive to specific needs and made me feel relaxed and at ease. Highly recommended!
-  - name: "steve sas"
-    rating: 5
-    date: "2026-05-02"
-    comment: |
-      Jaspreet took care of us. He listened to what we wanted and gave us good massage session. I would highly recommend Alberta Acupuncture Massage Clinic.
-  - name: "Miranda"
-    rating: 5
-    date: "2026-01-05"
-    comment: |
-      Ping is great. Listens, patient and never rushes her patients. She is a wealth of knowledge and I feel like I am in great hands each time I come.
 ---

@@ -21,7 +21,7 @@ hours:
   sunday: "7:00 AM–1:00 AM"
 photos: []
 rating: 4.4
-review_count: 139
+review_count: 144
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -33,7 +33,6 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Samhar Loukhag"
     rating: 5
-    date: "2026-06-09"
     comment: |
       My experience at "Al-Hayba Bakery & Cafe" (الهيبة فرن ومناقيش) was absolutely excellent. The pastries and manaqeesh are served fresh, hot, and straight from the oven. The dough is perfectly baked—thin as rolling paper, light, and with just the right amount of crispiness.
       
@@ -42,9 +41,24 @@ reviews:
       ​The interior of the restaurant is spotlessly clean, well-organized, and bright, providing a very comfortable and welcoming atmosphere for families and friends. On top of that, the customer service is incredibly friendly and professional.
       
       ​I highly recommend this hidden gem to anyone craving genuine Levantine pastries. I will definitely be coming back!
+  - name: "HK"
+    rating: 1
+    comment: |
+      I went to get the fruit cocktail pieces, but unfortunately, what we received was completely different from what was shown on the website and in the pictures posted in Google reviews. I was very disappointed because I expected the product to look like what was advertised. It was not what I expected, and I hope they can improve the consistency between their advertised products and what customers actually receive.
+  - name: "Rafat Diri"
+    rating: 5
+    comment: |
+      I had a great experience at AlHayba Restaurant. The food is delicious, everything is very clean, and the prices are really reasonable.
+      
+      Special thanks to Aham — he provided amazing customer service, very friendly and professional. He made the whole experience even better.
+      
+      I highly recommend this place and will definitely come back again!
+  - name: "Phat Boy"
+    rating: 4
+    comment: |
+      Very friendly and welcoming staff. The restaurant was clean and inviting. The food had good flavour but I found the dough to be too thin and floppy…maybe I’ll ask for well done next time. I will definitely be back to try out their specialty drinks and desserts as they all looked amazing!
   - name: "Aryam Almahamid"
     rating: 5
-    date: "2026-08-17"
     comment: |
       I recently visited Al Hayba Restaurant, and I was truly impressed by both the food and the service.
       
@@ -55,18 +69,4 @@ reviews:
       I would like to give special thanks to Fajor for her outstanding service. She was very polite, welcoming, and attentive throughout my visit.
       
       If you’re looking for a place that serves great food in a comfortable and friendly atmosphere, I highly recommend Al Hayba Restaurant.
-  - name: "Rafat Diri"
-    rating: 5
-    date: "2026-04-12"
-    comment: |
-      I had a great experience at AlHayba Restaurant. The food is delicious, everything is very clean, and the prices are really reasonable.
-      
-      Special thanks to Aham — he provided amazing customer service, very friendly and professional. He made the whole experience even better.
-      
-      I highly recommend this place and will definitely come back again!
-  - name: "Phat Boy"
-    rating: 4
-    date: "2025-11-25"
-    comment: |
-      Very friendly and welcoming staff. The restaurant was clean and inviting. The food had good flavour but I found the dough to be too thin and floppy…maybe I’ll ask for well done next time. I will definitely be back to try out their specialty drinks and desserts as they all looked amazing!
 ---

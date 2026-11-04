@@ -32,35 +32,26 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Window Mart"
     rating: 5
-    date: "2026-02-25"
     comment: |
       I had a fantastic experience with Alba-Pro! Ana and Jeff were such a pleasure to work with. They were incredibly responsive and even came out the same day I called to inquire about having our windows and doors cleaned.
       
       Before they arrived, our windows were covered in salt and dirt from previous snow removal and were really starting to look rough. Jeff provided a quote quickly and got right to work. The whole process was smooth and professional from start to finish. Now the windows look absolutely fantastic — so clean and clear!
       
       I highly recommend Alba-Pro if you’re looking for prompt, friendly, and high-quality service.
-  - name: "Leslie McDougall"
+  - name: "Janet Chapman"
     rating: 5
-    date: "2026-05-24"
     comment: |
-      Jeff and crew did an amazing job inside and out! My window cleaning was long overdue due to the number of windows we had and cost. Jeff offered a very reasonable rate and it was well worth it!!
-  - name: "Justin & Emily P."
+      A superb one man hands on job done by Jeff.  A hard, thorough, professional and personable man. We were very impressed and pleased with the cleaning of our windows and doors on our 1100sq ft bungalow.  Will definitely have  Alba-Pro Window Washing come back in the spring.  Receptionist Ana was very pleasant and accommodating in our conversations. She was dedicated to her job and ensured that we understood all areas and questions were covered.  No wait times on any of her call backs. Again, very professional.  Thanking you both.
+  - name: "Eden Donahue"
     rating: 5
-    date: "2025-05-26"
     comment: |
-      Jeff did our windows today and we couldn’t be happier! They hadn’t been done in 2 years and it really showed, but now they look brand new!
-      
-      Awesome pricing too! We have a two story plus basement and he did inside and out plus washed screens for much less than big companies would.
-      
-      Professional, friendly, and quick! Can’t say enough good things about Alba-Pro!
-  - name: "Tammy Hawkins"
+      I reached out to this company late in the evening, I was surprised to receive a response back that same hour. The customer service was outstanding! They provided a very reasonable quote for a couple of options that I had requested. I booked the next morning, they were at my house that afternoon getting the job done. We are very pleased with the results and would 100% recommend this company. We will absolutely be using them for all of our future window cleaning moving forward. Thanks to your team for everything, you guys are great!
+  - name: "Sid Shugarman"
     rating: 5
-    date: "2026-05-20"
     comment: |
-      Jeff and Anna were extremely prompt and professional in their communications and in their work!  Our windows are remarkably shiny and streak-free!  Out only regret is not having received Alba Pro’s contact sooner!  Will definitely use them again and refer them to everyone we know!
-  - name: "Sherry Allard"
+      Absolutely the best window person we have ever had. Our house is not easy, lots of very high windows, done quickly and the cleanest they have ever been. Honest, hard working and reasonably priced. Cannot say enough good about Jeff. Hire him, you will not regret it.
+  - name: "M Smith"
     rating: 5
-    date: "2026-06-19"
     comment: |
-      The gentleman who cleaned my windows was excellent and I will use this company again. I shared the contact with two of my friends who also had them clean their windows and they also had an excellent experience. I would recommend them.  Very professional and reliable. Thank you!
+      I am very impressed with Alba Pro Window washing. Jeff was professional and very polite. He provided solutions as unexpected difficulties came up cleaning the gutters. And he left the windows spotless! I'd highly recommend this company.
 ---
