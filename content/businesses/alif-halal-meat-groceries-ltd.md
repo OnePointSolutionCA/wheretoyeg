@@ -19,7 +19,7 @@ hours:
   sunday: "10:00 AM–8:00 PM"
 photos: ["/photos/alif-halal-meat-groceries-ltd-1.jpg", "/photos/alif-halal-meat-groceries-ltd-2.jpg", "/photos/alif-halal-meat-groceries-ltd-3.jpg"]
 rating: 4.5
-review_count: 237
+review_count: 240
 price_range: "$$"
 amenities:
   - "Halal"
@@ -27,6 +27,10 @@ tags: ["edmonton", "halal-meat", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Ajoy MAJUMDAR"
+    rating: 5
+    comment: |
+      I visit this store almost every week, and it has become my go-to place for Bangladeshi groceries. They have a good selection of frozen river fish from Bangladesh, along with a wide variety of Bangladeshi and Indian vegetables, spices, and other grocery items. The store is well managed, and both Mama Rimon and Bhagna Johir are always friendly, helpful, and welcoming. It's a great place to shop if you're looking for authentic South Asian products. Highly recommended!
   - name: "Rashad Rashadulhaq"
     rating: 5
     comment: |
@@ -52,8 +56,4 @@ reviews:
       The best meat for halal and groceries. They have a wide selection and unbeatable prices. Please visit their shop as you will easily become a repeat customer like myself.
       
       Very happy with their staff. Hasan is your guy. Ask him any questions, he is happy to help you.
-  - name: "Jahangir Alam"
-    rating: 1
-    comment: |
-      My friend went there for buying some groceries! He was Afghani the person dealt with him was not capable enough to explain the item's. They have very less fresh vegetables. We rather choose different store as it's not worthy of burning fuel.
 ---

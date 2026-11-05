@@ -18,7 +18,7 @@ hours:
   sunday: "Closed"
 photos: []
 rating: 4.9
-review_count: 191
+review_count: 192
 price_range: "$$$"
 amenities:
   - "Consultations"
@@ -28,10 +28,6 @@ tags: ["immigration", "permits", "pr", "consultants"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Richelle Agarpao"
-    rating: 5
-    comment: |
-      From start to finish, the team was incredibly helpful and responsive specifically Stacey. She took the time to explain everything to me, never got tired of answering my questions and the entire process was completely stress-free. I highly recommend their services!
   - name: "Evgeniy Arbuz"
     rating: 5
     comment: |
@@ -40,10 +36,6 @@ reviews:
       Global Networks Canada was recommended to me by a friend, and I am very glad I contacted them. Their team is professional, knowledgeable, and efficient. They prepared all of my documents properly, explained the possible risks in advance, and were honest and transparent with me throughout the entire process. I received my documents in just two months. Their pricing was also very fair.
       
       I am very satisfied with their service and would definitely recommend Global Networks Canada to others. If I need help with any documents, visas, immigration matters, or other related services in the future, I will only contact them. My only regret is that I did not find this company earlier.
-  - name: "Simer Chawla"
-    rating: 5
-    comment: |
-      Excellent service for my mother’s Super Visa application. The team was professional, knowledgeable, responsive, and very helpful throughout the entire process. They explained everything clearly and made the application stress-free. Highly recommended!
   - name: "Mohammed Azafad"
     rating: 5
     comment: |
@@ -54,12 +46,18 @@ reviews:
       I truly appreciate their guidance and communication during every step.
       
       Highly recommended 😊
-  - name: "Yana Marushchak"
+  - name: "Charie Louise Dimayuga"
     rating: 5
     comment: |
-      I had such a great experience with Alberta Immigration Services. I came to Canada in 2022 under the CUAET program from an occupied territory in Ukraine, and my family and I were going through a very stressful and uncertain time with nowhere to return to. Our biggest hope was to get permanent residency and stay in Canada, which has given us safety and stability.
+      Global Network Canada provided an awesome service. The work permits, study permit and PR application process is smooth. Farzana ia always responsive to our questions starting from the application process until we received the PR confirmation email.
       
-      I want to give a special thank you to Ms. Oksana and Ms. Anastasia for supporting me throughout the whole permanent residency process. They were always kind, professional, patient, and ready to help whenever I had questions or felt worried.
-      
-      Thanks to their help, I became a permanent resident in April 2026. I’m truly so grateful for everything they did for me and my family. I highly recommend Alberta Immigration Services to anyone who needs immigration support!
+      Highly recommended!
+  - name: "MrLeonardodv"
+    rating: 5
+    comment: |
+      I am very thankful for your great work, support and assistance. The last three years I’ve been using your service and always recommend you to my friends. Thanks to you - my journey to PR became much easier :)) THANK YOU ONCE AGAIN
+  - name: "Simer Chawla"
+    rating: 5
+    comment: |
+      Excellent service for my mother’s Super Visa application. The team was professional, knowledgeable, responsive, and very helpful throughout the entire process. They explained everything clearly and made the application stress-free. Highly recommended!
 ---

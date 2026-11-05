@@ -22,7 +22,7 @@ hours:
 photos:
   - "/photos/alberta-law-office-3.jpg"
 rating: 4.9
-review_count: 137
+review_count: 141
 price_range: "$$$"
 amenities:
   - "Free Consultation"
@@ -34,25 +34,32 @@ featured: true
 active: true
 date_listed: "2026-08-17"
 reviews:
-  - name: "Glenn Sutherland"
+  - name: "Mona Hussein"
     rating: 5
     comment: |
-      We were recommended Moe and his team at Alberta Law by our realtor for a home purchase. Moe was super easy going and on top of all the details leading up to possession. Communication was fantastic and everything went smooth. Thanks Moe!
-  - name: "Brother Ozone"
+      I had a wonderful experience working with Moe at Alberta Law Office. He was extremely helpful, professional, and knowledgeable throughout the process.
+      
+      What I appreciated most was how responsive he was. He always replied to my emails and calls promptly, answered all of my questions clearly, and took action right away whenever something needed to be done. I never felt like I was left waiting or wondering what was happening.
+      
+      Moe genuinely cares about his clients and goes above and beyond to provide support and guidance. I’m very grateful for his help and would highly recommend him to anyone looking for someone professional, reliable, and truly committed to helping his clients.
+      
+      Thank you, Moe, for all your help and support!
+  - name: "Emily Jabour"
     rating: 5
     comment: |
-      Moe and his team were fantastic. They handled my divorce case professionally and made the entire process go smoothly. I truly appreciated their support and guidance throughout.
-  - name: "Paolo"
-    rating: 5
-    comment: |
-      Moe was excellent to work with. Very knowledgeable, thorough, and took the time to explain legal documents clearly so I actually understood what I was signing. He was on top of everything and up to date on all the applicable laws on my family and property matters. The whole process was smooth. Highly recommend to anyone, he's the man!
+      We used this firm for a divorce matter as well as a property purchase. In both cases we had nothing but great service. Moe was truly such a gentleman, he cares beyond measures about his clients and stood by us when things got difficult! I highly recommend Moe and his firm
   - name: "Hassan Aoude"
     rating: 5
     comment: |
       Moe and Cathie at Alberta Law Office are simply the best. Buying a home while moving across the country is stressful enough, but when the other party dropped the ball on communication, it could have been a disaster. Moe and Cathie went above and beyond to protect our interests and worked at lightning speed to meet our deadlines. Their responsiveness and dedication made us feel completely supported throughout the entire process. They are a credit to their profession and we are so grateful for their hard work. Highly recommended!
-  - name: "Jurgen Bauer"
+  - name: "Glenn Sutherland"
     rating: 5
     comment: |
-      Moe helped me out of a rough time in my life. He was a really down to earth and understanding person. I would recommend Moe and his team.
-      Thank you very much Moe.  🙏.
+      We were recommended Moe and his team at Alberta Law by our realtor for a home purchase. Moe was super easy going and on top of all the details leading up to possession. Communication was fantastic and everything went smooth. Thanks Moe!
+  - name: "Annoymous Annoymous"
+    rating: 5
+    comment: |
+      July 30, 2026 @ 230pm Cathie at Alberta Law was very knowledgeable and provided me with a lot of helpful and beneficial information. She went above and beyond to provide the best customer service. I truly appreciate the time she took to answer my questions and share her knowledge. Thank you for your outstanding support!
+      
+      Miki
 ---

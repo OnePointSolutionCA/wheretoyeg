@@ -24,36 +24,31 @@ photos:
   - "/photos/all-lock-rescue-ltd-g1.jpg"
   - "/photos/all-lock-rescue-ltd-g2.jpg"
 rating: 4.7
-review_count: 251
+review_count: 257
 price_range: "$$$$"
 amenities: []
 tags: ["edmonton", "locksmith"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Darrell Brower"
+  - name: "Navdeep"
     rating: 5
-    date: "2026-06-05"
     comment: |
-      I brought in my truck key that was very worn and was having a trouble starting my truck with it they were able to use that as a pattern and a computer and generate me a brand new factory precise he that works everything perfectly. completely satisfied and so happy with the price. less than $10 for a replacement key when I thought I was going to have to replace the cylinders and the locks
+      im very happy with both the prices and service from the female technician who programmed two keys for my camry 2018 hybrid.
+  - name: "Will Flexer"
+    rating: 5
+    comment: |
+      They intalled riginal locks installed throughout our then new whole home 20 years ago. High security multi-lock cylinders with registered key. Recently had problems with one of the digital locks, and went back to them, & was planning to replace it. Was helped by Curtis who was able to find spare parts and rebuild the lock while I waited. Quick and professional service. Thank you again!
   - name: "Ashley Quon"
     rating: 5
-    date: "2026-07-07"
     comment: |
       Great efficient service! They were able to send someone out a few hours after I called. Lauren was courteous and went above and beyond to inspect a separate lock we had and educate me on the safety of it. He was considerate of my baby’s presence while he worked and left us with a job well done - smooth working, rekeyed locks! Would use all-lock-rescue again and recommend!
-  - name: "Denis Giroux"
+  - name: "marty Hope"
     rating: 5
-    date: "2026-08-06"
     comment: |
-      Wonderful company to work with!  We had a   couple of issues (sticky locks, latches not fully retracting) and he was very good with explaining the problem, solutions, and long term issues to watch for. Very professional, friendly, and no pressure. I would recommend this company to anyone and will use them again when we need lock work!
-  - name: "angela smith"
+      Dead battery and locked out of truck, and then my key lock broke so I couldn't get in. Avoided using a scam company (thankfully read poor reviews with $300+ pricing). Called All-lock. Had a tech out within 30 min, and in my truck within 8 min at a fair and reasonable price. Then took truck to All-lock to repair key lock. Curtis had me out the door in 45 min with more great pricing. Highly recommend this business
+  - name: "Darrell Brower"
     rating: 5
-    date: "2026-06-04"
     comment: |
-      Rave review! Rooke was fantastic. Unlocked the garage (without damaging existing lock), and kindly installed new hardware on a house door for half the price 3 other companies quoted. Impeccable work, friendly/professional, and unbeatable prices.
-  - name: "Carlos Luz"
-    rating: 5
-    date: "2026-04-03"
-    comment: |
-      I was told about this place for their reasonable prices through a family member, i walked up in the shop was helped by Heather I had her cut 4 keys and rebuild a door lock cylinder, she was transparent with pricing and gave me a heads up that 1 key i wanted duplicated was 50/50 chance but for 4 bucks each was worth the gamble, also 4 keys cut and 1 lock cylinder rebuilt I was in store for 20 mins before everything was completed and a total for 72.00. was thoroughly impressed and happy with the service, would recommend and will return.
+      I brought in my truck key that was very worn and was having a trouble starting my truck with it they were able to use that as a pattern and a computer and generate me a brand new factory precise he that works everything perfectly. completely satisfied and so happy with the price. less than $10 for a replacement key when I thought I was going to have to replace the cylinders and the locks
 ---

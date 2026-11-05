@@ -22,7 +22,7 @@ hours:
   sunday: "Closed"
 photos: []
 rating: 4.7
-review_count: 257
+review_count: 261
 price_range: "$$"
 amenities:
   - "Wheelchair Accessible"
@@ -30,31 +30,31 @@ tags: ["edmonton", "locksmith"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Nataliya"
+  - name: "Troy Demeester"
     rating: 5
-    date: "2026-06-16"
     comment: |
-      Just got the service done by tech Vlad, who did impress me with his great service . He was knowledgeable, reliable and showed great creativity in resolving the issue with my broken lock. His expertise and his attention to details made the repair quick and efficient. I truly appreciate his excellent work and recommend him to anyone looking for a quality professional service and excellent care .Thank you, Vlad!
+      Had some new fobs programmed for my Hyundai Elantra on June 30 2026
+      I have to say top-tier service from Vlad Drobiazko.
+      Once he took my car I was probably waiting 20 minutes tops everything back to working as it should. I have zero complaints regarding the customer service from not only Vlad but the rest of the staff that was there that day.
+      
+      A lot less hassle than I would have been dealing with at the Hyundai south dealership. Most dealers will try and price gouge you that's why I try and avoid going to them.
+      Vlad was also able to get me my proximity fob unlock code.
+      
+      Definitely will be back for any automotive locksmith work.
   - name: "Nicholas Montanez Restrepo"
     rating: 5
-    date: "2025-10-29"
     comment: |
       Vlad was super helpful. I Came in because I lost the keys to my tonneau cover for my truck bed. Vlad took out the locking mechanism in one minute, opened it up to see what key it needed and made two copies In under five minutes. He also gave one me a hell of a good price. 100% recommend
   - name: "B Randon"
     rating: 5
-    date: "2026-08-14"
     comment: |
       Customer service is a 11/10. Lock Solid was significantly less than the prices the Honda dealerships were asking to cut and program a key! Thanks again!!
   - name: "Rob Pohl"
     rating: 5
-    date: "2026-06-25"
     comment: |
       Exceptional service following an attempted break in.  Unfortunately our lock was old and uncommon, and the replacement took a while to find, and was a little expensive.  But it all got looked after in a timely manner.  Service technician Steve was super friendly and great to get along with.
-  - name: "Lt Tan"
+  - name: "Zach Schmidt"
     rating: 5
-    date: "2026-06-19"
     comment: |
-      These guys are the best. Thanks to Vlad, I was able to safely get into my vehicle and have spare keys. They were timely, professional and friendly. Cost was very reasonable too.
-      
-      Highly recommend Lock Solid.
+      My car key ignition wouldn’t let go of my key and Vlad had it done quite quickly and on short notice. He was very knowledgeable and informative. Would highly recommend this location for services 👍
 ---

@@ -36,14 +36,14 @@ reviews:
     rating: 5
     comment: |
       Katie is an amazing person and knows her stuff! She will help you with everything and is knowledgeable. I cannot say enough good things about her.
-  - name: "Jeremy Lanteigne"
-    rating: 5
-    comment: |
-      Katie is a very kind and considerate person, she very patiently helped me understand myself well enough to explain to my doctor what I am struggling with, helped me work towards solutions and guided me to educate myself on things I was too afraid to admit to myself
   - name: "S T"
     rating: 5
     comment: |
       Katie is compassionate and patient. She has been an increadible help sofar, and I feel like I have the ability to move forward with the tools I have learned to use here. Thank you!
+  - name: "Jeremy Lanteigne"
+    rating: 5
+    comment: |
+      Katie is a very kind and considerate person, she very patiently helped me understand myself well enough to explain to my doctor what I am struggling with, helped me work towards solutions and guided me to educate myself on things I was too afraid to admit to myself
   - name: "Kaylyn Sissons"
     rating: 5
     comment: |

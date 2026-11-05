@@ -24,7 +24,7 @@ photos:
   - "/photos/alberts-family-restaurant-g1.jpg"
   - "/photos/alberts-family-restaurant-g2.jpg"
 rating: 4.3
-review_count: 519
+review_count: 521
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -38,7 +38,6 @@ date_listed: "2026-10-02"
 reviews:
   - name: "sonny corey"
     rating: 5
-    date: "2026-02-08"
     comment: |
       I ate half my sandwich and realized I should share this joy, Au-jus was nice and thin that and the Gravy had a Beautiful beef flavor.
       The fish was Amazing 👏
@@ -47,17 +46,19 @@ reviews:
       ❤️💜🧡
   - name: "Jayda Jean"
     rating: 5
-    date: "2025-02-17"
     comment: |
       Friendly staff and excellent food! Eggs cooked to perfection and waffles are delicious. The double cheeseburger was inhaled and clubhouse was perfect. Definitely recommend if you’re looking for something that is privatey owned and has a rustic dinner feel.
   - name: "Hannelore Bereti"
     rating: 5
-    date: "2025-04-17"
     comment: |
       My sister and I come here twice a month for brunch. The servers are always so sweet and keep our coffee cups full, chefs are fast, and the food is AMAZING. The cream of cauliflower soup is our favourite. :)
-  - name: "Michael Digou"
+  - name: "Chantel M."
     rating: 5
-    date: "2026-06-14"
     comment: |
-      I have been going here for years. Everything is just exactly how I want it. The staff are always so happy and caring it’s such a great place for breakfast.
+      Great value and good food. Staff are super friendly. The food comes out fast.
+  - name: "Zaina Denesik"
+    rating: 3
+    comment: |
+      Waitress was not very inviting had to ask 3 times for water and it seemed like it was a inconvenience for her. Food was fine nothing exceptional but cooked well.
+      Loved the updated interior
 ---

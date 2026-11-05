@@ -24,36 +24,32 @@ photos:
   - "/photos/alberta-strong-movers-g1.jpg"
   - "/photos/alberta-strong-movers-g2.jpg"
 rating: 4.8
-review_count: 146
+review_count: 148
 amenities: []
 tags: ["edmonton", "moving"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "melvin cherotich"
-    rating: 5
-    date: "2026-02-17"
-    comment: |
-      They made my relocation very smooth and comfortable. I highly recommend hiring them when you need to move a large number of items or a full household. I bet you’ll love booking their service. When I contacted them, the following day they came ready to move all my stuff to my new apartment. I am very happy. They handled everything with care.
   - name: "Audrey Fredrickson"
     rating: 5
-    date: "2026-07-09"
     comment: |
       I had reason to use Alberta Strong Movers from wetaskiwin area to move someone to another location. I was totally impressed with the two men who helped with the move. Dave and Daryle S. were efficient and careful with each item transferred and I would definitely recommend them and use them again going forward. Thank you so much!
   - name: "Liam McLeod"
     rating: 5
-    date: "2026-01-08"
     comment: |
       My experience of working with Alberta Strong Movers was fantastic. They were punctual, productive, and never let you down. My furniture and personal belongings were handled with extreme caution by the workers, who wrapped everything tightly and moved it carefully. Their warm demeanor and meticulous attention to detail truly stood out. I'm really happy with their service, and I'll always pick them if I ever need movers. I appreciate the great work you did.
-  - name: "SirJulian"
-    rating: 5
-    date: "2026-02-19"
-    comment: |
-      From start to finish, they handled everything with utmost care. Everything was neatly loaded into the truck and positioned exactly where I requested my stuff to be.
-      I didn’t feel any stress thanks to Alberta Strong Movers. Good thing I learned about them from my aunt who happened to be their former client. Five star for this company!
   - name: "Char Scharf"
     rating: 5
-    date: "2026-02-25"
     comment: |
       Alberta Strong Movers were easy to deal with from the start. Straight out quote of costs and no surprises at the end. This was a small move of my mum's things and I was pleased that the movers did a smooth, efficient move of the bits of furniture, boxes etc to our storage space, all in decent time and in good shape.  Inan and Gurdeep were friendly and respectful of what was being moved. Definitely will consider on a next move!
+  - name: "Timothy D"
+    rating: 5
+    comment: |
+      This move actually went really well! I was impressed by how fast and careful these guys were. The last moving company we had unfortunately damaged a lot of our belongings and lost some of our boxes so my husband and I are extremely satisfied and thankful!
+      
+      Daryle and Cain did an awesome job! Thank you both!!
+  - name: "Amos Archer"
+    rating: 5
+    comment: |
+      I recently moved within East Edmonton, and Alberta Strong Movers were absolutely fantastic. They handled all the heavy lifting with ease and took great care to treat my belongings like they were their own. The crew was punctual, organized, and communicated well throughout the process. What impressed me most was how respectful they were of my home and possessions. Thanks to them, my move was smooth and hassle-free. I highly recommend Alberta Strong Movers to anyone needing movers in East Edmonton.
 ---

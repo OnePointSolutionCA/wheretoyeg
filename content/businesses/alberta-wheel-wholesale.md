@@ -31,22 +31,24 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Jim Kozma"
     rating: 5
-    date: "2026-09-05"
     comment: |
       Just can’t say enough Franco is probably the best customer service person I have dealt with in a long time. Old school service amazing help and above and beyond - with real attention to detail. Thanks for all the amazing continued help!!  I’ll be calling again and again
   - name: "Cody Lesage"
     rating: 5
-    date: "2026-06-05"
     comment: |
       Solid place to buy rims and tires they couldn’t balance mine at there shop after they installed but did pay for me to bring them to Thor tire to get road force balanced Franco is a man of his word
-  - name: "Bryce Wilkinson"
-    rating: 5
-    date: "2026-02-14"
-    comment: |
-      Owner Franco was able to meet me on a Saturday to purchase some tires. Was very nice and easy to setup a meet with. Would purchase from him again.
   - name: "Mike Morin"
     rating: 5
-    date: "2026-07-08"
     comment: |
       Came here after work to throw some back tires on dealt with Trevor and he did an amazing job highly recommend these guys!! Great place and awesome customer service thanks again Trevor be seeing you again!!
+  - name: "Bryce Wilkinson"
+    rating: 5
+    comment: |
+      Owner Franco was able to meet me on a Saturday to purchase some tires. Was very nice and easy to setup a meet with. Would purchase from him again.
+  - name: "Howard Ogonoski"
+    rating: 1
+    comment: |
+      I tried a new place for tires, sometimes wrong decisions are made. Had an issue with balancing of the tires. Messaged Franco. He mentioned he would look after it the next day. Then he proceeded to block me, as well not return my calls. Lots of red flags here.
+      Never did get an invoice even though asked for one several times.
+      Not impressed and will not do business with them in the future.
 ---

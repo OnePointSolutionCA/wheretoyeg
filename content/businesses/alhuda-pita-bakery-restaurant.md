@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/alhuda-pita-bakery-restaurant-1.jpg", "/photos/alhuda-pita-bakery-restaurant-2.jpg", "/photos/alhuda-pita-bakery-restaurant-3.jpg"]
 rating: 4.5
-review_count: 352
+review_count: 370
 price_range: "$$"
 amenities:
   - "Halal"
@@ -47,6 +47,10 @@ reviews:
       But overall it is the best in Edmonton so far, we ordered manakesh meat, zaatar and cheese, mohamera, and pepperoni and cheese. All of them were super delicious and perfect.
       We also ordered chicken shawarma wraps. It was perfect as well. It was just like the original middle eastern version because most of the shawerma here has nothing to do with the original.
       Overall, we enjoyed our meal very much and the staff is very friendly. Definitely not our last time there.
+  - name: "Dennis G"
+    rating: 4
+    comment: |
+      Tried this place for lunch with a staff group. Everyone enjoyed their lunches from the manakish to wraps. Friendly staff. The food came out quickly and it was hot and fresh. The food tasted good. The premises is immaculate. There is plenty of parking.
   - name: "John Leenheer"
     rating: 5
     comment: |
@@ -54,13 +58,15 @@ reviews:
       
       For a fuller picture —
       Al Huda Pita Bakery & Restaurant, Edmonton, north side / 97 Street offers a fresh, classy space that still feels welcoming and relaxed. The pita is the foundation here — soft, fragrant, and the perfect base for a menu built around comfort, flavour, and freshness. The chicken shawarma wrap was juicy and well seasoned, the kishk was tangy and comforting, and the double-decker cheese with rosemary was rich, aromatic, and especially good with tea. Friendly, quick service adds to the ease of the visit. A strong north Edmonton spot for both flavour and consistency.
-  - name: "nur qasab"
-    rating: 5
+  - name: "Jay Falcone"
+    rating: 4
     comment: |
-      Amazing place with very delicious and fresh food. The bread and grilled dishes were excellent, and everything tasted high quality. The restaurant is clean, comfortable, and family-friendly. The staff were very kind, respectful, and the service was fast. Overall, it was a great experience, and I would definitely come back again. Highly recommended!
-  - name: "Bilal Ahmed"
-    rating: 5
-    comment: |
-      It's a great bakery, the food and coffee are 👌🏽
-      The service is always amazing, I have come here a few times and I have always left happy 😊
+      Seen the place several times while frequenting some of the other services in the shopping plaza .
+      
+      Ordered a chicken shawarma. Food came quite quickly and served hot. Taste was really good.
+      
+      Wish the complete menu was available at the front when I ordered. Just happened to go to their website and found an entra couple of pages of menu items.
+      Just some basic improvements like making the entire menu available might increase business.
+      
+      Nonetheless a good little place and hope they do well.
 ---

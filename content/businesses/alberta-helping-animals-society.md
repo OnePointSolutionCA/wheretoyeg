@@ -24,36 +24,38 @@ photos:
   - "/photos/alberta-helping-animals-society-g1.jpg"
   - "/photos/alberta-helping-animals-society-g2.jpg"
 rating: 4.7
-review_count: 231
+review_count: 234
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "veterinarians"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Avery"
+    rating: 5
+    comment: |
+      Kind and caring team. If spots ever open up for new patients I highly recommend for low income pet owners. They've helped my disabled boy so much
+  - name: "Bobby V"
+    rating: 5
+    comment: |
+      They have seen Misha twice. I am on a pension and unable to pay . This place helped me out. I will be back at the business soon Misha is sick,she is getting old .l would like to add vaccination was free.
+  - name: "Coffeecatswastedpotential"
+    rating: 5
+    comment: |
+      Dear Alberta Helping Animals Team
+      
+      I want to take a moment to thank every single one of you for the incredible work you do and for the dignity compassion and kindness you give to animals and their families.I truly don’t know where I would have been without your organization. You were there for Chico and Frankie when I needed you most. Your incredible team helped both of my boys cross the rainbow bridge safely peacefully  and with the comfort and dignity they deserved.
+      
+      Those were some of the hardest moments of my life and knowing that Chico and Frankie were in caring hands meant more to me than I could ever put into words. You gave them the best care I could have imagined, and you gave me comfort during two moments that broke my heart I can never thank you enough for everything you do not only for the animals but for all of the fur parents who love them so deeply. The work you do matters more than you probably realize. Thank you for helping my boys. Thank you for giving them comfort Thank you for being there when I needed you most  From the absolute bottom of my heart  thank you.
+      
+      With love and endless thanks
+      Amanda, Chico & Frankie ❤️🐾
   - name: "Dee Candy"
     rating: 5
-    date: "2026-04-03"
     comment: |
       is the best veterinary clinic I've ever been to and I've had animals my whole life. I had a bad experience with a different veterinarian clinic and these wonderful people saved my Kitty and my puppy they're amazing and I appreciate them so much! if it wasn't for them my cat would have been euthanized
   - name: "Oleksandra Mykolenko"
     rating: 5
-    date: "2026-03-30"
     comment: |
       A wonderful clinic with a highly professional team. It is clear that the staff truly love animals and treat them with great care and compassion. Everything was done calmly, gently, and professionally. Thank you for your kindness, attention, and excellent care.
-  - name: "Tracy Lutener"
-    rating: 5
-    date: "2026-04-19"
-    comment: |
-      So incredibly thoughtful and helpful in putting our beloved dog to rest. Growing up I've seen it happen and alberta helping animals was so much better with it all then a vet office. Yes they are a vet but they really make you feel at ease and allow you to be right there with them in there final moments. As heart breaking as it is to say goodbye to our beloved dog they really made it better. They also are so welcoming and helpful with your furry family members. Thank you for all you do for those in need.
-  - name: "Cathy J"
-    rating: 5
-    date: "2026-05-29"
-    comment: |
-      My cat went missing in October, returned March in rough shape. I reached out, submitted the application/documents the process was simple and the volunteer so helpful. The appointment team and Vet were absolutely incredible, patient, supportive and fast. This is truly a fabulous organization and WORTH DONATING too! Thank you so very much
-  - name: "YEG Sparrow"
-    rating: 5
-    date: "2026-08-31"
-    comment: |
-      To be eligible for care with AHAS you must fall within listed income guidelines, which we did for 2026, and we couldn't be more grateful. The support and care they have provided our pets is extraordinary, and the staff, technicians, and doctors are very kind and understanding. Thank you AHAS team for everything you do for animals and the Edmonton community.
 ---

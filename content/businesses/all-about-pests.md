@@ -24,32 +24,49 @@ photos:
   - "/photos/all-about-pests-g1.jpg"
   - "/photos/all-about-pests-g2.jpg"
 rating: 4.9
-review_count: 144
+review_count: 147
 amenities: []
 tags: ["edmonton", "pest-control"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Lynnda Emblau"
-    rating: 5
-    date: "2026-06-04"
+  - name: "Mary W"
+    rating: 3
     comment: |
-      Josh & Felix came by today as per our agreement with Insight Pest Solutions. The guys were Great! Very informative through and professional. I am extremely impressed! Thanks Ray!
+      Disappointed with the lack of follow-up from this company.
+      
+      They came out May 12 regarding an exterior pest issue, but no concrete solution was provided. On August 11, another technician came out for a second opinion. Two options were discussed: sealing the area with concrete or installing a bait box. I asked what they would recommend, and the technician recommended the bait box because it could be monitored for activity.
+      
+      In September, I contacted the company and Kevin by phone and email to get an update on the bait box and any activity. I received no response.  I spent $360 for the 2 visits.
+      
+      Based on my experience, I’m disappointed with the lack of follow-up and communication, and I would not recommend this company.
+      
+      After posting my original review, Kevin contacted me and explained that he had been away and said they had not received my earlier phone calls/emails, although the company had previously contacted me using the same phone number and email address.
+      
+      To their credit, they did follow up after my review. They came out to check the bait box, will provide an additional inspection, and placed two additional bait boxes around the property.
+      
+      I appreciate that the company has now taken additional steps to address the issue and that the Kevin followed up with me.
+      
+      My original review reflected my experience at the time — particularly the lack of communication and follow-up after the August visit and my attempts to get an update in September. While the company has since addressed some of those concerns, I still feel the follow-up could have been better initially.
+      
+      I’m updating my review to reflect the additional service and follow-up that has now been provided.
+  - name: "Corey Halabi"
+    rating: 5
+    comment: |
+      Quit searching for your next pest extermination company and call All About Pests. They handled our mice problem extremely efficiently. They inspected the exterior and interior of our home with detailed pictures, possible entry points and educated us on what to look for. They set up traps, closed entry points and gave us that peace of mind that no rodents will be entering our home. They were reasonably priced and sensed our need of urgency, so they swiftly came by. A HUGE shout out to the technician Matthew for keeping the communication loop open and clear.
   - name: "Kwanita Lamouche"
     rating: 5
-    date: "2026-07-21"
     comment: |
       Chris is an excellent and efficient technician. He was very knowledgeable in all the questions we had and made us feel confident in our choice. The booking process was very easy, the initial visit was quick and throughout. Would recommend to anyone and look forward to finishing our time with the company.
   - name: "Shirley Cowdrey"
     rating: 5
-    date: "2026-04-14"
     comment: |
       We had an amazing experience with All About Pests. They helped us tackle a mice problem quickly and professionally. Their customer service was outstanding—they took the time to walk us through the entire process so we fully understood what was happening and what we needed to do on our end.
       
       What really stood out was how hands-on they were and the strong values they operate with. It’s clear they genuinely care about their customers and doing the job right. I would highly recommend All About Pests to anyone dealing with pest issues.
-  - name: "Elsey Gauthier"
-    rating: 5
-    date: "2025-08-12"
+  - name: "Yvonne"
+    rating: 1
     comment: |
-      Chris was able to find ‘Bee pest access’ within 5 minutes of his arrival.. so impressed. We have been searching endlessly for days looking for bee access to inside our home. Chris was courteous professional and certainly displayed his expertise. Their costs were very reasonable. Thank you so much. I can reclaim my home again.
+      Unfortunately hiring this company left a bad taste. Hired for a cleaning job and an inspection of our roof. Technician took his sweet time with the process as they charge by the hour. Needed to charge his vacuum and let degreaser “sit” before cleaning sure left opportunity for additional cost. Of course they charged an additional hour on top of the 3 h already paid for. The cleaning should have not lastet longer than 2h. He also had to borrow tools from us because he forgot his own to complete the job. The additional paid for inspection was done during the cleaning process not after so accuracy is questionable especially as they haven’t provided any pictures taken during the process. After multiple times contacting Kevin and calling the office no one has provided any pictures!
+      Stay away from this company! They are unprofessional, overcharge and don’t provide accurate work! There are many better companies in the Edmonton area to choose from!
 ---

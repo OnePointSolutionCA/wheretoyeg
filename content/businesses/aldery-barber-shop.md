@@ -13,18 +13,18 @@ google_maps_url: "https://maps.google.com/?cid=544739775743043207&g_mp=Cidnb29nb
 latitude: 53.629831
 longitude: -113.465601
 hours:
-  monday: "10:00 AM–7:00 PM"
-  tuesday: "10:00 AM–7:00 PM"
-  wednesday: "10:00 AM–7:00 PM"
-  thursday: "10:00 AM–7:00 PM"
-  friday: "10:00 AM–7:00 PM"
-  saturday: "10:00 AM–5:00 PM"
-  sunday: "11:00 AM–5:00 PM"
+  monday: "9:00 AM–8:00 PM"
+  tuesday: "9:00 AM–8:00 PM"
+  wednesday: "9:00 AM–8:00 PM"
+  thursday: "9:00 AM–8:00 PM"
+  friday: "9:00 AM–8:00 PM"
+  saturday: "10:00 AM–6:00 PM"
+  sunday: "10:00 AM–6:00 PM"
 photos:
   - "/photos/aldery-barber-shop-g1.jpg"
   - "/photos/aldery-barber-shop-g2.jpg"
 rating: 4.8
-review_count: 349
+review_count: 357
 price_range: "$$"
 amenities:
   - "Family Friendly"
@@ -33,27 +33,24 @@ tags: ["edmonton", "fades"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Ismail Alyasin"
+  - name: "Bbay"
     rating: 5
-    date: "2026-05-24"
     comment: |
-      Me and my son visited this barbershop today and we both had an amazing experience, the shop was clean and the staff very friendly and professional, we will definitely come back.
-  - name: "Maher Harmal"
+      I’ve been coming here for a while now, and the service is consistently top-notch. The attention to detail, precision with fades, and overall professionalism are unmatched. The shop is always clean, welcoming, and has a great atmosphere. Highly recommend to anyone looking for a fresh, clean cut and a reliable barber in the city!special thanks to shaban
+  - name: "Sofaking Hardwick"
     rating: 5
-    date: "2025-03-29"
     comment: |
-      Today I got my haircut at Elderly Barber Shop, and honestly, it was the best decision! The shop is clean and well-organized, and the atmosphere is super relaxing. The barber is skilled and knows exactly what he's doing. I got a great haircut, just the way I wanted. Fast service and reasonable prices. Highly recommend everyone to try it! I'll definitely be back.
-  - name: "Jonathan Clarke"
+      The best barber shop in town!  Zuhair is highly skilled and does a great job on my hair  (every time).  He is meticulous and the hot shave is amazing.  His shop is well run and the staff are professional and make you feel welcome from the moment you walk in.   It feels like family when I come in for hair cuts.  Would highly recommend this shop for all your hair and beard needs.
+  - name: "That Guy Anthony"
     rating: 5
-    date: "2026-08-02"
     comment: |
-      The best barber in town. All the staff are great and treat us like family. Extra attention to detail and utilize their expertise for the best cuts for all of us. Thanks Alderby for always being the best to our family
-  - name: "Sommer Salon"
+      The barbers here are so kind and professional. Been coming here for the last 4 years and I am always pleased with the results. Wait times are never long, love coming here for a haircut.
+  - name: "Mark Ziolkowski"
     rating: 5
-    date: "2026-02-10"
     comment: |
-      Amazing service!
-      The haircut was perfect, very clean work, and great attention to detail. The shop is tidy, professional, and the customer service is excellent. I was really happy with the result and definitely recommend this place to everyone.
-      
-      Highly professional and worth every visit! ✂️👌
+      Top tier barbershop. All the guys who work here are incredibly skilled and consistently deliver amazing haircuts. I recently came in the day before my wedding and got one of the best haircuts I’ve had in my life. 10/10
+  - name: "Eddie Ayed"
+    rating: 5
+    comment: |
+      This place is extremely welcoming and friendly. Sit for 5 minutes and you see the people that come in feel like they are coming to visit an old friend. I have been coming here for sometime. I trust noone to touch my beard except for Zuhair. The man is a Magician.
 ---
