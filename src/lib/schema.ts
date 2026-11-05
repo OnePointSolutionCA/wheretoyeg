@@ -3,6 +3,9 @@ import type { Business, Hours } from "./types";
 import { parseAddress } from "./place";
 import { parseDayHours } from "./openNow";
 
+/** Shops filed under a service category that have a more exact schema.org type. */
+const SUBCATEGORY_TYPE: Record<string, string> = { florists: "Florist", "clothing-gifts": "ClothingStore" };
+
 const CATEGORY_TYPE: Record<string, string> = {
   restaurants: "Restaurant",
   "cafes-coffee-shops": "CafeOrCoffeeShop",
@@ -88,7 +91,7 @@ function seasonHoursSpec(b: Business) {
  * Google's review snippet rules don't allow marking up ratings collected on another site.
  */
 export function businessSchema(b: Business) {
-  const schemaType = CATEGORY_TYPE[b.category] || "LocalBusiness";
+  const schemaType = (b.subcategory && SUBCATEGORY_TYPE[b.subcategory]) || CATEGORY_TYPE[b.category] || "LocalBusiness";
   const sameAs: string[] = [];
   if (b.website) sameAs.push(b.website);
   if (b.instagram) sameAs.push(b.instagram);
@@ -110,7 +113,8 @@ export function businessSchema(b: Business) {
     url: pageUrl,
     address: {
       "@type": "PostalAddress",
-      streetAddress: b.address,
+      // Online shops and service area businesses list a city or area, not a street.
+      ...(/\d/.test(b.address) ? { streetAddress: b.address } : {}),
       addressLocality: locality,
       addressRegion: "AB",
       ...(postalCode ? { postalCode } : {}),
