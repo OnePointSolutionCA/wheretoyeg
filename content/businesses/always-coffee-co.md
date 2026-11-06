@@ -5,8 +5,8 @@ category: "cafes-coffee-shops"
 subcategory: "specialty"
 neighborhood: "Windermere"
 address: "6070 Andrews Way SW, Edmonton, AB T6W 3S9"
-rating: 4.3
-review_count: 53
+rating: 4.4
+review_count: 60
 tier: "featured"
 phone: "(780) 951-2952"
 website: "http://www.alwayscoffeeco.com/"
@@ -14,6 +14,10 @@ google_maps: "https://maps.google.com/?cid=2950976448473691077&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/always-coffee-co.jpg"
 reviews:
+  - name: "Alexandra Foghis"
+    rating: 5
+    comment: |
+      Such a cute little coffee spot! ☕️🤎 The coffee was really good, and the whole place had such a cozy, welcoming feel. The staff were friendly and it just had a really nice, relaxed atmosphere. Definitely a little gem worth checking out — I’ll be back for sure!
   - name: "Lorie R"
     rating: 5
     comment: |
@@ -39,29 +43,16 @@ reviews:
     rating: 5
     comment: |
       The staff member there was absolutely lovely! She was very kind and receptive to questions. We got the black forest latte, which was delicious, as well as the matcha mochi waffle, which was very yummy as well! Lots of seating and natural lighting which made for an excellent experience.
-  - name: "Brielle Brewer"
-    rating: 3
+  - name: "Chelsea Messi"
+    rating: 4
     comment: |
-      Was excited to try out a new coffee shop in the area. The people working are very friendly - make sure you do not go in the yellow door as it is the door to their kitchen.
-      Unfortunately there is still construction going on in the building itself right beside the coffee shop so that brought the atmosphere down a little.
-      
-      I don’t want to start with negatives but the prices here are criminal… they don’t have prices on their menu either. I paid $17 for an iced cherry matcha and an everything bagel with cream cheese. I wanted to try this place out so didn’t change my mind on anything and just paid the price.
-      
-      Now the bagel itself was $6 and then an extra $2 for “speciality cream cheese”. I saw her take the bagel out of a dempsters bag and throw it in a toaster…. For $6 I was thinking they were maybe partnered with bagel bar or something and I was going to get a delicious, freshly baked bagel. Nope, it was part of a 6 pack that I could get from Safeway down the street for $4. The bagel was just a vessel for the cream cheese though as the specialty cream cheese was actually very delicious.
-      
-      The cherry matcha was very pretty and definitely an instagram worthy drink if that’s what you are looking for. The cherry itself was really really good, exactly what I was hoping for. I was a little disappointed in the matcha itself though as it was watery. Definitely not the worst matcha I’ve had in the area but not the best either and at $9 i would hope that it would compete with Common Ground’s matcha.
-      
-      I wanted to love this place - the $9 for the matcha is fine, a little pricey but okay. But I can’t get over the $8 for a dempsters bagel. That definitely ruined the vibe of the visit for me.
-  - name: "Kyla Pastushuk"
-    rating: 5
-    comment: |
-      Tried this place today, so convenient to just pop out of work and have a great coffee from a local owned place
+      I stumbled across this place for the first time and it was a very nice environment, the owner was very nice and I like having a new cafe right by my house so the convenience is great. I just wish there were some more prices posted as on some parts of the menu you aren’t quite sure how much it costs and the atmosphere is great I personally think adding some more red to match the walls and giving it more colour in the forms of paintings, maybe some hanging plants and some cushions with throw pillows on the chairs against the walls :) If there was free wifi with no password it would be the perfect studying spot as there are already outlets provided! I also just hope some more food items could be added to the menu but for a new location it is definitely on the right track and I will be telling my friends and family to come here!
 hours:
-  monday: "7:00 AM–7:00 PM"
-  tuesday: "7:00 AM–7:00 PM"
-  wednesday: "7:00 AM–7:00 PM"
+  monday: "7:00 AM–6:00 PM"
+  tuesday: "7:00 AM–6:00 PM"
+  wednesday: "7:00 AM–6:00 PM"
   thursday: "7:00 AM–7:00 PM"
-  friday: "7:00 AM–7:00 PM"
+  friday: "7:00 AM–5:00 PM"
   saturday: "7:00 AM–4:00 PM"
   sunday: "9:00 AM–4:00 PM"
 ---

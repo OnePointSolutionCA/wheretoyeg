@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Edmonton"
 address: "3450 99 St NW, Edmonton, AB T6E 5X5"
 rating: 4.6
-review_count: 919
+review_count: 927
 tier: "featured"
 phone: "(780) 489-3499"
 website: "https://www.ameanpizzadonair.ca/"
@@ -14,6 +14,23 @@ google_maps: "https://maps.google.com/?cid=13417159761240792684&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/amean-pizza-donair-and-sub.jpg"
 reviews:
+  - name: "Brutally honest Reviews 780"
+    rating: 2
+    comment: |
+      Place was recommended to me
+      Went and tried the Donair sorry but was disappointing as the Donair meat was so dry and it was like eating leather the onions were thick cut and in ring form, yes the meat had a little spice but not enough to care about it was way too dry. Just wondering why they don’t cut it fresh off the cone instead of pre cut and stored  away for who knows how long. 4.7 out of 10 for this Donair.
+  - name: "Fuchsia Grasshopper"
+    rating: 5
+    comment: |
+      Best donair in the city! After getting a tattoo and feeling a bit of tattoo flu, needed a late lunch. Finally got around to trying out Amean donair and the hype was worth it. Great flavor with a donair not drowning in sauce or onion. The house made ketchup is also a great surprise. Will definitely return to try more of the menu!
+  - name: "Dax (ThatSurfingOtter)"
+    rating: 4
+    comment: |
+      One of the better pounds per dollar donairs I've had in years.
+      The jumbo donair actually had some weight to it, however I noticed I was charged for extra sauce without prompt for a dollar.
+      As well as when I was eating the donair the meat felt very dry and it tasted and looked like there was barely any sauce.
+      
+      I'll probably have a donair from here again when I'm craving next time. However I will be making a note that I expect there to be *extra sauce* that actually feels like there's *Extra Sauce.*
   - name: "Chundel McGee"
     rating: 5
     comment: |
@@ -22,27 +39,6 @@ reviews:
     rating: 5
     comment: |
       Saw the good reviews, so I dropped in to give it a try. Thank you all for being right. One of the best donairs not only while visiting Edmonton but also in a long long time. I got the Jumbo and it indeed was. Meat was sooo tasty and the toppings fresh! Hussain helped me out despite being new I would have never guessed that he was. Friendly, attentive to my order, When I mentioned my food allergies he was very cautious on my behalf. I will be getting all my donair here as long as I am in this city.
-  - name: "asad shirkuh"
-    rating: 2
-    comment: |
-      Long time ago this used to be
-      the best place,friendly customer service with freshly made items. Recently visited after such a long time. My first impression is that it looks like the management has been changed or the business been sold to someone. The person at the counter was very rude,  no smile at all. Like he was giving me "Free" in this hot day the air-conditioned was off. Due to excessive heat from the ovens, it was very uncomfortable sitting  there and enjoy the food. Unfortunately, one of my order was fries. I believe that those were refried and burnt. Quantity was reduced.very disappointing. For sure this was the last time visited there. All the persons working there were new. Not a single person from the old staff. That strengthen my point that business has been sold.
-  - name: "Kashawn DeGrace"
-    rating: 5
-    comment: |
-      BEST DONAIR PLACE IN THE CITY !!
-      
-      They really take their time to cook the meat, and the service is exceptional.
-      
-      Best price Donairs that you can get, and the mean is so clean you can taste it.
-      
-      I personally think this is the best donair place in the city.
-      
-      Thank you guys will 100% be coming back
-  - name: "Matt B"
-    rating: 5
-    comment: |
-      I’ve been going to Amean for years and years, and I continue to think they’re one of the best donairs in Edmonton. I really like the way they grill their meat and their portions are awesome. I’ll continue going to this spot whenever I visit Edmonton again!
 hours:
   monday: "10:00 AM–10:00 PM"
   tuesday: "10:00 AM–10:00 PM"

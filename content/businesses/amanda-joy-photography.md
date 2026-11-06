@@ -29,14 +29,14 @@ reviews:
       A photo is so emotional for me.
       And I will forever cherish the ones she took for me at the start of a brand new life for myself🥹
       Xoxox thank you Amanda!!❤️
-  - name: "Caterina Lazor"
-    rating: 5
-    comment: |
-      Amanda was a joy to work with. My toddler arrived to our shoot in a mood and she worked quickly and still was able to capture the most beautiful photos for us. It was truly magic. I would highly recommend her and look forward to working with her again in the future!
   - name: "Jessica Atsma"
     rating: 5
     comment: |
       Amanda is the best. She did my maternity & newborn photos and I am still obsessed with them to this day. She is so sweet and was so patient with my kids when they weren’t cooperating for the photos. 10 out of 10!!!
+  - name: "Caterina Lazor"
+    rating: 5
+    comment: |
+      Amanda was a joy to work with. My toddler arrived to our shoot in a mood and she worked quickly and still was able to capture the most beautiful photos for us. It was truly magic. I would highly recommend her and look forward to working with her again in the future!
   - name: "Mae Anderson"
     rating: 5
     comment: |

@@ -31,28 +31,22 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Uncle Albert"
     rating: 5
-    date: "2024-09-04"
     comment: |
       Bruce and his guys did an amazing job installing leather into our Jeep Wrangler.  Looks better than factory at less cost than ordering new.  Definitely worth the cost of the upgrade as they look and feel great.
-  - name: "Aidan"
+  - name: "AJ"
     rating: 5
-    date: "2023-07-31"
     comment: |
       Had my truck swapped with cloth to leather Katzkins and Bruce was fantastic to work with! I recommend anyone who’s looking to switch to Katzkin leathers or just changing up current leathers to custom ones, definitely hit up Bruce! Great guy, quick response, and fast turn around time! Dropped off my truck first thing in the AM, was done by the early afternoon! Phenomenal work, definitely earned my business!
   - name: "Steve Vautour"
     rating: 5
-    date: "2025-12-13"
     comment: |
       When Garage 104 refuse to help me with katzkins warranty issue, Bruce was very helpful, no question ask, drop by, show him the problem, replacement cover was ordered and replace at no cost.   Remember All Type Mechanical for your automotive needs.  Thanks Bruce!
-  - name: "Jenk"
-    rating: 5
-    date: "2026-01-15"
-    comment: |
-      Great place to get leather installed in a vehicle that otherwise wouldnt have it.
-      Priced fair, done well and done quick.
   - name: "Reliable Remote Starters"
     rating: 5
-    date: "2023-02-12"
     comment: |
       If you want leather seats installed into your vehicle look no further. Bruce installs only quality materials and price can’t be beat. If you need any seat covers or window tint look these guys up. They won’t disappoint. Thanks Bruce. You always make my experience worth going to you.
+  - name: "Jordan Arsenault"
+    rating: 5
+    comment: |
+      I was in a situation where I needed some work completed on a clients vehicle (aftermarket heated seats) and reached out to Bruce at All Type Mech. He was able to get me in the same day and complete the work properly, efficiently, and with time to spare. I highly recommend All Type Mechanical and will be using them again for future work requirements!
 ---

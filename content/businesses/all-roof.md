@@ -24,7 +24,7 @@ photos:
   - "/photos/all-roof-g1.jpg"
   - "/photos/all-roof-g2.jpg"
 rating: 4.8
-review_count: 31
+review_count: 35
 amenities: []
 tags: ["edmonton", "roofing"]
 active: true
@@ -32,12 +32,18 @@ date_listed: "2026-10-02"
 reviews:
   - name: "David"
     rating: 5
-    date: "2026-07-20"
     comment: |
       Replacing a cedar shake roof with Euroshield (slate look) rubber tile is a messy, challenging job, and Paul (owner), John (project foreman), and crew were more than up to the task!  We found 'All Roof' to operate with integrity, communicate effectively, and adhere to high standards for quality workmanship - we would recommend their services to friends, family, and neighbours!
+  - name: "Andy Holt"
+    rating: 5
+    comment: |
+      Strong winds ripped off a section of our asphalt shingles over the weekend. I called several roofing contractors in the area, and Paul at All Roof was extremely responsive from the moment he answered the phone. Even though he was swamped with roofing repair requests, he still gave me a quote based on my photos and sent his team to complete the repairs.
+      
+      The work was completed that day, and the cost was very reasonable considering the last-minute request and call-out. Paul and his team not only repaired the damage, but they also provided a full roof inspection with photos. I am still waiting to hear back from the other companies I called.
+      
+      I will always reach out to Paul and his team for my future roofing needs and definitely recommend All-Roof's services.
   - name: "Triple One Convenience Store"
     rating: 5
-    date: "2026-05-01"
     comment: |
       I had an excellent experience with All Roof Roofing Company. Paul, the owner, is professional, reliable, and takes great pride in his work.
       
@@ -50,19 +56,13 @@ reviews:
       Atoy Ghirmu
   - name: "Joseph Do"
     rating: 5
-    date: "2026-06-28"
     comment: |
-      We had previously call a different roofing company to do some repairs when we had the big wind storm in April. That company ghosted us. After calling many other roofing companies, All Roof was the first to call us back. They tried to make it on Friday the 26th but was too busy. When we told them we noticed the water damage around one of our pot lights they made an effort to come out and fix it right away. They took before and after photos and made sure there was no other issue with our roof. All Roof is prompt with their response and genuinely care about their customers. They provide quality work and have great customer service.
-  - name: "Mark Rosalyn"
-    rating: 5
-    date: "2026-03-28"
-    comment: |
-      Was a great experience dealing with Paul and his company All Roof. Gave us an excellent price on replacing our garage shingles after wind damage.
+      Oct 18 - We had All Roof come out to remove a chimney from our roof which was connected to our fireplace in our master bedroom we never used. Daniel came out completed the work and fixed some missing shingles and vent caps that was blown off from the wind storm we had the day before. Daniel was in constant communication with us since we were not home when they arrived. Work was completed promptly and they only charged us an extra $100 to take care of the damages from the storm. Again will recommend All Roof for their great serice.
       
-      Was easy to deal with and excellent workmanship, would highly recommend. His crew of 5 guys were very efficient and diligent.
-  - name: "Debbes"
+      1st service call
+      We had previously call a different roofing company to do some repairs when we had the big wind storm in April. That company ghosted us. After calling many other roofing companies, All Roof was the first to call us back. They tried to make it on Friday the 26th but was too busy. When we told them we noticed the water damage around one of our pot lights they made an effort to come out and fix it right away. They took before and after photos and made sure there was no other issue with our roof. All Roof is prompt with their response and genuinely care about their customers. They provide quality work and have great customer service.
+  - name: "Kyle Carter"
     rating: 5
-    date: "2026-01-22"
     comment: |
-      I had trouble finding a roofer in the middle of winter to fix my soffit. Couldn't get a reasonable quote from anyone. Paul and his team gave me a quote at 1/2 the price and made the repair the next day. Affordable, quick and great work. Highly recommend
+      After calling several other companies who were too busy to fit me in, Paul came to the rescue. Not only did he manage to fit my repairs into his already busy schedule, but he also charged me a very fair price.
 ---

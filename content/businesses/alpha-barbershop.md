@@ -19,7 +19,7 @@ hours:
   sunday: "11:00 AM–6:00 PM"
 photos: ["/photos/alpha-barbershop-1.jpg", "/photos/alpha-barbershop-2.jpg", "/photos/alpha-barbershop-3.jpg"]
 rating: 4.8
-review_count: 152
+review_count: 160
 price_range: "$$"
 amenities:
 
@@ -47,17 +47,23 @@ reviews:
       By far my favorite barbershop I've ever been to in my life.
       
       (Don't be scared off by the "price per person" number, I'm usually getting multiple services or buying products each visit and I make sure the stylist is well compensated for the experience.)
-  - name: "Jamie Hewlett"
+  - name: "engin kaya"
     rating: 5
     comment: |
-      Thank you Alicia for the beard trim and hair cut! The experience was by far the  most outstanding !/ with the sculp message and beard wash it was like a men’s spa treatment! Very happy with the experience! Very professional and the environment was perfect and welcoming ! I will be back you can guarantee that!!! Thank you once again 😊
+      I recently visited your salon for the first time and had an incredible experience. Unfortunately, I forgot to ask for the name of the person who served me.
+      
+      She was incredibly fast and highly skilled; it was the best service I have received. I wanted to reach out and say thank you for the excellent work.
+  - name: "scott johnson"
+    rating: 5
+    comment: |
+      ⭐⭐⭐⭐⭐ Absolute Gold Standard!
+      If you’re looking for a barber shop that consistently delivers high-caliber cuts and an incredible experience, Alpha Barbershop is the place to go.
+      From the moment you walk in, the atmosphere is welcoming, pristine, and energetic. The entire team takes dynamic pride in their craft—they don't just rush you through the chair; they actually take the time to listen to what you want, offer solid advice based on your hair type, and execute with sharp precision.
+      The attention to detail on everything from clean fades and crisp lines to beard trims is top-notch. You leave feeling like a million bucks every single time. Professional, skilled, and top-tier service all around.
+      Couldn't recommend them enough—do yourself a favor and book an appointment!
   - name: "Mitch R"
     rating: 5
     comment: |
       Stopped in here on My way to Edmonton from Winnipeg, hospitality and quality of service was through the roof. The guys were the coolest and nicest guys there in Winnipeg. We don’t have that this is a great shop. I suggest everyone come here and get a cut from them well 100% come back if I’m in Edmonton again
       . Ramsey and Korean were awesome and the greatest quality. I think this is the best haircut I’ve ever got. I recommend everyone goes got us in at the very last minute and did all my friends and me all look fresh like we’re about to go to a wedding
-  - name: "Michael"
-    rating: 5
-    comment: |
-      I can’t say enough great things about Alicia ! She gives the best haircuts I’ve ever received. Her attention to detail and precision are incredible she is a true perfectionist who loves what she does. Not only is she an amazing and talented barber, but she is also a sweet, beautiful, and wonderful person to talk to. 10/10 stars
 ---

@@ -11,16 +11,16 @@ phone: "(587) 742-1359"
 website: "https://www.alwaysplumbing.ca/"
 google_maps_url: "https://maps.google.com/?cid=17141532530455269761&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "Closed"
-  tuesday: "Closed"
-  wednesday: "Closed"
-  thursday: "Closed"
-  friday: "Closed"
-  saturday: "Closed"
+  monday: "Open 24 hours"
+  tuesday: "Open 24 hours"
+  wednesday: "Open 24 hours"
+  thursday: "Open 24 hours"
+  friday: "Open 24 hours"
+  saturday: "Open 24 hours"
   sunday: "Open 24 hours"
 photos: ["/photos/always-plumbing-heating-1.jpg", "/photos/always-plumbing-heating-2.jpg", "/photos/always-plumbing-heating-3.jpg"]
 rating: 4.7
-review_count: 3992
+review_count: 4032
 price_range: "$$"
 amenities:
 
@@ -37,14 +37,6 @@ reviews:
       Jeremy and Daniel were incredible—thorough, respectful, and took the time to walk me through everything. I felt confident every step of the way.
       Big thanks as well to Rob for the communication and support—it really shows how strong their team is.
       Highly recommend.
-  - name: "Jeff Steil"
-    rating: 5
-    comment: |
-      We had Jeremy and his apprentice Christian over to replace all the Poly B pipe in our home.   They did a fantastic job with attention to detail and went above and beyond what we expected.  They were very careful  about keeping the the work  space clean as they worked. It is very obvious they take great pride in their work..  We would not hesitate to have Always Plumbing for any of our related work and if I owned a company those are they type of employees I would want working for me. It feels great to be free of worry now with all the Poly B gone from our home.  They also took time to complete the job without putting any holes in our drywall or ceiling which was actually amazing in a two storey home.   Hats off to Jeremy and Christian.  Thanks Guys for your fantastic workmanship!!!
-  - name: "Stephen Gallard"
-    rating: 5
-    comment: |
-      Brian showed up on time, was personable and friendly, and went right to work. He kept us apprised of any surprises or findings and fully explained what was required to correct the situation. He worked hard and until late to ensure we were functional and even respected and took care to not let the cats out. Brian went the extra mile for us and left everything clean and organized before departing. Professionalism, knowledgeable and welcomed back in our home anytime. Definitely a 5 star rating as nothing higher which he deserved.
   - name: "Franz “Fransico” Chen"
     rating: 5
     comment: |
@@ -53,8 +45,16 @@ reviews:
       The two technicians, Ali and Cristal, arrived on time and were very courteous. They wore boot covers, walked me through how to light the new tank, and completed the replacement in about an hour and a half. They did an excellent job, and I’m very satisfied with the work.
       
       I recommend Always Plumbing.
-  - name: "Steven"
+  - name: "Stephen Gallard"
     rating: 5
     comment: |
-      Just wanted to take the time to thank my technicians Jeremy Martynuik and Christian Wade as well as severall of the Always plumbing reception staff; Danielle and Wendy on the wonderful customer service they provided over the phone. I am very impressed with this company as I have used other plumbing companies in the past and they didn’t even come close. From the appointment follow up and customer care, to the actual install the experiencewas grear. Always arrived on time when they said they would. The job Jeremy and Christian did installing my new Navien hot water heater was top notch. Jeremy went well beyond his job duties on informing me of all the plumbing options for my mechanical room in my new home. He was very knowledgeable and could instanly tell he was a well seasoned technician. Was happy to sign up for their Diamond Club servicing package as there is no need to call other plumbing competitors in the future. Always Plumbing definitely won a customer for life. Thanks again
+      Brian showed up on time, was personable and friendly, and went right to work. He kept us apprised of any surprises or findings and fully explained what was required to correct the situation. He worked hard and until late to ensure we were functional and even respected and took care to not let the cats out. Brian went the extra mile for us and left everything clean and organized before departing. Professionalism, knowledgeable and welcomed back in our home anytime. Definitely a 5 star rating as nothing higher which he deserved.
+  - name: "Rhoda"
+    rating: 5
+    comment: |
+      Was happy to have Cleve into my home to fix my drainage issues.  He was punctual, very polite & extremely professional. He was fast, efficient & made sure everything was in working order prior to his departure.  He left my home just as clean as he found it upon his arrival (much appreciated).   Will definately be calling Always Plumbing & Heating again when I need them.  Thanks again Cleve for your assistance,  was good to meet you.
+  - name: "Jeff Steil"
+    rating: 5
+    comment: |
+      We had Jeremy and his apprentice Christian over to replace all the Poly B pipe in our home.   They did a fantastic job with attention to detail and went above and beyond what we expected.  They were very careful  about keeping the the work  space clean as they worked. It is very obvious they take great pride in their work..  We would not hesitate to have Always Plumbing for any of our related work and if I owned a company those are they type of employees I would want working for me. It feels great to be free of worry now with all the Poly B gone from our home.  They also took time to complete the job without putting any holes in our drywall or ceiling which was actually amazing in a two storey home.   Hats off to Jeremy and Christian.  Thanks Guys for your fantastic workmanship!!!
 ---

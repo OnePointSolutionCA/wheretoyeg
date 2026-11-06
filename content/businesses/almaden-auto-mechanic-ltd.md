@@ -24,24 +24,24 @@ reviews:
       They are consistently professional and trustworthy. Once again, I highly recommend this place to anyone looking for reliable service without hesitation.
       
       Lastly, thank you so much Manual for maintaining such excellent service with your team, and thanks Roger for the great mechanical work today! And Vanessa for admin stuff. Great team work!
+  - name: "Joy Wong"
+    rating: 5
+    comment: |
+      Almaden Auto Mechanic Shop provides excellent service at a fair price. The team is knowledgeable, honest, and efficient. Highly recommended—definitely the best place to go!
   - name: "Trina El-Ezaby"
     rating: 5
     comment: |
       Manny is the owner, this is the best kept secret in Edmonton! Excellence in all vehicle mechanics, 2 Generations of family owners. Do yourself and vehicle a favour and you’ll soon be having money left over, with integrity in workmanship with quality parts, my friend referred me, her brother n law has been coming to Mannys shop for 30 yrs plus.
       I feel extremely blessed to have been referred to Mannys shop.
-  - name: "Joy Wong"
-    rating: 5
-    comment: |
-      Almaden Auto Mechanic Shop provides excellent service at a fair price. The team is knowledgeable, honest, and efficient. Highly recommended—definitely the best place to go!
-  - name: "Stephanie Stein"
-    rating: 5
-    comment: |
-      Great work, amazing staff, fair prices, and honest work. What more could you ask for from a shop. Glad they were recommended to me and won't be getting work done by anyone else. Highly recommend!!!
   - name: "Dale Macaulay"
     rating: 5
     comment: |
       Manny the owner is a very proud honest hard working man!
       30 years taking our vehicles to him & always great!!
+  - name: "Stephanie Stein"
+    rating: 5
+    comment: |
+      Great work, amazing staff, fair prices, and honest work. What more could you ask for from a shop. Glad they were recommended to me and won't be getting work done by anyone else. Highly recommend!!!
 hours:
   monday: "8:30 AM–5:00 PM"
   tuesday: "8:30 AM–5:00 PM"

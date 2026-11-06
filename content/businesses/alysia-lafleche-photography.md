@@ -17,10 +17,6 @@ reviews:
     rating: 5
     comment: |
       Alysia has been my granddaughter's photographer since she was a newborn.  Her photos are gorgeous.  She has a magical way of working with little ones to keep them calm and happy.  We have been so happy with Alysia as our photographer and would highly recommend her to everyone.
-  - name: "Frances Chow"
-    rating: 5
-    comment: |
-      We booked Alysia for an outdoor Christmas photoshoot last November. She picked a very nice location close to where we live. When we got there,  she had an amazing set up with wonderful props. She made us at ease and she's very friendly. All of the photos were amazing. The Christmas cards that were included in her package has very good quality. My husband and I were very impressed with her work. I will definitely recommend her if anyone is looking for a good family photographer! She's amazing!
   - name: "Jordan Elias"
     rating: 5
     comment: |
@@ -30,6 +26,10 @@ reviews:
     rating: 5
     comment: |
       Alysia is incredibly talented. We just received our photos back from her, and we love every single one of them. During our session, Alysia not only made each one of us feel comfortable, but she went above and beyond what was listed in our contract. She made the extra effort to ensure she captured every detail, and for the majority of the session, we hardly even noticed that she was there (that was how comfortable it was). Because of this, our photos came out so candid and real. I've worked with photographers from all over, and Alysia's talent and shooting style surpassed them all. Thank you x 10000!
+  - name: "Frances Chow"
+    rating: 5
+    comment: |
+      We booked Alysia for an outdoor Christmas photoshoot last November. She picked a very nice location close to where we live. When we got there,  she had an amazing set up with wonderful props. She made us at ease and she's very friendly. All of the photos were amazing. The Christmas cards that were included in her package has very good quality. My husband and I were very impressed with her work. I will definitely recommend her if anyone is looking for a good family photographer! She's amazing!
   - name: "Mckenzie Hill"
     rating: 5
     comment: |

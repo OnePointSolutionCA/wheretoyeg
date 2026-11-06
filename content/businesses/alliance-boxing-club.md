@@ -24,7 +24,7 @@ photos:
   - "/photos/alliance-boxing-club-g1.jpg"
   - "/photos/alliance-boxing-club-g2.jpg"
 rating: 4.8
-review_count: 33
+review_count: 34
 amenities: []
 tags: ["edmonton", "boxing"]
 active: true
@@ -32,28 +32,23 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Brekell Achukwu"
     rating: 5
-    date: "2025-02-22"
     comment: |
       Great gym, friendly and very supportive atmosphere. From the moment I walked in Coach John welcomed us. 0 Judgement. The personal growth I’ve seen in my son has been huge. All the coaches have gone above and beyond. Very encouraging!
       Definitely worth checking out!
+  - name: "ASE"
+    rating: 3
+    comment: |
+      I watched Hajime no Ippo and decided to go to a boxing club and they served me well.
   - name: "Danny Z"
     rating: 5
-    date: "2025-12-12"
     comment: |
       John’s a treamendous coach & mentor. If you’re looking for a workout, or looking to pursue boxing as a passion or career Alliance is an incredible place to start.
   - name: "Lee White"
     rating: 5
-    date: "2025-05-29"
     comment: |
       This is a great place for young kids to learn the trade. Plenty of we'll known fighters also train our of this gym.
   - name: "Faith Dominique"
     rating: 5
-    date: "2021-02-26"
     comment: |
       I love this gym! Best place ever .. coach john and coach tommy are the greatest coaches ever. Highly recommended ❤🥊
-  - name: "Tony Nelson"
-    rating: 5
-    date: "2024-07-10"
-    comment: |
-      I'm hoping to come there tonight I been waiting to join for a while know but I was in camp for work now I have time 😎
 ---

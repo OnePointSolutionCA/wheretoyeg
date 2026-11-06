@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/all-star-fitness-gym-1.jpg", "/photos/all-star-fitness-gym-2.jpg", "/photos/all-star-fitness-gym-3.jpg"]
 rating: 5
-review_count: 96
+review_count: 95
 price_range: "$$"
 amenities:
 
@@ -36,6 +36,10 @@ reviews:
     rating: 5
     comment: |
       I have been working with Omar on and off for two years now.  He is a great online trainer who sets up workouts that are suitable for what you are trying to aim for in body your transformation.  He also does meal plans that work and teach you about healthier eating.   I strongly recommend him for anyone Who is new to fitness.  As a professional trainer, he is great with people who have already been on a  fitness journey, but just need that extra push.
+  - name: "Gloria Quigley"
+    rating: 5
+    comment: |
+      My experience has been no less than awesome. Omar is a great trainer, doesn’t push you past your limits. Friendly, relaxed, and always has a smile on his face for everyone. Best personal trainer I’ve ever had the pleasure of training me. His service is second to none. Thank you Omar!
   - name: "Nina Benvenuto"
     rating: 5
     comment: |
@@ -44,8 +48,4 @@ reviews:
     rating: 5
     comment: |
       Omar is a fantastic trainer—knowledgeable, supportive, and genuinely down-to-earth. He meets you exactly where you are, no matter your fitness level, and helps you build toward your goals at a pace that challenges you but never overwhelms. Always positive and encouraging, he makes each session something I look forward to. Highly recommended!
-  - name: "Bren"
-    rating: 5
-    comment: |
-      I’ve been training with Omar for 3 months and have cut off a lot of stubborn fat and put on some lean muscle. His help with tracking workout and diet together has already produced visible results and I’m looking forward to the rest of our program.
 ---

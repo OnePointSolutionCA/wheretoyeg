@@ -6,7 +6,7 @@ subcategory: "indoor-playground"
 neighborhood: "Edmonton"
 address: "3210 118 Ave NW #173, Edmonton, AB T5W 4W1"
 rating: 4.3
-review_count: 1326
+review_count: 1336
 tier: "featured"
 phone: "(780) 760-4190"
 website: "http://amazoneplayzone.com/"
@@ -18,18 +18,6 @@ reviews:
     rating: 4
     comment: |
       Unlike other places they have an exosaucer for infants giving them something to do. They could improve their experience by adding a jolly jumper and more activities for infants. Overall I love the appearance and setting I would highly recommend this place to other families who looking something to indoor with their children
-  - name: "Aline Melo Terapeuta"
-    rating: 5
-    comment: |
-      Guaranteed fun is here. We had a great birthday with my daughter. It was a very cold Tuesday outside. The place was extremely clean, with excellent service, great coffee, and a wonderful playground for the children. I ended up enjoying it too because everything was so fun that I had to play a little with the kids. We loved it!
-  - name: "Gael"
-    rating: 5
-    comment: |
-      This place is outstanding! I highly recommend   their service, they had prepare the private room and they brought the food at the time we demanded. All the kids had enjoyed their time there. The Amazone playzone is clean and well-maintained if I can give more than 5 stars I would.
-  - name: "Emz"
-    rating: 5
-    comment: |
-      My daughter chose this indoor playground to celebrate her birthday this year, after they had their field trip in this place. It was great experience, the staffs are very nice and friendly. They set up all our decorations we have for the party. It was an easy and fast communication. They offer good discount rate depends on the day of the party. It is unlimited time for playtime and so many inclusives to choose with the packages. The biggest playplace in Edmonton we've been and so many activities as well. The kiddos had so much fun.
   - name: "Deanna Tootoosis"
     rating: 4
     comment: |
@@ -37,6 +25,21 @@ reviews:
       Babies under 1 are free
       $42 for an amazone platter and it’s just a plate of food, I thought it was going to be the size of a pizza box to share with the parents & kids lol. Dry ribs were way over done. id eat before coming! & then just go to bp’s across the road afterwards!
       Everything else was fun :) a good experience for my baby :)
+  - name: "Lala P."
+    rating: 1
+    comment: |
+      Not parent friendly as other places.  I found I was looking for my kid more than I was having fun.  It's a maze for sure and one thing in particular that really made me uncomfortable was the fact that as we were leaving not one single person checked if my kid was actually mine.  We have been to many places where they at least check you have matching stamps as you leave.  I feel like staff was just very careless, unfortunately will not be returning.
+  - name: "Simran Subhra"
+    rating: 5
+    comment: |
+      Our favorite place, kids absolutely love it, and we’ve stayed here for hours.
+      A lot of activities
+  - name: "Nicole Y."
+    rating: 4
+    comment: |
+      We always have fun when we come here, and the kids love it. Great area for younger kids as well as the older ones. The staff cleans the tables every time we've gone, improvements have been made. This place is huge, has a nice mix of trampoline, fishing zone and play area, so much to do. It is always busy, especially Friday's evenings and the weekends, which are packed with kids and birthday parties.
+      
+      The floor and bathroom cleanness could be improved. Our socks got wet and dirty every time when we were there. I have seen staffs cleaning, but for the amount of kids it might be under staffs.
 hours:
   monday: "10:00 AM–8:00 PM"
   tuesday: "10:00 AM–8:00 PM"
@@ -44,5 +47,5 @@ hours:
   thursday: "10:00 AM–8:00 PM"
   friday: "10:00 AM–9:00 PM"
   saturday: "10:00 AM–9:00 PM"
-  sunday: "10:00 AM–8:00 PM"
+  sunday: "10:00 AM–9:00 PM"
 ---

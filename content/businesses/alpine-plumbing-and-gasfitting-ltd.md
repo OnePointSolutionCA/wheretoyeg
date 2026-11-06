@@ -24,36 +24,31 @@ photos:
   - "/photos/alpine-plumbing-and-gasfitting-ltd-g1.jpg"
   - "/photos/alpine-plumbing-and-gasfitting-ltd-g2.jpg"
 rating: 5.0
-review_count: 22
+review_count: 28
 price_range: "$$$$"
 amenities: []
 tags: ["edmonton", "residential"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Megan Morrison"
+  - name: "ron v"
     rating: 5
-    date: "2026-06-24"
     comment: |
-      Had a great experience with Alpine Plumbing & Gasfitting. I had an emergency plumbing issue I was scrambling to get help with.... He showed up sooner than anticipated and was extremely knowledgeable and fixed everything up perfectly. I have some gas fitting services he will be coming back to do!! Thank you!!!!
+      Had Kiefer out today to replace my natural gas quick connect and look at some other issues.   Showed up on time and charged fairly.  A great business to work with.
   - name: "Joseph Alexander"
     rating: 5
-    date: "2026-05-25"
     comment: |
       Had him come out for a furnace repair in the middle of winter. He was quick, efficient, and affordable. Really appreciated the fast response and great service. Thanks again Kiefer!
-  - name: "Shantelle Bayers"
+  - name: "Alvin K"
     rating: 5
-    date: "2026-06-18"
     comment: |
-      The communication, and timing was impeccable. I called to book an appointment, and he was able to get out to help me with my furnace on an emergency request. Would highly recommend!
-  - name: "Rae Toronchuck"
+      Performed the work in a timely manner and was professional/knowledgeable throughout the process of our 2 repairs ( toilet and sink/dishwater line repair ).would recommend his services
+  - name: "Dennis Poirier"
     rating: 5
-    date: "2026-07-28"
     comment: |
-      Reliable, professional, transparent and fair  pricing. Highly recommend. They helped me when another plumber cancelled on me last minute.
-  - name: "Hailey MacInnis"
+      A Great Thank you to Kiefer with Alpine Plumbing and Gas fitting.  Who Plumbed in my custom shower.   Wasn’t easy with the tight space and having to customize most of the plumbing but was very professional and fast and knowledgeable.   Will definitely call Alpine plumbing again in the future . 👍
+  - name: "Scott Kohel"
     rating: 5
-    date: "2026-05-25"
     comment: |
-      Had a dishwasher installed recently and everything went great. Showed up on time, got it done quickly, and everything works perfectly. Super easy to deal with and would definitely recommend.
+      Amazing service. Very fast to respond via text.  Gave me a very reasonable quote explaining everything that needed to be done. Showed up on time, was great with my family and did the job right. Highly recommend
 ---

@@ -6,7 +6,7 @@ subcategory: "mechanics"
 neighborhood: "Beverly"
 address: "12809 56 St NW, Edmonton, AB T5A 0C9"
 rating: 4.2
-review_count: 129
+review_count: 134
 tier: "featured"
 phone: "(587) 521-7111"
 website: "http://amaanauto.com/"
@@ -26,6 +26,10 @@ reviews:
       I brought my car in for a small issue, and when I got it back, it was in significantly worse condition than when I dropped it off. I now have new problems that weren't there before, which I am going to have to pay another, competent mechanic to fix.
       
       Do not trust this man with your vehicle. He will break it, charge you for it, and then yell at you when you complain. Save your money and your sanity and go somewhere else.
+  - name: "Wendell Ducducan"
+    rating: 1
+    comment: |
+      I asked them to repair my dodge journey, and they just make it worst. The only problem of my car was the lock and unlock button, they're not working. But they destroyed my whole system and dashboard. Now it says hot oil and lots of different engine error. They are not professional they told me to call me back coz they want to repair it further. But they didn't. I don't trust them. I hope you don't get scam as well.
   - name: "Hamdard Ghazniwal"
     rating: 1
     comment: |
@@ -36,20 +40,14 @@ reviews:
       Even after scheduling an appointment with one of your team members and returning on Saturday, my issue was completely ignored, and no action was taken to address the damage.
       
       I would recommend other customers to avoid using this workshop for tire replacements or any other services
-  - name: "Alex Stephane TALLA"
-    rating: 5
-    comment: |
-      Well service, good mechanic, sheep
-      I will refer all my closer to your service.
-      Thank you again for great service
-  - name: "Wendell Ducducan"
-    rating: 1
-    comment: |
-      I asked them to repair my dodge journey, and they just make it worst. The only problem of my car was the lock and unlock button, they're not working. But they destroyed my whole system and dashboard. Now it says hot oil and lots of different engine error. They are not professional they told me to call me back coz they want to repair it further. But they didn't. I don't trust them. I hope you don't get scam as well.
   - name: "Amarjot Chawla"
     rating: 5
     comment: |
       Owner is very nice. I stopped by to get the tire check. They didn't charged me anything. Even though they totally open the tire and put in back.. I would definitely go to this shop again.. Boss is very nice, her way of dealing is very kind.. (Honda Civic, June 2025)
+  - name: "Nasimbanu Saiyed"
+    rating: 1
+    comment: |
+      Worst service. Front desk lady is  so rude and unprofessional. She does not know how to treat customer. Horrible service by mechanics.they did not do proper service or inspections. My car does not fixed at all. When I went to complaint about their service they do not care for customer. Poor service. Never waste ur time on this shop.
 hours:
   monday: "10:00 AM–7:00 PM"
   tuesday: "10:00 AM–7:00 PM"

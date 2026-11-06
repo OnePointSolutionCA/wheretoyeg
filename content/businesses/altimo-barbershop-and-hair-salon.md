@@ -23,7 +23,7 @@ photos:
   - "/photos/altimo-barbershop-and-hair-salon-g1.jpg"
   - "/photos/altimo-barbershop-and-hair-salon-g2.jpg"
 rating: 5.0
-review_count: 29
+review_count: 34
 price_range: "$$"
 amenities:
   - "Family Friendly"
@@ -31,31 +31,26 @@ tags: ["edmonton", "fades"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Diyari Sherwani"
+    rating: 5
+    comment: |
+      I had a great experience with Rami! He was friendly, professional, and took his time to make sure my haircut looked perfect. Excellent service and attention to detail. I highly recommend Rami and Altimo Barbershop!
+  - name: "M&M Manalo"
+    rating: 5
+    comment: |
+      Thanks Sara star and Roy moon. Amazing hair cut for both of my kids
   - name: "Erin Lecavalier"
     rating: 5
-    date: "2026-08-23"
     comment: |
       My husband tried this new place out, best haircut he’s ever had! I appreciated the attention to detail.
       Coincidentally my son (7) got taken here for a haircut today with his grandpa ….. again, excellent work!
       Great Price Too 🙂
-  - name: "Marie Arlow"
+  - name: "Jules Thomas"
     rating: 5
-    date: "2026-07-22"
     comment: |
-      I had my hair cut by Roy today , He did an excellent job . Beautiful salon , friendly atmosphere. I will be back for sure.
-  - name: "Jason Heathcote"
+      I’ve been going to Roy for over a year. I followed him to St. Albert when he opened his own Salon. I always leave feeling fresh and clean. Very professional and clean establishments. Always warm and welcoming environment. I highly recommend! I am here every other week and enjoy my visits.
+  - name: "Manreet Kaur"
     rating: 5
-    date: "2026-08-12"
     comment: |
-      The shop is pristine and very inviting. It’s an amazing atmosphere. Roy is a master at what he does. His attention to detail is meticulous, and he puts a great deal of care into the work he does for his customers. If you’re looking for a a talented barber to freshen you up and maintain your beard, look no further than Roy and his barber shop!
-  - name: "Kash Barua"
-    rating: 5
-    date: "2026-07-30"
-    comment: |
-      Have been getting my haircut from Roy for over a year now, solid job every time
-  - name: "Cindy Bizon"
-    rating: 5
-    date: "2026-07-17"
-    comment: |
-      Roy was great. Took his time and was very detailed. Thank you.
+      I really like the work of roy  it’s outstanding yesterday i went for my haircut and he provided me one of the best services. Everyone should vist that his shop and appreciate him . I will definitely visit next time there for more services. Keep growing roy 😊
 ---
