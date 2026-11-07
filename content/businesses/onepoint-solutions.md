@@ -23,7 +23,7 @@ hours:
   sunday: "Closed"
 photos: []
 rating: 5
-review_count: 31
+review_count: 36
 price_range: "$$"
 amenities:
   - "Free Consultation"
@@ -38,6 +38,23 @@ pinned: true
 active: true
 date_listed: "2026-08-17"
 reviews:
+  - name: "Mary Canaday"
+    rating: 5
+    comment: |
+      I am an author, with 2 books published under the pen name, Lee Sato. This agency has been amazing. Professional, patient and knowledgeable! They have worked with me and explained things every step of the way.
+      Very impressed with this business. If you have any type of marketing, whether online or other- this is you One Point Solution!!
+  - name: "Dennis Miguel Pereira"
+    rating: 5
+    comment: |
+      Excellent service from start to finish! Highly reliable, professional, and always quick to respond. They did a fantastic job creating a user-friendly, professional website and improving its search engine optimization (SEO). This enabled the company to strengthen its online presence and reach more customers. Highly recommended!
+  - name: "Charmaine Lukalanga"
+    rating: 5
+    comment: |
+      As a medical services company, we’ve always relied mostly on word of mouth to get our name out there, so we wanted to explore new ways to reach more people without the hassle of constantly making phone calls. We decided to visit this marketing agency for a consultation, and I’m really glad we did! They took the time to understand our needs, walk us through different options, provide quotes, and explain what kind of results we could realistically expect. I really appreciated how they broke everything down and helped us see the possibilities without making us feel pressured into anything. It gave us a much clearer idea of how we could grow our business and reach more people in today’s digital world. I’d definitely recommend them to any business owner looking for fresh, innovative ways to promote their business and take things to the next level!
+  - name: "Ronnie"
+    rating: 5
+    comment: |
+      One of the best in this business. You're in very good hands here. Highly recommended!
   - name: "Noor Al-Tamimi"
     rating: 5
     comment: |
@@ -52,10 +69,6 @@ reviews:
     rating: 5
     comment: |
       Great company to work with! Moe is professional, responsive, and easy to deal with. Highly recommend!
-  - name: "Moe"
-    rating: 5
-    comment: |
-      Moe did a fantastic job on my site both renewing the look of it and optimizing the SEO for it ! I highly recommend his service
   - name: "Ahmad Rahme"
     rating: 5
     comment: |
