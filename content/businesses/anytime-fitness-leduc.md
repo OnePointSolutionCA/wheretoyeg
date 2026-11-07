@@ -24,26 +24,31 @@ photos:
   - "/photos/anytime-fitness-leduc-g1.jpg"
   - "/photos/anytime-fitness-leduc-g2.jpg"
 rating: 4.4
-review_count: 133
+review_count: 136
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "gyms"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Laura Russell"
+    rating: 5
+    comment: |
+      Anytime Fitness is great! Friendly staff, clean workout area. Great lockers, showers: it's got everything I need. If you're looking for a relatively quiet gym to get your workout in, this is the one for you!
   - name: "Jeremy"
     rating: 5
-    date: "2026-05-13"
     comment: |
       Anytime fitness in leduc is a great place to work out either in low moderation to heavy. Not very busy always open to it's clients and very clean which I like. Overall experience is very pleasant the staff is very nice and lots of options for equipment or free weights. There very quick to resolve problems and issues right away usually within your workout.
+  - name: "Natalie Wilson"
+    rating: 1
+    comment: |
+      I have been a member at this gym for three years and attend three to five times per week. Since the change of ownership and management at the end of 2025 it has gone downhill rapidly - and continues to decline. Bathrooms are incredibly dirty, often with heavily soiled toilet seats, sinks and showers there was a period of three months with no running hot water and equipment is poorly maintained; ripped seats etc. No towels provided anymore, only cleaning cloths - for members to clean equipment with! The only effective cleaning appears to be that which is done by the members themselves I was hoping to see some improvements by now, but, sadly not. A significant decrease in standards yet an increase in fees. Would not recommend at this time. Very disappointing.
   - name: "Cindy O"
     rating: 4
-    date: "2026-03-25"
     comment: |
       So…..I am happy to upgrade my review since my last post. AF Leduc has been working hard to improve the quality of the place. Hot water has been restored and the temperature is much more conducive to working out. It would be nice if the window signage was replaced or even just removed. The new employees are great but really miss J. She always greeted patrons with a big smile and was very approachable.
   - name: "Robert"
     rating: 5
-    date: "2025-12-01"
     comment: |
       Good layout. Some old equipment, but it's all clean and functional.
       
@@ -52,9 +57,4 @@ reviews:
       Good gym, especially compared to other local alternatives.
       
       They get bonus points for providing cloth rags and spray bottles to wipe machines down. This practice lowers environmental impact and lets members actually clean up after themselves. Thank you for providing this, haven't seen this at another AF fitness, it should be the standard.
-  - name: "Royce Hilgartner"
-    rating: 5
-    date: "2025-12-26"
-    comment: |
-      It’s a nice clean gym. They have good equipment. Equipment is serviced. Well it’s clean. I like it there.
 ---

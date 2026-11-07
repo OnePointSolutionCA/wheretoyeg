@@ -24,7 +24,7 @@ photos:
   - "/photos/anbus-photography-g1.jpg"
   - "/photos/anbus-photography-g2.jpg"
 rating: 5.0
-review_count: 237
+review_count: 238
 amenities: []
 tags: ["edmonton", "family"]
 active: true
@@ -32,7 +32,6 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Lokesh shiva"
     rating: 5
-    date: "2026-09-07"
     comment: |
       We recently had our newborn photoshoot with Anbu Photography, and it was truly such a beautiful experience. ❤️
       
@@ -45,24 +44,31 @@ reviews:
       The pricing may feel a little on the higher side, but honestly, it is worth it for the time, effort, creativity, and care they put into making these memories special. These are moments we can never get back, and we are so glad we trusted Anbu Photography to capture them for us.
       
       Thank you, Kanchu & Anbu, for giving us memories that we will cherish forever. ❤️📸👶🏻
-  - name: "Nilofar Khan"
+  - name: "Gurpreet Kaur"
     rating: 5
-    date: "2026-05-27"
     comment: |
-      We had such an amazing experience with Anbusphotography for our newborn and family photoshoot! From start to finish, the husband and wife were so patient, kind, and professional - especially with our newborn and toddler. They captured beautiful moments and the photos turned out absolutely stunning.
-  - name: "Nav Kaur"
+      We had the most amazing experience with Anbu and kacnchana ❤️. They were incredible gentle, welcoming and sweet. The studio was also beautiful, cozy and incredible clean. They made our baby feel so comfortable and handled her with so much care, patience and love. You can truly see how passionate they are about what they are do, and it made the whole experience so special for us as parents. We absolutely loved the beautiful photos.
+      Highly highly recommended❤️❤️
+  - name: "Kaur Maninder"
     rating: 5
-    date: "2026-03-28"
     comment: |
-      We had a wonderful newborn photoshoot experience. Great price, quality work, excellent service, and such a patient duo to work with. They handled our baby with so much care and made the entire session calm and comfortable for us. They have several cute setups and plan well ahead of your visit for a perfect session. The photos turned out beautiful and they captured such precious moments. Truly grateful and highly recommended!
-  - name: "Shiva p"
+      We had a wonderful experience with our newborn photoshoot! Anbu and Kanch were so patient, gentle, and professional with our baby, and made us feel completely comfortable throughout the session. The photos turned out absolutely beautiful and captured such precious memories for our family. We are so happy with the results and would highly recommend them for newborn photography! ❤️📸
+  - name: "Holly Brady"
     rating: 5
-    date: "2026-05-20"
     comment: |
-      I really enjoyed my newborn photo session with Anbu and Kanch. They are so passionate about photography specifically for newborn which requires a lot of energy and patience. If new parents want to book newborn sessions I would highly recommend this studio, I really like the interior and cleanliness which we have concerned for newborn…. They are awesome and worth trying…😊😊
-  - name: "DAMANJEET KAUR"
+      Right from the initial consultation for our professional branding session, Kanch took in the information and essence of my business and who we are. Anbu and Kanch spent valuable time with us to ensure they captured our personalities and close working relationship. They brought warmth and guidance throughout the session, and I felt so confident in their ability to fulfill our specific vision.
+      Look no further for a unique photography session experience.  You won't be disappointed in the memories and/or branding photos they can capture for you.
+  - name: "Jeff Nicholls"
     rating: 5
-    date: "2026-05-06"
     comment: |
-      Had an amazing experience with the maternity shoot! The team made me feel so comfortable and captured such beautiful, natural moments. Truly loved the final pictures and would highly recommend them to every one
+      September 21, 2026
+      Kanchana Subramanian
+      Anbus Photography
+      Dear Kanch,
+      I am writing this testimonial to express how much I appreciated working with you.
+      Your studio was very welcoming, and I thoroughly enjoyed our discussion. The photographs turned out beautifully, and the guidance you provided throughout the session helped me feel comfortable and confident in front of the camera. Your ability to direct me into the right poses made the entire experience enjoyable and stress-free.
+      Thank you for your professionalism, patience, and talent. I am extremely pleased with the results and would not hesitate to recommend you to others.
+      Sincerely,
+      Jeff Nicholls
+      ProPc
 ---

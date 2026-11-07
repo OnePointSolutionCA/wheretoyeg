@@ -23,8 +23,8 @@ photos:
   - "/photos/angel-keepers-daycare-g1.jpg"
   - "/photos/angel-keepers-daycare-g2.jpg"
   - "/photos/angel-keepers-daycare-g3.jpg"
-rating: 0
-review_count: 0
+rating: 3.9
+review_count: 53
 amenities:
   - "Ages 6 Months to 12 Years"
   - "Halal Friendly Meals"
@@ -35,4 +35,28 @@ amenities:
 tags: ["daycare", "infant-care", "toddler", "preschool", "out-of-school-care", "halal", "nut-free"]
 active: true
 date_listed: "2026-10-25"
+reviews:
+  - name: "sandrine mbiandoun"
+    rating: 5
+    comment: |
+      I am really happy my 3 kids are attending Angel Keepers Daycare and OSC. Such a good place from the owner Meenakshi, the director Joanne and all the teachers they are so caring and amazing in taking care of the children.  Thank you Angel Keepers. Keep up the good work!!!
+  - name: "LMP"
+    rating: 5
+    comment: |
+      My child attends this daycare and enjoys it. The new management has made a noticeable difference, and the caring staff make us feel comfortable and confident every day. The environment is welcoming, well organized, and focused on children’s well-being. Communication with families has also improved, which we really appreciate and like it.
+  - name: "Munira Omer"
+    rating: 5
+    comment: |
+      Exceptional care! My granddaughter attends this childcare and it has been such a positive experience for our family. The staff are incredible, extremely attentive and enthusiastic. My granddaughter absolutely loves it there she is so excited to go everyday and always comes home happy. Thank you so much!
+  - name: "Deven Sahay"
+    rating: 5
+    comment: |
+      We couldn’t be happier with our experience at Angel Keepers Daycare.The teachers are patient, kind, and incredibly attentive to each child’s needs. The environment is warm, clean, and filled with fun learning activities every day.
+      Our child has developed strong social skills, learned so much, and always comes home with a smile. The communication from the staff is excellent — they keep us updated daily with pictures and progress reports.
+      We’re so thankful to have found such a safe and loving place for our little one. Highly recommend this daycare to any parent looking for quality care and peace of mind!
+  - name: "supreet kaur"
+    rating: 5
+    comment: |
+      My kids go to Angel keepers Daycare for last 4 months and our experience is exceptional. The teachers are very kind, patient and caring. I feel safe and content that my kids got such good teachers. The environment is warm, welcoming.
+      The management has changed and the new owner, director they are really good, are on top of all the things, communicating with parents, updates on kids activities etc. Our children loves to go there. I would highly recommend this daycare to any parent looking for good care of their children.
 ---

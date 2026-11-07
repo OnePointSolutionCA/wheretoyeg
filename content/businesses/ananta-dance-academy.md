@@ -24,7 +24,7 @@ photos:
   - "/photos/ananta-dance-academy-g1.jpg"
   - "/photos/ananta-dance-academy-g2.jpg"
 rating: 5.0
-review_count: 127
+review_count: 130
 amenities:
   - "Family Friendly"
 tags: ["edmonton", "dance"]
@@ -33,18 +33,15 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Parthiv Patel"
     rating: 5
-    date: "2026-07-03"
     comment: |
       I had a great experience at Ananta Dance! Bhoomi taught us a dance choreography with so much patience, energy, and enthusiasm. She explained each step clearly and made the choreography easy to learn while keeping the classes fun and engaging. Her encouragement and positive attitude created a welcoming environment where everyone felt comfortable improving their dancing. I really enjoyed learning from her and would highly recommend Ananta Dance to anyone looking for quality dance instruction.
   - name: "Dhvanay Solanki"
     rating: 5
-    date: "2026-07-03"
     comment: |
       I've absolutely loved learning at Ananta Dance Academy with Bhoomi. What I appreciate most is how she teaches—she has a way of breaking things down that just clicks, especially if you're new to dancing. Every class feels encouraging and genuinely fun, which makes you want to keep coming back.
       Her mastery really shows in how adaptable and creative she is. If a move or transition doesn't feel right, she'll change the choreography on the spot without missing a beat. She's always thinking about what will make the routine feel more natural, fun, and enjoyable for her students rather than sticking rigidly to a plan. I genuinely look forward to every practice and even find myself wanting to rehearse at home because of the atmosphere around dance she creates. Couldn't recommend Bhoomi Didi and Ananta Dance Academy more.
   - name: "Liezl Scott"
     rating: 5
-    date: "2026-03-02"
     comment: |
       We had such an amazing time at Ananta Dance Academy! 💃✨
       
@@ -55,12 +52,10 @@ reviews:
       Highly recommend Ananta Dance Academy if you’re looking for a fun, energizing, and joyful Zumba experience. We can’t wait to come back! 💛
   - name: "Prince Patel"
     rating: 5
-    date: "2026-07-03"
     comment: |
       I had a great experience at Ananta Dance Academy!  My instructor, Bhoomi, was especially amazing, she was patient, knowledgeable, and explained everything clearly, making it easy to learn and improve. She created a positive and encouraging environment that made every class enjoyable. I highly recommend Ananta Dance Academy to anyone looking to learn dance!
   - name: "Rudra Patel"
     rating: 5
-    date: "2026-07-03"
     comment: |
       Have never danced in my life. Has a great experience with Bhoomi. She was welcoming to all experience level and found her instructions to be very helpful and easy to pick up on.
 ---

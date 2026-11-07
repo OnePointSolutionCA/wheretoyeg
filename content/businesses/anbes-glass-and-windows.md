@@ -23,38 +23,33 @@ hours:
 photos:
   - "/photos/anbes-glass-and-windows-g2.jpg"
 rating: 5.0
-review_count: 217
+review_count: 228
 amenities: []
 tags: ["edmonton", "windshield"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Linda Knowles"
+  - name: "Ted Trading"
     rating: 5
-    date: "2026-03-06"
     comment: |
-      This company was excellent. Fast service and extremely professional. Took time to explain and listened to my needs. Definitely recommend them.
+      Excellent service fast and reliable. Fair price in the market. I will would Highly recommend Anbes Glass and windows. Thank you
+  - name: "Information VIVOS"
+    rating: 5
+    comment: |
+      Great service, clean and competitive price. I recommend! Thank you Anbes and Hagos for the great service! All the best!
   - name: "Habte Dawit"
     rating: 5
-    date: "2026-08-01"
     comment: |
       This company is very professional and fast to come see the problem.
       What i love about them is they are on time if and urgent request they come and do the job, as soon as possible.
       
       I really recommend them for any replacement glasses, windows or anything similar.
-  - name: "Roy"
-    rating: 5
-    date: "2026-03-17"
-    comment: |
-      Thank you for quick service and good price
   - name: "Dylan Leinweber"
     rating: 4
-    date: "2026-02-22"
     comment: |
       My middle window cracked due to the cold weather and they were able to come out and get the job done in 2 days. I appreciated their timely service.
-  - name: "Far M."
+  - name: "Linda Knowles"
     rating: 5
-    date: "2026-08-19"
     comment: |
-      The company was super responsive and was able to help us replace our glass within 24 hours. I appreciate their professionalism and they offered a great price. Thank you.
+      This company was excellent. Fast service and extremely professional. Took time to explain and listened to my needs. Definitely recommend them.
 ---

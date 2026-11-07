@@ -24,46 +24,33 @@ photos:
   - "/photos/andrew-f-cao-kbl-law-llp-g1.jpg"
   - "/photos/andrew-f-cao-kbl-law-llp-g2.jpg"
 rating: 5.0
-review_count: 648
+review_count: 652
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "legal"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Lindsay Meads"
+  - name: "Joanne M."
     rating: 5
-    date: "2026-02-06"
     comment: |
-      We had an excellent experience working with Andrew. As first-time home buyers, we were a bit apprehensive about the process, but Andrew was extremely thorough, knowledgeable, and always quick to respond.
-      
-      Andrew took the time to explain everything clearly, advocated for us when issues came up, and made the entire process feel seamless and far less stressful than we expected. We always felt informed and confident that our best interests were being looked after.
-      
-      If you’re looking for a real estate lawyer who is professional, responsive, and reliable, we wouldn’t hesitate to recommend Andrew.
-  - name: "Sam H"
+      We had an excellent experience with Andrew Cao during our first home purchase! He was friendly, knowledgeable, and always quick to respond to our questions. Buying a home can be stressful, but Andrew made the process feel smooth and straightforward. We really appreciated his help and would highly recommend him to anyone looking for a reliable and personable real estate lawyer. We’ll definitely be using Andrew and his services again in the future!
+  - name: "Dylan R"
     rating: 5
-    date: "2026-05-09"
     comment: |
-      I'm so glad I chose to work with Andrew for my recent home purchase. He responds to questions and emails very quickly and was very accommodating when I needed to schedule a last minute appointment. He also gave me a very reasonable rate.
-      
-      I was in a stressful situation in the days leading up to my possession date, but once everything was sent over to Andrew's office, he ensured it was processed quickly and there was no delay to getting my keys. He was one of the few professionals I've dealt with during this process that I could count on to get things done efficiently. Highly recommend and I would gladly choose Andrew as my lawyer again in the future!
-  - name: "Shannin"
-    rating: 5
-    date: "2026-02-28"
-    comment: |
-      Andrew was hands down the best decision we made during the sale of our home while moving from BC to Alberta. From the very first conversation, we knew he genuinely had our back.
-      
-      He was incredibly straightforward, transparent, and proactive. He explained everything clearly and made sure we understood our options. What truly sets Andrew apart is his dedication. He responded to messages immediately, even answering a text on a Saturday night during an Edmonton Oilers game! That kind of commitment is rare.
-      
-      At every step, we felt protected, informed, and confident because Andrew was in our corner. If you want a lawyer who truly cares, communicates exceptionally well, and will fight to protect your best interests, Andrew is the one you want representing you.
+      I had a great experience working with Andrew on the sale of my first home. He was incredibly quick to respond whenever I had questions and kept me in the loop at every step. He anticipated issues with my banking situation before they came up, and when problems arose with the HOA, he flagged them and helped us find a solution. I'd happily work with him again and highly recommend him.
   - name: "Aurora Thorn"
     rating: 5
-    date: "2026-08-05"
     comment: |
       Andrew was awesome throughout my entire home buying process. He explained everything super clearly and concisely when we had questions. Thank you so much for your help.
   - name: "Nicholas O'Connell Sutherland"
     rating: 5
-    date: "2026-06-05"
     comment: |
       I couldn't be happier with the service I received. Andrew was responsive, thorough, and always kept us informed throughout the process. Even when the banks were causing delays and complications, he stayed on top of everything and made a stressful situation feel manageable. I highly recommend Andrew to anyone looking for a real estate attorney.
+  - name: "Sam H"
+    rating: 5
+    comment: |
+      I'm so glad I chose to work with Andrew for my recent home purchase. He responds to questions and emails very quickly and was very accommodating when I needed to schedule a last minute appointment. He also gave me a very reasonable rate.
+      
+      I was in a stressful situation in the days leading up to my possession date, but once everything was sent over to Andrew's office, he ensured it was processed quickly and there was no delay to getting my keys. He was one of the few professionals I've dealt with during this process that I could count on to get things done efficiently. Highly recommend and I would gladly choose Andrew as my lawyer again in the future!
 ---

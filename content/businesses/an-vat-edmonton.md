@@ -24,7 +24,7 @@ photos:
   - "/photos/an-vat-edmonton-g1.jpg"
   - "/photos/an-vat-edmonton-g2.jpg"
 rating: 4.5
-review_count: 170
+review_count: 178
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -35,40 +35,29 @@ tags: ["edmonton", "pastries"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Terry Nguyen"
+    rating: 5
+    comment: |
+      A nostalgic snacking haven in Edmonton that instantly transports you back to childhood days in Vietnam! Walking into this charming little spot feels like finding a treasure trove of beloved Vietnamese street foods and traditional treats (ăn vặt) that are usually so hard to come across abroad.
+      Their snack lineup is impressively diverse and fun to explore, but the undisputed standout is their bánh bò. It is executed to perfection—light, springy, and delightfully spongy with that signature honeycomb texture (rễ tre) inside. The subtle sweetness and gentle coconut aroma hit just the right nostalgic chord without feeling overly cloying. Whether you are craving savory street-style bites or satisfying a traditional sweet tooth, it’s a wonderful, heartwarming comfort stop that brings back fond memories with every bite. An absolute must-visit for anyone craving authentic Vietnamese street eats!
   - name: "Dennis G"
     rating: 4
-    date: "2026-08-09"
     comment: |
       I'm a big fan of banh mi. First time trying this place and I ordered the deluxe banh mi. It was excellent. Lots of fillings, the pate was very good and the baguette fresh. It is a bit pricier than the banh mi shops in Chinatown but it comes across as a more premium offering. Plus it has better parking and it does not have the social challenges of the Chinatown core. I will definitely return to try the other sandwich choices. The only downside today was that they were a bit slow in preparing the sandwich. It took about 20 after ordering for my order to be ready and the store was not busy.
-  - name: "Hai Nhi Nguyen"
+  - name: "JustAngel"
     rating: 5
-    date: "2026-04-20"
     comment: |
-      I’m from Calgary, and every time I visit Edmonton, I have to stop by Ăn Vặt Edmonton 🥹💖
+      We got the salted egg roll cake, beef offal stew, and Vietnamese iced coffee with condensed milk. My husband especially loved the food and said the flavors tasted very authentic. The salted egg roll cake was one of our favorites—it wasn’t overly sweet, just the right balance, so I’d definitely recommend it to anyone who enjoys desserts but doesn’t like them too sweet.
       
-      Their durian Thai dessert (chè Thái sầu riêng) is sooo fragrant and вкус—it literally tastes just like Vietnam, super rich and creamy. I’m obsessed 😭
+      The Vietnamese iced coffee was also REALLY good! ☕️ Even after a couple of hours when the ice had melted, it still had a strong coffee flavor and didn’t taste watered down. It was thick and flavourful.
       
-      And omg…the mini baguettes and salted egg sponge cakes??? 100/10, no debate. SO GOOD.
-      
-      The owner is also the sweetest ever—he gave my boyfriend and me two mini salted egg sponge cakes just because we came from Calgary 🥺 That honestly made my day.
-      
-      I just love the vibe here, everyone is so warm and friendly. This is officially my favorite spot whenever I’m craving Vietnamese snacks in Edmonton 💕
-      
-      Definitely recommending this place to all my friends, and I’ll 100% keep coming back!!! ✨
-  - name: "Maggie Huang"
+      Definitely recommend this place if you’re looking for authentic Vietnamese desserts and drinks! We’ll definitely come back to try more. 🇻🇳✨
+  - name: "DJ"
     rating: 5
-    date: "2025-06-28"
     comment: |
-      First time visiting this little store and we were so impressed! We ordered the salted egg cupcake and the salted egg meatball sandwiches. The sandwiches are honestly the best in Edmonton — fresh, flavorful, and perfectly balanced. Haven’t tried the cupcake yet, but it looks amazing. The staff were super friendly and helpful, offering us lots of great options. We love this place and will definitely be back!
-  - name: "Lyben Lam Usher"
-    rating: 4
-    date: "2026-07-02"
+      Cute place on Calgary trail. Ordered the char siu and lemon grass chicken bahnmi - both were fresh and delicious. Reasonably priced given the location. Will definitely order again.
+  - name: "Sophia"
+    rating: 5
     comment: |
-      Been searching for authentic banh mi and this place did not disappoint. The salted coffee, cold cut banh mi, and egg yolk croissant were all on point with the right amount of sweet and savory intertwined. Will be back to try other options.  Would like to see it have a little more seating and cafe style to do work but the vibe is take-out. Anyway, great place to grab a bite .
-  - name: "TN Vu"
-    rating: 4
-    date: "2026-03-03"
-    comment: |
-      There on a Saturday afternoon. The Deluxe Vietnamese Sub and Pandan Layer Cake was Tasty!
-      W/C review: 5/5 * cute sign 🤣*
+      We tried the salted egg cupcakes, salted egg yolk croissants, iced condensed milk coffee, and the salted egg meatball banh mi! My favourite was the cupcakes! But pretty pleased with everything! Freshly made for sure
 ---

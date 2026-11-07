@@ -19,8 +19,8 @@ hours:
   saturday: "11:00 AM–9:00 PM"
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/another-world-vr-rc-gaming-1.jpg", "/photos/another-world-vr-rc-gaming-2.jpg", "/photos/another-world-vr-rc-gaming-3.jpg"]
-rating: 5
-review_count: 58
+rating: 4.9
+review_count: 80
 price_range: "$$"
 amenities:
 
@@ -36,6 +36,14 @@ reviews:
       The games were super immersive, exciting and so much fun. It genuinely felt like stepping into another world! The setup was great, the experience was smooth, and there were plenty of options to enjoy with friends or family.
       
       Definitely a fun place to visit if you’re looking for something different, interactive and full of adventure. We had a great time and would absolutely love to come back! ⭐️⭐️⭐️⭐️⭐️
+  - name: "Simran Simmy"
+    rating: 5
+    comment: |
+      Had an amazing experience at Another World VR! The staff were super friendly and helpful, and the whole experience was so much fun. The VR games were immersive, exciting, and made you feel like you were actually in another world. Everything was well organized, and it was definitely worth the visit. I would highly recommend it to anyone looking for something fun and different to do. Can’t wait to come back!
+  - name: "Kempes Pandey"
+    rating: 5
+    comment: |
+      Had an absolute blast being here phenomenal time! We played a VR shooting game and all my friends had a super fun time!
   - name: "Mary"
     rating: 5
     comment: |
@@ -47,16 +55,4 @@ reviews:
       Such an awesome VR experience! We had an absolute blast from start to finish. The games were so much fun, the technology was really impressive, and it was such a unique experience compared to anything we’ve done before. The staff were friendly, helpful, and made everything easy and enjoyable.
       
       Definitely a great place to go with friends or family. We’ll absolutely be back and would highly recommend giving it a try!
-  - name: "Genevieve Tejada"
-    rating: 5
-    comment: |
-      We had such an amazing time at Another World VR! From the moment we arrived, the staff were welcoming, friendly, and took the time to explain everything clearly. The VR experience itself was incredible—immersive, exciting, and unlike anything we had done before.
-      
-      The equipment was clean, easy to use, and the games were so much fun. Whether you're new to VR or have tried it before, there's something for everyone. Time flew by because we were having such a great time!
-      
-      If you're looking for a unique date night, family outing, or activity with friends, I highly recommend Another World VR. We'll definitely be back!
-  - name: "Acacia Ngoy"
-    rating: 5
-    comment: |
-      Came here for a little fun and absolutely had that fun, it’s seem so real!! Rutvik was our host and was really helpful and very nice !! We will definitely be back !
 ---

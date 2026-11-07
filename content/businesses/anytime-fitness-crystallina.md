@@ -23,8 +23,8 @@ hours:
 photos:
   - "/photos/anytime-fitness-crystallina-g1.jpg"
   - "/photos/anytime-fitness-crystallina-g2.jpg"
-rating: 4.8
-review_count: 37
+rating: 4.7
+review_count: 42
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "gyms"]
@@ -33,29 +33,22 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Just Jacked"
     rating: 5
-    date: "2026-04-25"
     comment: |
       Finally the gym opened up. Its a brand new location and its a  decent size. This will definitely be my new go to location. Time to put in the work.
-  - name: "Raghad Sate"
+  - name: "Glacie"
     rating: 5
-    date: "2026-06-12"
-    comment: |
-      Great gym with a clean, spacious facility and excellent equipment. The staff are always friendly, welcoming, and helpful, making every visit enjoyable. You can tell they genuinely care about their members. Highly recommend this location! 💪😊
-  - name: "Harvey Pearson"
-    rating: 5
-    date: "2026-06-02"
     comment: |
       I found this fitness facility to be a great place to get in a workout. The equipment was well-maintained and there was a good variety available. I appreciated the clean and inviting atmosphere. The staff were friendly and helpful, contributing to a positive experience. Overall, it's a commendable option for your fitness needs.
-  - name: "Kisha Ferreira"
+  - name: "Tommi Chen"
     rating: 5
-    date: "2026-08-14"
     comment: |
-      I recently visited this gym for their 1-day free trail and was really impressed. The staff were friendly and knowledgeable, answering all my questions about the equipment with patience - perfect for a first-timer like me.
-      The facility itself was clean, tidy, and very spacious, with well-maintained equipment and rooms. I felt comfortable and welcome throughout my visit.
-      I’ll definitely be joining in the near future and highly recommend this gym to anyone looking for a great fitness experience.
-  - name: "Pawanpreet Singh Gill"
+      Staff did eventually listen to the member’s request and put tint onto the window. Good and clean equipment
+  - name: "Sam H"
     rating: 5
-    date: "2026-04-24"
     comment: |
-      Clean facilities, well-maintained equipment, and never feels too overcrowded. The staff are friendly and actually know what they’re doing. Good variety of machines and free weights, plus the locker rooms are always tidy. Worth every penny of the membership. Highly recommend!
+      Great gym.  The place is always clean and tidy. Its layout works really well for everything I want to do there, including areas for functional strength training. There are private showers, which is a nice plus. With the app, you can always see how busy it will be so I can plan my workout time to be as effective as possible. The staff are wonderful.
+  - name: "Glacier P"
+    rating: 5
+    comment: |
+      Loved the Gym, excellent place close to my house, also the facility is maintained very well. All needed equipment, also app works best if you don't know some type they keep updating.
 ---

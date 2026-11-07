@@ -24,28 +24,35 @@ photos:
   - "/photos/anytime-fitness-g1.jpg"
   - "/photos/anytime-fitness-g2.jpg"
 rating: 4.3
-review_count: 361
+review_count: 365
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "gyms"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Stephanie Ladouceur"
+    rating: 2
+    comment: |
+      I’ve been a member of anytime fitness for a few years now and use multiple locations. However as of late, I tend to not use the roper location due to the lack of cleanliness. I don’t know if they changed their staffed hours recently but if you go on a weekend or holiday the place is filthy. The bathrooms are dirty to the point that I won’t use them and when I went today (thanksgiving monday) there weren’t any clean towels and the hampers were overflowing with dirty ones. I don’t have an issue with the equipment or staff but I don’t feel comfortable using a gym with such a low standard of cleanliness.
+  - name: "Ally C"
+    rating: 1
+    comment: |
+      I've called a couple times now, left a voice mail and spoke with someone directly, maybe they'll see this review and actually fix the problem. The leg press is going to fall apart while someone is using it. The handles are loose and I hand tighten them every time I use it. This has been ongoing for months. For my own safety im considering brining in the Allen key required and some thread lock. Also, tighten the Handel for the washroom! The round table in the seating area is also loose, they fixed it by pushing it against the wall. My god, why do gym owners let their gyms fall apart. Its basic hand tools!
+  - name: "Dustin Perreault"
+    rating: 1
+    comment: |
+      Well if I could I would give zero stars. Came here to see about signing up see the offers and what this faculty had to offer. Heard a decent thing about this gym. So far not a good impression. The facility said it was staffed until 4 pm we came at 3 pm and no one in sight. Spoke to a couple of clients of this gym and they said every time they come here there is no staff. Might have to look elsewhere. We will see how long it takes them to answer.
   - name: "Matthew White"
     rating: 5
-    date: "2026-06-18"
     comment: |
       I would give the gym itself a lower rating as something is always in a state of disrepair, or there is clutter, and things have gotten cramped lately.
       
       I'm giving it a five because the staff have always been great. The trainers (especially Cherie) are extremely friendly, and really make the gym experience a worthwhile one.
-  - name: "Sonny Burton"
-    rating: 5
-    date: "2025-12-08"
+  - name: "Sarah Lessard"
+    rating: 1
     comment: |
-      Best gym ever!! I've been all over the city (and in Sherwood Park) and this place has the best staff. Zoe is ALWAYS so helpful and saying good afternoon any time I come in! Cherie, Bobby, Dre, and the new lady Lilly are always so cheerful and willingly to help out! It makes me feel welcome here! Also it's the only gym I've seen so far that has "Vacent/In-Use" handles so people can stop yanking on the doors to see if they're free.
-  - name: "Mikka Spence"
-    rating: 5
-    date: "2025-12-16"
-    comment: |
-      This gym is so awesome! The young girl at the front counter, Tawni, was always cleaning and was super welcoming and friendly! She went above and beyond to show me where one of the machines I wanted to use was. Overall super great experience and Tawni was a very kind young woman! Can't wait to continue coming here!
+      Worst, no one ever answers the phone, or gets back.
+      I tried to cancel my membership due to moving out to the country and there is so anytime fitness around. I filled out the cancelation form Sept 27 and have heard nothing and still getting charged......
+      Do your job!
 ---

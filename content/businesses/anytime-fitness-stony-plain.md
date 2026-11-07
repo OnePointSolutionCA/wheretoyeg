@@ -33,7 +33,6 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Donald Goertz"
     rating: 5
-    date: "2023-01-11"
     comment: |
       This gym is clean with well maintained equipment, friendly staff & courteously members. The gym is open 24 hours a day which is great for me.
       
@@ -44,17 +43,14 @@ reviews:
       I recommend this Gym.
   - name: "Jackson Le"
     rating: 5
-    date: "2018-11-08"
     comment: |
       Relatively small Fitness Center but it has everything you need to do weight training. It is a 24-hour facility. The drop-in fee is $10 but you can do $20 per week if you're here longer than 2 days. The staff are friendly. It is relatively not that busy but there are some people do drop by for their work out. I was staying on the Best Western Hotel so it was a 3-minute walk from here.
   - name: "Jay Love"
     rating: 5
-    date: "2022-11-15"
     comment: |
       My favourite gym, open 24 hours, private bathrooms/showers. All the equipment you need plus flex/CrossFit rooms. Ps. the Manager Alexandra is a treat to be around !!
   - name: "D B"
     rating: 5
-    date: "2025-06-09"
     comment: |
       This is a very well maintained and clean gym, with incredibly friendly staff and Management.
       
@@ -67,7 +63,6 @@ reviews:
       Overall, I am really impressed with everything this place has to offer, and the 24 hr. availability makes it really easy to workout as well.
   - name: "Carlos Hinkson"
     rating: 5
-    date: "2024-02-09"
     comment: |
       So well laid out. Super friendly. Constantly being cleaned.  You get the feeling that there's a fitness community happening here.  Heavy dumbell heaven.
       This is one that I always remember, but can never remember where it is.
