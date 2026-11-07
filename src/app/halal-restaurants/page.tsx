@@ -12,7 +12,7 @@ import { ListingIndex } from "@/components/ListingIndex";
 import { breadcrumbSchema, itemListSchema, JsonLd } from "@/lib/schema-extra";
 import { byRank, hubCount, hubHref } from "@/lib/areas";
 import { fitTitle, listJoin, metaDescription, nf, pageMeta } from "@/lib/seo";
-import { toCard } from "@/lib/slim";
+import { toCard, toListItem } from "@/lib/slim";
 import { SITE } from "@/lib/site";
 import { displayDayHours } from "@/lib/openNow";
 
@@ -203,7 +203,7 @@ export default function HalalRestaurantsPage() {
 
       <section className="container-page py-10" data-reveal="right">
         <FilterableList
-          businesses={list.map(toCard)}
+          items={list.map(toListItem)}
           categoryName="Restaurants"
           neighborhoods={Array.from(new Set(list.map((b) => b.neighborhood))).filter(Boolean).sort()}
           amenities={amenities}

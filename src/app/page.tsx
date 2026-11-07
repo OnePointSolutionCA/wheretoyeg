@@ -462,7 +462,7 @@ export default function HomePage() {
                 <p className="text-xs font-bold uppercase tracking-[0.2em] text-coral">Who built this?</p>
                 <span className="text-xs font-bold text-coral">★ 5.0 <span className="font-normal text-teal-500">(26 reviews)</span></span>
               </div>
-              <img src="/logos/onepoint-horizontal.png" alt="OnePoint Solutions Marketing Agency" className="mt-5 w-48" />
+              <img src="/logos/onepoint-horizontal-sm.webp" alt="OnePoint Solutions Marketing Agency" width={786} height={120} loading="lazy" decoding="async" className="mt-5 w-48" />
               <p className="mt-4 text-sm leading-relaxed text-teal-500">
                 WhereToYEG is powered by OnePoint Solutions, an Edmonton-based marketing agency. Websites with SEO and AEO built in, social media management, and ongoing SEO across Canada. Portable billboard signage in Edmonton and surrounding areas.
               </p>

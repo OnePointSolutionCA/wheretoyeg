@@ -16,11 +16,13 @@ const inter = Inter({
   display: "swap",
 });
 
+// Accent serif, only used in a few homepage spots below the hero, so it is not preloaded on every page.
 const fraunces = Fraunces({
   subsets: ["latin"],
   style: ["normal", "italic"],
   variable: "--font-editorial",
   display: "swap",
+  preload: false,
 });
 
 const OG = "/og.png";
@@ -73,8 +75,8 @@ export const metadata: Metadata = {
     images: [OG],
   },
   icons: {
-    icon: "/logo-mark.png",
-    apple: "/logo-mark.png",
+    icon: "/logo-mark-192.png",
+    apple: "/logo-mark-192.png",
   },
   formatDetection: { telephone: true, address: true, email: true },
   verification: {

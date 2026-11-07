@@ -1,0 +1,369 @@
+{
+ "/photos/_hero/activities-fun": {
+  "width": 2000,
+  "height": 1000,
+  "w": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "m": [
+   780,
+   1040,
+   1300
+  ],
+  "dir": "/photos/_hero/opt/activities-fun"
+ },
+ "/photos/_hero/auto-repair": {
+  "width": 2000,
+  "height": 1000,
+  "w": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "m": [
+   780,
+   1040,
+   1300
+  ],
+  "dir": "/photos/_hero/opt/auto-repair"
+ },
+ "/photos/_hero/bakeries": {
+  "width": 2000,
+  "height": 1000,
+  "w": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "m": [
+   780,
+   1040,
+   1300
+  ],
+  "dir": "/photos/_hero/opt/bakeries"
+ },
+ "/photos/_hero/barbers": {
+  "width": 2000,
+  "height": 1000,
+  "w": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "m": [
+   780,
+   1040,
+   1300
+  ],
+  "dir": "/photos/_hero/opt/barbers"
+ },
+ "/photos/_hero/cafes-coffee-shops": {
+  "width": 2000,
+  "height": 1000,
+  "w": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "m": [
+   780,
+   1040,
+   1300
+  ],
+  "dir": "/photos/_hero/opt/cafes-coffee-shops"
+ },
+ "/photos/_hero/catering": {
+  "width": 2000,
+  "height": 1000,
+  "w": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "m": [
+   780,
+   1040,
+   1300
+  ],
+  "dir": "/photos/_hero/opt/catering"
+ },
+ "/photos/_hero/childcare": {
+  "width": 1280,
+  "height": 853,
+  "w": [
+   480,
+   800,
+   1200,
+   1280
+  ],
+  "m": [
+   780,
+   1040,
+   1109
+  ],
+  "dir": "/photos/_hero/opt/childcare"
+ },
+ "/photos/_hero/cleaning-services": {
+  "width": 2000,
+  "height": 1000,
+  "w": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "m": [
+   780,
+   1040,
+   1300
+  ],
+  "dir": "/photos/_hero/opt/cleaning-services"
+ },
+ "/photos/_hero/electricians": {
+  "width": 2000,
+  "height": 1000,
+  "w": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "m": [
+   780,
+   1040,
+   1300
+  ],
+  "dir": "/photos/_hero/opt/electricians"
+ },
+ "/photos/_hero/grocery-markets": {
+  "width": 2000,
+  "height": 1000,
+  "w": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "m": [
+   780,
+   1040,
+   1300
+  ],
+  "dir": "/photos/_hero/opt/grocery-markets"
+ },
+ "/photos/_hero/gyms-fitness": {
+  "width": 2000,
+  "height": 1000,
+  "w": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "m": [
+   780,
+   1040,
+   1300
+  ],
+  "dir": "/photos/_hero/opt/gyms-fitness"
+ },
+ "/photos/_hero/hair-salons": {
+  "width": 2000,
+  "height": 1000,
+  "w": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "m": [
+   780,
+   1040,
+   1300
+  ],
+  "dir": "/photos/_hero/opt/hair-salons"
+ },
+ "/photos/_hero/henna-artists": {
+  "width": 1280,
+  "height": 720,
+  "w": [
+   480,
+   800,
+   1200,
+   1280
+  ],
+  "m": [
+   780,
+   936
+  ],
+  "dir": "/photos/_hero/opt/henna-artists"
+ },
+ "/photos/_hero/lash-techs": {
+  "width": 2000,
+  "height": 1000,
+  "w": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "m": [
+   780,
+   1040,
+   1300
+  ],
+  "dir": "/photos/_hero/opt/lash-techs"
+ },
+ "/photos/_hero/medical": {
+  "width": 2000,
+  "height": 1000,
+  "w": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "m": [
+   780,
+   1040,
+   1300
+  ],
+  "dir": "/photos/_hero/opt/medical"
+ },
+ "/photos/_hero/nail-salons": {
+  "width": 2000,
+  "height": 1000,
+  "w": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "m": [
+   780,
+   1040,
+   1300
+  ],
+  "dir": "/photos/_hero/opt/nail-salons"
+ },
+ "/photos/_hero/photographers": {
+  "width": 2000,
+  "height": 1000,
+  "w": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "m": [
+   780,
+   1040,
+   1300
+  ],
+  "dir": "/photos/_hero/opt/photographers"
+ },
+ "/photos/_hero/plumbers": {
+  "width": 2000,
+  "height": 1000,
+  "w": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "m": [
+   780,
+   1040,
+   1300
+  ],
+  "dir": "/photos/_hero/opt/plumbers"
+ },
+ "/photos/_hero/professional-services": {
+  "width": 2000,
+  "height": 1000,
+  "w": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "m": [
+   780,
+   1040,
+   1300
+  ],
+  "dir": "/photos/_hero/opt/professional-services"
+ },
+ "/photos/_hero/restaurants": {
+  "width": 2000,
+  "height": 1000,
+  "w": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "m": [
+   780,
+   1040,
+   1300
+  ],
+  "dir": "/photos/_hero/opt/restaurants"
+ },
+ "/photos/_hero/spas-esthetics": {
+  "width": 1200,
+  "height": 789,
+  "w": [
+   480,
+   800,
+   1200
+  ],
+  "m": [
+   780,
+   1026
+  ],
+  "dir": "/photos/_hero/opt/spas-esthetics"
+ },
+ "/hero-edmonton": {
+  "width": 1920,
+  "height": 1080,
+  "w": [
+   480,
+   800,
+   1200,
+   1600,
+   1920
+  ],
+  "m": [
+   450,
+   810
+  ],
+  "dir": "/opt/hero-edmonton"
+ }
+}

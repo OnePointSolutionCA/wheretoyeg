@@ -66,7 +66,7 @@ export function OnePointPopup() {
         <div className="relative bg-white px-5 pb-3 pt-4 pr-14 sm:pr-16">
           <span className="absolute left-5 top-3 inline-block rounded-full bg-slate-100 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider text-slate-500">Sponsored</span>
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src={ad.logoSrc} alt={ad.logoAlt} className="mt-5 block" style={{ height: `${ad.logoHeightPx}px`, width: "auto" }} />
+          <img src={ad.logoSrc} alt={ad.logoAlt} width={ad.logoSize[0]} height={ad.logoSize[1]} className="mt-5 block" style={{ height: `${ad.logoHeightPx}px`, width: "auto" }} />
         </div>
         <div className="relative p-5 sm:p-6">
           <h3 className="font-display text-xl font-extrabold leading-tight sm:text-2xl">

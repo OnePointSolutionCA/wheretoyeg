@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
-import type { Business } from "@/lib/types";
+import { fromListItem, type ListItem } from "@/lib/slim";
 import { BusinessCard } from "./BusinessCard";
 import { Card3D } from "./Card3D";
 import { openStatus } from "@/lib/openNow";
@@ -14,13 +14,14 @@ function toggle<T>(arr: T[], v: T): T[] {
 }
 
 export function FilterableList({
-  businesses,
+  items,
   categoryName,
   categoryNames,
   neighborhoods,
   amenities,
 }: {
-  businesses: Business[];
+  /** Compact listings from toListItem (kept small: every listing on the page is sent as JSON). */
+  items: ListItem[];
   categoryName?: string;
   categoryNames?: Record<string, string>;
   neighborhoods: string[];
@@ -34,6 +35,7 @@ export function FilterableList({
   const [sort, setSort] = useState<"recommended" | "rating" | "reviews" | "newest">("recommended");
   const [openMenu, setOpenMenu] = useState<"neighborhoods" | "amenities" | null>(null);
   const [visible, setVisible] = useState(24);
+  const businesses = useMemo(() => items.map(fromListItem), [items]);
 
   // Read initial filter state from URL (?amenity=Halal&neighborhood=...)
   useEffect(() => {

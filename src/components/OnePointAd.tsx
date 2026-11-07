@@ -51,7 +51,7 @@ function BannerAd({ ad, placement }: { ad: ReturnType<typeof advertiser>; placem
           <div className="inline-flex items-center gap-3 rounded-xl bg-white p-2.5 shadow-md">
             {/* Logo renders in its own white chip so every advertiser's full-colour mark reads cleanly. */}
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={ad.logoSrc} alt={ad.logoAlt} style={{ height: `${ad.logoHeightPx}px`, width: "auto", display: "block" }} />
+            <img src={ad.logoSrc} alt={ad.logoAlt} width={ad.logoSize[0]} height={ad.logoSize[1]} loading="lazy" decoding="async" style={{ height: `${ad.logoHeightPx}px`, width: "auto", display: "block" }} />
           </div>
           <p className="mt-3 text-xs font-bold uppercase tracking-[0.18em] text-white/60">{ad.tagline}</p>
           <h3 className="mt-1 font-display text-2xl font-extrabold leading-tight tracking-tight sm:text-3xl">
@@ -101,7 +101,7 @@ function SidebarAd({ ad, placement }: { ad: ReturnType<typeof advertiser>; place
       <div className="relative p-5">
         <div className="inline-flex items-center gap-2 rounded-lg bg-white p-2 shadow">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src={ad.logoSrc} alt={ad.logoAlt} style={{ height: `${Math.min(ad.logoHeightPx, 30)}px`, width: "auto", display: "block" }} />
+          <img src={ad.logoSrc} alt={ad.logoAlt} width={ad.logoSize[0]} height={ad.logoSize[1]} loading="lazy" decoding="async" style={{ height: `${Math.min(ad.logoHeightPx, 30)}px`, width: "auto", display: "block" }} />
         </div>
         <p className="mt-3 text-[10px] font-bold uppercase tracking-[0.14em] text-white/60">{ad.tagline}</p>
         <p className="mt-1 font-display text-lg font-bold leading-snug">

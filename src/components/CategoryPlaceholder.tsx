@@ -22,6 +22,8 @@ export function CategoryPlaceholder({
         alt=""
         fill
         sizes={hero ? "(max-width: 1200px) 100vw, 1200px" : "(max-width: 640px) 100vw, 400px"}
+        // The hero size is the listing page's main image (top of the page), so load it first.
+        priority={hero}
         className="scale-105 object-cover brightness-110 contrast-110 grayscale transition-transform duration-700 group-hover:scale-110"
       />
       <div className="absolute inset-0 bg-[#0b5c73] mix-blend-color" aria-hidden="true" />

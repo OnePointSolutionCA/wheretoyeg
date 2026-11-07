@@ -28,7 +28,8 @@ export function BusinessCard({ business, categoryName }: { business: Business; c
               src={photo}
               alt={`${b.name}${b.neighborhood ? ` in ${placeLabel(b.neighborhood)}` : ""}`}
               fill
-              sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+              // Card widths: phone = screen minus page padding, tablet = 2 columns, desktop = 3 columns of a 1200 px page.
+              sizes="(max-width: 639px) calc(100vw - 48px), (max-width: 1023px) calc(50vw - 34px), 380px"
               className="object-cover"
               loading="lazy"
             />

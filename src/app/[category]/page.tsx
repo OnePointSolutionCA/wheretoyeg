@@ -8,6 +8,7 @@ import {
   countBySubcategory,
 } from "@/lib/content";
 import { BusinessCard } from "@/components/BusinessCard";
+import { HeroPicture } from "@/components/HeroPicture";
 import { Card3D } from "@/components/Card3D";
 import { FilterableList } from "@/components/FilterBar";
 import { SubcategoryPills } from "@/components/SubcategoryPills";
@@ -21,7 +22,7 @@ import { OnePointAd } from "@/components/OnePointAd";
 import { pickAdvertiser } from "@/lib/advertisers";
 import { categoryFaq } from "@/lib/faq";
 import { relatedPosts } from "@/lib/related";
-import { toCard } from "@/lib/slim";
+import { toListItem } from "@/lib/slim";
 import { edmontonDay } from "@/lib/daily";
 import { IntroText } from "@/components/LinkedText";
 import { WhereToStart } from "@/components/WhereToStart";
@@ -92,7 +93,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
   ].slice(0, 6);
 
   // Rotated main listing, slimmed to only card-visible fields to cut page weight
-  const rotatedBusinesses = seededShuffle(businesses, day + 999).map(toCard);
+  const rotatedBusinesses = seededShuffle(businesses, day + 999).map(toListItem);
 
   const heroPhoto = `/photos/_hero/${c.slug}.jpg`;
   const rated = businesses.filter((b) => b.rating > 0 && b.review_count > 0);
@@ -118,11 +119,18 @@ export default function CategoryPage({ params }: { params: { category: string } 
       {/* Photo hero */}
       <section className="relative overflow-hidden text-white">
         {heroPhoto ? (
-          <div
-            className="absolute inset-0 bg-cover bg-center"
-            style={{ backgroundImage: `url(${heroPhoto})` }}
-            aria-hidden="true"
-          />
+          <div className="absolute inset-0" aria-hidden="true">
+            {/* Phones up to 430 px wide get the 1.3:1 centre crop (hero ~400 px tall, so ~520 px wide);
+                other small screens draw the 2:1 photo ~400 px tall, so ~820 px wide. */}
+            <HeroPicture
+              src={heroPhoto}
+              className="h-full w-full object-cover object-center"
+              sizes="(max-width: 1023px) 820px, 100vw"
+              mobileMedia="(max-width: 430px)"
+              mobileSizes="520px"
+              priority
+            />
+          </div>
         ) : (
           <div className="absolute inset-0 bg-gradient-to-br from-teal to-teal-900" aria-hidden="true" />
         )}
@@ -233,7 +241,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
       <section className="container-page py-10" data-reveal="right">
         {rotatedBusinesses.length > 0 ? (
           <FilterableList
-            businesses={rotatedBusinesses}
+            items={rotatedBusinesses}
             categoryName={c.name}
             neighborhoods={neighborhoods}
             amenities={amenities}

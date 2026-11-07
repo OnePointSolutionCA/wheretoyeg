@@ -9,6 +9,8 @@ export type Advertiser = {
   id: AdvertiserId;
   name: string;
   logoSrc: string;
+  /** Intrinsic [width, height] of logoSrc, so the browser reserves the logo width before it loads. */
+  logoSize: [number, number];
   logoAlt: string;
   logoHeightPx: number; // rendered height on the card
   tagline: string; // short lead line in the "Sponsored" eyebrow
@@ -30,7 +32,8 @@ const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
   onepoint: {
     id: "onepoint",
     name: "OnePoint Solutions",
-    logoSrc: "/logos/onepoint-horizontal.png",
+    logoSrc: "/logos/onepoint-horizontal-sm.webp",
+    logoSize: [786, 120],
     logoAlt: "OnePoint Solutions Marketing Agency",
     logoHeightPx: 36,
     tagline: "Marketing agency",
@@ -48,7 +51,8 @@ const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
   fixauto: {
     id: "fixauto",
     name: "Fix Auto Sherwood North",
-    logoSrc: "/logos/fix-auto.png",
+    logoSrc: "/logos/fix-auto-sm.webp",
+    logoSize: [422, 180],
     logoAlt: "Fix Auto Sherwood North",
     logoHeightPx: 56,
     tagline: "Collision repair",
@@ -66,7 +70,8 @@ const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
   oxford: {
     id: "oxford",
     name: "Oxford Chiropractic & Wellness",
-    logoSrc: "/logos/oxford-chiro-horizontal.png",
+    logoSrc: "/logos/oxford-chiro-horizontal-sm.webp",
+    logoSize: [439, 130],
     logoAlt: "Oxford Chiropractic & Wellness",
     logoHeightPx: 40,
     tagline: "Chiropractic & wellness",

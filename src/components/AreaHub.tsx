@@ -9,7 +9,7 @@ import { ListingIndex } from "@/components/ListingIndex";
 import { breadcrumbSchema, itemListSchema, JsonLd } from "@/lib/schema-extra";
 import { categoryFaq, subLabel, subNoun } from "@/lib/faq";
 import { relatedPosts } from "@/lib/related";
-import { toCard } from "@/lib/slim";
+import { toListItem } from "@/lib/slim";
 import { areaSlug, areaTitle, placeLabel } from "@/lib/place";
 import {
   AREA_INTRO,
@@ -180,7 +180,7 @@ export function AreaHub({ category: c, sub, area, businesses }: HubProps) {
       )}
 
       <section className="container-page py-10" data-reveal="right">
-        <FilterableList businesses={ranked.map(toCard)} categoryName={c.name} neighborhoods={[]} amenities={amenities} />
+        <FilterableList items={ranked.map(toListItem)} categoryName={c.name} neighborhoods={[]} amenities={amenities} />
       </section>
 
       <ListingIndex businesses={ranked} title={`${label} in ${where}, A to Z`} showArea={false} className="container-page" />

@@ -5,8 +5,8 @@ export function NavLogo({ height = 42 }: { height?: number }) {
       style={{ ["--oplogo-h" as any]: `${height}px` }}
       aria-label="WhereToYEG"
     >
-      <img className="oplogo__mark" src="/logo-horizontal-alpha.png" alt="WhereToYEG" />
-      <img className="oplogo__text" src="/logo-horizontal-alpha.png" alt="" aria-hidden="true" />
+      <img className="oplogo__mark" src="/logo-horizontal-alpha-sm.webp" alt="WhereToYEG" />
+      <img className="oplogo__text" src="/logo-horizontal-alpha-sm.webp" alt="" aria-hidden="true" />
       <span className="oplogo__shine" aria-hidden="true" />
     </span>
   );

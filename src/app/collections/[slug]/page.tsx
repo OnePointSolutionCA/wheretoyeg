@@ -4,7 +4,7 @@ import { notFound } from "next/navigation";
 import { getBusinesses, getCategories } from "@/lib/content";
 import { COLLECTIONS, getCollectionBySlug, getBusinessesForCollection } from "@/lib/collections";
 import { FilterableList } from "@/components/FilterBar";
-import { toCard } from "@/lib/slim";
+import { toListItem } from "@/lib/slim";
 import { breadcrumbSchema, itemListSchema, JsonLd } from "@/lib/schema-extra";
 import { fitTitle, metaDescription, pageMeta } from "@/lib/seo";
 
@@ -90,7 +90,7 @@ export default function CollectionPage({ params }: { params: { slug: string } })
       <section className="container-page mt-10">
         {businesses.length > 0 ? (
           <FilterableList
-            businesses={businesses.map(toCard)}
+            items={businesses.map(toListItem)}
             categoryNames={catBySlug}
             neighborhoods={Array.from(new Set(businesses.map((b) => b.neighborhood))).filter(Boolean).sort()}
             amenities={Array.from(new Set(businesses.flatMap((b) => b.amenities ?? []))).sort()}

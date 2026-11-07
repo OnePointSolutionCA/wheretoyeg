@@ -41,8 +41,18 @@ export function StarRating({
   );
 }
 
+const STAR = "M10 1.5l2.7 5.4 6 .87-4.35 4.23 1.03 5.99L10 15.16l-5.38 2.83 1.03-5.99L1.3 7.77l6-.87L10 1.5z";
+
 function Star({ id, fill, size }: { id: string; fill: number; size: number }) {
   const pct = Math.round(fill * 100);
+  // Full and empty stars are one flat colour; only a part-filled star needs the gradient (keeps list pages lighter).
+  if (pct === 100 || pct === 0) {
+    return (
+      <svg width={size} height={size} viewBox="0 0 20 20" aria-hidden="true">
+        <path fill={pct ? "#F1664C" : "#E4EAED"} d={STAR} />
+      </svg>
+    );
+  }
   const gradId = `sr-${id.replace(/[:]/g, "")}`;
   return (
     <svg width={size} height={size} viewBox="0 0 20 20" aria-hidden="true">
@@ -52,10 +62,7 @@ function Star({ id, fill, size }: { id: string; fill: number; size: number }) {
           <stop offset={`${pct}%`} stopColor="#E4EAED" />
         </linearGradient>
       </defs>
-      <path
-        fill={`url(#${gradId})`}
-        d="M10 1.5l2.7 5.4 6 .87-4.35 4.23 1.03 5.99L10 15.16l-5.38 2.83 1.03-5.99L1.3 7.77l6-.87L10 1.5z"
-      />
+      <path fill={`url(#${gradId})`} d={STAR} />
     </svg>
   );
 }

@@ -8,7 +8,7 @@ import { ListingIndex } from "@/components/ListingIndex";
 import { AREA_INTRO, areaFromSlug, hubsForArea } from "@/lib/areas";
 import { CATEGORY_HEADING, fitTitle, listJoin, metaDescription, nf, pageMeta } from "@/lib/seo";
 import { FilterableList } from "@/components/FilterBar";
-import { toCard } from "@/lib/slim";
+import { toListItem } from "@/lib/slim";
 import { getCategories } from "@/lib/content";
 import { neighborhoodStats } from "@/lib/neighborhoods";
 import { areaSlug, areaTitle, placeLabel } from "@/lib/place";
@@ -137,7 +137,7 @@ export default function NeighborhoodPage({ params }: { params: { slug: string } 
       <section className="container-page py-10" data-reveal="right">
         {businesses.length > 0 ? (
           <FilterableList
-            businesses={businesses.map(toCard)}
+            items={businesses.map(toListItem)}
             categoryNames={cats}
             neighborhoods={[]}
             amenities={Array.from(new Set(businesses.flatMap((b) => b.amenities ?? []))).sort()}

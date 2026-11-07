@@ -35,7 +35,7 @@ import { breadcrumbSchema, JsonLd } from "@/lib/schema-extra";
 import { deliveryLinks } from "@/lib/delivery";
 import { SITE } from "@/lib/site";
 import { areaSlug, placeLabel } from "@/lib/place";
-import { toCard } from "@/lib/slim";
+import { toListItem } from "@/lib/slim";
 import { ListingIndex } from "@/components/ListingIndex";
 import { AreaHub, areaHubMetadata } from "@/components/AreaHub";
 import { itemListSchema } from "@/lib/schema-extra";
@@ -330,7 +330,7 @@ function SubcategoryView({ category: c, sub }: { category: ReturnType<typeof get
       <section className="container-page py-10">
         {businesses.length > 0 ? (
           <FilterableList
-            businesses={businesses.map(toCard)}
+            items={businesses.map(toListItem)}
             categoryName={c.name}
             neighborhoods={neighborhoods}
             amenities={amenities}

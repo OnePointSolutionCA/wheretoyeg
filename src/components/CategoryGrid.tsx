@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getCategories, countByCategory } from "@/lib/content";
 import { CategoryIcon } from "./CategoryIcon";
+import { HeroPicture } from "./HeroPicture";
 
 // Categories that get the big hero-photo treatment on the homepage.
 // Order matters. It's the order they render.
@@ -42,17 +43,23 @@ export function CategoryGrid() {
               : closing
                 ? "col-span-2 aspect-[16/9] lg:col-span-1 lg:aspect-auto"
                 : "aspect-square lg:aspect-auto";
+          // Drawn width of the 2:1 photo once object-cover fills the tile (tiles are taller than 2:1).
+          const tileSizes = lead
+            ? "(max-width: 1023px) calc(125vw - 60px), 840px"
+            : tall
+              ? "(max-width: 1023px) calc(100vw - 52px), 840px"
+              : closing
+                ? "(max-width: 1023px) calc(113vw - 45px), 400px"
+                : "(max-width: 1023px) calc(100vw - 52px), 400px";
           return (
             <Link
               key={c.slug}
               href={`/${c.slug}`}
               className={"cat-hero group relative flex flex-col justify-end overflow-hidden rounded-3xl bg-teal-900 shadow-card transition-all duration-500 hover:shadow-lift " + placement}
             >
-              <div
-                className="absolute inset-0 bg-cover bg-center transition-transform duration-[1200ms] ease-out group-hover:scale-110"
-                style={{ backgroundImage: `url(${photo})` }}
-                aria-hidden="true"
-              />
+              <div className="absolute inset-0 transition-transform duration-[1200ms] ease-out group-hover:scale-110" aria-hidden="true">
+                <HeroPicture src={photo} className="h-full w-full object-cover object-center" sizes={tileSizes} />
+              </div>
               <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/25 to-black/5" />
               <div className="absolute right-3 top-3 flex h-9 w-9 items-center justify-center rounded-full bg-white/15 text-white backdrop-blur-sm transition group-hover:bg-coral">
                 <CategoryIcon name={c.icon} />
@@ -85,11 +92,13 @@ export function CategoryGrid() {
                 href={`/${c.slug}`}
                 className="cat-hero group relative flex aspect-[4/3] flex-col justify-end overflow-hidden rounded-2xl bg-teal-900 shadow-card transition-all duration-500 hover:shadow-lift sm:aspect-[16/10]"
               >
-                <div
-                  className="absolute inset-0 bg-cover bg-center transition-transform duration-[1200ms] ease-out group-hover:scale-110"
-                  style={{ backgroundImage: `url(/photos/_hero/${c.slug}.jpg)` }}
-                  aria-hidden="true"
-                />
+                <div className="absolute inset-0 transition-transform duration-[1200ms] ease-out group-hover:scale-110" aria-hidden="true">
+                  <HeroPicture
+                    src={`/photos/_hero/${c.slug}.jpg`}
+                    className="h-full w-full object-cover object-center"
+                    sizes="(max-width: 639px) calc(75vw - 39px), (max-width: 1023px) calc(42vw - 33px), 340px"
+                  />
+                </div>
                 <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/30 to-black/5" />
                 <div className="absolute right-2.5 top-2.5 flex h-8 w-8 items-center justify-center rounded-full bg-white/15 text-white backdrop-blur-sm transition group-hover:bg-coral">
                   <CategoryIcon name={c.icon} />
