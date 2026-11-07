@@ -8,7 +8,7 @@ description: ""
 address: "800 Broadmoor Blvd unit 730, Sherwood Park, AB T8A 4Y6"
 neighborhood: "Sherwood Park"
 phone: "(780) 449-1063"
-website: "http://www.wishesbakeshop.com/"
+website: "https://wishesbakeshop.com/"
 google_maps_url: "https://maps.google.com/?cid=9646140453923857816&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.538448
 longitude: -113.321374

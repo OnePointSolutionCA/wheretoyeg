@@ -8,7 +8,7 @@ description: ""
 address: "967 McConachie Blvd NW, Edmonton, AB T5Y 3N3"
 neighborhood: "North Edmonton"
 phone: "(780) 690-2490"
-website: "http://www.growcanadaimmigration.com/"
+website: "https://growcanadaimmigration.com/"
 google_maps_url: "https://maps.google.com/?cid=18428091888677619420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.632137
 longitude: -113.435804

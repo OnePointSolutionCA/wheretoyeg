@@ -8,7 +8,6 @@ description: ""
 address: "4005 Clover Bar Rd, Sherwood Park, AB T8H 0M4"
 neighborhood: "Sherwood Park"
 phone: "(780) 464-3388"
-website: "https://qnailssummerwood.com/"
 google_maps_url: "https://maps.google.com/?cid=10254973297982513814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.556887
 longitude: -113.274226

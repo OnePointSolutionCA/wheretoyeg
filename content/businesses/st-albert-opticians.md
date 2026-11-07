@@ -8,7 +8,6 @@ description: ""
 address: "1 Hebert Rd Unit 117, St. Albert, AB T8N 2E7"
 neighborhood: "St. Albert"
 phone: "(780) 460-7962"
-website: "http://www.stalbertopticians.ca/"
 google_maps_url: "https://maps.google.com/?cid=2672289847310967838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.622784
 longitude: -113.609171

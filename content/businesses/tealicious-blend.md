@@ -9,7 +9,6 @@ rating: 4.7
 review_count: 577
 tier: "featured"
 phone: "(825) 993-9833"
-website: "http://www.tealiciousblend.com/"
 google_maps: "https://maps.google.com/?cid=12161399966112036440&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/tealicious-blend.jpg"

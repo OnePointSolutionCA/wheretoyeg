@@ -8,7 +8,7 @@ description: "The Cutting Room — a cuts-styling spot in Edmonton, Edmonton. 14
 address: "14055 West Block Dr NW #160, Edmonton, AB T5N 1L5"
 neighborhood: "Edmonton"
 phone: "(780) 496-9977"
-website: "http://thecuttingroomsalon.com/"
+website: "https://www.thecuttingroomsalon.com/"
 google_maps_url: "https://maps.google.com/?cid=13312974847902935229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"

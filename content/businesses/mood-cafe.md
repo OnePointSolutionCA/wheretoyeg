@@ -9,7 +9,6 @@ rating: 4.5
 review_count: 415
 tier: "featured"
 phone: "(780) 760-6663"
-website: "https://moodcafebakery.com/"
 google_maps: "https://maps.google.com/?cid=16390805789740098154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/photos/mood-cafe-g0.jpg"

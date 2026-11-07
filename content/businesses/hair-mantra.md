@@ -8,7 +8,7 @@ description: ""
 address: "9827 104 St, Fort Saskatchewan, AB T8L 2E5"
 neighborhood: "Fort Saskatchewan"
 phone: "(780) 998-0612"
-website: "http://www.hairmantra.ca/"
+website: "https://hairmantra.ca/"
 google_maps_url: "https://maps.google.com/?cid=9099837335915278882&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.710782
 longitude: -113.208743

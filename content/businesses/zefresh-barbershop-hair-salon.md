@@ -8,7 +8,6 @@ description: ""
 address: "8604 118 Ave NW, Edmonton, AB T5B 0S8"
 neighborhood: "North Edmonton"
 phone: "(780) 477-8937"
-website: "https://zefreshbarbershopandhairsalon.com/"
 google_maps_url: "https://maps.google.com/?cid=14475073005122722338&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.570514
 longitude: -113.472819

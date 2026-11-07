@@ -8,7 +8,6 @@ description: ""
 address: "12833 Fort Rd NW, Edmonton, AB T5A 2K5"
 neighborhood: "North Edmonton"
 phone: "(780) 298-6677"
-website: "https://fortroadcrossingdaycareosc.ca/"
 google_maps_url: "https://maps.google.com/?cid=406171813847375549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.585949
 longitude: -113.440335

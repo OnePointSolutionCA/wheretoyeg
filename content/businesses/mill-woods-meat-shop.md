@@ -8,7 +8,6 @@ description: ""
 address: "1521 Mill Woods Rd E, Edmonton, AB T6L 5H1"
 neighborhood: "Mill Woods"
 phone: "(780) 465-6595"
-website: "https://millwoodsmeatsandcurries.ca/"
 google_maps_url: "https://maps.google.com/?cid=7136729602858781435&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.443911
 longitude: -113.401926

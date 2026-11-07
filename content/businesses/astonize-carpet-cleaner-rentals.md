@@ -9,7 +9,6 @@ rating: 5
 review_count: 202
 tier: "featured"
 phone: "(780) 701-5112"
-website: "http://www.astonize.com/"
 google_maps: "https://maps.google.com/?cid=7078282943821078350&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/astonize-carpet-cleaner-rentals.jpg"

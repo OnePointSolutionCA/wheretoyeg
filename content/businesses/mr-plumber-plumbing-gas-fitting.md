@@ -8,7 +8,7 @@ description: ""
 address: "5512 6 Ave SW, Edmonton, AB T6X 1R9"
 neighborhood: "South Edmonton"
 phone: "(780) 271-7171"
-website: "https://www.mrplumbers.ca/"
+website: "https://mrplumbers.ca/"
 google_maps_url: "https://maps.google.com/?cid=14278144023002215257&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.427636
 longitude: -113.427445

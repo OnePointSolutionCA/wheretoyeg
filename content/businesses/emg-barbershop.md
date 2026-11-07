@@ -8,7 +8,6 @@ description: ""
 address: "15827 87 Ave NW, Edmonton, AB T5R 2E6"
 neighborhood: "West Edmonton"
 phone: "(780) 995-3952"
-website: "http://emgbarbershop.ca/"
 google_maps_url: "https://maps.google.com/?cid=5127235764917347238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.519061
 longitude: -113.596188

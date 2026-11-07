@@ -8,7 +8,7 @@ description: ""
 address: "15256 127 St, Edmonton, AB T6V 0C5"
 neighborhood: "Castle Downs"
 phone: "(780) 371-1000"
-website: "https://alberta.churchstexaschicken.com/"
+website: "https://canada.churchstexaschicken.com/locations"
 google_maps_url: "https://maps.google.com/?cid=12873526595330517609&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.616212
 longitude: -113.541752

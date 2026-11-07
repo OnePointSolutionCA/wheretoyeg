@@ -8,7 +8,7 @@ description: "Church's Texas Chicken — fried chicken in Edmonton, Edmonton. 30
 address: "13412 111 Ave NW, Edmonton, AB T5M 2S6"
 neighborhood: "Edmonton"
 phone: "(780) 454-7376"
-website: "https://alberta.churchstexaschicken.com/"
+website: "https://canada.churchstexaschicken.com/locations"
 google_maps_url: "https://maps.google.com/?cid=5770954534208182259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "11:00 AM–12:00 AM"

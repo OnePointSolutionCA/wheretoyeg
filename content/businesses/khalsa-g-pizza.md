@@ -9,7 +9,7 @@ rating: 4.9
 review_count: 702
 tier: "featured"
 phone: "(780) 626-1313"
-website: "http://khalsagpizza.ca/"
+website: "https://khalsagpizza.ca/"
 google_maps: "https://maps.google.com/?cid=2835820995949545510&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/khalsa-g-pizza.jpg"

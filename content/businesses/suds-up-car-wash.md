@@ -8,7 +8,6 @@ description: ""
 address: "199 Hwy 16A, Spruce Grove, AB T7X 4P9"
 neighborhood: "Spruce Grove"
 phone: "(780) 962-1542"
-website: "https://sudsupcarwash.ca/"
 google_maps_url: "https://maps.google.com/?cid=17563023368739148109&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.540756
 longitude: -113.930214

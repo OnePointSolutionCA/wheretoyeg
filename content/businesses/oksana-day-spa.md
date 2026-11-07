@@ -8,7 +8,6 @@ description: ""
 address: "3527 Tudor Gln, St. Albert, AB T8N 3V4"
 neighborhood: "St. Albert"
 phone: "(780) 691-4310"
-website: "https://oksanadayspa.com/"
 google_maps_url: "https://maps.google.com/?cid=11035158057504673354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.620313
 longitude: -113.609343

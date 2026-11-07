@@ -9,7 +9,7 @@ rating: 4
 review_count: 531
 tier: "featured"
 phone: "(780) 946-7172"
-website: "http://www.labezt.ca/"
+website: "https://labezt.ca/"
 google_maps: "https://maps.google.com/?cid=5996309849427267011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/la-bezt-donair-and-pizza.jpg"

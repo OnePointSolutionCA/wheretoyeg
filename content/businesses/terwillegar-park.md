@@ -8,7 +8,7 @@ description: ""
 address: "10 Rabbit Hill Rd NW, Edmonton, AB T6R 0R7"
 neighborhood: "West Edmonton"
 phone: "(780) 442-5311"
-website: "http://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/terwillegar-park.aspx"
+website: "https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/terwillegar-park"
 google_maps_url: "https://maps.google.com/?cid=8642082814751137228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.481606
 longitude: -113.610493

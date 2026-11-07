@@ -9,7 +9,7 @@ rating: 4.6
 review_count: 427
 tier: "featured"
 phone: "(780) 474-2456"
-website: "https://norwood-dental.ca/"
+website: "https://norwood.dental/"
 google_maps: "https://maps.google.com/?cid=18278676611021521981&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/norwood-dental-alberta-avenue.jpg"

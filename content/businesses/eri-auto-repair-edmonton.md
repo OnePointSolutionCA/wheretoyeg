@@ -8,7 +8,6 @@ description: ""
 address: "12328 66 St NW, Edmonton, AB T5B 1M8"
 neighborhood: "North Edmonton"
 phone: "(780) 457-3314"
-website: "http://www.eriautorepair.com/"
 google_maps_url: "https://maps.google.com/?cid=12864159900134504802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.579120
 longitude: -113.443615

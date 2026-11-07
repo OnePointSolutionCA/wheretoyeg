@@ -8,7 +8,7 @@ description: ""
 address: "5411 Discovery Way Unit 106, Leduc, AB T9E 8N4"
 neighborhood: "Leduc"
 phone: "(780) 986-2425"
-website: "http://www.leduc-chiro.com/"
+website: "https://divinespine.com/alberta/leduc/"
 google_maps_url: "https://maps.google.com/?cid=7364372591958284535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.270196
 longitude: -113.564064

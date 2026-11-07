@@ -8,7 +8,6 @@ description: ""
 address: "983 Fir St UNIT B, Sherwood Park, AB T8A 4N5"
 neighborhood: "Sherwood Park"
 phone: "(780) 762-4928"
-website: "https://www.parkautomotive.ca/"
 google_maps_url: "https://maps.google.com/?cid=3413239729291249917&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.512921
 longitude: -113.325989

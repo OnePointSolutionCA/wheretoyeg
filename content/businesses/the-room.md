@@ -8,7 +8,7 @@ description: ""
 address: "9603 41 Ave NW, Edmonton, AB T6E 5X7"
 neighborhood: "South Edmonton"
 phone: "(780) 916-9632"
-website: "http://challengetheroom.ca/"
+website: "https://challengetheroom.ca/"
 google_maps_url: "https://maps.google.com/?cid=515984961930765976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.476144
 longitude: -113.477508

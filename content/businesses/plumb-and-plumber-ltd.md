@@ -8,7 +8,6 @@ description: ""
 address: "108, 4301B, S Park Dr #354, Stony Plain, AB T7Z 1L1"
 neighborhood: "Stony Plain"
 phone: "(780) 914-5112"
-website: "http://www.plumbandplumber.ca/"
 google_maps_url: "https://maps.google.com/?cid=10934749812417813502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.539390
 longitude: -113.977724

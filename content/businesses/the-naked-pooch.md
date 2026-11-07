@@ -8,7 +8,7 @@ description: ""
 address: "4916 51 Ave, Stony Plain, AB T7Z 1T2"
 neighborhood: "Stony Plain"
 phone: "(780) 974-7665"
-website: "http://thenakedpooch.com/"
+website: "https://thenakedpooch.com/"
 google_maps_url: "https://maps.google.com/?cid=1513966133855480530&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.528678
 longitude: -114.006133

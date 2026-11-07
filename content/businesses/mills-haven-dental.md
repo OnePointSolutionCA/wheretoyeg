@@ -9,7 +9,7 @@ rating: 4.9
 review_count: 604
 tier: "featured"
 phone: "(587) 269-2697"
-website: "http://www.mhdental.ca/"
+website: "https://mhdental.ca/"
 google_maps: "https://maps.google.com/?cid=175952005695875929&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/photos/mills-haven-dental-g1.jpg"

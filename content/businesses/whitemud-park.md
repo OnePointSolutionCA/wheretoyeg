@@ -8,7 +8,7 @@ description: ""
 address: "13204 Fox Dr NW, Edmonton, AB T6H 4P3"
 neighborhood: "West Edmonton"
 phone: "(780) 442-5311"
-website: "http://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/whitemud-park.aspx"
+website: "https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/whitemud-park"
 google_maps_url: "https://maps.google.com/?cid=17641284356880655596&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.504078
 longitude: -113.559041

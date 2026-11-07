@@ -8,7 +8,7 @@ description: ""
 address: "10380 Queen Elizabeth Park Rd, Edmonton, AB T6E 6C6"
 neighborhood: "Whyte Ave"
 phone: "(780) 442-5311"
-website: "http://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/queen-elizabeth-park.aspx"
+website: "https://www.edmonton.ca/activities_parks_recreation/parks_rivervalley/queen-elizabeth-park"
 google_maps_url: "https://maps.google.com/?cid=6673401735799608674&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.523676
 longitude: -113.498089

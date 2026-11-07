@@ -7,7 +7,7 @@ tier: "featured"
 description: ""
 address: "13461 St Albert Trail NW, Edmonton, AB T5L 5E7"
 neighborhood: "St. Albert"
-website: "https://pickleballhub.ca/"
+website: "https://www.pickleballhub.ca/"
 google_maps_url: "https://maps.google.com/?cid=899551121713583093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.596736
 longitude: -113.571509

@@ -8,7 +8,6 @@ description: "Meat Direct Inc — butcher in St. Albert, Edmonton. 104 Google re
 address: "13050 St Albert Trail NW, Edmonton, AB T5L 4Y6"
 neighborhood: "St. Albert"
 phone: "(587) 405-6328"
-website: "https://www.meatdirectinc.ca/"
 google_maps_url: "https://maps.google.com/?cid=3192562666193210724&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "11:00 AM–7:00 PM"

@@ -8,7 +8,7 @@ description: ""
 address: "10440 108 Ave NW, Edmonton, AB T5H 3Z9"
 neighborhood: "Downtown"
 phone: "(780) 442-5311"
-website: "http://www.edmonton.ca/attractions_events/prince-of-wales-armouries.aspx"
+website: "https://www.edmonton.ca/attractions_events/prince-of-wales-armouries"
 google_maps_url: "https://maps.google.com/?cid=13901631296028524140&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.553874
 longitude: -113.500228

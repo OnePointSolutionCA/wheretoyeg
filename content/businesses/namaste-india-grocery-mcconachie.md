@@ -8,7 +8,6 @@ description: "Namaste India Grocery (McConachie) — indian in Edmonton, Edmonto
 address: "6522 170 Ave NW, Edmonton, AB T5Y 3X6"
 neighborhood: "Edmonton"
 phone: "(780) 244-2277"
-website: "http://namasteindiagrocery.ca/"
 google_maps_url: "https://maps.google.com/?cid=5584406988974558252&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "9:30 AM–9:30 PM"

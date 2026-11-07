@@ -9,7 +9,7 @@ description: "World-famous Taiwanese boba chain downtown. The signature brown su
 address: "10075 109 Street NW, Edmonton, AB T5J 1M1"
 neighborhood: "Downtown"
 phone: "(587) 988-9488"
-website: "https://tigersugaralberta.com"
+website: "https://tigersugaralberta.com/"
 google_maps_url: "https://maps.google.com/?q=Tiger+Sugar+Edmonton"
 hours:
   monday: "12:00 PM–10:00 PM"

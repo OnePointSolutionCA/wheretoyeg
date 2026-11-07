@@ -8,7 +8,6 @@ description: ""
 address: "3200 Golf Course Rd N #3, Stony Plain, AB T7Z 2Y2"
 neighborhood: "Stony Plain"
 phone: "(780) 700-6063"
-website: "https://www.pmechservices.com/"
 google_maps_url: "https://maps.google.com/?cid=3281300019164594411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.547011
 longitude: -113.985225

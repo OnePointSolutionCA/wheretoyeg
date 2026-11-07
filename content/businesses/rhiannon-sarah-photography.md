@@ -8,7 +8,6 @@ rating: 5
 review_count: 20
 tier: "featured"
 phone: "(780) 934-8641"
-website: "http://rhiannonsarahphotography.com/"
 google_maps: "https://maps.google.com/?cid=16274605646876602514&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/photos/rhiannon-sarah-photography-g3.jpg"

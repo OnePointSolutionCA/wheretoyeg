@@ -8,7 +8,7 @@ description: ""
 address: "5537 Gateway Blvd NW, Edmonton, AB T6H 2H3"
 neighborhood: "South Edmonton"
 phone: "(780) 451-4546"
-website: "http://www.bprint.com/"
+website: "https://bprint.com/"
 google_maps_url: "https://maps.google.com/?cid=14637198736567744009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.492827
 longitude: -113.491659

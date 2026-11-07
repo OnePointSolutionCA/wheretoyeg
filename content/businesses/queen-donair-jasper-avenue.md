@@ -8,7 +8,6 @@ description: "Queen Donair Jasper Avenue — halal fast food in Downtown, Edmont
 address: "10827 Jasper Ave, Edmonton, AB T5J 5G9"
 neighborhood: "Downtown"
 phone: "(780) 424-3129"
-website: "https://www.queendonairjasperave.com/"
 google_maps_url: "https://maps.google.com/?cid=11745347345188842798&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "10:00 AM–3:30 AM"
