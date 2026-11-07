@@ -40,9 +40,19 @@ export function relatedPosts(category: string, limit = 3, exclude?: string): Blo
     .map((x) => x.p);
 }
 
-/** Posts whose slug carries the subcategory as a whole word ("brunch" matches best-brunch-edmonton-2026, "pho" skips photographers). */
-function postsForSub(sub: string): BlogPost[] {
-  return getBlogPosts().filter((p) => `-${p.slug}-`.includes(`-${sub}-`));
+const matchesCategory = (p: BlogPost, category: string) =>
+  (KEYWORDS[category] ?? [category]).some((k) => p.slug.includes(k) || p.tags?.some((t) => t.includes(k)));
+
+/**
+ * Posts whose slug carries the subcategory as a whole word ("brunch" matches best-brunch-edmonton-2026, "pho" skips photographers).
+ * A post that clearly belongs to another category is skipped, so /restaurants/family never shows the family law guide.
+ */
+function postsForSub(sub: string, category: string): BlogPost[] {
+  return getBlogPosts().filter((p) => {
+    if (!`-${p.slug}-`.includes(`-${sub}-`)) return false;
+    if (matchesCategory(p, category)) return true;
+    return !Object.keys(KEYWORDS).some((c) => c !== category && matchesCategory(p, c));
+  });
 }
 
 let linkIndex: Map<string, BlogPost[]> | null = null;
@@ -71,7 +81,7 @@ export function relatedPostsFor(category: string, opts: { sub?: string; listingP
     for (const p of list) if (out.length < limit && !out.some((x) => x.slug === p.slug)) out.push(p);
   };
   if (opts.listingPath) add(postsLinkingTo(opts.listingPath));
-  if (opts.sub) add(postsForSub(opts.sub));
+  if (opts.sub) add(postsForSub(opts.sub, category));
   add(relatedPosts(category, limit));
   return out;
 }

@@ -280,7 +280,7 @@ export const CATEGORY_HEADING: Record<string, string> = {
 export const SUB_HEADING: Record<string, Record<string, string>> = {
   electricians: {
     residential: "Residential Electricians", commercial: "Commercial Electricians", emergency: "Emergency Electricians",
-    "ev-chargers": "EV Charger Installers", "panel-upgrades": "Panel Upgrade Electricians", lighting: "Lighting Electricians", hvac: "Furnace & HVAC Companies",
+    "ev-chargers": "EV Charger Installers", "panel-upgrades": "Panel Upgrade Electricians", lighting: "Lighting Electricians", hvac: "Furnace Repair & HVAC Companies",
   },
   plumbers: {
     residential: "Residential Plumbers", commercial: "Commercial Plumbers", emergency: "Emergency Plumbers", "drain-cleaning": "Drain Cleaning Services",

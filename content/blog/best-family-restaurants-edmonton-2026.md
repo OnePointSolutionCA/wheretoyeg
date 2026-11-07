@@ -7,7 +7,7 @@ publishedDate: "2026-03-10"
 tags: ["family", "kids", "restaurants", "cafes", "food"]
 ---
 
-Finding a restaurant where your kids won't get side-eyed for being loud is harder than it should be. These Edmonton spots genuinely welcome families, not just with a kids menu, but with space, patience, and food that adults actually want to eat too.
+Finding a restaurant where your kids won't get side-eyed for being loud is harder than it should be. These Edmonton spots genuinely welcome families, not just with a kids menu, but with space, patience, and food that adults actually want to eat too. For the full list with hours and maps, see our [family restaurants in Edmonton](/restaurants/family) page.
 
 ## Dessert spots kids love
 
@@ -50,3 +50,5 @@ Some places combine food with activities, which means kids burn energy while you
 - **Tip well.** Your server just cleaned up goldfish crackers and wiped down a chair. They earned it.
 
 Edmonton has plenty of restaurants that welcome families, not with a plastic kids menu and a box of broken crayons, but with actual thought put into making it work for everyone at the table.
+
+Browse every [family restaurant in Edmonton](/restaurants/family) on WhereToYEG, or plan a morning out with our [brunch restaurants](/restaurants/brunch).

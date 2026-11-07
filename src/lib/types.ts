@@ -84,6 +84,8 @@ export type Subcategory = {
   intro?: string;
   /** Hand-written questions added to the generated FAQ on the subcategory page. */
   faq?: { q: string; a: string; links?: { label: string; href: string }[] }[];
+  /** Guide links shown as chips under the subcategory intro. */
+  guides?: { label: string; href: string }[];
 };
 
 export type Category = {
@@ -99,6 +101,8 @@ export type Category = {
   /** Guide links shown as chips under the hub intro. */
   guides?: { label: string; href: string }[];
   intro?: string;
+  /** Hand-written questions added to the generated FAQ on the category hub. */
+  faq?: { q: string; a: string; links?: { label: string; href: string }[] }[];
   order?: number;
   active: boolean;
   subcategories?: Subcategory[];

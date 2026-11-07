@@ -33,7 +33,7 @@ Finding a good electrician in Edmonton is one of those things you don't think ab
 
 **[Blitz Electric Ltd](/electricians/blitz-electric-ltd)** (4.9★): Downtown-based, with customers going back more than 20 years. One reviewer said their quote was the lowest of four and the only one that matched the job exactly.
 
-Browse all [electricians in Edmonton](/electricians) on WhereToYEG.
+Browse all [electricians in Edmonton](/electricians) on WhereToYEG. Furnace acting up? See our [furnace repair and HVAC companies in Edmonton](/electricians/hvac).
 
 ## Common electrical jobs and what they cost in Edmonton
 

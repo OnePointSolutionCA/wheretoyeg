@@ -9,7 +9,7 @@ tags: ["filipino", "restaurants", "food", "takeout", "catering", "guides"]
 
 Edmonton has a big, warm Filipino community, so it makes sense that some of the best home style cooking in the city comes out of small Filipino kitchens. Most of them are not fancy. Many are tucked into strip malls with a few tables and a steam table full of the day's dishes. That is part of the charm.
 
-If you have been searching for a Filipino restaurant near you, this guide is for you. We list real spots on WhereToYEG across Edmonton and St. Albert, with what each one says it does best, plus a short guide to the dishes so you know what to order on your first visit.
+If you have been searching for a Filipino restaurant near you, this guide is for you. We list real spots on our [Filipino restaurants in Edmonton](/restaurants/filipino) page, across Edmonton and St. Albert, with what each one says it does best, plus a short guide to the dishes so you know what to order on your first visit.
 
 A quick note on how we wrote this. We only list places that are active in our directory, and any detail about a restaurant comes from its own website or our listing. We kept the focus on chicken, beef, seafood and vegetable dishes. Menus change, so check the restaurant's link before you go.
 

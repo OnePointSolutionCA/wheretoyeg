@@ -2,6 +2,7 @@
 name: "Barako Bistro"
 slug: "barako-bistro"
 category: "restaurants"
+subcategory: "filipino"
 neighborhood: "St. Albert"
 address: "1115 St Albert Trl #310, St. Albert, AB T8N 7X6"
 rating: 4.9

@@ -75,7 +75,7 @@ If you're a patio-coffee person in summer, fall is when you discover your favori
 Fall is also prep season. A few things to knock out before November:
 
 - **Winter tires.** Book the swap in September or early October. Every shop in the city is booked solid by late October. Find a shop on our [auto repair page](/auto-repair).
-- **Furnace inspection.** Get it serviced before you need it. A cold snap in October with a dead furnace is a bad time. Browse [HVAC and heating services](/electricians).
+- **Furnace inspection.** Get it serviced before you need it. A cold snap in October with a dead furnace is a bad time. Browse [furnace repair and HVAC companies](/electricians/hvac).
 - **Weatherstripping and caulking.** Check your windows and doors. Older Edmonton homes leak heat badly.
 - **Block heater.** If you don't have one, get one installed before the first -20°C night. Your car will thank you.
 

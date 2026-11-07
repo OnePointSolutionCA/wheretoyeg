@@ -52,6 +52,9 @@ import {
 } from "@/lib/areas";
 import { CATEGORY_HEADING, CATEGORY_PLURAL, TITLE_MAX, businessType, fitTitle, metaDescription, nf, pageMeta, titleCase } from "@/lib/seo";
 import { clip, plainDashes } from "@/lib/text";
+import { IntroText } from "@/components/LinkedText";
+import { WhereToStart } from "@/components/WhereToStart";
+import { BadgeSnippet } from "@/components/BadgeSnippet";
 
 const FOOD_CATEGORIES = new Set(["restaurants", "cafes-coffee-shops", "bakeries", "catering", "grocery-markets"]);
 
@@ -289,19 +292,23 @@ function SubcategoryView({ category: c, sub }: { category: ReturnType<typeof get
       {c.subcategories && (
         <section className="border-b border-line bg-mist">
           <div className="container-page py-5">
-            {sub.intro && (
-              <div className="mb-4 max-w-2xl space-y-3 text-teal-500">
-                {sub.intro.split(/\n\s*\n/).map((para, i) => (
-                  <p key={i}>{para}</p>
-                ))}
-              </div>
-            )}
+            {sub.intro && <IntroText text={sub.intro} />}
             <SubcategoryPills
               categorySlug={c.slug}
               subcategories={c.subcategories}
               activeSlug={sub.slug}
               counts={subCounts}
             />
+            {sub.guides && sub.guides.length > 0 && (
+              <div className="mt-3 flex items-center gap-2 overflow-x-auto" style={{ scrollbarWidth: "none" }}>
+                <span className="shrink-0 text-xs font-bold uppercase tracking-wider text-teal-300">Guides:</span>
+                {sub.guides.map((g) => (
+                  <Link key={g.href} href={g.href} className="chip shrink-0">
+                    {g.label}
+                  </Link>
+                ))}
+              </div>
+            )}
             {areaHubs.length > 0 && (
               <div className="mt-3 flex items-center gap-2 overflow-x-auto" style={{ scrollbarWidth: "none" }}>
                 <span className="shrink-0 text-xs font-bold uppercase tracking-wider text-teal-300">By area:</span>
@@ -315,6 +322,10 @@ function SubcategoryView({ category: c, sub }: { category: ReturnType<typeof get
           </div>
         </section>
       )}
+
+      <section className="container-page mt-8 empty:hidden">
+        <WhereToStart businesses={businesses} noun={noun} />
+      </section>
 
       <section className="container-page py-10">
         {businesses.length > 0 ? (
@@ -650,6 +661,12 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
             <OnePointAd placement="business-sidebar" variant="sidebar" advertiser={pickAdvertiser({ category: b.category, subcategory: b.subcategory, tags: b.tags })} />
           </div>
         </aside>
+      </section>
+
+      <section className="container-page mt-10">
+        <div className="max-w-2xl">
+          <BadgeSnippet listingUrl={`${SITE.url}${duplicateCanonicals().get(b.slug) ?? `/${b.category}/${b.slug}`}`} />
+        </div>
       </section>
 
       {similar.length > 0 && (

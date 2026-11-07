@@ -23,6 +23,8 @@ import { categoryFaq } from "@/lib/faq";
 import { relatedPosts } from "@/lib/related";
 import { toCard } from "@/lib/slim";
 import { edmontonDay } from "@/lib/daily";
+import { IntroText } from "@/components/LinkedText";
+import { WhereToStart } from "@/components/WhereToStart";
 
 export const revalidate = 600;
 
@@ -151,13 +153,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
       {/* Subcategory chips + intro */}
       <section className="border-b border-line bg-mist">
         <div className="container-page py-6">
-          {c.intro && (
-            <div className="mb-4 max-w-2xl space-y-3 text-teal-500">
-              {c.intro.split(/\n\s*\n/).map((para, i) => (
-                <p key={i}>{withLinks(para)}</p>
-              ))}
-            </div>
-          )}
+          {c.intro && <IntroText text={c.intro} />}
           {c.subcategories && c.subcategories.length > 0 && (
             <SubcategoryPills
               categorySlug={c.slug}
@@ -197,6 +193,11 @@ export default function CategoryPage({ params }: { params: { category: string } 
             </div>
           )}
         </div>
+      </section>
+
+      {/* Where to start: fixed rule, so it stays the same between visits (top picks below rotate daily) */}
+      <section className="container-page mt-8 empty:hidden">
+        <WhereToStart businesses={businesses} noun={noun} />
       </section>
 
       {/* Top Picks, rotates daily */}
@@ -252,6 +253,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
             noun,
             areaHref: (n) => (hubCount(c.slug, n) >= HUB_MIN ? hubHref(c.slug, n) : undefined),
             ...(c.slug === "restaurants" ? { halalHref: "/halal-restaurants" } : {}),
+            extra: c.faq,
           })}
         />
       </div>
@@ -275,24 +277,6 @@ export default function CategoryPage({ params }: { params: { category: string } 
       </section>
     </>
   );
-}
-
-/** Turns [text](/path) in a category intro into links; everything else stays plain text. */
-function withLinks(text: string) {
-  const parts: React.ReactNode[] = [];
-  const re = /\[([^\]]+)\]\((\/[^)\s]*)\)/g;
-  let last = 0;
-  for (const m of text.matchAll(re)) {
-    if (m.index! > last) parts.push(text.slice(last, m.index));
-    parts.push(
-      <Link key={m.index} href={m[2]} className="font-semibold text-[#C63A22] underline decoration-coral/35 decoration-2 underline-offset-[3px] transition hover:text-coral hover:decoration-current">
-        {m[1]}
-      </Link>,
-    );
-    last = m.index! + m[0].length;
-  }
-  if (last < text.length) parts.push(text.slice(last));
-  return parts;
 }
 
 function EmptyState({ categoryName }: { categoryName: string }) {

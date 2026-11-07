@@ -76,4 +76,4 @@ More Edmonton homeowners are installing Level 2 chargers. Most residential elect
 - **Ask about warranty.** Most reputable contractors warranty their labour for 1 to 2 years. If they don't offer any warranty, that's a red flag.
 - **Read the Google reviews carefully.** Look for patterns, not individual complaints. Every contractor has a bad review. Ten reviews mentioning the same problem is a pattern.
 
-Find all [Edmonton plumbers](/plumbers) and [electricians](/electricians) on WhereToYEG.
+Find all [Edmonton plumbers](/plumbers) and [electricians](/electricians) on WhereToYEG. For heating, see our [furnace repair and HVAC companies](/electricians/hvac).
