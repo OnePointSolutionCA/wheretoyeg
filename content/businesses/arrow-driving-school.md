@@ -24,54 +24,45 @@ photos:
   - "/photos/arrow-driving-school-g1.jpg"
   - "/photos/arrow-driving-school-g2.jpg"
 rating: 4.8
-review_count: 4041
+review_count: 4118
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "driving-school"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Simer Singh"
-    rating: 5
-    date: "2026-06-23"
-    comment: |
-      I had an excellent experience with Arrow Driving School. The instructor was patient, knowledgeable, and made me feel comfortable behind the wheel from the very beginning. The lessons were well-structured and focused on building confidence while teaching safe driving habits. They provided helpful tips for both everyday driving and the road test, which made a big difference in my preparation.
   - name: "NAVROOP KAUR"
     rating: 5
-    date: "2026-07-23"
     comment: |
       I had a great experience learning with Ranjeet Singh Sandhu. He is an excellent instructor who teaches very well and explains all the driving rules clearly and thoroughly. His level of patience is truly impressive. He stays calm, encouraging, and never makes you feel rushed or nervous.
       
       What I appreciated most was how he adjusted his teaching style to match my way of learning. He made sure I understood each concept before moving on, which really helped build my confidence behind the wheel. I highly recommend Ranjeet Singh Sandhu to anyone looking for a knowledgeable, patient, and supportive driving instructor.
-  - name: "tofazzel Cy"
+  - name: "Urvi H Patel"
     rating: 5
-    date: "2026-06-26"
     comment: |
-      ⭐⭐⭐⭐⭐
-      
-      I had an excellent experience with Arrow Driving School and my instructor, Dinesh Rawat. Even though I only took 3 days of lessons, the training was incredibly effective and well-structured. Dinesh is a highly skilled, patient, and professional instructor who made every lesson productive and easy to understand.
-      
-      He quickly identified the areas where I needed improvement and provided clear guidance, practical tips, and constructive feedback that significantly boosted my confidence behind the wheel. His calm and encouraging teaching style helped me stay relaxed while learning important driving skills and road safety practices.
-      
-      What impressed me most was how much I learned in such a short period of time. Dinesh's dedication, knowledge, and attention to detail made a huge difference in my driving ability. I highly recommend Arrow Driving School and Dinesh Rawat to anyone looking for quality driving instruction. Thank you for making the learning experience so positive and successful!
-  - name: "Frencis Medalyn Rose Navacilla"
+      An absolutely superb instructor! He has an incredible eye for even the smallest mistakes and pays attention to every little detail. His teaching style is amazing, making everything easy to understand and learn. On top of that, he is genuinely supportive and provides honest, practical guidance. His patience, expertise, and dedication truly stand out. Everything about the learning experience has been excellent. Highly recommended to anyone looking for a great instructor!
+      Thank you again Mr. Alkesh Batra🙏🏻🙏🏻🙏🏻🙏🏻🙏🏻
+  - name: "Rimpy Kaur"
     rating: 5
-    date: "2026-06-10"
     comment: |
-      I made the right choice when I decided to enroll with Arrow Driving School. I was looking at a couple of driving schools, but Arrow stood out because they were very responsive and proactive in answering my questions.
+      I had a great experience with Arrow Driving School, especially with my instructor, Gurbax Singh. He is very patient, professional, knowledgeable, and explains everything in a clear and easy-to-understand way. He helped me feel confident and comfortable behind the wheel and made sure I was fully prepared for my road test.
       
-      I enrolled in the package that included 15 hours of in-class training and 10 hours of in-car lessons, and it was absolutely worth it. Before taking the course, I was very nervous and lacked confidence behind the wheel. The in-class lessons gave me a solid understanding of the rules of the road, which helped me become a much more confident driver.
-      
-      A huge shout-out to my driving instructor, Amandeep Gill. He is an excellent instructor—patient, professional, supportive, and always on time. He explained everything clearly and made me feel comfortable during every lesson. His guidance and encouragement helped me build the skills and confidence I needed to succeed.
-      
-      I had no previous driving experience and was a completely new driver. Thanks to the training I received from Arrow Driving School and the outstanding instruction from Amandeep, I passed my Class 5 GDL road test on my very first attempt right after completing the program!
-      
-      I highly recommend Arrow Driving School, especially Amandeep Gill, to anyone looking to learn how to drive. Thank you for helping me achieve this milestone!
-  - name: "bhupinder kaur"
+      I’m so happy to say that I passed my test! 🎉 A big thank you to Gurbaj Singh for all his guidance, support, and helpful tips throughout my lessons. I truly appreciate his teaching and would highly recommend him to anyone looking for a great driving instructor. ⭐️⭐️⭐️⭐️⭐️
+  - name: "Patel Hardik"
     rating: 5
-    date: "2026-08-13"
     comment: |
-      Highly Recommended Driving Instructor – Dinesh Rawat
-      I had an excellent experience learning to drive with Dinesh Rawat. He is very patient, professional, and supportive. He explains everything clearly and makes sure you understand before moving on to the next step. His guidance helped me become much more confident and comfortable behind the wheel. I truly appreciate his patience and encouragement throughout my lessons.
-      I highly recommend Dinesh Rawat to anyone looking for a great driving instructor. Thank you for all your guidance and support!
+      ⭐⭐⭐⭐⭐ Super Duper Amazing Experience!
+      
+      I had an absolutely amazing experience learning to drive with Alkeshbhai at Arrow Driving School! He is a fantastic instructor who is very patient, supportive, friendly, and professional. His way of teaching is excellent, and he explains everything clearly, making driving lessons comfortable and enjoyable.
+      Alkeshbhai builds confidence behind the wheel and makes sure you understand the rules and techniques of safe driving. His guidance, encouragement, and practical tips are truly valuable.
+      If you're looking for a great driving instructor who genuinely cares about helping you learn, I highly recommend Alkeshbhai and Arrow Driving School! Thank you, Alkeshbhai, for such a wonderful experience.  🙌🚘
+      Highly recommended to anyone looking to become a confident and safe driver! ⭐⭐⭐⭐⭐
+  - name: "Yashita Chhabra"
+    rating: 5
+    comment: |
+      I had a great experience with this driving school. The instructor (Mr. Ram Rana) was patient, professional, and explained everything clearly. I especially appreciated the practical tips while driving.
+      
+      One area that could be improved is spending a little more time on parking skills, especially teaching simple tricks and easy techniques for different types of parking. That would make it even easier for new drivers to build confidence.
+      
+      Overall, I highly recommend this driving school!
 ---

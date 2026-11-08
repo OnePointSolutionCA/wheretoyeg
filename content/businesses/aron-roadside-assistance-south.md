@@ -6,7 +6,7 @@ subcategory: "mechanics"
 neighborhood: "Edmonton"
 address: "11623 51 Ave NW, Edmonton, AB T6H 0M4"
 rating: 4.6
-review_count: 259
+review_count: 267
 tier: "featured"
 phone: "(780) 604-2206"
 website: "https://www.aronroadsideassistance.ca/"
@@ -14,27 +14,30 @@ google_maps: "https://maps.google.com/?cid=8647425309393631896&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/aron-roadside-assistance-south.jpg"
 reviews:
-  - name: "Alexander Ketchum"
+  - name: "Mustafa Alam"
     rating: 5
     comment: |
-      They fixed my tire very quickly! Definitely a great and very convenient option for vehicle assistance!
-  - name: "trevor beniston"
+      Had an unexpected punctured tire around the uofa and needed help fast. I called Aron Roadside Assistance and they arrived way quicker than expected. The technician was friendly, professional, and got my spare tire on safely and efficiently. Will definitely call them again!! Good competitive prices tooo
+  - name: "Maggie Huang"
     rating: 5
     comment: |
-      I've used their service twice now in the last couple of months to urgently repair flat tires.  Aron was always prompt, professional and a pleasure to talk to.  The customer service is excellent and the quality of the work is great.  No complaints at all and will call again if I need help in the future. Definitely recommend their service!
-  - name: "Mehrdad Yousefpoori-Naeim"
-    rating: 2
-    comment: |
-      He was almost on time and replaced my battery, but he was not friendly and was reluctant to answer questions. He also charged me an extra $20 for just using his multimeter on my battery for a second!
-  - name: "Brian Wang"
+      Found a big nail in my front tire late Wednesday evening, and I had to pick up my son at 9:30. It was urgent, and I'd never dealt with this kind of situation before. I called a couple of mobile services — no response. Aron answered right away, told me exactly when he could come, and arrived on time. He had all the tools in his car, explained everything, answered all my questions, and fixed the flat professionally. In a stressful moment, he made me feel safe and taken care of — and I still picked up my son on time. I'm so grateful. Highly recommend!
+  - name: "Don Turgeon"
     rating: 5
     comment: |
-      Good service, my car is 750li, battery dead for 5 month. Two towing company can not boost it. This guy got my car started. He have multiple starter. My car have two battery. That is really helpful
-  - name: "bhuvan kalia"
-    rating: 1
+      Aaron was great. I had a flat tire unexpectedly, I had my vehicle jacked up and lug nuts removed. My tire would not come off and I didn't know what to do. Aaron got it off with a big rubber mallet. He looked at my tire and suggested replacing it later on which I'll do. All other tires are good. I'll definitely book again for that tire replacement.
+  - name: "Honest Opinion"
+    rating: 5
     comment: |
-      Scam Alert – Beware!
-      This guy showed up for a roadside service but didn’t even put on a spare tire. He was unprofessional, rude, and completely unprepared—he didn’t even have a cutter to remove a wire from the tire. Then, he had the audacity to take my plates and demand payment without completing the job. Stay away from this scammer!
+      Speedy response
+      Friendly service
+      Saved the Day!!
+      Highly recommend
+      Thankfully it wasn't a long wait got right to work upon arrival. Finished in s timely manner.
+  - name: "Barry Ward"
+    rating: 4
+    comment: |
+      The service was great. I would recommend Aron first.
 hours:
   monday: "9:00 AM–2:00 AM"
   tuesday: "9:00 AM–2:00 AM"

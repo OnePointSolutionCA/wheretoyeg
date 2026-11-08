@@ -24,7 +24,7 @@ photos:
   - "/photos/aqua-aesthetics-med-spa-laser-g1.jpg"
   - "/photos/aqua-aesthetics-med-spa-laser-g2.jpg"
 rating: 5.0
-review_count: 76
+review_count: 80
 amenities:
   - "Family Friendly"
   - "Wheelchair Accessible"
@@ -32,40 +32,27 @@ tags: ["edmonton", "medspa"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Nav Handa"
+  - name: "L Z"
     rating: 5
-    date: "2026-08-29"
     comment: |
-      I had a really great experience with Nav during my IV infusion. She was very kind, professional, and made me feel comfortable throughout the whole process. She explained everything clearly and took the time to make sure I was comfortable and well taken care of. I truly appreciated her caring and friendly approach. Highly recommend Nav for making the experience so smooth and positive! ❤️
+      I had filet and Botox and was very unsure of what it could look like and trust that it would look natural. I was not disappointed excellent services. Not only is the spa good at what they do they make you feel like friends that are always welcome. Just lovely people. Would recommend going and seeing for yourself. Thank you for making me feel good in my skin.
   - name: "jashandeep kaur"
     rating: 5
-    date: "2026-08-20"
     comment: |
       I had an exceptional experience with my HydraFacial at this salon. From the moment I walked in, the atmosphere was welcoming, elegant, and professional. Nav was absolutely wonderful—very knowledgeable, attentive, and professional throughout the entire treatment. She took the time to understand my skin concerns and made sure I was comfortable at every step.
       
       The HydraFacial itself was incredibly relaxing, and the results were amazing. The massage was amazing I don’t have enough words to describe how relaxing it was. I could see and feel the difference immediately after the treatment.
-  - name: "Brooklyn Baird"
+  - name: "saron asefaw"
     rating: 5
-    date: "2026-06-26"
     comment: |
-      I cannot recommend AQUA Aesthetics MED SPA & Laser enough! From the moment I walked in, I was welcomed by such a friendly, professional, and knowledgeable team. The spa is absolutely beautiful, spotless, and has such a relaxing atmosphere that immediately puts you at ease.
-      
-      I went in for laser hair removal, and my experience exceeded every expectation. The staff took the time to explain the entire process, answer all of my questions, and make sure I was comfortable throughout the treatment. Their attention to detail and genuine care for their clients really sets them apart.
-      
-      The results have been amazing, and I noticed a difference much sooner than I expected. The treatments were efficient, and the technicians were incredibly skilled, making the experience as comfortable as possible. It’s clear that they use high-quality technology and truly prioritize client satisfaction.
-      
-      If you’re considering laser hair removal or any aesthetic treatments, AQUA Aesthetics MED SPA & Laser is the place to go. Their professionalism, expertise, and exceptional customer service make them stand out from other clinics. I will absolutely be returning and recommending them to all of my friends and family. Five stars isn’t enough!
-  - name: "shyla sohanpal"
+      Very first experience atAqua Aesthetics. Made me so comfortable and Nav listened to my skin concern I have melasma for many years. Had myfirst session for Facial and chemical peel,felt so good my skin feels renewed and excited for next appointment here again.very professional and place itself is very clean, highly recommended.
+  - name: "Ravinder Kaur"
     rating: 5
-    date: "2026-07-04"
     comment: |
-      Went to Aqua and Had an amazing hydra facial and laser from Nav, you should definitely  check out this place. So welcoming so comfortable and would highly recommend to anyone looking for any services.
-  - name: "Tshiro Titus"
+      I had a wonderful experience getting a HydraFacial here! The service was excellent, and Nav was very friendly, professional, and welcoming. She explained everything clearly and made me feel comfortable throughout the treatment. My skin felt so fresh, clean, hydrated, and glowing afterward. I’m really happy with the results and would definitely recommend her service to anyone looking for a great HydraFacial experience! 💕✨
+  - name: "Kawal Virk"
     rating: 5
-    date: "2026-07-22"
     comment: |
-      My very first time getting injections. Came all the way out of Edmoton, heard alot about Aqua Aesthetics Medspa & Laser.
-      Got full face balance and Botox. I love the results for full face lift with fillers, huge difference love my smile the way I look now.
-      Nav walked me through whole process and was very patience during.
-      Highly recommend if someone is scared of fillers or full face transformation please choose this place n Nav.
+      I have recently visited at Acua Aesthetics MED SPA & Laser which provides High-quality care and a great atmosphere for men!
+      I had an excellent experience at Acua Aesthetics. Right from the moment I walked in, the staff made me feel entirely welcome and comfortable. They are incredibly professional, knowledgeable, and took the time to explain the process clearly, ensuring all my questions were answered. The clinic itself is clean, modern, and has a great layout. If you’re a guy looking for top-tier skincare or laser treatments without any of the intimidation factor, this is the place to go. Highly recommend!
 ---

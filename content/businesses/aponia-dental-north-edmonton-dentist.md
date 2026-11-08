@@ -24,36 +24,31 @@ photos:
   - "/photos/aponia-dental-north-edmonton-dentist-g1.jpg"
   - "/photos/aponia-dental-north-edmonton-dentist-g2.jpg"
 rating: 4.7
-review_count: 238
+review_count: 240
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "orthodontists"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Sarah Lerner"
+    rating: 5
+    comment: |
+      Our family has been going to Aponia Dental for about 3-4 years. We’ve always had a great experience. The front office staff are very friendly and welcoming. The hygienists are fantastic as well. My daughter absolutely loves Sue. She is so patient and great at explaining things to kids. Yolanda is fantastic as well. Overall we love Aponia and their wonderful staff!
   - name: "Vilen Yoeun"
     rating: 5
-    date: "2026-06-17"
     comment: |
       My 5-year-old daughter looks forward to every dental visit and often asks me to book her another appointment, even when she doesn’t need one! The entire team (from the front desk staff to the assistants, hygienists, and doctors) is amazing. Everyone is friendly, caring, and truly goes above and beyond to provide exceptional customer service. Thank you for making every visit such a positive experience!
-  - name: "M Mazhar"
-    rating: 5
-    date: "2026-04-22"
-    comment: |
-      I've never been happier with a dental clinic than I am with Aponia. The staff is super friendly and welcoming; the lovely ladies and dental team gave me great support. They're gentle and caring, but still do an awesome job. I’m now bringing my family here, there's just no place better than Aponia! They really are the best!
-  - name: "Aaron Magona"
-    rating: 5
-    date: "2026-06-03"
-    comment: |
-      This is the second review I've ever written in my life but Aponia dental deserves it from the bottom of my heart I love everyone there from the dentists to the hygienists to the reception. Everyone was so kind to me and took my concern and pains seriously despite 2 other dentists not doing so. Dr Wong was so helpful during my wisdom tooth removal explaining everything so clearly and going out of his way to make sure I understand. He even went out of his way to inquire about any competitive programs I may be in whether sports or academics in order to not disrupt that with the recovery period.  As I have two insurances he even went out of his way to attempt to make sure I use them in a way that gives me the best benefit I've never been in such a place where each single persons shows so much care and makes you feel safe and welcomed I love this place and hope to go here for the rest of my life.
   - name: "Kayla Gridzak"
     rating: 5
-    date: "2026-06-24"
     comment: |
       Very grateful for the team at Aponia Dental ! They are friendly , caring , knowledgeable and offer great care. They took wonderful care of me and my two children . My 3 year old loved it so much , he was actually upset that I went back in for an appointment without him.
-  - name: "Nadine Shpur"
+  - name: "Aaron Magona"
     rating: 5
-    date: "2026-04-15"
     comment: |
-      Aponia is great, seriously all the staff there are lovely and I have had excellent experiences with both dentists. Everyone there is a real person and they are all extremely knowledgeable in what they do, the best part though is how welcoming they are and the degree of care they put into making sure each client is comfortable. I have had cleanings, fillings, and recently wisdom tooth extractions - all of these things went through smoothly because of the team at Aponia Dental!
+      This is the second review I've ever written in my life but Aponia dental deserves it from the bottom of my heart I love everyone there from the dentists to the hygienists to the reception. Everyone was so kind to me and took my concern and pains seriously despite 2 other dentists not doing so. Dr Wong was so helpful during my wisdom tooth removal explaining everything so clearly and going out of his way to make sure I understand. He even went out of his way to inquire about any competitive programs I may be in whether sports or academics in order to not disrupt that with the recovery period.  As I have two insurances he even went out of his way to attempt to make sure I use them in a way that gives me the best benefit I've never been in such a place where each single persons shows so much care and makes you feel safe and welcomed I love this place and hope to go here for the rest of my life.
+  - name: "Kai Oubre"
+    rating: 5
+    comment: |
+      Best dental office I have ever been to! All of the employees and especially Nicole at the front desk or so so kind, and Dr. Wong is an amazing dentist and kept me so calm during my wisdom teeth surgery and they took such great care of me after!!
 ---

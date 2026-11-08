@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Mill Woods"
 address: "7319 29 Ave NW #207, Edmonton, AB T6K 2P1"
 rating: 5
-review_count: 70
+review_count: 79
 tier: "featured"
 phone: "(780) 322-0067"
 website: "https://www.dentistmillwoods.com/"
@@ -24,18 +24,18 @@ reviews:
     rating: 5
     comment: |
       I was referred here for my dental implant. From the very first appointment, the entire team was kind, professional, and made me feel completely at ease. They took the time to explain everything thoroughly and answered all of my questions, which really helped ease my nerves. The procedure itself went smoothly  and I felt well cared for every step of the way. I would highly recommend this clinic to anyone considering dental implants.
-  - name: "Darlene Bitz"
+  - name: "Oli A"
     rating: 5
     comment: |
-      I can’t say enough good things about Arch Dental. I went in for a cleaning and exam, and the entire experience was smooth, gentle, and genuinely reassuring. Everyone there is kind, patient, and incredibly attentive. Dr. Elliott took the time to explain everything clearly and made the whole appointment surprisingly easy. I’m genuinely grateful to have found a clinic that treats patients with such exceptional care.
-  - name: "Viktoriia Mykhailenko"
+      This has been the quietest and calmest dentist office I've ever been to! Highly recommend for extremely anxious people like myself. They are attentive, patient and kind.
+  - name: "Sabrina Hicks"
     rating: 5
     comment: |
-      I had a great experience with Dr. Elliott and the team at Arch Dental. I developed some severe pain after my tooth extraction, and Dr. Elliott was very responsive and saw me promptly to help treat it. He was kind, professional, and gave me clear instructions for my recovery. I really appreciate the prompt and caring service!
-  - name: "amanda laluk"
+      I had a wonderful experience at ARCH Dental! The staff were friendly, welcoming, and professional from the moment I walked in. Everyone took the time to make me feel comfortable and explained everything clearly throughout my appointment. The office was clean, modern, and inviting, and the service was excellent. I truly appreciate the care and attention I received. I would definitely recommend ARCH Dental to anyone looking for a great dental office!
+  - name: "Aiden Lagman"
     rating: 5
     comment: |
-      I am thankful that Arch Dental was able to get me booked in quickly and have treatment completed the same day. Staff are friendly and the office is clean. Dr Elliott was efficient and professional.
+      I went to get 4 wisdom teeth extracted today, and this place exceeded my expectations! Although quicker than I had imagined, the process was still done with care. Both the dentist and the dental assistant were also attentive, and made sure I was comfortable from start to finish. 10/10 I would highly recommend! I can safely say that Arch Dental ensures you are in good hands.
 hours:
   monday: "9:00 AM–3:00 PM"
   tuesday: "10:00 AM–5:00 PM"

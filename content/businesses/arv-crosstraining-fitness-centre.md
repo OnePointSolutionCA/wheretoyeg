@@ -22,38 +22,40 @@ hours:
 photos:
   - "/photos/arv-crosstraining-fitness-centre-g1.jpg"
   - "/photos/arv-crosstraining-fitness-centre-g2.jpg"
-rating: 4.7
-review_count: 43
+rating: 4.8
+review_count: 42
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "crossfit"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "p m"
+    rating: 1
+    comment: |
+      He is a very good coach and clearly knowledgeable, but one area that needs improvement is phone usage during training sessions. He often seems busy on his phone, which can make it feel like he’s not fully focused on clients.
+      
+      If he could put his phone away during sessions and give clients his full attention, the overall experience would be much better. I personally know few people who stopped training with him because of the constant phone use. Watching videos or spending time on the phone during paid sessions doesn’t leave a professional impression.
+      
+      He has great potential as a coach, but being more present and engaged with clients would help him retain more business and provide a better training experience.
+  - name: "Harmeet Singh"
+    rating: 5
+    comment: |
+      I’ve been going to ARV Fitness for over two months now, and the results have been noticeable—something I didn’t experience while working out at a local gym. Vishal focuses heavily on building strength and core, and his approach really works. Training feels purposeful, structured, and effective. Highly recommend ARV Fitness and Vishal if you’re serious about real results.
   - name: "Manpreet Singh"
     rating: 5
-    date: "2026-04-01"
     comment: |
       Training with ARV Crosstraining over the past 4 months has been one of the best decisions I’ve made for my health. When I started, my A1c was above 9, and I knew I had to make a serious change. With consistent workouts, proper guidance, and the right mindset, I’ve been able to bring it down to 7.2—and this is just the beginning.
       
       Beyond the numbers, I feel a huge difference in my daily life. I have more energy, better strength, improved stamina, and a much more positive mindset. The structured training, constant motivation, and accountability kept me on track even on the tough days.
       
       Big thanks to ARV Crosstraining for pushing me, supporting me, and believing in me throughout this journey. If you’re serious about transforming your health and staying consistent, I highly recommend it. Real results come with real effort—and I’m proud to be on this path.– Manpreet
-  - name: "Rammi Sidhu-Dhaliwal"
-    rating: 5
-    date: "2026-02-07"
-    comment: |
-      I have been with ARV fitness for 7 months and it is amazing! The vibes are excellent and Vishal is a great trainer that has not only pushed me to my limits but I have also seen results!! Will continue with this gym moving forward!
-  - name: "Varinder Minhas"
-    rating: 5
-    date: "2026-02-07"
-    comment: |
-      I would highly recommend Vishal as a trainer. He runs his gym with passion !
-      His CrossFit regime is a well rounded combination of cardio, and strength exercises.
-      He pushes you to exceed your limit but also ensures that you have a proper technique while lifting weights to stay injury free .
   - name: "Jasmeen Brar"
     rating: 5
-    date: "2026-06-11"
     comment: |
       I had great experience working with ARV fitness. Vishal helped me a lot with the training. I had very positive experience and felt safe and comfortable while training with him. Definitely recommend 👍
+  - name: "Rammi Sidhu-Dhaliwal"
+    rating: 5
+    comment: |
+      I have been with ARV fitness for 7 months and it is amazing! The vibes are excellent and Vishal is a great trainer that has not only pushed me to my limits but I have also seen results!! Will continue with this gym moving forward!
 ---

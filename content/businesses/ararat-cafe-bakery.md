@@ -24,7 +24,7 @@ photos:
   - "/photos/ararat-cafe-bakery-g1.jpg"
   - "/photos/ararat-cafe-bakery-g2.jpg"
 rating: 4.8
-review_count: 203
+review_count: 237
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -35,40 +35,32 @@ tags: ["edmonton", "international"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Kwokman Ng"
+    rating: 5
+    comment: |
+      June 12/26
+      
+      First time there for coffee. Totally surprise for us. Good coffee, good service, good treats and good deals too. Would like to go there again and try other pastry.
+  - name: "Sena Sezer Syed"
+    rating: 5
+    comment: |
+      This was an amazing experience. The food was authentic (İzmir bombası could be improved :)), we tried elmalı kurabiye (apple cookie), mozzarella poğaça, potato börek, tea, Kurdish coffee (menengiç), trileçe, spicy pepper bread and they offered extra cookies simply because they forgot to cut our börek before serving when we weren’t even expecting them to. The hospitality was truly unmatched, the staff was very kind and helpful. It was neither empty nor overcrowded. The prices were moderate, we had to pay less than 15 dollars per person. I will very likely be visiting often. I loved hearing Turkish from the kitchen. I felt like I was in Türkiye :) I wish continued success for Ararat.
+  - name: "Melody Everest"
+    rating: 5
+    comment: |
+      We went for breakfast. My husband and I shared a  breakfast mezze plate and each had a pastry and a Turkish coffee. The vegetables were fresh and well prepared. The pastries are delicious and there are a lot to choose from.i especially enjoyed the mozzarella and black olive stuffed croissant type pastry. My husband had the pizza and it was very good.  We will definitely come again.
   - name: "Nadia Obaid"
     rating: 5
-    date: "2026-06-22"
     comment: |
       Ararat Cafe & Bakery is a true hidden gem in Edmonton! The Turkish coffee is absolutely amazing—rich, authentic, and perfectly prepared. Everything we tried, both sweet and savory, tasted homemade and was bursting with flavor. You can really tell that care and quality go into every item they serve.
       
       The staff are incredibly friendly and welcoming, making the whole experience even more enjoyable. The atmosphere is cozy and inviting.
       
       If you're looking for authentic flavors, excellent service, and a comfortable atmosphere, Ararat Cafe & Bakery is definitely worth a visit. We'll be coming back again and again!
-  - name: "Melody Everest"
-    rating: 5
-    date: "2026-06-12"
-    comment: |
-      We went for breakfast. My husband and I shared a  breakfast mezze plate and each had a pastry and a Turkish coffee. The vegetables were fresh and well prepared. The pastries are delicious and there are a lot to choose from.i especially enjoyed the mozzarella and black olive stuffed croissant type pastry. My husband had the pizza and it was very good.  We will definitely come again.
   - name: "Daniel Tran"
     rating: 5
-    date: "2026-06-23"
     comment: |
       Visit: June 2026
       
       A nice cozy cafe with very delicious Turkish baked savory and dessert foods! We came in when it just opened and everything was so fresh and delicious and the smell was amazing. Place is a bit small, but that adds to the charm. Lots of windows for natural lighting
-  - name: "Rashad Rashadulhaq"
-    rating: 5
-    date: "2026-04-19"
-    comment: |
-      Came across Ararat  through the YEG Halal Facebook page and decided to check it out with my wife and son.
-      Really glad we did  it has that cozy, family run feel where you just feel comfortable right away. Nothing fancy, just a warm spot with good vibes.
-      We tried a mix of pastries and desserts. The sesame pastry was fresh and tasty, and the sweets were soft, syrupy, and topped with pistachios definitely sweet, but that’s part of the experience.
-      Overall, a nice casual place to sit down, enjoy some food, and spend time with family. Worth checking out if you’re in the area.
-  - name: "mobina mosannafat"
-    rating: 5
-    date: "2026-07-08"
-    comment: |
-      Everything was amazing!
-      Staffs were so kind and pastries were so fresh.
-      Kurdish coffee was the most delicious coffee I had so far!
 ---

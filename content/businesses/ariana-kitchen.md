@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos: ["/photos/ariana-kitchen-1.jpg", "/photos/ariana-kitchen-2.jpg", "/photos/ariana-kitchen-3.jpg"]
 rating: 4.6
-review_count: 281
+review_count: 406
 price_range: "$$"
 amenities:
   - "Halal"
@@ -31,6 +31,14 @@ tags: ["edmonton", "afghan", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Eng.R"
+    rating: 5
+    comment: |
+      I really love this place, I visited so many times and tried many dishes.
+      I recommend the service and staff. Very nice environment and clean.
+      However, I feel the amount of food every time decreasing and not the same compared to my first visit.
+      But overall, it's great place and very busy.
+      All the best 👍
   - name: "Jeaddhist"
     rating: 5
     comment: |
@@ -39,18 +47,6 @@ reviews:
       Atmosphere-wise, the place is bright and clean and there was even fresh flowers at each table. The only reason I could not give five stars for this category was due to lack of toilet paper in the washrooms. I did tell a staff member and was assured it would resupplied right away. (To be clear, the washrooms were very clean.)
       
       Overall, this was an enjoyable visit. Good value/prices and great food. We are already planning our next visit!
-  - name: "p c"
-    rating: 4
-    comment: |
-      Food was really good and service was fast and friendly. We ordered the Family Platter and honestly the quantity was way too much - great value.
-      
-      Only issue was the lamb was undercooked, which was disappointing. Everything else was delicious.
-      
-      We would still come back and would recommend, but would ask them to cook the lamb properly next time.
-  - name: "Haris Azimi"
-    rating: 5
-    comment: |
-      Had an amazing time here! The food was delicious, and the staff were very friendly and welcoming. I would definitely recommend this place. It’s a great spot for a family dinner or to celebrate any special occasion with your loved ones. I’ll definitely be coming back!
   - name: "Gina"
     rating: 5
     comment: |
@@ -65,4 +61,11 @@ reviews:
     rating: 5
     comment: |
       Wonderful restaurant. The food was amazing, we ordered the Qabuli polo, chapli kabab and the manto. All of the dishes were amazing. The staff were very friendly. Would 100% recommend trying this restaurant out!
+  - name: "Kirk Dewhurst"
+    rating: 5
+    comment: |
+      👍🏻👏🏼 amazing food.  This was our first visit and our group was very impressed with the meals we ordered. I had the lamb shank, it was served hot and the meat was fall off the bone tender. The portions were large and all in our group were very happy with their meal. The Manto and Bolani were fantastic.
+      
+      The restaurant opened recently in the old Swiss Chalet location with a full renovation and it is very comfortable and the ambiance is great.  There is ample parking and easy access to the restaurant.
+      The servers were courteous and polite. We had an excellent time and will definitely be back.
 ---

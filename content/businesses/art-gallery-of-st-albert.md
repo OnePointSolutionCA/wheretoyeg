@@ -32,24 +32,24 @@ tags: ["edmonton", "outdoor"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Any Liu"
+    rating: 5
+    comment: |
+      This is a free art gallery that welcomes everyone. What a great place to step back and appreciate the local artists and buy something to support them. They have many selections of art, mugs, notebooks, soap, coffee, chocolate, stickers, and much more to see. If you need a gift item, come and take a look! You will find something nice to give. 🎁
   - name: "Doris Best"
     rating: 4
-    date: "2026-06-12"
     comment: |
       Some very talented artist. Have. Their. Work on display there and. Some are for sale. Different items. Yo bee admired ! Interesting visit, helpful staff!!
   - name: "Ficus"
     rating: 5
-    date: "2024-09-20"
     comment: |
       Fantastic little gallery in a historic bank building showcasing Canadian artwork.
   - name: "Nikki Ewing"
     rating: 5
-    date: "2026-01-21"
     comment: |
       Wonderful experience at the art gallery. It's beautiful to see a team with so much love for their work, it shows in everything they do there.
-  - name: "Allissa Fletcher"
-    rating: 5
-    date: "2017-11-16"
+  - name: "Ryker Shank"
+    rating: 1
     comment: |
-      Nice little gallery. Shows rotate often, gallery upstairs is very nice. Staff have always been fantastic and kind to my kids, helping them interact and question the artwork. The gift area is nicely curated and I have found nice gifts for friends here.
+      this place sucks I spilled paint on the floor and I called it my new art piece and they threw me out and beat me with paint brushes
 ---

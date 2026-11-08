@@ -30,14 +30,14 @@ tags: ["edmonton", "bangladeshi", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Jamshed Nawaz"
-    rating: 4
-    comment: |
-      Mom was craving for Bangladeshi food. We were near AR Royal Kitchen, so picked up Chicken Roast Egg Pulao, Fried Rohu, Fish Do Pyazu, Baingan bharta, Jalebi and chai. First of all the owner is the friendlest and we got excellent service while waiting for the food. The Roast Pullao is amazing...amazingly fragrant rice. We had Jalebi which were delicious with chai. Good food, great friendly service.
   - name: "Rj Valencia"
     rating: 5
     comment: |
       Awesome food, with incredibly friendly staff and a welcoming owner! Everything was fresh, delicious, and far exceeded our expectations. Definitely a place we’d love to visit again!
+  - name: "Jamshed Nawaz"
+    rating: 4
+    comment: |
+      Mom was craving for Bangladeshi food. We were near AR Royal Kitchen, so picked up Chicken Roast Egg Pulao, Fried Rohu, Fish Do Pyazu, Baingan bharta, Jalebi and chai. First of all the owner is the friendlest and we got excellent service while waiting for the food. The Roast Pullao is amazing...amazingly fragrant rice. We had Jalebi which were delicious with chai. Good food, great friendly service.
   - name: "Doc Stranger"
     rating: 4
     comment: |

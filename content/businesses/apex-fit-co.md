@@ -22,7 +22,7 @@ photos:
   - "/photos/apex-fit-co-2.jpg"
   - "/photos/apex-fit-co-g3.jpg"
 rating: 5
-review_count: 22
+review_count: 23
 price_range: "$$"
 amenities:
 
@@ -42,14 +42,6 @@ reviews:
       After my 10-day pass, I decided to sign up for the year. Unfortunately, just two days after signing up, I broke my foot playing soccer. I was really upset about the situation, but I reached out to Apex by text to ask if I could pause my membership, and they accommodated me right away without any questions or hassle. That level of understanding and customer service meant a lot to me.
       
       I would highly recommend Apex to anyone looking for a welcoming, empowering, motivating, and supportive gym. I can’t wait to get back once my foot heals!
-  - name: "Morgan Brabbins"
-    rating: 5
-    comment: |
-      I’d give this place more than 5 stars if I could! Krysta and her team of instructors have created a truly exceptional space in Apex. Each and every instructor (especially Krysta herself) operates on a strict platform of rejecting social pressures of what bodies should or shouldnt look like; instead championing the core values of building confidence and strength, both with body and mind. As an adult it’s very hard to see working out as more than a punishment for your body, but at Apex they have very successfully turned it into a community that pushes eachother to be their best selves. You’re truly among friends there and I’m so blessed to have found this place.
-  - name: "Shan Newton"
-    rating: 5
-    comment: |
-      Love this place! Without a doubt, one of the best gyms I have ever joined in my life! Krysta  is one of the loveliest people ever who cares so much for all of her members and every single instructor is phenomenal, friendly, and so invested in making sure that you have A fun and safe workout. If you are looking for a wonderful gym with a wide variety of super fun workouts and really amazing people, I promise you will find all of that at Apex fit co.
   - name: "Sarah Erickson"
     rating: 5
     comment: |
@@ -58,4 +50,12 @@ reviews:
     rating: 5
     comment: |
       Apex Fitness is absolutely the best and truly is my workout home. The spin and Pilates classes are challenging, well-structured, and  so so fun. The instructors are motivating, inspiring and genuinely supportive, which makes every class better. The atmosphere is so warm and welcoming and beautifully positive, truly has become my family and I always leave feeling stronger and centered again. I always highly recommend to everyone I speak to.
+  - name: "Kim Wheatley"
+    rating: 5
+    comment: |
+      This space and the people in it is warm and inviting. There are so many classes and every one is unique and run so well by the amazing instructors. Krysta is motivating and runs classes that make fitness fun, my all time favourite being her High classes. It feels like therapy and every single time I walk out of those doors after a class, I feel amazing and uplifted. Do yourself a favour sign up, you won’t regret it! ❤️
+  - name: "Des Hay"
+    rating: 5
+    comment: |
+      I would recommend checking out this studio if you’re interested in moving your body with intention in a supportive, fun, and non-judgmental environment. The atmosphere is encouraging without pressure, and the focus isn’t on being the best, but on being yourself and moving in a way that feels good. Krysta is kind and warm, and it’s clear that her presence and values shape the way this space is held.
 ---

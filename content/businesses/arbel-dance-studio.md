@@ -42,16 +42,16 @@ reviews:
     rating: 5
     comment: |
       Finally, we found what we’ve been looking for such a long time! ❤️Arbel studio is an Excellent Latin dance classes with truly professional and passionate teachers. Highly recommend! 💃✨
-  - name: "Borys Gorfunkel"
+  - name: "Христина Бенюх"
     rating: 5
     comment: |
-      This is one of the best Latin dance studios I’ve ever seen. The instructors are very professional and make every class exciting and fun. Highly recommend!
-  - name: "Cristina Budnitcaia"
+      I recently had the chance to see the kids perform and watch their training at Arbel Dance Studio, and honestly, I haven’t seen this level in Edmonton in a long time! The training is professional, the kids are amazing, and you can really see how much passion and work the coaches put into what they do. Absolutely incredible! Highly recommend Arbel Dance Studio! 🔥❤️
+  - name: "Алпатова Вєроніка"
     rating: 5
     comment: |
-      Great Latin dance studio! Amazing teachers and fun classes.
-  - name: "Lilia Shlomovitch"
+      I had a private dance class with Illia and it was such a great experience! Illia is honestly the best coach very professional, patient, and easy to learn from. The whole class was so much fun, and I felt very comfortable from the beginning. I definitely recommend taking a class with him!
+  - name: "Ростік Толобистюк"
     rating: 5
     comment: |
-      Amazing Latin dance studio with great energy and talented teachers. You can really see how much the students improve here.
+      highly recommend this studio. coach Illia is the best latin dancer that i've seen. you can always expect patience and support from coaches
 ---

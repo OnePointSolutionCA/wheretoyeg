@@ -24,37 +24,31 @@ photos:
   - "/photos/apex-chiropractic-natural-health-center-g1.jpg"
   - "/photos/apex-chiropractic-natural-health-center-g2.jpg"
 rating: 4.9
-review_count: 224
+review_count: 225
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "chiropractors"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Leah H"
+    rating: 5
+    comment: |
+      I highly recommend this clinic as I always have a good experience with everyone at this office. Dr Brandon is an amazing and very helpful chiropractor. I generally have a hard time relaxing my muscles during adjustments or on “command” and he is easy to relax around making adjustments more productive. It also helps that explains everything very well.  He is also helpful for sport related wear on the body and recommendations to stay active and healthy.
   - name: "Paramjeet Chumber"
     rating: 5
-    date: "2026-06-26"
     comment: |
       Amazing client care. Brandon is very knowledgeable and helpful chiropractor! He has helped me feel so much better with issues I've had for years. Highly recommend!
-  - name: "Todd Johns"
-    rating: 5
-    date: "2026-04-21"
-    comment: |
-      I have been a long time patient at Apex. Dr.Nutting is a great chiropractor always has your well being top of mind. Great listener and always has great advice to keep your back in great shape. Absolutely recommend him and his team. Massage and acupuncture is also available.
-  - name: "Jihad El Aboussi"
-    rating: 5
-    date: "2026-03-18"
-    comment: |
-      Dr. Chris is incredibly professional, knowledgeable, and genuinely caring. My whole family visits Apex Chiropractic for adjustments, and we’ve had a fantastic experience every time. He doesn’t just do adjustments; he actively encourages daily exercises to keep our mobility going.
-      I recently had a work injury that left me unable to bend or rotate my knee. Thanks to Dr. Chris, I had a very fast recovery and am now walking completely pain-free with full mobility. You truly feel renewed after every visit. I highly recommend Dr. Chris and the team at Apex Chiropractic!
   - name: "Yuneisis Veliz"
     rating: 5
-    date: "2026-03-26"
     comment: |
       Our family has been looking for a good chiropractor and we found it. Brandon is amazing, very patient and we always leave with such a relief. The reception ladies are amazing and very friendly. Thank you all for your help
   - name: "Nicholas F"
     rating: 5
-    date: "2026-08-07"
     comment: |
       Dr Brandon knows his stuff. Always listens and responds with appropriate adjustments. Highly recommend Apex Chiropractic, Dr Brandon and the team at Apex Chiropractic
+  - name: "Todd Johns"
+    rating: 5
+    comment: |
+      I have been a long time patient at Apex. Dr.Nutting is a great chiropractor always has your well being top of mind. Great listener and always has great advice to keep your back in great shape. Absolutely recommend him and his team. Massage and acupuncture is also available.
 ---
