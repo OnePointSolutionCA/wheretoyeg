@@ -1938,5 +1938,25 @@
     "source": "/restaurants/chick-fil-a",
     "destination": "/restaurants",
     "permanent": true
+  },
+  {
+    "source": "/restaurants/bernardo-diner",
+    "destination": "/restaurants/family",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/the-backyard-smokehouse",
+    "destination": "/restaurants/family",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/kanto-98-street-eats",
+    "destination": "/restaurants/vietnamese",
+    "permanent": true
+  },
+  {
+    "source": "/restaurants/soul-fuel-kitchen",
+    "destination": "/restaurants",
+    "permanent": true
   }
 ]

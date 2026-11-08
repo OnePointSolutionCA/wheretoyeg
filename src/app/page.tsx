@@ -32,8 +32,8 @@ import { areaSlug } from "@/lib/place";
 
 const toSlug = areaSlug;
 
-// Short window so the daily rotation flips within minutes of Edmonton midnight.
-export const revalidate = 600;
+// Hourly so the daily rotation flips within an hour of Edmonton midnight (was 10 min, which cost a lot of Vercel cache writes).
+export const revalidate = 3600;
 
 export function generateMetadata(): Metadata {
   // Rounded down to the hundred so the title doesn't change with every new listing.

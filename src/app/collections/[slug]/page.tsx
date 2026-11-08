@@ -8,7 +8,9 @@ import { toListItem } from "@/lib/slim";
 import { breadcrumbSchema, itemListSchema, JsonLd } from "@/lib/schema-extra";
 import { fitTitle, metaDescription, pageMeta } from "@/lib/seo";
 
-export const revalidate = 3600;
+// Content only changes on deploy (every push and the daily refresh job rebuild everything),
+// so a once a day safety refresh is enough and keeps Vercel cache writes low.
+export const revalidate = 86400;
 
 export async function generateStaticParams() {
   return COLLECTIONS.map((c) => ({ slug: c.slug }));

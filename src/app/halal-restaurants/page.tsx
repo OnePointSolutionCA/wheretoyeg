@@ -18,7 +18,9 @@ import { displayDayHours } from "@/lib/openNow";
 
 /** One indexable page for the site's biggest niche: every restaurant marked halal. */
 
-export const revalidate = 3600;
+// Content only changes on deploy (every push and the daily refresh job rebuild everything),
+// so a once a day safety refresh is enough and keeps Vercel cache writes low.
+export const revalidate = 86400;
 
 const PATH = "/halal-restaurants";
 

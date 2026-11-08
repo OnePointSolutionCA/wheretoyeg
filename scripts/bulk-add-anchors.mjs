@@ -205,19 +205,6 @@ const BUSINESSES = [
 
   // ─── RESTAURANTS ────────────────────────────────
   {
-    name: "Kanto 98 Street Eats",
-    slug: "kanto-98-street-eats",
-    category: "restaurants",
-    subcategory: "vietnamese",
-    description: "Filipino street food kitchen in Central Edmonton — pork sisig, adobo rice bowls, lechon kawali, garlic longganisa. Halal-friendly options, casual, family-owned. No alcohol.",
-    address: "10708 97 St NW",
-    neighborhood: "Central Edmonton",
-    tags: ["filipino", "street-food", "asian", "family-owned"],
-    amenities: ["Dine-In", "Takeout", "Family Friendly"],
-    rating: 4.6, review_count: 890, priceRange: "$$",
-    hours: HOURS_RESTO,
-  },
-  {
     name: "Farrow Sandwiches",
     slug: "farrow-sandwiches",
     category: "restaurants",

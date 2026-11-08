@@ -18,7 +18,9 @@ const toSlug = areaSlug;
 /** Categories people search by town first, so titles lead with them when the area has enough. */
 const TITLE_ORDER = ["restaurants", "activities-fun", "cafes-coffee-shops", "medical", "auto-repair", "barbers", "hair-salons", "gyms-fitness", "bakeries"];
 
-export const revalidate = 3600;
+// Content only changes on deploy (every push and the daily refresh job rebuild everything),
+// so a once a day safety refresh is enough and keeps Vercel cache writes low.
+export const revalidate = 86400;
 
 export async function generateStaticParams() {
   return SITE.neighborhoods.map((n) => ({ slug: toSlug(n) }));

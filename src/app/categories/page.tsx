@@ -6,7 +6,9 @@ import { getBusinesses, getCategories } from "@/lib/content";
 import { breadcrumbSchema, JsonLd } from "@/lib/schema-extra";
 import { CategoryIcon } from "@/components/CategoryIcon";
 
-export const revalidate = 3600;
+// Content only changes on deploy (every push and the daily refresh job rebuild everything),
+// so a once a day safety refresh is enough and keeps Vercel cache writes low.
+export const revalidate = 86400;
 
 const TITLE = "All categories and services in Edmonton";
 const DESCRIPTION =

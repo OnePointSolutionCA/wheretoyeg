@@ -27,7 +27,7 @@ import { edmontonDay } from "@/lib/daily";
 import { IntroText } from "@/components/LinkedText";
 import { WhereToStart } from "@/components/WhereToStart";
 
-export const revalidate = 600;
+export const revalidate = 3600;
 
 export async function generateStaticParams() {
   return getCategories().map((c) => ({ category: c.slug }));

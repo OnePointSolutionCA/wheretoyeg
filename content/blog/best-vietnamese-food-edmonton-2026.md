@@ -29,10 +29,6 @@ Pho is the gateway, and Edmonton does it right.
 
 [Hanoi Pho Vietnamese Kitchen](/restaurants/hanoi-pho-vietnamese-kitchen) specializes in northern Vietnamese cooking. Hanoi-style pho is different from the southern version, cleaner broth, fewer toppings, and the focus is entirely on the soup itself.
 
-## Modern and fusion
-
-[Kanto 98 Street Eats](/restaurants/kanto-98-street-eats) brings Filipino-Vietnamese crossover flavors to the mix. It's not traditional, but it's delicious.
-
 ## Tips for ordering
 
 - **Pho sizes:** most places offer small, medium, and large. Medium is usually plenty.

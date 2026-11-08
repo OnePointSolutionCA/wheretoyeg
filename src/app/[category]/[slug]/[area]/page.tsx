@@ -10,7 +10,9 @@ import { AreaHub, areaHubMetadata } from "@/components/AreaHub";
  * Exists from HUB_MIN listings; indexed from HUB_INDEX (see AreaHub).
  */
 
-export const revalidate = 3600;
+// Content only changes on deploy (every push and the daily refresh job rebuild everything),
+// so a once a day safety refresh is enough and keeps Vercel cache writes low.
+export const revalidate = 86400;
 
 export async function generateStaticParams() {
   return allHubs()

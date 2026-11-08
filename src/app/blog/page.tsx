@@ -6,7 +6,9 @@ import { distinctCovers, postCategory } from "@/lib/blogMedia";
 import { GuideCard, formatDate } from "@/components/RelatedGuides";
 import { pageMeta } from "@/lib/seo";
 
-export const revalidate = 3600;
+// Content only changes on deploy (every push and the daily refresh job rebuild everything),
+// so a once a day safety refresh is enough and keeps Vercel cache writes low.
+export const revalidate = 86400;
 
 const TITLE = "Edmonton Guides & Best Of Lists | The WhereToYEG Blog";
 const DESCRIPTION =

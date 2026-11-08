@@ -66,7 +66,9 @@ const FOOD_CATEGORIES = new Set(["restaurants", "cafes-coffee-shops", "bakeries"
  * We check the subcategory first; if no match, we look for a business by slug.
  */
 
-export const revalidate = 3600;
+// Content only changes on deploy (every push and the daily refresh job rebuild everything),
+// so a once a day safety refresh is enough and keeps Vercel cache writes low.
+export const revalidate = 86400;
 
 export async function generateStaticParams() {
   const params: { category: string; slug: string }[] = [];
@@ -470,9 +472,14 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
                   <span className="inline-flex min-h-[32px] items-center gap-1.5 rounded-full border border-line bg-white px-3 text-teal shadow-sm">
                     <PinIcon size={14} className="text-coral" /> {place}
                   </span>
-                  <span className="inline-flex min-h-[32px] items-center rounded-full border border-line bg-white px-3 shadow-sm">
-                    <OpenNowBadge hours={b.hours} season={b.season} />
-                  </span>
+                  {/* The open status fills in after load and its text length varies, so it gets
+                      its own line on phones and a fixed width above that. Otherwise the chip row
+                      rewraps after load and pushes the page down (layout shift). */}
+                  <div className="w-full sm:w-auto">
+                    <span className="inline-flex min-h-[32px] items-center rounded-full border border-line bg-white px-3 shadow-sm sm:min-w-[13.75rem] sm:justify-center">
+                      <OpenNowBadge hours={b.hours} season={b.season} />
+                    </span>
+                  </div>
                 </div>
               </div>
             </div>

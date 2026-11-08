@@ -13,7 +13,9 @@ import { pickAdvertiser } from "@/lib/advertisers";
 import { SITE } from "@/lib/site";
 import { fitTitle, metaDescription, pageMeta } from "@/lib/seo";
 
-export const revalidate = 3600;
+// Content only changes on deploy (every push and the daily refresh job rebuild everything),
+// so a once a day safety refresh is enough and keeps Vercel cache writes low.
+export const revalidate = 86400;
 
 export async function generateStaticParams() {
   return getBlogPosts().map((p) => ({ slug: p.slug }));

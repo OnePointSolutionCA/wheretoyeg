@@ -6,7 +6,9 @@ import { getBusinesses } from "@/lib/content";
 import { neighborhoodSlug, neighborhoodStats } from "@/lib/neighborhoods";
 import { AreaTile } from "@/components/AreaTile";
 
-export const revalidate = 3600;
+// Content only changes on deploy (every push and the daily refresh job rebuild everything),
+// so a once a day safety refresh is enough and keeps Vercel cache writes low.
+export const revalidate = 86400;
 
 const TITLE = "Edmonton Neighborhoods & Nearby Towns | Local Guides";
 const DESCRIPTION =
