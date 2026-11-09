@@ -23,7 +23,7 @@ hours:
 photos:
   - "/photos/athletes-choice-massage-downtown-edmonton-g1.jpg"
 rating: 4.8
-review_count: 156
+review_count: 161
 amenities:
   - "Direct Billing"
   - "Wheelchair Accessible"
@@ -31,9 +31,14 @@ tags: ["edmonton", "massage-therapy"]
 active: true
 date_listed: "2026-10-03"
 reviews:
+  - name: "Em Real"
+    rating: 5
+    comment: |
+      I have been to Athlete’s Choice Massage at the Downtown location several times, and I’ve consistently had a great experience. Tracy, RMT, is professional, knowledgeable, and very attentive. She takes the time to listen to my concerns and makes sure the treatment is tailored to my needs.
+      
+      I really appreciate Tracy’s caring approach, attention to detail, and the quality of her treatments. I always leave feeling relaxed and well taken care of. I highly recommend Tracy to anyone looking for an excellent RMT. I will definitely continue coming back!
   - name: "Ave Cade"
     rating: 5
-    date: "2026-07-30"
     comment: |
       Without a doubt, the best massage I've ever received in my 30 years.
       
@@ -44,28 +49,21 @@ reviews:
       10/10—I would absolutely recommend her to anyone.  Thank you for such an outstanding experience!
   - name: "Maria I"
     rating: 5
-    date: "2026-07-25"
     comment: |
       Nathalia has been my massage therapist for a few months now & I can’t say enough great things about my experience with her! She has helped me improve my posture and has given me an amazing home care plan to help stretch my muscles. She is so kind, calm & listens to my needs. Booking regular appointments with her has been the best decision I’ve made for my body this year. I would highly highly recommend Nathalia!!
-  - name: "Laurence Espallardo"
+  - name: "Chanelle D"
     rating: 5
-    date: "2026-03-19"
     comment: |
-      I had a great experience with CK. He made me feel completely comfortable and at ease, which really helped since I was a bit nervous going in. The massage itself was amazing. I left feeling so much lighter and refreshed.
-      
-      CK is professional and attentive, and genuinely cares about his clients’ well-being. I’m glad I found him and will definitely be coming back. Highly recommend!
-  - name: "Monwa Xala"
+      Clean, professional and cozy. Convenient location and website, overall great with zero complaints!
+      Emma, in both TMJ & therapeutic massages, is incredible. I value relaxing environments and personalities, I've never felt rushed or unvalued
+  - name: "Peter K."
     rating: 5
-    date: "2026-06-02"
     comment: |
-      I arrived with extremely tight calves and achilles, and Emma immediately got to work releasing everything that was locked up. Throughout my marathon training, she’s kept my lower legs feeling strong and has also worked on other spots where I often carry tension.
+      Exceptional is an understatement !
+      I probably just had the best massage ever… I’m still trying to comprehend how great everything was. Shout out to “CK” H. for an absolutely amazing consultation. I explained to him my issues and he listened but mostly DELIVERE.
+      We need more people like CK
       
-      She always asks the right questions and tailors each session to exactly what your body needs. Fantastic care.
+      5 star across the board
       
-      "Life's too short to be sore".
-  - name: "Kayla Byers"
-    rating: 5
-    date: "2026-02-23"
-    comment: |
-      I had the most amazing experience at Athletes Choice Massage today. Andre provided an exceptional massage and really targeted problem areas. He worked on trigger points and was very attentive to areas that needed extra work. If you are interested in an actual therapeutic deep tissue massage I highly recommend. I have tried many massage clinics throughout Edmonton searching for this type of massage and found that most places end up giving a very generic relaxation massage. This was not the case here and I really appreciated Andre’s attention to detail and excellent patient care. Will be coming back!
+      Merci :)
 ---

@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "4005 Clover Bar Rd #90, Sherwood Park, AB T8H 0M4"
 rating: 4.9
-review_count: 409
+review_count: 414
 tier: "featured"
 phone: "(780) 449-5225"
 website: "https://aspentrailsdental.com/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=GMB"
@@ -14,30 +14,38 @@ google_maps: "https://maps.google.com/?cid=17993169824077823752&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/aspen-trails-dental.jpg"
 reviews:
-  - name: "Aly Popa"
+  - name: "Amanda Schultz"
     rating: 5
     comment: |
-      Although we are new patients to this clinic, I can say that the vibe here is what I’d expect anywhere. The ladies at the front are kind and inviting, very friendly.
-      Our first appointment my kids and I each in separate spaces but all of us had a positive experience. They let me get up and make sure my kids were doing okay. All three of the hygienists were phenomenal. Kind, explained things clearly and with positivity. They were excellent with young kids, and with me. My hygienist was gentle and thorough, and listened to me about feeling nauseous with fluoride. Had some great conversation and gave great tips to try to get my whole family flossing more without it feeling judgemental. They really are caring and polite with how they address things here.
-      Our one child needed a filling and an extraction or root canal, and the dentist offered her advice - which I agreed with on going the extraction route.
-      A month later we came to do that extraction and filling. A scary thing for a young kid, but Dr. Aube was incredible. I cannot say enough good things about her from just this one visit. She listened, she made it as fun as possible, made it seem like they were playing a game to get rid of the sugar bugs with the help of Mario and his friends. My child didn’t even know that their tooth was pulled, until it was shown. Incredible! The dentist and hygienist did everything they could to make my kid feel comfortable and did it as quickly and painless as possible.
-      Dr Aube reminded me that there would be a visit from the tooth fairy - which I almost forgot! Appreciate that as well. We left with our aftercare instructions and no feeling of anxious or scared. It was a success, and although I hope this is the only time it happens, I’d feel more than comfortable knowing my children are in kind and caring hands of Dr Aube and the hygienists at Aspen Trails.
-      Thank you Dr. Aube!
-  - name: "Karen Fakeley"
+      My dental journey started with some unfortunate tooth pain after neglecting my regular checkups and cleanings. From the very beginning, I was never met with judgment or negative energy. Only kindness, patience, love, and understanding.
+      
+      After my diagnosis and working out a plan to address the issue, my anxiety understandably started to build. But on the day of my appointment, the entire office treated me with such genuine care that, little by little, my anxiety seemed to melt right into the chair beneath me.
+      
+      Unfortunately, my dental issues didn’t end there. About a year later, I found myself needing more work done, and those same familiar feelings of anxiety started creeping back in. That’s when I met Mary Lee.
+      
+      Mary Lee didn’t just help me through the diagnosis... she helped me through the dental work itself. She provided so much reassurance, patience, and support that what I expected to be a difficult root canal quickly became an experience I’ll never forget.
+      
+      Not because it was bad.. because it was amazing.
+      
+      Yes, the pain itself wasn’t exactly enjoyable, but that was mostly because I needed a root canal! Every time I flinched or felt uncomfortable in the chair, Dr. Chizen immediately stopped and addressed the issue. I always felt heard, cared for, and safe.
+      
+      I’ll be honest: I wasn't exactly the most diligent person when it comes to my dental hygiene in the past. But I do make sure to see the crew every six months, and even though it’s been a while since Mary Lee has been the one working on my teeth, I can confidently say that the entire office embodies the same care and compassion she showed me during those appointments.
+      
+      If you have dental anxiety... or if you have children, especially children who experience dental anxiety - this is the office for you. You will not be disappointed.
+      
+      Thank you, Aspen Trails Dental, for taking such amazing care of not only me, but my family as well. I’m incredibly grateful to have found such a kind, compassionate, and caring dental team.
+  - name: "Austin Connell"
     rating: 5
     comment: |
-      I was in June 29/26 for my scaling.  I had the best hygienist I ever had.  Her name was Karen.  I always have fear when I go to the dentist.
-      The whole procedure was painless.  First time ever.  I will be asking to have Karen do all my appointments going forward.  Thanks for being so gentle.
-  - name: "rioo pa"
+      It had been a while since I’d been to the dentist, Hannah and Dr. Bennett did a great job making me feel comfortable. Lynne was my hygienist and she was very thorough, knowledgeable and kind. Great place!
+  - name: "Michelle 101"
     rating: 5
     comment: |
-      I don’t usually write reviews, but I felt I had to because I’m so happy with my experience at this dental office (I’ve been to four over the years as a military spouse). From the moment I walked in, the staff were kind and professional. Amanda and Emily were especially helpful and took the time to clearly explain my insurance coverage.
-      
-      Candace was very welcoming and knowledgeable, walking me through each step and explaining the equipment, which really put me at ease. My hygienist, Heba, was friendly and very thorough without being overwhelming, and she made sure I was comfortable the entire time (I even had a massage chair on!).
-      
-      I also really appreciated Dr. Nelson asking if I was happy with how my teeth looked—no dentist has ever asked me that before. I could tell they were all busy, and even so, they worked really well together and made each transition between rooms feel smooth and seamless. The care felt very gentle and patient-focused, which made the whole visit completely stress-free.
-      
-      The clinic is clean, well-organized, and runs smoothly. This is easily the best dental experience I’ve had and I look forward to my next appointment!
+      My husband had a wonderful experience at Aspen Trail Dental. The staff was friendly and very welcoming, and I especially want to  thank Rachel F.
+      My husband had a stroke 3 years ago and was very nervous about going to see a dentist after a previous bad experience. Rachel was very patient and understanding, and took the time to explain everything clearly, making sure he felt comfortable and never pressured.
+      He left the appointment feeling happy and much more at ease. We are so grateful for the kindness and compassionate care we received.
+      Thank you,
+      Michelle
   - name: "C W"
     rating: 5
     comment: |
@@ -50,10 +58,10 @@ reviews:
       The atmosphere in the office is reassuring. You can feel the teamwork and cohesiveness amongst the staff. I’m impressed with the level of kindness they all have.
       
       This office has exceeded my expectations.  I’ve been to numerous dentists over many decades and this office wins FIRST PLACE!  I would give Aspen Trails Dental “6” stars!  EXCEPTIONAL!
-  - name: "Mary Hagstrom"
+  - name: "Stacy G (Stacy LG)"
     rating: 5
     comment: |
-      The staff at Aspen Trails Dentist in Sherwood Park is very friendly and efficient.  A special mention goes to Rachel D who is not only an excellent hygienist but she goes above and beyond her skills. Besides being knowledgeable, she is personable and kind. Going to the dentist can be a stressful visit but Rachel D makes my experience very enjoyable.
+      Spoke with Amanda about getting my daughter set up as a patient as she moved to the Sherwood Park area, Amanda got the transfer of care done, and the office contacted my daughter straight away to arrange an appointment. So friendly, so professional and efficient. 10/10 recommend!!!
 hours:
   monday: "8:00 AM–4:00 PM"
   tuesday: "8:00 AM–8:00 PM"

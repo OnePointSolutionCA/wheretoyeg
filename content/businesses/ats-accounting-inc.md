@@ -21,7 +21,7 @@ hours:
 photos:
   - "/photos/ats-accounting-inc-3.jpg"
 rating: 4.8
-review_count: 429
+review_count: 431
 price_range: "$$"
 amenities:
 
@@ -29,14 +29,20 @@ tags: ["edmonton", "accounting"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Maria Pamela Lim"
+  - name: "Evan Rokeby-Thomas"
     rating: 5
     comment: |
-      ATS team has been helping us with our business and personal taxes for years. They are highly knowledgable, professional and reliable. They communicate with their clients in a timely manner and they get things done right.  Sean is amazing and he takes time to know his clients personally. I highly recommend ATS if you are looking for business and personal tax solutions. Thanks ATS!
-  - name: "Anthony"
+      As a self-employed musician, I don’t make a lot of money. But I ran into a tax issue that almost terrified me. The team at ATS Accounting was considerate, kind, professional and knowledgeable, and had the skills and the people to make everything very straightforward. I can’t tell you how grateful I was for their help.
+      Their rates are very reasonable, and they found deductions and expenses that I didn’t even know I could claim. I came in expecting to pay thousands. I walked out the door knowing I would be getting a refund. I absolutely recommend them for any tax issues you have. Many thanks to all of you!
+  - name: "Shyrra Pinder"
     rating: 5
     comment: |
-      At ATS accounting I was greeted with a personable and warm team. They handled my case with professionalism and care. Abraham, Sean and the rest of the team went above and beyond in servicing my needs.  I cannot recommend this firm more. I am very satisfied with my service.
+      ​Filing taxes used to be something I absolutely dreaded, but ATS Accounting completely changed that! They made the entire process incredibly smooth and easy.
+      ​From the moment I walked in, the receptionist was so welcoming and polite, and the office itself is immaculate, highly professional, and very well-maintained.
+      
+      ​Working with my representative, Abraham, was an absolute breeze. He was so easy to deal with and made the whole experience feel like catching up with an old friend. On top of the fantastic service, their rates are very reasonable and fair.
+      
+      ​If you want a stress-free tax season with great people and great prices, I highly recommend them!
   - name: "GS"
     rating: 5
     comment: |
@@ -50,21 +56,12 @@ reviews:
       
       Thank you, Sean, for your excellent service and support over the years.
       – Gobinath.S
-  - name: "antoun hijazzi"
+  - name: "Kendra Semeschuk"
     rating: 5
     comment: |
-      I had a great experience with ATS Accounting. The team was very professional, friendly, and patient throughout the whole process. They made everything easy to understand and took the time to answer all my questions without rushing me.
-      
-      They handled my tax filing carefully and efficiently, and I felt confident that everything was done correctly. The service was fast, organized, and stress-free.
-      
-      I really appreciate how respectful and helpful they were with me. I would definitely recommend ATS Accounting to anyone looking for reliable and trustworthy help with their taxes.
-  - name: "Shyrra Pinder"
+      ATS has been the best, most efficient accounting team to deal with. I have had so much hesitation to deal with my taxes , and they made everything so straight forward and easy. I was able to clean up two years of taxes, headache free. Highly recommend!
+  - name: "Maria Pamela Lim"
     rating: 5
     comment: |
-      ​Filing taxes used to be something I absolutely dreaded, but ATS Accounting completely changed that! They made the entire process incredibly smooth and easy.
-      ​From the moment I walked in, the receptionist was so welcoming and polite, and the office itself is immaculate, highly professional, and very well-maintained.
-      
-      ​Working with my representative, Abraham, was an absolute breeze. He was so easy to deal with and made the whole experience feel like catching up with an old friend. On top of the fantastic service, their rates are very reasonable and fair.
-      
-      ​If you want a stress-free tax season with great people and great prices, I highly recommend them!
+      ATS team has been helping us with our business and personal taxes for years. They are highly knowledgable, professional and reliable. They communicate with their clients in a timely manner and they get things done right.  Sean is amazing and he takes time to know his clients personally. I highly recommend ATS if you are looking for business and personal tax solutions. Thanks ATS!
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "9:30 AM–9:00 PM"
 photos: ["/photos/asian-grocery-centre---indian-south-asian-supermarket-1.jpg", "/photos/asian-grocery-centre---indian-south-asian-supermarket-2.jpg", "/photos/asian-grocery-centre---indian-south-asian-supermarket-3.jpg"]
 rating: 4.2
-review_count: 214
+review_count: 215
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,6 +30,10 @@ tags: ["edmonton", "south-asian"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Syed Zeeshan"
+    rating: 5
+    comment: |
+      Sher atta at very good price.
   - name: "Manpreet S Gujral"
     rating: 1
     comment: |
@@ -38,14 +42,6 @@ reviews:
     rating: 5
     comment: |
       Great place … all items are easily available.. great staff
-  - name: "Daniella"
-    rating: 5
-    comment: |
-      Best place for western union in Edmonton!! Easy and fast and trustworthy:)
-  - name: "Ghimire Rajin"
-    rating: 4
-    comment: |
-      All kind of Asian items are available their but staff are not so friendly
   - name: "Gurpreet Kingra"
     rating: 1
     comment: |
@@ -54,4 +50,8 @@ reviews:
       I tried to return it twice. The first time, nothing was resolved. I went again today, hoping they would take responsibility, but once again, no refund, no exchange, and more wasted time and money. Out of frustration, I left the handi there. I had no reason to take home a defective item I couldn’t use.
       
       I’m now out $35 and hours of my time. The customer service was terrible, and the owner was dismissive (acting like my concerns didn’t matter). The product quality was even worse. I won’t be shopping here again and strongly recommend others be cautious, especially when buying cookware.
+  - name: "Ghimire Rajin"
+    rating: 4
+    comment: |
+      All kind of Asian items are available their but staff are not so friendly
 ---

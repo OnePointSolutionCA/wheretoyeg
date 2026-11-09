@@ -19,8 +19,8 @@ hours:
   saturday: "Closed"
   sunday: "Closed"
 photos: []
-rating: 5
-review_count: 762
+rating: 4.9
+review_count: 764
 price_range: "$$"
 amenities:
 
@@ -28,21 +28,16 @@ tags: ["edmonton", "financial-advisors"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Allison Fu"
+  - name: "Pedro Sierra"
     rating: 5
     comment: |
-      I recently worked with **Ascendant Financial**, and I had a fantastic experience throughout the entire process. The agent, **Brent**, was extremely professional, patient, and genuinely thorough. He clearly explained the procedure step-by-step, and he made sure I understood both the benefits of the program and how it could help me.
+      We had an excellent experience working with Elizabeth. She was extremely helpful in guiding us through all of our questions and concerns regarding the process of setting up our insurance policy.
       
-      What I appreciated most was Brent’s level of guidance and support—he helped me with setup and made everything feel straightforward. He walked me through the details, answered my questions thoroughly, and ensured I knew exactly what to do next, including how to move forward with the necessary contact and information.
+      She is very knowledgeable. We especially appreciated the advanced information systems and tools she provided, which allowed us to review all the details at our own pace and make a well-informed decision without feeling rushed or pressured.
       
-      Overall, I felt supported from start to finish, and I highly recommend Ascendant Financial (and Brent) to anyone looking for clarity, confidence, and real help getting everything set up correctly.
-  - name: "Robert White"
-    rating: 5
-    comment: |
-      I met Josh through Ascendant Financial Inc. while working to develop and implement an Infinite Banking Concept (IBC) system for my family. From the start, he has been incredibly helpful in not only explaining how to use the system, but also helping me refine and improve it to better meet our goals.
-      Josh consistently provides valuable resources, points me toward additional education, and takes the time to clarify questions and concepts I didn’t fully understand. His depth of knowledge and willingness to teach really set him apart.
-      I’ve worked with another group in the IBC space before, and while they were good, the level of service, expertise, and educational support I’ve received from Josh and his organization is truly on another level—head and shoulders above the others I’ve encountered.
-      If you’re serious about learning and implementing IBC the right way, I highly recommend working with Josh and Ascendant Financial.
+      She was always accessible, patient, and willing to provide the information and guidance we needed. Her professionalism, knowledge, and commitment to finding the best options for us made the entire process much easier and more comfortable.
+      
+      We highly recommend her to anyone looking for a knowledgeable, trustworthy, and customer-focused insurance advisor.
   - name: "Sumithra Krishnakumar"
     rating: 4
     comment: |
@@ -51,12 +46,26 @@ reviews:
       Throughout the process, he was very knowledgeable, patient, and always available to answer my questions. Their whole team's guidance made what could have been a complicated decision much easier and gave me confidence that I was making the right choice.
       
       I highly recommend their services to anyone looking for trustworthy financial advice and assistance with life insurance planning. Thank you for your professionalism and dedication!
+  - name: "Allison Fu"
+    rating: 5
+    comment: |
+      I recently worked with **Ascendant Financial**, and I had a fantastic experience throughout the entire process. The agent, **Brent**, was extremely professional, patient, and genuinely thorough. He clearly explained the procedure step-by-step, and he made sure I understood both the benefits of the program and how it could help me.
+      
+      What I appreciated most was Brent’s level of guidance and support—he helped me with setup and made everything feel straightforward. He walked me through the details, answered my questions thoroughly, and ensured I knew exactly what to do next, including how to move forward with the necessary contact and information.
+      
+      Overall, I felt supported from start to finish, and I highly recommend Ascendant Financial (and Brent) to anyone looking for clarity, confidence, and real help getting everything set up correctly.
+  - name: "Jordan Perry"
+    rating: 5
+    comment: |
+      Lorraine has been an incredible advisor and has made the Infinite Banking Concept easy to understand and apply. She is extremely knowledgeable and always takes the time to explain how each strategy fits with our family’s goals.
+      
+      I’ll be the first to admit that I probably wasn’t the easiest client to work with. My day-to-day life is extremely busy, and I wasn’t always quick to respond or provide what she needed. Lorraine was incredibly patient with me, never made me feel pressured, and remained available and supportive throughout the entire process.
+      
+      What really sets Lorraine apart is how much she genuinely cares about the people she works with. Her guidance has helped us think differently about building wealth and creating greater financial flexibility for our family.
+      
+      We’re very grateful to have Lorraine as our advisor and would highly recommend her to anyone interested in learning more about the Infinite Banking Concept.
   - name: "Michael Dickson"
     rating: 5
     comment: |
       Ravi has been a delightful man to patiently guide me through my new process of learning. I would recommend him to ANYONE. Thank you for great service now and in the days to come.
-  - name: "Deborah Koch"
-    rating: 5
-    comment: |
-      Since my very first call with Ascendant Financial , to the present day, Jeff  Treleaven has gone above and beyond finding what fits best for me and mine.  He has been consistent with many choices of products, succinctly explains everything until I understand fully, and has surpassed any expectations of customer service I have ever experienced. Jeff, together with Emily have held my hand through the process and are available for questions every time I have run into one. My experience has been nothing short of exceptional! Thank you!
 ---

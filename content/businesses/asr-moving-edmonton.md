@@ -24,16 +24,33 @@ photos:
   - "/photos/asr-moving-edmonton-g1.jpg"
   - "/photos/asr-moving-edmonton-g2.jpg"
 rating: 4.9
-review_count: 476
+review_count: 482
 price_range: "$$$$"
 amenities: []
 tags: ["edmonton", "moving"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Shelley Lowe"
+    rating: 1
+    comment: |
+      Our experience with this company was horrible. My water was off when they arrived, and the men asked if they could use the washroom. I told them the water was off. They gave me a look of panic so I went and reattached the appliances that I had disconnected and turned the water on. They urinated on the floor and carpet of the bathroom.
+      They didn’t place any protection down for the floors or stairs. I had to specially request this be done. They refused to protect the stairs.
+      I would prefer teenage boys get paid to do my moving than this company. The damage they did to my home was unacceptable. The floors were scratched up. The edges of the stairs were scraped off. I have gouges in my walls, the baseboards are destroyed, and the metal on the side of my front door is dented in.
+      I could go on and on about why I would not recommend this company and the lack of care they have for someone’s home and lack of professionalism.
+      DO NOT HIRE THEM!
+      It’s been over three weeks and we still have not heard back from management.
+      Disrespectful and unprofessional!!
+  - name: "Candace Birch"
+    rating: 1
+    comment: |
+      I hate leaving bad reviews, but I hired ASR because they gave me the best quote and had such high google reviews. However, when it came time for my move, there was 0 communication. I had an arrival time of 9-10am with a call to let me know when they were on their way, and at 1030am I called them to see where they were as they had not shown up yet and I hadn't recieved a call. I was told they were already on their way, yet no one called to tell me. They arrived over an hour and a half late, and coming around to my back patio to load up, they got stuck in the mud. They ripped up city property trying to get out, and eventually had another truck come pull them out...with rachet straps...that broke! 2 hours later, they were finally out and able to start my move. My move finally started at 2pm, not 9-10am, and I had to cancel my elevator block at my new place from 1130am-130pm because they were stuck until 2pm. I called the company to cancel, and was offered a mere $30 off my entire bill. I tried to cancel, so they counter offered $14/hour off. At this point I was trying to find friends with trucks and muscle to do the job for me but couldn't last min, so once they were unstuck, I allowed them to do my move anyway. 5.5 hours later, I'm finally in my new place (8pm). The movers stopped multiple times and were caught sitting in the truck and standing beside it doing nothing. When all was said and done, I was puking from pain and stress, and still paid almost $500 more than I had planned for given the quote I got. Not at all impressed with my first moving company experience, especially given the reviews I read before hiring ASR specifically.
+  - name: "tanveer singh"
+    rating: 5
+    comment: |
+      I’ve tried other movers before but these guys are different. The level of care and awareness of surrounds they display is exceptional. I hired them to move my heavy items to my new place, not a single item and walls were damaged. Not a scratch even. Would highly recommend and I’m very grateful of these two gentlemen who moved my stuff. It was a wonderful experience. 5/5.
   - name: "Jesse J Garnier"
     rating: 5
-    date: "2026-07-02"
     comment: |
       ⭐⭐⭐⭐⭐
       
@@ -44,19 +61,8 @@ reviews:
       The two gentlemen who handled the move were professional, hardworking, and took great care of all of my belongings. They worked efficiently without rushing, and the entire move went smoothly from start to finish.
       
       If you’re looking for a moving company that is responsive, reliable, and genuinely cares about providing great service, I would highly recommend ASR Moving. Thank you again for making a difficult situation so much easier!
-  - name: "Mark Boswell"
-    rating: 5
-    date: "2026-07-27"
-    comment: |
-      I would highly recommend Asr Moving to anyone. From the beginning Anees was informative, accommodating and communicated very clearly and quickly.On the day of the move, our movers arrived early- which never happens and was a pleasant surprise. Anees and his assistant (I didn’t get his name) we’re very careful with all of our items and moved us quickly and efficiently. Nothing was broken or scraped and the move for our one bedroom was done in just over 4 hours.They were even able to move our large, wide couch by lifting it over our fence. We were very happy with our service from start to finish and the price was very fair.
   - name: "Jen DM"
     rating: 5
-    date: "2026-09-04"
     comment: |
       The crew at ASR Moving were great! They were friendly, professional, efficient and clearly experts. We moved from a house to 2 locations and they made it so much easier for us. The quoting process was also really well done and accurate. We’ll definitely use them again. Special thanks to Lovish, Param, Babbu and Nathan!
-  - name: "Denisa Lungu"
-    rating: 5
-    date: "2026-08-31"
-    comment: |
-      After dealing with another moving company who did not respond to my calls after booking them,Asr Moving saved the day. The dispatch called me the day before to confirm all details which made me feel confident that everything would be done in a timely manner.Anas & Tariq were professional, quick, efficient and extremely helpful.They took any additional request or direction with stride and were able to get the job done right. I would highly recommend.
 ---

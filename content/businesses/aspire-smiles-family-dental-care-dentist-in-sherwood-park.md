@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Sherwood Park"
 address: "3810 Sherwood Dr #160, Sherwood Park, AB T8H 0Z9"
 rating: 4.9
-review_count: 387
+review_count: 420
 tier: "featured"
 phone: "(780) 570-0288"
 website: "https://www.aspiresmiles.ca/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Website_URL"
@@ -14,33 +14,36 @@ google_maps: "https://maps.google.com/?cid=5959195789579284406&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/aspire-smiles-family-dental-care-dentist-in-sherwood-park.jpg"
 reviews:
-  - name: "sydney burns"
+  - name: "Cassandra Horner"
     rating: 5
     comment: |
-      Had the most wonderful experience with dental hygienist Nina! She was very knowledgeable and thorough. Genuinely the best cleaning I’ve had done. The office is bright, welcoming and people working at the front desk were so kind. Would highly recommend Aspire to anyone looking for a dental clinic!
-  - name: "K V"
-    rating: 1
-    comment: |
-      Awful place. Strongly recommend going elsewhere. I initially went here for a cleaning and suspected cavity. Without even seeing me they assumed the amount of cleaning I would need which seemed like a money grab. I told them what I wanted and after they pushed and pushed they finally agreed. They then asked if I wanted some kind of numbing for pain. I was very confused having been for a lot of cleanings in my life and never having an ounce of discomfort so I declined. The cleaning was in fact painful. I complained and they put me with someone less painful the next time, indicating that it was in fact the person being poor at their job. They also filled my cavity, which was an interesting experience. I had only ever had one filled before so I wasn't sure what to expect. The whole process was uncomfortable and afterwards it felt off to me. Someone checked it and essentially gaslit me saying it was well done and I shouldn't be complaining. For a long time after it was quite painful when I would floss. I told them and they told me to wait, but ultimately said they would re-do it as it must not have bonded correctly. I want back and whatever they did the second time caused extreme masseter pain for weeks, and did not fix whatever issue they caused. I waited the amount of time they said to see but it's actually worse than it ever was, and now it traps blood all the time in the area. I believe they cracked my tooth but considering the amount of lying, pushing, and gaslighting this place does I dont trust them to fix anything. I have no idea how an entire clinic can be so terrible but they really are. I gave them three chances and they failed every time.
-  - name: "Sarah T"
-    rating: 5
-    comment: |
-      We had the best experience here with my incredibly nervous teen. We were referred to Aspire Smiles to try sedation after multiple failed attempts in another office, and I cannot say enough about the incredible skill and compassion this team brings to the table.
-      Dr Kolbe was so incredibly patient with her on procedure day, letting her make her own decision to be ready and flew through this appointment - he was able to do all 4 extractions and fill a cavity in absolutely record time. She had zero swelling, zero bruising, zero bite adjustment and needed no pain medication afterwards. He personally followed  up with us afterwards and showed so much care for her.
-      Ease of communication with front office staff to book quickly, sort payments/insurance and follow-ups rounds out our 5 star experience.
-      Highly recommend ⭐️⭐️⭐️⭐️⭐️
-  - name: "Chloe Stanley"
-    rating: 5
-    comment: |
-      I had such a great experience and that is why I keep coming back. During my emergency tooth filling, I had dental hygienist Carmela who was incredibly kind and patient while working on my sensitive tooth. She really made the whole visit more comfortable.
+      I can’t say enough wonderful things about Aspire Smiles Dental in Sherwood Park! The care that my children and I have received has always been exceptional. The entire team is so welcoming, kind, and genuinely caring, making every visit a positive experience.
       
-      Dr. Kolbe was AMAZING, especially with my fear of needles. He used a technique that completely distracted me, and it made a huge difference in keeping me calm.
+      It means so much to have a dental clinic where I know my family is in such good hands. They always take the time to make sure we’re comfortable, well taken care of, and treated with kindness and professionalism.
       
-      I am really grateful for them both and appreciate that every time I come in for a cleaning, the staff has been nothing but amazing. Highly recommend!
-  - name: "Keltie M"
+      It’s not often you find a place where you feel truly valued as a patient, but Aspire Smiles Dental consistently goes above and beyond. I’m so grateful for the wonderful care they’ve provided to both myself and my kids over the years.
+      
+      Thank you to the entire team for always making our smiles a priority! I would highly recommend Aspire Smiles Dental to anyone looking for a fantastic, family-friendly dental clinic! ❤️
+  - name: "Riley Tookey"
     rating: 5
     comment: |
-      I had the pleasure of seeing Dr. Kolbe, and it was such a great experience. The level of intentional care he gave to ensure I experienced as little pain as possible during my fillings was so appreciated. He also narrated throughout the procedure so that I could anticipate what would be happening, which reduced my overall anxiety substantially. He was extremely thorough in making sure everything was done perfectly and I can tell his work is the best quality filling I’ve ever had. I cannot recommend him enough! He is likely the best dentist I’ve ever had, and I’m not just saying that. I couldn’t have been more impressed or grateful!
+      The Aspire Smiles Family Dental Care Team Has always taken the time and care to ensure I’m aware of what’s happening and comfortable with it.  Dr Lee and the staff are very professional. I’ve had several implants and bridges done there and I can highly recommend them. Any issues were dealt with quickly and to my total satisfaction.
+      Everyone is friendly and happy to explain everything from the procedure to the billing.
+      Beat dentists I’ve ever had.
+  - name: "Brittany Elizabeth"
+    rating: 5
+    comment: |
+      Always such a great experience here! Dr. Shultz and his assistant (I didn’t catch her name, but she has dark hair with blue in it!) are both so kind and welcoming. You can really tell they love what they do, which makes such a difference.
+      
+      Mckenzie, my hygienist, is amazing! She’s so gentle and every cleaning with her has been completely pain-free. Everyone here is always so friendly and makes going to the dentist a much better experience. Definitely recommend!
+  - name: "Cheryl"
+    rating: 5
+    comment: |
+      Just switched to Aspire Smiles last month. I had been a patient of Dr. Chong’s years ago and am happy to have her as my dentist again. The hygienists and office staff have been lovely and made sure I had a thorough exam, my dental records were accurate and my insurance claims were all up to date. Dr. Chong even came in on her day off for a quick look at my old night guard. She went above and beyond to make sure everything went well.
+  - name: "Kylie Cunnington"
+    rating: 5
+    comment: |
+      I absolutely love this dentist, amazing people. And they all seem exstreamly knowledgeable in this field. Compared to any other dentist office I've ever been at throughout my life, this one is vastly above them. Its hard for me to pin exactly what they do so good. But looking back and comparing them to any other office they really do stand out as a great clinic.
 hours:
   monday: "8:00 AM–4:00 PM"
   tuesday: "11:00 AM–7:00 PM"

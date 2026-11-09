@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/atlas-walk-in-family-medical-clinic-1.jpg", "/photos/atlas-walk-in-family-medical-clinic-2.jpg", "/photos/atlas-walk-in-family-medical-clinic-3.jpg"]
 rating: 4.7
-review_count: 183
+review_count: 195
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,22 @@ tags: ["edmonton", "walk-in-clinics"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Khadija Wahib"
+    rating: 5
+    comment: |
+      I would like to express my sincere appreciation to the entire team at Clinic Atlas. It has been a long time since I have experienced such professional, friendly, and efficient service!
+      
+      The staff are incredibly welcoming, organized, and attentive. The service is fast, and the level of professionalism is truly outstanding.
+      
+      A special thank you to Dr. Salem ,the family doctor, for his professionalism, kindness, and excellent care. I would also like to thank Mr. Ahmed at the pharmacy for his outstanding service, helpfulness, and professionalism.
+      
+      The entire team deserves recognition for their hard work and dedication. You truly set a high standard for patient care and customer service!
+      
+      Thank you, Clinic Atlas, for such a wonderful experience. Keep up the amazing work! 👏🌟
+  - name: "Patrick von Hauff"
+    rating: 5
+    comment: |
+      It would be an understatement to say that the clinic and pharmacy are wonderful. The staff are so thoughtful and caring. The physicians and pharmacists are absolutely outstanding. My family and I are so happy to be patients at Atlas, and are deeply grateful to everyone there. They have made our lives better.
   - name: "Shamsa Butt"
     rating: 5
     comment: |
@@ -38,47 +54,12 @@ reviews:
       Keep it up as a team you guys are awesome 👍.
       Thank you very much for your great service 🙏.
       And I’m thinking to switch my pharmacy & family doctor (I love my family doctor, but she’s not always available) as well.
-  - name: "MJM"
+  - name: "Vicki Lea-Alex"
     rating: 5
     comment: |
-      I had a great experience at this clinic. The staff were very professional, respectful, and efficient. Everything was handled quickly without long waiting times, which I really appreciated.
-      
-      The pharmacy team was also excellent, and I want to give a special thank you to Ahmad. He was extremely polite, helpful, and took the time to explain everything clearly. His attitude made a big difference and showed genuine care for patients.
-      
-      Overall, I highly recommend this clinic for their great service and friendly staff.
-  - name: "Chloe Sybesma"
+      Unbelievable place - so kind, caring, helpful. Best GP I've ever seen. The office staff are amazing too. We are building a relationship that's strong and supportive, more so than with any other doctors I've seen
+  - name: "Amitis Naskhi"
     rating: 5
     comment: |
-      Dr. Dele is the first doctor who has really listened to me and taken my concerns seriously. I am so happy to have found him. The clinic is amazing too the front desk staff are very kind and professional. Hardly any wait time before taking me into the room. Would 100% recommend this clinic
-  - name: "Geeta Sharma"
-    rating: 5
-    comment: |
-      Excellent service, neat and tidy waiting area, waiting period for walk-ins is much less than other clinics I've been to.
-      Doctor Salem, our family doctor ,is very thorough and considerate. Very polite admin staff as well. A very good place to go to.
-  - name: "Gigi Reviews — YEG • AB • Beyond"
-    rating: 5
-    comment: |
-      A beautiful, fresh, modern clinic with a warm team, on-time appointments, an easy walk-in process, and a smooth, well-organized experience from start to finish. Prescriptions, paperwork, and next steps were handled promptly, and the location is especially convenient with easy parking, direct bus access, and a short walk from the University of Alberta and Whyte Avenue.
-      
-      For a fuller picture —
-      Atlas Walk-in & Family Medical Clinic, Edmonton, University / Whyte Avenue area offers the kind of medical visit that feels polished, efficient, and genuinely welcoming. The new office is bright, fresh, and thoughtfully designed, with a clean, modern feel that makes the whole space easy to move through and comfortable to be in.
-      
-      What stood out most was how smoothly everything came together. The staff were friendly, attentive, and pleasant to deal with, appointments were timely, and the visit felt well managed without ever feeling rushed. Practical needs were also handled quickly and professionally, including prescriptions, paperwork, and clear next steps, which made the experience feel especially reassuring and complete.
-      
-      The location adds even more convenience. With a free shared parking lot, paid street parking, direct bus access, and easy walking distance from both the University of Alberta and Whyte Avenue, it feels accessible and practical for a wide range of patients and visit types.
-      
-      At a glance:
-      - Beautiful new office with a bright, clean, modern feel
-      - Friendly staff and a welcoming overall atmosphere
-      - Timely appointments that help the visit run smoothly
-      - Easy walk-in process
-      - Prescriptions, forms, and follow-up needs handled promptly
-      - Easy-to-navigate parking and convenient transit access
-      - Well located near the University of Alberta and Whyte Avenue
-      
-      Family-friendly:
-      A smooth, welcoming clinic experience with a calm environment and efficient flow that can make visits easier for individuals, parents, and families alike.
-      
-      Parking / access:
-      Free shared parking lot, paid street parking, direct bus access, and easy walking distance from the University of Alberta and Whyte Avenue.
+      Dr Saheed is one of the best doctors I have ever seen in my whole life. He is really kind especially with my daughter, and professional And he spends a lot of time with patients and listens carefully to all your concerns and problems. The staff are really friendly and always answer the phone when you call them.
 ---

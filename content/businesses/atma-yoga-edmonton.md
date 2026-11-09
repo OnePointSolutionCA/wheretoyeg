@@ -28,28 +28,27 @@ tags: ["edmonton", "yoga"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Billie McMurdo"
+    rating: 5
+    comment: |
+      In my personal life I am employed in a difficult and mentally challenging field; x 27 years.
+      I have never felt so regulated.
+      From Lori’s yoga classes, to rad roller, to Pilates. She provides me with personal challenge, a comforting community and peace to my world! I look forward to every class with her at the lead!
+      Grateful to Lori!
   - name: "Kate Sewell"
     rating: 5
     comment: |
       I had done yoga at home for many years, but needed a change. Coming to a studio for yoga made such a difference in my practice. I love getting feedback on my poses and feeling challenged by the classes. All the instructors are great and the class levels vary from relaxing and restorative to challenging workouts. I appreciate the variety.
       Pilates with Lori has become a staple class for my week and Jay’s flow classes are some of the best yoga I’ve ever done. Modifications are always given and everybody can do every class.
       I love Atma and encourage everyone to give it a try. The studio is welcoming and clean and the instructors are friendly and encouraging.
-  - name: "Katie Raimondi"
-    rating: 5
-    comment: |
-      I have been a regular at Atma now for well over a year, and I can’t recommend this studio enough! Jay and all of the instructors at Atma are excellent - with thoughtfully choreographed classes that are challenging and engaging from start to finish.  Each class feels purposeful and well planned.  This is a fabulous studio for anyone looking to deepen their practice.
   - name: "Bonnie L"
     rating: 5
     comment: |
       Ive been to many yoga studios in the past & have never felt so welcomed by the other participants and the instructor! Jay is very knowledgeable & even funny at the right times during class.  I found the studio as I drive past on my way to & from work, checked it out online and was very impressed with the pricing for newbies! The studio is always fresh and clean smelling and I enjoy the different coloured lights and the globes make the atmosphere very calming.  I feel at peace here from the second I walk in!
-  - name: "Jeela D.M."
-    rating: 1
+  - name: "Katie Raimondi"
+    rating: 5
     comment: |
-      Registered to attend tonight, and based my plans around it. Waited outside with another gentleman who also registered but the studio never opened. Very disappointed as I really needed a yoga session tonight and could have gone somewhere else if i had known ahead of time. Wasted childcare and a drive out.
-      
-      Edit to add: I booked this class directly through the studio’s business phone number because Mindbody would not allow me to register online. I was manually booked in and confirmed as “signed in,” and I e-transferred the drop-in fee as instructed. When I arrived for the 5:30pm class, the studio was closed. I did not receive any cancellation email beforehand (I checked my inbox and spam), and I only received a message later that evening explaining the class had been cancelled.
-      
-      I understand that last-minute cancellations happen, but publicly stating that an email was sent to registered attendees when I did not receive one shifts the responsibility onto the client, and that’s not fair. I’m leaving this review up so others can plan accordingly. Screenshots prove I was only advised after the fact.
+      I have been a regular at Atma now for well over a year, and I can’t recommend this studio enough! Jay and all of the instructors at Atma are excellent - with thoughtfully choreographed classes that are challenging and engaging from start to finish.  Each class feels purposeful and well planned.  This is a fabulous studio for anyone looking to deepen their practice.
   - name: "Meghan"
     rating: 5
     comment: |

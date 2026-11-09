@@ -18,7 +18,7 @@ hours:
   sunday: "9:00 AM–11:00 PM"
 photos: ["/photos/arya-cafe-1.jpg", "/photos/arya-cafe-2.jpg", "/photos/arya-cafe-3.jpg"]
 rating: 4
-review_count: 536
+review_count: 554
 price_range: "$$"
 amenities:
   - "Halal"
@@ -32,6 +32,26 @@ uber_eats: false
 doordash: false
 skipthedishes: false
 reviews:
+  - name: "Alan Zheng"
+    rating: 5
+    comment: |
+      First time here and had a great experience. From start to finish our time here was enjoyable. The staff Uliana & Meena were very knowledgeable and patient with us as we had a lot of questions being new patrons.
+      
+      The cafe space decor was nice and music playing in the background added a nice atmosphere to the dining space.
+      
+      Food was delicious and we will definitely return with family and friends
+  - name: "Shayne Y."
+    rating: 3
+    comment: |
+      The staff was super nice, attentive, and provided great service, and the cafe was kept clean and tidy.
+      
+      While I completely respect business owners setting their own rules, right out the gate, seeing a sign for 'no studying and no working' made the space feel surprisingly inhospitable.
+      ​Having a comfortable space to sit and linger is majorly why people visit a cafe rather than grabbing a drink and running out, especially one priced at the high end of the spectrum.
+      
+      ​The coffee was good, but nothing other cafes don't already provide.
+      The pastries were just average, and considering the steep prices, I'd have a very hard time recommending them.
+      
+      Overall, the restrictive policy combined with the high cost makes it tough to justify coming back.
   - name: "Sana Ayesha"
     rating: 4
     comment: |
@@ -45,12 +65,6 @@ reviews:
     rating: 4
     comment: |
       Most of the food items were pretty good. Really liked the Eggs Benedict and Trench Toast. Pancakes were average and brewed coffee was quite underwhelming. The atmosphere is nice and service is quite good.
-  - name: "Maddy Phaurest"
-    rating: 3
-    comment: |
-      Beautiful cafe. The pastries looked fantastic and tasted pretty good. The hot chocolate was a little mild for my taste, but was good. The prices seemed a bit steep though, for 3 croissants, 2 hot chocolates and a cappuccino we ended up paying nearly 50$.
-      
-      I was surprised to find out the cafe had been open for more than a month though. While the servers were friendly and kind, service was slow and seemed confused. They ran out of cups while we were there, which was pretty surprising for a cafe. I also found the booths uncomfortable and a very tight fit - if I go again I would definitely go for a table with standard chairs to get a bit more space.
   - name: "R K"
     rating: 3
     comment: |
@@ -67,8 +81,4 @@ reviews:
       This location is a newer-developed area, and it would be really nice to have a local, non-chain little breakfast/brunch/cafe. I just wish either the portion or quality reflected the price or vice versa.
       
       That being said, I'll give this place at least one more try in the future, but I think the fact that so many people leaving reviews with concerns over the prices is fairly telling. For the food items above and two drip coffees and a latte, we spent around $92 before any tax or tip on breakfast.
-  - name: "Tariq Almaashi"
-    rating: 5
-    comment: |
-      I had the Salmon Egg Benedict and it was very delicious. Coffee was also good. The service was amazing. Very friendly staff. Nice setting. Highly recommended
 ---

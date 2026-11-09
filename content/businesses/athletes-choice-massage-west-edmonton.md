@@ -23,7 +23,7 @@ hours:
 photos:
   - "/photos/athletes-choice-massage-west-edmonton-g1.jpg"
 rating: 4.8
-review_count: 81
+review_count: 85
 amenities:
   - "Direct Billing"
   - "Wheelchair Accessible"
@@ -31,34 +31,28 @@ tags: ["edmonton", "massage-therapy"]
 active: true
 date_listed: "2026-10-03"
 reviews:
-  - name: "Alexis Carter"
+  - name: "Saqib Chaudhary"
     rating: 5
-    date: "2026-02-26"
     comment: |
-      I saw Marci for a quick apprentice chair massage and it was absolutely fantastic! They really took the time to understand what was going on in my body and the right way to treat the issues, even if it was just a quick massage! As a Massage Therapist myself they took extra time and care to make sure I was comfortable and that was so appreciative! Marci's the best!!!!
-  - name: "Lori O'Sullivan"
+      Started kinesiology assessment with Sydney. Really positive experience so far. The assessment was thorough and Sydney took the time to make sure I understood the issues and potential solutions.  This is a much better experience vs previous physiotherapy clinics I have visited.  Looking forward to continuing and seeing the results. Definitely recommend.
+  - name: "Nathan Koops"
     rating: 5
-    date: "2025-10-14"
     comment: |
-      I have found my new massage therapist! Sydney is great! She is very knowledgeable (a degree in kinesiology!) and professional. Not only did she addressed my concerns and problem areas, she hit all the good-pain spots!  She took the time before the table to better understand my issues and after to show me how to do the stretches properly.
-      The clinic was clean, comfortable and quiet. I can’t wait for my next session!
-  - name: "Liam McCallum"
-    rating: 5
-    date: "2025-12-16"
-    comment: |
-      I went for a massage with Alexys and was impressed. He was kind and professional. He took the first few minutes of the massage to find exactly which muscles were tight so he could focus on fixing my specific issues. Very good massage that left me sore for a day, but resolved most of my issue and left me feeling much better the day after. Highly recommend!
-  - name: "Ryan Thompson"
-    rating: 5
-    date: "2026-03-22"
-    comment: |
-      I’ve been seeing Jillian here for a very bad knot in my back and have been very happy. Great experience, nice rooms and great staff! Would recommend.
-  - name: "Cas Z."
-    rating: 5
-    date: "2025-10-10"
-    comment: |
-      Alexis C. was an incredible RMT! I'm a very anxious person and struggle with stress-induced migraines; Alexis C. was super attentive, skilful, and knowledgeable in helping me address my pain. She took the time to understand my migraines in great detail, including the triggers, symptoms, and preventative care. She was also very fun to chat with, and never once made the session feel uncomfortable or awkward.
+      I had a one-hour massage with Kristyn today and came away genuinely impressed.
       
-      Additionally, I found that it was a very inclusive and respectful environment for queer (2SLGBTQ+) folks, including an area for pronouns on the intake form, as well as the RMT verbally asking for explicit consent. For those with physical disabilities, the building was also very accessible.
+      Kristyn is the kind of practitioner who will elevate the reputation of any clinic fortunate enough to have her on its team. The athletic community needs more RMTs with this combination of skill, professionalism, and genuine commitment to their craft.
       
-      I really enjoyed the professional, respectful, and clean atmosphere, and the staff are very skilled and knowledgeable. I left feeling a lot better, and I'll definitely be back next time I'm in pain!
+      She has an incredibly promising career ahead of her. I would not hesitate to recommend Kristyn, and I fully expect her to become a highly sought-after RMT as her career progresses.
+  - name: "Vidhy Patel"
+    rating: 5
+    comment: |
+      Sydney is so wonderful! She's very knowledgeable about body mechanics and injuries, listens patiently and gets to the root of the issues. Ive been driving from across town specially to get her amazing help!
+  - name: "Jared Verner"
+    rating: 5
+    comment: |
+      I recently had a massage at the West Edmonton location with Sydney, I have also worked with Daisy in the past.  Both are incredibly professional and well-practiced, and I highly recommend them.
+  - name: "Gordon Yake"
+    rating: 5
+    comment: |
+      Highly recommend Athlete’s Choice. They have really helped with my sport-specific injuries, Sydney is especially knowledgeable and a great RMT.
 ---

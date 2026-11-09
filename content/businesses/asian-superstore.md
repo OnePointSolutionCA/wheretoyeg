@@ -19,7 +19,7 @@ hours:
   sunday: "10:00 AM–9:00 PM"
 photos: ["/photos/asian-superstore-1.jpg", "/photos/asian-superstore-2.jpg", "/photos/asian-superstore-3.jpg"]
 rating: 4.3
-review_count: 234
+review_count: 233
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -33,10 +33,10 @@ reviews:
     rating: 5
     comment: |
       From  Asian super store one of the  largest Indian grocery-retail Site  “mysore sandal soap is a classic product. Feels good to have bought it. Lathers well and leaves a good fragrance.”
-  - name: "Raja R"
+  - name: "ring biong"
     rating: 5
     comment: |
-      Outstanding service and also alots of variety of products are available in under one roof must visit
+      The store is looking very charming and pleasing. Above all the customer service is extraordinary and friendly
   - name: "avantika suresh"
     rating: 5
     comment: |
@@ -45,9 +45,8 @@ reviews:
     rating: 5
     comment: |
       Good indian supermarket, Everything is available here. Staff is very nice and polite
-  - name: "khalilgibran g"
+  - name: "Berlin Elso"
     rating: 5
     comment: |
-      We had great experience. Beautiful spicy stuff full of aroma that soothes and makes you feel home.
-      Plenty of stuff with affordable prices. The reception was fantastic. I would give 5 stars
+      It's a good store for grocery.I highly recommend this store to everyone. Customers service is a outstanding
 ---

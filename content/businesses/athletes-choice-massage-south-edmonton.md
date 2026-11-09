@@ -23,7 +23,7 @@ hours:
 photos:
   - "/photos/athletes-choice-massage-south-edmonton-g1.jpg"
 rating: 4.8
-review_count: 243
+review_count: 248
 amenities:
   - "Direct Billing"
   - "Wheelchair Accessible"
@@ -31,29 +31,26 @@ tags: ["edmonton", "massage-therapy"]
 active: true
 date_listed: "2026-10-03"
 reviews:
+  - name: "Anita Hicks"
+    rating: 5
+    comment: |
+      Really happy with our experience with Gurkirpal! My son Evan trains and competes in taekwondo, and I sat in during his massage appointment. I appreciated that he took the time to show me what he was noticing and explain it in simple terms. I learned quite a bit myself!
+      
+      He gave Evan ankle exercises to do at home, showed me how to help with his shoulders, and explained heat and cold therapy, along with other helpful recommendations. With how much Evan trains, having practical ways to support him between visits was so helpful. As a mom of a young athlete, I really appreciated the care and time he gave us!
   - name: "Michelle Gramlick"
     rating: 5
-    date: "2026-06-23"
     comment: |
       My experience with Jamie has been great! She is friendly, knowledgeable, and most importantly, exceptional at her craft. Not only was my pain/discomfort taken care of, I was provided with a personalized home care plan to further enhance the experience. I highly recommended Jamie and Athlete's Choice Massage!
-  - name: "Rianna Paskaruk"
+  - name: "Jackie Eckel"
     rating: 5
-    date: "2026-02-09"
     comment: |
-      Any time one is going to a new place I always suggest to try a few different massages therapists as our body responds to different treatments, well Ronald on the west location hands down by far the best I’ve ever seen!! He’s so good at what he does he really listens to what the problem is and i always leave feeling like I am floating!! He’s truly the best!! And I love that the direct bill makes life wonderful!!!
-  - name: "Karen DeVries"
+      I’ve never had a better massage in my life! Kelti was an amazing! She was able to pinpoint all the right spots and relieve so much tension in my neck and back! She’s highly skilled and I can’t recommend her enough.
+  - name: "Shawn Barr"
     rating: 5
-    date: "2026-05-09"
     comment: |
-      Fantastic place, the RMTs are highly skilled and professional, but also kind and approachable. Mackenzie, Holly, and Keltie always set me straight when I need a deep tissue massage.
-  - name: "Pat C"
-    rating: 5
-    date: "2026-01-07"
-    comment: |
-      I’ve been to see Jamie at Athletes Choice twice now and I will continue to see her. She is an excellent massage therapist who is also sharing a variety of simple stretches that I can use to maintain flexibility. The atmosphere is very calm and private   The business and Jamie were recommended to me by a friend and I’m really pleased with the referral. Definitely give them a try if you are needing a massage therapist
+      Never had a massage before, would certainly recommend and revisit. As someone who just deals with aches and pains, and works with their hands, highly suggest. Thank you Keltie! You're awesome!
   - name: "Lane Olsen"
     rating: 5
-    date: "2026-07-15"
     comment: |
       I’ve been seeing Chris S for six months now. He focuses on practical ways to address problem areas instead of just going through the motions. He regularly checks in and asks what's working and what isn't, so sessions actually improve over time. I'd recommend him.
 ---

@@ -6,7 +6,7 @@ subcategory: "mechanics"
 neighborhood: "Mill Woods"
 address: "5019 99 St NW, Edmonton, AB T6E 4Y1"
 rating: 4.7
-review_count: 583
+review_count: 586
 tier: "featured"
 phone: "(780) 438-3411"
 website: "https://www.atlasauto.ca/"
@@ -14,18 +14,21 @@ google_maps: "https://maps.google.com/?cid=11442243571808539999&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/atlas-automotive.jpg"
 reviews:
-  - name: "Jacqueline"
-    rating: 5
-    comment: |
-      VJ and the team at Atlas are amazing! A friend recommended them and I'm so glad I went in! Quick service, clear explanations of the work, took the time to show me why the work needed to be done, and fair pricing. I will definitely be going back!
-  - name: "Rod Janssen"
+  - name: "Rod TheCarpenter"
     rating: 5
     comment: |
       Just a great experience.   Very honest and fair prices.  They do not charge the book price like most shops do,  they charge by the actual time spent working on the vehicle. The mechanics have proven themselves to be quite intelligent and knowledgeable.   This was the first shop i went to when i first moved to edmonton, and will remain my go to shop for all my automotive needs.
-  - name: "Hannah Schmakeit"
+  - name: "EUCHARIA REMY"
     rating: 5
     comment: |
-      Atlas Auto has always been exceptionally good to me. I’ve tried multiple mechanics in town, and Atlas is my favourite. They have always been honest about whether or not certain repairs make sense for how old my car is and my goals for my car. They have always been very fair in their pricing. They’ve never been condescending to me or taken advantage of my lack of knowledge about cars. They welcome multiple opinions and questions. They’re always willing to show you what is wrong, what they suspect the problem is, why they think it is the problem and how they got there, and the cost of each possible fix.
+      Fair prices, TRUSTWORTHY work and no ridiculous 🙄 upselling. VJ and his crew are hands down the absolute best!
+      If you’re looking for a place to get your out-of-province inspection (they call it OPI, lol 😂) done and want TRANSPARENT feedback, definitely go to these guys.
+      And the chef’s kiss? Their inspection fee! 😂 The cheapest I found.
+      My car is fairly new, so I wasn’t expecting anything less than a straight pass, and that’s exactly what I got. My husband’s car, however, needed a few fixes, and that’s where we really got to see how THOROUGH and TRUTHFUL these guys are. They told us what needed to be done, went with good-quality parts and didn’t try to pile on unnecessary repairs.
+      100% a place I’d recommend and go back to.
+      If I had 4 words to describe their service:
+      TRANSPARENT. THOROUGH. TRUTHFUL. TRUSTWORTHY.
+      I’d give these guys 10 stars if I could😀⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
   - name: "known piper"
     rating: 5
     comment: |
@@ -36,6 +39,10 @@ reviews:
       A huge shoutout to Manager VJ — truly one of the kindest and most genuine people you’ll ever meet. He went above and beyond to make the process smooth and stress-free. It’s clear he cares deeply about his customers and runs the shop with integrity.
       
       If you’re looking for a trustworthy and reliable place to get your vehicle serviced, look no further than Atlas Auto. I’ll definitely be back and will recommend them to everyone I know!
+  - name: "Jacqueline"
+    rating: 5
+    comment: |
+      VJ and the team at Atlas are amazing! A friend recommended them and I'm so glad I went in! Quick service, clear explanations of the work, took the time to show me why the work needed to be done, and fair pricing. I will definitely be going back!
   - name: "Navjot Singh"
     rating: 5
     comment: |

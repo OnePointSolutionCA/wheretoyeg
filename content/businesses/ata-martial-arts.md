@@ -21,19 +21,16 @@ tags: ["edmonton", "martial-arts"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Nicole Naseth"
-    rating: 5
-    date: "2025-10-14"
+  - name: "Randi Marie"
+    rating: 1
     comment: |
-      My Grand Daughter is excelling not only here but at home and school since enrolling with them. She pushes herself to do her best. Master Ford and Cirf Master Ford have been such a influence on her.
+      Very disappointed to hear how this club treats some of its students. Discussing students with other people is completely unprofessional and inappropriate. This shows a lack of privacy and respect to your students. I would expect much better from this sort of organization.
   - name: "Cathy Bujold"
     rating: 5
-    date: "2025-04-07"
     comment: |
       I’ve had such an incredible experience training here! The environment is welcoming, supportive, and filled with a great group of people who are passionate about learning and growing together. The techniques are taught clearly and effectively, and I’ve learned so much in such a short time. I especially want to thank my instructor, Kevin, for his exceptional guidance, patience, and dedication. His passion for jiu-jitsu is truly inspiring, and he creates a space where everyone feels encouraged and motivated to give their best. I absolutely love being part of this community. A special thank you to all my teammates as well—your kindness and support mean so much to me!
   - name: "scotiasplace"
     rating: 5
-    date: "2019-06-12"
     comment: |
       My daughter joined a few months ago, she is 8 years old and very shy.
       
@@ -42,12 +39,10 @@ reviews:
       This club welcomes you in as a part of the family.  The kids, instructors and other parents are fabulous.  It really does feel like a family supporting each of our kids grow and learn.
   - name: "Danica Marlow"
     rating: 5
-    date: "2020-12-11"
     comment: |
       We have been absolutely thrilled with the program for our son. One of the first things we noticed were how well trained and respectful the students are, which speaks volumes about a school. We really appreciate the work that goes into building self-esteem and integrity as well; this is so much more than just a top notch fitness program, and we happily recommend it.
-  - name: "Lee Dugmore"
+  - name: "Vinz Balala"
     rating: 5
-    date: "2015-04-02"
     comment: |
-      I've had the honor and privilege of having trained with the Fords in Edmonton, as well as in BC. I began training over 15 years ago, and even though I've trained at and worked for other martial arts programs since, I've never found a program that equals theirs. They offer world class, professional martial arts instruction for all age groups and skill levels from beginner and up. There are very, very few martial arts programs that I would recommend to a family member or friend, and they are the top of that list.
+      There is no other dojang that comes close to the instruction here from Chief Master Ford, Mr. Vandermuelen and Lady Master Ford. Say whatever you want about ATA, but these people teach Taekwondo, BJJ, self-defense and the values of discipline and respect with an unmatched vigor and passion. Furthermore, they teach it the right way too, and pay close attention to the needs/questions of students. Highly recommend coming here for training thanks to the positive atmosphere, high-quality instruction and kindness from these amazing leaders.
 ---
