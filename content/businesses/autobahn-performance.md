@@ -33,7 +33,6 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Pedro pllana"
     rating: 5
-    date: "2026-06-17"
     comment: |
       I recently brought my Golf R to Autobahn Performance for a suspension drop and a full tune, and I couldn’t be happier with the experience. From start to finish, the team was knowledgeable, professional, and took the time to answer all of my questions.
       
@@ -42,19 +41,24 @@ reviews:
       If you’re looking for a shop that knows Volkswagen and Audi performance inside and out, I highly recommend Autobahn Performance. I’ll definitely be coming back for future upgrades and maintenance. Thanks again to the entire team for the amazing work!
   - name: "TheAshenWolf (TheAshenWolf)"
     rating: 5
-    date: "2026-03-26"
     comment: |
       Mark at Autobahn Performance has been a god-send for me. I was having issues with a previous install by another mechanic shop of my sway bars, coilovers and camber plates. I have a 2013 MK6 VW Golf R. Mark's knowledge and care led me to completely change my setup because the clearances were never going to work. Mark installed all new Bilstein suspension and H&R lowering springs, which were by chance the same that he had on his MK6 Golf R. He diligently installed new controls arms, bushings and the new hardware and I couldn't be happier. He also made some suggestions for some older parts that desperately needed to be replaced, for which I am extremely thankful. The driving quality due to these upgrades has completely changed for the better. He worked on my car like it was his own. Nothing but praise for Mark. I am lucky to have found a mechanic with such a depth of knowledge of VAG cars (decades of experience). For as long as I live in Edmonton, Mark will be my go-to guy for all mechanical work. Thank you Mark!!!
       
       -Rick
-  - name: "B"
-    rating: 5
-    date: "2026-02-08"
+  - name: "Al S"
+    rating: 1
     comment: |
-      Autobahn performance has come through for me multiple times. The staff is knowledgeable and very friendly. Cannot recommend Mark and Remy enough and I thank them for all the work they've done for me.
+      I don't recommend this auto repair shop. They are rude and unprofessional, and they may recommend replacing parts unnecessarily. They used to provide better service, but one of their skilled professionals left the company.
+      
+      After they replaced parts in my front suspension, I developed steering problems. When turning, the steering wheel no longer returns to its normal position on its own, and I have to straighten it manually. I asked them to inspect the issue, but they refused, claiming it wasn't their fault and sending me to another shop. In the end, I had to take my car to another shop to have their poor work redone.
+      
+      Mark was rude and disrespectful throughout the process. I wouldn't trust them with any serious repairs.
   - name: "Khan"
     rating: 5
-    date: "2026-02-24"
     comment: |
       Ordered some parts from him, although the business is busy, the owner is sociable and knowledgeable on parts and can guide you on the right path. I ordered a R600 intake and strut and both fit perfectly. 👍
+  - name: "B"
+    rating: 5
+    comment: |
+      Autobahn performance has come through for me multiple times. The staff is knowledgeable and very friendly. Cannot recommend Mark and Remy enough and I thank them for all the work they've done for me.
 ---

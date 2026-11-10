@@ -33,32 +33,32 @@ tags: ["edmonton", "cuts-styling"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Kaurie Landry"
+    rating: 5
+    comment: |
+      Meaghan is amazing at what she does! I go to her for hair and spray tans, and I'm always recommending her to people!
+      
+      Her spray tans are so natural. I always look younger and healthier when she's done with me! I recommended her to my sister's bridal party and everyone looked so good. She's really thorough and even checks in with you the next day to make sure everything looks good. She'll also come to your house, which is super convenient!
+      
+      When it comes to hair, Meaghan just has a natural eye for what looks good on people. I've seen it with myself and other clients. She can look at someone and know what cut or colour looks good on them. If you're undecided, she's great at helping you figure it out.
+      
+      I always leave her chair feeling better than when I walked in. She's genuinely talented at what she does!
+  - name: "rachael shapka"
+    rating: 5
+    comment: |
+      I get my hair done by Brooke F, and she is absolutely amazing! She always does such a beautiful job, and I leave feeling so happy with my hair every time. She’s friendly, and makes the whole experience so enjoyable. She even made the appointment extra special by helping make it a birthday appointment for my mom. The salon itself has such a beautiful, welcoming atmosphere. I highly recommend Brooke and the salon to anyone looking for an amazing hair experience!
+  - name: "Danny"
+    rating: 5
+    comment: |
+      I had such a great experience with Tayah at Avenue Salon! She was so friendly, professional, and really took the time to understand exactly what I wanted and explained my hair and care taking of it, to my surprise is easier than I thought. I absolutely love how my hair turned out! You can tell she genuinely cares about her work and their clients. I’ll definitely be booking with Avenue Salon and especially Tayah again. Highly recommend! ⭐⭐⭐⭐⭐
   - name: "Alisha Nicole jones"
     rating: 5
-    date: "2026-07-25"
     comment: |
       ⭐⭐⭐⭐⭐
       
       I had an amazing experience with Ranjit at Avenue Salon for my eyebrow threading! She was incredibly professional, gentle, and paid great attention to detail. She took the time to shape my brows perfectly to suit my face, and the results were exactly what I wanted. The service was quick, clean, and virtually painless. Ranjit is friendly, skilled, and truly knows how to create beautiful, natural-looking eyebrows. I highly recommend booking with her if you’re looking for excellent eyebrow service. I’ll definitely be coming back!
-  - name: "Aakriti Kaushal"
-    rating: 5
-    date: "2026-08-01"
-    comment: |
-      I had an absolutely amazing experience with Dav! I showed her a single video of the haircut and style I wanted, and she recreated the exact look flawlessly. She even suggested custom face-framing adjustments to perfectly suit my face shape. Dav is professional, highly skilled,  and kept me wonderfully entertained with her warm conversation. I'll definitely be going back to her for my future haircuts!
-  - name: "Jemi"
-    rating: 5
-    date: "2026-07-14"
-    comment: |
-      I had such a great experience with Rajit for my Brazilian wax! She was incredibly knowledgeable and took the time to explain everything, which immediately made me feel more comfortable. She was also so engaging and easy to talk to, making the whole appointment feel relaxed instead of awkward.
-      Her technique was gentle and professional, and she checked in throughout the appointment to make sure I was doing okay. You can really tell she cares about her clients and takes pride in her work. I left feeling well taken care of and had a genuinely positive experience. I highly recommend Rajit, and I'll definitely be booking with her again!
-  - name: "Carmen MacKeage"
-    rating: 5
-    date: "2026-01-29"
-    comment: |
-      Been putting off finding a new stylist since I moved from BC, found Katie M on instagram and was delighted to see Avenue was an Aveda salon. SO GLAD I took a chance! Katie was exceptional - she completely understood  what I was going for; she was flexible on using a mix of techniques to get my colour *just right*, she cleaned up my cut while keeping my length, she was efficient with my processing time and fast at her foils, AND she was super charming to boot. 10/10
   - name: "Tanni V"
     rating: 5
-    date: "2026-05-12"
     comment: |
       Megan did an amazing job with my hair. I was  booked i  for partial highlights. One week later I still compliments.
 ---

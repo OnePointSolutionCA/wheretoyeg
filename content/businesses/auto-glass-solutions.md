@@ -23,7 +23,7 @@ hours:
 photos:
   - "/photos/auto-glass-solutions-g2.jpg"
 rating: 4.6
-review_count: 350
+review_count: 354
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "windshield"]
@@ -32,7 +32,6 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Eugenia M"
     rating: 5
-    date: "2026-03-19"
     comment: |
       I had a great experience with Auto Glass Solutions. They replaced my windshield in about 1.5 hours, exactly as promised. I was able to wait comfortably and get some work done in their waiting area, which was a huge plus.
       
@@ -41,25 +40,21 @@ reviews:
       The installation was done perfectly—the final result was spotless. On top of that, their pricing was one of the best quotes we received in town.
       
       Highly recommend their service!
-  - name: "Shannon Lea"
+  - name: "Neil Ritokoski"
     rating: 5
-    date: "2026-07-14"
     comment: |
-      I had a leaking windshield in the midst of the June downpours and was very appreciative to get the seal fixed in a timely matter. Great communication. Friendly staff. Reasonable pricing. Highly recommend.
+      Quick, friendly,  efficient service in their newly opened area. I went in Saturday morning and was surprised that everything was completed in just over an hour. The staff make all customers feel truly important and cared for whether it is a minor rock chip or a full window replacement.  Considering they had literally just moved in to the new site they were very organized
+  - name: "Billy Harach"
+    rating: 5
+    comment: |
+      Right from the start, Zul and his staff took excellent care of all our auto-glass needs. The service was professional, courteous, and friendly from start to finish. The work was completed very quickly and at a reasonable price. We highly recommend Auto Glass Solutions!
+      Thank you, Zul and the entire team, for the outstanding service
+  - name: "marilyn kozitzky"
+    rating: 5
+    comment: |
+      It is very difficult to find a glass shop that can accommodate a 45 foot RV, let alone one that has the experience and ability to get the job done properly. The staff was professional and outstanding! They replaced my windshield properly and respected my coach by taking care of it by keeping it clean and scratch-free. If you want your RV taken care of and the work done professionally, this is the shop for you. I highly recommend Auto Glass Solutions.
   - name: "Robert Harper"
     rating: 5
-    date: "2026-06-08"
     comment: |
       The best people, fantastic work quality and very reasonable rates. Thank you Natasha and Danny. Great new location on 91 Street just south of Argyll.
-  - name: "Waqas Mahmood"
-    rating: 5
-    date: "2025-11-01"
-    comment: |
-      Fantastic Service and Incredibly Fast!
-      I am absolutely thrilled with the service I received from Auto Glass Solutions. The staff was incredibly friendly and professional from the moment I called. They got me in for a windshield replacement way faster than I expected, and the work was done perfectly. The process was seamless.Five stars isn't enough—highly recommend!
-  - name: "Jocelyne Meier"
-    rating: 5
-    date: "2026-03-31"
-    comment: |
-      I had an excellent experience here! Natasha at the front desk was amazing to deal with, professional, kind, and very helpful. The whole team was friendly and made the process seamless. They managed to get me in for a new sunroof the very next morning after ordering it, and had it repaired in no time. Super efficient service and high-quality work. I would highly recommend them to anyone needing glass repair
 ---

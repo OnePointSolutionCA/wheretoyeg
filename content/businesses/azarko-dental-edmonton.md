@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–4:00 PM"
 photos: ["/photos/azarko-dental-edmonton-1.jpg", "/photos/azarko-dental-edmonton-2.jpg", "/photos/azarko-dental-edmonton-3.jpg"]
 rating: 4.8
-review_count: 1751
+review_count: 1776
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,14 @@ tags: ["edmonton", "dentists"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Joshua Thomas"
+    rating: 5
+    comment: |
+      My root canal treatment with Dr. Roy and his team went extremely well. I was very nervous going into the procedure, but Dr. Roy was incredibly reassuring, took the time to explain the entire process, and made sure I was completely comfortable throughout. The procedure was completely painless, and I couldn't have asked for a better experience. I'm extremely grateful to have had my treatment done by Dr. Roy and his team. I highly recommend them!
+  - name: "Iaroslav Vaidych"
+    rating: 5
+    comment: |
+      Had my cleaning and check-up at Azarko Dental and everything went perfectly. The staff were friendly and welcoming, the cleaning was thorough and comfortable, and the dentist took time to explain everything clearly. The office is clean and well organized, and I felt well taken care of from start to finish. Highly recommend!
   - name: "Phitchaya P"
     rating: 5
     comment: |
@@ -36,14 +44,6 @@ reviews:
       I come in the right time for patient who did first full examination get the electoral toothbrush or waterpic as picture.
       Few parking lots but not busy.
       I understand why they got really good reviews.
-  - name: "Catherine Day"
-    rating: 5
-    comment: |
-      My experience with Dr. York and (any Dr.s needed in an emergency) have been fantastic with care + comfort. Any of the dental hygienists have been gentle- for my sensitive teeth! and I have learned alot from each of them! Highly recommend Azarko Dental.
-  - name: "Comedy Gold"
-    rating: 5
-    comment: |
-      I had an emergency tooth extraction done on a Saturday July 4th weekend. They had me in and out of the surgery in just over an hour. I am Very thankful to all the staff and doctors. They may have saved my life and they were cooler than Clyde during the entire procedure.
   - name: "Mis"
     rating: 5
     comment: |

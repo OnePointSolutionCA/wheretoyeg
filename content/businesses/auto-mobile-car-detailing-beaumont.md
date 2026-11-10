@@ -14,11 +14,11 @@ google_maps: "https://maps.google.com/?cid=14206779800162236524&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/auto-mobile-car-detailing-beaumont.jpg"
 hours:
-  monday: "Closed"
-  tuesday: "Closed"
-  wednesday: "Closed"
-  thursday: "Closed"
-  friday: "Closed"
-  saturday: "Closed"
+  monday: "Open 24 hours"
+  tuesday: "Open 24 hours"
+  wednesday: "Open 24 hours"
+  thursday: "Open 24 hours"
+  friday: "Open 24 hours"
+  saturday: "Open 24 hours"
   sunday: "Open 24 hours"
 ---

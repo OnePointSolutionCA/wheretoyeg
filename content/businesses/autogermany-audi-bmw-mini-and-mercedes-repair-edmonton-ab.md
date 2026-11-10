@@ -24,7 +24,7 @@ photos:
   - "/photos/autogermany-audi-bmw-mini-and-mercedes-repair-edmonton-ab-g1.jpg"
   - "/photos/autogermany-audi-bmw-mini-and-mercedes-repair-edmonton-ab-g2.jpg"
 rating: 4.9
-review_count: 422
+review_count: 427
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "european-cars"]
@@ -33,38 +33,40 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Artman Contracting"
     rating: 5
-    date: "2026-08-10"
     comment: |
       We’ve had consistently great experiences with AutoGermany over the years. Their team is extremely knowledgeable and skilled at diagnosing problems accurately and finding the right solutions. They take the time to explain what is happening with the vehicle, what repairs are needed, and what can wait, which we really appreciate.
       
       They have serviced several vehicles for us, including BMW and Mercedes-Benz, as well as our Ford Transit fleet. No matter the make or type of vehicle, their service has always been thorough, professional, and reliable. It’s not always easy to find a mechanic you can fully trust, but AutoGermany has always been honest and straightforward with us.
       
       We feel confident bringing our personal and company vehicles to them and highly recommend AutoGermany to anyone looking for knowledgeable, dependable, and trustworthy mechanics in Edmonton.
-  - name: "Pompeit"
+  - name: "Darrin Isaak"
     rating: 5
-    date: "2026-08-05"
     comment: |
-      Autogermany has been fantastic to me and my vehicle! Their diagnostic found flaws in my car that I never would have found and the guys are very thorough. Even after having a repair done they pointed out another flaw in my tire and quickly handled the situation.
-      The customer service here is excellent and they have definitely earned my services in the future!
-      -Owen Lumsden
-  - name: "Mark"
-    rating: 5
-    date: "2026-08-30"
-    comment: |
-      Exceptional shop, arguably the best I have visited in Edmonton. Extremely thorough, identifying issues no other shop could find. I appreciate that they document their findings with photos and videos. Prices are very fair for the level of service they provide. Oleg was a pleasure to deal with. Highly recommend!
-  - name: "Les Regula"
-    rating: 5
-    date: "2026-04-12"
-    comment: |
-      Customer service and communications were excellent and promised timelines were met, even if it meant staff coming in after hours.  Our car was repaired in a timely manner.
+      I honestly can’t say enough good things about my experience with AutoGermany.
       
-      We were able to review and discuss proposed repairs while our car was on the hoist in their clean and organized garage.  They were able to source some used parts at modest prices compared to dealer prices (the dealer could only offer new parts).
-      Autogermany found necessary repairs that the dealership overlooked.  Without Autogermany’s abilities to repair our car, we would have likely decided to sell our beautiful car and buy a new one.
+      I brought my car in for an engine diagnostic and an oil change, and from start to finish, the service was excellent. Adrian was the person I dealt with over the phone, and he was incredibly clear, honest, and helpful throughout the entire process. He always took the time to call me, explain exactly what they were finding and what they were going to do, and make sure I understood my options before anything was done. I never felt pressured or like I was being talked into something I didn’t need.
       
-      It was a pleasure working with Autogermany!
-  - name: "Delon Ragobeer"
+      They were able to solve all of the problems I was having, and I really appreciated how transparent they were throughout the whole process. It’s honestly refreshing to deal with a shop that puts honesty and doing things properly first.
+      
+      They also went above and beyond when I picked up my car. They were very accommodating and let me leave my car there for an extra day, which I really appreciated. And then, as an unexpected bonus, I came back to find that they had vacuumed and washed my car! That small gesture genuinely made my day.
+      
+      From the communication, honesty, quality of work, and customer service, I couldn’t have asked for a better experience. I’ll absolutely be coming back to AutoGermany in the future and would happily recommend them to anyone looking for a trustworthy shop.
+      
+      Huge thank you to Adrian and the whole team at AutoGermany. You guys really went above and beyond! 👏
+  - name: "Lela Maslesa"
     rating: 5
-    date: "2026-06-24"
     comment: |
-      Had an issue with the lower actuator flap and needed the rear brakes changed on my vehicle. AutoGermany were able to assess the issue, and fix it in a very timely manner. The staff there were very friendly, pleasant, and easy to communicate with. What I’m most impressed with is the turn around time. Got my vehicle back the same day. Would definitely recommend.
+      I have brought my car to Auto Germany a few times now, and the crew is always friendly and helpful. They explain everything perfectly to a layperson and never mind answering my many questions. Their work is excellent, and I completely trust them. They are always transparent and upfront with everything. Highly recommended!"
+  - name: "Josiah Thigpen"
+    rating: 5
+    comment: |
+      Adrian my service adviser was great! Could answer my questions and was very helpful. The whole team got my car in and out quickly and the uber shuttle service is also a great amenity.
+  - name: "Nathan"
+    rating: 5
+    comment: |
+      The service I experienced at AutoGermany was better than almost any other garage I have ever used.
+      Their reports raise the bar and really helped me understand the issues I had to address with my car and what would be needed in the future.
+      Their work was spot on for timelines projected, pricing on work and communication.
+      If you are debating on using AutoGermany I personally, highly recommend them to any of my friends who drive German cars.
+      I wish they worked on non German cars too as they would service my whole collection.
 ---

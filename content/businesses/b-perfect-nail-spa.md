@@ -21,39 +21,34 @@ hours:
   saturday: "10:00 AM–6:00 PM"
   sunday: "11:00 AM–5:00 PM"
 photos: []
-rating: 4.6
-review_count: 36
+rating: 4.7
+review_count: 35
 amenities:
   - "Family Friendly"
 tags: ["edmonton", "gel"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Michelle Maisonneuve"
+    rating: 5
+    comment: |
+      Lovell does an incredible job!! I’ve seen him 5 times now & each time my nails are perfect! He just did my Halloween design & I couldn’t be happier! He’s always able to get me in when I call, prices are fair & the appointment doesn’t take longer than it should. I highly recommend b perfect, ask for Lovell!!
   - name: "Kaija Ljungberg"
     rating: 5
-    date: "2026-05-30"
     comment: |
       Absolutely gorgeous work by Lindsey!!
       This was my first time getting acrylics, and I couldn't be more elated with my experience. The customer service is incredible, the staff are beyond talented, and the attention to detail is purely stunning. Most importantly, the building is clean, fresh, well ventilated, and above all, very cute and professional.
       I highly recommend checking this place out!
-  - name: "alex pulido"
-    rating: 5
-    date: "2026-06-05"
-    comment: |
-      love getting my nails done here. Great people, decent prices, and the results are always exactly what im looking for
   - name: "Kennedy"
     rating: 5
-    date: "2026-05-31"
     comment: |
       Awesome service!! Lindsay did my nails and they look so good :) would 100% come back again! They even offered drinks during the server :)
-  - name: "Susie Molina"
+  - name: "alex pulido"
     rating: 5
-    date: "2026-03-27"
     comment: |
-      I came in with my mom and grandma to get our nails down for my nieces baptism we had such an amazing experience with all the staff so kind we had to come back in the same week because my mom broke on of her nails and they let us go free of charge we can’t thank them enough for the amazing customer service ( we are obsessed with our nails).
-  - name: "Morgan VanderMey"
+      love getting my nails done here. Great people, decent prices, and the results are always exactly what im looking for
+  - name: "Taylor Reid"
     rating: 5
-    date: "2026-03-27"
     comment: |
-      10/10 I love my nails they are so good! The service is incredible and everyone is so nice and talented! Do recommend!
+      Amazing service. Trang does the best nails!!
 ---

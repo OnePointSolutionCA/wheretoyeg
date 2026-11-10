@@ -23,7 +23,7 @@ photos:
   - "/photos/axe-monkeys-2.jpg"
   - "/photos/axe-monkeys-g1.jpg"
 rating: 4.8
-review_count: 807
+review_count: 814
 price_range: "$$"
 amenities:
 
@@ -37,29 +37,21 @@ reviews:
       We had such a positive experience here! If you are looking for a fun and positive experience, this is time well spent. We were greeted by Danielle, a kind, competent and encouraging staff member. She is great and made the experience fun - clear instructions and organized!
       The axe throwing was so much fun! Lots of laughter!
       As well, a sincere thank you to the kind people that were there before us and left their remaining balance of their gift card to pay it forward! Such kindness is noticed and very much appreciated! Thank you to all at Axe Monkeys!
-  - name: "Sandy Viegas"
+  - name: "Dev VanKo"
     rating: 5
     comment: |
-      First time here, we did the rage room. This was a fun experience as a group of 3 adults & 2 teens. They take you to a room where you fill a crate with items you'd like to smash.  Items vary in prices, there is min spend which covers the cost of multiple smaller items.  There are TVs, printers etc that cost a bit more.
-      Once in the rage room they talk you through the rules, gear up & smash away.
-      There is an area for axe throwing as well.  Service was good, no complaints other then you cannot throw things against the walls directly.  But this is a great therapy session!  Haha
+      Excellent way to spend the day! We had a blast in the Rage Room and the Paint Room! It was pretty busy on Saturday, and the gals up at the front could have used another set of hands. But their customer service was stellar and our group had so much fun. Cost for items for the rage room I felt were decent. Definitely worthwhile to get a printer 🤣 Thank you Axe Monkeys!!
+  - name: "Kayton Balciunas"
+    rating: 5
+    comment: |
+      Lazy Saturday afternoon landed myself and my 2 early teen boys. We were greeted by a friendly crew. Prices were absolutely acceptable. After our orientation we wer3 taken bake and given a demonstration and some friendly do and do nots along with some quick lessons. After the quick tutorial it took a little bit to get the distance figured out. From there we jad a blast. Thanks axe monkeys for the wonderful afternoon. We will be back!
+  - name: "Kassandra “Kass” Leclair"
+    rating: 5
+    comment: |
+      Danielle was very sweet and very down to earth and made the whole experience 10 times better for me and my best friend today who very much so needed to blow off some steam in the rage room. The prices were incredibly reasonable and the space was cleaner than one would think it would be. We had a great time and will be back and have also recommended going to just about all of our friends and family.
   - name: "Carissa Randell"
     rating: 5
     comment: |
       Soooo much fun!!  We went for a birthday party, and I didn't think I would have as much fun as the boys but it was great!  We found a Groupon for an extra deal.
       There are drinks, alcoholic and non, as well as snacks you can purchase.  Very chill atmosphere.  Go try it!
-  - name: "Richard York"
-    rating: 5
-    comment: |
-      If you want to blow some steam, I recommend rage room. You pick wide range of items to destroy. You can smash TVs, printers, plates, mugs etc. The price tag is printed on the items or sticker price. Remember each member in your party needs to buy a minimum of $25 worth of items.
-      
-      It was great fun smashing things. Very satisfying using a sledgehammer to smash a keyboard or some random framed certificate. Wish I had someone to split tv or printer to smash.
-      
-      Afterwards, you can throw axes. You see this like Rec Room. Only differences is that if you hit bullseye, you can ring the bell to say that you hit bullseye. I have rang the bell a couple of times. And you can spend a bit more money to use different throwing weapons like knife, small axes etc.
-      
-      I will come back again! Good thing Up 99.3 advertise this place as I would not know this exist. And cheaper than shooting guns.
-  - name: "Abigail Teixeira"
-    rating: 5
-    comment: |
-      A friend of mine was visiting from out of town recently, and we decided to check out this place to blow off some steam as both of us have been going through some difficult life circumstances. It was so much fun. The staff was super friendly and there was lots of items that were included with our visit. I will definitely be coming back and next time saving up for the big screen TV to smash.
 ---

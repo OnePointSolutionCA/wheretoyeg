@@ -21,8 +21,8 @@ hours:
   saturday: "9:00 AM–6:00 PM"
   sunday: "10:00 AM–5:00 PM"
 photos: []
-rating: 4.4
-review_count: 120
+rating: 4.2
+review_count: 130
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "walk-in-clinics"]
@@ -31,30 +31,22 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Ahmed Mohsin"
     rating: 5
-    date: "2026-08-20"
     comment: |
       I’ve had such a great experience at this clinic! The staff are always welcoming and helpful. Noor is incredibly sweet and always makes sure I’m taken care of, and Dr. Bouzedi is amazing. He actually takes the time to listen to my concerns, answer my questions, and make sure I feel comfortable with my care. It’s hard to find a doctor who makes you feel genuinely heard. I would definitely recommend this clinic to anyone looking for a caring and professional doctor!
-  - name: "Aralyn Popatia"
+  - name: "Jazmyn Yalowica"
     rating: 5
-    date: "2026-05-27"
     comment: |
-      So grateful for this clinic! They have been able to get me and my baby in with such a short wait time. The doctor that we saw made us feel so comfortable. She’s so knowledgeable and you can tell she truly cares about people. The clinic is beautiful and so clean. And the pharmacy right next to it is so convenient
-  - name: "Brandon Van Beek"
+      Dr. Ghada Smeda is PHENOMENAL. Finding a genuinely good, thorough, compassionate doctor can be a very difficult task but I am lucky enough to have been successful doing so. She is the epitome of compassionate care, when I first starting seeing her for some health issues in May, she made sure to investigate every detail of anything that could possibly be the issue. She actually listens and acknowledges that while pain may be a fully mental process, that does not make it any less real, and does anything in her power to find solutions. The nurses, clinic assistants, and the rest of the staff are also incredibly helpful. Keep up the great work!
+  - name: "Tara Thorp"
     rating: 5
-    date: "2026-07-05"
     comment: |
-      I recently attended to receive some help pertaining to my mental health. It was late on a Sunday afternoon and they weren't even accepting any more patients for the day as they were closing soon, I explained that I had to leave for Fort Mac the following day for work and that I simply needed a prescription filled for anti-depressants and they happily made an exception for me and squeezed me in anyways. The doctor was a super cool dude, friendly, and SPOKE FLUENT ENGLISH. We had a quick chat about things, he filled a prescription for me for a new medication that he recommended would help me, and I was on my way again. I actually ended up switching to him as my new family doctor. There's a pharmacy attached too so I was able to fill the new prescription right there in the same building which was super convenient. I would absolutely recommend this clinic if you need to pop in to see a doctor, they're pretty quick too, I was in and out in about 30-40 minutes.
-  - name: "Mar Moreno"
+      Myself and my family are patients of Dr. Smeda. I can honestly say we have never had a family doctor so compassionate, insightful, kind, funny, and so incredibly good with our two boys, both of whom are neurodivergent. I recently had shingles, I’m 38 and have an autoimmune disorder that likely was contributory to this. She had been on a much deserved family holiday so at the time this occurred I had to go to a couple walk in clinics to get meds. She phoned me when she returned to check on me and see how I was. I did not have an appointment, but she phoned to ensure I was ok and offer assistance for the neuralgia I am now dealing with as a result. She is such a kind person, who you know genuinely cares for her patients. She is exactly the kind of doctor that every person deserves to have, and I and my family, are so grateful she is our GP. Thank you Dr. Smeda for your kindness, warmth, knowledge, patience, humour, and unfailing care. You are wonderful!
+  - name: "Billy Bob"
     rating: 5
-    date: "2026-07-22"
     comment: |
-      I came here as a walk-in and had a great first experience. The front desk staff were very friendly, welcoming, and helpful from the moment I arrived. I also met with Dr. Smeda, and my first impression of her was very positive. She was kind, approachable, and made me feel comfortable during my visit. Overall, I had a pleasant experience and would recommend this clinic.
-  - name: "Mo Aweys"
-    rating: 5
-    date: "2026-07-28"
+      I can’t say enough good things about this clinic. The atmosphere is always welcoming, the office is clean and organized, and everyone I’ve interacted with has been professional and respectful. Appointments never feel rushed, and I always leave feeling like my questions were properly answered. Noor is wonderful and goes out of her way to be helpful, and Dr. Bouzedi is knowledgeable, patient, and very thorough. It’s so reassuring to have a clinic where you feel comfortable and confident in the care you’re receiving. Highly recommend!
+  - name: "Nesrine Fitas"
+    rating: 1
     comment: |
-      Azura medical clinic is one of the best clinics
-      I’ve seating Edmonton.
-      My Doctor; Doctor Bouezedi ishigjly knowledgeable and professional. His assistant NOOR has helped me a lot. She is very professional and a hardworker. She is always eager to help and gives a 100% effort. Noor always goes out of her way to help
-      I am super happy with the way i am treated at Azura medical
+      First, they confirmed a doctor’s availability and offered me an appointment. Then, just 30 minutes later, they called me back to reschedule with a different doctor, only to reveal that they weren’t even aware that this doctor was unavailable! This level of incompetence raises serious concerns about how appointments are being managed. It gives the impression that appointments are being offered selectively to preferred patients rather than being handled fairly, transparently, and professionally.
 ---

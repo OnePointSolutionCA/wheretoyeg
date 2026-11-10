@@ -40,22 +40,22 @@ reviews:
       What stands out the most is his ability to balance toughness with encouragement. You leave every session feeling stronger, not just physically, but mentally as well.
       
       If you are looking for someone who is knowledgeable, dedicated, and genuinely invested in your progress, I highly recommend Albert.
-  - name: "Andrew Ho"
-    rating: 5
-    comment: |
-      It has been about a month of boxing with Albert and my experience with him has been awesome! He is very passionate and knowledgeable in the sport and it really shows. I am "hook"ed and looking forward to more sessions.
   - name: "Yevhen “Eugene” Bazhenov"
     rating: 5
     comment: |
       I've always wanted to learn boxing, and I finally found the perfect place: Azn Assassin Boxing! As a complete beginner, I couldn't ask for a better experience. Albert has an incredible way of explaining boxing techniques and knows just how to keep me motivated. I genuinely wish I had met him when I was 14! His training sessions are intense, and he really pushes me to my limits, which often leaves me completely exhausted on the floor (don’t worry, I don’t get hit at all - just working on my stamina, haha)!
       
       Those 30 minutes of one-on-one training fly by and feel like an eternity in the best way possible. I highly recommend Azn Assassin Boxing to anyone looking to learn and grow in their boxing journey!
-  - name: "R Lester"
+  - name: "Andrew Ho"
     rating: 5
     comment: |
-      Albert single handedly re ignited my love for the sport I thought I'd lost. Especially if you're disabled and a boxer or aspiring boxer in Edmonton, I would recommend you at least come meet this guy once. He's a great coach and all around great dude, who makes my day every single session
+      It has been about a month of boxing with Albert and my experience with him has been awesome! He is very passionate and knowledgeable in the sport and it really shows. I am "hook"ed and looking forward to more sessions.
   - name: "Julie Zettl"
     rating: 5
     comment: |
       Albert is a great teacher!  He has a unique story with history fighting in the ring and teaching at multiple levels of boxing.
+  - name: "R Lester"
+    rating: 5
+    comment: |
+      Albert single handedly re ignited my love for the sport I thought I'd lost. Especially if you're disabled and a boxer or aspiring boxer in Edmonton, I would recommend you at least come meet this guy once. He's a great coach and all around great dude, who makes my day every single session
 ---

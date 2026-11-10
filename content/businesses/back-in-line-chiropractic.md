@@ -31,24 +31,24 @@ tags: ["edmonton", "chiropractors"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Risca Yuliana"
+    rating: 3
+    comment: |
+      My practitioner was Kathy for acupuncture and massage therapy. Her services was awesome. The problem was only the reception saved my wrong plan insurance number. Because this is my first time use it, I am a new comer. I've showed her my insurance app, she put the health benefit only. I just realized when 2nd time treatment on 1st massage, she said was unable to bill direct again. When at home, I tried to claim online to my insurance, plan number was different from the declined paper from her. She should put under my health benefit plan number not health plan number.
   - name: "lin ryan"
     rating: 5
-    date: "2026-04-01"
     comment: |
       If you want a massage treatment with expertise and professionalism, book an appt with Valentina!    She is very knowledgeable about the body and her massage treatments are excellent!  She will also focus on areas of concern and you will feel tension areas release and be relaxed!  I have had many treatments with Valentina and highly recommend (10 out of 10) to book a massage with her!
   - name: "Nader Salla"
     rating: 5
-    date: "2026-03-31"
     comment: |
       Dr. Zachary deGraves is awesome along with the staff. They are professionals in their fields. Me and son felt like a million dollars after our visit.  I recommend this place to any one.
   - name: "Ingabe Emmanuella"
     rating: 5
-    date: "2024-05-05"
     comment: |
       I have been going to Back in Line for years, I love this place! Every one is so kind and professional. The owner, Troy is an amazing person and a wonderful chiropractor. Mariam is my new massage therapist and she is just the best for deep tissue massage. I feel better every time I leave my appointment. I never experienced this before. She is so kind and respectful as well. I highly recommend Mariam and Back in Line Chiropractic.
   - name: "Justina Fraser"
     rating: 5
-    date: "2024-10-03"
     comment: |
       I’ve been coming here for a couple years and had amazing experiences with different chiropractors. Today I had my first massage by Mariam and it was the best massage I’ve ever had. Exceptional professionalism, knowledgeable, kind and very caring about my pain in my back. I left relaxed and feeling so much better after the perfect amount of deep tissues and relaxation massage.
       I will definitely recommend her to anyone! And the front end staff have always been kind and professional.

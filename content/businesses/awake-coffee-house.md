@@ -6,7 +6,7 @@ subcategory: "specialty"
 neighborhood: "Windermere"
 address: "11029 9 Ave NW, Edmonton, AB T6J 6T5"
 rating: 4.5
-review_count: 372
+review_count: 374
 tier: "featured"
 phone: "(780) 784-0462"
 website: "http://awake.cafe/"
@@ -26,15 +26,15 @@ reviews:
     rating: 5
     comment: |
       Popped in to this quaint little spot this morning while my parents were at an appointment next door. Young lady greeted me with a smile and took my order. Cinnamon bun warmed up with a large coffee. Cinnamon bun was excellent, warm and moist like it was baked this morning. Coffee was nice and hot, I’ve never had medium roast before, don’t know that I ever will lol. No fault of there’s for me wanting to try something new. Even with the sound of the morning traffic along 111 st I found sitting here to be quite relaxing. Will definitely come back again.
-  - name: "A. Spencer"
-    rating: 5
-    comment: |
-      Fairly bright in side lots of seating options,  lovely staff. Bubble waffles are fun and coffee was decent . Great place to study or visit .
   - name: "Lance Herman"
     rating: 5
     comment: |
       Nice little coffee shop. Good coffee, god snacks and food prices.
       Located in the Twin Brooks Pharmacy.
+  - name: "A. Spencer"
+    rating: 5
+    comment: |
+      Fairly bright in side lots of seating options,  lovely staff. Bubble waffles are fun and coffee was decent . Great place to study or visit .
 hours:
   monday: "8:00 AM–6:00 PM"
   tuesday: "8:00 AM–6:00 PM"

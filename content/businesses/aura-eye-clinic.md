@@ -6,7 +6,7 @@ subcategory: "eye-care"
 neighborhood: "Edmonton"
 address: "5312 Admiral Girouard St, Edmonton, AB T5E 6Z7"
 rating: 5
-review_count: 48
+review_count: 52
 tier: "featured"
 phone: "(587) 557-7005"
 website: "https://auraeyeclinic.com/"
@@ -22,24 +22,33 @@ reviews:
       The staff are also wonderful—friendly, professional, and welcoming. The clinic itself is very clean, modern, and comfortable. You can truly tell that the entire team takes pride in providing excellent patient care.
       
       I highly recommend Aura Eye Clinic and especially Dr. Jamie-Lee Halabi. A fantastic experience from start to finish!
-  - name: "Eden Cascaro"
+  - name: "Lori"
     rating: 5
     comment: |
-      I recently had a very thorough eye consultation with Dr. Halabi and I was extremely impressed with the level of care and professionalism. She took the time to explain everything clearly, answered all my questions patiently, and made me feel comfortable throughout the entire appointment. The clinic itself is very clean, organized, and welcoming, which made the experience even better. I truly appreciated the attention to detail and the excellent customer service from the staff. Highly recommend this clinic to anyone looking for quality eye care!
-  - name: "Alma"
+      Very impressed with this clinic. Not only was everyone super friendly, helpful, and professional, but the clinic is beautiful and immaculate. Dr. Halabi is sincerely kind and knowledgeable. She also takes the time to explain everything thoroughly. Heather was so pleasant and very patient with my daughter when selecting the right frames for her. Prices were great too. It was such a great experience all around.
+  - name: "lilay"
     rating: 5
     comment: |
-      Dr. Halabi is amazing! She’s very knowledgeable and she takes her time to explain everything, which I really appreciate. It never feels rushed, you can tell she genuinely cares about her patients. This clinic is also super clean & beautiful!! Juliana at the front is always patient & helpful as well. I highly recommend Dr. Halabi and confidently refer her to my family and friends.
-  - name: "Leena"
-    rating: 5
-    comment: |
-      I was glad to find Dr. J. Halabi again at her new location. She’s one of the most thorough optometrists I’ve seen and takes the time to explain everything clearly. You can tell she genuinely cares about helping patients improve and maintain their eye health. The whole team was great to deal with as well. Ariana and Melissa in the optical section were patient and helpful while I was choosing frames, and they took the time to make sure I was happy with my selection. Melissa was also very responsive over phone and email, which made the process much easier.
+      Our First Visit to Aura Clinic
       
-      Overall, a very professional, welcoming clinic with knowledgeable staff. Definitely recommend. The clinic itself has a really modern, upscale feel, and it’s conveniently located among other medical offices, which makes it easy to get multiple appointments done in one trip.
-  - name: "Jennifer Adams"
+      Our first visit to Aura Clinic was such a wonderful experience from start to finish. As soon as you walk into the clinic, you immediately notice the thoughtfully designed space and beautiful layout. Everything feels very classy, welcoming, and comfortable.
+      
+      Since it was our first visit, we were warmly welcomed at reception. Melissa, the Optical Manager, was especially helpful and welcoming. She took the time to help us choose the right glasses for my son while keeping our budget in mind. We truly appreciated her patience and understanding.
+      
+      Our appointment with Dr. Halabi was also a great experience. She made sure to carefully check my son's eyes and confirm that his prescription was accurate. She also recommended MiyoSmart glasses, which we were fortunate to get during their summer promotional discount.
+      
+      When we came back to pick up the glasses, we were reassured that if the glasses bothered my son or he experienced any issues, we could simply return to the clinic and have them checked. That gave us peace of mind knowing that they genuinely care about their patients even after the appointment.
+      
+      Overall, our first experience with Aura Clinic was smooth, professional, and welcoming. We are very happy with the service we received and will definitely be returning for our son's follow-up checkup. Thank you to Melissa, Dr. Halabi, and the whole Aura Clinic team for taking such great care of us! ❤️👓 Highly recommended!
+  - name: "Shyla Ram"
     rating: 5
     comment: |
-      Highly recommend Dr Halabi. We have been seeing her for many years and she’s amazing. Extremely knowledgeable, and takes the time and care with each patient no matter their age. Her new clinic is absolutely stunning
+      Dr. Halabi is an amazing optometrist! She is so thorough with her examination and she explains everything in detail. So glad she has her own office now! My whole family consults her because we feel very safe to trust her with our vision concerns. All the office staff are so kind and helpful, especially Ariana! Ariana is very patient, insightful, and knowledgeable when it comes to picking out the right pair of frames. IMO one of the best clinics in town!
+  - name: "Wendy Welsh"
+    rating: 5
+    comment: |
+      My experience at Aura Eye Clinic was exceptional. Firstly the office is beautiful, spotless, and filled with a great selection of eyeglass frames. Dr. Jamie-Lee Halabi is very professional and knowledgeable. She is compassionate and patient as she explains everything to you. You will know that you’re in good hands when she is taking care of you.
+      The staff at Aura Eye Clinic are wonderful too. Heather helped me find a great frame for some new sunglasses. Everyone was competent and friendly.Thanks for a great experience. See you next year.
 hours:
   monday: "9:00 AM–5:00 PM"
   tuesday: "11:00 AM–7:00 PM"

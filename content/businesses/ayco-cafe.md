@@ -18,13 +18,13 @@ hours:
   wednesday: "8:00 AM–4:00 PM"
   thursday: "8:00 AM–5:00 PM"
   friday: "8:00 AM–5:00 PM"
-  saturday: "9:00 AM–4:00 PM"
-  sunday: "9:00 AM–4:00 PM"
+  saturday: "9:00 AM–5:00 PM"
+  sunday: "10:00 AM–5:00 PM"
 photos:
   - "/photos/ayco-cafe-g1.jpg"
   - "/photos/ayco-cafe-g2.jpg"
 rating: 4.5
-review_count: 600
+review_count: 616
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -36,9 +36,20 @@ tags: ["edmonton", "specialty"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Chelsea McCurdy"
+    rating: 5
+    comment: |
+      We came in for the Halloween high tea and it was an amazing experience! The staff were friendly and attentive. The place set the mood with the decorations and a private table. (We reserved in advance) The price was really good for the amount of food they gave us! They gave us a 3 tier tray of sandwiches and another tray of in theme Halloween desserts. We couldn’t finish it all. It was super delicious too. It made for a lovely day out! Will definitely be popping in again for high tea! HIGHLY recommend! Thanks for a great experience!
+  - name: "Rie"
+    rating: 5
+    comment: |
+      Strolling downtown looking for coffee shops—smelling the coffee first before entering a cafe is what I always do (personally, a coffee shop without the smell of either coffee or baked goods is not a good coffee shop), and I smelled the scent of brewing coffee, and thus I entered. The brewed coffee was good (I always order black), and the blueberry cheesecake croissant The highlight of my stay was the Croissant—oh, the flavor of the blueberry and the cream cheese together was very decadent, and the dough was very flaky and crunchy. The fresh blueberries were also tart and well fresh. The atmosphere was quiet (I was there at 10 am), with clean tables and floors, and the spacing for the tables was also great (very Instagrammable). They also have a clean washroom. Staff are all very welcoming and polite (very friendly and all smiles). Definitely check them out!
+  - name: "Nadine Martin"
+    rating: 5
+    comment: |
+      This place is unreal. The quality of their baking is unmatched with the most flaky buttery croissants. Their specialty pastries are definitely worth trying. I had the pistachio cube and was not disappointed at all - it was delicious, flaky, flavourful and had a delicious creamy centre. This spot is so cute with fun decor and the atmosphere is perfect for slowing down and just enjoying your coffee or tea and a pastry.
   - name: "Bryanna"
     rating: 5
-    date: "2026-06-12"
     comment: |
       Great quality pastries. Fluffy, light and their fillings are not too sweet which I appreciate. Im impressed by the elegance and well executed technique of their pastries. Their almond croissants are perfect. Bavarian cream donut is light and refreshing. There was only once that I wished their vanilla custard cruffin had more filling in it, and it tasted a bit more plain which was to be expected for that flavour. Blueberry cheesecake croissant was amazing.
       
@@ -48,17 +59,6 @@ reviews:
       Their coffee could be better for the price you’re paying, but I go for the pastries.
   - name: "Maade Okai"
     rating: 5
-    date: "2026-05-18"
     comment: |
       I came here for the delicious croissants and i was not disappointed! I got a creme brulee croissant, and i found it some buttery and light! I also had a strawberry coconut drink, which was quite refreshing! The honey London fog was nice, and bit more frothy milk than tea but still very cute!
-  - name: "Natasha Saad"
-    rating: 5
-    date: "2026-05-05"
-    comment: |
-      Love everything about this spot. The food is absolutely delicious, the cafe is beautiful, and service is excellent. They have a variety of croissants, the hybrids are so creative. Fantastic drinks, and paninis was perfect. Will definitely be back to visit
-  - name: "Tim Mapplebeck"
-    rating: 5
-    date: "2025-12-06"
-    comment: |
-      We enjoyed a lovely visit at Ayco Café. The interior was beautiful and quite cozy. The couches at the back of the café were so nice. The owner and his staff were very welcoming and served us so kindly as well. They patiently explained what the different pastries and drinks were. We tried out some of the seasonal drinks such as the Gingy latte, Velvet egg nog latte and Jingle bells cocoa. We also had a cafe Mocha. The pastries were delicious. We had the Dubai croissants, Creme Brulee and Peppermint mocha bow. They also have a great loyalty program that they added us to as well. It was a very enjoyable experience. We look forward to their new location in the Glenora area. For now it's definitely worth the drive to downtown. We definitely recommend checking out this lovely little café bakery.
 ---

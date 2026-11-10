@@ -32,7 +32,6 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Google User"
     rating: 5
-    date: "2026-07-17"
     comment: |
       Highly recommended place whoever new in Edmonton or needs a reliable mechanic. I visited this place three time and always got great service with very competitive prices!
       
@@ -45,9 +44,16 @@ reviews:
       -
       
       They really takes care clients' vehicles as a family owned. Last time when  I visit, my front driver end tire had low pressure. And I found it nice and full after the oil change is done. I believe it explains a lot. Try this shop if you need a reliable mechanic in Edmonton!
+  - name: "Aalampreet Dhaliwal"
+    rating: 5
+    comment: |
+      I had a great experience with the car inspection service. The staff was professional, friendly, and thorough. They carefully inspected the vehicle and explained everything clearly, which made the whole process easy and stress-free. I really appreciated their honesty and attention to detail. I would definitely recommend their service to anyone looking for a reliable and professional car inspection.
+  - name: "Loretta Lahey"
+    rating: 5
+    comment: |
+      If you are getting an out of province inspection or any other vehicle inspection, I highly recommend these folks.  If there are any repairs needed, they will give you an honest price.  Compared to large companies, for example, (Trail Tire), AutoGuard will take care of you with friendly, and timely service compared to the other places with confusing explanations and over inflated prices.
   - name: "Zaid Aboud"
     rating: 5
-    date: "2026-07-26"
     comment: |
       I highly recommend this place!
       I brought a Jeep to them for a pre-purchase inspection.
@@ -56,12 +62,6 @@ reviews:
       3. They were thorough, provided very detailed documentation, and gave me an honest recommendation regarding the Jeep (which I ended up purchasing).
   - name: "N W"
     rating: 5
-    date: "2026-06-11"
     comment: |
       Sid is a phenomenal mechanic & business owner. Well priced, professional and extremely knowledgeable. I’ve been to Sid twice since moving here and I would recommend Autoguard to everyone. Work is always reasonable and always finished fast. Thanks again Sid!
-  - name: "lee selemba"
-    rating: 5
-    date: "2026-06-15"
-    comment: |
-      They where very informative, honest and gave me a fair price on parts I needed. Their communication was excellent, and everything was extremely described. Highly recommended and would  definitely do business with them again.
 ---
