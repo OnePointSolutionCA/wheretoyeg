@@ -23,7 +23,7 @@ hours:
 photos:
   - "/photos/barber-bros-g1.jpg"
 rating: 5.0
-review_count: 225
+review_count: 233
 price_range: "$$"
 amenities:
   - "Family Friendly"
@@ -34,32 +34,26 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Suesan"
     rating: 5
-    date: "2026-06-24"
     comment: |
       very clean, nice bright barbershop, the barbers were so polite come visit hamed out here in sherwood. they do facemasks  and many different treatments for men
-  - name: "Bradley Bourque"
-    rating: 5
-    date: "2026-03-28"
-    comment: |
-      Hamed did an amazing job on my haircut. He really took his time, paid attention to the details, and made sure everything looked clean and exactly how I wanted it. The shop itself is also a great place, friendly, welcoming, and professional. Hamed and his brothers have all cut my hair before, and every time I’ve left happy with the result. They all do great work, and I’d definitely recommend this barbershop to anyone looking for a solid haircut.
-  - name: "Dalton"
-    rating: 5
-    date: "2026-09-06"
-    comment: |
-      I’ve been coming here for the last 6 months and each haircut keeps getting better and better. Not due to a “lack of skill” but because the boys take what I already have and just keep working at it and improving it. I’ve now gone through three hairstyles, all completely different from each other because they nail it every time. The best haircut shop I’ve been to and I’m one picky son of a gun when it comes to haircuts.
-      
-      Highly recommend.
   - name: "Chanel Nelson"
     rating: 5
-    date: "2026-03-24"
     comment: |
       Absolutely amazing experience at this new barber shop! They’ve done such a great job cutting my oldest sons hair that I even brought my 3-year-old in for his very first haircut & it went perfectly. The team is so polite, welcoming & most importantly great with kids. 10/10 Highly recommend!
-  - name: "David Campbell"
+  - name: "Andrew Braun"
     rating: 5
-    date: "2026-07-14"
     comment: |
-      Highly professional, 3 brothers risking their biscuits and started their own barber shop.
-      Loved the haircut, calm, humble and excellent customer service!
+      I saw Hamed today for the first time and he was top notch. Amazing cut, clean and super friendly. An awesome local business. Definitely will be coming back and trying extra stuff.
+  - name: "Brock Willie"
+    rating: 5
+    comment: |
+      Best cut I've had in the last two years anywhere in or near Edmonton. Chico knew exactly what I was asking for. Usually there is multiple things missed since my cut is pretty specific, but the cut was exactly what I asked for.
       
-      Lets see these guys flourish!
+      Super friendly as well, and very reasonably priced. For the quality, I wouldn't believe this is one of the cheaper haircuts I've had. Not to mention the refreshments and hot towel at the end. It's one of my favourite parts of a cut but sadly is rarely done elsewhere. Overall, very happy.
+      
+      Wish I wasn't moving or this would be my go to spot!
+  - name: "Soula McBride"
+    rating: 5
+    comment: |
+      So welcoming!! So clean!! Drinks and treats offered!! These guys did an amazing job of my boys cuts!! They were patient and so kind!! Did exactly what was hoped for!! We will be back!!
 ---

@@ -19,7 +19,7 @@ hours:
   sunday: "10:00 AM–10:00 PM"
 photos: ["/photos/banaadiri-xamereey-somali-restaurant-1.jpg", "/photos/banaadiri-xamereey-somali-restaurant-2.jpg", "/photos/banaadiri-xamereey-somali-restaurant-3.jpg"]
 rating: 4.7
-review_count: 66
+review_count: 71
 price_range: "$"
 amenities:
   - "Halal"
@@ -30,6 +30,14 @@ tags: ["edmonton", "somali", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Mahamed Musa"
+    rating: 5
+    comment: |
+      Being a Toronto guy who misses his certified hitters when it comes to tip top somali restaurants.. finding this likkle gem is a blessing Wallahi. First time at this restaurant & Just the maraaq alone will let you know you're in the right place. Iykyk. Genuinely good people, the brother who's the owner here is a funny charismatic good hearted guy who makes the food taste even better 😆. Wallahi its hard to find people who really care about the people and the food they make. Solid family run business. Fireeee food frfr, defo found my likkle comfort spot when im super marved or want good good eats. 👊😌💯📈📈
+  - name: "Darwish D"
+    rating: 5
+    comment: |
+      Great food and great customer service! Keep up the great work guys.
   - name: "Chris A"
     rating: 4
     comment: |
@@ -42,12 +50,4 @@ reviews:
     rating: 5
     comment: |
       It's a great meal. I'm not going to lie: it isn't pleasant inside. It's quite rundown. You come here for a great meal and a very reasonable price. So eyes wide open. I had lunch with a Somali buddy here and he recommended this place. I hadn't been here in years - used to come often when I worked near NAIT. so tasty...
-  - name: "Izak Nash"
-    rating: 5
-    comment: |
-      Alright I don't really want to share this review because I don't really want other people to discover this place but that feels unfair to the owner. First off I walk in and the smell of incense of some kind hits me and I genuinely don't think I could survive dinning in here. I ask for a menu and a gentleman informs me he is the menu and lists of the type of meats I can choose from. Being a fan of authentic food I am immediately excited and nervous so I put it to faith and ask for one beef one lamb. This apparently suffices as an order and I am sat down with a bowl of mystery soup to tide me over while I wait. All told the food was amazing and very reasonably priced and you absolutely should go here just don't tell your friends about it, and if you can't handle the incense take your food to go like I did!
-  - name: "Abu Kamara"
-    rating: 5
-    comment: |
-      Loved the hospitality in the restaurant, food is very good and the owner was very nice, I even ordered food one time and he helped me carry my food I was taking home in the car!!
 ---

@@ -24,31 +24,33 @@ photos:
   - "/photos/bailey-nelson-optometry-west-edmonton-mall-g1.jpg"
   - "/photos/bailey-nelson-optometry-west-edmonton-mall-g2.jpg"
 rating: 4.8
-review_count: 878
+review_count: 892
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "eye-care"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Gerylene Peters"
-    rating: 5
-    date: "2026-08-06"
+  - name: "Moe El-Tayeb"
+    rating: 1
     comment: |
-      Mel and her other colleagues were very accomodationg and very helpful. Mel assisted me and was patient on giving me options and suggestions which helped me find the pair of glasses that I really liked. She is very good at what she does and costumer service is top notched.
-  - name: "hayriye kol"
+      The customer service was good, and the glasses look nice. Unfortunately, the most important part of the experience was disappointing: the vision is not as clear as it was with my old glasses.
+      
+      I’m not sure whether the issue is with the eye examination or the way the lenses were made, but something is clearly not right. Good-looking glasses are not enough if I cannot see properly through them.
+  - name: "George"
     rating: 5
-    date: "2026-07-13"
     comment: |
-      I had my eyeglass lenses made here and I am very pleased with the service. The staff were friendly, helpful, and solution-oriented. They listened carefully, took the time to understand exactly what I wanted, and provided excellent service throughout the process. I would highly recommend them.
-  - name: "billiardss"
+      Hey man shout out to Omar and Ruby for helping me with getting my glasses yesterday- they were super nice and helpful. Overall this is my go to place for glasses now they offer great deals great ways to customize your glasses and amazing customer support. Thanks again omar and Ruby
+  - name: "Mark Huynh"
+    rating: 1
+    comment: |
+      Bought glasses from here came back to get them adjusted and went up to Omar he asked my wife for a 5 star review and proceeded to take 40 minutes to try and adjust them. Did not fix them and we went to For Eye Clearly upstairs and they fixed it immediately. Would not recommend.
+  - name: "D L"
     rating: 5
-    date: "2026-07-17"
     comment: |
-      I had an excellent experience thanks to Darrien! He was incredibly helpful throughout the process of buying my new glasses. He took the time to answer all my questions, explained my options clearly, and made sure I found the perfect pair that suited both my needs and style.
-  - name: "Ioana Campbell"
+      Was a great experience from start to finish. Tam was a great help, from choosing the glasses to letting me know when they were ready. Also the sales associate that helped fit my glasses did an excellent job when I picked them up. Stylish glasses, efficient, friendly service and best of all I can see again. Thanks!
+  - name: "Gail Collier"
     rating: 5
-    date: "2026-06-04"
     comment: |
-      Thank you Tam for such a professional and friendly support you had offered me. Without thinking twice, I had recommended you and your team to my colleagues for your patience, right information, and exquisite customer service. In less than a week, I received the new pair of glasses. Since then, i had received so many compliments regarding my new look; in so many ways reminding me of your well spent time to figure out my needs and unique expression of "I feel good about myself".
+      Super customer service, welcoming and generous and even offered me beautiful flowers on Mothers Day when ordering my contact lens. Provided me with a small sample to help me get by while waiting a few days for my order to come in. The team at Bailey Nelson are always helpful, offering to tighten and clean my glasses whenever I come in. I will not go anywhere else, very satisfied. Each interaction has shown me how much I’m valued as a customer. Bailey Nelson appreciates my business and it shows every time. Thank you again!
 ---

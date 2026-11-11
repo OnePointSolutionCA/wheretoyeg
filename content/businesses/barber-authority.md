@@ -24,7 +24,7 @@ photos:
   - "/photos/barber-authority-g1.jpg"
   - "/photos/barber-authority-g2.jpg"
 rating: 4.8
-review_count: 73
+review_count: 76
 price_range: "$$"
 amenities:
   - "Family Friendly"
@@ -33,9 +33,28 @@ tags: ["edmonton", "fades"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Ray Rahall"
+    rating: 5
+    comment: |
+      Incredible experience every time with Ray and Sine at Barber Authority. Super professional, give an incredible haircut with great attention to detail. The shop is clean, modern, and looks amazing. Highly recommend!
+      
+      PS. The coffee is ridiculously good
+  - name: "Steve Wowk"
+    rating: 5
+    comment: |
+      First visit to Barber Authority and was pleased. I got there when they opened but was told that they had appointments to start the day. I made an appointment and Sine finished his customer with a few minutes to  spare. When I was done another barber asked how was the haircut and if I was happy with it. I said yes and he introduced himself Ray. Not sure if he is the sole owner or partner but was nice to see that he cared about the customers.
+  - name: "Travis Le"
+    rating: 5
+    comment: |
+      had an excellent experience at Barber Authority with Sine. From the moment I walked in, he was welcoming and made me feel comfortable. He even offered me a coffee, which was a nice touch.
+      
+      The consultation was thorough, and he really took the time to understand exactly what I wanted. His attention to detail throughout the haircut was outstanding, and he never rushed the process.
+      
+      I asked for a taper buzz cut, and he absolutely nailed it. It came out exactly how I envisioned it—clean, sharp, and precise. You can tell he takes pride in his work and genuinely cares about his clients leaving happy.
+      
+      I highly recommend Sine to anyone looking for a skilled barber who provides great customer service and consistently delivers quality cuts. I’ll definitely be coming back!
   - name: "Jimmy R"
     rating: 5
-    date: "2026-08-02"
     comment: |
       I’ve been to a lot of barbers over the years, but Ray at Barber Authority is on another level. From the moment you walk in, you’re welcomed with genuine hospitality and a great atmosphere. The shop is spotless, professional, and has an amazing vibe that makes you feel comfortable right away.
       
@@ -46,30 +65,6 @@ reviews:
       If you’re looking for a barber who is talented, professional, and creates an incredible experience, I can’t recommend Ray and Barber Authority enough. He’s earned a customer for life. Keep up the amazing work—you deserve all the recognition coming your way!
   - name: "Sarah"
     rating: 5
-    date: "2026-04-12"
     comment: |
       I love how accommodating this barber shop is. 1st we came in closer to the closing (of course I called 1st and owner said he’ll wait for us). I showed him the picture I wanted for my son to have and the owner was able to deliver. This barber shop did not disappoint. I can really tell he is well experienced and very skilled. Owner is very nice and friendly my son said he wants to get his haircut at this barber shop always. I 100% recommend this place. Thank you!
-  - name: "Ray Rahall"
-    rating: 5
-    date: "2026-04-25"
-    comment: |
-      Incredible experience every time with Ray and Sine at Barber Authority. Super professional, give an incredible haircut with great attention to detail. The shop is clean, modern, and looks amazing. Highly recommend!
-      
-      PS. The coffee is ridiculously good
-  - name: "Travis Le"
-    rating: 5
-    date: "2026-07-21"
-    comment: |
-      had an excellent experience at Barber Authority with Sine. From the moment I walked in, he was welcoming and made me feel comfortable. He even offered me a coffee, which was a nice touch.
-      
-      The consultation was thorough, and he really took the time to understand exactly what I wanted. His attention to detail throughout the haircut was outstanding, and he never rushed the process.
-      
-      I asked for a taper buzz cut, and he absolutely nailed it. It came out exactly how I envisioned it—clean, sharp, and precise. You can tell he takes pride in his work and genuinely cares about his clients leaving happy.
-      
-      I highly recommend Sine to anyone looking for a skilled barber who provides great customer service and consistently delivers quality cuts. I’ll definitely be coming back!
-  - name: "Lynae Hassan"
-    rating: 5
-    date: "2026-09-08"
-    comment: |
-      Always a great experience. They always do a great job with my son’s hair. Friendly and patient with kids, and his haircut always turns out great. Definitely our go-to barber shop!
 ---

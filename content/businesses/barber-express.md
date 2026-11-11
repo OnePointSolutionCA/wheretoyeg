@@ -24,7 +24,7 @@ photos:
   - "/photos/barber-express-g1.jpg"
   - "/photos/barber-express-g2.jpg"
 rating: 4.6
-review_count: 997
+review_count: 1030
 price_range: "$$"
 amenities:
   - "Family Friendly"
@@ -35,7 +35,6 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Khatty Schumberger"
     rating: 5
-    date: "2026-07-09"
     comment: |
       The best barber of all west Edmonton mall !!!
       Before I discover Barber Express I tried another place in the mall and they refuse to cut my kids hair saying he won’t seat still … lol
@@ -43,24 +42,26 @@ reviews:
       However the guys at Barber Express gave me a warm welcome, and not only accepted to cut my son’s hair, they were very very patient and dedicated all their attention and time to make it work. I payed gladly what they asked for specially because of this friendly and warm customer service that is so rare in our days ! And I will recommend them to my friends and family ❤️❤️❤️
       
       All the best and great business success Guys ! You guys deserve !!! Thankyou !
+  - name: "Vicious Reality Studios"
+    rating: 5
+    comment: |
+      ⭐⭐⭐⭐⭐
+      
+      Absolutely awesome experience. Abe cut my hair and did a fantastic job. He was professional, courteous, easy to talk to, and you could tell he takes pride in what he does. He took his time, paid attention to the details, and I walked out extremely happy with the cut.
+      
+      Jay cut my son’s hair and was equally impressive. He was fantastic with my boy — patient, friendly, made him feel comfortable, and gave him a really sharp-looking cut. As a parent, you definitely appreciate someone who knows how to work with kids and still takes the time to do the job properly.
+      
+      The whole shop had a great atmosphere, everyone was welcoming, and we both left looking fresh. Abe and Jay absolutely earned the 5 stars. We’ll definitely be back next time we’re at West Edmonton Mall. Highly recommend these guys!
   - name: "Ahmad Biy"
     rating: 5
-    date: "2026-07-20"
     comment: |
       visited this barbershop and had my haircut done by Moe. He was professional, respectful, and paid close attention to every detail. The shop was clean, organized, and welcoming, and my haircut turned out exactly the way I wanted. I was very satisfied with the result. If I could, I would give more than five stars because the service exceeded my expectations. I highly recommend this barbershop to anyone looking for a quality haircut and excellent service.
-  - name: "Ava Yardley"
+  - name: "NerfMaster One"
     rating: 5
-    date: "2026-04-03"
     comment: |
-      Eyebrow slits, he did a wonderful job!! and was very patient when we were making our decision. 5/5 recommend. I forget the guys name! but he was super generous too.
-  - name: "Ran Sandhu"
+      Did a great job at cutting my dad’s hair. Overall atmosphere of the place felt great too. The service was also quick and very efficient. Also, not sure if the person who cut my dad’s hair will see this, but I’ll definitely try and see if we can get free pizza from you’re uncle at pizza 73 in fort mcmurray.
+  - name: "Juan Manuel Perez"
     rating: 5
-    date: "2026-05-03"
     comment: |
-      Ibraham is such an amazing barber! His talent with the clippers and scissors is truly unmatched, always leaving his clients looking sharp and happy. He pays such close attention to every detail and ensures that each experience is personalized. But what really sets him apart is his ability to make everyone feel comfortable and relaxed. It's not just about the haircut with Ibraham, it's about the friendly chats that make each visit special.
-  - name: "Alex"
-    rating: 5
-    date: "2026-07-08"
-    comment: |
-      I went to this barber shop for the first time, and a person named Moe cut my hair. It was really good, the hair was styled perfectly, and my wife really loved the haircut. I highly recommend it.”
+      Brought my son in for a back to school haircut, he came out looking super slick!!! Abraham and Jay were great, they made me think of those old school barbers you see in movies, the guys that know everyone in the neighborhood and make everyone coming in feel like they matter. Absolutely recommend them!
 ---

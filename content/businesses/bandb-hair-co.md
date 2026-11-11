@@ -6,7 +6,7 @@ subcategory: "cuts-styling"
 neighborhood: "Beaumont"
 address: "5003 30 Ave #105, Beaumont, AB T4X 1T9"
 rating: 4.8
-review_count: 189
+review_count: 190
 tier: "featured"
 phone: "(780) 929-2232"
 website: "https://bbhair.ca/"
@@ -14,31 +14,22 @@ google_maps: "https://maps.google.com/?cid=14470712132210183316&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/bandb-hair-co.jpg"
 reviews:
+  - name: "Carol Clark"
+    rating: 5
+    comment: |
+      Made an appointment with Gail to get my chemo hair cut and styled.  Gail did amazing work and made me feel beautiful again. I’m enjoying how easy it is to style each day and of course loving the compliments I’m getting on my hair.  And as a big surprise… Gail gifted me the appointment because it was my first hair appointment after a difficult time.  Not only does she have incredible skill but also compassion 💕
   - name: "Kali Weiler"
     rating: 5
     comment: |
       I started seeing Candace last July and have loved my hair since! She’s talented, flexible, personable, and remembers specific details about your life from one appointment to the next. The salon has a professional yet friendly atmosphere. Would recommend 🙌
-  - name: "Marilynn"
+  - name: "Julie Canham"
     rating: 5
     comment: |
-      Natasha knows my hair and gives me the best haircuts ever.
-      I am a Senior client -stb 79 years of age. I love their brand of Shampoo for my grey/white hair .
-      Prices are very reasonable. They take cash or credit/debit cards.
-      Very kind people who work there. I love the resident dog. It's wonderful to have him walking around and giving us love
-      I make sure I go once a month because my hair grows fast.
-      Natasha explained to me that I don't have thick hair but lots of hair. I never knew that before.
-  - name: "Sarah Mccurdy"
+      Love, love, love. I've been with BB since they opened in Beaumont, and I've been seeing Candice for my hair ever since. The atmosphere is fabulous, great selection of products, and the people are absolutely lovely. The staff are friendly, knowledgeable, funny, and always have great advice for whatever you're looking to do to your hair! Highly recommend making the trip out to Beaumont if you're in the city!
+  - name: "Michelle Hekkink"
     rating: 5
     comment: |
-      I seriously can't recommend B&B Hair Co. enough!
-      Jadyn absolutely nailed my haircut. It was exactly what I wanted, and I left feeling so happy with it.
-      For my color, she gave me exactly what I had asked for, but once I got home I realized it just wasn't me. I reached out, and she got me back in right away, completely changed it into something I LOVE, and didn't charge me a penny for the correction.
-      It's so refreshing to find someone who's not only incredibly talented, but also genuinely wants you to be happy with the end result. I smile every time I look in the mirror now!
-      If you're looking for a stylist who listens, cares, and does amazing work, go see Jadyn at B&B Hair Co. You won't regret it!
-  - name: "Jackie B."
-    rating: 5
-    comment: |
-      Candice a pro at grey/blond blending and always does a fantastic job on my hair! The salon is always clean and has a great atmosphere.  I wouldn’t go anywhere else.
+      I have been seeing Candice for many years for my color and cut. I am very happy each time I sit in her chair with the final product. There was one time my hair did something wonky after having had COVID and experiencing substantial hair loss and the color just wouldn't adhere the same as it had in the past, but Candice promptly had me back in the chair to accommodate this issue and I was very grateful for her professionalism and expertise.
   - name: "Shayla Ellingsen"
     rating: 5
     comment: |

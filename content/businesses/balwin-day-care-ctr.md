@@ -22,8 +22,8 @@ hours:
   sunday: "Closed"
 photos:
   - "/photos/balwin-day-care-ctr-g2.jpg"
-rating: 4.8
-review_count: 29
+rating: 4.9
+review_count: 27
 amenities: []
 tags: ["edmonton", "childcare"]
 active: true
@@ -31,22 +31,22 @@ date_listed: "2026-10-02"
 reviews:
   - name: "chime emechebe"
     rating: 5
-    date: "2026-08-23"
     comment: |
       Great daycare great atmosphere. I am interested in their new sports progeam they are implementing!
   - name: "Reetu Gill"
     rating: 5
-    date: "2020-01-08"
     comment: |
       Great place and friendly staff who are easy to talk too. My daughter has been attending for close to 3 years and is super chatty! She loves it here.
   - name: "Sanjeev Rawat"
     rating: 5
-    date: "2020-01-11"
     comment: |
       my daughter goes to Balwim daycare and she loves it!her language has improved a lot since starting and she comes home singing new songs!the kids were all having so much fun,and the staff were always smiles and owner  and staff is very nice
-  - name: "Peter Gatkuoth"
+  - name: "Suhag Patel"
     rating: 5
-    date: "2018-02-06"
     comment: |
-      Great place and family friendly atmosphere. I recommend this place to my family and friends.
+      Took my niece there and she loved It. Awesome place and nice friendly people.
+  - name: "Jenny B"
+    rating: 5
+    comment: |
+      My kids have been going there for years.they have great staff and the owner is amazing.thanks balwin.
 ---

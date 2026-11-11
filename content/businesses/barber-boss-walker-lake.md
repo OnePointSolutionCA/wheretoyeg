@@ -22,7 +22,7 @@ hours:
 photos:
   - "/photos/barber-boss-walker-lake-g1.jpg"
 rating: 5.0
-review_count: 208
+review_count: 212
 price_range: "$$"
 amenities:
   - "Family Friendly"
@@ -31,35 +31,28 @@ tags: ["edmonton", "fades"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Rajandeep Shergill"
+    rating: 5
+    comment: |
+      Honestly, one of the best barbershops I’ve been to! Gurshan is an amazing barber  he takes his time, pays attention to the details, and always makes sure the haircut comes out exactly how you want it. You can tell he genuinely cares about his work.
+      
+      The barbershop has a great atmosphere, everyone is friendly, and the service is always on point. I’ve had a great experience every time I’ve gone. If you’re looking for a clean fade, fresh haircut, and a barber you can trust, definitely ask for Gurshan. Highly recommend this place!
+  - name: "K B"
+    rating: 5
+    comment: |
+      Looking for a new barber? Gurshan is the guy to see. Super chill, easy to talk to, and always does an amazing job. He pays attention to the details, takes his time, and makes sure you leave happy with your cut. I’ve always had a great experience and would definitely recommend him to anyone looking for a fresh barber.
   - name: "AhSam Kirk"
     rating: 5
-    date: "2026-05-29"
     comment: |
       Had an awesome experience at Barber Boss. The beard trim was fantastic, and it was my first time in Mo’s chair. I really appreciated the banter and how comfortable he made the whole experience. You can tell he takes real pride in his work.
       I brought my son here a week ago as well, and he left with the best haircut he’s ever had. He was absolutely beaming through the entire experience.
       The quality, atmosphere, and pricing are hard to beat. Support this amazing local business — highly recommended. I’ll never trim my own beard again!
-  - name: "Tanish Mondal"
+  - name: "tuan huynh"
     rating: 5
-    date: "2026-09-01"
     comment: |
-      Best barber shop if you like crisp tapers, line ups and fades. Atmosphere is very calm and chill and overall a good place to get a haircut, this is my third time there and my barber blessed me with the crispiest lineup.
-  - name: "K B"
+      Been getting my haircuts here for almost a year now and it’s been a great visit every single time. First come first served and all 4 barbers here are amazing. Owner here is very passionate and friendly! Everyone here strives for great customer service too. Highly recommended.
+  - name: "Deepak Kullar"
     rating: 5
-    date: "2026-06-05"
     comment: |
-      Looking for a new barber? Gurshan is the guy to see. Super chill, easy to talk to, and always does an amazing job. He pays attention to the details, takes his time, and makes sure you leave happy with your cut. I’ve always had a great experience and would definitely recommend him to anyone looking for a fresh barber.
-  - name: "Jefferson Balmores"
-    rating: 5
-    date: "2026-02-24"
-    comment: |
-      Highly recommended barbershop! 🔥 The place is clean, welcoming, and very professional. The atmosphere is great, and you can really tell they care about their customers.
-      
-      Special shoutout to Nitin – he did an amazing job with my haircut! 💈 He is very skilled, detailed, and takes his time to make sure everything is perfect. He listens to what you want and gives great suggestions too. One of the best haircuts I’ve had!
-      
-      Definitely coming back. Thank you, Nitin!
-  - name: "Omar"
-    rating: 5
-    date: "2026-07-08"
-    comment: |
-      At my first time at Boss Barbershop I was very happy at my experience. My barber was Kalin, and even with his young age he shows great skill and is very communicative. I felt comfortable in my environment, and will definitely be coming again.
+      Neiten ( I probably spelt it wrong ) he was the best and it was my first time coming in today. During our haircut it felt like I always come here. We talked about university life, work, and general questions about each other. He did such amazing work with my haircut exactly the way I want it!! The price was so reasonable! His work and passion will take him far!!!!
 ---

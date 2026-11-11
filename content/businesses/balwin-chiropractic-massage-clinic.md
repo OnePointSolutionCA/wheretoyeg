@@ -16,11 +16,11 @@ hours:
   wednesday: "10:00 AM–7:00 PM"
   thursday: "10:00 AM–7:00 PM"
   friday: "10:00 AM–7:00 PM"
-  saturday: "10:00 AM–2:00 PM"
-  sunday: "10:00 AM–3:00 PM"
+  saturday: "10:00 AM–3:00 PM"
+  sunday: "10:00 AM–5:00 PM"
 photos: ["/photos/balwin-chiropractic-massage-clinic-1.jpg", "/photos/balwin-chiropractic-massage-clinic-2.jpg", "/photos/balwin-chiropractic-massage-clinic-3.jpg"]
 rating: 4.9
-review_count: 368
+review_count: 379
 price_range: "$$"
 amenities:
 
@@ -28,25 +28,30 @@ tags: ["edmonton", "chiropractors"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Anett Parokkaran"
+  - name: "Gilbert Lilian"
     rating: 5
     comment: |
-      I have been going to this clinic for over 2 years. The staff are sweet and helpful, very client centered. Rosa at the front is friendly and warm when you come in. Garagi the massage therapist is amazing, she knows what she's doing. And shes always so welcoming and kind. Dr. Raed is phenomenal. He has helped me recover a few times after my injuries.The staff truly care and they are amazing at what they do!
-  - name: "Tewfik Seid"
-    rating: 4
-    comment: |
-      This is an amazing chiropractic and massage establishment. Dr. Raed Abougoush is a skilled chiropractor, and Jamie Huebner is particularly exceptional. If you are seeking a deep tissue massage, she is highly recommended. She attentively inquires about your preferences and then delivers accordingly.
-  - name: "Jhanna Adajar"
+      My experience with both the massage therapist and the chiropractor was absolutely amazing! 🥰 I felt so relaxed and comfortable throughout the experience. The treatment was refreshing, and I could feel the tension in my body easing away. What made it even better was the quality of sleep I had afterwards. I slept so well, and my body felt like it had finally gotten the rest and relaxation it needed. Honestly, it was such a wonderful experience, and I’m glad I took the time to do something good for myself. Sometimes, all we need is to slow down, relax, and allow our bodies to recharge. I would definitely recommend the experience! ❤️✨ Lilian chika
+  - name: "Nelson Joseph"
     rating: 5
     comment: |
-      Andrienne is an amazing therapist. She is very knowledgeable and really listens to what your body needs. I came in with tight shoulders and lower back pain, and after the session I felt a huge difference. Her pressure and techniques were perfect. The environment was relaxing and professional. I highly recommend Andrienne if you’re looking for a therapist who truly cares about your wellbeing
-  - name: "Levitate Cash"
+      I’ve been going to **Balwin Chiropractic** for the past 5 years, and my experience has been nothing short of 100%! ⭐⭐⭐⭐⭐
+      I highly recommend them!
+      Recently had a back massage with **Gargi Rana**, and let me tell you, she hit all the right spots! 😁 My back felt awesome afterward!
+      If you’re looking for great care and a massage that hits the spot, I highly recommend the team at Balwin Chiropractic.
+      
+      **Great service, great people, and a happy back!** What more can you ask for? 👍🏻😊
+  - name: "Amy Hebert"
     rating: 5
     comment: |
-      Dr. A did amazing work on my hip and shoulder. I was in really bad pain and could barely move. After just one adjustment, he completely turned things around and got me back on my feet feeling so much better.
-      He’s very skilled, gentle, and really knows what he’s doing. I’m extremely grateful for the relief he gave me. I highly recommend Dr. A to anyone dealing with pain  he truly helped me when I needed it most!
-  - name: "Jennylynn Turcotte"
+      Dr A is very knowledgeable and is up to date on modern techniques. I have seen him for shock wave therapy to treat arthritis on my foot and in 4 sessions I have seen mobility coming back!!!! Amazing and friendly staff all around!  I also saw Heather for massage for tight IT bands.  She listened to my concerns and was focused on helping me find relief.
+  - name: "Haitham Bitar"
     rating: 5
     comment: |
-      I have nothing but great things to say about this clinic. Dr. A is knowledgeable, gentle, and takes the time to listen to you. All of the staff are so kind and welcoming and really make sure they are doing their best to help you along your health and wellness journey. 10/10 recommend.
+      YOU MUST COME SEE Dr. Raed Abougoush. Very very knowledgeable, doesn’t waste time, and is there for all your needs. He asked me questions related to my problems, was in depth when he’d explain anything to me, and made sure I understood what was going on, how it’s affecting me, and what he can do for me. I Felt very safe and knew I was in good hands. He truly is a chiropractor you should come and see. Kind, respectful, and very friendly. Felt like I knew him for years, and this was just in the first appointment with him. Can’t wait to come back. I left with a smile on my face and feeling like a whole new person. Take my word, and go see him.
+  - name: "Nouha Ajaj"
+    rating: 5
+    comment: |
+      I’ve been dealing with chronic back and shoulder pain and Dr.Al-Bekai was the first doctor to sit down and listen to what was wrong. After a thorough assessment and several visits I haven’t been feeling any pain. He took the time to listen and he explained the root of the problem.
+      Amazing staff and super welcoming as well, highly recommend!
 ---

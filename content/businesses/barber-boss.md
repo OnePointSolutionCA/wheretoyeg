@@ -6,7 +6,7 @@ subcategory: "mens-haircuts"
 neighborhood: "Beaumont"
 address: "5302 50 St, Beaumont, AB T4X 2Y2"
 rating: 4.9
-review_count: 242
+review_count: 255
 tier: "featured"
 phone: "(780) 929-2922"
 google_maps: "https://maps.google.com/?cid=15738802588435752748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -19,16 +19,18 @@ reviews:
       ⭐⭐⭐⭐⭐
       
       Been going to Gurmoney for a while now and he never misses. Every cut is clean, detailed, and exactly how I ask for it. He takes his time, pays attention to every little detail, and makes sure you leave looking your best. Great service, professional, and always a good atmosphere. If you’re looking for a barber who consistently delivers top-quality fades and cuts, Gurmoney is the guy. Highly recommend!
+  - name: "Manmeet Singh"
+    rating: 5
+    comment: |
+      Great haircut by Gurman! He did an amazing job and really paid attention to the details. Highly recommend him if you’re looking for a clean, fresh cut! 🔥✂️
   - name: "Hillary Trombley"
     rating: 5
     comment: |
       I have been bringing my son here since he was two and they are always doing the nicest haircuts while also making him feel so comfortable! He enjoys the experience so much that he gets excited to go. My husband also goes here and seen a few different barbers - he also really likes it and has always had great experiences. Thanks guys.
-  - name: "Chakib"
-    rating: 5
+  - name: "Adarsh"
+    rating: 1
     comment: |
-      I honestly don’t know where to start. Omar took great care of me from the first step I took into the shop. Omar not only gave me the best haircut I’ve had in years but also did an amazing job lining up my beard. He even gave me suggestions on how to care for my hair and beard moving forward which you never see many barbers do.
-      
-      I highly recommend Omar for all your barber needs and will definitely be coming back very soon!
+      I paid $54 for a haircut and beard trim at Barber Boss,which I found very expensive. The pricing wasn’t available online, so I couldn’t check the cost beforehand. I would appreciate it if the shop clearly displayed its prices online so customers can make an informed decision before booking. Overall, I felt the service was overpriced compared to other barbershops.
   - name: "Michele Lawless"
     rating: 5
     comment: |
@@ -39,16 +41,6 @@ reviews:
       Nice warm atmosphere.
       
       It would be nice if the pictures on them store reflected their diverse clientale.
-  - name: "Jerry McAllister"
-    rating: 5
-    comment: |
-      I can’t say enough great things about this barbershop! From the moment you walk in, you’re greeted with a warm, welcoming atmosphere that instantly makes you feel comfortable. The staff are incredibly friendly, down-to-earth, and genuinely care about giving you the best experience possible.
-      
-      What really stands out is how amazing they are with kids. They take the time to make them feel at ease, turning what can sometimes be a stressful haircut into something fun and enjoyable. You can tell they have a lot of patience and experience, which makes a huge difference for parents.
-      
-      The quality of the haircuts is top-notch every single time. They pay attention to detail, listen to exactly what you want, and deliver results that exceed expectations. Whether it’s a quick trim or a full style, you always leave feeling confident and looking sharp.
-      
-      If you’re looking for a barbershop in Beaumont that combines skill, professionalism, and a truly welcoming vibe, this is the place. Highly recommend!
 hours:
   monday: "Closed"
   tuesday: "10:00 AM–7:00 PM"
