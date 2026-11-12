@@ -5,6 +5,7 @@ import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
 import { ScrollOrbs } from "@/components/ScrollOrbs";
 import { Analytics } from "@/components/Analytics";
+import { StandaloneBack } from "@/components/StandaloneBack";
 import { getCategories } from "@/lib/content";
 import { organizationSchema, siteSearchSchema, JsonLd } from "@/lib/schema-extra";
 import { SITE } from "@/lib/site";
@@ -76,8 +77,10 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: "/logo-mark-192.png",
-    apple: "/logo-mark-192.png",
+    apple: "/icons/apple-touch-icon.png",
   },
+  // iPhone "Add to Home Screen": opens full screen with this name
+  appleWebApp: { capable: true, title: SITE.name, statusBarStyle: "default" },
   formatDetection: { telephone: true, address: true, email: true },
   verification: {
     ...(process.env.NEXT_PUBLIC_GSC_VERIFICATION
@@ -124,6 +127,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Navbar categories={navCategories} />
         <main id="main">{children}</main>
         <Footer />
+        <StandaloneBack />
       </body>
     </html>
   );
