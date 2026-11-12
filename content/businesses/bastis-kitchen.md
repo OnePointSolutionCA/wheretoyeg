@@ -38,19 +38,17 @@ reviews:
     rating: 5
     comment: |
       We recently ordered from Basti’ Kitchen and really enjoyed the food. The flavors were authentic and reminded us of home. As someone who loves Kapampangan food, it was nice to find dishes that tasted homemade and familiar. Everything we ordered was flavorful and well-prepared. Their Asadong Kapampangan is definitely worth trying, and it was one of our favorites. We’ll definitely be ordering again and would recommend Basti’ Kitchen to anyone looking for authentic Kapampangan cuisine.
+  - name: "ronnie capinding"
+    rating: 5
+    comment: |
+      Basti’s  Kitchen serves some of the best, most authentic Filipino food around. The flavors are spot-on, the portions are generous, and the service is always warm and welcoming. If you want a real, delicious taste of home, this is my Highly recommend.
   - name: "Weng Weng TV"
     rating: 5
     comment: |
       The Best Filipino Food in Town, not to mention that the owners are Kapampangans who are well
       Known Best cooks back home. All the food they serve are all amazingly delicious and always freshly serve to their customers. If You have Family occasions, birthdays, weddings, Christmas and New year’s celebration, I highly recommend Basti’s Kitchen. 🙏🙏👏👏😋😋😋
-  - name: "ronnie capinding"
+  - name: "marie natalaray"
     rating: 5
     comment: |
-      Basti’s  Kitchen serves some of the best, most authentic Filipino food around. The flavors are spot-on, the portions are generous, and the service is always warm and welcoming. If you want a real, delicious taste of home, this is my Highly recommend.
-  - name: "Wilson A"
-    rating: 5
-    comment: |
-      ⭐⭐⭐⭐⭐
-      
-      Great food, generous portions, and friendly service. Everything was fresh and delicious. Highly recommended! 😊
+      I have ordered food trays for Christmas and parties. The food is always very good, and our guests love it
 ---

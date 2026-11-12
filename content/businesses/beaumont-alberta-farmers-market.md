@@ -23,7 +23,7 @@ photos:
   - "/photos/beaumont-alberta-farmers-market-g1.jpg"
   - "/photos/beaumont-alberta-farmers-market-g2.jpg"
 rating: 4.3
-review_count: 12
+review_count: 11
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "bulk-health"]
@@ -32,22 +32,23 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Alex Hare"
     rating: 5
-    date: "2025-07-14"
     comment: |
       Great growing market. People being sooky about dogs need to grow up! There are plenty of places your dogs are welcomed, This isn’t one of them . Leave this beautiful community market alone with your whines and negative comments
+  - name: "Pryncess Black"
+    rating: 1
+    comment: |
+      Very small market, but a quarter of a block one strip
+      They don’t allow dogs
   - name: "Lexxi Jaevin"
     rating: 5
-    date: "2025-07-14"
     comment: |
       This is a wonderful market. Very well managed. There is always activities and entertainment for families. Food trucks and a great selection of vendors from week to week!
   - name: "Evergreenly Handmade"
     rating: 5
-    date: "2022-07-07"
     comment: |
       This is a really great farmers market! It continues to grow every single week. There is always a large variety of vendors and food trucks, truly something for everyone. I would definitely recommend checking it out, open every Thursday all summer long from 5-8 pm!
   - name: "Wendy Smith"
     rating: 5
-    date: "2025-10-05"
     comment: |
       Everyone is so friendly - such a great atmosphere. The live music this year was an added bonus!
 ---

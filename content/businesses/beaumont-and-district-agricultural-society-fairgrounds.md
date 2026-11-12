@@ -23,8 +23,8 @@ hours:
 photos:
   - "/photos/beaumont-and-district-agricultural-society-fairgrounds-g1.jpg"
   - "/photos/beaumont-and-district-agricultural-society-fairgrounds-g2.jpg"
-rating: 4.4
-review_count: 47
+rating: 4.5
+review_count: 49
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "outdoor"]
@@ -33,27 +33,24 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Irene Cabay"
     rating: 5
-    date: "2019-07-22"
     comment: |
       The bleechers were well spaced. There was also plenty of room on a man-made hill surrounding the arena. There were food trucks and activities. The RCMP musical ride was amazing!!
-  - name: "Kieran Wall"
-    rating: 5
-    date: "2026-06-22"
-    comment: |
-      Great experience here watching the beaumont music festival!
   - name: "dianne hackner"
     rating: 4
-    date: "2019-06-27"
     comment: |
       That place the city very nice the waterpark the pond I was there for the blues and Roots festival they need more mature people organizing that event
+  - name: "Kieran Wall"
+    rating: 5
+    comment: |
+      Great experience here watching the beaumont music festival!
   - name: "Maggie Tate"
     rating: 5
-    date: "2020-09-05"
     comment: |
       This year, 2020, the Beaumont Blues & Roots Festival IS actually back at the BADAS fairgrounds just outside of Beaumont for the first time since 2012. We are so grateful to the Beaumont and District Agricultural Society fairgrounds for hosting our Festival campers and camping volunteers over the past couple of years.
-  - name: "J"
+  - name: "Tamathea Howard"
     rating: 5
-    date: "2024-08-31"
     comment: |
-      Very cool event for children.  Lots of vendors for food and drink. Small animal petting area. It was FREE entry and parking. Baby loved this place! Lots of public porta poties.
+      What a wonderful event for families and all the children, and  in this economy, to have something free for families is remarkable and should be praised definitely. I will forsure vendor for the event again.
+      Cheers to you all
+      Sisters Pure Orgone Energy
 ---

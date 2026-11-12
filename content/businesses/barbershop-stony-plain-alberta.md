@@ -23,8 +23,8 @@ hours:
 photos:
   - "/photos/barbershop-stony-plain-alberta-g1.jpg"
   - "/photos/barbershop-stony-plain-alberta-g2.jpg"
-rating: 4.5
-review_count: 67
+rating: 4.6
+review_count: 83
 amenities:
   - "Family Friendly"
   - "Wheelchair Accessible"
@@ -32,26 +32,27 @@ tags: ["edmonton", "fades"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Beau Roy"
-    rating: 5
-    date: "2026-07-29"
+  - name: "Justin Dhoedt"
+    rating: 1
     comment: |
-      I recently switched Barbers and went to see Nabil on my son's recommendation. It's been terrific so far as i am 2 visits in and can't wait for my 3rd. Keep up the great work. See you soon😎
-  - name: "Chris Stump"
+      I needed a haircut today I always go here but get my hair done by Nabil best barber out there. As he is on holidays the person there today was in a rush and didnt follow instructions. Looks like a 2 year old was playing with an electric razor. Also he did not blow/clean the barber chair so I got to sit on and around other people’s hair.
+      October 16 2026 the person working around 3pm should be fired
+  - name: "Deepak kumar"
     rating: 5
-    date: "2025-11-29"
     comment: |
-      The best barber shop ever. I was late coming home from work and it was closing time but Nabil stayed late to cut me and my son's hair and also did a great job and did not rush just to get out of there. Best service ever
-  - name: "Laine Goudriaan"
+      Leo did an amazing job! He really took his time and paid attention to every detail. The haircut came out exactly how I wanted it, and I’m very happy with the result. Great service, professional, and friendly. Definitely recommend Leo if you’re looking for a great barber! 💯✂️
+  - name: "Caetronius"
     rating: 5
-    date: "2026-08-01"
     comment: |
-      Top service! Friendly staff fantastic atmosphere
+      Gentleman was very helpful. The environment was spacious. He crafted my hair with precision and was attentive to the look and asthetic I was going for. He also was very nice about taking some photos of me after for my interview. Very polite guy and will definitely be back.
+  - name: "MakKulit"
+    rating: 5
+    comment: |
+      At first, i did stop coming back to this barbershop as the last time i'm not so happy with my haircut even i showed them the picture that i wanted to do to my hair but they still did there OWN decision.
       
-      Nabil went over and beyond!
-  - name: "Amine Loghmari"
-    rating: 5
-    date: "2025-01-19"
+      Good thing i've met Mr. Lee (my first time seeing him) when i came back coz i do really need a haircut that time. I showed him again the picture that i wanted to do on my hair and yes he did follow what i wanted and set a little twist based on my preference which he asked me first if i agree with his idea and i just let him do it and yes now i am totally happy with the result. Now i have a reason to come back and maybe i'll only ask for Mr. Lee to be my hairstylist when i come back. 😁😁😁
+  - name: "D Lavallee"
+    rating: 3
     comment: |
-      I had an amazing experience at this salon! Nabil is extremely professional, attentive, and respectful. They truly listen to your needs and provide expert advice, ensuring the result is exactly what you want. The atmosphere is welcoming, and the service is impeccable. I highly recommend this place to anyone looking for a skilled and considerate hairstylist
+      This was my first visit to "Barbershop Stony Plain Alberta." First off, I was satisfied with how my haircut turned out in the end, but it took twice as long as what I am used to from a few other barber shops I've been to for the same cut. I thought that I was very patient, but my hairdresser/barber took a long time and went over the same area over and over and over again. It took 45 minutes to get a skin fade, and I was the only person in there the entire time. I hope that the others had a better experience than I did, and I hope that their service improves. I am sorry that I cannot go above 3 stars, but this is what I can give based on the service I received. Thank you in the end for the decent cut. I may be back one day. Maybe.
 ---

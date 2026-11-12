@@ -23,7 +23,7 @@ photos:
   - "/photos/basha-donair-shawarma-leduc-g1.jpg"
   - "/photos/basha-donair-shawarma-leduc-g2.jpg"
 rating: 4.5
-review_count: 949
+review_count: 960
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -35,9 +35,27 @@ tags: ["edmonton", "shawarma"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Ashley Mccarthy"
+    rating: 1
+    comment: |
+      What happened to your food?? Ordered a chicken Sharma and it was very dry and burnt chicken with limited to no toppings. I ordered extra garlic sauce and got no sauce!! It tasted like garbage!  Not worth any dollar amount!
+      What happened to the old management?! This was our “go to spot”. Now the food and service absolutely SUCKS!
+      I will make sure everyone I know will never ordered this crap food ever again!! Loyal customer and points collected gone!!
+  - name: "Shawn Wretham"
+    rating: 5
+    comment: |
+      I walked in to get a Donair and got The Biggest Donair i will ever see.
+      Of course I tried it, of course I did, and it was magnificent.  It made my whole day because that's also how long it took me to eat it.
+  - name: "Chris David"
+    rating: 1
+    comment: |
+      Order from here on skip. Order stated no sauce on donairs. Both donairs showed up drenched with some unknown sauce. Most disgusting inedible Donair I have ever seen, even the meat is mushy.
+  - name: "E Dober"
+    rating: 5
+    comment: |
+      Ordered them for a catered company event and wow! The shawarma wraps, rice bowls and salad were incredible. The management were so easy to work with, attentive and accommodating. They were very easily recommended some gluten free and dairy free meals as well. Good value for money. Highly recommend.
   - name: "Ilhom Tajibaev"
     rating: 5
-    date: "2026-05-30"
     comment: |
       The food here is very delicious and nutritious which is quite rare in most of canada, as I understood. Each ordered food is cooked fresh and quick. The only difficulty and problem I have each time is while eating wraps, as they are not fully wrapped but left one side open which means ingredients are loose and keep falling off the wrap and the wrap diameter is also too big for the mouth making it challenging to make each bite. Hope owners read this and make necessary improvements, if their business is interesting for them. Thanks.
 ---

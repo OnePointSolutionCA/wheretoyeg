@@ -30,24 +30,24 @@ tags: ["edmonton", "veterinarians"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Chasity Parr"
+    rating: 5
+    comment: |
+      It's taken me awhile to write this post as I had to take my cat for his forever sleep. While I was going through the hardest time, ALL the staff were so kind and comforting. From receptionists to the vet, you're animal is in amazing care & you're in great hands. Thank you for making the process as gentle as it could have been. I'll never forget your kindness.
+  - name: "Donna Mandau"
+    rating: 1
+    comment: |
+      Not reliable!! Wrong medical report from different dog sent to another vet clinic showing another dogs medical history. Last minute surgery cancelation...literally 10mins before appt after prepping pet for treatment.  Every time we would bring our pets for checkups...they would push for every possible treatment to rack up bill.  Not good at all!!!!  Go to Summerside Vet clinic....they are outstanding!!!
   - name: "Lyndsay B"
     rating: 5
-    date: "2026-08-09"
     comment: |
       This place was amazing! I walked in off the street on a hot day with my small Yorkie. They provided me a free bottle of water and gave me a free dog bowl that was collapsible for my walk. They were all so kind and asked me if I needed anything else♥️ this kind of service and heart truly shows what a kind business they are, especially knowing I wasn’t local.
-  - name: "Greg Shannon"
-    rating: 5
-    date: "2025-08-19"
-    comment: |
-      Incredibly great experience, first time client with our senior dog. Everyone was so welcoming and kind. Most importantly they treated me dog well. Highly recommend to any pet owner
   - name: "Brynn Blumhagen"
     rating: 5
-    date: "2025-07-23"
     comment: |
       Gabby had a great experience with Dr.Smith. Dr. Smith was incredibly kind and patient with Gabby. The other staff we met were fantastic too. We will be coming back here again for our annual check ups.
-  - name: "Holly Rox"
+  - name: "Greg Shannon"
     rating: 5
-    date: "2024-01-29"
     comment: |
-      Our dogs are so well taken care of each and every time we visit this clinic.  The staff really makes the experience warm and welcoming.  Very knowledgeable Veterinarians!
+      Incredibly great experience, first time client with our senior dog. Everyone was so welcoming and kind. Most importantly they treated me dog well. Highly recommend to any pet owner
 ---

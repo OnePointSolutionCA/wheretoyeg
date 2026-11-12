@@ -13,48 +13,39 @@ latitude: 53.535143
 longitude: -113.495991
 photos: []
 rating: 5.0
-review_count: 60
+review_count: 62
 amenities: []
 tags: ["edmonton", "events"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Tyler Tran-Ly"
+    rating: 5
+    comment: |
+      Be My Guest portraits has been a phenomenal experience and an absolute pleasure to work with. Jordon and his team have been amazing and we have heard great feedback from our guests. We love their work and his team is absolutely amazing at what they do! This experience was worth every penny and I highly recommend everyone to experience it in in person. Thank you so much Jordon and your team for such a memorable experience.
+  - name: "Kat Nguyen"
+    rating: 5
+    comment: |
+      Be My Guest Portraits was a non-negotiable for our wedding. Jordon is extremely kind, interactive, professional, yet makes your experience feel warm and personal — him and his team are exceptional. Our guests would not stop raving about his portraits, absolutely no regrets. Would highly recommend! Again, thank you so much.
+  - name: "Lauren Peckham"
+    rating: 5
+    comment: |
+      Jordon has such an amazing talent for capturing peoples essence and energy in the photos he takes. The images are so high quality and he make sure that you are never overly posed or awkward.
+      
+      They were honestly one of the best parts of our wedding day and our guests are still raving about them! We had them as our reception entertainment and the printed photos were peoples take home gifts. 10/10, could not recommend them more!
+  - name: "Jude"
+    rating: 5
+    comment: |
+      I had a wonderful experience with Be My Guest Portraits! I'm not used to being in front of the camera, but Jordon made me feel comfortable and at ease throughout the entire session. Ashley also did an amazing job with my makeup—I highly recommend adding that service.
+      
+      The final photos exceeded my expectations. They're beautifully edited, natural, and truly captured genuine expressions. Jordon's talent, creativity, and attention to detail really shine through.
+      
+      I couldn't be happier with my photos and would absolutely work with Jordon again! Highly recommend!
   - name: "Jessica Music"
     rating: 5
-    date: "2026-09-02"
     comment: |
       Absolutely incredible! Hiring this company was one of the best decisions we made for our wedding. They truly took our reception to the next level and created an experience our guests are still talking about. It brought so much energy, fun, and excitement to the night, and everyone absolutely loved it.
       
       They were professional, easy to work with, and helped make our wedding feel so unique and memorable. Looking back, I can’t imagine our day without them. If you’re on the fence, do it… you won’t regret it.
       Thank you again!!! 🙏
-  - name: "Toby Leung"
-    rating: 5
-    date: "2025-10-17"
-    comment: |
-      We were so grateful to have Be My Guest Portraits at our wedding reception! Jordon and Min were incredibly professional, and everyone (our families, guests, and ourselves) had such a great time. From the start, Jordon was very communicative and responsive during the planning process, which made everything so easy.
-      
-      He also shared incredibly helpful advice from his wealth of wedding experience on how to arrange our reception schedule to make the most out of the studio setup. We chose the colored photo package, and Jordon thoughtfully suggested several backdrop options that would complement it best. He was very open to discussion, and together we picked a color we really loved, which he then sourced it perfectly for us.
-      
-      Many of our guests (and us included!) aren’t usually comfortable in front of a camera, but Jordon knew exactly how to make everyone feel relaxed and confident, guiding us naturally into great poses.
-      
-      His knowledge of Cantonese, Mandarin, and Chinese culture was a huge help in coordinating guests who don’t speak English. He was also very patient and kind with our grandparents and older relatives/family friends, giving them clear instructions and making them feel comfortable.
-      
-      We received so many compliments from our guests saying how much they loved the photobooth and that it was such a fun idea.
-      
-      Booking Be My Guest Portraits was truly one of the best decisions, and best investment, we made for our wedding! :)
-  - name: "Sam Schembri"
-    rating: 5
-    date: "2026-05-04"
-    comment: |
-      Most comfortable, inviting and creative experience you could ask for with a photography session. Jordon gives supportive directions for posing and makes sure every step of the process is exactly what you need! Would recommend 1000000%
-  - name: "Jon Murray"
-    rating: 5
-    date: "2026-02-19"
-    comment: |
-      Attended the 5 Artist 1 Love All Black Gala and was blown away at how organized and efficient they were in capturing individual photos of over 200+ guests. Highly recommended if you want professionals capturing your event.
-  - name: "Brenda Pham"
-    rating: 5
-    date: "2025-12-25"
-    comment: |
-      We hired Jordan for our wedding and also for a company event after. Our guests are still singing praises about the photos and what a great and engaging photographer he is. I would recommend Be My Guest for all your photobooth needs!!
 ---

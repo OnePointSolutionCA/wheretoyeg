@@ -6,7 +6,7 @@ subcategory: "fried-chicken"
 neighborhood: "Windermere"
 address: "6189 Currents Dr NW, Edmonton, AB T6W 0L9"
 rating: 4.6
-review_count: 623
+review_count: 636
 tier: "featured"
 phone: "(587) 523-5523"
 google_maps: "https://maps.google.com/?cid=2646795241373122541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -25,6 +25,14 @@ reviews:
       Baked potato was also small in size.
       
       Service was good.
+  - name: "Sheikh Hassan Ali"
+    rating: 5
+    comment: |
+      Wonderful experience at Barcelos Flame Grilled Chicken – Windermere!
+      We’ve tried Barcelos twice now and both times it was absolutely delicious! We ordered the Spicy Peri and Veri
+      Peri chicken full, and it was juicy, soft, perfectly grilled, and full of amazing flavour. Truly tasty and satisfying.
+      Our kids loved it so much, and everyone at home enjoyed every bite. Alhamdulillah, it’s so nice to finally find really good, juicy, flavourful grilled chicken right here in Edmonton.
+      Highly recommended — especially to the Pakistani community looking for authentic, juicy, and delicious Halal flame-grilled chicken. Definitely worth trying!
   - name: "Jeff"
     rating: 5
     comment: |
@@ -33,18 +41,10 @@ reviews:
     rating: 5
     comment: |
       Oh man this place is absolutely amazing, the food!! The music!! The customer service is spot on 💯💯. I'm surprised i didn't find this place sooner. This is gonna be me and my wife's favourite spot from now on. Love it 🔥💪🏾
-  - name: "Angela Fok"
+  - name: "Tia Elsa Mathew"
     rating: 4
     comment: |
-      Chicken taste good but they forgot to get us the sauce so some pieces are a bit tasteless. Otherwise, I think it's great.
-  - name: "Jules Omo"
-    rating: 5
-    comment: |
-      Had the Family pack for a family of 4. We were overfilled as it was very filling, tasty and delightful. We also got a 15% discount on our family meal order, such a great deal.
-      
-      The cheesecakes on the other hand could be better, which is surprising considering it's from The Cheesecake factory. They didn't live to expectations but barcelos meals were on point!
-      
-      Staff were amazing and friendly and service was swift and flawless.
+      Small place but really great food! Fast service too, might just be a me problem but not clean version of songs are used, and the songs are pretty loud too… Okay for adults but maybe not the best for little kids to dine in.. spice level is acceptable if you are not a spicy person, but other than that.. 10/10 recommend!
 hours:
   monday: "11:00 AM–10:00 PM"
   tuesday: "11:00 AM–10:00 PM"

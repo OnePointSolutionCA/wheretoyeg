@@ -11,16 +11,16 @@ phone: "(780) 442-5311"
 website: "http://www.edmonton.ca/"
 google_maps_url: "https://maps.google.com/?cid=6297708114179597681&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "Closed"
-  tuesday: "Closed"
-  wednesday: "Closed"
-  thursday: "Closed"
-  friday: "Closed"
-  saturday: "Closed"
+  monday: "Open 24 hours"
+  tuesday: "Open 24 hours"
+  wednesday: "Open 24 hours"
+  thursday: "Open 24 hours"
+  friday: "Open 24 hours"
+  saturday: "Open 24 hours"
   sunday: "Open 24 hours"
 photos: ["/photos/beaumaris-lake-1.jpg", "/photos/beaumaris-lake-2.jpg", "/photos/beaumaris-lake-3.jpg"]
 rating: 4.7
-review_count: 574
+review_count: 572
 price_range: "$$"
 amenities:
 

@@ -19,8 +19,8 @@ hours:
   saturday: "12:00 PM–11:00 PM"
   sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/bb2-korean-bbq-buffet-1.jpg", "/photos/bb2-korean-bbq-buffet-2.jpg", "/photos/bb2-korean-bbq-buffet-3.jpg"]
-rating: 4.4
-review_count: 365
+rating: 4.3
+review_count: 383
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -44,14 +44,19 @@ reviews:
       Dessert was simple, featuring a few fresh fruits and cakes, plus a huge hit with the kids: a full freezer stocked with Melona ice cream bars in every flavor.
       
       Overall, an outstanding experience. Highly recommended!
-  - name: "J T"
+  - name: "Hajar Ghorbani"
     rating: 5
     comment: |
-      I went there for the grand opening right at open and there was a huge line. It was worth the wait and I can see why it's so popular! Get here early and hungry because this location has so much different variety of food and dishes that the other location doesn't have. The location is great too because it's closer haha.
+      This place genuinely checks every single box! The staff are exceptionally polite and respectful, and the atmosphere is gorgeous and spotless—plus, they play great Korean music. The restrooms are super clean and fully equipped (they even have mouthwash!). The food is unbelievably fresh and delicious, with a fantastic variety of sauces and desserts to choose from. We spent two wonderful, relaxing hours here. West Edmonton Mall desperately needed a spot like this! Highly recommended.
+      Thank you
+  - name: "Kimmy"
+    rating: 5
+    comment: |
+      We had such a great experience at this Korean BBQ restaurant! The food selection was amazing — there were so many choices and varieties to choose from, from different kinds of marinated meats to seafood, side dishes, and fresh vegetables. Everything tasted fresh, flavorful, and well-prepared.
       
-      The food quality is just as good as the south location and the atmosphere and interior is just as good. The sushi and the cooked food was great too (the ravioli surprised me) and I actually liked it just as much as the meat. I really liked the buffet style as well for the meat
+      The atmosphere was fun and lively, and the staff were very friendly, attentive, and quick to help whenever we needed anything. I also loved how clean and organized the restaurant was, which made the dining experience even better.
       
-      10/10 all aroubd
+      If you’re looking for a place with lots of options and authentic Korean BBQ flavors, I highly recommend this spot. Definitely worth coming back to with family and friends!
   - name: "Neha Walter"
     rating: 4
     comment: |
@@ -66,14 +71,6 @@ reviews:
       The atmosphere was nice, especially with all the Marvel-themed figurines throughout the restaurant. One thing I really appreciated was how attentive the staff were—they came by to replace the grill about every 15 minutes, which kept everything clean and made cooking much more enjoyable.
       
       Overall, it was a fun experience to try once, but I don't think it's somewhere I'd return.
-  - name: "Kimmy"
-    rating: 5
-    comment: |
-      We had such a great experience at this Korean BBQ restaurant! The food selection was amazing — there were so many choices and varieties to choose from, from different kinds of marinated meats to seafood, side dishes, and fresh vegetables. Everything tasted fresh, flavorful, and well-prepared.
-      
-      The atmosphere was fun and lively, and the staff were very friendly, attentive, and quick to help whenever we needed anything. I also loved how clean and organized the restaurant was, which made the dining experience even better.
-      
-      If you’re looking for a place with lots of options and authentic Korean BBQ flavors, I highly recommend this spot. Definitely worth coming back to with family and friends!
   - name: "Marco Luciano"
     rating: 4
     comment: |

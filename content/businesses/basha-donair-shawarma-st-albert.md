@@ -23,7 +23,7 @@ photos:
   - "/photos/basha-donair-shawarma-st-albert-g1.jpg"
   - "/photos/basha-donair-shawarma-st-albert-g2.jpg"
 rating: 4.2
-review_count: 196
+review_count: 198
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -35,22 +35,26 @@ tags: ["edmonton", "mediterranean"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Jesse Hank"
-    rating: 5
-    date: "2026-03-08"
+  - name: "Hagen Forbirggh"
+    rating: 2
     comment: |
-      First time
-      Here with a friend and omg so many options to choose from I got donair poutine and it was the best I’ve ever had
+      Usually very happy but inconsistency with who's cooking. Had a chefs donair today might have been 3  slices of mushrooms and the same as the onions. Was almost kids size "definitely" not worth $18.50. with extra cheese... 2nd strike out...
   - name: "K"
     rating: 4
-    date: "2026-05-31"
     comment: |
       Went there yesterday. Ordered the Sasquatch Donair. Was so huge I had to bring it home to eat with fork and knife. Feel like I could get three meals out of this Donair with the amount of meat. Very clean establishment. Very nice lady working there. Will definitely be back.
+  - name: "CornPop1"
+    rating: 5
+    comment: |
+      Great value! Got a very large donair for a great price, and it was delicious! Also had the deep fried mushrooms, and they were very good. Definitely recommend checking this place out!
   - name: "gursharan singh"
     rating: 5
-    date: "2026-02-28"
     comment: |
       ⭐️⭐️⭐️⭐️⭐️
       
       Absolutely amazing experience at Basha! From the moment you walk in, the staff make you feel welcome like family. The food is fresh, flavorful, and perfectly prepared — easily some of the best donair and shawarma I’ve had. Portions are generous, prices are fair, and everything tastes authentic and delicious. You can really tell they care about quality and customer satisfaction. Highly recommended for anyone craving great food and great service. I’ll definitely be coming back again and ag
+  - name: "Ross Ehalt"
+    rating: 5
+    comment: |
+      Without a doubt the biggest Donaire I have ever eaten. Great value for the money.
 ---

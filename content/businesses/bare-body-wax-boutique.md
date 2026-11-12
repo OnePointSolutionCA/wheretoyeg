@@ -14,14 +14,14 @@ hours:
   tuesday: "9:30 AM–9:00 PM"
   wednesday: "1:00 PM–9:00 PM"
   thursday: "9:00 AM–10:00 AM, 6:30 PM–8:00 PM"
-  friday: "9:30 AM–7:00 PM"
-  saturday: "11:00 AM–7:00 PM"
+  friday: "9:30 AM–4:00 PM"
+  saturday: "11:00 AM–8:00 PM"
   sunday: "6:30 PM–8:00 PM"
 photos:
   - "/photos/bare-body-wax-boutique-2.jpg"
   - "/photos/bare-body-wax-boutique-3.jpg"
 rating: 4.9
-review_count: 47
+review_count: 54
 price_range: "$$"
 amenities:
 
@@ -29,28 +29,32 @@ tags: ["edmonton", "waxing"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Oalani Brown"
+  - name: "Mary Malott"
     rating: 5
     comment: |
-      I’ve been a loyal client of Susie’s for five years now, and she’s been the best esthetician I’ve ever had.  She’s not only knowledgeable about skincare products but also has a fantastic personality.  She’s a great conversationalist and creates a judgment-free zone for her clients.  By keeping up with my treatments every four weeks, I’ve noticed significant improvements and achieved the results I want. Thank you, Susie! 😊
+      ⭐⭐⭐⭐⭐
+      
+      Absolutely love Bare Body Wax Boutique! The service is exceptional from start to finish, and the vibes are unmatched!
+      
+      Susie makes you feel so welcomed, comfortable, and confident the moment you walk through the door. The atmosphere is beautiful, clean, the energy is amazing, and the attention to detail and professionalism truly set this boutique apart.
+      
+      You can tell she genuinely cares about her clients and goes above and beyond to make every experience a great one. If you’re looking for amazing service, a welcoming atmosphere, and an overall top-tier experience, Bare Body Wax Boutique is definitely the place to go!
+      
+      Highly recommend 💕✨
+  - name: "Liz Moore"
+    rating: 5
+    comment: |
+      The first time I booked I was only going to get a regular Brazilian wax. As a high performance swimmer I am constantly in swimsuits, which has lead to ingrowns and such. I’ve always been really embarrassed and frustrated with them, trying to deal with it at home. The vagacial service along with the Brazilian was amazing. I saw immediate improvements and Susie made me feel so comfortable. She does a very thorough job and the results are truly amazing. I just went back for a second wax and vagacial as years of problems areas can’t be completely cleared in one vagacial. Susie was very welcoming and once again thorough. I couldn’t recommend her and this service enough!
   - name: "Jeff Peddle"
     rating: 5
     comment: |
       My wife and I both visited Suzy for waxing appointments and had an absolutely wonderful experience! She made us both feel completely comfortable from start to finish. And yes, folks she does men and women! If you’re looking for a skilled, professional esthetician who delivers great results in a welcoming environment, look no further. We would highly recommend Suzy to anyone! Great personality
-  - name: "JC Yu"
+  - name: "Oalani Brown"
     rating: 5
     comment: |
-      Checked out Bare Body Wax for the first time recently and it was great!
-      Susie was very welcoming, knowledgeable, and professional. She was easy to talk to with no weird awkwardness. Hours were INCREDIBLY accommodating. I've never been able to get a waxing at 7:30 at night before - this was particularly great cause it provided the opportunity for me to work out, shower and do all my daily things (like work) and still make time for body care maintenance.
-      Prices were on par with most other places (with lots of different options to customize your service) but the convenience was the biggest hit for me.
-      I will definitely be going back to Susie in the future!
-  - name: "Kailyn Card"
+      I’ve been a loyal client of Susie’s for five years now, and she’s been the best esthetician I’ve ever had.  She’s not only knowledgeable about skincare products but also has a fantastic personality.  She’s a great conversationalist and creates a judgment-free zone for her clients.  By keeping up with my treatments every four weeks, I’ve noticed significant improvements and achieved the results I want. Thank you, Susie! 😊
+  - name: "Matthew D"
     rating: 5
     comment: |
-      Susie is amazing and creates a comfortable environment with excellent service and results. I will go back to her forever! I have recommended and would recommend Bare Body to all my friends and family.
-  - name: "Catarina Ciru"
-    rating: 5
-    comment: |
-      Busy is so gentle and marvelous on her service. Love going there.
-      She makes you feels confortable, the environment is nice, and she has exceptional great hands. No pain at all.
+      As a man, never having been waxed before, I could not have found a better place. The owner - Susie, is caring, experienced, and does everything she can to provide a comfortable experience.
 ---

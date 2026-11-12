@@ -22,7 +22,7 @@ hours:
 photos:
   - "/photos/barbershop-48-g1.jpg"
 rating: 4.8
-review_count: 547
+review_count: 567
 price_range: "$$"
 amenities:
   - "Family Friendly"
@@ -31,31 +31,28 @@ tags: ["edmonton", "fades"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Kevyn James Gonzalgo"
+    rating: 5
+    comment: |
+      ⭐⭐⭐⭐⭐
+      
+      I had a great experience at 48 Barber shop in West Edmonton Mall! Hamza did an excellent job cutting my hair. He listened carefully to what I wanted and delivered exactly what I asked for. The haircut turned out even better than I expected, and I really appreciate his attention to detail and skill. He made sure everything looked clean, neat, and stylish.
+      
+      Thank you, Hamza, for the great service and amazing haircut! I highly recommend him to anyone looking for a skilled barber who listens to his customers and gets the job done right. I’ll definitely be coming back! 💈✂️
   - name: "Mohit kajal"
     rating: 5
-    date: "2026-07-29"
     comment: |
       Haddi is an exceptional barber who consistently delivers sharp, clean, and precise haircuts. His attention to detail and skill level really stand out, and you can tell he takes pride in his work. Every visit feels professional, and he always makes sure you leave looking your best. If you’re looking for someone reliable and talented, Haddi is definitely the one to go to. Thanks Haddi.
-  - name: "Brad Lowe"
+  - name: "Salim Tobal"
     rating: 5
-    date: "2026-06-08"
     comment: |
-      Roy is the best!  I will gladly wait hours for availability.  No joke, I've waited - busy guy.  Roy's professionalism is the best in the business,  when he is finish he really make you feel like a whole new person!  He treats all customers with respect, dignity and kindness!  I will continue to go there as long as Roy is there!
-  - name: "Rylan Powers"
+      Hamza provided excellent service and was very respectful, helpful, and professional. He made sure everything went smoothly and took the time to make sure I was satisfied. You can tell he genuinely cares about his work and his customers. Definitely recommend Hamza to anyone looking for great service
+  - name: "Anna Synyahina"
     rating: 5
-    date: "2026-07-15"
     comment: |
-      Had the best haircut of my life at this barber shop by the stylist Mo.J
-      I went in with no idea of how i wanted it to look and he absolutely nailed it out of the park.
-      He is very confident and kind, couldn't of had a better experience. Went in looking homeless came out looking like a catch!
-  - name: "Nuwan Amarasinghe Konara Mudiyanselage"
-    rating: 5
-    date: "2026-06-19"
-    comment: |
-      Highly recommend Mo J! He did a fantastic job on my haircut. The fade was excellent, very clean and professionally done. The haircut was perfectly even, neat, and exactly what I was looking for. Mo J was friendly, skilled, and paid great attention to detail. I'll definitely be coming back for my next haircut. Thank you, Mo J!
+      My husband just got his haircut by Chirag, and we’re very happy with the result! Chirag did a great job, was professional and friendly, and paid attention to detail. Highly recommend him! Thank you, Chirag!
   - name: "nader ghraizi"
     rating: 5
-    date: "2025-03-30"
     comment: |
       Barber 48 Shop is hands down the best barbershop in town! The atmosphere is welcoming, the shop is always clean, and the barbers are true professionals. They take their time to make sure every cut is perfect, and the attention to detail is unmatched. I’ve been coming here for a while now, and I’m always happy with the results. If you’re looking for a fresh cut, great service, and a great experience, this is the place to go and ask for Hadi. Highly recommend!
 ---

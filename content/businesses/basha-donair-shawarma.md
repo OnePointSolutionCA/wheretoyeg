@@ -22,8 +22,8 @@ hours:
   sunday: "11:00 AM–9:00 PM"
 photos:
   - "/photos/basha-donair-shawarma-g1.jpg"
-rating: 4.3
-review_count: 251
+rating: 4.4
+review_count: 252
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -37,17 +37,22 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Robyn Doucet"
     rating: 5
-    date: "2026-05-23"
     comment: |
       Amazing new owners! The restaurant is so clean, tidy, and well kept. Very friendly staff and delicious food! I’ve been supporting Basha Donair since I lived in Leduc and experienced their food for the first time. The quality of the food is the same as the first day I tried it and still just as delicious! Koodos to the new owners for keeping Basha Donair in Sherwood Park :)
   - name: "Nicole"
     rating: 5
-    date: "2026-07-29"
     comment: |
       Basha is sooo good!! Hubby loves the regular donair with cheese and sweet sauce and I’m in love with their falafel wrap with tzatziki and I love the assortment of pickles, olives, peppers and fresh veggies! They have something for everyone here. Also, It’s really clean and the employees are so friendly!
+  - name: "Rahil Umarfaruq"
+    rating: 5
+    comment: |
+      Amazing food and great service! The donair and shawarma were absolutely delicious, fresh, and full of flavor. The staff is very friendly, especially Jil, who was extremely kind and welcoming. The overall experience was excellent. Highly recommended—I’ll definitely be coming back again!
+  - name: "La Jefa"
+    rating: 5
+    comment: |
+      Excellent experience at Basha Sherwood park. The meat is seasoned well and very flavorful, the sweet sauce is light and tasty. Service was really nice. The basha little Donair is actually massive!! Such a good deal. Basha is WAY better than primetime Donair just have to say this.
   - name: "Becca Meikle"
     rating: 5
-    date: "2026-06-08"
     comment: |
       My boyfriend and I ordered from this Sherwood Park location later in the evening when our usual Basha location was closed. We ordered through SkipTheDishes and didn't even realize how far away it was at first, but despite the distance, the food arrived fresh, hot, and absolutely delicious.
       
@@ -56,14 +61,4 @@ reviews:
       It's always nice to know that when a craving hits later in the evening, there's still a Basha location you can count on. We were genuinely impressed with both the food and the overall experience and would not hesitate to order from here again.
       
       10/10, highly recommended!
-  - name: "Rahil Umarfaruq"
-    rating: 5
-    date: "2025-12-25"
-    comment: |
-      Amazing food and great service! The donair and shawarma were absolutely delicious, fresh, and full of flavor. The staff is very friendly, especially Jil, who was extremely kind and welcoming. The overall experience was excellent. Highly recommended—I’ll definitely be coming back again!
-  - name: "Kimberly Crockford"
-    rating: 5
-    date: "2026-05-28"
-    comment: |
-      It was SUPER clean. And both times I have been the guys are really friendly. Solid donairs and shawarma. Nothing  fancy but it hit.
 ---
