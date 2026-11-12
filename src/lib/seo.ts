@@ -204,7 +204,7 @@ const SUB_TYPE: Record<string, Record<string, string>> = {
     childcare: "daycare", "driving-school": "driving school", "pet-grooming": "pet groomer", mortgage: "mortgage broker",
     printing: "print shop", tutoring: "tutoring service", "security-services": "security company",
     "first-aid-training": "first aid and CPR training centre", "clothing-gifts": "clothing and gift shop",
-    taxi: "taxi company",
+    taxi: "taxi company", "property-management": "property management company",
   },
   "spas-esthetics": {
     facials: "facial and skin care studio", hydrafacial: "HydraFacial studio", waxing: "waxing studio", "laser-hair-removal": "laser hair removal clinic",
@@ -293,6 +293,7 @@ export const SUB_HEADING: Record<string, Record<string, string>> = {
     "driving-school": "Driving Schools", "pet-grooming": "Pet Groomers", mortgage: "Mortgage Brokers", printing: "Print Shops", tutoring: "Tutors",
     "security-services": "Security Companies", "first-aid-training": "First Aid & CPR Courses",
     "clothing-gifts": "Clothing & Gift Shops", taxi: "Taxi Companies",
+    "property-management": "Property Managers",
   },
   photographers: {
     wedding: "Wedding Photographers", family: "Family Photographers", brand: "Brand & Product Photographers", events: "Event Photographers",
