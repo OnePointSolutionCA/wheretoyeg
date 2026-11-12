@@ -1,5 +1,5 @@
-import Link from "next/link";
 import type { Subcategory } from "@/lib/types";
+import { ChipGroup } from "./ChipGroup";
 
 export function SubcategoryPills({
   categorySlug,
@@ -13,30 +13,23 @@ export function SubcategoryPills({
   counts?: Record<string, number>;
 }) {
   if (!subcategories?.length) return null;
+  // Biggest groups first, so the chips shown before "+N more" are the useful ones.
+  const subs = subcategories
+    .map((s, i) => ({ s, i, n: counts?.[s.slug] ?? 0 }))
+    .filter(({ s, n }) => n > 0 || activeSlug === s.slug)
+    .sort((a, b) => b.n - a.n || a.i - b.i);
   return (
-    <div className="-mx-5 overflow-x-auto overscroll-x-contain touch-pan-x px-5 sm:mx-0 sm:px-0">
-      <div className="flex min-w-max items-center gap-2">
-        <Link
-          href={`/${categorySlug}`}
-          className={"chip " + (!activeSlug ? "chip--active" : "")}
-        >
-          All
-        </Link>
-        {subcategories.filter((s) => (counts?.[s.slug] ?? 0) > 0 || activeSlug === s.slug).map((s) => {
-          const c = counts?.[s.slug];
-          const active = activeSlug === s.slug;
-          return (
-            <Link
-              key={s.slug}
-              href={`/${categorySlug}/${s.slug}`}
-              className={"chip " + (active ? "chip--active" : "")}
-            >
-              {s.name}
-              {c ? <span className={"ml-1 " + (active ? "text-white/70" : "text-teal-300")}>{c}</span> : null}
-            </Link>
-          );
-        })}
-      </div>
-    </div>
+    <ChipGroup
+      label={categorySlug === "restaurants" ? "By cuisine" : "By type"}
+      chips={[
+        { href: `/${categorySlug}`, label: "All", active: !activeSlug },
+        ...subs.map(({ s, n }) => ({
+          href: `/${categorySlug}/${s.slug}`,
+          label: s.name,
+          count: n || undefined,
+          active: activeSlug === s.slug,
+        })),
+      ]}
+    />
   );
 }

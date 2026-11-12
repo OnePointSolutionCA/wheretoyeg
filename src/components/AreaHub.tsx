@@ -1,3 +1,4 @@
+import { ChipGroup } from "@/components/ChipGroup";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -163,19 +164,16 @@ export function AreaHub({ category: c, sub, area, businesses }: HubProps) {
 
       {(subHubs.length > 0 || parentHub) && (
         <section className="border-b border-line bg-mist">
-          <div className="container-page flex items-center gap-2 overflow-x-auto py-4" style={{ scrollbarWidth: "none" }}>
-            <span className="shrink-0 text-xs font-bold uppercase tracking-wider text-teal-300">In {area}:</span>
-            {parentHub && (
-              <Link href={parentHub} className="chip shrink-0">
-                All {(CATEGORY_HEADING[c.slug] ?? c.name).toLowerCase()} <span className="text-teal-300">{hubCount(c.slug, area)}</span>
-              </Link>
-            )}
-            {subHubs.map((s) => (
-              <Link key={s.slug} href={s.href} className="chip shrink-0">
-                {s.name} <span className="text-teal-300">{s.count}</span>
-              </Link>
-            ))}
-          </div>
+          <ChipGroup
+            className="container-page py-4"
+            label={`In ${area}`}
+            chips={[
+              ...(parentHub
+                ? [{ href: parentHub, label: `All ${(CATEGORY_HEADING[c.slug] ?? c.name).toLowerCase()}`, count: hubCount(c.slug, area) }]
+                : []),
+              ...subHubs.map((s) => ({ href: s.href, label: s.name, count: s.count })),
+            ]}
+          />
         </section>
       )}
 

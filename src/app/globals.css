@@ -73,6 +73,16 @@ body { font-feature-settings: "cv11", "ss01"; }
 .btn-ghost { @apply inline-flex items-center justify-center rounded-full border border-line bg-white px-5 py-2.5 font-semibold text-teal transition hover:border-teal-300 hover:bg-mist; }
 .chip { @apply inline-flex items-center gap-1.5 rounded-full border border-line bg-white px-3 py-1.5 text-sm font-medium text-teal transition hover:border-teal-300 hover:bg-mist; }
 .chip--active { @apply border-teal bg-teal text-white hover:bg-teal-600 hover:border-teal-600; }
+/* ChipGroup: wrapped chips, the rest folded behind "+N more" (6 on phones, 12 from sm up) */
+.chip-toggle { @apply border-dashed border-coral/60 font-semibold text-coral hover:border-coral hover:bg-coral/5; }
+.chipset:not(.is-open) .chip.over-m { display: none; }
+.chipset .toggle-d { display: none; }
+@media (min-width: 640px) {
+  .chipset:not(.is-open) .chip.over-m { display: inline-flex; }
+  .chipset:not(.is-open) .chip.over-d { display: none; }
+  .chipset .toggle-m { display: none; }
+  .chipset .toggle-d { display: inline-flex; }
+}
 .pill { @apply inline-flex items-center gap-1 rounded-full bg-mist px-2.5 py-1 text-xs font-medium text-teal-500; }
 .badge-featured { @apply inline-flex items-center gap-1 rounded-full bg-coral/10 px-2.5 py-1 text-[11px] font-bold uppercase tracking-wide text-coral; }
 .badge-premium { @apply inline-flex items-center gap-1 rounded-full bg-teal px-2.5 py-1 text-[11px] font-bold uppercase tracking-wide text-white; }

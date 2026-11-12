@@ -1,3 +1,4 @@
+import { ChipGroup } from "@/components/ChipGroup";
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -125,14 +126,15 @@ export default function NeighborhoodPage({ params }: { params: { slug: string } 
 
       {topCategories.length > 1 && (
         <section className="border-b border-line bg-mist">
-          <div className="container-page flex items-center gap-2 overflow-x-auto py-4" style={{ scrollbarWidth: "none" }}>
-            <span className="shrink-0 text-xs font-bold uppercase tracking-wider text-teal-300">In {name}:</span>
-            {topCategories.map((c) => (
-              <Link key={c.slug} href={hubs.get(c.slug) ?? `/${c.slug}?neighborhood=${encodeURIComponent(name)}`} className="chip shrink-0">
-                {c.name} <span className="text-teal-300">{c.count}</span>
-              </Link>
-            ))}
-          </div>
+          <ChipGroup
+            className="container-page py-4"
+            label={`In ${name}`}
+            chips={topCategories.map((c) => ({
+              href: hubs.get(c.slug) ?? `/${c.slug}?neighborhood=${encodeURIComponent(name)}`,
+              label: c.name,
+              count: c.count,
+            }))}
+          />
         </section>
       )}
 

@@ -30,6 +30,7 @@ import { displayDayHours } from "@/lib/openNow";
 import type { Business, Subcategory } from "@/lib/types";
 import { FilterableList } from "@/components/FilterBar";
 import { SubcategoryPills } from "@/components/SubcategoryPills";
+import { ChipGroup } from "@/components/ChipGroup";
 import { businessSchema } from "@/lib/schema";
 import { breadcrumbSchema, JsonLd } from "@/lib/schema-extra";
 import { deliveryLinks } from "@/lib/delivery";
@@ -302,24 +303,10 @@ function SubcategoryView({ category: c, sub }: { category: ReturnType<typeof get
               counts={subCounts}
             />
             {sub.guides && sub.guides.length > 0 && (
-              <div className="mt-3 flex items-center gap-2 overflow-x-auto" style={{ scrollbarWidth: "none" }}>
-                <span className="shrink-0 text-xs font-bold uppercase tracking-wider text-teal-300">Guides:</span>
-                {sub.guides.map((g) => (
-                  <Link key={g.href} href={g.href} className="chip shrink-0">
-                    {g.label}
-                  </Link>
-                ))}
-              </div>
+              <ChipGroup className="mt-4" label="Guides" chips={sub.guides.map((g) => ({ href: g.href, label: g.label }))} />
             )}
             {areaHubs.length > 0 && (
-              <div className="mt-3 flex items-center gap-2 overflow-x-auto" style={{ scrollbarWidth: "none" }}>
-                <span className="shrink-0 text-xs font-bold uppercase tracking-wider text-teal-300">By area:</span>
-                {areaHubs.map((x) => (
-                  <Link key={x.area} href={x.href} className="chip shrink-0">
-                    {x.area} <span className="text-teal-300">{x.count}</span>
-                  </Link>
-                ))}
-              </div>
+              <ChipGroup className="mt-4" label="By area" chips={areaHubs.map((x) => ({ href: x.href, label: x.area, count: x.count }))} />
             )}
           </div>
         </section>

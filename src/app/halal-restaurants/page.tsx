@@ -1,3 +1,4 @@
+import { ChipGroup } from "@/components/ChipGroup";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -177,28 +178,27 @@ export default function HalalRestaurantsPage() {
       </section>
 
       <section className="border-b border-line bg-mist">
-        <div className="container-page space-y-3 py-5">
-          <div className="flex items-center gap-2 overflow-x-auto" style={{ scrollbarWidth: "none" }}>
-            <span className="shrink-0 text-xs font-bold uppercase tracking-wider text-teal-300">By cuisine:</span>
-            {cuisines.map(([slug, count]) => (
-              <Link key={slug} href={`/restaurants/${slug}?amenity=Halal`} className="chip shrink-0">
-                {subNames.get(slug)} <span className="text-teal-300">{count}</span>
-              </Link>
-            ))}
-          </div>
+        <div className="container-page space-y-4 py-5">
+          <ChipGroup
+            label="By cuisine"
+            chips={cuisines.map(([slug, count]) => ({
+              href: `/restaurants/${slug}?amenity=Halal`,
+              label: subNames.get(slug) ?? slug,
+              count,
+            }))}
+          />
           {areas.length > 0 && (
-            <div className="flex items-center gap-2 overflow-x-auto" style={{ scrollbarWidth: "none" }}>
-              <span className="shrink-0 text-xs font-bold uppercase tracking-wider text-teal-300">By area:</span>
-              {areas.map(([area, count]) => (
-                <Link
-                  key={area}
-                  href={hubCount("restaurants", area) >= 3 ? `${hubHref("restaurants", area)}?amenity=Halal` : `/restaurants?amenity=Halal&neighborhood=${encodeURIComponent(area)}`}
-                  className="chip shrink-0"
-                >
-                  {area} <span className="text-teal-300">{count}</span>
-                </Link>
-              ))}
-            </div>
+            <ChipGroup
+              label="By area"
+              chips={areas.map(([area, count]) => ({
+                href:
+                  hubCount("restaurants", area) >= 3
+                    ? `${hubHref("restaurants", area)}?amenity=Halal`
+                    : `/restaurants?amenity=Halal&neighborhood=${encodeURIComponent(area)}`,
+                label: area,
+                count,
+              }))}
+            />
           )}
         </div>
       </section>
