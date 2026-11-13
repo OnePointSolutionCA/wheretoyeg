@@ -41,7 +41,7 @@ const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
     highlight: "search for you.",
     blurb:
       "OnePoint Solutions builds websites and runs SEO, Google Business Profile and social for Edmonton businesses. Transparent monthly pricing, no contracts.",
-    bullets: ["Websites from $499", "SEO from $300/mo", "Social from $300/mo"],
+    bullets: ["Websites from $499", "SEO from $500/mo", "Social from $300/mo"],
     primary: { label: "Free SEO Audit", href: "https://onepointsolution.ca/free-seo-audit/" },
     secondary: { label: "Visit OnePoint", href: "https://onepointsolution.ca/" },
     bg: "#2D3E50",
