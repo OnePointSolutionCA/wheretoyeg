@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Beaumont"
 address: "4810 50 Ave, Beaumont, AB T4X 1K8"
 rating: 4.9
-review_count: 108
+review_count: 107
 tier: "featured"
 phone: "(780) 929-2828"
 website: "https://www.beaumontdental.ca/"
@@ -17,18 +17,19 @@ reviews:
     rating: 5
     comment: |
       I’ve been coming to this dental clinic to see Dr Roger Eamer. for a long time now and I highly recommend him. The entire team is incredibly friendly. Office is clean and they always make you feel very comfortable. Great experience every time and the front receptionist. Melissa is awesome. What a wonderful team you have there. Thank you.
-  - name: "Jacquie Vallee"
-    rating: 5
-    comment: |
-      If you need a dentist this is the clinic. Dr. Marjorie Eamer has been my go to for all of my preventative dental care for over 20 years and I can’t imagine seeing anyone else. Recently,  I saw Dr. Roger Eamer for some restorative work and I was not disappointed. These two dentists, along with the hygienists and other office staff are great. They are all sincere, prompt, friendly and professional. They make going to the dentist tolerable. You may even get in a few laughs while you are there. If you don’t like going to the dentist give this clinic a call. I did over 20 years ago and haven’t regretted it.
   - name: "Karen Haugen-Kozyra"
     rating: 5
     comment: |
       Roger Eamer is the most gentle dentist I know.   His sense of humour and witty charm makes the overall experience great.  Oh, and he's a pretty good dentist too.
-  - name: "Jen S"
+  - name: "Jacquie Vallee"
     rating: 5
     comment: |
-      Dr. Marjorie  Eamer and her staff are wonderful.  Great experience for my family.  Welcoming, friendly and warm.  Great environment and wonderful hours.
+      If you need a dentist this is the clinic. Dr. Marjorie Eamer has been my go to for all of my preventative dental care for over 20 years and I can’t imagine seeing anyone else. Recently,  I saw Dr. Roger Eamer for some restorative work and I was not disappointed. These two dentists, along with the hygienists and other office staff are great. They are all sincere, prompt, friendly and professional. They make going to the dentist tolerable. You may even get in a few laughs while you are there. If you don’t like going to the dentist give this clinic a call. I did over 20 years ago and haven’t regretted it.
+  - name: "Keith Jackson"
+    rating: 5
+    comment: |
+      I've had a longer relationship with my dentist, Dr Roger Eamer, than with just about anybody else, because he can be surprisingly gentle while being rough. It's not always easy to accommodate me, but he can usually squeeze me in & get a lot done in a tight space of time.
+      5/5 - would not hesitate to recommend him to fill anyone's cavities
   - name: "Connie Hemsing"
     rating: 5
     comment: |

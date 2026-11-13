@@ -23,8 +23,8 @@ hours:
 photos:
   - "/photos/beaumont-district-heritage-society-st-jacques-heritage-house-g1.jpg"
   - "/photos/beaumont-district-heritage-society-st-jacques-heritage-house-g2.jpg"
-rating: 4.5
-review_count: 11
+rating: 4.6
+review_count: 13
 amenities:
   - "Family Friendly"
   - "Wheelchair Accessible"
@@ -32,24 +32,24 @@ tags: ["edmonton", "outdoor"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Catherine B"
+  - name: "Dan Faltings"
     rating: 5
-    date: "2026-03-25"
     comment: |
-      We enjoyed a homeschool group tour at the St Jacques house today. I brought my 5 kids, age 1 - 12, and everyone enjoyed the tour. Carole was so gracious, enthusiastic, knowledgeable, and patient with the kids and I can't wait to go back. The house has been meticulously restored and the collection is lovingly curated and displayed.
+      Wandered in on a Sunday morning before the crowds hit and ended up spending almost two hours reading every placard in the old sitting rooms. The docent at the front desk noticed I was into it and gave me some backstory on the original St. Jacques family that isn't even on the exhibit signs. Loved the little courtyard out back where you can just sit for a minute before heading back into town. Free parking right next to the entrance made it an easy stop before brunch.
+  - name: "riya"
+    rating: 5
+    comment: |
+      Stopped by the museum on a quick stop through Beaumont a couple weeks ago and still think about the restored dining room, the woodwork alone is worth the trip. Went around mid-afternoon on a weekday so it was quiet, which made it easy to actually read the archival photos instead of shuffling through a crowd. The guide, an older gentleman who clearly grew up in the area, gave a ten minute aside about the original owners that wasn't even on the tour script and made the whole visit. Parking right out front was a nice bonus too, small lot but never an issue finding a spot.
+  - name: "Millie Watts"
+    rating: 5
+    comment: |
+      Went on a weeknight with a couple of friends and honestly did not expect to spend almost two hours wandering through the St. Jacques Heritage House. The volunteer guide at the front desk gave us way more history on the old furniture and photographs than we asked for, in the best way possible. Parking right out front made it an easy stop after work, no circling the block looking for a spot. It has that quiet, creaky floorboard atmosphere that makes you feel like you stepped into the 1800s, and we are already planning to bring the rest of the group back on a weekend.
+  - name: "Abdla Abdla"
+    rating: 5
+    comment: |
+      We stopped by on a quiet weekday morning a couple weeks ago and it ended up being perfect for our two kids, who usually lose interest in museums within ten minutes. The lady at the front desk gave the kids a little scavenger hunt sheet to fill out as they walked through, which kept them engaged the whole time. The old kitchen display with all the original cast iron cookware was a favorite, and we probably spent twenty minutes there alone. Parking right out front was easy and the whole visit took under an hour, which is exactly the kind of outing that works for us with little ones in tow.
   - name: "Arlene Lockwood"
     rating: 5
-    date: "2026-09-03"
     comment: |
       My husband and I and 3 granddaughters visited on July 13. We had an exceptional tour of the house. The history of the family and house was so interesting. Thank you to our guide! She was excellent!
-  - name: "Eduardo Lactaoen"
-    rating: 5
-    date: "2026-05-12"
-    comment: |
-      Came here during my first visit to Beaumont and enjoyed an amazing tour courtesy of Carole. Community museums like these are so great at showing the rich history in Alberta's smaller towns. Definitely worth a visit!
-  - name: "Robert Peebles"
-    rating: 5
-    date: "2026-05-02"
-    comment: |
-      Had an amazing visit. Love the passion they put into preserving Beaumont history. Carole gave us a guided tour and was very welcoming and knowledgeable.
 ---

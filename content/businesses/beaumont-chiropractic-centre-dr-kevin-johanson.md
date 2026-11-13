@@ -30,36 +30,31 @@ tags: ["edmonton", "chiropractors"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "shalean wussow"
-    rating: 5
-    date: "2026-03-12"
-    comment: |
-      I have been a patient of Beaumont Chiropractic for a long time. I love the environment and care I get here.
-      
-      I recently started seeing Dr. Renee and love the adjustments I get. I always feel like she does a great job of finding things that I didn’t even know were bugging me. She continuously takes it further and gives me new exercises to take home and keep healing at home too. Getting adjusted by Dr. Renee is the reason I’m able to keep up with my sports and active lifestyle.
-  - name: "Taylor Hermann"
-    rating: 5
-    date: "2026-03-11"
-    comment: |
-      Dr. Renee has been absolutely amazing. I came to her after struggling with persistent low back pain for several years, and from the very first visit I felt truly listened to and understood. She took the time to really evaluate what was going on instead of just rushing through an appointment, and her care has made such a difference for me.
-      
-      Because of my experience, my whole family has now started seeing her as well, and every one of us has had great results. She’s helped with everything from shoulder issues to TMJ, headaches, and neck pain. Not only is she incredibly knowledgeable, but she genuinely cares about her patients and makes you feel comfortable and confident in your treatment plan.
   - name: "Megan Schweitzer"
     rating: 5
-    date: "2026-03-11"
     comment: |
       Myself and my whole family absolutely love Dr. Renee! I’ve been seeing Dr. Renee numerous times a week to help with nerve pain going into my legs and have been blown away by not only how skilled she is but how kind she is! Now that I am pregnant, Dr. Renee has been doing a lot of pregnancy specific work that has helped so much!
       
       Now, my husband is seeing Dr. Renee as well and we absolutely love every one of our appointments! Highly highly highly recommend!
-  - name: "Nicole Kobelka"
+  - name: "Taylor Hermann"
     rating: 5
-    date: "2026-03-12"
     comment: |
-      Dr. Renee is amazing. I see her regularly for maintenance and always leave feeling so much better. She’s very knowledgeable and takes the time to make sure everything is addressed. Highly recommend!
+      Dr. Renee has been absolutely amazing. I came to her after struggling with persistent low back pain for several years, and from the very first visit I felt truly listened to and understood. She took the time to really evaluate what was going on instead of just rushing through an appointment, and her care has made such a difference for me.
+      
+      Because of my experience, my whole family has now started seeing her as well, and every one of us has had great results. She’s helped with everything from shoulder issues to TMJ, headaches, and neck pain. Not only is she incredibly knowledgeable, but she genuinely cares about her patients and makes you feel comfortable and confident in your treatment plan.
   - name: "Jay E"
     rating: 5
-    date: "2019-02-22"
     comment: |
       Dr. Kevin has been our trusted family Chiropractor for over 8 years. He is by far the best chiropractor out there. And the staff are very kind and accommodating as well.
       He is great with kids too, our kids love going there. The price is very affordable compared to other places we have heard of and been to in the past, plus the results are much better.
+  - name: "Shalean Wussow"
+    rating: 5
+    comment: |
+      I have been a patient of Beaumont Chiropractic for a long time. I love the environment and care I get here.
+      
+      I recently started seeing Dr. Renee and love the adjustments I get. I always feel like she does a great job of finding things that I didn’t even know were bugging me. She continuously takes it further and gives me new exercises to take home and keep healing at home too. Getting adjusted by Dr. Renee is the reason I’m able to keep up with my sports and active lifestyle.
+  - name: "Nicole Kobelka"
+    rating: 5
+    comment: |
+      Dr. Renee is amazing. I see her regularly for maintenance and always leave feeling so much better. She’s very knowledgeable and takes the time to make sure everything is addressed. Highly recommend!
 ---

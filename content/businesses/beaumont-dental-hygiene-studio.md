@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Beaumont"
 address: "15 Rue Bouchard, Beaumont, AB T4X 1N5"
 rating: 5
-review_count: 36
+review_count: 37
 tier: "featured"
 phone: "(780) 298-3494"
 website: "http://beaumontdentalhygiene.com/"

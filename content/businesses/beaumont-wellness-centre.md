@@ -23,36 +23,31 @@ hours:
 photos:
   - "/photos/beaumont-wellness-centre-g2.jpg"
 rating: 4.9
-review_count: 576
+review_count: 579
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "day-spas"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Rebecca Mills"
+    rating: 5
+    comment: |
+      I had a really positive overall experience at Wellness Centre for both chiropractic care and physiotherapy. Everyone I worked with was kind, professional, and took the time to listen to what I was experiencing rather than treating everything as one-size-fits-all. My treatment and exercises were adjusted when needed, and I always felt comfortable asking questions or explaining when something wasn’t working for me. I would happily recommend them for both chiropractic and physiotherapy care.
+  - name: "Emily Szopa"
+    rating: 5
+    comment: |
+      I have gone for physio and chiro here and have had great experiences. I have walked in 10/10 pain level and come out at a 4. The staff is amazing, friendly and knowledgeable. I have never waited very long. They sell a pain spray that works wonders when you need it.
   - name: "Tasnim"
     rating: 5
-    date: "2026-06-30"
     comment: |
       Dr Khadija Malik is an incredible chiropractor. I first started seeing her with debilitating pregnancy sciatica, and her deep care was evident 3 years ago. I followed her here. Now postpartum and navigating the aches and pains of carrying a little human around, she has taken care of a herniated disc and upper body issues, which increased my functioning and wellbeing tremendously. She is beyond knowledgeable, a patient curious listener, and has improved my wellbeing thanks to her treatments. Whether it’s muscle mobilizing, manipulations, TENs machine or neck/spine decompressions, ice or heat after…Dr Malik and the wonderful PTAs here help ensure you’re leaving feeling better than when you walked in! I drive 30m for my appointments but it’s genuinely worthwhile. So grateful to have found this place. Keep it up team!!
   - name: "Anita Zak"
     rating: 5
-    date: "2026-05-27"
     comment: |
       Physio therapist Patel was great. He helped my shoulder pain a lot. The rest of the staff were great as well. Highly recommend them. I will be back soon.
   - name: "JR Rico"
     rating: 5
-    date: "2026-06-12"
     comment: |
       I would like to say thanks to Beaumont Wellness Centre especially to my Physical Therapist Sir. Jericho who treated my injury very well and gave me informations and advice to prevent future injuries. I am thankful because my recovery went so fast. I would highly recommend him to my families and friends.
-  - name: "Estrella Strembesky"
-    rating: 5
-    date: "2026-06-20"
-    comment: |
-      The front desk staff are so kind and helpful! As well as friendly and welcoming. Physio with Sabita was helpful and tailored to what I need.
-  - name: "Hasan Khan"
-    rating: 5
-    date: "2026-02-05"
-    comment: |
-      I had a great massage with Megan Perry. She was very professional, attentive, and made me feel comfortable throughout the session. She listened carefully to my concerns and focused on the areas that needed the most attention. I left feeling relaxed and much better. Highly recommend her
 ---

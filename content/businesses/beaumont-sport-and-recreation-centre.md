@@ -6,7 +6,7 @@ subcategory: "swimming"
 neighborhood: "Beaumont"
 address: "5001 Rue Eaglemont, Beaumont, AB T4X 0H9"
 rating: 4.4
-review_count: 683
+review_count: 693
 tier: "featured"
 phone: "(780) 929-7946"
 website: "https://www.beaumont.ab.ca/recreation-activities/facilities/beaumont-sport-recreation-centre/"
@@ -18,14 +18,22 @@ reviews:
     rating: 5
     comment: |
       This is a really nice facility! Indoor track is awesome! Well maintained and clean.
+  - name: "Kiran Rupra"
+    rating: 5
+    comment: |
+      We had a great time at the  center! We went swimming and absolutely loved the warm water pool — it was so relaxing and perfect for all ages. The facility was super clean, and the staff were incredibly friendly and welcoming.
+      
+      We only paid around $25 for a family pack, which is very affordable for such a nice experience. The lifeguards were actively patrolling the pool the whole time, which made us feel really safe.
+      
+      It was quite busy in the evening, but the energy was fun and family-friendly. We had such a good time that we’ve decided to make it a regular visit now. Highly recommend!
   - name: "Karen Rabbit"
     rating: 1
     comment: |
       Everything good except all the table being taken over by all the dad? And Grandpa's I'm hoping they were. Lol no where to sit prices for swimming are ridiculous, 30$ for 2 children and 1 adult?? And just 2dolkars more if it were a family ?? Make it make sense single struggling mother here. Other places have way better spruces for rec centers. Will not go back
-  - name: "Stacey Ermen"
-    rating: 5
+  - name: "Jay Zaal"
+    rating: 4
     comment: |
-      What a great place and great admin! I am new to Alberta and my grandson is as well, we stopped at the desk to talk to the lady and she was amazing. She took her time to let us know all the activities he could go to and she wrote them out by hand and took the time needed to inform us of all that was going on. Thank you very much Mabel! You were awesome 🙂
+      Hidden gem for anyone outside of beaumont. Great indoor soccer crr field - mix style turf (not carpet and glass boards on sides. Great dressing rooms too.
   - name: "Gagan kapoor"
     rating: 1
     comment: |
@@ -34,10 +42,6 @@ reviews:
       What upset me was not the rule itself, but the way it was handled. I felt embarrassed and uncomfortable being interrupted during my workout and spoken to in a rude and unfriendly manner. Afterward, I was also told there was an issue with a $69 payment, even though I had previously been told by staff that everything was processed correctly and I was good to go.
       
       I respect the gym’s policies and would have happily corrected the mistake, but I believe members should be treated with professionalism and respect. Better communication and a more courteous approach would have made this situation much easier to handle.
-  - name: "Aryanna Hackman"
-    rating: 1
-    comment: |
-      EXPENSIVE. POOR STAFF. ALWAYS CLOSED. DO BETTER BEAUMONT. YOU CHARGE ALMOST 70$ FOR A MEMBERSHIP BUT ARE CLOSED 75% OF THE TIME.  THEN CLOSED WHEN ITS NON STOP RAINING? JUST TURN THE WATER OFF. Gym has absolutely no effect. I pay way to much money for this.
 hours:
   monday: "5:30 AM–10:00 PM"
   tuesday: "5:30 AM–10:00 PM"
