@@ -8,7 +8,7 @@ logo: "/logos/1st-ab-med-supplies.png"
 description: "Beverly location of 1st AB Med Supplies at 4245 118 Ave — mobility aids, wound care, home health equipment and daily living products. In-store shopping, curbside pickup and delivery."
 address: "4245 118 Ave NW"
 neighborhood: "Beverly"
-phone: "780-733-0043"
+phone: "780-733-0041"
 website: "https://1stabmedsupplies.ca"
 google_maps_url: "https://maps.google.com/?q=4245+118+Ave+NW+Edmonton"
 hours:
