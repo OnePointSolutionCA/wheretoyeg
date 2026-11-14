@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/bens-meats-and-deli-1.jpg", "/photos/bens-meats-and-deli-2.jpg", "/photos/bens-meats-and-deli-3.jpg"]
 rating: 4.8
-review_count: 1095
+review_count: 1118
 price_range: "$$"
 amenities:
 
@@ -28,12 +28,6 @@ tags: ["edmonton", "butcher"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Amanda"
-    rating: 5
-    comment: |
-      ​Premium Quality & Exceptional Heart!
-      ​Ben’s Meat and Deli is a rare find where high-quality meat and top-tier service truly go hand in hand. As a family-run business, they provide a premium experience that is hard to find anywhere else. The owner is amazing—professional, kind, and genuinely dedicated to taking excellent care of his customers.
-      ​Beyond the incredible quality of their meats and deli, they have a fantastic selection of Ukrainian and Dutch specialties, along with a massive variety of gluten-free foods. Everything is always top-notch and made with pride. If you’re looking for premium meat, exceptional service, and a shop that actually cares about its craft, this is the place to go. Highly recommended. Five stars!!
   - name: "Sarah Williams"
     rating: 5
     comment: |
@@ -42,24 +36,27 @@ reviews:
       If you happen to have a gluten intolerance this is the place to not only shop, but have a snack/stop for lunch, even baked goods. The owners are celiac, and really have every Gluten free item I’ve ever seen in one store.
       
       The women chatting beside me, got a sandwich & said this was the “the best gluten free bread she has ever had”.
-  - name: "Ana Murphy"
+  - name: "Amanda"
     rating: 5
     comment: |
-      How can I even start this review. Honestly, I have nothing but amazing things to say of this place.
-      
-      The GF cafe is amazing for a quick lunch, the smoked chicken sub is amazing. I have tried other food items but that’s my fav.
-      
-      For desserts, the sticky cinnamon buns and snickerdoodle cookies are incredible.
-      
-      Oh I was forgetting the mini donuts, OMG.
-      
-      I have gone quite a few times and everyone has been always helpful and it’s gluten free heaven in general.
-  - name: "Jessica C"
+      ​Premium Quality & Exceptional Heart!
+      ​Ben’s Meat and Deli is a rare find where high-quality meat and top-tier service truly go hand in hand. As a family-run business, they provide a premium experience that is hard to find anywhere else. The owner is amazing—professional, kind, and genuinely dedicated to taking excellent care of his customers.
+      ​Beyond the incredible quality of their meats and deli, they have a fantastic selection of Ukrainian and Dutch specialties, along with a massive variety of gluten-free foods. Everything is always top-notch and made with pride. If you’re looking for premium meat, exceptional service, and a shop that actually cares about its craft, this is the place to go. Highly recommended. Five stars!!
+  - name: "troy smith"
     rating: 5
     comment: |
-      I can’t say enough great things about this gluten free butcher shop. Not only is the quality of the food outstanding, but the kindness and care truly set it apart. Dave, the owner, was incredibly helpful and compassionate when my daughter was diagnosed with celiac disease. He took the time to answer questions, explain options, and make us feel completely safe and supported. Finding a place you can trust means everything, and this shop has been such a gift to our family. Highly recommend. We appreciate you and your lovely staff!
+      I live in Diamond valley Ab and I work in acheson Ab so on the way home I go there for my wife to pick up stuff for her. She loves Ben's products gluten free items. You can get a freezer bad with ice to get home with. The deli is amazing we are so blessed.
   - name: "Myrna K"
     rating: 5
     comment: |
       Ben's Meats & Deli - new location. As always, so many delicious and wonderful things. An entire wall of gluten free items! Even yummy bones for the pups. Let's just say I happily left a chunk of my wallet there and managed to pick up some gifts for others as well. Gorgeous new store, great location with lots of parking and easy access. 184 st and 105th avenue. Now excuse me while I go eat my cheese. 😊
+  - name: "Brian Trevelyan"
+    rating: 5
+    comment: |
+      A Local Gem Worth Visiting
+      Ben’s Meats & Deli on 184th St. is a little gem that everyone in Edmonton needs to try. The place was packed when we went, and it’s easy to see why — everything in the deli case looked so fresh and well taken care of. My sandwich was fantastic, and the two wraps my boys had were just as good.
+      
+      I also had the chance to meet the owner, and you can tell right away how much pride he takes in running this family business. He was kind, welcoming, and really attentive to his store. That family touch shows in the quality and care of everything they do.
+      
+      It’s rare to find family businesses that still shine like this, but Ben’s truly does. Great food, great people — definitely worth the visit!
 ---

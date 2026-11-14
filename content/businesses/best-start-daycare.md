@@ -22,41 +22,37 @@ hours:
   sunday: "Closed"
 photos:
   - "/photos/best-start-daycare-g1.jpg"
-rating: 4.8
-review_count: 25
+rating: 4.9
+review_count: 28
 amenities: []
 tags: ["edmonton", "childcare"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Cora McEachern"
+  - name: "Jane Rivera"
     rating: 5
-    date: "2026-03-23"
     comment: |
-      My son looks forward to going every single day! I honestly was so worried dropping him off for his 1st day at only a year old, and they continued to send me photos through the days that showed he was enjoying the activities, and he was getting lots of love and attention.
+      Sending our little one to daycare for the first time is overwhelming, but our experience with Best Start has been an absolute blessing. Thanks to the staff such an incredible warmth, patience, and dedication. My son adjusted to his new routine so smoothly and quickly. Highly recommended.
+  - name: "Brittany Ratcliffe"
+    rating: 5
+    comment: |
+      This daycare has become such a special part of our lives. My daughter has been here for about a year and a half, and she absolutely loves it.
       
-      Their app makes it so easy to communicate with staff as well!
+      The staff are everything you could hope for - warm, patient, attentive, and so clearly invested in the kids. They even manage to do my daughter’s hair in the cutest styles, which feels like a miracle because she won’t let me do anything beyond a ponytail. It’s those little touches that mean a lot.
       
-      Highly recommend!
-  - name: "Miranda Joy"
+      She learns, she plays, she grows, and she’s excited to come here every single day. She loves her teachers, she loves her friends, and she loves the environment they’ve created. I also appreciate how much time they spend outdoors and how amazing their communication is - I always feel informed and connected.
+      
+      I was nervous about daycare at first, but the moment I walked in for a tour, I felt at ease. Everyone was welcoming, kind, and genuine. I’m so grateful for this place and the people in it. I definitely recommend Best Start to anyone who’s looking for childcare for their loved ones!
+  - name: "Tracy"
     rating: 5
-    date: "2025-09-30"
     comment: |
-      Wonderful daycare, my toddler loved it here. No complaints at all! They would even take the time to braid her hair and such and made her a collage on her last day. The staff care about the kids very nice we will miss it here.
-  - name: "leah Gazelle"
+      Best Start Daycare has been an absolute blessing to our family! Our daughter transitioned from another daycare and now comes home now happier, singing songs she learnt and excited to go back to daycare. It has been a wonderful change to see in her! I also love the updates we get during the day while she is at daycare, it allows us to see what fun activities she is doing. It’s so amazing and wonderful how many fun activities she participates in during the week! So impressed and thankful!
+  - name: "Sarah Tryhurn"
     rating: 5
-    date: "2025-10-08"
     comment: |
-      We have had a great experience with Best Start Daycare! The teachers have been nothing short of amazing and our son always has a great time. The amount they learn while at daycare is truly remarkable. Thank you Best Start!
-  - name: "Adelina Adelina"
+      We love best start daycare. I was nervous for my kids to start daycare, they started when they first opened and they made the whole entire process so easy for us and helped make my kids transitions smooth. The staff is all so accommodating, the educators are all so caring, they always try to give so many photo updates and plan many activities for the kids. The daycare is always extremely clean and well maintained. My kids are always excited to tell me about their activities.
+  - name: "Melissa Shaw"
     rating: 5
-    date: "2024-10-21"
     comment: |
-      I love this day care. They care my daughter like their family. Not only baby sit ur children but they educate them. Lots of great activities daily. Less of that freedom of play where mostly kids do whatever they want n just watch like often other day care is. They are more involved in warm, kind and positive way towards children growth. My kiddo is always happy to go there, n happier at home and her knowledge and basic skill progress quickly since she went here.
-      Definitely better than  the fancier looking day care out there that feel more of a business, too many kids,short staff, request this n that  (which i experience with my other kid).
-  - name: "Stefanie Signore"
-    rating: 5
-    date: "2024-10-04"
-    comment: |
-      We recently switched our baby from her old daycare to Best Start Daycare and I couldn’t be happier about it. The staff is absolutely amazing. They care for and love the children just like they would be their own. If you’re looking for a new daycare for your child, I would definitely recommend to check them out!
+      We are so happy with Best Start Daycare! The teachers are friendly, caring, and welcoming. We love the daily photos and updates, especially seeing all the smiles and fun, engaging activities throughout the day. It’s so reassuring to see how happy our son is and know he’s having such fun-filled days. We couldn’t be happier with the care he receives!
 ---

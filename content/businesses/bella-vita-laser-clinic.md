@@ -24,35 +24,39 @@ photos:
   - "/photos/bella-vita-laser-clinic-g1.jpg"
   - "/photos/bella-vita-laser-clinic-g2.jpg"
 rating: 4.6
-review_count: 196
+review_count: 198
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "laser-hair-removal"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Harmony S"
+  - name: "Sab B"
     rating: 5
-    date: "2026-05-03"
     comment: |
-      I love Huda and her mother! I’ve gotten a facial, a couple sessions of microneedling and one session of Fractora done here, and my experience was nothing short of excellent. These ladies are fantastic at what they do, my acne scarring has seen amazing results since being in their care and I feel right at home in their presence! I can tell they care about their clientele. Thank you.
+      I have been attending Bella Vita for years. Houda has always been kind and welcoming, she is genuine and takes her time with the laser sessions so I feel like I am getting good service. Also the prices are affordable compared to most places which is great 🤍✨️
   - name: "Nicole Y."
     rating: 4
-    date: "2024-06-21"
     comment: |
       They cancelled my appointment in March due to an “break” and has never reached out to reschedule. I tried to contact the clinic by text, call and email, couldn’t get a hold with anybody. Not sure if they are temporary closed or open again for business.
       
       The clinic is clean and staff was helpful when I first visited. I hope they could provide better communication with the clients.
       
       Update : I received a phone call today from the owner. She explained the situation to me, due to the unfortunate loss of equipment, they are not able to provide me the treatment I was booked for.  They would be in touch again once the new machine arrives.
-  - name: "Marya Koujan"
-    rating: 5
-    date: "2025-09-10"
+  - name: "Seren Fadel"
+    rating: 1
     comment: |
-      Bella Vita Laser Clinic is honestly amazing! The place is super clean and welcoming. Zeina is friendly, professional, and explains everything clearly so you feel comfortable. The treatments work really well, I saw great results after just a few visits. I’d definitely recommend Bella Vita to anyone who wants quality laser services
+      I had a very disappointing experience at this clinic. I contacted them through Instagram before my appointment and was told that the check-up was free. I traveled around 45 minutes to get there, only to be told that the check-up was not free.
+      
+      The biggest issue was not the payment, but the way the situation was handled. I felt that the communication was unclear and the staff were not professional or respectful when explaining the situation The most upsetting part was that the staff member suggested that, because I come from an Arab background, I may not have understood or explained myself clearly. I found this comment inappropriate and unfair, especially because my communication during our conversation was clear.
+      
+      If the situation had been handled with basic respect and professionalism, I would have happily paid and continued with the service. Unfortunately, this experience left me disappointed, and I would not recommend this clinic.
+  - name: "Harmony S"
+    rating: 5
+    comment: |
+      I love Huda and her mother! I’ve gotten a facial, a couple sessions of microneedling and one session of Fractora done here, and my experience was nothing short of excellent. These ladies are fantastic at what they do, my acne scarring has seen amazing results since being in their care and I feel right at home in their presence! I can tell they care about their clientele. Thank you.
   - name: "Om Sarker"
     rating: 5
-    date: "2025-06-06"
     comment: |
       1. Bella Vita Laser Clinic offers exceptional service, friendly staff, and advanced treatments. Highly recommend for anyone seeking professional skincare solutions.
       

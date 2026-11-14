@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–9:30 PM"
 photos: ["/photos/best-kabab-restaurant-1.jpg", "/photos/best-kabab-restaurant-2.jpg", "/photos/best-kabab-restaurant-3.jpg"]
 rating: 4.6
-review_count: 4052
+review_count: 4121
 price_range: "$$"
 amenities:
   - "Halal"
@@ -31,6 +31,18 @@ tags: ["edmonton", "turkish", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Arturitoto"
+    rating: 5
+    comment: |
+      We’ve been here a few times already and tried different things from the menu. The grilled meat is definitely one of our favourites. Always fresh, juicy and really tasty. Everything we’ve tried so far has been good.
+      
+      The staff are always friendly, service is great, and they usually bring some fresh bread with sauces and little extras to try, which is always nice. We really enjoy coming here and will definitely be back!
+  - name: "Arsalan Kaleemi"
+    rating: 5
+    comment: |
+      If you’re craving a proper Turkish breakfast in Edmonton, Best Kabab delivers. Their Traditional Turkish Breakfast ($30 per person, served until 2 pm) is the real deal: a generous spread of cheeses, olives, honey, jams, tahini & molasses, menemen, fried eggs, sigara borek, fresh tomatoes and cucumbers, fries, peppers, sausages, and Turkish sucuk, all with unlimited Turkish tea.
+      Everything tastes fresh and properly prepared, the portions are solid, and the flavours hit that authentic Turkish note you want first thing in the morning. The staff are friendly and welcoming, the place is clean, and you leave full and happy.
+      Easily one of the best (if not the best) Turkish breakfast experiences in the city. Highly recommend for a weekend treat or when you want something special beyond the usual brunch spots.
   - name: "Monica dragan georgescu"
     rating: 5
     comment: |
@@ -49,16 +61,6 @@ reviews:
     rating: 5
     comment: |
       We dined in for dinner. Service was friendly and service was great! The food was delicious! Beef/Chicken, Lamb Shish, & Chicken thigh platters were very delicious. The warm bread at the beginning was delicious. Tea is offered at the end and was very nice to wrap up the dining in experience.
-  - name: "Kalid A"
-    rating: 5
-    comment: |
-      On the door it says, "Wait to be seated." Welcomed with a smile 😊 and directed to be seated.
-      
-      Enjoy a warm reception with appetizers while you wait to be served with your order.
-      
-      I enjoy their chicken shawarma, too, served.
-      
-      Lastly, I got a free tea to enjoy our conversation with my friend.
   - name: "Royal"
     rating: 5
     comment: |
@@ -66,8 +68,4 @@ reviews:
       
       The staff was really great and we got complimentary tea at the end.
       Definitely one of the best Turkish spots we’ve ever tried.
-  - name: "Omar Bakhtari"
-    rating: 5
-    comment: |
-      I’ve been coming to this restaurant about 3–4 times a week, and the food is absolutely amazing every single time. I’ve been served by Raghad more than a dozen times, and her service has always stood out. She’s incredibly attentive, makes sure my table has everything I need, and everything always comes out on time. Her service is flawless, and she always makes the experience enjoyable fun and it makes me want to come back. The restaurant itself is also extremely clean and well maintained. Amazing food, excellent service, and a great atmosphere. Definitely one of my favourite places to eat!
 ---

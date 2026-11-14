@@ -24,35 +24,30 @@ photos:
   - "/photos/beverly-physiotherapy-g1.jpg"
   - "/photos/beverly-physiotherapy-g2.jpg"
 rating: 4.8
-review_count: 107
+review_count: 110
 amenities: []
 tags: ["edmonton", "physiotherapy"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Hailey Anderson"
+    rating: 5
+    comment: |
+      I have done physio at another clinic before going to Beverly and I was given one exercise and that was it. At Beverly physio they gave me several exercises to try and even made sure in clinic that I was doing them correctly as well as adapting with my needs and time frames. All the people I worked with here have done an amazing job helping me get back to as close to normal as I can get after my injury. A big thank you to Dr. Radha, Dr. Nimesh, Yordanose, Alex, Dr. Hussein, and the reception staff as they continue to help me feel better.
+  - name: "Sera Vybz"
+    rating: 5
+    comment: |
+      I had a wonderful massage experience with Kisanet Tesfazgi. She was very professional, attentive, and made me feel comfortable and relaxed throughout the entire session. The massage was exactly what I needed, and I left feeling refreshed and rejuvenated. I highly recommend Kisanet to anyone looking for a great massage experience!
   - name: "Tetiana"
     rating: 5
-    date: "2026-07-21"
     comment: |
       I can’t recommend Nimesh enough! From my very first appointment, he made me feel heard, comfortable, and confident in my recovery plan. He took the time to truly explain what was causing my pain rather than just treating the symptoms. Thanks to their personalized care and guidance, I’m back to my daily routine completely pain-free. If you’re looking for a knowledgeable and genuinely compassionate physiotherapist, Nimesh is the best!
-  - name: "ASIF AHMED"
+  - name: "Sim Tran"
     rating: 5
-    date: "2026-07-10"
     comment: |
-      The Massage Therapist, Yordanose Kenasa is extremely knowledgeable about massage therapy, Different techniques, Recommendations towards healing. I’m so glad that I met her as my therapist. I will continue going to her for my treatments.
-  - name: "Shania Sandoval"
+      Kisanet Tesfazgi is an exceptional massage therapist! Her hot stone massage left me very relaxed and comfortable afterwards. I highly recommend this establishment.
+  - name: "Lea"
     rating: 5
-    date: "2026-05-01"
     comment: |
-      Yordanose was absolutely incredible! Not only is she amazing at giving a massage but she is also very kind and will make you feel relaxed and comfortable for the whole session. She puts a lot of effort into the massage and her techniques will leave your muscles very satisfied!
-  - name: "Brandon Stach"
-    rating: 5
-    date: "2026-04-24"
-    comment: |
-      Polite and easy to deal with. When I found out I had a torn tendon, the clinic scheduled me for an assessment quickly, and I have been visiting them nearly every week for 2 months for both massages and physiotherapy.
-  - name: "Fartun Mohamed"
-    rating: 5
-    date: "2026-02-26"
-    comment: |
-      I really appreciate Yoradanose’s work. The massage helped reduce my muscle pain and stiffness. She was very kind, professional, and made me feel comfortable. Thank you so much! 🫶🏽
+      Excellent service, fabulous care. Radha is  an amazing physiotherapist .The staff is friendly and helpful. Highly recommended.
 ---

@@ -6,7 +6,7 @@ subcategory: "tires"
 neighborhood: "Edmonton"
 address: "9927 51 Ave NW, Edmonton, AB T6E 0A8"
 rating: 4.7
-review_count: 632
+review_count: 652
 tier: "featured"
 phone: "(780) 435-6400"
 website: "https://www.bestwaytire.ca/"
@@ -14,32 +14,25 @@ google_maps: "https://maps.google.com/?cid=3975632349439881933&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/bestway-tire-ltd.jpg"
 reviews:
+  - name: "Anu B"
+    rating: 5
+    comment: |
+      I have been a loyal customer of Bestway tires over 10 years, and I can confidently say they are the best in the business. Their professionalism and attention to detail are unmatched🙏. The communication is always excellent; they keep me informed every step of the way, ensuring I never feel in the dark about my vehicle's care. I can trust them completely, knowing my car is in capable hands. If you're looking for a reliable auto shop, I highly recommend Bestway tires Ltd. you will drive away happy! 😊Thank you to the entire team and specially to Mr. Vince. 👍👍
+  - name: "Warren Wylie"
+    rating: 5
+    comment: |
+      Highly recommend these guys. They showed up for me in a big way in an emergency situation! I popped a tire trying to get home to Calgary, and called around..nobody had my size of tires to help me until I called Bestway and got Andy Mehta. Andy checked for me and not only had tires available, but agreed to take my car in same day and get me going again. The team there were so busy, but they got it done in time and got me home. I can't say enough about how they went out of their way to sure I got home. Andy even called me while I was on my way on the highway to make sure all was good. Legends and champions all around!
+  - name: "Alexander Lobkov"
+    rating: 5
+    comment: |
+      I have been going to Bestway Tire since I moved into the city 3 years ago. Bob, just like the rest of the front desk staff, are extremely knowledgeable in tires and other repair services from here. I have gotten new tires, oil changes, fluid changes, windshield, and windshield wipers. Honestly I get amazed that the staff knows my first and last name by heart. Love giving this place my money. Thank you for taking care of our family and our vehicles!!!
+  - name: "J G"
+    rating: 5
+    comment: |
+      The team at Bestway tires is great. We had two cars that they serviced for us on a regular basis. Not just tires but also mechanical work. On several occasions Vince even reviewed a quote for me to help assess its reasonableness as we moved to Ottawa.
+      Honest and reliable service.
   - name: "Justin F"
     rating: 5
     comment: |
       I’ve been using Bestway for tires for all my vehicles for over 10 years with nothing but great prices and high quality work. My last visit had an unfortunate mistake happen, no one is perfect and mistakes happen. I understand that and they do as well. Andy and Vince took responsibility and went out of their way to make things right. They’re good, honest people that care about customer relationships and the quality of work that comes out of their shop. Thank you again to Andy, Vince, and Jass. I highly recommend Bestway and will continue to support them in the future.
-  - name: "David Truong"
-    rating: 5
-    comment: |
-      Best customer service in the City. Dont trust your vehicle to any other shop.
-      For example, I booked appointment last Saturday to troubleshoot error code. Once that was resolved asked if they could look at noise in front end. Turns out new front struts was needed. Richard (Service Mgr) took me into the service bay to show me the issue as well as being transparent with sourcing the parts and getting me the best value. I also really appreciated that he was able to get two mechanics on the repair so that I could have the vehicle back the same day. On top of the top notch service, the other Service Advisor (Im sorry, fogot his name) was kind enough to offer all of us food while we waited! Now obviously I'm sure this doesn't happen all the time but my point is they treat you like friends/family there and not just a number. That is really hard to find in a repair shop and I've been to too many. I don't leave many reviews either but they earned this review. I've been here many times and have not been disappointed yet. Keep up the good work Bestway Tire!
-  - name: "Melissa Olson"
-    rating: 5
-    comment: |
-      I was looking for all weather tires, and I had reached our for a quote on a tire that was recommended for my car. Mohammed got back to me not only with a quote for what I asked for, but also sent comparisons between others that would fit my car, but come highly rated for Edmonton's climate, with various price points. It was super easy to get an appointment,  and not only did they put on my new tires, they also inspected another set I had,  determined they were not safe and disposed of them for a small charge. The shop also looked at my brakes and let me know they were in good shape, after I was recently told by another shop they were needing replacement. Mohammed thoroughly explained why that wasnt the case, why the front brakes are thicker than the rear and assured me I was safe. In addition they also gave me a quote for a new windshield, for half the price I'd paid last July for  an aftermarket windshield.  In all, every person I spoke to was welcoming, and professional while still being personable and found safe solutions within my means. I would highly recommend this business and will be happy to go back for additional services! And Mohammed is phenomenal to work with!
-  - name: "Ram Rowsell"
-    rating: 5
-    comment: |
-      I needed tires for my Camaro ASAP, a five minute phone call, next day availability and installation, done!
-      Great service!
-      Wait, EXCELLENT SERVICE!!
-      Went over and above to
-      accommodate this “out of towner!”
-      More than a tire shop…full mechanical!
-      Big smiles, on everyone’s  face who worked there!
-      Can’t say enough about Bestway Tire!
-  - name: "Gareth M"
-    rating: 5
-    comment: |
-      I had a great experience at Bestway Tire! They took care of the transmission work, tires, and oil changes for two of my vehicles. The customer service from Tony was excellent, as always, and the entire team was friendly and helpful. I highly recommend Bestway Tire for their high-quality work and exceptional service.
 ---

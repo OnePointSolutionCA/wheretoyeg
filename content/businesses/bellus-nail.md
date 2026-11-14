@@ -24,7 +24,7 @@ photos:
   - "/photos/bellus-nail-g1.jpg"
   - "/photos/bellus-nail-g2.jpg"
 rating: 4.3
-review_count: 129
+review_count: 131
 amenities:
   - "Family Friendly"
   - "Wheelchair Accessible"
@@ -32,19 +32,29 @@ tags: ["edmonton", "gel"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Kyla"
-    rating: 5
-    date: "2026-05-16"
+  - name: "Danielle Johnson"
+    rating: 2
     comment: |
-      I didnt get the lady's name who did my nails, but she did such an amazing job at fixing up my nails. They were far too thick with gel from the previous nail salon I went to. The lady at Bellus Nail did an amazing job. I would highly recommend this place.
-  - name: "Jennifer Hargreaves"
+      Went in for a manicure with gel polish (plus gel polish removal). On my left thumb she went deep with the drill to remove the gel and the nail is so thin I can feel everything through it and it bends, even though it’s cut short. The polish is thin and uneven, needed another coat for sure for proper coverage but she just slapped the top coat on and was finished. They could look worse but definitely not what I’m used to when I get a gel manicure. I was in a rush so I went here as it’s close to home but won’t again.
+  - name: "Kallie Fraser"
     rating: 5
-    date: "2023-03-22"
     comment: |
-      Love my new natural looking nails! Wendy is awesome! While she worked her magic on my nails, she had several other ladies stop in to book with her as well. Very thorough, friendly and talkative! 😊
-  - name: "Tamra Thiessen"
+      Bellus Nails is the BEST! I have been coming here for years to get dip powder nails. The new staff are phenomenal- always friendly and open to doing different types of designs. If you’re wanting to get your nails done, try out Bellus! The shop is always clean.
+  - name: "Simone"
     rating: 5
-    date: "2026-04-09"
     comment: |
-      Calvin is new to the team at Bellus and did a fantastic job of my fills for my nails. Detailed. Listened to what I wanted. I will return if he is available. GREAT hire Bellus!
+      I had such a wonderful experience at Bella’s Nails! They were able to fit me in last minute, which I was so grateful for, and from the moment I arrived I felt completely welcomed.
+      Amanda was absolutely lovely—so personable, charming, and genuinely great to chat with. The attention to detail was fantastic. She took the time to clean up my nails and cuticles beautifully, and even finished with a hand massage and hot towel, which was such a nice touch.
+      
+      You can really tell there is pride and care put into the service here. My nails look beautiful, and the whole experience felt relaxing, thoughtful, and high quality.
+      
+      I’m so happy I found this place and will absolutely be back. Highly recommend! ❤️
+  - name: "Doreen Suter"
+    rating: 5
+    comment: |
+      We love the friendly staff and we have always had beautiful nails. Amanda is always kind and considerate to my disabled daughter and never rushes her and is always sweet and kind. And loves to see what next design my daughter has picked out. I couldn’t recommend them more. Tina is also a very sweet technician. The owners have also always been extremely welcoming and we’ve been going for about 7 years and I couldn’t recommend more.
+  - name: "allie butz"
+    rating: 5
+    comment: |
+      Bellus does excellent work, and has wonderful customer service. Amanda has been doing my nails for years, and she never fails. Her work is done with precision, and detail. I love being home to call a local business my go to. always 10/10
 ---

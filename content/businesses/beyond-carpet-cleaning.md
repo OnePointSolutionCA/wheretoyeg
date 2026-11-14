@@ -6,7 +6,7 @@ subcategory: "carpet"
 neighborhood: "Edmonton"
 address: "4066, 10301 104 Street NW, Edmonton, AB T5J 1C1"
 rating: 4.7
-review_count: 145
+review_count: 146
 tier: "featured"
 phone: "(780) 708-1590"
 website: "http://www.beyondcarpet.ca/"
@@ -23,18 +23,18 @@ reviews:
     rating: 5
     comment: |
       Dominic did a great job at our house and provide great advices for maintaining the carpet. The before and after cleaning difference is very noticeable and it literally gives my carpet a new look. He told me the importance of vacuuming the carpet before arrival and having a well functioning carpet vacuum. He even told me the importance of making a parking space on the driveway (before the cleaning arrival), how it'll lead to less hoses been laid down, and how it'll lead to a better cleaning result. He's very knowledgeable, so if you have dirty carpet, definitely give him a call.
-  - name: "Amrit Hunjan"
+  - name: "Mina Patel"
     rating: 5
     comment: |
-      Exceptional service and best in the business I’ve used their Carpet Cleaning services for many years always shows up on time and does a great job!
+      Dominic has cleaned our carpets over the last five years and each time he has done an amazing job. I would highly recommend him to anyone.
   - name: "dr9106"
     rating: 5
     comment: |
       Toni did a great job cleaning my carpets! He was extremely professional and did a really good job of even addressing all spots not cleared by his main cleaner. Overall highly recommended.
-  - name: "Crystal Cote"
+  - name: "Amrit Hunjan"
     rating: 5
     comment: |
-      Beyond Carpet Cleaning came to my home on very short notice and did a fantastic job. He showed up on time, was very professional and the price was reasonable and what was agreed upon. Thank you!
+      Exceptional service and best in the business I’ve used their Carpet Cleaning services for many years always shows up on time and does a great job!
 hours:
   monday: "8:00 AM–6:00 PM"
   tuesday: "8:00 AM–6:00 PM"
