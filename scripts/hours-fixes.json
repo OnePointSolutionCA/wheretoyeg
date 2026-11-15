@@ -4,8 +4,44 @@
     "monday": {
       "google": "12:00 AM–4:00 PM",
       "use": "By appointment",
-      "why": "Google shows Monday from midnight and every other day closed; the website only offers booked appointments",
-      "checked": "2026-11-03"
+      "why": "Google shows Monday from midnight; the profile says appointments required and the website only offers booked appointments",
+      "checked": "2026-11-14"
+    },
+    "tuesday": {
+      "google": "Closed",
+      "use": "By appointment",
+      "why": "Mortgage broker that works by appointment (Google profile: appointments required); Google's hours data is broken, so Closed on every day but Monday was misleading",
+      "checked": "2026-11-14"
+    },
+    "wednesday": {
+      "google": "Closed",
+      "use": "By appointment",
+      "why": "Mortgage broker that works by appointment (Google profile: appointments required); Google's hours data is broken, so Closed on every day but Monday was misleading",
+      "checked": "2026-11-14"
+    },
+    "thursday": {
+      "google": "Closed",
+      "use": "By appointment",
+      "why": "Mortgage broker that works by appointment (Google profile: appointments required); Google's hours data is broken, so Closed on every day but Monday was misleading",
+      "checked": "2026-11-14"
+    },
+    "friday": {
+      "google": "Closed",
+      "use": "By appointment",
+      "why": "Mortgage broker that works by appointment (Google profile: appointments required); Google's hours data is broken, so Closed on every day but Monday was misleading",
+      "checked": "2026-11-14"
+    },
+    "saturday": {
+      "google": "Closed",
+      "use": "By appointment",
+      "why": "Mortgage broker that works by appointment (Google profile: appointments required); Google's hours data is broken, so Closed on every day but Monday was misleading",
+      "checked": "2026-11-14"
+    },
+    "sunday": {
+      "google": "Closed",
+      "use": "By appointment",
+      "why": "Mortgage broker that works by appointment (Google profile: appointments required); Google's hours data is broken, so Closed on every day but Monday was misleading",
+      "checked": "2026-11-14"
     }
   },
   "authentic-punjabi-tiffin-catering": {
@@ -13,37 +49,37 @@
       "google": "12:30 AM–7:00 AM, 10:00 AM–7:00 PM",
       "use": "10:00 AM–7:00 PM",
       "why": "Google adds a 12:30 AM to 7 AM block to a tiffin service; kept only the daytime hours",
-      "checked": "2026-11-03"
+      "checked": "2026-11-14"
     },
     "tuesday": {
       "google": "12:30 AM–7:00 AM, 10:00 AM–7:00 PM",
       "use": "10:00 AM–7:00 PM",
       "why": "Google adds a 12:30 AM to 7 AM block to a tiffin service; kept only the daytime hours",
-      "checked": "2026-11-03"
+      "checked": "2026-11-14"
     },
     "wednesday": {
       "google": "12:30 AM–7:00 AM, 10:00 AM–7:00 PM",
       "use": "10:00 AM–7:00 PM",
       "why": "Google adds a 12:30 AM to 7 AM block to a tiffin service; kept only the daytime hours",
-      "checked": "2026-11-03"
+      "checked": "2026-11-14"
     },
     "thursday": {
       "google": "12:30 AM–7:00 AM, 10:00 AM–7:00 PM",
       "use": "10:00 AM–7:00 PM",
       "why": "Google adds a 12:30 AM to 7 AM block to a tiffin service; kept only the daytime hours",
-      "checked": "2026-11-03"
+      "checked": "2026-11-14"
     },
     "friday": {
       "google": "12:30 AM–7:00 AM, 10:00 AM–7:00 PM",
       "use": "10:00 AM–7:00 PM",
       "why": "Google adds a 12:30 AM to 7 AM block to a tiffin service; kept only the daytime hours",
-      "checked": "2026-11-03"
+      "checked": "2026-11-14"
     },
     "saturday": {
       "google": "12:30 AM–7:00 AM, 10:00 AM–7:00 PM",
       "use": "10:00 AM–7:00 PM",
       "why": "Google adds a 12:30 AM to 7 AM block to a tiffin service; kept only the daytime hours",
-      "checked": "2026-11-03"
+      "checked": "2026-11-14"
     }
   },
   "bakecraft-boutique-bakery": {
@@ -239,9 +275,9 @@
   "spice-valley-indian-grocery-store": {
     "sunday": {
       "google": "12:00 AM–9:00 PM",
-      "use": "12:00 PM–9:00 PM",
-      "why": "Sunday typed as opening at midnight on Google; noon is the likely meaning",
-      "checked": "2026-11-03"
+      "use": "9:00 AM–9:00 PM",
+      "why": "Google lists Sunday as opening at midnight; Google popular times show shoppers from 9 AM on Sunday, same as the 9 AM to 9 PM it lists every other day",
+      "checked": "2026-11-14"
     }
   },
   "the-code-yeg": {

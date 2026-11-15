@@ -14,12 +14,12 @@ latitude: 53.550756
 longitude: -113.614220
 hours:
   monday: "By appointment"
-  tuesday: "Closed"
-  wednesday: "Closed"
-  thursday: "Closed"
-  friday: "Closed"
-  saturday: "Closed"
-  sunday: "Closed"
+  tuesday: "By appointment"
+  wednesday: "By appointment"
+  thursday: "By appointment"
+  friday: "By appointment"
+  saturday: "By appointment"
+  sunday: "By appointment"
 photos:
   - "/photos/adam-got-me-a-mortgage-g1.jpg"
   - "/photos/adam-got-me-a-mortgage-g2.jpg"

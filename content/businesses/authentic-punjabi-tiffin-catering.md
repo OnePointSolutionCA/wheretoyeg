@@ -7,7 +7,7 @@ tier: "featured"
 description: "Authentic Punjabi Tiffin & Catering — indian catering in Edmonton, Edmonton. Halal-certified. 49 Google reviews, 5.0★."
 address: "4349 23 Ave NW, Edmonton, AB T6L 4M6"
 neighborhood: "Edmonton"
-phone: "(647) 771-8496"
+phone: "(780) 953-8496"
 google_maps_url: "https://maps.google.com/?cid=11753903877502360798&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "10:00 AM–7:00 PM"
