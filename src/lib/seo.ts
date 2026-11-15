@@ -157,6 +157,7 @@ const SUB_TYPE: Record<string, Record<string, string>> = {
     trampoline: "trampoline park", "axe-throwing": "axe throwing venue", karting: "go kart track", "board-games": "board game cafe",
     "mini-golf": "mini golf course", "laser-tag": "laser tag arena", "indoor-playground": "indoor playground", museums: "museum",
     outdoor: "park", skating: "skating spot", "vr-arcade": "VR arcade", paintball: "paintball field",
+    glamping: "glamping retreat",
   },
   "auto-repair": {
     mechanics: "auto mechanic", collision: "collision repair shop", tires: "tire shop", transmission: "transmission shop",
@@ -355,6 +356,7 @@ export const SUB_HEADING: Record<string, Record<string, string>> = {
   catering: { "private-events": "Private Event Caterers", buffets: "Buffet Caterers" },
   "activities-fun": {
     padel: "Padel & Racquet Clubs", arcades: "Arcades", bowling: "Bowling Alleys", karting: "Go Kart Tracks", outdoor: "Parks & Outdoor Spots", skating: "Skating Spots",
+    glamping: "Glamping & Retreats",
   },
 };
 

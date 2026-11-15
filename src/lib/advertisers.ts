@@ -6,7 +6,7 @@
 
 import { edmontonDay } from "./daily";
 
-export type AdvertiserId = "onepoint" | "fixauto" | "oxford" | "hearing" | "flowers";
+export type AdvertiserId = "onepoint" | "fixauto" | "oxford" | "hearing" | "flowers" | "sanctuary";
 
 export type Advertiser = {
   id: AdvertiserId;
@@ -101,10 +101,24 @@ const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
     color: "#A24F5F",
     tint: "#FCF3F4",
   },
+  sanctuary: {
+    id: "sanctuary",
+    name: "Secret Sanctuary Retreat",
+    logoSrc: "/logos/secret-sanctuary-retreat-sm.webp",
+    logoSize: [265, 280],
+    logoAlt: "Secret Sanctuary Retreat",
+    logoHeightPx: 72,
+    photo: { src: "/ads/sanctuary.webp", alt: "A glamping bell tent on a deck in the forest at Secret Sanctuary Retreat" },
+    kicker: "Retreat near Pigeon Lake",
+    line: "Glamping, a tiny cabin and wellness in the forest, about an hour from Edmonton.",
+    cta: { label: "Book your stay", href: "https://secretsanctuary.ca/" },
+    color: "#253F58",
+    tint: "#EFF4F1",
+  },
 };
 
 /** Every sponsor, in rotation order. */
-export const ROTATION: AdvertiserId[] = ["onepoint", "fixauto", "oxford", "hearing", "flowers"];
+export const ROTATION: AdvertiserId[] = ["onepoint", "fixauto", "oxford", "hearing", "flowers", "sanctuary"];
 
 export function advertiser(id: AdvertiserId): Advertiser {
   return ADVERTISERS[id];
@@ -123,7 +137,7 @@ export function adHref(href: string, id: AdvertiserId, placement: string, medium
 /**
  * Pick which sponsor fits the current page.
  *   - A strong match wins: auto repair → Fix Auto, chiro / physio / massage → Oxford,
- *     hearing → Medicine Place Hearing, florists and weddings → Flowers YEG.
+ *     hearing → Medicine Place Hearing, florists → Flowers YEG, glamping and retreats → Secret Sanctuary.
  *   - Every other page gets an even spread of all five, reshuffled each day
  *     (the site rebuilds daily), so each sponsor shows across the whole site.
  */
@@ -134,6 +148,7 @@ export function pickAdvertiser(ctx: { category?: string; subcategory?: string; t
   }
   if (/\b(hearing|hearing-care|hearing-aids?|audiolog\w*|tinnitus)\b/.test(text)) return "hearing";
   if (/\b(florists?|flowers?|bouquets?|wedding-flowers)\b/.test(text)) return "flowers";
+  if (/\b(glamping|camping|campgrounds?|retreats?|cabins?)\b/.test(text)) return "sanctuary";
   if (
     ctx.category === "medical" &&
     (/\b(chiropractors?|physiotherap|massage-therapy|acupuncture|back-pain|neck-pain|sciatica|whiplash)\b/.test(text) ||

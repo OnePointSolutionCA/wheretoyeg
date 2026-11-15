@@ -51,5 +51,6 @@ subcategories:
   - { name: "Skating", slug: "skating" }
   - { name: "VR Arcades", slug: "vr-arcade" }
   - { name: "Paintball", slug: "paintball" }
+  - { name: "Glamping & Retreats", slug: "glamping" }
 ---
 Good for a rainy Saturday, a first date, or a birthday party you don't want to plan from scratch. Edmonton has more going on than people think: indoor climbing, padel courts, escape rooms, arcades and board game cafes where an afternoon disappears fast. Everything here is ranked by Google rating, so you can see what locals think before you go.
