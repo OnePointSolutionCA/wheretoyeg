@@ -1958,5 +1958,10 @@
     "source": "/restaurants/soul-fuel-kitchen",
     "destination": "/restaurants",
     "permanent": true
+  },
+  {
+    "source": "/restaurants/khan-kebabs-and-karahi-halal-authentic-pakistani-and-afghani-cuisine-edmonton",
+    "destination": "/restaurants/khan-kebabs-karahi",
+    "permanent": true
   }
 ]

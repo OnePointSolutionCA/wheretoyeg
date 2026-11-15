@@ -5,12 +5,14 @@ category: "restaurants"
 subcategory: "pakistani"
 tier: "featured"
 logo: "/logos/khan-kebabs-karahi.png"
-description: "Authentic Pakistani BBQ and karahi house on 106 Street. Shinwari karahi, Lahori karahi, chapli kebab, chicken tikka, and biryani — all 100% halal. A go-to for Edmonton's Pakistani food lovers."
-address: "3927 106 Street, Edmonton, AB T6J 2S3"
-neighborhood: "Pleasantview"
+description: "Khan Kebabs & Karahi is a halal Pakistani and Afghani restaurant that has moved from 106 Street to its new home at 2619 Ellwood Drive SW in south Edmonton, just off 91 Street SW. The kitchen is known for Shinwari and Lahori karahi, chapli kebab, chicken tikka, biryani and Kabuli pulao, and everything on the menu is 100% halal.\n\nThe new dining room has booths for families and groups, and big platters made for sharing. You can also order takeout, delivery or catering."
+address: "2619 Ellwood Dr SW, Edmonton, AB T6X 0P7"
+neighborhood: "South Edmonton"
 phone: "(780) 450-9100"
 website: "https://khankebabs.ca"
-google_maps_url: "https://maps.google.com/?q=Khan+Kebabs+Karahi+Edmonton"
+google_maps_url: "https://maps.google.com/?cid=4881614941362680264"
+latitude: 53.4291404
+longitude: -113.4735551
 hours:
   monday: "11:00 AM–9:30 PM"
   tuesday: "11:00 AM–9:30 PM"
@@ -19,9 +21,9 @@ hours:
   friday: "11:00 AM–10:00 PM"
   saturday: "11:00 AM–10:00 PM"
   sunday: "11:00 AM–10:00 PM"
-photos: ["/photos/khan-kebabs-karahi-1.jpg", "/photos/khan-kebabs-karahi-2.jpg", "/photos/khan-kebabs-karahi-3.jpg"]
+photos: ["/photos/khan-kebabs-karahi-4.jpg", "/photos/khan-kebabs-karahi-5.jpg", "/photos/khan-kebabs-karahi-3.jpg", "/photos/khan-kebabs-karahi-6.jpg", "/photos/khan-kebabs-karahi-7.jpg"]
 rating: 4.6
-review_count: 2104
+review_count: 2191
 price_range: "$$"
 amenities:
   - "Halal"
@@ -29,7 +31,7 @@ amenities:
   - "Takeout"
   - "Delivery"
   - "Family Friendly"
-tags: ["pakistani", "halal", "karahi", "kebab", "biryani", "bbq"]
+tags: ["pakistani", "afghan", "halal", "karahi", "kebab", "biryani", "bbq", "south-edmonton", "ellerslie"]
 active: true
 reviews:
   - name: "Afiyah"

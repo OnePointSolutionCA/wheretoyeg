@@ -8,6 +8,7 @@ address: "2619 Ellwood Dr SW, Edmonton, AB T6X 0P7"
 rating: 4.6
 review_count: 2104
 tier: "featured"
+active: false
 phone: "(780) 450-9100"
 website: "http://www.khankebabs.ca/"
 google_maps_url: "https://maps.google.com/?cid=4881614941362680264&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

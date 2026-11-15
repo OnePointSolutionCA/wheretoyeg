@@ -29,7 +29,7 @@ Full guide: [Best Shawarma in Edmonton](/blog/best-shawarma-edmonton-2026).
 
 Karahi houses, biryani, chapli kebabs, chai.
 
-- **[Khan Kebabs & Karahi](/restaurants/khan-kebabs-karahi):** 106 Street, Shinwari and Lahori karahi. 4.6 stars, 300+ reviews.
+- **[Khan Kebabs & Karahi](/restaurants/khan-kebabs-karahi):** Ellwood Drive SW in south Edmonton, Shinwari and Lahori karahi. 4.6 stars, 2,000+ reviews.
 - **[Fatima Karahi Corner](/restaurants/fatima-karahi-corner):** Ellerslie, family-owned.
 
 Full guide: [Best Pakistani Food in Edmonton](/blog/best-pakistani-food-edmonton-2026).

@@ -20,7 +20,7 @@ Pakistani food in Edmonton has come into its own. What used to be a handful of I
 
 ## Top Pakistani restaurants in Edmonton
 
-**[Khan Kebabs & Karahi](/restaurants/khan-kebabs-karahi):** Authentic Pakistani BBQ and karahi house on 106 Street. Shinwari karahi, Lahori karahi, chapli kebabs. 4.6 stars over 300+ reviews. This is a benchmark spot.
+**[Khan Kebabs & Karahi](/restaurants/khan-kebabs-karahi):** Authentic Pakistani BBQ and karahi house, now at its new home on Ellwood Drive SW in south Edmonton. Shinwari karahi, Lahori karahi, chapli kebabs. 4.6 stars over 2,000 reviews. This is a benchmark spot.
 
 **[Fatima Karahi Corner](/restaurants/fatima-karahi-corner):** Family-owned Pakistani karahi house in Ellerslie, deep on Edmonton's halal food scene. Home-style cooking, portion sizes that feed a family.
 
@@ -45,9 +45,8 @@ Every restaurant on this list is halal. Ask at the counter if you want to see ce
 
 ## Best neighborhoods for Pakistani food in Edmonton
 
-- **South Edmonton (Ellerslie, Millwoods):** Densest concentration, most competition, most consistent quality.
+- **South Edmonton (Ellerslie, Millwoods):** Densest concentration, most competition, most consistent quality. Khan Kebabs moved here from 106 Street in 2026.
 - **North Edmonton (137 Ave / Castle Downs):** Growing scene, several strong shops.
-- **106 Street corridor:** Khan Kebabs anchors it.
 - **Old Strathcona:** Checkers has been here for years.
 
 ## Chapli kebab, the underdog
