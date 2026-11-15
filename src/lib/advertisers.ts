@@ -51,7 +51,7 @@ const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
     logoSrc: "/logos/fix-auto-sm.webp",
     logoSize: [422, 180],
     logoAlt: "Fix Auto Sherwood North",
-    logoHeightPx: 40,
+    logoHeightPx: 52,
     photo: { src: "/ads/fixauto.webp", alt: "Fix Auto Sherwood North shop on Provincial Avenue" },
     kicker: "Collision repair in Sherwood Park",
     line: "Collision repair, dents and paint, with free estimates.",
