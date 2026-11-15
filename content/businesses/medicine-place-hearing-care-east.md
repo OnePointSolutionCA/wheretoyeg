@@ -4,6 +4,7 @@ slug: "medicine-place-hearing-care-east"
 category: "medical"
 subcategory: "hearing-care"
 tier: "premium"
+pinned: true
 logo: "/logos/medicine-place-hearing.png"
 description: "Hearing clinic on 118 Avenue NW near 42 Street in Beverly, close to Rundle, Abbottsfield and northeast Edmonton. Complete hearing tests, hearing aids from every major brand and repairs for most makes and models, with a registered audiologist. No referral needed, and a registered AADL vendor."
 address: "4243 118 Ave NW, Edmonton, AB T5W 1A5"

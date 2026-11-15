@@ -255,7 +255,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
 
       {/* Sponsored: OnePoint Solutions display ad */}
       <section className="container-page mt-12" data-reveal="up">
-        <OnePointAd placement="category-footer" variant="banner" advertiser={pickAdvertiser({ category: c.slug })} />
+        <OnePointAd placement="category-footer" variant="banner" advertiser={pickAdvertiser({ category: c.slug, slot: getCategories().findIndex((x) => x.slug === c.slug) })} />
       </section>
 
       <section className="container-page mt-6" data-reveal="left">

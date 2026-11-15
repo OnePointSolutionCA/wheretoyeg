@@ -4,6 +4,7 @@ slug: "flowers-yeg"
 category: "professional-services"
 subcategory: "florists"
 tier: "premium"
+pinned: true
 seo_title: "Flowers YEG: Florist in Edmonton | Same Day Delivery"
 description: "Edmonton flower shop for hand tied rose bouquets, mixed and lily bouquets, luxury arrangements, wedding florals and event decor. Order online by 5 PM any day for same day delivery across Edmonton, St. Albert, Sherwood Park, Fort Saskatchewan, Morinville, Spruce Grove and Beaumont, or choose free pickup. Call or text for custom bouquets."
 address: "5320 Admiral Girouard Street, Edmonton, AB T5E 6Z7"

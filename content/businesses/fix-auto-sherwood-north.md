@@ -4,6 +4,7 @@ slug: "fix-auto-sherwood-north"
 category: "auto-repair"
 subcategory: "collision"
 tier: "premium"
+pinned: true
 logo: "/logos/fix-auto.png"
 description: "Collision repair and auto body shop on Provincial Avenue in Sherwood Park. Dent repair, bumper scratch and scuff repair, minor rust repair, vehicle diagnostics, windshield replacement and mechanical repair. They help with the insurance claims process and back repair work with a nationwide limited lifetime warranty. AMVIC licensed."
 address: "Unit 100, 167 Provincial Ave, Sherwood Park, AB T8H 0M3"

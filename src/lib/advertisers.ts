@@ -1,9 +1,12 @@
 /**
- * Ad slots the site rotates between. Each advertiser owns their own branded card
- * on the pages that fit them (and their listing on the directory stays separate).
+ * Sponsors the site rotates between: OnePoint plus OnePoint's paying Edmonton SEO clients.
+ * Each ad is one real photo from the sponsor's own site, their logo, one short line and
+ * one button in their brand colour. Their directory listings stay separate (pinned Premium).
  */
 
-export type AdvertiserId = "onepoint" | "fixauto" | "oxford";
+import { edmontonDay } from "./daily";
+
+export type AdvertiserId = "onepoint" | "fixauto" | "oxford" | "hearing" | "flowers";
 
 export type Advertiser = {
   id: AdvertiserId;
@@ -12,20 +15,19 @@ export type Advertiser = {
   /** Intrinsic [width, height] of logoSrc, so the browser reserves the logo width before it loads. */
   logoSize: [number, number];
   logoAlt: string;
-  logoHeightPx: number; // rendered height on the card
-  tagline: string; // short lead line in the "Sponsored" eyebrow
-  headline: string;
-  highlight: string; // the orange or coloured phrase inside headline
-  blurb: string;
-  bullets: string[]; // 2-3 short phrases on the banner
-  primary: { label: string; href: string };
-  secondary: { label: string; href: string };
-  /** Hex background for banner / popup card. Keep high contrast with white text. */
-  bg: string;
-  /** Hex accent for the primary button background. */
-  accent: string;
-  /** Hex accent, slightly brightened, for the headline highlight word. */
-  accentSoft: string;
+  /** Rendered logo height in px; square or tall marks need more than wide wordmarks. */
+  logoHeightPx: number;
+  /** Real photo from the sponsor's own site, 3:2, in /public/ads. */
+  photo: { src: string; alt: string };
+  /** Small label above the line, e.g. what and where. */
+  kicker: string;
+  /** The one short line. No dashes, no promised results. */
+  line: string;
+  cta: { label: string; href: string };
+  /** Brand colour for the button (white text must read on it). */
+  color: string;
+  /** Very light brand tint for the card background. */
+  tint: string;
 };
 
 const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
@@ -35,18 +37,13 @@ const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
     logoSrc: "/logos/onepoint-horizontal-sm.webp",
     logoSize: [786, 120],
     logoAlt: "OnePoint Solutions Marketing Agency",
-    logoHeightPx: 36,
-    tagline: "Marketing agency",
-    headline: "Show up when Edmontonians",
-    highlight: "search for you.",
-    blurb:
-      "OnePoint Solutions builds websites and runs SEO, Google Business Profile and social for Edmonton businesses. Transparent monthly pricing, no contracts.",
-    bullets: ["Websites from $499", "SEO from $500/mo", "Social from $300/mo"],
-    primary: { label: "Free SEO Audit", href: "https://onepointsolution.ca/free-seo-audit/" },
-    secondary: { label: "Visit OnePoint", href: "https://onepointsolution.ca/" },
-    bg: "#2D3E50",
-    accent: "#D97B2B",
-    accentSoft: "#F2A26B",
+    logoHeightPx: 26,
+    photo: { src: "/ads/onepoint.webp", alt: "Downtown Edmonton skyline" },
+    kicker: "Edmonton marketing agency",
+    line: "Websites, SEO and social media for Edmonton businesses.",
+    cta: { label: "Get a free SEO audit", href: "https://onepointsolution.ca/free-seo-audit/" },
+    color: "#C9691C",
+    tint: "#FBF3EB",
   },
   fixauto: {
     id: "fixauto",
@@ -54,18 +51,13 @@ const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
     logoSrc: "/logos/fix-auto-sm.webp",
     logoSize: [422, 180],
     logoAlt: "Fix Auto Sherwood North",
-    logoHeightPx: 56,
-    tagline: "Collision repair",
-    headline: "Dent, scratch or crash?",
-    highlight: "We handle it.",
-    blurb:
-      "Fix Auto Sherwood North does collision repair, paintless dent repair, colour matching and OEM parts. Nationwide limited lifetime warranty. AMVIC licensed.",
-    bullets: ["Free estimates", "In Alberta you choose your shop", "Unit 100, 167 Provincial Ave"],
-    primary: { label: "Get a Free Estimate", href: "https://fixauto.com/ca/en/shop/fix-auto-sherwood-north/" },
-    secondary: { label: "Call (780) 416-3158", href: "tel:+17804163158" },
-    bg: "#0F2A4A",
-    accent: "#E63955",
-    accentSoft: "#FFC43A",
+    logoHeightPx: 40,
+    photo: { src: "/ads/fixauto.webp", alt: "Fix Auto Sherwood North shop on Provincial Avenue" },
+    kicker: "Collision repair in Sherwood Park",
+    line: "Collision repair, dents and paint, with free estimates.",
+    cta: { label: "Get a free estimate", href: "https://fixauto.com/ca/en/shop/fix-auto-sherwood-north/" },
+    color: "#C8102E",
+    tint: "#FDF0F2",
   },
   oxford: {
     id: "oxford",
@@ -73,36 +65,75 @@ const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
     logoSrc: "/logos/oxford-chiro-horizontal-sm.webp",
     logoSize: [439, 130],
     logoAlt: "Oxford Chiropractic & Wellness",
-    logoHeightPx: 40,
-    tagline: "Chiropractic & wellness",
-    headline: "Back pain? See an",
-    highlight: "Edmonton chiro.",
-    blurb:
-      "Oxford Chiropractic & Wellness in North Edmonton offers chiropractic care and massage therapy, with no referral needed. Direct billing available for most insurers.",
-    bullets: ["Direct billing", "Chiro & massage therapy", "North Edmonton clinic"],
-    primary: { label: "Book an Appointment", href: "https://oxfordchiropractic.ca/" },
-    secondary: { label: "Call (825) 394-3641", href: "tel:+18253943641" },
-    bg: "#17446B",
-    accent: "#4CA451",
-    accentSoft: "#7FD182",
+    logoHeightPx: 32,
+    photo: { src: "/ads/oxford.webp", alt: "Oxford Chiropractic & Wellness front desk and waiting room" },
+    kicker: "Chiropractic in North Edmonton",
+    line: "Chiropractic care and massage therapy, no referral needed.",
+    cta: { label: "Book a visit", href: "https://oxfordchiropractic.ca/" },
+    color: "#2F7D3A",
+    tint: "#EEF6EE",
+  },
+  hearing: {
+    id: "hearing",
+    name: "Medicine Place Hearing Care",
+    logoSrc: "/logos/medicine-place-hearing-sm.webp",
+    logoSize: [600, 138],
+    logoAlt: "Medicine Place Hearing Care",
+    logoHeightPx: 30,
+    photo: { src: "/ads/hearing.webp", alt: "A hearing aid being fitted behind the ear" },
+    kicker: "Hearing care in Edmonton",
+    line: "Hearing tests and hearing aids at two Edmonton clinics.",
+    cta: { label: "Book a hearing test", href: "https://medicineplacehearing.ca/" },
+    color: "#005446",
+    tint: "#EDF6FB",
+  },
+  flowers: {
+    id: "flowers",
+    name: "Flowers YEG",
+    logoSrc: "/logos/flowers-yeg-sm.webp",
+    logoSize: [243, 260],
+    logoAlt: "Flowers YEG",
+    logoHeightPx: 72,
+    photo: { src: "/ads/flowers.webp", alt: "A bouquet of pink roses from Flowers YEG" },
+    kicker: "Edmonton florist",
+    line: "Fresh bouquets for every occasion, delivered across Edmonton.",
+    cta: { label: "Shop flowers", href: "https://flowersedmonton.ca/" },
+    color: "#A24F5F",
+    tint: "#FCF3F4",
   },
 };
+
+/** Every sponsor, in rotation order. */
+export const ROTATION: AdvertiserId[] = ["onepoint", "fixauto", "oxford", "hearing", "flowers"];
 
 export function advertiser(id: AdvertiserId): Advertiser {
   return ADVERTISERS[id];
 }
 
+/** Adds the WhereToYEG UTM tags, e.g. utm_campaign=hearing-category-footer. Phone links stay as they are. */
+export function adHref(href: string, id: AdvertiserId, placement: string, medium = "ad"): string {
+  if (href.startsWith("tel:") || href.startsWith("mailto:")) return href;
+  const u = new URL(href);
+  u.searchParams.set("utm_source", "wheretoyeg");
+  u.searchParams.set("utm_medium", medium);
+  u.searchParams.set("utm_campaign", `${id}-${placement}`);
+  return u.toString();
+}
+
 /**
- * Pick which advertiser fits the current page.
- *   - Strong contextual match wins (auto-repair → Fix Auto, chiro / physio / massage → Oxford).
- *   - Otherwise rotates between all 3 so Oxford and Fix Auto show across the site
- *     too, not only on their own category pages.
+ * Pick which sponsor fits the current page.
+ *   - A strong match wins: auto repair → Fix Auto, chiro / physio / massage → Oxford,
+ *     hearing → Medicine Place Hearing, florists and weddings → Flowers YEG.
+ *   - Every other page gets an even spread of all five, reshuffled each day
+ *     (the site rebuilds daily), so each sponsor shows across the whole site.
  */
-export function pickAdvertiser(ctx: { category?: string; subcategory?: string; tags?: string[] }): AdvertiserId {
+export function pickAdvertiser(ctx: { category?: string; subcategory?: string; tags?: string[]; slot?: number }): AdvertiserId {
   const text = `${ctx.category ?? ""} ${ctx.subcategory ?? ""} ${(ctx.tags ?? []).join(" ")}`.toLowerCase();
   if (ctx.category === "auto-repair" || /\b(auto|collision|body-shops?|tires?|mechanic|paintless|dent)\b/.test(text)) {
     return "fixauto";
   }
+  if (/\b(hearing|hearing-care|hearing-aids?|audiolog\w*|tinnitus)\b/.test(text)) return "hearing";
+  if (/\b(florists?|flowers?|bouquets?|wedding-flowers)\b/.test(text)) return "flowers";
   if (
     ctx.category === "medical" &&
     (/\b(chiropractors?|physiotherap|massage-therapy|acupuncture|back-pain|neck-pain|sciatica|whiplash)\b/.test(text) ||
@@ -111,15 +142,16 @@ export function pickAdvertiser(ctx: { category?: string; subcategory?: string; t
     return "oxford";
   }
   if (/\b(chiropract|physiotherapy|back pain|neck pain|whiplash|sciatica)\b/.test(text)) return "oxford";
-  // Spread the three advertisers across every other page by hashing a stable key for this page.
+  // Pages from a small fixed set (like the 20 category pages) pass their position, so the
+  // sponsors take turns in order instead of leaving it to the hash.
+  if (ctx.slot !== undefined) return rotateAdvertiser(ctx.slot + edmontonDay());
   const key = `${ctx.category ?? ""}|${ctx.subcategory ?? ""}|${(ctx.tags ?? []).join(",")}`;
   let hash = 0;
   for (let i = 0; i < key.length; i++) hash = (hash * 31 + key.charCodeAt(i)) | 0;
-  return rotateAdvertiser(hash);
+  return rotateAdvertiser(hash + edmontonDay());
 }
 
-/** Deterministic rotation across all 3 advertisers; same answer for the whole day in Edmonton. */
-export function rotateAdvertiser(dayNumber: number): AdvertiserId {
-  const order: AdvertiserId[] = ["onepoint", "fixauto", "oxford"];
-  return order[Math.abs(dayNumber) % order.length];
+/** Deterministic rotation across all sponsors. */
+export function rotateAdvertiser(n: number): AdvertiserId {
+  return ROTATION[Math.abs(n) % ROTATION.length];
 }

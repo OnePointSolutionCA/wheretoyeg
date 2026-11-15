@@ -4,6 +4,7 @@ slug: "medicine-place-hearing-care-97-north"
 category: "medical"
 subcategory: "hearing-care"
 tier: "premium"
+pinned: true
 logo: "/logos/medicine-place-hearing.png"
 description: "Hearing clinic on 97 Street NW near 137 Avenue in north Edmonton, in the same building as the Medicine Place walk in clinic. Complete hearing tests, hearing aids from every major brand, repairs and follow up care with a registered audiologist. No referral needed, open Saturdays, and a registered AADL vendor."
 address: "13514 97 St NW, Edmonton, AB T5E 4E2"
