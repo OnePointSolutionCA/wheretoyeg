@@ -1,5 +1,6 @@
 import { getBusinesses, getCategories } from "@/lib/content";
 import { toCard, type SearchBusiness } from "@/lib/slim";
+import { SPONSORED_LISTINGS } from "@/lib/advertisers";
 
 export const dynamic = "force-static";
 // Content only changes on deploy (every push and the daily refresh job rebuild everything),
@@ -10,11 +11,13 @@ export function GET() {
   const cats = new Map(getCategories().map((c) => [c.slug, c]));
   const data: SearchBusiness[] = getBusinesses().map((b) => {
     const c = cats.get(b.category);
+    const terms = SPONSORED_LISTINGS.get(b.slug);
     return {
       ...toCard(b),
       catName: c?.name ?? b.category,
       subName: c?.subcategories?.find((s) => s.slug === b.subcategory)?.name,
       keywords: b.tags ?? [],
+      ...(terms ? { sponsorTerms: terms } : {}),
     };
   });
   return Response.json(data);

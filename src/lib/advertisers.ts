@@ -28,6 +28,10 @@ export type Advertiser = {
   color: string;
   /** Very light brand tint for the card background. */
   tint: string;
+  /** Their WhereToYEG listing slugs (Premium + pinned); these jump to the top of matching searches. */
+  listings?: string[];
+  /** Words people search for that should surface their listing first. */
+  searchTerms?: string;
 };
 
 const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
@@ -58,6 +62,8 @@ const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
     cta: { label: "Get a free estimate", href: "https://fixauto.com/ca/en/shop/fix-auto-sherwood-north/" },
     color: "#C8102E",
     tint: "#FDF0F2",
+    listings: ["fix-auto-sherwood-north"],
+    searchTerms: "collision repair auto body shop autobody bodywork dent hail damage accident mechanic",
   },
   oxford: {
     id: "oxford",
@@ -72,6 +78,8 @@ const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
     cta: { label: "Book a visit", href: "https://oxfordchiropractic.ca/" },
     color: "#2F7D3A",
     tint: "#EEF6EE",
+    listings: ["oxford-chiropractic-wellness"],
+    searchTerms: "chiropractor chiropractic chiro back neck pain massage therapy",
   },
   hearing: {
     id: "hearing",
@@ -86,6 +94,8 @@ const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
     cta: { label: "Book a hearing test", href: "https://medicineplacehearing.ca/" },
     color: "#005446",
     tint: "#EDF6FB",
+    listings: ["medicine-place-hearing-care-97-north", "medicine-place-hearing-care-east"],
+    searchTerms: "hearing test aids aid clinic care audiologist audiology tinnitus",
   },
   flowers: {
     id: "flowers",
@@ -100,6 +110,8 @@ const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
     cta: { label: "Shop flowers", href: "https://flowersedmonton.ca/" },
     color: "#A24F5F",
     tint: "#FCF3F4",
+    listings: ["flowers-yeg"],
+    searchTerms: "flowers flower florist shop delivery bouquet bouquets roses",
   },
   sanctuary: {
     id: "sanctuary",
@@ -114,8 +126,15 @@ const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
     cta: { label: "Book your stay", href: "https://secretsanctuary.ca/" },
     color: "#253F58",
     tint: "#EFF4F1",
+    listings: ["secret-sanctuary-retreat"],
+    searchTerms: "glamping camping campground campsite cabin cabins retreat retreats getaway",
   },
 };
+
+/** Listing slug → that sponsor's search words, for every listing that has an ad. */
+export const SPONSORED_LISTINGS: Map<string, string> = new Map(
+  Object.values(ADVERTISERS).flatMap((a) => (a.listings ?? []).map((slug) => [slug, a.searchTerms ?? ""] as [string, string])),
+);
 
 /** Every sponsor, in rotation order. */
 export const ROTATION: AdvertiserId[] = ["onepoint", "fixauto", "oxford", "hearing", "flowers", "sanctuary"];

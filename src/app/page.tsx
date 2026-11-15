@@ -51,6 +51,8 @@ export function generateMetadata(): Metadata {
 export default function HomePage() {
   const featured = getDiverseFeatured(20);
   const recent = getRecentReviews(8);
+  // OnePoint's own listing carries its live Google rating (the daily refresh updates it).
+  const onepoint = getBusinesses().find((b) => b.slug === "onepoint-solutions");
   const cats = getCategories();
   const catBySlug = Object.fromEntries(cats.map((c) => [c.slug, c.name]));
   const allPosts = getBlogPosts();
@@ -460,11 +462,16 @@ export default function HomePage() {
             <div className="relative">
               <div className="flex items-center justify-between gap-4">
                 <p className="text-xs font-bold uppercase tracking-[0.2em] text-coral">Who built this?</p>
-                <span className="text-xs font-bold text-coral">★ 5.0 <span className="font-normal text-teal-500">(26 reviews)</span></span>
+                {onepoint && onepoint.rating > 0 && (
+                  <Link href="/professional-services/onepoint-solutions" className="text-xs font-bold text-coral hover:underline">
+                    ★ {Number(onepoint.rating).toFixed(1)}{" "}
+                    <span className="font-normal text-teal-500">({onepoint.review_count} Google reviews)</span>
+                  </Link>
+                )}
               </div>
               <img src="/logos/onepoint-horizontal-sm.webp" alt="OnePoint Solutions Marketing Agency" width={786} height={120} loading="lazy" decoding="async" className="mt-5 w-48" />
               <p className="mt-4 text-sm leading-relaxed text-teal-500">
-                WhereToYEG is powered by OnePoint Solutions, an Edmonton-based marketing agency. Websites with SEO and AEO built in, social media management, and ongoing SEO across Canada. Portable billboard signage in Edmonton and surrounding areas.
+                WhereToYEG is powered by OnePoint Solutions, an Edmonton marketing agency. Websites with SEO and AEO built in, social media management, and ongoing SEO across Canada. Portable billboard signage in Edmonton and surrounding areas.
               </p>
               <div className="mt-4 flex flex-wrap gap-2">
                 {["Websites", "SEO", "Social Media", "Signage"].map((s) => (

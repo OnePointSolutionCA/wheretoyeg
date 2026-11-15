@@ -8,6 +8,7 @@ import { BusinessCard } from "@/components/BusinessCard";
 import { useRemoteJson } from "@/components/useRemoteJson";
 import type { SearchBusiness } from "@/lib/slim";
 import { pinnedFirst } from "@/lib/pin";
+import { sponsorMatch } from "@/lib/sponsorMatch";
 
 const PAGE = 24;
 const SUGGESTIONS = ["Shawarma", "Halal", "Barber", "Coffee", "Lash", "Brunch", "Dentist", "Mechanic"];
@@ -44,16 +45,24 @@ export function SearchClient({ neighborhoods, categories }: { neighborhoods: str
         ],
         threshold: 0.36,
         ignoreLocation: true,
+        includeScore: true,
       }),
     [data],
   );
 
   const results = useMemo(() => {
     if (!data) return [];
-    let list = q.trim() ? fuse.search(q.trim()).map((r) => r.item) : [...data].sort((a, b) => (b.review_count ?? 0) - (a.review_count ?? 0));
-    if (cat) list = list.filter((b) => b.category === cat);
-    if (n) list = list.filter((b) => b.neighborhood === n);
-    return pinnedFirst(list);
+    const keep = (b: SearchBusiness) => (!cat || b.category === cat) && (!n || b.neighborhood === n);
+    if (!q.trim()) {
+      return pinnedFirst([...data].sort((a, b) => (b.review_count ?? 0) - (a.review_count ?? 0)).filter(keep));
+    }
+    // 1. Listings with a sponsor ad that the search clearly asks for.
+    const sponsors = data.filter((b) => sponsorMatch(q, b.sponsorTerms));
+    // 2. Other pinned listings, but only on a strong match. 3. Everything else in match order.
+    const hits = fuse.search(q.trim()).filter((r) => !sponsors.includes(r.item));
+    const strongPinned = hits.filter((r) => r.item.pinned && (r.score ?? 1) <= 0.2).map((r) => r.item);
+    const rest = hits.map((r) => r.item).filter((b) => !strongPinned.includes(b));
+    return [...sponsors, ...strongPinned, ...rest].filter(keep);
   }, [q, n, cat, fuse, data]);
 
   const picked = categories.find((c) => c.slug === cat);

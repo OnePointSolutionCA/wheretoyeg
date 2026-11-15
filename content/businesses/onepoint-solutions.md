@@ -51,6 +51,10 @@ reviews:
     rating: 5
     comment: |
       As a medical services company, we’ve always relied mostly on word of mouth to get our name out there, so we wanted to explore new ways to reach more people without the hassle of constantly making phone calls. We decided to visit this marketing agency for a consultation, and I’m really glad we did! They took the time to understand our needs, walk us through different options, provide quotes, and explain what kind of results we could realistically expect. I really appreciated how they broke everything down and helped us see the possibilities without making us feel pressured into anything. It gave us a much clearer idea of how we could grow our business and reach more people in today’s digital world. I’d definitely recommend them to any business owner looking for fresh, innovative ways to promote their business and take things to the next level!
+  - name: "Kamil"
+    rating: 5
+    comment: |
+      Excellent service from start to finish. Very reliable, professional and responsive. They did a fantastic job creating a user friendly, professional website and improving its SEO, helping the business build a stronger online presence and reach more customers. Highly recommended!
   - name: "Ronnie"
     rating: 5
     comment: |

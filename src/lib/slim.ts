@@ -28,7 +28,7 @@ export function toCard(b: Business): Business {
   };
 }
 
-export type SearchBusiness = Business & { catName: string; subName?: string; keywords: string[] };
+export type SearchBusiness = Business & { catName: string; subName?: string; keywords: string[]; sponsorTerms?: string };
 
 const WEEK = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"] as const;
 

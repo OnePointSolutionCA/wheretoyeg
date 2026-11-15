@@ -4,12 +4,15 @@ import { useRouter } from "next/navigation";
 import { useEffect, useMemo, useRef, useState } from "react";
 import Fuse from "fuse.js";
 import { useRemoteJson } from "./useRemoteJson";
+import { sponsorMatch } from "@/lib/sponsorMatch";
 
 export type SearchIndexItem = {
   kind: "business" | "category" | "neighborhood";
   name: string;
   href: string;
   hint?: string;
+  /** Search words of a listing with a sponsor ad; a clear match puts it first. */
+  terms?: string;
 };
 
 export function HeroSearch({ neighborhoods, categories = [] }: { neighborhoods: string[]; categories?: { name: string; slug: string }[] }) {
@@ -51,13 +54,16 @@ export function HeroSearch({ neighborhoods, categories = [] }: { neighborhoods: 
       );
       return { item: r.item, score: (r.score ?? 1) + (strongMatch ? -0.3 : 0) };
     });
-    return scored
-      .filter((r) => !cat || r.item.href.startsWith(`/${cat}`))
+    // Listings with a sponsor ad that the search clearly asks for go first.
+    const inCat = (i: SearchIndexItem) => !cat || i.href.startsWith(`/${cat}`);
+    const sponsors = index.filter((i) => i.terms && inCat(i) && sponsorMatch(query, i.terms)).slice(0, 2);
+    const rest = scored
+      .filter((r) => inCat(r.item) && !sponsors.includes(r.item))
       .sort((a, b) => a.score - b.score)
       .filter((r) => r.score <= 0.55)
-      .slice(0, 5)
       .map((r) => r.item);
-  }, [q, fuse, cat]);
+    return [...sponsors, ...rest].slice(0, 5);
+  }, [q, fuse, cat, index]);
 
   useEffect(() => {
     function onDoc(e: MouseEvent) {

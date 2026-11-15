@@ -5,6 +5,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import Fuse from "fuse.js";
 import type { SearchIndexItem } from "./HeroSearch";
 import { useRemoteJson } from "./useRemoteJson";
+import { sponsorMatch } from "@/lib/sponsorMatch";
 
 export function NavSearch() {
   const [loaded, loadIndex] = useRemoteJson<SearchIndexItem[]>("/search-index.json");
@@ -41,12 +42,15 @@ export function NavSearch() {
       );
       return { item: r.item, score: (r.score ?? 1) + (strongMatch ? -0.3 : 0) };
     });
-    return scored
+    // Listings with a sponsor ad that the search clearly asks for go first.
+    const sponsors = index.filter((i) => i.terms && sponsorMatch(query, i.terms)).slice(0, 2);
+    const rest = scored
+      .filter((r) => !sponsors.includes(r.item))
       .sort((a, b) => a.score - b.score)
       .filter((r) => r.score <= 0.55)
-      .slice(0, 5)
       .map((r) => r.item);
-  }, [q, fuse]);
+    return [...sponsors, ...rest].slice(0, 5);
+  }, [q, fuse, index]);
 
   useEffect(() => {
     function onDoc(e: MouseEvent) {
