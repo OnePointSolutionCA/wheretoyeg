@@ -5,8 +5,8 @@ category: "restaurants"
 subcategory: "pizza"
 neighborhood: "St. Albert"
 address: "2D Sir Winston Churchill Ave, St. Albert, AB T8N 3T6"
-rating: 4.8
-review_count: 36
+rating: 4.7
+review_count: 45
 tier: "featured"
 phone: "(780) 334-9444"
 website: "http://www.bingopizza.ca/"
@@ -14,6 +14,16 @@ google_maps: "https://maps.google.com/?cid=5431500424022874448&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/bingo-pizza-donair-and-pasta.jpg"
 reviews:
+  - name: "RYN GBRLSN"
+    rating: 5
+    comment: |
+      I was in town for work and was looking for pizza. I am so glad I decided to pick Bingo! I got the BBQ chicken pizza. Amazing. This place is like 2 or 3 slices and you are stuffed. Big thick fat pizza that is perfectly done! This is what you want!
+  - name: "Raf"
+    rating: 5
+    comment: |
+      Absolutely fantastic pizza! We ordered a large Donair Pizza and a large Hawaiian Pizza, and both were delicious. The donair pizza was loaded with toppings and had amazing flavour in every bite. The Hawaiian had the perfect balance of ham, pineapple, cheese, and a great crust.
+      
+      The pizzas were fresh, generously topped, and excellent value for the money. You definitely get what you pay for here. We’ll definitely be back and highly recommend Bingo Pizza Donair & Pasta to anyone looking for great pizza! 🍕
   - name: "Anonimus 1"
     rating: 5
     comment: |
@@ -22,22 +32,14 @@ reviews:
       The smell coming from the oven while I waited almost had me drooling. The crust is dense, but not too bready, the toppings tasted fresh, the sauce was flavourful, and the cheese wasn’t too greasy. I’m completely satisfied after devouring it in one sitting. 😁
       
       On top of that, the owners are very friendly and make you want to come back regularly. I’m really glad they decided to join the neighbourhood! 👍
-  - name: "Lewis M"
+  - name: "Kathryn Farquharson"
     rating: 5
     comment: |
-      First time ordering here and it was excellent. The donair was one of the best I've had, and the dill tzatziki was fantastic. The fries were cooked exactly as requested. The staff was friendly and even told me I'd save money by calling the restaurant directly instead of ordering through DoorDash. I'll definitely be back.
+      We have had pizza from half a dozen places in st Albert and this place is the best by far. Have tried vegetarian, meat lovers, deluxe and donair. All are exceptional. Highly recommend this place
   - name: "Tom Hinch"
     rating: 5
     comment: |
       Fantastic we ordered lasagna hot wings and a donor pizza great tasting and the prices not to bad good to see another business open up in Grandin and the inside of restaurant very clean and bright and friendly greetings when we picked up and only a block away from home I'll probably try the entire menu at some point thank you Bingo pizza and welcome to Grandin 🤠😊
-  - name: "Shelby Thompson"
-    rating: 5
-    comment: |
-      Amazing pizza! The donair and the rancher was so delicious! Will be back soon!
-  - name: "ETHAN A"
-    rating: 5
-    comment: |
-      Finally tried this new pizza & donair spot and honestly, I'm impressed. The pizza was fresh, loaded with toppings, and the crust had that perfect balance, crispy on the outside and soft inside. The donair was packed, flavorful, and the meat tasted fresh with just the right amount of sauce. Definitely worth checking out if you're craving good pizza or a proper donair.
 hours:
   monday: "11:00 AM–10:00 PM"
   tuesday: "11:00 AM–10:00 PM"

@@ -19,7 +19,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/black-forest-barber-shop-1.jpg", "/photos/black-forest-barber-shop-2.jpg", "/photos/black-forest-barber-shop-3.jpg"]
 rating: 4.9
-review_count: 273
+review_count: 281
 price_range: "$$"
 amenities:
 
@@ -27,6 +27,32 @@ tags: ["edmonton", "classic-cuts"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Corey Ralph"
+    rating: 5
+    comment: |
+      Five Stars – An Outstanding Experience from Start to Finish!
+      
+      I just had my first beard trim with Seth at Black Forest Barber in Griesbach Village, and I couldn’t be happier with the experience!
+      
+      From the moment I walked in, I was greeted with a friendly smile and offered a beverage while I waited. The atmosphere is welcoming, relaxed, and professional.
+      
+      Seth was fantastic! He took the time to genuinely listen to what I wanted—a fade on the sides, clean lines, a longer moustache, and an overall tidy-up. His attention to detail and commitment to getting everything just right were impressive. The results exceeded my expectations!
+      
+      What really stood out was the entire experience. Great service, a comfortable atmosphere, and a barber who clearly takes pride in his craft.
+      
+      I was so impressed that I’ve already booked my next visit in early November for a hot face and head shave, along with another beard trim.
+      
+      An easy five stars! If you’re looking for excellent grooming and genuinely outstanding customer service, I highly recommend Seth and the team at Black Forest Barber in Griesbach Village. I’ll definitely be back!
+  - name: "Adam Bernard"
+    rating: 5
+    comment: |
+      Great experience each time we've gone. They managed to get our whole crew in and worked a little later to do it. Each guy was appreciative and loved the cleanliness of the hair cuts and the shop itself. If you're looking to get a professional hair cut this is the place.
+  - name: "Steven Preece"
+    rating: 5
+    comment: |
+      Tyco did such a fantastic job with my beard. His level of professionalism and attention to detail made me feel very comfortable with the whole experience. As an apprentice he should feel very proud of his skills.
+      
+      11/10, will return.
   - name: "Riri N"
     rating: 2
     comment: |
@@ -35,16 +61,4 @@ reviews:
     rating: 5
     comment: |
       What a great experience. I had Chris help me out choose a new style that matched my head shape and hair length which I was pretty nervous about. He explained everything clearly before cutting and taught me a few things at the end to help with maintenance. I think I found my forever barber! Thanks so much👌
-  - name: "Ryan"
-    rating: 5
-    comment: |
-      I was in today for a haircut. As a first time client I was unsure of what to expect with my service. My barber made my experience one to remember and will keep me coming back as a repeat customer. The shop was clean and well maintained. I will definitely be recommending Black Forest Barber Shop to my friends who're looking for a new barber.
-  - name: "Johnny Leung"
-    rating: 5
-    comment: |
-      Wow, I'm blown away,  my haircut looks amazing!  Never had a better cut, It's modern, stylish and attention to details.  I would put my my haircut up, but I'm camera shy.   The place looks amazing, definitely shows the owner (Jason)invested alot of money into the business, never seen a barber this nice.   I highly recommend this place to anyone that can make the drive,  Jason is one of the best if not the best in town.  Great job Jason, Thank you!
-  - name: "Darin Shewchuk"
-    rating: 5
-    comment: |
-      Best place in the city for a haircut. All the barbers are super friendly and accommodating. Would 100% recommend going here if you haven't.
 ---

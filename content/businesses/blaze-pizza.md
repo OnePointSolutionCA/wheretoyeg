@@ -23,7 +23,7 @@ hours:
 photos:
   - "/photos/blaze-pizza-g2.jpg"
 rating: 4.6
-review_count: 1086
+review_count: 1137
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -37,31 +37,22 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Emz"
     rating: 5
-    date: "2026-05-08"
     comment: |
       First time here. The pizzas tastes good. Staffs are very friendly and nice.
   - name: "Andrea Matošević"
     rating: 5
-    date: "2026-08-14"
     comment: |
       Love coming here. Took my parents who do not like thin crust pizza and they loved it! We ordered two build your own and a Meatball Pie. SO GOOD!
-  - name: "Portia Huth"
+  - name: "Paxtyn Henderson"
     rating: 5
-    date: "2026-04-16"
     comment: |
-      Had a great experience here recently. Taylor and Jayda were incredibly friendly and helpful, and honestly the rest of the staff were amazing too. Everyone was attentive and smiling which made the whole place feel really welcoming. The restaurant was also impressively clean for such a busy, fast-paced place, the tables were nicely wiped down and everything looked well taken care of. I also noticed that all the cups, napkins, and other amenities were fully stocked, which is something you don’t always see at places like this. Overall it was a fantastic experience with great service and a really nice atmosphere.
-      
-      Edit: went again recently and was helped by Levi and Taylor/Talon (couldn’t quite see the name tag). Service and food was great as per usual!
-  - name: "Jom Sport"
+      Amazing pizza! I recommend the cheese bread it it great!
+  - name: "Shelda Saunders"
     rating: 5
-    date: "2026-07-19"
     comment: |
-      Best pizza in the park!
-      
-      Love the build your own pizza.
-  - name: "Natasha McEachern"
+      It’s chilly, it’s always chilly but that is because the pizza oven area is hot!
+  - name: "AndyB"
     rating: 5
-    date: "2026-05-23"
     comment: |
-      Friendly fast service. Pizza was delicious 10/10
+      Now in all honesty, I had a bad experience here ages ago.  The food was great, but service was slow.  I believe it was around the time they just opened.  It's been awhile and decided to give them another go.  So so glad I did.  The service was quick and on point a d the pizza ... Well that was just plain delicious.  Word to the wise.  Second chances are a thing and not always a bad idea.  Redeemed!  Thanks Blaze Pizza!#
 ---

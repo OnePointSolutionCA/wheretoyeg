@@ -5,8 +5,8 @@ category: "medical"
 subcategory: "eye-care"
 neighborhood: "Edmonton"
 address: "15158 127 St, Edmonton, AB T6V 0C5"
-rating: 4.9
-review_count: 214
+rating: 4.8
+review_count: 216
 tier: "featured"
 phone: "(780) 705-8816"
 website: "http://beyondvision.ca/"
@@ -14,16 +14,6 @@ google_maps: "https://maps.google.com/?cid=147909093098757684&g_mp=Cidnb29nbGUub
 photos:
   - "/images/businesses/beyond-vision-optometrists-oxford.jpg"
 reviews:
-  - name: "Susan Csaszar"
-    rating: 5
-    comment: |
-      Beyond vision goes Beyond my expectations every time I go in either for an appointment or a glass adjustment.  Dr Poon and team answer all my questions professionally. I would recommend Beyond Vision to any one looking to change optometrist and dispensary. Thank you for all you do.
-  - name: "Johnny Lee"
-    rating: 5
-    comment: |
-      Dr. La has been super helpful and has helped me over the years!
-      
-      Super easy to deal with and super friendly! It also helps that she speaks chinese so my parents can visit her for eye exams as well!
   - name: "Joy Fajardo"
     rating: 5
     comment: |
@@ -32,10 +22,20 @@ reviews:
       Their dedication to customer satisfaction is truly commendable.
       
       Overall, I highly recommend Beyond for anyone looking for a top-notch experience. You won't be disappointed!
-  - name: "Ray"
-    rating: 1
+  - name: "Susan Csaszar"
+    rating: 5
     comment: |
-      We booked our two appointments online and called the place. After confirming our appointments, we went on the day we had scheduled. The receptionist told us that she had tried to confirm our appointments 5 minutes before they started. But why would anybody need to confirm an appointment 5 minutes before it and that had already been confirmed. When our main contact checked  if she had really contacted them, we figured out that she hadn’t. Either way, someone had already been booked in our spot too, so we wouldn’t be able to have our appointments anyway. EVEN THOUGH WE CONFIRMED. In the end we decided to take our exams elsewhere.
+      Beyond vision goes Beyond my expectations every time I go in either for an appointment or a glass adjustment.  Dr Poon and team answer all my questions professionally. I would recommend Beyond Vision to any one looking to change optometrist and dispensary. Thank you for all you do.
+  - name: "Jody Mahmoud"
+    rating: 5
+    comment: |
+      Noor is a phenomenal worker, she is incredibly sweet and patient.Noor and doctor la made my visit welcoming and easy , if i could give 10 stars i would. Highly recommend!!
+  - name: "Johnny Lee"
+    rating: 5
+    comment: |
+      Dr. La has been super helpful and has helped me over the years!
+      
+      Super easy to deal with and super friendly! It also helps that she speaks chinese so my parents can visit her for eye exams as well!
   - name: "Andrea Cairns"
     rating: 5
     comment: |
@@ -45,10 +45,10 @@ reviews:
       
       Appointments are always on time, the clinic is clean and well-organized, and they have modern equipment that gives me confidence I’m getting the best possible care. Highly recommend this clinic to anyone looking for comprehensive, patient-centered eye care.
 hours:
-  monday: "10:00 AM–6:00 PM"
-  tuesday: "10:00 AM–5:00 PM"
-  wednesday: "10:00 AM–6:00 PM"
-  thursday: "10:00 AM–5:00 PM"
+  monday: "9:00 AM–6:00 PM"
+  tuesday: "9:00 AM–5:00 PM"
+  wednesday: "9:00 AM–6:00 PM"
+  thursday: "9:00 AM–5:00 PM"
   friday: "9:00 AM–5:00 PM"
   saturday: "9:00 AM–4:00 PM"
   sunday: "Closed"

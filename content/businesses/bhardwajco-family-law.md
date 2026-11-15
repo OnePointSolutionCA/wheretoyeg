@@ -11,16 +11,16 @@ phone: "(780) 222-2386"
 website: "https://bhardwajco.ca/"
 google_maps_url: "https://maps.google.com/?cid=17174846804843270713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "Closed"
-  tuesday: "Closed"
-  wednesday: "Closed"
-  thursday: "Closed"
-  friday: "Closed"
-  saturday: "Closed"
+  monday: "Open 24 hours"
+  tuesday: "Open 24 hours"
+  wednesday: "Open 24 hours"
+  thursday: "Open 24 hours"
+  friday: "Open 24 hours"
+  saturday: "Open 24 hours"
   sunday: "Open 24 hours"
 photos: ["/photos/bhardwajco-family-law-1.jpg", "/photos/bhardwajco-family-law-2.jpg", "/photos/bhardwajco-family-law-3.jpg"]
-rating: 4.8
-review_count: 202
+rating: 4.7
+review_count: 209
 price_range: "$$"
 amenities:
 
@@ -28,30 +28,22 @@ tags: ["edmonton", "legal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Dave Chong"
+  - name: "Nancy Tu"
     rating: 5
     comment: |
-      I am a client of Bhardwaj + Co Family Law and my lawyer is Claire Spicer.  Claire is great lawyer, she is hardworking, friendly, and has good experience.  She guided me though tough situations that were caused my a previous incompetent lawyer.  This is why it's important to get a good lawyer first if I would have started with Claire life would have easier.   Claire did what she promised she would and I believe she would do the same for you.  She is personable and understands the needs of her clients.
-      
-      The office of Bhardwaj + Co, is quite nice although most of my interaction with Claire was over the phone or online. I recommend this law firm.
-  - name: "Blacmamba Mambablac"
+      My family and I have used Bhardwaj & Co. for a variety of legal services, from divorce and real estate to wills. Throughout every process, the team has been incredibly patient, professional, and helpful. They always took the time to answer all our questions and made sure we felt supported and informed. We truly appreciate their service and would highly recommend Bhardwaj & Co. to anyone looking for a reliable and caring law firm!
+  - name: "Derek Sorensen"
+    rating: 1
+    comment: |
+      Puneet was terrible. He was literally drafting court forms in during our meetings. When my ex was trying to get more than 50/50 custody, his recommendation was to just take it as that’s better than most of his clients. It was a complete waste of money. I was able to get everything I was asking for and the judge ruled in my favour after I changed representation to a much more engaged and competent lawyer. I wouldn’t recommend this law firm to anyone.
+  - name: "Mariden Kryzhenovskiy"
     rating: 5
     comment: |
-      I had a great experience working with Bhardwaj+Co Family Law .They were professional, knowledgeable, and very responsive throughout my case. They took the time to explain everything clearly and made sure I understood each step of the process, which really helped reduce my stress.
-      
-      Communication was excellent—they kept me updated regularly and were always available to answer my questions. I felt supported and confident that my case was in good hands.
-      
-      I would definitely recommend them to anyone looking for a reliable and trustworthy lawyer.
-  - name: "Jillian Eacott"
+      I was at my wit’s end trying to resolve a family matter until I hired Lauren. From the first consultation, Lauren is a professional until the final meeting. Working with her gave me so much peace of mind. She answered every question, transparent about fees/timeline, and quick to reply to emails.
+  - name: "Rishabh Sahdev"
     rating: 5
     comment: |
-      I highly recommend Claire. She is professional, knowledgeable, and truly focused on resolution. My case involved a very high-conflict situation, and over the past year we’ve worked toward finalizing my divorce. Claire provided clear guidance every step of the way and helped me understand how the law applied to my situation—even when the outcomes weren’t always what I had hoped for. Her ability to manage expectations while still advocating effectively made a difficult process much easier to navigate.
-  - name: "Shannon Penner"
-    rating: 5
-    comment: |
-      I’m currently working with Claire Spicer at Bhardwaj + Co Family Law for my divorce, and I can’t say enough good things about my experience so far. She is incredibly responsive, stays on top of all paperwork, and makes sure nothing falls through the cracks. What I appreciate most is her honesty; she always gives advice that is truly in my best interest.
-      
-      Going through a divorce is stressful, but having Claire in my corner makes a huge difference. I feel supported, informed, and confident every step of the way. I would highly recommend her to anyone needing a knowledgeable and trustworthy family lawyer.
+      Jesse and Ashima, and the others in the team were great in assisting us with closing in on our very first home purchase. They were very thorough and communicated really well with regards to what was expected of us and what we should expect as well. They made the entire process very smooth and they established a trust during the process that gave me confidence that we would be able to the keys to our house on the day that was promised. Thank you guys!
   - name: "Conxeppt"
     rating: 5
     comment: |

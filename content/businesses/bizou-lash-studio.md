@@ -17,12 +17,12 @@ hours:
   wednesday: "9:00 AM–7:00 PM"
   thursday: "9:00 AM–7:00 PM"
   friday: "9:00 AM–7:00 PM"
-  saturday: "8:00 AM–5:00 PM"
+  saturday: "8:00 AM–4:00 PM"
   sunday: "Closed"
 photos:
   - "/photos/bizou-lash-studio-g0.jpg"
 rating: 4.5
-review_count: 94
+review_count: 95
 price_range: "$$"
 amenities:
   - "Appointments"
@@ -32,6 +32,14 @@ amenities:
 tags: ["lashes", "lash tech", "volume lashes", "lash lift", "south edmonton"]
 active: true
 reviews:
+  - name: "Jackie Ramirez"
+    rating: 5
+    comment: |
+      Mandy did a fantastic job on my lashes, she was very careful & took her time yet she had me in & out giving me a beautiful classic cat eye set that just boosted my everyday confidence! I pre booked for the rest of the year & can’t wait to see her again! 11/10 recommend
+  - name: "larni kemp"
+    rating: 5
+    comment: |
+      I had the pleasure of going to see Raine at Bizou studio and it was a wonderful experience! She is so warm and welcoming and really thorough with making sure she is giving you what you want. She did an amazing job at explaining all the different terms and styles and helped me find the best shape the best suited my eyes! I couldn’t recommend Bizou or Raine more, it was such a pleasant experience❤️
   - name: "Tara Nunes"
     rating: 5
     comment: |
@@ -40,22 +48,12 @@ reviews:
       A special shoutout to Janki—she is absolutely amazing! Her attention to detail, gentle technique, and ability to customize each set to perfectly suit your eyes is unmatched. Every time I leave, my lashes look flawless, natural, and exactly how I envisioned (if not better!). She takes the time to listen, offers great suggestions, and ensures you’re comfortable throughout the entire appointment.
       
       My retention has been fantastic, and I consistently get compliments on my lashes. If you’re looking for someone who is skilled, patient, and genuinely passionate about what she does, Janki is the one to see.
-  - name: "Elaine Mears"
+  - name: "Adrienne Crampton"
     rating: 5
     comment: |
-      I had such a great experience here! The service was amazing from start to finish—super friendly, welcoming, and professional. They were very accommodating with availability, which made booking so easy and stress-free.
-      
-      My appointment was quick but still very thorough, and the results turned out beautiful. You can really tell they care about their clients and take pride in their work. Overall, such a nice place with great service—I’ll definitely be coming back!
-  - name: "Kate Van Driel"
+      Raine always does an amazing job on my lashes! They have such a good eye for what will suit my eye shape and are always down to do something cool with colour! I leave feeling so pretty every time. Bizou has a lovely comfortable atmosphere and the beds are very comfy, I could take a nap if I wanted to!!!
+  - name: "Sarah Graham (Sarbear)"
     rating: 5
     comment: |
-      Just got a lash lift & tint at Bizou Lash Studio and it’s literally the best lash lift & tint I’ve ever had! I didn’t know my lashes could look this amazing! Wonderful staff and amazing customer service, you NEED to go here! So thoroughly impressed :)
-  - name: "Fazila FORD"
-    rating: 5
-    comment: |
-      Very impressed and glad to have come across Janki as she is a God send for what my eyelashes need. I tend to work long hrs therefore when Janki does my eyelashes I have the full whisper set and they last more than 3 months meaning I don’t have to worry about booking many appointments. Very pleased and impressed with the service and the environment is clean too
-  - name: "MDBRF"
-    rating: 5
-    comment: |
-      I have been getting my lash extensions with Jankie for 2 years now and would give her 10 stars if I could. She trained in London and gives me a natural but elegant look that is always consistent. I see her every 3 weeks but could push it to 6 weeks because my retention is so fantastic. Plus she is so gentle that I fall asleep every time because I am so relaxed.  I would recommend her to anyone and everyone!!
+      Highly recommend this place! Mandy and Janki are amazing! They clearly care about what you want and take any issues you have seriously. I've only had Mandy and Janki as a technician, but judging how amazing the service is, I'm sure any other employee is just as awesome!
 ---

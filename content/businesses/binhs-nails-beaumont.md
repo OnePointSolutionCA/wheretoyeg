@@ -24,7 +24,7 @@ photos:
   - "/photos/binhs-nails-beaumont-g1.jpg"
   - "/photos/binhs-nails-beaumont-g2.jpg"
 rating: 4.4
-review_count: 236
+review_count: 251
 price_range: "$$$"
 amenities:
   - "Family Friendly"
@@ -33,31 +33,24 @@ tags: ["edmonton", "gel"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Brynn Zorn"
+  - name: "Amrit Gill"
     rating: 5
-    date: "2026-04-02"
     comment: |
-      Love the way my nails turned out! They look exactly like the inspo photo!! The ladies were very nice as well.
-  - name: "Kelly Shell"
+      Absolutely obsessed with my nails! Clera did an amazing job and paid so much attention to detail. They turned out even better than I imagined. Highly recommend!
+  - name: "Mich Guz"
     rating: 5
-    date: "2026-06-06"
     comment: |
-      Very lovely place staff is very friendly and super fast with great quality work!
-      I just show a photo and they’re able to work magic!!
+      I always get the deluxe pedi and the experience is always fantastic! Polly was awesome today, made sure massage pressure was ok and stones, water, towel not too hot.
   - name: "taryn"
     rating: 5
-    date: "2026-06-17"
     comment: |
       Had an inspo picture and it came out perfectly ! Super happy, love the result! Thank you guys so much 😊
-  - name: "Mickey Bexson-Wesley"
+  - name: "Bobby Dalshaug"
     rating: 5
-    date: "2026-06-13"
     comment: |
-      She did an excellent job copying from a photo and a wonderful shape to my nails. I couldn’t be happier!!
-  - name: "donaSun Novecosky"
+      The ladies were amazing! We only had a short bit of time before my daughter had to go to work, and the ladies gave us the best pedicure’s and massages and didn’t make us feel rushed at all! Great work ladies much appreciated!
+  - name: "Bernice Parsons"
     rating: 5
-    date: "2026-06-27"
     comment: |
-      Absolutely loved Tara - I was in a hurry to
-      Get to the airport and she did a ver professional job - beautiful results in the time I had asked her about!!! HIGHLY Recommend
+      My favourite place to go, friendly and they do a great job with my shellac nails
 ---

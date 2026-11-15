@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–5:00 PM"
 photos: ["/photos/binhs-nails-meadowlark-1.jpg", "/photos/binhs-nails-meadowlark-2.jpg", "/photos/binhs-nails-meadowlark-3.jpg"]
 rating: 4.9
-review_count: 257
+review_count: 272
 price_range: "$$$"
 amenities:
 
@@ -28,40 +28,38 @@ tags: ["edmonton", "mani-pedi"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Connie Farrow"
+  - name: "Brooklynn Fitt"
     rating: 5
     comment: |
-      Came in as a walk in. Was not sure what to expect.
-      Well I am happy I did.
-      Linh was great. She listened and did everything right.
-      The place looks amazing!! So bright and clean.
-      The staff all seemed really pleasant.
-      Will come again.
-  - name: "TANISHA DICK"
-    rating: 5
-    comment: |
-      Came to this location as a walk-in and received one of the most skilled mani/pedi’s I’ve had!
-      My artist made my lines sharp, my nails sharp, and when he locked in the result was *chefs kiss*
-      They even squeezed my kiddo in to get her nails painted too!
-      Highly recommend this place, the pedicure massage chairs are great quality and the staff are incredible at what they do!
-  - name: "Lil C"
-    rating: 5
-    comment: |
-      This is my first time at Binhs' Meadowlark as a walk-in client (full acrylic set). I have to say that I am highly impressed with the timely craftsmanships, immediate prompt for designs/outcomes, and sanitary care. I am very "picky" with the overall aesthetic style and shape goal of my nails.
+      Tiana is absolutely AMAZING! 💅🏼 I presented her with a pretty challenging nail design, and she absolutely nailed it (literally! 😂). I’ll be posting my inspiration pics and after photos because the results speak for themselves! She consistently does such an incredible job, and every single time I leave, my nails are absolutely perfect. She takes so much pride in her work, pays attention to every little detail, and always goes above and beyond to make sure I’m happy with the results.
       
-      B, my nail artist, was so compassionate in ensuring that I was happy with my nails throughout the design process. I altered my nail design THREE separate times to add more stylization (ie., cat eye effect, blooming gel, and gems). From my time in the chair, I could tell B was up for the challenge and willing to take more time with me. I did not feel rushed and I felt I could speak up about my manicure.
+      Not only is Tiana fantastic, but the entire team at Bihn’s Nails is so friendly and welcoming. Everyone goes out of their way to make you feel comfortable, cared for, and appreciated. You can genuinely tell how much they care about their clients and the work they do.
       
-      Thank you so much! I will be back :)
-  - name: "Bonnie Bentley"
+      I couldn’t recommend Tiana and the team enough! If you’re looking for someone who is talented, consistent, and willing to take on a challenge, Tiana is your girl! ❤️ I’m so grateful to have found her and wouldn’t want anyone else doing my nails! 10/10 every single time!
+  - name: "Hailey N"
     rating: 5
     comment: |
-      Popped in for the first time last minute for acrylics and gel pedi. My nails look better than my inspo pic! The shaping is immaculate. Absolutely love them! The pedicure was very relaxing and great massage.
-  - name: "Arion Qaraj"
+      I had an incredible experience at this nail salon! From the moment I walked in, the staff was welcoming, attentive, and professional. The salon is exceptionally clean, well-organized, and has a relaxing atmosphere. My nail technician took her time, paid great attention to detail, and made sure every nail was shaped to perfection. The quality of the products they use is top-notch—my gel manicure lasted for weeks without a single chip. Highly recommend this place to anyone looking for premium service and beautiful results!
+  - name: "Paula Gibson"
     rating: 5
     comment: |
-      I had the Spa Pedicure with Linh, and it was honestly one of the best pedicures I’ve ever had! From the moment I sat down, she made me feel completely relaxed and taken care of. She is incredibly kind, gentle, and pays so much attention to every little detail.
+      The team are wonderful, it is in a convenient location.
+      It is clean, comfortable and feels welcoming, and the team are very professional.
+      After moving from another part of the city, I hoped to find someone close to home, and after the quality of my first set, I knew I had found the spot for me.  They genuinely care.
+      My 2026 Halloween set are the prettiest set I have ever had, and it was Bi's idea (pronounced Bee).
+      Full services offered include UV gel, acrylic, shellac, manicures, pedicures and waxing.
+  - name: "Justine Mae"
+    rating: 5
+    comment: |
+      It's been a long time since I've felt pampered in a nail salon.
       
-      The spa pedicure was so relaxing and luxurious, and my feet have never looked or felt better. Linh took her time to make everything perfect, and you can tell she truly cares about her clients and takes pride in her work. The salon was clean, welcoming, and the whole experience was amazing from start to finish.
+      Came in 36 weeks pregnant and really needed some self care. My nail tech took really good care of me and he was super gentle throughout the whole process.
       
-      If you’re looking for someone who is talented, professional, and makes you feel pampered, I can’t recommend Linh enough. She absolutely deserves 5 stars, and I’ll definitely be coming back to see her every time. Thank you, Linh, for such a wonderful experience!
+      I've never seen such a beautiful setup for a pedicure, he rolled in with this really cute cart, sliced orange peels, and used them to exfoliate my legs and feet. I got a manicure afterwards and my cuticles have never felt so clean.
+      
+      Overall really great experience and will definitely be coming back 💕
+  - name: "Addie Denschikoff"
+    rating: 5
+    comment: |
+      Exceptional service as always, the speed and quality of these nails are amazing. I just got my new set and they are GORGEOUS! TIANA IS THE BEST! I highly recommend Binh's for your next set, cause that's where I'm getting mine!
 ---

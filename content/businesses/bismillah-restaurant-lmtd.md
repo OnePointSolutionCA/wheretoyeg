@@ -11,16 +11,16 @@ phone: "(587) 490-3302"
 website: "https://bismillahrest.netlify.app/"
 google_maps_url: "https://maps.google.com/?cid=458511350441712264&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "7:30 AM–11:00 PM"
-  tuesday: "7:30 AM–11:00 PM"
-  wednesday: "7:30 AM–11:00 PM"
-  thursday: "7:30 AM–11:00 PM"
-  friday: "7:30 AM–11:00 PM"
-  saturday: "7:30 AM–11:00 PM"
-  sunday: "7:30 AM–11:00 PM"
+  monday: "7:00 AM–11:00 PM"
+  tuesday: "7:00 AM–11:00 PM"
+  wednesday: "7:00 AM–11:00 PM"
+  thursday: "7:00 AM–11:00 PM"
+  friday: "7:00 AM–11:00 PM"
+  saturday: "7:00 AM–11:00 PM"
+  sunday: "7:00 AM–11:00 PM"
 photos: ["/photos/bismillah-restaurant-lmtd-1.jpg", "/photos/bismillah-restaurant-lmtd-2.jpg", "/photos/bismillah-restaurant-lmtd-3.jpg"]
-rating: 4.9
-review_count: 497
+rating: 4.8
+review_count: 506
 price_range: "$$"
 amenities:
   - "Halal"
@@ -53,6 +53,14 @@ reviews:
       Delicious, fragrant, and served in generous portions. It paired perfectly with the meat dishes.
       
       The service was quick, and the staff were attentive throughout our visit. Overall, a great place to dine, and I would highly recommend it to anyone looking for authentic Somali halal food.
+  - name: "Ilham Mek"
+    rating: 5
+    comment: |
+      We had a wonderful dinner at Bismillah Restaurant in Edmonton! The food was delicious, fresh, and full of flavor. Everything was enjoyable, and we had a lovely dining experience. The atmosphere was welcoming, and the service was great. We truly enjoyed our evening and would definitely recommend this restaurant. We look forward to coming back again!
+  - name: "Szilvia Miklos"
+    rating: 5
+    comment: |
+      Amazing flavourful fresh food, friendly and kind service, we will definitely be back! Unique culinary experience highly recommend !❤️Thank you!!!!
   - name: "Bill Lucas"
     rating: 5
     comment: |
@@ -65,24 +73,4 @@ reviews:
       It just feels like you walking into a family member's home or someone you know and you get really good food that is very decent in price.
       They also offer free ginger and milk tea on the side!
       Thanks Abdul!
-  - name: "zakaria bulqaas"
-    rating: 5
-    comment: |
-      I had an excellent experience at Bismillah Restaurant! The food was fresh, flavorful, and served in generous portions. Everything tasted authentic and was prepared with care. The restaurant was clean, welcoming, and had a great atmosphere.
-      
-      A special thank you to Juweeriyo for the outstanding service. She was friendly, professional, attentive, and made sure everything was perfect throughout our visit. Her kindness and excellent customer service made the experience even more enjoyable.
-      
-      I highly recommend Bismillah Restaurant to anyone looking for delicious food and exceptional hospitality. I will definitely be coming back!
-  - name: "Idriss Ismail"
-    rating: 5
-    comment: |
-      ⭐⭐⭐⭐⭐
-      
-      I had an amazing experience at **Bismillah Restaurant Ltd**! The food was delicious, fresh, and of very high quality. The restaurant was clean, and the service was professional from start to finish.
-      
-      A special thank you to **Jaweriya, Fadxiya, Najma, and Raaqiya**. They were all so friendly, welcoming, kind, and attentive. They made me feel comfortable and took great care of me throughout my visit.
-      
-      I also want to thank the management, especially **Tani** and **Abdinur**, for creating such a welcoming atmosphere and providing excellent customer service.
-      
-      I highly recommend **Bismillah Restaurant Ltd** to anyone looking for great food and outstanding hospitality. I will definitely be coming back!
 ---

@@ -21,7 +21,7 @@ hours:
 photos:
   - "/photos/black-tusk-athletics-g2.jpg"
 rating: 5
-review_count: 95
+review_count: 98
 price_range: "$$"
 amenities:
 
@@ -29,6 +29,14 @@ tags: ["edmonton", "crossfit"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Kaitlyn Jackson"
+    rating: 5
+    comment: |
+      I have nothing but great things to say about Black Tusk. My husband and I both love working out here. The classes are challenging but scaled so nothing is out of reach. The trainers are encouraging and they’ve built a community that keeps everyone coming back. This is definitely the most effective strength training I’ve done. Would recommend!
+  - name: "Kelly N"
+    rating: 5
+    comment: |
+      I think the gym is suited for anyone tbh! Definitely every age, shape and size and it makes it feel so comfortable, not pretentious at all and everyone is so welcoming and inviting. Working with Zach has been amazing and im constantly being encouraged to do better and push myself, even on days where I dont feel like it. Highly reccomend this place if youre a beginner, intermediate or an expert. They cater it to you and your goals :)
   - name: "Natasha N"
     rating: 5
     comment: |
@@ -39,26 +47,12 @@ reviews:
       I started hitting goals. I started having wins every single day. The weight I'd been carrying began to drop, and I grew stronger than I'd been in years. I can now run up and down the stairs. I can get up off the floor without help. I can clean my house again. Most importantly — I have my life back.
       The entire gym community is warm, kind, and genuinely supportive. Everyone cheers you on. It truly feels like a big family, and my fiancé and I are so happy to be part of it.
       Thank you to Alara for giving me my life back. To owners Anne & Jason, the community you have built is inspiring, and to everyone at Black Tusk Athletics. You are truly amazing. 🖤
+  - name: "Leigh Berg"
+    rating: 5
+    comment: |
+      Black Tusk Athletics is an amazing gym with an awesome community. No matter your fitness level, there is something for everyone and the instructors are very knowledgeable.
   - name: "Timothy Shantz"
     rating: 5
     comment: |
       Black Tusk Athletics in Edmonton is very welcoming and offers a range of membership options. It's also an affordable place with great coaching and a friendly atmosphere. Thanks BT!
-  - name: "Rose Park"
-    rating: 5
-    comment: |
-      I can’t say enough good things about Black Tusk!  The team take the time to get to know you, celebrate your progress, and help you push toward your goals in a way that feels encouraging rather than intimidating.
-      
-      Classes are fun, challenging, and thoughtfully designed, and there’s always someone ready to offer a helpful tip or a motivating high-five. It’s the kind of place that makes you look forward to working out.
-      
-      If you’re looking for a gym that values community and fosters real connections, this is the place. I feel stronger, more confident, and have made some life long friends here at BT!  Highly recommend whether you’re a beginner or looking to join a gym with some cool people!
-  - name: "Diana Dabrowa"
-    rating: 5
-    comment: |
-      Black Tusk Athletics provides group classes, personal training sessions and fitness events. It's a lovely community of individuals that are supportive and inspiring!
-  - name: "Danny Wilson"
-    rating: 5
-    comment: |
-      My workout this morning at Black Tusk Athletics was challenging and good. The routine pushed me with a mix of strength and cardio exercises that kept my heart rate up but never felt overwhelming. Laine is great - he takes the time to explain each movement clearly, breaking down the form so I understood exactly what to do.
-      
-      Throughout the workout, he gave feedback by watching my technique closely and helped me adjust when needed, making sure I was doing the exercises safely and effectively. He is also very encouraging and supportive, offering motivating words that kept me going even when the sets got tough. That combination of clear guidance and positive energy made the whole session rewarding and something I look forward to coming back for.
 ---

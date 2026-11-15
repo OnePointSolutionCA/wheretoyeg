@@ -30,29 +30,24 @@ tags: ["edmonton", "outdoor"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Kumaran Krishnamoorthy"
-    rating: 5
-    date: "2026-06-24"
-    comment: |
-      Picnic bench with shelter would be good
   - name: "Kev P"
     rating: 5
-    date: "2021-10-13"
     comment: |
       Nice outlook on the platform. There's even a table here where you could relax and have a picnic. Beautiful place to go for a quick walk.
   - name: "Samantha N."
     rating: 5
-    date: "2024-10-09"
     comment: |
       Really beautiful spot. Golden hour is something else! Worth checking out and just a short drive from the hustle and bustle of downtown!
+  - name: "Kumaran Krishnamoorthy"
+    rating: 5
+    comment: |
+      Picnic bench with shelter would be good
   - name: "Yuri Furusho"
     rating: 5
-    date: "2023-08-17"
     comment: |
       must go place in st Albert! calm and peaceful accessible and full of nature. great for kids. and great for adults to disconnect and relax
   - name: "Faraz Shafiq"
     rating: 5
-    date: "2025-03-24"
     comment: |
       Visited a couple times in March, hoping to come back in late spring when the lake unfreezes and life comes back. Great place to enjoy nature, let the sun shine down on you, and get a nice cool breeze. The boardwalk through the cornfield leading up to the viewing platform is also great.
 ---
