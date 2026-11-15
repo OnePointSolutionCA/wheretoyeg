@@ -22,7 +22,7 @@ photos:
   - "/photos/benchmark-mortgages-2.jpg"
   - "/photos/benchmark-mortgages-g3.jpg"
 rating: 5
-review_count: 602
+review_count: 601
 price_range: "$$"
 amenities:
 
@@ -30,6 +30,34 @@ tags: ["edmonton", "mortgage"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "John Bowers"
+    rating: 5
+    comment: |
+      We got our last mortgage through benchmark and we decided to use them again. When we were selling and purchasing a new home with a new mortgage. They were great to deal with. They got everything. It was a quick and easy process. Haley and Jackie were fantastic, highly recommended they simplified the process as much as possible. They were great
+  - name: "FandMmusic"
+    rating: 5
+    comment: |
+      If you don't have time to read this entire review, here's the short version: go with Jackie Kurysh and Hayley McMahon at Benchmark Mortgages. You will be in exceptionally good hands.
+      
+      It is hard to put into words how grateful we are for everything Jackie and Hayley did for us.
+      
+      Our relationship started long before we were actually ready to buy. At the time, a massive condo assessment had put us in a difficult position, and we wanted to move. Rather than pushing us into something that wasn't realistic, they were honest and told us the timing wasn't right.
+      
+      They kept in touch, provided guidance, and genuinely encouraged us while we worked towards our goal. When we finally paid off the assessment, they seemed almost as excited as we were.
+      
+      When it came time to purchase, their calm and solution-focused approach made all the difference. They helped us navigate a deal that didn't feel right, supported us through a very quick condo sale and possession timeline, and kept everything organized and moving forward.
+      
+      Even on possession day, when confusion arose between the lender and lawyers and stress levels were high, Jackie stepped in and helped get things sorted.
+      
+      Perhaps the best example of their problem-solving came after we learned our builder wouldn't be financing the basement development as expected. What felt like a major setback quickly became manageable when Jackie and Hayley found a financing solution that allowed the project to move forward immediately after possession.
+      
+      Throughout the entire process, they were honest, encouraging, responsive, and incredibly knowledgeable. They never overpromised, never pressured us, and always provided clear advice. When the answer was "not yet," they told us. When challenges came up, they found solutions.
+      
+      Today we're in a home we absolutely love and are building the basement we've always wanted. Jackie and Hayley played a huge role in helping us get here.
+      
+      You didn't just help us secure a mortgage. You helped us believe we could get here, and then helped us make it happen. We will always be grateful.
+      
+      Thank you, Jackie and Hayley.
   - name: "Liam Grant"
     rating: 5
     comment: |
@@ -38,36 +66,12 @@ reviews:
       Their knowledge and patience was super appreciated. They went above and beyond to make sure everything worked out and went as smoothly as possible.
       
       Would highly recommend Benchmark Mortgages to anyone looking for a mortgage team that truly cares about their clients!
-  - name: "Aleksandr Yakubenko"
+  - name: "Larysa Matchak"
     rating: 5
     comment: |
-      We had a great experience working with Hayley, Jackie, and the entire Benchmark Mortgage team during the purchase of our first home.
-      
-      As newcomers to Canada, we had many questions throughout the mortgage process, but they were always patient, professional, and quick to respond. They helped us understand every step clearly and made the whole experience much less stressful.
-      
-      We really appreciated their support, communication, and attention to detail right up to closing day. Highly recommend Benchmark Mortgage to anyone looking for a reliable and knowledgeable mortgage team.
-      
-      Thank you again for helping our family buy our first home in Canada!
-  - name: "Julianna"
+      I'd like to thank Benchmark for their creative solutions in handling the financing of our new home. Hailey and Jackie were very thorough, assisted with many details and were very professional, knowledgeable,  and approachable. The level of care and customer service is superior to any bank. I'm confident in what we accomplished and look forward to working with this mortgage brokerage again and recommending them without a doubt to others. Thank you!
+  - name: "Celina Gado"
     rating: 5
     comment: |
-      The human element made all the difference throughout my mortgage process. Jackie was phenomenal—kind, attentive, patient, and always available to answer my questions and guide me every step of the way.
-      
-      Their online platform made the process incredibly organized and easy, from uploading documents to tracking progress. The entire team communicated consistently, and what stood out most was that they were genuinely happy for me as I reached this milestone.
-      
-      I can’t recommend Jackie, Hayley  and their team enough. Their professionalism, organization, and genuine care made this an outstanding experience.
-  - name: "Anastasiya Giancola"
-    rating: 5
-    comment: |
-      After a few pretty frustrating experiences with mortgage brokers in the past, working with Hayley and Jackie was such a breath of fresh air.
-      
-      Everything was smooth. Every deadline was met. Communication was clear and consistent, and they never once set expectations they couldn’t follow through on. That last part meant more to us than they probably know.
-      
-      No surprises, no stress, no chasing people down for answers. Just a genuinely seamless process from start to finish.
-      
-      If you’re looking for a mortgage broker who actually does what they say they’re going to do - Hayley and her team are it. Highly recommend.
-  - name: "Chris Klok"
-    rating: 5
-    comment: |
-      Hayley, Jackie, and the entire Benchmark team are excellent and a pleasure to work with. They found me a great rate, are highly responsive, and clearly explain next steps. Overall, they made the entire mortgage application process straightforward and efficient. I am very grateful for their help. I would highly recommend using Benchmark.
+      Hailey, Jacqueline and the whole team at Benchmark go above and beyond to make sure that you are comfortable making one the biggest decisions of your life. Jacqueline was quick to answer any questions we had, and made endless last minutes adjustments to our deal easy and stress free. They were courteous, responsive, and my deal was funded and went through without a hitch. I will be recommending Benchmark to anyone I know that needs a mortgage.
 ---

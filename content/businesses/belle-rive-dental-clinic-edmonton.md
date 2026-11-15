@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "8328 160 Ave NW, Edmonton, AB T5Z 3P1"
 rating: 4.9
-review_count: 809
+review_count: 807
 tier: "featured"
 phone: "(587) 410-7134"
 website: "https://www.bellerivedental.ca/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Website_URL"
@@ -14,16 +14,6 @@ google_maps: "https://maps.google.com/?cid=13349141357449783357&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/belle-rive-dental-clinic-edmonton.jpg"
 reviews:
-  - name: "Cameron Thiessen"
-    rating: 5
-    comment: |
-      I had such a great experience here from start to finish. Everyone was incredibly kind, patient, and welcoming.
-      
-      The dentist (Dr Zak) and hygienist (Summer) were both so wonderful — they explained everything clearly and answered all my questions.
-      
-      I had to bring my 5-year-old son with me to the appointment, and they were beyond wonderful with him. They let him ask questions, included him, and were so patient while he happily “helped” and chatted during my exam. They even gave him treats afterward, which absolutely made his day.
-      
-      I’m so grateful for how kind and accommodating they were. Truly 10/10 service — I highly recommend this clinic.
   - name: "Leah B"
     rating: 4
     comment: |
@@ -46,18 +36,29 @@ reviews:
       Belle Rive Dental also does a lot for the community, which is very important to me. It truly goes hand in hand with the team’s overall attitude and the genuine care they show both inside and outside the clinic.
       
       Overall, I highly recommend Belle Rive Dental Clinic. The entire team goes above and beyond to provide excellent care, and I’m very grateful to be their patient.
-  - name: "Janny Claassen"
+  - name: "Jason Mohr"
     rating: 5
     comment: |
-      We couldn’t be more thankful to have met and received treatment from doctor Zack. He is the most caring and professional doctor we have ever met in Edmonton. The staff are also exceptional. We are going to be recommending this dental clinic to a lot of people.
-  - name: "Liz Bougie"
+      Seeing a dentist/hygienist typically is far from fun. When I come to this particular clinic I'm cared for in a way that's hard to describe though wonderful. Great staff. And shout out to Summer. The absolute best at what she does. Oddly the highlight of my day was getting a cavity looked after. Ohhhh and Summer you wouldn't be a cranky/grumpy dentist. You must have been joking.
+  - name: "Cameron Thiessen"
     rating: 5
     comment: |
-      Edited to add: they gave us a new patient welcome gift and letter! We feel very valued and well taken care of here. I really appreciated the online booking service! We were fortunate to be paired with Dr. Zak. Super friendly and professional and great with kids. Very happy with the facilities and service here!
-  - name: "Phoenix Rampart"
+      I had such a great experience here from start to finish. Everyone was incredibly kind, patient, and welcoming.
+      
+      The dentist (Dr Zak) and hygienist (Summer) were both so wonderful — they explained everything clearly and answered all my questions.
+      
+      I had to bring my 5-year-old son with me to the appointment, and they were beyond wonderful with him. They let him ask questions, included him, and were so patient while he happily “helped” and chatted during my exam. They even gave him treats afterward, which absolutely made his day.
+      
+      I’m so grateful for how kind and accommodating they were. Truly 10/10 service — I highly recommend this clinic.
+  - name: "Alwin Lin"
     rating: 5
     comment: |
-      Dr. Karolina Bieniak was just awesome when I had an emergency apppointment. She sorted out the problem in minutes. Dr. Zak is also an excellent and gentle man. He is very kind and thoughtful and takes the time to listen. He does not rush you out the door. Mandy Wong is the best Dental Hygienist I have ever had. My wife Flora just loved her. I highly recommend Belle Rive Dental Clinc. It is a first class professional Dental Clinic.
+      Absolutely wonderful clinic! I went in for an exam, a filling, and a cleaning, and during each visit, I always felt incredibly well taken care of and reassured by everyone on the team, who were all friendly, helpful, and fantastic! Highly recommend!
+  - name: "SR J"
+    rating: 5
+    comment: |
+      Dr Zak is very thoughtful, thorough and professional and explains everything in the scope of work to be performed and why, he takes the time to answer any questions or concerns you may have. I am very happy with the services provided. The assistants and staff are also very polite and courteous.
+      I would not have a problem recommending this clinic for anyone looking for good dental services.
 hours:
   monday: "9:00 AM–7:00 PM"
   tuesday: "9:00 AM–7:00 PM"

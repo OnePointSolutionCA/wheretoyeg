@@ -27,31 +27,30 @@ tags: ["edmonton", "massage-therapy"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Ekaterina Dotsenko"
+    rating: 5
+    comment: |
+      My husband and I had a wonderful massage experience here! We both really enjoyed it. The massage was relaxing, professional, and exactly what we needed.
+      
+      We tried a deep tissue massage, scalp massage, foot massage, and many other techniques.
+      
+      We will definitely be coming back again. Highly recommend!
   - name: "Simranjit Kaur"
     rating: 5
-    date: "2026-09-05"
     comment: |
       Betty is one of the best massage therapists in Edmonton! I’ve been coming here with my family for almost 4 years, and she never disappoints. She always listens to what I need and does an amazing job. I always leave feeling so much better and relaxed. Highly recommend Betty! 💛
+  - name: "Harpreet bal"
+    rating: 5
+    comment: |
+      ⭐️⭐️⭐️⭐️⭐️
+      
+      Betty provided an amazing massage for me, my husband, and my son. She was very professional, kind, and caring with all of us. We really enjoyed the experience and felt relaxed and refreshed afterward. We truly appreciate her excellent service and highly recommend Betty to anyone looking for a great massage therapist. Thank you, Betty! 😊
   - name: "Omi Drywall"
     rating: 5
-    date: "2026-05-25"
     comment: |
       I got the best treatment as deep tissue and that step traditional for cupping and smooth hot stone hot stand natural herbal pad. I feel very good on my back and so relax. Thanks Betty for professional service. And she wants to love 100 years without disease and i want that too. She teaching me how to live healthy. And take care of it.
-  - name: "Tiffany B"
+  - name: "Amandeep Kaur"
     rating: 5
-    date: "2026-04-28"
     comment: |
-      I had such an amazing experience with Betty. I booked her Ultimate Massage Treatment and it honestly exceeded my expectations. She combines different techniques like deep tissue, lymphatic work, and stretching, and you can really feel how intentional everything is. She knew exactly where I was holding tension and worked through it without it ever feeling rushed or too intense.
-      
-      I also loved the added touches like the hot stones and scalp massage, it made the whole experience feel so complete and relaxing. I left feeling noticeably lighter, less swollen, and just overall reset. You can tell she really cares about her clients and puts a lot of thought into the treatment. Highly recommend if you want something that goes beyond a standard massage.
-  - name: "Tim Mottershead"
-    rating: 5
-    date: "2026-04-18"
-    comment: |
-      Betty is awesome. I get a deep tissue traditional massage with pressure point, cupping and hot stone and i feel amazing afterwards. Can't recommend her more and she always takes more time to teach you ways to better take care of yourself.
-  - name: "Trouble 7283"
-    rating: 5
-    date: "2026-05-08"
-    comment: |
-      I received a full body deep tissue with pressure point, facial massage, hot stone, foot massage and lymphatic drainage massage. All i can say is Betty is AMAZING. She is sooo knowledgeable and educates you on how to care for yourself. She cares about her patients and takes the time to talk to you about lifestyle changes. I will never go any where else.
+      She is very good at massage. My whole family goes to her and we are always happy with her service. She is kind, professional, and the massage is very relaxing. I highly recommend her.
 ---

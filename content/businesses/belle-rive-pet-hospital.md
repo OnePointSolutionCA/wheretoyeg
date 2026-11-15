@@ -24,36 +24,32 @@ photos:
   - "/photos/belle-rive-pet-hospital-g1.jpg"
   - "/photos/belle-rive-pet-hospital-g2.jpg"
 rating: 4.9
-review_count: 308
+review_count: 314
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "veterinarians"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Skylar Clark"
+  - name: "margaret lipkewich"
     rating: 5
-    date: "2026-03-27"
     comment: |
-      I love this clinic. The Doctors care about the animals well being. They communicate very well with their clients. Glad to take my dog here
+      Dr Howlett is so knowledgeable. It is evident he loves his pet patients and what he does.
+      Everyone at the office is so caring and genuine too and make you feel very welcome. Our little fur boy loves it there too!
+  - name: "Roman Kucher"
+    rating: 5
+    comment: |
+      We switched to Belle Rive Pet Hospital as it is doctor owned and had excellent reviews.  Dr. Howlett is both caring and very knowledgeable.  He thoroughly explained our dog’s diagnosis and provided us the best options for her treatments. The staff followed up with us ensuring the new medication was being tolerated and was effective. We are very happy that we made the move to this clinic.
+  - name: "Chris"
+    rating: 5
+    comment: |
+      Dr. Howlett was so good with my puppy! He didn’t even know when the needle went in for his vaccination. He also provided very useful advice and was overall excellent!
   - name: "P Hills"
     rating: 5
-    date: "2026-05-22"
     comment: |
       Molli has never been so calm when going to the vet, and that is very important to me. I also feel completely relieved and happy after corresponding or bringing Molli to see him. The way Dr. Percy interacts with her is amazing. I trust him completely with my girl.
-  - name: "Sara Cassidy"
+  - name: "Gill G"
     rating: 5
-    date: "2026-03-20"
     comment: |
-      The service and care they have at Bell Rive is just awesome. Every time I’ve had any kind of concern with my cat, I’ve been able to email the staff and Dr. Howlett directly and have an open communication with them about what’s going on and any updates. They’ve also been able to make room to see us on very short notice which has been greatly appreciated. Great, friendly staff and it’s only minutes from my house. I will happily continue to take Zeke there.
-  - name: "Connie E"
-    rating: 5
-    date: "2026-08-12"
-    comment: |
-      The compassion and care we receive with our fur babies is like nothing I have experienced before. The sharing of knowledge and being part of the treatment plan allow us to understand and be part of the healing journey. With how our cats are treated you see that they truly enjoy what they do and are a true medical practitioner.  Only wish I had known of them sooner.
-  - name: "Bailey Skapinyecz"
-    rating: 5
-    date: "2026-07-08"
-    comment: |
-      I take my dog here all the time and they always do great. My last appointment I got the date mixed up and showed up a day early and they still took my dog in, I was super grateful. 10/10
+      The staff are awesome and the vets are amazing, they treat pets as their own and I know my two dogs are always in good hands. They are accommodating to every situation no matter how big or small, 11/10 would recommend to any pet owner.
 ---
