@@ -8,7 +8,7 @@ description: ""
 address: "10404 99 Ave, Fort Saskatchewan, AB T8L 3W2"
 neighborhood: "Fort Saskatchewan"
 phone: "(780) 997-9882"
-website: "https://skyhypizza.ca/"
+website: "https://skyhypizza.com/"
 google_maps_url: "https://maps.google.com/?cid=15145875497897306700&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.712509
 longitude: -113.208120

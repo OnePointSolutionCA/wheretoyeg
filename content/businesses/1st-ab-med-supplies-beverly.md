@@ -9,7 +9,7 @@ description: "Beverly location of 1st AB Med Supplies at 4245 118 Ave — mobili
 address: "4245 118 Ave NW"
 neighborhood: "Beverly"
 phone: "780-733-0041"
-website: "https://1stabmedsupplies.ca"
+website: "https://www.1stabmedsupplies.com/"
 google_maps_url: "https://maps.google.com/?q=4245+118+Ave+NW+Edmonton"
 hours:
   monday: "9:00 AM–5:00 PM"

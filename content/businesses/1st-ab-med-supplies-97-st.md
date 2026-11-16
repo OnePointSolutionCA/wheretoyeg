@@ -9,7 +9,7 @@ description: "Alberta-owned medical supply store — mobility aids, home health 
 address: "13514 97 St NW"
 neighborhood: "North Edmonton"
 phone: "780-733-0043"
-website: "https://1stabmedsupplies.ca"
+website: "https://www.1stabmedsupplies.com/"
 google_maps_url: "https://maps.google.com/?q=13514+97+St+NW+Edmonton"
 hours:
   monday: "9:00 AM–5:00 PM"

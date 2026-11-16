@@ -9,7 +9,7 @@ description: "116 Avenue location of 1st AB Med Supplies — same locally owned 
 address: "15020 116 Ave NW"
 neighborhood: "North Edmonton"
 phone: "780-701-7501"
-website: "https://1stabmedsupplies.ca"
+website: "https://www.1stabmedsupplies.com/"
 google_maps_url: "https://maps.google.com/?q=15020+116+Ave+NW+Edmonton"
 hours:
   monday: "8:30 AM–5:00 PM"

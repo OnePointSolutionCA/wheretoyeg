@@ -9,7 +9,7 @@ description: "118 Avenue location — walk in for mobility aids, incontinence su
 address: "5809 118 Ave NW"
 neighborhood: "North Edmonton"
 phone: "780-733-0042"
-website: "https://1stabmedsupplies.ca"
+website: "https://www.1stabmedsupplies.com/"
 google_maps_url: "https://maps.google.com/?q=5809+118+Ave+NW+Edmonton"
 hours:
   monday: "9:00 AM–5:00 PM"
