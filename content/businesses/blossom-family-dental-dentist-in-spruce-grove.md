@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Spruce Grove"
 address: "221C First Ave, Spruce Grove, AB T7X 3X2"
 rating: 4.8
-review_count: 768
+review_count: 829
 tier: "featured"
 phone: "(587) 907-8102"
 website: "https://www.blossomfamilydental.ca/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Website_URL"
@@ -14,27 +14,34 @@ google_maps: "https://maps.google.com/?cid=13393509661678567761&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/blossom-family-dental-dentist-in-spruce-grove.jpg"
 reviews:
-  - name: "magdalena haber"
+  - name: "rilee jones"
     rating: 5
     comment: |
-      My daughters teeth look amazing after such a short period of time with invisalign. Only took four months in her case. Which was half the time we were told else where. Also the cost was $3500 less as other places and we got in very quick to start the process instead of waiting months.
-      They have good referral programs aswell.
-  - name: "Simarleen Singh Ajmani"
-    rating: 5
-    comment: |
-      I recently visited Dr. Ghuman for a severe toothache, and I couldn’t be more grateful for the care I received. From the moment I walked in, the staff was welcoming and professional. Dr. Ghuman took the time to thoroughly examine the problem, explained everything clearly, and made sure I was comfortable throughout the visit. Their calm, compassionate approach immediately put me at ease during what was a very painful situation. The treatment was efficient, and I left feeling much better and confident about my recovery. I highly recommend Dr. Ghuman to anyone looking for a knowledgeable, caring, and skilled dentist. Thank you for the excellent care!
-  - name: "Tamara"
-    rating: 4
-    comment: |
-      I was very hesitant trusting Dr. Ghuman with my smile transformation.  i had always made sure my kids had a beautiful, healthy smiles growing up, but I never did anything for my own crooked teeth.  From my very first consultation with Dr. ghuman, she was incredibly kind and reassuring.  She listened to all of my concerns and confidently told me,  "YES, we can change your smile"  Throughout the entire process, she guided me every step of the way and made me feel comfortable and supported.  What I didn't expect was how much this transformation would change my confidence.  In such a short amount of time, my crooked teeth became a smile I'm proud to show, and it's had a much bigger impact on my life than I ever imagined.
+      I had a really great experience at this dental office. Everyone I interacted with was friendly and helpful, and the whole appointment felt easy and stress-free. Ricarla was especially wonderful. I usually feel pretty anxious at the dentist, but she made me feel comfortable right away and was so warm and easy to talk to.
       
-      I am grateful for Dr. Ghuman and the team - they didn't just transform my smile, they gave me confidence I did not know I was missing.  I highly recommend Dr. Ghuman to anyone considering improving their smile.
-      
-      My only suggestion for improvement would be to provide clearer information about the last retainer options at the beginning of treatment.  I was surprised to learn at the end of my treatment that if I wanted a longer-lasting retainer, I would have to pay an additional $795.  I do not recall this being clearly explained before and frankly it should be already included in the price.
-  - name: "Jaden Edwards"
+      The dentist was also very friendly and informative. They explained everything clearly, including the costs and treatment plan, and I never felt pressured into anything. I left feeling really good about the experience.
+  - name: "Khady Diaw"
     rating: 5
     comment: |
-      Very good service. Extremely fast easy to work with and honest. They assisted both me and wife on multiple appointments. Guilaine is a very honest and straightforward person. She is very helpful and very willing to work with you on anything you need. The billing to insurance is extremely easy and fast. Extremely recommend using blossom for all dental needs
+      I had such a great experience with Blossom Dental throughout my Invisalign treatment. From the very beginning, everyone was professional, welcoming, and genuinely caring. They took the time to explain each step of the process, answer all my questions, and make sure I felt comfortable and confident along the way.
+      
+      I’m so happy with my results! My smile has changed so much, and I’m really grateful to the entire Blossom Dental team for their patience, attention to detail, and great care throughout my treatment.
+      
+      I would definitely recommend Blossom Dental to anyone considering Invisalign or looking for a dental team that truly cares about their patients. Thank you to the whole team for helping me achieve a smile I’m proud of! ❤️
+  - name: "Madiha Parvin Akbar"
+    rating: 5
+    comment: |
+      I had a wonderful experience at Blossom Family Dental! Both Dr. Ghuman and Dr. Isha are extremely knowledgeable, professional, and genuinely caring. The entire team is incredibly friendly, welcoming, and makes you feel comfortable from the moment you walk in.
+      
+      I was able to get an appointment almost immediately, and my case was handled with the utmost professionalism, care, and attention to detail.
+      
+      What impressed me the most was my son’s experience. He has always been apprehensive about dental treatments, but the doctors and their team made him feel so comfortable and at ease that he was able to get his cleaning and sealants done without any hesitation or anxiety. It was such a relief to see him have such a positive dental experience!
+  - name: "Rossanna Paillao"
+    rating: 5
+    comment: |
+      I had an excellent experience with Ashwin!.  He was incredibly kind, professional, attentive, and caring throughout my entire visit. He made me feel comfortable and relaxed from the moment I arrived, taking the time to explain everything clearly and making sure I felt at ease during the procedure.
+      His positive attitude, patience, and genuine concern for her patients truly stand out. You can tell he takes great pride in his work and goes above and beyond to provide exceptional care.
+      Thank you for making my dental experience so pleasant and stress-free. I highly recommend her to anyone looking for compassionate, friendly, and outstanding dental care!
   - name: "Christine De Guzman-Aquino"
     rating: 5
     comment: |
@@ -43,7 +50,7 @@ hours:
   monday: "8:00 AM–8:00 PM"
   tuesday: "7:30 AM–5:30 PM"
   wednesday: "8:00 AM–8:00 PM"
-  thursday: "8:00 AM–5:30 PM"
+  thursday: "7:30 AM–5:30 PM"
   friday: "7:30 AM–5:30 PM"
   saturday: "Closed"
   sunday: "Closed"

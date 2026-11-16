@@ -28,28 +28,24 @@ tags: ["edmonton", "commercial"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Barry Bell"
+    rating: 5
+    comment: |
+      Have used Blitz Electric for multiple reasons. Replaced and upgraded fuse panel, diagnosing electric faults, fixing main line after tree fell in storm and lost power (on a Sunday). Martin responds to requests for service and emergency. He doesn't leave you hanging. His workforce are as professional and meticulous as him and when you need them, they fix it right the first time. My first choice for all things electric.
+  - name: "Moody Carper"
+    rating: 5
+    comment: |
+      Very professional. Work done exceptionally well in a timely manner.
   - name: "Heather"
     rating: 5
     comment: |
       Just recently moved to the area and needed some electrical work done. Brandon was professional and friendly and was able to complete the number of electrical issues we had in a very timely fashion.i will not hesitate to contact Blitz Electric again as Martin's quote was fair and honest. Thank you!
-  - name: "David Harris"
-    rating: 5
-    comment: |
-      We have been using Blitz Electric for over 20 years. Most recently was yesterday and the service and professionalism from Martin and his team has always been top notch. Whatever your electrical needs, big job or small we highly recommend Blitz Electric.
   - name: "Jay Goodman"
     rating: 5
     comment: |
       Martin was excellent. He was professional, showed up exactly when he said he was and did top quality work. His quote was the lowest of the 4 and was the only person who said he could do exactly what I wanted. Highly recommended (and as a bonus rec I met a random builder in parry sound who said Martin was his favorite electrician to work with).
-  - name: "Nick Stitt"
+  - name: "David Harris"
     rating: 5
     comment: |
-      I called Blitz solely based on their Google reviews and they lived up to them. I live in Toronto and didn't know anyone in the area.  I had called another "reputable" electrical company in Parry Sound.  The guy told me their scheduler would get back to me and they never did.  I have no idea why some businesses do this to potential customers.
-      Blitz however returned my phone request within 24 hours as their voice mail promised. When they called back I explained my problem and they committed to a date and time to come and assess the problem, provide an estimate and fix it.
-      They arrived as promised, figured out the problem and fixed the problem.
-      Their two electricians were friendly, efficient and skilled.
-      I would only call them if I had another electrical problem.
-  - name: "Cinny Thecat"
-    rating: 5
-    comment: |
-      We called Blitz to fix the hot water heater. They showed up the next day on time, fixed the water heater, no mess, they were quick and really nice. We could not be happier, and the bill was less than we were expecting. It doesn't get better than that.
+      We have been using Blitz Electric for over 20 years. Most recently was yesterday and the service and professionalism from Martin and his team has always been top notch. Whatever your electrical needs, big job or small we highly recommend Blitz Electric.
 ---

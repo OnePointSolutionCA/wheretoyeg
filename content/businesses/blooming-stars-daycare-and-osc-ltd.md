@@ -31,29 +31,24 @@ tags: ["edmonton", "childcare"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "kuldeep j"
+  - name: "Maha Laxmi"
     rating: 5
-    date: "2026-06-17"
     comment: |
-      We love this center! There are always so many fun daily projects and great things to play with, and the crew is incredibly sweet and patient. On top of that, the director is super accommodating and down-to-earth. Highly recommend checking them out!
-  - name: "Madhanya Subramanian"
-    rating: 5
-    date: "2026-04-21"
-    comment: |
-      I had a very positive experience with this daycare. The staff are caring, patient, and attentive to each child’s needs. The environment is clean, safe, and welcoming, which made me feel comfortable leaving my child in their care.
-  - name: "sv suganya"
-    rating: 5
-    date: "2026-07-22"
-    comment: |
-      Excellent daycare with caring and friendly staff.They take good care of the children and create a safe ,clean and happy environment. I truly appreciate all the teachers for their hardwork and dedication.
-  - name: "Afrah Khan"
-    rating: 5
-    date: "2026-04-22"
-    comment: |
-      The daycare is absolutely amazing! Lots of activities and toys for children, the staff is very kind and hard working. The owner is generous and understanding. It is an amazing place for children!
+      I am very happy with this day care. The staff are kind, caring, and friendly. My child enjoys going every day and has learned many new things. The environment is clean, safe, and welcoming. I appreciate the healthy and good communication with parents. I highly recommend this day care to other families."
   - name: "Jagpal Jauhal"
     rating: 5
-    date: "2026-06-17"
     comment: |
       This place is seriously awesome for young ones. They have a ton of cool games and learning materials to keep everyone happy, plus a super sweet and dedicated team. The owner is also incredibly flexible and supportive. It’s an absolute gem!
+  - name: "sv suganya"
+    rating: 5
+    comment: |
+      Excellent daycare with caring and friendly staff.They take good care of the children and create a safe ,clean and happy environment. I truly appreciate all the teachers for their hardwork and dedication.
+  - name: "kuldeep j"
+    rating: 5
+    comment: |
+      We love this center! There are always so many fun daily projects and great things to play with, and the crew is incredibly sweet and patient. On top of that, the director is super accommodating and down-to-earth. Highly recommend checking them out!
+  - name: "Lisa Rudiger"
+    rating: 5
+    comment: |
+      I was apprehensive at first to put my babies in daycare, but the staff are just as loving. All mothers, all from different ethnic backgrounds, all there for the children. I love the conversations we have as mothers to do the best for our kids. Two big play areas, big rooms and kind support to all the children.
 ---

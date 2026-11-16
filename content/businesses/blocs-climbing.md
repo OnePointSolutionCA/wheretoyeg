@@ -9,16 +9,16 @@ address: "10930 84 St NW"
 neighborhood: "Downtown"
 google_maps_url: "https://maps.google.com/?q=Blocs%20Climbing%20%2B%20Fitness%20Edmonton"
 hours:
-  monday: "11:00 AM–11:00 PM"
-  tuesday: "11:00 AM–11:00 PM"
-  wednesday: "11:00 AM–11:00 PM"
-  thursday: "11:00 AM–11:00 PM"
-  friday: "11:00 AM–11:00 PM"
-  saturday: "10:00 AM–10:00 PM"
-  sunday: "10:00 AM–8:00 PM"
+  monday: "5:00 AM–9:00 PM"
+  tuesday: "5:00 AM–9:00 PM"
+  wednesday: "5:00 AM–9:00 PM"
+  thursday: "5:00 AM–9:00 PM"
+  friday: "5:00 AM–9:00 PM"
+  saturday: "7:00 AM–7:00 PM"
+  sunday: "7:00 AM–7:00 PM"
 photos: ["/photos/blocs-climbing-1.jpg", "/photos/blocs-climbing-2.jpg", "/photos/blocs-climbing-3.jpg"]
 rating: 4.9
-review_count: 394
+review_count: 59
 price_range: "$$"
 amenities:
   - "Beginner Friendly"
@@ -29,28 +29,36 @@ tags: ["climbing", "bouldering", "yoga"]
 active: true
 date_listed: "2026-08-18"
 reviews:
-  - name: "Evelyn Keesey"
+  - name: "Isaiah Jacobsen"
     rating: 5
     comment: |
-      This was the best gym I’ve ever climbed at and I have climbed all over Canada. It wasn’t super busy the staff were great and the problems were amazing! They had a great variety of problems and the gym was super big! They also had an amazing workout area they should definitely consider holding a comp there.
-  - name: "Kine Patty"
-    rating: 5
-    comment: |
-      Blocs is the homiest bouldering gym. It's the best!! There's just something about it that makes it so comfortable and friendly. Their prices are also good compared to other gyms. Their changerooms are always clean.
+      I LOVE THIS GYM!!!
       
-      Their setting is always fun with dynamic!! As a beginner I can always find something to climb.
+      Used to try to make my own workouts, and after working with Josh in the build classes, I don't know If I will ever go back to doing it all my self! Been going for a year and immediately noticed a difference, broke a long strength plateau and am in the best shape of my life.
       
-      Parking can be tricky if it's busy (usually Thursday and Sunday evenings). But you can just park in the back 👍
-  - name: "Francisco Cuarenta"
+      Great Trainers, Nice Clean Gym, Great People!
+      
+      BEST GYM IN OMAHA!
+  - name: "Preston Sherwood"
     rating: 5
     comment: |
-      Ended up at Blocs last Friday after work and honestly it was exactly the kind of spot I didn't know I was missing in Edmonton. The setting wall on the far side of the gym had a fresh batch of problems that kept me busy for a solid two hours. Staff were genuinely helpful when I was stuck on one of the V4s near the corner, offering tips without being overbearing about it. Definitely making this part of my regular Friday routine.
-  - name: "Shaun ODwyer"
+      Overall Bloc Fitness was great! I was a member for about 1.5 years. The staff is always nice, the equipment is top notch, and layout/location is great as well. The only reason I am canceling my membership is because I moved to an apartment that already has a full gym.
+      
+      Let's be honest though, $80 a month for a gym membership is not cheap. However Bloc does a great job of adding incentives in for their local customers to make it more affordable. You get 15% off each month if you live in an apartment, are a first responder, military, student, or a senior. With these savings, it does make  the price very competitive to all other gyms.
+      
+      The only downside was when I tried to cancel my membership; only the owner could do it. This led to it being a little difficult to cancel the membership since she was not available.
+      
+      Nevertheless, by far the best gym downtown!
+  - name: "Cam Carlson"
+    rating: 3
+    comment: |
+      Nice gym. Pricey membership, but I don't use the classes and stuff. If they offered a basic plan that excluded the classes this would be much better.
+  - name: "Morgan Reedy"
     rating: 5
     comment: |
-      Awesome place to come and break a sweat. They change the builder problems regularly, and they have skill levels available for almost anyone. Recommended!
-  - name: "CY Siu"
+      I’ve been going here for a month, and I honestly couldn’t be happier with the experience. It’s been helping me through my new fitness challenge. The equipment is always clean and well-maintained, and there’s a wide variety. The staff is friendly, knowledgeable, and always willing to help or offer guidance when needed. I especially appreciate how welcoming the environment feels. This gym has everything you need to stay motivated and consistent. Highly recommend!
+  - name: "Ali_Tart"
     rating: 5
     comment: |
-      Love everything about this gym from the friendliness of the community + staff to... how clean and spacious it is. It has a large training area with a wide variety of hangboards, campus boards, weights etc. The grading here is fair and the sets are fun. There are many unique holds here. The changerooms are spacious with a foot wash area and lockers (bring a lock). There is an early bird special where it is $12 before 1pm otherwise it is $18.
+      New gym so light attendance and clean!! Staff members are pleasant. This place really needs more full length mirrors closer to the machines and weights. I like to observe my form when I left to help avoid injury. Also missing clocks. I understand everyone has a watch and phone, but others like myself use wall clocks to keep an eye on time and reps. These are two minor grievances I have compared to my over all experience. Thankful to have a quality gym downtown!
 ---

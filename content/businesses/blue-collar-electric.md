@@ -39,6 +39,15 @@ reviews:
       I've added pictures of just one example. We added 4 wall sconce lights in the stairwell between main floor and top floor.  Everything is equal height, spacing and distance apart. 3-way switches at the top and bottom of stairs.  Plus the final install of light fixtures.
       
       Amazing work, amazing people. Thank you again to Tyler, Darren and everyone at Blue Collar.
+  - name: "Lori Malanchuk"
+    rating: 5
+    comment: |
+      Had the best experience with Tyler. So kind and very professional. Work was done in a timely manner. Highly recommend this company.
+  - name: "Teresa Gentili"
+    rating: 5
+    comment: |
+      A huge thank you to Darren and Dylan for installation of our lights your professionalism attention to detail and hard work truly shows.
+      Thank you for an outstanding job!!💡❤️
   - name: "Tyrel Litzenberger"
     rating: 5
     comment: |
@@ -50,12 +59,4 @@ reviews:
       clean, friendly, and timely service to outfit our new location. Each team member had great communication skills and Tyler was very easy to work with.
       We are happy to recommend Blue Collar Electric to businesses looking to with a business that gives clear communication and extremely fair rates and pricing.
       Will 100% use them again for future builds.
-  - name: "Agnes L."
-    rating: 5
-    comment: |
-      Ioannes was the electrician that provided service for us.  He was excellent - friendly, professional, arrived on time, worked quickly and efficiently.  We were very pleased with his work.  Tyler, the owner was quick to respond to our service request.  He arranged a service time for our work quickly and provided information about their services and pricing so we knew what to expect.  Blue Collar Electric has become our go to company for any future electrical work.
-  - name: "Michael Murphy"
-    rating: 5
-    comment: |
-      We have worked with Blue Collar on many projects in the past with our mechanical company and I have also had them do some work at our home. I highly recommend them. The ownership and staff are top notch!
 ---

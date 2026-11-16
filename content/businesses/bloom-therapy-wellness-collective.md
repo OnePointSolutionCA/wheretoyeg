@@ -24,45 +24,35 @@ photos:
   - "/photos/bloom-therapy-wellness-collective-g1.jpg"
   - "/photos/bloom-therapy-wellness-collective-g2.jpg"
 rating: 5.0
-review_count: 683
+review_count: 695
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "day-spas"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Ryan Romano"
+  - name: "Janice Sass"
     rating: 5
-    date: "2026-04-28"
     comment: |
-      Had my first visit at Bloom Therapy and I’m already really impressed. The whole system, the facility, and the overall process are very well organized and easy to follow.
-      
-      I was actually a few minutes late for my appointment, but they still handled everything smoothly and made sure nothing was missed, which I really appreciated. They took the time to ask all the right questions and explained everything in detail, making me feel comfortable and well taken care of.
-      
-      I’m definitely looking forward to my follow-up and excited to continue improving with Bloom Therapy!
-  - name: "Sophie Chapman"
+      I was first referred to Bloom Therapy on Wednesday October 28th, by our dental clinic re severe acute TMJ/TMD. I am scheduled to have surgery on November 4th and I was quite concerned because my mouth opening is very limited to 1.5 fingers; which would make it difficult for anesthesia. I was able to get in on a cancelation same day with Tristan for an assessment and treatment. My husband and I were very impressed with how knowledgeable Tristan is re TMJ/TMD . He explained to us what he was going to do for the assessment part and then treatment. Tristan was able to determine the problem and have a treatment plan to work within a limited timeline to get me ready for surgery. I've had 2 sessions already, and a couple of exercises to do at home. The session I had today, Oct 30th, gained more movement and opening of my mouth, and I almost felt my jaw about to move over the 'speed bump'; which he explained is the cartilage obstructing the jaw from gliding properly. I wanted to make sure I was doing the home exercises properly so I showed Tristan and he helped me understand exactly what he wanted me to do. After today's appointment I felt more confident in knowing what I needed to do on my end. I have 1 more treatment booked for Monday, Nov 2nd, and we're really hoping this treatment will help get me even more of an opening to be ready for surgery on Nov 4th. My husband and I are so impressed with Tristan's professionalism and experienced skills in knowing how to deal with such an acute condition, and also under such a limited timeline. We're at ease in Tristan's confidence that it will get much better the more we work on it. One thing I'm very thankful for is now I've found someone that will be able to continue to help me with this problem once I'm able to resume treatment post surgery recovery. I definitely recommend Tristan to anyone needing a professional re TMJ/TMD issues.
+  - name: "A W"
     rating: 5
-    date: "2026-04-14"
     comment: |
-      I cannot say enough good things about Bloom Therapy. My daughter started going there with seeing a physiotherapist for Sports physiotherapy she was seeing Michael and he has been phenomenal with working with her and strengthening her areas of concern.
-      Recently, my children and I Had gotten into a more serious car, accident, and myself, and all three of my children have been going there. Tristan and Michael have been phenomenal for physiotherapy, Julia has been amazing with my youngest for chiropractor work. I cannot say enough good things about how well she is with the two young ones.. My oldest daughter has seen many massage therapists as it can be a little tricky to get into massage therapy, but that speaks for itself positively as they are booked up. Like I said, We have not had one negative experience there from the front staff to all of the stuff that we’ve worked with us. They have been very accommodating and very welcoming and friendly.
-  - name: "Krissy Sharp"
+      I had such a great experience with Janae for acupuncture! From the moment I arrived, the clinic felt so warm, peaceful, and welcoming. Janae was incredibly kind and took the time to listen to my concerns, explain the treatment, and make sure I felt comfortable throughout the entire appointment.
+      Her knowledge, professionalism, and gentle approach really stood out to me. I left my acupuncture session feeling relaxed, refreshed, and noticeably better. You can genuinely tell that Janae cares about her patients and takes the time to provide thoughtful, personalized care. I would definitely recommend her!
+  - name: "Robert Nunez"
     rating: 5
-    date: "2026-07-09"
     comment: |
-      I've been here a couple times for physio and already like it way more than any other place I've been! It's quiet, very clean, and it a fantastic location. Working with Brittany is awesome - she is very professional, but also personable and easy to talk to!
-  - name: "Kaylee Hussynec"
+      I had my first massage with Elianna, and it was such a great experience! She was professional, attentive, and made me feel comfortable right from the beginning. She really listened to what I needed and focused on the areas that were bothering me. The massage was relaxing while still providing the right amount of pressure and relief.
+      I left feeling so much better and relaxed. I would definitely recommend Elianna to anyone looking for a skilled and caring RMT. I’ll definitely be booking with her again!
+  - name: "Amanda White"
     rating: 5
-    date: "2026-05-22"
     comment: |
-      Scheduled my first chiropractic appointment with Dr. Adriana, very happy with the end result. She was very thorough in her assessment and listened to all my concerns  . Dr. Adriana is very knowable and friendly. Provided me with a plan until my next appointment. Back felt much better afterwards, opposed to when I arrived . Highly recommend.
-  - name: "Elena M"
+      I went to see Danielle yesterday and she was phenomenal!
+      She took the time to talk to me and really find out exactly how she could fix all of my concerns. I feel so much better even after one treatment.
+      Thank you for your kind, gentle and professional approach to getting me feeling back to myself again
+  - name: "Ardette Horsfield"
     rating: 5
-    date: "2026-03-06"
     comment: |
-      Brittany has an exceptional understanding of the body and brings a thoughtful, well-rounded approach to her work. She blends physiotherapy with Pilates-inspired movement, deep tissue work, and clear body awareness cues in a way that makes everything feel intentional and effective.
-      
-      I always leave feeling noticeably more mobile and aligned, even before starting the exercises she carefully selects for me to continue at home. Her knowledge, skill, and ability to tailor the session to what your body actually needs really stand out.
-      
-      Highly recommend Brittany if you’re looking for someone who truly understands how the body moves and heals.
+      Highly recommend Miranda. She creates realistic, achievable goals but still challenging enough to see measurable progress. She's super positive, genuine, and encouraging. I'm so thankful for her compassion, knowledge and investment in my recovery. She's been wonderful!
 ---

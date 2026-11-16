@@ -33,29 +33,35 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Kelsey A"
     rating: 5
-    date: "2026-06-14"
     comment: |
       Wow, truly an elevated spa. I haven’t been to a spa like this before, so I felt like royalty!! Great customer service. You get slides when you go in and they give you a tour and show you the nice bathrooms which have showers in them, you get a bath robe if you want, and there are two waiting rooms that I recommend utilizing before you go in for whatever treatment you pick. They had a warm, tiled room with a water fountain in the middle that had middle seats. I chose to relax in this area before as I found it very soothing. The other area had loungers with fruit, water, tea, and cookies with a fire place. I got a head massage which was so relaxing. I will 100% be back and have already referred them.
       
       Update: I’ve now gone to 10+ yoga classes there and cannot recommend them enough. They’ve got a wide selection of classes like yoga nidra (sleep), Hatha, yin, flow, and more!
-  - name: "Emily Park"
-    rating: 4
-    date: "2026-06-16"
-    comment: |
-      Had an amazing time for my first spa experience. Sylvia did my massage, very very kind. Liz did my facial, she was very knowledgeable, and kind. Emily did my manicure, again very kind and efficient in what she does. And then another emily did my lash lift, she was very very kind, knew what to look for, explained the process and kept talking to me while we were doing the waiting parts, then did my lash tint for free! Great experience on my behalf. My sister ended up with a neck burn from a hot towel, got too overheated as everything is heated, her burn then they kept her feet in the pedicure hot water bath for almost 2 hrs during her service and she had to cut it short. They gave her some coldstone to put on the back of her neck and said they were going to give her a discount since they burnt her neck, gave her heat stroke pretty much and she didnt get to finish her pedicure service cause of the overheating and they gave her a 6% discount... she paid for me her and our friend spending almost 2000$ and brought another 4 girls for services in the afternoon..
-  - name: "S"
+  - name: "Elizabeth Read"
     rating: 5
-    date: "2026-04-30"
     comment: |
-      Virginia is phenomenal! I’ve been to different massage therapists at various places but I always come back to bliss for Virginia! :) she is incredibly kind and accommodating to my health condition. She takes that extra care to check in on how I’m feeling, ensuring that my health condition doesn’t get triggered. She’s AMAZING and I cannot thank her enough for what she does! Wei is also really good, and she was the first massage therapist I went to when I came here. She’s absolutely lovely and I hope both RMTs get the recognition they deserve!! 🫶
-  - name: "Raena Waddell"
+      Deb is one of the kindest and most compassionate medical professionals I’ve ever met. I first started seeing her a few years ago during a very low point in my health, and she was the first medical professional who truly made me feel heard.
+      
+      Rather than simply treating individual symptoms, Deb took the time to listen, ask questions, run different tests, and genuinely try to understand what was at the root of what I was experiencing. She cares deeply about both the physical and mental well-being of her patients and recognizes how closely the two are connected.
+      
+      What sets Deb apart most is the way she holds space for her patients. She never makes you feel rushed or dismissed. She gives you the time you need, listens without judgment, and makes you feel like your concerns truly matter.
+      
+      I’m incredibly grateful for the care, compassion, and support she has given me over the years. She is an exceptional nurse practitioner and an even more exceptional human being.
+  - name: "Brit Godbout"
     rating: 5
-    date: "2026-01-10"
     comment: |
-      Fantastic experience. The spa is gorgeous, the staff were kind and helpful. I felt welcome and cared for. The deep tissue massage I had was exactly what I needed, perfect pressure and technique. The hydrating facial was gentle and effective - a total pleasure. It was the little extras that really made a difference: the lounge between treatments, the towel service in both the facial and massage, the aromatherapy options, the heated treatment beds, the BABOR products in the changeroom, the softest robe I've ever worn... Best spa experience I've had in Edmonton.
-  - name: "Hanna Shiffer"
+      Recently had a cupping massage with Pei Wei (Paige) and I think it was the best massage I’ve ever had. She was so attentive and observant, I felt instant relief after the massage, she was very knowledgeable, gave me a run down of what was tight in my body, and suggestions on how to care for myself after the massage. She was phenomenal and so was the massage! Very happy!
+  - name: "Dina Saaid"
     rating: 5
-    date: "2026-03-21"
     comment: |
-      First time at Bliss was lovely! Had a 60 minute massage with Ainsleah. She was calm, quiet, and the pressure was just right for a very relaxing experience. The steam shower afterwards was such a luxurious bonus, followed by relaxing in the lounge cuddled up with a blanket and a tea! — Highly recommend Bliss Spa, I will be back!
+      This is my 6th or 7th visit to Bliss MediaSpa Edmonton for the Platinum Vitamin IV, and it has definitely become my preferred place for IV therapy. I really value IV vitamin therapy as part of my personal wellness routine, especially for hydration and receiving vitamins and nutrients directly through an IV.
+      I’ve also added NAD+ injections to my wellness routine. I appreciate having access to these options in a professional setting where I can ask questions and feel comfortable with the care I receive.
+      The nurses at Bliss Yoga are amazing, professional, knowledgeable, caring, and always attentive. They take the time to make sure I’m comfortable and explain everything clearly. The atmosphere is relaxing and welcoming, and after six visits, the consistently great experience is what keeps me coming back.
+      Highly recommend Bliss Yoga Edmonton for anyone interested in learning more about IV vitamin therapy or NAD+ as part of their wellness routine. ⭐️
+  - name: "Samantha Neumann"
+    rating: 5
+    comment: |
+      The spa looks calm and peaceful! Can’t wait to book a girls day with my mom and sister and try out their services!
+      
+      It has been five years since my last hot yoga class, but I took the plunge and decided to try one out this past weekend. I booked the hot flow class and it was exactly what my body needed. The class was challenging but with the modifications and variations provided I was able to challenge myself and still complete all the poses. It was a great reintroduction back into hot yoga, and I can't wait to book another class.
 ---

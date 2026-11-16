@@ -20,7 +20,7 @@ hours:
   sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/blue-marlin-1.jpg", "/photos/blue-marlin-2.jpg", "/photos/blue-marlin-3.jpg"]
 rating: 4.8
-review_count: 200
+review_count: 221
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,20 +30,14 @@ tags: ["edmonton", "mediterranean"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Chaima Guizani"
+    rating: 5
+    comment: |
+      The food is incredibly tasty 😋 the quantity is generous. Will definitely come back .
   - name: "Noura Alnoush"
     rating: 5
     comment: |
       Delicious food, fresh and tasty, and a great service i felt happy after eating such food, we tried the fish kuskus and seafood pasta, we also had fish soup
-  - name: "Shuruk Abdurrahman"
-    rating: 5
-    comment: |
-      The service was excellent. The staff were very kind, friendly, and generous. The food was even better than I expected.
-      
-      We ordered fish couscous, seafood pasta, and seafood saute. The seafood sauté was amazing and a must try with every order. The couscous was delicious, and the pasta was also very tasty.
-      
-      The owner also treated us with extra dishes like Kamounia and Merguez, which had an authentic Tunisian flavor with perfectly balanced spices.
-      
-      I wish them all the best and hope they continue, so we don’t lose this authentic Arabic taste in restaurants.
   - name: "H Al Askari"
     rating: 5
     comment: |
@@ -62,8 +56,14 @@ reviews:
       Even the iced tea was home made and wonderful.
       
       Will definitely be back.
-  - name: "Ayah Huss"
+  - name: "Shuruk Abdurrahman"
     rating: 5
     comment: |
-      Delicious food and such amazing service. The people working are so wholesome, would recommend !!!
+      The service was excellent. The staff were very kind, friendly, and generous. The food was even better than I expected.
+      
+      We ordered fish couscous, seafood pasta, and seafood saute. The seafood sauté was amazing and a must try with every order. The couscous was delicious, and the pasta was also very tasty.
+      
+      The owner also treated us with extra dishes like Kamounia and Merguez, which had an authentic Tunisian flavor with perfectly balanced spices.
+      
+      I wish them all the best and hope they continue, so we don’t lose this authentic Arabic taste in restaurants.
 ---

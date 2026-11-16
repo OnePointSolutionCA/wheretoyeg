@@ -24,40 +24,31 @@ photos:
   - "/photos/blocs-g1.jpg"
   - "/photos/blocs-g2.jpg"
 rating: 4.9
-review_count: 395
+review_count: 410
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "climbing"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Evelyn Keesey"
+  - name: "Mohammad Iqrit"
     rating: 5
-    date: "2026-04-18"
     comment: |
-      This was the best gym I’ve ever climbed at and I have climbed all over Canada. It wasn’t super busy the staff were great and the problems were amazing! They had a great variety of problems and the gym was super big! They also had an amazing workout area they should definitely consider holding a comp there.
-  - name: "Kine Patty"
+      Best bouldering gym you can find pretty much at the price. The staff are super duper nice and hospitable. Rentals are cheap and membership also cheap. Overall this is great and I recommend to all my friends.
+  - name: "Richard Beamon"
     rating: 5
-    date: "2024-03-29"
     comment: |
-      Blocs is the homiest bouldering gym. It's the best!! There's just something about it that makes it so comfortable and friendly. Their prices are also good compared to other gyms. Their changerooms are always clean.
-      
-      Their setting is always fun with dynamic!! As a beginner I can always find something to climb.
-      
-      Parking can be tricky if it's busy (usually Thursday and Sunday evenings). But you can just park in the back 👍
-  - name: "Francisco Cuarenta"
+      Stopped by last Friday evening after a long week and the energy inside was exactly what I needed, the crowd was loud but in a good way. Grabbed a spot near the upper concourse and the sightlines to the ice were honestly better than I expected for the price. Staff at the entrance gates were quick and friendly even with the line moving fast, which made getting settled in way less stressful. Definitely my new go to spot for a weekend outing when I want something more exciting than the usual bar scene.
+  - name: "Christian Bale"
     rating: 5
-    date: "2026-05-16"
     comment: |
-      Ended up at Blocs last Friday after work and honestly it was exactly the kind of spot I didn't know I was missing in Edmonton. The setting wall on the far side of the gym had a fresh batch of problems that kept me busy for a solid two hours. Staff were genuinely helpful when I was stuck on one of the V4s near the corner, offering tips without being overbearing about it. Definitely making this part of my regular Friday routine.
-  - name: "Shaun ODwyer"
+      Had a great time. Lots of different walls and routes for all skills. Pretty much just on your own after your first visit but most people that go there are very spcialable and able to help you or give you tips. Also does have a gym and other strength training stuff to improve your climbing abilities or to just have a break and give your hands a rest lol.
+  - name: "riya"
     rating: 5
-    date: "2026-06-20"
     comment: |
-      Awesome place to come and break a sweat. They change the builder problems regularly, and they have skill levels available for almost anyone. Recommended!
-  - name: "CY Siu"
+      We stopped by Blocs on a quiet Sunday morning before the crowds showed up, and the place was easy to walk around and get a feel for. The staff at the entrance were friendly and happy to point out good spots to view the ice surface from up top. Parking right next to the building was simple that early, which we really appreciated getting around with our knees these days. It's clearly built for big events, but even just wandering through on a slow morning gave us a nice sense of the atmosphere in Edmonton.
+  - name: "Al"
     rating: 5
-    date: "2019-02-22"
     comment: |
-      Love everything about this gym from the friendliness of the community + staff to... how clean and spacious it is. It has a large training area with a wide variety of hangboards, campus boards, weights etc. The grading here is fair and the sets are fun. There are many unique holds here. The changerooms are spacious with a foot wash area and lockers (bring a lock). There is an early bird special where it is $12 before 1pm otherwise it is $18.
+      Amazing place, awesome vibe. Staff are all friendly welcoming and helpful. Bouldering is a great workout and Blocs changes up the climbs on a regular basis to keep things fresh and interesting.
 ---

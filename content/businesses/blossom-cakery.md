@@ -22,7 +22,7 @@ photos:
   - "/photos/blossom-cakery-2.jpg"
   - "/photos/blossom-cakery-3.jpg"
 rating: 4.6
-review_count: 140
+review_count: 142
 price_range: "$$$$"
 amenities:
   - "Dine-In"
@@ -32,27 +32,29 @@ tags: ["edmonton", "cakes"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Melanie Allan"
+    rating: 5
+    comment: |
+      I have been so impressed with Blossom Cakery that I had to do a Google shout out. Last year and this year, I've ordered custom birthday cakes and cupcakes for my kids' birthdays, and they have knocked it out of the park. The designs are incredible and creative, the cake and cupcakes taste amazing, and the customer service is great. Highly recommend!
+  - name: "Brittnee Patterson"
+    rating: 5
+    comment: |
+      The staff are so inviting and friendly and very helpful!!
+      Ordered a lunchbox cake for my Sons first birthday/smash cake an they did not disappoint 🙌 honestly this was the cutest cake ive ever seen they nailed the inspo 😍 this is the perfevt size for a little ones first few birthdays/smash cakes!! The cake was so fresh an flavorful even for a basic vanilla on vanilla def will be ordering her for every occasion. Also purchased their adorable character macron an they we so good an cute as well and their prices are so reasonable!! (Posted a Pic edited it remove the name for privacy but color is unedited an posting the inspo pic along )
+  - name: "Agnes"
+    rating: 5
+    comment: |
+      You can really tell they care about their cakes and customers! They were super communicative, and their delivery person handled the cake with great care.
+      ****The dent in the cake was actually made by me after it was delivered****😅
+      I absolutely love the cake—so beautiful and delicious! Highly recommend!
+  - name: "Paula Le"
+    rating: 5
+    comment: |
+      Not only did the cake turn out like we imagined, it also tasted AMAZING! Our birthday boy loved his cake. Highly recommend if you are looking for unique custom cakes with quality ingredients.
   - name: "Braden Hermus"
     rating: 5
     comment: |
       Ordered a cake from Blossom for a coworker’s retirement lunch, and it was perfect! It looked exactly like we ordered and tasted delicious. The price was very reasonable, and they were super easy to deal with.
       
       Thanks, Blossom, for helping make the retirement lunch a little sweeter! 🍰
-  - name: "Katrina Belzile"
-    rating: 5
-    comment: |
-      Got a custom baby shower cake ordered. I sent reference pictures to them in order to get my vision right. They did everything I asked for and more! The cake was beautiful and delicious. The service was fantastic and again they added all the details on the cake within my budget. Everyone at the baby shower adored it and agreed it was too beautiful to eat. I highly recommend this bakery for custom cakes ❤️
-  - name: "Olivia Smith"
-    rating: 5
-    comment: |
-      They absolutely nailed the inspo picture I sent them, and I love the way the cake turned out. Their customer service was excellent, with nothing but smiles and kindness from the staff. If you’re looking for a sophisticated design and reliable service, this is the place!!
-  - name: "Samoya Copeland"
-    rating: 5
-    comment: |
-      I had an excellent experience with Blossom Cakery! I ordered a birthday cake online and provided a few inspiration photos, and they absolutely exceeded my expectations. The cake was stunning, with intricate details and incredible attention to every aspect of the design. Not only was it beautiful, but the price was very reasonable and the turnaround time was impressively quick. The red velvet cake was moist and delicious, and the buttercream was light, smooth,  perfectly balanced and not overly sweet.
-      I also appreciated the thoughtful touches, including the careful packaging, clear transportation instructions, and serving tips. From start to finish, the entire experience was seamless and professional. I highly recommend Blossom Cakery and will definitely be ordering from them again!
-  - name: "Nico Kay"
-    rating: 5
-    comment: |
-      Made the most amazing cake for my bfs birthday!! Were so so kind with all my requests and questions. Looked beautiful and tasted amazing!!
 ---

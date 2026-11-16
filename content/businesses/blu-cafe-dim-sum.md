@@ -12,18 +12,18 @@ google_maps_url: "https://maps.google.com/?cid=6831370062105811765&g_mp=Cidnb29n
 latitude: 53.466215
 longitude: -113.493370
 hours:
-  monday: "11:30 AM–6:00 PM"
-  tuesday: "11:30 AM–6:00 PM"
-  wednesday: "11:30 AM–6:00 PM"
-  thursday: "11:30 AM–12:30 AM"
-  friday: "11:30 AM–12:30 AM"
-  saturday: "11:30 AM–12:30 AM"
+  monday: "11:00 AM–8:00 PM"
+  tuesday: "11:00 AM–8:00 PM"
+  wednesday: "11:00 AM–8:00 PM"
+  thursday: "11:00 AM–8:00 PM"
+  friday: "11:00 AM–9:00 PM"
+  saturday: "11:00 AM–9:00 PM"
   sunday: "12:00 PM–6:00 PM"
 photos:
   - "/photos/blu-cafe-dim-sum-g1.jpg"
   - "/photos/blu-cafe-dim-sum-g2.jpg"
 rating: 4.7
-review_count: 141
+review_count: 147
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -34,19 +34,25 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Alex Tse"
     rating: 5
-    date: "2026-05-31"
     comment: |
       There’s nothing like authentic HK milk tea in a rainy day. I like how casual it is to have steamed dim sum here. Service is fast and courteous. Prices are more than reasonable given the convenient location. I’m going to add some frozen dim sum to the tab after. Siu Mai is solid. Overall solid place and a nice change of scenery and selection from Lucky and the obscenely high prices at nearby dim sum places. Affordability is key. New place to casually hang out at lunch or in the afternoon when you want a hot snack and drink.
   - name: "Adjani Beltran"
     rating: 5
-    date: "2026-06-14"
     comment: |
       Needed a quick bite and was craving dim sum, so we stopped by this place near Winners on Calgary Trail. We were pleasantly surprised by the quality and value. The $4.99 dim sum items are definitely worth trying, and the noodles at $7.99 were quite good for the price as well.
       They also offer frozen options to take home, which I'm looking forward to trying on my next visit.
       Overall, a great spot for affordable dim sum, and I would definitely recommend it.
+  - name: "Vina H"
+    rating: 5
+    comment: |
+      Gave it 5/5 🌟 because the potential is very strong and great staff!! Improvements can be made but it’s a very new store so understandable. Great location, very nice employee and great pricing. Highly recommend!
+      
+      Loved the Hong Kong milk tea, xiu mai were good, chicken feet and custards bun
+      
+      Lots of options for $5, majority of the dishes were tastier than expected for the price.
+      Side note, improvements can be made includes - the braised beef was a bit too tough, jasmine milk tea tasted like 90% water and 10% tea and milk, fried pierogis were bit too burnt. Overall, was good hopefully improves even more!
   - name: "Patrick Lam"
     rating: 4
-    date: "2026-08-09"
     comment: |
       Good value through Too Good To Go, but nothing particularly impressive.
       
@@ -59,9 +65,8 @@ reviews:
       One nice advantage is that with Too Good To Go, you get the value without the usual expectation of tipping, which makes the $7.99 price even more reasonable.
       
       Overall, I wouldn’t go out of my way for the food or atmosphere, but as a Too Good To Go deal, it’s definitely worth considering.
-  - name: "Nicole Anne Galang"
+  - name: "Rattiya Aranas"
     rating: 5
-    date: "2026-08-03"
     comment: |
-      10/10! The food was absolutely delicious, and the prices are surprisingly affordable. Everything we ordered was so good that I had to take home some of their frozen dumplings and lotus buns. They're definitely worth stocking up on! Highly recommend if you're looking for amazing food without breaking the bank.
+      Really loved their dim sum—fresh, delicious, and full of flavor. The Hong Kong milk tea was absolutely the best! Will definitely be back.
 ---

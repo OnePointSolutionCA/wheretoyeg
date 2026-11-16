@@ -17,14 +17,14 @@ hours:
   tuesday: "11:00 AM–10:00 PM"
   wednesday: "11:00 AM–10:00 PM"
   thursday: "11:00 AM–12:00 AM"
-  friday: "11:00 AM–2:00 AM"
-  saturday: "11:00 AM–2:00 AM"
+  friday: "11:00 AM–1:00 AM"
+  saturday: "11:00 AM–1:00 AM"
   sunday: "11:00 AM–12:00 AM"
 photos:
   - "/photos/boardwalk-burgers-edmonton-grange-g1.jpg"
   - "/photos/boardwalk-burgers-edmonton-grange-g2.jpg"
 rating: 4.5
-review_count: 360
+review_count: 368
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -36,21 +36,26 @@ tags: ["edmonton", "burgers"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Ali M"
+  - name: "May McKenzie"
     rating: 5
-    date: "2026-06-17"
     comment: |
-      very polite staff,clean premises & amazing food
-      halal,vegetarian options too
-      will deffo come back
-  - name: "Don Downer"
+      Tried Boardwalk Burgers! The food was honestly pretty mid for me. 😭 The burgers were decent and the buns were nice and soft, but overall nothing really stood out flavour-wise. We also tried the loaded fries, which came absolutely COVERED in toppings  definitely a hefty portion, but they weren’t my favourite.
+      
+      BUT the service was 10/10. The guy working there was seriously SO nice and welcoming, and that genuinely made the experience so much better. 🥹 Sometimes great customer service can carry a meal!
+  - name: "Saif Salwan"
     rating: 5
-    date: "2026-01-24"
     comment: |
-      Always a great experience here! And the food is good, whether I order it from home or visit to dine in. The manager, Maitham, and staff are always kind. Would easily recommend this location to anyone. My go-to burger joint. If you're planning to eat here, make sure you check the special items on their menu, they rotate a lot of good options.
-  - name: "Anika Hossain"
+      We really had a good experience here! The burgers were delicious, with fresh ingredients and great flavor. The mushroom Swiss and chipotle were superb. Very fairly priced and especially for the kid’s meal. The place was clean, well-maintained, and had a really welcoming atmosphere. The staff were super friendly and made the experience even better and my daughter got a nice sticker. Definitely a place I’d recommend and come back to!
+  - name: "Stella"
+    rating: 4
+    comment: |
+      Shoutout to the friendly staff at this location! Burgers were well done and made with 100% halal beef. You need to try their new limited time menu! My faves were the beach burger (double beef) and the firecracker (spicy crispy chicken with coleslaw)
+  - name: "Faiza Khan"
     rating: 5
-    date: "2025-10-21"
     comment: |
-      The BEST customer service I’ve received in a while. Food was very tasty, restaurant was clean, but the workers were the best part. The man at the front taking orders went above and beyond to give us the best experience! Highly recommend this specific location.
+      Great burgers and outstanding customer service. I placed an order through Uber Eats but accidentally switched the order from delivery to pickup. Unfortunately cancelling it would have meant paying the full amount. I called the branch and the manager himself answered, patiently listened to my situation and went out of his way to personally deliver my order at no extra charge. Really appreciate the manager's kind gesture. Highly recommended. Will definitely be ordering again.
+  - name: "Zi"
+    rating: 3
+    comment: |
+      It was our first time trying the fries here since the store opened close to where we live. We didn't put too much expectations on it, the size is big, but that's about it. The gravy sauce is too thick and too little for one box and for the cheese fries are too dry.
 ---
