@@ -106,6 +106,10 @@ export default function HomePage() {
   const [leadPost, ...morePosts] = allPosts;
   const leadCover = leadPost ? postCover(leadPost) : "";
   const leadCat = leadPost ? postCategory(leadPost) : undefined;
+  // Seasonal guide kept on the homepage until the last market (Dec 6, 2026), unless it is already shown here.
+  const seasonalPost = Date.now() > Date.parse("2026-12-07T07:00:00Z") || [leadPost, ...morePosts.slice(0, 2)].some((p) => p?.slug === "christmas-markets-edmonton-2026")
+    ? undefined
+    : allPosts.find((p) => p.slug === "christmas-markets-edmonton-2026");
 
   const halal = allBusinesses.filter((b) => b.amenities?.includes("Halal"));
   const halalByCat = ["restaurants", "grocery-markets", "catering", "bakeries", "cafes-coffee-shops"]
@@ -275,6 +279,14 @@ export default function HomePage() {
                         </Link>
                       </li>
                     ))}
+                    {seasonalPost && (
+                      <li>
+                        <Link href={`/blog/${seasonalPost.slug}`} className="group flex items-start gap-2 text-sm font-semibold leading-snug text-teal hover:text-coral">
+                          <span aria-hidden className="mt-0.5 text-coral">→</span>
+                          Christmas markets in Edmonton 2026
+                        </Link>
+                      </li>
+                    )}
                   </ul>
                 </div>
               )}

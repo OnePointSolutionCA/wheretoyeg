@@ -73,4 +73,4 @@ Leduc has two markets on the calendar this year, both listed on the City of Ledu
 
 ## More winter plans
 
-Looking for more to do as it gets cold? See our guide to [winter things to do in Edmonton](/blog/winter-things-to-do-edmonton-2026) and [rainy day and indoor activities](/blog/rainy-day-activities-edmonton-2026). Still have October plans to make? Here is [Halloween in Edmonton 2026](/blog/halloween-edmonton-2026). And if you want a halal dinner after a day of shopping, start with our ranked list of [halal restaurants in Edmonton](/halal-restaurants).
+Want lights after the shopping? See the best [Christmas lights in Edmonton](/blog/christmas-lights-edmonton-2026) for 2026. Looking for more to do as it gets cold? See our guide to [winter things to do in Edmonton](/blog/winter-things-to-do-edmonton-2026) and [rainy day and indoor activities](/blog/rainy-day-activities-edmonton-2026). Still have October plans to make? Here is [Halloween in Edmonton 2026](/blog/halloween-edmonton-2026). And if you want a halal dinner after a day of shopping, start with our ranked list of [halal restaurants in Edmonton](/halal-restaurants).

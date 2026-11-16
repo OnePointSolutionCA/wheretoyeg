@@ -68,6 +68,8 @@ Winter date nights that don't involve a parka outdoors:
 
 **[U of A Botanic Garden](/activities-fun/u-of-a-botanic-garden):** 4.6 stars, 3,320 reviews. The Luminaria event in December is one of Edmonton's best winter traditions. Book early.
 
+Shopping for gifts in November and December? See our guide to [Christmas markets in Edmonton](/blog/christmas-markets-edmonton-2026) for this year's dates.
+
 ## Keep exploring
 
 Browse all [things to do in Edmonton](/activities-fun). For spring and summer, see the [fun things to do guide](/blog/fun-things-to-do-edmonton-2026), and for the weeks before the snow, our [fall things to do in Edmonton](/blog/fall-things-to-do-edmonton-2026) guide.

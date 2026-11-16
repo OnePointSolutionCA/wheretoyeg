@@ -157,6 +157,8 @@ export async function generateMetadata({ params }: { params: { category: string;
       ? [
           `${b.name}, ${branch}, ${place} | Reviews & Hours`,
           `${b.name}, ${branch} | Reviews & Hours`,
+          // Long names keep the word Reviews (people search "<name> reviews") before dropping it.
+          `${b.name} | ${branch} Reviews`,
           `${b.name} | ${branch}, ${place}`,
           `${b.name} | ${branch}`,
           `${b.name}, ${branch}`,
@@ -166,8 +168,11 @@ export async function generateMetadata({ params }: { params: { category: string;
       : [
           `${b.name}: ${Type} in ${place} | Reviews & Hours`,
           `${b.name}, ${place} | Reviews & Hours`,
+          // Long names keep the word Reviews (people search "<name> reviews") before dropping it.
+          `${b.name} | ${place} Reviews`,
           `${b.name}: ${Type} in ${place}`,
           `${b.name} | ${place}`,
+          `${b.name} | Reviews & Hours`,
           b.name,
           // Very long names: shorten the name, not the area, so the title stays specific.
           `${clip(b.name, TITLE_MAX - place.length - 2)}, ${place}`,
