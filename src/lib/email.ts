@@ -1,6 +1,10 @@
 import { Resend } from "resend";
 
-const TO_EMAIL = "info@onepointsolutionsca.com";
+/** Form notifications go to the inbox Moe reads (info@onepointsolution.ca forwards to his Gmail). */
+const TO_EMAIL = "info@onepointsolution.ca";
+/** Copy kept in the old Workspace mailbox as a backup record. */
+const CC_EMAIL = "info@onepointsolutionsca.com";
+/** Sender stays on the Resend verified domain. */
 const FROM_EMAIL = "WhereToYEG <info@onepointsolutionsca.com>";
 
 let resend: Resend | null = null;
@@ -62,6 +66,7 @@ export async function sendContactEmail(p: ContactPayload) {
   return getClient().emails.send({
     from: FROM_EMAIL,
     to: TO_EMAIL,
+    cc: CC_EMAIL,
     replyTo: p.email,
     subject: oneLine(`[WhereToYEG] Contact, ${p.name}${p.subject ? `, ${p.subject}` : ""}`),
     html: toEmailHtml("New contact form submission", fields),
@@ -93,6 +98,7 @@ export async function sendGetListedEmail(p: GetListedPayload) {
   return getClient().emails.send({
     from: FROM_EMAIL,
     to: TO_EMAIL,
+    cc: CC_EMAIL,
     replyTo: p.email,
     subject: oneLine(`[WhereToYEG] New listing request, ${p.businessName}${p.tier ? ` (${p.tier})` : ""}`),
     html: toEmailHtml("New Get Listed submission", fields),

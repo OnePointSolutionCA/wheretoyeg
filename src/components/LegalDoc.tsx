@@ -3,7 +3,7 @@ import type { ReactNode } from "react";
 export const OPERATOR = {
   name: "OnePoint Solutions Marketing Agency",
   address: "15020 116 Ave NW, Unit 2, Edmonton, Alberta T5M 3T4",
-  email: "hello@wheretoyeg.ca",
+  email: "info@onepointsolution.ca",
   phone: "(780) 229 8464",
   officer: "Moe Zidane, Privacy Officer",
 };

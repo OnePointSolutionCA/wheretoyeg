@@ -2,6 +2,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { GetListedForm } from "@/components/GetListedForm";
 import { pageMeta } from "@/lib/seo";
+import { SITE } from "@/lib/site";
 
 const TITLE = "Get Your Edmonton Business Listed Free | WhereToYEG";
 const DESCRIPTION =
@@ -57,7 +58,7 @@ export default function GetListedPage() {
           </ul>
           <p className="mt-6 text-center text-sm text-teal-300">
             Want premium placement, a featured badge, or a dedicated SEO blog post?{" "}
-            <a href="mailto:hello@wheretoyeg.ca" className="text-coral hover:underline">
+            <a href={`mailto:${SITE.email}`} className="text-coral hover:underline">
               Reach out
             </a>{" "}
             we'll work something out.
