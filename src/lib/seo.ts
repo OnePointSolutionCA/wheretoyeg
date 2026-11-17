@@ -172,7 +172,7 @@ const SUB_TYPE: Record<string, Record<string, string>> = {
   catering: { "halal-catering": "halal caterer", "wedding-catering": "wedding caterer", "corporate-catering": "corporate caterer", "food-trucks": "food truck", "indian-catering": "Indian caterer" },
   "cleaning-services": {
     "house-cleaning": "house cleaning service", "commercial-cleaning": "commercial cleaning company", "move-out": "move out cleaning service",
-    carpet: "carpet cleaner", windows: "window cleaner", "junk-removal": "junk removal company", landscaping: "landscaper", moving: "moving company",
+    carpet: "carpet cleaner", windows: "window cleaner", "junk-removal": "junk removal company", landscaping: "landscaper", moving: "moving company", "self-storage": "self storage facility",
     painting: "painter", "pest-control": "pest control company",
   },
   electricians: { hvac: "furnace and HVAC company" },
@@ -342,7 +342,7 @@ export const SUB_HEADING: Record<string, Record<string, string>> = {
   "cleaning-services": {
     "house-cleaning": "House Cleaners", "commercial-cleaning": "Commercial Cleaners", "move-out": "Move Out Cleaners", "deep-clean": "Deep Cleaning Services",
     carpet: "Carpet Cleaners", windows: "Window Cleaners", airbnb: "Airbnb Cleaners", "junk-removal": "Junk Removal Companies", landscaping: "Landscapers",
-    moving: "Movers", painting: "Painters", "pest-control": "Pest Control Companies",
+    moving: "Movers", "self-storage": "Self Storage Facilities", painting: "Painters", "pest-control": "Pest Control Companies",
   },
   "grocery-markets": {
     "halal-meat": "Halal Butchers", "middle-eastern": "Middle Eastern Grocery Stores", "south-asian": "South Asian Grocery Stores",

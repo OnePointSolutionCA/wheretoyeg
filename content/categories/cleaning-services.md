@@ -23,6 +23,7 @@ subcategories:
   - { name: "Junk Removal", slug: "junk-removal" }
   - { name: "Landscaping", slug: "landscaping" }
   - { name: "Movers", slug: "moving" }
+  - { name: "Self Storage", slug: "self-storage" }
   - { name: "Painters", slug: "painting" }
   - { name: "Pest Control", slug: "pest-control" }
 ---
