@@ -24,26 +24,33 @@ photos:
   - "/photos/bombay-spices-g1.jpg"
   - "/photos/bombay-spices-g2.jpg"
 rating: 4.2
-review_count: 52
+review_count: 57
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "south-asian"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "aman chahal"
+    rating: 1
+    comment: |
+      This store is selling expired, stale boxed snacks and does not seem to care. I personally found multiple items that had fungus growing on them and reported it to staff. Despite being clearly informed, the products were left on the shelves.
+      That is not just careless—it’s irresponsible. Selling expired food puts customers at risk and shows a complete lack of respect for basic safety standards. If management can’t be bothered to remove expired items after being told, I seriously question what else is being ignored behind the scenes.
+      Check product properly  if you shop here, or better yet, shop elsewhere.
   - name: "Jose Cyriac"
     rating: 5
-    date: "2023-02-21"
     comment: |
       Newly opened in the north side. Already visited a few times. Nicely arranged store. Lots of Indian stuff. Groceries, vegetables, rice, flour , snacks, utensils and lots of other stuff. Lots of parking. Friendly staff. A great place for north side Indian people to go shop.
-  - name: "ninad ghate"
-    rating: 5
-    date: "2026-05-25"
+  - name: "PAWANJOT KAUR"
+    rating: 1
     comment: |
-      Excellent variety of Indian groceries, very clean store n good quality products
+      Ma usually is store te grocery li jani a but today I sent my mom for shopping there… meri mom India to ae a ona nu English nahi ondi…mainu lagia Punjabi store she will be fine over there…but mom ne cashier to kuch puchia ona nu mil nahi riha c kuch ….te oh English ch hi jwaab de rahi c…mom ne kiha v mainu English nahi ondi….but she is answering in English only…her attitude is really different…may be oh owner hi a…but Punjabi store te Punjabi ja Hindi bol sakde a…mere mom oda hi vapis a ge ghr….this is really too much….
   - name: "BASIL GEORGE ITTERA"
     rating: 5
-    date: "2024-02-08"
     comment: |
       Very spacious and well organized store for South Asian products . Great place to have South Indian groceries too . Good store for Groceries, daily fresh , frozen foods etc
+  - name: "ninad ghate"
+    rating: 5
+    comment: |
+      Excellent variety of Indian groceries, very clean store n good quality products
 ---

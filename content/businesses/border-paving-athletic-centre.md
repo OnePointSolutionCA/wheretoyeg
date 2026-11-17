@@ -33,22 +33,22 @@ date_listed: "2026-10-02"
 reviews:
   - name: "TJ Suttie"
     rating: 4
-    date: "2018-10-30"
     comment: |
       Great place to take the kids... Clean and tidy... Pretty safe, however, we were not sure if there were any staff in the play area...no distinct differences (name tag, company shirt etc...) Some of the carpeting around the foam pits was torn up and a bit of a tripping hazard. I would have liked to be able to ask some of the staff about 'how to use' some of the equipment...but didn't know who were the staff. I will definitely be back.
+  - name: "Edwina Franco"
+    rating: 3
+    comment: |
+      Great for children. I was upstairs in the viewing area looking down over the gym watching my grandsons do parkour. the chairs upstairs in the seating area are absolutely horrendous there is no padding on the seating and my daughter said the same thing is just like so uncomfortable.
   - name: "Evan Bamber"
     rating: 5
-    date: "2018-09-07"
     comment: |
       World class facility, the best equipment in a state if the art facility. Highly recommend getting your kids signed up for gymnastics. My son loves this facility!
-  - name: "Ashlyne"
-    rating: 5
-    date: "2025-05-06"
-    comment: |
-      Super nice place to bring the kids for gymnastics. Really friendly people, working within the building.
   - name: "Joanne Windsor - Serendipitous Adventures MHW"
     rating: 5
-    date: "2019-05-14"
     comment: |
       The first desk girl is amazing and so helpful! And a memory like an elephant! Remembers who we are second time in the building a month after we registered lol Thank you for the personalization!
+  - name: "Ashlyne"
+    rating: 5
+    comment: |
+      Super nice place to bring the kids for gymnastics. Really friendly people, working within the building.
 ---

@@ -22,16 +22,29 @@ hours:
   sunday: "Closed"
 photos: []
 rating: 5.0
-review_count: 205
+review_count: 208
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "cuts-styling"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Marcus McAvoy"
+    rating: 5
+    comment: |
+      I didnt get a proper haircut for around 10 years because of a bad hairdresser, but this salon quickly became my favorite.
+      
+      Boom Salon is amazing, everyone is so friendly. I've had Rachel cut and style my hair for a few months now and she never disappoints.
+      
+      Would highly recommend this salon.
+  - name: "Reem Rashid"
+    rating: 5
+    comment: |
+      I had such a great experience at this salon today! I got a haircut with Mario and he did an amazing job. I asked for a trim with long layers and face framing and he took his time to make sure everything was done properly and exactly how I wanted it. He also gave me the best blowout!
+      
+      I’ve honestly had quite a few not so great experiences at other hair salons in the past, so I’m always a little nervous trying somewhere new. But I’m SO happy I decided to come here because I genuinely feel like I’ve finally found my new go-to salon! I’m already so excited to come back and would definitely recommend Mario to anyone looking for a great haircut! :)
   - name: "Mariessa Pinto"
     rating: 5
-    date: "2026-09-06"
     comment: |
       I am VERY impressed with my experience here. This was my first time at the salon, and Mario, the owner, cut my hair. I honestly can't remember the last time I had an experience like this at a hair salon.
       
@@ -44,31 +57,12 @@ reviews:
       Mario did a fantastic job, and I left feeling incredibly happy with my hair. But what I'll remember most is how much thought went into understanding what would make me feel good in it.
       
       I highly recommend giving this salon a try. If you're looking for someone who will actually take the time to understand you rather than just give you the haircut you asked for, this is absolutely the place. I will definitely be back.
-  - name: "Ella B"
-    rating: 5
-    date: "2026-04-29"
-    comment: |
-      I had such a fantastic experience with Mario! This was hands down the best cut and color I’ve had in a long time. He really took his time to understand what I wanted and made sure every detail was just right. I never felt rushed, and his attention to detail truly shows in the final result.
-      
-      He made me feel completely comfortable throughout the entire appointment, which makes such a difference. You can tell he genuinely cares about his clients and his work.
-      
-      I walked out feeling confident and refreshed—couldn’t be happier! Highly recommend Mario if you’re looking for someone who delivers both amazing results and a great experience.
   - name: "Kim Plesuk"
     rating: 5
-    date: "2026-06-03"
     comment: |
       The name says it all!!! Boom! Another incredible haircut & style by Mario! It’s been decades of the same outstanding result each and every time, that’s why I continue to choose Mario as my stylist. He always delivers exceptional quality cuts, colours and puts in the extra effort going above and beyond. His technique and talent shines, his training and consistency shows with each client that walks out with the perfect hairstyle. When I leave the salon I can actually see the craftsmanship in his haircuts, he takes the time to lift, shape, cut, style and recheck the cut to ensure it’s perfect every time … you just can’t find that in many stylists now. You must schedule your appointment today, you will not be disappointed. Mario, you will always be my favourite stylist hands down!
-  - name: "Gary Reinhart"
+  - name: "J Ko"
     rating: 5
-    date: "2026-06-02"
     comment: |
-      I have been seeing Mario for 40 years, and I can honestly say he is the best. I am his longest client and there is a reason I have stayed with him all these years. He is incredibly talented, kind, welcoming, and always makes me feel like family!
-      
-      Every visit into the salon is a such a great experience, he truly takes his time to perfect his work and I’m always left feeling taken care of and happy he truly is the best and owns the best I would recommend their salon to anyone!
-  - name: "gurjeet dhaliwal"
-    rating: 5
-    date: "2026-04-19"
-    comment: |
-      Layal is honestly amazing. She did my hair (and my friends’ too) and we’re all obsessed with the results. She really takes her time to understand what you want and makes sure everything comes out perfect.
-      But beyond her work, her energy is what stands out the most. She’s so warm, welcoming, and easy to talk to, it just makes the whole experience so much better. You feel comfortable the entire time, like you’re in good hands. You can tell she genuinely cares about her clients and takes pride in what she does. Everything from the service to the vibe was just 10/10. Definitely recommend her to anyone looking for someone talented and super kind 🤍
+      I just had a haircut by Mario... Curly haired girl here. Best cut I've ever had and I'm an old lady so believe me when I say he knows what he is doing. On top of that he is just an awesome person. And the young lady who isnassisting with the gorgeous long hair is just lovely. Thanks a million for a wonderful experience!!!! Warmly J 🙏❣️
 ---
