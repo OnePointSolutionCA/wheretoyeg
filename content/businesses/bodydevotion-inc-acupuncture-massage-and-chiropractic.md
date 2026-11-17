@@ -22,7 +22,7 @@ hours:
   sunday: "10:00 AM–5:00 PM"
 photos: []
 rating: 4.9
-review_count: 232
+review_count: 233
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "acupuncture"]
@@ -31,24 +31,24 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Nataliia Prima"
     rating: 5
-    date: "2026-06-05"
     comment: |
       I would like to thank Dr. Rachel Mah for the excellent care and treatment she provided. I am very happy that I found her for acupuncture and cupping therapy. She is incredibly attentive, professional, and truly knowledgeable in her field. From the very first visit, I felt that I was in good hands.
       
       I have been very pleased with the results and the overall experience. I honestly do not feel the need to look for another specialist. Thank you again, Dr. Rachel Mah, for your dedication and outstanding work!
   - name: "Vitalii Hrytsenko"
     rating: 5
-    date: "2026-06-17"
     comment: |
       I would like to express my sincere gratitude to Dr. Rachel for her professionalism and caring approach. After my acupuncture and cupping massage session, I felt significant relief and relaxation. Dr. Rachel created a comfortable and calming environment, carefully explained every procedure, and showed genuine concern for my well-being. I highly recommend her to anyone looking for quality treatment and personalized care. Thank you for such a wonderful experience!
-  - name: "Shianne Johnson"
-    rating: 5
-    date: "2025-03-03"
+  - name: "Malek samarah"
+    rating: 1
     comment: |
-      Lace gave me the best massage I ever had. She found all my spots of tension without me having to tell her, she was professional & she made sure I felt comfortable. DR Ramona was very attentive to me during my acupuncture, she is very knowledgeable & she also was very good at finding spots of tension. I definitely felt relaxed, calm and slept better after the services. I would definitely recommend  this place to any who is truly looking for a good place for self care and relaxation. Thank you ladies so much for the great work ! 😊💖
+      I went there twice. Last time I paid 120 dollars for a 1 hour cupping session,  got 15-20 minutes. First time I had a similar experience with another practitioner. Not recommended.
   - name: "Dallas Fisher"
     rating: 5
-    date: "2025-12-29"
     comment: |
       My very first time doing an acupuncture session was yesterday with Dr Choi. Very good experience! He was very friendly and personable, made me feel comfortable and I felt relief immediately after leaving. Definitely makes me want to go back!
+  - name: "Shianne Johnson"
+    rating: 5
+    comment: |
+      Lace gave me the best massage I ever had. She found all my spots of tension without me having to tell her, she was professional & she made sure I felt comfortable. DR Ramona was very attentive to me during my acupuncture, she is very knowledgeable & she also was very good at finding spots of tension. I definitely felt relaxed, calm and slept better after the services. I would definitely recommend  this place to any who is truly looking for a good place for self care and relaxation. Thank you ladies so much for the great work ! 😊💖
 ---

@@ -22,8 +22,8 @@ hours:
   sunday: "10:00 AM–8:00 PM"
 photos:
   - "/photos/boommys-afromart-african-caribbean-grocery-halal-meats-g1.jpg"
-rating: 4.9
-review_count: 57
+rating: 4.8
+review_count: 61
 amenities:
   - "Halal"
   - "Delivery"
@@ -33,26 +33,23 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Vanessa Acquah"
     rating: 5
-    date: "2026-07-11"
     comment: |
       Amazing experience. Boommys had everything I needed. The staff and owner were extremely helpful and friendly. Definitely my go to shop going forward!
+  - name: "Tejiri Atarie"
+    rating: 5
+    comment: |
+      Friendly owner and staff, well stocked and  affordable products. Boommys is a game changer in the African market space. This season's pepper sale was made easy without the stress of going to unknown places for pick up and ungodly hours.
   - name: "Chinwe Faith"
     rating: 5
-    date: "2026-04-24"
     comment: |
       5 stars isn’t enough!
       Authentic African groceries + fresh halal meats + excellent customer service = Boommys Afromart. Clean store, great variety, fair prices. The goat meat and fresh vegetables are always top quality. This is now my go-to for all my African food needs. Highly recommend!
-  - name: "Enitan Obe"
+  - name: "Adebami Egbewole"
     rating: 5
-    date: "2026-04-25"
     comment: |
-      Boomy Afromart is truly a one -stop shop for everything you need.
-      From fresh groceries to pantry staples and specialty items.
-      What stands out the most is how affordable everything is.
-      You get great value for your money without compromising on quality.
-  - name: "Deborah Odusi"
+      The prices here is very fair and the lady I met is very polite.
+  - name: "Lola Williams"
     rating: 5
-    date: "2026-04-26"
     comment: |
-      I've been shopping at Boommys Afromart for almost 2 years now, and I'm  honestly impressed with the customer service, always willing to help or answer questions. If you're looking for a reliable place to get African groceries, I highly recommend them. Definitely one of my go-to spots!
+      Boommys Afromart provides exceptional service, plus variety of African food products. It's very close to my home in the South West area, and I can literally get anything an African store should have there, especially agege bread ooo!!😉😉😎
 ---

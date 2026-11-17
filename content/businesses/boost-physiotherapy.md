@@ -33,28 +33,22 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Joanne Wilson"
     rating: 5
-    date: "2026-08-27"
     comment: |
       I cannot praise Boost Physio in Stony Plain enough. The staff are always friendly, courteous, and professional. Sumayya is an excellent physiotherapist, whose empathy and resourcefulness have finally led me down the path of recovery. Fantastic establishment!!!!
   - name: "Karen Ball"
     rating: 5
-    date: "2026-05-28"
     comment: |
       What an awesome place for rehab. I broke my hip 10 weeks ago and started physio. My PT is Caroline.  What an amazing professional  caring, genuine person. Thank you for helping me get my mobility back. - Karen
   - name: "Emma Hurd"
     rating: 5
-    date: "2026-01-09"
     comment: |
       Brooke is one of my favourite massage therapists! Whether I’m just wanting to relax or really work out some knots she always adjusts her treatments accordingly. I always feel great after my massage with her! Highly recommend!
-  - name: "Zeanna Janmohamed"
+  - name: "larry dwernichuk"
     rating: 5
-    date: "2026-01-11"
     comment: |
-      Lillian has been fabulous. Professional and very good at making me feel comfortable and working with what my goals are. Went from minimally mobile in an air boot to weight bearing and hopefully back to marathon training!
-  - name: "Carmen Mykula"
+      Very knowledgeable helpful and engaging easy to understand and was totally willing to repeat directions.  Rated a 10 thank you for your service
+  - name: "Leanne Johnson"
     rating: 5
-    date: "2026-06-08"
     comment: |
-      A wonderful place for physiotherapy.  Therapists are caring, gentle, & amazing.
-      Great front desk staff as well.
+      Brooke is great! I leave feeling so relaxed, will definitely be back!
 ---

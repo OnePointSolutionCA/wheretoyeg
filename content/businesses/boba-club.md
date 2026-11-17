@@ -13,17 +13,17 @@ latitude: 53.633156
 longitude: -113.440965
 hours:
   monday: "Closed"
-  tuesday: "12:00 PM–8:30 PM"
-  wednesday: "12:00 PM–8:30 PM"
-  thursday: "12:00 PM–8:30 PM"
-  friday: "12:00 PM–8:30 PM"
-  saturday: "12:00 PM–8:30 PM"
-  sunday: "12:00 PM–8:30 PM"
+  tuesday: "12:00 PM–8:00 PM"
+  wednesday: "12:00 PM–8:00 PM"
+  thursday: "12:00 PM–8:00 PM"
+  friday: "12:00 PM–8:00 PM"
+  saturday: "12:00 PM–8:00 PM"
+  sunday: "12:00 PM–8:00 PM"
 photos:
   - "/photos/boba-club-g1.jpg"
   - "/photos/boba-club-g2.jpg"
 rating: 4.7
-review_count: 333
+review_count: 337
 amenities:
   - "Dine-In"
   - "Takeout"
@@ -34,32 +34,29 @@ tags: ["edmonton", "boba-bubble-tea"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Panda Cub House"
-    rating: 5
-    date: "2026-04-20"
-    comment: |
-      ⭐⭐⭐⭐⭐ for Boba Club
-      
-      Boba Club exceeded expectations on every level. The space is exceptionally clean, beautifully designed, and thoughtfully decorated—it creates a welcoming and modern atmosphere the moment you walk in. Even the washroom stood out for its cleanliness and hygiene, which says a lot about their overall standards.
-      
-      The service was fast, efficient, and very well organized. The ordering process was seamless, making the entire experience smooth from start to finish.
-      
-      Now, the highlight—the drink. I ordered a chocolate smoothie topped with crème brûlée and lychee jelly at the bottom, and it was, without exaggeration, the best boba I’ve ever had in my life. The flavors were perfectly balanced, the texture was rich and satisfying, and every layer complemented each other beautifully.
-      
-      If you’re looking for high-quality drinks, excellent service, and a clean, aesthetically pleasing environment, Boba Club is absolutely worth visiting. Highly recommended.
-  - name: "Amanda B"
-    rating: 5
-    date: "2026-03-08"
-    comment: |
-      The best boba place! They have a good variety of flavours, and you can customize the sweetness & ice levels to your taste. The majority of the drinks are lactose free too! The whole space is welcoming, with cute booths to sit in while you enjoy your drink. The staff are always helpful and friendly too.
-  - name: "Lacey Desjarlais"
-    rating: 5
-    date: "2026-07-26"
-    comment: |
-      Been here many times over the years and I can say the service and deliciousness remains the same! Our favourite Boba place ever. Their signature creme brunette drink is absolutely amazing 🤤 we moved from edmonton but try to stop back in every time we visit. There's more seating now too with small booths to wait on sit and chat. 100/10 🌟
   - name: "Shalene B."
     rating: 5
-    date: "2021-09-27"
     comment: |
       Finally got to try the hype! So many people posted how awesome this place was before they even had the store so of course I had to try it with their new location. This place is superb! Even though they were super busy, they still took their time to make sure the drinks were made pretty and had excellent customer service. The interior is modern and simple, menu is aesthetic and easy to read- and yes, the drinks taste as good as they look!! Worth the drive out to the north side 🧋
+  - name: "Kai Yang"
+    rating: 5
+    comment: |
+      Our favourite bubble tea place! They're very consistent w/ the softness of their tapioca pearls (never hard) and the prices are reasonable!
+  - name: "Holly Hockridge"
+    rating: 5
+    comment: |
+      This bubble tea shop is amazing!!! They have such delicious flavours and so many choices too. Prices are very reasonable when you order in store. If you order through skipthedishes, it’s more expensive for some reason so just order in store for their actual price. Love the set up inside and is very covid friendly with limited seating that is all spaced out. Their pearls are well made and they use fresh fruit in their drinks while often leaving fruit chunks for you to chew on along with your pearls. Service was excellent as staff were very respectful, helpful, and quick while making the drinks!
+  - name: "J"
+    rating: 3
+    comment: |
+      Was in town visiting friends that live close to Boba Club. They have a loyalty stamp card (buy 9, get the 10th free).
+      
+      - Matcha milk tea ($5.75) - went with 30% sugar and less ice. Added grass jelly ($0.50) which was bland and tasteless. Matcha flavour was watered down.
+      - Milk tea creme brulee ($7.25) - my buddy’s go to drink. Brown sugar bobas were warm.
+      
+      Maybe BC’s other drinks are better.
+  - name: "Ameerah"
+    rating: 5
+    comment: |
+      Exceptional customer service, truly unmatched. He offered helpful suggestions and was genuinely kind. The washroom was spotless, and the bubble tea was absolutely perfect.
 ---

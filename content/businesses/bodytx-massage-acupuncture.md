@@ -24,36 +24,38 @@ photos:
   - "/photos/bodytx-massage-acupuncture-g1.jpg"
   - "/photos/bodytx-massage-acupuncture-g2.jpg"
 rating: 4.9
-review_count: 388
+review_count: 394
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "day-spas"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Robbie Liboiron"
+  - name: "Jessica Forsey"
     rating: 5
-    date: "2026-04-02"
     comment: |
-      BodyTX Massage was fantastic. Went for my first treatment with Deven and was very happy with the service. Listened to all my concerns and focused on the areas I requested. Will be booking again. Highly recommend them if your needing treatment, they also offer alot of different treatment options which is nice. Thank you Deven and BodyTX team.
-  - name: "codytavares19"
-    rating: 5
-    date: "2026-08-04"
-    comment: |
-      Great experience went in with a lot of pain and discomfort in my lower back. The masseuse Deven was able to identify that the source of the problem was actually in my hips and relieved me of my pain and stiffness. Great experience recommend for all!!!
-  - name: "Danielle Chamberlain"
-    rating: 5
-    date: "2026-04-02"
-    comment: |
-      My experience today with Deven was phenomenal. He addressed all my issues with a combination of deep tissue and relaxation during the entire treatment to ensure I got the most benefits from my massage. My legs felt better than they have in a long time. Will definitely be rebooking with him in the future. 10/10 Deven!
+      I’m extremely impressed with this place! I get massages often and I’m kind of particular. My first experience here was so good.
+      Office and business:
+      Organized, smooth process and clean
+      Calm quiet atmosphere
+      Not overpriced
+      Therapist:
+      I went in there in a lot of pain from muscle tension and Ricardo took care of it. I really appreciate a therapist that can feel my muscles and adapt the massage technique accordingly
+      I’ll be back!
   - name: "Sam Bell"
     rating: 5
-    date: "2026-07-10"
     comment: |
       First massage in Alberta when on vacation and it was by the far the best massage I’ve had. Paige was great, and I will definitely be back again and re-booking with her! High recommend Paige to others, you will not be disappointed!!
-  - name: "Wanda Bryks"
+  - name: "Alexa Cay"
     rating: 5
-    date: "2026-04-07"
     comment: |
-      I went for acupuncture today. I wasn't sure if it will help with my issues, but   She was very thorough asking questions about my health and my concerns. After our discussion,The acupuncturist explain what she was going to do and the acupuncture was very helpful. She worked on various health issues and wow what a difference.  I highly recommend her.
+      I have been going to Ricardo at BodyTX for a couple years now and he is the very best! I recommend him to all my friends and family and would recommend him to anyone looking for a fantastic massage therapist.
+  - name: "Susana Vela"
+    rating: 1
+    comment: |
+      The place is very nice, clean and welcoming, but the massage therapist was terrible, she didn't check on me how I was feeling, I ask 3 times to apply more pressure but she didn't. The massage did not have flow and she looked tired.
+  - name: "Ms. Kristy Lea B"
+    rating: 5
+    comment: |
+      Was a very nice clean building, nice calm atmosphere, reception ladies are super nice. I had a massage specifically with Meghan Axford And it was probably the best massage I’ve had in years and will absolutely be returning, very great place!
 ---

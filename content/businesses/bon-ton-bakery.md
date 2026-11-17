@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/bon-ton-bakery-1.jpg", "/photos/bon-ton-bakery-2.jpg", "/photos/bon-ton-bakery-3.jpg"]
 rating: 4.7
-review_count: 1397
+review_count: 1420
 price_range: "$$"
 amenities:
   - "Custom Orders"
@@ -34,6 +34,10 @@ reviews:
     rating: 5
     comment: |
       Absolutely love bon ton! They that the most beautiful and delicious cakes/desserts/cookies etc. Things I've only seen on cooking shows, I can buy and try there. One of my favorite things is that nothing seems overly sweetened. You taste the ingredients, not artificial garbage and overly sweet flavors. Highly recommend!
+  - name: "Kay Liew"
+    rating: 5
+    comment: |
+      I have not personally been to this bakery, but my friends dropped off some of thier pastries to me while I was recovering. I have to say, every single one of them was an absolute delight! My favorite was the Black Forest Cake Tart, what an exceptional bite! I'm sure to come by and try more of what's to offer! Thank you!
   - name: "Ghazal Lotfi"
     rating: 5
     comment: |
@@ -64,8 +68,4 @@ reviews:
       The service is fantastic. The staff are very friendly, patient, and always able to give great recommendations across my last 4 visits in past 2 months.
       
       This shop has now become part of my weekly routine, and my goal is to try every single item. Edmonton should be proud to have this gem representing one of the professionalism of bakery of the city.
-  - name: "Sabrina P."
-    rating: 5
-    comment: |
-      I recently discovered Bon Ton Bakery when I was looking for a cake for my mom's birthday. She has a strong sweet tooth, so I purchased 2 large cakes and several individual pastries to sample, along with some organic sourdough bread. I called to place an order for the cakes. The person I spoke to was very knowledgeable, kind and helpful. Both cakes (Raspberry Passion and Mocha Praline) along with the individual desserts and bread were absolutely delicious. But beyond the great service and tasty desserts, I truly appreciated their use of clean ingredients. No artificial flavors or colors, they use wholesome ingredients with names you actually recognize as food. I think we found our favorite Edmonton pastry shop and I look forward to trying all their offerings.
 ---

@@ -24,23 +24,20 @@ photos:
   - "/photos/bodiworks-g1.jpg"
   - "/photos/bodiworks-g2.jpg"
 rating: 4.9
-review_count: 165
+review_count: 169
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "physiotherapy"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "A"
+  - name: "Sherihan Whitter"
     rating: 5
-    date: "2026-03-17"
     comment: |
-      BODIWORKS is a great clinic. The girls at the front are always so kind and accommodating. I can’t stress enough the impact you ladies have (I have seen 2 regular, and one in training?). You’re the first impression a patient gets, and you always greet with a smile, understanding and seemingly genuine interest. You make people feel at ease.
-      Anjali (physio) and Jessica (massage) have both been excellent, very knowledgeable and supportive! The clinic is clean and calm and the hours are very flexible. Highly recommend!
-      Updated to add: I have now seen Cassandra for acupuncture and she is a gem as well, knowledgeable and SO sweet. First appt was amazing, second appt she was running two rooms. This left me with needles in for an extended time, with a large amount of discomfort. I am not new to acupuncture, but this was a first for me. I intend on only ever booking when she has one room running.
+      Anjali and Eva are amazing. Great service!!!
+      They were kind, knowledgeable, and really took the time to listen and understand my concerns. I felt comfortable and supported throughout my treatment. I would definitely recommend them!
   - name: "Sherry Comaniuk"
     rating: 5
-    date: "2026-06-05"
     comment: |
       Dr. Ryan is the best chiropractor I have tried so far. He is an expert in getting to the root cause of the chronic pain. I feel like a new person after a couple of sessions with him!
       
@@ -50,19 +47,21 @@ reviews:
       Bodiworks is a top-tier multidisciplinary health and wellness centre. Aside from their elegant clinic, they have fantastic group of professionals working collaboratively together. I highly recommend Anjali for physiotherapy, Ryan for chiropractic treatment, and Cassandra for acupuncture treatment.
       
       Bodiworks truly WORKS.
+  - name: "Arsh Malhi"
+    rating: 5
+    comment: |
+      I’ve had such a great experience at Bodiworks Clinic. Anjali (physio), Cassandra (acupuncture), and Jessica (RMT) are all incredibly skilled, caring, and attentive, and I’ve truly noticed a difference since starting my treatments here.
+      Anjali takes the time to understand your concerns and explains everything clearly. Cassandra is gentle and thoughtful, and her treatments have made a real difference. Jessica’s massages are both relaxing and very effective. I always leave feeling better overall.
+      
+      I also love that everything is in one place, including chiropractic care, which makes it so convenient. The front desk team is always friendly, welcoming, and helpful, making every visit smooth and stress-free.
+      
+      Highly recommend this clinic.
+  - name: "Cleopatra Mushonga"
+    rating: 5
+    comment: |
+      Wonderful experience at Bodiworks St. Albert! Ramona was warm, professional and attentive, and Eva was so friendly and welcoming at reception. I left feeling relaxed and very satisfied with the overall experience.
   - name: "Alexandra Russell-Gregory"
     rating: 5
-    date: "2026-05-25"
     comment: |
       I came to bodiworks after struggling for a few months with a back strain that wasn't improving and causing me a lot of pain. I had 2 physio sessions with Angali and then a massage with Ramona, and I honestly couldn't believe the improvement in my pain after my treatments. They worked some magic on me and have both been absplutely lovely. The girls at the front desk have all been so pleasant and kind as well. I've had such a positive experience at Bodiworks and will definitely be exploring other treatments as needed.
-  - name: "Erin Aitchison"
-    rating: 5
-    date: "2026-07-14"
-    comment: |
-      Dr Anjali has been doing great with my recovery from my car accident. And great bedside manner! Highly recommend all the team at Bodiworks st. albert! Positives all across the board! From all the staff!
-  - name: "Matt M"
-    rating: 5
-    date: "2026-05-28"
-    comment: |
-      Great physio practice, very clean and welcoming staff. Anjali is wonderful, very helpful and provides a range of treatment along suggesting several exercises. Knee pain has reduced greatly after 2 sessions
 ---

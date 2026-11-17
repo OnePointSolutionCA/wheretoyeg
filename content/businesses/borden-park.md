@@ -24,7 +24,7 @@ photos:
   - "/photos/borden-park-g1.jpg"
   - "/photos/borden-park-g2.jpg"
 rating: 4.5
-review_count: 2376
+review_count: 2373
 amenities:
   - "Family Friendly"
   - "Wheelchair Accessible"
@@ -34,22 +34,26 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Vids Tube"
     rating: 5
-    date: "2024-06-08"
     comment: |
       Amazing park close to downtown. Lots of shaded and unshaded picnic spots. Easy access via piblic transit. Lots of parking. Washrooms are in the pavilion. Nice walking and running trail/track. Very unique art sculpture. 3 play structure for kids including slide, monkey bar, ropes etc. Free parking lot. Fenced Swimming pool not sure what are its operating time frame, during our visit it was closed. There is a stage/stadium. Wheelchair and stroller accessible. Over all great park must visit if you are in Edmonton. Check out videos and images follow me for more detailed reviews.
+  - name: "Bry Gutierrez"
+    rating: 3
+    comment: |
+      This park offers visitors a decent-sized area for walking and relaxation. This park also boasts several amenities that make it a favorable destination for those seeking outdoor activities. One of the standout features is the enclosed public bathroom housed in a heated building, providing visitors with convenience and comfort throughout their visit.
+      
+      The park's layout allows for leisurely strolls, and the ample space ensures that visitors can enjoy their walks without feeling crowded. However, it is worth mentioning that the park could benefit from some attention when it comes to cleanliness. There have been instances of scattered garbage, which detracts from the overall ambiance. Proper maintenance and regular cleaning would greatly enhance the park's appeal.
+      
+      While the natural beauty of the park is evident, it becomes apparent that with proper landscaping, Borden Park could truly flourish as an exquisite destination for exercise enthusiasts. If this park was introducing well-planned green spaces, floral displays, and perhaps even a variety of trees and shrubs, the park could transform into a picturesque haven, inviting visitors to immerse themselves in the tranquility of nature.
   - name: "Zoltan Wagner"
     rating: 5
-    date: "2023-06-18"
     comment: |
       Mid sized urban park with a playground, pool and many picnic shelters to rent. The park was very clean when we visited and seemed many facilities were fairly recently renovated. Lots of trees all around! And parking was free which is a bonus.
   - name: "MRW"
     rating: 5
-    date: "2019-05-20"
     comment: |
       This is an excellent park! We actually had our wedding pictures taken here 14 years ago. Since then there has been lots of changes to the park. All good ones. The park had so much to offer! Great place for picnics, our friend had her sons party there and it was the perfect location! If you've never been check it out!
   - name: "Oriana Bryan"
     rating: 5
-    date: "2022-08-19"
     comment: |
       I love this place! Walk, jog,bike, swim, or play soccer and have a picnic. This park is huge it's got lots of trees so even on a hot day you will be in a good shaded spot. There is plenty of space for anyone to enjoy.
       

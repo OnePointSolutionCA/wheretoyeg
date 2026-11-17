@@ -29,32 +29,24 @@ tags: ["edmonton", "cuts-styling"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Laura Donohoe"
+    rating: 5
+    comment: |
+      I cannot say enough good things about this gorgeous salon! Karla completely transformed my hair from brown to blonde, and she did it so safely. My hair feels absolutely amazing, healthy, and the color is stunning. The entire vibe of the studio is so welcoming, beautiful, and relaxing. Kayla and Laycie are also both so incredible and add to the amazing experience. If you want expert hair care in a beautiful space, this is the place to go!
   - name: "Sarah (zogabogga)"
     rating: 5
-    date: "2026-07-15"
     comment: |
       Kayla has been doing my hair for over 20 years and I wouldn’t trust anyone else! She hears every tiny request and consistently delivers every time. I also see Laura for eyelash extensions at bombshell,  and she’s an incredibly talented and trustworthy aesthetician.  As a loyal and repeat customer I highly recommend this salon to anyone seeking high quality services.
+  - name: "SMA SMA"
+    rating: 5
+    comment: |
+      If you are looking for a new hairstylist, you have to go see Carla at Bombshell Bar and Hair Studio in Leduc! For years, I have walked into salon after salon asking for a haircut that truly frames my face, and I never felt like anyone quite got it right until today. I showed Carla a few picture ideas, trusted her vision, and she completely blew me away by giving me even more than I could have hoped for. Beyond being an insanely talented stylist who works magic with hair, Karla is genuinely one of the most beautiful, warm people inside and out. I am so in love with my new look, and I already can't wait to go back to her for highlights in a few weeks! Do yourself a favor, make the drive to Leduc, and go see her—you will be so happy you did!
   - name: "Capri Jasper"
     rating: 5
-    date: "2026-07-15"
     comment: |
       A curly girl here. Kayla is the best hair dresser I’ve gone to for my curly hair! I only ever recommend her for all my curly girls. Whether you need a trim or a full on new hair style she confidently cuts and shapes my curls and always makes me feel 10x better than I did before walking into her salon. She has also done scalp treatments on me and those are simply divine, I’d recommend them for anyone looking to up their hair game!
-  - name: "Bonnie Vanderbell"
-    rating: 5
-    date: "2026-03-11"
-    comment: |
-      I brought my mom in after reading good things about Lulu. And I am completely blown away. First I am impressed that this woman greeted us with a chipper smile like she loves what she does, mom has thick course hair that been damaged by salons and other stylists. Lulu or Lerinna did some detox treatment and a moisture treatment then she gave my mom the best haircut we have seen in a long time. Mom's hair even weeks later feels soft looks amazing. Her color not only looks amazing, but also feels amazing. If your looking for a stylist that loves the people that she sees and want a person to trust. Lulu is who I will tell people to see. Please don't hesitate.
   - name: "ELYSE C MORTON"
     rating: 5
-    date: "2026-07-06"
     comment: |
       I loved getting my hair cut by my good friend & stylist Lulu (Lerinna Colpitts). She has always done a smashing job on my hair and bringing it back to life. I feel more beautiful & confident when I get my hair done. It's a beautiful studio and it just feels super comfortable being there. 💗
-  - name: "Bonnie C."
-    rating: 5
-    date: "2026-04-17"
-    comment: |
-      I bought a topper from Kayla and couldn't be happier. I purchased one in Edmonton from a reputable vendor last year and Kayla's topper is far more superior quality!!! Kayla is knowledgeable and was very helpful in choosing the right piece for me.
-      Also took less than a week.
-      Highly recommend Bombshell Salon!!
-      Thank you Kayla, I feel like a new woman 😊
 ---
