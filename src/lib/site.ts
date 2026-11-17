@@ -7,8 +7,8 @@ export const SITE = {
     "Edmonton's local business directory. Discover the best restaurants, barbers, cafes, and hidden gems across YEG.",
   /** Shown to visitors as our contact address (WhereToYEG is run by OnePoint Solutions). */
   email: "info@onepointsolution.ca",
-  /** Where mailto links deliver. Same inbox: it forwards to Moe's Gmail. */
-  deliveryEmail: "info@onepointsolution.ca",
+  /** Where mail actually delivers, form submissions + mailto links land here. */
+  deliveryEmail: "info@onepointsolutionsca.com",
   neighborhoods: [
     "Downtown",
     "Whyte Ave",
