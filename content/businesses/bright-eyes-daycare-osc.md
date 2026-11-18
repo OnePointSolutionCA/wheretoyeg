@@ -23,39 +23,34 @@ hours:
 photos:
   - "/photos/bright-eyes-daycare-osc-g1.jpg"
   - "/photos/bright-eyes-daycare-osc-g2.jpg"
-rating: 4.8
-review_count: 16
+rating: 4.1
+review_count: 18
 amenities:
   - "Out of School Care"
 tags: ["edmonton", "childcare"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Melany UP"
-    rating: 5
-    date: "2026-04-01"
+  - name: "L C"
+    rating: 1
     comment: |
-      We’ve had an excellent experience with this daycare.
-      My daughter recently started at 3.5 years old, and as a parent, I was nervous about the transition.
-      From the very beginning, the director was kind, straightforward, and easy to communicate with, which gave me confidence right away.
-      The teachers in the toddler/preschool room, Gurwinder, Haiman, and Komal, have been truly wonderful. They welcomed my daughter with genuine care and warmth, and they were very supportive in helping her adjust. I especially appreciated being allowed to stay in the room for a while until she felt comfortable and safe.
-      I am sincerely grateful to the entire team for making this such a smooth and positive experience, not only for my daughter but for us, the parents as well.
+      explained my child’s needs prior to the tour, went for a tour and was told by the staff that they would not be able to accommodate my child. Not sure why you wasted my time asking me to come for a tour when I already fully explained my child’s needs to be prior to this.They wouldn’t even give my child a chance or consider a trial. if your child has autism or even a mild speech delay DONT WASTE YOUR TIME LIKE I DID! Very disappointing.
+  - name: "Gagandeep Singh"
+    rating: 5
+    comment: |
+      We love the wonderful atmosphere at this daycare! The staff is highly experienced, cooperative, and always friendly. What truly sets them apart is how they treat every child like their own family. It is a well-known, trusted institute in our neighborhood, and I wholeheartedly recommend it to my near and dear ones.
   - name: "Harpreet Sidhu"
     rating: 5
-    date: "2026-04-02"
     comment: |
       Our daughter has been attending this daycare for the past two years, and our experience has been consistently excellent. The staff is professional, attentive, and genuinely caring, which creates a safe and supportive environment for the children.
       ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
   - name: "Navdeep Singh"
     rating: 5
-    date: "2025-09-06"
     comment: |
       Bright Eyes Daycare has been absolutely wonderful! The staff are incredibly caring, attentive, and dedicated to creating a nurturing environment for the children. My child has thrived both socially and academically, thanks to their engaging activities and well-structured curriculum. The facility is always clean, safe, and welcoming, giving me peace of mind every day. Communication with parents is excellent, with regular updates and photos that keep me connected to my child’s day. I can’t recommend Bright Eyes Daycare highly enough for any family looking for a trustworthy, loving place for their little ones!
-  - name: "mandeep kaur"
+  - name: "nevil raval"
     rating: 5
-    date: "2025-01-28"
     comment: |
-      My son love this daycare and have learn lot of things in past one year.The love ,safety, care provided here have been beyond our expectations.
-      Thank you much to the owner Ramneet and the staff from the bottom of our hearts
-      I would definitely recommend this daycare to anyone that’s is looking for childcare.
+      Thanks to the Bright Eyes Day Care and Preschool Staff for a job well done with providing care for my son . My boy loves this daycare. This daycare spends a lot of time outside, and it’s pretty structured with their days. They also do cute little crafts with the kids daily and on special occasions.
+      Teacher Ramneet(child development supervisor)is so welcoming. She is always smiling and honestly is one of the kindest people I know.
 ---

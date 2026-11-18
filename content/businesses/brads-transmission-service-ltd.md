@@ -23,29 +23,33 @@ hours:
 photos:
   - "/photos/brads-transmission-service-ltd-g1.jpg"
   - "/photos/brads-transmission-service-ltd-g2.jpg"
-rating: 4.7
-review_count: 55
+rating: 4.6
+review_count: 56
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "transmission"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "justin h"
+    rating: 1
+    comment: |
+      Went to get my whining rear differential repaired. Told to come pick up my truck 2 days later. Brad gave me a $2300 bill when originally quoted $1800. When picking up the truck brad informed me that the whining noise is still there and to give it a bit to settle in. Waited 2 months for the whining to go away but it did not. Called brad and he told me to come in and see for himself. He said yup its still whining. So I asked what's the plan now. Told me he would eat some of the labour cost and rework it and said he would get me a quote back with some more parts. Waited 1 week and gpt no response. Good to know they don't stand behind their work. My advise take your vehicle somewhere else they are not professionals and ghost you when they have to do warranty work.
   - name: "Ashley Joe"
     rating: 5
-    date: "2025-04-19"
     comment: |
       Used them a few times on my chevys. Very knowledgeable and explained known issue my vehicle could have and what they recommend. Highly recommend them.  They squeezed me in even know were busy.
   - name: "Vitality Health"
     rating: 5
-    date: "2026-02-20"
     comment: |
       Brad an his team are amazing! I can’t thank them enough for fixing my son’s transmission. I highly recommend them to anyone looking for excellent service and expert knowledge
-  - name: "lennon andre"
-    rating: 5
-    date: "2023-05-15"
+  - name: "Sheldon Sch"
+    rating: 1
     comment: |
-      5*******
-      I looked at the google reviews for Brads transmission. He had amazing reviews and comments so I decided to go with them. After having my truck with them he notified me of my major issues with my transmission that it was caught on time and went above and beyond for the services he provided me Not only does my transmission flawlessly work and shifts perfectly  now. he also maintained and repaired things that made my life easier to repair While it was in the shop.
-      and everything was at a very reasonable price. I will refer them to anyone I know who needs this type of work done. Thanks Brad ! We will return
+      In short - terrible customer service.  First time, potential customer.  Tried because of positive reviews, however my experience was not positive at all.
+      Repeatedly had to follow up with this business over the course of a week and there was always an excuse for not contacting me back.  Not able to speak to Brad’s mechanical work (as I never got that far) but from a "contact us" stand point...not good.  If you're too busy, just be honest.  Don't ghost a potential customer!  It is unacceptable to not return customer correspondence no matter what line of business you are in.
+  - name: "Neil Simonson"
+    rating: 1
+    comment: |
+      Unreliable. Brad's Transmission replied fake review . it is true that  I am not a customer but I tried to be a customer I Phone ask for a Quote and Brad ask for my V.I.N. number which I gave him I waited for about 3 days and called him back and he said that he would get back to me which he never did. I sent my V.I.N. on September 29th and today is October 20th.
 ---

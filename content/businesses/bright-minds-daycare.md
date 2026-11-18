@@ -29,9 +29,12 @@ tags: ["edmonton", "childcare"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Kelsey Quaghebeur"
+    rating: 5
+    comment: |
+      Feels like an extension of the family. I love how all the staff are friendly and approachable. Chantelle has become a friend, she is her own vibe. I really like how the daycare is smaller in size and the rooms are almost fully partioned off- this helped tremendously with my son who can become overwhelmed with noise. I love the Christmas concert that is hosted and how personal it is for the children. Its a calm environment. Love.
   - name: "Victoria Martin"
     rating: 5
-    date: "2026-03-18"
     comment: |
       We absolutely love this daycare.
       
@@ -42,20 +45,13 @@ reviews:
       The staff know my children well, they understand their personalities, and they create such a caring, consistent environment. It’s clear how much they love what they do.
       
       We’re so grateful for this center and everyone who works there. I can’t recommend them enough.
-  - name: "Kelsey Quaghebeur"
+  - name: "Chantelle"
     rating: 5
-    date: "2026-04-22"
-    comment: |
-      Feels like an extension of the family. I love how all the staff are friendly and approachable. Chantelle has become a friend, she is her own vibe. I really like how the daycare is smaller in size and the rooms are almost fully partioned off- this helped tremendously with my son who can become overwhelmed with noise. I love the Christmas concert that is hosted and how personal it is for the children. Its a calm environment. Love.
-  - name: "Chantelle Short"
-    rating: 5
-    date: "2022-06-30"
     comment: |
       My preschooler and toddler started attending bright minds at the beginning of June. At first my toddler had a very hard time but the teachers went above and beyond to make my little one feel safe and comfortable. Today after being away for a week after only attending 10 days total my toddler gave me a hug and kiss and said bye mommy. They have a great time there. I couldn't be happier with my decision in bright minds.
       They now both take their backpacks and run to the door as before it was a crying match.
   - name: "Ashton Aylett-Wells"
     rating: 5
-    date: "2025-02-14"
     comment: |
       I have, and will continue to always recommend Bright Minds Daycare to anyone who will listen.
       My children have been at this daycare for a couple of months now and they love it. Not only for all the amazing friends they have made, but also because of the patience and dedication of their teachers. One of my kids is very reserved, and watching everyone there  be patient and understanding with her, as well as trying to gently coax her out of her shell is absolutely amazing.
@@ -65,7 +61,6 @@ reviews:
       If you are looking for a safe, fun, family environment for your child/children, Bright Minds is the place to go.
   - name: "Kayla Graves"
     rating: 5
-    date: "2025-02-14"
     comment: |
       My 2 children have been at Bright Minds for going on 4 years! They've made so many friends and learned so much while being there. The teachers are great and care alot about every child! My 3 year old even told her teacher that she loves her. Their connection is much more than that of a "babysitter" which is so meaningful to me as a parent, considering the amount of time spent in care! I have recommended this Daycare to many of my friends and family who also are very happy here. My kids always come home with crafts, and stories of what they did that day and the center is always clean, bright and full of life!
 ---

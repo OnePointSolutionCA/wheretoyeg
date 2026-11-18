@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–4:00 PM"
 photos: ["/photos/bountiful-farmers-market-1.jpg", "/photos/bountiful-farmers-market-2.jpg", "/photos/bountiful-farmers-market-3.jpg"]
 rating: 4.6
-review_count: 2543
+review_count: 2577
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,10 @@ tags: ["edmonton", "farmers-market"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Avery"
+    rating: 5
+    comment: |
+      Bountiful farmers market is my favourite place on earth. The stalls have a wonderful variety of food and products, and the atmosphere is always joyous. It’s both cozy and exciting, and there’s always more to discover. Live music is a treat and there are lots of tables to sit at and enjoy your food, with colourful umbrellas overhead. Absolutely lovely place.
   - name: "Sarah Birmingham"
     rating: 5
     comment: |
@@ -38,14 +42,20 @@ reviews:
       The Goddess Temple Canada. Gina is amazing, and so are her daughters. Their essential oils and sprays are to die for. 10/10
       
       And Shauna Madsen Fine Art. She specializes in pet portraits, and customized pet memorabilia. Truly incredible work. 10/10
+  - name: "Candi-Lin Robertson"
+    rating: 5
+    comment: |
+      Bountiful Farmers’ Market is such a wonderful place to visit and always has a lively, welcoming atmosphere. It can get very busy, so I definitely recommend arriving early and giving yourself plenty of time to wander through and enjoy everything.
+      
+      The vendors are fantastic, and there is such a great variety of food and local products to discover. One of my favourite things is the live music. It adds so much to the atmosphere and makes the market feel like an experience rather than simply a place to shop.
+      
+      I especially love the seasonal activities throughout the year. From Easter Bunny photos to Christmas celebrations, live music, and occasional face painting for the little ones, there always seems to be something special happening for families.
+      
+      It is a great place to bring the kids and grandkids, grab something delicious to eat, support local vendors, and simply enjoy the day. We always enjoy ourselves when we visit, and it is definitely a place worth experiencing.
   - name: "Jenn M"
     rating: 5
     comment: |
       Love this market! Be patient with parking because it is worth it once you get inside! Helen's Veggies and Irvings pork sausage are 2 of my favorite stops. And today, Burwood Distillery has Rhubarb gin!!
-  - name: "Chito"
-    rating: 5
-    comment: |
-      My wife and I visited and really enjoyed our experience.  We took in the vibe and moved through the building at a relaxed pace. We enjoyed some foods from the food court and explored the many different vendors. We bought a few veggies at better prices (and larger too) than the grocery stores and also purchased some exotic meats to sample for the first time! Loved it! We'll be back!
   - name: "Christine Gagne"
     rating: 5
     comment: |
@@ -58,12 +68,4 @@ reviews:
       I do like the little spots that have tea or samosas. They are the best samosas I've ever had.
       
       You NEED to check this place out! You will LOVE it!
-  - name: "Lureen Davidson"
-    rating: 3
-    comment: |
-      Loved it! But, my friend and I both got food poisoning from this donut shop.
-      We bought wine, did whisky tasting.   I finally found rosemary chicken sausages.  Only place I could find them, was Granville island before now.
-      I bought some beautiful artwork, from the Lady that did the animal paintings.  I bought a magpie and a crow.
-      Overall the place was loud and crowded, almost impossible to find parking.
-      I will go back for the chicken sausages.
 ---

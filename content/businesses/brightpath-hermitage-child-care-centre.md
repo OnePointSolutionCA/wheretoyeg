@@ -24,30 +24,31 @@ photos:
   - "/photos/brightpath-hermitage-child-care-centre-g1.jpg"
   - "/photos/brightpath-hermitage-child-care-centre-g2.jpg"
 rating: 4.6
-review_count: 101
+review_count: 105
 amenities: []
 tags: ["edmonton", "childcare"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Anju Symington"
+  - name: "Liberty Tuiza"
     rating: 5
-    date: "2026-06-22"
     comment: |
-      We’ve been attending Brightpath for 6 years and I could not be happier with the care my children receive. The Preschool 3 room is amazing with how they coordinate and manage such a rambunctious group of children (not an easy age by any means!) but they are always so wonderful, patient and helpful. Teacher Mohar is always willing to work with any challenges my kids may have, and answers any question that come up, and my kids adore Teacher Michelle - all the educators are fantastic.
-  - name: "Katherine Carrier"
+      I’m really happy with this daycare for both of my daughters. The staff are friendly, caring, and always welcoming. My girls love coming here every day, and as a parent, it makes me happy knowing they enjoy their time at daycare. I appreciate how the staff take care of the children and provide a safe, comfortable, and fun environment where they can learn, play, and grow.  Thank you to all the staff for your patience, kindness, and hard work every day. We truly appreciate everything you do for our girls. I highly recommend this daycare to other parents looking for a caring and welcoming place for their children! ❤️
+  - name: "Jass Poonia"
     rating: 5
-    date: "2026-03-06"
     comment: |
-      To say we love this daycare is an understatement. Since our oldest daughter was 18 months old, she has been going to this daycare. We now also have our 2 years old boy that started there when he was 14 months old. All of the staff, from the teachers to the directors, to the support staff to even the cooks have been amazing and kind. We first weren’t sure about the size of the daycare, we thought it was big and were scared our kids would be “just a number”. We were so wrong. All of the teachers know our kids name and great them every morning. Even the teachers that haven’t had our kids in their classrooms. We speak French only at home so we were also scared our kids would have a hard time in daycare and they didn’t ! They are learning so much! Our 2 years old has been counting to 10 for a while and signs his ABCs. The activities they do and the music and dance classes have always been highlights in our kids days. I can’t recommend this daycare enough!
+      We couldn't be happier with our decision to send our child to this daycare. From day one, the entire staff has been so welcoming, patient, and truly invested in every child's growth and well-being.
+      A special thank you to the Daycare Director for leading such an exceptional center! Their strong leadership, clear communication, and approachable nature make a world of difference. The daily activities are creative and engaging, and I always leave my child knowing they are in safe, caring hands. We are so grateful for the warmth, dedication, and guidance from the Director and the entire team!"
+  - name: "Prajapati Shalini"
+    rating: 5
+    comment: |
+      We couldn't be happier with our experience at BrightPath! As a parent, leaving your child in someone else's care is never easy, but the teachers and staff here have created such a warm, nurturing, and engaging environment. My daughter looks forward to going every day, and I am constantly amazed by the fun, play-based learning and STEM activities she gets to experience. The educators are genuinely caring, attentive, and professional. Knowing she is safe, happy, and learning so much gives me complete peace of mind. Highly recommend to any family looking for exceptional childcare.
+  - name: "Chirag Prajapati"
+    rating: 5
+    comment: |
+      Such an amazing daycare! The facility is super clean, really secure, and much bigger on the inside than it looks from the front. They have a massive outdoor yard and great indoor play spaces. The staff are fantastic and communicative, and my child actually looks forward to going every day. Highly recommend!
   - name: "Daniel Johnson"
     rating: 5
-    date: "2026-06-27"
     comment: |
       We’ve had a great experience with BrightPath Hermitage Child Care Centre. Everyone there has been wonderful, and it’s clear they genuinely care about the kids. The food is great, and I really appreciate all the effort that goes into kid's activities and outside time. They’ve also been very supportive of individual needs. My son loves going to school here, and we’re very grateful for the care and attention he receives.
-  - name: "Maureen W"
-    rating: 5
-    date: "2026-06-03"
-    comment: |
-      Our experience at BrightPath has been incredible since day 1. We are so grateful for all the teachers who have had such a great impact on our kids lives. We also appreciate the prompt communication and the meals provided. Would definitely recommend.
 ---

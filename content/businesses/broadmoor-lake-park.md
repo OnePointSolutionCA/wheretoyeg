@@ -24,7 +24,7 @@ photos:
   - "/photos/broadmoor-lake-park-g1.jpg"
   - "/photos/broadmoor-lake-park-g2.jpg"
 rating: 4.7
-review_count: 2159
+review_count: 2166
 amenities:
   - "Family Friendly"
   - "Wheelchair Accessible"
@@ -34,22 +34,18 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Briie"
     rating: 5
-    date: "2026-09-01"
     comment: |
       Great place to spend time outside. Very clean, very convenient. Lots for kids to do. Lots of space to sit or picnic. Mini donut truck here was a happy bonus. Will most definitely be coming back
-  - name: "Sabrina Allen"
-    rating: 4
-    date: "2026-06-23"
-    comment: |
-      This park has everything- multiple play structures, slides, a variety of swings (including an accessible one), picnic tables and benches for the adults, sand pits and a water park. It’s nicely situated right by a pond that frequents Canadian geese. The only reason I’m giving 4 stars is that the litter is really bad. There is a food truck with various snacks, which is great, but unfortunately brings a lot of rubbish that ends up on the ground. Other than that, this is probably a top 5 park in the Edmonton/Sherwood Park area.
   - name: "Angela Grandbois"
     rating: 5
-    date: "2026-07-23"
     comment: |
       First time here, fantastic place for families! There are plenty of picnic tables close to the park to be able to watch your kids have alot of fun. There is a spray park that shut down at 8pm, the regular park with a huge spiderweb climbing into a bird house on top. The kids get mostly dried off playing there before going home for a good rest! There are benches placed around the lake along with a paved walking path all the way around.  Plenty of grassy areas for picnics, and there is a housed in area available for private functions.  It has 6 picnic tables, a huge fireplace, you have to bring your own wood and food, there is a sink for rinsing utensils or washing hands.  The parking was decent considering how many families were there.
+  - name: "Sabrina Allen"
+    rating: 4
+    comment: |
+      This park has everything- multiple play structures, slides, a variety of swings (including an accessible one), picnic tables and benches for the adults, sand pits and a water park. It’s nicely situated right by a pond that frequents Canadian geese. The only reason I’m giving 4 stars is that the litter is really bad. There is a food truck with various snacks, which is great, but unfortunately brings a lot of rubbish that ends up on the ground. Other than that, this is probably a top 5 park in the Edmonton/Sherwood Park area.
   - name: "David Bricker"
     rating: 5
-    date: "2025-09-17"
     comment: |
       My kids love to explore all of the parks and playgrounds in every area we go.
       
@@ -60,9 +56,8 @@ reviews:
       The food truck serves donuts, hot dogs, coffee, ice cream, and so one.
       
       The lake beside is very nice to walk.
-  - name: "Leah Panagabko"
+  - name: "Hanan S"
     rating: 5
-    date: "2026-05-14"
     comment: |
-      Good park for picnics and to have family outings. Very beautiful here 😍
+      Kids LOVE this park. We could spend all day here and they wouldn’t get bored. Lots and lots of seating, picnic tables and a really beautiful pond to walk around.
 ---

@@ -24,46 +24,43 @@ photos:
   - "/photos/brij-rathi-consultancy-ltd-g1.jpg"
   - "/photos/brij-rathi-consultancy-ltd-g2.jpg"
 rating: 4.9
-review_count: 956
+review_count: 958
 amenities: []
 tags: ["edmonton", "immigration"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Chitharu Mihiran Abeywardene"
+  - name: "Mohit Dabral"
     rating: 5
-    date: "2026-03-05"
     comment: |
-      I am extremely happy to share that my work permit has been approved!
-      
-      A sincere thank you to Brij Rathi Consultancy Ltd. for the excellent guidance and support throughout the entire process. The team was professional, knowledgeable, and always ready to answer my questions with patience and clarity.
-      
-      Everything was handled smoothly and efficiently, and I truly appreciate the transparency and dedication from start to finish.
-      
-      I highly recommend their services to anyone looking for reliable and trustworthy immigration assistance. Thank you again for helping me achieve this important milestone!
-  - name: "Dharani Kumar"
+      Honestly, I had a wonderful experience with Brij Rathi Consultancy.
+      A big thank you to Simran Ma’am ⭐⭐⭐⭐⭐ for her excellent and super-fast work and to Ruby Ma’am ⭐⭐⭐⭐⭐ for her constant guidance, patience, and support throughout the entire process. They were always there to help, clear doubts,.
+      I truly appreciate the time and effort they put into my case. It really means a lot to have people who genuinely care about their clients and take their work seriously.
+      Thank you to the entire team for all your help and support! ❤️ Highly recommended!
+  - name: "Rajat Chaudhary"
     rating: 5
-    date: "2026-07-15"
     comment: |
-      I would like to sincerely thank Brij Rathi Consultancy Ltd. for their excellent support and guidance throughout my Canada work permit process.
+      I had a great experience with simran mam and brij sir. The team was professional, knowledgeable, supportive, and always helpful throughout my immigration process. They explained every step clearly, answered my questions patiently, and guided me in the right direction.
       
-      From document preparation to application submission and follow-ups, their team was professional, responsive, and clear in communication. They patiently answered my questions, helped me with clarifications regarding previous visa refusal, financial explanations, and ensured that everything was submitted correctly.
+      I truly appreciate their dedication, transparency, and hard work. Their support made the entire process much easier and less stressful.
       
-      I am happy to share that my work permit has been approved successfully. I truly appreciate their dedication and support during this journey.
-      
-      I highly recommend their services to anyone looking for reliable immigration guidance.
-      
-      Thank you once again!
-  - name: "Spon Jon"
+      I highly recommend their services to anyone looking for reliable and professional immigration guidance. Thank you for all your help and support.
+  - name: "Nitin Bagalkoti"
     rating: 5
-    date: "2026-06-14"
     comment: |
-      I am very happy to share that my work permit was approved on my second application. I truly appreciate the dedication, knowledge, and encouragement provided by the whole team.
-      Thank you to everyone at Brij Rathi Consultancy for helping me achieve this important milestone. I highly recommend their services to anyone seeking immigration or visa assistance.
-  - name: "Namith Manchanayake"
+      I had a really good experience with Brij Rathi Consultancy for my Canadian work visa process. The team was very helpful, professional, and supportive throughout the whole journey. They guided me properly with the documentation and kept me updated at every stage.
+      
+      I’m very happy that my work visa has been approved! A big thank you to the entire team for their support and guidance. Highly recommended! ⭐⭐⭐⭐⭐
+  - name: "Shreya Yonzon"
     rating: 5
-    date: "2026-02-16"
     comment: |
-      It has been an absolute pleasure working with team Brij Rathi, from the very beginning itself handling of inquiries to ending with an offered  service is on point.  The visa and the admin team did their utmost best to gain good results.
-      Thank you very much for your support and guidance.
+      I’m truly grateful to Brijrathi Consultancy for all the support and help they have given me with my work permit.They didn’t just provide a service; they made me feel supported and guided. Their patience, kindness, and willingness to help mean a lot to me. It’s not easy to find people who genuinely care about helping others, and I’m thankful to have had such a positive experience with them. Thank you for making things easier for me and for being there when I needed your guidance. I wholeheartedly recommend them to anyone looking for not just professional service, but also a team that truly cares. Thankyou for making the Canadian dream possible for all the aspiring people❤️
+  - name: "Sushma Shrestha"
+    rating: 5
+    comment: |
+      SO EXCITED😊🥰🥰
+      
+      I applied for Canada for work permit visa from Brij Rathi Consultancy and finally I got it and my dream comes true with the help of Brij Rathi Consultancy. It took little long time and patiently waited but they are very genuine and worked it out. Thanks a lot to all teams and specially I would like to thank to Simranpreet Kaur for her amazing assistance and Amreet Kaur.
+      Trustworthy, Helpful and Generous, so believe on them they will definitely make your dreams come true to work in Canada. Highly Recommended
+      Happy Candidate- Sushma Shrestha
 ---

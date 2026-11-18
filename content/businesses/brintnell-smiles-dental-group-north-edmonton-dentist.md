@@ -24,39 +24,43 @@ photos:
   - "/photos/brintnell-smiles-dental-group-north-edmonton-dentist-g1.jpg"
   - "/photos/brintnell-smiles-dental-group-north-edmonton-dentist-g2.jpg"
 rating: 4.8
-review_count: 797
+review_count: 819
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "orthodontists"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Maria Samantha Lopez de Leon"
+    rating: 5
+    comment: |
+      I had a wonderful experience at Brintnell Smiles Dental Group during my dental cleaning appointment on November 10, 2026. I would especially like to give a special shout-out to Angel, my dental hygienist, for doing such an amazing job! Angel was absolutely fantastic! She was gentle, caring, friendly, patient, and very knowledgeable. She made me feel comfortable throughout the entire appointment and demonstrated exceptional attention to detail. She was very thorough and made sure that every tooth received the attention it needed. One thing I particularly appreciated was that she carefully polished all my teeth and applied fluoride to every tooth. This was something I genuinely appreciated, as my previous experiences typically involved fluoride being applied only to the front teeth. Her thoroughness and commitment to providing comprehensive care really stood out. What makes Angel exceptional is not only her knowledge and skills but also her genuine care for her patients. She clearly takes pride in her work and goes the extra mile to ensure her patients receive excellent service. I left my appointment feeling very satisfied and happy with the care I received. Angel is truly an asset to the Brintnell Smiles Dental Group team, and I hope her outstanding work and dedication are recognized and appreciated. Thank you, Angel, for making my dental cleaning such a pleasant experience! I highly recommend Brintnell Smiles Dental Group to anyone looking for a friendly, professional, gentle, and thorough dental care team. I look forward to my next visit!
+  - name: "Kayla Grace"
+    rating: 5
+    comment: |
+      Above and beyond. Courteous. Friendly. Caring. Safe. These are a few words that I have for Brintnell Smiles Dental Group. I am so beyond pleased with how I was treated and taken care of when I walked into this dentist office! Greeted by a very friendly front desk and then blessed with a phenomenal team in the chair! The assistants and the doctor were professional, honest and went above and beyond for me and I am so happy with the results. For some the dentist may be scary and worrisome but fear no more these kind and attentive dentist and assistants make your visit pleasurable and easy. Look no further, they are accepting new patients and I guarantee you will leave with a smile! Thank you to everyone at the dentist who made my experience worth while and coming back and telling everyone about how great you guys are!
+  - name: "David Komadowski"
+    rating: 5
+    comment: |
+      The folks here are the best I’ve ever experienced- and it’s also the first place where the Dental Hygienists don’t try and saw your jaw in half when doing their cleaning and flossing during checkups! Great service and wonderful atmosphere! Definitely my favourite of all dentists I’ve seen!
   - name: "Karen Everett"
     rating: 5
-    date: "2026-08-27"
     comment: |
       I’m usually at the Calgary Trail location and that is the first time I met Dr. Ben Jinn. I had him pull a cracked tooth that I had, as my regular dentist hasn’t the strength to pull them anymore. That’s why I sought him out to pull another highly infected tooth on the other side of my mouth. This brought me to the Brintnell location where he also works. He is SO GOOD at pulling teeth. Very calm, pleasant and explains everything throughout the process. I can say, at least as far as pulling teeth, this man knows what he is doing! I would DEFINITELY seek him out again if my regular dentist was unavailable. Now, the dental assistants and behind the desk staff? Top notch! Everyone took such good care of me there and are so very pleasant. Thank you everyone! And special thank you to Dr. Ben!!
-  - name: "Alford Henry"
-    rating: 5
-    date: "2026-07-26"
+  - name: "Matthew Minchau"
+    rating: 1
     comment: |
-      A visit to the dentist is not often a pleasurable experience, however my vist to Smiles Dental was absolutely flawless. From the receptionist to the dental hygenist was reassuring and calming. I was really impressed at how Daniel did his job. The interaction during and after the procedure was totally professional, the info shared on the current situation and the way to fix the issues were transparent. Thanks Smiles..
-  - name: "Jing Yu"
-    rating: 5
-    date: "2026-08-20"
-    comment: |
-      First time here after fracturing a tooth, and I was really impressed! The clinic is very clean, organized, and much bigger than I expected. Dr. Li and Dr. Ma were both very professional and made the whole extraction and implant process painless. The hygienist was also very gentle. Highly recommend 32 Dental!
-  - name: "Hanan Ferri"
-    rating: 5
-    date: "2026-05-17"
-    comment: |
-      I highly recommend this dentist! The smiles dental group _ Brintnell team ⭐⭐⭐⭐⭐
-      He is extremely skilled, professional, and truly knows how to make his patients feel comfortable. My son was a bit nervous at first, but the doctor was so kind, patient, and gentle with him. He explained everything in a simple and reassuring way, which made the whole experience stress-free for both of us.
+      Very disappointed with my experience at Smiles Dental in Britnell.
       
-      We are very grateful for the excellent care and will definitely continue visiting him. Thank you for such outstanding service!
-  - name: "kylie gapuz"
-    rating: 5
-    date: "2026-06-14"
-    comment: |
-      im happy i found brintell dental! from reception to the asst to dentist/dr, i would always have a great snd pleasent greetings from them. receptionist are nice and welcoming! the assts are all very nice too they make you comfortable. huge shoutout to all the dentist. i had dr lam, and dr jinn for cleaning and fill, also another female dr that attends this office who continued but i forgot her name :( i also had 3 wisdom tooth removed by dr tan! I FELT GREAT AFTER THE PROCEDURE THO DROWSY. BUT WITHIN THE NEXT FEW HRS I FELT OK. PAIN IS RANGING FROM 2-5 out of 10!!dr tan made sure im okay, listened to me, and made me comfortable. truely amazing! very glad and happy i found the perfect dental office for me. 👏🏻💗
+      There are several reasons I’m disappointed with the service I’ve received.
+      
+      First, at my last cleaning appointment, my hygienist was changed to a temporary hygienist without any prior notification. The hygienist appeared to have significantly less experience, and the cleaning was noticeably more uncomfortable than my previous visits.
+      
+      Second, I’ve experienced tooth discomfort following dental work performed at this clinic. At my last appointment, I asked about having the issue looked at, but no dentist was available to assess it. Instead, I was told to wait until my next appointment in six months, which I found frustrating given that the discomfort followed treatment performed at the clinic.
+      
+      Finally, I showed up for my next scheduled appointment, only to be told it had been rescheduled because I had confirmed my attendance once but had not confirmed it a second time. As a result, my appointment slot had been given away, and I was unable to receive the care I had scheduled.
+      
+      Taken together, these experiences have left me feeling that the quality of care, communication, and customer service have fallen short of expectations. I understand that schedules can change, but I expect better communication and a reasonable effort to address concerns following dental work.
+      
+      Unfortunately, I’ve lost confidence in this clinic and will be finding another dental provider. I would not recommend Smiles Dental in Britnell based on my experience.
 ---

@@ -24,36 +24,34 @@ photos:
   - "/photos/brentwood-chiropractic-clinic-g1.jpg"
   - "/photos/brentwood-chiropractic-clinic-g2.jpg"
 rating: 4.9
-review_count: 230
+review_count: 236
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "chiropractors"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Laura Brown"
+    rating: 5
+    comment: |
+      I've been a client of Brentwood for about a year now. I love that I can take care of multiple appointments in one day. Nadine is the onsite therapist and she's walked me through some pretty incredible breakthroughs.  After therapy I like to go for a massage now because, why not!?  Nick is an excellent massage therapist.  I've even been seeing Dr. B for chiro.  I've never tried chiro before and was a little nervous but for the first time in my life I finally feel some relief from that pesty knot between my shoulder blades.  Thank you Dr Breckenridge!
+  - name: "Michelle Wadsworth"
+    rating: 5
+    comment: |
+      Lisa is top notch with her pelvic floor physiotherapy. By far. One of the best I've ever been to. Very knowledgeable. Also, the staff at the front are very friendly and helpful.
+  - name: "tracy cook"
+    rating: 5
+    comment: |
+      I would like to share a quick little story. I’ve been suffering with some sort of pain for over a year. See another chiropractor seeing doctors was on muscle relaxers couldn’t take a big breath in doctor said it was from an old injury of a fracture.
+      
+      See Dr. Craig And after one treatment, I was able to take a big breath for the first time in almost a year
+      I even went to a long specialist. They told me I had some lung disease but couldn’t tell me what kind of lung disease spent six weeks going there doing breathing and exercises but one treatment at Brentwood and I can take a big breath for the first time I recommend this place. The service is amazing the Ladies at work at the front desk are absolutely wonderful and I can’t wait to go back for my third treatment
   - name: "David Pawlyna"
     rating: 5
-    date: "2026-08-05"
     comment: |
       Great service. Dr. K. Smart give you personable service, listens, and spend a little more time with you and his staff are friendly and competent. Had a massage there too, and it was good.  I have been a client there for 20 years now, first with Roger, then Craig and now Kyle, nothing bad to say about any of them.  Thanks for the care and pain relief.
-  - name: "Catherine Stewart"
+  - name: "kyle jackson"
     rating: 5
-    date: "2026-04-22"
     comment: |
-      I would recommend Dr Kyle Smart to anyone who is apprehensive about seeing a chiropractor. He was recommended to me by a friend, but I was very hesitant to see a chiropractor based on the horror stories I’ve heard from family and friends. Eventually, the pain and stiffness I was experiencing was too great and I booked an appointment out of desperation. Dr Smart was very understanding when I explained my hesitation and the fear he would crack my neck incorrectly leaving me in more pain or paralyzed (chiropractors are quacks, right?!). He explained his process and we came up with a plan that didn’t involve anything I was uncomfortable with. The treatment is very similar to physiotherapy - applying pressure to certain points while moving the affected areas to release tension/muscles/pinched nerves, etc but done is only 15 minutes. He is very calm, professional and reassuring and does not care when a long string of swears come out my mouth when he applies pressure to a particularly sore point! In clinic treatment is coupled with “homework” – stretches and strength training to prevent further injury which he went over with me so that I was doing the movements correctly. He also has a youtube channel that goes over all stretches which is very helpful for when you forget what you’re supposed to be doing. He has changed my mind on (some) chiropractors and has helped my back and hips move properly again and without any pain. Don’t let his youthful appearance or charming smile fool you- he’s smarter than he looks!
-  - name: "Jessica Parchoma"
-    rating: 5
-    date: "2026-05-25"
-    comment: |
-      Dr Joanna Galasso is the absolute kindest human and the most thorough chiropractor I’ve ever seen! She sees me and my infant son and her client care is a 10/10. Would highly recommend her !
-  - name: "Lauren Sorokin"
-    rating: 5
-    date: "2026-05-06"
-    comment: |
-      I just brought my 7 year old to see Dr. Galasso and in the words of my 7 year old: “ She was AMAZING! I loved her”. I have been going to Dr. Galasso for years and I’m so glad that my children are now seeing her also! She was patient, kind, and thorough; she  explained everything in child-friendly ways and answered all of her questions!
-  - name: "Adam Bautista"
-    rating: 5
-    date: "2026-03-24"
-    comment: |
-      Dr. Kyle Smart helped me with a foot issue I had been dealing with for years. Although I had seen other people before, he was the first to truly listen to my concerns and identify the root cause of the recurring problem. Thanks to his care, the issue has finally resolved. I highly recommend Dr. Smart to anyone looking for thoughtful and effective treatment
+      Dr kyle helped me fix my lower back that thrown out fixing my garage door. He was very knowledgeable, listened to me and explained what the healing process would look like. Great chiropractor
 ---

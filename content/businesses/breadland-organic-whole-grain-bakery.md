@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/breadland-organic-whole-grain-bakery-1.jpg", "/photos/breadland-organic-whole-grain-bakery-2.jpg", "/photos/breadland-organic-whole-grain-bakery-3.jpg"]
 rating: 4.6
-review_count: 284
+review_count: 289
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -30,31 +30,35 @@ tags: ["edmonton", "artisan-bread"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Larissa H"
-    rating: 5
+  - name: "Nic Li"
+    rating: 2
     comment: |
-      Had to try it, so glad I did! I ordered: iced americano, cinnamon bun, chocolate croissant. Phenomenal! I prefer cinnamon buns without icing so these are fantastic, was still warm :) Will have to return to try a loaf of bread.
+      Was super excited to try out this place. MY GOD IS THIS PLACE DISAPPOINTING.
+      
+      Had a sourdough loaf from Kobs Bakery a few weeks ago that made me realize there was better bread out there than what was at the grocery store. We ordered sourdough and a twisted chocolate loaf. Also croissants (plain, chocolate, and cheese) and a guava pastry.  The guava pastry was okay. The croissants and breads all lacked flavour. The croissants and chocolatines at Costco were more buttery and flavourful than those at Breadland, although the Breadland variants were crispier, so I’ll give them that. The loaves were incredibly disappointing. The sourdough may as well be white bread. It’s not sour nor does it have “tang for days” as Charles Boyle would put it. No, it had tang for miliseconds and you would second guess if you eating an $8 loaf or just wonderbread. The chocolate twisted loaf is dry and muted in its flavour.
+      
+      I was so excited to come here. It let me down. You’d think a local store would do a better job than a chain bakery like Kobs. Nope. We regret buying $30 of bread and wish there were reviews to tell us differently.
+      
+      I genuinely think the bread belongs alongside that of the bread at Safeway a few blocks away.  Don’t recommend this place even though I had friends who worked here. Sorry :(
+      
+      We also genuinely are debating on throwing out the chocolate loaf. It’s so dry and flavourless.
   - name: "Alborz"
     rating: 4
     comment: |
       Hospitable and cozy environment. The staff are polite and helpful. The interior design is mostly made of wood and warm colors, they have string lights with a yellow hue hanging as well. The cafe is mostly looking for a cozy bakery café cliché. I enjoy going for pickup orders or planning an outing with a friend to catch and talk in slow paced calm environment.
       
       If you are ever in the neighborhood be sure to give them a try. I do like the pastry variety and it seems like they have added some interesting cheese to buy as well.
-  - name: "Carlos Rosa"
+  - name: "Larissa H"
     rating: 5
     comment: |
-      This place is amazing, immaculate clean, service is amazing and food and drinks, I doubt it will be a better place.
-      The bread is amazing and because the use organic flour and a sourdough slow fermentation process, not only eliminate the glutem problems, but also makes the bread and absolute nutritious food.
-      First time there with the family, but will certainly return 😃
-  - name: "Martin Ly"
-    rating: 4
-    comment: |
-      First time coming, got a drink and snack. It was late afternoon, so I think most of the stuff was already sold out.
-      
-      The croissant was flaky and well balanced. The latte was good. Although I think of you  a fan of sweeter latte, you may not like the latte here without extra sugar. The coffee flavour was nice however. Just the right amount of bitter for me.  They also have oat milk as alternative for lactose intolerance.
+      Had to try it, so glad I did! I ordered: iced americano, cinnamon bun, chocolate croissant. Phenomenal! I prefer cinnamon buns without icing so these are fantastic, was still warm :) Will have to return to try a loaf of bread.
   - name: "Dasha M"
     rating: 5
     comment: |
       The best pastries I’ve ever tried. Not too sweet and satisfy the craving!
       The atmosphere is cozy and nice.
+  - name: "Makayla"
+    rating: 5
+    comment: |
+      I cant believe ive never noticed this place! What a delightful little bakery! Pastry was delicious! Atmosphere is inviting and warm. Very cozy.
 ---
