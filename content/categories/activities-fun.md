@@ -18,6 +18,7 @@ active: true
 guides:
   - { label: "Christmas lights in Edmonton", href: "/blog/christmas-lights-edmonton-2026" }
   - { label: "Winter things to do", href: "/blog/winter-things-to-do-edmonton-2026" }
+  - { label: "New Year's Eve in Edmonton", href: "/blog/new-years-eve-edmonton-2026" }
 subcategories:
   - { name: "Climbing Gyms", slug: "climbing" }
   - { name: "Padel & Racquet", slug: "padel" }

@@ -4,7 +4,6 @@ seoTitle: "New Year's Eve Edmonton 2026: Family Events & Fireworks"
 slug: "new-years-eve-edmonton-2026"
 description: "Family friendly New Year's Eve 2026 in Edmonton: Sherwood Park's free festival and 8 PM fireworks, the World Waterpark party, downtown fireworks and skating."
 publishedDate: "2026-11-18"
-draft: true
 tags: ["new years eve", "holiday", "fireworks", "winter", "activities", "families", "guides"]
 ---
 
@@ -12,7 +11,7 @@ For a family New Year's Eve in Edmonton in 2026, the surest bet is Strathcona Co
 
 The City of Edmonton's downtown festival and fireworks at Churchill Square is on the City's website, but its 2026 times were not posted yet when we checked.
 
-Every detail below comes from the organizer's own website, checked on November 9, 2026. Where a 2026 date or time was not posted yet, we say so instead of guessing. This list is family friendly: we left out anything at bars, lounges or adult only parties.
+Every detail below comes from the organizer's own website, checked on November 18, 2026. Where a 2026 date or time was not posted yet, we say so instead of guessing. This list is family friendly: we left out anything at bars, lounges or adult only parties.
 
 ## New Year's Eve 2026 in and around Edmonton at a glance
 
@@ -34,7 +33,7 @@ Strathcona County's [New Year's Festival](https://strathcona.ca/recreation-event
 
 The fireworks start at **8 PM over Broadmoor Lake Park**. If you watch from your car, tune to 107.5 FM for the music that goes with the show. An accessible amenities map on the county's page shows earplugs for sensory needs, first aid, washrooms and accessible routes.
 
-**Getting there:** Strathcona County Transit runs a free Park 'N Ride from Bethel Transit Terminal (650 Bethel Drive) starting at 5:30 PM, every 15 minutes, with the last bus back leaving Festival Place at 8:45 PM.
+**Getting there:** Strathcona County Transit runs a free Park 'N Ride from Bethel Transit Terminal (650 Bethel Drive) starting at 5:30 PM, every 15 minutes, with the last bus back leaving Festival Place at 8:45 PM. If you drive, Festival Way is closed to traffic from 5:30 to 8:30 PM, and Oak Street, Sunset Place and Park Lane are residential parking only during those hours.
 
 The 8 PM fireworks make this the easiest one for younger kids who will not make it to midnight.
 
@@ -44,7 +43,7 @@ The 8 PM fireworks make this the easiest one for younger kids who will not make 
 
 ## Are there New Year's Eve fireworks in downtown Edmonton?
 
-Yes, the City of Edmonton's website invites families to its [New Year's Eve Downtown Festival and Fireworks](https://www.edmonton.ca/attractions_events/schedule_festivals_events/new-years-eve) at Sir Winston Churchill Square. As of November 9, 2026, the City's page did not list the 2026 schedule or fireworks times yet. We will update this guide when the City posts them.
+Yes, the City of Edmonton's website invites families to its [New Year's Eve Downtown Festival and Fireworks](https://www.edmonton.ca/attractions_events/schedule_festivals_events/new-years-eve) at Sir Winston Churchill Square. As of November 18, 2026, the City's page did not list the 2026 schedule or fireworks times yet. We will update this guide when the City posts them.
 
 ## Does St. Albert have New Year's Eve fireworks?
 
