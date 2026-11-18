@@ -24,40 +24,44 @@ photos:
   - "/photos/brintnell-veterinary-hospital-g1.jpg"
   - "/photos/brintnell-veterinary-hospital-g2.jpg"
 rating: 4.7
-review_count: 319
+review_count: 322
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "veterinarians"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Jenny C"
+  - name: "Delaney Solic"
     rating: 5
-    date: "2026-05-09"
     comment: |
-      My vet is retiring so we had to switch offices, and we had such a wonderful first experience bringing our dog here. The staff and atmosphere was all very friendly and welcoming. Dr.Tracy Ho was so thorough and attentive, and explained everything with patience. Nick the tech did an awesome job too. Could tell everyone at Brintnell vet are true animal lovers. Strongly recommend!
-  - name: "Nelson Ortiz"
+      I cannot say enough good things about Dr. Fredlund and her team of amazing people. We switched to this clinic around 6 months ago as it was closer to home for us and we couldn’t have chosen a better vet.
+      
+      Our newly adopted rescue dog has had some complicated issues over the past few months and Brintnell has truly been a godsend to us.
+      
+      This crew is knowledgeable, compassionate, and patient. They are so gentle and aware of each pet’s individual needs. My dog is so comfortable here that she never wants to leave after her appointments. I always feel heard and never rushed when I come here. They answer all my questions and give me confidence that I am doing everything I can to keep my pup happy and healthy.
+      
+      Thank you Brintnell Vet staff for all you do. Your support and hard work does not go unnoticed. We are so grateful for you!
+      
+      Tailwags and kisses,
+      
+      Daisy, and her mom.
+  - name: "Chantel Cushing"
     rating: 5
-    date: "2026-05-27"
     comment: |
-      These guys deserve 10 stars.
-      Dr. Carlson, Michelle and Nick were AMAZING with my anxious 120lbs Doggo Argentino. They truly know how to deal with anxious dogs!! Both my wife, Jax and I truly thank everyone at this vet for making us feel at ease while at the vet. We had a skin tag removed on Jax and it went flawlessly. Again thank you so much Brintnell Veterinary Hospital!
-  - name: "Cindy Collin"
-    rating: 5
-    date: "2026-01-17"
-    comment: |
-      Wonderful and caring staff. We have 4 animals that we bring there and have always felt they truly cared for each of them.
-      Also, I appreciate the no fear policy. I have a very anxious older dog and the in the anxiety medication that they gave us helps appointments to go well.
+      Although my first visit was under heartbreaking circumstances, as I had to say goodbye to my cat, I couldnt have asked for a more compassionate and caring team. Every staff member was incredibly kind, empathetic and supportive. They made an incredibly difficult experience feel a little less painful and I'll forever be grateful for the care they showed us. If you are looking for a great vet - look no further. 10/10 - I cant recommend this hospital enough. Thank you.
   - name: "Candice Bird"
     rating: 5
-    date: "2025-05-02"
     comment: |
       I am so truly glad that I transferred my pets over to this clinic. They are so kind,  gentle, and knowledgeable. They answered the long list of questions I had about my old kitties' dental surgery and walked me through step by step. They also called and updated me during the process and sent me pictures of him when he was in recovery ( see attached), so I was in the know about how he was doing the whole time.
       
       My first experience  at this clinic was both sad but also a very good experience overall. I had to put my other kitty down, but they were able to get me in fairly quickly and again walked me through the process. They also gave me time with her both before and let me stay as long  after as I needed. They explained where her ashes would be scattered and the whole process that would happen after. They were very understanding and caring. If you are looking for a vet or a new vet, I HIGHLY recommend Brintnell Vet hospital. They are amazing.
-  - name: "Katelynn Turner"
+  - name: "M B"
     rating: 5
-    date: "2026-05-07"
     comment: |
-      Today was/is an insanely hard day for us, but the staff here made it much easier. Unfortunately we had to put our cat down after many tiring months of watching him slowly decline for the worst. Today marks the day where my heart is broken but somewhere in that I have peace & closure due to Colbeys & Dr. Fredlunds help. This clinic is and forever will be my go too. Jessica at the front is always so welcoming, supportive, helpful, informative & overall just wonderful. Dr. Carlson & Dr Fredlund are beyond amazing and truly make your sad days feel much lighter while also staying professional but caring. I would also like to mention Britney’s care to detail, and support while we are going through such a difficult time. Britney answered all my questions about euthanasia, helped me prepare, & made sure all the information was correct for my peartree clay mold of my babies paws. I’ve been going here since 2024, with all my cats and I’ll continue to come here with my last cat. I can’t say thank you enough. I can’t express my gratitude enough for this clinic and the people who dedicate their lives  to work in a place that can carry so much guilt. Although today was very hard, very difficult and I struggled to keep it together, Dr. Fredlund found a way to have both my husband and I giggling and smiling through the process. She also answered all my questions, walked me through the steps and told me what to expect before it all happened. They allowed me to take my time with my baby, and let me hold him during the whole process as well. This Clinc is full of love & people who show up to make sure your animals are taken care of. If there’s 1 thing I can suggest, it’s to come here and trust me, your animal(s) will for sure be treated well and taken care of.
+      Dr. Fredlund is truly an amazing human being, her and the staff are super accommodating and friendly.  Ive brought all three of my babies here and they got the best care.
+      10/10 recommend to everyone i meet who has a fur baby
+  - name: "K Cowie"
+    rating: 5
+    comment: |
+      They were great at accommodating my sweet pup, Rosemary, on short notice. Dr. Jesse was so great with Rosie; she was very calm and took Rosie's lead. She was upfront about what she was seeing and walking me through her differential diagnoses. She even provided me with a rough estimate of possible diagnostics that may be needed if the problem doesn't resolve. I'm very happy with the compassionate care that my baby received here 🥰
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "8:00 AM–10:00 PM"
 photos: ["/photos/boulders-climbing-1.jpg", "/photos/boulders-climbing-2.jpg", "/photos/boulders-climbing-3.jpg"]
 rating: 4.8
-review_count: 774
+review_count: 780
 price_range: "$$"
 amenities:
 
@@ -28,12 +28,6 @@ tags: ["edmonton", "climbing"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Meeca"
-    rating: 5
-    comment: |
-      I absolutely love this gym and its other branches. As an introvert, it's the perfect place to just zone out, climb, and monkey around at my own pace. The atmosphere is fantastic, the staff is incredibly friendly, and the community is incredibly cool and welcoming. Having a cafe on-site to chill at is the perfect bonus. If you've been thinking about trying bouldering, definitely check this place out!
-      
-      Plus, if you decide to become a member, you get a discount on the shoes they sell, which makes it totally worth it.
   - name: "Mr Payment"
     rating: 5
     comment: |
@@ -43,18 +37,30 @@ reviews:
       Oh ya ; I was hungry so snuck to the Cafe quick and the best and only substance was a egg sandwich , so kinda limited but damn that was delicious.
       
       Looking  foward to trying this again and again
-  - name: "Martin Sawicki"
+  - name: "Nooran Ostadeian"
     rating: 5
     comment: |
-      I've been a member for at least two years now, probably longer, so that's my bias. This also applies to Factory and Niche, as I have access to all three locations with my membership. Not an expert climber by any means, but the variety given by all three locations means you'll enjoy yourself no matter how hard you want to push yourself. Staff are always friendly, and the other climbers (and their pets) are always a pleasure to climb with. Be sure to check out the dirt bag cafe at the boulders location, a great selection of drinks and snacks. Can't recommend these locations enough :)
+      Here’s a natural version that makes the discovery part of your real estate day:
+      
+      What a great accidental discovery! I was in the area for a commercial real estate appointment and badly needed a coffee beforehand. I followed my GPS to the coffee shop inside, grabbed my coffee, and while looking for the washroom, I discovered this amazing climbing gym at the back of the building.
+      
+      I had no idea it was there! The space is impressive, with all the climbing walls and equipment, and so many young people climbing and enjoying themselves. I didn’t participate—I was just a curious spectator—but it was honestly so much fun to watch.
+      
+      What a great setup, especially with the coffee shop right there and the location so close to MacEwan University. I love accidentally discovering places like this while driving around Edmonton for work. It reminds me how many interesting businesses, activities & hidden gems our city has to offer.
+      
+      Definitely a place worth knowing about, even if, like me, you’re only climbing your way through a cup of coffee!
+  - name: "Meeca"
+    rating: 5
+    comment: |
+      I absolutely love this gym and its other branches. As an introvert, it's the perfect place to just zone out, climb, and monkey around at my own pace. The atmosphere is fantastic, the staff is incredibly friendly, and the community is incredibly cool and welcoming. Having a cafe on-site to chill at is the perfect bonus. If you've been thinking about trying bouldering, definitely check this place out!
+      
+      Plus, if you decide to become a member, you get a discount on the shoes they sell, which makes it totally worth it.
   - name: "CY Siu"
     rating: 5
     comment: |
       Pretty awesome climbing gym - large space, variety of levels, top end gym equipment and space + friendly staff. There is also a cafe on site as well. Enjoyed the setting as well as the layout of the gym overall. Would recommend making a visit here if you're in town. Clean space and clean air as well (not chalky/dusty).
-  - name: "Marcus Trevelyan"
-    rating: 4
+  - name: "Talon Kruger"
+    rating: 5
     comment: |
-      Only been to factory climbing before; comparatively it’s decent but the wall slopes vary a lot more. Bathrooms lack a closed off change room area, but they have a cool foot shower that I now know I need in my house.
-      
-      Good luck finding free parking, best spots are beside the dumpsters or around the back alley (plz park close together and not like a goober).
+      I’ve been climbing here consistently for over a year. Great route-setting, friendly staff and overall good vibes with the fellow gym members. Would highly recommend Boulders to anyone. The cafe breakfast sandwich is fantastic too.
 ---

@@ -23,8 +23,8 @@ hours:
 photos:
   - "/photos/brio-bakery-g1.jpg"
   - "/photos/brio-bakery-g2.jpg"
-rating: 4.7
-review_count: 373
+rating: 4.8
+review_count: 380
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -36,7 +36,6 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Caroline Ecoutin"
     rating: 5
-    date: "2026-02-15"
     comment: |
       ​I wish I could tell the whole world how incredible this place is. Reading some of the negative comments here, it’s clear that some people expect to be treated like royalty and get offended by the slightest wait.
       ​Brio is a neighborhood gem, not a fast-food joint. When you see the line wrapping around the block on a Saturday, you shouldn't complain that service is 'slow.' It’s measured and intentional because the team insists on giving every single customer the same care and attention. That dedication to quality deserves our patience and respect, not complaints.
@@ -44,28 +43,22 @@ reviews:
       ​Regarding the service: it is professional and efficient. I see people upset that the baristas didn't stop for a long chat, but let’s be real—are you here for world-class bread or a social hour? They are working hard to serve a massive crowd. If you want the best baked goods in town, this is the place. If you want a red carpet and a 20-minute conversation while a line waits behind you, go elsewhere. Brio is about the craft, and the craft is perfect.
   - name: "Karen Dron"
     rating: 5
-    date: "2026-05-25"
     comment: |
       What is this amazing little spot?! Had the snow fog latte plus a savoury AND a sweet pastry. We ended up taking a loaf of rye sourdough bread home which was possibly some of the best I've had. Can't wait to go back and enjoy the neighbourhood and sightseeing. Glad we stopped in.
-  - name: "Ray McCubbing"
+  - name: "Karl Sacca"
     rating: 5
-    date: "2026-07-02"
     comment: |
-      One of the best bakeries in the city. Excellent cinnamon buns not smothered in cream cheese and sugar, a true traditional bun with excellent cinnamon flavour and great texture. The baguettes are near perfect, the right amount of crust and oh so flavourful. All sourdough is also traditional sourdough, no yeast, great chew and excellent taste.
-  - name: "nadchen"
+      I usually go out there just for their baguelles (bagels), baguettes, pain au chocolat, and iced latte. Every Friday same order. Today I tried the ham and cheese croissant and am still thinking about it. It was AMAZING!!! Shoutout to the best bakery in the city and to Tori and her other coworkers who know how to have conversations with their customers!!!
+  - name: "Alison Do"
     rating: 5
-    date: "2023-12-11"
     comment: |
-      All the pastries we got were so delicious and the vanilla latte was great as well. We got the Lemon Curd Cruffin (croissant muffin!), Pain au Chocolat, and Monkey Bread which looked like some type of cinnamon bread.
-      
-      The Lemon Curd Cruffin was absolutely delightful. The lemon curd filling was not too sweet and tasty. There was a generous amount of filling within the pastry itself which I liked. I loved taking a bite of the cruffin and seeing more filling for the next bite. It was honestly perfect. The cruffin concept is genius (*chef's kiss*). The Pain au Chocolat was great as well. The pastry was quite large, flaky, and overall had a great texture.
-      
-      My latte was great too. It was very smooth. Service was timely and the lady who took our orders was nice. We came at a really good time because after we ordered and got our pastries, there was a line out the door.
-      
-      Overall we had a great time and the Lemon Curd cruffins were so memorable. I look forward to the next time I'll be back :)
-  - name: "Jennifer Ihebunachi"
+      As a French person (from France), I'm SO glad to have this place around. The pains au chocolat taste like what you would eat in France. Can't wait to try other pastries as well. Of course I can't begin to describe how great it is to have fresh real bread... Definitely worth the stop!
+  - name: "Unschooled Society"
     rating: 5
-    date: "2024-06-23"
     comment: |
-      The lemon curd cruffin was so good. Multiple flaky layers and a sweet and tangy filling. I enjoyed it. I'll try them again and maybe try the breads as that seemed like a popular choice with other customers.
+      I mean. The bread is as good as your home made sourdough, I see the organic flour bags and proofing baskets. The bread is superb, so I got over the long lines and short hours because there is no one else making good bread around edmnonton. I appreciate Brio!
+      I definitely prefer to see more of those foccacia slices than sugar pastries, the potato a ham was a dream.
+      The square bread is a nice change but skip the whole wheat one, usually uncooked in center. My favorites are light rye and prairie.
+      Also the organic flour is the reason i am a regular, amazing, now if you can get vital greens organic milk for coffee and unrefined organic sugar I'll be adding a sixth star 🌟.
+      The owner is not the most likable guy and neither are the staff but just ignore it and get the goods 😉
 ---

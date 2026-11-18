@@ -23,17 +23,38 @@ hours:
 photos:
   - "/photos/brite-beginnings-erin-ridge-g1.jpg"
   - "/photos/brite-beginnings-erin-ridge-g2.jpg"
-rating: 4.4
-review_count: 36
+rating: 4.5
+review_count: 35
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "childcare"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Ivanna"
+    rating: 5
+    comment: |
+      We are very happy with our experience at this daycare. Our son has been attending here for several months, and we can truly see how much he has grown and developed during this time.
+      
+      The staff are caring, patient, and attentive to the children’s individual needs. They make an effort to communicate with parents and keep us informed about how our son is doing throughout the day. We especially appreciate how warmly they welcome him in the morning and how much care and attention they give him.
+      
+      As parents, it gives us peace of mind knowing that our child is in a safe, caring, and supportive environment while we are at work.
+      
+      We are very grateful to the teachers and the whole daycare team for everything they do. Thank you for taking such good care of our little one! ❤️
+  - name: "Kara Robertson"
+    rating: 5
+    comment: |
+      My child attended Brite Beginnings for approximately six months before we had to relocate to another province. If it weren’t for the relocation, we would have never left.
+      
+      The facility is clean, welcoming, and provides such a warm environment for children. The director’s communication was exceptional. Whenever minor issues arose, she went above and beyond to address them with professionalism, compassion, and excellent problem-solving skills. She handled my complex personal circumstances with so much grace and understanding, and I truly cannot say enough positive things about her and the team.
+      
+      The curriculum was a wonderful balance of play-based learning and structured activities that kept the children engaged, learning, and having fun. I especially appreciated the informative daily updates, along with the many photos that allowed me to see what my child was up to throughout the day.
+      
+      Most importantly, my child formed a strong bond with all of the educators. They created an environment where my child felt safe, secure, comfortable, and genuinely cared for.
+      
+      Thank you, Brite Beginnings, for providing such a wonderful experience for our family. We are truly grateful for the care, support, and kindness you showed our child. We miss you!
   - name: "Oksana Iako"
     rating: 5
-    date: "2026-08-29"
     comment: |
       ⭐⭐⭐⭐⭐
       
@@ -41,35 +62,12 @@ reviews:
       The teachers here work really hard, they put a lot of support and care about every kid. My son especially loved all the activities and field trips and made so many happy memories there. We also received a lot of happy pictures of our son every day through the daycare app.
       A big thank you to Raiesha, Stuti and the entire staff for taking such great care of our son.
       We highly recommend Brite Beginnings to any family looking for a caring and supportive daycare
-  - name: "Brittany"
+  - name: "Emily Jones"
     rating: 5
-    date: "2026-03-05"
     comment: |
-      Our oldest child has been enrolled at Brite Beginnings since May 2023, starting in the infant 1 room, and our youngest began this year. My husband and I have been so surprised and impressed with how much the kids learn. We didn't know what to expect/realize they didn't just play all day. They follow a curriculum that is provided to the parents, along with a seasonal menu. They're attentive to each child requiring different needs ie: bottles and food sensitivities. I see some families pack their own snacks sometimes simply because their child is in a particular/picky phase - the only ask from the daycare is that it's nut free.
-      
-      Over the years they've been opened, they've expanded capacity and rooms. Their goal is to get the kids outside twice a day - but they created an indoor playground that the ages rotate through in case the weather is bad. Our oldest really enjoys the indoor playground.
-      
-      I'd be lying if I said there has never been a concern while we've attended - however, I do approach the educators when, and the director if, needed. I find the director, especially, to be extremely attentive and takes her role very seriously. There has never been a time that I've worried about the safety of our kids. There have been posts on Facebook in the st Albert mom's group that have discussed staff from a daycare in the Erin Ridge area (mis)handling of children (there are many centres in the area). I've noticed she engages with them to learn more and to determine if she needs to take further action.
-      
-      To comments on staff turnover - this daycare seems to keep quite a few long-term. I've also noticed that they do a good job pulling educators into manager roles, especially since they're opening new locations in St Albert and Edmonton. This location has many kids and windows between classrooms, there are many staffers and parents able to see into other rooms and observe. I think this helps with accountability among workers.
-      
-      I can't speak to the experiences of the families with negative reviews about this daycare, but I can say that I have confidence and trust in the staff to care for my kids.
-  - name: "Denys Bunchak"
+      Finding a place where you trust people with your whole heart to watch your children is tough, but Brite Beginnings exceeds every expectation. Both of our children thrive here, our daughter has been attending for over a year and our son started two months ago. Every teacher and staff member is genuinely fantastic, caring, and dedicated. The days are filled with wonderful learning activities and fun, and both kids come home happy every day. Communication is top-tier; any tiny inconvenience or question we’ve ever had was handled immediately and professionally. We are so grateful for this team!
+  - name: "Scott"
     rating: 5
-    date: "2025-01-22"
     comment: |
-      Fantastic Daycare with Supportive Staff!
-      I couldn’t be happier with my experience at Brite Beginnings. The teachers and management are incredibly supportive, attentive, and genuinely care about the children. They create such a nurturing environment that makes both kids and parents feel at ease.
-      
-      The teachers are patient, engaging, and always encourage growth and learning in fun, creative ways. The management team is approachable and responsive, addressing any questions or concerns promptly. It’s clear that they put the needs of the children and families first.
-      
-      I’ve seen so much positive development in my child since they started attending, and I’m grateful to have found such a wonderful daycare. Highly recommend it to any parent looking for a safe, loving, and supportive place for their little ones!
-  - name: "Brittany Belan"
-    rating: 5
-    date: "2025-10-27"
-    comment: |
-      My son has been attending Brite Beginnings for several months now and we are so impressed with everything. After being told last minute by our original daycare that they were unable to accommodate emergency medical needs, we were contacted by Brite Beginnings that a space was opening up. Not only that but they were trained and educated in responding to a medical emergency, which was our #1 priority.
-      Upon doing the facility tour and meeting the staff, we realized our unexpected daycare hiccup was a blessing in disguise. The staff at Brite Beginnings are so accommodating when it comes to my son's medical needs, leaving me feeling a great sense of relief knowing he will be taken care of.
-      The teachers pour their heart & soul into interacting with the kids and truly care. They have amazing food options that are made fresh daily. The app they use allows you to track all activities, bathroom use and food.
-      Being a first time mom, the thought of sending your kid to day care is heart wrenching but Brite Beginnings has made this process so smooth and effortless. I very highly recommend this daycare!
+      This daycare has been amazing and is seemingly very well run in my opinion. Our son was there for a year in the preschool 3 class with Stutti and Raiesha. Although there was some minor inconsistencies with staff in the room for a short period of time our experience was fantastic. (The staff that filled in were great as well) Specifically, both Stutti and Raiesha are exceptional and I can't say enough good things about them. From our experience I'd highly recommend this daycare.
 ---

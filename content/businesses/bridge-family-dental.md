@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Edmonton"
 address: "13641 119 St NW, Edmonton, AB T5E 5N2"
 rating: 5
-review_count: 127
+review_count: 142
 tier: "featured"
 phone: "(587) 415-5922"
 website: "http://bridgefamilydental.ca/"
@@ -14,35 +14,47 @@ google_maps: "https://maps.google.com/?cid=3724480137992255999&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/bridge-family-dental.jpg"
 reviews:
-  - name: "Khalid"
+  - name: "امين الرفاعي"
     rating: 5
     comment: |
-      I had a truly wonderful experience at Bridge Family Dental. Dr. Rahal was exceptionally professional and gentle, which made the entire visit very comfortable. The new office is quite impressive; it's very clean, modern, and beautifully designed. I would particularly like to commend their website, as I prefer to schedule appointments independently rather than by phone or in person. It was incredibly easy to book my appointment online, even as a new patient, which significantly enhanced the overall experience. The assistants and front desk staff were all very friendly and helpful, ensuring a smooth process from beginning to end. I wholeheartedly recommend Dr. Rahal and the team if you are seeking an excellent dentist.
-  - name: "Omer Rahall"
+      I had an absolutely wonderful experience at this dental clinic. The staff work with honesty, care, and a true sense of responsibility. I honestly have never seen such amazing and professional work before.
+      
+      I would like to sincerely thank the doctor for the excellent work and dedication. I also want to thank every member of the team, especially everyone involved in customer service, for their kindness, respect, and professionalism.
+      
+      Thank you all for the outstanding service and for treating your patients with such care and respect. I truly appreciate everything you have done, and I highly recommend this clinic to anyone looking for excellent dental care.
+  - name: "Abo Nuh"
     rating: 5
     comment: |
-      Dr. Rahall and his team are truly top tier. The clinic is beautiful, modern, and has a very luxurious feel the moment you walk in — everything is spotless, well organized, and clearly done to a very high standard. Dr. Rahall is professional, knowledgeable, and takes the time to make you feel comfortable while explaining everything clearly. You can tell he genuinely cares about his patients and the quality of his work. If you’re looking for a dentist with a high-end clinic, great service, and someone you can trust, I highly recommend Dr. Rahall.
-  - name: "Ida Fayad"
+      ⭐⭐⭐⭐⭐
+      
+      I had an excellent experience with Dr. Bilal and his team. My previous dentist insisted on referring me to a periodontist, but Dr. Bilal took the time to examine my situation, explain everything in a simple and easy-to-understand way, and suggest practical solutions. What I appreciated most was his honesty and the fact that he focused on what was actually best for me rather than pushing unnecessary treatment.
+      
+      The receptionist was also very friendly and welcoming. She was easy to talk to and had a great personality, which made me feel comfortable and relaxed from the moment I walked in. She made the experience feel very welcoming and pleasant.
+      
+      They were even able to accommodate me without a previous appointment and complete my hygiene treatment the same day, which I really appreciated. The hygienist was very professional and careful. Even though I have a challenging dental situation, the hygiene treatment was very comfortable and I experienced no pain.
+      
+      Overall, everyone made me feel comfortable, respected, and genuinely cared for. I highly recommend Dr. Bilal and his entire team. Great people, honest advice, and excellent service!
+      Abdell
+  - name: "Lori Moyle"
     rating: 5
     comment: |
-      From the moment I arrived for my appointment at Bridge Family Dental Clinic, I felt welcomed and cared for. The receptionists ,  technician, hygienist, and especially Dr. Belal Rahall were all incredibly professional, kind, and attentive. Dr. Belal takes the time to explain everything clearly and makes you feel completely at ease. The entire clinic has such a warm, positive, and professional atmosphere. Highly recommend Dr. Belal and his amazing team!
-  - name: "Marwa Najmeddine"
+      I have been going to this dental office for about a year now and every time I am in its a good experience. From the moment you walk in through the door, you are greeted by the wonderful reception. Super friendly and work hard to make sure your insurance is covered or will let you know how much you need to pay. I have never been surprised by a bill here. The dentist is awesome, always makes sure you are comfortable, is really friendly and informs you of what you need to know. Dental assistants and hygienist are also great to deal with and super friendly. My daughter also started using them and said its the first dentist to actually listen to her and that speaks volumes in itself. All staff here are amazing and I would recommend to anyone who is needing a new place to go.
+  - name: "Sarah A."
     rating: 5
     comment: |
-      Amazing dental office. Front desk was very friendly, welcoming and very helpful. Dr. Rahall and his assistant (sorry I forgot her name) were just amazing.  They kept making sure I was ok, explaining every step they were doing, helped calm my anxiety. All in all great experience, highly highly recommend
-  - name: "Patricia Davis"
+      Such a great experience at this clinic! I recently moved to the area and had my first cleaning appointment here, and I was very pleased with how it went. The receptionists Kyla and Kyra were lovely, and my hygienist Nebiat did a really good job. She was gentle and gave me some helpful tips for taking care of my teeth.
+      Very nice clinic overall and I look forward to my next visit.
+  - name: "viking vk"
     rating: 5
     comment: |
-      From the moment I called to schedule, the process was easy and stress-free — and that positive experience carried right through to the appointment itself.
-      The staff are personable and genuinely warm and caring. They took the time to make sure I felt comfortable and at ease.The hygienist, Kathy was incredibly gentle — I barely felt a thing! My dentist, Dr Rahall was thorough with the examination, unhurried and reassuring throughout. He is a highly trained dentist.
-      The office itself is new, spotless and well-equipped with modern equipment, which gives you that extra confidence that you’re in good hands.There is ample free parking outside the office.
-      Honestly, this visit exceeded every expectation I had; I can’t recommend them enough!
+      I had a wonderful experience at this dental clinic. From the moment I arrived, the staff was so friendly, welcoming, and professional. Everyone made me feel comfortable and well taken care of.
+      The dentist was very knowledgeable, patient, and took the time to explain everything clearly. I really appreciated the attention to detail and the way they made sure I understood the treatment and felt comfortable throughout the process.I recommended 100% .thanks 🙏💯👍
 hours:
   monday: "8:00 AM–5:00 PM"
   tuesday: "8:00 AM–5:00 PM"
   wednesday: "8:00 AM–5:00 PM"
   thursday: "8:00 AM–5:00 PM"
   friday: "8:00 AM–12:00 PM"
-  saturday: "9:00 AM–3:00 PM"
+  saturday: "Closed"
   sunday: "Closed"
 ---
