@@ -1,14 +1,17 @@
 ---
-name: "KET PEST CONTROL"
+name: "Ket Pest Control"
 slug: "ket-pest-control"
 category: "cleaning-services"
 subcategory: "pest-control"
 tier: "featured"
-description: ""
+logo: "/logos/ket-pest-control.png"
+description: "Ket Pest Control is a licensed and insured pest control company in Edmonton. They treat homes and businesses across the city and nearby areas.\n\nTheir technicians handle mice and rats, cockroaches, bed bugs, ants, wasp nests, carpet beetles and pigeons, including pigeon proofing for solar panels. They look for where the pests are getting in, use treatments that are safe for families and pets, and offer same day service for many jobs. Every pest control service comes with a 3 month guarantee.\n\nFor businesses, Ket Pest Control can provide the verification paperwork you need for inspections and compliance."
 address: "11251 93 St NW, Edmonton, AB T5G 1B9"
 neighborhood: "North Edmonton"
 phone: "(587) 566-7699"
+email: "pestket@gmail.com"
 website: "https://www.ketpestcont.com/"
+facebook: "https://www.facebook.com/people/Ket-Pest-Control/61570272630695/"
 google_maps_url: "https://maps.google.com/?cid=6385462350588973976&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.562614
 longitude: -113.483861
@@ -25,8 +28,13 @@ photos:
   - "/photos/ket-pest-control-g2.jpg"
 rating: 4.9
 review_count: 178
-amenities: []
-tags: ["edmonton", "pest-control"]
+amenities:
+  - "Licensed & Insured"
+  - "3 Month Guarantee"
+  - "Family & Pet Safe Treatments"
+  - "Same Day Service"
+  - "Residential & Commercial"
+tags: ["pest-control", "exterminator", "mice", "rats", "bed-bugs", "cockroaches", "wasps", "pigeon-control", "edmonton", "north-edmonton"]
 active: true
 date_listed: "2026-10-02"
 reviews:
