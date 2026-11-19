@@ -24,39 +24,34 @@ photos:
   - "/photos/butler-plumbing-heating-gasfitting-ltd-g1.jpg"
   - "/photos/butler-plumbing-heating-gasfitting-ltd-g2.jpg"
 rating: 4.8
-review_count: 990
+review_count: 989
 amenities: []
 tags: ["edmonton", "residential"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Greg Whelan"
+    rating: 5
+    comment: |
+      I've used Butler plumbing and heating dozens of times over the last 15 years for multiple properties and services and they are always highly communicative, offer fair pricing and do high quality work. I look forward to using them for the next 15 years and highly recommend them to anyone looking for reliable top quality plumbing and heating services.
+  - name: "Eva V."
+    rating: 1
+    comment: |
+      We hired Butler Plumbing to repair our in-floor heating system. The technician admitted he was uncertain if a specific part would solve the issue, but presented it as the only alternative to an expensive full manifold replacement. He installed it, couldn't get the heat circulating, and billed us $678.30 anyway.
+      
+      When we asked management to make this right, we were met with a rude and dismissive response. It's clear management encourages these high-pressure, speculative repairs. In the end, we diagnosed the real issue ourselves, picked up the correct part from AMRE Supply, and fixed it without them. Very disappointing experience.
   - name: "Gordon Graham"
     rating: 5
-    date: "2023-06-13"
     comment: |
       The plumber did a great job of finding the blockage in our kitchen sink drain. He augered through the clean outs both upstairs and in the basement. With three sink full water flushes lots of grease, etc was visible through the backup block valve access
       Great job at a reasonable price by a very personable man!
       I’ve used Butler before and highly recommend them.
+  - name: "bryan theriault"
+    rating: 5
+    comment: |
+      Work was scheduled quickly, done professionally. Passed inspection. Then sealed up and finished off promptly. The tech's who came to do the work were really good.
   - name: "Tami Lackey"
     rating: 5
-    date: "2023-02-01"
     comment: |
       Calling a Repair Company is never something I hope to need to do.  Thankfully, when I did, I called Butler.  THANK YOU Bryce!!!  To say these guys know boiler repairs well, is an understatement.  The experience and knowledge they had in assessing my 15 year old unit, put my mind fully at ease.  Needing to replace my boiler and making a large “surprise” investment in my home was not expected.  I, as most don’t have money under my mattress I can pull out and spend at will.  But the professionalism, transparency and truly forthright recommendation was trusted and welcomed, due to my experience today and other past exemplary experiences with their team.  Experienced - Honest - Transparent - Awesome Customer Service from start to finish.  Highest Recommendation
-  - name: "Caroline Ziober"
-    rating: 5
-    date: "2026-06-02"
-    comment: |
-      Great service, prompt response and we really appreciated the time Travis took to fully explain our hot water on demand system and the maintenance it requires. He's fantastic!!!
-  - name: "Andrew Johnson"
-    rating: 5
-    date: "2026-01-22"
-    comment: |
-      My furnace stopped working Monday. Tuesday morning I called Butler.
-      Travis had a mid afternoon cancelation and, luckily, I was at the top of the list.
-      Travis quickly diagnosed, and repaired the issue. We have a warm house, again.
-  - name: "Wayne S"
-    rating: 5
-    date: "2025-08-18"
-    comment: |
-      I had a few issues with my furnace and AC. Travis was amazing. He walked me through everything, fixed a gas, electrical and AC problem. He very easily could have run up the bill and sold me stuff I didn't need. He is as honest as could be. Amazing tech and person. Excellent company. I will recommend him and them to everyone I can. I couldn't be more pleased !!
 ---

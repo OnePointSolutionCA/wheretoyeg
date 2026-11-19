@@ -6,7 +6,7 @@ subcategory: "brunch-cafes"
 neighborhood: "Beaumont"
 address: "1528 91 St SW, Edmonton, AB T6X 1M5"
 rating: 4.5
-review_count: 810
+review_count: 817
 tier: "featured"
 phone: "(780) 752-9900"
 website: "http://www.brownbuttercafe.com/"
@@ -14,14 +14,19 @@ google_maps: "https://maps.google.com/?cid=12608105830058842882&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/brown-butter-cafe.jpg"
 reviews:
-  - name: "Pinksugarbb"
-    rating: 4
-    comment: |
-      The staff were welcoming on arrival. I had the bunwich and black sesame latte. The bunwich was tasty! Soft, fluffy egg and pickled onions that cut into the sweetness of the egg and butteriness of the avocado. The black sesame latte was good but was warm, I wish it could have been hot. The cafe is cozy, wish it could have more chairs. I enjoy the ambience and will come back to visit!
-  - name: "Yiming Weng"
+  - name: "Baker Brewz"
     rating: 5
     comment: |
-      Bunwich is definitely delicious, bun is soft and fluffy, I never tasted anything like this before. Not a lot of varieties to choose from though.
+      Such a sweet little cafe I stopped in at, we had an appointment in the same complex and when I finished up it was so nice to sit and relax here. The space had plenty of seating and I loved all the plants growing everywhere. I appreciated the caffeine free list and eagerly tried the yuzu tea which was so light and refreshingly sweet. I also tried the Lemon Cloud bun which was super delightful! Staff were kind and patient as I weighed my choices and I didn’t feel rushed and enjoyed the free internet and quiet space.
+  - name: "Chelsey"
+    rating: 5
+    comment: |
+      The cinnamon bun is a bun filled with cinnamon sugar goodness.  It’s not what I was expecting and it was so good!  I went in for the iced cookies n cream latte but it’s no longer on the menu so I tried the seasonal iced caramel something (sorry I can’t remember) and it was tasty, sweet.  It was definitely getting busy when I got there but I found a comfy chair and parked my baby’s stroller next to me while I had my goodies.  I loved all of the plants and the comfortable atmosphere.  I hope to be back someday!
+  - name: "Architype"
+    rating: 4
+    comment: |
+      New and clean little cafe/ light breakfast spot. They could use a few more items on the menu but what they do have is very good.
+      Both of the buns are great, I would like to see a few more juice/ drink selections and little treats etc.
   - name: "B S"
     rating: 1
     comment: |
@@ -29,14 +34,10 @@ reviews:
       
       Other than that the coffee and good
       Morning bun was excellent and the rest of the staff were warm and friendly and utterly welcoming. Thank you to you all.
-  - name: "Jessica F"
-    rating: 3
+  - name: "Pinksugarbb"
+    rating: 4
     comment: |
-      Best iced chai I have had in quite a while. I also got the cinnamon bun, and I wouldn’t get it again. It’s more like a stuffed bun than your common cinnamon roll, which meant after they heated it the entire contents fell out into an oily messy. I ate part of the pastry but was pretty disappointed about it.
-  - name: "First (WildNfld)"
-    rating: 3
-    comment: |
-      Food is decent, the egg sandwich and coffee strike a balance between quality and cost.. the processed cheese is likely a menu choice for melting purposes , but presents a little cheap, but fair I think.. the bathroom is actually pretty dark, and purhaps that's why staff don't seem to clean it the way it should be cleaned.. floor is stained or dirty and needs a proper scrubbing on a more frequent interval . Ok for a gas stations , but not a higher priced cafe not in the downtown core. As an aside , if I'm ordering at the counter and then receiving my own food and clearing my own table an automatic percentage tip feels inappropriate and a round up, $1, $2, or $3 quick click would likely feel more in keeping with the current experience.
+      The staff were welcoming on arrival. I had the bunwich and black sesame latte. The bunwich was tasty! Soft, fluffy egg and pickled onions that cut into the sweetness of the egg and butteriness of the avocado. The black sesame latte was good but was warm, I wish it could have been hot. The cafe is cozy, wish it could have more chairs. I enjoy the ambience and will come back to visit!
 hours:
   monday: "8:00 AM–2:00 PM"
   tuesday: "8:00 AM–2:00 PM"

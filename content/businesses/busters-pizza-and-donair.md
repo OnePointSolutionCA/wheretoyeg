@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Spruce Grove"
 address: "101 1 Ave E Unit 4, Spruce Grove, AB T7X 2H4"
 rating: 4.2
-review_count: 300
+review_count: 312
 tier: "featured"
 phone: "(780) 960-9300"
 website: "https://www.busterspizza.ca/"
@@ -22,18 +22,18 @@ reviews:
     rating: 5
     comment: |
       My husband brought me home some pizza from here and it is delicious! Homemade dough is to die for! It was so fresh. And I normally get a sore tummy after places like pizza hut & Dominos, but not with busters! Thanks for the great pizza!!
-  - name: "Roba Lakou"
-    rating: 1
+  - name: "David Pedden"
+    rating: 4
     comment: |
-      Jumbo Donair was small, About the size of a regular donair over priced. 22 dollars for a Jumbo Donair Combo, with Fries and a drink. Only options for fries were small or large, no regular sized fries. My friend got cheese on his donair and the cheese wasnt even melted. Also the meat was in a warmer, it wasn't even cooked in a pan. As well as the Fries. The seating is terrible, with small thin tables, you would be touching faces if you were to sit across from some one. Toilet was out of order, and the customer service sucked. This place needs a huge renovation and staff change. Would not recommend, ever.
+      Very good pizza. Not like that cardboard tasting ZZa you get from other places. Crust is just the right thickness. Friendly owner. And, they had a fifty percent off pizza day! Who does that???
+  - name: "Dave Benvenuto"
+    rating: 5
+    comment: |
+      Shrinkflation is real...  so if you spend a.little extra and add more meat and toppings and cheese..  their pizza is what it once was again..   Really great crust too.
   - name: "Jenna Mulderrig"
     rating: 1
     comment: |
       I was charged $41 for 1 large pizza on uber eats , called busters pizza and the manager told me there wasn’t anything he could do for me . Yet he made sure to send me a flyer with my pizza showing you can get two large pizzas for $39!
-  - name: "Leigh Gaedig"
-    rating: 5
-    comment: |
-      The food was excellent and the service was awesome. I initially made a mistake on my pick up time but they changed it for me no questions asked. I really appreciated that the person I spoke to was kind about it!
 hours:
   monday: "11:00 AM–10:00 PM"
   tuesday: "11:00 AM–10:00 PM"

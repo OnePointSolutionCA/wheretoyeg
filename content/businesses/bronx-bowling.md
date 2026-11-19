@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–10:00 PM"
 photos: ["/photos/bronx-bowling-1.jpg", "/photos/bronx-bowling-2.jpg", "/photos/bronx-bowling-3.jpg"]
 rating: 3.9
-review_count: 678
+review_count: 679
 price_range: "$$"
 amenities:
   - "Family Friendly"
@@ -37,16 +37,10 @@ reviews:
     rating: 3
     comment: |
       Atmosphere is fun music is good, mens restroom the urinals dont flush right and full of old urine. Needs paper towel in there not just air blower. And maybe some air fresheners. The woman's sounds like it was really decent. Bowling balls were greasy and chipped, they were hard to hang onto. There was no cleaner around or wet towel to damp the hand for a better grip. We still enjoyed it just needs few touch ups..
-  - name: "Chantele"
+  - name: "Gabriela Gonzalez"
     rating: 5
     comment: |
-      Came for a bowling birthday party, stayed for the pizza!!
-      This place is my go to for my kids' birthday parties. The price is right and its always a blast!
-      But let's take a minute to appreciate the pizza. They make everything fresh, dough and all. Its some of the best pizza I've had!
-  - name: "Julie MacDonald"
-    rating: 5
-    comment: |
-      We had so much fun together as a family. Prices are great and the food we had was delicious. Great staff. Highly recommend.
+      I absolutely love this place. Upon entering, they welcomed us and offered us the right shoes to play. My kids were able to play like pros. They even have food service, so we didn't have to wait long to play. They even put our names on the screen so we could share.
   - name: "Jen Dar"
     rating: 5
     comment: |
@@ -55,4 +49,10 @@ reviews:
     rating: 5
     comment: |
       made a core memory at this place with my groups of friends, Sam accommodated to our groups needs and went above and boyond for customer service. This place has such a comforting and fun atmosphere, and was impressed by the customer service. 10/10 would recommend coming here !!
+  - name: "Chantele"
+    rating: 5
+    comment: |
+      Came for a bowling birthday party, stayed for the pizza!!
+      This place is my go to for my kids' birthday parties. The price is right and its always a blast!
+      But let's take a minute to appreciate the pizza. They make everything fresh, dough and all. Its some of the best pizza I've had!
 ---

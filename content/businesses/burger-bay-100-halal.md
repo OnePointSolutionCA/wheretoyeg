@@ -5,14 +5,34 @@ category: "restaurants"
 subcategory: "burgers"
 neighborhood: "Mill Woods"
 address: "101 Granada Blvd #311, Sherwood Park, AB T8A 4W2"
-rating: 4.8
-review_count: 594
+rating: 4.9
+review_count: 623
 tier: "featured"
 phone: "(780) 570-7575"
 google_maps: "https://maps.google.com/?cid=2578273312702354587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/burger-bay-100-halal.jpg"
 reviews:
+  - name: "Abdul Sami"
+    rating: 4
+    comment: |
+      **3/5 — Good burger, tough veal cutlet, and an owner who clearly cares.**
+      
+      Visited for dinner on October 10, 2026. Being Thanksgiving weekend, the place was slammed with takeout and delivery orders — and the owner (I believe) was doing his best to cover every corner while staying professional and polite throughout. Genuine effort, and it showed.
+      
+      We ordered a beef burger, a veal cutlet, and a Nutella waffle with ice cream. The burger was pretty good — solid and satisfying. The veal cutlet, unfortunately, was chewy and genuinely difficult to eat. That one missed the mark.
+      
+      The place was clean, and it's not your typical burger joint — the menu is huge, covering everything from breakfast to dinner. Nice to see the owner has shaped the menu around local needs rather than going generic. Prices aren't cheap, but they're not unreasonable either.
+      
+      Worth a visit for the burger; I'd skip the veal cutlet.
+  - name: "Mahrukh Saba"
+    rating: 5
+    comment: |
+      Went to Burger Bay yesterday with family and had a good experience. The customer service was excellent, staff were friendly, welcoming and quick despite it being busy.
+      
+      We ordered a couple of burgers and they were genuinely juicy and well seasoned. What I really appreciated was the portion size, a proper filling burger, not like a lot of other halal burger places that are so stingy with their portions that you leave still hungry.
+      
+      Fair price for what you get, clean place, good vibe. Easily one of the better halal burger spots in Edmonton. We will definitely be back.
   - name: "Faizal Ilias"
     rating: 5
     comment: |
@@ -27,36 +47,14 @@ reviews:
       I will definitely come back and try some other stuff. All in all definitely a strong 5/5. The owner( I think) and the other server were pretty nice and welcoming to everyone that came by which is always nice to have.
       
       It was a warm comforting meal on a random day off with quiet vibes once the rush leaves. Definitely give this place a try if your in the area. 😊
-  - name: "Zainab Imran"
+  - name: "Melissa Segura"
     rating: 5
     comment: |
-      If you’re looking for a halal breakfast spot that genuinely hits every mark you need to visit Burgers Bay.
-      
-      We went in for breakfast and ordered the Ultimate Chicken Fajita Omelette and wow. The eggs were incredibly soft and fluffy, the toast had that perfect crisp, and the chicken was so tender. It honestly felt like the perfect protein-packed meal, and the portion size was generous too.
-      
-      Then came the nachos… and I’m not exaggerating when I say these were some of the BEST I’ve ever had. The crunch, the toppings, the flavor everything was just Amazing.
-      
-      We also tried the Mushroom Swiss Burger and uff, the taste was on point. Every bite was satisfying.
-      
-      For anyone searching for a halal alternative to Denny’s or Cora, this place is it. The variety on the menu genuinely made it hard to choose because everything sounded so good.
-      
-      What made the experience even more special was the staff so warm and welcoming. They even surprised us with a complimentary Lotus Biscoff dessert with cream cheese, which was such a sweet touch.
-      
-      And let’s not forget the drinks the coffee was absolutely delicious and the hot chocolate was just on another level.
-      
-      100% halal, amazing food, generous portions, and professional service. Highly recommend!
-  - name: "annette shapko"
+      Absolutely delicious! I had the gluten-free avocado, bacon burger with Caesar Salad. My friends had the amoxycillin and the quesadilla and all of them were so incredibly delicious. The staff is super kind and I love how the music is very low and more on the relaxing side. Highly highly recommend.
+  - name: "Miranda"
     rating: 5
     comment: |
-      Great service, great taste and very reasonable portions, price and value. From the freshest ingredients, well prepared, I can't say enough about the quality. Great coffee too. I will visit again with my family. It's a retty Great mom & pop place with a great chef. Check out the photos from the senior menu, that we enjoyed immensely.
-  - name: "Kevin Bayrack"
-    rating: 5
-    comment: |
-      On entry, it was very clean and open. The service was quick, and the menu was easy to read. The food we tried tasted good, and the price is fair. I recommend stopping in; I'll definitely come back as well.
-  - name: "Courtney Powell"
-    rating: 5
-    comment: |
-      A hidden little gem in Sherwood Park for sure. It reminds me of a nice small town diner. Yes, they have burgers but a ton of regular diner food too. I had the Bay Slam and it was great. Their toasted buns are particularly notable. Service is friendly and kind. The seats are very comfortable. Highly recommend hitting this place up if you are in the mood for some diner food and in Sherwood Park.
+      Came for breakfast today where we thoroughly enjoyed good coffee served fresh and hot, delicious eggs benny and a meat lovers skillet. And wow! What wonderful staff & great menu selection. We will certainly be back & happy to spread the word 💙
 hours:
   monday: "9:00 AM–8:00 PM"
   tuesday: "9:00 AM–8:00 PM"

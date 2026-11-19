@@ -5,17 +5,27 @@ category: "restaurants"
 subcategory: "brunch"
 neighborhood: "St. Albert"
 address: "46C St Michael St, St. Albert, AB T8N 1C9"
-rating: 4.8
-review_count: 16
+rating: 4.7
+review_count: 17
 tier: "featured"
 google_maps: "https://maps.google.com/?cid=12302419921806237454&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/bruin-breakfast-club.jpg"
 reviews:
+  - name: "Bryce Koperski"
+    rating: 5
+    comment: |
+      Amazing food and friendly people, I'm not a huge fan of English muffins but theirs are sooo good. Good coffee shop too beside it to get a latte while you wait for your sandwich.
   - name: "Phat Boy"
     rating: 5
     comment: |
       Hands down the best breakfast sandwich you will experience in St. Albert! It’s located inside the BreadLove and I believe they’re only open on the weekends. The owners are super friendly, welcoming and obviously take a lot of pride in their food and service! The star of their sandwiches have to be their in-house made sausage…savoury with a hint of sweetness. It takes a minute to get your order but that’s because every sandwich is made fresh and is served hot and delicious! 100% worth the wait and drive! Look forward to coming back and hope they expand into their own joint with even more menu items! Check them out!!
+  - name: "Diane Dunlop"
+    rating: 5
+    comment: |
+      Literally the BEST breakfast sandwich (dare I say - best sandwich?) I’ve ever had (I had the Bruin)! We drove in from 55 minutes away just to try the food here and it was well worth the drive.
+      The owners were so friendly and the atmosphere was inviting.
+      It’s too bad Google can’t remove the one star review from the person who didn’t even go to the business because they deserve a full 5 stars.
   - name: "Anonimus 1"
     rating: 5
     comment: |
@@ -26,21 +36,10 @@ reviews:
       The one downside is that they’re getting too dam popular, so get there early, or they might run out before you arrive!! I’m amazed at just how fast the two of them in kitchen get all these orders out.  But the crowds just go to show what a great meal you’re getting for your money.
       
       Can’t give them enough stars, they are excellent at what they do!
-  - name: "Diane Dunlop"
-    rating: 5
-    comment: |
-      Literally the BEST breakfast sandwich (dare I say - best sandwich?) I’ve ever had (I had the Bruin)! We drove in from 55 minutes away just to try the food here and it was well worth the drive.
-      The owners were so friendly and the atmosphere was inviting.
-      It’s too bad Google can’t remove the one star review from the person who didn’t even go to the business because they deserve a full 5 stars.
   - name: "Layli Wilson"
     rating: 5
     comment: |
       If you’re looking for a savoury breakfast sandwich, you’ve come to the right place. I enjoyed the All CAPS, which is their vegetarian option and was blown away with the flavours.  I will be back.
-  - name: "Jenn Van Strien"
-    rating: 5
-    comment: |
-      YOU GOTTA EAT HERE!
-      Bruin Breakfast Club seriously has some of the best breakfast sandwiches around! If you’re looking for a quick, hot, delicious breakfast English muffin sourced with local fresh ingredients stop in at BreadLove in St. Albert AB when they have their pop up shop! The lovely D & K duo are friendly and make a kick ass sammy! You won’t regret it! Run, don’t walk unless of course it’s a weekend I’m stopping in,  haha!
 hours:
   monday: "Closed"
   tuesday: "Closed"

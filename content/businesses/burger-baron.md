@@ -24,7 +24,7 @@ photos:
   - "/photos/burger-baron-g1.jpg"
   - "/photos/burger-baron-g2.jpg"
 rating: 4.4
-review_count: 1298
+review_count: 1311
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -38,7 +38,6 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Aviator D"
     rating: 5
-    date: "2026-05-13"
     comment: |
       Burger Baron has always been a nostalgic favourite. This location is quite nice, and will definitely be going back.
       
@@ -56,25 +55,21 @@ reviews:
       Parking is easy enough, but if you use the drive through it's quite easy to miss, or go through it backwards. Saw that happen twice on our visit.
   - name: "Jay Dee Archer"
     rating: 5
-    date: "2026-08-05"
     comment: |
       I got the BBQ burger, while my daughter got the mozza burger. We did not expect them to be this big. We both enjoyed our burgers and fries. The staff was polite and friendly, and deliver your food to your table. Clean, bright and modern inside. There are other burgers I’d like to try, so I think I’ll be back!
+  - name: "Casey Delaronde"
+    rating: 5
+    comment: |
+      I stopped in for lunch and ordered the gourmet single patty burger with fries. The burger had crisp, fresh veggies and condiments, and the flavours really popped. The fries were piping hot with just the right amount of salt. To top it off, I tried the rum and butter milkshake, one of their many flavours, and it didn't disappoint. Friendly service, tasty food, and great value. Top marks.
   - name: "Carleen Tralenberg"
     rating: 5
-    date: "2026-05-25"
     comment: |
       Huge burgers compared to most places. Deals every day of the week for a treat out with the family for burgers that won’t break the bank. Made in front of you. Well maintained. Clean.  Staff is really kind.
       Seriously delicious. Had the Oliers burger. Yum! 🤤
-  - name: "Linda/Murray Hutchinson"
+  - name: "Justin Hendrick"
     rating: 5
-    date: "2026-08-29"
     comment: |
-      Nothing like a BB Mushroom Burger (with cheese) served piping hot to take a person back to their youth!  Pomo Burger was great, Salisbury Burger was a little shy on onions but still delicious.
-      Burger Baron is casual, family friendly dining and has been a favourite place to eat for well over 54 years. The business has an interesting history.  Portions are ample, prices reasonable, service is great.
-      I'm happy to recommend it for you, too.
-  - name: "Jess Hunter"
-    rating: 5
-    date: "2026-04-11"
-    comment: |
-      Gotta go with the classic mushroom burger! And yes they have a veggie patty AND a ‘beyond’ patty for us non-meat-eaters. Pair it with a side of curly fries or onion rings and a milkshake!
+      Ordered on UberEats last night. If you like wholesome, hearty burgers with delicious sides and amazing shakes, this is the place for you.
+      
+      Pricing is reasonable for what you get, despite being delivery and marked up for the delivery apps. I would definitely recommend.
 ---

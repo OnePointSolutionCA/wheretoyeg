@@ -32,27 +32,22 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Dan McTaggart"
     rating: 5
-    date: "2024-08-16"
     comment: |
       Exceptional powerlifting studio—private, well-equipped, and ideal for focused training. The coaching is both highly knowledgeable and encouraging, making it an excellent choice for beginners and/or anyone who prefers a more personalized workout environment. Highly recommended.
   - name: "Evan Cooper"
     rating: 5
-    date: "2024-08-16"
     comment: |
       Extremely detailed one on one training from an experienced trainer. Peter focuses solely on your goals, and will help you in any way he can. I have benefited greatly as a beginner in the gym, and have learned how to safely execute all beginner movements such as squats and deadlifts. Overall great experience and an amazing trainer.
   - name: "Larissa Slaney"
     rating: 5
-    date: "2024-08-17"
     comment: |
       Peter was firm, knowledgeable, professional, experienced, and motivating! His personal training program changed my life and my body. He pushed me to work hard- resulting in huge changes in my mind and body! With him coaching me I crushed goal after goal and now I’m stronger, faster and leaner since training with him. The man is a killer and if you want results he’s your trainer!
   - name: "Dave Lovell"
     rating: 5
-    date: "2024-08-16"
     comment: |
       I have been working with Peter since Jan 31 2024 on nutrition training, and to say the least it has been the best training I have received from anyone. I have managed to lose 50lbs with his aid and still losing more. The program he has me on and weekly check ins are very easy to follow. I would recommend this program to anyone not happy with their weight. It’s the best decision I have made!!!
   - name: "Trish Blask"
     rating: 5
-    date: "2024-08-16"
     comment: |
       Peter as a coach/personal trainer has been one of the best choices I have ever made. He brings his experience of leadership and knowledge to every session. He helps with goals and definitely inspires you to your highest potential.
       First he was an easy pick, i wanted someone to push me, challenge me and know my limits before I did, in my mind alot to ask for, but he checked the boxes.

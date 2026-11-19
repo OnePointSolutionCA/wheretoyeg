@@ -24,7 +24,7 @@ photos:
   - "/photos/budget-printing-g1.jpg"
   - "/photos/budget-printing-g2.jpg"
 rating: 4.9
-review_count: 243
+review_count: 248
 amenities:
   - "Delivery"
   - "Wheelchair Accessible"
@@ -32,40 +32,50 @@ tags: ["edmonton", "printing"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Edmonton Eparchy"
+    rating: 5
+    comment: |
+      ⭐⭐⭐⭐⭐
+      
+      We’ve been working with Budget Printing in Edmonton for quite some time, and their service is consistently excellent!
+      
+      Just yesterday, we picked up another order of flyers for our faith app, and everything turned out perfectly, as always!
+      
+      What we appreciate most is how easy and stress-free they make the entire printing process. We can simply send them our design files, and they take care of the technical printing details professionally, without requiring us to worry about bleed, crop marks, or other print preparation requirements.
+      
+      Their team is always helpful, knowledgeable, and ready to recommend the best paper, size, and printing options to suit our needs. The print quality is consistently excellent, communication is smooth, and they always deliver exactly what we expect.
+      
+      Reliable, professional, and a pleasure to work with! We highly recommend Budget Printing to anyone looking for high-quality printing services in Edmonton.
+      
+      Thank you for making our work easier every time!
+      
+      Ukrainian Catholic Eparchy of Edmonton
   - name: "Jeanine Perez"
     rating: 5
-    date: "2026-08-27"
     comment: |
       I recently worked with Budget Printing Team, and I’m really glad I did. I love how my labels turned out! They were very responsive, took the time to confirm the sizes, and double-checked my order before printing.
       
       I also really appreciated that they checked if all the information on my labels was readable and suggested a few changes before printing. It was nice knowing they were paying attention to the details.
       
       I would definitely recommend Budget Printing Team and will be working with them again. Hopefully, they’ll have something closer to the west end someday 🤣
+  - name: "Art-tek Painting co."
+    rating: 5
+    comment: |
+      We are extremely happy with our experience with Budget Printing! The quality of their work was excellent from start to finish, and the final products exceeded our expectations.
+      
+      We had our Art-Tek lawn signs printed along with 1,000 door hangers, and everything turned out fantastic — sharp, professional, and high quality.
+      
+      The team was helpful throughout the process and made sure the finished products looked exactly the way they should.
+      
+      One helpful tip when preparing your artwork for professional printing: make sure your files are prepared in CMYK rather than RGB to get the best and most accurate printed colours.
+      
+      We will definitely be using Budget Printing again for our future printing needs. Highly recommended!
   - name: "Karen Carleton"
     rating: 5
-    date: "2026-05-18"
     comment: |
       I highly recommend Budget Printing for all your printing needs. I contacted their team for over 250 booklets for a conference on short notice, and they delivered exceptional quality work in an impressively quick timeframe. They were reliable, responsive, and provided outstanding customer service from start to finish. I especially appreciated Sam’s thoughtful follow-up to ensure everything met my expectations.
-  - name: "Ronita Chand"
+  - name: "Ted halabi"
     rating: 5
-    date: "2026-05-16"
     comment: |
-      I recently had my business cards printed through Budget Printing and I’m extremely happy with how they turned out. The quality, colours, and finish came out beautifully, and the cards feel very professional and premium in person. Melissa was super helpful and understanding throughout the entire process.
-      
-      The team was helpful throughout the process, turnaround time was great, and everything was printed exactly as requested. I’ve already received compliments on the design and quality of the cards for Sparkle & Shine Company.
-      
-      Highly recommend Budget Printing for anyone looking for professional printing services and great customer service!
-  - name: "Sharline Lipkewich"
-    rating: 5
-    date: "2026-01-20"
-    comment: |
-      Kevin and the whole team at Budget Printing are fabulous!  I needed a large order on a rush and they were able complete it in less than 24 hours!  I doubt there is another company that can beat their professionalism, speed and rates!  Will definitely be using them again in the future.
-  - name: "Alona Morhunova"
-    rating: 5
-    date: "2026-05-11"
-    comment: |
-      I’m very happy with the service from Budget Printing!
-      They made my business cards beautifully and everything turned out exactly the way I wanted. The quality is excellent, clean, professional, and very красивo.
-      I also want to say a special thank you for their patience and kindness. Even with my difficult English, they understood me, helped me through the process, and were very friendly the whole time.
-      Thank you so much for your great work and patience — I truly appreciate it!
+      We’ve had a great experience working with the team at Budget Printing in Edmonton. They are professional, reliable, easy to work with, and always provide great service. The quality of their work has been excellent, and they’ve been very accommodating whenever we’ve needed something. I would definitely recommend Budget Printing to any business or individual looking for a dependable local printing company in Edmonton.
 ---

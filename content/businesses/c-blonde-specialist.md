@@ -19,7 +19,7 @@ hours:
   sunday: "9:00 AM–5:00 PM"
 photos: []
 rating: 5
-review_count: 26
+review_count: 28
 price_range: "$$"
 amenities:
 
@@ -36,10 +36,10 @@ reviews:
       The last time I came in, I decided to make a pretty big change and cut my hair into a much shorter compared to what I had before — and I’m absolutely in love with it! 😍 She understood exactly what I wanted, and the result turned out even better than I imagined.
       
       I trust her completely with my hair and would 100% recommend her to anyone looking for an amazing hairstylist! ✨
-  - name: "Madeline Ference"
+  - name: "Téa"
     rating: 5
     comment: |
-      I have seen Cristina for a couple years and I have never been happier with my hair! Shes also always so lovely and professional, always a positive experience! She is also amazing at extensions and preserving my natural hair, and my color and cut is always great! I highly recommend!
+      My first time won’t be my last time. What a fantastic exactly to the “T” hair cut AND color!! Cristina, you did a phenomenal job. I absolutely do not praise lightly. You heard me. You delivered exactly what I envisioned and what suited me, AND you cut everything just right without excess. I’m super impressed and love my hair! Thank you!
   - name: "Iryna Prykhodko"
     rating: 5
     comment: |
@@ -50,8 +50,8 @@ reviews:
     rating: 5
     comment: |
       I am thrilled that I met Cristina two years ago! I consider myself so fortunate! She is an amazing individual and a fantastic professional. The atmosphere is warm and inviting, and booking an appointment is a breeze. I always leave with wonderful results after visiting Cristina. I highly recommend her!
-  - name: "Linda M"
+  - name: "Madeline Ference"
     rating: 5
     comment: |
-      I’ve been a loyal client of Christina for many years, and I can’t recommend her enough! Before I found her, my hair was damaged and breaking easily, but now it’s healthy and thriving. As a blonde specialist, she knows exactly how to care for my hair and always follows the latest trends. It’s rare to find someone who truly understands the unique needs of blonde hair, and Christina has absolutely transformed mine. If you’re looking for a talented and trustworthy hairdresser, Christina is the one to see!
+      I have seen Cristina for a couple years and I have never been happier with my hair! Shes also always so lovely and professional, always a positive experience! She is also amazing at extensions and preserving my natural hair, and my color and cut is always great! I highly recommend!
 ---

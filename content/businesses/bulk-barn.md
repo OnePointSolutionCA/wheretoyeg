@@ -24,26 +24,32 @@ photos:
   - "/photos/bulk-barn-g1.jpg"
   - "/photos/bulk-barn-g2.jpg"
 rating: 4.2
-review_count: 55
+review_count: 57
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "bulk-health"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Joseph Macaulay"
+    rating: 5
+    comment: |
+      We travel in from cold lake alberta to pick up our monthly supply of candy etc.very helpful and friendly staff. Thank you.
+      I'LL BE BACK.
   - name: "Russ McPhee"
     rating: 4
-    date: "2021-03-03"
     comment: |
       This place was great and was very covid conscious. The staff went above and beyond to help me out. My experience here was great. Make this your next stop for you baking or prepping needs!
-  - name: "Braiden Mitchell"
-    rating: 4
-    date: "2019-03-08"
+  - name: "Janel"
+    rating: 1
     comment: |
-      They have basically anything you could hope for. You can even find teff flour here which is used for making Ethiopian food. Great assortment of spices, flours, and ingredients. Usually not the freshest, but that's the tradeoff with bulk. A great place to find unusual ingredients.
-  - name: "Crazy Chick #2"
+      They need new management! When I own a baking business and it’s well over a week for them to order buttercream and other things now have to wait another week for it? It’s sad and waste of time.
+  - name: "Douglas Taylor"
     rating: 5
-    date: "2022-02-06"
     comment: |
-      Considering that we are 2 years into a pandemic and I'm scared of my own shadow, I felt very comfortable in this clean, organized store.  The staff was great and there are always new things to try.  I loved all the healthy options.  I didn't find the dry cat kibble that I came in for.  The impulse items that I found were caffeinated chocolates that each equal a cup of coffee.  They should prevent car accidents.  I'll keep them in the car.
+      Bulk Barn has a great selection of items.  Much more than Nutters
+  - name: "Brian Erdely"
+    rating: 5
+    comment: |
+      Friendly staff well stocked. Lots to choose from. Highly recommended
 ---

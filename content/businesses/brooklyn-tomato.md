@@ -24,7 +24,7 @@ photos:
   - "/photos/brooklyn-tomato-g1.jpg"
   - "/photos/brooklyn-tomato-g2.jpg"
 rating: 4.4
-review_count: 302
+review_count: 305
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -35,21 +35,25 @@ tags: ["edmonton", "shawarma"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Ashlyne"
+  - name: "Mobile Tire Services Edmonton"
     rating: 5
-    date: "2026-02-22"
     comment: |
-      Here on a Sunday afternoon, everything was so tasty! It’s a great place to eat and enjoy time with family, or a nice date! All ingredients are fresh. Service is fast and friendly. Prices are reasonable! I will for sure be back!
-  - name: "Brandon Stromberg"
-    rating: 4
-    date: "2026-05-20"
-    comment: |
-      Food is good. We have ordered here a few times now. I love their green oinion cakes.
-      
-      Only thing I'm not a fan of is their soups. They are just ok. The other items we have ordered were really good.
-  - name: "Evan"
+      ⭐⭐⭐⭐⭐
+      Excellent Vietnamese food! The pho 🍜 was absolutely delicious, with a rich, flavorful broth, fresh ingredients, and generous portions. Great food quality, friendly staff, fast service, and a welcoming atmosphere. Everything was fresh, tasty, and well prepared. Highly recommended for anyone craving authentic Vietnamese pho and great Asian cuisine. Definitely worth coming back!
+  - name: "Gina Romo"
     rating: 5
-    date: "2020-02-02"
     comment: |
-      I had the 6 colour Vermicelli and the Singapore noodles. Both were delicious. The fish sauce was excellent. The Singapore noodles were a bit on the spicy side, but that was fine with me. Food came quickly (but not too quickly), and was fresh. I will definitely be back.
+      The food here is AMAZING! We had the plum chicken, a vermicelli bowl and my 4yr old had a chicken soup. We loved everything, it was SO good, and the staff was so incredibly kind. They also had this HUGE fish in a tank that was very friendly and so majestic. An arowana. I spoke to it a bit, it seemed interested in listening 🥰 Highly reccomend coming here, for the food, the service, and to gaze and tell secrets to this beautiful creature!
+  - name: "Gunner"
+    rating: 3
+    comment: |
+      I went here for lunch on a weekday with a buddy. The service wasn't great, we had to ask a couple of times for drinks.  My noodle bowl came out and was wrong and the waitress convinced me to keep so she could probably eat my correct dish.  I also had the wonton soup.  Both dishes were very bland tasting and needed some sauce to make them palatable.  The spring rolls were good but most likely just fried from frozen. She knocked a pop off the bill for making me eat the wrong noodles which was a small step in the right direction.
+  - name: "Apsara Hnatiuk"
+    rating: 3
+    comment: |
+      Ordered pick up , very plain pad Thai. Deff not the best pad thai. Green onion cakes were good. Lady seemed shocked I asked for chopsticks.
+  - name: "Kory Allen"
+    rating: 5
+    comment: |
+      One of the best Vietnamese restaurants we’ve been to in a while. Fresh food packing awesome flavour. The fish in the tank could use a friend but overall fantastic food worth checking out!
 ---
