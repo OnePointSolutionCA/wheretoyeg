@@ -23,7 +23,7 @@ hours:
 photos:
   - "/photos/cakekoook-best-custom-cakes-cupcakes-in-edmonton-g1.jpg"
 rating: 5.0
-review_count: 67
+review_count: 71
 price_range: "$$$$"
 amenities:
   - "Delivery"
@@ -31,31 +31,32 @@ tags: ["edmonton", "custom-cakes"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Swetha Arjunan"
-    rating: 5
-    date: "2026-06-06"
-    comment: |
-      In two months we ordered 4 cakes. The cake was incredibly delicious and beautiful. It’s just perfect for all.
   - name: "Kyra Punjabi"
     rating: 5
-    date: "2026-05-11"
     comment: |
       Absolutely loved the mango coconut eggless cake! The design on top looked beautiful and exactly as expected. The cake was fresh, soft, and perfectly balanced in sweetness with a delicious fresh mango-coconut in there. Delivery was right on time too, which made the whole experience even better. Highly recommend for both taste and presentation! 😊
-  - name: "ਪਵਨਦੀਪ ਕੌਰ"
+  - name: "Simranjit Kaur"
     rating: 5
-    date: "2026-06-22"
     comment: |
-      Thank you for the amazing cake. It was fresh, delicious, and beautifully decorated. My husband  enjoyed it. Highly recommend 😊🎂.the way of communicating is wow..she is so polite  and friendly .🥰🥰
-  - name: "Sahil Dutta"
+      I had such a wonderful experience with CakeKook! 💕 I ordered a birthday cake and a Rakhi hamper, and both were absolutely beautiful. The cake looked amazing and tasted delicious, and the Rakhi hamper was put together so thoughtfully and aesthetically. Everything was fresh, beautifully presented, and made the occasions feel extra special. 🎂🎁✨
+      
+      Highly recommend CakeKook for anyone looking for beautiful cakes and customized hampers. Thank you for making our celebrations so memorable! ❤️
+  - name: "Alam Sagoo"
     rating: 5
-    date: "2026-08-31"
     comment: |
-      The presentation was elegant, and the treats were fresh and flavorful. The cake had a rich taste and perfect texture, while the other goodies were equally enjoyable. It added a special touch to our Rakhi celebration. The quality and attention to detail really stood out. Would definitely order again for future occasions!
-  - name: "sonia ubhi"
+      ⭐⭐⭐⭐⭐
+      
+      I had such a wonderful experience with Cakekoook! The cake was absolutely beautiful, delicious, and made with so much care and attention to detail. Everything was perfect, from the presentation to the taste.
+      
+      I also really appreciated how friendly and helpful Ishpreet was throughout the whole experience. She is such a lovely person and you can truly see the passion she puts into her business. ❤️
+      
+      If you’re looking for a custom cake or cupcakes in Edmonton, I highly recommend Cakekoook! Definitely worth trying. 🎂✨
+  - name: "eshita rajput"
     rating: 5
-    date: "2026-08-29"
     comment: |
-      It was such a wonderful experience receiving the beautiful Rakhi hamper from Cake Kook! Everything was thoughtfully put together, beautifully presented, and made with so much love and attention to detail. 💕✨ My brother loved it 😍
-      Ishpreet is such an amazing and lovely person, and you can truly see her passion and dedication in her work.
-      I highly recommend Cake Kook to anyone looking for beautiful, thoughtful, and delicious gifts. Thanks to Ishpreet and Paras 😊
+      Ordered the Rakhi Special hamper and absolutely loved it! The packaging was beautiful, and everything arrived fresh and neatly packed. The cake was soft, delicious, and not overly sweet. Every treat tasted amazing and was of great quality. It made for a perfect Rakhi gift, and my family really enjoyed it. Great service and timely delivery too. Highly recommend for festive gifting!
+  - name: "Sukhdeep Kaur"
+    rating: 5
+    comment: |
+      We ordered a cake from this home bakery and absolutely loved it! 🎂❤️ The cake looked so beautiful and tasted even better. It was fresh, soft, delicious, and made with so much care. We were very happy with our order and would definitely order again. Highly recommended! ✨Thank you💗
 ---

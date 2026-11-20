@@ -24,36 +24,34 @@ photos:
   - "/photos/canada-diagnostic-centres-south-edmonton-g1.jpg"
   - "/photos/canada-diagnostic-centres-south-edmonton-g2.jpg"
 rating: 4.8
-review_count: 472
+review_count: 495
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "diagnostic-imaging"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "shawna kolenchuk"
+    rating: 5
+    comment: |
+      The front end staff here is wonderful! I got a flat tire on the way to two exams booked back to back.  When I called to let them know, they said there wasn’t much wiggle room in the schedule, but if I got there in time they could still do my second exam. I ended up getting there 5 minutes late for that exam, totally frazzled, not wanting to have to redo all the prep. They somehow worked some magic and found a way to do both exams! I was not expecting that at all, but they were so kind and went out of their way to accommodate me. The tech was also very kind and thorough. I never once felt rushed. Would 100% recommend!
+  - name: "El Ka"
+    rating: 5
+    comment: |
+      I had a wonderful experience at my ultrasound appointment. Brittany, my ultrasound technician, was absolutely amazing! She was kind, professional, compassionate and very reassuring throughout the appointment. The front staff were also incredibly friendly and welcoming. I truly appreciated the excellent care and service. I would definitely come back here if I ever need diagnostic testing in the future!
   - name: "Vera French (Raven)"
     rating: 5
-    date: "2026-09-02"
     comment: |
       Dr Fu is exceptional. Explained the whole cortisone injection process. No surprises. All the staff at this location are very kind and really good at what they do. Really helps calm the nerves and stress of the patient. Every step counts. Best clinic I’ve been to and this is the one I will always come back to now.
-  - name: "Jen Costley"
+  - name: "Brad M."
     rating: 5
-    date: "2026-05-07"
     comment: |
-      Another annual visit complete. Coming here is no one's favorite thing, but I can't rave enough about the friendly staff here. They go above and beyond to make the whole experience as comfortable as possible. I would like to say a special thanks to my tech today...Amanda you are passionate about what you do, and your genuine care and compassion are truly appreciated! Thank you 🥰
-  - name: "George Van Bruggen"
+      I had an amazing experience today, the receptionist was very courteous and helpful. All of my questions were answered in detail.  The technician and the doctor were amazing and carefully walked me through what was going to happen in detail.
+      I would highly recommend CDC to anyone without hesitation.
+  - name: "Anna Dawson"
     rating: 5
-    date: "2026-06-03"
     comment: |
-      I was very satisfied with the diagnostic services I received. The staff at this Canads Diagnostic Centre is courteous, efficient, and professional. I was admitted for my appointment at the listed time and had the tests with no problem whatsoever.
-  - name: "Natasha Sokolan"
-    rating: 5
-    date: "2026-08-10"
-    comment: |
-      The technician and staff were absolutely wonderful—kind, caring, professional, and very reassuring. They made what could have been a stressful experience feel comfortable and easy. I’m so grateful for the excellent care I received!
-  - name: "Nancy Sanborn"
-    rating: 5
-    date: "2026-09-08"
-    comment: |
-      I can’t say enough about the clinic on 109th St. Not only is this a beautiful clean clinic, but the staff is absolutely amazing. Nobody wants to go for a mammogram, but the mammographer and the ultrasound people are very kind, compassionate and reassuring.
+      I had an excellent experience at the 109th location for my recent mammogram and ultrasound. The entire team was incredibly friendly, professional, and welcoming. The clinic was spotless, the process was efficient, and the technologist was knowledgeable, gentle, and kind, making me feel comfortable throughout the appointment.
+      
+      What can often be an anxious experience was made into a very positive one. I truly appreciated the exceptional care and would highly recommend this location to anyone needing a mammogram.
 ---

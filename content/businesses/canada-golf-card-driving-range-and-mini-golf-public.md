@@ -24,31 +24,23 @@ photos:
   - "/photos/canada-golf-card-driving-range-and-mini-golf-public-g1.jpg"
   - "/photos/canada-golf-card-driving-range-and-mini-golf-public-g2.jpg"
 rating: 4.2
-review_count: 356
+review_count: 355
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "mini-golf"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Arno S"
-    rating: 5
-    date: "2024-08-21"
-    comment: |
-      Had my son’s 13th birthday here and it was great fun. Julia was a great help in getting us a package that worked for all, where we got to hit balls on the range, mini golf, ice cream, and got the picnic tables beside each other to enjoy more food and drink after the golfing was done. The ice cream is scooped and very good (foothills creamery) 😋. Thanks to Julia and the staff for making it all happen! Lots of fun for all.
   - name: "Nino Azurin"
     rating: 5
-    date: "2025-11-09"
     comment: |
       Jeff and Julie and rest of the staff are freakin amazing! Love coming here with my kid! Always a family fun vibes out here! Kudos to adding the putting green section (which i didnt get to try through the end of the season) but looking forward to seeing you guys in few months! (Well they did open up February 2025 and was open for a bit - Weather permitting of course) but heck yeah! Hitting golf balls in Feb out in Alberta? Heck yeah!
-  - name: "verna horney"
-    rating: 5
-    date: "2026-05-03"
+  - name: "Bombi Lee"
+    rating: 3
     comment: |
-      My husband and I visit this driving range 1-3 times per week and have for many years. Without a doubt, it is one of the best driving ranges as the staff are SUPER friendly, approachable and accommodating. It is affordable as they always have discounts. Lastly, they play the best tunes on the outdoor speakers.
+      Cheaper than most driving ranges, which is a big plus! The balls can be pretty worn out or cracked, but the new mats this year are a great upgrade. It’s super close to home, affordable, and convenient, so I’ll definitely keep coming back.
   - name: "Johnny Na (JoProductions)"
     rating: 5
-    date: "2024-10-09"
     comment: |
       I played at the driving range today, was sunny & cool weather.
       
@@ -60,11 +52,12 @@ reviews:
       They have mini golf also for 12$ adult.
       
       Had fun!
-  - name: "Jacob Fortier"
-    rating: 4
-    date: "2026-06-06"
+  - name: "Marc Ferland"
+    rating: 5
     comment: |
-      Probably the best bang for your buck when it comes to a driving range.
-      Lots of pads to hit off so your not bunched next to other golfers.
-      Lessons are cheap here and they offer a mini golf course.
+      Our favorite range! And special thank you to Julie for helping me with my punch pass. I just lost my wallet and she was able to verify everything and I could tell she felt for my situation. Super kind staff always and love going there! 😊 🩵
+  - name: "Arno S"
+    rating: 5
+    comment: |
+      Had my son’s 13th birthday here and it was great fun. Julia was a great help in getting us a package that worked for all, where we got to hit balls on the range, mini golf, ice cream, and got the picnic tables beside each other to enjoy more food and drink after the golfing was done. The ice cream is scooped and very good (foothills creamery) 😋. Thanks to Julia and the staff for making it all happen! Lots of fun for all.
 ---

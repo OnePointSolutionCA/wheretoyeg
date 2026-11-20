@@ -23,35 +23,30 @@ photos:
   - "/photos/california-sugar-g1.jpg"
   - "/photos/california-sugar-g2.jpg"
 rating: 4.9
-review_count: 38
+review_count: 39
 amenities: []
 tags: ["edmonton", "waxing"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Meaghan Quesnel"
+    rating: 5
+    comment: |
+      I had such a wonderful experience with Jillian. This was my first time trying sugaring, and I was pretty nervous after having some really terrible experiences with waxing in the past. I wasn’t sure what to expect, but Jillian immediately made me feel so comfortable and at ease. She was incredibly kind, professional, and reassuring throughout the entire appointment. I would absolutely 10/10 recommend her to anyone who may be nervous about trying sugaring for the first time!
   - name: "Brooke J"
     rating: 5
-    date: "2026-08-13"
     comment: |
       Jillian is absolutely incredible at what she does! This was my first sugaring experience and she made me feel so, so comfortable even though I was nervous! She is so quick and amazing at what she does! Plus, she is also super sweet! I would highly recommend seeing her! :)
   - name: "Theresa Vanderwell"
     rating: 5
-    date: "2026-01-12"
     comment: |
       I found Jillian after having some truly horrific waxing experiences elsewhere. Her studio is super clean and pro. She's really fast and meticulous, and she's also really nice! Thanks for such a pleasant experience each time.
   - name: "J (J M)"
     rating: 5
-    date: "2025-06-21"
     comment: |
       I recently moved to Edmonton and I was looking for a new sugarist.I had an amazing sugaring experience with Jillian! She made me feel completely comfortable from the moment I walked in; her warm, professional energy put me right at ease. She’s incredibly knowledgeable and clearly passionate about what she does, which made the whole process smooth and surprisingly relaxing. I really appreciated how she explained everything as she went and made sure I was feeling okay throughout. Highly recommend her if you’re looking for someone who truly cares about their work :) Thank you again!!
   - name: "H. Gonzo"
     rating: 5
-    date: "2025-10-26"
     comment: |
       Absolutely the best! She’s so professional, quick, and makes the whole sugaring experience super comfortable. Her prices are great for the quality of service you get — seriously unbeatable. I always leave feeling smooth and happy every single time. Highly recommend to anyone looking for a reliable, talented, and friendly sugar specialist!
-  - name: "Franca T"
-    rating: 5
-    date: "2022-09-20"
-    comment: |
-      Love Jillian! She is professional, knowledgeable, a great conversationalist and an overall just a really nice person! I have been going to her for about over a year now and I would highly highly recommend her. On my very first visit, she went out of her way to make the experience very comfortable. Her location is easy to find, studio is always very clean and comfortable, prices are reasonable and the service is honestly just really well done. I have never ever had any problems and have always left more than satisfied. So go see her!
 ---

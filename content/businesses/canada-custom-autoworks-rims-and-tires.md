@@ -6,7 +6,7 @@ subcategory: "tires"
 neighborhood: "Spruce Grove"
 address: "495 South Ave Unit 156, Spruce Grove, AB T7X4G2"
 rating: 4.9
-review_count: 912
+review_count: 965
 tier: "featured"
 phone: "(587) 461-6255"
 website: "https://canadacustomautoworks.com/"
@@ -29,6 +29,10 @@ reviews:
       
       A huge thank you to Zach, Isaac, the technicians, and the entire team at Canada Custom Autoworks. I truly appreciate all the help, honesty, and outstanding customer service throughout the whole process. I'll definitely be coming back for future upgrades and won't hesitate to recommend them to anyone looking for quality work.
       One very satisfied customer. 🙌🫡 ......
+  - name: "Joey"
+    rating: 5
+    comment: |
+      Mercedes was absolutely amazing! She helped me figure out what I wanted and how it would look. It was a great experience! She is super friendly and very knowledgeable. I would definitely recommend coming here!!
   - name: "Golem Mike"
     rating: 5
     comment: |
@@ -37,20 +41,14 @@ reviews:
     rating: 5
     comment: |
       Zach & Isaac were extremely helpful & exceptionally knowledgeable with every aspect with my jeep.  I couldn't be happier. The service quality of work is top notch. I had a great experience from day one. Very friendly with a down to earth perspective and I would Highly recommend them!!
-  - name: "Rajan Deol"
-    rating: 3
-    comment: |
-      Great selection of wheels and tires and my Jeep turned out great in the end. The actual install on Tuesday was quick and smooth.
-      
-      That said, communication and scheduling could’ve been better. There were delays with quotes/appointments, and when I came in Friday, two wrong wheels had been ordered which delayed the install. I was also told the install cost would be removed for the inconvenience, but it still ended up being charged.
-      
-      I’m also currently getting a “Tire Pressure Unavailable” message. I had let them know I already had TPMS sensors, so they removed them from the quote, but I didn’t realize that meant the sensors wouldn’t be transferred over to the new wheels.
-      
-      Overall, happy with the final look, but the process could’ve been smoother.
-  - name: "Jeff Spyksma"
+  - name: "Jenna Mulderrig"
     rating: 5
     comment: |
-      I just got a bunch of work done to my truck and everyone there was amazing to work with , trucks looks very sexy and I wanna give a special shout out to Carlo, Issac,  and Zach for helping me out with this project they were very helpful and insightful the whole process thank you here's a some before and after pics
+      Karlo and Isaac were awesome to work with.
+      Great prices for my new wheels, tires and lift.
+      Would highly recommend them. I’ll continue using them in the future as well!
+      
+      buddy in the shop sings real good too
 hours:
   monday: "9:00 AM–6:00 PM"
   tuesday: "9:00 AM–6:00 PM"

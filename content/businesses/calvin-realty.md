@@ -24,42 +24,33 @@ photos:
   - "/photos/calvin-realty-g1.jpg"
   - "/photos/calvin-realty-g2.jpg"
 rating: 5.0
-review_count: 821
+review_count: 755
 amenities: []
 tags: ["edmonton", "real-estate"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Lorie Hall"
+    rating: 5
+    comment: |
+      Highly highly recommend Karina Van Brabant for your realty needs.  My husband & I were blessed to find this gem of a realtor.  She is such a well grounded individual.  She listens to your needs & wants & gets things done.  Karina had no problem handling a few hiccups that came up with ease.  She really went above & beyond for us.  She has a fantastic photographer contact that you definitely want.  We also used the law firm she recommend who also stepped up to the plate.  We can honestly say we consider Karina a friend & she is welcome at our beautiful new home any time.
   - name: "Ali R"
     rating: 5
-    date: "2026-07-10"
     comment: |
       I listed my property in Edmonton and from the very first walkthrough, I knew Calvin was different. I had five other agents through but Calvin was the only one who actually walked the property and pointed out specific items and details that nobody else even noticed. That attention to detail told me everything I needed to know.
       His team…Ryan, Najma, Ian, and Svitlana (she’s my fav) were brilliant throughout the entire process. Everyone was professional, responsive, and on top of every detail from listing to closing. The sale came together smoothly and we closed at a fair number.
       
       If you're selling in Edmonton, don't waste time interviewing a dozen agents. Calvin and his team are the ones you want. I'll be recommending them to everyone I know and will absolutely be working with them again.
-  - name: "Austin"
+  - name: "Amy S"
     rating: 5
-    date: "2026-09-02"
     comment: |
-      I had a great experience working with Calvin and team. Calvin took the time to tour my home in person, provide thoughtful recommendations, and explain a sales approach tailored to my home and goals. Calvin handled challenges professionally, adapted quickly to the market, and was efficient while keeping me informed and in close contact throughout the process.
-      
-      The outcome exceeded my expectations, and I couldn’t be happier with how the sale came together. I wouldn’t hesitate to recommend Calvin Realty or work with them again on future deals.
-  - name: "Tyler"
+      I had an amazing experience working with Delaney! She was professional, knowledgeable, responsive, and incredibly helpful throughout the entire process. She made everything feel easy and stress-free, always taking the time to answer questions and make sure everything went smoothly. Her dedication, attention to detail, and genuine care really stood out. I couldn't have asked for a better realtor and would highly recommend Delaney to anyone looking to buy or sell a home!
+  - name: "Miranda Torgerson"
     rating: 5
-    date: "2026-02-26"
     comment: |
-      As a fellow Realtor, I recently had the opportunity to negotiate a transaction with Aman Rana, and it was a really great experience. He was professional, responsive, and solution-focused throughout the entire process. Even while he was negotiating firmly for his clients, communication remained respectful and productive.
-      
-      His attention to detail and commitment to getting the deal across the finish line made for a smooth transaction. I would absolutely welcome the opportunity to work together again on future deals. He is an excellent Realtor.
-  - name: "Pátèl Dâksh"
+      Wow!! Delaney was amazing. I just bought my first house and they made this experience as smooth and stress free as possible. I would have never purchased my first house without the help of Delaney. She was professional and the perfect person to help guide us through this process. I cannot recommend her more.
+  - name: "Addan 2023"
     rating: 5
-    date: "2026-09-03"
     comment: |
-      I had a wonderful experience working with Calvin Hexter. Calvin was incredibly helpful, professional, and responsive throughout the entire process. He made everything feel easy and stress-free, and I really appreciated how attentive he was to my needs. I would definitely recommend Calvin and Calvin Realty to anyone looking for someone they can trust!
-  - name: "Cathy Currie"
-    rating: 5
-    date: "2026-07-30"
-    comment: |
-      Working with Calvin Hexter and the team at Calvin Realty was an absolute pleasure. The entire transaction was handled with efficiency, professionalism, and excellent communication from start to finish. It’s always refreshing to work with true professionals on the other side of a deal, and Calvin and his team are a great example of what our industry should strive to be. Thank you for making this such a smooth and enjoyable transaction. I look forward to working together again!
+      We highly recommend Delaney and Calvin’s team for their exceptional work. Delaney sold our house very quickly because of her confidence and proactive approach. She was super diligent from start to end, especially when it came to handling our current tenant. Delaney expertly convinced the tenant to move out so the house could be sold quickly, which was a massive relief for us. Calvin’s team was incredibly professional, highly organized, and efficient throughout the process. If you want outstanding results, Delaney and Calvin’s team are the ones you need.
 ---

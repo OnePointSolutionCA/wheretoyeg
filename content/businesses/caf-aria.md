@@ -6,7 +6,7 @@ subcategory: "specialty"
 neighborhood: "Windermere"
 address: "20023 Lessard Rd, Edmonton, AB T6M 0K4"
 rating: 4
-review_count: 536
+review_count: 558
 tier: "featured"
 phone: "(825) 523-9638"
 website: "http://cafearia.ca/"
@@ -14,6 +14,36 @@ google_maps: "https://maps.google.com/?cid=7600082226363670658&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/caf-aria.jpg"
 reviews:
+  - name: "Alan Zheng"
+    rating: 5
+    comment: |
+      First time here and had a great experience. From start to finish our time here was enjoyable. The staff Uliana & Meena were very knowledgeable and patient with us as we had a lot of questions being new patrons.
+      
+      The cafe space decor was nice and music playing in the background added a nice atmosphere to the dining space.
+      
+      Food was delicious and we will definitely return with family and friends
+  - name: "Trisha Peakman"
+    rating: 3
+    comment: |
+      I tried to order a few things, and we kept getting told they were unavailable. Since this place has a fairly limited menu already that can be slightly disappointing.
+      
+      I had a very delicious amaretto coffee, though it was meant to be an Americano. However, my friend ordered for me. So this may have gotten lost in translation and not been on the service staff. So no points lost there. Regardless it was really good.
+      
+      I can't remember what I ordered. Some sort of eggs benny thing, the hollandaise was whipped, which was a very unique presentation. Though unfortunately, that made it cold during consumption. So there's the presentation sacrificing for a warm meal, perhaps. It was on a croissant type bottom.
+      
+      Atmosphere and service was nice, though. I just feel the price point for what you're getting is not the best valuation. I'd maybe come for a coffee, and a treat and keep it to a blue moon personally. That being said, i'm a bit more of a value hunter😅
+  - name: "Shayne Y."
+    rating: 3
+    comment: |
+      The staff was super nice, attentive, and provided great service, and the cafe was kept clean and tidy.
+      
+      While I completely respect business owners setting their own rules, right out the gate, seeing a sign for 'no studying and no working' made the space feel surprisingly inhospitable.
+      ​Having a comfortable space to sit and linger is majorly why people visit a cafe rather than grabbing a drink and running out, especially one priced at the high end of the spectrum.
+      
+      ​The coffee was good, but nothing other cafes don't already provide.
+      The pastries were just average, and considering the steep prices, I'd have a very hard time recommending them.
+      
+      Overall, the restrictive policy combined with the high cost makes it tough to justify coming back.
   - name: "Sana Ayesha"
     rating: 4
     comment: |
@@ -23,16 +53,6 @@ reviews:
       Service was excellent, we were taken to it seats within minutes . Staff were very attentive and even while waiting for our order they came and kept updating us ( food came decently early ) . They were quite nice and friendly as well.
       Atmosphere. This was a nice high end cafe and the atmosphere clearly reflected.
       Over all , awesome experience, of course overpriced like other reviews say, so definitely an occasional treat . But I will definitely be coming back.
-  - name: "Oemar Rehmaan"
-    rating: 4
-    comment: |
-      Most of the food items were pretty good. Really liked the Eggs Benedict and Trench Toast. Pancakes were average and brewed coffee was quite underwhelming. The atmosphere is nice and service is quite good.
-  - name: "Maddy Phaurest"
-    rating: 3
-    comment: |
-      Beautiful cafe. The pastries looked fantastic and tasted pretty good. The hot chocolate was a little mild for my taste, but was good. The prices seemed a bit steep though, for 3 croissants, 2 hot chocolates and a cappuccino we ended up paying nearly 50$.
-      
-      I was surprised to find out the cafe had been open for more than a month though. While the servers were friendly and kind, service was slow and seemed confused. They ran out of cups while we were there, which was pretty surprising for a cafe. I also found the booths uncomfortable and a very tight fit - if I go again I would definitely go for a table with standard chairs to get a bit more space.
   - name: "R K"
     rating: 3
     comment: |
@@ -49,10 +69,6 @@ reviews:
       This location is a newer-developed area, and it would be really nice to have a local, non-chain little breakfast/brunch/cafe. I just wish either the portion or quality reflected the price or vice versa.
       
       That being said, I'll give this place at least one more try in the future, but I think the fact that so many people leaving reviews with concerns over the prices is fairly telling. For the food items above and two drip coffees and a latte, we spent around $92 before any tax or tip on breakfast.
-  - name: "Tariq Almaashi"
-    rating: 5
-    comment: |
-      I had the Salmon Egg Benedict and it was very delicious. Coffee was also good. The service was amazing. Very friendly staff. Nice setting. Highly recommended
 hours:
   monday: "9:00 AM–11:00 PM"
   tuesday: "9:00 AM–11:00 PM"

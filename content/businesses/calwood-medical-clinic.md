@@ -18,8 +18,8 @@ hours:
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/calwood-medical-clinic-1.jpg", "/photos/calwood-medical-clinic-2.jpg", "/photos/calwood-medical-clinic-3.jpg"]
-rating: 3.9
-review_count: 22
+rating: 3.8
+review_count: 21
 price_range: "$$"
 amenities:
 

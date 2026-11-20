@@ -12,15 +12,15 @@ website: "https://www.cafebelair.ca/"
 google_maps_url: "https://maps.google.com/?cid=115202261474921587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
   monday: "Closed"
-  tuesday: "12:00 PM–6:00 PM"
-  wednesday: "12:00 PM–6:00 PM"
+  tuesday: "1:00 PM–6:00 PM"
+  wednesday: "1:00 PM–6:00 PM"
   thursday: "Closed"
-  friday: "11:00 AM–5:00 PM"
+  friday: "1:00 PM–6:00 PM"
   saturday: "11:00 AM–4:00 PM"
   sunday: "11:00 AM–4:00 PM"
 photos: ["/photos/cafe-bel-air-1.jpg", "/photos/cafe-bel-air-2.jpg", "/photos/cafe-bel-air-3.jpg"]
 rating: 4.9
-review_count: 379
+review_count: 387
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,6 +30,32 @@ tags: ["edmonton", "tea"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Chelsea Ragbir"
+    rating: 5
+    comment: |
+      Had such a lovely experience at Cafe Bel Air! Visited today and absolutely loved the food. Everything was delicious, and the atmosphere made the visit even better. It's so wonderful to see them back after the fire, and I'm genuinely happy they're up and running again. It's always nice to support local Edmonton businesses, especially ones that put so much into creating a great experience for their customers. Wishing them continued success! Definitely looking forward to coming back. ❤️
+  - name: "Maureen z"
+    rating: 5
+    comment: |
+      A hidden gem — twice visited, and already planning our next trip back!
+      
+      Café Bel Air has completely won me over. My friend and I visited for the first time and knew after just one bite that we'd be returning. I ordered the goat curry, and I can't say enough good things about it — the gravy was so flavorful, and the goat meat was perfectly seasoned and melt-in-your-mouth tender. It's easily one of the best dishes I've had in a long time. To top it off, we were served vanilla tea that was absolutely excellent and the perfect complement to our meal.
+      
+      We enjoyed it so much that we came back for a second visit, this time for their afternoon tea — and the entire experience did not disappoint. Every hors d'oeuvre was made with such fresh ingredients and so much creativity, and each one turned out beautifully delicious. You can tell real care goes into everything they serve.
+      
+      I highly recommend Café Bel Air to anyone looking for amazing food and a wonderful experience. We will definitely be back again and again!
+  - name: "Collin WC"
+    rating: 5
+    comment: |
+      Stepping into Café Belair feels like entering a pocket of calm — the kind of environment where time slows just enough for you to actually taste what’s in front of you.
+      
+      Their high tea service is exceptional. Every sweet and savory item is hand‑crafted, intentional, and beautifully balanced. Nothing is mass‑produced or rushed. You can taste the care in the details — the textures, the flavour pairings, the presentation. It’s the kind of craftsmanship that reminds you how good food can be when someone truly pays attention.
+      
+      The savoury selections are delicate but satisfying, and the sweets are refined without being overly rich. Together, they create a rhythm — a progression — that makes the entire experience feel curated rather than assembled.
+      
+      The atmosphere is warm, calm, and quietly elegant. It’s the perfect setting for conversation, connection, and presence. High tea here isn’t just a meal; it’s a pause, a reset, a moment of steadiness.
+      
+      A beautiful experience, and one I’d happily return to.
   - name: "Aaliyah Bochar"
     rating: 5
     comment: |
@@ -42,17 +68,4 @@ reviews:
       Took my mom and partner here for high tea. We’ve gone to other places for high tea before but this one is by far the best and most cost efficient! I loved trying new types of flavours and creative snacks. I recommend the cardamom tea, it was delicious!
       
       Beautiful and clean atmosphere with great decor, and the people who work there are so lovely and kind. Would definitely love to come back.
-  - name: "Laksha Gunesie Daboo"
-    rating: 5
-    comment: |
-      After driving for almost 6hrs from Medicine Hat to Edmonton. We were treated with a wonderful tea and cakes (napolitains, puits d’amour). The amazing hospitality was same as when we visit families and friends in Mauritius. Made us feel home. To top it up, the mine bouillie agneau and oeuf mirroir made the day. With the fresh chilli paste. Simply amazing! 🤤
-      I am definitely making the drive again soon for some amazing dishes.😍
-  - name: "Auxy DB"
-    rating: 5
-    comment: |
-      Celebrated my boyfriend’s and my birthday here during brunch, and everything was amazing. The atmosphere was beautiful, the food was incredible, and for the price, it’s easily the best brunch I’ve had in the city. Everything was thoughtfully served, including dessert and complimentary tea, which made the experience even better. The service was excellent as well — definitely a place worth coming back to.
-  - name: "Shawn Keys"
-    rating: 5
-    comment: |
-      Hosted my wedding reception high tea and it was absolutely stunning!  The food and service were exquisite and the owners were so friendly, helpful and accommodating. Highly recommend this venue for a micro wedding, shower or any special occasion.  Thank you Cafe Bel Air it was a magical, whimsical and romantic event and we will cherish the memories forever❤️
 ---

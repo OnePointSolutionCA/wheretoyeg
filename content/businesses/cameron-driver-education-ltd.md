@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/cameron-driver-education-ltd-1.jpg", "/photos/cameron-driver-education-ltd-2.jpg", "/photos/cameron-driver-education-ltd-3.jpg"]
 rating: 4.9
-review_count: 1079
+review_count: 1089
 price_range: "$$"
 amenities:
 
@@ -28,53 +28,53 @@ tags: ["edmonton", "driving-school"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "RSNSHOOTER EDM"
+  - name: "Sallow Liman"
     rating: 5
     comment: |
-      Cameron Drive Education is one of many schools in Edmonton. Obviously I could only choose one. After I got information back from friends and colleges they all recommended Cameron as the most professional Driving Education School for class 1 and 3 in the city. I started the top of Dec 2025. I'm 55 years old that hasn't been in school for 30 years so yes I was a bit intimidated. Here is some bullets point I took away after passing and receiving class 1 in late Jan 2026.
+      I had a wonderful experience at Cameron Driver Education. The ladies at the front desk are super friendly, helpful and welcoming.
       
-      1) Obviously when you are signing up you need to be walked through all the paper work and grants you need to deal with. Ashe and crew were very helpful and knowledgeable. Throughout the course that is your goto for any issues and appointments. They keep in contact with for your availability for sessions. VERY HELPFUL.
+      The instructors are calm, patient, friendly and very knowledgeable, especially Bernie.
       
-      2) Where do I start with the instructors?  Well I could be here for days explaining but the short of it is...THEIR THE BEST. They all have different personalities and you will be with them all till you find the personality that matches yours then you have the opportunity to request the one that fits you for the rest of the way. If not you can keep rotating through them. They are all great. As the content is the same they all have their own little tips on how to follow pretrip procedures their way. So I recommend being with all of them at the beginning to make the learning the procedures as fluid with the most guidance.
+      I completed my Class 1 training in just 5 weeks and I passed by road test at the first attempt, all thanks to my instructor (Bernie).
       
-      3) While you are learning all the pretrip you will start driving the trucks with them. Remember this is serious stuff you could injure some very easily with these trucks. The instructors will be tough on you. THEY HAVE TO BE. So if you are sensitive you better convince yourself it's for your safety and others. Don't get me wrong they are ALL great people with big hearts but sometime when push comes to shove they are there to make you better and safe in the trucks The provincial examiners will not put up with Unconfident people cause that's when accidents happen . You can't go into your exam doubting. If so the instructors will get you there. So the crew at Cameron again will push you cause you need it. And I thank all of them for doing it hence me being able to pass on my first time.
-      
-      I want to personally thank.
-      
-      Ashe in the office. She is " The gate Keeper" and is good at it.
-      
-      Robin "The Polisher" for helping me polish my pretrip to make it work for me. I'm so thankful for you.
-      
-      Buck "The Dragon" you want him as your driving instructor. He will push you and push you to learn all the driving techniques you need. Hence the nickname. He is there to make you safe and pass.
-      
-      FYI those names came from me. Don't go in the office asking for the Dragon. lol
-      
-      Long story short.... Go get educated at Cameron. YOU WONT REGRET IT!!!!
-  - name: "Ammar Elhakim"
+      Thank you Cameron team.
+  - name: "Paul Aleksander"
     rating: 5
     comment: |
-      Genuinely really good guys here. Darryl actually looks out for students and has a bunch if stories and experience to share thst actually help the imporant stuff stick. He goes through it a little fast but heavily repeats and emphasizes key details which helps immensely. My tester Harkirat was super chill and informative. Even gave me extra tips for things to watch for, like the rubbers on the airlines when connecting the trailer and newer features in modern trucks!
+      I had a great experience with Cameron Driver Education while completing my Air Brakes course and Class 3 training.
       
-      All in all, really worth it!
+      The Air Brakes course included 8 hours of lectures.
+      As English is not my first language, I initially found it challenging to understand all the technical information.
+      However, the instructor was very understanding and made a real effort to explain everything in clear and accessible language. He took the time to explain things in detail and made sure the material was understandable.
+      
+      After completing the course, I started my practical training with Susan, and I highly recommend her as an instructor!
+      She is incredibly patient and will explain something as many times as necessary until you understand it.
+      She pays close attention to your weak areas and helps you improve them, but at the same time, she always recognizes your strengths and encourages you with positive feedback. That made a huge difference in my confidence behind the wheel.
+      
+      The entire team at Cameron Driver Education are true professionals!! The trucks are clean, the office is clean and welcoming, and everyone always greets you with a smile. Any question or issue I had was handled quickly and professionally.
+      
+      I am extremely grateful to the entire team for their support, knowledge, patience, and guidance throughout the whole process.
+      Thanks to their help, I successfully obtained my Class 3 Driver’s Licence! 🎉
+      
+      Thank you, Cameron Driver Education, for being such a great part of this achievement!
+      
+      Highly recommended! ⭐️⭐️⭐️⭐️⭐️
+  - name: "Hassan Mahmood"
+    rating: 5
+    comment: |
+      I recently completed my Air Brake Certificate through Cameron Driving Education. The training was informative and hands-on, giving me a better understanding of air brake systems, inspections, safety procedures, and proper operation. The instructor was knowledgeable and explained everything clearly, making the learning experience very useful and practical.
+  - name: "Kailin Kuefler"
+    rating: 5
+    comment: |
+      From start to finish, I have nothing but good things to say about Cameron Driver Education.
+      
+      The office staff was very accommodating in creating a flexible schedule for training sessions. After a few classes with a few different instructors, I found one that met my learning style and requested them for the rest of my course and although it took a little longer to complete my hours, it was absolutely worth it.
+      
+      Mr. Buck Olson, I can’t thank you enough for teaching me the knowledge, skills and experience to pass my road test. There is a lot to learn from this man, and if you’re willing to learn, he’s willing to teach.
+      
+      Thanks again to the office staff, instructors and last but not least Buck!
   - name: "Colten Brockman"
     rating: 5
     comment: |
       Wonderful experience. I recently got my class one thru Cameron. The staff was very helpful and kind. The instructors were all awesome and professional. Very top notch group highly recommended for anyone looking to get airbrakes/class 1 & 3.
-  - name: "Bibin babu charuvila"
-    rating: 5
-    comment: |
-      Exceptional Training and Professional Instructors!
-      
-      I recently completed my Class 3 training at Cameron Driving and I couldn’t be happier with my experience. From start to finish, the instructors were professional, knowledgeable, and patient, ensuring I was well-prepared.
-      
-      The training vehicles were well-maintained, and the lessons were structured in a way that made learning easy and effective. The instructors took the time to explain everything clearly, providing hands-on practice that built my confidence on the road.
-      
-      I highly recommend to anyone looking for high-quality commercial driving lessons. Whether you’re a beginner or just upgrading your license, this is the place to go!
-      
-      Special thanks to Instructor Wayne, Susan & Gary
-      And thanks a million to the Madam in the reception who has schedule my training and test.
-  - name: "Va Nylla"
-    rating: 5
-    comment: |
-      Great Instructors and friendly staff. Would highly recommend coming here for a good training experience. I took 6 hours total and didn't feel any pressure to purchase one of the major training courses. Thanks Cameron!
 ---

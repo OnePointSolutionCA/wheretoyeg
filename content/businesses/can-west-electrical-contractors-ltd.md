@@ -24,30 +24,32 @@ photos:
   - "/photos/can-west-electrical-contractors-ltd-g1.jpg"
   - "/photos/can-west-electrical-contractors-ltd-g2.jpg"
 rating: 4.5
-review_count: 24
+review_count: 25
 amenities: []
 tags: ["edmonton", "residential"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Nothern Waypoint"
+    rating: 1
+    comment: |
+      Extremely disappointing. One of this company’s trucks (Unit 75) parked so close to my vehicle that I was unable to open my driver’s door and get into my car. I was genuinely angry when I came back and found the situation.
+      
+      This level of inconsideration reflects poorly on the company. Whether it was carelessness or a lack of attention, no one should have to climb into their vehicle from the opposite side because of how a company vehicle was parked. I expect better professionalism from a business that operates vehicles in public spaces.
   - name: "Greg Tonn"
     rating: 5
-    date: "2025-11-21"
     comment: |
       Great company - professional, honest, and genuinely good people.  I'd highly recommend them.
   - name: "Michael Riske"
     rating: 5
-    date: "2018-04-25"
     comment: |
       Can-west installed my infrared panels in my hot yoga room.  They were priced great, totally worked around my massage therapists schedule when they had to run pipe above the ceiling and completed the job when they said they would be done.  And then project manager, Nick, followed with me to make sure everything was done right and to my satisfaction.  Great experience
   - name: "Mz Me Always"
     rating: 4
-    date: "2022-07-11"
     comment: |
       Although the staff was not able to help me, they do large projects not individual homes, the reception was amazing. She not only helped me with figuring out what type of work I was looking for but also gave me a couple of references.
   - name: "Rosetti"
     rating: 5
-    date: "2020-08-12"
     comment: |
       Can-West did work at our shop. Super professional, quick, and reliable.
       

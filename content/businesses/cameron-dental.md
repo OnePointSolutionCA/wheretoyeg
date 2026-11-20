@@ -24,42 +24,31 @@ photos:
   - "/photos/cameron-dental-g1.jpg"
   - "/photos/cameron-dental-g2.jpg"
 rating: 5.0
-review_count: 736
+review_count: 751
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "dentists"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Chris Stosky"
+  - name: "Josh Prince"
     rating: 5
-    date: "2026-09-01"
     comment: |
-      What an excellent experience !!!! Dr Tammy and Jesse were very friendly and helpful. Dr Tammy explained every procedure and exceeded my expectations !!! The ladies at the front desk were welcoming, friendly and very helful. My only regret is that i can only give them  5 stars ( out of 5). They deswrve many more than 5.
-  - name: "Jane Krahulec"
+      This dental practice provides exceptional care and service. The team is knowledgeable, friendly, and genuinely focused on patient comfort. Scheduling was easy, appointments were on time, and the entire process was efficient and stress-free. The dentist was thorough, professional, and took the time to ensure I understood my treatment options. It's clear that patient satisfaction is a top priority. I would confidently recommend this clinic to family and friends.
+  - name: "Deborah Pinchuk"
     rating: 5
-    date: "2026-06-25"
     comment: |
-      I have recently had 3 visits to Cameron Dental and I am extremely impressed with the service I received. From the moment you enter the door you are greeted by the sweetest girls! I had to have a tooth removed and the doctor was very thorough on telling me each step before and while it was happening. And today the sweetest girl cleaned my teeth. I highly recommend Cameron Dental!
-  - name: "Tiffy Mclarkey"
+      Cameron Dental is the best dental practice our family has been to. From the super friendly front staff, to the hygienists and every dentist we have interacted with, we have never had a bad experience. They always have the newest technology and make what could be an uncomfortable experience so much better. We feel so fortunate to have them in Fort Saskatchewan.
+  - name: "Sherry Palmer"
     rating: 5
-    date: "2026-06-04"
     comment: |
-      My family and I have been coming here for years, and I can't recommend them enough. If you're looking for a place that's great with kids, has a friendly and welcoming staff, and never makes you feel rushed when you have questions, this is it!
-      My kids actually enjoy coming here, which says a lot. There's never any struggle getting them out of the car because they always feel comfortable and welcomed.
-      Dr. Tammy is my go-to for Botox, and she does an amazing job every time. She takes the time to listen, answer questions, and make sure you're comfortable with the process. We always have a great experience, and I highly recommend this office to anyone looking for exceptional care.
-  - name: "Amanda McLennan"
+      Clinical staff are warm and welcoming. Dr Cameron makes sure you’re comfortable and that you are understanding of what is happening. She walks her patients to the front desk when finished with the appointment. Very personable.
+  - name: "Carin Haugen"
     rating: 5
-    date: "2026-03-31"
     comment: |
-      I had such a great experience at Cameron Dental in Fort Saskatchewan! The entire team is professional, welcoming, and truly cares about their patients. From the moment you walk in, you feel comfortable and well taken care of.
-      
-      A special shoutout to Jessie, who helped me every step of the way with my Invisalign journey. She was incredibly supportive, knowledgeable, and always took the time to answer my questions and make sure I felt confident throughout the process. Her kindness and attention to detail made a huge difference for me.
-      
-      I’m so happy with my results and highly recommend Cameron Dental to anyone looking for amazing dental care!
-  - name: "Danielle Denesiuk"
+      Cameron Dental experience today was as good as it get, for a dental appointment! Lol 😆 everyone was kind and listened to my concerns about my daughter's medical issues and they were so amazing. No one loves going to the dentist but coming here might just change your mind! 10/10 service! Highly recommend.
+  - name: "Beth Kay"
     rating: 5
-    date: "2026-05-05"
     comment: |
-      Cameron Dental is amazing. I recently completed invisiline to straighten my teeth.  Jess is great and helps you through every step.  The process is super easy - no weekly visits, scan your own teeth weekly from home via an app.  It made the whole process easy and streamlined.  Any questions I had along the way were quickly answered by Jess through the app. I am so glad I did it and I am grateful to Cameron Dental for my perfect smile. 😊
+      Very happy with how fast we were able to get in! The staff was so friendly and the Dentist was extremely thorough and professional (even called to confirm a follow up medication) So pleased with the whole experience!!
 ---

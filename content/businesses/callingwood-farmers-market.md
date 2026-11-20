@@ -19,7 +19,7 @@ hours:
   sunday: "10:00 AM–3:00 PM"
 photos: ["/photos/callingwood-farmers-market-1.jpg", "/photos/callingwood-farmers-market-2.jpg", "/photos/callingwood-farmers-market-3.jpg"]
 rating: 4.6
-review_count: 696
+review_count: 719
 price_range: "$$"
 amenities:
 
@@ -27,6 +27,16 @@ tags: ["edmonton", "farmers-market"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Mide Oguns"
+    rating: 5
+    comment: |
+      Had a nice day out supporting local businesses and exploring varieties of entrepreneurial talents from arts, to food, drinks, crochet pieces, jewelry and others. I really enjoyed purchasing organic fruits and vegetables at great prices.
+      Overall, I had fun, its a great place to go showcase your business and gain visibility as well as meet other people. This year's run ends in October, so prepare for the next one... 🤑🫡✌🏽
+  - name: "Eyepoke Seventy-Seven"
+    rating: 3
+    comment: |
+      Walkers Orchards sold me rotting, shriveling , moldy  grapes 🍇 with visible fungus on them. I went back and they exchanged them for some
+      More rotting grapes but this time the grapes had a bug infestation of some sort and was full of webbing/cocoons on top of the mold.  Please don’t sell bad food. It makes people sick and it wasted an hour of my day for nothing. Nectarines were musy/no juice/flavourless. Never again. Three stars only because the juice was good. Not my first time with bad fruit from here. Outside portion looks good but underneath you can’t even eat that moldy stuff. Do better. This feels like a scam. How do we support local when local doesn’t give quality or a rats ass?
   - name: "The Teapot Dormouse"
     rating: 4
     comment: |
@@ -66,16 +76,8 @@ reviews:
       We noticed that some musician were performing that day.
       
       Although the prices might not be the lowest, the atmosphere was great.
-  - name: "Matthew Aseltine"
-    rating: 4
-    comment: |
-      A unique collection if vendors selling everything from fresh fruit to specialty items. Definitely a good way to spend and afternoon checking out this vibrant scene.
-  - name: "Stephanie B"
+  - name: "Zka"
     rating: 5
     comment: |
-      Love the Callingwood Market! It's close to home for me so I like the convinience and it all depends what you're looking for. The kimchi place is amazing, good variety and quality for fruits and veggies and Theos has great tzatziki.
-  - name: "KL"
-    rating: 4
-    comment: |
-      This was a nice outdoor event for the weekend . They have different local vendors selling various types of food, sauces, art , car cleaners , 3d printed ornaments and plants. It's a great way to spend your day with the family and enjoy what  local vendors have to offer.
+      Pretty good afternoon whit the family, a bit of everything.
 ---
