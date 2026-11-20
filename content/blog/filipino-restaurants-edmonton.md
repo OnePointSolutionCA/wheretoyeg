@@ -1,6 +1,6 @@
 ---
 title: "Filipino Restaurants in Edmonton: What to Order"
-seoTitle: "Filipino Restaurants in Edmonton | WhereToYEG"
+seoTitle: "Filipino Food in Edmonton 2026: Where to Eat, What to Order"
 slug: "filipino-restaurants-edmonton"
 description: "Filipino restaurants in Edmonton and St. Albert, plus what to order: chicken inasal, pancit, kare kare and halo halo. Real spots across the city, by area."
 publishedDate: "2026-10-21"
