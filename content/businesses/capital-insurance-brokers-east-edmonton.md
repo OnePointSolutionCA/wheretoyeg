@@ -23,7 +23,7 @@ hours:
 photos:
   - "/photos/capital-insurance-brokers-east-edmonton-g2.jpg"
 rating: 4.9
-review_count: 146
+review_count: 147
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "insurance"]
@@ -32,33 +32,26 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Graham Kilfoyl"
     rating: 5
-    date: "2026-07-20"
     comment: |
       I bought a R32 Skyline GTR and Julianne Bryan is the absolute queen of all insurance people! She helped me with some time sensitive last minute things that needed to get done to insure my car. Lots of hoops to jump through and she knocked it out of the park to get this thing insured. She stayed late on a Friday night to get this policy going. Amazing job. Highly recommended.
+  - name: "Kristina Guerette"
+    rating: 5
+    comment: |
+      Juli has been great to work with over the past several years, for both home and vehicle insurance. She explains anything I don't understand, responds in a timely manner, and makes sure the coverage is right for my needs.
   - name: "Bart Lubojemski"
     rating: 5
-    date: "2026-05-29"
     comment: |
       Julianne Bryan provided exceptional service throughout the entire process. I contacted Julianne as I was struggling to find suitable insurance premiums for two vehicles and our property. She gathered all the necessary details quickly and was able to help in a smooth and efficient manner.
       
       Julianne was professional, responsive, and very helpful from start to finish. I would definitely recommend Julianne and Capital Insurance Brokers to anyone looking for reliable insurance support.
       
       I hope we can work together again in the future.
-  - name: "Bryan L"
+  - name: "Nedal Sweiss"
     rating: 5
-    date: "2026-04-29"
     comment: |
-      Julie was incredibly thorough and patient with helping me find a great rate for my condo. Helped me understand the coverage I’d be getting and choosing a policy that was right for me.
-      
-      If the other reps are like Julie, I highly recommend going with Capital Insurance Brokers. I feel confident they’ll be just as attentive if I ever have any issues with a claim.
+      Julie Bryan was great to work with! She helped us find an excellent rate on our home insurance and was professional, responsive, and prompt throughout the entire process. Highly recommended!
   - name: "Anjali Solanki"
     rating: 5
-    date: "2026-08-20"
     comment: |
       Julie is extremely helpful and patient. First time being on my own policy and she explained and made everything seamless for me. Julie is attentive and makes sure her clients are taken well care of.
-  - name: "Cj"
-    rating: 5
-    date: "2026-06-06"
-    comment: |
-      Julianne got me the BEST full coverage price on my new Toyota 4runner out of 7 different brokers around Edmonton, and she got it done FAST! I highly recommend her!
 ---

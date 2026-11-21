@@ -24,37 +24,31 @@ photos:
   - "/photos/capital-dental-choice-west-edmonton-g1.jpg"
   - "/photos/capital-dental-choice-west-edmonton-g2.jpg"
 rating: 4.9
-review_count: 394
+review_count: 409
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "dentists"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "John S"
+  - name: "Nahom BWM"
     rating: 5
-    date: "2026-05-28"
     comment: |
-      I had a great experience at Capital Dental Choice. Dr. Carlos Lopez and his staff were friendly, professional, and made me feel comfortable from start to finish. The office has a welcoming atmosphere, and the whole visit felt easy, positive, and well taken care of. Going to the dentist isn’t always something people look forward to, but this team made it a genuinely enjoyable experience. I would definitely recommend Capital Dental Choice to anyone looking for a caring and trustworthy dental team in West Edmonton.
-  - name: "Johanna Contreras"
+      I had an appointment for myself along with my toddler and the experience was just remarkable! The staff were so welcoming and when my appointment was up,  Boris, the hygienist did a wonderful job and Dr. Emily, walked me through the entire treatment with so much care and great advise. Ankie just took care of  my son and he enjoyed his happy visit. She made sure he was playing the entire visit and I am so grateful. I 1000% recommend this clinic!
+  - name: "Tanaka Nemutambwe"
     rating: 5
-    date: "2026-05-05"
     comment: |
-      I went to the dentist and, from the moment I arrived, everyone was very kind — from the front desk to the assistant and Dr. López. The whole experience was excellent from start to finish. Dr. López is amazing; he explained everything clearly and answered all of my questions. You can really see the professionalism and care in every detail. I highly recommend him.
-  - name: "sunny HB"
+      I’ve been a patient for a while now, And this team is absolutely amazing. First, everyone is super sweet, Boris ( Hygienist) and Dr.Emily have been my amazing team! and the receptionists (Ankie) are such a warm welcome when you walk in!🤗 The environment itself is clean, calming and supportive!
+  - name: "Dominic"
     rating: 5
-    date: "2025-08-07"
     comment: |
-      I visited Dr.Emily for a dental checkup, i couldn't be more pleased with the experience. From the moment i walked into the clinic, the staff was warm and welcoming,making me feel comfortable.
-      Dr. Emily was incredibly professional.gentle and thorough.She explained everything clearly,answered all my questions with patience. I highly recommend Dr. Emily and her team.
-  - name: "love123 love123"
+      I had a great experience during my dental cleaning with Boris, the hygienist. He was professional, gentle, and thorough, making the whole experience comfortable and pleasant. And shoutout  to Ankie and Erica at reception for their warm welcome and friendly attitude. They created such a welcoming atmosphere from the moment I arrived. Excellent service at Capital Dental Choice all around highly recommend!
+  - name: "Marilyn Cote"
     rating: 5
-    date: "2026-06-12"
     comment: |
-      Dr. Lopez and Liza (RDA) are fantastic! He is an excellent dentist. He is fast and does really good work. He is very knowledgeable and if you need a referral he will only send you to best. I can not say enough good things about this dental clinic.
-  - name: "Daniil Khadanovichh"
+      I had a great experience at this new dentist! From the moment I walked in everyone was friendly, welcoming, and professional. They made me feel comfortable and took the time to explain everything clearly. I really appreciate how caring and patient they were throughout my appointment.
+  - name: "Peter Wallace"
     rating: 5
-    date: "2026-01-15"
     comment: |
-      I had a great experience at this dental clinic and couldn’t be happier with the care I received. Dr. Lopez was professional, gentle, and took the time to explain everything clearly, which made me feel very comfortable throughout my filling procedure. His dental assistant, Liz, was equally wonderful—kind, attentive, and reassuring, making the whole visit smooth and stress-free. The service was efficient, the environment was welcoming, and the quality of work was excellent. I truly appreciate the level of care and would highly recommend Dr. Lopez and his team to anyone looking for outstanding dental service.
+      Overall, a great dental clinic! The entire team is very friendly and makes you feel comfortable from the moment you walk in. A special shout-out to Jamillah; she is a wonderful hygienist. Ankie at the front desk is so helpful and welcoming, and Dr. E is extremely professional and knowledgeable. Highly recommend this practice to anyone looking for top-notch dental care!
 ---

@@ -24,7 +24,7 @@ photos:
   - "/photos/canadian-tire-north-edmonton-g1.jpg"
   - "/photos/canadian-tire-north-edmonton-g2.jpg"
 rating: 4.2
-review_count: 3570
+review_count: 3614
 amenities:
   - "Delivery"
   - "Wheelchair Accessible"
@@ -32,24 +32,34 @@ tags: ["edmonton", "oil-change"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "khalilgibran g"
+  - name: "Abdirashid Yusuf"
+    rating: 1
+    comment: |
+      I recently purchased a car battery from Canadian Tire. When I went to have it replaced, I discovered that the battery I had purchased was too small and would not fit my vehicle. I returned to the store within 20 minutes to resolve the issue, only to be told that they could not refund my money and that I would have to take the battery with me, whether I wanted it or not.
+      
+      After spending nearly two hours trying to resolve what should have been a simple issue, they finally called a technician to assess the situation. I want to give credit where it’s due: the technician was a very nice and professional gentleman. He came outside, inspected the situation, and confirmed that the battery was not suitable for my vehicle.
+      
+      However, my biggest disappointment was dealing with a staff member named Moody, who identified himself as the manager, as well as the team in the parts department. Their attitude and approach to customer service were extremely disappointing. Moody, in particular, came across as arrogant and showed very little understanding of proper customer service.
+      
+      A manager should know how to communicate respectfully, handle customer complaints professionally, and find reasonable solutions instead of making an already frustrating situation worse.
+      
+      I understand that mistakes happen, but how a business handles those mistakes says a lot about its customer service.
+      
+      Canadian Tire, you need to do better. Customers deserve respect, clear communication, and fair treatment. I shouldn’t have to spend nearly two hours of my time trying to resolve an issue that could have been handled professionally in the first place.
+  - name: "Rumen"
+    rating: 1
+    comment: |
+      Had my seasonal tires switched at this store today for the first time because Costco was backed up,it was clear why they are a last resort for many. I met some of the most Nonchalant people today and it is most definitely my last time there.
+  - name: "howard heinrichs"
     rating: 5
-    date: "2026-06-26"
     comment: |
-      I met Psalmuel ' who is a Canadian tire associated, he helped me alot when the huge store overwhelmed me and I could not find the items I needed. Plus 2 kids with me at that time. He helped me alot and saved alot of time for me. Wonderful person. Kudos to you !
-  - name: "Dennis Bochon"
+      I purchased a gas powered pressure washer August 31. I took it home and assembled it.The next day I added oil and fuel. That is when I discovered damage to the unit. There had been minor damage to the box. I took pictures of the box and washer and headed to the store. I explained my situation and showed the pictures to Samiiro in customer service. She said to bring the unit back along with the box(I didn't have to put it back in the box 😀) When I returned with the damaged unit Samiiro checked it out and had a replacement washer waiting for me. Excellent customer service. Thankyou Samiiro..
+  - name: "Balkar Singh"
+    rating: 1
+    comment: |
+      Had a really disappointing experience at the automotive department. I went in looking for winter tires for my Camry, along with installation, balancing and alignment. The associate just said they didn’t have any. When I asked if he could order them, he didn’t really respond or seem interested in helping. I wasn’t expecting him to have everything in stock, but at least some effort or a suggestion would have been appreciated. I just moved to Edmonton from Calgary last week and was hoping to make this Canadian Tire my regular place for car services. Unfortunately, this experience has put me off. It’s disappointing to lose a potential regular customer over such poor service.
+  - name: "Madeleine Mary"
     rating: 5
-    date: "2026-07-09"
     comment: |
-      Just wanted to take a moment to recongnize one of your employees that helped me out with a no receipt return purchase that I had from your 97st store. After getting a hard “you didn’t buy that here”  from the other store I took a shot and went to your store. Within 30 seconds Warsha was able to find that I had in fact purchase the item at the 97st store and do the refund. You should know that in the past I did 90% of my CT purchases there. My business is coming to your store from this point because of this small act. Please thank Warsha and let her know her efforts are appreciated.
-  - name: "LBD"
-    rating: 5
-    date: "2026-06-29"
-    comment: |
-      I've always had positive shopping experiences at this location but yesterday's experience (06/27/26) really stood out for me. I'm in the middle of doing some diy renovations and really have no idea what I'm doing. I was very stressed going into the store but Isaac from the Hardware department was able to help me find everything I needed. He also pointed out some of the things I didn't know I needed for my project! I was very impressed with his customer service.
-  - name: "Brittany Somon"
-    rating: 4
-    date: "2026-05-20"
-    comment: |
-      I had a very pleasant experience with the parts department at Canadian Tire Manning. The customer service was excellent and everyone was so kind, patient, and helpful. Young brown man arush I believe his name was helped me understand exactly what I needed and made the whole process very easy and stress free and saved me money!. It’s so nice to still receive genuine customer service these days.
+      A sweet boy named Bradley helped me find the right cables to jump my car! It is getting so chilly outside and I have no idea about how to fix cars or what parts are in them. I’m greatful that there was someone so sweet and helpful to help me find the right things! Definitely a life saver. Thank you Bradley!
 ---

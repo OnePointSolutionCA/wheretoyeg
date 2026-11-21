@@ -23,52 +23,39 @@ hours:
 photos:
   - "/photos/capital-edge-financial-planning-g1.jpg"
 rating: 5.0
-review_count: 99
+review_count: 102
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "financial-advisors"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "David Mazurick"
+    rating: 5
+    comment: |
+      Dave and Peggy at Capital Edge Financial Planning where exceptional to work with.  They provided a solution that others in the industry that I had previously delt with were not able to.
+      
+      They procured the results I was looking for in a timely manner.  The face to face and over the phone interactions were exactly what I needed to stay informed.  This is the kind of customer service you don't see much anymore.
+      
+      I highly recommend Dave and Peggy!  5 STARS!!
+  - name: "Justice Momoka"
+    rating: 5
+    comment: |
+      It was an absolute pleasure working with Dave and Peggy! They were both incredibly personable, timely, and thorough, and I always felt that our best interests were their top priority. The process was much smoother than I expected, and they took the time to ensure we understood every step along the way. I walked away feeling informed, confident, and well taken care of. I couldn’t have asked for a better experience!
   - name: "StrengthInUnity UnionVoice"
     rating: 5
-    date: "2026-08-27"
     comment: |
       Excellent experience with Dave at Capital Edge. He was understanding, approachable, and genuinely focused on helping see the bigger picture.
       
       Our first meeting showed why working with a Certified Financial Planner early matters: knowing where you are, where you want to go, and having a clear plan to get there. While initially suggested through a pension course, it wasn’t until meeting with Dave that I truly understood the value and importance of having a Certified Financial Planner.
       
       I’m grateful for Dave’s guidance and would highly recommend him to anyone looking to take control of their financial future.
-  - name: "C Sandford"
+  - name: "Maddie Momoka"
     rating: 5
-    date: "2026-03-16"
     comment: |
-      Exceptional Service and Expertise
-      
-      We had an outstanding experience working with Dave and his team on our life insurance policy. They took the time to understand our needs, explained all the options clearly, and helped us choose a plan that gives us real peace of mind. Their professionalism and responsiveness made the whole process smooth and stress free. Even with our schedule changing, they accommodated us every time. We felt supported every step of the way, and never rushed or pressured.
-      
-      Highly recommend to anyone looking for knowledgeable, trustworthy guidance on life insurance.
-  - name: "Jaylene Gress"
+      Dave was the perfect person to help us get our insurance policies set up! Super friendly, knowledgeable, and organized. I feel like we fully understand our policies and are set up for success. 10/10 recommend over and over
+  - name: "Melanie Makawy"
     rating: 5
-    date: "2026-05-07"
     comment: |
-      Dave has been amazing!
-      
-      From our first meeting with him he defiantly put our minds at ease and reassured us that we are definitely on track for our retirement goals.
-      
-      Peggy is super thorough and fast at getting us set up with all our account info and user management.
-      
-      Thank you both!
-      
-      Highly recommend
-  - name: "Andrew Briggs"
-    rating: 5
-    date: "2026-03-05"
-    comment: |
-      Dave is amazing to work with. I have a fairly complex financial situation with owning a corporation while also going through a divorce, and he was extremely helpful in navigating everything. He took the time to understand the details and provided clear guidance that made a big difference. I really appreciate his support and would highly recommend him.
-  - name: "Candice Harder"
-    rating: 5
-    date: "2026-01-20"
-    comment: |
-      We can't say enough good things about Dave and Capital Edge! Always very thorough, working with us to get the best deal for our employee benefit plan. He has also taken all of the guesswork out of retirement with his financial planning expertise so we are comfortable knowing what the future brings. Highly recommend!
+      Dave (& Peggy) were really wonderful and personable to work with while creating a financial/investment plans and goals. He explained everything well and took the time to meet to show me what my options were without rushing things. He also has the sweetest assistant (a senior orange cat named Mike) which was an added bonus.
 ---

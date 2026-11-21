@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: []
 rating: 4.8
-review_count: 247
+review_count: 256
 price_range: "$$"
 amenities:
 
@@ -28,30 +28,36 @@ tags: ["edmonton", "insurance"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Geoff Au"
+  - name: "THIERRY GAKUMBA"
     rating: 5
     comment: |
-      My fiancee and I were recently referred to Michael L. for homeowners insurance as he was highly recommended by many of our friends.
+      I had a great experience working with Rory Hsiao for my automobile insurance. Rory was helpful, professional, and patient throughout the process. He took the time to assist me and made everything much easier to understand. I really appreciate his support and excellent customer service. I highly recommend Rory to anyone looking for help with auto insurance. Thank you, Rory, for your great service!!!
+  - name: "Thomas C"
+    rating: 5
+    comment: |
+      I had the pleasure of working with Michael Lee to arrange insurance for my new vehicle and the entire experience was excellent. Michael was incredibly knowledgeable, honest, and attentive throughout the entire process. He took the time to understand what I needed for my vehicle and he provided me with several options to consider. Everything was rather straightforward and easy to navigate. I was working with a very short turnaround time and Michael went above and beyond to ensure everything was arranged quickly within the deadline I set. He was very responsive, organized, and genuinely committed to providing great service. I would have absolutely no hesitation recommending Michael to anyone looking for a knowledgeable, trustworthy, and reliable insurance broker!
+  - name: "Ricky Camba"
+    rating: 5
+    comment: |
+      ⭐⭐⭐⭐⭐
       
-      We are possessing our first house this month and Michael did an exceptional job helping us get through this process. Michael explained everything in great detail and gave us various tips and advice that were highly appreciated especially for first-time home buyers.
+      I had a great experience working with Rory for our home insurance. He was very professional, helpful, and responsive throughout the entire process. He explained everything clearly, answered all of our questions, and made the process easy and stress-free.
       
-      I couldn’t ask for a better agent and I would highly recommend anyone to use his services in the future!
-  - name: "Nail Hub"
-    rating: 5
-    comment: |
-      I had a great experience working with Michael for my nail salon insurance. He was very professional, knowledgeable, and took the time to explain everything clearly so I could understand my options. He made the whole process smooth and stress-free, and helped me find the right coverage at a good price. I really appreciate his patience and support throughout. Highly recommend him if you’re looking for reliable business insurance!
-  - name: "Sara Ly"
-    rating: 5
-    comment: |
-      I had a really great experience working with Michael for my car insurance. He made the whole process easy and stress-free while helping me find great coverage at a good price. I would recommend him to anyone looking for any type of insurance, whether it's car, home, or business insurance. I'll be back for any of my future insurance needs!
-  - name: "Elyze Armstrong"
-    rating: 5
-    comment: |
-      I had a great experience working with Haley. She was incredibly helpful, kind, and always quick to respond to any questions I had. She made the entire process easy to understand and took the time to ensure I found the right coverage for my needs. I highly recommend their services to anyone looking for knowledgeable and reliable insurance assistance!
-  - name: "Kelsey"
-    rating: 5
-    comment: |
-      We recently worked with Xavier at Capital Insurance Brokers and couldn’t be happier with the experience. From start to finish, he was quick to respond, easy to communicate with, and made the entire process simple and straightforward.
+      We truly appreciate Rory’s excellent customer service and the time he took to make sure everything was taken care of. It was a pleasure working with him, and I would definitely recommend Rory to anyone looking for reliable and professional home insurance service.
       
-      He helped us set up our home insurance and also bundled our auto insurance, finding us a great rate while making sure we had the coverage we needed. Xavier was friendly, knowledgeable, and genuinely enjoyable to work with. We’d recommend him to anyone looking for excellent service and competitive insurance options. Thanks again!
+      Thank you so much, Rory, for your excellent service!
+  - name: "Ron Bos"
+    rating: 5
+    comment: |
+      We sold a home and bought another recently, so there were a lot of changes that needed to be made with our property insurance. Through it all, Rory was amazing (as always) with professional service, timely processing, and acute attention to detail. Rory always follows through and follows up. I've never experienced a public-facing employee to be so thorough, so efficient, and so friendly. Thank you again, Rory!
+  - name: "Kat Davis"
+    rating: 5
+    comment: |
+      Carter was absolutely wonderful to work with! He helped my wife and me get both tenant and car insurance during our move from Chicago to Edmonton.
+      
+      Coming from the U.S., we had no idea how to navigate getting insurance in Canada... especially since we didn’t yet have Canadian credit history, Canadian driving records, or even a local bank account. We were stressed and overwhelmed with everything involved in making such a huge international move, and we simply didn’t have the time to spend hours researching options or sitting on the phone.
+      
+      Of all the things we had to figure out during the move, getting insurance was surprisingly one of the easiest—and that was entirely because of Carter. He walked us through the entire process via email, explained exactly what we needed, answered all of our questions, and was always quick to respond. He was also incredibly patient with us while we worked on getting all of our paperwork together.
+      
+      Having someone take something we expected to be complicated and stressful and make it so simple was a huge relief. We’re incredibly grateful for Carter’s help and would absolutely recommend him to anyone looking for insurance, especially if you’re new to Canada and trying to figure it all out!
 ---

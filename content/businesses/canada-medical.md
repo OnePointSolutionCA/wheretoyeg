@@ -23,56 +23,38 @@ hours:
 photos:
   - "/photos/canada-medical-g1.jpg"
   - "/photos/canada-medical-g2.jpg"
-rating: 5.0
-review_count: 109
+rating: 4.9
+review_count: 114
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "medical-supplies"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Magrath C."
+  - name: "MAC Injections"
     rating: 5
-    date: "2026-04-13"
     comment: |
-      Can't say enough about Shawna, Carla and all the staff at Canada Medical!
-      Everyone is very helpful and knowledgeable when you call in for ordering guidance or ordering online. Always great updates provided on backorders as well.
-      Shawna recently came in to our clinic to give the staff a Reprocessing refresher and she was wonderful as always. She has so much knowledge and is very resourceful.
-      Canada Medical has been my "go to medical supply company" for over 23 years!  They are a trusted resource and the first supply company I ever recommend to others.
-      Thank you for all your help and service over the years :0)
+      Absolutely fantastic company! The entire team is incredibly knowledgeable, professional, and genuinely kind. Every time I speak with Rachel on the phone, she is so friendly, helpful, and knowledgeable. She always takes the time to answer my questions and makes my job so much easier!
+      
+      I truly appreciate how flexible and accommodating the team is and how willing they are to work with you to find solutions that fit your needs. You can tell they genuinely care about their clients and take pride in what they do.
+      
+      All of the staff I’ve had the pleasure of working with have been wonderful. I couldn’t recommend this medical distributor enough! Fantastic service, amazing people, and such a pleasure to work with.
+  - name: "Bryanne L"
+    rating: 5
+    comment: |
+      Steve and Crystal are my heroes. Crystal answered my phone call on the first ring and had incredible knowledge about the product I was requesting and immediately had all the available options. Steve was at the door with it in his hands when I was at their office in 5 minutes. Incredible work, incredible team! All of my encounters with Canada medical have only been positive and I have been using them for 2 years. And my company for many. Bravo team!
+  - name: "Meisam Afaghi"
+    rating: 5
+    comment: |
+      Canada Medical has been our medical supplies provider for almost 10 years, and we’ve always had a great experience with them. The team is friendly, reliable, and always willing to help whenever we need something.
+      
+      It’s been a pleasure working with them over the years, and we truly appreciate the consistently great service and support. Highly recommended!
+  - name: "Ben Geddes RN"
+    rating: 5
+    comment: |
+      Gerry and the Canada Medical team were fantastic to work with. Quick quotes, easy setup and great follow-through. Highly recommend!
   - name: "Isabella Finkbiner"
     rating: 5
-    date: "2026-05-20"
     comment: |
       I’ve had an excellent experience working with Sofia at Canada Medical. She is knowledgeable, professional, responsive, and consistently goes above and beyond to provide outstanding support. Her communication is always timely and clear, and she genuinely cares about building strong relationships and ensuring her clients have what they need. She makes every interaction easy and positive, and her dedication and reliability truly stand out. It’s a pleasure working with her, and I highly recommend not only her, but Canada Medical to anyone looking for exceptional service and support with their medical supply needs.
-  - name: "Madonna Navata"
-    rating: 5
-    date: "2026-03-25"
-    comment: |
-      We would like to express our sincere appreciation for the exceptional service and support your team provides. Your timely deliveries, attention to detail, and willingness to assist us with our medical supply needs have been invaluable.
-      
-      We particularly appreciate your prompt responses to our inquiries and your flexibility in helping us manage orders efficiently.
-      
-      It is  wonderful working with a supplier who is not only professional but genuinely committed to supporting healthcare offices. Thank you for your continued assistance, reliability, and excellent service.
-      
-      Your hard work is making a difference—keep it going.
-  - name: "Rebekah Wilzer"
-    rating: 5
-    date: "2026-06-30"
-    comment: |
-      Gerry and the team at Canada Medical are always prompt, knowledgeable, and incredibly helpful. They consistently go the extra mile by recommending comparable Canadian-made products or more cost-effective alternatives without compromising on quality. Our clinic appreciates their excellent customer service!
-  - name: "Tousia Khan"
-    rating: 5
-    date: "2026-04-16"
-    comment: |
-      We recently had IPAC training conducted for our team at Family Plus Silverberry Medical Clinic located at 3321 34 St NW in Edmonton, and it was a fantastic experience. The session was very well organized, thorough, and highly informative. The trainer Shawna Briscoe demonstrated strong expertise, was approachable and professional, and took the time to explain key concepts clearly, making even complex topics easy to understand.
-      
-      Our team felt supported throughout the entire process, and the training was both engaging and practical allowing staff to confidently apply what they learned in their daily clinical practice. It has already made a positive impact on how we approach infection prevention and control in our clinic.
-      
-      We truly appreciate the dedication, attention to detail, and high-quality service provided by Shawna Briscoe.
-      
-      Highly recommended for any clinic looking to strengthen their IPAC practices!
-      
-      Tousia Khan
-      Family Plus Silverberry Medical Clinic
 ---

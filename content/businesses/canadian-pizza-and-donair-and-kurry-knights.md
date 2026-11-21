@@ -6,7 +6,7 @@ subcategory: "pizza"
 neighborhood: "Spruce Grove"
 address: "10 Westwind Dr #213, Spruce Grove, AB T7X 0Y5"
 rating: 4.4
-review_count: 358
+review_count: 363
 tier: "featured"
 phone: "(780) 488-4875"
 website: "https://sprucegrove.canadianpies.ca/"
@@ -29,20 +29,20 @@ reviews:
       
       What made it even better is that everything tasted so fresh and made with care, you can really tell they put love into their cooking. The staff were so welcoming and accommodating, and they genuinely seemed to enjoy what they do, which created such a warm and positive atmosphere.
       Can’t wait to come back for another delicious meal! 🍗🍛🌯
-  - name: "Stefanie Lacasse"
-    rating: 2
+  - name: "Big Daddy Smokes"
+    rating: 5
     comment: |
-      I pre-ordered online to pick up at 3:30pm.  I arrived at 3:30pm, and my order wasn't even started yet.  The man working was not friendly at all.  No smile, no hello, no sorry about the wait, etc.  I ordered some donairs and cheese bread.  On the photo of the cheese bread, it shows it comes with marinara sauce.  It in fact, did not come with any sauce.  (photo added for reference) The food was terrible.   Will not go back.
-  - name: "Charlene Huntley"
+      Great little takeout pizza place. Food is excellent, staff is friendly, service is fast and prices are reasonable. And portions are pretty generous. And the donairs are also great!
+  - name: "Charlene Alynn"
     rating: 5
     comment: |
       Beautiful Lamb Biryani. Generous size serving, perfect spice level. I will be having way more of this!
       Ordered another few times and still great quality food. Great pizzas and donairs!
       Wings are decent too. Come give it a try you wont be sorry!
-  - name: "Brandin"
+  - name: "Stefanie Lacasse"
     rating: 2
     comment: |
-      My wife is India, so we often order takeout and go to Indian restaurants. We ordered delivery veggie vindaloo, tandoori chicken and pulao rice. It was very disappointing. The rice was good, but the chicken and veggies were gross. The sauce looks like it has food colouring and was quite bland. For $60 for two meals you wouldn't expect to have to pick a palm full stems from the very limited number of peas out of the sauce. Both of our stomaches are upset and bloated. I'm not sure if they use cheap palm oil, but that is usually the culprit for bloating and upset stomach eating out for us.
+      I pre-ordered online to pick up at 3:30pm.  I arrived at 3:30pm, and my order wasn't even started yet.  The man working was not friendly at all.  No smile, no hello, no sorry about the wait, etc.  I ordered some donairs and cheese bread.  On the photo of the cheese bread, it shows it comes with marinara sauce.  It in fact, did not come with any sauce.  (photo added for reference) The food was terrible.   Will not go back.
 hours:
   monday: "2:00 PM–11:00 PM"
   tuesday: "2:00 PM–11:00 PM"

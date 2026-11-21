@@ -24,43 +24,45 @@ photos:
   - "/photos/candream-immigration-consultancy-services-inc-g1.jpg"
   - "/photos/candream-immigration-consultancy-services-inc-g2.jpg"
 rating: 4.9
-review_count: 535
+review_count: 547
 amenities: []
 tags: ["edmonton", "immigration"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "pranshu purohit"
+  - name: "Jagroop Kaur"
     rating: 5
-    date: "2026-04-22"
     comment: |
-      I had a great experience with CanDream Immigration throughout my spouse visa process. From start to finish, they were professional, knowledgeable, and always available to answer my questions.
-      A special thanks to Purvi and Amit Sir for their support and guidance—they made the entire journey much easier and stress-free.
-      They guided me through every step clearly, helped with all the documentation, and made sure everything was submitted on time. The whole process felt smooth because of their efforts.
-      I would highly recommend CanDream Immigration to anyone looking for reliable and honest immigration guidance.
-      Thank you again for your excellent service!
-  - name: "Neetu Bala"
+      I had an amazing experience with CanDream Immigration, especially with Mr. Amit Gupta and their team.He is very professional, knowledgeable, and honest. He guided me through my entire PR process step-by-step until I received my COPR. He always responded quickly to my questions and made a very complicated process very easy. I highly recommend CanDream Immigration and Mr. Amit Gupta to anyone looking for immigration help. Thank you so much sir! - Jagroop Kaur
+  - name: "Manpreet sandhu"
     rating: 5
-    date: "2026-03-31"
     comment: |
-      Candream immigration is providing best services in the city. They are handling my case since September 2025. Amit sir and Ritu mam are the best and very reliable.Their Genuine and expert advices helped me all the way in critical situations. All the staff receptionist and preeti mam are very kind and helpful. They understand and respect clients feelings. We were in a very critical situation but Amit sir and ritu mam made it very easy for us with their support and motivation. I would highly recommend everyone. CanDream you are the best!!!!!!!
-  - name: "Gurbhinder Singh"
-    rating: 5
-    date: "2026-07-05"
-    comment: |
-      I had a amazing experience with Candream, they helped me with 2 supervisas and one PR application. My file was reviewed in detail, all the info was meticulously checked before applying. The process was very smooth, easy and the team was very supportive. I felt heard and got successful results. I would recommend everyone to go for this consultant.
-  - name: "Parneet Mahal"
-    rating: 5
-    date: "2026-06-11"
-    comment: |
-      “I had a great experience with Candream Immigration Consultancy Services Inc.. Thanks to their professional guidance and support throughout the process, I successfully received my work permit. The team was knowledgeable, responsive, and helped me with every step of my application. I truly appreciate their dedication and highly recommend Candream Immigration to anyone seeking immigration services. Thank you for helping me achieve this important milestone!”
-  - name: "Manav Gill"
-    rating: 5
-    date: "2026-05-21"
-    comment: |
-      I had a great experience with Candream Immigration throughout my PR journey. After receiving a procedural fairness letter (PFL), I was very stressed and confused about what to do next. Amit Sir really helped me prepare and submit a strong reply to the PFL and guided me through the entire process with patience and professionalism.
+      ⭐⭐⭐⭐⭐
       
-      He was always supportive, answered my questions clearly, and gave me confidence during a difficult time. Today, I received my PR portal request, and I’m truly thankful for all the help and guidance from Candream Immigration.
+      I had an excellent experience with CanDream Immigration. The entire team is extremely professional, knowledgeable, supportive, and dedicated. They guided me throughout the process, explained everything clearly, and were always available whenever I had any questions or concerns.
       
-      I highly recommend Candream Immigration to anyone looking for honest, knowledgeable, and reliable immigration support in Canada.
+      I would like to give a special thanks to Preeti Ma’am, Amit Sir, and Rittu Ma’am for their continuous support, guidance, and hard work. I truly appreciate their patience, professionalism, and personal attention throughout my case.
+      
+      I am very happy with the service I received and would highly recommend CanDream Immigration to anyone looking for reliable and professional immigration services.
+      
+      Thank you so much, CanDream Immigration team, for all your support.
+  - name: "Mouna Harrak"
+    rating: 5
+    comment: |
+      I’m extremely happy and grateful for the excellent service I received! Amit was very professional, supportive, and helpful throughout the entire process. He worked hard on my work permit application, and I’m so happy that my work permit was approved\. He was always helpful, and I truly appreciate all his time, effort, and dedication. Thank you so much, Amit, for your amazing service and support. I highly recommend him to anyone looking for professional and reliable immigration assistance
+  - name: "Khushvir singh Cheema"
+    rating: 5
+    comment: |
+      Best immigration in Edmonton. They helped for my work permit and pr application. Knowledge 10/10, communication 10/10, support 10/10, behaviour towards client 10/10,
+      Update to client ON TIME. 100% recommended.
+      In Edmonton i have joined to immigration consultants, one of them messed up my file.
+      But the level of satisfaction i got from candream immigration was beyond my expectations.
+      
+      So 100/100.  Must try for better guidance.
+      
+      Good luck everyone
+  - name: "Gurwinder Singh"
+    rating: 5
+    comment: |
+      Thank you Candream immigration and its team for so much support for my PR application. Reetu gupta and pretty helped me lot. They gave us honest advice and timely filed my application . My heartfelt thank you Amit Gupta and his team to set my feet in Canada. I received my PR within 10 months . Thank you foe reuniting with my family .
 ---

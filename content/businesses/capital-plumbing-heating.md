@@ -11,16 +11,16 @@ phone: "(780) 451-5666"
 website: "https://capitalplumbing.ca/"
 google_maps_url: "https://maps.google.com/?cid=1012525509122027043&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "Closed"
-  tuesday: "Closed"
-  wednesday: "Closed"
-  thursday: "Closed"
-  friday: "Closed"
-  saturday: "Closed"
+  monday: "Open 24 hours"
+  tuesday: "Open 24 hours"
+  wednesday: "Open 24 hours"
+  thursday: "Open 24 hours"
+  friday: "Open 24 hours"
+  saturday: "Open 24 hours"
   sunday: "Open 24 hours"
 photos: ["/photos/capital-plumbing-heating-1.jpg", "/photos/capital-plumbing-heating-2.jpg", "/photos/capital-plumbing-heating-3.jpg"]
 rating: 4.8
-review_count: 1701
+review_count: 1715
 price_range: "$$$$"
 amenities:
 
@@ -28,25 +28,27 @@ tags: ["edmonton", "residential"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Cheryl Beck"
+    rating: 5
+    comment: |
+      Capital Plumbing & Heating were exceptional from Dave's visit to provide an estimate and advise us about what was involved to the final completion of the work. Carlos and Guy did an outstanding job installing our new sump pump.  It was a big job having to jackhammer concrete and dig a 3 ft deep hole plus installing the discharge piping.  They were very professional, clean and accommodating during the two days it took to complete the job. It's stressful to have this kind of work done to our home but it helped so much to see how well Carlos and Guy treated our home.  They left the space inside and out in excellent condition.  We will definitely recommend Capital to our friends and family.
+  - name: "John Harris"
+    rating: 5
+    comment: |
+      Carlos and Chad were great. Arrived on time, carefully assessed our situation, and suggested a variety of options. They were professional yet friendly. Since this was just an initial assessment, we are still waiting on our quotes. But overall, we were very happy with them.
+      
+      We've now had Carlos come and take care of our heating duct and our sink vent. As with his initial visit, Carlos was friendly and efficient. He again walked us through what he was going to do, notified us when there were a couple of questions, and finished the in half a day and to our great satisfaction.
+      Thanks again, Carlos, for such efficiency, professionalism, and affability. Much appreciated.
+  - name: "Michael Turnbull"
+    rating: 5
+    comment: |
+      Carlos was amazing to deal with!  We are new to the community and were wanting to make sure the gas appliances and sump were in safe working order.  As we had very little information, Carlos took his time and went above and beyond to inspect and answer our questions and concerns.  He left us with a piece of mind and is a tradesman and company we highly recommend to anyone.  We will be continuing customers as a result of Carlos service call.
   - name: "Amanda P"
     rating: 5
     comment: |
       Dave is fantastic. We appreciate his knowledge and thoroughness - and willingness to patiently answer our many questions! Our boiler system is not for the faint of heart and we are happy to have Dave looking after it. He also did a great job installing our new AC unit this summer. Highly recommend.
-  - name: "Deborah Bennett"
+  - name: "Richard Vriend"
     rating: 5
     comment: |
-      Capital Plumbing has been to our home 6 times in 5 years, every time the work was exemplary! This day, Ryan did a complete Safety Inspection. He replaced our furnace humidifier at a much better value than repair. He replaced my washing machine hoses as we were at risk of a catastrophic failure. He checked absolutely everything in our house!! We feel safer and more secure!
-  - name: "Priscilla Bandura"
-    rating: 5
-    comment: |
-      Dave was so friendly, and informational. He went above and beyond to help with our issue!! He was so friendly to not only us but my dogo ! 10/10 would recommend!! Thank you so much Dave for all you did and for helping us out we appreciate you!
-  - name: "Susan Belanger"
-    rating: 5
-    comment: |
-      The staff are knowledgeable and friendly and Carlos is amazing he is calm and very efficient.  I’m glad we made the decision to become members with Capital Plumbing
-      When the city had a lot of rain our sump pump did not work. David was able to come out and replace it. It gave me peace of mind that my home is protected from the rain but David also assured us as members Capital city will come and inspect it yearly. David is knowledgeable and very friendly. Thank you David!
-  - name: "Muzna Choudhry"
-    rating: 5
-    comment: |
-      We had a great experience with Capital Plumbing & Heating  today. Carlos was fantastic, very knowledgeable, professional, and took the time to clearly explain what was going on with our hot water tank and other plumbing issues. I really appreciated how thorough and patient he was in answering all my questions. Highly recommend Carlos for anyone looking for honest, reliable service!
+      Carlos and the team from Capital did an amazing job with my furnace replacement!  From the moment they arrived, they were helpful on the work and efforts being done, mindful of their work in my home and stayed till the job was done!  Great work, thank you for making this experience a positive one.    Richard
 ---

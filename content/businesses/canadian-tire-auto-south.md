@@ -18,7 +18,7 @@ hours:
   sunday: "8:00 AM–8:00 PM"
 photos: ["/photos/canadian-tire-auto-south-1.jpg", "/photos/canadian-tire-auto-south-2.jpg", "/photos/canadian-tire-auto-south-3.jpg"]
 rating: 3.9
-review_count: 6660
+review_count: 6733
 price_range: "$$"
 amenities:
   - "Walk-Ins"
@@ -34,6 +34,18 @@ reviews:
     rating: 5
     comment: |
       I’ve had consistently great experiences at this Canadian Tire location. The staff are friendly, knowledgeable, and always quick to help when I have questions. Special thanks to Alysha and Elemo for helping me track down a specific product. The store is clean, well organized, and easy to navigate, making it simple to find everything I need. The same level of excellent service applied to my previous online pickup experience—Raf and Justin truly went above and beyond to help. Checkout was smooth and efficient. I really appreciate the outstanding service and kindness shown by the team, including  Richard, Juvy and Mykah, and I will definitely be back.
+  - name: "Cassondra Buit"
+    rating: 1
+    comment: |
+      I am extremely pissed off with the complete lack of transparency at Canadian Tire. I went in to buy a 5-gallon water jug, fully under the impression that the extra $10 charge was a standard, refundable bottle deposit—just like every other store does.
+      Nobody at checkout said a single word to explain how their system works. When I tried to bring the empty jug back to get my money, the store refused to take it. I was so mad that I actually called the manufacturer directly to find out what was going on. The manufacturer told me that this is a bottle to keep, and explicitly stated that the retailer was supposed to inform me of this at the time of purchase.
+      Well, Canadian Tire completely failed to do their job. If I wanted to own a permanent piece of plastic, I would have chosen to buy one. Instead, I was tricked into a permanent purchase because their staff couldn't bother to disclose the policy. Train your cashiers to actually explain what people are paying for! I will be taking my business elsewhere. Avoid this trap!
+      
+      It's experiences like this that make me not trust big box stores anymore.They're just constantly ripping us off. We need better regulation!!!
+  - name: "Nathan Korownyk"
+    rating: 1
+    comment: |
+      Please hire more staff in your auto department. It's November and we just had a big snowfall so there are many people looking for winter tires. There should be more than one person working at the service desk and one at the parts desk. I was in line for 20 minutes and the line moved one person. Could not wait any longer. So please hire more people for your employees and for your customers. Needed a plumbing part but I will go to Home Depot because of this experience.
   - name: "Gigi Reviews — YEG • AB • Beyond"
     rating: 5
     comment: |
@@ -63,16 +75,10 @@ reviews:
       
       Accessibility & family considerations
       Step-free access, wide navigable aisles, and and elevator that work well for strollers and mobility devices, and a large-format layout that makes it easier than many busy retail environments to move around comfortably. Baby change stations in the bathrooms add another practical convenience for families.
-  - name: "Deol Productions"
+  - name: "Austin"
     rating: 5
     comment: |
-      ​"I am writing to share my appreciation for the outstanding service provided by Shyam. Working as a warehouse sales person, he seamlessly bridges the gap between managing inventory and assisting customers. Shyam is incredibly knowledgeable, always knowing exactly where items are located, and he goes out of his way to help with a positive, respectful attitude. He makes the shopping experience smooth and efficient, and he is a tremendous asset to the Canadian Tire team."
-  - name: "SunnyCin Flower"
-    rating: 5
-    comment: |
-      Love this location for Oil Changes, been coming here for years! Today we had the pleasure of meeting Dave and Antoine. They were great guys, friendly, and helpful. Highly recommend this location!
-  - name: "Joe Chowaniec"
-    rating: 4
-    comment: |
-      Love this store.  Could spend hours wandering the stores and looking at everything.  Lots of selection. Only downside, aisles can be crowded and staff can be hard to find when needed.
+      Hands down the best location for product selection. Also, unlike other Canadian Tires the store feels VERY spacious.
+      No trouble returning items and love that they make it clear where to find an item after looking it up online.
+      Non-useable cell-service at some areas in the store, but overall a great time!
 ---

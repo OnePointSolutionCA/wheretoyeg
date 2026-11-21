@@ -24,7 +24,7 @@ photos:
   - "/photos/candid-coffee-roasters-south-edmonton-g1.jpg"
   - "/photos/candid-coffee-roasters-south-edmonton-g2.jpg"
 rating: 4.8
-review_count: 364
+review_count: 379
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -34,9 +34,20 @@ tags: ["edmonton", "roasters"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Harprit Masuta"
+    rating: 5
+    comment: |
+      Found this spot by accident, but darn happy I did! I got a chai latte, the campfire cookie and the sausage roll! The cookie was soo darn good! The perfect balance of salty and sweet! There was so much sausage in the little roll and it was so flavourful! The chai latte was also really delicious! The staff was also extremely welcoming and quick! Will be back for sure!🤤
+  - name: "Katie Higgins"
+    rating: 5
+    comment: |
+      My family and I popped in for breakfast while visiting from out of town and it was rated unanimous 10/10 among the 5 of us. The service was great and they were so friendly. I had the breakfast pastry which was to die for and my daughters had the grilled cheese bagel-delicious. We all had different drinks and of course had to take a sip from everyone’s..chai, pear spice cold brew and latte, London fog and americano all SO good. We will definitely be back
+  - name: "Abby Zamora"
+    rating: 5
+    comment: |
+      Their fall special drinks were delicious (pear spiced latte and cold brew) and the savory pastries/sandwiches I tried were all yummy too. Great loft area upstairs but there are a lot of steps and I didn't see whether they had any other access to it. The baristas were all super friendly
   - name: "Alan Keaton"
     rating: 5
-    date: "2026-07-16"
     comment: |
       Wonderful little coffee shop hidden away in Business park. Make sure you go upstairs if you want chill out as downstairs only has 3 tables.
       
@@ -47,51 +58,8 @@ reviews:
       This is me being really extremely extremely picky. 99% people will not notice these issues. The filters didn’t remove as much of the coffee oils so coffee was a bit muddled flavor wise and produced a cup that wasn’t clean, and the use of plastic pour overs instead of ceramic which will effected the temps of the pour overs and I feel the extraction was affected I admit that could be in my head.
       
       That being said it thousands of miles above Starbucks and the like and I will be returning to enjoy another cup.
-  - name: "Lydia Van Thiel"
+  - name: "Artemisia Slusariuc"
     rating: 5
-    date: "2026-05-21"
     comment: |
-      Awesome coffee shop. Small selection of the finest things.
-      
-      I had a pour over and gluten free brownie. The coffee flavor was complex. The brownie had geat texture and flavor.
-      
-      My husband had a dirty chai and cookie (which was soft and delicious).
-      
-      Lovely atmosphere for a sit down break. Friendly staff.
-      
-      If I lived nearby I would probably be a regular.
-  - name: "Wes Inaba"
-    rating: 4
-    date: "2025-11-29"
-    comment: |
-      What a wonderful find in the industrial area of South Edmonton. A large space with lots of natural light. Simple setup.
-      
-      The coffee was great and they had a basic set of food offerings.
-      
-      Service was very friendly and helpful.
-      
-      It's so nice to have a high quality java stop over in this part of town.
-      
-      4 x ☕☕☕☕
-  - name: "Allan Dale"
-    rating: 5
-    date: "2026-04-06"
-    comment: |
-      The matcha was really good and I enjoyed the food as well. That said, I did find the pricing a bit high, especially for something like the breakfast muffin, which was around $7. It felt a bit steep considering you can get something similar at places like McDonald’s or Starbucks for a few dollars less, and this one was more on the plain side and I would argue not healthier.
-      
-      The temperature inside was also a little too warm, which made it slightly uncomfortable to sit.
-      
-      Even with that, I would still come back. It is a nice spot to relax, and it works well if you are looking for a place to chill out or get some studying done. Definitely a place I would continue to support.
-  - name: "L Y"
-    rating: 5
-    date: "2026-04-26"
-    comment: |
-      To sum up: If you are Celiac and order even just a coffee - "You pays your money, you takes your chances"
-      ---
-      
-      Awesome . * At least* as good as my current favourite place (rogue wave). (see 2nd visit below: not Celiac safe)
-      
-      Second Visit update!
-      TLDR: *Not* Celiac Safe
-      - Came on a busier day (sat), two female baristas were working. I was waiting in line so I was watching them as they worked. The taller woman, picked up a cheese pastry (bagel?) with tongs, put it on a plate, then carried it to a toaster or press where she put it on with her bare hands. THEN she proceeded to make some espresso, touching the espresso handle thing, portafilter? The milk frother and carafe as well as the to-stay drink cups. This would have been enough for me to get seriously ill so I left. The coffee is so good it's a shame I can't go back - but maybe the staff can change procedures to have a dedicated person deal with the food or wear gloves when handling food and change/remove them when making coffee?
+      The place located in business/industrial area not to much parking.inside is simple but modern setting with two level.Very clean,good wi-fi.I ordered lemon loaf which was excellent a cookie also very good and the best vanilla late I drink in Edmonton.What stands up in this place is the service.The 23 years old Liam really amazed me.He never stayed for one second,always cleaning sanitize the counter and his hands preparing the orders serving and giving a nice smile and comforting words.This person makes my afternoon really relaxed and I want to thank you for it.In the negative part is the early closing at 16:00 which is to early. I guess they marketing research coming with the conclusion the businesses around this establishment finished work at 16:00 and it is not financial good to keep open after this hour.I not agree with this.People want to socialize after the work hours in the good and nice place like this.
 ---

@@ -23,19 +23,19 @@ reviews:
     comment: |
       This is a great place. Very nice,professional easy to understand staff. The Doctors explain everything so you can understand. Then they help you pick the right hearing aid
       (if needed)that’s right for you. They listen and make sure you are happy at all times. They are not out to sell things you don’t need. I highly recommend them.
-  - name: "Nathan Philips"
+  - name: "Carl Aaron Fox (Aaron)"
     rating: 5
     comment: |
-      Excellent.  Kevin has been amazing at helping get through the insurance paperwork, fitting and following up with the second appointment.  Highly recommended!
+      I've been going here for years for my hearing loss and tinnitus. I get fantastic treatment when I am there for testing, and any maintenance for my hearing aids. I recommended my mother-in-law come up from Red Deer to get her hearing aids because of how great they are. She had a great experience. She has had poor experiences with audiologists in the past, and was blown away by the quality of care. Thank you to everyone who makes these potentially stressful experiences so positive.
   - name: "John McDougall"
     rating: 5
     comment: |
       This place is beyond terrific. From the moment you walk in the door you are warmly greeted. The facility is impeccably clean, bright and welcoming. The staff are top notch! Colleen is so kind, patient, helpful, funny, insightful and wonderfully personable.
       No stress, no pressure just incredible service and equally impressive products.
-  - name: "Carl Aaron Fox (Aaron)"
+  - name: "Nathan Philips"
     rating: 5
     comment: |
-      I've been going here for years for my hearing loss and tinnitus. I get fantastic treatment when I am there for testing, and any maintenance for my hearing aids. I recommended my mother-in-law come up from Red Deer to get her hearing aids because of how great they are. She had a great experience. She has had poor experiences with audiologists in the past, and was blown away by the quality of care. Thank you to everyone who makes these potentially stressful experiences so positive.
+      Excellent.  Kevin has been amazing at helping get through the insurance paperwork, fitting and following up with the second appointment.  Highly recommended!
 hours:
   monday: "9:00 AM–4:30 PM"
   tuesday: "9:00 AM–4:30 PM"

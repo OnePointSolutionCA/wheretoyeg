@@ -6,7 +6,7 @@ subcategory: "tires"
 neighborhood: "Edmonton"
 address: "11839 Kingsway NW, Edmonton, AB T5G 3J7"
 rating: 3.9
-review_count: 3596
+review_count: 3631
 tier: "featured"
 phone: "(780) 413-8473"
 website: "https://www.canadiantire.ca/en/store-details/ab/edmonton-downtown-ab-467.html?utm_source=google&utm_medium=lss&utm_content=467"
@@ -14,6 +14,14 @@ google_maps: "https://maps.google.com/?cid=13850379035016629186&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/canadian-tire.jpg"
 reviews:
+  - name: "alfaalfa dibad"
+    rating: 1
+    comment: |
+      I had a very disappointing customer service experience at Canadian Tire. I approached an employee who was sitting in the aisle and politely asked for help finding the correct windshield wiper for my vehicle. Instead of assisting me or even trying to help, he seemed to ignore my request and avoid engaging with me.
+      
+      I understand that employees can be busy, but if a customer asks for assistance, the least you can do is acknowledge them and make an effort to help. His attitude made it seem like he simply wasn't interested in helping customers.
+      
+      I was only asking for a little guidance to make sure I purchased the correct product. Unfortunately, the service I received was unprofessional and disappointing. Canadian Tire should take customer service more seriously.
   - name: "John Leenheer"
     rating: 5
     comment: |
@@ -35,29 +43,28 @@ reviews:
       Step-free access with navigable aisles, making the store workable to move through for most visits. Peak times may be busier, but the layout was manageable.
       
       Overall, a solid Canadian Tire experience — helpful staff, good inventory, and a smooth purchase when a quick fix was needed.
-  - name: "Shuxin Ai"
-    rating: 5
+  - name: "dongan lan"
+    rating: 1
     comment: |
-      I had a very pleasant shopping experience at Canadian Tire today. The staff members I interacted with were incredibly helpful, friendly, and provided excellent customer service throughout my visit.
-      The manager was especially impressive, demonstrating strong business acumen and a genuine understanding of customer needs. They were professional, approachable, and knew how to make a deal work, which made the entire experience smooth and enjoyable.
-      It's always refreshing to receive this level of service. Thank you to the team for making my visit such a positive one. I look forward to shopping here again!
-  - name: "Stephen Murdock"
-    rating: 5
+      Bad.I come here all the time and always bring a backpack to make shopping easier. But today, right after I walked in, a male staff member told me I had to leave my bag at the front desk to shop. He claimed this rule has been around for years, but couldn't show me any written policy. I really hope this wasn't based on skin color, but I literally saw other customers carrying their backpacks inside. I won't be coming back. It looks like this store clearly isn't welcoming to Asian customers.
+  - name: "Lyndon Suntjens"
+    rating: 1
     comment: |
-      Thank you Gunner at the desk. Covered under warranty again at Canadian tire removed a screw and fixed my tire.
-      I would not buy tires anywhere else. I have been helped numerous times at no cost. I came in confident and left on cloud nine.
-  - name: "Kerri Farkas"
-    rating: 5
-    comment: |
-      This location is my favourite one because of the staff that work here. I had to return some items & also purchased more. The ladies at the return & check out counters as well as the parts counter are very friendly, helpful, & happy making my experience a great one.
-  - name: "Bruce Mattia"
-    rating: 4
-    comment: |
-      Just needed something to hold all the crap rolling around in my trunk.  I’d looked on Amazon, but it was hard to tell what I was really getting—pictures didn’t help, and I needed something with Velcro straps and a compact build.
+      My last five visits to this service center have been an absolute disaster. Previously, when my truck was overheating, your staff failed to diagnose the issue and instead performed unnecessary work—flushing the radiator and replacing a hose without fixing the problem. I had to take my vehicle to the dealership, where technicians correctly diagnosed a faulty radiator cap in just 10 minutes.
       
-      Walked into Canadian Tire Kingsway and found the perfect trunk organizer.  Not too pricey either—same ballpark as Amazon, but I could actually see what I was getting.  Also picked up some wiper fluid while I was at it.
+      My most recent experience last Saturday was even worse. I booked an appointment a month in advance for a tire change, alignment, and oil change, and dropped my truck off early at 8:45 AM for my 9:00 AM slot. When I returned at 4:00 PM, absolutely nothing had been done, and my tires were not even put on. Your service desk claimed no alignment technician was available and falsely argued that I did not have an appointment—despite the text message confirmation I showed them. To top it off, nobody notified me of these issues during the day, and staff casually suggested I leave my truck there all weekend until Monday, completely disregarding my need for my vehicle.
       
-      This place still has a massive auto section, plus all the usual knickknacks, garden stuff, and more.  In and out, no hassle.  Very happy.
+      When I followed up, the manager's response was insulting: offering a mere $20 discount on an alignment, which doesn't even cover the cost of the Uber I had to take.
+      
+      This level of incompetence, broken appointments, and lack of accountability is unacceptable. I expect an immediate and serious response regarding this matter, and I will not be bringing my vehicle back to your shop again.
+  - name: "melissa espino"
+    rating: 5
+    comment: |
+      I had such a great experience with James at Canadian Tire! His customer service was absolutely outstanding. He was incredibly helpful, patient, and genuinely went above and beyond to make sure I was taken care of.
+      
+      James took the time to listen to what I needed, answered all of my questions, and made sure I left feeling confident and satisfied. You can really tell that he cares about providing a great experience for customers, and that kind of service is becoming harder to find these days.
+      
+      Thank you so much, James, for going above and beyond and making my experience such a positive one! Canadian Tire is lucky to have someone like you on their team. ⭐️⭐️⭐️⭐️⭐️
 hours:
   monday: "7:00 AM–10:00 PM"
   tuesday: "7:00 AM–10:00 PM"

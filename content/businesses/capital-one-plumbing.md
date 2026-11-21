@@ -24,7 +24,7 @@ photos:
   - "/photos/capital-one-plumbing-g1.jpg"
   - "/photos/capital-one-plumbing-g2.jpg"
 rating: 5.0
-review_count: 132
+review_count: 139
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "residential"]
@@ -33,35 +33,26 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Elvira Cantu"
     rating: 5
-    date: "2026-07-07"
     comment: |
       Had a water leak in the pool area and Vicente from Capital One Plumbing was able to fix it the same day. Very professional and reasonable pricing. Highly recommend him for his efficiency and honesty.
-  - name: "Julio Morales"
+  - name: "mr.infinity fuentes"
     rating: 5
-    date: "2025-11-16"
     comment: |
-      I recently had a clogged kitchen sink and a leaky garbage disposal that needed attention. Vince came in and quickly took care of both issues, and I couldn’t be more impressed with his professionalism and skill. He worked efficiently and explained everything he was doing along the way, which gave me a lot of confidence in the work being done.
+      One of the best plumbers that is honest and patient. I had a leaking pipe which had been leaking for a couple of days and when he saw it fully explained the issue and fixed it with no issue. Out of all of the other plumbers I had called Capital one had offered the best price and an excellent service would 100 percent recommend.
+  - name: "Tina Canon"
+    rating: 5
+    comment: |
+      Since my water main leak occurred last December we have recently had 3 more on my street. This week I assisted my neighbors in securing Capital One Plumbing for their replacement of the entire main line.
       
-      Not only did Vince fix the immediate problem, but he also took the time to provide me with a quote for another plumbing project I’m considering. I really appreciated his thoroughness and helpfulness.
+      Oh my goodness I wish I would have known about this company when I had my leak and replacement! They were quick, efficient and very affordable. (A fraction of what I paid)  They even left the landscaping, in the work area, in good shape. (I had to hire a landscaper to entirely redo my work area.)
       
-      I’ll definitely be calling again tomorrow to set up an appointment for the next job. It's clear that Vince is experienced and knows his stuff. Highly recommend his services for any plumbing need!
-  - name: "JohnJohn"
+      Wow! I highly recommend this company if you are one of the unlucky ones who have this issue or for all of your other plumbing needs.
+  - name: "Nick Salotti"
     rating: 5
-    date: "2026-05-14"
     comment: |
-      I had a Toilet that was rocking. Called a plumber to check it out and wanted to charge me 850 to do a whole flange replacement. I didn't think it needed all that work. I called Capital One Plumbing for a second opinion, and Vince was able to swing by to take a look and give me a quote. He said all it needed was a new seal and gave me an awsome price. Honest people are hard to find now days. Thanks Vince I'll definitely call you again if I have any issues with plumbing.
-  - name: "kandi klinger"
+      Vince was able to get me on the schedule the next day to look at a failing water heater.  Vince showed up at the agreed time and after some investigation we agreed that the water heater needed to be swapped out with a new one.  Vince drained the water heater and went to get a new one.  Everything was completed in under 5 hours with the new water heater installed and everything was left clean. The price was great! I will be using Capital One Plumbing in the future for all of my plumbing needs.
+  - name: "Ed Dalisay"
     rating: 5
-    date: "2026-07-07"
     comment: |
-      Highly Recommend! Vince came out quickly, resolved several issues effectively, and was very affordable. Exceptional service all around!
-      
-      *Main Valve Replacement
-      *Outdoor faucet replacement &
-      *Sprinkler repair
-  - name: "Michael Harris"
-    rating: 5
-    date: "2026-05-27"
-    comment: |
-      Vince was great we called him out to fix a clogged line. He got it done in a good amount of time with a good attitude might I add. Then we had another issue unrelated and he came out in a matter of 45 mins got the 2nd issue fixed at a very fair price for both times he came out
+      Capital One Plumbing completed services described in the invoice. Vince saved us thousands of dollars. From the invoice to the receipt that shows we have fully paid is a proof of a professional contractor.
 ---

@@ -24,7 +24,7 @@ photos:
   - "/photos/canadian-energy-museum-home-of-leduc-no1-g1.jpg"
   - "/photos/canadian-energy-museum-home-of-leduc-no1-g2.jpg"
 rating: 4.4
-review_count: 156
+review_count: 159
 amenities:
   - "Family Friendly"
   - "Wheelchair Accessible"
@@ -32,29 +32,24 @@ tags: ["edmonton", "outdoor"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Emmett Gilbert"
+    rating: 5
+    comment: |
+      Made the trip up from Vancouver a couple weeks ago and honestly didn't expect to spend two hours in an oil museum, but the old rig equipment and hands on displays pulled me in. The guy at the front desk gave us a mini history lesson we never asked for and it ended up being the best part of the visit. Parking right out front was easy and free, which is a nice change from the city. Would happily send any out of town family here if they're passing through Leduc.
+  - name: "Marissa Campbell"
+    rating: 5
+    comment: |
+      Took the kids on a Sunday morning when it was nice and quiet, and we practically had the place to ourselves. The staff at the front desk were great with the kids, pointing out which exhibits had buttons to push and let us skip the line for the oil rig simulator. It's a small museum so it's perfect for little attention spans, maybe an hour and we were through without anyone melting down. Easy free parking right by the entrance too, which made the whole stop painless with two tired kids in tow.
+  - name: "Babatunde Olawunmi"
+    rating: 5
+    comment: |
+      We stopped by on a weeknight after dinner since it closes earlier than most places and the kids still had energy to burn. The guy at the front desk let our two run around the old equipment exhibits without hovering over them, which made the whole visit feel relaxed. My youngest loved the drilling rig display and kept asking questions, and it was nice that staff actually knew the answers instead of just pointing at a sign. Parking right out front made the quick in and out trip easy on a school night.
   - name: "Akindele Olusoji"
     rating: 5
-    date: "2026-09-02"
     comment: |
       Stopped by on Friday evening after work since I've been meaning to check out more local spots around Leduc, and the old oil derrick display outside caught my eye right away. The guide who walked us through the pumpjack exhibits clearly knew the history inside and out, explaining how the local wells shaped the whole area without ever sounding rehearsed. Parking lot was basically empty around 6pm so I got a spot right by the entrance, and the place stayed open long enough for me to wander through every room at my own pace. Honestly didn't expect to spend over an hour there but the hands on machinery displays pulled me in more than I thought a weeknight museum visit would.
   - name: "D Lavallee"
     rating: 5
-    date: "2023-04-23"
     comment: |
       I have never been to this museum before. I came by accident and was glad that I did. Although I did not get a chance to tour the museum, as my infant and wife were asleep in the car, I did a little tour of the place myself. There are many relics to see and is well worth stopping by. I entered the building being greeted by a friendly face, and many things to see. I suggest giving yourself a couple of hours if you plan on touring the facility, as it is larger than it appears. There are many antiques to see outside and photos to take all around. I sure hope that this place remains open for many more years to come. Thank you for the friendly greeting, and I hope to be back for a full tour soon:)
-  - name: "Ficus"
-    rating: 5
-    date: "2024-12-12"
-    comment: |
-      We visited the Canadian Energy Museum back in April. It was a great experience and there is a tonne to see if you get the chance. The inside and the yard are both packed with amazing treasures of Alberta's past of oil and gas. The museum lost funding recently and is now only open to tours, but if you get the chance it's 100% worth it!
-  - name: "Deborah Flanagan"
-    rating: 5
-    date: "2026-03-30"
-    comment: |
-      We had the pleasure of being in the museum for an event this weekend. I enjoyed the variety of exhibits and how the history is presented; there is a lot to see. Will bring my grandchildren back when they are old enough to appreciate it! Great facility for an event!
-  - name: "Johnnie Guitar"
-    rating: 5
-    date: "2026-03-26"
-    comment: |
-      If you are a resident of the greater Edmonton area, or just an Albertan, you need to stop by this museum and learn the story of this famous Alberta oil well and the far-reaching effect it had on this province. The only thing missing from it is the faint odour of crude oil. Maybe someone some day will fix that. That aroma brings back 1950s memories for me.
 ---
