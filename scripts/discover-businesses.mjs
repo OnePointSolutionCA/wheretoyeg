@@ -10,6 +10,7 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { makeupReason, checkMakeup } from "./lib/makeup-filter.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DIR = path.join(ROOT, "content/businesses");
@@ -242,6 +243,7 @@ async function existingGoogleUris() {
 async function processOnePlace(place, category, subcategory, extraAmenities, taken, takenUris) {
   const name = place.displayName?.text;
   if (!name) return { status: "no-name" };
+  { const mk = await checkMakeup(place, category); if (mk) { console.log(`  - skip ${name}: ${mk}`); return { status: "makeup" }; } }
   const baseSlug = slugify(name);
   if (!baseSlug) return { status: "bad-slug" };
 

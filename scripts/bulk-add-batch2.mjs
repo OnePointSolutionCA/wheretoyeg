@@ -2,6 +2,7 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { makeupReason } from "./lib/makeup-filter.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DIR = path.join(ROOT, "content/businesses");
@@ -125,6 +126,7 @@ date_listed: "2026-08-20"
 async function main() {
   let created = 0, skipped = 0;
   for (const b of B) {
+    if (makeupReason(b)) { console.log(`- skip ${b.name}: ${makeupReason(b)}`); continue; }
     const filePath = path.join(DIR, `${b.slug}.md`);
     try { await fs.access(filePath); console.log(`~ ${b.slug} already exists`); skipped++; continue; } catch {}
     await fs.writeFile(filePath, toMd(b));

@@ -18,6 +18,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { addUsage, costOf, freeLeft } from "./places-budget.mjs";
 import { googleHours } from "./google-hours.mjs";
+import { makeupReason, checkMakeup } from "./lib/makeup-filter.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DIR = path.join(ROOT, "content/businesses");
@@ -218,6 +219,7 @@ function reject(p, cat, minReviews) {
   if (p.servesBeer || p.servesWine) return "alcohol";
   if (ALCOHOL_NAME.test(name) && !OK_BAR.test(name) && !OK_LOUNGE.test(name)) return "alcohol";
   if (PORK_NAME.test(name)) return "pork";
+  if (makeupReason(p)) return "makeup";
   if (FOOD_OR_FUN.has(cat)) {
     const text = (p.reviews ?? []).map((r) => r.text?.text ?? "").join(" ");
     const hits = new Set((text.match(ALCOHOL_REVIEW) ?? []).map((h) => h.toLowerCase()));
@@ -262,6 +264,8 @@ async function main() {
       for (const p of data.places ?? []) {
         const why = reject(p, job.cat, job.min);
         if (why) { reasons[why] = (reasons[why] ?? 0) + 1; continue; }
+        const mk = await checkMakeup(p, job.cat);
+        if (mk) { console.log(`  - skip ${p.displayName?.text}: ${mk}`); reasons.makeup = (reasons.makeup ?? 0) + 1; continue; }
         const cid = p.googleMapsUri?.match(/cid=(\d+)/)?.[1];
         const name = p.displayName.text, addr = p.formattedAddress;
         const key = norm(name) + "|" + norm(addr).slice(0, 12);

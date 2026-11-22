@@ -10,6 +10,7 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import { checkMakeup } from "./lib/makeup-filter.mjs";
 
 // Read from the environment like the other scripts; never hardcode keys in this public repo.
 const API_KEY = process.env.GOOGLE_PLACES_API_KEY;
@@ -242,6 +243,7 @@ async function main() {
       total++;
       const name = p.displayName?.text;
       if (!name) continue;
+      { const mk = await checkMakeup(p, cat); if (mk) { console.log(`  - skip ${name}: ${mk}`); skipped++; continue; } }
 
       if (BLOCKED.test(name) || BLOCKED.test((p.types || []).join(" "))) {
         skipped++;

@@ -6,6 +6,7 @@
  */
 import fs from "node:fs/promises";
 import path from "node:path";
+import { makeupReason, checkMakeup } from "./lib/makeup-filter.mjs";
 
 const ROOT = "/Users/gg/Desktop/WheretoYEG";
 const DIR = path.join(ROOT, "content/businesses");
@@ -284,6 +285,7 @@ async function main() {
         if (picked >= howMany) break;
 
         if (isBlocked(p)) { blocked++; continue; }
+        { const mk = await checkMakeup(p, category); if (mk) { console.log(`  - skip ${p.displayName?.text}: ${mk}`); blocked++; continue; } }
 
         const name = p.displayName?.text;
         if (!name) continue;
