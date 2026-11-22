@@ -100,7 +100,7 @@ export function businessSchema(b: Business) {
   if (b.google_maps_url) sameAs.push(b.google_maps_url);
 
   const hoursSpec = seasonHoursSpec(b);
-  const { locality, postalCode } = parseAddress(b.address);
+  const { locality, region, postalCode } = parseAddress(b.address);
 
   const pageUrl = `${SITE.url}/${b.category}/${b.slug}`;
 
@@ -116,7 +116,7 @@ export function businessSchema(b: Business) {
       // Online shops and service area businesses list a city or area, not a street.
       ...(/\d/.test(b.address) ? { streetAddress: b.address } : {}),
       addressLocality: locality,
-      addressRegion: "AB",
+      addressRegion: region,
       ...(postalCode ? { postalCode } : {}),
       addressCountry: "CA",
     },
@@ -127,7 +127,8 @@ export function businessSchema(b: Business) {
     ...(b.logo ? { logo: `${SITE.url}${b.logo}` } : {}),
     ...(b.photos?.length ? { image: `${SITE.url}${b.photos[0]}` } : {}),
     priceRange: b.price_range,
-    areaServed: { "@type": "City", name: locality },
+    // A business in another province is listed because it ships or delivers to Edmonton.
+    areaServed: region === "AB" ? { "@type": "City", name: locality } : { "@type": "City", name: "Edmonton" },
     ...(sameAs.length ? { sameAs } : {}),
     ...(hoursSpec.length ? { openingHoursSpecification: hoursSpec } : {}),
   };

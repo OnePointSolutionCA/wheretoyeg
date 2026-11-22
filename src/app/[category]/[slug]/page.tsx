@@ -35,7 +35,7 @@ import { businessSchema } from "@/lib/schema";
 import { breadcrumbSchema, JsonLd } from "@/lib/schema-extra";
 import { deliveryLinks } from "@/lib/delivery";
 import { SITE } from "@/lib/site";
-import { areaSlug, placeLabel } from "@/lib/place";
+import { areaSlug, isOutOfProvince, placeLabel } from "@/lib/place";
 import { toListItem } from "@/lib/slim";
 import { ListingIndex } from "@/components/ListingIndex";
 import { AreaHub, areaHubMetadata } from "@/components/AreaHub";
@@ -580,7 +580,11 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
                   <PinIcon className="text-coral" /> Location
                 </h2>
                 <p className="mt-2 text-sm text-teal-500">{b.address}</p>
-                {!/,\s*(AB|Alberta)\b/i.test(b.address ?? "") && <p className="text-sm text-teal-500">Edmonton, AB</p>}
+                {isOutOfProvince(b.address) ? (
+                  <p className="text-sm text-teal-500">Ships to Edmonton. No Edmonton storefront.</p>
+                ) : (
+                  !/,\s*(AB|Alberta)\b/i.test(b.address ?? "") && <p className="text-sm text-teal-500">Edmonton, AB</p>
+                )}
                 {b.latitude && b.longitude && (
                   <div className="mt-3 overflow-hidden rounded-xl border border-line">
                     <iframe
