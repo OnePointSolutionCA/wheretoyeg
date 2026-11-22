@@ -25,7 +25,7 @@ rating: 4.4
 review_count: 26
 amenities: []
 tags: ["edmonton", "day-spas"]
-active: true
+active: false
 date_listed: "2026-10-02"
 reviews:
   - name: "N Arns"

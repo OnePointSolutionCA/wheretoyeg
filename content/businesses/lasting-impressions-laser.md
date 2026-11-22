@@ -27,7 +27,7 @@ rating: 5.0
 review_count: 442
 amenities: []
 tags: ["edmonton", "laser-hair-removal"]
-active: true
+active: false
 date_listed: "2026-10-02"
 reviews:
   - name: "Danica San Diego"

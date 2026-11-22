@@ -1,4 +1,5 @@
 ---
+active: false
 name: "Kaity's Beautique"
 slug: "kaitys-beautique"
 category: "spas-esthetics"

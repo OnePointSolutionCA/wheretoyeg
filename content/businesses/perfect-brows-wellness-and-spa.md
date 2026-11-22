@@ -1,4 +1,5 @@
 ---
+active: false
 name: "PERFECT BROWS WELLNESS AND SPA"
 slug: "perfect-brows-wellness-and-spa"
 category: "spas-esthetics"

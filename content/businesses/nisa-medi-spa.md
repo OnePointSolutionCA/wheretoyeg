@@ -28,7 +28,7 @@ review_count: 520
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "medspa"]
-active: true
+active: false
 date_listed: "2026-10-02"
 reviews:
   - name: "Tasha Leigh-Spencer"

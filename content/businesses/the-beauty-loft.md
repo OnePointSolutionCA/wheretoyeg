@@ -25,7 +25,7 @@ rating: 4.9
 review_count: 233
 amenities: []
 tags: ["edmonton", "lash-extensions"]
-active: true
+active: false
 date_listed: "2026-10-02"
 reviews:
   - name: "Monali Shah"

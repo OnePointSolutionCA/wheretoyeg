@@ -27,7 +27,7 @@ rating: 4.9
 review_count: 156
 amenities: []
 tags: ["edmonton", "brow-services"]
-active: true
+active: false
 date_listed: "2026-10-02"
 reviews:
   - name: "Vritangi Dhingra"

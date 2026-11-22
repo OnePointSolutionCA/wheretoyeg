@@ -29,7 +29,7 @@ amenities:
   - "Family Friendly"
   - "Wheelchair Accessible"
 tags: ["edmonton", "cuts-styling"]
-active: true
+active: false
 date_listed: "2026-10-02"
 reviews:
   - name: "Sam Piquette"

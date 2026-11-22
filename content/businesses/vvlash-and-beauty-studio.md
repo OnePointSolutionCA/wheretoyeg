@@ -28,7 +28,7 @@ review_count: 30
 price_range: "$$$$"
 amenities: []
 tags: ["edmonton", "lash-extensions"]
-active: true
+active: false
 date_listed: "2026-10-02"
 reviews:
   - name: "Let's bounce Inflatables"

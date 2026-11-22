@@ -26,7 +26,7 @@ rating: 4.9
 review_count: 76
 amenities: []
 tags: ["edmonton", "medspa"]
-active: true
+active: false
 date_listed: "2026-10-02"
 reviews:
   - name: "Katrina Filice"

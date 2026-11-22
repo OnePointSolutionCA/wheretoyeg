@@ -25,7 +25,7 @@ rating: 4.6
 review_count: 27
 amenities: []
 tags: ["edmonton", "day-spas"]
-active: true
+active: false
 date_listed: "2026-10-02"
 reviews:
   - name: "A K"

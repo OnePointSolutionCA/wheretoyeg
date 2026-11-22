@@ -1,4 +1,5 @@
 ---
+active: false
 name: "My Style Salon Beaumont"
 slug: "my-style-salon-beaumont"
 category: "spas-esthetics"

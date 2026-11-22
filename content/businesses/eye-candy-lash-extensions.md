@@ -29,7 +29,7 @@ price_range: "$$$$"
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "lash-extensions"]
-active: true
+active: false
 date_listed: "2026-10-02"
 reviews:
   - name: "Rebecca M"

@@ -28,7 +28,7 @@ review_count: 172
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "gel"]
-active: true
+active: false
 date_listed: "2026-10-02"
 reviews:
   - name: "Workout with the grams Granny"

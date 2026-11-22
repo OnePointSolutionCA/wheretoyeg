@@ -27,7 +27,7 @@ price_range: "$$"
 amenities:
 
 tags: ["edmonton", "medspa"]
-active: true
+active: false
 date_listed: "2026-08-30"
 reviews:
   - name: "Tzad"

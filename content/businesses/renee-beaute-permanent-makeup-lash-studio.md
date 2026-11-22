@@ -26,7 +26,7 @@ rating: 5.0
 review_count: 120
 amenities: []
 tags: ["edmonton", "lash-extensions"]
-active: true
+active: false
 date_listed: "2026-10-02"
 reviews:
   - name: "Sher Robinson"

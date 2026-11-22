@@ -27,7 +27,7 @@ review_count: 896
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "day-spas"]
-active: true
+active: false
 date_listed: "2026-10-02"
 reviews:
   - name: "Amber Frick"

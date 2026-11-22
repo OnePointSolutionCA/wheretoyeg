@@ -1963,5 +1963,235 @@
     "source": "/restaurants/khan-kebabs-and-karahi-halal-authentic-pakistani-and-afghani-cuisine-edmonton",
     "destination": "/restaurants/khan-kebabs-karahi",
     "permanent": true
+  },
+  {
+    "source": "/lash-techs/renee-beaute-permanent-makeup-lash-studio",
+    "destination": "/lash-techs/lash-extensions",
+    "permanent": true
+  },
+  {
+    "source": "/lash-techs/studio-n-beauty",
+    "destination": "/lash-techs/lash-extensions",
+    "permanent": true
+  },
+  {
+    "source": "/lash-techs/grace-brow-design",
+    "destination": "/lash-techs/brow-services",
+    "permanent": true
+  },
+  {
+    "source": "/spas-esthetics/perfect-brows-wellness-and-spa",
+    "destination": "/spas-esthetics/day-spas",
+    "permanent": true
+  },
+  {
+    "source": "/lash-techs/atelier-lash-beauty",
+    "destination": "/lash-techs/lash-extensions",
+    "permanent": true
+  },
+  {
+    "source": "/lash-techs/blueflavin-beauty-ltd",
+    "destination": "/lash-techs/lash-extensions",
+    "permanent": true
+  },
+  {
+    "source": "/spas-esthetics/envy-lashes-fort-saskatchewan",
+    "destination": "/spas-esthetics/day-spas",
+    "permanent": true
+  },
+  {
+    "source": "/lash-techs/eye-candy-lash-extensions",
+    "destination": "/lash-techs/lash-extensions",
+    "permanent": true
+  },
+  {
+    "source": "/hair-salons/bombshell-brow-and-hair-studio",
+    "destination": "/hair-salons/cuts-styling",
+    "permanent": true
+  },
+  {
+    "source": "/spas-esthetics/glo-skin-medspa",
+    "destination": "/spas-esthetics/facials",
+    "permanent": true
+  },
+  {
+    "source": "/lash-techs/glam-studioTM",
+    "destination": "/lash-techs/lash-extensions",
+    "permanent": true
+  },
+  {
+    "source": "/lash-techs/goddess-beauty-bar-spa",
+    "destination": "/lash-techs/lash-extensions",
+    "permanent": true
+  },
+  {
+    "source": "/spas-esthetics/glass-skin",
+    "destination": "/spas-esthetics/facials",
+    "permanent": true
+  },
+  {
+    "source": "/lash-techs/honeypot-lashes",
+    "destination": "/lash-techs/lash-extensions",
+    "permanent": true
+  },
+  {
+    "source": "/spas-esthetics/kaitys-beautique",
+    "destination": "/spas-esthetics",
+    "permanent": true
+  },
+  {
+    "source": "/lash-techs/lash-common",
+    "destination": "/lash-techs/lash-extensions",
+    "permanent": true
+  },
+  {
+    "source": "/spas-esthetics/lasting-impressions-laser",
+    "destination": "/spas-esthetics/laser-hair-removal",
+    "permanent": true
+  },
+  {
+    "source": "/spas-esthetics/beauty-villa-spa-academy",
+    "destination": "/spas-esthetics/day-spas",
+    "permanent": true
+  },
+  {
+    "source": "/spas-esthetics/my-style-salon-beaumont",
+    "destination": "/spas-esthetics",
+    "permanent": true
+  },
+  {
+    "source": "/spas-esthetics/namaste-wellness-and-day-spa-inc",
+    "destination": "/spas-esthetics/day-spas",
+    "permanent": true
+  },
+  {
+    "source": "/spas-esthetics/my-beauty-concepts-spa-massage",
+    "destination": "/spas-esthetics/facials",
+    "permanent": true
+  },
+  {
+    "source": "/lash-techs/lash-up",
+    "destination": "/lash-techs/lash-extensions",
+    "permanent": true
+  },
+  {
+    "source": "/hair-salons/pretty-and-pout-collective",
+    "destination": "/hair-salons/cuts-styling",
+    "permanent": true
+  },
+  {
+    "source": "/nail-salons/q-nails---westgate",
+    "destination": "/nail-salons/acrylic",
+    "permanent": true
+  },
+  {
+    "source": "/lash-techs/radhas-brows-lashes-inc",
+    "destination": "/lash-techs/brow-services",
+    "permanent": true
+  },
+  {
+    "source": "/spas-esthetics/nisa-medi-spa",
+    "destination": "/spas-esthetics/medspa",
+    "permanent": true
+  },
+  {
+    "source": "/hair-salons/salon-spa-roxx",
+    "destination": "/hair-salons/cuts-styling",
+    "permanent": true
+  },
+  {
+    "source": "/hair-salons/shake-hair-salon",
+    "destination": "/hair-salons/cuts-styling",
+    "permanent": true
+  },
+  {
+    "source": "/lash-techs/sumolash-eyelash-extensions-edmonton",
+    "destination": "/lash-techs/lash-extensions",
+    "permanent": true
+  },
+  {
+    "source": "/lash-techs/the-beauty-loft",
+    "destination": "/lash-techs/lash-extensions",
+    "permanent": true
+  },
+  {
+    "source": "/hair-salons/strut-the-other-side",
+    "destination": "/hair-salons/cuts-styling",
+    "permanent": true
+  },
+  {
+    "source": "/lash-techs/the-lash-and-brow-studio-west-edmonton",
+    "destination": "/lash-techs/lash-extensions",
+    "permanent": true
+  },
+  {
+    "source": "/spas-esthetics/utopia-medispa",
+    "destination": "/spas-esthetics/medspa",
+    "permanent": true
+  },
+  {
+    "source": "/nail-salons/welcome-nails-spa",
+    "destination": "/nail-salons/gel",
+    "permanent": true
+  },
+  {
+    "source": "/spas-esthetics/wellness-within",
+    "destination": "/spas-esthetics/day-spas",
+    "permanent": true
+  },
+  {
+    "source": "/hair-salons/touch-of-beauty-salon-spa-laser",
+    "destination": "/hair-salons/cuts-styling",
+    "permanent": true
+  },
+  {
+    "source": "/lash-techs/vvlash-and-beauty-studio",
+    "destination": "/lash-techs/lash-extensions",
+    "permanent": true
+  },
+  {
+    "source": "/spas-esthetics/urban-retreat-body-skincare-centre",
+    "destination": "/spas-esthetics/facials",
+    "permanent": true
+  },
+  {
+    "source": "/nail-salons/beauty-hour",
+    "destination": "/nail-salons/gel",
+    "permanent": true
+  },
+  {
+    "source": "/spas-esthetics/external-affairs-medical-spa-st-albert",
+    "destination": "/spas-esthetics/day-spas",
+    "permanent": true
+  },
+  {
+    "source": "/spas-esthetics/external-affairs-medical-spa---edmonton",
+    "destination": "/spas-esthetics/medspa",
+    "permanent": true
+  },
+  {
+    "source": "/spas-esthetics/the-arts-medispa",
+    "destination": "/spas-esthetics/day-spas",
+    "permanent": true
+  },
+  {
+    "source": "/lash-techs/noors-beauty-salon-and-spa",
+    "destination": "/lash-techs/brow-services",
+    "permanent": true
+  },
+  {
+    "source": "/hair-salons/mint-beauty-boutique",
+    "destination": "/hair-salons/cuts-styling",
+    "permanent": true
+  },
+  {
+    "source": "/hair-salons/bliss-hair-design",
+    "destination": "/hair-salons/cuts-styling",
+    "permanent": true
+  },
+  {
+    "source": "/hair-salons/the-collective-by-beautyboss",
+    "destination": "/hair-salons/cuts-styling",
+    "permanent": true
   }
 ]

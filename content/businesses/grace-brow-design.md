@@ -26,7 +26,7 @@ rating: 5.0
 review_count: 170
 amenities: []
 tags: ["edmonton", "brow-services"]
-active: true
+active: false
 date_listed: "2026-10-02"
 reviews:
   - name: "Angela .Garcia"

@@ -26,7 +26,7 @@ price_range: "$$$"
 amenities:
 
 tags: ["edmonton", "lash-extensions"]
-active: true
+active: false
 date_listed: "2026-08-20"
 reviews:
   - name: "Cyprus Eagle Rib"

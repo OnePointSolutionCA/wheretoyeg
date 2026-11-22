@@ -26,7 +26,7 @@ rating: 4.8
 review_count: 92
 amenities: []
 tags: ["edmonton", "cuts-styling"]
-active: true
+active: false
 date_listed: "2026-10-02"
 reviews:
   - name: "Laura Donohoe"

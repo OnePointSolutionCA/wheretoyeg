@@ -27,7 +27,7 @@ rating: 4.8
 review_count: 33
 amenities: []
 tags: ["edmonton", "lash-extensions"]
-active: true
+active: false
 date_listed: "2026-10-02"
 reviews:
   - name: "Sam Piquette"

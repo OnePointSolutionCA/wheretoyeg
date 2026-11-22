@@ -26,7 +26,7 @@ review_count: 197
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "facials"]
-active: true
+active: false
 date_listed: "2026-10-02"
 reviews:
   - name: "Crystal MacIntyre"
