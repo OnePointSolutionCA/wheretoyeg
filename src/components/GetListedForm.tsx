@@ -10,16 +10,17 @@ const CATEGORIES = [
   "Activities & Fun", "Professional Services", "Other",
 ];
 
-const TIERS = ["Free listing", "Basic ($25/mo)", "Featured ($50/mo)", "Premium ($100/mo)", "Not sure yet"];
+// All listings are free for now (Moe 2026-11-22). Paid plans are not offered.
+const TIER = "Free listing";
 
-export function GetListedForm({ defaultTier }: { defaultTier?: string }) {
+export function GetListedForm() {
   const [businessName, setBusinessName] = useState("");
   const [contactName, setContactName] = useState("");
   const [email, setEmail] = useState("");
   const [phone, setPhone] = useState("");
   const [website, setWebsite] = useState("");
   const [category, setCategory] = useState("");
-  const [tier, setTier] = useState(defaultTier ?? "Free listing");
+  const tier = TIER;
   const [notes, setNotes] = useState("");
   const [website_url, setHoney] = useState("");
   const [state, setState] = useState<"idle" | "sending" | "sent" | "error">("idle");
@@ -116,15 +117,12 @@ export function GetListedForm({ defaultTier }: { defaultTier?: string }) {
             {CATEGORIES.map((c) => (<option key={c} value={c}>{c}</option>))}
           </select>
         </label>
-        <label className="block">
-          <span className="mb-1 block text-xs font-bold uppercase tracking-wider text-teal-500">Plan you&apos;re interested in</span>
-          <select
-            value={tier} onChange={(e) => setTier(e.target.value)}
-            className="w-full rounded-xl border border-line bg-white px-4 py-3 text-teal focus:border-coral focus:outline-none focus:ring-2 focus:ring-coral/20">
-            <option value="">Pick a plan</option>
-            {TIERS.map((t) => (<option key={t} value={t}>{t}</option>))}
-          </select>
-        </label>
+        <div className="block">
+          <span className="mb-1 block text-xs font-bold uppercase tracking-wider text-teal-500">Plan</span>
+          <div className="w-full rounded-xl border border-line bg-teal-50 px-4 py-3 text-teal">
+            Free listing
+          </div>
+        </div>
       </div>
 
       <label className="block">
