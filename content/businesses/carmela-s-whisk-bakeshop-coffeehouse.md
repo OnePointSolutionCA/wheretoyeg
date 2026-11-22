@@ -6,7 +6,7 @@ subcategory: "dessert-cafes"
 neighborhood: "St. Albert"
 address: "1 Tache St, St. Albert, AB T8N 7T4"
 rating: 4.7
-review_count: 318
+review_count: 323
 tier: "featured"
 phone: "(780) 458-2922"
 website: "http://whiskco.ca/"
@@ -22,24 +22,25 @@ reviews:
       The staff were friendly and quick, and you can really tell they care about quality and supporting local products. It’s the kind of place you want to come back to for a relaxed coffee or to meet friends.
       
       Highly recommend if you’re in the area. We will definitely be back!
-  - name: "MF"
-    rating: 5
-    comment: |
-      I love the vibe of this coffee shop. High ceiling, welcoming and good ambiance. It has good number of seats that you can spend your time with your friends or loved ones. The staffs are friendly and accommodating.
   - name: "Danielle Joevenazzo"
     rating: 5
     comment: |
       A intimate coffee house with a modern feel. Had the Ube Latte, smooth and creamy. Wish it had a few more food options, just a bit too sweet for first thing in the morning.
-  - name: "Janae Visser"
+  - name: "MF"
     rating: 5
     comment: |
-      I wanted to order a cake from a local shop within St. Albert and reviews led me to try Carmela’s Whisk. The online ordering process was simple and user friendly. I’m very happy with my cake! It looks and tastes amazing. I will definitely order here again for future events and will pass on the recommendation.
-  - name: "Sierra Taylor"
+      I love the vibe of this coffee shop. High ceiling, welcoming and good ambiance. It has good number of seats that you can spend your time with your friends or loved ones. The staffs are friendly and accommodating.
+  - name: "Pls No"
     rating: 5
     comment: |
-      Really cute spot, I loved the coffee offerings. The House Cortado was excellent and I would certainly come again. I also liked the breakfast poutine, which was the perfect size for me. Just a little side bowl of brunch potatoes, poached eggs with hollandaise and bacon.
-      
-      Only issue, and no fault of the business, was that parking was bizarre. Use the indigo lot just SW of the building and register your plate. There were limited walking paths cleared when I went, making it an awkward walk from the parking lot to the front door.
+      Cakes taste amazing, are worth the price, and a very sweet baker! She loves what she does and it showes through her cakes! My favorite flavor is the ube cake, and the strawberry flavor tastes like a literal strawberry ice cream! A wonderful place to go for a coffee and a treat! Especially if you're in St Albert!
+  - name: "Julie Vanrider"
+    rating: 5
+    comment: |
+      Best coffee shop of Edmonton.
+      Thank u guys, pastries are not too sweet and flavors are so home made 🙌❤️
+      My favorite drink for sure will always be the house style cortado, but... I always wait for the next season drinks. 🙌
+      Matcha is the best too, they use a good one. Highly recommend this.
 hours:
   monday: "10:00 AM–4:30 PM"
   tuesday: "9:00 AM–4:30 PM"

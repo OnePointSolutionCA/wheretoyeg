@@ -32,37 +32,24 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Sayler Reins"
     rating: 5
-    date: "2023-05-01"
     comment: |
       Capt. Clean did an amazing job of keeping us informed on their arrival date and time.  Very professional in not only their work but themselves as well. Highly appreciated and recommended them to any business or personal property.
-  - name: "cris mount"
+  - name: "simone Inglis"
     rating: 5
-    date: "2026-05-01"
     comment: |
-      Great services from the boys
-      Answered my call booked an appointment
-      Also called back to confirm and visited
-      Multiple times when weather was no the best to rebook and to make sure I was still comfortable with there service ☺️
+      I called on Monday afternoon, had a quote within 5 minutes and they showed up Tuesday morning to complete the job of cleaning the gutters on our rental home.  Prompt, courteous and friendly, highly recommend
+  - name: "Andeng Gutierrez"
+    rating: 5
+    comment: |
+      Hired Curt & his team to get exterior window cleaning for our property - Best Western St. Albert. They did an amazing job, look how sparkly!!
       
-      Never knew my windows and window ledges could look so clean
-      Keep up the good work 💪
-  - name: "Natalie R"
-    rating: 5
-    date: "2026-05-08"
-    comment: |
-      My windows look fantastic and the price was great! Thank you - I will definitely re-book!
-  - name: "Katie Yates"
-    rating: 5
-    date: "2026-05-01"
-    comment: |
-      Chris and Big Cris were so polite offering things I couldn't do while they were washing my windows
-      Put my furniture back and were so gentle with my belongings while inside my house
-      Such gentlemen 😊
-      Thank you
-      I look forward to seeing in the fall and please schedule me again for the spring
+      Hiring them will support their clean water projects in Africa as well!! ⭐️⭐️
   - name: "Janaye Davey"
     rating: 5
-    date: "2025-07-28"
     comment: |
       Chris was excellent to work with. He was responsive, timely & well priced. He completed an exterior wash of my house/windows & also did the garage which was not included in our plans but he did it anyway. All the work was perfection and will definitely book again!
+  - name: "Natalie R"
+    rating: 5
+    comment: |
+      My windows look fantastic and the price was great! Thank you - I will definitely re-book!
 ---

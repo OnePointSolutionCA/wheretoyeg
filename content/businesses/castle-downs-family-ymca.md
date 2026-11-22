@@ -23,34 +23,31 @@ hours:
 photos:
   - "/photos/castle-downs-family-ymca-g2.jpg"
 rating: 4.2
-review_count: 252
+review_count: 269
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "swimming"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Aysha Ley"
+    rating: 5
+    comment: |
+      I’ve been attending this Y of over 3 years and the experience keeps getting better especially at the reception desk. Nadeem & have been amazing.  Nadeem remembers my name and my kids names and this shows that we are more than just a number we are truly members of the Y. He is alway pleasant, always helpful and is super friendly and knowledgeable, I look forward to that warm smile & pleasant greeting as you enter. Hamza although quiet he is always reassuring, always welcoming, always helpful and most of all patient. There are many times I get flustered trying to figure out the best schedule for the kids and he is always thorough in checking to make sure we get what works best for us, such a calming experience. The facility overall is usually clean and other members of the swimmer. Team are good two but these two guys really make a difference! Keep up the good work! Keep shinning! Big up!!
+  - name: "Chantal Campbell"
+    rating: 5
+    comment: |
+      YMCA Castledowns is the best! I love the instructors and the volunteers. The classes are well structured and difficult enough to want to come back for more. The friendships we’ve made there, make going to the gym fun and socially stimulating.
   - name: "Bob Khater"
     rating: 5
-    date: "2026-06-07"
     comment: |
       Had a wonderful experience at Castle Downs Family YMCA Recreation Centre! The facility is clean, well-maintained, and has a welcoming atmosphere. The staff are friendly, supportive, and always ready to help. There are great programs and activities for all ages, making it a perfect place to stay active and spend time with family. I always feel comfortable and enjoy coming here. Highly recommended!
-  - name: "Princess Igweze"
-    rating: 5
-    date: "2026-05-10"
-    comment: |
-      While visiting a friend in Edmonton, I went with her and her kids who had swimming lessons. I found the place as a wholesome centre. It has a gym, a swimming area, with different sections for different people, a court for basketball, and other games etc. The locker room area was neat.
   - name: "mike towns"
     rating: 5
-    date: "2023-12-29"
     comment: |
       This is literally the best YMCA I’ve ever attended.  It is the cleanest, best maintained, best staffed, and best managed of any I’ve seen across western canada.  The breadth of facilities include, a pool with hot tub, a running track, racquetball court, expansive weight and cardio facilities (lots of machines = zero wait or time restrictions), gym, spin class, assorted fitness classes, daycare, and more (see photos for more).  I met first day with Bradley, who was extra kind, gentle, welcoming, and happy to show me around❣️. The price is perfectly reasonable considering the all-encompassing variety on offer.  Even the best Golds Gym I ever attended didn’t have as much on offer (and was much more expensive).  There was even a specialized machine for someone with a disability.  No reason for anyone not to attend here.  $$
-  - name: "Yeg Gym Review"
-    rating: 4
-    date: "2020-01-09"
+  - name: "Ethan Tanee"
+    rating: 1
     comment: |
-      The Castle Downs YMCA reminded me a lot of the William Lutsky one. They have very similar layouts in terms of the fitness centre.
-      However, this location seemed to have a much younger crowd in general, unlike the typical senior citizen population at most YMCAs.
-      They've expanded their fitness centre space to accommodate modern fitness trends, which is evident in the photo with fitness equipment in a room that very clearly used to be a squash court.
-      Not a bad facility overall! They have a wide variety of equipment, and they prioritize the most versatile pieces.
+      I recommend don’t come no more because the lifeguards keep on calling me troublemakers And the boys washroom is the worst. I cut my foot. And there’s too much swearing in the boys washroom and there’s kids in there. They’re screaming.
 ---

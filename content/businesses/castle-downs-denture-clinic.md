@@ -36,7 +36,7 @@ reviews:
       This is the best denture clinic I have ever been to, great service wonderful
       doctor they are the best.
 hours:
-  monday: "9:00 AM–5:00 PM"
+  monday: "9:00 AM–4:00 PM"
   tuesday: "9:00 AM–4:00 PM"
   wednesday: "9:00 AM–4:00 PM"
   thursday: "9:00 AM–4:00 PM"

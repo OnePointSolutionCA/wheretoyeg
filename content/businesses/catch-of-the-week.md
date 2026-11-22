@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–6:00 PM"
 photos: ["/photos/catch-of-the-week-1.jpg", "/photos/catch-of-the-week-2.jpg", "/photos/catch-of-the-week-3.jpg"]
 rating: 4.3
-review_count: 615
+review_count: 641
 price_range: "$$"
 amenities:
   - "Takeout"
@@ -31,14 +31,17 @@ tags: ["edmonton", "seafood"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "JonJonPoPong"
+    rating: 5
+    comment: |
+      My cousin had recommended this place to me a while back, however with where it's located I just never venture around this neighborhood.
+      Recently I made it in and enjoyed some fish and chips. The fish and chips are tasty and while they aren't the best fish and chips in the city taste wise, they are the best priced. I personally prefer proper chips, these were tasty but more French fry than chip.
+      I also got a order of sushi to take home, excellent price and very tasty.
+      I got a few of their pre made frozen items also, haven't tried them yet.
   - name: "Gerald S"
     rating: 5
     comment: |
       Nice clean, well appointed store. The only place I will go from now on for all my seafood needs. Had the in house fish ( halibut as pictured) and chips, mussels  and the special of the day pasta with shrimp and scallops. All food was very good and reasonably priced. Staff were very friendly and helpful. Be sure to ask about their VIP membership, which I think is a great deal. Solid 5/5 for this place.
-  - name: "Aaron Turpin"
-    rating: 4
-    comment: |
-      Lots of selection for every type of fish and seafood. The hot takeaway could use some improvement in facilities. “Seating” is quite limited with a few very small tables, and washrooms are not great condition. If there’s an option to eat on site, it should be more suitable. However, our fish and chips were high quality and very tasty.
   - name: "Eatingmyfeelingsinyeg"
     rating: 5
     comment: |
@@ -53,12 +56,12 @@ reviews:
       There are tons of specialty items like oils, sauces, pastas, honey... even yogurt sauce. Most of the items are from Italy, france, japan and greece. Another great thing about this place is the little lollipops from france or juice from japan. There is always room for a little extra deliciousness.
       
       A must stop for any special occassions to get your seafood needs.
-  - name: "Chelsea McDougall"
-    rating: 5
+  - name: "Aaron Turpin"
+    rating: 4
     comment: |
-      Love this place. They have a great selection of fresh and frozen seafood and a bunch of items to go with it. My favorite is the sushi. They have a great selection of ready-made options (made fresh that day, of course!) but they will also make other menu items for you if what you are craving isn't there. It's better sushi than at most restaurants in the city, and you can take it home and eat it in your pajamas. Staff is always friendly and helpful. Great place!
-  - name: "Ingrid Homeniuk"
-    rating: 5
+      Lots of selection for every type of fish and seafood. The hot takeaway could use some improvement in facilities. “Seating” is quite limited with a few very small tables, and washrooms are not great condition. If there’s an option to eat on site, it should be more suitable. However, our fish and chips were high quality and very tasty.
+  - name: "Ethel De Gracia"
+    rating: 4
     comment: |
-      Amazing customer service and incredible selection! All farmed fish confirmed organic and none of the beef is cloned meat. I'm about to be a regular! Oh and fresh sushi bar with tastiest rolls and poke bowls!! Available for pick-up too! Just wow!
+      We always come here for their fish n chips and its goood! Huge fish inside, not a lot of breading and crispy, even if its a take out. Also a good place to get seafood.
 ---

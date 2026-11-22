@@ -21,7 +21,7 @@ hours:
   sunday: "12:00 PM–10:00 PM"
 photos: ["/photos/captain-shawarma-1.jpg", "/photos/captain-shawarma-2.jpg", "/photos/captain-shawarma-3.jpg"]
 rating: 4.5
-review_count: 515
+review_count: 530
 price_range: "$"
 amenities:
   - "Halal"
@@ -31,10 +31,19 @@ amenities:
 tags: ["shawarma", "halal", "donair", "falafel", "west edmonton"]
 active: true
 reviews:
+  - name: "Abdirahman Bashir"
+    rating: 5
+    comment: |
+      ⭐⭐⭐⭐⭐
+      I had the chicken shawarma sub and it was excellent. The chicken was fresh, juicy, and full of flavor. The portion size was generous, and everything tasted freshly made. The staff were friendly and the service was fast. I will definitely come back again and recommend this place to anyone looking for a great shawarma in Edmonton.
   - name: "Mike Astle"
     rating: 5
     comment: |
       Nice clean place with friendly helpful staff. I had the best donair ever and my wife had a huge meal with grilled chicken rice and some veggies for $13. The regular size donair is probably enough for most people.
+  - name: "B B"
+    rating: 5
+    comment: |
+      Raj, the owner, Karlee and Stephanie made my experience unforgettable. The food is made fresh to order, the decor is adorable and lively. The food is delicious and homemade which is hard to find! They have plenty of seating and the table sizes range for different party sizes. They also offer catering if you need !
   - name: "Shahrukh Khan"
     rating: 5
     comment: |
@@ -43,12 +52,4 @@ reviews:
     rating: 5
     comment: |
       It has switched ownership since my last visit, but the food is still great! The menu is the exact same but staff is different. Never had a bad meal here, but this is my go to for the French fries sandwich. Growing up we called the poor man’s shawarma…fries, mayo coleslaw, ketchup and toum( Lebanese garlic sauce)…a must try! I also recommend the falafel wrap. Atmosphere is not the best due to the 87ave construction but the restaurant is clean and cozy.
-  - name: "Qyxen Marnix"
-    rating: 5
-    comment: |
-      Dropped by Captain Shawarma to give it a try — ordered the mix wrap and was genuinely impressed. The flavors were spot on, the portion generous, and everything tasted fresh. The place is clean, welcoming, and has a great vibe. I’ll definitely be back. Glad I found this spot!
-  - name: "Amit Bhagat"
-    rating: 5
-    comment: |
-      Absolutely love this place! Captain Shawarma and Donair in the west offers amazing service and even better food. The chicken shawarma is full of flavor—juicy, well-seasoned, and perfectly wrapped. The beef donair is equally awesome—tender and delicious with just the right amount of sauce. Staff are friendly and quick. Highly recommend if you're craving quality shawarma or donair!
 ---

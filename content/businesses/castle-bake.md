@@ -19,7 +19,7 @@ hours:
   sunday: "8:00 AM–5:00 PM"
 photos: ["/photos/castle-bake-1.jpg", "/photos/castle-bake-2.jpg", "/photos/castle-bake-3.jpg"]
 rating: 4.8
-review_count: 1115
+review_count: 1146
 price_range: "$$"
 amenities:
   - "Halal"
@@ -40,6 +40,10 @@ reviews:
       There is good yummy vegetarian options on the menu.
       
       The staff are friendly and pleasant but the place is rather dirty. The floors, the tables and the washrooms should be cleaned more frequently.
+  - name: "Sara Smith"
+    rating: 5
+    comment: |
+      I came to try this place out after seeing a video online of how good their chicken shawarma is. I came around lunch hour on a weekday and it was busy! Lots of customers dining in and coming for takeout. The man who took my order was very friendly & kind and the service was quick (less than 10 min to get food). The chicken shawarma was bomb. I love that they grill the wrap to give it a bit more texture and holds nicely. The spices on the pita are also a really pleasant touch! Only thing I would do next time is add some hot sauce. 10/10 overall and will be back!
   - name: "Rob’s Hidden Gems"
     rating: 5
     comment: |
@@ -50,16 +54,12 @@ reviews:
       In my opinion, the AGB (Akawi Garlic Butter) pie is excellent. I also recently had the chance to try their Crispy Chicken Shawarma, and they absolutely nailed it.
       
       If you’re looking for a breakfast that will keep you full all day, have you talking about it all week, and won’t break the bank, head to Castle Bake. Highly recommended.
-  - name: "A Aubaid"
-    rating: 3
-    comment: |
-      Although the service is great and the food was amazing, I was disappointed by the pricing. The prices listed online and on Google—including their website—are completely outdated and don't match what you are actually charged in-store, with no prior notice. Just a heads-up to double-check before you order!
   - name: "Tariq Almaashi"
     rating: 5
     comment: |
       Perfect place for a Sunday brunch. Their flat bread manoushes are excellent. try the garlic Akawi one.
-  - name: "Jake Miller (The Reviewer)"
+  - name: "Hassan Saeed"
     rating: 5
     comment: |
-      Castle Bake is a great place for fresh and tasty food. I often come here during the lunch rush, and they always treat me with the most respect. Even when it’s busy, the staff stay friendly, professional, and very fast with service. The manaesh is always soft, warm, and full of flavor, and the ingredients taste fresh every time. The portions are generous for the price, and the restaurant is clean and welcoming. It’s a great spot for both dine-in and takeout. I’d definitely recommend Castle Bake to anyone looking for delicious manaesh, wraps, and quality food.
+      One of my favourite spots in Edmonton. Amazing people, amazing food.
 ---

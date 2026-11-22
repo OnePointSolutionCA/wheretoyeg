@@ -23,7 +23,7 @@ hours:
 photos:
   - "/photos/castledowns-arp-pharmacy-g1.jpg"
 rating: 4.2
-review_count: 60
+review_count: 64
 amenities:
   - "Delivery"
   - "Wheelchair Accessible"
@@ -31,19 +31,24 @@ tags: ["edmonton", "pharmacies"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Lori"
+    rating: 5
+    comment: |
+      I am truly grateful for the exceptional personalized service that Castledowns ARP pharmacy provides.  They patiently listen to my questions and thoroughly explain the proper procedure in order to take the medication correctly.  This results in the best optimal health outcome.
+  - name: "Joan Hunt"
+    rating: 5
+    comment: |
+      This is the very best service I have ever received in any pharmacy across Canada that I’ve used the staff are accommodating and helpful friendly and happy I s so refreshing.  They always call if they have questions or to remind me of different things. They are small but the best service
   - name: "Vee Macale"
     rating: 5
-    date: "2026-06-29"
     comment: |
       Just moved to Castledown Area from West Side of the city and was looking for pharmacy near my new place, so many people recommended Castledown Arp Pharmacy and they are right! From the transferring the prescription from my old pharmacy to them to delivering my medicine directly to my home they make it so easy and accomodating! And its free delivery too! The gentleman that answered my call was also sound so kind and welcome me to the neighborhood. So for people thats looking for pharmacy in the north side. Give Castledown ARP Pharmacy a try!
-  - name: "Marco B"
+  - name: "SureThangComedy"
     rating: 5
-    date: "2026-03-06"
     comment: |
-      Nothing but great service from Yik and his staff at Castledowns ARP Pharmacy. Polite customer service and a very clean pharmacy. Would recommend for you prescription medication needs. Added bonus is that you can ship packages here from a variety of carriers. This is a one stop shop.
-  - name: "ahmed seedok"
-    rating: 5
-    date: "2026-02-13"
+      Great Pharmacy! Yik and the rest of the staff are great at what they do. I have been coming here for my prescriptions for years and will continue to do so.
+  - name: "Delaney Quinton"
+    rating: 1
     comment: |
-      I had a great experience with Tammy at the post office in ARP Pharmacy. She was polite, patient, and efficient. She made everything easy.
+      Oh my gosh. Absolute terrible service. I just dropped off 3 boxes with shipping labels at the "authorized shipping agent" office inside of the castledowns pharmacy. I told the woman it was my first time dropping anything off with purolator. I had the boxes and labels, the woman didn't hesitate to rudely point out that I hadn't had them taped shut. She said "they were just a fast tracking shipping location" and reluctantly pulled out her tape gun and closed the package for me. She threw a shipping label at me to put on one box and I attempted to put it on the package. She took the package from me and said "you didn't even attach it" she then ripped it off and resecured it. I told her again "I'm sorry, I've never done this before." And she says to me in the most patronizing tone thick with sarcasm, "well now you'll be a pro". Good gosh I hope i never have to do that again, she was the rudest woman I've ever encountered supposedly working in the customer service industry. I 100% will go out of my way to never go to this location again. Woman was about 50 years old, shoulder length hair and glasses.
 ---

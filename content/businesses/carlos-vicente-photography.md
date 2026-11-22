@@ -11,18 +11,18 @@ phone: "(780) 863-2405"
 website: "https://www.carlosvicentephotography.com/"
 google_maps_url: "https://maps.google.com/?cid=5969507576987410790&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 hours:
-  monday: "12:00 AM–12:00 AM"
-  tuesday: "Closed"
-  wednesday: "Closed"
-  thursday: "Closed"
-  friday: "Closed"
-  saturday: "Closed"
-  sunday: "Closed"
+  monday: "Open 24 hours"
+  tuesday: "Open 24 hours"
+  wednesday: "Open 24 hours"
+  thursday: "Open 24 hours"
+  friday: "Open 24 hours"
+  saturday: "Open 24 hours"
+  sunday: "Open 24 hours"
 photos:
   - "/photos/carlos-vicente-photography-g0.jpg"
   - "/photos/carlos-vicente-photography-2.jpg"
 rating: 5
-review_count: 155
+review_count: 156
 price_range: "$$"
 amenities:
 
@@ -30,6 +30,10 @@ tags: ["edmonton", "wedding"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Kjeryn Soetaert"
+    rating: 5
+    comment: |
+      Carlos is personable, charismatic, and super friendly. My partner and myself are not the best at taking photos together, but Carlos made the process super comfortable for us. He easily figured out our best angles and was able to get us out of our shells all while keeping everything fun and easy going. We would highly recommend Carlos to anyone who wants a photographer that keeps things light and natural. Our engagement photos turned out better than we could have imagined and Carlos got them to us super fast! We absolutely loved our time with Carlos and we cannot wait for him to capture our wedding day in September :)
   - name: "Nicole McCaffray"
     rating: 5
     comment: |
@@ -38,16 +42,6 @@ reviews:
     rating: 5
     comment: |
       Carlos’ talent is unmatched. My husband and I had the opportunity to have our engagement photos and wedding captured by Carlos. From our initial inquiry to our wedding day, communication was prompt, clear and always friendly. It is evident that Carlos truly cares for his clients and was committed to us as we had to move our wedding date due to factors beyond our control. Carlos was extremely understanding and was flexible with us. My husband and I are not very comfortable in front of the camera but Carlos has a way of making the entire experience fun and light. Our photos are beyond gorgeous and I’m so thankful for Carlos and his ability to capture the genuine joy, love, and tears that were shared on our wedding day. We highly recommend Carlos and can’t thank him enough for all that he has done for us. He is the very best and so so talented!
-  - name: "Olivia Fata"
-    rating: 5
-    comment: |
-      As a wedding coordinator, I've had the pleasure of working alongside Carlos, and I can confidently say he is one of the best in the industry. His professionalism, creativity, and calm presence make him an incredible asset to any wedding day.
-      
-      Carlos captures beautiful, authentic moments while working seamlessly with the vendor team to keep the day on schedule.
-      
-      One thing that truly sets him apart is his ability to read a couple. He instinctively knows when they need a quiet moment together and when they want to be fully present with their family and guests. He adapts effortlessly to the flow of the day, ensuring couples never feel rushed or pulled away from the experience they're there to enjoy.
-      
-      His communication is excellent, he's incredibly adaptable to any situation, and the final galleries are always stunning. I would happily recommend Carlos Vincent Photography to any couple looking for a photographer who not only delivers beautiful images but genuinely enhances the wedding day experience.
   - name: "Winona and Doug Wedding"
     rating: 5
     comment: |

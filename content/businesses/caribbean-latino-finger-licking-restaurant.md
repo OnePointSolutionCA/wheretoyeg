@@ -19,7 +19,7 @@ hours:
   sunday: "12:00 PM–9:00 PM"
 photos: ["/photos/caribbean-latino-finger-licking-restaurant-1.jpg", "/photos/caribbean-latino-finger-licking-restaurant-2.jpg", "/photos/caribbean-latino-finger-licking-restaurant-3.jpg"]
 rating: 4.7
-review_count: 92
+review_count: 105
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -29,30 +29,25 @@ tags: ["edmonton", "caribbean"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Maël Zoukou Bahi"
+  - name: "Ariel Bracko"
     rating: 5
     comment: |
-      Great food- Great music- Great service
-      I had the fish and the goat meat, both were delicious, the sides were amazing as well especially the riz djon djon. They even helped me with my school project that I was making on Caribbean food, got a very good grade because of them! Thanks again for everything
-  - name: "Brianna White"
+      Came here in the summer with my Haitian boyfriend, we are from Calgary where we have no Haitian restaurants. He was excited to go to Edmonton just to try this place, and we both absolutely loved it! The ladies that were working were so kind as well, and the restaurant was very clean. We will definitely be back!
+  - name: "Brianna Paris"
     rating: 5
     comment: |
       Best Haitian food I have ever had. My husband is Haitian, and we have been to restaurants in both Toronto and Montreal, and this is the best we have had! Portions were amazing and everything was so fresh. They were a very sweet family and you can tell the food is made with love. To everyone complaining about the price, I found it reasonable given the quality and portion. Do you complain at high end restaurants about an $80 steak? No. Support local businesses who are taking the time and dedication to share their culinary experiences with you. Merci Caribbean Latino Restaurant!
+  - name: "FoodieGuy"
+    rating: 5
+    comment: |
+      So grateful to have a Haitian place in Edmonton! Food is just as tasty and delicious as you’d expect if you know the cuisine. Generous portions and my personal favourite is their griot dish.
+  - name: "Edotam Abinet"
+    rating: 2
+    comment: |
+      The food is decent I won’t lie about that , although everytime I come here they refuse to honor the prices displayed on their menu . One time it was when the fish was apparently bigger than the usual size but I obliged and paid without a complaint. Now I come in and I am told I can’t get goat for the displayed price of $25.99 because it’s more expensive now . And I understand running a business can get hard but you have to serve what you display on your menu at a bare minimum . GOOD FOOD THOUGH .
   - name: "Hilda Lemus"
     rating: 4
     comment: |
       Wandered over to this restaurant with a group of 4 of us and we were welcomed with a friendly smile and told to sit down and they would come to the table to take our order. Sweetest ladies served us and the fried goat, chicken, red fish snapper and pork were all great!!
       The restaurant is small but you can tell that there is a lot of love in their food. A good home cooked carribean meal is just what the doctor ordered!!
-  - name: "Aniya Larose"
-    rating: 5
-    comment: |
-      I live in Calgary and EVERYTIME I go to Edmonton I HAVE to go and get a plate some of THE BEST Haitian food I have had
-  - name: "Drew Wolsey"
-    rating: 4
-    comment: |
-      We tried to go to a Jamaican restaurant on 118 Ave, but it was closed. So, we tried this one because it was just a few blocks away.
-      
-      I had the fried pork, rice/beans, and fried plantains. It was quite tasty.
-      
-      My only complaint was some confusion on the price. The meal pictured here was listed in the menu for $23. But when I went to pay it was $30. I questiones this and was told the rice had been upgraded. I hadn't asked for this upgrade, but decided to leave it alone. Food was good, but this is not a great way to get repeat customers.
 ---

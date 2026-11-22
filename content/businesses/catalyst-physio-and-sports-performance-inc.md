@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–1:00 PM"
 photos: []
 rating: 5
-review_count: 168
+review_count: 170
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,25 @@ tags: ["edmonton", "physiotherapy"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Rachelle Paley"
+    rating: 5
+    comment: |
+      I cannot recommend this clinic enough. If you are tired of physiotherapists who just hook you up to a machine and walk away, you need to come here.
+      
+      I have seen both Vince and Alma for two completely different injuries, and the experience with both has been outstanding:100% Hands-On Attention: During your session, the entire time is dedicated strictly to you. They don't pass you off or leave you sitting alone in a room.
+      
+      Root Cause Focus: They don't just treat the surface symptoms. They take the time to figure out exactly why you are in pain so you can heal properly long-term.
+      
+      Vince (Dry Needling): His dry needling treatments completely sped up my recovery time. It made a massive difference.
+      
+      Alma: Just like Vince, she provides exceptional, attentive care and is deeply committed to getting you back to 100%.
+      
+      Whether you see Vince or Alma, you are in excellent hands. I highly recommend either of them to anyone looking for genuine, high-quality care!
+  - name: "Lillian Sveen Blair"
+    rating: 5
+    comment: |
+      Vincent is an exceptional physiotherapist, he can work with anyone and any age.
+      Vincent pinpoints your muscle and ligament concerns, then creates an exercise and strengthening plan to work through this. I’m grateful for his patience and expertise.
   - name: "Bliss Winik"
     rating: 5
     comment: |
@@ -47,16 +66,8 @@ reviews:
       What mattered most to me was that Vincent listened to my concerns and changed my treatment as I improved. That gave me a lot of confidence in my recovery. He was welcoming, professional and made each visit a positive experience.
       
       I highly recommend Vincent and Catalyst Physio to anyone recovering from an injury or looking for personal, high-quality physiotherapy care.
-  - name: "Randy Tsen"
+  - name: "Brianne Hoines"
     rating: 5
     comment: |
-      Vince at Catalyst was excellent with my daughter after her volleyball injury. He genuinely cared about her recovery and gave her effective exercises that helped her get back to full strength. He goes beyond basic treatments; he’s not someone who just relies on a TENS machine, but really focuses on proper rehab and long-term results. I would recommend him to anyone needing treatment.
-  - name: "Mariam Tashkandi"
-    rating: 5
-    comment: |
-      I started physiotherapy here following knee surgery, and the experience has been outstanding. The initial assessment was thorough, and my recovery plan was clearly explained and structured around my goals. The sessions were hands-on, progressive, and evidence-based. I’ve regained strength, mobility, and confidence in my knee much faster than I expected. I truly felt supported every step of the way. Highly recommend for post-surgical rehab. Plus having the gym right there was so beneficial for my training.
-  - name: "Calvin B-Burns"
-    rating: 5
-    comment: |
-      As an older athletically engaged person, Vincent has been instrumental in helping me navigate my way through several sport related injuries and in desling with the reslities of remaining active throughout the aging process.  He is knowledgeable, thoughtful and very engaged in his practice.  If you are looking for a physiotherapist that strives for a higher standard I highly recommend going to see Vince.
+      Vince was super nice to work with! Didn’t push me beyond what I was able to do. I did achieve my goal of being able to walk normally again after injury. We went at my pace and he designed specific exercises for me to do. Overall, great experience!!
 ---

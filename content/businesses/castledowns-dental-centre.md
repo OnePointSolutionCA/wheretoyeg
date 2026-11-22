@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Castle Downs"
 address: "11816 145 Ave NW, Edmonton, AB T5X 2E3"
 rating: 4.7
-review_count: 56
+review_count: 59
 tier: "featured"
 phone: "(780) 456-2990"
 website: "http://castledownsdentalcentre.com/"
@@ -14,6 +14,10 @@ google_maps: "https://maps.google.com/?cid=18249396615006479726&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/castledowns-dental-centre.jpg"
 reviews:
+  - name: "Hana Yemane"
+    rating: 5
+    comment: |
+      I had a wonderful experience at this dental clinic! I came with my baby and had no one to take care of her, but the staff were so kind and helpful and took care of my baby while I was getting my teeth treated. A big thank you to the dentist for taking such good care of my teeth and making me feel comfortable. I truly appreciate everyone’s kindness and care. Highly recommend this clinic! ❤️🦷
   - name: "N D"
     rating: 5
     comment: |
@@ -24,18 +28,14 @@ reviews:
       We have always been very pleased with both the treatment and the results, and we truly appreciate the dedication and attention to detail shown by everyone at the clinic.
       
       Thank you, Dr. Tarchichi and the team at Castledowns Dental Centre, for the many years of excellent care. We highly recommend your office to anyone looking for a trustworthy and skilled dental team.
-  - name: "Deena Safa"
-    rating: 5
-    comment: |
-      Genuinely the best dentist I’ve been to! Dr.Tarchichi is so kind and professional, I highly highly recommend going to see him for your dental needs :))
   - name: "Gus"
     rating: 5
     comment: |
       Had the pleasure to have my teeth cleaned by the hygienist SAJIDA, she was amazing , super friendly, she did an excellent job with speed and professionalism, highly recommended.
-  - name: "Hajar Sal"
+  - name: "Deena Safa"
     rating: 5
     comment: |
-      Dr tarchichi was amazing he did a great job was very gentle and polite thank you so much for making my visit easy
+      Genuinely the best dentist I’ve been to! Dr.Tarchichi is so kind and professional, I highly highly recommend going to see him for your dental needs :))
   - name: "Reem Alhalabi"
     rating: 5
     comment: |

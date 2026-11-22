@@ -24,7 +24,7 @@ photos:
   - "/photos/castle-downs-park-g1.jpg"
   - "/photos/castle-downs-park-g2.jpg"
 rating: 4.5
-review_count: 799
+review_count: 798
 amenities:
   - "Family Friendly"
   - "Wheelchair Accessible"
@@ -34,27 +34,22 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Cali Wiersma"
     rating: 5
-    date: "2021-08-21"
     comment: |
       This park is awesome. The spraypad/dry park combo with the sand pit too. My kids could play here every day, all day and never get tired. Really busy though, especially on hit days. Not a ton of benches, but lots of grassy areas so bring a big towel or blanket to sit and watch the kids play.
   - name: "Donna Ross"
     rating: 5
-    date: "2018-08-07"
     comment: |
       Got there at 2pm. Found parking directly in front of park. Immediately found a spot in the shade. Lots of play stations for kids of all ages. Sand station, spray park, lots and lots of different climbing stations, swings, dizzy seats, skate park and plenty of grass for the parents to lounge around. I LOVE that this place has actual bathrooms!!!! We had a great time and will definitely be back!
   - name: "Lu Ding"
     rating: 5
-    date: "2022-09-12"
     comment: |
       Wonderful park for all ages kids! You can spend whole day here! A lot of fun!
   - name: "Adnan Tek"
     rating: 5
-    date: "2021-06-25"
     comment: |
       I like this park and my family love it! But skating area should be more safer and better to be some rules there!
   - name: "Shan Ying"
     rating: 4
-    date: "2020-08-19"
     comment: |
       Very nice and big park to play.
       There are water spray, and 4-5 climbing and slide things in a different place according to their age.

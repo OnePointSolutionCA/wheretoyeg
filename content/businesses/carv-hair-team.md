@@ -13,14 +13,14 @@ google_maps_url: "https://maps.google.com/?cid=3734514068834149268&g_mp=Cidnb29n
 hours:
   monday: "Closed"
   tuesday: "10:00 AM–6:00 PM"
-  wednesday: "10:00 AM–2:00 PM"
+  wednesday: "10:00 AM–4:00 PM"
   thursday: "10:00 AM–8:00 PM"
   friday: "10:00 AM–6:00 PM"
   saturday: "9:00 AM–5:00 PM"
   sunday: "Closed"
 photos: ["/photos/carv-hair-team-1.jpg", "/photos/carv-hair-team-2.jpg", "/photos/carv-hair-team-3.jpg"]
 rating: 4.9
-review_count: 116
+review_count: 114
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,14 @@ tags: ["edmonton", "cuts-styling"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Tanner Adams"
+    rating: 5
+    comment: |
+      Tito will have you feeling confident and in love with your hair; as someone with about 3 cowlicks, regular barbers just don't work with your hair, and in 3 weeks I'll look like a wild man. But with Titos' attention to detail I can go months without needing a touch up as my hair will grow into my cut. Great taste in music, too. This place is always bumpin'!
+  - name: "Cassandra Bolivar"
+    rating: 1
+    comment: |
+      I visited the salon on Oct 12. I have been hoping that my daughter’s hair grew into the cut given by Alejandra but unfortunately I am still super sad and disappointed. For context, we came into the salon for a kids curly cut. We asked for bangs at her eyebrows and for hair to be cut to land at her shoulder. Of the methods used to cut my child’s really curly hair, some seemed to be not right for her hair texture. Her bangs are uneven, layers are very noticeably uneven on each side. My daughter has hair pieces cut as short as one inch in places due to twist cutting which causes a lot more frizz and tangles. Hair was cut wet and not detangled. The only fortunate part is that I am able to tell my child it looks wonderful and that everything is fine. I did reach out to Alejandra but the response back seemed to not take accountability in maybe using the wrong methods. She mentioned she could teach me about products but products are not the issue. It is the hair cut. I would not recommend her for curly cuts if your hair is 3b or more curlier/coiler. I know curly hair is scary to cut for some stylists, communication and honesty is definitely necessary so clients like myself aren’t blindsided at the end. Best of luck to everyone on their curly hair journey as we are still on the hunt for a stylist in yeg that is confident and can do our curly curly hair. Pictures are from day of cut, and how it was styled by stylist.
   - name: "Jennifer Bouchard"
     rating: 5
     comment: |
@@ -36,18 +44,10 @@ reviews:
     rating: 5
     comment: |
       Excellent place to get your hair done. Ample parking and attentive stylists inside. I got highlights done last week from Yasmin, their new apprentice, and they were well done and within my expectations. Tito, another one of their stylists, was a hoot to be around as well (I laughed so much whilst there lol). The salon owner, Rachelle, was a delight to be around and helpful with hair recommendations, too. Besides the great stylists inside, they also have a nice variety of cooled beverages and on the communal hair station, interesting table top books for perusing, a little sensory spot with sand, and chocolates for when you're feeling peckish.  Overall, it's a vibe and one that I'd recommend. :)
-  - name: "Cassandra Bolivar"
-    rating: 1
-    comment: |
-      I visited the salon on Oct 12. I have been hoping that my daughter’s hair grew into the cut given by Alejandra but unfortunately I am still super sad and disappointed. For context, we came into the salon for a kids curly cut. We asked for bangs at her eyebrows and for hair to be cut to land at her shoulder. Of the methods used to cut my child’s really curly hair, some seemed to be not right for her hair texture. Her bangs are uneven, layers are very noticeably uneven on each side. My daughter has hair pieces cut as short as one inch in places due to twist cutting which causes a lot more frizz and tangles. Hair was cut wet and not detangled. The only fortunate part is that I am able to tell my child it looks wonderful and that everything is fine. I did reach out to Alejandra but the response back seemed to not take accountability in maybe using the wrong methods. She mentioned she could teach me about products but products are not the issue. It is the hair cut. I would not recommend her for curly cuts if your hair is 3b or more curlier/coiler. I know curly hair is scary to cut for some stylists, communication and honesty is definitely necessary so clients like myself aren’t blindsided at the end. Best of luck to everyone on their curly hair journey as we are still on the hunt for a stylist in yeg that is confident and can do our curly curly hair. Pictures are from day of cut, and how it was styled by stylist.
   - name: "Danielle Lindsay"
     rating: 5
     comment: |
       I had a wonderful experience and service from Rashelle. I came in with so many pictures of what I was looking for and for the first time she knew exactly what I was asking for and delivered on the final results. I was so nervous but in the end I left feeling more confident in my new hair colour. Can’t wait to go back in a few weeks to get some extensions with her.
       
       She very knowledgeable, and I left with a better understanding of hair.
-  - name: "Chimone Canderal"
-    rating: 5
-    comment: |
-      Tava gave me a beautiful haircut. She took her time and made sure it was perfect. She was also very friendly and easy to talk to , I will definitely be back to see her and the beautiful salon!
 ---

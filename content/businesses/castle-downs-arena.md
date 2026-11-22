@@ -16,36 +16,31 @@ photos:
   - "/photos/castle-downs-arena-g1.jpg"
   - "/photos/castle-downs-arena-g2.jpg"
 rating: 4.4
-review_count: 310
+review_count: 318
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "skating"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Brian Hunt"
+    rating: 5
+    comment: |
+      Having not been to this arena in over 10 years, the facility is very well kept.  I was impressed with the entire arena. Everything I saw was impressive.  From the condition of the change rooms to the cleanliness of the viewing area to the ice condition, I couldn’t have been more impressed.
   - name: "Meg B"
     rating: 4
-    date: "2026-08-26"
     comment: |
       Well managed rinks, clean. Spacious dressing rooms, lobby area has tables to eat at. Spectator area is meh. Benches are not great but what do you expect. Parking is weird too. Overall though, nice rink to play at.
-  - name: "Colleen Nall"
+  - name: "chris corrigan"
     rating: 5
-    date: "2026-03-26"
     comment: |
-      I love watching my grandchildren play hockey. It's a hoot. A lot of bells and whistles, and let's not forget that we all need more cow bells. Kids hockey is priceless.
-  - name: "David Brown"
-    rating: 4
-    date: "2025-09-09"
-    comment: |
-      Nice arena with clean large change rooms and good ice.
+      Love this arena,used to be one of my favorite arena's to play in when I was in hockey as a kid,this place always brings back memories when I see this arena.
   - name: "DL W"
     rating: 4
-    date: "2023-01-11"
     comment: |
       Outdoor arena is free. Bring your own skating. Nice trails and a few separate rink areas for hockey
-  - name: "George"
+  - name: "Lyle Grelowski"
     rating: 5
-    date: "2026-04-16"
     comment: |
-      Arena is very well setup. Prices at food court very reasonable.
+      It's a very busy place, seems well maintained
 ---

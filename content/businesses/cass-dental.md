@@ -16,7 +16,7 @@ hours:
   monday: "9:00 AM–5:00 PM"
   tuesday: "11:00 AM–7:00 PM"
   wednesday: "11:00 AM–7:00 PM"
-  thursday: "7:00 AM–3:00 PM"
+  thursday: "12:00 PM–7:00 PM"
   friday: "8:00 AM–2:00 PM"
   saturday: "9:00 AM–4:00 PM"
   sunday: "Closed"
@@ -24,16 +24,19 @@ photos:
   - "/photos/cass-dental-g1.jpg"
   - "/photos/cass-dental-g2.jpg"
 rating: 5.0
-review_count: 70
+review_count: 72
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "dentists"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Ivanna"
+    rating: 5
+    comment: |
+      We had such a positive experience here when my husband had his wisdom tooth removed. Everything went really well, and the whole team was so kind, caring, and easy to communicate with. We especially appreciated how understanding and considerate they were when it came to the cost and insurance. It really made us feel that they genuinely cared about us, not just the procedure. Thank you so much for taking such good care of us! We truly appreciate it and would definitely recommend this place.
   - name: "Elisha Kitching"
     rating: 5
-    date: "2026-08-19"
     comment: |
       Thanks for the amazing experience, my root canal was entirely painless and I can't believe more people don't go here. This place is honestly deserving of being named the best dentist office in the entirety of Canada. They also managed to squeeze me in quickly to get some caps on my teeth. Dr. Mann was extremely precise throughout the entire appointment and made the visit fast and easy.
       
@@ -42,30 +45,24 @@ reviews:
       The dentist office is also extremely cozy and homey, I've honestly never felt more safe In a dentist office. Cass dental seriously takes it to the next level of overall comfort.
       
       The care they took through this whole process eased my anxiety as I was a bit nervous to get my root canal. I was in quite a bit of pain so I'm glad they fit me in quickly! Thank you so much, you made a lifelong patient.
-  - name: "Kristine Johnson"
+  - name: "Meryem Yanar"
     rating: 5
-    date: "2026-08-05"
     comment: |
-      From the calm decor, to the cheerful, experienced and pleasant administrator to Dr. Mann and his skillful assistant Christina, my root canal was a pain free and pleasant experience! Highly recommend this team for any and all dental needs! I have had many root canal procedures completed in the past by other dentists, but not were ever as pain free as this one!
+      ⭐⭐⭐⭐⭐
+      
+      I had such a great experience at CASS Dental! I got a full cleaning and had some fillings done, and they did an amazing job. Everyone there was so kind, friendly, and professional, and they made me feel very comfortable throughout my treatment.
+      
+      This is a newer dental office, and I definitely recommend giving them a try if you’re looking for a dentist. I’m really happy with the treatment I received and the wonderful people who took care of me. Thank you, CASS Dental, for such a great experience! 🦷❤️
+  - name: "jessy2012ful"
+    rating: 5
+    comment: |
+      I found Cass Dental through ChatGPT, and I’m so glad I did! As someone who is genuinely scared of going to the dentist, I was nervous walking in. From the moment I arrived, the entire team made me feel welcomed, supported, and completely at ease.
+      
+      What really stood out to me is that they truly care about their patients. I never felt pressured into unnecessary treatments or like they were trying to make money off me. They took the time to explain everything, answered my questions, and treated me with kindness and respect. That, to me, is a huge green flag.
+      
+      If you’re anxious about dental appointments or looking for a clinic that puts people before profit, I can’t recommend Cass Dental enough. They have definitely earned a lifelong patient. 100% recommended!
   - name: "Gentscut Barbershop"
     rating: 5
-    date: "2025-11-07"
     comment: |
       I had a great experience with my filling, the Dentist (Maan) was very knowledgeable,gentle and efficient! Amazing experience with the staffs (Kevin, Cristina and Rachel) they were so friendly and made me feel at ease. HIGHLY RECOMMENDED!
-  - name: "Jaspreet Dhillon"
-    rating: 5
-    date: "2026-01-27"
-    comment: |
-      This is honestly the best dental clinic I’ve ever been to. From the moment I walked in, the front desk staff were warm and welcoming.
-      
-      Dr. Maan is an exceptional dentist - calm and incredibly skilled. He takes the time to explain everything clearly for my fillings with such a gentle, calming approach that all my dental anxiety disappeared. You can truly see his passion for dentistry and how much he cares about his patients.
-      
-      My cleaning was done by Harpreet, and it was a great experience as well - very gentle and thorough. Made me feel completely at ease and did an excellent job. My teeth feel so smooth, clean and refreshed.
-      
-      I highly recommend Dr. Maan and his team to anyone looking for a new dentist. You’ll be in great hands from start to finish!
-  - name: "Fred Holtslag"
-    rating: 5
-    date: "2026-05-26"
-    comment: |
-      I am extremely pleased with and impressed by Cass Dental!  As a senior without any dental plan, the staff offered me information in order to apply for the Federal coverage, but I don't qualify...yet.  So, they gave me some concessions on billings.  I had a dental emergency on a Sunday morning, and Cass Dental "came to the rescue!"  After a course of antibiotics, followed by an extraction, I was assessed for a root canal.  After being given all the options, together we decided it was not warranted...yet.  Today, I returned for follow-up and confirmation that nothing further is required at this time.  Kudos to Dr. Maan and staff for emergency service on a Sunday evening, and for patiently walking me through the suggested actions and alternatives prior to me making up my own mind as to the way ahead!
 ---

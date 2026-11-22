@@ -22,7 +22,7 @@ photos:
   - "/photos/career-plus-immigration-consultants-inc-2.jpg"
   - "/photos/career-plus-immigration-consultants-inc-3.jpg"
 rating: 4.9
-review_count: 898
+review_count: 912
 price_range: "$$"
 amenities:
 
@@ -30,11 +30,41 @@ tags: ["edmonton", "immigration"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Sandhu Saab"
+  - name: "Ahmed Bedi"
     rating: 5
     comment: |
-      I had a great experience with career plus immigration consultancy. They were very professional, knowledgeable, and supportive throughout the entire process. I’m very happy to share that my LMIA work permit approval came much earlier than I expected!
-      The team kept me informed, answered all my questions, and handled everything professionally from start to finish. I truly appreciate their hard work and guidance. I would definitely recommend their services to anyone looking for reliable immigration assistance. Thank you for all your help!
+      Ahmed Sidi
+      
+      I would like to express my sincere gratitude to Career Plus Immigration for their professionalism, dedication, and outstanding support throughout my immigration journey.
+      
+      The team has been incredibly helpful, patient, and understanding. Their commitment, hard work, and willingness to support their clients truly make a difference.
+      
+      I especially appreciate Mr. Singh for his professionalism, kindness, and personal attention to my case. I felt respected, supported, and guided throughout a very important chapter of my life.
+      
+      I highly appreciate everything they have done for me, and I would confidently recommend Career Plus Immigration to anyone looking for a professional, caring, and dedicated immigration team.
+      
+      Thank you for being part of my journey and helping me move closer to a better future.
+  - name: "Sach Preet"
+    rating: 5
+    comment: |
+      I am extremely grateful to the entire team of career plus for outstanding support in helping my mother obtain her visa and Permanent Residency (PR). Their professionalism, dedication, and guidance made the entire process smooth and stress-free. They were always helpful, patient, and supportive throughout the journey. I truly appreciate their hard work and highly recommend their services to anyone looking for trustworthy and reliable immigration assistance.
+  - name: "Luv Gahlaut"
+    rating: 5
+    comment: |
+      I had a great experience with Career Plus Immigration, especially with Mrs. Jaskiran, who helped me with my work permit application. She was extremely helpful, professional, and patient throughout the whole process. She explained everything clearly, answered all my questions, and guided me through each step.
+      
+      I really appreciate the time, effort, and support Mrs. Jaskiran
+      provided. She made the immigration process much easier and less stressful for me. I’m very thankful for all her help and would highly recommend Career Plus Immigration and Mrs. Haskins to anyone who needs immigration assistance.
+      
+      Thank you so much for your amazing help and support!
+  - name: "Sukhman Kaur"
+    rating: 5
+    comment: |
+      I had a very smooth and positive experience with Career Plus Immigration. I applied for my Study Permit Extension and PGWP, and also applied for my husband’s Spousal Open Work Permit (SOWP) through them. Throughout the whole process, Princepal and Parmjeet Mam were extremely helpful, professional, and supportive.
+      
+      They explained everything clearly, guided us step-by-step, and were always available whenever we had questions or concerns. The entire process felt much less stressful because of their guidance and support.
+      
+      I’m truly grateful to Princepal and Parmjeet Mam for helping us so smoothly with our applications. I would definitely recommend Career Plus Immigration to anyone looking for professional and reliable immigration assistance. ❤️⭐⭐⭐⭐⭐
   - name: "virpal khosa"
     rating: 5
     comment: |
@@ -47,20 +77,4 @@ reviews:
       They are not only highly professional but also very trustworthy and supportive. We sincerely appreciate all their help over the years and would highly recommend Career Plus Immigration to anyone looking for reliable and genuine immigration services.
       
       Thank you for your continued support and excellent service! ❤️
-  - name: "Zackery Markle"
-    rating: 5
-    comment: |
-      I had an excellent experience with CPIC Immigration. My immigration lawyer, Oumaima, was outstanding from start to finish. She took on a very challenging case due to my extensive travel history and handled everything with professionalism, expertise, and attention to detail.
-      
-      Thanks to her hard work and guidance, my spousal work permit was approved in just 4 months. She was always responsive, knowledgeable, and reassuring throughout the entire process.
-      
-      I highly recommend CPIC Immigration, especially Oumaima, to anyone looking for a dedicated and experienced immigration lawyer. Thank you for making what seemed like an impossible process a success!
-  - name: "LAVANYA BHASIN"
-    rating: 5
-    comment: |
-      I had an excellent experience with this immigration consultant company. My case became complicated because I had to file for reconsideration, but their team handled everything professionally and confidently. They carefully guided me through the process, explained every step clearly. Thanks to their knowledge, dedication, and constant support, everything was managed successfully. I truly appreciate their patience and commitment during such a stressful time. Highly recommend their services to anyone looking for trustworthy and experienced immigration consultants.
-  - name: "Manpreet Kaur"
-    rating: 5
-    comment: |
-      I had an amazing experience with Career Plus Immigration. They guided me through every single step of the PR process, making what could have been a really overwhelming journey feel manageable and clear. Their expertise and support were invaluable, and I'm so grateful for their help in achieving my goal. Thanks to all the team and especially Shiella Ma’am for helping through all the process.
 ---
