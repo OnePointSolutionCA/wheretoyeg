@@ -47,6 +47,8 @@ Best for kids' birthdays or a legit workout you'll feel for three days.
 
 **[LaunchPad Trampoline Park](/activities-fun/launchpad-trampoline-park):** wall-to-wall trampolines, foam pits, dodgeball courts, toddler zones for the little ones.
 
+For younger kids who just need to climb and run, browse all the [indoor playgrounds in Edmonton](/activities-fun/indoor-playground).
+
 ## Axe throwing
 
 Coached in the first 10 minutes, so everyone in your group can actually hit the target by the second round.

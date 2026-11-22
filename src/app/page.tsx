@@ -110,6 +110,8 @@ export default function HomePage() {
   const seasonalPost = Date.now() > Date.parse("2026-12-07T07:00:00Z") || [leadPost, ...morePosts.slice(0, 2)].some((p) => p?.slug === "christmas-markets-edmonton-2026")
     ? undefined
     : allPosts.find((p) => p.slug === "christmas-markets-edmonton-2026");
+  // Winter link to the skating category, kept on the homepage through the outdoor rink season.
+  const showSkating = Date.now() < Date.parse("2027-03-16T06:00:00Z");
 
   const halal = allBusinesses.filter((b) => b.amenities?.includes("Halal"));
   const halalByCat = ["restaurants", "grocery-markets", "catering", "bakeries", "cafes-coffee-shops"]
@@ -284,6 +286,14 @@ export default function HomePage() {
                         <Link href={`/blog/${seasonalPost.slug}`} className="group flex items-start gap-2 text-sm font-semibold leading-snug text-teal hover:text-coral">
                           <span aria-hidden className="mt-0.5 text-coral">→</span>
                           Christmas markets in Edmonton 2026
+                        </Link>
+                      </li>
+                    )}
+                    {showSkating && (
+                      <li>
+                        <Link href="/activities-fun/skating" className="group flex items-start gap-2 text-sm font-semibold leading-snug text-teal hover:text-coral">
+                          <span aria-hidden className="mt-0.5 text-coral">→</span>
+                          Skating in Edmonton
                         </Link>
                       </li>
                     )}
