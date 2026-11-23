@@ -6,7 +6,7 @@
 
 import { edmontonDay } from "./daily";
 
-export type AdvertiserId = "onepoint" | "fixauto" | "oxford" | "hearing" | "flowers" | "sanctuary" | "beaumaris" | "ironforce" | "dentclinic";
+export type AdvertiserId = "onepoint" | "fixauto" | "oxford" | "hearing" | "flowers" | "sanctuary" | "beaumaris" | "dentclinic";
 
 export type Advertiser = {
   id: AdvertiserId;
@@ -145,22 +145,6 @@ const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
     listings: ["beaumaris-health-centre"],
     searchTerms: "chiropractor chiropractic chiro physiotherapy physio massage therapy acupuncture whiplash wcb",
   },
-  ironforce: {
-    id: "ironforce",
-    name: "Iron Force Labour",
-    logoSrc: "/logos/iron-force-labour-sm.webp",
-    logoSize: [440, 147],
-    logoAlt: "Iron Force Labour",
-    logoHeightPx: 40,
-    photo: { src: "/ads/ironforce.webp", alt: "Two labourers digging a trench on an Edmonton job site" },
-    kicker: "Construction staffing in Edmonton",
-    line: "Same day general labour and skilled trades in 1 to 3 days.",
-    cta: { label: "Request workers", href: "https://ironforcelabour.com/contact" },
-    color: "#12110D",
-    tint: "#FFF8DD",
-    listings: ["iron-force-labour"],
-    searchTerms: "staffing agency labour labor construction labourers workers temp agency trades crew",
-  },
   dentclinic: {
     id: "dentclinic",
     name: "Dent Clinic Sherwood Park",
@@ -197,7 +181,6 @@ export const HOMEPAGE_SPONSOR_LISTINGS: string[] = [
   "flowers-yeg",
   "secret-sanctuary-retreat",
   "beaumaris-health-centre",
-  "iron-force-labour",
   "dent-clinic-sherwood-park",
 ];
 
@@ -220,7 +203,7 @@ export const AD_PLACEMENTS = [
 export type AdPlacement = (typeof AD_PLACEMENTS)[number];
 
 /** Every sponsor, in rotation order. */
-export const ROTATION: AdvertiserId[] = ["onepoint", "fixauto", "oxford", "hearing", "flowers", "sanctuary", "beaumaris", "ironforce", "dentclinic"];
+export const ROTATION: AdvertiserId[] = ["onepoint", "fixauto", "oxford", "hearing", "flowers", "sanctuary", "beaumaris", "dentclinic"];
 
 export function advertiser(id: AdvertiserId): Advertiser {
   return ADVERTISERS[id];
@@ -239,7 +222,7 @@ export function adHref(href: string, id: AdvertiserId, placement: string, medium
 /**
  * Pick which sponsor fits the current page.
  *   - A strong match wins: dents and hail → Dent Clinic, other auto repair → Fix Auto or Dent Clinic,
- *     chiro / physio / massage → Oxford or Beaumaris, staffing and labour → Iron Force,
+ *     chiro / physio / massage → Oxford or Beaumaris,
  *     hearing → Medicine Place Hearing, florists → Flowers YEG, glamping and retreats → Secret Sanctuary.
  *   - Every other page gets an even spread of all sponsors, reshuffled each day
  *     (the site rebuilds daily), so each sponsor shows across the whole site.
@@ -276,7 +259,6 @@ export function relevantAdvertiser(ctx: { category?: string; subcategory?: strin
   if (ctx.category === "auto-repair" || /\b(auto|collision|body-shops?|tires?|mechanic)\b/.test(text)) {
     return half("fixauto", "dentclinic");
   }
-  if (/\b(staffing|labour|labor|labourers?|construction-staffing|temp-agency)\b/.test(text)) return "ironforce";
   if (/\b(hearing|hearing-care|hearing-aids?|audiolog\w*|tinnitus)\b/.test(text)) return "hearing";
   if (/\b(florists?|flowers?|bouquets?|wedding-flowers)\b/.test(text)) return "flowers";
   if (/\b(glamping|camping|campgrounds?|retreats?|cabins?)\b/.test(text)) return "sanctuary";

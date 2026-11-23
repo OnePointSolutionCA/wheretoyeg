@@ -32,6 +32,5 @@ subcategories:
   - { name: "Clothing & Gifts", slug: "clothing-gifts" }
   - { name: "Taxis & Airport Rides", slug: "taxi" }
   - { name: "Property Management", slug: "property-management" }
-  - { name: "Staffing Agencies", slug: "staffing" }
 ---
 From a notary for a quick signature to an accountant at tax time, find local professionals here. Compare Edmonton law offices, accountants, immigration consultants, realtors, mortgage brokers and more by Google rating and review count.

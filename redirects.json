@@ -2193,5 +2193,15 @@
     "source": "/hair-salons/the-collective-by-beautyboss",
     "destination": "/hair-salons/cuts-styling",
     "permanent": true
+  },
+  {
+    "source": "/professional-services/iron-force-labour",
+    "destination": "/professional-services",
+    "permanent": true
+  },
+  {
+    "source": "/professional-services/staffing",
+    "destination": "/professional-services",
+    "permanent": true
   }
 ]

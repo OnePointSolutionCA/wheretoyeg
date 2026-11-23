@@ -37,6 +37,6 @@ amenities:
   - "Edmonton and Western Canada"
 tags: ["edmonton", "staffing", "construction labour", "labour agency", "construction staffing"]
 featured: true
-active: true
+active: false
 date_listed: "2026-11-23"
 ---
