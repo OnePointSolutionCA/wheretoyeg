@@ -21,12 +21,12 @@ export async function POST(req: Request) {
     for (const it of items) {
       if (!Array.isArray(it) || it.length !== 2) continue;
       const [s, p] = it;
-      if (typeof s === "string" && typeof p === "string" && SPONSORS.has(s) && PLACES.has(p)) pairs.add(`${s}.${p}`);
+      if (typeof s === "string" && typeof p === "string" && SPONSORS.has(s) && PLACES.has(p)) pairs.add(`${s}_${p}`);
     }
     if (!type || !pairs.size) return new NextResponse(null, { status: 204 });
     if (type === "click" && pairs.size > 1) return new NextResponse(null, { status: 204 });
     if (!process.env.BLOB_READ_WRITE_TOKEN) return new NextResponse(null, { status: 204 });
-    const name = `${AD_PREFIX}${edmontonDate()}/${type}/${[...pairs].sort().join("~")}/e`;
+    const name = `${AD_PREFIX}${edmontonDate()}/${type}/${[...pairs].sort().join("~")}/e.txt`;
     await put(name, "1", { access: "private", addRandomSuffix: true, contentType: "text/plain" });
     return new NextResponse(null, { status: 204 });
   } catch (err) {

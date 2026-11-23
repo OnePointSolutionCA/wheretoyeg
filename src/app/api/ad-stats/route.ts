@@ -2,6 +2,10 @@ import { NextResponse } from "next/server";
 import { timingSafeEqual } from "node:crypto";
 import { list } from "@vercel/blob";
 import { AD_PREFIX, edmontonDate } from "@/lib/adStore";
+import { AD_PLACEMENTS, ROTATION } from "@/lib/advertisers";
+
+const SPONSORS = new Set<string>(ROTATION);
+const PLACES = new Set<string>(AD_PLACEMENTS);
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -60,10 +64,11 @@ export async function GET(req: Request) {
         const type = parts[2] === "click" ? "clicks" : parts[2] === "view" ? "views" : null;
         if (!type || !parts[3]) continue;
         for (const pair of parts[3].split("~")) {
-          const dot = pair.indexOf(".");
-          if (dot < 1) continue;
-          const sponsor = pair.slice(0, dot);
-          const placement = pair.slice(dot + 1);
+          const cut = pair.indexOf("_");
+          if (cut < 1) continue;
+          const sponsor = pair.slice(0, cut);
+          const placement = pair.slice(cut + 1);
+          if (!SPONSORS.has(sponsor) || !PLACES.has(placement)) continue;
           (totals[sponsor] ??= zero())[type]++;
           ((bySponsorPlacement[sponsor] ??= {})[placement] ??= zero())[type]++;
           ((byDay[d] ??= {})[sponsor] ??= zero())[type]++;
