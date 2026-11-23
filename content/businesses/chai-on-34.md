@@ -24,7 +24,7 @@ photos:
   - "/photos/chai-on-34-g1.jpg"
   - "/photos/chai-on-34-g2.jpg"
 rating: 4.7
-review_count: 381
+review_count: 392
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -35,14 +35,8 @@ tags: ["edmonton", "specialty"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Amandeep S Cheema"
-    rating: 4
-    date: "2026-04-07"
-    comment: |
-      I had a great experience at Chai on 34. The chai was rich, aromatic, and clearly made with care definitely one of the best I’ve had in the city. The food was fresh and flavorful, complementing the drinks really well. The atmosphere is cozy and welcoming, making it a perfect spot to relax and catch up with friends. Service was friendly and attentive, which added to the overall positive experience. Highly recommend this place for anyone who enjoys good chai and a comfortable vibe.
   - name: "Jasnoor Singh Kohli"
     rating: 5
-    date: "2026-06-01"
     comment: |
       Today I visited Chai on 34, and I was genuinely impressed! The food was absolutely delicious—every bite tasted like heaven. Everything was fresh, flavorful, and cooked perfectly.
       
@@ -51,19 +45,20 @@ reviews:
       A special shoutout to Sharan, who was incredibly helpful in suggesting menu items and made the whole experience even better. Her customer service was outstanding, friendly, and attentive throughout our visit.
       
       Highly recommended, and I’ll definitely be coming back!
+  - name: "Amandeep S Cheema"
+    rating: 4
+    comment: |
+      I had a great experience at Chai on 34. The chai was rich, aromatic, and clearly made with care definitely one of the best I’ve had in the city. The food was fresh and flavorful, complementing the drinks really well. The atmosphere is cozy and welcoming, making it a perfect spot to relax and catch up with friends. Service was friendly and attentive, which added to the overall positive experience. Highly recommend this place for anyone who enjoys good chai and a comfortable vibe.
   - name: "Daman Mann"
     rating: 5
-    date: "2026-03-31"
     comment: |
       Came here specifically for the 'Vyaah waali Coffee' after seeing the reviews, and it was exactly the nostalgic, authentic taste I was craving! The environment is really cool and cozy, and the service is incredibly friendly. We tried both the coffee and the adrak chai, and both were amazing. This is definitely a spot I’ll be recommending and returning to.
   - name: "Aman Grover"
     rating: 5
-    date: "2026-08-19"
     comment: |
       Overall, a really good café-style experience with tasty food, nice presentation, and a great combination of sweet and savory items. Perfect spot for a relaxed brunch or casual hangout. Would definitely visit again☺️
-  - name: "Kuldev singh Virk"
+  - name: "Pawan Sidhu"
     rating: 5
-    date: "2026-06-22"
     comment: |
-      Service given by sharan and Jasmeen really great and Had a wonderful experience! The Paneer Tikka Sandwich was fresh, flavorful, and perfectly grilled. The Vanilla Latte was smooth, creamy, and had just the right sweetness. the Royal Rasmalai Falooda—rich, refreshing, and beautifully presented. Everything tasted fresh, and the service was friendly and welcoming. We will definitely be coming back and highly recommend this place to anyone looking for delicious food and desserts!
+      We had a wonderful experience at Chai on 34! The food was delicious, and the service was excellent. A special thanks to Kiran for being so welcoming, friendly, and attentive throughout our visit. She made sure everything was perfect and made our experience even more enjoyable. Great food, amazing service, and a lovely atmosphere. Highly recommend! 😊
 ---

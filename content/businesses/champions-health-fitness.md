@@ -24,26 +24,31 @@ photos:
   - "/photos/champions-health-fitness-g1.jpg"
   - "/photos/champions-health-fitness-g2.jpg"
 rating: 4.6
-review_count: 114
+review_count: 115
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "gyms"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Dana Ball"
+  - name: "G. L."
     rating: 5
-    date: "2026-05-23"
     comment: |
-      Great gym. Everyone is friendly. It’s quiet and clean.
-  - name: "Braela Pearce"
+      Excellent gym! Staff are very friendly and helpful. Good selection of equipment for every level. Appreciate the cleanliness! I have been going here for almost 3 years.
+  - name: "Braela Brown"
     rating: 5
-    date: "2025-10-18"
     comment: |
       Best gym in town by a landslide! Great vibes and friendly staff, the equipment selection is awesome and is well taken care of. Gym always feels clean and maintained (which is hard to find in a 24 hour gym that is only staffed a portion of the day).
+  - name: "RJ T"
+    rating: 1
+    comment: |
+      If you like a place that feels like a hospital or library and has workers that spy on you creepily.  Here is your gym.
+  - name: "Dana Ball"
+    rating: 5
+    comment: |
+      Great gym. Everyone is friendly. It’s quiet and clean.
   - name: "Biala Bailas"
     rating: 5
-    date: "2023-02-24"
     comment: |
       This gym has become a second home for me, my brother, and my significant other. The staff is incredibly friendly and truly care about all of their members. Even if you don’t pay for a personal training session, the employees are well versed in fitness and nutrition and they are always happy to give you tips on your journey. The facility is always spotless and the equipment is top grade. This gym has literally everything you could possibly need to meet your physical goals. It’s a relatively small gym, but everything perfectly spread out and there is plenty of options when the gym is busy. Champion Gym made a beautiful community based decision when they agreed to hold a safe space for a children’s hockey team Wednesday evenings (about an hour where the kids stay in the open cardio section, away from the weight and machines ) . It is heart warming to see young people learn how to properly workout and interact with other gym members. Paving the way for this generation to achieve healthy, and safe gym goals in the future.
       
@@ -54,9 +59,4 @@ reviews:
       Dumbbell weight go up to 125lbs, and there are MANY benches to use.
       
       All in all, such a positive place to start or continue your gym journey!
-  - name: "Stampaholic Mama"
-    rating: 5
-    date: "2023-02-22"
-    comment: |
-      I joined this gym right when it opened up.  I have to say this is the largest, cleanest gym we have in the area.  The staff are extremely friendly and always upbeat.  The equipment is all new and they recently expanded to include group fitness.  If you're looking for a bright, clean, and welcoming gym - this one has it all!  Good work!  I'll never switch!
 ---

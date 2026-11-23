@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/chappelle-kitchen-catering-1.jpg", "/photos/chappelle-kitchen-catering-2.jpg", "/photos/chappelle-kitchen-catering-3.jpg"]
 rating: 4.9
-review_count: 261
+review_count: 264
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,10 @@ tags: ["edmonton", "wedding-catering"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "bill ted"
+    rating: 5
+    comment: |
+      We recently had Chappelle Kitchen cater our wedding, and everything was absolutely perfect. The food was delicious, beautifully presented, and the service was amazing. Everything was handled so smoothly, and our guests loved the food. We couldn’t have asked for a better catering experience. Highly recommend Chappelle Kitchen for any special occasion!
   - name: "R A"
     rating: 5
     comment: |
@@ -38,16 +42,16 @@ reviews:
     comment: |
       Loved Chappelle Kitchen Catering! Authentic Middle Eastern & Mediterranean food—fresh, flavorful, and delicious. Chef Aya is so friendly and wonderful to deal with. Highly recommend!
       Absolutely 5 stars ⭐⭐⭐⭐⭐
-  - name: "Mehzabin Zakaria"
+  - name: "Sarah Malik"
     rating: 5
     comment: |
-      Phénoménal catering service! I was very pleased with all the food items. Each dish looked very presentable and was incredibly delicious! This was my first time trying, and it was such a wonderful experience. You can feel all the love that was put into making each dish. I wholeheartedly recommend this catering service!
-  - name: "Hydration Water center"
+      Aya catered my daughter’s Nikkah, and from the moment we first met, she treated us like family. She took the time to listen to our needs and made the right recommendations throughout the entire process.
+      
+      We were so pleased with everything, from the initial tasting to the food prepared for the wedding. Aya and her team did a phenomenal job! The food was delicious, and all of our guests thoroughly enjoyed the meal and had wonderful things to say.
+      
+      Thank you, Aya, for being part of such a special day for our family. It was an absolute pleasure having you as our caterer, and we truly appreciate everything you and your team did!
+  - name: "Gary Oligny"
     rating: 5
     comment: |
-      ​As a Jamaican living out here in Canada, finding a meal that really hits the soul means everything. I want to send a huge thank you to Chappelle Kitchen Catering for such a wonderful experience. The hearty welcome made me feel right at home, and the staff was incredibly professional. But honestly... the food, the food, the food! It was exceptionally delicious 🤤. Thank you so much for the amazing meal and the warm vibes. Highly recommend!
-  - name: "Cathy Hodgson"
-    rating: 5
-    comment: |
-      We can't say enough good things about Aya's catering company! From a vast array of international cuisine to generous portions of the highest quality to personalized custom service, Chappelle Kitchen Catering does it best. When hiring Chappelle for an event, we were working in a complex venue, and when we had to change locations and adapt due to weather conditions, Aya and her staff adjusted without skipping a beat, smiling all the while. For such world-class dining, the value cannot be overstated. Our guests raved for weeks about the delicious food. In every aspect of putting on the event, we felt seen and supported. From the delightful first meeting to her warm interactions with our guests, Aya made us feel like family. We highly recommend Chappelle Kitchen Catering!
+      We had some very yummy food tonight at Ignite market. So good we came back for seconds! Thank you for the extra free sample of your fish, it was really tasty. Also glad we asked for the homemade hot sauce.
 ---

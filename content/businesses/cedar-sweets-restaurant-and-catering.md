@@ -19,8 +19,8 @@ hours:
   saturday: "8:00 AM–10:00 PM"
   sunday: "8:00 AM–9:00 PM"
 photos: ["/photos/cedar-sweets-restaurant-and-catering-1.jpg", "/photos/cedar-sweets-restaurant-and-catering-2.jpg", "/photos/cedar-sweets-restaurant-and-catering-3.jpg"]
-rating: 4.6
-review_count: 480
+rating: 4.7
+review_count: 530
 price_range: "$"
 amenities:
   - "Halal"
@@ -28,27 +28,34 @@ tags: ["edmonton", "middle-eastern-catering", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Xyrex Reyes"
+    rating: 5
+    comment: |
+      Salam! 😀THE BEST Arabic food, sweets, ambiance i experienced ✨🙏
+      Donia & Mariam are the best & friendly staff 💕 ever!
+      I love & recommend this restaurant, EVERY FOOD is DELICIOUS 😋 i 💕 love their coffee ☕ too!⭐⭐⭐⭐⭐⭐(6⭐!)👍💯
+      Mabrook! Sahten!
+      I eat again here with my family 🎉🥰
+  - name: "C Roaquin"
+    rating: 5
+    comment: |
+      Went for some after dinner sweets. Was not really familiar with the offerings but decided to try a sample of treats. Everything was delicious and the rose water syrup was subtle and a nice dip. Will return when we are in the neighborhood again.
   - name: "Alex Bernier"
     rating: 5
     comment: |
       Friends of ours recommended this place to us. Man, it didn't disappoint! We started with the Kebbe - spectacular! I ordered the Beef Shawarma and my wife had the Trio. The portions are huge and the taste was delicious! Price is very fair based on what you get and how it tastes. This will be my go to for Shawarma and baked goods.
       
       If you made it to here, what are you waiting for? Get going!
-  - name: "C Roaquin"
+  - name: "Sabah HILAL"
     rating: 5
     comment: |
-      Went for some after dinner sweets. Was not really familiar with the offerings but decided to try a sample of treats. Everything was delicious and the rose water syrup was subtle and a nice dip. Will return when we are in the neighborhood again.
-  - name: "Crystal Albuquerque"
+      Amazing food and excellent service! Cedar Sweet Restaurant & Catering has a great selection of delicious Lebanese and Middle Eastern dishes. Everything was fresh, flavorful, and beautifully prepared.
+      
+      The staff were very friendly and welcoming, and the service was excellent. The catering was also organized professionally and the food was presented beautifully.
+      
+      Highly recommended if you’re looking for authentic Lebanese food, generous portions, and great customer service in Edmonton. I’ll definitely be coming back! 🇱🇧
+  - name: "Osman Jelani maalin"
     rating: 5
     comment: |
-      Food was so good that we forgot to take pictures for the review! Very well served, tasty, and everything single item was just perfect. Big shoutout to the kibe and babaganoush! We even got some delicious potatoes for free. Thank you very much for the amazing food and great service!
-  - name: "Gunner"
-    rating: 1
-    comment: |
-      Went here for breakfast during the week at their opening time of 8am.  Service was terrible the whole time. Coffee tasted like muddy water and was served cold. Food took a long time and was cold. The only thing I liked on the breakfast platter was the dessert item, the rest was not good.
-  - name: "Meg Aoun"
-    rating: 5
-    comment: |
-      I havnt eaten proper Lebanese authentic food in a while!  I cant believe  how tasty and fresh the food was! They actually read the notes in the notes section in the delivery app! , Portions are huge! And we got some delicious free sweets.
-      Will for sure reorder again !! Sorry no photos was busy eating!!
+      Today I went to cedar sweets they have special food on Friday it call mansaf and sweets it's delicious and tasty. 10/10 for the restaurant and the service don't miss the chance come and try
 ---

@@ -18,7 +18,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/century-dental-edmonton-1.jpg"]
 rating: 4.8
-review_count: 25
+review_count: 26
 price_range: "$$"
 amenities:
   - "Direct Billing"
@@ -47,8 +47,10 @@ reviews:
     comment: |
       Dr Kim is professional and like all the good ones he is personable, caring and attentive to details.  He took the time with me today to make sure I really understood and told me my options.
       I would highly recommend him to anyone. And will tell my kids and associates about him.
-  - name: "Judy Kim"
+  - name: "Eric Liu"
     rating: 5
     comment: |
-      The team at this clinic is always friendly, caring and highly professional! I have a great experience every time I visit, and I truly appreciate the excellent care they provide. Thank you everyone!
+      I had my teeth cleaned today. This is my third time visiting Dr.Kim. I always had super sensitive gum; I would always feel intense pain drinking ice water. I didn't know gum health can be restored until I start visiting Dr.Kim's office. I had only two visit over the  course of 2 years, and with nightly flossing. I no longer get the sharp pain.
+      
+      Special thanks to Francine today for being extremely gentle and communicative. She kept providing tips on maintaining healthy gums while she does scaling. Not even once I felt any pain due to her expertise and kindness. I felt completely safe when she was looking after my teeth. She was very welcoming and warm.
 ---

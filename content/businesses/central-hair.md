@@ -6,7 +6,7 @@ subcategory: "cuts-styling"
 neighborhood: "Spruce Grove"
 address: "250 King St #3, Spruce Grove, AB T7X 2C6"
 rating: 4.6
-review_count: 128
+review_count: 129
 tier: "featured"
 phone: "(780) 962-4142"
 website: "https://www.vagaro.com/centralhair"
@@ -25,15 +25,15 @@ reviews:
     rating: 5
     comment: |
       Meadow is a wonderful stylist, and does great with my curly hair!
-  - name: "Shelby Baker"
-    rating: 5
-    comment: |
-      I booked an appointment for an asymmetric pixie cut from a shoulder length cut. They did a fantastic job! Very professional and knowledgeable staff.
   - name: "Tatiana Muratov"
     rating: 5
     comment: |
       I had my hair done by Melanie.
       Melanie is very professional,  punctual, and absolutely knows her job. I had a great experience at Central Hair. The prices are very reasonable especially compare to Ontario. I will highly recommend this hair salon. Thank you Melanie,  thank you to everyone who works there.
+  - name: "Nia Blanchette"
+    rating: 5
+    comment: |
+      I’ve been seeing Kelly at Central Hair for over a year and would not go anywhere else. The stylists at Central Hair are beyond experienced and know what they are doing regardless of service. Kelly is amazing with lightening as I recently had my hair done from brown to grey. I’ve never been able to keep the color so vibrant before. Incredible at product suggestions as well to keep the color amazing. If you’re looking for a great cut/color you won’t be disappointed in booking with Kelly!♥️
 hours:
   monday: "Closed"
   tuesday: "10:00 AM–6:00 PM"

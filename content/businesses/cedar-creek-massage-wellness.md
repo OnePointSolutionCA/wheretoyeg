@@ -13,18 +13,18 @@ google_maps_url: "https://maps.google.com/?cid=10083918227048001758&g_mp=Cidnb29
 latitude: 53.564617
 longitude: -113.300030
 hours:
-  monday: "8:00 AM–9:00 PM"
-  tuesday: "8:00 AM–9:00 PM"
-  wednesday: "8:00 AM–9:00 PM"
-  thursday: "8:00 AM–9:00 PM"
-  friday: "8:00 AM–9:00 PM"
-  saturday: "8:00 AM–9:00 PM"
-  sunday: "8:00 AM–9:00 PM"
+  monday: "9:00 AM–9:00 PM"
+  tuesday: "9:00 AM–9:00 PM"
+  wednesday: "9:00 AM–9:00 PM"
+  thursday: "9:00 AM–9:00 PM"
+  friday: "9:00 AM–9:00 PM"
+  saturday: "9:00 AM–9:00 PM"
+  sunday: "9:00 AM–9:00 PM"
 photos:
   - "/photos/cedar-creek-massage-wellness-g1.jpg"
   - "/photos/cedar-creek-massage-wellness-g2.jpg"
 rating: 4.8
-review_count: 74
+review_count: 87
 amenities:
   - "Family Friendly"
   - "Wheelchair Accessible"
@@ -32,40 +32,34 @@ tags: ["edmonton", "day-spas"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Melanie Carter"
+    rating: 5
+    comment: |
+      EXCELLENT service, from the 1st call to walking out the door. The aesthetic is amazing, I didn’t get her name but I’m assuming she is the owner/manger put so much love and thought into this spa. The theme rooms are so cute. Makes me want to try them all. (I had the moon room today)
+      Everyone was so welcoming and helpful. As much as I don’t want to boost my masseuse cause I don’t want you all booking him up on me… Phoenix was amazing. AMAZING pressure, kind, and professional Definitely my new favourite place to go.
   - name: "Lisa Mandel"
     rating: 5
-    date: "2026-07-15"
     comment: |
       10 stars 🌟
       Such a Beautiful spa, relaxing environment. I love the theme rooms. I had a facial today there medical esthetician Gabrielle, she is wonderful, knowledgeable and skilled. I highly recommend her.  I am  grateful that I found this awesome spa.
-  - name: "Kelly"
+  - name: "Robyn Graham"
     rating: 5
-    date: "2026-06-30"
     comment: |
-      I always have an amazing experience at this spa. From the moment I arrive, I feel welcomed and relaxed. The atmosphere was peaceful, the service was excellent, and the attention to detail was wonderful. I left feeling refreshed, relaxed, and completely taken care of. I would highly recommend this spa to anyone looking for a little self-care and a truly relaxing experience. I can’t wait to return!
-  - name: "Anna C"
+      Our team recently had the pleasure of visiting Cedar Creek Massage & Wellness, and the experience exceeded our expectations. From the very beginning, the staff were incredibly responsive and accommodating, making the booking process easy and working with us to create an experience that fit the team's needs.
+      
+      What truly stood out was the personalized care each member of our group received. The staff took the time to ensure everyone felt comfortable, welcomed, and cared for, creating a relaxing and memorable experience for all of us.
+      
+      The space itself is beautiful. We loved that each treatment room was uniquely decorated and thoughtfully designed, with so much attention to detail. Robyn gave every room its own charm, and it was clear that a great deal of effort has gone into creating a warm, peaceful, and inviting atmosphere.
+      
+      It was evident throughout our visit that the team at Cedar Creek Massage & Wellness is passionate about providing exceptional service. Their dedication, professionalism, and genuine care made our staff wellness day feel truly special. We are so grateful for the experience and would highly recommend Cedar Creek Massage & Wellness to anyone looking for a personalized and high-quality wellness experience.
+      
+      Thank you for making our team feel so valued and cared for! 💙
+  - name: "Jen Schroeder"
     rating: 5
-    date: "2026-08-19"
     comment: |
-      A genuinely beautiful and therapeutic experience on every possible level and through every stage. Quality and wellness interwoven! Remarkable staff that made this an absolute delight! Facial with Gabrielle & Massage with Danielle. Both so peaceful and rejuvenating! Both of these wonderful ladies embodied hospitality in practice.
-  - name: "Allison Mattson"
+      I love this clinic! From the minute you walk in you are always greeted with friendly service, the clinic itself is beautiful- there was clearly a lot of work put into the design of it all and it shows. Phoenix provides an excellent deep tissue massage and is great to converse with. 10/10!!
+  - name: "Toya Richards"
     rating: 5
-    date: "2026-06-03"
     comment: |
-      I don’t usually write reviews, but my experience here truly deserves to be shared.
-      
-      From the moment I walked in, I felt something different. Yes, I came in for a massage—and it was absolutely wonderful—but what stood out most was the people. Every single member of the team made me feel genuinely welcomed, safe, and cared for in a way that went far beyond a typical appointment.
-      
-      When I first arrived, I mentioned a personal concern that I had been carrying with me, and I honestly didn’t expect much more than polite acknowledgment. Instead, the entire team responded with kindness, empathy, and a level of attentiveness that I’m still so grateful for. It wasn’t just one person—it felt like everyone was quietly working together to create a supportive, comforting environment. I felt seen, heard, and respected in a way that is incredibly rare, especially among people I had just met.
-      
-      The massage itself (with Phoenix) was incredible—relaxing, thoughtful, and exactly what I needed—but it was the atmosphere that truly made this experience unforgettable. There was such a strong sense of intention behind everything they do. It’s clear this isn’t just a place that offers services—it’s a space where people can come to feel safe, cared for, and supported in their self-care journey.
-      
-      I left feeling lighter, calmer, and more grounded than I have in a long time. If you’re looking not just for a great treatment, but for a place where you’re genuinely cared about as a person, I can’t recommend this team enough.
-      
-      Thank you to everyone there for creating something so special. I will absolutely be back.
-  - name: "Alyssa Jaye"
-    rating: 5
-    date: "2026-07-11"
-    comment: |
-      I can’t recommend this place enough - I recently went and got a massage with Danielle and a hydrafacial with Robyn. Both were amazing! They go above and beyond and the prices are very reasonable.
+      Oh my, words cannot explain how beyond awesome Robyn and her team are! We had a staff outing at Cedar and it was absolutely amazing. The service, staff and ambiance were all equally spectacular. I would recommend! 10/10
 ---

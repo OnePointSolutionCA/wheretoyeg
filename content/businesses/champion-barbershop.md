@@ -24,7 +24,7 @@ photos:
   - "/photos/champion-barbershop-g1.jpg"
   - "/photos/champion-barbershop-g2.jpg"
 rating: 4.9
-review_count: 426
+review_count: 428
 price_range: "$$"
 amenities:
   - "Family Friendly"
@@ -35,28 +35,14 @@ date_listed: "2026-10-02"
 reviews:
   - name: "_mr_choice"
     rating: 5
-    date: "2026-08-11"
     comment: |
       Excellent service from start to finish! I had a great experience at Champion Barbershop. The barber was professional, welcoming, patient, and really paid attention to detail. You can tell he takes pride in his work and genuinely cares about making sure his clients are happy with the final result.
       
       The haircut came out exactly how I wanted it clean, sharp, and very well done. The atmosphere was also comfortable and friendly, which made the whole experience even better.
       
       Definitely one of the best barber experiences I’ve had. Great customer service, excellent skills, and very consistent quality. I highly recommend Champion Barbershop to anyone looking for a professional barber who knows what he’s doing. I’ll definitely be coming back! 10/10. ⭐️⭐️⭐️⭐️⭐️
-  - name: "Michael Abraham"
-    rating: 5
-    date: "2026-08-02"
-    comment: |
-      ⭐⭐⭐⭐⭐
-      
-      I’ve been getting my hair cut by Yafte (Japeth) and I couldn’t be happier. He’s professional, friendly, and always pays attention to every detail. The fades are clean, the lineups are sharp, and the haircut always turns out exactly how I want it. The shop is clean, welcoming, and the service is excellent. If you’re looking for a skilled barber who takes pride in his work, I highly recommend Yafte (Japeth) Definitely one of the best barbers around!
-  - name: "Dani Abate"
-    rating: 5
-    date: "2026-08-05"
-    comment: |
-      I've been going to Champion Barbershop for a while and they never disappoint Lafa always takes his time and pays attention to every detail. He's friendly professional and makes sure the haircut is exactly how I want it Great service every time. Highly recommend!
   - name: "The Guy"
     rating: 5
-    date: "2026-02-21"
     comment: |
       I’ve had my haircut with the  line up and fade, twist, cornrows in a variety of different styles, braided in any style you can think of.
       I Definitely give this Barber Shop a high rating for the High Quality service and professionalism every single Visit.
@@ -64,11 +50,18 @@ reviews:
       I Highly recommended this BarberShop For all Ages. 👍👍
       
       Thanks Champion.
-  - name: "Chris Chibs"
+  - name: "Clinton Guto"
     rating: 5
-    date: "2026-08-29"
+    comment: |
+      Fifi and Lafa gave an experience like no other; their professionalism and hospitality were exceptional, and the hairstyle came out fresh and clean. The price was reasonable and fair, and I would highly recommend them to anyone. I’ll be back in two months
+  - name: "Michael Abraham"
+    rating: 5
     comment: |
       ⭐⭐⭐⭐⭐
       
-      Been going to Dave for years and honestly, he’s the best! Always gives me a fresh cut, knows exactly what I like, and never disappoints. Great guy, great barber, and always good vibes. Wouldn’t go anywhere else. Highly recommend Dave! 💈🔥
+      I’ve been getting my hair cut by Yafte (Japeth) and I couldn’t be happier. He’s professional, friendly, and always pays attention to every detail. The fades are clean, the lineups are sharp, and the haircut always turns out exactly how I want it. The shop is clean, welcoming, and the service is excellent. If you’re looking for a skilled barber who takes pride in his work, I highly recommend Yafte (Japeth) Definitely one of the best barbers around!
+  - name: "Andriano"
+    rating: 5
+    comment: |
+      I just wanna say thanks for Solomon because  I always get a sharp, clean cut here. My barber pays attention to every detail and makes sure the fade is perfect every time. The shop is welcoming, the service is consistent, and I always leave feeling fresh. Highly recommend.
 ---

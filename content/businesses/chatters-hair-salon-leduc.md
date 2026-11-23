@@ -23,37 +23,33 @@ hours:
 photos:
   - "/photos/chatters-hair-salon-leduc-g1.jpg"
 rating: 4.3
-review_count: 94
+review_count: 98
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "cuts-styling"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Shannie Lyn"
+  - name: "Stephanie Thull"
     rating: 5
-    date: "2026-08-08"
     comment: |
-      My two daughters and I have had our haircuts this year at this location and hands down the best location and great staff. We’ve been to lots of places and always ended up with one of us getting a bad job but this place all three of us 10/10 great cuts. We’ve will be back.
+      I’ve been going to see Levi since March and I absolutely love her!! She always listens to my likes my dislikes and makes my hair beautiful regardless of what we do. She definitely understand when I want heavy layers and frames my face beautifully!! I wanted to get my natural colour to come through by also not give up the blonde in my hair and she CAME THROUGH!! I attached a couple photos of my hair and it has stayed looking STUNNING!! GO SEE LEVI!! She is THE BEST!!!
+  - name: "Jasmeen Kaur Randhawa"
+    rating: 5
+    comment: |
+      Levi is so sweet and friendly! She did an amazing job with my hair, and I absolutely love how it turned out. Such a lovely experience! 💕
+  - name: "Jordan.michele. Green"
+    rating: 5
+    comment: |
+      Hetal knows what she's doing! I had a bad haircut from another establishment and she saved me from looking silly before my wedding. Since then I've been a dedicated client.
+      
+      I can also confirm she styles the best bobs.
+  - name: "Pam Mohr"
+    rating: 5
+    comment: |
+      Hetal was excellent in advising how to keep my hair healthy and how to achieve the style I am working towards, she really listens to you. I was very happy with my cut.
   - name: "Rebecca Berrisford"
     rating: 5
-    date: "2026-03-03"
     comment: |
       I have seen Kendra twice now, for two more difficult requests. She has done an incredible job both times, and has left me feeling like a million bucks. Definitely my go to girl! ❤️
-  - name: "J"
-    rating: 5
-    date: "2026-03-27"
-    comment: |
-      After a seriously bad hair experience with another stylist that left my natural curls completely off, I was honestly nervous to trust anyone again 🙈 But LEVI IS AN ABSOLUTE GEM 💎 total game changer. From the start she really listened, not just to what I wanted, but to what my curls needed. No rushing, no guessing, just genuine care and understanding of my curly hair!
-      She brought my curls back to life, The cut actually works with my natural texture now!  shape, bounce, everything feels right again! Thanks Levi ❣️You have a client for life !
-  - name: "Serenity-Lyn McIntyre"
-    rating: 4
-    date: "2026-08-06"
-    comment: |
-      Did a great job on my dad's hair a little bit .... Jagged? On one side about to get mine done excited to get my wolf cut!
-  - name: "Katrina Cameron-Epp"
-    rating: 5
-    date: "2025-09-22"
-    comment: |
-      Walking into a new salon can always feel a little nerve-wracking, but from the moment I sat in Hetal’s chair I felt completely at ease. She is knowledgeable, attentive, and very talented in her craft. It's a science and she is professional. It’s clear why her name comes up so often alongside five-star reviews. Thank you for the beautiful fall refresh, Hetal.
 ---

@@ -18,43 +18,48 @@ hours:
   wednesday: "8:30 AM–8:00 PM"
   thursday: "8:30 AM–8:00 PM"
   friday: "8:30 AM–8:00 PM"
-  saturday: "8:30 AM–5:00 PM"
+  saturday: "Closed"
   sunday: "Closed"
 photos:
   - "/photos/chambers-plumbing-heating-ltd-g1.jpg"
   - "/photos/chambers-plumbing-heating-ltd-g2.jpg"
 rating: 4.9
-review_count: 102
+review_count: 106
 amenities: []
 tags: ["edmonton", "residential"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Ken Ginther"
+    rating: 5
+    comment: |
+      Not going to make a long story short...
+      My hot water tank went and instead of panicking and jumping on the quickest replacement I contacted several plumbers and compared both prices and tank quality. Chambers came through on both. Rebecca was pleasant to deal with setting up the job.
+      Brett & Hudson were on time and very efficient.  They literally rolled out the carpet (protector) from the top of the stairs to the furnace room in the basement. And they didn't seem to mind an old man watching over their shoulders and asking questions:)
+      I waited a month before posting this just because I don't give 5 stars easily.
+      But I'm very satisfied and would recommend them for hot water tank replacement. I do have a couple of other non-urgent plumbing issues I plan on contacting them to work on once the time is right.
+  - name: "Madelaine Goodlet"
+    rating: 5
+    comment: |
+      Had an urgent issue with a leaking hot water tank. Although they were booked solid, they made time not only to come out to assess the issue, but get the parts and return to install/repair the same day. Adam was kind, respectful and I could tell he knew what he was doing and cared about his work and the company. Love supporting a local business and very grateful for their prompt response. Highly recommend!
+  - name: "Sacha Mathieson"
+    rating: 5
+    comment: |
+      We had Chambers Plumbing & Heating come out to quote and complete some work at our house, and we couldn’t have been happier with the experience.
+      
+      The previous owner had done some pretty “creative” things over the years that unfortunately weren’t caught during our home inspection. The team at Chambers took the time to identify the issues, explain what needed to be corrected, and get everything brought back up to code so we could feel safe and comfortable in our home.
+      
+      They were knowledgeable, professional, easy to deal with, and gave us a lot of peace of mind. It’s refreshing dealing with a company you feel you can trust.
+      
+      Highly recommend Chambers Plumbing & Heating!
   - name: "Rob S"
     rating: 5
-    date: "2026-09-05"
     comment: |
       Polite, friendly and very professional. They removed our garburator as it was making the dishwasher back up into the sink. This was the final result...
       
       Top shelf service 10/10 recommend 👌
-  - name: "John Yuen"
+  - name: "Daryl Payne"
     rating: 5
-    date: "2026-05-13"
     comment: |
-      Thank you for the excellent service for replacing our 40 year-old outdoor faucet with delicate and professional handling of the restricted access to the switching valve - Also efficient, effective and economical. Highly recommended.
-  - name: "JPintero"
-    rating: 5
-    date: "2026-06-15"
-    comment: |
-      Thanks to Jonathan and Hudson for a great job. They arrived on time, were so nice, and did an excellent job replacing a faucet and toilet. They charged us the exact quote amount and I am really happy. I wish all my experiences with home repairs were as great!
-  - name: "Brandie Evans"
-    rating: 5
-    date: "2026-04-11"
-    comment: |
-      We were having an issue with our kitchen sink faucet, and I see so many people recommend Chambers on local FB groups so I decided to give them a shot. Upon calling, Tara was so patient listening to me try and explain the problem. She was so kind and helpful and booked us in for a consultation and quote within a day! When Brett came, he was very friendly and professional. He looked at the bigger picture and sent a quote the same day!  I can definitely see why Chambers comes so highly recommended in our community. We will definitely be calling them again for any future plumbing needs!
-  - name: "Tara Fulton"
-    rating: 5
-    date: "2026-06-25"
-    comment: |
-      Chambers Plumbing and Heating saved my sanity during a sewer backup and a flood. They made themselves available the same afternoon due to the urgency of the situation despite a regional flooding emergency. Excellent work and very reasonable pricing, especially on an emergency call. Will absolutely call on them again for my next plumbing needs.
+      Adam and Emma Lee  provided exceptional service. They went above and beyond and helped take care of my grandma's old ratty plumbing on her acreage. Will definitely be hiring them again in the future when we need a plumber!
 ---
