@@ -20,7 +20,7 @@ import { CATEGORY_PLURAL, fitTitle, metaDescription, nf, pageMeta } from "@/lib/
 import { FaqSection } from "@/components/FaqSection";
 import { RelatedGuides } from "@/components/RelatedGuides";
 import { OnePointAd } from "@/components/OnePointAd";
-import { pickAdvertiser } from "@/lib/advertisers";
+import { pickAdvertiser, relevantAdvertiser } from "@/lib/advertisers";
 import { categoryFaq } from "@/lib/faq";
 import { relatedPosts } from "@/lib/related";
 import { toListItem } from "@/lib/slim";
@@ -255,7 +255,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
 
       {/* Sponsored: OnePoint Solutions display ad */}
       <section className="container-page mt-12" data-reveal="up">
-        <OnePointAd placement="category-footer" variant="banner" advertiser={pickAdvertiser({ category: c.slug, slot: getCategories().findIndex((x) => x.slug === c.slug) })} />
+        <OnePointAd placement="category-footer" variant="banner" advertiser={pickAdvertiser({ category: c.slug, slot: getCategories().findIndex((x) => x.slug === c.slug) })} rotate={!relevantAdvertiser({ category: c.slug })} />
       </section>
 
       <section className="container-page mt-6" data-reveal="left">

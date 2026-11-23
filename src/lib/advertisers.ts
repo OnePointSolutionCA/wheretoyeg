@@ -6,7 +6,7 @@
 
 import { edmontonDay } from "./daily";
 
-export type AdvertiserId = "onepoint" | "fixauto" | "oxford" | "hearing" | "flowers" | "sanctuary";
+export type AdvertiserId = "onepoint" | "fixauto" | "oxford" | "hearing" | "flowers" | "sanctuary" | "beaumaris" | "ironforce" | "dentclinic";
 
 export type Advertiser = {
   id: AdvertiserId;
@@ -129,6 +129,54 @@ const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
     listings: ["secret-sanctuary-retreat"],
     searchTerms: "glamping camping campground campsite cabin cabins retreat retreats getaway",
   },
+  beaumaris: {
+    id: "beaumaris",
+    name: "Beaumaris Health Centre",
+    logoSrc: "/logos/beaumaris-health-centre-sm.webp",
+    logoSize: [440, 104],
+    logoAlt: "Beaumaris Health Centre",
+    logoHeightPx: 32,
+    photo: { src: "/ads/beaumaris.webp", alt: "Beaumaris Health Centre storefront on 127 Street in North Edmonton" },
+    kicker: "Chiro, physio and massage in North Edmonton",
+    line: "Chiro, physio and massage, plus care for work and car injuries.",
+    cta: { label: "Contact the clinic", href: "https://beaumarishealth.com/contact-us/" },
+    color: "#92278F",
+    tint: "#F8EFF8",
+    listings: ["beaumaris-health-centre"],
+    searchTerms: "chiropractor chiropractic chiro physiotherapy physio massage therapy acupuncture whiplash wcb",
+  },
+  ironforce: {
+    id: "ironforce",
+    name: "Iron Force Labour",
+    logoSrc: "/logos/iron-force-labour-sm.webp",
+    logoSize: [440, 147],
+    logoAlt: "Iron Force Labour",
+    logoHeightPx: 40,
+    photo: { src: "/ads/ironforce.webp", alt: "Two labourers digging a trench on an Edmonton job site" },
+    kicker: "Construction staffing in Edmonton",
+    line: "Same day general labour and skilled trades in 1 to 3 days.",
+    cta: { label: "Request workers", href: "https://ironforcelabour.com/contact" },
+    color: "#12110D",
+    tint: "#FFF8DD",
+    listings: ["iron-force-labour"],
+    searchTerms: "staffing agency labour labor construction labourers workers temp agency trades crew",
+  },
+  dentclinic: {
+    id: "dentclinic",
+    name: "Dent Clinic Sherwood Park",
+    logoSrc: "/logos/dent-clinic-sherwood-park-sm.webp",
+    logoSize: [440, 110],
+    logoAlt: "Dent Clinic",
+    logoHeightPx: 30,
+    photo: { src: "/ads/dentclinic.webp", alt: "Front desk and waiting area at Dent Clinic Sherwood Park" },
+    kicker: "Dent repair in Sherwood Park",
+    line: "Paintless dent and hail repair, with free estimates.",
+    cta: { label: "Get a free estimate", href: "https://www.dentclinic.com/service-locations/dent-repair-sherwood-park-and-edmonton-dent-clinic/" },
+    color: "#2F4698",
+    tint: "#EEF1FA",
+    listings: ["dent-clinic-sherwood-park"],
+    searchTerms: "dent repair dents paintless hail damage door ding ding",
+  },
 };
 
 /** Listing slug → that sponsor's search words, for every listing that has an ad. */
@@ -136,8 +184,43 @@ export const SPONSORED_LISTINGS: Map<string, string> = new Map(
   Object.values(ADVERTISERS).flatMap((a) => (a.listings ?? []).map((slug) => [slug, a.searchTerms ?? ""] as [string, string])),
 );
 
+/**
+ * One listing per sponsor for the homepage Featured row. The carousel shows these first
+ * and shuffles them on every page load, so each sponsor gets the first card in turn
+ * (Moe 2026-11-23: the homepage kept showing Oxford first).
+ */
+export const HOMEPAGE_SPONSOR_LISTINGS: string[] = [
+  "onepoint-solutions",
+  "fix-auto-sherwood-north",
+  "oxford-chiropractic-wellness",
+  "medicine-place-hearing-care-97-north",
+  "flowers-yeg",
+  "secret-sanctuary-retreat",
+  "beaumaris-health-centre",
+  "iron-force-labour",
+  "dent-clinic-sherwood-park",
+];
+
+/** Listing slug → sponsor id, for tracking clicks on sponsor listings (e.g. the homepage Featured row). */
+export const LISTING_SPONSOR: Map<string, AdvertiserId> = new Map(
+  Object.values(ADVERTISERS).flatMap((a) => (a.listings ?? []).map((slug) => [slug, a.id] as [string, AdvertiserId])),
+);
+
+/** Where an ad can show. Used for click and view counts per sponsor. */
+export const AD_PLACEMENTS = [
+  "home-strip",
+  "home-popup",
+  "featured",
+  "category-footer",
+  "business-sidebar",
+  "blog-sidebar",
+  "blog-footer",
+  "search-top",
+] as const;
+export type AdPlacement = (typeof AD_PLACEMENTS)[number];
+
 /** Every sponsor, in rotation order. */
-export const ROTATION: AdvertiserId[] = ["onepoint", "fixauto", "oxford", "hearing", "flowers", "sanctuary"];
+export const ROTATION: AdvertiserId[] = ["onepoint", "fixauto", "oxford", "hearing", "flowers", "sanctuary", "beaumaris", "ironforce", "dentclinic"];
 
 export function advertiser(id: AdvertiserId): Advertiser {
   return ADVERTISERS[id];
@@ -155,16 +238,45 @@ export function adHref(href: string, id: AdvertiserId, placement: string, medium
 
 /**
  * Pick which sponsor fits the current page.
- *   - A strong match wins: auto repair → Fix Auto, chiro / physio / massage → Oxford,
+ *   - A strong match wins: dents and hail → Dent Clinic, other auto repair → Fix Auto or Dent Clinic,
+ *     chiro / physio / massage → Oxford or Beaumaris, staffing and labour → Iron Force,
  *     hearing → Medicine Place Hearing, florists → Flowers YEG, glamping and retreats → Secret Sanctuary.
- *   - Every other page gets an even spread of all five, reshuffled each day
+ *   - Every other page gets an even spread of all sponsors, reshuffled each day
  *     (the site rebuilds daily), so each sponsor shows across the whole site.
  */
-export function pickAdvertiser(ctx: { category?: string; subcategory?: string; tags?: string[]; slot?: number }): AdvertiserId {
+export function pickAdvertiser(ctx: { category?: string; subcategory?: string; tags?: string[]; slot?: number; slug?: string }): AdvertiserId {
+  const match = relevantAdvertiser(ctx);
+  if (match) return match;
+  // Pages from a small fixed set (like the 20 category pages) pass their position, so the
+  // sponsors take turns in order instead of leaving it to the hash.
+  if (ctx.slot !== undefined) return rotateAdvertiser(ctx.slot + edmontonDay());
+  return rotateAdvertiser(ctxHash(ctx) + edmontonDay());
+}
+
+function ctxHash(ctx: { category?: string; subcategory?: string; tags?: string[] }): number {
+  const key = `${ctx.category ?? ""}|${ctx.subcategory ?? ""}|${(ctx.tags ?? []).join(",")}`;
+  let hash = 0;
+  for (let i = 0; i < key.length; i++) hash = (hash * 31 + key.charCodeAt(i)) | 0;
+  return hash;
+}
+
+/**
+ * The sponsor that clearly fits this page, or null when none does. Pages with no match
+ * get the next sponsor in turn for each visitor (see OnePointAd), so everyone is seen.
+ */
+export function relevantAdvertiser(ctx: { category?: string; subcategory?: string; tags?: string[]; slug?: string }): AdvertiserId | null {
+  // A sponsor's own listing always shows its own ad, never a competitor's.
+  const own = ctx.slug ? LISTING_SPONSOR.get(ctx.slug) : undefined;
+  if (own) return own;
   const text = `${ctx.category ?? ""} ${ctx.subcategory ?? ""} ${(ctx.tags ?? []).join(" ")}`.toLowerCase();
-  if (ctx.category === "auto-repair" || /\b(auto|collision|body-shops?|tires?|mechanic|paintless|dent)\b/.test(text)) {
-    return "fixauto";
+  const hash = ctxHash(ctx);
+  // Two sponsors in the same field share its pages: half the pages each, changing daily.
+  const half = (a: AdvertiserId, b: AdvertiserId) => (Math.abs(hash + edmontonDay()) % 2 === 0 ? a : b);
+  if (/\b(paintless|dents?|hail|door-dings?)\b/.test(text)) return "dentclinic";
+  if (ctx.category === "auto-repair" || /\b(auto|collision|body-shops?|tires?|mechanic)\b/.test(text)) {
+    return half("fixauto", "dentclinic");
   }
+  if (/\b(staffing|labour|labor|labourers?|construction-staffing|temp-agency)\b/.test(text)) return "ironforce";
   if (/\b(hearing|hearing-care|hearing-aids?|audiolog\w*|tinnitus)\b/.test(text)) return "hearing";
   if (/\b(florists?|flowers?|bouquets?|wedding-flowers)\b/.test(text)) return "flowers";
   if (/\b(glamping|camping|campgrounds?|retreats?|cabins?)\b/.test(text)) return "sanctuary";
@@ -173,16 +285,10 @@ export function pickAdvertiser(ctx: { category?: string; subcategory?: string; t
     (/\b(chiropractors?|physiotherap|massage-therapy|acupuncture|back-pain|neck-pain|sciatica|whiplash)\b/.test(text) ||
       /\bchiro\b/.test(text))
   ) {
-    return "oxford";
+    return half("oxford", "beaumaris");
   }
-  if (/\b(chiropract|physiotherapy|back pain|neck pain|whiplash|sciatica)\b/.test(text)) return "oxford";
-  // Pages from a small fixed set (like the 20 category pages) pass their position, so the
-  // sponsors take turns in order instead of leaving it to the hash.
-  if (ctx.slot !== undefined) return rotateAdvertiser(ctx.slot + edmontonDay());
-  const key = `${ctx.category ?? ""}|${ctx.subcategory ?? ""}|${(ctx.tags ?? []).join(",")}`;
-  let hash = 0;
-  for (let i = 0; i < key.length; i++) hash = (hash * 31 + key.charCodeAt(i)) | 0;
-  return rotateAdvertiser(hash + edmontonDay());
+  if (/\b(chiropract|physiotherapy|back pain|neck pain|whiplash|sciatica)\b/.test(text)) return half("oxford", "beaumaris");
+  return null;
 }
 
 /** Deterministic rotation across all sponsors. */

@@ -7,6 +7,7 @@ import { OnePointPopup } from "@/components/OnePointPopup";
 import { HeroVideo } from "@/components/HeroVideo";
 import { CategoryGrid } from "@/components/CategoryGrid";
 import { FeaturedCarousel } from "@/components/FeaturedCarousel";
+import { PartnersStrip } from "@/components/PartnersStrip";
 import { ReviewCarousel } from "@/components/ReviewCarousel";
 import { HomeIntro } from "@/components/HomeIntro";
 import { FaqSection, type FaqEntry } from "@/components/FaqSection";
@@ -19,6 +20,7 @@ import { SITE } from "@/lib/site";
 import { pageMeta } from "@/lib/seo";
 import { dailyShuffle } from "@/lib/daily";
 import { toCard } from "@/lib/slim";
+import { HOMEPAGE_SPONSOR_LISTINGS } from "@/lib/advertisers";
 import {
   getDiverseFeatured,
   getRecentReviews,
@@ -49,7 +51,15 @@ export function generateMetadata(): Metadata {
 }
 
 export default function HomePage() {
-  const featured = getDiverseFeatured(20);
+  // Premium listings first (all sponsors, then other premium; the carousel shuffles this block
+  // on each load so no one is stuck in front), then the daily mix of other spots.
+  const listed = getBusinesses();
+  const sponsors = HOMEPAGE_SPONSOR_LISTINGS
+    .map((slug) => listed.find((b) => b.slug === slug))
+    .filter((b): b is NonNullable<typeof b> => !!b);
+  const premium = [...sponsors, ...listed.filter((b) => b.tier === "premium" && !sponsors.includes(b))];
+  const premiumSlugs = new Set(premium.map((b) => b.slug));
+  const featured = [...premium, ...getDiverseFeatured(30).filter((b) => !premiumSlugs.has(b.slug))].slice(0, Math.max(20, premium.length + 6));
   const recent = getRecentReviews(8);
   // OnePoint's own listing carries its live Google rating (the daily refresh updates it).
   const onepoint = getBusinesses().find((b) => b.slug === "onepoint-solutions");
@@ -222,6 +232,8 @@ export default function HomePage() {
         </div>
       </section>
 
+      <PartnersStrip />
+
       {/* 02 THIS WEEK */}
       {leadPost && (
         <section className="container-page mt-24 sm:mt-32" data-reveal="up">
@@ -311,7 +323,7 @@ export default function HomePage() {
           <div className="container-page">
             <SectionHead index="03" kicker="Featured" title="Local spots" accent="worth the drive." intro="Hand-picked businesses from across the city, refreshed every week." />
             <div className="mt-10">
-              <FeaturedCarousel businesses={featured.map(toCard)} categoryNames={catBySlug} />
+              <FeaturedCarousel businesses={featured.map(toCard)} categoryNames={catBySlug} shuffleFirst={premium.length} />
             </div>
           </div>
         </section>

@@ -4,6 +4,7 @@ import Image from "next/image";
 import { useEffect, useMemo, useState } from "react";
 import type { Advertiser, AdvertiserId } from "@/lib/advertisers";
 import { ROTATION, adHref, advertiser } from "@/lib/advertisers";
+import { trackAdClick, trackAdView } from "@/lib/adTrack";
 
 const DELAY_MS = 4000;
 
@@ -17,9 +18,28 @@ export function OnePointPopup() {
   const ad = useMemo<Advertiser>(() => advertiser(adId), [adId]);
 
   useEffect(() => {
-    const t = setTimeout(() => setOpen(true), DELAY_MS);
-    return () => clearTimeout(t);
+    let io: IntersectionObserver | null = null;
+    const t = setTimeout(() => {
+      // On phones the popup would cover the Local partners strip: wait until it is off screen.
+      const strip = document.querySelector('section[aria-labelledby="partners-title"]');
+      if (!strip || window.innerWidth >= 640) return setOpen(true);
+      io = new IntersectionObserver((entries) => {
+        if (entries.every((e) => !e.isIntersecting)) {
+          io?.disconnect();
+          setOpen(true);
+        }
+      });
+      io.observe(strip);
+    }, DELAY_MS);
+    return () => {
+      clearTimeout(t);
+      io?.disconnect();
+    };
   }, []);
+
+  useEffect(() => {
+    if (open) trackAdView(ad.id, "home-popup");
+  }, [open, ad.id]);
 
   function dismiss() {
     setOpen(false);
@@ -77,7 +97,10 @@ export function OnePointPopup() {
             href={href}
             target="_blank"
             rel="sponsored noopener noreferrer"
-            onClick={dismiss}
+            onClick={() => {
+              trackAdClick(ad.id, "home-popup");
+              dismiss();
+            }}
             className="mt-4 inline-flex min-h-[46px] w-full items-center justify-center gap-2 rounded-full px-5 text-sm font-bold text-white shadow-sm transition hover:opacity-90"
             style={{ backgroundColor: ad.color }}
           >

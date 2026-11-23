@@ -1,8 +1,12 @@
-import Image from "next/image";
-import type { Advertiser, AdvertiserId } from "@/lib/advertisers";
-import { adHref, advertiser } from "@/lib/advertisers";
+"use client";
 
-type Placement = "category-footer" | "business-sidebar" | "blog-sidebar" | "blog-footer" | "search-top";
+import Image from "next/image";
+import { useEffect, useRef, useState } from "react";
+import type { AdPlacement, Advertiser, AdvertiserId } from "@/lib/advertisers";
+import { adHref, advertiser } from "@/lib/advertisers";
+import { nextSponsorInTurn, trackAdClick, trackAdView } from "@/lib/adTrack";
+
+type Placement = Exclude<AdPlacement, "home-strip" | "home-popup" | "featured">;
 type Variant = "banner" | "sidebar";
 
 /**
@@ -16,15 +20,50 @@ type Variant = "banner" | "sidebar";
 export function OnePointAd({
   placement,
   variant,
-  advertiser: id = "onepoint",
+  advertiser: serverId = "onepoint",
+  rotate = false,
 }: {
   placement: Placement;
   variant: Variant;
   advertiser?: AdvertiserId;
+  /** True when no sponsor clearly fits the page: each visitor then gets the next sponsor in turn. */
+  rotate?: boolean;
 }) {
+  const [id, setId] = useState<AdvertiserId>(serverId);
+  const [ready, setReady] = useState(!rotate);
+  const box = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (!rotate) return;
+    setId(nextSponsorInTurn());
+    setReady(true);
+  }, [rotate]);
+
+  useEffect(() => {
+    if (!ready || !box.current) return;
+    const el = box.current;
+    const io = new IntersectionObserver(
+      (entries) => {
+        if (entries.some((e) => e.isIntersecting)) {
+          trackAdView(id, placement);
+          io.disconnect();
+        }
+      },
+      { threshold: 0.5 },
+    );
+    io.observe(el);
+    return () => io.disconnect();
+  }, [ready, id, placement]);
+
   const ad = advertiser(id);
   const href = adHref(ad.cta.href, ad.id, placement);
-  return variant === "sidebar" ? <SidebarAd ad={ad} href={href} /> : <BannerAd ad={ad} href={href} />;
+  const onClick = () => trackAdClick(ad.id, placement);
+  return (
+    // Hidden (not removed) until the visitor's sponsor is chosen, so nothing jumps.
+    <div ref={box} style={{ opacity: ready ? 1 : 0, transition: "opacity 200ms" }}>
+      {variant === "sidebar" ? <SidebarAd ad={ad} href={href} onClick={onClick} /> : <BannerAd ad={ad} href={href} onClick={onClick} />}
+    </div>
+  );
 }
 
 function Logo({ ad, maxHeight }: { ad: Advertiser; maxHeight: number }) {
@@ -49,10 +88,11 @@ function Logo({ ad, maxHeight }: { ad: Advertiser; maxHeight: number }) {
   );
 }
 
-function Cta({ ad, href, className = "" }: { ad: Advertiser; href: string; className?: string }) {
+function Cta({ ad, href, onClick, className = "" }: { ad: Advertiser; href: string; onClick: () => void; className?: string }) {
   return (
     <a
       href={href}
+      onClick={onClick}
       target="_blank"
       rel="sponsored noopener noreferrer"
       className={
@@ -66,7 +106,7 @@ function Cta({ ad, href, className = "" }: { ad: Advertiser; href: string; class
   );
 }
 
-function BannerAd({ ad, href }: { ad: Advertiser; href: string }) {
+function BannerAd({ ad, href, onClick }: { ad: Advertiser; href: string; onClick: () => void }) {
   return (
     <aside
       aria-label={`Sponsored message from ${ad.name}`}
@@ -84,17 +124,17 @@ function BannerAd({ ad, href }: { ad: Advertiser; href: string }) {
           <p className="mt-5 text-xs font-bold uppercase tracking-[0.16em]" style={{ color: ad.color }}>
             {ad.kicker}
           </p>
-          <p className="mt-2 max-w-md font-display text-2xl font-extrabold leading-snug tracking-tight text-teal sm:text-[1.75rem]">
+          <p className="mt-2 min-h-[4.2rem] max-w-md font-display text-2xl font-extrabold leading-snug tracking-tight text-teal sm:min-h-[4.9rem] sm:text-[1.75rem]">
             {ad.line}
           </p>
-          <Cta ad={ad} href={href} className="mt-6 w-full sm:w-auto sm:self-start" />
+          <Cta ad={ad} href={href} onClick={onClick} className="mt-6 w-full sm:w-auto sm:self-start" />
         </div>
       </div>
     </aside>
   );
 }
 
-function SidebarAd({ ad, href }: { ad: Advertiser; href: string }) {
+function SidebarAd({ ad, href, onClick }: { ad: Advertiser; href: string; onClick: () => void }) {
   return (
     <aside
       aria-label={`Sponsored message from ${ad.name}`}
@@ -111,8 +151,8 @@ function SidebarAd({ ad, href }: { ad: Advertiser; href: string }) {
         <p className="mt-4 text-[11px] font-bold uppercase tracking-[0.14em]" style={{ color: ad.color }}>
           {ad.kicker}
         </p>
-        <p className="mt-1.5 font-display text-lg font-bold leading-snug text-teal">{ad.line}</p>
-        <Cta ad={ad} href={href} className="mt-5 w-full" />
+        <p className="mt-1.5 min-h-[3.1rem] font-display text-lg font-bold leading-snug text-teal">{ad.line}</p>
+        <Cta ad={ad} href={href} onClick={onClick} className="mt-5 w-full" />
       </div>
     </aside>
   );
