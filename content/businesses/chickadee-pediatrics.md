@@ -33,18 +33,25 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Chelsey"
     rating: 5
-    date: "2026-08-18"
     comment: |
       Clean, bright, modern and spacious facility with a friendly reception when you enter.  I was apprehensive about bringing the stroller in but ended up doing so and there was no need to worry.  The outdoor doors have a disability button to open the doors, the elevator fit us fine, and the examination room was so big there was no need for me to have worried. I did not have to wait long once in the room to see the doctor. Dr. Abobo was very pleasant to speak with and he treated my baby with a cheerful demeanour.  I’m glad to have found a facility I’m confident will provide excellent care to my child.
   - name: "Monique Hnatiuk"
     rating: 5
-    date: "2026-05-02"
     comment: |
       Incredible clinic. Dr Semeniuk has provided wonderful care for our kids over the last four years. Support team has always been very friendly and accommodating over the phone and during our visit. We feel very fortunate to have Chickadee pediatrics in its great location (lots of parking, clean/modern building, easy to navigate with stroller).
+  - name: "Gollums keeper"
+    rating: 1
+    comment: |
+      Dr. Semeniuk is good, but his receptionist, not so much. She is .....difficult. The office is supposed to be sending a referral for my child. She claims the doctor does it personally, but it's not getting to the right places, will not pass on messages or check into anything. Forces you to book an appointment, usually 2 months away for a question. Would not book my child for a broken wrist, sprained ankle, nor any other unplanned event the entire time she has worked there. It's like she's making an effort to be uncooperative.
   - name: "Spencer"
     rating: 5
-    date: "2023-11-28"
     comment: |
       Very clean and nice atmosphere.
       Lady at front desk is wonderful & answered all questions I had. The dermatologist was really knowledgeable & great service, will definitely recommend Chickadee to anyone with young & youth children. Bonus it’s decorated for Christmas which is really nice to see! Keep up the great work guys!
+  - name: "Armeen Khan"
+    rating: 5
+    comment: |
+      We were referred to Dr McConnell by our family dr for our son. The day before the appointment, I called the clinic to ask if they could see our newborn as well who was suffering from eczema. The receptionist immediately guided us to get a referral asap which we were able to do and Dr McConnell saw both kids the next day. The meds he prescribed have been doing wonders for our now 5 month old.
+      We also saw Dr Abobo recently for the 5 month old and he answered all questions patiently and in detail.
+      Very pleased with the overall experience.
 ---

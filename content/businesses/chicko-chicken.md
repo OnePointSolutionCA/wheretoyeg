@@ -24,7 +24,7 @@ photos:
   - "/photos/chicko-chicken-g1.jpg"
   - "/photos/chicko-chicken-g2.jpg"
 rating: 4.5
-review_count: 306
+review_count: 311
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -34,19 +34,27 @@ tags: ["edmonton", "fried-chicken"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Jane"
-    rating: 4
-    date: "2026-04-10"
+  - name: "S. Haggerty"
+    rating: 5
     comment: |
-      I bought spicy seasoning, fried chicken, and french fries as a side dish, and I tried eating them right away with honey butter powder on the spot, and it was delicious. And I tried eating chicken at home. The seasoned chicken was delicious
+      I had never tried Korean food before and was a little nervous to try something new, so I am beyond glad I took the leap at this amazing new gem in Castledowns! I picked up an order of the boneless original seasoned chicken, three flavours of cheese balls, and the shake fries with honey garlic seasoning.
+      You can really tell they cook their chicken fresh and never frozen—it was so moist, crispy, and mouth-watering. Honestly, the chicken balls here are the best I have ever tried. Nothing else even comes close; they are in a league of their own and no other recipe will ever compare. Everything was delicious, and I will definitely be coming back!
+  - name: "Klimentgame Lo"
+    rating: 5
+    comment: |
+      Amazing place to eat! Pricing is fair, portions are good, and flavor is awesome.
+      
+      The owners gave us some candy and it made our night! Lovely place. Only one table inside, so this is a take out spot. 10/10! Had the Herb & Garlic and Creamy Onion, delicious
   - name: "Preya B"
     rating: 5
-    date: "2026-09-06"
     comment: |
       Delicious Korean Fried chicken! The full chicken is flavour loaded and a big portion enough for atleast 3 people. Enjoyed the saucey buldak and drier snow cheese flavours on the chicken pieces! Would definately reccomend!
+  - name: "Jane"
+    rating: 4
+    comment: |
+      I bought spicy seasoning, fried chicken, and french fries as a side dish, and I tried eating them right away with honey butter powder on the spot, and it was delicious. And I tried eating chicken at home. The seasoned chicken was delicious
   - name: "Daniel Tran"
     rating: 5
-    date: "2025-01-15"
     comment: |
       Visit: January 2025
       
@@ -55,18 +63,4 @@ reviews:
       Visit: November 2023
       
       Some of the best Korean fried chicken ive had. Very crispy and very juicy with good sauces and sides. Highly recommend. The place is very small, so not much room for dine in and no washroom which isn't great. Staff was super friendly and gave us bottled water or drinks due to a long wait
-  - name: "choii"
-    rating: 5
-    date: "2026-01-21"
-    comment: |
-      I dined in and the food came out really fast. Everything tasted great and was super fresh. Definitely coming back again!
-  - name: "Ryan Spotowski"
-    rating: 5
-    date: "2023-08-03"
-    comment: |
-      I ordered from Uber Eats and was happy with how crispy the food was when it arrived. Both the original and yangyeom chicken flavors were delicious. I don't know if I could handle more heat from the other flavors.
-      
-      The portion was reasonable in size and perfect for two people, especially if you order a couple of sides.  My whole chicken order was quite filling.
-      
-      I'd like to come back and try ordering directly from the store next time.
 ---

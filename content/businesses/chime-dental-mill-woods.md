@@ -6,7 +6,7 @@ subcategory: "dentists"
 neighborhood: "Mill Woods"
 address: "4214 66 St NW, Edmonton, AB T6K 4A2"
 rating: 4.7
-review_count: 113
+review_count: 124
 tier: "featured"
 phone: "(587) 414-6414"
 website: "https://www.chimedental.com/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Website_URL"
@@ -14,35 +14,44 @@ google_maps: "https://maps.google.com/?cid=6099737120863419869&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/chime-dental-mill-woods.jpg"
 reviews:
-  - name: "Hamza Khattak"
+  - name: "Nilam Patel"
     rating: 5
     comment: |
-      I had a wonderful experience at this Chime Dental branch. Laura at the front desk was incredibly helpful, friendly, and easy to talk to. Our dental hygienist, Lisa, took the time to explain everything clearly and made us feel comfortable throughout the visit. I would definitely recommend this hidden gem to anyone looking for excellent dental care!
-  - name: "David T P"
+      I had my first visit to Chime Dental for a dental cleaning, checkup, and treatment, and I’m very happy with my experience!
+      
+      Dr. Kishan Patel and his dental assistant, Jay, are both highly experienced, knowledgeable, and professional. They took the time to explain everything, performed the necessary initial X-rays, and recommended only the treatments that were actually needed rather than pushing unnecessary procedures. I really appreciated their honest and patient-focused approach.
+      
+      A special thanks to Lisi, the dental hygienist, who did an excellent job with my cleaning.
+      
+      I highly recommend Chime Dental to anyone looking for an experienced dentist with a strong dentistry background and a team that genuinely cares about their patients.
+      
+      Thank you, Chime Dental, for the excellent service and the $100 gift card for new clients. Keep up the great work!
+  - name: "hiba"
     rating: 5
     comment: |
-      This was my first visit to Chime Dental Mill Woods and I couldn’t be happier with the experience. From the moment you walk in, the attention is excellent. Laura at the front desk is very welcoming and professional, which immediately makes you feel comfortable.
-      The assistant who took me for my X-rays and cleaning was very kind and patient, explaining everything clearly along the way. The dentist was also great — professional, gentle, and attentive to detail.
-      Overall, the entire team provides outstanding service and truly cares about their patients. Thank you all for the great treatment and warm atmosphere. This was my first visit, and it will definitely be the first of many more to come. I highly recommend this clinic.
-  - name: "John E"
+      I had a wonderful experience at Chime Dental! The hygienist and dentist were both amazing, professional, and made me feel comfortable throughout my visit. The appointment was very quick and efficient. A special thank you to Debbie at the front desk for being so kind, welcoming, and helpful. Everyone provided excellent customer service. Highly recommend this dental clinic!
+  - name: "ankit patel"
     rating: 5
     comment: |
-      Very friendly staff, called to book an appointment and they got me in the next morning. visit went smoothly with emphasis on the great care they provided for me. they were very thorough and took their time, as dental care should be. shoutout to the dental hygienist, she was very good at her job and my teeth feel amazing now. 10/10 would go back
-  - name: "Mahad mohamed"
+      I had an excellent experience with Dr. Kishan Patel, his dental assistant Jay, and dental hygienist Lisi. From the initial dental examination to the completion of my treatment, the entire team was professional, knowledgeable, and extremely accommodating.
+      
+      Dr. Patel and Jay were very experienced and took the time to address all my concerns and explain everything clearly. Since I had to travel overseas, they made sure my treatment was completed on time without compromising on quality.
+      
+      I would especially like to appreciate Dr. Patel for making me feel comfortable during the freezing procedure. I have always been nervous about dental freezing, but he used a great distraction technique that helped me feel relaxed throughout the process. I barely felt it!
+      
+      A special thanks to Lisi for doing such an excellent job with my teeth cleaning. She explained the entire process thoroughly and made sure I was comfortable throughout.
+      
+      I highly recommend this dental clinic, especially to newcomers to Canada who are looking for an experienced, trustworthy dental team with extensive experience in both India and Canada.
+      
+      **Overall, a fantastic experience!** Professional service, excellent care, and a genuinely friendly team. Definitely a five-star experience!
+  - name: "Brianna Young"
     rating: 5
     comment: |
-      This place is amazing. The front counter staff are polite and very accommodating.
-      And pretty... The Doctor is amazing and is willing to work with you.
-      Thank you Chime and looking forward to my new teeth in couple of weeks of work yet.
-  - name: "Mike Young"
+      This office is amazing! My visit was extremely thorough, everything from dental health to billing clearly explained and their whole staff is caring and amazing with kids. Laura the office manager played with my daughter for an hour so I could have my cleaning in peace! Absolutely 100% recommend this place to anyone :)
+  - name: "Mykhailo Vorona"
     rating: 5
     comment: |
-      Went to Chime at my friends suggestion and hardly an appointment.
-      I was greeted warmly, whisked into a chair for an assessment and straight to work the staff went.
-      Complete overhaul of my mangled grill in 2 visits. I couldnt be happier.
-      I completely recommend Chime Dental to anyone looking at these reviews.
-      You won't be disappointed!
-      I also recieved a $100 prepaid credit card after my first visit.
+      Enjoyable and friendly environment. Was treated with a filling and a crown. Very fast and clear communications with me and my insurance company. They adhere to the offers they advertise. No complaints!
 hours:
   monday: "11:00 AM–7:00 PM"
   tuesday: "9:00 AM–5:00 PM"

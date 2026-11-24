@@ -24,7 +24,7 @@ photos:
   - "/photos/choice-shawarma-kabab-afghan-cuisine-g1.jpg"
   - "/photos/choice-shawarma-kabab-afghan-cuisine-g2.jpg"
 rating: 4.5
-review_count: 416
+review_count: 422
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -37,22 +37,26 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Lynden Alook"
     rating: 5
-    date: "2026-07-06"
     comment: |
       This rice bowl is so fulfilling and hit the hunger spot. Under 14.00 for this meal, I got #24 trio mix of the donair, chicken, and lamb meats. I asked for all 3 sauces, and with hot sauce, they also add a dollop of garlic sauce, its creamy and delicious. I always come here when I need to fulfill a bit appetite. 😁
-  - name: "Hammer Hard"
-    rating: 5
-    date: "2025-11-19"
+  - name: "Roomi 32"
+    rating: 1
     comment: |
-      I like the traditional style food and family atmosphere at Choice Shawarma. I've been coming here for a while and I've learned to order ahead of time and be patient. Staff is polite and they do try to serve people to the best of their abilities. It's Maa and Paa kinda restaurant you get what you get but if you like something then you stick with it. I always order lamb shank sometimes with rice and sometimes with gravy and they garnish it the way I ask. If people want spicy rice then just ask them for spices. I've figured out my order other people can too. They custom make your food however you want it and I like that.
-  - name: "Delani Rushanka"
+      The food quality and portion sizes really don’t match the prices. For example, the kebab with rice is around $18, and the picture on the menu clearly shows what looks like two large skewers of kebab with rice.
+      
+      I asked about the portion before ordering and was told it comes with 8 pieces, which I was fine with. But when the plate arrived, the pieces were extremely small. For $18, I honestly expected a much better portion, especially considering how the dish is presented in the menu photo.
+      
+      The food itself wasn’t good enough to justify the price either. Overall, I felt the portion and quality were disappointing for what I paid.
+  - name: "David Mejia"
     rating: 5
-    date: "2025-09-20"
     comment: |
-      Best shawarma in town.  We got beef and chicken large shawarmas. They were very tasty.  The service was friendly and polite. Definitely we will order again.
-  - name: "Muskan Ibrahimi"
+      I've already been here a handful of times and my go to item is their chicken Shawarma. The flavor is soo good!! Although I haven't, I'd easily eat 2. Don't skip out on their in house baked goods. The staff is always friendly and out of personal experience they got out of their way to make you feel welcomed.
+  - name: "Jeevan Guraya"
     rating: 5
-    date: "2026-07-18"
     comment: |
-      I had the chicken kebab plate, and it was amazing! The chicken was tender, juicy, and full of flavor. Everything tasted fresh, and the portion was generous. The staff were friendly, and the service was fast. I highly recommend this place if you’re looking for delicious shawarma and kebabs. I’ll definitely be back!
+      I had an absolutely delightful experience here! 🤩 The food was incredibly flavorful and fresh, truly a culinary treat. 😋 The service was exceptional, with attentive and friendly staff making me feel very welcome. The atmosphere was also very pleasant and inviting. ✨ I highly recommend this place for a wonderful meal! 👍
+  - name: "Kimia Abbasi"
+    rating: 5
+    comment: |
+      This is my favorite shawarma place in Edmonton. The food is always fresh, delicious, and full of flavor. The staff are friendly, the service is fast, and the portions are generous. I always enjoy coming here and highly recommend it to anyone looking for great shawarma in Edmonton!
 ---

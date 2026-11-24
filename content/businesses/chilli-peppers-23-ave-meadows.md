@@ -24,7 +24,7 @@ photos:
   - "/photos/chilli-peppers-23-ave-meadows-g1.jpg"
   - "/photos/chilli-peppers-23-ave-meadows-g2.jpg"
 rating: 4.4
-review_count: 573
+review_count: 581
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -38,7 +38,6 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Ankur Patel"
     rating: 5
-    date: "2026-05-01"
     comment: |
       Today visited this place here is my opinion.
       
@@ -60,15 +59,31 @@ reviews:
       They also have lots of option of indo Chinese food.
       
       If you want something different test at least try one time and you love the food test.
-  - name: "Honest Shopper"
-    rating: 5
-    date: "2026-01-17"
+  - name: "nitasha sharma"
+    rating: 1
     comment: |
-      5/5 on everything ⭐️⭐️⭐️⭐️⭐️ A must-try place!
-      I usually come here for my weekend brunch and it never disappoints. They have a great selection of food and everything tastes amazing 🤩. The best part is how clean the kitchen is, it really shows their commitment to quality. The staff is always attentive and friendly, which makes the experience even better. Highly recommend!
-  - name: "Prabhjot Kaur"
-    rating: 5
-    date: "2026-04-11"
+      Very disappointing experience! We ordered Hakka noodles and chilli momos, and both dishes were completely lacking in spice and flavour. I think you may have confused the chilli momos with honey chilli momos, which aren’t even listed on your menu.
+      
+      If you want to experiment with new flavours, please do so with proper testing before serving them to customers. We pay for our food expecting quality and the taste described on the menu, not an unpleasant surprise.
+      
+      Unfortunately, the food was nowhere near our expectations. Please work on improving the taste, flavour, and authenticity of your dishes. I hope you take this feedback seriously and improve your food quality for future customers.
+  - name: "Benhur"
+    rating: 1
     comment: |
-      We tried there chat papdi and spring roll they were absolutely delicious loved it ❤️❤️today was there first day of selling chat papdi , they gave us dahi bhalla as a token of appreciation it was superb 👌 loved it
+      Very disappointing experience at Chilli Pepper this time. None of the dishes were good from the Manchurian to the fried rice, everything had an off smell and taste. We spent over $50 and still left home hungry. Definitely not visiting again.
+  - name: "Dharti Nakrani"
+    rating: 1
+    comment: |
+      Very disappointing experience. We ordered quite a few dishes, including Manchurian, Hakka noodles, chili momos, paneer chili, spring rolls, and fried rice, and unfortunately we did not enjoy a single one.
+      
+      The fried rice was especially bad—it was chewy and the texture was completely off. The Hakka noodles, Manchurian, paneer chili, and spring rolls were also very disappointing in both taste and quality.
+      
+      Quantity is also not justified for the price. Other indo chinese places offer a lot better quantity and quality compared with this place.
+      
+      We tried several different items hoping at least something would be good, but unfortunately the entire meal was a disappointment. Based on our experience, I would not recommend this restaurant, especially to vegetarians unless the restaurant can ensure that vegetarian orders are prepared and served correctly.
+  - name: "kaur preet"
+    rating: 1
+    comment: |
+      I would rate them 0 if there was an option. I ordered Hakka noodles from this place, there was bug 🐜 in it. Nd the quantity was so less not enough for one. Totally wastage of money.
+      Wouldn’t recommend!!!!!!
 ---

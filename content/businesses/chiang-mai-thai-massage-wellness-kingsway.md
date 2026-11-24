@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–8:00 PM"
 photos: ["/photos/chiang-mai-thai-massage-wellness-kingsway-1.jpg", "/photos/chiang-mai-thai-massage-wellness-kingsway-2.jpg", "/photos/chiang-mai-thai-massage-wellness-kingsway-3.jpg"]
 rating: 4.9
-review_count: 484
+review_count: 521
 price_range: "$$"
 amenities:
 
@@ -28,36 +28,24 @@ tags: ["edmonton", "massage"]
 active: true
 date_listed: "2026-08-20"
 reviews:
-  - name: "Dennice de Guzman"
+  - name: "Charlene Herrera"
     rating: 5
     comment: |
-      ⭐⭐⭐⭐⭐
-      
-      I had the Sculpting Lifting Facial with Olga, and it was an amazing experience from start to finish. The treatment was incredibly relaxing, and Olga constantly made sure I was comfortable throughout the entire session. Her professionalism, gentle approach, and attention to detail made the experience even more enjoyable.
-      
-      What truly sets this place apart is the atmosphere and the people. Every staff member, from the therapists to the receptionist were so warm, friendly, and welcoming. You genuinely feel valued and cared for the moment you walk through the door.
-      
-      A special shoutout to Thanya for building such a wonderful team and creating such a positive environment. The level of customer service here is exceptional.
-      
-      Definitely a 5-star experience. If I could give 500 stars, I absolutely would! Highly recommend Chiang Mai Thai Massage & Wellness to anyone looking for outstanding service and a truly relaxing experience. 💛✨
-  - name: "Brandon Wilson"
+      I had such a great experience with Ate Myra! It’s not my first time at Chiang Mai Thai, but it was my first time having a massage with her, and she did not disappoint! She really knows what she’s doing, especially when it comes to working on pressure points and areas of tightness. She did a great job and made sure I was comfortable throughout the session. On top of that, she’s super friendly and nice. I really enjoyed my massage and would definitely recommend booking with Ate Myra. Looking forward to my next visit! :)
+  - name: "Ed Casinillo"
     rating: 5
     comment: |
-      Today I was lucky enough to have an appointment with Myra, it was my first thai massage. Myra was amazing, her technique was amazing and her personality was a huge bonus. She gave the best massage I've ever had, hands down.  Everyone at Chiang Mai Thai Massage was super friendly and easy to talk to. Without a doubt all other therapists are just as wonderful. I would strongly suggest anyone thinking of trying or looking for an amazing thai massage look no further. 10 out of 10. I cant wait to come back.
-  - name: "Benjamin Faustino"
+      Had my first-ever Thai oil massage at Chiang Mai Thai Massage, and Myra was amazing! I really appreciated how thorough she was, especially with the tight muscles in my lower back and shoulders. I loved how she was able to find knots and areas of tension without me even having to point them out. I felt so much better and more relaxed after the session. Definitely recommend Myra and will be coming back!
+  - name: "Diti Jhunput"
     rating: 5
     comment: |
-      I had an amazing massage experience with Myra and Madeleen, a wonderful mother-and-daughter team! They were both very professional, kind, and attentive. The massage was incredibly relaxing, and you could really tell they care about making their clients feel comfortable and well taken care of.
-      
-      Their technique was excellent, and I left feeling refreshed, relaxed, and completely satisfied. I highly recommend Myra and Madeleen to anyone looking for a great massage experience.
-      
-      Definitely 10/10
-  - name: "daud hudle"
+      I had a wonderful experience! The receptionist was very welcoming and friendly. Madellene was also fantastic! She had a great personality, made me feel comfortable, and was very skilled at what she does. The massage was excellent, and I left feeling relaxed and refreshed. Highly recommend this place! I will definitely be coming back.
+  - name: "Mark Feduk"
     rating: 5
     comment: |
-      I visited Chiang Mai Thai Massage & Wellness today morning at 10:30 AM, and my therapist Madellene was absolutely phenomenal—no exaggeration. Her technique was incredible, her professionalism was top-class, and she was extremely attentive to exactly what my body needed. The pressure and care were perfect, my tension completely vanished, and I left feeling totally refreshed and brand new. The entire experience was clean, relaxing, and 10/10 from start to finish. Madellene, you were AMAZING—this is one of the best experiences I’ve ever had. If you want a serious, high-quality massage, book at Chiang Mai Thai Massage & Wellness and request Madellene
-  - name: "Maria Camila Nonato"
+      I’ve been getting deep tissue massage for years for back pain, and I can say that Madellene is the best therapist I’ve seen yet. I felt so much better afterwards. I rebooked right away and I’m now a regular customer. She has a gift, extensive knowledge and pays great attention to problem areas. I’m sure the other practitioners are excellent as well. Everyone is very friendly. Great location, easy to book and many options and therapists. They also direct bill insurance. I highly recommend.
+  - name: "Saida Shariif"
     rating: 5
     comment: |
-      I highly recommend Myra! She is wonderful, friendly, and truly knows what she’s doing. She was able to find all the pressure points and knots that were causing tension. By the end of the massage, both my husband’s back and mine felt completely relieved—no stiffness and no pain. We left feeling relaxed, refreshed, and so much better. We’ll definitely be coming back and recommending her to others!
+      I cannot recommend Chiang Mai Thai Massage & Wellness highly enough! From the reception to the massage session, I had an amazing experience. Everyone was warm and welcoming. Specifically with Madeline, it was clear from the moment the session started that she is an absolute master of her craft.I have been going to massages since 2020, and I have never had a more relaxing, unique, and incredible experience than the one I had with Madeline today. She is very humble, funny, and has amazing energy. She knows exactly how to balance a welcoming vibe with a professional, therapeutic one.She has a great ability to find exactly where your body holds tension and works it out with the perfect amount of pressure. Her technique is amazing! I walked in feeling incredibly tight and stressed, and walked out feeling like a completely new person. On top of her amazing skills, Madeline is professional, deeply intuitive, and incredibly authentic. She is truly the best in the business, and I will definitely be a returning client.
 ---

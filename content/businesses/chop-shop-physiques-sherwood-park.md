@@ -23,7 +23,7 @@ hours:
 photos:
   - "/photos/chop-shop-physiques-sherwood-park-g1.jpg"
 rating: 4.7
-review_count: 37
+review_count: 42
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "gyms"]
@@ -32,23 +32,10 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Sukhman Sidhu"
     rating: 4
-    date: "2026-09-07"
     comment: |
       great gym with versatile equipment. I wish they had a better trap bar though as the one they have cant hold much weight unless you use metal plates but then it becomes a noise issue.
-  - name: "Kim Mills"
-    rating: 5
-    date: "2026-02-15"
-    comment: |
-      I think I have found my new happy place.
-      I am halfway through a one week trial and I have gone three times.  This gym has such fantastic equipment.  It is CLEAN.  The members are respectful; both of the property and each other.  Just an awesome workout each time I've gone.
-  - name: "Kyle"
-    rating: 5
-    date: "2026-02-04"
-    comment: |
-      Signed up for a free gym trial and was really impressed. Had lots of equipment I’ve never seen in other gyms. Was very happy to find a gym with a hack squat. And probably best of all I went at 5:30 after work and most other gyms would’ve packed but it was very reasonable here which was a breath of fresh air.
   - name: "priscilla markus"
     rating: 4
-    date: "2024-12-12"
     comment: |
       I completed a one-week trial at this gym and wanted to share my thoughts, highlighting the pros and cons. If possible, I’d rate the gym 3.5 stars based on my experience. Here’s why:
       
@@ -62,9 +49,17 @@ reviews:
       •	The equipment, while new and high-quality, didn’t meet my preferences for machines. I missed having a hip thrust machine, and like mirrors in front of squat racks to check my form.
       
       Overall, this is a solid option for a small boutique gym, and I can see why it would appeal to many. If you’re curious, the 7-day trial pass is worth exploring to decide if it’s the right fit for you. Happy workouts!
+  - name: "Kim Mills"
+    rating: 5
+    comment: |
+      I think I have found my new happy place.
+      I am halfway through a one week trial and I have gone three times.  This gym has such fantastic equipment.  It is CLEAN.  The members are respectful; both of the property and each other.  Just an awesome workout each time I've gone.
+  - name: "Kyle"
+    rating: 5
+    comment: |
+      Signed up for a free gym trial and was really impressed. Had lots of equipment I’ve never seen in other gyms. Was very happy to find a gym with a hack squat. And probably best of all I went at 5:30 after work and most other gyms would’ve packed but it was very reasonable here which was a breath of fresh air.
   - name: "Lisa Slauenwhite"
     rating: 5
-    date: "2026-01-03"
     comment: |
       I’ve been working out at the Sherwood Park location for a year…hand down this is the best gym I’ve ever been a member at.  Great equipment, clean facility, friendly staff, and just a great community. Great job Chop Shop!!!
 ---

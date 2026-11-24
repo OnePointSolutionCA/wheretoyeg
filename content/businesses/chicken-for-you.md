@@ -23,7 +23,7 @@ photos:
   - "/photos/chicken-for-you-g1.jpg"
   - "/photos/chicken-for-you-g2.jpg"
 rating: 4.8
-review_count: 325
+review_count: 332
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -35,33 +35,44 @@ tags: ["edmonton", "fried-chicken"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Nathan Coenen"
-    rating: 5
-    date: "2025-12-08"
-    comment: |
-      This place never disappoints. Some of the best fried chicken I’ve ever had in life. Crispy, juicy, tender, flavourful and incredibly priced. 5 pieces for 15 dollars?! KFC or Popeyes or any fast food chicken places would charge you triple that for flavourless, greasy and mid chicken. Want good chicken? This is the place.
   - name: "Laila"
     rating: 5
-    date: "2026-05-24"
     comment: |
       Happy to hear that Chicken for You now offers halal wings and boneless chicken! I don’t think you can go wrong with any flavour here, and service is always quick and friendly as well! We found ourselves back here twice in 1 week because it was too good haha
-  - name: "WESSLEY ANTONCHUK"
-    rating: 5
-    date: "2026-02-05"
-    comment: |
-      Really nice place that we found highly recommend going chicken was awesome fries are great must try. And definitely must try the snow cheese chicken. Honestly I think it was better than KFC.
   - name: "雷蒙德"
     rating: 5
-    date: "2026-08-23"
     comment: |
       A little expensive but it is well worth the price. I recommend getting half and half chicken with a wet and dry combo. And the spicy snowing cheese is amazing.
-  - name: "Judy Moon"
+  - name: "Nathan Coenen"
     rating: 5
-    date: "2025-08-19"
     comment: |
-      As a Korean local, I’ve tried countless chicken places, but their chicken is the best Korean fried chicken I’ve ever had in Edmonton. Fair prices and crispy juicy chicken.
+      This place never disappoints. Some of the best fried chicken I’ve ever had in life. Crispy, juicy, tender, flavourful and incredibly priced. 5 pieces for 15 dollars?! KFC or Popeyes or any fast food chicken places would charge you triple that for flavourless, greasy and mid chicken. Want good chicken? This is the place.
+  - name: "Persy Abaunza"
+    rating: 5
+    comment: |
+      If you're craving phenomenal Korean fried chicken, then this spot is a must for you.
       
-      It’s also awesome to support local businesses!
+      A true mom & pop shop waiting to be discovered by your tastebuds.
       
-      I highly recommend everyone to try the sweet&hot gangjeong and the old fashioned  fried chicken
+      Nestled in the NAIT area, not a hard find and easily accessible.
+      
+      I'm a big fan of K-fried chicken, have tried just about all notable spots in the city and truly, non compare to this one.
+      
+      I've tried several; my go to combo is the sweet and spicy, small fries, a side of rice sticks, extra pickled radish and ramekin of  sauce.
+      
+      Aunty is always good to deal with. The location itself is nothing out of this world, but thats perfectly fine, its all about the menu. If you dine in, the food is so piping hot, you better let it cool down.
+      
+      I always bring my lunch bag for take out and have always had delicious, hot, flavorful, crunchy chicken at home.
+      
+      This is the place I've come to compare others to... and always keep on coming back.
+      
+      Tell aunty I say hi!
+  - name: "REINA JAN ROMERO"
+    rating: 5
+    comment: |
+      I suggest, if you don't like waiting on a chicken that are fried to perfection, order beforehand, let chef know in advance by calling.
+      
+      I've tried alot of versions of korean fried chicken. CFY is by far the quality, taste and it might not crispiest but i think it was perfectly fired. You know they take the time to make em.
+      
+      9.7 /10
 ---

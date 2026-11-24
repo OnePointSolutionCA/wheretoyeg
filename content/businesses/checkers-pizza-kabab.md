@@ -21,7 +21,7 @@ hours:
   sunday: "11:00 AM–2:00 AM"
 photos: ["/photos/checkers-pizza-kabab-1.jpg", "/photos/checkers-pizza-kabab-2.jpg", "/photos/checkers-pizza-kabab-3.jpg"]
 rating: 4.3
-review_count: 977
+review_count: 983
 price_range: "$"
 amenities:
   - "Halal"
@@ -37,12 +37,14 @@ reviews:
     comment: |
       The owner was incredibly kind, friendly, and super welcoming. He noticed us taking photos with our digital camera and even let us take pictures around the place and with him, which made the experience even more memorable.
       The pizza itself was fresh, cheesy, and absolutely delicious. The outstanding customer service made the whole experience even better. Definitely coming back whenever I'm in the area. Highly recommend!
-  - name: "Khalid Baig"
+  - name: "hayat"
     rating: 5
     comment: |
-      One of the best places we had Pizza in Edmonton. Not that expensive either. We got a large pizza half chicken garlic snd half beef supreme. And one cheese pizza. Excellent taste and yum yum!
-      
-      Thankz
+      Came here after a long night on Whyte and where all fails, Checkers was still open. They have the best donair I’ve ever tasted in my life and the guy that let us stay even though they were closing soon was supper sweet, even giving me more of their secret donair sauce. This place gives me hope for the future of all Edmontonian’s. Also usman is amazing too!
+  - name: "Michael Richard"
+    rating: 5
+    comment: |
+      Been coming to checkers pizza for years and all there food is fantastic . Unique and excellent pizza and the best chicken biriani in edmonton. Friendly staff and clean . Can’t say enough good about this place . Worth checking out . An Edmonton Institution that I hope is around for many  many years .
   - name: "Umer Raza"
     rating: 5
     comment: |
@@ -51,8 +53,4 @@ reviews:
     rating: 1
     comment: |
       Today I ordered the beef supreme pizza. That was my second time. Because first time, it was really good. Today I really expected that they will make it like the first time I ordered. I also put special instructions. But they made it so bad, I couldn't even eat. Just look at the toppings. It literally tasted soggy, cold, and the base was so less that it felt like I am eating just bread. Never ordering again.
-  - name: "Michael Richard"
-    rating: 5
-    comment: |
-      Been coming to checkers pizza for years and all there food is fantastic . Unique and excellent pizza and the best chicken biriani in edmonton. Friendly staff and clean . Can’t say enough good about this place . Worth checking out . An Edmonton Institution that I hope is around for many  many years .
 ---

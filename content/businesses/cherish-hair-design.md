@@ -20,7 +20,7 @@ hours:
   sunday: "Closed"
 photos: ["/photos/cherish-hair-design-1.jpg", "/photos/cherish-hair-design-2.jpg", "/photos/cherish-hair-design-3.jpg"]
 rating: 4.7
-review_count: 172
+review_count: 174
 price_range: "$$"
 amenities:
 
@@ -28,24 +28,22 @@ tags: ["edmonton", "cuts-styling"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Dalie Ramas"
+  - name: "Jayna Roth"
     rating: 5
     comment: |
-      Had a great experience at the salon! My first time with them. My hairstylist is Brittany W. I got a layered haircut and style, and I couldn’t be happier with the results. My stylist really listened to what I wanted and showed her images on the style. She made sure the layers suited my face perfectly. The styling was beautiful and gave my hair so much movement and volume and she gave me a great head massage too! Other staff were also very friendly and professional throughout the appointment. Salon is very neat, clean and smells soo good. Highly recommended! 👍⭐️
-  - name: "Charnpreet Bhullar"
-    rating: 5
+      It was my first time going to Cherish and I went for a full colour and style and I had Bethany Miller. She was FANTASTIC. She wasn’t in a rush, took time to discuss what I wanted fixed, created a beautiful colour and I’m obsessed with how it turned out. She was so friendly and it was a great first experience. I’ll definitely be back!
+  - name: "Suzanne Maley"
+    rating: 1
     comment: |
-      Chynna is hands down one of the best hair stylists I’ve been to. She’s incredibly talented, detail-oriented, and always makes sure everything is perfect. From the moment you sit in her chair, you can tell she genuinely cares about her clients and takes pride in her work. Always soo much fun to see her!
-  - name: "Julia Coe"
-    rating: 4
-    comment: |
-      Was a good atmosphere and I enjoyed my time. I o ly rated four stars because I got a basic trim and style so hard to give more because well, not that difficult  - it was done wonderfully. I will return for another trim and blowouts for self care.  (Best self care).
-      
-      Also, would be nice for the doors to have been accessible. I was on crutches so definitely makes maneuvering around more difficult, especially opening doors.
+      I went in for a colour and cut. The colour was fine. The cut I thought was fine when I was there because When she blew it dry, she was curling it with her brush, so I didn’t notice until after I washed  my hair and straighten it. It’s a chunky mess. I’ve never in my life had  a haircut this bad.. it looks like I have three layers in the back that  go  Straight across.. And on the side by my bangs, they’re so chunky there’s long pieces of hair than short and long again. It’s awful.
   - name: "Claire Kaiser"
     rating: 5
     comment: |
       I have been getting my hair cut and colored by Brooke S. for about 5 years now and she does an excellent job every time! The products smell great, the atmosphere is pleasant, and the people are always welcoming. They sell some jewelry at the front as well which is always cute stuff (including Agaveh girl jewelery). Would definitely recommend this hair salon.
+  - name: "Dalie Villordon"
+    rating: 5
+    comment: |
+      Had a great experience at the salon! My first time with them. My hairstylist is Brittany W. I got a layered haircut and style, and I couldn’t be happier with the results. My stylist really listened to what I wanted and showed her images on the style. She made sure the layers suited my face perfectly. The styling was beautiful and gave my hair so much movement and volume and she gave me a great head massage too! Other staff were also very friendly and professional throughout the appointment. Salon is very neat, clean and smells soo good. Highly recommended! 👍⭐️
   - name: "kerry talbot"
     rating: 5
     comment: |

@@ -24,16 +24,23 @@ photos:
   - "/photos/chop-shop-physiques-spruce-grove-g1.jpg"
   - "/photos/chop-shop-physiques-spruce-grove-g2.jpg"
 rating: 4.6
-review_count: 84
+review_count: 87
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "fades"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "A P"
+    rating: 3
+    comment: |
+      The gym is so crammed with equipment. It does the job. Wish they had left more space to move around. This photo is one example. Equipment and people are on top of each other.
+  - name: "Avery Robinson"
+    rating: 2
+    comment: |
+      Giving it a two for the following reasons. The gym is completely unusable from 4-8pm, gyms way too busy for the size. You’re waiting for machines constantly. The gym equipment isn’t of all great quality and somethings always broken. The clips holding your attachment on the end of the cable machine can and has given out before creating an unsafe space. The layout of the gym is very inefficient and poorly placed throughout the gym. The floors upstairs are sinking down and there’s leaks which have been addressed with a bucket. This gym is locally owned which is great, fairly affordable with longer prepaid plans, staffs reasonable. Cleanliness is on par.
   - name: "Stephen Roberts"
     rating: 4
-    date: "2022-10-15"
     comment: |
       Pros
       -Offers discount when you sign up for multiple months
@@ -48,14 +55,14 @@ reviews:
       -some equipment can feel redundant whereas the room could be used for different equipment working other muscle groups
       -my biggest issue, not tall person friendly. You will hit the the support bar on the power rack with an overhead press. Some equipment bottoms out at rep with full extension.
       -some of the equipment feels cheap, bad incline benches
-  - name: "Andre D'souza"
-    rating: 5
-    date: "2026-02-18"
+  - name: "T Y"
+    rating: 2
     comment: |
-      Writing this review because one of your employees (Kayla Cook) saved me from frost bite this morning. My app was not working and I was stuck outside the Fort Sask location and there were no staff working during their posted staff hours. I was out there for plenty of time and ringing the bell, before calling other locations for some assistance and am very glad she was able to fix my app for me !! Thanks Kayla :)
-  - name: "Tyrant Smile"
-    rating: 5
-    date: "2023-12-20"
+      Smaller gym with a decent amount of equipment. Easily crowded with rowdy high schoolers who swear like a sailor and avoid putting weights back
+  - name: "Spencer Williams"
+    rating: 3
     comment: |
-      After years of going to different gyms, this one finds the best balance.  It is a clean, well kept community gym with respectful members. Their equipment is better than most gyms and is maintained bythe staff.  Also, this gym can get busy but never to the point where it is aggravating.  I have been going to the Spruce Grove location for just over a year and don't have any complaints.
+      The gym is overall decent, and there aren’t a ton of options in the spruce area for a 24h hour gym.
+      but the cleanliness is lacking. There never seems to be clean cloths to be used over the weekends. And the floors don’t seem to ever get cleaned.
+      Would be nice if they could invest in some better benches. The current ones lack the support needed for a solid lift.
 ---

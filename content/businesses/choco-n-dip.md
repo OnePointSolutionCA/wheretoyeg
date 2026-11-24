@@ -24,7 +24,7 @@ photos:
   - "/photos/choco-n-dip-g1.jpg"
   - "/photos/choco-n-dip-g2.jpg"
 rating: 4.8
-review_count: 2384
+review_count: 2392
 amenities:
   - "Takeout"
   - "Delivery"
@@ -33,29 +33,26 @@ tags: ["edmonton", "dessert-cafes"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Amanda L"
-    rating: 5
-    date: "2026-02-22"
-    comment: |
-      This place is amazing. My daughter was so excited to press the button and got 10 seconds to scratch off a prize. She got the Oreo ice cream and loved it. Especially getting to inject the chocolate into it. The woman working there was super friendly and accommodating. We will be back.
-  - name: "Krishna Patel"
-    rating: 5
-    date: "2026-05-29"
-    comment: |
-      Absolutely loved the strawberry chocolate dip at Choco n’ Dip! 🍓🍫 The strawberries were fresh and juicy, and the chocolate was rich, smooth, and perfectly melted. Every bite tasted so good and felt super satisfying. The presentation was beautiful too, making the whole experience even better. Definitely a must-try if you love strawberries and chocolate together! 🤎
   - name: "D Lavallee"
     rating: 5
-    date: "2026-05-24"
     comment: |
       This was my very first visit to Choco N' Dip, and I was very pleased with what I ordered. I got the Viral Dubai Pistachio Strawberry dessert covered in Belgian milk chocolate. It tasted as good as it sounds and then some. I even had some leftover Belgian milk chocolate in the bottom of my cup afterwards that could not go to waste. Thank you very much Choco N' Dip staff for the amazing food and wonderful service. I will be back for more:)
+  - name: "Maria Khalaf"
+    rating: 5
+    comment: |
+      I work at the mall and stopped by Choco n Dip for the first time today. I wasn't sure what to get, and the two Abduls working there were super helpful! They helped me figure out what to order and both of them were so welcoming and kind. It was a great experience overall, and I will definitely be coming back again! The pistachio strawberry was delicious.
+  - name: "La-Dawn Redcrow"
+    rating: 5
+    comment: |
+      Visited on June 20th and received a complimentary treat in recognition of Indigenous Peoples Day. Such a thoughtful gesture that made me feel welcomed and appreciated. The staff were friendly, and the treats were delicious! Thank you for taking the time to acknowledge and celebrate Indigenous Peoples Day. 🩷
+      
+      I look forward to visiting again! 😊
   - name: "Natalie Barratt"
     rating: 5
-    date: "2026-05-22"
     comment: |
       So delicious! A fun variety of flavors and the service was just incredible! My son got the 10 second timer too!! We will definitely come back when we are in need of a tasty treat!
-  - name: "SPeddle"
+  - name: "Krishna Patel"
     rating: 5
-    date: "2026-05-10"
     comment: |
-      Came to choco n dip for the first time after a long time waiting. And let me tell you it was absolutely worth the wait!! Delicious and fresh! The guys that work here are beyond amazing!!
+      Absolutely loved the strawberry chocolate dip at Choco n’ Dip! 🍓🍫 The strawberries were fresh and juicy, and the chocolate was rich, smooth, and perfectly melted. Every bite tasted so good and felt super satisfying. The presentation was beautiful too, making the whole experience even better. Definitely a must-try if you love strawberries and chocolate together! 🤎
 ---

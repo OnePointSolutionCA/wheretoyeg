@@ -19,7 +19,7 @@ hours:
   sunday: "12:00 PM–11:00 PM"
 photos: ["/photos/chayan-1.jpg", "/photos/chayan-2.jpg", "/photos/chayan-3.jpg"]
 rating: 4.6
-review_count: 62
+review_count: 79
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -29,10 +29,22 @@ tags: ["edmonton", "bubble-tea"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Lucus"
+  - name: "Michael (IG mike.slikes)"
     rating: 5
     comment: |
-      I tried the guava fruit tea at Chayan and really enjoyed it! The drink was refreshing, fruity, and tasted great. The staff were very friendly and provided excellent service. The atmosphere is also beautiful, clean, and relaxing. Definitely a great place to enjoy a refreshing drink. Highly recommend!
+      Love the guava Lemon Tea...hope it's on the menu forever, Matcha Green Tea Frappe and pineapple cream tea (seasonal) are also good
+      
+      Limited free residential parking across the street
+      
+      Love the 2nd floor seating, good escape in winter by the window
+      
+      Self serve kiosk if you are indecisive
+      
+      IG @chayan.edmomton
+  - name: "Phoebe Pan"
+    rating: 5
+    comment: |
+      Loved this place! The tea is so fragrant and flavorful, and the shop is bright and spacious. Definitely coming back!
   - name: "Natasha Ilyina"
     rating: 4
     comment: |
@@ -47,16 +59,13 @@ reviews:
       9/10 The Black Milk Tea Frappe had the best flavour, and is apparently their best selling. Not too strong, not too sweet, I do recommend this one and I will likely be back for this specifically!
       
       It’s worth coming to try; I will return here to explore the menu some more, I did enjoy my experience and the drinks are pretty good, just surprised at how light they are.
-  - name: "jackson wong"
+  - name: "Phitchaya P"
     rating: 5
     comment: |
-      All Asian tea house is always good . They make the beverages according to your liking . I wish the owner best of luck . Whyte ave is a good location especially lots of overseas students .
-  - name: "June W"
+      Even crowded during opened store but the staffs are working at their best. The tea is good for people who like light feeling tea.
+      Buy 1 get 1 during first weekend and 10% for first time buying member.
+  - name: "Lucus"
     rating: 5
     comment: |
-      Beat the summer heat with a refreshing Guava Lemon Tea! Bursting with the rich, tropical sweetness of guava and perfectly balanced by the bright, zesty aroma of fresh lemon, it's the ultimate drink to cool you down on a hot summer day. Highly recommended.
-  - name: "Yuchen Guo"
-    rating: 5
-    comment: |
-      I tried three different drinks and they were all delicious! It was so hard to choose a favorite. I also highly recommend Da-Hong-Pao Milk Tea, which I tried last time. It’s perfect with less sugar and less ice. I was also pleasantly surprised that you can order it with no ice at all!
+      I tried the guava fruit tea at Chayan and really enjoyed it! The drink was refreshing, fruity, and tasted great. The staff were very friendly and provided excellent service. The atmosphere is also beautiful, clean, and relaxing. Definitely a great place to enjoy a refreshing drink. Highly recommend!
 ---

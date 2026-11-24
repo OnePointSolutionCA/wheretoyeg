@@ -20,7 +20,7 @@ hours:
   sunday: "2:00 PM–9:00 PM"
 photos: ["/photos/chick-n-flames-1.jpg", "/photos/chick-n-flames-2.jpg", "/photos/chick-n-flames-3.jpg"]
 rating: 4.4
-review_count: 360
+review_count: 366
 price_range: "$"
 amenities:
   - "Halal"
@@ -31,17 +31,20 @@ tags: ["edmonton", "halal-chicken", "halal"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Faiza Hafeez"
+    rating: 1
+    comment: |
+      Very disappointed with the portion size, especially considering the price. I paid $31.75 for two poutines ($16 each), and the portions were extremely small for what I expected.
+      
+      At $16 per poutine, I expected a much more generous serving. Unfortunately, the quantity did not justify the price at all. The portion size was very disappointing, and I honestly feel this was overpriced.
+      
+      Please reconsider your pricing or increase the portion sizes. Customers should feel they are getting good value for their money. I would not pay $16 again for such a small serving.
   - name: "Jay"
     rating: 5
     comment: |
       The chicken sandwich was really good — flavorful, fresh, and cooked well. I also tried the loaded fries, and they were delicious too. Everything had a lot of flavor without being overly greasy or heavy, which I really appreciated.
       
       The portion sizes were generous and satisfying, and overall the food was very enjoyable. Definitely a solid spot if you’re looking for a good chicken sandwich and loaded fries.
-  - name: "Alex"
-    rating: 5
-    comment: |
-      Really good crispy chicken that is actually hot when they say its hot! Great service and halal which is a plus. My first visit I got the combo which is a good price for two people. You might be asking yourself, why is it so cheap compared to a regular combo? Turns out the combos have a smaller chicken burger. No complaints though because it's still a decent size for a really good price.
-      My second visit I got the french toast sandwich and it is in fact bigger! Really fun and easy concept and another home run for their chicken.
   - name: "Super Review Widget"
     rating: 5
     comment: |
@@ -59,33 +62,9 @@ reviews:
       THIS. Is undoubtedly and sorry to say unarguably the best CHICKEN PLACE In Edmonton. Change my mind.
       
       Well done chef. You will be seeing me again and again.
-  - name: "S C"
+  - name: "Alex"
     rating: 5
     comment: |
-      For those of you who don’t read the entire reviews.
-      1.  Chick n Flame
-      2. Dave’s Hot Chicken
-      3. Popeyes
-      
-      In this order of preferences for chicken sandwiches.
-      
-      Although you could probably swap Dave’s and Popeyes depending on how you feel.  But Chick n Flame definitely #1.  I just have to warn you, don’t get the high spice if you’re not into ghost peppers.
-      
-      It was a Saturday and I was taking my son to try yet another chicken sandwich place. We showed up to Chick n Flame at 11:45 hoping to beat the rush.  It’s not open until noon 😂.
-      
-      We waited until noon and walked into a very clean looking place, seems sparse as there was no pictures on the walls even.
-      
-      The helpful person walked us through the menu.  The specials for 2 burgers were unusually inexpensive and I asked her why.  Those specials have 1/3 the chicken in them.  So I wanted to try both the regular and also ordered the specials with less chicken.
-      
-      Upon receiving them you couldn’t tell there was any difference at all as everything else was the same.  But you will once you bit into them as you can see the different thickness.  Both were delicious but definitely the regular is the way to go.
-      
-      The insides were filled with some slaw and pickles and lots of sauce, just like their advertisement.  Simply divine.
-      
-      The Cajun fries tasted just like the Arby’s curly fries except they were much more crispy.
-      
-      The coleslaw we received was super refreshing and not doused with dressing.  An excellent choice.
-      
-      When I went with the special burgers there were two and I got one with medium spice and one with high.  So I ate the “high level” one first.  It was awesome and I thought that I should have had them both at high.  But upon one bite into the “medium”, I figured out they had mislabelled the sandwiches in the wrong boxes.  It was so spicy I was drenched in sweat.  My eyes teared up and I couldn’t talk for a few moments.  Definitely not for me, that level of spice was crazy.
-      
-      Anyways, currently when I think of having a spicy chicken sandwich, Chick n Flames is for me.  At “medium” spice level please.
+      Really good crispy chicken that is actually hot when they say its hot! Great service and halal which is a plus. My first visit I got the combo which is a good price for two people. You might be asking yourself, why is it so cheap compared to a regular combo? Turns out the combos have a smaller chicken burger. No complaints though because it's still a decent size for a really good price.
+      My second visit I got the french toast sandwich and it is in fact bigger! Really fun and easy concept and another home run for their chicken.
 ---

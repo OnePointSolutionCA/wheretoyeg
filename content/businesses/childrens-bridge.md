@@ -30,22 +30,14 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Kirk Dewhurst"
     rating: 5
-    date: "2025-05-24"
     comment: |
       Nice bridge for walking over the Sturgeon River. The suspension bridge is well designed and easy to access and walk over. The bridge is dedicated to the International Year of the Child in 1981.  It is within a beautiful park with lots of walking and biking trails. Definitely worth the visit
   - name: "Khush Sandhu"
     rating: 5
-    date: "2023-08-09"
     comment: |
       Very beautiful location!! To take pictures and record videos!! It is very clean and well organized place! Moreover greenery and flowers. I like this place too much personally. Lot of people go for walk and spend their free time there, very gigantic place has everything, tables and wooden chairs to sit and eat, one can rest and spend quality of time with their kids and family. This place is for all age groups!! 5stars definitely, it deserves . Must visit this place and feel the peaceful atmosphere. Enjoy
-  - name: "Ficus"
-    rating: 5
-    date: "2024-09-23"
-    comment: |
-      Beautiful little modern bridge.
   - name: "Daniel Blais"
     rating: 5
-    date: "2019-06-22"
     comment: |
       This is a beautiful footbridge that crosses the Sturgeon River just to the north of Red Willow Place.  A great place to come and take pictures.
       
@@ -55,9 +47,12 @@ reviews:
       Dedicated June, 1981 in celebration of The International Year of the Child.
       “Mankind owes the child the best it has to give”
       - United Nations General Assembly
+  - name: "Ficus"
+    rating: 5
+    comment: |
+      Beautiful little modern bridge.
   - name: "Renz Gabuya (Renzie)"
     rating: 5
-    date: "2023-05-03"
     comment: |
       Beautiful Pet friendly and Chill park.
 ---
