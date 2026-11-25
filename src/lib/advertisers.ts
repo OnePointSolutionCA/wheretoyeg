@@ -6,7 +6,7 @@
 
 import { edmontonDay } from "./daily";
 
-export type AdvertiserId = "onepoint" | "fixauto" | "oxford" | "hearing" | "flowers" | "sanctuary" | "beaumaris" | "dentclinic";
+export type AdvertiserId = "onepoint" | "fixauto" | "hearing" | "flowers" | "sanctuary" | "beaumaris" | "dentclinic";
 
 export type Advertiser = {
   id: AdvertiserId;
@@ -64,22 +64,6 @@ const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
     tint: "#FDF0F2",
     listings: ["fix-auto-sherwood-north"],
     searchTerms: "collision repair auto body shop autobody bodywork dent hail damage accident mechanic",
-  },
-  oxford: {
-    id: "oxford",
-    name: "Oxford Chiropractic & Wellness",
-    logoSrc: "/logos/oxford-chiro-horizontal-sm.webp",
-    logoSize: [439, 130],
-    logoAlt: "Oxford Chiropractic & Wellness",
-    logoHeightPx: 32,
-    photo: { src: "/ads/oxford.webp", alt: "Oxford Chiropractic & Wellness front desk and waiting room" },
-    kicker: "Chiropractic in North Edmonton",
-    line: "Chiropractic care and massage therapy, no referral needed.",
-    cta: { label: "Book a visit", href: "https://oxfordchiropractic.ca/" },
-    color: "#2F7D3A",
-    tint: "#EEF6EE",
-    listings: ["oxford-chiropractic-wellness"],
-    searchTerms: "chiropractor chiropractic chiro back neck pain massage therapy",
   },
   hearing: {
     id: "hearing",
@@ -140,8 +124,8 @@ const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
     kicker: "Chiro, physio and massage in North Edmonton",
     line: "Chiro, physio and massage, plus care for work and car injuries.",
     cta: { label: "Contact the clinic", href: "https://beaumarishealth.com/contact-us/" },
-    color: "#92278F",
-    tint: "#F8EFF8",
+    color: "#3D5466",
+    tint: "#EEF2F5",
     listings: ["beaumaris-health-centre"],
     searchTerms: "chiropractor chiropractic chiro physiotherapy physio massage therapy acupuncture whiplash wcb",
   },
@@ -176,7 +160,6 @@ export const SPONSORED_LISTINGS: Map<string, string> = new Map(
 export const HOMEPAGE_SPONSOR_LISTINGS: string[] = [
   "onepoint-solutions",
   "fix-auto-sherwood-north",
-  "oxford-chiropractic-wellness",
   "medicine-place-hearing-care-97-north",
   "flowers-yeg",
   "secret-sanctuary-retreat",
@@ -203,7 +186,7 @@ export const AD_PLACEMENTS = [
 export type AdPlacement = (typeof AD_PLACEMENTS)[number];
 
 /** Every sponsor, in rotation order. */
-export const ROTATION: AdvertiserId[] = ["onepoint", "fixauto", "oxford", "hearing", "flowers", "sanctuary", "beaumaris", "dentclinic"];
+export const ROTATION: AdvertiserId[] = ["onepoint", "fixauto", "hearing", "flowers", "sanctuary", "beaumaris", "dentclinic"];
 
 export function advertiser(id: AdvertiserId): Advertiser {
   return ADVERTISERS[id];
@@ -222,7 +205,7 @@ export function adHref(href: string, id: AdvertiserId, placement: string, medium
 /**
  * Pick which sponsor fits the current page.
  *   - A strong match wins: dents and hail → Dent Clinic, other auto repair → Fix Auto or Dent Clinic,
- *     chiro / physio / massage → Oxford or Beaumaris,
+ *     chiro / physio / massage → Beaumaris,
  *     hearing → Medicine Place Hearing, florists → Flowers YEG, glamping and retreats → Secret Sanctuary.
  *   - Every other page gets an even spread of all sponsors, reshuffled each day
  *     (the site rebuilds daily), so each sponsor shows across the whole site.
@@ -267,9 +250,9 @@ export function relevantAdvertiser(ctx: { category?: string; subcategory?: strin
     (/\b(chiropractors?|physiotherap|massage-therapy|acupuncture|back-pain|neck-pain|sciatica|whiplash)\b/.test(text) ||
       /\bchiro\b/.test(text))
   ) {
-    return half("oxford", "beaumaris");
+    return "beaumaris";
   }
-  if (/\b(chiropract|physiotherapy|back pain|neck pain|whiplash|sciatica)\b/.test(text)) return half("oxford", "beaumaris");
+  if (/\b(chiropract|physiotherapy|back pain|neck pain|whiplash|sciatica)\b/.test(text)) return "beaumaris";
   return null;
 }
 

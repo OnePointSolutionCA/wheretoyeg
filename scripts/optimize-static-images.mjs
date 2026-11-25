@@ -105,7 +105,6 @@ async function main() {
     // sponsor logos, drawn at most 36 / 56 / 40 px tall
     ["logos/onepoint-horizontal.png", "logos/onepoint-horizontal-sm.webp", { height: 120 }, "webp"],
     ["logos/fix-auto.png", "logos/fix-auto-sm.webp", { height: 180 }, "webp"],
-    ["logos/oxford-chiro-horizontal.png", "logos/oxford-chiro-horizontal-sm.webp", { height: 130 }, "webp"],
   ];
   for (const [src, out, size, fmt] of logos) {
     let p = sharp(path.join(PUB, src)).resize({ ...size, withoutEnlargement: true });
