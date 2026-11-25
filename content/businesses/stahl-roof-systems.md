@@ -13,6 +13,7 @@ email: "info@stahlroofing.ca"
 website: "https://www.stahlroofing.ca/"
 facebook: "https://www.facebook.com/stahlroofsystems/"
 instagram: "https://www.instagram.com/stahlroofsystems/"
+google_maps_url: "https://maps.google.com/?cid=2746461905785530808"
 hours:
   monday: "8:00 AM–8:00 PM"
   tuesday: "8:00 AM–8:00 PM"
@@ -25,8 +26,8 @@ photos:
   - "/photos/stahl-roof-systems-1.jpg"
   - "/photos/stahl-roof-systems-2.jpg"
   - "/photos/stahl-roof-systems-3.jpg"
-rating: 0
-review_count: 0
+rating: 4.9
+review_count: 25
 price_range: "$$$"
 amenities:
   - "Metal Roofing"
