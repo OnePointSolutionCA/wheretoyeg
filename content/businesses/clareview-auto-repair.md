@@ -6,7 +6,7 @@ subcategory: "mechanics"
 neighborhood: "Beverly"
 address: "550 Hermitage Rd NW, Edmonton, AB T5A 4N2"
 rating: 4.5
-review_count: 290
+review_count: 291
 tier: "featured"
 phone: "(780) 472-2040"
 google_maps: "https://maps.google.com/?cid=1634826049760018280&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
@@ -17,24 +17,24 @@ reviews:
     rating: 5
     comment: |
       I had a great experience with this mechanic. He checked my car carefully and made sure everything was okay. He was honest, professional, and didn’t try to push unnecessary repairs. I really appreciated how he explained things clearly and made me feel confident about my car’s condition. Highly recommend his service to anyone looking for a trustworthy mechanic!
+  - name: "Sascha Nehring"
+    rating: 5
+    comment: |
+      They do good work for a good price! Honest with their assessments as well and never try to push things that aren’t needed. I will say though that communication sometimes is a bit slower/they’re a very busy shop, but I’ll take that any day over another shop that charges double. Definitely recommend!
   - name: "Ahmad ziya Jamali"
     rating: 1
     comment: |
       am very dissatisfied with the way the management of this auto repair shop treated me. Unfortunately, during my recent visit, I experienced inappropriate and unprofessional behavior, and I felt that I was not treated with the respect that every customer deserves.
       
       Any business can make mistakes, but the way customers are treated is one of the most important aspects of good service. I sincerely hope that the management takes this feedback seriously and makes meaningful improvements to its professionalism and customer service.
-  - name: "Ibn-Maysaloun"
-    rating: 1
-    comment: |
-      After waiting, he said he'd book your appointment for Friday, but it was Monday. Wow. Don't trust Bashir; he's a liar. Or don't go to his garage; he's too busy (according to him). If you are the customer, would you want your car fixed in five days or a week? In any case, your facial expressions say you're being rude.
-  - name: "Les Swanek"
+  - name: "Katelynn Crawley"
     rating: 5
     comment: |
-      I have brought my vehicle here on numerous occasions and always had good,  honest,  prompt service... and found pricing to be reasonable.  Would recommend and will be going back when necessary.
-  - name: "Tim Zimmerman"
+      I took in my vehicle not knowing what was wrong with it. They figured it out very quickly and fixed it the same day. Very fast and professional. The cost was very fair. I will be coming here in the future.
+  - name: "Maria Unrau"
     rating: 5
     comment: |
-      Great mechanic shop. I’m a back yard mechanic. I can do small jobs if I can’t do it I take it here. I had a different shop quote me $700 for a repair,  I knew it was too much. They tried to charge me $500 for a part that was worth $200. I took it here and they charged me $300 with labour. Their honest and good at their work. And they don’t charge an arm and a leg. My mother in laws been here and they treat her really good. Done some pro bono work for her. No charge. Great shop I would rate them a 6 stars if I could.
+      Knowledgeable staff. Great service. Have been going to see Bashir for approx 15 years. He has not steered us wrong yet. Reliable and well priced.
 hours:
   monday: "9:00 AM–5:30 PM"
   tuesday: "9:00 AM–5:30 PM"

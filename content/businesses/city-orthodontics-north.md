@@ -20,8 +20,8 @@ hours:
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/city-orthodontics-north-1.jpg", "/photos/city-orthodontics-north-2.jpg", "/photos/city-orthodontics-north-3.jpg"]
-rating: 4.6
-review_count: 124
+rating: 4.7
+review_count: 131
 price_range: "$$$"
 amenities:
   - "Braces"
@@ -37,6 +37,12 @@ featured: true
 active: true
 date_listed: "2026-08-17"
 reviews:
+  - name: "Ben Wiseman"
+    rating: 5
+    comment: |
+      We had a wonderful experience at City of Smiles, City Orthodontics and Pediatric Dentistry. My 7-year-old daughter needed her bottom two incisors removed, and I was nervous about how she'd handle it. The staff were incredibly friendly and paid close attention to her needs from the moment we walked in. During the procedure they kept her calm and comforted, and it made all the difference for both of us.
+      She left with a smile and is actually looking forward to coming back. That says everything! Thank you to the whole team for taking such great care of her. Highly recommend this office for any parent looking for a kind, patient pediatric dental team.
+      — Ben W.
   - name: "Alda Flores Noyola"
     rating: 5
     comment: |
@@ -51,6 +57,10 @@ reviews:
       I also really appreciate how clearly he communicates with parents. He takes the time to explain everything thoroughly, answers questions, and makes sure you understand what is going on without ever making you feel rushed or overwhelmed.
       
       Dr. Lipon has created such a positive experience for our family, and I’m so grateful we found him. If you’re looking for a pediatric dentist who is incredible with kids and truly cares about his patients, I cannot recommend Dr. Lipon enough. He is an absolute gem! ⭐️⭐️⭐️⭐️⭐️
+  - name: "Shantelle Haitel"
+    rating: 5
+    comment: |
+      They were able to fit us in for an emergency dental appointment when our child was experiencing major tooth pain. They were friendly and helpful. We are so thankful for the care we received!
   - name: "Abdul Rahman"
     rating: 5
     comment: |
@@ -63,12 +73,4 @@ reviews:
     rating: 5
     comment: |
       Dr. Ammar was fantastic for my daughter's tooth extraction and crown. He was really great at explaining in a child friendly way everything that my daughter would experience throughout her surgery. She is 5 and had nitrous oxide. I was very happy with the experience and as a parent I felt they did a great job explaining everything to me as well. The facility itself is very big, clean, welcoming and comfortable. My daughter also absolutely loved the post-appointment toy and stuffie selection they had available. It was easy and straightforward to book her follow-up appointments.
-  - name: "Demara Joyal"
-    rating: 5
-    comment: |
-      My son had 8 cavities, so my dentist sent us here. They were great and the waiting room had a ps4 console and my son LOVED coming here, just to play the games. lol. This would have been torture without it!! Sooo so appreciative. ❤️
-  - name: "Jerome Costello"
-    rating: 5
-    comment: |
-      My daughter loves it here. She had braces and really crooked teeth. It seemed like magic how quick they straightened her teeth. Thank you for giving my little girl a beautiful smile
 ---

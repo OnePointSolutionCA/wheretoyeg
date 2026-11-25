@@ -16,45 +16,40 @@ hours:
   monday: "10:00 AM–6:30 PM"
   tuesday: "10:00 AM–6:30 PM"
   wednesday: "9:30 AM–2:00 PM"
-  thursday: "9:30 AM–2:00 PM"
+  thursday: "Closed"
   friday: "10:00 AM–6:30 PM"
   saturday: "9:00 AM–5:00 PM"
   sunday: "Closed"
 photos:
   - "/photos/classic-acupuncture-inc-g1.jpg"
   - "/photos/classic-acupuncture-inc-g2.jpg"
-rating: 4.8
-review_count: 76
+rating: 4.7
+review_count: 79
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "acupuncture"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Lianne McDonald"
+    rating: 5
+    comment: |
+      I can’t say enough about classic acupuncture!
+      Shiliang (Leon) Jiang Is amazing.   Only two appointments and his treatments are already helping my body pain, along with my emotions.   Very clean, and great staff!
   - name: "Sharon"
     rating: 5
-    date: "2026-07-06"
     comment: |
       I have been dealing with numbness in my left leg and sciatic issues. I went twice and now 2 weeks later I have feeling in my leg and I can walk better. Thank you 😊
   - name: "Chayna B"
     rating: 5
-    date: "2025-09-07"
     comment: |
       Dr. Jiang and his staff are amazing. Dr. Jiang knew exactly what I needed without judgement and helped immensely. With just one treatment I felt relief. Highly recommend this place. It is also very clean, professional, organized and comfortable. Love how easy it is to book a appointment. Thank you!
   - name: "Alia Schamehorn"
     rating: 5
-    date: "2025-01-21"
     comment: |
       This is the best experience I have had with treating the physical symptoms of my mental illness. My stress is much lower now.  My body pain has also decreased significantly. I am finally starting to feel better. I listen to the advice I am given and feel better as I keep being treated, too.
-  - name: "J B"
-    rating: 5
-    date: "2025-08-07"
+  - name: "Christina Daniel"
+    rating: 1
     comment: |
-      This is an excellent TCM clinic. Dr Jiang has much knowledge and is very professional. The clinic is very clean and has a welcoming atmosphere. I highly recommend treatments here.
-  - name: "Ulia Ulia"
-    rating: 5
-    date: "2025-11-10"
-    comment: |
-      I don’t even know how to express my gratitude. Thanks to you, I finally feel healthier. Thank you so much! 🙏
-      Рекомендую 👍
+      Stay away from this place . Very very disappointed in them .
 ---

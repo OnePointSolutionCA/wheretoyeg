@@ -29,29 +29,24 @@ tags: ["edmonton", "residential"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Heather Walton"
-    rating: 5
-    date: "2024-03-06"
-    comment: |
-      Clarmak has done work for me for many years. Always knowledgeable and affordable.    Cannot go wrong when you want the job done right.
   - name: "Justine Papineau"
     rating: 5
-    date: "2025-04-04"
     comment: |
       The fellow, Josh, who came over was very professional, and made sure that the alarm that was in my bedroom was promptly taken out and replaced! I am very pleased with his exceptional service and attitude! Thank you to his boss as well! 😁
+  - name: "Heather Walton"
+    rating: 5
+    comment: |
+      Clarmak has done work for me for many years. Always knowledgeable and affordable.    Cannot go wrong when you want the job done right.
   - name: "Daniel Fredeen"
     rating: 5
-    date: "2025-08-26"
     comment: |
       Clarmak has completed two jobs (installing outlets in the basement / living room / hidden cable runs for wall mounted TV) for us so far and both have gone very well. The technicians work efficiently and touch base throughout for clarification. They do an excellent job of cleanup when they are done. I would recommend them and will be using them again!
   - name: "Robert"
     rating: 5
-    date: "2025-08-28"
     comment: |
       Clarmak provided top notch services. Replaced and installed 6 lights in our basement. The quote and invoice...both very close with the numbers. I was happy to see that. And we love our new lights!! Thanks Clarmak!! I will use your services again.
   - name: "Jay C"
     rating: 5
-    date: "2024-08-14"
     comment: |
       Recently our home air conditioner decided it was time to retire. Its successor was found and installed – end of story right?
       

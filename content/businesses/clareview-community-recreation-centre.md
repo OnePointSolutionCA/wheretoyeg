@@ -23,28 +23,33 @@ hours:
 photos:
   - "/photos/clareview-community-recreation-centre-g2.jpg"
 rating: 4.4
-review_count: 3610
+review_count: 3627
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "swimming"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Veronica C"
+    rating: 1
+    comment: |
+      This place is huge and has a lot of potential, but unfortunately, it feels very sketchy. There are a lot of questionable people hanging around the property and even entering the building, which made me feel uncomfortable. The pool is decent, but nothing particularly special. The play area is filled with children who are supposed to be supervised, yet there are hardly any parents around. Overall, I would not recommend this place. I personally did not feel safe bringing my little one here, and safety is something that should always be a priority, especially in a family-friendly environment.
+  - name: "Michelle Jackson"
+    rating: 4
+    comment: |
+      We love going here for the pool and indooor playground. The pool has a nice size lazy river, and a separate toddler pool. The changing areas are nice, with free electronic lockers and lots of enclosed changing spaces. The pool is currently closed for renovations and maintenace. My son loves the indoor playground, which is great when it's really cold or windy outside. Now he doesn't have to spend the winter cooped up at home. There's a Booster Juice which tends to be fairly busy, so be prepared to wait. The front desk staff have been very kind and helpful when answering questions. Usually the admission lines have no wait. If they do, it's only a few minutes, not very long, depending on when you go. We are thankful to have such a nice Centre close to home.
+  - name: "Anthony Brass"
+    rating: 5
+    comment: |
+      This place is a great recreation centre. The infrastructure is neat always kept nice and tidy. Security does their job. There’s cameras and misbehaviours are not tolerated. There’s a court for badminton and for basketball and even a rink for hockey. There’s also a children’s play area if you want to take your kids here and a children’s pool in the swimming pool. The swimming pool is cleaned well, there’s access to showers and even a family changing room and two men and woman’s changing rooms with plenty of bathrooms to choose from. The gym upstairs was where I worked out from 16-17.5 and I can say it’s a very nice gym. Even nicer than Fit4Less gyms even. Overall a wonderful recreation centre and I would recommend you try it for a day or two or even months or years.
+  - name: "Lily Liu"
+    rating: 5
+    comment: |
+      It’s a nice rink at Rink A. I frequently go to the public figure skating session. It’s quite empty during the winter, but gets busy as spring and summer come. The ice is well maintained, no crazy hockey grooves. Room temperature is quite low though.
   - name: "Emelita Mondares"
     rating: 5
-    date: "2026-07-10"
     comment: |
       ⭐⭐⭐⭐⭐ We absolutely love coming here! It’s one of our favorite places to take our child. Whether it’s swimming, visiting the library, or enjoying the indoor play area, there’s always something fun to do. It’s the perfect place to spend the day, especially during the winter or whenever the weather isn’t great for being outside.
       
       The large outdoor playground is another fantastic bonus when the weather is nice. We also love that there are plenty of seating areas where families can enjoy a packed lunch together. It’s clean, family-friendly, and has so much to offer for kids of all ages. We always have a wonderful time and highly recommend it to other families looking for a fun and affordable outing!
-  - name: "Csrijal blogspot com"
-    rating: 5
-    date: "2026-06-24"
-    comment: |
-      The facility offers a well-managed community recreation centre and the Edmonton Public Library under one roof, providing an excellent opportunity for enhancing overall well-being.
-  - name: "Meg B"
-    rating: 4
-    date: "2026-08-11"
-    comment: |
-      Great facility, very diverse. Use it mostly for the arenas so I can't comment on the courts, pool or fitness center. Ice is great, locker rooms are sufficient and clean. Theft is a big problem, as well as random people off the street trying to come into dressing rooms. The staff are good to remove them, but don't bring valuables in at all if possible.
 ---

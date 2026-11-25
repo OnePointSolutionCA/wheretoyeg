@@ -6,7 +6,7 @@ subcategory: "arcades"
 neighborhood: "Edmonton"
 address: "11017 26 Ave NW, Edmonton, AB T6J 4C1"
 rating: 5
-review_count: 279
+review_count: 303
 tier: "featured"
 phone: "(825) 966-9558"
 website: "https://www.clawmecrazy.ca/"
@@ -14,6 +14,18 @@ google_maps: "https://maps.google.com/?cid=4490710358044103739&g_mp=Cidnb29nbGUu
 photos:
   - "/images/businesses/claw-me-crazy.jpg"
 reviews:
+  - name: "Bebe Zi"
+    rating: 5
+    comment: |
+      Great place 100/10! Ruby was absolutely awesome and made it such a fun experience for all of us! DEFINITELY coming back, won lots of items 😁
+  - name: "Yejin Kim"
+    rating: 5
+    comment: |
+      The claw machines are so much fun, and it’s actually easy to win prizes! The staff is also incredibly friendly and welcoming. I’ll definitely be coming back again😆☺️
+  - name: "Val Walwal"
+    rating: 5
+    comment: |
+      We had so much fun! So easy to get prizes! We will come back for sure and theres free parking too!
   - name: "Carleen Capistrano"
     rating: 5
     comment: |
@@ -22,28 +34,16 @@ reviews:
       By the way, their staff, Ruby, she’s the best! She gave us tips and tricks that’s why we got a lot!🥰
       
       We will definitely come back here (will bring a lot of friends!)
-  - name: "Eva Sommerfeldt"
-    rating: 5
-    comment: |
-      Super fun! This is such a great place to come with friends or even alone! Definitely a good way to spend your afternoon.
-  - name: "Legorena “Owey”"
-    rating: 5
-    comment: |
-      Had a great experience at Claw Me Crazy! The staff were very friendly and welcoming from the moment we arrived. The place is clean, organized, and has a fun atmosphere. It's one of those places you need to visit yourself to fully appreciate. Definitely worth stopping by!
   - name: "Samantha Gibbon"
     rating: 5
     comment: |
       We had so much fun here! My five year old ended up winning a lot of prizes. Prizes are high quality and staff are very helpful. Great time all around.
-  - name: "Killua Fernando"
-    rating: 5
-    comment: |
-      Absolutely love everything about this place, its clean, aesthetic, affordable and overall just a super fun place to go with your friends. Highly recommend. Chen is also an amazing employee and super duper friendly.
 hours:
   monday: "4:00 PM–8:00 PM"
-  tuesday: "3:00 PM–8:00 PM"
+  tuesday: "4:00 PM–8:00 PM"
   wednesday: "4:00 PM–8:00 PM"
   thursday: "2:00 PM–8:00 PM"
-  friday: "4:00 PM–9:00 PM"
-  saturday: "1:00 PM–9:00 PM"
+  friday: "4:00 PM–8:00 PM"
+  saturday: "1:00 PM–8:00 PM"
   sunday: "1:00 PM–8:00 PM"
 ---

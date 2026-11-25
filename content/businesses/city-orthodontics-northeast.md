@@ -20,8 +20,8 @@ hours:
   saturday: "Closed"
   sunday: "Closed"
 photos: ["/photos/city-orthodontics-northeast-1.jpg", "/photos/city-orthodontics-northeast-2.jpg", "/photos/city-orthodontics-northeast-3.jpg"]
-rating: 4.4
-review_count: 43
+rating: 4.5
+review_count: 40
 price_range: "$$$"
 amenities:
   - "Braces"
@@ -44,33 +44,21 @@ reviews:
       We were also very impressed by the friendly and helpful front desk staff, who made the entire process smooth and pleasant.
       
       I highly recommend this clinic to any parents looking for high-quality pediatric dental care. A big thank you to Dr. Ammar, Janet, and the entire team for their outstanding work and kindness.
-  - name: "marwa afandi"
+  - name: "Cassandra"
     rating: 1
     comment: |
-      I’m extremely disappointed with my experience.
-      
-      I called ahead to ask about fixing my retainer (the glue came off), and I was clearly told it would be free of charge. Based on that, I booked an appointment.
-      
-      At the clinic, they fixed the issue and also mentioned they would fix another part of the wire. That was fine but at no point did anyone tell me there would be a cost for that. If they had simply said, “this part will cost $150, do you want us to proceed?” I could have decided. What if I didn’t have the funds on me?
-      
-      Instead, everything was done first, and only at the end I was told I had to pay $150.
-      
-      At this point, I honestly feel like I could have just spent that $150 on a flight back to Montreal, seen my own dentist who does this for me for free, and visited my family at the same time.
-      
-      What’s frustrating is that I actually had a good impression at first everyone was nice, and I was even speaking with the doctor about booking a teeth cleaning and making this my regular clinic after moving to Edmonton. But after this experience, I’ve completely changed my mind.
+      I took my son there when I noticed he was getting some discoloration on his 2 front 2 teeth we went for 4 or 5 visits over a year and a half. They never cleaned his teeth once only brushed floride on them. Then after the last visit they wanted to cap all 8 molars and pull his front 4 teeth even tho only 2 molars and 2 of his front teeth have issues. They wanted me to pay $4000 and have work done on 10 perfectly good baby teeth on my 4yr old son! I took him for a 2nd opinion and the other dentist said to leave his front teeth in if they aren't hurting him and the 2 cavities on his molars the new dentist was able to fill while he was awake.. I almost traumatized my 4yr old son because I trusted what this dentist was saying... the only reason I went for a 2nd opinion because whoever called me to book the appointment told me if I just brushed my son's teeth that I wouldn't be in this position and that comment made me so disgusted because we do brush twice a day she had no right to shame me the way she did and I just am beyond disappointed I wasted so much time coming to this dentist when my son could have just had regular cleanings. Please get a 2nd opinion before getting work done on healthy teeth.
+  - name: "Mallory Stone"
+    rating: 5
+    comment: |
+      My kids ASK to go to the dentist after going here. They love the toys after their appointment and they’re treated with unmatched patience and kindness. We see Dr. Shawar. Highly recommend!
   - name: "Ashlyne"
     rating: 5
     comment: |
       Easy to find, on the second floor, elevator available. Was very pleased with the quick response to the referral we received.
       Very kid friendly. Would recommend! For sure.
-  - name: "Atawah Semples Anaba"
-    rating: 1
-    comment: |
-      **I am very disappointed with the way we were treated by the front desk staff member today. We were given one appointment time over the phone, which was different from the time shown online. We arrived on time based on the information provided, yet she refused to assist us, even though the issue would have taken less than five minutes to resolve.
-      Her attitude was mean, unprofessional, and lacking basic courtesy. This experience was very frustrating, especially considering that when it came time to discuss a payment plan for my daughter’s braces, staff had no problem taking as much time as needed and were very accommodating.
-      I expect consistency, professionalism, and respectful treatment regardless of the situation.**
-  - name: "Marjorie Stone"
+  - name: "Leah Mesfin"
     rating: 5
     comment: |
-      City Orthodontics has been a game-changer for my daughter. She was nervous about getting braces, but the team made her feel at ease with their gentle approach. They were incredibly patient, explained every step of the process, and made her feel confident throughout her treatment. We’re so pleased with the results!
+      Oasis Orthodontics has truly changed my life for the better they have treated us with respect and care like family. Now I smile with confidence!
 ---

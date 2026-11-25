@@ -20,7 +20,7 @@ hours:
   sunday: "11:00 AM–3:00 AM"
 photos: ["/photos/circle-of-flavors-1.jpg", "/photos/circle-of-flavors-2.jpg", "/photos/circle-of-flavors-3.jpg"]
 rating: 4.8
-review_count: 418
+review_count: 486
 price_range: "$"
 amenities:
   - "Halal"
@@ -31,6 +31,23 @@ tags: ["edmonton", "indian", "halal"]
 active: true
 date_listed: "2026-08-20"
 reviews:
+  - name: "Munir jhari"
+    rating: 5
+    comment: |
+      I had a wonderful experience! The food was absolutely delicious and full of flavor. I really enjoyed every bite. The staff were amazing—very friendly, respectful, and always smiling, which made us feel very welcome.
+      Everything was perfect, from the food to the service. I highly recommend this restaurant, and I will definitely come back again. Keep up the great work!
+  - name: "Sidi Ahmed"
+    rating: 5
+    comment: |
+      I ordered catering from this restaurant for my friend’s wedding, and I couldn’t have been happier with the experience. The food was absolutely delicious, fresh, and beautifully prepared. The service was also excellent and everything was handled professionally. Everyone really enjoyed the food. Highly recommended! ⭐⭐⭐⭐⭐
+  - name: "Mohamed"
+    rating: 5
+    comment: |
+      This restaurant is definitely worth trying! They have amazing food, and honestly, I have never had food like this in my life. Everything was delicious, from the food to the drinks, and even the tea was excellent.
+      
+      The only thing they need to improve is their organization. I hope they pay a little more attention to that.
+      
+      Overall, I had a wonderful experience, and I give this restaurant 5 out of 5 stars ⭐⭐⭐⭐⭐. I highly recommend giving it a try!
   - name: "Adwaith Din (Din)"
     rating: 5
     comment: |
@@ -41,25 +58,10 @@ reviews:
       14th July 2026 : Update
       
       Visited the store again and they’ve increased the price for almost every food from 1$ to 2.5$
-  - name: "Lady V1rgo"
+  - name: "Faraz “Heftysalad”"
     rating: 5
     comment: |
-      Saw this restaurant while cruising through the 118 Ave round- a- bout. Decided to stop in and check it out. Quite a busy and hustling place as it was supper time. Decided to order the Half Rotisserie 🐔 chicken with Mandi Rice. The rice is so flavorful. I must say, more flavorful than Jollof rice. Also ordered Grenadine drink which I haven't had in years as a child, and it brought fond memories. Happy to see 3 other tables filled with other Asian peeps. 🙂 118 Ave is becoming quite a cultural avenue. I shall be returning to try the Lamb meal. Even though there was only 1 server, she got the service done.
-      Update - I had to return abd try the lamb. No regrets. Saw them grilling fish. Guess I will habe to return a 3rd tine to try the fish. Waitress is super friendly. 👌 🙂
-  - name: "Sama Alhuraibi"
-    rating: 4
-    comment: |
-      Honestly the food was good and the service was great. I would come back again and have lunch there. They need more tables though. But lovely experience overall.
-  - name: "Uvindu Imash"
-    rating: 5
-    comment: |
-      Im a million percent honest about this review,
+      Update: came back for another quick lunch and got even better service told the guy at counter I was going to eat in my car and he provided me a plastic sheet to lay on my lap to make a cleaner eating experience. As for the food it didn’t miss with the smell or the taste. If you’re spending your money at fast food places you can spend the same amount and get much more and an even better service experience than a fast food place can’t recommend this place enough.
       
-      Circle of Flavours has honestly become one of my favorite places to eat. Ever since I came here, I’ve had some of the best food I’ve ever tasted. Everything is always fresh, full of flavor, and made perfectly. I had been looking for a place like this for a long time, somewhere I could truly enjoy eating exactly what I want, and I finally found it at Circle of Flavours.
-      
-      What amazed me even more was how affordable the prices are for the quality and portions they offer. It’s hard to find a place with food this good at such reasonable prices. The atmosphere is welcoming, the staff are friendly, and the quality of the food is consistently amazing every time. You can really tell they care about their customers and their food. Highly recommend this place to anyone looking for delicious food and a great experience!
-  - name: "Tyla Blain"
-    rating: 5
-    comment: |
-      The food was amazing! Bursting with flavour, great sized portions. Service was great as well as it being open late, I can literally just walk there and grab a bite to eat at 1am. Love this place
+      Hopped in for quick lunch expecting for a long wait for fresh chicken but I came in at the right time got to see them cook and pull out the freshly cooked chicken and it all looked great and smelled really good. Ended up getting half rotisserie chicken which way wayyyyy too big for just me to eat but for the price it’s such a good deal definitely a meal for 2. Definitely recommend giving it a shot won’t be disappointed.
 ---

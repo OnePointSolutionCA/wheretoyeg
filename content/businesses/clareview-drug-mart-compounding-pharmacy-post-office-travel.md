@@ -24,7 +24,7 @@ photos:
   - "/photos/clareview-drug-mart-compounding-pharmacy-post-office-travel-g1.jpg"
   - "/photos/clareview-drug-mart-compounding-pharmacy-post-office-travel-g2.jpg"
 rating: 4.4
-review_count: 104
+review_count: 109
 amenities:
   - "Delivery"
   - "Wheelchair Accessible"
@@ -34,31 +34,25 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Lacey"
     rating: 5
-    date: "2026-07-09"
     comment: |
       I have been a client of Clareview Drug Mart for several years, and their service has been consistently outstanding. The team is exceptionally helpful and knowledgeable. They offer convenient medication delivery, which has been a tremendous support for my family, and they provide high-quality compounding services that meet specialized needs with precision and care.
       What truly sets them apart is their personal and attentive approach. The staff recognizes clients by name and demonstrates genuine kindness in every interaction. They are always on top of things and make me feel confident that my family’s health requirements are being fully and thoughtfully addressed.
       Clareview Drug Mart has earned my complete trust. I highly recommend them to anyone seeking a reliable, compassionate, and professional pharmacy that consistently delivers excellent service.
+  - name: "JlG Reviews"
+    rating: 5
+    comment: |
+      I’m happy to give Clareview Drug Mart five stars. Having a pharmacy close to home makes those everyday errands a little easier, and this is one I’d gladly go back to. If someone in Clareview asked me to recommend a pharmacy in the area, I’d point them here
+  - name: "Bradley Carifelle"
+    rating: 5
+    comment: |
+      Best service ever!. Frank and his team always have   peoples best interest and needs at heart, because they make double sure that their  customers get what they need. It’s a professional, friendly, caring pharmacy. I recommend fully
+  - name: "Sandy “Mawb11” Stoklosa"
+    rating: 5
+    comment: |
+      Great bunch of people here. The pharmacy has amazing staff that are extremely helpful and considerate. As well as the front end staff and the girls at the post office. Everything you need in one stop
   - name: "Debbie Jacobs"
     rating: 5
-    date: "2026-07-03"
     comment: |
       Very Much appreciate the support received from especially Eric and Victor .    They are very professional and knowledgeable and go above and beyond in customer excellence.  Any questions or concerns are explained in a comfortable and friendly manner.
       Appreciate the excellent service
-  - name: "Ron Koster"
-    rating: 5
-    date: "2026-08-27"
-    comment: |
-      I have been going to this pharmacy for years and service is always great.  They take time to answer questions as well as providing clarification on flu a.d other shots.
-  - name: "Francis Lajeunesse"
-    rating: 5
-    date: "2026-05-13"
-    comment: |
-      There every 2nd or 3rd day, everyone treats you like family...Taz, Eric, Frank, Sara, Victor, Janet—where do I stop? EVERYONE is super and patient with their customers. KEEP UP THE GREAT WORK!!!!!!😀😀😀😃😃😃😀😀😁
-  - name: "Tasha Fleming"
-    rating: 5
-    date: "2026-07-06"
-    comment: |
-      Thank u for ur services and understanding my small family
-      It helps a lot to have understanding and human compassion's in bettering family’s, just wanted to say an extra special thank u Clareview pharmacy!!!
 ---

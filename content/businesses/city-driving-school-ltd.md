@@ -24,7 +24,7 @@ photos:
   - "/photos/city-driving-school-ltd-g1.jpg"
   - "/photos/city-driving-school-ltd-g2.jpg"
 rating: 4.8
-review_count: 720
+review_count: 729
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "driving-school"]
@@ -33,7 +33,6 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Simplyfathymae"
     rating: 5
-    date: "2026-09-06"
     comment: |
       I PASSED THE ROAD TEST !!!
       My amazing instructor is SUZAN.
@@ -47,31 +46,38 @@ reviews:
       Overall, I’m happy with my experience with Suzan. - “thank you Suzan 🙂”
       
       I would definitely recommend  Suzan and City Driving School Ltd.
-  - name: "Jeremy Clemente"
+  - name: "MJ pasag"
     rating: 5
-    date: "2026-07-10"
     comment: |
-      I had a great experience with City Driving School, especially with Suzan as my instructor. Her teaching approach is highly structured and detailed. Because her feedback and comments were always consistent and on point, I felt my confidence grow ahead of my road test. I highly recommend both City Driving School and Suzan to anyone looking to pass their exam.
-  - name: "Shanoi Carter"
+      I recently completed my driving lessons and had a great experience with my instructor, Suzan. He explained everything clearly, corrected my mistakes patiently, and made sure I understood each step before moving on. I always felt comfortable during our lessons because he stayed calm and supportive. She teaching style really helped me gain confidence on the road. Thank you for helping me improve my driving skills. Highly recommended.
+  - name: "Halgan"
     rating: 5
-    date: "2026-06-26"
     comment: |
-      I’m extremely happy with my experience at City Driving School in Edmonton. My instructor, Nandeep was outstanding throughout the entire learning process. He is incredibly patient, explains everything clearly, and always takes the time to make sure you understand before moving on. His calm approach helped me build confidence behind the wheel, and his attention to detail made me a much safer driver.
-      Nandeep is an excellent teacher who genuinely cares about his students' success.  I highly recommend City Driving School to anyone looking for quality driving lessons, especially if you have the opportunity to learn with Nandeep.
+      ⭐⭐⭐⭐⭐
       
-      Thank you for such a great experience
-  - name: "Melba Shaji"
-    rating: 5
-    date: "2026-06-06"
-    comment: |
-      I had a wonderful experience with this driving school. The training was very professional, well-structured, and focused on building both confidence and safe driving skills.
+      I had a really great experience with this driving school! The whole process was smooth, and I really appreciate the support and guidance I received throughout my course. The instructor was helpful, patient, and professional, and everything was explained clearly, which made the experience so much easier.
       
-      A special heartfelt thanks to my instructor, Suzan. She was incredibly patient, supportive, and knowledgeable throughout my learning journey. She explained everything clearly, corrected my mistakes in a calm and encouraging way, and made sure I felt confident before the test. Her tips and guidance were extremely helpful during the road test.
+      I also appreciated how organized everything was, from the online portion to the in car training. He made sure I understood what I needed to do and helped make the whole process stress free. You can tell they genuinely care about their students and want them to succeed.
       
-      I highly recommend this driving school to anyone who is preparing for their road test. If you get a chance to learn with Suzan, you’re in great hands!
-  - name: "Alast Sadeghi"
+      I would definitely recommend this driving school to anyone looking for quality training and a positive learning experience. Thank you for all your help and support! Highly recommend! ❤️
+  - name: "Noriesa Ritual"
     rating: 5
-    date: "2026-06-07"
     comment: |
-      Suzan is an amazing driving instructor! She is patient, encouraging, and does a great job of building confidence in her students. She provides many helpful tips and techniques that not only prepare you for your road test but also help you become a safe and strong driver overall. She made sure I was familiar with the routes and road conditions that I could encounter during my road exam, while also exposing me to a wide range of driving environments.
+      I'm  extremely  happy with my driving  experience at City Driving School LTD. I just passed  my roadtest  on first attempt, this was all because  of my amazing  instructor Paaji Navdeep. He was very calm and helped me to build my confidence as I'm  getting  nervous  behind  the wheel.
+      I highly  recommend  this driving  school  to anyone  who is preparing  their roadtest.  Look for Paaji Navdeep, you'll  be in good hands.
+      Thank you for such a great experience.
+  - name: "Alyssa Gervacio"
+    rating: 5
+    comment: |
+      I just passed my Class 5 road test, and I have no words other than appreciation and tremendous admiration for City Driving School, especially my instructor, Navdeep.
+      
+      I started with absolutely no driving experience, and Navdeep helped me build the confidence, knowledge, and skills I needed to become a safe and capable driver. He taught me the realities of driving on the road and prepared me not just to pass the road test, but to be a better driver overall.
+      
+      Navdeep was patient, knowledgeable, and genuinely invested in my success. I'll admit he seemed a little intimidating at first, but I quickly realized that his high standards pushed me to work harder and improve. Looking back, that was exactly what I needed to build my confidence behind the wheel.
+      
+      As a full-time working professional, I also appreciated how considerate and flexible he was with my schedule, which made it much easier to fit lessons into my routine.
+      
+      Passing my road test today is a milestone I'm incredibly proud of, and Navdeep played a huge role in helping me achieve it. I highly recommend City Driving School and Navdeep to anyone looking for an excellent driving instructor.
+      
+      Thank you, Navdeep! I couldn't have done it without your guidance and support. 🚗🎉
 ---

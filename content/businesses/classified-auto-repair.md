@@ -6,7 +6,7 @@ subcategory: "mechanics"
 neighborhood: "Mill Woods"
 address: "3215 92 St NW, Edmonton, AB T6N 1B9"
 rating: 4.6
-review_count: 168
+review_count: 164
 tier: "featured"
 phone: "(780) 432-5656"
 website: "https://www.classifiedautorepair.ca/"
@@ -14,12 +14,6 @@ google_maps: "https://maps.google.com/?cid=13576982239631477047&g_mp=Cidnb29nbGU
 photos:
   - "/images/businesses/classified-auto-repair.jpg"
 reviews:
-  - name: "Sanjaya Dassanayake"
-    rating: 5
-    comment: |
-      Ashoka provided top-notch service for my vehicle repairs. He was quick, thorough, and explained everything clearly. The quality of work was excellent, and the pricing was fair.
-      
-      I highly recommend him for anyone in need of reliable and professional automotive repairs!
   - name: "Susan Yau"
     rating: 5
     comment: |
@@ -36,20 +30,26 @@ reviews:
       #oil change;tire change etc..
       
       Prices are unbeatable for service in comparison to other reputed shops in the city. It comes with great quality and fast service. He's a nice polite guy. He diagnoses any issues & explains to the customer free of charge before starts repair.
-  - name: "I.D NIS"
+  - name: "Sanjaya Dassanayake"
     rating: 5
     comment: |
-      These guys did some major repairs of my vehicle ( replace the transmission etc) got the  best price, very punctual, best workmanship.. thank you
+      Ashoka provided top-notch service for my vehicle repairs. He was quick, thorough, and explained everything clearly. The quality of work was excellent, and the pricing was fair.
+      
+      I highly recommend him for anyone in need of reliable and professional automotive repairs!
   - name: "West Harvest Farm Ltd"
     rating: 5
     comment: |
       First time I visited Ashok’s shop and he gave me a massive service for fixing my brand new vehicle’s bed cover and it gives a good look now. I will visit him again. Excellent customer service
+  - name: "PULASTHI ARMARASEKARA"
+    rating: 5
+    comment: |
+      I recently visited 'Classified Auto Repair' for some repairs, and I could be happier with the service. The staff was friendly, professional, and really knew their stuff. The prices were very reasonable, and they provided a detailed explanation of the work that needed to be done. I was also impressed with how quickly they responded to my inquiries and how efficiently they completed the job. My vehicle is running smoothly again, and I’ll definitely be returning here for any future needs. Highly recommend!
 hours:
   monday: "9:00 AM–6:00 PM"
   tuesday: "9:00 AM–6:00 PM"
   wednesday: "9:00 AM–6:00 PM"
   thursday: "9:00 AM–6:00 PM"
   friday: "9:00 AM–6:00 PM"
-  saturday: "9:30 AM–3:00 PM"
+  saturday: "9:00 AM–4:00 PM"
   sunday: "Closed"
 ---

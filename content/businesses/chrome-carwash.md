@@ -24,32 +24,32 @@ photos:
   - "/photos/chrome-carwash-g1.jpg"
   - "/photos/chrome-carwash-g2.jpg"
 rating: 4.4
-review_count: 194
+review_count: 198
 amenities: []
 tags: ["edmonton", "car-wash"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Connie Bilodeau-Duggan"
+  - name: "Chris Redhead"
     rating: 5
-    date: "2026-03-07"
     comment: |
-      This was the cleanest car wash I have been to in a long time. They have a nice time left display in each bay. Love this!!
-  - name: "Prashil Maharaj"
-    rating: 5
-    date: "2026-02-09"
+      Great Alberta car wash! Inside, warm stalls with partitions. Good pricing, great equipment.
+  - name: "M. Fox"
+    rating: 3
     comment: |
-      I brought my Tesla to this self-serve car wash and was really impressed. The equipment was in great shape, the place was clean, and the staff were very friendly and helpful. The car turned out great. Highly recommend.
+      Tap to pay was handy, but need cell to scan QR CODE to get receipt.
+  - name: "Elgando"
+    rating: 3
+    comment: |
+      Wash ok. Bathroom ok. Wash hose tough to manipulate, roof swivel super tight, pressure good, soap good, payment system meh, there's 2 stop buttons so pick the right one or clock keeps ticking.
   - name: "Brad Christensen"
     rating: 5
-    date: "2017-12-15"
     comment: |
       Bright clean and spacious. I'm happy to wash here any time.
       
       They have an under carriage wash as the you come in, the option to use a credit card in the stall and this was offers the soft horse hair brushes unread of the stuff plastic bristles found at the big orange chain.
-  - name: "Bozko"
+  - name: "Prashil Maharaj"
     rating: 5
-    date: "2017-06-25"
     comment: |
-      Always clean and attendant on hand to help out . They have the vending machines with lots of car wash needs
+      I brought my Tesla to this self-serve car wash and was really impressed. The equipment was in great shape, the place was clean, and the staff were very friendly and helpful. The car turned out great. Highly recommend.
 ---

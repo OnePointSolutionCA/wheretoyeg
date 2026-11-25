@@ -23,7 +23,7 @@ hours:
 photos:
   - "/photos/churchs-texas-chicken-castle-downs-g1.jpg"
 rating: 4.7
-review_count: 2843
+review_count: 2874
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -35,34 +35,26 @@ tags: ["edmonton", "fried-chicken"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Nik"
+  - name: "SKINNS COSMETICS"
     rating: 5
-    date: "2026-02-12"
     comment: |
-      ⭐️First Time Visit- Consider Me Converted⭐️
-      Tried church’s chicken and I am convinced they’re running some kind of delicious poultry sorcery. The chicken was so crispy it practically announced itself before I took a bite, and the inside was juicier than I thought legally possible.
-  - name: "Pat Diep"
+      Love this location! The food was fresh and delicious, and the customer service was amazing! A special shoutout to Tamsill, who was incredibly friendly, helpful, and welcoming. He went above and beyond to make sure we had a great experience. You can tell he genuinely cares about his customers and takes pride in his work. Employees like him truly make a difference! Definitely coming back!
+  - name: "Dani Boyle"
+    rating: 1
+    comment: |
+      Unfortunately Churches has gone down hill. Way down hill, to the bottom! Ordered 2 sliders, they were just broken up flavorless dry chicken fingers put on a small bun with mayo and pickles. Fries taste like they are fried in the same vat as the chicken. Gravy tasted and looked like it came from a can. Chicken batter is flavorless. We won't be back.
+  - name: "murtaza ali"
     rating: 5
-    date: "2026-04-03"
     comment: |
-      Had such a great experience at Church’s Chicken on 127 st. thanks to the amazing service!
+      "I recently visited Church's Texas Chicken and was very pleased with the service, particularly from Ayub Khan. He was welcoming, professional, and attentive from the moment I arrived. My order was prepared quickly and accurately, and he handled everything with a positive attitude and genuine care for customers. It's clear he takes pride in his work. I would happily return and highly recommend this location. Thank you, Ayub, for the excellent service!"
+  - name: "AVIKASHPREET SINGH"
+    rating: 5
+    comment: |
+      ⭐⭐⭐⭐⭐
       
-      Susan was incredibly friendly, patient, and welcoming from the moment I walked in. She took the time to answer my questions, made great recommendations, and made sure my order was exactly right. You can really tell they care about giving customers a good experience.
-      
-      It’s not just about good food—it’s the people who make you want to come back, and this server definitely did that. Huge shoutout for the excellent service 👏
-  - name: "aize t"
+      Great food and even better service! Seerat was super friendly, quick, and always had a smile on her face. Not sure what was better—the crispy chicken or the customer service 😄. She definitely made the visit more enjoyable. Give her a raise before someone else steals her! 😂
+  - name: "Kadzabeth Sellu"
     rating: 5
-    date: "2026-06-16"
     comment: |
-      in the past, i havent had astounding experiences with churches chicken but this location changed EVERYTHING. when i walked in, i was unsure of what to get, but the cashier working there (her name was eira i think) she gave me amazing recommendations and truly made me like the food. the atmosphere of this location is also spectacular i will be coming back
-  - name: "Roman Luzanac"
-    rating: 5
-    date: "2026-04-13"
-    comment: |
-      So all the KFC's on the northside suck. Chicken is always dry, fries are old n stale ect, with one big exception..i wont name which KFC that is, but on this Friday I decided to order from Church's instead .and OMG!!!!, I can't say that their chicken batter is better than KFC's (the one good one), but all the Chicken pieces i got with my 8 meal were HUGE and Juicy,, and fresh, honestly delicious, and their Gravy is 1000% better than KFC, and the fries they had to with it were sooo good, fresh hot, and made to order, this is probly my new favortite fried chicken place, amazing food, good job guys. I would say 9.5/10, the only reason its not a 10 is because the jalapeno poppers...its seamed like there was only cream cheese and batter, barely and actual peppers in them, but thats a small issue, the chicken itself, it takes you to church...overall, awesome restaurant
-  - name: "Nina"
-    rating: 5
-    date: "2026-04-07"
-    comment: |
-      I placed an order for take out and was more than happy with my food & service. The chicken and biscuits were super fresh & delicious, I highly recommend them! I also received amazing service by Susan. I will definitely be visiting again & I hope to be served be her again.
+      Susan is an amazing worker! She was so patient and communicative with us as we ordered and waited for our food. She is a very hard worker, handling the food and packaging by herself this early afternoon. She deserves a raise asap!
 ---
