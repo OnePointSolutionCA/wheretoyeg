@@ -24,10 +24,13 @@ hours:
   saturday: "Closed"
   sunday: "Closed"
 photos:
+  - "/photos/dent-clinic-sherwood-park-unit-160.jpg"
   - "/photos/dent-clinic-sherwood-park-1.jpg"
   - "/photos/dent-clinic-sherwood-park-2.jpg"
   - "/photos/dent-clinic-sherwood-park-3.jpg"
   - "/photos/dent-clinic-sherwood-park-4.jpg"
+photo_alts:
+  - "Full Service Automotive and Dent Clinic storefront, Unit 160, 167 Provincial Ave, Sherwood Park"
 rating: 4.9
 review_count: 203
 price_range: "$$"

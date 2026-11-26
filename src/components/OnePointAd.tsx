@@ -114,7 +114,7 @@ function BannerAd({ ad, href, onClick }: { ad: Advertiser; href: string; onClick
     >
       <div className="grid sm:grid-cols-[minmax(0,5fr)_minmax(0,7fr)]">
         <div className="relative aspect-[3/2] sm:aspect-auto sm:min-h-[280px]">
-          <Image src={ad.photo.src} alt={ad.photo.alt} fill sizes="(min-width: 1024px) 480px, (min-width: 640px) 42vw, 100vw" className="object-cover" />
+          <Image src={ad.photo.src} alt={ad.photo.alt} style={ad.photo.position ? { objectPosition: ad.photo.position } : undefined} fill sizes="(min-width: 1024px) 480px, (min-width: 640px) 42vw, 100vw" className="object-cover" />
           <span className="absolute left-3 top-3 rounded-full bg-white/90 px-2.5 py-1 text-[10px] font-bold uppercase tracking-wider text-slate-600 shadow-sm">
             Sponsored
           </span>
@@ -141,7 +141,7 @@ function SidebarAd({ ad, href, onClick }: { ad: Advertiser; href: string; onClic
       className="overflow-hidden rounded-2xl bg-white shadow-card ring-1 ring-line"
     >
       <div className="relative aspect-[3/2]">
-        <Image src={ad.photo.src} alt={ad.photo.alt} fill sizes="(min-width: 1024px) 340px, 100vw" className="object-cover" />
+        <Image src={ad.photo.src} alt={ad.photo.alt} style={ad.photo.position ? { objectPosition: ad.photo.position } : undefined} fill sizes="(min-width: 1024px) 340px, 100vw" className="object-cover" />
         <span className="absolute left-3 top-3 rounded-full bg-white/90 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider text-slate-600 shadow-sm">
           Ad
         </span>

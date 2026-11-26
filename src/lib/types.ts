@@ -43,6 +43,8 @@ export type Business = {
   hours: Hours;
   season?: Season;
   photos: string[];
+  /** Optional alt text per photo (same order as photos); falls back to the generated alt. */
+  photo_alts?: string[];
   rating: number;
   review_count: number;
   price_range: "$" | "$$" | "$$$" | "$$$$";

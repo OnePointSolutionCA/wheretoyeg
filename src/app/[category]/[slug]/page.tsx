@@ -484,7 +484,7 @@ function BusinessView({ business: b, category: cat }: { business: ReturnType<typ
 
       {/* GALLERY */}
       <section className="container-page mt-6 sm:mt-8">
-        <BusinessGallery photos={b.photos} name={b.name} logo={b.logo} categoryName={cat.name} category={b.category} altBase={`${b.name}, ${type} in ${place}`} />
+        <BusinessGallery photos={b.photos} name={b.name} logo={b.logo} categoryName={cat.name} category={b.category} altBase={`${b.name}, ${type} in ${place}`} alts={b.photo_alts} />
       </section>
 
       {/* BODY */}

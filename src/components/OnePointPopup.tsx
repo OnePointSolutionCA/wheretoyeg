@@ -59,7 +59,7 @@ export function OnePointPopup() {
       <style>{`@keyframes popIn{from{opacity:0;transform:translateY(12px) scale(.98)}to{opacity:1;transform:none}}`}</style>
       <div className="relative overflow-hidden rounded-2xl bg-white shadow-2xl ring-1 ring-black/5">
         <div className="relative aspect-[5/2] sm:aspect-[16/9]">
-          <Image src={ad.photo.src} alt={ad.photo.alt} fill loading="eager" sizes="(min-width: 640px) 360px, 100vw" className="object-cover" />
+          <Image src={ad.photo.src} alt={ad.photo.alt} style={ad.photo.position ? { objectPosition: ad.photo.position } : undefined} fill loading="eager" sizes="(min-width: 640px) 360px, 100vw" className="object-cover" />
           <span className="absolute left-3 top-3 rounded-full bg-white/90 px-2 py-0.5 text-[10px] font-bold uppercase tracking-wider text-slate-600 shadow-sm">
             Sponsored
           </span>

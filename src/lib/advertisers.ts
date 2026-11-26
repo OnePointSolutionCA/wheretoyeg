@@ -28,7 +28,7 @@ export type Advertiser = {
   /** Rendered logo height in px; square or tall marks need more than wide wordmarks. */
   logoHeightPx: number;
   /** Real photo from the sponsor's own site, 3:2, in /public/ads. */
-  photo: { src: string; alt: string };
+  photo: { src: string; alt: string; /** CSS object-position focus when an ad shape crops the photo (default center). */ position?: string };
   /** Small label above the line, e.g. what and where. */
   kicker: string;
   /** The one short line. No dashes, no promised results. */
@@ -146,7 +146,7 @@ const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
     logoSize: [440, 110],
     logoAlt: "Dent Clinic",
     logoHeightPx: 30,
-    photo: { src: "/ads/dentclinic.webp", alt: "Front desk and waiting area at Dent Clinic Sherwood Park" },
+    photo: { src: "/ads/dentclinic.webp", alt: "Full Service Automotive and Dent Clinic storefront sign at Unit 160, 167 Provincial Ave, Sherwood Park", position: "30% 50%" },
     kicker: "Dent repair in Sherwood Park",
     line: "Paintless dent and hail repair, with free estimates.",
     cta: { label: "Get a free estimate", href: "https://www.dentclinic.com/service-locations/dent-repair-sherwood-park-and-edmonton-dent-clinic/" },
@@ -162,7 +162,7 @@ const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
     logoSize: [251, 260],
     logoAlt: "Full Service Automotive",
     logoHeightPx: 64,
-    photo: { src: "/ads/fsa.webp", alt: "Front counter and waiting area at Unit 160, 167 Provincial Avenue in Sherwood Park" },
+    photo: { src: "/ads/fsa.webp", alt: "Full Service Automotive and Dent Clinic storefront sign at Unit 160, 167 Provincial Ave, Sherwood Park", position: "25% 50%" },
     kicker: "Auto repair in Sherwood Park",
     line: "Maintenance, brakes, tires and repairs, with a clear estimate before any work.",
     cta: { label: "Book a visit", href: "https://fullserviceauto.ca/contact/" },

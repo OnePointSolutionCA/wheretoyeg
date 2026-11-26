@@ -71,7 +71,7 @@ function PartnerCard({ id }: { id: AdvertiserId }) {
         className="group flex h-full overflow-hidden rounded-2xl bg-white shadow-card ring-1 ring-line transition hover:-translate-y-0.5 hover:shadow-md"
       >
         <div className="relative w-24 shrink-0 sm:w-32">
-          <Image src={ad.photo.src} alt={ad.photo.alt} fill sizes="128px" className="object-cover" />
+          <Image src={ad.photo.src} alt={ad.photo.alt} style={ad.photo.position ? { objectPosition: ad.photo.position } : undefined} fill sizes="128px" className="object-cover" />
         </div>
         <div className="flex min-w-0 flex-1 flex-col p-4" style={{ backgroundColor: ad.tint }}>
           {/* eslint-disable-next-line @next/next/no-img-element */}
