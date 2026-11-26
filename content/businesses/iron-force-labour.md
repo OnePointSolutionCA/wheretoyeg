@@ -6,12 +6,12 @@ subcategory: "staffing"
 tier: "premium"
 pinned: true
 logo: "/logos/iron-force-labour.png"
-description: "Family run construction staffing and labour supply agency serving Edmonton and Western Canada, run by Manuel, Nico and Simon Mora. They supply general labourers, usually the same day or next day, and skilled trades such as carpenters, equipment operators and ironworkers in 1 to 3 days. Workers are WCB covered. Contractors can request crews by phone or online, and workers can apply on their website. Service area business, no walk in office."
+description: "Family run construction staffing and labour supply agency serving Edmonton and Western Canada, run by Manuel, Nico and Simon Mora. They supply general labourers, usually the same day or next day, and skilled trades such as carpenters, equipment operators and ironworkers in 1 to 3 days. Workers are WCB covered. They offer temporary crews, temp to hire and permanent placement, and also supply restoration and demolition crews. Contractors can call, text or WhatsApp, or request workers online, and workers can apply on their website. Service area business, no walk in office."
 address: "Edmonton, AB"
 neighborhood: "Edmonton"
 phone: "(780) 238-8202"
 email: "info@ironforcelabour.com"
-website: "https://ironforcelabour.com/"
+website: "https://www.ironforcelabour.com/"
 google_maps_url: "https://maps.google.com/?cid=9756767647305294320"
 hours:
   monday: "Open 24 hours"
@@ -37,6 +37,6 @@ amenities:
   - "Edmonton and Western Canada"
 tags: ["edmonton", "staffing", "construction labour", "labour agency", "construction staffing"]
 featured: true
-active: false
+active: true
 date_listed: "2026-11-23"
 ---

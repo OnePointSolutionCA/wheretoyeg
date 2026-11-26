@@ -24,5 +24,6 @@ subcategories:
   - { name: "Body Shops", slug: "body-shops" }
   - { name: "Car Washes", slug: "car-wash" }
   - { name: "Windshield & Auto Glass", slug: "windshield" }
+  - { name: "Towing & Roadside", slug: "towing" }
 ---
 A good mechanic is worth driving across town for. Compare general repair shops, collision centres, tire and glass shops, and specialists for European and Japanese cars, all ranked by Google rating and review count. Read the reviews, then call ahead for a quote.

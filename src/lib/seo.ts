@@ -164,7 +164,7 @@ const SUB_TYPE: Record<string, Record<string, string>> = {
   "auto-repair": {
     mechanics: "auto mechanic", collision: "collision repair shop", tires: "tire shop", transmission: "transmission shop",
     "oil-change": "oil change shop", detailing: "auto detailing shop", "european-cars": "European auto repair shop",
-    "japanese-cars": "Japanese auto repair shop", "body-shops": "auto body shop", "car-wash": "car wash", windshield: "auto glass shop",
+    "japanese-cars": "Japanese auto repair shop", "body-shops": "auto body shop", "car-wash": "car wash", windshield: "auto glass shop", towing: "towing company",
   },
   bakeries: { "custom-cakes": "cake shop", cupcakes: "cupcake shop", "gluten-free": "gluten free bakery", "halal-bakeries": "halal bakery", "wedding-cakes": "wedding cake bakery", "middle-eastern": "Middle Eastern bakery" },
   "cafes-coffee-shops": {
@@ -208,7 +208,7 @@ const SUB_TYPE: Record<string, Record<string, string>> = {
     childcare: "daycare", "driving-school": "driving school", "pet-grooming": "pet groomer", mortgage: "mortgage broker",
     printing: "print shop", tutoring: "tutoring service", "security-services": "security company",
     "first-aid-training": "first aid and CPR training centre", "clothing-gifts": "clothing and gift shop",
-    taxi: "taxi company", "property-management": "property management company", "phone-repair": "phone and computer repair shop",
+    taxi: "taxi company", "property-management": "property management company", "phone-repair": "phone and computer repair shop", staffing: "staffing agency",
   },
   "spas-esthetics": {
     facials: "facial and skin care studio", hydrafacial: "HydraFacial studio", waxing: "waxing studio", "laser-hair-removal": "laser hair removal clinic",
@@ -301,7 +301,7 @@ export const SUB_HEADING: Record<string, Record<string, string>> = {
     "driving-school": "Driving Schools", "pet-grooming": "Pet Groomers", mortgage: "Mortgage Brokers", printing: "Print Shops", tutoring: "Tutors",
     "security-services": "Security Companies", "first-aid-training": "First Aid & CPR Courses",
     "clothing-gifts": "Clothing & Gift Shops", taxi: "Taxi Companies",
-    "property-management": "Property Managers", "phone-repair": "Phone & Computer Repair Shops",
+    "property-management": "Property Managers", "phone-repair": "Phone & Computer Repair Shops", staffing: "Staffing Agencies",
   },
   photographers: {
     wedding: "Wedding Photographers", family: "Family Photographers", brand: "Brand & Product Photographers", events: "Event Photographers",
@@ -326,7 +326,7 @@ export const SUB_HEADING: Record<string, Record<string, string>> = {
   "auto-repair": {
     mechanics: "Mechanics", collision: "Collision Repair Shops", tires: "Tire Shops", transmission: "Transmission Shops", "oil-change": "Oil Change Shops",
     detailing: "Auto Detailing Shops", "european-cars": "European Car Repair Shops", "japanese-cars": "Japanese Car Repair Shops",
-    "body-shops": "Auto Body Shops", "car-wash": "Car Washes", windshield: "Windshield & Auto Glass Shops",
+    "body-shops": "Auto Body Shops", "car-wash": "Car Washes", windshield: "Windshield & Auto Glass Shops", towing: "Towing & Roadside Companies",
   },
   medical: {
     "walk-in-clinics": "Walk in Clinics", "eye-care": "Eye Care Clinics", "hearing-care": "Hearing Clinics", physiotherapy: "Physiotherapy Clinics",

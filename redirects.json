@@ -2195,16 +2195,6 @@
     "permanent": true
   },
   {
-    "source": "/professional-services/iron-force-labour",
-    "destination": "/professional-services",
-    "permanent": true
-  },
-  {
-    "source": "/professional-services/staffing",
-    "destination": "/professional-services",
-    "permanent": true
-  },
-  {
     "source": "/cleaning-services/self-storage",
     "destination": "/moving-storage/self-storage",
     "statusCode": 301

@@ -6,7 +6,17 @@
 
 import { edmontonDay } from "./daily";
 
-export type AdvertiserId = "onepoint" | "fixauto" | "hearing" | "flowers" | "sanctuary" | "beaumaris" | "dentclinic";
+export type AdvertiserId =
+  | "onepoint"
+  | "fixauto"
+  | "hearing"
+  | "flowers"
+  | "sanctuary"
+  | "beaumaris"
+  | "dentclinic"
+  | "fsa"
+  | "ironforce"
+  | "bora";
 
 export type Advertiser = {
   id: AdvertiserId;
@@ -145,6 +155,54 @@ const ADVERTISERS: Record<AdvertiserId, Advertiser> = {
     listings: ["dent-clinic-sherwood-park"],
     searchTerms: "dent repair dents paintless hail damage door ding ding",
   },
+  fsa: {
+    id: "fsa",
+    name: "Full Service Automotive",
+    logoSrc: "/logos/full-service-automotive-sm.webp",
+    logoSize: [251, 260],
+    logoAlt: "Full Service Automotive",
+    logoHeightPx: 64,
+    photo: { src: "/ads/fsa.webp", alt: "Front counter and waiting area at Unit 160, 167 Provincial Avenue in Sherwood Park" },
+    kicker: "Auto repair in Sherwood Park",
+    line: "Maintenance, brakes, tires and repairs, with a clear estimate before any work.",
+    cta: { label: "Book a visit", href: "https://fullserviceauto.ca/contact/" },
+    color: "#04399C",
+    tint: "#EEF3FB",
+    listings: ["full-service-automotive"],
+    searchTerms: "mechanic mechanics auto car repair repairs oil change brake brakes alignment alignments suspension steering tire tires diagnostic diagnostics transmission drivetrain maintenance",
+  },
+  ironforce: {
+    id: "ironforce",
+    name: "Iron Force Labour",
+    logoSrc: "/logos/iron-force-labour-sm.webp",
+    logoSize: [440, 147],
+    logoAlt: "Iron Force Labour",
+    logoHeightPx: 40,
+    photo: { src: "/ads/ironforce.webp", alt: "Labourers digging a trench on a construction job site" },
+    kicker: "Construction staffing in Edmonton",
+    line: "General labour same day to next day, skilled trades in 1 to 3 days.",
+    cta: { label: "Request workers", href: "https://www.ironforcelabour.com/contact" },
+    color: "#12110D",
+    tint: "#FFF8DD",
+    listings: ["iron-force-labour"],
+    searchTerms: "staffing agency labour labor construction labourers workers temp agency trades crew",
+  },
+  bora: {
+    id: "bora",
+    name: "Bora Towing",
+    logoSrc: "/logos/bora-towing-sm.webp",
+    logoSize: [468, 200],
+    logoAlt: "Bora Towing",
+    logoHeightPx: 40,
+    photo: { src: "/ads/bora.webp", alt: "A Bora Towing flatbed truck moving a shed in Edmonton" },
+    kicker: "Towing in Edmonton since 2013",
+    line: "Flatbed towing, boosts, lockouts and fuel delivery across Edmonton and area.",
+    cta: { label: "Call or book a tow", href: "https://boratowing.com/" },
+    color: "#243B7E",
+    tint: "#EEF1F8",
+    listings: ["bora-towing"],
+    searchTerms: "towing tow truck trucks flatbed roadside boost lockout winch recovery scrap",
+  },
 };
 
 /** Listing slug → that sponsor's search words, for every listing that has an ad. */
@@ -165,6 +223,9 @@ export const HOMEPAGE_SPONSOR_LISTINGS: string[] = [
   "secret-sanctuary-retreat",
   "beaumaris-health-centre",
   "dent-clinic-sherwood-park",
+  "full-service-automotive",
+  "iron-force-labour",
+  "bora-towing",
 ];
 
 /** Listing slug → sponsor id, for tracking clicks on sponsor listings (e.g. the homepage Featured row). */
@@ -186,7 +247,18 @@ export const AD_PLACEMENTS = [
 export type AdPlacement = (typeof AD_PLACEMENTS)[number];
 
 /** Every sponsor, in rotation order. */
-export const ROTATION: AdvertiserId[] = ["onepoint", "fixauto", "hearing", "flowers", "sanctuary", "beaumaris", "dentclinic"];
+export const ROTATION: AdvertiserId[] = [
+  "onepoint",
+  "fixauto",
+  "hearing",
+  "flowers",
+  "sanctuary",
+  "beaumaris",
+  "dentclinic",
+  "fsa",
+  "ironforce",
+  "bora",
+];
 
 export function advertiser(id: AdvertiserId): Advertiser {
   return ADVERTISERS[id];
@@ -204,8 +276,10 @@ export function adHref(href: string, id: AdvertiserId, placement: string, medium
 
 /**
  * Pick which sponsor fits the current page.
- *   - A strong match wins: dents and hail → Dent Clinic, other auto repair → Fix Auto or Dent Clinic,
- *     chiro / physio / massage → Beaumaris,
+ *   - A strong match wins: towing and roadside → Bora Towing, dents and hail → Dent Clinic,
+ *     collision and body shops → Fix Auto or Dent Clinic, mechanics, tires, oil changes and the like →
+ *     Full Service Automotive or Fix Auto, other auto pages → one of the three auto sponsors,
+ *     staffing and labour → Iron Force, chiro / physio / massage → Beaumaris,
  *     hearing → Medicine Place Hearing, florists → Flowers YEG, glamping and retreats → Secret Sanctuary.
  *   - Every other page gets an even spread of all sponsors, reshuffled each day
  *     (the site rebuilds daily), so each sponsor shows across the whole site.
@@ -238,10 +312,17 @@ export function relevantAdvertiser(ctx: { category?: string; subcategory?: strin
   const hash = ctxHash(ctx);
   // Two sponsors in the same field share its pages: half the pages each, changing daily.
   const half = (a: AdvertiserId, b: AdvertiserId) => (Math.abs(hash + edmontonDay()) % 2 === 0 ? a : b);
+  if (/\b(towing|tow-trucks?|roadside|roadside-assistance)\b/.test(text)) return "bora";
   if (/\b(paintless|dents?|hail|door-dings?)\b/.test(text)) return "dentclinic";
-  if (ctx.category === "auto-repair" || /\b(auto|collision|body-shops?|tires?|mechanic)\b/.test(text)) {
-    return half("fixauto", "dentclinic");
+  if (/\b(collision|body-shops?|auto-body)\b/.test(text)) return half("fixauto", "dentclinic");
+  if (/\b(mechanics?|tires?|oil-change|transmission|european-cars|japanese-cars|windshield|brakes?|alignments?)\b/.test(text)) {
+    return half("fsa", "fixauto");
   }
+  if (ctx.category === "auto-repair" || /\bauto\b/.test(text)) {
+    const autos: AdvertiserId[] = ["fixauto", "dentclinic", "fsa"];
+    return autos[Math.abs(hash + edmontonDay()) % autos.length];
+  }
+  if (/\b(staffing|labour|labor|labourers?|construction-staffing|temp-agency)\b/.test(text)) return "ironforce";
   if (/\b(hearing|hearing-care|hearing-aids?|audiolog\w*|tinnitus)\b/.test(text)) return "hearing";
   if (/\b(florists?|flowers?|bouquets?|wedding-flowers)\b/.test(text)) return "flowers";
   if (/\b(glamping|camping|campgrounds?|retreats?|cabins?)\b/.test(text)) return "sanctuary";
