@@ -22,7 +22,7 @@ hours:
   sunday: "Closed"
 photos:
   - "/photos/co-op-pharmacy-riverside-g1.jpg"
-rating: 4.5
+rating: 4.3
 review_count: 15
 amenities:
   - "Wheelchair Accessible"
@@ -32,22 +32,18 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Illy Vno"
     rating: 5
-    date: "2026-03-17"
     comment: |
       Cassidy is very helpful and she does listens to your concerns  . I was with my former pharmacist for around 10 years , till I got a good service from Cassidy and decided to move all my family prescriptions with her .
-  - name: "Mary"
-    rating: 5
-    date: "2026-05-29"
+  - name: "GnR Boras"
+    rating: 3
     comment: |
-      It's always a great experience dealing with the staff at Riverside Co-op Pharmacy!
+      Nice to have a pharmacy so close to home, but we find this one extremely slow
   - name: "Beth Bronson"
     rating: 5
-    date: "2025-08-26"
     comment: |
       We needed an RX filled this evening and Cassidy was amazing. She was thorough and thoughtful. It felt like she went the extra mile confirming information and answering our extra questions.
   - name: "Valerie Bielenda (Valerie B)"
     rating: 5
-    date: "2025-02-02"
     comment: |
       I don’t give very many full 5 star reviews, but this pharmacy deserves it.
       We’ve been using the Co-Op pharmacy since we moved into the area just over a year ago. In that time, we’ve had some major health issue with complicated medications.
@@ -55,4 +51,8 @@ reviews:
       We highly recommend using this pharmacy and trusting their staff with your prescriptions.
       
       Thank you to the staff!
+  - name: "Mary"
+    rating: 5
+    comment: |
+      It's always a great experience dealing with the staff at Riverside Co-op Pharmacy!
 ---

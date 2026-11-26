@@ -24,7 +24,7 @@ photos:
   - "/photos/co-op-pharmacy-g1.jpg"
   - "/photos/co-op-pharmacy-g2.jpg"
 rating: 4.9
-review_count: 51
+review_count: 50
 amenities:
   - "Delivery"
   - "Wheelchair Accessible"
@@ -34,29 +34,30 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Rolund Peters"
     rating: 5
-    date: "2026-03-20"
     comment: |
       I am glad I transferred my medication needs to the CO-OP Pharmacy.  Adrian always greets me with a smile, indulges in conversation and has provided valuable information and recommendations.  He makes me feel like a human and not a number, which is so refreshing in today's world.  Keep up the great job.
-  - name: "Sneakerhead Justin"
+  - name: "Justin Joseph"
     rating: 5
-    date: "2026-05-07"
     comment: |
       One of the best pharmacies in Stony plain! Adrien is super friendly and knows his stuff.   He's also always willing to help if you have any questions!
       
       Highly recommend Co op pharmacy
-  - name: "Myrna Hills"
-    rating: 5
-    date: "2026-03-05"
-    comment: |
-      Adrian is the best pharmacist!  He’s very informative.  Super friendly.  And very helpful, whatever you may need.
-  - name: "Elaine Olson"
-    rating: 5
-    date: "2026-03-06"
-    comment: |
-      Adrian is such a pleasant man. He treats his customers like family. I can’t say enough good things about him.
   - name: "Peggy Namchuk"
     rating: 5
-    date: "2024-12-13"
     comment: |
       Excellent customer service! Andrew is extremely helpful whenever situations arise with insurance he goes above and beyond to get things figured out and settled. His is a true professional  and very caring about his clients and their health. Would very much recommend you go see Andrew to help you with all your medications.
+  - name: "Carol Gibson"
+    rating: 5
+    comment: |
+      Can’t say enough good about Andrew!  He cares!  It is so nice to feel that you are not just a number. Andrew always has a cheery greeting and he knows his stuff. He definitely deserves 5 stars. Thank you Andrew for being so helpful and pleasant.
+  - name: "Ally Behr"
+    rating: 5
+    comment: |
+      Andrew had been a fantastic addition to the co-op pharmacy team. Knowledgeable, understanding, and accommodating when prescription issues come up.
+      
+      We have had to see him more than normal due to some Dr issues as well as insurnace mix ups and he has helped us with a smile on his face each time we come in with a new problem!
+      
+      He always gives a great injection- painless
+      
+      Highly recommend co-op pharmacy and Andrew.
 ---

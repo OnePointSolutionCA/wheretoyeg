@@ -24,7 +24,7 @@ photos:
   - "/photos/cobs-bread-g1.jpg"
   - "/photos/cobs-bread-g2.jpg"
 rating: 4.5
-review_count: 205
+review_count: 211
 price_range: "$$"
 amenities:
   - "Takeout"
@@ -34,19 +34,28 @@ tags: ["edmonton", "pastries"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "ElbowManChris"
+    rating: 5
+    comment: |
+      Yahya just gave me a fantastic experience in store! I work in sales and his positive attitude and genuine want to know about my day etc was a really nice treat compared to what I am used to elsewhere. Service like this is why you shop here.
+  - name: "Mohammad Emamally"
+    rating: 5
+    comment: |
+      Super friendly and professional staffs. Asma and Amirah are so nice and welcoming. Some freshly made pastries served with a smile is the best way to start the day. highly recommended.
+  - name: "natalie wanner"
+    rating: 5
+    comment: |
+      We love this place. The people are so friendly and kind. Edwin has to be one of the nicest people in the service industry. This Cobbs also donates to schools which is just another reason they’re amazing.
   - name: "Marilyn S."
     rating: 5
-    date: "2026-07-27"
     comment: |
       The staff there was super friendly and I really enjoyed chatting with them while I shopped.  Whenever I had a question about ingredients one staff didn't just give me a bland answer.  Hed look it up on the site.  He even offered to print ingredients for me.  This will be my go-to Cobbs from now on😊
-  - name: "Luke H"
-    rating: 5
-    date: "2026-07-28"
+  - name: "Nathan Korownyk"
+    rating: 3
     comment: |
-      I'm a regular at St.Albert. The bread and products are always fresh and delicious. The staff are always wonderfully nice. Especially Rowena and Edwin who go out of their way to ensure you have a good visit.
-  - name: "Jay Aboughoushe"
-    rating: 5
-    date: "2026-02-11"
-    comment: |
-      COBS Bread never disappoints. The bread is always fresh, soft on the inside with that perfect crust, and the smell alone makes it impossible to leave with just one item. The staff are genuinely friendly and happy to help, which makes the whole experience even better. Whether it’s a classic loaf, a sweet treat, or something new to try, everything tastes homemade and high quality. Easily one of my go-to spots—I keep coming back for a reason.
+      The bread here is awesome as it always has been. But on my last visit I bought a Danish and six pumpkin scones. I knew it was a pumpkin Danish because that's what the label said. But after two bites I noticed there was a toonie sized dollop of pumpkin filling. It was so small. It was beyond ridiculous. Then when I got the pumpkin scones home I noticed there was almost no icing on the top. They still tasted okay.
+      
+      I'm not sure if this location is Under New Management but I have to say, things have sure changed in terms of the quality of the goodies.
+      
+      PS I won't downgrade my review but after I posted this I wondered if I was alone in my experience. The review right before me mentioned flies in the store. That was my experience as well. Things are not trending in the right direction here.... 📉⤵️
 ---

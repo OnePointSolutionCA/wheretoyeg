@@ -24,7 +24,7 @@ photos:
   - "/photos/cobs-bread-fort-saskatchewan-g1.jpg"
   - "/photos/cobs-bread-fort-saskatchewan-g2.jpg"
 rating: 4.6
-review_count: 80
+review_count: 82
 price_range: "$$"
 amenities:
   - "Takeout"
@@ -34,9 +34,16 @@ tags: ["edmonton", "pastries"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "France Trupp"
+    rating: 5
+    comment: |
+      I live in Fort Saskatchewan and went into Cobbs to use a coupon for a free loaf that I had received. The lady at the counter was so sweet and helpful choosing what loaf to get. I decided on the sourdough flax loaf and OMG it was delicious! I will definitely be returning. A huge thank you for the awesome free loaf and great customer service! You must go! 😊
+  - name: "Brendalee Cardinal"
+    rating: 1
+    comment: |
+      Today I went to Cob's Bread for the first time. The service was great but the products were definitely below any bakery's standards. I tried the Lemon Curd Cruffin and the Cinnamon Bun. They were both dryer than the desert. The Lemon Curd Cruffin was overdone to the point of burnt. Unfortunately now I have this gross burnt taste stuck in my mouth. Very disappointing. I will not be returning here again.
   - name: "Dennis Wenger"
     rating: 5
-    date: "2026-01-23"
     comment: |
       Their bakers start at midnight so we only get baked-today fresh bread. Their staff is friendly. Prices fair. At end of day, they donate the unsold stuff to the food bank.
       
@@ -47,23 +54,10 @@ reviews:
       If you’re buying day-old bread elsewhere, just admit you don’t even actually like bread and you just make lazy sandwiches because they’re easy.
   - name: "Marc D."
     rating: 5
-    date: "2021-03-30"
     comment: |
       Cobs is our go to bakery in the Fort for bread and other baked goods. Our kids love the high fibre bread, which has become the staple in our household. The marble rye is another one of our favourites, as is the sesame. Their cinnamon bread makes amazing french toast. The delicious chocolate croissants and cinnamon buns are a nice treat as well. Their hot dog buns are huge and probably meant more for a smokie. Everything is nice, fresh and made with quality ingredients. The staff is nice and personable. Their loaf reward program is a nice bonus as well as their calendar that has monthly coupons included in it.
-  - name: "JayAnthony"
-    rating: 4
-    date: "2025-05-01"
-    comment: |
-      I’ve been here 3 different time picked up 6 pack scones and my last experience was not up to standard. When I got home I opened up the box and found it looking very odd, small and slimy looking. when I went to break it in half it was very doughy, not cooked at all.
-  - name: "Shannon K"
+  - name: "Darryl McKinnon"
     rating: 5
-    date: "2021-08-25"
     comment: |
-      Came here for the first time. The bakery has tons of options for bread and treats. The employee was super helpful and knowledgeable about the product.
-      The sourdough buns were great, and the cinnamon buns were scrumptious. Will come back!!
-  - name: "Harmony Nelson"
-    rating: 5
-    date: "2026-05-28"
-    comment: |
-      This place is awesome, the baked goods are delicious and the employees are so kind and helpful!
+      Never had bread and rolls fresher !!! Just amazing. Amd i grew up on home made bread !! Service was amazing also. Lady there was TOP NOTCH !!!!
 ---

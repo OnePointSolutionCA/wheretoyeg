@@ -13,47 +13,40 @@ google_maps_url: "https://maps.google.com/?cid=9589336691940182509&g_mp=Cidnb29n
 latitude: 53.641864
 longitude: -113.627423
 hours:
-  monday: "6:00 AM–9:00 PM"
-  tuesday: "6:00 AM–9:00 PM"
-  wednesday: "6:00 AM–9:00 PM"
-  thursday: "6:00 AM–9:00 PM"
-  friday: "6:00 AM–9:00 PM"
+  monday: "6:00 AM–8:30 PM"
+  tuesday: "6:30 AM–8:30 PM"
+  wednesday: "6:00 AM–8:30 PM"
+  thursday: "6:30 AM–8:30 PM"
+  friday: "6:00 AM–8:30 PM"
   saturday: "8:00 AM–3:00 PM"
-  sunday: "8:00 AM–3:00 PM"
+  sunday: "8:30 AM–3:00 PM"
 photos: []
 rating: 4.9
-review_count: 233
+review_count: 253
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "pilates"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "June Mootoo"
+  - name: "Christina Wiwchar"
     rating: 5
-    date: "2026-06-12"
     comment: |
-      The instructors and front desk staff are amazing. Special shout out to Maya and the other beautiful front desk staff (sorry, I don't know your name). Both of you are so positive and smiling all the time. It makes my day every time I am there.The instructors are so wonderful especially Dana❤️Jemma and Gracyee. I am so happy that your ad showed up on my feed on Facebook. You all are amazing 🤩🤩🤩🤩🤩🤩
-  - name: "Adele Petrovic"
+      This studio from day 1 has been amazing with my Pilates journey. There’s always parking, the facility is clean and with a cute store, Pilates instructors are knowledgeable and offer a wide variety of classes with several daily options.
+  - name: "Emma Hewko"
     rating: 5
-    date: "2026-07-08"
     comment: |
-      I have been attending classes for a year and  a half now and my experience has been nothing but positive.  My body is strong and the team  here make it enjoyable, even when it hurts. They are knowledgeable and supportive, no matter where you are in your fitness journey (I started in my 50’s and completely out of shape). I highly recommend this studio.
-  - name: "Alexa Brodeur"
+      I really enjoy coming to Club Pilates! The instructors take the time to make sure that they are creating new and exciting classes each week. There is a variety among the different types of classes, depending on what you’re in the mood for or what will help you gain more strength and flexibility. I noticed that I have gained more strength and progressed over the months. I’ve been coming here.
+  - name: "Dorsa Amini"
     rating: 5
-    date: "2026-07-21"
     comment: |
-      Club Pilates is a beautiful and modern studio with great lighting and excellent equipment. They keep it very clean which is highly appreciated and the staff are very friendly and uplifting people. I was happily surprised to have such a great time! Even the intro class was a great, quick, full body workout. Totally worth a try!
-  - name: "Michelle Hawgood"
+      I had such a great experience at Club Pilates St. Albert with Kelly! She is so friendly, welcoming, and encouraging. She creates such a positive atmosphere and makes you feel comfortable and motivated throughout the class. I can’t wait to continue training with her and take more classes! Highly recommend! 💕
+  - name: "Julie Gagnon"
     rating: 5
-    date: "2026-08-08"
     comment: |
-      I participated in a 30-minute free class and so glad that I did. Kelly gave clear, precise instructions and made me feel so very comfortable. I have a number of health issues and she totally made me feel that I was in the right place. She showed how each move can be made to easily accommodate my needs and the needs of the others in the class. So, fun, easy, and accommodating for all exercise levels! Thank you Kelly!!
-  - name: "Rema Joyce Balaccua"
+      I did the intro class with Kelly in St. Albert, this was my first real experience with pilates and the reformer. I've been looking for better ways to take care of my body, outside of just weight training. Increasing my mobility, flexibility, posture, core strength and overall muscle endurance has been a priority. What better way than pilates!!! Kelly was fantastic!!! So nice, insightful, helpful and knowledgeable. She's great and I really enjoyed the environment at Club Pilates in St. Albert. It was welcoming. I signed up right after the intro session, I am looking forward to my first session.
+  - name: "Amber Medcalf"
     rating: 5
-    date: "2026-01-25"
     comment: |
-      I love this studio! The instructors are welcoming, knowledgeable, and motivating, always pushing me to feel challenged and accomplished while keeping classes engaging and enjoyable.
-      
-      The atmosphere is warm, positive, and inclusive, from the instructors to the members and reception. I always leave feeling stronger, refreshed, and genuinely happy to come back. I’m so grateful to have found this studio and highly recommend it!!
+      I am LOVING Club Pilates! I’m already feeling stronger and can actually feel the difference after just a short time. The whole vibe is so positive and welcoming, and Kelly has been AMAZING at making me feel right at home. She’s so friendly and encouraging.I feel like part of the Club Pilates family! I look forward to every class and leave feeling stronger, happier, and a little more sore.
 ---

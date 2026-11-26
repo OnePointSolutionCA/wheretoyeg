@@ -20,7 +20,7 @@ hours:
   sunday: "10:00 AM–3:00 PM"
 photos: ["/photos/coast-lunch-box-1.jpg", "/photos/coast-lunch-box-2.jpg", "/photos/coast-lunch-box-3.jpg"]
 rating: 4.5
-review_count: 20
+review_count: 19
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -30,11 +30,6 @@ tags: ["edmonton", "food-truck"]
 active: true
 date_listed: "2026-08-30"
 reviews:
-  - name: "Ailynn Wong"
-    rating: 5
-    comment: |
-      Josh and his team brought the truck and catered for our daughter’s Sweet 16! Everyone from kids to seniors enjoyed the food. Food was made fresh to order and came out fast! Everything was so tasty. Awesome variety on the menu (large portions) and cost can’t be beat…super reasonable.
-      I definitely recommend their services for your next event. They won’t disappoint.
   - name: "Chewy"
     rating: 3
     comment: |
@@ -51,4 +46,16 @@ reviews:
     rating: 2
     comment: |
       Went to the food truck for this place, one word dry. The food looks a lot better than it tastes and the price doesn’t really help. We ordered the butter chicken sandwich and the wrap, both were really dry and not mix very well, will not be returning to this again this is a real big let down.
+  - name: "Ibrahim"
+    rating: 3
+    comment: |
+      Wife and I got the korean pork wrap and the chicken strips with fries.
+      
+      The fries were good, and the mayo and mustard were pretty tasty. The wrap was good too but i felt like it could have used some more of the hoisin glaze.
+      
+      The chicken strips were fine. They had a good flavour but they were pretty dry
+      
+      Also, the guy who was taking orders was also touching food with no visible indication that he washed his hands before doing so. Wasn't using gloves either, which isn't great.
+      
+      Overall, the food is good and not expensive, but don't expect anything that blows you away flavour-wise.
 ---

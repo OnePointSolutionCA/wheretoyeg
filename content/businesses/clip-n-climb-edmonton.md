@@ -24,22 +24,38 @@ photos:
   - "/photos/clip-n-climb-edmonton-g1.jpg"
   - "/photos/clip-n-climb-edmonton-g2.jpg"
 rating: 4.7
-review_count: 563
+review_count: 571
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "climbing"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Chloe Reitlo"
+    rating: 5
+    comment: |
+      I am absolutely horrified of heights but still had an amazing time. My boyfriend who is also scared of heights had a great time. We went late and we were the only ones! Tons of different climbs to do, super safe. Takes a bit of getting used to but by the end of the hour I was doing much better with heights. While we were there, my boyfriend tried the drop... I thought the video was too good to keep private so here is my favorite video ever. Please excuse my laughing. After there are some pictures of him doing great.
+  - name: "Prarthna Nagar"
+    rating: 5
+    comment: |
+      Excellent space, excellent staff! Chloe at the main desk was so sweet and helpful, so were the two people helping kids  on the slide. Loved our experience
+  - name: "Tadeu Ferreira dos Santos"
+    rating: 1
+    comment: |
+      I booked my daughter's birthday party for 14 children, but on the morning of the party (which was scheduled for 6:00 PM), I called to inform the staff that only 11 children would be attending.
+      
+      I understand that I did not provide more than 24 hours' notice. However, when I called to update the numbers, nobody explained that I would still be charged for all 14 children and that there would be no reimbursement for the 3 absent guests. I only found this out after the party.
+      
+      My disappointment is not so much with the policy itself, but with the lack of clear communication. Had I been informed during the phone call that no refund or credit would be provided, I would have appreciated the transparency.
+      
+      The kids enjoyed the party and had a good time, but the customer service regarding billing and attendance changes left me frustrated. I believe parents should be clearly advised of any charges that will still apply when attendance numbers are reduced.
   - name: "Ольга Даниленко"
     rating: 5
-    date: "2026-02-03"
     comment: |
       A great place for entertainment for both children and adults. Booking on the website is recommended. The girl gave a detailed briefing and everyone was cute. Everything was very safe. There are both easy levels and heavier ones.
       There are also rooms where you can spend your birthday. Great place! I recommend!
   - name: "Victor Law"
     rating: 5
-    date: "2025-09-14"
     comment: |
       We came here with family. While my kids have tried Climbing gyms in Calgary, none of them looks as cool as this place. Yes, they all offer some variation of arm strength movement to the top, this place added in a lot of cool features and glitz!
       
@@ -48,19 +64,4 @@ reviews:
       There's  also a Vertical Drop Slide which is an additional cost. We did not try it, but those that did seem to have a fun time.
       
       The best part is that Clip 'n Climb can be a fun place to go in the winter. It's great exercise and let's kids burn off some energy.
-  - name: "Dayna"
-    rating: 4
-    date: "2026-03-29"
-    comment: |
-      Excellent place for ages 5-15. Climbers need an adult climbing with them. Good time for all.
-  - name: "JF Paquette"
-    rating: 5
-    date: "2025-02-09"
-    comment: |
-      Great place for a birthday party, even parents can participate in the climbing. They have a few rooms to hold multiple parties at once. Was there today for my daughter's birthday party and her and her friends had a blast. Would definitely recommend.
-  - name: "Candace Birch"
-    rating: 5
-    date: "2025-11-22"
-    comment: |
-      Loved it! First time going, my 9 year old loved it. Great place to burn off energy. Good physical activity for all ages! Will definitely be going again!
 ---

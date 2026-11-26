@@ -16,19 +16,19 @@ google_maps_url: "https://maps.google.com/?cid=10009016818140660640"
 latitude: 53.5412064
 longitude: -113.4930083
 hours:
-  monday: "8:30 AM–7:00 PM"
-  tuesday: "8:30 AM–7:00 PM"
-  wednesday: "8:30 AM–7:00 PM"
-  thursday: "8:30 AM–7:00 PM"
-  friday: "8:30 AM–7:00 PM"
-  saturday: "8:30 AM–2:00 PM"
-  sunday: "8:30 AM–12:30 PM"
+  monday: "6:00 AM–5:30 PM"
+  tuesday: "6:00 AM–5:30 PM"
+  wednesday: "6:00 AM–5:30 PM"
+  thursday: "6:00 AM–5:30 PM"
+  friday: "6:00 AM–5:30 PM"
+  saturday: "6:30 AM–12:00 PM"
+  sunday: "6:30 AM–12:00 PM"
 photos:
   - "/photos/coast2coast-first-aid-cpr-edmonton-g1.jpg"
   - "/photos/coast2coast-first-aid-cpr-edmonton-g2.jpg"
   - "/photos/coast2coast-first-aid-cpr-edmonton-g3.jpg"
 rating: 4.8
-review_count: 278
+review_count: 293
 price_range: "$$"
 amenities:
   - "Red Cross Training Partner"
@@ -43,4 +43,33 @@ amenities:
 tags: ["first-aid", "first-aid-course", "cpr", "cpr-certification", "aed", "bls", "red-cross", "standard-first-aid", "first-aid-recertification", "workplace-first-aid", "child-care-first-aid", "emr", "group-training", "downtown-edmonton"]
 active: true
 date_listed: "2026-11-04"
+reviews:
+  - name: "Raya Rammal"
+    rating: 5
+    comment: |
+      I had a really good experience taking the BLS/ CPR course with Amandeep Kaur. She took her time explaining everything and made sure we understood the material. I really liked her teaching style because she kept asking questions and encouraging us to think out loud instead of just memorizing information.
+      
+      She also made sure everyone got enough time to practice the hands-on skills and knew how to perform them properly. She was patient, helpful, and made the whole experience enjoyable.
+      
+      I would definitely recommend!!
+  - name: "KarandeepSingh"
+    rating: 5
+    comment: |
+      I had my First Aid and CPR course with Amandeep Kaur. She is such a great instructor and helped me learn all the topics in details. She was also very funny and made everyone laugh. She supported everyone with the exam and any related questions. Overall, it was a great, fun and learning experience. Definitely recommend Coast2Coast! :)
+  - name: "Fawad Ahmad"
+    rating: 5
+    comment: |
+      I had a great experience with the First Aid and CPR course offered by Coast2Coast (Edmonton). The instructor, Amandeep Kaur, was knowledgeable, professional, and patient, and explained everything clearly. The hands-on practice made the training easy to understand and helped me feel more confident in handling emergency situations. The class was well-organized, engaging, and informative. I really appreciated Amandeep’s supportive attitude and willingness to answer questions. I highly recommend Amandeep Kaur to anyone looking to take First Aid and CPR training!
+  - name: "Iryna Fedorova"
+    rating: 5
+    comment: |
+      I would like to express my sincere gratitude to Amandeep Kaur for providing such an outstanding First Aid course. Amandeep is an exceptional instructor who explains every topic clearly, patiently, and professionally. She created a welcoming and supportive learning environment where everyone felt comfortable asking questions and participating.
+      
+      The course was well-organized, informative, and highly interactive. The practical exercises and real-life scenarios helped me build confidence and understand how to respond effectively in emergency situations.
+      
+      Thank you, Amandeep Kaur, for your dedication, professionalism, and passion for teaching. Your knowledge and positive attitude made this course both enjoyable and memorable. I highly recommend Amandeep to anyone looking for high-quality First Aid training.
+  - name: "farnia saba"
+    rating: 5
+    comment: |
+      I had a great experience taking the Child Care First Aid class with Amandeep Kaur as the instructor. She was knowledgeable, patient, and explained everything in a clear and easy-to-understand way. The class was engaging, informative, and gave me confidence in handling first-aid situations involving children. I really appreciated Amandeep’s professional and friendly teaching style. Highly recommended!
 ---

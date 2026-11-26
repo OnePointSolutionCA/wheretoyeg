@@ -24,39 +24,31 @@ photos:
   - "/photos/co-op-food-store-stony-plain-g1.jpg"
   - "/photos/co-op-food-store-stony-plain-g2.jpg"
 rating: 4.4
-review_count: 283
+review_count: 288
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "bulk-health"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Tiffany Belcourt"
-    rating: 5
-    date: "2026-07-26"
-    comment: |
-      Find great stuff you don't find anywhere else
-  - name: "TJ Suttie"
-    rating: 5
-    date: "2022-09-29"
-    comment: |
-      I love going to this neighborhood shop. The staff are extremely friendly, helpful with a lot of respect for the customers.  It has that wonderful small town feel as soon as you walk in. When they have sales; they are great sales.
-      They have wonderful meat products and that also carry many items which are produced locally.
-      If you stop by Stony Plain and need some groceries....stop by and support local. You will walk out feeling as if everyone knows you.
-      Another little gem in this Town.
-  - name: "Jen Boustead"
-    rating: 5
-    date: "2026-06-07"
-    comment: |
-      Such a cute store, great prices!!
-  - name: "Cassie Cat"
-    rating: 5
-    date: "2025-11-08"
-    comment: |
-      Love everyone there! Always great meat, and much more!!! Good prices to
-  - name: "Justin & Emily P."
+  - name: "Maghan Chartrand"
     rating: 4
-    date: "2023-09-25"
     comment: |
-      As locals in Stony Plain we try to shop here as much as we can to support. Unfortunately being a smaller store with a lot of big chain competition in Spruce Grove the stock here is often lacking (example there was no pineapple the other day). However, the staff are always really friendly and we love the small town vibe. Hopefully more people support local and the stock can increase.
+      The employees are super friendly! The customer service is phenomenal, and honestly the best I've experienced in a while. The prices are a little higher than other grocery stores but the cleanliness and service are worth it!
+  - name: "Patrick K"
+    rating: 3
+    comment: |
+      Store is in need of an overall refresh. Not modern and updated as competitor stores in the Stony Plain Area. The Deli/ meat slicer fella requires a much friendlier attitude or some time off,
+  - name: "Jessy"
+    rating: 5
+    comment: |
+      I love coop! Grew up with it back in nova Scotia until they took them all away! Came out here and was like yes!!! Coop still existed!
+  - name: "Connie Bilodeau-Duggan"
+    rating: 5
+    comment: |
+      Great prices and I love that I’m shopping local. Friendly cashiers.
+  - name: "Hazel Jacobs"
+    rating: 2
+    comment: |
+      Not  much choice and very expensive. Teller was very friendly though.
 ---

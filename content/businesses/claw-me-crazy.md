@@ -18,14 +18,14 @@ reviews:
     rating: 5
     comment: |
       Great place 100/10! Ruby was absolutely awesome and made it such a fun experience for all of us! DEFINITELY coming back, won lots of items 😁
-  - name: "Yejin Kim"
-    rating: 5
-    comment: |
-      The claw machines are so much fun, and it’s actually easy to win prizes! The staff is also incredibly friendly and welcoming. I’ll definitely be coming back again😆☺️
   - name: "Val Walwal"
     rating: 5
     comment: |
       We had so much fun! So easy to get prizes! We will come back for sure and theres free parking too!
+  - name: "Yejin Kim"
+    rating: 5
+    comment: |
+      The claw machines are so much fun, and it’s actually easy to win prizes! The staff is also incredibly friendly and welcoming. I’ll definitely be coming back again😆☺️
   - name: "Carleen Capistrano"
     rating: 5
     comment: |

@@ -23,8 +23,8 @@ photos:
   - "/photos/club-pilates-meadowlark-3.jpg"
   - "/photos/club-pilates-meadowlark-g2.jpg"
   - "/photos/club-pilates-meadowlark-g4.jpg"
-rating: 3.9
-review_count: 17
+rating: 4
+review_count: 18
 price_range: "$$"
 amenities:
   - "Class-Based"
@@ -33,6 +33,10 @@ amenities:
 tags: ["pilates", "reformer", "fitness", "west edmonton", "meadowlark"]
 active: true
 reviews:
+  - name: "Jen Teibe"
+    rating: 5
+    comment: |
+      Absolutely love this club! Pilates has been instrumental in gaining core strength, balance, resolving some injuries such as tennis elbow and stiff shoulder, as well sore hips and confidence boost.  The best part are the instructors (Nye totally rocks!) - they are passionate, knowledgeable, and it is obvious they care about the participants and enjoy what they are doing.  They don't just lead the class, they engage in the class and our lives.  We matter.   The club staff are so great  - friendly and fun and so supportive.   It is such a treat to attend class.  A little break from it all and a definite bright spot in the day and week!
   - name: "Chewy"
     rating: 4
     comment: |
@@ -49,8 +53,4 @@ reviews:
     rating: 5
     comment: |
       Been a member for a few months. Front end staff are awesome. Taken classes from different instructors, all really nice. All the classes are different which is great too.
-  - name: "Ush Chibbz"
-    rating: 1
-    comment: |
-      Me and my friend tried the intro class and it was great. So we decided to try a full class and purchased credits online the app. Unfortunately we weren’t able to go and had to cancel the class we booked with our one credit. I went to book a few days ago thinking that I can use me credit but it was gone. I called the front desk and all she said was credits are only good for a month. It didn’t say that anywhere. It’s a credit, money that I paid. You need to inform your clients of this policy or change it!
 ---

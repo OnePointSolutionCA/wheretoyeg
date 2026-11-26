@@ -30,19 +30,24 @@ tags: ["edmonton", "car-wash"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Geoff Zak"
+    rating: 5
+    comment: |
+      Quick and efficient car wash. Got the Premium wash and used the bug wash wand before going into the wash to eliminate most of the caked on remains from a road trip the day before. The scent from the pink/blue soap was pleasant.  The pressure is also visibly higher than the car wash close to our home.
+  - name: "Maksym Mykhailovskyi"
+    rating: 1
+    comment: |
+      This is a result of a car wash for 15 dollars. Very bad car wash, will never go back there again.
   - name: "Robert Phillips"
     rating: 4
-    date: "2025-08-20"
     comment: |
       This car wash does a pretty good job. You have to act fast with the bug removal spray, as it runs out of time pretty fast. There is always a bit of bug residue left on the front of my truck. But it is better than most auto washes I have used. The dryer doesn't get your car totally dry, but again it is better than most. I will use this car wash again.
   - name: "James Yang"
     rating: 4
-    date: "2025-09-18"
     comment: |
       This is a touch less car wash, you get a discount with fuel purchases ( I believe its 30L minimum, please confirm with the store).  The car wash does a great job washing the vehicle, they also provide bug  cleaner spray during the summer for free!
-  - name: "Robin Lefebvre"
-    rating: 5
-    date: "2026-03-20"
+  - name: "Joe Byers"
+    rating: 1
     comment: |
-      A nice atmosphere add nice clean store. The bonus is you can wash your vehicle
+      Car wash is always closed went in today and yet again it’s closed was told it’s -27 which is funny it -13. Paid for a car wash I’ve yet been able to use and they won’t refund
 ---

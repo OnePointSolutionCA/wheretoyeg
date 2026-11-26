@@ -24,7 +24,7 @@ photos:
   - "/photos/cobs-bread-spruce-grove-g1.jpg"
   - "/photos/cobs-bread-spruce-grove-g2.jpg"
 rating: 4.5
-review_count: 200
+review_count: 205
 price_range: "$$"
 amenities:
   - "Takeout"
@@ -34,27 +34,29 @@ tags: ["edmonton", "pastries"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Linda Tkachuk"
+    rating: 5
+    comment: |
+      Always delicious, never dry or burnt.  Excellent service, worth every penny to have their products. The reviewer who complained was wrong.
   - name: "Greg Parousia"
     rating: 5
-    date: "2022-12-30"
     comment: |
       How do I love thee, let me count the ways...
       Scones, cinnamon buns, fresh loaves of bread.
       Join us, it's delicious here.
       Just please make more garlic cheese pull aparts. 😁
-  - name: "Jyotjasleen Jasleen"
+  - name: "Nicole Richardson"
+    rating: 2
+    comment: |
+      We drove 20 minutes into town specifically to make it to Cobb’s before closing at 7:00 PM. We walked in at 6:59 PM and were told they were already closed. What made the experience especially frustrating was that there was still a large amount of bread and product on the shelves, and staff were actively throwing unsold bread into garbage bags while turning customers away at the door.
+      I completely understand businesses needing closing procedures, but if the posted closing time is 7:00 PM, customers arriving before then should still be served — especially for quick grab-and-go purchases.
+      If I knew my staff were turning customers away before closing while throwing out product, I would be extremely upset. Unfortunately, the whole experience left a pretty disappointing impression and did not feel like good customer service.
+  - name: "Dan Yang"
     rating: 5
-    date: "2026-05-12"
     comment: |
-      i love their spinach croissant.. 😋
-  - name: "Christine Schwabe"
-    rating: 4
-    date: "2026-08-02"
-    comment: |
-      Always nice bread friendly service they has samples today
-  - name: "Maghan Chartrand"
+      Staff were very friendly! Selection is great! Taste always consistently good!
+  - name: "David Delcourt"
     rating: 5
-    date: "2026-05-18"
     comment: |
-      Always a pleasure stopping at COBS bread. Friendly service and delicious food!!
+      A very nice bakery with prompt efficient friendly service. Thank you.
 ---

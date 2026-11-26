@@ -6,40 +6,40 @@ subcategory: "mechanics"
 neighborhood: "Beaumont"
 address: "4716 67 St, Beaumont, AB T4X 1Z9"
 rating: 5
-review_count: 12
+review_count: 13
 tier: "featured"
 phone: "(431) 996-2436"
 google_maps: "https://maps.google.com/?cid=13014136698051486995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 photos:
   - "/images/businesses/cmp-truck-and-diesel-repair-ltd.jpg"
 reviews:
-  - name: "Arash Dalio"
+  - name: "lucky khatkarh"
     rating: 5
     comment: |
-      My truck broke down unexpectedly and I called this mobile mechanic—he showed up quickly and got me back on the road in no time. Very professional, knowledgeable, and honest. Highly recommend!
+      The guy did the excellent job in a timely manner. Got the air line broken fixed in just an hour.Thank you.
   - name: "Peeta Dhadda"
     rating: 5
     comment: |
       Highly recommend fast response nd service. Too much knowledge. Best truck mechanic Edmonton area.🇨🇦
-  - name: "Pradeep Kajal"
+  - name: "Arash Dalio"
     rating: 5
     comment: |
-      Great service, Good price,  Have great knowledge of Truck Engines,Highly Recommend 👍🏻
-  - name: "William Sullivan"
+      My truck broke down unexpectedly and I called this mobile mechanic—he showed up quickly and got me back on the road in no time. Very professional, knowledgeable, and honest. Highly recommend!
+  - name: "Kirby"
     rating: 5
     comment: |
-      Came out as soon as possible, and got truck going ,much appreciated well worth it
-  - name: "Jijo Antony"
+      Mandeep was knowledgable and prompt.  He did the work one day sooner than planned.  His time estimate was accurate.  Will use him again.
+  - name: "Partap Sran"
     rating: 5
     comment: |
-      Brought my 2004 14.0L Series 60 in to CMP Truck & Diesel Ltd. for a complete overhead valve and injector adjustment. The technician, Mandeep, handled the job and did absolutely flawless work. He knows these heavy-duty diesel engines inside and out, especially when it comes to precision timing and setting the high-lift camshaft profiles accurately to factory specs.
-      The truck runs incredibly smooth, crisp, and pulls hard. If you want a shop that understands the tight technical realities of heavy industrial diesel work and delivers honest, top-tier service, go see Mandeep at CMP. Highly recommended!
+      Good service and on time service
+      Mandeep is very kind and helpful
 hours:
-  monday: "Closed"
-  tuesday: "Closed"
-  wednesday: "Closed"
-  thursday: "Closed"
-  friday: "Closed"
-  saturday: "Closed"
+  monday: "Open 24 hours"
+  tuesday: "Open 24 hours"
+  wednesday: "Open 24 hours"
+  thursday: "Open 24 hours"
+  friday: "Open 24 hours"
+  saturday: "Open 24 hours"
   sunday: "Open 24 hours"
 ---

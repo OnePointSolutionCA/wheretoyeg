@@ -24,7 +24,7 @@ photos:
   - "/photos/clean-getaway-car-wash-97-st-north-g1.jpg"
   - "/photos/clean-getaway-car-wash-97-st-north-g2.jpg"
 rating: 4.6
-review_count: 537
+review_count: 538
 amenities: []
 tags: ["edmonton", "car-wash"]
 active: true
