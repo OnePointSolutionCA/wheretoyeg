@@ -2,7 +2,7 @@
 name: "UrbanGloss Mobile Car Detailing - Leduc"
 slug: "urbangloss-mobile-car-detailing-leduc"
 category: "auto-repair"
-subcategory: "car-wash"
+subcategory: "detailing"
 tier: "featured"
 description: ""
 address: "3601 82 Ave Unit 215, Leduc, AB T9E 0H7"
@@ -26,7 +26,7 @@ photos:
 rating: 5.0
 review_count: 49
 amenities: []
-tags: ["edmonton", "car-wash"]
+tags: ["edmonton", "detailing"]
 active: true
 date_listed: "2026-10-02"
 reviews:

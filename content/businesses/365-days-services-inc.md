@@ -2,6 +2,7 @@
 name: "365 Days Services Inc."
 slug: "365-days-services-inc"
 category: "cleaning-services"
+subcategory: "commercial-cleaning"
 neighborhood: "Edmonton"
 address: "5177 55 Ave NW, Edmonton, AB T6B 3V1"
 rating: 4.9

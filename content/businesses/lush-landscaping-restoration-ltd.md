@@ -1,7 +1,7 @@
 ---
 name: "Lush Landscaping & Restoration Ltd."
 slug: "lush-landscaping-restoration-ltd"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "landscaping"
 tier: "featured"
 description: ""

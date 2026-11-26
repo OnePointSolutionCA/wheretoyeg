@@ -2,7 +2,7 @@
 name: "Treehouse Indoor Playground-South Edmonton"
 slug: "treehouse-indoor-playground-south-edmonton"
 category: "activities-fun"
-subcategory: "trampoline"
+subcategory: "indoor-playground"
 tier: "featured"
 description: ""
 address: "10181 34 Ave NW, Edmonton, AB T6E 6J8"
@@ -27,7 +27,7 @@ rating: 4.3
 review_count: 2013
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "trampoline"]
+tags: ["edmonton", "indoor-playground"]
 active: true
 date_listed: "2026-10-02"
 reviews:

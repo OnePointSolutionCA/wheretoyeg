@@ -1,7 +1,7 @@
 ---
 name: "Ecoway Movers Edmonton AB"
 slug: "ecoway-movers-edmonton-ab"
-category: "cleaning-services"
+category: "moving-storage"
 subcategory: "moving"
 tier: "featured"
 description: ""

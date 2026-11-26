@@ -2,7 +2,7 @@
 name: "TMC Auto Detailing (T.Mastercleaner)"
 slug: "tmc-auto-detailing-tmastercleaner"
 category: "auto-repair"
-subcategory: "car-wash"
+subcategory: "detailing"
 tier: "featured"
 description: ""
 address: "Rideau Crescent, Beaumont, AB T4X 1Z6"
@@ -17,7 +17,7 @@ photos:
 rating: 5.0
 review_count: 207
 amenities: []
-tags: ["edmonton", "car-wash"]
+tags: ["edmonton", "detailing"]
 active: true
 date_listed: "2026-10-02"
 reviews:

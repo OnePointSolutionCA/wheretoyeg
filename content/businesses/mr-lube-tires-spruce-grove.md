@@ -2,7 +2,7 @@
 name: "Mr. Lube + Tires"
 slug: "mr-lube-tires-spruce-grove"
 category: "auto-repair"
-subcategory: "mechanics"
+subcategory: "oil-change"
 tier: "featured"
 description: ""
 address: "700 McLeod Ave #200, Spruce Grove, AB T7X 0C8"
@@ -27,7 +27,7 @@ rating: 4.5
 review_count: 691
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "mechanics"]
+tags: ["edmonton", "oil-change"]
 active: true
 date_listed: "2026-10-02"
 reviews:

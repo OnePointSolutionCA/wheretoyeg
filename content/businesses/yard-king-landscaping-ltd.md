@@ -1,7 +1,7 @@
 ---
 name: "Yard King Landscaping LTD"
 slug: "yard-king-landscaping-ltd"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "landscaping"
 tier: "featured"
 description: ""

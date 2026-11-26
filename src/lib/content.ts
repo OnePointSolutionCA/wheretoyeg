@@ -142,6 +142,8 @@ const CATEGORY_NOUN: Record<string, string> = {
   plumbers: "home services company",
   electricians: "electrical and HVAC contractor",
   "cleaning-services": "cleaning service",
+  "moving-storage": "moving and storage company",
+  "home-services": "home services company",
   "grocery-markets": "grocery store",
   medical: "health clinic",
   photographers: "photography studio",

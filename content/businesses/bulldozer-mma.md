@@ -2,7 +2,7 @@
 name: "Bulldozer MMA"
 slug: "bulldozer-mma"
 category: "gyms-fitness"
-subcategory: "gyms"
+subcategory: "martial-arts"
 tier: "featured"
 description: ""
 address: "10404 99 Ave #128, Fort Saskatchewan, AB T8L 3W2"
@@ -16,7 +16,7 @@ photos:
 rating: 5.0
 review_count: 13
 amenities: []
-tags: ["edmonton", "gyms"]
+tags: ["edmonton", "martial-arts"]
 active: true
 date_listed: "2026-10-02"
 reviews:

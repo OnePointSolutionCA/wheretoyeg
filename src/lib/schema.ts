@@ -4,7 +4,7 @@ import { parseAddress } from "./place";
 import { parseDayHours } from "./openNow";
 
 /** Shops filed under a service category that have a more exact schema.org type. */
-const SUBCATEGORY_TYPE: Record<string, string> = { florists: "Florist", "clothing-gifts": "ClothingStore", "self-storage": "SelfStorage" };
+const SUBCATEGORY_TYPE: Record<string, string> = { florists: "Florist", "clothing-gifts": "ClothingStore", "self-storage": "SelfStorage", painting: "HousePainter" };
 
 const CATEGORY_TYPE: Record<string, string> = {
   restaurants: "Restaurant",
@@ -23,6 +23,8 @@ const CATEGORY_TYPE: Record<string, string> = {
   electricians: "Electrician",
   plumbers: "HomeAndConstructionBusiness",
   "cleaning-services": "HomeAndConstructionBusiness",
+  "moving-storage": "MovingCompany",
+  "home-services": "HomeAndConstructionBusiness",
   medical: "MedicalBusiness",
   "professional-services": "ProfessionalService",
   "activities-fun": "EntertainmentBusiness",

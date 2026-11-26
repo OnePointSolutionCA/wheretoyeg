@@ -2,7 +2,7 @@
 name: "Reflections Detailing"
 slug: "reflections-detailing"
 category: "auto-repair"
-subcategory: "car-wash"
+subcategory: "detailing"
 tier: "featured"
 description: ""
 address: "9904 103 St, Fort Saskatchewan, AB T8L 2C7"
@@ -27,7 +27,7 @@ rating: 5.0
 review_count: 42
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "car-wash"]
+tags: ["edmonton", "detailing"]
 active: true
 date_listed: "2026-10-02"
 reviews:

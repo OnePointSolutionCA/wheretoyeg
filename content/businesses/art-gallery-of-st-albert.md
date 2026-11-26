@@ -2,7 +2,7 @@
 name: "Art Gallery of St. Albert"
 slug: "art-gallery-of-st-albert"
 category: "activities-fun"
-subcategory: "outdoor"
+subcategory: "museums"
 tier: "featured"
 description: ""
 address: "19 Perron St, St. Albert, AB T8N 1E5"
@@ -28,7 +28,7 @@ review_count: 69
 amenities:
   - "Family Friendly"
   - "Wheelchair Accessible"
-tags: ["edmonton", "outdoor"]
+tags: ["edmonton", "museums"]
 active: true
 date_listed: "2026-10-02"
 reviews:

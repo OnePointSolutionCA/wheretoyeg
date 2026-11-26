@@ -2,7 +2,7 @@
 name: "U of A Botanic Garden"
 slug: "u-of-a-botanic-garden"
 category: "activities-fun"
-subcategory: "arcades"
+subcategory: "outdoor"
 tier: "featured"
 description: "80-hectare public garden west of Edmonton — Japanese garden, Aga Khan Garden, native plants trail. Beautiful full-day trip in summer."
 address: "51227 AB-60"

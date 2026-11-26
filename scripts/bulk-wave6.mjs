@@ -55,10 +55,10 @@ const QUERIES = [
   ["tattoo shop edmonton", "spas-esthetics", "tattoo", 4, []],
 
   // More home services
-  ["painting company edmonton", "cleaning-services", "painting", 4, []],
-  ["moving company edmonton", "cleaning-services", "moving", 4, []],
-  ["landscaping edmonton", "cleaning-services", "landscaping", 4, []],
-  ["pest control edmonton", "cleaning-services", "pest-control", 3, []],
+  ["painting company edmonton", "home-services", "painting", 4, []],
+  ["moving company edmonton", "moving-storage", "moving", 4, []],
+  ["landscaping edmonton", "home-services", "landscaping", 4, []],
+  ["pest control edmonton", "home-services", "pest-control", 3, []],
   ["electrician residential edmonton", "electricians", "residential", 4, []],
   ["plumber emergency edmonton", "plumbers", "emergency", 4, []],
   ["roofing company edmonton", "plumbers", "roofing", 4, []],

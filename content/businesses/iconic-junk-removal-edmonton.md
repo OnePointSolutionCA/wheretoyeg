@@ -1,7 +1,7 @@
 ---
 name: "Iconic Junk Removal Edmonton"
 slug: "iconic-junk-removal-edmonton"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "junk-removal"
 tier: "featured"
 description: "Iconic Junk Removal Edmonton — junk removal in Edmonton, Edmonton. 23 Google reviews, 5.0★."

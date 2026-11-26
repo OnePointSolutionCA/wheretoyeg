@@ -2,7 +2,7 @@
 name: "Trail Tire"
 slug: "trail-tire"
 category: "auto-repair"
-subcategory: "mechanics"
+subcategory: "tires"
 tier: "featured"
 description: ""
 address: "376 St Albert Trl, St. Albert, AB T8N 2X1"
@@ -27,7 +27,7 @@ rating: 4.6
 review_count: 262
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "mechanics"]
+tags: ["edmonton", "tires"]
 active: true
 date_listed: "2026-10-02"
 reviews:

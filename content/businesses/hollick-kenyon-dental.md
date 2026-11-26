@@ -2,7 +2,7 @@
 name: "Hollick-Kenyon Dental"
 slug: "hollick-kenyon-dental"
 category: "medical"
-subcategory: "orthodontists"
+subcategory: "dentists"
 tier: "featured"
 description: ""
 address: "16526 50 St NW, Edmonton, AB T5Y 0L2"
@@ -27,7 +27,7 @@ rating: 4.8
 review_count: 573
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "orthodontists"]
+tags: ["edmonton", "dentists"]
 active: true
 date_listed: "2026-10-02"
 reviews:

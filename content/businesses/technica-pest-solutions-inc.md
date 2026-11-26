@@ -1,7 +1,7 @@
 ---
 name: "Technica Pest Solutions Inc."
 slug: "technica-pest-solutions-inc"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "pest-control"
 tier: "featured"
 description: ""

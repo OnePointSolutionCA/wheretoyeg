@@ -1,7 +1,7 @@
 ---
 name: "Edmonton Junk Removal & Garbage Bin Rentals"
 slug: "edmonton-junk-removal-garbage-bin-rentals"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "junk-removal"
 tier: "featured"
 description: "Edmonton Junk Removal & Garbage Bin Rentals — junk removal in Edmonton, Edmonton. 384 Google reviews, 5.0★."

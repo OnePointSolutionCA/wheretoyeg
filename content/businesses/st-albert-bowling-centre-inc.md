@@ -2,7 +2,7 @@
 name: "St. Albert Bowling Centre Inc."
 slug: "st-albert-bowling-centre-inc"
 category: "activities-fun"
-subcategory: "outdoor"
+subcategory: "bowling"
 tier: "featured"
 description: ""
 address: "14 Inglewood Dr, St. Albert, AB T8N 5E2"
@@ -27,7 +27,7 @@ rating: 4.2
 review_count: 1083
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "outdoor"]
+tags: ["edmonton", "bowling"]
 active: true
 date_listed: "2026-10-02"
 reviews:

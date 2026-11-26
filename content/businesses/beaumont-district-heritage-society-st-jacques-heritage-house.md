@@ -2,7 +2,7 @@
 name: "Beaumont & District Heritage Society - St. Jacques Heritage House Museum"
 slug: "beaumont-district-heritage-society-st-jacques-heritage-house"
 category: "activities-fun"
-subcategory: "outdoor"
+subcategory: "museums"
 tier: "featured"
 description: ""
 address: "3116 49 St, Beaumont, AB T4X 1R6"
@@ -28,7 +28,7 @@ review_count: 13
 amenities:
   - "Family Friendly"
   - "Wheelchair Accessible"
-tags: ["edmonton", "outdoor"]
+tags: ["edmonton", "museums"]
 active: true
 date_listed: "2026-10-02"
 reviews:

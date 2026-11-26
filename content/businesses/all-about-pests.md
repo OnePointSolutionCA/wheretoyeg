@@ -1,7 +1,7 @@
 ---
 name: "All About Pests"
 slug: "all-about-pests"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "pest-control"
 tier: "featured"
 description: ""

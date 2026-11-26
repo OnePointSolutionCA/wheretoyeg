@@ -83,8 +83,8 @@ const EDMONTON = [
   // home services
   ["house cleaning service", "cleaning-services", "house-cleaning", 1], ["commercial cleaning company", "cleaning-services", "commercial-cleaning", 1],
   ["move out cleaning", "cleaning-services", "move-out", 1], ["carpet cleaning", "cleaning-services", "carpet", 1], ["window cleaning", "cleaning-services", "windows", 1],
-  ["junk removal", "cleaning-services", "junk-removal", 1], ["landscaping company", "cleaning-services", "landscaping", 1], ["moving company", "cleaning-services", "moving", 1],
-  ["house painters", "cleaning-services", "painting", 1], ["pest control", "cleaning-services", "pest-control", 1],
+  ["junk removal", "home-services", "junk-removal", 1], ["landscaping company", "home-services", "landscaping", 1], ["moving company", "moving-storage", "moving", 1],
+  ["house painters", "home-services", "painting", 1], ["pest control", "home-services", "pest-control", 1],
   ["residential electrician", "electricians", "residential", 1], ["commercial electrician", "electricians", "commercial", 1], ["ev charger installation", "electricians", "ev-chargers", 1],
   ["furnace repair hvac", "electricians", "hvac", 1], ["plumber", "plumbers", "residential", 2], ["drain cleaning", "plumbers", "drain-cleaning", 1],
   ["water heater installation", "plumbers", "water-heaters", 1], ["roofing company", "plumbers", "roofing", 1], ["garage door repair", "plumbers", "garage-door", 1],

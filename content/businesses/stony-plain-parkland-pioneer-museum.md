@@ -2,7 +2,7 @@
 name: "Stony Plain & Parkland Pioneer Museum"
 slug: "stony-plain-parkland-pioneer-museum"
 category: "activities-fun"
-subcategory: "outdoor"
+subcategory: "museums"
 tier: "featured"
 description: ""
 address: "5120 41 Ave, Stony Plain, AB T7Z 1L5"
@@ -28,7 +28,7 @@ review_count: 263
 amenities:
   - "Family Friendly"
   - "Wheelchair Accessible"
-tags: ["edmonton", "outdoor"]
+tags: ["edmonton", "museums"]
 active: true
 date_listed: "2026-10-02"
 reviews:

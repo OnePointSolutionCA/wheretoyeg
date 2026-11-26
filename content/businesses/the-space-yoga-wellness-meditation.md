@@ -2,7 +2,7 @@
 name: "The Space: Yoga, Wellness, Meditation"
 slug: "the-space-yoga-wellness-meditation"
 category: "gyms-fitness"
-subcategory: "gyms"
+subcategory: "yoga"
 tier: "featured"
 description: ""
 address: "10451 99 Ave #307, Fort Saskatchewan, AB T8L 0V6"
@@ -28,7 +28,7 @@ review_count: 64
 amenities:
   - "Family Friendly"
   - "Wheelchair Accessible"
-tags: ["edmonton", "gyms"]
+tags: ["edmonton", "yoga"]
 active: true
 date_listed: "2026-10-02"
 reviews:

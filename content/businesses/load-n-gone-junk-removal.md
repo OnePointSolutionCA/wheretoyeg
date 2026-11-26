@@ -1,7 +1,7 @@
 ---
 name: "LOAD n GONE Junk Removal"
 slug: "load-n-gone-junk-removal"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "junk-removal"
 tier: "featured"
 description: ""

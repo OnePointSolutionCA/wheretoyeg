@@ -2,7 +2,7 @@
 name: "Massage Addict Edmonton Namao"
 slug: "massage-addict-edmonton-namao"
 category: "medical"
-subcategory: "chiropractors"
+subcategory: "massage-therapy"
 tier: "featured"
 description: ""
 address: "9635 167 Ave NW, Edmonton, AB T5Z 3S3"
@@ -26,7 +26,7 @@ photos:
 rating: 4.4
 review_count: 191
 amenities: []
-tags: ["edmonton", "chiropractors"]
+tags: ["edmonton", "massage-therapy"]
 active: true
 date_listed: "2026-10-02"
 ---

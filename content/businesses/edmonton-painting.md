@@ -1,7 +1,7 @@
 ---
 name: "Edmonton Painting"
 slug: "edmonton-painting"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "painting"
 tier: "featured"
 description: ""

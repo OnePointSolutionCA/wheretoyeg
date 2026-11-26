@@ -2,7 +2,7 @@
 name: "Brintnell Smiles Dental Group - North Edmonton Dentist"
 slug: "brintnell-smiles-dental-group-north-edmonton-dentist"
 category: "medical"
-subcategory: "orthodontists"
+subcategory: "dentists"
 tier: "featured"
 description: ""
 address: "16605 50 St NW, Edmonton, AB T5Y 0S4"
@@ -27,7 +27,7 @@ rating: 4.8
 review_count: 819
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "orthodontists"]
+tags: ["edmonton", "dentists"]
 active: true
 date_listed: "2026-10-02"
 reviews:

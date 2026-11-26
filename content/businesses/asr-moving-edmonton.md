@@ -1,7 +1,7 @@
 ---
 name: "ASR Moving Edmonton"
 slug: "asr-moving-edmonton"
-category: "cleaning-services"
+category: "moving-storage"
 subcategory: "moving"
 tier: "featured"
 description: ""

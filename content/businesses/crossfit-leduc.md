@@ -2,7 +2,7 @@
 name: "CrossFit Leduc"
 slug: "crossfit-leduc"
 category: "gyms-fitness"
-subcategory: "gyms"
+subcategory: "crossfit"
 tier: "featured"
 description: ""
 address: "4704 53 Ave, Leduc, AB T9E 6Z3"
@@ -26,7 +26,7 @@ rating: 4.9
 review_count: 72
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "gyms"]
+tags: ["edmonton", "crossfit"]
 active: true
 date_listed: "2026-10-02"
 reviews:

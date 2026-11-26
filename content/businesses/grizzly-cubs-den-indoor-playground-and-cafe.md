@@ -2,7 +2,7 @@
 name: "Grizzly Cubs Den Indoor Playground And Cafe"
 slug: "grizzly-cubs-den-indoor-playground-and-cafe"
 category: "activities-fun"
-subcategory: "outdoor"
+subcategory: "indoor-playground"
 tier: "featured"
 description: ""
 address: "5205 50th Ave #1, Leduc, AB T9E 6V2"
@@ -27,7 +27,7 @@ rating: 4.4
 review_count: 180
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "outdoor"]
+tags: ["edmonton", "indoor-playground"]
 active: true
 date_listed: "2026-10-02"
 reviews:

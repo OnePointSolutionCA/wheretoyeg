@@ -1,7 +1,7 @@
 ---
 name: "Weekend Warriors Junk Removal Ltd"
 slug: "weekend-warriors-junk-removal-ltd"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "junk-removal"
 tier: "featured"
 description: "Weekend Warriors Junk Removal Ltd — junk removal in Edmonton, Edmonton. 405 Google reviews, 5.0★."

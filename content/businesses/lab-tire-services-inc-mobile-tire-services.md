@@ -2,7 +2,7 @@
 name: "Lab Tire services Inc. MOBILE TIRE SERVICES"
 slug: "lab-tire-services-inc-mobile-tire-services"
 category: "auto-repair"
-subcategory: "mechanics"
+subcategory: "tires"
 tier: "featured"
 description: ""
 address: "Kingsbury Cir, Spruce Grove, AB T7X 0C9"
@@ -26,7 +26,7 @@ photos:
 rating: 5.0
 review_count: 135
 amenities: []
-tags: ["edmonton", "mechanics"]
+tags: ["edmonton", "tires"]
 active: true
 date_listed: "2026-10-02"
 reviews:

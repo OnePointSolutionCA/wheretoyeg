@@ -1,7 +1,7 @@
 ---
 name: "Edmonton Exterminators Ltd"
 slug: "edmonton-exterminators-ltd"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "pest-control"
 tier: "featured"
 description: ""

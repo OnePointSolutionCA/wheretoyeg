@@ -2,7 +2,7 @@
 name: "Fort Saskatchewan Acupuncture"
 slug: "fort-saskatchewan-acupuncture"
 category: "medical"
-subcategory: "chiropractors"
+subcategory: "acupuncture"
 tier: "featured"
 description: ""
 address: "10101 86 Ave, Fort Saskatchewan, AB T8L 0T6"
@@ -27,7 +27,7 @@ rating: 4.9
 review_count: 55
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "chiropractors"]
+tags: ["edmonton", "acupuncture"]
 active: true
 date_listed: "2026-10-02"
 reviews:

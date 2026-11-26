@@ -14,6 +14,8 @@ export const KEYWORDS: Record<string, string[]> = {
   plumbers: ["plumber"],
   electricians: ["electrician"],
   "cleaning-services": ["cleaning"],
+  "moving-storage": ["moving", "storage"],
+  "home-services": ["painting", "landscaping", "pest-control", "junk-removal"],
   "grocery-markets": ["grocery", "halal-meat"],
   medical: ["dentist", "eye-care", "hearing", "chiropractic", "pharmac", "walk-in", "diagnostic", "medical", "braces"],
   photographers: ["photographer"],

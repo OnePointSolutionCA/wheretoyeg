@@ -1,7 +1,7 @@
 ---
 name: "Last Stop Moving"
 slug: "last-stop-moving"
-category: "cleaning-services"
+category: "moving-storage"
 subcategory: "moving"
 tier: "featured"
 description: ""

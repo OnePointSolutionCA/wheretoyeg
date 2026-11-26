@@ -1,7 +1,7 @@
 ---
 name: "Alberta Strong Movers"
 slug: "alberta-strong-movers"
-category: "cleaning-services"
+category: "moving-storage"
 subcategory: "moving"
 tier: "featured"
 description: ""

@@ -1,7 +1,7 @@
 ---
 name: "Painters Edmonton Co"
 slug: "painters-edmonton-co"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "painting"
 tier: "featured"
 description: "Painters Edmonton Co — painting in Edmonton, Edmonton. 42 Google reviews, 5.0★."

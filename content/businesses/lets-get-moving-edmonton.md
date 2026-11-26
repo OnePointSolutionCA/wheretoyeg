@@ -1,7 +1,7 @@
 ---
 name: "Let's Get Moving Edmonton"
 slug: "lets-get-moving-edmonton"
-category: "cleaning-services"
+category: "moving-storage"
 subcategory: "moving"
 tier: "featured"
 description: ""

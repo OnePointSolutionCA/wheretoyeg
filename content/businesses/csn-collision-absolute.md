@@ -2,7 +2,7 @@
 name: "CSN Collision Absolute"
 slug: "csn-collision-absolute"
 category: "auto-repair"
-subcategory: "mechanics"
+subcategory: "collision"
 tier: "featured"
 description: ""
 address: "17 Boulder Blvd, Stony Plain, AB T7Z 0E7"
@@ -27,7 +27,7 @@ rating: 4.8
 review_count: 433
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "mechanics"]
+tags: ["edmonton", "collision"]
 active: true
 date_listed: "2026-10-02"
 reviews:

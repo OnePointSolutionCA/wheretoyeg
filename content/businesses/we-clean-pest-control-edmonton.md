@@ -1,7 +1,7 @@
 ---
 name: "We Clean Pest Control Edmonton"
 slug: "we-clean-pest-control-edmonton"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "pest-control"
 tier: "featured"
 description: "We Clean Pest Control Edmonton — pest control in Edmonton, Edmonton. 857 Google reviews, 4.8★."

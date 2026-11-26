@@ -2,7 +2,7 @@
 name: "OK Tire"
 slug: "ok-tire-fort-saskatchewan"
 category: "auto-repair"
-subcategory: "mechanics"
+subcategory: "tires"
 tier: "featured"
 description: ""
 address: "9902 103 St, Fort Saskatchewan, AB T8L 2C9"
@@ -27,7 +27,7 @@ rating: 4.8
 review_count: 181
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "mechanics"]
+tags: ["edmonton", "tires"]
 active: true
 date_listed: "2026-10-02"
 reviews:

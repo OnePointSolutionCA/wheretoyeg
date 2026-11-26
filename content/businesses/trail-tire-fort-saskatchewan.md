@@ -2,7 +2,7 @@
 name: "Trail Tire Fort Saskatchewan"
 slug: "trail-tire-fort-saskatchewan"
 category: "auto-repair"
-subcategory: "mechanics"
+subcategory: "tires"
 tier: "featured"
 description: ""
 address: "10308 99 Ave, Fort Saskatchewan, AB T8L 1Y2"
@@ -28,7 +28,7 @@ review_count: 203
 amenities:
   - "Delivery"
   - "Wheelchair Accessible"
-tags: ["edmonton", "mechanics"]
+tags: ["edmonton", "tires"]
 active: true
 date_listed: "2026-10-02"
 reviews:

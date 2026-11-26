@@ -2,7 +2,7 @@
 name: "YEG Another World Virtual Reality Arena"
 slug: "yeg-another-world-virtual-reality-arena"
 category: "activities-fun"
-subcategory: "escape-rooms"
+subcategory: "vr-arcade"
 tier: "featured"
 description: ""
 address: "13026 97 St NW Unit 201, 2nd floor, Edmonton, AB T5E 4C6"
@@ -26,7 +26,7 @@ rating: 5.0
 review_count: 453
 amenities:
   - "Family Friendly"
-tags: ["edmonton", "escape-rooms"]
+tags: ["edmonton", "vr-arcade"]
 active: true
 date_listed: "2026-10-02"
 reviews:

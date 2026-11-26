@@ -1,7 +1,7 @@
 ---
 name: "Two Small Men with Big Hearts Moving"
 slug: "two-small-men-with-big-hearts-moving"
-category: "cleaning-services"
+category: "moving-storage"
 subcategory: "moving"
 tier: "featured"
 description: "Two Small Men with Big Hearts Moving — moving in Edmonton, Edmonton. 1503 Google reviews, 4.7★."

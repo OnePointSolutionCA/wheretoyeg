@@ -2,7 +2,7 @@
 name: "Royal Alberta Museum"
 slug: "royal-alberta-museum"
 category: "activities-fun"
-subcategory: "arcades"
+subcategory: "museums"
 tier: "featured"
 description: "The largest museum in western Canada — natural history, Indigenous history, human history, feature exhibitions. Half a day easy."
 address: "9810 103a Ave NW, Edmonton, AB T5J 0G2"

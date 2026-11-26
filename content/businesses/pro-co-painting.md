@@ -1,7 +1,7 @@
 ---
 name: "Pro Co Painting"
 slug: "pro-co-painting"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "painting"
 tier: "featured"
 description: "Pro Co Painting — painting in Edmonton, Edmonton. 243 Google reviews, 4.9★."

@@ -2,7 +2,7 @@
 name: "Mr. Lube + Tires"
 slug: "mr-lube-tires-st-albert"
 category: "auto-repair"
-subcategory: "mechanics"
+subcategory: "oil-change"
 tier: "featured"
 description: ""
 address: "450 St Albert Trl, St. Albert, AB T8N 5J9"
@@ -27,7 +27,7 @@ rating: 4.2
 review_count: 347
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "mechanics"]
+tags: ["edmonton", "oil-change"]
 active: true
 date_listed: "2026-10-02"
 reviews:

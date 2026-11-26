@@ -2,7 +2,7 @@
 name: "ADG Kaban Sewer & Drain Ltd."
 slug: "adg-kaban-sewer-drain-ltd"
 category: "plumbers"
-subcategory: "residential"
+subcategory: "drain-cleaning"
 tier: "featured"
 description: ""
 address: "45 Haviland Crescent, St. Albert, AB T8N 6P8"
@@ -25,7 +25,7 @@ photos:
 rating: 5.0
 review_count: 52
 amenities: []
-tags: ["edmonton", "residential"]
+tags: ["edmonton", "drain-cleaning"]
 active: true
 date_listed: "2026-10-02"
 reviews:

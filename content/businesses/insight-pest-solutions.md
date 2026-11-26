@@ -1,7 +1,7 @@
 ---
 name: "Insight Pest Solutions"
 slug: "insight-pest-solutions"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "pest-control"
 tier: "featured"
 description: ""

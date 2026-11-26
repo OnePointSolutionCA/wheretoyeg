@@ -1,7 +1,7 @@
 ---
 name: "River City Outdoor Living"
 slug: "river-city-outdoor-living"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "landscaping"
 tier: "featured"
 logo: "/logos/river-city-outdoor-living.png"

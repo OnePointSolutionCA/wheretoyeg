@@ -2,7 +2,7 @@
 name: "Alberta Aviation Museum"
 slug: "alberta-aviation-museum"
 category: "activities-fun"
-subcategory: "arcades"
+subcategory: "museums"
 tier: "featured"
 description: "Historic Blatchford hangar full of aircraft, flight simulators, and Edmonton aviation history. Kid-friendly, hands-on."
 address: "11410 Kingsway NW, Edmonton, AB T5G 0X4"

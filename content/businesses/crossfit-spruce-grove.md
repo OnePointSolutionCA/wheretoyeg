@@ -2,7 +2,7 @@
 name: "CrossFit Spruce Grove"
 slug: "crossfit-spruce-grove"
 category: "gyms-fitness"
-subcategory: "gyms"
+subcategory: "crossfit"
 tier: "featured"
 description: ""
 address: "40 South Ave, Spruce Grove, AB T7X 3A9"
@@ -27,7 +27,7 @@ rating: 4.4
 review_count: 19
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "gyms"]
+tags: ["edmonton", "crossfit"]
 active: true
 date_listed: "2026-10-02"
 reviews:

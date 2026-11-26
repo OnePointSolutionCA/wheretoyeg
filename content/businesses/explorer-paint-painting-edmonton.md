@@ -1,7 +1,7 @@
 ---
 name: "Explorer Paint - Painting Edmonton"
 slug: "explorer-paint-painting-edmonton"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "painting"
 tier: "featured"
 description: ""

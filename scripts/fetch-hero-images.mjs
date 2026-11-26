@@ -34,6 +34,8 @@ const HEROES = {
   "henna-artists":       "photo-1583842761829-a9a2b2ba0ce6", // henna hand
   "activities-fun":      "photo-1522163182402-834f871fd851", // climbing indoor
   "professional-services": "photo-1497366216548-37526070297c", // modern office
+  "moving-storage":      "photo-1520038410233-7141be7e6f97", // dog in a moving box
+  "home-services":       "photo-1600585154340-be6161a56a0c", // modern house and lawn at dusk
 };
 
 // Fallback keywords for loremflickr if a specific Unsplash id fails
@@ -58,6 +60,8 @@ const FALLBACK_KEYWORDS = {
   "henna-artists": "henna,mehndi",
   "activities-fun": "adventure,indoor,climbing",
   "professional-services": "office,professional",
+  "moving-storage": "moving,boxes",
+  "home-services": "house,lawn",
 };
 
 async function fetchBinary(url) {

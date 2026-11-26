@@ -1,7 +1,7 @@
 ---
 name: "ALTA MOVING"
 slug: "alta-moving"
-category: "cleaning-services"
+category: "moving-storage"
 subcategory: "moving"
 tier: "featured"
 description: "ALTA MOVING — moving in Edmonton, Edmonton. 536 Google reviews, 4.9★."

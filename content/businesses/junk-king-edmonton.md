@@ -1,7 +1,7 @@
 ---
 name: "Junk King Edmonton"
 slug: "junk-king-edmonton"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "junk-removal"
 tier: "featured"
 description: "Junk King Edmonton — junk removal in Edmonton, Edmonton. 138 Google reviews, 5.0★."

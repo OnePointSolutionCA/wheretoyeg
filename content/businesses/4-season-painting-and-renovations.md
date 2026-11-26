@@ -1,7 +1,7 @@
 ---
 name: "4 Season Painting and Renovations"
 slug: "4-season-painting-and-renovations"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "painting"
 tier: "featured"
 description: ""

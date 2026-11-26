@@ -1,7 +1,7 @@
 ---
 name: "Mr Bins Dumpster Rental"
 slug: "mr-bins-dumpster-rental"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "junk-removal"
 tier: "featured"
 description: ""

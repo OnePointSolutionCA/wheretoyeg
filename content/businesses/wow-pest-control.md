@@ -1,7 +1,7 @@
 ---
 name: "Wow Pest Control"
 slug: "wow-pest-control"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "pest-control"
 tier: "featured"
 description: "Wow Pest Control — pest control in Edmonton, Edmonton. 501 Google reviews, 4.9★."

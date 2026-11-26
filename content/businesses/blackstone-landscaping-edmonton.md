@@ -1,7 +1,7 @@
 ---
 name: "Blackstone Landscaping Edmonton"
 slug: "blackstone-landscaping-edmonton"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "landscaping"
 tier: "featured"
 description: "Blackstone Landscaping Edmonton — landscaping in Edmonton, Edmonton. 38 Google reviews, 5.0★."

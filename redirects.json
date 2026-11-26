@@ -2203,5 +2203,465 @@
     "source": "/professional-services/staffing",
     "destination": "/professional-services",
     "permanent": true
+  },
+  {
+    "source": "/cleaning-services/self-storage",
+    "destination": "/moving-storage/self-storage",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/self-storage/:area",
+    "destination": "/moving-storage/self-storage/:area",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/moving",
+    "destination": "/moving-storage/moving",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/moving/:area",
+    "destination": "/moving-storage/moving/:area",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/painting",
+    "destination": "/home-services/painting",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/painting/:area",
+    "destination": "/home-services/painting/:area",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/landscaping",
+    "destination": "/home-services/landscaping",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/landscaping/:area",
+    "destination": "/home-services/landscaping/:area",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/pest-control",
+    "destination": "/home-services/pest-control",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/pest-control/:area",
+    "destination": "/home-services/pest-control/:area",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/junk-removal",
+    "destination": "/home-services/junk-removal",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/junk-removal/:area",
+    "destination": "/home-services/junk-removal/:area",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/elite-self-storage-south-edmonton",
+    "destination": "/moving-storage/elite-self-storage-south-edmonton",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/elite-self-storage-st-albert",
+    "destination": "/moving-storage/elite-self-storage-st-albert",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/absolute-moving-storage-north-edmonton-movers",
+    "destination": "/moving-storage/absolute-moving-storage-north-edmonton-movers",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/action-moving-edmonton-movers-since-1988",
+    "destination": "/moving-storage/action-moving-edmonton-movers-since-1988",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/alberta-strong-movers",
+    "destination": "/moving-storage/alberta-strong-movers",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/alta-moving",
+    "destination": "/moving-storage/alta-moving",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/asr-moving-edmonton",
+    "destination": "/moving-storage/asr-moving-edmonton",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/eager-beaver-moving-storage",
+    "destination": "/moving-storage/eager-beaver-moving-storage",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/ecoway-movers-edmonton-ab",
+    "destination": "/moving-storage/ecoway-movers-edmonton-ab",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/edmonton-affordable-moving",
+    "destination": "/moving-storage/edmonton-affordable-moving",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/ezy-moving",
+    "destination": "/moving-storage/ezy-moving",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/get-movers-edmonton-ab",
+    "destination": "/moving-storage/get-movers-edmonton-ab",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/helping-hands-family-movers",
+    "destination": "/moving-storage/helping-hands-family-movers",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/last-stop-moving",
+    "destination": "/moving-storage/last-stop-moving",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/lets-get-moving-edmonton",
+    "destination": "/moving-storage/lets-get-moving-edmonton",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/moving-now",
+    "destination": "/moving-storage/moving-now",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/slapshot-moving-storage",
+    "destination": "/moving-storage/slapshot-moving-storage",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/the-transport-guys-moving-delivery-hotshot-storage-companies",
+    "destination": "/moving-storage/the-transport-guys-moving-delivery-hotshot-storage-companies",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/two-small-men-with-big-hearts-moving",
+    "destination": "/moving-storage/two-small-men-with-big-hearts-moving",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/yeg-edmonton-movers",
+    "destination": "/moving-storage/yeg-edmonton-movers",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/4-season-painting-and-renovations",
+    "destination": "/home-services/4-season-painting-and-renovations",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/alberta-painting-ltd-painters-edmonton",
+    "destination": "/home-services/alberta-painting-ltd-painters-edmonton",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/alpine-painting-pro-edmonton",
+    "destination": "/home-services/alpine-painting-pro-edmonton",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/edmonton-painting",
+    "destination": "/home-services/edmonton-painting",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/elite-trade-painting-edmonton",
+    "destination": "/home-services/elite-trade-painting-edmonton",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/explorer-paint-painting-edmonton",
+    "destination": "/home-services/explorer-paint-painting-edmonton",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/expert-painting",
+    "destination": "/home-services/expert-painting",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/five-star-painting-of-edmonton-nw",
+    "destination": "/home-services/five-star-painting-of-edmonton-nw",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/mill-creek-painters-edmonton",
+    "destination": "/home-services/mill-creek-painters-edmonton",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/painters-edmonton-co",
+    "destination": "/home-services/painters-edmonton-co",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/pro-co-painting",
+    "destination": "/home-services/pro-co-painting",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/raydian-painting",
+    "destination": "/home-services/raydian-painting",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/royal-painting",
+    "destination": "/home-services/royal-painting",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/smart-painting-ltd",
+    "destination": "/home-services/smart-painting-ltd",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/the-repaint-specialists-inc",
+    "destination": "/home-services/the-repaint-specialists-inc",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/aspen-landscape-services-ltd",
+    "destination": "/home-services/aspen-landscape-services-ltd",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/blackstone-landscaping-edmonton",
+    "destination": "/home-services/blackstone-landscaping-edmonton",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/certified-landscape-construction",
+    "destination": "/home-services/certified-landscape-construction",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/general-landscape",
+    "destination": "/home-services/general-landscape",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/isle-group-landscaping",
+    "destination": "/home-services/isle-group-landscaping",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/kellys-landscaping-ltd",
+    "destination": "/home-services/kellys-landscaping-ltd",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/landscaping-charm-experts-edmonton",
+    "destination": "/home-services/landscaping-charm-experts-edmonton",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/lush-landscaping-restoration-ltd",
+    "destination": "/home-services/lush-landscaping-restoration-ltd",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/nest-landscaping-ltd",
+    "destination": "/home-services/nest-landscaping-ltd",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/new-earth-landscaping",
+    "destination": "/home-services/new-earth-landscaping",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/park-landscaping",
+    "destination": "/home-services/park-landscaping",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/river-city-outdoor-living",
+    "destination": "/home-services/river-city-outdoor-living",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/salisbury-landscaping",
+    "destination": "/home-services/salisbury-landscaping",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/the-landscaping-company-inc",
+    "destination": "/home-services/the-landscaping-company-inc",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/yard-king-landscaping-ltd",
+    "destination": "/home-services/yard-king-landscaping-ltd",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/abell-pest-control",
+    "destination": "/home-services/abell-pest-control",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/alberta-pest-services-edmonton-pest-control-edmonton-i-pest",
+    "destination": "/home-services/alberta-pest-services-edmonton-pest-control-edmonton-i-pest",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/all-about-pests",
+    "destination": "/home-services/all-about-pests",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/edmonton-exterminators-ltd",
+    "destination": "/home-services/edmonton-exterminators-ltd",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/edmonton-pest-control",
+    "destination": "/home-services/edmonton-pest-control",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/insight-pest-solutions",
+    "destination": "/home-services/insight-pest-solutions",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/ket-pest-control",
+    "destination": "/home-services/ket-pest-control",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/major-pest-control-edmonton-inc",
+    "destination": "/home-services/major-pest-control-edmonton-inc",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/orkin-canada-pest-control",
+    "destination": "/home-services/orkin-canada-pest-control",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/pestlink-pest-control-edmonton-inc",
+    "destination": "/home-services/pestlink-pest-control-edmonton-inc",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/precision-pest-control",
+    "destination": "/home-services/precision-pest-control",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/savvy-pest-control",
+    "destination": "/home-services/savvy-pest-control",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/spidex-pest-solutions-inc",
+    "destination": "/home-services/spidex-pest-solutions-inc",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/technica-pest-solutions-inc",
+    "destination": "/home-services/technica-pest-solutions-inc",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/we-clean-pest-control-edmonton",
+    "destination": "/home-services/we-clean-pest-control-edmonton",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/wow-pest-control",
+    "destination": "/home-services/wow-pest-control",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/affordable-junk-remover-and-moving-edmonton",
+    "destination": "/home-services/affordable-junk-remover-and-moving-edmonton",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/bye-bye-junk",
+    "destination": "/home-services/bye-bye-junk",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/dump-and-dumper-junk-removal",
+    "destination": "/home-services/dump-and-dumper-junk-removal",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/eco-junk-haulers",
+    "destination": "/home-services/eco-junk-haulers",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/edmonton-junk-removal-garbage-bin-rentals",
+    "destination": "/home-services/edmonton-junk-removal-garbage-bin-rentals",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/iconic-junk-removal-edmonton",
+    "destination": "/home-services/iconic-junk-removal-edmonton",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/junk-masterz",
+    "destination": "/home-services/junk-masterz",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/junk-king-edmonton",
+    "destination": "/home-services/junk-king-edmonton",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/load-n-gone-junk-removal",
+    "destination": "/home-services/load-n-gone-junk-removal",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/mr-bins-dumpster-rental",
+    "destination": "/home-services/mr-bins-dumpster-rental",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/total-junk-ltd",
+    "destination": "/home-services/total-junk-ltd",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/weekend-warriors-junk-removal-ltd",
+    "destination": "/home-services/weekend-warriors-junk-removal-ltd",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/yeg-junk-haulers-ltd",
+    "destination": "/home-services/yeg-junk-haulers-ltd",
+    "statusCode": 301
+  },
+  {
+    "source": "/cleaning-services/home-pros-group",
+    "destination": "/electricians/home-pros-group",
+    "statusCode": 301
   }
 ]

@@ -2,7 +2,7 @@
 name: "Art Gallery of Alberta"
 slug: "art-gallery-of-alberta"
 category: "activities-fun"
-subcategory: "arcades"
+subcategory: "museums"
 tier: "featured"
 description: "Downtown Edmonton contemporary and historical art gallery — rotating exhibitions, permanent collection, striking architecture."
 address: "2 Sir Winston Churchill Sq"

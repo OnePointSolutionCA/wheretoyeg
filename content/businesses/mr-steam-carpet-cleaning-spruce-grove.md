@@ -2,7 +2,7 @@
 name: "Mr. Steam Carpet Cleaning Spruce Grove"
 slug: "mr-steam-carpet-cleaning-spruce-grove"
 category: "cleaning-services"
-subcategory: "house-cleaning"
+subcategory: "carpet"
 tier: "featured"
 description: ""
 address: "26 Meridian Loop, Stony Plain, AB T7Z 0B8"
@@ -24,7 +24,7 @@ photos: []
 rating: 5.0
 review_count: 26
 amenities: []
-tags: ["edmonton", "house-cleaning"]
+tags: ["edmonton", "carpet"]
 active: true
 date_listed: "2026-10-02"
 reviews:

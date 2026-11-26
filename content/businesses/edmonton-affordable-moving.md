@@ -1,7 +1,7 @@
 ---
 name: "Edmonton Affordable Moving"
 slug: "edmonton-affordable-moving"
-category: "cleaning-services"
+category: "moving-storage"
 subcategory: "moving"
 tier: "featured"
 description: "Edmonton Affordable Moving — moving in Edmonton, Edmonton. 531 Google reviews, 4.9★."

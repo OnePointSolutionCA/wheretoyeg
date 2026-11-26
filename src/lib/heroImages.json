@@ -217,6 +217,23 @@
   ],
   "dir": "/photos/_hero/opt/henna-artists"
  },
+ "/photos/_hero/home-services": {
+  "width": 2000,
+  "height": 1000,
+  "w": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "m": [
+   780,
+   1040,
+   1300
+  ],
+  "dir": "/photos/_hero/opt/home-services"
+ },
  "/photos/_hero/lash-techs": {
   "width": 2000,
   "height": 1000,
@@ -250,6 +267,23 @@
    1300
   ],
   "dir": "/photos/_hero/opt/medical"
+ },
+ "/photos/_hero/moving-storage": {
+  "width": 2000,
+  "height": 1000,
+  "w": [
+   480,
+   800,
+   1200,
+   1600,
+   2000
+  ],
+  "m": [
+   780,
+   1040,
+   1300
+  ],
+  "dir": "/photos/_hero/opt/moving-storage"
  },
  "/photos/_hero/nail-salons": {
   "width": 2000,

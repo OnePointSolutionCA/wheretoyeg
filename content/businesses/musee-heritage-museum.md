@@ -2,7 +2,7 @@
 name: "Musée Héritage Museum"
 slug: "musee-heritage-museum"
 category: "activities-fun"
-subcategory: "outdoor"
+subcategory: "museums"
 tier: "featured"
 description: ""
 address: "5 St Anne St, St. Albert, AB T8N 3Z9"
@@ -28,7 +28,7 @@ review_count: 52
 amenities:
   - "Family Friendly"
   - "Wheelchair Accessible"
-tags: ["edmonton", "outdoor"]
+tags: ["edmonton", "museums"]
 active: true
 date_listed: "2026-10-02"
 reviews:

@@ -6,6 +6,7 @@ const CATEGORIES = [
   "Restaurants", "Cafes & Coffee Shops", "Bakeries", "Grocery & Markets",
   "Barbers", "Hair Salons", "Nail Salons", "Lash Techs", "Spas & Esthetics",
   "Medical Care", "Gyms & Fitness", "Auto Repair", "Cleaning Services",
+  "Moving & Storage", "Home Services",
   "Photographers", "Plumbers", "Electricians", "Catering", "Henna Artists",
   "Activities & Fun", "Professional Services", "Other",
 ];

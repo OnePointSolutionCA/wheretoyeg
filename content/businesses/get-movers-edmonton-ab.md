@@ -1,7 +1,7 @@
 ---
 name: "Get Movers Edmonton AB"
 slug: "get-movers-edmonton-ab"
-category: "cleaning-services"
+category: "moving-storage"
 subcategory: "moving"
 tier: "featured"
 description: ""

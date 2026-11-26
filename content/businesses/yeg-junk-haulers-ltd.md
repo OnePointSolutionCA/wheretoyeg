@@ -1,7 +1,7 @@
 ---
 name: "Yeg Junk Haulers LTD."
 slug: "yeg-junk-haulers-ltd"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "junk-removal"
 tier: "featured"
 description: ""

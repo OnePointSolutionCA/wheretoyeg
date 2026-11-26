@@ -2,7 +2,7 @@
 name: "Fountain Tire"
 slug: "fountain-tire-fort-saskatchewan"
 category: "auto-repair"
-subcategory: "mechanics"
+subcategory: "tires"
 tier: "featured"
 description: ""
 address: "9910 86 Ave, Fort Saskatchewan, AB T8L 4P4"
@@ -27,7 +27,7 @@ rating: 4.5
 review_count: 316
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "mechanics"]
+tags: ["edmonton", "tires"]
 active: true
 date_listed: "2026-10-02"
 reviews:

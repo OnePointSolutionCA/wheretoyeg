@@ -1,7 +1,7 @@
 ---
 name: "Action Moving | Edmonton Movers Since 1988"
 slug: "action-moving-edmonton-movers-since-1988"
-category: "cleaning-services"
+category: "moving-storage"
 subcategory: "moving"
 tier: "featured"
 description: ""

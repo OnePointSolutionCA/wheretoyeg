@@ -1,7 +1,7 @@
 ---
 name: "Raydian Painting"
 slug: "raydian-painting"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "painting"
 tier: "featured"
 description: "Raydian Painting — painting in Edmonton, Edmonton. 162 Google reviews, 5.0★."

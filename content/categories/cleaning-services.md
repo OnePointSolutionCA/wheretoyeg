@@ -1,7 +1,7 @@
 ---
 name: "Cleaning Services"
 slug: "cleaning-services"
-description: "House cleaners, commercial cleaning, move out cleans, carpets and windows, plus movers, painters and pest control across Edmonton."
+description: "House cleaners, commercial cleaning, move out cleans, deep cleans, carpets, windows and Airbnb turnovers across Edmonton."
 icon: "spray"
 seo_title: "Cleaning Services in Edmonton | House & Office Cleaners"
 seo_description: "Find cleaning services in Edmonton for homes, offices, move outs and deep cleans, plus carpet and window cleaners. Compare local companies by Google rating."
@@ -20,11 +20,5 @@ subcategories:
   - { name: "Carpet Cleaning", slug: "carpet" }
   - { name: "Window Cleaning", slug: "windows" }
   - { name: "Airbnb Turnovers", slug: "airbnb" }
-  - { name: "Junk Removal", slug: "junk-removal" }
-  - { name: "Landscaping", slug: "landscaping" }
-  - { name: "Movers", slug: "moving" }
-  - { name: "Self Storage", slug: "self-storage" }
-  - { name: "Painters", slug: "painting" }
-  - { name: "Pest Control", slug: "pest-control" }
 ---
-Moving out, hosting family, or just behind on the house? Compare Edmonton cleaning companies for homes, offices and move outs, plus carpet and window cleaners, movers, painters and pest control. Everything is ranked by Google rating, so read the reviews and ask for a quote.
+Moving out, hosting family, or just behind on the house? Compare Edmonton cleaning companies for homes, offices and move outs, plus carpet, window and Airbnb cleaners. Everything is ranked by Google rating, so read the reviews and ask for a quote. Looking for movers or storage? See [Moving & Storage](/moving-storage). Painters, landscapers, pest control and junk removal are under [Home Services](/home-services).

@@ -1,7 +1,7 @@
 ---
 name: "Certified Landscape Construction"
 slug: "certified-landscape-construction"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "landscaping"
 tier: "featured"
 description: ""

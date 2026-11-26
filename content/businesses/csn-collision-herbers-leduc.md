@@ -2,7 +2,7 @@
 name: "CSN Collision Herbers Leduc"
 slug: "csn-collision-herbers-leduc"
 category: "auto-repair"
-subcategory: "mechanics"
+subcategory: "collision"
 tier: "featured"
 description: ""
 address: "6105 45 St, Leduc, AB T9E 7C3"
@@ -27,7 +27,7 @@ rating: 4.6
 review_count: 527
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "mechanics"]
+tags: ["edmonton", "collision"]
 active: true
 date_listed: "2026-10-02"
 reviews:

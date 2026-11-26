@@ -1,7 +1,7 @@
 ---
 name: "Nest Landscaping Ltd."
 slug: "nest-landscaping-ltd"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "landscaping"
 tier: "featured"
 description: "Nest Landscaping Ltd. — landscaping in Edmonton, Edmonton. 125 Google reviews, 4.9★."

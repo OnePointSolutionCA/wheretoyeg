@@ -1,7 +1,7 @@
 ---
 name: "The Repaint Specialists Inc."
 slug: "the-repaint-specialists-inc"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "painting"
 tier: "featured"
 description: ""

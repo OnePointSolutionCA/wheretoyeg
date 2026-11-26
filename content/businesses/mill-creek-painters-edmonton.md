@@ -1,7 +1,7 @@
 ---
 name: "Mill Creek Painters Edmonton"
 slug: "mill-creek-painters-edmonton"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "painting"
 tier: "featured"
 description: "Mill Creek Painters Edmonton — painting in Downtown, Edmonton. 206 Google reviews, 4.8★."

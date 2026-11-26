@@ -1,7 +1,7 @@
 ---
 name: "Park Landscaping"
 slug: "park-landscaping"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "landscaping"
 tier: "featured"
 description: "Park Landscaping — landscaping in Edmonton, Edmonton. 229 Google reviews, 4.4★."

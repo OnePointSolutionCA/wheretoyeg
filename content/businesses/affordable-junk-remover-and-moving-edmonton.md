@@ -1,7 +1,7 @@
 ---
 name: "Affordable Junk Remover and Moving Edmonton"
 slug: "affordable-junk-remover-and-moving-edmonton"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "junk-removal"
 tier: "featured"
 description: ""

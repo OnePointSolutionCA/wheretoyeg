@@ -2,7 +2,7 @@
 name: "Fort Edmonton Park"
 slug: "fort-edmonton-park"
 category: "activities-fun"
-subcategory: "arcades"
+subcategory: "museums"
 tier: "featured"
 description: "Canada's largest living history museum. Walk through 1846 fur trade fort, 1885 street, 1905 street, and 1920 street with costumed interpreters, rides, and steam trains."
 address: "7000 143 St NW"

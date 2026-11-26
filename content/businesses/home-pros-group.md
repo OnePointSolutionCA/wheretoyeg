@@ -1,8 +1,8 @@
 ---
 name: "Home Pros Group"
 slug: "home-pros-group"
-category: "cleaning-services"
-subcategory: "house-cleaning"
+category: "electricians"
+subcategory: "hvac"
 tier: "featured"
 description: ""
 address: "53 Umbach Rd, Stony Plain, AB T7Z 1G1"
@@ -26,7 +26,7 @@ photos:
 rating: 4.9
 review_count: 47
 amenities: []
-tags: ["edmonton", "house-cleaning"]
+tags: ["edmonton", "duct-cleaning", "furnace-cleaning"]
 active: true
 date_listed: "2026-10-02"
 reviews:

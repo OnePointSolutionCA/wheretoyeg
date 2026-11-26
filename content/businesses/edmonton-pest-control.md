@@ -1,7 +1,7 @@
 ---
 name: "Edmonton Pest Control"
 slug: "edmonton-pest-control"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "pest-control"
 tier: "featured"
 description: ""

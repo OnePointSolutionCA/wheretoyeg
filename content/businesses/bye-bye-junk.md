@@ -1,7 +1,7 @@
 ---
 name: "Bye Bye Junk"
 slug: "bye-bye-junk"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "junk-removal"
 tier: "featured"
 description: ""

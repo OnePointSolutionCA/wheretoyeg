@@ -1,7 +1,7 @@
 ---
 name: "Alberta Painting LTD | Painters Edmonton"
 slug: "alberta-painting-ltd-painters-edmonton"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "painting"
 tier: "featured"
 description: ""

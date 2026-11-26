@@ -1,7 +1,7 @@
 ---
 name: "Aspen Landscape Services Ltd."
 slug: "aspen-landscape-services-ltd"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "landscaping"
 tier: "featured"
 description: ""

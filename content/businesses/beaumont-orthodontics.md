@@ -2,7 +2,7 @@
 name: "Beaumont Orthodontics"
 slug: "beaumont-orthodontics"
 category: "medical"
-subcategory: "dentists"
+subcategory: "orthodontists"
 neighborhood: "Beaumont"
 address: "5301 Magasin Ave #103, Beaumont, AB T4X 1V8"
 rating: 5

@@ -2,6 +2,7 @@
 name: "GS HELPERS"
 slug: "gs-helpers"
 category: "cleaning-services"
+subcategory: "house-cleaning"
 neighborhood: "Edmonton"
 address: "11619 105 Ave NW, Edmonton, AB T5H 0L9"
 rating: 4.9

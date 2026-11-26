@@ -1,7 +1,7 @@
 ---
 name: "Ket Pest Control"
 slug: "ket-pest-control"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "pest-control"
 tier: "featured"
 logo: "/logos/ket-pest-control.png"

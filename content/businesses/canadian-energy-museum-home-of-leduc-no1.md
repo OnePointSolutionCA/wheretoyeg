@@ -2,7 +2,7 @@
 name: "Canadian Energy Museum: Home of Leduc No.1"
 slug: "canadian-energy-museum-home-of-leduc-no1"
 category: "activities-fun"
-subcategory: "outdoor"
+subcategory: "museums"
 tier: "featured"
 description: ""
 address: "50339 Highway 60 South, Leduc County, AB T9G 0B2"
@@ -28,7 +28,7 @@ review_count: 159
 amenities:
   - "Family Friendly"
   - "Wheelchair Accessible"
-tags: ["edmonton", "outdoor"]
+tags: ["edmonton", "museums"]
 active: true
 date_listed: "2026-10-02"
 reviews:

@@ -2,7 +2,7 @@
 name: "R.A.D. Auto Detailing"
 slug: "rad-auto-detailing"
 category: "auto-repair"
-subcategory: "car-wash"
+subcategory: "detailing"
 tier: "featured"
 description: ""
 address: "125 South Ave, Spruce Grove, AB T7X 3A2"
@@ -27,7 +27,7 @@ rating: 4.7
 review_count: 89
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "car-wash"]
+tags: ["edmonton", "detailing"]
 active: true
 date_listed: "2026-10-02"
 reviews:

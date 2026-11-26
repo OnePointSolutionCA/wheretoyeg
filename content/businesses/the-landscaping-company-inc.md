@@ -1,7 +1,7 @@
 ---
 name: "The Landscaping Company Inc."
 slug: "the-landscaping-company-inc"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "landscaping"
 tier: "featured"
 description: ""

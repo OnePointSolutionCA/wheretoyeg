@@ -2,7 +2,7 @@
 name: "Canada Custom Autoworks - Rims and Tires"
 slug: "canada-custom-autoworks-rims-and-tires-fort-saskatchewan"
 category: "auto-repair"
-subcategory: "mechanics"
+subcategory: "tires"
 tier: "featured"
 description: ""
 address: "11602 88 Ave #108, Fort Saskatchewan, AB T8L 0K1"
@@ -28,7 +28,7 @@ review_count: 536
 amenities:
   - "Delivery"
   - "Wheelchair Accessible"
-tags: ["edmonton", "mechanics"]
+tags: ["edmonton", "tires"]
 active: true
 date_listed: "2026-10-02"
 reviews:

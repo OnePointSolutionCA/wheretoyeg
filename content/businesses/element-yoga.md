@@ -2,7 +2,7 @@
 name: "Element Yoga"
 slug: "element-yoga"
 category: "gyms-fitness"
-subcategory: "gyms"
+subcategory: "yoga"
 tier: "featured"
 description: ""
 address: "5305 Magasin Ave Unit 112, Beaumont, AB T4X 1V8"
@@ -26,7 +26,7 @@ photos:
 rating: 4.9
 review_count: 87
 amenities: []
-tags: ["edmonton", "gyms"]
+tags: ["edmonton", "yoga"]
 active: true
 date_listed: "2026-10-02"
 reviews:

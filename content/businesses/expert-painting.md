@@ -1,7 +1,7 @@
 ---
 name: "Expert Painting"
 slug: "expert-painting"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "painting"
 tier: "featured"
 description: ""

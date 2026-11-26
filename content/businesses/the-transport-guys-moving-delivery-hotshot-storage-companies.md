@@ -1,7 +1,7 @@
 ---
 name: "The Transport Guys - Moving Delivery Hotshot Storage Companies"
 slug: "the-transport-guys-moving-delivery-hotshot-storage-companies"
-category: "cleaning-services"
+category: "moving-storage"
 subcategory: "moving"
 tier: "featured"
 description: ""

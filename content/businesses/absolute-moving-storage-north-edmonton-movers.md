@@ -1,7 +1,7 @@
 ---
 name: "Absolute Moving & Storage - North Edmonton Movers"
 slug: "absolute-moving-storage-north-edmonton-movers"
-category: "cleaning-services"
+category: "moving-storage"
 subcategory: "moving"
 tier: "featured"
 description: ""

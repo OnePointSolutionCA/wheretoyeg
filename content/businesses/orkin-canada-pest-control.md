@@ -1,7 +1,7 @@
 ---
 name: "Orkin Canada Pest Control"
 slug: "orkin-canada-pest-control"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "pest-control"
 tier: "featured"
 description: ""

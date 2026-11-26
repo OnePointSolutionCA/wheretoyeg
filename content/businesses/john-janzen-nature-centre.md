@@ -2,7 +2,7 @@
 name: "John Janzen Nature Centre"
 slug: "john-janzen-nature-centre"
 category: "activities-fun"
-subcategory: "arcades"
+subcategory: "outdoor"
 tier: "featured"
 description: "Family nature centre in the river valley — indoor hands-on exhibits, live animals, outdoor trails, and free/low-cost family programs on weekends."
 address: "7000 143 St NW"

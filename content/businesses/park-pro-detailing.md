@@ -2,7 +2,7 @@
 name: "Park Pro Detailing"
 slug: "park-pro-detailing"
 category: "auto-repair"
-subcategory: "car-wash"
+subcategory: "detailing"
 tier: "featured"
 description: ""
 address: "120 Portage Close Unit 40A, Sherwood Park, AB T8H 2W2"
@@ -27,7 +27,7 @@ rating: 5.0
 review_count: 61
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "car-wash"]
+tags: ["edmonton", "detailing"]
 active: true
 date_listed: "2026-10-02"
 reviews:

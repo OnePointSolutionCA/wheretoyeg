@@ -2,7 +2,7 @@
 name: "Snow Valley Ski Club"
 slug: "snow-valley-ski-club"
 category: "activities-fun"
-subcategory: "arcades"
+subcategory: "outdoor"
 tier: "featured"
 description: "In-city ski/snowboard hill — night skiing, lessons for all ages, tubing, and terrain park. Right off Whitemud in the river valley."
 address: "13204 Rainbow Valley Rd NW"

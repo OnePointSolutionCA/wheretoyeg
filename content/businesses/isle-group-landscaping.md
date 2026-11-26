@@ -1,7 +1,7 @@
 ---
 name: "Isle Group Landscaping"
 slug: "isle-group-landscaping"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "landscaping"
 tier: "featured"
 description: ""

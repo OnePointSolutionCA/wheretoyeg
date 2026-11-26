@@ -1,7 +1,7 @@
 ---
 name: "Pestlink Pest Control Edmonton Inc"
 slug: "pestlink-pest-control-edmonton-inc"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "pest-control"
 tier: "featured"
 description: ""

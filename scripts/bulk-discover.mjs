@@ -112,7 +112,7 @@ const W4 = [
   ["furnace repair edmonton", "electricians", "furnace", 4, []],
   ["garage door repair edmonton", "plumbers", "garage-door", 3, []],
   ["locksmith edmonton", "plumbers", "locksmith", 3, []],
-  ["junk removal edmonton", "cleaning-services", "junk-removal", 4, []],
+  ["junk removal edmonton", "home-services", "junk-removal", 4, []],
   ["carpet cleaning edmonton", "cleaning-services", "carpet", 4, []],
   ["window cleaning edmonton", "cleaning-services", "windows", 3, []],
 ];

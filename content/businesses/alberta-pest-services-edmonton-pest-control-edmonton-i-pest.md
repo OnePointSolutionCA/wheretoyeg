@@ -1,7 +1,7 @@
 ---
 name: "Alberta Pest Services Edmonton - Pest Control Edmonton I Pest Removal Edmonton I Pest Services in Edmonton"
 slug: "alberta-pest-services-edmonton-pest-control-edmonton-i-pest"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "pest-control"
 tier: "featured"
 description: ""

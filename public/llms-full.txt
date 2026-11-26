@@ -27,6 +27,8 @@ Each business listing includes: name, address, hours of operation, phone number,
 - **Plumbers** — https://wheretoyeg.ca/plumbers — Plumbing, HVAC, and roofing
 - **Electricians** — https://wheretoyeg.ca/electricians — Electrical contractors
 - **Cleaning Services** — https://wheretoyeg.ca/cleaning-services — Residential and commercial cleaning
+- **Moving & Storage**: https://wheretoyeg.ca/moving-storage. Movers and self storage facilities
+- **Home Services**: https://wheretoyeg.ca/home-services. Painters, landscapers, pest control and junk removal
 - **Grocery & Markets** — https://wheretoyeg.ca/grocery-markets — Grocery stores and specialty markets
 - **Medical** — https://wheretoyeg.ca/medical — Clinics, dentists, optometrists, pharmacies
 - **Photographers** — https://wheretoyeg.ca/photographers — Photography studios and videographers

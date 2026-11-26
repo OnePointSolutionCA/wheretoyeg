@@ -1,7 +1,7 @@
 ---
 name: "Dump and Dumper, Junk Removal"
 slug: "dump-and-dumper-junk-removal"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "junk-removal"
 tier: "featured"
 description: ""

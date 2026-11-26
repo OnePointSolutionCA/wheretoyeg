@@ -1,7 +1,7 @@
 ---
 name: "Landscaping Charm Experts Edmonton"
 slug: "landscaping-charm-experts-edmonton"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "landscaping"
 tier: "featured"
 description: "Landscaping Charm Experts Edmonton — landscaping in Edmonton, Edmonton. 64 Google reviews, 4.8★."

@@ -1,7 +1,7 @@
 ---
 name: "General Landscape"
 slug: "general-landscape"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "landscaping"
 tier: "featured"
 description: ""

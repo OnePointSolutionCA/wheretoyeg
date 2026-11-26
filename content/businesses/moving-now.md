@@ -1,7 +1,7 @@
 ---
 name: "Moving Now"
 slug: "moving-now"
-category: "cleaning-services"
+category: "moving-storage"
 subcategory: "moving"
 tier: "featured"
 description: ""

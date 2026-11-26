@@ -2,7 +2,7 @@
 name: "Neon Window Cleaning"
 slug: "neon-window-cleaning"
 category: "cleaning-services"
-subcategory: "house-cleaning"
+subcategory: "windows"
 tier: "featured"
 description: ""
 address: "74 Tonewood Blvd, Spruce Grove, AB T7X 0W4"
@@ -26,7 +26,7 @@ photos:
 rating: 4.9
 review_count: 52
 amenities: []
-tags: ["edmonton", "house-cleaning"]
+tags: ["edmonton", "windows"]
 active: true
 date_listed: "2026-10-02"
 reviews:

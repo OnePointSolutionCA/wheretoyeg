@@ -2,7 +2,7 @@
 name: "Kingdom MMA and Fitness"
 slug: "kingdom-mma-and-fitness"
 category: "gyms-fitness"
-subcategory: "boxing"
+subcategory: "martial-arts"
 tier: "featured"
 description: ""
 address: "9785 45th Ave NW, Edmonton, AB T6E 5V8"
@@ -27,7 +27,7 @@ rating: 5.0
 review_count: 203
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "boxing"]
+tags: ["edmonton", "martial-arts"]
 active: true
 date_listed: "2026-10-02"
 reviews:

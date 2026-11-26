@@ -1,7 +1,7 @@
 ---
 name: "Total Junk Ltd."
 slug: "total-junk-ltd"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "junk-removal"
 tier: "featured"
 description: ""

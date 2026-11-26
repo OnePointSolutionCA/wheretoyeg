@@ -2,7 +2,7 @@
 name: "Fort Orthodontics"
 slug: "fort-orthodontics"
 category: "medical"
-subcategory: "dentists"
+subcategory: "orthodontists"
 tier: "featured"
 description: ""
 address: "121 Town Crest Rd #107, Fort Saskatchewan, AB T8L 0G7"
@@ -27,7 +27,7 @@ rating: 4.9
 review_count: 98
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "dentists"]
+tags: ["edmonton", "orthodontists"]
 active: true
 date_listed: "2026-10-02"
 reviews:

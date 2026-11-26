@@ -1,7 +1,7 @@
 ---
 name: "Elite Self Storage St. Albert"
 slug: "elite-self-storage-st-albert"
-category: "cleaning-services"
+category: "moving-storage"
 subcategory: "self-storage"
 tier: "featured"
 logo: "/logos/elite-self-storage-st-albert.png"

@@ -2,7 +2,7 @@
 name: "Gong cha"
 slug: "gong-cha"
 category: "cafes-coffee-shops"
-subcategory: "tea"
+subcategory: "boba-bubble-tea"
 tier: "featured"
 description: ""
 address: "945 St Albert Trl #130, St. Albert, AB T8N 4K6"
@@ -29,7 +29,7 @@ amenities:
   - "Takeout"
   - "Delivery"
   - "Wheelchair Accessible"
-tags: ["edmonton", "tea"]
+tags: ["edmonton", "boba-bubble-tea"]
 active: true
 date_listed: "2026-10-02"
 reviews:

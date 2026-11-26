@@ -1,7 +1,7 @@
 ---
 name: "Ezy moving"
 slug: "ezy-moving"
-category: "cleaning-services"
+category: "moving-storage"
 subcategory: "moving"
 tier: "featured"
 description: ""

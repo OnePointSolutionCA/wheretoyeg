@@ -2,7 +2,7 @@
 name: "Platinum Window Cleaning"
 slug: "platinum-window-cleaning"
 category: "cleaning-services"
-subcategory: "house-cleaning"
+subcategory: "windows"
 tier: "featured"
 description: ""
 address: "51007 Range Rd 263, Spruce Grove, AB T7Y 1E2"
@@ -26,7 +26,7 @@ photos:
 rating: 5.0
 review_count: 28
 amenities: []
-tags: ["edmonton", "house-cleaning"]
+tags: ["edmonton", "windows"]
 active: true
 date_listed: "2026-10-02"
 reviews:

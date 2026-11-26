@@ -2,7 +2,7 @@
 name: "AB Property Detailing"
 slug: "ab-property-detailing"
 category: "cleaning-services"
-subcategory: "house-cleaning"
+subcategory: "windows"
 tier: "featured"
 description: ""
 address: "17 Davis St, Fort Saskatchewan, AB T8L 0N2"
@@ -26,7 +26,7 @@ photos:
 rating: 5.0
 review_count: 67
 amenities: []
-tags: ["edmonton", "house-cleaning"]
+tags: ["edmonton", "windows"]
 active: true
 date_listed: "2026-10-02"
 reviews:

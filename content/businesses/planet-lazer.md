@@ -2,7 +2,7 @@
 name: "Planet Lazer"
 slug: "planet-lazer"
 category: "activities-fun"
-subcategory: "karting"
+subcategory: "laser-tag"
 tier: "featured"
 description: "Planet Lazer — karting in West Edmonton, Edmonton. 320 Google reviews, 4.3★."
 address: "11271 170 St NW, Edmonton, AB T5M 0J1"
@@ -24,7 +24,7 @@ review_count: 325
 price_range: "$$"
 amenities:
 
-tags: ["edmonton", "karting"]
+tags: ["edmonton", "laser-tag"]
 active: true
 date_listed: "2026-08-30"
 reviews:

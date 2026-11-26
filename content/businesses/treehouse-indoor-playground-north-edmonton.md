@@ -2,7 +2,7 @@
 name: "Treehouse Indoor Playground - North Edmonton"
 slug: "treehouse-indoor-playground-north-edmonton"
 category: "activities-fun"
-subcategory: "arcades"
+subcategory: "indoor-playground"
 tier: "featured"
 description: ""
 address: "4235 139 Ave NW, Edmonton, AB T5Y 2W8"
@@ -27,7 +27,7 @@ rating: 4.4
 review_count: 1795
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "arcades"]
+tags: ["edmonton", "indoor-playground"]
 active: true
 date_listed: "2026-10-02"
 reviews:

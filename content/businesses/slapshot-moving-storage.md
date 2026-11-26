@@ -1,7 +1,7 @@
 ---
 name: "Slapshot Moving & Storage"
 slug: "slapshot-moving-storage"
-category: "cleaning-services"
+category: "moving-storage"
 subcategory: "moving"
 tier: "featured"
 description: ""

@@ -2,7 +2,7 @@
 name: "Clear Choice Home Services"
 slug: "clear-choice-home-services"
 category: "cleaning-services"
-subcategory: "house-cleaning"
+subcategory: "windows"
 tier: "featured"
 description: ""
 address: "200 Carnegie Dr, St. Albert, AB T8N 6B2"
@@ -26,7 +26,7 @@ photos:
 rating: 4.9
 review_count: 153
 amenities: []
-tags: ["edmonton", "house-cleaning"]
+tags: ["edmonton", "windows"]
 active: true
 date_listed: "2026-10-02"
 reviews:

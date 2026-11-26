@@ -2,7 +2,7 @@
 name: "Aponia Dental | North Edmonton Dentist"
 slug: "aponia-dental-north-edmonton-dentist"
 category: "medical"
-subcategory: "orthodontists"
+subcategory: "dentists"
 tier: "featured"
 description: ""
 address: "16751 91 St NW, Edmonton, AB T5Z 2X4"
@@ -27,7 +27,7 @@ rating: 4.7
 review_count: 240
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "orthodontists"]
+tags: ["edmonton", "dentists"]
 active: true
 date_listed: "2026-10-02"
 reviews:

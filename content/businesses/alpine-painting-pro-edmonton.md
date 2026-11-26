@@ -1,7 +1,7 @@
 ---
 name: "Alpine Painting Pro Edmonton"
 slug: "alpine-painting-pro-edmonton"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "painting"
 tier: "featured"
 description: ""

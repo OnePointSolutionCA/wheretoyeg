@@ -2,7 +2,7 @@
 name: "DETAIL BROS"
 slug: "detail-bros"
 category: "auto-repair"
-subcategory: "car-wash"
+subcategory: "detailing"
 tier: "featured"
 description: ""
 address: "10 Willow Link, Fort Saskatchewan, AB T8L 0L6"
@@ -26,7 +26,7 @@ rating: 4.9
 review_count: 62
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "car-wash"]
+tags: ["edmonton", "detailing"]
 active: true
 date_listed: "2026-10-02"
 reviews:

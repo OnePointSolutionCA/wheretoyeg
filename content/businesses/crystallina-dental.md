@@ -2,7 +2,7 @@
 name: "Crystallina Dental"
 slug: "crystallina-dental"
 category: "medical"
-subcategory: "orthodontists"
+subcategory: "dentists"
 tier: "featured"
 description: ""
 address: "6854 178 Ave NW, Edmonton, AB T5Z 0T5"
@@ -27,7 +27,7 @@ rating: 4.9
 review_count: 176
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "orthodontists"]
+tags: ["edmonton", "dentists"]
 active: true
 date_listed: "2026-10-02"
 reviews:

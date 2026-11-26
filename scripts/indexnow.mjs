@@ -40,6 +40,8 @@ const DEFAULT_PATHS = [
   '/grocery-markets',
   '/catering',
   '/cleaning-services',
+  '/moving-storage',
+  '/home-services',
   '/electricians',
   '/plumbers',
   '/photographers',

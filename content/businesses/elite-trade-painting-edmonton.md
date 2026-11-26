@@ -1,7 +1,7 @@
 ---
 name: "Elite Trade Painting - Edmonton"
 slug: "elite-trade-painting-edmonton"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "painting"
 tier: "featured"
 description: ""

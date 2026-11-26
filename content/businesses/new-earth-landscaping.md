@@ -1,7 +1,7 @@
 ---
 name: "New Earth Landscaping"
 slug: "new-earth-landscaping"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "landscaping"
 tier: "featured"
 description: ""

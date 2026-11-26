@@ -1,7 +1,7 @@
 ---
 name: "Major Pest Control Edmonton Inc"
 slug: "major-pest-control-edmonton-inc"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "pest-control"
 tier: "featured"
 description: "Major Pest Control Edmonton Inc — pest control in Edmonton, Edmonton. 3907 Google reviews, 4.9★."

@@ -2,7 +2,7 @@
 name: "Healing Point Massage Therapy"
 slug: "healing-point-massage-therapy"
 category: "medical"
-subcategory: "physiotherapy"
+subcategory: "massage-therapy"
 tier: "featured"
 description: ""
 address: "975 St Albert Trl #120, St. Albert, AB T8N 4K6"
@@ -27,7 +27,7 @@ rating: 4.9
 review_count: 932
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "physiotherapy"]
+tags: ["edmonton", "massage-therapy"]
 active: true
 date_listed: "2026-10-02"
 reviews:

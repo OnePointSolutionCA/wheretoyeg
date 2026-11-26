@@ -1,7 +1,7 @@
 ---
 name: "Helping Hands Family Movers"
 slug: "helping-hands-family-movers"
-category: "cleaning-services"
+category: "moving-storage"
 subcategory: "moving"
 tier: "featured"
 description: "Helping Hands Family Movers — moving in Downtown, Edmonton. 432 Google reviews, 4.8★."

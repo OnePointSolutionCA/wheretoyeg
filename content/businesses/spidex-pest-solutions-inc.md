@@ -1,7 +1,7 @@
 ---
 name: "SPIDEX PEST SOLUTIONS INC."
 slug: "spidex-pest-solutions-inc"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "pest-control"
 tier: "featured"
 description: ""

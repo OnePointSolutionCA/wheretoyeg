@@ -2,7 +2,7 @@
 name: "YEG Cycle Spin Studio"
 slug: "yeg-cycle"
 category: "gyms-fitness"
-subcategory: "gyms"
+subcategory: "cycling"
 tier: "featured"
 logo: "/logos/yeg-cycle.png"
 description: "High-energy spin studio on Whyte Ave. Motivating instructors, dark room, loud music, and a serious sweat. Classes morning through evening."

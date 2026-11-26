@@ -1,7 +1,7 @@
 ---
 name: "Junk Masterz"
 slug: "junk-masterz"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "junk-removal"
 tier: "featured"
 description: ""

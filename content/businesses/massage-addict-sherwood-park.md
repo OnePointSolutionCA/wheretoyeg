@@ -2,7 +2,7 @@
 name: "Massage Addict Sherwood Park"
 slug: "massage-addict-sherwood-park"
 category: "medical"
-subcategory: "chiropractors"
+subcategory: "massage-therapy"
 tier: "featured"
 description: ""
 address: "101 Bremner Dr #15, Sherwood Park, AB T8H 0M5"
@@ -27,7 +27,7 @@ rating: 4.3
 review_count: 286
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "chiropractors"]
+tags: ["edmonton", "massage-therapy"]
 active: true
 date_listed: "2026-10-02"
 reviews:

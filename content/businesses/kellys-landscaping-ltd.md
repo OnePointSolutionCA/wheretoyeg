@@ -1,7 +1,7 @@
 ---
 name: "Kelly's Landscaping LTD"
 slug: "kellys-landscaping-ltd"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "landscaping"
 tier: "featured"
 description: ""

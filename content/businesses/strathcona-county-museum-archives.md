@@ -2,7 +2,7 @@
 name: "Strathcona County Museum & Archives"
 slug: "strathcona-county-museum-archives"
 category: "activities-fun"
-subcategory: "outdoor"
+subcategory: "museums"
 tier: "featured"
 description: ""
 address: "913 Ash St, Sherwood Park, AB T8A 2G3"
@@ -28,7 +28,7 @@ review_count: 74
 amenities:
   - "Family Friendly"
   - "Wheelchair Accessible"
-tags: ["edmonton", "outdoor"]
+tags: ["edmonton", "museums"]
 active: true
 date_listed: "2026-10-02"
 reviews:

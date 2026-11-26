@@ -2,7 +2,7 @@
 name: "Drain Rooter Edmonton"
 slug: "drain-rooter-edmonton"
 category: "plumbers"
-subcategory: "residential"
+subcategory: "drain-cleaning"
 tier: "featured"
 description: ""
 address: "6334 Greenaway Ave, Edmonton, AB T5E 6Y6"
@@ -26,7 +26,7 @@ photos:
 rating: 4.7
 review_count: 441
 amenities: []
-tags: ["edmonton", "residential"]
+tags: ["edmonton", "drain-cleaning"]
 active: true
 date_listed: "2026-10-02"
 reviews:

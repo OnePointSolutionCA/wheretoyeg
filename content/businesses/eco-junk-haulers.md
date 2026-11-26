@@ -1,7 +1,7 @@
 ---
 name: "Eco Junk Haulers"
 slug: "eco-junk-haulers"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "junk-removal"
 tier: "featured"
 description: ""

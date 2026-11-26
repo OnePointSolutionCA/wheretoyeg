@@ -1,7 +1,7 @@
 ---
 name: "Yeg Edmonton Movers"
 slug: "yeg-edmonton-movers"
-category: "cleaning-services"
+category: "moving-storage"
 subcategory: "moving"
 tier: "featured"
 description: ""

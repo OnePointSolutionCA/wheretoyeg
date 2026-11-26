@@ -2,7 +2,7 @@
 name: "Henday Dental"
 slug: "henday-dental"
 category: "medical"
-subcategory: "orthodontists"
+subcategory: "dentists"
 tier: "featured"
 description: ""
 address: "1440 McConachie Blvd NW, Edmonton, AB T5Y 4B9"
@@ -27,7 +27,7 @@ rating: 4.9
 review_count: 220
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "orthodontists"]
+tags: ["edmonton", "dentists"]
 active: true
 date_listed: "2026-10-02"
 reviews:

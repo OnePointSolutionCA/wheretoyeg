@@ -2,7 +2,7 @@
 name: "WOLFHOUSE MMA"
 slug: "wolfhouse-mma"
 category: "gyms-fitness"
-subcategory: "boxing"
+subcategory: "martial-arts"
 tier: "featured"
 description: "WOLFHOUSE MMA — boxing in Edmonton, Edmonton. 101 Google reviews, 4.8★."
 address: "11507 120 St NW, Edmonton, AB T5G 2Y2"
@@ -24,7 +24,7 @@ review_count: 102
 price_range: "$$"
 amenities:
 
-tags: ["edmonton", "boxing"]
+tags: ["edmonton", "martial-arts"]
 active: true
 date_listed: "2026-08-30"
 reviews:

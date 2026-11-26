@@ -1,7 +1,7 @@
 ---
 name: "Smart Painting Ltd."
 slug: "smart-painting-ltd"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "painting"
 tier: "featured"
 description: ""

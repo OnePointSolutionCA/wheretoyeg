@@ -2,7 +2,7 @@
 name: "Sargent Shine Auto Detailing"
 slug: "sargent-shine-auto-detailing"
 category: "auto-repair"
-subcategory: "car-wash"
+subcategory: "detailing"
 tier: "featured"
 description: ""
 address: "25 Chisholm Ave #111B, St. Albert, AB T8N 5A5"
@@ -27,7 +27,7 @@ rating: 5.0
 review_count: 585
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "car-wash"]
+tags: ["edmonton", "detailing"]
 active: true
 date_listed: "2026-10-02"
 reviews:

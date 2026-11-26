@@ -2,7 +2,7 @@
 name: "Sage The Sol - Hot Yoga & Pilates"
 slug: "sage-the-sol-hot-yoga-pilates"
 category: "gyms-fitness"
-subcategory: "gyms"
+subcategory: "yoga"
 tier: "featured"
 description: ""
 address: "4726 50th Ave, Leduc, AB T9E 6Y2"
@@ -24,7 +24,7 @@ photos:
 rating: 5.0
 review_count: 59
 amenities: []
-tags: ["edmonton", "gyms"]
+tags: ["edmonton", "yoga"]
 active: true
 date_listed: "2026-10-02"
 reviews:

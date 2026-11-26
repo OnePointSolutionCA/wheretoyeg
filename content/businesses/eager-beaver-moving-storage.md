@@ -1,7 +1,7 @@
 ---
 name: "Eager Beaver Moving & Storage"
 slug: "eager-beaver-moving-storage"
-category: "cleaning-services"
+category: "moving-storage"
 subcategory: "moving"
 tier: "featured"
 description: ""

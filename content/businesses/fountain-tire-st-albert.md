@@ -2,7 +2,7 @@
 name: "Fountain Tire"
 slug: "fountain-tire-st-albert"
 category: "auto-repair"
-subcategory: "mechanics"
+subcategory: "tires"
 tier: "featured"
 description: ""
 address: "234 St Albert Trl, St. Albert, AB T8N 5H6"
@@ -28,7 +28,7 @@ review_count: 418
 amenities:
   - "Delivery"
   - "Wheelchair Accessible"
-tags: ["edmonton", "mechanics"]
+tags: ["edmonton", "tires"]
 active: true
 date_listed: "2026-10-02"
 reviews:

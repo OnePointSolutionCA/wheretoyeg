@@ -1,7 +1,7 @@
 ---
 name: "Abell Pest Control"
 slug: "abell-pest-control"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "pest-control"
 tier: "featured"
 description: ""

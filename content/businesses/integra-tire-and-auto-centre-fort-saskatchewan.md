@@ -2,7 +2,7 @@
 name: "Integra Tire and Auto Centre - Fort Saskatchewan"
 slug: "integra-tire-and-auto-centre-fort-saskatchewan"
 category: "auto-repair"
-subcategory: "mechanics"
+subcategory: "tires"
 tier: "featured"
 description: ""
 address: "11402 89 Ave, Fort Saskatchewan, AB T8L 2P1"
@@ -27,7 +27,7 @@ rating: 4.7
 review_count: 196
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "mechanics"]
+tags: ["edmonton", "tires"]
 active: true
 date_listed: "2026-10-02"
 reviews:

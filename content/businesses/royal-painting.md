@@ -1,7 +1,7 @@
 ---
 name: "Royal Painting"
 slug: "royal-painting"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "painting"
 tier: "featured"
 description: ""

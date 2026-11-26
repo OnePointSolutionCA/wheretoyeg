@@ -19,6 +19,8 @@ const NOUN: Record<string, string> = {
   plumbers: "plumbers",
   electricians: "electricians",
   "cleaning-services": "cleaning services",
+  "moving-storage": "movers and storage facilities",
+  "home-services": "home service companies",
   "grocery-markets": "grocery stores",
   medical: "clinics and health services",
   photographers: "photographers",

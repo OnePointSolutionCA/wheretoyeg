@@ -1,7 +1,7 @@
 ---
 name: "Five Star Painting of Edmonton NW"
 slug: "five-star-painting-of-edmonton-nw"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "painting"
 tier: "featured"
 description: ""

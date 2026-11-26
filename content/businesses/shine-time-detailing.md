@@ -2,7 +2,7 @@
 name: "Shine Time Detailing"
 slug: "shine-time-detailing"
 category: "auto-repair"
-subcategory: "car-wash"
+subcategory: "detailing"
 tier: "featured"
 description: ""
 address: "14-53223, Range Rd 264, Spruce Grove, AB T7X 3H5"
@@ -19,7 +19,7 @@ rating: 4.6
 review_count: 47
 amenities:
   - "Wheelchair Accessible"
-tags: ["edmonton", "car-wash"]
+tags: ["edmonton", "detailing"]
 active: true
 date_listed: "2026-10-02"
 reviews:

@@ -2,7 +2,7 @@
 name: "TELUS World of Science Edmonton"
 slug: "telus-world-of-science"
 category: "activities-fun"
-subcategory: "arcades"
+subcategory: "museums"
 tier: "featured"
 description: "Temporarily closed. Edmonton's science centre closed after storm flooding in July 2026, and it says its reopening is planned for early 2027. Check its website for updates."
 address: "11211 142 St NW"

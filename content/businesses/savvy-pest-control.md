@@ -1,7 +1,7 @@
 ---
 name: "Savvy Pest Control"
 slug: "savvy-pest-control"
-category: "cleaning-services"
+category: "home-services"
 subcategory: "pest-control"
 tier: "featured"
 description: ""
