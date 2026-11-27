@@ -24,7 +24,7 @@ photos:
   - "/photos/coco-fresh-tea-juice-windermere-g1.jpg"
   - "/photos/coco-fresh-tea-juice-windermere-g2.jpg"
 rating: 4.4
-review_count: 305
+review_count: 310
 amenities:
   - "Dine-In"
   - "Takeout"
@@ -34,18 +34,35 @@ tags: ["edmonton", "boba-bubble-tea"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Jinni Jin"
-    rating: 5
-    date: "2026-03-11"
+  - name: "Ess Rose"
+    rating: 4
     comment: |
-      Absolutely loved this place! The milk tea was incredibly smooth and flavorful, and you can really taste the quality of the ingredients. The sweetness level was perfect and the toppings were fresh and chewy. The staff were also super friendly and the service was fast. Definitely one of the best bubble tea spots I’ve been to. Highly recommend and will definitely come back again!
-  - name: "T"
+      Please hire more people. There’s two people here on a Sunday with 12 drinks lined up because of online orders and as a walk in customer I shouldn’t be waiting almost 20 mins for one drink. Poor workers…
+  - name: "Ron Bb"
     rating: 5
-    date: "2023-06-09"
     comment: |
-      CoCo Fresh is delicious! They have tons of options to choose from, including bubble tea, fruit tea, milk tea, and more.
+      I have been visiting this CoCo shop a lot more because of John. He's gentle and friendly, and he cares about the drinks he makes for his customers. Every time I walked out, I felt like I was a VIP. Thank you, John.
+  - name: "Julia Liao"
+    rating: 2
+    comment: |
+      Had a bad experience today at this Coco's with the girl who was taking my order who had a rude attitude.
       
-      We tried the passion fruit black tea with lychee popping jellies and pearl milk tea, both were really great. The staff are also friendly and fast.
+      Her tone was very impatient (for context, the only other customers in the store were a couple that had already gotten their drinks) and she was rude when I was asking questions. I asked if I could adjust the sweetness and the ice on some of my drinks (4 drinks) and she responded like I was stupid, telling me I couldn't adjust for some. Obviously that's fine I know different drinks have different policies but I was only wondering and her tone was very mean.
       
-      Give them a visit! The perfect treat for a hot day.
+      On top of that, I tried to enter my phone number for points but she wouldn't let me and dismissively insisted "I had already entered my phone number" when I definitely didn't since I was ordering...? It's not a big deal it's like 4 points lol but compounded with her tone, I did not appreciate it!
+      
+      Lastly, there were some things wrong with the drinks. I requested no ice on the 3 Guys Milk Tea since it's for my grandma who doesn't like it too cold but alas, there somehow ended up being a lot of ice in the drink! And this is one of the drinks that you CAN adjust ice for (which she not so graciously let me know). Additionally, the Peach Iced Tea which is supposed to come with crystal pearls ended up not having any.
+      
+      I would recommend making the drive to the Coco's South on Calgary Trail instead. They're always very kind and make my drinks correctly and they let me enter my phone number! Avoid this one.
+  - name: "Najma Faiz"
+    rating: 1
+    comment: |
+      Had a bad experience second time with the rude lady at the counter. Upon asking to modify the drink she first rejected that it can not be done. I requested that I have health issue with ice. She then agreed to not add but handed the drink with ice in it. I asked her which one doesn't have ice she rudely replied "there's a label on it, read it by yourself".
+      totally inappropriate and unprofessional way of handling customers.
+      
+      This was my last time visiting this place.
+  - name: "TresTravels"
+    rating: 1
+    comment: |
+      The lady taking our order was unwelcoming and seemed uninterested in providing a positive customer experience. Despite repeating our order word for word written down on my phone, she still got our order wrong. Her tone and attitude were inappropriate for a customer-facing role, especially in a place that is supposed to be a fun and happy environment.
 ---

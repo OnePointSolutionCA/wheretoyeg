@@ -33,29 +33,24 @@ date_listed: "2026-10-02"
 reviews:
   - name: "Elyse"
     rating: 5
-    date: "2026-08-03"
     comment: |
       We highly recommend her cleaning services. She always does a great job, shes reliable, professional, easy to communicate with and sends reminders before each visit, which I really appreciate. I'm very pleased with her work and would definitely recommend her to others.
   - name: "Christine Quong"
     rating: 5
-    date: "2026-07-28"
     comment: |
       Nataliia has been providing standard cleaning services for our home every two weeks for over a year now, and we couldn’t be happier with her work.
       She consistently does a fantastic, thorough job with all the regular tasks—floors, vacuuming, dusting, and making the bathrooms spotless. On top of her exceptional routine work, she is always happy to tackle deep-cleaning projects for specific areas or items whenever requested.
       Nataliia is dependable, detail-oriented, and a pleasure to work with. I would highly recommend her services to anyone looking for top-notch, reliable home cleaning!
-  - name: "JOHN UJONG"
+  - name: "Sarah Robinson"
     rating: 5
-    date: "2026-07-27"
     comment: |
-      Wonderful communication and highly efficient and thorough cleaning!
-  - name: "Tedi Wiegand"
-    rating: 5
-    date: "2026-08-05"
-    comment: |
-      They are always friendly, super flexible, and great at keeping us on track with cleaning reminders.  They are understanding on handling homes with pets, which is a bonus.
+      Comfort Life Cleaning comes highly recommended by our family. We’ve used them for many years and they do a great job every time. Reliable and trustworthy!
   - name: "Doug Lamb"
     rating: 5
-    date: "2026-08-03"
     comment: |
       Natalya has been cleaning our house for over a year now (South edmonton) on a monthly basis. She and her husband do a fantastic job. They are flexible on schedule, professional in how they communicate and are competitive with pricing. We highly recommend them!
+  - name: "Tedi Wiegand"
+    rating: 5
+    comment: |
+      They are always friendly, super flexible, and great at keeping us on track with cleaning reminders.  They are understanding on handling homes with pets, which is a bonus.
 ---

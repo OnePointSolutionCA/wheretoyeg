@@ -23,7 +23,7 @@ photos:
   - "/photos/coffee-bureau-mercury-block-g1.jpg"
   - "/photos/coffee-bureau-mercury-block-g2.jpg"
 rating: 4.8
-review_count: 120
+review_count: 132
 price_range: "$"
 amenities:
   - "Dine-In"
@@ -33,29 +33,30 @@ tags: ["edmonton", "specialty"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Bruce Mattia"
+    rating: 4
+    comment: |
+      Needed a coffee while we were at the 124th Street Market on Sunday, and Coffee Bureau is perfectly positioned, dishing out really good coffee to a crowd cruising fruits, vegetables and other market wares on a sunny day.
+      
+      Got a mocha to go and it was an absolute treat.  Really good coffee.
+      
+      They must do well in this part of town.  Lots of staff on, lots of apartment buildings in the neighbourhood, and I have a feeling it’s not just the market that supports this vibrant little store.
   - name: "J McDonald"
     rating: 5
-    date: "2026-07-16"
     comment: |
       Beautiful space, beautiful people and the best flat whites a gal could ask for. The space can get fast paced and airy with come and go customers on their morning commute and yet in the same breath, can be a sleepy escape between rushes. Customer service is personable and real which is a big part of why I keep coming back, despite no longer working in the area. Thanks for creating a community hub with solid sips!
-  - name: "Ezra Comeau"
+  - name: "Charul Bathla"
     rating: 5
-    date: "2026-08-03"
     comment: |
-      For nearly 10 years, Coffee Bureau has been my gold standard. With incredible coffee and a warm, caring staff, I always look forward to visiting. Whether I’m starting my morning, taking a study break, or unwinding after work, this cafe is a cornerstone of my daily routine.
-  - name: "Tat K"
+      We stopped by Coffee Bureau at the Mercury Block, and it completely blew us away!
+      I had the plain croissant, which was perfectly flaky and buttery, while my husband tried their ham croissant and loved every bite. But the real star of the show was the coffee. I ordered a sugar-free caramel coffee/latte, and it was hands-down one of the best I've ever had—rich, smooth, and full of flavor without being overly sweet.
+      Between the incredible coffee, amazing food, and warm, welcoming vibe, this has officially become our go-to spot for coffee and breakfast. We can't wait to come back!
+  - name: "Tat T"
     rating: 5
-    date: "2026-09-06"
     comment: |
       Coffee Bureau is hands down our favourite coffee shop in the city. The staff are kind & the coffee is always great! We look forward to stopping in there every weekend!
-  - name: "Jenna"
+  - name: "Ezra Comeau"
     rating: 5
-    date: "2026-04-03"
     comment: |
-      I usually go to the downtown location as it's close to my work, but I came to Mercury Block location today and it's lovely! Fantastic coffee and pastries as always, some of my favourite coffee in the city.
-  - name: "Iolanda Esposito"
-    rating: 5
-    date: "2026-07-01"
-    comment: |
-      Best Americano ever!!! I've  been dreaming about it . What type of bean do you use? I live in Vancouver  and would love to find a coffee place that serves  same coffee bean. I'll be back end of August.  😀
+      For nearly 10 years, Coffee Bureau has been my gold standard. With incredible coffee and a warm, caring staff, I always look forward to visiting. Whether I’m starting my morning, taking a study break, or unwinding after work, this cafe is a cornerstone of my daily routine.
 ---

@@ -20,7 +20,7 @@ hours:
   sunday: "9:00 AM–9:00 PM"
 photos: ["/photos/community-natural-foods-1.jpg", "/photos/community-natural-foods-2.jpg", "/photos/community-natural-foods-3.jpg"]
 rating: 4.3
-review_count: 128
+review_count: 131
 price_range: "$$"
 amenities:
 
@@ -28,6 +28,14 @@ tags: ["edmonton", "organic"]
 active: true
 date_listed: "2026-08-30"
 reviews:
+  - name: "Mtelfer"
+    rating: 5
+    comment: |
+      I absolutely love shopping at this organic grocery store! The customer service is always excellent, the food is fresh and high-quality, and the prices are very reasonable. The staff are friendly, welcoming, and always helpful. It's wonderful to find a store that offers great products at great prices. Highly recommend! I'll definitely keep coming back
+  - name: "Veronica C"
+    rating: 5
+    comment: |
+      We're hooked! We will definitely be doing our shopping here from now on. This place is amazing! It's clean, organized, and offers a variety of healthy food options. Their staff members are also diligent and friendly workers. We didn't have enough time to see everything, with it being the holidays. But we can't wait to come back and explore some more :)
   - name: "Janice Adam"
     rating: 5
     comment: |
@@ -44,16 +52,8 @@ reviews:
       A nice selection of Organic foods.
       
       They also have Hydroxyapatite toothpaste.
-  - name: "Veronica C"
-    rating: 5
-    comment: |
-      We're hooked! We will definitely be doing our shopping here from now on. This place is amazing! It's clean, organized, and offers a variety of healthy food options. Their staff members are also diligent and friendly workers. We didn't have enough time to see everything, with it being the holidays. But we can't wait to come back and explore some more :)
   - name: "Ivan Canadian"
     rating: 5
     comment: |
       This is a great natural grocery store and it has some sugar and gluten-free options. I enjoyed sour cream and milk products there. As well as its proximity to other natural grocery stores and bus stops.
-  - name: "eric2feathers"
-    rating: 1
-    comment: |
-      Today while shopping at your store, two female staff members at the front repeatedly stared at my son and I as if we were stealing. After we left the store, they took a photo of us. This behavior was rude, disrespectful, and made us feel very uncomfortable. ( people like this that makes me regret putting my life on the line to have served this country) If they had any concerns, they should've approached us politely — we had nothing to hide and would have cooperated. I expect better from your team and hope you'll speak with them about professional customer service." I definitively won't be coming back until this issue is rectified.
 ---

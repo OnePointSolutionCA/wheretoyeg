@@ -23,7 +23,7 @@ hours:
 photos:
   - "/photos/coco-fresh-tea-juice-south-g1.jpg"
 rating: 4.3
-review_count: 1293
+review_count: 1306
 amenities:
   - "Dine-In"
   - "Takeout"
@@ -34,19 +34,24 @@ tags: ["edmonton", "boba-bubble-tea"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Lance Rick Guevara"
+  - name: "lydia rose tiempo"
     rating: 5
-    date: "2026-09-04"
     comment: |
-      Store is clean, cheap, good quality drinks and great customer service. 100% recommended to try
-  - name: "Khoa Hải Yến"
+      Did a quick run around 8:41pm on a Sunday. There was a line up. Ordered the Creme Brulee brown sugar pearl latte. 👍⭐️
+  - name: "kassey gabrielle balabbo"
     rating: 5
-    date: "2026-04-20"
     comment: |
-      It’s a great spot to get milk tea more affordable than many other brands, and the quality can even be better. I really like it. The staff are decent, though they sometimes run out of toppings or drinks. Overall, I’d still come back
-  - name: "Anjelyn Angeles"
+      Had such a wonderful experience at Coco! The lady who assisted us was incredibly kind, friendly, and welcoming. She was so sweet and made us feel genuinely appreciated as customers. Her excellent customer service really made our visit extra special! It’s rare to meet someone who goes above and beyond to make customers feel comfortable and happy. Definitely coming back because of her! ❤️ Her name was Daneee! We always go to coco almost everywhere in Edmonton but only this time we felt such a friendly environment! Thanks to you DANE!
+  - name: "Becky So"
+    rating: 1
+    comment: |
+      I would like to file a complaint about my order from tonight. I purchased two cups of bubble tea. One was a regular flavor, and the other was an oolong milk tea. My oolong milk tea had absolutely no flavor; there was no tea taste at all—just a plain milk flavor. I have been ordering this drink for a long time, and I know how it is supposed to taste. Even after switching to a new one today, it was still the same. I believe you need to adjust the concentration of your tea base. I hope you will look into this issue.
+  - name: "Johnny"
+    rating: 1
+    comment: |
+      I’d give zero stars if I could. Really frustrating experience and terrible customer service. I just wanted a 32 oz drink with 2 toppings, but they told me I had to get all 5 and didn’t really explain why. I even suggested adding more ice if they didn’t want to use more tea, but they still wouldn’t accommodate me. Now I have to drive across the city to the Manning location, which is always happy to accommodate my request. Definitely not coming back to this location and wouldn’t recommend it.
+  - name: "Lauren Hill"
     rating: 5
-    date: "2025-10-18"
     comment: |
-      I love this Coco! In my honest opinion, the atmosphere is very calming and clean, the drinks are extremely delicious, and the wait time isn't too long. Also, as you wait, they have claw machines you can you. I'd 100% recommend this place to my friends.
+      Went with my son for lunch and we both loved it! It helps that the guy serving us seemed to really love his job which is always appreciated :) will most certainly be returning! I can't remember the exact flavor I got but it was a coffee flavor and was superb!
 ---

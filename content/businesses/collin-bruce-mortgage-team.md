@@ -24,47 +24,41 @@ photos:
   - "/photos/collin-bruce-mortgage-team-g1.jpg"
   - "/photos/collin-bruce-mortgage-team-g2.jpg"
 rating: 4.7
-review_count: 414
+review_count: 428
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "mortgage"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Rah K"
+    rating: 5
+    comment: |
+      Collin and his team were amazing! Although we had a tight closing timeline, and it was our first time buying a house, they worked with us every step of the way. Communication was timely and smooth. Collin would respond almost immediately to any questions we had! Their professionalism and responsiveness made the whole process so much easier. Highly recommend Collin and his team!
+  - name: "Jesse"
+    rating: 5
+    comment: |
+      I had an excellent experience working with Collin and his team throughout the process of securing the mortgage for my new home. From start to finish, they were professional, knowledgeable, responsive, and genuinely committed to making the process as smooth and stress-free as possible.
+      
+      Collin and his team were always available to answer my questions, explain the different options, and keep me updated every step of the way. Their communication and attention to detail gave me a lot of confidence throughout what can otherwise be a pretty overwhelming process.
+      
+      I truly appreciate all the time and effort they put into helping me get into my new home. I would highly recommend Collin Bruce and his team to anyone looking for a mortgage broker who is reliable, approachable, and willing to go the extra mile for their clients.
+      
+      Thank you again for all your help in making this happen!
   - name: "Chris Campbell"
     rating: 5
-    date: "2026-07-15"
     comment: |
       We can’t thank Mike, Jodi, and the entire Collin Bruce Mortgage Team enough for everything they did to help us get into our dream home!
       
       I first heard the ad on the radio and, to be honest, I was a little skeptical. But I decided to reach out anyway, and I’m so glad I did. From start to finish, the process was quick, straightforward, and completely painless. Mike and Cynthia were incredibly helpful, knowledgeable, and always there to answer our questions and guide us every step of the way.
       
       We are beyond happy with the service we received and even happier to now be in our dream home. If you’re on the fence about reaching out, don’t hesitate you won’t regret it. Highly recommend the Collin Bruce Mortgage Team!
-  - name: "Dawn Harper"
+  - name: "Julius Marzan"
     rating: 5
-    date: "2026-04-23"
     comment: |
-      I am so grateful to the team at Collin Bruce.  I was struggling so much to meet my payments with high interest loans and a high interest mortgage. My credit was not great, but working with The team at Collin Bruce has made my life much easier to navigate.  They worked  hard to consolidate my debts and get me a decent rate for a new mortgage.  I can breathe again and am able to manage my new payments so much better.  I really didn’t think it would be possible, but working together with them made it so much easier to get everything done. Thank you to Collin Bruce, Robyn, and Andrea for all the hard work you put into my situation and for finding the best solutions for me! Definitely recommend anyone that needs help with a mortgage!! I am very grateful to you all for your help and compassion to get my life back on track!
+      Consistency and excellent service are hard to find, but Collin and his team nail it every time. We just completed our third transaction with them, and once again, we are completely satisfied. They are knowledgeable, responsive, and truly look out for their clients' best interests. We look forward to continuing to work with them for all our future mortgage needs!
   - name: "Ahsan Rajper"
     rating: 5
-    date: "2026-08-20"
     comment: |
       Our experience with Collin and his team (Martina) was amazing. We had very short time for the whole process, Collin and his team were super efficient to get us mortgage in short amount of time. Very easy to communicate with. Highly recommended!
-  - name: "Karrie Wickett"
-    rating: 5
-    date: "2026-04-09"
-    comment: |
-      Collin and his team were amazing through the entire process of purchasing our new home. They are extremely professional, knowledgeable and efficient.
-      Collin and Jody were both so patient with all of our questions and kept us up to date through the whole process and ensured we felt comfortable, confident and happy with our decision.
-      We would not hesitate at all to recommend to anyone who is looking for a new mortgage whether new or renewal.
-      Thanks again!
-  - name: "Baranjka1"
-    rating: 5
-    date: "2026-02-03"
-    comment: |
-      We had an excellent experience with the Collin Bruce Mortgage Team. We were extremely satisfied with the level of service provided from start to finish. Everything we asked for was handled professionally, efficiently, and the final outcome was even better than we had expected.
-      
-      We would like to give a special shout-out to Monika T. from their team. She did an outstanding job, showed incredible patience, and was always willing to explain everything clearly. She handled all of our calls with kindness and professionalism, and we truly appreciate her dedication and support throughout the entire process.
-      
-      We are very happy with the service and the entire team, and we would warmly and wholeheartedly recommend the Collin Bruce Mortgage Team to anyone looking for a mortgage or renewal like us .
 ---

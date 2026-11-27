@@ -22,7 +22,7 @@ hours:
 photos:
   - "/photos/common-ground-coffee-g1.jpg"
 rating: 4.7
-review_count: 462
+review_count: 485
 price_range: "$$"
 amenities:
   - "Dine-In"
@@ -32,32 +32,34 @@ tags: ["edmonton", "roasters"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "Cory Folk"
+  - name: "Lillian Nguyen"
     rating: 5
-    date: "2026-08-04"
     comment: |
-      The food was great and the matcha was probably the best in town. Expensive but comparable price wise to Starbucks. But the quality is the next level. My wife had a cheesecake and a tiramisu matcha drink and I had the mango matcha. It got really busy when we were there luckily we got there 10 mins earlier.
-  - name: "Ms Jay"
-    rating: 5
-    date: "2026-05-14"
+      A 40-minute drive but I’ve been here three times in one month, twice in one day! Everything is fantastic. I absolutely love their tiramisu cream whether it’s on matcha or a latte. Their nutella croissant and garlic salt bread are amazing too. I’m honestly obsessed and will definitely be back again!
+  - name: "The Local Nibbler"
+    rating: 3
     comment: |
-      I'm here for the first time and I fall in love 😍 this is my new to go matcha place. There are so many matcha options and they are sooooo goooooood!! The interior is stylish, touch of Japanese style. Bakery is in house made. Good quality of matcha. Love love 🙌
+      Nice little spot, but come prepared — it gets really busy on the weekend and seating is limited, so you may end up waiting or squeezing in.
       
-      Seasonal Dubai croissant - highly recommend
-      Seasonal matcha slush - highly recommend
-  - name: "mala marshmallow"
+      One thing to know: drinks for the dine-in portions are way smaller than the takeout ones, which was a bit disappointing. On the plus side, the taste is good — the matcha latte and Basque cheesecake were both nice and not too sweet.
+      
+      Worth a visit if you don't mind the crowd and the smaller servings — or just order to go.
+  - name: "Daniel Tran"
     rating: 5
-    date: "2026-05-09"
     comment: |
-      Literally feels like I’m in a cute cafe in Japan. Dare i say this is the BEST matcha in the city. Also the people working there are so freaking nice. I got my mom to try their matcha and now my whole family is addicted somehow. Also the mango matcha like you can taste REAL MANGO.
-  - name: "Marie L"
+      Visit: September 2026
+      
+      A very cosy and aesthetic cafe, I really love the vibes inside. Drinks are on the more pricey end, but they were good. Had the tiramisu matcha latte, and I found the foam to be creamy and sweet and blended well with the matcha.
+      
+      Also got to try the strawberry matcha latte and that was also nice, the strawberries helped make the drink the perfect sweetness
+  - name: "Madisonkd"
     rating: 5
-    date: "2026-04-19"
     comment: |
-      We’ve been coming here since they first opened in the area, and it’s easily one of our fav cafes in the city. It’s our go-to spot for matcha and their salt bread, both are consistently so good!!
-  - name: "Anjenete Malate"
-    rating: 4
-    date: "2026-07-06"
+      A true gem. I live nowhere’s near here but saw the reviews & had to try it out. Definitely worth the drive. A line out the door but it went quick. I had to try the Strawberry Matcha & the Garlic Salt Bread to see if they lived up to the hype. They did! Easily the smoothest iced matcha I’ve had. That bread though was next level yummy. I might have to make a regular trek to the far south west to try more things!
+      P.S. Came back to try the Tiramisu Cream Latte. Drinkable dessert but not too sweet: perfection!
+  - name: "Kira Kovi"
+    rating: 5
     comment: |
-      It’s a pretty busy place. The service was great, pretty friendly staff. Loved the basque cheesecake, my friend enjoyed their strawberry matcha latte. I had the tiramisu latte and it’s okay.
+      First time going here and I'm very impressed! I got their seasonal pumpkin matcha and FINALLY somewhere that can actually do proper matcha! It wasn't too sweet, you could actually taste the matcha and it wasn't overwhelmed with sugary additions into the drink. The pumpkin was just enough of an accent to be pleasant without overwhelming as well!
+      I also got their cheesecake which was delightful. Will definitely be returning!
 ---

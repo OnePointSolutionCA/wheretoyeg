@@ -23,37 +23,34 @@ hours:
 photos:
   - "/photos/collins-chiropractic-health-wellness-centre-g1.jpg"
 rating: 5.0
-review_count: 246
+review_count: 253
 amenities: []
 tags: ["edmonton", "chiropractors"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "craig tayler"
+  - name: "Kent Stevens"
     rating: 5
-    date: "2026-08-05"
     comment: |
-      Dr. Collins has been exceptionally helpful for both me and my wife. Have been looking for a good chiropractor who cares and knows what he is doing and definitely found that here.
+      Ive been going here for 25 years on and off in my travels. Every time i stopped in edmonton id see Dr. Collins. He is wise. Great at his job. He is the gold standard on chiropractic care. And I've been seeing chiropractors in 3 provinces and 6 cities. Dr. Collins reigns supreme in my opinion. I cant be a commercial plumber without him.
+      He is a necessity if your back is sore.
+      Go. Now. Call. Get in. Get better.
+  - name: "Madison Wozny"
+    rating: 5
+    comment: |
+      Dr. Collins is super friendly and is super easy to talk with I’ve been going to his centre for a year and I use to have to go every two weeks but now I can go a month between appointments and I have noticed significant improvement to my back issues. Highly recommend seeing him.
+  - name: "Miles"
+    rating: 5
+    comment: |
+      Last week I had tweaked my back And it was very painful Dr. Collin was able to get me in and an accommodate On short notice. After just two sessions, the pain has 100% gone away. Dr. Collin does extremely good work and is extremely knowledgable and good at what he does.
       
-      Highly, highly recommended.
-  - name: "Roaming Smurf"
+      Thank you again! I feel back to normal now! I highly recommend!
+  - name: "Jehad Hamdan"
     rating: 5
-    date: "2026-06-16"
     comment: |
-      Dr Collins is amazing. He doesn’t run a traditional set routine chiropractic business. Instead he diagnoses the issue and treats it. It still amazes me how he moves a part of your body that you think is unrelated and yet finds the issue. So glad to have been referred to him.
-  - name: "STEFAN DIACONU"
+      Dr. Collins is excellent! He’s knowledgeable, professional, and genuinely cares about his patients. I’ve had a great experience every time and would highly recommend him to anyone looking for a great chiropractor.
+  - name: "Harlley Snow"
     rating: 5
-    date: "2026-03-19"
     comment: |
-      I visited dr. Collins today for my sciatica problem on my left leg. I have survived with pain on leg for 4 months, but it was too long. I have tried many solutions like chiropractic with another doctor, medication, physiotherapy and massage. Nothing worked on my pain. Then, I decided to try one more time chiropractic solution with another doctor. I did search for best chiropractor in Edmonton. This is how I found out about dr. Collins. In the first session he did my assessment and explained in detailed where pain is coming from and give me confidence that I can heal in short time. He started today with my spline adjustment from neck to hip. After each adjustment doctor checked if adjustment change the strength on my left . Before adjustment it was weak compared to right. It was amazing to see how strength improved just in one session. I am very optimistic and looking forward to see dr. Collins again tomorrow. I will come with more reviews after next sessions.
-  - name: "Chelsea Ells"
-    rating: 5
-    date: "2026-01-29"
-    comment: |
-      I had been seeing Dr. Collins for years now and he is always amazing with me and my kids. He takes his time to make sure he does everything he needs to at each appointment. Never rushed and I always feel like he puts in a lot of care and attention to detail. I highly recommend him.
-  - name: "Liz Herbert"
-    rating: 5
-    date: "2026-04-21"
-    comment: |
-      I’ve been a patient of Dr. Collins’ for many years now. I see him for ongoing health check ins and when I have a specific issue he iis able to help me with that  as well. He has a highly professional but also practical approach. I would highly recommend him!
+      Dr. Collins appears to know very well how the body functions and our systems interact with each other. After one visit, it is too early to tell if treatments will be successful. I have confidence that they will be.
 ---

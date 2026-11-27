@@ -24,21 +24,23 @@ photos:
   - "/photos/coloniale-golf-club-g1.jpg"
   - "/photos/coloniale-golf-club-g2.jpg"
 rating: 4.2
-review_count: 343
+review_count: 347
 amenities:
   - "Wheelchair Accessible"
 tags: ["edmonton", "outdoor"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "Natalia 0"
+    rating: 5
+    comment: |
+      I attended a wedding here this past weekend, and wow, what an amazing experience. The venue itself is beautiful, but what truly stood out to me was the incredible staff. There were two waitresses who were absolutely wonderful. They were kind, professional, and had such amazing manners throughout the entire evening. One of the waitresses even mentioned that she spoke a little bit of Polish, and she took the time to chat with us, which made us feel genuinely welcomed and valued as guests. It was so lovely to see staff who truly cared about making everyone’s experience special. Their kindness, attentiveness, and professionalism did not go unnoticed. Thank you for hiring such amazing and talented servers they really make a venue be awesome!
   - name: "Nelly Dover"
     rating: 5
-    date: "2025-09-25"
     comment: |
       Keirstyn and Charlotte were extremely patient and professional. The Coloniale Golf Club was the perfect venue for our celebration. The food was absolutely delicious, and they were incredibly flexible with our booking. The staff was supportive and attentive throughout the entire process, making everything smooth and stress-free.
   - name: "Bruce Mattia"
     rating: 4
-    date: "2025-05-17"
     comment: |
       Colonial is my home course.  Four of the five of us Golf Buddies are out here all summer — Fridays are the day always chosen.  Sometimes a fringe guy fills in, but a core crew was out today.
       
@@ -47,9 +49,13 @@ reviews:
       There were a lot of dandelions today.  Like, a lot.  But the grounds crew was out there hustling, as always.  They keep the place looking sharp — they just haven’t figured out how to ban weeds from sprouting overnight.
       
       Bottom line: I’ll be back on a future Friday.
-  - name: "Neville Hynes"
+  - name: "Jay"
     rating: 5
-    date: "2026-07-28"
     comment: |
-      Great course. Great service. Went with a larger group for a wedding and had a blast.
+      Colonial Golf Club was a good course and I enjoyed my round. The staff were friendly and welcoming, and the course itself was enjoyable to play. Overall, it was a solid golf experience and a nice course to spend the day on. I’d definitely play here again!
+  - name: "Brian H"
+    rating: 5
+    comment: |
+      Nice course reasonably priced with cart included. Decent length from the back tees for the good golfers. Forgiving from the blues and the whites. Not a lot of lost balls.
+      Well kept fairways greens and rough. Tee times reasonably spaced.
 ---

@@ -24,7 +24,7 @@ photos:
   - "/photos/coco-fresh-tea-juice-north-g1.jpg"
   - "/photos/coco-fresh-tea-juice-north-g2.jpg"
 rating: 4.4
-review_count: 667
+review_count: 670
 amenities:
   - "Dine-In"
   - "Takeout"
@@ -35,20 +35,8 @@ tags: ["edmonton", "boba-bubble-tea"]
 active: true
 date_listed: "2026-10-02"
 reviews:
-  - name: "John Leenheer"
-    rating: 5
-    date: "2026-02-04"
-    comment: |
-      Coco’s Fresh Tea & Juice (bubble tea) has great drinks, a warm atmosphere, and standout downtown Edmonton mural art to enjoy. Free shared parking and a family-friendly setup with comfy low seating and a fun stuffed-toy game at the entrance. Tried the piña colada—can’t wait to come back. Visited Winter 2026.
-      
-      For a closer look —
-      Coco’s on 97th Street in North Edmonton (YEG) feels welcoming the moment you walk in—warm lighting, an original vibe, and mural-style local art featuring recognizable parts of downtown Edmonton. It’s an easy place to drop in with family or friends: comfortable low-profile seating, a playful stuffed-toy game right at the entrance, and fun items for sale that add to the personality of the space. The piña colada bubble tea was a tasty standout this visit, and it’s the kind of spot that makes you want to try a different drink next time.
-      
-      Practical Note:
-      Patrons’ restroom was not available during this visit.
   - name: "Rose Q"
     rating: 5
-    date: "2025-10-25"
     comment: |
       I gave Coco's new promotional drinks a try. The lady who served me was very helpful. She recommend reducing the sugar levels slightly on each drink and I am thankful I took her advice as I don't like my drinks overly sweet.
       
@@ -57,16 +45,33 @@ reviews:
       While the Mango Pomelo Sago Smoothie at 70% sugar, you first taste the mango but then the Pomelo hits you with a slight tang. The smoothie was thick and creamy. I really enjoyed the smaller sago in this smoothie, it gave it a really nice texture contrast.
       
       I will definitely consider ordering these again if I ever want a change from my favorites. My current favorite is the 3 guys in their wonderful 32 oz. reusable Quencher cup. I finally have a bubble tea that will last me the entire day, lol. 😁 I only wish Coco would include other popular flavours like Mango Dream in their Quencher cup size. Please? 🙂🙏
+  - name: "John Leenheer"
+    rating: 5
+    comment: |
+      Coco’s Fresh Tea & Juice (bubble tea) has great drinks, a warm atmosphere, and standout downtown Edmonton mural art to enjoy. Free shared parking and a family-friendly setup with comfy low seating and a fun stuffed-toy game at the entrance. Tried the piña colada—can’t wait to come back. Visited Winter 2026.
+      
+      For a closer look —
+      Coco’s on 97th Street in North Edmonton (YEG) feels welcoming the moment you walk in—warm lighting, an original vibe, and mural-style local art featuring recognizable parts of downtown Edmonton. It’s an easy place to drop in with family or friends: comfortable low-profile seating, a playful stuffed-toy game right at the entrance, and fun items for sale that add to the personality of the space. The piña colada bubble tea was a tasty standout this visit, and it’s the kind of spot that makes you want to try a different drink next time.
+      
+      Practical Note:
+      Patrons’ restroom was not available during this visit.
   - name: "Steve C"
     rating: 5
-    date: "2025-10-26"
     comment: |
       ⭐️⭐️⭐️⭐️⭐️
       
       Coco Bubble Tea never disappoints! The service is always quick and friendly, and the staff go out of their way to make sure everything’s just right. The drinks taste amazing — always fresh, flavorful, and perfectly balanced. Prices are super reasonable for the quality you get. Definitely my go-to spot for bubble tea — highly recommend!
-  - name: "Yamariposa"
+  - name: "Charlene Espelita"
     rating: 5
-    date: "2026-02-15"
     comment: |
-      Great drinks, beautiful interior and a fun atmosphere! I loved playing the clamp/claw game they have inside. It’s a cool place to hang out and grab a treat. Highly recommended if you’re in the area!
+      We always have the best experience in this CoCo location! Kate is very approachable and even recommended the best drinks! The drinks were too pretty — had to take some pictures! The store is very neat and clean too! They even have some new MERCH!!! Super cute 🫰🏻🩷
+      
+      Orders:
+      - Mango Dream with Sago
+      - Passion Fruit Green Tea with Lychee Popping  Pearls and Coconut Jelly
+      - Mango Dream with Pearls
+  - name: "The BoneMan"
+    rating: 5
+    comment: |
+      I go here fairly regularly with my granddaughter for bubble tea. There is a good selection of teas, they are prepared quickly and they are very good. Lots of options. The place is clean and the staff are friendly and provide good service.
 ---

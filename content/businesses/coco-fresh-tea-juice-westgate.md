@@ -24,7 +24,7 @@ photos:
   - "/photos/coco-fresh-tea-juice-westgate-g1.jpg"
   - "/photos/coco-fresh-tea-juice-westgate-g2.jpg"
 rating: 4.3
-review_count: 246
+review_count: 250
 amenities:
   - "Dine-In"
   - "Takeout"
@@ -34,14 +34,32 @@ tags: ["edmonton", "boba-bubble-tea"]
 active: true
 date_listed: "2026-10-02"
 reviews:
+  - name: "The Flavor Voyager"
+    rating: 5
+    comment: |
+      Loved the avocado smoothie here! Super fresh and flavorful. The store is exceptionally clean, and the team is warm and welcoming. Will definitely be back.
+  - name: "Mary Rose Malabanan"
+    rating: 5
+    comment: |
+      I always have a great experience at CoCo Fresh Tea & Juice! The drinks are delicious, fresh, and consistently made well. There are so many options to choose from, and the staff are always friendly and welcoming. The service is quick, and the store has a nice, clean atmosphere.
+      
+      Definitely one of my favorite places to grab a refreshing drink! 🧋💗 Highly recommend CoCo to anyone looking for good bubble tea and great service!
+  - name: "Lillian Lin"
+    rating: 1
+    comment: |
+      Not very happy about the drinks
+      
+      I order 3 guys but it came with no grass jelly…..
+      And another drink was not sealed properly. It splashed all over my bag and 1/3 of the drink was gone…….
+      Very bad experience
+      Waste my money and disappointed with their customer service.
+      Will never go back again
   - name: "CJ"
     rating: 5
-    date: "2026-03-20"
     comment: |
       CoCo Bubble Tea never disappoints. This location is super convenient for quick stops, especially after mall hours. Their new Crème Brûlée series are really good and a must-try 😊🧋
   - name: "Birdevinder Singh"
     rating: 5
-    date: "2026-06-26"
     comment: |
       ⭐⭐⭐⭐⭐
       
