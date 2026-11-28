@@ -208,7 +208,7 @@ const SUB_TYPE: Record<string, Record<string, string>> = {
     childcare: "daycare", "driving-school": "driving school", "pet-grooming": "pet groomer", mortgage: "mortgage broker",
     printing: "print shop", tutoring: "tutoring service", "security-services": "security company",
     "first-aid-training": "first aid and CPR training centre", "clothing-gifts": "clothing and gift shop",
-    taxi: "taxi company", "property-management": "property management company", "phone-repair": "phone and computer repair shop", staffing: "staffing agency",
+    taxi: "taxi company", "property-management": "property management company", "phone-repair": "phone and computer repair shop", "electronics-cameras": "electronics and camera store", staffing: "staffing agency",
   },
   "spas-esthetics": {
     facials: "facial and skin care studio", hydrafacial: "HydraFacial studio", waxing: "waxing studio", "laser-hair-removal": "laser hair removal clinic",
@@ -301,7 +301,7 @@ export const SUB_HEADING: Record<string, Record<string, string>> = {
     "driving-school": "Driving Schools", "pet-grooming": "Pet Groomers", mortgage: "Mortgage Brokers", printing: "Print Shops", tutoring: "Tutors",
     "security-services": "Security Companies", "first-aid-training": "First Aid & CPR Courses",
     "clothing-gifts": "Clothing & Gift Shops", taxi: "Taxi Companies",
-    "property-management": "Property Managers", "phone-repair": "Phone & Computer Repair Shops", staffing: "Staffing Agencies",
+    "property-management": "Property Managers", "phone-repair": "Phone & Computer Repair Shops", "electronics-cameras": "Electronics & Camera Stores", staffing: "Staffing Agencies",
   },
   photographers: {
     wedding: "Wedding Photographers", family: "Family Photographers", brand: "Brand & Product Photographers", events: "Event Photographers",

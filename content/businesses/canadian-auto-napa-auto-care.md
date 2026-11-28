@@ -1,14 +1,15 @@
 ---
-name: "Canadian Auto Napa Auto Care"
+name: "Canadian Auto NAPA Auto Care"
 slug: "canadian-auto-napa-auto-care"
 category: "auto-repair"
 subcategory: "mechanics"
 tier: "featured"
-description: ""
+description: "Canadian Auto NAPA Auto Care is a family owned auto repair and tire shop at 25 Chisholm Avenue in St. Albert, serving St. Albert, Edmonton and nearby communities. The shop says it has worked on vehicles since 1988.\n\nServices include diagnostics, oil changes, brake and battery service, steering and suspension repairs, engine and transmission repairs and A/C service. They supply and install tires and custom wheels, do wheel alignments, and carry out Alberta out of province and commercial inspections plus light duty fleet maintenance. Canadian Auto also sells used vehicles.\n\nBook on their website or call. Sunday and after hours visits are by appointment."
 address: "25 Chisholm Ave #109, St. Albert, AB T8N 5A5"
 neighborhood: "St. Albert"
 phone: "(780) 569-0654"
-website: "http://www.canadianautonapa.ca/"
+email: "info@canadianautonapa.ca"
+website: "https://www.canadianautonapa.ca/"
 google_maps_url: "https://maps.google.com/?cid=16952440039985144138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
 latitude: 53.637581
 longitude: -113.570610
@@ -21,14 +22,20 @@ hours:
   saturday: "9:30 AM–2:00 PM"
   sunday: "Closed"
 photos:
-  - "/photos/canadian-auto-napa-auto-care-g1.jpg"
-  - "/photos/canadian-auto-napa-auto-care-g2.jpg"
+  - "/photos/canadian-auto-napa-auto-care-1.jpg"
+  - "/photos/canadian-auto-napa-auto-care-2.jpg"
+  - "/photos/canadian-auto-napa-auto-care-3.jpg"
+  - "/photos/canadian-auto-napa-auto-care-4.jpg"
 rating: 5.0
-review_count: 335
+review_count: 336
 amenities:
-  - "Delivery"
+  - "Tire Sales and Installation"
+  - "Wheel Alignment"
+  - "Out of Province Inspections"
+  - "Used Vehicle Sales"
+  - "Online Booking"
   - "Wheelchair Accessible"
-tags: ["edmonton", "mechanics"]
+tags: ["edmonton", "st. albert", "mechanics", "tires", "vehicle inspections", "used vehicles"]
 active: true
 date_listed: "2026-10-02"
 reviews:
